@@ -1,0 +1,47 @@
+[
+  {
+    "id": "2025-non-book-reviews",
+    "name": "2025 Non-Book Reviews",
+    "year": 2025,
+    "type": "non-book",
+    "description": "Reviews of music, games, TV/movies, and other non-book subjects",
+    "reviewCount": 0,
+    "sourceType": "both"
+  },
+  {
+    "id": "2024-book-reviews",
+    "name": "2024 Book Reviews",
+    "year": 2024,
+    "type": "book",
+    "description": "Book review contest entries from 2024",
+    "reviewCount": 0,
+    "sourceType": "both"
+  },
+  {
+    "id": "2023-book-reviews",
+    "name": "2023 Book Reviews",
+    "year": 2023,
+    "type": "book",
+    "description": "Book review contest entries from 2023",
+    "reviewCount": 1,
+    "sourceType": "both"
+  },
+  {
+    "id": "2022-book-reviews",
+    "name": "2022 Book Reviews",
+    "year": 2022,
+    "type": "book",
+    "description": "Book review contest entries from 2022",
+    "reviewCount": 0,
+    "sourceType": "both"
+  },
+  {
+    "id": "2021-book-reviews",
+    "name": "2021 Book Reviews",
+    "year": 2021,
+    "type": "book",
+    "description": "Book review contest entries from 2021",
+    "reviewCount": 0,
+    "sourceType": "acx"
+  }
+]

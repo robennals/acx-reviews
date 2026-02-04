@@ -1,0 +1,102 @@
+{
+  "2024-book-reviews": [
+    {
+      "docId": "1AXmWgSbh_TFsoZuApSCSEoz57yn93CM5YYhtaO_s4W4",
+      "name": "A - D",
+      "type": "composite"
+    },
+    {
+      "docId": "1QiotH3aGFgNLGqsIHTK_Plm_gem2E4l2C2ctyGJd0jY",
+      "name": "E - I",
+      "type": "composite"
+    },
+    {
+      "docId": "1cp6iw5OEyDjnD_viZo-KL0Zv4jwQnMXtE4yIovfVAco",
+      "name": "L - P",
+      "type": "composite"
+    },
+    {
+      "docId": "1GYQw3pgvhi7hqOVR-Ql629Q_8thbyHe8sSRy5voyt30",
+      "name": "R - S",
+      "type": "composite"
+    },
+    {
+      "docId": "14qa47TJ_Vyerx4XNgTCIh7PUZ_TOgNcU_eHm5So_zo0",
+      "name": "Th - The N",
+      "type": "composite"
+    },
+    {
+      "docId": "1Ki5XsE0jkxZtd2XAeyTAJw1ZjLh2Cu-matUYKAhA6-s",
+      "name": "The O - Y",
+      "type": "composite"
+    }
+  ],
+  "2025-non-book-reviews": [
+    {
+      "docId": "1d0vRSj1E93joWWvbUen2XGuDjN_mM94ybMIAADzM2fo",
+      "name": "Other A-I",
+      "type": "composite"
+    },
+    {
+      "docId": "1a3q0Z2tuPLLbDeg5-pfEffkajGjrfPDwE7ZMs7uaWQs",
+      "name": "Other J-S",
+      "type": "composite"
+    },
+    {
+      "docId": "1jYVJFIz5-aMi0LCgsC9AN6BncJDNVGaMU37QmwZ1vzA",
+      "name": "Other T-Z",
+      "type": "composite"
+    },
+    {
+      "docId": "1B3YxYxLVFjKGicaEkqvt353kt0uimn0PSUQv1PyaHuI",
+      "name": "Games",
+      "type": "composite"
+    },
+    {
+      "docId": "1hjIUcKi-vIM9RGRZDWPRyUtzZLlVrpaY6Jy81iZVYi4",
+      "name": "Music",
+      "type": "composite"
+    },
+    {
+      "docId": "17WAcFrTOExgendrk2lGTxRIR4LVC3ZGbiU5Xe3kF4mg",
+      "name": "TV/Movies",
+      "type": "composite"
+    }
+  ],
+  "2023-book-reviews": [
+    {
+      "docId": "10CiEI7aDL2bMIdx7yayy3vlq0TJ8dO5LGnG7yIDPiw8",
+      "name": "Don't Sleep, There Are Snakes",
+      "type": "individual"
+    }
+  ],
+  "2022-book-reviews": [
+    {
+      "docId": "1hFzjXliCAWjvheY-8Qd2fhbF79LnX0Xg6R9eqk9yIyI",
+      "name": "Honorable Mentions 1",
+      "type": "composite"
+    },
+    {
+      "docId": "100kMdSVFviZSSBvUyyEQPMNlvLptVQxHFD9i9wGuBWs",
+      "name": "Honorable Mentions 2",
+      "type": "composite"
+    },
+    {
+      "docId": "1kQUUJhv-MpLawby2j4zXLZPDG6ligWd5xpIjH8UmWdw",
+      "name": "Honorable Mentions 3",
+      "type": "composite"
+    },
+    {
+      "docId": "1pRQbRbEUwSH_jm94PI_ij-88swat7vQ4iNaNp6gd39g",
+      "name": "Honorable Mentions 4",
+      "type": "composite"
+    }
+  ],
+  "2021-book-reviews": [
+    {
+      "docId": "1xexFJ7h0vULMDE7N77q_MIzXoerexfe_CqqGEL6hEoQ",
+      "name": "Disunited Nations vs Dawn Of Eurasia",
+      "type": "individual"
+    }
+  ]
+}

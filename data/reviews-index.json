@@ -1,0 +1,18 @@
+[
+  {
+    "id": "sample-review",
+    "title": "Sample Book Title",
+    "author": "Sample Author",
+    "reviewAuthor": "Anonymous",
+    "contestId": "2023-book-reviews",
+    "contestName": "2023 Book Reviews",
+    "year": 2023,
+    "publishedDate": "2023-06-15T00:00:00.000Z",
+    "slug": "sample-review",
+    "excerpt": "Sample Review\n\nThis is a sample review to test the ACX Reviews app. The actual content will come from the Google Docs and ACX Substack posts.\n\nHow to populate with real content\n\n1. Run npm run...",
+    "wordCount": 500,
+    "readingTimeMinutes": 3,
+    "originalUrl": "https://www.astralcodexten.com/p/sample",
+    "source": "acx"
+  }
+]
