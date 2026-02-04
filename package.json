@@ -7,6 +7,9 @@
     "build": "next build",
     "start": "next start",
     "lint": "next lint",
+    "test": "playwright test",
+    "test:ui": "playwright test --ui",
+    "test:headed": "playwright test --headed",
     "fetch-gdocs": "tsx scripts/fetch-from-gdocs.ts",
     "fetch-acx": "tsx scripts/fetch-from-acx.ts",
     "generate-index": "tsx scripts/generate-index.ts",
@@ -27,6 +30,7 @@
     "tailwind-merge": "^2.6.0"
   },
   "devDependencies": {
+    "@playwright/test": "^1.58.1",
     "@tailwindcss/typography": "^0.5.15",
     "@types/node": "^22",
     "@types/react": "^19",
