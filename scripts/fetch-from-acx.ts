@@ -33,6 +33,54 @@ const turndownService = new TurndownService({
   codeBlockStyle: 'fenced',
 });
 
+// Custom rule: Simplify linked images where the link just points to the image
+// Substack wraps images in anchor tags to the full-size image, which creates ugly markdown
+turndownService.addRule('simplifyLinkedImages', {
+  filter: (node) => {
+    if (node.nodeName !== 'A') return false;
+    const img = node.querySelector('img');
+    if (!img) return false;
+    // Check if the link href is an image URL (substack image CDN)
+    const href = node.getAttribute('href') || '';
+    return href.includes('substackcdn.com/image/') || href.includes('substack-post-media');
+  },
+  replacement: (_content, node) => {
+    const img = (node as Element).querySelector('img');
+    if (!img) return '';
+    const src = img.getAttribute('src') || '';
+    const alt = img.getAttribute('alt') || '';
+    const title = img.getAttribute('title') || '';
+    // Just output a simple image, not a linked image
+    if (title) {
+      return `\n\n![${alt}](${src} "${title}")\n\n`;
+    }
+    return `\n\n![${alt}](${src})\n\n`;
+  },
+});
+
+/**
+ * Clean up markdown output from Turndown
+ * - Remove unnecessary escape characters at line starts
+ * - Clean up extra whitespace around images
+ */
+function cleanupMarkdown(markdown: string): string {
+  return markdown
+    // Remove escaped brackets everywhere - they're not needed in most contexts
+    .replace(/\\\[/g, '[')
+    .replace(/\\\]/g, ']')
+    // Remove escaped dashes at line start in blockquotes (e.g., \- Author)
+    .replace(/^(>\s*)\\-/gm, '$1-')
+    // Remove escaped dashes at line start (e.g., \- Author)
+    .replace(/^\\-/gm, '-')
+    // Clean up multiple consecutive blank lines (more than 2)
+    .replace(/\n{4,}/g, '\n\n\n')
+    // Remove escaped parentheses that aren't needed
+    .replace(/\\\(/g, '(')
+    .replace(/\\\)/g, ')')
+    // Remove escaped asterisks at line starts (but preserve ** for bold)
+    .replace(/^\\(\*[^*])/gm, '$1');
+}
+
 /**
  * Fetch HTML content from a URL
  */
@@ -96,8 +144,9 @@ function extractArticleData(html: string, url: string): {
     .replace(/<style[^>]*>[\s\S]*?<\/style>/gi, '')   // Remove styles
     .replace(/<!--[\s\S]*?-->/g, '');                  // Remove comments
 
-  // Convert to markdown
-  const markdown = turndownService.turndown(cleanedHtml);
+  // Convert to markdown and clean up
+  const rawMarkdown = turndownService.turndown(cleanedHtml);
+  const markdown = cleanupMarkdown(rawMarkdown);
 
   return {
     title,

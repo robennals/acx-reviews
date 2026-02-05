@@ -5,23 +5,23 @@ reviewAuthor: "Anonymous"
 contestId: "2021-book-reviews"
 contestName: "2021 Book Reviews"
 year: 2021
-publishedDate: "2026-02-05T07:38:15.414Z"
+publishedDate: "2026-02-05T15:44:01.239Z"
 slug: "on-the-natural-faculties"
-wordCount: 7423
+wordCount: 7417
 readingTimeMinutes: 33
 originalUrl: "https://astralcodexten.substack.com/p/your-book-review-on-the-natural-faculties"
 source: "acx"
 ---
 
-\[_This is the second of many finalists in the book review contest. It’s not by me - it’s by an ACX reader who will remain anonymous until after voting is done, to prevent their identity from influencing your decisions. I’ll be posting about two of these a week for the next few months. When you’ve read all of them, I’ll ask you to vote for your favorite, so remember which ones you liked. - SA_\]
+[_This is the second of many finalists in the book review contest. It’s not by me - it’s by an ACX reader who will remain anonymous until after voting is done, to prevent their identity from influencing your decisions. I’ll be posting about two of these a week for the next few months. When you’ve read all of them, I’ll ask you to vote for your favorite, so remember which ones you liked. - SA_]
 
 **I.**
 
 If you’re looking for the whipping boy for all of medicine, and most of science, look no further than Galen of Pergamon.
 
-As early as 1605, in _The Advancement of Learning_, Francis Bacon is [taking aim at Galen](https://en.wikisource.org/wiki/Page:The_Works_of_Francis_Bacon_\(1884\)_Volume_1.djvu/326) for the “specious causes” that keep us from further advancement in science. He attacks Plato and Aristotle first, of course, but it’s pretty interesting to see that Galen is the #3 man on his list after these two heavy-hitters.
+As early as 1605, in _The Advancement of Learning_, Francis Bacon is [taking aim at Galen](https://en.wikisource.org/wiki/Page:The_Works_of_Francis_Bacon_(1884)_Volume_1.djvu/326) for the “specious causes” that keep us from further advancement in science. He attacks Plato and Aristotle first, of course, but it’s pretty interesting to see that Galen is the #3 man on his list after these two heavy-hitters.
 
-Centuries went by, but not much changed. Charles Richet, winner of the 1913 Nobel Prize in Physiology or Medicine, said that Galen and “all the physicians who followed \[him\] during sixteen centuries, describe humours which they had never seen, and which no one will ever see, for they do not exist.” Some of the ‘humors’ exist, he says, like blood and bile. But of the “extraordinary phlegm or pituitary accretion” he says, “where is it? Who will ever see it? Who has ever seen it? What can we say of this fanciful classification of humours into four groups, of which two are absolutely imaginary?”
+Centuries went by, but not much changed. Charles Richet, winner of the 1913 Nobel Prize in Physiology or Medicine, said that Galen and “all the physicians who followed [him] during sixteen centuries, describe humours which they had never seen, and which no one will ever see, for they do not exist.” Some of the ‘humors’ exist, he says, like blood and bile. But of the “extraordinary phlegm or pituitary accretion” he says, “where is it? Who will ever see it? Who has ever seen it? What can we say of this fanciful classification of humours into four groups, of which two are absolutely imaginary?”
 
 And so on until the present day. In [Scott’s review of](https://slatestarcodex.com/2016/02/07/list-of-passages-i-highlighted-in-my-copy-of-superforecasting/) _[Superforecasting](https://slatestarcodex.com/2016/02/07/list-of-passages-i-highlighted-in-my-copy-of-superforecasting/)_, he quotes Tetlock’s comment on Galen:
 
@@ -61,13 +61,7 @@ All disease and illness, in this system, were the result of an imbalance in the 
 
 Long-term trends towards any of the humors were responsible for what we would call personality. Hence the terms _sanguine_, _phlegmatic_, _melancholy_ and so on for different personal traits and emotional conditions.
 
-[
-
 ![](https://substackcdn.com/image/fetch/$s_!RVUB!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F0fa2d63f-cb68-42ac-a4ec-cb069af2f076_384x510.jpeg)
-
-
-
-](https://substackcdn.com/image/fetch/$s_!RVUB!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F0fa2d63f-cb68-42ac-a4ec-cb069af2f076_384x510.jpeg)
 
 This is the theory that he would put his weight behind, and which he would eventually be responsible for bringing to the majority of the western world.
 
@@ -81,13 +75,7 @@ Eventually all roads lead to Rome, of course, and Galen arrived in 162 CE. His l
 
 Galen himself died some time between 199 and 216 CE, at the the ripe old age of between 70 and 87.
 
-[
-
 ![](https://substackcdn.com/image/fetch/$s_!lcW4!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F7c4cb0d8-ef64-4d8c-8974-1887a2877063_469x776.jpeg)
-
-
-
-](https://substackcdn.com/image/fetch/$s_!lcW4!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F7c4cb0d8-ef64-4d8c-8974-1887a2877063_469x776.jpeg)
 
 It’s hard not to notice just how famous Galen was in his own time. Marcus Aurelius described him as “primum sane medicorum esse, philosophorum autem solum” — first among doctors and unique among philosophers (one wonders if Galen might have influenced the Emperor’s own philosophy). Forgeries and unscrupulous editions of his work were such a problem during his lifetime, he had to write a book called _On My Own Books_ to try to sort it all out. Among other things, he complains that his servants were stealing private letters he had written to friends and circulating bootleg copies of them as medical advice.
 
@@ -197,19 +185,13 @@ In discussing digestion, he says, “I have personally, on countless occasions, 
 
 He really seems to want his readers to try these macabre exercises at home. “You may observe this yourself,” he says, “if you will try to hit upon the time at which the descent of food from the stomach takes place.” Fellow physicians are criticized for their lack of anatomical experience in the same way. “If he had ever practised anatomy, he might have known that the outer coat of the bladder springs from the peritoneum and is essentially the same as it.”
 
-[
-
 ![](https://substackcdn.com/image/fetch/$s_!6Gdb!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fbb854d87-de36-4173-ab8a-2728bd8605b5_1024x635.jpeg)
-
-
-
-](https://substackcdn.com/image/fetch/$s_!6Gdb!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fbb854d87-de36-4173-ab8a-2728bd8605b5_1024x635.jpeg)
 
 The most extreme example comes from a debate with the disciples of Asclepiades about the function of the ureters, trying to convince this rival school that urine flows from the kidneys to the bladder through these channels. After exhausting his rhetorical options, Galen turns to empirical anatomy. First he shows them, in a dead animal, that the ureters connect the two structures. This isn’t enough. Next he shows them “in a still living animal, the urine plainly running out through the ureters into the bladder.” This doesn’t change their minds either.
 
 Next he takes a live animal, ligates the ureters, bandages the animal up, and lets it go. When he opens it up again later, he finds the ureters “quite full and distended”, and when he removes the ligature, everyone can see the urine flow into the bladder.
 
-You’d think the story would end there, but not so. Instead, says Galen, “tie a ligature round \[the animal’s\] penis and then … squeeze the bladder all over.” He points out that nothing goes back through the ureters to the kidneys, demonstrating that the conveyance is a special, one-way action. He goes on like this for a while. Let the animal urinate and tie a ligature around one ureter but not the other. Cut open both the ureters and see the urine “spurt out of it”. Bandage the animal up and open him up later to discover his insides full of urine and the bladder empty. “Now, if anyone will but test this for himself on an animal,” Galen concludes, “I think he will strongly condemn the rashness of Asclepiades.”
+You’d think the story would end there, but not so. Instead, says Galen, “tie a ligature round [the animal’s] penis and then … squeeze the bladder all over.” He points out that nothing goes back through the ureters to the kidneys, demonstrating that the conveyance is a special, one-way action. He goes on like this for a while. Let the animal urinate and tie a ligature around one ureter but not the other. Cut open both the ureters and see the urine “spurt out of it”. Bandage the animal up and open him up later to discover his insides full of urine and the bladder empty. “Now, if anyone will but test this for himself on an animal,” Galen concludes, “I think he will strongly condemn the rashness of Asclepiades.”
 
 Today we know that Galen was wrong, and that humorism isn’t a great way to think about medicine. But whatever Galen might have been lacking, it certainly was not the empirical bent. He was no armchair philosopher, and was more than happy to cut up lots of animals to make a point about the function of the ureters.
 
@@ -260,7 +242,7 @@ Galen’s idea of humorism is more detailed and nuanced than the picture of humo
 
 As much as modern authors like to describe the humors as imaginary, Galen routinely talks about them as if he were actually collecting and measuring them! In a section where he talks about the properties of different drugs, he describes at length how they will evacuate more or less of the various humors in different seasons or from people of different ages.
 
-One might be tempted to dismiss this as metaphor or inference — “probably Galen means that you can see the evidence of evacuation” — but how are we to take it, then, when he describes the humors in terms of the volume produced? “Who does not know,” he says, “that if a drug for attracting phlegm be given in a case of jaundice it will not even evacuate four cyathi \[about 4 oz.\] of phlegm?” I’m not sure what is being evacuated here, or how he collected it, but he certainly seems to be measuring _something_.
+One might be tempted to dismiss this as metaphor or inference — “probably Galen means that you can see the evidence of evacuation” — but how are we to take it, then, when he describes the humors in terms of the volume produced? “Who does not know,” he says, “that if a drug for attracting phlegm be given in a case of jaundice it will not even evacuate four cyathi [about 4 oz.] of phlegm?” I’m not sure what is being evacuated here, or how he collected it, but he certainly seems to be measuring _something_.
 
 Galen makes even more sense when talking about other drugs. He has a whole digression on antivenoms, where he concludes by saying that after the treatment has been applied, “we can, in fact, plainly observe these poisons deposited on the medicaments.” He describes a case where manual traction was insufficient to remove a thorn from a young man’s foot, but some kind of “medicament” removed it easily. He mentions that some people claim that the thorn only falls out in this case because the medicament reduces inflammation. Not so, says Galen, who points out that while there are anti-inflammatory drugs as well, those don’t do anything to draw out embedded bodies.
 

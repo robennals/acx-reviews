@@ -30,16 +30,44 @@ export function calculateReadingTime(wordCount: number): number {
 }
 
 /**
+ * Check if a paragraph is Scott's intro text for book review contests
+ */
+function isIntroText(text: string): boolean {
+  const introPatterns = [
+    /^\[?_?\s*This is the .* finalist/i,
+    /^\[?_?\s*This is the .* of (many|seventeen|\d+)/i,
+    /^\[?_?\s*This is one of the/i,
+    /book review contest/i,
+    /will remain anonymous until after voting/i,
+  ];
+  return introPatterns.some(pattern => pattern.test(text));
+}
+
+/**
  * Extract first N characters for excerpt, breaking at word boundary
+ * Skips Scott's intro text at the beginning of reviews
  */
 export function createExcerpt(content: string, maxLength: number = 200): string {
   // Remove markdown syntax for clean excerpt
-  const cleaned = content
+  let cleaned = content
     .replace(/^---[\s\S]*?---/, '') // Remove frontmatter
+    .replace(/^\s*\* \* \*\s*/gm, '') // Remove horizontal rules (*** style)
+    .replace(/^-{3,}\s*/gm, '') // Remove horizontal rules (--- style)
     .replace(/#{1,6}\s/g, '') // Remove headings
     .replace(/\[([^\]]+)\]\([^)]+\)/g, '$1') // Convert links to text
     .replace(/[*_~`]/g, '') // Remove emphasis
     .trim();
+
+  // Split into paragraphs and find the first non-intro paragraph
+  const paragraphs = cleaned.split(/\n\n+/).filter(p => p.trim().length > 0);
+
+  for (const para of paragraphs) {
+    const trimmed = para.trim();
+    if (!isIntroText(trimmed) && trimmed.length > 50) {
+      cleaned = trimmed;
+      break;
+    }
+  }
 
   if (cleaned.length <= maxLength) {
     return cleaned;

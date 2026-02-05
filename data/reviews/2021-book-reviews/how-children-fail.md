@@ -5,7 +5,7 @@ reviewAuthor: "Anonymous"
 contestId: "2021-book-reviews"
 contestName: "2021 Book Reviews"
 year: 2021
-publishedDate: "2026-02-05T07:38:46.468Z"
+publishedDate: "2026-02-05T15:44:28.451Z"
 slug: "how-children-fail"
 wordCount: 4572
 readingTimeMinutes: 21
@@ -13,7 +13,7 @@ originalUrl: "https://astralcodexten.substack.com/p/your-book-review-how-childre
 source: "acx"
 ---
 
-\[_This is the sixteenth of seventeen finalists in the book review contest. It’s not by me - it’s by an ACX reader who will remain anonymous until after voting is done, to prevent their identity from influencing your decisions. This entry was promoted to finalist status by readers; thanks to everyone who voted! - SA_\]
+[_This is the sixteenth of seventeen finalists in the book review contest. It’s not by me - it’s by an ACX reader who will remain anonymous until after voting is done, to prevent their identity from influencing your decisions. This entry was promoted to finalist status by readers; thanks to everyone who voted! - SA_]
 
 **1:**
 
@@ -107,7 +107,7 @@ Holt gives an anecdote of a fifth grader caught sneakily reading a science book 
 
 How Children Fail was published sixty years ago, when the most exciting piece of educational technology was [a set of wooden blocks](https://spec.commonmark.org/dingus/”https://en.wikipedia.org/wiki/Cuisenaire_rods”). John Holt wrote a revised edition of How Children Fail in 1982, after becoming an advocate for homeschooling and child emancipation. The original edition ended by calling for reform of the school system, saying it should provide buffet tables for students to browse, rather than force feeding. The revised edition adds a postscript:
 
-> \[E\]xcept in very rare circumstances the idea of special learning places where nothing but learning happens no longer seems to me to make any sense at all. The proper place and best place for children to learn whatever they need or want to know is the place where until very recently almost all children learned it--in the world itself, in the mainstream of adult life. If we put in every community, as we should (perhaps in former school buildings), resource and activity centers, citizens' clubs, full of spaces for many kinds of things to happen-- libraries, music rooms, theaters, sports facilities, workshops, meeting rooms- -these should be open to and used by young and old together. We made a terrible mistake when (with the best of intentions) we separated children from adults and learning from the rest of life, and one of our most urgent tasks is to take down the barriers we have put between them and let them come back together.
+> [E]xcept in very rare circumstances the idea of special learning places where nothing but learning happens no longer seems to me to make any sense at all. The proper place and best place for children to learn whatever they need or want to know is the place where until very recently almost all children learned it--in the world itself, in the mainstream of adult life. If we put in every community, as we should (perhaps in former school buildings), resource and activity centers, citizens' clubs, full of spaces for many kinds of things to happen-- libraries, music rooms, theaters, sports facilities, workshops, meeting rooms- -these should be open to and used by young and old together. We made a terrible mistake when (with the best of intentions) we separated children from adults and learning from the rest of life, and one of our most urgent tasks is to take down the barriers we have put between them and let them come back together.
 
 He also notes in passing that computers (“though _only_ if very different from present ones”) might be able to help children clarify their thinking. Well. Tragically and frustratingly, Holt died only three years later, and so he didn’t quite get to see computers become that mixed-age community center he’d envisioned. I was a privileged kid, and when self-schooling I had access to all sorts of resources. But all I really needed, back in 2000, was AOL. Technology provides education in attractive snack form and allows special interests to scale.
 

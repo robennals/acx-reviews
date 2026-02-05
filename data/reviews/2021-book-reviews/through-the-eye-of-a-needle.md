@@ -5,7 +5,7 @@ reviewAuthor: "Anonymous"
 contestId: "2021-book-reviews"
 contestName: "2021 Book Reviews"
 year: 2021
-publishedDate: "2026-02-05T07:38:29.896Z"
+publishedDate: "2026-02-05T15:44:13.867Z"
 slug: "through-the-eye-of-a-needle"
 wordCount: 5512
 readingTimeMinutes: 25
@@ -13,7 +13,7 @@ originalUrl: "https://astralcodexten.substack.com/p/your-book-review-through-the
 source: "acx"
 ---
 
-\[_This is the eighth of many finalists in the book review contest. It’s not by me - it’s by an ACX reader who will remain anonymous until after voting is done, to prevent their identity from influencing your decisions. I’ll be posting about two of these a week for several months. When you’ve read all of them, I’ll ask you to vote for your favorite, so remember which ones you liked. If you like reading these reviews, check out [point 3 here](https://astralcodexten.substack.com/p/open-thread-169) for a way you can help move the contest forward by reading lots more of them - SA_\]
+[_This is the eighth of many finalists in the book review contest. It’s not by me - it’s by an ACX reader who will remain anonymous until after voting is done, to prevent their identity from influencing your decisions. I’ll be posting about two of these a week for several months. When you’ve read all of them, I’ll ask you to vote for your favorite, so remember which ones you liked. If you like reading these reviews, check out [point 3 here](https://astralcodexten.substack.com/p/open-thread-169) for a way you can help move the contest forward by reading lots more of them - SA_]
 
 Rome, 401 AD. The great pagan Roman senator, Symmachus, sponsors games to celebrate his eighteen year old son becoming praetor. Romans who witness the pageantry were still talking about it a generation later. There were theatrical displays in a flooded amphitheater. Symmachus brought crocodiles from the Nile, bears from the Balkans, great Irish wolfhounds from Britain, lions from the southern mountains of north Africa, antelopes and gazelles trapped along the edges of the Sahara, Saxon prisoners of war to serve as gladiators (all twenty of whom, frustratingly for Symmachus, committed suicide before the games, strangling each other with their own hands in their prison cells). Powerful Romans had displayed their wealth and civic love in the same way for the greater part of a millennium.
 
@@ -81,7 +81,7 @@ The Respublica’s six hundred year rule of the West collapsed in a generation. 
 
 Brown’s story of the decline is succinct. Barbarian militias, “little more than freelance pillagers and highwaymen,” were used by contending emperors in Roman civil wars. “Like any other desperate army at a time of civil war (Roman troops included), they were paid for their services by license to plunder…. Altogether, it was civil war – and no bloodthirsty drive of their own – that had moved barbarian militias from one end of the Roman West to the other in under a generation.”
 
-In the 430s, the Vandals snuck into north Africa. They took prosperous Carthage and the surrounding region by surprise. The loss of the extraordinary wealthy region broke the “tax spine” of the western empire. “By 431, the tax revenues of the empire had probably dropped by 50 percent. After the loss of Carthage, they dropped further. The Respublica was left with a quarter of the resources it had enjoyed under the emperor Valentinian I \[in 375 AD\].”
+In the 430s, the Vandals snuck into north Africa. They took prosperous Carthage and the surrounding region by surprise. The loss of the extraordinary wealthy region broke the “tax spine” of the western empire. “By 431, the tax revenues of the empire had probably dropped by 50 percent. After the loss of Carthage, they dropped further. The Respublica was left with a quarter of the resources it had enjoyed under the emperor Valentinian I [in 375 AD].”
 
 Romans writing in the 450s blamed “barbarian invasions” for tearing the empire to pieces. Brown thinks they are wrong. He blames the fractional violence among the Roman elites. For the most part, barbarian militias did not set out to conqueror. They focused on raiding, not conquering.
 
@@ -95,7 +95,7 @@ The spoils from raiding allowed the barbarians to establish wealthy courts of th
 
 Mediterranean trade declined. Piracy and raiding increased. In many places, olive oil went from a common commodity to “an almost supernatural luxury” used to fuel church lamps.
 
-The economic decline was not evenly spread. Vandal north Africa remained prosperous. Vandal piracy brought in a great deal of treasury. “Freed from levies connected with the annona for Rome \[the annual grain shipments for the Roman dole\], African ceramics and African wines flooded in the market throughout the eastern Mediterranean.”
+The economic decline was not evenly spread. Vandal north Africa remained prosperous. Vandal piracy brought in a great deal of treasury. “Freed from levies connected with the annona for Rome [the annual grain shipments for the Roman dole], African ceramics and African wines flooded in the market throughout the eastern Mediterranean.”
 
 Italy also remained somewhat prosperous. Italy peacefully moved from rule by an emperor to a Gothic king without the raiding and violence of other regions. The wealthy members of the Senate in Rome maintained many of the traditions and ceremonies of the old Respublica. The annona, the food ration system, was revamped and continued. There were still splendid villas on the hills of Rome, but “they now stood in the midst of deserted gardens and the emptied, charred ruins of former, even greater palaces.” Around the Senate House, the facades of buildings were maintained even after their insides were full of rubble. The seats in the Colosseum were regularly repaired. Games were still held, though gladiators no longer fought. The lay elites attempted to maintain Rome’s historic civic life. At the same time, the bishops and clergy of Rome reached out to the population in the form of relief to the poor.
 

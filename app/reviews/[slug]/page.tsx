@@ -67,16 +67,22 @@ export default async function ReviewPage({ params }: ReviewPageProps) {
               {review.title}
             </h1>
 
-            {/* Attribution */}
-            <div className="text-lg text-muted-foreground mb-6">
-              <p>
-                A review of{' '}
-                <span className="text-foreground font-medium">{review.author}</span>
-              </p>
-              <p className="text-base mt-1">
-                by {review.reviewAuthor}
-              </p>
-            </div>
+            {/* Attribution - only show if we have meaningful author info */}
+            {(review.author !== 'Unknown' || review.reviewAuthor !== 'Anonymous') && (
+              <div className="text-lg text-muted-foreground mb-6">
+                {review.author !== 'Unknown' && (
+                  <p>
+                    A review of{' '}
+                    <span className="text-foreground font-medium">{review.author}</span>
+                  </p>
+                )}
+                {review.reviewAuthor !== 'Anonymous' && (
+                  <p className="text-base mt-1">
+                    by {review.reviewAuthor}
+                  </p>
+                )}
+              </div>
+            )}
 
             {/* Meta info */}
             <div className="flex flex-wrap items-center gap-x-4 gap-y-2 text-sm text-muted-foreground pt-6 border-t border-border">

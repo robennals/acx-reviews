@@ -5,15 +5,15 @@ reviewAuthor: "Anonymous"
 contestId: "2021-book-reviews"
 contestName: "2021 Book Reviews"
 year: 2021
-publishedDate: "2026-02-05T07:38:32.376Z"
+publishedDate: "2026-02-05T15:44:15.948Z"
 slug: "years-of-lyndon-johnson"
-wordCount: 2258
+wordCount: 2254
 readingTimeMinutes: 11
 originalUrl: "https://astralcodexten.substack.com/p/your-book-review-the-years-of-lyndon"
 source: "acx"
 ---
 
-\[_This is the ninth of many finalists in the book review contest. It’s not by me - it’s by an ACX reader who will remain anonymous until after voting is done, to prevent their identity from influencing your decisions. I’ll be posting about two of these a week for several months. When you’ve read all of them, I’ll ask you to vote for your favorite, so remember which ones you liked. If you like reading these reviews, check out [point 3 here](https://astralcodexten.substack.com/p/open-thread-169) for a way you can help move the contest forward by reading lots more of them - SA_\]
+[_This is the ninth of many finalists in the book review contest. It’s not by me - it’s by an ACX reader who will remain anonymous until after voting is done, to prevent their identity from influencing your decisions. I’ll be posting about two of these a week for several months. When you’ve read all of them, I’ll ask you to vote for your favorite, so remember which ones you liked. If you like reading these reviews, check out [point 3 here](https://astralcodexten.substack.com/p/open-thread-169) for a way you can help move the contest forward by reading lots more of them - SA_]
 
 Despite appearances, this is not a biography. It's actually an epic fantasy series that happens to be true. A young man grows up on the edge of civilization, decides to fix his father's mistakes, turns to the dark side for power, wins victories despite the odds, betrays his mentors, and smashes the oppressive status quo. There's even a Bilbo.
 
@@ -81,7 +81,7 @@ In 1940s Texas, basically every type of election fraud was real: Dead people vot
 
 Stevenson naturally suspected fraud, so he and Frank Hamer investigated Salas's extra 200 votes. A group of gunmen blocked them, but Hamer scared them away by walking towards them. The two living legends discovered that, among other irregularities, the 200 extra voters had cast their ballots in alphabetical order. With this evidence, Stevenson obtained an injunction preventing LBJ from being elected to the Senate. To save his political career, LBJ had to stop the investigations:
 
-"To \[LBJ\], every man was a tool, and in difficulty he reached unerringly for the right tool. Now, facing a Gordian knot of seemingly insoluble legal complications, Lyndon Johnson reached for his sharpest tool of all...he asked Alvin Wirtz: 'Where's Abe?'"
+"To [LBJ], every man was a tool, and in difficulty he reached unerringly for the right tool. Now, facing a Gordian knot of seemingly insoluble legal complications, Lyndon Johnson reached for his sharpest tool of all...he asked Alvin Wirtz: 'Where's Abe?'"
 
 Abe Fortas realized that there was no time to go through the normal legal process, so he got creative. He wrote a pathetically weak legal brief so that the circuit court rejected LBJ's appeal after just nine hours. The case moved up the appeals system like lightning, reaching Supreme Court Justice Hugo Black in less than a week. Black struck down the injunction, so LBJ halted the investigation and buried the fraud.
 
@@ -99,7 +99,7 @@ All of this raises an important question: Did LBJ assassinate John F. Kennedy so
 
 Why do I trust Caro? He's the kind of biographer who searches Mexico to find Luis Salas:
 
-"I get asked why it takes me so long to produce my books. Let me tell you that trying to track down someone who has left the United States years before and returned to \[somewhere\] where he 'moves around a lot' is not a matter of hours."
+"I get asked why it takes me so long to produce my books. Let me tell you that trying to track down someone who has left the United States years before and returned to [somewhere] where he 'moves around a lot' is not a matter of hours."
 
 (Luckily for Caro, Salas had become a kindly old man by the time Caro found him.)
 
@@ -119,23 +119,11 @@ Then you restart the process. Women called the irons "sad irons". In the late 19
 
 Of course Caro isn't perfect. He quickly dismisses President Hoover as an uncaring plutocrat, when really he was a lot [weirder](https://slatestarcodex.com/2020/03/17/book-review-hoover/) than that. But Caro has devoted his life to writing these books, and it shows. On the back cover of his first LBJ book, Caro looks like this:
 
-[
-
 ![Robert_Caro_young.jpg](https://substackcdn.com/image/fetch/$s_!Hgqp!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Ffb645c40-d7d9-4161-bddf-24b7e821810a_839x1229.jpeg "Robert_Caro_young.jpg")
-
-
-
-](https://substackcdn.com/image/fetch/$s_!Hgqp!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Ffb645c40-d7d9-4161-bddf-24b7e821810a_839x1229.jpeg)
 
 On his most recent book, Caro looks like this:
 
-[
-
 ![Robert_Caro_old.jpg](https://substackcdn.com/image/fetch/$s_!IOHL!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fc10c2ece-bdfd-493f-9143-724c8ace3eb4_840x1293.jpeg "Robert_Caro_old.jpg")
-
-
-
-](https://substackcdn.com/image/fetch/$s_!IOHL!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fc10c2ece-bdfd-493f-9143-724c8ace3eb4_840x1293.jpeg)
 
 (Sometimes I worry that he'll catch coronavirus and die before he finishes the last LBJ book.)
 

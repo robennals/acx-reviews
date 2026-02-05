@@ -5,15 +5,15 @@ reviewAuthor: "Anonymous"
 contestId: "2021-book-reviews"
 contestName: "2021 Book Reviews"
 year: 2021
-publishedDate: "2026-02-05T07:38:10.384Z"
+publishedDate: "2026-02-05T15:43:56.979Z"
 slug: "progress-and-poverty"
-wordCount: 18700
-readingTimeMinutes: 84
+wordCount: 18646
+readingTimeMinutes: 83
 originalUrl: "https://astralcodexten.substack.com/p/your-book-review-progress-and-poverty"
 source: "acx"
 ---
 
-\[_This is the third of many finalists in the book review contest. It’s not by me - it’s by an ACX reader who will remain anonymous until after voting is done, to prevent their identity from influencing your decisions. I’ll be posting about two of these a week for several months. When you’ve read all of them, I’ll ask you to vote for your favorite, so remember which ones you liked. - SA_\]
+[_This is the third of many finalists in the book review contest. It’s not by me - it’s by an ACX reader who will remain anonymous until after voting is done, to prevent their identity from influencing your decisions. I’ll be posting about two of these a week for several months. When you’ve read all of them, I’ll ask you to vote for your favorite, so remember which ones you liked. - SA_]
 
 * * *
 
@@ -42,7 +42,7 @@ _Progress and Poverty_ is quite readable compared to other 19th-century economic
 
 As a 19th century treatise of _[Political Economy](https://en.wikipedia.org/wiki/Political_economy#:~:text=Political%20economy%20is%20the%20study,of%20national%20income%20and%20wealth.)_, the book doesn't match what a modern reader might expect from a book on _[Economics](https://en.wikipedia.org/wiki/Economics)_ because it's not packed to the gills with charts, graphs, tables, and statistics (though it does provide a good number of citations and figures). Nevertheless his argument was compelling enough to spawn an entire economic school of thought known variously as [Georgism or Geoism](https://en.wikipedia.org/wiki/Georgism) that persists to this day.
 
-Nowadays Georgism gets slapped with the "heterodox" label, but it's still relevant enough to get the likes of [Paul Krugman](https://web.archive.org/web/20201108115738/https://psmag.com/news/this-land-is-your-land-3392) and [Milton Friedman](https://web.archive.org/web/20200723204745/https://econjwatch.org/File+download/66/2005-04-foldvary-tyranny-statquo.pdf?mimetype=pdf) to grudgingly agree to key points, and [Friedrich Hayek](https://onlinelibrary.wiley.com/doi/epdf/10.1111/1536-7150.00016) is alleged to have been inspired by it to pursue economics in the first place. Marx, on the other hand, [wasn't a fan](https://web.archive.org/web/20201203222039/https://www.marxists.org/archive/marx/works/1881/letters/81_06_20.htm), seeing it as a last-ditch attempt "to save capitalist domination and indeed to establish it afresh on an even wider basis than its present one... \[George\] also has the repulsive presumption and arrogance which is displayed by all panacea-mongers without exception." I guess you can't please everyone.
+Nowadays Georgism gets slapped with the "heterodox" label, but it's still relevant enough to get the likes of [Paul Krugman](https://web.archive.org/web/20201108115738/https://psmag.com/news/this-land-is-your-land-3392) and [Milton Friedman](https://web.archive.org/web/20200723204745/https://econjwatch.org/File+download/66/2005-04-foldvary-tyranny-statquo.pdf?mimetype=pdf) to grudgingly agree to key points, and [Friedrich Hayek](https://onlinelibrary.wiley.com/doi/epdf/10.1111/1536-7150.00016) is alleged to have been inspired by it to pursue economics in the first place. Marx, on the other hand, [wasn't a fan](https://web.archive.org/web/20201203222039/https://www.marxists.org/archive/marx/works/1881/letters/81_06_20.htm), seeing it as a last-ditch attempt "to save capitalist domination and indeed to establish it afresh on an even wider basis than its present one... [George] also has the repulsive presumption and arrogance which is displayed by all panacea-mongers without exception." I guess you can't please everyone.
 
 George spends the first few books of Volume I establishing terms and methodically tearing apart the prevailing economic theories of his day before presenting his own alternative theories about how the "three factors of production" – land, labor, and capital – relate to each other in the "laws of distribution." He then explains why the existing system causes poverty to advance alongside progress, and why we see industrial depressions. Then, he identifies the root cause of the problem (land ownership and speculative rent) and presents his solution (the Land Value Tax) in Volume II. He spends the entire second volume explaining why it is moral and just, how it should be applied, and why it will solve all of our problems.
 
@@ -84,13 +84,7 @@ Back then, the United States was still in the throes of the [Long Depression](ht
 
 Below is a graph ([source](https://web.archive.org/web/20210216220345/https://www.nber.org/research/business-cycle-dating)) of the boom-bust business cycle going back to the 1870's - clearly, recessions were much more frequent and severe in George's time than they are today. The late 1800's were wracked with so many panics and crises in quick succession that some historians count the Long Depression as lasting for a full _23 years_ from 1873 to 1896!
 
-[
-
 ![](https://substackcdn.com/image/fetch/$s_!L1cp!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F46a9ea6a-75a2-48cf-b2a5-368a5d450f4e_700x508.png)
-
-
-
-](https://substackcdn.com/image/fetch/$s_!L1cp!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F46a9ea6a-75a2-48cf-b2a5-368a5d450f4e_700x508.png)
 
 After the Great Depression in the 1930's, we see a sharp decrease in the duration and frequency of recessions. They're still with us now (and the one we're currently in is the worst since the Great Depression), but you'd still rather be living in 2021 than 1879.
 
@@ -98,67 +92,31 @@ So, have we solved the problem? Is George's complaint obsolete?
 
 I mean, this graph of GDP per capita from Stephen Pinker's _Enlightenment Now_ makes it look like in many ways things are getting better:
 
-[
-
 ![](https://substackcdn.com/image/fetch/$s_!PHaw!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F4575c4fc-b789-4177-9c22-6bd6040ea5ba_726x512.png)
-
-
-
-](https://substackcdn.com/image/fetch/$s_!PHaw!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F4575c4fc-b789-4177-9c22-6bd6040ea5ba_726x512.png)
 
 And heck, [extreme poverty has been going down everywhere](https://ourworldindata.org/extreme-poverty):
 
-[
-
 ![](https://substackcdn.com/image/fetch/$s_!nnef!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F1115a295-9275-428a-8434-9572119c596d_3000x2100.png)
-
-
-
-](https://substackcdn.com/image/fetch/$s_!nnef!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F1115a295-9275-428a-8434-9572119c596d_3000x2100.png)
 
 But this can't be the entire picture, or nobody would be complaining about poverty and inequality.
 
 Here - this graph ([source](https://web.archive.org/web/20210112150023if_/https://howmuch.net/articles/price-changes-in-usa-in-past-20-years)), shows that as consumer goods have gotten cheaper in the United States, health care, higher education, child care, etc., have skyrocketed in price, which Scott examined in great detail in [Considerations on Cost Disease](https://slatestarcodex.com/2017/02/09/considerations-on-cost-disease/).
 
-[
-
 ![](https://substackcdn.com/image/fetch/$s_!UAJH!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F89ecab7d-431a-47c8-bcce-f5726db1a770_1600x1490.png)
-
-
-
-](https://substackcdn.com/image/fetch/$s_!UAJH!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F89ecab7d-431a-47c8-bcce-f5726db1a770_1600x1490.png)
 
 And what about Inequality? In the USA it seems to have reverted to levels not seen since the Great Depression, and even when it was at its lowest in 1978, the top 0.1% (not even the top 1%!) still enjoyed a massively disproportionate share of Wealth ([source](https://web.archive.org/web/20210202081558/http://gabriel-zucman.eu/files/SaezZucman2016QJE.pdf)):
 
-[
-
 ![](https://substackcdn.com/image/fetch/$s_!ndzi!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fbe29b221-a8f8-419d-8569-da46285e32ac_802x568.png)
-
-
-
-](https://substackcdn.com/image/fetch/$s_!ndzi!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fbe29b221-a8f8-419d-8569-da46285e32ac_802x568.png)
 
 And of course, The Rent Is Too Damn High:
 
 ([source](https://web.archive.org/web/20210216184021/https://www.apartmentlist.com/research/rent-growth-since-1960)):
 
-[
-
 ![](https://substackcdn.com/image/fetch/$s_!eyAX!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Ff9b8eea9-8bd6-4c81-8dd7-93f192a542f7_980x713.png)
-
-
-
-](https://substackcdn.com/image/fetch/$s_!eyAX!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Ff9b8eea9-8bd6-4c81-8dd7-93f192a542f7_980x713.png)
 
 ([source](https://web.archive.org/web/20210208185441/https://observationsandnotes.blogspot.com/2011/06/us-housing-prices-since-1900.html)):
 
-[
-
 ![](https://substackcdn.com/image/fetch/$s_!80d0!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F1452e66e-c8f4-4174-92f7-31829f8cbd39_958x696.png)
-
-
-
-](https://substackcdn.com/image/fetch/$s_!80d0!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F1452e66e-c8f4-4174-92f7-31829f8cbd39_958x696.png)
 
 Although 2021 seems better than 1879 in absolute material terms, George's complaint still rings true: healthcare and higher education are increasingly unaffordable, inequality is as bad as it ever was, and The Rent Is Too Damn High.
 
@@ -204,7 +162,7 @@ George goes the other way:
 
 > It is never the amount of labor that has been exerted in bringing a thing into being that determines its value, but always the amount of labor that will be rendered in exchange for it.  
 >   
-> \- Henry George, _The Science of Political Economy,_ p. 253
+> - Henry George, _The Science of Political Economy,_ p. 253
 
 In other words, "a thing's value is whatever someone is willing to pay for it." This is in line with the so-called [marginal revolution](https://en.wikipedia.org/wiki/Marginal_utility#Marginal_Revolution) (the movement, not the [blog](https://marginalrevolution.com/)) and modern theories of value.
 
@@ -244,13 +202,7 @@ Again, this isn't saying the IOUs aren't valuable, they are. But they're only va
 
 Now what about digital goods? Leaving things like Bitcoin aside for the moment, let's consider the case of a digital image file:
 
-[
-
 ![](https://substackcdn.com/image/fetch/$s_!szbX!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F02e3f9db-5fe4-4a1b-bd19-5a13bac84aa1_500x500.png)
-
-
-
-](https://substackcdn.com/image/fetch/$s_!szbX!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F02e3f9db-5fe4-4a1b-bd19-5a13bac84aa1_500x500.png)
 
 By George, this is **wealth**.
 
@@ -318,21 +270,9 @@ Come again?
 
 Land is the ultimate source of all wealth, but it's most useful to think of it as a _generator,_ acompletely separate entity from the wealth that human labor and desire draws from it. Players of _Magic: the Gathering_ and _Settlers of Catan_ should already have a solid grasp of this distinction:
 
-[
-
 ![](https://substackcdn.com/image/fetch/$s_!cDFG!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F28ef979e-83da-4d1b-8d81-5f08fd6103a5_516x600.png)
 
-
-
-](https://substackcdn.com/image/fetch/$s_!cDFG!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F28ef979e-83da-4d1b-8d81-5f08fd6103a5_516x600.png)
-
-[
-
 ![](https://substackcdn.com/image/fetch/$s_!PVE6!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F68f4f7f0-2016-4fe9-9996-879a3c92db74_516x600.png)
-
-
-
-](https://substackcdn.com/image/fetch/$s_!PVE6!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F68f4f7f0-2016-4fe9-9996-879a3c92db74_516x600.png)
 
 In modern times, George would grant electromagnetic spectrum and orbital real estate for satellites the same status of "land" that already applies to farmland and terrestrial real estate. We don't even need to speculate about whether he'd attach this status to sunlight because he straight-up predicted solar power:
 
@@ -375,7 +315,7 @@ George spends some time methodically poking holes in the theory (it's prediction
 
 He pulls a G.K. Chesterton to make his point:
 
-> During the time \[the laborer\] is earning the wages he is advancing capital to his employer, but at no time, unless wages are paid before work is done, is the employer advancing capital to him.
+> During the time [the laborer] is earning the wages he is advancing capital to his employer, but at no time, unless wages are paid before work is done, is the employer advancing capital to him.
 
 He starts by identifying the source of confusion:
 
@@ -441,13 +381,7 @@ He goes on for another chapter on "The Maintenance of Laborers Not Drawn From Ca
 
 At least some of George's ideas will not seem so radical to modern readers (especially those already critical of capitalism or neoclassical economics), but it's important to understand that at the time almost everything he was saying was considered deeply radical and shocking. Capital was the fundamental driving force of the economy and labor was utterly dependent on it, and the Malthusian theory of overpopulation was the accepted explanation for why wages were low and workers were starving.
 
-[
-
 ![](https://substackcdn.com/image/fetch/$s_!aeD5!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F348d4d74-8c98-42e6-b5f7-7bd79b30a816_960x611.png)
-
-
-
-](https://substackcdn.com/image/fetch/$s_!aeD5!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F348d4d74-8c98-42e6-b5f7-7bd79b30a816_960x611.png)
 
 Political Cartoon literally demonizing Henry George – Puck magazine Oct. 20, 1886
 
@@ -492,7 +426,7 @@ And yet, with all the awesome slots we've unlocked on the tech tree, and barrels
 
 Or as G.K. Chesterton said, "Too much capitalism does not mean too many capitalists, but too few capitalists." This might seem like a pedantic distinction – misallocated capital could be said to be "scarce" capital – but they're not the same thing at all. As [Francis Bacon said in 1625](https://quoteinvestigator.com/2016/02/05/muck/):
 
-> Riches were like \[Manure\]: When it lay, upon an heape, it gave but a stench, and ill odour; but when it was spread upon the ground, then it was cause of much fruit.
+> Riches were like [Manure]: When it lay, upon an heape, it gave but a stench, and ill odour; but when it was spread upon the ground, then it was cause of much fruit.
 
 Because the prevailing theories of George's time are based on incorrect ideas about the relation between wages and capital, "all remedies, whether proposed by professors of political economy or workingmen, which look to the alleviation of poverty either by the increase of capital or the restriction of the number of laborers or the efficiency of their work, must be condemned."
 
@@ -596,23 +530,11 @@ Lot C is crappy land worth 10 utils.
   
 Let's say I own Lot A. I won't be able to charge you any rent to work on Lot A, if Lot B is freely available for anyone to use. Why would you pay even 1 util worth of rent if you could just work on Lot B, earn 100 utils, and keep it all?
 
-[
-
 ![](https://substackcdn.com/image/fetch/$s_!wRJ6!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fb219ea42-6b0f-41eb-8381-b78052a4c810_600x400.png)
-
-
-
-](https://substackcdn.com/image/fetch/$s_!wRJ6!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fb219ea42-6b0f-41eb-8381-b78052a4c810_600x400.png)
 
 But once I buy Lot B, now if you want access to 100-util Land you have to pay me. How much can I charge? Well, you could always work on Lot C for free, and it'll yield 10 utils. So the most I can charge is 90 utils (100 - 90 = 10).
 
-[
-
 ![](https://substackcdn.com/image/fetch/$s_!cqc9!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F10603100-3169-4734-9ab1-574c9408e1f1_600x400.png)
-
-
-
-](https://substackcdn.com/image/fetch/$s_!cqc9!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F10603100-3169-4734-9ab1-574c9408e1f1_600x400.png)
 
 So here's the Law of Rent – **rent is determined by the** "**margin of production"** (AKA the "margin of cultivation") – the difference between how much you can produce from a particular piece of land (Lot A or B) compared to the least productive alternative (Lot C).
 
@@ -624,13 +546,7 @@ Notice that I as the landlord am not really doing anything here other than ownin
 
 In the popular imagination we pit "capitalists" against "laborers" but a lot of those "capitalists" are landowners in disguise, because in non-Georgist frameworks land is typically considered a kind of capital. George says landowners oppress both labor _and_ capital, cheating both hard work and investment out of their fair share.
 
-[
-
 ![](https://substackcdn.com/image/fetch/$s_!b6hi!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F05e3a6c2-9d06-423d-8d30-7a149bc34633_408x457.jpeg)
-
-
-
-](https://substackcdn.com/image/fetch/$s_!b6hi!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F05e3a6c2-9d06-423d-8d30-7a149bc34633_408x457.jpeg)
 
 Source: can't find the author of this image, closest I can get to its origin is [this blog](https://henrygeorgedevon.wordpress.com/2014/02/02/the-left-and-an-anti-rentier-agenda/)
 
@@ -638,25 +554,13 @@ Okay, but is this still relevant in the modern age, with the internet and work-f
 
 Here, take a look at this chart ([source](https://web.archive.org/web/20200519142916/https://wid.world/news-article/new-paper-long-run-accumulation-wealth-spain-1900-2014-wid-world-working-paper-2018-5/)):
 
-[
-
 ![](https://substackcdn.com/image/fetch/$s_!y6W3!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F8706c7d5-3c73-457f-8b52-cfe36736e48d_1024x669.png)
-
-
-
-](https://substackcdn.com/image/fetch/$s_!y6W3!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F8706c7d5-3c73-457f-8b52-cfe36736e48d_1024x669.png)
 
 I found this in a tweet by [Thomas Piketty](https://twitter.com/PikettyLeMonde/status/963093728150933505), and it shows the breakdown of personal assets in Spain over the last 100+ years. The bulk of the value of personal assets is from landownership. This is still the case even though the chart includes "financial assets" – which are just IOUs that ultimately have something real (e.g. land or wealth) underpinning their value. If we exclude those, the true portion of overall value represented by land is even higher than this graph first implies.
 
 And this isn't just Spain. Here's a graph Nate Blair made for the UK, excluding all financial instruments and only looking at real assets:
 
-[
-
 ![](https://substackcdn.com/image/fetch/$s_!EKyH!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fa0b247fe-9898-4f83-be5e-77259806da00_1008x623.png)
-
-
-
-](https://substackcdn.com/image/fetch/$s_!EKyH!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fa0b247fe-9898-4f83-be5e-77259806da00_1008x623.png)
 
 Based on data from the United Kingdom National Accounts: The Blue Book 2017. Published Oct 31, 2017. Revision Period: Beginning of each time series. Date of next release: July 2018. The "privileges" in "Land and privileges" are things like taxi medallions and patents, that were worth "almost zero" according to Nate.
 
@@ -673,13 +577,7 @@ Let's go back to Lot A and Lot B, both 100-util fields. Let's say they belong to
   
 My landlord raises the rent, of course!
 
-[
-
 ![](https://substackcdn.com/image/fetch/$s_!zIvo!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F43f758ce-2bb5-479e-bc07-b2bb7fcc6eb8_600x400.png)
-
-
-
-](https://substackcdn.com/image/fetch/$s_!zIvo!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F43f758ce-2bb5-479e-bc07-b2bb7fcc6eb8_600x400.png)
 
 The only way wages (the return to labor) and interest (the return to capital) can go up as productivity increases, is if land values fail to rise at the same rate.
 
@@ -785,13 +683,7 @@ Now, let's talk about the **expectations raised by material progress**.
 
 What happens when people _know_ something will increase in value?
 
-[
-
 ![](https://substackcdn.com/image/fetch/$s_!xCOH!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F0cd4ff49-9463-4c13-8cc5-881ab221c4b6_375x523.png)
-
-
-
-](https://substackcdn.com/image/fetch/$s_!xCOH!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F0cd4ff49-9463-4c13-8cc5-881ab221c4b6_375x523.png)
 
 That's right, they buy it up in a speculative frenzy and hold on to it forever, further driving the price up. With conventional speculative instruments like [beanie babies](https://web.archive.org/web/20210214110406/https://slate.com/technology/2015/02/beanie-babies-bubble-economics-and-psychology-of-a-plush-toy-investment-craze.html) or [tulips](https://web.archive.org/web/20210216123829/https://www.investopedia.com/terms/d/dutch_tulip_bulb_market_bubble.asp), the bubble eventually pops. But Land has unique properties that allow this vicious cycle to continue more or less indefinitely.
 
@@ -803,13 +695,7 @@ Georgist pundit geoliberal explains the mindset of a speculator:
 
 > The only thing investors actually maximize is risk adjusted rate of return. When you know rents will increase, your best return comes from buying extra land, not improving the land you have
 
-[
-
 ![](https://substackcdn.com/image/fetch/$s_!uOum!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F8b57ab87-8422-437f-b6c4-f3ccdd223624_1022x597.png)
-
-
-
-](https://substackcdn.com/image/fetch/$s_!uOum!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F8b57ab87-8422-437f-b6c4-f3ccdd223624_1022x597.png)
 
 Illustration courtesy of geoliberal
 
@@ -918,13 +804,7 @@ Okay, but excluding evil Southern plantation owners, don't landlords deserve com
 
 I like Ms. Nguyen too, but let's contrast her with Mr. Slumlord, who owns the apartment block next door that's superficially identical, but who _won't_ help you when your A/C goes out in the middle of summer.
 
-[
-
 ![](https://substackcdn.com/image/fetch/$s_!N5h2!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F01d73228-7c8a-4e35-9d3b-a90ba99d62bc_400x200.png)
-
-
-
-](https://substackcdn.com/image/fetch/$s_!N5h2!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F01d73228-7c8a-4e35-9d3b-a90ba99d62bc_400x200.png)
 
 Ms. Nguyen charges higher "rent" for her much better maintained units because part of that "rent" is actually her justly compensated _wages_ for her _labor_ in managing them, as well as _interest_ from returns on the _capital_ she's invested in their ongoing improvement and maintenance. She also collects a good bit of true Georgian rent because she is, after all, a landlord.
 
@@ -946,13 +826,7 @@ What's an **improvement**?
 
 By George, a little green house is an improvement. A fancy red hotel is an improvement. A garage, a sidewalk, a public park, a Starbucks, a hotdog stand, are all improvements. Installing a bunch of dikes in the Netherlands and dumping landfill into the seabed to turn wet land into dry is an improvement. All improvements come from labor, and optionally capital, and so its fair for those factors to take their return. If I "rent" you my hotdog stand (but _not_ the lot it sits on) my return would be classified as interest in George's framework because the hotdog stand isn't land, it's capital – the stored-up fruits of my labor that I'm using to get more wealth.
 
-[
-
 ![](https://substackcdn.com/image/fetch/$s_!0zK_!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F7aea36c2-328c-4231-b50f-f4eed87e1c53_500x375.png)
-
-
-
-](https://substackcdn.com/image/fetch/$s_!0zK_!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F7aea36c2-328c-4231-b50f-f4eed87e1c53_500x375.png)
 
 (Modified from [source](https://www.flickr.com/photos/9731367@N02/6988181354/in/photolist-bDwfRq-bSr87x-QkCs2c-cvB5Dd-5AauFs-6sC1An-6H2XFG-2i7YxPR-iKTC2Q-9VxavH-eZmHq7-qhw3QS-5VUCha-2iQHBP3-2iWFjty-8p4miF-fJNDWe-cCNRHd-5VUCbT-5VUCjv-6KqdcF-pb33VZ-UDTXXN-a4MWP9-iUZh8o-fJNFje-mPqyQn-bQwKik-mPsa89-24hisqk-mPs6Jq-mPqvo2-fQ59KS-fK6ecC-3JKX1h-2LEWJW-9VzZf3-mPqwtD-mPqh7K-b385pi-5VYXA9-mPqs3z-az2VaR-mB8hbY-mPs5bL-bDwk63-jaQiXT-jaP52F-jaQzUT-jaPeu8), CC BY 2.0, author: [Philip Taylor](https://www.flickr.com/photos/9731367@N02/))
 
@@ -996,13 +870,7 @@ Deadweight Loss is the lost economic activity or value caused by some policy. It
 
 Look at this chart, for example:
 
-[
-
 ![](https://substackcdn.com/image/fetch/$s_!MSUe!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F9e01d1dd-61fa-4c1b-8f90-6669f2c20d81_632x632.png)
-
-
-
-](https://substackcdn.com/image/fetch/$s_!MSUe!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F9e01d1dd-61fa-4c1b-8f90-6669f2c20d81_632x632.png)
 
 ([source](https://commons.wikimedia.org/wiki/File:Deadweight-loss-price-ceiling.svg), CC BY-SA 2.5, author: [SilverStar](https://en.wikipedia.org/wiki/User:SilverStar))
 
@@ -1010,13 +878,7 @@ The place where the demand curve (red) and supply curve (blue) meet is the equil
 
 But here's how things look with a land value tax, notice that the supply curve is _vertical_ – that's weird, what does that mean?
 
-[
-
 ![](https://substackcdn.com/image/fetch/$s_!WZ7g!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F730bd7b8-6dbf-4e23-a799-91187ec8b9ed_520x520.png)
-
-
-
-](https://substackcdn.com/image/fetch/$s_!WZ7g!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F730bd7b8-6dbf-4e23-a799-91187ec8b9ed_520x520.png)
 
 ([source](https://en.wikipedia.org/wiki/File:Perfectly_inelastic_supply.svg), CC BY-SA 3.0, author: Explodicle)
 
@@ -1054,13 +916,7 @@ Land in Times Square will still be a lot more _valuable_ than land in Podunk, Sa
 
 But... doesn't this mean that if people aren't putting land to productive use, they'll eventually be pressured to sell it off to someone who will?
 
-[
-
 ![](https://substackcdn.com/image/fetch/$s_!ZKi0!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F4fd890f3-35ce-415d-a461-2e507eff4ed9_680x709.png)
-
-
-
-](https://substackcdn.com/image/fetch/$s_!ZKi0!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F4fd890f3-35ce-415d-a461-2e507eff4ed9_680x709.png)
 
 George sees this as a _good_ thing.
 
@@ -1074,13 +930,7 @@ As BlueRepublik observes in _[No, Georgism is Still Sane](https://bluerepublik.w
 
 In a fit of performance art, a Georgist by the name of Fay Lewis once famously bought an empty lot and stuck a big sign on it to demonstrate the principle in action:
 
-[
-
 ![](https://substackcdn.com/image/fetch/$s_!gVc9!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F0eccd663-f37b-44b6-ba75-469069befa34_1863x1268.jpeg)
-
-
-
-](https://substackcdn.com/image/fetch/$s_!gVc9!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F0eccd663-f37b-44b6-ba75-469069befa34_1863x1268.jpeg)
 
 Okay, but isn't building too much stuff bad for the environment? Won't this encourage over-development?
 
@@ -1088,23 +938,11 @@ By George, no. What's bad for the environment is _sprawl_, which the current sys
 
 A stronger objection to land value tax is when it's not some shifty speculator or a genocidal English landlord who suffers the brunt of it, but, say, this guy:
 
-[
-
 ![](https://substackcdn.com/image/fetch/$s_!mVYl!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F80f4b70f-b472-47b0-b46d-e74b3190ddfd_536x554.png)
-
-
-
-](https://substackcdn.com/image/fetch/$s_!mVYl!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F80f4b70f-b472-47b0-b46d-e74b3190ddfd_536x554.png)
 
 The premise of Pixar's movie _Up_ is that Carl Fredricksen, a lovably grumpy pensioner, is the last holdout standing in the way of developers bulldozing the rest of his neighborhood in the name of Progress™. He refuses to sell because he can't bear to part with the house which for him is tied up with all the cherished memories of his departed wife.
 
-[
-
 ![](https://substackcdn.com/image/fetch/$s_!G2qa!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fa948c9cc-5271-4b71-8c74-de55e126f16a_640x360.png)
-
-
-
-](https://substackcdn.com/image/fetch/$s_!G2qa!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fa948c9cc-5271-4b71-8c74-de55e126f16a_640x360.png)
 
 This isn't just sentimental fiction, this is something that [really does happen](https://www.goodthingsguy.com/people/house-inspired-disney/).
 

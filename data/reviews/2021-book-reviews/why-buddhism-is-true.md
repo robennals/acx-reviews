@@ -5,23 +5,17 @@ reviewAuthor: "Anonymous"
 contestId: "2021-book-reviews"
 contestName: "2021 Book Reviews"
 year: 2021
-publishedDate: "2026-02-05T07:38:22.749Z"
+publishedDate: "2026-02-05T15:44:07.616Z"
 slug: "why-buddhism-is-true"
-wordCount: 4455
+wordCount: 4451
 readingTimeMinutes: 20
 originalUrl: "https://astralcodexten.substack.com/p/your-book-review-why-buddhism-is"
 source: "acx"
 ---
 
-\[_This is the fifth of many finalists in the book review contest. It’s not by me - it’s by an ACX reader who will remain anonymous until after voting is done, to prevent their identity from influencing your decisions. I’ll be posting about two of these a week for several months. When you’ve read all of them, I’ll ask you to vote for your favorite, so remember which ones you liked. - SA_\]
-
-[
+[_This is the fifth of many finalists in the book review contest. It’s not by me - it’s by an ACX reader who will remain anonymous until after voting is done, to prevent their identity from influencing your decisions. I’ll be posting about two of these a week for several months. When you’ve read all of them, I’ll ask you to vote for your favorite, so remember which ones you liked. - SA_]
 
 ![](https://substackcdn.com/image/fetch/$s_!3vgf!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F60dde4c6-4ba5-4813-9452-5c496db4df3b_412x401.png)
-
-
-
-](https://substackcdn.com/image/fetch/$s_!3vgf!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F60dde4c6-4ba5-4813-9452-5c496db4df3b_412x401.png)
 
 The dark side of enlightenment
 
@@ -39,7 +33,7 @@ On top of that, the book suffers from bipolar disorder. When it's feeling manic,
 
 When it's depressed, it thinks meditation might turn you into a nihilistic vegetable.
 
-> The nihilism problem legitimately \[sic!\] raised by Buddhist philosophy is the problem of not having values at all; it’s the problem of just sitting there not having any particular desire for things to change—not having a desire to bring about social justice or the desire to bring about sex.
+> The nihilism problem legitimately [sic!] raised by Buddhist philosophy is the problem of not having values at all; it’s the problem of just sitting there not having any particular desire for things to change—not having a desire to bring about social justice or the desire to bring about sex.
 
 So why am I reviewing this disappointment of a book? Because beating my head against its inconsistencies helped me come a little closer to understanding how to be a better person. Its vision of enlightenment as a meeting place of wisdom, happiness, and morality might not be as scientifically grounded as Wright makes it out to be, but at least his book convinced me that it’s possible. Plus, it got me to finally grok why moral people are sometimes described as “selfless.”
 
@@ -105,13 +99,7 @@ In conclusion, it's unclear how Wright's enlightened person can think, act, or r
 
 > as far as I'm concerned, between an enlightened Buddhist and a vegetable, there's no difference.
 
-[
-
 ![](https://substackcdn.com/image/fetch/$s_!2KIO!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fc6f369e5-b506-4f95-bbb1-d8f1f016b394_586x348.png)
-
-
-
-](https://substackcdn.com/image/fetch/$s_!2KIO!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fc6f369e5-b506-4f95-bbb1-d8f1f016b394_586x348.png)
 
 **II. The Steelmanic**
 

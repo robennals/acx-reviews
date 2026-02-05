@@ -5,15 +5,15 @@ reviewAuthor: "Anonymous"
 contestId: "2021-book-reviews"
 contestName: "2021 Book Reviews"
 year: 2021
-publishedDate: "2026-02-05T07:38:34.596Z"
+publishedDate: "2026-02-05T15:44:18.041Z"
 slug: "addiction-by-design"
-wordCount: 5185
+wordCount: 5183
 readingTimeMinutes: 24
 originalUrl: "https://astralcodexten.substack.com/p/your-book-review-addiction-by-design"
 source: "acx"
 ---
 
-\[_This is the tenth of many finalists in the book review contest. It’s not by me - it’s by an ACX reader who will remain anonymous until after voting is done, to prevent their identity from influencing your decisions. I’ll be posting about two of these a week for several months. When you’ve read all of them, I’ll ask you to vote for your favorite, so remember which ones you liked. If you like reading these reviews, check out [point 3 here](https://astralcodexten.substack.com/p/open-thread-169) for a way you can help move the contest forward by reading lots more of them - SA_\]
+[_This is the tenth of many finalists in the book review contest. It’s not by me - it’s by an ACX reader who will remain anonymous until after voting is done, to prevent their identity from influencing your decisions. I’ll be posting about two of these a week for several months. When you’ve read all of them, I’ll ask you to vote for your favorite, so remember which ones you liked. If you like reading these reviews, check out [point 3 here](https://astralcodexten.substack.com/p/open-thread-169) for a way you can help move the contest forward by reading lots more of them - SA_]
 
 I was scrolling through TikTok videos a few weeks ago when I came across [a TikTok-sponsored video](https://www.tiktok.com/@tiktoktips/video/6781608784990178566) telling me to stop scrolling and go outside. I was confused. Here I was, perfectly willing (nay, wanting) to spend hours watching dance routines and drawing tutorials I had no intention of copying, but TikTok wanted me to _stop_? Why? Shouldn’t they have been taking advantage of me to maximize “eyeballs,” “time per session,” and “user engagement”?
 
@@ -21,9 +21,9 @@ One explanation is that TikTok is a good corporate citizen that helps its users 
 
 **The Machine**
 
-> Sometimes employees at Netflix think, ‘Oh my god, we’re competing with FX, HBO, or Amazon’ … \[W\]e actually compete with sleep.
+> Sometimes employees at Netflix think, ‘Oh my god, we’re competing with FX, HBO, or Amazon’ … [W]e actually compete with sleep.
 > 
-> \- Reed Hastings
+> - Reed Hastings
 
 Randomness is addictive, in rats. B. F. Skinner learned that when he created his eponymous rat boxes. The boxes had levers that, when pressed, dispensed food pellets. Rats in boxes where one press resulted in one pellet pressed the lever when hungry. But rats in boxes where one press randomly resulted in no, one, or many pellets, became addicted to pressing the lever. That mammalian attraction to randomness lies at the heart of all gambling.
 
@@ -49,13 +49,7 @@ An easy way to add near misses is to expand the viewing window so that symbols a
 
 Another reality distorting optimization is to increase the number of ways a gambler can win. In old-school slot machines, the only way to win was to get winning symbols on the main line: the three symbols in the middle of the screen. Now, there are more ways to win than Horatio dreams of in his philosophy.
 
-[
-
 ![https://ketchupduck.s3.amazonaws.com/lines.jpeg](https://substackcdn.com/image/fetch/$s_!HPsX!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Facc01082-e88f-49c6-ae84-7cdc8ed7570a_475x286.jpeg "https://ketchupduck.s3.amazonaws.com/lines.jpeg")
-
-
-
-](https://substackcdn.com/image/fetch/$s_!HPsX!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Facc01082-e88f-49c6-ae84-7cdc8ed7570a_475x286.jpeg)
 
 Photo credit: [Australian Gambling Research Center](https://aifs.gov.au/agrc/publications/how-electronic-gambling-machines-work/export)
 
@@ -92,7 +86,7 @@ When it comes to machine gamblers, my theory is completely incorrect. People who
 
 The primary objective that machine gambling addicts have is not to win, but to stay in the zone. The zone is a state that suspends real life, and reduces the world to the screen and the buttons of the machine. Entering the zone is easiest when gamblers can get into a rhythm. Anything that disrupts the rhythm becomes an annoyance. This is true even when the disruption is winning the game. Many gamblers talk about how winning the game brings them out of the zone, and they actually dislike winning for that reason. For some gamblers, the very act of pressing buttons to play the game disrupts the rhythm. These gamblers use autoplay modes on games that offer them, and jerryrig an autoplay mode on machines that don’t by jamming something into buttons to keep them pressed. They don’t want to chase a win or pick their lucky numbers, they want to disappear into the zone.
 
-You might have heard of the [horseshoe theory](https://en.wikipedia.org/wiki/Horseshoe_theory) in political science, which claims that the far-left and far-right are much closer to each other than either is to the center of the political spectrum. Imagine a similar horseshoe for states of existence. In the center, you have daily life: activities like eating, cleaning, and working. On the right, you have altered states of existence where time and individuality cease to matter: Csikszentmihalyi’s [flow](https://en.wikipedia.org/wiki/Flow_\(psychology\)), meditative trances, or just intense absorption in interesting work. On the left then, you would get similar altered states of existence, but those which are destructive instead of creative, like the zone machine gamblers desperately seek.
+You might have heard of the [horseshoe theory](https://en.wikipedia.org/wiki/Horseshoe_theory) in political science, which claims that the far-left and far-right are much closer to each other than either is to the center of the political spectrum. Imagine a similar horseshoe for states of existence. In the center, you have daily life: activities like eating, cleaning, and working. On the right, you have altered states of existence where time and individuality cease to matter: Csikszentmihalyi’s [flow](https://en.wikipedia.org/wiki/Flow_(psychology)), meditative trances, or just intense absorption in interesting work. On the left then, you would get similar altered states of existence, but those which are destructive instead of creative, like the zone machine gamblers desperately seek.
 
 I’ve felt the attraction of this dark flow when I’m searching for something to escape from real life for just an hour or two. For me, it takes the form of scrolling through a social media feed. It could be Facebook, Twitter, Reddit, TikTok, or YouTube. I don’t look for anything in particular. I just want the comfort of scrolling through endless meaningless content. Sometimes, I don’t even fully absorb the content. If you took my phone away from me and asked me to name five things I saw, I doubt I’d be able to answer. The content just flows through me while I escape into a zone where real life doesn’t matter.
 
@@ -108,7 +102,7 @@ The book’s description of machine gambling addiction forced me to rethink two 
 
 > Guns don’t kill people, people kill people
 > 
-> \- NRA
+> - NRA
 
 **I.**
 
@@ -118,7 +112,7 @@ Underlying Schüll’s foil is a fairly common instinct that people have about t
 
 In other words, if most people hear a story about a kindly old grandmother who was prescribed opioids for a backache, and became an opioid addict, they blame the opioids for causing her addictions. Without the opioids, she would still be that kindly old grandmother. In contrast, if most people hear a story about a kindly old grandmother who started going to casinos to have fun on slot machines, and became a gambling addict, they blame the grandmother for having a defective character. Even if she hadn’t visited casinos, she would always have had that character defect.
 
-Just this month, the Economist [said](https://www.economist.com/leaders/2020/06/27/why-the-next-olympics-should-include-fortnite), “Critics of e-sports offer moral objections, too. They are addictive. Prince Harry has called for ‘Fortnite’ to be banned for this reason. \[... This argument is not\] very convincing. The idea that an activity, rather than a substance, can be addictive is contentious among doctors.” The state of affairs is that a smart magazine can dismiss the idea of activities being addictive in just one sentence. It’s not games that are addictive, it’s that gamers are weak!
+Just this month, the Economist [said](https://www.economist.com/leaders/2020/06/27/why-the-next-olympics-should-include-fortnite), “Critics of e-sports offer moral objections, too. They are addictive. Prince Harry has called for ‘Fortnite’ to be banned for this reason. [... This argument is not] very convincing. The idea that an activity, rather than a substance, can be addictive is contentious among doctors.” The state of affairs is that a smart magazine can dismiss the idea of activities being addictive in just one sentence. It’s not games that are addictive, it’s that gamers are weak!
 
 I am not an addiction researcher. I don’t know the formal definition of addiction. It is possible that the formal definition of addiction precludes the idea of activities being addictive. But that doesn’t change the fact that activities can absolutely be addictive given the layman’s definition of addiction. If the formal definition of “addiction” does not cover activities that drive compulsive, repetitive, unceasing behavior, then we need a new term that does cover it. But the lack of a word to describe addictive activities doesn’t mean that addictive activities don’t exist. The [Sapir-Whorf hypothesis](https://en.wikipedia.org/wiki/Linguistic_relativity) is not that strong.
 
@@ -162,7 +156,7 @@ I have a few hypotheses. First, maybe virtuous apps do create addictions, but th
 
 The weakest parts of the book stem from the fact that the seed of this book was an academic thesis.
 
-Because of that, the writing occasionally collapses into sleep inducing jargon: “I undertake what the philosopher of technology Don Ihde has alternately called a ‘phenomenology of human-technology’ and ‘materialist phenomenology.’ \[…\] The idea of addiction as a coproduction greater than the sum of the parts from which it emerges resonates with the scientific understandings of addiction sketched above, and is especially fitting for a study of an addiction to interactive gambling technology.”
+Because of that, the writing occasionally collapses into sleep inducing jargon: “I undertake what the philosopher of technology Don Ihde has alternately called a ‘phenomenology of human-technology’ and ‘materialist phenomenology.’ […] The idea of addiction as a coproduction greater than the sum of the parts from which it emerges resonates with the scientific understandings of addiction sketched above, and is especially fitting for a study of an addiction to interactive gambling technology.”
 
 Also because of that, the book takes for granted that capitalism is synonymous with evil. While I agree with the book that one of capitalism’s failure modes is to give people too much of a good thing, I needed more persuasion to be convinced of other things the book blames capitalism for. Take, for example, its assertion that, to the extent that personal failings are responsible for excessive gambling, those personal failings are caused by late capitalism. Capitalism exploits and damages workers so much that they seek out the comfort of machines. But this theory doesn’t explain why the propensity to gamble is present in humans across space and time. Macau is a huge gambling destination, and all types of ancient myths talk about gods and people gambling to excess. Neither modern day China nor ancient Greece or India are hotbeds of late capitalism.
 
@@ -175,7 +169,6 @@ To maintain flow and conserve space, I couldn’t cover everything from the book
 [
 
 ![](https://substackcdn.com/image/fetch/$s_!Hwiq!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F5b0f5424-6b2d-4ffc-87f5-0270a74c84b3_107x160.jpeg)
-
 
 
 ](https://amzn.to/3hrkOzP)

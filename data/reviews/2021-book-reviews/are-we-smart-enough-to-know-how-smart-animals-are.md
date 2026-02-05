@@ -5,7 +5,7 @@ reviewAuthor: "Anonymous"
 contestId: "2021-book-reviews"
 contestName: "2021 Book Reviews"
 year: 2021
-publishedDate: "2026-02-05T07:38:20.286Z"
+publishedDate: "2026-02-05T15:44:05.511Z"
 slug: "are-we-smart-enough-to-know-how-smart-animals-are"
 wordCount: 5430
 readingTimeMinutes: 25
@@ -13,7 +13,7 @@ originalUrl: "https://astralcodexten.substack.com/p/your-book-review-are-we-smar
 source: "acx"
 ---
 
-\[_This is the fourth of many finalists in the book review contest. It’s not by me - it’s by an ACX reader who will remain anonymous until after voting is done, to prevent their identity from influencing your decisions. I’ll be posting about two of these a week for several months. When you’ve read all of them, I’ll ask you to vote for your favorite, so remember which ones you liked. - SA_\]
+[_This is the fourth of many finalists in the book review contest. It’s not by me - it’s by an ACX reader who will remain anonymous until after voting is done, to prevent their identity from influencing your decisions. I’ll be posting about two of these a week for several months. When you’ve read all of them, I’ll ask you to vote for your favorite, so remember which ones you liked. - SA_]
 
 # Book Review - Are We Smart Enough to Know How Smart Animals Are
 
@@ -41,7 +41,7 @@ You know, like every other evolved complex physical system.
 
 ## II. The Main Takeaway: Evolution Is Stingy, Cognition is No Exception
 
-Besides the delightful stories about animals surprising researchers with how clever they can be (they really are a lot of fun), I found the biggest takeaway to be that cognition is not in a special class, and it shows the same evidence of conservation and continuity that you find everywhere else in evolved beings. Just as all vertebrate skeletons show a clear family resemblance, so too do vertebrate brains and nervous systems. The same underlying efficiency of evolution explains both the continuity and the variation of cognition across vertebrates: if something works, it will be kept around, twisted, changed, and put to new uses (to paraphrase Gibson, "the \[environment\] finds its own uses for things"). On the other hand, anything that is _not_ helping a species' fitness will find itself on the wrong side of Darwin's balance sheet. This means that you can expect to see great variation in what kinds of cognitive abilities between species, but when you find species with common capacities and common ancestry, they're likely using the same neural lego blocks to do it (and if they're far enough apart, they probably convergently evolved based on similar selective pressures).
+Besides the delightful stories about animals surprising researchers with how clever they can be (they really are a lot of fun), I found the biggest takeaway to be that cognition is not in a special class, and it shows the same evidence of conservation and continuity that you find everywhere else in evolved beings. Just as all vertebrate skeletons show a clear family resemblance, so too do vertebrate brains and nervous systems. The same underlying efficiency of evolution explains both the continuity and the variation of cognition across vertebrates: if something works, it will be kept around, twisted, changed, and put to new uses (to paraphrase Gibson, "the [environment] finds its own uses for things"). On the other hand, anything that is _not_ helping a species' fitness will find itself on the wrong side of Darwin's balance sheet. This means that you can expect to see great variation in what kinds of cognitive abilities between species, but when you find species with common capacities and common ancestry, they're likely using the same neural lego blocks to do it (and if they're far enough apart, they probably convergently evolved based on similar selective pressures).
 
 ## III. Other Takeaways: How to Do Science, Continuity, Comparison, and Predictive Processing
 
@@ -103,7 +103,7 @@ These are some other books and ideas that I've read that pick up on some of the 
 
 **Read to**: appreciate another huge swath of the natural world for its beauty and complexity.
 
-I was always pretty bored by plants - they don't move, they don't have the [Four Fs](https://en.wikipedia.org/wiki/Four_Fs_\(evolution\)) (Fight, Flight, Feed, and, er, Mate), what could possibly be interesting about them? Well, trees and forests turn out to be amazing interdependent complex systems, so this book not only taught me what there was to love about plants, it also scratched a similar "joy of pure learning" itch to _Are We Smart Enough_. There's less that's directly applicable to humans, though some of its insights on complex systems might come in handy. Wohlleben maybe gets a bit poetic and reads too much into tree "cognition" at places, but I won't hold it too much against him, because he does a great job of re-awakening the awe and wonder many of us have felt for big, beautiful forests.
+I was always pretty bored by plants - they don't move, they don't have the [Four Fs](https://en.wikipedia.org/wiki/Four_Fs_(evolution)) (Fight, Flight, Feed, and, er, Mate), what could possibly be interesting about them? Well, trees and forests turn out to be amazing interdependent complex systems, so this book not only taught me what there was to love about plants, it also scratched a similar "joy of pure learning" itch to _Are We Smart Enough_. There's less that's directly applicable to humans, though some of its insights on complex systems might come in handy. Wohlleben maybe gets a bit poetic and reads too much into tree "cognition" at places, but I won't hold it too much against him, because he does a great job of re-awakening the awe and wonder many of us have felt for big, beautiful forests.
 
 ### War in Human Civilization
 

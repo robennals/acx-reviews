@@ -5,7 +5,7 @@ reviewAuthor: "Anonymous"
 contestId: "2021-book-reviews"
 contestName: "2021 Book Reviews"
 year: 2021
-publishedDate: "2026-02-05T07:38:25.166Z"
+publishedDate: "2026-02-05T15:44:09.704Z"
 slug: "double-fold"
 wordCount: 6921
 readingTimeMinutes: 31
@@ -13,7 +13,7 @@ originalUrl: "https://astralcodexten.substack.com/p/your-book-review-double-fold
 source: "acx"
 ---
 
-\[_This is the sixth of many finalists in the book review contest. It’s not by me - it’s by an ACX reader who will remain anonymous until after voting is done, to prevent their identity from influencing your decisions. I’ll be posting about two of these a week for several months. When you’ve read all of them, I’ll ask you to vote for your favorite, so remember which ones you liked. If you like reading these reviews, check out [point 3 here](https://astralcodexten.substack.com/p/open-thread-169) for a way you can help move the contest forward by reading lots more of them - SA_\]
+[_This is the sixth of many finalists in the book review contest. It’s not by me - it’s by an ACX reader who will remain anonymous until after voting is done, to prevent their identity from influencing your decisions. I’ll be posting about two of these a week for several months. When you’ve read all of them, I’ll ask you to vote for your favorite, so remember which ones you liked. If you like reading these reviews, check out [point 3 here](https://astralcodexten.substack.com/p/open-thread-169) for a way you can help move the contest forward by reading lots more of them - SA_]
 
 If you enter a major research library in the US today and request to see a century-old issue of a major American newspaper, such as _Chicago Tribune_, _The Wall Street Journal_, or major-but-defunct newspapers such as the New York “_World_,” odds are that you will be directed to a computer or a microfilm reader. There, you’ll get to see black-and-white images of the desired issue, with individual numbers of the newspaper often missing and much of the text, let alone pictures, barely decipherable.
 
@@ -25,7 +25,7 @@ This is a shame, since the mass destruction of books and newspapers by libraries
 
 As part of the uproar that followed the book’s publication, the Association of Research Libraries published an online [anti-Baker FAQ](https://web.archive.org/web/20071113050414/http:/www.arl.org/preserv/presresources/Baker_Q_and_A.shtml), and in 2002, the book “_Vandals in the Stacks?_” by Richard J. Cox came out, presenting an attempted refutation of Baker’s theses. I have read both of these and discuss Cox’s arguments later on, but I must admit in advance that I was mostly convinced by Baker’s argumentation much more than by that of his opponents. Nonetheless, it is uncommon to have a polemical book receive a book-length response, and anyone interested in Baker’s thesis is advised to check out Cox as well.[1](#sdfootnote1sym)
 
-\*\*\*
+*\*\*
 
 Few ACX readers probably need an explanation of why 19th- and 20th-century history is interesting, or why it is important. Most major economic, political, or technological decisions in the present hinge to some extent on the understanding of modern history, the interpretation of which depends on the work of historians. A historian will always need to work with some kind of sources, which may be archaeological or epigraphic, but for recent centuries, they will mostly be written sources on paper – manuscripts, books, pamphlets, and newspapers.
 
@@ -129,7 +129,7 @@ Baker counters that this is a wrong way to look at books, since there is no clea
 
 He does, however, manage to find a quote by Patricia Battin, which could serve as the epitome of the High Modernist mindset in American libraries: “_the value, in intellectual terms, of the proximity of the book to the user has never been satisfactorily established_.” Everyone might have hated microfilm, everyone might have preferred working with the original historical artifact – but as long as the value of the artifact wasn’t satisfactorily established, there was no reason why not to trash it.
 
-\*\*\*
+*\*\*
 
 At the time when Baker was writing _Double Fold_, microfilm as an information medium was already on its way out, and most American newspapers and books had already been transferred to microfilm anyway, which means that it wouldn’t have made much sense for anyone to microfilm them again. Microfilming was quickly giving way to digitalization, but it was fairly easy to produce digital copies from microfilm (rather than from the paper originals themselves). Why not let bygones be bygones then, especially since Baker himself admitted that the destruction of books and newspapers had abated during the 1990s, thanks in part to the “abolitionist” campaign of a few scholars and librarians, led by Thomas Tanselle, a professor at Columbia.
 

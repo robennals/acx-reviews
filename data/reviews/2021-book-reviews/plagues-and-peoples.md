@@ -5,15 +5,15 @@ reviewAuthor: "Anonymous"
 contestId: "2021-book-reviews"
 contestName: "2021 Book Reviews"
 year: 2021
-publishedDate: "2026-02-05T07:38:48.902Z"
+publishedDate: "2026-02-05T15:44:30.624Z"
 slug: "plagues-and-peoples"
-wordCount: 4284
+wordCount: 4280
 readingTimeMinutes: 20
 originalUrl: "https://astralcodexten.substack.com/p/your-book-review-plagues-and-peoples"
 source: "acx"
 ---
 
-\[_This is the seventeenth of seventeen finalists in the book review contest. This one was chosen out of the reviews I somehow missed the first time around. There were four other such essays, which you can see in [a supplementary runners-up packet here](https://docs.google.com/document/d/1IrvVgLa6-TEP81UD1-eW5gz1sEJ53Ar88IG0J5i4jQs/edit#). I’ll make a post about how to vote tomorrow. - SA_\]
+[_This is the seventeenth of seventeen finalists in the book review contest. This one was chosen out of the reviews I somehow missed the first time around. There were four other such essays, which you can see in [a supplementary runners-up packet here](https://docs.google.com/document/d/1IrvVgLa6-TEP81UD1-eW5gz1sEJ53Ar88IG0J5i4jQs/edit#). I’ll make a post about how to vote tomorrow. - SA_]
 
 Biological evolution was hijacked by cultural evolution; tools and language allowed humankind to upset the ecological balance in incredible ways. We should all know the story by now. Human grunts to other human and they agree to kill a wooly mammoth together and then grunt and agree to share the meat and then grunt and learn to make a spear and grunt and form a complex society and worldwide dominant species.  
 
@@ -85,13 +85,7 @@ Around 600 BC extensive farming started in the Yellow River Valley. It took enor
 
 This system seemed to work. “A remarkably stable and long-lasting balance was achieved within Chinese society between peasant farmers and the two social classes most directly parasitic upon them. This balance survived, with some important elaborations but not real structural breaks, until the twentieth century.  The system flourished throughout the Yellow River Valley, and eventually beyond. 
 
-[
-
 ![](https://substackcdn.com/image/fetch/$s_!-LBu!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F6c27d95c-c3ab-4192-8f5e-9b5fd756c776_1600x1007.png)
-
-
-
-](https://substackcdn.com/image/fetch/$s_!-LBu!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F6c27d95c-c3ab-4192-8f5e-9b5fd756c776_1600x1007.png)
 
 Yellow River Basin
 
@@ -103,7 +97,7 @@ By the way, guess which major Chinese city is on the Yangtze? (You can look back
 
 In contrast to the Ganges Valley in India, with a civilization and farming starting around 600 BC but remained unstable and never consolidated. The Ganges Valley is hugely productive  agriculturally but also warmer and wetter than China’s southern Yangtze Valley. “Classical Indian civilization thus took form under climatic and (presumed) disease conditions that the early Chinese found too much to bear.” 
 
-It took a long time for China to populate the Yangtze River basin- biological accommodation to a microparasitic climate will take a long time. By that time, around 1200 AD, there is also evidence the Sung Dynasty was a less powerful and less demanding macroparasite. “To achieve such a mass population \[100 million by A.D.1200\] two things were needed: a suitable microparasistic accommodation to the ecological conditions of the Yangtze Valley and regions farther south,  and a regulated macroparasitism that left enough of their product with the Chinese peasants so that they could sustain a substantial rate of natural increase over several generations.”
+It took a long time for China to populate the Yangtze River basin- biological accommodation to a microparasitic climate will take a long time. By that time, around 1200 AD, there is also evidence the Sung Dynasty was a less powerful and less demanding macroparasite. “To achieve such a mass population [100 million by A.D.1200] two things were needed: a suitable microparasistic accommodation to the ecological conditions of the Yangtze Valley and regions farther south,  and a regulated macroparasitism that left enough of their product with the Chinese peasants so that they could sustain a substantial rate of natural increase over several generations.”
 
 **Epistemic Status: A convincing narrative with zero evidence**
 
@@ -148,7 +142,7 @@ McNeill’s [opening paragraph](https://nicspaull.files.wordpress.com/2011/04/gu
 
 [Diamond responds](https://www.nybooks.com/articles/1997/06/26/guns-germs-and-steel/) that he is answering adequately broad questions like: Why was there civilization in Europe and not in Australia?  Closing with “Historians’ failure to explain history’s broadest pattern leaves us with a huge moral gap. In the absence of convincing explanations, many (most?) people resort, consciously or unconsciously, to racist assumptions: the conquerors supposedly had superior IQ or culture.”
 
-McNeill responds “that some few historians are trying to do so \[explain history’s broadest patterns\], among them myself, and with more respect for natural history than Diamond has for the conscious level of human history. He wants simple answers to processes far more complex than he has patience to investigate. Brushing aside the autonomous capability of human culture to alter environments profoundly—and also irreversibly—is simply absurd.”
+McNeill responds “that some few historians are trying to do so [explain history’s broadest patterns], among them myself, and with more respect for natural history than Diamond has for the conscious level of human history. He wants simple answers to processes far more complex than he has patience to investigate. Brushing aside the autonomous capability of human culture to alter environments profoundly—and also irreversibly—is simply absurd.”
 
 Where Diamond sees geography first, McNeill sees biogeography’s interaction with culture first. As far as big picture histories go, I think McNeill has a very convincing and important narrative. However, framing governments versus diseases with individuals in the middle, while interesting, seems to not give the individual too much agency. McNeill could make his narrative more convincing by, at least sometimes, shrinking his ‘unit of analysis’ closer to individuals. 
 
@@ -160,19 +154,13 @@ I wonder what McNeill versus Yuval Noah Harrari would look like. 
 
 I happened across this book last summer, literally on the floor of Buckeye Bend Books in Greenbrier County, West Virginia. An overarching history of humanity framed through the importance of viruses written in 1976 was exactly what I needed. Something to put the year 2020 in context and not hitting refresh on the [John Hopkins’ virus tracker](https://coronavirus.jhu.edu/map.html).  While reading with the intent of relating everything to COVID-19, not too much really correlates super well. 
 
-[
-
 ![](https://substackcdn.com/image/fetch/$s_!yvz1!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F95880ad5-3afe-41e0-8062-a239f1eb0488_800x188.png)
-
-
-
-](https://substackcdn.com/image/fetch/$s_!yvz1!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F95880ad5-3afe-41e0-8062-a239f1eb0488_800x188.png)
 
 Buckeye Bend Books
 
 _Plagues and Peoples_ does not talk too much about the flu. But his remarks are both prescient and a bit gloomy. 
 
-> “Another sort of epidemic disease whose future among mankind remains at least potentially significant is well illustrated by the influenza epidemic of 1918-19. Influenza has been around a long time.\*”  His ninetieth footnote indicates that “no fewer than ninety-four epidemics of influenza between 1173, the earliest he \[August Hirsch\] thought he could identify, and 1875. Of these he calculated at least fifteen had been pandemic, i.e., effected Asia as well as Europe… There is no reason to suppose that influenza was new in 1173, however… the history of the disease remains irrecoverable.” 
+> “Another sort of epidemic disease whose future among mankind remains at least potentially significant is well illustrated by the influenza epidemic of 1918-19. Influenza has been around a long time.\*”  His ninetieth footnote indicates that “no fewer than ninety-four epidemics of influenza between 1173, the earliest he [August Hirsch] thought he could identify, and 1875. Of these he calculated at least fifteen had been pandemic, i.e., effected Asia as well as Europe… There is no reason to suppose that influenza was new in 1173, however… the history of the disease remains irrecoverable.” 
 
 It really drives home what we all knew but did not want to talk too much about: COVID-19 and it’s mutations will be around for a long time. With public health, modern medicine, massive quarantining, and a vaccine in production we have quickly found what might be called a mutually tolerable relationship already. At least a bit more tolerable than in 1918 when the flu infected almost the entire world’s population and killed over twenty million people. The tricky part is that this virus is not mutating or evolving towards becoming ‘more mutually tolerable’; the virus just mutates at random and sometimes it is more deadly and more contagious. We could easily, it seems, have a COVID-24 pandemic. 
 

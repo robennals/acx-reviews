@@ -5,25 +5,19 @@ reviewAuthor: "Anonymous"
 contestId: "2021-book-reviews"
 contestName: "2021 Book Reviews"
 year: 2021
-publishedDate: "2026-02-05T07:38:12.896Z"
+publishedDate: "2026-02-05T15:43:59.133Z"
 slug: "down-and-out-in-paris-and-london"
-wordCount: 13593
+wordCount: 13591
 readingTimeMinutes: 61
 originalUrl: "https://astralcodexten.substack.com/p/your-book-review-down-and-out-in"
 source: "acx"
 ---
 
-\[_This is the fifteenth of seventeen finalists in the book review contest. It’s not by me - it’s by an ACX reader who will remain anonymous until after voting is done, to prevent their identity from influencing your decisions. This entry was promoted to finalist status by readers; thanks to everyone who voted! - SA_\]
+[_This is the fifteenth of seventeen finalists in the book review contest. It’s not by me - it’s by an ACX reader who will remain anonymous until after voting is done, to prevent their identity from influencing your decisions. This entry was promoted to finalist status by readers; thanks to everyone who voted! - SA_]
 
 George Orwell’s _Down and Out in Paris and London_ is at least three things; a highly entertaining, almost picaresque tale of rough-and-tumble living in Europe, a serious attempt to catalogue the numerous humiliations and injustices impoverished people were exposed to in Orwell’s time, and a stark comparison between life as a tramp who makes use of robust, if hellish and kafkaesque welfare resources, and as one who tries to get by working terrible jobs and living in disgusting places.
 
-[
-
 ![](https://substackcdn.com/image/fetch/$s_!jxJp!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fd824994c-1e24-4efd-a015-c86e9472c0ac_1014x1428.png)
-
-
-
-](https://substackcdn.com/image/fetch/$s_!jxJp!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fd824994c-1e24-4efd-a015-c86e9472c0ac_1014x1428.png)
 
 A young(ish) Orwell sporting a very Orwellian mustache
 
@@ -133,7 +127,7 @@ But of course in Orwell’s Paris, no one kept track of that sort of thing. Yet 
 
 I suppose this is the plaque-and-a-rolex of the restaraunt life. Unfortunately, it’s not quite enough to keep Orwell working seventeen hour days in a cramped, dirty kitchen. Soon he writes to a friend in England and begs for a job, and actually receives a reply that sends Orwell into daydreams about a more lesiurely sort of employment:
 
-> _\[I\] was to look after a congenital imbecile, which sounded a splendid rest cure after the Auberge de Jehan Cottard. I pictured myself loafing in the country lanes, knocking thistle-heads off with my stick, feeding on roast lamb and treacle tart, and sleeping ten hours a night in sheets smelling of lavender._
+> _[I] was to look after a congenital imbecile, which sounded a splendid rest cure after the Auberge de Jehan Cottard. I pictured myself loafing in the country lanes, knocking thistle-heads off with my stick, feeding on roast lamb and treacle tart, and sleeping ten hours a night in sheets smelling of lavender._
 
 But before moving on to England, Orwell gives a chapter of analysis of his life as a scullion, and what its greater social significance might be. He quickly labels the Paris scullions a class of modern slaves, and then wonders why such horrible conditions are allowed to exist in a city such as Paris. His answer isinteresting: he sees the problem as basically one of public complacency. The people of Europe see the scullions’ work as something that simply must be done, much like work in the sewers, coal mines etc. But Orwell doesn’t see the scullion’s work that way, at least, not in it’s current state:
 
@@ -145,7 +139,7 @@ Orwell served for five years an an imperial policeman in Burma(now Myanmar), and
 
 > _Similarly with the plongeur. He is a king compared with a rickshaw puller or a gharry pony, but his case is analogous. He is the slave of a hotel or a restaurant, and his slavery is more or less useless. For, after all, where is the real need of big hotels and smart restaurants? They are supposed to provide luxury, but in reality they provide only a cheap, shoddy imitation of it. Nearly everyone hates hotels. Some restaurants are better than others, but it is impossible to get as good a meal in a restaurant as one can get, for the same expense, in a private house. No doubt hotels and restaurants must exist, but there is no need that they should enslave hundreds of people. What makes the work in them is not the essentials; it is the shams that are supposed to represent luxury. Smartness, as it is called, means, in effect, merely that the staff work more and the customers pay more; no one benefits except the proprietor, who will presently buy himself a striped villa at Deauville. Essentially, a 'smart' hotel is a place where a hundred people toil like devils in order that two hundred may pay through the nose for things they do not really want. If the nonsense were cut out of hotels and restaurants, and the work done with simple efficiency, plongeurs might work six or eight hours a day instead often or fifteen._
 
-I see Orwell’s dream as having come true in a limited sense. Upscale restaraunts that serve terrible food made by people working for pennies are relatively rare now( except on cruise ships). Their two primary aspects (hellish working conditions and bad food)have split and diverged and now exist in different food industry niches: on the one hand we have the modern fast food restaraunt, where the work is “done with simple efficiency…\[scullions\] might work six of eight hours a day” and true mid-to-upscale restaraunts, where a higher level of cleanliness and quality in preperation and ingredients is assumed, and I think in most cases, delivered upon. In these sorts of places, which Bourdain describes in [Kitchen Confidential](https://en.wikipedia.org/wiki/Kitchen_Confidential_\(book\)), the chefs work in hellish conditions, but are paid relatively well and work more reasonable, if irregular and nocturnal, hours. In fast food places, people are paid less but are subject to a form of basic protection borne out of the sheer size and visibility of corporations like Burger King and McDonalds. No doubt Orwell would find this situation ghastly in it’s own way, but I doubt he’d deny the life of restaraunt and hotel workers has markedly improved since the 1920s.  
+I see Orwell’s dream as having come true in a limited sense. Upscale restaraunts that serve terrible food made by people working for pennies are relatively rare now( except on cruise ships). Their two primary aspects (hellish working conditions and bad food)have split and diverged and now exist in different food industry niches: on the one hand we have the modern fast food restaraunt, where the work is “done with simple efficiency…[scullions] might work six of eight hours a day” and true mid-to-upscale restaraunts, where a higher level of cleanliness and quality in preperation and ingredients is assumed, and I think in most cases, delivered upon. In these sorts of places, which Bourdain describes in [Kitchen Confidential](https://en.wikipedia.org/wiki/Kitchen_Confidential_(book)), the chefs work in hellish conditions, but are paid relatively well and work more reasonable, if irregular and nocturnal, hours. In fast food places, people are paid less but are subject to a form of basic protection borne out of the sheer size and visibility of corporations like Burger King and McDonalds. No doubt Orwell would find this situation ghastly in it’s own way, but I doubt he’d deny the life of restaraunt and hotel workers has markedly improved since the 1920s.  
   
 Trouble is, Orwell doesn’t see these horrible working conditions are merely a result of people’s misguided desire to eat overpriced, low-quality food:
 

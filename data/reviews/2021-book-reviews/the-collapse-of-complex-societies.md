@@ -5,15 +5,15 @@ reviewAuthor: "Anonymous"
 contestId: "2021-book-reviews"
 contestName: "2021 Book Reviews"
 year: 2021
-publishedDate: "2026-02-05T07:38:41.715Z"
+publishedDate: "2026-02-05T15:44:24.302Z"
 slug: "the-collapse-of-complex-societies"
-wordCount: 5725
+wordCount: 5691
 readingTimeMinutes: 26
 originalUrl: "https://astralcodexten.substack.com/p/your-book-review-the-collapse-of"
 source: "acx"
 ---
 
-\[_This is the thirteenth of many finalists in the book review contest. It’s not by me - it’s by an ACX reader who will remain anonymous until after voting is done, to prevent their identity from influencing your decisions. I’ll be posting about two of these a week for several months. When you’ve read all of them, I’ll ask you to vote for your favorite, so remember which ones you liked. If you like reading these reviews, check out [point 3 here](https://astralcodexten.substack.com/p/open-thread-169) for a way you can help move the contest forward by reading lots more of them - SA_\]
+[_This is the thirteenth of many finalists in the book review contest. It’s not by me - it’s by an ACX reader who will remain anonymous until after voting is done, to prevent their identity from influencing your decisions. I’ll be posting about two of these a week for several months. When you’ve read all of them, I’ll ask you to vote for your favorite, so remember which ones you liked. If you like reading these reviews, check out [point 3 here](https://astralcodexten.substack.com/p/open-thread-169) for a way you can help move the contest forward by reading lots more of them - SA_]
 
 Joseph Tainter’s explanation for why complex societies collapse in one sentence: **the collapse of a society is a response to declining marginal returns on investment in complexity.**
 
@@ -21,13 +21,7 @@ Tainter uses ‘complexity’ pretty loosely. He’s referring to a broad set of
 
 In Tainter’s model, states exist to solve problems. You can think of them as either solving collective social problems, like getting big irrigation systems to work (‘integration theory’), working to placate / oppress the productive populace enough that the elite can keep extracting surplus from them (‘conflict theory’). Either way, states tend to increase in complexity in order to deal with new challenges. That increased complexity imposes greater costs per capita. When the system hits some critical point on the return curve (highest point the graph below), the next stressor makes the state try to unlock the next stage of complexity, which demands more resources than the population can bear. Peasants revolt, republics break away, and the state falls apart.
 
-[
-
 ![](https://substackcdn.com/image/fetch/$s_!RGVg!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F39c9869d-4ed0-4b5e-b660-44b8b35be972_1144x772.png)
-
-
-
-](https://substackcdn.com/image/fetch/$s_!RGVg!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F39c9869d-4ed0-4b5e-b660-44b8b35be972_1144x772.png)
 
 (Tainter is clear that he doesn’t think collapse is always bad – sometimes it just means that the state falls apart into smaller components that are more the correct size to look after itself.)
 
@@ -43,13 +37,7 @@ That seems... weird. I’ll try to make more sense of it after summarizing the b
 
 Each advance leading from hunter-gatherers to industrial agriculture has made the food costlier to acquire. The agriculture section is full of graphs that look like this, showing the more work you put in the less yield you get per unit of work:
 
-> [
-> 
 > ![](https://substackcdn.com/image/fetch/$s_!4j0j!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F992f0ac8-7f5a-4d90-be14-a40dc58aecc3_540x343.png)
-> 
-> 
-> 
-> ](https://substackcdn.com/image/fetch/$s_!4j0j!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F992f0ac8-7f5a-4d90-be14-a40dc58aecc3_540x343.png)
 
 Similarly, modern systems for extracting coal or oil from the ground are increasingly complicated and expensive:
 
@@ -63,13 +51,7 @@ _..._
 
 Using patents as a proxy for how much scientific innovation is happening in a nation, Tainter shows that the number of patents per scientists declined pretty consistently in the 20th century. The graph covering the biggest time period looks like this (USA): 
 
-> [
-> 
 > ![](https://substackcdn.com/image/fetch/$s_!po7s!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F1ecce987-f568-4040-b889-9184ea1063e3_540x663.png)
-> 
-> 
-> 
-> ](https://substackcdn.com/image/fetch/$s_!po7s!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F1ecce987-f568-4040-b889-9184ea1063e3_540x663.png)
 
 The trend continues after 1950:
 
@@ -147,13 +129,7 @@ I’m not sure why the Mayans didn’t have standing armies and find this quite 
 
 The population, agricultural output, number of administrators, and monumental construction at Mayan centers increased until it hit some critical point. The following graph shows monumental construction (one katun is approximately 20 years):
 
-> [
-> 
 > ![](https://substackcdn.com/image/fetch/$s_!0eG3!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fac1e9aaa-a8f7-436b-b3cf-8d58476279eb_540x593.png)
-> 
-> 
-> 
-> ](https://substackcdn.com/image/fetch/$s_!0eG3!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fac1e9aaa-a8f7-436b-b3cf-8d58476279eb_540x593.png)
 
 For the **Chacoans**, a trading society that arose in ~900AD in Chaco Canyon in present-day New Mexico before dissipating in ~1200, the strategy was adding nodes to their trade network. Trade was highly advantageous for the people in and around Chaco Canyon, because high and low elevation crops were available at complementary times of the year. Tainter thinks the need for coordination spurred political centralization:
 
@@ -161,13 +137,7 @@ For the **Chacoans**, a trading society that arose in ~900AD in Chaco Canyon in 
 
 Each node of trade had a Great House, which ranged from one room to several hundred on multiple stories, used for storage of surplus and housing the elite. The Great Houses of Chaco Canyon traded extensively with neighbors 50~80 kilometers in various directions, building and maintaining hundreds of kilometers of wide roads for trade – the Chaco Canyon nodes are in the little rectangle in the map below.
 
-[
-
 ![](https://substackcdn.com/image/fetch/$s_!gmBl!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F903a41da-35c0-417c-8665-e17b1d6c4173_862x598.png)
-
-
-
-](https://substackcdn.com/image/fetch/$s_!gmBl!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F903a41da-35c0-417c-8665-e17b1d6c4173_862x598.png)
 
 Over time, the groups in the area became increasingly economically linked. The Canyon Great Houses took 150~200 thousand trees to roof, obtained from dozens of kilometers away. (I assume carried on foot.) The Canyon population exceeded that which the nearby land could feed, and imported food – between 1020 and 1120, one Canyon site imported 111 pottery vessels per day on average from a neighbor 50 miles away, which probably contained maize and other crops.
 
@@ -203,13 +173,7 @@ Tainter points at another consequence of everywhere being like competing peer po
 
 ### Why not grow to the optimal point and stop?
 
-[
-
 ![](https://substackcdn.com/image/fetch/$s_!KNdy!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Ffac5122c-016e-4428-8e2c-ba801dccf0a8_1185x873.png)
-
-
-
-](https://substackcdn.com/image/fetch/$s_!KNdy!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Ffac5122c-016e-4428-8e2c-ba801dccf0a8_1185x873.png)
 
 Why can states not simply grow to their optimal size and stay there? If becoming more administratively complex would cost more than it would produce, simply do not do that. If conquering a territory would be a resource drain, do not conquer it. Or conquer it to bring in the initial surge of loot, and then when administering it is more than it’s worth, relinquish control. What was stopping Rome from releasing and re-conquering territories every 100 years like a huge field with a big fallow period? Why hang on?
 
@@ -241,23 +205,11 @@ I have too distant a relationship with current events to have informed takes on 
 
 ⊙ I’m not sold on Tainter’s idea that the state has to keep increasing benefits to the citizenry to stay legitimate, but the USA _has_ been spending an increasing amount of its budget on healthcare and pensions. (Not sure what this looks like if you adjust for the aging population, but from eyeballing it looks like it’s outpacing the proportion of old people.) The best visualization of this phenomenon is from heritage.org, a conservative think tank:
 
-[
-
 ![](https://substackcdn.com/image/fetch/$s_!sgAj!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F83f562fe-514d-4756-962f-38493ec82acc_600x551.png)
-
-
-
-](https://substackcdn.com/image/fetch/$s_!sgAj!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F83f562fe-514d-4756-962f-38493ec82acc_600x551.png)
 
 Which seems pretty similar to the nonpartisan Pew Research Center’s (more visually confusing) presentation of government spending as a proportion of GDP:
 
-[
-
 ![](https://substackcdn.com/image/fetch/$s_!PITz!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F6e8148fc-1aea-476c-99ff-4167c6936bf8_420x675.png)
-
-
-
-](https://substackcdn.com/image/fetch/$s_!PITz!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F6e8148fc-1aea-476c-99ff-4167c6936bf8_420x675.png)
 
 ⊙ The US national debt is growing. That seems obviously concerning to me, but some people say this is fine. I’m not sure why – it seems just as much borrowing from the future as Rome depreciating its currency, which very much did get it in trouble, according to Tainter. Even the people who agree it’s obviously concerning don’t seem “holy shit this is going to be a big input into the downfall of our civilization” levels of concerned. Not sure what to think about this.
 

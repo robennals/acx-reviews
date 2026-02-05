@@ -172,12 +172,20 @@ function ReviewCard({ review, progress, compact }: ReviewCardProps) {
               {review.title}
             </h3>
 
-            {/* Book author & reviewer */}
-            <p className="text-sm text-muted-foreground mb-2">
-              <span className="text-foreground/80">{review.author}</span>
-              {' '}&middot;{' '}
-              reviewed by {review.reviewAuthor}
-            </p>
+            {/* Book author & reviewer - only show if meaningful */}
+            {(review.author !== 'Unknown' || review.reviewAuthor !== 'Anonymous') && (
+              <p className="text-sm text-muted-foreground mb-2">
+                {review.author !== 'Unknown' && (
+                  <span className="text-foreground/80">{review.author}</span>
+                )}
+                {review.author !== 'Unknown' && review.reviewAuthor !== 'Anonymous' && (
+                  <>{' '}&middot;{' '}</>
+                )}
+                {review.reviewAuthor !== 'Anonymous' && (
+                  <>reviewed by {review.reviewAuthor}</>
+                )}
+              </p>
+            )}
 
             {/* Excerpt */}
             {!compact && (

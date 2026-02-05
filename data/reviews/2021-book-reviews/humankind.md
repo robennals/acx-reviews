@@ -5,7 +5,7 @@ reviewAuthor: "Anonymous"
 contestId: "2021-book-reviews"
 contestName: "2021 Book Reviews"
 year: 2021
-publishedDate: "2026-02-05T07:38:39.477Z"
+publishedDate: "2026-02-05T15:44:22.224Z"
 slug: "humankind"
 wordCount: 7365
 readingTimeMinutes: 33
@@ -13,7 +13,7 @@ originalUrl: "https://astralcodexten.substack.com/p/your-book-review-humankind"
 source: "acx"
 ---
 
-\[_This is the twelfth of many finalists in the book review contest. It’s not by me - it’s by an ACX reader who will remain anonymous until after voting is done, to prevent their identity from influencing your decisions. I’ll be posting about two of these a week for several months. When you’ve read all of them, I’ll ask you to vote for your favorite, so remember which ones you liked. If you like reading these reviews, check out [point 3 here](https://astralcodexten.substack.com/p/open-thread-169) for a way you can help move the contest forward by reading lots more of them - SA_\]
+[_This is the twelfth of many finalists in the book review contest. It’s not by me - it’s by an ACX reader who will remain anonymous until after voting is done, to prevent their identity from influencing your decisions. I’ll be posting about two of these a week for several months. When you’ve read all of them, I’ll ask you to vote for your favorite, so remember which ones you liked. If you like reading these reviews, check out [point 3 here](https://astralcodexten.substack.com/p/open-thread-169) for a way you can help move the contest forward by reading lots more of them - SA_]
 
 Human nature is usually said to be basically selfish and sinful, but Rutger Bregman begs to differ. In Humankind he argues that human nature is basically kind and decent. Unfortunately, his approach seems to have been inspired by Monty Python: in the introduction he builds a sparkling argument, then in section one he accidentally sets it on fire, knocks it over, and then watches it sink into the swamp. Then in section two he rebuilds it, only to douse it in petrol, and then leave the chip pan on in section three. By the end of this review we'll have unearthed some important truths. None of them will be "we can trust Bregman for logical consistency and factual accuracy".
 
@@ -155,7 +155,7 @@ You might have noticed that democracy has been having a difficult century so far
 
 In the classic Yes Prime Minister episode Power to the People, Jim Hacker's political advisor moots increasing representation to the point where everyone could personally know their representative. "What should we call it?" he asked. "How about democracy?" she replies.
 
-It turns out something like this has actually been tried. In 2004 in Torres, Venezula, an outside candidate, Julio Chavez was elected mayor on a platform of turning power over to the people. And he did. Hundreds of gatherings of residents took place which decided 100% of how the budget would be spent. The result was a huge success, with less corruption, more infrastructure, fewer glory projects, and a much more engaged electorate. Julio has retired, but the process is still going on under his successor. Last year 15,000 people participated in setting the budget. This isn't a one off, Porto Alegre, Brazil, started allocating a quarter of its budget this way in 1989, today more than 1,500 cities from New York to Hamburg are doing something in this space. "\[This is\] one of the biggest movements of the twenty-first century," writes Bregman, "but the chances are you've never heard of it." I certainly hadn't. Apparently, citizens engaging in calm, constructive, detailed dialogue is lousy box office, and none of them have hired promoters or bought ad time. Lousy box office it might be, but trusting our populations might just be the recipe for revitalising our democracies.
+It turns out something like this has actually been tried. In 2004 in Torres, Venezula, an outside candidate, Julio Chavez was elected mayor on a platform of turning power over to the people. And he did. Hundreds of gatherings of residents took place which decided 100% of how the budget would be spent. The result was a huge success, with less corruption, more infrastructure, fewer glory projects, and a much more engaged electorate. Julio has retired, but the process is still going on under his successor. Last year 15,000 people participated in setting the budget. This isn't a one off, Porto Alegre, Brazil, started allocating a quarter of its budget this way in 1989, today more than 1,500 cities from New York to Hamburg are doing something in this space. "[This is] one of the biggest movements of the twenty-first century," writes Bregman, "but the chances are you've never heard of it." I certainly hadn't. Apparently, citizens engaging in calm, constructive, detailed dialogue is lousy box office, and none of them have hired promoters or bought ad time. Lousy box office it might be, but trusting our populations might just be the recipe for revitalising our democracies.
 
 **Part 5: Treating people differently  
 **_**Turning the other cheek to zero tolerance**_  
