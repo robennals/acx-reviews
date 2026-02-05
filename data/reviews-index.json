@@ -1,5 +1,37 @@
 [
   {
+    "id": "down-and-out-in-paris-and-london",
+    "title": "Down And Out In Paris And London",
+    "author": "Unknown",
+    "reviewAuthor": "Anonymous",
+    "contestId": "2021-book-reviews",
+    "contestName": "2021 Book Reviews",
+    "year": 2021,
+    "publishedDate": "2026-02-04T17:02:57.121Z",
+    "slug": "down-and-out-in-paris-and-london",
+    "excerpt": "\\[This is the fifteenth of seventeen finalists in the book review contest. It’s not by me - it’s by an ACX reader who will remain anonymous until after voting is done, to prevent their identity from...",
+    "wordCount": 13593,
+    "readingTimeMinutes": 61,
+    "originalUrl": "https://astralcodexten.substack.com/p/your-book-review-down-and-out-in",
+    "source": "acx"
+  },
+  {
+    "id": "progress-and-poverty",
+    "title": "Progress and Poverty",
+    "author": "Unknown",
+    "reviewAuthor": "Anonymous",
+    "contestId": "2021-book-reviews",
+    "contestName": "2021 Book Reviews",
+    "year": 2021,
+    "publishedDate": "2026-02-04T17:02:54.577Z",
+    "slug": "progress-and-poverty",
+    "excerpt": "\\[This is the third of many finalists in the book review contest. It’s not by me - it’s by an ACX reader who will remain anonymous until after voting is done, to prevent their identity from...",
+    "wordCount": 18700,
+    "readingTimeMinutes": 84,
+    "originalUrl": "https://astralcodexten.substack.com/p/your-book-review-progress-and-poverty",
+    "source": "acx"
+  },
+  {
     "id": "sample-review",
     "title": "Sample Book Title",
     "author": "Sample Author",
