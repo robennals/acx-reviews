@@ -50,75 +50,92 @@ const config: Config = {
         sm: "calc(var(--radius) - 4px)",
       },
       fontFamily: {
-        sans: ['Inter', 'system-ui', 'sans-serif'],
-        serif: ['Georgia', 'Cambria', 'Times New Roman', 'serif'],
-        display: ['Inter', 'system-ui', 'sans-serif'],
-      },
-      fontSize: {
-        'reading': ['1.125rem', { lineHeight: '1.85' }],
-        'reading-lg': ['1.25rem', { lineHeight: '1.8' }],
-      },
-      boxShadow: {
-        'soft': '0 2px 15px -3px rgba(0, 0, 0, 0.07), 0 10px 20px -2px rgba(0, 0, 0, 0.04)',
-        'soft-lg': '0 10px 40px -10px rgba(0, 0, 0, 0.1), 0 2px 10px -2px rgba(0, 0, 0, 0.04)',
-        'inner-soft': 'inset 0 2px 4px 0 rgba(0, 0, 0, 0.02)',
-        'glow': '0 0 20px -5px hsl(var(--primary) / 0.3)',
+        sans: ['var(--font-sans)', 'system-ui', 'sans-serif'],
+        serif: ['var(--font-serif)', 'Georgia', 'Cambria', 'Times New Roman', 'serif'],
       },
       typography: {
         DEFAULT: {
           css: {
-            maxWidth: "68ch",
+            maxWidth: "none",
             fontSize: "1.125rem",
-            lineHeight: "1.85",
+            lineHeight: "1.8",
             color: "hsl(var(--foreground))",
+            fontFamily: "var(--font-serif), Georgia, serif",
+
+            // Paragraphs
             p: {
               marginTop: "1.5em",
               marginBottom: "1.5em",
             },
+
+            // Links - LessWrong style green
             a: {
-              color: "hsl(var(--primary))",
+              color: "hsl(var(--link))",
               textDecoration: "none",
-              borderBottom: "1px solid hsl(var(--primary) / 0.3)",
-              transition: "border-color 0.2s ease",
               "&:hover": {
-                borderColor: "hsl(var(--primary))",
+                textDecoration: "underline",
               },
             },
+
+            // Strong
             strong: {
               color: "hsl(var(--foreground))",
               fontWeight: "600",
             },
+
+            // Headings
             h1: {
-              fontWeight: "700",
+              fontFamily: "var(--font-serif), Georgia, serif",
+              fontWeight: "600",
+              fontSize: "2em",
               letterSpacing: "-0.02em",
               color: "hsl(var(--foreground))",
+              marginTop: "1.5em",
+              marginBottom: "0.75em",
             },
             h2: {
+              fontFamily: "var(--font-serif), Georgia, serif",
               fontWeight: "600",
+              fontSize: "1.5em",
               letterSpacing: "-0.01em",
-              marginTop: "2.5em",
-              marginBottom: "1em",
-              color: "hsl(var(--foreground))",
-            },
-            h3: {
-              fontWeight: "600",
-              marginTop: "2em",
+              marginTop: "1.75em",
               marginBottom: "0.75em",
               color: "hsl(var(--foreground))",
             },
+            h3: {
+              fontFamily: "var(--font-serif), Georgia, serif",
+              fontWeight: "600",
+              fontSize: "1.25em",
+              marginTop: "1.5em",
+              marginBottom: "0.5em",
+              color: "hsl(var(--foreground))",
+            },
+            h4: {
+              fontFamily: "var(--font-serif), Georgia, serif",
+              fontWeight: "600",
+              marginTop: "1.25em",
+              marginBottom: "0.5em",
+              color: "hsl(var(--foreground))",
+            },
+
+            // Blockquotes
             blockquote: {
               fontStyle: "italic",
-              borderLeftColor: "hsl(var(--primary) / 0.5)",
+              borderLeftColor: "hsl(var(--border))",
               borderLeftWidth: "3px",
-              paddingLeft: "1.5em",
+              paddingLeft: "1.25em",
+              marginLeft: "0",
               color: "hsl(var(--muted-foreground))",
             },
+
+            // Code
             code: {
               backgroundColor: "hsl(var(--muted))",
-              padding: "0.25em 0.4em",
-              borderRadius: "0.25em",
+              padding: "0.2em 0.4em",
+              borderRadius: "4px",
               fontSize: "0.875em",
               fontWeight: "400",
+              fontFamily: "ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace",
               color: "hsl(var(--foreground))",
             },
             "code::before": {
@@ -129,49 +146,70 @@ const config: Config = {
             },
             pre: {
               backgroundColor: "hsl(var(--muted))",
-              borderRadius: "var(--radius)",
-              padding: "1.25em",
+              borderRadius: "6px",
+              padding: "1em 1.25em",
               overflow: "auto",
+              fontSize: "0.875em",
+              lineHeight: "1.6",
             },
+            "pre code": {
+              backgroundColor: "transparent",
+              padding: "0",
+              borderRadius: "0",
+            },
+
+            // Horizontal rules
             hr: {
               borderColor: "hsl(var(--border))",
-              marginTop: "3em",
-              marginBottom: "3em",
+              marginTop: "2.5em",
+              marginBottom: "2.5em",
             },
+
+            // Lists
             ul: {
-              paddingLeft: "1.25em",
+              paddingLeft: "1.5em",
             },
             ol: {
-              paddingLeft: "1.25em",
+              paddingLeft: "1.5em",
             },
             li: {
               marginTop: "0.5em",
               marginBottom: "0.5em",
             },
+            "li::marker": {
+              color: "hsl(var(--muted-foreground))",
+            },
+
+            // Images
             img: {
-              borderRadius: "var(--radius)",
-              boxShadow: "0 4px 20px -5px rgba(0, 0, 0, 0.1)",
+              borderRadius: "6px",
+              marginTop: "2em",
+              marginBottom: "2em",
+            },
+
+            // Figures
+            figcaption: {
+              color: "hsl(var(--muted-foreground))",
+              fontSize: "0.875em",
+              marginTop: "0.75em",
+              textAlign: "center",
+            },
+
+            // Tables
+            table: {
+              fontSize: "0.9375em",
+            },
+            thead: {
+              borderBottomColor: "hsl(var(--border))",
+            },
+            "thead th": {
+              fontWeight: "600",
+              color: "hsl(var(--foreground))",
+            },
+            "tbody tr": {
+              borderBottomColor: "hsl(var(--border))",
             },
           },
-        },
-      },
-      animation: {
-        "fade-in": "fadeIn 0.5s ease-out forwards",
-        "slide-up": "slideUp 0.5s ease-out forwards",
-        "pulse-soft": "pulseSoft 2s ease-in-out infinite",
-      },
-      keyframes: {
-        fadeIn: {
-          "0%": { opacity: "0", transform: "translateY(10px)" },
-          "100%": { opacity: "1", transform: "translateY(0)" },
-        },
-        slideUp: {
-          "0%": { opacity: "0", transform: "translateY(20px)" },
-          "100%": { opacity: "1", transform: "translateY(0)" },
-        },
-        pulseSoft: {
-          "0%, 100%": { opacity: "1" },
-          "50%": { opacity: "0.7" },
         },
       },
     },

@@ -4,56 +4,58 @@
 
 @layer base {
   :root {
-    /* Warm, literary color palette */
-    --background: 40 33% 99%;
-    --foreground: 20 14% 12%;
+    /* Warm, readable palette inspired by LessWrong/Substack */
+    --background: 40 20% 99%;
+    --foreground: 220 15% 15%;
     --card: 0 0% 100%;
-    --card-foreground: 20 14% 12%;
+    --card-foreground: 220 15% 15%;
     --popover: 0 0% 100%;
-    --popover-foreground: 20 14% 12%;
-    --primary: 24 75% 50%;
+    --popover-foreground: 220 15% 15%;
+    --primary: 220 15% 15%;
     --primary-foreground: 0 0% 100%;
-    --secondary: 40 20% 94%;
-    --secondary-foreground: 20 14% 12%;
-    --muted: 40 20% 96%;
-    --muted-foreground: 20 8% 46%;
-    --accent: 24 60% 95%;
-    --accent-foreground: 24 75% 35%;
+    --secondary: 40 15% 96%;
+    --secondary-foreground: 220 15% 15%;
+    --muted: 40 15% 96%;
+    --muted-foreground: 220 10% 45%;
+    --accent: 40 15% 96%;
+    --accent-foreground: 220 15% 15%;
     --destructive: 0 84.2% 60.2%;
     --destructive-foreground: 0 0% 100%;
-    --border: 30 15% 90%;
-    --input: 30 15% 90%;
-    --ring: 24 75% 50%;
-    --radius: 0.75rem;
+    --border: 220 10% 88%;
+    --input: 220 10% 88%;
+    --ring: 220 15% 15%;
+    --radius: 0.375rem;
 
-    /* Custom accent colors */
-    --amber: 38 92% 50%;
-    --emerald: 158 64% 42%;
-    --reading-progress: 24 100% 55%;
+    /* LessWrong-style green for links */
+    --link: 150 50% 30%;
+    --link-hover: 150 50% 22%;
+    --reading-progress: 150 50% 35%;
   }
 
   .dark {
-    --background: 20 14% 8%;
-    --foreground: 40 20% 94%;
-    --card: 20 14% 11%;
-    --card-foreground: 40 20% 94%;
-    --popover: 20 14% 11%;
-    --popover-foreground: 40 20% 94%;
-    --primary: 24 85% 60%;
-    --primary-foreground: 20 14% 8%;
-    --secondary: 20 14% 16%;
-    --secondary-foreground: 40 20% 94%;
-    --muted: 20 14% 16%;
-    --muted-foreground: 40 10% 60%;
-    --accent: 20 20% 18%;
-    --accent-foreground: 24 85% 65%;
+    --background: 220 15% 8%;
+    --foreground: 40 15% 92%;
+    --card: 220 15% 11%;
+    --card-foreground: 40 15% 92%;
+    --popover: 220 15% 11%;
+    --popover-foreground: 40 15% 92%;
+    --primary: 40 15% 92%;
+    --primary-foreground: 220 15% 8%;
+    --secondary: 220 15% 15%;
+    --secondary-foreground: 40 15% 92%;
+    --muted: 220 15% 15%;
+    --muted-foreground: 40 10% 55%;
+    --accent: 220 15% 18%;
+    --accent-foreground: 40 15% 92%;
     --destructive: 0 62.8% 50%;
     --destructive-foreground: 0 0% 100%;
-    --border: 20 14% 20%;
-    --input: 20 14% 20%;
-    --ring: 24 85% 60%;
+    --border: 220 15% 20%;
+    --input: 220 15% 20%;
+    --ring: 40 15% 92%;
 
-    --reading-progress: 24 100% 60%;
+    --link: 150 45% 50%;
+    --link-hover: 150 45% 60%;
+    --reading-progress: 150 45% 50%;
   }
 }
 
@@ -73,54 +75,23 @@
     font-feature-settings: "kern" 1, "liga" 1, "calt" 1;
   }
 
-  /* Selection styling */
   ::selection {
-    @apply bg-primary/20 text-foreground;
+    @apply bg-[hsl(var(--link))]/20 text-foreground;
   }
 }
 
 @layer components {
-  /* Custom scrollbar */
-  .custom-scrollbar::-webkit-scrollbar {
-    width: 6px;
-  }
-  .custom-scrollbar::-webkit-scrollbar-track {
-    @apply bg-transparent;
-  }
-  .custom-scrollbar::-webkit-scrollbar-thumb {
-    @apply bg-border rounded-full;
-  }
-  .custom-scrollbar::-webkit-scrollbar-thumb:hover {
-    @apply bg-muted-foreground/30;
+  /* Link styling */
+  .text-link {
+    @apply text-[hsl(var(--link))] hover:text-[hsl(var(--link-hover))];
   }
 
-  /* Elegant link underline animation */
-  .link-underline {
-    @apply relative inline-block;
+  /* Card hover effect */
+  .hover-card {
+    @apply transition-all duration-200;
   }
-  .link-underline::after {
-    content: '';
-    @apply absolute bottom-0 left-0 w-0 h-px bg-current transition-all duration-300;
-  }
-  .link-underline:hover::after {
-    @apply w-full;
-  }
-
-  /* Card hover glow effect */
-  .card-glow {
-    @apply relative overflow-hidden;
-  }
-  .card-glow::before {
-    content: '';
-    @apply absolute -inset-px bg-gradient-to-r from-primary/0 via-primary/10 to-primary/0 opacity-0 transition-opacity duration-500;
-  }
-  .card-glow:hover::before {
-    @apply opacity-100;
-  }
-
-  /* Gradient text */
-  .gradient-text {
-    @apply bg-clip-text text-transparent bg-gradient-to-r from-primary to-amber-600;
+  .hover-card:hover {
+    @apply bg-muted/50;
   }
 }
 
@@ -129,36 +100,7 @@
     text-wrap: balance;
   }
 
-  /* Reading-optimized line height */
   .leading-reading {
-    line-height: 1.8;
-  }
-
-  /* Fade in animation */
-  .animate-fade-in {
-    animation: fadeIn 0.5s ease-out forwards;
-  }
-
-  @keyframes fadeIn {
-    from {
-      opacity: 0;
-      transform: translateY(10px);
-    }
-    to {
-      opacity: 1;
-      transform: translateY(0);
-    }
-  }
-
-  /* Stagger animation delay */
-  .stagger-1 { animation-delay: 50ms; }
-  .stagger-2 { animation-delay: 100ms; }
-  .stagger-3 { animation-delay: 150ms; }
-  .stagger-4 { animation-delay: 200ms; }
-
-  /* Subtle background pattern */
-  .bg-pattern {
-    background-image: radial-gradient(hsl(var(--muted-foreground) / 0.03) 1px, transparent 1px);
-    background-size: 24px 24px;
+    line-height: 1.75;
   }
 }
