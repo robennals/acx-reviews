@@ -5,7 +5,7 @@ reviewAuthor: "Anonymous"
 contestId: "2021-book-reviews"
 contestName: "2021 Book Reviews"
 year: 2021
-publishedDate: "2026-02-04T17:02:54.577Z"
+publishedDate: "2026-02-05T07:38:10.384Z"
 slug: "progress-and-poverty"
 wordCount: 18700
 readingTimeMinutes: 84

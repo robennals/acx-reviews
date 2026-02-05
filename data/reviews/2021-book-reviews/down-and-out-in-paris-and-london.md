@@ -5,7 +5,7 @@ reviewAuthor: "Anonymous"
 contestId: "2021-book-reviews"
 contestName: "2021 Book Reviews"
 year: 2021
-publishedDate: "2026-02-04T17:02:57.121Z"
+publishedDate: "2026-02-05T07:38:12.896Z"
 slug: "down-and-out-in-paris-and-london"
 wordCount: 13593
 readingTimeMinutes: 61

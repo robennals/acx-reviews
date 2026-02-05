@@ -210,7 +210,13 @@ async function processPost(
  * Main function
  */
 async function main() {
+  // Check for contest filter argument
+  const filterContest = process.argv[2];
+
   console.log('📚 Starting ACX post fetch...\n');
+  if (filterContest) {
+    console.log(`🎯 Filtering to contest: ${filterContest}\n`);
+  }
 
   // Check if sources file exists
   if (!fs.existsSync(ACX_SOURCES_PATH)) {
@@ -226,8 +232,11 @@ async function main() {
   let totalProcessed = 0;
   let totalFailed = 0;
 
-  // Process each contest
+  // Process each contest (optionally filtered)
   for (const [contestId, posts] of Object.entries(sources)) {
+    if (filterContest && contestId !== filterContest) {
+      continue;
+    }
     console.log(`\n${'='.repeat(60)}`);
     console.log(`📂 Processing contest: ${contestId}`);
     console.log(`   ${posts.length} posts to fetch`);
