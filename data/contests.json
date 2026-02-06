@@ -5,7 +5,7 @@
     "year": 2025,
     "type": "non-book",
     "description": "Reviews of music, games, TV/movies, and other non-book subjects",
-    "reviewCount": 0,
+    "reviewCount": 120,
     "sourceType": "both"
   },
   {
@@ -14,7 +14,7 @@
     "year": 2024,
     "type": "book",
     "description": "Book review contest entries from 2024",
-    "reviewCount": 0,
+    "reviewCount": 154,
     "sourceType": "both"
   },
   {

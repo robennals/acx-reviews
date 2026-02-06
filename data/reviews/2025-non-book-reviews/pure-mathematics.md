@@ -1,0 +1,80 @@
+---
+title: "Pure Mathematics"
+author: "Unknown"
+reviewAuthor: "Anonymous"
+contestId: "2025-non-book-reviews"
+contestName: "2025 Non Book Reviews"
+year: 2025
+publishedDate: "2026-02-06T16:55:03.485Z"
+slug: "pure-mathematics"
+wordCount: 2402
+readingTimeMinutes: 11
+originalUrl: "https://docs.google.com/document/d/1a3q0Z2tuPLLbDeg5-pfEffkajGjrfPDwE7ZMs7uaWQs"
+source: "gdoc"
+---
+
+This is a review of pure mathematics: specifically, about the value it provides society that justifies its public funding. I’m a mathematician who personally feels that the standard way the field justifies itself is incomplete and wrote this to help reason through a potential supplement.    
+
+## The Standard Argument (Briefly):
+
+Books like Hardy’s [A Mathematician’s Apology](https://en.wikipedia.org/wiki/A_Mathematician%27s_Apology) and Michael Harris’ semi-response [Mathematics Without Apologies](https://press.princeton.edu/books/hardcover/9780691154237/mathematics-without-apologies) present (among many other points) the classic case for pure math. Taking the risk to summarize in one sentence, this case rests on beauty and artistic merit, though you should look into the books for the many, many caveats and subtleties. While to me (and I expect many readers here), this is an extremely compelling personal reason for doing math, it feels very incomplete as a reason to ask for other people’s tax dollars to do math.
+
+Aesthetic preferences are personal and idiosyncratic, particularly about work as difficult to appreciate as a modern math theorem that only about a thousand specialists would even be able to understand. On the other hand, a math professor in the US generally pulls a larger salary than the GDP per capita. Society giving someone more than their equal share of resources should maybe also be justified in a way that’s more universally compelling.
+
+## An Alternative?
+
+        To summarize our alternative argument: pure mathematics is an experimental playground for developing a comprehensive problem-solving toolbox that can give us the best possible chance at solving the most difficult problems that come up in science and engineering.
+
+There are a few key details: first, solving a problem is significantly easier if you already know the problem-solving tool that best applies—it’s way easier to figure out how to attach two pieces of wood if you’ve already seen a hammer and a nail. It’s therefore extremely plausible that a more comprehensive toolbox can shift important real-world problems from “impossibly difficult” to “manageable”.
+
+Second, techniques for solving science and engineering problems specifically tend to be universal: they apply to a surprisingly large range of seemingly disconnected topics. The upshot is that the techniques you come up with by working on toy problems are very likely to later help with real-world problems. This is particularly true if you can develop an intuition for coming up with toy problems in unusual parts of problem-space that force novel ways of thinking. Furthermore, if your toy problems are chosen just right so that their fundamental structure isn’t as obscured as by the distracting details that inevitably come up in real-world problems, then this might actually be the easiest way to discover novel, practically useful techniques.
+
+The rest of the review will try to justify these points in detail: the utility of searching for problem-solving techniques with no application in mind, why we should expect these techniques to be universal, and why specifically solving toy problems is a good way to search for them.
+
+## Are there Real-World Problems that Could Only Have Been Solved with Prior Pure-Math Progress?
+
+At first glance, our potential argument seems to break even at the first step—is it really a good idea to come up with techniques independently of the problems you actually care about? In the history of science, it seems that more often than not, the practical problems are what lead to mathematical progress instead of the other way around. After all, Newton discovered calculus through an attempt to understand physics. More generally, technique-first thinking risks turning you into the person with a hammer who thinks everything is a nail: [Hold off on Proposing Solutions](https://www.lesswrong.com/posts/uHYYA32CKgKT3FagE/hold-off-on-proposing-solutions) seems to be an exhortation to start thinking from the perspective of the problem, not the technique.
+
+The key point is that our argument applies best to the hardest problems in engineering and the sciences. Sometimes, like Newton explaining Kepler’s laws of planetary motion, a single genius can both invent a tool and spot the need for it in one huge leap. Then it is indeed true that working with the practical problem directly is correct. However, many problems in science and engineering are too hard for a single genius; it’s only humanly possible to leap half the distance starting from the place of an already-known technique.
+
+This is famously true for both of the huge breakthroughs of 20th century physics. Einstein would never have been able to come up with general relativity unless the pure-math, problem-solving tools of differential geometry had already been developed, ready for off-the-shelf use:
+
+“To throw out geometry and keep laws is equivalent to describing thoughts without words. We must search for words before we can express thoughts. What must we search for at this point? This problem remained insoluble to me until 1912, when I suddenly realized that Gauss's theory of surfaces holds the key for unlocking this mystery. I realized that Gauss's surface coordinates had a profound significance. However, I did not know at that time that Riemann had studied the foundations of geometry in an even more profound way.”
+
+(emphasis added). Heisenberg would similarly never have discovered his “[matrix mechanics](https://en.wikipedia.org/wiki/Matrix_mechanics)” underlying the theory of quantum mechanics if no one had come up with the (until then) pure-math idea of matrices and non-commutative operators before.
+
+It seems that rather than contradicting “Hold off on Proposing Solutions” the idea of stockpiling a large problem-solving toolbox is really a more extreme form of it. Instead of just discussing the specific problem, you take one step further back and discuss how to solve problems in the abstract. Not all the techniques you come up with will apply so to avoid “everything is a nail” you have to be ready to throw out most of them. Nevertheless, for a difficult enough problem, this amount of essentially intense brainstorming really does become necessary.
+
+        Finally, as all the low-hanging fruit in science and engineering gets picked, we should expect more and more important problems to resemble developing general relativity and quantum mechanics instead of proving Kepler’s laws. It’ll all be in the category of needing multiple conceptual leaps, most of which just involve inventing techniques without any application in mind. It might be even true that the vast majority of these techniques don’t get connected to anything practical until decades later. However, when they do connect, they can produce paradigm-shattering breakthroughs impossible to make in any other way.
+
+## Why Universality?
+
+Now that we’ve discussed why working  on problem-solving techniques disconnected from problems might be valuable, the next step is asking about their universality. Empirically, that universality holds should be clear to anyone who’s studied the sciences. Just as one example, the tool of computing eigenvalues of linear operators is crucial to studying vibrational modes of buildings to make them earthquake-safe, the original Google PageRank algorithm, the structure of the periodic table of elements, the OCEAN personality model, understanding the geometry of 3D rotations, etc. On the other hand, why such universality holds theoretically is mysterious (this is one of the topics considered in the famous essay [The Unreasonable Effectiveness of Mathematics in The Natural Sciences](https://webhomes.maths.ed.ac.uk/~v1ranick/papers/wigner.pdf)), though we will now attempt a speculative answer.
+
+First, most important things in the world are just not intuitively graspable to humans. You don’t even need to go to exotic examples like quantum mechanics; even just the size of the population of a major city is incomprehensibly large—a single death is a tragedy, a million deaths are a statistic and all that. Our brains were only designed to understand what our ancestors needed for reproduction and there’s no reason we should expect anything else to be comprehensible.
+
+Luckily, we’ve somehow been able to translate descriptions of many incomprehensible phenomena into terms that our brains are actually very good at working with—spatial intuition, language and grammar, etc. Numbers themselves are a great example of this. I may not be able to intuitively grasp what a million actually means, but through the tools of decimal notation and grade-school arithmetic, I can bootstrap off my intuitive understanding of language and grammar. I can manipulate symbols the same way I would manipulate words in a sentence to answer almost any practical question I care to ask about such unimaginably large quantities.
+
+Even more speculatively, you can almost classify the main branches of pure mathematics by the particular human intuition they take advantage of: logic and algebra build off language, geometry builds off spatial intuition, and analysis builds off estimating motion and trajectories. There’s an excellent semi-viral story from Terence Tao illustrating this translation of a problem into more familiar intuitions, in this case, motion and rotation:
+
+“So, somewhat in desperation, I lay on the floor, closed my eyes and tried to imagine \_being\_ the plane being rotated.  I imagined the base point being moved in the x-direction, and rolled accordingly; then in the y-direction.I was visiting my aunt in Australia at the time, and she managed to walk in on me while I was rolling around on the floor with my eyes closed.  In the grand scheme of things, not the most embarrassing situation to be in, but I am not sure how satisfied she was by the explanation that I was ‘thinking about math’.”
+
+Similarly, in modern math “geometry” can often mean something like [this set of notes](https://people.math.rochester.edu/faculty/doug/otherpapers/scholze-berkeley.pdf). To an outsider, calling this geometry should seem completely insane—it’s pages and pages of abstract equations and definitions with very few pictures, definitely nothing at all like the familiar circles and lines of Euclid. However, what’s really going on there is the development of an intricate theory to translate certain abstract objects into a form where our geometric intuition applies—so we can get meaningful insight by thinking about their “dimension”, whether they are “smooth”, how “connected” they are/whether they have “holes”, etc. The abstract objects are so complicated that no other method has been even close to being as effective for solving problems about them. This sheer power gives me high hopes that similar methods for turning very a priori un-geometric things geometric could have significant practical applications in the coming decades.
+
+In this way, we can interpret “mathematical problem solving technique” as just a way to relate a concept that would otherwise be incomprehensible, Lovecraftian nonsense to something human-understandable (one of my favorite novels [When We Cease to Understand the World](https://en.wikipedia.org/wiki/When_We_Cease_to_Understand_the_World) is basically about pushing this insight as far as it can possibly go and motivated much of this review). The universality claim is just the realization that most things in the universe are incomprehensible, Lovecraftian nonsense.
+
+Poincaré once said that “Mathematics is the art of giving the same name to different things”, but maybe we can make the addendum “with the ultimate goal of eventually relating everything to what’s intuitively understandable by humans”.
+
+## Problem Selection
+
+        Now that we’ve hopefully justified the utility of technique-first thinking and the universality of problem-solving techniques, we still need to discuss why pure-math toy problems are a fertile ground for finding techniques. To me, this is the most mysterious part of the argument, though the empirical examples above should at least partially justify it.
+
+First, I will note that pure mathematicians almost universally agree that the point of the problems they work on is the techniques they develop along the way. As Andrew Wiles once said about Fermat’s Last Theorem: “Almost the definition of a good mathematical problem is the mathematics it generates, rather than the problem itself”. In Wiles’ example, no one was intrinsically interested in the specific problem—showing that there are no positive integer solutions to x^n + y^n = z^n for any n > 2. Rather, they were interested in first, the depth and complexity of the techniques they had to come up with to make progress and second, how useful those techniques ended up being in other parts of math. Generally, there is a notion of “richness” that mathematicians strive for. A rich problem is one that points out techniques that you wouldn’t find otherwise. These techniques also need to be powerful: they have to also help solving other problems, the greater the quantity, variety, and distance from the original the better. Not coincidentally, this happens to also be a pretty good heuristic for what’s most likely to help with practical problems.  
+
+The mysterious part is that, in actual practice, searching for rich problems is about aesthetics over all else. Some mathematicians are said to have very good “taste” and find lots of rich problems, while others are worse. The most important skill for a research career is having good taste and the most important part of graduate school and your postdoc is learning better taste.  To working mathematicians, the importance of this taste is likely the most important question in the philosophy of math: how can something so arbitrary and whimsical as our aesthetic feelings be the best way to select problems? This is likely also why the beauty-based justification resonates so strongly amongst mathematicians—whatever the societal value is in doing math, you personally need to be in it for art otherwise you’ll never develop good taste.
+
+Nevertheless, we can try to unweave the rainbow and speculate that “taste” is partially about realizing when a problem involves a previously unnoticed one of the incomprehensible, Lovecraftian patterns in the universe. Maybe we also want it to isolate just that pattern with as few other distractions as possible. This makes the problem “novel”, “elegant”, and “interesting”. It definitely seems plausible that you don’t get the best isolation from the practical problems that are given to you—rather you design a problem with the conscious goal of achieving as much isolation as possible. Your designed problem is then almost necessarily going to be some contrived toy problem. Maybe it’s not surprising then that studying the right toy problems is actually the best way to come up with new techniques.
+
+## Conclusion and Caveats
+
+This is of course just one mathematician’s perspective. There are two key caveats. First, I am specifically a number theorist and some other mathematicians I have discussed these ideas with felt that this is very much a number-theorist’s perspective, particularly in the emphasis on elegant toy problems. Second, I am very far from as good a mathematician as people like Hardy and Harris who have written about this topic before. Therefore, I might be missing some important insights. Either way, mathematicians should definitely be asking whether pure math is a worthwhile place to spend society’s resources and I hope this helps convince you that yes, it is.

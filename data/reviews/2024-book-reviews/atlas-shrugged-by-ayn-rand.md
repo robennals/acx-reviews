@@ -1,0 +1,58 @@
+---
+title: "Atlas Shrugged by Ayn Rand"
+author: "Unknown"
+reviewAuthor: "Anonymous"
+contestId: "2024-book-reviews"
+contestName: "2024 Book Reviews"
+year: 2024
+publishedDate: "2026-02-06T16:47:15.596Z"
+slug: "atlas-shrugged-by-ayn-rand"
+wordCount: 1812
+readingTimeMinutes: 9
+originalUrl: "https://docs.google.com/document/d/1AXmWgSbh_TFsoZuApSCSEoz57yn93CM5YYhtaO_s4W4"
+source: "gdoc"
+---
+
+Ayn Rand: the hedgehog who wanted to be a fox
+
+I have been sidetracked by a longer project, but wanted to keep the practice of shorter-form writing as well....
+
+Atlas Shrugged: A Review
+
+The book is ambitious. Part epic, part novel, part political, philosophical tome, the reader feels the brunt of the full 1168 pages. We are invited into Rand’s world not as aloof bystanders but as the anvil on which she smashes relentlessly: first pew congregants of an exhaustive sermon on the benefits of rational egoism. Somewhat ironically, Rand’s work has the tone of a new religion: every character, every description, every monologue is crafted in service to a “single, universal, organizing principle” – the worship of the rational human mind.
+
+There is no middle ground. Every character is either an enlightened agent or a nihilistic “looter” succumbing to the fraud of “sacrifice”. Every conversation is a chance to highlight this juxtaposition. Even the sweeping, epic tonality of the prose is a ceaseless reminder that life is to be lived for oneself, and it is to be lived epically. Rand has one tone. One speed. One message.
+
+In his now famous essay, [Isaiah Berlin](https://en.wikipedia.org/wiki/Isaiah_Berlin) breaks the world of intellectuals into two camps: [foxes and hedgehogs](https://en.wikipedia.org/wiki/The_Hedgehog_and_the_Fox). “The fox knows many things, but the hedgehog knows one big thing”. Rand is the definition of a hedgehog. She is maniacally-focused on her new gospel and views all 1168 pages through a single lens. The lens of “objectivism”.
+
+Rand should be read first and foremost as a philosopher. As a writer, she lacks the nuance of a Tolstoy or a Turgenev or a David Foster Wallace – that inhuman ability to capture the subtlest of details, to paint scenes and emotions more vividly than life itself. They are realists celebrating life in all its complexity. They are foxes.
+
+Rand is an idealist: a thinker first, an artist second. Dostoevsky, a fellow hedgehog, is primarily a novelist: a titan of letters for his ability to use art to capture the tortured depths of the human condition. Rand is the inverse: a philosopher who communicates through the medium of literature. She cannot be compared with the above as an artist. Too often, the secondary characters in Atlas Shrugged come across flat, pawns in her ideological battle: two dimensional creations reduced to caricatures.
+
+Yes, I understand, in many ways, this is the point. To portray the contrast between an empty life lived by “the looters” vs. the flair and competence of an adolescent Francisco d’Anconia, the tortured guilt of a pre-enlightened Hank Rearden, the endearing loyalty of Eddy Willers, or even the calculating manipulations and of an “aware” Lillian Rearden. Another strength is Rand’s ability to weave a wide cast of characters, if a bit long winded, together with a torrent of political / philosophical sermons into a coherent and surprisingly compelling plot. Despite a slow ramp, I found myself genuinely interested in how the novel would end.
+
+However, Rand is always at her best in pursuit of her “single, universal, organizing” principle which often diverges from the story itself in awkwardly extended, inhuman monologues. Whether Francisco d’Anconia’s “Money is the Root of All Evil?” speech at James Taggert’s wedding or John Galt’s three-hour radio tome or even the inner monologues of Dagney Taggart or Cheryl or Hank Rearden, the point is always the message itself, not character development or moving the plot forward or expressing the subtle realities of everyday life.
+
+For exactly this reason, Atlas Shrugged is inferior to The Fountainhead as a novel. It is not a novel. Atlas Shrugged is too pedantic, too repetitive, too focused on evangelizing Rand’s new religion to tell us something new about ourselves. The shortcoming is confounding because Rand showcased this ability in The Fountainhead. Howard Roark is interesting, like John Galt, in the portrayal of Rand’s “ideal man”: an unrelenting, single-minded, rational being uncompromising in his definition of self-flourishing. But the most dynamic characters in The Fountainhead are the “aware” few who never-the-less reject the tenants of Rand’s philosophy: Dominique Francone, Gale Wynand and Ellsworth Toohey. Dominique in her tortured nihilism, Gale in his corrupt pursuit of power and Ellsworth in his sinister diagnosis and hijacking of the human soul. Even Peter Keating, Rand’s symbol of the pathetic conformist who lets the world dictate his own desires comes across as relatable, if pitiable. In comparison, Roark and Galt come off as automatons: rationalist machines incapable of any deviation from a stiff, inhuman moral code.
+
+But that, dear reader, is the point. Atlas Shrugged is not a novel, but a work of political philosophy: a work written during the post WWII years with Europe in shambles, the USSR on the rise, and “the specter of communism” haunting Europe… and Asia... and Latin America.
+
+This is the primary reason for Atlas Shrugged’s longevity. The work is a warning. An outcry against what Rand rightly saw and diagnosed as the mind virus of collectivism sweeping the globe. The epic tone and religious zeal and inspired, if pedantic preaching are because… that is what Rand is doing! Atlas Shrugged is a call to action: a love letter to competence and capitalism and individualism and modernism and America; a song which galvanized the American right in the life and death struggle for men’s minds.
+
+The work can be seen as reactionary against the German Romantics. The school of Hegel and Marx, which saw individuals as insignificant driftwood in the sweeping forces of historical progress. Much of Atlas Shrugged was written during peak Stalinism and released one year before the launch of the Great Leap Forward. Rand is fundamentally opposed to viewing humans as insignificant, helpless rubble. Politically, her work could be seen as an extension of the enlightened rationalists: liberals like John Locke, John Stuart Mill, and Alexander Herzen – who loathed sacrificing individuals today to some abstraction, whether in the afterlife or some distant Utopia.
+
+However, Atlas Shrugged is most ambitious, if less enduring, as a philosophical work. Atlas Shrugged was written 75 years after Nietzsche’s immortal pronouncement:
+
+“God is dead. God remains dead. And we have killed him. How then shall we comfort ourselves, the murderers of all murderers?”
+
+Rand boldly steps into this void with a vision of man not too dissimilar from Nietzsche’s own. She not only rails against the “men of muscle” who enforce sacrifice at the “barrel of a gun” but also against the “religious mystics” who enslave man’s mind today in exchange for other-worldly promises in the future: false prophets who demand adherence to a code of self-sacrifice based on faith alone. Clearly, this is against Rand’s rationalist creed. Laid out more as an essay than a monologue, the meat of this new philosophy is expounded (ad nauseum), in John Galt’s signature speech. Man’s only responsibility is to himself. By use of his mind, he built the modern world. Through reason, there is no end to growth, progress and flourishing. Without rationality, man is doomed to decay. The false promise of sacrifice, both religious and collective, are the chains around his neck. Great men should not apologize for what they are. They should not bow to mystics nor to masses but should embrace the fullness of life and conquer it with all of the tools at his mind’s disposal.
+
+This was not a new morality, but was a fresh attempt to define values beyond the scope of religion or a squishy kumbaya humanism. However, the timing of its release - in the early decades of the cold war - dictated the work would primarily be remembered for its political rhetoric. Her unique ability to mix literature, politics, and philosophy - producing not a work of art but a rallying cry for the right in what, at the time, seemed to be a losing ideological struggle - influenced multiple generations in the world’s emerging superpower: a country set to have outsized economic, military, and cultural influence itself. However, against this backdrop, we can also see why Rand’s philosophical tenants were left largely ignored: with the right capitalizing on anti-collectivist themes while conveniently excising the anti-religious sentiments in what was still a deeply religious mid-20th century America. Still, Rand’s new morality: a sort of secular Darwinian Protestantism - glorifying production and the self, scorning lip service to “humanity” as the hypocritical power grab it so often turned out to be - emerged as a defining, anti-statist creed in the US and, in time, much of the modern world.
+
+However, perhaps my most interesting takeaway was the discrepancy between Rand’s style and her message. If Tolstoy was a fox who wanted to be a hedgehog, then Ayn Rand was a hedgehog who wanted to be a fox. Her life philosophy worships objective reason while her idealistic, grand writing style comes nowhere close to the vivid realism of a Tolstoy. Her characters think and speak and act on an epic scale while her philosophy propounds the sacredness of individuality and realism and the desire to see everything through a clear, rational, “objective” lens, all while her own lens reduces the wonderful multiplicity of life into the black and white of the ying and yang mysticism she so spurns. The human heart is never torn, but always subordinated to the mind.
+
+And this is probably Rand’s greatest weakness as both a writer and a philosopher. In reality, the world is messy. Humans themselves are neither fundamentally good, nor bad. There are not two classes of humans: the enlightened and the savage, the producers and the consumers, the good and the evil. There is one class - equally capable of both in different times and places. Solzhenitsyn hits much closer to the truth: “The line separating good and evil passes not through states, nor between classes, nor between political parties either – but right through every human heart – and through all human hearts”.
+
+I understand Rand is exaggerating for the sake of the siren; that she offers a caricature to drive home the dichotomy of the “men of the mind” and everyone else, but the reality is no such bifurcation exists. For someone who focuses so much on rationality, Rand’s style betrays an emphasis on the emotion she purports to eschew: that her philosophy falls flat because it does not contend with the inner struggles of the human heart; that many of life’s deepest questions do not have the purely rational answers she vaguely asserts. The disconnect between philosophical message and the romantic tone of the prose is a screaming indictment of the “unity in body and soul” that Rand trumpets so triumphantly.
+
+Tolstoy was the realist: the pluralistic artistic genius who saw the world in its beautiful complexity but craved an ideal, unified theory which he could surrender but could not find. Rand was the inverse: the idealist, the single-minded ideologue that craved a pluralistic realism she could not see.

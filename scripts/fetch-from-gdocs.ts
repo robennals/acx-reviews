@@ -101,6 +101,26 @@ function convertGDocToMarkdown(html: string): string {
   // Remove Google Docs specific elements we don't want
   $('style').remove();
   $('script').remove();
+  // Remove Google Docs comment annotations and suggestions
+  $('sup').has('a[id^="cmnt"]').remove();
+  $('div').has('a[id^="cmnt"]').remove();
+  $('a[id^="cmnt"]').parent('sup').remove();
+  // Remove empty spans with just styling (reduces memory pressure)
+  $('span').each(function() {
+    const el = $(this);
+    if (!el.text().trim() && !el.find('img').length) {
+      el.remove();
+    }
+  });
+  // Strip Google Docs tracking URLs - unwrap redirect wrappers
+  $('a[href*="google.com/url"]').each(function() {
+    const el = $(this);
+    const href = el.attr('href') || '';
+    const match = href.match(/[?&]q=([^&]+)/);
+    if (match) {
+      el.attr('href', decodeURIComponent(match[1]));
+    }
+  });
 
   // Get the body content
   const body = $('body');
@@ -145,6 +165,24 @@ function isTocLine(line: string): boolean {
 }
 
 /**
+ * Check if a heading looks like a section marker within a review (e.g., Roman numerals,
+ * part numbers) rather than a new review title.
+ */
+function isSectionMarkerHeading(title: string): boolean {
+  const cleaned = title.replace(/^\*\*(.+)\*\*$/, '$1').trim();
+  // Roman numerals (I, II, III, IV, V, VI, VII, VIII, IX, X, etc.)
+  if (/^[IVXLCDM]+\.?$/i.test(cleaned)) return true;
+  // Part/Section/Chapter numbers like "Part 1", "Section II"
+  if (/^(Part|Section|Chapter|Act)\s+[\dIVXLCDM]+\.?$/i.test(cleaned)) return true;
+  // Single digits
+  if (/^\d{1,2}\.?$/.test(cleaned)) return true;
+  // Titles that produce empty slugs (non-ASCII only like hieroglyphs, emoji, etc.)
+  // These are almost certainly section markers, not real review titles
+  if (!slugify(cleaned)) return true;
+  return false;
+}
+
+/**
  * Split a composite document into individual reviews.
  *
  * These docs have a structure like:
@@ -156,6 +194,8 @@ function isTocLine(line: string): boolean {
  *   [content...]
  *
  * We split on H1 headings only (not H2+, which are sub-sections within reviews).
+ * Headings that look like section markers (Roman numerals, part numbers) are
+ * merged into the previous review instead of creating a new one.
  */
 function splitCompositeDoc(markdown: string): ParsedReview[] {
   const reviews: ParsedReview[] = [];
@@ -208,6 +248,10 @@ function splitCompositeDoc(markdown: string): ParsedReview[] {
     }
   }
 
+  // Track whether the last review was created from section marker headings
+  // so we know whether to merge or start a new review
+  let lastReviewWasSectionMarker = false;
+
   // Process remaining sections (each starts with # heading)
   for (let i = 1; i < sections.length; i++) {
     const section = sections[i];
@@ -222,6 +266,40 @@ function splitCompositeDoc(markdown: string): ParsedReview[] {
     title = title.replace(/^Your (Book )?Review:\s*/i, ''); // Remove prefix
 
     const content = lines.slice(1).join('\n').trim();
+
+    if (isSectionMarkerHeading(title)) {
+      if (lastReviewWasSectionMarker && reviews.length > 0) {
+        // Merge consecutive section markers into the same review
+        const prev = reviews[reviews.length - 1];
+        prev.content += `\n\n## ${title}\n\n${content}`;
+      } else {
+        // First section marker after a normal review - start a new review
+        // Generate title from content since the heading is just a marker
+        const contentWords = content
+          .replace(/^#{1,6}\s+.*$/gm, '')
+          .replace(/\[([^\]]+)\]\([^)]+\)/g, '$1')
+          .replace(/[*_~`]/g, '')
+          .trim()
+          .split(/\s+/)
+          .filter(w => w.length > 1)
+          .slice(0, 8)
+          .join(' ');
+        const generatedTitle = contentWords || `Section ${title}`;
+
+        if (countWords(content) >= 100) {
+          reviews.push({
+            title: generatedTitle,
+            author: 'Unknown',
+            content: `## ${title}\n\n${content}`,
+          });
+          lastReviewWasSectionMarker = true;
+        }
+      }
+      continue;
+    }
+
+    // Normal heading - reset the section marker tracking
+    lastReviewWasSectionMarker = false;
 
     // Skip sections that are too short (likely just headers or dividers)
     if (countWords(content) < 100) {
@@ -293,11 +371,32 @@ ${data.content}`;
 }
 
 /**
+ * Generate a fallback slug from review content when the title produces an empty slug
+ */
+function generateFallbackSlug(title: string, content: string): string {
+  // Try to get words from content for a meaningful slug
+  const words = content
+    .replace(/^#{1,6}\s+.*$/gm, '') // Remove headings
+    .replace(/\[([^\]]+)\]\([^)]+\)/g, '$1') // Convert links to text
+    .replace(/[^\w\s]/g, ' ')
+    .trim()
+    .split(/\s+/)
+    .filter(w => w.length > 2)
+    .slice(0, 6);
+
+  if (words.length > 0) {
+    return slugify(words.join(' ')) || `review-${Date.now()}`;
+  }
+  return `review-${Date.now()}`;
+}
+
+/**
  * Process a single Google Doc source
  */
 async function processDoc(
   contestId: string,
-  source: GDocsSource
+  source: GDocsSource,
+  usedSlugs: Set<string>
 ): Promise<number> {
   const docUrl = `https://docs.google.com/document/d/${source.docId}`;
 
@@ -307,7 +406,18 @@ async function processDoc(
 
     if (source.type === 'individual') {
       const review = parseIndividualDoc(markdown, source.name);
-      const slug = slugify(review.title);
+      let slug = slugify(review.title);
+      if (!slug) {
+        slug = generateFallbackSlug(review.title, review.content);
+        console.log(`  ⚠️  Empty slug for title "${review.title}", using fallback: ${slug}`);
+      }
+      // Deduplicate slugs
+      if (usedSlugs.has(slug)) {
+        let counter = 2;
+        while (usedSlugs.has(`${slug}-${counter}`)) counter++;
+        slug = `${slug}-${counter}`;
+      }
+      usedSlugs.add(slug);
 
       createMarkdownFile(contestId, slug, {
         ...review,
@@ -321,7 +431,20 @@ async function processDoc(
       console.log(`  Found ${reviews.length} reviews in composite doc "${source.name}"`);
 
       for (const review of reviews) {
-        const slug = slugify(review.title);
+        let slug = slugify(review.title);
+        if (!slug) {
+          slug = generateFallbackSlug(review.title, review.content);
+          console.log(`  ⚠️  Empty slug for title "${review.title}", using fallback: ${slug}`);
+        }
+        // Deduplicate slugs
+        if (usedSlugs.has(slug)) {
+          let counter = 2;
+          while (usedSlugs.has(`${slug}-${counter}`)) counter++;
+          slug = `${slug}-${counter}`;
+          console.log(`  ⚠️  Duplicate slug detected, using: ${slug}`);
+        }
+        usedSlugs.add(slug);
+
         createMarkdownFile(contestId, slug, {
           ...review,
           reviewAuthor: 'Anonymous',
@@ -369,9 +492,20 @@ async function main() {
     console.log(`   ${docSources.length} document(s) to fetch`);
     console.log('='.repeat(60));
 
+    const usedSlugs = new Set<string>();
+    // Pre-populate with existing files to avoid overwrites
+    const contestDir = path.join(REVIEWS_DIR, contestId);
+    if (fs.existsSync(contestDir)) {
+      for (const file of fs.readdirSync(contestDir)) {
+        if (file.endsWith('.md')) {
+          usedSlugs.add(file.replace(/\.md$/, ''));
+        }
+      }
+    }
+
     for (const source of docSources) {
       console.log(`\n📄 Processing: "${source.name}" (${source.type})`);
-      const count = await processDoc(contestId, source);
+      const count = await processDoc(contestId, source, usedSlugs);
       if (count > 0) {
         totalReviews += count;
       } else {

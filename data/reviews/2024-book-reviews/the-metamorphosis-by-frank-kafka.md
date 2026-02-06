@@ -1,0 +1,32 @@
+---
+title: "“The Metamorphosis” by Frank Kafka"
+author: "Unknown"
+reviewAuthor: "Anonymous"
+contestId: "2024-book-reviews"
+contestName: "2024 Book Reviews"
+year: 2024
+publishedDate: "2026-02-06T16:49:14.011Z"
+slug: "the-metamorphosis-by-frank-kafka"
+wordCount: 997
+readingTimeMinutes: 5
+originalUrl: "https://docs.google.com/document/d/14qa47TJ_Vyerx4XNgTCIh7PUZ_TOgNcU_eHm5So_zo0"
+source: "gdoc"
+---
+
+“The Metamorphosis” by Frank Kafka remarkably stands the test of time
+
+“The Metamorphosis” by Frank Kafka is a thought-provoking, phenomenal story, with surreal occurrences and absurd themes. Sitting as a mere 75 pages; it is truly a worthwhile read. It focuses on Gregor Samsa, a family and job-oriented man who one day wakes up as a giant roach. The book details Gregor’s transformation into a cockroach, what it revealed about his mundane life as a human, and how it has influenced his mentality–or rather–how it has not. Similar to our response to changes we undergo throughout our lifetime, Gregor Samsa isolates himself and refuses to change until something forces him to do so.
+
+As preposterous as this book appears, Kafka writes Gregor’s experiences as an allegory for humankind’s journey. Due to being alienated from the rest of the world, Gregor has to endure drastic changes. He has to find his identity and accept who he is despite his family’s shame and his ever-present dread. The message of this book and Gregor’s experiences speaks to modern society as we struggle to find identity in an ever-changing world with countless obligations. Humans in the present are more cut off from each other and society through the invention of social media; we lack real human connection. The novel, published in 1915, proves to be ahead of its time.
+
+We all go through the journey of accepting ourselves in the absurd, often on a less dramatic scale that doesn’t require us to metamorphose into enormous, depressed cockroaches. Using a cockroach was purposeful from Kafka’s perspective. We all agree that cockroaches are detestable creatures we must distance ourselves from; we have a persistent view of cockroaches. Despite his prevailing humanity, Gregor becomes just that from society’s and even his family’s perspectives. He represses his feelings of uselessness, and his transformation to a cockroach represents his continued feeling of unwantedness by society.
+
+Despite his desire for love and interaction with his family, Gregor alienates himself from them because he feels they will not accept him. He never leaves his room, referring to it as “imprisonment,” when his sister, Grete comes in, he hides under the couch and refuses interaction. Though alienation preceded his transformation, the transformation creates more distance between himself and his family and epitomizes the repression of his desires.
+
+When Gregor first transforms, he still has the mind of a human. He wants to get up to work even though he cannot stand upright on his flimsy insect legs. Learning that he doesn’t enjoy his favorite drink, milk (which is contradictingly humanlike as no sane human enjoys drinking milk), anymore leaves him confused because he cannot connect his bodily needs with his mind. This is reminiscent of how growing up leaves us disconnected from ourselves – realizing that you don’t like the same things that you used to and won’t be the same person you were. We try to resonate with the person we once were. As we evolve, we adapt to our situations, much like Gregor, who gradually became accustomed to his new body and followed the mannerisms of an insect. He prefers dark, confined places and enjoys stale food, but he is never truly able to come to terms with his new form, given the existence of his humanity.
+
+Hence, when Grete and his mother remove the furniture in his room, he is deprived of material possessions that defined him as a human, and the crisis between associating his mind and body intensifies. Though he is more comfortable in his room, this removal jeopardizes his anthropomorphic identity, forcing him to become just a cockroach. All that remains of Gregor Samsa’s humanity is a painting of a woman with a fur muff in his room. In Chapter two, Grete and Gregor’s mother try to remove this painting, but “he sat unyielding on his picture. He would rather jump at Grete’s face.” Gregor always repressed his anger in his subconscious as a human, but this anger comes to the surface when he turns into an insect. He hangs on to these last strings of humanity for dear life in hopes of leading a future with a woman. He would rather attack his sister than let go of the painting, much like how we cling to our past selves and refuse to accept change.
+
+Even before he metamorphosed, Gregor was dehumanized by his family, as they perpetually saw him as the breadwinner. His transformation only exemplifies his alienation and the conditional love he receives from his family. After his metamorphosis, Gregor reflects on his life as a human and how all his relationships were superficial and worthless due to his constant travel and isolation. Once providing for the family became a responsibility instead of a show of affection, he became emotionally distant from his family. Gregor’s transformation only makes this alienation transparent; his family makes little effort to take care of him and neglects him. After a while, Grete stops routinely cleaning his room and giving him food. As Gregor becomes obsolete, it instills an empty feeling inside the reader, as being forgotten is the one thing we are all afraid of.
+
+It can be argued that if Gregor had taken a different approach and been less passive about life, he could’ve avoided his fate. Many of us have experienced the horrors of change in our everyday lives. We learn to overcome alienation by surrounding ourselves with good people or accepting our lives in case of tragedy and finding beauty in pain. If Gregor had tried to connect with his family more as a human, or built better relationships, he could’ve led a more fulfilling life and even avoided his metamorphosis into a roach. This book stands the test of time, showcasing that though the changes that occur throughout our lifespan may not be this abrupt, they are always preceding. Let this book be a wake-up call for you to value real human connection and not neglect relationships for work and isolation.
