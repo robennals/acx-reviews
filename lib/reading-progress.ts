@@ -72,18 +72,21 @@ export function markAsRead(reviewId: string): void {
 }
 
 /**
- * Mark a review as unread (remove progress)
+ * Mark a review as unread (reset completion but preserve entry for "continue reading")
  */
 export function markAsUnread(reviewId: string): void {
   if (!isBrowser()) return;
 
-  try {
-    const allProgress = getAllProgress();
-    delete allProgress[reviewId];
-    localStorage.setItem(STORAGE_KEY, JSON.stringify(allProgress));
-  } catch (error) {
-    console.error('Error marking as unread:', error);
-  }
+  const existing = getProgress(reviewId);
+  const progress: ReadingProgress = {
+    reviewId,
+    lastReadDate: existing?.lastReadDate || new Date().toISOString(),
+    scrollPosition: 0,
+    percentComplete: 0,
+    isComplete: false,
+  };
+
+  saveProgress(reviewId, progress);
 }
 
 /**

@@ -2,6 +2,7 @@ import type { Metadata } from "next";
 import { Source_Serif_4, Inter } from "next/font/google";
 import "./globals.css";
 import { ReadingProgressProvider } from "@/context/reading-progress-context";
+import { FavoritesProvider } from "@/context/favorites-context";
 import Link from "next/link";
 
 const sourceSerif = Source_Serif_4({
@@ -17,8 +18,8 @@ const inter = Inter({
 });
 
 export const metadata: Metadata = {
-  title: "ACX Book Review Contest",
-  description: "An archive of reviews from the Astral Codex Ten book review contests (2021-2025).",
+  title: "ACX Review Archive",
+  description: "A browsable archive of all book and non-book reviews from the annual Astral Codex Ten review contest.",
   keywords: ["ACX", "Astral Codex Ten", "book reviews", "Scott Alexander", "reading"],
 };
 
@@ -31,6 +32,7 @@ export default function RootLayout({
     <html lang="en" className={`${sourceSerif.variable} ${inter.variable}`}>
       <body className={`${inter.className} antialiased`}>
         <ReadingProgressProvider>
+        <FavoritesProvider>
           <div className="min-h-screen flex flex-col">
             {/* Header */}
             <header className="border-b border-border bg-card">
@@ -41,7 +43,7 @@ export default function RootLayout({
                     className="text-foreground no-underline hover:no-underline"
                   >
                     <span className="text-xl font-serif font-semibold tracking-tight">
-                      ACX Book Review Contest
+                      ACX Review Archive
                     </span>
                   </Link>
 
@@ -87,6 +89,7 @@ export default function RootLayout({
               </div>
             </footer>
           </div>
+        </FavoritesProvider>
         </ReadingProgressProvider>
       </body>
     </html>

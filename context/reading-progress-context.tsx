@@ -1,6 +1,7 @@
 'use client';
 
 import React, { createContext, useContext, useState, useEffect, useCallback } from 'react';
+import { usePathname } from 'next/navigation';
 import { ReadingProgress } from '@/lib/types';
 import { getAllProgress } from '@/lib/reading-progress';
 
@@ -16,8 +17,9 @@ const ReadingProgressContext = createContext<ReadingProgressContextType | undefi
 export function ReadingProgressProvider({ children }: { children: React.ReactNode }) {
   const [progressMap, setProgressMap] = useState<Record<string, ReadingProgress>>({});
   const [isLoaded, setIsLoaded] = useState(false);
+  const pathname = usePathname();
 
-  // Load all progress on mount
+  // Load all progress on mount and when route changes (SPA navigation)
   useEffect(() => {
     const loadProgress = () => {
       const progress = getAllProgress();
@@ -39,7 +41,7 @@ export function ReadingProgressProvider({ children }: { children: React.ReactNod
     return () => {
       window.removeEventListener('storage', handleStorageChange);
     };
-  }, []);
+  }, [pathname]);
 
   // Refresh progress (for manual updates)
   const refreshProgress = useCallback(() => {

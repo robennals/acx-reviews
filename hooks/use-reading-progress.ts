@@ -42,7 +42,7 @@ export function useReadingProgress(reviewId: string) {
   // Mark as unread
   const markAsUnread = useCallback(() => {
     markAsUnreadInStorage(reviewId);
-    setProgress(null);
+    setProgress(getProgress(reviewId));
   }, [reviewId]);
 
   // Toggle read status

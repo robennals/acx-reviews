@@ -1,13 +1,15 @@
 'use client';
 
-import { useState, useEffect, useCallback } from 'react';
+import { useState, useEffect, useCallback, useRef } from 'react';
 
 /**
  * Track scroll position and calculate percentage through content
  */
-export function useScrollPosition(debounceMs: number = 2000) {
+export function useScrollPosition(debounceMs: number = 500) {
   const [scrollPercentage, setScrollPercentage] = useState(0);
   const [scrollPosition, setScrollPosition] = useState(0);
+  // Track latest values in refs so we can flush on unmount
+  const latestRef = useRef({ percentage: 0, position: 0 });
 
   const calculateScrollPercentage = useCallback(() => {
     if (typeof window === 'undefined') return;
@@ -18,13 +20,15 @@ export function useScrollPosition(debounceMs: number = 2000) {
     const scrollableHeight = docHeight - winHeight;
 
     if (scrollableHeight <= 0) {
+      latestRef.current = { percentage: 0, position: 0 };
       setScrollPercentage(0);
       setScrollPosition(0);
       return;
     }
 
-    const percentage = (scrollTop / scrollableHeight) * 100;
-    setScrollPercentage(Math.min(100, Math.max(0, percentage)));
+    const percentage = Math.min(100, Math.max(0, (scrollTop / scrollableHeight) * 100));
+    latestRef.current = { percentage, position: scrollTop };
+    setScrollPercentage(percentage);
     setScrollPosition(scrollTop);
   }, []);
 
@@ -50,5 +54,5 @@ export function useScrollPosition(debounceMs: number = 2000) {
     };
   }, [calculateScrollPercentage, debounceMs]);
 
-  return { scrollPercentage, scrollPosition };
+  return { scrollPercentage, scrollPosition, latestRef };
 }
