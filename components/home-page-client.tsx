@@ -10,15 +10,29 @@ interface HomePageClientProps {
   contests: Contest[];
 }
 
+const REVIEWS_PER_PAGE = 20;
+
 export function HomePageClient({ reviews, contests }: HomePageClientProps) {
   const [selectedContestId, setSelectedContestId] = useState<string | null>(null);
+  const [searchQuery, setSearchQuery] = useState('');
+  const [currentPage, setCurrentPage] = useState(1);
   const { progressMap } = useReadingProgressContext();
 
-  const filteredReviews = useMemo(() =>
-    selectedContestId
+  const filteredReviews = useMemo(() => {
+    let result = selectedContestId
       ? reviews.filter(r => r.contestId === selectedContestId)
-      : reviews,
-    [reviews, selectedContestId]
+      : reviews;
+    if (searchQuery.trim()) {
+      const query = searchQuery.toLowerCase();
+      result = result.filter(r => r.title.toLowerCase().includes(query));
+    }
+    return result;
+  }, [reviews, selectedContestId, searchQuery]);
+
+  const totalPages = Math.max(1, Math.ceil(filteredReviews.length / REVIEWS_PER_PAGE));
+  const paginatedReviews = filteredReviews.slice(
+    (currentPage - 1) * REVIEWS_PER_PAGE,
+    currentPage * REVIEWS_PER_PAGE
   );
 
   const continueReading = useMemo(() =>
@@ -50,7 +64,7 @@ export function HomePageClient({ reviews, contests }: HomePageClientProps) {
         <div className="flex flex-wrap gap-2">
           <FilterButton
             active={selectedContestId === null}
-            onClick={() => setSelectedContestId(null)}
+            onClick={() => { setSelectedContestId(null); setCurrentPage(1); }}
           >
             All Years
           </FilterButton>
@@ -58,13 +72,24 @@ export function HomePageClient({ reviews, contests }: HomePageClientProps) {
             <FilterButton
               key={contest.id}
               active={selectedContestId === contest.id}
-              onClick={() => setSelectedContestId(contest.id)}
+              onClick={() => { setSelectedContestId(contest.id); setCurrentPage(1); }}
             >
               {contest.year}
             </FilterButton>
           ))}
         </div>
       </nav>
+
+      {/* Search */}
+      <div className="mb-10">
+        <input
+          type="text"
+          value={searchQuery}
+          onChange={(e) => { setSearchQuery(e.target.value); setCurrentPage(1); }}
+          placeholder="Search by title..."
+          className="w-full px-4 py-2.5 text-sm rounded-md border border-border bg-background text-foreground placeholder:text-muted-foreground focus:outline-none focus:ring-2 focus:ring-ring"
+        />
+      </div>
 
       {/* Continue reading */}
       {continueReading.length > 0 && (
@@ -96,7 +121,7 @@ export function HomePageClient({ reviews, contests }: HomePageClientProps) {
           </span>
         </div>
         <div className="space-y-1">
-          {filteredReviews.map((review) => (
+          {paginatedReviews.map((review) => (
             <ReviewCard
               key={review.id}
               review={review}
@@ -104,6 +129,29 @@ export function HomePageClient({ reviews, contests }: HomePageClientProps) {
             />
           ))}
         </div>
+
+        {/* Pagination */}
+        {totalPages > 1 && (
+          <div className="flex items-center justify-center gap-4 mt-8 pt-6 border-t border-border">
+            <button
+              onClick={() => setCurrentPage(p => p - 1)}
+              disabled={currentPage === 1}
+              className="px-4 py-2 text-sm font-medium rounded-md transition-colors bg-muted text-muted-foreground hover:bg-muted/80 hover:text-foreground disabled:opacity-40 disabled:pointer-events-none"
+            >
+              Previous
+            </button>
+            <span className="text-sm text-muted-foreground">
+              Page {currentPage} of {totalPages}
+            </span>
+            <button
+              onClick={() => setCurrentPage(p => p + 1)}
+              disabled={currentPage === totalPages}
+              className="px-4 py-2 text-sm font-medium rounded-md transition-colors bg-muted text-muted-foreground hover:bg-muted/80 hover:text-foreground disabled:opacity-40 disabled:pointer-events-none"
+            >
+              Next
+            </button>
+          </div>
+        )}
       </section>
     </div>
   );
