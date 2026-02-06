@@ -1,6 +1,6 @@
 'use client';
 
-import { useState, useMemo, useCallback } from 'react';
+import { useState, useMemo, useCallback, useRef, useEffect } from 'react';
 import Link from 'next/link';
 import { Review, Contest } from '@/lib/types';
 import { useReadingProgressContext } from '@/context/reading-progress-context';
@@ -142,78 +142,49 @@ export function HomePageClient({ reviews, contests, tags }: HomePageClientProps)
           )}
         </div>
 
-        {/* Year filter tabs */}
-        <div className="flex flex-wrap gap-2">
-          <FilterButton
-            active={selectedContestId === null}
-            onClick={() => { setSelectedContestId(null); setCurrentPage(1); }}
-          >
-            All Years
-          </FilterButton>
-          {contests.map((contest) => (
-            <FilterButton
-              key={contest.id}
-              active={selectedContestId === contest.id}
-              onClick={() => { setSelectedContestId(contest.id); setCurrentPage(1); }}
-            >
-              {contest.year}
-            </FilterButton>
-          ))}
-        </div>
-
-        {/* Topic tag filter */}
-        {tags.length > 0 && (
-          <div className="flex flex-wrap gap-2">
-            <FilterButton
-              active={selectedTag === null}
-              onClick={() => { setSelectedTag(null); setCurrentPage(1); }}
-            >
-              All Topics
-            </FilterButton>
-            {tags.map((tag) => (
-              <FilterButton
-                key={tag}
-                active={selectedTag === tag}
-                onClick={() => { setSelectedTag(tag); setCurrentPage(1); }}
-              >
-                {tag}
-              </FilterButton>
-            ))}
-          </div>
-        )}
-
-        {/* Status filter tabs */}
-        <div className="flex flex-wrap gap-2">
-          <FilterButton
-            active={statusFilter === 'all'}
-            onClick={() => { setStatusFilter('all'); setCurrentPage(1); }}
-          >
-            All
-          </FilterButton>
-          <FilterButton
-            active={statusFilter === 'unread'}
-            onClick={() => { setStatusFilter('unread'); setCurrentPage(1); }}
-          >
-            Unread
-          </FilterButton>
-          <FilterButton
-            active={statusFilter === 'in-progress'}
-            onClick={() => { setStatusFilter('in-progress'); setCurrentPage(1); }}
-          >
-            In Progress
-          </FilterButton>
-          <FilterButton
-            active={statusFilter === 'read'}
-            onClick={() => { setStatusFilter('read'); setCurrentPage(1); }}
-          >
-            Finished
-          </FilterButton>
-          <FilterButton
-            active={statusFilter === 'favorites'}
-            onClick={() => { setStatusFilter('favorites'); setCurrentPage(1); }}
-          >
-            Saved
-          </FilterButton>
+        {/* Filter dropdowns */}
+        <div className="flex flex-wrap gap-3">
+          <FilterDropdown
+            label="Year"
+            value={selectedContestId ? String(contests.find(c => c.id === selectedContestId)?.year) : 'All'}
+            options={[
+              { id: null, label: 'All' },
+              ...contests.map(c => ({ id: c.id, label: String(c.year) })),
+            ]}
+            onSelect={(id) => { setSelectedContestId(id); setCurrentPage(1); }}
+            isFiltered={selectedContestId !== null}
+          />
+          {tags.length > 0 && (
+            <FilterDropdown
+              label="Topic"
+              value={selectedTag || 'All'}
+              options={[
+                { id: null, label: 'All' },
+                ...tags.map(t => ({ id: t, label: t })),
+              ]}
+              onSelect={(id) => { setSelectedTag(id); setCurrentPage(1); }}
+              isFiltered={selectedTag !== null}
+            />
+          )}
+          <FilterDropdown
+            label="Status"
+            value={
+              statusFilter === 'all' ? 'All' :
+              statusFilter === 'unread' ? 'Unread' :
+              statusFilter === 'in-progress' ? 'In Progress' :
+              statusFilter === 'read' ? 'Finished' :
+              'Saved'
+            }
+            options={[
+              { id: 'all', label: 'All' },
+              { id: 'unread', label: 'Unread' },
+              { id: 'in-progress', label: 'In Progress' },
+              { id: 'read', label: 'Finished' },
+              { id: 'favorites', label: 'Saved' },
+            ]}
+            onSelect={(id) => { setStatusFilter((id || 'all') as StatusFilter); setCurrentPage(1); }}
+            isFiltered={statusFilter !== 'all'}
+          />
         </div>
       </div>
 
@@ -295,28 +266,72 @@ export function HomePageClient({ reviews, contests, tags }: HomePageClientProps)
   );
 }
 
-function FilterButton({
-  active,
-  onClick,
-  children
+function FilterDropdown({
+  label,
+  value,
+  options,
+  onSelect,
+  isFiltered,
 }: {
-  active: boolean;
-  onClick: () => void;
-  children: React.ReactNode;
+  label: string;
+  value: string;
+  options: { id: string | null; label: string }[];
+  onSelect: (id: string | null) => void;
+  isFiltered: boolean;
 }) {
+  const [open, setOpen] = useState(false);
+  const ref = useRef<HTMLDivElement>(null);
+
+  useEffect(() => {
+    if (!open) return;
+    function handleClick(e: MouseEvent) {
+      if (ref.current && !ref.current.contains(e.target as Node)) {
+        setOpen(false);
+      }
+    }
+    document.addEventListener('mousedown', handleClick);
+    return () => document.removeEventListener('mousedown', handleClick);
+  }, [open]);
+
   return (
-    <button
-      onClick={onClick}
-      className={`
-        px-4 py-2 text-sm font-medium rounded-md transition-colors
-        ${active
-          ? 'bg-foreground text-background'
-          : 'bg-muted text-muted-foreground hover:bg-muted/80 hover:text-foreground'
-        }
-      `}
-    >
-      {children}
-    </button>
+    <div className="relative" ref={ref}>
+      <button
+        onClick={() => setOpen(o => !o)}
+        className={`
+          flex items-center gap-1.5 px-4 py-2 text-sm font-medium rounded-md transition-colors
+          ${isFiltered
+            ? 'bg-foreground text-background'
+            : 'bg-muted text-muted-foreground hover:bg-muted/80 hover:text-foreground'
+          }
+        `}
+      >
+        <span>{label}: {value}</span>
+        <svg className={`w-3.5 h-3.5 transition-transform ${open ? 'rotate-180' : ''}`} fill="none" stroke="currentColor" viewBox="0 0 24 24">
+          <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M19 9l-7 7-7-7" />
+        </svg>
+      </button>
+      {open && (
+        <div className="absolute z-10 mt-1 bg-popover border border-border rounded-lg shadow-lg py-1 min-w-[140px]">
+          {options.map((opt) => (
+            <button
+              key={opt.id ?? '__all__'}
+              onClick={() => { onSelect(opt.id); setOpen(false); }}
+              className={`
+                w-full text-left px-4 py-2 text-sm transition-colors hover:bg-muted
+                ${opt.label === value ? 'text-foreground font-medium' : 'text-muted-foreground'}
+              `}
+            >
+              {opt.label === value && (
+                <svg className="inline w-3.5 h-3.5 mr-2 -ml-0.5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                  <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M5 13l4 4L19 7" />
+                </svg>
+              )}
+              {opt.label}
+            </button>
+          ))}
+        </div>
+      )}
+    </div>
   );
 }
 
