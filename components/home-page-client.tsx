@@ -14,10 +14,13 @@ interface HomePageClientProps {
   contests: Contest[];
 }
 
+const REVIEWS_PER_PAGE = 20;
+
 export function HomePageClient({ reviews, contests }: HomePageClientProps) {
   const [selectedContestId, setSelectedContestId] = useState<string | null>(null);
   const [searchQuery, setSearchQuery] = useState('');
   const [statusFilter, setStatusFilter] = useState<StatusFilter>('all');
+  const [currentPage, setCurrentPage] = useState(1);
   const { progressMap, refreshProgress } = useReadingProgressContext();
   const { favoritesSet, toggleFavorite } = useFavoritesContext();
 
@@ -38,20 +41,15 @@ export function HomePageClient({ reviews, contests }: HomePageClientProps) {
   const filteredReviews = useMemo(() => {
     let result = reviews;
 
-    // Filter by contest
     if (selectedContestId) {
       result = result.filter(r => r.contestId === selectedContestId);
     }
 
-    // Filter by search query
     if (searchQuery.trim()) {
       const query = searchQuery.toLowerCase().trim();
-      result = result.filter(r =>
-        r.title.toLowerCase().includes(query)
-      );
+      result = result.filter(r => r.title.toLowerCase().includes(query));
     }
 
-    // Filter by status
     if (statusFilter === 'read') {
       result = result.filter(r => progressMap[r.id]?.isComplete);
     } else if (statusFilter === 'unread') {
@@ -65,7 +63,12 @@ export function HomePageClient({ reviews, contests }: HomePageClientProps) {
     return result;
   }, [reviews, selectedContestId, searchQuery, statusFilter, progressMap, favoritesSet]);
 
-  // Continue reading: last 2 articles by lastReadDate, regardless of completion
+  const totalPages = Math.max(1, Math.ceil(filteredReviews.length / REVIEWS_PER_PAGE));
+  const paginatedReviews = filteredReviews.slice(
+    (currentPage - 1) * REVIEWS_PER_PAGE,
+    currentPage * REVIEWS_PER_PAGE
+  );
+
   const continueReading = useMemo(() =>
     reviews
       .filter(r => progressMap[r.id]?.lastReadDate && !progressMap[r.id]?.isComplete && (progressMap[r.id]?.percentComplete ?? 0) > 0)
@@ -77,6 +80,19 @@ export function HomePageClient({ reviews, contests }: HomePageClientProps) {
       .slice(0, 2),
     [reviews, progressMap]
   );
+
+  const sectionTitle = [
+    statusFilter === 'read' ? 'Finished' :
+    statusFilter === 'unread' ? 'Unread' :
+    statusFilter === 'in-progress' ? 'In-Progress' :
+    statusFilter === 'favorites' ? 'Saved' :
+    '',
+    selectedContestId
+      ? `${contests.find(c => c.id === selectedContestId)?.year}`
+      : '',
+    'Reviews',
+    searchQuery ? `matching "${searchQuery}"` : '',
+  ].filter(Boolean).join(' ');
 
   return (
     <div className="max-w-4xl mx-auto px-6 sm:px-8 py-12">
@@ -103,12 +119,12 @@ export function HomePageClient({ reviews, contests }: HomePageClientProps) {
             type="text"
             placeholder="Search by title..."
             value={searchQuery}
-            onChange={(e) => setSearchQuery(e.target.value)}
+            onChange={(e) => { setSearchQuery(e.target.value); setCurrentPage(1); }}
             className="w-full px-4 py-3 bg-muted/50 border border-border rounded-lg text-foreground placeholder:text-muted-foreground focus:outline-none focus:ring-2 focus:ring-[hsl(var(--link))]/20 focus:border-[hsl(var(--link))]/50 transition-colors"
           />
           {searchQuery && (
             <button
-              onClick={() => setSearchQuery('')}
+              onClick={() => { setSearchQuery(''); setCurrentPage(1); }}
               className="absolute right-3 top-1/2 -translate-y-1/2 text-muted-foreground hover:text-foreground transition-colors"
               aria-label="Clear search"
             >
@@ -123,7 +139,7 @@ export function HomePageClient({ reviews, contests }: HomePageClientProps) {
         <div className="flex flex-wrap gap-2">
           <FilterButton
             active={selectedContestId === null}
-            onClick={() => setSelectedContestId(null)}
+            onClick={() => { setSelectedContestId(null); setCurrentPage(1); }}
           >
             All Years
           </FilterButton>
@@ -131,7 +147,7 @@ export function HomePageClient({ reviews, contests }: HomePageClientProps) {
             <FilterButton
               key={contest.id}
               active={selectedContestId === contest.id}
-              onClick={() => setSelectedContestId(contest.id)}
+              onClick={() => { setSelectedContestId(contest.id); setCurrentPage(1); }}
             >
               {contest.year}
             </FilterButton>
@@ -142,31 +158,31 @@ export function HomePageClient({ reviews, contests }: HomePageClientProps) {
         <div className="flex flex-wrap gap-2">
           <FilterButton
             active={statusFilter === 'all'}
-            onClick={() => setStatusFilter('all')}
+            onClick={() => { setStatusFilter('all'); setCurrentPage(1); }}
           >
             All
           </FilterButton>
           <FilterButton
             active={statusFilter === 'unread'}
-            onClick={() => setStatusFilter('unread')}
+            onClick={() => { setStatusFilter('unread'); setCurrentPage(1); }}
           >
             Unread
           </FilterButton>
           <FilterButton
             active={statusFilter === 'in-progress'}
-            onClick={() => setStatusFilter('in-progress')}
+            onClick={() => { setStatusFilter('in-progress'); setCurrentPage(1); }}
           >
             In Progress
           </FilterButton>
           <FilterButton
             active={statusFilter === 'read'}
-            onClick={() => setStatusFilter('read')}
+            onClick={() => { setStatusFilter('read'); setCurrentPage(1); }}
           >
             Finished
           </FilterButton>
           <FilterButton
             active={statusFilter === 'favorites'}
-            onClick={() => setStatusFilter('favorites')}
+            onClick={() => { setStatusFilter('favorites'); setCurrentPage(1); }}
           >
             Saved
           </FilterButton>
@@ -199,18 +215,7 @@ export function HomePageClient({ reviews, contests }: HomePageClientProps) {
       <section>
         <div className="flex items-baseline justify-between mb-6">
           <h2 className="text-sm font-semibold text-muted-foreground uppercase tracking-wider">
-            {[
-              statusFilter === 'read' ? 'Finished' :
-              statusFilter === 'unread' ? 'Unread' :
-              statusFilter === 'in-progress' ? 'In-Progress' :
-              statusFilter === 'favorites' ? 'Saved' :
-              '',
-              selectedContestId
-                ? `${contests.find(c => c.id === selectedContestId)?.year}`
-                : '',
-              'Reviews',
-              searchQuery ? `matching "${searchQuery}"` : '',
-            ].filter(Boolean).join(' ')}
+            {sectionTitle}
           </h2>
           <span className="text-sm text-muted-foreground">
             {filteredReviews.length} {filteredReviews.length === 1 ? 'review' : 'reviews'}
@@ -222,7 +227,7 @@ export function HomePageClient({ reviews, contests }: HomePageClientProps) {
           </p>
         ) : (
           <div className="space-y-1">
-            {filteredReviews.map((review) => (
+            {paginatedReviews.map((review) => (
               <ReviewCard
                 key={review.id}
                 review={review}
@@ -232,6 +237,29 @@ export function HomePageClient({ reviews, contests }: HomePageClientProps) {
                 onToggleFavorite={handleToggleFavorite}
               />
             ))}
+          </div>
+        )}
+
+        {/* Pagination */}
+        {totalPages > 1 && (
+          <div className="flex items-center justify-center gap-4 mt-8 pt-6 border-t border-border">
+            <button
+              onClick={() => setCurrentPage(p => p - 1)}
+              disabled={currentPage === 1}
+              className="px-4 py-2 text-sm font-medium rounded-md transition-colors bg-muted text-muted-foreground hover:bg-muted/80 hover:text-foreground disabled:opacity-40 disabled:pointer-events-none"
+            >
+              Previous
+            </button>
+            <span className="text-sm text-muted-foreground">
+              Page {currentPage} of {totalPages}
+            </span>
+            <button
+              onClick={() => setCurrentPage(p => p + 1)}
+              disabled={currentPage === totalPages}
+              className="px-4 py-2 text-sm font-medium rounded-md transition-colors bg-muted text-muted-foreground hover:bg-muted/80 hover:text-foreground disabled:opacity-40 disabled:pointer-events-none"
+            >
+              Next
+            </button>
           </div>
         )}
       </section>

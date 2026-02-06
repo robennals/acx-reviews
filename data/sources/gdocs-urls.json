@@ -66,8 +66,8 @@
   "2023-book-reviews": [
     {
       "docId": "10CiEI7aDL2bMIdx7yayy3vlq0TJ8dO5LGnG7yIDPiw8",
-      "name": "Don't Sleep, There Are Snakes",
-      "type": "individual"
+      "name": "A - G",
+      "type": "composite"
     }
   ],
   "2022-book-reviews": [
@@ -95,8 +95,8 @@
   "2021-book-reviews": [
     {
       "docId": "1xexFJ7h0vULMDE7N77q_MIzXoerexfe_CqqGEL6hEoQ",
-      "name": "Disunited Nations vs Dawn Of Eurasia",
-      "type": "individual"
+      "name": "A - R",
+      "type": "composite"
     }
   ]
 }

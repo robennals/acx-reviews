@@ -1,0 +1,54 @@
+---
+title: "An Actor Prepares"
+author: "Unknown"
+reviewAuthor: "Anonymous"
+contestId: "2023-book-reviews"
+contestName: "2023 Book Reviews"
+year: 2023
+publishedDate: "2026-02-06T07:21:10.020Z"
+slug: "an-actor-prepares"
+wordCount: 1749
+readingTimeMinutes: 8
+originalUrl: "https://docs.google.com/document/d/10CiEI7aDL2bMIdx7yayy3vlq0TJ8dO5LGnG7yIDPiw8"
+source: "gdoc"
+---
+
+An Actor Prepares is told from the perspective of an acting student, Kostya, in a class taught by the Director, Tortsov, a stand-in for the author. Thus the title is a very short summary of the pseudofiction with an emphasis on “prepares.” It truly is a book about preparing to act rather than actually acting. Not only does it not mention projecting or cheating out, it hardly mentions dialogue, other actors, or directors at all. Yet, after reading it, I’m not sure how a book could be any more about acting than this one.
+
+Tortsov uses the students’ exhibition scenes to explain the 5 levels of acting. The bottom 2 are exploitation (e.g. using the stage to show off your feet and wink at cute boys) and horribly offensive stereotypes (e.g. playing Othello (in Blackface) as a savage).
+
+Above those is “mechanical” acting. It makes use of recognizable actions to convey characters’ inner states. Behavioral cliches like holding your hand to your heart, pulling at your hair, holding your head in your hands are not realistic, but they communicate the intended emotion to the audience without the actor ever needing to feel it themself. You don’t literally laugh out loud every time you text “lol”, but you can have a better or worse command of texting slang which allows you to convey a broader range of emotions (all while never actually needing to laugh). According to Tortsov, mechanical acting is not art, but it can be done with a high degree of technique.
+
+The next step up is “representational” acting. The representational actor does prepare their role with some examination of their emotions and putting themself in the mind of their character. However, once they do find a satisfying expression of those emotions, they simply practice and perform that representation subsequently. The student who exhibited representational acting practiced in front of a mirror and developed muscle memory for each expression he made. Tortsov still considers this to be art because it requires creativity and true portrayal of emotion.
+
+Finally, the highest form is acting as “living.” The living actor prepares their role in the same way as the representational actor except they attempt to put themself in the mind of their character each night when they perform. At its best, this form of acting lets the actor’s subconscious take control to the point that when the actor does the most natural things, they are exactly the things that the character would do in the same situation.
+
+The goal of the actor’s preparation is to be ready for these moments when the subconscious can take over. Since it’s impossible to directly manipulate your subconscious, an actor prepares using conscious exercises.
+
+One of the first lessons in this vein is that every action must have a purpose. It’s impossible to act “in general”. Even something as simple as sitting in a chair becomes difficult on stage. Do you want to close the door to have a private conversation or because there are loud people out in the hall or because there’s a draft? Your objective informs the manner with which you carry out any action. Without any purpose, you risk behaving perfunctorily, and your attention invariably wanders to the audience. (Throughout the book, attending to the audience is the death knell for good acting. I’ve certainly noticed that for any activity, I begin making mistakes the moment I start thinking about how great I am at it).
+
+Luckily, purpose and action keep the (often literal in this book) spotlight of attention on the stage. In another exercise, Tortsov contrives a scenario in which a student needs to sell a brooch she has lost in the curtains in order to pay for and continue taking the class. She searches systematically over every fold. Her purpose keeps her attention on the curtain and brooch. The consequence of coming up empty-handed lends her an intense determination during the search (and despair afterwards).
+
+Thus purpose also motivates emotion. Just as it’s difficult to sit or close a door “in general”, it’s impossible to emote “in general”. A supposition, a lost brooch, provides the basis for emotion. The action is the medium in which the emotion is suspended.
+
+Tangent: It’s also very hard to recognize facial emotions in isolation, for example, cropped photos of tennis players’ faces just after they had won or lost matches. Even if, somehow, you are very good at portraying emotions out of context, they’re unlikely to be recognizable to an audience.
+
+In another exercise, there was a madman freshly escaped from an asylum behind the door. The students jumped back, barricaded the door, grabbed blunt objects, and hid under the table. When they repeated this exercise later, they did all these same actions, but the Director admonished them for attending to him rather than to the door.
+
+Supposition, purpose, emotion, action, and attention are all bound up together. On a small scale, supposition provides objective and emotion. Purpose guides action and attention. Action conveys emotion. On a longer scale, Tortsov speaks of a “super-objective”, a character’s overall motivation throughout a play or one act. It usually involves interaction between characters (e.g. prove myself to my superior, convince my wife to get over our dead child). Attention may jump around from different objects to the other actors to the past, present, or future to the actor themself (but never to the audience). The movement of attention forms the throughline of the play which supports the super-objective.
+
+This interplay among purpose, action, and emotion forms the bulk of Stanislavski’s “System”, but there are other notable exercises. At various points Tortsov refers to other classes the students are taking including elocution, fencing, and dancing, but the only physical preparation that his students work on is relaxation of muscles. Following a scene in which Kostya breaks a glass by gripping it too tightly, knicks an artery, faints, and ends up in the hospital, Tortsov decides to deviate from his syllabus to address it. The other students in the class take turns visiting Kostya in the hospital relating the lessons involving being aware of tension and releasing it, using the fewest muscles needed to act.
+
+It’s a baffling choice from someone who could have arranged his class and book in any order he chose to pretend that he’s doing this one lesson out of order. Throughout, Stanislavski always presents the students’ bad, mistaken, naive ways of acting before the Director steps in and corrects them. My best guess as to his motivation for this deviation is that Kostya’s accident is just this. An extreme example of acting with muscular tension. It’s still interesting that muscular relaxation is the one physical exercise that snuck its way into the book. His point is that tension is one thing that will block your subconscious from taking over the way it needs to. Even if you do manage to, tense muscles will prevent your intended poses, gestures, and actions from being conveyed the way you intend.
+
+The other lesson which stands out is one in which Tortsov claims that you can communicate nonverbally. Your feelings escape as rays through your pores (and that this will one day be the subject of scientific discovery!) personally choose to give Stanislavski the benefit of the doubt and interpret this as saying that if you are truly feeling some emotion (and your muscles are relaxed) your body language naturally reflects that in ways that you may not be aware of consciously.
+
+I picked it up partly because I thought it would be funny to read a book called An Actor Prepares while taking an improv class, but (aside from having no time to prepare) the concepts are surprisingly applicable. It makes sense given that most of the exercises in the book are not plays but simple situations the Director comes up with. Furthermore, he claims that the subconscious is best able to take over at times when small accidents happen on stage, someone trips or knocks over a chair. This forces the actor out of the script and gives them the opportunity to address the accident as their character would. Responding to small unexpected moments is basically the definition of improv.
+
+I hope by now it’s clear that An Actor Prepares offers insights beyond the theater. In fact, I heard about it from a pianist who mentioned reading it at Juilliard. Compared to actors, amateur musicians may be more in danger of playing with no attention to emotion at all, purely technically, but you can imagine them playing mechanically, representationally, or “live”.
+
+The same is true of writing. I had a short story professor who would ask students to tell him everything they could (e.g. age, favorite food, favorite music, etc.) about their flat characters. Like Tortsov’s students trying to act “in general”, it’s tempting for some writers to use “general”, nondescript agents to carry out their plots. The same is true of other tropes and turns of phrase. They are indicative of mechanical writing which doesn’t demand any inner content from the writer or convey any feeling to the reader. However, the best writing can be is representational since there’s no “live” component. I assume the same is true of other visual arts.
+
+In My Dinner with Andre, Andre posits that it’s even harder for an actor to “perform” as a husband, father, or intellectual, in his various real-world responsibilities and identities. In this way, An Actor Prepares applies to everyday life especially for those of us who always feel as though we are on stage. In whatever role you’re performing, it’s best to focus on purpose, action, and super-objective to keep from becoming too conscious of the audience.
+
+I’m trying to gain a reputation as someone who is a little too into saying, “Be yourself” (via an anonymous book review contest). I think the most common understanding is that you should strive to be yourself rather than being like someone else who you perceive as higher status. But another option is that you should “live” yourself. It may sound psychopathic to recommend acting as yourself, but the alternative is not not acting; it’s acting mechanically: performing according to prepared notions about what people who look like or identify with you should act, with no inner examination. This kind of “live”  living comes naturally to many people (or so it appears), but if you take an intro acting class, you’ll see that everyone is bad at acting when they’re conscious of the audience.
