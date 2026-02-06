@@ -1,16 +1,20 @@
 ---
-title: "“As Little as Possible”: Slave Morality in Chinatown and Spec Ops: The Line"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2025-non-book-reviews"
-contestName: "2025 Non Book Reviews"
+title: "“As Little as Possible”: Slave Morality in Chinatown\_and Spec Ops: The Line"
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2025-non-book-reviews
+contestName: 2025 Non Book Reviews
 year: 2025
-publishedDate: "2026-02-06T16:52:48.889Z"
-slug: "as-little-as-possible-slave-morality-in-chinatown-and-spec-ops-the-line"
+publishedDate: '2026-02-06T16:52:48.889Z'
+slug: as-little-as-possible-slave-morality-in-chinatown-and-spec-ops-the-line
 wordCount: 8092
 readingTimeMinutes: 36
-originalUrl: "https://docs.google.com/document/d/1d0vRSj1E93joWWvbUen2XGuDjN_mM94ybMIAADzM2fo"
-source: "gdoc"
+originalUrl: >-
+  https://docs.google.com/document/d/1d0vRSj1E93joWWvbUen2XGuDjN_mM94ybMIAADzM2fo
+source: gdoc
+tags:
+  - Philosophy
+  - Fiction
 ---
 
 I’d heard of the Nietzschean concept of master vs. slave morality on numerous occasions over the years, but without having read any Nietzsche, I’d never quite understood what it entailed. That changed when I read Scott’s post[Matt Yglesias Considered As The Nietzschean Superman](https://www.astralcodexten.com/p/matt-yglesias-considered-as-the-nietzschean) from last year, in which he offered a succinct definition of the concept. As near as I understand it, it boils down to:

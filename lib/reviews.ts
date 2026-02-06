@@ -98,3 +98,19 @@ export async function getAllYears(): Promise<number[]> {
   const years = contests.map(c => c.year);
   return Array.from(new Set(years)).sort((a, b) => b - a);
 }
+
+/**
+ * Get all unique tags sorted alphabetically
+ */
+export async function getAllTags(): Promise<string[]> {
+  const reviews = await getAllReviews();
+  const tags = new Set<string>();
+  for (const review of reviews) {
+    if (review.tags) {
+      for (const tag of review.tags) {
+        tags.add(tag);
+      }
+    }
+  }
+  return Array.from(tags).sort();
+}

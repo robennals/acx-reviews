@@ -1,16 +1,20 @@
 ---
-title: "The Pattern Seekers: How Autism Drives Human Invention by Simon Baron-Cohen"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2024-book-reviews"
-contestName: "2024 Book Reviews"
+title: 'The Pattern Seekers: How Autism Drives Human Invention by Simon Baron-Cohen'
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2024-book-reviews
+contestName: 2024 Book Reviews
 year: 2024
-publishedDate: "2026-02-06T16:49:50.814Z"
-slug: "the-pattern-seekers-how-autism-drives-human-invention-by-simon-baron-cohen"
+publishedDate: '2026-02-06T16:49:50.814Z'
+slug: the-pattern-seekers-how-autism-drives-human-invention-by-simon-baron-cohen
 wordCount: 5009
 readingTimeMinutes: 23
-originalUrl: "https://docs.google.com/document/d/1Ki5XsE0jkxZtd2XAeyTAJw1ZjLh2Cu-matUYKAhA6-s"
-source: "gdoc"
+originalUrl: >-
+  https://docs.google.com/document/d/1Ki5XsE0jkxZtd2XAeyTAJw1ZjLh2Cu-matUYKAhA6-s
+source: gdoc
+tags:
+  - Psychology
+  - Science
 ---
 
 What makes humans special? How is it that we are able to unleash the energy of the atom, transmute handfuls of sand into powerful djinn, and generally manipulate matter in any way not strictly forbidden by the laws of physics, while our hominid ancestors gather dust in the natural history museum? What tectonic forces have torn such a chasm between us and our surviving cousins, still banging rocks together in the animal kingdom?

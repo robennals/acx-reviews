@@ -1,16 +1,20 @@
 ---
-title: "A People's Tragedy A History of the Russian Revolution: 1891-1924 (Review 2)"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2023-book-reviews"
-contestName: "2023 Book Reviews"
+title: 'A People''s Tragedy A History of the Russian Revolution: 1891-1924 (Review 2)'
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2023-book-reviews
+contestName: 2023 Book Reviews
 year: 2023
-publishedDate: "2026-02-06T07:21:10.019Z"
-slug: "a-peoples-tragedy-a-history-of-the-russian-revolution-1891-1924-review-2"
+publishedDate: '2026-02-06T07:21:10.019Z'
+slug: a-peoples-tragedy-a-history-of-the-russian-revolution-1891-1924-review-2
 wordCount: 17101
 readingTimeMinutes: 77
-originalUrl: "https://docs.google.com/document/d/10CiEI7aDL2bMIdx7yayy3vlq0TJ8dO5LGnG7yIDPiw8"
-source: "gdoc"
+originalUrl: >-
+  https://docs.google.com/document/d/10CiEI7aDL2bMIdx7yayy3vlq0TJ8dO5LGnG7yIDPiw8
+source: gdoc
+tags:
+  - History
+  - Politics
 ---
 
 Review by D.N.

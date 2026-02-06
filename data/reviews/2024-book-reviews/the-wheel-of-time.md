@@ -1,16 +1,19 @@
 ---
-title: "The Wheel of Time"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2024-book-reviews"
-contestName: "2024 Book Reviews"
+title: The Wheel of Time
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2024-book-reviews
+contestName: 2024 Book Reviews
 year: 2024
-publishedDate: "2026-02-06T16:49:50.817Z"
-slug: "the-wheel-of-time"
+publishedDate: '2026-02-06T16:49:50.817Z'
+slug: the-wheel-of-time
 wordCount: 3623
 readingTimeMinutes: 17
-originalUrl: "https://docs.google.com/document/d/1Ki5XsE0jkxZtd2XAeyTAJw1ZjLh2Cu-matUYKAhA6-s"
-source: "gdoc"
+originalUrl: >-
+  https://docs.google.com/document/d/1Ki5XsE0jkxZtd2XAeyTAJw1ZjLh2Cu-matUYKAhA6-s
+source: gdoc
+tags:
+  - Fiction
 ---
 
 AI-generated image of the Flame of Tar Valon and the Dragon’s Fang.[[48]](#ftnt48)

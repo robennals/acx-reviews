@@ -1,16 +1,19 @@
 ---
-title: "Simple Twist of Fate"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2025-non-book-reviews"
-contestName: "2025 Non Book Reviews"
+title: Simple Twist of Fate
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2025-non-book-reviews
+contestName: 2025 Non Book Reviews
 year: 2025
-publishedDate: "2026-02-06T16:57:48.927Z"
-slug: "simple-twist-of-fate"
+publishedDate: '2026-02-06T16:57:48.927Z'
+slug: simple-twist-of-fate
 wordCount: 2642
 readingTimeMinutes: 12
-originalUrl: "https://docs.google.com/document/d/1hjIUcKi-vIM9RGRZDWPRyUtzZLlVrpaY6Jy81iZVYi4"
-source: "gdoc"
+originalUrl: >-
+  https://docs.google.com/document/d/1hjIUcKi-vIM9RGRZDWPRyUtzZLlVrpaY6Jy81iZVYi4
+source: gdoc
+tags:
+  - Philosophy
 ---
 
 ## The Goal

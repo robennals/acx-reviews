@@ -1,16 +1,20 @@
 ---
-title: "A Supposedly Fun Thing I’ll Never Do Again by David Foster Wallace"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2022-book-reviews"
-contestName: "2022 Book Reviews"
+title: A Supposedly Fun Thing I’ll Never Do Again by David Foster Wallace
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2022-book-reviews
+contestName: 2022 Book Reviews
 year: 2022
-publishedDate: "2026-02-06T07:24:08.688Z"
-slug: "a-supposedly-fun-thing-ill-never-do-again-by-david-foster-wallace"
+publishedDate: '2026-02-06T07:24:08.688Z'
+slug: a-supposedly-fun-thing-ill-never-do-again-by-david-foster-wallace
 wordCount: 4668
 readingTimeMinutes: 21
-originalUrl: "https://docs.google.com/document/d/1pRQbRbEUwSH_jm94PI_ij-88swat7vQ4iNaNp6gd39g"
-source: "gdoc"
+originalUrl: >-
+  https://docs.google.com/document/d/1pRQbRbEUwSH_jm94PI_ij-88swat7vQ4iNaNp6gd39g
+source: gdoc
+tags:
+  - Fiction
+  - Society
 ---
 
 In March of 2020, when cruise stocks plummeted, and so many predicted the impending death or decay of the whole industry, I bought them all up, wildly, without regard for the doomsaying soothsayers, not because of profit/cost ratios, technical analyses, or sober assessments of liquid cash reserves, but because of a piece of well-regarded literary journalism from the 1990s, an 100-page review/recollection/hallucination of a 7-day tropical cruise by a man who was then and remains, in death, “one of his generation’s pre-eminent talents” and who is almost certainly one of about three American fiction writers of the last thirty years with a name that carries the world-historical ‘oomph’ of a Hemingway, Faulkner, or Pynchon.

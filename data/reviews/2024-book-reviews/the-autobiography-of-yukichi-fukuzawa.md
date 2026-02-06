@@ -1,16 +1,20 @@
 ---
-title: "The Autobiography of Yukichi Fukuzawa"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2024-book-reviews"
-contestName: "2024 Book Reviews"
+title: The Autobiography of Yukichi Fukuzawa
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2024-book-reviews
+contestName: 2024 Book Reviews
 year: 2024
-publishedDate: "2026-02-06T16:49:13.995Z"
-slug: "the-autobiography-of-yukichi-fukuzawa"
+publishedDate: '2026-02-06T16:49:13.995Z'
+slug: the-autobiography-of-yukichi-fukuzawa
 wordCount: 4943
 readingTimeMinutes: 22
-originalUrl: "https://docs.google.com/document/d/14qa47TJ_Vyerx4XNgTCIh7PUZ_TOgNcU_eHm5So_zo0"
-source: "gdoc"
+originalUrl: >-
+  https://docs.google.com/document/d/14qa47TJ_Vyerx4XNgTCIh7PUZ_TOgNcU_eHm5So_zo0
+source: gdoc
+tags:
+  - Memoir
+  - History
 ---
 
 I had been living in Japan for a year before I got the idea to look up whose portraits were on the banknotes I was handling every day. In the United States, the faces of presidents and statesmen adorn our currency. So I was surprised to learn that the mustachioed man on the ¥1,000 note with which I purchased my daily bento box was a bacteriologist. It was a pleasant surprise, though. It seems to me that a society that esteems bacteriologists over politicians is in many ways a healthy one.

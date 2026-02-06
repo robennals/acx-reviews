@@ -1,16 +1,20 @@
 ---
-title: "\"Being You\" by Anil Seth"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2023-book-reviews"
-contestName: "2023 Book Reviews"
+title: '"Being You" by Anil Seth'
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2023-book-reviews
+contestName: 2023 Book Reviews
 year: 2023
-publishedDate: "2026-02-06T07:21:10.023Z"
-slug: "being-you-by-anil-seth"
+publishedDate: '2026-02-06T07:21:10.023Z'
+slug: being-you-by-anil-seth
 wordCount: 4177
 readingTimeMinutes: 19
-originalUrl: "https://docs.google.com/document/d/10CiEI7aDL2bMIdx7yayy3vlq0TJ8dO5LGnG7yIDPiw8"
-source: "gdoc"
+originalUrl: >-
+  https://docs.google.com/document/d/10CiEI7aDL2bMIdx7yayy3vlq0TJ8dO5LGnG7yIDPiw8
+source: gdoc
+tags:
+  - Science
+  - Philosophy
 ---
 
 ## The Real Problem

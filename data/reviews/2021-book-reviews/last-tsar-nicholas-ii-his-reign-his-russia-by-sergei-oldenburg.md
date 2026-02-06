@@ -1,16 +1,20 @@
 ---
-title: "Last Tsar. Nicholas II, His Reign & His Russia by Sergei Oldenburg"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2021-book-reviews"
-contestName: "2021 Book Reviews"
+title: 'Last Tsar. Nicholas II, His Reign & His Russia by Sergei Oldenburg'
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2021-book-reviews
+contestName: 2021 Book Reviews
 year: 2021
-publishedDate: "2026-02-06T07:21:29.571Z"
-slug: "last-tsar-nicholas-ii-his-reign-his-russia-by-sergei-oldenburg"
+publishedDate: '2026-02-06T07:21:29.571Z'
+slug: last-tsar-nicholas-ii-his-reign-his-russia-by-sergei-oldenburg
 wordCount: 4626
 readingTimeMinutes: 21
-originalUrl: "https://docs.google.com/document/d/1xexFJ7h0vULMDE7N77q_MIzXoerexfe_CqqGEL6hEoQ"
-source: "gdoc"
+originalUrl: >-
+  https://docs.google.com/document/d/1xexFJ7h0vULMDE7N77q_MIzXoerexfe_CqqGEL6hEoQ
+source: gdoc
+tags:
+  - History
+  - Memoir
 ---
 
 Briefly: it is a very comprehensive biography of the last Russian Tsar, Nicholas II. Also, since it is hard, impossible, even, to disentangle his life from the last 20 years of the country he ruled, it is also historical research: hence the title.

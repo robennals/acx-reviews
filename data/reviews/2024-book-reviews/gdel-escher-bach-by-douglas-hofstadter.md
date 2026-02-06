@@ -1,16 +1,20 @@
 ---
-title: "Gödel, Escher, Bach by Douglas Hofstadter"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2024-book-reviews"
-contestName: "2024 Book Reviews"
+title: 'Gödel, Escher, Bach by Douglas Hofstadter'
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2024-book-reviews
+contestName: 2024 Book Reviews
 year: 2024
-publishedDate: "2026-02-06T16:47:49.306Z"
-slug: "gdel-escher-bach-by-douglas-hofstadter"
+publishedDate: '2026-02-06T16:47:49.306Z'
+slug: gdel-escher-bach-by-douglas-hofstadter
 wordCount: 3982
 readingTimeMinutes: 18
-originalUrl: "https://docs.google.com/document/d/1QiotH3aGFgNLGqsIHTK_Plm_gem2E4l2C2ctyGJd0jY"
-source: "gdoc"
+originalUrl: >-
+  https://docs.google.com/document/d/1QiotH3aGFgNLGqsIHTK_Plm_gem2E4l2C2ctyGJd0jY
+source: gdoc
+tags:
+  - Science
+  - Philosophy
 ---
 
 They say that if you want to earn respect in prison, you should go up to the biggest guy in the yard and punch him in the face. While I cannot attest to the efficacy of such advice, the intellectual equivalent is writing a book review of Gödel, Escher, Bach.

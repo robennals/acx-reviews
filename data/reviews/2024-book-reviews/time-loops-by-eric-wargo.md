@@ -1,16 +1,20 @@
 ---
-title: "Time Loops by Eric Wargo"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2024-book-reviews"
-contestName: "2024 Book Reviews"
+title: "Time Loops\_by Eric Wargo"
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2024-book-reviews
+contestName: 2024 Book Reviews
 year: 2024
-publishedDate: "2026-02-06T16:49:50.818Z"
-slug: "time-loops-by-eric-wargo"
+publishedDate: '2026-02-06T16:49:50.818Z'
+slug: time-loops-by-eric-wargo
 wordCount: 3396
 readingTimeMinutes: 16
-originalUrl: "https://docs.google.com/document/d/1Ki5XsE0jkxZtd2XAeyTAJw1ZjLh2Cu-matUYKAhA6-s"
-source: "gdoc"
+originalUrl: >-
+  https://docs.google.com/document/d/1Ki5XsE0jkxZtd2XAeyTAJw1ZjLh2Cu-matUYKAhA6-s
+source: gdoc
+tags:
+  - Science
+  - Philosophy
 ---
 
 Consider Mark Twain's prophetic dream of his brother's death.[i] Notice the dream is, more precisely, of Twain's own experience of his brother's death: his attendance of the corpse at the Memphis Exchange, down to details of the casket (metal, propped on two chairs), the brother's dress (a suit lent from Twain), and a bouquet of roses placed on the chest.

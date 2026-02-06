@@ -1,16 +1,20 @@
 ---
-title: "Spring Snow by Yukio Mishima"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2024-book-reviews"
-contestName: "2024 Book Reviews"
+title: Spring Snow by Yukio Mishima
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2024-book-reviews
+contestName: 2024 Book Reviews
 year: 2024
-publishedDate: "2026-02-06T16:48:56.663Z"
-slug: "spring-snow-by-yukio-mishima"
+publishedDate: '2026-02-06T16:48:56.663Z'
+slug: spring-snow-by-yukio-mishima
 wordCount: 1467
 readingTimeMinutes: 7
-originalUrl: "https://docs.google.com/document/d/1GYQw3pgvhi7hqOVR-Ql629Q_8thbyHe8sSRy5voyt30"
-source: "gdoc"
+originalUrl: >-
+  https://docs.google.com/document/d/1GYQw3pgvhi7hqOVR-Ql629Q_8thbyHe8sSRy5voyt30
+source: gdoc
+tags:
+  - Fiction
+  - Society
 ---
 
 In Spring Snow, the first novel in Mishima's ‘The Sea of Fertility’ series, Mishima explores the development of love, societal change, and personal growth in early 20th-century Japan. Set during the final years of the Meiji era, the story centers on Kiyoaki Matsugae, the privileged son of a newly noble family. Raised in luxury and embodying a blend of modern and traditional influences, he stands at the crossroads between the ways of the past and modernity. His pragmatic best friend ‘Honda’ provides a counterpoint to Kiyoaki's introspective and detached personality that complements him well.

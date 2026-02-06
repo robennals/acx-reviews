@@ -1,16 +1,20 @@
 ---
-title: "Who Wrote the Bible?  by Richard Elliott Friedman"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2022-book-reviews"
-contestName: "2022 Book Reviews"
+title: "Who Wrote the Bible?\_ by Richard Elliott Friedman"
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2022-book-reviews
+contestName: 2022 Book Reviews
 year: 2022
-publishedDate: "2026-02-06T07:21:54.185Z"
-slug: "who-wrote-the-bible-by-richard-elliott-friedman"
+publishedDate: '2026-02-06T07:21:54.185Z'
+slug: who-wrote-the-bible-by-richard-elliott-friedman
 wordCount: 8303
 readingTimeMinutes: 37
-originalUrl: "https://docs.google.com/document/d/1hFzjXliCAWjvheY-8Qd2fhbF79LnX0Xg6R9eqk9yIyI"
-source: "gdoc"
+originalUrl: >-
+  https://docs.google.com/document/d/1hFzjXliCAWjvheY-8Qd2fhbF79LnX0Xg6R9eqk9yIyI
+source: gdoc
+tags:
+  - Religion
+  - History
 ---
 
 “It appears that everybody but Moses wrote the Torah.”

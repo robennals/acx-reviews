@@ -1,16 +1,20 @@
 ---
-title: "Down And Out In Paris And London"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2021-book-reviews"
-contestName: "2021 Book Reviews"
+title: Down And Out In Paris And London
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2021-book-reviews
+contestName: 2021 Book Reviews
 year: 2021
-publishedDate: "2026-02-05T15:43:59.133Z"
-slug: "down-and-out-in-paris-and-london"
+publishedDate: '2026-02-05T15:43:59.133Z'
+slug: down-and-out-in-paris-and-london
 wordCount: 13591
 readingTimeMinutes: 61
-originalUrl: "https://astralcodexten.substack.com/p/your-book-review-down-and-out-in"
-source: "acx"
+originalUrl: 'https://astralcodexten.substack.com/p/your-book-review-down-and-out-in'
+source: acx
+tags:
+  - Fiction
+  - Memoir
+  - Society
 ---
 
 [_This is the fifteenth of seventeen finalists in the book review contest. It’s not by me - it’s by an ACX reader who will remain anonymous until after voting is done, to prevent their identity from influencing your decisions. This entry was promoted to finalist status by readers; thanks to everyone who voted! - SA_]

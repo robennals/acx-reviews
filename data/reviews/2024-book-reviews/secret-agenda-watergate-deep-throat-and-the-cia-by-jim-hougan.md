@@ -1,16 +1,20 @@
 ---
-title: "Secret Agenda: Watergate, Deep Throat and the CIA by Jim Hougan"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2024-book-reviews"
-contestName: "2024 Book Reviews"
+title: 'Secret Agenda: Watergate, Deep Throat and the CIA by Jim Hougan'
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2024-book-reviews
+contestName: 2024 Book Reviews
 year: 2024
-publishedDate: "2026-02-06T16:48:56.662Z"
-slug: "secret-agenda-watergate-deep-throat-and-the-cia-by-jim-hougan"
+publishedDate: '2026-02-06T16:48:56.662Z'
+slug: secret-agenda-watergate-deep-throat-and-the-cia-by-jim-hougan
 wordCount: 5725
 readingTimeMinutes: 26
-originalUrl: "https://docs.google.com/document/d/1GYQw3pgvhi7hqOVR-Ql629Q_8thbyHe8sSRy5voyt30"
-source: "gdoc"
+originalUrl: >-
+  https://docs.google.com/document/d/1GYQw3pgvhi7hqOVR-Ql629Q_8thbyHe8sSRy5voyt30
+source: gdoc
+tags:
+  - Politics
+  - History
 ---
 
 “I had this nagging feeling that the Watergate might turn out like the Reichstag fire.  You know, forty years from now will people still be asking did the guy set it and was he a German or was he just a crazy Dutchman?”

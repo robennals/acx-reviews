@@ -1,16 +1,21 @@
 ---
-title: "Safe Enough? A History of Nuclear Power and Accident Risk"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2024-book-reviews"
-contestName: "2024 Book Reviews"
+title: Safe Enough? A History of Nuclear Power and Accident Risk
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2024-book-reviews
+contestName: 2024 Book Reviews
 year: 2024
-publishedDate: "2026-02-06T16:48:56.662Z"
-slug: "safe-enough-a-history-of-nuclear-power-and-accident-risk"
+publishedDate: '2026-02-06T16:48:56.662Z'
+slug: safe-enough-a-history-of-nuclear-power-and-accident-risk
 wordCount: 8216
 readingTimeMinutes: 37
-originalUrl: "https://docs.google.com/document/d/1GYQw3pgvhi7hqOVR-Ql629Q_8thbyHe8sSRy5voyt30"
-source: "gdoc"
+originalUrl: >-
+  https://docs.google.com/document/d/1GYQw3pgvhi7hqOVR-Ql629Q_8thbyHe8sSRy5voyt30
+source: gdoc
+tags:
+  - Technology
+  - History
+  - Science
 ---
 
 Epistemic status: This book covers a lot of topics related to nuclear energy; I have experience with some of them but not all, and some are inherently murky. I will try to make it clear what's fact and what's my opinion. This book was [reviewed last year](https://www.astralcodexten.com/p/your-book-review-safe-enough), but I think our perspectives are quite different.

@@ -1,16 +1,19 @@
 ---
-title: "Are We Smart Enough To Know How Smart Animals Are"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2021-book-reviews"
-contestName: "2021 Book Reviews"
+title: Are We Smart Enough To Know How Smart Animals Are
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2021-book-reviews
+contestName: 2021 Book Reviews
 year: 2021
-publishedDate: "2026-02-05T15:44:05.511Z"
-slug: "are-we-smart-enough-to-know-how-smart-animals-are"
+publishedDate: '2026-02-05T15:44:05.511Z'
+slug: are-we-smart-enough-to-know-how-smart-animals-are
 wordCount: 5430
 readingTimeMinutes: 25
-originalUrl: "https://astralcodexten.substack.com/p/your-book-review-are-we-smart-enough"
-source: "acx"
+originalUrl: 'https://astralcodexten.substack.com/p/your-book-review-are-we-smart-enough'
+source: acx
+tags:
+  - Biology
+  - Psychology
 ---
 
 [_This is the fourth of many finalists in the book review contest. It’s not by me - it’s by an ACX reader who will remain anonymous until after voting is done, to prevent their identity from influencing your decisions. I’ll be posting about two of these a week for several months. When you’ve read all of them, I’ll ask you to vote for your favorite, so remember which ones you liked. - SA_]

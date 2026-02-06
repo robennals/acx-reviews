@@ -1,16 +1,20 @@
 ---
-title: "Nexus by Ramez Naam"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2024-book-reviews"
-contestName: "2024 Book Reviews"
+title: Nexus by Ramez Naam
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2024-book-reviews
+contestName: 2024 Book Reviews
 year: 2024
-publishedDate: "2026-02-06T16:48:20.711Z"
-slug: "nexus-by-ramez-naam"
+publishedDate: '2026-02-06T16:48:20.711Z'
+slug: nexus-by-ramez-naam
 wordCount: 3807
 readingTimeMinutes: 17
-originalUrl: "https://docs.google.com/document/d/1cp6iw5OEyDjnD_viZo-KL0Zv4jwQnMXtE4yIovfVAco"
-source: "gdoc"
+originalUrl: >-
+  https://docs.google.com/document/d/1cp6iw5OEyDjnD_viZo-KL0Zv4jwQnMXtE4yIovfVAco
+source: gdoc
+tags:
+  - Fiction
+  - Technology
 ---
 
 What kind of science fiction are we living in today?

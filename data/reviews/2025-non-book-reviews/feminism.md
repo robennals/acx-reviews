@@ -1,16 +1,20 @@
 ---
-title: "Feminism"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2025-non-book-reviews"
-contestName: "2025 Non Book Reviews"
+title: Feminism
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2025-non-book-reviews
+contestName: 2025 Non Book Reviews
 year: 2025
-publishedDate: "2026-02-06T16:52:48.893Z"
-slug: "feminism"
+publishedDate: '2026-02-06T16:52:48.893Z'
+slug: feminism
 wordCount: 7452
 readingTimeMinutes: 34
-originalUrl: "https://docs.google.com/document/d/1d0vRSj1E93joWWvbUen2XGuDjN_mM94ybMIAADzM2fo"
-source: "gdoc"
+originalUrl: >-
+  https://docs.google.com/document/d/1d0vRSj1E93joWWvbUen2XGuDjN_mM94ybMIAADzM2fo
+source: gdoc
+tags:
+  - Society
+  - Politics
 ---
 
 I’m a male young millennial who, around 2011-2012, was strongly and passionately pro-feminism in most respects. In recent years, I turned fairly strongly against it. Now, having moderated somewhat, and after many long discussions and arguments with a female cousin, I’ve attempted to “steelman” both sides of a few key debates. This dialogue is an experiment, to see what happens when 2011-me and 2021-me go head-to-head within my own brain. In general, Angelica represents a mixture of my own positions a decade ago and the positions of my cousin. Alexius represents a mixture of my positions a few years ago and those of a few online critiques of feminism that I’ve found compelling (even if I didn’t end up agreeing with them). Beyond that, I’ve occasionally tried to steelman positions that neither I nor someone I trust ever believed, but I’ve mostly avoided doing this. So when Alexius and Angelica agree on something, it means the rejection of that thing is a position I’ve never understood, nor has my cousin, nor has a case for it been persuasively made to me. Since this happens reasonably often, the dialogue may be of limited interest to those who do hold to such a rejection.

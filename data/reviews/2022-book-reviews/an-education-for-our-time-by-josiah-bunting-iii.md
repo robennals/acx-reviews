@@ -1,16 +1,20 @@
 ---
-title: "An Education for Our Time by Josiah Bunting III"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2022-book-reviews"
-contestName: "2022 Book Reviews"
+title: An Education for Our Time by Josiah Bunting III
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2022-book-reviews
+contestName: 2022 Book Reviews
 year: 2022
-publishedDate: "2026-02-06T07:24:08.689Z"
-slug: "an-education-for-our-time-by-josiah-bunting-iii"
+publishedDate: '2026-02-06T07:24:08.689Z'
+slug: an-education-for-our-time-by-josiah-bunting-iii
 wordCount: 6792
 readingTimeMinutes: 31
-originalUrl: "https://docs.google.com/document/d/1pRQbRbEUwSH_jm94PI_ij-88swat7vQ4iNaNp6gd39g"
-source: "gdoc"
+originalUrl: >-
+  https://docs.google.com/document/d/1pRQbRbEUwSH_jm94PI_ij-88swat7vQ4iNaNp6gd39g
+source: gdoc
+tags:
+  - Society
+  - Politics
 ---
 
 Colleges are in a precarious position. Student debt is skyrocketing as critics like Bryan Caplan make an increasingly persuasive case that college offers little beyond credentialing to students and even less to society. Meanwhile, alternatives to college like the Thiel fellowship, coding bootcamps, and online education are becoming increasingly viable. And, in the background of all of this, colleges are caught in the crossfire of a culture war that threatens their political standing.

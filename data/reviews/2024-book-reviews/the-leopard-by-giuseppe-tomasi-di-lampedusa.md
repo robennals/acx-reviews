@@ -1,16 +1,20 @@
 ---
-title: "The Leopard by Giuseppe Tomasi di Lampedusa"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2024-book-reviews"
-contestName: "2024 Book Reviews"
+title: The Leopard by Giuseppe Tomasi di Lampedusa
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2024-book-reviews
+contestName: 2024 Book Reviews
 year: 2024
-publishedDate: "2026-02-06T16:49:14.009Z"
-slug: "the-leopard-by-giuseppe-tomasi-di-lampedusa"
+publishedDate: '2026-02-06T16:49:14.009Z'
+slug: the-leopard-by-giuseppe-tomasi-di-lampedusa
 wordCount: 5807
 readingTimeMinutes: 26
-originalUrl: "https://docs.google.com/document/d/14qa47TJ_Vyerx4XNgTCIh7PUZ_TOgNcU_eHm5So_zo0"
-source: "gdoc"
+originalUrl: >-
+  https://docs.google.com/document/d/14qa47TJ_Vyerx4XNgTCIh7PUZ_TOgNcU_eHm5So_zo0
+source: gdoc
+tags:
+  - Fiction
+  - History
 ---
 
 “If we want everything to remain as it is, everything has to change.”[[54]](#ftnt54) Few books can boast being intimately associated with a single quotation, much less one that neither appears in the first paragraph nor is repeated recurrently throughout the text. But the true meaning of Tancredi’s words, and the significance of these words in the context of the book, are usually misunderstood. People often speak of “changing everything so that nothing changes” to describe Machiavellian plots by cold-hearted (and extremely forward-looking) elites who advocate social and political change to distract a credulous population when their actual goal is to keep everything of substance intact.

@@ -1,16 +1,19 @@
 ---
-title: "Nicotine as a Nootropic"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2025-non-book-reviews"
-contestName: "2025 Non Book Reviews"
+title: Nicotine as a Nootropic
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2025-non-book-reviews
+contestName: 2025 Non Book Reviews
 year: 2025
-publishedDate: "2026-02-06T16:55:03.481Z"
-slug: "nicotine-as-a-nootropic"
+publishedDate: '2026-02-06T16:55:03.481Z'
+slug: nicotine-as-a-nootropic
 wordCount: 1496
 readingTimeMinutes: 7
-originalUrl: "https://docs.google.com/document/d/1a3q0Z2tuPLLbDeg5-pfEffkajGjrfPDwE7ZMs7uaWQs"
-source: "gdoc"
+originalUrl: >-
+  https://docs.google.com/document/d/1a3q0Z2tuPLLbDeg5-pfEffkajGjrfPDwE7ZMs7uaWQs
+source: gdoc
+tags:
+  - Science
 ---
 
 TLDR: Nicotine is mostly wrongly vilified; its big issue is a short half-life that foments chronic re-dosing. Addiction potential is a function of net time to hit your bloodstream (inhalation/smoking > buccal administration/snus/dip > nicotine gums > transdermal patches). Be careful with chronically elevated nicotine levels, which can engender higher baseline levels of neural excitation (mechanisms explicated below) and is a primary mediator of addiction reinforcement. Otherwise, it’s a powerful, angiogenic nootropic that is useful with perspicacious use. But as always, you’re modifying a vastly complex biochemical system with countless reflexive feedback loops, so who knows.

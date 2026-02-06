@@ -1,16 +1,20 @@
 ---
-title: "War in Human Civilization by Azar Gat"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2022-book-reviews"
-contestName: "2022 Book Reviews"
+title: War in Human Civilization by Azar Gat
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2022-book-reviews
+contestName: 2022 Book Reviews
 year: 2022
-publishedDate: "2026-02-06T07:21:54.184Z"
-slug: "war-in-human-civilization-by-azar-gat"
+publishedDate: '2026-02-06T07:21:54.184Z'
+slug: war-in-human-civilization-by-azar-gat
 wordCount: 7421
 readingTimeMinutes: 33
-originalUrl: "https://docs.google.com/document/d/1hFzjXliCAWjvheY-8Qd2fhbF79LnX0Xg6R9eqk9yIyI"
-source: "gdoc"
+originalUrl: >-
+  https://docs.google.com/document/d/1hFzjXliCAWjvheY-8Qd2fhbF79LnX0Xg6R9eqk9yIyI
+source: gdoc
+tags:
+  - History
+  - Biology
 ---
 
 “War, War never changes.” - Fallout

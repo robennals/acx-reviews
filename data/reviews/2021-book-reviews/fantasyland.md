@@ -1,16 +1,21 @@
 ---
-title: "Fantasyland"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2021-book-reviews"
-contestName: "2021 Book Reviews"
+title: Fantasyland
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2021-book-reviews
+contestName: 2021 Book Reviews
 year: 2021
-publishedDate: "2026-02-06T07:21:29.567Z"
-slug: "fantasyland"
+publishedDate: '2026-02-06T07:21:29.567Z'
+slug: fantasyland
 wordCount: 2807
 readingTimeMinutes: 13
-originalUrl: "https://docs.google.com/document/d/1xexFJ7h0vULMDE7N77q_MIzXoerexfe_CqqGEL6hEoQ"
-source: "gdoc"
+originalUrl: >-
+  https://docs.google.com/document/d/1xexFJ7h0vULMDE7N77q_MIzXoerexfe_CqqGEL6hEoQ
+source: gdoc
+tags:
+  - History
+  - Politics
+  - Society
 ---
 
 For future readers: this post was written just days after [pro-Trump rioters invaded the United States Capitol](https://www.google.com/url?q=https://en.wikipedia.org/wiki/2021_storming_of_the_United_States_Capitol&sa=D&source=editors&ust=1770366086206023&usg=AOvVaw1yr3mz7BzMTiMSrYfq3dvM) to try to overturn the results of the 2020 presidential election).

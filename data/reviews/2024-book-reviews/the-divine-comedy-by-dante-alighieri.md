@@ -1,16 +1,20 @@
 ---
-title: "The Divine Comedy by Dante Alighieri"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2024-book-reviews"
-contestName: "2024 Book Reviews"
+title: The Divine Comedy by Dante Alighieri
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2024-book-reviews
+contestName: 2024 Book Reviews
 year: 2024
-publishedDate: "2026-02-06T16:49:14.006Z"
-slug: "the-divine-comedy-by-dante-alighieri"
+publishedDate: '2026-02-06T16:49:14.006Z'
+slug: the-divine-comedy-by-dante-alighieri
 wordCount: 14996
 readingTimeMinutes: 67
-originalUrl: "https://docs.google.com/document/d/14qa47TJ_Vyerx4XNgTCIh7PUZ_TOgNcU_eHm5So_zo0"
-source: "gdoc"
+originalUrl: >-
+  https://docs.google.com/document/d/14qa47TJ_Vyerx4XNgTCIh7PUZ_TOgNcU_eHm5So_zo0
+source: gdoc
+tags:
+  - Fiction
+  - Religion
 ---
 
 This is a review of the Divine Comedy, written as a summary.

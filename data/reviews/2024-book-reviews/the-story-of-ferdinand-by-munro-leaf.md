@@ -1,16 +1,20 @@
 ---
-title: "The Story of Ferdinand by Munro Leaf"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2024-book-reviews"
-contestName: "2024 Book Reviews"
+title: The Story of Ferdinand by Munro Leaf
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2024-book-reviews
+contestName: 2024 Book Reviews
 year: 2024
-publishedDate: "2026-02-06T16:49:50.815Z"
-slug: "the-story-of-ferdinand-by-munro-leaf"
+publishedDate: '2026-02-06T16:49:50.815Z'
+slug: the-story-of-ferdinand-by-munro-leaf
 wordCount: 2531
 readingTimeMinutes: 12
-originalUrl: "https://docs.google.com/document/d/1Ki5XsE0jkxZtd2XAeyTAJw1ZjLh2Cu-matUYKAhA6-s"
-source: "gdoc"
+originalUrl: >-
+  https://docs.google.com/document/d/1Ki5XsE0jkxZtd2XAeyTAJw1ZjLh2Cu-matUYKAhA6-s
+source: gdoc
+tags:
+  - Fiction
+  - Society
 ---
 
 The Story of Ferdinand by Munro Leaf is a children's book about a bull who wants to sit quietly rather than fight. While that description makes it sound like it was written by your least-favorite lefty activist,  The Story of Ferdinand is from 1936 and is just a charming story about a bull rather than a political screed.

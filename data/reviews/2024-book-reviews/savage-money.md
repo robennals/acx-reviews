@@ -1,16 +1,20 @@
 ---
-title: "Savage Money"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2024-book-reviews"
-contestName: "2024 Book Reviews"
+title: Savage Money
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2024-book-reviews
+contestName: 2024 Book Reviews
 year: 2024
-publishedDate: "2026-02-06T16:48:56.662Z"
-slug: "savage-money"
+publishedDate: '2026-02-06T16:48:56.662Z'
+slug: savage-money
 wordCount: 5419
 readingTimeMinutes: 25
-originalUrl: "https://docs.google.com/document/d/1GYQw3pgvhi7hqOVR-Ql629Q_8thbyHe8sSRy5voyt30"
-source: "gdoc"
+originalUrl: >-
+  https://docs.google.com/document/d/1GYQw3pgvhi7hqOVR-Ql629Q_8thbyHe8sSRy5voyt30
+source: gdoc
+tags:
+  - Economics
+  - History
 ---
 
 The sign of any imperial organiser of capitalism is the creation of a national standard of value that is convertible into gold or other commodities at a fixed rate; in other words, the creation of token money that is as good as gold.

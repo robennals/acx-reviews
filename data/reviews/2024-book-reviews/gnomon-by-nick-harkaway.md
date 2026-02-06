@@ -1,16 +1,20 @@
 ---
-title: "Gnomon by Nick Harkaway"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2024-book-reviews"
-contestName: "2024 Book Reviews"
+title: Gnomon by Nick Harkaway
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2024-book-reviews
+contestName: 2024 Book Reviews
 year: 2024
-publishedDate: "2026-02-06T16:47:49.306Z"
-slug: "gnomon-by-nick-harkaway"
+publishedDate: '2026-02-06T16:47:49.306Z'
+slug: gnomon-by-nick-harkaway
 wordCount: 2491
 readingTimeMinutes: 12
-originalUrl: "https://docs.google.com/document/d/1QiotH3aGFgNLGqsIHTK_Plm_gem2E4l2C2ctyGJd0jY"
-source: "gdoc"
+originalUrl: >-
+  https://docs.google.com/document/d/1QiotH3aGFgNLGqsIHTK_Plm_gem2E4l2C2ctyGJd0jY
+source: gdoc
+tags:
+  - Fiction
+  - Philosophy
 ---
 
 What is the nature of consciousness?  What is Identity?  What is the best form of government?  What is the nature of reality?  I don’t know, and neither does Nick Harkaway.  But he has clearly thought a great deal more about these questions than most, and decided to wrap those explorations in a gripping mystery novel whose plot structure requires non-Euclidian geometries to represent.  Despite the ambitions of Harkaway’s prose, he manages to convey the story’s many layers in ever exciting and satisfying ways.  It is the type of book which defies expectations, so I doubt knowing parts of the plot would affect MY enjoyment of it.  But every person’s different, and a spoiler-free reading is probably better, so I’m just going to first attempt to convey the vibes of the book by describing other books that “defied expectations” in similarly enticing ways.  It’s the kind of thing that makes you want to read the [conclusion](#kix.acwdh8d6igzq) right after checking out a [story](#kix.u0ki7i9nemwa) about a work that was similarly affecting..

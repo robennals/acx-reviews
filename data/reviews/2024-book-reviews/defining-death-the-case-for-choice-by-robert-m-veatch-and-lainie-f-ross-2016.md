@@ -1,16 +1,22 @@
 ---
-title: "Defining Death: The Case For Choice by Robert M. Veatch and Lainie F. Ross (2016)"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2024-book-reviews"
-contestName: "2024 Book Reviews"
+title: >-
+  Defining Death: The Case For Choice by Robert M. Veatch and Lainie F. Ross
+  (2016)
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2024-book-reviews
+contestName: 2024 Book Reviews
 year: 2024
-publishedDate: "2026-02-06T16:47:15.599Z"
-slug: "defining-death-the-case-for-choice-by-robert-m-veatch-and-lainie-f-ross-2016"
+publishedDate: '2026-02-06T16:47:15.599Z'
+slug: defining-death-the-case-for-choice-by-robert-m-veatch-and-lainie-f-ross-2016
 wordCount: 4692
 readingTimeMinutes: 21
-originalUrl: "https://docs.google.com/document/d/1AXmWgSbh_TFsoZuApSCSEoz57yn93CM5YYhtaO_s4W4"
-source: "gdoc"
+originalUrl: >-
+  https://docs.google.com/document/d/1AXmWgSbh_TFsoZuApSCSEoz57yn93CM5YYhtaO_s4W4
+source: gdoc
+tags:
+  - Philosophy
+  - Science
 ---
 
 [Content note: discussions of death and dying]

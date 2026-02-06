@@ -1,16 +1,20 @@
 ---
-title: "The Doomsday Machine: Confessions of a Nuclear War Planner by Daniel Ellsberg"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2022-book-reviews"
-contestName: "2022 Book Reviews"
+title: "The Doomsday Machine: Confessions of a Nuclear War Planner\_by Daniel Ellsberg"
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2022-book-reviews
+contestName: 2022 Book Reviews
 year: 2022
-publishedDate: "2026-02-06T07:22:32.823Z"
-slug: "the-doomsday-machine-confessions-of-a-nuclear-war-planner-by-daniel-ellsberg"
+publishedDate: '2026-02-06T07:22:32.823Z'
+slug: the-doomsday-machine-confessions-of-a-nuclear-war-planner-by-daniel-ellsberg
 wordCount: 8622
 readingTimeMinutes: 39
-originalUrl: "https://docs.google.com/document/d/100kMdSVFviZSSBvUyyEQPMNlvLptVQxHFD9i9wGuBWs"
-source: "gdoc"
+originalUrl: >-
+  https://docs.google.com/document/d/100kMdSVFviZSSBvUyyEQPMNlvLptVQxHFD9i9wGuBWs
+source: gdoc
+tags:
+  - History
+  - Politics
 ---
 
 Nuclear FOMO Might Kill Us All

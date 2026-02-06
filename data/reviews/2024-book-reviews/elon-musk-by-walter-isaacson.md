@@ -1,16 +1,20 @@
 ---
-title: "Elon Musk by Walter Isaacson"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2024-book-reviews"
-contestName: "2024 Book Reviews"
+title: Elon Musk by Walter Isaacson
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2024-book-reviews
+contestName: 2024 Book Reviews
 year: 2024
-publishedDate: "2026-02-06T16:47:49.303Z"
-slug: "elon-musk-by-walter-isaacson"
+publishedDate: '2026-02-06T16:47:49.303Z'
+slug: elon-musk-by-walter-isaacson
 wordCount: 3560
 readingTimeMinutes: 16
-originalUrl: "https://docs.google.com/document/d/1QiotH3aGFgNLGqsIHTK_Plm_gem2E4l2C2ctyGJd0jY"
-source: "gdoc"
+originalUrl: >-
+  https://docs.google.com/document/d/1QiotH3aGFgNLGqsIHTK_Plm_gem2E4l2C2ctyGJd0jY
+source: gdoc
+tags:
+  - Memoir
+  - Technology
 ---
 
 Elon Musk

@@ -1,16 +1,21 @@
 ---
-title: "Drunk: How We Sipped, Danced, and Stumbled Our Way to Civilization"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2023-book-reviews"
-contestName: "2023 Book Reviews"
+title: 'Drunk: How We Sipped, Danced, and Stumbled Our Way to Civilization'
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2023-book-reviews
+contestName: 2023 Book Reviews
 year: 2023
-publishedDate: "2026-02-06T07:21:10.028Z"
-slug: "drunk-how-we-sipped-danced-and-stumbled-our-way-to-civilization"
+publishedDate: '2026-02-06T07:21:10.028Z'
+slug: drunk-how-we-sipped-danced-and-stumbled-our-way-to-civilization
 wordCount: 6965
 readingTimeMinutes: 31
-originalUrl: "https://docs.google.com/document/d/10CiEI7aDL2bMIdx7yayy3vlq0TJ8dO5LGnG7yIDPiw8"
-source: "gdoc"
+originalUrl: >-
+  https://docs.google.com/document/d/10CiEI7aDL2bMIdx7yayy3vlq0TJ8dO5LGnG7yIDPiw8
+source: gdoc
+tags:
+  - History
+  - Society
+  - Biology
 ---
 
 ## Apéritif

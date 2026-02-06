@@ -1,16 +1,20 @@
 ---
-title: "Trans: When Ideology Meets Reality by Helen Joyce"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2022-book-reviews"
-contestName: "2022 Book Reviews"
+title: 'Trans: When Ideology Meets Reality by Helen Joyce'
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2022-book-reviews
+contestName: 2022 Book Reviews
 year: 2022
-publishedDate: "2026-02-06T07:21:54.175Z"
-slug: "trans-when-ideology-meets-reality-by-helen-joyce"
+publishedDate: '2026-02-06T07:21:54.175Z'
+slug: trans-when-ideology-meets-reality-by-helen-joyce
 wordCount: 4663
 readingTimeMinutes: 21
-originalUrl: "https://docs.google.com/document/d/1hFzjXliCAWjvheY-8Qd2fhbF79LnX0Xg6R9eqk9yIyI"
-source: "gdoc"
+originalUrl: >-
+  https://docs.google.com/document/d/1hFzjXliCAWjvheY-8Qd2fhbF79LnX0Xg6R9eqk9yIyI
+source: gdoc
+tags:
+  - Society
+  - Politics
 ---
 
 “Are you male or female at the airport?” asks the TSA agent.  

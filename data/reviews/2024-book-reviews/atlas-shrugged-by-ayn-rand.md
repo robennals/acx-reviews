@@ -1,16 +1,20 @@
 ---
-title: "Atlas Shrugged by Ayn Rand"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2024-book-reviews"
-contestName: "2024 Book Reviews"
+title: Atlas Shrugged by Ayn Rand
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2024-book-reviews
+contestName: 2024 Book Reviews
 year: 2024
-publishedDate: "2026-02-06T16:47:15.596Z"
-slug: "atlas-shrugged-by-ayn-rand"
+publishedDate: '2026-02-06T16:47:15.596Z'
+slug: atlas-shrugged-by-ayn-rand
 wordCount: 1812
 readingTimeMinutes: 9
-originalUrl: "https://docs.google.com/document/d/1AXmWgSbh_TFsoZuApSCSEoz57yn93CM5YYhtaO_s4W4"
-source: "gdoc"
+originalUrl: >-
+  https://docs.google.com/document/d/1AXmWgSbh_TFsoZuApSCSEoz57yn93CM5YYhtaO_s4W4
+source: gdoc
+tags:
+  - Fiction
+  - Philosophy
 ---
 
 Ayn Rand: the hedgehog who wanted to be a fox

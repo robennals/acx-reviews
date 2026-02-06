@@ -1,16 +1,20 @@
 ---
-title: "Golem XIV"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2024-book-reviews"
-contestName: "2024 Book Reviews"
+title: Golem XIV
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2024-book-reviews
+contestName: 2024 Book Reviews
 year: 2024
-publishedDate: "2026-02-06T16:47:49.306Z"
-slug: "golem-xiv"
+publishedDate: '2026-02-06T16:47:49.306Z'
+slug: golem-xiv
 wordCount: 2664
 readingTimeMinutes: 12
-originalUrl: "https://docs.google.com/document/d/1QiotH3aGFgNLGqsIHTK_Plm_gem2E4l2C2ctyGJd0jY"
-source: "gdoc"
+originalUrl: >-
+  https://docs.google.com/document/d/1QiotH3aGFgNLGqsIHTK_Plm_gem2E4l2C2ctyGJd0jY
+source: gdoc
+tags:
+  - Fiction
+  - Technology
 ---
 
 The author, a slightly overweight white cis male of Ashkenazi descent, was presumably born on September 12 under the sign of Virgo. His IQ is off the charts; through self-study, he becomes a polymath at a young age and – in his own, somewhat immodest estimation – the best word rotator of his generation. He moves to the most progressive city in his country and begins to write speculative fiction. He invents the ratfic and other genres and soon finds an audience of millions, but never receives a major SF award. He then increasingly turns to other things, especially research on artificial intelligence, about which he warns in cryptic and seemingly arrogant interviews and other statements.

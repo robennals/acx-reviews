@@ -1,16 +1,20 @@
 ---
-title: "The Book of Blam by Aleksander Tišma"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2022-book-reviews"
-contestName: "2022 Book Reviews"
+title: The Book of Blam by Aleksander Tišma
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2022-book-reviews
+contestName: 2022 Book Reviews
 year: 2022
-publishedDate: "2026-02-06T07:22:32.818Z"
-slug: "the-book-of-blam-by-aleksander-tima"
+publishedDate: '2026-02-06T07:22:32.818Z'
+slug: the-book-of-blam-by-aleksander-tima
 wordCount: 5299
 readingTimeMinutes: 24
-originalUrl: "https://docs.google.com/document/d/100kMdSVFviZSSBvUyyEQPMNlvLptVQxHFD9i9wGuBWs"
-source: "gdoc"
+originalUrl: >-
+  https://docs.google.com/document/d/100kMdSVFviZSSBvUyyEQPMNlvLptVQxHFD9i9wGuBWs
+source: gdoc
+tags:
+  - Fiction
+  - History
 ---
 
 A Daze this Side of Death but that Side of Life

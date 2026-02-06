@@ -1,16 +1,23 @@
 ---
-title: "Eve: How the Female Body Drove 200 Million Years of Human Evolution, by Cat Bohannon"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2024-book-reviews"
-contestName: "2024 Book Reviews"
+title: >-
+  Eve: How the Female Body Drove 200 Million Years of Human Evolution, by Cat
+  Bohannon
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2024-book-reviews
+contestName: 2024 Book Reviews
 year: 2024
-publishedDate: "2026-02-06T16:47:49.304Z"
-slug: "eve-how-the-female-body-drove-200-million-years-of-human-evolution-by-cat-bohannon"
+publishedDate: '2026-02-06T16:47:49.304Z'
+slug: >-
+  eve-how-the-female-body-drove-200-million-years-of-human-evolution-by-cat-bohannon
 wordCount: 1979
 readingTimeMinutes: 9
-originalUrl: "https://docs.google.com/document/d/1QiotH3aGFgNLGqsIHTK_Plm_gem2E4l2C2ctyGJd0jY"
-source: "gdoc"
+originalUrl: >-
+  https://docs.google.com/document/d/1QiotH3aGFgNLGqsIHTK_Plm_gem2E4l2C2ctyGJd0jY
+source: gdoc
+tags:
+  - Biology
+  - Society
 ---
 
 A feminist take on evolutionary history might be a bit of a hard sell for ACX readers, it certainly doesn’t help that it made me read the word mansplain two chapters in. But Cat Bohannon’s Eve: How the Female Body Drove 200 Million Years of Human Evolution is an interesting enough book to be well worth enduring a few culture war flashbacks.

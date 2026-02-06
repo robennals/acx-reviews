@@ -1,16 +1,20 @@
 ---
-title: "The Future of Fusion Energy by Jason Parisi and Justin Ball"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2022-book-reviews"
-contestName: "2022 Book Reviews"
+title: "The Future of Fusion Energy\_by Jason Parisi and Justin Ball"
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2022-book-reviews
+contestName: 2022 Book Reviews
 year: 2022
-publishedDate: "2026-02-06T07:22:32.825Z"
-slug: "the-future-of-fusion-energy-by-jason-parisi-and-justin-ball"
+publishedDate: '2026-02-06T07:22:32.825Z'
+slug: the-future-of-fusion-energy-by-jason-parisi-and-justin-ball
 wordCount: 4937
 readingTimeMinutes: 22
-originalUrl: "https://docs.google.com/document/d/100kMdSVFviZSSBvUyyEQPMNlvLptVQxHFD9i9wGuBWs"
-source: "gdoc"
+originalUrl: >-
+  https://docs.google.com/document/d/100kMdSVFviZSSBvUyyEQPMNlvLptVQxHFD9i9wGuBWs
+source: gdoc
+tags:
+  - Science
+  - Technology
 ---
 
 Fusion is the power which lights the stars. It is the source of all elements heavier than hydrogen in the universe. Wouldn't it be great if we could use and control this power here on Earth?

@@ -1,16 +1,18 @@
 ---
-title: "1587, A Year Of No Significance"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2022-book-reviews"
-contestName: "2022 Book Reviews"
+title: '1587, A Year Of No Significance'
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2022-book-reviews
+contestName: 2022 Book Reviews
 year: 2022
-publishedDate: "2026-02-05T15:57:27.924Z"
-slug: "1587-a-year-of-no-significance"
+publishedDate: '2026-02-05T15:57:27.924Z'
+slug: 1587-a-year-of-no-significance
 wordCount: 8830
 readingTimeMinutes: 40
-originalUrl: "https://astralcodexten.substack.com/p/your-book-review-1587-a-year-of-no"
-source: "acx"
+originalUrl: 'https://astralcodexten.substack.com/p/your-book-review-1587-a-year-of-no'
+source: acx
+tags:
+  - History
 ---
 
 _[This is one of the finalists in the 2022 book review contest. It’s not by me - it’s by an ACX reader who will remain anonymous until after voting is done, to prevent their identity from influencing your decisions. I’ll be posting about one of these a week for several months. When you’ve read them all, I’ll ask you to vote for a favorite, so remember which ones you liked._]

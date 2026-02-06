@@ -1,16 +1,20 @@
 ---
-title: "The Dark Forest by Liu Cixin"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2022-book-reviews"
-contestName: "2022 Book Reviews"
+title: The Dark Forest by Liu Cixin
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2022-book-reviews
+contestName: 2022 Book Reviews
 year: 2022
-publishedDate: "2026-02-06T07:22:32.822Z"
-slug: "the-dark-forest-by-liu-cixin"
+publishedDate: '2026-02-06T07:22:32.822Z'
+slug: the-dark-forest-by-liu-cixin
 wordCount: 6422
 readingTimeMinutes: 29
-originalUrl: "https://docs.google.com/document/d/100kMdSVFviZSSBvUyyEQPMNlvLptVQxHFD9i9wGuBWs"
-source: "gdoc"
+originalUrl: >-
+  https://docs.google.com/document/d/100kMdSVFviZSSBvUyyEQPMNlvLptVQxHFD9i9wGuBWs
+source: gdoc
+tags:
+  - Fiction
+  - Science
 ---
 
 The way I read books is pretty weird. Usually, it's not super long reviews that catch my interest. Or medium long reviews or, really, reviews at all. I could scroll through tons and tons of Reviews on Goodreads without once feeling the urge to buy a book. Perhaps this is more about Goodreads reviews than reviews in general but the positive reviews on Goodreads never get me excited since they're usually just retelling the story. And the bad ones have become less and less useful as I've seen more and more clearly unjust three-star reviews litter the top reviews on the pages of my favorite books. It's very possible these complaints only apply to the Goodreads community, but I still think my method for picking books to read is the best one. What is it you ask?

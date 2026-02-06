@@ -1,16 +1,20 @@
 ---
-title: "Brave New World by Aldous Huxley, Or, Should I wirehead my cat?"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2021-book-reviews"
-contestName: "2021 Book Reviews"
+title: 'Brave New World by Aldous Huxley, Or, Should I wirehead my cat?'
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2021-book-reviews
+contestName: 2021 Book Reviews
 year: 2021
-publishedDate: "2026-02-06T07:21:29.563Z"
-slug: "brave-new-world-by-aldous-huxley-or-should-i-wirehead-my-cat"
+publishedDate: '2026-02-06T07:21:29.563Z'
+slug: brave-new-world-by-aldous-huxley-or-should-i-wirehead-my-cat
 wordCount: 1669
 readingTimeMinutes: 8
-originalUrl: "https://docs.google.com/document/d/1xexFJ7h0vULMDE7N77q_MIzXoerexfe_CqqGEL6hEoQ"
-source: "gdoc"
+originalUrl: >-
+  https://docs.google.com/document/d/1xexFJ7h0vULMDE7N77q_MIzXoerexfe_CqqGEL6hEoQ
+source: gdoc
+tags:
+  - Fiction
+  - Philosophy
 ---
 
 We start at the beginning, with babies growing in bottles to a civilization evolved past the need for families. This is Aldous Huxley’s Brave New World, the seminal work of the utopian genre. Here, the motto of the World State is “Community, Identity, Stability”. Huxley paints a bleak picture of technologically enabled hedonistic excess. Unfortunately for possibly all of humanity, Brave New World is much more popular than it’s utopian counterpart Island, written thirty years later. The attention grabbing portrayal of a society that values happiness to the exclusion of culture, freedom and even love has tainted the idea of paradise-engineering in the public eye for decades. Taking into account the immense amount of human and animal suffering in the world, stymying research into abolishing suffering is a moral catastrophe, one Huxley contributed to.

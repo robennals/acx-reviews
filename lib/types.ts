@@ -17,6 +17,7 @@ export interface Review {
   originalUrl?: string;          // Link to original ACX post or Google Doc
   imageUrl?: string;             // Cover image path (optional)
   source: 'acx' | 'gdoc';        // Source of the review
+  tags?: string[];                 // Topic tags (e.g., ["History", "Politics"])
 }
 
 export interface Contest {

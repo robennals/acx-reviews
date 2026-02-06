@@ -1,16 +1,20 @@
 ---
-title: "Two Arms and a Head"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2024-book-reviews"
-contestName: "2024 Book Reviews"
+title: Two Arms and a Head
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2024-book-reviews
+contestName: 2024 Book Reviews
 year: 2024
-publishedDate: "2026-02-06T16:49:50.818Z"
-slug: "two-arms-and-a-head"
+publishedDate: '2026-02-06T16:49:50.818Z'
+slug: two-arms-and-a-head
 wordCount: 9017
 readingTimeMinutes: 41
-originalUrl: "https://docs.google.com/document/d/1Ki5XsE0jkxZtd2XAeyTAJw1ZjLh2Cu-matUYKAhA6-s"
-source: "gdoc"
+originalUrl: >-
+  https://docs.google.com/document/d/1Ki5XsE0jkxZtd2XAeyTAJw1ZjLh2Cu-matUYKAhA6-s
+source: gdoc
+tags:
+  - Memoir
+  - Psychology
 ---
 
 The Death of a Newly-Paraplegic Philosopher

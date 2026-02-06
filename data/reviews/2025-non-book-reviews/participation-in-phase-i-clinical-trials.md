@@ -1,16 +1,19 @@
 ---
-title: "Participation In Phase I Clinical Trials"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2025-non-book-reviews"
-contestName: "2025 Non Book Reviews"
+title: Participation In Phase I Clinical Trials
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2025-non-book-reviews
+contestName: 2025 Non Book Reviews
 year: 2025
-publishedDate: "2026-02-06T16:58:45.535Z"
-slug: "participation-in-phase-i-clinical-trials"
+publishedDate: '2026-02-06T16:58:45.535Z'
+slug: participation-in-phase-i-clinical-trials
 wordCount: 4663
 readingTimeMinutes: 21
-originalUrl: "https://www.astralcodexten.com/p/your-review-participation-in-phase"
-source: "acx"
+originalUrl: 'https://www.astralcodexten.com/p/your-review-participation-in-phase'
+source: acx
+tags:
+  - Science
+  - Memoir
 ---
 
 _[This is one of the finalists in the 2025 review contest, written by an ACX reader who will remain anonymous until after voting is done. I’ll be posting about one of these a week for several months. When you’ve read them all, I’ll ask you to vote for a favorite, so remember which ones you liked]_

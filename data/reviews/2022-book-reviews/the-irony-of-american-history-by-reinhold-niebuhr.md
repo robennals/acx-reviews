@@ -1,16 +1,21 @@
 ---
-title: "The Irony of American History - by Reinhold Niebuhr"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2022-book-reviews"
-contestName: "2022 Book Reviews"
+title: The Irony of American History - by Reinhold Niebuhr
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2022-book-reviews
+contestName: 2022 Book Reviews
 year: 2022
-publishedDate: "2026-02-06T07:22:32.827Z"
-slug: "the-irony-of-american-history-by-reinhold-niebuhr"
+publishedDate: '2026-02-06T07:22:32.827Z'
+slug: the-irony-of-american-history-by-reinhold-niebuhr
 wordCount: 6513
 readingTimeMinutes: 29
-originalUrl: "https://docs.google.com/document/d/100kMdSVFviZSSBvUyyEQPMNlvLptVQxHFD9i9wGuBWs"
-source: "gdoc"
+originalUrl: >-
+  https://docs.google.com/document/d/100kMdSVFviZSSBvUyyEQPMNlvLptVQxHFD9i9wGuBWs
+source: gdoc
+tags:
+  - History
+  - Religion
+  - Politics
 ---
 
 If anyone was born to theology, it was Reinhold Niebuhr. His father Gustav was a pastor, his mother Lydia was the daughter of a missionary, his sister Hulda took a divinity professorship in Chicago, and his brother [Richard](https://www.google.com/url?q=https://en.wikipedia.org/wiki/H._Richard_Niebuhr&sa=D&source=editors&ust=1770366146533519&usg=AOvVaw2Xj7Kp1fbBze9Ep_qgMHXU) became a famous theological ethicist. Clearly Reinhold had the blood of Christ.

@@ -1,16 +1,22 @@
 ---
-title: "An Evolutionary Theory of Economic Change by Richard R. Nelson and Sidney G. Winter"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2021-book-reviews"
-contestName: "2021 Book Reviews"
+title: >-
+  An Evolutionary Theory of Economic Change by Richard R. Nelson and Sidney G.
+  Winter
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2021-book-reviews
+contestName: 2021 Book Reviews
 year: 2021
-publishedDate: "2026-02-06T07:21:29.560Z"
-slug: "an-evolutionary-theory-of-economic-change-by-richard-r-nelson-and-sidney-g-winter"
+publishedDate: '2026-02-06T07:21:29.560Z'
+slug: >-
+  an-evolutionary-theory-of-economic-change-by-richard-r-nelson-and-sidney-g-winter
 wordCount: 2165
 readingTimeMinutes: 10
-originalUrl: "https://docs.google.com/document/d/1xexFJ7h0vULMDE7N77q_MIzXoerexfe_CqqGEL6hEoQ"
-source: "gdoc"
+originalUrl: >-
+  https://docs.google.com/document/d/1xexFJ7h0vULMDE7N77q_MIzXoerexfe_CqqGEL6hEoQ
+source: gdoc
+tags:
+  - Economics
 ---
 
 There’s a somewhat straw-man view of economics where we take all the mathematical assumptions at face value. We imagine, for instance, Apple designing the next iPhone. First, they take all of their collected data and build detailed probabilistic models of their customers. Then they consider every possible iPhone design, plug each one into the customer-model, and simulate customers choosing whether to buy the phone or whether to make purchases on it. The company calculates their expected profits and risk, plug those into a model of their longer-term finances, and finally choose the design with maximum long-term expected profit. This is how idealized companies behave in economic models: they calculate a probabilistic model based on all the information available, then choose the option with maximum expected long-run profit. We’ll call this the “idealized profit-maximizer” model.

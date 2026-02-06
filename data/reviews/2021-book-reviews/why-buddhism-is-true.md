@@ -1,16 +1,19 @@
 ---
-title: "Why Buddhism Is True"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2021-book-reviews"
-contestName: "2021 Book Reviews"
+title: Why Buddhism Is True
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2021-book-reviews
+contestName: 2021 Book Reviews
 year: 2021
-publishedDate: "2026-02-05T15:44:07.616Z"
-slug: "why-buddhism-is-true"
+publishedDate: '2026-02-05T15:44:07.616Z'
+slug: why-buddhism-is-true
 wordCount: 4451
 readingTimeMinutes: 20
-originalUrl: "https://astralcodexten.substack.com/p/your-book-review-why-buddhism-is"
-source: "acx"
+originalUrl: 'https://astralcodexten.substack.com/p/your-book-review-why-buddhism-is'
+source: acx
+tags:
+  - Religion
+  - Psychology
 ---
 
 [_This is the fifth of many finalists in the book review contest. It’s not by me - it’s by an ACX reader who will remain anonymous until after voting is done, to prevent their identity from influencing your decisions. I’ll be posting about two of these a week for several months. When you’ve read all of them, I’ll ask you to vote for your favorite, so remember which ones you liked. - SA_]

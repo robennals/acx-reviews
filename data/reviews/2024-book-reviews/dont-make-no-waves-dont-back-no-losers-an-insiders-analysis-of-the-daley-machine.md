@@ -1,16 +1,22 @@
 ---
-title: "Don't Make No Waves, Don't Back No Losers: An Insiders' Analysis of the Daley Machine"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2024-book-reviews"
-contestName: "2024 Book Reviews"
+title: >-
+  Don't Make No Waves, Don't Back No Losers: An Insiders' Analysis of the Daley
+  Machine
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2024-book-reviews
+contestName: 2024 Book Reviews
 year: 2024
-publishedDate: "2026-02-06T16:47:15.601Z"
-slug: "dont-make-no-waves-dont-back-no-losers-an-insiders-analysis-of-the-daley-machine"
+publishedDate: '2026-02-06T16:47:15.601Z'
+slug: >-
+  dont-make-no-waves-dont-back-no-losers-an-insiders-analysis-of-the-daley-machine
 wordCount: 6840
 readingTimeMinutes: 31
-originalUrl: "https://docs.google.com/document/d/1AXmWgSbh_TFsoZuApSCSEoz57yn93CM5YYhtaO_s4W4"
-source: "gdoc"
+originalUrl: >-
+  https://docs.google.com/document/d/1AXmWgSbh_TFsoZuApSCSEoz57yn93CM5YYhtaO_s4W4
+source: gdoc
+tags:
+  - Politics
 ---
 
 Aka “So You Want to Be a Machine Politician”

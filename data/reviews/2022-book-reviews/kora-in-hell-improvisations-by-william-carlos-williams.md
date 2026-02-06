@@ -1,16 +1,19 @@
 ---
-title: "Kora in Hell: Improvisations by William Carlos Williams"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2022-book-reviews"
-contestName: "2022 Book Reviews"
+title: 'Kora in Hell: Improvisations by William Carlos Williams'
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2022-book-reviews
+contestName: 2022 Book Reviews
 year: 2022
-publishedDate: "2026-02-06T07:23:14.477Z"
-slug: "kora-in-hell-improvisations-by-william-carlos-williams"
+publishedDate: '2026-02-06T07:23:14.477Z'
+slug: kora-in-hell-improvisations-by-william-carlos-williams
 wordCount: 3116
 readingTimeMinutes: 14
-originalUrl: "https://docs.google.com/document/d/1kQUUJhv-MpLawby2j4zXLZPDG6ligWd5xpIjH8UmWdw"
-source: "gdoc"
+originalUrl: >-
+  https://docs.google.com/document/d/1kQUUJhv-MpLawby2j4zXLZPDG6ligWd5xpIjH8UmWdw
+source: gdoc
+tags:
+  - Fiction
 ---
 
 The sense that everything is poetical is a

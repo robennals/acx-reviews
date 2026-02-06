@@ -1,16 +1,21 @@
 ---
-title: "The Hundred-Year Marathon: China’s secret strategy to replace America as the global superpower by Michael Pillsbury"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2022-book-reviews"
-contestName: "2022 Book Reviews"
+title: "The Hundred-Year Marathon: China’s secret strategy to replace America as the global superpower\_by Michael Pillsbury"
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2022-book-reviews
+contestName: 2022 Book Reviews
 year: 2022
-publishedDate: "2026-02-06T07:22:32.826Z"
-slug: "the-hundred-year-marathon-chinas-secret-strategy-to-replace-america-as-the-global-superpower-by-michael-pillsbury"
+publishedDate: '2026-02-06T07:22:32.826Z'
+slug: >-
+  the-hundred-year-marathon-chinas-secret-strategy-to-replace-america-as-the-global-superpower-by-michael-pillsbury
 wordCount: 12834
 readingTimeMinutes: 58
-originalUrl: "https://docs.google.com/document/d/100kMdSVFviZSSBvUyyEQPMNlvLptVQxHFD9i9wGuBWs"
-source: "gdoc"
+originalUrl: >-
+  https://docs.google.com/document/d/100kMdSVFviZSSBvUyyEQPMNlvLptVQxHFD9i9wGuBWs
+source: gdoc
+tags:
+  - Politics
+  - History
 ---
 
 ## Intro

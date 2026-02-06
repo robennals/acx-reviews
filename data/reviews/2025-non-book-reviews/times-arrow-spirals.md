@@ -1,16 +1,19 @@
 ---
-title: "Time’s Arrow (spirals)"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2025-non-book-reviews"
-contestName: "2025 Non Book Reviews"
+title: Time’s Arrow (spirals)
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2025-non-book-reviews
+contestName: 2025 Non Book Reviews
 year: 2025
-publishedDate: "2026-02-06T16:55:59.405Z"
-slug: "times-arrow-spirals"
+publishedDate: '2026-02-06T16:55:59.405Z'
+slug: times-arrow-spirals
 wordCount: 1390
 readingTimeMinutes: 7
-originalUrl: "https://docs.google.com/document/d/1jYVJFIz5-aMi0LCgsC9AN6BncJDNVGaMU37QmwZ1vzA"
-source: "gdoc"
+originalUrl: >-
+  https://docs.google.com/document/d/1jYVJFIz5-aMi0LCgsC9AN6BncJDNVGaMU37QmwZ1vzA
+source: gdoc
+tags:
+  - Philosophy
 ---
 
 The concept of time[[4]](#ftnt4) is a funny thing.  It’s foundational to our model of the world, so it’s precise details must have huge implications for thought and behavior, but I haven’t heard it discussed very often.  This might be because most people assume that everyone’s conception of time is more or less the same, since it’s such an important and easily verifiable part of someone’s world model.  And while I think that’s broadly true, there’s a narrow way in which I’d argue that it isn’t, which I think is consequential.

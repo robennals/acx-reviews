@@ -1,16 +1,20 @@
 ---
-title: "Atomised by Michel Houellebecq"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2023-book-reviews"
-contestName: "2023 Book Reviews"
+title: Atomised by Michel Houellebecq
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2023-book-reviews
+contestName: 2023 Book Reviews
 year: 2023
-publishedDate: "2026-02-06T07:21:10.022Z"
-slug: "atomised-by-michel-houellebecq"
+publishedDate: '2026-02-06T07:21:10.022Z'
+slug: atomised-by-michel-houellebecq
 wordCount: 5201
 readingTimeMinutes: 24
-originalUrl: "https://docs.google.com/document/d/10CiEI7aDL2bMIdx7yayy3vlq0TJ8dO5LGnG7yIDPiw8"
-source: "gdoc"
+originalUrl: >-
+  https://docs.google.com/document/d/10CiEI7aDL2bMIdx7yayy3vlq0TJ8dO5LGnG7yIDPiw8
+source: gdoc
+tags:
+  - Fiction
+  - Society
 ---
 
 The French author Michel Houellebecq is the epitome of an enfant terrible. No one is as controversial as he is; almost no one sells as many books. His literary method is best captured in one of his early essays, To Stay Alive, where he writes:  

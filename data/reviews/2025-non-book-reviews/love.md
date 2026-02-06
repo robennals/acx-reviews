@@ -1,16 +1,19 @@
 ---
-title: "Love"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2025-non-book-reviews"
-contestName: "2025 Non Book Reviews"
+title: Love
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2025-non-book-reviews
+contestName: 2025 Non Book Reviews
 year: 2025
-publishedDate: "2026-02-06T16:55:03.479Z"
-slug: "love"
+publishedDate: '2026-02-06T16:55:03.479Z'
+slug: love
 wordCount: 2707
 readingTimeMinutes: 13
-originalUrl: "https://docs.google.com/document/d/1a3q0Z2tuPLLbDeg5-pfEffkajGjrfPDwE7ZMs7uaWQs"
-source: "gdoc"
+originalUrl: >-
+  https://docs.google.com/document/d/1a3q0Z2tuPLLbDeg5-pfEffkajGjrfPDwE7ZMs7uaWQs
+source: gdoc
+tags:
+  - Memoir
 ---
 
 I am going through a bit of a crisis and I don’t have anyone to talk to about it. I originally met a girl in the summer of 2021 who was visiting my city for two months. The first date was inexplicably good, and the next two built on top of it. We had such an extraordinary connection, not just in the content of what we talked about, but the ease we had in sharing with each other. We talked about worldly things with great passion and very personal things with great tenderness. We both seemed to have a bottomless desire simply to know the other person as well and truly as possible. I had been in love before and I was familiar with the feelings of infatuation and euphoria that come with it, but this time there seemed to be, objectively, such strong substance supporting the feelings that it would be simply bullheaded to not let myself enjoy the experience of finding someone that I was waiting for my whole life.

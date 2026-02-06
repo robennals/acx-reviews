@@ -1,16 +1,20 @@
 ---
-title: "Termination Shock by Neal Stephenson"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2022-book-reviews"
-contestName: "2022 Book Reviews"
+title: Termination Shock by Neal Stephenson
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2022-book-reviews
+contestName: 2022 Book Reviews
 year: 2022
-publishedDate: "2026-02-06T07:22:32.816Z"
-slug: "termination-shock-by-neal-stephenson"
+publishedDate: '2026-02-06T07:22:32.816Z'
+slug: termination-shock-by-neal-stephenson
 wordCount: 9214
 readingTimeMinutes: 41
-originalUrl: "https://docs.google.com/document/d/100kMdSVFviZSSBvUyyEQPMNlvLptVQxHFD9i9wGuBWs"
-source: "gdoc"
+originalUrl: >-
+  https://docs.google.com/document/d/100kMdSVFviZSSBvUyyEQPMNlvLptVQxHFD9i9wGuBWs
+source: gdoc
+tags:
+  - Fiction
+  - Science
 ---
 
 Double Take: The Edifying Ambiguity of Neal Stephenson’s Termination Shock

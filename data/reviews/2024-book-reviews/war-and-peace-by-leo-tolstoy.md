@@ -1,16 +1,20 @@
 ---
-title: "War and Peace by Leo Tolstoy"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2024-book-reviews"
-contestName: "2024 Book Reviews"
+title: War and Peace by Leo Tolstoy
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2024-book-reviews
+contestName: 2024 Book Reviews
 year: 2024
-publishedDate: "2026-02-06T16:49:50.819Z"
-slug: "war-and-peace-by-leo-tolstoy"
+publishedDate: '2026-02-06T16:49:50.819Z'
+slug: war-and-peace-by-leo-tolstoy
 wordCount: 4388
 readingTimeMinutes: 20
-originalUrl: "https://docs.google.com/document/d/1Ki5XsE0jkxZtd2XAeyTAJw1ZjLh2Cu-matUYKAhA6-s"
-source: "gdoc"
+originalUrl: >-
+  https://docs.google.com/document/d/1Ki5XsE0jkxZtd2XAeyTAJw1ZjLh2Cu-matUYKAhA6-s
+source: gdoc
+tags:
+  - Fiction
+  - History
 ---
 
 1.  ## History and Happiness

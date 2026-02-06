@@ -1,16 +1,19 @@
 ---
-title: "Sadly, Porn"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2024-book-reviews"
-contestName: "2024 Book Reviews"
+title: 'Sadly, Porn'
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2024-book-reviews
+contestName: 2024 Book Reviews
 year: 2024
-publishedDate: "2026-02-06T16:48:56.661Z"
-slug: "sadly-porn"
+publishedDate: '2026-02-06T16:48:56.661Z'
+slug: sadly-porn
 wordCount: 40772
 readingTimeMinutes: 182
-originalUrl: "https://docs.google.com/document/d/1GYQw3pgvhi7hqOVR-Ql629Q_8thbyHe8sSRy5voyt30"
-source: "gdoc"
+originalUrl: >-
+  https://docs.google.com/document/d/1GYQw3pgvhi7hqOVR-Ql629Q_8thbyHe8sSRy5voyt30
+source: gdoc
+tags:
+  - Society
 ---
 
 (But Reviewed Good This Time)

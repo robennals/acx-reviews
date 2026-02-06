@@ -1,16 +1,20 @@
 ---
-title: "The Zoologist's Guide to the Galaxy, by Arik Kershenbaum"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2024-book-reviews"
-contestName: "2024 Book Reviews"
+title: 'The Zoologist''s Guide to the Galaxy, by Arik Kershenbaum'
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2024-book-reviews
+contestName: 2024 Book Reviews
 year: 2024
-publishedDate: "2026-02-06T16:49:50.817Z"
-slug: "the-zoologists-guide-to-the-galaxy-by-arik-kershenbaum"
+publishedDate: '2026-02-06T16:49:50.817Z'
+slug: the-zoologists-guide-to-the-galaxy-by-arik-kershenbaum
 wordCount: 2147
 readingTimeMinutes: 10
-originalUrl: "https://docs.google.com/document/d/1Ki5XsE0jkxZtd2XAeyTAJw1ZjLh2Cu-matUYKAhA6-s"
-source: "gdoc"
+originalUrl: >-
+  https://docs.google.com/document/d/1Ki5XsE0jkxZtd2XAeyTAJw1ZjLh2Cu-matUYKAhA6-s
+source: gdoc
+tags:
+  - Biology
+  - Science
 ---
 
 Will aliens look like us? The study of extra-terrestrial life is not as speculative as you might think

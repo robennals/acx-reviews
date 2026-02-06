@@ -1,16 +1,21 @@
 ---
-title: "Fundamentals of Marxism-Leninism\", by Kuusinen et al."
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2024-book-reviews"
-contestName: "2024 Book Reviews"
+title: 'Fundamentals of Marxism-Leninism", by Kuusinen et al.'
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2024-book-reviews
+contestName: 2024 Book Reviews
 year: 2024
-publishedDate: "2026-02-06T16:47:49.305Z"
-slug: "fundamentals-of-marxism-leninism-by-kuusinen-et-al"
+publishedDate: '2026-02-06T16:47:49.305Z'
+slug: fundamentals-of-marxism-leninism-by-kuusinen-et-al
 wordCount: 5638
 readingTimeMinutes: 26
-originalUrl: "https://docs.google.com/document/d/1QiotH3aGFgNLGqsIHTK_Plm_gem2E4l2C2ctyGJd0jY"
-source: "gdoc"
+originalUrl: >-
+  https://docs.google.com/document/d/1QiotH3aGFgNLGqsIHTK_Plm_gem2E4l2C2ctyGJd0jY
+source: gdoc
+tags:
+  - Politics
+  - Philosophy
+  - Economics
 ---
 
 Reading a book like this is the opposite of watching a movie with a twist for the first time. In Fundamentals of Marxism-Leninism, the audience knows what the twist is. The authors—a committee of committed communists working on behalf of the Communist Party of the Soviet Union during the late fifties—did not.

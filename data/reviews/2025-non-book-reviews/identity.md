@@ -1,16 +1,20 @@
 ---
-title: "Identity"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2025-non-book-reviews"
-contestName: "2025 Non Book Reviews"
+title: Identity
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2025-non-book-reviews
+contestName: 2025 Non Book Reviews
 year: 2025
-publishedDate: "2026-02-06T16:52:48.904Z"
-slug: "identity"
+publishedDate: '2026-02-06T16:52:48.904Z'
+slug: identity
 wordCount: 2827
 readingTimeMinutes: 13
-originalUrl: "https://docs.google.com/document/d/1d0vRSj1E93joWWvbUen2XGuDjN_mM94ybMIAADzM2fo"
-source: "gdoc"
+originalUrl: >-
+  https://docs.google.com/document/d/1d0vRSj1E93joWWvbUen2XGuDjN_mM94ybMIAADzM2fo
+source: gdoc
+tags:
+  - Philosophy
+  - Psychology
 ---
 
 I.

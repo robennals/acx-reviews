@@ -1,16 +1,20 @@
 ---
-title: "On The Natural Faculties"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2021-book-reviews"
-contestName: "2021 Book Reviews"
+title: On The Natural Faculties
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2021-book-reviews
+contestName: 2021 Book Reviews
 year: 2021
-publishedDate: "2026-02-05T15:44:01.239Z"
-slug: "on-the-natural-faculties"
+publishedDate: '2026-02-05T15:44:01.239Z'
+slug: on-the-natural-faculties
 wordCount: 7417
 readingTimeMinutes: 33
-originalUrl: "https://astralcodexten.substack.com/p/your-book-review-on-the-natural-faculties"
-source: "acx"
+originalUrl: >-
+  https://astralcodexten.substack.com/p/your-book-review-on-the-natural-faculties
+source: acx
+tags:
+  - Science
+  - History
 ---
 
 [_This is the second of many finalists in the book review contest. It’s not by me - it’s by an ACX reader who will remain anonymous until after voting is done, to prevent their identity from influencing your decisions. I’ll be posting about two of these a week for the next few months. When you’ve read all of them, I’ll ask you to vote for your favorite, so remember which ones you liked. - SA_]

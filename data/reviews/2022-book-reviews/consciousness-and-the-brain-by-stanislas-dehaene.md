@@ -1,16 +1,20 @@
 ---
-title: "Consciousness and the Brain by Stanislas Dehaene"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2022-book-reviews"
-contestName: "2022 Book Reviews"
+title: Consciousness and the Brain by Stanislas Dehaene
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2022-book-reviews
+contestName: 2022 Book Reviews
 year: 2022
-publishedDate: "2026-02-06T07:24:08.697Z"
-slug: "consciousness-and-the-brain-by-stanislas-dehaene"
+publishedDate: '2026-02-06T07:24:08.697Z'
+slug: consciousness-and-the-brain-by-stanislas-dehaene
 wordCount: 7592
 readingTimeMinutes: 34
-originalUrl: "https://docs.google.com/document/d/1pRQbRbEUwSH_jm94PI_ij-88swat7vQ4iNaNp6gd39g"
-source: "gdoc"
+originalUrl: >-
+  https://docs.google.com/document/d/1pRQbRbEUwSH_jm94PI_ij-88swat7vQ4iNaNp6gd39g
+source: gdoc
+tags:
+  - Science
+  - Philosophy
 ---
 
 Imagine that there was a generally acknowledged test for artificial intelligence, to find out whether a computer program is truly intelligent. And imagine that a computer program passed this test for the first time. How would you feel about it?

@@ -12,12 +12,14 @@ type StatusFilter = 'all' | 'unread' | 'read' | 'in-progress' | 'favorites';
 interface HomePageClientProps {
   reviews: Review[];
   contests: Contest[];
+  tags: string[];
 }
 
 const REVIEWS_PER_PAGE = 20;
 
-export function HomePageClient({ reviews, contests }: HomePageClientProps) {
+export function HomePageClient({ reviews, contests, tags }: HomePageClientProps) {
   const [selectedContestId, setSelectedContestId] = useState<string | null>(null);
+  const [selectedTag, setSelectedTag] = useState<string | null>(null);
   const [searchQuery, setSearchQuery] = useState('');
   const [statusFilter, setStatusFilter] = useState<StatusFilter>('all');
   const [currentPage, setCurrentPage] = useState(1);
@@ -45,6 +47,10 @@ export function HomePageClient({ reviews, contests }: HomePageClientProps) {
       result = result.filter(r => r.contestId === selectedContestId);
     }
 
+    if (selectedTag) {
+      result = result.filter(r => r.tags?.includes(selectedTag));
+    }
+
     if (searchQuery.trim()) {
       const query = searchQuery.toLowerCase().trim();
       result = result.filter(r => r.title.toLowerCase().includes(query));
@@ -61,7 +67,7 @@ export function HomePageClient({ reviews, contests }: HomePageClientProps) {
     }
 
     return result;
-  }, [reviews, selectedContestId, searchQuery, statusFilter, progressMap, favoritesSet]);
+  }, [reviews, selectedContestId, selectedTag, searchQuery, statusFilter, progressMap, favoritesSet]);
 
   const totalPages = Math.max(1, Math.ceil(filteredReviews.length / REVIEWS_PER_PAGE));
   const paginatedReviews = filteredReviews.slice(
@@ -87,6 +93,7 @@ export function HomePageClient({ reviews, contests }: HomePageClientProps) {
     statusFilter === 'in-progress' ? 'In-Progress' :
     statusFilter === 'favorites' ? 'Saved' :
     '',
+    selectedTag || '',
     selectedContestId
       ? `${contests.find(c => c.id === selectedContestId)?.year}`
       : '',
@@ -153,6 +160,27 @@ export function HomePageClient({ reviews, contests }: HomePageClientProps) {
             </FilterButton>
           ))}
         </div>
+
+        {/* Topic tag filter */}
+        {tags.length > 0 && (
+          <div className="flex flex-wrap gap-2">
+            <FilterButton
+              active={selectedTag === null}
+              onClick={() => { setSelectedTag(null); setCurrentPage(1); }}
+            >
+              All Topics
+            </FilterButton>
+            {tags.map((tag) => (
+              <FilterButton
+                key={tag}
+                active={selectedTag === tag}
+                onClick={() => { setSelectedTag(tag); setCurrentPage(1); }}
+              >
+                {tag}
+              </FilterButton>
+            ))}
+          </div>
+        )}
 
         {/* Status filter tabs */}
         <div className="flex flex-wrap gap-2">
@@ -359,6 +387,16 @@ function ReviewCard({ review, progress, isFavorite, onToggleRead, onToggleFavori
             <span>{review.year}</span>
             <span>&middot;</span>
             <span>{review.readingTimeMinutes} min</span>
+            {review.tags && review.tags.length > 0 && (
+              <>
+                <span>&middot;</span>
+                {review.tags.map(tag => (
+                  <span key={tag} className="inline-flex px-2 py-0.5 rounded-full bg-muted text-xs font-medium text-muted-foreground">
+                    {tag}
+                  </span>
+                ))}
+              </>
+            )}
             {isComplete && (
               <>
                 <span>&middot;</span>

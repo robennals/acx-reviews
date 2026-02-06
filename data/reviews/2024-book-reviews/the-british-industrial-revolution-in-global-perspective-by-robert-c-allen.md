@@ -1,16 +1,20 @@
 ---
-title: "The British Industrial Revolution in Global Perspective by Robert C. Allen"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2024-book-reviews"
-contestName: "2024 Book Reviews"
+title: The British Industrial Revolution in Global Perspective by Robert C. Allen
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2024-book-reviews
+contestName: 2024 Book Reviews
 year: 2024
-publishedDate: "2026-02-06T16:49:14.001Z"
-slug: "the-british-industrial-revolution-in-global-perspective-by-robert-c-allen"
+publishedDate: '2026-02-06T16:49:14.001Z'
+slug: the-british-industrial-revolution-in-global-perspective-by-robert-c-allen
 wordCount: 3481
 readingTimeMinutes: 16
-originalUrl: "https://docs.google.com/document/d/14qa47TJ_Vyerx4XNgTCIh7PUZ_TOgNcU_eHm5So_zo0"
-source: "gdoc"
+originalUrl: >-
+  https://docs.google.com/document/d/14qa47TJ_Vyerx4XNgTCIh7PUZ_TOgNcU_eHm5So_zo0
+source: gdoc
+tags:
+  - History
+  - Economics
 ---
 
 The British Empire at its 19th century peak really ran things. It was an economic and military behemoth that we may never see again - If you caused them trouble, they would simply sail halfway across the globe and torch your capital (see: Washington, 1814; Beijing, 1860). But from the perspective of an observer in the year 1700, it was not really obvious that Britain waspoised for this level of success. It certainly wasn’t the largest nation in Europe (that would be France), nor the wealthiest (Spain). And while Britain had a strong foothold in the novel business of overseas trade, it faced stiff competition, especially from its crafty smaller cousin the Netherlands. So how did the British leapfrog the established order of power? A big part of the reason is the industrial revolution, which Britain adopted half a century before anyone else. Armed with a technological head start over the rest of the world, Britain took the economic and military lead and would go on to hold it for almost two centuries.

@@ -1,16 +1,20 @@
 ---
-title: "Viral by Alina Chan and Matt Ridley"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2022-book-reviews"
-contestName: "2022 Book Reviews"
+title: Viral by Alina Chan and Matt Ridley
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2022-book-reviews
+contestName: 2022 Book Reviews
 year: 2022
-publishedDate: "2026-02-06T07:21:54.184Z"
-slug: "viral-by-alina-chan-and-matt-ridley"
+publishedDate: '2026-02-06T07:21:54.184Z'
+slug: viral-by-alina-chan-and-matt-ridley
 wordCount: 6297
 readingTimeMinutes: 28
-originalUrl: "https://docs.google.com/document/d/1hFzjXliCAWjvheY-8Qd2fhbF79LnX0Xg6R9eqk9yIyI"
-source: "gdoc"
+originalUrl: >-
+  https://docs.google.com/document/d/1hFzjXliCAWjvheY-8Qd2fhbF79LnX0Xg6R9eqk9yIyI
+source: gdoc
+tags:
+  - Science
+  - Politics
 ---
 
 ## Introduction

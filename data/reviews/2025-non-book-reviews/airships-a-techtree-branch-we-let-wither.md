@@ -1,16 +1,20 @@
 ---
-title: "Airships: A Tech‑Tree Branch We Let Wither"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2025-non-book-reviews"
-contestName: "2025 Non Book Reviews"
+title: 'Airships: A Tech‑Tree Branch We Let Wither'
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2025-non-book-reviews
+contestName: 2025 Non Book Reviews
 year: 2025
-publishedDate: "2026-02-06T16:52:48.888Z"
-slug: "airships-a-techtree-branch-we-let-wither"
+publishedDate: '2026-02-06T16:52:48.888Z'
+slug: airships-a-techtree-branch-we-let-wither
 wordCount: 2268
 readingTimeMinutes: 11
-originalUrl: "https://docs.google.com/document/d/1d0vRSj1E93joWWvbUen2XGuDjN_mM94ybMIAADzM2fo"
-source: "gdoc"
+originalUrl: >-
+  https://docs.google.com/document/d/1d0vRSj1E93joWWvbUen2XGuDjN_mM94ybMIAADzM2fo
+source: gdoc
+tags:
+  - Technology
+  - History
 ---
 
 I like to imagine the state of technical progress as a tech tree in a video game. The digital age tech tree is cool, with advancements like the internet and now and, built on top of it, AI, but I can’t help thinking about the tech paths we let wither on the branch.  Take airships: a century ago they crossed oceans in Art‑Deco salons, then vanished in a flash of hydrogen and bad headlines. Today armed with carbon‑fibre frames, electric drivetrains and a climate mandate we may finally have the points to re‑unlock that branch.

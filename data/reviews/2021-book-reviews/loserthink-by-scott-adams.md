@@ -1,16 +1,20 @@
 ---
-title: "Loserthink by Scott Adams"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2021-book-reviews"
-contestName: "2021 Book Reviews"
+title: Loserthink by Scott Adams
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2021-book-reviews
+contestName: 2021 Book Reviews
 year: 2021
-publishedDate: "2026-02-06T07:21:29.571Z"
-slug: "loserthink-by-scott-adams"
+publishedDate: '2026-02-06T07:21:29.571Z'
+slug: loserthink-by-scott-adams
 wordCount: 3771
 readingTimeMinutes: 17
-originalUrl: "https://docs.google.com/document/d/1xexFJ7h0vULMDE7N77q_MIzXoerexfe_CqqGEL6hEoQ"
-source: "gdoc"
+originalUrl: >-
+  https://docs.google.com/document/d/1xexFJ7h0vULMDE7N77q_MIzXoerexfe_CqqGEL6hEoQ
+source: gdoc
+tags:
+  - Psychology
+  - Society
 ---
 
 If a comic-strip writer wrote a book with a certain tagline, you shouldn’t be too surprised if there is a practical joke in there. If the writer is famous for one of the most successful comic strips of all time, which might co-incidentally rhyme with Shill-hurt, then I’d say the odds of that go up.

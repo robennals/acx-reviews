@@ -1,16 +1,20 @@
 ---
-title: "Sweet Valley Confidential by Francine Pascal"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2022-book-reviews"
-contestName: "2022 Book Reviews"
+title: Sweet Valley Confidential by Francine Pascal
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2022-book-reviews
+contestName: 2022 Book Reviews
 year: 2022
-publishedDate: "2026-02-06T07:23:14.492Z"
-slug: "sweet-valley-confidential-by-francine-pascal"
+publishedDate: '2026-02-06T07:23:14.492Z'
+slug: sweet-valley-confidential-by-francine-pascal
 wordCount: 3598
 readingTimeMinutes: 16
-originalUrl: "https://docs.google.com/document/d/1kQUUJhv-MpLawby2j4zXLZPDG6ligWd5xpIjH8UmWdw"
-source: "gdoc"
+originalUrl: >-
+  https://docs.google.com/document/d/1kQUUJhv-MpLawby2j4zXLZPDG6ligWd5xpIjH8UmWdw
+source: gdoc
+tags:
+  - Fiction
+  - Society
 ---
 
 Relaunching a Book Series, You Didn’t Technically Write

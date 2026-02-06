@@ -1,16 +1,19 @@
 ---
-title: "The Witness"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2025-non-book-reviews"
-contestName: "2025 Non Book Reviews"
+title: The Witness
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2025-non-book-reviews
+contestName: 2025 Non Book Reviews
 year: 2025
-publishedDate: "2026-02-06T16:57:23.284Z"
-slug: "the-witness"
+publishedDate: '2026-02-06T16:57:23.284Z'
+slug: the-witness
 wordCount: 4672
 readingTimeMinutes: 21
-originalUrl: "https://docs.google.com/document/d/1B3YxYxLVFjKGicaEkqvt353kt0uimn0PSUQv1PyaHuI"
-source: "gdoc"
+originalUrl: >-
+  https://docs.google.com/document/d/1B3YxYxLVFjKGicaEkqvt353kt0uimn0PSUQv1PyaHuI
+source: gdoc
+tags:
+  - Philosophy
 ---
 
 In 2008, Jonathan Blow released Braid, a puzzle videogame involving the manipulation of the flow of time, to critical and commercial success. He then proceeded to turn around and pour all profits from that release, four million dollars at the time, into his new project, The Witness.

@@ -1,16 +1,20 @@
 ---
-title: "The Age of the Infovore by Tyler Cowen"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2022-book-reviews"
-contestName: "2022 Book Reviews"
+title: "The Age of the Infovore by\_Tyler Cowen"
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2022-book-reviews
+contestName: 2022 Book Reviews
 year: 2022
-publishedDate: "2026-02-06T07:22:32.816Z"
-slug: "the-age-of-the-infovore-by-tyler-cowen"
+publishedDate: '2026-02-06T07:22:32.816Z'
+slug: the-age-of-the-infovore-by-tyler-cowen
 wordCount: 675
 readingTimeMinutes: 3
-originalUrl: "https://docs.google.com/document/d/100kMdSVFviZSSBvUyyEQPMNlvLptVQxHFD9i9wGuBWs"
-source: "gdoc"
+originalUrl: >-
+  https://docs.google.com/document/d/100kMdSVFviZSSBvUyyEQPMNlvLptVQxHFD9i9wGuBWs
+source: gdoc
+tags:
+  - Society
+  - Psychology
 ---
 
 I hadn’t actually read Tyler Cowen’s book when I first took to calling myself an infovore. May not have even known it existed. But I always liked the word.

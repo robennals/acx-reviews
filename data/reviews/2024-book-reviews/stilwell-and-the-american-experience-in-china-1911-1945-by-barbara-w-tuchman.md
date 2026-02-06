@@ -1,16 +1,20 @@
 ---
-title: "Stilwell and the American Experience in China 1911-1945, by Barbara W. Tuchman"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2024-book-reviews"
-contestName: "2024 Book Reviews"
+title: 'Stilwell and the American Experience in China 1911-1945, by Barbara W. Tuchman'
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2024-book-reviews
+contestName: 2024 Book Reviews
 year: 2024
-publishedDate: "2026-02-06T16:48:56.664Z"
-slug: "stilwell-and-the-american-experience-in-china-1911-1945-by-barbara-w-tuchman"
+publishedDate: '2026-02-06T16:48:56.664Z'
+slug: stilwell-and-the-american-experience-in-china-1911-1945-by-barbara-w-tuchman
 wordCount: 5243
 readingTimeMinutes: 24
-originalUrl: "https://docs.google.com/document/d/1GYQw3pgvhi7hqOVR-Ql629Q_8thbyHe8sSRy5voyt30"
-source: "gdoc"
+originalUrl: >-
+  https://docs.google.com/document/d/1GYQw3pgvhi7hqOVR-Ql629Q_8thbyHe8sSRy5voyt30
+source: gdoc
+tags:
+  - History
+  - Politics
 ---
 
 This is the other book for which the late historian Barbara Tuchman won a Pulitzer Prize, the first being ‘The Guns of August’, her seminal account of how World War I started. An English friend credits the latter with persuading him that the war narrative he’d learned in school (England stalwart and wise; everyone else cowardly and incompetent) “might not be entirely accurate.” Tuchman punctures the myths of all combatant nations. Her Great War was a conspiracy of scoundrels, desperados and fools.

@@ -1,16 +1,19 @@
 ---
-title: "Fitzpatrick’s War by Theodore Judson"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2021-book-reviews"
-contestName: "2021 Book Reviews"
+title: "Fitzpatrick’s War\_by Theodore Judson"
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2021-book-reviews
+contestName: 2021 Book Reviews
 year: 2021
-publishedDate: "2026-02-06T07:21:29.567Z"
-slug: "fitzpatricks-war-by-theodore-judson"
+publishedDate: '2026-02-06T07:21:29.567Z'
+slug: fitzpatricks-war-by-theodore-judson
 wordCount: 1446
 readingTimeMinutes: 7
-originalUrl: "https://docs.google.com/document/d/1xexFJ7h0vULMDE7N77q_MIzXoerexfe_CqqGEL6hEoQ"
-source: "gdoc"
+originalUrl: >-
+  https://docs.google.com/document/d/1xexFJ7h0vULMDE7N77q_MIzXoerexfe_CqqGEL6hEoQ
+source: gdoc
+tags:
+  - Fiction
 ---
 
 A lot of people enjoy thinking about - fantasizing about, if we’re being honest with ourselves- the apocalypse. For whatever reason, the concept of the current world order crashing and burning and being replaced with anarchy and violence is a pleasant thought for a lot of audiences. There is undoubtedly plenty of good chunks of Psychological Significance Ore to be mined from figuring out why this might be, but one aspect I rarely see in modern depictions of the world ending is that the world has already ended many, many times and the human race kept going anyway, and those crises resulted in new civilizations with new cultural modes that seemed radical and alien to those that came before, even as the next few hundred years shall very likely seem horrifically bizarre to us living today.

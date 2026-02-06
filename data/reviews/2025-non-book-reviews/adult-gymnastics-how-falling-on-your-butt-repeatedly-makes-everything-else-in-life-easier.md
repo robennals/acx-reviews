@@ -1,16 +1,22 @@
 ---
-title: "Adult Gymnastics: How Falling On Your Butt Repeatedly Makes Everything Else in Life Easier"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2025-non-book-reviews"
-contestName: "2025 Non Book Reviews"
+title: >-
+  Adult Gymnastics: How Falling On Your Butt Repeatedly Makes Everything Else in
+  Life Easier
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2025-non-book-reviews
+contestName: 2025 Non Book Reviews
 year: 2025
-publishedDate: "2026-02-06T16:52:48.886Z"
-slug: "adult-gymnastics-how-falling-on-your-butt-repeatedly-makes-everything-else-in-life-easier"
+publishedDate: '2026-02-06T16:52:48.886Z'
+slug: >-
+  adult-gymnastics-how-falling-on-your-butt-repeatedly-makes-everything-else-in-life-easier
 wordCount: 2538
 readingTimeMinutes: 12
-originalUrl: "https://docs.google.com/document/d/1d0vRSj1E93joWWvbUen2XGuDjN_mM94ybMIAADzM2fo"
-source: "gdoc"
+originalUrl: >-
+  https://docs.google.com/document/d/1d0vRSj1E93joWWvbUen2XGuDjN_mM94ybMIAADzM2fo
+source: gdoc
+tags:
+  - Memoir
 ---
 
 The best sport is more accessible than you think

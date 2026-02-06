@@ -1,16 +1,19 @@
 ---
-title: "r!Animorphs: The Reckoning by Duncan Sabien"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2024-book-reviews"
-contestName: "2024 Book Reviews"
+title: 'r!Animorphs: The Reckoning by Duncan Sabien'
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2024-book-reviews
+contestName: 2024 Book Reviews
 year: 2024
-publishedDate: "2026-02-06T16:48:56.652Z"
-slug: "ranimorphs-the-reckoning-by-duncan-sabien"
+publishedDate: '2026-02-06T16:48:56.652Z'
+slug: ranimorphs-the-reckoning-by-duncan-sabien
 wordCount: 7777
 readingTimeMinutes: 35
-originalUrl: "https://docs.google.com/document/d/1GYQw3pgvhi7hqOVR-Ql629Q_8thbyHe8sSRy5voyt30"
-source: "gdoc"
+originalUrl: >-
+  https://docs.google.com/document/d/1GYQw3pgvhi7hqOVR-Ql629Q_8thbyHe8sSRy5voyt30
+source: gdoc
+tags:
+  - Fiction
 ---
 
 Animorphs is a nearly forgotten property. It's one of those enormous franchises that become passé almost immediately after they end and their fanbase grows up. Most of the time, people at least recognize it due to its… let's say unique cover art, as you can see above.

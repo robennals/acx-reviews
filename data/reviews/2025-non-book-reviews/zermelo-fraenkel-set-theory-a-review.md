@@ -1,16 +1,20 @@
 ---
-title: "Zermelo-Fraenkel Set Theory: A Review"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2025-non-book-reviews"
-contestName: "2025 Non Book Reviews"
+title: 'Zermelo-Fraenkel Set Theory: A Review'
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2025-non-book-reviews
+contestName: 2025 Non Book Reviews
 year: 2025
-publishedDate: "2026-02-06T16:55:59.408Z"
-slug: "zermelo-fraenkel-set-theory-a-review"
+publishedDate: '2026-02-06T16:55:59.408Z'
+slug: zermelo-fraenkel-set-theory-a-review
 wordCount: 5797
 readingTimeMinutes: 26
-originalUrl: "https://docs.google.com/document/d/1jYVJFIz5-aMi0LCgsC9AN6BncJDNVGaMU37QmwZ1vzA"
-source: "gdoc"
+originalUrl: >-
+  https://docs.google.com/document/d/1jYVJFIz5-aMi0LCgsC9AN6BncJDNVGaMU37QmwZ1vzA
+source: gdoc
+tags:
+  - Science
+  - Philosophy
 ---
 
 ZFC is Zermelo-Fraenkel Set Theory with the Axiom of Choice, the most common foundational system for mathematics in use today; though most working mathematicians never give much of a thought to foundational issues, ZFC is the “received foundational system”—the system of axioms we all know we're supposed to be able to translate our theorems into if asked, not that anyone ever actually bothers.

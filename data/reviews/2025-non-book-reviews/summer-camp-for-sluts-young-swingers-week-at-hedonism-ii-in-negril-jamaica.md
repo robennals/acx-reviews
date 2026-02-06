@@ -1,16 +1,20 @@
 ---
-title: "Summer Camp For Sluts: Young Swingers Week at Hedonism II in Negril, Jamaica"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2025-non-book-reviews"
-contestName: "2025 Non Book Reviews"
+title: 'Summer Camp For Sluts: Young Swingers Week at Hedonism II in Negril, Jamaica'
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2025-non-book-reviews
+contestName: 2025 Non Book Reviews
 year: 2025
-publishedDate: "2026-02-06T16:55:59.407Z"
-slug: "summer-camp-for-sluts-young-swingers-week-at-hedonism-ii-in-negril-jamaica"
+publishedDate: '2026-02-06T16:55:59.407Z'
+slug: summer-camp-for-sluts-young-swingers-week-at-hedonism-ii-in-negril-jamaica
 wordCount: 8530
 readingTimeMinutes: 38
-originalUrl: "https://docs.google.com/document/d/1jYVJFIz5-aMi0LCgsC9AN6BncJDNVGaMU37QmwZ1vzA"
-source: "gdoc"
+originalUrl: >-
+  https://docs.google.com/document/d/1jYVJFIz5-aMi0LCgsC9AN6BncJDNVGaMU37QmwZ1vzA
+source: gdoc
+tags:
+  - Society
+  - Memoir
 ---
 
 Note: This review contains a lot of end notes. It is also divided into fairly small sections. For scrolling convenience, I have placed the end notes for each section at the end of the section rather than at the end of the review.

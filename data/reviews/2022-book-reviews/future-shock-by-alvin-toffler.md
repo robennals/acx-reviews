@@ -1,16 +1,20 @@
 ---
-title: "Future Shock by Alvin Toffler"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2022-book-reviews"
-contestName: "2022 Book Reviews"
+title: Future Shock by Alvin Toffler
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2022-book-reviews
+contestName: 2022 Book Reviews
 year: 2022
-publishedDate: "2026-02-06T07:24:08.700Z"
-slug: "future-shock-by-alvin-toffler"
+publishedDate: '2026-02-06T07:24:08.700Z'
+slug: future-shock-by-alvin-toffler
 wordCount: 5467
 readingTimeMinutes: 25
-originalUrl: "https://docs.google.com/document/d/1pRQbRbEUwSH_jm94PI_ij-88swat7vQ4iNaNp6gd39g"
-source: "gdoc"
+originalUrl: >-
+  https://docs.google.com/document/d/1pRQbRbEUwSH_jm94PI_ij-88swat7vQ4iNaNp6gd39g
+source: gdoc
+tags:
+  - Society
+  - Technology
 ---
 
 Millions of years ago, our ancestors emerged from the ocean and adapted to life on dry land. Alvin Toffler, a leading futurist of the late 20th century, thinks it’s time for us to turn around and head back underwater. Toffler’s book Future Shock, first published in 1970, is about what happens to people when external circumstances change too quickly and we can’t adapt fast enough to catch up; future shock, analogous to culture shock, is his term for the resulting malady. With dramatic flair, Toffler draws a comparison between the modern world and that previous era of rapid change:

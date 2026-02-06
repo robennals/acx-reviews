@@ -1,16 +1,20 @@
 ---
-title: "“Djinn.” The Angel on the Roof, by Russell Banks"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2024-book-reviews"
-contestName: "2024 Book Reviews"
+title: '“Djinn.” The Angel on the Roof, by Russell Banks'
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2024-book-reviews
+contestName: 2024 Book Reviews
 year: 2024
-publishedDate: "2026-02-06T16:47:15.600Z"
-slug: "djinn-the-angel-on-the-roof-by-russell-banks"
+publishedDate: '2026-02-06T16:47:15.600Z'
+slug: djinn-the-angel-on-the-roof-by-russell-banks
 wordCount: 1678
 readingTimeMinutes: 8
-originalUrl: "https://docs.google.com/document/d/1AXmWgSbh_TFsoZuApSCSEoz57yn93CM5YYhtaO_s4W4"
-source: "gdoc"
+originalUrl: >-
+  https://docs.google.com/document/d/1AXmWgSbh_TFsoZuApSCSEoz57yn93CM5YYhtaO_s4W4
+source: gdoc
+tags:
+  - Fiction
+  - History
 ---
 
 Echoes of Rebellion: A liberated “Djinn” in Colonial Africa

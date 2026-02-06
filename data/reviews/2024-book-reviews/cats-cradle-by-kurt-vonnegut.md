@@ -1,16 +1,19 @@
 ---
-title: "Cat’s Cradle by Kurt Vonnegut"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2024-book-reviews"
-contestName: "2024 Book Reviews"
+title: Cat’s Cradle by Kurt Vonnegut
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2024-book-reviews
+contestName: 2024 Book Reviews
 year: 2024
-publishedDate: "2026-02-06T16:47:15.598Z"
-slug: "cats-cradle-by-kurt-vonnegut"
+publishedDate: '2026-02-06T16:47:15.598Z'
+slug: cats-cradle-by-kurt-vonnegut
 wordCount: 4172
 readingTimeMinutes: 19
-originalUrl: "https://docs.google.com/document/d/1AXmWgSbh_TFsoZuApSCSEoz57yn93CM5YYhtaO_s4W4"
-source: "gdoc"
+originalUrl: >-
+  https://docs.google.com/document/d/1AXmWgSbh_TFsoZuApSCSEoz57yn93CM5YYhtaO_s4W4
+source: gdoc
+tags:
+  - Fiction
 ---
 
 The Postrat Gospel

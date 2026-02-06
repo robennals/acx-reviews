@@ -1,16 +1,19 @@
 ---
-title: "Cities And The Wealth Of Nations"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2023-book-reviews"
-contestName: "2023 Book Reviews"
+title: Cities And The Wealth Of Nations
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2023-book-reviews
+contestName: 2023 Book Reviews
 year: 2023
-publishedDate: "2026-02-06T07:05:49.278Z"
-slug: "cities-and-the-wealth-of-nations"
+publishedDate: '2026-02-06T07:05:49.278Z'
+slug: cities-and-the-wealth-of-nations
 wordCount: 9913
 readingTimeMinutes: 45
-originalUrl: "https://www.astralcodexten.com/p/your-book-review-cities-and-the-wealth"
-source: "acx"
+originalUrl: 'https://www.astralcodexten.com/p/your-book-review-cities-and-the-wealth'
+source: acx
+tags:
+  - Economics
+  - Society
 ---
 
 [_This is one of the finalists in the 2023 book review contest, written by an ACX reader who will remain anonymous until after voting is done. I’ll be posting about one of these a week for several months. When you’ve read them all, I’ll ask you to vote for a favorite, so remember which ones you liked_]

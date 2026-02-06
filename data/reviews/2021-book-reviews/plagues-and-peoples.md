@@ -1,16 +1,19 @@
 ---
-title: "Plagues And Peoples"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2021-book-reviews"
-contestName: "2021 Book Reviews"
+title: Plagues And Peoples
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2021-book-reviews
+contestName: 2021 Book Reviews
 year: 2021
-publishedDate: "2026-02-05T15:44:30.624Z"
-slug: "plagues-and-peoples"
+publishedDate: '2026-02-05T15:44:30.624Z'
+slug: plagues-and-peoples
 wordCount: 4280
 readingTimeMinutes: 20
-originalUrl: "https://astralcodexten.substack.com/p/your-book-review-plagues-and-peoples"
-source: "acx"
+originalUrl: 'https://astralcodexten.substack.com/p/your-book-review-plagues-and-peoples'
+source: acx
+tags:
+  - History
+  - Biology
 ---
 
 [_This is the seventeenth of seventeen finalists in the book review contest. This one was chosen out of the reviews I somehow missed the first time around. There were four other such essays, which you can see in [a supplementary runners-up packet here](https://docs.google.com/document/d/1IrvVgLa6-TEP81UD1-eW5gz1sEJ53Ar88IG0J5i4jQs/edit#). I’ll make a post about how to vote tomorrow. - SA_]

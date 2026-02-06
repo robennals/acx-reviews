@@ -1,16 +1,20 @@
 ---
-title: "Inventing Temperature: Measurement and Scientific Progress by  Hasok Chang"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2022-book-reviews"
-contestName: "2022 Book Reviews"
+title: "Inventing Temperature: Measurement and Scientific Progress by \_Hasok Chang"
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2022-book-reviews
+contestName: 2022 Book Reviews
 year: 2022
-publishedDate: "2026-02-06T07:23:14.476Z"
-slug: "inventing-temperature-measurement-and-scientific-progress-by-hasok-chang"
+publishedDate: '2026-02-06T07:23:14.476Z'
+slug: inventing-temperature-measurement-and-scientific-progress-by-hasok-chang
 wordCount: 8161
 readingTimeMinutes: 37
-originalUrl: "https://docs.google.com/document/d/1kQUUJhv-MpLawby2j4zXLZPDG6ligWd5xpIjH8UmWdw"
-source: "gdoc"
+originalUrl: >-
+  https://docs.google.com/document/d/1kQUUJhv-MpLawby2j4zXLZPDG6ligWd5xpIjH8UmWdw
+source: gdoc
+tags:
+  - Science
+  - History
 ---
 
 “I shall only add, that whereas the usual Thermometers with Spirit of Wine, do some of them begin their Degrees from a Point, which is that whereat the Spirit stands when it is so cold as to freeze Oil of Anniseeds; and others from the Point of beginning to freeze Water: I conceive these Points are not so justly determinable, but with a considerable Latitude: And that the just Beginning of the Scales of Heat and Cold should not be from such a Point as freezes any Thing, but rather from Temperature, such as is in Places deep under Ground, where the Heat of the Summer, or Cold in Winter, have (by the certain Experiment of the curious M. Mariotte, in the Grottoes under the Observatory at Paris) been found to have no Manner of Effect. ”

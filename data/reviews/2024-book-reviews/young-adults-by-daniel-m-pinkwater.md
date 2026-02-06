@@ -1,16 +1,19 @@
 ---
-title: "Young Adults by Daniel M. Pinkwater"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2024-book-reviews"
-contestName: "2024 Book Reviews"
+title: "Young Adults\_by Daniel M. Pinkwater"
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2024-book-reviews
+contestName: 2024 Book Reviews
 year: 2024
-publishedDate: "2026-02-06T16:49:50.826Z"
-slug: "young-adults-by-daniel-m-pinkwater"
+publishedDate: '2026-02-06T16:49:50.826Z'
+slug: young-adults-by-daniel-m-pinkwater
 wordCount: 11524
 readingTimeMinutes: 52
-originalUrl: "https://docs.google.com/document/d/1Ki5XsE0jkxZtd2XAeyTAJw1ZjLh2Cu-matUYKAhA6-s"
-source: "gdoc"
+originalUrl: >-
+  https://docs.google.com/document/d/1Ki5XsE0jkxZtd2XAeyTAJw1ZjLh2Cu-matUYKAhA6-s
+source: gdoc
+tags:
+  - Fiction
 ---
 
 “What can I but enumerate old themes…”        –Yeats, “The Circus Animals’ Desertion” (1939).

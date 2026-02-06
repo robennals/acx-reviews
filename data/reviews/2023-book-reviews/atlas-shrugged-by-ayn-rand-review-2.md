@@ -1,16 +1,20 @@
 ---
-title: "ATLAS SHRUGGED by Ayn Rand (Review 2)"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2023-book-reviews"
-contestName: "2023 Book Reviews"
+title: ATLAS SHRUGGED by Ayn Rand (Review 2)
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2023-book-reviews
+contestName: 2023 Book Reviews
 year: 2023
-publishedDate: "2026-02-06T07:21:10.021Z"
-slug: "atlas-shrugged-by-ayn-rand-review-2"
+publishedDate: '2026-02-06T07:21:10.021Z'
+slug: atlas-shrugged-by-ayn-rand-review-2
 wordCount: 6682
 readingTimeMinutes: 30
-originalUrl: "https://docs.google.com/document/d/10CiEI7aDL2bMIdx7yayy3vlq0TJ8dO5LGnG7yIDPiw8"
-source: "gdoc"
+originalUrl: >-
+  https://docs.google.com/document/d/10CiEI7aDL2bMIdx7yayy3vlq0TJ8dO5LGnG7yIDPiw8
+source: gdoc
+tags:
+  - Fiction
+  - Philosophy
 ---
 
 By B.J.

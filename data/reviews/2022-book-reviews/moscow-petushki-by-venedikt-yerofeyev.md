@@ -1,16 +1,19 @@
 ---
-title: "MOSCOW-PETUSHKI by Venedikt Yerofeyev"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2022-book-reviews"
-contestName: "2022 Book Reviews"
+title: MOSCOW-PETUSHKI by Venedikt Yerofeyev
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2022-book-reviews
+contestName: 2022 Book Reviews
 year: 2022
-publishedDate: "2026-02-06T07:23:14.485Z"
-slug: "moscow-petushki-by-venedikt-yerofeyev"
+publishedDate: '2026-02-06T07:23:14.485Z'
+slug: moscow-petushki-by-venedikt-yerofeyev
 wordCount: 8807
 readingTimeMinutes: 40
-originalUrl: "https://docs.google.com/document/d/1kQUUJhv-MpLawby2j4zXLZPDG6ligWd5xpIjH8UmWdw"
-source: "gdoc"
+originalUrl: >-
+  https://docs.google.com/document/d/1kQUUJhv-MpLawby2j4zXLZPDG6ligWd5xpIjH8UmWdw
+source: gdoc
+tags:
+  - Fiction
 ---
 
 Preface: this Russian-language book has three translations, which (in order of both publication and quality) are Moscow to the End of the Line, Moscow Circles, and Moscow Stations. Its title in the original Russian is “Moscow-Petushki”. Being a big-brain genius, I’ve read all three (except I didn’t finish the first one because it sucked), and the original Russian text; I’ll be referring to the work as “Moscow-Petushki” (that’s how it is generally referred to in literary journals), and will be using Moscow Stations translated by Stephen Murline for quoted text throughout.

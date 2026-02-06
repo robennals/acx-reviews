@@ -1,16 +1,20 @@
 ---
-title: "Games: Agency as Art (Review 1)"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2023-book-reviews"
-contestName: "2023 Book Reviews"
+title: 'Games: Agency as Art (Review 1)'
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2023-book-reviews
+contestName: 2023 Book Reviews
 year: 2023
-publishedDate: "2026-02-06T07:21:10.029Z"
-slug: "games-agency-as-art-review-1"
+publishedDate: '2026-02-06T07:21:10.029Z'
+slug: games-agency-as-art-review-1
 wordCount: 3696
 readingTimeMinutes: 17
-originalUrl: "https://docs.google.com/document/d/10CiEI7aDL2bMIdx7yayy3vlq0TJ8dO5LGnG7yIDPiw8"
-source: "gdoc"
+originalUrl: >-
+  https://docs.google.com/document/d/10CiEI7aDL2bMIdx7yayy3vlq0TJ8dO5LGnG7yIDPiw8
+source: gdoc
+tags:
+  - Philosophy
+  - Technology
 ---
 
 I. 

@@ -1,16 +1,19 @@
 ---
-title: "On Taste"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2025-non-book-reviews"
-contestName: "2025 Non Book Reviews"
+title: On Taste
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2025-non-book-reviews
+contestName: 2025 Non Book Reviews
 year: 2025
-publishedDate: "2026-02-06T16:55:03.482Z"
-slug: "on-taste"
+publishedDate: '2026-02-06T16:55:03.482Z'
+slug: on-taste
 wordCount: 8474
 readingTimeMinutes: 38
-originalUrl: "https://docs.google.com/document/d/1a3q0Z2tuPLLbDeg5-pfEffkajGjrfPDwE7ZMs7uaWQs"
-source: "gdoc"
+originalUrl: >-
+  https://docs.google.com/document/d/1a3q0Z2tuPLLbDeg5-pfEffkajGjrfPDwE7ZMs7uaWQs
+source: gdoc
+tags:
+  - Philosophy
 ---
 
 “29 When Moses came down from Mount Sinai with the two tablets of the covenant law in his hands, he was not aware that his face was radiant because he had spoken with the Lord. 30 When Aaron and all the Israelites saw Moses, his face was radiant, and they were afraid to come near him.”

@@ -1,16 +1,20 @@
 ---
-title: "God Emperor of Dune by Frank Herbert"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2022-book-reviews"
-contestName: "2022 Book Reviews"
+title: God Emperor of Dune by Frank Herbert
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2022-book-reviews
+contestName: 2022 Book Reviews
 year: 2022
-publishedDate: "2026-02-06T07:24:08.701Z"
-slug: "god-emperor-of-dune-by-frank-herbert"
+publishedDate: '2026-02-06T07:24:08.701Z'
+slug: god-emperor-of-dune-by-frank-herbert
 wordCount: 5131
 readingTimeMinutes: 23
-originalUrl: "https://docs.google.com/document/d/1pRQbRbEUwSH_jm94PI_ij-88swat7vQ4iNaNp6gd39g"
-source: "gdoc"
+originalUrl: >-
+  https://docs.google.com/document/d/1pRQbRbEUwSH_jm94PI_ij-88swat7vQ4iNaNp6gd39g
+source: gdoc
+tags:
+  - Fiction
+  - Philosophy
 ---
 
 AI Alignment, Immortal Deity-Kings, And You

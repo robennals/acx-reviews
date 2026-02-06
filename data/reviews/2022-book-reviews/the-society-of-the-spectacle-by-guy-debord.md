@@ -1,16 +1,20 @@
 ---
-title: "The Society of the Spectacle by Guy Debord"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2022-book-reviews"
-contestName: "2022 Book Reviews"
+title: The Society of the Spectacle by Guy Debord
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2022-book-reviews
+contestName: 2022 Book Reviews
 year: 2022
-publishedDate: "2026-02-06T07:21:54.174Z"
-slug: "the-society-of-the-spectacle-by-guy-debord"
+publishedDate: '2026-02-06T07:21:54.174Z'
+slug: the-society-of-the-spectacle-by-guy-debord
 wordCount: 9554
 readingTimeMinutes: 43
-originalUrl: "https://docs.google.com/document/d/1hFzjXliCAWjvheY-8Qd2fhbF79LnX0Xg6R9eqk9yIyI"
-source: "gdoc"
+originalUrl: >-
+  https://docs.google.com/document/d/1hFzjXliCAWjvheY-8Qd2fhbF79LnX0Xg6R9eqk9yIyI
+source: gdoc
+tags:
+  - Philosophy
+  - Society
 ---
 
 “The Society of the Spectacle will make no sense if the reader feels there is nothing fundamentally wrong with contemporary society.”

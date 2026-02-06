@@ -1,16 +1,20 @@
 ---
-title: "The Untethered Soul: The Journey Beyond Yourself"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2024-book-reviews"
-contestName: "2024 Book Reviews"
+title: 'The Untethered Soul: The Journey Beyond Yourself'
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2024-book-reviews
+contestName: 2024 Book Reviews
 year: 2024
-publishedDate: "2026-02-06T16:49:50.817Z"
-slug: "the-untethered-soul-the-journey-beyond-yourself"
+publishedDate: '2026-02-06T16:49:50.817Z'
+slug: the-untethered-soul-the-journey-beyond-yourself
 wordCount: 1694
 readingTimeMinutes: 8
-originalUrl: "https://docs.google.com/document/d/1Ki5XsE0jkxZtd2XAeyTAJw1ZjLh2Cu-matUYKAhA6-s"
-source: "gdoc"
+originalUrl: >-
+  https://docs.google.com/document/d/1Ki5XsE0jkxZtd2XAeyTAJw1ZjLh2Cu-matUYKAhA6-s
+source: gdoc
+tags:
+  - Philosophy
+  - Psychology
 ---
 
 Here’s a story: one day, you, a faithful Astral Codex Ten reader, hear an enthusiastic knock at the door. Starch white shirt, crisp black tie, and a suspicious joy in the eyes - a Mormon missionary has found their way to your doorstep. The Mormon church has around 70,000 missionaries and 250,000 converts per year. Assuming they work 40 hours per week and 52 weeks per year, that makes one convert every 582 hours of proselytizing. You, in your unwavering dedication to the Socratic method and the triumphs of logic, decide to hear them out. Just for a day. Unfortunately, this missionary was raised in the the comments section of Ivermectin: Much More Than You Wanted to Know and can dig a counterargument out of a snake pit. One day turns into 73, and 582 hours later you find yourself to be a joyful member of the Church of Jesus Christ of Ladder-Day Saints.

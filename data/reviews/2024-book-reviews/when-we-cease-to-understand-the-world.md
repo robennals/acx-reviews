@@ -1,16 +1,20 @@
 ---
-title: "When We Cease To Understand the World"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2024-book-reviews"
-contestName: "2024 Book Reviews"
+title: When We Cease To Understand the World
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2024-book-reviews
+contestName: 2024 Book Reviews
 year: 2024
-publishedDate: "2026-02-06T16:49:50.819Z"
-slug: "when-we-cease-to-understand-the-world"
+publishedDate: '2026-02-06T16:49:50.819Z'
+slug: when-we-cease-to-understand-the-world
 wordCount: 2511
 readingTimeMinutes: 12
-originalUrl: "https://docs.google.com/document/d/1Ki5XsE0jkxZtd2XAeyTAJw1ZjLh2Cu-matUYKAhA6-s"
-source: "gdoc"
+originalUrl: >-
+  https://docs.google.com/document/d/1Ki5XsE0jkxZtd2XAeyTAJw1ZjLh2Cu-matUYKAhA6-s
+source: gdoc
+tags:
+  - Fiction
+  - Science
 ---
 
 ## I.

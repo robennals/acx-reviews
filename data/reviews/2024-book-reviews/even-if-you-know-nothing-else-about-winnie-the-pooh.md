@@ -1,16 +1,19 @@
 ---
-title: "Even if you know nothing else about Winnie-the-Pooh,"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2024-book-reviews"
-contestName: "2024 Book Reviews"
+title: 'Even if you know nothing else about Winnie-the-Pooh,'
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2024-book-reviews
+contestName: 2024 Book Reviews
 year: 2024
-publishedDate: "2026-02-06T16:49:50.824Z"
-slug: "even-if-you-know-nothing-else-about-winnie-the-pooh"
+publishedDate: '2026-02-06T16:49:50.824Z'
+slug: even-if-you-know-nothing-else-about-winnie-the-pooh
 wordCount: 4658
 readingTimeMinutes: 21
-originalUrl: "https://docs.google.com/document/d/1Ki5XsE0jkxZtd2XAeyTAJw1ZjLh2Cu-matUYKAhA6-s"
-source: "gdoc"
+originalUrl: >-
+  https://docs.google.com/document/d/1Ki5XsE0jkxZtd2XAeyTAJw1ZjLh2Cu-matUYKAhA6-s
+source: gdoc
+tags:
+  - Fiction
 ---
 
 ## II

@@ -1,16 +1,23 @@
 ---
-title: "Exploring Reality: The Intertwining of Science and Religion by John Polkinghorne"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2021-book-reviews"
-contestName: "2021 Book Reviews"
+title: >-
+  Exploring Reality: The Intertwining of Science and Religion by John
+  Polkinghorne
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2021-book-reviews
+contestName: 2021 Book Reviews
 year: 2021
-publishedDate: "2026-02-06T07:21:29.567Z"
-slug: "exploring-reality-the-intertwining-of-science-and-religion-by-john-polkinghorne"
+publishedDate: '2026-02-06T07:21:29.567Z'
+slug: >-
+  exploring-reality-the-intertwining-of-science-and-religion-by-john-polkinghorne
 wordCount: 7903
 readingTimeMinutes: 36
-originalUrl: "https://docs.google.com/document/d/1xexFJ7h0vULMDE7N77q_MIzXoerexfe_CqqGEL6hEoQ"
-source: "gdoc"
+originalUrl: >-
+  https://docs.google.com/document/d/1xexFJ7h0vULMDE7N77q_MIzXoerexfe_CqqGEL6hEoQ
+source: gdoc
+tags:
+  - Religion
+  - Science
 ---
 
 As an atheist and scientist, I read Exploring Reality: The Intertwining of Science and Religion out of curiosity about Christian perspectives on science. The author’s credentials inspired confidence: a former quantum physicist and current Anglican priest, John Polkinghorne seems like exactly the kind of person who would know a lot about both science and religion.

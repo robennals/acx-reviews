@@ -1,16 +1,20 @@
 ---
-title: "The Art of Happiness"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2024-book-reviews"
-contestName: "2024 Book Reviews"
+title: The Art of Happiness
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2024-book-reviews
+contestName: 2024 Book Reviews
 year: 2024
-publishedDate: "2026-02-06T16:49:13.992Z"
-slug: "the-art-of-happiness"
+publishedDate: '2026-02-06T16:49:13.992Z'
+slug: the-art-of-happiness
 wordCount: 3334
 readingTimeMinutes: 15
-originalUrl: "https://docs.google.com/document/d/14qa47TJ_Vyerx4XNgTCIh7PUZ_TOgNcU_eHm5So_zo0"
-source: "gdoc"
+originalUrl: >-
+  https://docs.google.com/document/d/14qa47TJ_Vyerx4XNgTCIh7PUZ_TOgNcU_eHm5So_zo0
+source: gdoc
+tags:
+  - Psychology
+  - Religion
 ---
 
 The Art of Happiness is a book co-written by American psychiatrist Dr. Cutler and the 14th Dalai Lama, Tenzin Gyatso. Published in 1998, the book is an attempt to blend western scientific understanding of the mind with the spiritual wisdom and ancient training of Buddhist practices. Success would mean a book that taught you how to be happy.

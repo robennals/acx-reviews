@@ -1,16 +1,19 @@
 ---
-title: "Project Xanadu"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2025-non-book-reviews"
-contestName: "2025 Non Book Reviews"
+title: Project Xanadu
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2025-non-book-reviews
+contestName: 2025 Non Book Reviews
 year: 2025
-publishedDate: "2026-02-06T16:58:47.906Z"
-slug: "project-xanadu"
+publishedDate: '2026-02-06T16:58:47.906Z'
+slug: project-xanadu
 wordCount: 7485
 readingTimeMinutes: 34
-originalUrl: "https://www.astralcodexten.com/p/your-review-project-xanadu-the-internet"
-source: "acx"
+originalUrl: 'https://www.astralcodexten.com/p/your-review-project-xanadu-the-internet'
+source: acx
+tags:
+  - Technology
+  - History
 ---
 
 _[This is one of the finalists in the 2025 review contest, written by an ACX reader who will remain anonymous until after voting is done. I’ll be posting about one of these a week for several months. When you’ve read them all, I’ll ask you to vote for a favorite, so remember which ones you liked]_

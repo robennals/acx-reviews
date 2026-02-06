@@ -1,16 +1,20 @@
 ---
-title: "Against Democracy by Jason Brennan"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2024-book-reviews"
-contestName: "2024 Book Reviews"
+title: Against Democracy by Jason Brennan
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2024-book-reviews
+contestName: 2024 Book Reviews
 year: 2024
-publishedDate: "2026-02-06T16:47:15.595Z"
-slug: "against-democracy-by-jason-brennan"
+publishedDate: '2026-02-06T16:47:15.595Z'
+slug: against-democracy-by-jason-brennan
 wordCount: 3660
 readingTimeMinutes: 17
-originalUrl: "https://docs.google.com/document/d/1AXmWgSbh_TFsoZuApSCSEoz57yn93CM5YYhtaO_s4W4"
-source: "gdoc"
+originalUrl: >-
+  https://docs.google.com/document/d/1AXmWgSbh_TFsoZuApSCSEoz57yn93CM5YYhtaO_s4W4
+source: gdoc
+tags:
+  - Politics
+  - Philosophy
 ---
 
 In Against Democracy, Jason Brennan, a professor of strategy, economics, ethics and public policy at Georgetown, argues just that: that democracy, the system we’ve all been raised to cherish and revere, really isn’t that great. He discusses a litany of problems with the institution, and advocates for epistocracy, “rule of the knowers,” as an alternative.

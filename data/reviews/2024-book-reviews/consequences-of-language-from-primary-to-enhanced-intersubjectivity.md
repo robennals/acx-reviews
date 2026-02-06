@@ -1,16 +1,20 @@
 ---
-title: "Consequences of Language: From Primary to Enhanced Intersubjectivity"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2024-book-reviews"
-contestName: "2024 Book Reviews"
+title: 'Consequences of Language: From Primary to Enhanced Intersubjectivity'
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2024-book-reviews
+contestName: 2024 Book Reviews
 year: 2024
-publishedDate: "2026-02-06T16:47:15.599Z"
-slug: "consequences-of-language-from-primary-to-enhanced-intersubjectivity"
+publishedDate: '2026-02-06T16:47:15.599Z'
+slug: consequences-of-language-from-primary-to-enhanced-intersubjectivity
 wordCount: 9690
 readingTimeMinutes: 44
-originalUrl: "https://docs.google.com/document/d/1AXmWgSbh_TFsoZuApSCSEoz57yn93CM5YYhtaO_s4W4"
-source: "gdoc"
+originalUrl: >-
+  https://docs.google.com/document/d/1AXmWgSbh_TFsoZuApSCSEoz57yn93CM5YYhtaO_s4W4
+source: gdoc
+tags:
+  - Science
+  - Psychology
 ---
 
 It was one of those books. You know the type: the essential difference between humans and chimps is tools, is language, is forebrains. These books are usually bad, because it always turns out that another species, typically bees, can do the same thing. Worse, this book was claiming that the essential difference is intersubjectivity, the preferred haunt of polarized ideologues and depraved French philosophers. Why did I read it? I have nothing to say in my defense. Maybe I was bored.

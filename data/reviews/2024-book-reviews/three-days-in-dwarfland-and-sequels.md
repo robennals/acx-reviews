@@ -1,16 +1,20 @@
 ---
-title: "Three Days in Dwarfland (and sequels)"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2024-book-reviews"
-contestName: "2024 Book Reviews"
+title: Three Days in Dwarfland (and sequels)
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2024-book-reviews
+contestName: 2024 Book Reviews
 year: 2024
-publishedDate: "2026-02-06T16:49:50.818Z"
-slug: "three-days-in-dwarfland-and-sequels"
+publishedDate: '2026-02-06T16:49:50.818Z'
+slug: three-days-in-dwarfland-and-sequels
 wordCount: 2445
 readingTimeMinutes: 11
-originalUrl: "https://docs.google.com/document/d/1Ki5XsE0jkxZtd2XAeyTAJw1ZjLh2Cu-matUYKAhA6-s"
-source: "gdoc"
+originalUrl: >-
+  https://docs.google.com/document/d/1Ki5XsE0jkxZtd2XAeyTAJw1ZjLh2Cu-matUYKAhA6-s
+source: gdoc
+tags:
+  - Fiction
+  - History
 ---
 
 In Soviet Russia, math is looking forward to you!

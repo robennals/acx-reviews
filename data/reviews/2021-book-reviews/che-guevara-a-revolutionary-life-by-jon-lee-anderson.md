@@ -1,16 +1,21 @@
 ---
-title: "Che Guevara: A Revolutionary Life by Jon Lee Anderson"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2021-book-reviews"
-contestName: "2021 Book Reviews"
+title: 'Che Guevara: A Revolutionary Life by Jon Lee Anderson'
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2021-book-reviews
+contestName: 2021 Book Reviews
 year: 2021
-publishedDate: "2026-02-06T07:21:29.564Z"
-slug: "che-guevara-a-revolutionary-life-by-jon-lee-anderson"
+publishedDate: '2026-02-06T07:21:29.564Z'
+slug: che-guevara-a-revolutionary-life-by-jon-lee-anderson
 wordCount: 2403
 readingTimeMinutes: 11
-originalUrl: "https://docs.google.com/document/d/1xexFJ7h0vULMDE7N77q_MIzXoerexfe_CqqGEL6hEoQ"
-source: "gdoc"
+originalUrl: >-
+  https://docs.google.com/document/d/1xexFJ7h0vULMDE7N77q_MIzXoerexfe_CqqGEL6hEoQ
+source: gdoc
+tags:
+  - History
+  - Politics
+  - Memoir
 ---
 
 The book makes one think about the role of personalities in history: Cuba became communist just because of the Argentine Che Guevara. He planted the idea of communism in the mind of Fidel Castro. Fidel wasn’t a communist in the beginning. Fidel was an ambitious, Che an idealist. Fidel wanted power, Che wanted a better world. Fidel had bourgeois leanings: he liked comfort, good food and beautiful women. Che pushed correctness and self-denial close to asceticism.  And still, Che, le chevalier sans peur et sans reproche[[11]](#ftnt11) of communism, had a far bigger negative impact. Without Che, Fidel would have been just an ordinary Latin American dictator.

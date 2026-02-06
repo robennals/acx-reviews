@@ -1,16 +1,20 @@
 ---
-title: "Exhaustion: A History by Anna Schaffner"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2022-book-reviews"
-contestName: "2022 Book Reviews"
+title: 'Exhaustion: A History by Anna Schaffner'
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2022-book-reviews
+contestName: 2022 Book Reviews
 year: 2022
-publishedDate: "2026-02-06T07:24:08.699Z"
-slug: "exhaustion-a-history-by-anna-schaffner"
+publishedDate: '2026-02-06T07:24:08.699Z'
+slug: exhaustion-a-history-by-anna-schaffner
 wordCount: 4035
 readingTimeMinutes: 18
-originalUrl: "https://docs.google.com/document/d/1pRQbRbEUwSH_jm94PI_ij-88swat7vQ4iNaNp6gd39g"
-source: "gdoc"
+originalUrl: >-
+  https://docs.google.com/document/d/1pRQbRbEUwSH_jm94PI_ij-88swat7vQ4iNaNp6gd39g
+source: gdoc
+tags:
+  - Psychology
+  - History
 ---
 
 (Columbia University Press, 2016)

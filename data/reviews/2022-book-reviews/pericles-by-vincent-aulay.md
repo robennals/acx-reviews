@@ -1,16 +1,20 @@
 ---
-title: "Pericles by Vincent Aulay"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2022-book-reviews"
-contestName: "2022 Book Reviews"
+title: Pericles by Vincent Aulay
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2022-book-reviews
+contestName: 2022 Book Reviews
 year: 2022
-publishedDate: "2026-02-06T07:23:14.487Z"
-slug: "pericles-by-vincent-aulay"
+publishedDate: '2026-02-06T07:23:14.487Z'
+slug: pericles-by-vincent-aulay
 wordCount: 3766
 readingTimeMinutes: 17
-originalUrl: "https://docs.google.com/document/d/1kQUUJhv-MpLawby2j4zXLZPDG6ligWd5xpIjH8UmWdw"
-source: "gdoc"
+originalUrl: >-
+  https://docs.google.com/document/d/1kQUUJhv-MpLawby2j4zXLZPDG6ligWd5xpIjH8UmWdw
+source: gdoc
+tags:
+  - History
+  - Politics
 ---
 
 [World’s Greatest Propaganda Construct](https://www.google.com/url?q=https://aussiesta.wordpress.com/2020/12/16/pericles-the-worlds-greatest-propaganda-construct/&sa=D&source=editors&ust=1770366184785487&usg=AOvVaw2YNwR-ox5ryrtAwHUmiD-t) 

@@ -1,16 +1,19 @@
 ---
-title: "Google's Hiring Process: A Review"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2025-non-book-reviews"
-contestName: "2025 Non Book Reviews"
+title: 'Google''s Hiring Process: A Review'
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2025-non-book-reviews
+contestName: 2025 Non Book Reviews
 year: 2025
-publishedDate: "2026-02-06T16:52:48.894Z"
-slug: "googles-hiring-process-a-review"
+publishedDate: '2026-02-06T16:52:48.894Z'
+slug: googles-hiring-process-a-review
 wordCount: 2815
 readingTimeMinutes: 13
-originalUrl: "https://docs.google.com/document/d/1d0vRSj1E93joWWvbUen2XGuDjN_mM94ybMIAADzM2fo"
-source: "gdoc"
+originalUrl: >-
+  https://docs.google.com/document/d/1d0vRSj1E93joWWvbUen2XGuDjN_mM94ybMIAADzM2fo
+source: gdoc
+tags:
+  - Technology
 ---
 
 It’s almost become a meme now that everyone wants to hire like Google, asking ridiculous questions about reversing a spliced linked binary hash tree in O(log(e^n!)) time.

@@ -1,16 +1,20 @@
 ---
-title: "Battle Hymn of the Tiger Mother"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2024-book-reviews"
-contestName: "2024 Book Reviews"
+title: Battle Hymn of the Tiger Mother
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2024-book-reviews
+contestName: 2024 Book Reviews
 year: 2024
-publishedDate: "2026-02-06T16:47:15.597Z"
-slug: "battle-hymn-of-the-tiger-mother"
+publishedDate: '2026-02-06T16:47:15.597Z'
+slug: battle-hymn-of-the-tiger-mother
 wordCount: 5865
 readingTimeMinutes: 27
-originalUrl: "https://docs.google.com/document/d/1AXmWgSbh_TFsoZuApSCSEoz57yn93CM5YYhtaO_s4W4"
-source: "gdoc"
+originalUrl: >-
+  https://docs.google.com/document/d/1AXmWgSbh_TFsoZuApSCSEoz57yn93CM5YYhtaO_s4W4
+source: gdoc
+tags:
+  - Society
+  - Memoir
 ---
 
 Chinese parenting clashes with the West, neither leaves unscathed

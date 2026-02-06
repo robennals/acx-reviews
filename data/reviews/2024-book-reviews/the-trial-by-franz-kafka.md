@@ -1,16 +1,20 @@
 ---
-title: "The Trial, by Franz Kafka"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2024-book-reviews"
-contestName: "2024 Book Reviews"
+title: 'The Trial, by Franz Kafka'
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2024-book-reviews
+contestName: 2024 Book Reviews
 year: 2024
-publishedDate: "2026-02-06T16:49:50.816Z"
-slug: "the-trial-by-franz-kafka"
+publishedDate: '2026-02-06T16:49:50.816Z'
+slug: the-trial-by-franz-kafka
 wordCount: 4156
 readingTimeMinutes: 19
-originalUrl: "https://docs.google.com/document/d/1Ki5XsE0jkxZtd2XAeyTAJw1ZjLh2Cu-matUYKAhA6-s"
-source: "gdoc"
+originalUrl: >-
+  https://docs.google.com/document/d/1Ki5XsE0jkxZtd2XAeyTAJw1ZjLh2Cu-matUYKAhA6-s
+source: gdoc
+tags:
+  - Fiction
+  - Philosophy
 ---
 
 “It is Justice,” said the painter at last. “Now I can recognize it.” said K. “There’s the bandage over the eyes, and here are the scales. But aren’t there wings on the figure’s heels, and isn’t it flying?” “Yes” said the painter, “My instructions were to paint it like that. Actually, it is Justice and the goddess of Victory in one.”

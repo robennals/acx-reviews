@@ -1,16 +1,20 @@
 ---
-title: "Choosing Elites by Robert Klitgaard"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2024-book-reviews"
-contestName: "2024 Book Reviews"
+title: Choosing Elites by Robert Klitgaard
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2024-book-reviews
+contestName: 2024 Book Reviews
 year: 2024
-publishedDate: "2026-02-06T16:47:15.598Z"
-slug: "choosing-elites-by-robert-klitgaard"
+publishedDate: '2026-02-06T16:47:15.598Z'
+slug: choosing-elites-by-robert-klitgaard
 wordCount: 3079
 readingTimeMinutes: 14
-originalUrl: "https://docs.google.com/document/d/1AXmWgSbh_TFsoZuApSCSEoz57yn93CM5YYhtaO_s4W4"
-source: "gdoc"
+originalUrl: >-
+  https://docs.google.com/document/d/1AXmWgSbh_TFsoZuApSCSEoz57yn93CM5YYhtaO_s4W4
+source: gdoc
+tags:
+  - Society
+  - Economics
 ---
 
 Forty years ago Robert Klitgaard was a Harvard golden boy. Still in his mid-thirties, with three Harvard degrees (A.B., Philosophy; M.P.P., Public Policy; and Ph.D., Public Policy), he was an associate professor at the Kennedy School of Government while spending half his time as Special Assistant to Harvard President Derek Bok. He had also served as Admissions Chairman for Harvard’s Public Policy Program and published extensively. He appeared to be on a fast track leading to the presidency of, if not Harvard, at least Yale, Princeton, or Stanford.

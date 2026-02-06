@@ -1,16 +1,20 @@
 ---
-title: "Ready Player One by Ernest Cline"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2024-book-reviews"
-contestName: "2024 Book Reviews"
+title: Ready Player One by Ernest Cline
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2024-book-reviews
+contestName: 2024 Book Reviews
 year: 2024
-publishedDate: "2026-02-06T16:48:56.652Z"
-slug: "ready-player-one-by-ernest-cline"
+publishedDate: '2026-02-06T16:48:56.652Z'
+slug: ready-player-one-by-ernest-cline
 wordCount: 6819
 readingTimeMinutes: 31
-originalUrl: "https://docs.google.com/document/d/1GYQw3pgvhi7hqOVR-Ql629Q_8thbyHe8sSRy5voyt30"
-source: "gdoc"
+originalUrl: >-
+  https://docs.google.com/document/d/1GYQw3pgvhi7hqOVR-Ql629Q_8thbyHe8sSRy5voyt30
+source: gdoc
+tags:
+  - Fiction
+  - Technology
 ---
 
 Ready Player One is a novel about a contest in which participants must log into a metaverse and solve a series of puzzles related to 1980s pop culture.  The first person to solve all the puzzles wins $240 billion, so the competition is fierce.  You have probably heard of Ready Player One: it quickly became a best-seller and was adapted into a film directed by Steven Spielberg.  

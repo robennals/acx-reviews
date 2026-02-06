@@ -1,16 +1,20 @@
 ---
-title: "Robert E. Lee: a life by Allen C. Guelzo"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2022-book-reviews"
-contestName: "2022 Book Reviews"
+title: 'Robert E. Lee: a life by Allen C. Guelzo'
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2022-book-reviews
+contestName: 2022 Book Reviews
 year: 2022
-publishedDate: "2026-02-06T07:23:14.490Z"
-slug: "robert-e-lee-a-life-by-allen-c-guelzo"
+publishedDate: '2026-02-06T07:23:14.490Z'
+slug: robert-e-lee-a-life-by-allen-c-guelzo
 wordCount: 6416
 readingTimeMinutes: 29
-originalUrl: "https://docs.google.com/document/d/1kQUUJhv-MpLawby2j4zXLZPDG6ligWd5xpIjH8UmWdw"
-source: "gdoc"
+originalUrl: >-
+  https://docs.google.com/document/d/1kQUUJhv-MpLawby2j4zXLZPDG6ligWd5xpIjH8UmWdw
+source: gdoc
+tags:
+  - History
+  - Memoir
 ---
 
 Judged by its consequences, Robert E. Lee’s decision in April, 1861 to refuse the command of the Union army and instead offer his services to his home state of Virginia was arguably the most disastrous decision any American has ever made. If Lee had accepted the offer, Lincoln would have had the competent, aggressive general he wanted at the outset of the war, instead of having to search for two years until he found Ulysses Grant. At the same time the South would have been deprived of its most effective general. It is of course speculative, but plausible, that Lee would have taken Richmond by the summer of 1862, essentially ending the war in Virginia, and the rest of the South would have been defeated not long after. Most of the death and destruction of the Civil War occurred in 1863 and 1864. No Antietam, no Gettysburg, no Cold Harbor, no “Burning” of the Shennandoah Valley, no Sherman’s march, no Andersonville prison. No assassination of Abraham Lincoln. The South would have been left far less impoverished at war’s end, and both North and South far less embittered. As for Lee personally, his family would have kept their Arlington estate, now Arlington National Cemetery, and he would have been a national hero. Where the Lincoln Memorial now stands there might well be a monument to Lee.

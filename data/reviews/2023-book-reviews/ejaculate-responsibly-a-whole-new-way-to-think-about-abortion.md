@@ -1,16 +1,20 @@
 ---
-title: "Ejaculate Responsibly: A Whole New Way to Think About Abortion"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2023-book-reviews"
-contestName: "2023 Book Reviews"
+title: 'Ejaculate Responsibly: A Whole New Way to Think About Abortion'
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2023-book-reviews
+contestName: 2023 Book Reviews
 year: 2023
-publishedDate: "2026-02-06T07:21:10.028Z"
-slug: "ejaculate-responsibly-a-whole-new-way-to-think-about-abortion"
+publishedDate: '2026-02-06T07:21:10.028Z'
+slug: ejaculate-responsibly-a-whole-new-way-to-think-about-abortion
 wordCount: 3203
 readingTimeMinutes: 15
-originalUrl: "https://docs.google.com/document/d/10CiEI7aDL2bMIdx7yayy3vlq0TJ8dO5LGnG7yIDPiw8"
-source: "gdoc"
+originalUrl: >-
+  https://docs.google.com/document/d/10CiEI7aDL2bMIdx7yayy3vlq0TJ8dO5LGnG7yIDPiw8
+source: gdoc
+tags:
+  - Society
+  - Politics
 ---
 
 After reading this book and taking extensive notes, I noticed there actually is no exclamation point in the title. But there should be, so I’m going to pretend there is.

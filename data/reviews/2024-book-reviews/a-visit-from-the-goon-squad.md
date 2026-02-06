@@ -1,16 +1,19 @@
 ---
-title: "A Visit from the Goon Squad"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2024-book-reviews"
-contestName: "2024 Book Reviews"
+title: A Visit from the Goon Squad
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2024-book-reviews
+contestName: 2024 Book Reviews
 year: 2024
-publishedDate: "2026-02-06T16:47:15.594Z"
-slug: "a-visit-from-the-goon-squad"
+publishedDate: '2026-02-06T16:47:15.594Z'
+slug: a-visit-from-the-goon-squad
 wordCount: 3306
 readingTimeMinutes: 15
-originalUrl: "https://docs.google.com/document/d/1AXmWgSbh_TFsoZuApSCSEoz57yn93CM5YYhtaO_s4W4"
-source: "gdoc"
+originalUrl: >-
+  https://docs.google.com/document/d/1AXmWgSbh_TFsoZuApSCSEoz57yn93CM5YYhtaO_s4W4
+source: gdoc
+tags:
+  - Fiction
 ---
 
 I’m part of the minority that prefers short stories over novels. If someone were to tell me this is a character flaw, I wouldn’t argue with them. There is a fair chance that the academy, through its stranglehold over contemporary American literature, has brainwashed me. After all, I was one of the many MFA students enlisted by the truckload into graduate writers' workshops, the sites where more short fiction is produced than any country’s literary tradition can manage. There, I was instilled with an obsession over concision, an obsession that, if left unchecked, irons out the idiosyncratic breadth that has uplifted novels onto the highest literary pedestal.

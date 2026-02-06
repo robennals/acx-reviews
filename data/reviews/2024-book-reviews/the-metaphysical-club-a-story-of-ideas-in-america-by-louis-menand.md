@@ -1,16 +1,20 @@
 ---
-title: "The Metaphysical Club: A Story of Ideas in America by Louis Menand"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2024-book-reviews"
-contestName: "2024 Book Reviews"
+title: "The Metaphysical Club: A Story of Ideas in America\_by Louis Menand"
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2024-book-reviews
+contestName: 2024 Book Reviews
 year: 2024
-publishedDate: "2026-02-06T16:49:14.013Z"
-slug: "the-metaphysical-club-a-story-of-ideas-in-america-by-louis-menand"
+publishedDate: '2026-02-06T16:49:14.013Z'
+slug: the-metaphysical-club-a-story-of-ideas-in-america-by-louis-menand
 wordCount: 12198
 readingTimeMinutes: 55
-originalUrl: "https://docs.google.com/document/d/14qa47TJ_Vyerx4XNgTCIh7PUZ_TOgNcU_eHm5So_zo0"
-source: "gdoc"
+originalUrl: >-
+  https://docs.google.com/document/d/14qa47TJ_Vyerx4XNgTCIh7PUZ_TOgNcU_eHm5So_zo0
+source: gdoc
+tags:
+  - Philosophy
+  - History
 ---
 
 To create or guide a school of philosophy is a grand cultural achievement, on the level of creating a genre of music or style of architecture: the Greeks have the ancients, the Germans have their idealisms, the Chinese have Confucianism and Taoism.[[73]](#ftnt73) To contribute to these traditions, to have them spring up as a germ from the miasma of a particular culture and its traditions, is both an attestation to that country’s ability to produce greatness and an expression of that culture’s particularities. National myths may be myths, but gosh are myths fun — and sometimes revealing. A philosophy can be an expression of individual idiosyncrasies, a mirror of culture, a byproduct of history, and also, incidentally, an elucidation of true perspectives.[citation needed]

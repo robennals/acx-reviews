@@ -1,16 +1,20 @@
 ---
-title: "The Myth of Mental Illness by Thomas Szasz"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2022-book-reviews"
-contestName: "2022 Book Reviews"
+title: The Myth of Mental Illness by Thomas Szasz
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2022-book-reviews
+contestName: 2022 Book Reviews
 year: 2022
-publishedDate: "2026-02-06T07:22:32.830Z"
-slug: "the-myth-of-mental-illness-by-thomas-szasz"
+publishedDate: '2026-02-06T07:22:32.830Z'
+slug: the-myth-of-mental-illness-by-thomas-szasz
 wordCount: 8030
 readingTimeMinutes: 36
-originalUrl: "https://docs.google.com/document/d/100kMdSVFviZSSBvUyyEQPMNlvLptVQxHFD9i9wGuBWs"
-source: "gdoc"
+originalUrl: >-
+  https://docs.google.com/document/d/100kMdSVFviZSSBvUyyEQPMNlvLptVQxHFD9i9wGuBWs
+source: gdoc
+tags:
+  - Psychology
+  - Philosophy
 ---
 
 My parents met as two patients institutionalized in a psych ward.

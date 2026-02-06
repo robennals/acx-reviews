@@ -1,16 +1,19 @@
 ---
-title: "The Mathematics of Poker by Bill Chen and Jerrod Ankenman"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2022-book-reviews"
-contestName: "2022 Book Reviews"
+title: "The Mathematics of Poker\_by Bill Chen and Jerrod Ankenman"
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2022-book-reviews
+contestName: 2022 Book Reviews
 year: 2022
-publishedDate: "2026-02-06T07:22:32.829Z"
-slug: "the-mathematics-of-poker-by-bill-chen-and-jerrod-ankenman"
+publishedDate: '2026-02-06T07:22:32.829Z'
+slug: the-mathematics-of-poker-by-bill-chen-and-jerrod-ankenman
 wordCount: 2786
 readingTimeMinutes: 13
-originalUrl: "https://docs.google.com/document/d/100kMdSVFviZSSBvUyyEQPMNlvLptVQxHFD9i9wGuBWs"
-source: "gdoc"
+originalUrl: >-
+  https://docs.google.com/document/d/100kMdSVFviZSSBvUyyEQPMNlvLptVQxHFD9i9wGuBWs
+source: gdoc
+tags:
+  - Science
 ---
 
 Published in 2006, The Mathematics of Poker, by Bill Chen and Jerrod Ankenman, is a monumental poker classic.

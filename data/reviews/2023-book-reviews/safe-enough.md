@@ -1,16 +1,19 @@
 ---
-title: "Safe Enough"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2023-book-reviews"
-contestName: "2023 Book Reviews"
+title: Safe Enough
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2023-book-reviews
+contestName: 2023 Book Reviews
 year: 2023
-publishedDate: "2026-02-06T07:06:03.119Z"
-slug: "safe-enough"
+publishedDate: '2026-02-06T07:06:03.119Z'
+slug: safe-enough
 wordCount: 5005
 readingTimeMinutes: 23
-originalUrl: "https://www.astralcodexten.com/p/your-book-review-safe-enough"
-source: "acx"
+originalUrl: 'https://www.astralcodexten.com/p/your-book-review-safe-enough'
+source: acx
+tags:
+  - Technology
+  - Science
 ---
 
 [_This is one of the finalists in the 2023 book review contest, written by an ACX reader who will remain anonymous until after voting is done. I’ll be posting about one of these a week for several months. When you’ve read them all, I’ll ask you to vote for a favorite, so remember which ones you liked_]

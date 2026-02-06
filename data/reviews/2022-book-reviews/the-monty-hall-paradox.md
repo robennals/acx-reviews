@@ -1,16 +1,19 @@
 ---
-title: "The Monty Hall Paradox"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2022-book-reviews"
-contestName: "2022 Book Reviews"
+title: The Monty Hall Paradox
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2022-book-reviews
+contestName: 2022 Book Reviews
 year: 2022
-publishedDate: "2026-02-06T07:22:32.818Z"
-slug: "the-monty-hall-paradox"
+publishedDate: '2026-02-06T07:22:32.818Z'
+slug: the-monty-hall-paradox
 wordCount: 3357
 readingTimeMinutes: 15
-originalUrl: "https://docs.google.com/document/d/100kMdSVFviZSSBvUyyEQPMNlvLptVQxHFD9i9wGuBWs"
-source: "gdoc"
+originalUrl: >-
+  https://docs.google.com/document/d/100kMdSVFviZSSBvUyyEQPMNlvLptVQxHFD9i9wGuBWs
+source: gdoc
+tags:
+  - Science
 ---
 
 Why is the [Monty Hall problem](https://www.google.com/url?q=https://en.wikipedia.org/wiki/Monty_Hall_problem&sa=D&source=editors&ust=1770366145341321&usg=AOvVaw3HylMqSFcyQAFhgDs3Itop) so counterintuitive?

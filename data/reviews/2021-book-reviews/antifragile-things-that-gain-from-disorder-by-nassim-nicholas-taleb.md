@@ -1,16 +1,20 @@
 ---
-title: "Antifragile: Things That Gain from Disorder by Nassim Nicholas Taleb"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2021-book-reviews"
-contestName: "2021 Book Reviews"
+title: 'Antifragile: Things That Gain from Disorder by Nassim Nicholas Taleb'
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2021-book-reviews
+contestName: 2021 Book Reviews
 year: 2021
-publishedDate: "2026-02-06T07:21:29.561Z"
-slug: "antifragile-things-that-gain-from-disorder-by-nassim-nicholas-taleb"
+publishedDate: '2026-02-06T07:21:29.561Z'
+slug: antifragile-things-that-gain-from-disorder-by-nassim-nicholas-taleb
 wordCount: 4677
 readingTimeMinutes: 21
-originalUrl: "https://docs.google.com/document/d/1xexFJ7h0vULMDE7N77q_MIzXoerexfe_CqqGEL6hEoQ"
-source: "gdoc"
+originalUrl: >-
+  https://docs.google.com/document/d/1xexFJ7h0vULMDE7N77q_MIzXoerexfe_CqqGEL6hEoQ
+source: gdoc
+tags:
+  - Philosophy
+  - Economics
 ---
 
 ## I. Prologue

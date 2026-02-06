@@ -1,16 +1,20 @@
 ---
-title: "Disunited Nations (2020) vs Dawn of Eurasia (2017)"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2021-book-reviews"
-contestName: "2021 Book Reviews"
+title: Disunited Nations (2020) vs Dawn of Eurasia (2017)
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2021-book-reviews
+contestName: 2021 Book Reviews
 year: 2021
-publishedDate: "2026-02-06T07:21:29.565Z"
-slug: "disunited-nations-2020-vs-dawn-of-eurasia-2017"
+publishedDate: '2026-02-06T07:21:29.565Z'
+slug: disunited-nations-2020-vs-dawn-of-eurasia-2017
 wordCount: 6994
 readingTimeMinutes: 32
-originalUrl: "https://docs.google.com/document/d/1xexFJ7h0vULMDE7N77q_MIzXoerexfe_CqqGEL6hEoQ"
-source: "gdoc"
+originalUrl: >-
+  https://docs.google.com/document/d/1xexFJ7h0vULMDE7N77q_MIzXoerexfe_CqqGEL6hEoQ
+source: gdoc
+tags:
+  - Politics
+  - History
 ---
 
 What does the future look like? We are living through a transition between epochs. Whether marked by COVID-19, the election of Donald Trump or earlier by the global sub-prime crisis, the golden age of post-Cold War prosperity is ending. With the era defined by US political, cultural and economic hegemony, its decline is inextricably linked to the decline in US influence. Is the twenty first century really going to be the “Asian century” as China’s growth continues unabated? Or perhaps African, given by far the largest forecast population growth? What will become of the US? Of China and Russia and Europe? Two thinkers have sought to define this future.

@@ -1,16 +1,20 @@
 ---
-title: "Leisure: the Basis of Culture by Josef Pieper"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2022-book-reviews"
-contestName: "2022 Book Reviews"
+title: 'Leisure: the Basis of Culture by Josef Pieper'
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2022-book-reviews
+contestName: 2022 Book Reviews
 year: 2022
-publishedDate: "2026-02-06T07:23:14.478Z"
-slug: "leisure-the-basis-of-culture-by-josef-pieper"
+publishedDate: '2026-02-06T07:23:14.478Z'
+slug: leisure-the-basis-of-culture-by-josef-pieper
 wordCount: 4148
 readingTimeMinutes: 19
-originalUrl: "https://docs.google.com/document/d/1kQUUJhv-MpLawby2j4zXLZPDG6ligWd5xpIjH8UmWdw"
-source: "gdoc"
+originalUrl: >-
+  https://docs.google.com/document/d/1kQUUJhv-MpLawby2j4zXLZPDG6ligWd5xpIjH8UmWdw
+source: gdoc
+tags:
+  - Philosophy
+  - Society
 ---
 
 The problem with good and succinct philosophers is that they say too much, in too few words, all of which demand extensive unpacking. Josef Pieper is one such philosopher and I am not sure how to do justice to the 150-page omnibus I am about to review. Leisure: The Basis of Culture is a short book by modern standards. Published in 1948, it consists of two essays, “Leisure and Worship” and “The Philosophical Act”. In this review, Section I and II roughly talk about each of the two essays, while section III explores Pieper’s reliance on religion and theology as pre-conditions for both doing philosophy and being at leisure. My review does the book little justice, in part because I am left with the distinct feeling that Pieper would like his book contemplated not discussed (more on that later) and in part, because I have had to skip more of his musing than I would like.

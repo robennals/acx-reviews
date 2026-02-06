@@ -1,16 +1,22 @@
 ---
-title: "Reinforcement Learning: An Introduction by Richard S. Sutton and Andrew G. Barto"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2021-book-reviews"
-contestName: "2021 Book Reviews"
+title: >-
+  Reinforcement Learning: An Introduction by Richard S. Sutton and Andrew G.
+  Barto
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2021-book-reviews
+contestName: 2021 Book Reviews
 year: 2021
-publishedDate: "2026-02-06T07:21:29.573Z"
-slug: "reinforcement-learning-an-introduction-by-richard-s-sutton-and-andrew-g-barto"
+publishedDate: '2026-02-06T07:21:29.573Z'
+slug: reinforcement-learning-an-introduction-by-richard-s-sutton-and-andrew-g-barto
 wordCount: 2838
 readingTimeMinutes: 13
-originalUrl: "https://docs.google.com/document/d/1xexFJ7h0vULMDE7N77q_MIzXoerexfe_CqqGEL6hEoQ"
-source: "gdoc"
+originalUrl: >-
+  https://docs.google.com/document/d/1xexFJ7h0vULMDE7N77q_MIzXoerexfe_CqqGEL6hEoQ
+source: gdoc
+tags:
+  - Technology
+  - Science
 ---
 
 On the surface, this is a technical textbook for those wishing to learn about reinforcement learning (RL), the subfield of machine learning algorithms powering recent high-profile successes of AIs trouncing human champions like AlphaGo in Go and Watson in Jeopardy.

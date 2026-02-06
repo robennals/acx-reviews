@@ -1,16 +1,19 @@
 ---
-title: "Which Sports? Why Sports?"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2025-non-book-reviews"
-contestName: "2025 Non Book Reviews"
+title: Which Sports? Why Sports?
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2025-non-book-reviews
+contestName: 2025 Non Book Reviews
 year: 2025
-publishedDate: "2026-02-06T16:55:59.407Z"
-slug: "which-sports-why-sports"
+publishedDate: '2026-02-06T16:55:59.407Z'
+slug: which-sports-why-sports
 wordCount: 2163
 readingTimeMinutes: 10
-originalUrl: "https://docs.google.com/document/d/1jYVJFIz5-aMi0LCgsC9AN6BncJDNVGaMU37QmwZ1vzA"
-source: "gdoc"
+originalUrl: >-
+  https://docs.google.com/document/d/1jYVJFIz5-aMi0LCgsC9AN6BncJDNVGaMU37QmwZ1vzA
+source: gdoc
+tags:
+  - Society
 ---
 
 Are you a sports person? If so, which ones and why? If not, what specific activities could be worthwhile for you?

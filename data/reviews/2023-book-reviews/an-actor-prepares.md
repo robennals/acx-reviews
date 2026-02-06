@@ -1,16 +1,19 @@
 ---
-title: "An Actor Prepares"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2023-book-reviews"
-contestName: "2023 Book Reviews"
+title: An Actor Prepares
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2023-book-reviews
+contestName: 2023 Book Reviews
 year: 2023
-publishedDate: "2026-02-06T07:21:10.020Z"
-slug: "an-actor-prepares"
+publishedDate: '2026-02-06T07:21:10.020Z'
+slug: an-actor-prepares
 wordCount: 1749
 readingTimeMinutes: 8
-originalUrl: "https://docs.google.com/document/d/10CiEI7aDL2bMIdx7yayy3vlq0TJ8dO5LGnG7yIDPiw8"
-source: "gdoc"
+originalUrl: >-
+  https://docs.google.com/document/d/10CiEI7aDL2bMIdx7yayy3vlq0TJ8dO5LGnG7yIDPiw8
+source: gdoc
+tags:
+  - Society
 ---
 
 An Actor Prepares is told from the perspective of an acting student, Kostya, in a class taught by the Director, Tortsov, a stand-in for the author. Thus the title is a very short summary of the pseudofiction with an emphasis on “prepares.” It truly is a book about preparing to act rather than actually acting. Not only does it not mention projecting or cheating out, it hardly mentions dialogue, other actors, or directors at all. Yet, after reading it, I’m not sure how a book could be any more about acting than this one.

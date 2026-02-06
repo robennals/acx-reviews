@@ -1,16 +1,19 @@
 ---
-title: "Surviving Death by Mark Johnston"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2024-book-reviews"
-contestName: "2024 Book Reviews"
+title: Surviving Death by Mark Johnston
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2024-book-reviews
+contestName: 2024 Book Reviews
 year: 2024
-publishedDate: "2026-02-06T16:48:56.664Z"
-slug: "surviving-death-by-mark-johnston"
+publishedDate: '2026-02-06T16:48:56.664Z'
+slug: surviving-death-by-mark-johnston
 wordCount: 11446
 readingTimeMinutes: 51
-originalUrl: "https://docs.google.com/document/d/1GYQw3pgvhi7hqOVR-Ql629Q_8thbyHe8sSRy5voyt30"
-source: "gdoc"
+originalUrl: >-
+  https://docs.google.com/document/d/1GYQw3pgvhi7hqOVR-Ql629Q_8thbyHe8sSRy5voyt30
+source: gdoc
+tags:
+  - Philosophy
 ---
 
 It’s about philosophy, sorry!

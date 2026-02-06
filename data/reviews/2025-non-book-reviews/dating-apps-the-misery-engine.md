@@ -1,16 +1,20 @@
 ---
-title: "Dating Apps - The Misery Engine"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2025-non-book-reviews"
-contestName: "2025 Non Book Reviews"
+title: Dating Apps - The Misery Engine
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2025-non-book-reviews
+contestName: 2025 Non Book Reviews
 year: 2025
-publishedDate: "2026-02-06T16:52:48.891Z"
-slug: "dating-apps-the-misery-engine"
+publishedDate: '2026-02-06T16:52:48.891Z'
+slug: dating-apps-the-misery-engine
 wordCount: 6539
 readingTimeMinutes: 30
-originalUrl: "https://docs.google.com/document/d/1d0vRSj1E93joWWvbUen2XGuDjN_mM94ybMIAADzM2fo"
-source: "gdoc"
+originalUrl: >-
+  https://docs.google.com/document/d/1d0vRSj1E93joWWvbUen2XGuDjN_mM94ybMIAADzM2fo
+source: gdoc
+tags:
+  - Society
+  - Technology
 ---
 
 Bringing Hell to Earth would be a lot of work, one would think. I mean, that’s a lot of brimstone to  have delivered, but even if you solve that, what are you going to do for fire? Hell really revolves around fire. Remember though, you don’t really need a lot of fuel at the start of things. No, if you want the world to burn, mostly you just need Tinder.

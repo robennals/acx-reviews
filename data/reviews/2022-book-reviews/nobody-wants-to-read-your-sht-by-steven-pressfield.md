@@ -1,16 +1,19 @@
 ---
-title: "Nobody wants to read your sh*t by Steven Pressfield"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2022-book-reviews"
-contestName: "2022 Book Reviews"
+title: Nobody wants to read your sh*t by Steven Pressfield
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2022-book-reviews
+contestName: 2022 Book Reviews
 year: 2022
-publishedDate: "2026-02-06T07:23:14.485Z"
-slug: "nobody-wants-to-read-your-sht-by-steven-pressfield"
+publishedDate: '2026-02-06T07:23:14.485Z'
+slug: nobody-wants-to-read-your-sht-by-steven-pressfield
 wordCount: 1461
 readingTimeMinutes: 7
-originalUrl: "https://docs.google.com/document/d/1kQUUJhv-MpLawby2j4zXLZPDG6ligWd5xpIjH8UmWdw"
-source: "gdoc"
+originalUrl: >-
+  https://docs.google.com/document/d/1kQUUJhv-MpLawby2j4zXLZPDG6ligWd5xpIjH8UmWdw
+source: gdoc
+tags:
+  - Society
 ---
 
 This book title punches you in the face. No one wants to read what you write!

@@ -1,16 +1,20 @@
 ---
-title: "Making Nature: The History of a Scientific Journal  by Melinda Baldwin"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2022-book-reviews"
-contestName: "2022 Book Reviews"
+title: "Making Nature: The History of a Scientific Journal\_ by Melinda Baldwin"
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2022-book-reviews
+contestName: 2022 Book Reviews
 year: 2022
-publishedDate: "2026-02-06T07:23:14.478Z"
-slug: "making-nature-the-history-of-a-scientific-journal-by-melinda-baldwin"
+publishedDate: '2026-02-06T07:23:14.478Z'
+slug: making-nature-the-history-of-a-scientific-journal-by-melinda-baldwin
 wordCount: 6416
 readingTimeMinutes: 29
-originalUrl: "https://docs.google.com/document/d/1kQUUJhv-MpLawby2j4zXLZPDG6ligWd5xpIjH8UmWdw"
-source: "gdoc"
+originalUrl: >-
+  https://docs.google.com/document/d/1kQUUJhv-MpLawby2j4zXLZPDG6ligWd5xpIjH8UmWdw
+source: gdoc
+tags:
+  - Science
+  - History
 ---
 
 The world of scientific publishing is organized as a hierarchy of status, much like the hierarchy of angels in the Abrahamic religions. At the bottom are the non-peer-reviewed blog posts and Twitter threads. Slightly above are the preprint servers like arXiv, and then big peer-reviewed journals like PLOS One. Above those are all the field-specific journals, some with higher reputation than others. And at the top, near the divine presence, are the CNS journals: Cell, Nature, and Science.

@@ -1,16 +1,19 @@
 ---
-title: "Gacha Games"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2025-non-book-reviews"
-contestName: "2025 Non Book Reviews"
+title: Gacha Games
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2025-non-book-reviews
+contestName: 2025 Non Book Reviews
 year: 2025
-publishedDate: "2026-02-06T16:57:23.283Z"
-slug: "gacha-games"
+publishedDate: '2026-02-06T16:57:23.283Z'
+slug: gacha-games
 wordCount: 5088
 readingTimeMinutes: 23
-originalUrl: "https://docs.google.com/document/d/1B3YxYxLVFjKGicaEkqvt353kt0uimn0PSUQv1PyaHuI"
-source: "gdoc"
+originalUrl: >-
+  https://docs.google.com/document/d/1B3YxYxLVFjKGicaEkqvt353kt0uimn0PSUQv1PyaHuI
+source: gdoc
+tags:
+  - Economics
 ---
 
 During the pandemic years I got into Genshin Impact. It wasn’t the first “gacha” game I had played, but it was the first one I liked enough to engage with the mechanics. I didn’t spend money on it, but I did spend a whole lot of time.

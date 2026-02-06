@@ -1,16 +1,20 @@
 ---
-title: "Meditations on Moloch"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2025-non-book-reviews"
-contestName: "2025 Non Book Reviews"
+title: Meditations on Moloch
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2025-non-book-reviews
+contestName: 2025 Non Book Reviews
 year: 2025
-publishedDate: "2026-02-06T16:55:03.480Z"
-slug: "meditations-on-moloch"
+publishedDate: '2026-02-06T16:55:03.480Z'
+slug: meditations-on-moloch
 wordCount: 4590
 readingTimeMinutes: 21
-originalUrl: "https://docs.google.com/document/d/1a3q0Z2tuPLLbDeg5-pfEffkajGjrfPDwE7ZMs7uaWQs"
-source: "gdoc"
+originalUrl: >-
+  https://docs.google.com/document/d/1a3q0Z2tuPLLbDeg5-pfEffkajGjrfPDwE7ZMs7uaWQs
+source: gdoc
+tags:
+  - Philosophy
+  - Technology
 ---
 
 Link to Meditations on Moloch[https://slatestarcodex.com/2014/07/30/meditations-on-moloch/](https://slatestarcodex.com/2014/07/30/meditations-on-moloch/)

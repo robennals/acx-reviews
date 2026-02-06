@@ -1,16 +1,20 @@
 ---
-title: "Righteous Victims - A History of the Zionist-Arab Conflict by Benny Morris"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2024-book-reviews"
-contestName: "2024 Book Reviews"
+title: Righteous Victims - A History of the Zionist-Arab Conflict by Benny Morris
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2024-book-reviews
+contestName: 2024 Book Reviews
 year: 2024
-publishedDate: "2026-02-06T16:48:56.658Z"
-slug: "righteous-victims-a-history-of-the-zionist-arab-conflict-by-benny-morris"
+publishedDate: '2026-02-06T16:48:56.658Z'
+slug: righteous-victims-a-history-of-the-zionist-arab-conflict-by-benny-morris
 wordCount: 10031
 readingTimeMinutes: 45
-originalUrl: "https://docs.google.com/document/d/1GYQw3pgvhi7hqOVR-Ql629Q_8thbyHe8sSRy5voyt30"
-source: "gdoc"
+originalUrl: >-
+  https://docs.google.com/document/d/1GYQw3pgvhi7hqOVR-Ql629Q_8thbyHe8sSRy5voyt30
+source: gdoc
+tags:
+  - History
+  - Politics
 ---
 
 In the wake of the October 7th attack on Israel and Israel’s response, everyone seemed to agree that one side of the conflict was the epitome of evil, the reincarnation of the Nazis, with warfare in their blood and a pure unfiltered hatred of the enemy in their minds. The other side was a force for good, who just wanted peace and was doing the best they could in a difficult situation. The only problem is no one could agree which side was which.

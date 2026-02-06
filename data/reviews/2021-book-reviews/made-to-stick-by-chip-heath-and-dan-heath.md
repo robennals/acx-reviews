@@ -1,16 +1,20 @@
 ---
-title: "Made to Stick by Chip Heath and Dan Heath"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2021-book-reviews"
-contestName: "2021 Book Reviews"
+title: Made to Stick by Chip Heath and Dan Heath
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2021-book-reviews
+contestName: 2021 Book Reviews
 year: 2021
-publishedDate: "2026-02-06T07:21:29.571Z"
-slug: "made-to-stick-by-chip-heath-and-dan-heath"
+publishedDate: '2026-02-06T07:21:29.571Z'
+slug: made-to-stick-by-chip-heath-and-dan-heath
 wordCount: 3807
 readingTimeMinutes: 17
-originalUrl: "https://docs.google.com/document/d/1xexFJ7h0vULMDE7N77q_MIzXoerexfe_CqqGEL6hEoQ"
-source: "gdoc"
+originalUrl: >-
+  https://docs.google.com/document/d/1xexFJ7h0vULMDE7N77q_MIzXoerexfe_CqqGEL6hEoQ
+source: gdoc
+tags:
+  - Psychology
+  - Society
 ---
 
 "They Laughed When I Wrote This Book Review. But When They Woke Up in an Ice-Filled Bathtub..."

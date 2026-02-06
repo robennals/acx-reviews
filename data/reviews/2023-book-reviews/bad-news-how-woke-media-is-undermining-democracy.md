@@ -1,16 +1,20 @@
 ---
-title: "Bad News: How Woke Media is Undermining Democracy"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2023-book-reviews"
-contestName: "2023 Book Reviews"
+title: 'Bad News: How Woke Media is Undermining Democracy'
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2023-book-reviews
+contestName: 2023 Book Reviews
 year: 2023
-publishedDate: "2026-02-06T07:21:10.023Z"
-slug: "bad-news-how-woke-media-is-undermining-democracy"
+publishedDate: '2026-02-06T07:21:10.023Z'
+slug: bad-news-how-woke-media-is-undermining-democracy
 wordCount: 4249
 readingTimeMinutes: 19
-originalUrl: "https://docs.google.com/document/d/10CiEI7aDL2bMIdx7yayy3vlq0TJ8dO5LGnG7yIDPiw8"
-source: "gdoc"
+originalUrl: >-
+  https://docs.google.com/document/d/10CiEI7aDL2bMIdx7yayy3vlq0TJ8dO5LGnG7yIDPiw8
+source: gdoc
+tags:
+  - Politics
+  - Society
 ---
 
 Tony calls 911 twenty minutes before he dies. He tells the dispatcher that he’s schizophrenic and hasn’t been taking his medication. He says he’s afraid for his life. Then he hangs up the phone and runs into traffic.

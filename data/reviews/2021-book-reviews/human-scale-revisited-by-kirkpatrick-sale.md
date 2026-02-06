@@ -1,16 +1,20 @@
 ---
-title: "Human Scale Revisited by Kirkpatrick Sale"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2021-book-reviews"
-contestName: "2021 Book Reviews"
+title: Human Scale Revisited by Kirkpatrick Sale
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2021-book-reviews
+contestName: 2021 Book Reviews
 year: 2021
-publishedDate: "2026-02-06T07:21:29.570Z"
-slug: "human-scale-revisited-by-kirkpatrick-sale"
+publishedDate: '2026-02-06T07:21:29.570Z'
+slug: human-scale-revisited-by-kirkpatrick-sale
 wordCount: 5196
 readingTimeMinutes: 24
-originalUrl: "https://docs.google.com/document/d/1xexFJ7h0vULMDE7N77q_MIzXoerexfe_CqqGEL6hEoQ"
-source: "gdoc"
+originalUrl: >-
+  https://docs.google.com/document/d/1xexFJ7h0vULMDE7N77q_MIzXoerexfe_CqqGEL6hEoQ
+source: gdoc
+tags:
+  - Society
+  - Politics
 ---
 
 ### I

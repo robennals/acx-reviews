@@ -1,16 +1,20 @@
 ---
-title: "Piranesi by Susanna Clarke"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2024-book-reviews"
-contestName: "2024 Book Reviews"
+title: Piranesi by Susanna Clarke
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2024-book-reviews
+contestName: 2024 Book Reviews
 year: 2024
-publishedDate: "2026-02-06T16:48:20.713Z"
-slug: "piranesi-by-susanna-clarke"
+publishedDate: '2026-02-06T16:48:20.713Z'
+slug: piranesi-by-susanna-clarke
 wordCount: 5820
 readingTimeMinutes: 26
-originalUrl: "https://docs.google.com/document/d/1cp6iw5OEyDjnD_viZo-KL0Zv4jwQnMXtE4yIovfVAco"
-source: "gdoc"
+originalUrl: >-
+  https://docs.google.com/document/d/1cp6iw5OEyDjnD_viZo-KL0Zv4jwQnMXtE4yIovfVAco
+source: gdoc
+tags:
+  - Fiction
+  - Philosophy
 ---
 
 Susanna Clarke’s [Piranesi](https://www.bloomsbury.com/us/piranesi-9781635575637/) is a novel of magical realism. There are three reasons that the ACX crowd should be interested. First, it’s about reason versus naive religious belief. Second, it’s about good versus evil. And third, the novel is an adult post-traumatic response to C.S. Lewis’s Chronicles of Narnia.

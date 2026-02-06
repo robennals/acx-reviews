@@ -1,16 +1,20 @@
 ---
-title: "The Globe: How the Earth Became Round, by James Hannam"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2024-book-reviews"
-contestName: "2024 Book Reviews"
+title: 'The Globe: How the Earth Became Round, by James Hannam'
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2024-book-reviews
+contestName: 2024 Book Reviews
 year: 2024
-publishedDate: "2026-02-06T16:49:14.008Z"
-slug: "the-globe-how-the-earth-became-round-by-james-hannam"
+publishedDate: '2026-02-06T16:49:14.008Z'
+slug: the-globe-how-the-earth-became-round-by-james-hannam
 wordCount: 2786
 readingTimeMinutes: 13
-originalUrl: "https://docs.google.com/document/d/14qa47TJ_Vyerx4XNgTCIh7PUZ_TOgNcU_eHm5So_zo0"
-source: "gdoc"
+originalUrl: >-
+  https://docs.google.com/document/d/14qa47TJ_Vyerx4XNgTCIh7PUZ_TOgNcU_eHm5So_zo0
+source: gdoc
+tags:
+  - History
+  - Science
 ---
 
 We all know that the world is round; people have known this for thousands of years.  Why, even the ancient Greeks knew the world was round; Eratosthenes famously computed its circumference.  But – naïvely – it looks flat.  Presumably, people didn’t always know the world was round, and at some point they figured it out. Who figured it out?  How did the idea spread?  Who knew, when?  “The Globe: How the Earth Became Round” gives us an answer to this question, and it’s a disorienting one.

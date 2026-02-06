@@ -1,16 +1,20 @@
 ---
-title: "On the Bondage of the Will, by Martin Luther"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2024-book-reviews"
-contestName: "2024 Book Reviews"
+title: 'On the Bondage of the Will, by Martin Luther'
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2024-book-reviews
+contestName: 2024 Book Reviews
 year: 2024
-publishedDate: "2026-02-06T16:48:20.712Z"
-slug: "on-the-bondage-of-the-will-by-martin-luther"
+publishedDate: '2026-02-06T16:48:20.712Z'
+slug: on-the-bondage-of-the-will-by-martin-luther
 wordCount: 10041
 readingTimeMinutes: 45
-originalUrl: "https://docs.google.com/document/d/1cp6iw5OEyDjnD_viZo-KL0Zv4jwQnMXtE4yIovfVAco"
-source: "gdoc"
+originalUrl: >-
+  https://docs.google.com/document/d/1cp6iw5OEyDjnD_viZo-KL0Zv4jwQnMXtE4yIovfVAco
+source: gdoc
+tags:
+  - Religion
+  - Philosophy
 ---
 
 Today, I will be weighing in with my hot takes on a five hundred year old theological debate between Erasmus and Luther, with particular attention to Luther’s rejoinder to Erasmus. As a writer, Martin Luther was brilliant, a meticulous scholar, fairly witty, bombastically self-righteous, obnoxiously pedantic, and breathtakingly rude. These qualities are all on full display in this work.

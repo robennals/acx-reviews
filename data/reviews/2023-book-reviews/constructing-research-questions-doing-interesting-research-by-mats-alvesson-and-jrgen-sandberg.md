@@ -1,16 +1,22 @@
 ---
-title: "Constructing Research Questions: Doing Interesting Research” by Mats Alvesson and Jörgen Sandberg"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2023-book-reviews"
-contestName: "2023 Book Reviews"
+title: >-
+  Constructing Research Questions: Doing Interesting Research” by Mats Alvesson
+  and Jörgen Sandberg
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2023-book-reviews
+contestName: 2023 Book Reviews
 year: 2023
-publishedDate: "2026-02-06T07:21:10.027Z"
-slug: "constructing-research-questions-doing-interesting-research-by-mats-alvesson-and-jrgen-sandberg"
+publishedDate: '2026-02-06T07:21:10.027Z'
+slug: >-
+  constructing-research-questions-doing-interesting-research-by-mats-alvesson-and-jrgen-sandberg
 wordCount: 2276
 readingTimeMinutes: 11
-originalUrl: "https://docs.google.com/document/d/10CiEI7aDL2bMIdx7yayy3vlq0TJ8dO5LGnG7yIDPiw8"
-source: "gdoc"
+originalUrl: >-
+  https://docs.google.com/document/d/10CiEI7aDL2bMIdx7yayy3vlq0TJ8dO5LGnG7yIDPiw8
+source: gdoc
+tags:
+  - Science
 ---
 
 Against the dominance of gap-spotting in research

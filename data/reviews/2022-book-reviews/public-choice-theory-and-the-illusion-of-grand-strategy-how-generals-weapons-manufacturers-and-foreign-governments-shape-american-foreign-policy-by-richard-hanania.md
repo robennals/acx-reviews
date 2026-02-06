@@ -1,16 +1,21 @@
 ---
-title: "Public Choice Theory and the Illusion of Grand Strategy: How Generals, Weapons Manufacturers, and Foreign Governments Shape American Foreign Policy by Richard Hanania"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2022-book-reviews"
-contestName: "2022 Book Reviews"
+title: "Public Choice Theory and the Illusion of Grand Strategy: How Generals, Weapons Manufacturers, and Foreign Governments Shape American Foreign Policy\_by Richard Hanania"
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2022-book-reviews
+contestName: 2022 Book Reviews
 year: 2022
-publishedDate: "2026-02-06T07:23:14.487Z"
-slug: "public-choice-theory-and-the-illusion-of-grand-strategy-how-generals-weapons-manufacturers-and-foreign-governments-shape-american-foreign-policy-by-richard-hanania"
+publishedDate: '2026-02-06T07:23:14.487Z'
+slug: >-
+  public-choice-theory-and-the-illusion-of-grand-strategy-how-generals-weapons-manufacturers-and-foreign-governments-shape-american-foreign-policy-by-richard-hanania
 wordCount: 7035
 readingTimeMinutes: 32
-originalUrl: "https://docs.google.com/document/d/1kQUUJhv-MpLawby2j4zXLZPDG6ligWd5xpIjH8UmWdw"
-source: "gdoc"
+originalUrl: >-
+  https://docs.google.com/document/d/1kQUUJhv-MpLawby2j4zXLZPDG6ligWd5xpIjH8UmWdw
+source: gdoc
+tags:
+  - Politics
+  - Economics
 ---
 
 Richard Hanania details how a public choice model (imported from [public choice theory](https://www.google.com/url?q=https://en.wikipedia.org/wiki/Public_choice%23:~:text%3DPublic%2520choice%252C%2520or%2520public%2520choice,the%2520study%2520of%2520political%2520behavior.&sa=D&source=editors&ust=1770366184855345&usg=AOvVaw2d0CzuQiHRTJjvl3dmQLc2) in economics) can explain the United State’s incoherent foreign policy much better than the unitary actor model (imported from [rational choice theory](https://www.google.com/url?q=https://en.wikipedia.org/wiki/Rational_choice_theory&sa=D&source=editors&ust=1770366184855583&usg=AOvVaw1Ez0XT_0V4tr1jKmh9CiI1) in economics) that underlies the illusion of American [grand strategy](https://www.google.com/url?q=https://en.wikipedia.org/wiki/Grand_strategy&sa=D&source=editors&ust=1770366184855706&usg=AOvVaw3GfNXKYa1Iehu1i40e4d-8) in international relations (IR), in particular the dominant school of [realism](https://www.google.com/url?q=https://en.wikipedia.org/wiki/Realism_(international_relations)&sa=D&source=editors&ust=1770366184855845&usg=AOvVaw29kmQ7dtHKkiIhvWH_i7Q9). As the subtitle How Generals, Weapons Manufacturers, and Foreign Governments Shape American Foreign Policy suggests, American foreign policy is driven by special interest groups, which results in millions of deaths for no good reason.

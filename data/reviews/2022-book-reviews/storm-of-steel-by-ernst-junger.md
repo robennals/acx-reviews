@@ -1,16 +1,20 @@
 ---
-title: "Storm of Steel by Ernst Junger"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2022-book-reviews"
-contestName: "2022 Book Reviews"
+title: Storm of Steel by Ernst Junger
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2022-book-reviews
+contestName: 2022 Book Reviews
 year: 2022
-publishedDate: "2026-02-06T07:23:14.491Z"
-slug: "storm-of-steel-by-ernst-junger"
+publishedDate: '2026-02-06T07:23:14.491Z'
+slug: storm-of-steel-by-ernst-junger
 wordCount: 2441
 readingTimeMinutes: 11
-originalUrl: "https://docs.google.com/document/d/1kQUUJhv-MpLawby2j4zXLZPDG6ligWd5xpIjH8UmWdw"
-source: "gdoc"
+originalUrl: >-
+  https://docs.google.com/document/d/1kQUUJhv-MpLawby2j4zXLZPDG6ligWd5xpIjH8UmWdw
+source: gdoc
+tags:
+  - History
+  - Memoir
 ---
 
 Reading about the atrocities and misery of the 30 years war or Roman conquests feels very distant. It was horrible what people did to each other then, but those were strange people with strange ideas about religion and divine rule. Furthermore, in the zero-sum economy world before capitalism the army was pretty much the only way to go from rags to riches (but most likely die tryin’). World war I is more uncanny. People in early 20th century Western Europe lived in a literate [globalized](https://www.google.com/url?q=https://nn.wikiquote.org/wiki/The_inhabitant_of_London_could_order_by_telephone,_sipping_his_morning_tea_in_bed,_the_various_products_of_the_whole_earth&sa=D&source=editors&ust=1770366185374291&usg=AOvVaw3TxUTpF_sk4D6TPNYXtWQp) society with steadily growing economies. Yes, you could make a career in the military but no son of a slave could become [emperor](https://www.google.com/url?q=https://www.britannica.com/biography/Diocletian&sa=D&source=editors&ust=1770366185374637&usg=AOvVaw1TWHUyJQ3o3jBzfO2FDecD) by serving in the trenches. Even WWII feels more understandable as more of an existential struggle in a bleaker time. Yet in 1914 millions of young men cheerfully went out to kill young men very much like themselves and to die. Few were spared the feverish belligerence in 1914; “All my libido is for Austria-Hungary” Freud declared at the outbreak of WWI. To better understand the psychology of this seeming mass psychosis I have read one of the foremost war diaries/memoirs, Storm of steel.

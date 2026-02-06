@@ -1,16 +1,21 @@
 ---
-title: "Defenders of the Truth: The Sociobiology Debate by Ullica Segerstråle"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2021-book-reviews"
-contestName: "2021 Book Reviews"
+title: 'Defenders of the Truth: The Sociobiology Debate by Ullica Segerstråle'
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2021-book-reviews
+contestName: 2021 Book Reviews
 year: 2021
-publishedDate: "2026-02-06T07:21:29.564Z"
-slug: "defenders-of-the-truth-the-sociobiology-debate-by-ullica-segerstrle"
+publishedDate: '2026-02-06T07:21:29.564Z'
+slug: defenders-of-the-truth-the-sociobiology-debate-by-ullica-segerstrle
 wordCount: 3929
 readingTimeMinutes: 18
-originalUrl: "https://docs.google.com/document/d/1xexFJ7h0vULMDE7N77q_MIzXoerexfe_CqqGEL6hEoQ"
-source: "gdoc"
+originalUrl: >-
+  https://docs.google.com/document/d/1xexFJ7h0vULMDE7N77q_MIzXoerexfe_CqqGEL6hEoQ
+source: gdoc
+tags:
+  - Biology
+  - Science
+  - Society
 ---
 
 “The characters in my story are all defenders of the truth — it is just that they have different conceptions of where the truth lies.”

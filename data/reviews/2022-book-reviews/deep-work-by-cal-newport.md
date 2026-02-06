@@ -1,16 +1,20 @@
 ---
-title: "Deep Work by Cal Newport"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2022-book-reviews"
-contestName: "2022 Book Reviews"
+title: Deep Work by Cal Newport
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2022-book-reviews
+contestName: 2022 Book Reviews
 year: 2022
-publishedDate: "2026-02-06T07:24:08.698Z"
-slug: "deep-work-by-cal-newport"
+publishedDate: '2026-02-06T07:24:08.698Z'
+slug: deep-work-by-cal-newport
 wordCount: 2748
 readingTimeMinutes: 13
-originalUrl: "https://docs.google.com/document/d/1pRQbRbEUwSH_jm94PI_ij-88swat7vQ4iNaNp6gd39g"
-source: "gdoc"
+originalUrl: >-
+  https://docs.google.com/document/d/1pRQbRbEUwSH_jm94PI_ij-88swat7vQ4iNaNp6gd39g
+source: gdoc
+tags:
+  - Psychology
+  - Society
 ---
 
 Scott Alexander, Bryne Hobart and other writers are admired for their prolific ability to generate content with considered analysis. Coupled with this admiration is a lingering thought: but how?

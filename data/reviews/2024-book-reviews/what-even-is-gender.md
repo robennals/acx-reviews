@@ -1,16 +1,20 @@
 ---
-title: "What Even Is Gender?"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2024-book-reviews"
-contestName: "2024 Book Reviews"
+title: What Even Is Gender?
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2024-book-reviews
+contestName: 2024 Book Reviews
 year: 2024
-publishedDate: "2026-02-06T16:49:50.819Z"
-slug: "what-even-is-gender"
+publishedDate: '2026-02-06T16:49:50.819Z'
+slug: what-even-is-gender
 wordCount: 3689
 readingTimeMinutes: 17
-originalUrl: "https://docs.google.com/document/d/1Ki5XsE0jkxZtd2XAeyTAJw1ZjLh2Cu-matUYKAhA6-s"
-source: "gdoc"
+originalUrl: >-
+  https://docs.google.com/document/d/1Ki5XsE0jkxZtd2XAeyTAJw1ZjLh2Cu-matUYKAhA6-s
+source: gdoc
+tags:
+  - Society
+  - Philosophy
 ---
 
 Conspiracy theories are fun because of how they make everything fit together, and scratch the unbearable itch some of us get when there are little details of a narrative that just don’t make sense. The problem is they tend to have a few issues, like requiring one to posit expansive perfectly coordinated infosecurity, demanding inaccessible or running contrary to existing evidence, and generally making you look weird for believing them.

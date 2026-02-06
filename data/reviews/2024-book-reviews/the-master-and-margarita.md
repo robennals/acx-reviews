@@ -1,16 +1,20 @@
 ---
-title: "The Master and Margarita"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2024-book-reviews"
-contestName: "2024 Book Reviews"
+title: The Master and Margarita
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2024-book-reviews
+contestName: 2024 Book Reviews
 year: 2024
-publishedDate: "2026-02-06T16:49:14.010Z"
-slug: "the-master-and-margarita"
+publishedDate: '2026-02-06T16:49:14.010Z'
+slug: the-master-and-margarita
 wordCount: 2554
 readingTimeMinutes: 12
-originalUrl: "https://docs.google.com/document/d/14qa47TJ_Vyerx4XNgTCIh7PUZ_TOgNcU_eHm5So_zo0"
-source: "gdoc"
+originalUrl: >-
+  https://docs.google.com/document/d/14qa47TJ_Vyerx4XNgTCIh7PUZ_TOgNcU_eHm5So_zo0
+source: gdoc
+tags:
+  - Fiction
+  - Politics
 ---
 
 Most people will tell you that Mikhail Bulgakov’s The Master and Margarita is a scathing critique of Soviet culture. But they’re only half right.

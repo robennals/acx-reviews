@@ -1,16 +1,20 @@
 ---
-title: "Sense of Style, by Stephen Pinker"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2024-book-reviews"
-contestName: "2024 Book Reviews"
+title: 'Sense of Style, by Stephen Pinker'
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2024-book-reviews
+contestName: 2024 Book Reviews
 year: 2024
-publishedDate: "2026-02-06T16:48:56.663Z"
-slug: "sense-of-style-by-stephen-pinker"
+publishedDate: '2026-02-06T16:48:56.663Z'
+slug: sense-of-style-by-stephen-pinker
 wordCount: 3236
 readingTimeMinutes: 15
-originalUrl: "https://docs.google.com/document/d/1GYQw3pgvhi7hqOVR-Ql629Q_8thbyHe8sSRy5voyt30"
-source: "gdoc"
+originalUrl: >-
+  https://docs.google.com/document/d/1GYQw3pgvhi7hqOVR-Ql629Q_8thbyHe8sSRy5voyt30
+source: gdoc
+tags:
+  - Psychology
+  - Society
 ---
 
 If your 7th-grade experience looked anything like mine, you probably studied grammar rules. You structured five-paragraph essays. You memorized the [do's and don'ts of style guides](https://www.amazon.com/Elements-Style-Fourth-William-Strunk/dp/020530902X).

@@ -1,16 +1,19 @@
 ---
-title: "Deathbed Ballads"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2025-non-book-reviews"
-contestName: "2025 Non Book Reviews"
+title: Deathbed Ballads
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2025-non-book-reviews
+contestName: 2025 Non Book Reviews
 year: 2025
-publishedDate: "2026-02-06T16:57:48.926Z"
-slug: "deathbed-ballads"
+publishedDate: '2026-02-06T16:57:48.926Z'
+slug: deathbed-ballads
 wordCount: 14132
 readingTimeMinutes: 63
-originalUrl: "https://docs.google.com/document/d/1hjIUcKi-vIM9RGRZDWPRyUtzZLlVrpaY6Jy81iZVYi4"
-source: "gdoc"
+originalUrl: >-
+  https://docs.google.com/document/d/1hjIUcKi-vIM9RGRZDWPRyUtzZLlVrpaY6Jy81iZVYi4
+source: gdoc
+tags:
+  - History
 ---
 
 When I was a little kid, I had some recordings of the Dr. Demento Show that I listened to a great many times. Dr. Demento is a radio (and in recent years, internet) DJ who specialized in parody and novelty songs. Among other things, he’s widely credited with having a key role in bringing “Weird Al” Yankovic to national attention.

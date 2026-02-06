@@ -1,16 +1,20 @@
 ---
-title: "Years Of Lyndon Johnson"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2021-book-reviews"
-contestName: "2021 Book Reviews"
+title: Years Of Lyndon Johnson
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2021-book-reviews
+contestName: 2021 Book Reviews
 year: 2021
-publishedDate: "2026-02-05T15:44:15.948Z"
-slug: "years-of-lyndon-johnson"
+publishedDate: '2026-02-05T15:44:15.948Z'
+slug: years-of-lyndon-johnson
 wordCount: 2254
 readingTimeMinutes: 11
-originalUrl: "https://astralcodexten.substack.com/p/your-book-review-the-years-of-lyndon"
-source: "acx"
+originalUrl: 'https://astralcodexten.substack.com/p/your-book-review-the-years-of-lyndon'
+source: acx
+tags:
+  - History
+  - Politics
+  - Memoir
 ---
 
 [_This is the ninth of many finalists in the book review contest. It’s not by me - it’s by an ACX reader who will remain anonymous until after voting is done, to prevent their identity from influencing your decisions. I’ll be posting about two of these a week for several months. When you’ve read all of them, I’ll ask you to vote for your favorite, so remember which ones you liked. If you like reading these reviews, check out [point 3 here](https://astralcodexten.substack.com/p/open-thread-169) for a way you can help move the contest forward by reading lots more of them - SA_]

@@ -1,16 +1,20 @@
 ---
-title: "The Anti-Politics Machine by James Ferguson"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2022-book-reviews"
-contestName: "2022 Book Reviews"
+title: The Anti-Politics Machine by James Ferguson
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2022-book-reviews
+contestName: 2022 Book Reviews
 year: 2022
-publishedDate: "2026-02-06T07:22:32.817Z"
-slug: "the-anti-politics-machine-by-james-ferguson"
+publishedDate: '2026-02-06T07:22:32.817Z'
+slug: the-anti-politics-machine-by-james-ferguson
 wordCount: 4295
 readingTimeMinutes: 20
-originalUrl: "https://docs.google.com/document/d/100kMdSVFviZSSBvUyyEQPMNlvLptVQxHFD9i9wGuBWs"
-source: "gdoc"
+originalUrl: >-
+  https://docs.google.com/document/d/100kMdSVFviZSSBvUyyEQPMNlvLptVQxHFD9i9wGuBWs
+source: gdoc
+tags:
+  - Politics
+  - Economics
 ---
 
 Everyone familiar with Effective Altruism knows that “good intentions aren’t enough.”

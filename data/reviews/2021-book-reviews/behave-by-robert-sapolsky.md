@@ -1,16 +1,20 @@
 ---
-title: "Behave by Robert Sapolsky"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2021-book-reviews"
-contestName: "2021 Book Reviews"
+title: Behave by Robert Sapolsky
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2021-book-reviews
+contestName: 2021 Book Reviews
 year: 2021
-publishedDate: "2026-02-06T07:21:29.563Z"
-slug: "behave-by-robert-sapolsky"
+publishedDate: '2026-02-06T07:21:29.563Z'
+slug: behave-by-robert-sapolsky
 wordCount: 1075
 readingTimeMinutes: 5
-originalUrl: "https://docs.google.com/document/d/1xexFJ7h0vULMDE7N77q_MIzXoerexfe_CqqGEL6hEoQ"
-source: "gdoc"
+originalUrl: >-
+  https://docs.google.com/document/d/1xexFJ7h0vULMDE7N77q_MIzXoerexfe_CqqGEL6hEoQ
+source: gdoc
+tags:
+  - Biology
+  - Psychology
 ---
 
 I learned two things from this book - one from the first half, and one from the second. The first, Robert Sapolsky wanted me to learn. The second - I don't think so.

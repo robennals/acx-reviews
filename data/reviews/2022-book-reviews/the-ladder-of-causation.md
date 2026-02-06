@@ -1,16 +1,20 @@
 ---
-title: "The Ladder of Causation"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2022-book-reviews"
-contestName: "2022 Book Reviews"
+title: The Ladder of Causation
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2022-book-reviews
+contestName: 2022 Book Reviews
 year: 2022
-publishedDate: "2026-02-06T07:22:32.819Z"
-slug: "the-ladder-of-causation"
+publishedDate: '2026-02-06T07:22:32.819Z'
+slug: the-ladder-of-causation
 wordCount: 8954
 readingTimeMinutes: 40
-originalUrl: "https://docs.google.com/document/d/100kMdSVFviZSSBvUyyEQPMNlvLptVQxHFD9i9wGuBWs"
-source: "gdoc"
+originalUrl: >-
+  https://docs.google.com/document/d/100kMdSVFviZSSBvUyyEQPMNlvLptVQxHFD9i9wGuBWs
+source: gdoc
+tags:
+  - Science
+  - Philosophy
 ---
 
 Pearl was once all for a purely probabilistic model of causality. Then one day he was climbing the ladder to his mezzanine henhouse (Jews have to raise their own hens because Jews), one hook broke and he fell down banging his head badly on the floor. It was reported that, during the trip to the hospital, he grumbled continuously half-unconscious “THE LADDER, THE LADDAHER…” He was kept in intensive care for one week. On the morning of the seventh day, he woke up and stood. The nurse got mad, put him back down on the bed and called the doctors. All the doctors came around him, who was still on the bed but had raised his back and was sitting against the headboard. He looked at them wearing his typical sly smile. The doctors asked how he felt, and thus he spoke: “THE LADDER IS THE CAUSE. THE CAUSE IS THE LADDER. ONLY AT THE TOP OF THE LADDER THE EFFECT SUCCEEDS THE CAUSE. THE CAUSE IS AT THE TOP OF THE LADDER. THE LADDER IS A LADDER OF CAUSATION.”

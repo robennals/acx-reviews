@@ -1,16 +1,20 @@
 ---
-title: "The Structure of Scientific Revolutions by Thomas Kuhn"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2024-book-reviews"
-contestName: "2024 Book Reviews"
+title: The Structure of Scientific Revolutions by Thomas Kuhn
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2024-book-reviews
+contestName: 2024 Book Reviews
 year: 2024
-publishedDate: "2026-02-06T16:49:50.815Z"
-slug: "the-structure-of-scientific-revolutions-by-thomas-kuhn"
+publishedDate: '2026-02-06T16:49:50.815Z'
+slug: the-structure-of-scientific-revolutions-by-thomas-kuhn
 wordCount: 8097
 readingTimeMinutes: 36
-originalUrl: "https://docs.google.com/document/d/1Ki5XsE0jkxZtd2XAeyTAJw1ZjLh2Cu-matUYKAhA6-s"
-source: "gdoc"
+originalUrl: >-
+  https://docs.google.com/document/d/1Ki5XsE0jkxZtd2XAeyTAJw1ZjLh2Cu-matUYKAhA6-s
+source: gdoc
+tags:
+  - Science
+  - Philosophy
 ---
 
 ## I. Preliminaries

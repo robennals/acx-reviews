@@ -1,16 +1,20 @@
 ---
-title: "Feed by M.T. Anderson"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2021-book-reviews"
-contestName: "2021 Book Reviews"
+title: Feed by M.T. Anderson
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2021-book-reviews
+contestName: 2021 Book Reviews
 year: 2021
-publishedDate: "2026-02-06T07:21:29.567Z"
-slug: "feed-by-mt-anderson"
+publishedDate: '2026-02-06T07:21:29.567Z'
+slug: feed-by-mt-anderson
 wordCount: 882
 readingTimeMinutes: 4
-originalUrl: "https://docs.google.com/document/d/1xexFJ7h0vULMDE7N77q_MIzXoerexfe_CqqGEL6hEoQ"
-source: "gdoc"
+originalUrl: >-
+  https://docs.google.com/document/d/1xexFJ7h0vULMDE7N77q_MIzXoerexfe_CqqGEL6hEoQ
+source: gdoc
+tags:
+  - Fiction
+  - Technology
 ---
 
 M.T. Anderson admits Feed is more contemporary allegory than forecast for the future.1 The novel succeeds in illustrating the threats mass media, technology, and Big Corp pose to independent thought and the longevity of the human species and while it may not thoroughly discuss underlying causes, it certainly does nail the symptoms: the destruction of the family unit, the extension of childhood into stillborn adulthood, the pervasiveness of ironic language, the breeding of people as consumers through schooling and media, the ecologically intertwined world war, and the mechanical replacement and subsequent atrophy of organic limbs. Published in 2002, before Twitter, TikTok, and YouTube, its concerns have, unfortunately, only grown more relevant today and with Elon Musk pursuing Neuralink, the "feed" itself is not even allegory anymore but literal near future reality.

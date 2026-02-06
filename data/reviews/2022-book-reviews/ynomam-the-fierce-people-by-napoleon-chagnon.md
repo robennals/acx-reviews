@@ -1,16 +1,20 @@
 ---
-title: "Yąnomamö: The Fierce People by Napoleon Chagnon"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2022-book-reviews"
-contestName: "2022 Book Reviews"
+title: 'Yąnomamö: The Fierce People by Napoleon Chagnon'
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2022-book-reviews
+contestName: 2022 Book Reviews
 year: 2022
-publishedDate: "2026-02-06T07:21:54.185Z"
-slug: "ynomam-the-fierce-people-by-napoleon-chagnon"
+publishedDate: '2026-02-06T07:21:54.185Z'
+slug: ynomam-the-fierce-people-by-napoleon-chagnon
 wordCount: 4049
 readingTimeMinutes: 18
-originalUrl: "https://docs.google.com/document/d/1hFzjXliCAWjvheY-8Qd2fhbF79LnX0Xg6R9eqk9yIyI"
-source: "gdoc"
+originalUrl: >-
+  https://docs.google.com/document/d/1hFzjXliCAWjvheY-8Qd2fhbF79LnX0Xg6R9eqk9yIyI
+source: gdoc
+tags:
+  - Society
+  - Biology
 ---
 
 I first heard of Napoleon Chagnon’s 1968 Yąnomamö: The Fierce People because of the controversy surrounding it.

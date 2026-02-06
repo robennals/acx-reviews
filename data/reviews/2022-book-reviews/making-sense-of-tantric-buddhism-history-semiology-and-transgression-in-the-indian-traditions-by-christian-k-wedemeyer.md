@@ -1,16 +1,23 @@
 ---
-title: "Making Sense of Tantric Buddhism: History, Semiology, and Transgression in the Indian Traditions by Christian K. Wedemeyer"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2022-book-reviews"
-contestName: "2022 Book Reviews"
+title: >-
+  Making Sense of Tantric Buddhism: History, Semiology, and Transgression in the
+  Indian Traditions by Christian K. Wedemeyer
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2022-book-reviews
+contestName: 2022 Book Reviews
 year: 2022
-publishedDate: "2026-02-06T07:23:14.479Z"
-slug: "making-sense-of-tantric-buddhism-history-semiology-and-transgression-in-the-indian-traditions-by-christian-k-wedemeyer"
+publishedDate: '2026-02-06T07:23:14.479Z'
+slug: >-
+  making-sense-of-tantric-buddhism-history-semiology-and-transgression-in-the-indian-traditions-by-christian-k-wedemeyer
 wordCount: 5818
 readingTimeMinutes: 26
-originalUrl: "https://docs.google.com/document/d/1kQUUJhv-MpLawby2j4zXLZPDG6ligWd5xpIjH8UmWdw"
-source: "gdoc"
+originalUrl: >-
+  https://docs.google.com/document/d/1kQUUJhv-MpLawby2j4zXLZPDG6ligWd5xpIjH8UmWdw
+source: gdoc
+tags:
+  - Religion
+  - History
 ---
 
 ## I. Three Narratives of Tantra

@@ -1,16 +1,19 @@
 ---
-title: "In Search of Lost Time by Marcel Proust"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2024-book-reviews"
-contestName: "2024 Book Reviews"
+title: In Search of Lost Time by Marcel Proust
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2024-book-reviews
+contestName: 2024 Book Reviews
 year: 2024
-publishedDate: "2026-02-06T16:47:49.311Z"
-slug: "in-search-of-lost-time-by-marcel-proust"
+publishedDate: '2026-02-06T16:47:49.311Z'
+slug: in-search-of-lost-time-by-marcel-proust
 wordCount: 2797
 readingTimeMinutes: 13
-originalUrl: "https://docs.google.com/document/d/1QiotH3aGFgNLGqsIHTK_Plm_gem2E4l2C2ctyGJd0jY"
-source: "gdoc"
+originalUrl: >-
+  https://docs.google.com/document/d/1QiotH3aGFgNLGqsIHTK_Plm_gem2E4l2C2ctyGJd0jY
+source: gdoc
+tags:
+  - Fiction
 ---
 
 You know Marcel Proust’s In Search of Lost Time is a great book because however hard however many smart people try, no one can explain why.

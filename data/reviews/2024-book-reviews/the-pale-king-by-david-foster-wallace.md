@@ -1,16 +1,19 @@
 ---
-title: "The Pale King by David Foster Wallace"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2024-book-reviews"
-contestName: "2024 Book Reviews"
+title: "The Pale King\_by David Foster Wallace"
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2024-book-reviews
+contestName: 2024 Book Reviews
 year: 2024
-publishedDate: "2026-02-06T16:49:50.813Z"
-slug: "the-pale-king-by-david-foster-wallace"
+publishedDate: '2026-02-06T16:49:50.813Z'
+slug: the-pale-king-by-david-foster-wallace
 wordCount: 6395
 readingTimeMinutes: 29
-originalUrl: "https://docs.google.com/document/d/1Ki5XsE0jkxZtd2XAeyTAJw1ZjLh2Cu-matUYKAhA6-s"
-source: "gdoc"
+originalUrl: >-
+  https://docs.google.com/document/d/1Ki5XsE0jkxZtd2XAeyTAJw1ZjLh2Cu-matUYKAhA6-s
+source: gdoc
+tags:
+  - Fiction
 ---
 
 For the longest time, I avoided reading The Pale King. It wasn’t the style—in places thick with the author’s characteristic footnotes,[1](#h.ozxmi317vmci) sentences that run for pages, and spasms of dense technical language. Nor was it the subject matter—the book is set at an IRS Center and tussles with postmodernism. Nor the themes, one of which concerns the existential importance of boredom, which the book, at times, takes pains to exemplify.

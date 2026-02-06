@@ -1,16 +1,24 @@
 ---
-title: "More Work for Mother: The Ironies of Household Technology from the Open Hearth to the Microwave by Ruth Schwartz Cowan"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2022-book-reviews"
-contestName: "2022 Book Reviews"
+title: >-
+  More Work for Mother: The Ironies of Household Technology from the Open Hearth
+  to the Microwave by Ruth Schwartz Cowan
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2022-book-reviews
+contestName: 2022 Book Reviews
 year: 2022
-publishedDate: "2026-02-06T07:23:14.484Z"
-slug: "more-work-for-mother-the-ironies-of-household-technology-from-the-open-hearth-to-the-microwave-by-ruth-schwartz-cowan"
+publishedDate: '2026-02-06T07:23:14.484Z'
+slug: >-
+  more-work-for-mother-the-ironies-of-household-technology-from-the-open-hearth-to-the-microwave-by-ruth-schwartz-cowan
 wordCount: 3869
 readingTimeMinutes: 18
-originalUrl: "https://docs.google.com/document/d/1kQUUJhv-MpLawby2j4zXLZPDG6ligWd5xpIjH8UmWdw"
-source: "gdoc"
+originalUrl: >-
+  https://docs.google.com/document/d/1kQUUJhv-MpLawby2j4zXLZPDG6ligWd5xpIjH8UmWdw
+source: gdoc
+tags:
+  - History
+  - Technology
+  - Society
 ---
 
 ## Technology as Handmaiden and Liberator

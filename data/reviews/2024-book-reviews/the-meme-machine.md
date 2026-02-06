@@ -1,16 +1,20 @@
 ---
-title: "The Meme Machine"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2024-book-reviews"
-contestName: "2024 Book Reviews"
+title: The Meme Machine
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2024-book-reviews
+contestName: 2024 Book Reviews
 year: 2024
-publishedDate: "2026-02-06T16:49:14.010Z"
-slug: "the-meme-machine"
+publishedDate: '2026-02-06T16:49:14.010Z'
+slug: the-meme-machine
 wordCount: 13783
 readingTimeMinutes: 62
-originalUrl: "https://docs.google.com/document/d/14qa47TJ_Vyerx4XNgTCIh7PUZ_TOgNcU_eHm5So_zo0"
-source: "gdoc"
+originalUrl: >-
+  https://docs.google.com/document/d/14qa47TJ_Vyerx4XNgTCIh7PUZ_TOgNcU_eHm5So_zo0
+source: gdoc
+tags:
+  - Science
+  - Society
 ---
 
 We all know memes. They’re the funny (and frequently not so funny) pictures of cats, socially awkward penguins, Wojaks and Bad Luck Brians that go viral on our message boards and social media feeds.

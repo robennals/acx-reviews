@@ -1,16 +1,19 @@
 ---
-title: "Scientific Peer Review - Umbilical Cord or Corduroy Umbrella?"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2025-non-book-reviews"
-contestName: "2025 Non Book Reviews"
+title: Scientific Peer Review - Umbilical Cord or Corduroy Umbrella?
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2025-non-book-reviews
+contestName: 2025 Non Book Reviews
 year: 2025
-publishedDate: "2026-02-06T16:55:03.486Z"
-slug: "scientific-peer-review-umbilical-cord-or-corduroy-umbrella"
+publishedDate: '2026-02-06T16:55:03.486Z'
+slug: scientific-peer-review-umbilical-cord-or-corduroy-umbrella
 wordCount: 3357
 readingTimeMinutes: 15
-originalUrl: "https://docs.google.com/document/d/1a3q0Z2tuPLLbDeg5-pfEffkajGjrfPDwE7ZMs7uaWQs"
-source: "gdoc"
+originalUrl: >-
+  https://docs.google.com/document/d/1a3q0Z2tuPLLbDeg5-pfEffkajGjrfPDwE7ZMs7uaWQs
+source: gdoc
+tags:
+  - Science
 ---
 
 We are set to be flooded with AI-generated promotional text that masquerades as science. In principle, scientific peer review should protect us. But current peer review is like a corduroy umbrella – cumbersome and ineffective. Is it hopelessly flawed? Here I suggest what is required to turn it into something akin to an umbilical cord - a device that filters out contaminants and passes nourishment through to the next generation

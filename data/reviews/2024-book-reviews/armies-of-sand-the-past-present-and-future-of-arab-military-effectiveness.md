@@ -1,16 +1,20 @@
 ---
-title: "Armies of Sand: The Past, Present, and Future of Arab Military Effectiveness"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2024-book-reviews"
-contestName: "2024 Book Reviews"
+title: 'Armies of Sand: The Past, Present, and Future of Arab Military Effectiveness'
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2024-book-reviews
+contestName: 2024 Book Reviews
 year: 2024
-publishedDate: "2026-02-06T16:47:15.596Z"
-slug: "armies-of-sand-the-past-present-and-future-of-arab-military-effectiveness"
+publishedDate: '2026-02-06T16:47:15.596Z'
+slug: armies-of-sand-the-past-present-and-future-of-arab-military-effectiveness
 wordCount: 4630
 readingTimeMinutes: 21
-originalUrl: "https://docs.google.com/document/d/1AXmWgSbh_TFsoZuApSCSEoz57yn93CM5YYhtaO_s4W4"
-source: "gdoc"
+originalUrl: >-
+  https://docs.google.com/document/d/1AXmWgSbh_TFsoZuApSCSEoz57yn93CM5YYhtaO_s4W4
+source: gdoc
+tags:
+  - History
+  - Politics
 ---
 
 I have always loved non-fiction books that take a specific topic that I know little about and in a detailed way break down everything there is to say about that subject. Armies of Sand by Kenneth M. Pollack is one such book and focuses on the military performance of Arab armies since World War 2, more specifically why those performances have had so little success. In an exhaustive way the author goes through wars you’ve probably heard of (the many wars between Israel and its neighbors, Gulf War and Iran/Iraq War) and those you may be less familiar with (Gaddafi invaded Chad at one point and it did not go well). For me these case studies alone were worth the price of admission. For example, if you’ve ever wondered what happened in the Iran/Iraq War, he gives a pretty detailed breakdown. Using these case studies, he tests out different possible explanations for why certain military shortcomings keep happening. Ultimately, he argues that culture is the best-fitting explanation. The book opens with a dramatic retelling of the 1967 Six Day War. Israel was attacked on all sides by its neighbors Egypt, Jordan, and Syria. These countries fielded significantly more men, tanks, armored vehicles, and airplanes.

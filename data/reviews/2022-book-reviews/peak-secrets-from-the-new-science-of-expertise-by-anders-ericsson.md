@@ -1,16 +1,20 @@
 ---
-title: "Peak: Secrets from the New Science of Expertise by Anders Ericsson"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2022-book-reviews"
-contestName: "2022 Book Reviews"
+title: 'Peak: Secrets from the New Science of Expertise by Anders Ericsson'
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2022-book-reviews
+contestName: 2022 Book Reviews
 year: 2022
-publishedDate: "2026-02-06T07:23:14.486Z"
-slug: "peak-secrets-from-the-new-science-of-expertise-by-anders-ericsson"
+publishedDate: '2026-02-06T07:23:14.486Z'
+slug: peak-secrets-from-the-new-science-of-expertise-by-anders-ericsson
 wordCount: 3197
 readingTimeMinutes: 15
-originalUrl: "https://docs.google.com/document/d/1kQUUJhv-MpLawby2j4zXLZPDG6ligWd5xpIjH8UmWdw"
-source: "gdoc"
+originalUrl: >-
+  https://docs.google.com/document/d/1kQUUJhv-MpLawby2j4zXLZPDG6ligWd5xpIjH8UmWdw
+source: gdoc
+tags:
+  - Psychology
+  - Science
 ---
 
 Something like 50% of the books on the pop-psychology shelf of your local bookstore have a message like this: The greats in any field didn't get there mainly by being naturally gifted; they got there by practicing a lot. Therefore, if you want to get a lot better at what you do, you just need to work hard and practice too.

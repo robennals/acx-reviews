@@ -1,16 +1,20 @@
 ---
-title: "Anthropic Bias by Nick Bostrom"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2022-book-reviews"
-contestName: "2022 Book Reviews"
+title: Anthropic Bias by Nick Bostrom
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2022-book-reviews
+contestName: 2022 Book Reviews
 year: 2022
-publishedDate: "2026-02-06T07:24:08.695Z"
-slug: "anthropic-bias-by-nick-bostrom"
+publishedDate: '2026-02-06T07:24:08.695Z'
+slug: anthropic-bias-by-nick-bostrom
 wordCount: 4252
 readingTimeMinutes: 19
-originalUrl: "https://docs.google.com/document/d/1pRQbRbEUwSH_jm94PI_ij-88swat7vQ4iNaNp6gd39g"
-source: "gdoc"
+originalUrl: >-
+  https://docs.google.com/document/d/1pRQbRbEUwSH_jm94PI_ij-88swat7vQ4iNaNp6gd39g
+source: gdoc
+tags:
+  - Philosophy
+  - Science
 ---
 
 Recently, I saw a meme that included the new-to-me phrase “anthropic reasoning.” A reasonable person would have kept scrolling. Instead, I read [Anthropic Bias](https://www.google.com/url?q=https://www.anthropic-principle.com/q%3Dbook/table_of_contents/&sa=D&source=editors&ust=1770366233102902&usg=AOvVaw3PEI5xb6PRfn4YA1EcXTVH) by Nick Bostrom. For posterity, the meme that [nerd-sniped](https://www.google.com/url?q=https://xkcd.com/356/&sa=D&source=editors&ust=1770366233103002&usg=AOvVaw2xjabRKQi1-HcR3MjNX32B) me was:

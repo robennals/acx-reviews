@@ -1,16 +1,20 @@
 ---
-title: "The Drum Major Instinct"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2025-non-book-reviews"
-contestName: "2025 Non Book Reviews"
+title: The Drum Major Instinct
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2025-non-book-reviews
+contestName: 2025 Non Book Reviews
 year: 2025
-publishedDate: "2026-02-06T16:55:59.395Z"
-slug: "the-drum-major-instinct"
+publishedDate: '2026-02-06T16:55:59.395Z'
+slug: the-drum-major-instinct
 wordCount: 4515
 readingTimeMinutes: 21
-originalUrl: "https://docs.google.com/document/d/1jYVJFIz5-aMi0LCgsC9AN6BncJDNVGaMU37QmwZ1vzA"
-source: "gdoc"
+originalUrl: >-
+  https://docs.google.com/document/d/1jYVJFIz5-aMi0LCgsC9AN6BncJDNVGaMU37QmwZ1vzA
+source: gdoc
+tags:
+  - Religion
+  - History
 ---
 
 During Martin Luther King’s funeral, nationally televised from the Ebenezer Baptist Church, a eulogizer explained what King would have wanted at his funeral. The eulogizer starts by saying that King wouldn’t have wanted a long eulogy, and that he wouldn’t have wanted mentions of his Nobel prize or his doctorate in systematic theology. What King really would’ve wanted, the eulogizer continues, was for “somebody to mention that Martin Luther King Jr. tried to give his life serving others..  for somebody to say that Martin Luther King Jr. tried to love somebody.” He would’ve wanted somebody to mention that he tried to feed the hungry and clothe the naked. The eulogy ultimately describes King as a drum major for justice, for peace, and for righteousness, and closes by saying that “all of the other shallow things will not matter.” The eulogizer spoke powerfully, with a deep, commanding voice that rolled like thunder across plains. It’s difficult not to be moved when you hear a recording, even more than 50 years removed from the event. And we can be pretty confident that this was indeed what King would have wanted said at his funeral, because the eulogy itself was a recording of King, taken from a sermon given two months earlier by King at that very same pulpit in Ebenezer Baptist Church. [1]

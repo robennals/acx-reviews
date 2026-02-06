@@ -77,6 +77,7 @@ function scanReviews(): Review[] {
           originalUrl: data.originalUrl,
           imageUrl: data.imageUrl,
           source: data.source || 'gdoc',
+          tags: data.tags || [],
         };
 
         reviews.push(review);

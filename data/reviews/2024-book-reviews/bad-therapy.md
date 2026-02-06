@@ -1,16 +1,19 @@
 ---
-title: "Bad Therapy"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2024-book-reviews"
-contestName: "2024 Book Reviews"
+title: Bad Therapy
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2024-book-reviews
+contestName: 2024 Book Reviews
 year: 2024
-publishedDate: "2026-02-06T16:47:15.597Z"
-slug: "bad-therapy"
+publishedDate: '2026-02-06T16:47:15.597Z'
+slug: bad-therapy
 wordCount: 7894
 readingTimeMinutes: 36
-originalUrl: "https://docs.google.com/document/d/1AXmWgSbh_TFsoZuApSCSEoz57yn93CM5YYhtaO_s4W4"
-source: "gdoc"
+originalUrl: >-
+  https://docs.google.com/document/d/1AXmWgSbh_TFsoZuApSCSEoz57yn93CM5YYhtaO_s4W4
+source: gdoc
+tags:
+  - Psychology
 ---
 
 [I- Prologue](#h.vvgbazi9diiv)

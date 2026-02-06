@@ -1,16 +1,20 @@
 ---
-title: "The Four Hour Workweek"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2024-book-reviews"
-contestName: "2024 Book Reviews"
+title: The Four Hour Workweek
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2024-book-reviews
+contestName: 2024 Book Reviews
 year: 2024
-publishedDate: "2026-02-06T16:49:14.007Z"
-slug: "the-four-hour-workweek"
+publishedDate: '2026-02-06T16:49:14.007Z'
+slug: the-four-hour-workweek
 wordCount: 4409
 readingTimeMinutes: 20
-originalUrl: "https://docs.google.com/document/d/14qa47TJ_Vyerx4XNgTCIh7PUZ_TOgNcU_eHm5So_zo0"
-source: "gdoc"
+originalUrl: >-
+  https://docs.google.com/document/d/14qa47TJ_Vyerx4XNgTCIh7PUZ_TOgNcU_eHm5So_zo0
+source: gdoc
+tags:
+  - Economics
+  - Society
 ---
 
 Under-promise and over-deliver is a good way to operate, I’ve found. Manage the expectations of your customers, so that when things go wrong you’ll be okay and when they go right you’ll get the credit.

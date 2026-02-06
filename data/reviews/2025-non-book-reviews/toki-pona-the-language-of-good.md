@@ -1,16 +1,20 @@
 ---
-title: "Toki Pona - The Language of Good"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2025-non-book-reviews"
-contestName: "2025 Non Book Reviews"
+title: Toki Pona - The Language of Good
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2025-non-book-reviews
+contestName: 2025 Non Book Reviews
 year: 2025
-publishedDate: "2026-02-06T16:55:59.406Z"
-slug: "toki-pona-the-language-of-good"
+publishedDate: '2026-02-06T16:55:59.406Z'
+slug: toki-pona-the-language-of-good
 wordCount: 3253
 readingTimeMinutes: 15
-originalUrl: "https://docs.google.com/document/d/1jYVJFIz5-aMi0LCgsC9AN6BncJDNVGaMU37QmwZ1vzA"
-source: "gdoc"
+originalUrl: >-
+  https://docs.google.com/document/d/1jYVJFIz5-aMi0LCgsC9AN6BncJDNVGaMU37QmwZ1vzA
+source: gdoc
+tags:
+  - Society
+  - Philosophy
 ---
 
 Scott Alexander: Alice, hello!

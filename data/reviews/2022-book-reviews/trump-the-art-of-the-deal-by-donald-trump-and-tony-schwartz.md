@@ -1,16 +1,20 @@
 ---
-title: "Trump: The Art of the Deal by Donald Trump and Tony Schwartz"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2022-book-reviews"
-contestName: "2022 Book Reviews"
+title: 'Trump: The Art of the Deal by Donald Trump and Tony Schwartz'
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2022-book-reviews
+contestName: 2022 Book Reviews
 year: 2022
-publishedDate: "2026-02-06T07:21:54.176Z"
-slug: "trump-the-art-of-the-deal-by-donald-trump-and-tony-schwartz"
+publishedDate: '2026-02-06T07:21:54.176Z'
+slug: trump-the-art-of-the-deal-by-donald-trump-and-tony-schwartz
 wordCount: 6224
 readingTimeMinutes: 28
-originalUrl: "https://docs.google.com/document/d/1hFzjXliCAWjvheY-8Qd2fhbF79LnX0Xg6R9eqk9yIyI"
-source: "gdoc"
+originalUrl: >-
+  https://docs.google.com/document/d/1hFzjXliCAWjvheY-8Qd2fhbF79LnX0Xg6R9eqk9yIyI
+source: gdoc
+tags:
+  - Politics
+  - Memoir
 ---
 
 This book is the first autobiography written by Donald J. Trump, ghostwritten by Tony Schwartz, published in 1987. It provides some insight into Trump's real estate deals and his forays to the world of gambling and sports.

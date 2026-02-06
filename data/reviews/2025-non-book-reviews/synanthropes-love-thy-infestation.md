@@ -1,16 +1,20 @@
 ---
-title: "Synanthropes - Love thy infestation"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2025-non-book-reviews"
-contestName: "2025 Non Book Reviews"
+title: Synanthropes - Love thy infestation
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2025-non-book-reviews
+contestName: 2025 Non Book Reviews
 year: 2025
-publishedDate: "2026-02-06T16:55:03.487Z"
-slug: "synanthropes-love-thy-infestation"
+publishedDate: '2026-02-06T16:55:03.487Z'
+slug: synanthropes-love-thy-infestation
 wordCount: 2065
 readingTimeMinutes: 10
-originalUrl: "https://docs.google.com/document/d/1a3q0Z2tuPLLbDeg5-pfEffkajGjrfPDwE7ZMs7uaWQs"
-source: "gdoc"
+originalUrl: >-
+  https://docs.google.com/document/d/1a3q0Z2tuPLLbDeg5-pfEffkajGjrfPDwE7ZMs7uaWQs
+source: gdoc
+tags:
+  - Biology
+  - Philosophy
 ---
 
 Hieronymus Bosch, The Garden of Earthly Delights, oil on oak panels, circa 1450–1516

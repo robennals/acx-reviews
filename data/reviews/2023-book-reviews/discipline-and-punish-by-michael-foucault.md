@@ -1,16 +1,20 @@
 ---
-title: "Discipline and Punish by Michael Foucault"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2023-book-reviews"
-contestName: "2023 Book Reviews"
+title: Discipline and Punish by Michael Foucault
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2023-book-reviews
+contestName: 2023 Book Reviews
 year: 2023
-publishedDate: "2026-02-06T07:21:10.027Z"
-slug: "discipline-and-punish-by-michael-foucault"
+publishedDate: '2026-02-06T07:21:10.027Z'
+slug: discipline-and-punish-by-michael-foucault
 wordCount: 3749
 readingTimeMinutes: 17
-originalUrl: "https://docs.google.com/document/d/10CiEI7aDL2bMIdx7yayy3vlq0TJ8dO5LGnG7yIDPiw8"
-source: "gdoc"
+originalUrl: >-
+  https://docs.google.com/document/d/10CiEI7aDL2bMIdx7yayy3vlq0TJ8dO5LGnG7yIDPiw8
+source: gdoc
+tags:
+  - Philosophy
+  - History
 ---
 
 ## I. PROBABILISTIC JUSTICE

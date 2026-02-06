@@ -1,16 +1,20 @@
 ---
-title: "I See Satan Fall Like Lightning by René Girard"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2022-book-reviews"
-contestName: "2022 Book Reviews"
+title: I See Satan Fall Like Lightning by René Girard
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2022-book-reviews
+contestName: 2022 Book Reviews
 year: 2022
-publishedDate: "2026-02-06T07:23:14.475Z"
-slug: "i-see-satan-fall-like-lightning-by-ren-girard"
+publishedDate: '2026-02-06T07:23:14.475Z'
+slug: i-see-satan-fall-like-lightning-by-ren-girard
 wordCount: 5590
 readingTimeMinutes: 25
-originalUrl: "https://docs.google.com/document/d/1kQUUJhv-MpLawby2j4zXLZPDG6ligWd5xpIjH8UmWdw"
-source: "gdoc"
+originalUrl: >-
+  https://docs.google.com/document/d/1kQUUJhv-MpLawby2j4zXLZPDG6ligWd5xpIjH8UmWdw
+source: gdoc
+tags:
+  - Religion
+  - Philosophy
 ---
 
 ## I

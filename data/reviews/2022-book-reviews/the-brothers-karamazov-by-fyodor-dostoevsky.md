@@ -1,16 +1,20 @@
 ---
-title: "The Brothers Karamazov by Fyodor Dostoevsky’"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2022-book-reviews"
-contestName: "2022 Book Reviews"
+title: The Brothers Karamazov by Fyodor Dostoevsky’
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2022-book-reviews
+contestName: 2022 Book Reviews
 year: 2022
-publishedDate: "2026-02-06T07:22:32.820Z"
-slug: "the-brothers-karamazov-by-fyodor-dostoevsky"
+publishedDate: '2026-02-06T07:22:32.820Z'
+slug: the-brothers-karamazov-by-fyodor-dostoevsky
 wordCount: 15354
 readingTimeMinutes: 69
-originalUrl: "https://docs.google.com/document/d/100kMdSVFviZSSBvUyyEQPMNlvLptVQxHFD9i9wGuBWs"
-source: "gdoc"
+originalUrl: >-
+  https://docs.google.com/document/d/100kMdSVFviZSSBvUyyEQPMNlvLptVQxHFD9i9wGuBWs
+source: gdoc
+tags:
+  - Fiction
+  - Philosophy
 ---
 
 Down Olympia’s great height,

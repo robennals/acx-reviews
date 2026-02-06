@@ -1,16 +1,20 @@
 ---
-title: "Sir Gawain and The Green Knight"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2024-book-reviews"
-contestName: "2024 Book Reviews"
+title: Sir Gawain and The Green Knight
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2024-book-reviews
+contestName: 2024 Book Reviews
 year: 2024
-publishedDate: "2026-02-06T16:48:56.663Z"
-slug: "sir-gawain-and-the-green-knight"
+publishedDate: '2026-02-06T16:48:56.663Z'
+slug: sir-gawain-and-the-green-knight
 wordCount: 2995
 readingTimeMinutes: 14
-originalUrl: "https://docs.google.com/document/d/1GYQw3pgvhi7hqOVR-Ql629Q_8thbyHe8sSRy5voyt30"
-source: "gdoc"
+originalUrl: >-
+  https://docs.google.com/document/d/1GYQw3pgvhi7hqOVR-Ql629Q_8thbyHe8sSRy5voyt30
+source: gdoc
+tags:
+  - Fiction
+  - History
 ---
 
 Every time I go outside I see some news about AI, and I try not to think too much about the future. So I’ve decided to review a 500-year-old poem to take my mind off of things.

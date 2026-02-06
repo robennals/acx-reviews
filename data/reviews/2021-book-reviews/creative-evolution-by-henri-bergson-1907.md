@@ -1,16 +1,20 @@
 ---
-title: "Creative Evolution by Henri Bergson (1907)"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2021-book-reviews"
-contestName: "2021 Book Reviews"
+title: Creative Evolution by Henri Bergson (1907)
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2021-book-reviews
+contestName: 2021 Book Reviews
 year: 2021
-publishedDate: "2026-02-06T07:21:29.564Z"
-slug: "creative-evolution-by-henri-bergson-1907"
+publishedDate: '2026-02-06T07:21:29.564Z'
+slug: creative-evolution-by-henri-bergson-1907
 wordCount: 2592
 readingTimeMinutes: 12
-originalUrl: "https://docs.google.com/document/d/1xexFJ7h0vULMDE7N77q_MIzXoerexfe_CqqGEL6hEoQ"
-source: "gdoc"
+originalUrl: >-
+  https://docs.google.com/document/d/1xexFJ7h0vULMDE7N77q_MIzXoerexfe_CqqGEL6hEoQ
+source: gdoc
+tags:
+  - Philosophy
+  - Biology
 ---
 
 A radical view of evolution, founded on a very different understanding of time and knowledge.

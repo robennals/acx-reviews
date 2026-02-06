@@ -1,16 +1,20 @@
 ---
-title: "The Beginning of Infinity by David Deutsch"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2022-book-reviews"
-contestName: "2022 Book Reviews"
+title: The Beginning of Infinity by David Deutsch
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2022-book-reviews
+contestName: 2022 Book Reviews
 year: 2022
-publishedDate: "2026-02-06T07:22:32.817Z"
-slug: "the-beginning-of-infinity-by-david-deutsch"
+publishedDate: '2026-02-06T07:22:32.817Z'
+slug: the-beginning-of-infinity-by-david-deutsch
 wordCount: 6583
 readingTimeMinutes: 30
-originalUrl: "https://docs.google.com/document/d/100kMdSVFviZSSBvUyyEQPMNlvLptVQxHFD9i9wGuBWs"
-source: "gdoc"
+originalUrl: >-
+  https://docs.google.com/document/d/100kMdSVFviZSSBvUyyEQPMNlvLptVQxHFD9i9wGuBWs
+source: gdoc
+tags:
+  - Science
+  - Philosophy
 ---
 
 Deutsch eats rationalism

@@ -1,16 +1,20 @@
 ---
-title: "The Genesis Machine by Amy Webb and Andrew Hessel"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2024-book-reviews"
-contestName: "2024 Book Reviews"
+title: The Genesis Machine by Amy Webb and Andrew Hessel
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2024-book-reviews
+contestName: 2024 Book Reviews
 year: 2024
-publishedDate: "2026-02-06T16:49:14.007Z"
-slug: "the-genesis-machine-by-amy-webb-and-andrew-hessel"
+publishedDate: '2026-02-06T16:49:14.007Z'
+slug: the-genesis-machine-by-amy-webb-and-andrew-hessel
 wordCount: 2123
 readingTimeMinutes: 10
-originalUrl: "https://docs.google.com/document/d/14qa47TJ_Vyerx4XNgTCIh7PUZ_TOgNcU_eHm5So_zo0"
-source: "gdoc"
+originalUrl: >-
+  https://docs.google.com/document/d/14qa47TJ_Vyerx4XNgTCIh7PUZ_TOgNcU_eHm5So_zo0
+source: gdoc
+tags:
+  - Technology
+  - Biology
 ---
 
 ## Gist

@@ -1,16 +1,19 @@
 ---
-title: "Museum Of Science, Boston"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2025-non-book-reviews"
-contestName: "2025 Non Book Reviews"
+title: 'Museum Of Science, Boston'
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2025-non-book-reviews
+contestName: 2025 Non Book Reviews
 year: 2025
-publishedDate: "2026-02-06T16:55:03.481Z"
-slug: "museum-of-science-boston"
+publishedDate: '2026-02-06T16:55:03.481Z'
+slug: museum-of-science-boston
 wordCount: 2007
 readingTimeMinutes: 9
-originalUrl: "https://docs.google.com/document/d/1a3q0Z2tuPLLbDeg5-pfEffkajGjrfPDwE7ZMs7uaWQs"
-source: "gdoc"
+originalUrl: >-
+  https://docs.google.com/document/d/1a3q0Z2tuPLLbDeg5-pfEffkajGjrfPDwE7ZMs7uaWQs
+source: gdoc
+tags:
+  - Memoir
 ---
 
 Parents say that they take their kids to the Museum of Science to spark a love of discovery, inspire an appreciation of the scientific method, and to learn about the world. That is all very nice, but the real reason you should go is to experience the hand stamp machines, which are in my opinion the museum's best and most popular interactive exhibit.

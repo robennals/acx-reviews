@@ -1,16 +1,20 @@
 ---
-title: "Normal Accidents: Living with high risk technologies by Charles Perrow"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2024-book-reviews"
-contestName: "2024 Book Reviews"
+title: 'Normal Accidents: Living with high risk technologies by Charles Perrow'
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2024-book-reviews
+contestName: 2024 Book Reviews
 year: 2024
-publishedDate: "2026-02-06T16:48:20.711Z"
-slug: "normal-accidents-living-with-high-risk-technologies-by-charles-perrow"
+publishedDate: '2026-02-06T16:48:20.711Z'
+slug: normal-accidents-living-with-high-risk-technologies-by-charles-perrow
 wordCount: 3465
 readingTimeMinutes: 16
-originalUrl: "https://docs.google.com/document/d/1cp6iw5OEyDjnD_viZo-KL0Zv4jwQnMXtE4yIovfVAco"
-source: "gdoc"
+originalUrl: >-
+  https://docs.google.com/document/d/1cp6iw5OEyDjnD_viZo-KL0Zv4jwQnMXtE4yIovfVAco
+source: gdoc
+tags:
+  - Technology
+  - Science
 ---
 
 Many failures are easy to explain. When a door plug falls off of a 737 Max and opens a big hole in the plane, there may be lots of room to debate the organizational context in which that failure occurred and how to ensure it doesn't happen again, but it’s clear how the accident itself went down.

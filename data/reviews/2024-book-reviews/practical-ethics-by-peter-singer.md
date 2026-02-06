@@ -1,16 +1,19 @@
 ---
-title: "Practical Ethics by Peter Singer"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2024-book-reviews"
-contestName: "2024 Book Reviews"
+title: Practical Ethics by Peter Singer
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2024-book-reviews
+contestName: 2024 Book Reviews
 year: 2024
-publishedDate: "2026-02-06T16:48:20.714Z"
-slug: "practical-ethics-by-peter-singer"
+publishedDate: '2026-02-06T16:48:20.714Z'
+slug: practical-ethics-by-peter-singer
 wordCount: 20446
 readingTimeMinutes: 91
-originalUrl: "https://docs.google.com/document/d/1cp6iw5OEyDjnD_viZo-KL0Zv4jwQnMXtE4yIovfVAco"
-source: "gdoc"
+originalUrl: >-
+  https://docs.google.com/document/d/1cp6iw5OEyDjnD_viZo-KL0Zv4jwQnMXtE4yIovfVAco
+source: gdoc
+tags:
+  - Philosophy
 ---
 
 Reviewing Practical Ethics on ACX is like reviewing the Bible on a Christian forum, or the Communist Manifesto in a community of socialists. On the one hand, you’re dealing with a text foundational to a large section of the audience. On the other, you can never be quite sure how many of them, even the most vocal adherents of its ideology, have actually read it.

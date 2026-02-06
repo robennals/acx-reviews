@@ -1,16 +1,22 @@
 ---
-title: "The Yom Kippur War: The Epic Encounter That Transformed the Middle East by Abraham Rabinovich"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2022-book-reviews"
-contestName: "2022 Book Reviews"
+title: >-
+  The Yom Kippur War: The Epic Encounter That Transformed the Middle East by
+  Abraham Rabinovich
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2022-book-reviews
+contestName: 2022 Book Reviews
 year: 2022
-publishedDate: "2026-02-06T07:21:54.175Z"
-slug: "the-yom-kippur-war-the-epic-encounter-that-transformed-the-middle-east-by-abraham-rabinovich"
+publishedDate: '2026-02-06T07:21:54.175Z'
+slug: >-
+  the-yom-kippur-war-the-epic-encounter-that-transformed-the-middle-east-by-abraham-rabinovich
 wordCount: 3662
 readingTimeMinutes: 17
-originalUrl: "https://docs.google.com/document/d/1hFzjXliCAWjvheY-8Qd2fhbF79LnX0Xg6R9eqk9yIyI"
-source: "gdoc"
+originalUrl: >-
+  https://docs.google.com/document/d/1hFzjXliCAWjvheY-8Qd2fhbF79LnX0Xg6R9eqk9yIyI
+source: gdoc
+tags:
+  - History
 ---
 
 ## Introduction:

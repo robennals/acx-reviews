@@ -1,16 +1,19 @@
 ---
-title: "How the War Was Won – by Phillips Payson O’Brien"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2024-book-reviews"
-contestName: "2024 Book Reviews"
+title: How the War Was Won – by Phillips Payson O’Brien
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2024-book-reviews
+contestName: 2024 Book Reviews
 year: 2024
-publishedDate: "2026-02-06T16:47:49.311Z"
-slug: "how-the-war-was-won-by-phillips-payson-obrien"
+publishedDate: '2026-02-06T16:47:49.311Z'
+slug: how-the-war-was-won-by-phillips-payson-obrien
 wordCount: 5233
 readingTimeMinutes: 24
-originalUrl: "https://docs.google.com/document/d/1QiotH3aGFgNLGqsIHTK_Plm_gem2E4l2C2ctyGJd0jY"
-source: "gdoc"
+originalUrl: >-
+  https://docs.google.com/document/d/1QiotH3aGFgNLGqsIHTK_Plm_gem2E4l2C2ctyGJd0jY
+source: gdoc
+tags:
+  - History
 ---
 
 To a first approximation, there are a million books about World War II. Why should you care about How the War Was Won (hereinafter “HtWWW”) by Phillips Payson O’Brien?

@@ -1,16 +1,20 @@
 ---
-title: "In the Time of the Russias by Stella Zamvil"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2024-book-reviews"
-contestName: "2024 Book Reviews"
+title: In the Time of the Russias by Stella Zamvil
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2024-book-reviews
+contestName: 2024 Book Reviews
 year: 2024
-publishedDate: "2026-02-06T16:47:49.312Z"
-slug: "in-the-time-of-the-russias-by-stella-zamvil"
+publishedDate: '2026-02-06T16:47:49.312Z'
+slug: in-the-time-of-the-russias-by-stella-zamvil
 wordCount: 3582
 readingTimeMinutes: 16
-originalUrl: "https://docs.google.com/document/d/1QiotH3aGFgNLGqsIHTK_Plm_gem2E4l2C2ctyGJd0jY"
-source: "gdoc"
+originalUrl: >-
+  https://docs.google.com/document/d/1QiotH3aGFgNLGqsIHTK_Plm_gem2E4l2C2ctyGJd0jY
+source: gdoc
+tags:
+  - Fiction
+  - History
 ---
 
 ## 1        No one has read this book and you shouldn’t either.

@@ -1,16 +1,20 @@
 ---
-title: "A History of Generation Ships in Science-Fiction"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2021-book-reviews"
-contestName: "2021 Book Reviews"
+title: A History of Generation Ships in Science-Fiction
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2021-book-reviews
+contestName: 2021 Book Reviews
 year: 2021
-publishedDate: "2026-02-06T07:21:29.559Z"
-slug: "a-history-of-generation-ships-in-science-fiction"
+publishedDate: '2026-02-06T07:21:29.559Z'
+slug: a-history-of-generation-ships-in-science-fiction
 wordCount: 3976
 readingTimeMinutes: 18
-originalUrl: "https://docs.google.com/document/d/1xexFJ7h0vULMDE7N77q_MIzXoerexfe_CqqGEL6hEoQ"
-source: "gdoc"
+originalUrl: >-
+  https://docs.google.com/document/d/1xexFJ7h0vULMDE7N77q_MIzXoerexfe_CqqGEL6hEoQ
+source: gdoc
+tags:
+  - Fiction
+  - Technology
 ---
 
 (This essay contains multiple spoilers about several science fiction novels; I will put the spoilers all in footnotes at the bottom: SO DON'T READ THE FOOTNOTES IF YOU WANT TO AVOID THE SPOILERS)

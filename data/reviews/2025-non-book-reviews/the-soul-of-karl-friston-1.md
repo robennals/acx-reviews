@@ -1,16 +1,20 @@
 ---
-title: "The Soul of Karl Friston [1]"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2025-non-book-reviews"
-contestName: "2025 Non Book Reviews"
+title: 'The Soul of Karl Friston [1]'
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2025-non-book-reviews
+contestName: 2025 Non Book Reviews
 year: 2025
-publishedDate: "2026-02-06T16:55:59.400Z"
-slug: "the-soul-of-karl-friston-1"
+publishedDate: '2026-02-06T16:55:59.400Z'
+slug: the-soul-of-karl-friston-1
 wordCount: 5858
 readingTimeMinutes: 27
-originalUrl: "https://docs.google.com/document/d/1jYVJFIz5-aMi0LCgsC9AN6BncJDNVGaMU37QmwZ1vzA"
-source: "gdoc"
+originalUrl: >-
+  https://docs.google.com/document/d/1jYVJFIz5-aMi0LCgsC9AN6BncJDNVGaMU37QmwZ1vzA
+source: gdoc
+tags:
+  - Science
+  - Philosophy
 ---
 
 ## I - Epicurus

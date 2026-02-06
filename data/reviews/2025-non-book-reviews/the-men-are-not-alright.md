@@ -1,16 +1,20 @@
 ---
-title: "The Men Are Not Alright"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2025-non-book-reviews"
-contestName: "2025 Non Book Reviews"
+title: The Men Are Not Alright
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2025-non-book-reviews
+contestName: 2025 Non Book Reviews
 year: 2025
-publishedDate: "2026-02-06T16:55:59.398Z"
-slug: "the-men-are-not-alright"
+publishedDate: '2026-02-06T16:55:59.398Z'
+slug: the-men-are-not-alright
 wordCount: 15264
 readingTimeMinutes: 68
-originalUrl: "https://docs.google.com/document/d/1jYVJFIz5-aMi0LCgsC9AN6BncJDNVGaMU37QmwZ1vzA"
-source: "gdoc"
+originalUrl: >-
+  https://docs.google.com/document/d/1jYVJFIz5-aMi0LCgsC9AN6BncJDNVGaMU37QmwZ1vzA
+source: gdoc
+tags:
+  - Society
+  - Psychology
 ---
 
 A Review of Dating a Lost and Neglected Gender

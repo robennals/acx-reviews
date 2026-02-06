@@ -1,16 +1,20 @@
 ---
-title: "Disco Elysium"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2025-non-book-reviews"
-contestName: "2025 Non Book Reviews"
+title: Disco Elysium
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2025-non-book-reviews
+contestName: 2025 Non Book Reviews
 year: 2025
-publishedDate: "2026-02-06T16:57:23.282Z"
-slug: "disco-elysium"
+publishedDate: '2026-02-06T16:57:23.282Z'
+slug: disco-elysium
 wordCount: 2533
 readingTimeMinutes: 12
-originalUrl: "https://docs.google.com/document/d/1B3YxYxLVFjKGicaEkqvt353kt0uimn0PSUQv1PyaHuI"
-source: "gdoc"
+originalUrl: >-
+  https://docs.google.com/document/d/1B3YxYxLVFjKGicaEkqvt353kt0uimn0PSUQv1PyaHuI
+source: gdoc
+tags:
+  - Fiction
+  - Politics
 ---
 
 By A.H.

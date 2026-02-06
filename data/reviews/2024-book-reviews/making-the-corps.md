@@ -1,16 +1,20 @@
 ---
-title: "Making the Corps"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2024-book-reviews"
-contestName: "2024 Book Reviews"
+title: Making the Corps
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2024-book-reviews
+contestName: 2024 Book Reviews
 year: 2024
-publishedDate: "2026-02-06T16:48:20.709Z"
-slug: "making-the-corps"
+publishedDate: '2026-02-06T16:48:20.709Z'
+slug: making-the-corps
 wordCount: 9338
 readingTimeMinutes: 42
-originalUrl: "https://docs.google.com/document/d/1cp6iw5OEyDjnD_viZo-KL0Zv4jwQnMXtE4yIovfVAco"
-source: "gdoc"
+originalUrl: >-
+  https://docs.google.com/document/d/1cp6iw5OEyDjnD_viZo-KL0Zv4jwQnMXtE4yIovfVAco
+source: gdoc
+tags:
+  - Society
+  - Psychology
 ---
 
 What is a “cult,” exactly? What does it mean for a group of people to be a cult?

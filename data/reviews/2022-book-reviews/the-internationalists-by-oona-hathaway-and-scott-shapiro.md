@@ -1,16 +1,20 @@
 ---
-title: "The Internationalists by Oona Hathaway and Scott Shapiro"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2022-book-reviews"
-contestName: "2022 Book Reviews"
+title: The Internationalists by Oona Hathaway and Scott Shapiro
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2022-book-reviews
+contestName: 2022 Book Reviews
 year: 2022
-publishedDate: "2026-02-06T07:22:32.827Z"
-slug: "the-internationalists-by-oona-hathaway-and-scott-shapiro"
+publishedDate: '2026-02-06T07:22:32.827Z'
+slug: the-internationalists-by-oona-hathaway-and-scott-shapiro
 wordCount: 8785
 readingTimeMinutes: 40
-originalUrl: "https://docs.google.com/document/d/100kMdSVFviZSSBvUyyEQPMNlvLptVQxHFD9i9wGuBWs"
-source: "gdoc"
+originalUrl: >-
+  https://docs.google.com/document/d/100kMdSVFviZSSBvUyyEQPMNlvLptVQxHFD9i9wGuBWs
+source: gdoc
+tags:
+  - History
+  - Politics
 ---
 
 In The Internationalists, Oona Hathaway and Scott Shapiro (H&S from now on) work to raise the profile of the 1928 Kellogg-Briand Peace Pact, at the time the most-ratified treaty in history, in which 63 nations (unlike today, this was most of the world - 51 became founding members of the United Nations) came together to declare war illegal. Here is the Pact, in full.

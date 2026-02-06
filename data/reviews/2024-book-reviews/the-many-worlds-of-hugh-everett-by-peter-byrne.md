@@ -1,16 +1,20 @@
 ---
-title: "The Many Worlds of Hugh Everett '' by Peter Byrne"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2024-book-reviews"
-contestName: "2024 Book Reviews"
+title: "The Many Worlds of Hugh Everett\_'' by Peter Byrne"
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2024-book-reviews
+contestName: 2024 Book Reviews
 year: 2024
-publishedDate: "2026-02-06T16:49:14.010Z"
-slug: "the-many-worlds-of-hugh-everett-by-peter-byrne"
+publishedDate: '2026-02-06T16:49:14.010Z'
+slug: the-many-worlds-of-hugh-everett-by-peter-byrne
 wordCount: 2184
 readingTimeMinutes: 10
-originalUrl: "https://docs.google.com/document/d/14qa47TJ_Vyerx4XNgTCIh7PUZ_TOgNcU_eHm5So_zo0"
-source: "gdoc"
+originalUrl: >-
+  https://docs.google.com/document/d/14qa47TJ_Vyerx4XNgTCIh7PUZ_TOgNcU_eHm5So_zo0
+source: gdoc
+tags:
+  - Science
+  - Memoir
 ---
 
 This is a well written enjoyable book, and being a staple of science fiction and the only interpretation of Quantum Mechanics to enter the popular imagination, it's a little surprising that "The Many Worlds of Hugh Everett '' by Peter Byrne is the first biography of the originator of that amazing idea. Everett certainly had an interesting life, he was a libertarian and a libertine who ate drank and smoked too much and exercised too little, became a cold warrior with a top secret clearance, was comfortable with the idea of megadeath and became wealthy by starting one of the first successful software companies until alcoholism drove him and his company into the ground. Everett died of heart failure in 1982 at the age of only 51. He was legally drunk at the time. He requested his body be cremated and his ashes thrown into the garbage. And so he was.

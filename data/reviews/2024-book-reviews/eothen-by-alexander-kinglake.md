@@ -1,16 +1,20 @@
 ---
-title: "Eothen by Alexander Kinglake"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2024-book-reviews"
-contestName: "2024 Book Reviews"
+title: Eothen by Alexander Kinglake
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2024-book-reviews
+contestName: 2024 Book Reviews
 year: 2024
-publishedDate: "2026-02-06T16:47:49.304Z"
-slug: "eothen-by-alexander-kinglake"
+publishedDate: '2026-02-06T16:47:49.304Z'
+slug: eothen-by-alexander-kinglake
 wordCount: 8347
 readingTimeMinutes: 38
-originalUrl: "https://docs.google.com/document/d/1QiotH3aGFgNLGqsIHTK_Plm_gem2E4l2C2ctyGJd0jY"
-source: "gdoc"
+originalUrl: >-
+  https://docs.google.com/document/d/1QiotH3aGFgNLGqsIHTK_Plm_gem2E4l2C2ctyGJd0jY
+source: gdoc
+tags:
+  - Memoir
+  - History
 ---
 
 Eothen was first recommended to me as "[a masterpiece of the wry and elliptically self-mocking English travel memoir](https://www.firstthings.com/article/2017/04/from-a-vanished-library)," and I found it compulsively readable.

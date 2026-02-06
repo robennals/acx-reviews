@@ -1,16 +1,20 @@
 ---
-title: "Free-Range Kids"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2024-book-reviews"
-contestName: "2024 Book Reviews"
+title: Free-Range Kids
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2024-book-reviews
+contestName: 2024 Book Reviews
 year: 2024
-publishedDate: "2026-02-06T16:47:49.305Z"
-slug: "free-range-kids"
+publishedDate: '2026-02-06T16:47:49.305Z'
+slug: free-range-kids
 wordCount: 3236
 readingTimeMinutes: 15
-originalUrl: "https://docs.google.com/document/d/1QiotH3aGFgNLGqsIHTK_Plm_gem2E4l2C2ctyGJd0jY"
-source: "gdoc"
+originalUrl: >-
+  https://docs.google.com/document/d/1QiotH3aGFgNLGqsIHTK_Plm_gem2E4l2C2ctyGJd0jY
+source: gdoc
+tags:
+  - Psychology
+  - Society
 ---
 
 In 2008, journalist Lenore Skenazy let her 9-year-old son take the subway by himself. She was a bit nervous, but he wanted to do it, and she wanted to avoid having to escort him everywhere. After he took the subway (and was fine), she wrote an [article](https://freerangekids.wordpress.com/2008/04/06/why-i-let-my-9-year-old-ride-the-subway-alone/) about it. While this might sound like a boring topic for an article (“Boy uses commuter rail”), it actually created a massive controversy. Various outlets described her as “[America’s worst mom](https://archive.nytimes.com/well.blogs.nytimes.com/2015/01/19/advice-from-americas-worst-mom/)”. So, disturbed by the popularity of paranoid attitudes towards child rearing, Skenazy wrote a manifesto: [Free-Range Kids](https://www.amazon.com/Free-Range-Raise-Self-Reliant-Children-Without/dp/0470574755)(2009). This book has mostly been read as a description of the culture of paranoia that has taken root among American parents, and a practical guide for parents who want to raise free-range kids. While those are worthy topics, most people have probably heard a lot about them already. What I think makes Free-Range Kids stand out is that it provides the beginning of an explanation of why helicopter parenting has become so common. I call the explanation the Skenazy-Jones model (after Skenazy and Chad Jones, an economic theorist). In the model, as incomes rise, the marginal value placed on safety increases. This leads to smaller and smaller risks becoming the focus of parental concern. At a certain point, because the risks have become so small, it is no longer possible to assess the size of a risk by thinking about whether it has befallen someone you know. Parents, deprived of experience relevant to assessing risks, turn to outrageously alarmist sources such as TV news. This terrifies them so much that they subject their children to house arrest.

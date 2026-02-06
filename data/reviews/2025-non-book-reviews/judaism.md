@@ -1,16 +1,21 @@
 ---
-title: "Judaism"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2025-non-book-reviews"
-contestName: "2025 Non Book Reviews"
+title: Judaism
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2025-non-book-reviews
+contestName: 2025 Non Book Reviews
 year: 2025
-publishedDate: "2026-02-06T16:55:03.478Z"
-slug: "judaism"
+publishedDate: '2026-02-06T16:55:03.478Z'
+slug: judaism
 wordCount: 3981
 readingTimeMinutes: 18
-originalUrl: "https://docs.google.com/document/d/1a3q0Z2tuPLLbDeg5-pfEffkajGjrfPDwE7ZMs7uaWQs"
-source: "gdoc"
+originalUrl: >-
+  https://docs.google.com/document/d/1a3q0Z2tuPLLbDeg5-pfEffkajGjrfPDwE7ZMs7uaWQs
+source: gdoc
+tags:
+  - Religion
+  - History
+  - Society
 ---
 
 Any review of Judaism must be insufficient, skewed. Overreaching statements, bombast, long digressions agonisingly cut. I’m sorry in advance. Here we go.

@@ -1,16 +1,19 @@
 ---
-title: "The Axis of Madness"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2022-book-reviews"
-contestName: "2022 Book Reviews"
+title: The Axis of Madness
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2022-book-reviews
+contestName: 2022 Book Reviews
 year: 2022
-publishedDate: "2026-02-06T07:22:32.817Z"
-slug: "the-axis-of-madness"
+publishedDate: '2026-02-06T07:22:32.817Z'
+slug: the-axis-of-madness
 wordCount: 2701
 readingTimeMinutes: 13
-originalUrl: "https://docs.google.com/document/d/100kMdSVFviZSSBvUyyEQPMNlvLptVQxHFD9i9wGuBWs"
-source: "gdoc"
+originalUrl: >-
+  https://docs.google.com/document/d/100kMdSVFviZSSBvUyyEQPMNlvLptVQxHFD9i9wGuBWs
+source: gdoc
+tags:
+  - Fiction
 ---
 
 The Axis of Madness could be the strangest thing that's ever been written. It's divided into four parts. The first three parts describe the creation of a new species by genetic technologists in societies with no concept of God, ruled by deceived people who believe that power gives them the right to decide life's purpose and take over human evolution, a theme that many conspiracy theorists believe is happening but with a twist. It places the blame on leaders of the church propagating Satan's lie that infected Adam and Eve in the Garden, not billionaire cults or power seeking globalists.

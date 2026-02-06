@@ -1,16 +1,19 @@
 ---
-title: "Njal's Saga"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2023-book-reviews"
-contestName: "2023 Book Reviews"
+title: Njal's Saga
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2023-book-reviews
+contestName: 2023 Book Reviews
 year: 2023
-publishedDate: "2026-02-06T07:05:58.545Z"
-slug: "njals-saga"
+publishedDate: '2026-02-06T07:05:58.545Z'
+slug: njals-saga
 wordCount: 4361
 readingTimeMinutes: 20
-originalUrl: "https://www.astralcodexten.com/p/your-book-review-njals-saga"
-source: "acx"
+originalUrl: 'https://www.astralcodexten.com/p/your-book-review-njals-saga'
+source: acx
+tags:
+  - Fiction
+  - History
 ---
 
 **I.**

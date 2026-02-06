@@ -1,16 +1,20 @@
 ---
-title: "Martial Arts Review: Muay Thai and Brazilian Jiu Jitsu"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2025-non-book-reviews"
-contestName: "2025 Non Book Reviews"
+title: 'Martial Arts Review: Muay Thai and Brazilian Jiu Jitsu'
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2025-non-book-reviews
+contestName: 2025 Non Book Reviews
 year: 2025
-publishedDate: "2026-02-06T16:55:03.480Z"
-slug: "martial-arts-review-muay-thai-and-brazilian-jiu-jitsu"
+publishedDate: '2026-02-06T16:55:03.480Z'
+slug: martial-arts-review-muay-thai-and-brazilian-jiu-jitsu
 wordCount: 5763
 readingTimeMinutes: 26
-originalUrl: "https://docs.google.com/document/d/1a3q0Z2tuPLLbDeg5-pfEffkajGjrfPDwE7ZMs7uaWQs"
-source: "gdoc"
+originalUrl: >-
+  https://docs.google.com/document/d/1a3q0Z2tuPLLbDeg5-pfEffkajGjrfPDwE7ZMs7uaWQs
+source: gdoc
+tags:
+  - History
+  - Society
 ---
 
 To review martial arts writ large is untenable. Ways and methods vary. At its base fighting breaks down into two categories: the striking arts and the grappling arts.  Yes, there are others, various disciplines with weapons and whatnot but the brunt of unarmed combat is either hitting someone or wrestling them. The best example of each category can represent the whole. In the martial arts world, meander as you like, you will eventually bump up against two truths. For knocking someone around, Muay Thai is considered the acme of knowledge. For strangling someone, Brazilian Jiu Jitsu takes top honors. Here is what you want to know. In a technical sense ‘martial arts’ can refer to any type of fighting but for my purposes here I’m going to use the term to connote only non-western, unarmed forms of combat.  

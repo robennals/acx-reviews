@@ -1,16 +1,20 @@
 ---
-title: "Bite Me: A Review of Teeth as Evolution’s Leftovers and Modern Shame"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2025-non-book-reviews"
-contestName: "2025 Non Book Reviews"
+title: 'Bite Me: A Review of Teeth as Evolution’s Leftovers and Modern Shame'
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2025-non-book-reviews
+contestName: 2025 Non Book Reviews
 year: 2025
-publishedDate: "2026-02-06T16:52:48.890Z"
-slug: "bite-me-a-review-of-teeth-as-evolutions-leftovers-and-modern-shame"
+publishedDate: '2026-02-06T16:52:48.890Z'
+slug: bite-me-a-review-of-teeth-as-evolutions-leftovers-and-modern-shame
 wordCount: 2524
 readingTimeMinutes: 12
-originalUrl: "https://docs.google.com/document/d/1d0vRSj1E93joWWvbUen2XGuDjN_mM94ybMIAADzM2fo"
-source: "gdoc"
+originalUrl: >-
+  https://docs.google.com/document/d/1d0vRSj1E93joWWvbUen2XGuDjN_mM94ybMIAADzM2fo
+source: gdoc
+tags:
+  - Biology
+  - Society
 ---
 
 ## 1\. Evolution's White Elephant

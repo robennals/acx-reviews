@@ -1,16 +1,20 @@
 ---
-title: "Discrimination and Disparities by Thomas Sowell"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2024-book-reviews"
-contestName: "2024 Book Reviews"
+title: Discrimination and Disparities by Thomas Sowell
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2024-book-reviews
+contestName: 2024 Book Reviews
 year: 2024
-publishedDate: "2026-02-06T16:47:15.600Z"
-slug: "discrimination-and-disparities-by-thomas-sowell"
+publishedDate: '2026-02-06T16:47:15.600Z'
+slug: discrimination-and-disparities-by-thomas-sowell
 wordCount: 9985
 readingTimeMinutes: 45
-originalUrl: "https://docs.google.com/document/d/1AXmWgSbh_TFsoZuApSCSEoz57yn93CM5YYhtaO_s4W4"
-source: "gdoc"
+originalUrl: >-
+  https://docs.google.com/document/d/1AXmWgSbh_TFsoZuApSCSEoz57yn93CM5YYhtaO_s4W4
+source: gdoc
+tags:
+  - Economics
+  - Society
 ---
 
 ## Introduction

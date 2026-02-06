@@ -1,16 +1,20 @@
 ---
-title: "Letter to a Christian Nation and other writings of Sam Harris"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2024-book-reviews"
-contestName: "2024 Book Reviews"
+title: Letter to a Christian Nation and other writings of Sam Harris
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2024-book-reviews
+contestName: 2024 Book Reviews
 year: 2024
-publishedDate: "2026-02-06T16:48:20.703Z"
-slug: "letter-to-a-christian-nation-and-other-writings-of-sam-harris"
+publishedDate: '2026-02-06T16:48:20.703Z'
+slug: letter-to-a-christian-nation-and-other-writings-of-sam-harris
 wordCount: 23136
 readingTimeMinutes: 103
-originalUrl: "https://docs.google.com/document/d/1cp6iw5OEyDjnD_viZo-KL0Zv4jwQnMXtE4yIovfVAco"
-source: "gdoc"
+originalUrl: >-
+  https://docs.google.com/document/d/1cp6iw5OEyDjnD_viZo-KL0Zv4jwQnMXtE4yIovfVAco
+source: gdoc
+tags:
+  - Religion
+  - Philosophy
 ---
 
 Dichotomies, “Most People,” and Subjective Personal Preferences in the Writings of Sam Harris

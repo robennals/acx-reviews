@@ -1,16 +1,20 @@
 ---
-title: "Mine!: How the Hidden Rules of Ownership Control Our Lives"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2024-book-reviews"
-contestName: "2024 Book Reviews"
+title: 'Mine!: How the Hidden Rules of Ownership Control Our Lives'
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2024-book-reviews
+contestName: 2024 Book Reviews
 year: 2024
-publishedDate: "2026-02-06T16:48:20.710Z"
-slug: "mine-how-the-hidden-rules-of-ownership-control-our-lives"
+publishedDate: '2026-02-06T16:48:20.710Z'
+slug: mine-how-the-hidden-rules-of-ownership-control-our-lives
 wordCount: 8497
 readingTimeMinutes: 38
-originalUrl: "https://docs.google.com/document/d/1cp6iw5OEyDjnD_viZo-KL0Zv4jwQnMXtE4yIovfVAco"
-source: "gdoc"
+originalUrl: >-
+  https://docs.google.com/document/d/1cp6iw5OEyDjnD_viZo-KL0Zv4jwQnMXtE4yIovfVAco
+source: gdoc
+tags:
+  - Economics
+  - Society
 ---
 
 ## Prologue: Why Not Mine!?

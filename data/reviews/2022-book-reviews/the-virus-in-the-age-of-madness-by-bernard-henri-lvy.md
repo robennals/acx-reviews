@@ -1,16 +1,20 @@
 ---
-title: "The Virus in the Age of Madness by Bernard-Henri Lévy"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2022-book-reviews"
-contestName: "2022 Book Reviews"
+title: The Virus in the Age of Madness by Bernard-Henri Lévy
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2022-book-reviews
+contestName: 2022 Book Reviews
 year: 2022
-publishedDate: "2026-02-06T07:21:54.174Z"
-slug: "the-virus-in-the-age-of-madness-by-bernard-henri-lvy"
+publishedDate: '2026-02-06T07:21:54.174Z'
+slug: the-virus-in-the-age-of-madness-by-bernard-henri-lvy
 wordCount: 3835
 readingTimeMinutes: 18
-originalUrl: "https://docs.google.com/document/d/1hFzjXliCAWjvheY-8Qd2fhbF79LnX0Xg6R9eqk9yIyI"
-source: "gdoc"
+originalUrl: >-
+  https://docs.google.com/document/d/1hFzjXliCAWjvheY-8Qd2fhbF79LnX0Xg6R9eqk9yIyI
+source: gdoc
+tags:
+  - Society
+  - Politics
 ---
 
 In July of 2020, I was fretting about air conditioning in my cramped, Washington DC apartment, marveling at the fact that no one seemed to expect me to return to the office, and lavishing affection on my newly adopted feline friend. French philosopher Bernard-Henri Lévy, by contrast, was publishing a reflection on the then roughly six-month-old (depending on when you start counting) pandemic. I knew Lévy’s name and could call up a blurry face to put to it, but I had only a vague impression of what a philosopher might have to say about Covid-19. I certainly did not realize Lévy was broadly considered one of the [more irritating](https://www.google.com/url?q=https://forward.com/culture/481030/bernard-henri-levy-bhl-the-will-to-see-documentary-karachi-kabul/&sa=D&source=editors&ust=1770366106718610&usg=AOvVaw2MBiRBVg1UqRsRUz0Vs726) public intellectuals, but I quickly joined the ranks of those who found him off-putting while reading his book–really a long essay–chastising the world’s response to the pandemic.

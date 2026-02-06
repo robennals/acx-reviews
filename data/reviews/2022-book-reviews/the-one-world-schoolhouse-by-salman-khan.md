@@ -1,16 +1,20 @@
 ---
-title: "The One World Schoolhouse by Salman Khan"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2022-book-reviews"
-contestName: "2022 Book Reviews"
+title: The One World Schoolhouse by Salman Khan
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2022-book-reviews
+contestName: 2022 Book Reviews
 year: 2022
-publishedDate: "2026-02-06T07:21:54.170Z"
-slug: "the-one-world-schoolhouse-by-salman-khan"
+publishedDate: '2026-02-06T07:21:54.170Z'
+slug: the-one-world-schoolhouse-by-salman-khan
 wordCount: 5753
 readingTimeMinutes: 26
-originalUrl: "https://docs.google.com/document/d/1hFzjXliCAWjvheY-8Qd2fhbF79LnX0Xg6R9eqk9yIyI"
-source: "gdoc"
+originalUrl: >-
+  https://docs.google.com/document/d/1hFzjXliCAWjvheY-8Qd2fhbF79LnX0Xg6R9eqk9yIyI
+source: gdoc
+tags:
+  - Society
+  - Technology
 ---
 
 What should the perfect school look like?

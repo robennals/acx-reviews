@@ -1,16 +1,20 @@
 ---
-title: "Guns, Germs and Steel: The Fates of Human Societies by Jared Diamond"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2021-book-reviews"
-contestName: "2021 Book Reviews"
+title: 'Guns, Germs and Steel: The Fates of Human Societies by Jared Diamond'
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2021-book-reviews
+contestName: 2021 Book Reviews
 year: 2021
-publishedDate: "2026-02-06T07:21:29.570Z"
-slug: "guns-germs-and-steel-the-fates-of-human-societies-by-jared-diamond"
+publishedDate: '2026-02-06T07:21:29.570Z'
+slug: guns-germs-and-steel-the-fates-of-human-societies-by-jared-diamond
 wordCount: 2590
 readingTimeMinutes: 12
-originalUrl: "https://docs.google.com/document/d/1xexFJ7h0vULMDE7N77q_MIzXoerexfe_CqqGEL6hEoQ"
-source: "gdoc"
+originalUrl: >-
+  https://docs.google.com/document/d/1xexFJ7h0vULMDE7N77q_MIzXoerexfe_CqqGEL6hEoQ
+source: gdoc
+tags:
+  - History
+  - Biology
 ---
 
 Guns, Germs and Steel by physiologist/ecologist/environmental historian Jared Diamond is an attempt to explain why technologically advanced societies developed faster in certain parts of the world. Its main thesis is that geography defines the constraints and opportunities for what a civilization can do: Groups of humans take their cues from their environment and follow these cues to develop tools and guns and spaceships or happily continue being stone age hunter-gatherers or anything else in between.  Diamond sets out by tracing the different initial conditions that promoted the advent of agriculture and animal husbandry in different parts of the world and then follows the downstream effects and feedback loops that lead to Age of Discovery Europeans having the technological edge that allowed them to colonize the whole planet. In the meantime he presents accounts of the history of plant and animal domestication, the invention of writing, the biology of zoonotic diseases, the spread of technological innovation, the development of different modes of government, as well as crash courses in the history of New Guinea, China, Polynesia, the Americas, sub-Saharan Africa and Japan, and his ideas about the study of history in general.

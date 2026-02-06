@@ -1,16 +1,19 @@
 ---
-title: "Dead Silence by S. A. Barnes"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2023-book-reviews"
-contestName: "2023 Book Reviews"
+title: Dead Silence by S. A. Barnes
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2023-book-reviews
+contestName: 2023 Book Reviews
 year: 2023
-publishedDate: "2026-02-06T07:21:10.027Z"
-slug: "dead-silence-by-s-a-barnes"
+publishedDate: '2026-02-06T07:21:10.027Z'
+slug: dead-silence-by-s-a-barnes
 wordCount: 1691
 readingTimeMinutes: 8
-originalUrl: "https://docs.google.com/document/d/10CiEI7aDL2bMIdx7yayy3vlq0TJ8dO5LGnG7yIDPiw8"
-source: "gdoc"
+originalUrl: >-
+  https://docs.google.com/document/d/10CiEI7aDL2bMIdx7yayy3vlq0TJ8dO5LGnG7yIDPiw8
+source: gdoc
+tags:
+  - Fiction
 ---
 
 A Monster in Search of a House

@@ -1,16 +1,20 @@
 ---
-title: "Human Sexuality, reviewed."
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2025-non-book-reviews"
-contestName: "2025 Non Book Reviews"
+title: 'Human Sexuality, reviewed.'
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2025-non-book-reviews
+contestName: 2025 Non Book Reviews
 year: 2025
-publishedDate: "2026-02-06T16:52:48.903Z"
-slug: "human-sexuality-reviewed"
+publishedDate: '2026-02-06T16:52:48.903Z'
+slug: human-sexuality-reviewed
 wordCount: 6636
 readingTimeMinutes: 30
-originalUrl: "https://docs.google.com/document/d/1d0vRSj1E93joWWvbUen2XGuDjN_mM94ybMIAADzM2fo"
-source: "gdoc"
+originalUrl: >-
+  https://docs.google.com/document/d/1d0vRSj1E93joWWvbUen2XGuDjN_mM94ybMIAADzM2fo
+source: gdoc
+tags:
+  - Biology
+  - Psychology
 ---
 
 I’ve always been curious about why people are turned on by some things, but not others. Why do [50%](https://www.amazon.com/Tell-Me-What-You-Want/dp/0738234958/) of surveyed men fantasize about their partner sleeping with someone else? Why do something like [45%](https://pubmed.ncbi.nlm.nih.gov/19085605/) of surveyed women have fantasies where they're forced to have sex against their will? What is up with all these fetishes, like people who wear diapers, or findom, or furries? I’m not alone in these questions.

@@ -1,16 +1,20 @@
 ---
-title: "North Korea"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2025-non-book-reviews"
-contestName: "2025 Non Book Reviews"
+title: North Korea
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2025-non-book-reviews
+contestName: 2025 Non Book Reviews
 year: 2025
-publishedDate: "2026-02-06T16:55:03.482Z"
-slug: "north-korea"
+publishedDate: '2026-02-06T16:55:03.482Z'
+slug: north-korea
 wordCount: 4438
 readingTimeMinutes: 20
-originalUrl: "https://docs.google.com/document/d/1a3q0Z2tuPLLbDeg5-pfEffkajGjrfPDwE7ZMs7uaWQs"
-source: "gdoc"
+originalUrl: >-
+  https://docs.google.com/document/d/1a3q0Z2tuPLLbDeg5-pfEffkajGjrfPDwE7ZMs7uaWQs
+source: gdoc
+tags:
+  - Politics
+  - Memoir
 ---
 
 I meet my travel agent, Chris, in Beijing. Chris is an amiable Irishman who tells me a lot of tourists get drunk in Pyongyang and it’s fine. I thank him for the suggestion.  

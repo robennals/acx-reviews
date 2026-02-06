@@ -1,16 +1,19 @@
 ---
-title: "Secret Government"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2023-book-reviews"
-contestName: "2023 Book Reviews"
+title: Secret Government
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2023-book-reviews
+contestName: 2023 Book Reviews
 year: 2023
-publishedDate: "2026-02-06T07:06:05.480Z"
-slug: "secret-government"
+publishedDate: '2026-02-06T07:06:05.480Z'
+slug: secret-government
 wordCount: 5428
 readingTimeMinutes: 25
-originalUrl: "https://www.astralcodexten.com/p/your-book-review-secret-government"
-source: "acx"
+originalUrl: 'https://www.astralcodexten.com/p/your-book-review-secret-government'
+source: acx
+tags:
+  - Politics
+  - Philosophy
 ---
 
 [_This is one of the finalists in the 2023 book review contest, written by an ACX reader who will remain anonymous until after voting is done. I’ll be posting about one of these a week for several months. When you’ve read them all, I’ll ask you to vote for a favorite, so remember which ones you liked_]

@@ -1,16 +1,20 @@
 ---
-title: "Dall-e 2 and 3 as Depicters of Human Life"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2025-non-book-reviews"
-contestName: "2025 Non Book Reviews"
+title: Dall-e 2 and 3 as Depicters of Human Life
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2025-non-book-reviews
+contestName: 2025 Non Book Reviews
 year: 2025
-publishedDate: "2026-02-06T16:52:48.891Z"
-slug: "dall-e-2-and-3-as-depicters-of-human-life"
+publishedDate: '2026-02-06T16:52:48.891Z'
+slug: dall-e-2-and-3-as-depicters-of-human-life
 wordCount: 4136
 readingTimeMinutes: 19
-originalUrl: "https://docs.google.com/document/d/1d0vRSj1E93joWWvbUen2XGuDjN_mM94ybMIAADzM2fo"
-source: "gdoc"
+originalUrl: >-
+  https://docs.google.com/document/d/1d0vRSj1E93joWWvbUen2XGuDjN_mM94ybMIAADzM2fo
+source: gdoc
+tags:
+  - Technology
+  - Philosophy
 ---
 
 Scott Alexander found in his AI art Turing test that most people had scant ability to tell whether an image was produced by AI or by a human artist, and that on average people showed a slight preference for AI art. With his usual fair-mindedness, though, Scott quotes a dissenting friend who is herself good at telling AI art from human: “When real pictures have details, the details have logic to them. I think of Ancient Gate [an AI image produced by Piotr Binkowski] being in the genre superficially detailed, but all the details are bad and incoherent. . . .  It has ornaments, sort of, but they don't look like anything, or even a worn-down version of anything. . . . It has stuff that's vaguely evocative of Egyptian paintings if you didn't look carefully at all.”

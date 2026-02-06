@@ -1,16 +1,19 @@
 ---
-title: "World Empire Lost"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2024-book-reviews"
-contestName: "2024 Book Reviews"
+title: World Empire Lost
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2024-book-reviews
+contestName: 2024 Book Reviews
 year: 2024
-publishedDate: "2026-02-06T16:49:50.825Z"
-slug: "world-empire-lost"
+publishedDate: '2026-02-06T16:49:50.825Z'
+slug: world-empire-lost
 wordCount: 12616
 readingTimeMinutes: 57
-originalUrl: "https://docs.google.com/document/d/1Ki5XsE0jkxZtd2XAeyTAJw1ZjLh2Cu-matUYKAhA6-s"
-source: "gdoc"
+originalUrl: >-
+  https://docs.google.com/document/d/1Ki5XsE0jkxZtd2XAeyTAJw1ZjLh2Cu-matUYKAhA6-s
+source: gdoc
+tags:
+  - History
 ---
 
 Written by a convicted Nazi war criminal from his cell, World Empire Lost is a history of World War II such as you’ve never read before. It combines lucid military analysis and geostrategic insights with abominable racial views and the downplaying of atrocities, giving a small window of comprehension into how and why Germany unleashed the hell it did upon the world.

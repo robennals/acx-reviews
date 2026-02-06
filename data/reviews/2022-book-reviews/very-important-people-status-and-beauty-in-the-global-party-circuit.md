@@ -1,16 +1,19 @@
 ---
-title: "Very Important People: Status and Beauty in the Global Party Circuit"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2022-book-reviews"
-contestName: "2022 Book Reviews"
+title: 'Very Important People: Status and Beauty in the Global Party Circuit'
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2022-book-reviews
+contestName: 2022 Book Reviews
 year: 2022
-publishedDate: "2026-02-06T07:21:54.183Z"
-slug: "very-important-people-status-and-beauty-in-the-global-party-circuit"
+publishedDate: '2026-02-06T07:21:54.183Z'
+slug: very-important-people-status-and-beauty-in-the-global-party-circuit
 wordCount: 32080
 readingTimeMinutes: 143
-originalUrl: "https://docs.google.com/document/d/1hFzjXliCAWjvheY-8Qd2fhbF79LnX0Xg6R9eqk9yIyI"
-source: "gdoc"
+originalUrl: >-
+  https://docs.google.com/document/d/1hFzjXliCAWjvheY-8Qd2fhbF79LnX0Xg6R9eqk9yIyI
+source: gdoc
+tags:
+  - Society
 ---
 
 “Everybody has to feel superior to somebody. But it’s customary

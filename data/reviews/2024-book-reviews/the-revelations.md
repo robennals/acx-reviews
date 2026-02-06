@@ -1,16 +1,20 @@
 ---
-title: "The Revelations"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2024-book-reviews"
-contestName: "2024 Book Reviews"
+title: The Revelations
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2024-book-reviews
+contestName: 2024 Book Reviews
 year: 2024
-publishedDate: "2026-02-06T16:49:50.814Z"
-slug: "the-revelations"
+publishedDate: '2026-02-06T16:49:50.814Z'
+slug: the-revelations
 wordCount: 3850
 readingTimeMinutes: 18
-originalUrl: "https://docs.google.com/document/d/1Ki5XsE0jkxZtd2XAeyTAJw1ZjLh2Cu-matUYKAhA6-s"
-source: "gdoc"
+originalUrl: >-
+  https://docs.google.com/document/d/1Ki5XsE0jkxZtd2XAeyTAJw1ZjLh2Cu-matUYKAhA6-s
+source: gdoc
+tags:
+  - Fiction
+  - Science
 ---
 
 The Revelations is a bad book by a writer I like and respect. While well-written, the plot is nearly nonexistent, and the main book is set largely between the ears of Kierk Suren and Carmen Green, two deeply unlikable leads who serve more as fantasies of Ubermenschen than they do actual human beings. The author and buzz around it primed me to expect a deep, complex work, so much so that, during the entire read, I felt as though there would be some twist, some point at which the glaring flaws in the text would turn out to be a sort of grand trick, and I would lean back in my chair, delighted at having been taken along for the ride.

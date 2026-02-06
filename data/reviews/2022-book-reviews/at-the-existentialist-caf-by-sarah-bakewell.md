@@ -1,16 +1,20 @@
 ---
-title: "At the Existentialist Café by Sarah Bakewell"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2022-book-reviews"
-contestName: "2022 Book Reviews"
+title: At the Existentialist Café by Sarah Bakewell
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2022-book-reviews
+contestName: 2022 Book Reviews
 year: 2022
-publishedDate: "2026-02-06T07:24:08.696Z"
-slug: "at-the-existentialist-caf-by-sarah-bakewell"
+publishedDate: '2026-02-06T07:24:08.696Z'
+slug: at-the-existentialist-caf-by-sarah-bakewell
 wordCount: 9534
 readingTimeMinutes: 43
-originalUrl: "https://docs.google.com/document/d/1pRQbRbEUwSH_jm94PI_ij-88swat7vQ4iNaNp6gd39g"
-source: "gdoc"
+originalUrl: >-
+  https://docs.google.com/document/d/1pRQbRbEUwSH_jm94PI_ij-88swat7vQ4iNaNp6gd39g
+source: gdoc
+tags:
+  - Philosophy
+  - History
 ---
 
 SARAH BAKEWELL, AT THE EXISTENTIALIST CAFÉ: FREEDOM, BEING AND APRICOT COCKTAILS, CHATTO AND WINDUS, 2017.

@@ -1,16 +1,20 @@
 ---
-title: "The History of the Rise and Influence of the Spirit of Rationalism in Europe"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2024-book-reviews"
-contestName: "2024 Book Reviews"
+title: The History of the Rise and Influence of the Spirit of Rationalism in Europe
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2024-book-reviews
+contestName: 2024 Book Reviews
 year: 2024
-publishedDate: "2026-02-06T16:49:14.008Z"
-slug: "the-history-of-the-rise-and-influence-of-the-spirit-of-rationalism-in-europe"
+publishedDate: '2026-02-06T16:49:14.008Z'
+slug: the-history-of-the-rise-and-influence-of-the-spirit-of-rationalism-in-europe
 wordCount: 1995
 readingTimeMinutes: 9
-originalUrl: "https://docs.google.com/document/d/14qa47TJ_Vyerx4XNgTCIh7PUZ_TOgNcU_eHm5So_zo0"
-source: "gdoc"
+originalUrl: >-
+  https://docs.google.com/document/d/14qa47TJ_Vyerx4XNgTCIh7PUZ_TOgNcU_eHm5So_zo0
+source: gdoc
+tags:
+  - History
+  - Philosophy
 ---
 
 ## 1\. The Supernatural is Dead

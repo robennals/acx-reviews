@@ -1,16 +1,20 @@
 ---
-title: "An American football game"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2025-non-book-reviews"
-contestName: "2025 Non Book Reviews"
+title: An American football game
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2025-non-book-reviews
+contestName: 2025 Non Book Reviews
 year: 2025
-publishedDate: "2026-02-06T16:52:48.888Z"
-slug: "an-american-football-game"
+publishedDate: '2026-02-06T16:52:48.888Z'
+slug: an-american-football-game
 wordCount: 1123
 readingTimeMinutes: 5
-originalUrl: "https://docs.google.com/document/d/1d0vRSj1E93joWWvbUen2XGuDjN_mM94ybMIAADzM2fo"
-source: "gdoc"
+originalUrl: >-
+  https://docs.google.com/document/d/1d0vRSj1E93joWWvbUen2XGuDjN_mM94ybMIAADzM2fo
+source: gdoc
+tags:
+  - Society
+  - Memoir
 ---
 
 The year is a couple years ago. I am nineteen, and on my first trip stateside. Michael Moore, whom I was forced to watch in English class, once said in an interview that he omitted some details about the Scandinavian prison environment from his documentary “where to invade next” because American audiences simply wouldn’t have believed it. Here I am, a Scandinavian in rural Illinois, facing the opposite dilemma. Everything about this trip is so unbelievably American, in an honestly mostly negative way. Not all negative, but mostly. I tried so hard to be open-minded and delete all stereotypes from my brain before landing in Chicago airport, only to have them continuously confirmed from the moment I landed. My boyfriend’s former host family, who we were staying with, wanted to drive us somewhere we could walk to in five minutes (on a sidewalk, no “b-but walkability!” excuse). “Freedom Gas Station” is adorned with a Liberian flag. One house makes it clear that it roots for Trump in 2024, while his neighbor believes that love is love and water is life. There are three fast food chain options in a town of less than 2000 and all three are delicious. Yet the most American experience, except perhaps the party where we started target shooting cans for fun, was yet to come.

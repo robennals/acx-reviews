@@ -1,16 +1,19 @@
 ---
-title: "Order Without Law"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2021-book-reviews"
-contestName: "2021 Book Reviews"
+title: Order Without Law
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2021-book-reviews
+contestName: 2021 Book Reviews
 year: 2021
-publishedDate: "2026-02-05T15:44:03.331Z"
-slug: "order-without-law"
+publishedDate: '2026-02-05T15:44:03.331Z'
+slug: order-without-law
 wordCount: 14758
 readingTimeMinutes: 66
-originalUrl: "https://astralcodexten.substack.com/p/your-book-review-order-without-law"
-source: "acx"
+originalUrl: 'https://astralcodexten.substack.com/p/your-book-review-order-without-law'
+source: acx
+tags:
+  - Society
+  - Economics
 ---
 
 [_This is the first of many finalists in the book review contest. It’s not by me - it’s by an ACX reader who will remain anonymous until after voting is done, to prevent their identity from influencing your decisions. I’ll be posting about two of these a week for the next few months. When you’ve read all of them, I’ll ask you to vote for your favorite, so remember which ones you liked. The broken footnotes in this one are either my fault or Substack’s, so please don’t hold it against this entry. Oh, and I promise not all of them are this long. - SA_]

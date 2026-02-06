@@ -1,16 +1,19 @@
 ---
-title: "Humankind"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2021-book-reviews"
-contestName: "2021 Book Reviews"
+title: Humankind
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2021-book-reviews
+contestName: 2021 Book Reviews
 year: 2021
-publishedDate: "2026-02-05T15:44:22.224Z"
-slug: "humankind"
+publishedDate: '2026-02-05T15:44:22.224Z'
+slug: humankind
 wordCount: 7365
 readingTimeMinutes: 33
-originalUrl: "https://astralcodexten.substack.com/p/your-book-review-humankind"
-source: "acx"
+originalUrl: 'https://astralcodexten.substack.com/p/your-book-review-humankind'
+source: acx
+tags:
+  - Psychology
+  - Society
 ---
 
 [_This is the twelfth of many finalists in the book review contest. It’s not by me - it’s by an ACX reader who will remain anonymous until after voting is done, to prevent their identity from influencing your decisions. I’ll be posting about two of these a week for several months. When you’ve read all of them, I’ll ask you to vote for your favorite, so remember which ones you liked. If you like reading these reviews, check out [point 3 here](https://astralcodexten.substack.com/p/open-thread-169) for a way you can help move the contest forward by reading lots more of them - SA_]

@@ -1,16 +1,19 @@
 ---
-title: "On Numbers and Games by John H. Conway"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2021-book-reviews"
-contestName: "2021 Book Reviews"
+title: On Numbers and Games by John H. Conway
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2021-book-reviews
+contestName: 2021 Book Reviews
 year: 2021
-publishedDate: "2026-02-06T07:21:29.571Z"
-slug: "on-numbers-and-games-by-john-h-conway"
+publishedDate: '2026-02-06T07:21:29.571Z'
+slug: on-numbers-and-games-by-john-h-conway
 wordCount: 1067
 readingTimeMinutes: 5
-originalUrl: "https://docs.google.com/document/d/1xexFJ7h0vULMDE7N77q_MIzXoerexfe_CqqGEL6hEoQ"
-source: "gdoc"
+originalUrl: >-
+  https://docs.google.com/document/d/1xexFJ7h0vULMDE7N77q_MIzXoerexfe_CqqGEL6hEoQ
+source: gdoc
+tags:
+  - Science
 ---
 
 John H. Conway recently died from COVID-19.

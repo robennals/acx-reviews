@@ -1,16 +1,23 @@
 ---
-title: "The aphorism \"Music is the universal language of mankind\" - Henry Wadsworth Longfellow"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2025-non-book-reviews"
-contestName: "2025 Non Book Reviews"
+title: >-
+  The aphorism "Music is the universal language of mankind" - Henry Wadsworth
+  Longfellow
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2025-non-book-reviews
+contestName: 2025 Non Book Reviews
 year: 2025
-publishedDate: "2026-02-06T16:57:48.983Z"
-slug: "the-aphorism-music-is-the-universal-language-of-mankind-henry-wadsworth-longfellow"
+publishedDate: '2026-02-06T16:57:48.983Z'
+slug: >-
+  the-aphorism-music-is-the-universal-language-of-mankind-henry-wadsworth-longfellow
 wordCount: 2851
 readingTimeMinutes: 13
-originalUrl: "https://docs.google.com/document/d/1hjIUcKi-vIM9RGRZDWPRyUtzZLlVrpaY6Jy81iZVYi4"
-source: "gdoc"
+originalUrl: >-
+  https://docs.google.com/document/d/1hjIUcKi-vIM9RGRZDWPRyUtzZLlVrpaY6Jy81iZVYi4
+source: gdoc
+tags:
+  - Philosophy
+  - Psychology
 ---
 
 Relevant context: I play jazz saxophone at a high level.

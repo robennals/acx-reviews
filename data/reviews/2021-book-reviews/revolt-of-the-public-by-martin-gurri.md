@@ -1,16 +1,21 @@
 ---
-title: "Revolt of the Public by Martin Gurri"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2021-book-reviews"
-contestName: "2021 Book Reviews"
+title: Revolt of the Public by Martin Gurri
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2021-book-reviews
+contestName: 2021 Book Reviews
 year: 2021
-publishedDate: "2026-02-06T07:21:29.573Z"
-slug: "revolt-of-the-public-by-martin-gurri"
+publishedDate: '2026-02-06T07:21:29.573Z'
+slug: revolt-of-the-public-by-martin-gurri
 wordCount: 1940
 readingTimeMinutes: 9
-originalUrl: "https://docs.google.com/document/d/1xexFJ7h0vULMDE7N77q_MIzXoerexfe_CqqGEL6hEoQ"
-source: "gdoc"
+originalUrl: >-
+  https://docs.google.com/document/d/1xexFJ7h0vULMDE7N77q_MIzXoerexfe_CqqGEL6hEoQ
+source: gdoc
+tags:
+  - Politics
+  - Society
+  - Technology
 ---
 
 Gurri’s Revolt of the Public offers an explanation for a lot of what makes the world seem so strange right now.  Published in 2014, it foreshadows Trump’s 2016 Presidential victory.  But Gurri’s thesis explains much more than just the Trump phenomenon. It applies equally to the Arab Spring of 2011 and the recent rise of Socialist ideas in the US.  The simplified version of Gurri’s thesis is as follows: The information age shows us the flaws of our leaders, leading to disillusionment and ultimately threatening democracy.  But you really shouldn’t shorten Gurri’s thesis. He takes great pains to include nuance and qualify his arguments.

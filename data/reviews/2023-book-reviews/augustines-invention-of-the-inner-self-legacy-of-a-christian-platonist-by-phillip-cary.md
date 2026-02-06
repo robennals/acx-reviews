@@ -1,16 +1,23 @@
 ---
-title: "Augustine’s Invention of the Inner Self: Legacy of a Christian Platonist by Phillip Cary"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2023-book-reviews"
-contestName: "2023 Book Reviews"
+title: >-
+  Augustine’s Invention of the Inner Self: Legacy of a Christian Platonist by
+  Phillip Cary
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2023-book-reviews
+contestName: 2023 Book Reviews
 year: 2023
-publishedDate: "2026-02-06T07:21:10.022Z"
-slug: "augustines-invention-of-the-inner-self-legacy-of-a-christian-platonist-by-phillip-cary"
+publishedDate: '2026-02-06T07:21:10.022Z'
+slug: >-
+  augustines-invention-of-the-inner-self-legacy-of-a-christian-platonist-by-phillip-cary
 wordCount: 3242
 readingTimeMinutes: 15
-originalUrl: "https://docs.google.com/document/d/10CiEI7aDL2bMIdx7yayy3vlq0TJ8dO5LGnG7yIDPiw8"
-source: "gdoc"
+originalUrl: >-
+  https://docs.google.com/document/d/10CiEI7aDL2bMIdx7yayy3vlq0TJ8dO5LGnG7yIDPiw8
+source: gdoc
+tags:
+  - Philosophy
+  - Religion
 ---
 
 The Self-Invented Self and AI

@@ -1,16 +1,20 @@
 ---
-title: "The Hunt for Red October is Tom Clancy"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2024-book-reviews"
-contestName: "2024 Book Reviews"
+title: "The Hunt for Red October\_is Tom Clancy"
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2024-book-reviews
+contestName: 2024 Book Reviews
 year: 2024
-publishedDate: "2026-02-06T16:49:14.008Z"
-slug: "the-hunt-for-red-october-is-tom-clancy"
+publishedDate: '2026-02-06T16:49:14.008Z'
+slug: the-hunt-for-red-october-is-tom-clancy
 wordCount: 4435
 readingTimeMinutes: 20
-originalUrl: "https://docs.google.com/document/d/14qa47TJ_Vyerx4XNgTCIh7PUZ_TOgNcU_eHm5So_zo0"
-source: "gdoc"
+originalUrl: >-
+  https://docs.google.com/document/d/14qa47TJ_Vyerx4XNgTCIh7PUZ_TOgNcU_eHm5So_zo0
+source: gdoc
+tags:
+  - Fiction
+  - History
 ---
 
 At the end of my high school AP US History class, we had to write a book report about a 20th century novel. I chose Tom Clancy’s The Hunt for Red October because I foolishly thought I wouldn’t have to spend long reading a thriller. In a sense, I was right - after an hour I gave up, watched the 1990 movie, and wrote the book report based on that. I never finished the novel at the time, so this review is my penance. To Mrs. Scharf: if you're reading this, I am sorry my essay is a decade late, a dog ate my homework.

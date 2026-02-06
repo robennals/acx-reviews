@@ -1,16 +1,20 @@
 ---
-title: "Freedom of Speech"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2025-non-book-reviews"
-contestName: "2025 Non Book Reviews"
+title: Freedom of Speech
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2025-non-book-reviews
+contestName: 2025 Non Book Reviews
 year: 2025
-publishedDate: "2026-02-06T16:52:48.893Z"
-slug: "freedom-of-speech"
+publishedDate: '2026-02-06T16:52:48.893Z'
+slug: freedom-of-speech
 wordCount: 6888
 readingTimeMinutes: 31
-originalUrl: "https://docs.google.com/document/d/1d0vRSj1E93joWWvbUen2XGuDjN_mM94ybMIAADzM2fo"
-source: "gdoc"
+originalUrl: >-
+  https://docs.google.com/document/d/1d0vRSj1E93joWWvbUen2XGuDjN_mM94ybMIAADzM2fo
+source: gdoc
+tags:
+  - Philosophy
+  - Politics
 ---
 
 In defense of free speech, John Stuart Mill wrote, “But the peculiar evil of silencing the expression of an opinion is, that it is robbing the human race; … If the opinion is right, they are deprived of the opportunity of exchanging error for truth: if wrong, they lose, what is almost as great a benefit, the clearer perception and livelier impression of truth, produced by its collision with error,” (On Liberty, 31). If I had five minutes to show him the collisions of truth and error on Twitter, I think he’d gouge his eyes out with his quill pen.

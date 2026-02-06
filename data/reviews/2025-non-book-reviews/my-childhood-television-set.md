@@ -1,16 +1,20 @@
 ---
-title: "My Childhood Television Set"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2025-non-book-reviews"
-contestName: "2025 Non Book Reviews"
+title: My Childhood Television Set
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2025-non-book-reviews
+contestName: 2025 Non Book Reviews
 year: 2025
-publishedDate: "2026-02-06T16:55:03.481Z"
-slug: "my-childhood-television-set"
+publishedDate: '2026-02-06T16:55:03.481Z'
+slug: my-childhood-television-set
 wordCount: 1043
 readingTimeMinutes: 5
-originalUrl: "https://docs.google.com/document/d/1a3q0Z2tuPLLbDeg5-pfEffkajGjrfPDwE7ZMs7uaWQs"
-source: "gdoc"
+originalUrl: >-
+  https://docs.google.com/document/d/1a3q0Z2tuPLLbDeg5-pfEffkajGjrfPDwE7ZMs7uaWQs
+source: gdoc
+tags:
+  - Memoir
+  - Technology
 ---
 
 The television I grew up with, on its four stubby legs, was about as tall as it was wide — it came up to my chest — and nearly as deep, if you count where the tapering end of the picture tube stuck out the back. It stood angled against the far corner of the “family room” opposite the couch and the bookshelf.

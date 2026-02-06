@@ -1,16 +1,20 @@
 ---
-title: "A Review of the Proposition: The Goat is Humanity's Best Tutor"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2025-non-book-reviews"
-contestName: "2025 Non Book Reviews"
+title: 'A Review of the Proposition: The Goat is Humanity''s Best Tutor'
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2025-non-book-reviews
+contestName: 2025 Non Book Reviews
 year: 2025
-publishedDate: "2026-02-06T16:52:48.886Z"
-slug: "a-review-of-the-proposition-the-goat-is-humanitys-best-tutor"
+publishedDate: '2026-02-06T16:52:48.886Z'
+slug: a-review-of-the-proposition-the-goat-is-humanitys-best-tutor
 wordCount: 4758
 readingTimeMinutes: 22
-originalUrl: "https://docs.google.com/document/d/1d0vRSj1E93joWWvbUen2XGuDjN_mM94ybMIAADzM2fo"
-source: "gdoc"
+originalUrl: >-
+  https://docs.google.com/document/d/1d0vRSj1E93joWWvbUen2XGuDjN_mM94ybMIAADzM2fo
+source: gdoc
+tags:
+  - History
+  - Religion
 ---
 
 Aristotle's goat jumped into my consciousness one Saturday afternoon as I was watching a documentary on television about World War I. After a routine camera pan of miscellaneous dignitaries viewing a military parade, a 'creature' appeared at the head of one of the marching units. I was stunned and began a deep dive into the story of this 'creature' who turned out to be Taffy IV, the goat mascot of the Royal Welsh Fusiliers, in his full military regalia, green cape and all. The deep dive went deeper: Taffy was a war hero. Aristotle's rambling goat who he said is not capable of repose [1] is one of Joseph Campbell's tutors of humanity [2]

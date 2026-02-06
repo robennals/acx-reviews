@@ -1,16 +1,21 @@
 ---
-title: "The Condition of Postmodernity: An Enquiry into the Origins of Cultural Change"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2022-book-reviews"
-contestName: "2022 Book Reviews"
+title: 'The Condition of Postmodernity: An Enquiry into the Origins of Cultural Change'
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2022-book-reviews
+contestName: 2022 Book Reviews
 year: 2022
-publishedDate: "2026-02-06T07:22:32.821Z"
-slug: "the-condition-of-postmodernity-an-enquiry-into-the-origins-of-cultural-change"
+publishedDate: '2026-02-06T07:22:32.821Z'
+slug: the-condition-of-postmodernity-an-enquiry-into-the-origins-of-cultural-change
 wordCount: 6861
 readingTimeMinutes: 31
-originalUrl: "https://docs.google.com/document/d/100kMdSVFviZSSBvUyyEQPMNlvLptVQxHFD9i9wGuBWs"
-source: "gdoc"
+originalUrl: >-
+  https://docs.google.com/document/d/100kMdSVFviZSSBvUyyEQPMNlvLptVQxHFD9i9wGuBWs
+source: gdoc
+tags:
+  - Philosophy
+  - Society
+  - History
 ---
 
 ## Introduction

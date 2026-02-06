@@ -1,16 +1,20 @@
 ---
-title: "Sign-tracking Sucks"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2025-non-book-reviews"
-contestName: "2025 Non Book Reviews"
+title: Sign-tracking Sucks
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2025-non-book-reviews
+contestName: 2025 Non Book Reviews
 year: 2025
-publishedDate: "2026-02-06T16:55:03.486Z"
-slug: "sign-tracking-sucks"
+publishedDate: '2026-02-06T16:55:03.486Z'
+slug: sign-tracking-sucks
 wordCount: 4335
 readingTimeMinutes: 20
-originalUrl: "https://docs.google.com/document/d/1a3q0Z2tuPLLbDeg5-pfEffkajGjrfPDwE7ZMs7uaWQs"
-source: "gdoc"
+originalUrl: >-
+  https://docs.google.com/document/d/1a3q0Z2tuPLLbDeg5-pfEffkajGjrfPDwE7ZMs7uaWQs
+source: gdoc
+tags:
+  - Psychology
+  - Biology
 ---
 
 Put a rat in a cage. Show it a lever. A few seconds later, regardless of what it does, give it some food. Repeat a couple dozen times a day for a week and the rat will learn to associate the lever with food. Some rats go over to where the food will come as soon as they see the lever. Those rats are goal-trackers. The rest of the rats will start to play with the lever and maybe chew on it once they see the lever. And then once the food appears they'll go over to that part of the cage and eat it. Those rats are sign-trackers. Sign-tracking entails the release of stress hormones, and its pointless because the sign-trackers don't get any more food than the goal-trackers. Sign-tracking sucks; zero out of five stars; do not recommend.

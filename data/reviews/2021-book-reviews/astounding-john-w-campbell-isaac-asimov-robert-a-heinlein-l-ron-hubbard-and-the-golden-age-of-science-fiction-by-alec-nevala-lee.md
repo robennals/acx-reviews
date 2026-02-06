@@ -1,16 +1,23 @@
 ---
-title: "Astounding: John W. Campbell, Isaac Asimov, Robert A. Heinlein, L. Ron Hubbard, and the Golden Age of Science Fiction by Alec Nevala-Lee"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2021-book-reviews"
-contestName: "2021 Book Reviews"
+title: >-
+  Astounding: John W. Campbell, Isaac Asimov, Robert A. Heinlein, L. Ron
+  Hubbard, and the Golden Age of Science Fiction by Alec Nevala-Lee
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2021-book-reviews
+contestName: 2021 Book Reviews
 year: 2021
-publishedDate: "2026-02-06T07:21:29.561Z"
-slug: "astounding-john-w-campbell-isaac-asimov-robert-a-heinlein-l-ron-hubbard-and-the-golden-age-of-science-fiction-by-alec-nevala-lee"
+publishedDate: '2026-02-06T07:21:29.561Z'
+slug: >-
+  astounding-john-w-campbell-isaac-asimov-robert-a-heinlein-l-ron-hubbard-and-the-golden-age-of-science-fiction-by-alec-nevala-lee
 wordCount: 2023
 readingTimeMinutes: 9
-originalUrl: "https://docs.google.com/document/d/1xexFJ7h0vULMDE7N77q_MIzXoerexfe_CqqGEL6hEoQ"
-source: "gdoc"
+originalUrl: >-
+  https://docs.google.com/document/d/1xexFJ7h0vULMDE7N77q_MIzXoerexfe_CqqGEL6hEoQ
+source: gdoc
+tags:
+  - Fiction
+  - History
 ---
 
 Every now and then, amid your fevered cries for net neutrality, free soil and free silver, the restoration of the house of Stuart, more episodes of Firefly, or whatever other hopeless cause gets your blood racing and your family members fleeing (they recognize a wind-up to a full-fledged rant when they hear one), against all odds the universe actually hears, takes note, and gives you precisely what you've asked for - not often, dammit, but sometimes.

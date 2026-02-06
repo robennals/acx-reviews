@@ -1,16 +1,20 @@
 ---
-title: "The Diamond Age or A Young Lady’s Illustrated Primer by Neal Stephenson"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2022-book-reviews"
-contestName: "2022 Book Reviews"
+title: The Diamond Age or A Young Lady’s Illustrated Primer by Neal Stephenson
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2022-book-reviews
+contestName: 2022 Book Reviews
 year: 2022
-publishedDate: "2026-02-06T07:22:32.823Z"
-slug: "the-diamond-age-or-a-young-ladys-illustrated-primer-by-neal-stephenson"
+publishedDate: '2026-02-06T07:22:32.823Z'
+slug: the-diamond-age-or-a-young-ladys-illustrated-primer-by-neal-stephenson
 wordCount: 1990
 readingTimeMinutes: 9
-originalUrl: "https://docs.google.com/document/d/100kMdSVFviZSSBvUyyEQPMNlvLptVQxHFD9i9wGuBWs"
-source: "gdoc"
+originalUrl: >-
+  https://docs.google.com/document/d/100kMdSVFviZSSBvUyyEQPMNlvLptVQxHFD9i9wGuBWs
+source: gdoc
+tags:
+  - Fiction
+  - Technology
 ---
 
 What do fairytales teach? I have a soft spot for children and beautiful illustrations, so I often imagine that fairytales teach important lessons. My father, however, thinks all fairy tales should end the same way. “Remember kids, don’t go into the woods.” A Young Lady’s Illustrated Primer poses questions about education. It answers most of them with claims about the value of fairy tales in teaching critical thinking skills, and wraps these theses in a sci-fi novel.  

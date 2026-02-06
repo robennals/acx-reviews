@@ -1,16 +1,20 @@
 ---
-title: "GETTING OVER IT WITH BENNETT FODDY: a perfect review in which I fail"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2025-non-book-reviews"
-contestName: "2025 Non Book Reviews"
+title: 'GETTING OVER IT WITH BENNETT FODDY: a perfect review in which I fail'
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2025-non-book-reviews
+contestName: 2025 Non Book Reviews
 year: 2025
-publishedDate: "2026-02-06T16:57:23.283Z"
-slug: "getting-over-it-with-bennett-foddy-a-perfect-review-in-which-i-fail"
+publishedDate: '2026-02-06T16:57:23.283Z'
+slug: getting-over-it-with-bennett-foddy-a-perfect-review-in-which-i-fail
 wordCount: 5112
 readingTimeMinutes: 23
-originalUrl: "https://docs.google.com/document/d/1B3YxYxLVFjKGicaEkqvt353kt0uimn0PSUQv1PyaHuI"
-source: "gdoc"
+originalUrl: >-
+  https://docs.google.com/document/d/1B3YxYxLVFjKGicaEkqvt353kt0uimn0PSUQv1PyaHuI
+source: gdoc
+tags:
+  - Philosophy
+  - Memoir
 ---
 
 ## In Which I Begin By Reviewing All Video Games

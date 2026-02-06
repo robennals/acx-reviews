@@ -1,16 +1,20 @@
 ---
-title: "Pure Mathematics"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2025-non-book-reviews"
-contestName: "2025 Non Book Reviews"
+title: Pure Mathematics
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2025-non-book-reviews
+contestName: 2025 Non Book Reviews
 year: 2025
-publishedDate: "2026-02-06T16:55:03.485Z"
-slug: "pure-mathematics"
+publishedDate: '2026-02-06T16:55:03.485Z'
+slug: pure-mathematics
 wordCount: 2402
 readingTimeMinutes: 11
-originalUrl: "https://docs.google.com/document/d/1a3q0Z2tuPLLbDeg5-pfEffkajGjrfPDwE7ZMs7uaWQs"
-source: "gdoc"
+originalUrl: >-
+  https://docs.google.com/document/d/1a3q0Z2tuPLLbDeg5-pfEffkajGjrfPDwE7ZMs7uaWQs
+source: gdoc
+tags:
+  - Science
+  - Philosophy
 ---
 
 This is a review of pure mathematics: specifically, about the value it provides society that justifies its public funding. I’m a mathematician who personally feels that the standard way the field justifies itself is incomplete and wrote this to help reason through a potential supplement.    

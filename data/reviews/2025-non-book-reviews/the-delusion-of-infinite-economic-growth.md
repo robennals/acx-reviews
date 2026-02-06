@@ -1,16 +1,20 @@
 ---
-title: "The Delusion of Infinite Economic Growth"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2025-non-book-reviews"
-contestName: "2025 Non Book Reviews"
+title: The Delusion of Infinite Economic Growth
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2025-non-book-reviews
+contestName: 2025 Non Book Reviews
 year: 2025
-publishedDate: "2026-02-06T16:55:59.395Z"
-slug: "the-delusion-of-infinite-economic-growth"
+publishedDate: '2026-02-06T16:55:59.395Z'
+slug: the-delusion-of-infinite-economic-growth
 wordCount: 1962
 readingTimeMinutes: 9
-originalUrl: "https://docs.google.com/document/d/1jYVJFIz5-aMi0LCgsC9AN6BncJDNVGaMU37QmwZ1vzA"
-source: "gdoc"
+originalUrl: >-
+  https://docs.google.com/document/d/1jYVJFIz5-aMi0LCgsC9AN6BncJDNVGaMU37QmwZ1vzA
+source: gdoc
+tags:
+  - Economics
+  - Science
 ---
 
 “[The Delusion of Infinite Economic Growth](https://www.scientificamerican.com/article/the-delusion-of-infinite-economic-growth/)” is an article published by the Scientific American in 2021, which is one of a long line of pieces making the same argument. They generally all have the same structure:

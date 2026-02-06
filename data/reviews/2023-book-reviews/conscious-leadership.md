@@ -1,16 +1,20 @@
 ---
-title: "Conscious Leadership"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2023-book-reviews"
-contestName: "2023 Book Reviews"
+title: Conscious Leadership
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2023-book-reviews
+contestName: 2023 Book Reviews
 year: 2023
-publishedDate: "2026-02-06T07:21:10.027Z"
-slug: "conscious-leadership"
+publishedDate: '2026-02-06T07:21:10.027Z'
+slug: conscious-leadership
 wordCount: 3869
 readingTimeMinutes: 18
-originalUrl: "https://docs.google.com/document/d/10CiEI7aDL2bMIdx7yayy3vlq0TJ8dO5LGnG7yIDPiw8"
-source: "gdoc"
+originalUrl: >-
+  https://docs.google.com/document/d/10CiEI7aDL2bMIdx7yayy3vlq0TJ8dO5LGnG7yIDPiw8
+source: gdoc
+tags:
+  - Economics
+  - Society
 ---
 
 I feel I need to apologize for offering you this book review of Conscious Leadership by John Mackey, formerly CEO of Whole Foods until he sold it to Amazon. The book so closely resembles a cliche of a fluffy, bromide-laden business book that I want to cringe along with you at the idea that it might be worth reading, reviewing, or knowing about.

@@ -1,16 +1,19 @@
 ---
-title: "Sound Bathing"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2025-non-book-reviews"
-contestName: "2025 Non Book Reviews"
+title: Sound Bathing
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2025-non-book-reviews
+contestName: 2025 Non Book Reviews
 year: 2025
-publishedDate: "2026-02-06T16:57:48.927Z"
-slug: "sound-bathing"
+publishedDate: '2026-02-06T16:57:48.927Z'
+slug: sound-bathing
 wordCount: 2523
 readingTimeMinutes: 12
-originalUrl: "https://docs.google.com/document/d/1hjIUcKi-vIM9RGRZDWPRyUtzZLlVrpaY6Jy81iZVYi4"
-source: "gdoc"
+originalUrl: >-
+  https://docs.google.com/document/d/1hjIUcKi-vIM9RGRZDWPRyUtzZLlVrpaY6Jy81iZVYi4
+source: gdoc
+tags:
+  - Psychology
 ---
 
 Every few weeks I go to a public space, lay on the ground with strangers, and let crystal singing bowls carry me off into bliss.

@@ -1,16 +1,19 @@
 ---
-title: "Fisher is Evil"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2022-book-reviews"
-contestName: "2022 Book Reviews"
+title: Fisher is Evil
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2022-book-reviews
+contestName: 2022 Book Reviews
 year: 2022
-publishedDate: "2026-02-06T07:22:32.818Z"
-slug: "fisher-is-evil"
+publishedDate: '2026-02-06T07:22:32.818Z'
+slug: fisher-is-evil
 wordCount: 3059
 readingTimeMinutes: 14
-originalUrl: "https://docs.google.com/document/d/100kMdSVFviZSSBvUyyEQPMNlvLptVQxHFD9i9wGuBWs"
-source: "gdoc"
+originalUrl: >-
+  https://docs.google.com/document/d/100kMdSVFviZSSBvUyyEQPMNlvLptVQxHFD9i9wGuBWs
+source: gdoc
+tags:
+  - Science
 ---
 
 A young Fisher. ([Source](https://www.google.com/url?q=https://commons.wikimedia.org/wiki/File:Ronald_Fisher_as_a_child.JPG&sa=D&source=editors&ust=1770366145319311&usg=AOvVaw3tLTTQpnS8YAs68JSXuUwY))

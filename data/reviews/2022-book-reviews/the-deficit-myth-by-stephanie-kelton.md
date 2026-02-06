@@ -1,16 +1,20 @@
 ---
-title: "The Deficit Myth by Stephanie Kelton"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2022-book-reviews"
-contestName: "2022 Book Reviews"
+title: The Deficit Myth by Stephanie Kelton
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2022-book-reviews
+contestName: 2022 Book Reviews
 year: 2022
-publishedDate: "2026-02-06T07:22:32.822Z"
-slug: "the-deficit-myth-by-stephanie-kelton"
+publishedDate: '2026-02-06T07:22:32.822Z'
+slug: the-deficit-myth-by-stephanie-kelton
 wordCount: 3990
 readingTimeMinutes: 18
-originalUrl: "https://docs.google.com/document/d/100kMdSVFviZSSBvUyyEQPMNlvLptVQxHFD9i9wGuBWs"
-source: "gdoc"
+originalUrl: >-
+  https://docs.google.com/document/d/100kMdSVFviZSSBvUyyEQPMNlvLptVQxHFD9i9wGuBWs
+source: gdoc
+tags:
+  - Economics
+  - Politics
 ---
 
 ## Introduction

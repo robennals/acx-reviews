@@ -1,16 +1,21 @@
 ---
-title: "Private Government by Elizabeth Anderson"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2022-book-reviews"
-contestName: "2022 Book Reviews"
+title: "Private Government\_by Elizabeth Anderson"
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2022-book-reviews
+contestName: 2022 Book Reviews
 year: 2022
-publishedDate: "2026-02-06T07:23:14.487Z"
-slug: "private-government-by-elizabeth-anderson"
+publishedDate: '2026-02-06T07:23:14.487Z'
+slug: private-government-by-elizabeth-anderson
 wordCount: 5363
 readingTimeMinutes: 24
-originalUrl: "https://docs.google.com/document/d/1kQUUJhv-MpLawby2j4zXLZPDG6ligWd5xpIjH8UmWdw"
-source: "gdoc"
+originalUrl: >-
+  https://docs.google.com/document/d/1kQUUJhv-MpLawby2j4zXLZPDG6ligWd5xpIjH8UmWdw
+source: gdoc
+tags:
+  - Politics
+  - Economics
+  - Philosophy
 ---
 
 What does it mean for a worker to be exploited? Libertarians would say that along as the worker freely entered into a contract, nothing in the contract can be exploitive. Communists would say that all employees are exploited because they do not own the means of production. American Democrats would say that if the worker isn’t earning a living wage, or exposed to hazardous conditions. American Republicans would say workers are exploited by the taxes they pay to the state and by the endless diversity seminars they’re subjected to.

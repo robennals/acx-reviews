@@ -1,16 +1,20 @@
 ---
-title: "The Tyranny of Metrics by Jerry Z. Muller"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2022-book-reviews"
-contestName: "2022 Book Reviews"
+title: The Tyranny of Metrics by Jerry Z. Muller
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2022-book-reviews
+contestName: 2022 Book Reviews
 year: 2022
-publishedDate: "2026-02-06T07:21:54.174Z"
-slug: "the-tyranny-of-metrics-by-jerry-z-muller"
+publishedDate: '2026-02-06T07:21:54.174Z'
+slug: the-tyranny-of-metrics-by-jerry-z-muller
 wordCount: 1533
 readingTimeMinutes: 7
-originalUrl: "https://docs.google.com/document/d/1hFzjXliCAWjvheY-8Qd2fhbF79LnX0Xg6R9eqk9yIyI"
-source: "gdoc"
+originalUrl: >-
+  https://docs.google.com/document/d/1hFzjXliCAWjvheY-8Qd2fhbF79LnX0Xg6R9eqk9yIyI
+source: gdoc
+tags:
+  - Society
+  - Economics
 ---
 
 sets out to investigate how metrics became ever present in private and public organisations, and how introduction of metrics can lead to unintended consequences.

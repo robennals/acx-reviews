@@ -1,16 +1,20 @@
 ---
-title: "Mind and Cosmos by Thomas Nagel"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2022-book-reviews"
-contestName: "2022 Book Reviews"
+title: Mind and Cosmos by Thomas Nagel
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2022-book-reviews
+contestName: 2022 Book Reviews
 year: 2022
-publishedDate: "2026-02-06T07:23:14.484Z"
-slug: "mind-and-cosmos-by-thomas-nagel"
+publishedDate: '2026-02-06T07:23:14.484Z'
+slug: mind-and-cosmos-by-thomas-nagel
 wordCount: 5386
 readingTimeMinutes: 24
-originalUrl: "https://docs.google.com/document/d/1kQUUJhv-MpLawby2j4zXLZPDG6ligWd5xpIjH8UmWdw"
-source: "gdoc"
+originalUrl: >-
+  https://docs.google.com/document/d/1kQUUJhv-MpLawby2j4zXLZPDG6ligWd5xpIjH8UmWdw
+source: gdoc
+tags:
+  - Philosophy
+  - Science
 ---
 
 Mind and Cosmos was not well received. Written by the eminent analytic philosopher Thomas Nagel and published in September 2012 by Oxford University Press, it arrived at the tail end of a long, vehement debate between biologists and creationists about whether ‘intelligent design’ was a credible scientific alternative to evolutionary theory. Nagel subtitled his book Why the Materialist Neo-Darwinian Conception of Nature is Almost Certainly False, and in the introduction he announces that he’s surveyed both sides of the controversy and ruled in favour of the creationists. He doesn’t agree with everything they say, nor does he believe in God. He just thinks that in this fight they’re less wrong than the biologists, declaring that it is ‘highly implausible that life as we know it is the result of a sequence of physical accidents together with the mechanism of natural selection.’

@@ -1,16 +1,22 @@
 ---
-title: "Death Review - The Lives, Deaths, & Legacies of Mata Hari, Princess Diana, & Joan of Arc"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2025-non-book-reviews"
-contestName: "2025 Non Book Reviews"
+title: >-
+  Death Review - The Lives, Deaths, & Legacies of Mata Hari, Princess Diana, &
+  Joan of Arc
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2025-non-book-reviews
+contestName: 2025 Non Book Reviews
 year: 2025
-publishedDate: "2026-02-06T16:52:48.891Z"
-slug: "death-review-the-lives-deaths-legacies-of-mata-hari-princess-diana-joan-of-arc"
+publishedDate: '2026-02-06T16:52:48.891Z'
+slug: death-review-the-lives-deaths-legacies-of-mata-hari-princess-diana-joan-of-arc
 wordCount: 9346
 readingTimeMinutes: 42
-originalUrl: "https://docs.google.com/document/d/1d0vRSj1E93joWWvbUen2XGuDjN_mM94ybMIAADzM2fo"
-source: "gdoc"
+originalUrl: >-
+  https://docs.google.com/document/d/1d0vRSj1E93joWWvbUen2XGuDjN_mM94ybMIAADzM2fo
+source: gdoc
+tags:
+  - History
+  - Philosophy
 ---
 
 Plutarch wrote Lives to compare great men. Let us turn to death and review great women. In Joan of Arc, Mata Hari, and Princess Diana, we find not just historical figures but powerful myths of the saint, the whore, and the princess, whose struggles with power, survival, and authenticity only became clear once they were gone.

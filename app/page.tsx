@@ -1,9 +1,10 @@
-import { getAllReviews, getAllContests } from '@/lib/reviews';
+import { getAllReviews, getAllContests, getAllTags } from '@/lib/reviews';
 import { HomePageClient } from '@/components/home-page-client';
 
 export default async function HomePage() {
   const reviews = await getAllReviews();
   const contests = await getAllContests();
+  const tags = await getAllTags();
 
   if (reviews.length === 0) {
     return (
@@ -57,5 +58,5 @@ export default async function HomePage() {
     );
   }
 
-  return <HomePageClient reviews={reviews} contests={contests} />;
+  return <HomePageClient reviews={reviews} contests={contests} tags={tags} />;
 }

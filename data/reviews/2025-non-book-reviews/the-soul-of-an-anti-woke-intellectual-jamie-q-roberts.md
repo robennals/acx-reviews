@@ -1,16 +1,20 @@
 ---
-title: "The soul of an anti-woke intellectual: Jamie Q. Roberts"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2025-non-book-reviews"
-contestName: "2025 Non Book Reviews"
+title: 'The soul of an anti-woke intellectual: Jamie Q. Roberts'
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2025-non-book-reviews
+contestName: 2025 Non Book Reviews
 year: 2025
-publishedDate: "2026-02-06T16:55:59.399Z"
-slug: "the-soul-of-an-anti-woke-intellectual-jamie-q-roberts"
+publishedDate: '2026-02-06T16:55:59.399Z'
+slug: the-soul-of-an-anti-woke-intellectual-jamie-q-roberts
 wordCount: 5515
 readingTimeMinutes: 25
-originalUrl: "https://docs.google.com/document/d/1jYVJFIz5-aMi0LCgsC9AN6BncJDNVGaMU37QmwZ1vzA"
-source: "gdoc"
+originalUrl: >-
+  https://docs.google.com/document/d/1jYVJFIz5-aMi0LCgsC9AN6BncJDNVGaMU37QmwZ1vzA
+source: gdoc
+tags:
+  - Society
+  - Philosophy
 ---
 
 We’re all gonna die

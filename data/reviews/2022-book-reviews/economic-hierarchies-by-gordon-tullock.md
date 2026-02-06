@@ -1,16 +1,20 @@
 ---
-title: "Economic Hierarchies by Gordon Tullock"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2022-book-reviews"
-contestName: "2022 Book Reviews"
+title: Economic Hierarchies by Gordon Tullock
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2022-book-reviews
+contestName: 2022 Book Reviews
 year: 2022
-publishedDate: "2026-02-06T07:24:08.699Z"
-slug: "economic-hierarchies-by-gordon-tullock"
+publishedDate: '2026-02-06T07:24:08.699Z'
+slug: economic-hierarchies-by-gordon-tullock
 wordCount: 9126
 readingTimeMinutes: 41
-originalUrl: "https://docs.google.com/document/d/1pRQbRbEUwSH_jm94PI_ij-88swat7vQ4iNaNp6gd39g"
-source: "gdoc"
+originalUrl: >-
+  https://docs.google.com/document/d/1pRQbRbEUwSH_jm94PI_ij-88swat7vQ4iNaNp6gd39g
+source: gdoc
+tags:
+  - Economics
+  - Society
 ---
 
 Naked and Afraid from the Discovery Channel didn’t live up to its potential. Though a handful of scraggly naked people trying to make it in Kenya’s wilderness made for interesting television, as they scratched themselves, got infections, and looked pretty uncomfortable. The interpersonal drama seemed contrived since their goals were mere survival, and the division of labor was not highly interesting in the show. I didn’t learn what I wanted--too much complacent nakedness, not enough competence-porn.

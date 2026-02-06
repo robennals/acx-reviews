@@ -1,16 +1,20 @@
 ---
-title: "The Mezzanine and The Size of Thoughts by Nicholson Baker"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2024-book-reviews"
-contestName: "2024 Book Reviews"
+title: The Mezzanine and The Size of Thoughts by Nicholson Baker
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2024-book-reviews
+contestName: 2024 Book Reviews
 year: 2024
-publishedDate: "2026-02-06T16:49:14.013Z"
-slug: "the-mezzanine-and-the-size-of-thoughts-by-nicholson-baker"
+publishedDate: '2026-02-06T16:49:14.013Z'
+slug: the-mezzanine-and-the-size-of-thoughts-by-nicholson-baker
 wordCount: 2613
 readingTimeMinutes: 12
-originalUrl: "https://docs.google.com/document/d/14qa47TJ_Vyerx4XNgTCIh7PUZ_TOgNcU_eHm5So_zo0"
-source: "gdoc"
+originalUrl: >-
+  https://docs.google.com/document/d/14qa47TJ_Vyerx4XNgTCIh7PUZ_TOgNcU_eHm5So_zo0
+source: gdoc
+tags:
+  - Fiction
+  - Philosophy
 ---
 
 Are the thoughts of the average person more numerous and interrelated than they were 500-1000 years ago? One tempting negative hypothesis is that we have outsourced the storage of information, produced so quickly and profusely by modern society, to extra-cranial media such as books and hard-drives. In this sense, our thoughts are like our eyes: the same organ they have always been, but enhanced with technology.

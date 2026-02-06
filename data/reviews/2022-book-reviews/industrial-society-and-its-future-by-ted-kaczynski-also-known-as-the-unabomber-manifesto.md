@@ -1,16 +1,22 @@
 ---
-title: "Industrial Society and Its Future by Ted Kaczynski (also known as the Unabomber Manifesto)"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2022-book-reviews"
-contestName: "2022 Book Reviews"
+title: "Industrial Society and Its Future\_by Ted Kaczynski (also known as the Unabomber Manifesto)"
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2022-book-reviews
+contestName: 2022 Book Reviews
 year: 2022
-publishedDate: "2026-02-06T07:23:14.476Z"
-slug: "industrial-society-and-its-future-by-ted-kaczynski-also-known-as-the-unabomber-manifesto"
+publishedDate: '2026-02-06T07:23:14.476Z'
+slug: >-
+  industrial-society-and-its-future-by-ted-kaczynski-also-known-as-the-unabomber-manifesto
 wordCount: 5228
 readingTimeMinutes: 24
-originalUrl: "https://docs.google.com/document/d/1kQUUJhv-MpLawby2j4zXLZPDG6ligWd5xpIjH8UmWdw"
-source: "gdoc"
+originalUrl: >-
+  https://docs.google.com/document/d/1kQUUJhv-MpLawby2j4zXLZPDG6ligWd5xpIjH8UmWdw
+source: gdoc
+tags:
+  - Society
+  - Technology
+  - Philosophy
 ---
 
 I’m writing this on a fast computer, sitting comfortably on a comfortable couch while drinking my coffee which was imported probably from Brazil, made with purified local water, which was boiled using an electrical stove top that doesn’t emit pollutants into the air in my house. And the coffee mug is a very cheap, high-quality ceramic mug that has “Super Grandma” and a heart on it. The ceramic won’t leach random harmful chemicals into my coffee because there’s a giant body of institutions that sort of take care that this just isn’t a thing that happens.

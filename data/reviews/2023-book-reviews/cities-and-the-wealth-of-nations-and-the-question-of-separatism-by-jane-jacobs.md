@@ -1,16 +1,22 @@
 ---
-title: "‘Cities and the Wealth of Nations’ and ‘The Question of Separatism’ by Jane Jacobs"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2023-book-reviews"
-contestName: "2023 Book Reviews"
+title: >-
+  ‘Cities and the Wealth of Nations’ and ‘The Question of Separatism’ by Jane
+  Jacobs
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2023-book-reviews
+contestName: 2023 Book Reviews
 year: 2023
-publishedDate: "2026-02-06T07:21:10.026Z"
-slug: "cities-and-the-wealth-of-nations-and-the-question-of-separatism-by-jane-jacobs"
+publishedDate: '2026-02-06T07:21:10.026Z'
+slug: cities-and-the-wealth-of-nations-and-the-question-of-separatism-by-jane-jacobs
 wordCount: 9846
 readingTimeMinutes: 44
-originalUrl: "https://docs.google.com/document/d/10CiEI7aDL2bMIdx7yayy3vlq0TJ8dO5LGnG7yIDPiw8"
-source: "gdoc"
+originalUrl: >-
+  https://docs.google.com/document/d/10CiEI7aDL2bMIdx7yayy3vlq0TJ8dO5LGnG7yIDPiw8
+source: gdoc
+tags:
+  - Economics
+  - Society
 ---
 
 Two Jane Jacobs Books From the 1980s

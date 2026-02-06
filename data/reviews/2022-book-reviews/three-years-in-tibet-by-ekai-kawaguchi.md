@@ -1,16 +1,20 @@
 ---
-title: "Three Years in Tibet by Ekai Kawaguchi"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2022-book-reviews"
-contestName: "2022 Book Reviews"
+title: Three Years in Tibet by Ekai Kawaguchi
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2022-book-reviews
+contestName: 2022 Book Reviews
 year: 2022
-publishedDate: "2026-02-06T07:21:54.175Z"
-slug: "three-years-in-tibet-by-ekai-kawaguchi"
+publishedDate: '2026-02-06T07:21:54.175Z'
+slug: three-years-in-tibet-by-ekai-kawaguchi
 wordCount: 2934
 readingTimeMinutes: 14
-originalUrl: "https://docs.google.com/document/d/1hFzjXliCAWjvheY-8Qd2fhbF79LnX0Xg6R9eqk9yIyI"
-source: "gdoc"
+originalUrl: >-
+  https://docs.google.com/document/d/1hFzjXliCAWjvheY-8Qd2fhbF79LnX0Xg6R9eqk9yIyI
+source: gdoc
+tags:
+  - Memoir
+  - Religion
 ---
 
 Here's the thing. I really want to write about a certain book, written by a very knowledgeable scholar I deeply respect, that details his three years in one of the world's most isolated countries. But I fear that the moment I mention the name of the country is the moment I lose almost everyone that might take interest, because the country was something of a cause-celebre a few years back. Everyone talked about it and everyone has already formed an opinion, which they still remember but no longer care for. So I'll taboo the name of the country, and other compromising information, until the very end.

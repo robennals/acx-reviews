@@ -1,16 +1,20 @@
 ---
-title: "The Knowledge: How to Rebuild Our World from Scratch by Lewis Dartnell"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2022-book-reviews"
-contestName: "2022 Book Reviews"
+title: "The Knowledge: How to Rebuild Our World from Scratch\_by Lewis Dartnell"
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2022-book-reviews
+contestName: 2022 Book Reviews
 year: 2022
-publishedDate: "2026-02-06T07:22:32.827Z"
-slug: "the-knowledge-how-to-rebuild-our-world-from-scratch-by-lewis-dartnell"
+publishedDate: '2026-02-06T07:22:32.827Z'
+slug: the-knowledge-how-to-rebuild-our-world-from-scratch-by-lewis-dartnell
 wordCount: 8077
 readingTimeMinutes: 36
-originalUrl: "https://docs.google.com/document/d/100kMdSVFviZSSBvUyyEQPMNlvLptVQxHFD9i9wGuBWs"
-source: "gdoc"
+originalUrl: >-
+  https://docs.google.com/document/d/100kMdSVFviZSSBvUyyEQPMNlvLptVQxHFD9i9wGuBWs
+source: gdoc
+tags:
+  - Science
+  - Technology
 ---
 
 Imagine that our civilization has collapsed. You are one of the few survivors. How can you rebuild an advanced industrial civilization out of the rubble of the old one?

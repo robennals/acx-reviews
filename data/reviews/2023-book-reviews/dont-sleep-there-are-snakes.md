@@ -1,16 +1,20 @@
 ---
-title: "Don't Sleep, There Are Snakes"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2023-book-reviews"
-contestName: "2023 Book Reviews"
+title: 'Don''t Sleep, There Are Snakes'
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2023-book-reviews
+contestName: 2023 Book Reviews
 year: 2023
-publishedDate: "2026-02-06T07:21:10.028Z"
-slug: "dont-sleep-there-are-snakes"
+publishedDate: '2026-02-06T07:21:10.028Z'
+slug: dont-sleep-there-are-snakes
 wordCount: 2883
 readingTimeMinutes: 13
-originalUrl: "https://docs.google.com/document/d/10CiEI7aDL2bMIdx7yayy3vlq0TJ8dO5LGnG7yIDPiw8"
-source: "gdoc"
+originalUrl: >-
+  https://docs.google.com/document/d/10CiEI7aDL2bMIdx7yayy3vlq0TJ8dO5LGnG7yIDPiw8
+source: gdoc
+tags:
+  - Society
+  - Science
 ---
 
 Okay, let’s go! Starting off in San Francisco, you take flight AA 1442 to Dallas/Fort Worth, then AA 1261 to Miami, then Gol G3 1478 on a red-eye flight to Brasilia. After a 14-hour layover in this Jerusalem of evenly-spaced rectangular grids, G3 1478 will carry you to Porto Velho; a city of 500.000 people, outposted fairly deep in the Amazon rainforest. Layovers and all, the first 7300 miles of this journey have taken you 33 hours.

@@ -1,16 +1,19 @@
 ---
-title: "We Should Never Have Gone to Mammoth Caves"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2025-non-book-reviews"
-contestName: "2025 Non Book Reviews"
+title: We Should Never Have Gone to Mammoth Caves
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2025-non-book-reviews
+contestName: 2025 Non Book Reviews
 year: 2025
-publishedDate: "2026-02-06T16:55:59.407Z"
-slug: "we-should-never-have-gone-to-mammoth-caves"
+publishedDate: '2026-02-06T16:55:59.407Z'
+slug: we-should-never-have-gone-to-mammoth-caves
 wordCount: 5216
 readingTimeMinutes: 24
-originalUrl: "https://docs.google.com/document/d/1jYVJFIz5-aMi0LCgsC9AN6BncJDNVGaMU37QmwZ1vzA"
-source: "gdoc"
+originalUrl: >-
+  https://docs.google.com/document/d/1jYVJFIz5-aMi0LCgsC9AN6BncJDNVGaMU37QmwZ1vzA
+source: gdoc
+tags:
+  - Memoir
 ---
 
 In the late Spring of 2019, I was pregnant with my first (and only) child. My husband and I decided to go on a road trip from South Jersey to New Orleans and back before we couldn’t travel for a while. One might question the logic of going to New Orleans when one can’t drink with reckless abandon, and, looking back, drinking certainly would have made Bourbon Street more tolerable. I remember going to Cafe du Monde for Obligatory Beignets and noticing that everything there was covered in haphazard powdered sugar and smelled of urine. “Man, I would really enjoy a drink to distract me from all the sugar covered pee,” I thought, and in that moment I understood this cultural aspect of NOLA better than before. And really, what is the purpose of travel if not for cultural exchange and understanding?

@@ -1,16 +1,20 @@
 ---
-title: "DEJA VU"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2025-non-book-reviews"
-contestName: "2025 Non Book Reviews"
+title: DEJA VU
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2025-non-book-reviews
+contestName: 2025 Non Book Reviews
 year: 2025
-publishedDate: "2026-02-06T16:52:48.892Z"
-slug: "deja-vu"
+publishedDate: '2026-02-06T16:52:48.892Z'
+slug: deja-vu
 wordCount: 2478
 readingTimeMinutes: 12
-originalUrl: "https://docs.google.com/document/d/1d0vRSj1E93joWWvbUen2XGuDjN_mM94ybMIAADzM2fo"
-source: "gdoc"
+originalUrl: >-
+  https://docs.google.com/document/d/1d0vRSj1E93joWWvbUen2XGuDjN_mM94ybMIAADzM2fo
+source: gdoc
+tags:
+  - Science
+  - Psychology
 ---
 
 You’re on the sofa, a drink in your hand and a TV programme playing out in front of you. You’re halfway concentrating on the TV, engaged in a conversation with the person sitting next to you. The door opens and you turn over your shoulder to look. Your friend is in the doorway. “Any of you want anything?” he asks. Something clicks in your brain - I’ve seen this before. Did I dream about this?  Your sofamate pauses before responding, “Are there any chips left?” I knew he was going to say that, you think. How is this happening?

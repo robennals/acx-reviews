@@ -1,16 +1,20 @@
 ---
-title: "Carpentaria, by Alexis Wright"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2024-book-reviews"
-contestName: "2024 Book Reviews"
+title: 'Carpentaria, by Alexis Wright'
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2024-book-reviews
+contestName: 2024 Book Reviews
 year: 2024
-publishedDate: "2026-02-06T16:47:15.598Z"
-slug: "carpentaria-by-alexis-wright"
+publishedDate: '2026-02-06T16:47:15.598Z'
+slug: carpentaria-by-alexis-wright
 wordCount: 2713
 readingTimeMinutes: 13
-originalUrl: "https://docs.google.com/document/d/1AXmWgSbh_TFsoZuApSCSEoz57yn93CM5YYhtaO_s4W4"
-source: "gdoc"
+originalUrl: >-
+  https://docs.google.com/document/d/1AXmWgSbh_TFsoZuApSCSEoz57yn93CM5YYhtaO_s4W4
+source: gdoc
+tags:
+  - Fiction
+  - Society
 ---
 
 Carpentaria, by Alexis Wright, is a loosely edited 528-page collection of anecdotes about quirky characters living in a podunk town in tropical Northern Australia, also a harrowing tale of racialised violence, first published in 2006. In this review, I will argue that the strength of Carpentaria is that it plays fast and loose with conventional narrative structures, escaping the confines of modern Western storytelling. I will then reveal this argument to be a bait-and-switch and subsequently drive the review into a wall.

@@ -1,16 +1,19 @@
 ---
-title: "Bowling Alone"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2023-book-reviews"
-contestName: "2023 Book Reviews"
+title: Bowling Alone
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2023-book-reviews
+contestName: 2023 Book Reviews
 year: 2023
-publishedDate: "2026-02-06T07:21:10.024Z"
-slug: "bowling-alone"
+publishedDate: '2026-02-06T07:21:10.024Z'
+slug: bowling-alone
 wordCount: 4816
 readingTimeMinutes: 22
-originalUrl: "https://docs.google.com/document/d/10CiEI7aDL2bMIdx7yayy3vlq0TJ8dO5LGnG7yIDPiw8"
-source: "gdoc"
+originalUrl: >-
+  https://docs.google.com/document/d/10CiEI7aDL2bMIdx7yayy3vlq0TJ8dO5LGnG7yIDPiw8
+source: gdoc
+tags:
+  - Society
 ---
 
 Bowling Alone is a book about social isolation. The book was published in 2000, and though it is dated in some respects, the trends Robert Putnam analyzes in it (and their causes) feel more relevant than ever in 2023. Bowling Alone is a dry, academic book, and can at times be a frustrating read. Still, its completionist overview of declining American engagement is a useful, sobering reference for anyone interested in one of America’s largest social ills. The book is divided into four major sections with self-explanatory titles: “Trends in Civic Engagement and Social Capital,” “So What?”, “Why?”, and “What is to be Done?” This review summarizes those four sections, provides some commentary on each, and closes with some thoughts on the broader implications of Putnam’s detailed work.

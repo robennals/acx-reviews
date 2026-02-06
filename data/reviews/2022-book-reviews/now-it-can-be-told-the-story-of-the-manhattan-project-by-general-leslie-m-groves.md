@@ -1,16 +1,21 @@
 ---
-title: "Now It Can Be Told: The Story of the Manhattan Project by General Leslie M. Groves"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2022-book-reviews"
-contestName: "2022 Book Reviews"
+title: "Now It Can Be Told: The Story of the Manhattan Project\_by General Leslie M. Groves"
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2022-book-reviews
+contestName: 2022 Book Reviews
 year: 2022
-publishedDate: "2026-02-06T07:23:14.486Z"
-slug: "now-it-can-be-told-the-story-of-the-manhattan-project-by-general-leslie-m-groves"
+publishedDate: '2026-02-06T07:23:14.486Z'
+slug: >-
+  now-it-can-be-told-the-story-of-the-manhattan-project-by-general-leslie-m-groves
 wordCount: 19710
 readingTimeMinutes: 88
-originalUrl: "https://docs.google.com/document/d/1kQUUJhv-MpLawby2j4zXLZPDG6ligWd5xpIjH8UmWdw"
-source: "gdoc"
+originalUrl: >-
+  https://docs.google.com/document/d/1kQUUJhv-MpLawby2j4zXLZPDG6ligWd5xpIjH8UmWdw
+source: gdoc
+tags:
+  - History
+  - Science
 ---
 
 Explosive Revelations of the Twentieth Century

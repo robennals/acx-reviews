@@ -1,16 +1,20 @@
 ---
-title: "A Thousand Ways to Please a Husband"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2024-book-reviews"
-contestName: "2024 Book Reviews"
+title: A Thousand Ways to Please a Husband
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2024-book-reviews
+contestName: 2024 Book Reviews
 year: 2024
-publishedDate: "2026-02-06T16:47:15.592Z"
-slug: "a-thousand-ways-to-please-a-husband"
+publishedDate: '2026-02-06T16:47:15.592Z'
+slug: a-thousand-ways-to-please-a-husband
 wordCount: 4159
 readingTimeMinutes: 19
-originalUrl: "https://docs.google.com/document/d/1AXmWgSbh_TFsoZuApSCSEoz57yn93CM5YYhtaO_s4W4"
-source: "gdoc"
+originalUrl: >-
+  https://docs.google.com/document/d/1AXmWgSbh_TFsoZuApSCSEoz57yn93CM5YYhtaO_s4W4
+source: gdoc
+tags:
+  - History
+  - Society
 ---
 
 A Thousand Ways to Please a Husband (published in 1917) is the most interesting cookbook I have ever encountered. It is, to be sure, a cookbook first and foremost. I’d be willing to bet money that for Louise Bennett Weaver and Helen Cowles LeCron, when they were writing it more than a century ago, the recipes were the important bit. But in the grand tradition of recipe bloggers—whose origins are evidently quite ancient!—they threw in some narrative content as a convenient vehicle, so it’s actually fun to read.

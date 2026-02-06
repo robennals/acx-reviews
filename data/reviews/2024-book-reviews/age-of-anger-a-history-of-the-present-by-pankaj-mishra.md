@@ -1,16 +1,21 @@
 ---
-title: "Age of Anger: A History of the Present by Pankaj Mishra"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2024-book-reviews"
-contestName: "2024 Book Reviews"
+title: 'Age of Anger: A History of the Present by Pankaj Mishra'
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2024-book-reviews
+contestName: 2024 Book Reviews
 year: 2024
-publishedDate: "2026-02-06T16:47:15.595Z"
-slug: "age-of-anger-a-history-of-the-present-by-pankaj-mishra"
+publishedDate: '2026-02-06T16:47:15.595Z'
+slug: age-of-anger-a-history-of-the-present-by-pankaj-mishra
 wordCount: 1307
 readingTimeMinutes: 6
-originalUrl: "https://docs.google.com/document/d/1AXmWgSbh_TFsoZuApSCSEoz57yn93CM5YYhtaO_s4W4"
-source: "gdoc"
+originalUrl: >-
+  https://docs.google.com/document/d/1AXmWgSbh_TFsoZuApSCSEoz57yn93CM5YYhtaO_s4W4
+source: gdoc
+tags:
+  - History
+  - Politics
+  - Philosophy
 ---
 
 All round the planet excitement is mounting as people get ready for the first “World Cup of Ideas” of the 21st Century. Pankaj Mishra has written the event program, with an introduction to all the teams, to their top players and to some of the best and worst ideas we are going to see on the field in the coming years.

@@ -1,16 +1,20 @@
 ---
-title: "The Mirror and the Light by Hilary Mantel"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2022-book-reviews"
-contestName: "2022 Book Reviews"
+title: The Mirror and the Light by Hilary Mantel
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2022-book-reviews
+contestName: 2022 Book Reviews
 year: 2022
-publishedDate: "2026-02-06T07:22:32.829Z"
-slug: "the-mirror-and-the-light-by-hilary-mantel"
+publishedDate: '2026-02-06T07:22:32.829Z'
+slug: the-mirror-and-the-light-by-hilary-mantel
 wordCount: 4079
 readingTimeMinutes: 19
-originalUrl: "https://docs.google.com/document/d/100kMdSVFviZSSBvUyyEQPMNlvLptVQxHFD9i9wGuBWs"
-source: "gdoc"
+originalUrl: >-
+  https://docs.google.com/document/d/100kMdSVFviZSSBvUyyEQPMNlvLptVQxHFD9i9wGuBWs
+source: gdoc
+tags:
+  - Fiction
+  - History
 ---
 
 A few necessary remarks before I start: this is the third in Hilary Mantel's "Wolf Hall" trilogy of novels about Thomas Cromwell, the blacksmith's son who clawed his way up to become the fixer at Henry VIII's court, eventually reaching the position of Principal Secretary and Chief Minister to the King and Chancellor of the Exchequer. Henry granted him the earldom of Essex and this was the high point of his fortunes. His fall was as swift as the falls of previous favourites of Henry.

@@ -1,16 +1,21 @@
 ---
-title: "The Treuhand"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2024-book-reviews"
-contestName: "2024 Book Reviews"
+title: The Treuhand
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2024-book-reviews
+contestName: 2024 Book Reviews
 year: 2024
-publishedDate: "2026-02-06T16:49:50.816Z"
-slug: "the-treuhand"
+publishedDate: '2026-02-06T16:49:50.816Z'
+slug: the-treuhand
 wordCount: 5950
 readingTimeMinutes: 27
-originalUrl: "https://docs.google.com/document/d/1Ki5XsE0jkxZtd2XAeyTAJw1ZjLh2Cu-matUYKAhA6-s"
-source: "gdoc"
+originalUrl: >-
+  https://docs.google.com/document/d/1Ki5XsE0jkxZtd2XAeyTAJw1ZjLh2Cu-matUYKAhA6-s
+source: gdoc
+tags:
+  - Economics
+  - History
+  - Politics
 ---
 
 When switching from a bad way of doing things to a better way, one ought to expect an improvement. Certainly, a transition from socialism to capitalism can only be a tale of prosperity and growth - look at what China achieved and it did not even transition completely.

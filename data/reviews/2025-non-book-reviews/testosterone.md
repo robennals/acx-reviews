@@ -1,16 +1,20 @@
 ---
-title: "Testosterone"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2025-non-book-reviews"
-contestName: "2025 Non Book Reviews"
+title: Testosterone
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2025-non-book-reviews
+contestName: 2025 Non Book Reviews
 year: 2025
-publishedDate: "2026-02-06T16:55:59.394Z"
-slug: "testosterone"
+publishedDate: '2026-02-06T16:55:59.394Z'
+slug: testosterone
 wordCount: 5388
 readingTimeMinutes: 24
-originalUrl: "https://docs.google.com/document/d/1jYVJFIz5-aMi0LCgsC9AN6BncJDNVGaMU37QmwZ1vzA"
-source: "gdoc"
+originalUrl: >-
+  https://docs.google.com/document/d/1jYVJFIz5-aMi0LCgsC9AN6BncJDNVGaMU37QmwZ1vzA
+source: gdoc
+tags:
+  - Science
+  - Biology
 ---
 
 I am here to talk to you about Testosterone.  I’m going to focus on reviewing TRT overall, but will also briefly look at testosterone (henceforth “T”) in “steroid” amounts, as part of a risk triangulation.  

@@ -1,16 +1,23 @@
 ---
-title: "Open Borders: The Science and Ethics of Immigration by Bryan Caplan and Zach Weinersmith"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2021-book-reviews"
-contestName: "2021 Book Reviews"
+title: >-
+  Open Borders: The Science and Ethics of Immigration by Bryan Caplan and Zach
+  Weinersmith
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2021-book-reviews
+contestName: 2021 Book Reviews
 year: 2021
-publishedDate: "2026-02-06T07:21:29.572Z"
-slug: "open-borders-the-science-and-ethics-of-immigration-by-bryan-caplan-and-zach-weinersmith"
+publishedDate: '2026-02-06T07:21:29.572Z'
+slug: >-
+  open-borders-the-science-and-ethics-of-immigration-by-bryan-caplan-and-zach-weinersmith
 wordCount: 4005
 readingTimeMinutes: 18
-originalUrl: "https://docs.google.com/document/d/1xexFJ7h0vULMDE7N77q_MIzXoerexfe_CqqGEL6hEoQ"
-source: "gdoc"
+originalUrl: >-
+  https://docs.google.com/document/d/1xexFJ7h0vULMDE7N77q_MIzXoerexfe_CqqGEL6hEoQ
+source: gdoc
+tags:
+  - Economics
+  - Politics
 ---
 
 Bryan Caplan is an economist at George Mason University and all-around interesting guy who is known for his out-there libertarian views about various social issues (especially education). Open Borders: The Science and Ethics of Immigration is his latest book, which argues for an end to all restrictions on migration and is in the format of a graphic novel illustrated by Zach Weinersmith (of SMBC fame). The first thing I would say about this book is that the graphic novel format works really well. The art style is cute and in general people seem to dismiss graphic novels because real reading is slightly boring, and therefore important. The next thing I would say is that the book makes an important argument on an issue where people have particularly poorly thought-out opinions. The data are pretty clear that immigration is massively more beneficial than most people realise – certainly economically, and perhaps socially too. However, upon reflection there are serious objections to open borders, and the argument of the book has a number of omissions.

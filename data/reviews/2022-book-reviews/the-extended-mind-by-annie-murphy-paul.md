@@ -1,16 +1,20 @@
 ---
-title: "The Extended Mind by Annie Murphy Paul"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2022-book-reviews"
-contestName: "2022 Book Reviews"
+title: The Extended Mind by Annie Murphy Paul
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2022-book-reviews
+contestName: 2022 Book Reviews
 year: 2022
-publishedDate: "2026-02-06T07:22:32.825Z"
-slug: "the-extended-mind-by-annie-murphy-paul"
+publishedDate: '2026-02-06T07:22:32.825Z'
+slug: the-extended-mind-by-annie-murphy-paul
 wordCount: 5195
 readingTimeMinutes: 24
-originalUrl: "https://docs.google.com/document/d/100kMdSVFviZSSBvUyyEQPMNlvLptVQxHFD9i9wGuBWs"
-source: "gdoc"
+originalUrl: >-
+  https://docs.google.com/document/d/100kMdSVFviZSSBvUyyEQPMNlvLptVQxHFD9i9wGuBWs
+source: gdoc
+tags:
+  - Psychology
+  - Science
 ---
 
 Some books change you by holding your hand through a series of increasingly complex logical leaps, building up an elaborate new system of knowledge. Others simply articulate a truth you always felt deep in your bones, but had never before put into words. For me, Annie Murphy Paul’s [The Extended Mind](https://www.google.com/url?q=https://www.amazon.com/Thinking-Outside-Brain-Annie-Murphy/dp/0544947665&sa=D&source=editors&ust=1770366146118162&usg=AOvVaw3A7WnBjetBhgqmoBbXX9hn) was the latter.

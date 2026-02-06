@@ -1,16 +1,20 @@
 ---
-title: "Alphabetical Diaries by Sheila Heti"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2024-book-reviews"
-contestName: "2024 Book Reviews"
+title: "Alphabetical Diaries\_by Sheila Heti"
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2024-book-reviews
+contestName: 2024 Book Reviews
 year: 2024
-publishedDate: "2026-02-06T16:47:15.595Z"
-slug: "alphabetical-diaries-by-sheila-heti"
+publishedDate: '2026-02-06T16:47:15.595Z'
+slug: alphabetical-diaries-by-sheila-heti
 wordCount: 3358
 readingTimeMinutes: 15
-originalUrl: "https://docs.google.com/document/d/1AXmWgSbh_TFsoZuApSCSEoz57yn93CM5YYhtaO_s4W4"
-source: "gdoc"
+originalUrl: >-
+  https://docs.google.com/document/d/1AXmWgSbh_TFsoZuApSCSEoz57yn93CM5YYhtaO_s4W4
+source: gdoc
+tags:
+  - Fiction
+  - Memoir
 ---
 
 A beginning page that encapsulates the novel itself. A beginning page that feels like the output of an LLM, but — perhaps you can tell — isn’t quite. A beginning page that’s worth reading every sentence of.

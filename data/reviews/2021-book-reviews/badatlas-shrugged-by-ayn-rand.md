@@ -1,16 +1,20 @@
 ---
-title: "BadAtlas Shrugged by Ayn Rand"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2021-book-reviews"
-contestName: "2021 Book Reviews"
+title: BadAtlas Shrugged by Ayn Rand
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2021-book-reviews
+contestName: 2021 Book Reviews
 year: 2021
-publishedDate: "2026-02-06T07:21:29.562Z"
-slug: "badatlas-shrugged-by-ayn-rand"
+publishedDate: '2026-02-06T07:21:29.562Z'
+slug: badatlas-shrugged-by-ayn-rand
 wordCount: 6729
 readingTimeMinutes: 30
-originalUrl: "https://docs.google.com/document/d/1xexFJ7h0vULMDE7N77q_MIzXoerexfe_CqqGEL6hEoQ"
-source: "gdoc"
+originalUrl: >-
+  https://docs.google.com/document/d/1xexFJ7h0vULMDE7N77q_MIzXoerexfe_CqqGEL6hEoQ
+source: gdoc
+tags:
+  - Fiction
+  - Philosophy
 ---
 
 [SLP]

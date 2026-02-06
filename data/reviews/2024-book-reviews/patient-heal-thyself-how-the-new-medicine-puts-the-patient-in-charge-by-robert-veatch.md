@@ -1,16 +1,23 @@
 ---
-title: "Patient, Heal Thyself: How the New Medicine puts the Patient in Charge by Robert Veatch"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2024-book-reviews"
-contestName: "2024 Book Reviews"
+title: >-
+  Patient, Heal Thyself: How the New Medicine puts the Patient in Charge by
+  Robert Veatch
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2024-book-reviews
+contestName: 2024 Book Reviews
 year: 2024
-publishedDate: "2026-02-06T16:48:20.713Z"
-slug: "patient-heal-thyself-how-the-new-medicine-puts-the-patient-in-charge-by-robert-veatch"
+publishedDate: '2026-02-06T16:48:20.713Z'
+slug: >-
+  patient-heal-thyself-how-the-new-medicine-puts-the-patient-in-charge-by-robert-veatch
 wordCount: 2540
 readingTimeMinutes: 12
-originalUrl: "https://docs.google.com/document/d/1cp6iw5OEyDjnD_viZo-KL0Zv4jwQnMXtE4yIovfVAco"
-source: "gdoc"
+originalUrl: >-
+  https://docs.google.com/document/d/1cp6iw5OEyDjnD_viZo-KL0Zv4jwQnMXtE4yIovfVAco
+source: gdoc
+tags:
+  - Science
+  - Philosophy
 ---
 
 Veatch on Medicine v Postmodern Medicine

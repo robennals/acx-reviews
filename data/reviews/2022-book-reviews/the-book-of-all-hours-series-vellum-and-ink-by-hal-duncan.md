@@ -1,16 +1,19 @@
 ---
-title: "The Book of All Hours series - “Vellum” and “Ink” - by Hal Duncan"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2022-book-reviews"
-contestName: "2022 Book Reviews"
+title: The Book of All Hours series - “Vellum” and “Ink” - by Hal Duncan
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2022-book-reviews
+contestName: 2022 Book Reviews
 year: 2022
-publishedDate: "2026-02-06T07:22:32.817Z"
-slug: "the-book-of-all-hours-series-vellum-and-ink-by-hal-duncan"
+publishedDate: '2026-02-06T07:22:32.817Z'
+slug: the-book-of-all-hours-series-vellum-and-ink-by-hal-duncan
 wordCount: 4335
 readingTimeMinutes: 20
-originalUrl: "https://docs.google.com/document/d/100kMdSVFviZSSBvUyyEQPMNlvLptVQxHFD9i9wGuBWs"
-source: "gdoc"
+originalUrl: >-
+  https://docs.google.com/document/d/100kMdSVFviZSSBvUyyEQPMNlvLptVQxHFD9i9wGuBWs
+source: gdoc
+tags:
+  - Fiction
 ---
 
 Note: This review is of both “Vellum” and “Ink”, books one and two of the Book of All Hours respectively. However, I only had time to reread Vellum in preparation for the review, so the focus will be on Vellum. The title of the duology is “The Book of All Hours” and I feel that, spiritually, Vellum & Ink are a single novel, and were probably intended as such but split for commercial reasons. Thus I sometimes call it a book in the singular.

@@ -1,16 +1,20 @@
 ---
-title: "Dominion by Matthew Scully"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2024-book-reviews"
-contestName: "2024 Book Reviews"
+title: Dominion by Matthew Scully
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2024-book-reviews
+contestName: 2024 Book Reviews
 year: 2024
-publishedDate: "2026-02-06T16:47:15.601Z"
-slug: "dominion-by-matthew-scully"
+publishedDate: '2026-02-06T16:47:15.601Z'
+slug: dominion-by-matthew-scully
 wordCount: 6405
 readingTimeMinutes: 29
-originalUrl: "https://docs.google.com/document/d/1AXmWgSbh_TFsoZuApSCSEoz57yn93CM5YYhtaO_s4W4"
-source: "gdoc"
+originalUrl: >-
+  https://docs.google.com/document/d/1AXmWgSbh_TFsoZuApSCSEoz57yn93CM5YYhtaO_s4W4
+source: gdoc
+tags:
+  - Philosophy
+  - Society
 ---
 
 Matthew Scully, author of Dominion, is an unlikely animal welfare advocate. He’s a conservative Christian who worked as a speechwriter for George W. Bush. That’s like finding out that Greta Thunberg’s Chief of Staff spent their spare time writing a 400-page, densely researched book called “Guns Are Good, Actually.”

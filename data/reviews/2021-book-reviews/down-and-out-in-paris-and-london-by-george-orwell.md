@@ -1,16 +1,21 @@
 ---
-title: "Down and Out in Paris and London by George Orwell"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2021-book-reviews"
-contestName: "2021 Book Reviews"
+title: "Down and Out in Paris and London by\_George Orwell"
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2021-book-reviews
+contestName: 2021 Book Reviews
 year: 2021
-publishedDate: "2026-02-06T07:21:29.566Z"
-slug: "down-and-out-in-paris-and-london-by-george-orwell"
+publishedDate: '2026-02-06T07:21:29.566Z'
+slug: down-and-out-in-paris-and-london-by-george-orwell
 wordCount: 13448
 readingTimeMinutes: 60
-originalUrl: "https://docs.google.com/document/d/1xexFJ7h0vULMDE7N77q_MIzXoerexfe_CqqGEL6hEoQ"
-source: "gdoc"
+originalUrl: >-
+  https://docs.google.com/document/d/1xexFJ7h0vULMDE7N77q_MIzXoerexfe_CqqGEL6hEoQ
+source: gdoc
+tags:
+  - Fiction
+  - Memoir
+  - Society
 ---
 
 George Orwell’s Down and Out in Paris and London is at least three things; a highly entertaining, almost picaresque tale of rough-and-tumble living in Europe, a serious attempt to catalogue the numerous humiliations and injustices impoverished people were exposed to in Orwell’s time, and a stark comparison between life as a tramp who makes use of robust, if hellish and kafkaesque welfare resources, and as one who tries to get by working terrible jobs and living in disgusting places.

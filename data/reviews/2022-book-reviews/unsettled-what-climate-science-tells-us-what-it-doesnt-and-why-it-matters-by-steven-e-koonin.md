@@ -1,16 +1,23 @@
 ---
-title: "Unsettled. What Climate Science Tells Us, What It Doesn’t, And Why It Matters by Steven E. Koonin"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2022-book-reviews"
-contestName: "2022 Book Reviews"
+title: >-
+  Unsettled. What Climate Science Tells Us, What It Doesn’t, And Why It Matters
+  by Steven E. Koonin
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2022-book-reviews
+contestName: 2022 Book Reviews
 year: 2022
-publishedDate: "2026-02-06T07:21:54.182Z"
-slug: "unsettled-what-climate-science-tells-us-what-it-doesnt-and-why-it-matters-by-steven-e-koonin"
+publishedDate: '2026-02-06T07:21:54.182Z'
+slug: >-
+  unsettled-what-climate-science-tells-us-what-it-doesnt-and-why-it-matters-by-steven-e-koonin
 wordCount: 11201
 readingTimeMinutes: 50
-originalUrl: "https://docs.google.com/document/d/1hFzjXliCAWjvheY-8Qd2fhbF79LnX0Xg6R9eqk9yIyI"
-source: "gdoc"
+originalUrl: >-
+  https://docs.google.com/document/d/1hFzjXliCAWjvheY-8Qd2fhbF79LnX0Xg6R9eqk9yIyI
+source: gdoc
+tags:
+  - Science
+  - Politics
 ---
 
 (review by D.H.)

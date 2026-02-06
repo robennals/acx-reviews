@@ -1,16 +1,19 @@
 ---
-title: "Autumn in the Heavenly Kingdom by Stephen Platt"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2022-book-reviews"
-contestName: "2022 Book Reviews"
+title: Autumn in the Heavenly Kingdom by Stephen Platt
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2022-book-reviews
+contestName: 2022 Book Reviews
 year: 2022
-publishedDate: "2026-02-06T07:24:08.696Z"
-slug: "autumn-in-the-heavenly-kingdom-by-stephen-platt"
+publishedDate: '2026-02-06T07:24:08.696Z'
+slug: autumn-in-the-heavenly-kingdom-by-stephen-platt
 wordCount: 3525
 readingTimeMinutes: 16
-originalUrl: "https://docs.google.com/document/d/1pRQbRbEUwSH_jm94PI_ij-88swat7vQ4iNaNp6gd39g"
-source: "gdoc"
+originalUrl: >-
+  https://docs.google.com/document/d/1pRQbRbEUwSH_jm94PI_ij-88swat7vQ4iNaNp6gd39g
+source: gdoc
+tags:
+  - History
 ---
 
 Your fields ground to mud by war machines, your home long plundered by roving bandits, your friends and family long dead of plague, you have no choice but to join the same armies that destroyed your village for a scrap of food. It seems like the world is ending, but you aren’t bothered. You know that any catastrophic event is part of a broader cycle, and the destruction you see now will eventually result in a society with greater farm acreages and less hierarchical power structures. Granted, this new society will eventually develop until it collapses under its own weight, just like your own is now. But that is the price to pay for civilization. All individual humans can hope to do is enjoy the ride. You are able to adopt this surprisingly blasé worldview because you have read Secular Cycles, by Peter Turchin and Sergey Nefedov (or at least the [SSC review](https://www.google.com/url?q=https://slatestarcodex.com/2019/08/12/book-review-secular-cycles/&sa=D&source=editors&ust=1770366233179431&usg=AOvVaw3bB74zeIBhRibCA2TMbjwt)).

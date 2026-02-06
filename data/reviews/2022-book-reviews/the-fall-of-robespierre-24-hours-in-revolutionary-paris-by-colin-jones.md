@@ -1,16 +1,20 @@
 ---
-title: "The Fall of Robespierre: 24 Hours in Revolutionary Paris by Colin Jones"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2022-book-reviews"
-contestName: "2022 Book Reviews"
+title: 'The Fall of Robespierre: 24 Hours in Revolutionary Paris by Colin Jones'
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2022-book-reviews
+contestName: 2022 Book Reviews
 year: 2022
-publishedDate: "2026-02-06T07:22:32.825Z"
-slug: "the-fall-of-robespierre-24-hours-in-revolutionary-paris-by-colin-jones"
+publishedDate: '2026-02-06T07:22:32.825Z'
+slug: the-fall-of-robespierre-24-hours-in-revolutionary-paris-by-colin-jones
 wordCount: 7670
 readingTimeMinutes: 35
-originalUrl: "https://docs.google.com/document/d/100kMdSVFviZSSBvUyyEQPMNlvLptVQxHFD9i9wGuBWs"
-source: "gdoc"
+originalUrl: >-
+  https://docs.google.com/document/d/100kMdSVFviZSSBvUyyEQPMNlvLptVQxHFD9i9wGuBWs
+source: gdoc
+tags:
+  - History
+  - Politics
 ---
 
 Historian Colin Jones focuses on twenty four hours in 1794 Paris to describe the sudden, unexpected fall of Maximilian Robespierre during the French Revolution.

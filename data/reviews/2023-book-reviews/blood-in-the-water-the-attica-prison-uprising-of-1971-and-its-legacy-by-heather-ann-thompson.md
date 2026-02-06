@@ -1,16 +1,23 @@
 ---
-title: "Blood in the Water: The Attica Prison Uprising of 1971 and Its Legacy by Heather Ann Thompson"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2023-book-reviews"
-contestName: "2023 Book Reviews"
+title: >-
+  Blood in the Water: The Attica Prison Uprising of 1971 and Its Legacy by
+  Heather Ann Thompson
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2023-book-reviews
+contestName: 2023 Book Reviews
 year: 2023
-publishedDate: "2026-02-06T07:21:10.023Z"
-slug: "blood-in-the-water-the-attica-prison-uprising-of-1971-and-its-legacy-by-heather-ann-thompson"
+publishedDate: '2026-02-06T07:21:10.023Z'
+slug: >-
+  blood-in-the-water-the-attica-prison-uprising-of-1971-and-its-legacy-by-heather-ann-thompson
 wordCount: 2146
 readingTimeMinutes: 10
-originalUrl: "https://docs.google.com/document/d/10CiEI7aDL2bMIdx7yayy3vlq0TJ8dO5LGnG7yIDPiw8"
-source: "gdoc"
+originalUrl: >-
+  https://docs.google.com/document/d/10CiEI7aDL2bMIdx7yayy3vlq0TJ8dO5LGnG7yIDPiw8
+source: gdoc
+tags:
+  - History
+  - Politics
 ---
 
 Thompson, Heather Ann. Blood in the Water: The Attica Prison Uprising of 1971

@@ -1,16 +1,20 @@
 ---
-title: "Impossible Histories: The Soviet Republic of Alaska, the United States of Hudsonia, President Charlemagne, and Other Pivotal Moments of History That Never Happened by Hal Johnson"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2024-book-reviews"
-contestName: "2024 Book Reviews"
+title: "Impossible Histories: The Soviet Republic of Alaska, the United States of Hudsonia, President Charlemagne, and Other Pivotal Moments of History That Never Happened\_by Hal Johnson"
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2024-book-reviews
+contestName: 2024 Book Reviews
 year: 2024
-publishedDate: "2026-02-06T16:47:49.311Z"
-slug: "impossible-histories-the-soviet-republic-of-alaska-the-united-states-of-hudsonia-president-charlemagne-and-other-pivotal-moments-of-history-that-never-happened-by-hal-johnson"
+publishedDate: '2026-02-06T16:47:49.311Z'
+slug: >-
+  impossible-histories-the-soviet-republic-of-alaska-the-united-states-of-hudsonia-president-charlemagne-and-other-pivotal-moments-of-history-that-never-happened-by-hal-johnson
 wordCount: 2192
 readingTimeMinutes: 10
-originalUrl: "https://docs.google.com/document/d/1QiotH3aGFgNLGqsIHTK_Plm_gem2E4l2C2ctyGJd0jY"
-source: "gdoc"
+originalUrl: >-
+  https://docs.google.com/document/d/1QiotH3aGFgNLGqsIHTK_Plm_gem2E4l2C2ctyGJd0jY
+source: gdoc
+tags:
+  - History
 ---
 
 Impossible Histories: The Soviet Republic of Alaska, the United States of Hudsonia, President Charlemagne, and Other Pivotal Moments of History That Never Happened by Hal Johnson is a book of alternate history scenarios that tries to stand out among all the other books of alternate history scenarios by being both crazier and less crazy than the others.

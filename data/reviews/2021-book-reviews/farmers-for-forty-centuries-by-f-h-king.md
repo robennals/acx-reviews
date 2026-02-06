@@ -1,16 +1,20 @@
 ---
-title: "Farmers for Forty Centuries by F. H. King"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2021-book-reviews"
-contestName: "2021 Book Reviews"
+title: Farmers for Forty Centuries by F. H. King
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2021-book-reviews
+contestName: 2021 Book Reviews
 year: 2021
-publishedDate: "2026-02-06T07:21:29.567Z"
-slug: "farmers-for-forty-centuries-by-f-h-king"
+publishedDate: '2026-02-06T07:21:29.567Z'
+slug: farmers-for-forty-centuries-by-f-h-king
 wordCount: 1511
 readingTimeMinutes: 7
-originalUrl: "https://docs.google.com/document/d/1xexFJ7h0vULMDE7N77q_MIzXoerexfe_CqqGEL6hEoQ"
-source: "gdoc"
+originalUrl: >-
+  https://docs.google.com/document/d/1xexFJ7h0vULMDE7N77q_MIzXoerexfe_CqqGEL6hEoQ
+source: gdoc
+tags:
+  - History
+  - Biology
 ---
 
 I first read this book that described an early 1900s tour of predominantly pre-industrial agriculture in Japan and China over a decade ago and it made a very positive impression on me at the time as a budding experimental farmer. Revisiting the work has cast it in a different light in my mind, though I will summarise and analyse the most interesting parts of the book.

@@ -1,16 +1,19 @@
 ---
-title: "Prologue: Three Jews on the Internet"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2022-book-reviews"
-contestName: "2022 Book Reviews"
+title: 'Prologue: Three Jews on the Internet'
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2022-book-reviews
+contestName: 2022 Book Reviews
 year: 2022
-publishedDate: "2026-02-06T07:22:32.818Z"
-slug: "prologue-three-jews-on-the-internet"
+publishedDate: '2026-02-06T07:22:32.818Z'
+slug: prologue-three-jews-on-the-internet
 wordCount: 1242
 readingTimeMinutes: 6
-originalUrl: "https://docs.google.com/document/d/100kMdSVFviZSSBvUyyEQPMNlvLptVQxHFD9i9wGuBWs"
-source: "gdoc"
+originalUrl: >-
+  https://docs.google.com/document/d/100kMdSVFviZSSBvUyyEQPMNlvLptVQxHFD9i9wGuBWs
+source: gdoc
+tags:
+  - Science
 ---
 
 I had just finished my lunch at the college canteen. As I walked along the long tables to put away my tray, I joined the conversation of another small group of people. A fellow freshman—a guy with a prominent nose—was steaming with rage, his cheeks and forehead purple, his tone of voice confidently jolting like a sawtooth, because apparently some ignorant peasants, somewhere, believed it was possible to keep an artificial intelligence in a box.

@@ -1,16 +1,20 @@
 ---
-title: "JFK Assassination Conspiracy Theories"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2025-non-book-reviews"
-contestName: "2025 Non Book Reviews"
+title: JFK Assassination Conspiracy Theories
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2025-non-book-reviews
+contestName: 2025 Non Book Reviews
 year: 2025
-publishedDate: "2026-02-06T16:55:03.476Z"
-slug: "jfk-assassination-conspiracy-theories"
+publishedDate: '2026-02-06T16:55:03.476Z'
+slug: jfk-assassination-conspiracy-theories
 wordCount: 8038
 readingTimeMinutes: 36
-originalUrl: "https://docs.google.com/document/d/1a3q0Z2tuPLLbDeg5-pfEffkajGjrfPDwE7ZMs7uaWQs"
-source: "gdoc"
+originalUrl: >-
+  https://docs.google.com/document/d/1a3q0Z2tuPLLbDeg5-pfEffkajGjrfPDwE7ZMs7uaWQs
+source: gdoc
+tags:
+  - History
+  - Politics
 ---
 
 “Things do not happen. Things are made to happen.” —John F. Kennedy

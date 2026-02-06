@@ -1,16 +1,20 @@
 ---
-title: "The Republic by Plato"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2022-book-reviews"
-contestName: "2022 Book Reviews"
+title: The Republic by Plato
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2022-book-reviews
+contestName: 2022 Book Reviews
 year: 2022
-publishedDate: "2026-02-06T07:21:54.172Z"
-slug: "the-republic-by-plato"
+publishedDate: '2026-02-06T07:21:54.172Z'
+slug: the-republic-by-plato
 wordCount: 6704
 readingTimeMinutes: 30
-originalUrl: "https://docs.google.com/document/d/1hFzjXliCAWjvheY-8Qd2fhbF79LnX0Xg6R9eqk9yIyI"
-source: "gdoc"
+originalUrl: >-
+  https://docs.google.com/document/d/1hFzjXliCAWjvheY-8Qd2fhbF79LnX0Xg6R9eqk9yIyI
+source: gdoc
+tags:
+  - Philosophy
+  - Politics
 ---
 
 ## Introduction

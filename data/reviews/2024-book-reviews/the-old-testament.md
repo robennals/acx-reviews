@@ -1,16 +1,19 @@
 ---
-title: "The Old Testament"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2024-book-reviews"
-contestName: "2024 Book Reviews"
+title: The Old Testament
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2024-book-reviews
+contestName: 2024 Book Reviews
 year: 2024
-publishedDate: "2026-02-06T16:49:50.813Z"
-slug: "the-old-testament"
+publishedDate: '2026-02-06T16:49:50.813Z'
+slug: the-old-testament
 wordCount: 11045
 readingTimeMinutes: 50
-originalUrl: "https://docs.google.com/document/d/1Ki5XsE0jkxZtd2XAeyTAJw1ZjLh2Cu-matUYKAhA6-s"
-source: "gdoc"
+originalUrl: >-
+  https://docs.google.com/document/d/1Ki5XsE0jkxZtd2XAeyTAJw1ZjLh2Cu-matUYKAhA6-s
+source: gdoc
+tags:
+  - Religion
 ---
 
 Answer not a fool according to his folly, lest thou also be like unto him.

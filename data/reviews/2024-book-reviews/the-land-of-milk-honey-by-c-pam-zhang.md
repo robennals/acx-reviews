@@ -1,16 +1,19 @@
 ---
-title: "The Land of Milk & Honey by C Pam Zhang"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2024-book-reviews"
-contestName: "2024 Book Reviews"
+title: The Land of Milk & Honey by C Pam Zhang
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2024-book-reviews
+contestName: 2024 Book Reviews
 year: 2024
-publishedDate: "2026-02-06T16:49:14.009Z"
-slug: "the-land-of-milk-honey-by-c-pam-zhang"
+publishedDate: '2026-02-06T16:49:14.009Z'
+slug: the-land-of-milk-honey-by-c-pam-zhang
 wordCount: 2318
 readingTimeMinutes: 11
-originalUrl: "https://docs.google.com/document/d/14qa47TJ_Vyerx4XNgTCIh7PUZ_TOgNcU_eHm5So_zo0"
-source: "gdoc"
+originalUrl: >-
+  https://docs.google.com/document/d/14qa47TJ_Vyerx4XNgTCIh7PUZ_TOgNcU_eHm5So_zo0
+source: gdoc
+tags:
+  - Fiction
 ---
 
 and The Lathe of Heaven by Ursula Le Guin

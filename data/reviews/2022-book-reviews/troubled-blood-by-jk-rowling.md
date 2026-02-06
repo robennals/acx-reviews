@@ -1,16 +1,19 @@
 ---
-title: "Troubled Blood by J.K. Rowling"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2022-book-reviews"
-contestName: "2022 Book Reviews"
+title: Troubled Blood by J.K. Rowling
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2022-book-reviews
+contestName: 2022 Book Reviews
 year: 2022
-publishedDate: "2026-02-06T07:22:32.816Z"
-slug: "troubled-blood-by-jk-rowling"
+publishedDate: '2026-02-06T07:22:32.816Z'
+slug: troubled-blood-by-jk-rowling
 wordCount: 2103
 readingTimeMinutes: 10
-originalUrl: "https://docs.google.com/document/d/100kMdSVFviZSSBvUyyEQPMNlvLptVQxHFD9i9wGuBWs"
-source: "gdoc"
+originalUrl: >-
+  https://docs.google.com/document/d/100kMdSVFviZSSBvUyyEQPMNlvLptVQxHFD9i9wGuBWs
+source: gdoc
+tags:
+  - Fiction
 ---
 
 What is bestselling author J.K. Rowling up to these days? You might know she’s creating more content for the Harry Potter universe or drawing ire for her Twitter posts. But if you said “writing kinda-controversial 900-page crime epics as Robert Galbraith” then you must have heard of Troubled Blood, the fifth in her Cormoran Strike detective series. Troubled Blood is an indulgent, meandering, sentimental elephant of a novel. It’s also the best book on epistemics– the art of knowing things– I’ve read in years.

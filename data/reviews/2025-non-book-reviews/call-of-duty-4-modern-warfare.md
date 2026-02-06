@@ -1,16 +1,19 @@
 ---
-title: "Call of Duty 4: Modern Warfare"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2025-non-book-reviews"
-contestName: "2025 Non Book Reviews"
+title: 'Call of Duty 4: Modern Warfare'
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2025-non-book-reviews
+contestName: 2025 Non Book Reviews
 year: 2025
-publishedDate: "2026-02-06T16:57:23.282Z"
-slug: "call-of-duty-4-modern-warfare"
+publishedDate: '2026-02-06T16:57:23.282Z'
+slug: call-of-duty-4-modern-warfare
 wordCount: 4210
 readingTimeMinutes: 19
-originalUrl: "https://docs.google.com/document/d/1B3YxYxLVFjKGicaEkqvt353kt0uimn0PSUQv1PyaHuI"
-source: "gdoc"
+originalUrl: >-
+  https://docs.google.com/document/d/1B3YxYxLVFjKGicaEkqvt353kt0uimn0PSUQv1PyaHuI
+source: gdoc
+tags:
+  - Politics
 ---
 
 At the turn of the millennium, there was an explosion of interest in World War 2. This was thanks to works like Steven Spielberg’s 1998 classic Saving Private Ryan and HBO’s 2001 television show Band of Brothers.

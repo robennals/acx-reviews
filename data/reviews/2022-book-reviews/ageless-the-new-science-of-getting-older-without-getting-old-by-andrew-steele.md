@@ -1,16 +1,22 @@
 ---
-title: "Ageless: The New Science of Getting Older Without Getting Old, by Andrew Steele"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2022-book-reviews"
-contestName: "2022 Book Reviews"
+title: >-
+  Ageless: The New Science of Getting Older Without Getting Old, by Andrew
+  Steele
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2022-book-reviews
+contestName: 2022 Book Reviews
 year: 2022
-publishedDate: "2026-02-06T07:24:08.688Z"
-slug: "ageless-the-new-science-of-getting-older-without-getting-old-by-andrew-steele"
+publishedDate: '2026-02-06T07:24:08.688Z'
+slug: ageless-the-new-science-of-getting-older-without-getting-old-by-andrew-steele
 wordCount: 2868
 readingTimeMinutes: 13
-originalUrl: "https://docs.google.com/document/d/1pRQbRbEUwSH_jm94PI_ij-88swat7vQ4iNaNp6gd39g"
-source: "gdoc"
+originalUrl: >-
+  https://docs.google.com/document/d/1pRQbRbEUwSH_jm94PI_ij-88swat7vQ4iNaNp6gd39g
+source: gdoc
+tags:
+  - Science
+  - Biology
 ---
 
 Epistemic status / declaration of interest: this is a semi-serious review of a really good recent book on advances in bio-gerontology, a fast-moving technical field, about which I am also writing a book. Please feel free to correct my sloppy solecisms and find my attempts at humour unfunny! Apologies to US readers for using the English spelling of ageing with an ‘e’.

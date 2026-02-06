@@ -1,16 +1,20 @@
 ---
-title: "A Farewell to Alms: A Brief Economic History of the World, by Gregory Clark"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2024-book-reviews"
-contestName: "2024 Book Reviews"
+title: 'A Farewell to Alms: A Brief Economic History of the World, by Gregory Clark'
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2024-book-reviews
+contestName: 2024 Book Reviews
 year: 2024
-publishedDate: "2026-02-06T16:47:15.592Z"
-slug: "a-farewell-to-alms-a-brief-economic-history-of-the-world-by-gregory-clark"
+publishedDate: '2026-02-06T16:47:15.592Z'
+slug: a-farewell-to-alms-a-brief-economic-history-of-the-world-by-gregory-clark
 wordCount: 2353
 readingTimeMinutes: 11
-originalUrl: "https://docs.google.com/document/d/1AXmWgSbh_TFsoZuApSCSEoz57yn93CM5YYhtaO_s4W4"
-source: "gdoc"
+originalUrl: >-
+  https://docs.google.com/document/d/1AXmWgSbh_TFsoZuApSCSEoz57yn93CM5YYhtaO_s4W4
+source: gdoc
+tags:
+  - Economics
+  - History
 ---
 
 The Fermi paradox is well known for its existential nature: Why—despite all the starts and all the seeming possibility for life—is it the case that we are the only civilization that we can detect?

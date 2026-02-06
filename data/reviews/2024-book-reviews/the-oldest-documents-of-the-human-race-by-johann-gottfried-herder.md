@@ -1,16 +1,20 @@
 ---
-title: "The Oldest Documents of the Human Race by Johann Gottfried Herder"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2024-book-reviews"
-contestName: "2024 Book Reviews"
+title: The Oldest Documents of the Human Race by Johann Gottfried Herder
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2024-book-reviews
+contestName: 2024 Book Reviews
 year: 2024
-publishedDate: "2026-02-06T16:49:50.813Z"
-slug: "the-oldest-documents-of-the-human-race-by-johann-gottfried-herder"
+publishedDate: '2026-02-06T16:49:50.813Z'
+slug: the-oldest-documents-of-the-human-race-by-johann-gottfried-herder
 wordCount: 6804
 readingTimeMinutes: 31
-originalUrl: "https://docs.google.com/document/d/1Ki5XsE0jkxZtd2XAeyTAJw1ZjLh2Cu-matUYKAhA6-s"
-source: "gdoc"
+originalUrl: >-
+  https://docs.google.com/document/d/1Ki5XsE0jkxZtd2XAeyTAJw1ZjLh2Cu-matUYKAhA6-s
+source: gdoc
+tags:
+  - History
+  - Religion
 ---
 
 I.

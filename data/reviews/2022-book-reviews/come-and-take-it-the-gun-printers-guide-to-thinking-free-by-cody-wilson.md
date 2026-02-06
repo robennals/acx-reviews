@@ -1,16 +1,20 @@
 ---
-title: "Come and Take It: The Gun Printer's Guide to Thinking Free by Cody Wilson"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2022-book-reviews"
-contestName: "2022 Book Reviews"
+title: 'Come and Take It: The Gun Printer''s Guide to Thinking Free by Cody Wilson'
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2022-book-reviews
+contestName: 2022 Book Reviews
 year: 2022
-publishedDate: "2026-02-06T07:24:08.697Z"
-slug: "come-and-take-it-the-gun-printers-guide-to-thinking-free-by-cody-wilson"
+publishedDate: '2026-02-06T07:24:08.697Z'
+slug: come-and-take-it-the-gun-printers-guide-to-thinking-free-by-cody-wilson
 wordCount: 3166
 readingTimeMinutes: 15
-originalUrl: "https://docs.google.com/document/d/1pRQbRbEUwSH_jm94PI_ij-88swat7vQ4iNaNp6gd39g"
-source: "gdoc"
+originalUrl: >-
+  https://docs.google.com/document/d/1pRQbRbEUwSH_jm94PI_ij-88swat7vQ4iNaNp6gd39g
+source: gdoc
+tags:
+  - Technology
+  - Politics
 ---
 
 I.

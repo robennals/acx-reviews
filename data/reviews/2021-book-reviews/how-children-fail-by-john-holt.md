@@ -1,16 +1,19 @@
 ---
-title: "How Children Fail by John Holt"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2021-book-reviews"
-contestName: "2021 Book Reviews"
+title: How Children Fail by John Holt
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2021-book-reviews
+contestName: 2021 Book Reviews
 year: 2021
-publishedDate: "2026-02-06T07:21:29.570Z"
-slug: "how-children-fail-by-john-holt"
+publishedDate: '2026-02-06T07:21:29.570Z'
+slug: how-children-fail-by-john-holt
 wordCount: 4517
 readingTimeMinutes: 21
-originalUrl: "https://docs.google.com/document/d/1xexFJ7h0vULMDE7N77q_MIzXoerexfe_CqqGEL6hEoQ"
-source: "gdoc"
+originalUrl: >-
+  https://docs.google.com/document/d/1xexFJ7h0vULMDE7N77q_MIzXoerexfe_CqqGEL6hEoQ
+source: gdoc
+tags:
+  - Society
 ---
 
 1.

@@ -1,16 +1,20 @@
 ---
-title: "Two Years of Parenthood: A Review"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2025-non-book-reviews"
-contestName: "2025 Non Book Reviews"
+title: 'Two Years of Parenthood: A Review'
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2025-non-book-reviews
+contestName: 2025 Non Book Reviews
 year: 2025
-publishedDate: "2026-02-06T16:55:59.406Z"
-slug: "two-years-of-parenthood-a-review"
+publishedDate: '2026-02-06T16:55:59.406Z'
+slug: two-years-of-parenthood-a-review
 wordCount: 2667
 readingTimeMinutes: 12
-originalUrl: "https://docs.google.com/document/d/1jYVJFIz5-aMi0LCgsC9AN6BncJDNVGaMU37QmwZ1vzA"
-source: "gdoc"
+originalUrl: >-
+  https://docs.google.com/document/d/1jYVJFIz5-aMi0LCgsC9AN6BncJDNVGaMU37QmwZ1vzA
+source: gdoc
+tags:
+  - Society
+  - Memoir
 ---
 
 ## Part I: The Birth

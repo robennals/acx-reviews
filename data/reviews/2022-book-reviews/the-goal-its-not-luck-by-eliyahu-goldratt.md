@@ -1,16 +1,19 @@
 ---
-title: "The Goal / It’s Not Luck by Eliyahu Goldratt"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2022-book-reviews"
-contestName: "2022 Book Reviews"
+title: The Goal / It’s Not Luck by Eliyahu Goldratt
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2022-book-reviews
+contestName: 2022 Book Reviews
 year: 2022
-publishedDate: "2026-02-06T07:22:32.825Z"
-slug: "the-goal-its-not-luck-by-eliyahu-goldratt"
+publishedDate: '2026-02-06T07:22:32.825Z'
+slug: the-goal-its-not-luck-by-eliyahu-goldratt
 wordCount: 4261
 readingTimeMinutes: 19
-originalUrl: "https://docs.google.com/document/d/100kMdSVFviZSSBvUyyEQPMNlvLptVQxHFD9i9wGuBWs"
-source: "gdoc"
+originalUrl: >-
+  https://docs.google.com/document/d/100kMdSVFviZSSBvUyyEQPMNlvLptVQxHFD9i9wGuBWs
+source: gdoc
+tags:
+  - Economics
 ---
 
 A simple philosophy I’ve followed for most of my adult life goes like this: In any endeavor, there are only two questions that matter:

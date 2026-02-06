@@ -1,16 +1,19 @@
 ---
-title: "Road of The King by Patrick Hoban"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2024-book-reviews"
-contestName: "2024 Book Reviews"
+title: "Road of The King\_by Patrick Hoban"
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2024-book-reviews
+contestName: 2024 Book Reviews
 year: 2024
-publishedDate: "2026-02-06T16:48:56.659Z"
-slug: "road-of-the-king-by-patrick-hoban"
+publishedDate: '2026-02-06T16:48:56.659Z'
+slug: road-of-the-king-by-patrick-hoban
 wordCount: 5746
 readingTimeMinutes: 26
-originalUrl: "https://docs.google.com/document/d/1GYQw3pgvhi7hqOVR-Ql629Q_8thbyHe8sSRy5voyt30"
-source: "gdoc"
+originalUrl: >-
+  https://docs.google.com/document/d/1GYQw3pgvhi7hqOVR-Ql629Q_8thbyHe8sSRy5voyt30
+source: gdoc
+tags:
+  - Society
 ---
 
 1.  ## Introduction

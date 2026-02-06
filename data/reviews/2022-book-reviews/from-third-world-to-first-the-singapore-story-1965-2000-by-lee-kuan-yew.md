@@ -1,16 +1,21 @@
 ---
-title: "From Third World to First: The Singapore Story: 1965-2000 by Lee Kuan Yew"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2022-book-reviews"
-contestName: "2022 Book Reviews"
+title: 'From Third World to First: The Singapore Story: 1965-2000 by Lee Kuan Yew'
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2022-book-reviews
+contestName: 2022 Book Reviews
 year: 2022
-publishedDate: "2026-02-06T07:24:08.700Z"
-slug: "from-third-world-to-first-the-singapore-story-1965-2000-by-lee-kuan-yew"
+publishedDate: '2026-02-06T07:24:08.700Z'
+slug: from-third-world-to-first-the-singapore-story-1965-2000-by-lee-kuan-yew
 wordCount: 6233
 readingTimeMinutes: 28
-originalUrl: "https://docs.google.com/document/d/1pRQbRbEUwSH_jm94PI_ij-88swat7vQ4iNaNp6gd39g"
-source: "gdoc"
+originalUrl: >-
+  https://docs.google.com/document/d/1pRQbRbEUwSH_jm94PI_ij-88swat7vQ4iNaNp6gd39g
+source: gdoc
+tags:
+  - Politics
+  - Economics
+  - Memoir
 ---
 
 You might think that low-income countries pursue economic development programs because it’s nice to have a higher standard of living. But surprisingly, this is often not enough. The existing elite class enjoys high relative status and typically has access to world-class amenities anyway. Economic development, to them, means being supplanted by a nouveau riche merchant/industrial class like in a Victorian novel, foregoing the patronage and corruption networks that enriched them, upending the traditional mores of their society, shackling themselves to the dictates and vagaries of global markets, and having to invite foreigners, perhaps the same people from the colonial era that they’ve finally gotten rid of, to come in and upstage them with their superior technical know-how. Why upset the apple cart like that?

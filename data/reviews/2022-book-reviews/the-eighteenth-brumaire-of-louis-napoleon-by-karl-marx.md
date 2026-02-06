@@ -1,16 +1,20 @@
 ---
-title: "The Eighteenth Brumaire of Louis Napoleon by Karl Marx"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2022-book-reviews"
-contestName: "2022 Book Reviews"
+title: The Eighteenth Brumaire of Louis Napoleon by Karl Marx
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2022-book-reviews
+contestName: 2022 Book Reviews
 year: 2022
-publishedDate: "2026-02-06T07:22:32.824Z"
-slug: "the-eighteenth-brumaire-of-louis-napoleon-by-karl-marx"
+publishedDate: '2026-02-06T07:22:32.824Z'
+slug: the-eighteenth-brumaire-of-louis-napoleon-by-karl-marx
 wordCount: 16958
 readingTimeMinutes: 76
-originalUrl: "https://docs.google.com/document/d/100kMdSVFviZSSBvUyyEQPMNlvLptVQxHFD9i9wGuBWs"
-source: "gdoc"
+originalUrl: >-
+  https://docs.google.com/document/d/100kMdSVFviZSSBvUyyEQPMNlvLptVQxHFD9i9wGuBWs
+source: gdoc
+tags:
+  - History
+  - Politics
 ---
 
 ## A. Introduction

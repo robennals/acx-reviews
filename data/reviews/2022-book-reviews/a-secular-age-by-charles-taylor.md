@@ -1,16 +1,21 @@
 ---
-title: "A Secular Age by Charles Taylor"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2022-book-reviews"
-contestName: "2022 Book Reviews"
+title: A Secular Age by Charles Taylor
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2022-book-reviews
+contestName: 2022 Book Reviews
 year: 2022
-publishedDate: "2026-02-06T07:24:08.687Z"
-slug: "a-secular-age-by-charles-taylor"
+publishedDate: '2026-02-06T07:24:08.687Z'
+slug: a-secular-age-by-charles-taylor
 wordCount: 8321
 readingTimeMinutes: 37
-originalUrl: "https://docs.google.com/document/d/1pRQbRbEUwSH_jm94PI_ij-88swat7vQ4iNaNp6gd39g"
-source: "gdoc"
+originalUrl: >-
+  https://docs.google.com/document/d/1pRQbRbEUwSH_jm94PI_ij-88swat7vQ4iNaNp6gd39g
+source: gdoc
+tags:
+  - Religion
+  - Philosophy
+  - Society
 ---
 
 I. Why so secular?

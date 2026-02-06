@@ -1,16 +1,20 @@
 ---
-title: "Real Raw News"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2024-book-reviews"
-contestName: "2024 Book Reviews"
+title: Real Raw News
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2024-book-reviews
+contestName: 2024 Book Reviews
 year: 2024
-publishedDate: "2026-02-06T16:48:56.652Z"
-slug: "real-raw-news"
+publishedDate: '2026-02-06T16:48:56.652Z'
+slug: real-raw-news
 wordCount: 6980
 readingTimeMinutes: 32
-originalUrl: "https://docs.google.com/document/d/1GYQw3pgvhi7hqOVR-Ql629Q_8thbyHe8sSRy5voyt30"
-source: "gdoc"
+originalUrl: >-
+  https://docs.google.com/document/d/1GYQw3pgvhi7hqOVR-Ql629Q_8thbyHe8sSRy5voyt30
+source: gdoc
+tags:
+  - Politics
+  - Society
 ---
 
 If you’re a follower of U.S. news outlets, you’ve seen some big stories unfolding over the past year: The unprecedented four criminal indictments lodged against former President Trump. The ongoing AI explosion. The backlash against “DEI,” “woke,” and “cancel culture” as exemplified by Elon Musk’s purchase and rebranding of Twitter to “X.”

@@ -1,16 +1,20 @@
 ---
-title: "Power, Sex, Suicide: Mitochondria and the meaning of life by Nick Lane"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2021-book-reviews"
-contestName: "2021 Book Reviews"
+title: 'Power, Sex, Suicide: Mitochondria and the meaning of life by Nick Lane'
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2021-book-reviews
+contestName: 2021 Book Reviews
 year: 2021
-publishedDate: "2026-02-06T07:21:29.572Z"
-slug: "power-sex-suicide-mitochondria-and-the-meaning-of-life-by-nick-lane"
+publishedDate: '2026-02-06T07:21:29.572Z'
+slug: power-sex-suicide-mitochondria-and-the-meaning-of-life-by-nick-lane
 wordCount: 1818
 readingTimeMinutes: 9
-originalUrl: "https://docs.google.com/document/d/1xexFJ7h0vULMDE7N77q_MIzXoerexfe_CqqGEL6hEoQ"
-source: "gdoc"
+originalUrl: >-
+  https://docs.google.com/document/d/1xexFJ7h0vULMDE7N77q_MIzXoerexfe_CqqGEL6hEoQ
+source: gdoc
+tags:
+  - Biology
+  - Science
 ---
 
 Many works try to take a weirdly shaped lens through which to rechart a small portion of our map of the world. [Power, Sex, Suicide](https://www.google.com/url?q=https://nick-lane.net/books/power-sex-suicide-mitochondria-meaning-life/&sa=D&source=editors&ust=1770366086694893&usg=AOvVaw1hwA9BJ5gcg215gGpNvqyw) does that through the lens of, ahem, mitochondria. The weirdest thing about it is how splendidly it succeeds.

@@ -1,16 +1,19 @@
 ---
-title: "Japan at War: An Oral History by Haruko Taya Cook and Theodore Failor Cook"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2022-book-reviews"
-contestName: "2022 Book Reviews"
+title: 'Japan at War: An Oral History by Haruko Taya Cook and Theodore Failor Cook'
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2022-book-reviews
+contestName: 2022 Book Reviews
 year: 2022
-publishedDate: "2026-02-06T07:23:14.477Z"
-slug: "japan-at-war-an-oral-history-by-haruko-taya-cook-and-theodore-failor-cook"
+publishedDate: '2026-02-06T07:23:14.477Z'
+slug: japan-at-war-an-oral-history-by-haruko-taya-cook-and-theodore-failor-cook
 wordCount: 4841
 readingTimeMinutes: 22
-originalUrl: "https://docs.google.com/document/d/1kQUUJhv-MpLawby2j4zXLZPDG6ligWd5xpIjH8UmWdw"
-source: "gdoc"
+originalUrl: >-
+  https://docs.google.com/document/d/1kQUUJhv-MpLawby2j4zXLZPDG6ligWd5xpIjH8UmWdw
+source: gdoc
+tags:
+  - History
 ---
 
 0.

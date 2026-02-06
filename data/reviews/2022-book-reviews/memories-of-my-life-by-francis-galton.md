@@ -1,16 +1,20 @@
 ---
-title: "Memories of My Life by Francis Galton"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2022-book-reviews"
-contestName: "2022 Book Reviews"
+title: Memories of My Life by Francis Galton
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2022-book-reviews
+contestName: 2022 Book Reviews
 year: 2022
-publishedDate: "2026-02-06T07:23:14.484Z"
-slug: "memories-of-my-life-by-francis-galton"
+publishedDate: '2026-02-06T07:23:14.484Z'
+slug: memories-of-my-life-by-francis-galton
 wordCount: 5583
 readingTimeMinutes: 25
-originalUrl: "https://docs.google.com/document/d/1kQUUJhv-MpLawby2j4zXLZPDG6ligWd5xpIjH8UmWdw"
-source: "gdoc"
+originalUrl: >-
+  https://docs.google.com/document/d/1kQUUJhv-MpLawby2j4zXLZPDG6ligWd5xpIjH8UmWdw
+source: gdoc
+tags:
+  - Memoir
+  - Science
 ---
 
 Some people get famous for discovering one thing, like Gregor Mendel. Some people get super famous for discovering several things, like Einstein and Newton.

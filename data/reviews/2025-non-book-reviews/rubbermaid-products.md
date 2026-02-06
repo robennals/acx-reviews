@@ -1,16 +1,19 @@
 ---
-title: "Rubbermaid products"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2025-non-book-reviews"
-contestName: "2025 Non Book Reviews"
+title: Rubbermaid products
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2025-non-book-reviews
+contestName: 2025 Non Book Reviews
 year: 2025
-publishedDate: "2026-02-06T16:55:03.485Z"
-slug: "rubbermaid-products"
+publishedDate: '2026-02-06T16:55:03.485Z'
+slug: rubbermaid-products
 wordCount: 4990
 readingTimeMinutes: 23
-originalUrl: "https://docs.google.com/document/d/1a3q0Z2tuPLLbDeg5-pfEffkajGjrfPDwE7ZMs7uaWQs"
-source: "gdoc"
+originalUrl: >-
+  https://docs.google.com/document/d/1a3q0Z2tuPLLbDeg5-pfEffkajGjrfPDwE7ZMs7uaWQs
+source: gdoc
+tags:
+  - Society
 ---
 
 Choosing a topic for an open review contest is a special kind of problem, one with its own kind of meta to satisfy. I could just find something shockingly interesting to write about. I could then let that fact do most of the work for me, cheating my way through on the coattails of the subject’s excellence where I should have just manned up, girded my loins for battle, and proved my worth by working great wonders of art out of the most mundane of materials.

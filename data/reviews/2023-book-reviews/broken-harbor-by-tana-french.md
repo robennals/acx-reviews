@@ -1,16 +1,19 @@
 ---
-title: "Broken Harbor by Tana French"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2023-book-reviews"
-contestName: "2023 Book Reviews"
+title: "Broken Harbor\_by Tana French"
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2023-book-reviews
+contestName: 2023 Book Reviews
 year: 2023
-publishedDate: "2026-02-06T07:21:10.024Z"
-slug: "broken-harbor-by-tana-french"
+publishedDate: '2026-02-06T07:21:10.024Z'
+slug: broken-harbor-by-tana-french
 wordCount: 3064
 readingTimeMinutes: 14
-originalUrl: "https://docs.google.com/document/d/10CiEI7aDL2bMIdx7yayy3vlq0TJ8dO5LGnG7yIDPiw8"
-source: "gdoc"
+originalUrl: >-
+  https://docs.google.com/document/d/10CiEI7aDL2bMIdx7yayy3vlq0TJ8dO5LGnG7yIDPiw8
+source: gdoc
+tags:
+  - Fiction
 ---
 
 Warning: Spoilers abound.

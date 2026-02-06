@@ -1,16 +1,24 @@
 ---
-title: "From Paralysis to Fatigue: A History of Psychosomatic Illness in the Modern Era by Edward Shorter"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2022-book-reviews"
-contestName: "2022 Book Reviews"
+title: >-
+  From Paralysis to Fatigue: A History of Psychosomatic Illness in the Modern
+  Era by Edward Shorter
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2022-book-reviews
+contestName: 2022 Book Reviews
 year: 2022
-publishedDate: "2026-02-06T07:24:08.700Z"
-slug: "from-paralysis-to-fatigue-a-history-of-psychosomatic-illness-in-the-modern-era-by-edward-shorter"
+publishedDate: '2026-02-06T07:24:08.700Z'
+slug: >-
+  from-paralysis-to-fatigue-a-history-of-psychosomatic-illness-in-the-modern-era-by-edward-shorter
 wordCount: 4676
 readingTimeMinutes: 21
-originalUrl: "https://docs.google.com/document/d/1pRQbRbEUwSH_jm94PI_ij-88swat7vQ4iNaNp6gd39g"
-source: "gdoc"
+originalUrl: >-
+  https://docs.google.com/document/d/1pRQbRbEUwSH_jm94PI_ij-88swat7vQ4iNaNp6gd39g
+source: gdoc
+tags:
+  - Psychology
+  - History
+  - Science
 ---
 
 ## PART 1

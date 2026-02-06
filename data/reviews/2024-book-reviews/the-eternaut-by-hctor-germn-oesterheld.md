@@ -1,16 +1,20 @@
 ---
-title: "The Eternaut by Héctor Germán Oesterheld"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2024-book-reviews"
-contestName: "2024 Book Reviews"
+title: The Eternaut by Héctor Germán Oesterheld
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2024-book-reviews
+contestName: 2024 Book Reviews
 year: 2024
-publishedDate: "2026-02-06T16:49:14.006Z"
-slug: "the-eternaut-by-hctor-germn-oesterheld"
+publishedDate: '2026-02-06T16:49:14.006Z'
+slug: the-eternaut-by-hctor-germn-oesterheld
 wordCount: 3460
 readingTimeMinutes: 16
-originalUrl: "https://docs.google.com/document/d/14qa47TJ_Vyerx4XNgTCIh7PUZ_TOgNcU_eHm5So_zo0"
-source: "gdoc"
+originalUrl: >-
+  https://docs.google.com/document/d/14qa47TJ_Vyerx4XNgTCIh7PUZ_TOgNcU_eHm5So_zo0
+source: gdoc
+tags:
+  - Fiction
+  - History
 ---
 
 Héctor Germán Oesterheld (file No. 143), scriptwriter by profession, was born on July 23, 1919. There is practically no further information on how he was detained, but he was seen, according to different people who later regained their freedom, in clandestine detention centers at Campo de Mayo, El Vesuvio and El Sheraton. He disappeared on April 27, 1977, when he was 59 years old. Eduardo Arias - a 38-year-old psychologist - was one of the last people to see him alive:

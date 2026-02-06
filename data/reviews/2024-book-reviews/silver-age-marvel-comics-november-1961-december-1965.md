@@ -1,16 +1,20 @@
 ---
-title: "Silver Age Marvel Comics (November 1961- December 1965)"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2024-book-reviews"
-contestName: "2024 Book Reviews"
+title: Silver Age Marvel Comics (November 1961- December 1965)
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2024-book-reviews
+contestName: 2024 Book Reviews
 year: 2024
-publishedDate: "2026-02-06T16:48:56.663Z"
-slug: "silver-age-marvel-comics-november-1961-december-1965"
+publishedDate: '2026-02-06T16:48:56.663Z'
+slug: silver-age-marvel-comics-november-1961-december-1965
 wordCount: 11432
 readingTimeMinutes: 51
-originalUrl: "https://docs.google.com/document/d/1GYQw3pgvhi7hqOVR-Ql629Q_8thbyHe8sSRy5voyt30"
-source: "gdoc"
+originalUrl: >-
+  https://docs.google.com/document/d/1GYQw3pgvhi7hqOVR-Ql629Q_8thbyHe8sSRy5voyt30
+source: gdoc
+tags:
+  - Fiction
+  - Society
 ---
 
 You are a serious person with serious interests. The last comic book you read was more likely by Bryan Caplan than Jonathan Hickman. You would prefer to be reading high quality book reviews on AstralCodexTen. You believe ASX book reviews are usually more insightful than the books themselves, and a far more efficient use of your time. But even book reviews take time to process, and there are a lot of book reviews to read. Why spend your valuable time reading an 11,000 word review of superhero comic books?

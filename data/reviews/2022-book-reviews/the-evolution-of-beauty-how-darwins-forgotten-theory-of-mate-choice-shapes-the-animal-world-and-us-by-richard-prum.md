@@ -1,16 +1,22 @@
 ---
-title: "The Evolution of Beauty: How Darwin's Forgotten Theory of Mate Choice Shapes the Animal World - And Us by Richard Prum"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2022-book-reviews"
-contestName: "2022 Book Reviews"
+title: >-
+  The Evolution of Beauty: How Darwin's Forgotten Theory of Mate Choice Shapes
+  the Animal World - And Us by Richard Prum
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2022-book-reviews
+contestName: 2022 Book Reviews
 year: 2022
-publishedDate: "2026-02-06T07:22:32.824Z"
-slug: "the-evolution-of-beauty-how-darwins-forgotten-theory-of-mate-choice-shapes-the-animal-world-and-us-by-richard-prum"
+publishedDate: '2026-02-06T07:22:32.824Z'
+slug: >-
+  the-evolution-of-beauty-how-darwins-forgotten-theory-of-mate-choice-shapes-the-animal-world-and-us-by-richard-prum
 wordCount: 1309
 readingTimeMinutes: 6
-originalUrl: "https://docs.google.com/document/d/100kMdSVFviZSSBvUyyEQPMNlvLptVQxHFD9i9wGuBWs"
-source: "gdoc"
+originalUrl: >-
+  https://docs.google.com/document/d/100kMdSVFviZSSBvUyyEQPMNlvLptVQxHFD9i9wGuBWs
+source: gdoc
+tags:
+  - Biology
 ---
 
 Note: This is not as much a book review as it is an exploration of my current stance on a central debate in the field of evolutionary biology. I have used the popular example of a peacock's tail but it can be replaced with any male aesthetic trait in a species with significant sexual dimorphism. As for the book - Prum is sufficiently nuanced with his treatment of sexual selection theory, viewing it first in a ornithological context and then carefully extending it to other phylogenies, including humans. Recommended.

@@ -1,16 +1,19 @@
 ---
-title: "Public Citizens"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2023-book-reviews"
-contestName: "2023 Book Reviews"
+title: Public Citizens
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2023-book-reviews
+contestName: 2023 Book Reviews
 year: 2023
-publishedDate: "2026-02-06T07:06:00.853Z"
-slug: "public-citizens"
+publishedDate: '2026-02-06T07:06:00.853Z'
+slug: public-citizens
 wordCount: 5438
 readingTimeMinutes: 25
-originalUrl: "https://www.astralcodexten.com/p/your-book-review-public-citizens"
-source: "acx"
+originalUrl: 'https://www.astralcodexten.com/p/your-book-review-public-citizens'
+source: acx
+tags:
+  - Politics
+  - Society
 ---
 
 _[This is one of the finalists in the 2023 book review contest, written by an ACX reader who will remain anonymous until after voting is done. I’ll be posting about one of these a week for several months. When you’ve read them all, I’ll ask you to vote for a favorite, so remember which ones you liked]_

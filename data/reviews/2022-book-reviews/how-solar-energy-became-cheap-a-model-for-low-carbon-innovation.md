@@ -1,16 +1,20 @@
 ---
-title: "How Solar Energy Became Cheap: A Model for Low-Carbon Innovation"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2022-book-reviews"
-contestName: "2022 Book Reviews"
+title: 'How Solar Energy Became Cheap: A Model for Low-Carbon Innovation'
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2022-book-reviews
+contestName: 2022 Book Reviews
 year: 2022
-publishedDate: "2026-02-06T07:24:08.703Z"
-slug: "how-solar-energy-became-cheap-a-model-for-low-carbon-innovation"
+publishedDate: '2026-02-06T07:24:08.703Z'
+slug: how-solar-energy-became-cheap-a-model-for-low-carbon-innovation
 wordCount: 6608
 readingTimeMinutes: 30
-originalUrl: "https://docs.google.com/document/d/1pRQbRbEUwSH_jm94PI_ij-88swat7vQ4iNaNp6gd39g"
-source: "gdoc"
+originalUrl: >-
+  https://docs.google.com/document/d/1pRQbRbEUwSH_jm94PI_ij-88swat7vQ4iNaNp6gd39g
+source: gdoc
+tags:
+  - Technology
+  - Economics
 ---
 
 Technology has a number of impressive stories of progress but few rival the story of solar photovoltaics (PV). From costing $300,000 for a mWh in 1957 costs have fallen on average 14% a year leading to current costs in sunny places to be as low as $17 per mWh, or in other words the world’s cheapest electricity.

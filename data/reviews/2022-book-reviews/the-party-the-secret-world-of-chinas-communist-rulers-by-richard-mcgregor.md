@@ -1,16 +1,20 @@
 ---
-title: "The Party: The Secret World of China's Communist Rulers by Richard McGregor"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2022-book-reviews"
-contestName: "2022 Book Reviews"
+title: 'The Party: The Secret World of China''s Communist Rulers by Richard McGregor'
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2022-book-reviews
+contestName: 2022 Book Reviews
 year: 2022
-publishedDate: "2026-02-06T07:21:54.171Z"
-slug: "the-party-the-secret-world-of-chinas-communist-rulers-by-richard-mcgregor"
+publishedDate: '2026-02-06T07:21:54.171Z'
+slug: the-party-the-secret-world-of-chinas-communist-rulers-by-richard-mcgregor
 wordCount: 4047
 readingTimeMinutes: 18
-originalUrl: "https://docs.google.com/document/d/1hFzjXliCAWjvheY-8Qd2fhbF79LnX0Xg6R9eqk9yIyI"
-source: "gdoc"
+originalUrl: >-
+  https://docs.google.com/document/d/1hFzjXliCAWjvheY-8Qd2fhbF79LnX0Xg6R9eqk9yIyI
+source: gdoc
+tags:
+  - Politics
+  - History
 ---
 
 McGregor's The Party is a history of the Communist Party of China (CPC). It is also a playbook for the establishment of a government that has contradicting properties: Decentralised decision making and a centralised policy body; Communist ideologues running the government and private property. The single unifying goal of this government system is to deliver economic growth. Financial freedom was China's only hope after 100 years of subjugation under Western powers and Japan beginning with the Opium Wars in 1839 and ending with the end of the Second World War in 1945.

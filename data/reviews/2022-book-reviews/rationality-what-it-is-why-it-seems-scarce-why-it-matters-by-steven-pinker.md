@@ -1,16 +1,20 @@
 ---
-title: "Rationality: What It Is, Why It Seems Scarce, Why It Matters by Steven Pinker"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2022-book-reviews"
-contestName: "2022 Book Reviews"
+title: "Rationality: What It Is, Why It Seems Scarce, Why It Matters\_by Steven Pinker"
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2022-book-reviews
+contestName: 2022 Book Reviews
 year: 2022
-publishedDate: "2026-02-06T07:23:14.489Z"
-slug: "rationality-what-it-is-why-it-seems-scarce-why-it-matters-by-steven-pinker"
+publishedDate: '2026-02-06T07:23:14.489Z'
+slug: rationality-what-it-is-why-it-seems-scarce-why-it-matters-by-steven-pinker
 wordCount: 35700
 readingTimeMinutes: 159
-originalUrl: "https://docs.google.com/document/d/1kQUUJhv-MpLawby2j4zXLZPDG6ligWd5xpIjH8UmWdw"
-source: "gdoc"
+originalUrl: >-
+  https://docs.google.com/document/d/1kQUUJhv-MpLawby2j4zXLZPDG6ligWd5xpIjH8UmWdw
+source: gdoc
+tags:
+  - Philosophy
+  - Psychology
 ---
 
 Steven Pinker's Rationality Versus Western Philosophy

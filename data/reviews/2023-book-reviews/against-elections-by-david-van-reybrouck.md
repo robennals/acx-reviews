@@ -1,16 +1,19 @@
 ---
-title: "Against Elections by David Van Reybrouck"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2023-book-reviews"
-contestName: "2023 Book Reviews"
+title: Against Elections by David Van Reybrouck
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2023-book-reviews
+contestName: 2023 Book Reviews
 year: 2023
-publishedDate: "2026-02-06T07:21:10.020Z"
-slug: "against-elections-by-david-van-reybrouck"
+publishedDate: '2026-02-06T07:21:10.020Z'
+slug: against-elections-by-david-van-reybrouck
 wordCount: 4168
 readingTimeMinutes: 19
-originalUrl: "https://docs.google.com/document/d/10CiEI7aDL2bMIdx7yayy3vlq0TJ8dO5LGnG7yIDPiw8"
-source: "gdoc"
+originalUrl: >-
+  https://docs.google.com/document/d/10CiEI7aDL2bMIdx7yayy3vlq0TJ8dO5LGnG7yIDPiw8
+source: gdoc
+tags:
+  - Politics
 ---
 
 When friends ask me about this book, I give them a choice between 1. the spicy, controversial take and 2. the calm, well-reasoned, no-I’m-actually-serious-please-listen-for-20-minutes spiel. They invariably ask for both, and I oblige: 1. Democracies around the world are flailing, and the institution of elections is to blame. We can and must save democracy by replacing elected officials with [omitted for suspense]. 2. The remainder of this review.

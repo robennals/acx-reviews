@@ -1,16 +1,20 @@
 ---
-title: "Paradoxes of Rationality and Cooperation"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2024-book-reviews"
-contestName: "2024 Book Reviews"
+title: Paradoxes of Rationality and Cooperation
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2024-book-reviews
+contestName: 2024 Book Reviews
 year: 2024
-publishedDate: "2026-02-06T16:48:20.712Z"
-slug: "paradoxes-of-rationality-and-cooperation"
+publishedDate: '2026-02-06T16:48:20.712Z'
+slug: paradoxes-of-rationality-and-cooperation
 wordCount: 2562
 readingTimeMinutes: 12
-originalUrl: "https://docs.google.com/document/d/1cp6iw5OEyDjnD_viZo-KL0Zv4jwQnMXtE4yIovfVAco"
-source: "gdoc"
+originalUrl: >-
+  https://docs.google.com/document/d/1cp6iw5OEyDjnD_viZo-KL0Zv4jwQnMXtE4yIovfVAco
+source: gdoc
+tags:
+  - Philosophy
+  - Economics
 ---
 
 What is rational choice? [Paradoxes of Rationality and Cooperation](https://www.amazon.com/Paradoxes-Rationality-Cooperation-Prisoners-Newcombs/dp/0774802154) (1985) is an anthology of papers that examine this question through the lens of two classic thought experiments: the Prisoner’s Dilemma and Newcomb’s Problem. Both of these decision problems present challenges for conventional notions of rationality and raise difficult questions about the role of causality in agent reasoning. Beyond the problems themselves, the various authors consider conflicting philosophies of rationality and the effectiveness of their corresponding decision strategies.

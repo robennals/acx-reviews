@@ -1,16 +1,19 @@
 ---
-title: "The Unconsoled, byKazuo Ishiguro"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2024-book-reviews"
-contestName: "2024 Book Reviews"
+title: "The Unconsoled,\_byKazuo Ishiguro"
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2024-book-reviews
+contestName: 2024 Book Reviews
 year: 2024
-publishedDate: "2026-02-06T16:49:50.817Z"
-slug: "the-unconsoled-bykazuo-ishiguro"
+publishedDate: '2026-02-06T16:49:50.817Z'
+slug: the-unconsoled-bykazuo-ishiguro
 wordCount: 3391
 readingTimeMinutes: 16
-originalUrl: "https://docs.google.com/document/d/1Ki5XsE0jkxZtd2XAeyTAJw1ZjLh2Cu-matUYKAhA6-s"
-source: "gdoc"
+originalUrl: >-
+  https://docs.google.com/document/d/1Ki5XsE0jkxZtd2XAeyTAJw1ZjLh2Cu-matUYKAhA6-s
+source: gdoc
+tags:
+  - Fiction
 ---
 
 The renowned concert pianist Ryder has arrived into a central European town in crisis. On realising who he is, the hotel attendant snaps to attention. In the elevator, the hotel porter, Gustav, enters into a peculiarly long monologue about his efforts to sustain the dignity of his profession. Ryder, our sole narrator in Kazuo Ishiguro’s The Unconsoled, appears oddly oblivious to why he’s here, almost as if has amnesia and is piecing together who he is from those around him. Prompted by a comment from Gustav, Ryder turns with a start and realises there’s a third person in the elevator. Hilde Stratmaan, a young woman in a neat business suit, is squeezed into the corner. Through her sycophantic yet somewhat passive aggressive commentary, she appears to be his handler.

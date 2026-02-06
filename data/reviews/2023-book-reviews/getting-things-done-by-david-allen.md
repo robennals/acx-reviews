@@ -1,16 +1,20 @@
 ---
-title: "Getting Things Done by David Allen"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2023-book-reviews"
-contestName: "2023 Book Reviews"
+title: Getting Things Done by David Allen
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2023-book-reviews
+contestName: 2023 Book Reviews
 year: 2023
-publishedDate: "2026-02-06T07:21:10.029Z"
-slug: "getting-things-done-by-david-allen"
+publishedDate: '2026-02-06T07:21:10.029Z'
+slug: getting-things-done-by-david-allen
 wordCount: 2635
 readingTimeMinutes: 12
-originalUrl: "https://docs.google.com/document/d/10CiEI7aDL2bMIdx7yayy3vlq0TJ8dO5LGnG7yIDPiw8"
-source: "gdoc"
+originalUrl: >-
+  https://docs.google.com/document/d/10CiEI7aDL2bMIdx7yayy3vlq0TJ8dO5LGnG7yIDPiw8
+source: gdoc
+tags:
+  - Psychology
+  - Society
 ---
 
 I.

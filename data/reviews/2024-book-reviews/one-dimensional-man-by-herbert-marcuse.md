@@ -1,16 +1,20 @@
 ---
-title: "One-Dimensional Man by Herbert Marcuse"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2024-book-reviews"
-contestName: "2024 Book Reviews"
+title: One-Dimensional Man by Herbert Marcuse
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2024-book-reviews
+contestName: 2024 Book Reviews
 year: 2024
-publishedDate: "2026-02-06T16:48:20.712Z"
-slug: "one-dimensional-man-by-herbert-marcuse"
+publishedDate: '2026-02-06T16:48:20.712Z'
+slug: one-dimensional-man-by-herbert-marcuse
 wordCount: 4463
 readingTimeMinutes: 20
-originalUrl: "https://docs.google.com/document/d/1cp6iw5OEyDjnD_viZo-KL0Zv4jwQnMXtE4yIovfVAco"
-source: "gdoc"
+originalUrl: >-
+  https://docs.google.com/document/d/1cp6iw5OEyDjnD_viZo-KL0Zv4jwQnMXtE4yIovfVAco
+source: gdoc
+tags:
+  - Philosophy
+  - Politics
 ---
 
 One-Dimensional Man is a landmark book written by Herbert Marcuse in 1964. He was a famous mid-20th century philosopher of the Frankfurt school, which integrated continental philosophy, sociology, Freudo-Marxism, and postmodern humanities to create what we now call critical theory, which became highly influential.

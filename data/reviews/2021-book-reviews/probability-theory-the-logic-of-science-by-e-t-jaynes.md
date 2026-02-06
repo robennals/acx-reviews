@@ -1,16 +1,20 @@
 ---
-title: "Probability Theory: The Logic of Science by E. T. Jaynes"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2021-book-reviews"
-contestName: "2021 Book Reviews"
+title: 'Probability Theory: The Logic of Science by E. T. Jaynes'
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2021-book-reviews
+contestName: 2021 Book Reviews
 year: 2021
-publishedDate: "2026-02-06T07:21:29.572Z"
-slug: "probability-theory-the-logic-of-science-by-e-t-jaynes"
+publishedDate: '2026-02-06T07:21:29.572Z'
+slug: probability-theory-the-logic-of-science-by-e-t-jaynes
 wordCount: 7020
 readingTimeMinutes: 32
-originalUrl: "https://docs.google.com/document/d/1xexFJ7h0vULMDE7N77q_MIzXoerexfe_CqqGEL6hEoQ"
-source: "gdoc"
+originalUrl: >-
+  https://docs.google.com/document/d/1xexFJ7h0vULMDE7N77q_MIzXoerexfe_CqqGEL6hEoQ
+source: gdoc
+tags:
+  - Science
+  - Philosophy
 ---
 
 P(A|B) = [P(A)\*P(B|A)]/P(B), all the rest is commentary.

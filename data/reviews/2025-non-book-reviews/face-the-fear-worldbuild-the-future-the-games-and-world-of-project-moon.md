@@ -1,16 +1,19 @@
 ---
-title: "Face the Fear, Worldbuild the Future: The Games and World of Project Moon"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2025-non-book-reviews"
-contestName: "2025 Non Book Reviews"
+title: 'Face the Fear, Worldbuild the Future: The Games and World of Project Moon'
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2025-non-book-reviews
+contestName: 2025 Non Book Reviews
 year: 2025
-publishedDate: "2026-02-06T16:57:23.283Z"
-slug: "face-the-fear-worldbuild-the-future-the-games-and-world-of-project-moon"
+publishedDate: '2026-02-06T16:57:23.283Z'
+slug: face-the-fear-worldbuild-the-future-the-games-and-world-of-project-moon
 wordCount: 6152
 readingTimeMinutes: 28
-originalUrl: "https://docs.google.com/document/d/1B3YxYxLVFjKGicaEkqvt353kt0uimn0PSUQv1PyaHuI"
-source: "gdoc"
+originalUrl: >-
+  https://docs.google.com/document/d/1B3YxYxLVFjKGicaEkqvt353kt0uimn0PSUQv1PyaHuI
+source: gdoc
+tags:
+  - Fiction
 ---
 
 “The City” is[Judge Dredd](https://en.wikipedia.org/wiki/Judge_Dredd) meets[Warhammer 40k](https://wh40k.lexicanum.com/wiki/Main_Page) with plenty of[shounen anime](https://en.wikipedia.org/wiki/Sh%C5%8Dnen_manga) sprinkled on top. Its official map, as shown here, implies that it occupies approximately 44000 square kilometers, or around 17000 square miles (roughly 36 times the[total area of New York City](https://en.wikipedia.org/wiki/List_of_United_States_cities_by_area)) and is home to a population in the billions[1]. It is separated into 26 distinct districts, each named for a letter of the English alphabet spiraling out from the center (though District 26 is conspicuously absent from any maps).

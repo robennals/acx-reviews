@@ -1,16 +1,19 @@
 ---
-title: "The Three Stigmata of Noel Scott Engel"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2025-non-book-reviews"
-contestName: "2025 Non Book Reviews"
+title: The Three Stigmata of Noel Scott Engel
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2025-non-book-reviews
+contestName: 2025 Non Book Reviews
 year: 2025
-publishedDate: "2026-02-06T16:57:48.983Z"
-slug: "the-three-stigmata-of-noel-scott-engel"
+publishedDate: '2026-02-06T16:57:48.983Z'
+slug: the-three-stigmata-of-noel-scott-engel
 wordCount: 1375
 readingTimeMinutes: 7
-originalUrl: "https://docs.google.com/document/d/1hjIUcKi-vIM9RGRZDWPRyUtzZLlVrpaY6Jy81iZVYi4"
-source: "gdoc"
+originalUrl: >-
+  https://docs.google.com/document/d/1hjIUcKi-vIM9RGRZDWPRyUtzZLlVrpaY6Jy81iZVYi4
+source: gdoc
+tags:
+  - Philosophy
 ---
 
 In February of 1978, the sad young man went away. The algorithm that replaced him could pass for human, when it wanted to. It gave occasional interviews and was the subject of a documentary; by all accounts, it had a family and lived in suburban west London. In 2019, it even managed to contract cancer and die. But then, the uncanniest valley of all is the one that hides in plain sight.

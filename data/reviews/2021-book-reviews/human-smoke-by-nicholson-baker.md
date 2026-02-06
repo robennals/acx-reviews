@@ -1,16 +1,19 @@
 ---
-title: "Human Smoke by Nicholson Baker"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2021-book-reviews"
-contestName: "2021 Book Reviews"
+title: Human Smoke by Nicholson Baker
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2021-book-reviews
+contestName: 2021 Book Reviews
 year: 2021
-publishedDate: "2026-02-06T07:21:29.570Z"
-slug: "human-smoke-by-nicholson-baker"
+publishedDate: '2026-02-06T07:21:29.570Z'
+slug: human-smoke-by-nicholson-baker
 wordCount: 3921
 readingTimeMinutes: 18
-originalUrl: "https://docs.google.com/document/d/1xexFJ7h0vULMDE7N77q_MIzXoerexfe_CqqGEL6hEoQ"
-source: "gdoc"
+originalUrl: >-
+  https://docs.google.com/document/d/1xexFJ7h0vULMDE7N77q_MIzXoerexfe_CqqGEL6hEoQ
+source: gdoc
+tags:
+  - History
 ---
 
 History is not a morality play, even though on occasion it is taught as one. Human Smoke by Nicholson Baker isn’t so much a traditional book as a collage of footnotes moving through time. Set in the 1930s and early 1940s, a typical page of the book looks like the following:

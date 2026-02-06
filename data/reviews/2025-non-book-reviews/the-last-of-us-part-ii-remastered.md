@@ -1,16 +1,20 @@
 ---
-title: "The Last of Us, Part II: Remastered"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2025-non-book-reviews"
-contestName: "2025 Non Book Reviews"
+title: 'The Last of Us, Part II: Remastered'
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2025-non-book-reviews
+contestName: 2025 Non Book Reviews
 year: 2025
-publishedDate: "2026-02-06T16:57:23.284Z"
-slug: "the-last-of-us-part-ii-remastered"
+publishedDate: '2026-02-06T16:57:23.284Z'
+slug: the-last-of-us-part-ii-remastered
 wordCount: 4562
 readingTimeMinutes: 21
-originalUrl: "https://docs.google.com/document/d/1B3YxYxLVFjKGicaEkqvt353kt0uimn0PSUQv1PyaHuI"
-source: "gdoc"
+originalUrl: >-
+  https://docs.google.com/document/d/1B3YxYxLVFjKGicaEkqvt353kt0uimn0PSUQv1PyaHuI
+source: gdoc
+tags:
+  - Fiction
+  - Philosophy
 ---
 
 Revenge Is a Dish Best Left Unserved

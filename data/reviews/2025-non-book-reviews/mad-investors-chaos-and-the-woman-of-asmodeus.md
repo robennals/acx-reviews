@@ -1,16 +1,20 @@
 ---
-title: "Mad Investors Chaos and The Woman of Asmodeus"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2025-non-book-reviews"
-contestName: "2025 Non Book Reviews"
+title: Mad Investors Chaos and The Woman of Asmodeus
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2025-non-book-reviews
+contestName: 2025 Non Book Reviews
 year: 2025
-publishedDate: "2026-02-06T16:55:03.479Z"
-slug: "mad-investors-chaos-and-the-woman-of-asmodeus"
+publishedDate: '2026-02-06T16:55:03.479Z'
+slug: mad-investors-chaos-and-the-woman-of-asmodeus
 wordCount: 5831
 readingTimeMinutes: 26
-originalUrl: "https://docs.google.com/document/d/1a3q0Z2tuPLLbDeg5-pfEffkajGjrfPDwE7ZMs7uaWQs"
-source: "gdoc"
+originalUrl: >-
+  https://docs.google.com/document/d/1a3q0Z2tuPLLbDeg5-pfEffkajGjrfPDwE7ZMs7uaWQs
+source: gdoc
+tags:
+  - Fiction
+  - Philosophy
 ---
 
 A D&D game crossed with a Truman Show remake crossed with a math textbook crossed with a BDSM romance novel

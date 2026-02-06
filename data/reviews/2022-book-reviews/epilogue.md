@@ -1,16 +1,19 @@
 ---
-title: "Epilogue"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2022-book-reviews"
-contestName: "2022 Book Reviews"
+title: Epilogue
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2022-book-reviews
+contestName: 2022 Book Reviews
 year: 2022
-publishedDate: "2026-02-06T07:22:32.819Z"
-slug: "epilogue"
+publishedDate: '2026-02-06T07:22:32.819Z'
+slug: epilogue
 wordCount: 1826
 readingTimeMinutes: 9
-originalUrl: "https://docs.google.com/document/d/100kMdSVFviZSSBvUyyEQPMNlvLptVQxHFD9i9wGuBWs"
-source: "gdoc"
+originalUrl: >-
+  https://docs.google.com/document/d/100kMdSVFviZSSBvUyyEQPMNlvLptVQxHFD9i9wGuBWs
+source: gdoc
+tags:
+  - Science
 ---
 
 We forgot one Jew along the way! Andrew Gelman is still alive and wants to say something. Gelman is a disciple of Rubin and his blog headline begins with “statistical modeling, causal inference” so he definitely has opinions on all this, which he expresses in [his own review of the Book of Why](https://www.google.com/url?q=https://statmodeling.stat.columbia.edu/2019/01/08/book-pearl-mackenzie/&sa=D&source=editors&ust=1770366145441269&usg=AOvVaw3PqCfmegfbmw_ly6DPqujD). He’s a bit upset that Pearl is so dismissive of statisticians, who he relegates as “stuck” on rung one, unable to ascend his fancy ladder. I thought this would be a good chance to see a potential outcome practitioner and Pearl actually get down to what’s the problem between them and start to agree, but of course there is no hope. If you want to see for yourself a discussion between experts, Pearl copy-pasted his debate with Gelman [on his blog](https://www.google.com/url?q=http://causality.cs.ucla.edu/blog/index.php/2019/01/15/more-on-gelmans-views-of-causal-inference/&sa=D&source=editors&ust=1770366145442029&usg=AOvVaw3t08K1o4IpLrOAEnMOn73s) for convenience, and there’s also [an older post by Gelman](https://www.google.com/url?q=https://statmodeling.stat.columbia.edu/2009/07/05/disputes_about/&sa=D&source=editors&ust=1770366145442285&usg=AOvVaw3R478IUGB7VTJ34xKJESud) with Pearl popping out in the comments to disagree, with [a recap by Gelman](https://www.google.com/url?q=https://statmodeling.stat.columbia.edu/2009/07/09/more_on_pearlru/&sa=D&source=editors&ust=1770366145442520&usg=AOvVaw2WEGx4NodVb1PsFkIsO6en). (But… do they disagree for real? Who knows! Ready the printing machine!) I’ll just cite here Pearl’s [commencing reaction](https://www.google.com/url?q=https://statmodeling.stat.columbia.edu/2019/01/08/book-pearl-mackenzie/%23comment-943245&sa=D&source=editors&ust=1770366145442884&usg=AOvVaw15QwNMYpWISP9C-eE81YBA) to Gelman’s review:

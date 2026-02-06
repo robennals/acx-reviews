@@ -1,16 +1,20 @@
 ---
-title: "The Watergate Affair"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2025-non-book-reviews"
-contestName: "2025 Non Book Reviews"
+title: The Watergate Affair
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2025-non-book-reviews
+contestName: 2025 Non Book Reviews
 year: 2025
-publishedDate: "2026-02-06T16:55:59.404Z"
-slug: "the-watergate-affair"
+publishedDate: '2026-02-06T16:55:59.404Z'
+slug: the-watergate-affair
 wordCount: 8445
 readingTimeMinutes: 38
-originalUrl: "https://docs.google.com/document/d/1jYVJFIz5-aMi0LCgsC9AN6BncJDNVGaMU37QmwZ1vzA"
-source: "gdoc"
+originalUrl: >-
+  https://docs.google.com/document/d/1jYVJFIz5-aMi0LCgsC9AN6BncJDNVGaMU37QmwZ1vzA
+source: gdoc
+tags:
+  - History
+  - Politics
 ---
 
 On a recent trip to DC, I was surprised to notice that the Watergate Hotel is not only still there, it's still called that. I thought it would have at least changed its name, the way the scandal-ridden military contractor Blackwater keeps changing its name (to Xe and then Academi and later Constellis). But the Watergate is still there, its reputation apparently unaffected by the scandal, or possibly bolstered by it. Maybe the name is so famous that some people stay there as a kind of historical novelty.

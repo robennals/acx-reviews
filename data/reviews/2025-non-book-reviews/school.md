@@ -1,16 +1,18 @@
 ---
-title: "School"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2025-non-book-reviews"
-contestName: "2025 Non Book Reviews"
+title: School
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2025-non-book-reviews
+contestName: 2025 Non Book Reviews
 year: 2025
-publishedDate: "2026-02-06T16:58:49.957Z"
-slug: "school"
+publishedDate: '2026-02-06T16:58:49.957Z'
+slug: school
 wordCount: 7972
 readingTimeMinutes: 36
-originalUrl: "https://www.astralcodexten.com/p/your-review-school"
-source: "acx"
+originalUrl: 'https://www.astralcodexten.com/p/your-review-school'
+source: acx
+tags:
+  - Society
 ---
 
 _[This is one of the finalists in the 2025 review contest, written by an ACX reader who will remain anonymous until after voting is done. It was originally given an Honorable Mention, but since [last week’s piece](https://www.astralcodexten.com/p/your-review-alpha-school) was about an exciting new experimental school, I decided to promote this more conservative review as a counterpoint.]_

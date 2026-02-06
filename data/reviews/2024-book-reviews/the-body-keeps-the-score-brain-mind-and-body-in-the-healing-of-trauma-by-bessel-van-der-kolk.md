@@ -1,16 +1,23 @@
 ---
-title: "The Body Keeps the Score: Brain, Mind, and Body in the Healing of Trauma by Bessel van der Kolk"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2024-book-reviews"
-contestName: "2024 Book Reviews"
+title: >-
+  The Body Keeps the Score: Brain, Mind, and Body in the Healing of Trauma by
+  Bessel van der Kolk
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2024-book-reviews
+contestName: 2024 Book Reviews
 year: 2024
-publishedDate: "2026-02-06T16:49:14.000Z"
-slug: "the-body-keeps-the-score-brain-mind-and-body-in-the-healing-of-trauma-by-bessel-van-der-kolk"
+publishedDate: '2026-02-06T16:49:14.000Z'
+slug: >-
+  the-body-keeps-the-score-brain-mind-and-body-in-the-healing-of-trauma-by-bessel-van-der-kolk
 wordCount: 3915
 readingTimeMinutes: 18
-originalUrl: "https://docs.google.com/document/d/14qa47TJ_Vyerx4XNgTCIh7PUZ_TOgNcU_eHm5So_zo0"
-source: "gdoc"
+originalUrl: >-
+  https://docs.google.com/document/d/14qa47TJ_Vyerx4XNgTCIh7PUZ_TOgNcU_eHm5So_zo0
+source: gdoc
+tags:
+  - Psychology
+  - Science
 ---
 
 (This review touches on PTSD and sexual assault)

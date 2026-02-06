@@ -1,16 +1,20 @@
 ---
-title: "The Ecotechnic Future by John Michael Greer"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2022-book-reviews"
-contestName: "2022 Book Reviews"
+title: The Ecotechnic Future by John Michael Greer
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2022-book-reviews
+contestName: 2022 Book Reviews
 year: 2022
-publishedDate: "2026-02-06T07:22:32.823Z"
-slug: "the-ecotechnic-future-by-john-michael-greer"
+publishedDate: '2026-02-06T07:22:32.823Z'
+slug: the-ecotechnic-future-by-john-michael-greer
 wordCount: 9962
 readingTimeMinutes: 45
-originalUrl: "https://docs.google.com/document/d/100kMdSVFviZSSBvUyyEQPMNlvLptVQxHFD9i9wGuBWs"
-source: "gdoc"
+originalUrl: >-
+  https://docs.google.com/document/d/100kMdSVFviZSSBvUyyEQPMNlvLptVQxHFD9i9wGuBWs
+source: gdoc
+tags:
+  - Technology
+  - Society
 ---
 
 ## Introduction

@@ -1,16 +1,20 @@
 ---
-title: "Reason and Society in the Middle Ages by Alexander Murray"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2022-book-reviews"
-contestName: "2022 Book Reviews"
+title: Reason and Society in the Middle Ages by Alexander Murray
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2022-book-reviews
+contestName: 2022 Book Reviews
 year: 2022
-publishedDate: "2026-02-06T07:23:14.490Z"
-slug: "reason-and-society-in-the-middle-ages-by-alexander-murray"
+publishedDate: '2026-02-06T07:23:14.490Z'
+slug: reason-and-society-in-the-middle-ages-by-alexander-murray
 wordCount: 4485
 readingTimeMinutes: 20
-originalUrl: "https://docs.google.com/document/d/1kQUUJhv-MpLawby2j4zXLZPDG6ligWd5xpIjH8UmWdw"
-source: "gdoc"
+originalUrl: >-
+  https://docs.google.com/document/d/1kQUUJhv-MpLawby2j4zXLZPDG6ligWd5xpIjH8UmWdw
+source: gdoc
+tags:
+  - History
+  - Philosophy
 ---
 
 ## I. The Premise

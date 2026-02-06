@@ -1,16 +1,20 @@
 ---
-title: "The Family That Couldn’t Sleep by D. T. Max"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2024-book-reviews"
-contestName: "2024 Book Reviews"
+title: "The Family That Couldn’t Sleep\_by D. T. Max"
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2024-book-reviews
+contestName: 2024 Book Reviews
 year: 2024
-publishedDate: "2026-02-06T16:49:14.007Z"
-slug: "the-family-that-couldnt-sleep-by-d-t-max"
+publishedDate: '2026-02-06T16:49:14.007Z'
+slug: the-family-that-couldnt-sleep-by-d-t-max
 wordCount: 9677
 readingTimeMinutes: 44
-originalUrl: "https://docs.google.com/document/d/14qa47TJ_Vyerx4XNgTCIh7PUZ_TOgNcU_eHm5So_zo0"
-source: "gdoc"
+originalUrl: >-
+  https://docs.google.com/document/d/14qa47TJ_Vyerx4XNgTCIh7PUZ_TOgNcU_eHm5So_zo0
+source: gdoc
+tags:
+  - Science
+  - Biology
 ---
 
 “You wake up screaming, frightened by memories,

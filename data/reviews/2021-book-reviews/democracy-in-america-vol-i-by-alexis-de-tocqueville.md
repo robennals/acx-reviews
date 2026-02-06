@@ -1,16 +1,20 @@
 ---
-title: "Democracy in America vol. I by Alexis de Tocqueville"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2021-book-reviews"
-contestName: "2021 Book Reviews"
+title: Democracy in America vol. I by Alexis de Tocqueville
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2021-book-reviews
+contestName: 2021 Book Reviews
 year: 2021
-publishedDate: "2026-02-06T07:21:29.565Z"
-slug: "democracy-in-america-vol-i-by-alexis-de-tocqueville"
+publishedDate: '2026-02-06T07:21:29.565Z'
+slug: democracy-in-america-vol-i-by-alexis-de-tocqueville
 wordCount: 3222
 readingTimeMinutes: 15
-originalUrl: "https://docs.google.com/document/d/1xexFJ7h0vULMDE7N77q_MIzXoerexfe_CqqGEL6hEoQ"
-source: "gdoc"
+originalUrl: >-
+  https://docs.google.com/document/d/1xexFJ7h0vULMDE7N77q_MIzXoerexfe_CqqGEL6hEoQ
+source: gdoc
+tags:
+  - Politics
+  - History
 ---
 
 Alexis de Tocqueville has a Frenchman who visited America in 1831 to report on how the American project and democracy work out in practice, and he published the first volume of his finding in 1835. It was an early work of political science and sociology. It’s so densely packed with ideas that any chapter would easily fill a book if written today. Because it’s so dense, and because of the academic standards of the time, it doesn’t have the mathematical and historical rigor one would expect from a modern work. His analyses are determined largely by personal experience, intuition, and inspired by a handful of historical examples. But as a work of popular science, it compares favorably to something one might read today especially in one regard: he makes a number of specific predictions by which we can judge his models, and we’ve accumulated enough history by now to do so! Remind me to take another look at Turchin in 100 years. I’ve made a point to note all of Tocqueville’s predictions and score him. However, it’s hard to say how obvious these insights were at the time – many of his predictions were widely believed.

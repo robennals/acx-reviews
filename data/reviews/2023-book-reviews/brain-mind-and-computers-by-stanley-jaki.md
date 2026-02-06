@@ -1,16 +1,20 @@
 ---
-title: "Brain, Mind and Computers by Stanley Jaki"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2023-book-reviews"
-contestName: "2023 Book Reviews"
+title: 'Brain, Mind and Computers by Stanley Jaki'
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2023-book-reviews
+contestName: 2023 Book Reviews
 year: 2023
-publishedDate: "2026-02-06T07:21:10.024Z"
-slug: "brain-mind-and-computers-by-stanley-jaki"
+publishedDate: '2026-02-06T07:21:10.024Z'
+slug: brain-mind-and-computers-by-stanley-jaki
 wordCount: 6065
 readingTimeMinutes: 27
-originalUrl: "https://docs.google.com/document/d/10CiEI7aDL2bMIdx7yayy3vlq0TJ8dO5LGnG7yIDPiw8"
-source: "gdoc"
+originalUrl: >-
+  https://docs.google.com/document/d/10CiEI7aDL2bMIdx7yayy3vlq0TJ8dO5LGnG7yIDPiw8
+source: gdoc
+tags:
+  - Technology
+  - Philosophy
 ---
 
 ## Introduction

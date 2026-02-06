@@ -1,16 +1,20 @@
 ---
-title: "The Reckoning  by David Halberstam"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2022-book-reviews"
-contestName: "2022 Book Reviews"
+title: "The Reckoning\_ by David Halberstam"
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2022-book-reviews
+contestName: 2022 Book Reviews
 year: 2022
-publishedDate: "2026-02-06T07:21:54.171Z"
-slug: "the-reckoning-by-david-halberstam"
+publishedDate: '2026-02-06T07:21:54.171Z'
+slug: the-reckoning-by-david-halberstam
 wordCount: 2883
 readingTimeMinutes: 13
-originalUrl: "https://docs.google.com/document/d/1hFzjXliCAWjvheY-8Qd2fhbF79LnX0Xg6R9eqk9yIyI"
-source: "gdoc"
+originalUrl: >-
+  https://docs.google.com/document/d/1hFzjXliCAWjvheY-8Qd2fhbF79LnX0Xg6R9eqk9yIyI
+source: gdoc
+tags:
+  - Economics
+  - History
 ---
 
 The Reckoning, written by David Halberstam, published in 1986, is about the sacking of Detroit, aka the US automobile industry, by the Japanese. It is a classic underdog tale, and Halberstam tells it in a manner that is practically defunct in journalism today — scrupulously even-handed, knitting together multiple perspectives with an understanding for how reasonable people can see the same events completely differently. (As for unreasonable people, don’t worry, there are a lot of them in the book, too).

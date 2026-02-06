@@ -1,16 +1,19 @@
 ---
-title: "The Spreadsheet: Humanity's Most Misunderstood Programming Language"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2025-non-book-reviews"
-contestName: "2025 Non Book Reviews"
+title: 'The Spreadsheet: Humanity''s Most Misunderstood Programming Language'
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2025-non-book-reviews
+contestName: 2025 Non Book Reviews
 year: 2025
-publishedDate: "2026-02-06T16:55:59.400Z"
-slug: "the-spreadsheet-humanitys-most-misunderstood-programming-language"
+publishedDate: '2026-02-06T16:55:59.400Z'
+slug: the-spreadsheet-humanitys-most-misunderstood-programming-language
 wordCount: 636
 readingTimeMinutes: 3
-originalUrl: "https://docs.google.com/document/d/1jYVJFIz5-aMi0LCgsC9AN6BncJDNVGaMU37QmwZ1vzA"
-source: "gdoc"
+originalUrl: >-
+  https://docs.google.com/document/d/1jYVJFIz5-aMi0LCgsC9AN6BncJDNVGaMU37QmwZ1vzA
+source: gdoc
+tags:
+  - Technology
 ---
 
 Spreadsheets are everywhere. They run municipal budgets, shape epidemiological models, bankroll Hollywood, and occasionally sink multimillion-dollar trading desks. They are also, at heart, a soft-spoken programming language masquerading as stationery. This review asks: how did a grid of boxes become the quiet engine of commerce; what does it do uniquely well; and why do its greatest strengths double as existential flaws?

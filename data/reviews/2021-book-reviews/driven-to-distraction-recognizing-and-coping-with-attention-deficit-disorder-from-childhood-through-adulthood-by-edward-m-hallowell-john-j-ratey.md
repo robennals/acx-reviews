@@ -1,16 +1,23 @@
 ---
-title: "Driven to Distraction: Recognizing and Coping with Attention Deficit Disorder from Childhood Through Adulthood by Edward M. Hallowell & John J. Ratey"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2021-book-reviews"
-contestName: "2021 Book Reviews"
+title: >-
+  Driven to Distraction: Recognizing and Coping with Attention Deficit Disorder
+  from Childhood Through Adulthood by Edward M. Hallowell & John J. Ratey
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2021-book-reviews
+contestName: 2021 Book Reviews
 year: 2021
-publishedDate: "2026-02-06T07:21:29.565Z"
-slug: "driven-to-distraction-recognizing-and-coping-with-attention-deficit-disorder-from-childhood-through-adulthood-by-edward-m-hallowell-john-j-ratey"
+publishedDate: '2026-02-06T07:21:29.565Z'
+slug: >-
+  driven-to-distraction-recognizing-and-coping-with-attention-deficit-disorder-from-childhood-through-adulthood-by-edward-m-hallowell-john-j-ratey
 wordCount: 1222
 readingTimeMinutes: 6
-originalUrl: "https://docs.google.com/document/d/1xexFJ7h0vULMDE7N77q_MIzXoerexfe_CqqGEL6hEoQ"
-source: "gdoc"
+originalUrl: >-
+  https://docs.google.com/document/d/1xexFJ7h0vULMDE7N77q_MIzXoerexfe_CqqGEL6hEoQ
+source: gdoc
+tags:
+  - Psychology
+  - Science
 ---
 
 After reading "Driven to Distraction",

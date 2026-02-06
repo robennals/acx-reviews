@@ -1,16 +1,20 @@
 ---
-title: "Call of Duty's campaigns"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2025-non-book-reviews"
-contestName: "2025 Non Book Reviews"
+title: Call of Duty's campaigns
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2025-non-book-reviews
+contestName: 2025 Non Book Reviews
 year: 2025
-publishedDate: "2026-02-06T16:57:23.282Z"
-slug: "call-of-dutys-campaigns"
+publishedDate: '2026-02-06T16:57:23.282Z'
+slug: call-of-dutys-campaigns
 wordCount: 3394
 readingTimeMinutes: 16
-originalUrl: "https://docs.google.com/document/d/1B3YxYxLVFjKGicaEkqvt353kt0uimn0PSUQv1PyaHuI"
-source: "gdoc"
+originalUrl: >-
+  https://docs.google.com/document/d/1B3YxYxLVFjKGicaEkqvt353kt0uimn0PSUQv1PyaHuI
+source: gdoc
+tags:
+  - Politics
+  - History
 ---
 
 The three best selling videogame franchises of all time are, in order Mario, Tetris, and Call of Duty. It’s an interesting list, because each of them represents dramatically different visions of what videogames should be.

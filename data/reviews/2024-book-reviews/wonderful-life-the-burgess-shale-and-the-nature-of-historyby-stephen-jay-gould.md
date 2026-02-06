@@ -1,16 +1,22 @@
 ---
-title: "Wonderful Life: The Burgess Shale and the Nature of Historyby Stephen Jay Gould"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2024-book-reviews"
-contestName: "2024 Book Reviews"
+title: >-
+  Wonderful Life: The Burgess Shale and the Nature of Historyby Stephen Jay
+  Gould
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2024-book-reviews
+contestName: 2024 Book Reviews
 year: 2024
-publishedDate: "2026-02-06T16:49:50.824Z"
-slug: "wonderful-life-the-burgess-shale-and-the-nature-of-historyby-stephen-jay-gould"
+publishedDate: '2026-02-06T16:49:50.824Z'
+slug: wonderful-life-the-burgess-shale-and-the-nature-of-historyby-stephen-jay-gould
 wordCount: 3853
 readingTimeMinutes: 18
-originalUrl: "https://docs.google.com/document/d/1Ki5XsE0jkxZtd2XAeyTAJw1ZjLh2Cu-matUYKAhA6-s"
-source: "gdoc"
+originalUrl: >-
+  https://docs.google.com/document/d/1Ki5XsE0jkxZtd2XAeyTAJw1ZjLh2Cu-matUYKAhA6-s
+source: gdoc
+tags:
+  - Biology
+  - Science
 ---
 
 Stephen Jay Gould thought we were telling stories wrong.

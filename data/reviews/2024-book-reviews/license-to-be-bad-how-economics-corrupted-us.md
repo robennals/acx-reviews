@@ -1,16 +1,20 @@
 ---
-title: "License to be Bad - How Economics Corrupted Us"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2024-book-reviews"
-contestName: "2024 Book Reviews"
+title: License to be Bad - How Economics Corrupted Us
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2024-book-reviews
+contestName: 2024 Book Reviews
 year: 2024
-publishedDate: "2026-02-06T16:48:20.708Z"
-slug: "license-to-be-bad-how-economics-corrupted-us"
+publishedDate: '2026-02-06T16:48:20.708Z'
+slug: license-to-be-bad-how-economics-corrupted-us
 wordCount: 4012
 readingTimeMinutes: 18
-originalUrl: "https://docs.google.com/document/d/1cp6iw5OEyDjnD_viZo-KL0Zv4jwQnMXtE4yIovfVAco"
-source: "gdoc"
+originalUrl: >-
+  https://docs.google.com/document/d/1cp6iw5OEyDjnD_viZo-KL0Zv4jwQnMXtE4yIovfVAco
+source: gdoc
+tags:
+  - Economics
+  - Philosophy
 ---
 
 If we had a Nobel Prize for every Nobel Prize of Economics Laureate who spent their life disavowing the very same theory that got them the Nobel in the first place, we’d have two Nobel Prizes. Which isn’t much, but it's weird that it happened twice.

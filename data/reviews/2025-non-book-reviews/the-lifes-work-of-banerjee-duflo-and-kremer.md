@@ -1,16 +1,19 @@
 ---
-title: "The Life’s Work of Banerjee, Duflo, and Kremer"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2025-non-book-reviews"
-contestName: "2025 Non Book Reviews"
+title: 'The Life’s Work of Banerjee, Duflo, and Kremer'
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2025-non-book-reviews
+contestName: 2025 Non Book Reviews
 year: 2025
-publishedDate: "2026-02-06T16:55:59.396Z"
-slug: "the-lifes-work-of-banerjee-duflo-and-kremer"
+publishedDate: '2026-02-06T16:55:59.396Z'
+slug: the-lifes-work-of-banerjee-duflo-and-kremer
 wordCount: 6329
 readingTimeMinutes: 29
-originalUrl: "https://docs.google.com/document/d/1jYVJFIz5-aMi0LCgsC9AN6BncJDNVGaMU37QmwZ1vzA"
-source: "gdoc"
+originalUrl: >-
+  https://docs.google.com/document/d/1jYVJFIz5-aMi0LCgsC9AN6BncJDNVGaMU37QmwZ1vzA
+source: gdoc
+tags:
+  - Economics
 ---
 
 Abhijit Banerjee, Esther Duflo, and Michael Kremer are most famous, justly, for their work on randomized controlled trials, or RCTs, for which they were awarded the Nobel Prize in 2019. An RCT, for those who do not know, is the same set-up as that by which we test a medicine. We give the treatment to a group chosen at random, and compare their outcomes to an untreated group. In the hands of Banerjee, Duflo, and Kremer, and their many collaborators at the Mohammed Latif Jameel Poverty Action Lab, that method is used to test policy. How should we provide public health services? How should we conduct education? How do we get an efficient government? How do we disseminate information? The policies informed by their experiments have affected the lives of over 600 million people; a conservative estimate of lives saved would run into the millions.

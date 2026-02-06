@@ -1,16 +1,20 @@
 ---
-title: "The Man Who Quit Money by Mark Sundeen"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2022-book-reviews"
-contestName: "2022 Book Reviews"
+title: The Man Who Quit Money by Mark Sundeen
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2022-book-reviews
+contestName: 2022 Book Reviews
 year: 2022
-publishedDate: "2026-02-06T07:22:32.829Z"
-slug: "the-man-who-quit-money-by-mark-sundeen"
+publishedDate: '2026-02-06T07:22:32.829Z'
+slug: the-man-who-quit-money-by-mark-sundeen
 wordCount: 8887
 readingTimeMinutes: 40
-originalUrl: "https://docs.google.com/document/d/100kMdSVFviZSSBvUyyEQPMNlvLptVQxHFD9i9wGuBWs"
-source: "gdoc"
+originalUrl: >-
+  https://docs.google.com/document/d/100kMdSVFviZSSBvUyyEQPMNlvLptVQxHFD9i9wGuBWs
+source: gdoc
+tags:
+  - Memoir
+  - Society
 ---
 
 Content warning: suicide

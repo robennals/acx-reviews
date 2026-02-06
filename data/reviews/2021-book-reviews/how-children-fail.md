@@ -1,16 +1,18 @@
 ---
-title: "How Children Fail"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2021-book-reviews"
-contestName: "2021 Book Reviews"
+title: How Children Fail
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2021-book-reviews
+contestName: 2021 Book Reviews
 year: 2021
-publishedDate: "2026-02-05T15:44:28.451Z"
-slug: "how-children-fail"
+publishedDate: '2026-02-05T15:44:28.451Z'
+slug: how-children-fail
 wordCount: 4572
 readingTimeMinutes: 21
-originalUrl: "https://astralcodexten.substack.com/p/your-book-review-how-children-fail"
-source: "acx"
+originalUrl: 'https://astralcodexten.substack.com/p/your-book-review-how-children-fail'
+source: acx
+tags:
+  - Society
 ---
 
 [_This is the sixteenth of seventeen finalists in the book review contest. It’s not by me - it’s by an ACX reader who will remain anonymous until after voting is done, to prevent their identity from influencing your decisions. This entry was promoted to finalist status by readers; thanks to everyone who voted! - SA_]

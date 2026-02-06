@@ -1,16 +1,21 @@
 ---
-title: "Cycles of Time: An Extraordinary New View of the Universe. By Roger Penrose, 2012"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2023-book-reviews"
-contestName: "2023 Book Reviews"
+title: >-
+  Cycles of Time: An Extraordinary New View of the Universe. By Roger Penrose,
+  2012
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2023-book-reviews
+contestName: 2023 Book Reviews
 year: 2023
-publishedDate: "2026-02-06T07:21:10.026Z"
-slug: "cycles-of-time-an-extraordinary-new-view-of-the-universe-by-roger-penrose-2012"
+publishedDate: '2026-02-06T07:21:10.026Z'
+slug: cycles-of-time-an-extraordinary-new-view-of-the-universe-by-roger-penrose-2012
 wordCount: 2307
 readingTimeMinutes: 11
-originalUrl: "https://docs.google.com/document/d/10CiEI7aDL2bMIdx7yayy3vlq0TJ8dO5LGnG7yIDPiw8"
-source: "gdoc"
+originalUrl: >-
+  https://docs.google.com/document/d/10CiEI7aDL2bMIdx7yayy3vlq0TJ8dO5LGnG7yIDPiw8
+source: gdoc
+tags:
+  - Science
 ---
 
 ## I: The Law of Entropy

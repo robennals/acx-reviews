@@ -1,16 +1,23 @@
 ---
-title: "Irreversible Damage: The Transgender Craze Seducing Our Daughters by Abigail Shrier"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2022-book-reviews"
-contestName: "2022 Book Reviews"
+title: >-
+  Irreversible Damage: The Transgender Craze Seducing Our Daughters by Abigail
+  Shrier
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2022-book-reviews
+contestName: 2022 Book Reviews
 year: 2022
-publishedDate: "2026-02-06T07:23:14.476Z"
-slug: "irreversible-damage-the-transgender-craze-seducing-our-daughters-by-abigail-shrier"
+publishedDate: '2026-02-06T07:23:14.476Z'
+slug: >-
+  irreversible-damage-the-transgender-craze-seducing-our-daughters-by-abigail-shrier
 wordCount: 3902
 readingTimeMinutes: 18
-originalUrl: "https://docs.google.com/document/d/1kQUUJhv-MpLawby2j4zXLZPDG6ligWd5xpIjH8UmWdw"
-source: "gdoc"
+originalUrl: >-
+  https://docs.google.com/document/d/1kQUUJhv-MpLawby2j4zXLZPDG6ligWd5xpIjH8UmWdw
+source: gdoc
+tags:
+  - Society
+  - Psychology
 ---
 
 The song goes,

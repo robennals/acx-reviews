@@ -1,16 +1,20 @@
 ---
-title: "Autoheterosexual: Attracted to Being the Other Sex"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2023-book-reviews"
-contestName: "2023 Book Reviews"
+title: 'Autoheterosexual: Attracted to Being the Other Sex'
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2023-book-reviews
+contestName: 2023 Book Reviews
 year: 2023
-publishedDate: "2026-02-06T07:21:10.022Z"
-slug: "autoheterosexual-attracted-to-being-the-other-sex"
+publishedDate: '2026-02-06T07:21:10.022Z'
+slug: autoheterosexual-attracted-to-being-the-other-sex
 wordCount: 7214
 readingTimeMinutes: 33
-originalUrl: "https://docs.google.com/document/d/10CiEI7aDL2bMIdx7yayy3vlq0TJ8dO5LGnG7yIDPiw8"
-source: "gdoc"
+originalUrl: >-
+  https://docs.google.com/document/d/10CiEI7aDL2bMIdx7yayy3vlq0TJ8dO5LGnG7yIDPiw8
+source: gdoc
+tags:
+  - Psychology
+  - Society
 ---
 
 If I ask ChatGPT to explain transgender people to me, then it often retreats into vague discussions of gender identity. It is very hard to get it to explain what these things mean, in terms of actual experiences people might have. And that might not be a coincidence - the concepts used to understand transness seem to be the result of a complicated political negotiation, at least as much as they are optimized to communicate people’s experiences.

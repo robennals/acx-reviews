@@ -1,16 +1,21 @@
 ---
-title: "The Russo-Ukrainian War: A Firsthand Review"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2025-non-book-reviews"
-contestName: "2025 Non Book Reviews"
+title: 'The Russo-Ukrainian War: A Firsthand Review'
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2025-non-book-reviews
+contestName: 2025 Non Book Reviews
 year: 2025
-publishedDate: "2026-02-06T16:55:59.398Z"
-slug: "the-russo-ukrainian-war-a-firsthand-review"
+publishedDate: '2026-02-06T16:55:59.398Z'
+slug: the-russo-ukrainian-war-a-firsthand-review
 wordCount: 7350
 readingTimeMinutes: 33
-originalUrl: "https://docs.google.com/document/d/1jYVJFIz5-aMi0LCgsC9AN6BncJDNVGaMU37QmwZ1vzA"
-source: "gdoc"
+originalUrl: >-
+  https://docs.google.com/document/d/1jYVJFIz5-aMi0LCgsC9AN6BncJDNVGaMU37QmwZ1vzA
+source: gdoc
+tags:
+  - History
+  - Politics
+  - Memoir
 ---
 
 ## You Can Just Do Things

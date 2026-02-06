@@ -1,16 +1,20 @@
 ---
-title: "H.P. Lovecraft: Against the World, Against Life, by Michel Houellebecq"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2024-book-reviews"
-contestName: "2024 Book Reviews"
+title: 'H.P. Lovecraft: Against the World, Against Life, by Michel Houellebecq'
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2024-book-reviews
+contestName: 2024 Book Reviews
 year: 2024
-publishedDate: "2026-02-06T16:47:49.311Z"
-slug: "hp-lovecraft-against-the-world-against-life-by-michel-houellebecq"
+publishedDate: '2026-02-06T16:47:49.311Z'
+slug: hp-lovecraft-against-the-world-against-life-by-michel-houellebecq
 wordCount: 1556
 readingTimeMinutes: 7
-originalUrl: "https://docs.google.com/document/d/1QiotH3aGFgNLGqsIHTK_Plm_gem2E4l2C2ctyGJd0jY"
-source: "gdoc"
+originalUrl: >-
+  https://docs.google.com/document/d/1QiotH3aGFgNLGqsIHTK_Plm_gem2E4l2C2ctyGJd0jY
+source: gdoc
+tags:
+  - Fiction
+  - Memoir
 ---
 
 Original title: H.P. Lovecraft: contre le monde, contre la vie

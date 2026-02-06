@@ -1,16 +1,20 @@
 ---
-title: "San Fransicko: Why Progressives Ruin Cities by Michael Shellenberger"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2022-book-reviews"
-contestName: "2022 Book Reviews"
+title: 'San Fransicko: Why Progressives Ruin Cities by Michael Shellenberger'
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2022-book-reviews
+contestName: 2022 Book Reviews
 year: 2022
-publishedDate: "2026-02-06T07:23:14.491Z"
-slug: "san-fransicko-why-progressives-ruin-cities-by-michael-shellenberger"
+publishedDate: '2026-02-06T07:23:14.491Z'
+slug: san-fransicko-why-progressives-ruin-cities-by-michael-shellenberger
 wordCount: 3752
 readingTimeMinutes: 17
-originalUrl: "https://docs.google.com/document/d/1kQUUJhv-MpLawby2j4zXLZPDG6ligWd5xpIjH8UmWdw"
-source: "gdoc"
+originalUrl: >-
+  https://docs.google.com/document/d/1kQUUJhv-MpLawby2j4zXLZPDG6ligWd5xpIjH8UmWdw
+source: gdoc
+tags:
+  - Politics
+  - Society
 ---
 
 Introduction

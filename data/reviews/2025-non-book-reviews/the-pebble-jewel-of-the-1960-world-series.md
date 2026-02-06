@@ -1,16 +1,20 @@
 ---
-title: "The Pebble, Jewel of the 1960 World Series"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2025-non-book-reviews"
-contestName: "2025 Non Book Reviews"
+title: 'The Pebble, Jewel of the 1960 World Series'
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2025-non-book-reviews
+contestName: 2025 Non Book Reviews
 year: 2025
-publishedDate: "2026-02-06T16:55:59.398Z"
-slug: "the-pebble-jewel-of-the-1960-world-series"
+publishedDate: '2026-02-06T16:55:59.398Z'
+slug: the-pebble-jewel-of-the-1960-world-series
 wordCount: 2688
 readingTimeMinutes: 12
-originalUrl: "https://docs.google.com/document/d/1jYVJFIz5-aMi0LCgsC9AN6BncJDNVGaMU37QmwZ1vzA"
-source: "gdoc"
+originalUrl: >-
+  https://docs.google.com/document/d/1jYVJFIz5-aMi0LCgsC9AN6BncJDNVGaMU37QmwZ1vzA
+source: gdoc
+tags:
+  - Fiction
+  - History
 ---
 
 April is sweet. April is cruel. April is spongy. And on opening day the squish of rain-soaked grass under a skittering baseball achieves the sound of summer coming on slowly. The pinwheel drizzle flying off the rolling ball stirs up hope. Foreshadows letdown. Prompts figments of supple deeds.            

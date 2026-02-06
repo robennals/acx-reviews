@@ -13,7 +13,11 @@
     "wordCount": 10620,
     "readingTimeMinutes": 48,
     "originalUrl": "https://www.astralcodexten.com/p/your-review-the-synaptic-plasticity",
-    "source": "acx"
+    "source": "acx",
+    "tags": [
+      "Science",
+      "Biology"
+    ]
   },
   {
     "id": "school",
@@ -29,7 +33,10 @@
     "wordCount": 7972,
     "readingTimeMinutes": 36,
     "originalUrl": "https://www.astralcodexten.com/p/your-review-school",
-    "source": "acx"
+    "source": "acx",
+    "tags": [
+      "Society"
+    ]
   },
   {
     "id": "project-xanadu",
@@ -45,7 +52,11 @@
     "wordCount": 7485,
     "readingTimeMinutes": 34,
     "originalUrl": "https://www.astralcodexten.com/p/your-review-project-xanadu-the-internet",
-    "source": "acx"
+    "source": "acx",
+    "tags": [
+      "Technology",
+      "History"
+    ]
   },
   {
     "id": "participation-in-phase-i-clinical-trials",
@@ -61,7 +72,11 @@
     "wordCount": 4663,
     "readingTimeMinutes": 21,
     "originalUrl": "https://www.astralcodexten.com/p/your-review-participation-in-phase",
-    "source": "acx"
+    "source": "acx",
+    "tags": [
+      "Science",
+      "Memoir"
+    ]
   },
   {
     "id": "ollantay",
@@ -77,7 +92,11 @@
     "wordCount": 5794,
     "readingTimeMinutes": 26,
     "originalUrl": "https://www.astralcodexten.com/p/your-review-ollantay",
-    "source": "acx"
+    "source": "acx",
+    "tags": [
+      "History",
+      "Fiction"
+    ]
   },
   {
     "id": "my-fathers-instant-mashed-potatoes",
@@ -93,7 +112,11 @@
     "wordCount": 4457,
     "readingTimeMinutes": 20,
     "originalUrl": "https://www.astralcodexten.com/p/your-review-my-fathers-instant-mashed",
-    "source": "acx"
+    "source": "acx",
+    "tags": [
+      "Philosophy",
+      "Society"
+    ]
   },
   {
     "id": "mice-mechanisms-and-dementia",
@@ -109,7 +132,11 @@
     "wordCount": 7104,
     "readingTimeMinutes": 32,
     "originalUrl": "https://www.astralcodexten.com/p/your-review-of-mice-mechanisms-and",
-    "source": "acx"
+    "source": "acx",
+    "tags": [
+      "Science",
+      "Biology"
+    ]
   },
   {
     "id": "islamic-geometric-patterns",
@@ -125,7 +152,10 @@
     "wordCount": 5386,
     "readingTimeMinutes": 24,
     "originalUrl": "https://www.astralcodexten.com/p/your-review-islamic-geometric-patterns",
-    "source": "acx"
+    "source": "acx",
+    "tags": [
+      "History"
+    ]
   },
   {
     "id": "dating-men-in-the-bay-area",
@@ -141,7 +171,11 @@
     "wordCount": 15309,
     "readingTimeMinutes": 69,
     "originalUrl": "https://www.astralcodexten.com/p/your-review-dating-men-in-the-bay",
-    "source": "acx"
+    "source": "acx",
+    "tags": [
+      "Society",
+      "Psychology"
+    ]
   },
   {
     "id": "the-acx-commentariat",
@@ -157,7 +191,10 @@
     "wordCount": 10085,
     "readingTimeMinutes": 45,
     "originalUrl": "https://www.astralcodexten.com/p/your-review-the-astral-codex-ten",
-    "source": "acx"
+    "source": "acx",
+    "tags": [
+      "Society"
+    ]
   },
   {
     "id": "alpha-school",
@@ -173,7 +210,11 @@
     "wordCount": 17983,
     "readingTimeMinutes": 80,
     "originalUrl": "https://www.astralcodexten.com/p/your-review-alpha-school",
-    "source": "acx"
+    "source": "acx",
+    "tags": [
+      "Society",
+      "Technology"
+    ]
   },
   {
     "id": "joan-of-arc",
@@ -189,7 +230,11 @@
     "wordCount": 24243,
     "readingTimeMinutes": 108,
     "originalUrl": "https://www.astralcodexten.com/p/your-review-joan-of-arc",
-    "source": "acx"
+    "source": "acx",
+    "tags": [
+      "History",
+      "Religion"
+    ]
   },
   {
     "id": "the-aphorism-music-is-the-universal-language-of-mankind-henry-wadsworth-longfellow",
@@ -205,7 +250,11 @@
     "wordCount": 2851,
     "readingTimeMinutes": 13,
     "originalUrl": "https://docs.google.com/document/d/1hjIUcKi-vIM9RGRZDWPRyUtzZLlVrpaY6Jy81iZVYi4",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Philosophy",
+      "Psychology"
+    ]
   },
   {
     "id": "the-three-stigmata-of-noel-scott-engel",
@@ -221,7 +270,10 @@
     "wordCount": 1375,
     "readingTimeMinutes": 7,
     "originalUrl": "https://docs.google.com/document/d/1hjIUcKi-vIM9RGRZDWPRyUtzZLlVrpaY6Jy81iZVYi4",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Philosophy"
+    ]
   },
   {
     "id": "joanna-newsom-the-lyric",
@@ -237,7 +289,10 @@
     "wordCount": 3865,
     "readingTimeMinutes": 18,
     "originalUrl": "https://docs.google.com/document/d/1hjIUcKi-vIM9RGRZDWPRyUtzZLlVrpaY6Jy81iZVYi4",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Philosophy"
+    ]
   },
   {
     "id": "simple-twist-of-fate",
@@ -253,7 +308,10 @@
     "wordCount": 2642,
     "readingTimeMinutes": 12,
     "originalUrl": "https://docs.google.com/document/d/1hjIUcKi-vIM9RGRZDWPRyUtzZLlVrpaY6Jy81iZVYi4",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Philosophy"
+    ]
   },
   {
     "id": "sound-bathing",
@@ -269,7 +327,10 @@
     "wordCount": 2523,
     "readingTimeMinutes": 12,
     "originalUrl": "https://docs.google.com/document/d/1hjIUcKi-vIM9RGRZDWPRyUtzZLlVrpaY6Jy81iZVYi4",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Psychology"
+    ]
   },
   {
     "id": "deathbed-ballads",
@@ -285,7 +346,10 @@
     "wordCount": 14132,
     "readingTimeMinutes": 63,
     "originalUrl": "https://docs.google.com/document/d/1hjIUcKi-vIM9RGRZDWPRyUtzZLlVrpaY6Jy81iZVYi4",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "History"
+    ]
   },
   {
     "id": "a-dance-remix-of-chappell-roans-pink-pony-club",
@@ -301,7 +365,11 @@
     "wordCount": 10129,
     "readingTimeMinutes": 46,
     "originalUrl": "https://docs.google.com/document/d/1hjIUcKi-vIM9RGRZDWPRyUtzZLlVrpaY6Jy81iZVYi4",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Memoir",
+      "Philosophy"
+    ]
   },
   {
     "id": "pathologic-classic-hd",
@@ -317,7 +385,11 @@
     "wordCount": 10621,
     "readingTimeMinutes": 48,
     "originalUrl": "https://docs.google.com/document/d/1B3YxYxLVFjKGicaEkqvt353kt0uimn0PSUQv1PyaHuI",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Fiction",
+      "Philosophy"
+    ]
   },
   {
     "id": "the-last-of-us-part-ii-remastered",
@@ -333,7 +405,11 @@
     "wordCount": 4562,
     "readingTimeMinutes": 21,
     "originalUrl": "https://docs.google.com/document/d/1B3YxYxLVFjKGicaEkqvt353kt0uimn0PSUQv1PyaHuI",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Fiction",
+      "Philosophy"
+    ]
   },
   {
     "id": "the-witness",
@@ -349,7 +425,10 @@
     "wordCount": 4672,
     "readingTimeMinutes": 21,
     "originalUrl": "https://docs.google.com/document/d/1B3YxYxLVFjKGicaEkqvt353kt0uimn0PSUQv1PyaHuI",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Philosophy"
+    ]
   },
   {
     "id": "face-the-fear-worldbuild-the-future-the-games-and-world-of-project-moon",
@@ -365,7 +444,10 @@
     "wordCount": 6152,
     "readingTimeMinutes": 28,
     "originalUrl": "https://docs.google.com/document/d/1B3YxYxLVFjKGicaEkqvt353kt0uimn0PSUQv1PyaHuI",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Fiction"
+    ]
   },
   {
     "id": "gacha-games",
@@ -381,7 +463,10 @@
     "wordCount": 5088,
     "readingTimeMinutes": 23,
     "originalUrl": "https://docs.google.com/document/d/1B3YxYxLVFjKGicaEkqvt353kt0uimn0PSUQv1PyaHuI",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Economics"
+    ]
   },
   {
     "id": "getting-over-it-with-bennett-foddy-a-perfect-review-in-which-i-fail",
@@ -397,7 +482,11 @@
     "wordCount": 5112,
     "readingTimeMinutes": 23,
     "originalUrl": "https://docs.google.com/document/d/1B3YxYxLVFjKGicaEkqvt353kt0uimn0PSUQv1PyaHuI",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Philosophy",
+      "Memoir"
+    ]
   },
   {
     "id": "how-many-super-mario-games-are-there-now",
@@ -413,7 +502,10 @@
     "wordCount": 6524,
     "readingTimeMinutes": 29,
     "originalUrl": "https://docs.google.com/document/d/1B3YxYxLVFjKGicaEkqvt353kt0uimn0PSUQv1PyaHuI",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Society"
+    ]
   },
   {
     "id": "call-of-duty-4-modern-warfare",
@@ -429,7 +521,10 @@
     "wordCount": 4210,
     "readingTimeMinutes": 19,
     "originalUrl": "https://docs.google.com/document/d/1B3YxYxLVFjKGicaEkqvt353kt0uimn0PSUQv1PyaHuI",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Politics"
+    ]
   },
   {
     "id": "call-of-dutys-campaigns",
@@ -445,7 +540,11 @@
     "wordCount": 3394,
     "readingTimeMinutes": 16,
     "originalUrl": "https://docs.google.com/document/d/1B3YxYxLVFjKGicaEkqvt353kt0uimn0PSUQv1PyaHuI",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Politics",
+      "History"
+    ]
   },
   {
     "id": "disco-elysium",
@@ -461,7 +560,11 @@
     "wordCount": 2533,
     "readingTimeMinutes": 12,
     "originalUrl": "https://docs.google.com/document/d/1B3YxYxLVFjKGicaEkqvt353kt0uimn0PSUQv1PyaHuI",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Fiction",
+      "Politics"
+    ]
   },
   {
     "id": "baldurs-gate-three",
@@ -477,7 +580,10 @@
     "wordCount": 1015,
     "readingTimeMinutes": 5,
     "originalUrl": "https://docs.google.com/document/d/1B3YxYxLVFjKGicaEkqvt353kt0uimn0PSUQv1PyaHuI",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Philosophy"
+    ]
   },
   {
     "id": "beating-balatro-learning-mathematics-through-infinite-games",
@@ -493,7 +599,10 @@
     "wordCount": 2357,
     "readingTimeMinutes": 11,
     "originalUrl": "https://docs.google.com/document/d/1B3YxYxLVFjKGicaEkqvt353kt0uimn0PSUQv1PyaHuI",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Science"
+    ]
   },
   {
     "id": "zermelo-fraenkel-set-theory-a-review",
@@ -509,7 +618,11 @@
     "wordCount": 5797,
     "readingTimeMinutes": 26,
     "originalUrl": "https://docs.google.com/document/d/1jYVJFIz5-aMi0LCgsC9AN6BncJDNVGaMU37QmwZ1vzA",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Science",
+      "Philosophy"
+    ]
   },
   {
     "id": "summer-camp-for-sluts-young-swingers-week-at-hedonism-ii-in-negril-jamaica",
@@ -525,7 +638,11 @@
     "wordCount": 8530,
     "readingTimeMinutes": 38,
     "originalUrl": "https://docs.google.com/document/d/1jYVJFIz5-aMi0LCgsC9AN6BncJDNVGaMU37QmwZ1vzA",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Society",
+      "Memoir"
+    ]
   },
   {
     "id": "we-should-never-have-gone-to-mammoth-caves",
@@ -541,7 +658,10 @@
     "wordCount": 5216,
     "readingTimeMinutes": 24,
     "originalUrl": "https://docs.google.com/document/d/1jYVJFIz5-aMi0LCgsC9AN6BncJDNVGaMU37QmwZ1vzA",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Memoir"
+    ]
   },
   {
     "id": "which-sports-why-sports",
@@ -557,7 +677,10 @@
     "wordCount": 2163,
     "readingTimeMinutes": 10,
     "originalUrl": "https://docs.google.com/document/d/1jYVJFIz5-aMi0LCgsC9AN6BncJDNVGaMU37QmwZ1vzA",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Society"
+    ]
   },
   {
     "id": "toki-pona-the-language-of-good",
@@ -573,7 +696,11 @@
     "wordCount": 3253,
     "readingTimeMinutes": 15,
     "originalUrl": "https://docs.google.com/document/d/1jYVJFIz5-aMi0LCgsC9AN6BncJDNVGaMU37QmwZ1vzA",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Society",
+      "Philosophy"
+    ]
   },
   {
     "id": "two-years-of-parenthood-a-review",
@@ -589,7 +716,11 @@
     "wordCount": 2667,
     "readingTimeMinutes": 12,
     "originalUrl": "https://docs.google.com/document/d/1jYVJFIz5-aMi0LCgsC9AN6BncJDNVGaMU37QmwZ1vzA",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Society",
+      "Memoir"
+    ]
   },
   {
     "id": "unordinary-webtoon-comic-series",
@@ -605,7 +736,11 @@
     "wordCount": 4585,
     "readingTimeMinutes": 21,
     "originalUrl": "https://docs.google.com/document/d/1jYVJFIz5-aMi0LCgsC9AN6BncJDNVGaMU37QmwZ1vzA",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Fiction",
+      "Politics"
+    ]
   },
   {
     "id": "us-census-review-a-biblical-perspective",
@@ -621,7 +756,11 @@
     "wordCount": 2223,
     "readingTimeMinutes": 10,
     "originalUrl": "https://docs.google.com/document/d/1jYVJFIz5-aMi0LCgsC9AN6BncJDNVGaMU37QmwZ1vzA",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Religion",
+      "History"
+    ]
   },
   {
     "id": "vttxt-convergence-a-failed-social-experiment",
@@ -637,7 +776,11 @@
     "wordCount": 4039,
     "readingTimeMinutes": 18,
     "originalUrl": "https://docs.google.com/document/d/1jYVJFIz5-aMi0LCgsC9AN6BncJDNVGaMU37QmwZ1vzA",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Society",
+      "Technology"
+    ]
   },
   {
     "id": "the-world-as-a-whole",
@@ -653,7 +796,11 @@
     "wordCount": 11151,
     "readingTimeMinutes": 50,
     "originalUrl": "https://docs.google.com/document/d/1jYVJFIz5-aMi0LCgsC9AN6BncJDNVGaMU37QmwZ1vzA",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Society",
+      "Memoir"
+    ]
   },
   {
     "id": "times-arrow-spirals",
@@ -669,7 +816,10 @@
     "wordCount": 1390,
     "readingTimeMinutes": 7,
     "originalUrl": "https://docs.google.com/document/d/1jYVJFIz5-aMi0LCgsC9AN6BncJDNVGaMU37QmwZ1vzA",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Philosophy"
+    ]
   },
   {
     "id": "toby-a-review-of-my-entry-to-the-acx-everything-except-a-book-review-contest-2025",
@@ -685,7 +835,11 @@
     "wordCount": 4959,
     "readingTimeMinutes": 23,
     "originalUrl": "https://docs.google.com/document/d/1jYVJFIz5-aMi0LCgsC9AN6BncJDNVGaMU37QmwZ1vzA",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Fiction",
+      "Philosophy"
+    ]
   },
   {
     "id": "the-virality-project-a-misinformation-tragedy",
@@ -701,7 +855,10 @@
     "wordCount": 9805,
     "readingTimeMinutes": 44,
     "originalUrl": "https://docs.google.com/document/d/1jYVJFIz5-aMi0LCgsC9AN6BncJDNVGaMU37QmwZ1vzA",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Politics"
+    ]
   },
   {
     "id": "the-watergate-affair",
@@ -717,7 +874,11 @@
     "wordCount": 8445,
     "readingTimeMinutes": 38,
     "originalUrl": "https://docs.google.com/document/d/1jYVJFIz5-aMi0LCgsC9AN6BncJDNVGaMU37QmwZ1vzA",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "History",
+      "Politics"
+    ]
   },
   {
     "id": "the-soul-of-karl-friston-1",
@@ -733,7 +894,11 @@
     "wordCount": 5858,
     "readingTimeMinutes": 27,
     "originalUrl": "https://docs.google.com/document/d/1jYVJFIz5-aMi0LCgsC9AN6BncJDNVGaMU37QmwZ1vzA",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Science",
+      "Philosophy"
+    ]
   },
   {
     "id": "the-spreadsheet-humanitys-most-misunderstood-programming-language",
@@ -749,7 +914,10 @@
     "wordCount": 636,
     "readingTimeMinutes": 3,
     "originalUrl": "https://docs.google.com/document/d/1jYVJFIz5-aMi0LCgsC9AN6BncJDNVGaMU37QmwZ1vzA",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Technology"
+    ]
   },
   {
     "id": "the-sermon-on-the-mount",
@@ -765,7 +933,11 @@
     "wordCount": 5968,
     "readingTimeMinutes": 27,
     "originalUrl": "https://docs.google.com/document/d/1jYVJFIz5-aMi0LCgsC9AN6BncJDNVGaMU37QmwZ1vzA",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Religion",
+      "History"
+    ]
   },
   {
     "id": "the-soul-of-an-anti-woke-intellectual-jamie-q-roberts",
@@ -781,7 +953,11 @@
     "wordCount": 5515,
     "readingTimeMinutes": 25,
     "originalUrl": "https://docs.google.com/document/d/1jYVJFIz5-aMi0LCgsC9AN6BncJDNVGaMU37QmwZ1vzA",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Society",
+      "Philosophy"
+    ]
   },
   {
     "id": "the-men-are-not-alright",
@@ -797,7 +973,11 @@
     "wordCount": 15264,
     "readingTimeMinutes": 68,
     "originalUrl": "https://docs.google.com/document/d/1jYVJFIz5-aMi0LCgsC9AN6BncJDNVGaMU37QmwZ1vzA",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Society",
+      "Psychology"
+    ]
   },
   {
     "id": "the-pebble-jewel-of-the-1960-world-series",
@@ -813,7 +993,11 @@
     "wordCount": 2688,
     "readingTimeMinutes": 12,
     "originalUrl": "https://docs.google.com/document/d/1jYVJFIz5-aMi0LCgsC9AN6BncJDNVGaMU37QmwZ1vzA",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Fiction",
+      "History"
+    ]
   },
   {
     "id": "the-russo-ukrainian-war-a-firsthand-review",
@@ -829,7 +1013,12 @@
     "wordCount": 7350,
     "readingTimeMinutes": 33,
     "originalUrl": "https://docs.google.com/document/d/1jYVJFIz5-aMi0LCgsC9AN6BncJDNVGaMU37QmwZ1vzA",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "History",
+      "Politics",
+      "Memoir"
+    ]
   },
   {
     "id": "the-metaethics-of-joy-suffering-and-artificial-intelligence-with-brian-tomasik-and-david-pearce",
@@ -845,7 +1034,10 @@
     "wordCount": 5692,
     "readingTimeMinutes": 26,
     "originalUrl": "https://docs.google.com/document/d/1jYVJFIz5-aMi0LCgsC9AN6BncJDNVGaMU37QmwZ1vzA",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Philosophy"
+    ]
   },
   {
     "id": "the-origins-of-wokeness-by-paul-graham",
@@ -861,7 +1053,11 @@
     "wordCount": 5657,
     "readingTimeMinutes": 26,
     "originalUrl": "https://docs.google.com/document/d/1jYVJFIz5-aMi0LCgsC9AN6BncJDNVGaMU37QmwZ1vzA",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Society",
+      "Politics"
+    ]
   },
   {
     "id": "the-emperor-of-all-maladies",
@@ -877,7 +1073,12 @@
     "wordCount": 5898,
     "readingTimeMinutes": 27,
     "originalUrl": "https://docs.google.com/document/d/1jYVJFIz5-aMi0LCgsC9AN6BncJDNVGaMU37QmwZ1vzA",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Fiction",
+      "History",
+      "Science"
+    ]
   },
   {
     "id": "the-internet-that-might-have-been",
@@ -893,7 +1094,11 @@
     "wordCount": 7423,
     "readingTimeMinutes": 33,
     "originalUrl": "https://docs.google.com/document/d/1jYVJFIz5-aMi0LCgsC9AN6BncJDNVGaMU37QmwZ1vzA",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Technology",
+      "History"
+    ]
   },
   {
     "id": "the-lifes-work-of-banerjee-duflo-and-kremer",
@@ -909,7 +1114,10 @@
     "wordCount": 6329,
     "readingTimeMinutes": 29,
     "originalUrl": "https://docs.google.com/document/d/1jYVJFIz5-aMi0LCgsC9AN6BncJDNVGaMU37QmwZ1vzA",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Economics"
+    ]
   },
   {
     "id": "the-delusion-of-infinite-economic-growth",
@@ -925,7 +1133,11 @@
     "wordCount": 1962,
     "readingTimeMinutes": 9,
     "originalUrl": "https://docs.google.com/document/d/1jYVJFIz5-aMi0LCgsC9AN6BncJDNVGaMU37QmwZ1vzA",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Economics",
+      "Science"
+    ]
   },
   {
     "id": "the-drum-major-instinct",
@@ -941,7 +1153,11 @@
     "wordCount": 4515,
     "readingTimeMinutes": 21,
     "originalUrl": "https://docs.google.com/document/d/1jYVJFIz5-aMi0LCgsC9AN6BncJDNVGaMU37QmwZ1vzA",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Religion",
+      "History"
+    ]
   },
   {
     "id": "tenga-arte-drape",
@@ -957,7 +1173,10 @@
     "wordCount": 1073,
     "readingTimeMinutes": 5,
     "originalUrl": "https://docs.google.com/document/d/1jYVJFIz5-aMi0LCgsC9AN6BncJDNVGaMU37QmwZ1vzA",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Society"
+    ]
   },
   {
     "id": "testosterone",
@@ -973,7 +1192,11 @@
     "wordCount": 5388,
     "readingTimeMinutes": 24,
     "originalUrl": "https://docs.google.com/document/d/1jYVJFIz5-aMi0LCgsC9AN6BncJDNVGaMU37QmwZ1vzA",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Science",
+      "Biology"
+    ]
   },
   {
     "id": "state-of-competitive-debating-unions-address",
@@ -989,7 +1212,10 @@
     "wordCount": 4046,
     "readingTimeMinutes": 18,
     "originalUrl": "https://docs.google.com/document/d/1a3q0Z2tuPLLbDeg5-pfEffkajGjrfPDwE7ZMs7uaWQs",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Society"
+    ]
   },
   {
     "id": "synanthropes-love-thy-infestation",
@@ -1005,7 +1231,11 @@
     "wordCount": 2065,
     "readingTimeMinutes": 10,
     "originalUrl": "https://docs.google.com/document/d/1a3q0Z2tuPLLbDeg5-pfEffkajGjrfPDwE7ZMs7uaWQs",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Biology",
+      "Philosophy"
+    ]
   },
   {
     "id": "schools-a-review",
@@ -1021,7 +1251,10 @@
     "wordCount": 3212,
     "readingTimeMinutes": 15,
     "originalUrl": "https://docs.google.com/document/d/1a3q0Z2tuPLLbDeg5-pfEffkajGjrfPDwE7ZMs7uaWQs",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Society"
+    ]
   },
   {
     "id": "scientific-peer-review-umbilical-cord-or-corduroy-umbrella",
@@ -1037,7 +1270,10 @@
     "wordCount": 3357,
     "readingTimeMinutes": 15,
     "originalUrl": "https://docs.google.com/document/d/1a3q0Z2tuPLLbDeg5-pfEffkajGjrfPDwE7ZMs7uaWQs",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Science"
+    ]
   },
   {
     "id": "sheldon-browns-bicycle-technical-info",
@@ -1053,7 +1289,10 @@
     "wordCount": 1374,
     "readingTimeMinutes": 7,
     "originalUrl": "https://docs.google.com/document/d/1a3q0Z2tuPLLbDeg5-pfEffkajGjrfPDwE7ZMs7uaWQs",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Technology"
+    ]
   },
   {
     "id": "sign-tracking-sucks",
@@ -1069,7 +1308,11 @@
     "wordCount": 4335,
     "readingTimeMinutes": 20,
     "originalUrl": "https://docs.google.com/document/d/1a3q0Z2tuPLLbDeg5-pfEffkajGjrfPDwE7ZMs7uaWQs",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Psychology",
+      "Biology"
+    ]
   },
   {
     "id": "pregnancy-a-british-husbands-review",
@@ -1085,7 +1328,10 @@
     "wordCount": 3135,
     "readingTimeMinutes": 14,
     "originalUrl": "https://docs.google.com/document/d/1a3q0Z2tuPLLbDeg5-pfEffkajGjrfPDwE7ZMs7uaWQs",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Memoir"
+    ]
   },
   {
     "id": "pure-mathematics",
@@ -1101,7 +1347,11 @@
     "wordCount": 2402,
     "readingTimeMinutes": 11,
     "originalUrl": "https://docs.google.com/document/d/1a3q0Z2tuPLLbDeg5-pfEffkajGjrfPDwE7ZMs7uaWQs",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Science",
+      "Philosophy"
+    ]
   },
   {
     "id": "pythia",
@@ -1117,7 +1367,11 @@
     "wordCount": 1438,
     "readingTimeMinutes": 7,
     "originalUrl": "https://docs.google.com/document/d/1a3q0Z2tuPLLbDeg5-pfEffkajGjrfPDwE7ZMs7uaWQs",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Philosophy",
+      "Technology"
+    ]
   },
   {
     "id": "repairing-a-fatherdaughter-relationship-as-an-adult",
@@ -1133,7 +1387,11 @@
     "wordCount": 5147,
     "readingTimeMinutes": 23,
     "originalUrl": "https://docs.google.com/document/d/1a3q0Z2tuPLLbDeg5-pfEffkajGjrfPDwE7ZMs7uaWQs",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Memoir",
+      "Religion"
+    ]
   },
   {
     "id": "rubbermaid-products",
@@ -1149,7 +1407,10 @@
     "wordCount": 4990,
     "readingTimeMinutes": 23,
     "originalUrl": "https://docs.google.com/document/d/1a3q0Z2tuPLLbDeg5-pfEffkajGjrfPDwE7ZMs7uaWQs",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Society"
+    ]
   },
   {
     "id": "permaculture-rationalitys-long-lost-twin",
@@ -1165,7 +1426,11 @@
     "wordCount": 2383,
     "readingTimeMinutes": 11,
     "originalUrl": "https://docs.google.com/document/d/1a3q0Z2tuPLLbDeg5-pfEffkajGjrfPDwE7ZMs7uaWQs",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Society",
+      "Biology"
+    ]
   },
   {
     "id": "orgy-review-red-means-nohttpswwwredmeansnocom",
@@ -1181,7 +1446,10 @@
     "wordCount": 4220,
     "readingTimeMinutes": 19,
     "originalUrl": "https://docs.google.com/document/d/1a3q0Z2tuPLLbDeg5-pfEffkajGjrfPDwE7ZMs7uaWQs",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Society"
+    ]
   },
   {
     "id": "north-korea",
@@ -1197,7 +1465,11 @@
     "wordCount": 4438,
     "readingTimeMinutes": 20,
     "originalUrl": "https://docs.google.com/document/d/1a3q0Z2tuPLLbDeg5-pfEffkajGjrfPDwE7ZMs7uaWQs",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Politics",
+      "Memoir"
+    ]
   },
   {
     "id": "on-taste",
@@ -1213,7 +1485,10 @@
     "wordCount": 8474,
     "readingTimeMinutes": 38,
     "originalUrl": "https://docs.google.com/document/d/1a3q0Z2tuPLLbDeg5-pfEffkajGjrfPDwE7ZMs7uaWQs",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Philosophy"
+    ]
   },
   {
     "id": "museum-of-science-boston",
@@ -1229,7 +1504,10 @@
     "wordCount": 2007,
     "readingTimeMinutes": 9,
     "originalUrl": "https://docs.google.com/document/d/1a3q0Z2tuPLLbDeg5-pfEffkajGjrfPDwE7ZMs7uaWQs",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Memoir"
+    ]
   },
   {
     "id": "my-childhood-television-set",
@@ -1245,7 +1523,11 @@
     "wordCount": 1043,
     "readingTimeMinutes": 5,
     "originalUrl": "https://docs.google.com/document/d/1a3q0Z2tuPLLbDeg5-pfEffkajGjrfPDwE7ZMs7uaWQs",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Memoir",
+      "Technology"
+    ]
   },
   {
     "id": "my-imagination",
@@ -1261,7 +1543,11 @@
     "wordCount": 7547,
     "readingTimeMinutes": 34,
     "originalUrl": "https://docs.google.com/document/d/1a3q0Z2tuPLLbDeg5-pfEffkajGjrfPDwE7ZMs7uaWQs",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Memoir",
+      "Fiction"
+    ]
   },
   {
     "id": "nicotine-as-a-nootropic",
@@ -1277,7 +1563,10 @@
     "wordCount": 1496,
     "readingTimeMinutes": 7,
     "originalUrl": "https://docs.google.com/document/d/1a3q0Z2tuPLLbDeg5-pfEffkajGjrfPDwE7ZMs7uaWQs",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Science"
+    ]
   },
   {
     "id": "martial-arts-review-muay-thai-and-brazilian-jiu-jitsu",
@@ -1293,7 +1582,11 @@
     "wordCount": 5763,
     "readingTimeMinutes": 26,
     "originalUrl": "https://docs.google.com/document/d/1a3q0Z2tuPLLbDeg5-pfEffkajGjrfPDwE7ZMs7uaWQs",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "History",
+      "Society"
+    ]
   },
   {
     "id": "meditations-on-moloch",
@@ -1309,7 +1602,11 @@
     "wordCount": 4590,
     "readingTimeMinutes": 21,
     "originalUrl": "https://docs.google.com/document/d/1a3q0Z2tuPLLbDeg5-pfEffkajGjrfPDwE7ZMs7uaWQs",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Philosophy",
+      "Technology"
+    ]
   },
   {
     "id": "miniatur-wunderland-the-model-train-that-dreams-its-a-world",
@@ -1325,7 +1622,10 @@
     "wordCount": 6790,
     "readingTimeMinutes": 31,
     "originalUrl": "https://docs.google.com/document/d/1a3q0Z2tuPLLbDeg5-pfEffkajGjrfPDwE7ZMs7uaWQs",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Technology"
+    ]
   },
   {
     "id": "lesbian-fanfiction",
@@ -1341,7 +1641,11 @@
     "wordCount": 4111,
     "readingTimeMinutes": 19,
     "originalUrl": "https://docs.google.com/document/d/1a3q0Z2tuPLLbDeg5-pfEffkajGjrfPDwE7ZMs7uaWQs",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Society",
+      "Fiction"
+    ]
   },
   {
     "id": "love",
@@ -1357,7 +1661,10 @@
     "wordCount": 2707,
     "readingTimeMinutes": 13,
     "originalUrl": "https://docs.google.com/document/d/1a3q0Z2tuPLLbDeg5-pfEffkajGjrfPDwE7ZMs7uaWQs",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Memoir"
+    ]
   },
   {
     "id": "lublin-castle",
@@ -1373,7 +1680,11 @@
     "wordCount": 3991,
     "readingTimeMinutes": 18,
     "originalUrl": "https://docs.google.com/document/d/1a3q0Z2tuPLLbDeg5-pfEffkajGjrfPDwE7ZMs7uaWQs",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "History",
+      "Religion"
+    ]
   },
   {
     "id": "mad-investors-chaos-and-the-woman-of-asmodeus",
@@ -1389,7 +1700,11 @@
     "wordCount": 5831,
     "readingTimeMinutes": 26,
     "originalUrl": "https://docs.google.com/document/d/1a3q0Z2tuPLLbDeg5-pfEffkajGjrfPDwE7ZMs7uaWQs",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Fiction",
+      "Philosophy"
+    ]
   },
   {
     "id": "marriage",
@@ -1405,7 +1720,11 @@
     "wordCount": 1015,
     "readingTimeMinutes": 5,
     "originalUrl": "https://docs.google.com/document/d/1a3q0Z2tuPLLbDeg5-pfEffkajGjrfPDwE7ZMs7uaWQs",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Society",
+      "Memoir"
+    ]
   },
   {
     "id": "judaism",
@@ -1421,7 +1740,12 @@
     "wordCount": 3981,
     "readingTimeMinutes": 18,
     "originalUrl": "https://docs.google.com/document/d/1a3q0Z2tuPLLbDeg5-pfEffkajGjrfPDwE7ZMs7uaWQs",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Religion",
+      "History",
+      "Society"
+    ]
   },
   {
     "id": "lambroisie-by-bernard-pacaud",
@@ -1437,7 +1761,10 @@
     "wordCount": 5768,
     "readingTimeMinutes": 26,
     "originalUrl": "https://docs.google.com/document/d/1a3q0Z2tuPLLbDeg5-pfEffkajGjrfPDwE7ZMs7uaWQs",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Memoir"
+    ]
   },
   {
     "id": "jfk-assassination-conspiracy-theories",
@@ -1453,7 +1780,11 @@
     "wordCount": 8038,
     "readingTimeMinutes": 36,
     "originalUrl": "https://docs.google.com/document/d/1a3q0Z2tuPLLbDeg5-pfEffkajGjrfPDwE7ZMs7uaWQs",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "History",
+      "Politics"
+    ]
   },
   {
     "id": "jacobitism-the-first-four-thousand-years",
@@ -1469,7 +1800,11 @@
     "wordCount": 3367,
     "readingTimeMinutes": 15,
     "originalUrl": "https://docs.google.com/document/d/1a3q0Z2tuPLLbDeg5-pfEffkajGjrfPDwE7ZMs7uaWQs",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "History",
+      "Politics"
+    ]
   },
   {
     "id": "identity",
@@ -1485,7 +1820,11 @@
     "wordCount": 2827,
     "readingTimeMinutes": 13,
     "originalUrl": "https://docs.google.com/document/d/1d0vRSj1E93joWWvbUen2XGuDjN_mM94ybMIAADzM2fo",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Philosophy",
+      "Psychology"
+    ]
   },
   {
     "id": "human-sexuality-reviewed",
@@ -1501,7 +1840,11 @@
     "wordCount": 6636,
     "readingTimeMinutes": 30,
     "originalUrl": "https://docs.google.com/document/d/1d0vRSj1E93joWWvbUen2XGuDjN_mM94ybMIAADzM2fo",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Biology",
+      "Psychology"
+    ]
   },
   {
     "id": "gender",
@@ -1517,7 +1860,11 @@
     "wordCount": 5985,
     "readingTimeMinutes": 27,
     "originalUrl": "https://docs.google.com/document/d/1d0vRSj1E93joWWvbUen2XGuDjN_mM94ybMIAADzM2fo",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Society",
+      "Psychology"
+    ]
   },
   {
     "id": "googles-hiring-process-a-review",
@@ -1533,7 +1880,10 @@
     "wordCount": 2815,
     "readingTimeMinutes": 13,
     "originalUrl": "https://docs.google.com/document/d/1d0vRSj1E93joWWvbUen2XGuDjN_mM94ybMIAADzM2fo",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Technology"
+    ]
   },
   {
     "id": "feminism",
@@ -1549,7 +1899,11 @@
     "wordCount": 7452,
     "readingTimeMinutes": 34,
     "originalUrl": "https://docs.google.com/document/d/1d0vRSj1E93joWWvbUen2XGuDjN_mM94ybMIAADzM2fo",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Society",
+      "Politics"
+    ]
   },
   {
     "id": "freedom-of-speech",
@@ -1565,7 +1919,11 @@
     "wordCount": 6888,
     "readingTimeMinutes": 31,
     "originalUrl": "https://docs.google.com/document/d/1d0vRSj1E93joWWvbUen2XGuDjN_mM94ybMIAADzM2fo",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Philosophy",
+      "Politics"
+    ]
   },
   {
     "id": "from-the-control-problem-to-rlhf-some-dangers-of-misaligned-alignment-research",
@@ -1581,7 +1939,11 @@
     "wordCount": 4992,
     "readingTimeMinutes": 23,
     "originalUrl": "https://docs.google.com/document/d/1d0vRSj1E93joWWvbUen2XGuDjN_mM94ybMIAADzM2fo",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Technology",
+      "Philosophy"
+    ]
   },
   {
     "id": "deja-vu",
@@ -1597,7 +1959,11 @@
     "wordCount": 2478,
     "readingTimeMinutes": 12,
     "originalUrl": "https://docs.google.com/document/d/1d0vRSj1E93joWWvbUen2XGuDjN_mM94ybMIAADzM2fo",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Science",
+      "Psychology"
+    ]
   },
   {
     "id": "earth-in-review-a-beautiful-frustrating-waste-of-time",
@@ -1613,7 +1979,11 @@
     "wordCount": 1661,
     "readingTimeMinutes": 8,
     "originalUrl": "https://docs.google.com/document/d/1d0vRSj1E93joWWvbUen2XGuDjN_mM94ybMIAADzM2fo",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Fiction",
+      "Philosophy"
+    ]
   },
   {
     "id": "effective-altruism-rationalism",
@@ -1629,7 +1999,11 @@
     "wordCount": 4191,
     "readingTimeMinutes": 19,
     "originalUrl": "https://docs.google.com/document/d/1d0vRSj1E93joWWvbUen2XGuDjN_mM94ybMIAADzM2fo",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Philosophy",
+      "Politics"
+    ]
   },
   {
     "id": "einsteins-world-view-review",
@@ -1645,7 +2019,11 @@
     "wordCount": 3861,
     "readingTimeMinutes": 18,
     "originalUrl": "https://docs.google.com/document/d/1d0vRSj1E93joWWvbUen2XGuDjN_mM94ybMIAADzM2fo",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Philosophy",
+      "Politics"
+    ]
   },
   {
     "id": "elon-musks-engineering-algorithm",
@@ -1661,7 +2039,11 @@
     "wordCount": 4565,
     "readingTimeMinutes": 21,
     "originalUrl": "https://docs.google.com/document/d/1d0vRSj1E93joWWvbUen2XGuDjN_mM94ybMIAADzM2fo",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Technology",
+      "Memoir"
+    ]
   },
   {
     "id": "dall-e-2-and-3-as-depicters-of-human-life",
@@ -1677,7 +2059,11 @@
     "wordCount": 4136,
     "readingTimeMinutes": 19,
     "originalUrl": "https://docs.google.com/document/d/1d0vRSj1E93joWWvbUen2XGuDjN_mM94ybMIAADzM2fo",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Technology",
+      "Philosophy"
+    ]
   },
   {
     "id": "dating-apps-the-misery-engine",
@@ -1693,7 +2079,11 @@
     "wordCount": 6539,
     "readingTimeMinutes": 30,
     "originalUrl": "https://docs.google.com/document/d/1d0vRSj1E93joWWvbUen2XGuDjN_mM94ybMIAADzM2fo",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Society",
+      "Technology"
+    ]
   },
   {
     "id": "death-review-the-lives-deaths-legacies-of-mata-hari-princess-diana-joan-of-arc",
@@ -1709,7 +2099,11 @@
     "wordCount": 9346,
     "readingTimeMinutes": 42,
     "originalUrl": "https://docs.google.com/document/d/1d0vRSj1E93joWWvbUen2XGuDjN_mM94ybMIAADzM2fo",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "History",
+      "Philosophy"
+    ]
   },
   {
     "id": "bishops-castle-a-roadside-attraction",
@@ -1725,7 +2119,11 @@
     "wordCount": 6582,
     "readingTimeMinutes": 30,
     "originalUrl": "https://docs.google.com/document/d/1d0vRSj1E93joWWvbUen2XGuDjN_mM94ybMIAADzM2fo",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Society",
+      "Memoir"
+    ]
   },
   {
     "id": "bite-me-a-review-of-teeth-as-evolutions-leftovers-and-modern-shame",
@@ -1741,7 +2139,11 @@
     "wordCount": 2524,
     "readingTimeMinutes": 12,
     "originalUrl": "https://docs.google.com/document/d/1d0vRSj1E93joWWvbUen2XGuDjN_mM94ybMIAADzM2fo",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Biology",
+      "Society"
+    ]
   },
   {
     "id": "contrasting-reviews-of-nine-countries",
@@ -1757,7 +2159,11 @@
     "wordCount": 8489,
     "readingTimeMinutes": 38,
     "originalUrl": "https://docs.google.com/document/d/1d0vRSj1E93joWWvbUen2XGuDjN_mM94ybMIAADzM2fo",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Society",
+      "Memoir"
+    ]
   },
   {
     "id": "arbitraging-several-dozen-online-casinos",
@@ -1773,7 +2179,10 @@
     "wordCount": 4715,
     "readingTimeMinutes": 21,
     "originalUrl": "https://docs.google.com/document/d/1d0vRSj1E93joWWvbUen2XGuDjN_mM94ybMIAADzM2fo",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Economics"
+    ]
   },
   {
     "id": "as-little-as-possible-slave-morality-in-chinatown-and-spec-ops-the-line",
@@ -1789,7 +2198,11 @@
     "wordCount": 8092,
     "readingTimeMinutes": 36,
     "originalUrl": "https://docs.google.com/document/d/1d0vRSj1E93joWWvbUen2XGuDjN_mM94ybMIAADzM2fo",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Philosophy",
+      "Fiction"
+    ]
   },
   {
     "id": "bukele",
@@ -1805,7 +2218,11 @@
     "wordCount": 6358,
     "readingTimeMinutes": 29,
     "originalUrl": "https://docs.google.com/document/d/1d0vRSj1E93joWWvbUen2XGuDjN_mM94ybMIAADzM2fo",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Politics",
+      "History"
+    ]
   },
   {
     "id": "airships-a-techtree-branch-we-let-wither",
@@ -1821,7 +2238,11 @@
     "wordCount": 2268,
     "readingTimeMinutes": 11,
     "originalUrl": "https://docs.google.com/document/d/1d0vRSj1E93joWWvbUen2XGuDjN_mM94ybMIAADzM2fo",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Technology",
+      "History"
+    ]
   },
   {
     "id": "an-american-football-game",
@@ -1837,7 +2258,11 @@
     "wordCount": 1123,
     "readingTimeMinutes": 5,
     "originalUrl": "https://docs.google.com/document/d/1d0vRSj1E93joWWvbUen2XGuDjN_mM94ybMIAADzM2fo",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Society",
+      "Memoir"
+    ]
   },
   {
     "id": "11-poetic-forms-reviewed-in-verse",
@@ -1853,7 +2278,10 @@
     "wordCount": 826,
     "readingTimeMinutes": 4,
     "originalUrl": "https://docs.google.com/document/d/1d0vRSj1E93joWWvbUen2XGuDjN_mM94ybMIAADzM2fo",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Fiction"
+    ]
   },
   {
     "id": "a-new-theodicy-for-high-school-math",
@@ -1869,7 +2297,10 @@
     "wordCount": 1353,
     "readingTimeMinutes": 7,
     "originalUrl": "https://docs.google.com/document/d/1d0vRSj1E93joWWvbUen2XGuDjN_mM94ybMIAADzM2fo",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Philosophy"
+    ]
   },
   {
     "id": "a-review-of-the-proposition-the-goat-is-humanitys-best-tutor",
@@ -1885,7 +2316,11 @@
     "wordCount": 4758,
     "readingTimeMinutes": 22,
     "originalUrl": "https://docs.google.com/document/d/1d0vRSj1E93joWWvbUen2XGuDjN_mM94ybMIAADzM2fo",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "History",
+      "Religion"
+    ]
   },
   {
     "id": "adult-gymnastics-how-falling-on-your-butt-repeatedly-makes-everything-else-in-life-easier",
@@ -1901,7 +2336,10 @@
     "wordCount": 2538,
     "readingTimeMinutes": 12,
     "originalUrl": "https://docs.google.com/document/d/1d0vRSj1E93joWWvbUen2XGuDjN_mM94ybMIAADzM2fo",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Memoir"
+    ]
   },
   {
     "id": "0th-dimension-infinite-theory",
@@ -1917,7 +2355,10 @@
     "wordCount": 4215,
     "readingTimeMinutes": 19,
     "originalUrl": "https://docs.google.com/document/d/1d0vRSj1E93joWWvbUen2XGuDjN_mM94ybMIAADzM2fo",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Philosophy"
+    ]
   },
   {
     "id": "young-adults-by-daniel-m-pinkwater",
@@ -1933,7 +2374,10 @@
     "wordCount": 11524,
     "readingTimeMinutes": 52,
     "originalUrl": "https://docs.google.com/document/d/1Ki5XsE0jkxZtd2XAeyTAJw1ZjLh2Cu-matUYKAhA6-s",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Fiction"
+    ]
   },
   {
     "id": "world-empire-lost",
@@ -1949,7 +2393,10 @@
     "wordCount": 12616,
     "readingTimeMinutes": 57,
     "originalUrl": "https://docs.google.com/document/d/1Ki5XsE0jkxZtd2XAeyTAJw1ZjLh2Cu-matUYKAhA6-s",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "History"
+    ]
   },
   {
     "id": "even-if-you-know-nothing-else-about-winnie-the-pooh",
@@ -1965,7 +2412,10 @@
     "wordCount": 4658,
     "readingTimeMinutes": 21,
     "originalUrl": "https://docs.google.com/document/d/1Ki5XsE0jkxZtd2XAeyTAJw1ZjLh2Cu-matUYKAhA6-s",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Fiction"
+    ]
   },
   {
     "id": "why-fish-dont-exist",
@@ -1981,7 +2431,11 @@
     "wordCount": 7091,
     "readingTimeMinutes": 32,
     "originalUrl": "https://docs.google.com/document/d/1Ki5XsE0jkxZtd2XAeyTAJw1ZjLh2Cu-matUYKAhA6-s",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Biology",
+      "Science"
+    ]
   },
   {
     "id": "wonderful-life-the-burgess-shale-and-the-nature-of-historyby-stephen-jay-gould",
@@ -1997,7 +2451,11 @@
     "wordCount": 3853,
     "readingTimeMinutes": 18,
     "originalUrl": "https://docs.google.com/document/d/1Ki5XsE0jkxZtd2XAeyTAJw1ZjLh2Cu-matUYKAhA6-s",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Biology",
+      "Science"
+    ]
   },
   {
     "id": "who-we-are-and-how-we-got-here-by-david-reich",
@@ -2013,7 +2471,11 @@
     "wordCount": 7201,
     "readingTimeMinutes": 33,
     "originalUrl": "https://docs.google.com/document/d/1Ki5XsE0jkxZtd2XAeyTAJw1ZjLh2Cu-matUYKAhA6-s",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Biology",
+      "History"
+    ]
   },
   {
     "id": "war-and-peace-by-leo-tolstoy",
@@ -2029,7 +2491,11 @@
     "wordCount": 4388,
     "readingTimeMinutes": 20,
     "originalUrl": "https://docs.google.com/document/d/1Ki5XsE0jkxZtd2XAeyTAJw1ZjLh2Cu-matUYKAhA6-s",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Fiction",
+      "History"
+    ]
   },
   {
     "id": "warriors-woman-by-johanna-lindsey",
@@ -2045,7 +2511,10 @@
     "wordCount": 2174,
     "readingTimeMinutes": 10,
     "originalUrl": "https://docs.google.com/document/d/1Ki5XsE0jkxZtd2XAeyTAJw1ZjLh2Cu-matUYKAhA6-s",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Fiction"
+    ]
   },
   {
     "id": "what-even-is-gender",
@@ -2061,7 +2530,11 @@
     "wordCount": 3689,
     "readingTimeMinutes": 17,
     "originalUrl": "https://docs.google.com/document/d/1Ki5XsE0jkxZtd2XAeyTAJw1ZjLh2Cu-matUYKAhA6-s",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Society",
+      "Philosophy"
+    ]
   },
   {
     "id": "when-we-cease-to-understand-the-world",
@@ -2077,7 +2550,11 @@
     "wordCount": 2511,
     "readingTimeMinutes": 12,
     "originalUrl": "https://docs.google.com/document/d/1Ki5XsE0jkxZtd2XAeyTAJw1ZjLh2Cu-matUYKAhA6-s",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Fiction",
+      "Science"
+    ]
   },
   {
     "id": "three-days-in-dwarfland-and-sequels",
@@ -2093,7 +2570,11 @@
     "wordCount": 2445,
     "readingTimeMinutes": 11,
     "originalUrl": "https://docs.google.com/document/d/1Ki5XsE0jkxZtd2XAeyTAJw1ZjLh2Cu-matUYKAhA6-s",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Fiction",
+      "History"
+    ]
   },
   {
     "id": "time-loops-by-eric-wargo",
@@ -2109,7 +2590,11 @@
     "wordCount": 3396,
     "readingTimeMinutes": 16,
     "originalUrl": "https://docs.google.com/document/d/1Ki5XsE0jkxZtd2XAeyTAJw1ZjLh2Cu-matUYKAhA6-s",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Science",
+      "Philosophy"
+    ]
   },
   {
     "id": "two-arms-and-a-head",
@@ -2125,7 +2610,11 @@
     "wordCount": 9017,
     "readingTimeMinutes": 41,
     "originalUrl": "https://docs.google.com/document/d/1Ki5XsE0jkxZtd2XAeyTAJw1ZjLh2Cu-matUYKAhA6-s",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Memoir",
+      "Psychology"
+    ]
   },
   {
     "id": "the-unconsoled-bykazuo-ishiguro",
@@ -2141,7 +2630,10 @@
     "wordCount": 3391,
     "readingTimeMinutes": 16,
     "originalUrl": "https://docs.google.com/document/d/1Ki5XsE0jkxZtd2XAeyTAJw1ZjLh2Cu-matUYKAhA6-s",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Fiction"
+    ]
   },
   {
     "id": "the-untethered-soul-the-journey-beyond-yourself",
@@ -2157,7 +2649,11 @@
     "wordCount": 1694,
     "readingTimeMinutes": 8,
     "originalUrl": "https://docs.google.com/document/d/1Ki5XsE0jkxZtd2XAeyTAJw1ZjLh2Cu-matUYKAhA6-s",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Philosophy",
+      "Psychology"
+    ]
   },
   {
     "id": "the-vegetarian",
@@ -2173,7 +2669,10 @@
     "wordCount": 1619,
     "readingTimeMinutes": 8,
     "originalUrl": "https://docs.google.com/document/d/1Ki5XsE0jkxZtd2XAeyTAJw1ZjLh2Cu-matUYKAhA6-s",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Fiction"
+    ]
   },
   {
     "id": "the-wages-of-destruction-the-making-and-breaking-of-the-nazi-economy",
@@ -2189,7 +2688,11 @@
     "wordCount": 4833,
     "readingTimeMinutes": 22,
     "originalUrl": "https://docs.google.com/document/d/1Ki5XsE0jkxZtd2XAeyTAJw1ZjLh2Cu-matUYKAhA6-s",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "History",
+      "Economics"
+    ]
   },
   {
     "id": "the-wheel-of-time",
@@ -2205,7 +2708,10 @@
     "wordCount": 3623,
     "readingTimeMinutes": 17,
     "originalUrl": "https://docs.google.com/document/d/1Ki5XsE0jkxZtd2XAeyTAJw1ZjLh2Cu-matUYKAhA6-s",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Fiction"
+    ]
   },
   {
     "id": "the-zoologists-guide-to-the-galaxy-by-arik-kershenbaum",
@@ -2221,7 +2727,11 @@
     "wordCount": 2147,
     "readingTimeMinutes": 10,
     "originalUrl": "https://docs.google.com/document/d/1Ki5XsE0jkxZtd2XAeyTAJw1ZjLh2Cu-matUYKAhA6-s",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Biology",
+      "Science"
+    ]
   },
   {
     "id": "the-sunset-limited",
@@ -2237,7 +2747,11 @@
     "wordCount": 6017,
     "readingTimeMinutes": 27,
     "originalUrl": "https://docs.google.com/document/d/1Ki5XsE0jkxZtd2XAeyTAJw1ZjLh2Cu-matUYKAhA6-s",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Fiction",
+      "Philosophy"
+    ]
   },
   {
     "id": "the-treuhand",
@@ -2253,7 +2767,12 @@
     "wordCount": 5950,
     "readingTimeMinutes": 27,
     "originalUrl": "https://docs.google.com/document/d/1Ki5XsE0jkxZtd2XAeyTAJw1ZjLh2Cu-matUYKAhA6-s",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Economics",
+      "History",
+      "Politics"
+    ]
   },
   {
     "id": "the-trial-by-franz-kafka",
@@ -2269,7 +2788,11 @@
     "wordCount": 4156,
     "readingTimeMinutes": 19,
     "originalUrl": "https://docs.google.com/document/d/1Ki5XsE0jkxZtd2XAeyTAJw1ZjLh2Cu-matUYKAhA6-s",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Fiction",
+      "Philosophy"
+    ]
   },
   {
     "id": "the-signal-and-the-noise-by-nate-silver",
@@ -2285,7 +2808,11 @@
     "wordCount": 7376,
     "readingTimeMinutes": 33,
     "originalUrl": "https://docs.google.com/document/d/1Ki5XsE0jkxZtd2XAeyTAJw1ZjLh2Cu-matUYKAhA6-s",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Science",
+      "Technology"
+    ]
   },
   {
     "id": "the-sixth-day-and-other-tales",
@@ -2301,7 +2828,11 @@
     "wordCount": 2341,
     "readingTimeMinutes": 11,
     "originalUrl": "https://docs.google.com/document/d/1Ki5XsE0jkxZtd2XAeyTAJw1ZjLh2Cu-matUYKAhA6-s",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Fiction",
+      "Memoir"
+    ]
   },
   {
     "id": "the-story-of-ferdinand-by-munro-leaf",
@@ -2317,7 +2848,11 @@
     "wordCount": 2531,
     "readingTimeMinutes": 12,
     "originalUrl": "https://docs.google.com/document/d/1Ki5XsE0jkxZtd2XAeyTAJw1ZjLh2Cu-matUYKAhA6-s",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Fiction",
+      "Society"
+    ]
   },
   {
     "id": "the-structure-of-scientific-revolutions-by-thomas-kuhn",
@@ -2333,7 +2868,11 @@
     "wordCount": 8097,
     "readingTimeMinutes": 36,
     "originalUrl": "https://docs.google.com/document/d/1Ki5XsE0jkxZtd2XAeyTAJw1ZjLh2Cu-matUYKAhA6-s",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Science",
+      "Philosophy"
+    ]
   },
   {
     "id": "the-pattern-seekers-how-autism-drives-human-invention-by-simon-baron-cohen",
@@ -2349,7 +2888,11 @@
     "wordCount": 5009,
     "readingTimeMinutes": 23,
     "originalUrl": "https://docs.google.com/document/d/1Ki5XsE0jkxZtd2XAeyTAJw1ZjLh2Cu-matUYKAhA6-s",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Psychology",
+      "Science"
+    ]
   },
   {
     "id": "the-picture-of-dorian-gray-by-oscar-wilde",
@@ -2365,7 +2908,10 @@
     "wordCount": 1202,
     "readingTimeMinutes": 6,
     "originalUrl": "https://docs.google.com/document/d/1Ki5XsE0jkxZtd2XAeyTAJw1ZjLh2Cu-matUYKAhA6-s",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Fiction"
+    ]
   },
   {
     "id": "the-remains-of-the-day-by-kazuo-ishiguro",
@@ -2381,7 +2927,10 @@
     "wordCount": 419,
     "readingTimeMinutes": 2,
     "originalUrl": "https://docs.google.com/document/d/1Ki5XsE0jkxZtd2XAeyTAJw1ZjLh2Cu-matUYKAhA6-s",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Fiction"
+    ]
   },
   {
     "id": "the-revelations",
@@ -2397,7 +2946,11 @@
     "wordCount": 3850,
     "readingTimeMinutes": 18,
     "originalUrl": "https://docs.google.com/document/d/1Ki5XsE0jkxZtd2XAeyTAJw1ZjLh2Cu-matUYKAhA6-s",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Fiction",
+      "Science"
+    ]
   },
   {
     "id": "the-old-testament",
@@ -2413,7 +2966,10 @@
     "wordCount": 11045,
     "readingTimeMinutes": 50,
     "originalUrl": "https://docs.google.com/document/d/1Ki5XsE0jkxZtd2XAeyTAJw1ZjLh2Cu-matUYKAhA6-s",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Religion"
+    ]
   },
   {
     "id": "the-oldest-documents-of-the-human-race-by-johann-gottfried-herder",
@@ -2429,7 +2985,11 @@
     "wordCount": 6804,
     "readingTimeMinutes": 31,
     "originalUrl": "https://docs.google.com/document/d/1Ki5XsE0jkxZtd2XAeyTAJw1ZjLh2Cu-matUYKAhA6-s",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "History",
+      "Religion"
+    ]
   },
   {
     "id": "the-pale-king-by-david-foster-wallace",
@@ -2445,7 +3005,10 @@
     "wordCount": 6395,
     "readingTimeMinutes": 29,
     "originalUrl": "https://docs.google.com/document/d/1Ki5XsE0jkxZtd2XAeyTAJw1ZjLh2Cu-matUYKAhA6-s",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Fiction"
+    ]
   },
   {
     "id": "win-bigly-persuasion-in-a-world-where-facts-dont-matter",
@@ -2461,7 +3024,11 @@
     "wordCount": 13309,
     "readingTimeMinutes": 60,
     "originalUrl": "https://docs.google.com/document/d/14qa47TJ_Vyerx4XNgTCIh7PUZ_TOgNcU_eHm5So_zo0",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Politics",
+      "Psychology"
+    ]
   },
   {
     "id": "the-metaphysical-club-a-story-of-ideas-in-america-by-louis-menand",
@@ -2477,7 +3044,11 @@
     "wordCount": 12198,
     "readingTimeMinutes": 55,
     "originalUrl": "https://docs.google.com/document/d/14qa47TJ_Vyerx4XNgTCIh7PUZ_TOgNcU_eHm5So_zo0",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Philosophy",
+      "History"
+    ]
   },
   {
     "id": "the-mezzanine-and-the-size-of-thoughts-by-nicholson-baker",
@@ -2493,7 +3064,11 @@
     "wordCount": 2613,
     "readingTimeMinutes": 12,
     "originalUrl": "https://docs.google.com/document/d/14qa47TJ_Vyerx4XNgTCIh7PUZ_TOgNcU_eHm5So_zo0",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Fiction",
+      "Philosophy"
+    ]
   },
   {
     "id": "the-metamorphosis-by-frank-kafka",
@@ -2509,7 +3084,10 @@
     "wordCount": 997,
     "readingTimeMinutes": 5,
     "originalUrl": "https://docs.google.com/document/d/14qa47TJ_Vyerx4XNgTCIh7PUZ_TOgNcU_eHm5So_zo0",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Fiction"
+    ]
   },
   {
     "id": "the-many-worlds-of-hugh-everett-by-peter-byrne",
@@ -2525,7 +3103,11 @@
     "wordCount": 2184,
     "readingTimeMinutes": 10,
     "originalUrl": "https://docs.google.com/document/d/14qa47TJ_Vyerx4XNgTCIh7PUZ_TOgNcU_eHm5So_zo0",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Science",
+      "Memoir"
+    ]
   },
   {
     "id": "the-master-and-margarita",
@@ -2541,7 +3123,11 @@
     "wordCount": 2554,
     "readingTimeMinutes": 12,
     "originalUrl": "https://docs.google.com/document/d/14qa47TJ_Vyerx4XNgTCIh7PUZ_TOgNcU_eHm5So_zo0",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Fiction",
+      "Politics"
+    ]
   },
   {
     "id": "the-meme-machine",
@@ -2557,7 +3143,11 @@
     "wordCount": 13783,
     "readingTimeMinutes": 62,
     "originalUrl": "https://docs.google.com/document/d/14qa47TJ_Vyerx4XNgTCIh7PUZ_TOgNcU_eHm5So_zo0",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Science",
+      "Society"
+    ]
   },
   {
     "id": "the-iliad-by-homer",
@@ -2573,7 +3163,11 @@
     "wordCount": 3605,
     "readingTimeMinutes": 17,
     "originalUrl": "https://docs.google.com/document/d/14qa47TJ_Vyerx4XNgTCIh7PUZ_TOgNcU_eHm5So_zo0",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Fiction",
+      "History"
+    ]
   },
   {
     "id": "the-lady-of-shalott",
@@ -2589,7 +3183,10 @@
     "wordCount": 903,
     "readingTimeMinutes": 5,
     "originalUrl": "https://docs.google.com/document/d/14qa47TJ_Vyerx4XNgTCIh7PUZ_TOgNcU_eHm5So_zo0",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Fiction"
+    ]
   },
   {
     "id": "the-land-of-milk-honey-by-c-pam-zhang",
@@ -2605,7 +3202,10 @@
     "wordCount": 2318,
     "readingTimeMinutes": 11,
     "originalUrl": "https://docs.google.com/document/d/14qa47TJ_Vyerx4XNgTCIh7PUZ_TOgNcU_eHm5So_zo0",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Fiction"
+    ]
   },
   {
     "id": "the-language-puzzle",
@@ -2621,7 +3221,11 @@
     "wordCount": 3914,
     "readingTimeMinutes": 18,
     "originalUrl": "https://docs.google.com/document/d/14qa47TJ_Vyerx4XNgTCIh7PUZ_TOgNcU_eHm5So_zo0",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Science",
+      "Biology"
+    ]
   },
   {
     "id": "the-leopard-by-giuseppe-tomasi-di-lampedusa",
@@ -2637,7 +3241,11 @@
     "wordCount": 5807,
     "readingTimeMinutes": 26,
     "originalUrl": "https://docs.google.com/document/d/14qa47TJ_Vyerx4XNgTCIh7PUZ_TOgNcU_eHm5So_zo0",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Fiction",
+      "History"
+    ]
   },
   {
     "id": "the-globe-how-the-earth-became-round-by-james-hannam",
@@ -2653,7 +3261,11 @@
     "wordCount": 2786,
     "readingTimeMinutes": 13,
     "originalUrl": "https://docs.google.com/document/d/14qa47TJ_Vyerx4XNgTCIh7PUZ_TOgNcU_eHm5So_zo0",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "History",
+      "Science"
+    ]
   },
   {
     "id": "the-hebrew-bible",
@@ -2669,7 +3281,10 @@
     "wordCount": 7131,
     "readingTimeMinutes": 32,
     "originalUrl": "https://docs.google.com/document/d/14qa47TJ_Vyerx4XNgTCIh7PUZ_TOgNcU_eHm5So_zo0",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Religion"
+    ]
   },
   {
     "id": "the-history-of-the-rise-and-influence-of-the-spirit-of-rationalism-in-europe",
@@ -2685,7 +3300,11 @@
     "wordCount": 1995,
     "readingTimeMinutes": 9,
     "originalUrl": "https://docs.google.com/document/d/14qa47TJ_Vyerx4XNgTCIh7PUZ_TOgNcU_eHm5So_zo0",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "History",
+      "Philosophy"
+    ]
   },
   {
     "id": "the-hunt-for-red-october-is-tom-clancy",
@@ -2701,7 +3320,11 @@
     "wordCount": 4435,
     "readingTimeMinutes": 20,
     "originalUrl": "https://docs.google.com/document/d/14qa47TJ_Vyerx4XNgTCIh7PUZ_TOgNcU_eHm5So_zo0",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Fiction",
+      "History"
+    ]
   },
   {
     "id": "the-family-that-couldnt-sleep-by-d-t-max",
@@ -2717,7 +3340,11 @@
     "wordCount": 9677,
     "readingTimeMinutes": 44,
     "originalUrl": "https://docs.google.com/document/d/14qa47TJ_Vyerx4XNgTCIh7PUZ_TOgNcU_eHm5So_zo0",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Science",
+      "Biology"
+    ]
   },
   {
     "id": "the-four-hour-workweek",
@@ -2733,7 +3360,11 @@
     "wordCount": 4409,
     "readingTimeMinutes": 20,
     "originalUrl": "https://docs.google.com/document/d/14qa47TJ_Vyerx4XNgTCIh7PUZ_TOgNcU_eHm5So_zo0",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Economics",
+      "Society"
+    ]
   },
   {
     "id": "the-genesis-machine-by-amy-webb-and-andrew-hessel",
@@ -2749,7 +3380,11 @@
     "wordCount": 2123,
     "readingTimeMinutes": 10,
     "originalUrl": "https://docs.google.com/document/d/14qa47TJ_Vyerx4XNgTCIh7PUZ_TOgNcU_eHm5So_zo0",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Technology",
+      "Biology"
+    ]
   },
   {
     "id": "the-divine-comedy-by-dante-alighieri",
@@ -2765,7 +3400,11 @@
     "wordCount": 14996,
     "readingTimeMinutes": 67,
     "originalUrl": "https://docs.google.com/document/d/14qa47TJ_Vyerx4XNgTCIh7PUZ_TOgNcU_eHm5So_zo0",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Fiction",
+      "Religion"
+    ]
   },
   {
     "id": "the-emperor-of-all-maladies",
@@ -2781,7 +3420,12 @@
     "wordCount": 5904,
     "readingTimeMinutes": 27,
     "originalUrl": "https://docs.google.com/document/d/14qa47TJ_Vyerx4XNgTCIh7PUZ_TOgNcU_eHm5So_zo0",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Fiction",
+      "History",
+      "Science"
+    ]
   },
   {
     "id": "the-eternaut-by-hctor-germn-oesterheld",
@@ -2797,7 +3441,11 @@
     "wordCount": 3460,
     "readingTimeMinutes": 16,
     "originalUrl": "https://docs.google.com/document/d/14qa47TJ_Vyerx4XNgTCIh7PUZ_TOgNcU_eHm5So_zo0",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Fiction",
+      "History"
+    ]
   },
   {
     "id": "the-ethics-of-ambiguity-by-simone-de-beauvoir",
@@ -2813,7 +3461,10 @@
     "wordCount": 2554,
     "readingTimeMinutes": 12,
     "originalUrl": "https://docs.google.com/document/d/14qa47TJ_Vyerx4XNgTCIh7PUZ_TOgNcU_eHm5So_zo0",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Philosophy"
+    ]
   },
   {
     "id": "the-case-against-reality-by-donald-hoffman",
@@ -2829,7 +3480,11 @@
     "wordCount": 1792,
     "readingTimeMinutes": 8,
     "originalUrl": "https://docs.google.com/document/d/14qa47TJ_Vyerx4XNgTCIh7PUZ_TOgNcU_eHm5So_zo0",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Philosophy",
+      "Science"
+    ]
   },
   {
     "id": "the-complete-rhyming-dictionary-and-poets-craft-book-1936-edition",
@@ -2845,7 +3500,11 @@
     "wordCount": 3906,
     "readingTimeMinutes": 18,
     "originalUrl": "https://docs.google.com/document/d/14qa47TJ_Vyerx4XNgTCIh7PUZ_TOgNcU_eHm5So_zo0",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Fiction",
+      "Society"
+    ]
   },
   {
     "id": "the-british-industrial-revolution-in-global-perspective-by-robert-c-allen",
@@ -2861,7 +3520,11 @@
     "wordCount": 3481,
     "readingTimeMinutes": 16,
     "originalUrl": "https://docs.google.com/document/d/14qa47TJ_Vyerx4XNgTCIh7PUZ_TOgNcU_eHm5So_zo0",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "History",
+      "Economics"
+    ]
   },
   {
     "id": "the-beauties-essential-stories-by-anton-chekhov",
@@ -2877,7 +3540,10 @@
     "wordCount": 3013,
     "readingTimeMinutes": 14,
     "originalUrl": "https://docs.google.com/document/d/14qa47TJ_Vyerx4XNgTCIh7PUZ_TOgNcU_eHm5So_zo0",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Fiction"
+    ]
   },
   {
     "id": "the-beginning-of-infinity-and-the-fabric-of-reality-bydavid-deutsch",
@@ -2893,7 +3559,11 @@
     "wordCount": 2055,
     "readingTimeMinutes": 10,
     "originalUrl": "https://docs.google.com/document/d/14qa47TJ_Vyerx4XNgTCIh7PUZ_TOgNcU_eHm5So_zo0",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Science",
+      "Philosophy"
+    ]
   },
   {
     "id": "the-body-keeps-the-score-brain-mind-and-body-in-the-healing-of-trauma-by-bessel-van-der-kolk",
@@ -2909,7 +3579,11 @@
     "wordCount": 3915,
     "readingTimeMinutes": 18,
     "originalUrl": "https://docs.google.com/document/d/14qa47TJ_Vyerx4XNgTCIh7PUZ_TOgNcU_eHm5So_zo0",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Psychology",
+      "Science"
+    ]
   },
   {
     "id": "the-ballad-of-the-white-horse-by-g-k-chesterton",
@@ -2925,7 +3599,12 @@
     "wordCount": 5806,
     "readingTimeMinutes": 26,
     "originalUrl": "https://docs.google.com/document/d/14qa47TJ_Vyerx4XNgTCIh7PUZ_TOgNcU_eHm5So_zo0",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Fiction",
+      "History",
+      "Politics"
+    ]
   },
   {
     "id": "the-autobiography-of-yukichi-fukuzawa",
@@ -2941,7 +3620,11 @@
     "wordCount": 4943,
     "readingTimeMinutes": 22,
     "originalUrl": "https://docs.google.com/document/d/14qa47TJ_Vyerx4XNgTCIh7PUZ_TOgNcU_eHm5So_zo0",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Memoir",
+      "History"
+    ]
   },
   {
     "id": "the-art-of-happiness",
@@ -2957,7 +3640,11 @@
     "wordCount": 3334,
     "readingTimeMinutes": 15,
     "originalUrl": "https://docs.google.com/document/d/14qa47TJ_Vyerx4XNgTCIh7PUZ_TOgNcU_eHm5So_zo0",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Psychology",
+      "Religion"
+    ]
   },
   {
     "id": "stilwell-and-the-american-experience-in-china-1911-1945-by-barbara-w-tuchman",
@@ -2973,7 +3660,11 @@
     "wordCount": 5243,
     "readingTimeMinutes": 24,
     "originalUrl": "https://docs.google.com/document/d/1GYQw3pgvhi7hqOVR-Ql629Q_8thbyHe8sSRy5voyt30",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "History",
+      "Politics"
+    ]
   },
   {
     "id": "sudden-glory-by-hal-johnson",
@@ -2989,7 +3680,11 @@
     "wordCount": 2393,
     "readingTimeMinutes": 11,
     "originalUrl": "https://docs.google.com/document/d/1GYQw3pgvhi7hqOVR-Ql629Q_8thbyHe8sSRy5voyt30",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Fiction",
+      "Technology"
+    ]
   },
   {
     "id": "surviving-death-by-mark-johnston",
@@ -3005,7 +3700,10 @@
     "wordCount": 11446,
     "readingTimeMinutes": 51,
     "originalUrl": "https://docs.google.com/document/d/1GYQw3pgvhi7hqOVR-Ql629Q_8thbyHe8sSRy5voyt30",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Philosophy"
+    ]
   },
   {
     "id": "sense-of-style-by-stephen-pinker",
@@ -3021,7 +3719,11 @@
     "wordCount": 3236,
     "readingTimeMinutes": 15,
     "originalUrl": "https://docs.google.com/document/d/1GYQw3pgvhi7hqOVR-Ql629Q_8thbyHe8sSRy5voyt30",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Psychology",
+      "Society"
+    ]
   },
   {
     "id": "silver-age-marvel-comics-november-1961-december-1965",
@@ -3037,7 +3739,11 @@
     "wordCount": 11432,
     "readingTimeMinutes": 51,
     "originalUrl": "https://docs.google.com/document/d/1GYQw3pgvhi7hqOVR-Ql629Q_8thbyHe8sSRy5voyt30",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Fiction",
+      "Society"
+    ]
   },
   {
     "id": "sir-gawain-and-the-green-knight",
@@ -3053,7 +3759,11 @@
     "wordCount": 2995,
     "readingTimeMinutes": 14,
     "originalUrl": "https://docs.google.com/document/d/1GYQw3pgvhi7hqOVR-Ql629Q_8thbyHe8sSRy5voyt30",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Fiction",
+      "History"
+    ]
   },
   {
     "id": "spring-snow-by-yukio-mishima",
@@ -3069,7 +3779,11 @@
     "wordCount": 1467,
     "readingTimeMinutes": 7,
     "originalUrl": "https://docs.google.com/document/d/1GYQw3pgvhi7hqOVR-Ql629Q_8thbyHe8sSRy5voyt30",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Fiction",
+      "Society"
+    ]
   },
   {
     "id": "safe-enough-a-history-of-nuclear-power-and-accident-risk",
@@ -3085,7 +3799,12 @@
     "wordCount": 8216,
     "readingTimeMinutes": 37,
     "originalUrl": "https://docs.google.com/document/d/1GYQw3pgvhi7hqOVR-Ql629Q_8thbyHe8sSRy5voyt30",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Technology",
+      "History",
+      "Science"
+    ]
   },
   {
     "id": "savage-money",
@@ -3101,7 +3820,11 @@
     "wordCount": 5419,
     "readingTimeMinutes": 25,
     "originalUrl": "https://docs.google.com/document/d/1GYQw3pgvhi7hqOVR-Ql629Q_8thbyHe8sSRy5voyt30",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Economics",
+      "History"
+    ]
   },
   {
     "id": "secret-agenda-watergate-deep-throat-and-the-cia-by-jim-hougan",
@@ -3117,7 +3840,11 @@
     "wordCount": 5725,
     "readingTimeMinutes": 26,
     "originalUrl": "https://docs.google.com/document/d/1GYQw3pgvhi7hqOVR-Ql629Q_8thbyHe8sSRy5voyt30",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Politics",
+      "History"
+    ]
   },
   {
     "id": "sadly-porn",
@@ -3133,7 +3860,10 @@
     "wordCount": 40772,
     "readingTimeMinutes": 182,
     "originalUrl": "https://docs.google.com/document/d/1GYQw3pgvhi7hqOVR-Ql629Q_8thbyHe8sSRy5voyt30",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Society"
+    ]
   },
   {
     "id": "road-of-the-king-by-patrick-hoban",
@@ -3149,7 +3879,10 @@
     "wordCount": 5746,
     "readingTimeMinutes": 26,
     "originalUrl": "https://docs.google.com/document/d/1GYQw3pgvhi7hqOVR-Ql629Q_8thbyHe8sSRy5voyt30",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Society"
+    ]
   },
   {
     "id": "righteous-victims-a-history-of-the-zionist-arab-conflict-by-benny-morris",
@@ -3165,7 +3898,11 @@
     "wordCount": 10031,
     "readingTimeMinutes": 45,
     "originalUrl": "https://docs.google.com/document/d/1GYQw3pgvhi7hqOVR-Ql629Q_8thbyHe8sSRy5voyt30",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "History",
+      "Politics"
+    ]
   },
   {
     "id": "red-rising-by-pierce-brown",
@@ -3181,7 +3918,10 @@
     "wordCount": 6601,
     "readingTimeMinutes": 30,
     "originalUrl": "https://docs.google.com/document/d/1GYQw3pgvhi7hqOVR-Ql629Q_8thbyHe8sSRy5voyt30",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Fiction"
+    ]
   },
   {
     "id": "ranimorphs-the-reckoning-by-duncan-sabien",
@@ -3197,7 +3937,10 @@
     "wordCount": 7777,
     "readingTimeMinutes": 35,
     "originalUrl": "https://docs.google.com/document/d/1GYQw3pgvhi7hqOVR-Ql629Q_8thbyHe8sSRy5voyt30",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Fiction"
+    ]
   },
   {
     "id": "ready-player-one-by-ernest-cline",
@@ -3213,7 +3956,11 @@
     "wordCount": 6819,
     "readingTimeMinutes": 31,
     "originalUrl": "https://docs.google.com/document/d/1GYQw3pgvhi7hqOVR-Ql629Q_8thbyHe8sSRy5voyt30",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Fiction",
+      "Technology"
+    ]
   },
   {
     "id": "real-raw-news",
@@ -3229,7 +3976,11 @@
     "wordCount": 6980,
     "readingTimeMinutes": 32,
     "originalUrl": "https://docs.google.com/document/d/1GYQw3pgvhi7hqOVR-Ql629Q_8thbyHe8sSRy5voyt30",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Politics",
+      "Society"
+    ]
   },
   {
     "id": "practical-ethics-by-peter-singer",
@@ -3245,7 +3996,10 @@
     "wordCount": 20446,
     "readingTimeMinutes": 91,
     "originalUrl": "https://docs.google.com/document/d/1cp6iw5OEyDjnD_viZo-KL0Zv4jwQnMXtE4yIovfVAco",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Philosophy"
+    ]
   },
   {
     "id": "patient-heal-thyself-how-the-new-medicine-puts-the-patient-in-charge-by-robert-veatch",
@@ -3261,7 +4015,11 @@
     "wordCount": 2540,
     "readingTimeMinutes": 12,
     "originalUrl": "https://docs.google.com/document/d/1cp6iw5OEyDjnD_viZo-KL0Zv4jwQnMXtE4yIovfVAco",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Science",
+      "Philosophy"
+    ]
   },
   {
     "id": "piranesi-by-susanna-clarke",
@@ -3277,7 +4035,11 @@
     "wordCount": 5820,
     "readingTimeMinutes": 26,
     "originalUrl": "https://docs.google.com/document/d/1cp6iw5OEyDjnD_viZo-KL0Zv4jwQnMXtE4yIovfVAco",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Fiction",
+      "Philosophy"
+    ]
   },
   {
     "id": "politics-on-the-edge",
@@ -3293,7 +4055,11 @@
     "wordCount": 5319,
     "readingTimeMinutes": 24,
     "originalUrl": "https://docs.google.com/document/d/1cp6iw5OEyDjnD_viZo-KL0Zv4jwQnMXtE4yIovfVAco",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Politics",
+      "Memoir"
+    ]
   },
   {
     "id": "on-the-bondage-of-the-will-by-martin-luther",
@@ -3309,7 +4075,11 @@
     "wordCount": 10041,
     "readingTimeMinutes": 45,
     "originalUrl": "https://docs.google.com/document/d/1cp6iw5OEyDjnD_viZo-KL0Zv4jwQnMXtE4yIovfVAco",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Religion",
+      "Philosophy"
+    ]
   },
   {
     "id": "one-dimensional-man-by-herbert-marcuse",
@@ -3325,7 +4095,11 @@
     "wordCount": 4463,
     "readingTimeMinutes": 20,
     "originalUrl": "https://docs.google.com/document/d/1cp6iw5OEyDjnD_viZo-KL0Zv4jwQnMXtE4yIovfVAco",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Philosophy",
+      "Politics"
+    ]
   },
   {
     "id": "paradoxes-of-rationality-and-cooperation",
@@ -3341,7 +4115,11 @@
     "wordCount": 2562,
     "readingTimeMinutes": 12,
     "originalUrl": "https://docs.google.com/document/d/1cp6iw5OEyDjnD_viZo-KL0Zv4jwQnMXtE4yIovfVAco",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Philosophy",
+      "Economics"
+    ]
   },
   {
     "id": "passionate-marriage-keeping-love-and-intimacy-alive-in-committed-relationships-by-david-schnarch",
@@ -3357,7 +4135,10 @@
     "wordCount": 7195,
     "readingTimeMinutes": 32,
     "originalUrl": "https://docs.google.com/document/d/1cp6iw5OEyDjnD_viZo-KL0Zv4jwQnMXtE4yIovfVAco",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Psychology"
+    ]
   },
   {
     "id": "nexus-by-ramez-naam",
@@ -3373,7 +4154,11 @@
     "wordCount": 3807,
     "readingTimeMinutes": 17,
     "originalUrl": "https://docs.google.com/document/d/1cp6iw5OEyDjnD_viZo-KL0Zv4jwQnMXtE4yIovfVAco",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Fiction",
+      "Technology"
+    ]
   },
   {
     "id": "nine-lives-my-time-as-mi6s-top-spy-inside-al-qaeda-by-aimen-dean",
@@ -3389,7 +4174,11 @@
     "wordCount": 8072,
     "readingTimeMinutes": 36,
     "originalUrl": "https://docs.google.com/document/d/1cp6iw5OEyDjnD_viZo-KL0Zv4jwQnMXtE4yIovfVAco",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Memoir",
+      "Politics"
+    ]
   },
   {
     "id": "normal-accidents-living-with-high-risk-technologies-by-charles-perrow",
@@ -3405,7 +4194,11 @@
     "wordCount": 3465,
     "readingTimeMinutes": 16,
     "originalUrl": "https://docs.google.com/document/d/1cp6iw5OEyDjnD_viZo-KL0Zv4jwQnMXtE4yIovfVAco",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Technology",
+      "Science"
+    ]
   },
   {
     "id": "mine-how-the-hidden-rules-of-ownership-control-our-lives",
@@ -3421,7 +4214,11 @@
     "wordCount": 8497,
     "readingTimeMinutes": 38,
     "originalUrl": "https://docs.google.com/document/d/1cp6iw5OEyDjnD_viZo-KL0Zv4jwQnMXtE4yIovfVAco",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Economics",
+      "Society"
+    ]
   },
   {
     "id": "misbelief-what-makes-rational-people-believe-irrational-things-by-dan-ariely",
@@ -3437,7 +4234,10 @@
     "wordCount": 4194,
     "readingTimeMinutes": 19,
     "originalUrl": "https://docs.google.com/document/d/1cp6iw5OEyDjnD_viZo-KL0Zv4jwQnMXtE4yIovfVAco",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Psychology"
+    ]
   },
   {
     "id": "money-capital",
@@ -3453,7 +4253,10 @@
     "wordCount": 4741,
     "readingTimeMinutes": 22,
     "originalUrl": "https://docs.google.com/document/d/1cp6iw5OEyDjnD_viZo-KL0Zv4jwQnMXtE4yIovfVAco",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Economics"
+    ]
   },
   {
     "id": "never-twice-in-the-same-river",
@@ -3469,7 +4272,11 @@
     "wordCount": 5179,
     "readingTimeMinutes": 24,
     "originalUrl": "https://docs.google.com/document/d/1cp6iw5OEyDjnD_viZo-KL0Zv4jwQnMXtE4yIovfVAco",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Politics",
+      "Society"
+    ]
   },
   {
     "id": "making-the-corps",
@@ -3485,7 +4292,11 @@
     "wordCount": 9338,
     "readingTimeMinutes": 42,
     "originalUrl": "https://docs.google.com/document/d/1cp6iw5OEyDjnD_viZo-KL0Zv4jwQnMXtE4yIovfVAco",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Society",
+      "Psychology"
+    ]
   },
   {
     "id": "metamorphosis-byshindo-l",
@@ -3501,7 +4312,11 @@
     "wordCount": 1282,
     "readingTimeMinutes": 6,
     "originalUrl": "https://docs.google.com/document/d/1cp6iw5OEyDjnD_viZo-KL0Zv4jwQnMXtE4yIovfVAco",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Fiction",
+      "Society"
+    ]
   },
   {
     "id": "remember-clearly-when-realized-that-there-were-other",
@@ -3517,7 +4332,11 @@
     "wordCount": 3105,
     "readingTimeMinutes": 14,
     "originalUrl": "https://docs.google.com/document/d/1cp6iw5OEyDjnD_viZo-KL0Zv4jwQnMXtE4yIovfVAco",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Fiction",
+      "Philosophy"
+    ]
   },
   {
     "id": "libra-by-don-delillo-aberration-in-the-heartland-of-the-real-by-wendy-s-painting",
@@ -3533,7 +4352,11 @@
     "wordCount": 9310,
     "readingTimeMinutes": 42,
     "originalUrl": "https://docs.google.com/document/d/1cp6iw5OEyDjnD_viZo-KL0Zv4jwQnMXtE4yIovfVAco",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Fiction",
+      "History"
+    ]
   },
   {
     "id": "license-to-be-bad-how-economics-corrupted-us",
@@ -3549,7 +4372,11 @@
     "wordCount": 4012,
     "readingTimeMinutes": 18,
     "originalUrl": "https://docs.google.com/document/d/1cp6iw5OEyDjnD_viZo-KL0Zv4jwQnMXtE4yIovfVAco",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Economics",
+      "Philosophy"
+    ]
   },
   {
     "id": "letter-to-a-christian-nation-and-other-writings-of-sam-harris",
@@ -3565,7 +4392,11 @@
     "wordCount": 23136,
     "readingTimeMinutes": 103,
     "originalUrl": "https://docs.google.com/document/d/1cp6iw5OEyDjnD_viZo-KL0Zv4jwQnMXtE4yIovfVAco",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Religion",
+      "Philosophy"
+    ]
   },
   {
     "id": "in-the-time-of-the-russias-by-stella-zamvil",
@@ -3581,7 +4412,11 @@
     "wordCount": 3582,
     "readingTimeMinutes": 16,
     "originalUrl": "https://docs.google.com/document/d/1QiotH3aGFgNLGqsIHTK_Plm_gem2E4l2C2ctyGJd0jY",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Fiction",
+      "History"
+    ]
   },
   {
     "id": "invisible-cities-by-italo-calvino",
@@ -3597,7 +4432,10 @@
     "wordCount": 4131,
     "readingTimeMinutes": 19,
     "originalUrl": "https://docs.google.com/document/d/1QiotH3aGFgNLGqsIHTK_Plm_gem2E4l2C2ctyGJd0jY",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Fiction"
+    ]
   },
   {
     "id": "its-not-the-money-its-the-land",
@@ -3613,7 +4451,11 @@
     "wordCount": 4556,
     "readingTimeMinutes": 21,
     "originalUrl": "https://docs.google.com/document/d/1QiotH3aGFgNLGqsIHTK_Plm_gem2E4l2C2ctyGJd0jY",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "History",
+      "Society"
+    ]
   },
   {
     "id": "how-the-war-was-won-by-phillips-payson-obrien",
@@ -3629,7 +4471,10 @@
     "wordCount": 5233,
     "readingTimeMinutes": 24,
     "originalUrl": "https://docs.google.com/document/d/1QiotH3aGFgNLGqsIHTK_Plm_gem2E4l2C2ctyGJd0jY",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "History"
+    ]
   },
   {
     "id": "hp-lovecraft-against-the-world-against-life-by-michel-houellebecq",
@@ -3645,7 +4490,11 @@
     "wordCount": 1556,
     "readingTimeMinutes": 7,
     "originalUrl": "https://docs.google.com/document/d/1QiotH3aGFgNLGqsIHTK_Plm_gem2E4l2C2ctyGJd0jY",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Fiction",
+      "Memoir"
+    ]
   },
   {
     "id": "impossible-histories-the-soviet-republic-of-alaska-the-united-states-of-hudsonia-president-charlemagne-and-other-pivotal-moments-of-history-that-never-happened-by-hal-johnson",
@@ -3661,7 +4510,10 @@
     "wordCount": 2192,
     "readingTimeMinutes": 10,
     "originalUrl": "https://docs.google.com/document/d/1QiotH3aGFgNLGqsIHTK_Plm_gem2E4l2C2ctyGJd0jY",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "History"
+    ]
   },
   {
     "id": "in-search-of-lost-time-by-marcel-proust",
@@ -3677,7 +4529,10 @@
     "wordCount": 2797,
     "readingTimeMinutes": 13,
     "originalUrl": "https://docs.google.com/document/d/1QiotH3aGFgNLGqsIHTK_Plm_gem2E4l2C2ctyGJd0jY",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Fiction"
+    ]
   },
   {
     "id": "how-language-began",
@@ -3693,7 +4548,11 @@
     "wordCount": 10220,
     "readingTimeMinutes": 46,
     "originalUrl": "https://docs.google.com/document/d/1QiotH3aGFgNLGqsIHTK_Plm_gem2E4l2C2ctyGJd0jY",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Science",
+      "Biology"
+    ]
   },
   {
     "id": "gdel-escher-bach-by-douglas-hofstadter",
@@ -3709,7 +4568,11 @@
     "wordCount": 3982,
     "readingTimeMinutes": 18,
     "originalUrl": "https://docs.google.com/document/d/1QiotH3aGFgNLGqsIHTK_Plm_gem2E4l2C2ctyGJd0jY",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Science",
+      "Philosophy"
+    ]
   },
   {
     "id": "gnomon-by-nick-harkaway",
@@ -3725,7 +4588,11 @@
     "wordCount": 2491,
     "readingTimeMinutes": 12,
     "originalUrl": "https://docs.google.com/document/d/1QiotH3aGFgNLGqsIHTK_Plm_gem2E4l2C2ctyGJd0jY",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Fiction",
+      "Philosophy"
+    ]
   },
   {
     "id": "golem-xiv",
@@ -3741,7 +4608,11 @@
     "wordCount": 2664,
     "readingTimeMinutes": 12,
     "originalUrl": "https://docs.google.com/document/d/1QiotH3aGFgNLGqsIHTK_Plm_gem2E4l2C2ctyGJd0jY",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Fiction",
+      "Technology"
+    ]
   },
   {
     "id": "for-whom-the-bell-tolls-by-ernest-hemingway",
@@ -3757,7 +4628,11 @@
     "wordCount": 1354,
     "readingTimeMinutes": 7,
     "originalUrl": "https://docs.google.com/document/d/1QiotH3aGFgNLGqsIHTK_Plm_gem2E4l2C2ctyGJd0jY",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Fiction",
+      "History"
+    ]
   },
   {
     "id": "frankenstein-by-mary-shelley",
@@ -3773,7 +4648,11 @@
     "wordCount": 5057,
     "readingTimeMinutes": 23,
     "originalUrl": "https://docs.google.com/document/d/1QiotH3aGFgNLGqsIHTK_Plm_gem2E4l2C2ctyGJd0jY",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Fiction",
+      "Science"
+    ]
   },
   {
     "id": "free-range-kids",
@@ -3789,7 +4668,11 @@
     "wordCount": 3236,
     "readingTimeMinutes": 15,
     "originalUrl": "https://docs.google.com/document/d/1QiotH3aGFgNLGqsIHTK_Plm_gem2E4l2C2ctyGJd0jY",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Psychology",
+      "Society"
+    ]
   },
   {
     "id": "fundamentals-of-marxism-leninism-by-kuusinen-et-al",
@@ -3805,7 +4688,12 @@
     "wordCount": 5638,
     "readingTimeMinutes": 26,
     "originalUrl": "https://docs.google.com/document/d/1QiotH3aGFgNLGqsIHTK_Plm_gem2E4l2C2ctyGJd0jY",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Politics",
+      "Philosophy",
+      "Economics"
+    ]
   },
   {
     "id": "end-times-elites-counter-elites-and-the-path-of-political-disintegration-by-peter-turchin",
@@ -3821,7 +4709,11 @@
     "wordCount": 5599,
     "readingTimeMinutes": 25,
     "originalUrl": "https://docs.google.com/document/d/1QiotH3aGFgNLGqsIHTK_Plm_gem2E4l2C2ctyGJd0jY",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Politics",
+      "History"
+    ]
   },
   {
     "id": "eothen-by-alexander-kinglake",
@@ -3837,7 +4729,11 @@
     "wordCount": 8347,
     "readingTimeMinutes": 38,
     "originalUrl": "https://docs.google.com/document/d/1QiotH3aGFgNLGqsIHTK_Plm_gem2E4l2C2ctyGJd0jY",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Memoir",
+      "History"
+    ]
   },
   {
     "id": "eve-how-the-female-body-drove-200-million-years-of-human-evolution-by-cat-bohannon",
@@ -3853,7 +4749,11 @@
     "wordCount": 1979,
     "readingTimeMinutes": 9,
     "originalUrl": "https://docs.google.com/document/d/1QiotH3aGFgNLGqsIHTK_Plm_gem2E4l2C2ctyGJd0jY",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Biology",
+      "Society"
+    ]
   },
   {
     "id": "food-of-the-gods-the-search-for-the-original-tree-of-knowledge-a-radical-history-of-plants-drugs-and-human-evolution-by-terence-mckenna",
@@ -3869,7 +4769,11 @@
     "wordCount": 5304,
     "readingTimeMinutes": 24,
     "originalUrl": "https://docs.google.com/document/d/1QiotH3aGFgNLGqsIHTK_Plm_gem2E4l2C2ctyGJd0jY",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Biology",
+      "History"
+    ]
   },
   {
     "id": "elon-musk-by-walter-isaacson",
@@ -3885,7 +4789,11 @@
     "wordCount": 3560,
     "readingTimeMinutes": 16,
     "originalUrl": "https://docs.google.com/document/d/1QiotH3aGFgNLGqsIHTK_Plm_gem2E4l2C2ctyGJd0jY",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Memoir",
+      "Technology"
+    ]
   },
   {
     "id": "the-first-reason-to-read-about-pharaoh-akhenaten",
@@ -3901,7 +4809,11 @@
     "wordCount": 6431,
     "readingTimeMinutes": 29,
     "originalUrl": "https://docs.google.com/document/d/1QiotH3aGFgNLGqsIHTK_Plm_gem2E4l2C2ctyGJd0jY",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "History",
+      "Religion"
+    ]
   },
   {
     "id": "dominion-by-matthew-scully",
@@ -3917,7 +4829,11 @@
     "wordCount": 6405,
     "readingTimeMinutes": 29,
     "originalUrl": "https://docs.google.com/document/d/1AXmWgSbh_TFsoZuApSCSEoz57yn93CM5YYhtaO_s4W4",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Philosophy",
+      "Society"
+    ]
   },
   {
     "id": "don-juan",
@@ -3933,7 +4849,10 @@
     "wordCount": 3157,
     "readingTimeMinutes": 15,
     "originalUrl": "https://docs.google.com/document/d/1AXmWgSbh_TFsoZuApSCSEoz57yn93CM5YYhtaO_s4W4",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Fiction"
+    ]
   },
   {
     "id": "dont-make-no-waves-dont-back-no-losers-an-insiders-analysis-of-the-daley-machine",
@@ -3949,7 +4868,10 @@
     "wordCount": 6840,
     "readingTimeMinutes": 31,
     "originalUrl": "https://docs.google.com/document/d/1AXmWgSbh_TFsoZuApSCSEoz57yn93CM5YYhtaO_s4W4",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Politics"
+    ]
   },
   {
     "id": "determined-a-science-of-life-without-free-will-by-robert-m-sapolsky",
@@ -3965,7 +4887,11 @@
     "wordCount": 10521,
     "readingTimeMinutes": 47,
     "originalUrl": "https://docs.google.com/document/d/1AXmWgSbh_TFsoZuApSCSEoz57yn93CM5YYhtaO_s4W4",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Philosophy",
+      "Science"
+    ]
   },
   {
     "id": "discrimination-and-disparities-by-thomas-sowell",
@@ -3981,7 +4907,11 @@
     "wordCount": 9985,
     "readingTimeMinutes": 45,
     "originalUrl": "https://docs.google.com/document/d/1AXmWgSbh_TFsoZuApSCSEoz57yn93CM5YYhtaO_s4W4",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Economics",
+      "Society"
+    ]
   },
   {
     "id": "djinn-the-angel-on-the-roof-by-russell-banks",
@@ -3997,7 +4927,11 @@
     "wordCount": 1678,
     "readingTimeMinutes": 8,
     "originalUrl": "https://docs.google.com/document/d/1AXmWgSbh_TFsoZuApSCSEoz57yn93CM5YYhtaO_s4W4",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Fiction",
+      "History"
+    ]
   },
   {
     "id": "collected-poems-by-cp-cavafy",
@@ -4013,7 +4947,10 @@
     "wordCount": 2384,
     "readingTimeMinutes": 11,
     "originalUrl": "https://docs.google.com/document/d/1AXmWgSbh_TFsoZuApSCSEoz57yn93CM5YYhtaO_s4W4",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Fiction"
+    ]
   },
   {
     "id": "consequences-of-language-from-primary-to-enhanced-intersubjectivity",
@@ -4029,7 +4966,11 @@
     "wordCount": 9690,
     "readingTimeMinutes": 44,
     "originalUrl": "https://docs.google.com/document/d/1AXmWgSbh_TFsoZuApSCSEoz57yn93CM5YYhtaO_s4W4",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Science",
+      "Psychology"
+    ]
   },
   {
     "id": "defining-death-the-case-for-choice-by-robert-m-veatch-and-lainie-f-ross-2016",
@@ -4045,7 +4986,11 @@
     "wordCount": 4692,
     "readingTimeMinutes": 21,
     "originalUrl": "https://docs.google.com/document/d/1AXmWgSbh_TFsoZuApSCSEoz57yn93CM5YYhtaO_s4W4",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Philosophy",
+      "Science"
+    ]
   },
   {
     "id": "biophilia-by-eo-wilson",
@@ -4061,7 +5006,11 @@
     "wordCount": 3788,
     "readingTimeMinutes": 17,
     "originalUrl": "https://docs.google.com/document/d/1AXmWgSbh_TFsoZuApSCSEoz57yn93CM5YYhtaO_s4W4",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Biology",
+      "Society"
+    ]
   },
   {
     "id": "carpentaria-by-alexis-wright",
@@ -4077,7 +5026,11 @@
     "wordCount": 2713,
     "readingTimeMinutes": 13,
     "originalUrl": "https://docs.google.com/document/d/1AXmWgSbh_TFsoZuApSCSEoz57yn93CM5YYhtaO_s4W4",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Fiction",
+      "Society"
+    ]
   },
   {
     "id": "catkin-by-antonia-barber",
@@ -4093,7 +5046,10 @@
     "wordCount": 3776,
     "readingTimeMinutes": 17,
     "originalUrl": "https://docs.google.com/document/d/1AXmWgSbh_TFsoZuApSCSEoz57yn93CM5YYhtaO_s4W4",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Fiction"
+    ]
   },
   {
     "id": "cats-cradle-by-kurt-vonnegut",
@@ -4109,7 +5065,10 @@
     "wordCount": 4172,
     "readingTimeMinutes": 19,
     "originalUrl": "https://docs.google.com/document/d/1AXmWgSbh_TFsoZuApSCSEoz57yn93CM5YYhtaO_s4W4",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Fiction"
+    ]
   },
   {
     "id": "choosing-elites-by-robert-klitgaard",
@@ -4125,7 +5084,11 @@
     "wordCount": 3079,
     "readingTimeMinutes": 14,
     "originalUrl": "https://docs.google.com/document/d/1AXmWgSbh_TFsoZuApSCSEoz57yn93CM5YYhtaO_s4W4",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Society",
+      "Economics"
+    ]
   },
   {
     "id": "babel-or-the-necessity-of-violence-by-rf-kuang",
@@ -4141,7 +5104,11 @@
     "wordCount": 6242,
     "readingTimeMinutes": 28,
     "originalUrl": "https://docs.google.com/document/d/1AXmWgSbh_TFsoZuApSCSEoz57yn93CM5YYhtaO_s4W4",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Fiction",
+      "History"
+    ]
   },
   {
     "id": "bad-therapy",
@@ -4157,7 +5124,10 @@
     "wordCount": 7894,
     "readingTimeMinutes": 36,
     "originalUrl": "https://docs.google.com/document/d/1AXmWgSbh_TFsoZuApSCSEoz57yn93CM5YYhtaO_s4W4",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Psychology"
+    ]
   },
   {
     "id": "battle-hymn-of-the-tiger-mother",
@@ -4173,7 +5143,11 @@
     "wordCount": 5865,
     "readingTimeMinutes": 27,
     "originalUrl": "https://docs.google.com/document/d/1AXmWgSbh_TFsoZuApSCSEoz57yn93CM5YYhtaO_s4W4",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Society",
+      "Memoir"
+    ]
   },
   {
     "id": "american-nations-by-colin-woodard",
@@ -4189,7 +5163,11 @@
     "wordCount": 3933,
     "readingTimeMinutes": 18,
     "originalUrl": "https://docs.google.com/document/d/1AXmWgSbh_TFsoZuApSCSEoz57yn93CM5YYhtaO_s4W4",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "History",
+      "Society"
+    ]
   },
   {
     "id": "armies-of-sand-the-past-present-and-future-of-arab-military-effectiveness",
@@ -4205,7 +5183,11 @@
     "wordCount": 4630,
     "readingTimeMinutes": 21,
     "originalUrl": "https://docs.google.com/document/d/1AXmWgSbh_TFsoZuApSCSEoz57yn93CM5YYhtaO_s4W4",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "History",
+      "Politics"
+    ]
   },
   {
     "id": "asquith-by-roy-jenkins",
@@ -4221,7 +5203,12 @@
     "wordCount": 9072,
     "readingTimeMinutes": 41,
     "originalUrl": "https://docs.google.com/document/d/1AXmWgSbh_TFsoZuApSCSEoz57yn93CM5YYhtaO_s4W4",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "History",
+      "Politics",
+      "Memoir"
+    ]
   },
   {
     "id": "atlas-shrugged-by-ayn-rand",
@@ -4237,7 +5224,11 @@
     "wordCount": 1812,
     "readingTimeMinutes": 9,
     "originalUrl": "https://docs.google.com/document/d/1AXmWgSbh_TFsoZuApSCSEoz57yn93CM5YYhtaO_s4W4",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Fiction",
+      "Philosophy"
+    ]
   },
   {
     "id": "against-democracy-by-jason-brennan",
@@ -4253,7 +5244,11 @@
     "wordCount": 3660,
     "readingTimeMinutes": 17,
     "originalUrl": "https://docs.google.com/document/d/1AXmWgSbh_TFsoZuApSCSEoz57yn93CM5YYhtaO_s4W4",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Politics",
+      "Philosophy"
+    ]
   },
   {
     "id": "age-of-anger-a-history-of-the-present-by-pankaj-mishra",
@@ -4269,7 +5264,12 @@
     "wordCount": 1307,
     "readingTimeMinutes": 6,
     "originalUrl": "https://docs.google.com/document/d/1AXmWgSbh_TFsoZuApSCSEoz57yn93CM5YYhtaO_s4W4",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "History",
+      "Politics",
+      "Philosophy"
+    ]
   },
   {
     "id": "all-systems-red-by-martha-wells",
@@ -4285,7 +5285,11 @@
     "wordCount": 2658,
     "readingTimeMinutes": 12,
     "originalUrl": "https://docs.google.com/document/d/1AXmWgSbh_TFsoZuApSCSEoz57yn93CM5YYhtaO_s4W4",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Fiction",
+      "Technology"
+    ]
   },
   {
     "id": "alphabetical-diaries-by-sheila-heti",
@@ -4301,7 +5305,11 @@
     "wordCount": 3358,
     "readingTimeMinutes": 15,
     "originalUrl": "https://docs.google.com/document/d/1AXmWgSbh_TFsoZuApSCSEoz57yn93CM5YYhtaO_s4W4",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Fiction",
+      "Memoir"
+    ]
   },
   {
     "id": "a-visit-from-the-goon-squad",
@@ -4317,7 +5325,10 @@
     "wordCount": 3306,
     "readingTimeMinutes": 15,
     "originalUrl": "https://docs.google.com/document/d/1AXmWgSbh_TFsoZuApSCSEoz57yn93CM5YYhtaO_s4W4",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Fiction"
+    ]
   },
   {
     "id": "a-farewell-to-alms-a-brief-economic-history-of-the-world-by-gregory-clark",
@@ -4333,7 +5344,11 @@
     "wordCount": 2353,
     "readingTimeMinutes": 11,
     "originalUrl": "https://docs.google.com/document/d/1AXmWgSbh_TFsoZuApSCSEoz57yn93CM5YYhtaO_s4W4",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Economics",
+      "History"
+    ]
   },
   {
     "id": "a-practical-guide-to-evil-book-1-by-erraticerrata",
@@ -4349,7 +5364,10 @@
     "wordCount": 2726,
     "readingTimeMinutes": 13,
     "originalUrl": "https://docs.google.com/document/d/1AXmWgSbh_TFsoZuApSCSEoz57yn93CM5YYhtaO_s4W4",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Fiction"
+    ]
   },
   {
     "id": "a-thousand-ways-to-please-a-husband",
@@ -4365,7 +5383,11 @@
     "wordCount": 4159,
     "readingTimeMinutes": 19,
     "originalUrl": "https://docs.google.com/document/d/1AXmWgSbh_TFsoZuApSCSEoz57yn93CM5YYhtaO_s4W4",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "History",
+      "Society"
+    ]
   },
   {
     "id": "a-canticle-for-leibowitz-by-walter-m-miller-jr",
@@ -4381,7 +5403,11 @@
     "wordCount": 3033,
     "readingTimeMinutes": 14,
     "originalUrl": "https://docs.google.com/document/d/1AXmWgSbh_TFsoZuApSCSEoz57yn93CM5YYhtaO_s4W4",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Fiction",
+      "Religion"
+    ]
   },
   {
     "id": "how-solar-energy-became-cheap-a-model-for-low-carbon-innovation",
@@ -4397,7 +5423,11 @@
     "wordCount": 6608,
     "readingTimeMinutes": 30,
     "originalUrl": "https://docs.google.com/document/d/1pRQbRbEUwSH_jm94PI_ij-88swat7vQ4iNaNp6gd39g",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Technology",
+      "Economics"
+    ]
   },
   {
     "id": "haughey-by-gary-murphy",
@@ -4413,7 +5443,11 @@
     "wordCount": 3815,
     "readingTimeMinutes": 17,
     "originalUrl": "https://docs.google.com/document/d/1pRQbRbEUwSH_jm94PI_ij-88swat7vQ4iNaNp6gd39g",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Politics",
+      "Memoir"
+    ]
   },
   {
     "id": "history-has-begun-by-bruno-macaes",
@@ -4429,7 +5463,12 @@
     "wordCount": 2960,
     "readingTimeMinutes": 14,
     "originalUrl": "https://docs.google.com/document/d/1pRQbRbEUwSH_jm94PI_ij-88swat7vQ4iNaNp6gd39g",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Politics",
+      "History",
+      "Society"
+    ]
   },
   {
     "id": "god-emperor-of-dune-by-frank-herbert",
@@ -4445,7 +5484,11 @@
     "wordCount": 5131,
     "readingTimeMinutes": 23,
     "originalUrl": "https://docs.google.com/document/d/1pRQbRbEUwSH_jm94PI_ij-88swat7vQ4iNaNp6gd39g",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Fiction",
+      "Philosophy"
+    ]
   },
   {
     "id": "golem-xiv-by-stanisaw-lem",
@@ -4461,7 +5504,12 @@
     "wordCount": 11759,
     "readingTimeMinutes": 53,
     "originalUrl": "https://docs.google.com/document/d/1pRQbRbEUwSH_jm94PI_ij-88swat7vQ4iNaNp6gd39g",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Fiction",
+      "Technology",
+      "Philosophy"
+    ]
   },
   {
     "id": "frankenstein-by-mary-shelley",
@@ -4477,7 +5525,11 @@
     "wordCount": 3745,
     "readingTimeMinutes": 17,
     "originalUrl": "https://docs.google.com/document/d/1pRQbRbEUwSH_jm94PI_ij-88swat7vQ4iNaNp6gd39g",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Fiction",
+      "Science"
+    ]
   },
   {
     "id": "from-paralysis-to-fatigue-a-history-of-psychosomatic-illness-in-the-modern-era-by-edward-shorter",
@@ -4493,7 +5545,12 @@
     "wordCount": 4676,
     "readingTimeMinutes": 21,
     "originalUrl": "https://docs.google.com/document/d/1pRQbRbEUwSH_jm94PI_ij-88swat7vQ4iNaNp6gd39g",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Psychology",
+      "History",
+      "Science"
+    ]
   },
   {
     "id": "from-third-world-to-first-the-singapore-story-1965-2000-by-lee-kuan-yew",
@@ -4509,7 +5566,12 @@
     "wordCount": 6233,
     "readingTimeMinutes": 28,
     "originalUrl": "https://docs.google.com/document/d/1pRQbRbEUwSH_jm94PI_ij-88swat7vQ4iNaNp6gd39g",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Politics",
+      "Economics",
+      "Memoir"
+    ]
   },
   {
     "id": "future-shock-by-alvin-toffler",
@@ -4525,7 +5587,11 @@
     "wordCount": 5467,
     "readingTimeMinutes": 25,
     "originalUrl": "https://docs.google.com/document/d/1pRQbRbEUwSH_jm94PI_ij-88swat7vQ4iNaNp6gd39g",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Society",
+      "Technology"
+    ]
   },
   {
     "id": "economic-hierarchies-by-gordon-tullock",
@@ -4541,7 +5607,11 @@
     "wordCount": 9126,
     "readingTimeMinutes": 41,
     "originalUrl": "https://docs.google.com/document/d/1pRQbRbEUwSH_jm94PI_ij-88swat7vQ4iNaNp6gd39g",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Economics",
+      "Society"
+    ]
   },
   {
     "id": "exhaustion-a-history-by-anna-schaffner",
@@ -4557,7 +5627,11 @@
     "wordCount": 4035,
     "readingTimeMinutes": 18,
     "originalUrl": "https://docs.google.com/document/d/1pRQbRbEUwSH_jm94PI_ij-88swat7vQ4iNaNp6gd39g",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Psychology",
+      "History"
+    ]
   },
   {
     "id": "facing-the-dragon-confronting-personal-and-spiritual-grandiosity-by-robert-moore",
@@ -4573,7 +5647,11 @@
     "wordCount": 4679,
     "readingTimeMinutes": 21,
     "originalUrl": "https://docs.google.com/document/d/1pRQbRbEUwSH_jm94PI_ij-88swat7vQ4iNaNp6gd39g",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Psychology",
+      "Religion"
+    ]
   },
   {
     "id": "fashion-faith-and-fantasy-in-the-new-physics-of-the-universe-by-roger-penrose",
@@ -4589,7 +5667,11 @@
     "wordCount": 6261,
     "readingTimeMinutes": 28,
     "originalUrl": "https://docs.google.com/document/d/1pRQbRbEUwSH_jm94PI_ij-88swat7vQ4iNaNp6gd39g",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Science",
+      "Philosophy"
+    ]
   },
   {
     "id": "deep-work-by-cal-newport",
@@ -4605,7 +5687,11 @@
     "wordCount": 2748,
     "readingTimeMinutes": 13,
     "originalUrl": "https://docs.google.com/document/d/1pRQbRbEUwSH_jm94PI_ij-88swat7vQ4iNaNp6gd39g",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Psychology",
+      "Society"
+    ]
   },
   {
     "id": "development-as-freedom-by-amartya-sen",
@@ -4621,7 +5707,12 @@
     "wordCount": 6669,
     "readingTimeMinutes": 30,
     "originalUrl": "https://docs.google.com/document/d/1pRQbRbEUwSH_jm94PI_ij-88swat7vQ4iNaNp6gd39g",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Economics",
+      "Politics",
+      "Philosophy"
+    ]
   },
   {
     "id": "disciplined-minds-a-critical-look-at-salaried-professionals-and-the-soul-battering-system-that-shapes-their-lives-by-jeff-schmidt",
@@ -4637,7 +5728,11 @@
     "wordCount": 2697,
     "readingTimeMinutes": 12,
     "originalUrl": "https://docs.google.com/document/d/1pRQbRbEUwSH_jm94PI_ij-88swat7vQ4iNaNp6gd39g",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Society",
+      "Economics"
+    ]
   },
   {
     "id": "come-and-take-it-the-gun-printers-guide-to-thinking-free-by-cody-wilson",
@@ -4653,7 +5748,11 @@
     "wordCount": 3166,
     "readingTimeMinutes": 15,
     "originalUrl": "https://docs.google.com/document/d/1pRQbRbEUwSH_jm94PI_ij-88swat7vQ4iNaNp6gd39g",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Technology",
+      "Politics"
+    ]
   },
   {
     "id": "consciousness-and-the-brain-by-stanislas-dehaene",
@@ -4669,7 +5768,11 @@
     "wordCount": 7592,
     "readingTimeMinutes": 34,
     "originalUrl": "https://docs.google.com/document/d/1pRQbRbEUwSH_jm94PI_ij-88swat7vQ4iNaNp6gd39g",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Science",
+      "Philosophy"
+    ]
   },
   {
     "id": "cracks-in-the-ivory-tower-the-moral-mess-of-higher-education",
@@ -4685,7 +5788,11 @@
     "wordCount": 8627,
     "readingTimeMinutes": 39,
     "originalUrl": "https://docs.google.com/document/d/1pRQbRbEUwSH_jm94PI_ij-88swat7vQ4iNaNp6gd39g",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Society",
+      "Economics"
+    ]
   },
   {
     "id": "at-the-existentialist-caf-by-sarah-bakewell",
@@ -4701,7 +5808,11 @@
     "wordCount": 9534,
     "readingTimeMinutes": 43,
     "originalUrl": "https://docs.google.com/document/d/1pRQbRbEUwSH_jm94PI_ij-88swat7vQ4iNaNp6gd39g",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Philosophy",
+      "History"
+    ]
   },
   {
     "id": "autumn-in-the-heavenly-kingdom-by-stephen-platt",
@@ -4717,7 +5828,10 @@
     "wordCount": 3525,
     "readingTimeMinutes": 16,
     "originalUrl": "https://docs.google.com/document/d/1pRQbRbEUwSH_jm94PI_ij-88swat7vQ4iNaNp6gd39g",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "History"
+    ]
   },
   {
     "id": "bronze-age-mindset",
@@ -4733,7 +5847,11 @@
     "wordCount": 1572,
     "readingTimeMinutes": 7,
     "originalUrl": "https://docs.google.com/document/d/1pRQbRbEUwSH_jm94PI_ij-88swat7vQ4iNaNp6gd39g",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Philosophy",
+      "Society"
+    ]
   },
   {
     "id": "capital-and-ideology-by-thomas-piketty",
@@ -4749,7 +5867,12 @@
     "wordCount": 4869,
     "readingTimeMinutes": 22,
     "originalUrl": "https://docs.google.com/document/d/1pRQbRbEUwSH_jm94PI_ij-88swat7vQ4iNaNp6gd39g",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Economics",
+      "History",
+      "Politics"
+    ]
   },
   {
     "id": "civilization-and-its-discontents-by-sigmund-freud",
@@ -4765,7 +5888,12 @@
     "wordCount": 5726,
     "readingTimeMinutes": 26,
     "originalUrl": "https://docs.google.com/document/d/1pRQbRbEUwSH_jm94PI_ij-88swat7vQ4iNaNp6gd39g",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Psychology",
+      "Philosophy",
+      "Society"
+    ]
   },
   {
     "id": "an-empirical-introduction-to-youth-by-joseph-bronski",
@@ -4781,7 +5909,10 @@
     "wordCount": 6968,
     "readingTimeMinutes": 31,
     "originalUrl": "https://docs.google.com/document/d/1pRQbRbEUwSH_jm94PI_ij-88swat7vQ4iNaNp6gd39g",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Society"
+    ]
   },
   {
     "id": "anthropic-bias-by-nick-bostrom",
@@ -4797,7 +5928,11 @@
     "wordCount": 4252,
     "readingTimeMinutes": 19,
     "originalUrl": "https://docs.google.com/document/d/1pRQbRbEUwSH_jm94PI_ij-88swat7vQ4iNaNp6gd39g",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Philosophy",
+      "Science"
+    ]
   },
   {
     "id": "albion-in-twelve-books",
@@ -4813,7 +5948,11 @@
     "wordCount": 5225,
     "readingTimeMinutes": 24,
     "originalUrl": "https://docs.google.com/document/d/1pRQbRbEUwSH_jm94PI_ij-88swat7vQ4iNaNp6gd39g",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Fiction",
+      "History"
+    ]
   },
   {
     "id": "an-education-for-our-time-by-josiah-bunting-iii",
@@ -4829,7 +5968,11 @@
     "wordCount": 6792,
     "readingTimeMinutes": 31,
     "originalUrl": "https://docs.google.com/document/d/1pRQbRbEUwSH_jm94PI_ij-88swat7vQ4iNaNp6gd39g",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Society",
+      "Politics"
+    ]
   },
   {
     "id": "1587-a-year-of-no-significance-the-ming-dynasty-in-decline-by-ray-huang",
@@ -4845,7 +5988,10 @@
     "wordCount": 8711,
     "readingTimeMinutes": 39,
     "originalUrl": "https://docs.google.com/document/d/1pRQbRbEUwSH_jm94PI_ij-88swat7vQ4iNaNp6gd39g",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "History"
+    ]
   },
   {
     "id": "a-supposedly-fun-thing-ill-never-do-again-by-david-foster-wallace",
@@ -4861,7 +6007,11 @@
     "wordCount": 4668,
     "readingTimeMinutes": 21,
     "originalUrl": "https://docs.google.com/document/d/1pRQbRbEUwSH_jm94PI_ij-88swat7vQ4iNaNp6gd39g",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Fiction",
+      "Society"
+    ]
   },
   {
     "id": "a-swim-in-a-pond-in-the-rain-by-george-saunders",
@@ -4877,7 +6027,10 @@
     "wordCount": 1518,
     "readingTimeMinutes": 7,
     "originalUrl": "https://docs.google.com/document/d/1pRQbRbEUwSH_jm94PI_ij-88swat7vQ4iNaNp6gd39g",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Fiction"
+    ]
   },
   {
     "id": "ageless-the-new-science-of-getting-older-without-getting-old-by-andrew-steele",
@@ -4893,7 +6046,11 @@
     "wordCount": 2868,
     "readingTimeMinutes": 13,
     "originalUrl": "https://docs.google.com/document/d/1pRQbRbEUwSH_jm94PI_ij-88swat7vQ4iNaNp6gd39g",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Science",
+      "Biology"
+    ]
   },
   {
     "id": "a-history-of-the-ancient-near-east",
@@ -4909,7 +6066,10 @@
     "wordCount": 10381,
     "readingTimeMinutes": 47,
     "originalUrl": "https://docs.google.com/document/d/1pRQbRbEUwSH_jm94PI_ij-88swat7vQ4iNaNp6gd39g",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "History"
+    ]
   },
   {
     "id": "a-secular-age-by-charles-taylor",
@@ -4925,7 +6085,12 @@
     "wordCount": 8321,
     "readingTimeMinutes": 37,
     "originalUrl": "https://docs.google.com/document/d/1pRQbRbEUwSH_jm94PI_ij-88swat7vQ4iNaNp6gd39g",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Religion",
+      "Philosophy",
+      "Society"
+    ]
   },
   {
     "id": "a-connecticut-yankee-in-king-arthurs-court-by-mark-twain",
@@ -4941,7 +6106,11 @@
     "wordCount": 4450,
     "readingTimeMinutes": 20,
     "originalUrl": "https://docs.google.com/document/d/1pRQbRbEUwSH_jm94PI_ij-88swat7vQ4iNaNp6gd39g",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Fiction",
+      "History"
+    ]
   },
   {
     "id": "a-failure-of-nerve-leadership-in-the-age-of-the-quick-fix-by-edwin-h-friedman",
@@ -4957,7 +6126,11 @@
     "wordCount": 4936,
     "readingTimeMinutes": 22,
     "originalUrl": "https://docs.google.com/document/d/1pRQbRbEUwSH_jm94PI_ij-88swat7vQ4iNaNp6gd39g",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Psychology",
+      "Society"
+    ]
   },
   {
     "id": "a-canticle-for-leibowitz-by-walter-m-miller-jr",
@@ -4973,7 +6146,11 @@
     "wordCount": 6005,
     "readingTimeMinutes": 27,
     "originalUrl": "https://docs.google.com/document/d/1pRQbRbEUwSH_jm94PI_ij-88swat7vQ4iNaNp6gd39g",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Fiction",
+      "Religion"
+    ]
   },
   {
     "id": "surface-detail-by-iain-m-banks",
@@ -4989,7 +6166,11 @@
     "wordCount": 9674,
     "readingTimeMinutes": 43,
     "originalUrl": "https://docs.google.com/document/d/1kQUUJhv-MpLawby2j4zXLZPDG6ligWd5xpIjH8UmWdw",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Fiction",
+      "Technology"
+    ]
   },
   {
     "id": "sweet-valley-confidential-by-francine-pascal",
@@ -5005,7 +6186,11 @@
     "wordCount": 3598,
     "readingTimeMinutes": 16,
     "originalUrl": "https://docs.google.com/document/d/1kQUUJhv-MpLawby2j4zXLZPDG6ligWd5xpIjH8UmWdw",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Fiction",
+      "Society"
+    ]
   },
   {
     "id": "san-fransicko-why-progressives-ruin-cities-by-michael-shellenberger",
@@ -5021,7 +6206,11 @@
     "wordCount": 3752,
     "readingTimeMinutes": 17,
     "originalUrl": "https://docs.google.com/document/d/1kQUUJhv-MpLawby2j4zXLZPDG6ligWd5xpIjH8UmWdw",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Politics",
+      "Society"
+    ]
   },
   {
     "id": "slaughterhouse-five-and-breakfast-of-champions-by-kurt-vonnegut",
@@ -5037,7 +6226,11 @@
     "wordCount": 2641,
     "readingTimeMinutes": 12,
     "originalUrl": "https://docs.google.com/document/d/1kQUUJhv-MpLawby2j4zXLZPDG6ligWd5xpIjH8UmWdw",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Fiction",
+      "History"
+    ]
   },
   {
     "id": "storm-of-steel-by-ernst-junger",
@@ -5053,7 +6246,11 @@
     "wordCount": 2441,
     "readingTimeMinutes": 11,
     "originalUrl": "https://docs.google.com/document/d/1kQUUJhv-MpLawby2j4zXLZPDG6ligWd5xpIjH8UmWdw",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "History",
+      "Memoir"
+    ]
   },
   {
     "id": "reason-and-society-in-the-middle-ages-by-alexander-murray",
@@ -5069,7 +6266,11 @@
     "wordCount": 4485,
     "readingTimeMinutes": 20,
     "originalUrl": "https://docs.google.com/document/d/1kQUUJhv-MpLawby2j4zXLZPDG6ligWd5xpIjH8UmWdw",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "History",
+      "Philosophy"
+    ]
   },
   {
     "id": "robert-e-lee-a-life-by-allen-c-guelzo",
@@ -5085,7 +6286,11 @@
     "wordCount": 6416,
     "readingTimeMinutes": 29,
     "originalUrl": "https://docs.google.com/document/d/1kQUUJhv-MpLawby2j4zXLZPDG6ligWd5xpIjH8UmWdw",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "History",
+      "Memoir"
+    ]
   },
   {
     "id": "rationality-what-it-is-why-it-seems-scarce-why-it-matters-by-steven-pinker",
@@ -5101,7 +6306,11 @@
     "wordCount": 35700,
     "readingTimeMinutes": 159,
     "originalUrl": "https://docs.google.com/document/d/1kQUUJhv-MpLawby2j4zXLZPDG6ligWd5xpIjH8UmWdw",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Philosophy",
+      "Psychology"
+    ]
   },
   {
     "id": "pericles-by-vincent-aulay",
@@ -5117,7 +6326,11 @@
     "wordCount": 3766,
     "readingTimeMinutes": 17,
     "originalUrl": "https://docs.google.com/document/d/1kQUUJhv-MpLawby2j4zXLZPDG6ligWd5xpIjH8UmWdw",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "History",
+      "Politics"
+    ]
   },
   {
     "id": "private-government-by-elizabeth-anderson",
@@ -5133,7 +6346,12 @@
     "wordCount": 5363,
     "readingTimeMinutes": 24,
     "originalUrl": "https://docs.google.com/document/d/1kQUUJhv-MpLawby2j4zXLZPDG6ligWd5xpIjH8UmWdw",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Politics",
+      "Economics",
+      "Philosophy"
+    ]
   },
   {
     "id": "public-choice-theory-and-the-illusion-of-grand-strategy-how-generals-weapons-manufacturers-and-foreign-governments-shape-american-foreign-policy-by-richard-hanania",
@@ -5149,7 +6367,11 @@
     "wordCount": 7035,
     "readingTimeMinutes": 32,
     "originalUrl": "https://docs.google.com/document/d/1kQUUJhv-MpLawby2j4zXLZPDG6ligWd5xpIjH8UmWdw",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Politics",
+      "Economics"
+    ]
   },
   {
     "id": "now-it-can-be-told-the-story-of-the-manhattan-project-by-general-leslie-m-groves",
@@ -5165,7 +6387,11 @@
     "wordCount": 19710,
     "readingTimeMinutes": 88,
     "originalUrl": "https://docs.google.com/document/d/1kQUUJhv-MpLawby2j4zXLZPDG6ligWd5xpIjH8UmWdw",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "History",
+      "Science"
+    ]
   },
   {
     "id": "peak-secrets-from-the-new-science-of-expertise-by-anders-ericsson",
@@ -5181,7 +6407,11 @@
     "wordCount": 3197,
     "readingTimeMinutes": 15,
     "originalUrl": "https://docs.google.com/document/d/1kQUUJhv-MpLawby2j4zXLZPDG6ligWd5xpIjH8UmWdw",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Psychology",
+      "Science"
+    ]
   },
   {
     "id": "moscow-petushki-by-venedikt-yerofeyev",
@@ -5197,7 +6427,10 @@
     "wordCount": 8807,
     "readingTimeMinutes": 40,
     "originalUrl": "https://docs.google.com/document/d/1kQUUJhv-MpLawby2j4zXLZPDG6ligWd5xpIjH8UmWdw",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Fiction"
+    ]
   },
   {
     "id": "nobody-wants-to-read-your-sht-by-steven-pressfield",
@@ -5213,7 +6446,10 @@
     "wordCount": 1461,
     "readingTimeMinutes": 7,
     "originalUrl": "https://docs.google.com/document/d/1kQUUJhv-MpLawby2j4zXLZPDG6ligWd5xpIjH8UmWdw",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Society"
+    ]
   },
   {
     "id": "memories-of-my-life-by-francis-galton",
@@ -5229,7 +6465,11 @@
     "wordCount": 5583,
     "readingTimeMinutes": 25,
     "originalUrl": "https://docs.google.com/document/d/1kQUUJhv-MpLawby2j4zXLZPDG6ligWd5xpIjH8UmWdw",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Memoir",
+      "Science"
+    ]
   },
   {
     "id": "mind-and-cosmos-by-thomas-nagel",
@@ -5245,7 +6485,11 @@
     "wordCount": 5386,
     "readingTimeMinutes": 24,
     "originalUrl": "https://docs.google.com/document/d/1kQUUJhv-MpLawby2j4zXLZPDG6ligWd5xpIjH8UmWdw",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Philosophy",
+      "Science"
+    ]
   },
   {
     "id": "more-work-for-mother-the-ironies-of-household-technology-from-the-open-hearth-to-the-microwave-by-ruth-schwartz-cowan",
@@ -5261,7 +6505,12 @@
     "wordCount": 3869,
     "readingTimeMinutes": 18,
     "originalUrl": "https://docs.google.com/document/d/1kQUUJhv-MpLawby2j4zXLZPDG6ligWd5xpIjH8UmWdw",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "History",
+      "Technology",
+      "Society"
+    ]
   },
   {
     "id": "making-sense-of-tantric-buddhism-history-semiology-and-transgression-in-the-indian-traditions-by-christian-k-wedemeyer",
@@ -5277,7 +6526,11 @@
     "wordCount": 5818,
     "readingTimeMinutes": 26,
     "originalUrl": "https://docs.google.com/document/d/1kQUUJhv-MpLawby2j4zXLZPDG6ligWd5xpIjH8UmWdw",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Religion",
+      "History"
+    ]
   },
   {
     "id": "leisure-the-basis-of-culture-by-josef-pieper",
@@ -5293,7 +6546,11 @@
     "wordCount": 4148,
     "readingTimeMinutes": 19,
     "originalUrl": "https://docs.google.com/document/d/1kQUUJhv-MpLawby2j4zXLZPDG6ligWd5xpIjH8UmWdw",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Philosophy",
+      "Society"
+    ]
   },
   {
     "id": "making-nature-the-history-of-a-scientific-journal-by-melinda-baldwin",
@@ -5309,7 +6566,11 @@
     "wordCount": 6416,
     "readingTimeMinutes": 29,
     "originalUrl": "https://docs.google.com/document/d/1kQUUJhv-MpLawby2j4zXLZPDG6ligWd5xpIjH8UmWdw",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Science",
+      "History"
+    ]
   },
   {
     "id": "island-by-aldous-huxley",
@@ -5325,7 +6586,11 @@
     "wordCount": 2740,
     "readingTimeMinutes": 13,
     "originalUrl": "https://docs.google.com/document/d/1kQUUJhv-MpLawby2j4zXLZPDG6ligWd5xpIjH8UmWdw",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Fiction",
+      "Philosophy"
+    ]
   },
   {
     "id": "jamberry-by-bruce-degen",
@@ -5341,7 +6606,10 @@
     "wordCount": 822,
     "readingTimeMinutes": 4,
     "originalUrl": "https://docs.google.com/document/d/1kQUUJhv-MpLawby2j4zXLZPDG6ligWd5xpIjH8UmWdw",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Fiction"
+    ]
   },
   {
     "id": "japan-at-war-an-oral-history-by-haruko-taya-cook-and-theodore-failor-cook",
@@ -5357,7 +6625,10 @@
     "wordCount": 4841,
     "readingTimeMinutes": 22,
     "originalUrl": "https://docs.google.com/document/d/1kQUUJhv-MpLawby2j4zXLZPDG6ligWd5xpIjH8UmWdw",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "History"
+    ]
   },
   {
     "id": "kora-in-hell-improvisations-by-william-carlos-williams",
@@ -5373,7 +6644,10 @@
     "wordCount": 3116,
     "readingTimeMinutes": 14,
     "originalUrl": "https://docs.google.com/document/d/1kQUUJhv-MpLawby2j4zXLZPDG6ligWd5xpIjH8UmWdw",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Fiction"
+    ]
   },
   {
     "id": "industrial-society-and-its-future-by-ted-kaczynski-also-known-as-the-unabomber-manifesto",
@@ -5389,7 +6663,12 @@
     "wordCount": 5228,
     "readingTimeMinutes": 24,
     "originalUrl": "https://docs.google.com/document/d/1kQUUJhv-MpLawby2j4zXLZPDG6ligWd5xpIjH8UmWdw",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Society",
+      "Technology",
+      "Philosophy"
+    ]
   },
   {
     "id": "inventing-temperature-measurement-and-scientific-progress-by-hasok-chang",
@@ -5405,7 +6684,11 @@
     "wordCount": 8161,
     "readingTimeMinutes": 37,
     "originalUrl": "https://docs.google.com/document/d/1kQUUJhv-MpLawby2j4zXLZPDG6ligWd5xpIjH8UmWdw",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Science",
+      "History"
+    ]
   },
   {
     "id": "irreversible-damage-the-transgender-craze-seducing-our-daughters-by-abigail-shrier",
@@ -5421,7 +6704,11 @@
     "wordCount": 3902,
     "readingTimeMinutes": 18,
     "originalUrl": "https://docs.google.com/document/d/1kQUUJhv-MpLawby2j4zXLZPDG6ligWd5xpIjH8UmWdw",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Society",
+      "Psychology"
+    ]
   },
   {
     "id": "i-see-satan-fall-like-lightning-by-ren-girard",
@@ -5437,7 +6724,11 @@
     "wordCount": 5590,
     "readingTimeMinutes": 25,
     "originalUrl": "https://docs.google.com/document/d/1kQUUJhv-MpLawby2j4zXLZPDG6ligWd5xpIjH8UmWdw",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Religion",
+      "Philosophy"
+    ]
   },
   {
     "id": "in-search-of-canadian-political-culture-by-nelson-wiseman",
@@ -5453,7 +6744,11 @@
     "wordCount": 8074,
     "readingTimeMinutes": 36,
     "originalUrl": "https://docs.google.com/document/d/1kQUUJhv-MpLawby2j4zXLZPDG6ligWd5xpIjH8UmWdw",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Politics",
+      "Society"
+    ]
   },
   {
     "id": "the-myth-of-mental-illness-by-thomas-szasz",
@@ -5469,7 +6764,11 @@
     "wordCount": 8030,
     "readingTimeMinutes": 36,
     "originalUrl": "https://docs.google.com/document/d/100kMdSVFviZSSBvUyyEQPMNlvLptVQxHFD9i9wGuBWs",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Psychology",
+      "Philosophy"
+    ]
   },
   {
     "id": "the-man-who-quit-money-by-mark-sundeen",
@@ -5485,7 +6784,11 @@
     "wordCount": 8887,
     "readingTimeMinutes": 40,
     "originalUrl": "https://docs.google.com/document/d/100kMdSVFviZSSBvUyyEQPMNlvLptVQxHFD9i9wGuBWs",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Memoir",
+      "Society"
+    ]
   },
   {
     "id": "the-mathematics-of-poker-by-bill-chen-and-jerrod-ankenman",
@@ -5501,7 +6804,10 @@
     "wordCount": 2786,
     "readingTimeMinutes": 13,
     "originalUrl": "https://docs.google.com/document/d/100kMdSVFviZSSBvUyyEQPMNlvLptVQxHFD9i9wGuBWs",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Science"
+    ]
   },
   {
     "id": "the-matter-with-things-by-iain-mcgilchrist",
@@ -5517,7 +6823,11 @@
     "wordCount": 3581,
     "readingTimeMinutes": 16,
     "originalUrl": "https://docs.google.com/document/d/100kMdSVFviZSSBvUyyEQPMNlvLptVQxHFD9i9wGuBWs",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Science",
+      "Philosophy"
+    ]
   },
   {
     "id": "the-mirror-and-the-light-by-hilary-mantel",
@@ -5533,7 +6843,11 @@
     "wordCount": 4079,
     "readingTimeMinutes": 19,
     "originalUrl": "https://docs.google.com/document/d/100kMdSVFviZSSBvUyyEQPMNlvLptVQxHFD9i9wGuBWs",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Fiction",
+      "History"
+    ]
   },
   {
     "id": "the-motivation-hacker-by-nick-winter",
@@ -5549,7 +6863,10 @@
     "wordCount": 5060,
     "readingTimeMinutes": 23,
     "originalUrl": "https://docs.google.com/document/d/100kMdSVFviZSSBvUyyEQPMNlvLptVQxHFD9i9wGuBWs",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Psychology"
+    ]
   },
   {
     "id": "the-internationalists-by-oona-hathaway-and-scott-shapiro",
@@ -5565,7 +6882,11 @@
     "wordCount": 8785,
     "readingTimeMinutes": 40,
     "originalUrl": "https://docs.google.com/document/d/100kMdSVFviZSSBvUyyEQPMNlvLptVQxHFD9i9wGuBWs",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "History",
+      "Politics"
+    ]
   },
   {
     "id": "the-irony-of-american-history-by-reinhold-niebuhr",
@@ -5581,7 +6902,12 @@
     "wordCount": 6513,
     "readingTimeMinutes": 29,
     "originalUrl": "https://docs.google.com/document/d/100kMdSVFviZSSBvUyyEQPMNlvLptVQxHFD9i9wGuBWs",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "History",
+      "Religion",
+      "Politics"
+    ]
   },
   {
     "id": "the-knowledge-how-to-rebuild-our-world-from-scratch-by-lewis-dartnell",
@@ -5597,7 +6923,11 @@
     "wordCount": 8077,
     "readingTimeMinutes": 36,
     "originalUrl": "https://docs.google.com/document/d/100kMdSVFviZSSBvUyyEQPMNlvLptVQxHFD9i9wGuBWs",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Science",
+      "Technology"
+    ]
   },
   {
     "id": "the-high-frontier-human-colonies-in-space-by-gerard-k-oneill",
@@ -5613,7 +6943,11 @@
     "wordCount": 2087,
     "readingTimeMinutes": 10,
     "originalUrl": "https://docs.google.com/document/d/100kMdSVFviZSSBvUyyEQPMNlvLptVQxHFD9i9wGuBWs",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Science",
+      "Technology"
+    ]
   },
   {
     "id": "the-hundred-year-marathon-chinas-secret-strategy-to-replace-america-as-the-global-superpower-by-michael-pillsbury",
@@ -5629,7 +6963,11 @@
     "wordCount": 12834,
     "readingTimeMinutes": 58,
     "originalUrl": "https://docs.google.com/document/d/100kMdSVFviZSSBvUyyEQPMNlvLptVQxHFD9i9wGuBWs",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Politics",
+      "History"
+    ]
   },
   {
     "id": "the-extended-mind-by-annie-murphy-paul",
@@ -5645,7 +6983,11 @@
     "wordCount": 5195,
     "readingTimeMinutes": 24,
     "originalUrl": "https://docs.google.com/document/d/100kMdSVFviZSSBvUyyEQPMNlvLptVQxHFD9i9wGuBWs",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Psychology",
+      "Science"
+    ]
   },
   {
     "id": "the-fall-of-robespierre-24-hours-in-revolutionary-paris-by-colin-jones",
@@ -5661,7 +7003,11 @@
     "wordCount": 7670,
     "readingTimeMinutes": 35,
     "originalUrl": "https://docs.google.com/document/d/100kMdSVFviZSSBvUyyEQPMNlvLptVQxHFD9i9wGuBWs",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "History",
+      "Politics"
+    ]
   },
   {
     "id": "the-future-of-fusion-energy-by-jason-parisi-and-justin-ball",
@@ -5677,7 +7023,11 @@
     "wordCount": 4937,
     "readingTimeMinutes": 22,
     "originalUrl": "https://docs.google.com/document/d/100kMdSVFviZSSBvUyyEQPMNlvLptVQxHFD9i9wGuBWs",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Science",
+      "Technology"
+    ]
   },
   {
     "id": "the-goal-its-not-luck-by-eliyahu-goldratt",
@@ -5693,7 +7043,10 @@
     "wordCount": 4261,
     "readingTimeMinutes": 19,
     "originalUrl": "https://docs.google.com/document/d/100kMdSVFviZSSBvUyyEQPMNlvLptVQxHFD9i9wGuBWs",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Economics"
+    ]
   },
   {
     "id": "the-eighteenth-brumaire-of-louis-napoleon-by-karl-marx",
@@ -5709,7 +7062,11 @@
     "wordCount": 16958,
     "readingTimeMinutes": 76,
     "originalUrl": "https://docs.google.com/document/d/100kMdSVFviZSSBvUyyEQPMNlvLptVQxHFD9i9wGuBWs",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "History",
+      "Politics"
+    ]
   },
   {
     "id": "the-evolution-of-beauty-how-darwins-forgotten-theory-of-mate-choice-shapes-the-animal-world-and-us-by-richard-prum",
@@ -5725,7 +7082,10 @@
     "wordCount": 1309,
     "readingTimeMinutes": 6,
     "originalUrl": "https://docs.google.com/document/d/100kMdSVFviZSSBvUyyEQPMNlvLptVQxHFD9i9wGuBWs",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Biology"
+    ]
   },
   {
     "id": "the-diamond-age-or-a-young-ladys-illustrated-primer-by-neal-stephenson",
@@ -5741,7 +7101,11 @@
     "wordCount": 1990,
     "readingTimeMinutes": 9,
     "originalUrl": "https://docs.google.com/document/d/100kMdSVFviZSSBvUyyEQPMNlvLptVQxHFD9i9wGuBWs",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Fiction",
+      "Technology"
+    ]
   },
   {
     "id": "the-doomsday-machine-confessions-of-a-nuclear-war-planner-by-daniel-ellsberg",
@@ -5757,7 +7121,11 @@
     "wordCount": 8622,
     "readingTimeMinutes": 39,
     "originalUrl": "https://docs.google.com/document/d/100kMdSVFviZSSBvUyyEQPMNlvLptVQxHFD9i9wGuBWs",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "History",
+      "Politics"
+    ]
   },
   {
     "id": "the-ecotechnic-future-by-john-michael-greer",
@@ -5773,7 +7141,11 @@
     "wordCount": 9962,
     "readingTimeMinutes": 45,
     "originalUrl": "https://docs.google.com/document/d/100kMdSVFviZSSBvUyyEQPMNlvLptVQxHFD9i9wGuBWs",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Technology",
+      "Society"
+    ]
   },
   {
     "id": "the-dark-forest-by-liu-cixin",
@@ -5789,7 +7161,11 @@
     "wordCount": 6422,
     "readingTimeMinutes": 29,
     "originalUrl": "https://docs.google.com/document/d/100kMdSVFviZSSBvUyyEQPMNlvLptVQxHFD9i9wGuBWs",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Fiction",
+      "Science"
+    ]
   },
   {
     "id": "the-dawn-of-everything-a-new-history-of-humanity-by-david-graeber-and-david-wengrow",
@@ -5805,7 +7181,11 @@
     "wordCount": 9487,
     "readingTimeMinutes": 43,
     "originalUrl": "https://docs.google.com/document/d/100kMdSVFviZSSBvUyyEQPMNlvLptVQxHFD9i9wGuBWs",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "History",
+      "Society"
+    ]
   },
   {
     "id": "the-deficit-myth-by-stephanie-kelton",
@@ -5821,7 +7201,11 @@
     "wordCount": 3990,
     "readingTimeMinutes": 18,
     "originalUrl": "https://docs.google.com/document/d/100kMdSVFviZSSBvUyyEQPMNlvLptVQxHFD9i9wGuBWs",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Economics",
+      "Politics"
+    ]
   },
   {
     "id": "the-castrato-by-martha-feldman",
@@ -5837,7 +7221,11 @@
     "wordCount": 8902,
     "readingTimeMinutes": 40,
     "originalUrl": "https://docs.google.com/document/d/100kMdSVFviZSSBvUyyEQPMNlvLptVQxHFD9i9wGuBWs",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "History",
+      "Society"
+    ]
   },
   {
     "id": "the-condition-of-postmodernity-an-enquiry-into-the-origins-of-cultural-change",
@@ -5853,7 +7241,12 @@
     "wordCount": 6861,
     "readingTimeMinutes": 31,
     "originalUrl": "https://docs.google.com/document/d/100kMdSVFviZSSBvUyyEQPMNlvLptVQxHFD9i9wGuBWs",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Philosophy",
+      "Society",
+      "History"
+    ]
   },
   {
     "id": "the-brothers-karamazov-by-fyodor-dostoevsky",
@@ -5869,7 +7262,11 @@
     "wordCount": 15354,
     "readingTimeMinutes": 69,
     "originalUrl": "https://docs.google.com/document/d/100kMdSVFviZSSBvUyyEQPMNlvLptVQxHFD9i9wGuBWs",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Fiction",
+      "Philosophy"
+    ]
   },
   {
     "id": "epilogue",
@@ -5885,7 +7282,10 @@
     "wordCount": 1826,
     "readingTimeMinutes": 9,
     "originalUrl": "https://docs.google.com/document/d/100kMdSVFviZSSBvUyyEQPMNlvLptVQxHFD9i9wGuBWs",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Science"
+    ]
   },
   {
     "id": "the-ladder-of-causation",
@@ -5901,7 +7301,11 @@
     "wordCount": 8954,
     "readingTimeMinutes": 40,
     "originalUrl": "https://docs.google.com/document/d/100kMdSVFviZSSBvUyyEQPMNlvLptVQxHFD9i9wGuBWs",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Science",
+      "Philosophy"
+    ]
   },
   {
     "id": "fisher-is-evil",
@@ -5917,7 +7321,10 @@
     "wordCount": 3059,
     "readingTimeMinutes": 14,
     "originalUrl": "https://docs.google.com/document/d/100kMdSVFviZSSBvUyyEQPMNlvLptVQxHFD9i9wGuBWs",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Science"
+    ]
   },
   {
     "id": "prologue-three-jews-on-the-internet",
@@ -5933,7 +7340,10 @@
     "wordCount": 1242,
     "readingTimeMinutes": 6,
     "originalUrl": "https://docs.google.com/document/d/100kMdSVFviZSSBvUyyEQPMNlvLptVQxHFD9i9wGuBWs",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Science"
+    ]
   },
   {
     "id": "the-book-of-blam-by-aleksander-tima",
@@ -5949,7 +7359,11 @@
     "wordCount": 5299,
     "readingTimeMinutes": 24,
     "originalUrl": "https://docs.google.com/document/d/100kMdSVFviZSSBvUyyEQPMNlvLptVQxHFD9i9wGuBWs",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Fiction",
+      "History"
+    ]
   },
   {
     "id": "the-monty-hall-paradox",
@@ -5965,7 +7379,10 @@
     "wordCount": 3357,
     "readingTimeMinutes": 15,
     "originalUrl": "https://docs.google.com/document/d/100kMdSVFviZSSBvUyyEQPMNlvLptVQxHFD9i9wGuBWs",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Science"
+    ]
   },
   {
     "id": "the-anti-politics-machine-by-james-ferguson",
@@ -5981,7 +7398,11 @@
     "wordCount": 4295,
     "readingTimeMinutes": 20,
     "originalUrl": "https://docs.google.com/document/d/100kMdSVFviZSSBvUyyEQPMNlvLptVQxHFD9i9wGuBWs",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Politics",
+      "Economics"
+    ]
   },
   {
     "id": "the-axis-of-madness",
@@ -5997,7 +7418,10 @@
     "wordCount": 2701,
     "readingTimeMinutes": 13,
     "originalUrl": "https://docs.google.com/document/d/100kMdSVFviZSSBvUyyEQPMNlvLptVQxHFD9i9wGuBWs",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Fiction"
+    ]
   },
   {
     "id": "the-beginning-of-infinity-by-david-deutsch",
@@ -6013,7 +7437,11 @@
     "wordCount": 6583,
     "readingTimeMinutes": 30,
     "originalUrl": "https://docs.google.com/document/d/100kMdSVFviZSSBvUyyEQPMNlvLptVQxHFD9i9wGuBWs",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Science",
+      "Philosophy"
+    ]
   },
   {
     "id": "the-book-of-all-hours-series-vellum-and-ink-by-hal-duncan",
@@ -6029,7 +7457,10 @@
     "wordCount": 4335,
     "readingTimeMinutes": 20,
     "originalUrl": "https://docs.google.com/document/d/100kMdSVFviZSSBvUyyEQPMNlvLptVQxHFD9i9wGuBWs",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Fiction"
+    ]
   },
   {
     "id": "termination-shock-by-neal-stephenson",
@@ -6045,7 +7476,11 @@
     "wordCount": 9214,
     "readingTimeMinutes": 41,
     "originalUrl": "https://docs.google.com/document/d/100kMdSVFviZSSBvUyyEQPMNlvLptVQxHFD9i9wGuBWs",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Fiction",
+      "Science"
+    ]
   },
   {
     "id": "the-age-of-the-infovore-by-tyler-cowen",
@@ -6061,7 +7496,11 @@
     "wordCount": 675,
     "readingTimeMinutes": 3,
     "originalUrl": "https://docs.google.com/document/d/100kMdSVFviZSSBvUyyEQPMNlvLptVQxHFD9i9wGuBWs",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Society",
+      "Psychology"
+    ]
   },
   {
     "id": "troubled-blood-by-jk-rowling",
@@ -6077,7 +7516,10 @@
     "wordCount": 2103,
     "readingTimeMinutes": 10,
     "originalUrl": "https://docs.google.com/document/d/100kMdSVFviZSSBvUyyEQPMNlvLptVQxHFD9i9wGuBWs",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Fiction"
+    ]
   },
   {
     "id": "whiteshift-populism-immigration-and-the-future-of-white-majorities",
@@ -6093,7 +7535,11 @@
     "wordCount": 5348,
     "readingTimeMinutes": 24,
     "originalUrl": "https://docs.google.com/document/d/1hFzjXliCAWjvheY-8Qd2fhbF79LnX0Xg6R9eqk9yIyI",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Politics",
+      "Society"
+    ]
   },
   {
     "id": "who-wrote-the-bible-by-richard-elliott-friedman",
@@ -6109,7 +7555,11 @@
     "wordCount": 8303,
     "readingTimeMinutes": 37,
     "originalUrl": "https://docs.google.com/document/d/1hFzjXliCAWjvheY-8Qd2fhbF79LnX0Xg6R9eqk9yIyI",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Religion",
+      "History"
+    ]
   },
   {
     "id": "ynomam-the-fierce-people-by-napoleon-chagnon",
@@ -6125,7 +7575,11 @@
     "wordCount": 4049,
     "readingTimeMinutes": 18,
     "originalUrl": "https://docs.google.com/document/d/1hFzjXliCAWjvheY-8Qd2fhbF79LnX0Xg6R9eqk9yIyI",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Society",
+      "Biology"
+    ]
   },
   {
     "id": "viral-by-alina-chan-and-matt-ridley",
@@ -6141,7 +7595,11 @@
     "wordCount": 6297,
     "readingTimeMinutes": 28,
     "originalUrl": "https://docs.google.com/document/d/1hFzjXliCAWjvheY-8Qd2fhbF79LnX0Xg6R9eqk9yIyI",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Science",
+      "Politics"
+    ]
   },
   {
     "id": "war-in-human-civilization-by-azar-gat",
@@ -6157,7 +7615,11 @@
     "wordCount": 7421,
     "readingTimeMinutes": 33,
     "originalUrl": "https://docs.google.com/document/d/1hFzjXliCAWjvheY-8Qd2fhbF79LnX0Xg6R9eqk9yIyI",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "History",
+      "Biology"
+    ]
   },
   {
     "id": "when-men-behave-badly-by-david-buss",
@@ -6173,7 +7635,11 @@
     "wordCount": 4394,
     "readingTimeMinutes": 20,
     "originalUrl": "https://docs.google.com/document/d/1hFzjXliCAWjvheY-8Qd2fhbF79LnX0Xg6R9eqk9yIyI",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Psychology",
+      "Biology"
+    ]
   },
   {
     "id": "very-important-people-status-and-beauty-in-the-global-party-circuit",
@@ -6189,7 +7655,10 @@
     "wordCount": 32080,
     "readingTimeMinutes": 143,
     "originalUrl": "https://docs.google.com/document/d/1hFzjXliCAWjvheY-8Qd2fhbF79LnX0Xg6R9eqk9yIyI",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Society"
+    ]
   },
   {
     "id": "unsettled-what-climate-science-tells-us-what-it-doesnt-and-why-it-matters-by-steven-e-koonin",
@@ -6205,7 +7674,11 @@
     "wordCount": 11201,
     "readingTimeMinutes": 50,
     "originalUrl": "https://docs.google.com/document/d/1hFzjXliCAWjvheY-8Qd2fhbF79LnX0Xg6R9eqk9yIyI",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Science",
+      "Politics"
+    ]
   },
   {
     "id": "unsettled-what-climate-science-tells-us-what-it-doesnt-and-why-it-matters-by-steven-koonin",
@@ -6221,7 +7694,11 @@
     "wordCount": 18473,
     "readingTimeMinutes": 83,
     "originalUrl": "https://docs.google.com/document/d/1hFzjXliCAWjvheY-8Qd2fhbF79LnX0Xg6R9eqk9yIyI",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Science",
+      "Politics"
+    ]
   },
   {
     "id": "trump-the-art-of-the-deal-by-donald-trump-and-tony-schwartz",
@@ -6237,7 +7714,11 @@
     "wordCount": 6224,
     "readingTimeMinutes": 28,
     "originalUrl": "https://docs.google.com/document/d/1hFzjXliCAWjvheY-8Qd2fhbF79LnX0Xg6R9eqk9yIyI",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Politics",
+      "Memoir"
+    ]
   },
   {
     "id": "the-yom-kippur-war-the-epic-encounter-that-transformed-the-middle-east-by-abraham-rabinovich",
@@ -6253,7 +7734,10 @@
     "wordCount": 3662,
     "readingTimeMinutes": 17,
     "originalUrl": "https://docs.google.com/document/d/1hFzjXliCAWjvheY-8Qd2fhbF79LnX0Xg6R9eqk9yIyI",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "History"
+    ]
   },
   {
     "id": "three-years-in-tibet-by-ekai-kawaguchi",
@@ -6269,7 +7753,11 @@
     "wordCount": 2934,
     "readingTimeMinutes": 14,
     "originalUrl": "https://docs.google.com/document/d/1hFzjXliCAWjvheY-8Qd2fhbF79LnX0Xg6R9eqk9yIyI",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Memoir",
+      "Religion"
+    ]
   },
   {
     "id": "trans-when-ideology-meets-reality-by-helen-joyce",
@@ -6285,7 +7773,11 @@
     "wordCount": 4663,
     "readingTimeMinutes": 21,
     "originalUrl": "https://docs.google.com/document/d/1hFzjXliCAWjvheY-8Qd2fhbF79LnX0Xg6R9eqk9yIyI",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Society",
+      "Politics"
+    ]
   },
   {
     "id": "the-society-of-the-spectacle-by-guy-debord",
@@ -6301,7 +7793,11 @@
     "wordCount": 9554,
     "readingTimeMinutes": 43,
     "originalUrl": "https://docs.google.com/document/d/1hFzjXliCAWjvheY-8Qd2fhbF79LnX0Xg6R9eqk9yIyI",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Philosophy",
+      "Society"
+    ]
   },
   {
     "id": "the-tyranny-of-metrics-by-jerry-z-muller",
@@ -6317,7 +7813,11 @@
     "wordCount": 1533,
     "readingTimeMinutes": 7,
     "originalUrl": "https://docs.google.com/document/d/1hFzjXliCAWjvheY-8Qd2fhbF79LnX0Xg6R9eqk9yIyI",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Society",
+      "Economics"
+    ]
   },
   {
     "id": "the-virus-in-the-age-of-madness-by-bernard-henri-lvy",
@@ -6333,7 +7833,11 @@
     "wordCount": 3835,
     "readingTimeMinutes": 18,
     "originalUrl": "https://docs.google.com/document/d/1hFzjXliCAWjvheY-8Qd2fhbF79LnX0Xg6R9eqk9yIyI",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Society",
+      "Politics"
+    ]
   },
   {
     "id": "the-righteous-mind-by-jonathan-haidt",
@@ -6349,7 +7853,12 @@
     "wordCount": 11920,
     "readingTimeMinutes": 53,
     "originalUrl": "https://docs.google.com/document/d/1hFzjXliCAWjvheY-8Qd2fhbF79LnX0Xg6R9eqk9yIyI",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Psychology",
+      "Philosophy",
+      "Politics"
+    ]
   },
   {
     "id": "the-russian-revolution-a-new-history-by-sean-mcmeekin",
@@ -6365,7 +7874,11 @@
     "wordCount": 8189,
     "readingTimeMinutes": 37,
     "originalUrl": "https://docs.google.com/document/d/1hFzjXliCAWjvheY-8Qd2fhbF79LnX0Xg6R9eqk9yIyI",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "History",
+      "Politics"
+    ]
   },
   {
     "id": "the-republic-by-plato",
@@ -6381,7 +7894,11 @@
     "wordCount": 6704,
     "readingTimeMinutes": 30,
     "originalUrl": "https://docs.google.com/document/d/1hFzjXliCAWjvheY-8Qd2fhbF79LnX0Xg6R9eqk9yIyI",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Philosophy",
+      "Politics"
+    ]
   },
   {
     "id": "the-origins-of-the-second-world-war-by-ajp-taylor",
@@ -6397,7 +7914,11 @@
     "wordCount": 3882,
     "readingTimeMinutes": 18,
     "originalUrl": "https://docs.google.com/document/d/1hFzjXliCAWjvheY-8Qd2fhbF79LnX0Xg6R9eqk9yIyI",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "History",
+      "Politics"
+    ]
   },
   {
     "id": "the-outlier-the-unfinished-presidency-of-jimmy-carter-by-kai-bird",
@@ -6413,7 +7934,12 @@
     "wordCount": 5683,
     "readingTimeMinutes": 26,
     "originalUrl": "https://docs.google.com/document/d/1hFzjXliCAWjvheY-8Qd2fhbF79LnX0Xg6R9eqk9yIyI",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "History",
+      "Politics",
+      "Memoir"
+    ]
   },
   {
     "id": "the-party-the-secret-world-of-chinas-communist-rulers-by-richard-mcgregor",
@@ -6429,7 +7955,11 @@
     "wordCount": 4047,
     "readingTimeMinutes": 18,
     "originalUrl": "https://docs.google.com/document/d/1hFzjXliCAWjvheY-8Qd2fhbF79LnX0Xg6R9eqk9yIyI",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Politics",
+      "History"
+    ]
   },
   {
     "id": "the-reckoning-by-david-halberstam",
@@ -6445,7 +7975,11 @@
     "wordCount": 2883,
     "readingTimeMinutes": 13,
     "originalUrl": "https://docs.google.com/document/d/1hFzjXliCAWjvheY-8Qd2fhbF79LnX0Xg6R9eqk9yIyI",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Economics",
+      "History"
+    ]
   },
   {
     "id": "the-narrow-road-to-the-deep-north-by-matsuo-basho",
@@ -6461,7 +7995,11 @@
     "wordCount": 1578,
     "readingTimeMinutes": 8,
     "originalUrl": "https://docs.google.com/document/d/1hFzjXliCAWjvheY-8Qd2fhbF79LnX0Xg6R9eqk9yIyI",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Fiction",
+      "Memoir"
+    ]
   },
   {
     "id": "the-new-science-of-strong-materials-by-j-e-gordon",
@@ -6477,7 +8015,11 @@
     "wordCount": 2654,
     "readingTimeMinutes": 12,
     "originalUrl": "https://docs.google.com/document/d/1hFzjXliCAWjvheY-8Qd2fhbF79LnX0Xg6R9eqk9yIyI",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Science",
+      "Technology"
+    ]
   },
   {
     "id": "the-one-world-schoolhouse-by-salman-khan",
@@ -6493,7 +8035,11 @@
     "wordCount": 5753,
     "readingTimeMinutes": 26,
     "originalUrl": "https://docs.google.com/document/d/1hFzjXliCAWjvheY-8Qd2fhbF79LnX0Xg6R9eqk9yIyI",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Society",
+      "Technology"
+    ]
   },
   {
     "id": "reinforcement-learning-an-introduction-by-richard-s-sutton-and-andrew-g-barto",
@@ -6509,7 +8055,11 @@
     "wordCount": 2838,
     "readingTimeMinutes": 13,
     "originalUrl": "https://docs.google.com/document/d/1xexFJ7h0vULMDE7N77q_MIzXoerexfe_CqqGEL6hEoQ",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Technology",
+      "Science"
+    ]
   },
   {
     "id": "revolt-of-the-public-by-martin-gurri",
@@ -6525,7 +8075,12 @@
     "wordCount": 1940,
     "readingTimeMinutes": 9,
     "originalUrl": "https://docs.google.com/document/d/1xexFJ7h0vULMDE7N77q_MIzXoerexfe_CqqGEL6hEoQ",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Politics",
+      "Society",
+      "Technology"
+    ]
   },
   {
     "id": "open-borders-the-science-and-ethics-of-immigration-by-bryan-caplan-and-zach-weinersmith",
@@ -6541,7 +8096,11 @@
     "wordCount": 4005,
     "readingTimeMinutes": 18,
     "originalUrl": "https://docs.google.com/document/d/1xexFJ7h0vULMDE7N77q_MIzXoerexfe_CqqGEL6hEoQ",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Economics",
+      "Politics"
+    ]
   },
   {
     "id": "power-sex-suicide-mitochondria-and-the-meaning-of-life-by-nick-lane",
@@ -6557,7 +8116,11 @@
     "wordCount": 1818,
     "readingTimeMinutes": 9,
     "originalUrl": "https://docs.google.com/document/d/1xexFJ7h0vULMDE7N77q_MIzXoerexfe_CqqGEL6hEoQ",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Biology",
+      "Science"
+    ]
   },
   {
     "id": "probability-theory-the-logic-of-science-by-e-t-jaynes",
@@ -6573,7 +8136,11 @@
     "wordCount": 7020,
     "readingTimeMinutes": 32,
     "originalUrl": "https://docs.google.com/document/d/1xexFJ7h0vULMDE7N77q_MIzXoerexfe_CqqGEL6hEoQ",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Science",
+      "Philosophy"
+    ]
   },
   {
     "id": "reasons-and-persons-by-derek-parfit",
@@ -6589,7 +8156,10 @@
     "wordCount": 4492,
     "readingTimeMinutes": 20,
     "originalUrl": "https://docs.google.com/document/d/1xexFJ7h0vULMDE7N77q_MIzXoerexfe_CqqGEL6hEoQ",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Philosophy"
+    ]
   },
   {
     "id": "last-tsar-nicholas-ii-his-reign-his-russia-by-sergei-oldenburg",
@@ -6605,7 +8175,11 @@
     "wordCount": 4626,
     "readingTimeMinutes": 21,
     "originalUrl": "https://docs.google.com/document/d/1xexFJ7h0vULMDE7N77q_MIzXoerexfe_CqqGEL6hEoQ",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "History",
+      "Memoir"
+    ]
   },
   {
     "id": "loserthink-by-scott-adams",
@@ -6621,7 +8195,11 @@
     "wordCount": 3771,
     "readingTimeMinutes": 17,
     "originalUrl": "https://docs.google.com/document/d/1xexFJ7h0vULMDE7N77q_MIzXoerexfe_CqqGEL6hEoQ",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Psychology",
+      "Society"
+    ]
   },
   {
     "id": "made-to-stick-by-chip-heath-and-dan-heath",
@@ -6637,7 +8215,11 @@
     "wordCount": 3807,
     "readingTimeMinutes": 17,
     "originalUrl": "https://docs.google.com/document/d/1xexFJ7h0vULMDE7N77q_MIzXoerexfe_CqqGEL6hEoQ",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Psychology",
+      "Society"
+    ]
   },
   {
     "id": "on-numbers-and-games-by-john-h-conway",
@@ -6653,7 +8235,10 @@
     "wordCount": 1067,
     "readingTimeMinutes": 5,
     "originalUrl": "https://docs.google.com/document/d/1xexFJ7h0vULMDE7N77q_MIzXoerexfe_CqqGEL6hEoQ",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Science"
+    ]
   },
   {
     "id": "gdel-escher-bach-by-douglas-r-hofstadter",
@@ -6669,7 +8254,11 @@
     "wordCount": 6098,
     "readingTimeMinutes": 28,
     "originalUrl": "https://docs.google.com/document/d/1xexFJ7h0vULMDE7N77q_MIzXoerexfe_CqqGEL6hEoQ",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Science",
+      "Philosophy"
+    ]
   },
   {
     "id": "guns-germs-and-steel-the-fates-of-human-societies-by-jared-diamond",
@@ -6685,7 +8274,11 @@
     "wordCount": 2590,
     "readingTimeMinutes": 12,
     "originalUrl": "https://docs.google.com/document/d/1xexFJ7h0vULMDE7N77q_MIzXoerexfe_CqqGEL6hEoQ",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "History",
+      "Biology"
+    ]
   },
   {
     "id": "how-children-fail-by-john-holt",
@@ -6701,7 +8294,10 @@
     "wordCount": 4517,
     "readingTimeMinutes": 21,
     "originalUrl": "https://docs.google.com/document/d/1xexFJ7h0vULMDE7N77q_MIzXoerexfe_CqqGEL6hEoQ",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Society"
+    ]
   },
   {
     "id": "human-scale-revisited-by-kirkpatrick-sale",
@@ -6717,7 +8313,11 @@
     "wordCount": 5196,
     "readingTimeMinutes": 24,
     "originalUrl": "https://docs.google.com/document/d/1xexFJ7h0vULMDE7N77q_MIzXoerexfe_CqqGEL6hEoQ",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Society",
+      "Politics"
+    ]
   },
   {
     "id": "human-smoke-by-nicholson-baker",
@@ -6733,7 +8333,10 @@
     "wordCount": 3921,
     "readingTimeMinutes": 18,
     "originalUrl": "https://docs.google.com/document/d/1xexFJ7h0vULMDE7N77q_MIzXoerexfe_CqqGEL6hEoQ",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "History"
+    ]
   },
   {
     "id": "games-people-play-the-psychology-of-human-relationships-by-eric-berne",
@@ -6749,7 +8352,10 @@
     "wordCount": 4768,
     "readingTimeMinutes": 22,
     "originalUrl": "https://docs.google.com/document/d/1xexFJ7h0vULMDE7N77q_MIzXoerexfe_CqqGEL6hEoQ",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Psychology"
+    ]
   },
   {
     "id": "exploring-reality-the-intertwining-of-science-and-religion-by-john-polkinghorne",
@@ -6765,7 +8371,11 @@
     "wordCount": 7903,
     "readingTimeMinutes": 36,
     "originalUrl": "https://docs.google.com/document/d/1xexFJ7h0vULMDE7N77q_MIzXoerexfe_CqqGEL6hEoQ",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Religion",
+      "Science"
+    ]
   },
   {
     "id": "fantasyland",
@@ -6781,7 +8391,12 @@
     "wordCount": 2807,
     "readingTimeMinutes": 13,
     "originalUrl": "https://docs.google.com/document/d/1xexFJ7h0vULMDE7N77q_MIzXoerexfe_CqqGEL6hEoQ",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "History",
+      "Politics",
+      "Society"
+    ]
   },
   {
     "id": "farmers-for-forty-centuries-by-f-h-king",
@@ -6797,7 +8412,11 @@
     "wordCount": 1511,
     "readingTimeMinutes": 7,
     "originalUrl": "https://docs.google.com/document/d/1xexFJ7h0vULMDE7N77q_MIzXoerexfe_CqqGEL6hEoQ",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "History",
+      "Biology"
+    ]
   },
   {
     "id": "feed-by-mt-anderson",
@@ -6813,7 +8432,11 @@
     "wordCount": 882,
     "readingTimeMinutes": 4,
     "originalUrl": "https://docs.google.com/document/d/1xexFJ7h0vULMDE7N77q_MIzXoerexfe_CqqGEL6hEoQ",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Fiction",
+      "Technology"
+    ]
   },
   {
     "id": "fitzpatricks-war-by-theodore-judson",
@@ -6829,7 +8452,10 @@
     "wordCount": 1446,
     "readingTimeMinutes": 7,
     "originalUrl": "https://docs.google.com/document/d/1xexFJ7h0vULMDE7N77q_MIzXoerexfe_CqqGEL6hEoQ",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Fiction"
+    ]
   },
   {
     "id": "down-and-out-in-paris-and-london-by-george-orwell",
@@ -6845,7 +8471,12 @@
     "wordCount": 13448,
     "readingTimeMinutes": 60,
     "originalUrl": "https://docs.google.com/document/d/1xexFJ7h0vULMDE7N77q_MIzXoerexfe_CqqGEL6hEoQ",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Fiction",
+      "Memoir",
+      "Society"
+    ]
   },
   {
     "id": "enlightenment-now-by-stephen-pinker",
@@ -6861,7 +8492,11 @@
     "wordCount": 3564,
     "readingTimeMinutes": 16,
     "originalUrl": "https://docs.google.com/document/d/1xexFJ7h0vULMDE7N77q_MIzXoerexfe_CqqGEL6hEoQ",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Science",
+      "Society"
+    ]
   },
   {
     "id": "democracy-in-america-vol-i-by-alexis-de-tocqueville",
@@ -6877,7 +8512,11 @@
     "wordCount": 3222,
     "readingTimeMinutes": 15,
     "originalUrl": "https://docs.google.com/document/d/1xexFJ7h0vULMDE7N77q_MIzXoerexfe_CqqGEL6hEoQ",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Politics",
+      "History"
+    ]
   },
   {
     "id": "disunited-nations-2020-vs-dawn-of-eurasia-2017",
@@ -6893,7 +8532,11 @@
     "wordCount": 6994,
     "readingTimeMinutes": 32,
     "originalUrl": "https://docs.google.com/document/d/1xexFJ7h0vULMDE7N77q_MIzXoerexfe_CqqGEL6hEoQ",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Politics",
+      "History"
+    ]
   },
   {
     "id": "driven-to-distraction-recognizing-and-coping-with-attention-deficit-disorder-from-childhood-through-adulthood-by-edward-m-hallowell-john-j-ratey",
@@ -6909,7 +8552,11 @@
     "wordCount": 1222,
     "readingTimeMinutes": 6,
     "originalUrl": "https://docs.google.com/document/d/1xexFJ7h0vULMDE7N77q_MIzXoerexfe_CqqGEL6hEoQ",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Psychology",
+      "Science"
+    ]
   },
   {
     "id": "che-guevara-a-revolutionary-life-by-jon-lee-anderson",
@@ -6925,7 +8572,12 @@
     "wordCount": 2403,
     "readingTimeMinutes": 11,
     "originalUrl": "https://docs.google.com/document/d/1xexFJ7h0vULMDE7N77q_MIzXoerexfe_CqqGEL6hEoQ",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "History",
+      "Politics",
+      "Memoir"
+    ]
   },
   {
     "id": "consciousness-explained-by-daniel-dennett",
@@ -6941,7 +8593,11 @@
     "wordCount": 5852,
     "readingTimeMinutes": 27,
     "originalUrl": "https://docs.google.com/document/d/1xexFJ7h0vULMDE7N77q_MIzXoerexfe_CqqGEL6hEoQ",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Philosophy",
+      "Science"
+    ]
   },
   {
     "id": "creative-evolution-by-henri-bergson-1907",
@@ -6957,7 +8613,11 @@
     "wordCount": 2592,
     "readingTimeMinutes": 12,
     "originalUrl": "https://docs.google.com/document/d/1xexFJ7h0vULMDE7N77q_MIzXoerexfe_CqqGEL6hEoQ",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Philosophy",
+      "Biology"
+    ]
   },
   {
     "id": "defenders-of-the-truth-the-sociobiology-debate-by-ullica-segerstrle",
@@ -6973,7 +8633,12 @@
     "wordCount": 3929,
     "readingTimeMinutes": 18,
     "originalUrl": "https://docs.google.com/document/d/1xexFJ7h0vULMDE7N77q_MIzXoerexfe_CqqGEL6hEoQ",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Biology",
+      "Science",
+      "Society"
+    ]
   },
   {
     "id": "bad-religion-how-we-became-a-nation-of-heretics-by-ross-douthat",
@@ -6989,7 +8654,11 @@
     "wordCount": 5898,
     "readingTimeMinutes": 27,
     "originalUrl": "https://docs.google.com/document/d/1xexFJ7h0vULMDE7N77q_MIzXoerexfe_CqqGEL6hEoQ",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Religion",
+      "Society"
+    ]
   },
   {
     "id": "behave-by-robert-sapolsky",
@@ -7005,7 +8674,11 @@
     "wordCount": 1075,
     "readingTimeMinutes": 5,
     "originalUrl": "https://docs.google.com/document/d/1xexFJ7h0vULMDE7N77q_MIzXoerexfe_CqqGEL6hEoQ",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Biology",
+      "Psychology"
+    ]
   },
   {
     "id": "brave-new-world-by-aldous-huxley-or-should-i-wirehead-my-cat",
@@ -7021,7 +8694,11 @@
     "wordCount": 1669,
     "readingTimeMinutes": 8,
     "originalUrl": "https://docs.google.com/document/d/1xexFJ7h0vULMDE7N77q_MIzXoerexfe_CqqGEL6hEoQ",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Fiction",
+      "Philosophy"
+    ]
   },
   {
     "id": "capital-as-power-a-study-of-order-and-creorder-by-jonathan-nitzan-and-shimshon-bichler",
@@ -7037,7 +8714,11 @@
     "wordCount": 8338,
     "readingTimeMinutes": 38,
     "originalUrl": "https://docs.google.com/document/d/1xexFJ7h0vULMDE7N77q_MIzXoerexfe_CqqGEL6hEoQ",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Economics",
+      "Politics"
+    ]
   },
   {
     "id": "atlas-shrugged-by-ayn-rand",
@@ -7053,7 +8734,11 @@
     "wordCount": 7275,
     "readingTimeMinutes": 33,
     "originalUrl": "https://docs.google.com/document/d/1xexFJ7h0vULMDE7N77q_MIzXoerexfe_CqqGEL6hEoQ",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Fiction",
+      "Philosophy"
+    ]
   },
   {
     "id": "badatlas-shrugged-by-ayn-rand",
@@ -7069,7 +8754,11 @@
     "wordCount": 6729,
     "readingTimeMinutes": 30,
     "originalUrl": "https://docs.google.com/document/d/1xexFJ7h0vULMDE7N77q_MIzXoerexfe_CqqGEL6hEoQ",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Fiction",
+      "Philosophy"
+    ]
   },
   {
     "id": "anna-karenina-by-leo-tolstoy",
@@ -7085,7 +8774,10 @@
     "wordCount": 5656,
     "readingTimeMinutes": 26,
     "originalUrl": "https://docs.google.com/document/d/1xexFJ7h0vULMDE7N77q_MIzXoerexfe_CqqGEL6hEoQ",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Fiction"
+    ]
   },
   {
     "id": "antifragile-things-that-gain-from-disorder-by-nassim-nicholas-taleb",
@@ -7101,7 +8793,11 @@
     "wordCount": 4677,
     "readingTimeMinutes": 21,
     "originalUrl": "https://docs.google.com/document/d/1xexFJ7h0vULMDE7N77q_MIzXoerexfe_CqqGEL6hEoQ",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Philosophy",
+      "Economics"
+    ]
   },
   {
     "id": "apocalypse-never-by-michael-shellenberger",
@@ -7117,7 +8813,11 @@
     "wordCount": 3388,
     "readingTimeMinutes": 16,
     "originalUrl": "https://docs.google.com/document/d/1xexFJ7h0vULMDE7N77q_MIzXoerexfe_CqqGEL6hEoQ",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Science",
+      "Politics"
+    ]
   },
   {
     "id": "astounding-john-w-campbell-isaac-asimov-robert-a-heinlein-l-ron-hubbard-and-the-golden-age-of-science-fiction-by-alec-nevala-lee",
@@ -7133,7 +8833,11 @@
     "wordCount": 2023,
     "readingTimeMinutes": 9,
     "originalUrl": "https://docs.google.com/document/d/1xexFJ7h0vULMDE7N77q_MIzXoerexfe_CqqGEL6hEoQ",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Fiction",
+      "History"
+    ]
   },
   {
     "id": "a-libertarian-walks-into-a-bear-the-utopian-plot-to-liberate-an-american-town-and-some-bears-by-matthew-hongoltz-hetling",
@@ -7149,7 +8853,11 @@
     "wordCount": 3069,
     "readingTimeMinutes": 14,
     "originalUrl": "https://docs.google.com/document/d/1xexFJ7h0vULMDE7N77q_MIzXoerexfe_CqqGEL6hEoQ",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Politics",
+      "Society"
+    ]
   },
   {
     "id": "an-evolutionary-theory-of-economic-change-by-richard-r-nelson-and-sidney-g-winter",
@@ -7165,7 +8873,10 @@
     "wordCount": 2165,
     "readingTimeMinutes": 10,
     "originalUrl": "https://docs.google.com/document/d/1xexFJ7h0vULMDE7N77q_MIzXoerexfe_CqqGEL6hEoQ",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Economics"
+    ]
   },
   {
     "id": "a-history-of-generation-ships-in-science-fiction",
@@ -7181,7 +8892,11 @@
     "wordCount": 3976,
     "readingTimeMinutes": 18,
     "originalUrl": "https://docs.google.com/document/d/1xexFJ7h0vULMDE7N77q_MIzXoerexfe_CqqGEL6hEoQ",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Fiction",
+      "Technology"
+    ]
   },
   {
     "id": "gods-playground-a-history-of-poland-by-norman-davies",
@@ -7197,7 +8912,10 @@
     "wordCount": 3212,
     "readingTimeMinutes": 15,
     "originalUrl": "https://docs.google.com/document/d/10CiEI7aDL2bMIdx7yayy3vlq0TJ8dO5LGnG7yIDPiw8",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "History"
+    ]
   },
   {
     "id": "fear-and-loathing-in-las-vegas-a-savage-journey-to-the-heart-of-the-american-dream-by-hunter-s-thompson",
@@ -7213,7 +8931,11 @@
     "wordCount": 7760,
     "readingTimeMinutes": 35,
     "originalUrl": "https://docs.google.com/document/d/10CiEI7aDL2bMIdx7yayy3vlq0TJ8dO5LGnG7yIDPiw8",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Fiction",
+      "Memoir"
+    ]
   },
   {
     "id": "games-agency-as-art-review-1",
@@ -7229,7 +8951,11 @@
     "wordCount": 3696,
     "readingTimeMinutes": 17,
     "originalUrl": "https://docs.google.com/document/d/10CiEI7aDL2bMIdx7yayy3vlq0TJ8dO5LGnG7yIDPiw8",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Philosophy",
+      "Technology"
+    ]
   },
   {
     "id": "games-agency-as-art-review-2",
@@ -7245,7 +8971,11 @@
     "wordCount": 5270,
     "readingTimeMinutes": 24,
     "originalUrl": "https://docs.google.com/document/d/10CiEI7aDL2bMIdx7yayy3vlq0TJ8dO5LGnG7yIDPiw8",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Philosophy",
+      "Technology"
+    ]
   },
   {
     "id": "getting-things-done-by-david-allen",
@@ -7261,7 +8991,11 @@
     "wordCount": 2635,
     "readingTimeMinutes": 12,
     "originalUrl": "https://docs.google.com/document/d/10CiEI7aDL2bMIdx7yayy3vlq0TJ8dO5LGnG7yIDPiw8",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Psychology",
+      "Society"
+    ]
   },
   {
     "id": "dont-sleep-there-are-snakes",
@@ -7277,7 +9011,11 @@
     "wordCount": 2883,
     "readingTimeMinutes": 13,
     "originalUrl": "https://docs.google.com/document/d/10CiEI7aDL2bMIdx7yayy3vlq0TJ8dO5LGnG7yIDPiw8",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Society",
+      "Science"
+    ]
   },
   {
     "id": "drunk-how-we-sipped-danced-and-stumbled-our-way-to-civilization",
@@ -7293,7 +9031,12 @@
     "wordCount": 6965,
     "readingTimeMinutes": 31,
     "originalUrl": "https://docs.google.com/document/d/10CiEI7aDL2bMIdx7yayy3vlq0TJ8dO5LGnG7yIDPiw8",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "History",
+      "Society",
+      "Biology"
+    ]
   },
   {
     "id": "ejaculate-responsibly-a-whole-new-way-to-think-about-abortion",
@@ -7309,7 +9052,11 @@
     "wordCount": 3203,
     "readingTimeMinutes": 15,
     "originalUrl": "https://docs.google.com/document/d/10CiEI7aDL2bMIdx7yayy3vlq0TJ8dO5LGnG7yIDPiw8",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Society",
+      "Politics"
+    ]
   },
   {
     "id": "fathers-and-sons-by-ivan-turgenev",
@@ -7325,7 +9072,11 @@
     "wordCount": 4368,
     "readingTimeMinutes": 20,
     "originalUrl": "https://docs.google.com/document/d/10CiEI7aDL2bMIdx7yayy3vlq0TJ8dO5LGnG7yIDPiw8",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Fiction",
+      "History"
+    ]
   },
   {
     "id": "conscious-leadership",
@@ -7341,7 +9092,11 @@
     "wordCount": 3869,
     "readingTimeMinutes": 18,
     "originalUrl": "https://docs.google.com/document/d/10CiEI7aDL2bMIdx7yayy3vlq0TJ8dO5LGnG7yIDPiw8",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Economics",
+      "Society"
+    ]
   },
   {
     "id": "constructing-research-questions-doing-interesting-research-by-mats-alvesson-and-jrgen-sandberg",
@@ -7357,7 +9112,10 @@
     "wordCount": 2276,
     "readingTimeMinutes": 11,
     "originalUrl": "https://docs.google.com/document/d/10CiEI7aDL2bMIdx7yayy3vlq0TJ8dO5LGnG7yIDPiw8",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Science"
+    ]
   },
   {
     "id": "dead-silence-by-s-a-barnes",
@@ -7373,7 +9131,10 @@
     "wordCount": 1691,
     "readingTimeMinutes": 8,
     "originalUrl": "https://docs.google.com/document/d/10CiEI7aDL2bMIdx7yayy3vlq0TJ8dO5LGnG7yIDPiw8",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Fiction"
+    ]
   },
   {
     "id": "discipline-and-punish-by-michael-foucault",
@@ -7389,7 +9150,11 @@
     "wordCount": 3749,
     "readingTimeMinutes": 17,
     "originalUrl": "https://docs.google.com/document/d/10CiEI7aDL2bMIdx7yayy3vlq0TJ8dO5LGnG7yIDPiw8",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Philosophy",
+      "History"
+    ]
   },
   {
     "id": "cities-and-the-wealth-of-nations-and-the-question-of-separatism-by-jane-jacobs",
@@ -7405,7 +9170,11 @@
     "wordCount": 9846,
     "readingTimeMinutes": 44,
     "originalUrl": "https://docs.google.com/document/d/10CiEI7aDL2bMIdx7yayy3vlq0TJ8dO5LGnG7yIDPiw8",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Economics",
+      "Society"
+    ]
   },
   {
     "id": "cycles-of-time-an-extraordinary-new-view-of-the-universe-by-roger-penrose-2012",
@@ -7421,7 +9190,10 @@
     "wordCount": 2307,
     "readingTimeMinutes": 11,
     "originalUrl": "https://docs.google.com/document/d/10CiEI7aDL2bMIdx7yayy3vlq0TJ8dO5LGnG7yIDPiw8",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Science"
+    ]
   },
   {
     "id": "bullshit-jobs",
@@ -7437,7 +9209,11 @@
     "wordCount": 6084,
     "readingTimeMinutes": 28,
     "originalUrl": "https://docs.google.com/document/d/10CiEI7aDL2bMIdx7yayy3vlq0TJ8dO5LGnG7yIDPiw8",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Economics",
+      "Society"
+    ]
   },
   {
     "id": "bowling-alone",
@@ -7453,7 +9229,10 @@
     "wordCount": 4816,
     "readingTimeMinutes": 22,
     "originalUrl": "https://docs.google.com/document/d/10CiEI7aDL2bMIdx7yayy3vlq0TJ8dO5LGnG7yIDPiw8",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Society"
+    ]
   },
   {
     "id": "brain-mind-and-computers-by-stanley-jaki",
@@ -7469,7 +9248,11 @@
     "wordCount": 6065,
     "readingTimeMinutes": 27,
     "originalUrl": "https://docs.google.com/document/d/10CiEI7aDL2bMIdx7yayy3vlq0TJ8dO5LGnG7yIDPiw8",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Technology",
+      "Philosophy"
+    ]
   },
   {
     "id": "broken-harbor-by-tana-french",
@@ -7485,7 +9268,10 @@
     "wordCount": 3064,
     "readingTimeMinutes": 14,
     "originalUrl": "https://docs.google.com/document/d/10CiEI7aDL2bMIdx7yayy3vlq0TJ8dO5LGnG7yIDPiw8",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Fiction"
+    ]
   },
   {
     "id": "bad-blood-secrets-and-lies-in-a-silicon-valley-startup-by-john-carreyrou",
@@ -7501,7 +9287,11 @@
     "wordCount": 1740,
     "readingTimeMinutes": 8,
     "originalUrl": "https://docs.google.com/document/d/10CiEI7aDL2bMIdx7yayy3vlq0TJ8dO5LGnG7yIDPiw8",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Technology",
+      "Economics"
+    ]
   },
   {
     "id": "bad-news-how-woke-media-is-undermining-democracy",
@@ -7517,7 +9307,11 @@
     "wordCount": 4249,
     "readingTimeMinutes": 19,
     "originalUrl": "https://docs.google.com/document/d/10CiEI7aDL2bMIdx7yayy3vlq0TJ8dO5LGnG7yIDPiw8",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Politics",
+      "Society"
+    ]
   },
   {
     "id": "being-you-by-anil-seth",
@@ -7533,7 +9327,11 @@
     "wordCount": 4177,
     "readingTimeMinutes": 19,
     "originalUrl": "https://docs.google.com/document/d/10CiEI7aDL2bMIdx7yayy3vlq0TJ8dO5LGnG7yIDPiw8",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Science",
+      "Philosophy"
+    ]
   },
   {
     "id": "black-skin-white-masks",
@@ -7549,7 +9347,11 @@
     "wordCount": 4370,
     "readingTimeMinutes": 20,
     "originalUrl": "https://docs.google.com/document/d/10CiEI7aDL2bMIdx7yayy3vlq0TJ8dO5LGnG7yIDPiw8",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Society",
+      "Philosophy"
+    ]
   },
   {
     "id": "blood-in-the-water-the-attica-prison-uprising-of-1971-and-its-legacy-by-heather-ann-thompson",
@@ -7565,7 +9367,11 @@
     "wordCount": 2146,
     "readingTimeMinutes": 10,
     "originalUrl": "https://docs.google.com/document/d/10CiEI7aDL2bMIdx7yayy3vlq0TJ8dO5LGnG7yIDPiw8",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "History",
+      "Politics"
+    ]
   },
   {
     "id": "atomised-by-michel-houellebecq",
@@ -7581,7 +9387,11 @@
     "wordCount": 5201,
     "readingTimeMinutes": 24,
     "originalUrl": "https://docs.google.com/document/d/10CiEI7aDL2bMIdx7yayy3vlq0TJ8dO5LGnG7yIDPiw8",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Fiction",
+      "Society"
+    ]
   },
   {
     "id": "augustines-invention-of-the-inner-self-legacy-of-a-christian-platonist-by-phillip-cary",
@@ -7597,7 +9407,11 @@
     "wordCount": 3242,
     "readingTimeMinutes": 15,
     "originalUrl": "https://docs.google.com/document/d/10CiEI7aDL2bMIdx7yayy3vlq0TJ8dO5LGnG7yIDPiw8",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Philosophy",
+      "Religion"
+    ]
   },
   {
     "id": "autoheterosexual-attracted-to-being-the-other-sex",
@@ -7613,7 +9427,11 @@
     "wordCount": 7214,
     "readingTimeMinutes": 33,
     "originalUrl": "https://docs.google.com/document/d/10CiEI7aDL2bMIdx7yayy3vlq0TJ8dO5LGnG7yIDPiw8",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Psychology",
+      "Society"
+    ]
   },
   {
     "id": "atlas-shrugged-by-ayn-rand-review-1",
@@ -7629,7 +9447,11 @@
     "wordCount": 12111,
     "readingTimeMinutes": 54,
     "originalUrl": "https://docs.google.com/document/d/10CiEI7aDL2bMIdx7yayy3vlq0TJ8dO5LGnG7yIDPiw8",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Fiction",
+      "Philosophy"
+    ]
   },
   {
     "id": "atlas-shrugged-by-ayn-rand-review-2",
@@ -7645,7 +9467,11 @@
     "wordCount": 6682,
     "readingTimeMinutes": 30,
     "originalUrl": "https://docs.google.com/document/d/10CiEI7aDL2bMIdx7yayy3vlq0TJ8dO5LGnG7yIDPiw8",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Fiction",
+      "Philosophy"
+    ]
   },
   {
     "id": "a-soldiers-story-of-his-regiment-61st-georgia",
@@ -7661,7 +9487,11 @@
     "wordCount": 6720,
     "readingTimeMinutes": 30,
     "originalUrl": "https://docs.google.com/document/d/10CiEI7aDL2bMIdx7yayy3vlq0TJ8dO5LGnG7yIDPiw8",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "History",
+      "Memoir"
+    ]
   },
   {
     "id": "a-thousand-brains-a-new-theory-of-intelligence",
@@ -7677,7 +9507,11 @@
     "wordCount": 4341,
     "readingTimeMinutes": 20,
     "originalUrl": "https://docs.google.com/document/d/10CiEI7aDL2bMIdx7yayy3vlq0TJ8dO5LGnG7yIDPiw8",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Science",
+      "Technology"
+    ]
   },
   {
     "id": "against-elections-by-david-van-reybrouck",
@@ -7693,7 +9527,10 @@
     "wordCount": 4168,
     "readingTimeMinutes": 19,
     "originalUrl": "https://docs.google.com/document/d/10CiEI7aDL2bMIdx7yayy3vlq0TJ8dO5LGnG7yIDPiw8",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Politics"
+    ]
   },
   {
     "id": "an-actor-prepares",
@@ -7709,7 +9546,10 @@
     "wordCount": 1749,
     "readingTimeMinutes": 8,
     "originalUrl": "https://docs.google.com/document/d/10CiEI7aDL2bMIdx7yayy3vlq0TJ8dO5LGnG7yIDPiw8",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "Society"
+    ]
   },
   {
     "id": "a-peoples-tragedy-a-history-of-the-russian-revolution-1891-1924-review-2",
@@ -7725,7 +9565,11 @@
     "wordCount": 17101,
     "readingTimeMinutes": 77,
     "originalUrl": "https://docs.google.com/document/d/10CiEI7aDL2bMIdx7yayy3vlq0TJ8dO5LGnG7yIDPiw8",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "History",
+      "Politics"
+    ]
   },
   {
     "id": "a-peoples-tragedy-review-1",
@@ -7741,7 +9585,11 @@
     "wordCount": 9048,
     "readingTimeMinutes": 41,
     "originalUrl": "https://docs.google.com/document/d/10CiEI7aDL2bMIdx7yayy3vlq0TJ8dO5LGnG7yIDPiw8",
-    "source": "gdoc"
+    "source": "gdoc",
+    "tags": [
+      "History",
+      "Politics"
+    ]
   },
   {
     "id": "zuozhuan",
@@ -7757,7 +9605,10 @@
     "wordCount": 6922,
     "readingTimeMinutes": 31,
     "originalUrl": "https://www.astralcodexten.com/p/your-book-review-zuozhuan",
-    "source": "acx"
+    "source": "acx",
+    "tags": [
+      "History"
+    ]
   },
   {
     "id": "why-nations-fail",
@@ -7773,7 +9624,11 @@
     "wordCount": 5141,
     "readingTimeMinutes": 23,
     "originalUrl": "https://www.astralcodexten.com/p/your-book-review-why-nations-fail",
-    "source": "acx"
+    "source": "acx",
+    "tags": [
+      "Economics",
+      "Politics"
+    ]
   },
   {
     "id": "the-mind-of-a-bee",
@@ -7789,7 +9644,10 @@
     "wordCount": 5312,
     "readingTimeMinutes": 24,
     "originalUrl": "https://www.astralcodexten.com/p/your-book-review-the-mind-of-a-bee",
-    "source": "acx"
+    "source": "acx",
+    "tags": [
+      "Biology"
+    ]
   },
   {
     "id": "the-weirdest-people-in-the-world",
@@ -7805,7 +9663,12 @@
     "wordCount": 4947,
     "readingTimeMinutes": 22,
     "originalUrl": "https://www.astralcodexten.com/p/your-book-review-the-weirdest-people",
-    "source": "acx"
+    "source": "acx",
+    "tags": [
+      "Society",
+      "History",
+      "Psychology"
+    ]
   },
   {
     "id": "the-rise-and-fall-of-the-third-reich",
@@ -7821,7 +9684,10 @@
     "wordCount": 9560,
     "readingTimeMinutes": 43,
     "originalUrl": "https://www.astralcodexten.com/p/your-book-review-the-rise-and-fall",
-    "source": "acx"
+    "source": "acx",
+    "tags": [
+      "History"
+    ]
   },
   {
     "id": "on-the-marble-cliffs",
@@ -7837,7 +9703,10 @@
     "wordCount": 7088,
     "readingTimeMinutes": 32,
     "originalUrl": "https://www.astralcodexten.com/p/your-book-review-on-the-marble-cliffs",
-    "source": "acx"
+    "source": "acx",
+    "tags": [
+      "Fiction"
+    ]
   },
   {
     "id": "the-laws-of-trading",
@@ -7853,7 +9722,10 @@
     "wordCount": 6335,
     "readingTimeMinutes": 29,
     "originalUrl": "https://www.astralcodexten.com/p/your-book-review-the-laws-of-trading",
-    "source": "acx"
+    "source": "acx",
+    "tags": [
+      "Economics"
+    ]
   },
   {
     "id": "the-educated-mind",
@@ -7869,7 +9741,11 @@
     "wordCount": 24027,
     "readingTimeMinutes": 107,
     "originalUrl": "https://www.astralcodexten.com/p/your-book-review-the-educated-mind",
-    "source": "acx"
+    "source": "acx",
+    "tags": [
+      "Society",
+      "Philosophy"
+    ]
   },
   {
     "id": "secret-government",
@@ -7885,7 +9761,11 @@
     "wordCount": 5428,
     "readingTimeMinutes": 25,
     "originalUrl": "https://www.astralcodexten.com/p/your-book-review-secret-government",
-    "source": "acx"
+    "source": "acx",
+    "tags": [
+      "Politics",
+      "Philosophy"
+    ]
   },
   {
     "id": "safe-enough",
@@ -7901,7 +9781,11 @@
     "wordCount": 5005,
     "readingTimeMinutes": 23,
     "originalUrl": "https://www.astralcodexten.com/p/your-book-review-safe-enough",
-    "source": "acx"
+    "source": "acx",
+    "tags": [
+      "Technology",
+      "Science"
+    ]
   },
   {
     "id": "public-citizens",
@@ -7917,7 +9801,11 @@
     "wordCount": 5438,
     "readingTimeMinutes": 25,
     "originalUrl": "https://www.astralcodexten.com/p/your-book-review-public-citizens",
-    "source": "acx"
+    "source": "acx",
+    "tags": [
+      "Politics",
+      "Society"
+    ]
   },
   {
     "id": "njals-saga",
@@ -7933,7 +9821,11 @@
     "wordCount": 4361,
     "readingTimeMinutes": 20,
     "originalUrl": "https://www.astralcodexten.com/p/your-book-review-njals-saga",
-    "source": "acx"
+    "source": "acx",
+    "tags": [
+      "Fiction",
+      "History"
+    ]
   },
   {
     "id": "mans-search-for-meaning",
@@ -7949,7 +9841,12 @@
     "wordCount": 7423,
     "readingTimeMinutes": 33,
     "originalUrl": "https://www.astralcodexten.com/p/your-book-review-mans-search-for",
-    "source": "acx"
+    "source": "acx",
+    "tags": [
+      "Philosophy",
+      "Psychology",
+      "Memoir"
+    ]
   },
   {
     "id": "why-machines-will-never-rule-the-world",
@@ -7965,7 +9862,11 @@
     "wordCount": 2549,
     "readingTimeMinutes": 12,
     "originalUrl": "https://www.astralcodexten.com/p/your-book-review-why-machines-will",
-    "source": "acx"
+    "source": "acx",
+    "tags": [
+      "Technology",
+      "Philosophy"
+    ]
   },
   {
     "id": "lying-for-money",
@@ -7981,7 +9882,10 @@
     "wordCount": 12628,
     "readingTimeMinutes": 57,
     "originalUrl": "https://www.astralcodexten.com/p/your-book-review-lying-for-money",
-    "source": "acx"
+    "source": "acx",
+    "tags": [
+      "Economics"
+    ]
   },
   {
     "id": "cities-and-the-wealth-of-nations",
@@ -7997,7 +9901,11 @@
     "wordCount": 9913,
     "readingTimeMinutes": 45,
     "originalUrl": "https://www.astralcodexten.com/p/your-book-review-cities-and-the-wealth",
-    "source": "acx"
+    "source": "acx",
+    "tags": [
+      "Economics",
+      "Society"
+    ]
   },
   {
     "id": "kora-in-hell",
@@ -8013,7 +9921,10 @@
     "wordCount": 3202,
     "readingTimeMinutes": 15,
     "originalUrl": "https://astralcodexten.substack.com/p/your-book-review-kora-in-hell",
-    "source": "acx"
+    "source": "acx",
+    "tags": [
+      "Fiction"
+    ]
   },
   {
     "id": "god-emperor-of-dune",
@@ -8029,7 +9940,11 @@
     "wordCount": 5095,
     "readingTimeMinutes": 23,
     "originalUrl": "https://astralcodexten.substack.com/p/your-book-review-god-emperor-of-dune",
-    "source": "acx"
+    "source": "acx",
+    "tags": [
+      "Fiction",
+      "Philosophy"
+    ]
   },
   {
     "id": "exhaustion",
@@ -8045,7 +9960,11 @@
     "wordCount": 4107,
     "readingTimeMinutes": 19,
     "originalUrl": "https://astralcodexten.substack.com/p/your-book-review-exhaustion",
-    "source": "acx"
+    "source": "acx",
+    "tags": [
+      "Psychology",
+      "History"
+    ]
   },
   {
     "id": "viral",
@@ -8061,7 +9980,11 @@
     "wordCount": 6602,
     "readingTimeMinutes": 30,
     "originalUrl": "https://astralcodexten.substack.com/p/your-book-review-viral",
-    "source": "acx"
+    "source": "acx",
+    "tags": [
+      "Science",
+      "Politics"
+    ]
   },
   {
     "id": "society-of-the-spectacle",
@@ -8077,7 +10000,11 @@
     "wordCount": 9640,
     "readingTimeMinutes": 43,
     "originalUrl": "https://astralcodexten.substack.com/p/your-book-review-the-society-of-the",
-    "source": "acx"
+    "source": "acx",
+    "tags": [
+      "Philosophy",
+      "Society"
+    ]
   },
   {
     "id": "the-righteous-mind",
@@ -8093,7 +10020,11 @@
     "wordCount": 11986,
     "readingTimeMinutes": 54,
     "originalUrl": "https://astralcodexten.substack.com/p/your-book-review-the-righteous-mind",
-    "source": "acx"
+    "source": "acx",
+    "tags": [
+      "Psychology",
+      "Philosophy"
+    ]
   },
   {
     "id": "the-outlier",
@@ -8109,7 +10040,12 @@
     "wordCount": 5931,
     "readingTimeMinutes": 27,
     "originalUrl": "https://astralcodexten.substack.com/p/your-book-review-the-outlier",
-    "source": "acx"
+    "source": "acx",
+    "tags": [
+      "History",
+      "Politics",
+      "Memoir"
+    ]
   },
   {
     "id": "the-anti-politics-machine",
@@ -8125,7 +10061,11 @@
     "wordCount": 4508,
     "readingTimeMinutes": 21,
     "originalUrl": "https://astralcodexten.substack.com/p/your-book-review-the-anti-politics",
-    "source": "acx"
+    "source": "acx",
+    "tags": [
+      "Politics",
+      "Economics"
+    ]
   },
   {
     "id": "making-nature",
@@ -8141,7 +10081,11 @@
     "wordCount": 6564,
     "readingTimeMinutes": 30,
     "originalUrl": "https://astralcodexten.substack.com/p/your-book-review-making-nature",
-    "source": "acx"
+    "source": "acx",
+    "tags": [
+      "Science",
+      "History"
+    ]
   },
   {
     "id": "consciousness-and-the-brain",
@@ -8157,7 +10101,11 @@
     "wordCount": 7664,
     "readingTimeMinutes": 35,
     "originalUrl": "https://astralcodexten.substack.com/p/your-book-review-consciousness-and",
-    "source": "acx"
+    "source": "acx",
+    "tags": [
+      "Science",
+      "Philosophy"
+    ]
   },
   {
     "id": "the-internationalists",
@@ -8173,7 +10121,11 @@
     "wordCount": 8928,
     "readingTimeMinutes": 40,
     "originalUrl": "https://astralcodexten.substack.com/p/your-book-review-the-internationalists",
-    "source": "acx"
+    "source": "acx",
+    "tags": [
+      "History",
+      "Politics"
+    ]
   },
   {
     "id": "the-future-of-fusion-energy",
@@ -8189,7 +10141,11 @@
     "wordCount": 5743,
     "readingTimeMinutes": 26,
     "originalUrl": "https://astralcodexten.substack.com/p/your-book-review-the-future-of-fusion",
-    "source": "acx"
+    "source": "acx",
+    "tags": [
+      "Science",
+      "Technology"
+    ]
   },
   {
     "id": "the-castrato",
@@ -8205,7 +10161,11 @@
     "wordCount": 9100,
     "readingTimeMinutes": 41,
     "originalUrl": "https://astralcodexten.substack.com/p/your-book-review-the-castrato",
-    "source": "acx"
+    "source": "acx",
+    "tags": [
+      "History",
+      "Society"
+    ]
   },
   {
     "id": "1587-a-year-of-no-significance",
@@ -8221,7 +10181,10 @@
     "wordCount": 8830,
     "readingTimeMinutes": 40,
     "originalUrl": "https://astralcodexten.substack.com/p/your-book-review-1587-a-year-of-no",
-    "source": "acx"
+    "source": "acx",
+    "tags": [
+      "History"
+    ]
   },
   {
     "id": "the-dawn-of-everything",
@@ -8237,7 +10200,11 @@
     "wordCount": 9501,
     "readingTimeMinutes": 43,
     "originalUrl": "https://astralcodexten.substack.com/p/your-book-review-the-dawn-of-everything",
-    "source": "acx"
+    "source": "acx",
+    "tags": [
+      "History",
+      "Society"
+    ]
   },
   {
     "id": "plagues-and-peoples",
@@ -8253,7 +10220,11 @@
     "wordCount": 4280,
     "readingTimeMinutes": 20,
     "originalUrl": "https://astralcodexten.substack.com/p/your-book-review-plagues-and-peoples",
-    "source": "acx"
+    "source": "acx",
+    "tags": [
+      "History",
+      "Biology"
+    ]
   },
   {
     "id": "how-children-fail",
@@ -8269,7 +10240,10 @@
     "wordCount": 4572,
     "readingTimeMinutes": 21,
     "originalUrl": "https://astralcodexten.substack.com/p/your-book-review-how-children-fail",
-    "source": "acx"
+    "source": "acx",
+    "tags": [
+      "Society"
+    ]
   },
   {
     "id": "wheres-my-flying-car",
@@ -8285,7 +10259,11 @@
     "wordCount": 3016,
     "readingTimeMinutes": 14,
     "originalUrl": "https://astralcodexten.substack.com/p/your-book-review-wheres-my-flying",
-    "source": "acx"
+    "source": "acx",
+    "tags": [
+      "Technology",
+      "Economics"
+    ]
   },
   {
     "id": "the-collapse-of-complex-societies",
@@ -8301,7 +10279,11 @@
     "wordCount": 5691,
     "readingTimeMinutes": 26,
     "originalUrl": "https://astralcodexten.substack.com/p/your-book-review-the-collapse-of",
-    "source": "acx"
+    "source": "acx",
+    "tags": [
+      "History",
+      "Society"
+    ]
   },
   {
     "id": "humankind",
@@ -8317,7 +10299,11 @@
     "wordCount": 7365,
     "readingTimeMinutes": 33,
     "originalUrl": "https://astralcodexten.substack.com/p/your-book-review-humankind",
-    "source": "acx"
+    "source": "acx",
+    "tags": [
+      "Psychology",
+      "Society"
+    ]
   },
   {
     "id": "the-accidental-superpower",
@@ -8333,7 +10319,11 @@
     "wordCount": 9142,
     "readingTimeMinutes": 41,
     "originalUrl": "https://astralcodexten.substack.com/p/your-book-review-the-accidental-superpower",
-    "source": "acx"
+    "source": "acx",
+    "tags": [
+      "Politics",
+      "History"
+    ]
   },
   {
     "id": "addiction-by-design",
@@ -8349,7 +10339,11 @@
     "wordCount": 5183,
     "readingTimeMinutes": 24,
     "originalUrl": "https://astralcodexten.substack.com/p/your-book-review-addiction-by-design",
-    "source": "acx"
+    "source": "acx",
+    "tags": [
+      "Psychology",
+      "Technology"
+    ]
   },
   {
     "id": "years-of-lyndon-johnson",
@@ -8365,7 +10359,12 @@
     "wordCount": 2254,
     "readingTimeMinutes": 11,
     "originalUrl": "https://astralcodexten.substack.com/p/your-book-review-the-years-of-lyndon",
-    "source": "acx"
+    "source": "acx",
+    "tags": [
+      "History",
+      "Politics",
+      "Memoir"
+    ]
   },
   {
     "id": "through-the-eye-of-a-needle",
@@ -8381,7 +10380,11 @@
     "wordCount": 5512,
     "readingTimeMinutes": 25,
     "originalUrl": "https://astralcodexten.substack.com/p/your-book-review-through-the-eye",
-    "source": "acx"
+    "source": "acx",
+    "tags": [
+      "History",
+      "Religion"
+    ]
   },
   {
     "id": "the-wizard-and-the-prophet",
@@ -8397,7 +10400,11 @@
     "wordCount": 5793,
     "readingTimeMinutes": 26,
     "originalUrl": "https://astralcodexten.substack.com/p/your-book-review-the-wizard-and-the",
-    "source": "acx"
+    "source": "acx",
+    "tags": [
+      "Science",
+      "Society"
+    ]
   },
   {
     "id": "double-fold",
@@ -8413,7 +10420,11 @@
     "wordCount": 6921,
     "readingTimeMinutes": 31,
     "originalUrl": "https://astralcodexten.substack.com/p/your-book-review-double-fold",
-    "source": "acx"
+    "source": "acx",
+    "tags": [
+      "History",
+      "Society"
+    ]
   },
   {
     "id": "why-buddhism-is-true",
@@ -8429,7 +10440,11 @@
     "wordCount": 4451,
     "readingTimeMinutes": 20,
     "originalUrl": "https://astralcodexten.substack.com/p/your-book-review-why-buddhism-is",
-    "source": "acx"
+    "source": "acx",
+    "tags": [
+      "Religion",
+      "Psychology"
+    ]
   },
   {
     "id": "are-we-smart-enough-to-know-how-smart-animals-are",
@@ -8445,7 +10460,11 @@
     "wordCount": 5430,
     "readingTimeMinutes": 25,
     "originalUrl": "https://astralcodexten.substack.com/p/your-book-review-are-we-smart-enough",
-    "source": "acx"
+    "source": "acx",
+    "tags": [
+      "Biology",
+      "Psychology"
+    ]
   },
   {
     "id": "order-without-law",
@@ -8461,7 +10480,11 @@
     "wordCount": 14758,
     "readingTimeMinutes": 66,
     "originalUrl": "https://astralcodexten.substack.com/p/your-book-review-order-without-law",
-    "source": "acx"
+    "source": "acx",
+    "tags": [
+      "Society",
+      "Economics"
+    ]
   },
   {
     "id": "on-the-natural-faculties",
@@ -8477,7 +10500,11 @@
     "wordCount": 7417,
     "readingTimeMinutes": 33,
     "originalUrl": "https://astralcodexten.substack.com/p/your-book-review-on-the-natural-faculties",
-    "source": "acx"
+    "source": "acx",
+    "tags": [
+      "Science",
+      "History"
+    ]
   },
   {
     "id": "down-and-out-in-paris-and-london",
@@ -8493,7 +10520,12 @@
     "wordCount": 13591,
     "readingTimeMinutes": 61,
     "originalUrl": "https://astralcodexten.substack.com/p/your-book-review-down-and-out-in",
-    "source": "acx"
+    "source": "acx",
+    "tags": [
+      "Fiction",
+      "Memoir",
+      "Society"
+    ]
   },
   {
     "id": "progress-and-poverty",
@@ -8509,6 +10541,10 @@
     "wordCount": 18646,
     "readingTimeMinutes": 83,
     "originalUrl": "https://astralcodexten.substack.com/p/your-book-review-progress-and-poverty",
-    "source": "acx"
+    "source": "acx",
+    "tags": [
+      "Economics",
+      "Politics"
+    ]
   }
 ]

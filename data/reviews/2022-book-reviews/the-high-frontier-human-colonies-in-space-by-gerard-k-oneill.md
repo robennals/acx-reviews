@@ -1,16 +1,20 @@
 ---
-title: "The High Frontier: Human Colonies in Space by Gerard K. O’Neill"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2022-book-reviews"
-contestName: "2022 Book Reviews"
+title: 'The High Frontier: Human Colonies in Space by Gerard K. O’Neill'
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2022-book-reviews
+contestName: 2022 Book Reviews
 year: 2022
-publishedDate: "2026-02-06T07:22:32.826Z"
-slug: "the-high-frontier-human-colonies-in-space-by-gerard-k-oneill"
+publishedDate: '2026-02-06T07:22:32.826Z'
+slug: the-high-frontier-human-colonies-in-space-by-gerard-k-oneill
 wordCount: 2087
 readingTimeMinutes: 10
-originalUrl: "https://docs.google.com/document/d/100kMdSVFviZSSBvUyyEQPMNlvLptVQxHFD9i9wGuBWs"
-source: "gdoc"
+originalUrl: >-
+  https://docs.google.com/document/d/100kMdSVFviZSSBvUyyEQPMNlvLptVQxHFD9i9wGuBWs
+source: gdoc
+tags:
+  - Science
+  - Technology
 ---
 
 According to legend, Gerard K. O’Neill, the author of The High Frontier: Human Colonies in Space, had one particular matchstick puzzle that he liked to challenge every visitor with. The puzzle in question was how to form four triangles with just six matchsticks. The solution is rather simple when you find it out, it is a tetrahedron, a triangular pyramid. But it requires that you move away from the two-dimensional thinking of placing matchsticks flat on a table and instead see the problem in three dimensions.

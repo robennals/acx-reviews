@@ -1,16 +1,19 @@
 ---
-title: "0th Dimension - Infinite Theory"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2025-non-book-reviews"
-contestName: "2025 Non Book Reviews"
+title: 0th Dimension - Infinite Theory
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2025-non-book-reviews
+contestName: 2025 Non Book Reviews
 year: 2025
-publishedDate: "2026-02-06T16:52:48.885Z"
-slug: "0th-dimension-infinite-theory"
+publishedDate: '2026-02-06T16:52:48.885Z'
+slug: 0th-dimension-infinite-theory
 wordCount: 4215
 readingTimeMinutes: 19
-originalUrl: "https://docs.google.com/document/d/1d0vRSj1E93joWWvbUen2XGuDjN_mM94ybMIAADzM2fo"
-source: "gdoc"
+originalUrl: >-
+  https://docs.google.com/document/d/1d0vRSj1E93joWWvbUen2XGuDjN_mM94ybMIAADzM2fo
+source: gdoc
+tags:
+  - Philosophy
 ---
 
 Anti-Realist Argument - The Conceivable & Inconceivable Argument

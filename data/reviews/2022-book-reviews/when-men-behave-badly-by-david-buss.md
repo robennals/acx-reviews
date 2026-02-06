@@ -1,16 +1,20 @@
 ---
-title: "When men behave badly by David Buss"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2022-book-reviews"
-contestName: "2022 Book Reviews"
+title: When men behave badly by David Buss
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2022-book-reviews
+contestName: 2022 Book Reviews
 year: 2022
-publishedDate: "2026-02-06T07:21:54.184Z"
-slug: "when-men-behave-badly-by-david-buss"
+publishedDate: '2026-02-06T07:21:54.184Z'
+slug: when-men-behave-badly-by-david-buss
 wordCount: 4394
 readingTimeMinutes: 20
-originalUrl: "https://docs.google.com/document/d/1hFzjXliCAWjvheY-8Qd2fhbF79LnX0Xg6R9eqk9yIyI"
-source: "gdoc"
+originalUrl: >-
+  https://docs.google.com/document/d/1hFzjXliCAWjvheY-8Qd2fhbF79LnX0Xg6R9eqk9yIyI
+source: gdoc
+tags:
+  - Psychology
+  - Biology
 ---
 
 Evolutionary psychologist David Buss begins one of his previous books, [The Murderer Next Door](https://www.google.com/url?q=https://books.google.se/books?id%3DNEq9TTBbt64C&sa=D&source=editors&ust=1770366107388895&usg=AOvVaw3kT1tpXigXSXuLtv3LSEnn) (2006), by telling about the grim fate of Sheila Bellush, the ex-wife of Texas multimillionaire Allen Blackthorne.

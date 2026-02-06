@@ -1,16 +1,20 @@
 ---
-title: "In Search of Canadian Political Culture by Nelson Wiseman"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2022-book-reviews"
-contestName: "2022 Book Reviews"
+title: In Search of Canadian Political Culture by Nelson Wiseman
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2022-book-reviews
+contestName: 2022 Book Reviews
 year: 2022
-publishedDate: "2026-02-06T07:23:14.475Z"
-slug: "in-search-of-canadian-political-culture-by-nelson-wiseman"
+publishedDate: '2026-02-06T07:23:14.475Z'
+slug: in-search-of-canadian-political-culture-by-nelson-wiseman
 wordCount: 8074
 readingTimeMinutes: 36
-originalUrl: "https://docs.google.com/document/d/1kQUUJhv-MpLawby2j4zXLZPDG6ligWd5xpIjH8UmWdw"
-source: "gdoc"
+originalUrl: >-
+  https://docs.google.com/document/d/1kQUUJhv-MpLawby2j4zXLZPDG6ligWd5xpIjH8UmWdw
+source: gdoc
+tags:
+  - Politics
+  - Society
 ---
 
 (or Albion’s Seed in British North America)

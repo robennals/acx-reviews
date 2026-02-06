@@ -1,16 +1,20 @@
 ---
-title: "Effective Altruism & Rationalism"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2025-non-book-reviews"
-contestName: "2025 Non Book Reviews"
+title: Effective Altruism & Rationalism
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2025-non-book-reviews
+contestName: 2025 Non Book Reviews
 year: 2025
-publishedDate: "2026-02-06T16:52:48.892Z"
-slug: "effective-altruism-rationalism"
+publishedDate: '2026-02-06T16:52:48.892Z'
+slug: effective-altruism-rationalism
 wordCount: 4191
 readingTimeMinutes: 19
-originalUrl: "https://docs.google.com/document/d/1d0vRSj1E93joWWvbUen2XGuDjN_mM94ybMIAADzM2fo"
-source: "gdoc"
+originalUrl: >-
+  https://docs.google.com/document/d/1d0vRSj1E93joWWvbUen2XGuDjN_mM94ybMIAADzM2fo
+source: gdoc
+tags:
+  - Philosophy
+  - Politics
 ---
 
 Some 3000 indigenous Sámi people have dibs on around 40% of non-industrialised Norway to practice reindeer husbandry, sometimes to the annoyance of those among the 5.5 million Norwegians who would prefer to use the land for other purposes.

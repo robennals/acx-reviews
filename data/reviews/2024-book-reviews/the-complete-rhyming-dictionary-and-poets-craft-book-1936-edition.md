@@ -1,16 +1,20 @@
 ---
-title: "The Complete Rhyming Dictionary and Poet's Craft Book (1936 Edition)"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2024-book-reviews"
-contestName: "2024 Book Reviews"
+title: The Complete Rhyming Dictionary and Poet's Craft Book (1936 Edition)
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2024-book-reviews
+contestName: 2024 Book Reviews
 year: 2024
-publishedDate: "2026-02-06T16:49:14.005Z"
-slug: "the-complete-rhyming-dictionary-and-poets-craft-book-1936-edition"
+publishedDate: '2026-02-06T16:49:14.005Z'
+slug: the-complete-rhyming-dictionary-and-poets-craft-book-1936-edition
 wordCount: 3906
 readingTimeMinutes: 18
-originalUrl: "https://docs.google.com/document/d/14qa47TJ_Vyerx4XNgTCIh7PUZ_TOgNcU_eHm5So_zo0"
-source: "gdoc"
+originalUrl: >-
+  https://docs.google.com/document/d/14qa47TJ_Vyerx4XNgTCIh7PUZ_TOgNcU_eHm5So_zo0
+source: gdoc
+tags:
+  - Fiction
+  - Society
 ---
 
 I.

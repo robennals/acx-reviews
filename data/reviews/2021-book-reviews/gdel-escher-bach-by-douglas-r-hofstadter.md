@@ -1,16 +1,20 @@
 ---
-title: "Gödel, Escher, Bach by Douglas R. Hofstadter"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2021-book-reviews"
-contestName: "2021 Book Reviews"
+title: 'Gödel, Escher, Bach by Douglas R. Hofstadter'
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2021-book-reviews
+contestName: 2021 Book Reviews
 year: 2021
-publishedDate: "2026-02-06T07:21:29.570Z"
-slug: "gdel-escher-bach-by-douglas-r-hofstadter"
+publishedDate: '2026-02-06T07:21:29.570Z'
+slug: gdel-escher-bach-by-douglas-r-hofstadter
 wordCount: 6098
 readingTimeMinutes: 28
-originalUrl: "https://docs.google.com/document/d/1xexFJ7h0vULMDE7N77q_MIzXoerexfe_CqqGEL6hEoQ"
-source: "gdoc"
+originalUrl: >-
+  https://docs.google.com/document/d/1xexFJ7h0vULMDE7N77q_MIzXoerexfe_CqqGEL6hEoQ
+source: gdoc
+tags:
+  - Science
+  - Philosophy
 ---
 
 Gödel, Escher, Bach, like this sentence, has two parts: the first cleverly makes its point while engaging the reader with playful use of self-reference; the second is less interesting, slower developing, and far longer ... in fact, it's so long that you're likely to quit reading it before it ever gets to its
