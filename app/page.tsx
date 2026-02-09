@@ -58,5 +58,22 @@ export default async function HomePage() {
     );
   }
 
-  return <HomePageClient reviews={reviews} contests={contests} tags={tags} />;
+  return (
+    <>
+      <HomePageClient reviews={reviews} contests={contests} tags={tags} />
+      <noscript>
+        <div className="max-w-4xl mx-auto px-6 sm:px-8 py-8">
+          <h2 className="text-xl font-serif font-semibold mb-4">All Reviews</h2>
+          <ul>
+            {reviews.map((review) => (
+              <li key={review.id}>
+                <a href={`/reviews/${review.slug}`}>{review.title}</a>
+                {review.author !== 'Unknown' && ` by ${review.author}`}
+              </li>
+            ))}
+          </ul>
+        </div>
+      </noscript>
+    </>
+  );
 }

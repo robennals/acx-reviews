@@ -5,6 +5,7 @@ import { getReviewBySlug, getAllReviews } from '@/lib/reviews';
 import { ReviewContent } from '@/components/review-content';
 import { ReadingProgressTracker } from '@/components/reading-progress-tracker';
 import { formatDate } from '@/lib/utils';
+import { SITE_URL } from '@/lib/constants';
 
 interface ReviewPageProps {
   params: Promise<{ slug: string }>;
@@ -26,13 +27,22 @@ export async function generateMetadata({ params }: ReviewPageProps): Promise<Met
   }
 
   return {
-    title: `${review.title} - ACX Book Review`,
+    title: review.title,
     description: review.excerpt,
+    authors: review.reviewAuthor !== 'Anonymous' ? [{ name: review.reviewAuthor }] : undefined,
+    alternates: {
+      canonical: `${SITE_URL}/reviews/${slug}`,
+    },
     openGraph: {
       title: review.title,
       description: review.excerpt,
       type: 'article',
       publishedTime: review.publishedDate,
+    },
+    twitter: {
+      card: 'summary',
+      title: review.title,
+      description: review.excerpt,
     },
   };
 }
@@ -45,8 +55,25 @@ export default async function ReviewPage({ params }: ReviewPageProps) {
     notFound();
   }
 
+  const jsonLd = {
+    '@context': 'https://schema.org',
+    '@type': 'Article',
+    headline: review.title,
+    description: review.excerpt,
+    datePublished: review.publishedDate,
+    wordCount: review.wordCount,
+    author: {
+      '@type': 'Person',
+      name: review.reviewAuthor !== 'Anonymous' ? review.reviewAuthor : undefined,
+    },
+  };
+
   return (
     <ReadingProgressTracker reviewId={review.id}>
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
+      />
       <article>
         {/* Header */}
         <header className="bg-muted/30 border-b border-border">

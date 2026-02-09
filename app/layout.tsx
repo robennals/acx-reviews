@@ -5,6 +5,7 @@ import { ReadingProgressProvider } from "@/context/reading-progress-context";
 import { FavoritesProvider } from "@/context/favorites-context";
 import Link from "next/link";
 import Script from "next/script";
+import { SITE_URL } from "@/lib/constants";
 
 const sourceSerif = Source_Serif_4({
   subsets: ["latin"],
@@ -19,9 +20,18 @@ const inter = Inter({
 });
 
 export const metadata: Metadata = {
-  title: "ACX Review Archive",
+  metadataBase: new URL(SITE_URL),
+  title: {
+    default: "ACX Review Archive",
+    template: "%s | ACX Review Archive",
+  },
   description: "A browsable archive of all book and non-book reviews from the annual Astral Codex Ten review contest.",
   keywords: ["ACX", "Astral Codex Ten", "book reviews", "Scott Alexander", "reading"],
+  openGraph: {
+    siteName: "ACX Review Archive",
+    locale: "en_US",
+    type: "website",
+  },
 };
 
 export default function RootLayout({
