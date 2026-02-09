@@ -4,6 +4,7 @@ import "./globals.css";
 import { ReadingProgressProvider } from "@/context/reading-progress-context";
 import { FavoritesProvider } from "@/context/favorites-context";
 import Link from "next/link";
+import Script from "next/script";
 
 const sourceSerif = Source_Serif_4({
   subsets: ["latin"],
@@ -30,6 +31,20 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en" className={`${sourceSerif.variable} ${inter.variable}`}>
+      <head>
+        <Script
+          src="https://www.googletagmanager.com/gtag/js?id=G-MW01Z50CB3"
+          strategy="afterInteractive"
+        />
+        <Script id="google-analytics" strategy="afterInteractive">
+          {`
+            window.dataLayer = window.dataLayer || [];
+            function gtag(){dataLayer.push(arguments);}
+            gtag('js', new Date());
+            gtag('config', 'G-MW01Z50CB3');
+          `}
+        </Script>
+      </head>
       <body className={`${inter.className} antialiased`}>
         <ReadingProgressProvider>
         <FavoritesProvider>
