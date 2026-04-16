@@ -15,12 +15,47 @@
 import matter from 'gray-matter';
 
 const IMAGE_RE = /!\[[^\]]*\]\([^)]+\)/g;
+const GOOGLE_URL_WRAPPER_RE = /https:\/\/www\.google\.com\/url\?q=([^&)"\s]+)[^)"\s]*/g;
+// Tracking params glued onto URLs by an older buggy version of the unwrap logic.
+// Safe to strip on both sides (neither version of the code produces these now).
+const TRACKING_TAIL_RE = /&sa=D(?:&source=[^&)\s"]*)?(?:&ust=\d+)?(?:&usg=[^&)\s"]*)?/g;
+const EMPTY_MARKDOWN_LINK_RE = /\[\]\([^)]*\)/g;
 
-function stripImagesAndNormalize(content: string): string {
+/**
+ * Normalize content to a form that's tolerant of non-semantic drift between
+ * the old ingestion and the new one. We aim to compare meaning, not bytes.
+ *
+ * - Drop all image references entirely.
+ * - Unwrap Google tracking URLs on both sides (older ingestion didn't unwrap
+ *   them; newer code does — same final destination, different text).
+ * - Strip `&sa=D&source=editors&ust=...&usg=...` tracking-param tails that
+ *   were baked into URLs by an older buggy version of the unwrapping code.
+ * - Strip empty markdown links `[](...)` — these are artifacts of Google
+ *   Docs' stray `<a>&nbsp;</a>` anchors and carry no content.
+ * - URL-decode `%23` -> `#` and similar percent-escapes that the old code
+ *   didn't decode but the new code does.
+ * - Collapse *all* whitespace to single spaces. Google Docs' HTML export
+ *   has been changing where it puts its spans over time, so whitespace-only
+ *   diffs are not semantic changes.
+ */
+function normalizeForDiff(content: string): string {
   return content
     .replace(IMAGE_RE, '') // remove all image references
-    .replace(/[ \t]+/g, ' ') // collapse runs of spaces/tabs
-    .replace(/\n{2,}/g, '\n\n') // collapse blank-line runs
+    .replace(GOOGLE_URL_WRAPPER_RE, (_m, inner) => {
+      try {
+        return decodeURIComponent(inner);
+      } catch {
+        return inner;
+      }
+    })
+    .replace(TRACKING_TAIL_RE, '')
+    .replace(EMPTY_MARKDOWN_LINK_RE, '')
+    // Decode common percent-escapes inside URLs that older code left encoded.
+    .replace(/%23/g, '#')
+    .replace(/%2F/g, '/')
+    .replace(/%3A/g, ':')
+    .replace(/%27/g, "'")
+    .replace(/\s+/g, ' ') // collapse ALL whitespace runs (including newlines)
     .trim();
 }
 
@@ -69,9 +104,9 @@ export function checkDiff(oldContent: string, newContent: string): DiffResult {
     };
   }
 
-  // Body: strip images and compare.
-  const oldStripped = stripImagesAndNormalize(oldParsed.content);
-  const newStripped = stripImagesAndNormalize(newParsed.content);
+  // Body: normalize (strip images, unwrap google URLs, collapse whitespace) and compare.
+  const oldStripped = normalizeForDiff(oldParsed.content);
+  const newStripped = normalizeForDiff(newParsed.content);
 
   if (oldStripped !== newStripped) {
     // Produce a small snippet showing where they diverge, for the log.

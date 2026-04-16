@@ -10,11 +10,15 @@
  * Example: npm run fetch-gdocs 2023-book-reviews
  */
 
+import 'dotenv/config';
 import fs from 'fs';
 import path from 'path';
 import * as cheerio from 'cheerio';
 import TurndownService from 'turndown';
 import { slugify, countWords, calculateReadingTime } from '../lib/utils';
+import { processImages } from './lib/process-gdoc-images';
+import { checkDiff } from './lib/diff-check';
+import { resolvePublishedDate } from './lib/preserve-published-date';
 
 const GDOCS_SOURCES_PATH = path.join(process.cwd(), 'data/sources/gdocs-urls.json');
 const REVIEWS_DIR = path.join(process.cwd(), 'data/reviews');
@@ -42,13 +46,14 @@ const turndownService = new TurndownService({
 });
 
 // Remove Google Docs styling spans that add no value.
-// IMPORTANT: must not strip spans that wrap images — Google Docs wraps every
-// inline image in a <span style="display:inline-block;..."><img/></span> with
-// no text content, and our earlier version of this rule silently dropped them.
+// IMPORTANT: must not strip spans that wrap images, and must not strip
+// whitespace-only spans (see comment on the cheerio span cleanup).
 turndownService.addRule('removeEmptySpans', {
   filter: (node) => {
     if (node.nodeName !== 'SPAN') return false;
-    if (node.textContent?.trim()) return false;
+    // Only remove spans with NO text content at all. Whitespace-only spans
+    // carry meaningful word boundaries in current Google Docs HTML exports.
+    if (node.textContent) return false;
     // Preserve spans that contain any image descendant.
     if ((node as Element).querySelector?.('img')) return false;
     return true;
@@ -112,10 +117,13 @@ function convertGDocToMarkdown(html: string): string {
   $('sup').has('a[id^="cmnt"]').remove();
   $('div').has('a[id^="cmnt"]').remove();
   $('a[id^="cmnt"]').parent('sup').remove();
-  // Remove empty spans with just styling (reduces memory pressure)
+  // Remove truly-empty spans (reduces memory pressure). We must NOT strip
+  // whitespace-only spans — Google Docs now puts run-boundary spaces in their
+  // own spans (e.g. "<span>the</span><span> </span><span>Arab Spring</span>"),
+  // and removing the space-span glues words together ("theArab Spring").
   $('span').each(function() {
     const el = $(this);
-    if (!el.text().trim() && !el.find('img').length) {
+    if (!el.text() && !el.find('img').length) {
       el.remove();
     }
   });
@@ -126,6 +134,17 @@ function convertGDocToMarkdown(html: string): string {
     const match = href.match(/[?&]q=([^&]+)/);
     if (match) {
       el.attr('href', decodeURIComponent(match[1]));
+    }
+  });
+  // Unwrap anchors whose only content is whitespace (including &nbsp;).
+  // Google Docs sometimes emits <a>&nbsp;</a> alongside the real link to the
+  // same destination; those produce ugly [](url) empty links in markdown.
+  // Replace with the raw text so we preserve the whitespace (nbsp carries a
+  // word boundary between adjacent text runs).
+  $('a').each(function() {
+    const el = $(this);
+    if (!el.find('img').length && !el.text().replace(/\u00A0/g, '').trim()) {
+      el.replaceWith(el.text());
     }
   });
 
@@ -324,9 +343,25 @@ function splitCompositeDoc(markdown: string): ParsedReview[] {
 }
 
 /**
- * Create markdown file with frontmatter
+ * Create or update a markdown file for a review.
+ *
+ * Pipeline:
+ *   1. Upload any base64 images in the content to R2 and rewrite URLs.
+ *   2. Resolve publishedDate (existing file's value wins; else Jan 1 of year).
+ *   3. Recompute word/time counts on the image-rewritten content.
+ *   4. If an old file exists, diff-check: only image-related changes allowed.
+ *   5. Write (or log in dry-run mode).
  */
-function createMarkdownFile(
+interface WriteStats {
+  wrote: boolean;
+  skipped: boolean;
+  reason?: string;
+  totalImages: number;
+  uploadedImages: number;
+  reusedImages: number;
+}
+
+async function createMarkdownFile(
   contestId: string,
   slug: string,
   data: {
@@ -335,15 +370,21 @@ function createMarkdownFile(
     reviewAuthor: string;
     content: string;
     originalUrl: string;
-  }
-): void {
+  },
+  applyMode: boolean
+): Promise<WriteStats> {
   const contestDir = path.join(REVIEWS_DIR, contestId);
+  const filePath = path.join(contestDir, `${slug}.md`);
 
-  if (!fs.existsSync(contestDir)) {
-    fs.mkdirSync(contestDir, { recursive: true });
-  }
+  // 1. Upload images and rewrite markdown.
+  const imageResult = await processImages(data.content, contestId);
+  const processedContent = imageResult.markdown;
 
-  const wordCount = countWords(data.content);
+  // 2. Resolve publishedDate (existing file wins; else Jan 1 of contest year).
+  const publishedDate = resolvePublishedDate(filePath, contestId);
+
+  // 3. Compute word/time counts after image rewrites.
+  const wordCount = countWords(processedContent);
   const readingTime = calculateReadingTime(wordCount);
 
   const year = parseInt(contestId.split('-')[0]);
@@ -355,14 +396,14 @@ function createMarkdownFile(
   // Escape for YAML double-quoted strings: backslashes first, then quotes
   const yamlEscape = (s: string) => s.replace(/\\/g, '\\\\').replace(/"/g, '\\"');
 
-  const frontmatter = `---
+  const newFrontmatter = `---
 title: "${yamlEscape(data.title)}"
 author: "${yamlEscape(data.author)}"
 reviewAuthor: "${yamlEscape(data.reviewAuthor)}"
 contestId: "${contestId}"
 contestName: "${contestName}"
 year: ${year}
-publishedDate: "${new Date().toISOString()}"
+publishedDate: "${publishedDate}"
 slug: "${slug}"
 wordCount: ${wordCount}
 readingTimeMinutes: ${readingTime}
@@ -370,11 +411,44 @@ originalUrl: "${data.originalUrl}"
 source: "gdoc"
 ---
 
-${data.content}`;
+${processedContent}`;
 
-  const filePath = path.join(contestDir, `${slug}.md`);
-  fs.writeFileSync(filePath, frontmatter, 'utf8');
-  console.log(`  ✅ Created: ${filePath}`);
+  // 4. If an old file exists, diff-check before overwrite.
+  if (fs.existsSync(filePath)) {
+    const oldContent = fs.readFileSync(filePath, 'utf8');
+    const diff = checkDiff(oldContent, newFrontmatter);
+    if (!diff.safe) {
+      console.log(`  ⚠️  SKIP ${slug}: ${diff.reason}`);
+      return {
+        wrote: false,
+        skipped: true,
+        reason: diff.reason,
+        totalImages: imageResult.totalImages,
+        uploadedImages: imageResult.uploadedCount,
+        reusedImages: imageResult.reusedCount,
+      };
+    }
+  }
+
+  // 5. Write (or log in dry-run).
+  if (applyMode) {
+    if (!fs.existsSync(contestDir)) {
+      fs.mkdirSync(contestDir, { recursive: true });
+    }
+    fs.writeFileSync(filePath, newFrontmatter, 'utf8');
+    console.log(`  ✅ WROTE ${slug} (${imageResult.totalImages} images: ${imageResult.uploadedCount} new, ${imageResult.reusedCount} existing)`);
+  } else {
+    const existsNote = fs.existsSync(filePath) ? '(existing)' : '(new)';
+    console.log(`  📝 DRY-RUN would write ${slug} ${existsNote} (${imageResult.totalImages} images: ${imageResult.uploadedCount} uploaded, ${imageResult.reusedCount} reused)`);
+  }
+
+  return {
+    wrote: applyMode,
+    skipped: false,
+    totalImages: imageResult.totalImages,
+    uploadedImages: imageResult.uploadedCount,
+    reusedImages: imageResult.reusedCount,
+  };
 }
 
 /**
@@ -400,78 +474,87 @@ function generateFallbackSlug(title: string, content: string): string {
 /**
  * Process a single Google Doc source
  */
+interface DocStats {
+  reviewsCreated: number;
+  totalImages: number;
+  uploadedImages: number;
+  reusedImages: number;
+  skipped: number;
+}
+
 async function processDoc(
   contestId: string,
   source: GDocsSource,
-  usedSlugs: Set<string>
-): Promise<number> {
+  processedThisRun: Set<string>,
+  applyMode: boolean
+): Promise<DocStats> {
   const docUrl = `https://docs.google.com/document/d/${source.docId}`;
+  const stats: DocStats = {
+    reviewsCreated: 0,
+    totalImages: 0,
+    uploadedImages: 0,
+    reusedImages: 0,
+    skipped: 0,
+  };
 
   try {
     const html = await fetchGDocAsHTML(source.docId);
     const markdown = convertGDocToMarkdown(html);
 
-    if (source.type === 'individual') {
-      const review = parseIndividualDoc(markdown, source.name);
+    const reviews = source.type === 'individual'
+      ? [parseIndividualDoc(markdown, source.name)]
+      : splitCompositeDoc(markdown);
+
+    if (source.type === 'composite') {
+      console.log(`  Found ${reviews.length} reviews in composite doc "${source.name}"`);
+    }
+
+    for (const review of reviews) {
       let slug = slugify(review.title);
       if (!slug) {
         slug = generateFallbackSlug(review.title, review.content);
         console.log(`  ⚠️  Empty slug for title "${review.title}", using fallback: ${slug}`);
       }
-      // Deduplicate slugs
-      if (usedSlugs.has(slug)) {
+      // In-run dedup only: if we've already processed this slug this run,
+      // append a counter. If the slug matches an existing file that we
+      // haven't touched yet this run, we WANT to overwrite it (after diff
+      // check) — that's the whole point of re-ingestion.
+      if (processedThisRun.has(slug)) {
         let counter = 2;
-        while (usedSlugs.has(`${slug}-${counter}`)) counter++;
+        while (processedThisRun.has(`${slug}-${counter}`)) counter++;
         slug = `${slug}-${counter}`;
+        console.log(`  ⚠️  In-run duplicate slug detected, using: ${slug}`);
       }
-      usedSlugs.add(slug);
+      processedThisRun.add(slug);
 
-      createMarkdownFile(contestId, slug, {
-        ...review,
-        reviewAuthor: 'Anonymous',
-        originalUrl: docUrl,
-      });
-      return 1;
-    } else {
-      // Composite document - split into individual reviews
-      const reviews = splitCompositeDoc(markdown);
-      console.log(`  Found ${reviews.length} reviews in composite doc "${source.name}"`);
-
-      for (const review of reviews) {
-        let slug = slugify(review.title);
-        if (!slug) {
-          slug = generateFallbackSlug(review.title, review.content);
-          console.log(`  ⚠️  Empty slug for title "${review.title}", using fallback: ${slug}`);
-        }
-        // Deduplicate slugs
-        if (usedSlugs.has(slug)) {
-          let counter = 2;
-          while (usedSlugs.has(`${slug}-${counter}`)) counter++;
-          slug = `${slug}-${counter}`;
-          console.log(`  ⚠️  Duplicate slug detected, using: ${slug}`);
-        }
-        usedSlugs.add(slug);
-
-        createMarkdownFile(contestId, slug, {
-          ...review,
-          reviewAuthor: 'Anonymous',
-          originalUrl: docUrl,
-        });
-      }
-      return reviews.length;
+      const writeStats = await createMarkdownFile(
+        contestId,
+        slug,
+        { ...review, reviewAuthor: 'Anonymous', originalUrl: docUrl },
+        applyMode
+      );
+      if (writeStats.skipped) stats.skipped++;
+      else if (writeStats.wrote) stats.reviewsCreated++;
+      stats.totalImages += writeStats.totalImages;
+      stats.uploadedImages += writeStats.uploadedImages;
+      stats.reusedImages += writeStats.reusedImages;
     }
   } catch (error) {
     console.error(`  ❌ Failed to process doc "${source.name}" (${source.docId}):`, error);
-    return 0;
   }
+
+  return stats;
 }
 
 /**
  * Main function
  */
 async function main() {
-  const filterContest = process.argv[2];
+  const args = process.argv.slice(2);
+  const applyMode = args.includes('--apply');
+  const filterContest = args.find(a => !a.startsWith('--'));
 
+  console.log(applyMode ? '🚀 APPLY mode: files will be written' : '🔍 DRY-RUN mode: no files will be written (pass --apply to write)');
   console.log('📚 Starting Google Docs fetch...\n');
   if (filterContest) {
     console.log(`🎯 Filtering to contest: ${filterContest}\n`);
@@ -486,8 +569,13 @@ async function main() {
     fs.readFileSync(GDOCS_SOURCES_PATH, 'utf8')
   );
 
-  let totalReviews = 0;
-  let totalFailed = 0;
+  const grandTotal = {
+    reviewsCreated: 0,
+    skipped: 0,
+    totalImages: 0,
+    uploadedImages: 0,
+    reusedImages: 0,
+  };
 
   for (const [contestId, docSources] of Object.entries(sources)) {
     if (filterContest && contestId !== filterContest) {
@@ -499,25 +587,20 @@ async function main() {
     console.log(`   ${docSources.length} document(s) to fetch`);
     console.log('='.repeat(60));
 
-    const usedSlugs = new Set<string>();
-    // Pre-populate with existing files to avoid overwrites
-    const contestDir = path.join(REVIEWS_DIR, contestId);
-    if (fs.existsSync(contestDir)) {
-      for (const file of fs.readdirSync(contestDir)) {
-        if (file.endsWith('.md')) {
-          usedSlugs.add(file.replace(/\.md$/, ''));
-        }
-      }
-    }
+    // Track slugs processed during this run (per-contest) for in-run dedup.
+    // We do NOT pre-populate with existing filenames — re-ingestion should
+    // overwrite matching files in place (protected by the diff check),
+    // not append -2 suffixes.
+    const processedThisRun = new Set<string>();
 
     for (const source of docSources) {
       console.log(`\n📄 Processing: "${source.name}" (${source.type})`);
-      const count = await processDoc(contestId, source, usedSlugs);
-      if (count > 0) {
-        totalReviews += count;
-      } else {
-        totalFailed++;
-      }
+      const stats = await processDoc(contestId, source, processedThisRun, applyMode);
+      grandTotal.reviewsCreated += stats.reviewsCreated;
+      grandTotal.skipped += stats.skipped;
+      grandTotal.totalImages += stats.totalImages;
+      grandTotal.uploadedImages += stats.uploadedImages;
+      grandTotal.reusedImages += stats.reusedImages;
 
       // Rate limit: 1.5s between doc fetches
       await new Promise(resolve => setTimeout(resolve, 1500));
@@ -526,8 +609,11 @@ async function main() {
 
   console.log('\n' + '='.repeat(60));
   console.log('📊 Summary:');
-  console.log(`   ✅ Reviews created: ${totalReviews}`);
-  console.log(`   ❌ Failed docs: ${totalFailed}`);
+  console.log(`   📝 Reviews ${applyMode ? 'written' : 'would-be-written'}: ${grandTotal.reviewsCreated}`);
+  console.log(`   ⚠️  Skipped (unsafe diff): ${grandTotal.skipped}`);
+  console.log(`   🖼️  Total images: ${grandTotal.totalImages}`);
+  console.log(`       ↳ uploaded: ${grandTotal.uploadedImages}`);
+  console.log(`       ↳ reused:   ${grandTotal.reusedImages}`);
   console.log('='.repeat(60));
   console.log('\n✨ Done! Run `npm run generate-index` to update the index.\n');
 }
