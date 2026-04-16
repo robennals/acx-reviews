@@ -2017,5 +2017,79 @@
   "progress-and-poverty": [
     "Economics",
     "Politics"
+  ],
+  "bleeding-edge-by-thomas-pynchon": [
+    "Fiction",
+    "History",
+    "Philosophy"
+  ],
+  "careless-people-a-cautionary-tale-of-power-greed-and-lost-idealism": [
+    "Technology",
+    "Memoir",
+    "Politics"
+  ],
+  "cultural-evolution": [
+    "Politics",
+    "Economics",
+    "Society"
+  ],
+  "dictator-book-club-yoweri-musevenis-sowing-the-mustard-seed": [
+    "Politics",
+    "History",
+    "Memoir"
+  ],
+  "headbirths-of-the-germans-are-dying-out-by-gunter-grass": [
+    "Fiction",
+    "Politics",
+    "Society"
+  ],
+  "house-of-leaves": [
+    "Fiction",
+    "Philosophy"
+  ],
+  "how-to-prevent-coups-dtat": [
+    "Politics",
+    "History"
+  ],
+  "imagined-communities-relfections-on-the-origin-and-spread-of-nationalism": [
+    "History",
+    "Politics",
+    "Society"
+  ],
+  "kindness-goes-unpunished": [
+    "Fiction",
+    "Society"
+  ],
+  "scenebux-a-novel": [
+    "Fiction",
+    "Society",
+    "Technology"
+  ],
+  "stabilizing-an-unstable-economy": [
+    "Economics",
+    "Politics"
+  ],
+  "the-bible": [
+    "Religion",
+    "Philosophy",
+    "History"
+  ],
+  "the-campaigns-of-napoleon": [
+    "History"
+  ],
+  "trip-sitting-the-art-and-science-of-holding-psychedelic-space-trip-sitting-the-art-and-science-of-holding-psychedelic-space": [
+    "Psychology",
+    "Science",
+    "Religion"
+  ],
+  "weve-had-a-hundred-years-of-psychotherapy-and-the-worlds-getting-worse": [
+    "Psychology",
+    "Philosophy",
+    "Society"
+  ],
+  "wild-wise-weird": [
+    "Fiction",
+    "Philosophy",
+    "Society"
   ]
 }
