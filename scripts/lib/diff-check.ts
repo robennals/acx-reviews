@@ -73,6 +73,9 @@ const EMPTY_MARKDOWN_LINK_RE = /\[\]\([^)]*\)/g;
  */
 function normalizeForDiff(content: string): string {
   return stripImages(content)
+    // Remove Turndown-style backslash escapes — neither side should carry
+    // them, but older ingestion runs left them in the files on disk.
+    .replace(/\\([-*_[\]()\\])/g, '$1')
     .replace(GOOGLE_URL_WRAPPER_RE, (_m, inner) => {
       try {
         return decodeURIComponent(inner);
