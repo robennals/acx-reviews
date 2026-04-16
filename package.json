@@ -11,6 +11,7 @@
     "test:ui": "playwright test --ui",
     "test:headed": "playwright test --headed",
     "fetch-gdocs": "NODE_OPTIONS='--max-old-space-size=8192' tsx scripts/fetch-from-gdocs.ts",
+    "fetch-csv": "NODE_OPTIONS='--max-old-space-size=8192' tsx scripts/fetch-from-csv.ts",
     "fetch-acx": "tsx scripts/fetch-from-acx.ts",
     "generate-index": "tsx scripts/generate-index.ts",
     "process-all": "npm run fetch-gdocs && npm run fetch-acx && npm run generate-index"
