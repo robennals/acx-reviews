@@ -126,32 +126,44 @@ function applySemanticTags($: CheerioAPI, styles: GDocStyleMap): void {
     });
   }
 
-  // Blockquote: group consecutive indented paragraphs into a single
-  // <blockquote> so they render as one block, not many separate quotes.
+  // Blockquote: group consecutive indented block elements (p, ul, ol) into a
+  // single <blockquote> so they render as one block, not many separate quotes.
+  // This handles indented paragraphs followed by indented lists (common in
+  // Google Docs where a quote intro is followed by bullet points).
   if (styles.indentClasses.size > 0) {
-    const allP = $('body > p, body > div > p').toArray();
-    let i = 0;
-    while (i < allP.length) {
-      const el = $(allP[i]);
+    // Check if an element (or its children for lists) is indented
+    const isElementIndented = (el: ReturnType<typeof $>) => {
       const classes = (el.attr('class') || '').split(/\s+/);
-      const isIndented = classes.some(c => styles.indentClasses.has(c));
+      if (classes.some(c => styles.indentClasses.has(c))) return true;
+      // For ul/ol: check if list items are indented (deeper indent = nested in quote)
+      const tag = el.prop('tagName')?.toLowerCase();
+      if (tag === 'ul' || tag === 'ol') {
+        const firstLi = el.find('li').first();
+        if (firstLi.length) {
+          const liClasses = (firstLi.attr('class') || '').split(/\s+/);
+          return liClasses.some(c => styles.indentClasses.has(c));
+        }
+      }
+      return false;
+    };
 
-      if (isIndented && el.text().trim()) {
-        // Start of an indented run — collect consecutive indented paragraphs
+    const allBlocks = $('body > p, body > ul, body > ol, body > div > p, body > div > ul, body > div > ol').toArray();
+    let i = 0;
+    while (i < allBlocks.length) {
+      const el = $(allBlocks[i]);
+      const indented = isElementIndented(el);
+
+      if (indented && el.text().trim()) {
+        // Start of an indented run
         const runStart = i;
-        while (i < allP.length) {
-          const curr = $(allP[i]);
-          const currClasses = (curr.attr('class') || '').split(/\s+/);
-          const currIndented = currClasses.some(c => styles.indentClasses.has(c));
-          // Also skip empty paragraphs between indented ones (blank lines in quotes)
+        while (i < allBlocks.length) {
+          const curr = $(allBlocks[i]);
+          const currIndented = isElementIndented(curr);
           const isEmpty = !curr.text().trim();
-          if (currIndented || (isEmpty && i > runStart && i + 1 < allP.length)) {
-            // Peek ahead: if empty and next is also not indented, stop
+          if (currIndented || (isEmpty && i > runStart && i + 1 < allBlocks.length)) {
             if (isEmpty) {
-              const next = $(allP[i + 1]);
-              const nextClasses = (next.attr('class') || '').split(/\s+/);
-              const nextIndented = nextClasses.some(c => styles.indentClasses.has(c));
-              if (!nextIndented) break;
+              const next = $(allBlocks[i + 1]);
+              if (!isElementIndented(next)) break;
             }
             i++;
           } else {
@@ -161,15 +173,38 @@ function applySemanticTags($: CheerioAPI, styles: GDocStyleMap): void {
 
         // Wrap the entire run in a single <blockquote>
         const bq = $('<blockquote></blockquote>');
-        $(allP[runStart]).before(bq);
+        $(allBlocks[runStart]).before(bq);
         for (let j = runStart; j < i; j++) {
-          bq.append(allP[j]);
+          bq.append(allBlocks[j]);
         }
       } else {
         i++;
       }
     }
   }
+
+  // Also detect paragraphs indented with &nbsp; runs (Google Docs sometimes
+  // uses non-breaking spaces instead of CSS for indentation). The nbsp
+  // characters may be inside nested <span> elements.
+  $('p').each(function () {
+    const el = $(this);
+    if (el.closest('blockquote').length) return;
+    // Get the raw text content (Cheerio decodes &nbsp; to \u00a0)
+    const text = el.text();
+    // Check if text starts with ≥6 non-breaking spaces (with optional leading newline)
+    if (/^\s*\u00a0{6,}/.test(text)) {
+      // Strip the leading nbsp indent from the inner HTML.
+      // Walk the first text-bearing descendant and trim its leading whitespace.
+      const firstSpan = el.find('span').first();
+      const target = firstSpan.length ? firstSpan : el;
+      const innerHtml = target.html() || '';
+      const cleaned = innerHtml
+        .replace(/^(<br\s*\/?>)?\s*((\u00a0|&nbsp;)\s*)+/, '')
+        .trim();
+      target.html(cleaned);
+      el.wrap('<blockquote></blockquote>');
+    }
+  });
 }
 
 /**
@@ -177,6 +212,9 @@ function applySemanticTags($: CheerioAPI, styles: GDocStyleMap): void {
  */
 export function cleanupMarkdown(markdown: string): string {
   return markdown
+    // Strip leading non-breaking spaces from blockquote lines (Google Docs
+    // sometimes uses &nbsp; for indentation even inside CSS-indented blocks)
+    .replace(/^(>\s*)\u00a0+/gm, '$1')
     // Remove escaped brackets
     .replace(/\\\[/g, '[')
     .replace(/\\\]/g, ']')

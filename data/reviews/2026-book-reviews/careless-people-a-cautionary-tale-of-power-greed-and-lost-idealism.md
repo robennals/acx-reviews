@@ -7,7 +7,7 @@ contestName: 2026 Book Reviews
 year: 2026
 publishedDate: '2026-03-19T05:50:01.000Z'
 slug: careless-people-a-cautionary-tale-of-power-greed-and-lost-idealism
-wordCount: 6267
+wordCount: 6278
 readingTimeMinutes: 28
 source: gdoc
 tags:
@@ -30,9 +30,9 @@ This is a review that will focus on a cast of three figures: **Mark Zuckerberg**
 
 At its heart, _Careless People_ is a story about betrayal. The author feels aggrieved by other people’s thoughtlessness, and I don’t blame her. [There are those](https://anchorchange.substack.com/p/careless-people-is-careless) who would argue with how Wynn-Williams’s portrays Facebook, but as far as I can tell:
 
-*   Any inaccuracies are minor (which I presume is why she’s only being [sued](https://www.cnbc.com/2025/03/12/arbitrator-prohibits-meta-whistleblower-from-promoting-tell-all-book.html) for violating her non-disparagement clause, and not for libel).
-*   The general thrust of her story is true, including personal anecdotes and incidents of harassment.
-*   Nothing in the way she describes Facebook is hard to believe. (As one [Redditor](https://www.reddit.com/r/technology/comments/1jhnlxt/comment/mj8x15m/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button) put it: “not especially surprising, but definitely... illuminating”.)
+> *   Any inaccuracies are minor (which I presume is why she’s only being [sued](https://www.cnbc.com/2025/03/12/arbitrator-prohibits-meta-whistleblower-from-promoting-tell-all-book.html) for violating her non-disparagement clause, and not for libel).
+> *   The general thrust of her story is true, including personal anecdotes and incidents of harassment.
+> *   Nothing in the way she describes Facebook is hard to believe. (As one [Redditor](https://www.reddit.com/r/technology/comments/1jhnlxt/comment/mj8x15m/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button) put it: “not especially surprising, but definitely... illuminating”.)
 
 But I think Wynn-Williams subtly misdiagnoses the moral of her own life’s story, in a way that’s hinted at by the memoir’s title.
 
@@ -409,8 +409,8 @@ I envision a possible future whereby a company like Meta, under a man like Zucke
 Though things could be worse.
 
 > “A very odd silver lining, for common folk consideration: As someone who has worked several decades as more or less a servant... I think one of the interesting side effects of 'AI glazing', is that more common folk are starting to realize that, essentially every wealthy and powerful person already does, and has existed in, a delusional/psychosis state - akin to A.I. psychosis we see so prevalent amongst common folk now- due to the cultivated, insulted, nature of their lives, the layers of servants (handlers, advisors, assistant, junior reports, pick your term) who lose their job if they give unpleasant information. The wealthy have long had a phrase and general awareness for this, 'the gilded cage,'  but we are all now getting to see what it does to a person to have persistent, unchecked enthusiasm for every utterance, akin to the unspoken demand on any powerful person's subordinate. We realize Trump actually believes he is one of the worlds best golfers, Musk actually believes he is one of the world's best gamers, in the same way your uncle Larry actually believes he has solved string theory.”
-
-*   @michaeltholen7508 commenting on [this video](https://www.youtube.com/watch?v=8MLbOulrLA0) by Hank Green
+> 
+> *   @michaeltholen7508 commenting on [this video](https://www.youtube.com/watch?v=8MLbOulrLA0) by Hank Green
 
 Maybe it’s hard to sell people on the idea that “_If Anyone Builds It, Everyone Dies_”. The idea might sound too absurd, too sci-fi, to the average person. Easier, I think, to paint humans as villainous and CEOs as dangerous, and in need of regulation.
 
@@ -430,9 +430,9 @@ Yes! Though the last fourth of the book starts to drag, it’s still a well-writ
 
 Other highlights:
 
-*   Sarah very nearly dying in a child-birthing experience even more harrowing than Sarah’s shark attack
-*   The sexual harassment from Joel Kaplan (who HR of course defended)
-*   Many lamentations about China policy
-*   The fight to setup “Internet.org” in Africa and India, and whether to relinquish its very presumptuous name
-*   Mark’s hypocritical flip-flops on Facebook’s Community Standards
-*   President Xi Jinping’s hilarious avoidance of Mark, including one maneuver whereby he surrounds himself with an entire contingent of security before an event for the sole purpose of shielding himself from having to directly interact with Mark, whom he despises
+> *   Sarah very nearly dying in a child-birthing experience even more harrowing than Sarah’s shark attack
+> *   The sexual harassment from Joel Kaplan (who HR of course defended)
+> *   Many lamentations about China policy
+> *   The fight to setup “Internet.org” in Africa and India, and whether to relinquish its very presumptuous name
+> *   Mark’s hypocritical flip-flops on Facebook’s Community Standards
+> *   President Xi Jinping’s hilarious avoidance of Mark, including one maneuver whereby he surrounds himself with an entire contingent of security before an event for the sole purpose of shielding himself from having to directly interact with Mark, whom he despises
