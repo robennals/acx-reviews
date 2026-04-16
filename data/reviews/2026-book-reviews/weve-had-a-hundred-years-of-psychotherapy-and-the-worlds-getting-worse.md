@@ -7,16 +7,14 @@ contestName: 2026 Book Reviews
 year: 2026
 publishedDate: '2026-02-21T16:11:34.000Z'
 slug: weve-had-a-hundred-years-of-psychotherapy-and-the-worlds-getting-worse
-wordCount: 2038
-readingTimeMinutes: 10
+wordCount: 2025
+readingTimeMinutes: 9
 source: gdoc
 tags:
   - Psychology
   - Philosophy
   - Society
 ---
-
-# We've Had 133 Years of Psychotherapy and the World is Getting Worse
 
 It happens every day in my psychotherapy office. A client comes in and complains about the state of the world. The climate is heating up, politics has dissolved into name-calling, madmen with mad weapons threaten extinction. It's almost as if they're asking me to do something about it. It's almost as if they've been reading James Hillmann and Michael Ventura's book, "[We've Had a Hundred Years of Psychotherapy and the World's Getting Worse](https://s3.us-west-1.wasabisys.com/luminist/EB/H/Hillman%20&%20Ventura%20-%20One%20Hundred%20Years%20Psychotherapy.pdf)."
 

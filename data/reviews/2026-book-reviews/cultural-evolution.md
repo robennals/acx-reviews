@@ -7,7 +7,7 @@ contestName: 2026 Book Reviews
 year: 2026
 publishedDate: '2026-03-31T15:53:29.000Z'
 slug: cultural-evolution
-wordCount: 6569
+wordCount: 6562
 readingTimeMinutes: 30
 source: gdoc
 tags:
@@ -15,8 +15,6 @@ tags:
   - Economics
   - Society
 ---
-
-**Book Review: Cultural Evolution by Ronald Inglehart**
 
 You may have noticed that in many countries around the world, young people tend to have very different moral values than old people. The young and the old have of course butted heads since antiquity and earlier — the Greek philosophers complained about degenerate youth. But never before has technological and economic change been so rapid that each generation’s life experience is so different from that of the generation before it. What does this imply for the moral values that our life experiences shape?
 

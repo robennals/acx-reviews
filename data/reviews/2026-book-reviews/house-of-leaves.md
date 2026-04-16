@@ -7,15 +7,13 @@ contestName: 2026 Book Reviews
 year: 2026
 publishedDate: '2026-02-21T01:21:13.000Z'
 slug: house-of-leaves
-wordCount: 1530
+wordCount: 1526
 readingTimeMinutes: 7
 source: gdoc
 tags:
   - Fiction
   - Philosophy
 ---
-
-# [House](https://en.wikipedia.org/wiki/House_of_Leaves) Of Leaves
 
 _This review is entirely human-written and contains no spoilers beyond the first few pages of the book._
 

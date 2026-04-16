@@ -7,7 +7,7 @@ contestName: 2026 Book Reviews
 year: 2026
 publishedDate: '2026-02-20T14:21:53.000Z'
 slug: the-bible
-wordCount: 341
+wordCount: 337
 readingTimeMinutes: 2
 source: gdoc
 tags:
@@ -15,8 +15,6 @@ tags:
   - Philosophy
   - History
 ---
-
-**Review of the Bible**
 
 The Bible is the most influential book in Western history and the most confidently misread.
 

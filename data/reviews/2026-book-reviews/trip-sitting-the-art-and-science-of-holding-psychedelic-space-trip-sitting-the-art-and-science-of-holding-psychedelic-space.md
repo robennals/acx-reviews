@@ -10,7 +10,7 @@ year: 2026
 publishedDate: '2026-03-01T16:50:32.000Z'
 slug: >-
   trip-sitting-the-art-and-science-of-holding-psychedelic-space-trip-sitting-the-art-and-science-of-holding-psychedelic-space
-wordCount: 1114
+wordCount: 1110
 readingTimeMinutes: 5
 source: gdoc
 tags:
@@ -18,8 +18,6 @@ tags:
   - Science
   - Religion
 ---
-
-Book Review: Trip Sitting
 
 “Trip Sitting: The Art and Science of Holding Psychedelic Space”. Julian Vayne 2025
 

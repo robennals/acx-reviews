@@ -7,15 +7,13 @@ contestName: 2026 Book Reviews
 year: 2026
 publishedDate: '2026-02-23T02:28:32.000Z'
 slug: how-to-prevent-coups-dtat
-wordCount: 3269
+wordCount: 3258
 readingTimeMinutes: 15
 source: gdoc
 tags:
   - Politics
   - History
 ---
-
-_How to Prevent Coups d’État_, by Erica De Bruin: A Review
 
 Cornell University Press, 2020
 

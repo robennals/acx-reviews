@@ -133,6 +133,87 @@ function sanitizeTitle(raw: string): string {
 }
 
 /**
+ * Strip the leading title from the markdown content if it duplicates the CSV title.
+ *
+ * Google Docs often start with a title line (as a heading, bold text, or plain text)
+ * that repeats the title we already have from the CSV. Since the site renders the
+ * title from frontmatter in the page header, we strip it to avoid duplication.
+ *
+ * Matches if the first non-empty line is:
+ *   - A markdown heading: # Title, ## Title, etc.
+ *   - Bold text: **Title**
+ *   - A short line (<150 chars) that shares significant words with the CSV title
+ */
+function stripLeadingTitle(markdown: string, csvTitle: string): string {
+  const lines = markdown.split('\n');
+
+  // Find first non-empty line
+  let firstIdx = 0;
+  while (firstIdx < lines.length && !lines[firstIdx].trim()) {
+    firstIdx++;
+  }
+  if (firstIdx >= lines.length) return markdown;
+
+  const firstLine = lines[firstIdx].trim();
+
+  // Extract plain text from the first line for comparison
+  const plainFirst = firstLine
+    .replace(/^#{1,6}\s+/, '')     // strip heading markers
+    .replace(/\*\*/g, '')          // strip bold
+    .replace(/_/g, '')             // strip italic
+    .replace(/\[([^\]]+)\]\([^)]*\)/g, '$1') // links to text
+    .trim();
+
+  // Skip if the first line is long (likely a real paragraph, not a title)
+  if (plainFirst.length > 150) return markdown;
+
+  // Check if it looks like a title line (heading or bold)
+  const isHeading = /^#{1,6}\s+/.test(firstLine);
+  const isBold = /^\*\*[^*]+\*\*$/.test(firstLine.replace(/\s+$/, ''));
+  const isItalicTitle = /^_[^_]+_$/.test(firstLine.replace(/\s+$/, ''));
+
+  // Normalize for comparison: lowercase, strip common prefixes, non-alphanumeric
+  const normalize = (s: string) => s.toLowerCase()
+    .replace(/^(book\s+)?review[:\s]*/i, '')
+    .replace(/^(a\s+review\s+of\s+)/i, '')
+    .replace(/^your\s+(book\s+)?review[:\s]*/i, '')
+    .replace(/[^\w\s]/g, '')
+    .replace(/\s+/g, ' ')
+    .trim();
+
+  const normFirst = normalize(plainFirst);
+  const normCsv = normalize(csvTitle);
+
+  // Check word overlap in both directions:
+  // - Forward: >50% of CSV title words appear in the first line
+  // - Reverse: >50% of first-line words appear in the CSV title
+  // Either direction matching is enough (handles long CSV titles with short doc titles).
+  const csvWords = normCsv.split(' ').filter(w => w.length > 2);
+  const firstLineWords = normFirst.split(' ').filter(w => w.length > 2);
+  const csvWordSet = new Set(csvWords);
+  const firstWordSet = new Set(firstLineWords);
+  const forwardOverlap = csvWords.length > 0
+    ? csvWords.filter(w => firstWordSet.has(w)).length / csvWords.length : 0;
+  const reverseOverlap = firstLineWords.length > 0
+    ? firstLineWords.filter(w => csvWordSet.has(w)).length / firstLineWords.length : 0;
+  const overlapRatio = Math.max(forwardOverlap, reverseOverlap);
+
+  const shouldStrip = (isHeading || isBold || isItalicTitle || overlapRatio > 0.5)
+    && plainFirst.length < 150;
+
+  if (shouldStrip) {
+    // Remove the title line and any blank lines immediately after it
+    lines.splice(firstIdx, 1);
+    while (firstIdx < lines.length && !lines[firstIdx].trim()) {
+      lines.splice(firstIdx, 1);
+    }
+    return lines.join('\n');
+  }
+
+  return markdown;
+}
+
+/**
  * Generate a fallback slug from review content
  */
 function generateFallbackSlug(title: string, content: string): string {
@@ -169,8 +250,11 @@ async function createMarkdownFile(
   const contestDir = path.join(REVIEWS_DIR, contestId);
   const filePath = path.join(contestDir, `${slug}.md`);
 
+  // Strip leading title line if it duplicates the CSV title
+  const contentWithoutTitle = stripLeadingTitle(data.content, data.title);
+
   // Upload images and rewrite markdown
-  const imageResult = await processImages(data.content, contestId);
+  const imageResult = await processImages(contentWithoutTitle, contestId);
   const processedContent = imageResult.markdown;
 
   const wordCount = countWords(processedContent);

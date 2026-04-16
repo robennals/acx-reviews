@@ -7,7 +7,7 @@ contestName: 2026 Book Reviews
 year: 2026
 publishedDate: '2026-03-19T05:50:01.000Z'
 slug: careless-people-a-cautionary-tale-of-power-greed-and-lost-idealism
-wordCount: 6269
+wordCount: 6267
 readingTimeMinutes: 28
 source: gdoc
 tags:
@@ -15,8 +15,6 @@ tags:
   - Memoir
   - Politics
 ---
-
-#  Intro
 
 [care (n.)](https://www.etymonline.com/search?q=care)
 

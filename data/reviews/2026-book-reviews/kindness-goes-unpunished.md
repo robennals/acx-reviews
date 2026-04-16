@@ -7,15 +7,13 @@ contestName: 2026 Book Reviews
 year: 2026
 publishedDate: '2026-02-24T20:05:13.000Z'
 slug: kindness-goes-unpunished
-wordCount: 354
+wordCount: 348
 readingTimeMinutes: 2
 source: gdoc
 tags:
   - Fiction
   - Society
 ---
-
-Kindness Goes Unpunished, by Craig Johnson
 
 I've read and enjoyed most, if not all, of this author’s Walt Longmire novels but must say that "Kindness Goes Unpunished" is my new favorite. I loved almost everything about it, especially the Philadelphia setting (since I grew up there). All of the other Longmire stories are set in Wyoming, where Longmire is the Sheriff of a small town and the stories all have a Western setting and flavor, as do the primary characters. This one, however, has the Sheriff going East to Philadelphia to visit his daughter, Cady, who is a young attorney in the City of Brotherly Love. He is accompanied by his good friend, Henry Standing Bear, who has been asked to deliver a talk on Native American art and customs at the Friends Society.
 

@@ -7,7 +7,7 @@ contestName: 2026 Book Reviews
 year: 2026
 publishedDate: '2026-03-31T10:34:37.000Z'
 slug: headbirths-of-the-germans-are-dying-out-by-gunter-grass
-wordCount: 4038
+wordCount: 4030
 readingTimeMinutes: 18
 source: gdoc
 tags:
@@ -15,8 +15,6 @@ tags:
   - Politics
   - Society
 ---
-
-# Headbirths, or The Germans are Dying Out 
 
 # by Günter Grass (1927-2015)
 
