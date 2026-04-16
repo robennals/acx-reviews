@@ -82,11 +82,18 @@ function normalizeForDiff(content: string): string {
     })
     .replace(TRACKING_TAIL_RE, '')
     .replace(EMPTY_MARKDOWN_LINK_RE, '')
+    // Un-double-encode URL escapes: older ingestion sometimes produced
+    // `%2520` (which decodes to `%20`) where the newer produces `%20`
+    // (which is itself the decoding of `%20`). Same URL target.
+    .replace(/%25([0-9a-fA-F]{2})/g, '%$1')
     // Decode common percent-escapes inside URLs that older code left encoded.
-    .replace(/%23/g, '#')
-    .replace(/%2F/g, '/')
-    .replace(/%3A/g, ':')
-    .replace(/%27/g, "'")
+    .replace(/%23/gi, '#')
+    .replace(/%2F/gi, '/')
+    .replace(/%3A/gi, ':')
+    .replace(/%27/gi, "'")
+    .replace(/%22/gi, '"')
+    .replace(/%3D/gi, '=')
+    .replace(/%20/gi, ' ')
     // Strip ALL whitespace for comparison. This is aggressive, but the goal
     // is to detect prose/content changes, not whitespace drift. Google Docs
     // shuffles how it distributes whitespace between spans across exports,

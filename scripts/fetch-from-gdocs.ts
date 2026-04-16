@@ -72,8 +72,11 @@ function cleanupMarkdown(markdown: string): string {
     // Remove escaped parentheses
     .replace(/\\\(/g, '(')
     .replace(/\\\)/g, ')')
-    // Remove escaped dashes at line start
-    .replace(/^\\-/gm, '-')
+    // Remove escaped dashes (anywhere — `\-` is never needed in markdown).
+    // Turndown escapes these whenever a dash could be read as a bullet or
+    // setext-heading underline, which includes mid-line contexts like
+    // "summary: \- The Ottoman Empire ...".
+    .replace(/\\-/g, '-')
     // Clean up multiple consecutive blank lines
     .replace(/\n{4,}/g, '\n\n\n')
     // Remove escaped asterisks at line starts (but preserve ** for bold)
