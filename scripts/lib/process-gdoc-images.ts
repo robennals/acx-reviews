@@ -28,9 +28,30 @@ const MIME_TO_EXT: Record<string, string> = {
   'image/svg+xml': 'svg',
 };
 
-// Matches markdown image with data: URI. The data URI is *not* allowed to
-// contain a `)` literally, but base64 output never produces `)`, so this is safe.
-const DATA_URI_IMAGE_RE = /!\[([^\]]*)\]\((data:image\/([a-zA-Z+]+);base64,([^)]+))\)/g;
+// Matches the *start* of a markdown image with a data: URI. We capture only
+// up to and including the base64 payload; the surrounding `)` may be further
+// along after a Turndown-generated title with balanced parens, so we finish
+// the match manually via findClosingParen().
+const DATA_URI_START_RE = /!\[([^\]]*)\]\(data:image\/([a-zA-Z+]+);base64,([A-Za-z0-9+/=]+)/g;
+
+/**
+ * From an index pointing at `(` of a markdown link, find the matching `)`
+ * honouring nested balanced parens inside the URL/title.
+ * Returns the index of the closing `)`, or -1 if unbalanced.
+ */
+function findClosingParen(content: string, openParenIdx: number): number {
+  let depth = 1;
+  let j = openParenIdx + 1;
+  while (j < content.length && depth > 0) {
+    if (content[j] === '(') depth++;
+    else if (content[j] === ')') {
+      depth--;
+      if (depth === 0) return j;
+    }
+    j++;
+  }
+  return -1;
+}
 
 export async function processImages(
   markdown: string,
@@ -46,13 +67,20 @@ export async function processImages(
 
   // Collect matches first so we can process them sequentially (avoids clobbering
   // the regex state while async work is in flight).
-  for (const m of markdown.matchAll(DATA_URI_IMAGE_RE)) {
+  for (const m of markdown.matchAll(DATA_URI_START_RE)) {
+    const startIdx = m.index ?? 0;
+    // Find the `(` right after `]`
+    const openParenIdx = markdown.indexOf('(', startIdx);
+    if (openParenIdx < 0) continue;
+    const closeParenIdx = findClosingParen(markdown, openParenIdx);
+    if (closeParenIdx < 0) continue;
+    const full = markdown.slice(startIdx, closeParenIdx + 1);
     matches.push({
-      full: m[0],
+      full,
       alt: m[1],
-      mime: `image/${m[3]}`,
-      subtype: m[3],
-      base64: m[4],
+      mime: `image/${m[2]}`,
+      subtype: m[2],
+      base64: m[3],
     });
   }
 
