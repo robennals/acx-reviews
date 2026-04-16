@@ -159,14 +159,33 @@ function convertGDocToMarkdown(html: string): string {
 /**
  * Parse an individual doc into a single review
  */
+/**
+ * Sanitize a raw heading into a usable review title.
+ *
+ * - Collapse internal whitespace (Google Docs sometimes splits a title
+ *   across multiple spans with whitespace-only spans between, producing
+ *   ugly double-spaced titles if preserved verbatim).
+ * - If the heading contains an embedded image (`![...](...)`) — some review
+ *   authors use an image as their H1 "title" — replace it with a placeholder
+ *   so we don't end up with a data-URI-shaped filename.
+ * - If the resulting title is absurdly long (e.g. a raw base64 URL) strip
+ *   everything that isn't word chars and cap the length.
+ */
+function sanitizeTitle(raw: string, fallback: string): string {
+  let t = raw.replace(/\s+/g, ' ').trim();
+  // Strip embedded image markdown that leaked into the title.
+  t = t.replace(/!\[[^\]]*\]\([^)]*\)/g, '').trim();
+  if (!t) return fallback;
+  // Defend against pathological long "titles" from data: URIs or similar.
+  if (t.length > 200) return fallback;
+  return t;
+}
+
 function parseIndividualDoc(markdown: string, docName: string): ParsedReview {
   // Try to extract the title from the first heading
   const headingMatch = markdown.match(/^#+\s+(.+)/m);
-  // Collapse internal whitespace; Google Docs sometimes splits a title
-  // across multiple spans with whitespace-only spans between, and preserving
-  // those verbatim produces ugly double-spaced titles.
   const title = headingMatch
-    ? headingMatch[1].replace(/\s+/g, ' ').trim()
+    ? sanitizeTitle(headingMatch[1], docName)
     : docName;
 
   // Remove the title heading from content
@@ -292,7 +311,7 @@ function splitCompositeDoc(markdown: string): ParsedReview[] {
     const headingMatch = firstLine.match(/^# (.+)/);
     if (!headingMatch) continue;
 
-    let title = headingMatch[1].replace(/\s+/g, ' ').trim();
+    let title = sanitizeTitle(headingMatch[1], 'Untitled Review');
     title = title.replace(/^\*\*(.+)\*\*$/, '$1'); // Remove bold
     title = title.replace(/^Your (Book )?Review:\s*/i, ''); // Remove prefix
 
