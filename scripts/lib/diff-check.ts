@@ -120,10 +120,20 @@ export function checkDiff(oldContent: string, newContent: string): DiffResult {
   const oldParsed = matter(oldContent);
   const newParsed = matter(newContent);
 
-  // Stable frontmatter fields must match (after whitespace normalization on
-  // strings — old ingestion sometimes double-spaced titles from span-split text).
+  // Stable frontmatter fields must match (after whitespace + smart-quote
+  // normalization on strings — old ingestion sometimes double-spaced titles
+  // from span-split text, and Google Docs currently exports curly quotes
+  // where the old ingestion flattened them to straight quotes).
   const normalizeFieldValue = (v: unknown): string => {
-    if (typeof v === 'string') return v.replace(/\s+/g, ' ').trim();
+    if (typeof v === 'string') {
+      return v
+        .replace(/[\u2018\u2019]/g, "'")   // smart single quotes
+        .replace(/[\u201C\u201D]/g, '"')   // smart double quotes
+        .replace(/[\u2013\u2014]/g, '-')   // en/em dash
+        .replace(/\u2026/g, '...')         // ellipsis
+        .replace(/\s+/g, ' ')
+        .trim();
+    }
     return JSON.stringify(v);
   };
   for (const field of STABLE_FIELDS) {

@@ -175,6 +175,9 @@ function sanitizeTitle(raw: string, fallback: string): string {
   let t = raw.replace(/\s+/g, ' ').trim();
   // Strip embedded image markdown that leaked into the title.
   t = t.replace(/!\[[^\]]*\]\([^)]*\)/g, '').trim();
+  // Unescape Turndown-style markdown escapes on chars that don't need
+  // escaping in a YAML title (e.g. \* in "sh\*t").
+  t = t.replace(/\\([*_[\]()\\])/g, '$1');
   if (!t) return fallback;
   // Defend against pathological long "titles" from data: URIs or similar.
   if (t.length > 200) return fallback;
