@@ -14,10 +14,40 @@
 
 import matter from 'gray-matter';
 
-// Match `![alt](...)` where `...` may contain nested balanced parens (e.g. URLs
-// like Wikipedia's `File:Foo_(book).jpg` or Turndown-generated title strings
-// that happen to contain parens).
-const IMAGE_RE = /!\[[^\]]*\]\((?:[^()]|\([^()]*\))*\)/g;
+/**
+ * Strip `![alt](url optional-title)` image references from the content.
+ * Handles arbitrary nested parens inside the URL and title — a common case
+ * because Turndown emits titles for images, and those titles frequently
+ * contain `File:Foo_(thumb).jpg` style file names from Wikipedia links.
+ */
+function stripImages(content: string): string {
+  let out = '';
+  let i = 0;
+  while (i < content.length) {
+    if (content[i] === '!' && content[i + 1] === '[') {
+      const endBracket = content.indexOf(']', i + 2);
+      if (endBracket !== -1 && content[endBracket + 1] === '(') {
+        // Scan forward with paren depth tracking.
+        let depth = 1;
+        let j = endBracket + 2;
+        while (j < content.length && depth > 0) {
+          if (content[j] === '(') depth++;
+          else if (content[j] === ')') depth--;
+          if (depth === 0) break;
+          j++;
+        }
+        if (depth === 0) {
+          // Skip the whole image match.
+          i = j + 1;
+          continue;
+        }
+      }
+    }
+    out += content[i];
+    i++;
+  }
+  return out;
+}
 const GOOGLE_URL_WRAPPER_RE = /https:\/\/www\.google\.com\/url\?q=([^&)"\s]+)[^)"\s]*/g;
 // Tracking params glued onto URLs by an older buggy version of the unwrap logic.
 // Safe to strip on both sides (neither version of the code produces these now).
@@ -42,8 +72,7 @@ const EMPTY_MARKDOWN_LINK_RE = /\[\]\([^)]*\)/g;
  *   diffs are not semantic changes.
  */
 function normalizeForDiff(content: string): string {
-  return content
-    .replace(IMAGE_RE, '') // remove all image references
+  return stripImages(content)
     .replace(GOOGLE_URL_WRAPPER_RE, (_m, inner) => {
       try {
         return decodeURIComponent(inner);
@@ -91,14 +120,19 @@ export function checkDiff(oldContent: string, newContent: string): DiffResult {
   const oldParsed = matter(oldContent);
   const newParsed = matter(newContent);
 
-  // Stable frontmatter fields must match.
+  // Stable frontmatter fields must match (after whitespace normalization on
+  // strings — old ingestion sometimes double-spaced titles from span-split text).
+  const normalizeFieldValue = (v: unknown): string => {
+    if (typeof v === 'string') return v.replace(/\s+/g, ' ').trim();
+    return JSON.stringify(v);
+  };
   for (const field of STABLE_FIELDS) {
-    const oldVal = JSON.stringify(oldParsed.data[field]);
-    const newVal = JSON.stringify(newParsed.data[field]);
+    const oldVal = normalizeFieldValue(oldParsed.data[field]);
+    const newVal = normalizeFieldValue(newParsed.data[field]);
     if (oldVal !== newVal) {
       return {
         safe: false,
-        reason: `Frontmatter field "${field}" changed: ${oldVal} -> ${newVal}`,
+        reason: `Frontmatter field "${field}" changed: ${JSON.stringify(oldParsed.data[field])} -> ${JSON.stringify(newParsed.data[field])}`,
       };
     }
   }

@@ -162,7 +162,12 @@ function convertGDocToMarkdown(html: string): string {
 function parseIndividualDoc(markdown: string, docName: string): ParsedReview {
   // Try to extract the title from the first heading
   const headingMatch = markdown.match(/^#+\s+(.+)/m);
-  const title = headingMatch ? headingMatch[1].trim() : docName;
+  // Collapse internal whitespace; Google Docs sometimes splits a title
+  // across multiple spans with whitespace-only spans between, and preserving
+  // those verbatim produces ugly double-spaced titles.
+  const title = headingMatch
+    ? headingMatch[1].replace(/\s+/g, ' ').trim()
+    : docName;
 
   // Remove the title heading from content
   const content = headingMatch
@@ -287,7 +292,7 @@ function splitCompositeDoc(markdown: string): ParsedReview[] {
     const headingMatch = firstLine.match(/^# (.+)/);
     if (!headingMatch) continue;
 
-    let title = headingMatch[1].trim();
+    let title = headingMatch[1].replace(/\s+/g, ' ').trim();
     title = title.replace(/^\*\*(.+)\*\*$/, '$1'); // Remove bold
     title = title.replace(/^Your (Book )?Review:\s*/i, ''); // Remove prefix
 
