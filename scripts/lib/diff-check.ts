@@ -14,7 +14,10 @@
 
 import matter from 'gray-matter';
 
-const IMAGE_RE = /!\[[^\]]*\]\([^)]+\)/g;
+// Match `![alt](...)` where `...` may contain nested balanced parens (e.g. URLs
+// like Wikipedia's `File:Foo_(book).jpg` or Turndown-generated title strings
+// that happen to contain parens).
+const IMAGE_RE = /!\[[^\]]*\]\((?:[^()]|\([^()]*\))*\)/g;
 const GOOGLE_URL_WRAPPER_RE = /https:\/\/www\.google\.com\/url\?q=([^&)"\s]+)[^)"\s]*/g;
 // Tracking params glued onto URLs by an older buggy version of the unwrap logic.
 // Safe to strip on both sides (neither version of the code produces these now).
@@ -55,7 +58,13 @@ function normalizeForDiff(content: string): string {
     .replace(/%2F/g, '/')
     .replace(/%3A/g, ':')
     .replace(/%27/g, "'")
-    .replace(/\s+/g, ' ') // collapse ALL whitespace runs (including newlines)
+    // Strip ALL whitespace for comparison. This is aggressive, but the goal
+    // is to detect prose/content changes, not whitespace drift. Google Docs
+    // shuffles how it distributes whitespace between spans across exports,
+    // and the old ingestion script had bugs that both added and removed
+    // spaces around inline links. Ignoring whitespace entirely lets us see
+    // through all that drift.
+    .replace(/\s+/g, '')
     .trim();
 }
 
