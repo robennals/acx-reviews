@@ -69,15 +69,18 @@ export async function processImages(
   // the regex state while async work is in flight).
   for (const m of markdown.matchAll(DATA_URI_START_RE)) {
     const startIdx = m.index ?? 0;
-    // Find the `(` right after `]`
-    const openParenIdx = markdown.indexOf('(', startIdx);
-    if (openParenIdx < 0) continue;
+    const alt = m[1];
+    // The `(` we want is the one right after `]alt-terminator` — not any
+    // `(` that happens to be inside the alt text (e.g. Wikipedia File:...
+    // names often contain parens). Locate it precisely using the alt length.
+    const openParenIdx = startIdx + 2 /* `![` */ + alt.length + 1 /* `]` */;
+    if (markdown[openParenIdx] !== '(') continue;
     const closeParenIdx = findClosingParen(markdown, openParenIdx);
     if (closeParenIdx < 0) continue;
     const full = markdown.slice(startIdx, closeParenIdx + 1);
     matches.push({
       full,
-      alt: m[1],
+      alt,
       mime: `image/${m[2]}`,
       subtype: m[2],
       base64: m[3],
