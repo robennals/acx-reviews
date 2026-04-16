@@ -207,6 +207,27 @@ function stripLeadingTitle(markdown: string, csvTitle: string): string {
     while (firstIdx < lines.length && !lines[firstIdx].trim()) {
       lines.splice(firstIdx, 1);
     }
+
+    // Second pass: if the new first line is a subtitle/byline (e.g. "# by Author Name",
+    // "by Author (year)", publisher info), strip it too. These are part of the title
+    // block, not the review content.
+    if (firstIdx < lines.length) {
+      const nextLine = lines[firstIdx].trim();
+      const plainNext = nextLine
+        .replace(/^#{1,6}\s+/, '')
+        .replace(/\*\*/g, '')
+        .replace(/_/g, '')
+        .trim();
+      // Strip if it's a short line starting with "by " (author byline)
+      // or looks like publisher/date info (short, no sentence structure)
+      if (plainNext.length < 100 && /^by\s/i.test(plainNext)) {
+        lines.splice(firstIdx, 1);
+        while (firstIdx < lines.length && !lines[firstIdx].trim()) {
+          lines.splice(firstIdx, 1);
+        }
+      }
+    }
+
     return lines.join('\n');
   }
 
