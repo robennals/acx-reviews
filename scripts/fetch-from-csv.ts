@@ -266,7 +266,8 @@ async function createMarkdownFile(
     originalUrl: string;
     publishedDate: string;
   },
-  applyMode: boolean
+  applyMode: boolean,
+  anonymousMode: boolean = false,
 ): Promise<{ wrote: boolean; totalImages: number; uploadedImages: number }> {
   const contestDir = path.join(REVIEWS_DIR, contestId);
   const filePath = path.join(contestDir, `${slug}.md`);
@@ -289,6 +290,10 @@ async function createMarkdownFile(
 
   const yamlEscape = (s: string) => s.replace(/\\/g, '\\\\').replace(/"/g, '\\"');
 
+  // In anonymous mode, omit the original Google Doc URL since it could
+  // reveal the author via sharing settings or document owner info.
+  const originalUrlLine = anonymousMode ? '' : `\noriginalUrl: "${data.originalUrl}"`;
+
   const frontmatter = `---
 title: "${yamlEscape(data.title)}"
 author: "Unknown"
@@ -299,8 +304,7 @@ year: ${year}
 publishedDate: "${data.publishedDate}"
 slug: "${slug}"
 wordCount: ${wordCount}
-readingTimeMinutes: ${readingTime}
-originalUrl: "${data.originalUrl}"
+readingTimeMinutes: ${readingTime}${originalUrlLine}
 source: "gdoc"
 ---
 
@@ -329,6 +333,7 @@ ${processedContent}`;
 async function main() {
   const args = process.argv.slice(2);
   const applyMode = args.includes('--apply');
+  const anonymousMode = args.includes('--anonymous');
 
   // Parse --csv and --contest flags
   const csvIdx = args.indexOf('--csv');
@@ -347,6 +352,7 @@ async function main() {
   const contestId = args[contestIdx + 1];
 
   console.log(applyMode ? '🚀 APPLY mode: files will be written' : '🔍 DRY-RUN mode: no files will be written (pass --apply to write)');
+  if (anonymousMode) console.log('🕵️  Anonymous mode: review authors will be set to "Anonymous"');
   console.log(`📚 Reading CSV: ${csvPath}`);
   console.log(`🏆 Contest: ${contestId}\n`);
 
@@ -396,11 +402,11 @@ async function main() {
 
       const result = await createMarkdownFile(contestId, slug, {
         title,
-        reviewAuthor: row.name,
+        reviewAuthor: anonymousMode ? 'Anonymous' : row.name,
         content: markdown,
         originalUrl: docUrl,
         publishedDate: parseTimestamp(row.timestamp),
-      }, applyMode);
+      }, applyMode, anonymousMode);
 
       if (result.wrote) totalCreated++;
       totalImages += result.totalImages;
