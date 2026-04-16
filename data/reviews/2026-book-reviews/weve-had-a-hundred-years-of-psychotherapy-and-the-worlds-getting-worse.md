@@ -16,7 +16,7 @@ tags:
   - Society
 ---
 
-# We've Had 133 Years of Psychotherapy and the World is Getting Worse
+# **We've Had 133 Years of Psychotherapy and the World is Getting Worse**
 
 It happens every day in my psychotherapy office. A client comes in and complains about the state of the world. The climate is heating up, politics has dissolved into name-calling, madmen with mad weapons threaten extinction. It's almost as if they're asking me to do something about it. It's almost as if they've been reading James Hillmann and Michael Ventura's book, "[We've Had a Hundred Years of Psychotherapy and the World's Getting Worse](https://s3.us-west-1.wasabisys.com/luminist/EB/H/Hillman%20&%20Ventura%20-%20One%20Hundred%20Years%20Psychotherapy.pdf)."
 
@@ -26,7 +26,7 @@ What I found changed how I understand both.
 
 ### Symptoms are Messages
 
-Whenever my clients bring up politics, I say we're not here to solve the problems of the world, we're here to solve their problems. Why can't you stop worrying? My clients know it, Hillmann and Ventura knew it, and I would know it if I had read their book, but my clients can't stop worrying because of the problems of the world. The symptoms we've been trying to address are not my client's symptoms, they're the world's.
+Whenever my clients bring up politics, I say we're not here to solve the problems of the world, we're here to solve their problems. Why can't you stop worrying? My clients know it, Hillmann and Ventura knew it, and I would know it if I had read their book, but my clients can't stop worrying **because** of the problems of the world. The symptoms we've been trying to address are not my client's symptoms, they're the world's.
 
 My clients are not supposed to stop worrying while the climate is heating up, politics has dissolved into name-calling, and madmen with mad weapons threaten extinction. Worrying is supposed to motivate them to do something about it. Symptoms, according to Hillman and Ventura, are not problems to be solved but messages to be heard.
 
@@ -64,15 +64,15 @@ Hillman argues the opposite. Your psychological state isn't just determined by w
 
 I feel convicted while reading Hillman and Ventura's book. They would've counted me as part of the problem for the forty years I've been shrinking heads. I should have read it when it came out. But that's not to say that they're entirely right.
 
-First, the practical problem: The amount of influence you have over the problems of the world is miniscule at best and non-existent at worst. Therefore, it makes more sense to cultivate your garden. You have the most impact on yourself and your immediate relationships. It all starts with inner work, but it shouldn't end there. There's nothing to say you can't learn about your city council as well as your attachment style.
+**First, the practical problem:** The amount of influence you have over the problems of the world is miniscule at best and non-existent at worst. Therefore, it makes more sense to cultivate your garden. You have the most impact on yourself and your immediate relationships. It all starts with inner work, but it shouldn't end there. There's nothing to say you can't learn about your city council as well as your attachment style.
 
-Second, the inner child issue: I'm sorry to say that Hillman misses the point about tending to the inner child. The idea is not to become childish, but to see what the kid within you has been crying about. See what it needs so it'll let you get your work done. The kid inside isn't meant to run your life, but until you acknowledge what happened to them and give them what they're lacking, they'll keep sabotaging your efforts to show up fully in the world. He's right about acorns; there does seem to be something that pulls people towards their destiny, but your acorn will never grow into a mighty oak if a squirrel eats it.
+**Second, the inner child issue:** I'm sorry to say that Hillman misses the point about tending to the inner child. The idea is not to become childish, but to see what the kid within you has been crying about. See what it needs so it'll let you get your work done. The kid inside isn't meant to run your life, but until you acknowledge what happened to them and give them what they're lacking, they'll keep sabotaging your efforts to show up fully in the world. He's right about acorns; there does seem to be something that pulls people towards their destiny, but your acorn will never grow into a mighty oak if a squirrel eats it.
 
-Third, therapy talk: Somehow, Hillman and Ventura's objection to therapy language must have seeped into my consciousness years ago without my ever reading the book. I learned to speak it when I learned to be a counselor, but then found it wasn't very helpful. My whole writing career has been an attempt to move past the jargon and come up with a more authentic understanding of psychology. That being said, there's no reason to believe the TikTokers who spout therapy talk today won't become as disappointed with it as I was. Meanwhile, they've improved their vocabulary.
+**Third, therapy talk:** Somehow, Hillman and Ventura's objection to therapy language must have seeped into my consciousness years ago without my ever reading the book. I learned to speak it when I learned to be a counselor, but then found it wasn't very helpful. My whole writing career has been an attempt to move past the jargon and come up with a more authentic understanding of psychology. That being said, there's no reason to believe the TikTokers who spout therapy talk today won't become as disappointed with it as I was. Meanwhile, they've improved their vocabulary.
 
-Fourth, the psyche is the world: When you locate problems in larger systems, it gives you a chance to evade responsibility for the things you can control. You can spend all your time analyzing how the world is making you sick without ever asking what your contribution to the madness has been.
+**Fourth, the psyche is the world:** When you locate problems in larger systems, it gives you a chance to evade responsibility for the things you can control. You can spend all your time analyzing how the world is making you sick without ever asking what your contribution to the madness has been.
 
-Finally, my main critique of Hillman and Ventura: They do not take their analysis far enough and apply their own principles. If we conceive of the world as a psyche, and if the problems the authors identified (regression to the inner child, therapy talk, and individualism) are symptomatic, then what is the message those symptoms are trying to deliver? If the world as we know it is an acorn struggling to grow into an oak tree, what is this oak tree and how do the symptoms they identify contribute to its formation?
+**Finally, my main critique of Hillman and Ventura**: They do not take their analysis far enough and apply their own principles. If we conceive of the world as a psyche, and if the problems the authors identified (regression to the inner child, therapy talk, and individualism) are symptomatic, then what is the message those symptoms are trying to deliver? If the world as we know it is an acorn struggling to grow into an oak tree, what is this oak tree and how do the symptoms they identify contribute to its formation?
 
 ### What the Symptoms Are Trying to Tell Us
 
@@ -82,6 +82,6 @@ Consider this interpretation: After 133 years of totalitarian states, global cap
 
 Therapy culture is not a distraction from political action but a form of political action. It’s a way people protect their humanity in an inhumane world. The "oak tree" our collective acorn is growing into might be a society that integrates individual authenticity with genuine community, and therapy culture is one messy step in that evolution.
 
-Why isn't the world getting any better, then? Hillman, as a Jungian, ought to have known the answer. According to Jung there's a stage called the nigredo, the blackening, when everything appears to get worse before transformation can occur. This dark phase involves the breakdown of existing forms, a kind of necessary death that precedes rebirth. Everything seems chaotic, hopeless, even destructive; but it's actually the psyche's way of clearing out what no longer serves you so that something genuinely new can be born.
+**Why isn't the world getting any better, then?** Hillman, as a Jungian, ought to have known the answer. According to Jung there's a stage called the nigredo, the blackening, when everything appears to get worse before transformation can occur. This dark phase involves the breakdown of existing forms, a kind of necessary death that precedes rebirth. Everything seems chaotic, hopeless, even destructive; but it's actually the psyche's way of clearing out what no longer serves you so that something genuinely new can be born.
 
 Maybe we're in that phase now. Maybe our current cultural obsession with individual healing is a necessary breakdown phase. We're learning to value the individual self precisely so we can bring an authentic self into genuine community.

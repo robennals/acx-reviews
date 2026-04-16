@@ -6,6 +6,7 @@
  */
 
 import * as cheerio from 'cheerio';
+import type { CheerioAPI } from 'cheerio';
 import TurndownService from 'turndown';
 
 // Initialize Turndown for HTML to Markdown conversion
@@ -29,6 +30,108 @@ turndownService.addRule('removeEmptySpans', {
   },
   replacement: () => '',
 });
+
+/**
+ * Parse the <style> block from a Google Docs HTML export to identify
+ * which CSS class names carry bold, italic, or indentation styling.
+ *
+ * Google Docs doesn't use semantic tags (<strong>, <em>, <blockquote>).
+ * Instead it assigns CSS classes like `.c8{font-weight:700}` to spans
+ * and paragraphs. We need to map class names to their semantic meaning
+ * so we can insert proper HTML tags before Turndown conversion.
+ */
+interface GDocStyleMap {
+  boldClasses: Set<string>;
+  italicClasses: Set<string>;
+  indentClasses: Set<string>; // classes with margin-left (blockquote candidates)
+}
+
+function parseGDocStyles(html: string): GDocStyleMap {
+  const boldClasses = new Set<string>();
+  const italicClasses = new Set<string>();
+  const indentClasses = new Set<string>();
+
+  const styleMatch = html.match(/<style[^>]*>([\s\S]*?)<\/style>/);
+  if (!styleMatch) return { boldClasses, italicClasses, indentClasses };
+
+  const styleText = styleMatch[1];
+
+  // Match CSS rules like .c8{font-weight:700;...}
+  const ruleRe = /\.([a-z][a-z0-9]*)\{([^}]+)\}/g;
+  let m;
+  while ((m = ruleRe.exec(styleText)) !== null) {
+    const cls = m[1];
+    const props = m[2];
+
+    if (/font-weight\s*:\s*700/.test(props)) {
+      boldClasses.add(cls);
+    }
+    if (/font-style\s*:\s*italic/.test(props)) {
+      italicClasses.add(cls);
+    }
+    // Detect meaningful left indentation (blockquote-like).
+    // Google Docs uses margin-left for indented paragraphs.
+    // Ignore small indents (text-indent for first-line) — only catch
+    // margin-left >= 18pt which typically indicates a block indent.
+    const marginMatch = props.match(/margin-left\s*:\s*(\d+(?:\.\d+)?)pt/);
+    if (marginMatch && parseFloat(marginMatch[1]) >= 18) {
+      indentClasses.add(cls);
+    }
+  }
+
+  return { boldClasses, italicClasses, indentClasses };
+}
+
+/**
+ * Pre-process Google Docs HTML to insert semantic tags that Turndown
+ * can recognize. Must be called after Cheerio load but before Turndown.
+ *
+ * 1. Wraps bold-styled spans in <strong>
+ * 2. Wraps italic-styled spans in <em>
+ * 3. Wraps indented paragraphs in <blockquote>
+ */
+function applySemanticTags($: CheerioAPI, styles: GDocStyleMap): void {
+  // Bold: wrap span contents in <strong> if any of its classes are bold
+  if (styles.boldClasses.size > 0) {
+    $('span').each(function () {
+      const el = $(this);
+      const classes = (el.attr('class') || '').split(/\s+/);
+      const isBold = classes.some(c => styles.boldClasses.has(c));
+      if (isBold && el.text().trim()) {
+        // Don't double-wrap if already inside <strong> or <b>
+        if (!el.closest('strong, b').length) {
+          el.wrapInner('<strong></strong>');
+        }
+      }
+    });
+  }
+
+  // Italic: wrap span contents in <em> if any of its classes are italic
+  if (styles.italicClasses.size > 0) {
+    $('span').each(function () {
+      const el = $(this);
+      const classes = (el.attr('class') || '').split(/\s+/);
+      const isItalic = classes.some(c => styles.italicClasses.has(c));
+      if (isItalic && el.text().trim()) {
+        if (!el.closest('em, i').length) {
+          el.wrapInner('<em></em>');
+        }
+      }
+    });
+  }
+
+  // Blockquote: wrap indented paragraphs
+  if (styles.indentClasses.size > 0) {
+    $('p').each(function () {
+      const el = $(this);
+      const classes = (el.attr('class') || '').split(/\s+/);
+      const isIndented = classes.some(c => styles.indentClasses.has(c));
+      if (isIndented && el.text().trim()) {
+        el.wrap('<blockquote></blockquote>');
+      }
+    });
+  }
+}
 
 /**
  * Clean up markdown output
@@ -79,7 +182,14 @@ export async function fetchGDocAsHTML(docId: string): Promise<string> {
  * and convert to markdown
  */
 export function convertGDocToMarkdown(html: string): string {
+  // Parse CSS class→style mappings BEFORE loading into Cheerio and removing <style>.
+  const styles = parseGDocStyles(html);
+
   const $ = cheerio.load(html);
+
+  // Apply semantic tags (bold→<strong>, italic→<em>, indent→<blockquote>)
+  // before Turndown conversion so it can recognize the formatting.
+  applySemanticTags($, styles);
 
   // Google Docs exports include a <body> with the content
   // Remove Google Docs specific elements we don't want

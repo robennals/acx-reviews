@@ -16,7 +16,7 @@ tags:
   - History
 ---
 
-Review of the Bible
+**Review of the Bible**
 
 The Bible is the most influential book in Western history and the most confidently misread.
 
