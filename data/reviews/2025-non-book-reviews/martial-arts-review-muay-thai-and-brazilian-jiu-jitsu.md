@@ -7,7 +7,7 @@ contestName: 2025 Non Book Reviews
 year: 2025
 publishedDate: '2026-02-06T16:55:03.480Z'
 slug: martial-arts-review-muay-thai-and-brazilian-jiu-jitsu
-wordCount: 5763
+wordCount: 5767
 readingTimeMinutes: 26
 originalUrl: >-
   https://docs.google.com/document/d/1a3q0Z2tuPLLbDeg5-pfEffkajGjrfPDwE7ZMs7uaWQs
@@ -19,9 +19,9 @@ tags:
 
 To review martial arts writ large is untenable. Ways and methods vary. At its base fighting breaks down into two categories: the striking arts and the grappling arts.  Yes, there are others, various disciplines with weapons and whatnot but the brunt of unarmed combat is either hitting someone or wrestling them. The best example of each category can represent the whole. In the martial arts world, meander as you like, you will eventually bump up against two truths. For knocking someone around, Muay Thai is considered the acme of knowledge. For strangling someone, Brazilian Jiu Jitsu takes top honors. Here is what you want to know. In a technical sense ‘martial arts’ can refer to any type of fighting but for my purposes here I’m going to use the term to connote only non-western, unarmed forms of combat.  
 
-Esteemed Reader: But Brazil is in the western hemisphere...
+Esteemed Reader: But Brazil is in the western hemisphere... 
 
-Humble Reviewer: Yes, very observant, indulge me.
+Humble Reviewer: Yes, very observant, indulge me. 
 
 Esteemed Reader: I’m not sure I want to be strangling anyone.
 
@@ -43,45 +43,45 @@ Now, bear with me for a little more history.
 
 Foreign terminology added mystery. Elaborate training garments, and a belted ranking system offered novelty. Throw in the putative ability to disarm thugs and your local Karate school becomes an unbeatable market force. The commercialization was incredible. Strip malls proliferated with schools of every type. New denominations springing up like churches, usually with the same credulous devotion. Movies and television took an interest.
 
-  Depictions of the Asian fighting arts came in dribs and drabs.  A front kick here, a neck chop there, and a few ninja in You Only Live Twice. Soon you had the makings of something big.  A tipping point was reached in 1973 with Bruce Lee’s seminal Enter the Dragon.  From that point on it was full steam ahead for martial arts in the media.  East Asian fighting systems went from a casual mention to becoming their own genre.Enjoy a few kicks in your fight scenes?  Have an all-kick-action-flick.  This spawned its own sub genres, the kung-fu movie and the ninja movie being virulent examples.  By the nineteen-eighties martial arts had gone mainstream.  Every kid on every block was training, and those who weren’t stood in awe of those who did.
+  Depictions of the Asian fighting arts came in dribs and drabs.  A front kick here, a neck chop there, and a few ninja in You Only Live Twice. Soon you had the makings of something big.  A tipping point was reached in 1973 with Bruce Lee’s seminal Enter the Dragon.  From that point on it was full steam ahead for martial arts in the media.  East Asian fighting systems went from a casual mention to becoming their own genre. Enjoy a few kicks in your fight scenes?  Have an all-kick-action-flick.  This spawned its own sub genres, the kung-fu movie and the ninja movie being virulent examples.  By the nineteen-eighties martial arts had gone mainstream.  Every kid on every block was training, and those who weren’t stood in awe of those who did.
 
-Esteemed Reader: Mildly interesting, but I thought this was about Muay Thai and Jiu Jitsu?
+Esteemed Reader: Mildly interesting, but I thought this was about Muay Thai and Jiu Jitsu? 
 
-Humble Reviewer: We’ll get there, remember all this took a long time. From nineteen fifty to nineteen-eighty five, plus or minus. These years set the course for martial arts as we know it today, and how we know what works.
+Humble Reviewer: We’ll get there, remember all this took a long time. From nineteen fifty to nineteen-eighty five, plus or minus. These years set the course for martial arts as we know it today, and how we know what works.  
 
 The public consciousness began to absorb the idea of someone with a black belt as unstoppable. White pajamas with a black band at the waist and you were consecrated; a titan of combat. A sort of real-life movie character, philosophically adept, physically deadly and emotionally balanced. This ideation soon hit a wall called Mixed-Martial-Arts.  
 
-ER: You mean this is about the UFC?
+ER: You mean this is about the UFC? 
 
-HR: No, but it makes a cameo.
+HR: No, but it makes a cameo. 
 
 For years it seemed as though the effectiveness of the arts were directly tied to their rarity.  Over the four-decade period from the nineteen fifties to the nineteen nineties, every country Westerners had never (or barely) heard of brought forth its peculiar method of dispatching foes.  It wasn’t just enough to know Karate. Rather, you told people you did Shito-Ryu, or Kyokushin.  Not to be outdone, Kung-fu was no longer just Kung-Fu but Wing Chun, Lama-Pai, or Ba-Gua-Chang.  People trained in Hapkido, Tang Soo Do, the list goes on, and on.  North America, as is its wont, cobbled many of these into bespoke, hybrid styles.  North Americans love a mash-up, it is a rubric where we own the field.  
 
 The next step in this progression was obvious.  Which one was the deadliest?  Could the guy in black silk defeat the fellow in white cotton?  Was a leopard fist more effective than the ridge hand?  Competitive types hopped on this train tout suite.  Soon tournaments were taking place in every city with a martial arts club, though there was a catch: because no gloves were worn and these arts were so ostensibly dangerous, the tournaments were fought under ‘no contact’ rules.  The idea being that each fighter would stop their technique an inch or so from impact and that both competitors were assumed to understand the (theoretically) terrible consequences of the landed blow.   Some of you can already see where this is going.  
 
-An aside \- martial arts are useful; they are not magic. Martial arts practice will make you more capable, not invincible.  You can still be beaten up.  There are no guarantees, just better odds. An old saying goes that, “The good citizen and the desperado do not meet on equal terms”, this is true.  Someone who is highly aggressive and intent on harm has an inherent advantage.  Mr. Multiple Felon is not only tougher than Average Joe but more sadistic. An instigator of assaults is undeterred by the colored cincture at your waist.  This is an advantage akin to holding the high ground, and we all saw how that worked for Anakin Skywalker.  Keep this in mind as we return to late 1960s and early ‘70s North America.
+An aside - martial arts are useful; they are not magic. Martial arts practice will make you more capable, not invincible.  You can still be beaten up.  There are no guarantees, just better odds. An old saying goes that, “The good citizen and the desperado do not meet on equal terms”, this is true.  Someone who is highly aggressive and intent on harm has an inherent advantage.  Mr. Multiple Felon is not only tougher than Average Joe but more sadistic. An instigator of assaults is undeterred by the colored cincture at your waist.  This is an advantage akin to holding the high ground, and we all saw how that worked for Anakin Skywalker.  Keep this in mind as we return to late 1960s and early ‘70s North America.
 
 Hapkido vs. Kyokushin.  Bak Hawk Pai vs. Kenpo. X vs. Y.  
 
 A typical conversation:
 
--My style is best.
+-My style is best.  
 
--No, mine!  
+-No, mine!   
 
--Prove it.
+-Prove it. 
 
--We use more kicking.  Kicking is better because the legs are stronger than the arms and you can keep your distance.  
+-We use more kicking.  Kicking is better because the legs are stronger than the arms and you can keep your distance.   
 
--Our hand techniques are best because we train to kill with a single blow!  
+-Our hand techniques are best because we train to kill with a single blow!   
 
--But you won’t hit me with that blow.
+-But you won’t hit me with that blow. 
 
--My footwork will get me close and then you’re dead.
+-My footwork will get me close and then you’re dead. 
 
--No, you are!
+-No, you are! 
 
--Come hit me bro.
+-Come hit me bro. 
 
 Thus, spawned Full Contact.  Keep the Karate pants but put on boxing gloves and see whose style is really superior. What ensued was a truly Western creation.  Something on par with California Maki, Pineapple Chicken Balls, or the wholly invented, Crab Rangoon. A formation loosely based on an extant idea from the East, seasoned to a North American taste. Fusion cuisine with kicks. The result, if one has never seen it, was artless brawling more akin to a playground fight than any ritualized art. Invariably the winners of these exchanges tended to be the fighter with...wait for it...the better boxing.  In retrospect, it turns out that Jack Dempsy and Joe Louis were onto something.
 
@@ -91,7 +91,7 @@ This led to at least some semblance of martial arts being maintained.  It also 
 
 Enter Muay Thai.  
 
-Finally, you say.
+Finally, you say. 
 
 It turns out that all this experimentation had been done before.  At least four-hundred years before.  The Thais, back when their country was called Siam and the British were still agents of empire, had already figured out the best rule set for ring fighting.  You see, one of the problems with Full Contact was its insistence on above the waist kicking.  The difficulty for the kicker lay in the fact that a kick above the waist can be absorbed pretty well on the arms, allowing a defender to close the distance and pound away with fists.  Another difficulty is that a kick above the waist, while moderately dangerous, is easy to see coming. This is why there was the kick minimum, without it there is not much reason to kick – at least above the waist.  It is why skilled boxers didn’t think much of the Full contact guys.  Kicks made exclusively above-the-waist (barring a successful head kick)  leave you off balance and vulnerable to damage. You also tend to only get one before the puncher can close the distance and let you have it with a few fists to the face. The cost to benefit ratio is unfavorable.  Kicks had become (almost) counterproductive.  The Thais knew this back when Adam Smith was making his case for the free hand of the market.  
 
@@ -101,21 +101,21 @@ Now to the meat of it all.  Why is Muay Thai so effective?  A part of the reas
 
 Next is an emphasis on kicking the leg.  This is not something to be underestimated. At first glance kicking someone in the calf, or thigh may seem an ineffective means of self-defense. In reality it is debilitating.  Apart from the pain involved (on par with smacking a hammer into your thumb), these kicks affect ambulation.  Fighting, be it ring or street, requires good movement and a solid base.  Several sharp hits to the thigh play havoc with walking.  If you cannot stand, you cannot fight.  Ever capable, Muay Thai has come up with a way to deal with this problem, it is known as a ‘leg check’.  Leg checking involves meeting an incoming kick with the thick upper part of the shin.  Bone on bone.  At speed.
 
-ER: Wait! That sounds incredibly painful.  Why, I once smacked my shin into a coffee table in the dark, and let me tell you...
+ER: Wait! That sounds incredibly painful.  Why, I once smacked my shin into a coffee table in the dark, and let me tell you... 
 
-HR: Yes, it is absolutely painful.  At least until you get used to it.
+HR: Yes, it is absolutely painful.  At least until you get used to it. 
 
-ER: That doesn’t sound like something I want to get used to.
+ER: That doesn’t sound like something I want to get used to. 
 
-HR: No kidding.  Keep reading.
+HR: No kidding.  Keep reading. 
 
 The advantage of stopping a kick with your shin is twofold.  One, the defender gets to keep the hands up high, protecting the head.  This is essential.  Two, as painful as it is to be bashed about the shins, one can still move about and stand properly.  Because the muscles of the thigh are not affected one remains ‘ring effective’.
 
-Another aside \-  One aspect of effective martial arts is that they accomplish multiple objectives with a single action.  In this case protecting both head and body while simultaneously damaging an attacker.  True martial arts are replete with little moments like this, and it is one of my favorite things about them.
+Another aside -  One aspect of effective martial arts is that they accomplish multiple objectives with a single action.  In this case protecting both head and body while simultaneously damaging an attacker.  True martial arts are replete with little moments like this, and it is one of my favorite things about them.
 
 Other Muay Thai weapons also pay big dividends.  Case in point: the elbow.
 
-ER: That sounds dangerous.
+ER: That sounds dangerous. 
 
 HR: Yes. Perhaps even the most dangerous way of hitting someone in all of fighting.  Consider how even kick fighting came to be sanctioned with relatively little push back, but allowing combat sports with elbow strikes took decades longer. Kickboxing was sanctioned by the nineteen seventies. It was the new millennium before elbows became standard fare.  The elbow is disallowed in nearly every endeavor, even the rougher ones. Football, Basketball, Hockey, all prohibit this limb. I don’t Golf but it's probably not allowed there either.  Polite society frowns on striking someone with your elbow.
 
@@ -125,9 +125,9 @@ Another game changer, the knee. A doubled knee to the sternum is a serious probl
 
 The clinch is a fundamental element of Muay Thai. The clinch is a vice grip on the neck. Control the neck and head, you control everything else. Grab the back of the head with both hands. From here, hold your foe immobile and drive your knees into the body or face.  How is this on the receiving end? Unpleasant, painful, and intimidating are the sort of words that come to mind.  Betting odds favor the fighter with the superior clinch six to four.  Once you have gripped someone about the neck it is virtually impossible for them to hit you.  Saturday night tough guys are effectively neutered.  
 
-ER: OK, but do I want to do Muay Thai?
+  ER: OK, but do I want to do Muay Thai? 
 
-HR: If you mean getting in the ring, to batter, and be battered?  Almost certainly not.
+HR: If you mean getting in the ring, to batter, and be battered?  Almost certainly not.   
 
 Actual competition, even at the amateur level, is grueling, and dangerous. Anyone not already so inclined is unlikely to find it rewarding . The rounds are three minutes long and there are five of them.  The breaks for amateurs are one minute long, and for professionals, two minutes long. Think between two and four television commercials.   At the end of a TV movie, when advertisements come on with increasing frequency, this may seem like a long time.  When your chest is heaving, your legs welted, and sweat runs off of you like snowmelt, two minutes pass like light posts on the freeway.  
 
@@ -135,25 +135,25 @@ Actual competition, even at the amateur level, is grueling, and dangerous. Anyon
 
 In return for all this you receive lumps, contusions, burning lungs, and possibly a small trophy.  That’s it ---almost. The cheering of a large crowd is heady and no wonder some become addicted to it. Even a few hundred people shouting your name is a memorable experience. You will also gain the admiration of your peers. They may think you unbalanced but you won’t be openly denigrated.  Invariably, everyone respects someone who will climb into that ring.  
 
-Final and most important aside\- this is about potential damage to your body and brain.  Damage to your body, as a result of Muay Thai, will be minimal, impermanent, and you will almost always be stronger afterwards.  Damage to the brain is a different matter.  Brain damage from training is not the problem.  Damage fromring fighting, or even sparring, is a real thing.  Chronic Traumatic Encephalopathy (CTE) doesn’t affect everyone, but the risks certainly outweigh the benefits. For ACX readers this strikes me as a particular concern.  Anyone who gets hit repeatedly in the head, even with subconcussive blows, risks this sort of damage.  It is a serious concern that bears mentioning.
+Final and most important aside- this is about potential damage to your body and brain.  Damage to your body, as a result of Muay Thai, will be minimal, impermanent, and you will almost always be stronger afterwards.  Damage to the brain is a different matter.  Brain damage from training is not the problem.  Damage from ring fighting, or even sparring, is a real thing.  Chronic Traumatic Encephalopathy (CTE) doesn’t affect everyone, but the risks certainly outweigh the benefits. For ACX readers this strikes me as a particular concern.  Anyone who gets hit repeatedly in the head, even with subconcussive blows, risks this sort of damage.  It is a serious concern that bears mentioning.
 
-ER: You aren’t selling me on this.  I have an advanced degree, and my peers already respect me.
+ER: You aren’t selling me on this.  I have an advanced degree, and my peers already respect me. 
 
-HR: Good point.  Remember, this is a review, not a sales pitch.
+HR: Good point.  Remember, this is a review, not a sales pitch. 
 
-ER: Still, is there anything else beyond being beaten up to the cheers of the arena?
+ER: Still, is there anything else beyond being beaten up to the cheers of the arena? 
 
-HR: Glad you asked.
+HR: Glad you asked. 
 
 Recreational Muay Thai is a great time.  Yes, you will still suffer some discomfort, but it is bearable and rewarding.  No need to get hit.  You learn effective self-defense, increase your cardiovascular fitness, and improve your physique.  You may even attain that most desired status symbol, visible abdominals. Flexibility is also worth a mention.  For anyone who sits at a desk all day, the increased range of motion alone makes it worthwhile. It will make you a better dancer too.  Footwork is de rigure.   Then there is the confidence that comes with being dangerous. Negative day to day interactions are of less consequence.  You attain that mental edge of the arduously trained.  You improve mobility, balance, and all of those other markers of healthy aging. No CTE required.
 
-ER: Couldn’t I just do the dancing and yoga?
+ER: Couldn’t I just do the dancing and yoga? 
 
-HR: Yes, but you would miss out on the ability to deal effectively with footpads.
+HR: Yes, but you would miss out on the ability to deal effectively with footpads. 
 
-ER: I don’t cross paths with many footpads...
+ER: I don’t cross paths with many footpads... 
 
-HR: Fair. I refer you to the adage of a warrior in a garden vs. a gardener in a war.Muay Thai contains a set of skills which, in aggregate, translate well to many areas of life.  In any case, it's time to learn some Jujitsu.
+HR: Fair. I refer you to the adage of a warrior in a garden vs. a gardener in a war.  Muay Thai contains a set of skills which, in aggregate, translate well to many areas of life.  In any case, it's time to learn some Jujitsu. 
 
 Jujitsu
 
@@ -173,9 +173,9 @@ Jujitsu as we think of it today comes from Judo, by way of Brazil.  Legend goes
 
 The Gracie clan, as they are sometimes known, began taking on all comers in the same manner as the Thais a few paragraphs back.  Tae Kwon Do, KickBoxing, Esoteric-Fighting-Style-#6, whatever.  They were willing to fight quiet anyone.  They issued a standing challenge to all other styles.  Eventually this challenge led to a series of events known in Portuguese as ‘Vale Tudo’, literally anything goes. People came from all over the world to try their hand in this new arena. This was the progenitor of what we now call Mixed Martial Arts.    
 
-ER: Oh, this is the part with the UFC
+ER: Oh, this is the part with the UFC 
 
-HR: This is the part with the UFC.
+HR: This is the part with the UFC. 
 
 In the domain of martial arts movies there exists a seminal offering known as Bloodsport. Perhaps you have seen it. The main plot involves a secret underground fighting tournament. Martial artists of various styles travel across the world to prove their mettle against one another in fictional, no rules championship. By the late nineteen-eighties style vs. style fighting was everywhere in media. Apart from movies and television, video games became enamored with this same idea. Street Fighter and Mortal Kombat are prominent examples. The idea of this kind of ‘No Holds Barred’ tournament percolated for so long, in the minds of so many, that in nineteen-ninety three it finally made pay per view.  The first UFC was like nothing before seen and to the surprise of everyone but the Gracie family, Jujitsu came out on top. Every fight, even those whose participants without a grappling background, and who had every intention of remaining standing, ended up on the mat.  Suddenly the effectiveness of intricate hand and foot positions was usurped by the effectiveness of toeholds and triangle chokes.  Thus spawned the world of mixed martial arts as we know it today. Enter the supreme grappling art: Brazilian Jiu Jitsu.
 
@@ -183,9 +183,9 @@ Jujitsu, or BJJ comes in two flavors, Gi and No Gi. Gi is the name of the unifor
 
 No Gi is a faster game.  Players usually wear tight fitting shorts and a rash-guard, a thin wetsuit looking shirt.  A tight-fitting rash-guard paired with matching compression shorts evokes the superhero, and no doubt many people enjoy the comparison. Fit people look even more incredible in spandex.  Without lapels, a belt, or thick pants to grab onto, athleticism plays a much greater role.  This aspect of the sport is much more explosive and a little more fun, though it is well understood that the highest form of the art is the Gi game and all serious players learn it.
 
-ER: Sure, thank you, but do I want to do jujitsu?
+ER: Sure, thank you, but do I want to do jujitsu? 
 
-HR: Maybe, yes. It is lower impact than Muay Thai and effective for defense.  Here’s how it works:
+HR: Maybe, yes. It is lower impact than Muay Thai and effective for defense.  Here’s how it works: 
 
 Combat takes place in roughly three parts.  The first phase is akin to college wrestling.  Grabbing the opponent by one leg, grabbing the opponent around both legs, swinging your opponent to the ground, that sort of thing.  The full complement of Judo throws are also available. A successful throw is a confidence booster. Engineer a hip toss, with its satisfying thump on the mats  and you feel terribly capable.
 
@@ -201,23 +201,23 @@ Immobilizing someone larger than yourself is uncommonly rewarding. There is a re
 
  ER: So, no CTE?  
 
-HR: No CTE. Being struck at all is not a part of the rule set.
+HR: No CTE. Being struck at all is not a part of the rule set. 
 
-ER: Sounds more appealing already.  What’s the drawback?
+ER: Sounds more appealing already.  What’s the drawback?  
 
 From a pure combat point of view the drawbacks are twofold.  1) fighting on your feet offers advantage against multiple opponents (I know, you don’t even plan to have one opponent.), in many settings it is preferable to remain standing.  2) Without strikes of its own, Brazilian Jujitsu leaves one vulnerable to being knocked out by a punch or kick. Still, for the average person, these drawbacks are almost immaterial.  Most people never have to use these skills.  
 
 The real drawback: Cauliflower ears.  Repeated instances of grinding and pressing with your head (a necessary part of grappling) will cause your ears to bend and fold and develop scar tissue.  Disconcertingly visible scar tissue. People will take notice when you are first introduced.  Now, some folks really go in for this, wearing minor disfigurement as a badge of honor. A jungle level warning. Fair enough, though I do not imagine it helps your dating life. Nor say, a career as a newscaster.  It is possible to protect your ears with a wrestler’s ear protection, but  in practice this is almost never done.  Most serious players consider cauliflowering to be a badge of accomplishment, which it is.
 
-ER: So, do I want to do this?
+ER: So, do I want to do this? 
 
-HR: Maybe.  It is safer and less painful than Muay Thai.
+HR: Maybe.  It is safer and less painful than Muay Thai. 
 
 BJJ competition has a much lower ‘buy in’ than Muay Thai.  Because the matches are so much less demanding on the body and especially the brain. You can train a few hours a week and still compete as a hobbyist. Even if you decline to compete, a mere six months of classes will have you feeling very capable. You will be privy to knowledge that is rare, procured only through work, and cannot be taken away. ‘Rolling’ - those practice matches in class - will give you an earned confidence that translates well to everyday endeavors. Contusions are minimal  and your limbs mostly stay in working order.  
 
-ER: So... Should I dedicate several hours a week learning to disassemble people?
+ER: So... Should I dedicate several hours a week learning to disassemble people? 
 
-HR: Let’s break it down.Here is your personalized review of the martial arts.
+HR: Let’s break it down. Here is your personalized review of the martial arts. 
 
 Muay Thai as a competitive ring sport for the average person:
 

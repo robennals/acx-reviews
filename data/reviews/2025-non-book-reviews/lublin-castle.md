@@ -7,7 +7,7 @@ contestName: 2025 Non Book Reviews
 year: 2025
 publishedDate: '2026-02-06T16:55:03.479Z'
 slug: lublin-castle
-wordCount: 3991
+wordCount: 4002
 readingTimeMinutes: 18
 originalUrl: >-
   https://docs.google.com/document/d/1a3q0Z2tuPLLbDeg5-pfEffkajGjrfPDwE7ZMs7uaWQs
@@ -16,6 +16,9 @@ tags:
   - History
   - Religion
 ---
+
+![Obraz zawierający na wolnym powietrzu, budynek, niebo, drzewo
+Opis wygenerowany automatycznie](https://acximages.ennals.org/images/2025-non-book-reviews/1dc4da9aa1c22e3b.jpg)
 
 Castles older, bigger, on higher hills, climbing stepp rocks, resting in calm valleys, towering nice cities, guarding true capitals, or in the middle of black forests, or among sheep, or swarming with drones, secured by tourist traps, the ones with king inside or film crew or with the one who read this sitting in some vast hall, or climbing towers, hiding treasures, writing, fighting, cleaning, making a point or love or sleeping on ramparts under stars, yes, those happy stones warm from sun, castles! Castles here and there, especially in Europe, castles full of better stories and hungrier souls, true labyrinths and if only those walls could speak, but how to speak without mouth? Castles lack mouth and face. And it is strange lack for me.
 

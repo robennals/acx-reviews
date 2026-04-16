@@ -1,5 +1,8 @@
 ---
-title: "Impossible Histories: The Soviet Republic of Alaska, the United States of Hudsonia, President Charlemagne, and Other Pivotal Moments of History That Never Happened\_by Hal Johnson"
+title: >-
+  Impossible Histories: The Soviet Republic of Alaska, the United States of
+  Hudsonia, President Charlemagne, and Other Pivotal Moments of History That
+  Never Happened by Hal Johnson
 author: Unknown
 reviewAuthor: Anonymous
 contestId: 2024-book-reviews

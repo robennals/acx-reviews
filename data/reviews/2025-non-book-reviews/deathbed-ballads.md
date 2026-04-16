@@ -7,7 +7,7 @@ contestName: 2025 Non Book Reviews
 year: 2025
 publishedDate: '2026-02-06T16:57:48.926Z'
 slug: deathbed-ballads
-wordCount: 14132
+wordCount: 14146
 readingTimeMinutes: 63
 originalUrl: >-
   https://docs.google.com/document/d/1hjIUcKi-vIM9RGRZDWPRyUtzZLlVrpaY6Jy81iZVYi4
@@ -29,6 +29,8 @@ I will also give some thoughts on the mini-genre as a whole, trying to offer som
 ## Bury Me in My Shades
 
 I’ll begin with my first exposure to these songs, Shel Silverstein’s Bury Me in My Shades (1962). Silverstein is probably best known today as a beloved author of poems and stories for children, but this was only one facet of the man and his career. He also had a notable career writing articles and drawing cartoons for Playboy and other magazines and another career as a singer and songwriter. Some songs he wrote for other, better-known performers, most notably Johnny Cash: Silverstein wrote Cash’s famous “A Boy Named Sue”, for which both Cash and Silverstein won Grammy awards in 1970. Other songs, he performed himself. His songs were generally characterized by a similar whimsical absurdism as his childrens’ poems. Some of them were straightforward musical adaptations of those poems. More of his songs applied that whimsical absurdism to “mature” themes, some drawn from his own very colorful personal life and others serving as satirical commentary on politics or culture. It can be jarring for people of my generation who grew up reading Where the Sidewalk Ends to hear the same man singing songs like I Saw Polly in a Porny or I Got Stoned and I Missed It, on the same album as a musical adaptation of Sarah Cynthia Sylvia Stout Would Not Take the Garbage Out.
+
+![](https://acximages.ennals.org/images/2025-non-book-reviews/9d160c3eb2014e76.png)![](https://acximages.ennals.org/images/2025-non-book-reviews/99d115ca5214b204.png)
 
 Bury Me in My Shades is one of his songs, satirizing the libertine Beatnik (proto-Hippie) culture of which he was a participant. The narrator of the song recounts how he and other “junkies and loners and coffee shop owners” gathered around as “the last of the hipsters [1] lay dying”.
 
@@ -95,6 +97,8 @@ Rating: 7/10, recommended
 
 The other Dr. Demento song that got me started was Rolf Harris’s song Tie Me Kangaroo Down, Sport. Rolf Harris was a popular Australian children’s entertainer, famous as the host of Rolf Harris Cartoon Time (1979–1989) and Rolf Cartoon Club (1989–1993). In 2014, Harris was convicted of multiple counts involving sexual abuse and child pornography.
 
+![](https://acximages.ennals.org/images/2025-non-book-reviews/915976b30a353e0a.png)
+
 Kangaroo has had enough perennial popularity to have been covered by a number of other singers, most notably The Beatles (c. 1963) during a joint appearance with Harris in a TV special. It also appeared in a 2000 album by the modern children’s music group “The Wiggles”. While Harris wrote it in 1957, five years before Shades, it didn’t catch on outside of Australia until a few years later (1960 in the UK and 1963 in the US), making the songs roughly contemporary.
 
 The events described in Kangaroo follow pretty closely the same story structure as Shades, but with “An old Australian Stockman” taking the place of the “Last of the Hipsters”, attended by “his mates” and giving them his final requests which are recounted by the narrator.
@@ -127,6 +131,8 @@ Rating: 5/10, fun but lacking substance.
 Now we move on from parodies to serious songs, and from songs that are included in the review because of their significance to my own history of discovering this mini-genre, to songs that are significant more objectively and generally to the genre’s history.
 
 The Streets of Laredo is an American traditional cowboy ballad. It has its own Roud Index number (23650, with 337 recorded references), almost as many as The Unfortunate Lad has directly. Its origin and authorship are uncertain, but it’s old enough to be attested in Cecil J. Sharp’s collection of folk music (compiled 1889-1923) as The Western Cow Boy [sic]. It’s been covered by a great many artists over the years, including Johnny Cash, Marty Robbins, and Arlo Gunthrie. I will be focusing on Cash’s version (1965), since that is the one I’m most familiar with.
+
+![](https://acximages.ennals.org/images/2025-non-book-reviews/486adc1c9780f1b4.png)![](https://acximages.ennals.org/images/2025-non-book-reviews/a93df77df9c986e7.png)
 
 This song, too, follows the now-familiar story structure of the narrator arriving at a man’s deathbed, witnessing his dying speech which is recounted in the song and consists mainly of last requests, and concludes with the narrator telling how those requests were honored. Unlike Shades or Kangaroo, where the narrator is a long-time friend or associate of the dying man, the narrator of Laredo is a chance-met companion who hears and heeds the speech as an act of charity to a stranger. Cash’s version and many others start with the story of the chance meeting with “a poor cowboy wrapped in white linen [...] as cold as the clay”. The cowboy addresses the narrator, announcing that “I see by your outfit that you are a cowboy” and inviting him to “sit down beside me and hear my sad story”. The Cowboy recounts how he used to live a dashing life of riding, gambling, and frequenting “Rose’s” (which might be either a tavern or a brothel) before being “shot in the breast” and mortally wounded.The next three verses contain the cowboy’s dying requests. Two verses of these concern his funeral arrangements:
 
@@ -263,6 +269,8 @@ Prior to The Unfortunate Lad, the trail gets murky. Before The Buck’s Elegy, i
 
 In the 1920s, a cluster of related Blues songs started showing up in the repertoires of several Jazz and Blues singers called Gambler’s Blues or St. James Infirmary (Ibid). The later title, or the minor variant St. James Infirmary Blues very quickly became standard. The former was published as sheet music in 1925 and as a record in 1927 by Phil Baxter and Carl Moore, while the latter was first recorded in 1928 by Louis Armstrong [2]. Since then, it’s been performed and recorded by countless artists. Cab Calloway, who first recorded the song in 1930, is probably the most iconically associated with the song. More recently, it’s been recorded by Arlo Gunthrie (2007) and Hugh Laurie (2011).
 
+![](https://acximages.ennals.org/images/2025-non-book-reviews/674e314a877ce36f.png)![](https://acximages.ennals.org/images/2025-non-book-reviews/7c971217600b04a0.png)![](https://acximages.ennals.org/images/2025-non-book-reviews/8d0e0887691d94c6.png)![](https://acximages.ennals.org/images/2025-non-book-reviews/c70f3c94ce564ca1.png)![](https://acximages.ennals.org/images/2025-non-book-reviews/b104a56ee140e793.png)
+
 Top Row: Phil Baxter, Louis Armstrong, Cab Calloway  
 Bottom Row: Arlo Gunthrie, Hugh Laurie
 
@@ -326,7 +334,7 @@ There is one more verse that’s present in the Baxter/Moore original and in Gun
 Seven girls going to the graveyard  
 And only six of them are coming back
 
-Green indicates which verses were in each version of the song
+![](https://acximages.ennals.org/images/2025-non-book-reviews/5a5aa7ae7f673af4.png)Green indicates which verses were in each version of the song
 
 The tune Baxter wrote for his and Moore’s original version of the song is unique among these five recordings of the song. It's an extremely slow and somber jazz melody which puts me in mind of the baroque song Dead March from the third act of Handel’s 1738 oratorio Saul. The latter song is very commonly played at state funerals in many countries, including Britain and the United States, and I expect it is the same Dead March referred to in Laredo, Lad, and Elegy. If this resemblance was deliberate on Baxter’s part and not merely coincidence or figment of my imagination, it seems a very significant link between St. James and the Lad tradition.
 
@@ -361,6 +369,8 @@ Rating: 8/10 strongly recommended, overall. Which performance is best is a matte
 Dying Crapshooter Blues is another song that cropped up in the historical record in the 1920s. It’s conventionally attributed to the great early Blues singer Blind Willie McTell, who first recorded the song in 1940 and then re-recorded it in 1956 with a spoken intro claiming that he’d written it over the four year period from 1929 to 1932. This claim is seemingly contradicted by several recordings by different performers (Martha Copeland being the first) in 1927, which Max Haymes [1] attributes to misrecollection of dates on McTell’s part. Robert Harwood [2] has a different interpretation, considering it a settled fact that Crapshooter was written by Porter Grainger, who was the credited songwriter on Copeland’s recording.
 
 There are a number of covers of Crapshooter after McTell’s recordings, but it doesn’t seem to be anything like the major genre standard that St. James became. My favorite of these is by The Wiyos, recorded in 2007. The song appears to be strongly associated with McTell, and if it was at all popular as a live performance in the 20s and 30s, this does not seem to be attested in written or recorded sources.
+
+![](https://acximages.ennals.org/images/2025-non-book-reviews/d5915339452564f1.png)![](https://acximages.ennals.org/images/2025-non-book-reviews/afbeff52f101e243.png)![](https://acximages.ennals.org/images/2025-non-book-reviews/d1e018e621f25e27.png)![](https://acximages.ennals.org/images/2025-non-book-reviews/2e76eac556fdc3c3.png)
 
 Left to right: Martha Copeland, Porter Grainger, Blind Willie McTell, and Michael Farkas (Wiyos)
 
@@ -404,7 +414,7 @@ But I ain’t had my say
 
 This then segues into Jesse telling the narrator and others, “I guess you all should know / how I want to go”, introducing the funerary instructions. The other change is that the theme of the devil and damnation, mentioned only in passing in McTell’s version, is alluded to several times throughout the Grainger/Copeland version. There are also many minor changes in phrasing that don’t do much to change the meaning or the story structure.
 
-The two songs are radically different musically. The Grainger/Copeland is set to a slow, sad, dirge-like song with jazz elements, which I think is original but reminds me both of the tune Baxter wrote for his and Moore’s Gambler’s Blues and (especially in the piano accompaniment) of Chopin’s funeral march.McTell’s is a solo performance, with “talking blues” vocals and accompanied by blues guitar harmony. I hear some resemblance between McTell’s guitar accompaniment and the vocals sung by Copeland, but it’s a fairly distant one. McTell also employs a noticeable shift in rhythm and vocal style between when the narrator is quoting Jesse and when he’s speaking on his own account; this element is absent from Copeland’s performance.
+The two songs are radically different musically. The Grainger/Copeland is set to a slow, sad, dirge-like song with jazz elements, which I think is original but reminds me both of the tune Baxter wrote for his and Moore’s Gambler’s Blues and (especially in the piano accompaniment) of Chopin’s funeral march. McTell’s is a solo performance, with “talking blues” vocals and accompanied by blues guitar harmony. I hear some resemblance between McTell’s guitar accompaniment and the vocals sung by Copeland, but it’s a fairly distant one. McTell also employs a noticeable shift in rhythm and vocal style between when the narrator is quoting Jesse and when he’s speaking on his own account; this element is absent from Copeland’s performance.
 
 The Wiyos cover the song with a third distinct musical style. The tune and accompaniment are clearly derived from McTell’s, but are arranged for a three-piece band rather than a solo performance and shift it to a fast-paced danceable jazz style that feels very different from McTell’s blues guitar. Like Copeland and unlike McTell, they fully sing the vocals. They use and further emphasize McTell’s distinction in vocal style between Jesse’s and the narrator's voices. The Wiyos stick closely to McTell’s lyrics, but with a number of minor edits. Their one major lyrical change is verse in which Jesse is shot, where they omit any mention of “Sweet Loretta” and instead describes the shooting (which happened under unspecified circumstances in McTell’s version) as occurring during a police raid on an illegal gambling event.
 
@@ -434,6 +444,8 @@ Rating: 7/10 recommended for both the McTell version and the Grainger/Copeland 
 
 We reach the last major song that is conventionally considered to be part of the Unfortunate Lad tradition [1]. As a change of pace from the last few songs, its origin is clearly attested and undisputed. This is No Man’s Land, written by the Scottish-Australian folk musician Eric Bogle in 1975-6, It’s also known as Willie McBride or The Green Fields of France [2]. It’s been covered by a number of other performers, including The Dropkick Murphys, The High Kings, The Clancy Brothers, and John McDermott of The Irish Tenors. All the covers I’ve heard stick very close to the original, which simplifies my task as a reviewer.
 
+![](https://acximages.ennals.org/images/2025-non-book-reviews/794685b20f2bae5b.png)
+
 This song is quite a significant departure from the familiar story structure. The narrator is walking through France and stops to rest at the grave of a fallen soldier from the First World War, a private named William (or Willie, in most covers) McBride who died six decades before the song was written. Based on the name and circumstances, McBride was likely an Irishman [3] enrolled in the British Army. It’s more likely than not he died in the Battle of the Somme, but soldiers died of bullets, shells, accidents, and disease even in “quiet” areas of the front.
 
 And I see by your gravestone that you were only nineteen  
@@ -452,6 +464,8 @@ But here in this graveyard that's still No Man's Land
 The countless white crosses in mute witness stand  
 To man's blind indifference to his fellow man.  
 And a whole generation who were butchered and damned.
+
+![](https://acximages.ennals.org/images/2025-non-book-reviews/7fd1ad2d8419ff97.png)![](https://acximages.ennals.org/images/2025-non-book-reviews/ece6958756a3bf6f.png)
 
 Left: Part of the Somme battlefield (Deville Wood) in July 1916  
 Right: The Rancourt (British) Military Cemetery, one of many graveyards and memorials on the Somme battlefield.
@@ -475,6 +489,8 @@ Besides changing tense and pronouns and rephrasing the instructions as questions
 Bogle performs the song to a tune closely derived from the same Bard of Armagh traditional Irish ballad tune that has become the standard tune for Laredo and Lad. I might be imagining it, but I think Bogle might also have worked in some motifs from Flowers of the Forest as minor elements. Between the choice of tune and the inclusion of the chorus, it seems very likely that Bogle deliberately constructed the song as part of the Lad tradition. I can’t say for sure if he had symbolic significance in mind or merely found the mood of the song appropriate, but the link to Laredo as a cautionary tale against senseless violence fits France perfectly.
 
 Bogle wrote the song while touring battlefields, war cemeteries, and memorials in France and meditating on the horrors of war in general and the First World War in particular. He’s said that the particular William McBride of the song is fictional, intended to be metronymic for all the dead of that war, with the name McBride chosen for its Irish connotations and to rhyme with “graveside”. As it happens there were approximately twenty soldiers of that name who died in the Great War, eleven of whom are known to be buried in battlefield cemeteries in France or Belgium [5].
+
+![](https://acximages.ennals.org/images/2025-non-book-reviews/8bb2907c5078b7cc.png)![](https://acximages.ennals.org/images/2025-non-book-reviews/5edd1ff6caa1643d.png)
 
 Of the eleven real William McBrides killed in the war and resting in France, this is the one who has been identified as most closely resembling Bogle’s fictional McBride [6]
 
@@ -500,6 +516,8 @@ Rating: 10/10. Bogle’s original recording and every major cover I’ve heard o
 
 And now for something that isn’t quite completely different, but which is radically different in tone from France and of the other serious songs we’ve been covering. It’s also tied to the Lad tradition in a much more tenuous manner than the other songs.
 
+![](https://acximages.ennals.org/images/2025-non-book-reviews/7ee2487441065006.png)
+
 The Great Conch Train Robbery (1979) is another song written by Shel Silverstein, the author and performer of Shades. It takes place in the town of Key West, Florida, where a local called Sam the Shrimper stands up in Sloppy Joe’s bar and declaims to all present that,
 
 ...I'm tired of being a shrimper  
@@ -508,6 +526,8 @@ So I'm gonna rob [1] the Conch Train, boys,
 And be like Jesse James.
 
 The narrator then explains to the audience that the Conch Train is “a tourist toy” used for sightseeing trips and is “like some weird ride from Disneyland”. If anything, this undersells the absurdity of Sam’s proposed career change. The Conch Train is real [2]; it’s a rubber-wheeled tram with open-sided cars (similar to the ones that shuttle guests to and from amusement park parking lots), styled like an old-fashioned steam train, that drives around city streets at little more than a jogging pace for a one-hour tour.
+
+![](https://acximages.ennals.org/images/2025-non-book-reviews/a67e5d74f4cb079c.png)
 
 Sam defends his plan to the audience by explaining that the tourists carry cash, jewelry, and fenceable cameras and mopeds. But the real selling point seems to be the glory of being the first man in history to rob this particular train. The chorus of the song also emphasizes that Sam is looking to imitate a legendary outlaw in the Old West, finishing
 
@@ -518,7 +538,7 @@ The narrator then tells us how Sam seduced the engineer of the Conch Train, Bets
 
 On the fateful day, Sam jumps naked out of the ocean, where he had been hiding, onto the train and holds up the tourists with his filet knife. Things do not go well for our hero [4], as near the back of the train rides Kelso Bolls, whom the narrator describes as “A redneck of respect and a marksman of renown”, who draws a concealed pistol and shoots Sam three times. The narrator spends two full verses describing Bolls and his one-sided shootout with Sam, explicitly comparing them to two classic Western movie stars:
 
-…and the third time that he shot poor Sam,  
+![](https://acximages.ennals.org/images/2025-non-book-reviews/16bbabcc334a92a0.png)![](https://acximages.ennals.org/images/2025-non-book-reviews/31e6c13338695565.png)…and the third time that he shot poor Sam,  
 You could see in both their eyes  
 Lash LaRue [Left] and Randolph Scott [Right]  
 Beneath the Western skies. [5]
@@ -564,6 +584,8 @@ Rating: 6/10, recommended with reservations. It’s a fun song with clever lyric
 
 ## The Synoptic Problem
 
+![](https://acximages.ennals.org/images/2025-non-book-reviews/63d150319fa779dc.png)![](https://acximages.ennals.org/images/2025-non-book-reviews/09b6c62abe2bc7a0.png)
+
 Of the four canonical Gospels of the New Testament, three of them, Matthew, Mark, and Luke, have enormous overlaps between them, and not just the way that we’d expect if they were independently-formulated accounts of the same events. To a large extent, they tell exactly the same stories in approximately the same order using very similar wordings. Some of this is all three, some is only present in two of the three, and there are major stylistic differences between the Luke/Matthew double tradition and the material that either or both share with Mark. These three books are known collectively as the “Synoptic [1] Gospels”, and the analysis of why they share these similarities in ways that the Gospel of John lacks is the “Synoptic Problem”. There are a plethora of hypotheses that have been offered to explain this, of which the currently most accepted is that Mark was written first and Luke and Matthew independently drew their shared material from a lost and unattested source known as the Q Gospel.
 
 There is a considerable body of scholarship attempting to analyze the cause of the thematic and textual overlaps between Lad, Laredo, St. James, Crapshooter, France, and other similar songs and poems. I’m familiar with some of the literature, but far from all of it. The conventional view is that all of them are straight-line derivative works of a single ancestral Irish ballad, usually referred to in the literature as The Unfortunate Rake, of which Buck is often identified as one of the earliest surviving forms. Laredo and France are straight-line descendants of Rake via Lad, and St. James and Crapshooter are an offshoot branch that grew within the African American musical tradition. Of the authors I’ve referenced so far, this view seems to be accepted by Bishop, Roud, and Haymes.
@@ -591,11 +613,15 @@ I chose the motifs by including elements that were shared between some of the ni
 
 Some motifs were only sort-of present in a given song, while others were present in some versions of a song but not others. These I represented with fractional values.
 
+![](https://acximages.ennals.org/images/2025-non-book-reviews/041845626e87bcb1.png)
+
 I see a block of motifs that are equally common among the Lad, Laredo, St. James, and Crapshooter. I also see some motifs that are shared by Elegy, Lad, and Laredo and absent from St. James and Crapshooter, and vice versa; I’ll refer to these as the “triple tradition” and “double tradition” respectively.
 
 The other four songs don’t fit quite as well. Kangaroo scores especially poorly, but Conch Train is surprisingly strong. France is unusually weak for a song that we are absolutely certain is derived from the triple tradition, but that makes sense given that France has entirely different story structure and mainly derives a narrow piece, the tune and France’s chorus from the triple tradition. Almost all of the nine non-control songs share dying orations, nested first/second person narratives, a sense of impending doom, and funeral arrangements, but this is unsurprising since those were what more or less what I identified as the shared traits I was intrigued by when I started looking into this.
 
 Moving on from eyeballing the raw data, here’s my attempt at an actual statistical analysis:
+
+![](https://acximages.ennals.org/images/2025-non-book-reviews/5397c2a9fbcbe535.png)
 
 This is an asymmetrical analysis of what fraction of motifs from the row-header song are also present in the column-header song. For example, the 96% figure in the Lad column and the Buck row means that 96% of the motifs in Buck are also present in Lad, and the 68% figure one cell southwest of it means that Buck only has a little over two thirds of the motifs present in Lad. Taken together, this means that Lad adds substantially to Buck in the dimensions I’m considering, but hardly subtracts any, the same way that the Gospel of Matthew contains almost all of the Gospel of Mark, plus substantial additional material. The averages on the right of the chart indicate a ceiling of how much that row’s song gives to the triple and double traditions (Buck/Lad/Laredo and St. James/Crapshooter respectively), while the averages on the bottom indicate a ceiling of how much those songs take from them.
 

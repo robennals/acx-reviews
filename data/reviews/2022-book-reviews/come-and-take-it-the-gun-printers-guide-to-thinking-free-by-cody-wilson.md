@@ -7,7 +7,7 @@ contestName: 2022 Book Reviews
 year: 2022
 publishedDate: '2026-02-06T07:24:08.697Z'
 slug: come-and-take-it-the-gun-printers-guide-to-thinking-free-by-cody-wilson
-wordCount: 3166
+wordCount: 3169
 readingTimeMinutes: 15
 originalUrl: >-
   https://docs.google.com/document/d/1pRQbRbEUwSH_jm94PI_ij-88swat7vQ4iNaNp6gd39g
@@ -47,15 +47,17 @@ He filed with the Federal Election Commission, tried to raise funds, and started
 
 Wilson credits his friend, Benjamin Denio, with giving him the idea for 3D printed guns. At first, he isn't sure if it's even possible. And given the state of 3D printing technology in the 2010s, trying to build such a gun is questionable, at best.
 
-The Liberator is kind of terrible. It can fire one shot before reloading. Built correctly, it has a lifespan of perhaps a dozen shots. Built incorrectly, and it will [explode](https://www.google.com/url?q=https://en.wikipedia.org/wiki/File:ATF_test_of_3-D_printed_firearm_using_VisiJet_material_(Side_View).webm&sa=D&source=editors&ust=1770366233270530&usg=AOvVaw055VGiDxHP1XLAGKfBH0ii) the first time you use it. As a gun, it is strictly worse than guns that could already, legally be made with a few shop tools and a trip to your local hardware store. [2]
+The Liberator is kind of terrible. It can fire one shot before reloading. Built correctly, it has a lifespan of perhaps a dozen shots. Built incorrectly, and it will [explode](https://en.wikipedia.org/wiki/File:ATF_test_of_3-D_printed_firearm_using_VisiJet_material_(Side_View).webm) the first time you use it. As a gun, it is strictly worse than guns that could already, legally be made with a few shop tools and a trip to your local hardware store. [2]
 
 Another wrinkle is that, in at least one important sense, the Liberator isn't the world's first 3D printed gun. Michael Guslik, a hobbyist gunsmith, beat Wilson to the punch, printing an AR-15 lower receiver in ABS plastic in 2012. [3] A “lower receiver” is just one part of a rifle that happens to contain the trigger mechanism. By itself, it can't fire bullets.
 
+![](https://acximages.ennals.org/images/2022-book-reviews/ff7bf65fbf6e8a88.png)
+
 A 3D printed lower receiver in white plastic (Source: Come and Take It)
 
-But the 3D printed lower receiver is a neat legal hack. There's a [Sorites paradox](https://www.google.com/url?q=https://en.wikipedia.org/wiki/Sorites_paradox&sa=D&source=editors&ust=1770366233271372&usg=AOvVaw1Wcm7SzwQdV36pODceZD5S) kind of problem: how many gun parts do you need to put together before the assemblage becomes a gun? According to US law, the lower receiver is the gun, the only part that is legally controlled. Everything else you can buy at your local gun shop, or online with a credit card, no questions asked.
+But the 3D printed lower receiver is a neat legal hack. There's a [Sorites paradox](https://en.wikipedia.org/wiki/Sorites_paradox) kind of problem: how many gun parts do you need to put together before the assemblage becomes a gun? According to US law, the lower receiver is the gun, the only part that is legally controlled. Everything else you can buy at your local gun shop, or online with a credit card, no questions asked.
 
-In true [Hansonian](https://www.google.com/url?q=https://www.overcomingbias.com/2008/09/politics-isnt-a.html&sa=D&source=editors&ust=1770366233271757&usg=AOvVaw0q9r-vCjESXtucqJMiT4FA) fashion: 3D printed guns are not about guns! In 2012, the popular perception was that information could flow freely, but guns could be kept under control. The quality of the Liberator doesn't matter: its mere existence sends the ideas of freedom of information and gun control on a collision course.
+In true [Hansonian](https://www.overcomingbias.com/2008/09/politics-isnt-a.html) fashion: 3D printed guns are not about guns! In 2012, the popular perception was that information could flow freely, but guns could be kept under control. The quality of the Liberator doesn't matter: its mere existence sends the ideas of freedom of information and gun control on a collision course.
 
 Sure, make the guns with a printer, I thought. But if we could do it, anyone could. The political opportunity wasn’t in manufacturing, then. It was in publishing. In one moment it solidified for me: we could produce a gun with the most widely available 3D printing technology and then freely distribute the plans over the Internet. We’d share the designs as open-source software. Go for the brass ring of system failure. Ben had given us WikiLeaks for guns.
 
@@ -71,13 +73,13 @@ The idea of a 3D printed gun unwinds this. 3D printed guns might be more diffic
 
 All of this only has a tenuous connection to physical reality. The idea of a 3D printed gun is doing all of the heavy lifting. The actual 3D printed gun is just there to make the idea convincing. Very postmodern.
 
-An exercise for the intrepid reader: map the pieces of this reasoning onto the [Simulacra](https://www.google.com/url?q=https://thezvi.wordpress.com/2020/08/03/unifying-the-simulacra-definitions/&sa=D&source=editors&ust=1770366233274168&usg=AOvVaw1H1c1wcuKLFyk1nv7_32uT) definitions. Unsurprisingly, Wilson is a fan of Baudrillard.
+An exercise for the intrepid reader: map the pieces of this reasoning onto the [Simulacra](https://thezvi.wordpress.com/2020/08/03/unifying-the-simulacra-definitions/) definitions. Unsurprisingly, Wilson is a fan of Baudrillard.
 
 IV.
 
 Wilson did not grow up in a family where guns were around. He didn't have his finger on the pulse of American gun culture. When he started, he didn't know anything about engineering, ballistics or plastics. If you're trying to build a new kind of gun to troll the world, where do you start?
 
-How about [4chan](https://www.google.com/url?q=https://en.wikipedia.org/wiki/4chan&sa=D&source=editors&ust=1770366233274713&usg=AOvVaw3X9d4Dwn2qT6OradBJPWQg)?
+How about [4chan](https://en.wikipedia.org/wiki/4chan)?
 
 After a summer of nights spent more often than not trolling the Internet imageboards for interest in the project, it was time to get more serious about fund-raising. Already, as I looked around my place, I pictured a pattern of expedition and privation. I was at UT on scholarship, but that didn’t cover the rent, let alone the cost of the supplies and the printer we would eventually need. We’d estimated it would cost eighteen grand all told. I’d pick up any other expenses with my credit cards, if it came to that.
 
@@ -105,7 +107,7 @@ To start printing, Wilson leases a Stratasys printer. The lease is almost immedi
 
 Stratasys isn’t having any of it. There’s a clause in the lease that prohibits using the printer in any way that could damage the business's image. They also report Wilson to the ATF, but he manages to avoid any criminal charges.
 
-This becomes a recurring problem for Defense Distributed: corporations act to protect their public image and, even at this early stage, Wilson was developing a reputation as a dangerous subversive. Being named one of the [15 Most Dangerous People in the World](https://www.google.com/url?q=https://www.wired.com/2012/12/most-dangerous-people/&sa=D&source=editors&ust=1770366233277491&usg=AOvVaw0Bd1CUg6ooGtsT94PpaCUy) by Wired magazine probably didn't help.
+This becomes a recurring problem for Defense Distributed: corporations act to protect their public image and, even at this early stage, Wilson was developing a reputation as a dangerous subversive. Being named one of the [15 Most Dangerous People in the World](https://www.wired.com/2012/12/most-dangerous-people/) by Wired magazine probably didn't help.
 
 In startup language, Wilson is a non-technical founder: promoting the company, fundraising, recruiting engineering talent, and just generally trying to keep the whole operation from collapsing. Of course, Defense Distributed isn't organized like any typical startup:
 
@@ -113,7 +115,7 @@ I sat half-naked in my office chair, and into the early hours worked through sta
 
 “Remember when I said it was a million dollar idea?” I texted Ben. “It meant we’d have to spend a million.”
 
-Wilson finds sympathetic small business 3D printers to work with. He [shoots](https://www.google.com/url?q=https://tvtropes.org/pmwiki/pmwiki.php/Main/IncrediblyLamePun&sa=D&source=editors&ust=1770366233278768&usg=AOvVaw2C0PoSLwo2Dx0-pDksFqJD) a video of Michael Guslik's AR-15 lower receiver, even though the first one only lasts 6 rounds before cracking. And he publishes 3D printed magazines, [5] named after politicians who try to legislate a cap on the maximum number of bullets that you can load into a gun: “In a generation or two, no one would remember the fifty-sixth governor of New York, but someone would be working on or printing out a Cuomo mag.”
+Wilson finds sympathetic small business 3D printers to work with. He [shoots](https://tvtropes.org/pmwiki/pmwiki.php/Main/IncrediblyLamePun) a video of Michael Guslik's AR-15 lower receiver, even though the first one only lasts 6 rounds before cracking. And he publishes 3D printed magazines, [5] named after politicians who try to legislate a cap on the maximum number of bullets that you can load into a gun: “In a generation or two, no one would remember the fifty-sixth governor of New York, but someone would be working on or printing out a Cuomo mag.”
 
 Most importantly for the Liberator's development, he meets John, an engineer who answered a call for more help on Twitter. Wilson explains Defense Distributed's strategy, to the extent that there is one:
 
@@ -161,9 +163,11 @@ As they get closer to finishing the Liberator, Defense Distributed starts gettin
 
 The law had existed for over twenty years, but no one had ever made the rules. Somehow, it feels appropriate. Wilson had no idea what he was getting into when he started Defense Distributed. But, as it turns out, neither did anyone else.
 
-Defense Distributed [dropped](https://www.google.com/url?q=https://www.youtube.com/watch?v%3DdrPz6n6UXQY&sa=D&source=editors&ust=1770366233284439&usg=AOvVaw23I3XlIgaE9065YFSduGtq) the Liberator on May 6, 2013.
+Defense Distributed [dropped](https://www.youtube.com/watch?v=drPz6n6UXQY) the Liberator on May 6, 2013.
 
 “Come and take it”, indeed.
+
+![](https://acximages.ennals.org/images/2022-book-reviews/fef653fe06b023c4.png)
 
 The Liberator pistol (Source: Come and Take It)
 
@@ -187,7 +191,7 @@ Build something that cannot be ignored, and you can change the nature of a polic
 
 VIII.
 
-Wilson talks about his book deal in a 2014 [interview](https://www.google.com/url?q=https://www.youtube.com/watch?v%3Dg5fhBBipU3w&sa=D&source=editors&ust=1770366233286972&usg=AOvVaw2O5denVpE6UqXJCml8o3VF) with ReasonTV:
+Wilson talks about his book deal in a 2014 [interview](https://www.youtube.com/watch?v=g5fhBBipU3w) with ReasonTV:
 
 “I'm much more interested in the storytelling in a kind of Baudrillardian, postmodern visual sense where everything takes on historical poetics. I mean, it’s extremely pretentious.” (Cody Wilson)
 
@@ -196,6 +200,8 @@ Wilson talks about his book deal in a 2014 [interview](https://www.google.com/ur
 “Mostly to tell a really good story, man. I hope it's worthy of the title of literature.” (Cody Wilson)
 
 Extremely pretentious, hopefully a good story. I can’t think of a better review than that.
+
+![](https://acximages.ennals.org/images/2022-book-reviews/1b63c540b1b1ff75.png)
 
 [1] In the e-book version, you can still read the censored text by highlighting it.
 

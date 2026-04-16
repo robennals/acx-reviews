@@ -7,7 +7,7 @@ contestName: 2024 Book Reviews
 year: 2024
 publishedDate: '2026-02-06T16:47:49.304Z'
 slug: eothen-by-alexander-kinglake
-wordCount: 8347
+wordCount: 8352
 readingTimeMinutes: 38
 originalUrl: >-
   https://docs.google.com/document/d/1QiotH3aGFgNLGqsIHTK_Plm_gem2E4l2C2ctyGJd0jY
@@ -19,7 +19,7 @@ tags:
 
 Eothen was first recommended to me as "[a masterpiece of the wry and elliptically self-mocking English travel memoir](https://www.firstthings.com/article/2017/04/from-a-vanished-library)," and I found it compulsively readable.
 
-It’s a true story in which our hero,[Alexander Kinglake](https://en.wikipedia.org/wiki/Alexander_William_Kinglake), visits famous sites throughout the Middle East, during a pandemic in the 1830s.
+It’s a true story in which our hero, [Alexander Kinglake](https://en.wikipedia.org/wiki/Alexander_William_Kinglake), visits famous sites throughout the Middle East, during a pandemic in the 1830s.
 
 If you have a taste for dry English humor mixed with a bit of social commentary and adventure, you'll probably like it.
 
@@ -75,7 +75,7 @@ While exploring the city, Kinglake gets bumped by the foot of a plague victim be
 
 “This accident gave me such a strong interest in denying the soundness of the contagion theory that I did in fact deny and repudiate it altogether: and from that time, acting upon my own convenient view of the matter, I went wherever I chose, without taking any serious pains to avoid a touch. It seems to me now very likely that the Europeans are right, and that the plague may be really conveyed by contagion; but during the whole time of my remaining in the East my views on this subject more nearly approached to those of the fatalists”
 
-A[paper](https://www.biusante.parisdescartes.fr/sfhm/hsm/HSMx1982x017xspec1/HSMx1982x017xspec1x0116.pdf) by the late Professor LaVerne Kuhnke confirms that, in 1834, there was a "prolonged and devastating plague epidemic which provoked a heated controversy over the etiology of the disease which was not settled until 60 years later, when Yersin discovered the specific causative pathogen in 1894."
+A [paper](https://www.biusante.parisdescartes.fr/sfhm/hsm/HSMx1982x017xspec1/HSMx1982x017xspec1x0116.pdf) by the late Professor LaVerne Kuhnke confirms that, in 1834, there was a "prolonged and devastating plague epidemic which provoked a heated controversy over the etiology of the disease which was not settled until 60 years later, when Yersin discovered the specific causative pathogen in 1894."
 
 Kuhnke also notes: "Opposition to quarantine practices among Europeans had a wide range of motivations. Many reformers' reactions against the archaic, unexamined and sometimes illogical regulations were well-founded and sincere.... Many enlightened Physicians had rejected the so-called 'contagionist' hypothesis on which quarantine practices were based. And many trade representatives resented the restrictions simply as interference with private enterprise."
 
@@ -167,7 +167,7 @@ He also enjoys a visit to Damascus, though he doesn't mention the ladies there. 
 
 “Christianity merits and sanctions the drinking of wine; and of all the holy brethren in Palestine there are none who hold fast to this gladsome rite so strenuously as the monks of Damascus; not that they are more zealous Christians than the rest of their fellows in the Holy Land, but that they have better wine.”
 
-From Damascus, he ventures down to the western shore of the Sea of Galilee, to the city of Tiberias. Tiberias, despite being founded by Romans and named after one of their emperors, had (sometime in the 16th century) been anointed one of the[Four Holy Cities](https://en.wikipedia.org/wiki/Four_Holy_Cities) of Judaism, and thus had become a pilgrimage site for Jews of all nations. Various Christian holy sites are also pointed out to him along the way, including the remains of some famous loaves and fishes which had been miraculously turned to stone - he notes drily that “The petrifaction was most complete.”
+From Damascus, he ventures down to the western shore of the Sea of Galilee, to the city of Tiberias. Tiberias, despite being founded by Romans and named after one of their emperors, had (sometime in the 16th century) been anointed one of the [Four Holy Cities](https://en.wikipedia.org/wiki/Four_Holy_Cities) of Judaism, and thus had become a pilgrimage site for Jews of all nations. Various Christian holy sites are also pointed out to him along the way, including the remains of some famous loaves and fishes which had been miraculously turned to stone - he notes drily that “The petrifaction was most complete.”
 
 One of the drawbacks of visiting famous pilgrimage sites becomes unpleasantly clear when he stays overnight in Tiberias: pilgrims from everywhere bring pests from everywhere. “The fleas of all nations were there … and all rejoiced in one great international feast.”
 
@@ -177,7 +177,7 @@ He begins the next chapter by caricaturing - and ascribing to his former self - 
 
 “There comes to him a time for loathing the wearisome ways of society — a time for not liking tamed people — a time for not sitting in pews — a time for impugning the foregone opinions of men, and haughtily dividing truth from falsehood — a time, in short, for questioning, scoffing, and railing — for speaking lightly of … all our most cherished institutions. It is from nineteen to two- or three-and-twenty, perhaps, that this war of the man against men is like to be waged most sullenly.”
 
-This may be the key to his whole journey: he brings it up at this point to explain his questionable decision to follow a questionable guide to the wrong side of the Jordan River. Even though he knows they should be sticking to the West Bank as they journey south toward the Dead Sea, he allows his party to be led across to the east bank of the Jordan. He explains that the chance to encounter actual "wandering tribes," and maybe partake of "bread and salt in the tent of an Arab warrior" was part of the appeal.
+This may be the key to his whole journey: he brings it up at this point to explain his questionable decision to follow a questionable guide to the wrong side of the Jordan River. Even though he knows they should be sticking to the West Bank as they journey south toward the Dead Sea, he allows his party to be led across to the east bank of the Jordan. He explains that the chance to encounter actual "wandering tribes," and maybe partake of "bread and salt in the tent of an Arab warrior" was part of the appeal. 
 
 "There, on the other side of the river ... there reigns the people that will be like to put you to death, for not being a vagrant, for not being a robber, for not being armed and houseless. There is comfort in that -- health, comfort, and strength to one who is aching from very weariness of that poor, dear, middle-aged, deserving, accomplished, pedantic, and pains-taking governess, Europe."
 
@@ -293,11 +293,11 @@ For example, on this return trip, he comments on the need to obtain milk, eggs, 
 
 "The worst of it was that the needful viands were not to be obtained by coin, but only by intimidation. I at first tried the usual agent — money … but [my servant] came back empty-handed. I sent him again, but this time he held different language: he required to see the elders of the place, and, threatening dreadful vengeance, commanded them … that my tent should be immediately and abundantly supplied. He was obeyed at once … the usage of the East in old times, required the people of the village at their own cost to supply the wants of travelers; and the ancient custom is now adhered to — not in favor of travelers generally — but in favor of those who are deemed sufficiently powerful to enforce its observance”
 
-Further north (toward the northernmost point of what is now Israel) he comes to the city of Safed, another of the[Four Holy Cities](https://en.wikipedia.org/wiki/Four_Holy_Cities) which were particularly esteemed by the Jews of Kinglake's day. Ironically, it features in Eothen as a city where the local Jews were persecuted by an especially self-interested "prophet."
+Further north (toward the northernmost point of what is now Israel) he comes to the city of Safed, another of the [Four Holy Cities](https://en.wikipedia.org/wiki/Four_Holy_Cities) which were particularly esteemed by the Jews of Kinglake's day. Ironically, it features in Eothen as a city where the local Jews were persecuted by an especially self-interested "prophet."
 
 While pausing to camp outside of Safed, our author is visited by a delegation of Jewish elders, who beseech his help (as a presumably powerful grandee from England) and inform him that last year "a highly religious Mussulman called Mohammed Damoor went forth into the market-place, crying with a loud voice, and prophesying that on the fifteenth of the following June the true Believers would rise up in just wrath against the Jews, and despoil them of their gold, and their silver, and their jewels."
 
-"When that day dawned, the whole Mussulman population of the place assembled in the streets, that they might see the result of the prophecy. Suddenly Mohammed Damoor rushed furious into the crowd, and the fierce shout of the prophet soon ensured[the](https://en.wikipedia.org/wiki/1834_looting_of_Safed) [fulfilment](https://en.wikipedia.org/wiki/1834_looting_of_Safed) [of his prophecy](https://en.wikipedia.org/wiki/1834_looting_of_Safed)."
+"When that day dawned, the whole Mussulman population of the place assembled in the streets, that they might see the result of the prophecy. Suddenly Mohammed Damoor rushed furious into the crowd, and the fierce shout of the prophet soon ensured [the](https://en.wikipedia.org/wiki/1834_looting_of_Safed) [fulfilment](https://en.wikipedia.org/wiki/1834_looting_of_Safed) [of his prophecy](https://en.wikipedia.org/wiki/1834_looting_of_Safed)."
 
 So much for self-fulfilling prophecies: Mohammed Damoor may be the first explicitly recorded instance of a self-fulfilling prophet.
 

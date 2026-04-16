@@ -52,7 +52,7 @@ I’m not convinced by Gurri’s proposed solutions.  Maybe I didn’t fully un
 
 * * *
 
-[[1]](#ftnt_ref1)        Non-native English speakers, please see [https://en.wikipedia.org/wiki/Bar\_joke](https://www.google.com/url?q=https://en.wikipedia.org/wiki/Bar_joke&sa=D&source=editors&ust=1770366086827993&usg=AOvVaw0D43lhaYmfbWsIZOg8fUll).
+[[1]](#ftnt_ref1)        Non-native English speakers, please see [https://en.wikipedia.org/wiki/Bar\_joke](https://en.wikipedia.org/wiki/Bar_joke).
 
 [[2]](#ftnt_ref2)        Oops! I mean “bears.”
 

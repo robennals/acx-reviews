@@ -7,7 +7,7 @@ contestName: 2024 Book Reviews
 year: 2024
 publishedDate: '2026-02-06T16:49:14.000Z'
 slug: the-beauties-essential-stories-by-anton-chekhov
-wordCount: 3013
+wordCount: 3014
 readingTimeMinutes: 14
 originalUrl: >-
   https://docs.google.com/document/d/14qa47TJ_Vyerx4XNgTCIh7PUZ_TOgNcU_eHm5So_zo0
@@ -30,13 +30,13 @@ In the process, he basically invented modern theater by writing plays like The C
 
 Indeed, Chekhov is widely considered by both critics and practitioners of the form to be the greatest short story writer of all time. To pick one example out of the sea of improbably effusive praise that Chekhov’s writing inspires, Raymond Carver, the “great” American short story author of the 20th century (whom many of us were forced to read in High School English) wrote: “It is not only the immense number of stories [Chekhov] wrote—for few, if any, writers have ever done more—it is the awesome frequency with which he produced masterpieces.”
 
-This is a review of 13 of Chekhov’s best pieces, collected in The Beauties: Essential Stories (Pushkin Press). The collection is an excellent place to start for the uninitiated.
+This is a review of 13 of Chekhov’s best pieces, collected in The Beauties: Essential Stories (Pushkin Press). The collection is an excellent place to start for the uninitiated. 
 
 ## A Note from the Author
 
-Before going any further with this review, I’d like to take a moment to acknowledge an important fact: short stories are bad.[[1]](#ftnt1)
+Before going any further with this review, I’d like to take a moment to acknowledge an important fact: short stories are bad.[[1]](#ftnt1) 
 
-At its best, fiction combines engaging storytelling with insight. But given the constraint imposed by their eponymous brevity,short stories generally don’t have enough time to establish a compelling setting, to introduce us to the relevant characters, or to inspire us to care about what happens to them. The only short stories that have anything to offer tend to be those that transcend the limitations of the form through sci-fi ingenuity (like Ted Chiang’s Exhalations) or by hitting us with a crazy twist (like “The Lottery”).  
+At its best, fiction combines engaging storytelling with insight. But given the constraint imposed by their eponymous brevity, short stories generally don’t have enough time to establish a compelling setting, to introduce us to the relevant characters, or to inspire us to care about what happens to them. The only short stories that have anything to offer tend to be those that transcend the limitations of the form through sci-fi ingenuity (like Ted Chiang’s Exhalations) or by hitting us with a crazy twist (like “The Lottery”).  
 
 Somehow Chekhov’s short stories succeed without the aid of sci-fi or plot twists. They are sublime. And I want you to know that I believe this to be the case, even though I’m just a regular guy with a deep and healthy dislike for the short story as a literary form.
 
@@ -86,7 +86,7 @@ His “heroes” are weak, and often pathetic. They are led astray by both their
 
 At the beginning of ‘The Beauties’, the narrator recounts a journey he made as a teenager, traveling through the steppe with his grandfather, when they chanced to stop at the home of an Armenian man with a black-haired daughter.
 
-Every time she darted past me in all her beauty, I felt sadder and sadder. I was sorry for myself, and for her, and for the farm hand who followed her with sad eyes every time she ran through the cloud of chaff to the carts. Whether I envied her beauty, or whether I was sorry that this girl was not mine and never would be mine and that I was a stranger to her, or whether I had a vague feeling that her rare beauty was accidental and unnecessary, and like everything on earth, would not last; or whether my sadness was that special feeling aroused when a person contemplates real beauty–God only knows!
+Every time she darted past me in all her beauty, I felt sadder and sadder. I was sorry for myself, and for her, and for the farm hand who followed her with sad eyes every time she ran through the cloud of chaff to the carts. Whether I envied her beauty, or whether I was sorry that this girl was not mine and never would be mine and that I was a stranger to her, or whether I had a vague feeling that her rare beauty was accidental and unnecessary, and like everything on earth, would not last; or whether my sadness was that special feeling aroused when a person contemplates real beauty–God only knows! 
 
 This passage is so perfect to me. There is real pathos to it. Yet, at a level beyond that, it’s funny–the grandiosity of this boy’s sadness. Then, at a level beyond that, there’s such a truth to it. Mix it altogether and it sparks a kind of comical melancholy that’s infused with a general tenderness toward you and me and all us sinners who walk the earth alone, together.
 

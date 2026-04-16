@@ -19,7 +19,7 @@ tags:
 
 ## I. Prologue
 
-[Antifragile: Things That Gain from Disorder](https://www.google.com/url?q=https://www.amazon.com/Antifragile-Things-That-Disorder-Incerto/dp/0812979680&sa=D&source=editors&ust=1770366085351326&usg=AOvVaw2U0mpaeckqzMr6g1K0jnOy), by Nassim Nicholas Taleb, seems to have anticipated my project of reviewing it, and took pains to make it difficult for me. Writing on the book’s structure:
+[Antifragile: Things That Gain from Disorder](https://www.amazon.com/Antifragile-Things-That-Disorder-Incerto/dp/0812979680), by Nassim Nicholas Taleb, seems to have anticipated my project of reviewing it, and took pains to make it difficult for me. Writing on the book’s structure:
 
 Someone in the business of “summarizing” books would have to write four or five separate descriptions. But I saw that they were not stand-alone essays at all; each deals with the applications of a central idea, going either deeper or into different territories: evolution, politics, business innovation, scientific discovery, economics, ethics, epistemology, and general philosophy.
 
@@ -35,7 +35,7 @@ And the key element of every Taleb book is present right from the start: everyon
 
 ## II. The Triad
 
-The University of Chicago’s [writing program](https://www.google.com/url?q=https://www.youtube.com/watch?v%3DvtIzMaLkCaM&sa=D&source=editors&ust=1770366085355888&usg=AOvVaw3NSEDeEoQ-oy-QoW-UkQJ3) urges its students (faculty and PhDs, not undergrads) to focus on creating value in their work before anything else. How do you create value? If nothing else, say someone is wrong and try to prove it.
+The University of Chicago’s [writing program](https://www.youtube.com/watch?v=vtIzMaLkCaM) urges its students (faculty and PhDs, not undergrads) to focus on creating value in their work before anything else. How do you create value? If nothing else, say someone is wrong and try to prove it.
 
 Taleb would have passed such a course with flying colors. He accumulates a lengthy list of people who were wrong, whether of the “sucker,” “sissy,” “naive rationalist,” or “interventionista” flavor, which grows to include nearly all economists, great swaths of the business, technological and medical professions, and philosophers all the way back to Aristotle and Socrates.
 
@@ -157,7 +157,7 @@ On the surface, maybe not. He critiques the Nerd as someone “who thinks exceed
 
 Taleb, the pit trader-turned fund manager, rejects “verbalistic” pursuits, where being right is a matter of convincing others, and prefers instead to use correct knowledge to make money. He would probably approve of bet prediction sites and the rationalist virtue of making bets.
 
-On the other hand… Taleb reminds me of Dumbledore. [Eliezer Yudkowsky’s Dumbledore](https://www.google.com/url?q=http://www.hpmor.com/chapter/39&sa=D&source=editors&ust=1770366085390365&usg=AOvVaw3sJ0bgOlQrvBiWntMDc9Oc).
+On the other hand… Taleb reminds me of Dumbledore. [Eliezer Yudkowsky’s Dumbledore](http://www.hpmor.com/chapter/39).
 
 And, of course, we have this modern illusion that we should live as long as we can. As if we were each the end product. This idea of the “me” as a unit can be traced to the Enlightenment. And with it, fragility.
 
@@ -205,6 +205,6 @@ But I get ahead of myself—ecstatic beat poetry is not appropriate for a book r
 
 I collect the voices of my favorite authors and let them battle it out in my head. He and Peterson have such wonderful discussions in there! I put them on as masks too. The Taleb mask has served me well. When I need confidence, when I need to face down a narcissist, when I need to defend my worldview from the enemy, I reach for him.
 
-If you too want to have the voice of a Lebanese volatility specialist in your ear, judging every aspect of your life, read [Antifragile: Things That Gain from Disorder](https://www.google.com/url?q=https://www.amazon.com/Antifragile-Things-That-Disorder-Incerto/dp/0812979680&sa=D&source=editors&ust=1770366085399339&usg=AOvVaw32sOVyALB1NiL9F71XRJaD).
+If you too want to have the voice of a Lebanese volatility specialist in your ear, judging every aspect of your life, read [Antifragile: Things That Gain from Disorder](https://www.amazon.com/Antifragile-Things-That-Disorder-Incerto/dp/0812979680).
 
 * * *

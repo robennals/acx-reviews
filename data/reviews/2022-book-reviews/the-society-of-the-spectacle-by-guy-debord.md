@@ -7,7 +7,7 @@ contestName: 2022 Book Reviews
 year: 2022
 publishedDate: '2026-02-06T07:21:54.174Z'
 slug: the-society-of-the-spectacle-by-guy-debord
-wordCount: 9554
+wordCount: 9559
 readingTimeMinutes: 43
 originalUrl: >-
   https://docs.google.com/document/d/1hFzjXliCAWjvheY-8Qd2fhbF79LnX0Xg6R9eqk9yIyI
@@ -19,7 +19,9 @@ tags:
 
 “The Society of the Spectacle will make no sense if the reader feels there is nothing fundamentally wrong with contemporary society.”
 
-Guy Debord was a Marxist theorist and founding member of the [Situationist International](https://www.google.com/url?q=https://en.wikipedia.org/wiki/Situationist_International&sa=D&source=editors&ust=1770366106644328&usg=AOvVaw1Ll3nz5LZDxjMUr3qBka-e), among other things.  Like all great thinkers worth their salt, he was an embittered alcoholic who [took his own life](https://www.google.com/url?q=https://www.theguardian.com/books/2001/jul/28/biography.artsandhumanities&sa=D&source=editors&ust=1770366106644626&usg=AOvVaw18a6JyG_BnGB2Co1Jptoo_) in despair.1 
+Guy Debord was a Marxist theorist and founding member of the [Situationist International](https://en.wikipedia.org/wiki/Situationist_International), among other things.  Like all great thinkers worth their salt, he was an embittered alcoholic who [took his own life](https://www.theguardian.com/books/2001/jul/28/biography.artsandhumanities) in despair.1 
+
+![](https://acximages.ennals.org/images/2022-book-reviews/1a2f5a1e145b0d75.png)
 
 Debord in France, 1954
 
@@ -52,6 +54,8 @@ As the spectacle conquered the earth, it took on different forms.  Debord diffe
 ## II. All The World’s A Stage
 
 Debord emphasized the visual character of the spectacle, as you can see from his choice of book cover:
+
+![](https://acximages.ennals.org/images/2022-book-reviews/c97e07bd38fcc6bf.png)
 
 Cover of The Society of the Spectacle
 
@@ -123,7 +127,7 @@ As an example: how much of your daily environment, as a percentage, do you truly
 
 Compare that to, say, a homesteader.  It really hasn’t been that long since people lived in a comprehensible universe.  Our collective knowledge of the universe has deepened tremendously, but theoretical physics is only less slightly hermetical than the occult beliefs it replaced.  It is notionally true that anyone could go get a Ph.D. and verify our working model of the cosmos.  But in practice, the science is received wisdom, taken on faith. Our belief in the God Particle is functionally indistinguishable from the belief in God of ages past.
 
-It’s worth noting that our current theories will surely be supplanted in a century or three.  They are placeholders for better, truer ideas.  And so our greater grasp of the wider world has less value than we think, while our day-to-day grows ever more opaque.  Is it any wonder [epistemic learned helplessness](https://www.google.com/url?q=https://slatestarcodex.com/2019/06/03/repost-epistemic-learned-helplessness/&sa=D&source=editors&ust=1770366106658440&usg=AOvVaw1df6rVkQVdZ2amhZolswiw) is a thing?
+It’s worth noting that our current theories will surely be supplanted in a century or three.  They are placeholders for better, truer ideas.  And so our greater grasp of the wider world has less value than we think, while our day-to-day grows ever more opaque.  Is it any wonder [epistemic learned helplessness](https://slatestarcodex.com/2019/06/03/repost-epistemic-learned-helplessness/) is a thing?
 
 * * *
 
@@ -147,7 +151,7 @@ Fallacious archaic oppositions are revived — regionalisms and racisms which se
 
 Genuine grassroots movements (Occupy, the Tea Party, BLM, Canadian truckers) almost always fizzle out without accomplishing anything of substance.  They will either be ignored, crushed, or co-opted.  Any remnants that endure will be reduced to figureheads that offer ‘representation’ for a point of view without actually producing any change. (‘The Squad’, Rand Paul, etc…)  If the extremes of either side gain enough momentum to pose a threat, they will face a united front from the establishment wings of both parties (Bernie, Trump).
 
-It’s fashionable at the moment to blame the Woke Left for the politicization of everything, but we’ve all been around long enough to know better. It’s the same shit, different decade. During the Bush years, it was the left who opposed unending wars, government overreach, and media gaslighting.  Today those positions are often considered right wing, but only because the pendulum of power has swung in the other direction.  [Moloch](https://www.google.com/url?q=https://slatestarcodex.com/2014/07/30/meditations-on-moloch/&sa=D&source=editors&ust=1770366106661740&usg=AOvVaw1wnCmu0_v8md8xabOQgqxo) pursues its own goals, wearing whatever ideological guise it deems most effective.
+It’s fashionable at the moment to blame the Woke Left for the politicization of everything, but we’ve all been around long enough to know better. It’s the same shit, different decade. During the Bush years, it was the left who opposed unending wars, government overreach, and media gaslighting.  Today those positions are often considered right wing, but only because the pendulum of power has swung in the other direction.  [Moloch](https://slatestarcodex.com/2014/07/30/meditations-on-moloch/) pursues its own goals, wearing whatever ideological guise it deems most effective.
 
 From Debord’s perspective, everything is becoming politicized because everything is getting monetized.  In the integrated spectacle, the primary concerns of the State are economic, so the personal turning political is simply a downstream effect of the growth of capitalism.  
 
@@ -227,6 +231,8 @@ But maybe not, because Debord has a solution.  He has thought long and hard on 
 
 Okay, granted, that doesn’t sound like much - but that’s just Step One.  Step Three is, duh, global socialist utopia.  Step Two… well, it’s a work in progress.
 
+![](https://acximages.ennals.org/images/2022-book-reviews/f33cbf7284ef34c3.png)
+
 The critical concept of 'the spectacle' can undoubtedly be turned into one more hollow formula of sociologico-political rhetoric used to explain and denounce everything in the abstract, thus serving to reinforce the spectacular system. It is obvious that ideas alone cannot lead beyond the existing spectacle; at most, they can only lead beyond existing ideas about the spectacle. To actually destroy the society of the spectacle, people must set a practical force into motion.
 
 Fair enough, but what does that look like?
@@ -243,7 +249,7 @@ Anybody can say that the proletariat should become practical theorists who apply
 
 Obviously, I’m being more than a little bit unfair.  The Society of the Spectacle is a work of philosophy, not a tactical handbook for worldwide insurgency.  Presumably he had more granular proposals when it came time to get down to brass tacks.  
 
-We’re also playing Monday morning quarterback with a half-century’s worth of hindsight.  We know now that Marxism is exhausted as a revolutionary political force.  But it certainly wasn’t in 1967.  The Society of the Spectacle was at least partially the inspiration for the events of [May 68](https://www.google.com/url?q=https://en.wikipedia.org/wiki/May_68&sa=D&source=editors&ust=1770366106674608&usg=AOvVaw2MYpEBsCs-8YhsfThuai3a), which came surprisingly close to being a Big Deal. Instead, it proved to be one of the last gasps of true radical fervor in the West, and only a few short years later the Situationist International disbanded.  
+We’re also playing Monday morning quarterback with a half-century’s worth of hindsight.  We know now that Marxism is exhausted as a revolutionary political force.  But it certainly wasn’t in 1967.  The Society of the Spectacle was at least partially the inspiration for the events of [May 68](https://en.wikipedia.org/wiki/May_68), which came surprisingly close to being a Big Deal. Instead, it proved to be one of the last gasps of true radical fervor in the West, and only a few short years later the Situationist International disbanded.  
 
 One wonders what an older, wiser Debord would have to say after his dreams went up in smoke.  Would that we could hear his thoughts on the unchallenged reign of the spectacle.  
 
@@ -253,7 +259,7 @@ One wonders what an older, wiser Debord would have to say after his dreams went 
 
 Fortunately, we have exactly that.  In 1987 he gave a speech entitled, appropriately enough, Comments On The Society Of The Spectacle.  The first thing that jumps out is a jarring shift in tone.  Debord’s remarks have a paranoid cast that would fit right at home on r/conspiracy.  He opens by stating that he “obviously cannot speak with complete freedom” because Big Brother is watching.
 
-It’s easy to mock internet detectives channeling [Charlie Day](https://www.google.com/url?q=https://www.youtube.com/watch?v%3D_nTpsv9PNqo&sa=D&source=editors&ust=1770366106675668&usg=AOvVaw2hjcqvb6tSZ-lprqudsnxQ) from the comfort of their computer chairs; that shit hits different when your publisher was [murdered in cold blood](https://www.google.com/url?q=https://en.wikipedia.org/wiki/G%25C3%25A9rard_Lebovici%23Death&sa=D&source=editors&ust=1770366106675888&usg=AOvVaw2INNO6A2YjrbBKwPOJqk2F).
+It’s easy to mock internet detectives channeling [Charlie Day](https://www.youtube.com/watch?v=_nTpsv9PNqo) from the comfort of their computer chairs; that shit hits different when your publisher was [murdered in cold blood](https://en.wikipedia.org/wiki/G%C3%A9rard_Lebovici#Death).
 
 By the late eighties, any number of books had been published describing features of the spectacle, but to Debord they were only superficial critiques:
 
@@ -267,9 +273,9 @@ The all-pervasive nature of mass media has led to the universal victory of form 
 
 It is in these conditions that a parodic end of the division of labor suddenly appears, with carnivalesque gaiety, all the more welcome because it coincides with the generalized disappearance of all true competence. A financier can be a singer, a lawyer a police spy, a baker can parade his literary tastes, an actor can be president, a chef can philosophize on the movements of baking as if they were landmarks in universal history. Where the possession of ‘mediatic status’ has acquired infinitely more importance than the value of anything one might actually be capable of doing, it is normal for this status to be easily transferable and to confer the right to shine in the same fashion to anyone anywhere.
 
-Another major theme is the emergence of the Eternal Present.  [Pseudoevents](https://www.google.com/url?q=https://books.google.com/books/about/The_Image.html?id%3DqrBQ-WW7ITwC&sa=D&source=editors&ust=1770366106678432&usg=AOvVaw1NrVPQYcudrW92WQ9MUGdW)10 come and go in rapid succession, everywhere and then nowhere at all. Social media has only accelerated the turnover. The news cycle generates nonstop whiplash.  Yesterday it was Covid, today it’s Ukraine; tomorrow both will be memory-holed. Last year’s news has already vanished without a trace. Whither Kazakhstan? [Afghanistan](https://www.google.com/url?q=https://abcnews.go.com/International/afghans-struggle-humanitarian-crisis-millions-brink-starvation/story?id%3D82685490&sa=D&source=editors&ust=1770366106678915&usg=AOvVaw3_3YQ2lbamHIuRQ5iIlmrB)? Who knows and who cares?
+Another major theme is the emergence of the Eternal Present.  [Pseudoevents](https://books.google.com/books/about/The_Image.html?id=qrBQ-WW7ITwC)10 come and go in rapid succession, everywhere and then nowhere at all. Social media has only accelerated the turnover. The news cycle generates nonstop whiplash.  Yesterday it was Covid, today it’s Ukraine; tomorrow both will be memory-holed. Last year’s news has already vanished without a trace. Whither Kazakhstan? [Afghanistan](https://abcnews.go.com/International/afghans-struggle-humanitarian-crisis-millions-brink-starvation/story?id=82685490)? Who knows and who cares?
 
-For that matter, why are we up in arms about Ukraine and not, say, [Yemen](https://www.google.com/url?q=https://www.hrw.org/world-report/2020/country-chapters/yemen&sa=D&source=editors&ust=1770366106679160&usg=AOvVaw398LxmYfjj6dYDGiBY-k2R)? There are clear reasons why - they just have nothing to do with democracy, sovereignty, war crimes, or human rights. I don't mean to say that nobody cares about those things. We all do, at least in a vague and abstract way. But that collective concern only becomes acute when the spectacle brings it into focus. The spectacle's gaze roves and lingers according to its whims. Without that constant reminder to care, awareness dissipates.
+For that matter, why are we up in arms about Ukraine and not, say, [Yemen](https://www.hrw.org/world-report/2020/country-chapters/yemen)? There are clear reasons why - they just have nothing to do with democracy, sovereignty, war crimes, or human rights. I don't mean to say that nobody cares about those things. We all do, at least in a vague and abstract way. But that collective concern only becomes acute when the spectacle brings it into focus. The spectacle's gaze roves and lingers according to its whims. Without that constant reminder to care, awareness dissipates.
 
 When the spectacle stops talking about something for three days, it is as if it did not exist. For it has then gone on to talk about something else, and it is that which henceforth, in short, exists.
 
@@ -277,7 +283,7 @@ With mastery the spectacle organizes ignorance of what is about to happen and, i
 
 History’s domain was the memorable, the totality of events whose consequences would be lastingly apparent. Inseparably, history was knowledge that must endure and aid in understanding, at least in part, what was to come: 'a possession for all time,' according to Thucydides. In this way history was the measure of genuine novelty; and those who sell novelty at any price have made the means of measuring it disappear. When the important makes itself socially recognized as what is instantaneous, and will still be the other and the same the instant afterwards, and will always replace another instantaneous importance, one can say that the means employed guarantee a sort of eternity of non-importance that speaks loudly.
 
-Who controls the past, controls the future.  Debord just missed the heyday of Rage Against The Machine, but he [would’ve been a fan.](https://www.google.com/url?q=https://www.youtube.com/watch?v%3DQ3dvbM6Pias&sa=D&source=editors&ust=1770366106680862&usg=AOvVaw3KNaCbT3rsru9HU079l4Ff)
+Who controls the past, controls the future.  Debord just missed the heyday of Rage Against The Machine, but he [would’ve been a fan.](https://www.youtube.com/watch?v=Q3dvbM6Pias)
 
 He takes aim at technocrats as well. The acceleration of technological innovation “...has greatly reinforced spectacular authority, by completely surrendering everybody to the ensemble of specialists, to their calculations and their judgments, which always depend on their calculations."
 
@@ -285,7 +291,7 @@ No longer is science asked to understand the world, or to improve any part of it
 
 All experts are mediatic-Statists and only in that way are they recognized as experts. Every expert follows his master, because all former possibilities for independence have been almost reduced to nil by present society’s conditions of organization. The most useful expert, of course, is the one who lies. Those who need experts are, for different reasons, falsifiers and ignoramuses. Whenever individuals lose the capacity to see things for themselves, the expert is there to offer a formal reassurance.
 
-Some of these New Mandarins get a peek behind the curtain, some small taste of how power really operates.  This cons them into thinking that they’re [part of the club.](https://www.google.com/url?q=https://www.youtube.com/watch?v%3Di5dBZDSSky0&sa=D&source=editors&ust=1770366106682059&usg=AOvVaw0gCJN_OLBN1ZLN9KFTai_y)
+Some of these New Mandarins get a peek behind the curtain, some small taste of how power really operates.  This cons them into thinking that they’re [part of the club.](https://www.youtube.com/watch?v=i5dBZDSSky0)
 
 They constitute the privilege of first-class spectators: those who have the stupidity to believe they can understand something, not by making use of what is hidden from them, but by believing what is revealed to them!
 
@@ -305,7 +311,7 @@ So far, his thoughts are of a kind with the original book.  Brace yourselves, b
 
 This perfect democracy fabricates its own inconceivable enemy, terrorism. It wants, actually, to be judged by its enemies rather than by its results. The history of terrorism is written by the State and it is thus instructive. The spectating populations must certainly never know everything about terrorism, but they must always know enough to convince them that, compared with terrorism, everything else seems rather acceptable, in any case more rational and democratic.
 
-[They hate us for our freedoms](https://www.google.com/url?q=https://www.washingtonpost.com/wp-srv/nation/specials/attacked/transcripts/bushaddress_092001.html&sa=D&source=editors&ust=1770366106684504&usg=AOvVaw34oiIbm9R3BvXB_WFu0gvq), no? What other reasons could they possibly have? They are enemies of freedom.  Logically, we must be free.  
+[They hate us for our freedoms](https://www.washingtonpost.com/wp-srv/nation/specials/attacked/transcripts/bushaddress_092001.html), no? What other reasons could they possibly have? They are enemies of freedom.  Logically, we must be free.  
 
 ​​Judicial repression’s current objective here, of course, is to generalize matters as fast as possible. What is important in this sort of commodity is the packaging, or the labeling: the price codes. One enemy of spectacular democracy is the same as another, just like spectacular democracies themselves.
 
@@ -345,7 +351,7 @@ At the moment when almost every aspect of international political life and a gro
 
 ## IX. Fornever Wars
 
-Taken together, the Comments form a precise description of [Fifth Generation Warfare](https://www.google.com/url?q=https://en.wikipedia.org/wiki/Fifth-generation_warfare&sa=D&source=editors&ust=1770366106690062&usg=AOvVaw2N8SJanjqIPkEe5j32BFuZ)11, well before the concept was invented.12 5GW is basically [hybrid warfare](https://www.google.com/url?q=https://en.wikipedia.org/wiki/Hybrid_warfare&sa=D&source=editors&ust=1770366106690292&usg=AOvVaw32Z0cAJ-ZrS0CJPPSnMJwY) without the kinetics.  It is a war of information and influence, where conflict is never outright declared and cannot even be proved to exist.  If “war is an act of force to compel the enemy to do our will”, 5GW is the most subtle and least violent way to conduct such a war;  it relies on “...the deliberate manipulation of an observer’s context to achieve a desired outcome.”13
+Taken together, the Comments form a precise description of [Fifth Generation Warfare](https://en.wikipedia.org/wiki/Fifth-generation_warfare)11, well before the concept was invented.12 5GW is basically [hybrid warfare](https://en.wikipedia.org/wiki/Hybrid_warfare) without the kinetics.  It is a war of information and influence, where conflict is never outright declared and cannot even be proved to exist.  If “war is an act of force to compel the enemy to do our will”, 5GW is the most subtle and least violent way to conduct such a war;  it relies on “...the deliberate manipulation of an observer’s context to achieve a desired outcome.”13
 
 As you’ll recall, monetization inevitably results in politicization.  And what is war but the continuation of politics by other means?
 
@@ -353,21 +359,23 @@ One of the consequences of our interconnected world is that individual opinions 
 
 And if that was already the case in 1987, it is exponentially more true now that the internet has made each of us a node in a global network.  Consequently, every person on the planet is now a combatant, objective, and weapon in wars where the brain is the terrain.
 
-This is not a fantasy - this is your news feed.  The U.S. is predicting [a false-flag attack](https://www.google.com/url?q=https://www.nbcnews.com/politics/national-security/us-warns-russia-use-chemical-weapons-false-flag-operation-ukraine-rcna19391&sa=D&source=editors&ust=1770366106691789&usg=AOvVaw00iQv3T6k2kGt1-6v6sYXZ) by Russia in the Ukraine.  Russia [accused](https://www.google.com/url?q=https://www.timesofisrael.com/russia-accuses-uk-of-backing-a-false-flag-chemical-attack-in-syria/&sa=D&source=editors&ust=1770366106691976&usg=AOvVaw0l7nns_DfFkoqN1fpI37pS) the UK of a false-flag attack in Syria.  The U.S. [accuses](https://www.google.com/url?q=https://www.bbc.com/news/world-asia-china-22278037&sa=D&source=editors&ust=1770366106692140&usg=AOvVaw3J4vAjVEc6WM-1IIzKrYH-) China of genocide.  China and Iran [claimed](https://www.google.com/url?q=https://www.youtube.com/watch?v%3DdQw4w9WgXcQ&sa=D&source=editors&ust=1770366106692231&usg=AOvVaw1lzOuYv63b37DiQh2dRZAV) COVID was a U.S. bio-attack.
+This is not a fantasy - this is your news feed.  The U.S. is predicting [a false-flag attack](https://www.nbcnews.com/politics/national-security/us-warns-russia-use-chemical-weapons-false-flag-operation-ukraine-rcna19391) by Russia in the Ukraine.  Russia [accused](https://www.timesofisrael.com/russia-accuses-uk-of-backing-a-false-flag-chemical-attack-in-syria/) the UK of a false-flag attack in Syria.  The U.S. [accuses](https://www.bbc.com/news/world-asia-china-22278037) China of genocide.  China and Iran [claimed](https://www.youtube.com/watch?v=dQw4w9WgXcQ) COVID was a U.S. bio-attack.
 
 It goes on and on and on.  They all want us to trust them and no one else.  Behold the future of international politics:
 
+![](https://acximages.ennals.org/images/2022-book-reviews/49f98e9616aa47d2.png)
+
 And helping you sort through the propaganda and fake news are fellow travelers who may or may not be real people.  Are you bickering in the comment sections with an idiot or a bot? How can you tell?
 
-I accidentally proved my point in the process of writing this. I planned to reference a story where a Chinese weatherman [was replaced by an AI replica](https://www.google.com/url?q=https://www.theepochtimes.com/china-reveals-ai-news-anchor-almost-indistinguishable-from-a-real-human_4207963.html&sa=D&source=editors&ust=1770366106692953&usg=AOvVaw37CGjsGrErg0XqKd2WG_7F) for months without anyone noticing.  I saw it on social media a while back - it never crossed my mind to fact check it, because nothing about the reporting seemed suspect.  Here I am months later, about to use it in a piece, so I did some due diligence. Turns out that The Epoch Times is not a reliable publication.  Cool, glad I checked, let me find a mainstream link… four search engines later and all I found was a couple random blogs and an InfoWars video, all pointing back to this one unassuming article.
+I accidentally proved my point in the process of writing this. I planned to reference a story where a Chinese weatherman [was replaced by an AI replica](https://www.theepochtimes.com/china-reveals-ai-news-anchor-almost-indistinguishable-from-a-real-human_4207963.html) for months without anyone noticing.  I saw it on social media a while back - it never crossed my mind to fact check it, because nothing about the reporting seemed suspect.  Here I am months later, about to use it in a piece, so I did some due diligence. Turns out that The Epoch Times is not a reliable publication.  Cool, glad I checked, let me find a mainstream link… four search engines later and all I found was a couple random blogs and an InfoWars video, all pointing back to this one unassuming article.
 
 This stuff is scary, when you stop and think about all the thousands of random falsehoods and skewed impressions we accumulate while scrolling on the toilet.
 
-Of course people buy into things like [Dead Internet Theory](https://www.google.com/url?q=https://www.theatlantic.com/technology/archive/2021/08/dead-internet-theory-wrong-but-feels-true/619937/&sa=D&source=editors&ust=1770366106693894&usg=AOvVaw38KNTVfwaxOPlGYETWKdRL).  Of course everyone’s flailing about, falling into rabbit holes that get more and more bizarre. Conspiracy theories are [modern myths,](https://www.google.com/url?q=https://charleseisenstein.org/essays/the-conspiracy-myth/&sa=D&source=editors&ust=1770366106694155&usg=AOvVaw0SopktKrdF7DOCsQlmQGoN) blooming in the fertile soil of the spectacle.  The mainstream news itself is little more than ceaseless conspiracy-mongering at this point.  Look at the parade the last few years - Russiagate, Pizzagate, COVID, 2020 election, Jan. 6th…  Whatever you might think about those highly controversial topics, many millions of people vehemently disagree with you.  They live in an alternate universe. Many millions of other people agree with whatever your stance is - but for reasons so insane and illogical that they also inhabit a totally different reality.
+Of course people buy into things like [Dead Internet Theory](https://www.theatlantic.com/technology/archive/2021/08/dead-internet-theory-wrong-but-feels-true/619937/).  Of course everyone’s flailing about, falling into rabbit holes that get more and more bizarre. Conspiracy theories are [modern myths,](https://charleseisenstein.org/essays/the-conspiracy-myth/) blooming in the fertile soil of the spectacle.  The mainstream news itself is little more than ceaseless conspiracy-mongering at this point.  Look at the parade the last few years - Russiagate, Pizzagate, COVID, 2020 election, Jan. 6th…  Whatever you might think about those highly controversial topics, many millions of people vehemently disagree with you.  They live in an alternate universe. Many millions of other people agree with whatever your stance is - but for reasons so insane and illogical that they also inhabit a totally different reality.
 
 We have jumped the shark as a species.  
 
-Some of this is organic.  Some of it isn’t.  We have no way of knowing which is which.  Take QAnon, possibly the most clear-cut case of [guided apophenia](https://www.google.com/url?q=https://medium.com/curiouserinstitute/a-game-designers-analysis-of-qanon-580972548be5&sa=D&source=editors&ust=1770366106695036&usg=AOvVaw2BDs1BGWz2kEPxs3aPBAn5) on record.  Was it a troll-job of epic proportions, or a psyop enacted for unknown purposes?  You have priors, they are leading you to conclusions, and you are wrong either way because you don’t possess a tenth of the information required to make an educated guess.
+Some of this is organic.  Some of it isn’t.  We have no way of knowing which is which.  Take QAnon, possibly the most clear-cut case of [guided apophenia](https://medium.com/curiouserinstitute/a-game-designers-analysis-of-qanon-580972548be5) on record.  Was it a troll-job of epic proportions, or a psyop enacted for unknown purposes?  You have priors, they are leading you to conclusions, and you are wrong either way because you don’t possess a tenth of the information required to make an educated guess.
 
 That’s what makes the spectacle so terrifying.  No matter how hard we try to get it right, rationality often isn’t enough.  You can’t identify a forgery if you don’t have The Real to compare it to.
 
@@ -393,11 +401,13 @@ Now for some takeaways.  
 
 I’ve grown much more forgiving towards conspiracy theorists and idealogues of all stripes.  I used to judge harshly what I perceived to be moral and intellectual failings.  These days, I view misinformation and propaganda in the same predatory light as gambling and opiates.  It’s not fair to expect folks to take up independent journalism in their spare time.  Even views that I consider hateful or repugnant bother me less, now that I see their purveyors as victims of memetic contagion and spectacular dissonance.  
 
-The flip side of that coin is that I’m much more aware of the log in my own eye.14 It never hurt anyone to reflect on how crude is the Map and how vast the Territory.  I’m continually astonished by the sheer variety of ways I manage to arrive at ‘Here Be Dragons’. It's disturbing how often I open my mouth and someone else comes out. ['Strong opinions, weakly held'](https://www.google.com/url?q=https://commoncog.com/blog/strong-opinions-weakly-held-is-bad/&sa=D&source=editors&ust=1770366106698437&usg=AOvVaw36ApdZ6yifpMqV6fSANlyS) used to be an appealing heuristic. Unfortunately, I keep noticing that the stronger my opinion, the more likely it is that I'm missing something.15
+The flip side of that coin is that I’m much more aware of the log in my own eye.14 It never hurt anyone to reflect on how crude is the Map and how vast the Territory.  I’m continually astonished by the sheer variety of ways I manage to arrive at ‘Here Be Dragons’. It's disturbing how often I open my mouth and someone else comes out. ['Strong opinions, weakly held'](https://commoncog.com/blog/strong-opinions-weakly-held-is-bad/) used to be an appealing heuristic. Unfortunately, I keep noticing that the stronger my opinion, the more likely it is that I'm missing something.15
 
 If ignorance is bliss, incertitude is wisdom.
 
 Finally, after making my peace with the state of the world, I’m feeling much more connected to humanity and history.  Debord drove himself into the grave despairing for the future of mankind, but that was a choice. I think about this meme a lot:
+
+![](https://acximages.ennals.org/images/2022-book-reviews/ce131eabec081f0e.png)
 
 Debord lived and died as the guy in the corner, but we don’t have to.
 
@@ -407,9 +417,9 @@ True, our incomprehension is somewhat different in kind.  In the past, it was n
 
 Even so, the experience of powerlessness and perplexity is our mortal heritage, shared by each and every one of our ancestors.  Who are we to deny it?
 
-We seem set to learn the meaning of that [apocryphal Chinese curse](https://www.google.com/url?q=https://en.wikipedia.org/wiki/May_you_live_in_interesting_times&sa=D&source=editors&ust=1770366106700291&usg=AOvVaw2S37i5JsNwjV-g6hLAAv0B) for ourselves.  The future is uncertain in a way we’ve never felt before.  It’s up to each of us to make something of it.
+We seem set to learn the meaning of that [apocryphal Chinese curse](https://en.wikipedia.org/wiki/May_you_live_in_interesting_times) for ourselves.  The future is uncertain in a way we’ve never felt before.  It’s up to each of us to make something of it.
 
-Me? I’ll be in [the van](https://www.google.com/url?q=https://dailypopulous.com/2021-10-07-morning/birds-arent-real-conspiracy-theory-van-parked-in-lawrence-kansas.html&sa=D&source=editors&ust=1770366106700624&usg=AOvVaw1NqsqHNKJxHYml2agv_Quh).
+Me? I’ll be in [the van](https://dailypopulous.com/2021-10-07-morning/birds-arent-real-conspiracy-theory-van-parked-in-lawrence-kansas.html).
 
 * * *
 
@@ -417,21 +427,21 @@ Me? I’ll be in [the van](https://www.google.com/url?q=https://dailypopulous.c
 
 1 I suppose it would be in poor taste to make a Bon Jovi reference, so I won’t.
 
-2 [The Uruk series](https://www.google.com/url?q=https://samzdat.com/the-uruk-series/&sa=D&source=editors&ust=1770366106700897&usg=AOvVaw3ebap_iSQJ2ozTX7cI38Fe) by sam[]zdat is an excellent companion to this book, and I’ll reference it several times. The relevant piece here comes from Karl Polanyi’s The Great Transformation: “Polanyi calls the tendency to judge the world solely financially the economic prejudice… A market society is one based entirely around a market. Any damage to the market damages the entire society.” All modern nations are market societies in some fashion, and fall prey to the economic prejudice.
+2 [The Uruk series](https://samzdat.com/the-uruk-series/) by sam[]zdat is an excellent companion to this book, and I’ll reference it several times. The relevant piece here comes from Karl Polanyi’s The Great Transformation: “Polanyi calls the tendency to judge the world solely financially the economic prejudice… A market society is one based entirely around a market. Any damage to the market damages the entire society.” All modern nations are market societies in some fashion, and fall prey to the economic prejudice.
 
-3 If you’re holding out for Scott’s review to get into Girard, Alex Danco has [a great introduction](https://www.google.com/url?q=https://alexdanco.com/2019/04/28/secrets-about-people-a-short-and-dangerous-introduction-to-rene-girard/&sa=D&source=editors&ust=1770366106701656&usg=AOvVaw1bida3tJVOUakMPQng-lD7) to tide you over.  He is embarrassingly off-base regarding Trump supporters, but he sums up the basics well.
+3 If you’re holding out for Scott’s review to get into Girard, Alex Danco has [a great introduction](https://alexdanco.com/2019/04/28/secrets-about-people-a-short-and-dangerous-introduction-to-rene-girard/) to tide you over.  He is embarrassingly off-base regarding Trump supporters, but he sums up the basics well.
 
-4 [Metis](https://www.google.com/url?q=https://samzdat.com/2017/08/28/the-uruk-machine/&sa=D&source=editors&ust=1770366106701883&usg=AOvVaw3EpguihIrtuaL6V_tdTvMP) “...is a kind of accumulated, experiential knowledge. It’s the background process for whatever makes local knowledge work, and also the reason it’s hard to express in technical language. I tend to use it as shorthand…for the accumulated local knowledge of any given community.”
+4 [Metis](https://samzdat.com/2017/08/28/the-uruk-machine/) “...is a kind of accumulated, experiential knowledge. It’s the background process for whatever makes local knowledge work, and also the reason it’s hard to express in technical language. I tend to use it as shorthand…for the accumulated local knowledge of any given community.”
 
 5 Episteme - “Any nation-building requires a top-down view of the society it wants to organize. It’s either impossible or inefficient to draw a map with the same precision that local communities use. Because of this, certain details are elided, ignored, misplaced. This categorization process is ‘epistemic’, where episteme (or epistemic rationalism, or just rationalism) means abstract, generalized, theoretical knowledge."
 
 6 “An important aspect of metis is that it’s essentially a ‘worldview’. Metis is deeply interwoven – performing one action also affirms the others, inasmuch as planting according to [ritual] tends to include much broader social and political and religious elements, all of which are affirmed and related… The fact that metis is often explained…by ‘folksy’ reasoning at best means that epistemic knowledge rarely listens to it. The net result of this is that states tend to overrule metis with episteme, and that protesting citizenry cannot even express why this is bad. The net result of that is generally inefficiency, anger, and confusion.”
 
-7 Art was a major part of the Situationist movement - they would probably be mortally offended that I just glossed over it.  I did so for two reasons.  First, I only have a highschool understanding of the relevant topics, so I don’t have much to say.  Second, I was thoroughly unimpressed by what I understood, and apparently [I’m not alone](https://www.google.com/url?q=https://en.wikipedia.org/wiki/Situationist_International%23Criticism&sa=D&source=editors&ust=1770366106704063&usg=AOvVaw27w5yOJREYwpMLFOEkJSrR): “Critics of the Situationists frequently assert that their ideas are not in fact complex and difficult to understand, but are at best simple ideas expressed in deliberately difficult language, and at worst actually nonsensical.”
+7 Art was a major part of the Situationist movement - they would probably be mortally offended that I just glossed over it.  I did so for two reasons.  First, I only have a highschool understanding of the relevant topics, so I don’t have much to say.  Second, I was thoroughly unimpressed by what I understood, and apparently [I’m not alone](https://en.wikipedia.org/wiki/Situationist_International#Criticism): “Critics of the Situationists frequently assert that their ideas are not in fact complex and difficult to understand, but are at best simple ideas expressed in deliberately difficult language, and at worst actually nonsensical.”
 
-8 Final Uruk reference, this time from [his piece](https://www.google.com/url?q=https://samzdat.com/2017/06/28/without-belief-in-a-god-but-never-without-belief-in-a-devil/&sa=D&source=editors&ust=1770366106704453&usg=AOvVaw35ZaT2Bfa3tVIerMOphWxn) on Hoffer: “Mass movements are not the result of calculated thought, nor of a genuine interest in the ideology, but of frustration… Frustration is, ultimately, about the inability to achieve a personal goal or a group goal…A corollary of this is that mass movements are less about achieving anything meaningful than about fostering frustration. A ‘good’ movement – not as in ‘taking power’ (which plenty do), but as in completing goals, bettering the life of its adherents, making them more active, making them powerful – will leave them less frustrated. The movement will then disband – can’t have one without a frustrated mass.”
+8 Final Uruk reference, this time from [his piece](https://samzdat.com/2017/06/28/without-belief-in-a-god-but-never-without-belief-in-a-devil/) on Hoffer: “Mass movements are not the result of calculated thought, nor of a genuine interest in the ideology, but of frustration… Frustration is, ultimately, about the inability to achieve a personal goal or a group goal…A corollary of this is that mass movements are less about achieving anything meaningful than about fostering frustration. A ‘good’ movement – not as in ‘taking power’ (which plenty do), but as in completing goals, bettering the life of its adherents, making them more active, making them powerful – will leave them less frustrated. The movement will then disband – can’t have one without a frustrated mass.”
 
-9 Neil Gaiman has [some thoughts](https://www.google.com/url?q=https://www.goodreads.com/quotes/477087-remember-when-people-tell-you-something-s-wrong-or-doesn-t-work&sa=D&source=editors&ust=1770366106705304&usg=AOvVaw1HjK0xWnwO3GWZSjK-R-Lv) on the subject.
+9 Neil Gaiman has [some thoughts](https://www.goodreads.com/quotes/477087-remember-when-people-tell-you-something-s-wrong-or-doesn-t-work) on the subject.
 
 10 Debord addresses Boorstin by name in The Society of the Spectacle, but I couldn’t fit it in.  His critique in one sentence: Boorstin's views "...amount to blaming the spectacle on modern man's excessive inclination to be a spectator."
 

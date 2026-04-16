@@ -45,11 +45,11 @@ Can you accuse Mackey of hypocrisy or at least cluelessness? Easily. He spent tw
 
 At the same time, his sale to Amazon is tremendously helpful in selling his narrative. By all accounts including his own, Whole Foods set a high standard for caring for their employees, especially compared to other grocery stores. They brought access to fresh foods to more of the country and raised the profile of the concept of organic foods. Their ability to do so and still sell for billions of dollars to Amazon makes their story vastly more palatable to a business executive who has the devil of pure profit-seeking standing on one shoulder.
 
-One key thing to consider with a business book is how it will be misinterpreted. Books aimed at how to make business operate better tend to be built around the idea of a social technology, which can be deployed with selfish or selfless intent, or usually some mixture of the two. For example, generations of salespeople have learned from Dale Carnegie's [How to Win Friends and Influence People](https://www.google.com/url?q=https://en.wikipedia.org/wiki/How_to_Win_Friends_and_Influence_People&sa=D&source=editors&ust=1770366050248356&usg=AOvVaw2eARpbPKoXHNWaNU8zNi3h) that they should attempt to sound interested in the problems of their marks prospects. Many fewer of them bothered to hear his exhortation to cultivate an actual interest and his warnings that faking interest wasn't enough.
+One key thing to consider with a business book is how it will be misinterpreted. Books aimed at how to make business operate better tend to be built around the idea of a social technology, which can be deployed with selfish or selfless intent, or usually some mixture of the two. For example, generations of salespeople have learned from Dale Carnegie's [How to Win Friends and Influence People](https://en.wikipedia.org/wiki/How_to_Win_Friends_and_Influence_People) that they should attempt to sound interested in the problems of their marks prospects. Many fewer of them bothered to hear his exhortation to cultivate an actual interest and his warnings that faking interest wasn't enough.
 
-Similarly, Radical Candor by Kim Scott is extremely popular right now. Its core demand of leaders is to learn to balance challenging directly with caring personally. Note that Kim Scott's [FAQ on Radical Candor](https://www.google.com/url?q=https://www.radicalcandor.com/faq/what-does-it-mean-to-challenge-directly/&sa=D&source=editors&ust=1770366050249044&usg=AOvVaw17ParIz0l8Rp8VnmjegoEG) starts off the definition of challenging directly with:
+Similarly, Radical Candor by Kim Scott is extremely popular right now. Its core demand of leaders is to learn to balance challenging directly with caring personally. Note that Kim Scott's [FAQ on Radical Candor](https://www.radicalcandor.com/faq/what-does-it-mean-to-challenge-directly/) starts off the definition of challenging directly with:
 
-This involves telling people when their work isn’t good enough \- Radical Candor FAQ
+This involves telling people when their work isn’t good enough - Radical Candor FAQ
 
 Is it any wonder that some portion of leaders who've bought into this become assholes? Just like Carnegie, Scott warns people of misuse of her tool, but cannot prevent them from misinterpreting.
 
@@ -131,7 +131,7 @@ Maybe my favorite moment of almost-self-awareness is this quote:
 
 In a society awash in high-minded platitudes, it’s easy to grow a bit weary or even cynical about one more claim that this or that product or technology is going to “change the world.”
 
-But his self-awareness tends to look like [Lampshading](https://www.google.com/url?q=https://tvtropes.org/pmwiki/pmwiki.php/Main/LampshadeHanging&sa=D&source=editors&ust=1770366050264912&usg=AOvVaw08GAl57uhtJNYYNZMfGpPq). Mackey acknowledges that the criticism exists, but ignores the meat of it.
+But his self-awareness tends to look like [Lampshading](https://tvtropes.org/pmwiki/pmwiki.php/Main/LampshadeHanging). Mackey acknowledges that the criticism exists, but ignores the meat of it.
 
 There's also plenty that’s had the thinnest of thinking applied. For example, he advocates for ESG style efforts without talking about any downsides to avoid:
 

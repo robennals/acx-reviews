@@ -7,7 +7,7 @@ contestName: 2022 Book Reviews
 year: 2022
 publishedDate: '2026-02-06T07:21:54.171Z'
 slug: the-party-the-secret-world-of-chinas-communist-rulers-by-richard-mcgregor
-wordCount: 4047
+wordCount: 4049
 readingTimeMinutes: 18
 originalUrl: >-
   https://docs.google.com/document/d/1hFzjXliCAWjvheY-8Qd2fhbF79LnX0Xg6R9eqk9yIyI
@@ -21,14 +21,14 @@ McGregor's The Party is a history of the Communist Party of China (CPC). It is a
 
 Numbers that describe the growth of the Chinese economy are eye-popping. (The Party was written in 2009.) Profits from Chinese State-run enterprises went from 0 in 1997 to $140 billion in 2007. The aggregate growth numbers for China are also impressive and have pulled half a billion people out of poverty. It is the most significant eradication of extreme poverty that we have seen since the Second World War. Behind this growth are the stewards of the Chinese economy, men who aim to return China to its designation as the "factory of the world." These men belong to a mysterious, unregistered organisation, that exists by virtue of a single line in the Chinese constitution's preamble: The Party.
 
-The socialist system is the fundamental system of the People's Republic of China. Leadership by the Communist Party of China is the defining feature of socialism with Chinese characteristics. It is prohibited for any organisation or individual to damage the socialist system. – [Constitution of the People's Republic of China (Article 1)](https://www.google.com/url?q=http://www.npc.gov.cn/englishnpc/constitution2019/201911/1f65146fb6104dd3a2793875d19b5b29.shtml&sa=D&source=editors&ust=1770366106373598&usg=AOvVaw1U2taaGHk3Gf_LzERbSEWj) 
+The socialist system is the fundamental system of the People's Republic of China. Leadership by the Communist Party of China is the defining feature of socialism with Chinese characteristics. It is prohibited for any organisation or individual to damage the socialist system. – [Constitution of the People's Republic of China (Article 1)](http://www.npc.gov.cn/englishnpc/constitution2019/201911/1f65146fb6104dd3a2793875d19b5b29.shtml) 
 
 1.  ## Ambiguity Is The Point
     
 
 First off, McGregor clarifies the system of government in China (as much as he can). There are courts, cabinets, and governments at each level: city, province, federal. But these are subordinate to the party committees at the corresponding level. So, the real chain of power would look something like this:
 
- 
+ ![](https://acximages.ennals.org/images/2022-book-reviews/686b57864b92fb88.jpg)
 
 In this diagram, the solid lines are real reporting lines. (i.e. The mayor is officially answerable to the governor.) And the dotted lines are part of the Party system. The Mayor unofficially reports to the Secretary of the City Party Committee. Ultimately, its existence is not something which can be proved through documents or journalistic reporting. McGregor's claim that this line exists is based on his experiences in China. Throughout the book, he gives many examples that reinforce his point that the dotted line exists and takes precedence over the solid line. (One of my complaints with the book is the way in which McGregor assumes the existence of this line in some parts of the book, instead of trying to prove otherwise and having to resort to its existence despite his best efforts.)
 
@@ -94,7 +94,7 @@ This part of the book was the most revelatory for me. It is clear to me that off
 
 A large part of China's economic growth has come from the right amount of decentralisation. What is that right amount? There is no answer to this question. There does seem to be a "tolerable" level of decentralisation though, because the government in Beijing is stuck in a policy cycle with alternating periods of centralization and decentralisation. This diagram illustrates the cycle.
 
- 
+ ![](https://acximages.ennals.org/images/2022-book-reviews/213cf12a862236da.jpg)
 
 McGregor says that local and regional governments will tow the Party line when it comes to political campaigns (such as those relating to propaganda or ideology). As for economic policy, local governments will pick what they believe will work for their region and implement only those. This disobedience is corrosive even for Beijing because it lives on as a reflection of the Party's incomplete control over China's economy. However, it is also beneficial for Beijing because freedom to steward each region's economy in a different direction is the only way to deliver growth in a country as large and diverse as China. Each economic region has different characteristics and Central Planning was proven to be a failure.
 
@@ -115,7 +115,7 @@ This policy worked. There are no two ways about it: It worked. State enterpris
 
 Apart from Economic growth, the Party also uses its control on personnel to keep dissent in check within the professional elite. As there is no concept of private property that is independent of the Party in China for these executives, a single misstep can lead to their massive fortunes being appropriated by the State. (Jack Ma's disappearance and subsequent reappearance was a prominent example which happened after this book was published.)
 
-Control over the history that gets told to Chinese children is the final tenet of the Party's guarantee of its control. The Propaganda department approves textbooks. The 100 year period of subjugation is reinforced. Present-day happenings are told through the lens of a paranoid state media which portrays nearly everything that the West or any non-ally does as "anti-China." And [this nationalist fervour machine seems to be working.](https://www.google.com/url?q=http://archive.today/2022.02.16-120241/https://www.bloomberg.com/graphics/2022-china-nationalistic-online-shoppers/&sa=D&source=editors&ust=1770366106394376&usg=AOvVaw3gSXgvtLK_AUT6FnMGyLFy) 
+Control over the history that gets told to Chinese children is the final tenet of the Party's guarantee of its control. The Propaganda department approves textbooks. The 100 year period of subjugation is reinforced. Present-day happenings are told through the lens of a paranoid state media which portrays nearly everything that the West or any non-ally does as "anti-China." And [this nationalist fervour machine seems to be working.](http://archive.today/2022.02.16-120241/https://www.bloomberg.com/graphics/2022-china-nationalistic-online-shoppers/) 
 
 The Party's approach has very much been: "Deliver economic growth to all parts of society. Don't allow too much public introspection or debate. Don't be wrong." 
 
@@ -124,7 +124,7 @@ The Party's approach has very much been: "Deliver economic growth to all parts o
 
 The CPC has had an uncanny ability to foresee the booms of the future. When presented as a list, they are impressive.
 
-1.  Avoiding Oligarchy: Countries started with the same fundamental problems after the Second World War: Inefficient state-run businesses that needed to be optimised because the state was going to get out of business. Oligarchs took over a lot of businesses when the Soviet Union collapsed. India accelerated into Oligarchy at a slower rate, but [eventually reached the same endpoint.](https://www.google.com/url?q=https://www.bloomberg.com/news/articles/2021-11-12/two-billionaires-are-central-to-india-s-oversized-net-zero-ambitions&sa=D&source=editors&ust=1770366106395354&usg=AOvVaw0XzxPlEksQgV8ALu16TfaJ) Capitalism produced this output as the desired endpoint in America. China avoided it, somehow. China made its state enterprises efficient businesses. This was not done through privatisation; instead the state consolidation in these businesses increased! As an added advantage, this state consolidation was a policy tool: Chinese banks abroad and Chinese energy companies abroad serve as extensions of the Chinese government's economic and energy policy.
+1.  Avoiding Oligarchy: Countries started with the same fundamental problems after the Second World War: Inefficient state-run businesses that needed to be optimised because the state was going to get out of business. Oligarchs took over a lot of businesses when the Soviet Union collapsed. India accelerated into Oligarchy at a slower rate, but [eventually reached the same endpoint.](https://www.bloomberg.com/news/articles/2021-11-12/two-billionaires-are-central-to-india-s-oversized-net-zero-ambitions) Capitalism produced this output as the desired endpoint in America. China avoided it, somehow. China made its state enterprises efficient businesses. This was not done through privatisation; instead the state consolidation in these businesses increased! As an added advantage, this state consolidation was a policy tool: Chinese banks abroad and Chinese energy companies abroad serve as extensions of the Chinese government's economic and energy policy.
 2.  Avoiding Arms Races: Military expansion was not going to provide China with a guarantee against subjugation. China continues to avoid the kind of arms races which consume resources without producing any progress.
 3.  No Rival Centers of Power: The CPC has been very successful in ensuring that all power emanates from or flows through the CPC. There are controls to ensure that wealth or following can never become a center for power. For e.g., Amway and other direct sales companies were not allowed in China because the Party recognized the religion-like characteristics of this movement. (The promise of easy victories and large rallies with inspirational speeches must have been what gave these enterprises away.) There are no trade unions which are not allowed by the Party. (The CPC is the spokesperson of the Chinese worker. Why then should the worker need another union?)
 

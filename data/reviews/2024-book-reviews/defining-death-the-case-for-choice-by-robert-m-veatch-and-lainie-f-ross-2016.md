@@ -9,7 +9,7 @@ contestName: 2024 Book Reviews
 year: 2024
 publishedDate: '2026-02-06T16:47:15.599Z'
 slug: defining-death-the-case-for-choice-by-robert-m-veatch-and-lainie-f-ross-2016
-wordCount: 4692
+wordCount: 4693
 readingTimeMinutes: 21
 originalUrl: >-
   https://docs.google.com/document/d/1AXmWgSbh_TFsoZuApSCSEoz57yn93CM5YYhtaO_s4W4
@@ -131,3 +131,5 @@ For one, as per the higher-brain view, it implies that individuals who have suff
 But whether doctors state it or not, I strongly suspect the personal identity perspective is already the view to which most of them subscribe.  Sure, for now they publicly stick with the whole-brain definition, quietly hoping the public won’t notice that everyday practice already requires them to frequently violate the law. Yet as technology develops over the years to come, so too will the ‘accepted medical standards’ for determining death. If companies like Neuralink ever develop neural implants that can keep someone with a brainstem stroke alive without radically altering their personality in the process, don’t expect the concept of ‘brain death’ to survive. Similarly, society’s growing interest in the eventual possibility of mind uploading reflects the increasingly popular belief that a person survives not through the persistence of their biological brain, but instead through the continuity of their unique psychological attributes. Should the day ever come when this technology actually becomes feasible, the current legal definitions of death will seem as archaic as the theory of bodily humours to modern medical practice.
 
 Veatch and Ross argue that there is an unbridgeable distinction between facts and values in matters of defining death. But while I certainly wouldn’t have felt comfortable telling Swenson’s distraught mother she was wrong about her son still being alive, let alone that I’ve come to take his organs, I don’t think her feelings had any sway over the metaphysical status of his survival. Whether it be helping patients to pursue active treatments irrespective of a poor prognosis, or enabling people to choose comfort over continuing curative care, consent and patient choice should always be key concerns in medicine. But as much as I think we should be free to make decisions about our own end-of-life care, I do not think reality grants us the freedom to choose what constitutes our end. Rather, it works the other way around. It’s not that we cease to exist based on definitions of our own choosing, but that our final end comes when that which uniquely defines us ceases to exist.
+
+![](https://acximages.ennals.org/images/2024-book-reviews/f189058aa91bcd43.png)

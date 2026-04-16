@@ -7,7 +7,7 @@ contestName: 2024 Book Reviews
 year: 2024
 publishedDate: '2026-02-06T16:47:15.597Z'
 slug: battle-hymn-of-the-tiger-mother
-wordCount: 5865
+wordCount: 5872
 readingTimeMinutes: 27
 originalUrl: >-
   https://docs.google.com/document/d/1AXmWgSbh_TFsoZuApSCSEoz57yn93CM5YYhtaO_s4W4
@@ -33,6 +33,8 @@ Lyrics excerpt from [Battle Hymn](https://www.youtube.com/watch?v=oo5rP_1k4lo) 
 
 Tiger mother is the part of the title that makes the most sense to me at first blush, but this is somewhat circular. The term was popularized by Amy Chua’s book, which was published in 2011 and quite controversial in its time — partly due to the exceedingly strict parenting she describes in the book, but primarily I assume due the shade it throws on the Western model. Mothers will supposedly fight to their death to defend their children, and they will defend their own parenting with similar ferocity.
 
+![](https://acximages.ennals.org/images/2024-book-reviews/5582973db15f224e.jpg)
+
 Chua’s book is one part memoir, recounting her role in the achievements of her two daughters in both academics and classical music, and one part explanation of the differences between the Western and Chinese perspectives on parenting. I do not think it would be unfair to accuse it of sometimes trying to have it both ways, arguing that the strict Chinese model of parenting builds on a different set of values such that they cannot really be compared, but that if you did do a fair comparison then the Chinese way would definitely come out on top.
 
 Battle Hymn is the part of the title that is more puzzling — my primary association is to the song by Manowar, the «world’s loudest» heavy metal band with aesthetics ripped straight out of Conan the Barbarian, celebrating muscles, leather and swordfighting. No one would accuse Manowar of exceptional poetry — some with less manners than me might even question their musicality! — but with a debut album called Battle Hymn, perhaps we can take them as an authority on that concept.
@@ -42,6 +44,8 @@ War is obviously a grisly affair, horrible as it is unfolding in the present and
 In this interpretation, battle hymn fits nicely in the title of the book, perfectly summarizing Chua’s understanding of her role as a mother. She must prepare her children for a life in the adult world, so that they will be able to realize their ambitions and honor the family name, regardless of what it costs in terms of comfort. Implicitly, she accuses Western parents of being tunnel visioned on feeling loved by their children and getting to see them happy and carefree, so that they can congratulate themselves on being perfect parents. She argues that conflict avoidance and coddling only pushes the problems ahead, leaving it to the children themselves to deal with them without either the support of their parents or the discipline that Chinese parenting instils.
 
 In this review, I will not summarize the content of the book because I could never do it justice anyway, but I will scatter around some excerpts while trying to pull in related ideas and perspectives. If you are at all interested in parenting, the duality of child, or the stranger than fiction cultural differences between West and East, you should read it — it is very short, pleasant to read and full of stories that like a blue or gold dress sort of morph between amusing and shocking. You might come away with a strong conviction that Chinese parenting is literal child abuse or that the sort of watered down positive parenting that is gaining popularity in the West basically amounts to taking children’s potential and pouring it down the drain.
+
+![](https://acximages.ennals.org/images/2024-book-reviews/e39fe25c9d7ef2be.jpg)
 
 The black-and-blue (sic) [dress](https://en.wikipedia.org/wiki/The_dress) that sparked a short-lived internet controversy.
 
@@ -67,6 +71,8 @@ Battle Hymn of the Tiger Mother (p 3-4). Kindle Edition.
 I must say that the more I read gifted writers, the more I learn to fear them. Two standout examples for me are Murakami (Norwegian Wood) and Knausgård (My Struggle). In some sense, you can always trust a bad writer, because to them writing feels like pulling teeth. They do not enjoy it, so they only write if they feel like they have something important to say, and their work will only ever pass through all the filters if their content has genuine merit. Great writers, on the other hand, have an unnerving tendency to write beautifully page up and page down about absolutely nothing. This is ultimately the same effect as why you should pick the least charismatic doctor — he must have been just that good to get the job.
 
 Tiger Mother is written in a prosaic style, with short descriptive sentences and the occasional sprinkle of dry wit as seen in the above excerpt. This is quite effective — it gives center stage to the events themselves and allow us to get a more matter of fact understanding of them. It also leaves space for the reader to think about the content rather than just be dazzled by all the beautiful language, and Tiger Mother is very much a book where you want to try to keep three threads in your head at once: one for the underlying data, one for Chua’s interpretations and one for your own opinions.
+
+![](https://acximages.ennals.org/images/2024-book-reviews/9680023dd9870b77.gif)
 
 Helicopter parenting is a quite evocative term, describing parents who are overly protective of their children and do not trust them to do anything by themselves. Countries with winter sports traditions also have the term curling parenting, likening the behavior of parents to that of the sweepers in curling doing everything in their power to give the stone the smoothest possible ride to its destination.
 
@@ -96,11 +102,13 @@ While it is relatively easy to understand the absurdly high standards that the t
 
 This would be completely wrong — along with the over-the-top expectations comes similarly unprecedented amounts of support, even if some of this support comes in the form of stressful schedules and savage scolding. This is another reason that there is no substitute for reading the book and getting a full picture, because it is our nature to fill in the missing pieces with what we are familiar with, which just does not work when you are effectively in a foreign country.
 
+![https://static.wikia.nocookie.net/disney/images/5/53/Cinderella-disneyscreencaps_com-8502.jpg/revision/latest?cb=20140325022514](https://acximages.ennals.org/images/2024-book-reviews/dc508161eade7164.jpg)
+
 The stepmother from Disney’s Cinderella; someone you would not be flattered to by compared with.
 
 It is perhaps also tempting to picture the tiger mother as a sadist who enjoys controlling and chastising her children. A readily available comparison is the stepmother from a fairy tale, who is mean to children because she would rather they be dead because she is not too fond of them. As Chua explains her point of view, nothing could be further from the truth. It is not for her own enjoyment that the home is in intermittent states of cold and hot war, and she would have loved to be permissive and forgiving, if only so she could give herself some time off. But rest is weakness entering the body; the first crack in the house of discipline brings the whole structure crashing down; it’s the child He loves that He disciplines.
 
-If you find that this smells a bit like a convenient excuse, I would like nothing more than for you to decide for yourself. For what it’s worth, my impression is that she really comes from a position of tough love. Among other things, I would refer her excesses to prepare Ecuadoran dishes, artifacts and interviews for her younger daughter’s Passport Around the World\-project, as well as her thorough documentation of her daughters’ childhoods. Chua is strict with her children to the point of being a living caricature, but that is still not even half as hard as she pushes herself to keep the wheels spinning. She cares too much about her children’s future to compromise it for nothing more than to get to feel loved by them — that would be selfish.
+If you find that this smells a bit like a convenient excuse, I would like nothing more than for you to decide for yourself. For what it’s worth, my impression is that she really comes from a position of tough love. Among other things, I would refer her excesses to prepare Ecuadoran dishes, artifacts and interviews for her younger daughter’s Passport Around the World-project, as well as her thorough documentation of her daughters’ childhoods. Chua is strict with her children to the point of being a living caricature, but that is still not even half as hard as she pushes herself to keep the wheels spinning. She cares too much about her children’s future to compromise it for nothing more than to get to feel loved by them — that would be selfish.
 
 But in the name of [bothsidesism](https://en.wikipedia.org/wiki/False_balance), I suppose it is fair to point out aspects of Chua’s personality that I find somewhat tacky. She has a preference for extravagant celebrations, where it seems like the massive expenses are not as much an unfortunate side-effect as they are the main point. To some degree, this can be justified as just a proportional response to the extraordinary investments and achievements of her daughters. I take more issue with how she seems to blithely assume that whichever teacher or instructor is the most expensive or famous must necessarily be the best.
 
@@ -126,7 +134,7 @@ Battle Hymn of the Tiger Mother (p 103). Kindle Edition.
 
 Were we to accept Chua’s separate-but-equal presentation of Western and Chinese parenting, we could conceptualize them as the end points of a line, one emphasizing happiness and the other success. We could imagine that like the volume slider in an app, a parent could choose which one is more important and exactly how to trade this amount of well-being off against that amount of achievement. If this is the world we actually live in, it sounds like an incredibly unpleasant choice to make.
 
-However, Chua also frequently veers into all animals are equal, but tigers are more equal than others\-territory, and whether you ultimately end up accepting or rejecting it, it is worth at least entertaining this line of thought. After all, tigers are majestic.
+However, Chua also frequently veers into all animals are equal, but tigers are more equal than others-territory, and whether you ultimately end up accepting or rejecting it, it is worth at least entertaining this line of thought. After all, tigers are majestic.
 
 It would be easy if the way to get happy and self-confident children was just to give them total freedom and lavish them with praise, but humans are sort of complicated. Take the example of games — they sink or swim depending on whether we find them fun, but incredibly popular games such as Mario, Pokemon and League of Legends tend towards the difficult, unforgiving and even unfair end of the spectrum. Admittedly, there are also games that believe that failure states are are bad design, such as Animal Crossing I suppose, but they seem to be the exception rather than the rule.
 
@@ -211,13 +219,19 @@ Battle Hymn of the Tiger Mother (p 20-22). Kindle Edition.
 
 My brother borrowed me his copy of Logicomix, a graphic novel about Bertrand Russel’s life and ideas. I did not find it fantastic — in part, I suppose, because I have a stronger background in mathematics than the intended audience, making some of its explanations feel a bit tedious, and in part because the book lacks a proper heroic arc. In fairness, it’s the fault of the source material, not the book.
 
+![Logicomix](https://acximages.ennals.org/images/2024-book-reviews/b84dff376e7c98ed.jpg)
+
 Russel is most famous for his ultimately futile quest to rebuild the entirety of mathematics in a strict, logical formulation, proving every theorem from the smallest possible set of assumptions or axioms. This project eventually ran afoul the paradox of the the barber who cuts the hair of everybody who does not cut it themselves, which with some bells and whistles can be expanded into Gödel’s incompleteness theorem. It’s an unfortunate way to end not just a story, but also the life project of a brilliant man.
 
 Russel can deflect from the failure of his mathematical project by pointing to his life as a public intellectual and his Nobel Prize in Literature. Personally, I find the prize somewhat dubious, but then again, he can keep company with Bob Dylan, and at least it’s not the Peace Prize. The award points to his varied and significant writings in which he champions humanitarian ideals and freedom of thought, which I suspect means that the prize was not only because of his literary merits but also for espousing ideas that flattered the committee’s sensibilities.
 
-A picture with some serious they promised us flying cars and all we got was 140 characters\-energy.
+![](https://acximages.ennals.org/images/2024-book-reviews/d0605acd23d8c51e.png)
+
+A picture with some serious they promised us flying cars and all we got was 140 characters-energy.
 
 While a fascinating man in his own right, Russel is not directly relevant to Tiger Mother. I bring him up because because he was born into the British aristocracy, a culture with somewhat similar ideas about honoring the family name as Chua gets from her Chinese background. Russel had a private tutor, and while the primary role of a teacher in the modern West is to be the responsible adult that prevents children from sticking peas too far up their noses, Russel’s tutor was an actual scholar by the name of [Douglas Spalding](https://en.wikipedia.org/wiki/Douglas_Spalding). Again, as with Chua and her tiger cubs, we can not distinguish innate talent from good education, but it is useful to remember that we inherit a civilization built by people who idolized lions, not kittycats.
+
+![](https://acximages.ennals.org/images/2024-book-reviews/23fed558f5a4d129.png)
 
 The coat of arms of England. It is not entirely clear to me if the artist had even seen a lion or why they are drawn with their tongues sticking out.
 

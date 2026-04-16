@@ -7,7 +7,7 @@ contestName: 2024 Book Reviews
 year: 2024
 publishedDate: '2026-02-06T16:47:49.303Z'
 slug: the-first-reason-to-read-about-pharaoh-akhenaten
-wordCount: 6431
+wordCount: 6472
 readingTimeMinutes: 29
 originalUrl: >-
   https://docs.google.com/document/d/1QiotH3aGFgNLGqsIHTK_Plm_gem2E4l2C2ctyGJd0jY
@@ -25,7 +25,11 @@ It’s a dramatic story, perhaps the most interesting one out of the millennia o
 
 The second reason to read about him is that he was married to this woman:
 
+![File:08 Berlin-Klassenfahrt 1979- Nofretete-Büste, Ägyptisches Museum (17461602724).jpg](https://acximages.ennals.org/images/2024-book-reviews/845ff549821bf2e2.jpg)
+
 This is Nefertiti, as represented in a bust carved by the sculptor Thutmose (quite amazing that we know the artist’s name!) in 1345 BC. This piece is probably the second-most famous artifact from ancient Egypt. It ended up in Germany due to either intentional deception from the German archeologists or an administrative mistake by the French-led Egyptian Antiquities Service, and is now a main attraction of the Neues Museum in Berlin, where I once photographed it despite not being allowed to:
+
+![](https://acximages.ennals.org/images/2024-book-reviews/1d6b5a9889bd5aa4.png)
 
 (The bust is that tiny golden thing in the dark room beyond the door at the end of the hallway. I had to take a picture from this far to evade the security guards’ watchful eyes.)
 
@@ -33,13 +37,19 @@ Nefertiti, besides being a beautiful woman whose name literally means “the bea
 
 Why is her bust only the second-most famous Egyptian artifact? Because, of course, it is outshone by this other artifact, the death mask of Pharaoh Tutankhamun:
 
+![](https://acximages.ennals.org/images/2024-book-reviews/1dc7cd6bf19e6f80.png)
+
 (This one has always stayed in Egypt, in case you were wondering. Fun fact, it may actually have been intended for Nefertiti or whoever that mysterious female pharaoh was, maybe Nefertiti’s daughter Meritaten.)
 
 What you may not know about Tutankhamun is that his birth name was actually Tutankhaten (“Living Image of Aten”). He was probably the son of Akhenaten, and definitely his successor after a short interlude consisting of Mysterious-Male-Pharaoh and Mysterious-Female-Pharaoh-Who-Was-Maybe-Nefertiti-Or-Maybe-Meritaten. In fact, Tutankhamun is the one who restored the traditional religion after the upheaval caused by his father, which you can tell from how he changed his name (Aten → Amun), before dying at the tender age of 18 or 19 and being immortalized with the most awesome funerary mask ever made.
 
-King Tut is of course the most famous out of the at least 170 (and possibly more than 300) pharaohs who reigned from 3150 to 30 BC, thanks to the mask and the allegedly cursed discovery of his tomb a hundred years ago. So his relationship to Akhenaten provides us with a third reason to study him and his reign—although one that we didn’t need, and one that we won’t focus on, since the book being reviewed here is specifically about Akhenaten and Nefertiti. It is called[Egypt’s Golden Couple: When Akhenaten and Nefertiti Were Gods on Earth](https://us.macmillan.com/books/9781250272881/egyptsgoldencouple).
+King Tut is of course the most famous out of the at least 170 (and possibly more than 300) pharaohs who reigned from 3150 to 30 BC, thanks to the mask and the allegedly cursed discovery of his tomb a hundred years ago. So his relationship to Akhenaten provides us with a third reason to study him and his reign—although one that we didn’t need, and one that we won’t focus on, since the book being reviewed here is specifically about Akhenaten and Nefertiti. It is called [Egypt’s Golden Couple: When Akhenaten and Nefertiti Were Gods on Earth](https://us.macmillan.com/books/9781250272881/egyptsgoldencouple).
 
-While we’re here, I’ll mention a bonus fourth reason to read this book: it was written in 2022 by another power couple, John and Colleen Darnell, American Egyptologists who happen to also be known as fashion models. Look at them, as seen on Dr. Colleen Darnell’s Instagram account[vintage\_egyptologist](https://www.instagram.com/vintage_egyptologist/), sailing on the Nile as if this were the 1920s or 30s:
+![](https://acximages.ennals.org/images/2024-book-reviews/d5cd38642895d433.png)
+
+While we’re here, I’ll mention a bonus fourth reason to read this book: it was written in 2022 by another power couple, John and Colleen Darnell, American Egyptologists who happen to also be known as fashion models. Look at them, as seen on Dr. Colleen Darnell’s Instagram account [vintage\_egyptologist](https://www.instagram.com/vintage_egyptologist/), sailing on the Nile as if this were the 1920s or 30s:
+
+![](https://acximages.ennals.org/images/2024-book-reviews/bda1025fa9880a3e.jpg)
 
 Apparently they’re a bit controversial! Not only did she rise in the ranks of the Egyptology department at Yale while dating him, an already married professor—a sexual scandal that tarnished the department’s reputation; but also, their love of early 20th-century clothing and photoshoots among the ruins of Egypt has been heavily criticized as distasteful at best, and as insensitive “colonial cosplay” at worst. None of this matters for the book, which is considered to be scholarly sound. But it’s another dramatic story! Sure, the Darnells may just be trying to attract attention—and it works! I was far more excited to read their book than another on Akhenaten that I attempted to dig into before narrowly escaping death by boredom.
 
@@ -51,9 +61,13 @@ Amunhotep IV, the future Akhenaten, was born a prince to Amunhotep III, ninth ph
 
 Amunhotep III also holds the distinction of being the pharaoh with the most extant statues, about 250. Here he is represented by the two Colossi of Memnon, which still stand on the western outskirts of Luxor:
 
+![](https://acximages.ennals.org/images/2024-book-reviews/8470edb794bef729.jpg)
+
 The Darnells (and I) bring up Amunhotep III in part to provide context on Akhenaten’s early life, so that we know he was born in a period of unparalleled prosperity and kingly power. But the other goal is to show that Akhenaten’s later actions were less unprecedented than it may seem at first glance.
 
 For example, there exists a text, created during Amunhotep III’s reign, telling of his conception by his mother, Mutemwia, and the god Amun-Re. Amun, during the New Kingdom period, rose from being the patron god of the city of Waset to reigning as the top god of the whole Egyptian pantheon, later being seen as an equivalent to Zeus and Jupiter. Eventually, he was merged with Re (or Ra), the famous sun god who was among the most important deities during earlier periods. So it made sense for Amunhotep III—whose name means “Amun is satisfied”—to claim that he was literally “one flesh” with Amun-Re thanks to the union of the king of the gods with his mother. We even have a depiction of the sexual act (don’t worry, it’s very tame):
+
+![](https://acximages.ennals.org/images/2024-book-reviews/9248b71877705693.png)
 
 The Darnells tell us that “an ancient Egyptian would have noted the erotic overtones of Amun’s legs overlapping those of Mutemwia, how she cups the god’s elbow with her free hand, and he holds to her nose the hieroglyph for ‘life,’ the ankh sign. . . . the sexual nature of the scene is obvious.”
 
@@ -69,7 +83,11 @@ But almost immediately, he seems to have shifted the focus away from Amun-Re and
 
 The Darnells explain that this shift in focus would have been unusual, but not overly so. The Benben, a representation of the first mound of land at the time of creation, had been an inspiration for sacred monuments at least since the Giza pyramids; dedicating it to a form of the sun god was “the continuation of solar worship that began over a thousand years before.” And the word “aten”, written with four hieroglyphs, 𓇋, 𓏏, 𓈖, and 𓇳, had been a common noun to refer to the sun as a disk in religious contexts since at least 2350 BC.
 
-On the other hand, describing the actual disk as the solar god was clearly strange. Usually, Egyptian gods were human-shaped, animal-shaped, or human-animal hybrids ([though there were exceptions](https://en.wikipedia.org/wiki/Medjed)). An aten could be an attribute of a god with an otherwise normal body; for example it is often seen on top of Re’s head, whatever shape that head had ([human](https://commons.wikimedia.org/wiki/File:Amun-Ra_head.jpg),[falcon](https://en.wikipedia.org/wiki/Ra#/media/File:Taperet_stele_E52_mp3h9201.jpg),[ram](https://commons.wikimedia.org/wiki/File:Re-Osiris.jpg),[beetle](https://en.wikipedia.org/wiki/Khepri#/media/File:Nun_Raises_the_Sun.jpg)). But to depict as a deity the sun disk itself, round and often featureless except for rays terminating with hands holding the ankh sign, was totally new.
+![](https://acximages.ennals.org/images/2024-book-reviews/35f50a064fe0097e.png)
+
+On the other hand, describing the actual disk as the solar god was clearly strange. Usually, Egyptian gods were human-shaped, animal-shaped, or human-animal hybrids ([though there were exceptions](https://en.wikipedia.org/wiki/Medjed)). An aten could be an attribute of a god with an otherwise normal body; for example it is often seen on top of Re’s head, whatever shape that head had ([human](https://commons.wikimedia.org/wiki/File:Amun-Ra_head.jpg), [falcon](https://en.wikipedia.org/wiki/Ra#/media/File:Taperet_stele_E52_mp3h9201.jpg), [ram](https://commons.wikimedia.org/wiki/File:Re-Osiris.jpg), [beetle](https://en.wikipedia.org/wiki/Khepri#/media/File:Nun_Raises_the_Sun.jpg)). But to depict as a deity the sun disk itself, round and often featureless except for rays terminating with hands holding the ankh sign, was totally new.
+
+![File:Windowofappearances.gif](https://acximages.ennals.org/images/2024-book-reviews/adebab1246f18fde.png)
 
 Drawing of a relief from the tomb of vizier Ramose, the first known work to show Aten showering the king and queen with his rays
 
@@ -108,7 +126,7 @@ Amunhotep IV spent five years ruling from Waset in what can be seen as a transit
 
 *   He married Nefertiti.
 *   He dedicated the Mansion of the Benben to her. In this temple, she is shown bearing the name Neferneferuaten (“Beautiful is the beauty of Aten”), making offerings to Aten, and smiting enemies. It was already clear, only a few years into their joint reign, that Nefertiti had an important role in Atenism.
-*   He began commissioning art in a revolutionary new style, today called[Amarna art](https://en.wikipedia.org/wiki/Amarna_art), with unusual ways to represent the king and queen, among other details. This is notable since Egyptian art tended to be conservative and changed little over centuries.
+*   He began commissioning art in a revolutionary new style, today called [Amarna art](https://en.wikipedia.org/wiki/Amarna_art), with unusual ways to represent the king and queen, among other details. This is notable since Egyptian art tended to be conservative and changed little over centuries.
 *   He had his first daughter out of six, Meritaten (“She who is beloved of the Aten”).
 *   He and Nefertiti celebrated their jubilee. A jubilee, or Sed festival, was something you celebrated when you had reigned for 30 years, and then every 3-4 years after that. Amunhotep IV didn’t wait 30 years; he celebrated it in his 3rd or 4th regnal year. Charitably, the Darnells say it could have been meant as a continuation of the sequence of jubilees at the end of Amunhotep III’s reign. Either way, it was probably intended to make it clear to everyone that Aten was now more important than all the other gods, with unique rituals such as presenting food offerings to the sun in open-roofed kiosks.
 
@@ -117,6 +135,8 @@ Eventually, though, Amunhotep IV had greater ambitions. We (think we) know the e
 It is in this very place that I shall make Horizon of Aten [Akhet-Aten] for Aten, my father! I shall not make Horizon of Aten for him south of it, north of it, west of it, or east of it. I shall not go beyond the southern stela of Horizon of Aten toward the south, nor shall I go beyond the northern stela of Horizon of Aten toward the north, to make Horizon of Aten for him there. Nor shall I make it for him on the western side of Horizon of Aten. It is on the eastern side of Horizon of Aten that I shall make Horizon of Aten for Aten, my father—the place he made—that it might be encompassed for him by the mountain itself. Just as he shall attain happiness in it, so shall I offer to him in it. This is it!
 
 A couple of things to note: first, Akhenaten refers to Aten as his father, as Amunhotep III had done with Amun; on other stelae, he also insists that the idea of founding the new city came from “Aten, my father”. Second, that’s quite a lot of insisting that this is the best place for the new city, and nowhere else. There’s even another stela where he warns Nefertiti not to tell him, “Look, there is a good place for Akhet-Aten in another place”; he adds, “I will not listen to her!”
+
+![](https://acximages.ennals.org/images/2024-book-reviews/76ee67b06c8ab3fc.jpg)
 
 One of the stelae, photographed in 1903
 
@@ -128,17 +148,23 @@ Oh, also—the stelae are the first documents on which he is called Akhenaten, r
 
 Akhet-Aten is today better known as Amarna or Tell el-Amarna, which are modern Arabic names. It is about halfway between Waset/Thebes/Luxor and Memphis/Cairo, nowhere near any big modern city. The site was also uninhabited when Akhenaten selected it.
 
-Akhenaten and Nefertiti ruled Egypt from Akhet-Aten for twelve years. Much of the second half of the Darnells’ book is on the city and what we know from their life there. Even though the most interesting feature of that period is the increasingly radical religion of Atenism, it’s important to remember that Akhet-Aten was also a normal capital city, housing some 30,000 people. To get an idea of what it may have looked like, I recommend the[illustrations by the architect and archeologist Jean-Claude Golvin](https://jeanclaudegolvin.com/en/akhetaton/).
+![](https://acximages.ennals.org/images/2024-book-reviews/acc76a90e51bd845.jpg)
+
+Akhenaten and Nefertiti ruled Egypt from Akhet-Aten for twelve years. Much of the second half of the Darnells’ book is on the city and what we know from their life there. Even though the most interesting feature of that period is the increasingly radical religion of Atenism, it’s important to remember that Akhet-Aten was also a normal capital city, housing some 30,000 people. To get an idea of what it may have looked like, I recommend the [illustrations by the architect and archeologist Jean-Claude Golvin](https://jeanclaudegolvin.com/en/akhetaton/).
 
 Because it was abandoned shortly after Akhenaten’s death and has remained uninhabited since then, Akhet-Aten is the source of many a great archeological find. The workshop of the sculptor Thutmose was there; it gave us the bust of Nefertiti. There was an “Office of the Correspondence of Pharaoh” in which hundreds of letters were found; they’re written in Akkadian cuneiform, on clay tablets, and tell us a lot about the foreign relations of Egypt with the Middle East.
 
 And then there were the actual temples and palaces. The two main temples to Aten—the Estate and the Mansion—were grander than their equivalents in Karnak. They were “open to the sky, the light-drenched spaces showing the god’s immanence within the sacred enclosure”. In the immense Estate of Aten, there were almost two thousand outdoor tables where the population of the city could pile up gigantic quantities of food as offerings to the sun disk. Fortunately, the Darnells reassure us that Aten had “no use for rotting meat and wilting lettuce, so people then consumed the actual calories after the sun disk had soaked up the metaphysical essence of the food.”
 
+![](https://acximages.ennals.org/images/2024-book-reviews/b24f4cbce1f50318.jpg)
+
 But the most enlightening find from Akhet-Aten, at least from the point of view of studying Atenism, has to be the Great Hymn to Aten.
 
 It was discovered, almost undamaged, on the wall of a tomb intended for the courtier Ay—but which was never used since Ay survived Akhenaten and even became pharaoh after Tutankhamun. It is a long poem, the longest text from the period, in fact, other than the boundary stelae. It is written as if Ay were speaking, but it’s plausible that Akhenaten himself composed it. Here it is in full:
 
-If you can’t read Egyptian hieroglyphs, you may want to look up[one](https://katherinestange.com/egypt/hymn2.htm)[of](https://uh.edu/honors/human-situation/survival-kit/study-aids/Hymn%20to%20the%20Aten.pdf)[the](https://clareflourish.wordpress.com/2014/04/11/the-great-hymn-to-the-aten/)[many](https://www.bartleby.com/lit-hub/library/poem/hymn-to-the-aten/)[translations](https://www.greatastromatcher.com/Learn/GreatHymnToTheAten) that exist out there. Or you could [listen to part of it in song](https://youtu.be/s8dEk1KXu0g), set to the beautiful operatic music of Philip Glass. The Darnells, like everyone who has ever written a book about Akhenaten, also provide their own translation. I won’t reproduce it in full, but here are some choice quotes.
+![](https://acximages.ennals.org/images/2024-book-reviews/c61fb13b837a2598.png)
+
+If you can’t read Egyptian hieroglyphs, you may want to look up [one](https://katherinestange.com/egypt/hymn2.htm) [of](https://uh.edu/honors/human-situation/survival-kit/study-aids/Hymn%20to%20the%20Aten.pdf) [the](https://clareflourish.wordpress.com/2014/04/11/the-great-hymn-to-the-aten/) [many](https://www.bartleby.com/lit-hub/library/poem/hymn-to-the-aten/) [translations](https://www.greatastromatcher.com/Learn/GreatHymnToTheAten) that exist out there. Or you could [listen to part of it in song](https://youtu.be/s8dEk1KXu0g), set to the beautiful operatic music of Philip Glass. The Darnells, like everyone who has ever written a book about Akhenaten, also provide their own translation. I won’t reproduce it in full, but here are some choice quotes.
 
 The first few verses, on how Aten is awesome when he rises in the East:
 
@@ -193,6 +219,8 @@ Elsewhere we see an interesting parallel: a priest at Karnak wrote on a wall, sh
 
 So, was Atenism a form of monotheism? That depends on the precise definition, but you could argue for no: it elevated Akhenaten—and Nefertiti, who had a far more prominent role than queens usually got—as deities, forming a trinity together with Aten. The king and queen worshiped the Sun Disk, and everyone else, even high priests of Aten, worshiped the king and queen. People even had little stelae depicting the holy royal family on altars in their homes.
 
+![](https://acximages.ennals.org/images/2024-book-reviews/566a51832ea3ca98.png)
+
 I appreciate that the Darnells hid this answer in plain sight: the subtitle of the book, remember, is When Akhenaten and Nefertiti Were Gods on Earth. Hardly monotheistic!
 
 It would be tempting to interpret this self-deification stuff as an authoritarian power grab. The Darnells don’t think so. Instead they view Akhenaten’s religious reforms as the logical continuation of his father’s reign. Amunhotep III had presented himself as the sun god (recall the business with the Day Bark and Night Bark), and Akhenaten simply built on this with some theological innovations. One of these innovations is that Aten was said to be responsible for all of creation, and even that the present was the time of creation. This would explain the quasi-monotheism: all the other gods must be ignored, since in the Atenist worldview they didn’t exist yet. Only Akhenaten and Nefertiti were there, son and daughter of the Sun Disk at the beginning of the world.
@@ -209,6 +237,8 @@ After seventeen years as the pharaoh of Egypt, Akhenaten died. We don’t know f
 
 As mentioned earlier, Akhenaten had a couple of successors (Smenkhkare and Neferneferuaten) with short reigns and unclear identities in what was likely a troubled period. Eventually Tutankhaten/Tutankhamun came to the throne, which by the way was an elaborately decorated gilded throne, complete with Aten showering him and his wife with rays of gold—
 
+![](https://acximages.ennals.org/images/2024-book-reviews/4ed035c70d90a3b3.jpg)
+
 —and after spending a few years in Akhet-Aten, he moved back to Waset. He (or more likely his advisors, since he was very young) then embarked on a program to restore the pre-Aten religion. A stela erected at Karnak during Tutankhamun’s reign positively lambastes Akhenaten:
 
 The temples of the gods and goddesses beginning in Elephantine and ending at the marshes of the Delta [. . .] had fallen into ruin. Their shrines had fallen into decay, turning into mounds, overgrown with weeds . . . The land was in distress, and the gods ignored this land.
@@ -221,6 +251,8 @@ Still, it’s clear that Akhenaten, usurper of divinity and enemy of Amun, had b
 
 As for Aten, his cult seemingly vanished and he became just a regular attribute of solar deities again.
 
+![File:Taperet stele E52 mp3h9201.jpg](https://acximages.ennals.org/images/2024-book-reviews/080d3537e1caf2a1.jpg)
+
 Re-Horus of the Horizon with an aten sending out rays to vaporize bless a woman, from between 1065 and 664 BC
 
 ## 𓐀.
@@ -229,7 +261,7 @@ Why does the Sun not play a larger role in religion? I don’t know. It certainl
 
 It would have been cool to be able to say, “The radical worship of a solar god during the Amarna period heresy stood as a warning for centuries, even subtly influencing Greco-Roman religion and ultimately Christianity so as to deemphasize the all-too-obvious power of the sun.” I would have loved to find evidence, even thin, for an insight like that. But, as I rapidly realized while reading Egypt’s Golden Couple, it would have been a wild, unsupported extrapolation, on par with Freud’s theories around Akhenaten’s Oedipal complex and Moses as an Atenist, or with the idea that Akhenaten was a “scientist” because he recognized that the sun causes plants to grow and rain to fall.
 
-The truth is, Atenism probably had very little impact on anything. And if it did, we have zero evidence for it. Many researchers have tried to find a link between this religion and the rise of monotheism in ancient Israel; a popular strategy is to[compare the Great Hymn to Aten with Psalm 104 in the Hebrew Bible](https://www.thetorah.com/article/psalm-104-and-its-parallels-in-pharaoh-akhenatens-hymn). But while there are some intriguing similarities, the scholarly consensus is that it’s all a coincidence. The cult of Aten was likely forgotten within a few generations, and wouldn’t have influenced any Jewish prophets.
+The truth is, Atenism probably had very little impact on anything. And if it did, we have zero evidence for it. Many researchers have tried to find a link between this religion and the rise of monotheism in ancient Israel; a popular strategy is to [compare the Great Hymn to Aten with Psalm 104 in the Hebrew Bible](https://www.thetorah.com/article/psalm-104-and-its-parallels-in-pharaoh-akhenatens-hymn). But while there are some intriguing similarities, the scholarly consensus is that it’s all a coincidence. The cult of Aten was likely forgotten within a few generations, and wouldn’t have influenced any Jewish prophets.
 
 You don’t win a book review contest by just summarizing some book—you need to use the book as a springboard to make some mind-blowing observation on society. This is doubly true of a book about ancient historical characters. Why would anyone care about Akhenaten and Nefertiti, if their story doesn’t provide any new insights?
 
@@ -241,9 +273,11 @@ Overall, the Darnells’ commitment to nuanced interpretation is great, but it c
 
 But it was worth reading. The story of Akhenaten and Nefertiti, fragmentary though it is, provides fascinating texture to the early history of the world, even without retorting to wild speculation. And the Great Hymn to Aten almost made me want to worship the sun, too.
 
-… Or maybe that was an effect of witnessing the total solar eclipse that traversed North America last April, while I was in the middle of reading the book. Speaking of which, another[piece of speculation about Akhenaten](https://arxiv.org/pdf/2004.12952) is that he may have been influenced by the total eclipse of May 14, 1338 BC, whose area of totality included Akhet-Aten. Depending on the exact chronology of his life, that could have inspired his religion altogether, or perhaps more likely, his radicalization at the end of his reign. Or it could have led to the abandonment of the holy city.
+… Or maybe that was an effect of witnessing the total solar eclipse that traversed North America last April, while I was in the middle of reading the book. Speaking of which, another [piece of speculation about Akhenaten](https://arxiv.org/pdf/2004.12952) is that he may have been influenced by the total eclipse of May 14, 1338 BC, whose area of totality included Akhet-Aten. Depending on the exact chronology of his life, that could have inspired his religion altogether, or perhaps more likely, his radicalization at the end of his reign. Or it could have led to the abandonment of the holy city.
 
-Or none of the above! We have no evidence for any of this, other than a single tomb painting where Aten seems to wear jewelry (that’s how the Darnells see it; they don’t mention eclipses at all) but that[some](https://www.egyptologyforum.org/EMP/DAPE.pdf) have interpreted, rather fancifully, as an obstruction of the rays that could be the moon.
+Or none of the above! We have no evidence for any of this, other than a single tomb painting where Aten seems to wear jewelry (that’s how the Darnells see it; they don’t mention eclipses at all) but that [some](https://www.egyptologyforum.org/EMP/DAPE.pdf) have interpreted, rather fancifully, as an obstruction of the rays that could be the moon.
+
+![](https://acximages.ennals.org/images/2024-book-reviews/0b62325cc6f13ed7.png)
 
 We’ll never know. But I can’t resist pointing out that one of the upcoming total eclipses, scheduled for August 2, 2027, will cast its shadow over both Luxor and Amarna. It probably won’t reveal any new information about Akhenaten, his mummy won’t wake up or anything, but an eclipse over the birthplace of the most sun-obsessed religion in history certainly feels poetic.
 

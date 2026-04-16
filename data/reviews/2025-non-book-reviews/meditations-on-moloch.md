@@ -7,7 +7,7 @@ contestName: 2025 Non Book Reviews
 year: 2025
 publishedDate: '2026-02-06T16:55:03.480Z'
 slug: meditations-on-moloch
-wordCount: 4590
+wordCount: 4593
 readingTimeMinutes: 21
 originalUrl: >-
   https://docs.google.com/document/d/1a3q0Z2tuPLLbDeg5-pfEffkajGjrfPDwE7ZMs7uaWQs
@@ -17,11 +17,11 @@ tags:
   - Technology
 ---
 
-Link to Meditations on Moloch[https://slatestarcodex.com/2014/07/30/meditations-on-moloch/](https://slatestarcodex.com/2014/07/30/meditations-on-moloch/)
+Link to Meditations on Moloch [https://slatestarcodex.com/2014/07/30/meditations-on-moloch/](https://slatestarcodex.com/2014/07/30/meditations-on-moloch/)
 
-Link to Destiny Lore Cards[https://www.ishtar-collective.net/](https://www.ishtar-collective.net/)
+Link to Destiny Lore Cards [https://www.ishtar-collective.net/](https://www.ishtar-collective.net/)
 
-Link to Destiny Lore Videos[https://www.youtube.com/@MynameisByf/videos](https://www.youtube.com/@MynameisByf/videos)
+Link to Destiny Lore Videos [https://www.youtube.com/@MynameisByf/videos](https://www.youtube.com/@MynameisByf/videos)
 
          It's so simple. Elegant like a knife point. It explains - this is not hyperbole, this is the farthest thing from exaggeration – EVERYTHING.  Why does anything exist?  No don't reach for that word. There's no 'reason'. That's teleology and teleology will stitch your eyelids shut.  
 Why do we have atoms? Because atomic matter is more stable than the primordial broth. Atoms defeated the broth. That was the first war. There were two ways to be and one of them won. And everything that came next was made of atoms.  Atoms made stars.  Stars made galaxies. Worlds simmered down to rock and acid and in those smoking primal seas the first living molecule learned to copy itself. All of this happened by the one law, the blind law, which exists without mind or meaning. It's the simplest law but it has no worshippers here.  

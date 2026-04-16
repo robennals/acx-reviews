@@ -7,7 +7,7 @@ contestName: 2024 Book Reviews
 year: 2024
 publishedDate: '2026-02-06T16:47:15.596Z'
 slug: armies-of-sand-the-past-present-and-future-of-arab-military-effectiveness
-wordCount: 4630
+wordCount: 4634
 readingTimeMinutes: 21
 originalUrl: >-
   https://docs.google.com/document/d/1AXmWgSbh_TFsoZuApSCSEoz57yn93CM5YYhtaO_s4W4
@@ -47,6 +47,8 @@ Despite defending difficult terrain and impressive fortification efforts the res
 
 An important part of the book is discussing all the ways that the problems of the Six Day War could be applied to most wars in the Middle East involving an Arab nation. He goes through a list of patterns he has identified:
 
+![](https://acximages.ennals.org/images/2024-book-reviews/c91093b6e01d8da0.png)
+
 Of the 12, he only finds Bravery and Logistics to be consistently good.
 
  As a way of moving forward with the book, he looks for how well different theories fit in with the above pattern. He looks at four possible reasons: Soviet Military Doctrine, Politicization of the Military, Underdevelopment, and Culture. In a very logical way, he tries to go through each theory, talk out why it might be a good explanation, and tries to test it against real-world examples. He also goes through some non-Arab world examples where the elements of the theory are present to make comparisons.
@@ -67,7 +69,7 @@ Another issue with this explanation is that there are several examples of countr
 
 ## Theory 2: Politicized military
 
-I favored this theory the most upon starting this book, but the author does a decent job poking some holes in it. If you are familiar with Bueno De Mesquita’s[selectorate theory](https://simple.wikipedia.org/wiki/Selectorate_theory#:~:text=Selectorate%20Theory%20is%20a%20political,by%20Bruce%20Bueno%20de%20Mesquita.), you might think that a big part of how a dictatorship stays in power is by providing personal rewards to elites. Generals, party officials, and industry leaders might all be sources of opposition to your rule, and one way of keeping them on your side is by giving them lots of goodies. This can have a nasty side-effect of hurting the dynamism of your economy, but you don’t need the approval of regular people if you have a political and military establishment willing to shoot protestors. Selecting people in the top-tier positions for loyalty may not lead to the best decision-making in a conflict. I think this explanation has some truth in it and that led me to favor this theory at the start.
+I favored this theory the most upon starting this book, but the author does a decent job poking some holes in it. If you are familiar with Bueno De Mesquita’s [selectorate theory](https://simple.wikipedia.org/wiki/Selectorate_theory#:~:text=Selectorate%20Theory%20is%20a%20political,by%20Bruce%20Bueno%20de%20Mesquita.), you might think that a big part of how a dictatorship stays in power is by providing personal rewards to elites. Generals, party officials, and industry leaders might all be sources of opposition to your rule, and one way of keeping them on your side is by giving them lots of goodies. This can have a nasty side-effect of hurting the dynamism of your economy, but you don’t need the approval of regular people if you have a political and military establishment willing to shoot protestors. Selecting people in the top-tier positions for loyalty may not lead to the best decision-making in a conflict. I think this explanation has some truth in it and that led me to favor this theory at the start.
 
 The author outlines three possible ways that a military/political relationship might produce adverse consequences in a conflict: a) a Praetorian guard kind of situation where the government is the military itself, b) a commissary type of situation where the military has been so infiltrated by loyalist watchdogs that no one can do anything, or c) a palace guard kind of situation where the military exists to suppress dissent as opposed to external threats. Once again, the author summons an impressive array of case studies that both support and undermine the theory.
 
@@ -111,13 +113,13 @@ One of his case studies here is Syria in the 1980s and its performance against I
 
 “However, the key tactical change that the new weapons made possible was to reintroduce the rapid movement and concentration that were the hallmark of traditional Toubou warfare. The large number of Toyota four-wheel-drive trucks equipped with crew-served weapons restored to the Chadians the strategic mobility and tactical maneuverability they had lost when they had adopted modern infantry weapons, organization, and tactics.”
 
-Armed with[technicals](https://en.wikipedia.org/wiki/Technical_(vehicle)), anti-tank, and anti-air weapons to neutralize Libyan air and armored assets, in 1987 Chadian forces were able to retake all of their lost territory. In doing so they showed the opposite of many of the traits listed at the beginning of this book: aggressiveness, and an ability to adapt.
+Armed with [technicals](https://en.wikipedia.org/wiki/Technical_(vehicle)), anti-tank, and anti-air weapons to neutralize Libyan air and armored assets, in 1987 Chadian forces were able to retake all of their lost territory. In doing so they showed the opposite of many of the traits listed at the beginning of this book: aggressiveness, and an ability to adapt.
 
 “In contrast, whereas Libyan forces demonstrated their greatest strengths in unit cohesion, set-piece offensives, and static defenses, these were the aspects of military operations in which the Chadians were weakest. The Chadians’ greatest strengths were the flexibility, initiative, creativity, and independence of their tactical commanders and the quickness and maneuverability this brought to their units in battle.”
 
 He also gives the example of China’s role in the Korean War, arguing that by the numbers China was a very poor country circa 1950 and worse-off on various indicators than many Arab countries would have been in 1960. China then went on to save North Korea in the Korean war and bring the conflict to a stalemate.
 
-Once again, while there are very interesting case studies here and even some interesting tables comparing GDP and literacy across countries of interest, I was left thinking this data could use some further analysis on a larger scale.  The Expected Utility Generation and Data Management Program ([EUGene](https://eugenesoftware.la.psu.edu/)) and the[Correlates of War Project](https://correlatesofwar.org/data-sets/) let you download conflict information lots of datapoints like GDP and such going all the way back to the 19th century. It might have been interesting if he’d tried to use data in this way to really test the relationship he is trying to test.
+Once again, while there are very interesting case studies here and even some interesting tables comparing GDP and literacy across countries of interest, I was left thinking this data could use some further analysis on a larger scale.  The Expected Utility Generation and Data Management Program ([EUGene](https://eugenesoftware.la.psu.edu/)) and the [Correlates of War Project](https://correlatesofwar.org/data-sets/) let you download conflict information lots of datapoints like GDP and such going all the way back to the 19th century. It might have been interesting if he’d tried to use data in this way to really test the relationship he is trying to test.
 
 ## Theory 4: Culture
 

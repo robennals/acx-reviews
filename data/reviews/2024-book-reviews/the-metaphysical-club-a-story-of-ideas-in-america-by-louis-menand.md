@@ -1,5 +1,5 @@
 ---
-title: "The Metaphysical Club: A Story of Ideas in America\_by Louis Menand"
+title: 'The Metaphysical Club: A Story of Ideas in America by Louis Menand'
 author: Unknown
 reviewAuthor: Anonymous
 contestId: 2024-book-reviews
@@ -7,7 +7,7 @@ contestName: 2024 Book Reviews
 year: 2024
 publishedDate: '2026-02-06T16:49:14.013Z'
 slug: the-metaphysical-club-a-story-of-ideas-in-america-by-louis-menand
-wordCount: 12198
+wordCount: 12236
 readingTimeMinutes: 55
 originalUrl: >-
   https://docs.google.com/document/d/14qa47TJ_Vyerx4XNgTCIh7PUZ_TOgNcU_eHm5So_zo0
@@ -41,6 +41,8 @@ You have philosophical beliefs; we all do. Both ones you are aware of — “an 
 
 At some point in your childhood, probably around 7th grade or so, you may have seen a graphic that looked something like this:
 
+![Timeline of atomic models stock vector. Illustration of design - 164472281](https://acximages.ennals.org/images/2024-book-reviews/e99bad2322a7bdfb.jpg)
+
 [Caption: Comic Sans means the kids will find it relatable]
 
 At this point, we could extend the graphic to include Chadwick’s model including neutrons and the more recent additions of quarks and gluons. If we really wanted to, we could extend it backwards to Democritus’s hypothesized atoms and their hooks, sockets, and all sorts of strange qualities. But the question I want to get at is contained very neatly in this graphic: why did we move from Schrödinger’s model to Bohr’s? Why from Bohr’s to Rutherford’s? What is the relationship between these models and the actual atoms that we bump up against every day?
@@ -62,6 +64,8 @@ The first, and most straightforward notion of what truth is is the [corresponden
 The second is the [coherence](https://plato.stanford.edu/entries/truth-coherence/) theory of truth. Here, the truth value of a proposition is a different “specified set” of propositions. How do you know those propositions are true? “Well, they’re the specified set.” Okay.
 
 From the map-territory relationship: the correspondence theory of truth either (a) question-begs or (b) collapses the distinction between map and territory; the coherence theory of truth implies that as long as your map is stitched together consistently, it is true.
+
+![](https://acximages.ennals.org/images/2024-book-reviews/f49355fcd57880fa.png)![](https://acximages.ennals.org/images/2024-book-reviews/063db36dd48d5f9c.png)
 
 [Caption: Am I a relativist? Let’s find out… ([source](https://existentialcomics.com/comic/115))]
 
@@ -87,6 +91,8 @@ The Metaphysical Club consisted of a group of young men, largely tied together b
 
 Like the Founding Fathers of the US Constitution, some of these individuals achieved great things in stewarding their creation and expanding its capacities; also like the Founding Fathers, some of them met unfortunate or undistinguished ends. These Founding Philosophers are recounted as such: Charles Sanders Peirce, William James, Oliver Wendell Holmes Jr., Nicholas St. John Green, Joseph Bangs Warner, John Diske, Francis Ellingwood Abbot, and Chauncey Wright.
 
+![](https://acximages.ennals.org/images/2024-book-reviews/e43b04531b5fa148.jpg)
+
 [Caption: Pictured: the urtext of American Pragmatism]
 
 It was in the course of The Metaphysical Club’s meetings that Nathaniel St. John Green introduced and insisted on the definition of belief as what one is prepared to act on. People purport to hold many beliefs, but anyone can say they hold beliefs; one can even say one holds contradicting beliefs. It is only when the rubber hits the road that we are forced to choose a direction. The principle of noncontradiction is a fact about the world. And importantly, a tire is not merely a reflection of the asphalt, but a tool for grappling with it. Beliefs are not passive mirrors, but a part of action themselves — their construction is itself an ingredient of action, and a motivated action itself.
@@ -96,6 +102,8 @@ Rather than separating belief from action, Nathaniel St. John Green demanded a p
 I once heard someone describe philosophy as the studied misapplication of concepts. Nathaniel St. John Green may have produced the raw material of pragmatism, but he did not refine it, did not build with it. No, the gross misapplications of this core idea occurred only in the thought of the philosophers of the group: Chauncey Wright (to some extent), Oliver Wendell Holmes Jr., Charles Sanders Peirce, and William James. Each of these individuals had their own reasons for appreciating Green’s contribution, and their individual perspectives and motivations deeply informed each of their pragmatisms.
 
 ### About this Weather We’re Having
+
+![](https://acximages.ennals.org/images/2024-book-reviews/56a3e6400bc2c2a1.jpg)
 
 Since Socrates, there have been philosophers who enjoy the conviviality of philosophy much more than the publishing of it. Perhaps the most successful and famous of these in recent times is Edmund Gettier. Edmund Gettier published two papers in his lifetime. One was for his PhD, and was impressive enough to land him an immediate position instructing philosophy at Wayne State University. As he was pressured to publish in order to retain his job, he wrote one of the most famous papers in all of analytic philosophy: [Is Justified True Belief Knowledge?](https://courses.physics.illinois.edu/phys419/sp2019/Gettier.pdf) In three pages, Gettier took a definition that had been well-established since Plato — that knowledge is justified true belief — and demolished it. It was enough to earn him a position as associate professor before he turned 40. He never published anything else, but his love for philosophical discussion was [legendary](https://www.umass.edu/philosophy/memoriam-edmund-l-gettier-iii-1927-2021). While he never published anything else, he was [credited in many papers](https://www.umass.edu/philosophy/ed-gettier-remembrance-bob-sleigh) for his help formulating their arguments.
 
@@ -117,6 +125,8 @@ Wright died young: in 1875, a mere three years after the formation of The Metaph
 
 ### Wounded
 
+![](https://acximages.ennals.org/images/2024-book-reviews/765496b09d0375b0.jpg)
+
 Before Oliver Wendell Holmes Jr. was on the Supreme Court, he lived the US Civil War. He lived the abolitionist movement before it and he lived the deadliest battles during it. He was an acolyte of Ralph Waldo Emerson, a student activist, an infantryman, a captain, and a casualty. In fact, he was a casualty three times — once at the tragic blunder of Ball’s Bluff, a second time at the deadly battle of Antietam, and finally in a skirmish called Second Fredericksburg (First Fredericksburg was already taken).
 
 It would be wrong to describe the resultant change in his worldview as something ‘snapping’; it creates far too violent and undisciplined an image. Wendell Holmes was nothing if not disciplined. Besides, it gives a bit too much credence to his attempt later in life to clean up his biographical record. He attempted to destroy almost all of his correspondence during the war, presenting almost a clean break between his prewar abolitionism and his postwar regrets. It rather seems that with each of these bullets, one piece of his future thought struck him — glanced him, really. And it was only after the wounds had healed and he was off the field of battle that he could fully consider the changes these new instincts demanded.
@@ -133,6 +143,8 @@ Holmes arrived at The Metaphysical Club with one overarching lesson from the mos
 
 To such a person, it is quite easy to see the allure of pragmatism, especially infused with Wright’s nihilistic moral quietism. Ideas are tools, made by motivated people not merely as a reflection of the world but as a way to change it. As Holmes ascended the ranks of the US legal community, this epistemological notion took on a political and jurisprudential light.
 
+![Oliver Wendell Holmes Jr. Biography – Facts, Childhood, Family Life ...](https://acximages.ennals.org/images/2024-book-reviews/6723762785d26dfd.jpg)
+
 [Caption: Associate Justice of Snazzy Mustaches of the United States]
 
 For Holmes, politics was zero-sum. Groups jockey for more or less resources, build platforms to align interests or convince others that their own interests are more valuable, and fight it out in the democratic process. There is an old aphorism by Carl von Clausewitz, arguably the most influential military theorist in European history: “war is politics by other means.” Much of the political theory behind Holmes’s jurisprudence is based on an understanding of the obvious corollary: “politics is war by other means.” Holmes believed that the majority would get its way at some point, somehow. If they were frustrated by the political process long enough and with enough pressure, they would understand their own power — they would win the war. Holmes hated the ‘other means’ of war. He despised them. So he believed the political process should play itself out.
@@ -144,6 +156,8 @@ When Holmes was on the Court, laissez-faire capitalism was the jurisprudential t
 Holmes wore the mask of a pragmatist over that of a cynic over that of a pacifist. A different sort of pacifism than we are used to, to be sure, but a pacifism nonetheless. To wear a mask is not merely to deceive, but also to take on the character of the mask. Holmes was a pragmatist and a cynic and a pacifist. Above all, though, he was a soldier.
 
 ### Order ab Chao
+
+![](https://acximages.ennals.org/images/2024-book-reviews/ccd382f734d7a6ce.jpg)
 
 William James, much to his shame, did not serve in the US Civil War. He considered it, and like most decisions in his life, he decided it many times and in many different directions. But while his father likely would not have wanted him to enlist — James’s education was a major project and investment for him — James also did not plead any case too hard. See, the father of American psychology, as he is sometimes called, was somewhat tortured when it came to closing off possibilities. He hated certainty, and the destruction of possibility that decisions entailed. He also felt that decisiveness was a virtue, and that if one at least made an attempt, the universe would (Louis Menand’s words) “meet such a person halfway.” To marry the two, he inculcated an impulsive decisiveness — push in one direction thoroughly and single-mindedly, with the understanding that he could change his direction at any moment.
 
@@ -225,6 +239,8 @@ I guess my point is that a lot of people have asked this question. It’s an imp
 
 Oliver Wendell Holmes Jr., William James, and Charles Sanders Peirce never felt at home in modernity. They experienced the wretched snap of their world becoming untethered, beginning to drift. Yet they fashioned a tool: pragmatism. It was enough to help, but it required someone native to the new world to fulfill its promise. Enter John Dewey.
 
+![John Dewey - Pragmatism, Education, Philosopher | Britannica](https://acximages.ennals.org/images/2024-book-reviews/06fcfe396fbca19e.jpg)
+
 John Dewey was arguably the most important US public intellectual of the early 20th century. But before that, he was a young philosopher, born in 1859, who never knew a pre-Civil War America. His path to being a philosopher is a bit more regular than his pragmatist forebears — as perhaps befits a more modern man. He studied the German Idealists — principally Hegel — and then studied with the American Pragmatists. In fact, he had some sort of educational correspondence with each of Holmes, James, and Peirce.
 
 Deeply mild-mannered, with a sense of equanimity that seems to have confused his elders and entranced his juniors, Dewey prized above all else the ability to adapt and find satisfaction in one’s circumstances. This did not mean a quietism about anything, least of all politics, but it also steered him away from any sort of militant socialism that viewed modern institutional paradigms as necessary evils. His metaphor of choice was the organism — a collection of interdependencies which worked first as a whole and only second as parts. He sometimes referred to the “social organism” and the idea of the whole which precedes the parts is central to his thought.
@@ -281,6 +297,8 @@ Yet Americans will also enter the Fourth Turning with a unique opportunity to ac
 
 Thus might the next Fourth Turning end in apocalypse—or glory.
 
+![](https://acximages.ennals.org/images/2024-book-reviews/440eac23d2254490.png)
+
 [Caption: Do you relate?]
 
 The US Civil War was one such Crisis. We are, supposedly, neck deep in another. I can make some prognostications about in what fashion the other shoe is likely to drop (war with China, authoritarian constitutional crisis) or if it already has and we just got lucky with an easy one (Trump’s one term, COVID, George Floyd protests), but that’s not the book. The Metaphysical Club isn’t about the Civil War and the social troubles that went into it and came out of it — it is about the intellectual milieu which provoked it and the changes in intellectual assumptions it caused. It is about the creation of a new set of values.
@@ -305,7 +323,7 @@ It is on this intellectual level that I see the story of pragmatism as most usef
 
 The next set of values will have its pathologies as well — for instance, I hope that the increase in censoriousness is a passing matter of pitched times, but it is possible that decreased license for speech will be a factor for the rest of my life. And certainly, this is not determined beforehand. The winds will blow, but a ship can sail in any direction. Culture is weather, prone to intense variation; culture is evolution, shot-through with chance mutations and contingent situations; culture is pluralist, home to many voices at different pitches and qualities; culture is democracy, a practical art of associated living subject to our own actions and decisions. It was once said that there is special providence for drunkards, fools, and the United States of America. It is easy to mistake the complex machinations of a free society for providence, as many of our ancestors did for weather. No, it is up to us to make our next steps, and to hope they lead somewhere with different, better problems.
 
-“The greatness of America lies not in being more enlightened than any other nation, but rather in her ability to repair her faults.” — Alexi de Tocqueville, Democracy in America
+“The greatness of America lies not in being more enlightened than any other nation, but rather in her ability to repair her faults.” — Alexi de Tocqueville, Democracy in America 
 
 ## Pragmatism
 
@@ -314,6 +332,8 @@ The review, at this point, requires a conclusion. It has gone on long enough. I 
 The threads I am not able to include here are numerous — the familial influences on James and Holmes, the incredible story of Jane Addams, the various tales of Civil War courage and cowardice, the racial anthropology of the pre-Darwinian biologists, the various projects of John Dewey, the cultural pluralisms of (among others) Alain LeRoy Locke and Horace Kallen, and so much more.
 
 Many of my favorite book reviews in this contest have some critical edge to them. With this book, I truly struggle. It’s a masterful work of intellectual history.
+
+![](https://acximages.ennals.org/images/2024-book-reviews/8a201aed56d44e2f.png)
 
 [Caption: ([Source](https://twitter.com/hereycontreras))]
 
@@ -334,3 +354,5 @@ And that is fine. Ideas are created by people for reasons. They never mirror rea
 There are times when reading The Metaphysical Club that its America seems hopelessly alien, other times when it seems startlingly present. I hope that no Civil War-like conclusion awaits us, but if nothing else, this book is a look at one way America built itself back up out of the rubble of its previous societal structure: through its ideas. America is something of a revolutionary land — but it can also be a deeply practical one as well. This is the country of both Thomas Paine and Alexander Hamilton, and each have their time. I, for one, throw my bag in with Hamilton. But not unreservedly.
 
 And that, if I may say so myself, is the way of an American Pragmatist.
+
+![](https://acximages.ennals.org/images/2024-book-reviews/9d1ea2e7848ca53d.jpg)

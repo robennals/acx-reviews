@@ -7,7 +7,7 @@ contestName: 2024 Book Reviews
 year: 2024
 publishedDate: '2026-02-06T16:47:15.600Z'
 slug: djinn-the-angel-on-the-roof-by-russell-banks
-wordCount: 1678
+wordCount: 1680
 readingTimeMinutes: 8
 originalUrl: >-
   https://docs.google.com/document/d/1AXmWgSbh_TFsoZuApSCSEoz57yn93CM5YYhtaO_s4W4
@@ -37,4 +37,4 @@ Echoes of Rebellion: A liberated “Djinn” in Colonial Africa
 
 Works Cited
 
-Russell Banks. “Djinn.” The Angel on the Roof,New York:HarperCollins, 2000, pp. 1-23.
+Russell Banks. “Djinn.” The Angel on the Roof, New York: HarperCollins, 2000, pp. 1-23.

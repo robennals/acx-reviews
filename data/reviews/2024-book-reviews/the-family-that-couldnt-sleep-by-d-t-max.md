@@ -1,5 +1,5 @@
 ---
-title: "The Family That Couldn’t Sleep\_by D. T. Max"
+title: The Family That Couldn’t Sleep by D. T. Max
 author: Unknown
 reviewAuthor: Anonymous
 contestId: 2024-book-reviews
@@ -7,7 +7,7 @@ contestName: 2024 Book Reviews
 year: 2024
 publishedDate: '2026-02-06T16:49:14.007Z'
 slug: the-family-that-couldnt-sleep-by-d-t-max
-wordCount: 9677
+wordCount: 9683
 readingTimeMinutes: 44
 originalUrl: >-
   https://docs.google.com/document/d/14qa47TJ_Vyerx4XNgTCIh7PUZ_TOgNcU_eHm5So_zo0
@@ -46,6 +46,8 @@ The disease would wear on inexorably, no matter what he tried. He would find him
 When he died, no one would know what to call it. They didn’t know what to call it in his nephew,[[3]](#ftnt3) or in any of his nephew’s children or grandchildren. As the disease spread across generations, it took upon thousands of names – every wasting disease, infection, or psychosis you could find. It wasn’t exceptionally good for the family’s prospects; the repeated deaths of able-bodied adults made the family poorer, and neighbours refused to marry into the “mad” bloodline.
 
 A point about prion diseases that D. T. Max likes emphasizing is that they don’t steal your reason. Everyone was unanimous that across multiple prion diseases – fatal familial insomnia itself, but also many forms of Creutzfeldt-Jakob, and plenty of other things you could grant such a name – the afflicted were consistently aware of their fates, even in the worst reaches of the illness. Many people with FFI never lost the ability to talk at all, and could express this very well for themselves. Others did, but seemed to know their surroundings infailibly. There is a famous [case report](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1781276/) about a man with FFI who managed to slow the disease’s progression with a slew of treatments; he could consistently describe his state in his most “incapacitated” periods when remitting. I’ll let him speak for himself:
+
+![](https://acximages.ennals.org/images/2024-book-reviews/733536f39b0c4551.png)
 
 (This report was, as it happens, published in the exact same month as The Family That Couldn’t Sleep.)
 
@@ -185,6 +187,8 @@ The Family That Couldn’t Sleep buys this, too. In fact, it buys it in an even
 
 DTM discusses this, to set the scene for the genetics thing. He mentions what was the state of the art at the time – that a disproportionate share of both the growth hormone kids and sporadic CJD cases were V/V homozygotes. This, uh – so the book was written in the mid-2000s, yeah?
 
+![](https://acximages.ennals.org/images/2024-book-reviews/f7b79e93710bd5e7.png)
+
 [Yeah.](https://academic.oup.com/brain/article/138/11/3386/330626)
 
 The conclusion DTM drew – and this was a common conclusion at the time – was that homozygosity somehow made you more vulnerable to CJD, and M/M homozygosity made you vulnerable to BSE-borne CJD in particular. We cannot criticise the author for not predicting the future, but we live in the future, and can say how this worked out. Turns out, [nope, M/V heterozygotes totally get vCJD](https://www.newscientist.com/article/2118418-many-more-people-could-still-die-from-mad-cow-disease-in-the-uk/). After a British man in his 30s died of CJD in 2016, he was found to have vCJD and an M/V genotype. He was tested for vCJD only because he was exceptionally young for someone with a sporadic prion disease – meaning people developing it later in life would be missed.[[8]](#ftnt8)
@@ -213,7 +217,7 @@ This is best described as “nightmarishly high”. I’m normed on genetic diso
 
 Prion diseases have distinctive phenotypes. Not distinctive enough, apparently, to avoid a lot of CJD being misdiagnosed as Alzheimer’s – but diagnosis is consistently insane. Something DTM reiterates throughout The Family That Couldn’t Sleep is just what prion dementia looks like. The characteristic dementia in prion diseases spares something – “self” or “recognition” or “reflection” – that is not spared by Alzheimer’s, or by most common dementias. Shouldn’t this be, uh, noticeable?[[9]](#ftnt9) They kill rapidly, often over the course of months, and often onset in midlife. ALS shares this pattern and is way, way more common than prion diseases; you hear about ALS far more in the “disorder people actually have” sense. What am I missing here?
 
-Anyway: 1 in 2000 prevalence of latent vCJD in the UK + extreme lack of clarity over whether scrapie is human-transmissible + [blood donations spread vCJD](https://onlinelibrary.wiley.com/doi/10.1111/j.1423-0410.2006.00833.x) + sporadic CJD prevalence keeps [going](https://www1.health.gov.au/internet/main/publishing.nsf/Content/8FA6078276359430CA257BF0001A4C42/$File/creutzfeldt_jakob_disease_surveillance_in_australia_update_to_31_december_2022.pdf)[up](https://www.cjd.ed.ac.uk/sites/default/files/report31.pdf) = ???
+Anyway: 1 in 2000 prevalence of latent vCJD in the UK + extreme lack of clarity over whether scrapie is human-transmissible + [blood donations spread vCJD](https://onlinelibrary.wiley.com/doi/10.1111/j.1423-0410.2006.00833.x) + sporadic CJD prevalence keeps [going](https://www1.health.gov.au/internet/main/publishing.nsf/Content/8FA6078276359430CA257BF0001A4C42/$File/creutzfeldt_jakob_disease_surveillance_in_australia_update_to_31_december_2022.pdf) [up](https://www.cjd.ed.ac.uk/sites/default/files/report31.pdf) = ???
 
 (Yes, I am annoyed that most countries have lifted their ban on UK blood donors, thank you for asking!)
 
@@ -239,9 +243,11 @@ These deer were released into the wild. Ten years later, the first reports of ch
 
 This kind of spread doesn’t track natural deer migration. That’s irrelevant, because nothing about CWD’s spread is natural. We shift gears into an anthropology of the American hunter. The hunter wants to shoot the most impressive buck, to bag himself one with as many “points” as possible – one whose antlers branch out most. A “ten-point buck” has five branches on each horn:
 
+![](https://acximages.ennals.org/images/2024-book-reviews/86868f9ee2832b9d.png)
+
 Original by [Ric McArthur](https://www.flickr.com/photos/ricmcarthur/51806642738)
 
-Nature doesn’t make enough bucks with perfectly symmetrical ten-point horns. To fill the demand, the market had to step in. Thus was born the deer farm industry, which raises captive deer in better genetic and nutritional conditions than Nature permits, then ships them across the country so hunters who couldn’t get legit ten-point bucks get the taxidermy piece for their wall. These are [controversial](https://www.reddit.com/r/Hunting/comments/15hzqkc/deer_farms_should_be_illegal/)[amongst](https://thebiggamehuntingblog.com/what-is-canned-shooting/)[hunters](https://www.boone-crockett.org/bc-position-statement-canned-shoots) and [illegal in numerous states](https://www.npr.org/templates/story/story.php?storyId=6433992) – but the industry is big enough to spread CWD. (The kind of hunter who needs a deer shipped to his house is the kind of hunter who will fumble killing it.) Another problem is supplemental feeding – leaving out protein-enriched food for deer to eat. This produces “[trophy class animals at an earlier age](https://tpwd.texas.gov/publications/pwdpubs/media/pwd_bk_w7000_0033.pdf)”, but again, what’s in that protein? (“It is much like feeding your cows 41 percent protein cottonseed cake during the winter to raise the protein level in the cow’s diet to a level that will maintain acceptable production”, says that article from 1991.)[[12]](#ftnt12)
+Nature doesn’t make enough bucks with perfectly symmetrical ten-point horns. To fill the demand, the market had to step in. Thus was born the deer farm industry, which raises captive deer in better genetic and nutritional conditions than Nature permits, then ships them across the country so hunters who couldn’t get legit ten-point bucks get the taxidermy piece for their wall. These are [controversial](https://www.reddit.com/r/Hunting/comments/15hzqkc/deer_farms_should_be_illegal/) [amongst](https://thebiggamehuntingblog.com/what-is-canned-shooting/) [hunters](https://www.boone-crockett.org/bc-position-statement-canned-shoots) and [illegal in numerous states](https://www.npr.org/templates/story/story.php?storyId=6433992) – but the industry is big enough to spread CWD. (The kind of hunter who needs a deer shipped to his house is the kind of hunter who will fumble killing it.) Another problem is supplemental feeding – leaving out protein-enriched food for deer to eat. This produces “[trophy class animals at an earlier age](https://tpwd.texas.gov/publications/pwdpubs/media/pwd_bk_w7000_0033.pdf)”, but again, what’s in that protein? (“It is much like feeding your cows 41 percent protein cottonseed cake during the winter to raise the protein level in the cow’s diet to a level that will maintain acceptable production”, says that article from 1991.)[[12]](#ftnt12)
 
 The book segues into a vignette. CWD was new in Wisconsin in the early 2000s, and the state’s Department of Natural Resources was optimistic it could eradicate it. In a state with a love of hunting, you could, in theory, recruit people to kill every single deer in a 400-square-mile radius:
 

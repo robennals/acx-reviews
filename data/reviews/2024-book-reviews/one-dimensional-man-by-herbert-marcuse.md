@@ -7,7 +7,7 @@ contestName: 2024 Book Reviews
 year: 2024
 publishedDate: '2026-02-06T16:48:20.712Z'
 slug: one-dimensional-man-by-herbert-marcuse
-wordCount: 4463
+wordCount: 4467
 readingTimeMinutes: 20
 originalUrl: >-
   https://docs.google.com/document/d/1cp6iw5OEyDjnD_viZo-KL0Zv4jwQnMXtE4yIovfVAco
@@ -25,7 +25,7 @@ What is this book? It’s hard to define. It’s not, sadly, a sequel to Flatla
 
 A comfortable, smooth, reasonable, democratic unfreedom prevails in advanced industrial civilization, a token of technical progress. Indeed, what could be more rational than the suppression of individuality in the mechanization of socially necessary but painful performances; the concentration of individual enterprises in more effective, more productive corporations; the regulation of free competition among unequally equipped economic subjects; the curtailment of prerogatives and national sovereignties which impede the international organization of resources. That this technological order also involves a political and intellectual coordination may be a regrettable and yet promising development.
 
-My first instinct was to read it like[Richard Feynman reading sociology papers](https://thedetectiveshandbook.wordpress.com/2018/08/06/feynman-on-sociology/)\- go through line by line, word by word, and translate it into regular English until the meaning becomes clear. And to be sure, there is some flim-flammery here, where the abstruse language tricks you into thinking that this must be something super profound, while hiding the actual meaning. I could “translate” the above quote into something like: “Our society sometimes restricts individual’s freedom. This is necessary and rational in order to have a functional society, especially with advanced technology.”
+My first instinct was to read it like [Richard Feynman reading sociology papers](https://thedetectiveshandbook.wordpress.com/2018/08/06/feynman-on-sociology/)- go through line by line, word by word, and translate it into regular English until the meaning becomes clear. And to be sure, there is some flim-flammery here, where the abstruse language tricks you into thinking that this must be something super profound, while hiding the actual meaning. I could “translate” the above quote into something like: “Our society sometimes restricts individual’s freedom. This is necessary and rational in order to have a functional society, especially with advanced technology.”
 
 But reading it like that is a mistake. This style of writing isn’t like a math proof or a computer program, where every line is the next step in a rigorous logical sequence. If anything, the entire book is an argument against that sort of mechanical precision, to show how it alienates people’s human nature. It’s more like a biological system, or a big business, or, well… human society. It muddles through. In that spirit, I invite you to read the book, and to some extent this review, less rigorously. Don’t worry so much if any particular part strikes you as wrong or complete nonsense. Just keep going, and if you get lost, look for the next part that you might agree with or that gives you inspiration.
 
@@ -34,6 +34,8 @@ But reading it like that is a mistake. This style of writing isn’t like a math
 This is a book of… well, everything. All of human history, the economy, capitalism, society, sexuality, everything. It is one giant whole of irreducible complexity, which must be grappled with all at once. Like trying to predict the weather or a human’s free will, this subject is too complex to allow great precision, and also demands massive intellectual effort if we are to make any progress at all.
 
 But not impossible! Reading this book, I was struck by how many of his observations and predictions continue to ring true today. For example, he frequently refers to “advanced industrial society” or “advanced capitalism”- I think the kids these days call that “late stage capitalism.” He also frequently refers to a Marxian ideal where technological progress would create automated factories that free us from the drudgery of labor or any fear of poverty- aka “fully automated luxury gay space communism.”
+
+![](https://acximages.ennals.org/images/2024-book-reviews/7f04224a86333e02.jpg)
 
 Even in the 1960s, those were not new ideas. To some extent this book is a defense of Marxism, against the charges of “why does capitalism always produce better living standards” and “why hasn’t there been a glorious communist revolution around the world yet?” Indeed, he seems to have a grudging respect for capitalism, and spent much of his professional life criticizing the USSR. Example:
 
@@ -53,7 +55,9 @@ But the term "introjection" perhaps no longer describes the way in which the ind
 
 Today this private space has been invaded and whittled down by technological reality. Mass production and mass distribution claim the entire individual, and industrial psychology has long since ceased to be confined to the factory. The manifold processes of introjection seem to be ossified in almost mechanical reactions. The result is, not adjustment but mimesis: an immediate identification of the individual with his society and, through it, with the society as a whole.
 
-The way that I would “translate” this is to the meme of the NPC, sheep, or p-zombie: someone who is in some ways intelligent, but appears to have no free will of their own. Instead they mindlessly follow the trends imposed upon them by others.[Don't ask questions, just consume product and then get excited for next product](https://www.youtube.com/watch?v=-JmVjdYE7qY).
+The way that I would “translate” this is to the meme of the NPC, sheep, or p-zombie: someone who is in some ways intelligent, but appears to have no free will of their own. Instead they mindlessly follow the trends imposed upon them by others. [Don't ask questions, just consume product and then get excited for next product](https://www.youtube.com/watch?v=-JmVjdYE7qY).
+
+![](https://acximages.ennals.org/images/2024-book-reviews/21b68331bf5dbe5a.jpg)
 
 The classic XKCD comic makes a satire of that kind of thinking- essentially saying that it’s common for us to look down on others as less “free-thinking” than ourselves, when in reality we’re not any better than them. But Marcuse takes the idea very seriously. He goes so far as to argue that something like this is necessary for capitalism to continue to exist despite technological progress. If humans could “wake up,” Matrix-style, they could see that they were being exploited and demand a communist revolution. But instead they keep working, chasing an endless cycle of consumer spending that keeps them tied to their jobs.
 

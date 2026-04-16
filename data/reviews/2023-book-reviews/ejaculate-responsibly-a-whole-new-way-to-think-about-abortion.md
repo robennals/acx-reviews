@@ -7,7 +7,7 @@ contestName: 2023 Book Reviews
 year: 2023
 publishedDate: '2026-02-06T07:21:10.028Z'
 slug: ejaculate-responsibly-a-whole-new-way-to-think-about-abortion
-wordCount: 3203
+wordCount: 3213
 readingTimeMinutes: 15
 originalUrl: >-
   https://docs.google.com/document/d/10CiEI7aDL2bMIdx7yayy3vlq0TJ8dO5LGnG7yIDPiw8
@@ -26,6 +26,8 @@ Meanwhile, a man who ejaculates irresponsibly can walk away, with consequences l
 Isn’t this unfair? asks Gabrielle Stanley Blair. She argues that, given the biological realities of male fertility, men should take primary responsibility for birth control. The book exhorts men to change their behavior, but also dips into thought experiments on the theme of “what would men do if they really cared about preventing abortion?”
 
 Let’s take a moment to appreciate this spiffy cover.
+
+![Ejaculate Responsibly: A Whole New Way to Think About Abortion](https://acximages.ennals.org/images/2023-book-reviews/2163f13b11c8dc59.png)
 
 Ejaculate Responsibly! is a beautifully short book (126 pages). Its main arguments are presented verbatim but reordered below.  
 
@@ -76,7 +78,7 @@ Ejaculate Responsibly! is a beautifully short book (126 pages). Its main argumen
 
 As a committed feminist (whoops, just lost my audience, huh), ahem, as a committed feminist, I wanted to like this book. It’s the unicorn combination of left-wing ideology, egalitarianism, and personal responsibility! And, like most women, I’ve been annoyed many times with men who come up with bullshit reasons for not wearing a condom.
 
-Then I looked up the footnotes and they lost me. Partly because [the notes are in PDF form](https://www.google.com/url?q=https://s3.amazonaws.com/workman.cms.uploads/miscellaneous/Ejaculate%2BResponsibly_sources.pdf&sa=D&source=editors&ust=1770366050420513&usg=AOvVaw0LvByYaIMX0A_9JzZOvQfR), which makes it really unnecessarily hard to open links, but what do you care, you have a book reviewer to copy and paste links for you.
+Then I looked up the footnotes and they lost me. Partly because [the notes are in PDF form](https://s3.amazonaws.com/workman.cms.uploads/miscellaneous/Ejaculate+Responsibly_sources.pdf), which makes it really unnecessarily hard to open links, but what do you care, you have a book reviewer to copy and paste links for you.
 
 Start with the discussion of women’s birth control. We are told that hormonal birth control causes a long list of bad things, including heart attack, liver cancer, and stroke. Or, if you go with a copper IUD, you can expect “significant daily bleeding for months or more than a year” and the IUD insertion is described by “a surprising number of people…as the worst pain they've experienced in their life.”
 
@@ -86,21 +88,21 @@ My IUD insertion involved less than a minute of mild pain and I had no unusual b
   
 (Part of this, by the way, is the FDA’s fault—yes, friends, it’s all about the FDA. Unlike the IUD horror stories, the author’s claim about side effects of hormonal birth control mostly checks out, but, as with most lists of side effects that American patients are given, she makes no attempt to distinguish between common risks and incredibly rare ones.)
 
-A person who wanted to tell an honest story about birth control would focus on typical experiences, not just the horror stories. This was the first clue that the author is operating from a [conflict](https://www.google.com/url?q=https://slatestarcodex.com/2018/01/24/conflict-vs-mistake/&sa=D&source=editors&ust=1770366050422492&usg=AOvVaw398Ng0nDXPF-YTLcvmCfT9) mindset and presenting facts tendentiously.
+A person who wanted to tell an honest story about birth control would focus on typical experiences, not just the horror stories. This was the first clue that the author is operating from a [conflict](https://slatestarcodex.com/2018/01/24/conflict-vs-mistake/) mindset and presenting facts tendentiously.
 
 Ejaculate Responsibly!’s most unusual claim is that male birth control is not just on the horizon, but already perfectly good, in the form of condoms and vasectomies, which every man should use. There’s some fudging of the data with regard to vasectomy reversibility. Compare this quote from Ejaculate Responsibly!:
 
 Stanford Medical Center reports that, depending on the type of technique used, their vasectomy reversal success rate is 95 percent and makes clear that the length of time between the vasectomy and the reversal doesn't affect that success.
 
-—with what Stanford Medical Center [actually says](https://www.google.com/url?q=https://stanfordhealthcare.org/medical-treatments/v/vasectomy-reversal.html&sa=D&source=editors&ust=1770366050423459&usg=AOvVaw2x7f4ueb2cgUdjWLlJaiDT), in the source referenced by Blair’s own footnote:
+—with what Stanford Medical Center [actually says](https://stanfordhealthcare.org/medical-treatments/v/vasectomy-reversal.html), in the source referenced by Blair’s own footnote:
 
 While the age of the vasectomy is a factor, there is no time cutoff where a vasectomy reversal will not work…The effectiveness of a vasectomy reversal is up to 90-95 percent. Vasovasotomy procedures (90-95 percent) generally have higher success rates than vasoepididymostomy procedures (65-70 percent). In either type of surgery, the vasectomy reversal is often more successful with microsurgery…
 
-—and with what the NHS [actually says](https://www.google.com/url?q=https://www.nhs.uk/conditions/contraception/vasectomy-male-sterilisation/&sa=D&source=editors&ust=1770366050424165&usg=AOvVaw3N2MtD_FbN0D0UsFhDaGvs), in another source referenced by the author:
+—and with what the NHS [actually says](https://www.nhs.uk/conditions/contraception/vasectomy-male-sterilisation/), in another source referenced by the author:
 
 A vasectomy can be difficult to reverse. Vasectomy reversal is not usually available on the NHS. You can pay for it privately if you wish. Whether or not a vasectomy reversal is successful can depend on how long ago the vasectomy was done. The longer ago it was done, the less likely it is a reversal will be successful.
 
-—and a [third source](https://www.google.com/url?q=https://journals.lww.com/ajandrology/Fulltext/2016/18030/Vasectomy_reversal__a_clinical_update.12.aspx&sa=D&source=editors&ust=1770366050424777&usg=AOvVaw3J2prTSDKOLku9TMtjCHg_) referenced by the author:
+—and a [third source](https://journals.lww.com/ajandrology/Fulltext/2016/18030/Vasectomy_reversal__a_clinical_update.12.aspx) referenced by the author:
 
 Unlike vasectomy, vasectomy reversal is a much more technically challenging procedure that is performed only by a minority of urologists and places a larger financial strain on the patient since it is usually not covered by insurance.
 
@@ -120,13 +122,13 @@ The “stereotype” that condoms make sex less pleasurable is a “cultural myt
 
 “Successful condom users report” sure sounds like survey data, right? Let’s see what the notes say.
 
-Four notes here. #1 is an [article on why men dislike condoms](https://www.google.com/url?q=https://www.bustle.com/wellness/why-dont-guys-like-condoms-like-unprotected-sex&sa=D&source=editors&ust=1770366050428014&usg=AOvVaw3nD2I30MFK7zGHTmRNFVmC), which argues that condoms are “really not that bad,” although they “don’t feel super great” for women either, and in any case men should use condoms because of pregnancy and STD risk. #2 is a listicle titled “Men: [5 Ways to Make Condoms More Pleasurable](https://www.google.com/url?q=https://nationalcoalitionforsexualhealth.org/media-center/ncsh-in-the-news/men&sa=D&source=editors&ust=1770366050428338&usg=AOvVaw2Pe3Isn7bKp_CLwxtDQy3Q). #3 is a survey study of college-age people which concluded that:
+Four notes here. #1 is an [article on why men dislike condoms](https://www.bustle.com/wellness/why-dont-guys-like-condoms-like-unprotected-sex), which argues that condoms are “really not that bad,” although they “don’t feel super great” for women either, and in any case men should use condoms because of pregnancy and STD risk. #2 is a listicle titled “Men: [5 Ways to Make Condoms More Pleasurable](https://nationalcoalitionforsexualhealth.org/media-center/ncsh-in-the-news/men). #3 is a survey study of college-age people which concluded that:
 
 Both women and men rated unprotected vaginal intercourse as more pleasurable than protected vaginal intercourse. However, men’s pleasure ratings for unprotected vaginal intercourse were higher than women’s. Furthermore, men and women’s pleasure ratings for condom-protected intercourse were correlated with their actual condom use behaviors. Men’s “pleasure decrement” scores indicated a significantly greater reduction in pleasure ratings between unprotected and protected intercourse than women’s scores. Men who perceived a larger decrease in pleasure between unprotected and protected intercourse were less likely to have used condoms in the past 3 months than those who perceived a smaller decrease in pleasure. The results provide evidence that many people believe that condoms reduce sexual pleasure and that men, in particular, who believe that condoms decrease pleasure are less likely to use them.
 
 That’s right. Ejaculate Responsibly! is citing a study which concluded that both women and men enjoy unprotected intercourse more to support a claim that “successful condom users” can “barely tell a difference.” (The “pleasure decrement,” if you’re wondering, was 1.31 on a scale of 1 to 5 for men and 0.85 for women.)
 
-Note #4 is a [study of people in substance abuse treatment](https://www.google.com/url?q=https://onlinelibrary.wiley.com/doi/10.1111/j.1521-0391.2013.00312.x&sa=D&source=editors&ust=1770366050430377&usg=AOvVaw2b8VGwi1Rr_jOadWM7Aoh7) who were enrolled in an HIV risk reduction study. The study asked people who had unprotected sex about reasons they did not use condoms.
+Note #4 is a [study of people in substance abuse treatment](https://onlinelibrary.wiley.com/doi/10.1111/j.1521-0391.2013.00312.x) who were enrolled in an HIV risk reduction study. The study asked people who had unprotected sex about reasons they did not use condoms.
 
 Men were more likely than women to endorse barriers to using condoms. Men endorsed negative effects on sexual experience (e.g., not feeling good or natural, not fitting well, changing orgasm, interrupting the mood, and interfering with partner intimacy, not wanting to put a condom on themselves or their partner). Related to access, men were more likely to be religiously opposed to using condoms. Consistent with other studies reporting men’s concerns about condoms, more men reported negative effects of condoms on sexual experience, and more condom barriers overall, while women were more balanced in advantages and disadvantages of condom use.
 
@@ -142,7 +144,7 @@ Or a homicidal act.
 
 When men choose to have condom-less sex, they are putting a woman's body, health, social status, job, economic status, relationships, and even her life, at risk in order to experience a few minutes of slightly more pleasure. It's horrible to type it out. It gives me a stomachache just thinking about it. Would men really choose a few moments of slightly more pleasure over risking a woman's whole life?
 
-This is safetyism. This idea that a risk must be treated as a certainty. This idea that it is immoral to take any risks, and this refusal to quantify and compare risks. (The [maternal mortality rate](https://www.google.com/url?q=https://www.cdc.gov/nchs/data/hestat/maternal-mortality/2021/maternal-mortality-rates-2021.htm&sa=D&source=editors&ust=1770366050433856&usg=AOvVaw1ldcGScj6eC1WMa-b0Z9Gx) in the United States in 2021 was 33 out of 100,000, or 0.0329%.)
+This is safetyism. This idea that a risk must be treated as a certainty. This idea that it is immoral to take any risks, and this refusal to quantify and compare risks. (The [maternal mortality rate](https://www.cdc.gov/nchs/data/hestat/maternal-mortality/2021/maternal-mortality-rates-2021.htm) in the United States in 2021 was 33 out of 100,000, or 0.0329%.)
 
 Remember when I said that the book veers into thought experiments about punishing men who impregnate women?
 

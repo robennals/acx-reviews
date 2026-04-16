@@ -72,12 +72,12 @@ From a security state, it was turning into a benevolent one. All over western Eu
 
 The welfare policies enacted under the premiership of Disraeli in Great Britain or under Bismarck in Germany in the 1880s are good illustrations of that trend.
 
-The other element in the creation of the nation-state was the emergence of a civil society, exercising influence through political parties, unions, church organizations and various associations. Following a process well described by the economist Daron Acemoglu in [his book](https://www.google.com/url?q=https://www.amazon.fr/Narrow-Corridor-States-Societies-Liberty/dp/024131433X/ref%3Dsr_1_1?__mk_fr_FR%3D%25C3%2585M%25C3%2585%25C5%25BD%25C3%2595%25C3%2591%26keywords%3Dnarrow%2Bcorridor%26sr%3D8-1&sa=D&source=editors&ust=1770366049326657&usg=AOvVaw11-JLs-pZg3BJ8ith0Avea), the more organized the society became , the more able it was to check the increasingly powerful state.
+The other element in the creation of the nation-state was the emergence of a civil society, exercising influence through political parties, unions, church organizations and various associations. Following a process well described by the economist Daron Acemoglu in [his book](https://www.amazon.fr/Narrow-Corridor-States-Societies-Liberty/dp/024131433X/ref=sr_1_1?__mk_fr_FR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=narrow+corridor&sr=8-1), the more organized the society became , the more able it was to check the increasingly powerful state.
 
 Freedom of the press was a crucial element of this evolution. The newspapers were reaching a growing audience and were the platform for the diffusion of ideas and the expression of collective sentiments.
 
 Politically, the transformations were not less profound, most countries had a parliament that grew more influential with time. The parliaments were first very constrained in their prerogatives. However, with time, they came to impose their primacy as initiators of the law and liberal parties acted as engines for further progressive policies.  
-The franchise tended to evolve toward more inclusion with some countries attaining [universal man suffrage](https://www.google.com/url?q=https://en.wikipedia.org/wiki/Universal_manhood_suffrage&sa=D&source=editors&ust=1770366049327524&usg=AOvVaw0qVohSvsylylzMBTBY6A8X) before the turn of the century.
+The franchise tended to evolve toward more inclusion with some countries attaining [universal man suffrage](https://en.wikipedia.org/wiki/Universal_manhood_suffrage) before the turn of the century.
 
  Although it would be tempting to separate, for instance, the more liberal regimes of France, the only republic with Switzerland on the continent and Great Britain with those of imperial Germany, Austria-Hungary and The Russian empire, what is truly remarkable is that these changes were occurring regardless of the form of government.
 
@@ -114,7 +114,7 @@ Far from emphasizing this failure of modernization as an expression of the essen
 
 Unfortunately, as it is often the case, the reforms went far enough to anger those who lost from it (the landlords) but not far enough to content those who stood to benefit the most from it (the peasants). In fact, discontent was very publicly expressed and the 1870s saw an explosion of politically motivated terrorist attacks, culminating in the assassination of the Tsar in 1881.
 
-Inheriting the throne from his father, Alexander III was set to put an end to any possibilities of further liberalization. However, under his authoritarian rule, the economy will grow at an [unprecedented rate](https://www.google.com/url?q=https://daviskedrosky.substack.com/p/twilight-imperium&sa=D&source=editors&ust=1770366049333106&usg=AOvVaw3Zf0S5Hrat3ZI8wgwUv5Gn) and will continue to do so until the outbreak of the first world war.
+Inheriting the throne from his father, Alexander III was set to put an end to any possibilities of further liberalization. However, under his authoritarian rule, the economy will grow at an [unprecedented rate](https://daviskedrosky.substack.com/p/twilight-imperium) and will continue to do so until the outbreak of the first world war.
 
 From then on, we can see a growing asymmetry between the acceleration of Russia’s economic development and the fossilization of its political system.
 
@@ -168,7 +168,7 @@ Nations within the empire
 
 The great wave of romantic nationalism sweeping across Europe was slowly reaching the diverse landscape of the Russian empire.
 
-Referring to the building up of [imagined communities](https://www.google.com/url?q=https://www.amazon.fr/Imagined-Communities-Reflections-Origin-Nationalism/dp/1784786756/ref%3Dsr_1_1?__mk_fr_FR%3D%25C3%2585M%25C3%2585%25C5%25BD%25C3%2595%25C3%2591%26keywords%3Dimagined%2Bcommunities%26sr%3D8-1&sa=D&source=editors&ust=1770366049342257&usg=AOvVaw1KZwulqcNJZARl8gRDNFuU), it is interesting to note that the effervescence and passion around the forging of a national culture through folklore and  the gathering of cultural artifacts, costumes, songs, dialects came mostly from educated urbanites thinking that they were ‘rediscovering’ their culture but were ultimately making it up.
+Referring to the building up of [imagined communities](https://www.amazon.fr/Imagined-Communities-Reflections-Origin-Nationalism/dp/1784786756/ref=sr_1_1?__mk_fr_FR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=imagined+communities&sr=8-1), it is interesting to note that the effervescence and passion around the forging of a national culture through folklore and  the gathering of cultural artifacts, costumes, songs, dialects came mostly from educated urbanites thinking that they were ‘rediscovering’ their culture but were ultimately making it up.
 
 Before these efforts were to produce the emergence of a national consciousness for the many nations within the empire, we can have an idea of the self representation of some its people through these examples:
 
@@ -271,7 +271,7 @@ Here Russia stood in stark contrast to Europe, where the most skilled and litera
 
 ### The first revolution
 
-Before the revolution , there were many occasions for the cracks in the system to appear openly. One such occasion was the [famine of 1891](https://www.google.com/url?q=https://en.wikipedia.org/wiki/Russian_famine_of_1891%25E2%2580%25931892&sa=D&source=editors&ust=1770366049370311&usg=AOvVaw3twOCea_0Ur38EZdCmpBZF), it claimed lives in the hundreds of thousands and provoked lasting resentment, further eroding the legitimacy of the regime.
+Before the revolution , there were many occasions for the cracks in the system to appear openly. One such occasion was the [famine of 1891](https://en.wikipedia.org/wiki/Russian_famine_of_1891%E2%80%931892), it claimed lives in the hundreds of thousands and provoked lasting resentment, further eroding the legitimacy of the regime.
 
 The outrage was mostly due to the government response or the lack thereof:
 
@@ -279,7 +279,7 @@ But by far the greatest public outrage was caused by the government's postponeme
 
 Such cynicism did not seem unjustified. All along, the government had been refusing to admit the existence of a 'famine' (gohi), preferring instead to speak euphemistically of a 'poor harvest' (neurozhat). The reactionary daily Moscow News had even warned that it would be an act of disloyalty to use the more 'alarmist term', since it would give rise to a 'dangerous hubbub' from which only the revolutionaries could gain. Newspapers were forbidden to print reports on the 'famine', although many did in all but name.
 
-Not too long after that calamity, Russia got engaged in a [war](https://www.google.com/url?q=https://en.wikipedia.org/wiki/Russo-Japanese_War&sa=D&source=editors&ust=1770366049371808&usg=AOvVaw1wXSj4I3O24sTZ2rJYxJk_) with Japan over influence in Korea and Manchuria. Just like it would be in 1917, the war was a complete disaster for the Russian Empire.
+Not too long after that calamity, Russia got engaged in a [war](https://en.wikipedia.org/wiki/Russo-Japanese_War) with Japan over influence in Korea and Manchuria. Just like it would be in 1917, the war was a complete disaster for the Russian Empire.
 
 Suffering defeat after defeat on the battlefield, the home front situation ended up forcing the hand of the tsar to sue for peace.
 
@@ -291,7 +291,7 @@ It is that image of the benevolent tsar that was shattered for many, once the gu
 
 Only moments after the shooting had ceased an old man turned to a boy of fourteen and said to him, with his voice full of anger: 'Remember, son, remember and swear to repay the Tsar. You saw how much blood he spilled, did you see? Then swear, son, swear!' 
 
- This crucial choice of shooting unarmed demonstrators got remembered as [“Bloody Sunday”](https://www.google.com/url?q=https://en.wikipedia.org/wiki/Bloody_Sunday_(1905)&sa=D&source=editors&ust=1770366049373917&usg=AOvVaw02ih03FDjPyzgaNPM_1qlt) , that would itself lead to the largest labor protests in Russian history up to that point. More than 400 000 people went on strike.
+ This crucial choice of shooting unarmed demonstrators got remembered as [“Bloody Sunday”](https://en.wikipedia.org/wiki/Bloody_Sunday_(1905)) , that would itself lead to the largest labor protests in Russian history up to that point. More than 400 000 people went on strike.
 
 Some interesting points that stand out about what would be known as the 1905 revolution:
 
@@ -408,7 +408,7 @@ The result was Order Number One, perhaps the most consequential document to be w
 
 It provided for the establishment of soldiers' committees as a democratic counterbalance to the authority of the officers. It declared that the soldiers would recognize only the authority of the Petrograd Soviet, and that the orders of the Duma's Military Commission would be executed only in so far as they did not conflict with the Soviet's. 
 
-As more new freedoms were granted, Russia was turning into the ‘[freest country in the world](https://www.google.com/url?q=http://www.orlandofiges.info/section5_TheFebruaryRevolution1917/TheProvisionalGovernment.php&sa=D&source=editors&ust=1770366049395895&usg=AOvVaw3yo84RXemrxhz9xZDfNOoI)’:
+As more new freedoms were granted, Russia was turning into the ‘[freest country in the world](http://www.orlandofiges.info/section5_TheFebruaryRevolution1917/TheProvisionalGovernment.php)’:
 
 Freedoms of assembly, press and speech were granted. Legal restrictions of religion, class and race were removed. There was a general amnesty. Universal adult suffrage was introduced. The police were made accountable to local government. The courts and the penal system were overhauled. Capital punishment was abolished.
 
@@ -533,7 +533,7 @@ To understand the scale of the revolution and how it managed to affect so many p
 As we have already seen , the peasants and the workers often had their own agenda and profited from the political struggles at the top to impose their own revolution from the bottom.  
 Considering the dire situation, due to the poor handling of the war, the economy, and the counterproductive policies implemented by the communists, what did the new regime offer to those that supported the revolution?  
   
-The phrase “looting of the looters”, that the Bolsheviks would [make their own](https://www.google.com/url?q=https://soviethistory.msu.edu/1917-2/economic-apparatus/economic-apparatus-texts/lenin-loot-the-looters/&sa=D&source=editors&ust=1770366049423075&usg=AOvVaw21GGoQMIf9UeebMcdvQEcH), is used by Figes to describe the process by which the regime managed to build itself on the worst sentiments of the masses:
+The phrase “looting of the looters”, that the Bolsheviks would [make their own](https://soviethistory.msu.edu/1917-2/economic-apparatus/economic-apparatus-texts/lenin-loot-the-looters/), is used by Figes to describe the process by which the regime managed to build itself on the worst sentiments of the masses:
 
 If Soviet power could do little to relieve the misery of the poor, it could at least make the lives of the rich still more miserable than their own — and this was a cause of considerable psychological satisfaction. After 1918, as the revolution's ideals became tarnished and the people became more and more impoverished, the Bolshevik regime was increasingly inclined to base its appeal almost exclusively on these vulgar pleasures of revenge. In an editorial to mark the start of 1919, Pravda proudly proclaimed: Where are the wealthy, the fashionable ladies, the expensive restaurants and private mansions, the beautiful entrances, the lying newspapers, all the corrupted 'golden life'?
 
@@ -608,7 +608,7 @@ And :
 
 'In our village everyone eats human flesh but they hide it. There are several cafeterias in the village — and all of them serve up young children.' The phenomenon really took off with the onset of winter, around November 1921, when the first snows covered the remaining food substitutes on the ground and there was nothing else to eat. Mothers, desperate to feed their children, cut off limbs from corpses and boiled the flesh in pots. People ate their own relatives — often their young children, who were usually the first to die and whose flesh was particularly sweet. In some villages the peasants refused to bury their dead but stored the corpses, like so much meat, in their barns and stables.
 
-The brutalization, and normalization of violence that defined many parts of Europe following the [‘end’](https://www.google.com/url?q=https://www.amazon.com/Vanquished-Why-First-World-Failed-ebook/dp/B01ERPCBUK/ref%3Dsr_1_3?keywords%3Drobert%2Bgerwarth%26sr%3D8-3&sa=D&source=editors&ust=1770366049440991&usg=AOvVaw0mrY0HeCg7mIyxQUalvisL) of World War I, was very acute in the Russian case. We already described many instances showing the low concern for human life throughout the events of historical intensity that occurred in Russia but the rationalization by some of the perpetrators of violence makes a grim depiction of the human condition:  
+The brutalization, and normalization of violence that defined many parts of Europe following the [‘end’](https://www.amazon.com/Vanquished-Why-First-World-Failed-ebook/dp/B01ERPCBUK/ref=sr_1_3?keywords=robert+gerwarth&sr=8-3) of World War I, was very acute in the Russian case. We already described many instances showing the low concern for human life throughout the events of historical intensity that occurred in Russia but the rationalization by some of the perpetrators of violence makes a grim depiction of the human condition:  
 
  In 1921 Gorky asked a group of soldiers from the Red Army if they were uneasy about killing people. 'No they were not. "He has a weapon, I have a weapon, so we are equal; what's the odds, if we kill one another there'll be more room in the land."
 

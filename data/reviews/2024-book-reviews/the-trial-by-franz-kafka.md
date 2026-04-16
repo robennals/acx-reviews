@@ -17,7 +17,7 @@ tags:
   - Philosophy
 ---
 
-“It is Justice,” said the painter at last. “Now I can recognize it.” said K. “There’s the bandage over the eyes, and here are the scales. But aren’t there wings on the figure’s heels, and isn’t it flying?” “Yes” said the painter, “My instructions were to paint it like that. Actually, it is Justice and the goddess of Victory in one.”
+“It is Justice,” said the painter at last. “Now I can recognize it.” said K. “There’s the bandage over the eyes, and here are the scales. But aren’t there wings on the figure’s heels, and isn’t it flying?” “Yes” said the painter, “My instructions were to paint it like that. Actually, it is Justice and the goddess of Victory in one.”  
 
 This book took me totally by surprise. It is an account of a man referred to only by the name “Joseph K.” who is arrested under questionable circumstances. We aren’t given the name of the country where Joseph K. lives, but it appears to have a terrible legal system. The author avers on Page 4: “K. lived in a country with a legal constitution, there was universal peace, all the laws were in force.”
 

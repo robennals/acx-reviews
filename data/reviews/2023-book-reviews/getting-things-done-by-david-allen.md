@@ -21,7 +21,7 @@ I.
 
 “Productivity systems” like Getting Things Done (GTD) have a bit of a bad reputation in certain circles. Imagine the cool kids in the back row yelling: “All you accomplish with GTD is turning yourself into an even more efficient cog in the machine!” Meanwhile, the diligent student in the front row points out that if you already have good productivity habits, GTD is superfluous and you’re wasting your time reading this essay. Go polish your GWWC pledge pin, or something.
 
-Both are wrong. Yes, GTD is known and marketed as a tool to become maximally-high-performing at a paper-pusher job – but it can also be used if the work you want to get better at is bringing about  ["a total revolution of everything".](https://www.google.com/url?q=https://slatestarcodex.com/2014/12/19/nobody-is-perfect-everything-is-commensurable/&sa=D&source=editors&ust=1770366050613610&usg=AOvVaw1kNiYQTLN4QJm0Y96eyUVe) And strictly speaking, it’s not really a productivity system. A better description would be that it’s an easily actionable method for acting with greater integrity, in every single area of your life.
+Both are wrong. Yes, GTD is known and marketed as a tool to become maximally-high-performing at a paper-pusher job – but it can also be used if the work you want to get better at is bringing about  ["a total revolution of everything".](https://slatestarcodex.com/2014/12/19/nobody-is-perfect-everything-is-commensurable/) And strictly speaking, it’s not really a productivity system. A better description would be that it’s an easily actionable method for acting with greater integrity, in every single area of your life.
 
 In his opening address for EA Global: Bay Area 2023, Effective Altruism co-founder Toby Ord reflected on the challenges the EA movement has been facing recently, and on what he termed the “importance of character”. There is a section of the talk that could be labeled “How to guard against accidentally or carelessly inflicting tremendous amounts of damage on EA“. In it, he reflects on, among other things, virtue ethics. He says:
 
@@ -60,7 +60,7 @@ I encourage you to do this as you read along.
 
 2) Processing
 
-This is the process of deciding what to do about the items in your “inbox”. It’s also the area where most people, including me, have the most room for improvement. David Allen’s book features a [flow chart](https://www.google.com/url?q=https://www.zenflowchart.com/guides/gtd-flowchart&sa=D&source=editors&ust=1770366050625903&usg=AOvVaw26E9xLDc3noPDXzsExwQtD) for the decision process, which the friend who introduced me to GTD had printed out and put up above his desk for years.
+This is the process of deciding what to do about the items in your “inbox”. It’s also the area where most people, including me, have the most room for improvement. David Allen’s book features a [flow chart](https://www.zenflowchart.com/guides/gtd-flowchart) for the decision process, which the friend who introduced me to GTD had printed out and put up above his desk for years.
 
 The first decision: Is this an actionable item?
 
@@ -76,7 +76,7 @@ If it will take more than two minutes and it’s not a project, the options are 
 
 3) Organizing the results
 
-This is where the various implementations of GTD differ the most, and where it’s most useful to shop around until you find a tool you “click” with. Personally, I use [Everdo.](https://www.google.com/url?q=https://everdo.net/&sa=D&source=editors&ust=1770366050630587&usg=AOvVaw0bP_6lPbYn8M1UcI4wVtDj) It’s a software specifically for GTD and costs ~80€, but I got the license key from a friend who switched to a different software. I find it very intuitive, but you might not. GTD is implementable with pretty much anything – Evernote, Standard Notes, Obsidian,… You need to find out what works for you.
+This is where the various implementations of GTD differ the most, and where it’s most useful to shop around until you find a tool you “click” with. Personally, I use [Everdo.](https://everdo.net/) It’s a software specifically for GTD and costs ~80€, but I got the license key from a friend who switched to a different software. I find it very intuitive, but you might not. GTD is implementable with pretty much anything – Evernote, Standard Notes, Obsidian,… You need to find out what works for you.
 
 4) Reviewing
 

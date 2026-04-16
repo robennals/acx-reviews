@@ -7,7 +7,7 @@ contestName: 2024 Book Reviews
 year: 2024
 publishedDate: '2026-02-06T16:47:15.600Z'
 slug: discrimination-and-disparities-by-thomas-sowell
-wordCount: 9985
+wordCount: 9986
 readingTimeMinutes: 45
 originalUrl: >-
   https://docs.google.com/document/d/1AXmWgSbh_TFsoZuApSCSEoz57yn93CM5YYhtaO_s4W4
@@ -326,7 +326,7 @@ I don’t want to imply that Sowell thinks nothing can be done. In the above cas
 
 ## On Proofs and Peer Review
 
-While Sowell's [early](https://www.google.com/books/edition/Economics_Analysis_and_Issues/k-8eAQAAMAAJ?hl=en)[works](https://www.jstor.org/stable/j.ctt13x0w9s) were aimed at an academic audience, he has since largely eschewed publishing in scholarly journals, opting instead to write books and articles intended for a general readership. This choice has likely enabled him to reach a larger audience and, arguably, exert a greater influence on public discourse. I'm not sure why Sowell has never published much in the academic journals, but I suspect it's because [he doesn't think very highly of them](https://www.tsowell.com/About_Writing.html).
+While Sowell's [early](https://www.google.com/books/edition/Economics_Analysis_and_Issues/k-8eAQAAMAAJ?hl=en) [works](https://www.jstor.org/stable/j.ctt13x0w9s) were aimed at an academic audience, he has since largely eschewed publishing in scholarly journals, opting instead to write books and articles intended for a general readership. This choice has likely enabled him to reach a larger audience and, arguably, exert a greater influence on public discourse. I'm not sure why Sowell has never published much in the academic journals, but I suspect it's because [he doesn't think very highly of them](https://www.tsowell.com/About_Writing.html).
 
 That said, Sowell's decision to operate primarily outside of traditional academic channels leaves him open to criticism, and some readers may remain unconvinced by his arguments. The validity of such critiques is worth considering, and individuals must assess for themselves how significant they think this is. Had Sowell been able to draw upon a robust body of peer-reviewed research employing sophisticated statistical methods, such as instrumental variables estimation, to disentangle causal relationships from mere correlations, it could have fortified his arguments. While this additional layer of academic rigor still might not have persuaded everyone, it would have strengthened his position.
 

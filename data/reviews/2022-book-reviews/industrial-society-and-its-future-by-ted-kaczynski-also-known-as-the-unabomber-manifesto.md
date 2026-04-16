@@ -1,5 +1,7 @@
 ---
-title: "Industrial Society and Its Future\_by Ted Kaczynski (also known as the Unabomber Manifesto)"
+title: >-
+  Industrial Society and Its Future by Ted Kaczynski (also known as the
+  Unabomber Manifesto)
 author: Unknown
 reviewAuthor: Anonymous
 contestId: 2022-book-reviews

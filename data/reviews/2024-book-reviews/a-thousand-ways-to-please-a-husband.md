@@ -7,7 +7,7 @@ contestName: 2024 Book Reviews
 year: 2024
 publishedDate: '2026-02-06T16:47:15.592Z'
 slug: a-thousand-ways-to-please-a-husband
-wordCount: 4159
+wordCount: 4161
 readingTimeMinutes: 19
 originalUrl: >-
   https://docs.google.com/document/d/1AXmWgSbh_TFsoZuApSCSEoz57yn93CM5YYhtaO_s4W4
@@ -16,6 +16,8 @@ tags:
   - History
   - Society
 ---
+
+![](https://acximages.ennals.org/images/2024-book-reviews/b75be37ca8025b41.jpg)
 
 A Thousand Ways to Please a Husband (published in 1917) is the most interesting cookbook I have ever encountered. It is, to be sure, a cookbook first and foremost. I’d be willing to bet money that for Louise Bennett Weaver and Helen Cowles LeCron, when they were writing it more than a century ago, the recipes were the important bit. But in the grand tradition of recipe bloggers—whose origins are evidently quite ancient!—they threw in some narrative content as a convenient vehicle, so it’s actually fun to read.
 
@@ -102,7 +104,7 @@ There’s an idea common in certain Abrahamic religions—mostly Christianity, a
 
 Of course, not all Christians believe that. Plenty of Christians abide by Christian egalitarianism, and others are somewhere in the middle, and then you get the sects that sought to abolish gender entirely. Whatever. Point is, complementarianism is still pretty influential today: if you’re a member of a denomination which restricts the priesthood to men (e.g. the Catholic Church) or if you’re a member of a denomination which ordains both men and women (e.g. the Episcopal Church, the Church of England) you may have opinions on the issue.
 
-Regardless of your specific opinions on how things should be today, you may have the idea that circumstances were different in the past. A lot of people—conservatives who want to return to the good ol’ days, progressives who want the option to not do that—will tell you that in days gone by, gender roles were a lot stronger and people more readily acknowledged that there was a “man’s world” and a “woman’s world” which did not intersect. The idea is promulgated by Handmaid’s Tale\-esque fiction and by influencers whose tradwives are probably going to murder them in their sleep someday.
+Regardless of your specific opinions on how things should be today, you may have the idea that circumstances were different in the past. A lot of people—conservatives who want to return to the good ol’ days, progressives who want the option to not do that—will tell you that in days gone by, gender roles were a lot stronger and people more readily acknowledged that there was a “man’s world” and a “woman’s world” which did not intersect. The idea is promulgated by Handmaid’s Tale-esque fiction and by influencers whose tradwives are probably going to murder them in their sleep someday.
 
 After reading A Thousand Ways to Please a Husband, I don’t think that’s a helpful framework to understand the past.
 
@@ -121,6 +123,8 @@ This all goes to show why I reject complementarianism as a good model for gender
 And it’s clear that Bettina and Bob very much like each other, and they’re willing to drop everything and pitch in if necessary, because that’s just what you do. Mr. and Mrs. Dixon also learn to cooperate and work together, after the initial struggles; Mr. Dixon gets delegated the task of menu planning and making things like salad dressing, and they’re happy. Sure, there’s still some language about gender and such that reads a little funny to my ears. A character, for example, remarks that he likes drinking tea, “although perhaps that isn’t considered a manly sentiment in this country.” And then there’s Bob, who says things like “I tell you what, Bettina, I call this a regular man-size meal!” Someone saying that today would sound faintly ridiculous. But language changes; this book came out in 1917, remember. One thing that Paul Fussell noted, in his book The Great War and Modern Memory, was that an innocent society produces some prophylaxis of language. Before World War I, it was not uncommon for authors to write things that today sound like double entendres, but which were not thought of as such in those days. Fussell blames it on World War I shattering the collective innocence of the participant societies; nowadays, if you write the words “he ejaculated breathlessly,” it sounds like you’re writing a pornographic script, not a Sherlock Holmes pastiche with period-accurate language.
 
 I dunno. Maybe Bob’s just a regular guy whose suffragette Aunt Elizabeth inculcated some decency into him. Maybe Bettina’s an idealized figure constructed by her authors, two women who created a woman who enjoys herself and is good at what she does. Maybe it’s all a castle in the air and we shouldn’t be reading too much into a book like this. What the hell do I know.
+
+![](https://acximages.ennals.org/images/2024-book-reviews/840ef379e4fd31e6.jpg)
 
 [Caption: Presented without context or comment.]
 

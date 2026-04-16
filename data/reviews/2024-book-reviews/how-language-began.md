@@ -7,7 +7,7 @@ contestName: 2024 Book Reviews
 year: 2024
 publishedDate: '2026-02-06T16:47:49.310Z'
 slug: how-language-began
-wordCount: 10220
+wordCount: 10227
 readingTimeMinutes: 46
 originalUrl: >-
   https://docs.google.com/document/d/1QiotH3aGFgNLGqsIHTK_Plm_gem2E4l2C2ctyGJd0jY
@@ -52,7 +52,9 @@ Not many academics do better than Chomsky citation-wise. But there are a few, an
 
 …well, okay, maybe I don’t entirely get Foucault’s number. Every humanities person must have an altar of him by their bedside or something.    
 
-Chomsky has been called “arguably the most important intellectual alive today” in a New York Times review of one of his books, and was voted the world’s top public intellectual in a [2005](https://www.infoplease.com/culture-entertainment/prospectfp-top-100-public-intellectuals)[poll](https://www.theguardian.com/world/2005/oct/18/books.highereducation). He’s the kind of guy that gets long and gushing introductions before his talks ([this one](https://www.youtube.com/watch?v=PTuawY8Qnz8) is nearly twenty minutes long). All of this is just to say: he’s kind of a big deal.
+Chomsky has been called “arguably the most important intellectual alive today” in a New York Times review of one of his books, and was voted the world’s top public intellectual in a [2005](https://www.infoplease.com/culture-entertainment/prospectfp-top-100-public-intellectuals) [poll](https://www.theguardian.com/world/2005/oct/18/books.highereducation). He’s the kind of guy that gets long and gushing introductions before his talks ([this one](https://www.youtube.com/watch?v=PTuawY8Qnz8) is nearly twenty minutes long). All of this is just to say: he’s kind of a big deal.
+
+![](https://acximages.ennals.org/images/2024-book-reviews/857892acce4c2d81.jpg)
 
 This is what he looks like. According to [Wikipedia](https://en.wikipedia.org/wiki/Noam_Chomsky#/media/File:Noam_Chomsky_portrait_2017_retouched.jpg), the context for this picture is:
 
@@ -102,7 +104,7 @@ First, he famously distinguishes competence from performance, and identifies th
 
 The problem for the linguist, as well as for the child learning the language, is to determine from the data of performance the underlying system of rules that has been mastered by the speaker-hearer and that he puts to use in actual performance. Hence, in the technical sense, linguistic theory is mentalistic, since it is concerned with discovering a mental reality underlying actual behavior. Observed use of language or hypothesized dispositions to respond, habits, and so on, may provide evidence as to the nature of this mental reality, but surely cannot constitute the actual subject matter of linguistics, if this is to be a serious discipline.
 
-Moreover, he claims that grammar captures most of what we should mean when we talk about speakers’ linguistic competence: (Aspects of the Theory of Syntax, Ch. 1,pg. 24)
+Moreover, he claims that grammar captures most of what we should mean when we talk about speakers’ linguistic competence: (Aspects of the Theory of Syntax, Ch. 1, pg. 24)
 
 A grammar can be regarded as a theory of a language; it is descriptively adequate to the extent that it correctly describes the intrinsic competence of the idealized native speaker.
 
@@ -154,6 +156,8 @@ Everett became a linguist proper sort of by accident, mostly as an excuse to con
 
 I went to the Pirahãs when I was twenty-six years old. Now I am old enough to receive senior discounts. I gave them my youth. I have contracted malaria many times. I remember several occasions on which the Pirahãs or others threatened my life. I have carried more heavy boxes, bags, and barrels on my back through the jungle than I care to remember. But my grandchildren all know the Pirahãs. My children are who they are in part because of the Pirahãs. And I can look at some of those old men (old like me) who once threatened to kill me and recognize some of the dearest friends I have ever had—men who would now risk their lives for me.
 
+![](https://acximages.ennals.org/images/2024-book-reviews/e6a917f6dbf156c3.jpg)
+
 Everett interviewing some Pirahã people. ([source](https://www.52-insights.com/daniel-everett-battle-for-the-origin-of-language-language-interview-amazon/))
 
 Everett did eventually learn their language, and it’s worth taking a step back to appreciate just how hard that task was. No Pirahã spoke Portuguese, apart from some isolated phrases they used for bartering. They didn’t speak any other language at all—just Pirahã. How do you learn another group’s language when you have no languages in common? The technical term is [monolingual fieldwork](https://www.youtube.com/watch?v=sYpWp7g7XWU). But this is just a fancy label for some combination of pointing at things, listening, crude imitation, and obsessively transcribing whatever you hear. For years.
@@ -179,6 +183,8 @@ Everett also convincingly links this cultural principle to the lack of Pirahã [
 I sat with Kóhoi once and he asked me, after hearing about my god, “What else does your god do?” And I answered, “Well, he made the stars, and he made the earth.” Then I asked, “What do the Pirahãs say?” He answered, “Well, the Pirahãs say that these things were not made.”
 
 And all of this is to say nothing of the manifold perils of the jungle: malaria, typhoid fever, dysentery, dangerous snakes, insects, morally gray river traders, and periodic downpours. If Indiana Jones braved these conditions for years, we would consider his stories rousing adventures. Everett did this while also learning one of the most unusual languages in the world.
+
+![](https://acximages.ennals.org/images/2024-book-reviews/baabd02ee53cdce5.jpg)
 
 People on the bank of the Maici river. ([source](https://daneverettbooks.com/photos/))
 
@@ -377,6 +383,8 @@ indexes (dog paw print) -> icons (drawing of dog paw print) -> symbols (“d o g
 
 This reminds me of what little I know about how written languages changed over time. For example, many Chinese characters used to look a lot more like the things they represented (icon-like), but became substantially more abstract (symbol-like) over time:
 
+![](https://acximages.ennals.org/images/2024-book-reviews/a9a1668945c3aa2c.png)
+
 Eight examples of how Chinese characters have changed over time. ([source](https://en.wikipedia.org/wiki/Oracle_bone_script))
 
 For a given culture and concept, the icon-to-symbol transition could’ve happened any number of ways. For example, early humans could’ve mimicked an animal’s cry to refer to it (icon-like, since this evokes a well-known physical consequence of some animal’s presence), but then gradually shifted to making a more abstract sound (symbol-like) over time.
@@ -389,7 +397,7 @@ Why did we end up with certain symbols and not others? Well, there’s no good a
 
 When did language—in the sense of communication using symbols—begin? Everett makes two kinds of arguments here. One kind of argument is that certain feats are hard enough that they probably required language in this sense. Another kind of argument relates to how we know human anatomy has physically changed on evolutionary time scales.
 
-The feats Everett talks about are things like traveling long distances across continents, possibly even in a directed rather than random fashion; manufacturing nontrivial hand tools (e.g., [Oldowan](https://en.wikipedia.org/wiki/Oldowan) and [Mousterian](https://en.wikipedia.org/wiki/Mousterian)); building complex settlements (e.g., the one found at [Gesher Benot Ya'aqov](https://en.wikipedia.org/wiki/Gesher_Benot_Ya%27aqov)); controlling fire; and using boats to successfully navigate treacherous waters. Long before sapiens arose, paleoanthropological evidence suggests that our predecessors [Homo erectus](https://en.wikipedia.org/wiki/Homo_erectus) did all of these things. Everett argues that they might have had language over one million years ago.[[14]](#ftnt14)
+The feats Everett talks about are things like traveling long distances across continents, possibly even in a directed rather than random fashion; manufacturing nontrivial hand tools (e.g., [Oldowan](https://en.wikipedia.org/wiki/Oldowan) and [Mousterian](https://en.wikipedia.org/wiki/Mousterian)); building complex settlements (e.g., the one found at [Gesher Benot Ya'aqov](https://en.wikipedia.org/wiki/Gesher_Benot_Ya%27aqov)); controlling fire; and using boats to successfully navigate treacherous waters. Long before sapiens arose, paleoanthropological evidence suggests that our predecessors [Homo erectus](https://en.wikipedia.org/wiki/Homo_erectus) did all of these things. Everett argues that they might have had language over one million years ago.[[14]](#ftnt14) 
 
 This differs from Chomsky’s proposal by around an order of magnitude, time-wise, and portrays language as something not necessarily unique to modern humans. In Everett’s view, Homo sapiens probably improved on the language technology bestowed upon them by their erectus ancestors, but did not invent it.
 
@@ -425,7 +433,7 @@ I want to talk about large language models now. Sorry. But you know I had to do 
 
 Less than two years ago at the time of writing, the shocking successes of ChatGPT put many commentators in an awkward position. Beyond all the quibbling about details (Does ChatGPT [really understand](https://scottaaronson.blog/?p=7094#comment-1947189)? Doesn’t it [fail at many tasks trivial for humans](https://chatgpt.com/g/g-qXbCBoMXg-gary-marcus-ai-critic-simulator)? Could ChatGPT or something like it be [conscious](https://philpapers.org/archive/CHACAL-3.pdf)?), the brute empirical fact remains that it can handle language comprehension and generation pretty well. And this is despite the conception of language underlying it—language use as a statistical learning problem, with no sentence diagrams or grammatical transformations in sight—being somewhat antithetical to the Chomskyan worldview.
 
-Chomsky has [frequently](https://norvig.com/chomsky.html)[criticized](https://scottaaronson.blog/?p=7094) the statistical learning tradition, with his main criticisms seeming to be that (i) statistical learning produces systems with serious defects, and (ii) succeeding at engineering problems does not tell us anything interesting about how the human brain handles language. These are reasonable criticisms, but I think they are essentially wrong.
+Chomsky has [frequently](https://norvig.com/chomsky.html) [criticized](https://scottaaronson.blog/?p=7094) the statistical learning tradition, with his main criticisms seeming to be that (i) statistical learning produces systems with serious defects, and (ii) succeeding at engineering problems does not tell us anything interesting about how the human brain handles language. These are reasonable criticisms, but I think they are essentially wrong.
 
 Statistical approaches succeeded where more directly-Chomsky-inspired approaches failed, and it was never close. Large language models (LLMs) like ChatGPT are not perfect, but they’re getting better all the time, and the onus is on the critics to explain where they think the wall is. It’s conceivable that a completely orthogonal system designed according to the principles of universal grammar could outperform LLMs built according to the current paradigm—but this possibility is becoming vanishingly unlikely.
 

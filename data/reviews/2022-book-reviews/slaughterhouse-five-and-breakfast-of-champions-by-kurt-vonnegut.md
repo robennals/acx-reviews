@@ -1,5 +1,5 @@
 ---
-title: "Slaughterhouse-Five\_and Breakfast of Champions, by Kurt Vonnegut"
+title: 'Slaughterhouse-Five and Breakfast of Champions, by Kurt Vonnegut'
 author: Unknown
 reviewAuthor: Anonymous
 contestId: 2022-book-reviews
@@ -169,6 +169,6 @@ In conclusion, SF and BoC invite us to take a step back from taking things ser
 
 Footnotes
 
-* I found [this](https://www.google.com/url?q=http://www.sarahrimkus.com/trapped-in-amber&sa=D&source=editors&ust=1770366185372785&usg=AOvVaw1bAHZdfsJ1V7dzjmv7xcJZ) orchestral piece composed by Sarah Rimkus called 'Trapped in Amber.' The music was inspired by Slaughterhouse-Five.
+* I found [this](http://www.sarahrimkus.com/trapped-in-amber) orchestral piece composed by Sarah Rimkus called 'Trapped in Amber.' The music was inspired by Slaughterhouse-Five.
 
 * * *

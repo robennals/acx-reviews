@@ -7,7 +7,7 @@ contestName: 2025 Non Book Reviews
 year: 2025
 publishedDate: '2026-02-06T16:57:23.284Z'
 slug: the-last-of-us-part-ii-remastered
-wordCount: 4562
+wordCount: 4564
 readingTimeMinutes: 21
 originalUrl: >-
   https://docs.google.com/document/d/1B3YxYxLVFjKGicaEkqvt353kt0uimn0PSUQv1PyaHuI
@@ -21,7 +21,7 @@ Revenge Is a Dish Best Left Unserved
 
 Spoiler Warning
 
-If you care about spoilers and have managed to avoid learning what happens in The Last of Us,Parts I or II––or in HBO’s TV adaptation––proceed with caution. What follows assumes total familiarity with the plot and does not avoid major spoilers.
+If you care about spoilers and have managed to avoid learning what happens in The Last of Us, Parts I or II––or in HBO’s TV adaptation––proceed with caution. What follows assumes total familiarity with the plot and does not avoid major spoilers.
 
 ## Introduction: Video Games and Moral Crimes
 
@@ -63,7 +63,7 @@ Despite being an obvious masterpiece, P2R does have some flaws. Enemy variety on
 
 The game’s extreme and pervasive violence also deserves frank warning. Headshots uncork red geysers, jugular slashes gurgle, and death screens linger long enough to trigger visceral disgust. The game is not content to merely depict atrocity. It insists on your complicity with every button‑press affirmation to send Ellie’s switchblade slicing through flesh. If your stomach curdles at interactive cruelty, or if you prefer digital heroism untainted by regret, P2R is not the game for you. Equally non‑negotiable is the demand for perspective‑taking, as the game is an empathy gauntlet disguised as a third‑person shooter.
 
-Yet when the cycle clicks––explore, scavenge, craft, creep, slaughter, decompress––the game achieves a player experience of rare and precious quality. On Hard difficulty, I found myself rationing shotgun shells, trying to keep my head down, raining hell on my enemies when my cover was blown, then exhaling during a cut‑scene as if surfacing from a dive. The loop is narcotic, punishing enough to endanger, generous enough to suggest mastery always lies one experiment away. Ultimately, the gameplay in P2Ris a moral centrifuge. It spins every mechanical delight until what separates inside you is the admission that fun and discomfort can share a bedroom. You may finish the campaign a quicker tactician, but will assuredly finish it a slower judge of other people’s choices.
+Yet when the cycle clicks––explore, scavenge, craft, creep, slaughter, decompress––the game achieves a player experience of rare and precious quality. On Hard difficulty, I found myself rationing shotgun shells, trying to keep my head down, raining hell on my enemies when my cover was blown, then exhaling during a cut‑scene as if surfacing from a dive. The loop is narcotic, punishing enough to endanger, generous enough to suggest mastery always lies one experiment away. Ultimately, the gameplay in P2R is a moral centrifuge. It spins every mechanical delight until what separates inside you is the admission that fun and discomfort can share a bedroom. You may finish the campaign a quicker tactician, but will assuredly finish it a slower judge of other people’s choices.
 
 ## Story
 

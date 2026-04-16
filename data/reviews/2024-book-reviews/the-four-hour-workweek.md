@@ -7,7 +7,7 @@ contestName: 2024 Book Reviews
 year: 2024
 publishedDate: '2026-02-06T16:49:14.007Z'
 slug: the-four-hour-workweek
-wordCount: 4409
+wordCount: 4421
 readingTimeMinutes: 20
 originalUrl: >-
   https://docs.google.com/document/d/14qa47TJ_Vyerx4XNgTCIh7PUZ_TOgNcU_eHm5So_zo0
@@ -29,11 +29,11 @@ Part self-help book, part business advice book, and part ‘lifestyle design’ 
 
 “Carpe Diem, seize the day boys, make your lives extraordinary.”
 
--[Dead Poets Society](https://www.goodreads.com/work/quotes/1207563-dead-poets-society)
+- [Dead Poets Society](https://www.goodreads.com/work/quotes/1207563-dead-poets-society)
 
 ## Motivation
 
-In[David Attenborough](https://en.wikipedia.org/wiki/David_Attenborough) voice:
+In [David Attenborough](https://en.wikipedia.org/wiki/David_Attenborough) voice:
 
 The standard life plan of the American human is straightforward. First, we see their childhood, their early years spent in the institution they call ‘school’ learning to interact with the other humans. Occasionally other things are learned as well, but the primary education seems to be in social dynamics - see how the cliques form?
 
@@ -81,7 +81,7 @@ He names several traps people fall into:
 
 What he advises you to do instead is define what you actually want your life to look like. This is the brainstorming part of lifestyle design - if you could live the way you want, what does that look like? Is it a life of travel and adventure, or one of quiet contemplation in a cabin in the woods?
 
-No matter what it is, Ferriss urges you to actually think it through - and it’s okay if you don’t know! Just think about the next six months, to start with. This will be the foundation of your dreamline - your concrete plan to live your dream over the next six months. A sample one can be found in the book and on Ferriss’s[blog](https://tim.blog/wp-content/uploads/2013/04/dreamline.pdf).
+No matter what it is, Ferriss urges you to actually think it through - and it’s okay if you don’t know! Just think about the next six months, to start with. This will be the foundation of your dreamline - your concrete plan to live your dream over the next six months. A sample one can be found in the book and on Ferriss’s [blog](https://tim.blog/wp-content/uploads/2013/04/dreamline.pdf).
 
 The dreamline is a way to map dreams into logistics - what would it actually cost to backpack through Europe or race in the Iditarod? What are the concrete next steps you need to take to move towards that dream?
 
@@ -97,7 +97,7 @@ Being efficient without regard to effectiveness is the default mode of the unive
 
 Tim Ferriss, The Four Hour Workweek, p.69
 
-Instead of efficiently completing a lot of meaningless busywork, Ferriss tells you to ruthlessly apply the[Pareto Principle](https://en.wikipedia.org/wiki/Pareto_principle) (also called the 80/20 rule) to every aspect of your life. The principle specifies that 80% of effects tend to come from 20% of causes, which means that you can safely eliminate the remaining 80% of causes without affecting your life too much.
+Instead of efficiently completing a lot of meaningless busywork, Ferriss tells you to ruthlessly apply the [Pareto Principle](https://en.wikipedia.org/wiki/Pareto_principle) (also called the 80/20 rule) to every aspect of your life. The principle specifies that 80% of effects tend to come from 20% of causes, which means that you can safely eliminate the remaining 80% of causes without affecting your life too much.
 
 Examples:
 
@@ -105,7 +105,7 @@ Examples:
 *   80% of your problems come from 20% of your life; eliminate that part of your life
 *   80% of your happiness comes from 20% of your life; focus on the that 20% and eliminate as much of the rest as you can
 
-Ferriss also highlights[Parkinson’s Law](https://en.wikipedia.org/wiki/Parkinson%27s_law), which is that work expands to fill the time allotted to it.
+Ferriss also highlights [Parkinson’s Law](https://en.wikipedia.org/wiki/Parkinson%27s_law), which is that work expands to fill the time allotted to it.
 
 Combining the Pareto principle with Parkinson’s law by eliminating the least impactful parts of your work and setting harsh deadlines for the rest will allow you to accomplish the same amount (or more) of work in far less time than others, freeing up that time for pursuing your own dreams.
 
@@ -172,7 +172,7 @@ Breaking away from ‘acceptable’ or ‘stable’ or ‘predictable’ life pl
 
 [The New Rich lifestyle!] Take it! It's yours!
 
-- Achilles,[Troy](https://www.imdb.com/title/tt0332452/quotes/) (paraphrased)
+- Achilles, [Troy](https://www.imdb.com/title/tt0332452/quotes/) (paraphrased)
 
 ## Does It Work?
 
@@ -221,7 +221,7 @@ Ferriss spends a lot of ink bashing the reader’s head into the idea that his m
 
 Is he right?
 
-Keeping in mind that the book was written in 2007 (so it uses 2007 prices), Ferriss does some math to calculate the cost of (as an example) having an Aston Martin, getting a personal assistant, and visiting the Croatian coast at $5,937/month. In 2024 that would cost $8,941/month, since there’s been[50.6% cumulative inflation](https://www.usinflationcalculator.com/) since then. Possible? Sure. Easy? Not exactly.
+Keeping in mind that the book was written in 2007 (so it uses 2007 prices), Ferriss does some math to calculate the cost of (as an example) having an Aston Martin, getting a personal assistant, and visiting the Croatian coast at $5,937/month. In 2024 that would cost $8,941/month, since there’s been [50.6% cumulative inflation](https://www.usinflationcalculator.com/) since then. Possible? Sure. Easy? Not exactly.
 
 For traveling cheaply, the book compiles a large number of websites, resources, and pieces of advice, including bits like:
 
@@ -239,13 +239,13 @@ Is it worth reading if that describes you? Probably.
 
 Is it worth reading if that doesn’t describe you?
 
-That’s a trickier question. There are parts of the book that absolutely apply to everyone. Ferriss spends a lot of time at the beginning writing about ambition - the quality that makes people attempt to do things that seem difficult. In a class Ferriss taught at Princeton, he challenged the students to get in contact with a famous person: a CEO or celebrity of some sort. Most students didn’t even try, but those who did succeeded: as documented in the article[Fail Better](https://www.princeton.edu/~paw/columns/on_the_campus/on_the_campus_060607.html), a student managed to contact then-Google CEO Eric Schmidt in a cold call.
+That’s a trickier question. There are parts of the book that absolutely apply to everyone. Ferriss spends a lot of time at the beginning writing about ambition - the quality that makes people attempt to do things that seem difficult. In a class Ferriss taught at Princeton, he challenged the students to get in contact with a famous person: a CEO or celebrity of some sort. Most students didn’t even try, but those who did succeeded: as documented in the article [Fail Better](https://www.princeton.edu/~paw/columns/on_the_campus/on_the_campus_060607.html), a student managed to contact then-Google CEO Eric Schmidt in a cold call.
 
 I believe that success can be measured in the number of uncomfortable conversations you’re willing to have.
 
 - Tim Ferriss
 
-Ferriss makes the point that few people attempt to do truly ambitious things, so there’s often, counterintuitively, less competition for doing them than for more ‘ordinary’ accomplishments.[Fifty-seven thousand](https://college.harvard.edu/admissions/admissions-statistics) people applied to Harvard last year - how many tried to get in touch with Satya Nadella, CEO of Microsoft? How many people tried to climb Mt. Everest, or pilot a hot-air balloon around the world?
+Ferriss makes the point that few people attempt to do truly ambitious things, so there’s often, counterintuitively, less competition for doing them than for more ‘ordinary’ accomplishments. [Fifty-seven thousand](https://college.harvard.edu/admissions/admissions-statistics) people applied to Harvard last year - how many tried to get in touch with Satya Nadella, CEO of Microsoft? How many people tried to climb Mt. Everest, or pilot a hot-air balloon around the world?
 
 There are other parts of The Four-Hour Workweek that everyone can learn from, and that I in particular learned from.
 
@@ -283,9 +283,9 @@ But if everyone read his book and tried to follow his advice, the economy would
 
 The book is just about figuring out how to not be one of those people.
 
-The Four-HourWorkweek is not a Utopian dream, nor is it working towards one. It isn’t a self-help book that everyone could benefit from reading.
+The Four-Hour Workweek is not a Utopian dream, nor is it working towards one. It isn’t a self-help book that everyone could benefit from reading.
 
-It’s a guide to leveling up in class from office drone to NouveauRiche, only without having to make obscene amounts of money.
+It’s a guide to leveling up in class from office drone to Nouveau Riche, only without having to make obscene amounts of money.
 
 There’s a parable Ferriss tells towards the end of the book, about a businessman on vacation in Mexico who sees a fisherman come in with his catch, quoted here:
 
@@ -315,6 +315,6 @@ Designing your life that way frees you from the pitfalls of climbing the corpora
 
 If there’s one thing to take away from The Four-Hour Workweek, it’s that life is meant to be lived. Figure out what you actually want your life to look like, and then solve the problem of having enough money to get there. Ferriss has advice and suggestions for you at each step of the process, but ultimately, it’s your decision to make.
 
-As[Andy Duffresne](https://www.imdb.com/title/tt0111161/quotes/) said:
+As [Andy Duffresne](https://www.imdb.com/title/tt0111161/quotes/) said:
 
 I guess it comes down to a simple choice, really. Get busy living, or get busy dying.

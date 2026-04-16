@@ -7,7 +7,7 @@ contestName: 2022 Book Reviews
 year: 2022
 publishedDate: '2026-02-06T07:21:54.170Z'
 slug: the-new-science-of-strong-materials-by-j-e-gordon
-wordCount: 2654
+wordCount: 2655
 readingTimeMinutes: 12
 originalUrl: >-
   https://docs.google.com/document/d/1hFzjXliCAWjvheY-8Qd2fhbF79LnX0Xg6R9eqk9yIyI
@@ -22,6 +22,8 @@ There is a crack in everything…
 If you’re going to read J. E. Gordon’s The New Science of Strong Materials, you had better like reading about cracks. You don’t have to know mathematics: Equations appear in only a few locations in the main text, and you can skip them without losing the plot. But materials scientists are obsessed with cracks. They spend whole careers studying the intricacies of how cracks propagate. They dream about cracks, or more often, have nightmares. Normal people might stare at a crack on the ceiling because the conversation has taken an awkward turn. A materials scientist will stare at it because it’s a crack and cracks are interesting.
 
 Here’s one interesting fact about cracks: Take a rod made of glass, with about the same dimensions as a broom handle. Now try to bend it to a 90 degree angle. You will not succeed. Getting the rod to bend even a tiny amount requires a large amount of force. Even if you can supply that force, the rod will shatter into pieces long before it bends by a full 90 degrees. You’d think the story would be the same for a shrunk down version of the same rod. After all, the thing is in the same shape and made of the same material, just smaller, so all the strains in the material should be the same. But the tiny rod can be bent by 90 degrees. And it does not deform permanently, like a metal might. Let go of it, and it will snap right back to being perfectly straight.
+
+![](https://acximages.ennals.org/images/2022-book-reviews/bbd6ef51a61d7783.png)
 
 Plate 4 and caption from The New Science of Strong Materials
 

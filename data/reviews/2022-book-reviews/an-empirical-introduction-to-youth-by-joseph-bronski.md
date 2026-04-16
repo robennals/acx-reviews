@@ -7,8 +7,8 @@ contestName: 2022 Book Reviews
 year: 2022
 publishedDate: '2026-02-06T07:24:08.695Z'
 slug: an-empirical-introduction-to-youth-by-joseph-bronski
-wordCount: 6968
-readingTimeMinutes: 31
+wordCount: 6976
+readingTimeMinutes: 32
 originalUrl: >-
   https://docs.google.com/document/d/1pRQbRbEUwSH_jm94PI_ij-88swat7vQ4iNaNp6gd39g
 source: gdoc
@@ -24,9 +24,9 @@ The answer to the last one is that one book answers them all. Its back says the 
 
 Everyone has heard that "we only use 10% of our brains" is a myth perpetuated by Hollywood. Here we add another myth to the pile: that the brain develops until the age of 25. This groundbreaking new work exposes the institution of Science as unfaithful to its own data, existing in a subverted state subordinate to the political aspirations of the class that controls it. Bronski tears the narrative apart piece by piece, ripping through and debunking every major writing that supports the myth of the teen brain. In addition, he shows that the ideology regarding youth which exists today is totally ahistorical, and that the US education system is massively exploitative and was founded by the ruling classes against the will of the people. The work's culminating thesis is that the class which resides at the top of the education system, the paid brains of the rich, have proliferated wrong ideas about youth in order to strengthen then influence over the minds of young, their pocketbooks, and the pocketbooks of their families. No dogma regarding contemporary youth survives this devastating, piercing work; it is a must-read for anyone who wants to be knowledgeable on youth development and education -- anyone who has not read it is officially behind the times as of this moment.
 
-Bold claims. You have probably never heard of this book. Neither had I before its author made a post about it on a forum I browse routinely. The blurb piqued my interest; my parents told me growing up that everyone believed that we use 10% of our brains. Some movies, like Limitless, [spread this myth.](https://www.google.com/url?q=https://en.wikipedia.org/wiki/Limitless_(film)&sa=D&source=editors&ust=1770366233064730&usg=AOvVaw2S5WnWSN7nCLIXdUQPF4tB) The problem is that it’s obviously not true if you know anything about evolution.
+Bold claims. You have probably never heard of this book. Neither had I before its author made a post about it on a forum I browse routinely. The blurb piqued my interest; my parents told me growing up that everyone believed that we use 10% of our brains. Some movies, like Limitless, [spread this myth.](https://en.wikipedia.org/wiki/Limitless_(film)) The problem is that it’s obviously not true if you know anything about evolution.
 
-So it goes for “the brain develops until 25.” Why would you have a dangerous, adult body years before your brain reaches maturity? Why would you stop growing a decade prior? Based on the 10% myth, why should I trust this claim? Recall [Gell-Mann amnesia:](https://www.google.com/url?q=https://www.epsilontheory.com/gell-mann-amnesia/&sa=D&source=editors&ust=1770366233065138&usg=AOvVaw0LdnYR2a_HSTDVkAn6Awg8)
+So it goes for “the brain develops until 25.” Why would you have a dangerous, adult body years before your brain reaches maturity? Why would you stop growing a decade prior? Based on the 10% myth, why should I trust this claim? Recall [Gell-Mann amnesia:](https://www.epsilontheory.com/gell-mann-amnesia/)
 
 “Briefly stated, the Gell-Mann Amnesia effect is as follows. You open the newspaper to an article on some subject you know well. In Murray’s case, physics. In mine, show business. You read the article and see the journalist has absolutely no understanding of either the facts or the issues. Often, the article is so wrong it actually presents the story backward—reversing cause and effect. I call these the “wet streets cause rain” stories. Paper’s full of them.
 
@@ -36,7 +36,9 @@ In any case, you read with exasperation or amusement the multiple errors in a st
 
 ## On the the History of Youth
 
-The book in question is little-known author Joseph Bronski’s An Empirical Introduction to Youth. I was interested, so I read the book. Reading it convinced me that it’s the most important book written in 2021; it may even be the most important book of the decade. Neither a psychoanalytic, pseudo-fictional drama about agency, nor a book comparing healthcare systems , nor an overly optimistic literature review on rapamycin, nor any sort of tome of antiquated pseudoscience, nor any book of anecdote or fiction could be argued to be more important. In calculated terms of utilitarian impact,  this book could massively improve the lives of at [least 1.2 billion people](https://www.google.com/url?q=https://data.unicef.org/topic/adolescents/overview/&sa=D&source=editors&ust=1770366233066697&usg=AOvVaw26qJad7OLOP_l-azqcK1Of) right now, plus countless more in the future. All of that with just a few positive policy changes that cost nothing, (less than nothing, even, they have negative cost) policy changes which repeal and replace certain social systems which were founded on greed and ignorance. Let me explain.
+The book in question is little-known author Joseph Bronski’s An Empirical Introduction to Youth. I was interested, so I read the book. Reading it convinced me that it’s the most important book written in 2021; it may even be the most important book of the decade. Neither a psychoanalytic, pseudo-fictional drama about agency, nor a book comparing healthcare systems , nor an overly optimistic literature review on rapamycin, nor any sort of tome of antiquated pseudoscience, nor any book of anecdote or fiction could be argued to be more important. In calculated terms of utilitarian impact,  this book could massively improve the lives of at [least 1.2 billion people](https://data.unicef.org/topic/adolescents/overview/) right now, plus countless more in the future. All of that with just a few positive policy changes that cost nothing, (less than nothing, even, they have negative cost) policy changes which repeal and replace certain social systems which were founded on greed and ignorance. Let me explain.
+
+![](https://acximages.ennals.org/images/2022-book-reviews/a21c282d205c98e6.png)
 
 The reason why it’s so important is as follows: imagine if it was all fake, if the entire social construction of your youth were created top-down. High school, college, prom night, Shakespeare, parents, your first job, teenage love – everything was a mirage, a Matrix-like prison environment, totally artificial, not at all natural. Now imagine that every age restriction, every punishment, every coercive demand – what if you were essentially the same as a 25 year old? Would it not be a massive human rights violation to demand that 25 year olds sit in certain government-run facilities for 40 hours a week, that they must not be allowed to own anything, that older people must tell them what to do at every moment, at home and at the facility? Such a policy applied to 25 year olds would be seen as the most massive human rights violation in the entirety of Western civilization, were it applied in a Western country.
 
@@ -46,11 +48,13 @@ This book contains an empirical examination of the history of youth norms, the r
 
 The book contains five chapters: A Summary of Historical Youth Norms, Education, Development, The Teen Brain Meme, and Applications. The first chapter provides evidence that post-modern youth is largely ahistorical – this chart on Ancient Roman marriage sums it up well:
 
+![](https://acximages.ennals.org/images/2022-book-reviews/50b93c384b00d865.png)
+
 The author thoroughly argues that Ancient youth was essentially young adulthood. While aristocrats considered those under 25 too immature to rule the Roman Republic, virtually no other responsibilities were off-limits starting with the assumption of the adult garment around the age of 15. Youth in their mid-teens would marry, live alone, travel for education, work for a living, hold minor office, serve in the military, and more.
 
 In the middle ages, youth turned exploitative. Average marriage ages increased to the mid-twenties because the young were expected to be house-slaves for older masters until that age. As this arrangement thawed, the age of 21 gained significance as the age of majority – the rationale was that parents or economic-guardians were entitled to a youth’s labor for his first 7 years of adult-ish labor capacity.
 
-Only in the mid-twentieth century, in the US after the creation of the high school, did the age of 18 gain any special significance. It ain’t [lindy](https://www.google.com/url?q=https://www.nytimes.com/2021/06/17/style/lindy.html&sa=D&source=editors&ust=1770366233070425&usg=AOvVaw2ecM00TRlBkaoL0jTXpOzq). Only two ages are: the beginning and end of Youth, specifically, which, for the author, correspond to roughly 15 and 25 for males.
+Only in the mid-twentieth century, in the US after the creation of the high school, did the age of 18 gain any special significance. It ain’t [lindy](https://www.nytimes.com/2021/06/17/style/lindy.html). Only two ages are: the beginning and end of Youth, specifically, which, for the author, correspond to roughly 15 and 25 for males.
 
 The continuous historical significance of these two approximate ages is apparent from the first chapter of the book. The third and fourth chapters confirm the significance of the first and inform us on the reasoning behind the significance of the second. In these chapters, the author argues that the “teen brain” is a myth and that the brain is actually mature by the end of puberty, which occurs at the beginning of youth.
 
@@ -62,7 +66,7 @@ Let me summarize this more extensively:
 
 What you probably think about the “teen brain” is a myth. The brain does not mature at the age of 25; it matures about 10 years earlier, by the end of puberty, as evolution predicts. As such, high school aged youth are not mentally inferior like you have been led to believe. These youth are best seen as young adults, who are wired the same as their slightly older, much freer compatriots aged 21-25. The common misconceptions that are debunked here arose because the foundations that fund teen-brain research are biased towards infantilizing youths for the purpose of expanding the education system, from which those who run said foundations profit.
 
-You probably believe some version of the [following statement:](https://www.google.com/url?q=https://www.urmc.rochester.edu/encyclopedia/content.aspx?ContentTypeID%3D1%26ContentID%3D3051&sa=D&source=editors&ust=1770366233072913&usg=AOvVaw1hrWP0luDtUy0Y634DKjG8)
+You probably believe some version of the [following statement:](https://www.urmc.rochester.edu/encyclopedia/content.aspx?ContentTypeID=1&ContentID=3051)
 
 It doesn’t matter how smart teens are or how well they scored on the SAT or ACT. Good judgment isn’t something they can excel in, at least not yet.
 
@@ -72,7 +76,7 @@ In fact, recent research has found that adult and teen brains work differently. 
 
 In teens' brains, the connections between the emotional part of the brain and the decision-making center are still developing—and not always at the same rate. That’s why when teens have overwhelming emotional input, they can’t explain later what they were thinking. They weren’t thinking as much as they were feeling.
 
-This statement is a copy-pasta that can be found on multiple college websites, including [Stanford](https://www.google.com/url?q=https://www.stanfordchildrens.org/en/topic/default?id%3Dunderstanding-the-teen-brain-1-3051&sa=D&source=editors&ust=1770366233074058&usg=AOvVaw3f2qvStXomft5b_lDQgsJe), [UC San Diego](https://www.google.com/url?q=https://myhealth.ucsd.edu/Library/Wellness/Fitness/1,3051&sa=D&source=editors&ust=1770366233074134&usg=AOvVaw256D0LiDnUmgW_3LOQG2XA), and [Rochester](https://www.google.com/url?q=https://www.urmc.rochester.edu/encyclopedia/content.aspx?ContentTypeID%3D1%26ContentID%3D3051&sa=D&source=editors&ust=1770366233074218&usg=AOvVaw0Jqxf2LcUuIssXvuYmw31k). The attentive reader should notice that this constitutes [academic plagiarism](https://www.google.com/url?q=https://integrity.mit.edu/handbook/what-plagiarism&sa=D&source=editors&ust=1770366233074348&usg=AOvVaw21PCDmaoXPBAvo9S4V4sxZ):
+This statement is a copy-pasta that can be found on multiple college websites, including [Stanford](https://www.stanfordchildrens.org/en/topic/default?id=understanding-the-teen-brain-1-3051), [UC San Diego](https://myhealth.ucsd.edu/Library/Wellness/Fitness/1,3051), and [Rochester](https://www.urmc.rochester.edu/encyclopedia/content.aspx?ContentTypeID=1&ContentID=3051). The attentive reader should notice that this constitutes [academic plagiarism](https://integrity.mit.edu/handbook/what-plagiarism):
 
 Plagiarism occurs when you use another's words, ideas, assertions, data, or figures and do not acknowledge that you have done so.
 
@@ -104,11 +108,15 @@ The study found that “Overall, the total [gray matter] volume was found to inc
 
 Except Giedd obviously thinks that adolescence concludes at 13 or 14, based on the scatter plots he was nice enough to provide:
 
+![](https://acximages.ennals.org/images/2022-book-reviews/fea763f478cb3e6e.png)
+
 Even his line hits its low point at like 15. Earlier than that even. Look at the dots though. Look at those things. LOL? (Y axis is GM and X axis is age by the way).
 
 While we’re here, I will mention that this is The Study from which the “the brain matures at 25” claim came. How is that possible when the oldest participants were 21? Well, as we have seen, Giedd is very loose with his citations, and this is what he cited (if he cited anything at all) when he started going on the news and other media claiming that the brain develops until 25. Bronski traces all of this in chapter 4 of An Empirical Introduction to Youth.
 
 Next let’s look at the myelination of the frontal lobe, aka the development of white matter. In all parts of the brain, myelination begins in infancy and continues until the mid forties.
+
+![](https://acximages.ennals.org/images/2022-book-reviews/11a6c44b13b68dc2.png)
 
 In contrast, gray matter accumulates during childhood, and starting at puberty, it starts to be lost, and will continue to be lost until death.
 
@@ -126,13 +134,21 @@ Driving is another high pressure activity. Are teens innately bad at it? Of cour
 
 The finding that teens are at least equal in driving abilities when compared older people with the same level of experience is replicated by a 2015 study:
 
+![](https://acximages.ennals.org/images/2022-book-reviews/21219e0a24edacb6.png)
+
 British driving data backs us up further. Youth are more likely to pass the driving test, possibly indicating greater mental fitness compared to more aged participants.
 
+![](https://acximages.ennals.org/images/2022-book-reviews/c5e32306d1dd77dd.png)
+
 Also of interest are British drunk-driving figures. One major justification for raising the drinking age to 21 all across the United States was to destroy “blood barriers,” areas on state borders where youth would, allegedly, frequently drive drunk due to having to drive to another state to go to a bar, as some states had 21 as the drinking age and others had it at 18. This begs the question though, why not, in keeping with the spirit of the 26th amendment, require a uniform drinking age of 18 instead of 21? The common answer was that, supposedly, 18-20 year olds are immature and therefore more likely to drive drunk even if they have legal, local access to alcohol. Britain allows us to test this idea, since anyone over 18 can drink alcohol and have a driver’s license.
+
+![](https://acximages.ennals.org/images/2022-book-reviews/eda309f69f3ed4cf.png)
 
 It appears that 25-29 year olds are the most likely age group to drive drunk in the UK. Hm.
 
 We now move on to laboratory literature mainly focused on “adolescent risk taking.” This literature is somewhat well developed and attempts to measure “hot judgment ability.” One study in this literature measured the ability of teens and older people to delay a $1000 dollar award by offering them cheaper rewards immediately. A “discount rate” was calculated based on how little money they were willing to go to get the money immediately.
+
+![](https://acximages.ennals.org/images/2022-book-reviews/5d75092a01c331a6.png)
 
 The results show that maturity on this metric is reached by the age of 16, indicating that 16 year olds can handle full financial rights.
 
@@ -162,13 +178,13 @@ All of this answers our question, who gets it the worst in the West today? The a
 
 Well, unlucky, misbehaved 25 year olds would be sent to punishment camps! Youth with fully developed brains today are regularly sent to prison camps that resemble Soviet gulags, where they are deprived of an education and put to punitive labor. Starvation is a common punishment for misbehaved slave-teens in these camps. Collectively, this sadistic gulag-archipelago is known as the “Troubled Teen Industry,” or TTI for short. Camps are often located in the wilderness, in polities such as Utah, Jamaica, and Costa Rica. Bounty-hunters are often hired to “transport” victims to these places. Here is one of hundreds of testimonials about the abduction process:
 
-[I look up and bang 2 massive guys](https://www.google.com/url?q=http://being-transported.blogspot.com/&sa=D&source=editors&ust=1770366233094685&usg=AOvVaw0H4k9TmSOMloCYQKvw-nPB) are entering my hotel room. So many thoughts rush through my head, my first instinct was that I’m being taken away, I had a feeling but didn’t think they would do this to me ON MY BIRTHDAY! Immediately I clutch my phone tightly and grab the lamp to my left. HELP HELP IM BEING KIDNAPPED, I shouted over and over, people were knocking on the door trying to find out what was going on as I wrestle these behemoths. I ended up destroying as much property as possible over these guys besides the tv, fucking monsters they were, glass bottles didn’t even phase them. Eventually a lady keys the door open to see fat albert sitting on my arm as I continue to clutch my phone. “CALL THE COPS” I tell her knowing it’s a futile effort, I was not going to make this easy, that was my philosophy. Eventually the bigger guy put my arm in such a painful hold I couldn’t bear the pain any more. Thinking back I should’ve let him break my arm. I coughed up my phone and agreed to work with them when the 2nd guy pulled a taser out saying they don’t want to cause any more commotion. I got into the car and willingly flew 5 hours out to Utah.
+[I look up and bang 2 massive guys](http://being-transported.blogspot.com/) are entering my hotel room. So many thoughts rush through my head, my first instinct was that I’m being taken away, I had a feeling but didn’t think they would do this to me ON MY BIRTHDAY! Immediately I clutch my phone tightly and grab the lamp to my left. HELP HELP IM BEING KIDNAPPED, I shouted over and over, people were knocking on the door trying to find out what was going on as I wrestle these behemoths. I ended up destroying as much property as possible over these guys besides the tv, fucking monsters they were, glass bottles didn’t even phase them. Eventually a lady keys the door open to see fat albert sitting on my arm as I continue to clutch my phone. “CALL THE COPS” I tell her knowing it’s a futile effort, I was not going to make this easy, that was my philosophy. Eventually the bigger guy put my arm in such a painful hold I couldn’t bear the pain any more. Thinking back I should’ve let him break my arm. I coughed up my phone and agreed to work with them when the 2nd guy pulled a taser out saying they don’t want to cause any more commotion. I got into the car and willingly flew 5 hours out to Utah.
 
 My parents had sent me to a Wilderness Therapy program on my birthday. Yep, this is my life now I thought as the workers take all of my belongings and zip them up into bags, giving me some used and some new clothes that I would be wearing for the next 60 something days. I’m going to stop this here but if anyone wants to hear about how my wilderness went / how I’m doing today I will make another post.
 
 The camps are extremely abusive one the victim arrives. Anal penetration is common upon first arrival, in order to “check” for “illicit items.”
 
-[I was 13 years old when I entered Straight.](https://www.google.com/url?q=http://survivingstraightinc.com/cincinnatioh_survivor_stories&sa=D&source=editors&ust=1770366233096321&usg=AOvVaw3YJksruWfNcFX6FKfdCnF8) I was there more than two years before I finally graduated. When I was released, I was 16 years old and mentally broken. My education was denied me. I couldn't speak clearly about the tortures I suffered and witnessed. After leaving, I could barely hold a normal conversation. I couldn't put the words together. I was angry and afraid. I was confrontational but most of all, I was lost.
+[I was 13 years old when I entered Straight.](http://survivingstraightinc.com/cincinnatioh_survivor_stories) I was there more than two years before I finally graduated. When I was released, I was 16 years old and mentally broken. My education was denied me. I couldn't speak clearly about the tortures I suffered and witnessed. After leaving, I could barely hold a normal conversation. I couldn't put the words together. I was angry and afraid. I was confrontational but most of all, I was lost.
 
 Some camps use a Kapo system:
 
@@ -184,11 +200,11 @@ push their bed in front of the door so there was no escaping. There
 
 were alarms on the doors and windows
 
-[Teens often die in rural camps after being starved.](https://www.google.com/url?q=http://www.phoenixnewtimes.com/news/losing-erica-cynthia-clark-harvey-doesnt-want-anyone-elses-child-to-die-in-a-wilderness-therapy-program-6431310%23&sa=D&source=editors&ust=1770366233098060&usg=AOvVaw3gNoaHIs19AWMTQRdv5MdR) See this re-enactment of the death of Aaron Bacon, who died on a death-march through the desert:
+[Teens often die in rural camps after being starved.](http://www.phoenixnewtimes.com/news/losing-erica-cynthia-clark-harvey-doesnt-want-anyone-elses-child-to-die-in-a-wilderness-therapy-program-6431310#) See this re-enactment of the death of Aaron Bacon, who died on a death-march through the desert:
 
-[https://www.youtube.com/watch?v=rJz5pghLagY](https://www.google.com/url?q=https://www.youtube.com/watch?v%3DrJz5pghLagY&sa=D&source=editors&ust=1770366233098281&usg=AOvVaw0zvGQxZVGtMiWXnlTFgfzZ)
+[https://www.youtube.com/watch?v=rJz5pghLagY](https://www.youtube.com/watch?v=rJz5pghLagY)
 
-Many other videos and testimonials can be found [here](https://www.google.com/url?q=https://troubledteenindustrywatchdog.wordpress.com/videos/&sa=D&source=editors&ust=1770366233098438&usg=AOvVaw2gzIN7j5VAVhREc2ZkWLwG).
+Many other videos and testimonials can be found [here](https://troubledteenindustrywatchdog.wordpress.com/videos/).
 
 And before you think that all of these teens deserved it, they are not criminals. They have never been convicted of anything. These places, ironically, are where teens who don’t go to jail are sent by their hateful, abusive, slave owner “parents” without due-process. The conditions in these torture camps are extremely cruel and unusual — in a word, unconstitutional. American jail is much preferable to said places.
 

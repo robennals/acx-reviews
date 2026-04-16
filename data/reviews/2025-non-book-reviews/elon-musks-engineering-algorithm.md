@@ -7,7 +7,7 @@ contestName: 2025 Non Book Reviews
 year: 2025
 publishedDate: '2026-02-06T16:52:48.892Z'
 slug: elon-musks-engineering-algorithm
-wordCount: 4565
+wordCount: 4580
 readingTimeMinutes: 21
 originalUrl: >-
   https://docs.google.com/document/d/1d0vRSj1E93joWWvbUen2XGuDjN_mM94ybMIAADzM2fo
@@ -17,15 +17,15 @@ tags:
   - Memoir
 ---
 
-•Make the requirements less dumb.
+•  Make the requirements less dumb.
 
-•Delete parts or process.
+•    Delete parts or process.
 
-•Simplify and optimize.
+•    Simplify and optimize.
 
-•Accelerate cycle time.
+•    Accelerate cycle time.
 
-•Automate.
+•    Automate.
 
 - ModelThinkers.com, summarizing an interview with Elon Musk in 2021.
 
@@ -39,17 +39,19 @@ And so: NASA’s [1969 Space Task Group proposal](https://www.nasa.gov/history/t
 
 Throughout this whole period, the rage scream of the space nerds built. It expressed itself in a succession of space companies now unjustifiably ignored by history - [Space Services, Inc](https://en.wikipedia.org/wiki/Space_Services_Inc.), [AMROC](https://en.wikipedia.org/wiki/American_Rocket_Company), [Rotary Rocket Company](https://en.wikipedia.org/wiki/Rotary_Rocket), [Orbital Sciences](https://en.wikipedia.org/wiki/Orbital_Sciences_Corporation) [1]. Finally, amidst a boom in low orbit satellite construction, an eccentric rich person founded a company with a test site in Texas to change rocket launch forever. Then, after building the largest engine since Apollo, Andrew Beal’s [Beal Aerospace](https://www.beal-aerospace.com/) went bankrupt, and its test site was bought by the next challenger in line: Elon Musk’s Space Exploration Technologies Corporation.
 
+![](https://acximages.ennals.org/images/2025-non-book-reviews/fcff596290e026de.png)
+
 Image Source: [Space Exploration Technologies Corporation](https://web.archive.org/web/20030623061458/http://spacex.com/)
 
 By the time I entered the aerospace industry, SpaceX (once known as SET, for “Space Exploration Technologies”) had already carried out one of the great underdog stories in aerospace. From its beginnings exploding rockets in the Kwajalein Atoll, to teenage years releasing hype videos [backed by Muse songs](https://www.youtube.com/watch?v=sSF81yjVbJE) [2], SpaceX had dethroned the entrenched, government-supported monopolies and was rapidly becoming wildly, historically dominant in the space industry.
 
 In the process, it told a powerful story of the secret to its success. The story went like this:
 
-•SpaceX wasn’t afraid of the appearance of failure, which meant that they could learn faster by carrying out tests that might not work.
+•          SpaceX wasn’t afraid of the appearance of failure, which meant that they could learn faster by carrying out tests that might not work.
 
-•Everybody at SpaceX was the cream of the crop and held to high expectations in a hard-charging environment.
+•          Everybody at SpaceX was the cream of the crop and held to high expectations in a hard-charging environment.
 
-•Decisions were made based on “first principles”. There was little stifling process and procedure.
+•          Decisions were made based on “first principles”. There was little stifling process and procedure.
 
 All of this was instantiated through a process of Responsible Engineering. If you were the Responsible Engineer for the pneumatic system, you had absolute power over it, but (hypothetically) any failure on it was your fault. Your capital-R responsibility stretched the whole way - identifying what the pneumatic system was supposed to do, working with all of its stakeholders to individually identify the possible ways it could help or hurt other problems, and finding solutions to every problem.
 
@@ -63,15 +65,15 @@ When The Algorithm arrived - fresh off the presses of Elon’s crushing experien
 
 In essence - as a exasperated reader might have noticed - it was a distillation of various extremely canonical Good Engineering Advice.
 
-•Question the Requirements - so you solve exactly and only the problem you’re trying to solve.
+•          Question the Requirements - so you solve exactly and only the problem you’re trying to solve.
 
-•Delete the part - became removing complexity makes problems more manageable.
+•          Delete the part - became removing complexity makes problems more manageable.
 
-•Optimize the part - good, but only after satisfying the first two.
+•          Optimize the part - good, but only after satisfying the first two.
 
-•Accelerate - to get more production and enable test, but only once you know it’s the right thing to produce.
+•          Accelerate - to get more production and enable test, but only once you know it’s the right thing to produce.
 
-•Automate - ditto, and ditto.
+•          Automate - ditto, and ditto.
 
 All of us seemed to read it as such. We nodded thoughtfully and continued along in the way that people since time immemorial have listened to, but not really absorbed, Good Engineering Advice. But slowly, it became clear that this time was different.
 
@@ -104,6 +106,8 @@ Tell people to Optimize the Part and they’ll push it beyond margins unnecessar
 Tell them to Accelerate, and they’ll do a great job of questioning, but when push comes to shove they will always Accelerate at the cost of quality or rework, and so you find yourself building vehicles and then scrapping them, over and over again.
 
 There is no step for Test in the Algorithm, no step for “prove it works.” And so years went by where we Questioned, and Deleted, and Optimized, and Accelerated, and Automated, and rockets piled up outside the factory and between mid-2021 and mid-2023 they never flew.
+
+![](https://acximages.ennals.org/images/2025-non-book-reviews/69d4d32332fe6f6a.png)
 
 [Source](https://www.bing.com/images/search?view=detailV2&ccid=EpuNfyYv&id=A813CCFC180959A50D806DD2B1AFAC67168DFC71&thid=OIP.EpuNfyYvfeSPmF5nIdxbWQHaFF&mediaurl=https%3A%2F%2Fwww.wereldreizigers.nl%2Fwp-content%2Fuploads%2F2023%2F04%2Fstarbase-spacex-boca-chica-texas-01-2400x1648.jpg&cdnurl=https%3A%2F%2Fth.bing.com%2Fth%2Fid%2FR.129b8d7f262f7de48f985e6721dc5b59%3Frik%3DcfyNFmesr7HSbQ%26pid%3DImgRaw%26r%3D0&exph=1648&expw=2400&q=spacex+starships+and+boosters+outside+starbase&simid=608026460939553977&FORM=IRPRST&ck=824D52D5DAA117E6A67FBA7CC6433E39&selectedIndex=9&itb=0&cw=1343&ch=765&mode=overlay).
 

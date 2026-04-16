@@ -7,7 +7,7 @@ contestName: 2024 Book Reviews
 year: 2024
 publishedDate: '2026-02-06T16:48:56.663Z'
 slug: silver-age-marvel-comics-november-1961-december-1965
-wordCount: 11432
+wordCount: 11435
 readingTimeMinutes: 51
 originalUrl: >-
   https://docs.google.com/document/d/1GYQw3pgvhi7hqOVR-Ql629Q_8thbyHe8sSRy5voyt30
@@ -139,9 +139,13 @@ If it says Superhero on the tin, it must be a superhero inside the tin
 
 In July 1963 Lee used the back half of Strange Tales to introduce Dr Strange. It seems likely that Dr Strange’s story was originally just a stand-alone fantasy like the others that were in the back pages of the title. Strange didn’t even appear on the cover of the issue. But just as the scientist Hank Pym was later turned into the superhero Ant Man, Dr Strange was eventually converted from a dark wizard into a super-wizard.
 
+ 
+
 The cheapest Silver Age first appearance you can own, for obvious reasons
 
 Throughout 1962 all of the Marvel stories titles were stand-alone. When the Hulk appeared in the Fantastic Four it was because Johnny was reading the Hulk comic book. There was no hint that they all existed within the same universe. That changed in December 1962. The Hulk comic was struggling to attract readers, so Lee decided to cross-promote him in the Fantastic Four as a real hero (villain? anti-hero?) who the Thing could do battle with. Fantastic Four #12 (December 1962) was the first step to building a shared universe.
+
+ 
 
 The issue sold well, but it was not enough to save the Hulk, whose title was canceled a few months later in March 1963 (Incredible Hulk #6). But the idea of cross promotion stayed with Lee. When Spider-man launched his own title in March 1963, Lee pulled no punches. Amazing Spider-man #1 included two stories, but the cover story had Spider-man applying for membership with the Fantastic Four. The two most popular heroes were together and interacting. It was a huge debut and broke more records (allegedly. Actual records from this era are very spotty. Most sales numbers and “records” are based on memories and anecdotes told by those involved years later. But it was clear the issue sold a lot of copies).
 
@@ -177,7 +181,7 @@ I will argue the following:
 
 I am going to start with my second point: How is it possible to say that storytelling is getting better?
 
-Michael Lewis’ book, [Going](https://www.amazon.com/Going-Infinite-Rise-Fall-Tycoon/dp/1324074337)[Infinite](https://www.amazon.com/Going-Infinite-Rise-Fall-Tycoon/dp/1324074337), about [Sam-Bankman Fried](https://en.wikipedia.org/wiki/Sam_Bankman-Fried) (founder of FTX and Alameda Research, and convicted of fraud in November 2023) was controversial mostly because Lewis suggested that Sam was a good hearted, misunderstood guy who wasn’t really doing anything wrong. But it was also controversial for a quote from Sam about William Shakespeare. Here is part of the [original blog post](https://measuringshadowsblog.blogspot.com/2012/08/the-fetishization-of-old.html) by Sam:
+Michael Lewis’ book, [Going](https://www.amazon.com/Going-Infinite-Rise-Fall-Tycoon/dp/1324074337) [Infinite](https://www.amazon.com/Going-Infinite-Rise-Fall-Tycoon/dp/1324074337), about [Sam-Bankman Fried](https://en.wikipedia.org/wiki/Sam_Bankman-Fried) (founder of FTX and Alameda Research, and convicted of fraud in November 2023) was controversial mostly because Lewis suggested that Sam was a good hearted, misunderstood guy who wasn’t really doing anything wrong. But it was also controversial for a quote from Sam about William Shakespeare. Here is part of the [original blog post](https://measuringshadowsblog.blogspot.com/2012/08/the-fetishization-of-old.html) by Sam:
 
 I could go on and on about the failings of Shakespeare and the constitution and Stradivarius violins, and at the bottom of this post I do\*, but really I shouldn't need to: the Bayesian priors are pretty damning. About half of the people born since 1600 have been born in the past 100 years, but it gets much worse than that. When Shakespeare wrote almost all of Europeans were busy farming, and very few people attended university; few people were even literate--probably as low as about ten million people. By contrast there are now upwards of a billion literate people in the Western sphere. What are the odds that the greatest writer would have been born in 1564? The Bayesian priors aren't very favorable.
 
@@ -223,7 +227,7 @@ Aside #6: In ancient Greece plays were traditionally a single protagonist/actor 
 
 Today, comic book storytelling may be at the efficient frontier. At some point between 1965 and today it is possible the major innovations were complete and future innovations were fighting against diminishing returns (“I have an idea! What about a 272nd actor!”).
 
-Are the best comics today generally better than Ultimate Spider-man (2000), or other great comic book runs of the past 30 years? Maybe the best comic book stories to ever be written will be Swamp Thing by Alan Moore, Robert Kirkman’sThe Walking Dead or Michael Bendis’Daredevil? It could be that the innovation in comic book storytelling peaked sometime in the last 20 years. There are still more stories to tell, but they won’t be objectively better than the best stories that came before.
+Are the best comics today generally better than Ultimate Spider-man (2000), or other great comic book runs of the past 30 years? Maybe the best comic book stories to ever be written will be Swamp Thing by Alan Moore, Robert Kirkman’s The Walking Dead or Michael Bendis’ Daredevil? It could be that the innovation in comic book storytelling peaked sometime in the last 20 years. There are still more stories to tell, but they won’t be objectively better than the best stories that came before.
 
 I don’t want to debate that point.
 
@@ -394,6 +398,8 @@ Maybe that was what she needed. New powers to give the female member of the team
 ## Final Aside:
 
 When I was eight years old I went on a cross country roadtrip with my family. Along the way we stopped at a pharmacy and I picked up a couple of comics to read in the back of the car. These were the two issues:
+
+ 
 
 The issue on the left was part of a series of comics called “Secret Wars II” (1985). Secret Wars II was the first cross-title “event” in Marvel Comics. Marvel had had events in the past (arguably the first “event” was Reed and Sue’s wedding in Fantastic Four #3, 1965), but they were all confined to a single title or a stand-alone limited series. Secret Wars II was a 12-part limited series, but the antagonist, The Beyonder, made appearances in almost every title Marvel was publishing at the time – [42 issues in total](https://comicbookreadingorders.com/marvel/events/secret-wars-ii-reading-order/). It was the culmination of the idea that all these characters were existing together in one connected world.
 

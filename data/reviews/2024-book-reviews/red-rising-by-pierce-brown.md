@@ -7,7 +7,7 @@ contestName: 2024 Book Reviews
 year: 2024
 publishedDate: '2026-02-06T16:48:56.653Z'
 slug: red-rising-by-pierce-brown
-wordCount: 6601
+wordCount: 6603
 readingTimeMinutes: 30
 originalUrl: >-
   https://docs.google.com/document/d/1GYQw3pgvhi7hqOVR-Ql629Q_8thbyHe8sSRy5voyt30
@@ -24,7 +24,7 @@ Imagine a world where this is delivered the same way we might talk to someone wh
 
 Belief in liberal democracy is predicated on social equality. Everyone deserves to participate in the process of government because everyone is more or less the same. There are always elites and commoners, rich and poor, haves and have-nots. Despite this, people share a majority of characteristics and their differences are largely superficial. But what if this was a lie? What if everyone had an ID card embedded in the back of their hand that specified the exact tier of the social pyramid they occupied? What if you could tell whether a stranger was a doctor or a menial laborer by the color of their hair? How can you argue that all people are created equal when genetic engineering has given those at the top of the pyramid intelligence and strength that is objectively several standard deviations higher than those at the bottom?
 
-This is the world of the[Red Rising](https://www.amazon.com/gp/product/0345539788/) saga by Pierce Brown. Let me warn you now that most of the first book takes the form of a bunch of young adults thrown into an arena where they fight each other. At this point, your initial reaction is probably disgust at the thought of reading a YA fiction novel filled with tripe. What kind of self-respecting ACX member would be caught reading a Hunger Games rip off? If you didn't know, the Hunger Games is actually a rip off of Battle Royale, where a fictitious fascist government controls society by forcing Japanese schoolkids to kill each other off, spreading division and fear. So don't worry about Red Rising, it's a much higher form of tripe than YA fiction.
+This is the world of the [Red Rising](https://www.amazon.com/gp/product/0345539788/) saga by Pierce Brown. Let me warn you now that most of the first book takes the form of a bunch of young adults thrown into an arena where they fight each other. At this point, your initial reaction is probably disgust at the thought of reading a YA fiction novel filled with tripe. What kind of self-respecting ACX member would be caught reading a Hunger Games rip off? If you didn't know, the Hunger Games is actually a rip off of Battle Royale, where a fictitious fascist government controls society by forcing Japanese schoolkids to kill each other off, spreading division and fear. So don't worry about Red Rising, it's a much higher form of tripe than YA fiction.
 
 1.  ## Per Aspera Ad Astra  
     
@@ -57,10 +57,14 @@ There were still hundreds of millions of Terran people left over after the ravag
 *                   Create permanent slave castes for the people they conquered        
 *           Genocide everyone else that they had no use for
 
+        
+
 2.  ## The Society of The Society  
     
 
 Readers who have been paying attention might notice that I keep using terms like the society or the pyramid. This is because the author creatively termed his civilization The Society, and the caste system is organized into a pyramid. Keeping with this wildly creative tradition, the ruling executive's title is The Sovereign. At the top of this pyramid are the philosopher-kings, the ruling elite, golds. The tier below them is occupied by silvers (financiers), whites (ritual functionaries), and coppers (bureaucrats). These top two tiers are collectively known as the high colors. Third tier members include blues (spaceship crew), greens (programmers), yellows (doctors/scientists), violets (artists), and oranges (engineers). Below this tier are the greys, which make up the police and military forces. These are collectively the mid colors. Tier 5 is made up of browns (menial laborers), obisidians (warriors), and pinks (entertainers). At the absolute bottom tier are the reds, manual laborers who toil away in the mines or fields.
+
+![](https://acximages.ennals.org/images/2024-book-reviews/5a56419c93eb2bfc.png)
 
 Image credit: [https://red-rising.fandom.com/wiki/Color](https://red-rising.fandom.com/wiki/Color)
 

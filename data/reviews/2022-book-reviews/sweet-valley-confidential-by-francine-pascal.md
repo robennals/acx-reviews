@@ -7,8 +7,8 @@ contestName: 2022 Book Reviews
 year: 2022
 publishedDate: '2026-02-06T07:23:14.492Z'
 slug: sweet-valley-confidential-by-francine-pascal
-wordCount: 3598
-readingTimeMinutes: 16
+wordCount: 3602
+readingTimeMinutes: 17
 originalUrl: >-
   https://docs.google.com/document/d/1kQUUJhv-MpLawby2j4zXLZPDG6ligWd5xpIjH8UmWdw
 source: gdoc
@@ -19,17 +19,19 @@ tags:
 
 Relaunching a Book Series, You Didn’t Technically Write
 
-Jessica and Elizabeth Wakefield are identical twins, with blue-green eyes the exact color of the Pacific Ocean, sun-kissed blonde hair, and until the advent of vanity-sizing were perfect size 6’s. They then became [perfect size 4’s](https://www.google.com/url?q=https://ew.com/article/2008/03/27/when-the-first/&sa=D&source=editors&ust=1770366185466953&usg=AOvVaw0p_GDOjEoeQJ_hZf8hPO6R). They are also the stars of the Sweet Valley franchise, which consists of approximately 700 books from the 80s to the early 00s and four seasons of a [90’s dramedy](https://www.google.com/url?q=https://en.wikipedia.org/wiki/Sweet_Valley_High_(TV_series)&sa=D&source=editors&ust=1770366185467222&usg=AOvVaw3IFsoSoDnoXEmjxyzMMXXu) all of which take place in an idyllic Southern California town.
+Jessica and Elizabeth Wakefield are identical twins, with blue-green eyes the exact color of the Pacific Ocean, sun-kissed blonde hair, and until the advent of vanity-sizing were perfect size 6’s. They then became [perfect size 4’s](https://ew.com/article/2008/03/27/when-the-first/). They are also the stars of the Sweet Valley franchise, which consists of approximately 700 books from the 80s to the early 00s and four seasons of a [90’s dramedy](https://en.wikipedia.org/wiki/Sweet_Valley_High_(TV_series)) all of which take place in an idyllic Southern California town.
 
-You might think writing this many books would require a lot of stimulants or Danielle Steele-level productivity, but it mostly required Francine Pascal to oversee a team of ghostwriters from her chateau in the south of France. Over the years, charming details of who actually wrote the books has trickled out. [A future English professor!](https://www.google.com/url?q=https://www.npr.org/2013/03/07/173722518/lifting-the-veil-the-secret-lives-of-ghostwriters%23:~:text%3DKarlsberg%252FStudio%2520Eleven-,In%2520her%252020s%252C%2520Amy%2520Boesky%2520lived%2520a%2520double%2520life.,book%2520series%2520Sweet%2520Valley%2520High.&sa=D&source=editors&ust=1770366185467913&usg=AOvVaw3xk7Yjw61dnlLaMIp5-drK) [A professional writer!](https://www.google.com/url?q=https://www.refinery29.com/en-us/2015/05/86012/sweet-valley-high-ghost-writer&sa=D&source=editors&ust=1770366185468107&usg=AOvVaw1ilB3o8BiedfZ2vhSgVziO) [A straight man!](https://www.google.com/url?q=https://www.thehairpin.com/2012/08/how-your-sweet-valley-high-gets-made/&sa=D&source=editors&ust=1770366185468243&usg=AOvVaw01xK3ZZk-QBD6rvJt708qA)
+You might think writing this many books would require a lot of stimulants or Danielle Steele-level productivity, but it mostly required Francine Pascal to oversee a team of ghostwriters from her chateau in the south of France. Over the years, charming details of who actually wrote the books has trickled out. [A future English professor!](https://www.npr.org/2013/03/07/173722518/lifting-the-veil-the-secret-lives-of-ghostwriters#:~:text=Karlsberg%2FStudio%20Eleven-,In%20her%2020s%2C%20Amy%20Boesky%20lived%20a%20double%20life.,book%20series%20Sweet%20Valley%20High.) [A professional writer!](https://www.refinery29.com/en-us/2015/05/86012/sweet-valley-high-ghost-writer) [A straight man!](https://www.thehairpin.com/2012/08/how-your-sweet-valley-high-gets-made/)
 
 The books themselves were amazing. Elizabeth is the good twin. She is either an aspiring journalist, novelist, or activist who likes to read and solve mysteries. Jessica isn’t supposed to be the bad twin, or not exactly. She’s a fun-loving party girl, a boy-crazy cheerleader, the mischievous scamp. Unfortunately, either the ghost writers or Francine Pascal struggled to draw the line between making Jessica fun and irresponsible, or an outright sociopath.
 
-In the first Sweet Valley book ever ([Sweet Valley High #1 Double Love](https://www.google.com/url?q=https://www.amazon.com/dp/B009LRWGIC/ref%3Ddp-kindle-redirect?_encoding%3DUTF8%26btkr%3D1&sa=D&source=editors&ust=1770366185468977&usg=AOvVaw1pXGeprffU9jn6gvqGhNK2)), Jessica likes Todd, Todd likes Elizabeth, so Jessica pretends Todd tried to force himself on her. She later learns a valuable lesson (don’t do that) when her friends pay her back by tossing her in a pool!
+In the first Sweet Valley book ever ([Sweet Valley High #1 Double Love](https://www.amazon.com/dp/B009LRWGIC/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1)), Jessica likes Todd, Todd likes Elizabeth, so Jessica pretends Todd tried to force himself on her. She later learns a valuable lesson (don’t do that) when her friends pay her back by tossing her in a pool!
 
-Reading the original books today is incredibly jarring. While the spin-off series that cover the twins in [elementary](https://www.google.com/url?q=https://www.goodreads.com/series/59911-sweet-valley-kids&sa=D&source=editors&ust=1770366185469480&usg=AOvVaw3TQVfCqPcXEwKgxTHYbU7U) and [middle school](https://www.google.com/url?q=https://en.wikipedia.org/wiki/Sweet_Valley_Twins&sa=D&source=editors&ust=1770366185469602&usg=AOvVaw3F8xX5MdUFGAsJKyU4E9Z6) could probably be released today as is, the early Sweet Valley High would immediately be canceled. Even if Twitter didn’t exist, these books would somehow be canceled.
+Reading the original books today is incredibly jarring. While the spin-off series that cover the twins in [elementary](https://www.goodreads.com/series/59911-sweet-valley-kids) and [middle school](https://en.wikipedia.org/wiki/Sweet_Valley_Twins) could probably be released today as is, the early Sweet Valley High would immediately be canceled. Even if Twitter didn’t exist, these books would somehow be canceled.
 
 The first problem is Jessica, one of the two main characters. Over the course of the flagship series, she drives a social outcast to attempt suicide, drugs her sister and lets her stand trial for drunk driving, and attempts to steal the boyfriends of most of the female characters.
+
+![](https://acximages.ennals.org/images/2022-book-reviews/651eee782348787a.jpg)
 
 The second problem is everything else. The books are quite short and try to cover multiple plots which means crude characterizations and bizarrely fast plot resolution. Post Harry Potter, even children’s books can be long and meandering. That’s not how teen fiction worked in the 80s. 180 pages is long for a Sweet Valley book. But beyond the speed of resolution, the way plots are resolved would not squeak by today’s editors.
 
@@ -55,7 +57,7 @@ And also dieting.
 
 Robin’s plate, usually heaped with french fries and double burgers, now held only lettuce leaves, two tomato slices, and a hard-boiled egg. Elizabeth watched her silently, and when Robin got up to walk away , she noticed it for certain. On the track in bulky sweat clothes it wasn’t obvious. But now, even in a tent dress, it was: Robin Wilson was losing weight.
 
-I don’t think a YA writer would write that today. They might write a willowy thin heroine but if they had a fat character, they’d keep them fat. For instance, Meg Cabot of Princess Diaries fame recently wrote books called [Size 12 Is Not Fat](https://www.google.com/url?q=https://www.amazon.com/dp/B000FCKM10/ref%3Ddp-kindle-redirect?_encoding%3DUTF8%26btkr%3D1&sa=D&source=editors&ust=1770366185475178&usg=AOvVaw1VZXodA7d7uadZvHdBX9f7) and [Size 14 Is Not Fat Either](https://www.google.com/url?q=https://www.amazon.com/gp/product/B000MAH7E0?ref_%3Ddbs_p_pwh_rwt_anx_cl_1%26storeType%3Debooks&sa=D&source=editors&ust=1770366185475365&usg=AOvVaw1Cm2NWcE7kaExEGvlJXhc6). (The protagonist is not fat in those books as you can probably guess.)
+I don’t think a YA writer would write that today. They might write a willowy thin heroine but if they had a fat character, they’d keep them fat. For instance, Meg Cabot of Princess Diaries fame recently wrote books called [Size 12 Is Not Fat](https://www.amazon.com/dp/B000FCKM10/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1) and [Size 14 Is Not Fat Either](https://www.amazon.com/gp/product/B000MAH7E0?ref_=dbs_p_pwh_rwt_anx_cl_1&storeType=ebooks). (The protagonist is not fat in those books as you can probably guess.)
 
 In any case, Robin is vindicated by losing weight and winning a beauty pageant.
 
@@ -109,6 +111,8 @@ The magnum opus of Sweet Valley High was the Evil Twin arc.
 
 The Evil Twin 
 
+![](https://acximages.ennals.org/images/2022-book-reviews/6e214467872b6415.jpg)
+
 Margo is an abused foster child. She is perfect size 6. But she has ominous gray eyes and dark hair. She doesn’t live in Sweet Valley.
 
 Meanwhile in Sweet Valley, Jessica and Elizabeth both want to be prom queen. While Jessica focuses on getting the perfect dress, Elizabeth decides to turn the jungle-themed prom into a conservation fund-raiser. Elizabeth goes to the prom with her boyfriend, Todd, and Jessica takes Sam, a dirt bike rider and total hunk.
@@ -121,11 +125,15 @@ The best part of this plotline is that after Margo gets blonde hair she practice
 
 (A year later it will turn out Margo is still on the loose and was separated from her own identical, evil twin at birth and they’ll team up to try and kill both of the Wakefield sisters and take both of their spots but it doesn’t live up to the magic of the original).
 
+![](https://acximages.ennals.org/images/2022-book-reviews/819c96490094e2e8.jpg)
+
 The original Sweet Valley High series would launch multiple spin-offs ranging from the iconic Sweet Valley Twins (middle school), the serviceable Sweet Valley University (college), and two ill-fated attempts at more realistic storylines (Sweet Valley High Senior Year and Sweet Valley Junior High). The last spin-off ended its run in 2003.
 
 The Re-Release
 
-After Gossip Girl became a TV show and made lots of money, there was an attempt to cash in on Sweet Valley High. The first few books were re-released and updated. The twins shrank from size 6 to size 4, Elizabeth worked for the school blog instead of the school newspaper, and occasionally characters would glance at cell phones to remind us it was now set in the present day. It wasn’t very successful and only the first several were ever updated. More ambitiously, Francine Pascal would release [Sweet Valley Confidential](https://www.google.com/url?q=https://www.amazon.com/Sweet-Valley-Confidential-Years-Later-ebook/dp/B00457X82Q/ref%3Dsr_1_1?crid%3D39HWQLSS0C3B5%26keywords%3Dsweet%2Bvalley%2Bconfidential%26qid%3D1648762224%26sprefix%3Dsweet%2Bvalley%2Bconfiden%252Caps%252C394%26sr%3D8-1&sa=D&source=editors&ust=1770366185487684&usg=AOvVaw0nAkA6VqC8fS87oR4OUvbv) and the [Sweet Life](https://www.google.com/url?q=https://www.amazon.com/Sweet-Life-Serial-Valley-Confidential-ebook/dp/B008VA7JOG/ref%3Dsr_1_3?crid%3D1QZJ01ZAL7EVQ%26keywords%3Dsweet%2Blife%2Bsweet%2Bvalley%26qid%3D1648762295%26sprefix%3Dsweet%2Blife%2Bsweet%2Bvalley%252Caps%252C120%26sr%3D8-3&sa=D&source=editors&ust=1770366185487994&usg=AOvVaw3d21BWfkuPIXCy0qGfxWIe), chronicling the lives of the twins at ages 27 and 30 respectively. 
+After Gossip Girl became a TV show and made lots of money, there was an attempt to cash in on Sweet Valley High. The first few books were re-released and updated. The twins shrank from size 6 to size 4, Elizabeth worked for the school blog instead of the school newspaper, and occasionally characters would glance at cell phones to remind us it was now set in the present day. It wasn’t very successful and only the first several were ever updated. More ambitiously, Francine Pascal would release [Sweet Valley Confidential](https://www.amazon.com/Sweet-Valley-Confidential-Years-Later-ebook/dp/B00457X82Q/ref=sr_1_1?crid=39HWQLSS0C3B5&keywords=sweet+valley+confidential&qid=1648762224&sprefix=sweet+valley+confiden%2Caps%2C394&sr=8-1) and the [Sweet Life](https://www.amazon.com/Sweet-Life-Serial-Valley-Confidential-ebook/dp/B008VA7JOG/ref=sr_1_3?crid=1QZJ01ZAL7EVQ&keywords=sweet+life+sweet+valley&qid=1648762295&sprefix=sweet+life+sweet+valley%2Caps%2C120&sr=8-3), chronicling the lives of the twins at ages 27 and 30 respectively. 
+
+![](https://acximages.ennals.org/images/2022-book-reviews/1215e7381e207f04.jpg)
 
 The New Stories
 
@@ -163,7 +171,7 @@ She also manages to throw in a tiny bit of continuity here and there. Robin Wils
 
 In Conclusion
 
-The CW now says its going to launch a [Sweet Valley High](https://www.google.com/url?q=https://deadline.com/2021/12/sweet-valley-high-tv-series-the-cw-from-ashley-wigfield-fake-empire-chernin-entertainment-1234891014/&sa=D&source=editors&ust=1770366185495140&usg=AOvVaw0MXqmPmiKUk1tej0sxqQ79) TV series. I doubt it. A few years back, Diablo Cody claimed she was making a Sweet Valley [movie](https://www.google.com/url?q=https://ew.com/article/2009/09/23/diablo-cody-sweet-valley-high-amazing/&sa=D&source=editors&ust=1770366185495391&usg=AOvVaw34y3naRv4W0SfK1oT98DLt) which never happened.
+The CW now says its going to launch a [Sweet Valley High](https://deadline.com/2021/12/sweet-valley-high-tv-series-the-cw-from-ashley-wigfield-fake-empire-chernin-entertainment-1234891014/) TV series. I doubt it. A few years back, Diablo Cody claimed she was making a Sweet Valley [movie](https://ew.com/article/2009/09/23/diablo-cody-sweet-valley-high-amazing/) which never happened.
 
 And if it did happen it would be bad. It wouldn’t be ludicrous enough to really be Sweet Valley, even Riverdale can’t live up to peak Sweet Valley. The characters couldn’t be written today and still be the same.
 

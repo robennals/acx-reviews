@@ -10,7 +10,7 @@ year: 2024
 publishedDate: '2026-02-06T16:47:15.601Z'
 slug: >-
   dont-make-no-waves-dont-back-no-losers-an-insiders-analysis-of-the-daley-machine
-wordCount: 6840
+wordCount: 6851
 readingTimeMinutes: 31
 originalUrl: >-
   https://docs.google.com/document/d/1AXmWgSbh_TFsoZuApSCSEoz57yn93CM5YYhtaO_s4W4
@@ -181,13 +181,17 @@ I appreciated the fact that Don’t Make No Waves is a firsthand account, but it
 
 Also like its subjects, Don’t Make No Waves is surprisingly uninterested in actual governance. I appreciated that the author didn’t waste time moralizing about the machine’s ethics, but I wanted to know more about how well the machine actually ran the city. The author repeatedly asserts that Chicago is no worse-governed than any other big American city in the 1970’s (admittedly, incredibly faint praise), but never provides any evidence.
 
+![](https://acximages.ennals.org/images/2024-book-reviews/7dfad3fbe6302c71.png)
+
 I wanted a tiny bit more of this attitude in the book
 
-Without a sense of the machine’s effectiveness at actually governing the city, it’s impossible to judge how much its corruption mattered. I came away from the book grateful that government jobs (mostly) no longer go to some random politician’s cousin, but I also came away with a different emotion: envy. I was left longing for a Democratic party that’s as organized and competent as the one described in the book, instead of the one we have now, best illustrated by this Simpsons meme:
+Without a sense of the machine’s effectiveness at actually governing the city, it’s impossible to judge how much its corruption mattered. I came away from the book grateful that government jobs (mostly) no longer go to some random politician’s cousin, but I also came away with a different emotion: envy. I was left longing for a Democratic party that’s as organized and competent as the one described in the book, instead of the one we have now, best illustrated by this Simpsons meme: 
+
+![](https://acximages.ennals.org/images/2024-book-reviews/38f2767af59d7bcb.jpg)
 
 Because ultimately, that’s what I wanted to know: were the trade-offs of machine politics in any way worth the results? Could we possibly bring back some of its positive elements without all the downsides? If a little more corruption and graft is what it takes to get there, that’s a trade I might be willing to make.
 
-I still don’t feel like I have the answer to that question, but I’m grateful to have learned more about what politics was like during other times in this country’s history. Such knowledge is always interesting, but it’s especially relevant today, when every election involves talk of American democracy itself being on the ballot. When I remind myself that “American democracy” has had many different meanings throughout this country’s short history, my nightmares are soothed. I may still have unanswered questions about the machine, but at least I’m sleeping better.
+I still don’t feel like I have the answer to that question, but I’m grateful to have learned more about what politics was like during other times in this country’s history. Such knowledge is always interesting, but it’s especially relevant today, when every election involves talk of American democracy itself being on the ballot. When I remind myself that “American democracy” has had many different meanings throughout this country’s short history, my nightmares are soothed. I may still have unanswered questions about the machine, but at least I’m sleeping better. 
 
 * * *
 
@@ -207,15 +211,15 @@ I still don’t feel like I have the answer to that question, but I’m grateful
 
 [[8]](#ftnt_ref8) Murderbot uses the pronouns ‘it/its’ to refer to itself. Following this convention, that and which are also used as pronouns throughout
 
-[[9]](#ftnt_ref9)https://reactormag.com/murderbot-an-autistic-coded-robot-done-right/
+[[9]](#ftnt_ref9) https://reactormag.com/murderbot-an-autistic-coded-robot-done-right/
 
-[[10]](#ftnt_ref10)Botha, M., & Cage, E. (2022). "Autism research is in crisis": A mixed method study of researcher's constructions of autistic people and autism research. Frontiers in psychology, 13, 1050897. https://doi.org/10.3389/fpsyg.2022.1050897
+[[10]](#ftnt_ref10) Botha, M., & Cage, E. (2022). "Autism research is in crisis": A mixed method study of researcher's constructions of autistic people and autism research. Frontiers in psychology, 13, 1050897. https://doi.org/10.3389/fpsyg.2022.1050897
 
 [[11]](#ftnt_ref11) https://middletownpubliclib.org/wp-content/uploads/2020/09/Interview-with-Martha-Wells.pdf
 
-[[12]](#ftnt_ref12)https://www.polygon.com/24132068/someone-you-can-build-a-nest-in-john-wiswell-author-interview
+[[12]](#ftnt_ref12) https://www.polygon.com/24132068/someone-you-can-build-a-nest-in-john-wiswell-author-interview
 
-[[13]](#ftnt_ref13)Try searching  Murderbot in r/autism
+[[13]](#ftnt_ref13) Try searching  Murderbot in r/autism
 
 [[14]](#ftnt_ref14) In this case and all subsequent cases, when I quote from the book I will duplicate its footnotes:  
   
@@ -223,7 +227,7 @@ In 1946, Congress passed the National Mental Health Act. Between 1946 and 1960, 
 
 [[15]](#ftnt_ref15) Furedi, Frank, Therapy Culture: Cultivating Vulnerability in an Uncertain Age (New York: Routledge, 2004), 10.
 
-[[16]](#ftnt_ref16) “Statista Research Department, “Total U.S. Expenditure for Mental Health Services 1986–2020,” 2023, Statista, [www.statista.com/statistics/252393/total-us-expenditure-for-mental-health-services](http://www.statista.com/statistics/252393/total-us-expenditure-for-mental-health-services)
+[[16]](#ftnt_ref16) “Statista Research Department, “Total U.S. Expenditure for Mental Health Services 1986–2020,” 2023, Statista, [www.statista.com/statistics/252393/total-us-expenditure-for-mental-health-services](http://www.statista.com/statistics/252393/total-us-expenditure-for-mental-health-services) 
 
 [[17]](#ftnt_ref17) Ormel, Johan, et al., “More Treatment but No Less Depression: The Treatment-Prevalence Paradox,” Clinical Psychology Review 91 (February 2022) 102111, [https://pubmed.ncbi.nlm.nih.gov/34959153](https://pubmed.ncbi.nlm.nih.gov/34959153).
 
@@ -275,13 +279,13 @@ In 1946, Congress passed the National Mental Health Act. Between 1946 and 1960, 
 
 [[41]](#ftnt_ref41) In typical Bokonon fashion, he can’t help adding “and so am I.”
 
-[[42]](#ftnt_ref42)In hindsight, I really should have known I was not cut out for monogamy back in my teenage years when I first read this. I was always completely on Mona’s side!
+[[42]](#ftnt_ref42) In hindsight, I really should have known I was not cut out for monogamy back in my teenage years when I first read this. I was always completely on Mona’s side!
 
-[[43]](#ftnt_ref43)If you ask the Internet or an LLM why there are so many languages in these places, you will essentially be told “geography”. But no geography is an egg carton, hopelessly cordoning off small groups from one another! What, the rivers were too wide for raping and pillaging and conquering? That doesn’t sound like us. In addition to Dunbar’s own work on group-splits at 150, here’s additional evidence for my extended-stuck-at-150-era proposal, from Ara Norenzayan’s 2013 Big Gods: How Religion Transformed Cooperation and Conflict, pg 126. “Limits to group size are demonstrated also in the ethnographic work among the Arapesh, in remote parts of New Guinea, where villages routinely split once they exceed about 300 people (or 150 adults). The anthropologist Donald Tuzin reports on the historical emergence of an anomalous village of 1,500 people, and explains how additional cultural norms sustaining social organization, marriage, rituals and morally involved supernatural agents converged to galvanize cooperation in a locale where this scale was previously unknown.” The work being cited is “Groups fissure in New Guinea”: Tuzin, 2001. So the splitting-at-150 phenomenon was still happening in remote parts of New Guinea in or near the 21st century, and may still be, for all I know.
+[[43]](#ftnt_ref43) If you ask the Internet or an LLM why there are so many languages in these places, you will essentially be told “geography”. But no geography is an egg carton, hopelessly cordoning off small groups from one another! What, the rivers were too wide for raping and pillaging and conquering? That doesn’t sound like us. In addition to Dunbar’s own work on group-splits at 150, here’s additional evidence for my extended-stuck-at-150-era proposal, from Ara Norenzayan’s 2013 Big Gods: How Religion Transformed Cooperation and Conflict, pg 126. “Limits to group size are demonstrated also in the ethnographic work among the Arapesh, in remote parts of New Guinea, where villages routinely split once they exceed about 300 people (or 150 adults). The anthropologist Donald Tuzin reports on the historical emergence of an anomalous village of 1,500 people, and explains how additional cultural norms sustaining social organization, marriage, rituals and morally involved supernatural agents converged to galvanize cooperation in a locale where this scale was previously unknown.” The work being cited is “Groups fissure in New Guinea”: Tuzin, 2001. So the splitting-at-150 phenomenon was still happening in remote parts of New Guinea in or near the 21st century, and may still be, for all I know.
 
-[[44]](#ftnt_ref44)[This one from 2010 on depression](https://www.youtube.com/watch?v=NOAgplgTxfc) was so popular that Sapolsky did [an extended, updated](https://www.youtube.com/watch?v=fzUXcBTQXKM)[version](https://www.youtube.com/watch?v=fzUXcBTQXKM) of it in 2023. Highly recommended.
+[[44]](#ftnt_ref44) [This one from 2010 on depression](https://www.youtube.com/watch?v=NOAgplgTxfc) was so popular that Sapolsky did [an extended, updated](https://www.youtube.com/watch?v=fzUXcBTQXKM) [version](https://www.youtube.com/watch?v=fzUXcBTQXKM) of it in 2023. Highly recommended.
 
-[[45]](#ftnt_ref45)Benjamin Libet demonstrated in 1983 that simple decisions are made in the unconscious mind milliseconds before we become aware of “making them” in consciousness. We’re still arguing about what that means today.
+[[45]](#ftnt_ref45) Benjamin Libet demonstrated in 1983 that simple decisions are made in the unconscious mind milliseconds before we become aware of “making them” in consciousness. We’re still arguing about what that means today.
 
 [[46]](#ftnt_ref46) The raw data for this claim is from [Race & Economics: How Much Can Be Blamed on Discrimination](https://www.amazon.com/Race-Economics-Discrimination-Institution-Publication/dp/0817912452) by Walter E. Williams, Table 3.2
 

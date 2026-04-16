@@ -7,7 +7,7 @@ contestName: 2022 Book Reviews
 year: 2022
 publishedDate: '2026-02-06T07:22:32.825Z'
 slug: the-goal-its-not-luck-by-eliyahu-goldratt
-wordCount: 4261
+wordCount: 4263
 readingTimeMinutes: 19
 originalUrl: >-
   https://docs.google.com/document/d/100kMdSVFviZSSBvUyyEQPMNlvLptVQxHFD9i9wGuBWs
@@ -63,6 +63,8 @@ The Evaporating Cloud
 
 The first thinking process we are exposed to is known in the TOC literature (why yes, there is TOC literature!) as the “Evaporating Cloud”, and its objective is conflict resolution. Why Goldratt chose a “cloud” metaphor isn’t clear to me, but this tool comes in the form of a diagram framing the conflict at hand. An example (with content paraphrased from a conflict described on an ACX open thread) looks like this:
 
+![](https://acximages.ennals.org/images/2022-book-reviews/56438c4aede59afb.png)
+
 On the right, we see the two incompatible actions. In the middle are the reasons why we feel those actions are necessary or desirable, and on the left is the common goal that both parties want, or that both branches should ultimately support. Depending on the circumstance the diagram may be filled out in various orders to ease its creation.
 
 Goldratt bills this tool as one for creating win-win, no-compromise solutions. The way this tool accomplishes this feat is by shifting the conflict away from the competing objectives to focus both parties on the common goal. The diagram is used by examining the arrows connecting the boxes and surfacing the assumptions embedded in each. If an assumption turns out to be faulty, or reveals an alternative that is not incompatible, the conflict “evaporates”, and both parties can get what they want.
@@ -100,6 +102,8 @@ Alex has some reservations, but isn’t able to articulate them clearly and give
 3.  If “I don’t want to share my car” and (#2) then “it will be annoying to you to get a NO in the future”.
 4.  If “I don’t want to share my car” and (#3) then “we’ll have friction in the future.”
 
+![](https://acximages.ennals.org/images/2022-book-reviews/794944096ef0df65.png)
+
 In the situation with Alex and his son, this diagram is utilized as both proof that Alex has indeed “thought about it”, and as a way of communicating those concerns in a way that avoids direct confrontation. Instead, they are able to look at the diagram, agree that there is a valid concern and then look together for ways to trim the branch.
 
 Goldratt doesn’t mention this, but it strikes me as a crucial precondition for this sort of conversation that both parties need to be engaging in good faith. It would certainly be possible to argue and split hairs at each logical juncture to eventually respond “Your argument is invalid, now I get the car”, but what Goldratt does demonstrate is that it is to both parties' advantage to engage in good faith. Dave eventually proposes an extended “cooling off” period where he doesn’t ask to use the car after Alex’s trip, targeted at defusing proposition #2. Both sides see this as a win–Alex gets an extended period without Dave pestering him, and Dave gets to use the car without serious restriction while Alex is on his trip. It’s not the only solution that could have trimmed this branch, but the fact that it was arrived at together means that both parties are invested in both the problem and the solution.
@@ -126,7 +130,7 @@ Negative Branches make an appearance here as well, and not just for checking tha
 
 FInal Thoughts
 
-Goldratt pulls no punches when it comes to selling the thinking processes. I roll my eyes right along with Alex when he remembers Jonah insisting things like: “This method will always create a win-win solutions.” At the end of the day, Goldratt is a consultant, and despite what the marketing says, no tool is correct for every job. But when I read his books, I become a believer in spite of myself. There’s been a fair amount of [academic work](https://www.google.com/url?q=https://citeseerx.ist.psu.edu/viewdoc/download?doi%3D10.1.1.515.7603%26rep%3Drep1%26type%3Dpdf&sa=D&source=editors&ust=1770366146345041&usg=AOvVaw2PtZI7tqUDXKhMoGX1Q0qb) done on these processes, and what I’ve seen of it indicates that these ideas are typically very impactful and at the least, have done no harm. (Although the standard disclaimers about small sample sizes and inconsistent reporting absolutely apply here.)
+Goldratt pulls no punches when it comes to selling the thinking processes. I roll my eyes right along with Alex when he remembers Jonah insisting things like: “This method will always create a win-win solutions.” At the end of the day, Goldratt is a consultant, and despite what the marketing says, no tool is correct for every job. But when I read his books, I become a believer in spite of myself. There’s been a fair amount of [academic work](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.515.7603&rep=rep1&type=pdf) done on these processes, and what I’ve seen of it indicates that these ideas are typically very impactful and at the least, have done no harm. (Although the standard disclaimers about small sample sizes and inconsistent reporting absolutely apply here.)
 
 And in my life outside of business? I’m brought back again to my original two questions: What is the right thing to be doing right now, and how can I discover it? I can look at the list of UDEs I’m currently struggling with, find the root causes, and find what I need to focus on next. And, How might I achieve those objectives? By engineering solutions, carefully vetted and grounded in my current reality.
 

@@ -7,7 +7,7 @@ contestName: 2025 Non Book Reviews
 year: 2025
 publishedDate: '2026-02-06T16:57:23.282Z'
 slug: disco-elysium
-wordCount: 2533
+wordCount: 2535
 readingTimeMinutes: 12
 originalUrl: >-
   https://docs.google.com/document/d/1B3YxYxLVFjKGicaEkqvt353kt0uimn0PSUQv1PyaHuI
@@ -29,6 +29,8 @@ Giving the main character amnesia is a semi-common storytelling trick in video g
 
 As you try to leave your hotel room, the manager, Garte, confronts you about your massive bar tab and asks that you pay him 130 real, “real” being the name of the currency in this world. You, having amnesia, have no clue what he’s talking about. You don’t know about the existence of any bar tab, and you also have no idea what currency is. So you demand that he explain the concepts of currency and capitalism and threaten to arrest him if you don’t like his answers.
 
+![](https://acximages.ennals.org/images/2025-non-book-reviews/87b382fa3a790c49.png)
+
 You can approach these situations more reasonably, but I generally recommend you don’t. These little moments of absurdity keep the game funny and lighthearted, even within its depressing setting. Your character is a colossal fuck-up, and you are constantly unearthing the sins of your past. You do so in the city of Revachol; Its streets are pocked with bomb craters, and most of its buildings are dilapidated and full of bullet holes. You walk by old statues and monuments that speak to the powerful place the city once was, now rusting away. After an occupying force put down a violent communist revolution, the city fell into disrepair and economic depression. The only place that is making money is the docks, and the workers have recently decided to go on strike. Tensions in the city are high, and you suspect the murder is somehow wrapped up in the budding political turmoil.
 
 Disco Elysium is highly political. Characters often profess their political views and try to convert you to their ideals. There’s a game mechanic where you can subscribe to the world’s different political ideologies, becoming a communist, moralist (the game’s term for vaguely liberal-leaning centrism), ultraliberal (hyper-capitalist libertarianism), or a fascist. None of these factions is treated with any reverence. You can tell that the writers are more fans of communism (they do self-identify as communists after-all) than fascism, but past that, there is plenty of poignant criticism to go around.
@@ -40,6 +42,8 @@ Recognizing that it’s been taking you some time to make progress on the murder
 If you’re unfamiliar with video games and find learning how to use a controller or buying some dedicated gaming hardware daunting, don’t worry. Disco Elysium is straightforward to play and should run fine on any old laptop or console you’ve got kicking around[6]. There’s no fast-paced movement or shooting, just walking around and reading.
 
 As you talk to people (or the occasional street sign), a window on the right hand of your screen opens to show the current dialogue. It also allows you to choose what your character will say or do next from a list of options.
+
+![](https://acximages.ennals.org/images/2025-non-book-reviews/674584ab678bce9b.png)
 
 This dialogue system was [intentionally designed to mimic a Twitter feed](https://youtu.be/9X0-W5erEXw?si=SfB3YTQt-f9QkaWP&t=135), which the game's creators saw as their primary competition. They disposed of the idiom, “Nobody reads anymore,” and instead recognized that people read social media all the time, so they should cater to that style. This works out fantastically; the writing is snappy, brilliant, and smooth.
 

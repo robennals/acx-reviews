@@ -7,7 +7,7 @@ contestName: 2025 Non Book Reviews
 year: 2025
 publishedDate: '2026-02-06T16:52:48.892Z'
 slug: effective-altruism-rationalism
-wordCount: 4191
+wordCount: 4196
 readingTimeMinutes: 19
 originalUrl: >-
   https://docs.google.com/document/d/1d0vRSj1E93joWWvbUen2XGuDjN_mM94ybMIAADzM2fo
@@ -16,6 +16,8 @@ tags:
   - Philosophy
   - Politics
 ---
+
+![](https://acximages.ennals.org/images/2025-non-book-reviews/6fdf5160e72cefc8.png)
 
 Some 3000 indigenous Sámi people have dibs on around 40% of non-industrialised Norway to practice reindeer husbandry, sometimes to the annoyance of those among the 5.5 million Norwegians who would prefer to use the land for other purposes.
 
@@ -31,7 +33,7 @@ Before we get into the weeds, I want to make something very clear: I’m not cri
 
 I used to see effective altruism as a [question, not an ideology](https://forum-bots.effectivealtruism.org/posts/FpjQMYQmS3rWewZ83/effective-altruism-is-a-question-not-an-ideology). Criticism of EA misses the point, I would say, because any honest criticism of EA is in fact part of the EA project to critically explore how to do most good.
 
-But that itself is the ideology, [not the movement](https://slatestarcodex.com/2016/04/04/the-ideology-is-not-the-movement/). There’s now a global and connected EA ecosystem of researchers, lobbyists and funders, with its own [culture](https://huel.com/), [career paths](https://jobs.80000hours.org/), [public](https://www.lesswrong.com/)[squares](https://forum.effectivealtruism.org/) and [influencers](https://www.astralcodexten.com/). The EA question has a list of answers attached, and conference admissions [filter](https://forum.effectivealtruism.org/posts/dsCTSCbfHWxmAr2ZT/open-ea-global?commentId=cRSPmzcyXWNhWGz46) for knowledge of these.
+But that itself is the ideology, [not the movement](https://slatestarcodex.com/2016/04/04/the-ideology-is-not-the-movement/). There’s now a global and connected EA ecosystem of researchers, lobbyists and funders, with its own [culture](https://huel.com/), [career paths](https://jobs.80000hours.org/), [public](https://www.lesswrong.com/) [squares](https://forum.effectivealtruism.org/) and [influencers](https://www.astralcodexten.com/). The EA question has a list of answers attached, and conference admissions [filter](https://forum.effectivealtruism.org/posts/dsCTSCbfHWxmAr2ZT/open-ea-global?commentId=cRSPmzcyXWNhWGz46) for knowledge of these.
 
 It’s a [motte and bailey](https://en.wikipedia.org/wiki/Motte-and-bailey_fallacy): EAs optimise for specific and sometimes highly speculative answers, but when pushed they frame these answers as completely tentative based on currently available evidence.
 
@@ -76,7 +78,7 @@ This is Derek Parfit looking at the next centuries. Scott and others believe dec
 
 It is always flattering to belong to the inner circle of the initiated, and to possess the unusual power of predicting the course of history.
 
-[Critics](https://firstmonday.org/ojs/index.php/fm/article/view/13636/11606)[have](https://www.currentaffairs.org/news/2021/07/the-dangerous-ideas-of-longtermism-and-existential-risk) pointed out the totalitarianism implicit or [explicit](https://nickbostrom.com/papers/vulnerable.pdf) in the transhumanist/longtermist project. Naive utilitarianism is authoritarian, dangerously so with plus or minus infinity on one side of the ethics equation. But those critics mix descriptive and normative claims. Dangerous ideas can be true, and blocking our ears is no way to tackle important issues.
+[Critics](https://firstmonday.org/ojs/index.php/fm/article/view/13636/11606) [have](https://www.currentaffairs.org/news/2021/07/the-dangerous-ideas-of-longtermism-and-existential-risk) pointed out the totalitarianism implicit or [explicit](https://nickbostrom.com/papers/vulnerable.pdf) in the transhumanist/longtermist project. Naive utilitarianism is authoritarian, dangerously so with plus or minus infinity on one side of the ethics equation. But those critics mix descriptive and normative claims. Dangerous ideas can be true, and blocking our ears is no way to tackle important issues.
 
 Crucially, Popper is making a pragmatic political point:
 
@@ -148,7 +150,7 @@ ld have such disdain for it.
 
 ## Contrarianism
 
-Grown-up Scott wrestles with when you can or can’t rely on experts in his [Bounded Distrust](https://www.astralcodexten.com/p/bounded-distrust)\-post.
+Grown-up Scott wrestles with when you can or can’t rely on experts in his [Bounded Distrust](https://www.astralcodexten.com/p/bounded-distrust)-post.
 
 There are times when experts and the establishment lie, but it’s not all the time. FOX will sometimes present news in a biased or misleading way, but they won’t make up news events that never happen. Experts will sometimes prevent studies they don’t like from happening, but they’re much less likely to flatly assert a clear, specific fact which isn’t true.
 
@@ -209,7 +211,7 @@ The real solution is apolitical, society-scaled, self-correcting institutions.
 
 Here are seven ideas to rethink the EAR movements:
 
-1.  Do no political harm and classical liberalism into the EA curriculum. Popper is good for the dangers, but Wait but Why-author Tim Urban’s What’s Our Problem is an excellent explanation of the principles. Yudkowsky has some [decent](https://www.lesswrong.com/posts/K9ZaZXDnL3SEmYZqB/ends-don-t-justify-means-among-humans)[warnings](https://www.lesswrong.com/s/waF2Pomid7YHjfEDt/p/dWTEtgBfFaz6vjwQf) of why the ends do not justify means in practice. The system must ensure that individuals don’t end up with rich knowledge of dangerous ideas and poor awareness of the dangers.
+1.  Do no political harm and classical liberalism into the EA curriculum. Popper is good for the dangers, but Wait but Why-author Tim Urban’s What’s Our Problem is an excellent explanation of the principles. Yudkowsky has some [decent](https://www.lesswrong.com/posts/K9ZaZXDnL3SEmYZqB/ends-don-t-justify-means-among-humans) [warnings](https://www.lesswrong.com/s/waF2Pomid7YHjfEDt/p/dWTEtgBfFaz6vjwQf) of why the ends do not justify means in practice. The system must ensure that individuals don’t end up with rich knowledge of dangerous ideas and poor awareness of the dangers.
 2.  Read more news. Calibrate viewpoints as relative to mainstream science and discourse. I can’t believe this has to be [argued](https://www.lesswrong.com/posts/kxSg4fysgo7m5cgZW/read-more-news). Be less online.
 3.  Radical transparency of funding, activity, achievements etc to spread a healthy institutional norm, keep you in check and make you trustworthy for others. It also visualises what the movement does to facilitate spreading the ideas.
 4.  Establish EAR auditing that keeps EAR institutions from being shady and doing harm.
@@ -217,6 +219,6 @@ Here are seven ideas to rethink the EAR movements:
 6.  Merge with mainstream institutions. Do joint research/projects, and redesign EAR institutions after the goal of strengthening the shared institutions of society.
 7.  Debate the mainstream. Not as in make a [propaganda video](https://www.youtube.com/watch?v=w9npWiTOHX0&embeds_referring_euri=https%3A%2F%2Ffutureoflife.org%2F&source_ve_path=OTY3MTQ). As in, understand the actual debate to win the public narrative fairly. If there are systematic problems, then help fix them, don’t retreat to ivory towers.
 
-Should EAG (and EAGx) exist?EA Global strengthens cross-cause area, within-EA connections, nurturing a network based on EA-affiliation rather than domain with the rest of society. The same applies for Less Wrong, 80,000 hours and the Effective Altruism Forum.
+Should EAG (and EAGx) exist? EA Global strengthens cross-cause area, within-EA connections, nurturing a network based on EA-affiliation rather than domain with the rest of society. The same applies for Less Wrong, 80,000 hours and the Effective Altruism Forum.
 
 There’s a positive role to play for sophisticated forums. But if these split along political lines, I worry they undermine democracy at a time of rising totalitarianism. I hope EAR can continue to save lives, but transform its elitist epistemic and political pursuits into a democratic project that lifts all boats.

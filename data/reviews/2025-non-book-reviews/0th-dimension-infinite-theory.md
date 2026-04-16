@@ -7,7 +7,7 @@ contestName: 2025 Non Book Reviews
 year: 2025
 publishedDate: '2026-02-06T16:52:48.885Z'
 slug: 0th-dimension-infinite-theory
-wordCount: 4215
+wordCount: 4217
 readingTimeMinutes: 19
 originalUrl: >-
   https://docs.google.com/document/d/1d0vRSj1E93joWWvbUen2XGuDjN_mM94ybMIAADzM2fo
@@ -30,7 +30,7 @@ Who Are We - Identity?
 
 What is The Meaning of Life/Purpose?
 
-Immortality/Teleportion is Possible While Retaining Our Original Identity?
+Immortality/Teleportion is Possible While Retaining Our Original Identity? 
 
 We Can Revive Our Loved Ones? & Life Forms?
 
@@ -148,7 +148,7 @@ E.g. Humans, Animals, High-Level Intelligence AI
 
 Can Be Refined.
 
-Another perspective. What do you think the 4th dimensional human beingsthinks about us?
+Another perspective. What do you think the 4th dimensional human beings thinks about us?
 
 “We have more dimensional consciousness/sensories than our 3D human do, they’ll can not understand”
 
@@ -180,7 +180,7 @@ So imagine you and 4 clones of you. You can see your 4 clones in a 1st perspecti
 
 Then, imagine 5 atoms. They are molecularly the same. But are they the same? If we give them ‘vision’ to look at one another - one atom will have 1st perspective to see the 4 other atoms. So actually, each 5 atoms are actually have their own identities. They are molecularly the same, but they still have their own special place in this infinite dimensional world.
 
-So then. Give that one atom a body. Give it vision. Give it hearing. Give it touch. Give it taste. Give it smell. Give it to remember stored memories/data. Give it an ability to think. Give it an ability to understand concepts. Hold up. We gave this atom to sense. And a lot of things sense.Yes, I’m describing a living being.
+So then. Give that one atom a body. Give it vision. Give it hearing. Give it touch. Give it taste. Give it smell. Give it to remember stored memories/data. Give it an ability to think. Give it an ability to understand concepts. Hold up. We gave this atom to sense. And a lot of things sense. Yes, I’m describing a living being.
 
 In all that faff, we actually just one atom in the brain sensing the wonders. And that atom is very special & it’s been selected by chance to sense, perceiving our world out of trillions & trillions of other infinite small. We are an essentially an infinite small, consciousness with attached other infinite smalls sensors.
 
@@ -412,7 +412,7 @@ What is The Meaning of Life/Purpose?
 
 Life - Experience, Gratitude, Creative Freedom, Love, Growth, Transcedence
 
-Immortality/Teleportion is Possible While Retaining Our Original Identity?
+Immortality/Teleportion is Possible While Retaining Our Original Identity? 
 
 Yes, as long we have our ultimate atom being (that senses everything) + replica of part of our brain - our Time-Identity - then any additional sensories will do afterwards.
 

@@ -7,7 +7,7 @@ contestName: 2025 Non Book Reviews
 year: 2025
 publishedDate: '2026-02-06T16:52:48.892Z'
 slug: earth-in-review-a-beautiful-frustrating-waste-of-time
-wordCount: 1661
+wordCount: 1662
 readingTimeMinutes: 8
 originalUrl: >-
   https://docs.google.com/document/d/1d0vRSj1E93joWWvbUen2XGuDjN_mM94ybMIAADzM2fo
@@ -59,7 +59,7 @@ Like, in my last playthrough before I ragequit and blocked it so I wouldn't go b
 
 #
 
-In the hushed, fearful dark, in a village so poor that a roof is wealth, a scream splits the night, a bloody cry of pain and triumph. The young mother gives birth to a child.         
+        In the hushed, fearful dark, in a village so poor that a roof is wealth, a scream splits the night, a bloody cry of pain and triumph. The young mother gives birth to a child.         
 
         But the child is thin, so sickly-thin it hurts to see her. The young mother is told not to nurse her, or name her, so as to lessen the grief when she dies.
 
@@ -81,7 +81,7 @@ In the hushed, fearful dark, in a village so poor that a roof is wealth, a screa
 
         She bares her bloody teeth against the darkness, in defiance and threat.
 
-I will keep you safe, she declares to the child in her arms. No matter what.
+        I will keep you safe, she declares to the child in her arms. No matter what.
 
         And she holds me tight.
 
@@ -151,7 +151,7 @@ X: Well, within the rules of the U, they don't have cloud backups or dust reasse
 
 ζ: [Confusion, indignation, and a lingering disquiet]  …
 
-That just seems more grim than is even fun?? And, I really do hate to say this about the person who made You CanJust Turn Into A Snake, but this just seems like...juvenile edgelord bullshit.
+That just seems more grim than is even fun?? And, I really do hate to say this about the person who made You Can Just Turn Into A Snake, but this just seems like...juvenile edgelord bullshit.
 
 X: Honestly, Ujima reported this project has been in production for eight centuries. This might actually be from his dark teen poetry stage.
 

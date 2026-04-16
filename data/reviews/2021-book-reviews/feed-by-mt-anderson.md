@@ -25,8 +25,8 @@ But what if Anderson is aware of this irony? Like saying Coke™ one thousand ti
 
 [1] He says so in the interview appended to my edition of the novel (ISBN 9780763622596).
 
-[2] If we are to find solutions, don’t we have to first believe they exist? [Here’s](https://www.google.com/url?q=https://youtu.be/lX-K63pVPTM&sa=D&source=editors&ust=1770366086314477&usg=AOvVaw3SaNmDAUsRvKFeU0FtfKhp) physicist David Deutsch on optimism.
+[2] If we are to find solutions, don’t we have to first believe they exist? [Here’s](https://youtu.be/lX-K63pVPTM) physicist David Deutsch on optimism.
 
-[3] Philosophy Tube has [a nice breakdown](https://www.google.com/url?q=https://youtu.be/5gnlhmaM-dM?t%3D807&sa=D&source=editors&ust=1770366086314685&usg=AOvVaw1pu0WnVuO_Gy0xgNTKPv5h) of Slavoj Žižek’s ideas on this approach.
+[3] Philosophy Tube has [a nice breakdown](https://youtu.be/5gnlhmaM-dM?t=807) of Slavoj Žižek’s ideas on this approach.
 
 * * *

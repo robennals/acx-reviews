@@ -7,7 +7,7 @@ contestName: 2024 Book Reviews
 year: 2024
 publishedDate: '2026-02-06T16:49:14.014Z'
 slug: win-bigly-persuasion-in-a-world-where-facts-dont-matter
-wordCount: 13309
+wordCount: 13334
 readingTimeMinutes: 60
 originalUrl: >-
   https://docs.google.com/document/d/14qa47TJ_Vyerx4XNgTCIh7PUZ_TOgNcU_eHm5So_zo0
@@ -39,13 +39,13 @@ Adams: And that’s what I’d like to discuss today.
 
 But let me start by saying how I admire that your model is incredibly non-partisan: it assumes that liberals and conservatives work the same way. We have the same mental hardware and respond similarly to our media environment. In essence, you suggest some kind of cognitive determinism. The opinions we construct aren’t exactly the product of critical reflection as much as the amount and type of messaging we receive. Even for highly aware voters, you suggest that their policy attitudes are pretty much uncritically borrowed.
 
-Zaller: I think the idea has become a lot more accepted now than it was in the 1990s. But it’s still something that we suspect about our political opponents, and not ourselves.The findings, however, suggested that both liberals and conservatives borrowed their attitudes from the media far more than they thought for themselves.
+Zaller: I think the idea has become a lot more accepted now than it was in the 1990s. But it’s still something that we suspect about our political opponents, and not ourselves. The findings, however, suggested that both liberals and conservatives borrowed their attitudes from the media far more than they thought for themselves.
 
 Adams: Well what it does for me, at least, is undermine what I’ll call the “Inherent Deplorability Thesis.” This suggests that Trump supporters, like myself, are mean-spirited bigots, and that everything we think and feel is somehow an expression of some ugly racism. And this is a really, really offensive argument for people like myself who once saw themselves as forward-thinking liberals. But your argument suggests that opinions are less enduring and shouldn’t necessarily be seen as the product of profound belief.
 
 Zaller: There are better ways to describe Trump’s victory without resorting to calling people names. The beliefs that most people hold may be more ephemeral than they suspect, so there’s no need to write off one half of the electorate as irreconcilably at odds with the other. When you study public opinion as long as I have, you come to see that most voters have more in common than not.
 
-My model demonstrates that opinions can and do change in response to the messaging we come across. I think that if we challenged the taken-for-granted assumption ofcognitive autonomy,we might be able to see the determinism at work. If we account for this determinism, we can maximize what little autonomy we have.
+My model demonstrates that opinions can and do change in response to the messaging we come across. I think that if we challenged the taken-for-granted assumption of cognitive autonomy, we might be able to see the determinism at work. If we account for this determinism, we can maximize what little autonomy we have.
 
 Adams: Well, this might be our first disagreement. I’m not as confident that knowing will make any difference. In fact, I’ve argued that being aware of our mental operations doesn’t help when it comes to persuasion.
 
@@ -107,7 +107,7 @@ Zaller: The Ignorance Thesis is a little too simple and really misses some impo
 
 And frankly, I noticed something similar in the Eighties. April’s kick-the-poor conservative would be September’s tax-and-spend liberal. Or how if you change the order of survey questions, respondents would swing from hawk to dove. So as I developed my model, I began to realize that ambivalence might be a little bit more accurate than ignorance.
 
-Arlie Hochschild has made a career of talking to normal people about politics. And she noticed that we confidently answer closed-ended, yes-no, attack-withdraw kind of questions. So much so that it seems that voters have fixed beliefs or an “ideology” of some kind. But the confidence really evaporates as soon as you ask for an explanation, because people start calling to mind all of the things they think about an issue and suddenly realize it’s more complex than they thought. We noticed the same thing with open-ended survey questions: voters were suddenly ambivalent on a lot of issues,compared to simple, closed-ended questions.But again, I was using data sets from the Seventies and Eighties.
+Arlie Hochschild has made a career of talking to normal people about politics. And she noticed that we confidently answer closed-ended, yes-no, attack-withdraw kind of questions. So much so that it seems that voters have fixed beliefs or an “ideology” of some kind. But the confidence really evaporates as soon as you ask for an explanation, because people start calling to mind all of the things they think about an issue and suddenly realize it’s more complex than they thought. We noticed the same thing with open-ended survey questions: voters were suddenly ambivalent on a lot of issues, compared to simple, closed-ended questions. But again, I was using data sets from the Seventies and Eighties.
 
 Adams: So it’s not that voters are irrational, but that their political attitudes are often made up on the spot, usually based on the last thing they heard in the media.
 
@@ -323,7 +323,7 @@ The Team is a mental shortcut that obviates the hard work of thought. The Team m
 
 Zaller: Leaders need conflict, particularly leaders who are weak on policy. People are easier to lead when they’re scared and angry. And if you’re able to manufacture a compelling threat and then offer yourself as the only solution, your supporters support you even more.  
 
-Cialdini: But Trump was no Hitler. In fact, he used the opposite strategy. Trump’s talent was not in motivating his followers, but in enraging his enemies. And it worked: for each ounce of contempt he elicited, he gained a pound of support. He triggered righteous indignation in liberals, which he then masterfully used to trigger conservative reactance - that righteous anger that says “Don’t call me bad! Don’t try to control me!” At least, that’s what I got from Arlie Hochschild’s masterful Strangers In Their Own Land.
+Cialdini: But Trump was no Hitler. In fact, he used the opposite strategy. Trump’s talent was not in motivating his followers, but in enraging his enemies. And it worked: for each ounce of contempt he elicited, he gained a pound of support. He triggered righteous indignation in liberals, which he then masterfully used to trigger conservative reactance - that righteous anger that says “Don’t call me bad! Don’t try to control me!” At least, that’s what I got from Arlie Hochschild’s masterful Strangers In Their Own Land. 
 
 Zaller: His stunning tweets and comments were the perfect way to direct all of the attention to himself. For liberals, he was so incredibly vulgar and insulting. For everyone else he was so entertaining, so new, so fearless, and above all, so arousing. The more attention he got, the bolder he became, the more attention he drew. Soon, everyone was tuned in to politics, everyone had an opinion, and everyone took a side. Every day cable news got more intense, and Facebook feeds became more shrill and damning, and each side saw the other becoming more menacing. And he did it again and again, creating more indignation and resentment.
 
@@ -449,11 +449,11 @@ We have an impulse for solidarity that is easily exploited. We can be made to fe
 
 [[34]](#ftnt_ref34) David W. Stewart, ‘Jacques Lacan and the Language of the Unconscious’, Bulletin of the Menninger Clinic 47, no. 1 (1983): 53–69.
 
-[[35]](#ftnt_ref35)I checked with a Russian friend whether Cassius was a Russian name, and she had never heard of it.
+[[35]](#ftnt_ref35) I checked with a Russian friend whether Cassius was a Russian name, and she had never heard of it.
 
-[[36]](#ftnt_ref36)The reactor meltdown scene is vivid and fascinating. If I wasn't aware of the chronology, I would call it a tasteless reference to the recent Chernobyl meltdown, but Hunt was actually printed in 1984, 2 years before Chernobyl. This isn’t even Clancy’s most potent Gift of Prophecy moment - his 1994 Debt of Honor features a 9/11-style terrorist attack that kills the president and most of the federal government, launching then-Vice-President Jack Ryan to the presidency. In [this 2002 interview](https://www.c-span.org/video/?168490-1/depth-tom-clancy) with Clancy, three separate callers ask a version of “did you inspire 9/11?”.
+[[36]](#ftnt_ref36) The reactor meltdown scene is vivid and fascinating. If I wasn't aware of the chronology, I would call it a tasteless reference to the recent Chernobyl meltdown, but Hunt was actually printed in 1984, 2 years before Chernobyl. This isn’t even Clancy’s most potent Gift of Prophecy moment - his 1994 Debt of Honor features a 9/11-style terrorist attack that kills the president and most of the federal government, launching then-Vice-President Jack Ryan to the presidency. In [this 2002 interview](https://www.c-span.org/video/?168490-1/depth-tom-clancy) with Clancy, three separate callers ask a version of “did you inspire 9/11?”.
 
-[[37]](#ftnt_ref37)The best I can do is that the helicopter that explodes is a Super Stallion, which has a stereotype of being accident-prone and [has a whole "Accident" section on Wikipedia](https://en.wikipedia.org/wiki/Sikorsky_CH-53E_Super_Stallion#Accidents). Clancy also describes the helicopter in passing as “old”.
+[[37]](#ftnt_ref37) The best I can do is that the helicopter that explodes is a Super Stallion, which has a stereotype of being accident-prone and [has a whole "Accident" section on Wikipedia](https://en.wikipedia.org/wiki/Sikorsky_CH-53E_Super_Stallion#Accidents). Clancy also describes the helicopter in passing as “old”.
 
 [[38]](#ftnt_ref38) Meanwhile in the real world, so-called "directed-energy weapons” are so technically infeasible that today, 35 years after Cardinal was published, [they’re still a decade away](https://www.militaryaerospace.com/power/article/14292443/an-upward-trajectory-for-directedenergy-weapons).
 
@@ -463,7 +463,7 @@ We have an impulse for solidarity that is easily exploited. We can be made to fe
 
 [[41]](#ftnt_ref41) The three are Dr. Taussig, Taussig’s Soviet handler, and FBI agent Hazel Loomis, described above.
 
-[[42]](#ftnt_ref42)I’m not counting his lover as a character since he only exists for two sentences.
+[[42]](#ftnt_ref42) I’m not counting his lover as a character since he only exists for two sentences.
 
 [[43]](#ftnt_ref43) Other Clancy characters motivated by revenge for their dead wife/lover are The Archer in Cardinal, and John Clark in Without Remorse, who goes on a killing spree against drug dealers as revenge for his dead girlfriend. Revenge seems to be Clancy’s go-to excuse for extreme or morally-gray actions.
 
@@ -489,7 +489,7 @@ Also… are there old-but-popular things that don’t get labeled “classics”
 
 [[53]](#ftnt_ref53) For example, [Morgan et al 2015](https://www.nature.com/articles/ncomms7029) shows that allowing modern humans to speak when teaching others how to make stone tools facilitates the acquisition of difficult techniques. This doesn’t seem very surprising.
 
-[[54]](#ftnt_ref54) Own translation from the Italian original (“Se vogliamo che tuttorimanga com’è, bisogna che tuttocambi.”) cf. Colquhoun’s translation: “If we want things to stay as they are, things will have to change.” (p. 28) Lacking the “tutto” (“all”, “everything”), the second part of Colquhoun’s version lacks the expressive force of the original.
+[[54]](#ftnt_ref54) Own translation from the Italian original (“Se vogliamo che tutto rimanga com’è, bisogna che tutto cambi.”) cf. Colquhoun’s translation: “If we want things to stay as they are, things will have to change.” (p. 28) Lacking the “tutto” (“all”, “everything”), the second part of Colquhoun’s version lacks the expressive force of the original.
 
 [[55]](#ftnt_ref55) Unless explicitly noted, all quotations are based on the following text and translation: The Leopard: A Novel, by Giuseppe [Tomasi] di Lampedusa. Translated from the Italian by Archibald Colquhoun (1960), with a foreword and appendix by Gioacchino Lanza Tomasi, translated from the Italian by Guido Waldman (2007), New York, Pantheon Books.
 
@@ -509,23 +509,23 @@ Also… are there old-but-popular things that don’t get labeled “classics”
 
 [[63]](#ftnt_ref63) In Greco-Roman mythology, Jupiter had overthrown his father, Saturn, who in turn had overthrown his own, Uranus.
 
-[[64]](#ftnt_ref64)Blackmore wisely avoids definitional quagmires, such as trying to identify the unit of the meme – is it the first four notes of Beethoven’s seventh sonata, or the whole sonata that constitutes the meme? The answer is that it can be both, depending on what it is that gets passed on through imitation. Similarly, Blackmore doesn’t make a distinction between whether the meme is the behavior that gets copied, or the items that are produced through that result (is making a soup the meme, or is it the soup itself that’s the meme?). She is content to call all of these memes. This doesn’t mean everything is a meme –  thoughts, ideas and conscious experiences are not synonymous with memes, since memes are that which is passed on through imitation. Another point worth mentioning is that trying to identify informational structures in the brain as memes is premature, since the exact physical instantiation of memes isn’t central to Blackmore’s theories, similar to how Darwin didn’t need to know anything about DNA in order to develop evolutionary theory.
+[[64]](#ftnt_ref64) Blackmore wisely avoids definitional quagmires, such as trying to identify the unit of the meme – is it the first four notes of Beethoven’s seventh sonata, or the whole sonata that constitutes the meme? The answer is that it can be both, depending on what it is that gets passed on through imitation. Similarly, Blackmore doesn’t make a distinction between whether the meme is the behavior that gets copied, or the items that are produced through that result (is making a soup the meme, or is it the soup itself that’s the meme?). She is content to call all of these memes. This doesn’t mean everything is a meme –  thoughts, ideas and conscious experiences are not synonymous with memes, since memes are that which is passed on through imitation. Another point worth mentioning is that trying to identify informational structures in the brain as memes is premature, since the exact physical instantiation of memes isn’t central to Blackmore’s theories, similar to how Darwin didn’t need to know anything about DNA in order to develop evolutionary theory.
 
-[[65]](#ftnt_ref65)Dawkins focuses on memeplexes as residing in individual brains, but I believe we can also view them as distributed between different brains. Rock music as a memeplex should be thought of as encompassing not just songs in an individual brain, but of all songs whose replication tends to be favored by the replication of the other songs in that group (which, if we’re being pedantic, likely means that rock music as a whole cannot count as a memeplex. Rather the genre consists of different memeplexes of songs which mutually reinforce each others’ chances of replication). As with everything in evolution, sharp distinctions likely don’t exist here, and our purposes will determine what we take to be a memeplex, similarly to how it determines what we take to be a species.
+[[65]](#ftnt_ref65) Dawkins focuses on memeplexes as residing in individual brains, but I believe we can also view them as distributed between different brains. Rock music as a memeplex should be thought of as encompassing not just songs in an individual brain, but of all songs whose replication tends to be favored by the replication of the other songs in that group (which, if we’re being pedantic, likely means that rock music as a whole cannot count as a memeplex. Rather the genre consists of different memeplexes of songs which mutually reinforce each others’ chances of replication). As with everything in evolution, sharp distinctions likely don’t exist here, and our purposes will determine what we take to be a memeplex, similarly to how it determines what we take to be a species.
 
-[[66]](#ftnt_ref66)While everything is ultimately reducible to micro-physical properties, the right level of explanation differs between hardware and software – one could have knowledge of all the microphysical properties of a computer without knowing anything at all about what software it runs, or what higher-level patterns that software gives rise to. Dennett approvingly quotes Jaynes on this point: “Even if we had a complete wiring diagram of the nervous system, we still would not be able to answer our basic question. Though we knew the connections of every tickling thread of every single axon and dendrite in every species that ever existed, together with all its neurotransmitters and how they varied in its billions of synapses of every brain that ever existed, we could still never—not ever—from a knowledge of the brain alone know if that brain contained a consciousness like our own”
+[[66]](#ftnt_ref66) While everything is ultimately reducible to micro-physical properties, the right level of explanation differs between hardware and software – one could have knowledge of all the microphysical properties of a computer without knowing anything at all about what software it runs, or what higher-level patterns that software gives rise to. Dennett approvingly quotes Jaynes on this point: “Even if we had a complete wiring diagram of the nervous system, we still would not be able to answer our basic question. Though we knew the connections of every tickling thread of every single axon and dendrite in every species that ever existed, together with all its neurotransmitters and how they varied in its billions of synapses of every brain that ever existed, we could still never—not ever—from a knowledge of the brain alone know if that brain contained a consciousness like our own”
 
-[[67]](#ftnt_ref67)It’s interesting that this point is also made by poet Anne Carson in her essay Eros the Bittersweet. Discussing Bruno Snell’s claim that the Greeks “discovered the mind”, she holds that the invention of writing is a central piece of support for this thesis that Snell neglects to mention: “Reading and writing change people, and change societies”.
+[[67]](#ftnt_ref67) It’s interesting that this point is also made by poet Anne Carson in her essay Eros the Bittersweet. Discussing Bruno Snell’s claim that the Greeks “discovered the mind”, she holds that the invention of writing is a central piece of support for this thesis that Snell neglects to mention: “Reading and writing change people, and change societies”.
 
-[[68]](#ftnt_ref68)Since system-wide influence can come in degrees, so can consciousness, according to Dennett. This may seem counterintuitive – surely I’m either conscious or not? But the response to this is that our intuitions are guided by us typically having more than just threshold-levels of consciousness, especially when we notice and think about being conscious at all, so our intuition is not to be taken as an absolute guide to truth.
+[[68]](#ftnt_ref68) Since system-wide influence can come in degrees, so can consciousness, according to Dennett. This may seem counterintuitive – surely I’m either conscious or not? But the response to this is that our intuitions are guided by us typically having more than just threshold-levels of consciousness, especially when we notice and think about being conscious at all, so our intuition is not to be taken as an absolute guide to truth.
 
-[[69]](#ftnt_ref69)As Andy Clark notes in the book The Philosophy of Daniel Dennett, and which Dennett seems to agree with in his commentary, a modest form of qualia realism is available to Dennett, in that he thinks there are real patterns in the predictions made by the Bayesian brain which correspond to things traditionally labeled qualia (such as cuteness, color and the like). Especially interoceptive predictions concerning our dispositions to act towards things hold a central place in this account. This means qualia isn’t different in kind from other properties/representations in the brain (as the dualist thinks), but rather differ only in what is being predicted/represented.
+[[69]](#ftnt_ref69) As Andy Clark notes in the book The Philosophy of Daniel Dennett, and which Dennett seems to agree with in his commentary, a modest form of qualia realism is available to Dennett, in that he thinks there are real patterns in the predictions made by the Bayesian brain which correspond to things traditionally labeled qualia (such as cuteness, color and the like). Especially interoceptive predictions concerning our dispositions to act towards things hold a central place in this account. This means qualia isn’t different in kind from other properties/representations in the brain (as the dualist thinks), but rather differ only in what is being predicted/represented.
 
-[[70]](#ftnt_ref70)One can also speculate about group selection here, in that it’s possible that groups that had some of these institutions did better than groups that didn’t, allowing these groups (and therefore also these institutions) to dominate (however, group selection in general tends to be rather contentious, so take this with a grain of salt).
+[[70]](#ftnt_ref70) One can also speculate about group selection here, in that it’s possible that groups that had some of these institutions did better than groups that didn’t, allowing these groups (and therefore also these institutions) to dominate (however, group selection in general tends to be rather contentious, so take this with a grain of salt).
 
 [[71]](#ftnt_ref71)  Carl Jung introduced the concept of the collective unconscious to account for the striking similarities in myths and archetypal figures observed across diverse cultures and historical periods. From a memetic perspective, these universal stories and symbols can be seen as the result of convergent memetic evolution. Just as certain biological traits, like eyes, have evolved independently in different lineages due to their adaptive value, certain archetypal stories may emerge repeatedly in different cultures because they resonate with fundamental human experiences and emotions, that is, they “press buttons” that evolution has given us. Essentially, they are stories that are so well-adapted to us that they will survive and spread once they’ve evolved. In this sense, Jung is right to insist that we are genetically endowed with the collective unconscious – it is the dispositions given to us by our genes that make these stories so successful. A similar sentiment is captured by John Steinbeck in East of Eden, where he reflects on the Cain and Abel story: “I think this is the best-known story in the world because it is everybody’s story. I think it is the symbol story of the human soul.”
 
-[[72]](#ftnt_ref72)We may be able to explain differences in morality between different strata in society based on the different memes that flourish there.
+[[72]](#ftnt_ref72) We may be able to explain differences in morality between different strata in society based on the different memes that flourish there.
 
 [[73]](#ftnt_ref73) The French have no philosophy of their own invention. The primary function of French philosophy is to make German philosophy less rigorous and more sexy. This assertion is roughly 30% facetious.
 
@@ -541,13 +541,13 @@ Also… are there old-but-popular things that don’t get labeled “classics”
 
 [[79]](#ftnt_ref79) An interesting pattern is that the sort of semi-religious idealistic radical moralism present in abolitionism is also the motivating strand in the Civil Rights Movement and our current battles over Wokeness (or Social Justice Leftism or whatever you want to call it). Meanwhile, the Progressive Era of the early 20th century, which did much to improve the conditions of Americans economically, did so at the expense of support for racial minorities.
 
-[[80]](#ftnt_ref80)Whilst the rate of forgetting might suggest an equilibrium point, I am sceptical we have reached it.
+[[80]](#ftnt_ref80) Whilst the rate of forgetting might suggest an equilibrium point, I am sceptical we have reached it.
 
 [[81]](#ftnt_ref81) Baker, N. (1988). The Mezzanine. London: Weidenfeld & Nicolson.
 
 [[82]](#ftnt_ref82) Collected in: Baker, N. (1996). The Size of Thoughts: Essays and Other Lumber. New York: Random House.
 
-[[83]](#ftnt_ref83)Or: why is framing effective? and: is the peasant heuristic of distrusting all new information secretly sound?
+[[83]](#ftnt_ref83) Or: why is framing effective? and: is the peasant heuristic of distrusting all new information secretly sound?
 
 [[84]](#ftnt_ref84) The Mezzanine, 13-14. Baker also discusses the process of stapling a piece of paper and correlations between train and stapler aesthetic design.
 
@@ -559,11 +559,11 @@ Also… are there old-but-popular things that don’t get labeled “classics”
 
 [[88]](#ftnt_ref88) Baker, N. (2008). Human Smoke: The Beginnings of World War II, the End of Civilization. New York: Simon and Schuster.
 
-[[89]](#ftnt_ref89)Unless of course one believes the world of morality has the same high degree of internal structure seen in maths or science.
+[[89]](#ftnt_ref89) Unless of course one believes the world of morality has the same high degree of internal structure seen in maths or science.
 
 [[90]](#ftnt_ref90) The Mezzanine, 46-7, describing how many ‘units’ of adult thoughts relative to childish thoughts regarding milk.
 
-[[91]](#ftnt_ref91)The Mezzanine, 58.
+[[91]](#ftnt_ref91) The Mezzanine, 58.
 
 [[92]](#ftnt_ref92) See appendix below.
 
@@ -571,8 +571,8 @@ Also… are there old-but-popular things that don’t get labeled “classics”
 
 [[94]](#ftnt_ref94) See the protagonist applying Meditations to his daily life (125): “Chance found me that day having worked for a living all morning, broken a shoelace, chatted with Tina, urinated successfully in a corporate setting, washed my face, eaten half a bag of popcorn, bought a new set of shoelaces, eaten a hot dog and a cookie with some milk; and chance now found me sitting in the sun on a green bench, with a paperback on my lap. What, philosophically, was I supposed to do with that?” See also his fascination with the (bizarrely depraved?) hobbies of moral philosophers, 121, fn(1) - such as Spinoza’s favorite of dropping flies into spiderwebs and Hobbe’s love of trapping jackdaws with cheese and sticky snares.
 
-[[95]](#ftnt_ref95)For instance, the mediating effect of paradigms, heuristics, tendencies, intuitions, and gestalts, many of which are formed inductively and therefore cannot be easily disaggregated from the thoughts they influence.  
+[[95]](#ftnt_ref95) For instance, the mediating effect of paradigms, heuristics, tendencies, intuitions, and gestalts, many of which are formed inductively and therefore cannot be easily disaggregated from the thoughts they influence.  
 
-[[96]](#ftnt_ref96)What could be termed the ‘rationalist-sage’ model, whereby natural, vanilla humans are trained to be great thinkers capable of directing, creating, destroying, and systematising their thoughts carefully and at great levels of complexity.
+[[96]](#ftnt_ref96) What could be termed the ‘rationalist-sage’ model, whereby natural, vanilla humans are trained to be great thinkers capable of directing, creating, destroying, and systematising their thoughts carefully and at great levels of complexity.
 
 [[97]](#ftnt_ref97) Changes of Mind, 14-15.

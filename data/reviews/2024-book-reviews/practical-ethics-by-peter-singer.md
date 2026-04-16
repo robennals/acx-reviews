@@ -7,8 +7,8 @@ contestName: 2024 Book Reviews
 year: 2024
 publishedDate: '2026-02-06T16:48:20.714Z'
 slug: practical-ethics-by-peter-singer
-wordCount: 20446
-readingTimeMinutes: 91
+wordCount: 20664
+readingTimeMinutes: 92
 originalUrl: >-
   https://docs.google.com/document/d/1cp6iw5OEyDjnD_viZo-KL0Zv4jwQnMXtE4yIovfVAco
 source: gdoc
@@ -95,7 +95,7 @@ What does it mean to be ethical? Almost all philosophers and teachers have agree
 
 And so we arrive at preference utilitarianism: everyone’s equal-strength preference counts for equal moral weight. Any further moral claims of rights or duties or specific rules (or that “pleasure” is more important than “preference-satisfaction”) will require substantial further argument. Without such a convincing argument, we are preference utilitarians by default.
 
-Why doesn’t this work? The problem is that Singer surveys the conclusions of a whole array of different thinkers, and finds a general pattern while ignoring the details. He then takes that pattern as a starting point. But it’s not a starting point; it’s something that features, to a greater or lesser extent, in the conclusions of many different theories (that were built on many different starting points). And he uses this “starting point” to derive a minimal theory that is entirely inconsistent with manyof the theories from which he derived the starting point!
+Why doesn’t this work? The problem is that Singer surveys the conclusions of a whole array of different thinkers, and finds a general pattern while ignoring the details. He then takes that pattern as a starting point. But it’s not a starting point; it’s something that features, to a greater or lesser extent, in the conclusions of many different theories (that were built on many different starting points). And he uses this “starting point” to derive a minimal theory that is entirely inconsistent with many of the theories from which he derived the starting point!
 
 As an analogy: imagine four people inspect a tablecloth that I can’t see. One person, who has bad vision, reports a vague dark red color. Another reports a mixture of light red and dark red, while only looking at one corner of it. A third examines the whole cloth briefly, and reports a mix of red and green. And a fourth reports a mix of red, green and blue. I then reason “the one thing everyone agrees on is that the cloth is in some sense red, thus the minimal and parsimonious starting point should be that the entire table cloth is one color: a middle shade of red”. This is obviously absurd. I’ve “derived” a conclusion that is inconsistent with all of the reports. Even if a fifth person saw only the middle shade of red, my conclusion doesn’t follow. And I struggle to see how this isn’t exactly what Singer has done here.
 
@@ -271,7 +271,7 @@ In the second part of this chapter, Singer decides to become a philosopher again
 
 First, he makes the same mistake I addressed in the previous section, by claiming that both the Total View and the Prior Existence View prohibit the killing of (relatively happy) merely-conscious life. I won’t revisit the problems with that. The only difference he recognizes between the views is that the Total View allows that killing to be canceled out by bringing a new happy being into existence. Thus he takes the Prior Existence Views as being tougher on killing (when I think it should be the other way around, as discussed), and spends the rest of the chapter examining the supposedly more lenient Total View.
 
-The main application of the Total View is what he calls the Replaceability Argument: that if some animal is merely-conscious (not a person), and if by farming this animal for meat we would have the means to create many more of them in the process, it could be right to do so (provided they are killed painlessly). The loss of one happy animal can be replaced by the creation of another. He equivocates a bit on whether this argument justifies any killing where the animals willbe replaced, or only where they’ll be more than replaced (made economically possible by the meat commerce). But perhaps on a strict utilitarianism, where there is exactly one morally correct course of action, it’s only the second case that’s justified.
+The main application of the Total View is what he calls the Replaceability Argument: that if some animal is merely-conscious (not a person), and if by farming this animal for meat we would have the means to create many more of them in the process, it could be right to do so (provided they are killed painlessly). The loss of one happy animal can be replaced by the creation of another. He equivocates a bit on whether this argument justifies any killing where the animals will be replaced, or only where they’ll be more than replaced (made economically possible by the meat commerce). But perhaps on a strict utilitarianism, where there is exactly one morally correct course of action, it’s only the second case that’s justified.
 
 So regarding merely-conscious animals, Singer says the Prior Existence View does not allow killing (mistakenly in my view) while the Total View (in some circumstances) does. He then discusses which view is preferable, concluding via several thought experiments that only the Total View properly supports our intuitions about the wrongness of deliberately creating less-than-maximally-happy-given-the-circumstances human life.
 
@@ -476,6 +476,8 @@ I have nothing to object to in this chapter. Singer provides one selfless accoun
 
 If you’ve made it through Part 2, congratulations! And if you’ve skipped Part 2 as suggested in the introduction…hi.
 
+![](https://acximages.ennals.org/images/2024-book-reviews/1919b985a655d375.png)
+
 In the first chapter, Singer gave a tentative argument for preference utilitarianism. He also pledged to consider other moral theories as well, but didn’t always live up to this. In the second chapter, he derived the Principle of Equal Consideration of Interests, arguing that this requires us to treat all like interests equally, no matter the race, sex, intelligence, or other characteristic of the holder of that interest. On the basis of this principle, it doesn’t largely matter whether there are innate differences between races or other groups: what matters is maximizing the satisfaction of interests. This may sometimes require meritocracy and may sometimes require affirmative action, and which one will depend solely on cost-benefit calculations regarding these policies’ effect on society.
 
 In the third chapter he extended the principle to animals, arguing most treatment of them inflicts unjustifiable suffering and disregard for their interests. In the fourth chapter, he examined the moral significance of taking life, concluding that killing persons (rational, self-aware beings) is particularly bad whether one accepts either form of utilitarianism, or theories of rights or autonomy that focus on acts rather than consequences (the moral theories based on having good character, known as virtue ethics, are almost completely absent from this book). He argued in the fifth chapter that many animals are persons, and should not be killed. Meanwhile, the killing of merely-conscious animals will depend on whether one adopts the Total View (that pleasure or preference-satisfaction should be maximized across the universe) or the Prior Existence View (that those things should be maximized only in beings that already exist). He tentatively opted for the Total View, which implies that killing animals who aren’t persons is wrong unless they are replaced by similar animals with as much or more happiness. He also strongly equivocated between hedonistic and preference utilitarianism in this section, and encountered some disturbing implications of his preference view when pushed to the extreme, that he isn’t quite sure how to deal with.
@@ -490,33 +492,33 @@ So your acceptance of Singer’s ethics will depend on a number of choices. Whic
 
 * * *
 
-[[1]](#ftnt_ref1)[https://jackson.yale.edu/person/rory-stewart/](https://jackson.yale.edu/person/rory-stewart/)
+[[1]](#ftnt_ref1) [https://jackson.yale.edu/person/rory-stewart/](https://jackson.yale.edu/person/rory-stewart/)
 
-[[2]](#ftnt_ref2)[https://www.samharris.org/podcasts/making-sense-episodes/352-hubris-chaos](https://www.samharris.org/podcasts/making-sense-episodes/352-hubris-chaos)
+[[2]](#ftnt_ref2) [https://www.samharris.org/podcasts/making-sense-episodes/352-hubris-chaos](https://www.samharris.org/podcasts/making-sense-episodes/352-hubris-chaos)
 
-[[3]](#ftnt_ref3)[https://www.samharris.org/podcasts/making-sense-episodes/356-islam-freedom](https://www.samharris.org/podcasts/making-sense-episodes/356-islam-freedom); my transcription, starting at 00:03:35
+[[3]](#ftnt_ref3) [https://www.samharris.org/podcasts/making-sense-episodes/356-islam-freedom](https://www.samharris.org/podcasts/making-sense-episodes/356-islam-freedom); my transcription, starting at 00:03:35
 
-[[4]](#ftnt_ref4)[https://alastaircampbell.org/2024/02/58-humza-yousaf-first-minister-of-scotland-nicola-sturgeon-independence-and-his-familys-escape-from-gaza/](https://alastaircampbell.org/2024/02/58-humza-yousaf-first-minister-of-scotland-nicola-sturgeon-independence-and-his-familys-escape-from-gaza/); my transcription, starting at 00:14:45
+[[4]](#ftnt_ref4) [https://alastaircampbell.org/2024/02/58-humza-yousaf-first-minister-of-scotland-nicola-sturgeon-independence-and-his-familys-escape-from-gaza/](https://alastaircampbell.org/2024/02/58-humza-yousaf-first-minister-of-scotland-nicola-sturgeon-independence-and-his-familys-escape-from-gaza/); my transcription, starting at 00:14:45
 
-[[5]](#ftnt_ref5)[https://www.samharris.org/podcasts/making-sense-episodes/353-race-reason](https://www.samharris.org/podcasts/making-sense-episodes/353-race-reason); my transcription, starting at 00:05:05
+[[5]](#ftnt_ref5) [https://www.samharris.org/podcasts/making-sense-episodes/353-race-reason](https://www.samharris.org/podcasts/making-sense-episodes/353-race-reason); my transcription, starting at 00:05:05
 
-[[6]](#ftnt_ref6)[https://www.samharris.org/podcasts/making-sense-episodes/353-race-reason](https://www.samharris.org/podcasts/making-sense-episodes/353-race-reason); my transcription, starting at 00:05:30
+[[6]](#ftnt_ref6) [https://www.samharris.org/podcasts/making-sense-episodes/353-race-reason](https://www.samharris.org/podcasts/making-sense-episodes/353-race-reason); my transcription, starting at 00:05:30
 
-[[7]](#ftnt_ref7)[https://www.samharris.org/podcasts/making-sense-episodes/353-race-reason](https://www.samharris.org/podcasts/making-sense-episodes/353-race-reason); my transcription, starting at 00:06:28
+[[7]](#ftnt_ref7) [https://www.samharris.org/podcasts/making-sense-episodes/353-race-reason](https://www.samharris.org/podcasts/making-sense-episodes/353-race-reason); my transcription, starting at 00:06:28
 
-[[8]](#ftnt_ref8)[https://www.samharris.org/podcasts/making-sense-episodes/356-islam-freedom](https://www.harrisharris.org/podcasts/making-sense-episodes/356-islam-freedom); my transcription, starting at 00:04:54
+[[8]](#ftnt_ref8) [https://www.samharris.org/podcasts/making-sense-episodes/356-islam-freedom](https://www.harrisharris.org/podcasts/making-sense-episodes/356-islam-freedom); my transcription, starting at 00:04:54
 
-[[9]](#ftnt_ref9)[https://www.samharris.org/podcasts/making-sense-episodes/356-islam-freedom](https://www.harrisharris.org/podcasts/making-sense-episodes/356-islam-freedom); my transcription, starting at 00:10:53
+[[9]](#ftnt_ref9) [https://www.samharris.org/podcasts/making-sense-episodes/356-islam-freedom](https://www.harrisharris.org/podcasts/making-sense-episodes/356-islam-freedom); my transcription, starting at 00:10:53
 
-[[10]](#ftnt_ref10)[https://www.samharris.org/podcasts/making-sense-episodes/356-islam-freedom](https://www.samharris.org/podcasts/making-sense-episodes/356-islam-freedom); my transcription, starting at 00:11:35
+[[10]](#ftnt_ref10) [https://www.samharris.org/podcasts/making-sense-episodes/356-islam-freedom](https://www.samharris.org/podcasts/making-sense-episodes/356-islam-freedom); my transcription, starting at 00:11:35
 
-[[11]](#ftnt_ref11)[https://www.samharris.org/podcasts/making-sense-episodes/356-islam-freedom](https://www.samharris.org/podcasts/making-sense-episodes/356-islam-freedom)
+[[11]](#ftnt_ref11) [https://www.samharris.org/podcasts/making-sense-episodes/356-islam-freedom](https://www.samharris.org/podcasts/making-sense-episodes/356-islam-freedom)
 
-[[12]](#ftnt_ref12)[https://www.samharris.org/podcasts/making-sense-episodes/352-hubris-chaos](https://www.samharris.org/podcasts/making-sense-episodes/352-hubris-chaos)
+[[12]](#ftnt_ref12) [https://www.samharris.org/podcasts/making-sense-episodes/352-hubris-chaos](https://www.samharris.org/podcasts/making-sense-episodes/352-hubris-chaos)
 
-[[13]](#ftnt_ref13)[https://www.samharris.org/podcasts/making-sense-episodes/356-islam-freedom](https://www.samharris.org/podcasts/making-sense-episodes/356-islam-freedom); my transcription, starting at 00:04:18
+[[13]](#ftnt_ref13) [https://www.samharris.org/podcasts/making-sense-episodes/356-islam-freedom](https://www.samharris.org/podcasts/making-sense-episodes/356-islam-freedom); my transcription, starting at 00:04:18
 
-[[14]](#ftnt_ref14)[https://www.samharris.org/podcasts/making-sense-episodes/356-islam-freedom](https://www.harrisharris.org/podcasts/making-sense-episodes/356-islam-freedom); my transcription, starting at 00:08:29
+[[14]](#ftnt_ref14) [https://www.samharris.org/podcasts/making-sense-episodes/356-islam-freedom](https://www.harrisharris.org/podcasts/making-sense-episodes/356-islam-freedom); my transcription, starting at 00:08:29
 
 [[15]](#ftnt_ref15) Gordon Wood, 2004. The Americanization of Benjamin Franklin. Penguin Books; p. 195
 
@@ -530,107 +532,107 @@ So your acceptance of Singer’s ethics will depend on a number of choices. Whic
 
 [[20]](#ftnt_ref20) Sam Harris, 2010. The Moral Landscape: How Science Can Determine Human Values. Free Press
 
-[[21]](#ftnt_ref21)The Moral Landscape, p. 2
+[[21]](#ftnt_ref21) The Moral Landscape, p. 2
 
-[[22]](#ftnt_ref22)Letter to a Christian Nation, p. 5
+[[22]](#ftnt_ref22) Letter to a Christian Nation, p. 5
 
-[[23]](#ftnt_ref23)Letter to a Christian Nation, p. 63; italics original
+[[23]](#ftnt_ref23) Letter to a Christian Nation, p. 63; italics original
 
-[[24]](#ftnt_ref24)Letter to a Christian Nation, p. 90
+[[24]](#ftnt_ref24) Letter to a Christian Nation, p. 90
 
 [[25]](#ftnt_ref25) Steven Pinker, 2021. Rationality: What It Is, Why, It Seems Scarce, Why It Matters. Viking; p. 301
 
-[[26]](#ftnt_ref26)The Moral Landscape, p. 10
+[[26]](#ftnt_ref26) The Moral Landscape, p. 10
 
-[[27]](#ftnt_ref27)Rationality, p. 299–300
+[[27]](#ftnt_ref27) Rationality, p. 299–300
 
-[[28]](#ftnt_ref28)[https://xkcd.com/2536/](https://xkcd.com/2536/)
+[[28]](#ftnt_ref28) [https://xkcd.com/2536/](https://xkcd.com/2536/)
 
-[[29]](#ftnt_ref29)[https://news.gallup.com/poll/21814/Evolution-Creationism-Intelligent-Design.aspx](https://news.gallup.com/poll/21814/Evolution-Creationism-Intelligent-Design.aspx)
+[[29]](#ftnt_ref29) [https://news.gallup.com/poll/21814/Evolution-Creationism-Intelligent-Design.aspx](https://news.gallup.com/poll/21814/Evolution-Creationism-Intelligent-Design.aspx)
 
-[[30]](#ftnt_ref30)[https://www.pewresearch.org/religion/2019/02/06/the-evolution-of-pew-research-centers-survey-questions-about-the-origins-and-development-of-life-on-earth/](https://www.pewresearch.org/religion/2019/02/06/the-evolution-of-pew-research-centers-survey-questions-about-the-origins-and-development-of-life-on-earth/)
+[[30]](#ftnt_ref30) [https://www.pewresearch.org/religion/2019/02/06/the-evolution-of-pew-research-centers-survey-questions-about-the-origins-and-development-of-life-on-earth/](https://www.pewresearch.org/religion/2019/02/06/the-evolution-of-pew-research-centers-survey-questions-about-the-origins-and-development-of-life-on-earth/)
 
-[[31]](#ftnt_ref31)[https://www.pewresearch.org/science/2015/10/22/perception-of-conflict-between-science-and-religion/](https://www.pewresearch.org/science/2015/10/22/perception-of-conflict-between-science-and-religion/)
+[[31]](#ftnt_ref31) [https://www.pewresearch.org/science/2015/10/22/perception-of-conflict-between-science-and-religion/](https://www.pewresearch.org/science/2015/10/22/perception-of-conflict-between-science-and-religion/)
 
-[[32]](#ftnt_ref32)[https://www.pewresearch.org/science/2015/10/22/science-and-religion/](https://www.pewresearch.org/science/2015/10/22/science-and-religion/); italics original
+[[32]](#ftnt_ref32) [https://www.pewresearch.org/science/2015/10/22/science-and-religion/](https://www.pewresearch.org/science/2015/10/22/science-and-religion/); italics original
 
-[[33]](#ftnt_ref33)[https://www.templeton.org/grant/religious-understandings-of-science](https://www.templeton.org/grant/religious-understandings-of-science)
+[[33]](#ftnt_ref33) [https://www.templeton.org/grant/religious-understandings-of-science](https://www.templeton.org/grant/religious-understandings-of-science)
 
-[[34]](#ftnt_ref34)[https://www.aaas.org/sites/default/files/content\_files/RU\_AAASPresentationNotes\_2014\_0219%20%281%29.pdf](https://www.aaas.org/sites/default/files/content_files/RU_AAASPresentationNotes_2014_0219%20%281%29.pdf)
+[[34]](#ftnt_ref34) [https://www.aaas.org/sites/default/files/content\_files/RU\_AAASPresentationNotes\_2014\_0219%20%281%29.pdf](https://www.aaas.org/sites/default/files/content_files/RU_AAASPresentationNotes_2014_0219%20%281%29.pdf)
 
-[[35]](#ftnt_ref35)[https://www.samharris.org/podcasts/making-sense-episodes/70-beauty-terror](https://www.samharris.org/podcasts/making-sense-episodes/70-beauty-terror); my transcription, starting at 00:25:20
+[[35]](#ftnt_ref35) [https://www.samharris.org/podcasts/making-sense-episodes/70-beauty-terror](https://www.samharris.org/podcasts/making-sense-episodes/70-beauty-terror); my transcription, starting at 00:25:20
 
-[[36]](#ftnt_ref36)The Moral Landscape, p. 176; italics original
+[[36]](#ftnt_ref36) The Moral Landscape, p. 176; italics original
 
-[[37]](#ftnt_ref37)[https://www.samharris.org/podcasts/making-sense-episodes/201-may-1-2020](https://www.samharris.org/podcasts/making-sense-episodes/201-may-1-2020); my transcription, starting at 00:32:10
+[[37]](#ftnt_ref37) [https://www.samharris.org/podcasts/making-sense-episodes/201-may-1-2020](https://www.samharris.org/podcasts/making-sense-episodes/201-may-1-2020); my transcription, starting at 00:32:10
 
-[[38]](#ftnt_ref38)[https://andrewsullivan.substack.com/p/david-goodhart-on-overvaluing-smarts](https://andrewsullivan.substack.com/p/david-goodhart-on-overvaluing-smarts); my transcription, starting at 01:15:23
+[[38]](#ftnt_ref38) [https://andrewsullivan.substack.com/p/david-goodhart-on-overvaluing-smarts](https://andrewsullivan.substack.com/p/david-goodhart-on-overvaluing-smarts); my transcription, starting at 01:15:23
 
-[[39]](#ftnt_ref39)Letter to a Christian Nation, p. 48
+[[39]](#ftnt_ref39) Letter to a Christian Nation, p. 48
 
-[[40]](#ftnt_ref40)Letter to a Christian Nation, p. ix
+[[40]](#ftnt_ref40) Letter to a Christian Nation, p. ix
 
-[[41]](#ftnt_ref41)Letter to a Christian Nation, p. 88
+[[41]](#ftnt_ref41) Letter to a Christian Nation, p. 88
 
-[[42]](#ftnt_ref42)Waking Up, p. 201; italics original
+[[42]](#ftnt_ref42) Waking Up, p. 201; italics original
 
-[[43]](#ftnt_ref43)[https://www.pewresearch.org/religion/2021/11/23/views-on-the-afterlife/](https://www.pewresearch.org/religion/2021/11/23/views-on-the-afterlife/)
+[[43]](#ftnt_ref43) [https://www.pewresearch.org/religion/2021/11/23/views-on-the-afterlife/](https://www.pewresearch.org/religion/2021/11/23/views-on-the-afterlife/)
 
-[[44]](#ftnt_ref44)Lying, p. 2
+[[44]](#ftnt_ref44) Lying, p. 2
 
-[[45]](#ftnt_ref45)Lying, p. 47
+[[45]](#ftnt_ref45) Lying, p. 47
 
-[[46]](#ftnt_ref46)Waking Up, p. 164–165
+[[46]](#ftnt_ref46) Waking Up, p. 164–165
 
-[[47]](#ftnt_ref47)Lying, p. 13
+[[47]](#ftnt_ref47) Lying, p. 13
 
-[[48]](#ftnt_ref48)Lying, p. 32
+[[48]](#ftnt_ref48) Lying, p. 32
 
-[[49]](#ftnt_ref49)Lying, p. 33–34
+[[49]](#ftnt_ref49) Lying, p. 33–34
 
-[[50]](#ftnt_ref50)Lying, p. 14
+[[50]](#ftnt_ref50) Lying, p. 14
 
-[[51]](#ftnt_ref51)[https://www.psychologytoday.com/us/basics/agreeableness](https://www.psychologytoday.com/us/basics/agreeableness)
+[[51]](#ftnt_ref51) [https://www.psychologytoday.com/us/basics/agreeableness](https://www.psychologytoday.com/us/basics/agreeableness)
 
-[[52]](#ftnt_ref52)[https://youtu.be/C6BYzLIqKB8?si=sUQrRaTg6gwwAoPq](https://youtu.be/C6BYzLIqKB8?si=sUQrRaTg6gwwAoPq)
+[[52]](#ftnt_ref52) [https://youtu.be/C6BYzLIqKB8?si=sUQrRaTg6gwwAoPq](https://youtu.be/C6BYzLIqKB8?si=sUQrRaTg6gwwAoPq)
 
-[[53]](#ftnt_ref53)Lying, p. 15
+[[53]](#ftnt_ref53) Lying, p. 15
 
-[[54]](#ftnt_ref54)Lying, p. 47
+[[54]](#ftnt_ref54) Lying, p. 47
 
-[[55]](#ftnt_ref55)Lying, p. 16
+[[55]](#ftnt_ref55) Lying, p. 16
 
-[[56]](#ftnt_ref56)Lying, p. 17
+[[56]](#ftnt_ref56) Lying, p. 17
 
-[[57]](#ftnt_ref57)[https://www.theonion.com/female-friends-spend-raucous-night-validating-the-livin-1819573315](https://www.theonion.com/female-friends-spend-raucous-night-validating-the-livin-1819573315)
+[[57]](#ftnt_ref57) [https://www.theonion.com/female-friends-spend-raucous-night-validating-the-livin-1819573315](https://www.theonion.com/female-friends-spend-raucous-night-validating-the-livin-1819573315)
 
 [[58]](#ftnt_ref58) Tim McGrath, 2020. James Monroe: A Life. Dutton; p. 370
 
-[[59]](#ftnt_ref59)Lying, p. 8
+[[59]](#ftnt_ref59) Lying, p. 8
 
-[[60]](#ftnt_ref60)Lying, p. 15
+[[60]](#ftnt_ref60) Lying, p. 15
 
-[[61]](#ftnt_ref61)Lying, p. 16
+[[61]](#ftnt_ref61) Lying, p. 16
 
-[[62]](#ftnt_ref62)[https://youtu.be/XNxG2PBVMlI?t=120](https://youtu.be/XNxG2PBVMlI?t=120); my transcription
+[[62]](#ftnt_ref62) [https://youtu.be/XNxG2PBVMlI?t=120](https://youtu.be/XNxG2PBVMlI?t=120); my transcription
 
-[[63]](#ftnt_ref63)[https://www.astralcodexten.com/p/explicit-honesty](https://www.astralcodexten.com/p/explicit-honesty)
+[[63]](#ftnt_ref63) [https://www.astralcodexten.com/p/explicit-honesty](https://www.astralcodexten.com/p/explicit-honesty)
 
-[[64]](#ftnt_ref64)[https://twitter.com/sapinker/status/1776248767563678088](https://twitter.com/sapinker/status/1776248767563678088)
+[[64]](#ftnt_ref64) [https://twitter.com/sapinker/status/1776248767563678088](https://twitter.com/sapinker/status/1776248767563678088)
 
-[[65]](#ftnt_ref65)Lying, p. 32–33
+[[65]](#ftnt_ref65) Lying, p. 32–33
 
-[[66]](#ftnt_ref66)Lying, p. 15
+[[66]](#ftnt_ref66) Lying, p. 15
 
-[[67]](#ftnt_ref67)Waking Up, p. 9
+[[67]](#ftnt_ref67) Waking Up, p. 9
 
 [[68]](#ftnt_ref68) Donald S. Lopez Jr., ed., 1995. Religions of India in Practice. Princeton University Press.
 
-[[69]](#ftnt_ref69)Waking Up, p. 62
+[[69]](#ftnt_ref69) Waking Up, p. 62
 
-[[70]](#ftnt_ref70)Waking Up, p. 82
+[[70]](#ftnt_ref70) Waking Up, p. 82
 
-[[71]](#ftnt_ref71)[https://www.britannica.com/topic/anatta](https://www.britannica.com/topic/anatta)
+[[71]](#ftnt_ref71) [https://www.britannica.com/topic/anatta](https://www.britannica.com/topic/anatta)
 
 [[72]](#ftnt_ref72) Joseph Goldstein, 2016. Mindfulness: A Practical Guide to Awakening. Sounds True; p. 338; brackets original
 
@@ -638,309 +640,309 @@ So your acceptance of Singer’s ethics will depend on a number of choices. Whic
 
 [[74]](#ftnt_ref74) Kevin Mitchell, 2023. Free Agents: How Evolution Gave Us Free Will. Princeton University Press; p. 264–265
 
-[[75]](#ftnt_ref75)Waking Up, p. 104
+[[75]](#ftnt_ref75) Waking Up, p. 104
 
-[[76]](#ftnt_ref76)Waking Up, p. 92; italics original
+[[76]](#ftnt_ref76) Waking Up, p. 92; italics original
 
-[[77]](#ftnt_ref77)Waking Up, p. 116
+[[77]](#ftnt_ref77) Waking Up, p. 116
 
-[[78]](#ftnt_ref78)Waking Up, p. 127
+[[78]](#ftnt_ref78) Waking Up, p. 127
 
-[[79]](#ftnt_ref79)Waking Up, p. 54
+[[79]](#ftnt_ref79) Waking Up, p. 54
 
-[[80]](#ftnt_ref80)Waking Up, p. 51
+[[80]](#ftnt_ref80) Waking Up, p. 51
 
-[[81]](#ftnt_ref81)Waking Up, p. 51
+[[81]](#ftnt_ref81) Waking Up, p. 51
 
-[[82]](#ftnt_ref82)Waking Up, p. 204–205; italics original
+[[82]](#ftnt_ref82) Waking Up, p. 204–205; italics original
 
-[[83]](#ftnt_ref83)Waking Up, p. 52
+[[83]](#ftnt_ref83) Waking Up, p. 52
 
 [[84]](#ftnt_ref84) Steven Pinker, 1997. How the Mind Works. Norton; p. 134–148
 
-[[85]](#ftnt_ref85)Free Agents, p. 26; italics original
+[[85]](#ftnt_ref85) Free Agents, p. 26; italics original
 
-[[86]](#ftnt_ref86)How the Mind Works, p. 263
+[[86]](#ftnt_ref86) How the Mind Works, p. 263
 
-[[87]](#ftnt_ref87)Waking Up, p. 56
+[[87]](#ftnt_ref87) Waking Up, p. 56
 
-[[88]](#ftnt_ref88)Waking Up, p. 56
+[[88]](#ftnt_ref88) Waking Up, p. 56
 
-[[89]](#ftnt_ref89)Waking Up, p. 57
+[[89]](#ftnt_ref89) Waking Up, p. 57
 
-[[90]](#ftnt_ref90)Waking Up, p. 59
+[[90]](#ftnt_ref90) Waking Up, p. 59
 
 [[91]](#ftnt_ref91) Richard Dawkins, 1995. River Out of Eden: A Darwinian View of Life. Basic Books; p. 70
 
-[[92]](#ftnt_ref92)Waking Up, p. 51
+[[92]](#ftnt_ref92) Waking Up, p. 51
 
-[[93]](#ftnt_ref93)Waking Up, p. 72–73
+[[93]](#ftnt_ref93) Waking Up, p. 72–73
 
-[[94]](#ftnt_ref94)Free Will, p. 43; italics original
+[[94]](#ftnt_ref94) Free Will, p. 43; italics original
 
 [[95]](#ftnt_ref95) Anil Seth, 2021. Being You: A New Science of Consciousness. Dutton.
 
-[[96]](#ftnt_ref96)Being You, p. 88–89; italics original
+[[96]](#ftnt_ref96) Being You, p. 88–89; italics original
 
-[[97]](#ftnt_ref97)[https://ahdictionary.com/word/search.html?q=hallucination](https://ahdictionary.com/word/search.html?q=hallucination); my italics
+[[97]](#ftnt_ref97) [https://ahdictionary.com/word/search.html?q=hallucination](https://ahdictionary.com/word/search.html?q=hallucination); my italics
 
-[[98]](#ftnt_ref98)Being You, p. 144; italics original
+[[98]](#ftnt_ref98) Being You, p. 144; italics original
 
-[[99]](#ftnt_ref99)Being You, p. 92
+[[99]](#ftnt_ref99) Being You, p. 92
 
-[[100]](#ftnt_ref100)Being You, p. 115
+[[100]](#ftnt_ref100) Being You, p. 115
 
-[[101]](#ftnt_ref101)Being You, p. 98; italics original
+[[101]](#ftnt_ref101) Being You, p. 98; italics original
 
-[[102]](#ftnt_ref102)Waking Up, p. 91
+[[102]](#ftnt_ref102) Waking Up, p. 91
 
-[[103]](#ftnt_ref103)Waking Up, p. 107; italics original
+[[103]](#ftnt_ref103) Waking Up, p. 107; italics original
 
-[[104]](#ftnt_ref104)Free Will, p. 24
+[[104]](#ftnt_ref104) Free Will, p. 24
 
-[[105]](#ftnt_ref105)The World Behind the World, p. 65–66
+[[105]](#ftnt_ref105) The World Behind the World, p. 65–66
 
-[[106]](#ftnt_ref106)Waking Up, p. 83
+[[106]](#ftnt_ref106) Waking Up, p. 83
 
-[[107]](#ftnt_ref107)Waking Up, p. 69
+[[107]](#ftnt_ref107) Waking Up, p. 69
 
-[[108]](#ftnt_ref108)Waking Up, p. 68
+[[108]](#ftnt_ref108) Waking Up, p. 68
 
 [[109]](#ftnt_ref109) Daniel J. Siegel and Chloe Drulis, 2023. Ann Gen Psychiatry. 22: 5. doi: 10.1186/s12991-023-00434-5
 
-[[110]](#ftnt_ref110)Waking Up, p. 72
+[[110]](#ftnt_ref110) Waking Up, p. 72
 
-[[111]](#ftnt_ref111)[https://youtu.be/QkljwY84HyI?si=CyBdg5Wfg-GbJ2ej](https://youtu.be/QkljwY84HyI?si=CyBdg5Wfg-GbJ2ej); my transcription
+[[111]](#ftnt_ref111) [https://youtu.be/QkljwY84HyI?si=CyBdg5Wfg-GbJ2ej](https://youtu.be/QkljwY84HyI?si=CyBdg5Wfg-GbJ2ej); my transcription
 
-[[112]](#ftnt_ref112)Being You, p. 160
+[[112]](#ftnt_ref112) Being You, p. 160
 
-[[113]](#ftnt_ref113)Waking Up, p. 92; italics original
+[[113]](#ftnt_ref113) Waking Up, p. 92; italics original
 
-[[114]](#ftnt_ref114)Being You, p. 160
+[[114]](#ftnt_ref114) Being You, p. 160
 
-[[115]](#ftnt_ref115)[https://naturalism.org/resources/book-reviews/reflections-on-free-will](https://naturalism.org/resources/book-reviews/reflections-on-free-will)
+[[115]](#ftnt_ref115) [https://naturalism.org/resources/book-reviews/reflections-on-free-will](https://naturalism.org/resources/book-reviews/reflections-on-free-will)
 
-[[116]](#ftnt_ref116)How the Mind Works, p. 143–144
+[[116]](#ftnt_ref116) How the Mind Works, p. 143–144
 
-[[117]](#ftnt_ref117)Waking Up, p. 81
+[[117]](#ftnt_ref117) Waking Up, p. 81
 
-[[118]](#ftnt_ref118)Waking Up, p. 83
+[[118]](#ftnt_ref118) Waking Up, p. 83
 
-[[119]](#ftnt_ref119)Waking Up, p. 106; italics original
+[[119]](#ftnt_ref119) Waking Up, p. 106; italics original
 
-[[120]](#ftnt_ref120)Waking Up, p. 90; italics original
+[[120]](#ftnt_ref120) Waking Up, p. 90; italics original
 
-[[121]](#ftnt_ref121)[https://youtu.be/rxt0aOV6I2w?t=243](https://youtu.be/rxt0aOV6I2w?t=243)
+[[121]](#ftnt_ref121) [https://youtu.be/rxt0aOV6I2w?t=243](https://youtu.be/rxt0aOV6I2w?t=243)
 
-[[122]](#ftnt_ref122)[https://nci-media.cancer.gov/pdq/media/images/680415.jpg](https://nci-media.cancer.gov/pdq/media/images/680415.jpg)
+[[122]](#ftnt_ref122) [https://nci-media.cancer.gov/pdq/media/images/680415.jpg](https://nci-media.cancer.gov/pdq/media/images/680415.jpg)
 
-[[123]](#ftnt_ref123)[https://my.clevelandclinic.org/-/scassets/images/org/health/articles/21202-nervous-system](https://my.clevelandclinic.org/-/scassets/images/org/health/articles/21202-nervous-system)
+[[123]](#ftnt_ref123) [https://my.clevelandclinic.org/-/scassets/images/org/health/articles/21202-nervous-system](https://my.clevelandclinic.org/-/scassets/images/org/health/articles/21202-nervous-system)
 
-[[124]](#ftnt_ref124)Free Agents, p. 245; italics original
+[[124]](#ftnt_ref124) Free Agents, p. 245; italics original
 
-[[125]](#ftnt_ref125)The Moral Landscape, p. 227, n. 51
+[[125]](#ftnt_ref125) The Moral Landscape, p. 227, n. 51
 
-[[126]](#ftnt_ref126)[https://www.samharris.org/podcasts/making-sense-episodes/360-we-really-dont-have-free-will](https://www.samharris.org/podcasts/making-sense-episodes/360-we-really-dont-have-free-will); my transcription, starting at 01:54:40
+[[126]](#ftnt_ref126) [https://www.samharris.org/podcasts/making-sense-episodes/360-we-really-dont-have-free-will](https://www.samharris.org/podcasts/making-sense-episodes/360-we-really-dont-have-free-will); my transcription, starting at 01:54:40
 
-[[127]](#ftnt_ref127)Free Will, p. 5; italics original
+[[127]](#ftnt_ref127) Free Will, p. 5; italics original
 
-[[128]](#ftnt_ref128)[https://ahdictionary.com/word/search.html?q=free](https://ahdictionary.com/word/search.html?q=free)
+[[128]](#ftnt_ref128) [https://ahdictionary.com/word/search.html?q=free](https://ahdictionary.com/word/search.html?q=free)
 
-[[129]](#ftnt_ref129)Free Will, p. 18
+[[129]](#ftnt_ref129) Free Will, p. 18
 
-[[130]](#ftnt_ref130)Free Will, p. 39
+[[130]](#ftnt_ref130) Free Will, p. 39
 
-[[131]](#ftnt_ref131)Free Will, p. 13
+[[131]](#ftnt_ref131) Free Will, p. 13
 
-[[132]](#ftnt_ref132)Free Will, p. 34
+[[132]](#ftnt_ref132) Free Will, p. 34
 
 [[133]](#ftnt_ref133) JK Rowling, 1998. Harry Potter and the Chamber of Secrets. Arthur A. Levine Books; p. 335–336; ellipsis original
 
-[[134]](#ftnt_ref134)Free Will, p. 16
+[[134]](#ftnt_ref134) Free Will, p. 16
 
-[[135]](#ftnt_ref135)Free Will, p. 16
+[[135]](#ftnt_ref135) Free Will, p. 16
 
 [[136]](#ftnt_ref136) Gregory W. Graffin, William B. Provine, 2007. “Evolution, Religion and Free Will.” American Scientist, Volume 95, Number 4, Page 294; DOI: 10.1511/2007.66.294
 
 [[137]](#ftnt_ref137) Gregory W. Graffin, William B. Provine, 2007. “Evolution, Religion and Free Will.” American Scientist, Volume 95, Number 4, Page 294; DOI: 10.1511/2007.66.294
 
-[[138]](#ftnt_ref138)[https://www.ahdictionary.com/word/search.html?q=free+will](https://www.ahdictionary.com/word/search.html?q=free+will)
+[[138]](#ftnt_ref138) [https://www.ahdictionary.com/word/search.html?q=free+will](https://www.ahdictionary.com/word/search.html?q=free+will)
 
-[[139]](#ftnt_ref139)Waking Up, p. 90; italics original
+[[139]](#ftnt_ref139) Waking Up, p. 90; italics original
 
-[[140]](#ftnt_ref140)Free Agents, p. 213
+[[140]](#ftnt_ref140) Free Agents, p. 213
 
-[[141]](#ftnt_ref141)Free Agents, p. 212; italics original
+[[141]](#ftnt_ref141) Free Agents, p. 212; italics original
 
-[[142]](#ftnt_ref142)Free Will, p. 61–62
+[[142]](#ftnt_ref142) Free Will, p. 61–62
 
-[[143]](#ftnt_ref143)Free Will, p. 41
+[[143]](#ftnt_ref143) Free Will, p. 41
 
-[[144]](#ftnt_ref144)Free Will, p. 15–26
+[[144]](#ftnt_ref144) Free Will, p. 15–26
 
-[[145]](#ftnt_ref145)[https://youtu.be/vrIw2i4WtA4?t=166](https://youtu.be/vrIw2i4WtA4?t=166); my transcription
+[[145]](#ftnt_ref145) [https://youtu.be/vrIw2i4WtA4?t=166](https://youtu.be/vrIw2i4WtA4?t=166); my transcription
 
 [[146]](#ftnt_ref146) Louis CK, 2008. Chewed Up; my transcription
 
-[[147]](#ftnt_ref147)[https://slate.com/culture/2009/08/alison-gopnik-s-the-philosophical-baby.html](https://slate.com/culture/2009/08/alison-gopnik-s-the-philosophical-baby.html); ellipsis original
+[[147]](#ftnt_ref147) [https://slate.com/culture/2009/08/alison-gopnik-s-the-philosophical-baby.html](https://slate.com/culture/2009/08/alison-gopnik-s-the-philosophical-baby.html); ellipsis original
 
-[[148]](#ftnt_ref148)Free Agents, p. 258; italics original
+[[148]](#ftnt_ref148) Free Agents, p. 258; italics original
 
-[[149]](#ftnt_ref149)The Moral Landscape, p. 83
+[[149]](#ftnt_ref149) The Moral Landscape, p. 83
 
-[[150]](#ftnt_ref150)[https://www.ahdictionary.com/word/search.html?q=will](https://www.ahdictionary.com/word/search.html?q=will)
+[[150]](#ftnt_ref150) [https://www.ahdictionary.com/word/search.html?q=will](https://www.ahdictionary.com/word/search.html?q=will)
 
-[[151]](#ftnt_ref151)[https://youtu.be/vrIw2i4WtA4?t=307](https://youtu.be/vrIw2i4WtA4?t=307); my transcription
+[[151]](#ftnt_ref151) [https://youtu.be/vrIw2i4WtA4?t=307](https://youtu.be/vrIw2i4WtA4?t=307); my transcription
 
-[[152]](#ftnt_ref152)Free Will, p. 58–59
+[[152]](#ftnt_ref152) Free Will, p. 58–59
 
-[[153]](#ftnt_ref153)Free Will, p. 54
+[[153]](#ftnt_ref153) Free Will, p. 54
 
-[[154]](#ftnt_ref154)[https://youtu.be/3MUhNaj4TWA?t=128](https://youtu.be/3MUhNaj4TWA?t=128); my transcription
+[[154]](#ftnt_ref154) [https://youtu.be/3MUhNaj4TWA?t=128](https://youtu.be/3MUhNaj4TWA?t=128); my transcription
 
-[[155]](#ftnt_ref155)[https://www.samharris.org/podcasts/making-sense-episodes/126-defense-honor](https://www.samharris.org/podcasts/making-sense-episodes/126-defense-honor); my transcription, starting at 00:49:05
+[[155]](#ftnt_ref155) [https://www.samharris.org/podcasts/making-sense-episodes/126-defense-honor](https://www.samharris.org/podcasts/making-sense-episodes/126-defense-honor); my transcription, starting at 00:49:05
 
-[[156]](#ftnt_ref156)Free Will, p. 45–46
+[[156]](#ftnt_ref156) Free Will, p. 45–46
 
-[[157]](#ftnt_ref157)Free Will, p. 25; italics original
+[[157]](#ftnt_ref157) Free Will, p. 25; italics original
 
-[[158]](#ftnt_ref158)Free Will, p. 6
+[[158]](#ftnt_ref158) Free Will, p. 6
 
-[[159]](#ftnt_ref159)Free Will, p. 17; italics original
+[[159]](#ftnt_ref159) Free Will, p. 17; italics original
 
-[[160]](#ftnt_ref160)Free Will, p. 17
+[[160]](#ftnt_ref160) Free Will, p. 17
 
-[[161]](#ftnt_ref161)Free Will, p. 5–6
+[[161]](#ftnt_ref161) Free Will, p. 5–6
 
-[[162]](#ftnt_ref162)Free Will, p. 29–30
+[[162]](#ftnt_ref162) Free Will, p. 29–30
 
-[[163]](#ftnt_ref163)Free Will, p. 40
+[[163]](#ftnt_ref163) Free Will, p. 40
 
-[[164]](#ftnt_ref164)[https://www.samharris.org/podcasts/making-sense-episodes/360-we-really-dont-have-free-will](https://www.samharris.org/podcasts/making-sense-episodes/360-we-really-dont-have-free-will); my transcription, starting at 00:36:15
+[[164]](#ftnt_ref164) [https://www.samharris.org/podcasts/making-sense-episodes/360-we-really-dont-have-free-will](https://www.samharris.org/podcasts/making-sense-episodes/360-we-really-dont-have-free-will); my transcription, starting at 00:36:15
 
-[[165]](#ftnt_ref165)[https://www.samharris.org/podcasts/making-sense-episodes/360-we-really-dont-have-free-will](https://www.samharris.org/podcasts/making-sense-episodes/360-we-really-dont-have-free-will); my transcription, starting at 00:23:10
+[[165]](#ftnt_ref165) [https://www.samharris.org/podcasts/making-sense-episodes/360-we-really-dont-have-free-will](https://www.samharris.org/podcasts/making-sense-episodes/360-we-really-dont-have-free-will); my transcription, starting at 00:23:10
 
-[[166]](#ftnt_ref166)[https://twitter.com/GaryLineker/status/1598420440095289346?lang=en](https://twitter.com/GaryLineker/status/1598420440095289346?lang=en)
+[[166]](#ftnt_ref166) [https://twitter.com/GaryLineker/status/1598420440095289346?lang=en](https://twitter.com/GaryLineker/status/1598420440095289346?lang=en)
 
 [[167]](#ftnt_ref167) FA Azevedo, et al., 2009. “Equal numbers of neuronal and nonneuronal cells make the human brain an isometrically scaled-up primate brain.” J Comp Neurol 513, 532–541
 
-[[168]](#ftnt_ref168)Free Agents, p. 193; italics original
+[[168]](#ftnt_ref168) Free Agents, p. 193; italics original
 
 [[169]](#ftnt_ref169) Richard Dawkins, 1999. The Extended Phenotype, revised edition (first published 1982). Oxford University Press; p. 14–15
 
-[[170]](#ftnt_ref170)Free Will, p. 6–7; italics original
+[[170]](#ftnt_ref170) Free Will, p. 6–7; italics original
 
-[[171]](#ftnt_ref171)The Moral Landscape, p. 127–128
+[[171]](#ftnt_ref171) The Moral Landscape, p. 127–128
 
-[[172]](#ftnt_ref172)Free Will, p. 7–8
+[[172]](#ftnt_ref172) Free Will, p. 7–8
 
-[[173]](#ftnt_ref173)Free Will, p. 43–44
+[[173]](#ftnt_ref173) Free Will, p. 43–44
 
-[[174]](#ftnt_ref174)Free Will, p. 37–38; italics original
+[[174]](#ftnt_ref174) Free Will, p. 37–38; italics original
 
-[[175]](#ftnt_ref175)Free Will, p. 9
+[[175]](#ftnt_ref175) Free Will, p. 9
 
-[[176]](#ftnt_ref176)Free Will, p. 9
+[[176]](#ftnt_ref176) Free Will, p. 9
 
-[[177]](#ftnt_ref177)[https://naturalism.org/resources/book-reviews/reflections-on-free-will](https://naturalism.org/resources/book-reviews/reflections-on-free-will)
+[[177]](#ftnt_ref177) [https://naturalism.org/resources/book-reviews/reflections-on-free-will](https://naturalism.org/resources/book-reviews/reflections-on-free-will)
 
-[[178]](#ftnt_ref178)Free Will, p. 32; italics original
+[[178]](#ftnt_ref178) Free Will, p. 32; italics original
 
-[[179]](#ftnt_ref179)Free Will, p. 39; italics original
+[[179]](#ftnt_ref179) Free Will, p. 39; italics original
 
-[[180]](#ftnt_ref180)Free Will, p. 47
+[[180]](#ftnt_ref180) Free Will, p. 47
 
-[[181]](#ftnt_ref181)Free Will, p. 32–33
+[[181]](#ftnt_ref181) Free Will, p. 32–33
 
-[[182]](#ftnt_ref182)Free Will, p. 34
+[[182]](#ftnt_ref182) Free Will, p. 34
 
-[[183]](#ftnt_ref183)Free Will, p. 42
+[[183]](#ftnt_ref183) Free Will, p. 42
 
-[[184]](#ftnt_ref184)Free Will, p. 62–63
+[[184]](#ftnt_ref184) Free Will, p. 62–63
 
-[[185]](#ftnt_ref185)[https://www.theparisreview.org/blog/2022/04/22/we-need-the-eggs/](https://www.theparisreview.org/blog/2022/04/22/we-need-the-eggs/)
+[[185]](#ftnt_ref185) [https://www.theparisreview.org/blog/2022/04/22/we-need-the-eggs/](https://www.theparisreview.org/blog/2022/04/22/we-need-the-eggs/)
 
-[[186]](#ftnt_ref186)Free Will, p. 45
+[[186]](#ftnt_ref186) Free Will, p. 45
 
-[[187]](#ftnt_ref187)Free Will, p. 46
+[[187]](#ftnt_ref187) Free Will, p. 46
 
-[[188]](#ftnt_ref188)Free Will, p. 33–34
+[[188]](#ftnt_ref188) Free Will, p. 33–34
 
-[[189]](#ftnt_ref189)The World Behind the World, p. 195
+[[189]](#ftnt_ref189) The World Behind the World, p. 195
 
-[[190]](#ftnt_ref190)[https://www.theatlantic.com/family/archive/2021/09/soul-mates-love-destiny/620014/](https://www.theatlantic.com/family/archive/2021/09/soul-mates-love-destiny/620014/)
+[[190]](#ftnt_ref190) [https://www.theatlantic.com/family/archive/2021/09/soul-mates-love-destiny/620014/](https://www.theatlantic.com/family/archive/2021/09/soul-mates-love-destiny/620014/)
 
-[[191]](#ftnt_ref191)[https://www.samharris.org/podcasts/making-sense-episodes/360-we-really-dont-have-free-will](https://www.samharris.org/podcasts/making-sense-episodes/360-we-really-dont-have-free-will); my transcription, starting at 00:02:00
+[[191]](#ftnt_ref191) [https://www.samharris.org/podcasts/making-sense-episodes/360-we-really-dont-have-free-will](https://www.samharris.org/podcasts/making-sense-episodes/360-we-really-dont-have-free-will); my transcription, starting at 00:02:00
 
-[[192]](#ftnt_ref192)[https://www.samharris.org/podcasts/making-sense-episodes/360-we-really-dont-have-free-will](https://www.samharris.org/podcasts/making-sense-episodes/360-we-really-dont-have-free-will); my transcription, starting at 01:47:35
+[[192]](#ftnt_ref192) [https://www.samharris.org/podcasts/making-sense-episodes/360-we-really-dont-have-free-will](https://www.samharris.org/podcasts/making-sense-episodes/360-we-really-dont-have-free-will); my transcription, starting at 01:47:35
 
-[[193]](#ftnt_ref193)[https://www.samharris.org/podcasts/making-sense-episodes/360-we-really-dont-have-free-will](https://www.samharris.org/podcasts/making-sense-episodes/360-we-really-dont-have-free-will); my transcription, starting at 01:48:50
+[[193]](#ftnt_ref193) [https://www.samharris.org/podcasts/making-sense-episodes/360-we-really-dont-have-free-will](https://www.samharris.org/podcasts/making-sense-episodes/360-we-really-dont-have-free-will); my transcription, starting at 01:48:50
 
-[[194]](#ftnt_ref194)[https://www.samharris.org/podcasts/making-sense-episodes/360-we-really-dont-have-free-will](https://www.samharris.org/podcasts/making-sense-episodes/360-we-really-dont-have-free-will); my transcription, starting at 00:04:46
+[[194]](#ftnt_ref194) [https://www.samharris.org/podcasts/making-sense-episodes/360-we-really-dont-have-free-will](https://www.samharris.org/podcasts/making-sense-episodes/360-we-really-dont-have-free-will); my transcription, starting at 00:04:46
 
-[[195]](#ftnt_ref195)[https://www.samharris.org/podcasts/making-sense-episodes/360-we-really-dont-have-free-will](https://www.samharris.org/podcasts/making-sense-episodes/360-we-really-dont-have-free-will); my transcription, starting at 01:52:32
+[[195]](#ftnt_ref195) [https://www.samharris.org/podcasts/making-sense-episodes/360-we-really-dont-have-free-will](https://www.samharris.org/podcasts/making-sense-episodes/360-we-really-dont-have-free-will); my transcription, starting at 01:52:32
 
-[[196]](#ftnt_ref196)Free Will, p. 13
+[[196]](#ftnt_ref196) Free Will, p. 13
 
-[[197]](#ftnt_ref197)Free Will, p. 20
+[[197]](#ftnt_ref197) Free Will, p. 20
 
-[[198]](#ftnt_ref198)Free Will, p. 34–35
+[[198]](#ftnt_ref198) Free Will, p. 34–35
 
-[[199]](#ftnt_ref199)Free Will, p. 38
+[[199]](#ftnt_ref199) Free Will, p. 38
 
-[[200]](#ftnt_ref200)[https://www.monticello.org/research-education/thomas-jefferson-encyclopedia/i-am-great-believer-luckspurious-quotation/](https://www.monticello.org/research-education/thomas-jefferson-encyclopedia/i-am-great-believer-luckspurious-quotation/)
+[[200]](#ftnt_ref200) [https://www.monticello.org/research-education/thomas-jefferson-encyclopedia/i-am-great-believer-luckspurious-quotation/](https://www.monticello.org/research-education/thomas-jefferson-encyclopedia/i-am-great-believer-luckspurious-quotation/)
 
-[[201]](#ftnt_ref201)[https://www.psychologytoday.com/us/basics/locus-control](https://www.psychologytoday.com/us/basics/locus-control)
+[[201]](#ftnt_ref201) [https://www.psychologytoday.com/us/basics/locus-control](https://www.psychologytoday.com/us/basics/locus-control)
 
-[[202]](#ftnt_ref202)[https://www.psychologytoday.com/us/basics/locus-control](https://www.psychologytoday.com/us/basics/locus-control)
+[[202]](#ftnt_ref202) [https://www.psychologytoday.com/us/basics/locus-control](https://www.psychologytoday.com/us/basics/locus-control)
 
-[[203]](#ftnt_ref203)[https://michaelshermer.substack.com/p/resolutions](https://michaelshermer.substack.com/p/resolutions)
+[[203]](#ftnt_ref203) [https://michaelshermer.substack.com/p/resolutions](https://michaelshermer.substack.com/p/resolutions)
 
-[[204]](#ftnt_ref204)[https://www.newstatesman.com/politics/2011/12/issue-essay-line-dawkins](https://www.newstatesman.com/politics/2011/12/issue-essay-line-dawkins)
+[[204]](#ftnt_ref204) [https://www.newstatesman.com/politics/2011/12/issue-essay-line-dawkins](https://www.newstatesman.com/politics/2011/12/issue-essay-line-dawkins)
 
-[[205]](#ftnt_ref205)Letter to a Christian Nation, p. 5
+[[205]](#ftnt_ref205) Letter to a Christian Nation, p. 5
 
-[[206]](#ftnt_ref206)Letter to a Christian Nation, p. 63; italics original
+[[206]](#ftnt_ref206) Letter to a Christian Nation, p. 63; italics original
 
-[[207]](#ftnt_ref207)The Moral Landscape, p. 10
+[[207]](#ftnt_ref207) The Moral Landscape, p. 10
 
-[[208]](#ftnt_ref208)Lying, p. 8
+[[208]](#ftnt_ref208) Lying, p. 8
 
-[[209]](#ftnt_ref209)Lying, p. 15
+[[209]](#ftnt_ref209) Lying, p. 15
 
-[[210]](#ftnt_ref210)Waking Up, p. 116
+[[210]](#ftnt_ref210) Waking Up, p. 116
 
-[[211]](#ftnt_ref211)Waking Up, p. 56
+[[211]](#ftnt_ref211) Waking Up, p. 56
 
-[[212]](#ftnt_ref212)Waking Up, p. 52
+[[212]](#ftnt_ref212) Waking Up, p. 52
 
-[[213]](#ftnt_ref213)Free Will, p. 24
+[[213]](#ftnt_ref213) Free Will, p. 24
 
-[[214]](#ftnt_ref214)Free Will, p. 13
+[[214]](#ftnt_ref214) Free Will, p. 13
 
-[[215]](#ftnt_ref215)Free Will, p. 5; italics original
+[[215]](#ftnt_ref215) Free Will, p. 5; italics original
 
 [[216]](#ftnt_ref216) Which also sounds like a prog-rock band I’d listen to.
 
-[[217]](#ftnt_ref217)Rationality, p. 300
+[[217]](#ftnt_ref217) Rationality, p. 300
 
-[[218]](#ftnt_ref218)Rationality, p. 300
+[[218]](#ftnt_ref218) Rationality, p. 300
 
-[[219]](#ftnt_ref219)[https://www.astralcodexten.com/p/how-should-we-think-about-race-and](https://www.astralcodexten.com/p/how-should-we-think-about-race-and)
+[[219]](#ftnt_ref219) [https://www.astralcodexten.com/p/how-should-we-think-about-race-and](https://www.astralcodexten.com/p/how-should-we-think-about-race-and)
 
-[[220]](#ftnt_ref220)[https://richarddawkins.substack.com/p/is-ayaan-a-christian-am-i-a-christian](https://richarddawkins.substack.com/p/is-ayaan-a-christian-am-i-a-christian)
+[[220]](#ftnt_ref220) [https://richarddawkins.substack.com/p/is-ayaan-a-christian-am-i-a-christian](https://richarddawkins.substack.com/p/is-ayaan-a-christian-am-i-a-christian)
 
-[[221]](#ftnt_ref221)[https://richarddawkins.substack.com/p/is-ayaan-a-christian-am-i-a-christian](https://richarddawkins.substack.com/p/is-ayaan-a-christian-am-i-a-christian)
+[[221]](#ftnt_ref221) [https://richarddawkins.substack.com/p/is-ayaan-a-christian-am-i-a-christian](https://richarddawkins.substack.com/p/is-ayaan-a-christian-am-i-a-christian)
 
-[[222]](#ftnt_ref222)[https://www.samharris.org/podcasts/making-sense-episodes/201-may-1-2020](https://www.samharris.org/podcasts/making-sense-episodes/201-may-1-2020); my transcription, starting at 01:04:47
+[[222]](#ftnt_ref222) [https://www.samharris.org/podcasts/making-sense-episodes/201-may-1-2020](https://www.samharris.org/podcasts/making-sense-episodes/201-may-1-2020); my transcription, starting at 01:04:47
 
-[[223]](#ftnt_ref223)Free Will, p. 25; italics original
+[[223]](#ftnt_ref223) Free Will, p. 25; italics original
 
-[[224]](#ftnt_ref224)[https://www.samharris.org/podcasts/making-sense-episodes/360-we-really-dont-have-free-will](https://www.samharris.org/podcasts/making-sense-episodes/360-we-really-dont-have-free-will); my transcription, starting at 00:23:10
+[[224]](#ftnt_ref224) [https://www.samharris.org/podcasts/making-sense-episodes/360-we-really-dont-have-free-will](https://www.samharris.org/podcasts/making-sense-episodes/360-we-really-dont-have-free-will); my transcription, starting at 00:23:10
 
-[[225]](#ftnt_ref225)Free Will, p. 37–38; italics original
+[[225]](#ftnt_ref225) Free Will, p. 37–38; italics original
 
-[[226]](#ftnt_ref226)Free Will, p. 34
+[[226]](#ftnt_ref226) Free Will, p. 34
 
 [[227]](#ftnt_ref227) Marine boot camp is typically considered to be the most difficult out of all the branches.
 
@@ -978,27 +980,27 @@ So your acceptance of Singer’s ethics will depend on a number of choices. Whic
 
 [[244]](#ftnt_ref244) I believe as expressed this is a fairly mainstream view, one which I associated most closely with [Jonathan Haidt](https://substack.com/@jonathanhaidt). For some compelling counterarguments, check out Haidt’s [interview with Tyler Cowen](https://conversationswithtyler.com/episodes/jonathan-haidt-anxious-generation/).
 
-[[245]](#ftnt_ref245)[Some](https://www.t-online.de/nachrichten/deutschland/id_100329260/ard-und-zdf-einseitige-berichterstattung-studie-zeigt-deutliches-ergebnis.html)[outlets](https://www.derwesten.de/politik/linksdrall-ard-zdf-oeffentlich-rechtliche-studie-bild-zeitung-medien-id300828155.html) have framed the results of this study as proving that public media are not unfair to the AfD because public media is not MORE unfair than private media. Of course, that’s not the point. Only public media has a mandate to be politically neutral. Thus, deriving a reasonable standard from the reporting behavior of private media is absurd.
+[[245]](#ftnt_ref245) [Some](https://www.t-online.de/nachrichten/deutschland/id_100329260/ard-und-zdf-einseitige-berichterstattung-studie-zeigt-deutliches-ergebnis.html) [outlets](https://www.derwesten.de/politik/linksdrall-ard-zdf-oeffentlich-rechtliche-studie-bild-zeitung-medien-id300828155.html) have framed the results of this study as proving that public media are not unfair to the AfD because public media is not MORE unfair than private media. Of course, that’s not the point. Only public media has a mandate to be politically neutral. Thus, deriving a reasonable standard from the reporting behavior of private media is absurd.
 
-[[246]](#ftnt_ref246) Interestingly, in the German version CORRECTIV writes about “Vertreibung” (expulsion/eviction/displacement) of German citizens and they deny having used the word “[Deportation](https://twitter.com/hori_____zont/status/1751675275002192195)” (deportation), despite using it in the English version. Anyways, German [media](https://www.zdf.de/nachrichten/politik/deutschland/afd-treffen-potsdam-cdu-abgrenzung-100.html)[and](https://www.zeit.de/politik/deutschland/2024-01/afd-rechtsextreme-potsdam-treffen-remigration-was-wir-wissen)[politicans](https://www.tagesschau.de/inland/innenpolitik/afd-geheimtreffen-bundestag-100.html) widely used the word “Deportation” to describe the plan.  
+[[246]](#ftnt_ref246) Interestingly, in the German version CORRECTIV writes about “Vertreibung” (expulsion/eviction/displacement) of German citizens and they deny having used the word “[Deportation](https://twitter.com/hori_____zont/status/1751675275002192195)” (deportation), despite using it in the English version. Anyways, German [media](https://www.zdf.de/nachrichten/politik/deutschland/afd-treffen-potsdam-cdu-abgrenzung-100.html) [and](https://www.zeit.de/politik/deutschland/2024-01/afd-rechtsextreme-potsdam-treffen-remigration-was-wir-wissen) [politicans](https://www.tagesschau.de/inland/innenpolitik/afd-geheimtreffen-bundestag-100.html) widely used the word “Deportation” to describe the plan.  
 
-[[247]](#ftnt_ref247)[Here](https://www.volksverpetzer.de/analyse/25-krasse-hoecke-zitate/) is a collection of Höcke’s greatest hits, collected by a hostile source.
+[[247]](#ftnt_ref247) [Here](https://www.volksverpetzer.de/analyse/25-krasse-hoecke-zitate/) is a collection of Höcke’s greatest hits, collected by a hostile source.
 
 [[248]](#ftnt_ref248) Migrant background means that either you or at least one of your parents were born in a different country. Migrants of generation 3+ are counted as “German”. Some of the “migrants” are ethnic Germans who came back to Germany (“Aussiedler”).
 
 [[249]](#ftnt_ref249) I originally found Nexus through Noah Smith, so will happily cite him 3 times.
 
-[[250]](#ftnt_ref250)These bullets describe the first crash (Lion Air in Indonesia); the second one had different details – in particular, pilots had been made aware of the software system – but the same gestalt of interacting software, sensor, and human failures.
+[[250]](#ftnt_ref250) These bullets describe the first crash (Lion Air in Indonesia); the second one had different details – in particular, pilots had been made aware of the software system – but the same gestalt of interacting software, sensor, and human failures.
 
-[[251]](#ftnt_ref251)Perrow uses "complex interactions" instead of "nonlinear", but he uses "linear interactions" as the opposite, so it means the same thing. I've swapped in "nonlinear" here because I think it's more clear on first read and because "complex" has come on to take other, if mostly similar, connotations when describing systems.
+[[251]](#ftnt_ref251) Perrow uses "complex interactions" instead of "nonlinear", but he uses "linear interactions" as the opposite, so it means the same thing. I've swapped in "nonlinear" here because I think it's more clear on first read and because "complex" has come on to take other, if mostly similar, connotations when describing systems.
 
-[[252]](#ftnt_ref252)Perrow's passion is organizational design, so in the final chapter he throws in some analysis from this perspective, although it's not at all core to his argument, which is why I'm relegating it to a footnote. He says nonlinear systems should be operated by decentralized organizations (so people on the ground can use their acumen to find non-obvious problems), and tightly coupled systems should be operated by centralized organizations (so everyone can listen to orders and respond quickly in a crisis). This raises a paradox for systems that are both nonlinear and coupled: you can't be both centralized and decentralized at once. This was probably a bit of a stretch even in Perrow’s time, but I mention it here because it's an area where technology really has broken the trade-off: even in decentralized systems, people can now get the information to respond rapidly to a crisis. For example, the["xz backdoor"](https://arstechnica.com/security/2024/04/what-we-know-about-the-xz-utils-backdoor-that-almost-infected-the-world/) was found by a decentralized open-source community, but the news of its discovery reached all corners of that community (and well beyond) within hours.
+[[252]](#ftnt_ref252) Perrow's passion is organizational design, so in the final chapter he throws in some analysis from this perspective, although it's not at all core to his argument, which is why I'm relegating it to a footnote. He says nonlinear systems should be operated by decentralized organizations (so people on the ground can use their acumen to find non-obvious problems), and tightly coupled systems should be operated by centralized organizations (so everyone can listen to orders and respond quickly in a crisis). This raises a paradox for systems that are both nonlinear and coupled: you can't be both centralized and decentralized at once. This was probably a bit of a stretch even in Perrow’s time, but I mention it here because it's an area where technology really has broken the trade-off: even in decentralized systems, people can now get the information to respond rapidly to a crisis. For example, the ["xz backdoor"](https://arstechnica.com/security/2024/04/what-we-know-about-the-xz-utils-backdoor-that-almost-infected-the-world/) was found by a decentralized open-source community, but the news of its discovery reached all corners of that community (and well beyond) within hours.
 
 [[253]](#ftnt_ref253) Perrow implicitly admits this in a 1999 afterword about Y2K. He smartly doesn’t make a prediction about whether there will be an accident; he only says that if there are failures, they’ll cause a system accident (e.g., if electric grids go down, then there will be correlated failures in fields like manufacturing where it’s assumed only one thing can go wrong at a time, which will make a lot of other things worse). But nothing meaningfully failed.
 
 [[254]](#ftnt_ref254) From the introduction to his 1964 book The Essential Erasmus, a compilation of his translations of various selections from Erasmus’s works. Unless otherwise noted, Dolan is my main source on Erasmus and my quotes from Erasmus’s works come from Dolan’s translations.
 
-[[255]](#ftnt_ref255) Private letter from Luther to Nicolas Armsdoff, translated by Henry Cole, 1823, and published as Appendix II to Cole’s translation of Bondage
+[[255]](#ftnt_ref255) Private letter from Luther to Nicolas Armsdoff, translated by Henry Cole, 1823, and published as Appendix II to Cole’s translation of Bondage 
 
 [[256]](#ftnt_ref256) The author of the book I’ll eventually get around to reviewing, who also did some other important stuff I’ll talk about shortly.
 
@@ -1108,11 +1110,11 @@ So your acceptance of Singer’s ethics will depend on a number of choices. Whic
 
 [[309]](#ftnt_ref309) Tory and Conservative are used interchangeably, like GOP for the Republican party.
 
-[[310]](#ftnt_ref310)[https://www.independent.co.uk/news/uk/home-news/tuc-financial-crisis-uk-wages-b2536562.html](https://www.independent.co.uk/news/uk/home-news/tuc-financial-crisis-uk-wages-b2536562.html)
+[[310]](#ftnt_ref310) [https://www.independent.co.uk/news/uk/home-news/tuc-financial-crisis-uk-wages-b2536562.html](https://www.independent.co.uk/news/uk/home-news/tuc-financial-crisis-uk-wages-b2536562.html)
 
-[[311]](#ftnt_ref311)[https://www.theguardian.com/business/ng-interactive/2015/apr/29/the-austerity-delusion](https://www.theguardian.com/business/ng-interactive/2015/apr/29/the-austerity-delusion)
+[[311]](#ftnt_ref311) [https://www.theguardian.com/business/ng-interactive/2015/apr/29/the-austerity-delusion](https://www.theguardian.com/business/ng-interactive/2015/apr/29/the-austerity-delusion) 
 
-[[312]](#ftnt_ref312)[https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/earningsandworkinghours/bulletins/annualsurveyofhoursandearnings/2023](https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/earningsandworkinghours/bulletins/annualsurveyofhoursandearnings/2023)
+[[312]](#ftnt_ref312) [https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/earningsandworkinghours/bulletins/annualsurveyofhoursandearnings/2023](https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/earningsandworkinghours/bulletins/annualsurveyofhoursandearnings/2023)
 
 [[313]](#ftnt_ref313) Note that accounting for differences in purchasing power parity produces a slightly different picture, though the conclusion is the same. The main difference is that the UK was never “richer” per capita than the US, even in 2007, because $1 in the US buys more goods/services than in the UK.
 

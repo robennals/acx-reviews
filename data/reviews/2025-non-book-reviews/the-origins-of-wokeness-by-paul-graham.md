@@ -7,7 +7,7 @@ contestName: 2025 Non Book Reviews
 year: 2025
 publishedDate: '2026-02-06T16:55:59.397Z'
 slug: the-origins-of-wokeness-by-paul-graham
-wordCount: 5657
+wordCount: 5659
 readingTimeMinutes: 26
 originalUrl: >-
   https://docs.google.com/document/d/1jYVJFIz5-aMi0LCgsC9AN6BncJDNVGaMU37QmwZ1vzA
@@ -51,7 +51,7 @@ Graham sees political correctness as the most recent instantiation of the genera
 8.  In the 2010s, the advent of outrage-driven social media and the emergence of new online mobs transformed political correctness into cancel culture, which expanded in scope and gained momentum from the Black Lives Matter movement in 2013 and the Me Too Movement in 2017, along with the financially self-serving ideological polarization of the media in response to the election of Donald Trump in 2016.
 9.  In 2020, the perceived excesses of this movement—now widely identified as wokeness—led to its current decline.
 
-Having thus established the origins of wokeness, Graham concludes his essay by discussing how to defeat it, with the goal of preventing not just the future resurgence of wokeness narrowly but “any similar outbreak of aggressively performative moralism”. His solution is to treat wokeness like any other religion: allow people the freedom to profess their own beliefs, but restrict them from coercing or indoctrinating others within public institutions. The “aggressively conventional-minded” and the new ideologies they are bound to invent in the future, he says, can be kept in check if everyone else keeps an eye out for the emergence of new heresies: “The number of true things we[can't say](https://paulgraham.com/say.html) should not increase. If it does, something is wrong.”
+Having thus established the origins of wokeness, Graham concludes his essay by discussing how to defeat it, with the goal of preventing not just the future resurgence of wokeness narrowly but “any similar outbreak of aggressively performative moralism”. His solution is to treat wokeness like any other religion: allow people the freedom to profess their own beliefs, but restrict them from coercing or indoctrinating others within public institutions. The “aggressively conventional-minded” and the new ideologies they are bound to invent in the future, he says, can be kept in check if everyone else keeps an eye out for the emergence of new heresies: “The number of true things we [can't say](https://paulgraham.com/say.html) should not increase. If it does, something is wrong.”
 
 ## Reflections on the Essay
 
@@ -179,5 +179,7 @@ The scale of the takeover of scientific institutions by wokeness in recent years
 The current state of science (and “Science”) reflects the hidden legacies of biological sex, humanism, and the blank slate in the origins of wokeness. Wokeness, I argue, emerged in part from the success of humanistic morality in empowering biologically-based female values in society. Because the stereotypical male value of freedom and the stereotypically female value of preventing harm necessarily trade off with each other, an institution with more freedom will allow more harm, and one that prevents more harm will restrict freedom. By treating differences between groups as evidence of continued injustice, the ideology of the blank slate has accelerated the classification of more groups as vulnerable and more ideas as harmful.
 
 The real promise of humanism, though, is a rejection of the false promise of the blank slate: treating each person as an individual, rather than reducing them to representatives of the identity categories they happen to belong to. If given equality of opportunity and freedom of choice, people will pursue their own interests. From that perspective, the [persistence of sex asymmetries](https://michaelshermer.substack.com/p/scientific-american-goes-woke) across academic fields may be cause for hope:
+
+![](https://acximages.ennals.org/images/2025-non-book-reviews/54b2123ba661a436.png)
 
 So far, biology remains stronger than ideology. I think the challenge will be in reestablishing truly humanistic norms in academia that accept human differences and celebrate the great moral advances we have made, while acknowledging that complete equity of outcomes may not be possible or even desirable. If academic institutions are able to regain trust and offer a compelling alternative to wokeness, it may be easier to resist the future waves of aggressively performative moralism that Graham sees coming.

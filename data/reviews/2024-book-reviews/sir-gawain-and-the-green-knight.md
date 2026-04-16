@@ -7,7 +7,7 @@ contestName: 2024 Book Reviews
 year: 2024
 publishedDate: '2026-02-06T16:48:56.663Z'
 slug: sir-gawain-and-the-green-knight
-wordCount: 2995
+wordCount: 3088
 readingTimeMinutes: 14
 originalUrl: >-
   https://docs.google.com/document/d/1GYQw3pgvhi7hqOVR-Ql629Q_8thbyHe8sSRy5voyt30
@@ -38,6 +38,8 @@ Instead of any of this, one question immediately stuck out to me upon finishing 
 II
 
 The poem is written in a hexameter which takes some getting used to but has quite a nice momentum to it overall. The translator has been able to keep most of the rhymes, but the original alliteration has been lost. The metre is also somewhat butchered at times. Each verse ends with a cute little two-syllable line and four half-lines:
+
+![A screenshot of text illustrating the rhyming structure. Two twelve-syllable lines are followed by one two-syllable line, then four six-syllable lines.](https://acximages.ennals.org/images/2024-book-reviews/d73aef20836c3f18.png)
 
 The language is odd throughout. It’s been translated from the original Middle English (which is generally unintelligible to modern readers) into some sort of old-sounding modern English. I don’t know the reason for all the forsooths and doths, though it does keep an atmosphere of old-ness.
 
@@ -106,6 +108,8 @@ IV
 
 Here is a list of things described in immense detail: clothing, feasts, hunting, and the skinning and gutting of animals. Here is a list of things basically ignored: the landscape and environs of the setting. Some analysis of Gawain’s journey tells us that he starts in the south of Wales, then moves north along the coast before turning east and heading towards some of the mountainous regions in the middle of England. This is some of the countryside he might have seen:
 
+![A photo of bluebells growing in a woodland consisting of old, moss-covered trees.](https://acximages.ennals.org/images/2024-book-reviews/96dc1f0fefb16075.png)![A photo of a path leading to the peak of a grass-covered mountain, surrounded by forested valleys and similar mountains.](https://acximages.ennals.org/images/2024-book-reviews/3749db502b673bb4.png)![A photo of sheep grazing in moorland. The landscape shows a few gently sloping hills covered in striking purple heather flowers.](https://acximages.ennals.org/images/2024-book-reviews/d89854786f811109.png)
+
 Somehow this is all missing from the poem!
 
 The Gawain Poet is also believed to have written three other poems, two (Patience and Cleanness) praising Christian virtues, and one (Pearl) which is a description of a Christian vision. My guess is therefore that the Poet had actually not seen much of the English countryside, and was going off of maps. The world processed through the mind of modernity. Chalk cliffs to concrete.
@@ -120,6 +124,8 @@ The “Green Chapel” is described as follows:
         Or crevice of a crag — nor might its use be told
 
 Readers would have been expected to recognize it as a long barrow. This is a kind of burial or ritual site from the neolithic which bamboozled mediaeval scholars. Here’s a picture of one:
+
+![A photo showing a mound of earth overgrown with grass. The mound is reinforced with a number of large stones.](https://acximages.ennals.org/images/2024-book-reviews/15682bc2e470d609.png)
 
 It’s extremely cool that this is included! I would have completely missed the depth of meaning of this without having read Sam Kriss’ thoughts on the poem[[44]](#ftnt44). The inclusion of this creates a dramatic irony in the piece: Gawain has no idea what he’s looking at, but the audience is expected to. It helps paint the Green Knight as an ancient and terrible figure.
 

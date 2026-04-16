@@ -7,7 +7,7 @@ contestName: 2024 Book Reviews
 year: 2024
 publishedDate: '2026-02-06T16:48:20.710Z'
 slug: mine-how-the-hidden-rules-of-ownership-control-our-lives
-wordCount: 8497
+wordCount: 8508
 readingTimeMinutes: 38
 originalUrl: >-
   https://docs.google.com/document/d/1cp6iw5OEyDjnD_viZo-KL0Zv4jwQnMXtE4yIovfVAco
@@ -19,7 +19,7 @@ tags:
 
 ## Prologue: Why Not Mine!?
 
-When it first came out in 2021, I was surprised that [Mine!: How the Hidden Rules of Ownership Control Our Lives](https://www.amazon.com/Mine-Hidden-Rules-Ownership-Control/dp/0385544723)didn’t make a bigger splash. Like Sapiens or Thinking Fast and Slow, the book felt perfectly positioned to popularize dense academic topics as insight porn. In their introduction, the authors of to Mine!—two law professors named Michael Heller and James Salzman—even make explicit references to Nudge and Freakonomics.
+When it first came out in 2021, I was surprised that [Mine!: How the Hidden Rules of Ownership Control Our Lives](https://www.amazon.com/Mine-Hidden-Rules-Ownership-Control/dp/0385544723) didn’t make a bigger splash. Like Sapiens or Thinking Fast and Slow, the book felt perfectly positioned to popularize dense academic topics as insight porn. In their introduction, the authors of to Mine!—two law professors named Michael Heller and James Salzman—even make explicit references to Nudge and Freakonomics.
 
 But if Mine! made a splash, the ripples didn’t go very far. As of writing, the book has only [1,700 ratings](https://www.goodreads.com/book/show/54226795-mine) on Goodreads; by contrast some other big nonfiction books from the same year have [80,900](https://www.goodreads.com/book/show/55338982-cultish), [18,700](https://www.goodreads.com/book/show/53330118-chatter), and [18,100](https://www.goodreads.com/book/show/53231851-the-sum-of-us) ratings respectively. (For an apples-to-apples comparison, there’s even [another “pop law” book](https://www.goodreads.com/book/show/56769577-fuzz)—not, I assume, the most competitive subgenre—that has over 24,000 ratings.)
 
@@ -47,7 +47,7 @@ In the end, the pilot rerouted the plane to Chicago for an emergency landing, an
 
 Who is in the wrong here—Beach or the woman in front of him? Officially, while most airlines’ official rules allow passengers to recline, the option is rarely publicized or encouraged. [Polling](https://fivethirtyeight.com/features/airplane-etiquette-recline-seat/) indicates a fairly even split on opinion: 41% of respondents say it’s rude to recline—but this number jumps up to 64% if the question specifies that the person behind has asked the hypothetical recliner not to do so.
 
-But the realmonsters, according to Heller and Salzman, are the airlines: They are effectively selling the same wedge of space twice.
+But the real monsters, according to Heller and Salzman, are the airlines: They are effectively selling the same wedge of space twice.
 
 On modern aircrafts, the average pitch (a.k.a, legroom) has [shrunk in recent years](https://www.vox.com/videos/23823756/airplane-legroom-shrinking-travel-flight) from an average of 35 inches down to 31 inches, and on some planes is as small as 28. This is valuable for airlines—per Mine!: “one inch of pitch saved per row can add up to six extra seats per flight to sell.” Moreover, the airlines get away with it because of strategic ambiguity: The companies generally don’t advertise the right to recline because confusion is part of their profit model; if everyone considers the space in front and behind to be, sort of, theirs, they’ll tolerate less space.[[239]](#ftnt239)
 
@@ -71,7 +71,7 @@ The six foundational stories of ownership are:
 2.  Possession;
 3.  Attachment;
 4.  Family;
-5.  First-in-time;and
+5.  First-in-time; and
 6.  Labor
 
 Mine! devotes a full chapter to each of these stories.[[240]](#ftnt240) In this review, I’ll give just a few paragraphs of cherry-picked concepts and examples.
@@ -97,7 +97,7 @@ So, really, there are two senses in which self-ownership—and, as we’ll see i
 *   First, in the real world, we rarely have discrete categories. Instead, we draw lines at semi-arbitrary points on a continuum: What is the “body”? Who is an “adult”? How do we define “first”?
 *   Second, the very concept of ownership is essentially a “[bundle of sticks](https://scholarship.law.vanderbilt.edu/vlr/vol66/iss3/3/#:~:text=In%20the%20United%20States%2C%20every,persons%20concerning%20a%20valued%20resource.)” rather than a single unified right: The permission to use something can be decoupled from the right to sell, lend, copy, destroy, or profit from it. (This explains the general agreement that “your” child may be put up for adoption but not sold—with “your” connoting a very different bundle of rights than it does for “your” car or “your” bitcoin).
 
-Both of these definitional challenges pervade all stories of ownership: What exactly are the criteria for claiming a right to a given resource; and what exactly is includedin a right to that resource?
+Both of these definitional challenges pervade all stories of ownership: What exactly are the criteria for claiming a right to a given resource; and what exactly is included in a right to that resource?
 
 ### Possession
 
@@ -115,7 +115,7 @@ That said, if conflict over possession gets severe enough, authorities will face
 
 In other situations, the authorities avoid regulating possession because it’s just not worth the costs of intervening. For example, the authors describe surfer gangs in California who claim exclusive access to a certain stretch of coastline, and lobster gangs in Maine who threaten or even shoot at boats that intrude on their territory. In both these cases, the state could step in to demand open access—but this would only create a tragedy of the commons: An overcrowded ocean means no one can catch sweet rides, and too many traps means rapidly declining lobster populations. This outcome is more “egalitarian” only in the sense that everyone is equally worse off—plus it has the added downside of being expensive to enforce. Better to accept some losers, the thinking goes, than have no winners at all.
 
-As it turns out, there are other, more subtle ownership designs that can work here, which I’ll discuss in a bit. The key takeaway is that while possession may not be a fair ownership story, it’s often the least bad or only realistic optionfor the real world. More generously, in [the words](https://www.jstor.org/stable/1322028?seq=21) of Supreme Court Justice Oliver Wendell Holmes, Jr:
+As it turns out, there are other, more subtle ownership designs that can work here, which I’ll discuss in a bit. The key takeaway is that while possession may not be a fair ownership story, it’s often the least bad or only realistic option for the real world. More generously, in [the words](https://www.jstor.org/stable/1322028?seq=21) of Supreme Court Justice Oliver Wendell Holmes, Jr:
 
 A thing which you have enjoyed and used as your own for a long time, whether property or an opinion, takes root in your being and cannot be torn away without your resenting the fact and trying to defend yourself, however you came by it. The law can ask no better justification than the deepest instincts of man.
 
@@ -181,13 +181,13 @@ Nowhere is the issue of incentives more relevant than in the last ownership stor
 
 Often, in Heller and Salzman’s examples, labor interacts with first-in-time to establish different rules for different contexts. In the landmark case [Pierson v. Post](https://en.wikipedia.org/wiki/Pierson_v._Post), for example, the Supreme Court ruled on who should get to keep a dead fox when one man had chased and exhausted it but another had actually killed it. They settled on the rule of capture—a clear definition that favored Pierson (the fox-catcher) over Post (the fox-chaser).
 
-As a result of this decision, Heller and Salzman argue that across a variety of domains, “the majority’s bright-line rule turbocharges innovations in capture technology.” This consequence highlights the importance of [ex ante](https://en.wikipedia.org/wiki/Ex-ante)reasoning in addition to ex post reasoning: When a regulation or ruling is made, it not only rectifies that particular situation but sets a precedent for future owners; good rules should therefore reward desirable behaviors.
+As a result of this decision, Heller and Salzman argue that across a variety of domains, “the majority’s bright-line rule turbocharges innovations in capture technology.” This consequence highlights the importance of [ex ante](https://en.wikipedia.org/wiki/Ex-ante) reasoning in addition to ex post reasoning: When a regulation or ruling is made, it not only rectifies that particular situation but sets a precedent for future owners; good rules should therefore reward desirable behaviors.
 
 For example, in many places, treasure finders and plant foragers have historically been allowed to keep bounty they procure on private property, so long as they are not violating obvious signs of trespassing. The ex ante justification for this is that it creates an incentive to extract value that would otherwise have remained undiscovered. Or in the early Americas, the government’s definition of “first” (once again: Christians who built and permanently settled on the land) was motivated not only by racism but also by a desire to stimulate greater agricultural production.
 
 These incentive structures are especially important for more abstract forms of labor—namely, who should get the credit and profit for an idea. In patent law, the standard is generally first to file, rather than invent (similar to the “rule of capture” in Pierson v. Post). However, different creative industries rely to a greater or lesser extent on copyright protections. In fashion and comedy, where barriers to entry are relatively low and innovation depends on imitation, creators have few formal protections. By contrast, drug manufacturers need stronger guarantees that the heavy investment they put into research and manufacturing pays off. In these situations, Heller and Salzman argue, the real question we should be asking is: “What is the least reward we can give creators so they provide enough benefit to consumers?”
 
-In fact, there are situations in which it is actually in creators’ interestthat their intellectual property be “stolen.” For example, HBO famously encourages password sharing in order to build its future fan base; the authors also cite [research](https://www.amazon.com/Knockoff-Economy-Imitation-Sparks-Innovation/dp/0195399781) that 40% of people who buy counterfeits of luxury brands (e.g., Rolex) later end up buying the real thing. In these cases, creator and consumer incentives may be naturally aligned.
+In fact, there are situations in which it is actually in creators’ interest that their intellectual property be “stolen.” For example, HBO famously encourages password sharing in order to build its future fan base; the authors also cite [research](https://www.amazon.com/Knockoff-Economy-Imitation-Sparks-Innovation/dp/0195399781) that 40% of people who buy counterfeits of luxury brands (e.g., Rolex) later end up buying the real thing. In these cases, creator and consumer incentives may be naturally aligned.
 
 And of course there is a risk in making copyright too strong. For example, when a work is composed of many constituent parts (think of a documentary with lots of archival footage or a song with lots of samples), you can end up with a situation Heller terms “ownership gridlock”: Any individual sub-owner has a veto on the entire project.
 
@@ -240,6 +240,8 @@ Finally, while ownership design is far from a perfect science, Mine! does give a
 *   For big natural resources, like oil, or fish populations, collective ownership is necessary to solve the inevitable tragedy of the commons.
 *   For various goods and services, it’s often possible to broker access to people willing to pay different prices for better or worse versions.
 *   And for “lumps” (i.e., undividable resources), like physical property or certain abstract ideas, it’s usually best to just award ownership to one person—perhaps offering damages or a mandatory license to others who might have had a claim.
+
+![](https://acximages.ennals.org/images/2024-book-reviews/210d51ebf237e6b3.png)
 
 This ABC framework is admittedly reductive, and somewhat vague in its predictions; still it’s a synthesis I believe would have helped Heller and Salzman’s examples cohere.
 
@@ -327,9 +329,9 @@ There is also another Battle to preempt a level up: The Battle to become THE dom
 
 Naturally, there are a lot of policy questions to resolve on this front, but looking to analogies with other resources, these seem like reasonable predictions:
 
-*   We will need to figure out what the AI “sticks” are.Just as data ownership is currently in the process of being unbundled and negotiated (e.g., deletion rights vs. resale rights), it will be necessary to disambiguate between various aspects of AI ownership. This means trying to define now the extent to which users and companies are allowed to delete, copy, publish, modify, and do God knows what else with AI-generated materials, rather than doing so reactively.
+*   We will need to figure out what the AI “sticks” are. Just as data ownership is currently in the process of being unbundled and negotiated (e.g., deletion rights vs. resale rights), it will be necessary to disambiguate between various aspects of AI ownership. This means trying to define now the extent to which users and companies are allowed to delete, copy, publish, modify, and do God knows what else with AI-generated materials, rather than doing so reactively.
 *   AI companies will not regulate themselves. This isn’t to say that they’re especially greedy or unscrupulous—in fact, by all accounts, there are lots of people working at leading AI companies who are sincerely concerned about safety. But like the Alaskan crab fishermen trapped in a dangerous derby, they cannot solve the coordination problem on their own. This means the government has a much-needed role to play in regulation, and right now there seems to be enough goodwill and genuine interest from those building models that it may not even be too difficult to enact.
-*   It ISpossible to make progress on global coordination problems. A common response to calls for an AI slowdown is that the US can’t regulate what happens in other (rival) countries like China. Frankly, I find these arguments puzzling. While it may not be possible to halt the march of technology indefinitely, and humanity’s track record on this is far from perfect, it’s also true that we have successfully slowed or prevented the spread of various global threats and dangerous technologies. (Human cloning, global warming, and nuclear weapons all come to mind.) By even the least generous interpretation, surely our collective track record on these issues isn’t soabysmal that we wouldn’t at least try to broker an international deal on AI safety—right?
+*   It IS possible to make progress on global coordination problems. A common response to calls for an AI slowdown is that the US can’t regulate what happens in other (rival) countries like China. Frankly, I find these arguments puzzling. While it may not be possible to halt the march of technology indefinitely, and humanity’s track record on this is far from perfect, it’s also true that we have successfully slowed or prevented the spread of various global threats and dangerous technologies. (Human cloning, global warming, and nuclear weapons all come to mind.) By even the least generous interpretation, surely our collective track record on these issues isn’t so abysmal that we wouldn’t at least try to broker an international deal on AI safety—right?
 *   Preserving competitive markets shouldn’t be our top priority. Let’s grant, for the usual reasons, that markets are generally good for society (i.e., more innovation, lower prices, etc.). Now ask yourself: Is AI really a situation where we want to speed up innovation or have companies running razor-thin margins? Personally, I’d much prefer a world where a small number of companies (more than one but less than five?) move slowly and deliberately in building the technology, and can afford to pay creators whose content they are using as training data. This may require an ownership design that creates moats around incumbents or collectivizes profit—disadvantaging new entrants and de-incentivizing rapid innovation; for this particular resource, I think these tradeoffs are worth it.
 
 As always, we should be wary of “casual empiricism” in ownership design: These policy recommendations are based off how I believe the world works, and those beliefs may in fact be wrong. Unfortunately, there is no crystal ball here—no randomized controlled trial we can run on different possible futures. We can only grope our way forward by the light of history and existing science.

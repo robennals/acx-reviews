@@ -7,7 +7,7 @@ contestName: 2024 Book Reviews
 year: 2024
 publishedDate: '2026-02-06T16:48:56.658Z'
 slug: righteous-victims-a-history-of-the-zionist-arab-conflict-by-benny-morris
-wordCount: 10031
+wordCount: 10062
 readingTimeMinutes: 45
 originalUrl: >-
   https://docs.google.com/document/d/1GYQw3pgvhi7hqOVR-Ql629Q_8thbyHe8sSRy5voyt30
@@ -24,6 +24,8 @@ This is unfair. While the loudest voices may paint the world in black and white,
 Now for the most part my view is that unless you’re willing to put in the effort to deeply understand conflicts in far off lands, you’re best off not having an opinion on them, and definitely not one fed to you by the twitter or tiktok feed.  Expressing loud, confident opinions on unfamiliar conflicts often does more harm than good.
 
 Alas this conflict is not in a far away land. I live 20km from the border with Gaza. Most of my friends were called up to do reserve duty in the IDF. My children almost certainly will have to do the same once they grow up. Far too much of my income goes towards military spending rather than my bank account. I can’t take the easy way out, so I have to do things the hard way. So I bought a copy of Benny Morris’s Righteous Victims at exorbitant cost[[14]](#ftnt14), and plowed through it. And I thought I’d share with you what I learned, so that if you do decide to opine on the Israel Palestine conflict, your opinion will hopefully be more educated.
+
+![Front Cover of Righteous Victims: A History of the Zionist-Arab Conflict, 1881-2001:  Benny Morris](https://acximages.ennals.org/images/2024-book-reviews/fb831a55bc958de7.jpg)
 
 Righteous Victims is a history of the Arab Zionist conflict from 1881 till 2001, written by one of the most respected historians of this conflict.
 
@@ -71,6 +73,8 @@ They were peaceful, but that reflected their situation at the time rather than t
 
 And so, over the years the Yishuv, as the Jewish settlement was known, grew until it was a full third of the population of Palestine.
 
+![A map of Jewish land in Mandatory Palestine, 1944.](https://acximages.ennals.org/images/2024-book-reviews/c80c45f196433b81.png)
+
 A map of Jewish owned land in Mandatory Palestine, 1944.
 
 ### Relations with Arabs
@@ -91,6 +95,8 @@ The combination of ill treatment and looming fear of dispossession resulted in i
 Britain had made seemingly incompatible promises to both Zionists and Arabs during the first world war, and were loath to disappoint either. Jews were more powerful in the USA, while Britain needed friendly relations with the Arab proto-states for their oil. Attempting to maintain an uneasy status quo satisfies neither side, and both Jewish and Arab terrorist groups targeted each other as well as the British. By the end of the mandate some 100,000 soldiers were keeping the peace in Palestine, a huge expenditure given the dying empire. Meanwhile mainstream Jewish groups put enormous political pressure on Britain to declare a Jewish state in all or some of Mandatory Palestine.
 
 The British fumbled with the problem for some time, but post WW2, facing increasing pressure to allow Holocaust survivors into Palestine, they punted the problem to the UN. The Arabs mostly denounced the UN Special Committee on Palestine as an attempt to colonize their land, whereas the Zionists proactively engaged with it. They persuaded the committee to recommend partition Palestine, which the UN accepted with a two thirds majority.
+
+![](https://acximages.ennals.org/images/2024-book-reviews/03a57598f4a0af9a.png)
 
 The UN’s proposed partition of palestine.
 
@@ -121,6 +127,8 @@ During the war the IDF had maintained a non-official, patchily implemented polic
 Arabs forces massacred some 200 Jewish civilians/POWs while Jewish forces massacred closer to 800. However this disparity mostly reflects their greater success in the conflict - Arab armies only captured a handful of Jewish villages so had fewer opportunities for atrocities.
 
 In the wake of the war hundreds of thousands of Jews were expelled or otherwise driven out of Arab countries. Most emigrated to Israel.
+
+![Armistice Lines, 1949](https://acximages.ennals.org/images/2024-book-reviews/95ead45b5f31e6a6.png)
 
 ### From the Armistice to the Six Day War (1949-1967)
 
@@ -166,6 +174,8 @@ It also persuaded Jordan and Egypt to keep a tighter lid on the insurgency, and 
 
 On the other hand it radicalized the Arab world against Israel. The earlier chances of peace had now entirely disappeared, and there was open talk of the need to destroy Israel.
 
+![](https://acximages.ennals.org/images/2024-book-reviews/5cdf351b6238389b.png)
+
 Invasion of the Sinai, 1956
 
 #### The Road to War
@@ -196,6 +206,8 @@ An offer was quietly made to return the Sinai and the Golan heights in return fo
 
 A minority of ideological Israelis were committed to keeping all the captured territories forever, and set up settlements in the Sinai, Gaza, the West Bank and the Golan heights. With a Government that was unsure of its aims for these territories there was no real opposition, and so without ever making any decision to do so Israel was suddenly settling the occupied territories.
 
+![](https://acximages.ennals.org/images/2024-book-reviews/54af9c5e1db575c3.png)
+
 Territories captured by Israel in the 6 Day War
 
 ### From the War of Attrition to Peace with Egypt (1967 - 1982)
@@ -219,6 +231,8 @@ The attack was launched on Yom Kippur[[30]](#ftnt30) when most soldiers were of
 The Egyptians crossed along the entire length of the Suez, and were able to cross all their forces before the IDF had mobilized and was ready to do anything about it. The IAF's attempts to use air power to change the situation in the north or south failed, and 100 planes were shot down. Israel was desperate, and there was even some talk of using nuclear weapons. It was then the Egyptians made a fatal mistake - they tried to press their gains out of range of their air defenses and into the now mobilized and far better trained Israeli divisions. They were routed with heavy losses, and the IDF used the opportunity to establish a bridgehead across the Suez, then turn south and trap half of the Egyptian army on the wrong side of the canal.
 
 By then an armistice had been imposed and agreed upon by both sides, but the situation was unstable. Israel was within striking distance of Damascus, and Egypt had an entire Army trapped. Meanwhile Israel had huge forces in Egypt proper, connected to the Sinai by only a thin bridgehead. Something would have to change.
+
+![](https://acximages.ennals.org/images/2024-book-reviews/2eca7b1bf594f1a1.png)
 
 Areas capture by Israel or Egypt in the Yom Kippur War
 
@@ -323,6 +337,8 @@ Driving this process was Hamas: They realized that a settlement based on the 194
 Rabin was assassinated in 1996 by an extremist settler. His replacement, Peres, didn’t have the charisma Rabin had, and facing mounting public opinion against the peace process he lost the elections that year to Netanyahu.
 
 Netanyahu’s first stint as PM was a shambles. He attempted to slow down Oslo as much as possible, but was forced into further withdrawals by the USA. The right wing no longer trusted him, and the left wing was unprepared to work with him. He was forced to call early elections, which Ehud Barak won.
+
+![](https://acximages.ennals.org/images/2024-book-reviews/1ce04afc54c6a1d6.png)
 
 Status of the West Bank, 2005. In Area A the PA has both civil and military authority. In Area B it only has Civil authority. The red line marks a border wall dividing Israeli occupied areas from Palestinian ones, built in response to the Second Intifada (see below).
 

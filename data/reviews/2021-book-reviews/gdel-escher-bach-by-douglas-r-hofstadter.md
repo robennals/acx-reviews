@@ -7,7 +7,7 @@ contestName: 2021 Book Reviews
 year: 2021
 publishedDate: '2026-02-06T07:21:29.570Z'
 slug: gdel-escher-bach-by-douglas-r-hofstadter
-wordCount: 6098
+wordCount: 6107
 readingTimeMinutes: 28
 originalUrl: >-
   https://docs.google.com/document/d/1xexFJ7h0vULMDE7N77q_MIzXoerexfe_CqqGEL6hEoQ
@@ -31,7 +31,7 @@ Second, this review will feature very few of Hofstadter’s actual words. The re
 
 And third, GEB is really idiosyncratic in a way no one can imitate. The book’s chapters are each separated by an entertaining Carrollian dialogue featuring the quick-thinking tortoise and his slower friend Achilles; these dialogues illustrate key ideas that reappear later in the text, imitating the way themes reappear in Bach’s fugues. Hofstadter has an axe to grind with Zen Buddhism, and the first application of a formal logical system he develops in the text is to refute a Zen koan about grinding axes. He also enjoys taking pot shots at composer John Cage for basically no reason.
 
-Overall, I think GEB is a really good book. In fact, I insist that it’s better than you expect [even after taking my insistence into account](https://www.google.com/url?q=https://en.wikipedia.org/wiki/Hofstadter%2527s_law&sa=D&source=editors&ust=1770366086375166&usg=AOvVaw2yM7Fbn3WFnjim5HI97dxg). Rationalist caliph and LessWrong founder Eliezer Yudkowsky, on whom GEB was an early influence, agrees:
+Overall, I think GEB is a really good book. In fact, I insist that it’s better than you expect [even after taking my insistence into account](https://en.wikipedia.org/wiki/Hofstadter%27s_law). Rationalist caliph and LessWrong founder Eliezer Yudkowsky, on whom GEB was an early influence, agrees:
 
 "Gödel, Escher, Bach by Douglas R. Hofstadter is the most awesome book that I have ever read. If there is one book that emphasizes the tragedy of Death, it is this book, because it's terrible that so many people have died without reading it."
 
@@ -97,12 +97,12 @@ In this example, the MIU-system doesn't seem to reflect the structure of anythin
 
 The tq-system:
 
-*   Allowable characters: t, q, \-
-*   Axiom: \-t-q-
+*   Allowable characters: t, q, -
+*   Axiom: -t-q-
 *   Rules:
 
-*   Rule I: given a string xtyqz where x,y,z are strings consisting of only hyphens, you can form x\-tyqzy
-*   Rule II: given a string xtyqz where x,y,z are strings consisting of only hyphens, you can form xty\-qzx
+*   Rule I: given a string xtyqz where x,y,z are strings consisting of only hyphens, you can form x-tyqzy
+*   Rule II: given a string xtyqz where x,y,z are strings consisting of only hyphens, you can form xty-qzx
 
 Unlike the MIU-system, the tq-system comes with an interpretation which converts strings of the formal system into meaningful statements in some context. In this case, the context is “multiplications,” and the interpretation looks like
 
@@ -114,19 +114,23 @@ q ⇒ equals
 
 -- ⇒ two
 
-and so on. This interpretation turns the axiom \-t-q- of the tq-system into the multiplication “one times one equals one” and the theorem \--t---q------ (proved below) into the multiplication "two times three equals six.”
+and so on. This interpretation turns the axiom -t-q- of the tq-system into the multiplication “one times one equals one” and the theorem --t---q------ (proved below) into the multiplication "two times three equals six.”
 
 Proof:
 
-(1) \-t-q-                     (axiom)
+(1) -t-q-                     (axiom)
 
-(2) \--t-q--             (rule I)
+(2) --t-q--             (rule I)
 
-(3) \--t--q----             (rule II)
+(3) --t--q----             (rule II)
 
-(4) \--t---q------   (rule II)
+(4) --t---q------   (rule II)
 
-We can think of an interpretation as giving meaning to a formal system. Uninterpreted, \--t---q------ is a meaningless string of characters, same as the strings of the MU-system. But equipped with the interpretation above, this string comes to mean the multiplication “two times three equals six.” An analogy: to a child ignorant of the world, a globe is just a meaningless spinning toy. But once the child learns that pictures on the globe (the formal system) represent (interpret to) masses of land on the actual Earth (the context), aspects of the globe start to carry meaning – the fact that the splotch of green labeled “Asia” is larger than the one labeled “Australia” corresponds to the continent Asia having a larger land-mass than the continent Australia.
+![](https://acximages.ennals.org/images/2021-book-reviews/38b26cf30ac13aa6.png)
+
+We can think of an interpretation as giving meaning to a formal system. Uninterpreted, --t---q------ is a meaningless string of characters, same as the strings of the MU-system. But equipped with the interpretation above, this string comes to mean the multiplication “two times three equals six.” An analogy: to a child ignorant of the world, a globe is just a meaningless spinning toy. But once the child learns that pictures on the globe (the formal system) represent (interpret to) masses of land on the actual Earth (the context), aspects of the globe start to carry meaning – the fact that the splotch of green labeled “Asia” is larger than the one labeled “Australia” corresponds to the continent Asia having a larger land-mass than the continent Australia.
+
+![](https://acximages.ennals.org/images/2021-book-reviews/f76d1ac14695f55b.png)
 
 Liberation, by M.C. Escher. Strings in formal systems (the triangles at the bottom) are transformed into meaningful statements (the birds) via interpretation.
 
@@ -142,21 +146,25 @@ q ⇒ divided into
 
 -- ⇒ two
 
-and so on, so that \--t---q------ now interprets to “two equals three divided into six.” In a case like this, it’d be a mistake to argue about what the “true meaning” of the string \--t---q------ is; the correct takeaway is that both meanings are encoded simultaneously. Even this simple example of a double-entendre is somewhat interesting: it demonstrates that the structure of multiplications is “the same” as the structure of divisions (borrowing a word from mathematics, Hofstadter would say that multiplications and divisions are “isomorphic”).
+and so on, so that --t---q------ now interprets to “two equals three divided into six.” In a case like this, it’d be a mistake to argue about what the “true meaning” of the string --t---q------ is; the correct takeaway is that both meanings are encoded simultaneously. Even this simple example of a double-entendre is somewhat interesting: it demonstrates that the structure of multiplications is “the same” as the structure of divisions (borrowing a word from mathematics, Hofstadter would say that multiplications and divisions are “isomorphic”).
+
+![](https://acximages.ennals.org/images/2021-book-reviews/0ceae9bfdc8c61c5.png)
 
 The cover art is a real photograph of two carved blocks of wood. Depending on which interpretation (angle of the light) you use, you can pull three different meanings out of each block.
 
-Second, not all strings of the tq-system come out meaningful under interpretation. The tq-system also contains strings like ttq-t which don’t correspond to any multiplication. Let’s call a string well-formed if it does carry meaning under our choice of interpretation. This includes strings like \-t-q-- which do mean something (one times one equals two) even though that something is false.
+Second, not all strings of the tq-system come out meaningful under interpretation. The tq-system also contains strings like ttq-t which don’t correspond to any multiplication. Let’s call a string well-formed if it does carry meaning under our choice of interpretation. This includes strings like -t-q-- which do mean something (one times one equals two) even though that something is false.
 
-And third, all of the theorems of the tq-system are not only well-formed, but they also represent true multiplications. For example the theorems \-t-q- and \--t---q------ interpret to the true multiplications "one times one equals one" and "two times three equals six." (The well-formed string \-t-q-- doesn’t, but that’s fine because it’s not a theorem.) This is really important, so let’s make it a requirement: if I call something an “interpretation” of a formal system, I will always mean that the theorems are well-formed and come out true under the interpretation.
+And third, all of the theorems of the tq-system are not only well-formed, but they also represent true multiplications. For example the theorems -t-q- and --t---q------ interpret to the true multiplications "one times one equals one" and "two times three equals six." (The well-formed string -t-q-- doesn’t, but that’s fine because it’s not a theorem.) This is really important, so let’s make it a requirement: if I call something an “interpretation” of a formal system, I will always mean that the theorems are well-formed and come out true under the interpretation.
 
-For a counterexample, if we changed ‘\-’ to mean “two,” then we wouldn’t have an interpretation anymore since the theorem \-t-q- would represent the multiplication "two times two equals two," which isn't two – achem excuse me – true.
+For a counterexample, if we changed ‘-’ to mean “two,” then we wouldn’t have an interpretation anymore since the theorem -t-q- would represent the multiplication "two times two equals two," which isn't two – achem excuse me – true.
+
+![](https://acximages.ennals.org/images/2021-book-reviews/0d0a2b4e4c78e59f.png)
 
 As a final half-example of a formal system, let's augment the tq-system so it can prove theorems representing statements like "6 is composite."
 
 The tqCP-system:
 
-- Allowable characters: t,q,\-,C,P
+- Allowable characters: t,q,-,C,P
 
 - Axioms: same as tq-system
 
@@ -174,19 +182,19 @@ What’s up with having a P when the inference rules don’t allow it to appear
 
 ## II. Jumping out of the system
 
-I claimed above that the given interpretation of the tq-system was valid, i.e. that it transforms theorems of the system into true multiplications. How do I know that? Sure I gave two examples, the theorems \-t-q- and \--t---q------, but how can I be sure that every one of the infinitely many theorems of the tq-system interpret to true multiplications?
+I claimed above that the given interpretation of the tq-system was valid, i.e. that it transforms theorems of the system into true multiplications. How do I know that? Sure I gave two examples, the theorems -t-q- and --t---q------, but how can I be sure that every one of the infinitely many theorems of the tq-system interpret to true multiplications?
 
-I’ll argue like this. First of all, the axiom \-t-q- interprets to a true multiplication (one times one equals one). Second, we note that given a string xtyqz which represents a true multiplication (x times y equals z), rule I produces a string which represents a true multiplication ((x plus 1) times y equals z plus y). Same goes for rule II. As our axioms are true and our rules of inference preserve truth, all of our theorems must be true as well!
+I’ll argue like this. First of all, the axiom -t-q- interprets to a true multiplication (one times one equals one). Second, we note that given a string xtyqz which represents a true multiplication (x times y equals z), rule I produces a string which represents a true multiplication ((x plus 1) times y equals z plus y). Same goes for rule II. As our axioms are true and our rules of inference preserve truth, all of our theorems must be true as well!
 
 Where did the reasoning in the last paragraph take place? It certainly wasn't a proof "inside the tq-system," since those proofs just look like lists of tq-strings which obey the inference rules. Rather, it was an example of "stepping outside of the system." We reasoned about the tq-system using ordinary reasoning, not the internal formal logic of the tq-system. After all, the system knows nothing about the interpretation we've given it – it doesn't know that its theorems are supposed to represent multiplications. So we can't possibly hope to prove the validity of the interpretation by working within the tq-system. We had to step outside.
 
-Here's another example of stepping outside the system. We just saw that every theorem of the tq-system represents a true multiplication. In fact, the converse is also true, namely that every true multiplication is represented by a theorem of the tq-system! If you're interested, you may wish to prove this – it will require stepping outside the system. Then, using this observation, you can derive theorems of the tq-system "from the outside." For example, since \---t---q--------- represents a true multiplication, we know that it must be a tq-theorem. Again, this isn't a "proof" in the formal sense, because a proof is a sequence of tq-strings produced by applying rules. It is a proof from the outside.
+Here's another example of stepping outside the system. We just saw that every theorem of the tq-system represents a true multiplication. In fact, the converse is also true, namely that every true multiplication is represented by a theorem of the tq-system! If you're interested, you may wish to prove this – it will require stepping outside the system. Then, using this observation, you can derive theorems of the tq-system "from the outside." For example, since ---t---q--------- represents a true multiplication, we know that it must be a tq-theorem. Again, this isn't a "proof" in the formal sense, because a proof is a sequence of tq-strings produced by applying rules. It is a proof from the outside.
 
 Hofstadter points out that jumping outside the system is an important feature of intelligence. Before I introduced the tq-system I told you what my intended interpretation was. But even had I not, it's very likely you would have discovered it after a few minutes writing down tq-theorems. Instead of mindlessly churning out an ever longer list of theorems, you would instead gradually notice the patterns, put down your pencil to think, and discover that you can predict what all the tq-theorems are without writing them down. These are all outside-the-system activities.
 
 Even now, you’re likely making frequent jumps out of your “reading this book review” system. Perhaps you’re pausing to check if you’re thirsty or need to go to the bathroom. And perhaps now you’re asking yourself if it counts as jumping out of the system if I just told you to do it. And maybe you’re now trying to do something I didn’t tell you to do just to prove that you really can jump out of the system. (sorry)
 
-Contrast this with the behavior of a graphing calculator running a basic program that prints out a list of tq\-theorems. The graphing calculator will never stop executing its code, step back to survey the data, notice the pattern, and print out IT'S THE MULTIPLICATIONS YOU DUMMY. Of course a human is ultimately some program, albeit a very complicated one running on the most powerful computer in the known universe. Accordingly, there is some system out of which we are unable to step, the same way biological evolution is unable to step back, take a look at the data, and shout into the void [JUST KEEP MAKING MORE CRABS](https://www.google.com/url?q=https://xkcd.com/2314/&sa=D&source=editors&ust=1770366086394040&usg=AOvVaw28gzB1m71-DF0N4-oOMrol) YOU DUMMY. The point isn't that human intelligence is "special" in some way that purely mechanistic reasoning can never replicate. The point is simpler: intelligent systems seem to be able to identify and run subtasks, as well as to monitor these subtasks from the outside and determine when to stop doing them.
+Contrast this with the behavior of a graphing calculator running a basic program that prints out a list of tq-theorems. The graphing calculator will never stop executing its code, step back to survey the data, notice the pattern, and print out IT'S THE MULTIPLICATIONS YOU DUMMY. Of course a human is ultimately some program, albeit a very complicated one running on the most powerful computer in the known universe. Accordingly, there is some system out of which we are unable to step, the same way biological evolution is unable to step back, take a look at the data, and shout into the void [JUST KEEP MAKING MORE CRABS](https://xkcd.com/2314/) YOU DUMMY. The point isn't that human intelligence is "special" in some way that purely mechanistic reasoning can never replicate. The point is simpler: intelligent systems seem to be able to identify and run subtasks, as well as to monitor these subtasks from the outside and determine when to stop doing them.
 
 ## III. Truth vs. provability
 
@@ -200,9 +208,9 @@ Life in late 1930s Europe wasn't treating Gödel well. For one, he was unable to
 
 Okay, back to the logic textbook masquerading as a book review. A good way of thinking about the truth/provability distinction is that provability comes from the formal system and truth comes from the interpretation+context.
 
-Provability is simpler, so let's tackle it first. Calling a string in a formal system provable is just a fancy way of calling it a theorem. That is, “provable string” and “theorem” are synonyms. This should make sense: remember that "theorem" just means something you can deduce from the axioms using the inference rules, i.e. something you can "prove."  For example, the strings \-t-q- and C------ are provable in the tqCP-system, but \-t-q-- is not. In the MIU-system, MI and MUIIU are provable but (spoiler!) MU is not. Note that provability is a purely formal notion, i.e. it depends only on the formal system and not on whatever interpretation you attach to it.
+Provability is simpler, so let's tackle it first. Calling a string in a formal system provable is just a fancy way of calling it a theorem. That is, “provable string” and “theorem” are synonyms. This should make sense: remember that "theorem" just means something you can deduce from the axioms using the inference rules, i.e. something you can "prove."  For example, the strings -t-q- and C------ are provable in the tqCP-system, but -t-q-- is not. In the MIU-system, MI and MUIIU are provable but (spoiler!) MU is not. Note that provability is a purely formal notion, i.e. it depends only on the formal system and not on whatever interpretation you attach to it.
 
-Truth on the other hand relies on a choice of interpretation. Given a formal system with an interpretation, we say that a string of the system is true if it comes out true under the given interpretation. For example, \--t---q------ is true because two times three does equal six, but P---- is false because four isn’t prime. We can't say whether MIII or MMU are true because we don't have an interpretation for the MU-system in mind.
+Truth on the other hand relies on a choice of interpretation. Given a formal system with an interpretation, we say that a string of the system is true if it comes out true under the given interpretation. For example, --t---q------ is true because two times three does equal six, but P---- is false because four isn’t prime. We can't say whether MIII or MMU are true because we don't have an interpretation for the MU-system in mind.
 
 Since by fiat all of our interpretations translate theorems to true statements, we know:
 
@@ -211,6 +219,8 @@ in a formal system with an interpretation, all provable strings of the system ar
 Or more succinctly: if provable then true. This is really important: it's why mathematicians and physicists can write some funny little squiggles on paper, do logic on them, produce some different funny squiggles, and be confident that the new squiggles actually mean something true about the universe!
 
 You might be tempted to believe the converse: that every true statement in a formal system is also provable. (Or at least, you might have been tempted to think that if I didn't have a whole section titled "truth vs. provability".) But consider the string P-- of the tqCP-system, which interprets to "two is prime." This string is certainly true, since two is prime. But it is not provable in the tqCP-system – in fact, none of the rules of the system allow you to produce a theorem with the character P.
+
+![](https://acximages.ennals.org/images/2021-book-reviews/7006d7780ddbb861.png)
 
 You're probably thinking that this demonstrates that the tqCP-system is bad in some way, or at least woefully incomplete. Perhaps you're tempted to augment the tqCP-system by adding a new rule: if Cx is not a theorem for some x consisting of only hyphens, then Px is a theorem. But there's an issue here: applying this rule requires making a list of all (infinitely many) theorems of the tqCP-system and checking that Cx is not among them. But this is not the sort of simple, mechanistic rule that our formal systems are allowed to have – no person, and certainly no computer, could ever finish writing down all the theorems and checking that C-- is not among them. You might be able to prove from outside the system that C-- is not a theorem, but such "outside the system" reasoning has no bearing on provability inside the system.
 
@@ -230,7 +240,7 @@ Suppose that Donald Trump were to walk into your room and say:
 
 It being Donald Trump, you might suspect that he's lying. But if that were the case, then "This sentence is a lie" would be the truth, so Donald would be telling the truth ... a contradiction! Likewise, if you give him the benefit of the doubt and suppose he's telling the truth, you'll come to find that he's lying, another contradiction (and another Tuesday in politics).
 
-This is called the liar's paradox, and it’s the basic idea behind the proof of Gödel's theorem. The core of the issue is that we have a system (the English language) trying to model itself, and we’ve exhibited a sentence whose interpreted meaning references that very same sentence. This snake-eating-its-own-tail pathology can be arranged to create other [similar paradoxes](https://www.google.com/url?q=https://en.wikipedia.org/wiki/Grelling%25E2%2580%2593Nelson_paradox&sa=D&source=editors&ust=1770366086403189&usg=AOvVaw32FOSm0GO7JqEdVNK45MMQ).
+This is called the liar's paradox, and it’s the basic idea behind the proof of Gödel's theorem. The core of the issue is that we have a system (the English language) trying to model itself, and we’ve exhibited a sentence whose interpreted meaning references that very same sentence. This snake-eating-its-own-tail pathology can be arranged to create other [similar paradoxes](https://en.wikipedia.org/wiki/Grelling%E2%80%93Nelson_paradox).
 
 You might think that we can fix things like this with a simple rule like “no interpretation of a formal system can have the context be that very same system.” Unfortunately, things aren't so easy. Consider the following two-step version of the liar's paradox.
 
@@ -239,6 +249,8 @@ The German sentence below is false.
 Der obige englische Satz ist wahr. ("The English sentence above is true.")
 
 Here, "sentences in English" has an interpretation with context "sentences in German." But "sentences in German" itself can model "sentences in English." And although each sentence by itself is perfectly harmless, the whole is paradoxical!
+
+![](https://acximages.ennals.org/images/2021-book-reviews/aab38fe6bf37e367.png)
 
 Drawing Hands, by M.C. Escher, an illustration of the two-step liar’s paradox.
 
@@ -272,11 +284,13 @@ You can do the same thing for the other rules too.
 
 Let's call a number which corresponds to a theorem of the MIU-system a MIU-number. So we've transformed the claim "MU is a theorem of the MIU-system" to the equivalent claim "30 is a MIU-number," which can also be stated as “30 can be formed from 31 by repeatedly applying such-and-such arithmetical operations.” This might not seem like progress, but it is! The claim "30 is a MIU-number" is a number theoretical statement (though perhaps not an interesting one). In essence, it’s similar to – but more complicated than – the more familiar statement “216 is a power of 6” i.e. “216 can be formed from 1 by repeatedly applying the multiply-by-6 operation.”
 
+![](https://acximages.ennals.org/images/2021-book-reviews/30a7a24162e7046e.png)
+
 Now we can dispose of the MU puzzle by proving a proposition about MIU-numbers:
 
 No MIU-number is divisible by 3.
 
-I’ll leave the proof to you – it’s not hard, especially if you remember [the rule](https://www.google.com/url?q=https://en.wikipedia.org/wiki/Divisibility_rule%23Divisibility_by_3_or_9&sa=D&source=editors&ust=1770366086408757&usg=AOvVaw3OYjA8jR6k5eCj5FOb1mOV) for checking whether a number is divisible by 3.
+I’ll leave the proof to you – it’s not hard, especially if you remember [the rule](https://en.wikipedia.org/wiki/Divisibility_rule#Divisibility_by_3_or_9) for checking whether a number is divisible by 3.
 
 Since MU corresponds to 30, which is divisible by 3, we deduce that 30 is not a MIU-number. Hence MU is not a theorem of the MIU-system, and we’re done. If you're rightly baffled, you can press pause on your computer screen now to reflect deeply on what’s happened. You can press play when you're ready to resume the proof of Gödel's theorem.
 
@@ -288,11 +302,13 @@ In GEB, Hofstadter spends two chapters constructing an explicit example of a for
 
 (here comes the technical meat; please set your brains to “think very hard”)
 
-Suppose we are given a formal system S with an interpretation into number theory. And suppose that the formal system is "rich enough" in the sense that any statement about number theory can be rendered as a string of S. We want to show that S has an unprovable truth. Fix a Gödel numbering for S, i.e. a correspondence between characters of S and digits which turns all the strings of S into numbers and all the rules of S into arithmetical rules. As before, let's call a number an S\-number if it corresponds to a theorem of S.
+Suppose we are given a formal system S with an interpretation into number theory. And suppose that the formal system is "rich enough" in the sense that any statement about number theory can be rendered as a string of S. We want to show that S has an unprovable truth. Fix a Gödel numbering for S, i.e. a correspondence between characters of S and digits which turns all the strings of S into numbers and all the rules of S into arithmetical rules. As before, let's call a number an S-number if it corresponds to a theorem of S.
 
-Given a string G of the system S, let g be the number corresponding to G under the Gödel numbering. Now, "G is not a theorem of S" is equivalent to the number-theoretical claim "g is not an S\-number.” But the number theoretical claim "g is not an S\-number" can in turn be rendered as a string of S (as can any number theoretical claim, by assumption). Let's call this string G'.
+Given a string G of the system S, let g be the number corresponding to G under the Gödel numbering. Now, "G is not a theorem of S" is equivalent to the number-theoretical claim "g is not an S-number.” But the number theoretical claim "g is not an S-number" can in turn be rendered as a string of S (as can any number theoretical claim, by assumption). Let's call this string G'.
 
-In a situation like this, Gödel gave a magic recipe (or see chapters 13 and 14 of GEB) for cooking up a specific string G such that the resulting G' is the same as G. Thus, this G interprets to the statement “g is not an S\-number,” which is true if and only if G is not a theorem of S. Informally, we might say that G carries the meaning “G is not provable in S.” And now we’re done: if G is false, then G is a theorem of S, and is therefore true, a contradiction. So G is true, and thus G is not provable. Thus G is an unprovable truth and S is incomplete. Q.E.D.
+In a situation like this, Gödel gave a magic recipe (or see chapters 13 and 14 of GEB) for cooking up a specific string G such that the resulting G' is the same as G. Thus, this G interprets to the statement “g is not an S-number,” which is true if and only if G is not a theorem of S. Informally, we might say that G carries the meaning “G is not provable in S.” And now we’re done: if G is false, then G is a theorem of S, and is therefore true, a contradiction. So G is true, and thus G is not provable. Thus G is an unprovable truth and S is incomplete. Q.E.D.
+
+![](https://acximages.ennals.org/images/2021-book-reviews/753d248c62f8e262.png)
 
 I'll end this section with an exercise for those interested: how is this proof like the proof of undecidability of the halting problem? (For solutions, please consult Gödel, Escher, Bach by Douglas Hofstadter.)
 
@@ -310,19 +326,21 @@ Why so? Part of it is that Hofstadter argues from first principles for a bunch o
 2.  He seems to believe that the way we think thoughts is for all of our various modules to fire together in roughly the same way that a bunch of words are said together to form a sentence. E.g. the thought "My grandmother is happy" boils down to the modules in your brain representing "grandmother" and "happy" firing together, along with some additional information to specify that it is “my grandmother” instead of just “a grandmother” and things like that.
 3.  His paradigm of (artificial) intelligence seems to involve intelligent systems working symbolically within a formal system while simultaneously connecting the patterns of the formal system to whatever problems it’s trying to solve.
 
-Idea 1 … well it’s actually not so bad. We have a decent understanding of how the brain does the most basic steps of visual processing – things like edge detection – and we’ve identified some particular neurons that fire together in certain ways to encode information about the orientations of lines. This is kinda like a low-level version of grandmother module for very simple concepts like vertical-ness (though apparently [predictive processing](https://www.google.com/url?q=https://slatestarcodex.com/2017/09/05/book-review-surfing-uncertainty/&sa=D&source=editors&ust=1770366086416452&usg=AOvVaw09wIu3YpgRJpglrpNkC2NF) has another take on what information exactly is being represented). Also, some people with brain damage have [trouble distinguishing](https://www.google.com/url?q=http://klab.tch.harvard.edu/academia/classes/Neuro230/2012/HMS230_Reading_Assignment_3.pdf&sa=D&source=editors&ust=1770366086416696&usg=AOvVaw1UrQOUP6-hBag14Kq0H-8E) among inanimate objects but not among animate ones, which if you squint kinda looks like evidence we have an “inanimate object” module in our brain which sometimes gets damaged.
+Idea 1 … well it’s actually not so bad. We have a decent understanding of how the brain does the most basic steps of visual processing – things like edge detection – and we’ve identified some particular neurons that fire together in certain ways to encode information about the orientations of lines. This is kinda like a low-level version of grandmother module for very simple concepts like vertical-ness (though apparently [predictive processing](https://slatestarcodex.com/2017/09/05/book-review-surfing-uncertainty/) has another take on what information exactly is being represented). Also, some people with brain damage have [trouble distinguishing](http://klab.tch.harvard.edu/academia/classes/Neuro230/2012/HMS230_Reading_Assignment_3.pdf) among inanimate objects but not among animate ones, which if you squint kinda looks like evidence we have an “inanimate object” module in our brain which sometimes gets damaged.
 
 On the other hand, my girlfriend studies the brain of C. elegans, a nematode with 302 neurons (the human brain has around 86 billion neurons). She specifically studies olfaction – how the worm processes smells. You would think if there were a small module representing the concept of sulfuric-odor-ness or whatever, we would have found it by now. Instead, it doesn’t really look like the information of the smell is stored in any one place. Her advisor – a fancy professor who knows a whole lot about the C. elegans brain – thinks that the whole brain is involved even in simple things like detecting a smell. And my sense of the more complicated field of human neuroscience is that it’s not so keen on the “such-and-such part of the brain represents such-and-such concept” paradigm either.
 
 Given these issues with idea 1, idea 2 looks only more ludicrous. I’m not even sure what to say here other than to gesture generally at everything I know about the brain (warning: not much) and note that none of it looks at all like this paradigm.
 
-Maybe idea 3 – building an AI that constructs formal systems to model the world, and then works within these formal systems to generate new data/predictions/whatever – could work. But it seems so, so far from the direction that AI has actually gone. I don’t see how this paradigm could survive a collision with GPT-3, which can write ([and draw](https://www.google.com/url?q=https://openai.com/blog/dall-e/&sa=D&source=editors&ust=1770366086418472&usg=AOvVaw3f5bfkAYfib4eR6jb5DN6a)) better than most people I know, but fails at multiplying large numbers. If GPT-3 secretly works by constructing a super complex formal system that models the human-produced text in its training data, how come it couldn’t come up with a much simpler formal system (like the tq\-system) for modeling the multiplications?
+Maybe idea 3 – building an AI that constructs formal systems to model the world, and then works within these formal systems to generate new data/predictions/whatever – could work. But it seems so, so far from the direction that AI has actually gone. I don’t see how this paradigm could survive a collision with GPT-3, which can write ([and draw](https://openai.com/blog/dall-e/)) better than most people I know, but fails at multiplying large numbers. If GPT-3 secretly works by constructing a super complex formal system that models the human-produced text in its training data, how come it couldn’t come up with a much simpler formal system (like the tq-system) for modeling the multiplications?
 
 Actually, why am I even talking about GPT-3? Are we really supposed to believe that the human brain is able to model all the complexities of language, society, whatever by computing really rapidly in hyper-complex formal systems ... yet I can’t consistently subtract 6 from 11? Whatever my brain is doing to model the world, constructing and working in formal systems doesn’t seem like one of its natural hardware capabilities.
 
-In fact, this is exactly what has given us our edge over computers until now! Any useful formal system is necessarily very complicated and unwieldy. Hofstadter spends two chapters constructing a formal system for modeling number theory, and as a challenge asks the reader to write down the statement “x is a power of 10” as a string of the formal system. [Here’s](https://www.google.com/url?q=https://math.stackexchange.com/questions/893526/how-to-express-b-is-a-power-of-10-typographical-number-theory-in-g%25C3%25B6del-esche&sa=D&source=editors&ust=1770366086419818&usg=AOvVaw2hzVRgCt5jgl944WX3kOCE) the answer; scroll down to where it says “all together.” Humans have been able to outthink computers so far by implementing high-level heuristics instead of working with formal systems directly. And to the extent that computers are catching up, it seems like they’re doing it by coming up with even better high-level heuristics, not by throwing more resources at more efficient formal systems. (Unrelated: upon reading an article saying that AI would put mathematicians out of business in 10 years, my advisor remarked: “That’s just enough time for you to get tenure!”)
+In fact, this is exactly what has given us our edge over computers until now! Any useful formal system is necessarily very complicated and unwieldy. Hofstadter spends two chapters constructing a formal system for modeling number theory, and as a challenge asks the reader to write down the statement “x is a power of 10” as a string of the formal system. [Here’s](https://math.stackexchange.com/questions/893526/how-to-express-b-is-a-power-of-10-typographical-number-theory-in-g%C3%B6del-esche) the answer; scroll down to where it says “all together.” Humans have been able to outthink computers so far by implementing high-level heuristics instead of working with formal systems directly. And to the extent that computers are catching up, it seems like they’re doing it by coming up with even better high-level heuristics, not by throwing more resources at more efficient formal systems. (Unrelated: upon reading an article saying that AI would put mathematicians out of business in 10 years, my advisor remarked: “That’s just enough time for you to get tenure!”)
 
-For now, it tentatively seems to me that Hofstadter is playing the “[Gödel’s theorem and consciousness are both mysterious and therefore equivalent](https://www.google.com/url?q=https://www.smbc-comics.com/comic/the-talk-3&sa=D&source=editors&ust=1770366086420663&usg=AOvVaw3UEuoABtgYuCb9nYhtc705)” game. If there's some way to salvage Hofstadter's ideas in part II, someone other than me will have to write the book review doing it.
+For now, it tentatively seems to me that Hofstadter is playing the “[Gödel’s theorem and consciousness are both mysterious and therefore equivalent](https://www.smbc-comics.com/comic/the-talk-3)” game. If there's some way to salvage Hofstadter's ideas in part II, someone other than me will have to write the book review doing it.
+
+![](https://acximages.ennals.org/images/2021-book-reviews/3aa3aa3041db914a.png)
 
 Relativity, by M.C. Escher. Like GEB, this drawing makes more sense if you only look at half of it.
 

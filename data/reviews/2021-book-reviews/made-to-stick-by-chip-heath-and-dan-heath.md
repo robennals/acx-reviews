@@ -163,7 +163,7 @@ A lot of the ideas in this book seem obvious, so obvious that I feel like I don'
 
 Some of the advertisements on the SSC website are already using the principles described in the book, and I doubt it is because the people making those ads already read the book.
 
-(Note: I wrote this before the SSC website got taken down: you can see the ads which I mention via [the Wayback Machine](https://www.google.com/url?q=https://web.archive.org/web/20200601140029/https://slatestarcodex.com/&sa=D&source=editors&ust=1770366086633761&usg=AOvVaw1SLhWAnqWh5q5LMMXxCYHS)
+(Note: I wrote this before the SSC website got taken down: you can see the ads which I mention via [the Wayback Machine](https://web.archive.org/web/20200601140029/https://slatestarcodex.com/)
 
 The book talks about why focusing on a single African child is so effective for fundraising for charities, and lo and behold, the Altruisto ad features a photo of a single African child. It's a cliche of charity fundraising, and thus non-surprising, but at least it's a tactic with a good track record of working to some extent (though, for the record, I've never clicked on the ad).
 

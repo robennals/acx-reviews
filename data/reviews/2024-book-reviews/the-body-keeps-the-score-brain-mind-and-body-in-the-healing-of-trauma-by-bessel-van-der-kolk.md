@@ -10,7 +10,7 @@ year: 2024
 publishedDate: '2026-02-06T16:49:14.000Z'
 slug: >-
   the-body-keeps-the-score-brain-mind-and-body-in-the-healing-of-trauma-by-bessel-van-der-kolk
-wordCount: 3915
+wordCount: 3916
 readingTimeMinutes: 18
 originalUrl: >-
   https://docs.google.com/document/d/14qa47TJ_Vyerx4XNgTCIh7PUZ_TOgNcU_eHm5So_zo0
@@ -51,7 +51,7 @@ Most humans do have more memories of September 11 than September 10.
   
 But those memories are not necessarily accurate! [An actual September 11 study](https://gablab.mit.edu/wp-content/uploads/2015-a-ten-year-follow-up-of-a-study-of-memory-for-the-attack-of-september-11-2001-flashbulb-memories-and-memories-for-flashbulb-events.pdf) says: “even traumatic memories…may be inconsistent over time and these inconsistencies can persist without the corrective force of external influences.”
 
-van der Kolk admits memories are unreliable, but claimsPTSD and trauma memories will be intact.
+van der Kolk admits memories are unreliable, but claims PTSD and trauma memories will be intact.
 
 We all know how fickle memory is; our stories change and are constantly revised and updated. When my brothers, sisters, and I talk about events in our childhood, we always end up feeling that we grew up in different families—so many of our memories simply do not match…
 

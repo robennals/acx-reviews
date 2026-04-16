@@ -7,7 +7,7 @@ contestName: 2023 Book Reviews
 year: 2023
 publishedDate: '2026-02-06T07:21:10.022Z'
 slug: autoheterosexual-attracted-to-being-the-other-sex
-wordCount: 7214
+wordCount: 7216
 readingTimeMinutes: 33
 originalUrl: >-
   https://docs.google.com/document/d/10CiEI7aDL2bMIdx7yayy3vlq0TJ8dO5LGnG7yIDPiw8
@@ -21,23 +21,23 @@ If I ask ChatGPT to explain transgender people to me, then it often retreats int
 
 Some people claim to do better, using elaborate words like autogynephilia and gynandromorphophilia and so on. They speak of typologies, science and history. Of developmental pathways and genetics. This network of ideas and mutual trust is sometimes called Blanchardianism, named after Ray Blanchard, a sex researcher who contributed many influential ideas within the sphere.
 
-Phil Illy’s book, [Autoheterosexual: Attracted to Being the Other Sex](https://www.google.com/url?q=https://autohetbook.com/&sa=D&source=editors&ust=1770366049772156&usg=AOvVaw3Ch6BpxkwLuZ05vzoKmELV) is the latest book pushing Blanchardianism. But is it any good?
+Phil Illy’s book, [Autoheterosexual: Attracted to Being the Other Sex](https://autohetbook.com/) is the latest book pushing Blanchardianism. But is it any good?
 
 ## Autogynephilia
 
-Both [Phil](https://www.google.com/url?q=https://twitter.com/autogynephilic&sa=D&source=editors&ust=1770366049772550&usg=AOvVaw0qf7mzpTfZqSlg0C29VVjg) and I are probably most familiar with the concept of autogynephilia, so let’s start there. A substantial part of the book is about the feelings and experiences of autogynephiles.
+Both [Phil](https://twitter.com/autogynephilic) and I are probably most familiar with the concept of autogynephilia, so let’s start there. A substantial part of the book is about the feelings and experiences of autogynephiles.
 
 Some individuals, born male, feel a deep happiness when imagining themselves as a woman and a deep sadness being a man, and this is often due to autogynephilia. Phil Illy explains that autogynephilia can be seen as an inverted form of sexual attraction to women, where the individual's attraction to women is applied to themselves. Autogynephilia is ultimately about sexuality, but Phil emphasizes that many of the feelings and experiences he describes are not driven by lust, but instead by strong emotional attachments. In some cases it can cause them to have medical treatment and make social changes to live as women.
 
 Phil suggests that this accounts for most trans women in the US. Some people with strong autogynephilia might feel as if they have female body parts, like breasts or a vagina, even if they haven't undergone any medical procedures to obtain these features. The book also looks at how autogynephiles might act more like women in the way they talk and move, and how they might want to prefer spending their time around women rather than men.
 
-[Phil Illy](https://www.google.com/url?q=https://phililly.substack.com/&sa=D&source=editors&ust=1770366049773957&usg=AOvVaw0rNAI0lt-uVdjv9muxIYMO) talks about how autogynephiles enjoy the feeling and look of women's clothes. Wearing these clothes can sometimes replace friendships and socializing for them. Autogynephilia can also make someone feel like they have a period, even though they don't (because they want to have a female body). The book also talks about autogynephiles stealing clothes from female family members.
+[Phil Illy](https://phililly.substack.com/) talks about how autogynephiles enjoy the feeling and look of women's clothes. Wearing these clothes can sometimes replace friendships and socializing for them. Autogynephilia can also make someone feel like they have a period, even though they don't (because they want to have a female body). The book also talks about autogynephiles stealing clothes from female family members.
 
 The author looks at many different parts of autogynephilia to help readers understand it better, including the sexual side. He explains that autogynephiles have sexual fantasies about becoming a woman through magic or science fiction, or about being embarrassed by wearing women's clothes and being sexually submissive to men. They might also have fantasies about having sex with dominant women who make them submit. During sex, they may wear women's clothes or special devices called chastity cages. These sexual parts of autogynephilia help us understand the whole experience and desires of people with this orientation.
 
 As mentioned before, Phil claims autogynephilia accounts for most trans women in the US. But most trans women, and the trans community in general, disagree with this assessment, and claim that trans women don’t transition because of autogynephilia. So why does he believe that? He bases this on multiple different sources.
 
-First, he draws heavily on some of the very earliest collections of case studies we have on transfeminine identity. He says that the transvestites in these studies are unlikely to face the political pressures that most modern trans women face, and therefore more likely to be honest about their autogynephilia. These include texts from the books Richard von Krafft-Ebing’s Psychopathia Sexualis, Havelock Ellis’ Studies In The Psychology Of Sex ([Eonism](https://www.google.com/url?q=https://archive.org/details/b30010172/page/n11/mode/2up&sa=D&source=editors&ust=1770366049775838&usg=AOvVaw1NEdnvC64hmWaoAIEupUdG)), and Hirchsfeld’s [Transvestites](https://www.google.com/url?q=https://www.amazon.com/Transvestites-New-Concepts-Human-Sexuality/dp/0879756659&sa=D&source=editors&ust=1770366049775968&usg=AOvVaw1q95ILpPUpvJQ_uDV7QwnF). One case he draws a lot on is the case he calls the [Hungarian physician (case 129)](https://www.google.com/url?q=https://archive.org/details/in.ernet.dli.2015.200360/page/n323/mode/2up&sa=D&source=editors&ust=1770366049776124&usg=AOvVaw0wLBByotQMnmr4hDRwy6ug), which I would summarize as follows:
+First, he draws heavily on some of the very earliest collections of case studies we have on transfeminine identity. He says that the transvestites in these studies are unlikely to face the political pressures that most modern trans women face, and therefore more likely to be honest about their autogynephilia. These include texts from the books Richard von Krafft-Ebing’s Psychopathia Sexualis, Havelock Ellis’ Studies In The Psychology Of Sex ([Eonism](https://archive.org/details/b30010172/page/n11/mode/2up)), and Hirchsfeld’s [Transvestites](https://www.amazon.com/Transvestites-New-Concepts-Human-Sexuality/dp/0879756659). One case he draws a lot on is the case he calls the [Hungarian physician (case 129)](https://archive.org/details/in.ernet.dli.2015.200360/page/n323/mode/2up), which I would summarize as follows:
 
 He was born into a family with a history of mental illnesses and, as a child, was small, pretty, introverted, and intelligent. He shared a close bond with his mother and was treated like a girl by her sisters.
 
@@ -65,6 +65,8 @@ The biggest problem with the book is that many of its core points are wrong. One
 
 In order for this to work, the main reason people would answer "yes" to those questions should be because they have the true form of autogynephilia described in the book. However, based on questions I’ve asked of men who say they have this sexuality, they often have a different condition, which I'll call "pseudo autogynephilia." This condition differs from true autogynephilia in several ways, some of which can be seen here:
 
+![](https://acximages.ennals.org/images/2023-book-reviews/04cc4cf9577d57eb.png)
+
 (You shouldn’t think of the above as necessarily following a specific pattern. The “true autogynephilia” column just contains the characteristics that Phil has collected which are descriptive of autogynephilia. “Pseudo autogynephilia” are just the characteristics I have collected which are descriptive of men who score high on measures intended to get at true autogynephilia. Maybe there is a pattern, but it’s not the point.)
 
 This error makes me question the core claims of the book. For instance, how do we know that the trans women Blanchard studied had true autogynephilia, rather than pseudo autogynephilia (or some third thing)? We don’t, really.
@@ -73,7 +75,7 @@ I also don’t think I buy into the book’s characterization of true autogyneph
 
 An alternate theory of the origins of forced feminization would be the following: Maybe some find it shameful to be feminized (... perhaps because of societal stigma against male femininity?), and for some people shame becomes erotic. This would explain not just their eroticization of forced feminization, but also their eroticization of things like chastity cages, which don’t seem particularly feminizing.
 
-I think what happened is that there were some trans women who just happened to be masochistic ([lots of people are masochistic!](https://www.google.com/url?q=https://pubmed.ncbi.nlm.nih.gov/26941021/&sa=D&source=editors&ust=1770366049783920&usg=AOvVaw0iGG9h3C3ozikRXMYJIUUI)), and people jumped on lumping this into the category of autogynephilia, without thinking about whether it was really better explained by other factors. There are many examples of this, where the book picks up a thing from an old story, suggests it originates from an inversion of heterosexuality, but where the thing really seems better explained by other factors, e.g.:
+I think what happened is that there were some trans women who just happened to be masochistic ([lots of people are masochistic!](https://pubmed.ncbi.nlm.nih.gov/26941021/)), and people jumped on lumping this into the category of autogynephilia, without thinking about whether it was really better explained by other factors. There are many examples of this, where the book picks up a thing from an old story, suggests it originates from an inversion of heterosexuality, but where the thing really seems better explained by other factors, e.g.:
 
 *   Does inverted heterosexuality supplant the need for friendship, or is it just that someone had some introverted tendencies or social difficulties which may or may not independently correlate with transness?
 *   Was the Hungarian physician’s perceptions of having a female body really due to autogynephilia, or did it have something to do with their drug use and mental illnesses?
@@ -103,7 +105,7 @@ However, I think Phil goes too far when he concludes that the ordering is theref
 
 In the section where he makes the argument, Phil is very focused on the idea that gender identity labels change but sexual orientations do not change. He argues that since the change in self-identity happens much later than the autogynephilic arousal, identity cannot be taken to cause autogynephilia.
 
-But in my experience, even way prior to transition, if you go out and ask autogynephiles how they feel about being male, they will give very different answers from what you get if you ask ordinary men. For instance [one study](https://www.google.com/url?q=https://pubmed.ncbi.nlm.nih.gov/25277693/&sa=D&source=editors&ust=1770366049789881&usg=AOvVaw1C672df6vvwCBY0IoNrK9P) found effect sizes of d=1.86 to d=2.85 (depending on how you count).
+But in my experience, even way prior to transition, if you go out and ask autogynephiles how they feel about being male, they will give very different answers from what you get if you ask ordinary men. For instance [one study](https://pubmed.ncbi.nlm.nih.gov/25277693/) found effect sizes of d=1.86 to d=2.85 (depending on how you count).
 
 2b: It is true that there are autogynephiles who don’t transition. Some of them really want to transition and dislike being male; for instance I’ve seen one of them say the following:
 
@@ -127,7 +129,7 @@ If I’m willing to think of pseudo autogynephilia as being the real form of aut
 
 When I asked Phil, he also said he preferred the pseudo autogynephilia vs true autogynephilia characterization to a characterization of him just being totally wrong about autogynephilia.
 
-✱✱ If you want to see the most recent serious entry into the debate about autogynephilia in cis women, then it is the paper [It Helps If You Stop Confusing Gender Dysphoria and Transvestism](https://www.google.com/url?q=https://www.researchgate.net/publication/363429868_A_Response_to_Bailey_and_Hsu_2022_It_Helps_If_You_Stop_Confusing_Gender_Dysphoria_and_Transvestism&sa=D&source=editors&ust=1770366049794660&usg=AOvVaw0629p3k6AKUPfIEDK2rrE1). It is somewhat biased against autogynephilia theory, though.
+✱✱ If you want to see the most recent serious entry into the debate about autogynephilia in cis women, then it is the paper [It Helps If You Stop Confusing Gender Dysphoria and Transvestism](https://www.researchgate.net/publication/363429868_A_Response_to_Bailey_and_Hsu_2022_It_Helps_If_You_Stop_Confusing_Gender_Dysphoria_and_Transvestism). It is somewhat biased against autogynephilia theory, though.
 
 ## The good and the bad
 
@@ -145,7 +147,7 @@ While I complained earlier about aspects of its portrayal of autogynephiles, the
 
 It is also very informative about an adjacent topic, namely ‘traps’ - which it defines as feminized males with an intact penis\*. Did you know that men who are attracted to traps are usually more attracted to cis women than to cis men? Did you know that men who are attracted to traps are also often autogynephilic? I knew that ahead of time, but many people might not. By reading the book, you can learn much more about this sort of attraction.
 
-One concept he brings up is erotic target location errors. Basically, consider the controversy of [Rachel Dolezal](https://www.google.com/url?q=https://en.wikipedia.org/wiki/Rachel_Dolezal&sa=D&source=editors&ust=1770366049798388&usg=AOvVaw2W1MtzQLMwYwE5Rbe89dyT), a woman who became the center of a controversy for identifying as black when she was born white. Phil suggests that she may be “autophylophilic”, sexually attracted to being black, a sort of racial analogue of autogynephilia. Phil suggests that for any trait one can be sexually attracted to in others, there can be a corresponding self-directed sexual attraction, and he gives examples of this, including furries and body integrity identity disorder.
+One concept he brings up is erotic target location errors. Basically, consider the controversy of [Rachel Dolezal](https://en.wikipedia.org/wiki/Rachel_Dolezal), a woman who became the center of a controversy for identifying as black when she was born white. Phil suggests that she may be “autophylophilic”, sexually attracted to being black, a sort of racial analogue of autogynephilia. Phil suggests that for any trait one can be sexually attracted to in others, there can be a corresponding self-directed sexual attraction, and he gives examples of this, including furries and body integrity identity disorder.
 
 I am not sure I buy Phil’s story about autophylophilia and erotic target location errors. However, the chapter on transracialism is interesting, as it gives more details about Rachel Dolezal’s background. Did you know that she had a strong, lifelong attraction to black culture? Unfortunately, due to the many errors elsewhere in the book, I am not sure whether I can trust Phil to accurately represent Rachel Dolezal’s background, but it certainly is fascinating if true.
 
@@ -182,7 +184,9 @@ However, only a minority of autoheterosexuals transition to live as the other se
 
 What about the rest of us? Don’t we deserve a fair shot at making sense of our experiences?
 
-If either theory is true, it may eventually be provable using neuroscience to identify autogynephilia or brain feminization and show the direction of causality. This means that we can use prediction markets about future neuroscience findings to establish a consensus. There is currently [a market about this on Manifold Markets](https://www.google.com/url?q=https://manifold.markets/tailcalled/if-a-solid-neurological-study-of-tr&sa=D&source=editors&ust=1770366049807139&usg=AOvVaw3bv5jz-I2XJnOb4tjK2Mgj), which at the time of writing gives the theory 21%-23% probability, much more than the 12% probability of the feminine essence narrative:
+If either theory is true, it may eventually be provable using neuroscience to identify autogynephilia or brain feminization and show the direction of causality. This means that we can use prediction markets about future neuroscience findings to establish a consensus. There is currently [a market about this on Manifold Markets](https://manifold.markets/tailcalled/if-a-solid-neurological-study-of-tr), which at the time of writing gives the theory 21%-23% probability, much more than the 12% probability of the feminine essence narrative:
+
+![](https://acximages.ennals.org/images/2023-book-reviews/d30dbbfe3ae61606.png)
 
 (This is a thinly traded market. If you know anything about the topic, please trade to improve the probabilities!)
 
@@ -206,7 +210,7 @@ But the notion of “I am not trans, I just have a fetish” is memetically simi
 
 Phil tries hard to work against this in his book. However I think he will fail because he is working against natural memetic evolution. For example, it doesn’t seem to me that it is useful for people’s primary identity label to be one that lumps together private transvestites with public transsexuals, because it doesn’t relate to people’s lives. Instead I expect people to end up categorizing based on lifestyle.
 
-Years ago, I was challenged to come up with practical applications of autoheterosexuality theory. I never succeeded. I am reminded of the post [Extreme Rationality: It’s Not That Great](https://www.google.com/url?q=https://www.lesswrong.com/posts/LgavAYtzFQZKg95WC/extreme-rationality-it-s-not-that-great&sa=D&source=editors&ust=1770366049811570&usg=AOvVaw3ovQM9I88x6qc-Py4VW8L7). Aspects of autoheterosexuality theory may if you are lucky bring some clarity-of-mind benefits, but nobody has been able to come up with convincing applications that help you in practice. Still, since you’re reading this review on Astral Codex Ten, you may appreciate the clarity-of-mind benefits anyway.
+Years ago, I was challenged to come up with practical applications of autoheterosexuality theory. I never succeeded. I am reminded of the post [Extreme Rationality: It’s Not That Great](https://www.lesswrong.com/posts/LgavAYtzFQZKg95WC/extreme-rationality-it-s-not-that-great). Aspects of autoheterosexuality theory may if you are lucky bring some clarity-of-mind benefits, but nobody has been able to come up with convincing applications that help you in practice. Still, since you’re reading this review on Astral Codex Ten, you may appreciate the clarity-of-mind benefits anyway.
 
 I also think fans of autogynephilia theory make their own research mistakes because they try hard to avoid distinguishing between autogynephilic cis men and gynephilic trans women. They generalize things inappropriately back and forth between trans women and autogynephilic cis men, without checking whether the generalizations are valid.
 
@@ -222,7 +226,7 @@ However, the concept of meta-attraction can end up being a form of gaslighting; 
 
 But on the other hand, the book emphasizes that it can be difficult to tell the difference between meta-attraction and classical attraction. These seem hard to square to me, and in my impression when communities apply the concept of meta-attraction, it is often done in a gaslighty manner, where they tell people that they are deluded about their sexual experiences.
 
-Homosexuality and gender identity: The book vaguely implies that there is a connection between homosexuality and gender dissatisfaction, while neglecting to mention that [typical gay men are as happy about being male as straight men are](https://www.google.com/url?q=https://research.vumc.nl/ws/portalfiles/portal/354253/hoofdstuk%2B03.pdf&sa=D&source=editors&ust=1770366049814636&usg=AOvVaw2PnAMs46NDMP-ujtAdASjG).
+Homosexuality and gender identity: The book vaguely implies that there is a connection between homosexuality and gender dissatisfaction, while neglecting to mention that [typical gay men are as happy about being male as straight men are](https://research.vumc.nl/ws/portalfiles/portal/354253/hoofdstuk+03.pdf).
 
 This problem feels especially noticeable in the chapter on juvenile transition. The book argues that when minors transition, they are usually homosexual rather than autoheterosexual.
 
@@ -230,7 +234,7 @@ However, if homosexual males typically end up perfectly happy with being male\*,
 
 I don’t know, and these are the questions that make me most ambivalent about transition for minors, but they aren’t addressed.
 
-Heritability: The book discusses heritability in a way that is basically invalid, due to the [phenotypic null hypothesis](https://www.google.com/url?q=https://tailcalled.substack.com/p/if-everything-is-genetic-then-nothing?s%3Dw&sa=D&source=editors&ust=1770366049815678&usg=AOvVaw0_fTRpZZCLFPdYpfdmFHSc). It treats heritability as a proof that things are biological, when really basically everything is heritable in a tautological way.
+Heritability: The book discusses heritability in a way that is basically invalid, due to the [phenotypic null hypothesis](https://tailcalled.substack.com/p/if-everything-is-genetic-then-nothing?s=w). It treats heritability as a proof that things are biological, when really basically everything is heritable in a tautological way.
 
 Apophenia: The book often makes very questionable inferences, involving linking things that are barely even related.
 
@@ -246,7 +250,7 @@ The motte version of this theory is a response to people arguing that autogyneph
 
 I think many trans women’s experiences can be shoehorned into the motte theory, and so it is hard to argue against. Though because it states things so weakly, it can also be hard to argue in favor of it.
 
-To defend the romance hypothesis, Phil argues that it has been observed for decades, citing researchers such as [H. T. Buckner](https://www.google.com/url?q=http://www.tbuckner.com/TRANSVES.HTM&sa=D&source=editors&ust=1770366049817935&usg=AOvVaw3htwpqd2Qdug6TstrLhNeB), who finds that transvestites treat their crossdressed selves as a sort of girlfriend. This includes buying gifts for themselves, talking about themselves in a dissociated/dualized way, etc.. Phil also cites the example of Lou Sullivan, a trans man who would speak of his union between his male and female self, and sing about his self-love:
+To defend the romance hypothesis, Phil argues that it has been observed for decades, citing researchers such as [H. T. Buckner](http://www.tbuckner.com/TRANSVES.HTM), who finds that transvestites treat their crossdressed selves as a sort of girlfriend. This includes buying gifts for themselves, talking about themselves in a dissociated/dualized way, etc.. Phil also cites the example of Lou Sullivan, a trans man who would speak of his union between his male and female self, and sing about his self-love:
 
 Seven years prior to his gender transition, Lou Sullivan touched on this theme of internal union in his diary. Just before he got his first leather jacket and began to commit more deeply to transvestism, he wrote: I love to blend female and male—I think of myself as two people finally coming together in peace with each other. Of my other half, I sing, ‘Nobody loves me but me adores you!’”
 
@@ -278,19 +282,19 @@ There’s a lot of places in reading the book where I’ve been ambivalent. For 
 
 In the book, Phil suggests that furries have an erotic target location error, analogous to autoheterosexuality, where they have a sexual attraction to anthropomorphic animals, and then this attraction in some sense becomes self-directed.
 
-To support this, Phil draws on some surveys (e.g. [The “Furry” Phenomenon](https://www.google.com/url?q=https://www.researchgate.net/publication/331375793_The_Furry_Phenomenon_Characterizing_Sexual_Orientation_Sexual_Motivation_and_Erotic_Target_Identity_Inversions_in_Male_Furries&sa=D&source=editors&ust=1770366049825292&usg=AOvVaw0JYpU2sqJkkYMUTzehdkgi)) which find that a lot of furries report sexual attraction to anthropomorphic animals, sexual attraction to being an anthropomorphic animal, and that the kind of anthropomorphic animal they are attracted to being is commonly the same as the kind they are attracted to as partners.
+To support this, Phil draws on some surveys (e.g. [The “Furry” Phenomenon](https://www.researchgate.net/publication/331375793_The_Furry_Phenomenon_Characterizing_Sexual_Orientation_Sexual_Motivation_and_Erotic_Target_Identity_Inversions_in_Male_Furries)) which find that a lot of furries report sexual attraction to anthropomorphic animals, sexual attraction to being an anthropomorphic animal, and that the kind of anthropomorphic animal they are attracted to being is commonly the same as the kind they are attracted to as partners.
 
 However, when I look at the furry surveys, I notice a lot of oddities that makes it questionable whether it is analogous to autoheterosexuality. For instance, in the case of autogynephilia, most men are gynephilic (attracted to women) but only a few are autogynephilic. But with furries, most furries are both attracted to anthros as partners and most furries are attracted to being anthros. If the mechanisms were the same, shouldn’t the pattern for furries be the same as the pattern for gynephiles? (With most furries being attracted to anthros as partners, but not to being anthros themselves.) And this is not the only example of internal contradictions in the theories about furries.
 
 Does it seem plausible that there’s something going on with furries that is analogous to transness? Yes. But also, maybe it’s not analogous, maybe the similarities are superficial. I think it’s worth collecting more information on it, but also I can’t blame people for not engaging with his theories about furries, when those theories contain so many weak arguments and internal contradictions, and so little data.
 
-And speaking of data, it is my impression that a lot of the characterization of what autogynephilia is like was created by stitching together anecdotes from trans women. But I worry that people are more likely to share unusual or extreme anecdotes, [which would skew the characterization of autogynephilia towards the unusual or extreme end](https://www.google.com/url?q=https://slatestarcodex.com/2015/09/16/cardiologists-and-chinese-robbers/&sa=D&source=editors&ust=1770366049827199&usg=AOvVaw3Jt752l_mEQo_M50BEy2t6). And as mentioned earlier in the review, I worry that trans women may have other characteristics (either systematically or by coincidence) which get misattributed as inverted attraction to women.
+And speaking of data, it is my impression that a lot of the characterization of what autogynephilia is like was created by stitching together anecdotes from trans women. But I worry that people are more likely to share unusual or extreme anecdotes, [which would skew the characterization of autogynephilia towards the unusual or extreme end](https://slatestarcodex.com/2015/09/16/cardiologists-and-chinese-robbers/). And as mentioned earlier in the review, I worry that trans women may have other characteristics (either systematically or by coincidence) which get misattributed as inverted attraction to women.
 
 I don’t think these problems are unsolvable. You’d go a long way by just taking all the autogynephilia stereotypes you’ve come up with, collecting data on them in a large general population sample, and performing factor analysis of this data. This would automatically disentangle coincidence from correlation, and it would be able to tell whether the stereotypes are getting at a single unified thing, or a mishmash of independent characteristics. This is fairly standard methodology, but researchers who work on autogynephilia seem strangely averse to doing it.
 
 But I don’t think the negativity of this review can be entirely blamed on the research in these areas being weak, rather than on Phil. As you saw earlier in the review (such as with the arguments about direction of causality), I thought some of his own arguments were very bad. This can’t just be a data error.
 
-I find this to be a deeply anti-rational approach, and I think is not viable if we want to do incremental science. [Local Validity is a Key to Sanity and Civilization](https://www.google.com/url?q=https://www.lesswrong.com/posts/WQFioaudEH8R7fyhm/local-validity-as-a-key-to-sanity-and-civilization&sa=D&source=editors&ust=1770366049828650&usg=AOvVaw3QOZ9AuwQ9uHj8YSZoJHap). If we accept poor and invalid arguments as long as they lead to the “right” conclusion, we will end up immersing ourselves into a thick mist of invalid and misleading arguments. This will be confusing, and when new surprising evidence comes along, I think the habit of making incorrect arguments will lead to making incorrect arguments about that evidence too. I have tried talking to some of the people doing research in this area, and I find this to be a serious problem in practice, which prevents them from doing course-corrections when needed.
+I find this to be a deeply anti-rational approach, and I think is not viable if we want to do incremental science. [Local Validity is a Key to Sanity and Civilization](https://www.lesswrong.com/posts/WQFioaudEH8R7fyhm/local-validity-as-a-key-to-sanity-and-civilization). If we accept poor and invalid arguments as long as they lead to the “right” conclusion, we will end up immersing ourselves into a thick mist of invalid and misleading arguments. This will be confusing, and when new surprising evidence comes along, I think the habit of making incorrect arguments will lead to making incorrect arguments about that evidence too. I have tried talking to some of the people doing research in this area, and I find this to be a serious problem in practice, which prevents them from doing course-corrections when needed.
 
 ✱ This also suggests another critique: since autoheterosexuality is not about the clothes, the fact that scientists thought so is indicative of a pretty serious problem with science.
 

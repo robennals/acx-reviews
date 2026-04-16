@@ -7,7 +7,7 @@ contestName: 2022 Book Reviews
 year: 2022
 publishedDate: '2026-02-06T07:21:54.173Z'
 slug: the-russian-revolution-a-new-history-by-sean-mcmeekin
-wordCount: 8189
+wordCount: 8191
 readingTimeMinutes: 37
 originalUrl: >-
   https://docs.google.com/document/d/1hFzjXliCAWjvheY-8Qd2fhbF79LnX0Xg6R9eqk9yIyI
@@ -29,7 +29,7 @@ The lessons from this period of history also seem dramatically under-considered
 
 Russia has always had a reputation for backwardness. It lagged western Europe dramatically in abolishing serfdom, only doing so in 1861.
 
-Before then, Russia mostly missed the capitalist and industrial revolutions that western Europe experienced. So in 1870, for instance, [just](https://www.google.com/url?q=https://ourworldindata.org/literacy%23when-did-literacy-start-increasing-in-europe&sa=D&source=editors&ust=1770366106591898&usg=AOvVaw0cHUOYNK5c2U3boprTCLWw) 15% of Russians were literate, compared to 76% of Brits.
+Before then, Russia mostly missed the capitalist and industrial revolutions that western Europe experienced. So in 1870, for instance, [just](https://ourworldindata.org/literacy#when-did-literacy-start-increasing-in-europe) 15% of Russians were literate, compared to 76% of Brits.
 
 Russia’s backwardness is widely known, but this was news to me: the Russian economy was charging ahead beautifully in the early 1900s, finally free from centuries of feudal serfdom, and under the administration of an able Minister of Internal Affairs, Pyotr Stolypin. The book notes:
 
@@ -37,7 +37,7 @@ By 1910, Russia’s economy was humming along at an annual growth rate of nearly
 
 Could it last? Russia’s economic potential was vast, and the more this was tapped, the more Stolypin believed her social tensions would resolve themselves. Peasants, turned into property-owners with something to lose, could become a bulwark of law and order in the countryside. In the cities, inequality might increase as industrialists prospered; but workers, too, could see their wages rise, along with a gradual but noticeable improvement in their living conditions.
 
-In this era, the [Trans-Siberian railroad](https://www.google.com/url?q=https://snegir-org.translate.goog/post/transsibirskaya-magistral-so-vsemi-gorodami/?_x_tr_sl%3Dru%26_x_tr_tl%3Den%26_x_tr_hl%3Den-US%26_x_tr_pto%3Dwapp&sa=D&source=editors&ust=1770366106593163&usg=AOvVaw0yhPp0mTdrEWU_SFSzOjM-) was completed — the longest railroad in the world, at more than twice the length of the U.S. Transcontinental railroad.
+In this era, the [Trans-Siberian railroad](https://snegir-org.translate.goog/post/transsibirskaya-magistral-so-vsemi-gorodami/?_x_tr_sl=ru&_x_tr_tl=en&_x_tr_hl=en-US&_x_tr_pto=wapp) was completed — the longest railroad in the world, at more than twice the length of the U.S. Transcontinental railroad.
 
 Stolypin argued that Russia needed just two decades of peace to bring Russia into a truly stable economic situation.
 
@@ -46,6 +46,8 @@ Alas, not everyone was so patient. Socialist revolutionary organizations were br
 While the Siberian climate (especially in winter) could be harsh, conditions imposed on internal exiles were otherwise lenient, astonishingly so compared to later conditions in the Soviet Gulag: exiles even received an annual living allowance from the tsar for clothes, food, and rent, Some well-off exiles, like Lenin (whose father was a hereditary noble state councilor, fourth class in the table of ranks) traveled first class to Siberia: Lenin brought along his mother and his wife and even hired a maid to keep house. So, far from being imprisoned, exiles could do what they liked, as long as they stayed in Siberia.
 
 Young Stalin, too, served an exile sentence in tsarist Siberia — but the enforcement was so lax that he later bragged about having left Siberia 6 times during his sentence. Here’s his 1911 mugshot:
+
+![](https://acximages.ennals.org/images/2022-book-reviews/b6a3eb11730de7ff.png)
 
 While leftism remained a minority viewpoint in Russia, agitators scored points by committing dozens of assassinations in the early 1900s.
 
@@ -56,6 +58,8 @@ The book notes that this was particularly unfortunate because Stolypin could hav
 Instead, by 1914, when Serbia asked Russia for military help in fighting its dreaded Austro-Hungarian oppressors, the tsar’s cabinet consisted of no advisors in favor of peace.
 
 Except one! He wasn’t exactly in the tsar’s cabinet, but he earned the deep trust of the tsar and tsarina, after comforting their hemophilic son: Peasant faith-healer Grigori Rasputin.
+
+![](https://acximages.ennals.org/images/2022-book-reviews/37854d675fecc34f.jpg)
 
 Caption: Rasputin’s most professional headshot
 
@@ -107,7 +111,7 @@ But returning to World War I, the generals probably turned to alcohol because th
 
 This is the war in which Russia sent unarmed soldiers to the front — based on the logic that there were plenty of abandoned weapons from dead soldiers they could pick up once they got there.
 
-And for all that, in early 1917, Russia’s European battle line was [significantly behind](https://www.google.com/url?q=https://omniatlas.com/maps/europe/19170112/plain/&sa=D&source=editors&ust=1770366106600411&usg=AOvVaw35FzJubvTUctbyJ9lH5zDD) Russia’s [pre-war borders](https://www.google.com/url?q=https://omniatlas.com/maps/europe/19140628/&sa=D&source=editors&ust=1770366106600544&usg=AOvVaw30MyIBNJIzruheYOwHfLLy). It had lost significant territory to the Germans, while mostly stalemating the Austro-Hungarians, and winning a lot of ground from the Turks.
+And for all that, in early 1917, Russia’s European battle line was [significantly behind](https://omniatlas.com/maps/europe/19170112/plain/) Russia’s [pre-war borders](https://omniatlas.com/maps/europe/19140628/). It had lost significant territory to the Germans, while mostly stalemating the Austro-Hungarians, and winning a lot of ground from the Turks.
 
 Because of the revolution, I was under the impression that Russia must have been losing the war. But the book shows that they were actually nearing a win.
 
@@ -249,7 +253,7 @@ Anyway, specifically, the German intelligence officer was writing about Lenin’
 
 The program Lenin proposed was so extreme that the Party organ, Pravda, initially refused to print it. These “April Theses” are best remembered today for the slogan “All power to the Soviets,” but they were equally extreme on foreign policy, disavowing any support for the war and advocating the abolition of the Russian army. Within hours Lenin’s “extreme radical and pacifist” program was the talk of St. Petersburg…
 
-Specifically, Lenin [said](https://www.google.com/url?q=https://www.marxists.org/archive/lenin/works/1917/apr/04.htm&sa=D&source=editors&ust=1770366106615619&usg=AOvVaw3HT4lpuz9ccq4KfL4FuBSR):
+Specifically, Lenin [said](https://www.marxists.org/archive/lenin/works/1917/apr/04.htm):
 
 ….without overthrowing capital it is impossible to end the war by a truly democratic peace…
 
@@ -277,7 +281,7 @@ The German investment in Lenin paid immediate dividends….
 
 In this flood of discontented humanity pouring into revolutionary Russia, Lenin was but a single individual. But in the extremity of his views on the war … Lenin was the critical catalyst of chaos, a one-man demolition crew sent to wreck Russia's war effort.
 
-I find this amazing. Here we have a foreign subversion plot that really worked. Beyond a shadow of a doubt. 100 years later, Germany’s subversion agent is [still embalmed in his mausoleum](https://www.google.com/url?q=https://en.wikipedia.org/wiki/Lenin%2527s_Mausoleum&sa=D&source=editors&ust=1770366106617857&usg=AOvVaw3qFfaXJy5U9WzHuPxLE1zR) in the central square of Russia’s capital!
+I find this amazing. Here we have a foreign subversion plot that really worked. Beyond a shadow of a doubt. 100 years later, Germany’s subversion agent is [still embalmed in his mausoleum](https://en.wikipedia.org/wiki/Lenin%27s_Mausoleum) in the central square of Russia’s capital!
 
 It almost didn’t work. Lenin’s contemporaries caught on. After a failed Bolshevik coup against the Provisional Government in the summer of 1917 (read the book if you want all the details), government agents raided Bolshevik headquarters and found evidence of the German backing. Based on this,
 
@@ -377,7 +381,7 @@ On August 9, he instructed the Nizhny Novgorod Soviet to “introduce mass terro
 
 On August 10, Lenin wired Penza that,
 
-The [kulak](https://www.google.com/url?q=https://en.wikipedia.org/wiki/Kulak&sa=D&source=editors&ust=1770366106627713&usg=AOvVaw0E-IoEPeq2X_Bx1UOncJ7N) uprising in your five districts must be crushed without pity ... You must make an example of these people.
+The [kulak](https://en.wikipedia.org/wiki/Kulak) uprising in your five districts must be crushed without pity ... You must make an example of these people.
 
 (1) Hang (I mean hang publicly, so that people see it) at least 100 kulaks, rich bastards, and known bloodsuckers.
 

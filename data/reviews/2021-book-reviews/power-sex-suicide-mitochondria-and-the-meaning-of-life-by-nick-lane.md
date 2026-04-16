@@ -17,7 +17,7 @@ tags:
   - Science
 ---
 
-Many works try to take a weirdly shaped lens through which to rechart a small portion of our map of the world. [Power, Sex, Suicide](https://www.google.com/url?q=https://nick-lane.net/books/power-sex-suicide-mitochondria-meaning-life/&sa=D&source=editors&ust=1770366086694893&usg=AOvVaw1hwA9BJ5gcg215gGpNvqyw) does that through the lens of, ahem, mitochondria. The weirdest thing about it is how splendidly it succeeds.
+Many works try to take a weirdly shaped lens through which to rechart a small portion of our map of the world. [Power, Sex, Suicide](https://nick-lane.net/books/power-sex-suicide-mitochondria-meaning-life/) does that through the lens of, ahem, mitochondria. The weirdest thing about it is how splendidly it succeeds.
 
 ## I - What is this book about?
 
@@ -51,7 +51,7 @@ The speed of respiration is very sensitive to changing circumstances—whether w
 
 But the core of this book is not formed of correct statements, but rather in the impressively large and well-argued inquiry chains, the author uses to write them.
 
-I remember that Scott's review of [The Structure Of Scientific Revolutions](https://www.google.com/url?q=https://slatestarcodex.com/2019/01/08/book-review-the-structure-of-scientific-revolutions/&sa=D&source=editors&ust=1770366086701395&usg=AOvVaw3DfEd4YbfxV-vdabx2OkSs) laments:
+I remember that Scott's review of [The Structure Of Scientific Revolutions](https://slatestarcodex.com/2019/01/08/book-review-the-structure-of-scientific-revolutions/) laments:
 
 one of my big complaints about this book is that, for a purported description of How Science Everywhere Is Always Practiced, it really just gives five examples
 
@@ -95,6 +95,6 @@ Even more so, this is done in a very respectful and, ahem, scientific? manner. I
 
 What he does have, however, is a strong fascination with creating edges in the graph of human knowledge between mitochondria, energy production, eukaryote evolution, and everything else. At least that is the feeling I get from reading the book. I find this kind of healthy obsession to be rare and fascinating, very enjoyable to observe, and to voyeuristically partake in for a few hours.
 
-In my library of pop-biology, this book stands in a place of honor, next to Sapolsky's course in human behavioral biology and The Selfish Gene. I can't help but recommend [it](https://www.google.com/url?q=https://nick-lane.net/books/power-sex-suicide-mitochondria-meaning-life/&sa=D&source=editors&ust=1770366086710318&usg=AOvVaw2AX-m_ABmUNWbHMeHi0uie).
+In my library of pop-biology, this book stands in a place of honor, next to Sapolsky's course in human behavioral biology and The Selfish Gene. I can't help but recommend [it](https://nick-lane.net/books/power-sex-suicide-mitochondria-meaning-life/).
 
 * * *

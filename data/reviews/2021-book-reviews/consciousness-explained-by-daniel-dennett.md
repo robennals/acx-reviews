@@ -7,7 +7,7 @@ contestName: 2021 Book Reviews
 year: 2021
 publishedDate: '2026-02-06T07:21:29.564Z'
 slug: consciousness-explained-by-daniel-dennett
-wordCount: 5852
+wordCount: 5855
 readingTimeMinutes: 27
 originalUrl: >-
   https://docs.google.com/document/d/1xexFJ7h0vULMDE7N77q_MIzXoerexfe_CqqGEL6hEoQ
@@ -63,9 +63,9 @@ At first glance the Multiple Drafts model is at odds with our intuitive understa
 
 In the sections that follow, the burden will be upon us to demonstrate that the Multiple Drafts model is a better description of our daily experience, even at an intuitive level. That being said, we will end this section with a simple, though perhaps contrived, example which highlights the difference between the two models.
 
-The [phi phenomenon](https://www.google.com/url?q=https://en.m.wikipedia.org/wiki/Phi_phenomenon&sa=D&source=editors&ust=1770366085820107&usg=AOvVaw0LVZ5BUpzvM58dj_y8Ld5V) (as seen on tv) is the apparent motion one observes when nearby signals alternate at high frequency. For example, consider the following image:
+The [phi phenomenon](https://en.m.wikipedia.org/wiki/Phi_phenomenon) (as seen on tv) is the apparent motion one observes when nearby signals alternate at high frequency. For example, consider the following image:
 
-Source: [https://en.m.wikipedia.org/wiki/Phi\_phenomenon](https://www.google.com/url?q=https://en.m.wikipedia.org/wiki/Phi_phenomenon&sa=D&source=editors&ust=1770366085820550&usg=AOvVaw1mKXHRoH4BpOVHP5eb30Pu)
+![](https://acximages.ennals.org/images/2021-book-reviews/cea40d01ac13b3f0.gif)Source: [https://en.m.wikipedia.org/wiki/Phi\_phenomenon](https://en.m.wikipedia.org/wiki/Phi_phenomenon)
 
 The blue circles in this image are just blinking in place with an offset of 150ms, but we observe a moving white dot which seems to exist even in the empty space between them.
 
@@ -97,7 +97,7 @@ We can find further evidence for this perspective by considering exceptions to t
 
 Sometimes a person will say something for no particular reason other than the fact that they like the way it sounds. For example, ever since I started watching Brooklyn 99 I find myself reacting to many situations with Jake Peralta’s patented catchphrase “Noice”, even when the underlying meaning of “nice” is not strictly warranted. On a more cynical note, a few weeks ago I asked a receptionist how much longer it would take to be seated and when they answered “15 minutes” I immediately said to myself “can save you 15% or more on car insurance”. These phenomena fit the Multiple Drafts hypothesis quite well. There are multiple subsystems in our brain trying to trigger a system wide response and sometimes the sillier “drafts” end up winning control.
 
-A more extreme and unfortunate example is a condition called [jargon aphasia](https://www.google.com/url?q=https://en.wikipedia.org/wiki/Jargon_aphasia&sa=D&source=editors&ust=1770366085828414&usg=AOvVaw0dXrQ-eixptQPotdsZGxBb). People with this condition frequently make nonsensical word choices, sometimes uttering completely incomprehensible sentences, despite performing well on other measures of intelligence. It appears as though they produce speech without any high level directive.
+A more extreme and unfortunate example is a condition called [jargon aphasia](https://en.wikipedia.org/wiki/Jargon_aphasia). People with this condition frequently make nonsensical word choices, sometimes uttering completely incomprehensible sentences, despite performing well on other measures of intelligence. It appears as though they produce speech without any high level directive.
 
 Many of the principles that apply to speech also hold for our internal monologue. It too does not follow a strict top down policy and can frequently be influenced by common templates and word patterns that we pick up from others. This is at least the way it feels to me when, for example, I talk myself through the steps of a well known procedure.
 
@@ -129,17 +129,19 @@ In summary, many aspects of our learning experience are not easy to reconcile wi
 
 ### The Mind’s Eye
 
-One strong source of intuition for an internal observer is the phenomenon of the mind’s eye. To be concrete, consider the following mental rotation question [Shepard (1971)][1](https://www.google.com/url?q=https://www.daniellowengrub.com/blog/2020/02/08/consciousness-explained%23fn:Shepard&sa=D&source=editors&ust=1770366085835733&usg=AOvVaw3Vtt1_PktGnVXVj5KcZ-xx). Are two figures below the same except for their orientation?
+One strong source of intuition for an internal observer is the phenomenon of the mind’s eye. To be concrete, consider the following mental rotation question [Shepard (1971)][1](https://www.daniellowengrub.com/blog/2020/02/08/consciousness-explained#fn:Shepard). Are two figures below the same except for their orientation?
+
+![Mental Rotation](https://acximages.ennals.org/images/2021-book-reviews/e347fe1cdb4e5e07.gif)
 
 As you attempt to solve these sorts of puzzles, it may feel like you are rotating the shapes in your mind’s eye. This intuition is supported by the fact that the time it takes to answer these type of questions has been shown to be linear in the degrees of rotation that are required. This seems to be good news for the Cartesian Theater - we solve mental rotation problems by projecting a rotating version of the reference shape in the theater and waiting until it looks the same as the comparison shape.
 
-Things start to get interesting when we consider simple variations of this experiment. Perhaps the most famous is the [Thatcher Effect](https://www.google.com/url?q=https://en.wikipedia.org/wiki/Thatcher_effect&sa=D&source=editors&ust=1770366085836777&usg=AOvVaw2zK2ZMPJlZhVQb8IiqZctq) where our random assortment of blocks is replaced with a human face. The result is that local changes to the face are significantly harder to detect when the face is turned upside-down. Here is an example with Adele:
+Things start to get interesting when we consider simple variations of this experiment. Perhaps the most famous is the [Thatcher Effect](https://en.wikipedia.org/wiki/Thatcher_effect) where our random assortment of blocks is replaced with a human face. The result is that local changes to the face are significantly harder to detect when the face is turned upside-down. Here is an example with Adele:
 
-[Source](https://www.google.com/url?q=https://www.psychologyinaction.org/psychology-in-action-1/2016/03/07/adele-and-the-margaret-thatcher-effect&sa=D&source=editors&ust=1770366085837201&usg=AOvVaw2i7nSzOxg93Vr--zFc7wgl) 
+![](https://acximages.ennals.org/images/2021-book-reviews/57eba2d306b754f9.png)[Source](https://www.psychologyinaction.org/psychology-in-action-1/2016/03/07/adele-and-the-margaret-thatcher-effect) 
 
 In this example, Adele’s eyes and mouth have locally been flipped upside-down. This is obvious, and quite disturbing, when we look at the image on the right, but less so for the rotated version on the left. If we truly possessed the ability to rotate images in our mind’s eye, shouldn’t we be able to mentally rotate the image on the left by 180 degrees and experience the same reaction that we do to the one on the right?
 
-Another interesting line of research studies the relationship between the object’s familiarity and the mental rotation speed. In general, we rotate familiar objects significantly faster than arbitrary ones. E.g, we can rotate letters of the alphabet more quickly than random squiggles. A cool demonstration of this was given by Sayeki (1981) [2](https://www.google.com/url?q=https://www.daniellowengrub.com/blog/2020/02/08/consciousness-explained%23fn:Sayeki&sa=D&source=editors&ust=1770366085838170&usg=AOvVaw38yr28qGWwQb30fXHxjise) who showed that even providing the subject with a familiar interpretation of an abstract shape reduced the time they needed to solve a mental rotation problem by as much as 2 seconds! For example, in the case of the block image above they told subjects to imagine that the left image represented a person sitting on a chair and sticking out their left arm.
+Another interesting line of research studies the relationship between the object’s familiarity and the mental rotation speed. In general, we rotate familiar objects significantly faster than arbitrary ones. E.g, we can rotate letters of the alphabet more quickly than random squiggles. A cool demonstration of this was given by Sayeki (1981) [2](https://www.daniellowengrub.com/blog/2020/02/08/consciousness-explained#fn:Sayeki) who showed that even providing the subject with a familiar interpretation of an abstract shape reduced the time they needed to solve a mental rotation problem by as much as 2 seconds! For example, in the case of the block image above they told subjects to imagine that the left image represented a person sitting on a chair and sticking out their left arm.
 
 One takeaway from these results is that solving mental rotation problems is not a simple matter of turning a literal picture around in our head. Rather, it appears as though we are also interacting with abstract mental structures (such as a face or chair) that we associate with the reference image. As usual, this is not irreconcilable with the Cartesian Theater but clearly our initial intuitions do not tell the full story.
 
@@ -147,11 +149,13 @@ One takeaway from these results is that solving mental rotation problems is not 
 
 The philosophical notion of qualia frequently comes up in the context of understanding consciousness. The idea is that objects in the world seem to possess certain subjective qualities which can not be explained in terms of their physical attributes. A common example is the quality of the color red. Consider this beautiful red square:
 
-[Source](https://www.google.com/url?q=https://en.wikipedia.org/wiki/Qualia&sa=D&source=editors&ust=1770366085839681&usg=AOvVaw3dKxG7ErgbXcbNDwLrfdL6)
+![](https://acximages.ennals.org/images/2021-book-reviews/bfe4017ead01732d.png)
+
+[Source](https://en.wikipedia.org/wiki/Qualia)
 
 Proponents of qualia would note that even if you perfectly describe the wavelength of the light coming off the screen, the electrochemical reactions it triggers in your retina and the neural activity induced in your brain, there is still some essential redness which has not been explained. Since this redness is clearly part of our consciousness, doesn’t this mean that physical explanations of consciousness are doomed to failure?
 
-Due to the fact that the very definition of qualia is debated by philosophers, in this section we will focus on a famous thought experiment proposed by Frank Jackson [3](https://www.google.com/url?q=https://www.daniellowengrub.com/blog/2020/02/08/consciousness-explained%23fn:Mary&sa=D&source=editors&ust=1770366085840495&usg=AOvVaw2zuWFWGQ8exTALxEK4M-9H) which goes as follows:
+Due to the fact that the very definition of qualia is debated by philosophers, in this section we will focus on a famous thought experiment proposed by Frank Jackson [3](https://www.daniellowengrub.com/blog/2020/02/08/consciousness-explained#fn:Mary) which goes as follows:
 
 Mary the color scientist knows all the physical facts about color, including every physical fact about the experience of color in other people, from the behavior a particular color is likely to elicit to the specific sequence of neurological firings that register that a color has been seen. However, she has been confined from birth to a room that is black and white, and is only allowed to observe the outside world through a black and white monitor. When she is allowed to leave the room, it must be admitted that she learns something about the color red the first time she sees it — specifically, she learns what it is like to see that color.
 
@@ -165,13 +169,13 @@ He claims that we are greatly under-estimating what it would take to really know
 
 But what really is color? It is now well known that our color perception of an object is influenced by many factors including, but not restricted to, the wavelength of light it reflects. As a cool illustration of this, consider the following image:
 
-[Source](https://www.google.com/url?q=https://www.syfy.com/syfywire/another-brain-frying-optical-illusion-what-color-are-these-spheres&sa=D&source=editors&ust=1770366085843131&usg=AOvVaw1ws02KYLMxz86Is66PHO9l) 
+![](https://acximages.ennals.org/images/2021-book-reviews/99b3b35f075dfaff.jpg)[Source](https://www.syfy.com/syfywire/another-brain-frying-optical-illusion-what-color-are-these-spheres) 
 
 It may surprise you to hear that all of the balls in the image have exactly the same RGB values. You can verify this by covering up the lines (the source contains an animation of the lines being added and removed) or zooming in until the lines become far apart. From this example we learn that the color we associate with an object is influenced by its environment.
 
-Another demonstration of the precarious relationship between color and wavelength is the absence of a wavelength corresponding to the color brown. Look at a rainbow and note that there is no brown to be seen! There is clearly some visual property shared by chocolate, chipmunks and violins but wavelength alone can not describe it. I’d recommend checking out [this video](https://www.google.com/url?q=https://www.youtube.com/watch?v%3Dwh4aWZRtTwU&sa=D&source=editors&ust=1770366085844201&usg=AOvVaw2JJpa57KqHRWM_sOrNTubf) if you want to learn more about brown.
+Another demonstration of the precarious relationship between color and wavelength is the absence of a wavelength corresponding to the color brown. Look at a rainbow and note that there is no brown to be seen! There is clearly some visual property shared by chocolate, chipmunks and violins but wavelength alone can not describe it. I’d recommend checking out [this video](https://www.youtube.com/watch?v=wh4aWZRtTwU) if you want to learn more about brown.
 
-Finally, phenomena such as [The Dress](https://www.google.com/url?q=https://en.wikipedia.org/wiki/The_dress&sa=D&source=editors&ust=1770366085844459&usg=AOvVaw3ZKvfNZz8uNFG2keO9Y1Hd) show that even people with perfectly healthy retinas may not be able to agree on what colors appear in a given picture. In fact, even an individual may experience color differently depending on the season of the year! [4](https://www.google.com/url?q=https://www.daniellowengrub.com/blog/2020/02/08/consciousness-explained%23fn:Seasons&sa=D&source=editors&ust=1770366085844808&usg=AOvVaw0a7UuovaS4yTYDrKz41sWn)
+Finally, phenomena such as [The Dress](https://en.wikipedia.org/wiki/The_dress) show that even people with perfectly healthy retinas may not be able to agree on what colors appear in a given picture. In fact, even an individual may experience color differently depending on the season of the year! [4](https://www.daniellowengrub.com/blog/2020/02/08/consciousness-explained#fn:Seasons)
 
 From these sorts of examples we conclude that it is not possible to define color in the abstract without referring to the specific human brain that is observing the world. A complete description of the color red only makes sense in the context of a single person at a particular point in time, and involves specifying a precise mental pattern that is triggered by various objects and images.
 
@@ -209,10 +213,10 @@ The basic specialists are part of our animal heritage. They were not developed t
 
 * * *
 
-1.  Shepard, Roger N., and Jacqueline Metzler. “Mental rotation of three-dimensional objects.” Science 171.3972 (1971): 701-703. [↩](https://www.google.com/url?q=https://www.daniellowengrub.com/blog/2020/02/08/consciousness-explained%23fnref:Shepard&sa=D&source=editors&ust=1770366085855921&usg=AOvVaw1FN0cSP2dkz7QjH_18nl8w)
-2.  Sayeki Y (1981) “Body analogy” and the cognition of rotated figures. The Quarterly Newsletter of the Laboratory of Comparative Human Cognition [↩](https://www.google.com/url?q=https://www.daniellowengrub.com/blog/2020/02/08/consciousness-explained%23fnref:Sayeki&sa=D&source=editors&ust=1770366085856579&usg=AOvVaw0xPK_JAYfQxvh3SBtzAfz-)
-3.  Jackson, Frank (1982). “Epiphenomenal Qualia”. The Philosophical Quarterly. 32 (127): 127–136 [↩](https://www.google.com/url?q=https://www.daniellowengrub.com/blog/2020/02/08/consciousness-explained%23fnref:Mary&sa=D&source=editors&ust=1770366085857063&usg=AOvVaw2f9dFkbVMncLrgzQWxyGP6)
-4.  Welbourne, Lauren E., Antony B. Morland, and Alex R. Wade. “Human colour perception changes between seasons.” Current Biology 25.15 (2015): R646-R647. [↩](https://www.google.com/url?q=https://www.daniellowengrub.com/blog/2020/02/08/consciousness-explained%23fnref:Seasons&sa=D&source=editors&ust=1770366085857637&usg=AOvVaw2F6SFQeiYkNP3ifbuHpSbb)
+1.  Shepard, Roger N., and Jacqueline Metzler. “Mental rotation of three-dimensional objects.” Science 171.3972 (1971): 701-703. [↩](https://www.daniellowengrub.com/blog/2020/02/08/consciousness-explained#fnref:Shepard)
+2.  Sayeki Y (1981) “Body analogy” and the cognition of rotated figures. The Quarterly Newsletter of the Laboratory of Comparative Human Cognition [↩](https://www.daniellowengrub.com/blog/2020/02/08/consciousness-explained#fnref:Sayeki)
+3.  Jackson, Frank (1982). “Epiphenomenal Qualia”. The Philosophical Quarterly. 32 (127): 127–136 [↩](https://www.daniellowengrub.com/blog/2020/02/08/consciousness-explained#fnref:Mary)
+4.  Welbourne, Lauren E., Antony B. Morland, and Alex R. Wade. “Human colour perception changes between seasons.” Current Biology 25.15 (2015): R646-R647. [↩](https://www.daniellowengrub.com/blog/2020/02/08/consciousness-explained#fnref:Seasons)
 
 * * *
 

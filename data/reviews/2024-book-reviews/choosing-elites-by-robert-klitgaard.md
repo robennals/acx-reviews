@@ -7,7 +7,7 @@ contestName: 2024 Book Reviews
 year: 2024
 publishedDate: '2026-02-06T16:47:15.598Z'
 slug: choosing-elites-by-robert-klitgaard
-wordCount: 3079
+wordCount: 3081
 readingTimeMinutes: 14
 originalUrl: >-
   https://docs.google.com/document/d/1AXmWgSbh_TFsoZuApSCSEoz57yn93CM5YYhtaO_s4W4
@@ -21,7 +21,7 @@ Forty years ago Robert Klitgaard was a Harvard golden boy. Still in his mid-thir
 
 Then he wrote a book.
 
-The book was Choosing Elites, about “[s]electing the ‘best and the brightest’ at top universities and elsewhere.” It is not anexposé, critique, or call for reform. The primary target audience appears to have been admissions officers and others involved in setting admissions policies for highly selective colleges and universities, but Klitgaard believed that some of his insights could also be helpful “to personnel selection in business and government, screening systems in medicine and elsewhere, the design of contests, and even to professional sports teams making draft choices.”
+The book was Choosing Elites, about “[s]electing the ‘best and the brightest’ at top universities and elsewhere.” It is not an exposé, critique, or call for reform. The primary target audience appears to have been admissions officers and others involved in setting admissions policies for highly selective colleges and universities, but Klitgaard believed that some of his insights could also be helpful “to personnel selection in business and government, screening systems in medicine and elsewhere, the design of contests, and even to professional sports teams making draft choices.”
 
 Choosing Elites is well-written, thoughtful, lucid, deeply-researched, balanced, and scholarly without being pedantic. Klitgaard is the opposite of tendentious. In his review of relevant studies, he not only digs into the methodological details but sometimes reanalyzes the data upon which they were based. He understands the methods and limitations of statistical analysis. (Despite his formal academic credentials, Klitgaard is often described as an economist, and has taught economics) As a Harvard admissions insider, he not only had access to admissions information for the Kennedy School and all of the other Harvard programs, but he could and did call up his counterparts at other selective schools and institutions and got non-public information and candid assessments. The book includes two useful technical appendices, Evidence on Academic Prediction at the Right Tail and Academic Variables and Later-Life Success.
 
@@ -32,6 +32,8 @@ Klitgaard’s fundamental message is that selective universities and other insti
    I say all this as a former admissions chairman. It is a provocative exaggeration to say that we make these important decisions without clear objectives, without relevant feedback, and without accountability to students, faculty, and alumni. But it is almost that way. Indeed that it is that way may be well and good. I do not wish to prejudge appropriateness.
 
 Klitgaard does not tell selective schools what their admissions policies should be; he prefers to construct intellectual frameworks they could use to answer that question for themselves. For example, here is the framework concerning the representation of groups:
+
+![](https://acximages.ennals.org/images/2024-book-reviews/c0dcc04f4c76168b.gif)
 
 Of course, this sort of explicit, rigorous process is not what admissions committees traditionally do or have ever done. Admissions offices are not staffed with economists. They are unwilling or incapable of thinking that hard about what they do. But it is difficult to deny that the framework approach makes a lot of sense.
 

@@ -7,7 +7,7 @@ contestName: 2023 Book Reviews
 year: 2023
 publishedDate: '2026-02-06T07:21:10.018Z'
 slug: a-peoples-tragedy-review-1
-wordCount: 9048
+wordCount: 9056
 readingTimeMinutes: 41
 originalUrl: >-
   https://docs.google.com/document/d/10CiEI7aDL2bMIdx7yayy3vlq0TJ8dO5LGnG7yIDPiw8
@@ -21,11 +21,13 @@ tags:
 
 The above quote touches on a long debated historical question: can history be explained by the outsized impact of “great” people or heroes? Or do bottom-up human and social dynamics govern the course of events?
 
-Leo Tolstoy had a strong opinion on the matter, as a major theme in War and Peace is about the limits of leadership and an outright rejection of the [great man theory](https://www.google.com/url?q=https://en.wikipedia.org/wiki/Great_man_theory&sa=D&source=editors&ust=1770366049243870&usg=AOvVaw3Q_tiVL6gr7om2H3KqyxRW). Karl Marx is known for his theory of history called [historical materialism](https://www.google.com/url?q=https://en.wikipedia.org/wiki/Historical_materialism&sa=D&source=editors&ust=1770366049244050&usg=AOvVaw1hn5oKmEd4r4O2KT1f6GT-), which also rejects the great man theory and instead explains history through changes in class and labor.
+Leo Tolstoy had a strong opinion on the matter, as a major theme in War and Peace is about the limits of leadership and an outright rejection of the [great man theory](https://en.wikipedia.org/wiki/Great_man_theory). Karl Marx is known for his theory of history called [historical materialism](https://en.wikipedia.org/wiki/Historical_materialism), which also rejects the great man theory and instead explains history through changes in class and labor.
 
 I use Tolstoy and Marx as examples because of their obvious proximity to this story, but also because the events that occurred in Russia up until 1917 can easily be explained through their theories. It was only a matter of time before the societal changes happening at the beginning of the 20th century were going to bring about an end to the monarchy.
 
 However, what happened in November of 1917 can only be described as the great man theory at work. As you will see, our world would look a lot different if Vladimir Lenin was not around to “push” history.
+
+![](https://acximages.ennals.org/images/2023-book-reviews/f756753514ce7c58.png)
 
 Lenin addresses a crowd during 1917
 
@@ -41,13 +43,15 @@ The Russian emperor’s inability to deal with the modernization of their countr
 
 The Romanovs were the ruling family of the Russian Empire for more than 300 years (1613 to 1917). The family has a great cast of characters that you may be familiar with: Peter the Great, Catherine the Great, and Ivan the Terrible. The word for emperor in Russia is tsar (or tsarina). In Gothic, it would look like Kaiser, but its origin is Latin, and would look like Caesar.
 
-Over their 300-year rule, the Romanovs had some highly effective conquerors, who grew the Russian Empire significantly. By 1895, they had the [third largest empire](https://www.google.com/url?q=https://en.wikipedia.org/wiki/List_of_largest_empires&sa=D&source=editors&ust=1770366049246922&usg=AOvVaw2IUWA7Yx_G987AwMVr9bDZ) of all time (beaten out only by the Mongols and the British), accounting for 17% of the area of the world. This included 16 modern day nations including modern day Russia, Poland, Finland, Ukraine, and more.
+Over their 300-year rule, the Romanovs had some highly effective conquerors, who grew the Russian Empire significantly. By 1895, they had the [third largest empire](https://en.wikipedia.org/wiki/List_of_largest_empires) of all time (beaten out only by the Mongols and the British), accounting for 17% of the area of the world. This included 16 modern day nations including modern day Russia, Poland, Finland, Ukraine, and more.
+
+![](https://acximages.ennals.org/images/2023-book-reviews/18c95a1ab43a2456.png)
 
 The Russian Empire roughly at its peak
 
 However, after 300 years of relative prosperity, the effectiveness of the tsarist regime began to falter.
 
-Our story begins with the Russian [Famine of 1891](https://www.google.com/url?q=https://en.wikipedia.org/wiki/Russian_famine_of_1891%25E2%2580%25931892&sa=D&source=editors&ust=1770366049247603&usg=AOvVaw3j5FGMWbNaK3wrbM1DIhEI). Caused by a series of unfortunate weather events and some government mismanagement, the famine resulted in 375,000 to 400,000 deaths. Figes writes about the famine:
+Our story begins with the Russian [Famine of 1891](https://en.wikipedia.org/wiki/Russian_famine_of_1891%E2%80%931892). Caused by a series of unfortunate weather events and some government mismanagement, the famine resulted in 375,000 to 400,000 deaths. Figes writes about the famine:
 
 In short, the whole of society had been politicized and radicalized as a result of the famine crisis. The conflict between the population and the regime had been set in motion and there was now no turning back. In the words of Lydia Dan, the famine had been a vital landmark in the history of the revolution because it had shown to the youth of her generation 'that the Russian system was completely bankrupt. It felt as though Russia was on the brink of something.’
 
@@ -57,7 +61,7 @@ Nicholas gets a lot of attention in this story because he was a below-average le
 
 Revolution and War
 
-One of Nicholas’ first big blunders was the [1904 Russo-Japanese War](https://www.google.com/url?q=https://en.wikipedia.org/wiki/Russo-Japanese_War&sa=D&source=editors&ust=1770366049249336&usg=AOvVaw39YXtjDiBeO7DKvmUHqGDP), caused by rival ambitions in Manchuria. This war is historically significant because it was one of the first conflicts with modern weapons. Artillery cannons begin to look closer to something you would see today, as opposed to a cannon you would see in the revolutionary war. Additionally, machine guns and turrets became widely used.
+One of Nicholas’ first big blunders was the [1904 Russo-Japanese War](https://en.wikipedia.org/wiki/Russo-Japanese_War), caused by rival ambitions in Manchuria. This war is historically significant because it was one of the first conflicts with modern weapons. Artillery cannons begin to look closer to something you would see today, as opposed to a cannon you would see in the revolutionary war. Additionally, machine guns and turrets became widely used.
 
 However, most of this modern weaponry was being used by the Japanese.
 
@@ -65,13 +69,15 @@ The biggest problem was the sheer incompetence of the [Russian] High Command, wh
 
 The war can be summed up in a mental image of Russian cavalry charging on Japanese artillery. If you also consider that the war was 6,000 miles away from the Russian capital, being supplied by faulty railroads, there was never really much of a chance for Russia. The numbers vary, but roughly 60,000 Russian soldiers died in the conflict.
 
+![](https://acximages.ennals.org/images/2023-book-reviews/6e6eef092dc7d99a.png)
+
 Soldiers during the Russo-Japanese War
 
 In January of 1905, mass demonstrations began at the Russian capital of St. Petersburg sparked by the trifecta of humiliation of the war with Japan, hunger, and peasant exploitation. To quell the demonstrators, state police opened fire on the crowd and killed hundreds of civilians. The day became known as “Bloody Friday''. In June of the same year, peasants also began rioting by seizing land and tools in protest of the bureaucracy imposed on them. Throughout the year, the tsarist regime executed 15,000 people and exiled 45,000, which didn’t make the situation better.
 
 The revolution had been truly born, and it had been born in the very core, in the very bowels of the people. In that one vital moment the popular myth of a Good Tsar which had sustained the regime through the centuries was suddenly destroyed.
 
-These events collectively make up the [Revolution of 1905](https://www.google.com/url?q=https://en.wikipedia.org/wiki/1905_Russian_Revolution&sa=D&source=editors&ust=1770366049251710&usg=AOvVaw3myT-BcpNmDehTb9uuwZeN), which culminate in the October Manifesto, a document begrudgingly issued by Nicholas that promised basic civil rights and an elected parliament.
+These events collectively make up the [Revolution of 1905](https://en.wikipedia.org/wiki/1905_Russian_Revolution), which culminate in the October Manifesto, a document begrudgingly issued by Nicholas that promised basic civil rights and an elected parliament.
 
 This is a key part of the story. So far, the events look like what happened in, say, the United Kingdom, where the people slowly chip away at the rights of the monarch until they end up with a system that is democratic. But did the Manifesto and ensuing constitution go far enough?
 
@@ -102,6 +108,8 @@ This fear of Germany stemmed in part from the Russians' cultural insecurity - th
 It’s relevant to note that Germany was the cultural and scientific epicenter of Europe at the time. The unification led by Otto Von Bismark in 1871 set Germany up for 40+ years of dynamic success. Many of the greatest minds of the day were either from or lived in Germany, including philosophers like Marx, Hegel, and Nietzsche, along with scientists such as Einstein and Planck.
 
 But let’s not forget that Russia’s decision to enter the war was ultimately on the shoulders of Nicholas, who had personal motives outside of alliances and cultural insecurities. For starters, Nicholas was cousins with the leader of Germany, Wilhelm II (they were both also cousins of George V of England).
+
+![](https://acximages.ennals.org/images/2023-book-reviews/075161217185600f.png)
 
 I know Wilhelm is on the left. I think the middle one is George but he looks so similar to Nicholas it's hard to tell.
 
@@ -137,11 +145,13 @@ By the time we get to 1917, any trust remaining with the monarchy was hanging by
 
 Fueled by the Industrial Revolution, life began to change rapidly in the 1800s. Young farmers were leaving their farms, moving to cities, and working in factories. The below chart shows the percentage of the labor force working in agriculture over time (note: Russia isn’t on the chart, but it would most closely resemble Poland given Poland was part of Russia during this time).
 
+![](https://acximages.ennals.org/images/2023-book-reviews/9ef30ccc748cea7d.png)
+
 This chart shows the Industrial Revolution in action; the rate of change from 1800 to 1900 is staggering. I said at the beginning of Part I that the tsarist regime's ultimate failure was its inability to handle the consequences of modernization. This is what I mean by modernization.
 
 It is at this point that capitalism came to the forefront. In purely agrarian societies, farmers are mostly independent and don’t need much capital to feed themselves and their families. The farmers (that weren’t serfs) owned the means of production, whereas the workers did not.
 
-The mass migration of people to cities, with no labor regulations to speak of, [led to some awful working conditions](https://www.google.com/url?q=https://alphahistory.com/russianrevolution/conditions-factory-workers-19th-century-russia-1885/&sa=D&source=editors&ust=1770366049265346&usg=AOvVaw3yTIHDrh4GDghdBFiTIHJY) and a tremendous amount of inequality. However, bad working conditions and inequality alone are not usually enough to start a revolution. People need something to rally behind.
+The mass migration of people to cities, with no labor regulations to speak of, [led to some awful working conditions](https://alphahistory.com/russianrevolution/conditions-factory-workers-19th-century-russia-1885/) and a tremendous amount of inequality. However, bad working conditions and inequality alone are not usually enough to start a revolution. People need something to rally behind.
 
 Literacy and Ideas
 
@@ -163,7 +173,7 @@ The origins of communism trace back to when Karl Marx dropped his magnum opus, T
 
 ​​
 
-​​
+​​![](https://acximages.ennals.org/images/2023-book-reviews/769513a68c67b665.png)
 
 Karl Marx
 
@@ -177,11 +187,13 @@ But Figes goes into a final reason:
 
 When people learn as adults what children are normally taught in schools, they often find it difficult to progress beyond the simplest abstract ideas. These tend to lodge deep in their minds, making them resistant to the subsequent absorption of knowledge on a more sophisticated level. They see the world in black-and-white terms because their narrow learning obscures any other coloration. Marxism had much the same effect on workers. It gave them a simple solution to the problems of 'capitalism' and backwardness without requiring they think independently.
 
-Does becoming literate and/or educated as an adult cause you to become “resistant to the subsequent absorption of knowledge on a more sophisticated level”? If that’s true it would seem pretty significant. I tried to look it up but I couldn’t find exactly what he’s talking about. Is it related to the [phenomenon we see of more political polarization at higher levels of education](https://www.google.com/url?q=https://www.pewresearch.org/politics/2016/04/26/a-wider-ideological-gap-between-more-and-less-educated-adults/&sa=D&source=editors&ust=1770366049275792&usg=AOvVaw24kVade8vIDQzLNAZABgv7) on both sides of the aisle? Help me ACX, you’re my only hope.
+Does becoming literate and/or educated as an adult cause you to become “resistant to the subsequent absorption of knowledge on a more sophisticated level”? If that’s true it would seem pretty significant. I tried to look it up but I couldn’t find exactly what he’s talking about. Is it related to the [phenomenon we see of more political polarization at higher levels of education](https://www.pewresearch.org/politics/2016/04/26/a-wider-ideological-gap-between-more-and-less-educated-adults/) on both sides of the aisle? Help me ACX, you’re my only hope.
 
 Despite this, Marxism became a simple solution for a complex set of problems broadly labeled as capitalism.
 
 The February Revolution
+
+![](https://acximages.ennals.org/images/2023-book-reviews/84ecdb3d23b3a8ec.png)
 
 Picture of the February Revolution in St. Petersburg
 
@@ -193,7 +205,7 @@ But one key difference between this protest and the one in 1905 is that the sold
 
 The soldiers, by contrast, were seen as 'ours' - peasants and workers in uniforms - and it was hoped that, if they were ordered to use force against the crowds, they would be as likely to come over to the peoples side. Once it became clear that this was so - from the soldiers' hesitation to disperse the demonstrators, from the expressions on the soldiers' faces, and from the odd wink by a soldier to the crowd - the initiative passed to the people's side. It was a crucial psychological moment in the revolution.
 
-The [February Revolution](https://www.google.com/url?q=https://en.wikipedia.org/wiki/February_Revolution&sa=D&source=editors&ust=1770366049277785&usg=AOvVaw1UAYqtz3NETK3VBBQLznqT) was a protest against the monarchy, and after decades of trying it finally worked. On March 15th, 1917, Nicholas II anticlimactically abdicated the throne, ending 304 years of Romanov rule. The ease with which the tsar was overthrown was representative of how far his power had declined. The current parliamentary leaders in the Duma then formed the Provisional Government, which was to be democratic. Within the Provisional Government there were a handful of left-wing parties vying for power, one of which was the Bolsheviks, and on April 16th, their leader returned to St Petersburg.
+The [February Revolution](https://en.wikipedia.org/wiki/February_Revolution) was a protest against the monarchy, and after decades of trying it finally worked. On March 15th, 1917, Nicholas II anticlimactically abdicated the throne, ending 304 years of Romanov rule. The ease with which the tsar was overthrown was representative of how far his power had declined. The current parliamentary leaders in the Duma then formed the Provisional Government, which was to be democratic. Within the Provisional Government there were a handful of left-wing parties vying for power, one of which was the Bolsheviks, and on April 16th, their leader returned to St Petersburg.
 
 Vladimir Lenin was born in 1870 to an upper middle-class family. Radicalized by his brother’s execution in 1887, he began leading various socialist groups in and out of Russia. He was exiled many times and prior to 1917 was living in Switzerland waiting for his moment to return.
 
@@ -229,9 +241,9 @@ Here is Figes again writing about a Menshevik speaking to some soldiers:
 
 Sometime during March a Menshevik deputy of the Moscow Soviet went to agitate at a regimental meeting near Vladimir. He spoke of the need for peace, of the need for all the land to be given to the peasants, and of the advantages of a republic over monarchy. The soldiers cheered loudly in agreement, and one of them called out, 'we want to elect you as Tsar', whereupon the other soldiers burst into applause. ‘I refused the Romanov crown', recalled the Menshevik, 'and went away with a heavy feeling of how easy it would be for any adventurer or demagogue to become the master of this simple and naive people.'
 
-Come July, the failed offensive causes violent anti-war protests to break out in the streets of St. Petersburg, in what is called the [July Days](https://www.google.com/url?q=https://en.wikipedia.org/wiki/July_Days&sa=D&source=editors&ust=1770366049285225&usg=AOvVaw15XfJg1qwiDAu0nCqxBpVt). The Provisional Government (correctly) blamed the Bolsheviks for fueling the anti-war sentiments. This caused Lenin to flee, feeling that the entire Bolshevik cause had failed. 800 members of the party ended up behind bars, including one Leon Trotsky.
+Come July, the failed offensive causes violent anti-war protests to break out in the streets of St. Petersburg, in what is called the [July Days](https://en.wikipedia.org/wiki/July_Days). The Provisional Government (correctly) blamed the Bolsheviks for fueling the anti-war sentiments. This caused Lenin to flee, feeling that the entire Bolshevik cause had failed. 800 members of the party ended up behind bars, including one Leon Trotsky.
 
-​​
+​​![](https://acximages.ennals.org/images/2023-book-reviews/a017e77aaaba54b4.png)
 
 Leon Trotsky
 
@@ -259,15 +271,17 @@ Russian losses in World War I were staggering. Military deaths reached around 2,
 
 A few days later the capital was moved from St. Petersburg (which was renamed to Petrograd, because St. Petersburg was “too German”), to Moscow. This move represents Russia’s separation from Europe, Petrograd was a European city, whereas Moscow embraced Russia’s Asiatic traditions.
 
-Soon after the Bolsheviks take over, a general terror begins on anyone deemed to be wealthy. “Loot the Looters” was the phrase used to justify the looting of anything owned by the bourgeois. [Doctor Zhivago](https://www.google.com/url?q=https://www.imdb.com/title/tt0059113/&sa=D&source=editors&ust=1770366049290083&usg=AOvVaw1wTv7E-b6-Gmrb4wSLCQL5) does a good job depicting what this was like - there is a scene where the main character comes home to dozens of people living in his flat.
+Soon after the Bolsheviks take over, a general terror begins on anyone deemed to be wealthy. “Loot the Looters” was the phrase used to justify the looting of anything owned by the bourgeois. [Doctor Zhivago](https://www.imdb.com/title/tt0059113/) does a good job depicting what this was like - there is a scene where the main character comes home to dozens of people living in his flat.
 
 Soviet officials, bearing flimsy warrants, would go round bourgeois houses confiscating typewriters, furniture, clothes and valuables 'for the revolution'. Factories were taken out of private ownership, shares and bonds were annulled, and the law of private inheritance was later abolished.
 
 The Fight for the Soul of Russia
 
-Sadly, peace doesn’t last long, as a [civil war](https://www.google.com/url?q=https://en.wikipedia.org/wiki/Russian_Civil_War&sa=D&source=editors&ust=1770366049290836&usg=AOvVaw0LOCeyyTnpow3fNBkBgtel) kicks off with those that want to bring down the Bolsheviks. The opposition force was called the White Army and their goal was to return Russia to the pre-revolutionary order.
+Sadly, peace doesn’t last long, as a [civil war](https://en.wikipedia.org/wiki/Russian_Civil_War) kicks off with those that want to bring down the Bolsheviks. The opposition force was called the White Army and their goal was to return Russia to the pre-revolutionary order.
 
 The army that the Whites put together was hilariously top-heavy. Out of the first 3000 troops recruited, only 12 were non-officers. The Bolshevik Red Army on the other hand had the opposite problem, they had too many rank-and-file soldiers, but a lack of officers to lead them. The Whites were better trained, and pound for pound would have decisively defeated the Reds in any battle if it were not for the Red’s tremendous numerical advantage. The Red Army could sometimes outnumber the Whites 10 to 1.
+
+![](https://acximages.ennals.org/images/2023-book-reviews/198338b3ffd12cd5.png)
 
 Trotsky addresses soldiers of the Red Army
 
@@ -319,15 +333,17 @@ There was also an atheist art - one especially blasphemous poster showed the Vir
 
 …and indeed for adults who also changed their names - were drawn from the annals of the revolution: Marx; Engelina; Rosa (after Rosa Luxemburg); Vladlen, Ninel, Ilichand Ilina (acronyms, nicknames or anagrams for Lenin); Marlen (for Marx and Lenin); Melor (for Marx, Engels, Lenin and October Revolution); Pravda; Barrikada; Fevral (February); Oktiabrina (October); Revoliutsia (Revolution); Parizhkommuna (Paris Commune); Molot (hammer); Serpina (sickle); Dazmir (Long Live the World Revolution); Diktatura (Dictatorship); and Terrora (Terror).
 
+![](https://acximages.ennals.org/images/2023-book-reviews/9e13b742244940a1.png)
+
 1921 poster contrasting the march of the three kings to Bethlehem (top), with the march of the workers towards communism (below).
 
 It is worth noting that the Boksheviks were exceptionally progressive when it came to social issues normally tied up in religious debate. They were the first world government to legalize abortion and make it available upon request, and decriminalized homosexuality.
 
 This cultural war against religion eventually turned hot, when the Bolsheviks began shutting down churches and shooting priests. In the end, the effort was completely unsuccessful, and if anything rallied people closer to their religion. (This feels especially obvious in hindsight).
 
-Due to some bad weather in late 1920 and early 1921, we close this story with one of the [worst famines in history](https://www.google.com/url?q=https://owlcation.com/humanities/The-Top-10-Worst-Famines-in-History&sa=D&source=editors&ust=1770366049309527&usg=AOvVaw2FIHCQWyxt1eZVAg2SNvlu). The [Russian Famine of 1921](https://www.google.com/url?q=https://en.wikipedia.org/wiki/Russian_famine_of_1921%25E2%2580%25931922&sa=D&source=editors&ust=1770366049309747&usg=AOvVaw1CrhW0PeX5Mfn2FRy4Nc2E) was exacerbated by the rules the Bolsheviks had employed to win the civil war. Since they were taking all the peasant’s food stockpiles to feed the soldiers, there was nothing left to tide them over after a particularly bad winter. In the end 5,000,000 people died. Full blown cannibalism ensued, along with the rest of the things you would expect after a famine of that magnitude. The US actually sends temporary aid, which the Bolsheviks begrudgingly accept.
+Due to some bad weather in late 1920 and early 1921, we close this story with one of the [worst famines in history](https://owlcation.com/humanities/The-Top-10-Worst-Famines-in-History). The [Russian Famine of 1921](https://en.wikipedia.org/wiki/Russian_famine_of_1921%E2%80%931922) was exacerbated by the rules the Bolsheviks had employed to win the civil war. Since they were taking all the peasant’s food stockpiles to feed the soldiers, there was nothing left to tide them over after a particularly bad winter. In the end 5,000,000 people died. Full blown cannibalism ensued, along with the rest of the things you would expect after a famine of that magnitude. The US actually sends temporary aid, which the Bolsheviks begrudgingly accept.
 
-The story ends with Lenin's health declining quickly towards the end of 1921. He had a series of three strokes over the last few years of his life, each one leaving him more and more debilitated. Over this time Stalin had plotted his move to take over the government, which occupies most of Lenin's time in his final days. In a series of letters titled [Lenin’s Testament](https://www.google.com/url?q=https://en.wikipedia.org/wiki/Lenin%2527s_Testament&sa=D&source=editors&ust=1770366049311577&usg=AOvVaw245YOMVYaSWAj5bAaj6M-h), he spoke at length about his succession, heaping criticism on the current leaders, specifically Trotsky and Stalin. Suppressed for a time, but eventually read, the letters failed to prevent Stalin from taking over. Stalin then exiled Trotsky and ended up unencumbered at the top of the Soviet system.
+The story ends with Lenin's health declining quickly towards the end of 1921. He had a series of three strokes over the last few years of his life, each one leaving him more and more debilitated. Over this time Stalin had plotted his move to take over the government, which occupies most of Lenin's time in his final days. In a series of letters titled [Lenin’s Testament](https://en.wikipedia.org/wiki/Lenin%27s_Testament), he spoke at length about his succession, heaping criticism on the current leaders, specifically Trotsky and Stalin. Suppressed for a time, but eventually read, the letters failed to prevent Stalin from taking over. Stalin then exiled Trotsky and ended up unencumbered at the top of the Soviet system.
 
 After a final stroke, Lenin died in January 1924 at the age of 53. Stalin made sure that his body was embalmed and put under a massive monument in Moscow. In the same way as having Alexander the Great's body gave credibility to Ptolemy, the soul of the country was still with Lenin, whose power only grew with death.
 

@@ -1,5 +1,5 @@
 ---
-title: "The Age of the Infovore by\_Tyler Cowen"
+title: The Age of the Infovore by Tyler Cowen
 author: Unknown
 reviewAuthor: Anonymous
 contestId: 2022-book-reviews
@@ -37,7 +37,7 @@ A key claim in AOTI is that autism, broadly defined, is much more common than is
 
 Though many of these individuals experience initial challenges, they successfully learn to adapt and overcome them. Counter to prevailing stereotype, autistics can learn to develop greater flexibility, dynamism, and social aptitude while leveraging the unique strengths of their cognitive profile to great effect.
 
-This perspective prompted me to reevaluate life experiences in light of common markers of autism. As a child, I [struggled learning to write](https://www.google.com/url?q=https://www.spectrumnews.org/news/motor-difficulties-in-autism-explained/%23:~:text%3DWhat%2520types%2520of%2520motor%2520issues,as%2520manipulating%2520objects%2520and%2520writing.&sa=D&source=editors&ust=1770366145105746&usg=AOvVaw0ECudbHjtRp-o6b9jFkP14) and would sometimes become [mute in stressful situations](https://www.google.com/url?q=https://www.autismparentingmagazine.com/selective-mutism-autistic/&sa=D&source=editors&ust=1770366145106062&usg=AOvVaw0oEMi8mJ4WKQcmMiT9oVYH). I learned social skills very gradually by consciously [mirroring the things friends did](https://www.google.com/url?q=https://www.healthline.com/health/autism/autism-masking%23autism&sa=D&source=editors&ust=1770366145106315&usg=AOvVaw3teoieiotDGImbRX_oxUs9) that received positive results, and [avoided physical touch](https://www.google.com/url?q=https://www.google.com/search?q%3Ddo%2Bautistics%2Bstruggle%2Bwith%2Bphysical%2Btouch%26oq%3Ddo%2Bautistics%2Bstruggle%2Bwith%2Bphysical%2Btouch%26aqs%3Dchrome..69i57.9552j0j7%26sourceid%3Dchrome%26ie%3DUTF-8&sa=D&source=editors&ust=1770366145106642&usg=AOvVaw2aqjeZk_TA7koblF3LpNLJ) until I was almost twenty.
+This perspective prompted me to reevaluate life experiences in light of common markers of autism. As a child, I [struggled learning to write](https://www.spectrumnews.org/news/motor-difficulties-in-autism-explained/#:~:text=What%20types%20of%20motor%20issues,as%20manipulating%20objects%20and%20writing.) and would sometimes become [mute in stressful situations](https://www.autismparentingmagazine.com/selective-mutism-autistic/). I learned social skills very gradually by consciously [mirroring the things friends did](https://www.healthline.com/health/autism/autism-masking#autism) that received positive results, and [avoided physical touch](https://www.google.com/search?q=do+autistics+struggle+with+physical+touch&oq=do+autistics+struggle+with+physical+touch&aqs=chrome..69i57.9552j0j7&sourceid=chrome&ie=UTF-8) until I was almost twenty.
 
 I wasn’t sure I wanted the label, but aspects of the psychology seemed to fit.
 

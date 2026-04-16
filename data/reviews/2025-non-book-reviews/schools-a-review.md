@@ -7,7 +7,7 @@ contestName: 2025 Non Book Reviews
 year: 2025
 publishedDate: '2026-02-06T16:55:03.486Z'
 slug: schools-a-review
-wordCount: 3212
+wordCount: 3214
 readingTimeMinutes: 15
 originalUrl: >-
   https://docs.google.com/document/d/1a3q0Z2tuPLLbDeg5-pfEffkajGjrfPDwE7ZMs7uaWQs
@@ -22,7 +22,9 @@ Trigger warning: mentions schools
 
 Epistemic status: product reviews sometimes exaggerate
 
-Readers of this blog are unlikely to hold schools in the highest esteem. [Scott](https://slatestarcodex.com/2014/05/23/ssc-gives-a-graduation-speech/)[Alexander](https://www.astralcodexten.com/p/book-review-the-cult-of-smart), [Bryan Caplan](https://www.amazon.com/Case-against-Education-System-Waste/dp/0691174652), [Eliezer Yudkowsky](https://www.lesswrong.com/posts/48WeP7oTec3kBEada/two-more-things-to-unlearn-from-school) and [Zvi Mowshowitz](https://thezvi.substack.com/p/childhood-and-education-9-school) have pointed at a range of different problems with schools. However, most people still accept schools as a given, and say things like "schools teach many necessary subjects",  "parents need some place to babysit their kids" or "kids need to learn social skills". I think this complacency is mistaken. The current K-12 US education system causes unnecessary suffering and waste due to flawed beliefs, and fails to teach many important skills. This should have been fixed long ago but the advance of AI provides new opportunities for change.
+Readers of this blog are unlikely to hold schools in the highest esteem. [Scott](https://slatestarcodex.com/2014/05/23/ssc-gives-a-graduation-speech/) [Alexander](https://www.astralcodexten.com/p/book-review-the-cult-of-smart), [Bryan Caplan](https://www.amazon.com/Case-against-Education-System-Waste/dp/0691174652), [Eliezer Yudkowsky](https://www.lesswrong.com/posts/48WeP7oTec3kBEada/two-more-things-to-unlearn-from-school) and [Zvi Mowshowitz](https://thezvi.substack.com/p/childhood-and-education-9-school) have pointed at a range of different problems with schools. However, most people still accept schools as a given, and say things like "schools teach many necessary subjects",  "parents need some place to babysit their kids" or "kids need to learn social skills". I think this complacency is mistaken. The current K-12 US education system causes unnecessary suffering and waste due to flawed beliefs, and fails to teach many important skills. This should have been fixed long ago but the advance of AI provides new opportunities for change.
+
+![](https://acximages.ennals.org/images/2025-non-book-reviews/68429b03c6a2572a.png)
 
 ## The Limit of Enlightenment
 

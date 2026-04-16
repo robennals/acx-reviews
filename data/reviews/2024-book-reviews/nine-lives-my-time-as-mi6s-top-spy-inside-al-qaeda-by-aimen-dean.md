@@ -7,7 +7,7 @@ contestName: 2024 Book Reviews
 year: 2024
 publishedDate: '2026-02-06T16:48:20.711Z'
 slug: nine-lives-my-time-as-mi6s-top-spy-inside-al-qaeda-by-aimen-dean
-wordCount: 8072
+wordCount: 8073
 readingTimeMinutes: 36
 originalUrl: >-
   https://docs.google.com/document/d/1cp6iw5OEyDjnD_viZo-KL0Zv4jwQnMXtE4yIovfVAco
@@ -61,7 +61,7 @@ Also, there is no clean distinction between the ‘leadership’ and the ‘rank
 
 Other times, there is a prophecy with a clear interpretation, so they follow it even if it goes against any strategic reason. A hadith says: “The Last Hour would not come until the Romans land at al-A’maq or in Dabiq. An army consisting of the best (soldiers) of the people of the earth at that time will come from Medina (to counteract them).” So ISIS put crazy amount of effort into defending the otherwise unimportant village of Dabiq in northern Syria for three years, and they provoked the West with their brutality, openly admitting that their hope is for the West to send ground troops, so they can defeat them in Dabiq:
 
-In November 2014, another ISIS executioner, Mohammed Emwazi, appeared in Dabiq with the severed head of an American hostage, saying, 'Here we are, burying the first American Crusader in Dabiq, eagerly waiting for the remainder of your armies to arrive.'
+In November 2014, another ISIS executioner, Mohammed Emwazi, appeared in Dabiq with the severed head of an American hostage, saying, 'Here we are, burying the first American Crusader in Dabiq, eagerly waiting for the remainder of your armies to arrive.' 
 
 In a message released after the group's attack in Paris in 2015, Baghdadi mocked the West for not sending in ground troops. 'They know what awaits them in Dabiq [in] terms of defeat, death, and destruction. They know that it is the final war and after it, God permitting, we will invade them and they will not invade us, and Islam will dominate the world anew until the Day of Judgement.'
 
@@ -113,7 +113,7 @@ The Western intelligence agencies knew this. Al-Qaeda knew this. Still, it was 
 
 Looking at the list of [chemical terror attacks](https://en.wikipedia.org/wiki/Chemical_terrorism), it still doesn’t seem to be a very practical weapon for them, as they have only managed to kill a handful of people so far, and none in Western countries. But certainly, they are trying, and some of their plots might have gone through if one of their few chemical weapons experts, a certain Aimen Dean, hadn’t always dutifully informed the MI6 about their plans.
 
-Their obsession with “biological weapons” is even more bizarre. In the book, the chemical and biological experiments group doesn’t even try creating actually dangerous biological weapons that could cause pandemics, as they know it’s well beyond their reach. However, they can still extract scorpion venom, and it’s kind of like a biological weapon! It’s incredibly impractical, but that’s not really the point. The point is that WHO [defines](https://www.who.int/health-topics/biological-weapons#tab=tab_1) biological weapons as “Biological and toxin weapons are either microorganisms like virus, bacteria or fungi, or toxic substances produced by living organisms that are produced and released deliberately to cause disease and death in humans, animals or plants”.Scorpion venom fits the definition, so Western intelligence agencies can say “al-Qaeda has chemical and biological capabilities”, and all of this sounds scary, and being scary and provoking a response is the whole point.
+Their obsession with “biological weapons” is even more bizarre. In the book, the chemical and biological experiments group doesn’t even try creating actually dangerous biological weapons that could cause pandemics, as they know it’s well beyond their reach. However, they can still extract scorpion venom, and it’s kind of like a biological weapon! It’s incredibly impractical, but that’s not really the point. The point is that WHO [defines](https://www.who.int/health-topics/biological-weapons#tab=tab_1) biological weapons as “Biological and toxin weapons are either microorganisms like virus, bacteria or fungi, or toxic substances produced by living organisms that are produced and released deliberately to cause disease and death in humans, animals or plants”. Scorpion venom fits the definition, so Western intelligence agencies can say “al-Qaeda has chemical and biological capabilities”, and all of this sounds scary, and being scary and provoking a response is the whole point.
 
 I would really want to redefine our categories in a reasonable way, and have a category for “pandemic-causing biological capabilities'' that definitely doesn’t include scorpion venom. Similarly, poison gas weapons can be very destructive (though it turns out they are not that bad when low-tech terrorists need to assemble them and then smuggle the gas-container to the target), and this makes “chemical attacks” sound bad, but then the [Wikipedia](https://en.wikipedia.org/wiki/Chemical_terrorism) list of examples includes things like “In one case, nails and bolts packed into explosives detonated by a Hamas suicide bomber in a December 2001 attack at the Ben-Yehuda street in Jerusalem were soaked in rat poison”. This is really not a central example of a “weapon of mass destruction”, and we only confuse ourselves if we put it in the same category with more dangerous things.
 

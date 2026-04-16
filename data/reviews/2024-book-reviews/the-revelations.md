@@ -7,7 +7,7 @@ contestName: 2024 Book Reviews
 year: 2024
 publishedDate: '2026-02-06T16:49:50.814Z'
 slug: the-revelations
-wordCount: 3850
+wordCount: 3852
 readingTimeMinutes: 18
 originalUrl: >-
   https://docs.google.com/document/d/1Ki5XsE0jkxZtd2XAeyTAJw1ZjLh2Cu-matUYKAhA6-s
@@ -84,7 +84,7 @@ There’s still a lingering contact high from Kierk…Maybe, Carmen thinks, she 
 
 These sorts of absurdly earnest laudatory descriptions abound, giving the reader the sense that we really are meant to admire Kierk as he bullies his way through the fellowship.
 
-Perhaps in an attempt to make Kierk more sympathetic, the book spends more time on what it seems to see as his other flaws: his tendency towards self-hatred, and his fits of psychotic paranoia. The former seems intended to generate sympathy, and Kierk does seem genuinely tormented. But dislike of self is the fundamental trait of any bully. Kierk seems to have fallen into the flawed chain of reasoning that intelligent bullies who were bullied themselves are prone to: the people that abused me seemed powerful and confident. Ifeel insecure and helpless. Thus, Icannot be a bully: I am merely bravely speaking truth to the people around me.
+Perhaps in an attempt to make Kierk more sympathetic, the book spends more time on what it seems to see as his other flaws: his tendency towards self-hatred, and his fits of psychotic paranoia. The former seems intended to generate sympathy, and Kierk does seem genuinely tormented. But dislike of self is the fundamental trait of any bully. Kierk seems to have fallen into the flawed chain of reasoning that intelligent bullies who were bullied themselves are prone to: the people that abused me seemed powerful and confident. I feel insecure and helpless. Thus, I cannot be a bully: I am merely bravely speaking truth to the people around me.
 
 The second flaw, his paranoia, feels tacked on. When the protagonist in House of Leaves fears being stalked by a murderous minotaur, we understand it as a symptom of isolation, heavy drug use, and a genetic predisposition to schizophrenia. It helps explain his obsession with Zampanos text, contrasts his disordered madness to Zampanos ordered insanity, and echos the impossible labyrinth of the Navidson house. In The Revelations, however, Kierk’s madness is largely unexplained, a quirk that arises from no discernable source. It feels more like a way to designate him as special and edgy, especially since it doesn’t seem to affect him at all; his many paranoid episodes could be completely cut from the book without affecting the rest of the text. They hold about the same importance as his idle thoughts as he runs.
 

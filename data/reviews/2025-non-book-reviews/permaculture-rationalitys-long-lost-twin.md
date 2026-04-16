@@ -7,7 +7,7 @@ contestName: 2025 Non Book Reviews
 year: 2025
 publishedDate: '2026-02-06T16:55:03.484Z'
 slug: permaculture-rationalitys-long-lost-twin
-wordCount: 2383
+wordCount: 2384
 readingTimeMinutes: 11
 originalUrl: >-
   https://docs.google.com/document/d/1a3q0Z2tuPLLbDeg5-pfEffkajGjrfPDwE7ZMs7uaWQs
@@ -62,6 +62,8 @@ In a modern farming context, there is a lot of apparent activity on the surface,
 A dramatic demonstration of the problems of extractive agriculture is the Dust Bowl. The area takes its name from the rapid (local) climate change that happened in the 1930's, around the time mechanized farming equipment came into widespread use and the area of cultivated land rapidly expanded. Native prairies were lost and the land quickly degraded due to inappropriate and aggressive farming techniques, such as deep tilling of the soil every year, which exposed the soil to erosion.
 
 The result was this:
+
+![](https://acximages.ennals.org/images/2025-non-book-reviews/f7728845e545f301.jpg)
 
 Let's try not to repeat that, hmm?
 

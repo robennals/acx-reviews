@@ -7,7 +7,7 @@ contestName: 2024 Book Reviews
 year: 2024
 publishedDate: '2026-02-06T16:47:15.601Z'
 slug: dominion-by-matthew-scully
-wordCount: 6405
+wordCount: 6406
 readingTimeMinutes: 29
 originalUrl: >-
   https://docs.google.com/document/d/1AXmWgSbh_TFsoZuApSCSEoz57yn93CM5YYhtaO_s4W4
@@ -21,13 +21,13 @@ Matthew Scully, author of Dominion, is an unlikely animal welfare advocate. He�
 
 Scully’s unusual background could be why it took me years of reading everything on animal welfare I could get my hands on before I stumbled on his 2002 manifesto. Let this be a warning to other authors — write just [one little State of the Union](https://www.washingtonpost.com/wp-srv/politics/transcripts/bushtext_012004.html) address that exalts the War on Terror and your books might not get a lot of reach in more liberal, EA-adjacent circles.
 
-Scully is like a right-wing, vegetarian, Christian, David Foster Wallace. If you read DFW’s [Consider the Lobster](https://www.columbia.edu/~col8/lobsterarticle.pdf)and thought, “I wish someone would write a full length book with this vibe, where a very talented and surprisingly funny writer excoriates problematic industries,” Dominion is the book for you.
+Scully is like a right-wing, vegetarian, Christian, David Foster Wallace. If you read DFW’s [Consider the Lobster](https://www.columbia.edu/~col8/lobsterarticle.pdf) and thought, “I wish someone would write a full length book with this vibe, where a very talented and surprisingly funny writer excoriates problematic industries,” Dominion is the book for you.
 
 If you are intrigued by the type of person who would use their ingroup status to get other conservatives to let their guard down, only to roast them in print for their views on animals, Dominion is the book for you.
 
 If you have a bone to pick with Peter Singer’s particular brand of utilitarianism but you also begrudgingly respect him, Dominion is definitely the book for you. Singer is mentioned at least a dozen times, and it’s usually to remind people that he’s a godless infanticide defender.
 
-It’s really no offense to Singer though, that’s just how Scully rolls. He’s an equal opportunity criticizer. Whether you’re an icon of the animal rights movement, some guy bragging about shooting a fenced\-in lion, a revered conservative thinker like Roger Scruton, basically every Christian except St. Francis of Assisi, the head of a public company, or a dear personal friend who happened to write an article that annoyed him, you get the same treatment in Dominion — cutting, well-researched, and often really funny arguments as to why your views on animals are misguided.
+It’s really no offense to Singer though, that’s just how Scully rolls. He’s an equal opportunity criticizer. Whether you’re an icon of the animal rights movement, some guy bragging about shooting a fenced-in lion, a revered conservative thinker like Roger Scruton, basically every Christian except St. Francis of Assisi, the head of a public company, or a dear personal friend who happened to write an article that annoyed him, you get the same treatment in Dominion — cutting, well-researched, and often really funny arguments as to why your views on animals are misguided.
 
 He sees it as a huge moral failing of modern society that most people are indifferent to the suffering of animals that are not our pets. It pains him deeply that this blindspot exists. It is so obvious to him that all animals deserve our respect. But as someone in George W. Bush’s inner circle would surely understand, ethics are complicated and smart people can disagree. In order to stave off as many objections as possible, Scully explores every inch of the animal welfare landscape.
 

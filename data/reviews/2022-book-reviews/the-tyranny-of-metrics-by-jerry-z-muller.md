@@ -21,7 +21,7 @@ sets out to investigate how metrics became ever present in private and public or
 
 I’ve picked up the tyranny of metrics as a counter-balance to “How to Measure Anything” by Douglas W. Hubbard, a book that has convinced me to join the “measure everything!” club. Tyranny of metrics did not convince me to leave that club.
 
-The book could have been called “Goodhart’s law: examples”. For those unfamiliar, [Goodhart’s law](https://www.google.com/url?q=https://en.wikipedia.org/wiki/Goodhart%2527s_law&sa=D&source=editors&ust=1770366106708649&usg=AOvVaw3KsG2TfwFHYGeu3pTZF63-):
+The book could have been called “Goodhart’s law: examples”. For those unfamiliar, [Goodhart’s law](https://en.wikipedia.org/wiki/Goodhart%27s_law):
 
 Any observed statistical regularity will tend to collapse once pressure is placed upon it for control purposes.
 
@@ -47,7 +47,7 @@ Let’s see if we can derive a better metric for one of the examples from the bo
 
 When confronted with a difficult measurement, “How to measure anything” recommends asking “what is the decision this measurement is supposed to support?”.
 
-For a prospective student, the quality metric for a college will be used to decide whether to apply to that college or not. This is one of the U.S. Department of Education’s [College Ratings Framework](https://www.google.com/url?q=https://www.ed.gov/collegeratings&sa=D&source=editors&ust=1770366106710380&usg=AOvVaw1qe_k5ccH4otKOPQ6FLI85) purposes:
+For a prospective student, the quality metric for a college will be used to decide whether to apply to that college or not. This is one of the U.S. Department of Education’s [College Ratings Framework](https://www.ed.gov/collegeratings) purposes:
 
 To provide better information about college value to students and families to support them as they search for select a college,
 
@@ -61,7 +61,7 @@ When you can measure what you are speaking about, and express it in numbers, you
 
 Would this metric help against the problems mentioned above? Distribution of probabilities of events that students care about (like achieving employment with a specific salary) might show that there is a significant risk of net loss for students, which should make generalisations like “more education is better” less convincing. There should also be less of a push to lower standards to improve completion rates, since lowering standards decreases probability of other events students care about (like achieving employment with a specific salary).
 
-Using probabilities of events and prediction accuracy (see [Brier score](https://www.google.com/url?q=https://en.wikipedia.org/wiki/Brier_score&sa=D&source=editors&ust=1770366106712961&usg=AOvVaw18T2Lzzjpbx0tHWo4XYwrj) and “Superforecasting: The Art and Science of Prediction” by Philip E. Tetlock for more on prediction accuracy) as main metrics for quality seems to have some nice properties:
+Using probabilities of events and prediction accuracy (see [Brier score](https://en.wikipedia.org/wiki/Brier_score) and “Superforecasting: The Art and Science of Prediction” by Philip E. Tetlock for more on prediction accuracy) as main metrics for quality seems to have some nice properties:
 
 1.  Tracking of prediction accuracy forces models to self-correct (situation in the labour market changed and now getting a job with a specific salary is less likely? gotta update that model).
 2.  Models used for prediction of events can be better fitted to local circumstances (avoids “one size fits all”).

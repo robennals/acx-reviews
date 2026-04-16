@@ -7,7 +7,7 @@ contestName: 2025 Non Book Reviews
 year: 2025
 publishedDate: '2026-02-06T16:55:03.482Z'
 slug: on-taste
-wordCount: 8474
+wordCount: 8481
 readingTimeMinutes: 38
 originalUrl: >-
   https://docs.google.com/document/d/1a3q0Z2tuPLLbDeg5-pfEffkajGjrfPDwE7ZMs7uaWQs
@@ -29,6 +29,8 @@ What is taste?
 Scott recently offered a series of [Friendly and Hostile Analogies For Taste](https://www.astralcodexten.com/p/friendly-and-hostile-analogies-for), which kicked off a wide-ranging discussion in our little corner of the internet.
 
 [Zvi said](https://thezvi.substack.com/p/a-matter-of-taste) that of the analogies given, taste is most like grammar. [Zac Hill put forward](https://x.com/zdch/status/1864686277032865930) a framework of his own:
+
+![](https://acximages.ennals.org/images/2025-non-book-reviews/d7713b72f8e4a713.png)
 
 [Sympathetic Opposition](https://www.sympatheticopposition.com/p/contra-scott-on-taste#footnote-anchor-3-152877203) posed an actual definition:
 
@@ -152,6 +154,8 @@ There are any number of dimensions through which we can evaluate the quality of 
 
 Some dimensions of quality can’t be evaluated by your Average Joe. This is where Zac’s framework for artistic quality comes in. His first two variables - the mechanics of the medium, and the artist/creator’s facility with those mechanics - are concerned with the quality of the art/object itself. The third variable - the audience’s perceptive ability - is where good taste makes its demands, and the level of demandingness is itself a dimension through which we evaluate quality:
 
+![](https://acximages.ennals.org/images/2025-non-book-reviews/cd5098d92c107bd0.png)
+
 This is why perceptual acuity and knowledge, while not taste itself, are intimately related to the acquisition of good taste.
 
 Outside of a thought experiment, no one’s true taste preferences would consistently align with expert consensus if they are unable to perceive the nuanced and subtle qualities that created the consensus in the first place.
@@ -188,7 +192,7 @@ Scott addressed this in his response to Frank Lantz ([#29](https://www.astralcod
 
 The story Scott references is difficult to summarize concisely - it’s eight pages long, maybe just go ahead and read it. ([The Wikipedia entry](https://en.wikipedia.org/wiki/Pierre_Menard,_Author_of_the_Quixote) notes that “Borges wrote the story while recovering from a head injury”, which sounds about right.) The general conceit is that it praises a fictional author’s attempt to recreate Don Quixote word-for-word, peaking at this comparison of the prosaic prose of Cervantes vs. that of the enlightened Menard:
 
-Now that is satire.
+![](https://acximages.ennals.org/images/2025-non-book-reviews/1ef4ca1173774381.png)Now that is satire.
 
 On the surface, this is a shot at critics who invent meanings out of thin air based on preexisting notions regarding the text and the author. Which, of course, it is. But, as the Wiki entry mentions, this story is best understood alongside another Borges short story, [The Library of Babel](https://sites.evergreen.edu/politicalshakespeares/wp-content/uploads/sites/226/2015/12/Borges-The-Library-of-Babel.pdf). Actually, really go read [that Wiki](https://en.wikipedia.org/wiki/Pierre_Menard,_Author_of_the_Quixote) summary - they crushed it:
 
@@ -254,7 +258,7 @@ We haven’t yet figured out how to objectively measure authenticity. Scott touc
 
 That works fine for wine, because the physical sense of taste is one of the more straightforward things to evaluate - blind taste tests are pretty good at weeding out the poseurs. But what about taste in everything else?
 
-Scott’s [AI Art Turing Test](https://www.astralcodexten.com/p/how-did-you-do-on-the-ai-art-turing)evaluated our ability to differentiate between human art and AI-generated images. The results showed that most of us suck, but some people don’t. We know exactly who those people are, because that test had an objectively correct answer key. For most of human history, such a thing didn’t exist.
+Scott’s [AI Art Turing Test](https://www.astralcodexten.com/p/how-did-you-do-on-the-ai-art-turing) evaluated our ability to differentiate between human art and AI-generated images. The results showed that most of us suck, but some people don’t. We know exactly who those people are, because that test had an objectively correct answer key. For most of human history, such a thing didn’t exist.
 
 Suppose we made a similar test, but all of the works are made by humans. Your job is to rank the works by quality and artistic merit.
 
@@ -272,7 +276,7 @@ It seems somewhat problematic that the experts can’t even come to an agreement
 
 Should we work hard to learn the ropes? Or is the acquisition of knowledge and context, the insistence on proper interpretation, a barrier to direct engagement and a sensory experience of aesthetics?
 
-Enter the layman’s dilemma: how are non-experts supposed to form opinions on subjects that only experts can understand? Howshould I engage with wine or paintings or classic literature? Can I even engage with it on the level necessary for true appreciation?
+Enter the layman’s dilemma: how are non-experts supposed to form opinions on subjects that only experts can understand? How should I engage with wine or paintings or classic literature? Can I even engage with it on the level necessary for true appreciation?
 
 Ideally, we would solve the layman’s dilemma by relying on the expert consensus. But this assumes a) that there is a consensus, and b) that the experts aren’t full of shit.
 
@@ -290,7 +294,7 @@ With normal institutions, there can be competing values, goals, and visions of s
 
 High fashion is probably the best modern example:
 
-Are we sure this is worth doing?
+![](https://acximages.ennals.org/images/2025-non-book-reviews/f255605a08fa89b5.png)Are we sure this is worth doing?
 
 It’s bad form to criticize things you don’t understand, which is why this isn’t necessarily a critique. High fashion is just the easiest example of elite taste diverging from the norm to the point that it no longer feels relevant to the rest of us.
 
@@ -361,7 +365,7 @@ Once people suspect you of liking things for inauthentic reasons, it becomes imp
 
 Everyone who isn’t being deliberately difficult admits that good taste exists. But it’s also true that some arbiters of taste are huffing their own farts and inviting you to savor the smell.
 
-The layman must be open to the reality of taste, which requires a humble admission of ignorance. But the expert is the one who knows how to sort the wheat from chaff. Those who knowthe difference are tasked with explaining it. If they want to be successful, they need to do so in a way that meets the layman where he is at.
+The layman must be open to the reality of taste, which requires a humble admission of ignorance. But the expert is the one who knows how to sort the wheat from chaff. Those who know the difference are tasked with explaining it. If they want to be successful, they need to do so in a way that meets the layman where he is at.
 
 What we’ve got here is failure to communicate.
 
@@ -381,11 +385,11 @@ This requires a level of properly communicated enthusiasm for the subject, as we
 
 The indirect approach is that of the snob.
 
-The snob may or may not be making an appeal, in the sense of trying to get you to do something. But all assertions of superiority at the identity level - I am better than you, full stop - contain implicit messages. What I value is better than what you value. What I do is better than what you do. What I am is better than what you are.
+The snob may or may not be making an appeal, in the sense of trying to get you to do something. But all assertions of superiority at the identity level - I am better than you, full stop - contain implicit messages. What I value is better than what you value. What I do is better than what you do. What I am is better than what you are. 
 
 However, snobbishness (as I am using it here) crops up in all sorts of unexpected places. As we’ve already discussed, the unapologetic snob is a rare breed, and the effective snob much rarer still. In today’s world, snobbishness rarely recognizes itself as such.
 
-Saying that you should do this, you shouldn’t do that, you shouldlike this more than that… if you are making is/ought distinctions at all, you are not making a direct appeal.
+Saying that you should do this, you shouldn’t do that, you should like this more than that… if you are making is/ought distinctions at all, you are not making a direct appeal.
 
 We already talked about Girard, right?
 
@@ -560,3 +564,5 @@ The evidence of his encounter with the divine echoed down through the ages, such
 If you have commandments to share, wonders to reveal, we need them.
 
 So show me a miracle.
+
+![](https://acximages.ennals.org/images/2025-non-book-reviews/3919e6e18334b8a8.png)

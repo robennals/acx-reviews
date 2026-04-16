@@ -7,7 +7,7 @@ contestName: 2025 Non Book Reviews
 year: 2025
 publishedDate: '2026-02-06T16:52:48.904Z'
 slug: identity
-wordCount: 2827
+wordCount: 2881
 readingTimeMinutes: 13
 originalUrl: >-
   https://docs.google.com/document/d/1d0vRSj1E93joWWvbUen2XGuDjN_mM94ybMIAADzM2fo
@@ -71,6 +71,8 @@ III.
 
 When I asked if it really helps you to think more clearly if you say “I fathered this child” rather than “I am this child’s father”, many of you probably thought “yes, obviously”. The phrase “being a father” comes with loads of moral connotations, whereas “fathering a child” states the fact and nothing else. If you want to stick to that and reject the moral implications, you might say “I fathered” and not “I am a father” (though Alice and I would hope that you better have very good reasons for that). Likewise, looking at the two sentences “I agree with the positions of party P” and “I am a P-ist”, it is easier for me to imagine the former being continued with “but …”. Only the second speaker has P-ism as part of their identity, while the former does not, or at least has it to a lesser degree. So do I agree that identity is epistemically problematic? No, because that conclusion would conflate correlation and causality. Probably the second person started growing overconfident in party P’s positions before they started calling themselves a P-ist. Identity-related speech can be a warning sign of a trapped prior, but not a strong one, and is mostly just a turn of phrase.
 
+![Meme - Darth Vader: I am your father. Luke (screaming): Well, there's a factual statement with no emotional valence at all.](https://acximages.ennals.org/images/2025-non-book-reviews/206efa7640201621.jpg)
+
 Scott Alexander (Do you know him? He has a good blog—can recommend!) wrote in a recent [post](https://www.astralcodexten.com/p/misophonia-beyond-sensory-sensitivity) about his misophonia:
 
 One night my roommate complained that I seemed to have some weird pathological problem with noise way outside the normal distribution. I’d never thought about it before, but again, something resonated, that became “part of my identity” against my will, and from then on I was intolerable about any noise-related issue. Again, the simple explanation is that I was already like that - hence my roommate telling me I was like that. Again, that’s not how I remember things.
@@ -80,6 +82,8 @@ One night my roommate complained that I seemed to have some weird pathological p
 And yet, in this example, you don’t have a drive to defend this belief because it is about you. You are overconfident, not defensive. Coming back to the Scott quote, although he says something became “part of his identity”, he does not really describe how misophonia interfered with other parts of his self-conception. It is rather the other way around: his self-conception (or, more precisely, his relationships to others) interfered with his misophonia by means of “guilt and self-criticism over responding unusually badly to noise”. In both these cases, the ideas associated with the term identity seem more confusing than illuminating.
 
 So that leaves us at: people care about themselves, and beliefs about oneself can involve feedback loops. Identity is maybe just a popular and somewhat mystifying figure of speech to describe these facts. My problem is then that for some reason I am a century or two behind on the [word-frequency curve](https://books.google.com/ngrams/graph?content=identity&year_start=1800&year_end=2022&corpus=en&smoothing=3):
+
+![The plot of the curve since 1800 shows the word frequency staying constant until 1920-40, around which time it started growing exponentially, reaching its maximum in 2019, followed by a tiny downward dent.](https://acximages.ennals.org/images/2025-non-book-reviews/324d4e1827fcf870.png)
 
 Where my contemporaries say identity, I use the words that our ancestors might have used. Where they say “Ukrainians are defending their identity”, I say “Ukrainians are defending their freedom”. When they say “conflicting identities”, I think of Jekyll and Hyde, not “[How do gender roles affect extremism?](https://www.undp.org/asia-pacific/tolerance-and-diversity/conflicting-identities)”. Identity already has a meaning; it means sameness. That’s its literal Latin meaning, that’s how we use it in Maths, and in terms like “personal identity” or “identity provider”. Maybe I am just being the mathematical and [etymological](https://www.youtube.com/watch?v=scS-Z70e4Xo) equivalent of those obnoxious people who demand that tomatoes must not be called vegetables because botanically they are fruits, but I still find myself insisting that the identity this essay is about is just a cheap rip-off of that trusted, useful notion.
 

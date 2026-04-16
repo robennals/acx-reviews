@@ -7,7 +7,7 @@ contestName: 2024 Book Reviews
 year: 2024
 publishedDate: '2026-02-06T16:48:56.661Z'
 slug: sadly-porn
-wordCount: 40772
+wordCount: 40800
 readingTimeMinutes: 182
 originalUrl: >-
   https://docs.google.com/document/d/1GYQw3pgvhi7hqOVR-Ql629Q_8thbyHe8sSRy5voyt30
@@ -24,7 +24,7 @@ A Proverb of Hell
 
 It's customary to begin a piece of writing with a summary of what is to be argued. This will not be possible in this case.
 
-Yes, I know that [Scott has reviewed Sadly, Porn already](http://www.astralcodexten.com/p/book-review-sadly-porn). Look, when that review came out it provoked equal amounts of bafflement, anger and amazement. A [lot](https://substack.com/home/post/p-58069764?selection=7293e37b-e1aa-4745-9ee0-a4775f761ab4#:~:text=%20The%20obsession%20with%20rational-sounding%20reasons%20is%20contributing%20to%20the%20obliteration%20of%20love)[of](https://www.residentcontrarian.com/p/an-article-about-a-book-about-pornography?r=75epr)[people](https://zerohplovecraft.substack.com/p/book-review-sadly-porn-by-the-last?r=75epr) have tried to review the book, and their reviews are universally awful. Not that the reviews said the book was bad, though plenty of them did that, but the reviews themselves are terrible at telling you about the book. Scott's was by far the best of a bad bunch, to be sure, but even when he knew he was missing something he didn't seem to want to grapple with it. As Scott himself said, it was clear that he was left with a lot of holes in his map. I guess you could say that this review is an attempt to fill some of Scott's holes.
+Yes, I know that [Scott has reviewed Sadly, Porn already](http://www.astralcodexten.com/p/book-review-sadly-porn). Look, when that review came out it provoked equal amounts of bafflement, anger and amazement. A [lot](https://substack.com/home/post/p-58069764?selection=7293e37b-e1aa-4745-9ee0-a4775f761ab4#:~:text=%20The%20obsession%20with%20rational-sounding%20reasons%20is%20contributing%20to%20the%20obliteration%20of%20love) [of](https://www.residentcontrarian.com/p/an-article-about-a-book-about-pornography?r=75epr) [people](https://zerohplovecraft.substack.com/p/book-review-sadly-porn-by-the-last?r=75epr) have tried to review the book, and their reviews are universally awful. Not that the reviews said the book was bad, though plenty of them did that, but the reviews themselves are terrible at telling you about the book. Scott's was by far the best of a bad bunch, to be sure, but even when he knew he was missing something he didn't seem to want to grapple with it. As Scott himself said, it was clear that he was left with a lot of holes in his map. I guess you could say that this review is an attempt to fill some of Scott's holes.
 
 For those who haven't heard anything about Sadly, Porn, it's a book about stories. The stories that people tell to others and the stories that they tell themselves. It's about lies, and truths that may as well be lies. Part of the problem is that it is very against the spirit of the book to summarise it, to review it, after all, a review is itself a kind of story, a story about a story, and to tell a story about a story that warns one about the nature of stories would be highly improper. But as you'll find out, I have found a loophole to get around this.
 
@@ -74,7 +74,7 @@ Does the conflict resolve leading to lasting change?
 
 Robert McKee, the godfather of Hollywood screenwriting, describes in his magnum opus Story a single structure that most successful stories conform to that he terms, the Archplot, or Classical Design. It depicts a single, active protagonist in a temporally continuous manner in a consistent way, where the events are directly caused by the actions of the protagonist and the other characters, and the conflict is resolved leading to lasting change.
 
-The vast majority of films, novels, myths etc, are just variants on the Archplot. Star WarsEpisode IV is the classic example, but The Very Hungry Caterpillar is one as well. Don’t confuse it with [the Hero’s Journey](https://en.wikipedia.org/wiki/Hero's_journey), though, which is a kind of Archplot, but a more specific take on it which nonetheless manages to recur throughout cultures.
+The vast majority of films, novels, myths etc, are just variants on the Archplot. Star Wars Episode IV is the classic example, but The Very Hungry Caterpillar is one as well. Don’t confuse it with [the Hero’s Journey](https://en.wikipedia.org/wiki/Hero's_journey), though, which is a kind of Archplot, but a more specific take on it which nonetheless manages to recur throughout cultures.
 
 Our story begins with a hero who starts in a state of equilibrium but is put out of it by some event. He then has to take actions that will restore them to their ideal state, sometimes these will succeed, often these will fail, since that’s what gives the story conflict and drama. When he achieves his goal, the conflict is resolved, and the hero is changed.
 
@@ -104,7 +104,7 @@ In the Soviet Union a common theme of propaganda was the concept of the “[New 
 
 This did not transpire. But in dissident literature an [alternative thesis](https://en.wikipedia.org/wiki/Homo_Sovieticus) emerged, that a New Soviet Man had been created, he simply had the opposite properties of what he was supposed to. The New Soviet Man was an intellectually incurious and untrustworthy coward, lazy, indifferent to his work, and liable to give up his own mum to the KGB for a promotion. In short, the kind of person you'd have to be to survive within the totalitarian environment of the Soviet Union.
 
-Whatever the truth of this is with regards to the Soviet Union and inhabitants, I enjoy speculation of this kind. Maybe you've heard of Julian Jaynes' Origin[of Consciousness in the Breakdown of the Bicameral Mind](https://slatestarcodex.com/2020/06/01/book-review-origin-of-consciousness-in-the-breakdown-of-the-bicameral-mind/), that supposes that consciousness as we understand it was only invented three thousand or so years ago, a radical, but difficult to prove thesis. Of course, practically speaking any investigation of this is necessarily unscientific since we don’t have direct access to other people’s interior states,especially those who lived thousands of years ago. Instead it must be inferred from the close examination of texts and other cultural products.
+Whatever the truth of this is with regards to the Soviet Union and inhabitants, I enjoy speculation of this kind. Maybe you've heard of Julian Jaynes' Origin [of Consciousness in the Breakdown of the Bicameral Mind](https://slatestarcodex.com/2020/06/01/book-review-origin-of-consciousness-in-the-breakdown-of-the-bicameral-mind/), that supposes that consciousness as we understand it was only invented three thousand or so years ago, a radical, but difficult to prove thesis. Of course, practically speaking any investigation of this is necessarily unscientific since we don’t have direct access to other people’s interior states,especially those who lived thousands of years ago. Instead it must be inferred from the close examination of texts and other cultural products.
 
 If it is true, the question naturally arises: what is the distinctive psychological condition of contemporary life?
 
@@ -218,6 +218,8 @@ If there’s one thing to remember going forwards, it’s this; a lot of times E
 
 5.
 
+![](https://acximages.ennals.org/images/2024-book-reviews/2472f16f4867a8ae.png)
+
 Those who restrain desire, do so because theirs is weak enough to be restrained; and the restrainer or reason usurps its place and governs the unwilling.
 
 And being restrained, it by degrees becomes passive, till it is only the shadow of desire.
@@ -284,6 +286,8 @@ The conclusion of all this is that rational individuals do not per John Locke (a
 
 6.
 
+![](https://acximages.ennals.org/images/2024-book-reviews/2debe773bc1de441.png)
+
 Prisons are built with stones of Law, brothels with bricks of Religion
 
 The basic thesis of The Culture of Narcissism is that many features of modern life work together to produce a similar mental state across the entire population. It is not an accusation of mental illness, since it represents an accumulation of adaptive psychological traits for individuals. As Lasch himself says:
@@ -346,7 +350,7 @@ But bureaucracy is afflicted by a number of pathologies. The first issue is what
 
 The [principal-agent problem](https://en.wikipedia.org/wiki/Principal%E2%80%93agent_problem) is a persistent issue: since people are not machines they have interests and wills of their own. The bureaucrat is always supposed to be a pure agent of the rules, if he had a stake in the matters he dealt with that would be highly improper. He has no skin in the game, but this means doesn’t really have to care about the output of his job, he just satisfices, which means he does the minimum not to get fired.
 
-There’s a particular problem, it’s what James C. Scott refers to as legibility. This section will be abstract for brevity, you can try reading Seeing Like A State or one of [these](https://samzdat.com/2017/05/22/man-as-a-rationalist-animal/)[reviews](https://slatestarcodex.com/2017/03/16/book-review-seeing-like-a-state/)[for](https://www.ribbonfarm.com/2010/07/26/a-big-little-idea-called-legibility/)[more](https://www.cato-unbound.org/2010/09/08/james-c-scott/trouble-view-above)[detail](http://delong.typepad.com/sdj/2007/10/james-scott-and.html). The human mind can be conceived as a system for processing, storing and using information, a bureaucracy, or really any organisation is the same.
+There’s a particular problem, it’s what James C. Scott refers to as legibility. This section will be abstract for brevity, you can try reading Seeing Like A State or one of [these](https://samzdat.com/2017/05/22/man-as-a-rationalist-animal/) [reviews](https://slatestarcodex.com/2017/03/16/book-review-seeing-like-a-state/) [for](https://www.ribbonfarm.com/2010/07/26/a-big-little-idea-called-legibility/) [more](https://www.cato-unbound.org/2010/09/08/james-c-scott/trouble-view-above) [detail](http://delong.typepad.com/sdj/2007/10/james-scott-and.html). The human mind can be conceived as a system for processing, storing and using information, a bureaucracy, or really any organisation is the same.
 
 The way that the bureaucracy has to conceive of knowledge is termed by Lou Keep at Samzdat (one day the Mahdi will return) as episteme. Episteme is easy for us all to understand because it’s just another way of describing knowledge as most people understand it. It consists of a collection of rules that correspond to reality, a set of justified true beliefs. I choose to use it because I want to make it seem more alien than the word knowledge is for most people; knowledge is a word that people use without really grappling with. This essay is episteme since it tries to address its meaning itself to you directly, Sadly, Porn is not episteme for the opposite reason, hence its relevance.
 
@@ -384,6 +388,8 @@ As the bureaucracy expands it grows in complexity, the number of rules grows exp
 
 “An entity can be omnipotent or it can be omniscient but the problem of sociology and theology is that psychologically it cannot be both.”
 
+![](https://acximages.ennals.org/images/2024-book-reviews/4505382764988bc6.png)
+
 9.
 
 The weak in courage is strong in cunning
@@ -411,6 +417,8 @@ Lastly, and most simply, in any bureaucratic system, if there’s no record of i
 A curious paradox emerges as a result of this: as the bureaucracy expands and becomes more powerful it accumulates new rules, new quantifications, labels and forms of record keeping. But the more rules there are, the more conflicts there can be between them. Since the cynical bureaucrat exercises agency through these gaps, as the bureaucracy gains power, he gains more power and agency, and ceases to be a bureaucrat in the true sense. An out of control bureaucracy is one where review has become impossible, and each little cog is a king in his own right. Under these conditions, the bureaucracy is dead, it has solidified into aristocracy, feudalism. Since like all living things the bureaucracy wants to grow by its own nature, it is also inexorably moving towards its own demise.
 
 10.
+
+![](https://acximages.ennals.org/images/2024-book-reviews/f0c7203ef2c76451.png)
 
 Bring out number, weight, and measure in a year of dearth
 
@@ -450,6 +458,8 @@ More sinister (pardon the pun) is the problem of ideology. The power of ideas in
 
 Finally, in our society, science itself has become an institution and a bureaucracy, meaning it’s subject to the same pathologies of bureaucracy that we’ve already discussed. Consider the impact of quantification; the more papers an academic publishes, the better an academic they are, so publish or perish. They stop writing books, they take too long. Every insight has to be pithy enough to make sense in an article. Now there’s so many articles flying around that no-one can read all of them or try to replicate them, so why even bother trying to conduct meaningful research? Why not just fabricate data, p-hack or plagiarise?
 
+![](https://acximages.ennals.org/images/2024-book-reviews/b03574d2427df5f5.png)
+
 Something funny is starting to happen here: the replication crisis is a bit like how the narcissist can’t tell interior from exterior content. Academia, as the social organ that deals with knowledge, can't tell the difference between the data it's gathering from reality and the dross that the institution creates from the irrationality of its own organisation.
 
 Could the social sciences ever approach the natural in terms of the rigour of their methodology and organisation? I don’t have the expertise to prove conclusively that they never could, but at the present moment it suffices to say that they do not.
@@ -473,6 +483,8 @@ Folly is the cloak of knavery
 Jargon begins within a profession as a precise technical language, morphs into a marker of identification among careerists, and finally into a system of direct obfuscation, that is to say, ideology.
 
 Economists love to do this. Consider the masterpiece of jargon that is Quantitative Easing. Quantitative, meaning to do with quantity, and easing, meaning to let off pressure. They’re letting off pressure through quantity. Of course, this is the opposite of what it is: the point is to increase pressure, to inflate. A cynic would say that quantitative easing is when the government prints money and gives it to banks. An economist would rightly step in here and explain that they’re not printing money, they're adding it to the balance sheet of the central bank. They’re not giving it to banks, they're increasing the liquidity of financial markets. In other words, they’re printing money and giving it to banks (and the government). There is a genuine difference, in that the government debt on the Fed balance sheet has to be paid off, in principle.
+
+![](https://acximages.ennals.org/images/2024-book-reviews/43be776fbcb55150.png)
 
 Yeah, let me know when that happens.
 
@@ -676,6 +688,8 @@ Perhaps you find this unconvincing, that you’ll never be able to acquire gf, K
 
 24.
 
+![](https://acximages.ennals.org/images/2024-book-reviews/a9a4376074094724.png)
+
 The nakedness of woman is the work of god.
 
 We’re over twenty thousand words in and I haven’t even mentioned porn yet, isn’t that what the whole book is about? What is its significance? What’s all this stuff about not having desires? I have to say, I think it’s something of a rhetorical trick, the kind of thing Zizek is prone to, you say something that sounds counterintuitive to reveal a more banal truth.
@@ -706,7 +720,7 @@ The terrible crime, the worst crime for Dante is far from lust, but the opposite
 
 25.
 
-“Perhaps you will be willing to show me my eternal lot, and we will contemplate together upon it, and see whether your lot or mine is most desirable.”
+ “Perhaps you will be willing to show me my eternal lot, and we will contemplate together upon it, and see whether your lot or mine is most desirable.”
 
 Maybe you think it's strange to talk in terms of Hell, it doesn't seem very rational. Hell exists upon the Earth I can assure you; it's the crawlspace of the world.
 
@@ -796,6 +810,8 @@ See, they’re complaining that the Left was trying to force them to change thei
 
 Now everyone gets what they want, each side can get as much validation of their identity as they need just by looking at what the enemy says. The Blackshirts don’t need to march on Rome, they can just sit on their forums and post soyjaks and cartoons of them drinking liberal tears. They’re locked in mutual obsessive, almost erotic embrace. And that’s not so strange: it’s well known that sex looks a lot like fighting. These types of people think about their enemies with a passionate intensity that lovers can rarely amount to.
 
+![](https://acximages.ennals.org/images/2024-book-reviews/26a15edb74090c6b.png)
+
 People believe that if their enemies seized power they would do monstrous and terrible things, and they know this because if they seized power they would also do monstrous and terrible things. They believe they’d be justified in doing these monstrous and terrible things because their enemies want to do the same. Of course, their enemies also think themselves justified because of what they want to do. Mutual projection, spite paid with spite, all the way down to hell. As far as I’m concerned, this explains about 95% of the content on the internet.
 
 Perhaps you’re concerned I’m arguing that there’s no difference between Left and Right. No, the values really are different. The problem is that there are so many people on either side who aren’t capable of having values at all. This is why worrying about “wokeness”, or even “fascism” as such is wrongheaded. As I say it plays into their identity, but more importantly there are many varieties of madness out there, arguing about which is the maddest is beside the point.
@@ -844,6 +860,8 @@ My usage of Christianity is not arbitrary, I think there is something unique the
 
 If you can have narcissistic liberalism, and narcissistic Christianity, can you have narcissistic conservatism?
 
+![](https://acximages.ennals.org/images/2024-book-reviews/299c5de1d91a8e2d.png)
+
 The answer to this question will be left as an exercise for the reader.
 
 31.
@@ -855,6 +873,8 @@ There’s an [AI generated video](https://www.reddit.com/r/oddlyterrifying/comme
 It’s all just happy people, drinking in a sort of dreamscape, with the commodity itself floating benevolently around them. The logic is basically associational, [montage theory](https://en.wikipedia.org/wiki/Soviet_montage_theory). Are they happy because they’re drinking? Are they happy because they’re at a sick party, and the beer is along for the ride? Maybe you could be this happy? Anyway, drink Coors Light.
 
 The simple and obvious way to think of adverts is as information transfer. The theory is quite straightforward. You, as a businessman, have a product that is superior to your competitors. You put an advert out there that shows the superior qualities of your product and when people see it, they perform a rational analysis and decide that yours is better, and decide to purchase it.
+
+![](https://acximages.ennals.org/images/2024-book-reviews/798851f18295c9dc.png)
 
 Who could say no to that?
 
@@ -882,6 +902,8 @@ I then asked Ezekiel why he ate dung, and lay so long on his right and left side
 
 The antimeme is like [Daikatana](https://en.wikipedia.org/wiki/Daikatana).
 
+![](https://acximages.ennals.org/images/2024-book-reviews/fd5d94f0bff59848.jpg)
+
 All a game is is a simplified version of reality. The key with a video game is that it was made by somebody else, when you play one, someone has simplified reality for you. They're giving you the feeling of power, but not the reality of power, which no one can give you.
 
 John Romero's problem is that he was honest. This is the only honest advert in the history of the world and people turned away from it in Petrine revulsion at the truth. By stating this fact, it ceased to be true. It liberates you. Because once you know that he's going to make you his bitch, you can consent to it. You can genuinely choose to play the game, and it becomes not a statement of domination, but of love.
@@ -889,6 +911,8 @@ John Romero's problem is that he was honest. This is the only honest advert in t
 He wasn't a developer, he was a messiah. If you don't believe me, just look at his hair. And like all messiahs, he was a failed messiah.
 
 33.
+
+![](https://acximages.ennals.org/images/2024-book-reviews/7894fa1fd87164b1.png)
 
 The selfish smiling fool and the sullen frowning fool shall be both thought wise that they may be a rod.
 
@@ -924,6 +948,8 @@ My background is on the Left, that’s the language that I speak. I know so many
 
 Narcissism allows people to take their servitude and interpret it as freedom. The problem can never be recognized as the system itself; it must always be redirected outward onto something else, some alien force that is ruining this world. The harsher and more intrusive the authority becomes, the greater the anxiety, the more you fear the other that you project as fucking you over. The end point of this line of thought is that the only conclusive solution can be the elimination of this force: the logic of genocide.
 
+![](https://acximages.ennals.org/images/2024-book-reviews/111754ba8b17633d.png)
+
 35.
 
 “I have always found that Angels have the vanity to speak of themselves as the only wise; this they do with a confident insolence sprouting from systematic reasoning.
@@ -951,6 +977,8 @@ The antimeme is like Linux.
 That black terminal screen; people recoil from it like it's the Ark of the Covenant, like they’re looking at the face of god, something too powerful and terrible to contemplate. This intuition is correct.
 
 What the terminal offers you is nothing less than godlike power itself. The machine does nothing but strictly what you command it to do. It is but an instrument of your will, all you have to do is wrestle with it.
+
+![](https://acximages.ennals.org/images/2024-book-reviews/81ae846d557a7552.png)
 
 You, when you open the [man pages](https://en.wikipedia.org/wiki/Man_page)
 
@@ -982,7 +1010,7 @@ So, to tackle this at its roots, all you have to do is:
 
 Simple.
 
-Since this isn’t going to happen, what you get instead is abstinence only sex-ed. Clearly this is a sticking plaster that barely does anything.  Very real destruction has taken place, abstinence only education is an attempt to reproduce the metis of a previous time with the episteme of the current, but in different situations. We can’t have metis now because our situation changes too fast to develop it. In fact, this intervention is even more destructivesince it’s more paternalistic in principle than actual sex education; it withholds knowledge about sexuality where conventional sex-ed at least tries to get kids to practise judgement. Banning contraception would be an even more extreme form of paternalism.
+Since this isn’t going to happen, what you get instead is abstinence only sex-ed. Clearly this is a sticking plaster that barely does anything.  Very real destruction has taken place, abstinence only education is an attempt to reproduce the metis of a previous time with the episteme of the current, but in different situations. We can’t have metis now because our situation changes too fast to develop it. In fact, this intervention is even more destructive since it’s more paternalistic in principle than actual sex education; it withholds knowledge about sexuality where conventional sex-ed at least tries to get kids to practise judgement. Banning contraception would be an even more extreme form of paternalism.
 
 What you also get is culture war. All of these incentives acting on people in a particular way, and they try to counterbalance them through pure force of shame.
 
@@ -1124,6 +1152,8 @@ Nor ever chaste, except you ravish me.
 
 Do you still not get it? Okay, one last time, in my own words:
 
+![](https://acximages.ennals.org/images/2024-book-reviews/992b5954a2e06a4b.png)
+
 42.
 
 These two classes of men are always upon earth, and they should be enemies: whoever tries to reconcile them seeks to destroy existence.
@@ -1160,7 +1190,7 @@ Be careful when you stare into the void, that the void does not stare into you [
 
 Whoa, that's cool man. Let me keep staring into this void for more good lines.
 
-God is dead\-
+God is dead-
 
 I have to stop myself from dropping this one all the time. It is a good one, but no-one gets it.
 
@@ -1192,6 +1222,8 @@ Communism too, the whole history of the Soviet Union is a cracking series of jok
 
 So Liberalism won in the end, that almost certainly was the best outcome of the 20th century. But Liberalism, which valorizes the individual and sovereign reason, what punchline could God have in store for that?
 
+![](https://acximages.ennals.org/images/2024-book-reviews/f8688f889d4d437f.png)
+
 45.
 
 The Giants who formed this world into its sensual existence and now seem to live in it in chains are in truth the causes of its life and the sources of all activity, but the chains are the cunning of weak and tame minds
@@ -1213,6 +1245,8 @@ Adorno, Lasch and Teach all agree with this at some level. Where Lasch and Adorn
 I also think that, and I'd like to think Ed Teach thinks the same; his project makes little sense otherwise, except as a last exercise in intellectual vanity in a doomed world. But for us, we must live in this world, and if it's unthinking “reason” that's fucking us over, then the solution to our problems is going to look like a finely crafted specimen of “madness”.
 
 46.
+
+![](https://acximages.ennals.org/images/2024-book-reviews/29e662b368475d80.png)
 
 ‘I saw no God, nor heard any, in a finite organical perception; but my senses discover’d the infinite in everything, and as I was then persuaded, and remain confirm’d, that the voice of honest indignation is the voice of God, I cared not for consequences, but wrote.’
 
@@ -1241,6 +1275,8 @@ It’s very easy to laugh at them for their ridiculousness, we call them the Uto
 There are obvious problems with this. What if people think the [Phalanstere](https://en.wikipedia.org/wiki/Phalanst%C3%A8re) isn’t all that sick? What if the genius of the Phalanstere is so subtle that most people can't appreciate it? What if there are people that benefit from us not living in Phalansteries? But at an even deeper level, it supposed that all of human history had been leading up to Fourier’s description of the Phalanstere. This is a species of madness.
 
 Madness it may be, but this is also Scott's madness, which is why I'm ragging on him so much: this is the thing that he went looking for and didn't find in Marx. A description of an ideal society, so elaborate and complex and convincing, that anyone who heard it would be compelled to admit that it was superior. If only you have the right piece of knowledge, everything else will bow down before you. The fact that Marx specifically admonished him not to do this passed him by.
+
+![](https://acximages.ennals.org/images/2024-book-reviews/4b6ee15fa60bf1f6.jpg)
 
 But Scott can be forgiven, after all, this is the same mistake generations of socialists have made as well. So what is this great insight from Marxism that I and Ed Teach see that everyone else doesn't, including Scott and most Marxists?
 
@@ -1273,6 +1309,8 @@ But it must also be said: is there some mechanism, some string of words so power
 I mean, just look at what happened to Christianity.
 
 47.
+
+![](https://acximages.ennals.org/images/2024-book-reviews/74215cdef47cfe13.jpg)
 
 When he had so spoken, I beheld the Angel, who stretched out his arms embracing the flame of fire, and he was consumed, and arose as Elijah.
 
@@ -1490,11 +1528,11 @@ Take a look at Isaiah 29:14;
 
 “Therefore once more I will astound these people
 
-with wonder upon wonder;
+    with wonder upon wonder;
 
 the wisdom of the wise will perish,
 
-the intelligence of the intelligent will vanish.”
+    the intelligence of the intelligent will vanish.”
 
 God's answer is in his silence, in how we interpret his silence.
 

@@ -7,7 +7,7 @@ contestName: 2025 Non Book Reviews
 year: 2025
 publishedDate: '2026-02-06T16:55:59.398Z'
 slug: the-men-are-not-alright
-wordCount: 15264
+wordCount: 15266
 readingTimeMinutes: 68
 originalUrl: >-
   https://docs.google.com/document/d/1jYVJFIz5-aMi0LCgsC9AN6BncJDNVGaMU37QmwZ1vzA
@@ -124,7 +124,7 @@ This is the new guidance we’re tossing at young men. It’s the equivalent of 
 
 The obvious result is getting disastrously lost; the only question is which type of lostness will impact a man.
 
-## III.Patterns Within the Pain  
+## III. Patterns Within the Pain  
 
 Over the years, I’ve developed mental categories for the varieties of lostness men are faced with. Each one comes with its own unique troubles that stymie the health of men and the success of their relationships.
 
@@ -206,7 +206,7 @@ He may not know what he is, but he knows what he is not: not happy. Not whole. N
 
 There seems to be an obvious solution to at least the last problem: he can get another girlfriend. He hasn’t had one since college, and that was a few years ago, but he’s certain he can find another one. A girlfriend is guaranteed to offer him love and support. That’s the entire point of having a romantic relationship, after all.
 
-But dating isn’t easy in the Bay Area. The apps are soul-crushing, his jadedness and bitterness growing with each swipe and conversation with a bot. He manages to land a few dates, but they all seem to focus on the same set of questions: what are your passions? What are your friends like? What do you want from your future?
+But dating isn’t easy in the Bay Area. The apps are soul-crushing, his jadedness and bitterness growing with each swipe and conversation with a bot. He manages to land a few dates, but they all seem to focus on the same set of questions: what are your passions? What are your friends like? What do you want from your future?  
 
 It feels like a stomach-churning interview, and the judgemental frowns from the women make it clear he didn’t pass. He starts to dread dates when he lands them, and begins to cancel them last-minute, unable to face the anxiety and rejection they lead to.
 
@@ -394,7 +394,7 @@ The relationship lasts longer this time around, a year, maybe two. Then it implo
 
 Back to the carousel of casual dating he goes, still carrying the hope of finding The One, a woman to complete him, to prove to the world that he’s an attractive, successful man.
 
-All the while, a void grows in his chest. Every day, he seems to wake up with less energy and more dread. A friend hints that he’s burning out, and this insinuation panics him, so he runs off to the Amazon todo some ayahuasca about it. But the travel and drugs no longer invigorates him in the same way, and it’s beginning to truly worry him.
+All the while, a void grows in his chest. Every day, he seems to wake up with less energy and more dread. A friend hints that he’s burning out, and this insinuation panics him, so he runs off to the Amazon to do some ayahuasca about it. But the travel and drugs no longer invigorates him in the same way, and it’s beginning to truly worry him.
 
 He refuses to focus on these emotions, though. Emotions make him illogical and weak, and he needs to be strong and decisive. He’ll keep his focus on his company’s success, making sure that he can continue to provide and prove his worth. And in the meantime, he’ll keep searching for his perfect match to reap the rewards of his success and reassure him that he’s truly an excellent provider.
 

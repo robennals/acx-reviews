@@ -7,7 +7,7 @@ contestName: 2022 Book Reviews
 year: 2022
 publishedDate: '2026-02-06T07:22:32.819Z'
 slug: the-ladder-of-causation
-wordCount: 8954
+wordCount: 8973
 readingTimeMinutes: 40
 originalUrl: >-
   https://docs.google.com/document/d/100kMdSVFviZSSBvUyyEQPMNlvLptVQxHFD9i9wGuBWs
@@ -40,6 +40,8 @@ I was probably six or seven years old when I first read the story of Adam and Ev
 Of course the Old Testament, as a good and proper sacred text, already embodies all truths, and in particular proves Pearl right on his theories. (Is Jesus a redundant set of parameters? Or is Jesus an even more compact representation of the Truth?) Anyway, after a biblical tour, Pearl lands us on the Ladder of Causation. The Ladder has three rungs, which correspond to increasing abilities of an intelligent agent in the manipulation of causality.
 
 Rung one is the ability to see, to observe relations and associations between things. Probabilistic reasoning belongs here: I notice that of all the times A happens, in a fraction p of those, B follows A. Then I say that p is the probability of B conditional on A, P(B|A) = p, and, if I see A again, I predict that B will happen with probability p. Every Monday, school finishes one hour earlier than usual, and you have to go home on foot. Sometimes, as soon as your house is in sight, you see a group of men rushing out from the backyard. Thus you estimate
+
+![](https://acximages.ennals.org/images/2022-book-reviews/99e13d188c7a13d2.png)
 
 Rung two is the ability to do. Instead of waiting for A to happen naturally, you force it to be true somehow, and compute again the probability of B given having done A, P(B|Â), where Â (A with a hat) is a shorthand for the proposition “A is true, but not by the usual mechanism left implicit in the initial definition of A, but by some other mechanism I employ to make it surely true in a specific case.” An equivalent notation is P(B|do(A)), which earns it the fancy name “do-operator.” Depending on what was the original process that brought about A, this probability may be different from P(B|A). To investigate the provenance of the odd evasive folks, you decide to come back one hour earlier on Tuesday. Intuitively, this will tell you if the point is the weekday (Monday) or coming back before time. The point being that the point is the cause. You give an excuse to the principal and head home. This time you don’t notice any strangers escaping, but your mother seems very worried about your anticipated exit.
 
@@ -101,15 +103,23 @@ The list goes on. So it wasn’t just a single episode, Pearl has set up an elec
 
 Wait, wait, wait, wait. I understand that spiritual fanboys will get their mystic orgasm out of all this and feel compelled to let the illuminated savior Pearl guide them to The Wisdom, ascending a luminous staircase of equations to the top of the ancient Mountain of Causality, surrounded by an eternal swirl of clouds that only Pearl can pass through wielding the power of the do operator. But this trick doesn’t work on me. In fact the other Jew, Mr. Yudkowsky, had managed to convince me quite thoroughly that it should be possible to implement any reasonably intelligent information processing by applying Bayes’ theorem and nothing else. Heck, probability used in a Bayesian sense is just too generic to fail! For any conceivable propositions A, B, you have the rules 0 ≤ P(A), P(B) ≤ 1, P(AB) = P(A|B)P(B). You decide what the P are. You decide what A and B are. You can add as many variables as you want, compute any probability of any proposition conditioned on anything else where you invent what anything else is. This thing is totally flexible, it is a language that you can use to cast knowledge mathematically. It would be a wild surprise if there is something which can’t be written in the language of Bayes. But Pearl claims so.
 
+![](https://acximages.ennals.org/images/2022-book-reviews/676039e36f1befa2.jpg)
+
 I can’t underline enough how frustrating it is when expert people disagree on basic stuff. Can’t you Jews do a ritual of yours, Jusham Kippurn or what was it, where you do a sort of hat dance and then agree on things? The only light of hope in these situations, for me, is that maybe then even a lowlife like me has the chance to do something useful in life if even the smart guys seem so confused.
 
 To be fair, I should first try to understand Pearl’s viewpoint. So let’s see why you can’t go from rung one (seeing) to rung two (doing) with probabilities alone. Consider the following example. You are developing a new placebo effect, and you want to test its effectiveness with a trial. However, to measure its efficacy, you can’t just administer it to subjects and quantify the degree of healing, because the Quacking community won’t accept the new method unless you can show that the outcome is a result of the placebo and not of the substrate substance you are using to implement it. The problem is represented by this diagram:
+
+![](https://acximages.ennals.org/images/2022-book-reviews/2dad76a4f7632a8d.png)
 
 We are interested in the direct effect of choosing a given placebo effect, which corresponds to the horizontal rightward arrow going from “Placebo” to “Healing.” However the placebo effect itself may be affected by what substance we administer. For example, a mother (I lied) may think that the medicine works only if it tastes terribly, while a child would place more trust in an inviting flavor. At the same time, the substance may have a direct healing effect. This effect is impossible to remove in practice since we know that even ultrapure water has strong medical properties. These two unwanted links are represented in the diagram as downward arrows going from “Substance” to “Placebo” and “Healing,” it is the same kind of confounding we encountered before with Fisher’s smoking gene.
 
 What is the solution to this problem? In a simple case like this you can use the standard adjustment formula. Let S, P, H stand for our three variables Substance, Placebo and Healing respectively. What we want is P(H|do(P)), which is given by
 
+![](https://acximages.ennals.org/images/2022-book-reviews/e509648e2d60caa4.png)
+
 To understand this formula, you have to compare it to the one for standard conditioning, P(H|P):
+
+![](https://acximages.ennals.org/images/2022-book-reviews/2bad5a8bdee9c4bb.png)
 
 Notice that the only difference comes in replacing P(S|P) with P(S), which is equivalent to the assumption that S and P are independent. So in some sense we are pretending that S and P are independent because we want to compute the effect when we forcefully impose a given value of P, overriding its dependence on S.
 
@@ -118,6 +128,8 @@ In principle you can obtain all the probabilities required to apply the formula 
 (In the case at hand there is the additional complication that, although S is observed, the distribution of S in the sample is likely not predictive.)
 
 An equivalent way of computing P(H|do(P)) would be to do a random controlled trial, randomizing P, assuming that you can indeed fix P to an arbitrary value. With an RCT in place, you would have simply
+
+![](https://acximages.ennals.org/images/2022-book-reviews/fc6819a381e8073c.png)
 
 instead of having to follow the indirect route through the adjustment formula. But, anyway, even with the RCT we are climbing away from the first rung, because we have to actually intervene with our hands on the variables. Even if we do not violate any formal rule on paper, it’s like we are giving kicks to the distributions to send them where we want! Definitely not Kolmogorov.
 
@@ -139,19 +151,29 @@ Up to now we have arrived again at rung two. What remains is breaking the last b
 
 To check these contrasting intuitions against the math, let’s define a simple toy model to be able to do the computations explicitly. Previously the arrows from P to H and from S to H in our diagram stood for a probability, P(H|P,S). Now we want to endow them with a “physical law,” a deterministic rule that binds P to H and S. Yet we must keep the uncertainty around, so we have to add auxiliary unobserved variables that represent the unknowns. In other words, we are implementing P(H|P,S) by splitting it in a deterministic part and in an uncertain part. The formula (which I pull out of my hat, it has no particular truthness) is
 
+![](https://acximages.ennals.org/images/2022-book-reviews/83e2cdd5d763ab98.png)
+
 Let’s look at all the pieces of the formula one by one. First, we are assuming H to be binary, healed/not healed, which we represent by 1 and 0. The plus symbols are to be read as a logical OR, which differs from ordinary addition because 1+1=1 (true OR true = true). The new variables U\_something are the unknowns. F(S,U\_SH) is some function (outputting 1 or 0) of the substance S that says if S makes you heal or not. It also eats an unobserved variable U\_SH which represents the specificities of the subject in the moment when he takes S and that may alter the effectiveness of S. Then there’s a term U\_PH·P. Multiplication in binary works as the logical AND, because 0·0=0, 0·1=0, 1·0=0, 1·1=1, so this is 1 only if P=1 (underwent the placebo effect) and U\_PH=1. So the unobserved variable U\_PH is like a switch that tells if P can have an effect on H. Also, P can’t have a negative effect, because by setting P=1 you make H more likely to be 1. Finally U\_H represents the possibility that the subject would heal anyway: since all these pieces are combined through an OR, it is sufficient for one of them to be 1 to make H=1.
 
 How does this induce the conditional probability distribution P(H|P,S)? Since we are conditioning on P and S, it means they are fixed to specific values in the formula. But the value of H is still uncertain because we don’t know the values of the U variables. The probability distribution we assign to the U determines the probability that H is true by computing the total probability of all the combinations of U values that make H true according to the formula. So while with the implicit model we use the data to determine the probability distribution P(H|P,S), which implicitly is P(H|P,S,data), with the explicit model we use the data to determine P(U\_H, U\_PH, U\_SH|data), which then gives
+
+![](https://acximages.ennals.org/images/2022-book-reviews/2a74777cec63a97b.png)
 
 This was just to make things clear, now we go back to keeping data implicit and assuming we already applied Bayes’ theorem to determine the probability distributions we are using.
 
 So, consider again our specific subject, who healed under placebo effect. In symbols, this means H=1 and P=1, which we plug into the formula, giving the equation
 
+![](https://acximages.ennals.org/images/2022-book-reviews/2336b643dbe1a385.png)
+
 The term U\_PH·P became just U\_PH because x AND true = x. Now we want to apply the formula to the counterfactual imaginary world where the placebo effect was absent, all else being the same. Let’s define H’ (H prime) as the imaginary H, so we have
+
+![](https://acximages.ennals.org/images/2022-book-reviews/3c50356cb58a7f57.png)
 
 This time the term U\_PH·P disappears altogether because in the counterfactual world P=0. The other terms F(S,U\_SH) and U\_H remain the same. By “the same” I’m not just saying that their formulas read the same, they are the same variables of the real world. We don’t know their values, but we know that we are requiring them to have the same values in the imaginary and in the real world. So while we have the imaginary version H’ of H, we don’t have U\_H’, S’ and U\_SH’.
 
 Now take a look at the last two equations we wrote. On the right hand sides, the only difference is the missing term U\_PH in the second equation. This means that we can plug H’ into the first equation in place of the rest of the right hand side, obtaining
+
+![](https://acximages.ennals.org/images/2022-book-reviews/2ab76179685d96c7.png)
 
 This is nice because this equation is so simple we can now deduce some stuff without doing complicated math. Let’s consider separately the cases U\_PH=0, U\_PH=1.
 
@@ -159,15 +181,21 @@ If U\_PH=0, to yield 1 in the OR we must necessarily have H’=1. So P(H’|¬U\
 
 If U\_PH=1, the equation tells us nothing on H’, because H’ + 1 = 1 in any case. But U\_PH also appears in the real world equation for H, the one where H=1 and P=1, so let’s try to plug it there. It becomes
 
+![](https://acximages.ennals.org/images/2022-book-reviews/71bd7c5d4cb4cf69.png)
+
 This equation is now a tautology, because the right hand side will evaluate to 1 whatever the values of F and U\_H. But the fact of obtaining a tautology is extremely useful! Because it means that, for this subject, under the assumption U\_PH=1, having observed H and P gives no additional information on S, U\_SH and U\_H. Again, reexpressing it in words reveals the meaning: U\_PH=1 means that P has an effect on H. In particular if P=1 then H=1. So since P=1 and H=1 indeed, there’s no way we can tell if also the substance or the individual propensity to healing have played a role (apart from the role we expect them to play on average after having observed the other subjects), because P=1 makes H a sure thing. All this implies that P(H’|U\_PH) is none other than P(H|do(¬P)), the probability we would assign to H if P was forced to be false without knowing that in reality it turned out H=1 and P=1, since in H’ we are ignoring how S changes due to changing P (so the do-operator), and because the “not knowing that in reality” part corresponds to not changing our probabilities for U\_SH and U\_H. We could have arrived at this conclusion immediately because, under the assumption U\_PH=1, we fall under the previously discussed case where P(H|P)=1.
 
 To recap, we have P(H’|¬U\_PH)=1, and P(H’|U\_PH) = P(H|do(¬P)). We want P(H’) in general without an artificial assumption on U\_PH, but we can obtain it by applying the rules of probability:
+
+![](https://acximages.ennals.org/images/2022-book-reviews/9a0213e2f3bad6f2.png)
 
 Note that the last expression is a weighted average of P(H|do(¬P)) and 1, which implies it must be greater than P(H|do(¬P)). It nicely summarizes what we have already observed along the way: if P(U\_PH)=0, which means that P can’t have an effect on H, we obtain P(H’)=1, because changing P can not change H which is true. If P(U\_PH)=1, which means P has a sure-fire effect on H, P(H’) = P(H|do(¬P)), because the fact that the subject healed gives us no further specific information on him. In general what happens is something in between the two extreme cases.
 
 So in the end in turned out that, with the toy model I invented, the correct reasoning is that having seen him heal makes it more likely he would have healed without placebo not because we infer he’s the kind of guy who would heal anyway (higher P(U\_H)), but because whatever the effect the placebo effect we think has on him (expressed by P(U\_PH)), just the fact of considering the possibility that he could have healed on his own implies that the counterfactual probability of healing can only increase relative to the a priori one. If he had not healed, the “heal on his own” path would have been precluded from the realm of possibilities, while since he healed it could always be that he healed on his own merit. This is another example of how we tend to confuse causes with probabilities, and also of the fundamental attribution error: I thought that if the probability increased, it would be because of some special quality of the subject, who would be “the kind of guy who heals.” Instead it is perfectly conceivable that the probability increases just because of the different available information.
 
 In this long discussion, when did we jump to rung three? Consider our final expression for the counterfactual probability P(H’). It contains P(H|do(¬P)), which is a rung two quantity, but also P(U\_PH). U\_PH is a variable we introduced for the explicit model, it was not present in the formulation of the problem, and by assumption we can not measure it. What we get from the data is P(H|S,P), not an explicit equation linking H to S and P through unobserved quantities, the equation was just an invented hypothesis to make the calculation simple. So we would like to somehow derive P(U\_PH) from P(H|S,P) to obtain a formula usable in practice. In the equation for H, consider the second part, U\_PH·P + U\_H. Let’s call this piece Q, so H = F(S,U\_SH) + Q. Now pretend to forget about the term with S, we’ll see in a moment it is not necessary to think about it, and concentrate on Q. Applying the rules of probability, the probability of Q conditional on P is
+
+![](https://acximages.ennals.org/images/2022-book-reviews/02b103792ff9ec8e.png)
 
 Imagine that we have P(Q|P), and we want to obtain P(U\_PH). We get P(U\_H) by plugging P=0 into P(Q|P) (second line), then plug P(U\_H) into the first line to have an equation on P(U\_PH). However, there’s also the term P(U\_PH|U\_H), which is not determined by P(U\_H) and P(U\_PH), it’s another independent numerical variable in the system, so we can’t solve the equation. Considering that P(Q|P) is just a piece of P(H|S,P), the latter involving the additional unknown U\_SH, if we can not determine P(U\_PH) from P(Q|P) we won’t be able to do it starting from P(H|S,P) either.
 
@@ -191,11 +219,19 @@ Because, in fact, it was Bayes all along.
 
 Consider the do-operator. As we initially introduced it, in P(B|do(A)) the expression do(A) is a placeholder for “A is true, but by some artificial action that forces it to be true instead of the one we were assuming before.” All we need to use Bayes here is define this proposition more formally such that we can apply the rules of probability to it like we would do with A. Consider any diagram representing a joint probability distribution where A appears:
 
+![](https://acximages.ennals.org/images/2022-book-reviews/02a52b1c057d124e.png)
+
 Introduce a new variable F\_A, arrow-parent of A, which can have values “true”, “false”, and “na,” standing for do(A), do(¬A) and “don’t use the do-operator” respectively:
+
+![](https://acximages.ennals.org/images/2022-book-reviews/13d38942f054d2f6.png)
 
 Thus F\_A indicates if we are in the context where we are forcing A or not, and if we are, what value we choose. As we said before in the placebo example, in this kind of diagrams (the technical name is DAG, Directed Acyclic Graph, representing a Bayesian Network) the arrows stand for conditional probabilities for each node conditioned on its parents, so we have to say what’s the new probability we intend for A after adding the arrow from F\_A. Let P(A|pa(A)) be the distribution meant for the first diagram without F\_A, where pa(A) stands for all the parents of A. To make F\_A represent the do-operator as defined above, intuitively the new conditional probability must be
 
+![](https://acximages.ennals.org/images/2022-book-reviews/ff212c84fb71eb2d.png)
+
 In words: the same probability as before when F\_A = “na”, otherwise fix A to the truth value indicated by F\_A. Then, for any proposition Q, we define
+
+![](https://acximages.ennals.org/images/2022-book-reviews/39e688d8a8b091a6.png)
 
 Everything just falls into the right place after this simple definition. First, A is independent of its parents whenever F\_A is not “na”, which is equivalent to deleting the arrows from pa(A) to A. Second, it becomes impossible in general to invert the direction of those arrows, which corresponds to the fact that while probabilistic relationships may not distinguish what variable comes before the other, casual relationships do.
 
@@ -241,5 +277,7 @@ On second thought, maybe Pearl stands solidly in the Bailey and shoots with a ri
 I guess that Pearl comes closer to what he really means when he says that “the idea of causes and effects is much more fundamental than the idea of probabilities.” I assume he must be perfectly aware of what is and what isn’t mathematically equivalent under which definition, but he thinks that nevertheless the concept of causality is so fundamental that it should have a place among the axioms instead of being implemented in “mathematical software.”
 
 Under this interpretation, how can we read his opinion on machine intelligence? Is it really stuck on rung one, unable to achieve true understanding until we stop fixating on representing knowledge with probabilities? Since we are now aware of the hidden equivalence between all the rungs, we need to give meaning to “stuck on rung one” in a practical rather than in a theoretical sense. I would say that what machine learning is (mostly) missing is agency: to learn from data alone, starting from a blank slate, what is the probabilistic relationship between the fact of doing something vs. just knowing about it and the thing itself, it is of course necessary to be able to take decisions, carry them out and then make inference on the outcome combined with the reflexive information on having taken a decision. My vague notions of machine learning techniques are not sufficient for me to judge how much things like AlphaGo get close to having this ability, but I guess that they already must be doing something in that direction. It may still be the case that we would need to hardcode causality in some way to scale up intelligence.
+
+![](https://acximages.ennals.org/images/2022-book-reviews/a31fb9539c8abb1c.jpg)
 
 Pearl and Rubin a few years ago. So these guys do the exact same things but somehow they also disagree vehemently. Oh, and there’s also another world-class causality expert, Dawid, who is very happy to explain to you how what he does is mathematically equivalent to Pearl and Rubin’s stuff, but still definitely disagrees with them somehow on a mystical level we mere mortals can’t really comprehend. Maybe it is a paper laundering scheme: small fries in the academic community normally organize into small groups where everyone cites compulsively everyone else to create a self-sustaining aura of credibility. But in a group of well-established professors, where publication and readership are guaranteed, it is actually more convenient to pretend to disagree, such that you can multiplicate the articles first linearly, and then quadratically as you argue with each other.

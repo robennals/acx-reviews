@@ -7,7 +7,7 @@ contestName: 2022 Book Reviews
 year: 2022
 publishedDate: '2026-02-06T07:22:32.818Z'
 slug: fisher-is-evil
-wordCount: 3059
+wordCount: 3064
 readingTimeMinutes: 14
 originalUrl: >-
   https://docs.google.com/document/d/100kMdSVFviZSSBvUyyEQPMNlvLptVQxHFD9i9wGuBWs
@@ -16,7 +16,9 @@ tags:
   - Science
 ---
 
-A young Fisher. ([Source](https://www.google.com/url?q=https://commons.wikimedia.org/wiki/File:Ronald_Fisher_as_a_child.JPG&sa=D&source=editors&ust=1770366145319311&usg=AOvVaw3tLTTQpnS8YAs68JSXuUwY))
+![](https://acximages.ennals.org/images/2022-book-reviews/ae0c0b8ba2589afd.jpg)
+
+A young Fisher. ([Source](https://commons.wikimedia.org/wiki/File:Ronald_Fisher_as_a_child.JPG))
 
 If you have ever read Jaynes’ book on Bayesian statistics, you may remember that R. A. Fisher, one of the fathers of what we now call orthodox statistics, often pops up as the villain of the situation. Jaynes is always dutifully respectful of Fisher’s accomplishments and technical competence, but I will venture to say that, between the lines, he is painting the figure of a shithead. He even underlines how Fisher had no sense of humor at all and would explode in rage at the minimum involuntary provocation, while his Bayesian counterpart—the distinguished Sir Harold Jeffreys [2]—was a very funny and nice old man who chatted amicably with his friends, making fun of Fisher. Also, he indicates that Fisher was an eugenist, although I could not sense if, in the view of the writer, that counted as an obvious negative due to its association with Nazi ideology, or if it was just meant as a statement of fact with no connotation.
 
@@ -46,13 +48,13 @@ Doll and Hill realized that if there were hidden biases in the case-control stud
 
 What was the role of Fisher in this? He was the most famous statistician on Earth. He was a habitual smoker. And he thought that everyone else was dumb and he was always correct.
 
-As the first results showing a connection between smoking and lung cancer appeared, [Fisher stated](https://www.google.com/url?q=https://www.york.ac.uk/depts/maths/histstat/smoking.htm&sa=D&source=editors&ust=1770366145325806&usg=AOvVaw2hW_q4ab7A0e8eSSrQypSh) that the correlation was due to an unknown hereditary factor that caused both smoke craving and increased lung cancer risk. His opinion was probably shaped by his quantitative studies of evolution and his eugenic views; he was used to attribute more importance to genes than other people thought they carried.
+As the first results showing a connection between smoking and lung cancer appeared, [Fisher stated](https://www.york.ac.uk/depts/maths/histstat/smoking.htm) that the correlation was due to an unknown hereditary factor that caused both smoke craving and increased lung cancer risk. His opinion was probably shaped by his quantitative studies of evolution and his eugenic views; he was used to attribute more importance to genes than other people thought they carried.
 
-Due to previous historical developments (discussed elsewhere in the book) orthodox statisticians had never introduced a clear concept of causation, concentrating only on correlations. Thus, when Fisher insisted on his hypothesis, no one had a statistical tool ready to throw at the data to prove him wrong. Even when the data showed that the connection was so strong that it provably could not be only due to an unobserved confounder, he stuck stubbornly with his idea. [The argument](https://www.google.com/url?q=https://academic.oup.com/ije/article/38/5/1175/666926?login%3Dfalse&sa=D&source=editors&ust=1770366145326762&usg=AOvVaw0fm7Tk9oBIzfiYSqQOAvKe) that sealed the presence of a causal connection goes as follows:
+Due to previous historical developments (discussed elsewhere in the book) orthodox statisticians had never introduced a clear concept of causation, concentrating only on correlations. Thus, when Fisher insisted on his hypothesis, no one had a statistical tool ready to throw at the data to prove him wrong. Even when the data showed that the connection was so strong that it provably could not be only due to an unobserved confounder, he stuck stubbornly with his idea. [The argument](https://academic.oup.com/ije/article/38/5/1175/666926?login=false) that sealed the presence of a causal connection goes as follows:
 
 Cornfield took direct aim at Fisher’s constitutional hypothesis, and he did so on Fisher’s own turf: mathematics. Suppose, he argued, that there is a confounding factor, such as a smoking gene, that completely accounts for the cancer risk of smokers. If smokers have nine times the risk of developing lung cancer, the confounding factor needs to be at least nine times more common in smokers to explain the difference in risk. Think of what this means. If 11 percent of nonsmokers have the “smoking gene,” then 99 percent of the smokers would have to have it. And if even 12 percent of nonsmokers happen to have the cancer gene, then it becomes mathematically impossible for the cancer gene to account fully for the association between smoking and cancer. To biologists, this argument, called Cornfield’s inequality, reduced Fisher’s constitutional hypothesis to smoking ruins. It is inconceivable that a genetic variation could be so tightly linked to something as complex and unpredictable as a person’s choice to smoke.
 
-This was not at all clear to me on first reading, so I made a diagram:
+This was not at all cl![](https://acximages.ennals.org/images/2022-book-reviews/1322abb8d6099db6.png)ear to me on first reading, so I made a diagram:
 
 The two bars represent non-smokers and smokers. I arbitrarily filled two ticks of the non-smokers with cancer (red), and two ticks with the cancer-smoke-gene (black), with one tick of non-smokers having both cancer and the gene.
 
@@ -62,7 +64,11 @@ This shows that the fraction of smokers who have the gene must be at least nine
 
 I’m no biologist, so I did not understand why there could not be less than 11 % non-smokers with the gene. I asked a biology student, he said “Muh I don’t know.” I asked a statistics student, she said “Uh well you just get used to a certain magnitude of genetic effects after seeing many of them and this seems too strong.” To this I objected: but there exists also genetic (or innate anyway) stuff that has a strong effect on everything, right? For example, if you are born with an additional X chromosome, you are more at risk of doing all sorts of weird stuff like throwing away clothes because they have holes, hanging up little icons of Jesus, spreading dangerous chemicals on domestic surfaces, etc. Or if you are born intelligent, you will fare better than other people at school without breaking a sweat and also have fun while doing it and get a higher salary without moral compromises and physical labor. In fact, X-X humans do smoke less and live longer and are better at school than X-Ys. The same goes for intelligent people. So how can an innate factor be excluded here?
 
- 
+![](https://acximages.ennals.org/images/2022-book-reviews/09e14235522715bc.jpg)
+
+![](https://acximages.ennals.org/images/2022-book-reviews/3637c5054813d729.png)
+
+![](https://acximages.ennals.org/images/2022-book-reviews/a0842c89de471789.jpg) 
 
 I think the explanation is “implicit deconfounding.” Gender does have a strong effect on death and smoking. However, it is not a problematic confounder, because it is very easy to know the gender of people [citation needed]. So, even if you don’t mention it, of course if the gender effect was relevant to the matter at hand you would have noticed and adjusted for it. Remember that the final goal of this kind of discussion is prediction: if medical science was so advanced that you could tell beforehand if you are the kind of guy who would stay healthy even in the face of smoking, nobody would care about the average causal effect of smoke on cancer in the population, the thing would stop being statistical (well, let’s say “become less statistical”) and you would ask your doctor if you in particular can smoke or not because, doctor, I really like getting high on marginal cancer risk.
 
@@ -100,4 +106,6 @@ Maybe you could have solved it with expected utility: from your point of view yo
 
 Yes I’m a whig historian so what?? Pearl is, too.
 
-An old Fisher smoking his loyal pipe. In a few years he will die of cancer. [1] ([Source](https://www.google.com/url?q=http://www.economics.soton.ac.uk/staff/aldrich/fisherguide/rafreader.htm&sa=D&source=editors&ust=1770366145341021&usg=AOvVaw3l7M5FrlmLYm26PKqORRHO))
+![](https://acximages.ennals.org/images/2022-book-reviews/d9b3c454e5254362.gif)
+
+An old Fisher smoking his loyal pipe. In a few years he will die of cancer. [1] ([Source](http://www.economics.soton.ac.uk/staff/aldrich/fisherguide/rafreader.htm))

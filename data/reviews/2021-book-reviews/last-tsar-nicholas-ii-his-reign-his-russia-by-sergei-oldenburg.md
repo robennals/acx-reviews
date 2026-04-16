@@ -19,7 +19,7 @@ tags:
 
 Briefly: it is a very comprehensive biography of the last Russian Tsar, Nicholas II. Also, since it is hard, impossible, even, to disentangle his life from the last 20 years of the country he ruled, it is also historical research: hence the title.
 
-Basic information (taken from [here](https://www.google.com/url?q=https://tsarnicholas.org/2019/03/26/last-tsar-nicholas-ii-his-reign-his-russia-by-s-s-oldenburg-1939/&sa=D&source=editors&ust=1770366086541883&usg=AOvVaw3OUPD2uzOfNjvseC9R9jT1)):
+Basic information (taken from [here](https://tsarnicholas.org/2019/03/26/last-tsar-nicholas-ii-his-reign-his-russia-by-s-s-oldenburg-1939/)):
 
 The English language edition was published in 1975 by Academic International Press in Gulf Breeze, Florida. Of particular note is the 18-page introduction Searching for the Last Tsar by Associate Professor of History Patrick J. Rollins (now deceased) of Old Dominion University (est. 1930), a public research university in Norfolk, Virginia. As Rollins notes in the study’s preface:
 
@@ -35,7 +35,7 @@ Oldenburg’s fundamental historical research on the life and reign of Emperor N
 
 First, yes, Oldenburg's research is really thorough and comprehensive. But I would say all the unique official documents and data are not the only things which make the book great: whatever the issue discussed is, he extensively quotes the positions of the whole Russian society about it—from every part of the political spectrum and every group of interest. In a sense, you regularly get a detailed cross-section of the whole vast country. This book is a masterpiece and should be a required read for anyone who wants to understand the period.
 
-Second, indeed, it's interesting to note that despite the quality of research in the book, it isn't really any popular in the West. The most popular edition on Amazon occupies honorable ~5 000 000-th place in the bestsellers ranking. As noted in [this master's thesis](https://www.google.com/url?q=http://digital.auraria.edu/content/AA/00/00/22/45/00001/AA00002245_00001.pdf&sa=D&source=editors&ust=1770366086545570&usg=AOvVaw1BA4Jcy-U8KdJ1IMBwl1Lw):
+Second, indeed, it's interesting to note that despite the quality of research in the book, it isn't really any popular in the West. The most popular edition on Amazon occupies honorable ~5 000 000-th place in the bestsellers ranking. As noted in [this master's thesis](http://digital.auraria.edu/content/AA/00/00/22/45/00001/AA00002245_00001.pdf):
 
 The only work which has discussed with any depth the reign of Nicholas is Sergei Oldenburg's work, The Last Tsar. Originally published in two volumes in Russian in 1939, this work has received little attention by historians.
 

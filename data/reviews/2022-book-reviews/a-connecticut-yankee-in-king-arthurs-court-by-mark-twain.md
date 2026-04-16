@@ -1,5 +1,5 @@
 ---
-title: "A Connecticut Yankee in King Arthur’s Court\_by Mark Twain"
+title: A Connecticut Yankee in King Arthur’s Court by Mark Twain
 author: Unknown
 reviewAuthor: Anonymous
 contestId: 2022-book-reviews
@@ -7,7 +7,7 @@ contestName: 2022 Book Reviews
 year: 2022
 publishedDate: '2026-02-06T07:24:08.686Z'
 slug: a-connecticut-yankee-in-king-arthurs-court-by-mark-twain
-wordCount: 4450
+wordCount: 4452
 readingTimeMinutes: 20
 originalUrl: >-
   https://docs.google.com/document/d/1pRQbRbEUwSH_jm94PI_ij-88swat7vQ4iNaNp6gd39g
@@ -45,7 +45,7 @@ The tourist hears a remark to the effect of “Nah, I was there when that bullet
 
 The way he tells it, our protagonist, Hank Morgan[[2]](#ftnt2) was suddenly and without explanation transported from the nineteenth century West to sixth century England, and accosted by an armored, mounted knight.
 
-[[My edition was wonderfully illustrated, and then I content-awared it into 16:9 monstrosities with Photoshop.]]
+![](https://acximages.ennals.org/images/2022-book-reviews/2dbb88ac9c249ba2.png)[[My edition was wonderfully illustrated, and then I content-awared it into 16:9 monstrosities with Photoshop.]]
 
 Trying diplomacy doesn’t work, the man barely even understands his words. He’s instantly captured by the knight, and carried to Camelot castle for imprisonment. Arthurian Knights apparently just… do this. Glory is entirely built upon how many random “miscreants” you catch and imprison, even if they did nothing wrong.
 
@@ -59,7 +59,7 @@ From his jail cell, he shouts for a page, Clarence (who will quickly become his 
 
 I paused, and stood over that cowering lad a whole minute in awful silence; then, in a voice deep, measured, charged with doom, I began, and rose by dramatically graded stages to my colossal climax, which I delivered in as sublime and noble a way as ever I did such a thing in my life:  "Go back and tell the king that at that hour I will smother the whole world in the dead blackness of midnight; I will blot out the sun, and he shall never shine again; the fruits of the earth shall rot for lack of light and warmth, and the peoples of the earth shall famish and die, to the last man!”
 
-[[Remember that famous solar eclipse during Arthurian times? Hank does. Lucky.]]
+![](https://acximages.ennals.org/images/2022-book-reviews/fdbca5cd5fd7aafa.png)[[Remember that famous solar eclipse during Arthurian times? Hank does. Lucky.]]
 
 The king buys it. As he’s tied to the stake, with Merlin vowing to have him quickly executed despite the threat, Hank takes advantage of the total solar eclipse. He will bring the sun back if Arthur bows to his demands! He is really lucky, and the king is really stupid.[[3]](#ftnt3)
 
@@ -85,7 +85,7 @@ As Sandy tells it:
 
 Rarely you find a writer using his self-insert to praise his own writing style, even in fanfiction circles! I for one would have to disagree with Mark-boy here, because even the most beautiful prose can get tiring when you overdo it as much as he did during the first part of the book. Really, if he was such a great writer, why did he die anyway? Checkmate, Clemens.
 
-[[The Boss to Sandy: “Great Scott, can’t you understand a little thing like that?”]]
+![](https://acximages.ennals.org/images/2022-book-reviews/ef13c20b278bbb78.png)[[The Boss to Sandy: “Great Scott, can’t you understand a little thing like that?”]]
 
 More seriously, I’d say the fact that the events of Sandy’s stories were repetitive was the real issue there. No fanciful coat of paint can fix a story with no forward movement.
 
@@ -115,7 +115,7 @@ Under that gospel, the citizen who thinks he sees that the commonwealth’s poli
 
 Please, no more. We get it. (Imagine Mark Twain’s Twitter account!)
 
-[[I’ll draw the king as a soyjak!]]
+![](https://acximages.ennals.org/images/2022-book-reviews/d685700227cde29e.jpg)[[I’ll draw the king as a soyjak!]]
 
 At one point, he visits Morgan Le Fay, evil witch extraordinaire, who abuses her power at every possible point—such as having a composer hanged for playing a bad piece of music at her feast. Of course, Morgan is terrified of The Boss, who among his current feats has the invention of dynamite and, of course, the banishment of the Sun itself.
 
@@ -123,7 +123,7 @@ The poor queen was so scared and humbled that she was even afraid to hang the co
 
 It is amusing, but I can’t help but think moments like these stop Yankee from delivering its intended message to the reader. They have trouble coexisting with an arc in which the main character is sold into slavery and vows to reform the social order.
 
-[[The Boss is killing two birds with one stone, spreading the invention of soap and making knights look silly. I’m not joshing here, that’s his stated intention.]]
+![](https://acximages.ennals.org/images/2022-book-reviews/eafb15a48628b43e.png)[[The Boss is killing two birds with one stone, spreading the invention of soap and making knights look silly. I’m not joshing here, that’s his stated intention.]]
 
 Slavery is where the story is going next, in fact. While The Boss has already been modernizing England by introducing toothpaste and top hats in-between helping damsels, that’s not enough for him. King Arthur is intrigued by The Boss’ intention in dressing up as a peasant and experiencing the troubles of a fellow man, and decides to join him.
 
@@ -163,7 +163,7 @@ He manages, somewhat, and we get to the best part of the book. It’s already pr
 
 Hank is filled with admiration, even though the King is kind of an idiot, as he enters the house of a dying woman with smallpox. He helps her see her (unresponsive) family one last time by personally taking their bodies to her, as one final nicety, no matter that the Church banned everyone from interacting and the risk of getting infected.
 
-[[Manhood (non-derogatory).]]
+![](https://acximages.ennals.org/images/2022-book-reviews/f70a64e4510add40.png)[[Manhood (non-derogatory).]]
 
 The King and Hank go through pretty much every bad experience of the poor, but The Boss gets tired, stops their adventures and suddenly decides to show off to some wealthy peasants… for some reason, by buying them a lavish banquet and enumerating how much each item costs.
 
@@ -189,11 +189,13 @@ The climax of this little arc is reached. The Boss is recaptured and set to be h
 
 Luckily, Clarence comes through, with Lancelot and his knights riding bicycles to the city!
 
-[[Remember: this story was written in the nineteenth century.]]
+![](https://acximages.ennals.org/images/2022-book-reviews/255a9034a492e27e.png)[[Remember: this story was written in the nineteenth century.]]
 
 For a second, I really thought the story would end with Arthur being hanged as a slave, the ultimate tragicomic fate for someone who embodied the status quo. It would have at least said something, and been better than the ending we ended up getting. More on that soon.
 
 The boys return to Camelot. It’s time to settle the duel with that knight The Boss offended 300 pages ago.
+
+![](https://acximages.ennals.org/images/2022-book-reviews/132ac45934e02bb6.png)
 
 In a shocking display of power-fantasy isekai self-insert writing, The Boss lassoes the knight to the ground and fucks him up with a revolver—readers will notice this is the source of the bullet hole at the beginning of the story—then kills every single knight that challenges him after that.
 
@@ -215,7 +217,7 @@ In the final part of the book, the Catholic Church poisons Hank’s daughter and
 
 Hank learns this soon after getting back to the country and finding a few dozen hidden conspirators headed by the newly hypercompetent Clarence, waiting for his return. The rest of England has been fully taken over by the Church. Not one of Hank’s lessons or technologies sunk in.
 
-[[Every priest is really fat in Arthur’s time. Maybe they’re also from Connecticut?]]
+![](https://acximages.ennals.org/images/2022-book-reviews/e937d52f3aa9ac4b.jpg)[[Every priest is really fat in Arthur’s time. Maybe they’re also from Connecticut?]]
 
 The Church discovers he’s back. After a tense battle, Hank and Clarence conveniently blow up all their factories as traps for the Church’s soldiers, and officially bury the age of chivalry and knights. However, it’s a bittersweet victory, for they’ve sent the country to the Dark Ages again. To really turn things for the worse, Merlin sneaks in, dressed as a woman, and for once pulls out a spell that actually works—putting Hank to sleep for thirteen centuries.
 
@@ -227,6 +229,8 @@ I cannot stress this enough, this ending ruins the entire story. You can either 
 
 Is this why people never recommend this story anymore, I asked myself when I reached the last page and saw that yes, this was the ultimate conclusion to all of Hank’s adventures—his entire family dead, the Church taking over, all his progress erased. At least the brunt of the story was really funny,[[6]](#ftnt6) so it doesn’t feel like a waste of my time, only a waste of potential. And hey, we all learned a little about how the 19th century viewed the 6th!
 
-A Connecticut Yankee in King Arthur’s Court is available at [Project Gutenberg](https://www.google.com/url?q=https://www.gutenberg.org/files/86/86-h/86-h.htm&sa=D&source=editors&ust=1770366232756946&usg=AOvVaw2GlPN4AEK3vG6RbPvsl7kv), in beautifully illustrated form.
+![](https://acximages.ennals.org/images/2022-book-reviews/588285466fa27e98.png)
+
+A Connecticut Yankee in King Arthur’s Court is available at [Project Gutenberg](https://www.gutenberg.org/files/86/86-h/86-h.htm), in beautifully illustrated form.
 
 * * *

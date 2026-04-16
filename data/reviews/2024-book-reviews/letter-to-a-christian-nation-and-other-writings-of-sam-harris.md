@@ -7,7 +7,7 @@ contestName: 2024 Book Reviews
 year: 2024
 publishedDate: '2026-02-06T16:48:20.703Z'
 slug: letter-to-a-christian-nation-and-other-writings-of-sam-harris
-wordCount: 23136
+wordCount: 23156
 readingTimeMinutes: 103
 originalUrl: >-
   https://docs.google.com/document/d/1cp6iw5OEyDjnD_viZo-KL0Zv4jwQnMXtE4yIovfVAco
@@ -23,7 +23,7 @@ Dichotomies, “Most People,” and Subjective Personal Preferences in the Writi
 
 On the February 4, 2024 episode of his podcast Making Sense, Sam Harris’s guest was Rory Stewart, a former British politician and current Professor in the Practice of Grand Strategy at the Yale Jackson School of Global Affairs.[[1]](#ftnt1) Harris summarized their conversation, titled “Hubris & Chaos,” as addressing:
 
-[T]he fraying world order … the wars in Afghanistan and Iraq, the problems with nation building, cultural ignorance, tolerance for corruption, our catastrophic withdrawal from Afghanistan, the role that Islam played in our failures in Afghanistan and Iraq, conspiracy theories, the influence of social media, cults of martyrdom, the war in Ukraine, the age of populism, Trump and the future of NATO, Brexit, the current state of politics, GiveDirectly, and other topics.[[2]](#ftnt2)
+[T]he fraying world order … the wars in Afghanistan and Iraq, the problems with nation building, cultural ignorance, tolerance for corruption, our catastrophic withdrawal from Afghanistan, the role that Islam played in our failures in Afghanistan and Iraq, conspiracy theories, the influence of social media, cults of martyrdom, the war in Ukraine, the age of populism, Trump and the future of NATO, Brexit, the current state of politics, GiveDirectly, and other topics.[[2]](#ftnt2) 
 
 From early in the exchange, it became apparent to me that Stewart was unenthusiastic about discussing the possibility of a link between Islam and terrorism. Because that topic is a longstanding concern of Harris’s, he asked Stewart about his perspective on jihadism for an amount of time that he later described as “about twenty minutes in the context of a nearly ninety-minute conversation.”[[3]](#ftnt3)
 
@@ -41,7 +41,7 @@ Determined to sort out “the truth of Islam”[[10]](#ftnt10) and undeterred b
 
 When Harris originally invited Stewart on his podcast, he described him as:
 
-[A] leading thinker on international affairs and development currently serving as Special Advisor to GiveDirectly, which delivers cash directly to the world’s poorest households. Stewart was a member of the British Parliament for almost a decade, where he served as secretary of state for international development, prisons minister, minister for Africa, development minister for the Middle East and Asia, and minister for the environment.[[12]](#ftnt12)
+[A] leading thinker on international affairs and development currently serving as Special Advisor to GiveDirectly, which delivers cash directly to the world’s poorest households. Stewart was a member of the British Parliament for almost a decade, where he served as secretary of state for international development, prisons minister, minister for Africa, development minister for the Middle East and Asia, and minister for the environment.[[12]](#ftnt12) 
 
 How did a potentially fruitful dialogue between two such interested and interesting people, with presumably broadly overlapping goals for the future of humanity, get so badly derailed from the start?
 
@@ -59,7 +59,7 @@ I admire Harris for a lot of reasons: he is intellectually curious; he has the c
 
 I therefore offer this book review in the respectful, slightly bemused, and lighthearted spirit of Benjamin Franklin’s 1783 description of his fellow American diplomat in France, John Adams: “He means well for his Country, is always an honest Man, often a Wise One, but sometimes and in some things, absolutely out of his Senses.”[[15]](#ftnt15) (I had originally wanted to title the essay “Sam Harris is Out of His Mind,” but was eventually convinced that it would come across not as the clever meditation pun I was intending but instead just as an insult. I mean no insult!)
 
-Following are my attempts to identify what I see as several threads connecting Harris’s positions on the diverse topics of religion, honesty, the self, consciousness, and free will, as described in several of his books (Letter to a Christian Nation,[[16]](#ftnt16)Lying,[[17]](#ftnt17)Waking Up,[[18]](#ftnt18)Free Will,[[19]](#ftnt19) and sections of The Moral Landscape[[20]](#ftnt20)) and discussed on many podcast episodes: a tendency to frame complex issues as dichotomies, to make unrepresentative interpretations of the beliefs of other people, and to present his own subjective personal preferences as objective universal truths.
+Following are my attempts to identify what I see as several threads connecting Harris’s positions on the diverse topics of religion, honesty, the self, consciousness, and free will, as described in several of his books (Letter to a Christian Nation,[[16]](#ftnt16) Lying,[[17]](#ftnt17) Waking Up,[[18]](#ftnt18) Free Will,[[19]](#ftnt19) and sections of The Moral Landscape[[20]](#ftnt20)) and discussed on many podcast episodes: a tendency to frame complex issues as dichotomies, to make unrepresentative interpretations of the beliefs of other people, and to present his own subjective personal preferences as objective universal truths.
 
 My goal in pointing out my own areas of disagreement with Harris’s arguments in these books and conversations is to provide a productive alternative perspective: if Harris wrong—as he has often noted—his conclusions may need to be updated; if, instead, he is being misunderstood by me or by others, his rhetorical approach could be improved by taking these mismatches between intent and perception into account. Engaging with Harris’s ideas in order to write this review has encouraged me to grapple with my own intuitions and their implications; this opportunity, provided by Harris’s thoughtful, clear, and accessible writing, has made all of these books well worth reading.
 
@@ -79,13 +79,21 @@ The other zone is the world beyond immediate experience: the distant past, the u
 
 The following xkcd webcomic[[28]](#ftnt28) illustrates the gap between the two mindsets in the modern world, as well as the absurdity of attempting to combine them for many people:
 
-Before accepting Harris’s conclusion that science and religion must always be in conflict, I think that it is worth considering evidence about what people actually believe. As it turns out, several surveys indicate that his framing of science and religion may be counterproductive. When asked by Gallup[[29]](#ftnt29)about the origin of humans, many people do share Harris’s “one is right and the other is wrong” worldview, though of course in divergent directions: some say that God created humans in their present form, and others say that humans evolved with “God” having had no part. For other respondents, though, religion and science can and do coexist just fine: they believe that humans evolved, with God guiding the process.
+![Wirecutter](https://acximages.ennals.org/images/2024-book-reviews/4e06ef31ba569e75.png)
+
+Before accepting Harris’s conclusion that science and religion must always be in conflict, I think that it is worth considering evidence about what people actually believe. As it turns out, several surveys indicate that his framing of science and religion may be counterproductive. When asked by Gallup[[29]](#ftnt29) about the origin of humans, many people do share Harris’s “one is right and the other is wrong” worldview, though of course in divergent directions: some say that God created humans in their present form, and others say that humans evolved with “God” having had no part. For other respondents, though, religion and science can and do coexist just fine: they believe that humans evolved, with God guiding the process.
+
+![](https://acximages.ennals.org/images/2024-book-reviews/47f0dfbee11c6fb3.png)
 
 Importantly, evidence from a Pew Research Center poll[[30]](#ftnt30) shows that the framing matters. Presenting science and religion as explicitly in conflict leads more people to reject the scientific explanation of human origins, whereas presenting science and religion as at least potentially compatible results in more people accepting the scientific consensus. When given only two choices—either “Humans have evolved over time” or “Humans have existed in their present form since the beginning of time”— 68% of respondents affirmed the truth of evolution, in comparison with 81% in a different sample who did so when they were given a third option to pick from: “Humans have evolved over time due to processes that were guided or allowed by God or a higher power.” The implication of this finding is that insisting science and religion are incompatible may be detrimental to the goal of increased public understanding of science.
+
+![](https://acximages.ennals.org/images/2024-book-reviews/224caecabeb9e137.png)
 
 In another Pew poll,[[31]](#ftnt31) more than two-thirds of respondents said that science does not conflict with their own religious beliefs, despite a majority also reporting that science and religion are often in conflict; the pollsters concluded from these results that “People’s sense that there generally is a conflict between religion and science seems to have less to do with their own religious beliefs than it does with their perceptions of other people’s beliefs.”[[32]](#ftnt32) This finding indicates that claiming an unresolvable conflict between science and religion perpetuates a mistaken view about the amount of real conflict between them in society.
 
 The same poll also revealed that the amount of perceived conflict between science and religion was inversely related to “religious observance”: people who attended religious services the most often were the least likely to say that science and religion are often in conflict. That is, more religiosity was associated with more acceptance of science—again in contrast to Harris’s argument that science and religion are antithetical and will never come to terms.
+
+![](https://acximages.ennals.org/images/2024-book-reviews/7fd45f347b1cdf0f.png) ![](https://acximages.ennals.org/images/2024-book-reviews/cf318ab1d3495693.png)
 
 Finally, a survey from the Religious Understandings of Science Study[[33]](#ftnt33) that compared scientists with the general population reported that similar (though slightly lower) proportions of scientists in the US attended weekly religious services, considered themselves very religious, read religious texts weekly, and prayed several times a day.[[34]](#ftnt34) Diversity of perspective and values among scientists should not be surprising; as the theoretical physicist Lawrence Krauss once noted on Harris’s podcast:
 
@@ -163,7 +171,7 @@ Harris’s imaginary dialogue with a murder at his door illustrates another trad
 
 Harris acknowledges that honesty and harmony may sometimes be at odds, but concludes: “I have learned that I would rather be maladroit, or even rude, than dishonest.”[[50]](#ftnt50) To me, this prioritization—as with religion as discussed above—is another subjective personal preference. Taken to its extreme, a total commitment to avoid dishonesty could even be understood as selfishness: a determination to do only what makes one comfortable, and feel virtuous, while absolving oneself of the responsibility for understanding or respecting what other people in the exchange might want. If one person wants more honesty, and the other wants more harmony, why should the former preference be given priority? Some compromise between competing desires may be necessary in many relationships.
 
-When I have taken the five-factor personality test in the past, I have occasionally come up as low in the dimension of “agreeableness” (the trait that leads people to be perceived as “cooperative, polite, kind, and friendly”[[51]](#ftnt51)). People low in agreeableness may sometimes have a valuable role to play in relationships or in society, given our willingness to voice difficult but important truths that make others uncomfortable. On the other hand, people who are highly agreeable may have more friends and just be more fun to be around than we are. This potential tradeoff between honesty and agreeableness was succinctly articulated in The Big Lebowski by an exasperated Dude: “You’re not wrong, Walter, you’re just an asshole!”[[52]](#ftnt52)
+When I have taken the five-factor personality test in the past, I have occasionally come up as low in the dimension of “agreeableness” (the trait that leads people to be perceived as “cooperative, polite, kind, and friendly”[[51]](#ftnt51)). People low in agreeableness may sometimes have a valuable role to play in relationships or in society, given our willingness to voice difficult but important truths that make others uncomfortable. On the other hand, people who are highly agreeable may have more friends and just be more fun to be around than we are. This potential tradeoff between honesty and agreeableness was succinctly articulated in The Big Lebowski by an exasperated Dude: “You’re not wrong, Walter, you’re just an asshole!”[[52]](#ftnt52) 
 
 I have made enough miscalculations in my own life, while intending to communicate honestly but inadvertently causing pain to others, that I now make more effort to anticipate other people’s reactions, which are often different than I think mine would be. Unfortunately, correctly anticipating others’ desires can be challenging.
 
@@ -400,7 +408,7 @@ As former President of the United States and noted wiseguy Barack H. Obama once 
 
 For me, human anatomy sufficiently explains the experience that Harris is describing:
 
-[[122]](#ftnt122)[[123]](#ftnt123)
+![Definition of optic nerve - NCI Dictionary of Cancer Terms - NCI](https://acximages.ennals.org/images/2024-book-reviews/3d96b8aa602c9608.jpg)[[122]](#ftnt122)![https://my.clevelandclinic.org/-/scassets/images/org/health/articles/21202-nervous-system](https://acximages.ennals.org/images/2024-book-reviews/753ebd9fa76bc2c0.jpg)[[123]](#ftnt123)
 
 The brain is in the head, connected to the eyes by the optic nerves and enclosed within the skull, exactly where Harris describes feeling the seat of his consciousness and sense of self. In addition, the brain is connected to the rest of the body, including the skin, through the other cranial nerves and the spinal cord with its spinal nerves.
 
@@ -531,7 +539,7 @@ There is also another relevant card-based expression that reflects the role of f
 
 And unlike most people, who I believe recognize a range of responsibility reflecting a range of effective free will based on a range of potential control over one’s actions, as discussed above, Harris in his rejection of free will seems to be unwaveringly locating it in the wrong place—too early in the chain of causation. A segment on The Daily Show discussed the implications of this approach:
 
-And now, a legal verdict might have set an important precedent. … That’s right: for the first time ever, parents are going to be liable for their kid’s school shooting, which, honestly makes sense to me. You know, we already blame the parents for a lot less. When a teenager throws a loud party, we blame the parents, or when a kid has a stupid haircut, we blame the parents. We should blame the parents when a kid shoots up a school, and why stop at the parents? The grandparents raised those parents, so throw them in prison too—in fact, go all the way up the family tree, you know, great-grandparents, great-great grandparents. Exhume all the bodies and put them in a special ghost jail.[[154]](#ftnt154)
+And now, a legal verdict might have set an important precedent. … That’s right: for the first time ever, parents are going to be liable for their kid’s school shooting, which, honestly makes sense to me. You know, we already blame the parents for a lot less. When a teenager throws a loud party, we blame the parents, or when a kid has a stupid haircut, we blame the parents. We should blame the parents when a kid shoots up a school, and why stop at the parents? The grandparents raised those parents, so throw them in prison too—in fact, go all the way up the family tree, you know, great-grandparents, great-great grandparents. Exhume all the bodies and put them in a special ghost jail.[[154]](#ftnt154) 
 
 In an unrelated podcast episode about cultures of honor, Harris made a similar point:
 
@@ -684,7 +692,7 @@ These results, like any in social science, may turn out not to replicate perfect
 
 As a guest on Harris’s podcast, the neuroendocrinologist Robert Sapolsky—whom Harris described as “one of the only scientists who has fully accepted the implications of science as we know it on this topic”[[191]](#ftnt191)—acknowledged the challenge inherent in getting other people to share an enlightened rejection of free will:
 
-Throw out the criminal justice system, and all we have to do is protect society from dangerous people by constraining them: blah blah blah, simple. Throw out meritocracies in [their] conventional sense, and the problem is, you still gotta motivate people to work really really really really hard—and not go out and party with their roommate, and study instead—in order to become a competent neurosurgeon somewhere down the line. I don’t know the solution for that one. Because you gotta use reward pretty powerfully as an instrumental tool there, that it’s gonna take a lot of work to—instead of somebody coming out the other end saying, “Whoa, I worked incredibly hard there,” somebody to come out and say, “I am so grateful that I happened to turn out to be the sort of person with these abilities.” That one’s been challenging me; that one I think is a harder problem: it’s easier to constrain people without moralizing at them, than to motivate people without doing a different version of moralizing.[[192]](#ftnt192)
+Throw out the criminal justice system, and all we have to do is protect society from dangerous people by constraining them: blah blah blah, simple. Throw out meritocracies in [their] conventional sense, and the problem is, you still gotta motivate people to work really really really really hard—and not go out and party with their roommate, and study instead—in order to become a competent neurosurgeon somewhere down the line. I don’t know the solution for that one. Because you gotta use reward pretty powerfully as an instrumental tool there, that it’s gonna take a lot of work to—instead of somebody coming out the other end saying, “Whoa, I worked incredibly hard there,” somebody to come out and say, “I am so grateful that I happened to turn out to be the sort of person with these abilities.” That one’s been challenging me; that one I think is a harder problem: it’s easier to constrain people without moralizing at them, than to motivate people without doing a different version of moralizing.[[192]](#ftnt192) 
 
 Harris (characteristically, as I see it, mistakenly regarding his subjective personal preferences as normatively universal) did not seem to consider this obstacle to be very difficult to overcome:
 
@@ -735,7 +743,7 @@ Richard Dawkins has called the common impulse to divide continuous variables int
 *   Consciousness:
 
 *   “Consciousness—the sheer fact that this universe is illuminated by sentience—is precisely what unconsciousness is not.”[[211]](#ftnt211)
-*   “Either the lights [of consciousness] are on, or they are not.”[[212]](#ftnt212)
+*   “Either the lights [of consciousness] are on, or they are not.”[[212]](#ftnt212) 
 
 *   Free will:
 

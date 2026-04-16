@@ -7,7 +7,7 @@ contestName: 2024 Book Reviews
 year: 2024
 publishedDate: '2026-02-06T16:47:15.598Z'
 slug: cats-cradle-by-kurt-vonnegut
-wordCount: 4172
+wordCount: 4179
 readingTimeMinutes: 19
 originalUrl: >-
   https://docs.google.com/document/d/1AXmWgSbh_TFsoZuApSCSEoz57yn93CM5YYhtaO_s4W4
@@ -62,7 +62,7 @@ McCabe unsuccessfully tried to design a functional government while Bokonon inve
 
 When it became evident that no governmental or economic reform was going to make the people much less miserable, the religion became the one real instrument of hope. Truth was the enemy of the people, because the truth was so terrible, so Bokonon made it his business to provide the people with better and better lies.
 
-The parallels to the contemporary world write themselves. [90% of Americans feel that we are in a “mental health crisis](https://www.pewtrusts.org/en/trend/archive/fall-2023/americas-mental-health-crisis)” and [things aren’t much better internationally](https://ourworldindata.org/mental-health). On the [latest ACX survey](https://docs.google.com/forms/d/e/1FAIpQLScHznuYU9nWqDyNvZ8fQySdWHk5rrj2IdEDMgarf3s34bSPrA/closedform), over 30% reported probably having depression and another nearly 30% reported having anxiety. Even as the world grows in prosperity and life expectancy, our mental health is taking a nosedive. Economic and governmental reforms have failed. The world cries out for a better way of thinking. 
+The parallels to the contemporary world write themselves. [90% of Americans feel that we are in a “mental health crisis](https://www.pewtrusts.org/en/trend/archive/fall-2023/americas-mental-health-crisis)” and [things aren’t much better internationally](https://ourworldindata.org/mental-health). On the [latest ACX survey](https://docs.google.com/forms/d/e/1FAIpQLScHznuYU9nWqDyNvZ8fQySdWHk5rrj2IdEDMgarf3s34bSPrA/closedform), over 30% reported probably having depression and another nearly 30% reported having anxiety. Even as the world grows in prosperity and life expectancy, our mental health is taking a nosedive. Economic and governmental reforms have failed. The world cries out for a better way of thinking. ![](https://acximages.ennals.org/images/2024-book-reviews/a542759a30c7b953.png)
 
 Source: [the White House Council of Economic Advisors](https://www.whitehouse.gov/cea/written-materials/2022/05/31/reducing-the-economic-burden-of-unmet-mental-health-needs/)
 
@@ -82,13 +82,17 @@ Ever, ever look good?
 
 Or, in modern parlance:
 
+![](https://acximages.ennals.org/images/2024-book-reviews/965958fb4ea84233.png)
+
 In that spirit, I propose that discussions of Bokononism be banned in ACX comments, the subreddit, the Discord server, and Lesswrong. The real dream is to get the CDC to officially denounce it as “misinformation” and [pressure social media companies to censor it](https://www.npr.org/2024/03/18/1238122337/supreme-court-social-media-disinformation-first-amendment).
 
 ## Isn’t it Ironic?
 
 Though Cat’s Cradle was published in 1963, Bokononism is a religion made for the modern world. And the modern world is in need! Belief in traditional religions has been falling dramatically, but rather than religion fading into the background, a [new secular religion has arisen to take their place](https://twitter.com/tracewoodgrains/status/1718019769872392550), often with devastating effects. The main problem with religions - old and new - is that they are lies but they claim to be true. People fight, kill, and inflict untold suffering out of faith in the truth of their comforting falsehoods. Bokonism, on the other hand, is explicitly false. The title page of the First Book of Bokonon consists of a warning: “Don't be a fool! Close this book at once! It is nothing but foma!” The narrator helpfully adds: “foma, of course, are lies.” It has a built-in defense against ever taking it too seriously.
 
-Bokononism is perfect for the online world because the internet runs on irony and Bokononism has irony at its core. LARPing a belief system that you know is fake so hard that you forget it’s fake but still maintain plausible deniability is a pretty good description of most internet subcultures I know of. Bokononism fits in perfectly with the terminally online.[[40]](#ftnt40)
+Bokononism is perfect for the online world because the internet runs on irony and Bokononism has irony at its core. LARPing a belief system that you know is fake so hard that you forget it’s fake but still maintain plausible deniability is a pretty good description of most internet subcultures I know of. Bokononism fits in perfectly with the terminally online.[[40]](#ftnt40) 
+
+![](https://acximages.ennals.org/images/2024-book-reviews/de081b7b4ab106fa.png)
 
 Behold! The internet!
 
@@ -120,7 +124,11 @@ Seems a little academic to me for a subculture largely existing on Twitter. My e
 
 For instance, here is a quintessential postrationalist declaring that he only believes in true things, except of course for fairies and elves:
 
+![](https://acximages.ennals.org/images/2024-book-reviews/ea750835046d24a9.png)
+
 When I was first on the scene, it was baffling to me that someone would declare a belief in something but at the same time acknowledge its falsehood, but I understand it now as part of an intentionally chosen ironic stance toward the world. It’s not a delusion so much as it’s a person choosing to live by the foma that makes him the person he wants to be. It sounds foolish to me but I have that in common with Bokonon, who “always said he would never take his own advice, because he knew it was worthless.”
+
+![](https://acximages.ennals.org/images/2024-book-reviews/9ea3a7497f3f3ab6.png)
 
 That’s not to say that the Books of Bokonon contain no wisdom. To the contrary, they contain many profound truths. For instance, the title of the Fourteenth Book of Bokonon is “What Can a Thoughtful Man Hope for Mankind on Earth, Given the Experience of the Past Million Years?” There is only one verse, and it consists of a single word: “Nothing.” What religion or philosophy has more wisdom to offer than this?
 
@@ -135,6 +143,8 @@ Is that not, as The Kids would say, a banger tweet? It’s even under 280 charac
 Bokononists believe that humanity is divided into teams to unknowingly do God’s will. Each team is called a karass. Bokonon says “If you find your life tangled up with somebody else's life for no very logical reasons that person may be a member of your karass.” In particular, Bokonon advises his followers not to resist when it feels like they are being called somewhere. “Peculiar travel suggestions are dancing lessons from god.”
 
 If a karass is a wheel, the hub is the wampeter. A wampeter is the Macguffin of your karass. It can be anything so long as the members of the karass form a “spiritual orbit” around it. Wampeters are temporary. At any given time, a karass will have two wampeters, one growing in importance and one falling. A wampeter is different from a kan-kan, which is what draws you in to your karass. Our narrator suspects that the book he is writing is his kan-kan and his wampeter is the cataclysmic substance ice-nine.
+
+![](https://acximages.ennals.org/images/2024-book-reviews/9ca0c5074b8c98b6.png)
 
 We may be able to identify certain members of our karass or one of our wampeters at any given time, though we will inevitably fail to see the extent of them. Bokonon admonishes that “anyone who thinks he sees what God is Doing” is a fool.[[41]](#ftnt41) When Bokononists think of how complicated and unpredictable everything is, rather than attempt to understand, they simply whisper “busy busy busy.”
 
@@ -188,7 +198,7 @@ Just remove the skin of a toy balloon.
 
 That mental health crisis we were discussing earlier? Many believe it is due to the atomization of modern society. The Surgeon General has declared a “[loneliness epidemic](https://www.hhs.gov/surgeongeneral/priorities/connection/index.html?utm_source=osg_social&utm_medium=osg_social&utm_campaign=osg_sg_gov_vm).” People are more disconnected from each other than ever and our old granfalloons aren’t working to keep us together. People crave new ways of connecting and forming communities. Most of the people I know of who are successful at creating communities are doing so by coalescing around a wampeter. To take it back to the postrats, the most successful community-building exercise I’ve seen in years is [Vibecamp](https://vibe.camp/), an example of a kan-kan if I’ve ever seen one. Many reading this likely have a spiritual orbit about the Astral Codex Ten blog or LessWrong. The OG rats are creating their own kan-kan with [LessOnline](https://less.online/). What is the point of any of this if not to draw together one’s karass? Do you feel compelled to attend the next one? Then perhaps these are your dancing lessons from God.
 
-A savvy reader might object here. Isn’t rationalism a classic granfalloon? It is, of course, if you see your fellow rationalists as your karass. But the point of these gatherings is not to engage in a feeling of connection over a shared identity. Rather, the point is to make yourself visible so the members of your karass can gravitate toward each other. The actual groups that form tend to be rather small and brought together by shared purpose. Often, these events lead to the birth of several [new](https://vibe.camp/events/) [wampeters](https://vibe.camp/events/)which begin to rise in importance.
+A savvy reader might object here. Isn’t rationalism a classic granfalloon? It is, of course, if you see your fellow rationalists as your karass. But the point of these gatherings is not to engage in a feeling of connection over a shared identity. Rather, the point is to make yourself visible so the members of your karass can gravitate toward each other. The actual groups that form tend to be rather small and brought together by shared purpose. Often, these events lead to the birth of several [new](https://vibe.camp/events/) [wampeters](https://vibe.camp/events/) which begin to rise in importance.
 
 ## “Universal Love” said Bokonon
 

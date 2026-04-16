@@ -7,7 +7,7 @@ contestName: 2024 Book Reviews
 year: 2024
 publishedDate: '2026-02-06T16:49:50.817Z'
 slug: the-wheel-of-time
-wordCount: 3623
+wordCount: 3625
 readingTimeMinutes: 17
 originalUrl: >-
   https://docs.google.com/document/d/1Ki5XsE0jkxZtd2XAeyTAJw1ZjLh2Cu-matUYKAhA6-s
@@ -15,6 +15,8 @@ source: gdoc
 tags:
   - Fiction
 ---
+
+![](https://acximages.ennals.org/images/2024-book-reviews/aa6e0fa681fb21ba.png)
 
 AI-generated image of the Flame of Tar Valon and the Dragon’s Fang.[[48]](#ftnt48)
 
@@ -36,6 +38,8 @@ After Robert Jordan’s death Brandon Sanderson completed the final three novels
 ## 1\. Should I read The Wheel of Time?
 
 It’s over four million words long. That’s over five times longer than the entire Bible. This will decide the answer as “no” for most of you, I think. Look at this shelf:
+
+![](https://acximages.ennals.org/images/2024-book-reviews/7d6f5a19fa4f2e00.png)
 
 [Credit to u/yuhayu on reddit](https://www.reddit.com/r/bookshelf/comments/mld4tc/i_finally_got_all_the_wheel_of_time_books/)
 
@@ -59,7 +63,7 @@ SPOILERS START HERE!
 
 The basic conceit of the series is that time is circular and the same events happen over and over again with slight variations. The spinning Wheel of Time weaves the fabric of the ages in a sort of Nietzschean eternal recurrence. The specific events of the series are basically Arthurian legend in an alternative past-future.
 
-The main character, Rand al’Thor, is Arthur. He becomes a king later. He is also the Chosen One, which in this world is known as the Dragon Reborn (c.f. King Arthur Pendragon). He is initiated into his epic journey by a wizard Moiraine (Merlin) and taught swordplay by Lan (-celot). One of his potential love interests is Egwene al’Vere (Guinevere). al’Thor-Arthur later pulls the sword Callandor\-Excalibur[[49]](#ftnt49) from the Stone. He rules in Caemlyn-Camelot for a while, and it all ends in a big Last Battle, Tarmon Gai’don\-Armageddon against the forces of darkness ending the Arthurian age (like Camlann for Arthur).
+The main character, Rand al’Thor, is Arthur. He becomes a king later. He is also the Chosen One, which in this world is known as the Dragon Reborn (c.f. King Arthur Pendragon). He is initiated into his epic journey by a wizard Moiraine (Merlin) and taught swordplay by Lan (-celot). One of his potential love interests is Egwene al’Vere (Guinevere). al’Thor-Arthur later pulls the sword Callandor-Excalibur[[49]](#ftnt49) from the Stone. He rules in Caemlyn-Camelot for a while, and it all ends in a big Last Battle, Tarmon Gai’don-Armageddon against the forces of darkness ending the Arthurian age (like Camlann for Arthur).
 
 The most overt theme of the series is the Yin-Yang duality of things (the symbol  is a frequently used image throughout the books). Magic is split in two—there’s a male half and a female half, and when the Dark One was sealed away thousands of years ago the male half was tainted such that all male wizards become violently insane. The Aes Sedai, a college of female magicians, supposedly have a monopoly on the arcane. They bring in any woman they find with sufficient magical talent into their fold and neuter men with magical potential before they explode. Yet the Dragon Reborn himself is a male channeler, and he forms a rival Black Tower of male mages. Ultimately, neither the male nor the female alone is able to resist the Dark One’s forces and the main characters and the institutions behind them learn that men and women must work together as halves of one whole. In the end of the story our hero even comes to the realization that Light and Dark themselves must exist in a balance.
 

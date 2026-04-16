@@ -7,7 +7,7 @@ contestName: 2024 Book Reviews
 year: 2024
 publishedDate: '2026-02-06T16:47:49.306Z'
 slug: gdel-escher-bach-by-douglas-hofstadter
-wordCount: 3982
+wordCount: 3987
 readingTimeMinutes: 18
 originalUrl: >-
   https://docs.google.com/document/d/1QiotH3aGFgNLGqsIHTK_Plm_gem2E4l2C2ctyGJd0jY
@@ -61,11 +61,15 @@ Let’s now look at another example of abstraction: the mind. In the same way we
 
 Below is Hofstadter’s consciousness abstraction pyramid.
 
+![](https://acximages.ennals.org/images/2024-book-reviews/c07a74558c1ba7cd.png)
+
 Image borrowed from [this video](https://www.youtube.com/watch?v=hQsnHkfs3sA&t=458s) which also covers the concepts from IAASL very well.
 
 Starting at the bottom are neurons, the lowest level. (You could go lower to the cellular and atomic level, but starting with neurons is sufficient for the theory). Above neurons are groupings of neurons called symbols, which represent standalone concepts. For example, when you see a dog, a group of neurons fire together, representing “dog”. The symbol for a dog is simply this group of neurons that activate when you see a dog. Groups of symbols make up thoughts, such as “Achilles walked his dog in the rain.” Lastly, at the top, we have “I”, which is a collection of thoughts that combine to form a sense of self – more on this later.
 
 However, not all living things make it to the top of this hierarchy. The further up you go, the “more conscious” you are said to be. While everything is made up of atoms, not everything has neurons, less have symbols and thoughts, and even less have a sense of self. This results in a “consciousness hierarchy”.
+
+![](https://acximages.ennals.org/images/2024-book-reviews/2353f05b7b1f6c8d.png)
 
 Normal adult humans maintain a fully developed sense of self – which Hofstadter claims is the maximum degree of consciousness. But some humans have less than others, infants and the senile are two examples. Below that are dogs – do dogs have a sense of self? If a dog looks at itself in the mirror does it think “that’s me”? Maybe, but in the end we care about relativity. It doesn’t matter, per se, if a dog has a sense of self, but rather that they sit between humans and bees on the hierarchy.
 
@@ -74,6 +78,8 @@ The idea of relativity within the hierarchy is important because it acts as a ra
 Hofstadter’s intention when he introduces us to this concept is that consciousness is not binary, but gradient. Just as a dog's sense of “I” is less developed than a humans, different humans have varying degrees of consciousness too.
 
 Which brings us to “I”.
+
+![](https://acximages.ennals.org/images/2024-book-reviews/7b8fd7b5f07d1e3f.png)
 
 What does it mean for “I” to be at the top of the consciousness hierarchy? Just as understanding a heart's function transcends analyzing cells, grasping the essence of “I” cannot be done through neurological examination. This “I” synthesizes our actions, desires, and beliefs into a unified self-awareness, providing a philosophical foundation for understanding our very existence. Remember that the philosophical level deals with purpose, the purpose of a heart is to pump, whereas the purpose of our thoughts (aka desires, beliefs, etc.) is our sense of self.
 
@@ -109,6 +115,8 @@ What makes this canon different from any other, however, is that when it conclud
 
 Another example of a strange loop is Kurt Gödel's [Incompleteness Theorem](https://en.wikipedia.org/wiki/G%C3%B6del%27s_incompleteness_theorems), which I will now describe in grossly oversimplified terms. In 1931, Gödel embedded the phrase “this statement is false” into a mathematical equation. If the statement is true, then as it says, it's false. But if the statement “this statement is false” is false, then that means it's true. But if it's true, then it says it's false! Etcetera.
 
+![](https://acximages.ennals.org/images/2024-book-reviews/938b93737eb81cf0.png)
+
 The statement itself is called the [Liar Paradox](https://en.wikipedia.org/wiki/Liar_paradox), which has been around for thousands of years. Gödel’s innovation was that by embedding it into a mathematical equation, he was able to prove that formal systems like arithmetic have statements that are true but cannot be proven from within the system itself. This might seem like semantic nonsense, but Gödel’s Incompleteness theorem is considered to be one of the greatest intellectual achievements of the 20th century.
 
 Despite Hofstadter spending more time on Gödel and his theorems than anything else, I actually find it non-essential to understanding the actual thesis of his books (particularly IAASL). That is, you don’t have to fully understand the incompleteness theorem beyond knowing that Gödel discovered a strange loop within the heart of mathematics.
@@ -118,6 +126,8 @@ We have now covered the titular triumvirate that is Gödel, Escher, and Bach. Co
 ### IV.
 
 If the title of Hofstadter’s latter book didn’t give it away, we now get to his primary insight: you are a strange loop. Meaning your sense of self, the abstraction process through which you identify as “you”, and the interactions you have with the world, are the result of a strange loop occurring in your brain.
+
+![](https://acximages.ennals.org/images/2024-book-reviews/ae30910853eacb2d.png)
 
 Image borrowed from [this video](https://www.youtube.com/watch?v=hQsnHkfs3sA&t=458s) which also covers the concepts from IAASL very well.
 

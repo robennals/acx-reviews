@@ -156,7 +156,7 @@ Relatedly, in what reads as a rather misogynistic turn, Freud claims that women 
 
 If we accept that we possess an innate drive towards aggression, then it is necessary to find a way to tame it, if civilization is to continue.
 
-The main method we use to do so, Freud maintains, is to turn the aggression inwards, and direct it against the ego; this is the origin of our conscience, of our moral sentiment. The superego acts as a censor, directing the aggression we want to direct against others (actual, physical violence) against ourselves \- this is the origin of guilt.
+The main method we use to do so, Freud maintains, is to turn the aggression inwards, and direct it against the ego; this is the origin of our conscience, of our moral sentiment. The superego acts as a censor, directing the aggression we want to direct against others (actual, physical violence) against ourselves - this is the origin of guilt.
 
 The super-ego serves to sustain civilization against the violence of the individual:
 

@@ -10,7 +10,7 @@ year: 2024
 publishedDate: '2026-02-06T16:47:49.304Z'
 slug: >-
   food-of-the-gods-the-search-for-the-original-tree-of-knowledge-a-radical-history-of-plants-drugs-and-human-evolution-by-terence-mckenna
-wordCount: 5304
+wordCount: 5317
 readingTimeMinutes: 24
 originalUrl: >-
   https://docs.google.com/document/d/1QiotH3aGFgNLGqsIHTK_Plm_gem2E4l2C2ctyGJd0jY
@@ -22,6 +22,8 @@ tags:
 
 * * *
 
+![](https://acximages.ennals.org/images/2024-book-reviews/f7ecc0e2640cae20.png)
+
 [Amazon](https://www.amazon.com/Food-Gods-Original-Knowledge-Evolution/dp/0553371304/ref=sr_1_1?crid=2VU8B22J2J0VG&dib=eyJ2IjoiMSJ9.j6yKA6YFSvKQcnnarvZ-mBJ4TIuN5zQDGx3IoP_b2kIeBdjpl5bIqV54OmX_Qj5NWRJQfkRlpDOA2QY-m07Rb_iwjWQdx9L-qO0yiwhl7iO07VvX62H-Qo68vAZY3Ubquxmt1slwtOsfToFOjOe-pRAbY4x1CSs9tf_75ssk0Zl8I9EoOAAM--zhk57DFuV9IsphpprtWNveopXbQRdRZvwBQOfJnMMHhBn5vu9qOWg.Qgju3dvPAuK-oquvsBYDoJjvxzATj0V2f2vMTBEFUxM&dib_tag=se&keywords=food+of+the+gods&qid=1714961054&sprefix=food+of+the+gods%2Caps%2C90&sr=8-1), [Goodreads](https://www.goodreads.com/book/show/51660.Food_of_the_Gods).
 
 * * *
@@ -32,9 +34,13 @@ Almost everyone I ask about it knows the gist: human consciousness came from anc
 
 Unlike Darwin’s theory though, the Stoned Ape Theory is based on speculative leaps and shaky science, spreading mostly through its catchiness. It’s in the opening animation of [official Joe Rogan YouTube clips](https://www.youtube.com/watch?v=HqLcdUo_RIQ). It’s made popular by entertainers (watch: [Bill Hicks in 1993](https://www.youtube.com/watch?v=hreGAxAjt1c)). It’s the subject of [Comedy Central shorts](https://www.youtube.com/watch?v=VxKrskPyBuI&t=1s). It’s animated in [Netflix documentaries](https://youtu.be/o3mVaEcfwLs?si=lOt4KxhpEDPie5C5). Now, this evolutionary hunch occupies a small sliver in many of our heads, whether we believe it not.
 
+![](https://acximages.ennals.org/images/2024-book-reviews/d966ab1d14d0a285.png)
+
 From the Comedy Central animated short, [Stoned Ape Theory](https://www.youtube.com/watch?v=VxKrskPyBuI&t=1s).
 
 Despite how popular the theory is, most don’t know where it comes from. This memetic virus spreads without pointing to its source: [Food of the Gods](https://www.amazon.com/Food-Gods-Original-Knowledge-Evolution/dp/0553371304/ref=sr_1_1?crid=2VU8B22J2J0VG&dib=eyJ2IjoiMSJ9.j6yKA6YFSvKQcnnarvZ-mBJ4TIuN5zQDGx3IoP_b2kIeBdjpl5bIqV54OmX_Qj5NWRJQfkRlpDOA2QY-m07Rb_iwjWQdx9L-qO0yiwhl7iO07VvX62H-Qo68vAZY3Ubquxmt1slwtOsfToFOjOe-pRAbY4x1CSs9tf_75ssk0Zl8I9EoOAAM--zhk57DFuV9IsphpprtWNveopXbQRdRZvwBQOfJnMMHhBn5vu9qOWg.Qgju3dvPAuK-oquvsBYDoJjvxzATj0V2f2vMTBEFUxM&dib_tag=se&keywords=food+of+the+gods&qid=1714961054&sprefix=food+of+the+gods%2Caps%2C90&sr=8-1), a 1992 book by Terence McKenna—who happens to be one of my favorite thinkers.
+
+![](https://acximages.ennals.org/images/2024-book-reviews/46d8e6e51825b56b.png)
 
 [Terence McKenna](https://en.m.wikipedia.org/wiki/File:Hanna_jon_1999_mckenna_terence.jpg) at a panel discussion in Hawaii, 1999.
 
@@ -68,9 +74,13 @@ PART 1:
 
 Terence McKenna’s hypothesis is a response to one of the biggest mysteries in human evolution: how did the brain size of the Homo genus double in only 2 million years?
 
+![](https://acximages.ennals.org/images/2024-book-reviews/4df91d6968dcda98.jpg)
+
 Original graphic.
 
 For context, he states that “evolution in high animals … operate[s] in time spans of … tens of millions of years” (p.20). From 4-7 million years ago, the brain only grew around 7%. Then, from 2-4 million years ago, it jumped to 32%. Since Homo habilis emerged, our average brain size has grown 124%. Why the “sudden and mysterious expansion?” (p.22)
+
+![](https://acximages.ennals.org/images/2024-book-reviews/eceaa56b2a004825.jpg)
 
 Original graphic.
 
@@ -82,6 +92,8 @@ Between 2-8 million years ago, there were several periods of glaciation across t
 
 Every theory on how the human brain evolved is some kind of adaptation to the grassland. We relied more and more on bipedalism to navigate an open plain, which freed our hands to carry food, build tools, throw spears, and upgrade our thumbs. These tools—paired with social coordination—let small packs hunt bigger and bigger mammals, which required the invention of fire to eat meat, which led to more calorie-dense and nutrient-rich food.
 
+![](https://acximages.ennals.org/images/2024-book-reviews/fe861d962e7a45ba.png)
+
 From [Science Photo Gallery](https://sciencephotogallery.com/featured/homo-habilis-hunting-artwork-science-photo-library.html).
 
 According to McKenna, there’s another big factor in the grasslands that no one has accounted for:
@@ -92,11 +104,15 @@ McKenna points to a blindspot in evolutionary theory: among all the other forces
 
 According to Terence, “ human emergence … is a you-are-what-you-eat story,” (p.16) and it isn’t just meat. After a species moves into a new environment, their diet is in question and they’re desperate to experiment. “The strategy of the early hominid omnivores was to eat everything that seemed foodlike and to vomit whatever was unpalatable” (p.17).
 
+![](https://acximages.ennals.org/images/2024-book-reviews/d72500000db43152.png)
+
 From the Wikipedia entry for [Coprophilous fungi](https://en.wikipedia.org/wiki/Coprophilous_fungi) (a mushroom that grows in dung).
 
 Psilocybin cubensis is a species of mushroom that grows in the dung of not just cattle or bovines, but all herbivores. A new [2024 study](https://nhmu.utah.edu/articles/2024/01/psychoactive-psilocybins-evolution-magic-mushrooms) dates Psilocybe back to 60-65 million years ago (around the time when the dinosaur-ending asteroid hit). They are pre-hominid. The wind spreads spores over fields, dropping them in hot, damp, nutrient-filled cow dung, the perfect microclimate for fungus growth.
 
 It’s entirely possible that Homo habilis had psychedelic experiences, but how readily available were mushrooms in Africa 2 millions years ago? If mushrooms were the catalyst of the brain boom, then they must have been everywhere, right? Unfortunately we don’t have direct evidence of this, and McKenna doesn’t estimate volume, but we can at least anchor our speculations in the gross volume of cowshit.
+
+![](https://acximages.ennals.org/images/2024-book-reviews/e9ec3beb0eb6569b.jpg)
 
 Ancient African herbivores, images from [Prehistoric Fauna](https://prehistoric-fauna.com/).
 
@@ -107,6 +123,8 @@ According to a study by Navarette (2016), there were 18,500 members of Homo habi
 McKenna was the first to propose a human/cattle/mushroom symbiosis as an answer to the mysterious surge in brain size. Since the 1960s, others have speculated on the role of psychedelics in human evolution—apparently, Francis Crick, discoverer of the double-helix DNA spiral, was the first (!?)—but McKenna was an ethnobotanist who could refine the details and pitch the premise.
 
 According to Terence, we “bootstrapped to higher and higher cultural levels” (p.39), and the theme of cattle and mushrooms eventually spilled into Neolithic art and religion (around 10,000 BC). He shows us Sahara Desert cave art that features “shamans with large numbers of grazing cattle … dancing with fists full of mushrooms” (p.70). Then we see Catal Huyuk, “a huge [9th millennia BC] settlement, spreading over 32 acres … accommodating over 7,000 people”; the excavation is revealing “amazing shrines with cattle bas-reliefs and heads of now extinct aurochs” (p.82). This proto-culture eventually shifts into the soma-fueled Vedic religions of India, where cattle are also worshiped.
+
+![](https://acximages.ennals.org/images/2024-book-reviews/22d5c120d138b8b7.png)
 
 On p.83, from “Catal Huyuk: A Neolithic Town in Anatolia” by James Mellaart.
 
@@ -121,6 +139,8 @@ PART 2:
 So let’s assume that proto-humans had access to some quantity of psychedelics for the last 2 million years. Wouldn’t these hominids get high, come down, and be biologically identical? Even if the mushroom promoted neurogenesis, that doesn’t make it inheritable. In fact, the whole idea that LSD “[may alter the chromosomes](https://www.nytimes.com/1967/03/17/archives/genetic-damage-is-linked-to-lsd-researcher-cites-evidence-that-mind.html)” was a media-fueled cultural hysteria in 1967 that had to be debunked. If mushroom experiences don’t pass down to your offspring, then how could they have guided evolution?
 
 McKenna has a 3-point theory on how the hominids who ate mushrooms outbred the others; this framework shows McKenna’s strength as a meme-maker. The section header is titled: “THREE BIG STEPS FOR THE HUMAN RACE.” It’s a triad—a 3-step explanation—forged in a way to be memorable, repeatable, and spreadable. This is exactly what happened.
+
+![](https://acximages.ennals.org/images/2024-book-reviews/1e29a52febb47e68.png)
 
 Here’s a clip of [Joe Rogan reciting the three-part explanation](https://youtu.be/KKQfuWts-0E?si=7MgimmCye0q98HNX&t=172).
 
@@ -204,6 +224,8 @@ Food of the Gods makes more sense when you understand the climate it was writte
 
 Look at 1992 (the year Food of the Gods was published): publications on psychedelics were at an all-time low (since their discovery), and 0 clinical trials were conducted with LSD or psilocybin. It was bleak.
 
+![](https://acximages.ennals.org/images/2024-book-reviews/2d1abaccbf4f0389.png)
+
 From a [2023 report](https://link.springer.com/article/10.1007/s11920-023-01446-4) on psychedelic assisted therapy.
 
 As soon as McKenna introduces the Stoned Ape theory he moves on, and from page 57 on we’re in the territory of his psychedelic manifesto, which I can summarize in 3 points:
@@ -234,6 +256,8 @@ For what it’s worth, I don't think McKenna was lying or intentionally deceptiv
 
 It was only ever about the meme… and it worked. While it’s impossible to know the degree of influence McKenna had on today’s resurgence in psychedelic interest, his theory went viral without any real grounding. Maybe McKenna succeeded in his goal, but passionate activism doesn’t lead to good science.
 
+![](https://acximages.ennals.org/images/2024-book-reviews/666dc1ce15179d7e.png)
+
 Illustrated beer label by [Pedro Correa](https://pedrocorrea.com/the-stoned-ape-theory).
 
 * * *
@@ -249,6 +273,8 @@ Since [2014](https://www.wired.com/2014/10/magic-mushroom-brain/), a new wave of
 For one paragraph, I’d like you to entertain my own anthropological cartoon. It exists within McKenna’s premise, but without the glorification of the mushroom or the user. I call it: The Babbling Idiot & The Tribe.
 
 Imagine a hungry apex hunter stalking a Megalotragus, and in the process he comes across a dung patty that’s filled with a few mushrooms (appetizers). Unknowingly, he consumes a heroic dose of Psilocybin cubensis. An hour later, hunting is out of the question. There is slight nausea, a weirdness, and eventually, the spontaneous creation of mouth noises. As he comes back into contact with the tribe, he’s not just tripping, he’s grunting and riffing in ways they can’t understand. It’s frightening. From a state of synesthesia, the Babbling Idiot is attempting to make abstract connections between his intentions and sounds. You can imagine hundreds of proto-words coming through over the hours, none of them crystallizing into meaning. But in rare cases, perhaps aided by gestures, the tribe groks what he means. Still, in most cases the words are forgotten, but some are coined in such a way that they’re useful and memorable. The babbling idiot was a temporary conduit for the logos, and comes down with little to no memory of the ordeal. Sobered up, he hears a new word moving around the tribe, and asks, “what do you mean?”
+
+![](https://acximages.ennals.org/images/2024-book-reviews/00be3cbd140476db.png)
 
 Generated with GPT-4.
 

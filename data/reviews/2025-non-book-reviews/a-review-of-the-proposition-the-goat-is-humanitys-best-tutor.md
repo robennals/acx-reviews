@@ -28,11 +28,11 @@ The goat is one of those tutors.
 
 The goat, who has voluntarily associated with human groups from earliest times, was easy for humans to find and kill. Images of the Ibex, as prey, are found in ancient cave paintings and in archeological sites as early as 64,000 years ago. As herbivores there is no danger that a hungry goat will kill and eat a human. [4] It does not compete with humans for food. Being smallish in size, an individual person could wrangle and partially train them. [5] They require less work than other livestock who are often picky eaters. [6] Goats also reproduce in captivity thereby insuring food for the future. They are a reliable source of meat. 'Forget the special grass, Kevin, just eat the sheep!'
 
-## LESSON 2: GRASS CAN BECOME MILK.
+## LESSON 2: GRASS CAN BECOME MILK.                                
 
 Humans cannot digest most grasses, seeds and woody plants in an unprocessed form: it makes them sick! As ruminants [7] goats are able to provide regular milk because they process the grasses into milk. Domestication of the goat in the Fertile Crescent dates back 10,000 years, at about the same time as truly domesticated strains of grasses and grain crops emerged [8] The new abundance of grasses at the end of the last Ice Age did not directly result in an increase of food for humanity, but it did feed 'farm stock', who in turn fed people.
 
-Perhaps the second age of humanity could be called the 'Age of Cooking' rather than the 'agricultural age' because the new and most important element in human society became the processing of 'raw' materials rather than simply hunting and gathering. The use of fire for cooking and the availability of milk from ruminants brought the abundance of the warmer climate into the homes of humanity [9]. Thus, the goat helped to save humanity from the cold, sparse, desperate and often dangerous conditions of life during the Ice Ages.
+Perhaps the second age of humanity could be called the 'Age of Cooking' rather than the 'agricultural age' because the new and most important element in human society became the processing of 'raw' materials rather than simply hunting and gathering. The use of fire for cooking and the availability of milk from ruminants brought the abundance of the warmer climate into the homes of humanity [9]. Thus, the goat helped to save humanity from the cold, sparse, desperate and often dangerous conditions of life during the Ice Ages.                                
 
 ## LESSON 3: BE ORGANIZED.
 
@@ -133,7 +133,7 @@ Aristotle's goat continues to be a tutor because it does not stop being relevant
 [19] Mendleson 41  
 [20] Jones Leviticus 1: 10-11
 
-[21] Jones Leviticus 6: 11  
+ [21] Jones Leviticus 6: 11  
 [22] Frankopan page 67  
 [23] Guirand, Felix editor The Larousse Encyclopedia of Mythology (London, Chancellor Press 1996) and Cavendish, Richard editor Legends of the World: A Cyclopedia of the Enduring Myths, Legends, and Sagas of Mankind (New York, Schocken Books 1982)
 

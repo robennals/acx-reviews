@@ -7,7 +7,7 @@ contestName: 2024 Book Reviews
 year: 2024
 publishedDate: '2026-02-06T16:47:49.312Z'
 slug: its-not-the-money-its-the-land
-wordCount: 4556
+wordCount: 4557
 readingTimeMinutes: 21
 originalUrl: >-
   https://docs.google.com/document/d/1QiotH3aGFgNLGqsIHTK_Plm_gem2E4l2C2ctyGJd0jY
@@ -217,7 +217,7 @@ But it’s also clear what the limits of this process are going to be. And it do
 
 [[8]](#ftnt_ref8) Coward ;)
 
-[[9]](#ftnt_ref9)Chomsky 1991b refers to “Linguistics and adjacent fields: a personal view”, a chapter of The Chomskyan Turn. I couldn’t access the original text, so this quote-of-a-quote will have to do.
+[[9]](#ftnt_ref9) Chomsky 1991b refers to “Linguistics and adjacent fields: a personal view”, a chapter of The Chomskyan Turn. I couldn’t access the original text, so this quote-of-a-quote will have to do.
 
 [[10]](#ftnt_ref10) Chomsky’s domination of linguistics is probably due to a combination of factors. First, he is indeed brilliant and prolific. Second, Chomsky’s theories promised to ‘unify’ linguistics and make it more like physics and other ‘serious’ sciences; for messy fields like linguistics, I assume this promise is extremely appealing. Third, he helped create and successfully exploited the [cognitive zeitgeist](https://en.wikipedia.org/wiki/Cognitive_revolution) that for the first time portrayed the mind as something that can be scientifically studied in the same way that atoms and cells can. Moreover, he was one of the first to make interesting connections between our burgeoning understanding of fields like molecular biology and neuroscience on the one hand, and language on the other. Fourth, Chomsky was not afraid to get into [fights](https://en.wikipedia.org/wiki/Linguistics_wars), which can be beneficial if you usually win.
 

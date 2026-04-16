@@ -7,7 +7,7 @@ contestName: 2024 Book Reviews
 year: 2024
 publishedDate: '2026-02-06T16:49:14.009Z'
 slug: the-leopard-by-giuseppe-tomasi-di-lampedusa
-wordCount: 5807
+wordCount: 5808
 readingTimeMinutes: 26
 originalUrl: >-
   https://docs.google.com/document/d/14qa47TJ_Vyerx4XNgTCIh7PUZ_TOgNcU_eHm5So_zo0
@@ -37,7 +37,7 @@ The novel was eventually published by Feltrinelli in 1958, quickly becoming a be
 
 A second translation that does justice to the original (though it was also based on the first Italian version) was released in 1963, in the form of a film directed by Luchino Visconti. The Leopard is thus one of these rare instances in which a very good book inspires a very good movie: one of [Martin Scorsese’s favorites](https://web.archive.org/web/20131226091025/http://www.miramax.com/subscript/scorseses-favorite-films), and certainly one of the best 50 films of all time. Born in a noble family himself, Visconti managed to strike a fine balance between following the script quite closely –though several passages from the book are adroitly merged into a single one, and the last two chapters were cut out– while at the same time respecting the distinctive characteristics of the languages of literature and cinema. For example, the famous [ball scene](https://thecinemaarchives.com/wp-content/uploads/2020/02/the-leopard-ldjasflkjadfkj-visconti.jpg) comprises a tenth of the text but over a quarter of the movie. This is a sensible choice: one of the [best scenes ever filmed](https://www.economist.com/cdn-cgi/image/width=1424,quality=80,format=auto/https://www.1843magazine.com/sites/default/files/styles/il_manual_crop_16_9/public/201606_DE_MAN_002-web-v2.jpg), it manages to convey both the rococo style of the Sicilian nobility and [the Prince’s solitude](https://i0.wp.com/frockflicks.com/wp-content/uploads/2017/01/leopard1963-ball-gowns7-jump.jpg?ssl=1) in a way that the novel better conveys through interior monologue.
 
-The other reason behind the films’ success is its amazing cast: tall, elegant, regal, Burt Lancaster embodies the proud and irascible Prince of Salina in a way that few actors could surpass.[[60]](#ftnt60) Alain Delon and Claudia Cardinale were superb choices for the roles of Tancredi and Angelica, respectively. Thus, you should not watch The Leopardin lieu of reading the book, but you should certainly watch the film nonetheless. Three iconic scenes –Angelica’s entry into the drawing room; the day of the plebiscite; and the ball– are among the finest translations ever of literature into film.
+The other reason behind the films’ success is its amazing cast: tall, elegant, regal, Burt Lancaster embodies the proud and irascible Prince of Salina in a way that few actors could surpass.[[60]](#ftnt60) Alain Delon and Claudia Cardinale were superb choices for the roles of Tancredi and Angelica, respectively. Thus, you should not watch The Leopard in lieu of reading the book, but you should certainly watch the film nonetheless. Three iconic scenes –Angelica’s entry into the drawing room; the day of the plebiscite; and the ball– are among the finest translations ever of literature into film.
 
 ## The Prince of Salina in his labyrinth (warning: some spoilers)
 

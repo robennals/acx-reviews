@@ -61,11 +61,11 @@ I will wrestle with what I saw that day for the remainder of my derelict life. O
 
 This was no Babel. God had endowed these serried faithful with one tongue, one language, one Pentecostal fire.
 
-Pink Pony Club; I’m gonna keep on dancing at the Pink Pony Club…
+        Pink Pony Club; I’m gonna keep on dancing at the Pink Pony Club…
 
 These were Sooners [4] bound for plots in heaven’s hallowed reaches, these elect who held not a shred of malice for the opposing team, for all the sootblacked world in its muling preterition.
 
-Pink Pony Club; I’m gonna keep on dancing down on West Hollywood…
+        Pink Pony Club; I’m gonna keep on dancing down on West Hollywood…
 
 Their team was winning by 30 points in the second quarter and would go on to win by over 50. They danced and dance there still, hoeing down and twirling lassos toward divinities too sublime to be corrupted by our sinners’ vision.
 

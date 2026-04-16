@@ -7,7 +7,7 @@ contestName: 2024 Book Reviews
 year: 2024
 publishedDate: '2026-02-06T16:49:14.008Z'
 slug: the-history-of-the-rise-and-influence-of-the-spirit-of-rationalism-in-europe
-wordCount: 1995
+wordCount: 1996
 readingTimeMinutes: 9
 originalUrl: >-
   https://docs.google.com/document/d/14qa47TJ_Vyerx4XNgTCIh7PUZ_TOgNcU_eHm5So_zo0
@@ -37,11 +37,11 @@ But what about the regional authorities and their “sound logic”? They had as
 
 ## 2\. Enter Lecky
 
-Today, there's a blue plaque at 38 Onslow Gardens, Chelsea, London, which reads “W.E.H. Lecky, 1838 - 1903, Historian and Essayist, lived and died here”. For additional details, we may rely on Elisabeth van Dedem Lecky’s straightforwardly titled [A Memoir of the Right Hon. William Edward Hartpole Lecky By His Wife](https://play.google.com/books/reader?id=jntj7bAZD98C&pg=GBS.PP18&hl=en).
+Today, there's a blue plaque at 38 Onslow Gardens, Chelsea, London, which reads “W.E.H. Lecky, 1838 - 1903, Historian and Essayist, lived and died here”. For additional details, we may rely on Elisabeth van Dedem Lecky’s straightforwardly titled [A Memoir of the Right Hon. William Edward Hartpole Lecky By His Wife](https://play.google.com/books/reader?id=jntj7bAZD98C&pg=GBS.PP18&hl=en). 
 
 Lecky was born in Ireland in 1838 to a distinguished family of scholars and government officials. He entered Trinity College, Dublin, where “in addition to the ordinary university course, he went through that appointed for divinity students…He confesses to have been perhaps culpably indifferent to college ambitions and competitions, and he threw himself with intense eagerness into a long course of private reading, chiefly relating to the formation and history of opinions.”
 
-He graduated in 1859. Having inherited the family’s lands by this time, he was under no obligation to work, and,as he later wrote, “For four or five very happy years after I left college I lived in almost complete solitude and in pure thought.” He traveled all over Europe, holing up in libraries, and reading obscure tomes, e.g., “I have been gathering together a large and rare library of old Latin and French books on witchcraft…I am waiting with great impatience for a treatise on the Devil by Psellus, a Byzantine author of the eleventh century, having got which, I mean to go to a little village in the mountains [the Pyrenees] till I have mastered it.” Already a thinker, but in dread of being considered an idler, Lecky decided to become an author.  
+He graduated in 1859. Having inherited the family’s lands by this time, he was under no obligation to work, and, as he later wrote, “For four or five very happy years after I left college I lived in almost complete solitude and in pure thought.” He traveled all over Europe, holing up in libraries, and reading obscure tomes, e.g., “I have been gathering together a large and rare library of old Latin and French books on witchcraft…I am waiting with great impatience for a treatise on the Devil by Psellus, a Byzantine author of the eleventh century, having got which, I mean to go to a little village in the mountains [the Pyrenees] till I have mastered it.” Already a thinker, but in dread of being considered an idler, Lecky decided to become an author.  
 
 His thoughts began to center “on the laws of the rise and fall of speculative opinions.” Writing a friend in March, 1862, he says, “It is quite impossible to study theology to any good purpose if you do not at the same time study history…I am convinced that scarcely anything throws so much light on theology as a subject which, though I think one of the most curious in the whole scope of literature, is amongst the least attended to - the history of witchcraft.” By November, 1862, he reports, “I am hard at work, and have been for a long time, on an enormous book.”
 

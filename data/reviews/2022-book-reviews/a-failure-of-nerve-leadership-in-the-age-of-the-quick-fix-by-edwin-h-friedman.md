@@ -9,7 +9,7 @@ contestName: 2022 Book Reviews
 year: 2022
 publishedDate: '2026-02-06T07:24:08.686Z'
 slug: a-failure-of-nerve-leadership-in-the-age-of-the-quick-fix-by-edwin-h-friedman
-wordCount: 4936
+wordCount: 4946
 readingTimeMinutes: 22
 originalUrl: >-
   https://docs.google.com/document/d/1pRQbRbEUwSH_jm94PI_ij-88swat7vQ4iNaNp6gd39g
@@ -37,6 +37,8 @@ If you’ve led an institution for any length of time, you’ve probably had mom
 
 Maybe you can remember how your role held such promise at first, but now the joy has evaporated. You can tell you’ve “lost your shine” in the eyes of the energetic crew you’ve been leading; they may even have been replaced with a set of minions who, while appearing identical, are hollow-eyed and slow to carry out their duties. Added to all this, a sea of troubles is looming on the horizon, threatening to capsize the whole enterprise. After an extended period of floundering along hopelessly, maybe, like Ender Wiggin, you just want “out.”
 
+![](https://acximages.ennals.org/images/2022-book-reviews/e9a92469d3747fce.png)
+
 [If they tell you that they don’t know that failure is inevitable–but that you’re the best hope they’ve got–maybe run if you can? Not that they necessarily said that to Ender in so many words!]
 
 2.  Give me the takeaways before I close out this tab and get on with my life!!!
@@ -58,7 +60,9 @@ Now you’ve gotten the “cheapo buffet” introduction, if you’re ready for 
 
 3.  “When the Going Gets Tough… Give your “I Have a Dream” Speech?”
 
-So Ed Friedman presents a vision of the chaos, anxiety, and bottom-up sabotaging in present-day America. Then, he tells the story of how, after he published his book [“Generation to Generation: Family Process in Church and Synagogue”](https://www.google.com/url?q=https://www.amazon.com/Generation-Process-Synagogue-Guilford-Therapy/dp/1609182367/&sa=D&source=editors&ust=1770366232762570&usg=AOvVaw3aZgRvhP7aM5bsMQorEwfb), he received phone calls from leaders across the country asking for help. It was instructive.
+![](https://acximages.ennals.org/images/2022-book-reviews/91b1fa255bb16459.jpg)
+
+So Ed Friedman presents a vision of the chaos, anxiety, and bottom-up sabotaging in present-day America. Then, he tells the story of how, after he published his book [“Generation to Generation: Family Process in Church and Synagogue”](https://www.amazon.com/Generation-Process-Synagogue-Guilford-Therapy/dp/1609182367/), he received phone calls from leaders across the country asking for help. It was instructive.
 
 At first, he was “listening to the details of their experience, trying to learn more about his own theories.” But soon, the content of those conversations prompted him to make an unexpected shift in how he handled them. He recounts that he:
 
@@ -79,6 +83,8 @@ So that’s the people who could see a path to taking that advice. Good. What el
 These leaders needed to be willing to face their own selves. Our society’s traditional models for how to help leaders falls short, only providing one more way to evade doing the tough work needed to usher in true, lasting change.
 
 4.  What kind of leader are we even talking about?
+
+![She may be small, but she's decisive.](https://acximages.ennals.org/images/2022-book-reviews/d56e4fa70d9f0536.jpg)
 
 [She is small, but she is decisive.]
 
@@ -102,7 +108,9 @@ You can only do so much, but some kind of catharsis helps. So some days, I’d c
 
 7.  Vision: An asset beyond price.
 
-Photo by [Quino Al](https://www.google.com/url?q=https://unsplash.com/@quinoal?utm_source%3Dunsplash%26utm_medium%3Dreferral%26utm_content%3DcreditCopyText&sa=D&source=editors&ust=1770366232769096&usg=AOvVaw3W_47a7CxZGCPMeCpTAL6U) on [Unsplash](https://www.google.com/url?q=https://unsplash.com/s/photos/sunrise?utm_source%3Dunsplash%26utm_medium%3Dreferral%26utm_content%3DcreditCopyText&sa=D&source=editors&ust=1770366232769246&usg=AOvVaw00DcyzQrbmMQ3gv00vPIHH)
+![](https://acximages.ennals.org/images/2022-book-reviews/33b268ca83b56777.jpg)
+
+Photo by [Quino Al](https://unsplash.com/@quinoal?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/sunrise?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
 
 8.  Intergenerational shitstorms: a possible ceiling on growth.
 
@@ -193,7 +201,7 @@ Kevin [Surace] thought about it for a minute and said, “I don't know if it has
 
 Sounds like the same core problem Friedman is concerned about, with an extra “side-helping” of an inability to handle ambiguity. Checks out.
 
-Lastly, if Brown’s choice to name the whole book after a turn of phrase [from "The Man in the Arena” from a Teddy Roosevelt speech](https://www.google.com/url?q=https://en.wikipedia.org/wiki/Citizenship_in_a_Republic&sa=D&source=editors&ust=1770366232781989&usg=AOvVaw2vj1IXdBWgWFu0-aA_shPC), and explain that's where it gets its title from, yeah, it sounds like maybe criticism and sabotage from the ones who are led is at least an eensy-weensie bit of a concern in her mind too. In fact, it looks like her ideal version of a leader has a lot in common with those praised in "A Failure of Nerve"! (Oh, in support of this, there's also all the parts where she points out that leadership is messy, calls for every last cell of commitment, and wears you down.)
+Lastly, if Brown’s choice to name the whole book after a turn of phrase [from "The Man in the Arena” from a Teddy Roosevelt speech](https://en.wikipedia.org/wiki/Citizenship_in_a_Republic), and explain that's where it gets its title from, yeah, it sounds like maybe criticism and sabotage from the ones who are led is at least an eensy-weensie bit of a concern in her mind too. In fact, it looks like her ideal version of a leader has a lot in common with those praised in "A Failure of Nerve"! (Oh, in support of this, there's also all the parts where she points out that leadership is messy, calls for every last cell of commitment, and wears you down.)
 
 So I'm saying that the two have got some commonality; there's some overlap. Feel free to read both and grab an eclectic toolkit of what you can pull from each: The space that they're mapping is large. It's easy for one author to be "zoomed" in on one set of details that's never "in focus" for the other. If they appear to contradict each-other in some things, so what? Maybe one is wrong about something! Or both! Scratch that, I can almost guarantee that BOTH are wrong about something. Because human.
 

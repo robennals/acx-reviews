@@ -48,7 +48,7 @@ Virtually all commercial software development nowadays takes place over IDEs (â€
 
 Why is autocompletion important? This is why:
 
-std::[string](https://www.google.com/url?q=https://cplusplus.com/reference/string/string/&sa=D&source=editors&ust=1770366049834146&usg=AOvVaw06vy6wfr4TMx2WgmNxzb4z)::string
+std::[string](https://cplusplus.com/reference/string/string/)::string
 
 default (1)
 

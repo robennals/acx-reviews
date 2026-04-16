@@ -7,7 +7,7 @@ contestName: 2025 Non Book Reviews
 year: 2025
 publishedDate: '2026-02-06T16:52:48.890Z'
 slug: bishops-castle-a-roadside-attraction
-wordCount: 6582
+wordCount: 6585
 readingTimeMinutes: 30
 originalUrl: >-
   https://docs.google.com/document/d/1d0vRSj1E93joWWvbUen2XGuDjN_mM94ybMIAADzM2fo
@@ -19,7 +19,7 @@ tags:
 
 ## Introduction
 
-The Statue of Liberty is thought to be America’s greatest monument to freedom. But there’s more than a shred of irony in having a monument to liberty in the middle of a rocky island, accessible only by one state-sanctioned ferry, only to those with advance reservations. It’s as if liberty herself is bound to a sort of Alcatraz. This monument is a gift from the elites of one nation to the elites of another. This statue of freedom isn’t free in any sense.
+        The Statue of Liberty is thought to be America’s greatest monument to freedom. But there’s more than a shred of irony in having a monument to liberty in the middle of a rocky island, accessible only by one state-sanctioned ferry, only to those with advance reservations. It’s as if liberty herself is bound to a sort of Alcatraz. This monument is a gift from the elites of one nation to the elites of another. This statue of freedom isn’t free in any sense.
 
         It’s a good thing, then, that America has hundreds of true monuments to liberty. They are scattered all across its breadth. They exist in every state, in cities and in unknown expanses, in rich areas and poor areas alike. These are the roadside attractions that fill up empty bands of highway everywhere in the country. There is hardly anything more American than the roadside attraction: hardly any other country has a population affluent enough, territory vast enough, and highway infrastructure robust enough, to sustain a road trip industry. Most importantly, no other country has enough crazies to fill the fields with weird junk.
 
@@ -27,7 +27,7 @@ The Statue of Liberty is thought to be America’s greatest monument to freedom.
 
         In my home state of Colorado, there’s one roadside attraction that stands above the rest in fame. It’s a place of pilgrimage for many residents; an important gem in Colorado’s snow-capped crown of mountain diversions. The creator just passed away last year. Throughout his life, from youth to death, he built the largest one-man castle in the world. This is Bishop’s Castle.
 
-## I: The Highest Point in Custer County
+## I: The Highest Point in Custer County![](https://acximages.ennals.org/images/2025-non-book-reviews/93c3d710871a853c.jpg)
 
 “Freedom. It's a word that gets mentioned a lot when talking about Bishop Castle, an attraction that has already outlasted several previous attempts to explain it.”
 
@@ -39,19 +39,19 @@ The Statue of Liberty is thought to be America’s greatest monument to freedom.
 
          The first impression of the castle reveals its lack of military value. This is an architectural fancy-- its primary purpose is to exist. This is a Neuchwenstein, not a Krak des Chevaliers. The castle’s design looks like something out of a Roald Dahl novel-- twisty metal paths swing around the exterior. A long stone staircase reaches out like a spider’s leg to move visitors to the great hall. Meanwhile, the castle itself seems to peer out at visitors through a shining dragon’s head. In the back, the second-largest tower tops out with an incomplete geodesic dome and a staircase to nowhere.
 
-        The second thing you’ll notice when you look at the castle is its material. There are no gray cut stones to be found here. Every wall is made of irregular orange cobbles from the mountains stuck together. The castle blends into its surroundings because it’s made of them-- its orange hue matches that of the mountains that shelter it.
+        The second thing you’ll notice when you look at the castle is its material. There are no gray cut stones to be found here. Every wall is made of irregular orange cobbles from the mountains stuck together. The castle blends into its surroundings because it’s made of them-- its orange hue matches that of the mountains that shelter it.![](https://acximages.ennals.org/images/2025-non-book-reviews/66df1cf3355c6045.jpg)
 
         Aside from its remoteness, Bishop’s Castle is set apart from other local attractions by its lack of an entry fee. There isn’t even a fence surrounding the structure. The visitor gets the impression that the castle isn’t a commercial enterprise, but rather a part of the landscape, like just another rocky crag. However, a closer approach bursts that fantasy and reveals a few signs of human occupation. The entry gate is flanked by signs:
 
          “ENTER AT YOUR OWN RISK,” one sign reads, “WE ARE NOT RESPONSIBLE FOR YOUR SAFETY! BISHOP CASTLE IS UNDER CONSTRUCTION! WE RESERVE OUR RIGHT TO FREEDOM OF SPEECH AND EXPRESSION! YOU MIGHT EXPERIENCE STRONGLY EXPRESSIVE BEHAVIOR!”
 
-        This is how most people first learn about the forceful personality of the castle builder. More on him later.
+        This is how most people first learn about the forceful personality of the castle builder. More on him later.![](https://acximages.ennals.org/images/2025-non-book-reviews/6ba7246a2ee5f62e.jpg)
 
         Other than the signs, there are very few symbols of regulation in the place. You don’t see the owners. There are no waivers to sign, no liabilities, no handrails, and no guides. You are left alone with the castle and your wits. This is what gives the castle such excitement.
 
         Another big mark of the castle is impressive metalworking, and visitors first see this at the gatehouse. There’s a beautiful (if probably immobile) portcullis with gears, chains, and wheels. The gatehouse itself has a room inside it, accessible via a tiny stone staircase. It looks like a quarter-finished foyer.
 
-         Once you go into the castle itself you can first explore the bottom floor, which is a dungeon-like series of caverns divided by rocky posts that hold up the entire castle. Climbing up one of the spiral staircases will bring you to the great hall, which is the largest room of the castle and its body. This is also well decorated. The floor is surprisingly clean and bright, and the iron works with the rock even better here to deliver a beautiful effect. Everything is bathed in multicolor light from the stained glass that forms the siding of one of the walls of the great hall.
+         Once you go into the castle itself you can first explore the bottom floor, which is a dungeon-like series of caverns divided by rocky posts that hold up the entire castle. Climbing up one of the spiral staircases will bring you to the great hall, which is the largest room of the castle and its body. This is also well decorated. The floor is surprisingly clean and bright, and the iron works with the rock even better here to deliver a beautiful effect. Everything is bathed in multicolor light from the stained glass that forms the siding of one of the walls of the great hall.![](https://acximages.ennals.org/images/2025-non-book-reviews/dd00e02c04f4e595.jpg)
 
         You might also see in the great hall other visitors peeking at you from atop ledges on either side. These are accessible from stairs. The lack of rails on these ledges once again reveals part of the philosophy of the builder, which is heavy on pomp and light on safety.
 
@@ -63,13 +63,14 @@ The Statue of Liberty is thought to be America’s greatest monument to freedom.
 
 --- Jim Bishop, 1989, Denver Post  
 
-In 1959, Jim Bishop, a 15-year-old Colorado nobody and high school dropout, paid $450 for a two-and-a-half acre plot of land adjacent to the Greenhorn Highway and surrounded by San Isabel National Park. This became an annual camping spot for the Bishop family. As he grew up, Bishop began to earn a living by working in the ironworking trade with his father and installing patios. By 1969, he had started using the money he earned to build a cabin, then a water cistern that he surrounded with rocks from the nearby area. These rocks would come to haunt him later.  
+        In 1959, Jim Bishop, a 15-year-old Colorado nobody and high school dropout, paid $450 for a two-and-a-half acre plot of land adjacent to the Greenhorn Highway and surrounded by San Isabel National Park. This became an annual camping spot for the Bishop family. As he grew up, Bishop began to earn a living by working in the ironworking trade with his father and installing patios. By 1969, he had started using the money he earned to build a cabin, then a water cistern that he surrounded with rocks from the nearby area. These rocks would come to haunt him later.  
+![](https://acximages.ennals.org/images/2025-non-book-reviews/1233b62e1aa74a00.png)
 
         As the story goes, the cobblestone cottage and the rocky turret surrounding the cistern resembled a castle, family members, friends, and local ranchers kept asking Bishop if he was building one. He denied it at first, but apparently this question came with such frequency that it planted an idea in his brain. One day, his answer switched to “yes.” He would give the public their castle. He chose not to stop when he finished the cabin. He kept building… and building… and building.
 
          As the rocky roadside edifice grew, it became a local attraction. For eight years, people offered to help with the castle. Bishop got frustrated when no one made good on their offers, though, and this led him to declare his castle a one-man project.
 
-        Bishop had been frustrated as a kid when he wasn’t able to go to attractions and amusement parks because his family couldn’t afford the ticket. To keep the castle accessible, he charged no entrance fee and financed the project on a shoestring budget. He stacked rock over rock, hoisting them each up one after the other with a pully system powered by his truck’s engine. His forging skills helped him decorate and support every stone with wrought iron.
+        Bishop had been frustrated as a kid when he wasn’t able to go to attractions and amusement parks because his family couldn’t afford the ticket. To keep the castle accessible, he charged no entrance fee and financed the project on a shoestring budget. He stacked rock over rock, hoisting them each up one after the other with a pully system powered by his truck’s engine. His forging skills helped him decorate and support every stone with wrought iron.![](https://acximages.ennals.org/images/2025-non-book-reviews/c02c287c7a5a4431.png)
 
         Despite no architectural experience or plans, Bishop’s sheer industry kept the castle growing and stable. When he built a wall that needed to be eight feet thick, Jim made it 16. He hauled every rock, fell every log and milled it into lumber, built scaffolding for every tower, built every arch out of railroad ties. He designed complex pulley systems to hoist lumber for use as floorboards. He burrowed holes dozens of feet into the ground, then filled these with mortar he mixed and carried to the site himself. The castle is anchored deep in mountain bedrock, better rooted than the trees. Stone by stone, he built his dreams.
 
@@ -109,9 +110,9 @@ Guess what the BLM did next.
 
         If the forest service thought it was okay, it’s probably justified. Removing rocks from roadside ditches has a bundle of benefits because it improves the channeling of excess water through the ditches. Furthermore, fewer rocks means more room for plants to grow that slow the water’s flow, preventing rapid streams that erode the ditches and make them more shallow. One downside may be removing shelter for certain animals.
 
-In summary: it’s complicated, but using local rocks was probably okay.
+        In summary: it’s complicated, but using local rocks was probably okay.
 
-Other materials for the castle included cement hauled up from Pueblo or occasionally Cañon City. Over time, the materials used grew more complex and an ever-greater proportion of them came from sympathetic donors.
+        Other materials for the castle included cement hauled up from Pueblo or occasionally Cañon City. Over time, the materials used grew more complex and an ever-greater proportion of them came from sympathetic donors.
 
         In 1974, as tourism grew, so did Bishop’s marketing efforts, leading to a parallel battle with the government. One day the government told Bishop he needed to take his homemade sign down and apply for one in accordance with Ladybird Johnson Highway Beautification Act of 1965. The fact that this rule did not apply de facto to certain wealthy ski resorts irritated Bishop. He had a big ego and was always irritated by unequal rules.
 
@@ -157,27 +158,30 @@ Other materials for the castle included cement hauled up from Pueblo or occasion
 
 “Do you know right now there’s traffic on that interstate, and they're going to Buffallo Bill’s Lookout Mountain Grave, they're going to see things in Denver and Colorado Springs. How many people are here? The three of us! It ain’t any good unless somebody’s here to see it! If somebody ain't gettin’ any enjoyment out of it, then it’s just a pile of rocks!”
 
-         Now that we understand castle history, I’d like to speak a bit more on what the castle is like to visit. I am always dazzled by the bent metal that spikes through nearly every stone. Jim being a metalworker by trade, he excelled in welding and scroll bending. The castle is full of spirals, wheels, twists, and stairs of cold steel. As the visitor climbs upward, they see parts of the castle that were built later when the architect was more skilled, and these decorative metal elements become increasingly structural. The square tower was the first to use steel reinforcements as far down as the foundation.
+         Now that we understand castle history, I’d like to speak a bit more on what the castle is like to visit. I am always dazzled by the bent metal that spikes through nearly every stone. Jim being a metalworker by trade, he excelled in welding and scroll bending. The castle is full of spirals, wheels, twists, and stairs of cold steel. As the visitor climbs upward, they see parts of the castle that were built later when the architect was more skilled, and these decorative metal elements become increasingly structural. The square tower was the first to use steel reinforcements as far down as the foundation.![](https://acximages.ennals.org/images/2025-non-book-reviews/fa4596aac370d851.jpg)
 
 By far the most impressive ironwork, and something I have seen nowhere else, is the floating path of iron that snakes around the castle walls. You can use this to go from tower to tower and catch some great views of the mountains. I used them to take many of the pictures you see now. You really have to trust in the craftsmanship though, because you can see right through them over 100 feet down to the ground. It’s common to see tourists cling to an outer wall as they shakily step along one of the paths.  
+![](https://acximages.ennals.org/images/2025-non-book-reviews/08520437a4bccb79.jpg)
 
-I like these floating paths because you wouldn’t see anywhere else, probably because they’re a legal hazard They’re almost certainly not up to codes, so no “real” attraction would ever have them. But Bishop’s Castle has them and lets people make their own decisions about whether to use them or not. It is up to you what risks you want to take, not regulators.
+I like these floating paths because you wouldn’t see anywhere else, probably because they’re a legal hazard They’re almost certainly not up to codes, so no “real” attraction would ever have them. But Bishop’s Castle has them and lets people make their own decisions about whether to use them or not. It is up to you what risks you want to take, not regulators.![](https://acximages.ennals.org/images/2025-non-book-reviews/caf816b91e199f63.jpg)
 
 You can climb to the very summit of the castle, but it really is a nail-biting experience. There’s no elevator, no handrails, and no guarantees that you will even make it out alive. It’s just you and the wind. To go to the top is a feat of daring that I recommend you try, just to show yourself what you’re capable of.
 
-The last time I went to the castle, I made the harrowing trek up to the very highest part of the highest tower. The square tower– as if to playfully exaggerate its own height – is topped with a pointy hat-like structure made of metal that tapers up and needles the sky. To say you made it to the top, you have to climb up the pyramid. This is the scariest part. The metal, not totally tied down, shivers from the wind. You’re on a tiny crag amidst a sea of void. Nothing will stop you from falling hundreds of feet to your death. But as far as is known no one has.
+The last time I went to the castle, I made the harrowing trek up to the very highest part of the highest tower. The square tower– as if to playfully exaggerate its own height – is topped with a pointy hat-like structure made of metal that tapers up and needles the sky. To say you made it to the top, you have to climb up the pyramid. This is the scariest part. The metal, not totally tied down, shivers from the wind. You’re on a tiny crag amidst a sea of void. Nothing will stop you from falling hundreds of feet to your death. But as far as is known no one has.![](https://acximages.ennals.org/images/2025-non-book-reviews/85275f6e662af63a.jpg)
 
 I managed to get to the top but only after a storm of stress. The gales howled around me. The metal creaked and shook. I trusted in the castle and was rewarded.  
 
-On my way down, I noticed the castle is quirky enough to have a nonfunctional elevator shaft. I later read that Bishop wanted to construct a solar-powered elevator inside the castle for accessibility. I suppose an elevator could be possible: if these stones are strong enough to support the massive tower above them, they are strong enough to support an elevator. Bishop, in his book Castle Building as I See It, describes further his vaulting ambition for the castle:
+On my way down, I noticed the castle is quirky enough to have a nonfunctional elevator shaft. I later read that Bishop wanted to construct a solar-powered elevator inside the castle for accessibility. I suppose an elevator could be possible: if these stones are strong enough to support the massive tower above them, they are strong enough to support an elevator. Bishop, in his book Castle Building as I See It, describes further his vaulting ambition for the castle:![](https://acximages.ennals.org/images/2025-non-book-reviews/993ae78f0cb45d17.jpg)
 
 “The museum and library will be on the second floor, with a mausoleum addition in the back. On the third story, in the tall front gable, will be the pipe organ and interfaith chapel… from the roof rafters, above the third level, in the west-end of the great hall, will be a hanging bedroom for people to use, on a drawing basis.”
 
 Suffice it to say, none of this was built. All the same I think holding his expectations so high helped Bishop build what he did. It is good to make your highest ambitions very high indeed. Just like stretching a rubber band a great distance results in greater tension in the cord, stretching your ambitions as high as possible inspires more ardent action.
 
+![](https://acximages.ennals.org/images/2025-non-book-reviews/d5c591028b5f2fa7.png)
+
 ## VI: Place of Liberty  
 
-“The rich and poor equally have to obey the law.”
+“The rich and poor equally have to obey the law.”![](https://acximages.ennals.org/images/2025-non-book-reviews/9b6a96a013806220.jpg)
 
          Bishop hoped that the castle would be “a place of freedom, hope, and justice.” I have already mentioned how the bureaucratic attacks on the castle led him to see it as a monument to the people.
 
@@ -187,7 +191,7 @@ Suffice it to say, none of this was built. All the same I think holding his expe
 
         Dan told me that his father’s views became more extreme over time and bled into his mental instability as he aged. It got to the point where he would wear his family out with loud antigovernment rants that rambled on and on. People increasingly found him difficult to be around. In the late 2000s and 2010s, some tourists reported that he screamed incoherently at them. Warnings about these jeremiads became a staple of guidebook entries about Bishop’s Castle. Once in a while, a tourist would rile him up on purpose by telling him that he couldn’t do something or defending regulation.
 
-         The most aesthetically libertarian aspect of the place is the animals running around. There are dogs, cats, goats, and chickens just hanging out without any cage or fence. I don’t know why and the family doesn’t seem to really know, either. You can just reach out and pet the goats, and this was one of the very few times that I’ve pet a goat that wasn’t on the other side of a fence. They’re adorable.
+         The most aesthetically libertarian aspect of the place is the animals running around. There are dogs, cats, goats, and chickens just hanging out without any cage or fence. I don’t know why and the family doesn’t seem to really know, either. You can just reach out and pet the goats, and this was one of the very few times that I’ve pet a goat that wasn’t on the other side of a fence. They’re adorable.![](https://acximages.ennals.org/images/2025-non-book-reviews/b4f487fac3bde13a.jpg)
 
 ## VII: Builder’s Madness and What is To Come
 
@@ -233,7 +237,7 @@ Suffice it to say, none of this was built. All the same I think holding his expe
 
          If Bishop had started building today in 2025, he’d face a much more daunting task. Adjusting for inflation, Jim paid about $2000 per acre for the land in 1959. Today [a comparable lot](https://web.archive.org/web/20250416191321/https://www.land.com/property/2.13-acres-in-custer-county-colorado/22698610/) goes for $41,000 per acre, a twentyfold difference.
 
-        But let’s say our hypothetical 21st\-century Bishop made some well-timed Bitcoin investments. He’d have to pay much more for the rocks, assuming he could legally obtain them. Materials would eat more of the budget, as would property taxes. Custer County zoning regulations would force the project to be about 100 feet less ambitious. After all this, it would take a truly hardy munchkin to not give up. The only element of 21st-century castle-building that would be easier is marketing. With the internet, you don’t need road signs. Bishop’s castle amazes us in part because it’s a symbol of his triumph over busybodies and naysayers. But it’s also a symbol of the more informal world that has passed. Our world today is institutional and digital, and has little room for castle-builders.
+        But let’s say our hypothetical 21st-century Bishop made some well-timed Bitcoin investments. He’d have to pay much more for the rocks, assuming he could legally obtain them. Materials would eat more of the budget, as would property taxes. Custer County zoning regulations would force the project to be about 100 feet less ambitious. After all this, it would take a truly hardy munchkin to not give up. The only element of 21st-century castle-building that would be easier is marketing. With the internet, you don’t need road signs. Bishop’s castle amazes us in part because it’s a symbol of his triumph over busybodies and naysayers. But it’s also a symbol of the more informal world that has passed. Our world today is institutional and digital, and has little room for castle-builders.
 
         Sometimes, I even wonder if the castle will last much longer. The family has been lucky so far, but it only takes one death or injury to result in a shutdown. When I mentioned this possibility to Dan, he had this to say:
 

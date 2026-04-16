@@ -7,8 +7,8 @@ contestName: 2025 Non Book Reviews
 year: 2025
 publishedDate: '2026-02-06T16:55:03.487Z'
 slug: state-of-competitive-debating-unions-address
-wordCount: 4046
-readingTimeMinutes: 18
+wordCount: 4051
+readingTimeMinutes: 19
 originalUrl: >-
   https://docs.google.com/document/d/1a3q0Z2tuPLLbDeg5-pfEffkajGjrfPDwE7ZMs7uaWQs
 source: gdoc
@@ -32,7 +32,7 @@ Trolley Problem is an unusual window into Obama-era debating. This review will c
 
 The restriction of the set of topics considered “debatable” is a perennial concern among campus speech watchers. Among university debaters, it is theoretically a concern, but it is secondary to the much more present concern of actively choosing a handful of good topics to debate each weekend from the ever-churning ocean of options. (While some American formats force students to argue the same topic many times per weekend many weekends per year, BP demands 4-8 distinct topics per tournament depending on how many rounds are taking place.)
 
-Debaters are concerned with competitive integrity. The point of a debate competition is to sort a set of debaters according to how skilled they are at formulating and delivering arguments. It would be unfair to force some speakers to argue inherently unconvincing or inherently super-convincing positions. Keep in mind that British Parliamentary has four teams, two of which need to provide distinct new arguments for the same position\--it would also be unfair to set motions (topics) that only have one or two main arguments on each side.
+Debaters are concerned with competitive integrity. The point of a debate competition is to sort a set of debaters according to how skilled they are at formulating and delivering arguments. It would be unfair to force some speakers to argue inherently unconvincing or inherently super-convincing positions. Keep in mind that British Parliamentary has four teams, two of which need to provide distinct new arguments for the same position--it would also be unfair to set motions (topics) that only have one or two main arguments on each side.
 
 Apparently, the concern for “fairness” was prominent in 2012. In [What does it mean to say “This motion is fair”?](https://trolleyproblem.blogspot.com/2012/05/what-does-it-mean-to-say-this-motion-is.html), Li says that “almost all debaters describe motions as “fair” or “unfair” in ordinary speech. In 2025, complaining that a debate was “so unfair” would come off as whiny. People are socially expected to at least be a bit more specific when critiquing motions: it’s a lot more common to say “I think this motion is shallow on opposition” when there are fewer arguments against a motion than for it.
 
@@ -46,9 +46,13 @@ Li then wonders if his second-strictest definition, “a motion is fair if teams
 
 Here are the [statistics about the motions that were set at the 2025 World Universities Debating Championship.](https://wudc2025.calicotab.com/open/motions/statistics/) The most balanced motion was that of the sixth round:
 
+![](https://acximages.ennals.org/images/2025-non-book-reviews/ae69df8937d2bd67.png)
+
 Perfect…
 
 And the least balanced was that of the third round:
+
+![](https://acximages.ennals.org/images/2025-non-book-reviews/6a9b28e3cec93d37.png)
 
 That canal was pretty beneficial.
 
@@ -58,7 +62,11 @@ But this imbalance is nothing compared to the motions of the past. In [Motion Fa
 
 Some of them are about as close as you can get to balanced:
 
+![](https://acximages.ennals.org/images/2025-non-book-reviews/d6b1380a2c5c40fa.png)
+
 But some of them are decisively not:
+
+![](https://acximages.ennals.org/images/2025-non-book-reviews/23f55bf49362d613.png)
 
 This motion is clearly very flawed. The “public interest” is vague. This would create awful incentives for young men with main character syndrome. On the surface, it seems like there might be arguments in favour: this will incentivize whistleblowers to step forward! (Never mind that this was debated a year before the Snowden leaks.) But the arguments disperse when you look closely. There are usually legal ways to stand up against evil governments and corporations. When there aren’t, it’s still generally fine to impose penalties on lawbreaking: people who feel that speaking out is important enough will make the tradeoff.
 
@@ -196,6 +204,8 @@ If you want a complete explanation of the rules, [read them here](https://www.sc
 ### The format
 
 There are four teams (two arguing for the motion, two arguing against) of two speakers. Each speaker gets seven minutes to speak. The speaking order looks like this:
+
+![](https://acximages.ennals.org/images/2025-non-book-reviews/b5323f25976060ee.png)
 
 The silly names are relics of the actual British Parliament.
 

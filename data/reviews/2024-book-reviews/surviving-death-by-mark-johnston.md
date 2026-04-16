@@ -7,7 +7,7 @@ contestName: 2024 Book Reviews
 year: 2024
 publishedDate: '2026-02-06T16:48:56.664Z'
 slug: surviving-death-by-mark-johnston
-wordCount: 11446
+wordCount: 11450
 readingTimeMinutes: 51
 originalUrl: >-
   https://docs.google.com/document/d/1GYQw3pgvhi7hqOVR-Ql629Q_8thbyHe8sSRy5voyt30
@@ -25,6 +25,8 @@ What’s exciting about Surviving Death is everything else. First and foremost,
 ## Mark Johnston
 
 First, a note about the author: Mark Johnston is called a philosopher’s philosopher on his Wikipedia page (don’t worry, I didn’t know about him before he was cool either). His work focussed on the esoteric stuff that academic philosophers care about and normal people curious about the nature of the world or morality or whatever don’t, i.e. problems deeply internal to the current analytic philosophy paradigm.
+
+![](https://acximages.ennals.org/images/2024-book-reviews/e61a227e8893fa0e.jpg)
 
 Kind of a great picture.
 
@@ -49,6 +51,8 @@ In worrying about death, we may worry about the loss at least three things:
 As a framing for the rest of the work, Johnston is concerned with thing 3 (although he does have interesting things to say about 1 and 2, I promise). The threat from death that Johnston is primarily concerned with surviving is the threat to moral goodness (again, I do want to keep emphasizing that as part of that journey, there is a philosophical account of how an individual can literally survive death). Remember, that Johnston is “doing religion” here. He’s not just concerned about why we might fear and dread death. He’s also concerned about our (moral) orientation to the universe.
 
 The idea that death threatens the importance of goodness is a common one.
+
+![](https://acximages.ennals.org/images/2024-book-reviews/c5dcad73a8bb848a.png)![](https://acximages.ennals.org/images/2024-book-reviews/5a04a527aaa5547c.png)![](https://acximages.ennals.org/images/2024-book-reviews/928bfb7f4e137904.png)
 
 I tend to think of this as a philosophic emotion. People are feeling nihilistic and worried about death, and so they express it as a proposition and look for reading to either change their mind or support their view. This is in opposition to reasoning from the fact that we’re all going to die to the fact that nothing matters, which is not so trivial (Why does the fact that life ends affect the significance of an event today? Would being immortal fix things?).
 
@@ -306,7 +310,7 @@ Excellent question! To that, I offer several answers:
 
 [[4]](#ftnt_ref4) On the other hand, Jeffrey Epstein is [actually alive](https://realrawnews.com/2021/01/epstein-the-kraken-escaped-federal-custody-during-6-jan-riots/) – and at large, having escaped custody during the January 6 riot.
 
-[[5]](#ftnt_ref5)[A real person!](https://www.jag.navy.mil/about/leadership/jonathan-t-stephens/)
+[[5]](#ftnt_ref5) [A real person!](https://www.jag.navy.mil/about/leadership/jonathan-t-stephens/)
 
 [[6]](#ftnt_ref6) That [article](https://realrawnews.com/2021/10/hanks-former-co-star-peter-scolari-executed-by-military/) might be unpleasant to some (it describes child torture), but it does give Tom Hanks the best villain line in any artistic medium of the past half-decade: “Life ain’t like a box of chocolates, it’s like a bag of shit!”
 
@@ -396,7 +400,7 @@ All pictures taken from Wikimedia Commons
 
 [[48]](#ftnt_ref48) For instance, Johnston cites the great early modern scientist Robert Boyle as defending this view.
 
-[[49]](#ftnt_ref49) The classic example: you notice a trail of sugar on the ground at the grocery store and think “One really should clean up one’s mess”. Then, looking down at your cart you notice it’s your sugar that’s leaking. You apply the knowledge of who you are, to know which impersonal principles apply to you. This is a derivative de se reason (you have an impersonal clean-up-after-yourself principle and apply it to your case). There are also presumably basic dese considerations, such as basic self-interest.
+[[49]](#ftnt_ref49) The classic example: you notice a trail of sugar on the ground at the grocery store and think “One really should clean up one’s mess”. Then, looking down at your cart you notice it’s your sugar that’s leaking. You apply the knowledge of who you are, to know which impersonal principles apply to you. This is a derivative de se reason (you have an impersonal clean-up-after-yourself principle and apply it to your case). There are also presumably basic de se considerations, such as basic self-interest.
 
 [[50]](#ftnt_ref50) Of course, this may be your first time hearing about the arena. The question can be intuitively captured by something like how do you know you’re seeing through the same eyes, although that brings in elements of the body and the animal into the thought.
 

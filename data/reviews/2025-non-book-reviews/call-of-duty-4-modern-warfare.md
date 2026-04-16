@@ -7,7 +7,7 @@ contestName: 2025 Non Book Reviews
 year: 2025
 publishedDate: '2026-02-06T16:57:23.282Z'
 slug: call-of-duty-4-modern-warfare
-wordCount: 4210
+wordCount: 4217
 readingTimeMinutes: 19
 originalUrl: >-
   https://docs.google.com/document/d/1B3YxYxLVFjKGicaEkqvt353kt0uimn0PSUQv1PyaHuI
@@ -30,6 +30,8 @@ The result was 2007’s Call of Duty 4: Modern Warfare (CoD 4), a game that for
 
 Just Another Day At the Office
 
+![](https://acximages.ennals.org/images/2025-non-book-reviews/aa8dee8a740631dc.png)
+
 Gaz: “Good news first, the world's in great shape. We've got a civil war in Russia, government loyalists against ultranationalist rebels, and 15,000 nukes at stake.”
 
 Price: “Just another day at the office.”
@@ -44,6 +46,8 @@ Once more, the music greatly enhances the experience. A mission might start with
 
 The SAS go on to rescue an informant in the ultranationalist forces and make to flee for Germany, but their helicopter gets shot down. They manage to make their way to a new extraction point. In the climax of this part of the story, the player gets to control an AC-130 gunship to help the SAS escape.
 
+![](https://acximages.ennals.org/images/2025-non-book-reviews/bea90af7b0662f1a.png)
+
 This is where the game goes from great to amazing. There’s no music, just the diegetic sounds of the wind blowing past the frame, the propellers keeping the craft aloft, and the recoil from the powerful guns you have at your disposal.
 
 It’s also where the discomfort begins for me and many others. Don’t misunderstand me, I’ve never been bothered by the fact that the military doesn’t fight fair against its enemies. But bereft of heroic or light-hearted music, I can’t wholly suppress the thought that I’m a god of death circling the battlefield, hurling divine wrath on those who can’t hope to fight back. Each pull of the trigger ends lives, and even if they’re the enemies, a sense of unease settles into some recess of my mind.
@@ -52,11 +56,15 @@ Shock And Awe
 
 The game switches to an American perspective at this point. Here, the player character is one Sergeant Paul Jackson, a US Marine. His experience is one of power and superiority. The visuals show a large US fleet off the shore, and many helicopters ready to drop Marines and bombs on the enemy. The music doesn’t reassure you, though, retaining the leitmotif of death never being too far away. All this technology, all these soldiers, and your speakers will remind you that it only takes a stray bullet or unfortunate grenade to end your life.
 
+![](https://acximages.ennals.org/images/2025-non-book-reviews/5c65d07e6600d33b.png)
+
 Let’s rewind for a moment, though. Why is the US invading an unnamed country (cough Iraq)? That’s simple. Khaled Al-Asad is a Middle Eastern warlord who, at the start of the game, was seen victorious in the aftermath of his coup against the unnamed nation’s government. The audience sees part of this through a long introduction to the game that ends with that country’s president being executed on live TV.
 
 The player is supposed to conclude that the US decided it was not a good idea for this to go unpunished, hence the need to invade. But this is never stated, and because the player has to arrive at that answer themselves, they might be more susceptible to not following up on the implicit argument that it actually is necessary to invade. In a brilliant analog to real life, you, the person sent off to war, don’t get an adequate justification for a full-scale invasion. The powers that be have decided that this warlord must be deposed, and thus you must turn a city into a battlefield. Mind you, this is probably not the game being calculating,  just skipping past the justifications.
 
 The Marines have exactly one goal - find and capture Al-Asad. Once they land in Al-Asad’s capital, they quickly spread out and work their way through a TV station where it’s believed the man is broadcasting to the residents. This turns out to be a dead end, as it's just a pre-recorded broadcast. Jackson and his team are subsequently assigned to help an immobilized tank and its crew until the vehicle can be rescued from a bog. They fight through intense waves as the night passes in this burning warzone of a city, utilizing night vision goggles that give you that iconic green vision.
+
+![](https://acximages.ennals.org/images/2025-non-book-reviews/40a97ac8af89924f.png)
 
 They save the tank’s crew, and all is good by the next morning. After more fighting, they are picked up by helicopters taking them to the next fight. Al-Asad’s been located again. What’s more, there is now a suspicion that he has a nuclear warhead.
 
@@ -70,9 +78,13 @@ Everything’s good, the game auto-saves, so we can sit back, take a breath, and
 
 “All U.S. forces, be advised, we have a confirmed nuclear threat in the city. NEST teams are on site and attempting to disarm. I repeat, we have a confirmed nu-”
 
+![](https://acximages.ennals.org/images/2025-non-book-reviews/507e653aae83085e.png)
+
 The shock wave sends Jackson’s helicopter tumbling to the ground. He survives, and crawls out before landing hard on the ground. As he weakly stumbles forward, we hear his gasps of breath, the radio messages fading in and out. The wind roaring past him can practically be felt. Around him, the city is devastated, but that’s of secondary importance to the titanic atomic mushroom turning the environment into a poisoned hellhole.
 
 As his strength gives out, he collapses, swelling the ranks of the dead waiting to be carried away by Death.
+
+![](https://acximages.ennals.org/images/2025-non-book-reviews/d8f40bc5d74375cd.png)
 
 This. Was. Not. Normal. Games where you spent hours as a character and then just die wasn’t the standard in 2007. But this game isn’t normal, and it understands that war is unfair. Sometimes, it’s unfair because you get to blow your enemies away from the sky as they run in terror, other times you can do nothing but collapse and die, one more count in the statistics.
 
@@ -144,7 +156,7 @@ CoD 4 was an immensely successful title, owing part of that to the experience a
 
 Then it all went to hell.
 
-Call of Duty: Modern Warfare 2, the 2009 sequel to CoD 4, fundamentally altered the franchise’s messaging and it really hasn’t recovered. The restraint, subtlety, and deeper themes were abandoned in favor of action sequences, bigger explosions, and the most absurd alternate history ever told. I could spend hours talking about how awful this game’s story and experience is, but the easiest way to see what I mean is to compare the [chaotic fighting and tension found in](https://www.youtube.com/watch?v=LhuIjNSg7Gg) [CoD 4](https://www.youtube.com/watch?v=LhuIjNSg7Gg)[’s trailer](https://www.youtube.com/watch?v=LhuIjNSg7Gg) to the [endless explosions set to a](https://www.youtube.com/watch?v=blshENwbHgs) [fucking](https://www.youtube.com/watch?v=blshENwbHgs)[Eminem rap](https://www.youtube.com/watch?v=blshENwbHgs) [in the sequel’s trailer](https://www.youtube.com/watch?v=blshENwbHgs).
+Call of Duty: Modern Warfare 2, the 2009 sequel to CoD 4, fundamentally altered the franchise’s messaging and it really hasn’t recovered. The restraint, subtlety, and deeper themes were abandoned in favor of action sequences, bigger explosions, and the most absurd alternate history ever told. I could spend hours talking about how awful this game’s story and experience is, but the easiest way to see what I mean is to compare the [chaotic fighting and tension found in](https://www.youtube.com/watch?v=LhuIjNSg7Gg) [CoD 4](https://www.youtube.com/watch?v=LhuIjNSg7Gg)[’s trailer](https://www.youtube.com/watch?v=LhuIjNSg7Gg) to the [endless explosions set to a](https://www.youtube.com/watch?v=blshENwbHgs) [fucking](https://www.youtube.com/watch?v=blshENwbHgs) [Eminem rap](https://www.youtube.com/watch?v=blshENwbHgs) [in the sequel’s trailer](https://www.youtube.com/watch?v=blshENwbHgs).
 
 To spite me, the sequel would go on to be the biggest entertainment launch in history up to that point. It cemented the franchise’s place in the cultural consciousness. This was the point at which people bought the games because others were buying the games. You had to keep up with the cultural conversation, as it were, though the quality helped. It would be followed by other games with addicting gameplay and passable to excellent story-telling. For those of us interested in the narrative, there is nothing afterwards like what came out during this time period.
 

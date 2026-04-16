@@ -10,7 +10,7 @@ year: 2022
 publishedDate: '2026-02-06T07:23:14.484Z'
 slug: >-
   more-work-for-mother-the-ironies-of-household-technology-from-the-open-hearth-to-the-microwave-by-ruth-schwartz-cowan
-wordCount: 3869
+wordCount: 3872
 readingTimeMinutes: 18
 originalUrl: >-
   https://docs.google.com/document/d/1kQUUJhv-MpLawby2j4zXLZPDG6ligWd5xpIjH8UmWdw
@@ -35,7 +35,7 @@ Well, hang on a minute.
 
 ## The Site of Industrialization is Where the Heart Is
 
-Ruth Schwartz Cowan, a historian focused on the history of technology, shows us why this view is incomplete and overly simplistic. In her 1983 masterpiece of historical analysis, [More Work for Mother: The Ironies of Household Technology from the Open Hearth to the Microwave](https://www.google.com/url?q=https://bookshop.org/books/more-work-for-mother-the-ironies-of-household-technology-from-the-open-hearth-to-the-microwave/9780465047321&sa=D&source=editors&ust=1770366184483741&usg=AOvVaw2hKrTDcVhHjVXApSPztEFh), she steadily dismantles everything you think you know about so-called labor-saving devices and what modernity actually looks like in the home — a place, incidentally, that Cowan reminds us is "as much a locus for industrialized work as factories and coal mines are.” Or, to put it in even starker economic terms, “Households are the locales in which our society produces healthy people, and housewives are the workers who are responsible for almost all of the stages in that production process.”
+Ruth Schwartz Cowan, a historian focused on the history of technology, shows us why this view is incomplete and overly simplistic. In her 1983 masterpiece of historical analysis, [More Work for Mother: The Ironies of Household Technology from the Open Hearth to the Microwave](https://bookshop.org/books/more-work-for-mother-the-ironies-of-household-technology-from-the-open-hearth-to-the-microwave/9780465047321), she steadily dismantles everything you think you know about so-called labor-saving devices and what modernity actually looks like in the home — a place, incidentally, that Cowan reminds us is "as much a locus for industrialized work as factories and coal mines are.” Or, to put it in even starker economic terms, “Households are the locales in which our society produces healthy people, and housewives are the workers who are responsible for almost all of the stages in that production process.”
 
 Even something as straightforward as understanding households as sites of production and core participants in the economy — not as sheltered havens apart from it — is a relevant reminder for today. And the emphasis on household labor as labor, despite being unpaid and unaccounted for in a country’s GDP, is a concept that is increasingly voiced by progressive and feminist scholars writing about the gender pay gap and the idea of a Universal Basic Income.
 
@@ -69,7 +69,9 @@ This shift from home-grown to store-bought grains relieved men and boys of one o
 
 The same process occurred with the invention of stoves to replace hearths. Most pre-industrialization meals were what we would call "one-pot meals" — usually a meat stew of some kind that was cooked in a single pot over a hearth — and people typically ate the same thing day after day. This task also involved men's labor: they hauled the necessary wood to the kitchen every day. When stoves and ovens became affordable for most households, men's contribution to the cooking process was no longer necessary. On top of that, a skilled cook suddenly had the ability (and therefore, the obligation) to cook multiple different dishes and types of food simultaneously, spelling the end of the simple and less labor-intensive one-pot stew and the advent of multi-course meals and new types of cuisine.
 
-[New World 84 gas cooker advertisement,](https://www.google.com/url?q=https://flic.kr/p/2g3QfDD&sa=D&source=editors&ust=1770366184492443&usg=AOvVaw0agbASr2PR92WyWXN86vJN) c.1950, from the [Dunedin City Council Archives,](https://www.google.com/url?q=https://www.flickr.com/photos/dccarchives/&sa=D&source=editors&ust=1770366184492637&usg=AOvVaw3UtD9zrVsiNiJVLWFa5nHb) Gas Department Series 39/136. Licensed under [CC BY 4.0.](https://www.google.com/url?q=https://creativecommons.org/licenses/by/4.0/&sa=D&source=editors&ust=1770366184492857&usg=AOvVaw3gYEiYVnt7CKCFFKEmScYI)
+![](https://acximages.ennals.org/images/2022-book-reviews/5e545848d24fc936.jpg)
+
+[New World 84 gas cooker advertisement,](https://flic.kr/p/2g3QfDD) c.1950, from the [Dunedin City Council Archives,](https://www.flickr.com/photos/dccarchives/) Gas Department Series 39/136. Licensed under [CC BY 4.0.](https://creativecommons.org/licenses/by/4.0/)
 
 Cowan explains how this transition played out in households:
 
@@ -83,7 +85,9 @@ Cleaning rugs is an excellent example of how chores used to be done: this was a 
 
 What is perhaps most important to realize about this process is that the invention of vacuum cleaners created a demand for cleaner rugs, which meant that a task that had previously been performed annually was now being performed weekly or monthly. Keeping all of these facts in mind, Cowan concludes that "the question of whether cleaning a rug has been made easier or faster by the advent of vacuum cleaners becomes considerably more difficult to answer. Easier for whom? Faster for whom? Under what conditions?”
 
-[Arco Wand Vacuum Cleaner Advertisement](https://www.google.com/url?q=https://flic.kr/p/5DWkMJ&sa=D&source=editors&ust=1770366184496189&usg=AOvVaw1xFdkeeKjhdbF1yJIhz-VH) from August 1917, Scribner's Magazine. Licensed under [CC BY 4.0](https://www.google.com/url?q=https://creativecommons.org/licenses/by/4.0/&sa=D&source=editors&ust=1770366184496431&usg=AOvVaw0mZ8W2L53p7ul19q6lZjnx).
+![](https://acximages.ennals.org/images/2022-book-reviews/ab54ab49566a0a99.jpg)
+
+[Arco Wand Vacuum Cleaner Advertisement](https://flic.kr/p/5DWkMJ) from August 1917, Scribner's Magazine. Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 
 ## Insourcing the Dreaded Laundry Day
 
@@ -95,7 +99,9 @@ As Cowan puts it:
 
 “Washing sheets with an automatic washing machine is considerably easier than washing them with one that has a wringer, itself considerably easier than washing them with a scrub board and tub. Yet the easiest solution of all (at least from the point of view of the housewife) is to have someone else do it altogether…The advent of the electrically powered washing machines (as well as of synthetic washable fabrics) coincided with the advent of ‘do-it-yourself’ laundry, so that the woman endowed with a Bendix would have found it easier to do her laundry but, simultaneously, would have done more laundry, and more of it herself, than either her mother or her grandmother had.” (emphasis mine)
 
-[Montana Steam Laundry, Butte, Montana (1901)](https://www.google.com/url?q=https://flic.kr/p/7cFJmb&sa=D&source=editors&ust=1770366184499181&usg=AOvVaw16SHDAqXE0ZpcUjhVjBJiS), Image taken from pg 42 of Souvenir history of the Butte Fire Department by Peter Sanger, Chief Engineer. From the Butte Digital Image Project at Montana Memory Project. Licensed under [CC BY-NC-ND 4.0](https://www.google.com/url?q=https://creativecommons.org/licenses/by-nc-nd/4.0/&sa=D&source=editors&ust=1770366184499511&usg=AOvVaw0h7cVATFEa8qI6f0fIeFzn).
+![](https://acximages.ennals.org/images/2022-book-reviews/fd16ea4d7624edd0.jpg)
+
+[Montana Steam Laundry, Butte, Montana (1901)](https://flic.kr/p/7cFJmb), Image taken from pg 42 of Souvenir history of the Butte Fire Department by Peter Sanger, Chief Engineer. From the Butte Digital Image Project at Montana Memory Project. Licensed under [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/).
 
 “Why Risk His Health with Germ-Laden Clothing, When a Bendix Home Laundry Costs Only $99.50?”
 
@@ -127,7 +133,7 @@ There were other macroeconomic reasons as well; for example, the ravages of the 
 
 ## Annoying Complications
 
-Cowan acknowledges that her analysis introduces "complications that may be annoying,” but these complications simplify and bring into focus the essential features of how we get work done in our homes, why men aren’t hammering away at smithies in their backyards, and why [women still continue to do significantly more household labor than men](https://www.google.com/url?q=https://www.bls.gov/tus/charts/household.htm&sa=D&source=editors&ust=1770366184508630&usg=AOvVaw0lCFShmC_GT-tdrAw91lCt), despite a slew of devices that were supposed to make housework a thing of the past and lead to “the liberation of women in general.”
+Cowan acknowledges that her analysis introduces "complications that may be annoying,” but these complications simplify and bring into focus the essential features of how we get work done in our homes, why men aren’t hammering away at smithies in their backyards, and why [women still continue to do significantly more household labor than men](https://www.bls.gov/tus/charts/household.htm), despite a slew of devices that were supposed to make housework a thing of the past and lead to “the liberation of women in general.”
 
 However, Cowan doesn’t let women off the hook — she does not see them as mere victims of the advertising industry or of sexism or of industrialization at large, but as active agents in their own non-liberation. She brings it all home (so to speak) in a personal postscript to the book where she examines her own relationship to household labor and ingrained standards of housekeeping. She describes how at one point she was confined to bed for six months and forced to let her husband do the laundry. To her consternation, her husband didn’t follow the “rules” and refused to separate the laundry by color and fabric type as she had always done. As a result…nothing terrible happened. She had been doing that extra step for years for no reason at all. With grace and self-awareness, Cowan took this as an opportunity to re-examine the internalized rules she had been following blindly:
 

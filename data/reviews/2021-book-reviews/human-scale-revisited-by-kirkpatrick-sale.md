@@ -149,7 +149,7 @@ If we did want to live in "human scale", we could do that through going back int
 
 And the fourth misunderstanding is an existential issue. There are reams of work trying to uncover the secrets of innovation and progress. There are prominent folks asking more people to take on the mantle and try to look at the problem. My small efforts included, this is an existential problem that humanity has to master to get to a Star Trek era, where we can have the life that Sale dreams of, just with matter replicators.
 
-But to get there requires that we, as humanity, work together. We need [genius clusters](https://www.google.com/url?q=https://www.strangeloopcanon.com/p/eureka-on-the-clustering-of-geniuses&sa=D&source=editors&ust=1770366086504274&usg=AOvVaw3yh2dj5OWjhXdUSI14g7sW). We need better progress narratives that [detail our technological ladders](https://www.google.com/url?q=https://www.strangeloopcanon.com/p/isolated-narratives-of-progress&sa=D&source=editors&ust=1770366086504461&usg=AOvVaw2iygIoa3I0FV2vlGlODBfy). We need more scientific funding, increased experimentation, more ideas, and better cross functional collaboration. That's unlikely to happen if we're not also living in a society where "Bigness" was helpful.
+But to get there requires that we, as humanity, work together. We need [genius clusters](https://www.strangeloopcanon.com/p/eureka-on-the-clustering-of-geniuses). We need better progress narratives that [detail our technological ladders](https://www.strangeloopcanon.com/p/isolated-narratives-of-progress). We need more scientific funding, increased experimentation, more ideas, and better cross functional collaboration. That's unlikely to happen if we're not also living in a society where "Bigness" was helpful.
 
 It's a collective action problem. The US spends $130Bn in Federal R&D a year. That amount can be spent because it's decided by a centralised entity. Split that out amongst a 1000 entities, and you have organisational and coordination chaos.
 
@@ -173,7 +173,7 @@ The ultimate goal that Sale has, as is evident from the title, is to push the th
 
 One of the benefits he touts, accurately, is that a sense of belonging is great for humans. It's why religion is good for us. The book is a paean to tell us all to pitch in to society!
 
-Which conveniently ignores the fact that we do! Volunteerism is [pretty high](https://www.google.com/url?q=https://www.nationalservice.gov/serve/via&sa=D&source=editors&ust=1770366086508014&usg=AOvVaw0RL7FlN_Xy8IF6ypkMViRJ)! 30% of adults volunteered through an organisation in 2019. That's not including all the people who are active in communities, join thousands of clubs which now, thanks to technology, they can.
+Which conveniently ignores the fact that we do! Volunteerism is [pretty high](https://www.nationalservice.gov/serve/via)! 30% of adults volunteered through an organisation in 2019. That's not including all the people who are active in communities, join thousands of clubs which now, thanks to technology, they can.
 
 How will tiny city states defend themselves against avaricious states?
 

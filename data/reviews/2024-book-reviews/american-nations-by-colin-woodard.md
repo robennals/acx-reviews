@@ -7,7 +7,7 @@ contestName: 2024 Book Reviews
 year: 2024
 publishedDate: '2026-02-06T16:47:15.596Z'
 slug: american-nations-by-colin-woodard
-wordCount: 3933
+wordCount: 3940
 readingTimeMinutes: 18
 originalUrl: >-
   https://docs.google.com/document/d/1AXmWgSbh_TFsoZuApSCSEoz57yn93CM5YYhtaO_s4W4
@@ -17,7 +17,7 @@ tags:
   - Society
 ---
 
-## I.The Country Contains Multitudes
+## I.                 The Country Contains Multitudes
 
 What is “Real America?”  Is it the coastal cities older than the republic itself?  Is it the rural interior?  A small town?  An immigrant community?  An indigenous community?
 
@@ -27,7 +27,7 @@ In his book, American Nations, Woodard claims the United States is not truly a s
 
 To his credit, Woodard does not assume these nations fall neatly along existing state lines.  The book provides a map with granularity down to the county level, but it is probably best not to take that too literally.  One could argue where one nation begins and ends, but clearly New England is in a different nation than Alabama, which is different from the mountain states, which is different from the Midwest, etc.  Also, each nation contains a full political spectrum with conservative Yankees and liberal southerners.  The key concept is that these nations have real cultural and political effects on the existing states above them and U.S. history is defined by conflict among these hidden actors.  I should note that while the identification and description of the nations are from Woodard, the specific groupings below are mine.
 
-## II.The American Triumvirate
+##  II.               The American Triumvirate
 
 As with any collection of nations, social, political, and economic influence are not evenly distributed.  Events in U.S. history are dominated by the actions of the three great powers: Yankeedom, the Deep South, and Greater Appalachia.
 
@@ -43,7 +43,7 @@ The Deep South starts at the Atlantic coast from the southern portion of North C
 
 Greater Appalachia starts in the Appalachian Mountains of Virginia and pushes west along the Ohio River Valley, over the Mississippi River and into central and western Texas.  Unlike the other two great powers it was not established as a cohesive and well-defined society, but rather a loose association of like minded settlers who rejected the societies of the Atlantic coast.  The people are highly individualistic and skeptical of centralized authority, which empowers local elites.  These elites can be no less authoritarian than the coastal elites Greater Appalachians reject, but they are able to command respect by paying homage to local values.  
 
-## III.The Roleplayers
+## III.              The Roleplayers
 
 In the shadow of the three great powers are five minor nations.  While these nations do not drive U.S. history, they are valuable as coalition partners and their allegiance or hostility to one of the great powers has been decisive in past conflicts.  Two of these nations, Tidewater and the Left Coast, are closely related to the great powers of the Deep South and Yankeedom respectively.  Two others, New Netherland and New France, are in essence city-states that define themselves in opposition to the surrounding region.  The final minor nation is the Midlands, which acts as a type of buffer state between Yankeedom and Greater Appalachia.  
 
@@ -67,7 +67,7 @@ New Netherland is the greater New York City metropolitan area.  Its tradition o
 
 The Midlands start in Philadelphia and run west in a thin line across the Midwest between Yankeedom and Greater Appalachia before broadening out in Iowa, spreading down into Oklahoma and up into the Dakotas.  Founded as a pacifist society by the Quakers, the Midlanders lacked the Yankee’s missionary zeal and espoused tolerance over conversion. The Midlands would be defined by the constant inflow of (mostly German) immigrants, which would influence the culture of the nation as it pushed west alongside the Yankees.  The border between the two nations becomes very ill-defined in areas like Wisconsin, with Milwaukee being more Midlands than Yankee.    
 
-## IV.The Periphery
+##  IV.             The Periphery
 
 Finally, there are three nations that find themselves more acted upon by the great powers and their allies rather than actors: El Norte, The Far West, and First Nation.  
 
@@ -83,7 +83,7 @@ The Far West is the mountain and desert region of the western third of the Unite
 
 First Nation (Woodard’s term for Native Americans, specifically in Northern Canada, although I think this could apply across North America) is ironically the newest of the nations despite the name.   For the most part, Native American societies and lands were areas of competitive settlement between the eastern nations.  As the borders between established nations do not really shift, almost all territorial changes are a result of the western push into Native American lands.  
 
-## V.The History of all Hitherto Existing American Society is the History of Regional Struggles
+## V.               The History of all Hitherto Existing American Society is the History of Regional Struggles
 
 The 11 nations Woodard identifies are not terribly surprising and draws heavily on similar past works, which he dutifully references in the beginning of the book.  To me, the interesting aspect of Woodard’s framework is its more ambitious goal of analyzing conflict among the nations as the primary driver of U.S. history.  Shifting alliances, diplomatic revolutions, no permanent friends or enemies, just permanent interests.  There are three major wars among the nations to define the “American System” for that era.  The stakes are such that we would consider them World Wars if they happened among recognized nation-state alliances.
 
@@ -127,11 +127,11 @@ The final major conflict is the multiple civil rights and other rights movements
 
 In the decades following the end of Reconstruction, Yankeedom had searched in vain for a way back into the affairs of the Deep South.  Attempts, such as the 1890 Force Bill to allow for greater federal oversight and regulation of elections, were defeated by New Netherland opposition (in addition to Deep South opposition of course.)   The civil rights protests of Black Deep Southerners in the 1950s would provide the opening Yankeedom needed.  Throughout the Deep South, northern activists provided support to Deep South Black protests from the Montgomery Bus Boycott through Selma.  Similar to Fort Sumter, once the conflict became a fight to preserve the larger system such as enforcing Supreme Court rulings, a broader northern coalition could form, for example, with Midlander President Eisenhower sending the U.S. Army to Little Rock in 1957 to enforce school desegregation.  
 
-Importantly, Woodard notes that Greater Appalachia accepted desegregation more quickly and with less resistance than the Deep South.  The Greater Appalachian states of Missouri, Tennessee, and Kentucky do not follow the Deep South in supporting the Thurmondcandidacy in 1948, Goldwater in 1964, or Wallace in 1968.  Interestingly, the Tidewater states of North Carolina and Virginia also do not follow, perhaps signally the beginning of the end as Tidewater both as a Deep South satellite and as a separate nation.    
+Importantly, Woodard notes that Greater Appalachia accepted desegregation more quickly and with less resistance than the Deep South.  The Greater Appalachian states of Missouri, Tennessee, and Kentucky do not follow the Deep South in supporting the Thurmond candidacy in 1948, Goldwater in 1964, or Wallace in 1968.  Interestingly, the Tidewater states of North Carolina and Virginia also do not follow, perhaps signally the beginning of the end as Tidewater both as a Deep South satellite and as a separate nation.    
 
 As with Reconstruction, the Deep South is able to turn things around when it can present itself to the other nations not as a troublemaker and threat to the system, but as a source of stability and order.  The youth revolts and other movements (anti-war protests, feminism, secularism, etc.) in the 1960s and 1970s in the northern nations, gave the Deep South this chance.  Conservative forces were able to flip the Midlands and Greater Appalachia in their triumphs of 1972 and 1984, turning back the more far-reaching dreamers of Yankeedom.  By the 21st century (this book was published in 2011), the front lines in the culture war have settled into the familiar Red vs. Blue stalemate.
 
-## VI.All Models are Wrong, some are Useful
+## VI.             All Models are Wrong, some are Useful
 
 So, what to make of Woodard’s analysis?
 

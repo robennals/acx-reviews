@@ -7,8 +7,8 @@ contestName: 2025 Non Book Reviews
 year: 2025
 publishedDate: '2026-02-06T16:55:59.406Z'
 slug: us-census-review-a-biblical-perspective
-wordCount: 2223
-readingTimeMinutes: 10
+wordCount: 2256
+readingTimeMinutes: 11
 originalUrl: >-
   https://docs.google.com/document/d/1jYVJFIz5-aMi0LCgsC9AN6BncJDNVGaMU37QmwZ1vzA
 source: gdoc
@@ -17,13 +17,15 @@ tags:
   - History
 ---
 
+![Collections: The Battle of Helm's Deep, Part I: Bargaining for Goods at  Helm's Gate – A Collection of Unmitigated Pedantry](https://acximages.ennals.org/images/2025-non-book-reviews/84359f039fa06eef.png)
+
 10,000 orcs would have been plenty,
 
 if he hadn’t doomed himself by counting them up.
 
 The decennial census and its consequences have been a disaster for the United States.
 
-In Article 1, Section 2, the US Constitution mandates when a population census shall be taken: “The actual Enumeration shall be made within three Years after the first Meeting of the Congress of the United States, and within every subsequent Term of ten Years, in such Manner as they shall by Law direct.”
+In Article 1, Section 2, the US Constitution mandates when a population census shall be taken: “The actual Enumeration shall be made within three Years after the first Meeting of the Congress of the United States, and within every subsequent Term of ten Years, in such Manner as they shall by Law direct.” 
 
 Why require a census at all, though? And why every ten years? In the context of Article 1, it is clear the main purpose of the census is for apportioning representation in the House of Representatives, since the seats each state is allotted are based on that state’s relative population. The writers of the constitution realized that this proportion was bound to change over time. According to notes from the Constitutional Convention, this led to some controversy. At the time the Constitution was written, the northern states were more populous than the southern, and the western states didn’t exist at all. But the delegates knew that the population of the south was growing in proportion to the north, and that western states would soon join as well. Some delegates from the north didn’t want to require a census at all, or would prefer it left up to the judgment of the legislature when one was needed. But others argued that it would never be in the interest of a legislature dominated by a shrinking majority to take a census, when that census would inevitably narrow, or even reverse their majority. Some worried that if things were left up to the legislature, it would choose never to recount population and reapportion congressional seats at all. (If you think US voting districts are unfairly gerrymandered now, imagine how bad the problem would be if they were drawn based on population data from 1790.) In the end, those worried about fair re-apportioning of representation won out. The census was written into the constitution to prevent states with slower-growing populations from clinging to disproportionate power.
 
@@ -31,7 +33,7 @@ Thus did the delegates agree on mandating a census every 10 years. But in their 
 
 Specifically, the folly from 2 Samuel 24:
 
-Again the anger of the Lord burned against Israel, and he incited David against them, saying, “Go and take a census of Israel and Judah.” So the king said to Joab and the army commanders with him, “Go throughout the tribes of Israel from Dan to Beersheba and enroll the fighting men, so that I may know how many there are.”
+Again the anger of the Lord burned against Israel, and he incited David against them, saying, “Go and take a census of Israel and Judah.”  So the king said to Joab and the army commanders with him, “Go throughout the tribes of Israel from Dan to Beersheba and enroll the fighting men, so that I may know how many there are.”
 
 It took David’s census takers nine months and twenty days to complete the count, finding that, “In Israel there were eight hundred thousand able-bodied men who could handle a sword, and in Judah five hundred thousand.”
 
@@ -51,7 +53,11 @@ Donald and Melania Trump both caught Covid in October, 2020.
 
 Thus, every 10 years does the land of the free and the home of the brave sin against their heavenly protector, and every 10 years do they repent of their sin through one of the three options – war, plague, or famine (broadly construed) – as chosen by the sitting president. Alas, had they called up the ghosts of Samuel and Saul, they could well have warned them of the consequences of ignoring the will of God!
 
+![](https://acximages.ennals.org/images/2025-non-book-reviews/410cc54121b274d4.png)
+
 Census takers themselves, of course, suffer their own personal punishment for participating in such impiety:
+
+![](https://acximages.ennals.org/images/2025-non-book-reviews/a2b5add514d2a6e3.png)
 
 This vicious cycle all started back under the nation’s very first President – Washington. In 1790, the first census was taken, finding the US population to number just under 4 million souls. When God came to Washington to chastise him for his prideful counting, Washington made the choice one would expect of the general who won the War of Independence – and the following year, US troops suffered bitter defeat in the Harner and St. Clair’s offensives of the Northwest Indian War.
 
@@ -96,6 +102,8 @@ In 1980, to repent of a population count of 226 million, President Reagan chose 
 In 1990, after the census counted 248 million people in the country, George Bush Sr. went back to the traditional choice of war once more – thus beginning the Gulf War.
 
 In 2000, as the census summed the 281 million souls within the borders, George Bush Jr. made the same choice as his father. But as a man less favored by God, he paid for it more dearly – with the 9/11 terrorist attacks, and the resulting wars in Iraq and Afghanistan.
+
+![Listen to Second Plane Hits World Trade Center | HISTORY Channel](https://acximages.ennals.org/images/2025-non-book-reviews/4945b3677f4ace51.jpg)
 
 Bush picked it, God did it.
 

@@ -23,7 +23,7 @@ Signatories shall renounce war as a national policy and;
 
 Signatories shall settle disputes by peaceful means
 
-I'll sum up the most common historical view of the Peace Pact with this quote from the [US State Department's history website](https://www.google.com/url?q=https://history.state.gov/milestones/1921-1936/kellogg&sa=D&source=editors&ust=1770366146466898&usg=AOvVaw2rFB0BC_z8fnzp5QMv3KQ7):
+I'll sum up the most common historical view of the Peace Pact with this quote from the [US State Department's history website](https://history.state.gov/milestones/1921-1936/kellogg):
 
 It had little effect in stopping the rising militarism of the 1930s or preventing World War II.
 
@@ -39,9 +39,9 @@ If you find that question confusing, you might, with a little poking at it, star
 
 World War I happened before the Peace Pact, while World War II happened after, so one of the major differences between them could be the Pact, and H&S claim that it is. I’ve often assumed a false equivalence between them, that I notice others share. They're both World Wars, after all, and Germany's the bad guy in both cases. Our brains like to make morality plays out of the silliest little things, so why not enormous monumental ones too? The US and Germany were on the opposite sides in both wars, and Germany was evil in II, so clearly Allies good, Axis bad, right?
 
-[Germany's World War I Debt Was So Crushing It Took 92 Years to Pay Off](https://www.google.com/url?q=https://www.history.com/news/germany-world-war-i-debt-treaty-versailles&sa=D&source=editors&ust=1770366146469116&usg=AOvVaw2JrOd7QUagdSaRh3ZC5QhZ) is a pretty good example of how history writers today often frame World War I in terms of a morality play, with Germany as the villain.
+[Germany's World War I Debt Was So Crushing It Took 92 Years to Pay Off](https://www.history.com/news/germany-world-war-i-debt-treaty-versailles) is a pretty good example of how history writers today often frame World War I in terms of a morality play, with Germany as the villain.
 
-[The Treaty of Versailles](https://www.google.com/url?q=https://www.history.com/topics/world-war-i/treaty-of-versailles-1&sa=D&source=editors&ust=1770366146469433&usg=AOvVaw0KQJ6NaNkL7o3K9c-PzW9M) didn’t just blame Germany for the war—it demanded financial restitution for the whole thing, to the tune of 132 billion gold marks, or about $269 billion today.
+[The Treaty of Versailles](https://www.history.com/topics/world-war-i/treaty-of-versailles-1) didn’t just blame Germany for the war—it demanded financial restitution for the whole thing, to the tune of 132 billion gold marks, or about $269 billion today.
 
 The history classes I took didn't do a lot to clear it up either, explaining World War I in terms of things like "nationalism" and "jingoism", and a “web of alliances”. But these seem like fully general explanations, as we still live in a world that has plenty of nationalism and webs of alliances. Maybe jingoism is different now than it was then, but if so, I’m not really clear on how.
 
@@ -55,21 +55,21 @@ Within our modern framework, none of this makes sense. It wasn’t that Serbia a
 
 Originally, war was nothing less than the rawest enactment of power over those who could be defeated, and over time was tamed and made more legible to the modern mind by philosophy and legalism, but it remained normal and expected. Adding rules to an activity does make it more civilized, in a sense, but in the case of war, it remains horrific. Ultimately, World War I demonstrated to some forward-looking thinkers that our interconnected world simply could not bear it anymore.
 
-And so, to repurpose a quote from Jai Dhyani’s [500 million and not one more](https://www.google.com/url?q=https://blog.jaibot.com/500-million-but-not-a-single-one-more/&sa=D&source=editors&ust=1770366146473437&usg=AOvVaw2H-yRxGJbc6QCckfQQQsEF), "An idea began to take hold: Perhaps the ancient god could be killed." A few people began to imagine that perhaps war should not be legal and normal, the prerogative of Kings or Parliaments, but rather, should be outlawed.
+And so, to repurpose a quote from Jai Dhyani’s [500 million and not one more](https://blog.jaibot.com/500-million-but-not-a-single-one-more/), "An idea began to take hold: Perhaps the ancient god could be killed." A few people began to imagine that perhaps war should not be legal and normal, the prerogative of Kings or Parliaments, but rather, should be outlawed.
 
 H&S profile a number of people who were involved in the creation of the Pact, and the followup that happened throughout World War II, eventually culminating in the creation of the United Nations. Here are the chief ones, briefly:
 
-[Salmon Levinson](https://www.google.com/url?q=https://en.wikipedia.org/wiki/Salmon_Levinson&sa=D&source=editors&ust=1770366146474160&usg=AOvVaw369sVFyUshhMCBqsCa6-yg) was a lawyer in Chicago who was one of two rivals to be first to popularize the idea of outlawing war, both through private letters to influential people he knew and through publishing a pamphlet that was read by tens of thousands of people. He is also the author of the text of the Pact itself.
+[Salmon Levinson](https://en.wikipedia.org/wiki/Salmon_Levinson) was a lawyer in Chicago who was one of two rivals to be first to popularize the idea of outlawing war, both through private letters to influential people he knew and through publishing a pamphlet that was read by tens of thousands of people. He is also the author of the text of the Pact itself.
 
-[James Shotwell](https://www.google.com/url?q=https://en.wikipedia.org/wiki/James_T._Shotwell&sa=D&source=editors&ust=1770366146474600&usg=AOvVaw3wWnjK5JAnCDflpHY_3uit) was a history professor who is the other claimant as first to popularize the idea of outlawing war, and would make numerous contributions to the movement.
+[James Shotwell](https://en.wikipedia.org/wiki/James_T._Shotwell) was a history professor who is the other claimant as first to popularize the idea of outlawing war, and would make numerous contributions to the movement.
 
-[Hersch Lauterpacht](https://www.google.com/url?q=https://en.wikipedia.org/wiki/Hersch_Lauterpacht&sa=D&source=editors&ust=1770366146474933&usg=AOvVaw0v-DKq6nqHEzrHLTPsWpbe) was a lawyer who worked on the intellectual implications that the Pact had on other behavior in international relations, including the changes to expectations of neutrality, the use of sanctions, and many other aspects. He is also credited as the author of the arguments that were used against the Nazis at the Nuremburg trials, though he himself did not attend, perhaps because he had lost nearly his entire family to the Holocaust.
+[Hersch Lauterpacht](https://en.wikipedia.org/wiki/Hersch_Lauterpacht) was a lawyer who worked on the intellectual implications that the Pact had on other behavior in international relations, including the changes to expectations of neutrality, the use of sanctions, and many other aspects. He is also credited as the author of the arguments that were used against the Nazis at the Nuremburg trials, though he himself did not attend, perhaps because he had lost nearly his entire family to the Holocaust.
 
 And others along the way who made enormous contributions as well, including:
 
-[Henry Stimson](https://www.google.com/url?q=https://en.wikipedia.org/wiki/Henry_L._Stimson&sa=D&source=editors&ust=1770366146475604&usg=AOvVaw1ZruYLUyKtsbSxyY5Dfngz) was a diplomat who became Secretary of State and later Secretary of War for Roosevelt. He wielded immense power as Secretary of War, and advocated for the creation of the United Nations as a tool to enforce the Peace Pact after the war.
+[Henry Stimson](https://en.wikipedia.org/wiki/Henry_L._Stimson) was a diplomat who became Secretary of State and later Secretary of War for Roosevelt. He wielded immense power as Secretary of War, and advocated for the creation of the United Nations as a tool to enforce the Peace Pact after the war.
 
-[Sumner Welles](https://www.google.com/url?q=https://en.wikipedia.org/wiki/Sumner_Welles&sa=D&source=editors&ust=1770366146476043&usg=AOvVaw16hkNNOUEPHijfuhRWm2oA) was a diplomat who rose to become Undersecretary of State before being forced to resign to prevent a scandal about his bi or homosexuality. He was one of the primary authors of the documents that would found the United Nations.
+[Sumner Welles](https://en.wikipedia.org/wiki/Sumner_Welles) was a diplomat who rose to become Undersecretary of State before being forced to resign to prevent a scandal about his bi or homosexuality. He was one of the primary authors of the documents that would found the United Nations.
 
 I leave out Kellogg and Briand, who read as largely opportunists seeking to use these ideas for their own benefit. Kellogg in the end received the Nobel Prize. As an aside, I often think a history of all the times a Nobel went to the wrong person, or someone else could have reasonably contested it, would be a fascinating and very long book.
 
@@ -91,7 +91,7 @@ A brief aside - these norms were often confusing and initially incomprehensible 
 
 Before the Pact, the expectations of everyday citizens of the world was that sovereign countries had the right to go to war. Today, most people expect the opposite: that war is unusual, morally wrong, and forbidden except in rare circumstances.
 
-The implicit belief that our current expectations of war are the only possible expectations of war is widespread, even among rationalists. Not to pick on him, but [Zvi wrote the common version of it](https://www.google.com/url?q=https://thezvi.wordpress.com/2022/03/25/ukraine-post-7-more-data-and-peace-terms/&sa=D&source=editors&ust=1770366146480888&usg=AOvVaw1VjADLI6zwhYe3Pwwl_Ete) recently:
+The implicit belief that our current expectations of war are the only possible expectations of war is widespread, even among rationalists. Not to pick on him, but [Zvi wrote the common version of it](https://thezvi.wordpress.com/2022/03/25/ukraine-post-7-more-data-and-peace-terms/) recently:
 
 "One school of thought is that Putin will consider himself entitled to keep any gains won on the battlefield, or at least any that it would make sense to keep. Whereas Ukraine most definitely can’t agree to that any time soon. It also is highly contrary to the kind of history that Putin used to justify his invasion. You very much do not get to keep whatever you happen to occupy when there is a formal peace settlement, that has never been how this works. For a guy who lectures us for hours about events from Europa Universalis this would be a very poor understanding of war score and formal borders." (emphasis added)
 
@@ -133,7 +133,7 @@ Our current economic sanctions against Russia and our providing weapons to Ukrai
 
 In the 1935 edition [of Oppenheim’s International Law], Lauterpacht added twenty pages on the Peace Pact. In the preface, he justified this major revision by saying that the Pact had “effected a fundamental change in the system of International Law.” In particular, Lauterpacht claimed, the old principle of neutrality had to be abandoned. Under the Pact, “the outbreak of war is no longer an event concerning the belligerent alone." Rather, it is the concern of the entire world. “The guilty belligerents, by breaking the [Pact], violate the rights of all other signatories, who, by way of reprisals, may choose to subject him to measures of discrimination, for instance. by actively prohibiting some or all exports into his territory. (Chapter 10)
 
-Since it began I have, as I think we all have, been trying to make sense of the war in Ukraine. What story does it best fit, and how will its future unfold? Is it the beginning of World War III, as once again a dictator with a powerful army attempts to sweep across Europe, to build or rebuild the Russian Imperium? Is it closer to [a religious crusade that will end in Kyiv](https://www.google.com/url?q=https://frenchpress.thedispatch.com/p/the-best-of-christian-compassion&sa=D&source=editors&ust=1770366146490424&usg=AOvVaw1YKWj81eLR8doorrmrYupd) or not at all? Is it [the last gasp of a demographically dying nation](https://www.google.com/url?q=https://edwest.substack.com/p/children-of-men-is-really-happening?s%3Dr&sa=D&source=editors&ust=1770366146490646&usg=AOvVaw30T-1zhIANK9CYi2JbLn3K)? Will it be the model for future wars, that countries that feel threatened can conquer their neighbors?
+Since it began I have, as I think we all have, been trying to make sense of the war in Ukraine. What story does it best fit, and how will its future unfold? Is it the beginning of World War III, as once again a dictator with a powerful army attempts to sweep across Europe, to build or rebuild the Russian Imperium? Is it closer to [a religious crusade that will end in Kyiv](https://frenchpress.thedispatch.com/p/the-best-of-christian-compassion) or not at all? Is it [the last gasp of a demographically dying nation](https://edwest.substack.com/p/children-of-men-is-really-happening?s=r)? Will it be the model for future wars, that countries that feel threatened can conquer their neighbors?
 
 I've found it useful to notice the ways, as H&S exhaustively document, that we don't live in the era of World War I, or even World War II, anymore. In the first world war, war was expected, and the web of alliances that had been built were almost designed to pull us all into war, not because we were trying to right a wrong or stop an evil, but because war was inevitable between nations.
 
@@ -186,7 +186,7 @@ Recall our list of counterclaims, #s 2 and 3.
 
 3\. World War II proves that it failed, so it wasn't important.
 
-This section tells the story of how the Peace Pact came into existence, including how influential it was on the thinkers of the time. Throughout the 1930s and 40s, thinkers and diplomats attempted to turn the Peace Pact into practice, and then, when World War II demonstrated that they needed significantly more teeth to make the Peace Pact real, created the United Nations and other international institutions dedicated to supporting the Pact’s goals. At the time, they viewed World War II as a sign that they hadn’t gotten the right combination of institutions to make the Peace Pact succeed, not that it wasn’t important. This was a classic situation of needing [More Dakka](https://www.google.com/url?q=https://thezvi.substack.com/p/more-dakka?s%3Dr&sa=D&source=editors&ust=1770366146503833&usg=AOvVaw3eB-xzEVjL6sMBmtYxM9EX) and they did, indeed, keep adding more until it worked.
+This section tells the story of how the Peace Pact came into existence, including how influential it was on the thinkers of the time. Throughout the 1930s and 40s, thinkers and diplomats attempted to turn the Peace Pact into practice, and then, when World War II demonstrated that they needed significantly more teeth to make the Peace Pact real, created the United Nations and other international institutions dedicated to supporting the Pact’s goals. At the time, they viewed World War II as a sign that they hadn’t gotten the right combination of institutions to make the Peace Pact succeed, not that it wasn’t important. This was a classic situation of needing [More Dakka](https://thezvi.substack.com/p/more-dakka?s=r) and they did, indeed, keep adding more until it worked.
 
 In an account composed more than a decade later, Jackson recounted that this view of the Pact was shared by the president and his inner circle. The Peace Pact, he reported, “left no vestige of legal right for [a state] to resort to a war of aggression. From the beginning, Roosevelt, Hull, Welles, Stimson and I had been in agreement that Hitler’s war . . . was an illegal one, and that other powers were under no obligation to remain indifferent. (Chapter 11)
 
@@ -265,7 +265,7 @@ James T. Shotwell and Salmon Levinson started us on the journey to ending war. H
 
 The legacy of Hersch Lauterpacht was nothing less than a system of rules embodying the idea that war is an illegitimate tool for establishing or enforcing legal rights.
 
-The last few years I have been celebrating [Petrov Day](https://www.google.com/url?q=http://petrovday.com&sa=D&source=editors&ust=1770366146517498&usg=AOvVaw1a6_2W38et0kF_niOsKjO_) with readings and quotes from people who changed the world. This year I’m likely going to add some recognition of Hersch Lauterpacht, Salmon Levinson, James Shotwell and the others who brought about an end to the normalcy of war.
+The last few years I have been celebrating [Petrov Day](http://petrovday.com) with readings and quotes from people who changed the world. This year I’m likely going to add some recognition of Hersch Lauterpacht, Salmon Levinson, James Shotwell and the others who brought about an end to the normalcy of war.
 
 ## Addendum 1: So, we did it, we’re all good, right?
 

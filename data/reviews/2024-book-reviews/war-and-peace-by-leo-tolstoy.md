@@ -145,7 +145,7 @@ He felt ashamed; he felt that he was occupying someone else’s place here besid
 
 *   Book 3, Chapter 2
 
-Hélène covets his wealth and manipulates him into an engagement. Being the clever man that he is, he ignores his gut and lets it happen. But as soon as they get married, Hélène goes ice cold and won’t even touch him. Even his servants pity him.[[73]](#ftnt73)
+Hélène covets his wealth and manipulates him into an engagement. Being the clever man that he is, he ignores his gut and lets it happen. But as soon as they get married, Hélène goes ice cold and won’t even touch him. Even his servants pity him.[[73]](#ftnt73) 
 
 Since he can’t seem to do anything right, Pierre decides to focus on self-work. He becomes a Mason.[[74]](#ftnt74) He also discovers feelings for a young girl named Natásha, who was raised with French tutors but somehow represents everything good and wholesome about Russia, including somehow mastering traditional Russian peasant dances.[[75]](#ftnt75)
 
@@ -221,7 +221,7 @@ The more I love humanity in general the less I love man in particular.
 
 *   Fyodor Dostoevsky, The Brothers Karamazov
 
-Of course, we saw similar ideas expressed in the character of Andrei–both the ambivalence to marriage and the emphasis on divine love. But this perspective really took hold after Tolstoy started reading Schopenhauer, who he calls a “genius among men”.[[78]](#ftnt78) Schopenhauer was famously critical of family happiness, being one of the first known proponents of anti-natalism, the theory that it's morally wrong to have children. Contrast this with his take on Nietzsche, that famous advocate of great men. Tolstoy called him an “abnormal German, suffering from power mania”.[[79]](#ftnt79)
+Of course, we saw similar ideas expressed in the character of Andrei–both the ambivalence to marriage and the emphasis on divine love. But this perspective really took hold after Tolstoy started reading Schopenhauer, who he calls a “genius among men”.[[78]](#ftnt78) Schopenhauer was famously critical of family happiness, being one of the first known proponents of anti-natalism, the theory that it's morally wrong to have children. Contrast this with his take on Nietzsche, that famous advocate of great men. Tolstoy called him an “abnormal German, suffering from power mania”.[[79]](#ftnt79) 
 
 But perhaps Tolstoy’s obsession with universal love is just another form of power mania…a testosterone-driven striving for greatness. Napoleon fought a doomed campaign to conquer Russia and Tolstoy engaged in a foolhardy quest to conquer the human spirit.
 

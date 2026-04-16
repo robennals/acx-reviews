@@ -1,5 +1,5 @@
 ---
-title: "Road of The King\_by Patrick Hoban"
+title: Road of The King by Patrick Hoban
 author: Unknown
 reviewAuthor: Anonymous
 contestId: 2024-book-reviews
@@ -7,7 +7,7 @@ contestName: 2024 Book Reviews
 year: 2024
 publishedDate: '2026-02-06T16:48:56.659Z'
 slug: road-of-the-king-by-patrick-hoban
-wordCount: 5746
+wordCount: 5763
 readingTimeMinutes: 26
 originalUrl: >-
   https://docs.google.com/document/d/1GYQw3pgvhi7hqOVR-Ql629Q_8thbyHe8sSRy5voyt30
@@ -20,6 +20,8 @@ tags:
     
 
 Computer, generate a book that will teach me how to maximize my chances of winning tournaments for the Yu-Gi-Oh! Trading Card Game. The contents must be written by one of the most prolific players of all time. Disable safety protocols.
+
+![](https://acximages.ennals.org/images/2024-book-reviews/82a9fcf01c02bd66.jpg)
 
 [Road of The King](https://www.amazon.com/Road-King-Patrick-Hoban/dp/1523990716) by Patrick Hoban is a fascinating read that promises to improve your performance in competitive games but at the risk of becoming a villain in the process.
 
@@ -38,6 +40,8 @@ But who are Timmy, Johnny and Spike? What motivates them? Why do they play the g
 
 *   Spike is the tournament player. He wants to win. He won’t be satisfied with a loss. He can be ruthless in this pursuit.
 
+![](https://acximages.ennals.org/images/2024-book-reviews/3c83099e5dbb369c.png)![](https://acximages.ennals.org/images/2024-book-reviews/0cd8894da42447f1.png)![](https://acximages.ennals.org/images/2024-book-reviews/9b018bcb20c78e85.png)
+
 The vast majority of players embody aspects of each persona, perhaps leaning harder into one or two. For an illustration of this idea, I think of myself as a Johnny/Spike. I gravitate towards interesting or unique deck types or interactions and then try to optimize them for success. A friend of mine is a Timmy/Spike. He wants to win big with aggressive, powerful strategies operating at the optimal balance of strength and efficiency. The both of us enjoy friendly banter and rapport building during a game that would make Timmy proud.
 
 We strive to increase the probability of a win to its absolute limit, but to do so in such a way that we maximize the fun had along the way. However, certain strategies are forever blocked off from us because of this. I won’t use something straightforward or overused. He won’t use something slow or defensive. We are forever handicapped by an unwillingness to choose victory over all else. Likewise, the friendly decorum of the Timmy closes off [dark arts](https://www.lesswrong.com/tag/dark-arts) that would otherwise prove helpful for securing certain advantages during play.
@@ -52,6 +56,8 @@ The foreword of the book serves to paint a picture of what kind of person Patric
 “Pat’s optimism for solving the impossible is largely responsible for his proven record of stealing tournaments with novel card interactions, time and again. His intuitive eye for abstract relationships and his willingness to attempt strategies rejected by the hive mind are what has made him the most successful player to ever touch the game, and it is why he will persist as a dominant threat in any arena he competes in. He does not see the accepted standard as correct. Pat’s mind dwells not on the way things are, but on the way things could be.”
 
 One of his most notable contributions to the game was popularizing the use of Upstart Goblin at three copies, the maximum allowed. The card is very simple. You draw 1 card and your opponent gains 1000 life points. This functionally reduces the player’s deck size from 40 cards to 37, increasing consistency for effectively no cost (as life points are essentially meaningless unless they hit zero and end the game). His whirlwind series of victories using this approach popularized the deck compression strategy and the card was jokingly referred to as “Upstart Hoban” for years.
+
+![](https://acximages.ennals.org/images/2024-book-reviews/751badfdba9b89de.png)
 
 “We got to the top because we played more, we cared more, and we were more driven. We had encountered more scenarios, had a better understanding of the relationships, and had better shortcuts. Can you enter a 1,000-person tournament honestly believing you’ve practiced more than every single other guy in the room? I could with almost every tournament I entered.”
 
@@ -125,6 +131,8 @@ If you are currently up in arms about how reductionist this classification syste
 
  He includes the following chart as a semi-helpful visual aid.1
 
+![](https://acximages.ennals.org/images/2024-book-reviews/22bf05810120062c.png)
+
 8.  ## The Mental Game
     
 
@@ -135,6 +143,8 @@ This section of the book is where Hoban truly starts to show how orthogonal the 
 The Mental Game contains all meta level knowledge and strategy that you can utilize to secure your position. This section is about leveraging all the little signals your opponent gives off that leak information. In a game of hidden information, the players are the biggest security flaw and there’s nothing in the rules preventing you from abusing that fact. This is a mental battle of information theory, bluffs and double bluffs, and subtle manipulations.
 
 As noted earlier, the very first step is to gauge your opponent’s skill level, and in so doing, learn which level of play will put you one level above them. It does no good if you bluff an opponent who won’t read into your subtle hint. Likewise, it does no good if your opponent sees right through your bluff and at the truth beneath.
+
+![](https://acximages.ennals.org/images/2024-book-reviews/c60cae05bbdddb19.png)
 
 Going a step beyond, Hoban encourages learning the current tournament scene. If skilled players consistently top events, then studying the results of recent tournaments can give you immediate material information. If you don’t recognize the name sitting across from you, then their probability of being merely an average player increases.
 
@@ -156,6 +166,8 @@ Now we truly begin to read the opponent. Everything they do, everything they say
 
 Of course, in order to do this well, Hoban warns, one must have an intimate knowledge with all meta relevant trends and standard decklists. Taking this into account, in conjunction with your opponent’s presumed skill level, can give you the appearance of mind reading if done well. If an average player is using a standard decklist and telegraphing obvious plays, then your guesswork is over. You already know what they will do and what you must do in response.
 
+![Your average plays are no match for my meta knowledge](https://acximages.ennals.org/images/2024-book-reviews/3a6bde461aedf03c.png)
+
 “We also can employ various tactics to get information out of our opponents. Most people aren’t very good at hiding information. Most people don’t even try to hide anything beyond the basic level of not playing with their hand revealed. This leaves them open for exploitation.”
 
 The path to victory is to gain every possible advantage. Over the course of a long tournament, these little accruals of probability will add up and separate the top players from those that bubble out. Any small increase in victory which is left on the table is a waste and a tragedy. In that spirit, here are some of Hoban’s recommendations to milk valuable information out of your unsuspecting opponent:
@@ -170,7 +182,7 @@ The path to victory is to gain every possible advantage. Over the course of a lo
 
 *   Abuse the helpful nature of your fellow man.
 
-“He found a way to be able to figure out who was playing Cairngorgon and who wasn’t. Justin realized that we could pick up our own Extra Deck and stare at a card for a few seconds, and then ask the opponent, “Do you have an English Cairngorgon I could read?””
+“He found a way to be able to figure out who was playing Cairngorgon and who wasn’t. Justin realized that we could pick up our own Extra Deck and stare at a card for a few seconds, and then ask the opponent, “Do you have an English Cairngorgon I could read?”” 
 
 Hoban’s circle knew that most opponent’s first reaction to a friendly request would be an obliging hand. So why not abuse this fact? His team needed to know if their opponents were using a particular card in order to evaluate the relative safety of an otherwise strong play. This knowledge would turn a coin flip into an assured victory. Throughout the entire tournament in which they performed this ploy, all players helpfully obliged them, many sealing their own doom in the process. The only one who managed to avoid doing so flat out forgot they were using the card and instead checked their trade binder rather than the cards they were using to play. Hoban’s team meanwhile leaked no useful information with this play, as they were not even using the card to begin with.
 
@@ -235,6 +247,8 @@ What he writes is factually correct and will make you more likely to win. He nev
 
 I want to win without compromising my values or making the game less pleasant for everyone. But what constitutes good sportsmanship and how do we settle disagreements about it? Where does a bluff end and an outright lie begin? Some of the stories and tactics put forth by the book caused me to cheer in shared triumph at a spectacular play and show of mental skill.3 Others caused me to literally curse the heavens in indignation.
 
+![](https://acximages.ennals.org/images/2024-book-reviews/bf5b51ef0a748630.jpg)
+
 12.  ## Conclusion
      
 
@@ -247,6 +261,8 @@ You, the reader, will absolutely walk away having learned something. But therein
 There’s value in reading Road of the King as a handbook for winning tournaments, but it’s just as interesting to see it as a window into the soul of a pure Spike, unadulterated by any Timmy or Johnny tendencies. Patrick Hoban’s philosophy about hard work and the pursuit of victory is the true draw of this book.
 
 So who is this for? Road of The King is for the narrow sliver of people who wish Seto Kaiba wrote The Sequences. If you’re one of the eight people on Earth that describes, then check it out.4
+
+![](https://acximages.ennals.org/images/2024-book-reviews/ef8ccd1be5504d93.png)
 
 * * *
 

@@ -7,7 +7,7 @@ contestName: 2025 Non Book Reviews
 year: 2025
 publishedDate: '2026-02-06T16:57:23.283Z'
 slug: getting-over-it-with-bennett-foddy-a-perfect-review-in-which-i-fail
-wordCount: 5112
+wordCount: 5113
 readingTimeMinutes: 23
 originalUrl: >-
   https://docs.google.com/document/d/1B3YxYxLVFjKGicaEkqvt353kt0uimn0PSUQv1PyaHuI
@@ -47,7 +47,7 @@ In short, what the fuck is wrong with this guy? Why is he no—
 
 ~~
 
-Any good review of Getting Over Itwith Bennett Foddy must discuss the sunk cost fallacy, because Jesus—
+Any good review of Getting Over It with Bennett Foddy must discuss the sunk cost fallacy, because Jesus—
 
 ~~
 

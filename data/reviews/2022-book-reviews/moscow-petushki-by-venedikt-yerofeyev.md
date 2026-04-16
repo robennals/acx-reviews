@@ -7,7 +7,7 @@ contestName: 2022 Book Reviews
 year: 2022
 publishedDate: '2026-02-06T07:23:14.485Z'
 slug: moscow-petushki-by-venedikt-yerofeyev
-wordCount: 8807
+wordCount: 8815
 readingTimeMinutes: 40
 originalUrl: >-
   https://docs.google.com/document/d/1kQUUJhv-MpLawby2j4zXLZPDG6ligWd5xpIjH8UmWdw
@@ -23,6 +23,8 @@ I. IF YOU WANT TO GO LEFT, GO LEFT; IF YOU WANT TO GO RIGHT, GO RIGHT
 “I, who have consumed so much that I’ve lost track of how much, and in what order – I’m the soberest man in the world.”
 
 Moscow-Petushki is a 1970 Soviet novel, a cult-classic (a phrase meaning “disliked by some, unknown by most, beloved by enough”) about a man who gets drunk on a train. Ostensibly it’s a absurdist tragic-funny text, warmly relatable to those who handled life’s troubles with the bottle  — but it’s also a desperate attempt to maintain humanity in a nightmarish world; to construct a mental shelter in the face of an totalitarian storm using the debris of one’s culture, intellectualism, and subjectivity; and to use this subjectivity communicate with you and I across time and space (yes, your fourth grade teacher was right, books are magic). It’s as much a funny-sad book about the Soviet Union as a genuinely mystical text. It’s also got recipes of cocktails you can make with eau-de-cologne and shoe polish!  
+
+![](https://acximages.ennals.org/images/2022-book-reviews/c8f40460a8b603e7.jpg)
 
 And it’s written by this man, Venedikt Yerofevev. A straight-A student expelled from one university for not showing up, and from another for reading the bible, he worked as a cable-layer, a drunk-tank warden, and drank a lot. His mother abandoned him as a kid; his father spent 16 years in the gulags. It’s speculated Yerofevev’s alcoholism was a way to avoid the notice of the KGB.
 
@@ -90,9 +92,15 @@ Shall I tell you what they were like? There’s really nothing to it: on a sheet
 
 Here, for instance, is the chart of one Victor Totoshkin, Komsomol member: enjoy …
 
+![](https://acximages.ennals.org/images/2022-book-reviews/587ee34ec8791890.jpg)
+
  And this is Alexei Blindyaev, Communist Party member since 1936, and shagged-out old creep:
 
+![](https://acximages.ennals.org/images/2022-book-reviews/1ea1b0431afd5ecd.jpg)
+
 And behold – your humble servant, ex-brigade leader of the OTC cable layers, and author of the poem [Moscow-Petushki]
+
+![](https://acximages.ennals.org/images/2022-book-reviews/370b35183c9bc33b.jpg)
 
 Interesting lines, n’est-ce pas? […] Anyway, to the seeker after truth (like myself, for example), those lines let every cat out of every bag about man and the human heart: about his virtues, from the sexual to the practical, and his failings, from the practical to the sexual; about his degree of mental equilibrium, his aptitude for treachery, and all the secrets of his subconscious, if indeed he’s got any.
 
@@ -126,7 +134,9 @@ II. GRACEFUL AND NECESSARY SELF-DESTRUCTION
 
 I’d call Moscow-Petushki “loser-fiction” (Eduard Limonov’s messed-up ‘83 novel Diary of a Loser, a Russian emigre’s fantasies of violence, homoeroticism, and resentment, is the guiding star of the constellation). While Venya is undoubtedly a loser, his Brezhnev-era context questions how responsible he is for his unenviable state. Being a loser in a paper office in Slough in 2001 is different from being a loser on a rattling commuter train in 1970s Moscow. Limonov talked of always remaining loyal to the “glorious tribe of losers”, and while I’d hesitantly put Venechka amongst storytelling’s loser-tribe, I posit losers exist at both tips of a horseshoe-like spectrum, with a loser like the American boss from the Office on one tip — sorry I don’t remember is name — and Venya on another (the middle of the shoe is “not losers”). This is defined by how debased their environment is. Here’s a highly scientific diagram.
 
-I refer to the Office, because Moscow-Peutski brings to mind Ventakesh Rao’s RIbbanfarm post about cringe and shadow [[https://www.ribbonfarm.com/2021/10/05/storytelling-cringe-and-the-banality-of-shadows/](https://www.google.com/url?q=https://www.ribbonfarm.com/2021/10/05/storytelling-cringe-and-the-banality-of-shadows/&sa=D&source=editors&ust=1770366184534264&usg=AOvVaw2tkP4CoyntgoQ3FEwEz372)]. I mean, Venya is a sad failure, with a girlfriend and son, spending his attention on drink and self-pity. Something cringe-adjacent is happening, and I’ll explain what.
+![](https://acximages.ennals.org/images/2022-book-reviews/06f3138bceb34ebe.jpg)
+
+I refer to the Office, because Moscow-Peutski brings to mind Ventakesh Rao’s RIbbanfarm post about cringe and shadow [[https://www.ribbonfarm.com/2021/10/05/storytelling-cringe-and-the-banality-of-shadows/](https://www.ribbonfarm.com/2021/10/05/storytelling-cringe-and-the-banality-of-shadows/)]. I mean, Venya is a sad failure, with a girlfriend and son, spending his attention on drink and self-pity. Something cringe-adjacent is happening, and I’ll explain what.
 
 Rao writes:  “… what truly makes cringe is not that you’re watching a train wreck unfold, but that the train wreck is meaningless. It is sound and fury signifying nothing. There is no grand truth, either personal or universal, being tragically unveiled by cringe. Nobody learns anything because there’s nothing much to learn, even though there is plenty to lose. Cringe is the spectacle of graceless and unnecessary self-destruction that serves no lofty, ennobling purpose. It’s just stuff reasonable people would figure out how to avoid.”
 
@@ -282,7 +292,7 @@ Venya’s world, meanwhile, is real, brutal, and completely controlled. His syst
 
 So, yes, both construct their own reality. Adams, spectrally drifting and unmoored in meaningless digitalism, constructs a spectacle-reality in which to be a successful blogger. Venya, trapped in crushing Breznevian misery, builds a booze-world as a bolthole from his pain, in which he can be human (and dodge responsibilities to his girlfriend and son). It’s a shame that his bolthole is filling up with vodka, and he’s going to drown.
 
- 
+![](https://acximages.ennals.org/images/2022-book-reviews/a3c5648f9c3f607b.jpg) 
 
 A classic Moscow-Petushki book cover. Shades of Wally from Dilbert?
 
@@ -321,6 +331,8 @@ Venya and friends are ruled by a stagnant dysfunctional system making strong obj
 It would also be incorrect to say that this debris finds no practical use: the Biblical references in much of Venya’s sympathies almost provide a functional system for his love. The angels help, too. The debris of Christianity, as it exists in a Soviet alcoholic, infuses with grandeur and kindness both the suffering of the poor man and of those around him. With his debris, religious and intellectual, Venya is adapting to an inhumane world with the humanity he has available. He’s preserved his curiosity, energy and humanity in an alcoholic magic kingdom. It kind of works. But it can only work for so long.
 
 VII. AN EXTREMELY NASTY RIDDLE
+
+![](https://acximages.ennals.org/images/2022-book-reviews/3e3259c25bd5ca4c.jpg)
 
 An appropriate Moscow-Petushki book cover  
 
@@ -437,6 +449,8 @@ Nobody gets to Petushki, where the jasmine grows.
 Let’s leave the rest of the book shrouded in darkness. I will only say it’s tragedy upon tragedy. A blend of hallucinations and reality, but even the hallucinations are reality, because of course all events in this book are real. The house of cards is swept aside by a veiny Soviet arm, and everything is annihilated.
 
 VIII. END OF THE LINE
+
+![](https://acximages.ennals.org/images/2022-book-reviews/3dc6b9fb7edf0a62.jpg)
 
 The central square of Petushki, in real life, as of 2003.  
 

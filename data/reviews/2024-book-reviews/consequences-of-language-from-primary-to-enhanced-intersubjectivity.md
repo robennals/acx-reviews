@@ -7,7 +7,7 @@ contestName: 2024 Book Reviews
 year: 2024
 publishedDate: '2026-02-06T16:47:15.599Z'
 slug: consequences-of-language-from-primary-to-enhanced-intersubjectivity
-wordCount: 9690
+wordCount: 9704
 readingTimeMinutes: 44
 originalUrl: >-
   https://docs.google.com/document/d/1AXmWgSbh_TFsoZuApSCSEoz57yn93CM5YYhtaO_s4W4
@@ -37,11 +37,17 @@ This fictional interlude illustrates how intersubjectivity is typically defined:
 
 Consequences illustrates activity and accountability with an ethnographic observation, of two monks working a two-man saw.
 
+![](https://acximages.ennals.org/images/2024-book-reviews/f7adba319d75ae3d.jpg)
+
 Each monk unconsciously expects the other to pull the saw as soon as the first has finished his turn pulling. Consciously, they may be thinking about anything at all, perhaps what is for lunch, (no wait, I'm sure they're in profound meditation!) but should the second monk slack off and forgo his turn pulling, then the first will probably be surprised and upset and demand an explanation. By beginning the sawing task together, the monks have implicitly committed themselves to certain expectations: to pull when it's your turn, to free the saw when it gets stuck and so on. By ordaining as monks, they have taken on more explicit and durable commitments: to always wear the monks’ robes, to only eat between dawn and noon, and numerous other religious rules governing monastic life. These broader commitments are scaled up versions of the transient commitments the monks take on when they saw, and violations attract rebuke in much the same way. Joking about lax monks who eat after noon, the locals '''say that after midday, monks “don’t eat rice” (the Lao idiom meaning “having a meal”), then they laugh and joke that monks might have fruit or noodles instead.’’’
 
 It might be worth mentioning at this point that the authors are linguistic anthropologists who travel the world recording everyday conversations, and later analyze the recordings for linguistic insights. They have no fetish for noble savages, and their sites include unromantic locations such as America and Russia.
 
 They observed Laotian villagers weaving reed mats, which is harder than it looks. When the weaving got derailed, the villagers spoke to each other to get it back on track, clarifying exactly what needed to be done, how, which was the right color of reed, and so on. This is another illustration of how people had expectations of each other in the service of a shared goal, and worked to repair their interaction when it broke down.
+
+![](https://acximages.ennals.org/images/2024-book-reviews/1e23a9eb9827f53f.jpg)
+
+![](https://acximages.ennals.org/images/2024-book-reviews/8eb58fa468db378e.jpg)
 
 Generalizing these examples highlights characteristics of social norms: expected behavior passes without comment, while unexpected behavior is called out, and observers try to infer and pass judgment on the reason for violating the norm. The mat-weaving husband indicated he couldn't tie off the reed properly because he had no weaving experience, and his wife's chidings were only half-serious. Contrastingly, the joke about the monks eating after noon has a bit of acidity. Presumably the villagers inferred the snacking monks were negligent, and passed judgment on their character.
 
@@ -108,6 +114,8 @@ I have consistently chosen mechanical metaphors for the social system, such as c
 
 Back to alienated Americans. Goffman illustrates his thesis with observations from a backyard barbeque.
 
+![](https://acximages.ennals.org/images/2024-book-reviews/7171c47f6344b8e7.jpg)
+
  “‘The men have been telling dirty jokes…Curt, who is Carney’s cousin, is telling a joke to Gary, which he presents as a true story, about the time that he and Mike were captured by the enemy in Vietnam. … At this point, Carney turns to her cousin Curt and says, “You forget I’m here.” By saying this, Carney is suggesting that she can disconfirm what Curt is saying. Indeed, Curt, who has persevered in the face of multiple challenges by Gary, here appears to acquiesce to Carney. Not only does he suspend the telling in progress, saying “Alright,” he joins with Carney in a bout of laughter. In this way, Curt displays that he has been “caught out” by Carney and does not in fact proceed with the telling until Carney instructs him with, “Go on.” Notice, then, that in formulating this in the way she does, Carney characterizes her own participation as something that has been treated by others as equivocal, ambiguous, or peripheral— as someone who, though present, can be, and has been to this point, disattended and, in fact, forgotten. A closer study of this episode (Sidnell 2011) argues that this equivocality is carefully managed by the participants, and especially by Carney, in such a way as to avert potential recipient design problems implicated in the telling of dirty jokes (again illustrating the normative nature of contact).’”
 
 The authors do not claim that Carney consciously thinks to herself about “recipient design problems” in those terms, but rather that she can, unconsciously, keep track of how others are likely to view her, and can formulate a strategy to optimize this. Such social strategizing occurs even in situations which are apparently casual and cooperative.
@@ -124,11 +132,17 @@ The chapter closes with the unsupported assertion that mediated participation–
 
 In 421 BC, Sophocles introduced to Athens the worship of the renowned healer god Asklepios. The previous healer god, Amynos, had conspicuously failed to cure the ongoing pestilence. This is much the same strategy as firing the general when you are losing a war for technological reasons, or electing a different prime minister when the economy is bad. If you can't actually affect the outcome, better to publicly take some dramatic action. You are in power only if everybody acts as if you're in power only if you act as if you're powerful.
 
+![](https://acximages.ennals.org/images/2024-book-reviews/928c6bda1989cab7.jpg)
+
 Asklepios receives worshippers. The snake and the staff complete the healer's look.
 
 Inferring what others act as though they believe: you might think it's a bug in human inference, a quick heuristic used for social learning. You know better than to rely on heuristics. You read Richard Dawkins. You compute prior probabilities. You use System II, and see through the political tricks that fool the sheeple. Right?
 
 Probably not, if you are able to hold a basic conversation.
+
+![](https://acximages.ennals.org/images/2024-book-reviews/8c8f6a9b2e4c52f3.jpg)
+
+![](https://acximages.ennals.org/images/2024-book-reviews/bbaf262a1fedfe8b.jpg)
 
 “‘Here, when Dick asks, “How are you?” (in line 4) Deb’s response, “I’m fine,” is not a mere automatic, conditioned response. It displays a detailed understanding of Dick’s turn. First, by starting to talk at this moment (and not earlier), Deb’s talk at line 5 shows an understanding that Dick’s turn in line 4 was likely finished. Second, by saying “I’m fine”— which here constitutes an answer to Dick’s question— Deb demonstrates that she heard the previous turn to be a question. Third, by answering with a description of her personal state, Deb shows that she understands the kind of question it was (i.e., a content question rather than a yes-no question…). And fourth, by responding with fine rather than terrible or fantastic, Deb shows an understanding of what this question is doing in this environment, that is, that it is a routine opening inquiry, not to be taken literally.”’
 
@@ -140,7 +154,11 @@ Linguists can spend 50 years analyzing a single barbeque that happened in the 70
 
 Let's look at cases where expectations weren't met, and see how people react.
 
+![](https://acximages.ennals.org/images/2024-book-reviews/d096da2ce3beb30f.jpg)
+
 Roger produces something other than an answer, then is silent, then gives a wrong answer. Each time, Mother recognizes that Roger isn't on the same page and makes some attempt to repair the confusion. Her attempts are each based on a theory that potentially explains Roger's confusion: first she repeats, since he may not have heard, then she tries a simpler task, presuming that the first task was too hard.
+
+![](https://acximages.ennals.org/images/2024-book-reviews/eb2e8ff094585965.jpg)
 
 In this fragment, Betty has to interrupt herself and quickly counter Ann's proposal to have a bite. If Betty just continued, not commenting on the meal invitation, then her continuation of the conversation would imply acquiescence. She has to clarify a second time when Ann takes her literally.
 
@@ -160,6 +178,8 @@ There's a lot of very weird understudied life forms and the authors are over-con
 
 Consequences gives a very elegant illustration of shared intersubjective reference, of which metalinguistic self-reference is a special case.
 
+![](https://acximages.ennals.org/images/2024-book-reviews/1fb70106da3a74c9.jpg)
+
 “‘In the first frame, Viv (in the foreground) is telling Baga (in the background) about a man she thinks he might know but whose name he does not recognize. When the description given allows Baga to identify the person Viv is talking about, he points up the hill to his right (second frame). Notice that when Baga initially points, his own gaze is directed to the place he is indicating with his finger. … In the third frame, he maintains the pointing gesture but now gazes toward Viv, apparently to check whether his reference has been successful— checking, that is, on his recipient’s focus of attention. … He finds Viv pointing to the same place and the two engage in a moment of mutual gaze (last frame).’”
 
 So then, how did protohumans get from gestures to language? Consequences thinks the first word may have been “Huh?”, which “‘is found in every known language.’” Imagine one protohuman is beckoning to another. Instead of coming closer, the second protohuman says “Huh?” “‘The interjection is metacommunicative insofar as it is about the communicative action just made by another agent. This is the wedge that introduces metalanguage into a not-yet-linguistic system. Then imagine that this response promotes the redoing of the gesture. In turn, the link between the interjection of puzzlement and the redoing of the not-yet-understood gesture becomes ritualized and so may be used again to achieve the same end— a repetition of the previous communicative move— either by this protohuman or by another who happened to witness the events unfold. We can imagine here a shift from learning via ontogenetic ritualization to imitation, that is, conventional transmission, the beating heart of language and culture. Would this constitute language? No, but it would explain how you can have metalanguage prior to the establishment of language as we know it.
@@ -169,6 +189,8 @@ This leads to the other of the two component puzzles: how system-like relations 
 What happened at the moment of apotheosis, when the up-and-to-the-right trajectory of human civilization began? Was it like in 2001, where mysterious monoliths endowed our prefrontal cortices with the divine spark of consciousness? No, it was just one confused ape who said “huh?”, and then BOOM! there was self-reference and grammar and our glorious destiny began to unfold.
 
 Such elaboration of grammar and vocabulary from humble beginnings plays out as children are learning to speak. They start with interjections, such as “no!”, and build up to phrases that are purely social, such as “Look, mom!” or “I'm a fire truck”, rather than material references: “I would like you to change my diaper,” or “What are the properties of bicycles?” If children want to accomplish something in the material world, they can just cry, no language needed.
+
+![](https://acximages.ennals.org/images/2024-book-reviews/01acabae7cbcac53.jpg)
 
 (“Where are you going?” “To pick up the human infants from daycare.”)
 
@@ -200,13 +222,15 @@ Believing our own bullshit comes from maximizing our own reputation; how we thin
 
 ## The Part Where I Actually Review the Book
 
-[Consequences of Language: From Primary to Enhanced Intersubjectivity](https://direct.mit.edu/books/oa-monograph/5499/Consequences-of-LanguageFrom-Primary-to-Enhanced)by N. J. Enfield and Jack Sidnell ([open-access PDF](http://direct.mit.edu/books/book-pdf/2231213/book_9780262372749.pdf)) is great! You should read it.
+[Consequences of Language: From Primary to Enhanced Intersubjectivity](https://direct.mit.edu/books/oa-monograph/5499/Consequences-of-LanguageFrom-Primary-to-Enhanced) by N. J. Enfield and Jack Sidnell ([open-access PDF](http://direct.mit.edu/books/book-pdf/2231213/book_9780262372749.pdf)) is great! You should read it.
 
 Wait, you wanted insightful criticism? Well, OK…
 
 Their account of intersubjectivity is true but incomplete. As a non-expert, I can easily think of things besides action and accountability that produce intersubjectivity. Probably someone who put in more effort could find more holes.
 
 Starting in 1947, the De Beers diamond cartel ran a series of ads which created the tradition of diamond engagement rings, and so clearly modified the intersubjective ledger.
+
+![](https://acximages.ennals.org/images/2024-book-reviews/7c3a766425c8f7f7.jpg)
 
 If you were very creative, you might be able to wring action or accountability from some element of this ad. A better approach, though, is to acknowledge what is by far the most salient element: fantasy. The painting, “Lover's Dream”, has a surreal feel. The woman's figure is elongated, like an Etruscan statue or a El Greco painting[4]. The rose and diamond are weirdly large, the mountains are conical, and she modeled for the portraitist during an eclipse. The next largest element is the slogan, seemingly calligraphed with a brush in cursive, which portrays neither action nor accountability. Third largest is a sort-of poem, which reads “
 
@@ -231,6 +255,8 @@ the mysteries of intersubjectivity, which has a language all its own, sweet and 
 *   Nick Enfield has a [solo book](https://www.google.com/books/edition/Language_vs_Reality/PKzIEAAAQBAJ?hl=en) which I haven't read but seems less academic and more philosophical. He was [interviewed](https://braininspired.co/podcast/166/) about it on the Brain Inspired podcast.
 *   MIT publishes a [ton](https://direct.mit.edu/books/search-results?fl_SiteID=5&f_ContentType=Book&access_openaccess=true) of open access books. I like browsing them, because it's an essentially friendly experience, like spending the day in a bookshop and reading as much of each book as I want before deciding. No paywalls, ads, or newsletters, so I don't have to be on the defensive.
 *   At the beginning of this review, when I railed against the poor writing of the galaxy-brains, I was mostly just describing the writing of Slavoj Žižek. The examples he uses to support his theories are so diverse that they give his books a surreal, dream-like feel. One of his books contains the sentence: “The space in which the (un)dead can talk without moral constraints, as imagined by Dostoevsky, prefigures this Gnostic-cyberspace dream.” [5] Of the handful of his books that I've read, the most compatible with ACX readers is [The Sublime Object of Ideology](https://archive.org/details/sublimeobjectofi0000ieks). It's his first book, and it's written quite differently. Here, he precisely defines new jargon, then uses his previously defined concepts later to build up a tower of abstractions. I was constantly using Ctrl-F to find where terms were defined. It felt like I was reading an abstract algebra textbook, or like I was manually linking and compiling a C++ program. Sublime is hard to understand, but it's hard to understand in a way that might work for some of you, and if you take the time to reconstruct his tower of abstractions in your own mind, then you'll discover that it hangs together. As far as I know, this book is the closest we have to a textbook on intersubjectivity which covers everything I consider important.
+
+![](https://acximages.ennals.org/images/2024-book-reviews/1f11a411c0613247.jpg)
 
 Diagrams I made to understand the last chapter of Sublime illustrate that it's difficult but possible to link together all the concepts. Don't bother deciphering my notes; decipher the book instead.
 

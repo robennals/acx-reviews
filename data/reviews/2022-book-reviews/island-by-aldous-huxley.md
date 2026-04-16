@@ -7,7 +7,7 @@ contestName: 2022 Book Reviews
 year: 2022
 publishedDate: '2026-02-06T07:23:14.477Z'
 slug: island-by-aldous-huxley
-wordCount: 2740
+wordCount: 2743
 readingTimeMinutes: 13
 originalUrl: >-
   https://docs.google.com/document/d/1kQUUJhv-MpLawby2j4zXLZPDG6ligWd5xpIjH8UmWdw
@@ -21,7 +21,7 @@ tags:
 
 "People, he was beginning to understand, are at once the beneficiaries and the victims of their culture. It brings them to flower; but it also nips them in the bud or plants a canker at the heart of the blossom. Might it not be possible, on this forbidden island, to avoid the cankers, minimize the nippings, and make the individual blooms more beautiful?"
 
-What is the best way to run a society? What structure of people leads to the greatest amount of flourishing? Sure, a [wizard's decentralized libertarian archipelago](https://www.google.com/url?q=https://slatestarcodex.com/2014/06/07/archipelago-and-atomic-communitarianism/&sa=D&source=editors&ust=1770366184174308&usg=AOvVaw28pwpSHjhhVSuyPMfhvgqr) might be the best collection of societies, but what does the best island within that collection look like?
+What is the best way to run a society? What structure of people leads to the greatest amount of flourishing? Sure, a [wizard's decentralized libertarian archipelago](https://slatestarcodex.com/2014/06/07/archipelago-and-atomic-communitarianism/) might be the best collection of societies, but what does the best island within that collection look like?
 
 In the novel Island, author Aldous Huxley imagines such a community.
 
@@ -32,6 +32,8 @@ You may know that Huxley was also the author of Brave New World, which was a dys
 (I have forgone the trite I, II, III section breaks in favor of ATTENTION - this is the word repeated by Myna Birds strewn throughout Pala to keep people in the present)
 
 In most fiction, utopia is portrayed like this:
+
+![](https://acximages.ennals.org/images/2022-book-reviews/aae2fa1cab061723.png)
 
 Which is to say, it's portrayed like a technological wonderland. The Culture, Wakanda, Laputa - all societies that are seen as better than ours, because they are more technologically advanced.
 
@@ -58,6 +60,8 @@ First the socialist part: their society "doesn't permit anybody to become more t
 Then, the libertarian part: "Better still, we have no omnipotent politicians or bureaucrats. Pala's a federation of self-governing units, geographical units, professional units, economic units—so there's plenty of scope for small-scale initiative and democratic leaders, but no place for any kind of dictator at the head of a centralized government." 
 
 To me, this sounds like a left-libertarian’s paradise. Society generally follows the will of the people, but gets distorted by two key factors - money and power. Pala puts caps on both of these.
+
+![](https://acximages.ennals.org/images/2022-book-reviews/d32c58b40e4d1aa6.png)
 
 For recreation, the primary hobbies are sex and drugs. Well, kind of - more like tantric sex and psychedelics.
 
@@ -97,7 +101,7 @@ The Muscle Man corresponds to what in 2022 terms, we would call toxic masculini
 
 How do you fix a muscle man? Teach them to be open with their feelings. Give them other outlets for their aggression - mountain climbing, cutting down trees, taking long hikes.
 
-### 
+### ![](https://acximages.ennals.org/images/2022-book-reviews/fce75239e50323f1.png)
 
 Machismo is a local maximum for self confidence. It’s near impossible to leave it once you’re already in it, because you have to cross the pit of despair. But being open with your feelings is a global maximum - it gives you a good amount more self confidence than machismo, and it has the benefit of not being inherently toxic.
 

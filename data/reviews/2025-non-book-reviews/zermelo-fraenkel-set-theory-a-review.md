@@ -7,7 +7,7 @@ contestName: 2025 Non Book Reviews
 year: 2025
 publishedDate: '2026-02-06T16:55:59.408Z'
 slug: zermelo-fraenkel-set-theory-a-review
-wordCount: 5797
+wordCount: 5798
 readingTimeMinutes: 26
 originalUrl: >-
   https://docs.google.com/document/d/1jYVJFIz5-aMi0LCgsC9AN6BncJDNVGaMU37QmwZ1vzA
@@ -27,7 +27,7 @@ A final word before the review starts for real: though I have a PhD in math, I a
 
 So, what is ZFC? ZFC is a system of rules, or axioms, governing a certain kind of mathematical object, “sets”. The rules tell us what we’re allowed to do with sets, how we can combine sets, how we can make new sets from old sets. So it probably helps to start with what a set is.
 
-The naive idea of a set (that is, a concept of sets without a full axiomatization a la ZFC) emerged in the mid-late 19th century from the work of Cantor and Dedekind. There is much (much!) to say about this, but the intuitive core is that a set is a collection of objects; we'll see later we may need to take some care about what counts as an allowable “object” for a set, but in naive set theory we don't know that yet. The objects inside a set are called its “members” or “elements”, and if an object a is in a set S, we denote that a∈S (read this as: a is in S” or “a is a member of S”) . We can also write a set explicitly by putting its members inside curly brackets, like so: S\={x,y}— this says that S is a set whose members are x and y, whatever those are. So we can also say x∈S, y∈S.
+The naive idea of a set (that is, a concept of sets without a full axiomatization a la ZFC) emerged in the mid-late 19th century from the work of Cantor and Dedekind. There is much (much!) to say about this, but the intuitive core is that a set is a collection of objects; we'll see later we may need to take some care about what counts as an allowable “object” for a set, but in naive set theory we don't know that yet. The objects inside a set are called its “members” or “elements”, and if an object a is in a set S, we denote that a∈S (read this as: a is in S” or “a is a member of S”) . We can also write a set explicitly by putting its members inside curly brackets, like so: S\={x,y}— this says that S is a set whose members are x and y, whatever those are. So we can also say x∈S, y∈S. 
 
 We mostly consider the members of a given set to be other sets (many of the examples  that follow will seem to be sets of numbers, but actually there are clever ways to recast sets of numbers as sets of sets); many of the axioms of ZFC turn out to be related to helping us with certain “starting sets” that we can use to build other sets; telling us how to take the sets we already have and make new sets; and what restrictions there are on which sets can be members of other sets (i.e., can a set be a member of itself?)
 
@@ -41,7 +41,7 @@ The next few axioms tell us how we can create new sets out of old sets by combin
 
 One axiom tells us we can always take the union of sets, we can collect up the members of two sets and combine them into a bigger set. The union of two sets is denoted by the symbol ∪  and it’s important to remember that if some member is in each of the two sets whose union we are calculating, because order and number don’t matter, that member only appears once in the union.  
 
-So, as a quick example: if S={x,y},T={y,z} then S∪T\={x,y,z}.
+So, as a quick example: if S={x,y}, T={y,z} then S∪T\={x,y,z}.
 
 Another axiom tells us that given two sets x and y, there is always a set containing these two sets as members. Crucially, x and y don’t have to be different: our two sets can be x and x again, so the set containing these is the set {x,x}={x}—so this axiom also tells us that given any set x, there is also a set containing that set.
 

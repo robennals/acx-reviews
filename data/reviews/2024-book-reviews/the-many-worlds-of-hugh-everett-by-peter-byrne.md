@@ -1,5 +1,5 @@
 ---
-title: "The Many Worlds of Hugh Everett\_'' by Peter Byrne"
+title: The Many Worlds of Hugh Everett '' by Peter Byrne
 author: Unknown
 reviewAuthor: Anonymous
 contestId: 2024-book-reviews
