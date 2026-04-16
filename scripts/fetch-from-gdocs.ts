@@ -41,10 +41,17 @@ const turndownService = new TurndownService({
   codeBlockStyle: 'fenced',
 });
 
-// Remove Google Docs styling spans that add no value
+// Remove Google Docs styling spans that add no value.
+// IMPORTANT: must not strip spans that wrap images — Google Docs wraps every
+// inline image in a <span style="display:inline-block;..."><img/></span> with
+// no text content, and our earlier version of this rule silently dropped them.
 turndownService.addRule('removeEmptySpans', {
   filter: (node) => {
-    return node.nodeName === 'SPAN' && !node.textContent?.trim();
+    if (node.nodeName !== 'SPAN') return false;
+    if (node.textContent?.trim()) return false;
+    // Preserve spans that contain any image descendant.
+    if ((node as Element).querySelector?.('img')) return false;
+    return true;
   },
   replacement: () => '',
 });
