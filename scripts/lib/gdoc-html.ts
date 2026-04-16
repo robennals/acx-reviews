@@ -69,12 +69,17 @@ function parseGDocStyles(html: string): GDocStyleMap {
     if (/font-style\s*:\s*italic/.test(props)) {
       italicClasses.add(cls);
     }
-    // Detect meaningful left indentation (blockquote-like).
-    // Google Docs uses margin-left for indented paragraphs.
-    // Ignore small indents (text-indent for first-line) — only catch
-    // margin-left >= 18pt which typically indicates a block indent.
+    // Detect meaningful indentation (blockquote-like).
+    // Google Docs uses two patterns for indented/quoted text:
+    //   1. margin-left >= 18pt  (block-level left indent)
+    //   2. text-indent >= 24pt  (deep first-line indent, distinct from the
+    //      normal ~13.5pt first-line indent used for body paragraphs)
     const marginMatch = props.match(/margin-left\s*:\s*(\d+(?:\.\d+)?)pt/);
     if (marginMatch && parseFloat(marginMatch[1]) >= 18) {
+      indentClasses.add(cls);
+    }
+    const textIndentMatch = props.match(/text-indent\s*:\s*(\d+(?:\.\d+)?)pt/);
+    if (textIndentMatch && parseFloat(textIndentMatch[1]) >= 24) {
       indentClasses.add(cls);
     }
   }
@@ -120,16 +125,49 @@ function applySemanticTags($: CheerioAPI, styles: GDocStyleMap): void {
     });
   }
 
-  // Blockquote: wrap indented paragraphs
+  // Blockquote: group consecutive indented paragraphs into a single
+  // <blockquote> so they render as one block, not many separate quotes.
   if (styles.indentClasses.size > 0) {
-    $('p').each(function () {
-      const el = $(this);
+    const allP = $('body > p, body > div > p').toArray();
+    let i = 0;
+    while (i < allP.length) {
+      const el = $(allP[i]);
       const classes = (el.attr('class') || '').split(/\s+/);
       const isIndented = classes.some(c => styles.indentClasses.has(c));
+
       if (isIndented && el.text().trim()) {
-        el.wrap('<blockquote></blockquote>');
+        // Start of an indented run — collect consecutive indented paragraphs
+        const runStart = i;
+        while (i < allP.length) {
+          const curr = $(allP[i]);
+          const currClasses = (curr.attr('class') || '').split(/\s+/);
+          const currIndented = currClasses.some(c => styles.indentClasses.has(c));
+          // Also skip empty paragraphs between indented ones (blank lines in quotes)
+          const isEmpty = !curr.text().trim();
+          if (currIndented || (isEmpty && i > runStart && i + 1 < allP.length)) {
+            // Peek ahead: if empty and next is also not indented, stop
+            if (isEmpty) {
+              const next = $(allP[i + 1]);
+              const nextClasses = (next.attr('class') || '').split(/\s+/);
+              const nextIndented = nextClasses.some(c => styles.indentClasses.has(c));
+              if (!nextIndented) break;
+            }
+            i++;
+          } else {
+            break;
+          }
+        }
+
+        // Wrap the entire run in a single <blockquote>
+        const bq = $('<blockquote></blockquote>');
+        $(allP[runStart]).before(bq);
+        for (let j = runStart; j < i; j++) {
+          bq.append(allP[j]);
+        }
+      } else {
+        i++;
       }
-    });
+    }
   }
 }
 

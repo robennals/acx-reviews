@@ -7,7 +7,7 @@ contestName: 2026 Book Reviews
 year: 2026
 publishedDate: '2026-03-19T05:50:01.000Z'
 slug: careless-people-a-cautionary-tale-of-power-greed-and-lost-idealism
-wordCount: 6192
+wordCount: 6269
 readingTimeMinutes: 28
 source: gdoc
 tags:
@@ -41,7 +41,7 @@ But I think Wynn-Williams subtly misdiagnoses the moral of her own life’s stor
 This is a review of not only _Careless People_, but also “Careless People”, a noun phrase that uses a less-than-perfect choice of adjective, despite the powerful connotations it evokes with its reference.
 
 > They were careless people, Tom and Daisy—they smashed up things and creatures and then retreated back into their money or their vast carelessness, or whatever it was that kept them together, and let other people clean up the mess they had made.
-
+> 
 > — _[The Great Gatsby](https://www.gutenberg.org/ebooks/64317)_
 
 The comparison between Meta’s CEO and Fitzgerald’s characters is apt, yet falls short in a way that should cause concern.
@@ -71,37 +71,37 @@ Like when describes an incident she experienced when she was 13, notable enough 
 …which gets only more harrowing, and interest, _after_ her rescue:
 
 > No one is in a hurry. No one asks me what happened. The doctor cleans the wound, pulls the skin around the jaw marks together, and stitches it up so there’s no longer a chunk missing. He gives me a tetanus shot and warns my parents that I might be a little dramatic that night because I might be in shock but I’d be fine. I obviously was a fighter. Everyone laughs.
-
+> 
 > We return to the campground. I’m allowed to stay in the camper rather than head under the attached awning with my three siblings because I’m in pain, which the doctor had told me and my parents to expect, some mild pain from the stitches. Very quickly I realize this pain is not mild. It’s searing. I start vomiting up blood and these thick, dark, sticky clots that look like coffee grounds, which I assume is stomach lining but I know nothing about the human body. I pull out a large red plastic cup to collect it so I don’t get the camper dirty.
-
+> 
 > Everyone else goes to bed but I can’t sleep. It keeps getting worse and worse. I feel like I’m on fire. I wait, quiet as possible so I don’t wake anyone. After a while, the red cup is full and I’m onto another. The pain is excruciating.
-
+> 
 > Eventually I wake my parents.
-
+> 
 > “I’m on fire. I’m burning up inside.”
-
+> 
 > “Go back to sleep. You’ll be fine.”
-
+> 
 > This continues throughout the night:I wake my parents, they tell me that the doctor said I’d be fine. We’ll all learn later what actually is happening. The shark had bitten through my bowel in several places, so it’s like I’ve been stabbed multiple times. The blood and the contents of my bowel are leaking into my gut, basically poisoning me. I have sepsis, acute peritonitis. Eventually there is so much of this toxic blood liquid that it floods through my body and flows into my lungs, making it increasingly difficult to breathe. Like I’m suffocating.
-
+> 
 > I wake my parents again.
-
+> 
 > “I can’t breathe. I can’t breathe. I can’t get the air in.”
-
+> 
 > My mother—tired of being woken—responds in an authoritative voice, “Mind over matter. Stop that hyperventilating.” This has become a family joke. Now anytime one of us mentions anything, a cold or a cut or appendicitis, we respond, “Mind over matter. Stop that hyperventilating.”
-
+> 
 > We later learn that my left lung has collapsed from a pulmonary edema. And my right lung is damaged.
 
 The next morning, after her parents finally recognize the danger and take her back to the doctor, things take a turn for even darker:
 
 > Next thing I know, the doctor comes back. Gets out a very large blade like a mini ax and starts thwacking it down, carving into my left arm. Then my right arm. It’s like I’m a piece of meat being hacked open. No anesthesia. No warning. And I’m beyond the point where I have any control over my own body. I can’t move or speak. I can’t raise any alarm.
-
+> 
 > I’d thought the shark attack was more pain than a person can bear, the worst that could happen. I was wrong.
-
+> 
 > The doctor repositions himself near my ankle and brings the blade down with force, splitting the skin and plunging the blade to the bone. Why is the doctor hacking open my ankles? The only explanation I can muster is that he thinks I’m already dead. I’m experiencing my own autopsy.
-
+> 
 > …
-
+> 
 > I later learned it wasn’t an autopsy. They knew I was alive. I’d lost so much blood that the doctors believed if they didn’t get intravenous blood into me immediately, I would die. In severe trauma cases where it’s impossible to find a vein, because blood pressure is so low, it’s standard ER procedure to slice into the arms or ankles. That’s why I have one-inch scars on my arms and legs. (They’re positively delicate compared with the scars on my stomach from the jaw marks.) There wasn’t time to give me anesthetic or explain. I don’t think the doctors expected me to live. By the time they loaded me up into the helicopter, I don’t think anyone did. And later, after hours of surgery, the doctors at the hospital tell my parents I’m unlikely to make it. They started to plan my funeral.
 
 There’s a bit of strange dissonance, reading this chapter.
@@ -115,9 +115,9 @@ But on the other hand, Wynn-Williams never seems to fully reckon with it—at le
 This is true, as Wynn-Williams writes:
 
 > My mother leans over me, looks into my eyes, and says, “Aren’t you lucky the doctors saved you?”
-
+> 
 > I can’t talk because I’m on life support and a ventilator is helping me breathe. So I gesture for a pen and paper. I make eye contact with her to be sure she’s watching, and write slowly and deliberately, drawing a thick black line under each word for emphasis:
-
+> 
 > I SAVED MYSELF
 
 Good on her for claiming that agency. And maybe Wynn-Williams simply doesn’t want to speak public ill of her parents to any greater degree than she already is.
@@ -129,13 +129,13 @@ I said earlier that I believe the general thrust of her story, but exactly how r
 From what I’ve seen, most responses to _Careless People_ are quite positive, both commending the writing and condemning the villains of Facebook. (I realize I’ve yet to actually describe any of Facebook’s villainy. I assume most readers will be familiar with some of it, because, c’mon—it’s 2026, and it’s _Facebook_ we’re talking about. But to give a sample of what this memoir covers: Facebook’s illegal operations in China; Mark Zuckerberg’s bluntly lying to the U.S. senate, without consequence; and Facebook’s refusal to deliver wi-fi to refugee camps, despite their promise to the U.N., when realizing there’d be no profit in it.) However, I’ve also observed a strong trend with comments such as these:
 
 > “Every story was basically like “if only they had listened to meeeeeee!” and ignored the fact that she was participating as much as anyone else. It was also just really hard to buy the naïveté that she didn’t see what was going on.”
-
+> 
 > “It’s a little shocking how she paints herself an innocent in all this, when she might have actually facilitated the pivot of Facebook to international relations. She isn’t innocent. They are all just horrible people.”
-
+> 
 > “Wynn-Williams is trying to atone for the sociopathic shit that she and her colleagues enabled. Either that or she knows public sentiment has fully turned against the social media giants so she's getting out in front of it by publishing a tell-all book.”
-
+> 
 > “I feel like the title of the book should be taken from one of her own lines and be called "Complicit and Enabling".”
-
+> 
 > ([source](https://www.reddit.com/r/books/comments/1odsa1g/comment/nkwfkum/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button), [source](https://www.reddit.com/r/IReadABookAndAdoredIt/comments/1rmnys9/comment/o91a5bj/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button), [source](https://www.reddit.com/r/technology/comments/1jd3cme/comment/mi8n8na/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button), [source](https://www.reddit.com/r/books/comments/1odsa1g/comment/nsiazej/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button))
 
 Frankly, I don’t think these sorts of comments are charitable enough. I think they overestimate how much power Wynn-Williams wielded, at the head not of a profit center, but of a costly appendage that the CEO would rather do without it, basically alone in her convictions against the CEO and all his “friends”.
@@ -147,13 +147,13 @@ Some comments say that she should have quit sooner, but to what end? She’d hav
 Plus:
 
 > “Good people get drawn to bad situations all the time and often end up doing shitty things themselves before they realise it’s too late.”
-
+> 
 > “Here is the thing about Meta employees: they suffer from what I like to call the “we’re all good people here” delusion. Bizarrely, everyone I work with there thinks they are a good person and that every other Meta employee is a paragon of virtue all while doing shady shit. Working there doesn’t make us bad people (though it can if we work there long enough), but the choices we have to make and actions we take make it so we’re all more or less responsible for the company’s negative impact.”
-
+> 
 > “Yeah, the people who are like "she could just go find another job!" do not understand these people. She might be able to find another job. Or her petty bosses might figure out a way to get her blacklisted.”
-
+> 
 > “It is difficult to get a man to understand something, when his salary depends on his not understanding it.”
-
+> 
 > ([source](https://www.reddit.com/r/technology/comments/1jd3cme/comment/mi8px1s/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button), [source](https://www.reddit.com/r/womenintech/comments/1jf4aym/comment/miq7lb6/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button), [source](https://www.reddit.com/r/books/comments/1jhdyv3/comment/my7ypdi/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button), and Upton Sinclair)
 
 Yet I don’t believe the more critical comments are coming out of nowhere. Some of the impulse surely comes from disbelief at the level of Wynn-Williams’s naivete. Some of it, though, I think comes from disbelief around **anyone** being so naive about Facebook’s intentions:
@@ -175,7 +175,7 @@ It’s time to talk about the villains.
 — in the past spelled as _slughon_, which became _slughorn_, though it has no relation to _slug_ or _horn_
 
 > Sheryl is charming, charismatic, whip-smart.
-
+> 
 > Watching her work is like a study in female success. How she comes to decisions, her relationships with men—both the ones she works for and the ones who work for her—what she wears, how she’s groomed, how she speaks. She can drop into a soft girlish voice, like you’re sharing an intimate secret with her, and yet still command a room. Sheryl’s amazing.
 
 To many women, including my spouse, Sheryl Sandberg was an icon. The shock she went through reading the memoir, I can only relate with my own reactions to figures like Louis C.K. or Neil Gaiman.
@@ -187,7 +187,7 @@ A key part of the hypocrisy presented, and the persona that Sandberg performs, a
 This attitude however translates into high expectations that can’t be realistically met by any but the wealthiest—
 
 > There are videos of women from Sheryl’s inner circle—all white, beautifully lit and shot—working out in their palatial home gyms, playing with their photogenic children, and relaxing with their mutely supportive husbands. All of these mothering fables are careful to edit out the role played by the phalanx of nannies and other help who usually do the bulk of the actual labor of raising children.
-
+> 
 > Mothering in form, not function.
 
 —as well as expectations that shouldn’t be met by _anyone_, such as when Sandberg expects Wynn-Williams to work during maternity leave.
@@ -199,45 +199,45 @@ Or rather to always prioritize _her_.
 Which again, might be expected of the rich and powerful. But what I’d never expected was the following account:
 
 > We’re an hour out of Zurich when Sheryl emerges back into the cabin in her pajamas.
-
+> 
 > “What are you doing? I’m going to bed.” As if it isn’t obvious that we’re preparing all the emails that’ll go out under her name.
-
+> 
 > “Lots to do,” I say cheerily.
-
+> 
 > “But it’s better if you rest now so you can get back on California time,” she insists.
-
+> 
 > “I’m okay,” I respond. There is only one bed in the jet and Sheryl is obviously using it.
-
+> 
 > “Sarah, come to bed.” Her tone hardens.
-
+> 
 > I look around at the others to check if they heard what I did.
-
+> 
 > I shake my head and she repeats her instruction. “Sarah, come to bed.”
-
+> 
 > We’re at a stalemate. I look around desperately for support from the others but everyone’s looking away.
-
+> 
 > On the long drive from Davos to Zurich for the flight, Sheryl and Sadie had taken turns sleeping in each other’s laps, occasionally stroking each other’s hair, while I tried to make myself as small and invisible as possible, feeling uncomfortable with what I was seeing. I hoped my enormous bump made it clear that my lap was not available for my coworker or boss. Regardless of motivation, it was not a position I felt I (or anyone else working with Sheryl) should be put in. I make pleading eyes at Sadie hoping she might be up for another close moment with Sheryl. Sadie shakes her head.
-
+> 
 > Sheryl sees this silent exchange and snaps, “Sadie’s slept over lots of times and I’m not asking Sadie. I’m asking you.”
-
+> 
 > …
-
+> 
 > I know something has broken between us. I know consequences will follow, but I don’t know what they’ll be.
-
+> 
 > Sadie tries to console me, she tells me things will be fine, but there are unspoken rules with Sheryl about obedience and closeness. Those closest to Sheryl are rewarded. Marne and Sadie often appear in her unwanted designer clothes; both assumed plum seats on boards that Sheryl had been asked to serve on. There are courtside basketball tickets and introductions to celebrities. Sheryl lends them the keys to her vacation homes.
-
+> 
 > Sadie is very conscious of the benefits of being Sheryl’s “little doll,” as she calls it and having Sheryl tell her she loves her. She’s the one who explained to me the benefits of “being on the pedestal.” She’s acutely aware of others she shares that with. But she’s also very aware of the expectations that come with it. How carefully calibrated the rewards and demands are.
-
+> 
 > Sheryl recently instructed Sadie to buy lingerie for both of them with no budget, and Sadie obeyed, spending over $10,000 on lingerie for Sheryl and $3,000 on herself.
-
+> 
 > When Sadie tries another of the bras Sheryl purchased her for the first time, she emails her.
-
+> 
 > “This bra is INCREDIBLY beautiful and fits perfectly. So grateful. This is my breasts equivalent of flying privately for the first time.”
-
+> 
 > “Happy to treat your breasts as they should be treated,” Sheryl responds.
-
+> 
 > Sadie confides she’s never spent this much on single items of underwear in her life, messaging Sheryl that the experience is “a total _Pretty Woman_ moment (the good one not the one where they kick her out). I feel like the fanciest twenty-six-year-old in the world.”
-
+> 
 > Sheryl responds by asking her twenty-six-year-old assistant to come to her house to try on the underwear and have dinner. Later the invite becomes one to stay over. Lean in and lie back.
 
 This may be the most overt and most unsettling example of sexual harassment in the memoir, which had several instances (all the rest perpetrated by men).
@@ -251,19 +251,19 @@ The question is: What does she care about?
 The most illuminating anecdote, in my opinion, was this one:
 
 > We all fly out the next morning—them on United to San Francisco, me on Asiana to New York—and spirits are low. As soon as I land in the US and switch on my phone, a bunch of messages pop up, checking to make sure I’m okay. Weird. Googling, I learn that an Asiana plane, one that departed a little earlier than mine, had crash-landed at San Francisco International Airport, killing three people and injuring over two hundred. I flip through the news and see reports that Sheryl, Debbie, and others on our team were supposed to be on that flight. They apparently got this from Sheryl, who (for a change) posted on Facebook that she and our colleagues “were originally going to take the Asiana flight that just crash-landed. We switched to United so we could use miles for my family’s tickets.” This of course unleashes a storm of concerned comments.
-
+> 
 > Immediately I stop scrolling and call Debbie.
-
+> 
 > “Are you okay?”
-
+> 
 > “Yeah, I’m tired and my neck…”
-
+> 
 > “No,” I cut in. “I saw you guys were supposed to be on the Asiana flight. Did something change?”
-
+> 
 > “You mean Sheryl’s Facebook post about being booked on that flight? It’s totally weird.”
-
+> 
 > “You weren’t on that flight. I mean you guys were giving me shit for flying Asiana, calling it a budget airline.”
-
+> 
 > “I know, it’s so strange. Sheryl always flies United. That’s who she has status with. We never considered Asiana.”
 
 It’s not truth or ethics that concerns Sandberg. It’s influence, in the social media sense. Control. Power for popularity, and popularity for power.
@@ -293,13 +293,13 @@ Of course, you could make anyone look bad by cherry-picking their worst moments.
 The following excerpt is one that could be used to laugh at the low self-esteem of a man who has everything, but it’s also one that I find to be quite humanizing:
 
 > When later we tour the Hindu temple Prambanan—which the guys overwhelmingly prefer because it’s just like in Tomb Raider—Mark marches up to another group of tourists, clearly wanting to build out his man-of-the-people vibe. They don’t speak English, so he reaches for their phone to snap a photo. They rebuff him brusquely—like, What are you doing? Get away from us! Mark looks astounded and a little hurt. He’s so used to people walking up and asking for selfies and photos with him, which he allows reluctantly, that he doesn’t know how to handle this particular situation. His instant dejection is so comical that it’s hard not to laugh, and I fail and laugh, which does not go over well. I pivot to comforting him.
-
+> 
 > “If they ever realize, Mark, I’m sure they’ll be really sad,” I say. He definitely doesn’t see the funny side of it and tries to rationalize his way out of his embarrassment.
-
+> 
 > “Maybe they weren’t actually wanting a photo there.”
-
+> 
 > “Or maybe they thought you were trying to steal their phone?” I offer.
-
+> 
 > He looks crushed. He’s so utterly unprepared for rejection like this. And I never see him offer to take another photo.
 
 But on the other hand.
@@ -309,11 +309,11 @@ It’s disconcerting to see such a powerful CEO need to be coddled by his closes
 Or the following excerpt, which requires me to set the scene: After Facebook helped to sway the 2016 U.S. election in Donald Trump’s favor, Mark Zuckerberg denied that his social media had any part to play whatsoever—not just publicly, but even to himself. His advisors had to wear him down before he finally believed it, but once he did, his reaction contained no shame nor dismay. A responsible man would accept the mantle of responsibility for decreasing the misinformation spread by the platform he created. Zuckerberg’s thoughts instead went another direction…
 
 > “I know what my 2017 challenge is going to be,” he says firmly.“I’m going to visit as many states as possible. Get on the ground. Meet people. Understand what they’re looking for.”
-
+> 
 > My antenna goes up. Mark is not someone who particularly enjoys travel or, in fact, people. And I know he’s hoping to have another baby in 2017, so this doesn’t make any sense as a personal challenge.
-
+> 
 > “Are there any states in particular you want to go to?” I ask tentatively.
-
+> 
 > “Iowa, New Hampshire, South Carolina, Ohio, Pennsylvania.”
 
 He wanted to run for president.
@@ -321,37 +321,37 @@ He wanted to run for president.
 This last excerpt I have to share, though, is my favorite. It’s an exchange that lives rent-free in my head, coming up now in my thoughts whenever I think about the rich and famous.
 
 > Traveling is when you really get to know someone, and this is the trip where I start to really get to know Mark. I think he feels the same because during this trip, he friends me on Facebook.
-
+> 
 > As we hang out at temples and the Tokyo fish market, karaoke, and ridiculous Michelin-star restaurants that specialize in fried food of course, we talk about all kinds of things. I’m fascinated about how you think about life when you’re one of the richest people in the world. What changes? What doesn’t?
-
+> 
 > …
-
+> 
 > Given the scale of Mark’s affluence, what actually matters to him? It’s unfathomable to me. This endless wealth. I try to explain that to him over dinner.
-
+> 
 > “I was actually talking about this with Masa the other day,” Mark responds. Masayoshi Son is CEO of SoftBank, a Japanese conglomerate that invests heavily in technology companies, including many of the buzzy start-ups Mark’s interested in.
-
+> 
 > “And we both agree.”
-
+> 
 > “Agree on what?”
-
+> 
 > “The most important thing.”
-
+> 
 > “What is it?”
-
+> 
 > “Food,” he says, lifting a chopstick toward his mouth. A dangling piece of fried deliciousness hangs in the air near his lips.
-
+> 
 > “Are you serious?”
-
+> 
 > “Yeah. I mean, he’s even more serious about it than I am. Every day he has someone go to that fish market we went to this morning and buy the absolute best bluefin tuna in that market. He eats the best food in the world. He has the best chef in Japan.”
-
+> 
 > During my time working on environmental issues, one of the things I’d been involved in was trying to protect southern bluefin tuna, which are critically endangered. I know that a single fish can sell for millions of dollars. I also know that efforts to regulate and save the fishery are seriously failing, and the reason those fish command such high prices is because they are rare and at risk of extinction. It’s as if he’s saying the best thing about being rich is eating fresh, tender, endangered baby elephants or munching on little imperiled panda bears.
-
+> 
 > “I didn’t think you even liked tuna. You like McDonald’s and fried chicken,” I say, puzzled and also, if I’m honest, really hoping he’s not about to tell me he wants to eat endangered species himself.
-
+> 
 > “True. As soon as I knew there was a three-star Michelin fried-food restaurant in Japan, I knew we all had to try it.”
-
+> 
 > “Right—but that’s because you like fried food. You don’t need to be the richest guy in the world to have fried chicken and McDonald’s every day.”
-
+> 
 > “No, but if I want the best bluefin tuna…”
 
 You might think: This is a man who truly doesn’t _care_ about anything.

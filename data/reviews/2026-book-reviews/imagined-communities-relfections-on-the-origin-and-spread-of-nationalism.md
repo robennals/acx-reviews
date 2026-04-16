@@ -7,7 +7,7 @@ contestName: 2026 Book Reviews
 year: 2026
 publishedDate: '2026-03-21T06:22:55.000Z'
 slug: imagined-communities-relfections-on-the-origin-and-spread-of-nationalism
-wordCount: 4550
+wordCount: 4552
 readingTimeMinutes: 21
 source: gdoc
 tags:
@@ -156,9 +156,9 @@ From here many of the same trends we have seen play out: new, post-colonial nati
 I’d feel remiss if I didn’t include Anderson’s explanation of how non-language based nationalisms inspire such loyalty. Anderson notes that nationalism often uses family based language, like motherland and fatherland:[18]
 
 > Rather, the family has traditionally been conceived as the domain of disinterested love and solidarity. So too, if historians, diplomats, politicians, and social scientists are quite at ease with the idea of ‘national interest’, for most ordinary people of whatever class the whole point of the nation is that it is interestless. Just for that reason, it can ask for sacrifices.
-
+> 
 > As noted earlier, the great wars of this century are extraordinary not so much in the unprecedented scale on which they permitted people to kill, as in the colossal numbers persuaded to lay down their lives. Is it not certain that the numbers of those killed vastly exceeded those who killed? The idea of the ultimate sacrifice comes only with an idea of purity, through fatality.
-
+> 
 > Dying for one’s country, which usually one does not choose, assumes a moral grandeur which dying for the Labour Party, the American Medical Association, or perhaps even Amnesty International cannot rival, for these are all bodies one can join or leave at easy will. Dying for the revolution also draws its grandeur from the degree to which it is felt to be something fundamentally pure. (If people imagined the proletariat merely as a group in hot pursuit of refrigerators, holidays, or power, how far would they, including members of the proletariat, be willing to die for it?) Ironically enough, it may be that to the extent that Marxist interpretations of history are felt (rather than intellected) as representations of ineluctable necessity, they also acquire an aura of purity and disinterestedness.
 
 ## What it is like to actually read Imagined Communities

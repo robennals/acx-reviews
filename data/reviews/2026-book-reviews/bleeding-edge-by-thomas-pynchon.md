@@ -7,7 +7,7 @@ contestName: 2026 Book Reviews
 year: 2026
 publishedDate: '2026-04-04T16:17:04.000Z'
 slug: bleeding-edge-by-thomas-pynchon
-wordCount: 6101
+wordCount: 6144
 readingTimeMinutes: 28
 source: gdoc
 tags:
@@ -41,7 +41,7 @@ To cap the style on this opening paragraph, let’s lean on meaning. What does i
 Description is attention getting bored. Probably more of a tool for the artist than the critic, attention nevertheless is the dead giveaway of good art. If you pay attention, style will follow. Tell us, artist, how things are: how you see them, sense them, hear them, feel them, and nothing else. Follow attention, praise attention. For further reading on this, please consult my teacher Donald Revell’s lovely guide, _The Art of Attention_. I almost called him master but my current master is a fourteen-year-old pomeranian who barks at 8am to let her outside to bark at others.
 
 > Proof (7): “‘But,’ eyes wide as fairground lollipops, ‘it worked for Crazy Eddie.’”
-
+> 
 > Proof II (101) [and also the fourth book in a row proven good by how it describes the rain]: “it’s just starting to rain…sometimes she can’t resist, she needs to be out in the street. What might only be a simple point on the workday cycle, a reconvergence of what the day scattered as Sappho said someplace back in some college course, Maxine forgets, becomes a million pedestrian dramas, each one charged with mystery, more intense than high-barometer daylight can ever allow. Everything changes. There’s that clean, rained-on smell. The traffic noise gets liquefied. Reflections from the street into the windows of city buses fill the bus interiors with unreadable 3-D images, as surface unaccountably transforms to volume. Average pushy Manhattan schmucks crowding the sidewalks also pick up some depth, some purpose—they smile, they slow down…”
 
 **C for Comedy**
@@ -58,19 +58,19 @@ Thomas Pynchon successfully records how the brilliant casts of characters that m
 
 Behold Pynchon in a meta dialogue dance:
 
-‘Um, no, I meant…’ Horst is almost cute when he fidgets. ‘You never forgave me for not learning how to dance, right?’
-
-‘Horst, I am supposed to be what, here, tiptoeing around your regrets? If you like, I can teach you a couple of real simple steps right now, would that help?’
-
-‘Long as I don’t have to swing my hips, a man’s got to draw the line someplace.’
-
-She roots through the CD collection, pops on a disc. ‘OK. This is merengue, real simple, all you have to do is stand there like a silo, if you feel like moving a foot now and then, why so much the better.’
-
-The kids look in after a while and find them in a formal clinch, slow-dancing to every other beat of ‘Copacabana.’
-
-‘Vice-principal’s office, you two.’
-
-‘Yeah, on the double.’ (300).
+> ‘Um, no, I meant…’ Horst is almost cute when he fidgets. ‘You never forgave me for not learning how to dance, right?’
+> 
+> ‘Horst, I am supposed to be what, here, tiptoeing around your regrets? If you like, I can teach you a couple of real simple steps right now, would that help?’
+> 
+> ‘Long as I don’t have to swing my hips, a man’s got to draw the line someplace.’
+> 
+> She roots through the CD collection, pops on a disc. ‘OK. This is merengue, real simple, all you have to do is stand there like a silo, if you feel like moving a foot now and then, why so much the better.’
+> 
+> The kids look in after a while and find them in a formal clinch, slow-dancing to every other beat of ‘Copacabana.’
+> 
+> ‘Vice-principal’s office, you two.’
+> 
+> ‘Yeah, on the double.’ (300).
 
 **T for Trust**
 
@@ -83,18 +83,18 @@ See all the other critical elements for why we can trust Thomas Pynchon. Perhaps
 This section more than any other overlaps with every other section, since we’re dealing words. Pynchon is the vocabulary heavyweight alongside Nabokov and Joyce, and he can pick flowers with them too.
 
 > Proof (4): “irrational exuberance.”
-
+> 
 > Proof (4): “kvell.” [later:] “kvetch…” “koan…”
-
+> 
 > Proof (9): “attitude…access issues.”
-
+> 
 > Proof (14): “‘Jujubes,’ they’re informed, ‘Generic Undiagnosed James Bond Syndrome…’”
-
+> 
 > Proof (20): “Where, in this chilled chaos, is the Pinot E-Grigio?”  
 > Proof (71): “entreprenerds.”
-
+> 
 > Proof (73): “undead signifiers.”
-
+> 
 > Proof (255): “Polyvinyl chloride, something in bright red perhaps, though not inappropriate, is somehow absent from the inventory. Jeans are out of the question also. At length, deep in, at the event horizon of closet oblivion, she notices a chic cocktail-hour suit in a subdued aubergine shade, discovered long ago at the Galeries Lafayette going-out-of-business sale and kept for reasons that probably don’t include nostalgia.”
 
 **V for Violence**
@@ -114,9 +114,9 @@ Proof: Joel Wiener, Gabriel Ice, Spud Loiterman, Maxine Tarnow, Stu Gotz.
 Thomas Pynchon writes historical fiction.
 
 > Proof (244): “From what Maxine can gather, Shawn’s therapist, Leopoldo, is a Lacanian shrink who was forced to give up a decent practice in Buenos Aires a few years ago, due in no small part to neoliberal meddling in the economy of his country. The hyperinflation under Alfonsín, the massive layoffs of the Menem-Cavallo era, plus the regimes’ obedient arrangements with the IMF, must have seemed like the Law of the Father run amok…”
-
+> 
 > Proof II (170): “Same as Nicaragua, El Salvador, Ronald Reagan and his people, Schachtmanite goons like Elliot Abrams, turning Central America into a slaughterhouse all to play out their little anti-Communist fantasies. Guatemala by then had fallen under the control of a mass murderer and a particular buddy of Reagan named Ríos Montt, who as usual wiped off his bloody hands on the baby Jesus like so many of these charmers do.”
-
+> 
 > Proof III (95): [as Horst takes the boys to his new office at the World Trade Center], “and they eat lunch atWindows on the World, which has a dress code, so the boys wear jackets and ties. ‘Like going to Collegiate,’ Ziggy mutters. There happens to be a more-than-moderate wind blowing that day, making the tower sway back and forth in five-, what feel like ten-foot excursions. On days of storm, according to Horst’s co-tenant Jake Pimento, it’s like being in the crow’s nest of a very tall ship, allowing you to look down at helicopters and private planes and neighboring high-rises. ‘Seems kind of flimsy up here,’ to Ziggy. ‘Nah,’ says Jake, ‘built like a battleship.’
 
 **P for Pastoral** 
@@ -148,33 +148,33 @@ Pynchon knows the limit he pushes. At a party a few days before the towers go do
 I’m struggling on this one, boys and girls. I want to say Faust because not only is Pynchon all-encompassingly knowledgeable while being taken aloft by woman, but Maxine seems to be Faust inverted, and we owe ourselves as critical thinkers to ask: could Faust have solved the case of the mysterious money-movings around the dotcombubble, or who short-sold the two airlines involved in 9/11? And although she doesn’t know everything, she’s damned perceptive and full of heart, so much so that we wouldn’t want to navigate 2001 and 2002 with any other hero. As for finesse, Pynchon can rap too, and when he does, he somehow manages to simultaneously condense his entire oeuvre into a verse, and pay homage to his favorite type of story (282-283):
 
 > “Tryin to do Tupac and Biggie thangs
-
+> 
 > With red velvet Chairman Mao piggy banks,
-
+> 
 > like Screamin Jay in Hong Kong
-
+> 
 > jumpin to wrong conclusions
-
+> 
 > old-movie confusions, yo who be dat
-
+> 
 > Scandinavian brand of Azian
-
+> 
 > ya dig wid some Sigrid be
-
+> 
 > the daughter of Kublai Khan
-
+> 
 > Warner Oland, Charlie Chan, General Yan,
-
+> 
 > bitter tea, for her stupidity pullin rank
-
+> 
 > Bette Davis shanked by Gale Sondegaard
-
+> 
 > like they as on the yard
-
+> 
 > or down in some forgotten cell
-
+> 
 > far, far from the corner of
-
+> 
 > Mott and Pell—
 
 **I for Invisibility**
@@ -186,15 +186,15 @@ Joyce’s Stephen Daedalus sang in the beginning of _Ulysses_, “I am the boy t
 My paternal grandfather used to express to me that one of his favorite parts about reading a book was when he learned something specific from it—something like what we learn in that TV show “How It’s Made,” how something functions or is made to function under a certain circumstance—insider, or rare knowledge. I myself fancy knowledge of people and how humans interact with one another—prudence nuggets, if you will. For the proofs here, I’ve combined both types.
 
 > Proof (9): “‘It’s this company I’ve been shooting a documentary about?’ I keep running into…’ One of those funny looks Maxine by now knows better than to ignore.’”
-
+> 
 > Proof (11): “‘That’s…it? Reg, in my vast experience, embezzlers don’t need shooting at very often. Some public humiliation usually does the trick.’”
-
+> 
 > Proof (14): “‘...Focused? you have no idea—sometime in the mid-eighties, she actually changed her _name_ to Krystle. A less understanding husband might call this unnatural.’”
-
+> 
 > Proof (20): “The past, hey no shit, it’s an open invitation to wine abuse.”
-
+> 
 > Proof (51) [and I too hated Times Square when I went to New York, and I didn’t hate much else there]: “[Maxine] ends up in Times Square, which for a few years now she has made a conscious effort not to go near if she can help it. The sleazy old Deuce she remembers from her less responsible youth is so no more, Giuliani and his developer friends and the forces of suburban righteousness have swept the place Disneyfied and sterile—the melancholy bars, the cholesterol and fat dispensaries and porno theaters have been torn down or renovated, the unkempt and unhoused and unspoken-for have been pushed out, no more dope dealers, no more pimps or three-card monte artists, not even kids playing hooky at the old pinball arcades—all gone. Maxine can’t avoid feeling nauseous at the possibility of some stupefied consensus about what life is to be, taking over this whole city without mercy, a tightening Noose of Horror, multiplexes and malls and big-box stores it only makes sense to shop at if you have a car and a driveway and a garage next to a house out in the burbs. Aahh! They have landed, they are among us, and it helps them no end that the mayor, with roots in the outer boroughs and beyond, is one of them.”
-
+> 
 > Proof (375): “A silence she has to categorize as amused. ‘They don’t say KGB anymore, they say FSB, they say SVU. Since Putin, KGB means old guys in government.”
 
 **G for God**
@@ -230,7 +230,7 @@ What can I say, I’m a sucker for the Hebrews from Adam to Solomon to Spinoza t
 Pynchon’s works teem with life. If it’s difficult to write for all time and the present time, it’s also difficult to write for a twenty-year-old and a seventy-six-year old (his age at _Bleeding Edge’s_ publication), especially in the same book. It was Goethe who said that what we write at twenty is best enjoyed by twenty-year-olds, and so on (_Conversations with Eckermann ~_). What Pynchon seems to realize, if I may, is that for the most part elders and youngins respect one another. What really makes me carve this section out as an element of criticism, though, is that Thomas Pynchon tells such a true story—reminder, folks, this is historical fiction—that I would go out on a limb and say that I could’ve convinced Schopenhauer to include Pynchon alongside Cervantes and Benjamin Franklin as what a formative mind should read, instead of romance and fantasy. Here I will provide one proof from _Bleeding Edge_ of how brilliantly Pynchon speaks to the budding young mind, but for the strongest proof we will have to look at an excerpt from his debut novel _V._, which, when I read it in grad school, I was awestruck, and since then it has remained among the ranks of quotes that has had a serious effect on my life as an artist.
 
 > Proof (6): “When will Maxine be allowed to kick back, become Angela Lansbury, dealing only with class tickets, instead of exiled out here among the dim and overextended?
-
+> 
 > Proof II (54-55, _V._): “She knew instinctively: he will be fine as the fraternity boy just out of an Ivy League school who knows he will never stop being a fraternity boy as long as he lives. But who still feels he is missing something, and so hangs at the edges of the Whole Sick Crew. If he is going into management, he writes. If he is an engineer or architect why he paints or sculpts. He will straddle the line, aware up to the point of knowing he is getting the worst of both worlds, but never stopping to wonder why there should ever have been a line, or even if there is a line at all. He will learn how to be a twinned man and will go on at the game, straddling until he splits up the crotch and in half from the prolonged tension, and then he will be destroyed. She assumed ballet fourth position, moved her breasts at a 45 degree angle out of his line-of-sight, pointed her nose at his heart, looked up at him through her eyelashes. “How long have you been in New York?”
 
 **Q for Quizzical**
@@ -248,7 +248,7 @@ Same thing, really, as I vowed to prove through all the characters in my _Taking
 _Ben Jonson’s_ “To the Reader:”
 
 > Pray thee, take care, that tak’st my book in hand,
-
+> 
 > To read it well: that is, to understand.
 
 And gall, can Pynchon write a good love story. I’m talking the most you ever believed in love—he captures that. Love, in fact, is what pulled me into _Gravity’s Rainbow_, and what helped me through Shakespeare. Learning how to love, too.
