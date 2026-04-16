@@ -4,7 +4,6 @@ import Link from 'next/link';
 import { getReviewBySlug, getAllReviews } from '@/lib/reviews';
 import { ReviewContent } from '@/components/review-content';
 import { ReadingProgressTracker } from '@/components/reading-progress-tracker';
-import { formatDate } from '@/lib/utils';
 import { SITE_URL } from '@/lib/constants';
 
 interface ReviewPageProps {
@@ -114,8 +113,6 @@ export default async function ReviewPage({ params }: ReviewPageProps) {
             {/* Meta info */}
             <div className="flex flex-wrap items-center gap-x-4 gap-y-2 text-sm text-muted-foreground pt-6 border-t border-border">
               <span>{review.year} Contest</span>
-              <span className="text-border">&bull;</span>
-              <span>{formatDate(review.publishedDate)}</span>
               <span className="text-border">&bull;</span>
               <span>{review.readingTimeMinutes} min read</span>
               <span className="text-border">&bull;</span>
