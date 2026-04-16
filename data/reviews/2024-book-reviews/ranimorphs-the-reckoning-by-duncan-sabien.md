@@ -7,7 +7,7 @@ contestName: 2024 Book Reviews
 year: 2024
 publishedDate: '2026-02-06T16:48:56.652Z'
 slug: ranimorphs-the-reckoning-by-duncan-sabien
-wordCount: 7777
+wordCount: 7793
 readingTimeMinutes: 35
 originalUrl: >-
   https://docs.google.com/document/d/1GYQw3pgvhi7hqOVR-Ql629Q_8thbyHe8sSRy5voyt30
@@ -16,15 +16,17 @@ tags:
   - Fiction
 ---
 
+![](https://acximages.ennals.org/images/2024-book-reviews/0352ff88a5ecdcfb.jpg)
+
 Animorphs is a nearly forgotten property. It's one of those enormous franchises that become passé almost immediately after they end and their fanbase grows up. Most of the time, people at least recognize it due to its… let's say unique cover art, as you can see above.
 
 It didn't help that its only chance to go mainstream, a TV show, turned out to be so low budget[1] and poorly managed that it failed to appeal both to the fans and a wider audience. And the target demographic was children, so if kids that watched Goosebumps[2] thought it was garbage, you know it had to be truly special.
 
 Probably due to its obscurity, I never got into Animorphs as a kid, and only read it last year. I found a book series written by people who clearly trusted their audience to understand “adult” sci-fi, with a lot of care put into the mechanics and worldbuilding. Despite that, the medium was still short books sold at Scholastic book fairs. They couldn’t avoid some jarring forced references to everything they thought kids liked at the turn of the century (from South Park to The Offspring). Each installment had to re-introduce the cast and stakes just in case it was a reader’s first book, so, barring some exceptions, there was little room for complex plots and character motivations.
 
-A source material with some dumb elements is usually the perfect target for a rational fic, or a rationalist fic. The definition for the former is a bit loose, but the latter is easy, because the quintessential example is also the most famous “ratfic” in general:[Harry Potter and the Methods of Rationality](https://hpmor.com/). In short, rational fics try to flesh out the setting and make it self-consistent, avoiding plot contrivances. Rationalist fics try to make them didactic as well, depicting role models thinking their way through hard problems in detail, in hopes of helping the reader become a “better rationalist”.[3]
+A source material with some dumb elements is usually the perfect target for a rational fic, or a rationalist fic. The definition for the former is a bit loose, but the latter is easy, because the quintessential example is also the most famous “ratfic” in general: [Harry Potter and the Methods of Rationality](https://hpmor.com/). In short, rational fics try to flesh out the setting and make it self-consistent, avoiding plot contrivances. Rationalist fics try to make them didactic as well, depicting role models thinking their way through hard problems in detail, in hopes of helping the reader become a “better rationalist”.[3]
 
-I thought it worked for HPMOR. If the original Harry Potter was a steak, HPMOR used just the right amount of rationalism to cook it to medium rare.[r!Animorphs: The Reckoning](https://archiveofourown.org/works/5627803/chapters/12963046), by comparison, took the Animorphs steak and turned it into a house fire.
+I thought it worked for HPMOR. If the original Harry Potter was a steak, HPMOR used just the right amount of rationalism to cook it to medium rare. [r!Animorphs: The Reckoning](https://archiveofourown.org/works/5627803/chapters/12963046), by comparison, took the Animorphs steak and turned it into a house fire.
 
 * * *
 
@@ -37,6 +39,8 @@ The starting point of the series stays somewhat the same as in classic Animorphs
 This sets up the main conflict of the series: human kids (and after they find him, a young andalite) have to fight an alien army with cool animal-themed powers. In canon, they turn into rhinos and tigers and fight laughably weak aliens, sneak into enemy bases while morphed into flies, commit war crimes, things like that.
 
 But, for the fic, things diverge here. Duncan Sabien’s r!Animorphs doesn’t respect the stations-of-the-canon of the original novels, and it doesn't leave any characters recognizably intact, except maybe Cassie, and oh boy does the plot write around her.
+
+![](https://acximages.ennals.org/images/2024-book-reviews/e038703e4ad5e073.jpg)
 
 [Left to right: Jake, Marco, Rachel, Tobias, Cassie and Aximili. Esplin (Visser Three) looks just like Aximili but bigger, which is an incredibly alien racist thing to say.]
 
@@ -93,7 +97,7 @@ But here’s where we need to hit the fast-forward button. The central conflict 
 
 There are however some cool interludes and scenes here and there, like a Yeerk AMA. Interludes were the few rays of light in this dark period.
 
-Odysseum asked:
+Odysseum asked: 
 
 \>But there are people both near where Alexandre lives and near where he works that I enjoy being around.
 
@@ -114,6 +118,8 @@ The battles between the Animorphs and Esplin escalate until he has legions of di
 During the final arc, Crayak’s howlers show up. These are evil aliens that enjoy people’s suffering while stuck in a childlike mindset with absolutely no empathy. Thanks to the Visser, our protagonists are barely holding on as it is, which means the howlers can land on Earth and start massacring humanity unopposed. In the original books, the problem the aliens present is solved by hijacking a howler’s “genetic memory” and inserting memories of people being good and stuff,[10] so Crayak has to destroy them to prevent the entire species from turning on him. Here, that doesn’t work because it’s rational fiction, feelings absolutely cannot be allowed to be part of the solution, come on, read the room.
 
 The only way to kill them is surrendering to Esplin in exchange for help, so he can release a quantum virus and genocide the aliens as is Animorphs tradition. But then Esplin is killed by Crayak. I guess the new only way to kill them is getting their hands on the Ellimist’s power. Fuck, the Ellimist just got killed by Crayak too. Luckily, this is all part of his plan… yet again.
+
+![](https://acximages.ennals.org/images/2024-book-reviews/0a1d4a4cc8befad7.jpg)
 
 [Inside-cover art of the kids and the Ellimist (bottom).]
 
@@ -170,7 +176,7 @@ I cut off the quote early, before it goes into multiple parentheses per paragrap
 *   [Fargo](https://archiveofourown.org/works/49647454/chapters/125309431):[11] 325k words, 640 emdashes, once every 526 words.
 *   [Unsong](https://unsongbook.com/): 233k words, 652 emdashes, once every 357 words.
 *   This review: ~5.5k words,[12] 9 emdashes (four of which I will soon use for humorous purposes), once every 611 words.
-*   r!Animorphs: 600k words, 16933 emdashes,once every 38 words.
+*   r!Animorphs: 600k words, 16933 emdashes, once every 38 words.
 
 While Fargo and Unsong place them conservatively, where they’re needed, r!Animorphs uses them everywhere. That’s 3-6 times per average paragraph—so—pretty—damn—frequently.
 
@@ -212,13 +218,13 @@ In this fanfic, the scope might as well be the whole world at all times, sometim
 
 I will say though, r!Animorphs tries its hardest to account for every possible complexity to the point it might as well be its mission statement. It tries. But I don't think it's fun to read, or ultimately realistic. It’s one of the Classic Ratfic Problems: if a writer could come up with a perfect plan to take over the world from an occupying force, they'd be using it, not writing it down.
 
-This reminds me of a diegetic review from a completely different work of (arguably rational) fiction,[The Northern Caves](https://archiveofourown.org/works/3659997):
+This reminds me of a diegetic review from a completely different work of (arguably rational) fiction, [The Northern Caves](https://archiveofourown.org/works/3659997):
 
 Other Mirrors, the latest and longest installment, is undeniably imaginative; it probably has the most dizzyingly elaborate plot ever featured in a work of children's literature. Does that make it complex? No, it makes it complicated. And between those two little words is a world of difference.
 
 Salby's plotting builds hierarchically, inexorably, unforgivingly. Every new development serves as scaffolding for the next, and any idea or event, however minor, however many pages or books ago it was introduced, can serve as fodder for new narrative contortions. The result is a reading experience that recreates with eerie accuracy the atmosphere of the schoolroom. Salby demands academic devotion; everything will be on the test. As Other Mirrors demands from its reader a certain drab, bureaucratic cast of mind, no child who is fully a child will enjoy it; as its sensibility never progresses beyond that of a precocious adolescent, no adult who is fully an adult will tolerate it. Salby has written what is perhaps a definitive test of abnormal development, but he has written a dreadful novel.
 
-Of course, authors are allowed to write dark, cerebral fanfics of their favorite stories, and I don’t agree with the fictional quote above that it has anything to do with maturity. But, even within the gradient of darkness, there aren't any comparatively lighter moments. Unlike[Worm](https://parahumans.wordpress.com/), a notoriously dark story popular in the same circles, this ficlacks any celebration scenes or downtime whenever characters accomplish something big.
+Of course, authors are allowed to write dark, cerebral fanfics of their favorite stories, and I don’t agree with the fictional quote above that it has anything to do with maturity. But, even within the gradient of darkness, there aren't any comparatively lighter moments. Unlike [Worm](https://parahumans.wordpress.com/), a notoriously dark story popular in the same circles, this fic lacks any celebration scenes or downtime whenever characters accomplish something big.
 
 But this is as much a problem of tone as it is of pacing, the next item in our review agenda.
 
@@ -314,6 +320,8 @@ Finally, let’s take a broader look at the expansion of Animorphs canon. Metho
 
 For r!Animorphs, the writer worked really hard on fleshing out the setting and adding some cool tricks, only some of which I’ve gone over. Most interestingly, yeerks are also expanded.
 
+![](https://acximages.ennals.org/images/2024-book-reviews/3fb985848687c35c.jpg)
+
 [This is what a yeerk in its natural environment looks like.]
 
 Yeerk "pools", in canon, are a communal place where they must exit their hijacked body and rest every few days. In the fic, that aspect is preserved, but they’re also sort of temporary hiveminds, even beings upon themselves. Each individual yeerk “splits” from that "repository", and "updates" every time they go back into the pool. If enough yeerks have good human experiences, the pool can eventually become unaligned with Esplin's goal as whole, and this is in fact something that happens.
@@ -330,7 +338,7 @@ I don't think this should be considered as one of the “pillars” of rational 
 
 It showcases the genre’s worst excesses, almost to the point of parody. An escalation of complexity until the reader reaches a terminal failure of caring. No light moments, little emotion but stress and neuroticism. Large swaths of the plot becoming irrelevant at the end due to an ascension to a higher plane of existence (you wouldn’t think this to be a rational trope, but I could make a list).
 
-It even lacks the didactic aspects. Despite seeing characters fail over and over, I don’t think I learned anything from r!Animorphs, besides some facts about dolphins I’d rather forget. Time pressure makes people act stupidly but also moves the plot along so it’s impossible to say if it’s good or bad? At least I learned elevator safety facts from[Worth the Candle](https://www.royalroad.com/fiction/25137/worth-the-candle).
+It even lacks the didactic aspects. Despite seeing characters fail over and over, I don’t think I learned anything from r!Animorphs, besides some facts about dolphins I’d rather forget. Time pressure makes people act stupidly but also moves the plot along so it’s impossible to say if it’s good or bad? At least I learned elevator safety facts from [Worth the Candle](https://www.royalroad.com/fiction/25137/worth-the-candle).
 
 I just don’t get why it’s highly recommended. I have to suspect a huge part of the readerbase willingly chooses to only remember the cool worldbuilding details as the main core of the fic. No, the core of the fic is emdash spam as Marco or Jake stressfully thinks through a just-introduced crisis, only to trigger a timeskip to the next crisis.
 
@@ -342,7 +350,7 @@ I think, in the end, the way to deal with having read a work like this is intern
 
 Them's the breaks. Let’s take this as a lesson and vow to never be rational again.
 
-You can read r!Animorphs: The Reckoning by Duncan Sabien at[Archive of Our Own](https://archiveofourown.org/works/5627803/chapters/12963046).
+You can read r!Animorphs: The Reckoning by Duncan Sabien at [Archive of Our Own](https://archiveofourown.org/works/5627803/chapters/12963046).
 
 * * *
 
@@ -352,7 +360,7 @@ Footnotes
 
 [2] Not dissing it, I liked the Goosebumps TV show when I was a kid too!
 
-[3] If you need a more detailed description of what rational fiction is, which would surprise me given the target audience, we can get lazy and quote the[/r/rational](https://www.reddit.com/r/rational/) wiki:
+[3] If you need a more detailed description of what rational fiction is, which would surprise me given the target audience, we can get lazy and quote the [/r/rational](https://www.reddit.com/r/rational/) wiki:
 
 Highly-rational fiction could include one or more of the following features:
 
@@ -367,7 +375,7 @@ Presence of these particular features is not necessary: overall impression of t
 Adjacent tropes: Rational stories tend to include certain narrative elements. Though their presence doesn't make a story more rational, this community highly enjoys them. Most important ones include:
 
 *   [Fair-Play Whodunnit](https://tvtropes.org/pmwiki/pmwiki.php/Main/FairPlayWhodunnit): story's mysteries could be solved by attentive readers ahead of time.
-*   Absence of[Deus Ex Machina](https://en.wikipedia.org/wiki/Deus_ex_machina): established story rules are never broken.
+*   Absence of [Deus Ex Machina](https://en.wikipedia.org/wiki/Deus_ex_machina): established story rules are never broken.
 *   [Deconstruction](https://tvtropes.org/pmwiki/pmwiki.php/Main/Deconstruction): genre tropes are re-imagined in a more realistic manner.
 *   Munchkinry: characters attempt to exploit their world's rules in creative, non-intuitive ways.
 *   [Genre Savviness](https://tvtropes.org/pmwiki/pmwiki.php/Main/GenreSavvy): characters are familiar with common genre tropes and try to avoid or exploit them.
@@ -382,6 +390,8 @@ The knee-jerk response to this is “you’re just describing good fiction in ge
 
 [6] As depicted in the official Animorphs Transformers set:
 
+![](https://acximages.ennals.org/images/2024-book-reviews/8d2d7d52f1703317.jpg)
+
 Scholastic was really hoping for the franchise’s future mainstream success.
 
 [7] There are a bunch of ghostwritten books, and technically everything is canon, but in practice no one is going to bring up how they went on a time travel adventure through american history, because that’s stupid.
@@ -389,6 +399,8 @@ Scholastic was really hoping for the franchise’s future mainstream success.
 [8] All the original book titles follow the format The $GENERIC\_WORD, making it incredibly hard to keep them straight. This also explains why the fic is titled “The Reckoning”.
 
 [9] The beginning of the defining quote for Crayak in the Animorphs wiki says it all, really:
+
+![](https://acximages.ennals.org/images/2024-book-reviews/5b350ac193326828.png)
 
 [10] In the industry, we call this “the Eragon asspull”.
 

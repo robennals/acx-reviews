@@ -7,7 +7,7 @@ contestName: 2022 Book Reviews
 year: 2022
 publishedDate: '2026-02-06T07:22:32.820Z'
 slug: the-brothers-karamazov-by-fyodor-dostoevsky
-wordCount: 15354
+wordCount: 15356
 readingTimeMinutes: 69
 originalUrl: >-
   https://docs.google.com/document/d/100kMdSVFviZSSBvUyyEQPMNlvLptVQxHFD9i9wGuBWs
@@ -71,7 +71,7 @@ Alyosha shuddered.
 
 Thus goes one of many lively exchanges between the Karamazov brothers, in this case the middle brother Ivan (Vanya), and the younger brother Alexei (Alyosha). This particular exchange takes place just after their older brother Dmitry (Mitya) has angrily attacked their father, Fyodor Karamazov.
 
-The Brothers Karamazov is Fyodor Dostoevsky’s final and most lengthy novel, his magnum opus. It has been considered by a number of prominent people to be the greatest novel ever written, and it has exerted a vast influence. To get a sense of this, here is a lightly edited version of it’s [wikipedia article’s influence section](https://www.google.com/url?q=https://en.wikipedia.org/wiki/The_Brothers_Karamazov%23Influence&sa=D&source=editors&ust=1770366145462015&usg=AOvVaw1iswznPcMPDdGYrhY76gOp) (for the full version with citations, follow the link):
+The Brothers Karamazov is Fyodor Dostoevsky’s final and most lengthy novel, his magnum opus. It has been considered by a number of prominent people to be the greatest novel ever written, and it has exerted a vast influence. To get a sense of this, here is a lightly edited version of it’s [wikipedia article’s influence section](https://en.wikipedia.org/wiki/The_Brothers_Karamazov#Influence) (for the full version with citations, follow the link):
 
 The Brothers Karamazov has had a deep influence on many public figures over the years for widely varying reasons. Admirers include scientists such as Albert Einstein, philosophers Ludwig Wittgenstein and Martin Heidegger, as well as writers such as Virginia Woolf, Cormac McCarthy, Kurt Vonnegut, Haruki Murakami, and Frederick Buechner.
 
@@ -97,11 +97,11 @@ Soviet leader Joseph Stalin had read Dostoevsky since his youth and considered t
 
 Sounds like a noteworthy book!
 
-I first became aware of the book when my probably-most-literate friend in high school read it and said it was his favorite book. Recently, Jordan Peterson—a great admirer of Dostoevsky—referenced the book in a [recent interview with Steven Fry](https://www.google.com/url?q=https://www.youtube.com/watch?v%3DfFFSKedy9f4%26t%3D3246s&sa=D&source=editors&ust=1770366145467944&usg=AOvVaw2v0UMjmQjyslHxmYLIUJHF), who in turn calls the book a “work of genius” that “everyone should read”. This became a reminder to me that the book exists and I finally got around to reading it.
+I first became aware of the book when my probably-most-literate friend in high school read it and said it was his favorite book. Recently, Jordan Peterson—a great admirer of Dostoevsky—referenced the book in a [recent interview with Steven Fry](https://www.youtube.com/watch?v=fFFSKedy9f4&t=3246s), who in turn calls the book a “work of genius” that “everyone should read”. This became a reminder to me that the book exists and I finally got around to reading it.
 
 For those who haven’t read the book yet, I highly recommend reading it, if you have the time. Though it is lengthy so you may not have the time now. If you are concerned about spoilers, know that this review will mostly avoid talking about the events of the main plot (and the most significant side plot), instead it will focus on certain themes and ideas espoused by the characters, particularly Zosima and Ivan, but we will also follow the threads of these two in the story.
 
-If you don’t have time to read the full book, you may still want to read the acclaimed story within a story, “The Grand Inquisitor”, which even has its [own wikipedia article](https://www.google.com/url?q=https://en.wikipedia.org/wiki/The_Grand_Inquisitor&sa=D&source=editors&ust=1770366145469769&usg=AOvVaw3g2ksP9gPFuqfHC5SkrSN5), and which the likes of Aldous Huxley, Noam Chomsky, and David Foster Wallace have referenced in their own works.
+If you don’t have time to read the full book, you may still want to read the acclaimed story within a story, “The Grand Inquisitor”, which even has its [own wikipedia article](https://en.wikipedia.org/wiki/The_Grand_Inquisitor), and which the likes of Aldous Huxley, Noam Chomsky, and David Foster Wallace have referenced in their own works.
 
 I read the newest English translation by Richard Pevear and Larissa Volokhonsky, which is very good (I compared it with the free version on project gutenberg). So if you read in English, that is the version I would recommend.
 
@@ -119,7 +119,7 @@ But there are those in the story who understand that this is not the way things 
 
 “But an end to this fearful isolation is bound to come and all men will understand how unnatural it was for them to have isolated themselves from one another. This will be the spirit of the new era and people will look back in amazement at the past, when they sat in darkness and refused to see the light. And it is then that the sign of the Son of Man will appear in the heavens… But until that day we must keep hope alive, and now and then a man must set an example, if only an isolated one, by trying to lift his soul out of its isolation and offering it up in an act of brotherly communion, even if he is taken for one of God’s fools. This is necessary, to keep the great idea alive.”
 
-A theme running throughout the book is that this much sought after psychological transformation remains an isolated phenomenon, something only a handful of individuals manage to bring about. Perhaps even for spirituality there is such a thing as innate aptitude, and only those with the knack can ascend the highest heights. But in this case the reward will not necessarily be the admiration of society. These individuals are not understood by the people around them and are taken to be “[God's fools](https://www.google.com/url?q=https://en.wikipedia.org/wiki/Foolishness_for_Christ%23Eastern_Christianity&sa=D&source=editors&ust=1770366145477815&usg=AOvVaw3A3i4gMYb5upz7W3bgpSVP)” because they behave in a manner that makes no sense from a conventional view.
+A theme running throughout the book is that this much sought after psychological transformation remains an isolated phenomenon, something only a handful of individuals manage to bring about. Perhaps even for spirituality there is such a thing as innate aptitude, and only those with the knack can ascend the highest heights. But in this case the reward will not necessarily be the admiration of society. These individuals are not understood by the people around them and are taken to be “[God's fools](https://en.wikipedia.org/wiki/Foolishness_for_Christ#Eastern_Christianity)” because they behave in a manner that makes no sense from a conventional view.
 
 ## The Elder Zosima
 
@@ -485,11 +485,15 @@ Angels—happiness divine.
 
 Humility (and its opposite, pride) is one of the biggest themes in the book, and Elder Zosima has said that loving humility is the most powerful force, but what does science have to say about humility? Do we have any new knowledge since the time the book was written?
 
-It turns out that it's not so easy to measure humility so not much research has been done. Nevertheless, I did find a [series of studies](https://www.google.com/url?q=https://doi.org/10.1080/00223891.2011.558871&sa=D&source=editors&ust=1770366145545550&usg=AOvVaw1c-8a241hrNmrjwIil7D_T) at the University of Northern Texas published in 2011, where researchers devised a new method for the measurement of humility, the Relational Humility Scale (RHS). To get a sense of the scale, let’s have a look at Table 1 from the study:
+It turns out that it's not so easy to measure humility so not much research has been done. Nevertheless, I did find a [series of studies](https://doi.org/10.1080/00223891.2011.558871) at the University of Northern Texas published in 2011, where researchers devised a new method for the measurement of humility, the Relational Humility Scale (RHS). To get a sense of the scale, let’s have a look at Table 1 from the study:
+
+![](https://acximages.ennals.org/images/2022-book-reviews/4b393ab436638350.png)
 
 (Note that these evaluations are done by “other-reports”. In other words, they get someone who knows the subject to evaluate the subject.)
 
 To get a sense of what sorts of things are correlated with humility, let’s have a look at Table 2:
+
+![](https://acximages.ennals.org/images/2022-book-reviews/4b31b4486e849629.png)
 
 We see that, toward a person who has given offense, a humble person is more able to forgive, has less of a tendency to avoid the person or seek revenge, and has more empathy toward their offender. We also see in their close relationships (in this case a relationship with a parent) they exhibit more virtuous behavior and have more positive emotion and less negative emotion. In other words, they do good things and they feel good. Those with a sense of being superior to others (pride) have the inverse—they are less virtuous and tend to feel worse.
 

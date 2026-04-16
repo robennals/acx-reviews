@@ -7,7 +7,7 @@ contestName: 2024 Book Reviews
 year: 2024
 publishedDate: '2026-02-06T16:49:50.817Z'
 slug: the-zoologists-guide-to-the-galaxy-by-arik-kershenbaum
-wordCount: 2147
+wordCount: 2149
 readingTimeMinutes: 10
 originalUrl: >-
   https://docs.google.com/document/d/1Ki5XsE0jkxZtd2XAeyTAJw1ZjLh2Cu-matUYKAhA6-s
@@ -30,6 +30,8 @@ Think of past winners of this book contest. I still remember Erik Hoel’s [the 
 Instead, I’d like to introduce to you The Zoologist’s Guide to the Galaxy, by Arik Kershenbaum. It is one of the few Big Idea books that can not be compressed to a blog post, or podcast appearance, or review. Similar to Richard Dawkins, perhaps because of the richness of evolutionary biology, Kershenbaum’s ideas expand to the space of a book. It is a book I have read more than once.
 
 So I will not be summarising the book here, sorry. This will not be a typical Astral Codex Ten book review submission. I will not by writing a 10k word essay. I respect your time too much. (I don’t have time to write a 10k word essay). This will actually be a somewhat more traditional book review. I’ll lay out the Big Idea and hint at the implications. I’ll put in some quotes to show that Kershenbaum’s prose values clarity and avoids hyperbole. But really I won’t do it justice. Thinking about aliens really needs a zoologist. Or at least an evolutionary biologist. Of which, I’m neither! I will try my best to convince you to buy his book. This will be a challenge as, we now know, no-one buys books these days.
+
+![](https://acximages.ennals.org/images/2024-book-reviews/59558d6deb0bee6d.png)
 
 ## Premise
 
@@ -72,6 +74,8 @@ This is a huge claim to make. If you are on board with Kershenbaum, all life in 
 What’s more, evolution isn’t specific to the biological life we have here on earth. It isn’t specific to DNA or carbon-based lifeforms. We don’t need to know the biochemistry make-up of aliens to think they will be subject to natural selection. We already have a test-case of natural selection predicting traits in organisms. Life independently evolving similar features due in different parts of earth - convergent evolution.
 
 ### 4\. Convergent evolution
+
+![](https://acximages.ennals.org/images/2024-book-reviews/e4dcbd8a18e52fd1.png)
 
 Take a look at the creatures above, thylacines. They are now extinct but were known as Tasmanian wolves. They had powerful jaws, sharp teeth and raised heels. At a glance you might mistake them for dingos or jackals - a peculiar breed of dog. However, they are actually marsupial, complete with a pouch for carrying its young. They evolved completely independently from canines. It is no more related than a dog is to a bat. The likeness in form is a result from similar selection pressures in their environments. What is useful to survive in one environment, will evolve similarly under the same environmental pressures.
 

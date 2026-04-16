@@ -1,20 +1,16 @@
 ---
-title: Metamorphosis byShindo L
-author: Unknown
-reviewAuthor: Anonymous
-contestId: 2024-book-reviews
-contestName: 2024 Book Reviews
+title: "Metamorphosis by Shindo L"
+author: "Unknown"
+reviewAuthor: "Anonymous"
+contestId: "2024-book-reviews"
+contestName: "2024 Book Reviews"
 year: 2024
-publishedDate: '2026-02-06T16:48:20.709Z'
-slug: metamorphosis-byshindo-l
-wordCount: 1282
+publishedDate: "2024-01-01T00:00:00.000Z"
+slug: "metamorphosis-by-shindo-l"
+wordCount: 1291
 readingTimeMinutes: 6
-originalUrl: >-
-  https://docs.google.com/document/d/1cp6iw5OEyDjnD_viZo-KL0Zv4jwQnMXtE4yIovfVAco
-source: gdoc
-tags:
-  - Fiction
-  - Society
+originalUrl: "https://docs.google.com/document/d/1cp6iw5OEyDjnD_viZo-KL0Zv4jwQnMXtE4yIovfVAco"
+source: "gdoc"
 ---
 
 This review contains discussion of a work featuring sexual content and trauma that some people may find distressing.
@@ -27,11 +23,13 @@ Shindo L’s Metamorphosis1 is misery porn. It’s the story of Saki Yoshida, a
 
 It’s also porn. As in: pornography.
 
+![](https://acximages.ennals.org/images/2024-book-reviews/435a7dff9f0bb6f7.jpg)
+
 The first page of Metamorphosis, and one of the few pages I can show while keeping this review safe for work.
 
 II.
 
-Among English-speaking fans, “ecchi” refers to soft-core or merely sexually suggestive anime and manga, while “hentai” is reserved for sexually explicit Japanese media.2 The line between the two is not always clear, especially as[some](https://en.wikipedia.org/wiki/Redo_of_Healer#Anime)[works](https://en.wikipedia.org/wiki/Interspecies_Reviewers#Anime) force platforms to reconsider what they are willing to keep in their library.
+Among English-speaking fans, “ecchi” refers to soft-core or merely sexually suggestive anime and manga, while “hentai” is reserved for sexually explicit Japanese media.2 The line between the two is not always clear, especially as [some](https://en.wikipedia.org/wiki/Redo_of_Healer#Anime) [works](https://en.wikipedia.org/wiki/Interspecies_Reviewers#Anime) force platforms to reconsider what they are willing to keep in their library.
 
 But Metamorphosis is definitely hentai. However, unlike many hentai manga, the plot doesn’t read like an excuse to move from sex scene to sex scene. Instead, the sex scenes are critical to making the story work: Saki’s admittedly poor decisions seem more understandable, and her tragedy feels that much more terrible for how explicitly it is portrayed.
 
@@ -51,6 +49,8 @@ Saki wants to fit in with her classmates, but can’t afford to buy clothes or f
 
 Next, Saki’s father, returning home drunk after losing his job, rapes her. When her mother finds out, her father claims that Saki seduced him, and her mother believes him, blaming Saki. Saki flees her home and starts living with Hayato who pushes her into prostitution and harder drugs.
 
+![](https://acximages.ennals.org/images/2024-book-reviews/5a622deb38d8ab8d.jpg)
+
 Saki as a gyaru. Gyaru, a Japanese transliteration of “gal”, is a fashion subculture (and popular hentai tag).
 
 And, however bad of a life trajectory this sounds, it really only gets worse from there.
@@ -61,19 +61,23 @@ They’re reading it for the story.
 
 Saki is not blameless, but her circumstances are not entirely her own fault. The story, especially towards the end, is disturbing, but Saki remains sympathetic enough to where readers want to know how it will end.
 
+![](https://acximages.ennals.org/images/2024-book-reviews/077bda31f09a4c38.jpg)
+
 Badly. It ends badly.
 
 IV.
 
 Metamorphosis is popular. Possibly, one of the most popular pornographic works ever. It is difficult to provide statistics, especially given how often pornography is pirated, but there is evidence that readers find Metamorphosis a compelling story, beyond the pornographic content and shock value.
 
-The numbers 177013 are an[internet meme](https://knowyourmeme.com/memes/subcultures/emergence-metamorphosis-177013) in their own right, referring to the 6 digit code it was assigned on a certain hentai database. Google searching “177013” will bring up images of Saki on the first page of results; r/177013 is its own subreddit.
+The numbers 177013 are an [internet meme](https://knowyourmeme.com/memes/subcultures/emergence-metamorphosis-177013) in their own right, referring to the 6 digit code it was assigned on a certain hentai database. Google searching “177013” will bring up images of Saki on the first page of results; r/177013 is its own subreddit.
 
 Metamorphosis has fan fiction. Metamorphosis has fan art. Metamorphosis has a fan-made 10 page fully-illustrated alternative ending, “I’m Gonna Fix That Girl”, with it’s own 6 digit code, 265918.
 
-But, I think most tellingly, Metamorphosis has[cosplay](https://en.wikipedia.org/wiki/Cosplay). It’s common these days for fans to dress up as characters from their favorite comics or TV shows. It is rather less common for fans to dress up as characters from their favorite pornographic work.
+But, I think most tellingly, Metamorphosis has [cosplay](https://en.wikipedia.org/wiki/Cosplay). It’s common these days for fans to dress up as characters from their favorite comics or TV shows. It is rather less common for fans to dress up as characters from their favorite pornographic work.
 
 Metamorphosis is the only hentai I’m aware of with multiple fans cosplaying as the main character.
+
+![](https://acximages.ennals.org/images/2024-book-reviews/309b85ee5c098b0e.jpg)
 
 Rui Ai as Saki
 
@@ -86,6 +90,8 @@ What makes a book a “classic” depends on many criteria. A classic should cap
 And like some classics, many readers report the experience of reading Metamorphosis to be absolutely miserable.
 
 I don’t go around recommending Metamorphosis to people. But I can’t help but think that it’s a classic in the making, destined to become one of the significant works of literature from this era.
+
+![](https://acximages.ennals.org/images/2024-book-reviews/3b20288568f24fec.png)
 
 These book reviews often end with a picture of the cover. But that’s not safe for work, so here’s a t-shirt that I own.
 

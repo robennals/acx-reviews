@@ -7,8 +7,8 @@ contestName: 2025 Non Book Reviews
 year: 2025
 publishedDate: '2026-02-06T16:57:23.283Z'
 slug: how-many-super-mario-games-are-there-now
-wordCount: 6524
-readingTimeMinutes: 29
+wordCount: 6531
+readingTimeMinutes: 30
 originalUrl: >-
   https://docs.google.com/document/d/1B3YxYxLVFjKGicaEkqvt353kt0uimn0PSUQv1PyaHuI
 source: gdoc
@@ -18,7 +18,7 @@ tags:
 
 I don’t actually expect to have the weirdest review subject in the contest, but I’d like to be in the runners up.  
   
-Mitch Halley runs a YouTube channel formerly called Conlang Critic. I assume if you’ve heard of him before, it would be from his series of the same name, in which he ranks and reviews artificially made languages from Esperanto to Dothraki. He eventually changed the channel’s name to jan misali (which is a translation of Mitch into Toki Pona, his favorite constructed language), to reflect the increasingly eclectic nature of his content. I’ll be calling him jan Misali, or Misali for short. One strain of videos would see him attempt to categorize which Super Mario games were “mainline” and which were not, and our subject today is the magnum opus of this project. [how](https://www.youtube.com/watch?v=-Ddmjcy3lEs) [many Super Mario games are there NOW?](https://www.youtube.com/watch?v=-Ddmjcy3lEs)is a two hour long extravaganza, centered on a survey taken by thousands of people over a period of several months, and covering just about every game in the Mario series. The survey took several hours to complete even in a single sitting, which I can personally attest to. I’m going to do my best to make this review digestible even for readers who haven’t seen the video or have a staggering level of Mario knowledge, but you may want to watch it before or after in case I fail at this lofty goal. If you’re understandably unsure of whether to commit two hours to this topic, jan Misali's inaugural video on the topic [how many Super Mario games are there?](https://www.youtube.com/watch?v=XejJ6PzPtEw) is around 45 minutes, features a shorter survey, and covers a much more constrained set of games in detail, so you may want to start with that.
+Mitch Halley runs a YouTube channel formerly called Conlang Critic. I assume if you’ve heard of him before, it would be from his series of the same name, in which he ranks and reviews artificially made languages from Esperanto to Dothraki. He eventually changed the channel’s name to jan misali (which is a translation of Mitch into Toki Pona, his favorite constructed language), to reflect the increasingly eclectic nature of his content. I’ll be calling him jan Misali, or Misali for short. One strain of videos would see him attempt to categorize which Super Mario games were “mainline” and which were not, and our subject today is the magnum opus of this project. [how](https://www.youtube.com/watch?v=-Ddmjcy3lEs) [many Super Mario games are there NOW?](https://www.youtube.com/watch?v=-Ddmjcy3lEs) is a two hour long extravaganza, centered on a survey taken by thousands of people over a period of several months, and covering just about every game in the Mario series. The survey took several hours to complete even in a single sitting, which I can personally attest to. I’m going to do my best to make this review digestible even for readers who haven’t seen the video or have a staggering level of Mario knowledge, but you may want to watch it before or after in case I fail at this lofty goal. If you’re understandably unsure of whether to commit two hours to this topic, jan Misali's inaugural video on the topic [how many Super Mario games are there?](https://www.youtube.com/watch?v=XejJ6PzPtEw) is around 45 minutes, features a shorter survey, and covers a much more constrained set of games in detail, so you may want to start with that.
 
 The video itself waits for around an hour to ask the question
 
@@ -28,6 +28,10 @@ But since I don’t have the luxury of having built an audience partially answer
 
 jan Misali has structured his quest on the idea of a mainline Mario game, or “Super Mario” game for short. If you’re unfamiliar, this division between mainline and spinoff games is widely accepted within Mario and wider gaming fandom. “Super Mario” games are generally thought of as the games where the most stereotypically Mario things take place. If you’re clearing platforming challenges to beat a gross monster and rescue a princess, you’re probably playing a Super Mario game. If Mario and friends are doing something else, like driving go carts, playing tennis, or using RPG battle mechanics, you’re probably playing a Mario spinoff. Misali’s survey took (almost) every Mario video game ever released and asked its participants if they were mainline, spinoffs, or not Mario games at all. He also asks whether a game is a “distinct entry” in the Super Mario series, in order to account for the many, many rereleases of Mario games over time.
 
+![](https://acximages.ennals.org/images/2025-non-book-reviews/1d15324928eab920.png)
+
+![](https://acximages.ennals.org/images/2025-non-book-reviews/843e9213247b3163.png)
+
 Source: An example slide from the survey asking both questions about a chosen game. “Non-canon” did not end up being used to classify games very often, so I’m mostly ignoring it for the purpose of this analysis.
 
 After tallying the votes:
@@ -36,6 +40,8 @@ The way I’ve decided to count it is that if someone counts a game as part of t
 
 Games with 80% or more respondents answering in this way from the most popular individual list of mainline Super Mario games. Overall, I think this is a fairly logical way to design a survey answering this question. Its sheer breadth obviously selects for people passionate enough about the Mario series to devote the time and energy to complete it (a fact Misali readily acknowledges), but given that the target audience who would be heavily interested in this sort of question are likely to be Mario nerds as well, this doesn’t seem like a massive deal. The list of games that cross this threshold also seem fairly reasonable from the perspective of someone like me, with a lot of familiarity with the series. More or less all of the 2D and 3D platformers starring Mario are included on this list, with a notable edge case I’ll adress later.
 
+![](https://acximages.ennals.org/images/2025-non-book-reviews/6f3962718ae40e1e.png)
+
 Probably the most contentious individual point to make is about how Misali interprets the data. His purported reason for starting this video series is that there is “no consensus” on what Mario games count as mainline, and that this lack of consensus is interesting. He’s certainly correct that Nintendo doesn’t have an internally consistent list of Super Mario games (any official lists usually don’t claim to be comprehensive and vary by region), and that content creators invoking the concept of the “Super Mario series” use it to describe varying sets of games. The inclusion rate of games outside of this set of 19, however, falls off dramatically. The 20th most included game has a rate of under 50%, with the 19th game boasting over 80%! Misali’s chief defense is that
 
 [a]lmost everyone who took the survey disagrees with this list in some way. They either think this list is incomplete, or some of these games shouldn’t count, or they’re just unsure about some of these.
@@ -43,6 +49,8 @@ Probably the most contentious individual point to make is about how Misali inter
 Indeed, the percentage of people who selected the consensus list exactly is around 5%. That being said, this means the conceit of the video more or less depends on what your personal bar for consensus is, especially considering that many more respondent lists were certainly very similar to the most common one. Thankfully, Misali doesn’t belabor this point too much and quickly moves on to other aspects of the titular question that don’t require you to accept his consensus thesis.
 
 A more personal problem for me, but not something Misali can be argued to be objectively wrong about, is how he decided to classify certain games. There’s no way to quickly give this context, so bear with me for a moment. Super Mario 3D World is (almost certainly according to Misali’s survey takers) a mainline Mario game originally released for the Wii U, a previous generation Nintendo console. It was later rereleased for the Nintendo Switch, but including a new side game, Bowser’s Fury.
+
+![](https://acximages.ennals.org/images/2025-non-book-reviews/71c74541f280589e.png)
 
 Boxart of Super Mario 3D World + Bowser’s Fury, illustrating the divided nature of the two games.
 
@@ -55,6 +63,8 @@ I spent a very long time thinking over… what the best way to ask about  Bows
 I could have made special  categories for just Bowser’s Fury, but I could not justify to myself doing that  for Bowser’s Fury without doing the same thing for every single other game included as a  side mode or subgame of some other release. And that’s a problem, because if I asked people to classify every single WarioWare microgame, nobody would ever complete the survey.
 
 Now, in the interest of fairness, I can see where he was coming from. I’m just personally opposed to this conception of fairness as the most important principle for this survey. Misali’s goal was to get actual figures on what people thought about these games, and Bowser’s Fury is one of the most spirited debate topics in that context. It was more important, in my view, to get answers on this question than to be absolutely fair to the likes of Donkey Kong Jr. + Sansū Lesson.
+
+![](https://acximages.ennals.org/images/2025-non-book-reviews/98ce27bf1ffbcc53.png)
 
 Yes, this is real.
 
@@ -76,7 +86,7 @@ In this pandemonium of a podcast, absurdity and irreverence open a door to surpr
 
 ### Some Brief Context
 
-Like all Dungeons and Dragons campaigns, [Rude Tales of Magic](https://www.rudetalesofmagic.com/)involves a ragtag band of assorted creatures bumbling their way through a magical world. In this case, that world is Cordelia—a realm where the rules are bent, broken, or laughed at entirely. Our heroes meet at Polaris University, named after the city and its patron deity: Polaris—the god of going to the bathroom. Then, one day, after a strange sorority ritual gone wrong, the school disappears. Everyone and everything is gone, except for five students. And the only thing left to do… is quest.
+Like all Dungeons and Dragons campaigns, [Rude Tales of Magic](https://www.rudetalesofmagic.com/) involves a ragtag band of assorted creatures bumbling their way through a magical world. In this case, that world is Cordelia—a realm where the rules are bent, broken, or laughed at entirely. Our heroes meet at Polaris University, named after the city and its patron deity: Polaris—the god of going to the bathroom. Then, one day, after a strange sorority ritual gone wrong, the school disappears. Everyone and everything is gone, except for five students. And the only thing left to do… is quest.
 
 This episode in particular centres Albee Dawn (played by Carly Monardo): a loveable, punky, driven faun determined to become a Monk of the Four Elements. Her path—both literal and emotional—takes center stage in this episode. She is accompanied by her friends:
 

@@ -7,7 +7,7 @@ contestName: 2024 Book Reviews
 year: 2024
 publishedDate: '2026-02-06T16:49:14.005Z'
 slug: the-complete-rhyming-dictionary-and-poets-craft-book-1936-edition
-wordCount: 3906
+wordCount: 3908
 readingTimeMinutes: 18
 originalUrl: >-
   https://docs.google.com/document/d/14qa47TJ_Vyerx4XNgTCIh7PUZ_TOgNcU_eHm5So_zo0
@@ -209,9 +209,13 @@ Why the 1936 edition?
 
 Throughout the early 30s, the student newspaper of the University of British Columbia [(affectionately named the ‘Ubyssey’)](https://open.library.ubc.ca/collections/ubcpublications/ubysseynews) would run various comic poems and light verse in a recurring feature, alternately titled “Litany Coroner”, “POME”, or in one case, “Poetic Ballyhoo” (featuring GK Chesterton, who probably would have approved of being there).  These poems were, mostly, submitted by students, and can’t be found anywhere else online.  They were, mostly, written with traditional rhyme and metre, with some free verse here and there.  They were, mostly, not the highest-caliber poems you’ll ever read.
 
+![](https://acximages.ennals.org/images/2024-book-reviews/c7ae672bee544087.png)
+
 1936, however, was a bad year for poetry.  [Rudyard Kipling](https://unsongbook.com/chapter-52-the-king-of-light-beheld-her-mourning/) died, having at one point been the most widely-read contemporary poet in the English language.  [G.K. Chesterton](https://slatestarcodex.com/2015/01/31/the-parable-of-the-talents/) died, still remembered today by the [online limerick dictionary in limerick form](http://www.oedilf.com/db/Lim.php?VerseId=215349) (“Let us celebrate Gilbert Keith Chesterton / All who heard him were deeply impressed at an / Amply earnest debate / Where his words carried weight / And his own weight was, one would have guessed, a ton.”).  [Harry Graham](https://en.wikipedia.org/wiki/Harry_Graham_(poet)) died, who I had never heard of, but who Clement Wood quotes more than any other 20th century poet, exclusively in poems featuring macabre humor about dead babies (don’t ask me).
 
 And the Ubyssey inadvertently buried them with one of the [final publications](https://open.library.ubc.ca/media/download/pdf/ubysseynews/1.0125545/0) of the now-appropriately-named “Litany Coroner”.
+
+![](https://acximages.ennals.org/images/2024-book-reviews/336302d490ea84b1.png)
 
 The 1936 edition was made right in this transitional time between ‘classic’ and ‘modern’ poetry, and in many ways represents the best of both.  Poetry, especially in academia and among the kind of people who write rhyming dictionaries, was stale in the early 20th century.  Sure, Kipling and Chesterton and Graham were all writing bestsellers, but if they showed up in academia, it tended to be in student newspapers and not higher.  Plus, while they could all write in any fixed form or rhyme scheme or metre, they tended to favor simpler ones, not the rondeau or the villanelle or the triolet that academics a few decades earlier might have preferred.  Wood warns, both in the introduction and again and again throughout the book, about the failure modes he sees in poets too entrenched in archaic language and wording:
 

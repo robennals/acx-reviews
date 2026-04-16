@@ -7,7 +7,7 @@ contestName: 2024 Book Reviews
 year: 2024
 publishedDate: '2026-02-06T16:49:14.010Z'
 slug: the-master-and-margarita
-wordCount: 2554
+wordCount: 2560
 readingTimeMinutes: 12
 originalUrl: >-
   https://docs.google.com/document/d/14qa47TJ_Vyerx4XNgTCIh7PUZ_TOgNcU_eHm5So_zo0
@@ -30,7 +30,7 @@ The Master and Margarita is an apologia for the Devil.
 Pleased to meet you, hope you guess my name!  
 But what's puzzling you is the nature of my game.
 
-—The Rolling Stones, Sympathy for the Devil ([inspired by](https://en.wikipedia.org/wiki/The_Master_and_Margarita#Cultural_influence)The Master and Margarita)
+—The Rolling Stones, Sympathy for the Devil ([inspired by](https://en.wikipedia.org/wiki/The_Master_and_Margarita#Cultural_influence) The Master and Margarita)
 
 The Master and Margarita is deeply absurdist. Magical realism drives much of the book’s visceral appeal, but also serves as a sleight-of-hand distraction from the its subversiveness—a potentially life-saving defense for a writer in Soviet Russia.
 
@@ -48,7 +48,7 @@ Eventually, all three threads intertwine. Margarita befriends Satan’s retinue,
 
 ## II. Context
 
-Every one of us is a product of our culture. Some of us live in open, liberal societies; others in strict theocracies. Some of us are surrounded by intellectuals, and so value intellect; others are surrounded by believers, and value faith. A[strange few](https://en.wikipedia.org/wiki/Feral_child) have even grown up feral, adopting the attitudes and behaviors of wild wolves or monkeys.
+Every one of us is a product of our culture. Some of us live in open, liberal societies; others in strict theocracies. Some of us are surrounded by intellectuals, and so value intellect; others are surrounded by believers, and value faith. A [strange few](https://en.wikipedia.org/wiki/Feral_child) have even grown up feral, adopting the attitudes and behaviors of wild wolves or monkeys.
 
 Even so, you’d be one up on Bulgakov, because Bulgakov lived in Stalinist Russia.
 
@@ -62,7 +62,7 @@ And every culture has a way of handling these anomalies, pushing them to the mar
 
 Now is a good time to mention that Bulgakov wasn’t only a product of Stalinist culture. He grew up before Stalin’s time, in Tsarist Russia, and witnessed the Russian Revolution in his late twenties. More importantly, he was the son of a prominent Orthodox theologian, and the grandson of two Orthodox clergymen. While Bulgakov’s explicit religious beliefs aren’t quite clear (and, I have to assume, not quite orthodox), he was deeply influenced by his father, and maintained a strong inclination toward spirituality throughout his life.
 
-Christianity, it must be said, is immensely effective at psychologically enforcing conformity. Not only does it[conflate](https://en.wikipedia.org/wiki/Divine_right_of_kings) authority with God Himself, it promises an eternity of suffering for disbelief and dissent. And it personifies these things in an archetypal rebel: Satan, who refused to submit to God’s will, and started the[War in Heaven](https://en.wikipedia.org/wiki/War_in_Heaven).
+Christianity, it must be said, is immensely effective at psychologically enforcing conformity. Not only does it [conflate](https://en.wikipedia.org/wiki/Divine_right_of_kings) authority with God Himself, it promises an eternity of suffering for disbelief and dissent. And it personifies these things in an archetypal rebel: Satan, who refused to submit to God’s will, and started the [War in Heaven](https://en.wikipedia.org/wiki/War_in_Heaven).
 
 So Bulgakov found himself wedged between two competing cultures, both demanding his obedience and threatening him with punishment. The dissonance could easily drive one mad–and several writers in Bulgakov’s novel, including his stand-in, do indeed end up in the madhouse. But Bulgakov’s mind twisted the dissonance into something new: Satan, the original rebel, becomes a hero, a savior. Religious poison becomes a political cure.
 
@@ -95,7 +95,7 @@ But instead of exposing his techniques, Woland exposes the Chairman’s ongoing 
 
 Back in reality, did Bulgakov take on Satan’s role and rebel? The answer is complicated. As it turns out, he was one of Stalin’s favorite writers, thanks to a book (and subsequent play) he wrote about the Russian Revolution. Stalin even intervened when the play was canceled due to poor reviews.
 
-And this happened despite the fact that Bulgakov was repeatedly critical of Stalin’s government. It’s a miracle he wasn’t murdered over it. Here’s a taste of a couple of his lesser-known works,[via](https://en.wikipedia.org/wiki/Mikhail_Bulgakov#Works) Wikipedia:
+And this happened despite the fact that Bulgakov was repeatedly critical of Stalin’s government. It’s a miracle he wasn’t murdered over it. Here’s a taste of a couple of his lesser-known works, [via](https://en.wikipedia.org/wiki/Mikhail_Bulgakov#Works) Wikipedia:
 
 The Fatal Eggs tells of the events of a Professor Persikov, who…discovers a red ray that accelerates growth in living organisms…the Soviet government puts the ray into use at a farm…the eggs produce giant monstrosities that wreak havoc in the suburbs of Moscow and kill most of the workers on the farm…This tale of a bungling government earned Bulgakov his label of counter-revolutionary.
 
@@ -105,7 +105,7 @@ But perhaps “miracle” isn’t quite the right word for Bulgakov’s survival
 
 Frustrated, Bulgakov wrote to Stalin personally, asking for permission to emigrate to America. The two spoke on the phone: Bulgakov agreed to stay, and Stalin agreed to let him go back to his work in theater.
 
-So Bulgakov was indeed a rebel, but he also relied on and negotiated with the target of his rebellion. His complicated relationship with Stalin even inspired a (deeply fictionalized) play,[Collaborators](https://en.wikipedia.org/wiki/Collaborators_(play)).
+So Bulgakov was indeed a rebel, but he also relied on and negotiated with the target of his rebellion. His complicated relationship with Stalin even inspired a (deeply fictionalized) play, [Collaborators](https://en.wikipedia.org/wiki/Collaborators_(play)).
 
 After his un-banning, Bulgakov languished, with most of his writing going unpublished. The little that did get out was severely criticized in the Soviet press. He wrote The Master and Margarita during these years, while struggling with sickness and, understandably, depression. At one point—just like the fictional Master—he burned his working manuscript, and later had to rewrite it from memory. When he died in 1940, there were only a few unfinished sentences, nothing a good editor couldn’t polish away.
 

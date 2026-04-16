@@ -7,7 +7,7 @@ contestName: 2025 Non Book Reviews
 year: 2025
 publishedDate: '2026-02-06T16:55:03.480Z'
 slug: miniatur-wunderland-the-model-train-that-dreams-its-a-world
-wordCount: 6790
+wordCount: 6802
 readingTimeMinutes: 31
 originalUrl: >-
   https://docs.google.com/document/d/1a3q0Z2tuPLLbDeg5-pfEffkajGjrfPDwE7ZMs7uaWQs
@@ -15,6 +15,8 @@ source: gdoc
 tags:
   - Technology
 ---
+
+![](https://acximages.ennals.org/images/2025-non-book-reviews/78c89b962b9ab858.png)
 
 According to my friend, who shall remain anonymous, Miniatur Wunderland is the Best Museum in the WorldTM. He wasn’t wrong, as it turns out [1], but I think my scepticism at the time (and presumably yours right now) was perfectly justified.
 
@@ -28,6 +30,8 @@ Miniatur Wunderland is a permanent exhibition in Hamburg, Germany, which holds t
 
 This is still a deeply inadequate description. But it's precisely this struggle to convey Miniatur Wunderland’s charm in words that made me want to write this review. Some experiences resist language so stubbornly that they demand to be captured, if only to document the failure of the attempt.
 
+![](https://acximages.ennals.org/images/2025-non-book-reviews/9b2b53dc6364cecc.png)
+
 ## What makes Miniatur Wunderland so difficult to explain?
 
 Miniatur Wunderland presents the classic [ekphrasis](https://www.wikiwand.com/en/articles/Ekphrasis) challenge of translating a visual experience into words, with the difficulty dial turned all the way to Nightmare mode. There are thousands of tiny scenes happening simultaneously across different landscapes. The density of visual information borders on sensory overload, and describing it feels like trying to explain a Hieronymus Bosch painting. Although I'd admit Bosch poses his own unique challenges, a certain je ne sais [(pour)quoi is that naked man being devoured by a bird-headed monster wearing a kettle as a hat?](https://www.artspace.com/magazine/interviews_features/lists/the-10-worst-ways-to-die-in-a-hieronymous-bosch-painting-53872) Which Miniatur Wunderland mostly avoids. Mostly.
@@ -40,15 +44,25 @@ Otherwise, definitely no homework required to continue reading! Here are a few p
 
 Part of the airport car park:
 
+![](https://acximages.ennals.org/images/2025-non-book-reviews/f31bbf8c13eb38a3.png)
+
 The airport terminal:
+
+![](https://acximages.ennals.org/images/2025-non-book-reviews/b09aa19296045776.png)
 
 Rio de Janeiro at night:
 
-DJ Bobo’s Concert:
+![](https://acximages.ennals.org/images/2025-non-book-reviews/c96d229525156a37.png)
+
+DJ Bobo’s Concert:![](https://acximages.ennals.org/images/2025-non-book-reviews/085df3eda163e926.png)
 
 A gondola in Venice:
 
+![](https://acximages.ennals.org/images/2025-non-book-reviews/731c7ac6cc74b30f.png)
+
 Italian blend at night:
+
+![](https://acximages.ennals.org/images/2025-non-book-reviews/cf8bfdc565e39c0c.png)
 
 There are four qualities that are central to the Miniatur Wunderland experience which are difficult to capture through photos or videos. Believe me, I tried, and I have 246 photos and videos to prove it (still, a laughably inadequate sample, but my phone ran out of battery):
 
@@ -139,6 +153,10 @@ Meanwhile, police cruisers will block access roads around the dangerous emergenc
 
 Seasonal decorations transform sections throughout the year. I visited shortly before Halloween, so farmers were growing pumpkins and selling them at the market, ghosts were haunting houses, and there was an eclectic Halloween parade where the line between costumed humans and actual monsters blurred.
 
+![](https://acximages.ennals.org/images/2025-non-book-reviews/fe57c54463d9595e.png)
+
+![](https://acximages.ennals.org/images/2025-non-book-reviews/b2fdffdb56267a5e.png)
+
 Last week, they celebrated [May the 4th](https://www.youtube.com/watch?v=1HwIzS1XPSQ) recreating some of the most iconic scenes from the Star Wars saga, including a speeder-biker race through the Monaco Formula 1 circuit (Star Wars references are also a constant throughout the year, including a Millenium Falcon, which occasionally lands at Knuffingen Airport).
 
 The exhibit also responds to significant global events. After the recent papal election, white smoke rose from the Sistine Chapel in the Vatican section.
@@ -159,7 +177,11 @@ And these are just some random fun facts from one small part of one region.
 
 There is a drive-in cinema which when I visited was  screening a Pixar short (obviously, what else). I loved the figurine of a woman who was ironing while watching the movie, just like my mother likes to do (though she doesn’t have a penchant for doing it in public).
 
+![](https://acximages.ennals.org/images/2025-non-book-reviews/55fca15bb4107b69.png)
+
 In the Hamburg section, you can of course find a meta-surprise: the Miniatur Wunderland Miniature (see the picture at the top of this post). Peer through the windows of the building and you’ll glimpse a mini-model of the very exhibition you’re standing in. If you squint (or bring a magnifying glass with you), you can even see the world's smallest model railroad, built at a scale of 1:7,569.
+
+![](https://acximages.ennals.org/images/2025-non-book-reviews/63b12ac65ae3f65a.png)
 
 At the push of a button, the Elbphilharmonie (Hamburg’s Philharmonie) opens to reveal the detailed interior of the concert hall, with miniature musicians halfway through a performance, moving their tiny arms. Funnily enough, the miniature building was actually completed before the real one was finished: a testament to how efficiently everything works in this pocket universe.
 
@@ -199,6 +221,8 @@ A massive world-class exhibition of engineering excellence and microscopic detai
 
 Somewhere in Monaco…. there’s a rooftop party for rich people. Scrooge McDuck is there, caught mid-jump into a pool of gold.
 
+![](https://acximages.ennals.org/images/2025-non-book-reviews/8820f3d703281a12.png)
+
 In the harbor, you can spot James Bond’s yacht (which, at the touch of a button, reveals his legendary red Ferrari, hidden inside) as well a gloomy, black yacht that stands out like a sore thumb (which is only apt for their owners, the Adams Family, which I imagine are fans of sore thumbs).
 
 Also in Monaco, Nintendo characters are placed on the Formula-1 race track.
@@ -229,7 +253,7 @@ Here’s the official version (which, lest you doubt my summarising skills, is e
 
 In July 2000, Frederik Braun was visiting the alpine city of Zurich, Switzerland. Strolling through the alleys of Zurich’s center, he came across a railway model shop, which at once evoked childhood memories in him. Inspired by this reminiscence, the idea to make a long forgotten childhood dream come true became more and more prominent within hours after seeing the railway model shop.
 
-The “at once evoked childhood memories” part could make you believe that he was very interested in trains as a child. From my (limited, imperfect) research, it looks like journalists often lean into the idea that the twins were lifelong train enthusiasts, presumably because it makes a tidy story. But my reading is that, yes, they liked trains, but they liked other things even more, including LEGO and construction games, and then fire departments (and following this, model fire trucks). Which, if one so insists, can also clearly be used for the purpose of imposing a clean narrative arc. They write in their [autobiography:](https://shop.miniatur-wunderland.de/buch-kleine-welt-grosser-traum.html)
+The “at once evoked childhood memories” part could make you believe that he was very interested in trains as a child. From my (limited, imperfect) research, it looks like journalists often lean into the idea that the twins were lifelong train enthusiasts, presumably because it makes a tidy story. But my reading is that, yes, they liked trains, but they liked other things even more, including LEGO and construction games, and then fire departments (and following this, model fire trucks). Which, if one so insists, can also clearly be used for the purpose of imposing a clean narrative arc. They write in their [autobiography:](https://shop.miniatur-wunderland.de/buch-kleine-welt-grosser-traum.html) 
 
 Fire departments have two attractions we couldn't resist in the long run: They are red. They are loud. And in our case: There was a fire station nearby. Fire station 13 on Sedanstraße was just around the corner. I believe we stood in front of the gates for hours, and when the gates opened and a fire engine drove out with sirens blaring, we would hop on our bicycles and chase after them. When the streets were reasonably clear, they naturally soon left us behind. But that didn't stop us. We asked pedestrians and kept pestering people until we knew where the fire department had gone. I should emphasize that we weren't rubberneckers. We weren't interested in horror images of the injured or dramatic rescues of people standing in burning window frames too afraid to jump. […]
 

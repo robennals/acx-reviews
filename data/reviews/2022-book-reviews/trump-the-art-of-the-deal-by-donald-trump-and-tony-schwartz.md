@@ -111,7 +111,7 @@ Oh-no!
 
 [...] I hope to have the Taj open by October 1988
 
-Oh-kay? So Trump is building the largest and most lavish casino next door to his other casinos? I wonder, how did that work out? [All](https://www.google.com/url?q=https://www.nytimes.com/2016/06/12/nyregion/donald-trump-atlantic-city.html&sa=D&source=editors&ust=1770366106840530&usg=AOvVaw3w2wLzcY_ZTmUltNvNcR2x) [3 casinos went bankrupt by 1992](https://www.google.com/url?q=https://www.nytimes.com/2016/06/12/nyregion/donald-trump-atlantic-city.html&sa=D&source=editors&ust=1770366106840714&usg=AOvVaw0IvW6u5ysz_SjTrT_Yq4A8).
+Oh-kay? So Trump is building the largest and most lavish casino next door to his other casinos? I wonder, how did that work out? [All](https://www.nytimes.com/2016/06/12/nyregion/donald-trump-atlantic-city.html) [3 casinos went bankrupt by 1992](https://www.nytimes.com/2016/06/12/nyregion/donald-trump-atlantic-city.html).
 
 Let our lesson in the art of the deal be: If lever your casino with so much non-recourse (meaning you won't be liable if the business goes down) debt that only an exceptionally good run can make it stay in business, we will end up with either
 
@@ -208,7 +208,7 @@ So powerful a message that he even got his subcontractors to forgo their profits
 
 publicity can be.
 
-Except, Trump may have forgotten to mention his subcontractors during the press conferences, [taking all the credit for himself](https://www.google.com/url?q=https://www.wnyc.org/story/donald-trump-saving-nyc-millions-or-making-millions-taxpayers/&sa=D&source=editors&ust=1770366106851128&usg=AOvVaw1vAfA2t5Y-pEuni3a5OSDF):
+Except, Trump may have forgotten to mention his subcontractors during the press conferences, [taking all the credit for himself](https://www.wnyc.org/story/donald-trump-saving-nyc-millions-or-making-millions-taxpayers/):
 
 HRH was promised publicity in exchange for doing the work on Wollman Rink, but it never got so much as a mention from Trump for its work.
 
@@ -332,9 +332,9 @@ discriminating against black tenants. Cohn replied:
 
 My view is tell them to go to hell and fight the thing in court and let them prove that you discriminated, which seems to me very difficult to do, in view of the fact that you have black tenants in the building. I don’t think you have any obligation to rent to tenants who would be undesirable, white or black, and the government doesn’t have a right to run your business.
 
-Cohn was willing to tell Trump what he wanted to hear. He told him that [they should countersue](https://www.google.com/url?q=https://www.documentcloud.org/documents/2186613-realty-company-asks-100-million-bias-damages.html&sa=D&source=editors&ust=1770366106864991&usg=AOvVaw31YmhPyryAd0v4PTNtb_FS)
+Cohn was willing to tell Trump what he wanted to hear. He told him that [they should countersue](https://www.documentcloud.org/documents/2186613-realty-company-asks-100-million-bias-damages.html)
 
-[for $100m](https://www.google.com/url?q=https://www.documentcloud.org/documents/2186613-realty-company-asks-100-million-bias-damages.html&sa=D&source=editors&ust=1770366106865136&usg=AOvVaw0L1HmWX_1c_unHkZbQfq_-).
+[for $100m](https://www.documentcloud.org/documents/2186613-realty-company-asks-100-million-bias-damages.html).
 
 We ended up making a minor settlement without admitting any guilt. Instead, we agreed to do some equal-opportunity advertising of vacancies for a period of time in the local newspaper. And that was the end of the suit.
 

@@ -7,7 +7,7 @@ contestName: 2024 Book Reviews
 year: 2024
 publishedDate: '2026-02-06T16:47:49.305Z'
 slug: fundamentals-of-marxism-leninism-by-kuusinen-et-al
-wordCount: 5638
+wordCount: 5639
 readingTimeMinutes: 26
 originalUrl: >-
   https://docs.google.com/document/d/1QiotH3aGFgNLGqsIHTK_Plm_gem2E4l2C2ctyGJd0jY
@@ -182,7 +182,7 @@ Within social media, the "MAGA communist" [Jackson Hinkle](https://www.nytimes.c
 
 Some of his followers might also find the modern left not only too feminist but even more importantly too feminine. The old socialist imagery of manly workers, aggressive strikes, guerrillas with a rifle in hand and so on, has been replaced by pastel tones and images of care. To those for whom the Age of Man is not over on the left, the Soviet imagery of strength and manly valor offers an alluring point of reference, one not connected to capitalism or fascism, movements they might not feel comfortable in supporting for other reasons.
 
-The Soviets, of course, too proclaimed women's rights, but in terms that might sound conservative to our ears: "The socialist system (...) not only gives women equal rights with men, but it also accords the motherhonour and respect. The state grants working mothers long paid maternity leaves, gives monthly allowances to mothers of large families and unmarried mothers, and decorates mothers of large families with orders or medals.” (p. 742)
+The Soviets, of course, too proclaimed women's rights, but in terms that might sound conservative to our ears: "The socialist system (...) not only gives women equal rights with men, but it also accords the mother honour and respect. The state grants working mothers long paid maternity leaves, gives monthly allowances to mothers of large families and unmarried mothers, and decorates mothers of large families with orders or medals.” (p. 742)
 
 A charlatan Hinkle may be. Ideologically, his "communism" is a combination of anti-American talking points, social conservatism and personal promotion. Most Western communists would not trust Hinkle farther than they can throw him. Instead, they tend to trust progress in the modern progressive sense, feminism and environmentalism included alongside Old Left methods and symbology. Even the economic models that they implicitly support may be closer to stamocap than to the Soviet trust in a state where the state explicitly ran the great majority of the economy.
 

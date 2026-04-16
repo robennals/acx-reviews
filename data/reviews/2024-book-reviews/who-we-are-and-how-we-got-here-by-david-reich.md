@@ -7,7 +7,7 @@ contestName: 2024 Book Reviews
 year: 2024
 publishedDate: '2026-02-06T16:49:50.823Z'
 slug: who-we-are-and-how-we-got-here-by-david-reich
-wordCount: 7201
+wordCount: 7203
 readingTimeMinutes: 33
 originalUrl: >-
   https://docs.google.com/document/d/1Ki5XsE0jkxZtd2XAeyTAJw1ZjLh2Cu-matUYKAhA6-s
@@ -40,7 +40,7 @@ But scattered throughout the tedium are bursts of amazing novelty. Over and over
 
 One cannot help but marvel that the bulk of these discoveries occurred over a period of only about six years—and the book was written six years ago! I was lightly interested in this field in college, I could have been involved! It's great stuff. I don't think I've ever had my assumptions proven wrong so many times by so short a book. Everything I learned in school is irrelevant now.
 
-Here's how it all happened: advances in molecular biology made it possible to extract and analyze DNA from the bones of ancient humans, even when the original organic material is almost entirely degraded and contaminated with microbes. These techniques were rapidly improved and scaled up throughout the 2010s, and as of 2018 had, according to Reich, "surpassed the traditional toolkit of archaeology" in their capacity to convincingly determine the movements and changes in prehistoric human populations. The breadth of the findings came as a surprise to almost everyone. It's an advance comparable to the invention of radiocarbon dating. Before, we could tell when a person had lived, but our best guess as to whothey were relied on the comparatively crude analysis of skeletal structure and archaeological context. DNA, it turns out, is fantastically more informative. It's all very cool. The book is a perfectly adequate exposition, and so for that purpose I'd recommend it.
+Here's how it all happened: advances in molecular biology made it possible to extract and analyze DNA from the bones of ancient humans, even when the original organic material is almost entirely degraded and contaminated with microbes. These techniques were rapidly improved and scaled up throughout the 2010s, and as of 2018 had, according to Reich, "surpassed the traditional toolkit of archaeology" in their capacity to convincingly determine the movements and changes in prehistoric human populations. The breadth of the findings came as a surprise to almost everyone. It's an advance comparable to the invention of radiocarbon dating. Before, we could tell when a person had lived, but our best guess as to who they were relied on the comparatively crude analysis of skeletal structure and archaeological context. DNA, it turns out, is fantastically more informative. It's all very cool. The book is a perfectly adequate exposition, and so for that purpose I'd recommend it.
 
 But given how interesting it all is, how does the book manage to stay so dry?
 
@@ -80,7 +80,7 @@ In a famous essay “The Iliad, or the Poem of Force”, the 20th century Christ
 
 ## 3\. Who We Study and What They Think About It
 
-The famous opening line: “Rage—Goddess, sing the rage of Peleus’ son Achilles”. The statedsubject of The Iliad is the rage of Achilles, that is, the anger of the single most dangerous man on the battlefield; it is his prowess which ensures his anger matters at all. Whoever has power must be taken seriously by others—hence Achilles' anger can determine the course of an entire war. A lesser warrior would have been hanged. Whoever lacks power can only appeal for their emotions to be respected. They cannot make it so by force. Unless the powerful—or enough of the collective—choose to care, the powerless will go uncared for.
+The famous opening line: “Rage—Goddess, sing the rage of Peleus’ son Achilles”.  The stated subject of The Iliad is the rage of Achilles, that is, the anger of the single most dangerous man on the battlefield; it is his prowess which ensures his anger matters at all. Whoever has power must be taken seriously by others—hence Achilles' anger can determine the course of an entire war. A lesser warrior would have been hanged. Whoever lacks power can only appeal for their emotions to be respected. They cannot make it so by force. Unless the powerful—or enough of the collective—choose to care, the powerless will go uncared for.
 
 In the end King Priam of Troy arrives before Achilles a suppliant begging for the return of the body of his son Hector to be buried. Priam’s appeal breaks Achilles’ rage at last. The two weep together. The king's request is granted. No one bothers to grieve, though, for the thousands of lesser combatants who have been butchered in droves over the past 500 pages.
 

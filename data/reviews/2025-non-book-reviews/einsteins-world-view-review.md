@@ -7,7 +7,7 @@ contestName: 2025 Non Book Reviews
 year: 2025
 publishedDate: '2026-02-06T16:52:48.892Z'
 slug: einsteins-world-view-review
-wordCount: 3861
+wordCount: 3862
 readingTimeMinutes: 18
 originalUrl: >-
   https://docs.google.com/document/d/1d0vRSj1E93joWWvbUen2XGuDjN_mM94ybMIAADzM2fo
@@ -61,7 +61,7 @@ Having spent a fair amount of time studying Einstein’s ideas in my physics deg
 
 Einstein took pride in being Jewish describing the features of Jewish tradition he particularly admired as "The pursuit of knowledge for its own sake, an almost fanatical love of justice, and the desire for personal independence." That affinity only grew after persecution of Jews heightened in Germany, he said: "My relationship to the Jewish people has become my strongest human bond, ever since I became fully aware of our precarious position among the nations of the world.” And on his travels often preferred to stay with local Jewish enclaves.
 
-He supported creating a Jewish homeland to escape persecution but also to preserve Jewish identity,which he saw as “rooted in a common historical tradition, in a common cultural possession."
+He supported creating a Jewish homeland to escape persecution but also to preserve Jewish identity, which he saw as “rooted in a common historical tradition, in a common cultural possession." 
 
 He traveled to Palestine to show support for Zionism.  On visiting Tel Aviv he complemented the city’s economic and intellectual life, attributing it to “What an incredibly lively people our Jews are!”
 
@@ -165,7 +165,7 @@ One criticism might be that his proposed remedies aren’t very substantial and 
 
 Nor does he give any technical proposal on how to ensure it actually does run the economy more efficiently.
 
-Einstein himself would probably agree with that criticism, he described those problems as “extremely difficult socio-political problems” and that “Clarity about the aims and problems of socialism is of greatest significance in our age of transition. Since, under present circumstances, free and unhindered discussion of these problems has come under a powerful taboo”
+Einstein himself would probably agree with that criticism, he described those problems as “extremely difficult socio-political problems” and that “Clarity about the aims and problems of socialism is of greatest significance in our age of transition. Since, under present circumstances, free and unhindered discussion of these problems has come under a powerful taboo” 
 
 Einstein clearly saw solving those technical problems as something to be left to others and his own role as bringing the issue to attention and reducing the taboo around the subject.
 

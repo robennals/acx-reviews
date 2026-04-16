@@ -1,5 +1,5 @@
 ---
-title: "The Hunt for Red October\_is Tom Clancy"
+title: The Hunt for Red October is Tom Clancy
 author: Unknown
 reviewAuthor: Anonymous
 contestId: 2024-book-reviews
@@ -7,7 +7,7 @@ contestName: 2024 Book Reviews
 year: 2024
 publishedDate: '2026-02-06T16:49:14.008Z'
 slug: the-hunt-for-red-october-is-tom-clancy
-wordCount: 4435
+wordCount: 4437
 readingTimeMinutes: 20
 originalUrl: >-
   https://docs.google.com/document/d/14qa47TJ_Vyerx4XNgTCIh7PUZ_TOgNcU_eHm5So_zo0
@@ -81,6 +81,8 @@ But Cardinal also takes pains to balance the scales with some anti-homophobia m
 
 This feels a bit out of place near the end of a book featuring Dr. Bea Taussig, a conversation between FBI agents about how they shouldn’t suspect her just for being a lesbian, and a plot that confirms they were right to pre-judge her. Grading on a curve of Reagan-era attitudes towards homosexuality, I think Clancy was at least trying to be nuanced in his depiction of gay people, but it feels hilariously outdated by modern standards. This fits Clancy’s general pattern that all are welcome, as long as you help us beat the communists. This applies to everyone from American straight women, to American gay men, to Afghan straight men, to Russian straight men defecting from the Soviet Union! Any deviation from Clancy’s normal can be forgiven as long as you embrace this great country of ours. But intersectional feminists in the audience will be unsurprised to learn two or more deviations may be a dealbreaker…
 
+![](https://acximages.ennals.org/images/2024-book-reviews/6c49812c7e85a921.png)
+
 Used with permission from a locked twitter account
 
 At times, Clancy gets philosophical. One scene which I appreciated had an FBI chief musing on the tension between scientific progress and security: “the problem with scientists… was simply that they lived in a world very different from that understood and appreciated by the security community. To them, progress depended on the free transfer of information and ideas… To a security officer the ideal world was one where nobody talked to anyone else. The problem with that, of course, was that such a world rarely did anything worth securing in the first place”. From Clancy, this felt refreshingly balanced and level-headed, and speaks to a tension that continues to this day.
@@ -91,4 +93,4 @@ Clancy makes direct contact with a philosopher once, opening Cardinal with a qu
 
 The Cardinal of the Kremlin is a continuation of The Hunt for Red October, but not an elevation of it. Clancy’s novels have real appeal: the technothrills thrill, the black-and-white morality is easy to digest, and the military operations are filled with both tension and attention to detail. It’s a nice, unchallenging world, where you can let yourself feel the characters’ peril while safely assured that our boys are good, and good will triumph over evil. But I also enjoyed Hunt as a political treatise, and Cardinal is largely the same political treatise, without the submarines-for-SDI substitution that keeps the plot fresh. Clancy’s simplified morality and characters continue to be a double-edged sword, cutting away any nuance or character growth that might provide novelty. For me, Cardinal failed perhaps the most important test of a serial novel: I’m not interested in reading its sequel.
 
-Now let’s conclude the story of the intrepid author. After his 1985 Reagan bump, Clancy became a prolific and successful writer, putting out 14 books in the next 20 years and making hundreds of millions of dollars. Sensing a hit, Hollywood also courted him and adapted his novels into movies, including the one I watched back in highschool. Unsurprisingly, Clancy [took issue with liberal Hollywood elites](https://www.latimes.com/archives/la-xpm-1995-02-21-ca-34347-story.html), though he also took their money. By 2003, Clancy was living his own American dream, with a big mansion, a [tank on his lawn](https://www.washingtonpost.com/lifestyle/style/what-ticks-tom-clancy-off/2013/10/02/66a20b38-2b7b-11e3-8ade-a1f23cda135e_story.html), and a stake in his [hometown baseball team](https://en.wikipedia.org/wiki/Baltimore_Orioles). But Clancy’s written output had a lull from 2003 to 2010, when “he” returned with co-authors (ghostwriters). I can’t help but think Clancy had written what he wanted to write, his beloathed USSR had been defeated for a decade, and he was ready for the next step of his career. It was time for Clancy to ascend to the highest Reaganite ideal: not simply a mortal, but a brand. He succeeded in this as well. We now live in a world with Tom Clancy’s Rainbow Six (1998-present),Tom Clancy’s Splinter Cell (2002-present), and Tom Clancy’s The Division (2016-present), but no Tom Clancy (1947-2013).
+Now let’s conclude the story of the intrepid author. After his 1985 Reagan bump, Clancy became a prolific and successful writer, putting out 14 books in the next 20 years and making hundreds of millions of dollars. Sensing a hit, Hollywood also courted him and adapted his novels into movies, including the one I watched back in highschool. Unsurprisingly, Clancy [took issue with liberal Hollywood elites](https://www.latimes.com/archives/la-xpm-1995-02-21-ca-34347-story.html), though he also took their money. By 2003, Clancy was living his own American dream, with a big mansion, a [tank on his lawn](https://www.washingtonpost.com/lifestyle/style/what-ticks-tom-clancy-off/2013/10/02/66a20b38-2b7b-11e3-8ade-a1f23cda135e_story.html), and a stake in his [hometown baseball team](https://en.wikipedia.org/wiki/Baltimore_Orioles). But Clancy’s written output had a lull from 2003 to 2010, when “he” returned with co-authors (ghostwriters). I can’t help but think Clancy had written what he wanted to write, his beloathed USSR had been defeated for a decade, and he was ready for the next step of his career. It was time for Clancy to ascend to the highest Reaganite ideal: not simply a mortal, but a brand. He succeeded in this as well. We now live in a world with Tom Clancy’s Rainbow Six (1998-present), Tom Clancy’s Splinter Cell (2002-present), and Tom Clancy’s The Division (2016-present), but no Tom Clancy (1947-2013).

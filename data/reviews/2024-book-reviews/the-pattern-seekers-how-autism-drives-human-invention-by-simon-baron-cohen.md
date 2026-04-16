@@ -7,7 +7,7 @@ contestName: 2024 Book Reviews
 year: 2024
 publishedDate: '2026-02-06T16:49:50.814Z'
 slug: the-pattern-seekers-how-autism-drives-human-invention-by-simon-baron-cohen
-wordCount: 5009
+wordCount: 5014
 readingTimeMinutes: 23
 originalUrl: >-
   https://docs.google.com/document/d/1Ki5XsE0jkxZtd2XAeyTAJw1ZjLh2Cu-matUYKAhA6-s
@@ -51,6 +51,8 @@ In humans, this snowballing in complexity required a second catalyst: the theory
 Systematising and empathising are the twin helices that weave throughout Baron-Cohen's body of work. His research involves coming up with questions that allow us to express the ability to systematise and empathise as quotients (from here on in, 'SQ' and 'EQ'), then running large questionnaire-based studies to see how these traits are distributed amongst various populations, and what else they might be correlated with.
 
 If we combine SQ and EQ in a two-by-two, we get a matrix of neurotypes that looks like this:
+
+![](https://acximages.ennals.org/images/2024-book-reviews/5e9aefa8a44066f4.png)
 
 Baron-Cohen splits these neurotypes into five categories.
 
@@ -96,7 +98,7 @@ First, let's work through a few obvious counterarguments to the big central clai
 
 * * *
 
-2.  ## Obvious Objections
+2.  ##    Obvious Objections
     
 
 ### But isn't autism rigid and repetitive? That sounds like the opposite of creativity.
@@ -137,6 +139,8 @@ Baron-Cohen doesn't do the best job of explaining exactly what distinguishes ass
 
 The upshot is that in wild animals, any tool use involves essentially one step, or at most two: a sequence of events they could have plausibly stumbled onto by accident.
 
+![](https://acximages.ennals.org/images/2024-book-reviews/350c911685416dc5.jpg)
+
 [ucumari photography](https://www.flickr.com/photos/ucumari/) | CC 2.0
 
 Chimps are a pretty great test case here, in that we have a recent common ancestor (so they've had the same amount of time as us to invent disc golf and nuclear fission) and they have plenty of raw smarts, to the point where they can e.g. memorise nine-digit sequences much faster than humans can. But even in captivity, chimps are almost incapable of understanding causal reasoning, and lack the instinct to experiment that is already present in human infants.
@@ -151,6 +155,8 @@ This seems like an important question to resolve. Fortunately, Baron-Cohen has g
 
 Again: yes, but only the kind of tools you could plausibly stumble across by chance, with no evidence of any drive to experiment. Across a span of millions of years, the only big breakthrough was in banging rocks together in a slightly more sophisticated way.
 
+![](https://acximages.ennals.org/images/2024-book-reviews/021dc390cc39c58a.jpg)
+
 literal cutting-edge technology in the palaeolithic
 
 Baron-Cohen's reading of the archaeological record is that almost nothing happened up until approximately 70,000-100,000 years ago, and then it all happened in an explosion of activity: jewellery, controlled fire, engraving, bow-and-arrow hunting, sewing, art, dwellings, and so on.
@@ -163,7 +169,7 @@ No. Or at least, that's not sufficient: apes have opposable thumbs, neanderthals
 
 ### Why would a complicated polygenic trait lead to a sudden step change in ability?
 
-Mutations are way less exciting than X-Men led us to believe: you can develop the ability to e.g. use electromagnetic radiation to navigate your environment, but you have to start with a near-useless cluster of photosensitive cells and make a bunch of incremental improvements over 100 million years—you don't jump straight to a fully-formed eyeball.
+Mutations are way less exciting than X-Men led us to believe: you can develop the ability to e.g. use electromagnetic radiation to navigate your environment, but you have to start with a near-useless cluster of photosensitive cells and make a bunch of incremental improvements over 100 million years—you don't jump straight to a fully-formed eyeball.![](https://acximages.ennals.org/images/2024-book-reviews/247f2dd91c7ccfd9.png)
 
 wikimedia | CC 3.0
 
@@ -226,13 +232,15 @@ This is where Baron-Cohen's theory gives us some hope (or despair, depending on 
 
 At the end of the book, Baron-Cohen speculates that the systematising trait might follow something like an inverted U-shaped curve: more is better, but only up to a point.
 
+![](https://acximages.ennals.org/images/2024-book-reviews/5ab2d3e37af78423.png)
+
 Once you reach the top of the curve, the whole 'rigidity and repetition' thing starts to become pathological, until you become the kind of person who is compelled to spend all day arranging toys in rows and counting them over and over. The hyper-focus on one system interferes with learning about the wider world, including very important things like language and speech.
 
 If Deutsch is right about universality, then silicon-based people will not be immune to this problem. But they will very likely have other advantages, like a larger memory and faster processing speeds—which brings us to intelligence.
 
 ### 4\. Why do autistic people score worse than average on IQ tests?
 
-Here's a paradox our host has[previously pondered](https://slatestarcodex.com/2019/11/13/autism-and-intelligence-much-more-than-you-wanted-to-know/): the genes that contribute to autism are associated with higher intelligence, but if you have too many of them, you somehow become less intelligent. Why?
+Here's a paradox our host has [previously pondered](https://slatestarcodex.com/2019/11/13/autism-and-intelligence-much-more-than-you-wanted-to-know/): the genes that contribute to autism are associated with higher intelligence, but if you have too many of them, you somehow become less intelligent. Why?
 
 Some cases of autism are caused by straightforwardly bad things that interrupt normal development, e.g. maternal illness or de novo mutations. It isn't surprising to see harmful effects there. But even cases of autism that are caused entirely by the normal genetic lottery seem to lead to a lower average IQ.
 

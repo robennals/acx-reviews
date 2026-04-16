@@ -7,8 +7,8 @@ contestName: 2024 Book Reviews
 year: 2024
 publishedDate: '2026-02-06T16:49:14.005Z'
 slug: the-case-against-reality-by-donald-hoffman
-wordCount: 1792
-readingTimeMinutes: 8
+wordCount: 1803
+readingTimeMinutes: 9
 originalUrl: >-
   https://docs.google.com/document/d/14qa47TJ_Vyerx4XNgTCIh7PUZ_TOgNcU_eHm5So_zo0
 source: gdoc
@@ -19,7 +19,9 @@ tags:
 
 This is not a red stop sign:
 
-For one thing, in a[ceci n'est pas une pipe](https://en.wikipedia.org/wiki/The_Treachery_of_Images) way, it’s not a stop sign at all, but a digital representation of a photograph of a stop sign, made visible by a computer monitor or maybe a printer. More subtly, “red” is not a quality of the sign, but of the consciousness that perceives it.[1] Even if you were to generously define “red” to be a specific set of wavelengths of light that could in theory be ascertained without the benefit of consciousness, that still would be a measurement of something that the sign repels rather than is.[2]
+![Stop Sign Picture | Free Photograph | Photos Public Domain](https://acximages.ennals.org/images/2024-book-reviews/bfa9af5a5eae33dd.jpg)
+
+For one thing, in a [ceci n'est pas une pipe](https://en.wikipedia.org/wiki/The_Treachery_of_Images) way, it’s not a stop sign at all, but a digital representation of a photograph of a stop sign, made visible by a computer monitor or maybe a printer. More subtly, “red” is not a quality of the sign, but of the consciousness that perceives it.[1] Even if you were to generously define “red” to be a specific set of wavelengths of light that could in theory be ascertained without the benefit of consciousness, that still would be a measurement of something that the sign repels rather than is.[2]
 
 We on some level understand these things, but we seem much more prone to think of ourselves as living in a world in which stop signs are red; the redness inheres in the sign out there in the world, rather than the redness being our own reaction to light reflecting from the sign, or rather than the sign and the redness being coincident private figments of perception. And no amount of thinking this through seems to dispel the illusion: it’s just too practically useful to put the color onto the external object to make it seem worthwhile to relearn how to perceive reality differently.
 

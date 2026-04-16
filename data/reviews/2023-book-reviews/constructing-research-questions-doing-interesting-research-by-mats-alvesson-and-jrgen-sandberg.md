@@ -10,7 +10,7 @@ year: 2023
 publishedDate: '2026-02-06T07:21:10.027Z'
 slug: >-
   constructing-research-questions-doing-interesting-research-by-mats-alvesson-and-jrgen-sandberg
-wordCount: 2276
+wordCount: 2277
 readingTimeMinutes: 11
 originalUrl: >-
   https://docs.google.com/document/d/10CiEI7aDL2bMIdx7yayy3vlq0TJ8dO5LGnG7yIDPiw8
@@ -70,6 +70,8 @@ As we have seen above, problematization focuses on challenging the underlying as
 4.  Develop alternative assumptions: Once you have decided on assumptions you want to challenge, you have to find alternative assumptions that are better at explaining the world. The important thing here is that you have to be truly open to new assumptions. You want to avoid reproducing your own biases. This can be helped by a) reading sources outside of the field, b) simply reversing the original assumptions, c) talking with people who hold assumptions that are different to yours.
 5.  Relate assumptions to the audience: Before you challenge assumptions, you have to check that people even hold them. Would be kind of a bummer if you challenged assumptions that nobody has. Also, you have to consider what the effects on the audience and society could be if the assumptions are successfully challenged.
 6.  Evaluate the alternative assumptions you came up with in its totality: Once you completed the first 5 steps, you have to check where your collection of alternative assumptions ends up on this graph:
+
+![interesting](https://acximages.ennals.org/images/2023-book-reviews/00c62616f4885849.jpg)
 
 If you challenge too few assumptions, people will discard it as obvious, but if you challenge too many, people will feel like you are proving too much and will just see it as absurd. You want the sweet spot where people read your alternative assumptions and their first reaction is: “That’s interesting!”.
 

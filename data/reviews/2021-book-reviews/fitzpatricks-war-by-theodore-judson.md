@@ -1,5 +1,5 @@
 ---
-title: "Fitzpatrick’s War\_by Theodore Judson"
+title: Fitzpatrick’s War by Theodore Judson
 author: Unknown
 reviewAuthor: Anonymous
 contestId: 2021-book-reviews

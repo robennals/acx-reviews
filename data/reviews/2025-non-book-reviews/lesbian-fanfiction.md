@@ -7,7 +7,7 @@ contestName: 2025 Non Book Reviews
 year: 2025
 publishedDate: '2026-02-06T16:55:03.479Z'
 slug: lesbian-fanfiction
-wordCount: 4111
+wordCount: 4134
 readingTimeMinutes: 19
 originalUrl: >-
   https://docs.google.com/document/d/1a3q0Z2tuPLLbDeg5-pfEffkajGjrfPDwE7ZMs7uaWQs
@@ -50,6 +50,8 @@ Other warnings: this dives into certain aspects of sexuality, so while there are
         A ‘Ship’, short for ‘relationship’, is a pairing, usually (but not necessarily) of two characters. A ‘Shipper’ is someone who is emotionally invested in the relationship between those two characters and its success. A shipper ‘ships’ (as a verb) those two characters. Relationships between characters are often expressed as <name>/<name>, with the forward slash indicating a romantic relationship. Certain ships possess a ship name; some ships possess multiple names, and then the shippers disagree over the ship name, and another argument is born on the internet.
 
         A ship can be canonical (the relationship happens explicitly in the source material) or noncanonical (the relationship doesn’t explicitly happen in the source material, although it might be hinted at or ‘teased’). This is referred to as a ‘canon’ ship or a ‘noncanon’ ship. Ships can be between any number of characters of any combination of gender identities.
+
+![Two boats preparing to fire cannons at one another, with the 'ship' names labeling them.](https://acximages.ennals.org/images/2025-non-book-reviews/c6e638c4df705cf0.png)
 
 The characters of Avatar: The Last Airbender engage in fierce debate over whether or not Kutara should have ended up with Aang or Zuko.
 
@@ -94,17 +96,21 @@ Enemies to Lovers, where the two characters in the ship start out as enemies and
 
         Lesbian fanfic in particular has a few tropes that are less well represented in het fics, usually for obvious reasons.
 
-[Comphet](https://en.wikipedia.org/wiki/Compulsory_heterosexuality#:~:text=Compulsory%20heterosexuality%2C%20often%20shortened%20to,%2C%20allonormative%2C%20and%20heteronormative%20society.) is a common trope - one or both of the characters involved never realized that they could view women sexually until the other character ‘awakened’ them. This tends to come into play when characters are from a more traditional or conservative background, like Quinn Fabray in Glee (when paired with Santana or, my preference, Rachel Berry) or Alicent Hightower (when paired with Rhaenyra Targaryen) in House of the Dragon.
+        [Comphet](https://en.wikipedia.org/wiki/Compulsory_heterosexuality#:~:text=Compulsory%20heterosexuality%2C%20often%20shortened%20to,%2C%20allonormative%2C%20and%20heteronormative%20society.) is a common trope - one or both of the characters involved never realized that they could view women sexually until the other character ‘awakened’ them. This tends to come into play when characters are from a more traditional or conservative background, like Quinn Fabray in Glee (when paired with Santana or, my preference, Rachel Berry) or Alicent Hightower (when paired with Rhaenyra Targaryen) in House of the Dragon.
 
         Gay panic is another, related, trope that pops up a lot; I tend to view this as authors processing their own experiences through their writing. There’s also a wealth of fics that deal specifically with discrimination in regards to gay or lesbian pairings.
 
-[And They Were Roommates](https://www.intomore.com/the-internet/memes/the-fascinating-origin-of-and-they-were-roommates/) is a popular trope, especially given that historically, many lesbians have been referred to as ‘roommates’ when in reality they were romantically together (and had to conceal that fact).
+        [And They Were Roommates](https://www.intomore.com/the-internet/memes/the-fascinating-origin-of-and-they-were-roommates/) is a popular trope, especially given that historically, many lesbians have been referred to as ‘roommates’ when in reality they were romantically together (and had to conceal that fact).
 
         One of my favorite tropes is Sun Lesbian, Moon Lesbian, where the pairing is between two girls with opposing personalities that nonetheless mesh: one is cheerful, bright, and outgoing, while the other is quiet, brooding, and quirky. Their aesthetics will reflect this, with the sun lesbian dressing in bright colors and the moon lesbian in dark colors. The best canon pairing of this nature I know of is RWBY’s Yang Xiao Long and Blake Belladonna:
+
+![](https://acximages.ennals.org/images/2025-non-book-reviews/dcea7100566027a9.png)
 
 Yang on the left, Blake on the right. Guess which one’s the sun and which is the moon.
 
 And my favorite noncanon pairing of this nature is Wednesday Addams and Enid Sinclair:
+
+![](https://acximages.ennals.org/images/2025-non-book-reviews/3fd97d33efdf2bf7.png)
 
 AND THEY WERE ROOMMATES.
 
@@ -115,6 +121,8 @@ There’s a lot of smut. Just so, so much of it. But it’s almost always passio
 In fanfic of The 100 pairing Lexa and Clarke Griffon, for instance, the sex is almost always laden with emotion. There’s hate sex revolving around Lexa’s betrayal of Clarke, life-affirming sex in fanfics where (spoilers) Lexa survives, and gentle, caring sex where the emotional weight of the two women’s in-story burdens are explored.
 
 Something that interests me greatly is that there is very often - far more than chance, I would argue - a dominant/submissive dynamic, and the dominant partner usually corresponds to which character is represented as the more ‘masculine’ of the two. Between Lexa and Clarke, for instance, Lexa is usually dominant in the bedroom in most fics, and she’s a trained soldier and commander in the show - a traditionally masculine role. If you look at how she dresses:
+
+![](https://acximages.ennals.org/images/2025-non-book-reviews/c7b1caa97afdd149.png)
 
 Not exactly traditional feminine wear.
 
@@ -147,7 +155,9 @@ As an example, let’s look at the Once Upon A Time fandom. On Archive of Our Ow
 
         How does a pairing start? Or, to use the correct vernacular, how is a ship launched?
 
-        Usually a pairing will begin with a spark in the canon. There will be a scene in the book or show or movie where the characters meet, and a shipper will interpret it as sexually-charged. This is a common beginning for lesbian ships when a scene wouldbe sexually charged if it were taking place between a man and a woman, but since it’s two women the source material doesn’t interpret it that way. A good example might be from Buffy the Vampire Slayer. One of the early scenes between Faith and Buffy feature this:
+        Usually a pairing will begin with a spark in the canon. There will be a scene in the book or show or movie where the characters meet, and a shipper will interpret it as sexually-charged. This is a common beginning for lesbian ships when a scene would be sexually charged if it were taking place between a man and a woman, but since it’s two women the source material doesn’t interpret it that way. A good example might be from Buffy the Vampire Slayer. One of the early scenes between Faith and Buffy feature this:
+
+![](https://acximages.ennals.org/images/2025-non-book-reviews/99ba0da9f476d001.png)
 
 Faith is drawing a heart in her misted breath and looking at Buffy. Definitely something straight people do for their gal-pals.
 
@@ -156,6 +166,8 @@ If this scene happened between a man and a woman, it would clearly be indicative
 A few short fics of the pairing might appear as someone explores the idea, a small community sprouting up centered around the pairing of the characters. The watershed moment comes when someone writes the “canonical” or “best” fanfic of that pairing, which is then called the <shipname>-bible. The characterizations established in the ship bible then go on to influence the rest of the shipping fandom.
 
 I saw this process happen in real time for the Lightcannon pairing, which ships the two League of Legends characters Jinx and Luxanna Crownguard. The pairing was born from a single frame of a launch trailer for a mobile game:
+
+![](https://acximages.ennals.org/images/2025-non-book-reviews/353a8d38f157d6a1.png)
 
 Lux on the left, Jinx on the right. And yes, this is all it takes to get a shipper going.
 
@@ -173,9 +185,13 @@ These competing incentives drive the phenomenon known as queerbaiting, where a q
 
 A good example of queerbaiting comes from the movie Pitch Perfect, where Beca Mitchell and Chloe Beale are the most popular lesbian ship. While not their first meeting, at one point Chloe ambushes Beca in the shower, naked, in order to recruit her for an acapella group. The scene - and Beca and Chloe’s relationship - is so sexually charged that they literally admit it in the sequel, with Chloe telling Beca that she regrets not ‘experimenting more’ in college.
 
+![](https://acximages.ennals.org/images/2025-non-book-reviews/11f7a02fc9d1ca56.png)
+
 Actresses Brittany Snow (Chloe Beale) and Anna Kendrick (Beca Mitchel) not playing it straight.
 
         The most egregious example of queerbaiting I’m aware of, however, comes from Once Upon A Time (OUaT), an ABC show where Disney characters are living in a modern-day town in Maine. Emma Swan, daughter of Prince Charming and Snow White, arrives in town at the behest of her son, who she gave up to adoption…whose adopted mother is Regina Mills, the Evil Queen. The SwanQueen ship arose from the chemistry between the two leading ladies, who go from immediate enemies to intimate friends all while raising a child together. If you want to know more, here’s the [shipping wiki link](https://shipping.fandom.com/wiki/Swan_Queen) for the pairing, and a [history of femslash article](https://gizmodo.com/the-history-of-femslash-the-tiny-fandom-thats-taking-o-1765143690) that explicitly called out the showrunners for Queerbaiting.
+
+![](https://acximages.ennals.org/images/2025-non-book-reviews/bd5c146fdf189e37.png)
 
 Friends hold their friends’ faces tenderly in their hands, right?
 

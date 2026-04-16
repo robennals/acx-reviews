@@ -7,7 +7,7 @@ contestName: 2022 Book Reviews
 year: 2022
 publishedDate: '2026-02-06T07:24:08.699Z'
 slug: economic-hierarchies-by-gordon-tullock
-wordCount: 9126
+wordCount: 9132
 readingTimeMinutes: 41
 originalUrl: >-
   https://docs.google.com/document/d/1pRQbRbEUwSH_jm94PI_ij-88swat7vQ4iNaNp6gd39g
@@ -29,7 +29,9 @@ When I was a kid, I always wondered what the bare minimum number of people requi
 
 As an adult building a business or organization also scratches that itch though it is far more unwieldy, and the central planner fantasy proves to be just that. Do we know how many people with what skills are needed to do certain civilizational feats? Rockets capture the imagination, but if we want to take our organizations to the moon, we are going to need something more than rocket fuel; we will need operational excellence, the thing we are all waiting for -- a fully fleshed out theory of bureaucracy!
 
-Gordon Tullock’s Economic Hierarchies is a hunt for that Red October of theories. As an opening salvo, it provides just enough to titillate the future scraggly nudist who will be working in front of cameras while building the Prospera Space Agency from scratch. Yes, I know space flight is not feasible for 900 people, (Space X alone has 9,500 employees; a lot more automation would be required for just 900 to make rockets work), but because rockets are cool, 900 naked aerospace engineers will serve as my prime motivating example while we dissect Economic Hierarchies. So, let’s imagine, that like a new age [Gregor MacGregor](https://www.google.com/url?q=https://en.wikipedia.org/wiki/Gregor_MacGregor%23Eager_settlers&sa=D&source=editors&ust=1770366233460854&usg=AOvVaw16MJ28gT_whsmKHgwy_Fre), we are sending our 900 to Prospera to build out of just raw commodities the Prospera Space Agency.
+Gordon Tullock’s Economic Hierarchies is a hunt for that Red October of theories. As an opening salvo, it provides just enough to titillate the future scraggly nudist who will be working in front of cameras while building the Prospera Space Agency from scratch. Yes, I know space flight is not feasible for 900 people, (Space X alone has 9,500 employees; a lot more automation would be required for just 900 to make rockets work), but because rockets are cool, 900 naked aerospace engineers will serve as my prime motivating example while we dissect Economic Hierarchies. So, let’s imagine, that like a new age [Gregor MacGregor](https://en.wikipedia.org/wiki/Gregor_MacGregor#Eager_settlers), we are sending our 900 to Prospera to build out of just raw commodities the Prospera Space Agency.
+
+![](https://acximages.ennals.org/images/2022-book-reviews/4211973e14764eda.png)
 
 Tullock starts with Robert Coase’s essay “The Nature of the Firm”.
 
@@ -77,6 +79,8 @@ How will the entrepreneur learn if something is not going right? How will the de
 
 From the perspective of the mid-level bureaucrat there is a cloud of people in the organization -some higher, some lower. In the figure below our mid-level bureaucrat is the x, everyone in the oval has some immediate effect on his actions. The dots are constantly moving in and out of the oval. The purpose Tullock has in mind is to motivate a meditation on the difference between the formal, official and informal, organic structures of the organization and attempt to reconcile them. Besides the diagram, he also deploys this motivating excerpt from War and Peace in which the character Boris Dubretskoy discovers the difference.
 
+![](https://acximages.ennals.org/images/2022-book-reviews/95a28217db82890a.jpg)
+
 At the moment when Boris entered, Prince Andrey, drooping his eyelids disdainfully (with that peculiar air of courteous weariness which so distinctly says, “If it were not my duty, I would not stay talking to you for a minute”), was listening to an old Russian general with many decorations, who, rigidly erect, almost on tiptoe, was laying some matter before Prince Andrey with the obsequious expression of a common soldier on his purple face.
 
 “Very good, be so kind as to wait a moment,” he said to the general in Russian, with that French accent with which he always spoke when he meant to speak disdainfully, and noticing Boris, Prince Andrew to no further notice of the general (who ran after him with entreaties, begging his to hear something more), but nodded to Boris with a bright smile, as he turned towards him. At that moment Boris saw distinctly what he had had an inkling of before, that is , that quite apart from that subordination and discipline, which is written down in the drill-book, and recognized in the regiment and known to him, there was in the army another and more actual subordination, that which made this rigid, purple-faced general wait respectfully while Prince Andrey—of captain’s rank—found it more in accordance with his pleasure to talk to Lieutenant Boris Drubetskoy. Boris felt more than ever determined to follow in future the guidance not of the written code laid down in the regulations, but of this unwritten code. He felt now that simply because he had been recommended to Prince Andrey, he had become at one step superior to the general, who in other circumstances, at the front, could annihilate a mere lieutenant in the guards like him.
@@ -117,10 +121,12 @@ Like a medieval king teaming up with the rich men of the towns to force the lord
 
 “No, sir, more like around.”
 
+![](https://acximages.ennals.org/images/2022-book-reviews/50758ac43aed9c32.jpg)
+
 3.  ## Span of Control
     
 
-The move from information to compliance brings us to the major issue of the book [“Span of Control,”](https://www.google.com/url?q=https://en.wikipedia.org/wiki/Span_of_control&sa=D&source=editors&ust=1770366233475692&usg=AOvVaw32zV6d2-Jj9LaPsbvxEc14) the number of subordinates an individual is responsible for. Such issues run us right into that most feared of demons, bureaucracy. 
+The move from information to compliance brings us to the major issue of the book [“Span of Control,”](https://en.wikipedia.org/wiki/Span_of_control) the number of subordinates an individual is responsible for. Such issues run us right into that most feared of demons, bureaucracy. 
 
 Tullock offers a sneaky definition of a bureaucrat: someone who’s activity in the organization is not judged by market forces. So, bureaucrats instead of doing the thing which is rewarded by revenue ensures that the thing is done which is rewarded by revenue. Within all sufficiently large organizations, there is a bureaucracy, somewhat hierarchical, which is supposed to ensure that something gets done to the minimum standards. What makes this definition so sneaky is how much activity falls within the name ‘bureaucracy.’
 
@@ -136,7 +142,7 @@ Tullock does not say that bureaucratic agents exist to ensure the work gets don
 
 I remember one man who went in about the same time I did into the Department of State and rose very much faster. He had just been appointed counselor minister of the embassy, a small one, at the time that I was contemplating resignation. He kept emphasizing the necessity of improving his bridge game because he had heard that the ambassador liked bridge. Efforts to get him to comment on the political situation, a fascinating one, in his assigned country were completely frustrated. He simply was not interested.
 
-In his review of [Seeing Like A State](https://www.google.com/url?q=https://slatestarcodex.com/2017/03/16/book-review-seeing-like-a-state/&sa=D&source=editors&ust=1770366233478454&usg=AOvVaw1U1mYB_97ngNdyiQv9DGV4) Scott asked why do these people keep getting promoted even though their hair-brained bulldozer plans and neat rectangular grids maim and destroy society? I think the answer lies somewhere in this. Le Corbusier can propose the same crazy plan for Moscow and Paris, and then spend all his time schmoozing and endearing himself in high society.
+In his review of [Seeing Like A State](https://slatestarcodex.com/2017/03/16/book-review-seeing-like-a-state/) Scott asked why do these people keep getting promoted even though their hair-brained bulldozer plans and neat rectangular grids maim and destroy society? I think the answer lies somewhere in this. Le Corbusier can propose the same crazy plan for Moscow and Paris, and then spend all his time schmoozing and endearing himself in high society.
 
 The superior must create a structure to make sure his will is carried out towards the desired goal(s). This structure is called the span of control. When we assume that with each additional intermediary there is a percentage loss in the execution of the desires of the superior, then the superior has to make choices about how to organize the bureaucracy so that his will can be done. There are endless variations on this in the book, laborious yet insightful.
 
@@ -179,6 +185,8 @@ This fabricated structure is actually quite realistic. Supervisors, whether they
 I see this passage and thought experiment as a culminating one. Many of the insights scattered throughout the work are included here. Span of control depreciates down the hierarchy inviting different methods, such as random audits and administrative shake-ups to reduce the depreciation rate and limit rent seeking, the importance and treacherous nature of incentives manifests, all these essential elements of the work are present. Yet, like much of the book, he fails to tie this together into a coherent framework for determining how any such an organization should be set up. I feel so close to a visceral insight, but so far I’m drawing a blank.
 
 I do want to meet “the Napoleon of Safeway”; that’d be a treat.
+
+![](https://acximages.ennals.org/images/2022-book-reviews/5a0b3e246fa863a9.jpg)
 
 4.  ## Governance and Incentives and Committees
     
@@ -239,6 +247,8 @@ It is one of the characteristics of capitalism or, for that matter, any kind of 
 
 I find this an important and interesting reminder for political and ethical reasons. Society in its governments and organizations confers benefits and incentives on us, but when we make rules which compel action, it is likely best, insofar as possible, to remember that freedom for exit is an important check. People might choose to incur the high costs of a reduction in benefits, but that is not the same as a punishment. Offering people these options seems to be a hallmark of a nontyrannical society. At the same time, if you want to boycott Amish furniture because of their free-riding on certain tax-payer benefits, you can still do that and thus increase the cost of being Amish.
 
+![](https://acximages.ennals.org/images/2022-book-reviews/11824a53037ff32c.jpg)
+
 ### Committees
 
 Anyway, getting back to governance, we need to talk about committees. The endless supply of committees. The neverending meetings of committees. Why do they torture us so?
@@ -253,7 +263,7 @@ This seems to cost in efficiency though. Committees are not known for moving fas
 
 A relatively risk-neutral person would probably be more likely to take chances with his own corporation than with a corporation by which he is hired. I have a friend who for a time was a high official in one of the more powerful and older American corporations. He said one of the real functions of the committee structure in this corporation was that it permitted people to take large risks without any responsibility. You never could trace any losses back to anyone. This protection may have set the other phenomenon [of creating inefficiency].
 
-Frankly, I never thought of this. I am very surprised by this idea! Committees take risks where individuals won’t? I want some more evidence before I can be convinced. Maybe the idea is that they can in some circumstances be a type of bravery support group so that collectively the institution can pass the bravery test and make tough and risky decisions? Or maybe, the average individual is more afraid of being blamed for a decision gone wrong that will take them out of the game, and so, on average committees dominate dictators? I’m not sure of this, though [I’ve written on related issues before.](https://www.google.com/url?q=https://www.lesswrong.com/posts/LB2bY379dcyfAZYvy/we-agree-speeches-all-around&sa=D&source=editors&ust=1770366233497826&usg=AOvVaw1ohAnal_JbKKfggtKShC1M)
+Frankly, I never thought of this. I am very surprised by this idea! Committees take risks where individuals won’t? I want some more evidence before I can be convinced. Maybe the idea is that they can in some circumstances be a type of bravery support group so that collectively the institution can pass the bravery test and make tough and risky decisions? Or maybe, the average individual is more afraid of being blamed for a decision gone wrong that will take them out of the game, and so, on average committees dominate dictators? I’m not sure of this, though [I’ve written on related issues before.](https://www.lesswrong.com/posts/LB2bY379dcyfAZYvy/we-agree-speeches-all-around)
 
 Why then is a committee a good vehicle? We have mentioned that individual committee members will not produce as many ideas as they would if the same individuals were dealt with separately. Assume that five junior officials produce some particular quantity of new ideas individually. And that when you subtracted the duplication, there would be a total of say 25 ideas. The committee would produce fewer ideas, say fifteen, as many as three individuals operating by themselves. They then examine this collection of ideas and write them according to merit, passing on one to their superiors as the principal recommendation with possibly several alternatives. They are fully prepared to switch to another if the superior does not approve of it. The process will not be perfect. However, it is likely that the top idea passed on to the superior is, say, one of the three best out of fifteen.
 
@@ -302,5 +312,7 @@ I have also become more agnostic about general structure mattering so much. Alth
 As a meandering meditation with anecdotes Economic Hierarchies is a great lubricant for bureaucratic story swapping. Gordon Tullock’s favorite examples involved Safeway, Napoleon Bonaparte, the Department of State, Chinese government, and Fairfield Ltd. a real estate construction company. If he were successful in working some deep insight into my mind, I would be proposing we go out and test a few ideas right now.
 
 As it is, I, like him, submit myself to aporia and leave the adventure to you.
+
+![](https://acximages.ennals.org/images/2022-book-reviews/534035a56a942c55.jpg)
 
 * * *

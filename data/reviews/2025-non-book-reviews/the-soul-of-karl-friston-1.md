@@ -7,7 +7,7 @@ contestName: 2025 Non Book Reviews
 year: 2025
 publishedDate: '2026-02-06T16:55:59.400Z'
 slug: the-soul-of-karl-friston-1
-wordCount: 5858
+wordCount: 5869
 readingTimeMinutes: 27
 originalUrl: >-
   https://docs.google.com/document/d/1jYVJFIz5-aMi0LCgsC9AN6BncJDNVGaMU37QmwZ1vzA
@@ -125,7 +125,7 @@ N.B. I hereby promise that all further footnotes are purely citations, so there�
 
  [5] Diogenes Laertius 10:19
 
- [6] Sedley, D. (1976). Epicurus and his professional rivals. In J. Bollack & A. Laks (Eds.), Études sur l’épicurisme antique (pp. 119–159). Presses universitaires du Septentrion.[https://doi.org/10.4000/books.septentrion.118335](https://doi.org/10.4000/books.septentrion.118335)
+ [6] Sedley, D. (1976). Epicurus and his professional rivals. In J. Bollack & A. Laks (Eds.), Études sur l’épicurisme antique (pp. 119–159). Presses universitaires du Septentrion. [https://doi.org/10.4000/books.septentrion.118335](https://doi.org/10.4000/books.septentrion.118335)
 
  [7] Plutarch, Adversus Colotem, section 3, 1108e–f. https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A2008.01.0397%3Asection%3D3
 
@@ -141,7 +141,7 @@ N.B. I hereby promise that all further footnotes are purely citations, so there�
 
  [13] Cicero, Fam. 7.12. [https://topostext.org/work/136](https://topostext.org/work/136)
 
- [14] See Armstrong, D. (2011). Epicurean virtues, Epicurean friendship: Cicero vs the Herculaneum papyri. In J. Fish & K. R. Sanders (Eds.), Epicurus and the Epicurean Tradition (1st ed., pp. 105–128). Cambridge University Press.[https://doi.org/10.1017/CBO9780511921704.006](https://doi.org/10.1017/CBO9780511921704.006)
+ [14] See Armstrong, D. (2011). Epicurean virtues, Epicurean friendship: Cicero vs the Herculaneum papyri. In J. Fish & K. R. Sanders (Eds.), Epicurus and the Epicurean Tradition (1st ed., pp. 105–128). Cambridge University Press. [https://doi.org/10.1017/CBO9780511921704.006](https://doi.org/10.1017/CBO9780511921704.006)
 
  [15] Mishnah Sanhedrin 10:1. [https://www.sefaria.org/Mishnah\_Sanhedrin.10.1](https://www.sefaria.org/Mishnah_Sanhedrin.10.1); Pirkei Avot 2:14. [https://www.sefaria.org/Pirkei\_Avot.2.14](https://www.sefaria.org/Pirkei_Avot.2.14); [https://www.sefaria.org/search?q=אפיקורס](https://www.sefaria.org/search?q=%D7%90%D7%A4%D7%99%D7%A7%D7%95%D7%A8%D7%A1)
 
@@ -173,11 +173,11 @@ N.B. I hereby promise that all further footnotes are purely citations, so there�
 
  [29] ibid.
 
- [30] Netz, R. (2015). Were There Epicurean Mathematicians? In B. Inwood (Ed.), Oxford Studies in Ancient Philosophy, Volume 49 (p. 0). Oxford University Press.[https://doi.org/10.1093/acprof:oso/9780198749516.003.0008](https://doi.org/10.1093/acprof:oso/9780198749516.003.0008)
+ [30] Netz, R. (2015). Were There Epicurean Mathematicians? In B. Inwood (Ed.), Oxford Studies in Ancient Philosophy, Volume 49 (p. 0). Oxford University Press. [https://doi.org/10.1093/acprof:oso/9780198749516.003.0008](https://doi.org/10.1093/acprof:oso/9780198749516.003.0008)
 
  [31] Letter to Menoeceus, quoted in Diogenes Laertius 10:123; 10:131
 
- [32] Chief Maxims III, quoted in Diogenes Laertius 10:139. See Warren, J., & Adamson, P. (2011, December 18). Transcript: 59—James Warren on Epicureanism. History of Philosophy without Any Gaps.[https://historyofphilosophy.net/transcript/warren-epicurus](https://historyofphilosophy.net/transcript/warren-epicurus)
+ [32] Chief Maxims III, quoted in Diogenes Laertius 10:139. See Warren, J., & Adamson, P. (2011, December 18). Transcript: 59—James Warren on Epicureanism. History of Philosophy without Any Gaps. [https://historyofphilosophy.net/transcript/warren-epicurus](https://historyofphilosophy.net/transcript/warren-epicurus)
 
  [33] Chief Maxims I, quoted in Diogenes Laertius 10:139
 
@@ -189,7 +189,7 @@ N.B. I hereby promise that all further footnotes are purely citations, so there�
 
  [37] Active Inference, 47
 
- [38] Kirchhoff, M., Parr, T., Palacios, E., Friston, K., & Kiverstein, J. (2018). The Markov blankets of life: Autonomy, active inference and the free energy principle. Journal of The Royal Society Interface, 15(138), 20170792.[https://doi.org/10.1098/rsif.2017.0792](https://doi.org/10.1098/rsif.2017.0792)
+ [38] Kirchhoff, M., Parr, T., Palacios, E., Friston, K., & Kiverstein, J. (2018). The Markov blankets of life: Autonomy, active inference and the free energy principle. Journal of The Royal Society Interface, 15(138), 20170792. [https://doi.org/10.1098/rsif.2017.0792](https://doi.org/10.1098/rsif.2017.0792)
 
  [39] Active Inference, 60
 
@@ -197,26 +197,26 @@ N.B. I hereby promise that all further footnotes are purely citations, so there�
 
  [41] Chief Maxims  XI, quoted in Diogenes Laertius 10:142
 
- [42] Clark, A. (2016). Surfing uncertainty: Prediction, action, and the embodied mind (pp. 194–195). Oxford University Press.[https://doi.org/10.1093/acprof:oso/9780190217013.001.0001](https://doi.org/10.1093/acprof:oso/9780190217013.001.0001)
+ [42] Clark, A. (2016). Surfing uncertainty: Prediction, action, and the embodied mind (pp. 194–195). Oxford University Press. [https://doi.org/10.1093/acprof:oso/9780190217013.001.0001](https://doi.org/10.1093/acprof:oso/9780190217013.001.0001)
 
  [43] Chief Maxims XXXVI, quoted in Diogenes Laertius 10:151
 
- [44] Friston, K., Thornton, C., & Clark, A. (2012). Free-Energy Minimization and the Dark-Room Problem. Frontiers in Psychology, 3.[https://doi.org/10.3389/fpsyg.2012.00130](https://doi.org/10.3389/fpsyg.2012.00130)
+ [44] Friston, K., Thornton, C., & Clark, A. (2012). Free-Energy Minimization and the Dark-Room Problem. Frontiers in Psychology, 3. [https://doi.org/10.3389/fpsyg.2012.00130](https://doi.org/10.3389/fpsyg.2012.00130)
 
  [45] Active Inference, p. 34
 
  [46] Friston et al., (2012)
 
- [47] Gilden, D. L. (2001). Cognitive emissions of 1/f noise. Psychological Review, 108(1), 33–56.[https://doi.org/10.1037/0033-295X.108.1.33](https://doi.org/10.1037/0033-295X.108.1.33)
+ [47] Gilden, D. L. (2001). Cognitive emissions of 1/f noise. Psychological Review, 108(1), 33–56. [https://doi.org/10.1037/0033-295X.108.1.33](https://doi.org/10.1037/0033-295X.108.1.33)
 
- [48] Vul, E., Goodman, N., Griffiths, T. L., & Tenenbaum, J. B. (2014). One and Done? Optimal Decisions From Very Few Samples. Cognitive Science, 38(4), 599–637.[https://doi.org/10.1111/cogs.12101](https://doi.org/10.1111/cogs.12101); Shanks, D., Tunney, R. & McCarthy, J. (2002) A re-examination of probability matching and rational choice. Journal of Behavioral Decision Making 15(3):233–50.
+ [48] Vul, E., Goodman, N., Griffiths, T. L., & Tenenbaum, J. B. (2014). One and Done? Optimal Decisions From Very Few Samples. Cognitive Science, 38(4), 599–637. [https://doi.org/10.1111/cogs.12101](https://doi.org/10.1111/cogs.12101); Shanks, D., Tunney, R. & McCarthy, J. (2002) A re-examination of probability matching and rational choice. Journal of Behavioral Decision Making 15(3):233–50.
 
  [49] Friston (2012)
 
- [50] Adamson, P. (2012, March 4). 70—The Know Nothing Party: The Skeptical Academy. History of Philosophy without Any Gaps.[https://historyofphilosophy.net/skeptics-academy](https://historyofphilosophy.net/skeptics-academy)
+ [50] Adamson, P. (2012, March 4). 70—The Know Nothing Party: The Skeptical Academy. History of Philosophy without Any Gaps. [https://historyofphilosophy.net/skeptics-academy](https://historyofphilosophy.net/skeptics-academy)
 
  [51] Friston (2012)
 
  [52] Friston et al., (2012)
 
- [53] Adamson, P. (2016, March 27). 250. Q&A. History of Philosophy without Any Gaps.[https://historyofphilosophy.net/q-and-a](https://historyofphilosophy.net/q-and-a)
+ [53] Adamson, P. (2016, March 27). 250. Q&A. History of Philosophy without Any Gaps. [https://historyofphilosophy.net/q-and-a](https://historyofphilosophy.net/q-and-a)

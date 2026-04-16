@@ -7,7 +7,7 @@ contestName: 2024 Book Reviews
 year: 2024
 publishedDate: '2026-02-06T16:48:20.713Z'
 slug: politics-on-the-edge
-wordCount: 5319
+wordCount: 5322
 readingTimeMinutes: 24
 originalUrl: >-
   https://docs.google.com/document/d/1cp6iw5OEyDjnD_viZo-KL0Zv4jwQnMXtE4yIovfVAco
@@ -30,7 +30,7 @@ Critics from the left dislike them because they are the establishment. Supposedl
 
 The latter claim is in particular one against Stewart, who is meant to be the conservative on the show, though he was expelled from the party in 2019, before leaving parliament. Given the popularity of TRIP in the UK, Stewart may be the most, or only, widely respected right-leaning politician in the country (at least in polite society). From this position, Stewart recently published a memoir of his time in government - Politics on the Edge (POTE). It was an immediate bestseller.
 
-The current Tory[[309]](#ftnt309)government is almost certain to lose the next election (which must be held before February 2025), and is likely to lose it by historic margins. The country is in the longest period of wage stagnation since the Napoleonic wars[[310]](#ftnt310). POTE is an opportunity to examine the government of a country in decline, and to understand a man who left that government.
+The current Tory[[309]](#ftnt309) government is almost certain to lose the next election (which must be held before February 2025), and is likely to lose it by historic margins. The country is in the longest period of wage stagnation since the Napoleonic wars[[310]](#ftnt310). POTE is an opportunity to examine the government of a country in decline, and to understand a man who left that government.
 
 2.  ## Who is Rory Stewart?
     
@@ -117,6 +117,8 @@ This book is a memoir, not a manifesto. Is it fair to criticise it for failing t
 
 Britain used to be one of the richest countries in the world, and now it is not. GDP has increased steadily since the great recession, due to a growing population, but GDP per capita peaked in 2007 (17 years ago). This is the result of stagnant productivity, which peaked around the same time.
 
+![](https://acximages.ennals.org/images/2024-book-reviews/5bce3eae863eb747.png)
+
 Figure 1: UK productivity from 1979 to 2023, linked to “[chronic underinvestment](https://www.lse.ac.uk/News/Latest-news-from-LSE/2023/k-November-2023/Chronic-under-investment-has-led-to-productivity-slowdown-in-the-UK#)”.
 
 If not for the longest period of wage stagnation since the Napoleonic wars, the average worker would earn [£11,000 more](https://www.theguardian.com/business/2023/mar/20/uuk-workers-wage-stagnation-resolution-foundation-thinktank) (a 32% increase, for the average full-time worker in 2023[[312]](#ftnt312)). Why? Unfortunately, nobody really knows. Instead we have several, partially adequate, not fully satisfactory theories.
@@ -124,6 +126,8 @@ If not for the longest period of wage stagnation since the Napoleonic wars, the 
 Many believe the dire situation is due to the combination of austerity and Brexit, both delivered by the Conservative party. There is logic to this: both have had predictable negative consequences. Simon-Wren Lewis, a left-leaning economist, [has suggested](https://mainlymacro.blogspot.com/2017/11/disentangling-uk-productivity-problem.html) that the negative shocks resulted in a pessimistic outlook where firms are reluctant to invest, creating a self fulfilling prophecy where the economy moves to new slow-growth equilibrium. This aligns with data showing the UK has chronically low investment (see source for Figure 1).
 
 The biggest problem with this narrative is a counterfactual which did not implement austerity or depart the EU, and suffers from the exact same post-2008 stagnation - most of Europe. Compared to France, Spain, Italy, Portugal, and to a lesser extent Germany, the UK performance looks very ordinary.
+
+![](https://acximages.ennals.org/images/2024-book-reviews/bde942c0d9063224.png)
 
 Figure 2: GDP per capita for the UK compared to European peers ([World Bank](https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=GB))[[313]](#ftnt313).
 

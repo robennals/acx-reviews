@@ -7,7 +7,7 @@ contestName: 2024 Book Reviews
 year: 2024
 publishedDate: '2026-02-06T16:48:20.709Z'
 slug: making-the-corps
-wordCount: 9338
+wordCount: 9357
 readingTimeMinutes: 42
 originalUrl: >-
   https://docs.google.com/document/d/1cp6iw5OEyDjnD_viZo-KL0Zv4jwQnMXtE4yIovfVAco
@@ -21,13 +21,13 @@ What is a “cult,” exactly? What does it mean for a group of people to be a c
 
 Usually when we talk about a cult, we're talking about a group of people who were deliberately indoctrinated into a shared group identity. Cults are typically based on ideas, and the group identity formation happens when people have their pre-cult identities broken down, and a new identity formed based on the idea. This idea-based identity supplants other, more shallow forms of identity, like race, ethnicity, and socioeconomic status, so often a cult will include members who were originally from very different walks of life, but who bonded together over their shared commitment to the idea.
 
-Typically, the cult has a hierarchical structure with leaders and more experienced members who convincenewer members of the cult’s ideas, and intentionally make the group identity formation happen. Sometimes the cult leaders are playing a trick, but often they’re true believers who’ve bought into the idea themselves.
+Typically, the cult has a hierarchical structure with leaders and more experienced members who convince newer members of the cult’s ideas, and intentionally make the group identity formation happen. Sometimes the cult leaders are playing a trick, but often they’re true believers who’ve bought into the idea themselves.
 
-Another important quality of cults is that they’re always bad. You never hear about a goodcult. The members have always been duped into believing something wrong. The idea that they’re bonding over is always something crazy and obviously false, like that they need to [commit suicide so that they can be taken to heaven by aliens](https://en.wikipedia.org/wiki/Heaven%27s_Gate_(religious_group)).It’s automatically understood that referring to a group as a cult is an insult, since the term implies all these negative aspects.
+Another important quality of cults is that they’re always bad. You never hear about a good cult. The members have always been duped into believing something wrong. The idea that they’re bonding over is always something crazy and obviously false, like that they need to [commit suicide so that they can be taken to heaven by aliens](https://en.wikipedia.org/wiki/Heaven%27s_Gate_(religious_group)). It’s automatically understood that referring to a group as a cult is an insult, since the term implies all these negative aspects.
 
 Is there a word that means something similar to “cult,” except without the implied negative aspects? I can’t think of one. I mean, what would you call a group that practices deliberate group identity formation around an idea, where the idea is not something wrong or crazy? It seems at least theoretically possible that the identity-formation practices used by cults could also be used with an idea that is morally neutral or good. At the very least, it seems like it would be interesting to study the topic of deliberate group identity formation from a morally neutral standpoint, simply to understand it as a phenomenon.
 
-[Making the Corps](https://www.amazon.com/Making-Corps-Anniversary-Afterword-Author/dp/141654450X)by Thomas E. Ricks presents an interesting case study of this. The book is about the US Marine Corps basic training program (known colloquially as “boot camp”), where civilian recruits undergo a process of transformation and deliberate group identity formation to become Marines.
+[Making the Corps](https://www.amazon.com/Making-Corps-Anniversary-Afterword-Author/dp/141654450X) by Thomas E. Ricks presents an interesting case study of this. The book is about the US Marine Corps basic training program (known colloquially as “boot camp”), where civilian recruits undergo a process of transformation and deliberate group identity formation to become Marines.
 
 This isn’t a pop-psychology book about group identity. Rather, it’s mostly an object-level account of the experiences of a group of recruits going through boot camp, including semi-biographical narratives about several of the recruits. The goal of this book review is to flesh out these ideas about indoctrination (a word the military uses unironically and without negative connotation) and deliberate group identity formation, building on the author’s descriptive account of what he witnessed at Marine boot camp.
 
@@ -67,6 +67,8 @@ do here,’ he explained, his M-16 slung horizontally across his chest. ‘We a
 
 We eat together, sleep together, patrol together.’”
 
+![](https://acximages.ennals.org/images/2024-book-reviews/246bef9a2b90d5bc.jpg)
+
 Marine in Somalia during Operation Restore Hope, 1993. [Image source](https://picryl.com/media/somalis-gather-around-a-pair-of-marines-manning-a-sentry-post-during-the-multinational-c689fd)
 
 So, who are the Marines? The Marine Corps was originally founded in 1775 as an amphibious naval[[228]](#ftnt228) infantry force during the Revolutionary War – basically their job was to ride along on Navy ships and [disembark to attack targets on land](https://en.wikipedia.org/wiki/Raid_of_Nassau) when needed. They were briefly disbanded after the Revolutionary War, and then re-established in 1798 to deal with maritime threats the US was facing at the time from [French privateers](https://en.wikipedia.org/wiki/Quasi-War). Throughout the 1800s and early 1900s, the Marines were used as an expeditionary force in several small conflicts, including the [Barbary Wars](https://en.wikipedia.org/wiki/Second_Barbary_War), [Boxer Rebellion](https://en.wikipedia.org/wiki/Boxer_Rebellion), and the [Banana Wars](https://en.wikipedia.org/wiki/Banana_Wars), while also playing a small role in larger conflicts like the Civil War and World War I.
@@ -79,7 +81,7 @@ The Marines have two boot camp locations: one at Parris Island, South Carolina f
 
 The author provides a demographic overview of this group: entirely men (basic training in the Marines is gender-segregated), about 75% white and 25% black and Hispanic[[229]](#ftnt229), age 17-29. He describes their backgrounds as:
 
-“Among them are an accountant fired by Ernst & Young because he flunked his CPA
+        “Among them are an accountant fired by Ernst & Young because he flunked his CPA
 
 exam; a self-professed gang member from Washington, DC; the son of a Merrill Lynch
 
@@ -89,7 +91,7 @@ Something I found interesting, both in the book and in my own boot camp experien
 
 The author notes that he’s particularly interested in this kind of diversity, as it presents the Marine Corps with quite a difficult challenge and makes the successful result at the end even more impressive. He writes:
 
-“I wanted to see how an organization could take fifty or so American kids – a group
+        “I wanted to see how an organization could take fifty or so American kids – a group
 
 steeped in a culture of individualism and consumerism, many of them users of
 
@@ -105,19 +107,21 @@ So, how is this accomplished? The following sections will cover several aspects 
 
 A key element in the process of identity formation is the removal of recruits from the outside world for the duration of boot camp training (about three months). For many of the recruits, this is their first time away from home and away from their family. A Navy Chaplain stationed at Parris Island was refreshingly blunt about the boot camp environment in an interview with the author:
 
-“Everything is taken away – hair, clothes, food, and friends. It’s a total cutoff from
+        “Everything is taken away – hair, clothes, food, and friends. It’s a total cutoff from
 
 previous life.”
 
 Part of this is the physical separateness: Parris Island is, of course, an island that is physically separated from the rest of society by water and can only be accessed via a single bridge. When recruits cross over that bridge to arrive at boot camp, they’re entering a strange, new world. The author describes this as such:
 
-“In reality, the bright lights and yacht-set bistros of antebellum Beaufort, South Carolina,
+        “In reality, the bright lights and yacht-set bistros of antebellum Beaufort, South Carolina,
 
 are just a few miles from the Marine camp. But to the recruits, the 7,000 flat, wet acres of
 
 sand that make up Parris Island might as well be a thousand miles out in the Atlantic
 
 Ocean.”
+
+![](https://acximages.ennals.org/images/2024-book-reviews/bf153b894530baff.jpg)
 
 Parris Island, South Carolina. [Image source](https://nara.getarchive.net/media/aerial-view-of-marine-corps-recruit-depot-parris-island-48ed31)
 
@@ -137,7 +141,9 @@ Rather than being gradually eased into this new reality, recruits are thrown in 
 
 newcomers can’t be seen as individuals. Standing nearly heel to toe in the dark night their faces are hardly visible, and their bodies become one mass. The effect is intentional: Marine Corps culture is the culture of the group, made up of members who are anonymous.”
 
-This is the first of manyaspects of boot camp that either explicitly or implicitly emphasize group identity over individual identity. The drill instructor then (very loudly) briefs them on some of many rules they’ll be expected to follow: how to stand at attention and how to respond to questions and orders (“Sir, yes, sir!”).
+This is the first of many aspects of boot camp that either explicitly or implicitly emphasize group identity over individual identity. The drill instructor then (very loudly) briefs them on some of many rules they’ll be expected to follow: how to stand at attention and how to respond to questions and orders (“Sir, yes, sir!”).
+
+![](https://acximages.ennals.org/images/2024-book-reviews/22eec92776eae708.jpg)
 
 The infamous yellow footprints at Parris Island. [Image source](https://nara.getarchive.net/media/the-symbolic-and-historic-yellow-footprints-at-marine-c5eb64)
 
@@ -145,13 +151,13 @@ The recruits are immediately introduced to several strange things about this new
 
 Another strange thing about the boot camp environment is the altered sense of time. The author writes:
 
-“Sergeant Lewis’s second move is to emphasize that no matter what they are doing, they
+        “Sergeant Lewis’s second move is to emphasize that no matter what they are doing, they
 
 are not doing it fast enough. He moves them in a single file line toward the barber’s stand in the back of the receiving station. ‘Let’s go. Hurry up. Hurry. Tighter.”
 
 This will be a constant theme for the next three months. Practically everything the recruits do will be in a hurry (even things like showering, shaving, and getting dressed), and will often be explicitly timed with a punishment if the time limit is not met. For example:
 
-“Sergeant Lewis gives them twenty seconds to remove and hang up all their gear – hats,
+        “Sergeant Lewis gives them twenty seconds to remove and hang up all their gear – hats,
 
 canteens, canteen web belts. The more astute members realize that the only way to do it within that limit is to aid one another.”
 
@@ -215,9 +221,13 @@ This pressure is backed up with the threat of physical punishment (called “bea
 
 Sometimes these “beatings” take the form of punitive calisthenic exercise – the stereotypical “DROP AND GIVE ME TWENTY!” These could be pushups, squats, or things like that, and they push you beyond your physical limit to make sure it really is very difficult and painful. The recruits are also issued rifles (with no ammunition, obviously), and these rifles are often used as props for punitive calisthenics. An especially tough one is “rifle squats” – doing a squat while holding the rifle (which is pretty heavy) straight out in front of you. The drill instructor calls these out with “DOWN! UP! DOWN! UP!”, and often leaves the recruits in the “down” position for a while to make it as hard as possible.
 
-Recruits suffering in the “down” position of a rifle squat. This picture is not of Marine boot camp, but of another branch of the military with similar boot camp training. [Image source (used with permission of copyright holder)](https://aldiaz.photoshelter.com/image/I00005WkrOt0Z_Uc)
+![](https://acximages.ennals.org/images/2024-book-reviews/756479ecd6d9e1c4.jpg)
 
-Besides punitive calisthenics, there’s also the use of stress positions. In my experience, the worstpunishment (and also one of the most common ones) was being ordered to simply hold a full canteen of water over your head for about 20 minutes. This might sound easy, but after 10 minutes or so it becomes very painful. There’s also the mental agony of not knowing how much longer it would go on for – again, the altered sense of time locking you into the present moment.
+Recruits suffering in the “down” position of a rifle squat. This picture is not of Marine boot camp, but of another branch of the military with similar boot camp training. [Image source (used with permission of copyright holder)](https://aldiaz.photoshelter.com/image/I00005WkrOt0Z_Uc) 
+
+Besides punitive calisthenics, there’s also the use of stress positions. In my experience, the worst punishment (and also one of the most common ones) was being ordered to simply hold a full canteen of water over your head for about 20 minutes. This might sound easy, but after 10 minutes or so it becomes very painful. There’s also the mental agony of not knowing how much longer it would go on for – again, the altered sense of time locking you into the present moment.
+
+![](https://acximages.ennals.org/images/2024-book-reviews/9b09a6fa553ed07d.png)
 
 Recruits holding canteens above their head, under the watchful eye of a drill instructor. This becomes very painful after 10 minutes or so. This picture is not of Marine boot camp, but of another branch of the military with similar boot camp training. [Image source](https://www.businessinsider.com/photos-intense-coast-guard-boot-camp-2019-1#14-the-company-commander-continues-looking-around-the-room-checking-for-any-recruits-who-may-not-be-holding-their-arms-high-enough-14)
 
@@ -235,9 +245,11 @@ This is the extreme difficulty of boot camp: the totalitarian set of rules and a
 
 Importantly, the source of this hardship has a name, a face, and… a Smokey Bear hat. This is the drill instructor. He[[232]](#ftnt232) is in control of every aspect of this totalitarian environment. Typically a recruit company will have three drill instructors (a lead instructor and two assistants) and at least one of them will be with them at all times, screaming orders and dealing out punishments.
 
+![](https://acximages.ennals.org/images/2024-book-reviews/9e1e2f4015002215.jpg)
+
 Marine Corps drill instructors. [Image source](https://www.flickr.com/photos/24511045@N04/4799420071)
 
-A common misconception is that the scary thing about drill instructors is just the yellingor the saying mean and insulting things. Sometimes you hear a self-styled tough guy say “I could never join the military. If some drill instructor started yelling at me, I’d just get angry and punch him in the face!” No, they wouldn’t. That’s because the scary thing about the drill instructors isn’t the yelling – it’s the power they have to make your life hell, which they frequently exercise.
+A common misconception is that the scary thing about drill instructors is just the yelling or the saying mean and insulting things. Sometimes you hear a self-styled tough guy say “I could never join the military. If some drill instructor started yelling at me, I’d just get angry and punch him in the face!” No, they wouldn’t. That’s because the scary thing about the drill instructors isn’t the yelling – it’s the power they have to make your life hell, which they frequently exercise.
 
 The drill instructors play a key role in the process of group identity formation for the recruits. They’re the antagonist, the Other, the Out-Group that the recruits must band together in opposition to. And it works. Facing this extreme difficulty and adversity personified by the drill instructors, the recruits quickly learn to work together and have each others’ backs. The camaraderie among recruits at boot camp is unlike anything I’ve ever experienced at any other job – a combination of seriously helping each other deal with the hardships of training, helping out and cheering on the struggling members, and that kind of offensive-but-funny joking around you get when you put a bunch of 18-year-old guys together.
 
@@ -248,6 +260,8 @@ Culture Formation
 Alright, so far we’ve covered how the recruits’ old identities are broken down through disorientation and extreme physical/mental hardship. But it’s not enough to just break down the old identities – boot camp must also create a new identity in the recruits’ psyche. So, how is that done?
 
 One of the surprising things about boot camp is how little time is devoted to actual job-skills training. Rather, most of the time not spent getting screamed at or doing punitive exercises is spent on something called “close order drill[[233]](#ftnt233)” – basically marching and doing ceremonial rifle movements in formation. Hours and hours of grueling practice are spent learning these movements, practicing them as a group, and getting inspected on them by drill instructors. It’s actually very difficult to perfect these movements as a group. A strange side effect of going through boot camp myself is that I now have a kind of respect for the North Korean army’s ability to march in formation.
+
+![](https://acximages.ennals.org/images/2024-book-reviews/93c8e5104e1cf738.jpg)
 
 North Korean military parade. Marching with this level of coordination is actually a lot harder than it looks! [Image source](https://www.wsj.com/articles/satellite-images-point-to-north-korean-military-parade-on-eve-of-olympics-1516856204)
 
@@ -261,11 +275,13 @@ Taken literally as a matter of theology or moral philosophy, this just seems sil
 
 I think close order drill also serves this purpose, in addition to teaching attention to detail and teamwork. It gives the recruits something in common – a shared experience. Importantly, the commonality persists even after boot camp is over and they will probably never have to do a “RIGHT SHOULDERRRRRR ARMS!” again. It’s like how I, as an ex-Catholic, can still find commonality and bond with other ex-Catholics over the strictness of Catholic school. In the military, thinking back on all the marching and close order drill has the same feeling: “Pssh, what a waste of time.” But the joking cynicism can itself be used as a bonding mechanism between two people who are both feeling it.
 
+![](https://acximages.ennals.org/images/2024-book-reviews/26d89a752dc364de.jpg)
+
 A drill instructor shows a recruit the proper rifle position for a close order drill movement. [Image source](https://nara.getarchive.net/media/a-drill-instructor-shows-a-marine-recruit-proper-m16a2-rifle-drill-technique-eea9c4)
 
 Besides the total arbitrariness of close order drill, some parts of boot camp are more recognizable as culture in a straightforward sense. One of the most obvious examples is the uniforms. Although the recruits will not earn the right to be called “Marines” until they graduate, they begin wearing the uniforms almost immediately. This, combined with the shaved heads, contributes to the loss of individuality and the feeling of collectiveness. This “loss of individuality” might sound pretty dystopian, but it can actually feel pretty great to be a part of. Personally, I’ve always enjoyed wearing uniforms, even at minimum-wage jobs I had as a teenager. It was cool to feel like part of a team. Wearing the uniforms in boot camp felt the same way. It was a source of strength, like wow, I’m really part of this thing.
 
-Of course, the uniforms contribute to the stress of boot camp, since they come with a ton of rules, and frequent inspections. I knew one guy who got rolled back a week in training because he was caught with a wrinkly shirt (called a “blouse”) that he apparently hadn’t ironed enough. While a lot of the rules at boot camp are completely arbitrary and exist only to create a high-stress environment, the recruits will continue to follow the rules around uniforms and grooming standards (shaving, etc) throughout their time in the military. The extreme pressure of boot camp basically serves to deeply ingrain these rules so that the recruits get used to following them and it becomes a habit. For example, one of the rules is that when you’re outdoors in uniform you must be wearing your hat (called a “cover”). Being outdoors in uniform without your hat is one of the things that can bring down the wrath of the drill instructor on the entire recruit company. To this day, even though I’m no longer in the military, the thought of being outdoors in my uniform withoutmy hat gives me a physical cringe sensation, like the thought of being out in public naked.
+Of course, the uniforms contribute to the stress of boot camp, since they come with a ton of rules, and frequent inspections. I knew one guy who got rolled back a week in training because he was caught with a wrinkly shirt (called a “blouse”) that he apparently hadn’t ironed enough. While a lot of the rules at boot camp are completely arbitrary and exist only to create a high-stress environment, the recruits will continue to follow the rules around uniforms and grooming standards (shaving, etc) throughout their time in the military. The extreme pressure of boot camp basically serves to deeply ingrain these rules so that the recruits get used to following them and it becomes a habit. For example, one of the rules is that when you’re outdoors in uniform you must be wearing your hat (called a “cover”). Being outdoors in uniform without your hat is one of the things that can bring down the wrath of the drill instructor on the entire recruit company. To this day, even though I’m no longer in the military, the thought of being outdoors in my uniform without my hat gives me a physical cringe sensation, like the thought of being out in public naked.
 
 Besides the uniforms, boot camp introduces the recruits to many other aspects of Marine culture. They learn about Marine history, how to sing the Marine Corps hymn, and a variety of practices called “customs and courtesies” that include saluting officers when outdoors, how to address superiors, how (and when) to stand at attention, etc. Like the uniform regulations, the customs and courtesies will continue to be followed even after boot camp is over.
 
@@ -288,6 +304,8 @@ yourself dead, understand?’
 boardwalk elevated about two feet above a pit of sawdust. Here simple two-man
 
 contests are staged to loosen up the recruits as the DIs stand nearby and instruct them, like handlers just outside a boxing ring. Members of 3086 are sent up the ramp to the boardwalk to confront head-on recruits from 3084, a companion platoon. Years from now, those recruits will be bosom buddies, Marine comrades who went through boot camp at the same time. But now the adversaries from 3084 are ‘the other’ – masked strangers who might as well be aliens from another planet for all the comradeship 3086 feels with them. The goal is to land two ‘killing’ blows – hits to the head, thrusts to the chest – before the opponent does the same to you.”
+
+![](https://acximages.ennals.org/images/2024-book-reviews/3c24cc83d399d35e.jpg)
 
 Recruits prepare for a pugil stick match. [Image source](https://www.flickr.com/photos/parrisisland/15053132325/)
 
@@ -357,7 +375,7 @@ Of course, I knew to check off the “Strongly Disagree” box, since I recogniz
 
 Still, I remember thinking even at the time that I was only strongly-disagreeing because of the ideological valence of the idea, not because the idea itself actually sounded terrible. In fact, it sounds pretty nice when taken at face value. For example, this is how families operate: from the parents according to their ability, to the children according to their need. Many insular, highly religious communities also operate this way. In Amish, Mennonite, and Hasidic communities, charitable giving (“alms”) often provides a social safety net for members in need. Some [egalitarian hunter-gatherer tribes](https://www.astralcodexten.com/p/your-book-review-the-dawn-of-everything) also functioned like this. And to be honest, it does seem like it would be pretty nice to live in this kind of a community, where everyone looks out for each other.
 
-So what’s going on? Is this kind of “communism” good actually? Libertarians have an easy answer for this – communes are fine if they’re voluntary. As long as nobody’s being violently coerced and people are allowed to leave if they want to, then it’s fine.Alright, so that’s easy but also unsatisfying. Why do people voluntarily participate in these communes, even when it means a net-loss for the most capable and productive members? Why doesn’t the [Laffer curve](https://en.wikipedia.org/wiki/Laffer_curve) apply to the most productive Amish farmer who has his wealth redistributed to the neediest in the community? Why didn’t the Margaret Thatcher quote about socialists “running out of other people’s money” apply to the most capable hunters in egalitarian hunter-gatherer tribes?
+So what’s going on? Is this kind of “communism” good actually? Libertarians have an easy answer for this – communes are fine if they’re voluntary. As long as nobody’s being violently coerced and people are allowed to leave if they want to, then it’s fine. Alright, so that’s easy but also unsatisfying. Why do people voluntarily participate in these communes, even when it means a net-loss for the most capable and productive members? Why doesn’t the [Laffer curve](https://en.wikipedia.org/wiki/Laffer_curve) apply to the most productive Amish farmer who has his wealth redistributed to the neediest in the community? Why didn’t the Margaret Thatcher quote about socialists “running out of other people’s money” apply to the most capable hunters in egalitarian hunter-gatherer tribes?
 
 I think the reason why some redistributive systems work and some don’t is related to the psychology of tribalism. A redistributive economic system where everyone views themselves as part of the same tribe and a system in which they view themselves as two tribes could both be called “communism”, but are completely different in terms of the psychology of the participants and the ultimate sustainability of the system. The usual critique of wealth redistribution is that it disincentivizes economic production (Laffer curve, Margareth Thatcher quote, etc). But I think this criticism only applies to redistributive systems where the people taking a net-loss and the people taking a net-gain view themselves as two different groups. When they view themselves as part of the same group, as with the Amish or egalitarian hunter-gatherers, then the criticism seems to fall flat, as the most productive members aren’t deterred from working by the net-loss they’re taking.
 
@@ -378,6 +396,8 @@ Obviously uniting an entire country is pretty hard though. So even though I like
 Some people (surprisingly many, I think) solve this problem by simply being religious even if they don’t actually believe in the theological claims of the religion. I’ve met self-described Catholics, Jews, Hindus, and Muslims who didn’t actually believe the theological claims of their religion, but were born into it and still go along with it for the sense of community and cultural identity.
 
 There have also been some high-profile cases of this lately, where well-known atheists have converted to religions, apparently for the appeal of the community and culture rather than the actual correctness of the theological beliefs. Here’s an example:
+
+![](https://acximages.ennals.org/images/2024-book-reviews/f9fb822c60e9d5e7.png)
 
 [Source](https://twitter.com/webdevMason/status/1633174596131368967)
 

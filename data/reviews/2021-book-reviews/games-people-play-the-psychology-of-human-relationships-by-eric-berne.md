@@ -7,7 +7,7 @@ contestName: 2021 Book Reviews
 year: 2021
 publishedDate: '2026-02-06T07:21:29.569Z'
 slug: games-people-play-the-psychology-of-human-relationships-by-eric-berne
-wordCount: 4768
+wordCount: 4774
 readingTimeMinutes: 22
 originalUrl: >-
   https://docs.google.com/document/d/1xexFJ7h0vULMDE7N77q_MIzXoerexfe_CqqGEL6hEoQ
@@ -31,9 +31,9 @@ However, all is not lost. If you figure out the game and play the right moves, y
 
 But that’s only if you know the game they’re playing.
 
-[Games People Play](https://www.google.com/url?q=https://amzn.to/2Ke8Aw5&sa=D&source=editors&ust=1770366086326001&usg=AOvVaw10FdJCx0sC0YisA9lYwBqK)1 is a repository of such games and how to stop them. Eric Berne spent 40 years studying these games and published an academic book. I spent a month plowing through the literature, took the best parts and stitched together a narrative of the most important games, with examples relevant to today’s age.
+[Games People Play](https://amzn.to/2Ke8Aw5)1 is a repository of such games and how to stop them. Eric Berne spent 40 years studying these games and published an academic book. I spent a month plowing through the literature, took the best parts and stitched together a narrative of the most important games, with examples relevant to today’s age.
 
-We’ll start with some background theory — just enough to make sense of things. Then, we’ll explore interesting games people play, like the one above, and figure out ways to stop them. If you don’t want the background, you can [skip directly to the games.](https://www.google.com/url?q=https://neilkakkar.com/games-people-play-blogpost.html%23games&sa=D&source=editors&ust=1770366086326746&usg=AOvVaw1-nYI-sh3nBx430ipoMqMF)
+We’ll start with some background theory — just enough to make sense of things. Then, we’ll explore interesting games people play, like the one above, and figure out ways to stop them. If you don’t want the background, you can [skip directly to the games.](https://neilkakkar.com/games-people-play-blogpost.html#games)
 
 ## Background
 
@@ -51,14 +51,18 @@ Note that these states have nothing to do with being a child or a parent yoursel
 
 Sometimes, you can notice people transition from one state to another in conversation. For example, when Alice and Bob are discussing a problem and Bob claims that Alice is wrong, then Alice might get triggered out of the Adult state to a Child state where they start crying, or create an uproar, or call their mother to tell how Bob is wrong and mean. The transitions show up in physical gestures and posture too.
 
-To understand people, you need to understand their ego states. To understand ego states, you need to interact. This is the core idea of [Transactional Analysis](https://www.google.com/url?q=https://en.wikipedia.org/wiki/Transactional_analysis&sa=D&source=editors&ust=1770366086328675&usg=AOvVaw3LT3-tzw5NZk72iyRCQ8-b). Games People Play are built on top of Transactional Analysis.
+To understand people, you need to understand their ego states. To understand ego states, you need to interact. This is the core idea of [Transactional Analysis](https://en.wikipedia.org/wiki/Transactional_analysis). Games People Play are built on top of Transactional Analysis.
 
 ### Transactional Analysis
 
   
 A stroke is a basic unit of conversational stimulus. Saying “Hi!” to someone is a stroke. Every stroke goes from one ego state to another.
 
+![](https://acximages.ennals.org/images/2021-book-reviews/cb4a2239bd9d5386.jpg)
+
 Multiple strokes together make up a transaction: a conversation between people.
+
+![](https://acximages.ennals.org/images/2021-book-reviews/405a147866414a47.jpg)
 
 Like we need food to stay physically healthy, Berne claims we need strokes to stay emotionally healthy. For example, a movie actor may require hundreds of strokes each week from anonymous and undifferentiated admirers to keep himself going, while a scientist may keep physically and mentally healthy on one stroke a year from a respected master.
 
@@ -66,7 +70,11 @@ Now things get interesting. Every stroke expects a complementary stroke. Communi
 
 For example, consider a fevered child asking for water.
 
+![](https://acximages.ennals.org/images/2021-book-reviews/90b7e0a1e3bea3b4.jpg)
+
 However, if you’re sending a stroke to someone’s Child state, and their Adult responds, conversation would break. This is a crossed transaction.
+
+![](https://acximages.ennals.org/images/2021-book-reviews/7660a387bef200ab.jpg)
 
 That’s all we need to dive into games. There’s more in the book, but I’ve covered all the main points.
 
@@ -88,6 +96,8 @@ While on the surface it’s an Adult-Adult transaction, psychologically, the sal
 Now, for a few games. Meet Brad and Angelina, they’ll be our players throughout this blogpost.
 
 ## Game - Examples
+
+![](https://acximages.ennals.org/images/2021-book-reviews/fcb0d6c10ce1738c.jpg)
 
 ### I’m only trying to help
 
@@ -160,7 +170,7 @@ Brad is in debt, and behind payments. He avoids the debt collector. If the debt 
 
 If the debt collector hires a collection agency, Brad knows he has to pay. However, now he can talk about how all debtors are dicks. They could’ve politely asked for the money back, instead of roughing things up. He can bitch about not paying without losing his social status. He’s vindicated.
 
-The game can then morph into a game of “[Why does this always happen to me?](https://www.google.com/url?q=https://neilkakkar.com/games-people-play-blogpost.html%23kick-me--why-does-this-always-happen-to-me&sa=D&source=editors&ust=1770366086337656&usg=AOvVaw2_JM7iVNfE4GWM5pRSjGxM)”
+The game can then morph into a game of “[Why does this always happen to me?](https://neilkakkar.com/games-people-play-blogpost.html#kick-me--why-does-this-always-happen-to-me)”
 
 ### I’m only trying to help you
 
@@ -176,7 +186,7 @@ This is usually a 3 player game.
 
 Angelina is fed up of her husband’s antics, and urges him to change to make the marriage work. Secretly, Brad is looking for a divorce. However, he shows up as co-operating. They decide to go to therapy, where Brad plays “Look How Hard I’ve Tried”. He says just enough to show he’s co-operating with both, the therapist and the wife. Back home, he’s “understanding” for a day or two, after which his behaviour worsens again.
 
-He’s effectively forcing Angelina to end the marriage, while saving face himself, by showing every outsider how hard he tried. This is a lot like [playing the role of the husband](https://www.google.com/url?q=https://neilkakkar.com/rationality.html%23roleplaying&sa=D&source=editors&ust=1770366086338901&usg=AOvVaw2d5XgiiHFlfyuv2oJLmjk6), without actually being one. He’s vindicating his position in the marriage.
+He’s effectively forcing Angelina to end the marriage, while saving face himself, by showing every outsider how hard he tried. This is a lot like [playing the role of the husband](https://neilkakkar.com/rationality.html#roleplaying), without actually being one. He’s vindicating his position in the marriage.
 
 A more sinister form of the game is “Look how hard I was trying”. Berne writes:
 
@@ -198,6 +208,8 @@ Berne claims that Alcoholics Anonymous is an organisation that continues the gam
 An interesting property of the game is how flexible the roles are: people in one role usually don’t have problems playing the other roles.
 
 ### Schlemiel
+
+![](https://acximages.ennals.org/images/2021-book-reviews/c72fb20349737936.png)
 
 Schlemiel is very similar to the Alcoholic. Instead of getting drunk himself, in this game Brad creates a mess out of things, like intentionally breaking things, or destroying carpets at a party, and then seeking forgiveness from the host.
 
@@ -391,14 +403,14 @@ When you go about life without questioning something, things “just happen”. 
 
 The Theory of Games People Play is one such model. People don’t “just do things”, there are incentives and psychological motivations that haven’t been made clear to you.
 
-Of course, this model isn’t perfect, and doesn’t explain everything. It’s [one of many perspectives](https://www.google.com/url?q=https://neilkakkar.com/different-perspectives-to-solve-problems.html&sa=D&source=editors&ust=1770366086368005&usg=AOvVaw0g6byi7oTRlskCcvhEzNsi). But, it’s how the journey to building [better models](https://www.google.com/url?q=https://neilkakkar.com/Bayes-Theorem-Framework-for-Critical-Thinking.html&sa=D&source=editors&ust=1770366086368323&usg=AOvVaw2xo4VUCVKSN6hNyubRcdV9) begins. If you never get introduced to models, you never begin. Once you have a model for social interactions, you can notice where it breaks down, and look for other models to fill in the gap.
+Of course, this model isn’t perfect, and doesn’t explain everything. It’s [one of many perspectives](https://neilkakkar.com/different-perspectives-to-solve-problems.html). But, it’s how the journey to building [better models](https://neilkakkar.com/Bayes-Theorem-Framework-for-Critical-Thinking.html) begins. If you never get introduced to models, you never begin. Once you have a model for social interactions, you can notice where it breaks down, and look for other models to fill in the gap.
 
 * * *
 
 1.  Affiliate link
 2.  Note the capitalisation. When I say parent, I mean the person who is the parent. When I say Parent, I mean the Parent ego state. Same for Child and Adult.
 3.  It’s interesting to see how pick up artists figured out these same games, but have different names for them. For example, in this case, they “leave her alone”.
-4.  Not all games are bad! There are some good games, too. Annoyingly, they usually don’t show up in therapy sessions, so study on them is limited. [↩](https://www.google.com/url?q=https://neilkakkar.com/games-people-play-blogpost.html%23fnref:4&sa=D&source=editors&ust=1770366086369893&usg=AOvVaw3Yye9hWWBxWHYPKGaFbTh0)
+4.  Not all games are bad! There are some good games, too. Annoyingly, they usually don’t show up in therapy sessions, so study on them is limited. [↩](https://neilkakkar.com/games-people-play-blogpost.html#fnref:4)
 5.  Usually. Other times, for people deeply entrenched in games, it escalates their actions till they get the payoff.
     
     * * *

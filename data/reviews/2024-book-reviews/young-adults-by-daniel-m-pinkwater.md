@@ -1,5 +1,5 @@
 ---
-title: "Young Adults\_by Daniel M. Pinkwater"
+title: Young Adults by Daniel M. Pinkwater
 author: Unknown
 reviewAuthor: Anonymous
 contestId: 2024-book-reviews
@@ -7,7 +7,7 @@ contestName: 2024 Book Reviews
 year: 2024
 publishedDate: '2026-02-06T16:49:50.826Z'
 slug: young-adults-by-daniel-m-pinkwater
-wordCount: 11524
+wordCount: 11545
 readingTimeMinutes: 52
 originalUrl: >-
   https://docs.google.com/document/d/1Ki5XsE0jkxZtd2XAeyTAJw1ZjLh2Cu-matUYKAhA6-s
@@ -195,15 +195,15 @@ I didn’t want to overburden this paragraph with examples, but I also couldn’
 
 [[1]](#ftnt_ref1)A facile but irresistible analogy relegated to footnote status: I can’t help but read the call for presence and power over abstraction and reasoning as a call for some kind of deep learning over GOFAI; the focus on an orderly procession of data invites a similarly silly-yet-satisfying comparison with attention in transformers.
 
-[[2]](#ftnt_ref2)Baron-Cohen makes a distinction between cognitive empathy, which is the classic theory-of-mind stuff, and affective empathy, which is the drive to respond to someone with an appropriate emotion. In this sense autists and sociopaths are inverted: autists tend to be bad at navigating social reality, but still care about other people's feelings, whereas sociopaths are unable to sympathise, but don't have problems modelling other minds.
+[[2]](#ftnt_ref2) Baron-Cohen makes a distinction between cognitive empathy, which is the classic theory-of-mind stuff, and affective empathy, which is the drive to respond to someone with an appropriate emotion. In this sense autists and sociopaths are inverted: autists tend to be bad at navigating social reality, but still care about other people's feelings, whereas sociopaths are unable to sympathise, but don't have problems modelling other minds.
 
-[[3]](#ftnt_ref3)Every time I googled someone who I think fits this mould (Mozart, Aphex Twin, Stanley Kubrick, Ingmar Bergman), the Internet said they were on the spectrum. I don't put much stock in this kind of 'diagnosis' but it sure is suggestive.
+[[3]](#ftnt_ref3) Every time I googled someone who I think fits this mould (Mozart, Aphex Twin, Stanley Kubrick, Ingmar Bergman), the Internet said they were on the spectrum. I don't put much stock in this kind of 'diagnosis' but it sure is suggestive.
 
-[[4]](#ftnt_ref4)Another eleventh-hour addition to my reading list is[Robin Hanson's glowing endorsement](https://www.overcomingbias.com/p/hail-cecilia-heyes) of Cecilia Heyes' Cognitive Gadgets: The Cultural Evolution of Thinking, which seems to argue that causal reasoning can arise from associative learning in combination with sociality.
+[[4]](#ftnt_ref4) Another eleventh-hour addition to my reading list is [Robin Hanson's glowing endorsement](https://www.overcomingbias.com/p/hail-cecilia-heyes) of Cecilia Heyes' Cognitive Gadgets: The Cultural Evolution of Thinking, which seems to argue that causal reasoning can arise from associative learning in combination with sociality.
 
-[[5]](#ftnt_ref5)In my experience the problem of induction is hard to fully internalise.[Deutsch's book](https://www.amazon.com.au/Beginning-Infinity-Explanations-Transform-World/dp/0143121359) gives the beginner-friendly version. For a shorter, more technical explanation, machine learning PhD Vaden Masrani asks["did Popper disprove machine learning, or does machine learning disprove Popper?"](https://vmasrani.github.io/blog/2021/problem-of-induction/)
+[[5]](#ftnt_ref5)  In my experience the problem of induction is hard to fully internalise. [Deutsch's book](https://www.amazon.com.au/Beginning-Infinity-Explanations-Transform-World/dp/0143121359) gives the beginner-friendly version. For a shorter, more technical explanation, machine learning PhD Vaden Masrani asks ["did Popper disprove machine learning, or does machine learning disprove Popper?"](https://vmasrani.github.io/blog/2021/problem-of-induction/)
 
-[[6]](#ftnt_ref6) We might reconcile universality and the IQ literature in a similar way. I have some ideas about how to do this but it probably deserves a separate post.
+[[6]](#ftnt_ref6)  We might reconcile universality and the IQ literature in a similar way. I have some ideas about how to do this but it probably deserves a separate post.
 
 [[7]](#ftnt_ref7) “The epidemiologists I spoke with for this chapter – in a refreshing contrast to their counterparts in some other fields – were strongly aware of the limitations of their models. “It’s stupid to predict based on three data points,” Marc Lipsitch told me, referring to the flu pandemics of 1918, 1957, and 1968. “All you can do is plan for different scenarios.” If you can’t make a good prediction, it is very often harmful to pretend that you can. I suspect that epidemiologists, and others in the medical community, understand this because of their adherence to the Hippocratic Oath. Primum non nocere: First, do no harm. Much of the most thoughtful work on the use and abuse of statistical models and the proper role of prediction comes from people in the medical profession. That is not to say there is nothing on the line when an economist makes a prediction, or a seismologists does. But because of medicine’s intimate connection with life and death, doctors tend to be appropriately cautious. In their field, stupid models kill people. It has a sobering effect.”
 
@@ -221,13 +221,13 @@ I’m not saying Silver should have written a statistics textbook. I’m saying 
 
 [[12]](#ftnt_ref12) Nassim Nicholas Taleb does a good job of talking about this kind of uncertainty. Silver mentions his work in tSatN, but I don’t think he has the same grasp of the material that Taleb does. I recommend Taleb for understanding how to appropriately react to unknown risks, tail-end risks, survivorship bias, and a host of other ideas.
 
-[[13]](#ftnt_ref13)In a clinical trial, you collect hundreds of different data points. And of those hundreds of data points, some are open-ended, like “have you experienced any adverse events?” If someone feels dizzy or has frequent headaches, those are reported. That’s good practice! Let’s say your drug causes a slight decrease or increase in blood pressure. We’ll see that in patients who get dizzy or get headaches reporting symptoms more frequently than placebo (on top of the frequent blood pressure checks). Some side effects can only be discovered after people start taking the drug, and this is how we discover them – by looking for patterns in the data.
+[[13]](#ftnt_ref13) In a clinical trial, you collect hundreds of different data points. And of those hundreds of data points, some are open-ended, like “have you experienced any adverse events?” If someone feels dizzy or has frequent headaches, those are reported. That’s good practice! Let’s say your drug causes a slight decrease or increase in blood pressure. We’ll see that in patients who get dizzy or get headaches reporting symptoms more frequently than placebo (on top of the frequent blood pressure checks). Some side effects can only be discovered after people start taking the drug, and this is how we discover them – by looking for patterns in the data.
 
 But as tSatN points out, it’s easy to see signal when there’s nothing but noise. This is compounded in a pregnancy study, where the outcome of every pregnancy is followed to its conclusion, dramatically adding the number of potentially noisy data points dutifully collected by the researchers. Each new data point increases multiplicity and the possibility of seeing patterns where only chance is present. This isn’t just a problem with defining a p<0.05 threshold, and indeed the frequentists seem to have figured this part out. The Bayesian who refuses arbitrary definitions like p-value still has to figure out whether they’re looking at signal or noise. The typical Bayesian rejoinder, “we’ll just make more observations” is ignoring the most important part of the signal here.
 
 If I make hundreds of observations, including open-ended observations with an uncountable number of chance coincidences, I’ve assured myself that I’m going to find some pattern in the noise. There may be signal there, but there is certainly noise. And if I’m not careful, I’ll waste all my time chasing noise.
 
-[[14]](#ftnt_ref14)I’m not claiming Bayesian principles are never applicable. But Silver’s dismissiveness about Fisher and all principles of frequentist statistics makes it clear that he thinks everything but a Bayesian approach should be abandoned. Consider which of these two positions makes more sense:
+[[14]](#ftnt_ref14) I’m not claiming Bayesian principles are never applicable. But Silver’s dismissiveness about Fisher and all principles of frequentist statistics makes it clear that he thinks everything but a Bayesian approach should be abandoned. Consider which of these two positions makes more sense:
 
 *   Silver’s claim that there’s one equation that effectively eliminates a major branch of the field – one that developed far more recently, and on which thousands of scientific papers and discoveries have relied.
 *   My claim that statistical models all have in-built assumptions. They apply only in situations where their assumptions can be demonstrated to hold. No one model is applicable in all situations. I’m sure there are even some situations that defy all current models.
@@ -250,15 +250,15 @@ All these facts combined suggested it would be virtual suicide for an expansioni
 
 [[20]](#ftnt_ref20) These are the missing stories: Censura in Bitinia (“Censorship in Bitinia”), a dystopian regime’s dry account on the outsourcing of routine censorship work to chickens; Il Versificatore (“The Versemaker”), about a machine that’s able to invent stories on behalf of The Poet – who still needs the convincing of an old-school/seasoned salesman to make up his mind and buy the thing; Quaestio de Centauris, in which the myth-respecting wisdom of a centaur named Trachi does not save him from going mad for love; and «Cladonia Rapida» («Fast-acting Cladonia»). If anyone has information on whether they ever got translated and where, I’d be interested to know!
 
-[[21]](#ftnt_ref21)One Amazon reviewer notes Levi’s “relevance to us as science teachers”.
+[[21]](#ftnt_ref21) One Amazon reviewer notes Levi’s “relevance to us as science teachers”.
 
 [[22]](#ftnt_ref22) Translations from Italian are mine.
 
-[[23]](#ftnt_ref23)Among the ones that are included in the English version
+[[23]](#ftnt_ref23) Among the ones that are included in the English version
 
 [[24]](#ftnt_ref24) From The Monkey Wrench, 1978.
 
-[[25]](#ftnt_ref25)Technically, Wikipedia includes a reference to "[Have a Carrot: Oedipal Theory and Symbolism in Margaret Wise Brown’s Runaway Bunny Trilogy](https://www.smashwords.com/books/view/21324)", which would probably count as a political analysis if it weren't a self-published e-book that that I doubt anyone has ever read and whose references on Wikipedia were probably added by the author.
+[[25]](#ftnt_ref25) Technically, Wikipedia includes a reference to "[Have a Carrot: Oedipal Theory and Symbolism in Margaret Wise Brown’s Runaway Bunny Trilogy](https://www.smashwords.com/books/view/21324)", which would probably count as a political analysis if it weren't a self-published e-book that that I doubt anyone has ever read and whose references on Wikipedia were probably added by the author.
 
 [[26]](#ftnt_ref26) Phlogiston is basically negative oxygen. Per the theory, flammable materials have phlogiston that is released into the air during combustion, but air can only absorb a limited amount of it, so once air is saturated with phlogiston (we would say: once the air runs out of oxygen), combustion stops.
 
@@ -276,7 +276,7 @@ All these facts combined suggested it would be virtual suicide for an expansioni
 
 [[33]](#ftnt_ref33) I don’t want to get bogged down as I’m way out of depth here, but my understanding is string theory has another issue, the “string theory landscape” whereby there are > 10^500 possible sets of fundamental string theory parameters and we sort of randomly (??) ended up with one of them which is kind of unsatisfying and seems to present issues re the IC. Here I just want to point out that the unfalsifiability need not be damning.
 
-[[34]](#ftnt_ref34) Consider the function f:TO→ℝ where TOis the space of theories that explain a set of observations O and f(tO) is the information required to specify theory tO (I’m including information required to specify initial conditions and correction factors within tO). Now let O be the whole universe U so our space is TU. Since information required to explain the universe is bounded below by zero, there exists a greatest lower bound (infimum) IUmin. If TU is compact and fU is continuous then fU must reach its infimum for at least one theory tUmin (i.e. f(tUmin) = IUmin) which is the true description of the universe. More generally, if these conditions don’t hold, we can still get arbitrarily close to IUmin, that is for any ε\>0 there exists a theory tUε such that f(tUε) < IUmin+ε.
+[[34]](#ftnt_ref34) Consider the function f:TO→ℝ where TO is the space of theories that explain a set of observations O and f(tO) is the information required to specify theory tO (I’m including information required to specify initial conditions and correction factors within tO). Now let O be the whole universe U so our space is TU. Since information required to explain the universe is bounded below by zero, there exists a greatest lower bound (infimum) IUmin. If TU is compact and fU is continuous then fU must reach its infimum for at least one theory tUmin (i.e. f(tUmin) = IUmin) which is the true description of the universe. More generally, if these conditions don’t hold, we can still get arbitrarily close to IUmin, that is for any ε\>0 there exists a theory tUε such that f(tUε) < IUmin+ε.
 
 [[35]](#ftnt_ref35) Or in the parlance of the previous endnote, it’s the theory tOmin.
 
@@ -300,17 +300,17 @@ All these facts combined suggested it would be virtual suicide for an expansioni
 
 [[45]](#ftnt_ref45) The phone network in East Germany was very bad, with only one in ten households having a telephone.
 
-[[46]](#ftnt_ref46)[One](https://ourworldindata.org/grapher/the-two-germanies-planning-and-capitalism?yScale=linear&country=OWID_GDR~OWID_GFR) dataset is again from OWID for the years 1950 to 1989, [the other](https://www.statistikportal.de/de/vgrdl/ergebnisse-laenderebene/bruttoinlandsprodukt-bruttowertschoepfung#alle-ergebnisse) is from the statistical offices of Germany starting in 1991. Neither contains data for 1990. Looking at the ratio is a bit weird, but because these adapt for inflation differently and I did not want to worry about converting their numbers, I opted for this, because the ratio should hopefully be invariant under inflation. However, this does not change the fact that these two data sets might measure GDP differently. Luckily, the drop between 1989 and 1991 matches the number I found [elsewhere](https://www.bpb.de/shop/zeitschriften/izpb/der-weg-zur-einheit-352/514496/entwicklungen-nach-der-wiedervereinigung/) (unfortunately, this article does not provide a source for its GDP numbers). All of this is further complicated by Berlin, which like Germany was reunified in 1990, and the statistical offices do not break down the Berlin data into East and West. Because the GDP of West Berlin was roughly one fourth of the whole GDR GDP (pun not intended), adding the Berlin GDP to East Germany would paint a very rosy picture, so I included it in the West instead. This slightly lowers the per-capita Western GDP, but that probably does not fully compensate for the fact that the eastern GDP post-1990 in this plot does not contain its largest city and appears a bit lower post-1991 than it should be.
+[[46]](#ftnt_ref46) [One](https://ourworldindata.org/grapher/the-two-germanies-planning-and-capitalism?yScale=linear&country=OWID_GDR~OWID_GFR) dataset is again from OWID for the years 1950 to 1989, [the other](https://www.statistikportal.de/de/vgrdl/ergebnisse-laenderebene/bruttoinlandsprodukt-bruttowertschoepfung#alle-ergebnisse) is from the statistical offices of Germany starting in 1991. Neither contains data for 1990. Looking at the ratio is a bit weird, but because these adapt for inflation differently and I did not want to worry about converting their numbers, I opted for this, because the ratio should hopefully be invariant under inflation. However, this does not change the fact that these two data sets might measure GDP differently. Luckily, the drop between 1989 and 1991 matches the number I found [elsewhere](https://www.bpb.de/shop/zeitschriften/izpb/der-weg-zur-einheit-352/514496/entwicklungen-nach-der-wiedervereinigung/) (unfortunately, this article does not provide a source for its GDP numbers). All of this is further complicated by Berlin, which like Germany was reunified in 1990, and the statistical offices do not break down the Berlin data into East and West. Because the GDP of West Berlin was roughly one fourth of the whole GDR GDP (pun not intended), adding the Berlin GDP to East Germany would paint a very rosy picture, so I included it in the West instead. This slightly lowers the per-capita Western GDP, but that probably does not fully compensate for the fact that the eastern GDP post-1990 in this plot does not contain its largest city and appears a bit lower post-1991 than it should be.
 
 [[47]](#ftnt_ref47) Eventually, all companies with fewer than 1500 employees should be managed by the subsidiaries, with the exception of, among others, circuses.
 
-[[48]](#ftnt_ref48)The black half should be pointing down and the white bit pointing up to be book-accurate, though.
+[[48]](#ftnt_ref48) The black half should be pointing down and the white bit pointing up to be book-accurate, though.
 
 [[49]](#ftnt_ref49) Excalibur is not the Sword in the Stone in all versions of the Arthurian legend, but you get the idea.
 
-[[50]](#ftnt_ref50)If you’re picky, Elaida is actually the legal and legitimate Amyrlin Seat as far as the law goes, but she’s the “illegitimate” Amyrlin for the purposes of the story. One of the lessons of this story arc is that legitimacy and illegitimacy aren’t just decided de jure but also de facto. The “rebel” Amyrlin becomes de facto leader and her de jure installation follows.
+[[50]](#ftnt_ref50) If you’re picky, Elaida is actually the legal and legitimate Amyrlin Seat as far as the law goes, but she’s the “illegitimate” Amyrlin for the purposes of the story. One of the lessons of this story arc is that legitimacy and illegitimacy aren’t just decided de jure but also de facto. The “rebel” Amyrlin becomes de facto leader and her de jure installation follows.
 
-[[51]](#ftnt_ref51)Some fans of the series might take offense at me seemingly praising Cadsuane, who many see as possessing the bad traits of the other Aes Sedai. She does share a lot of their flaws but in my estimation she is relatively good, as far as the faction goes.
+[[51]](#ftnt_ref51) Some fans of the series might take offense at me seemingly praising Cadsuane, who many see as possessing the bad traits of the other Aes Sedai. She does share a lot of their flaws but in my estimation she is relatively good, as far as the faction goes.
 
 [[52]](#ftnt_ref52) a title in Russian Empire, a layer between the nobility and merchants, less than 1% of the population
 
@@ -360,7 +360,7 @@ But Pierre continued his speech without heeding her.
 
 *   Book 5, Chapter 10
 
-[[68]](#ftnt_ref68)[Andrei predicts that the key action will be on the right flank] His idea was, first, to concentrate all the artillery in the center, and secondly, to withdraw the cavalry to the other side of the dip. Prince Andrei, being always near the commander in chief, closely following the mass movements and general orders, and constantly studying historical accounts of battles, involuntarily pictured to himself the course of events in the forthcoming action in broad outline. He imagined only important possibilities: “If the enemy attacks the right flank,” he said to himself, “the Kiev grenadiers and the Podólsk chasseurs must hold their position till reserves from the center come up.”
+[[68]](#ftnt_ref68) [Andrei predicts that the key action will be on the right flank] His idea was, first, to concentrate all the artillery in the center, and secondly, to withdraw the cavalry to the other side of the dip. Prince Andrei, being always near the commander in chief, closely following the mass movements and general orders, and constantly studying historical accounts of battles, involuntarily pictured to himself the course of events in the forthcoming action in broad outline. He imagined only important possibilities: “If the enemy attacks the right flank,” he said to himself, “the Kiev grenadiers and the Podólsk chasseurs must hold their position till reserves from the center come up.”
 
 *   Book Book 2, Chapter 19
 
@@ -384,7 +384,7 @@ But Pierre continued his speech without heeding her.
 
 *   Book 4, Chapter 6
 
-[[74]](#ftnt_ref74)For a long while after [his Masonic Mentor] had gone, Pierre did not go to bed or order horses but paced up and down the room, pondering over his vicious past, and with a rapturous sense of beginning anew pictured to himself the blissful, irreproachable, virtuous future that seemed to him so easy. It seemed to him that he had been vicious only because he had somehow forgotten how good it is to be virtuous. Not a trace of his former doubts remained in his soul. He firmly believed in the possibility of the brotherhood of men united in the aim of supporting one another in the path of virtue, and that is how Freemasonry presented itself to him.
+[[74]](#ftnt_ref74) For a long while after [his Masonic Mentor] had gone, Pierre did not go to bed or order horses but paced up and down the room, pondering over his vicious past, and with a rapturous sense of beginning anew pictured to himself the blissful, irreproachable, virtuous future that seemed to him so easy. It seemed to him that he had been vicious only because he had somehow forgotten how good it is to be virtuous. Not a trace of his former doubts remained in his soul. He firmly believed in the possibility of the brotherhood of men united in the aim of supporting one another in the path of virtue, and that is how Freemasonry presented itself to him.
 
 *   Book 5, Chapter 2
 
@@ -392,7 +392,7 @@ But Pierre continued his speech without heeding her.
 
 *   Book 7, Chapter 7
 
-[[76]](#ftnt_ref76)[Pierre experimenting with numerology] So he wrote Le russe Besuhof (The Russian Bezukhov) and adding up the numbers got 671. This was only five too much, and five was represented by "e", the very letter elided from the article le before the word Empereur. By omitting the e, though incorrectly, Pierre got the answer he sought. L’russe Besuhof made 666. This discovery excited him. How, or by what means, he was connected with the great event foretold in the Apocalypse he did not know, but he did not doubt that connection for a moment. His love for Natásha, Antichrist, Napoleon, the invasion, the comet, 666, L’Empereur Napoléon, and L’russe Besuhof—all this had to mature and culminate, to lift him out of that spellbound, petty sphere of Moscow habits in which he felt himself held captive and lead him to a great achievement and great happiness.
+[[76]](#ftnt_ref76) [Pierre experimenting with numerology] So he wrote Le russe Besuhof (The Russian Bezukhov) and adding up the numbers got 671. This was only five too much, and five was represented by "e", the very letter elided from the article le before the word Empereur. By omitting the e, though incorrectly, Pierre got the answer he sought. L’russe Besuhof made 666. This discovery excited him. How, or by what means, he was connected with the great event foretold in the Apocalypse he did not know, but he did not doubt that connection for a moment. His love for Natásha, Antichrist, Napoleon, the invasion, the comet, 666, L’Empereur Napoléon, and L’russe Besuhof—all this had to mature and culminate, to lift him out of that spellbound, petty sphere of Moscow habits in which he felt himself held captive and lead him to a great achievement and great happiness.
 
 *   Book 9, Chapter 19
 
@@ -402,7 +402,7 @@ But Pierre continued his speech without heeding her.
 
 *   Diary of Leo Tolstoy
 
-[[79]](#ftnt_ref79)If anyone doubted that the Christian world of today has reached a frightful state of torpor and brutalization (not forgetting the recent crimes committed in the Boers and in China, which were defended by the clergy and acclaimed as heroic feats by all the world powers), the extraordinary success of Nietzche's works is enough to provide irrefutable proof of this. Some disjointed writings, striving after effect in a most sordid manner, appear, written by a daring, but limited and abnormal German, suffering from power mania. Neither in talent nor in their basic argument do these writings justify public attention. In the days of Kant, Leibniz or Hume, or even fifty years ago, such writings would not only have received no attention, but they would not even have appeared. But today all the so-called educated people are praising the ravings of Mr N, arguing about him, elucidating him, and countless copies of his works are printed in all languages.
+[[79]](#ftnt_ref79) If anyone doubted that the Christian world of today has reached a frightful state of torpor and brutalization (not forgetting the recent crimes committed in the Boers and in China, which were defended by the clergy and acclaimed as heroic feats by all the world powers), the extraordinary success of Nietzche's works is enough to provide irrefutable proof of this. Some disjointed writings, striving after effect in a most sordid manner, appear, written by a daring, but limited and abnormal German, suffering from power mania. Neither in talent nor in their basic argument do these writings justify public attention. In the days of Kant, Leibniz or Hume, or even fifty years ago, such writings would not only have received no attention, but they would not even have appeared. But today all the so-called educated people are praising the ravings of Mr N, arguing about him, elucidating him, and countless copies of his works are printed in all languages.
 
 Turgenev made the witty remark that there are inverse platitudes, which are frequently employed by people lacking in talent who wish to attract attention to themselves. Everyone knows, for instance, that water is wet, and someone suddenly says, very seriously, that water is dry, not that ice is, but that water is dry, and the conviction with which this is stated attracts attention.
 

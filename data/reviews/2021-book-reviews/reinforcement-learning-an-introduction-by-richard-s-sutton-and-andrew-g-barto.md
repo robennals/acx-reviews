@@ -9,7 +9,7 @@ contestName: 2021 Book Reviews
 year: 2021
 publishedDate: '2026-02-06T07:21:29.573Z'
 slug: reinforcement-learning-an-introduction-by-richard-s-sutton-and-andrew-g-barto
-wordCount: 2838
+wordCount: 2839
 readingTimeMinutes: 13
 originalUrl: >-
   https://docs.google.com/document/d/1xexFJ7h0vULMDE7N77q_MIzXoerexfe_CqqGEL6hEoQ
@@ -31,7 +31,7 @@ Reinforcement learning is a study of what are the best actions (policy) to take 
 
 I’ve found RL to be the most elegant, first-principles formalization of what it means to “win”. It’s an algorithm that explicitly gives you the optimal actions to take to achieve the goal you define, with zero outside knowledge other than the input environment. Unlike other machine learning algorithms, RL does not require you to specify subgoals (capture the most chess pieces), only the ultimate goal (win at chess).
 
-The SSC and LessWrong communities started using Bayes’ theorem as the principal guide towards finding the truth. Bayes’ theorem is the first-principles formalism of how to evaluate evidence and update your beliefs so that your beliefs will match reality as closely as possible. But ultimately [“Rationality is winning”](https://www.google.com/url?q=https://www.lesswrong.com/posts/4ARtkT3EYox3THYjF/rationality-is-systematized-winning&sa=D&source=editors&ust=1770366086800668&usg=AOvVaw2LUp4aiXaKagtgAV_Ce5GO); the purpose of “Rationality” is not just to have a good epistemology, but to successfully achieve goals in the real world.
+The SSC and LessWrong communities started using Bayes’ theorem as the principal guide towards finding the truth. Bayes’ theorem is the first-principles formalism of how to evaluate evidence and update your beliefs so that your beliefs will match reality as closely as possible. But ultimately [“Rationality is winning”](https://www.lesswrong.com/posts/4ARtkT3EYox3THYjF/rationality-is-systematized-winning); the purpose of “Rationality” is not just to have a good epistemology, but to successfully achieve goals in the real world.
 
 Just as Bayes’ theorem is the mathematical foundation for finding the truth, reinforcement learning is the computational foundation for winning.
 
@@ -58,6 +58,8 @@ While you may already be familiar with the research on deliberate practice, RL p
 Dopamine is a neurochemical associated with pleasure. While it may seem like dopamine is analogous to the reward in an RL algorithm, it is not the reward. Instead, dopamine is the TD error.
 
 Echoing Pavlov’s dogs, the book describes a study where researchers (Schultz, Apicella, and Ljungberg, 1993) trained monkeys to associate a light turning on with a reward of a drop of apple juice. They hooked up brain scanners to the monkeys to monitor their dopamine receptor activity. Here’s how those neurons behaved:
+
+![](https://acximages.ennals.org/images/2021-book-reviews/d2935d8b5bb12f65.png)
 
 The x-axis is time elapsed and the y-axis is strength of dopamine response. CS: Light turning on R: Drop of apple juice dispensed
 
@@ -101,13 +103,13 @@ Any basic optimization algorithm suffers from the problem of being stuck in loca
 
 I want to argue here that our ability to delay gratification is not the result of willpower, but actually a hack. We don’t really delay gratification, instead we substitute a real reward for an imagined one.
 
-In the famous [Stanford marshmallow experiment](https://www.google.com/url?q=https://en.wikipedia.org/wiki/Stanford_marshmallow_experiment&sa=D&source=editors&ust=1770366086811480&usg=AOvVaw2-7ZGX7I0yCawDPdjCvzJE), children who were able to give up a marshmallow to wait 15 minutes in an empty room received 2 marshmallows afterwards. Compared to the kids who didn’t wait, the kids who waited later had improved SAT scores, educational attainment, and other measures of life outcome.
+In the famous [Stanford marshmallow experiment](https://en.wikipedia.org/wiki/Stanford_marshmallow_experiment), children who were able to give up a marshmallow to wait 15 minutes in an empty room received 2 marshmallows afterwards. Compared to the kids who didn’t wait, the kids who waited later had improved SAT scores, educational attainment, and other measures of life outcome.
 
 If you watch some videos of this experiment, what’s remarkable is you will notice the most successful kids aren’t the ones who have iron willpower, but instead those who were able to distract themselves by singing songs, playing with their hands, etc.
 
 Thus, the key to long-term planning is not the ability to push back a reward, but instead the ability to be satisfied with an imagined fiction tell yourself of an even greater reward you can receive if you wait.
 
-While I use the terms “fiction”, “simulated”, and “imagined”, it’s important to note that this “synthetic happiness” is not fake. Biologically, psychologically, and computationally, it is in every way as real as “real” happiness. Dan Gilbert, the happiness researcher, presents the data behind this in a [TED talk](https://www.google.com/url?q=https://www.ted.com/talks/dan_gilbert_the_surprising_science_of_happiness/&sa=D&source=editors&ust=1770366086812631&usg=AOvVaw1LF7sZm3KaCvVzWoDuGfK7):
+While I use the terms “fiction”, “simulated”, and “imagined”, it’s important to note that this “synthetic happiness” is not fake. Biologically, psychologically, and computationally, it is in every way as real as “real” happiness. Dan Gilbert, the happiness researcher, presents the data behind this in a [TED talk](https://www.ted.com/talks/dan_gilbert_the_surprising_science_of_happiness/):
 
 We smirk, because we believe that synthetic happiness is not of the same quality as what we might call “natural happiness”. [...] I want to suggest to you that synthetic happiness is every bit as real and enduring as the kind of happiness you stumble upon when you get exactly what you were aiming for.
 
@@ -119,13 +121,13 @@ Simpler animals require Pavlovian training and direct rewards/punishments to inf
 
 After three moves in chess, there are 100+ million possible board positions and 10^120 possible continuations (more than the number of atoms in the universe), only a tiny sliver of which result in a win. To have any hope of getting a good value function with limited computing power, your algorithm must focus on analyzing the most promising (or most common) moves and avoid spending clock cycles on positions that are clearly bad and will never occur in a real game.
 
-But your opinion on what is “good” may differ from someone else’s opinion. An RL agent’s experience in a game is highly path-dependent; if it happens to get lucky with a certain sequence of actions it may overvalue these actions and hence choose them more often than a counterfactual average agent. Thus, how much credit should you give to your own experience vs. others’ experiences? [Morgan Housel](https://www.google.com/url?q=https://www.collaborativefund.com/blog/the-psychology-of-money/&sa=D&source=editors&ust=1770366086814630&usg=AOvVaw3JPZvrevoK6aGmQYQxokjC) says “Your personal experiences make up maybe 0.00000001% of what’s happened in the world but maybe 80% of how you think the world works.”
+But your opinion on what is “good” may differ from someone else’s opinion. An RL agent’s experience in a game is highly path-dependent; if it happens to get lucky with a certain sequence of actions it may overvalue these actions and hence choose them more often than a counterfactual average agent. Thus, how much credit should you give to your own experience vs. others’ experiences? [Morgan Housel](https://www.collaborativefund.com/blog/the-psychology-of-money/) says “Your personal experiences make up maybe 0.00000001% of what’s happened in the world but maybe 80% of how you think the world works.”
 
 The importance sampling ratio is a modifier used by the RL agent to upregulate or downregulate its value function to reduce the variance from luck, without changing the expected value. It’s calculated using a set of weight parameters that is adjusted based on a behaviour policy, which you can think of as the RL agent’s simulation of what an average agent would do in its stead.
 
 Just as Bayes’ theorem gives you the math for exactly how much you should increase or decrease your confidence in a belief in response to new evidence, importance sampling gives you the math for exactly how much credit you should give to your own experiences versus others’ experiences so you can correct for your narrow slice of reality without throwing up your hands and always deferring to others.
 
-I believe importance sampling is the appropriate response to avoid overcorrecting and, [as Eliezer describes](https://www.google.com/url?q=https://equilibriabook.com/inadequacy-and-modesty/&sa=D&source=editors&ust=1770366086816433&usg=AOvVaw1qiaSCIK3__MjwXPZdWjIJ), to avoid becoming “too modest” to the point where you stop trusting your own intuitions even when they are right.
+I believe importance sampling is the appropriate response to avoid overcorrecting and, [as Eliezer describes](https://equilibriabook.com/inadequacy-and-modesty/), to avoid becoming “too modest” to the point where you stop trusting your own intuitions even when they are right.
 
 ## Conclusion
 
@@ -137,6 +139,6 @@ I highly recommend this book if you are interested in what modern machine learni
 
 It took me four months to read this book and do the exercises, and I also did it as part of a class I am taking for my Master’s Degree, but it was well worth the investment. This book took me from barely any idea about reinforcement learning to being able to comfortably read the latest RL research papers published on arXiv. Perhaps you’ll also discover something new about AI that you didn’t realize you were missing before.
 
-You can [download the book for free](https://www.google.com/url?q=http://www.incompleteideas.net/book/the-book-2nd.html&sa=D&source=editors&ust=1770366086818871&usg=AOvVaw2PbqJPuprTPskte-oLQYpl) from the author’s website.
+You can [download the book for free](http://www.incompleteideas.net/book/the-book-2nd.html) from the author’s website.
 
 * * *

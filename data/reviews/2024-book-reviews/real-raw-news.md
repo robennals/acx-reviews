@@ -7,7 +7,7 @@ contestName: 2024 Book Reviews
 year: 2024
 publishedDate: '2026-02-06T16:48:56.652Z'
 slug: real-raw-news
-wordCount: 6980
+wordCount: 6985
 readingTimeMinutes: 32
 originalUrl: >-
   https://docs.google.com/document/d/1GYQw3pgvhi7hqOVR-Ql629Q_8thbyHe8sSRy5voyt30
@@ -149,6 +149,8 @@ The body became too hot to touch and was soon consumed by fire.
 
 Like Bob Ross, Michael Baxter has no mistakes, only happy little accidents. In late 2021, RRN reported on the [conviction](https://realrawnews.com/2021/11/military-convicts-marc-mezvinsky/) of the late Chelsea Clinton’s husband, Marc Mezvinsky. Being only a lackey in the Clintons’ plot to abduct children and sell them on the black market, Mezvinsky received a comparatively lenient life sentence. But wait! Two months later, Gitmo’s chaplain mentioned in passing that he had attended Mezvinsky’s execution. Eagle-eyed readers saw the discrepancy and cried foul. But Baxter didn’t miss a beat.
 
+![](https://acximages.ennals.org/images/2024-book-reviews/bb0f880e0ab8dca4.png)
+
 When Baxter reported on the [arrest](https://realrawnews.com/2022/04/military-arrests-david-axelrod/) of former Obama adviser David Axelrod, only to publish no follow-up, he had a ready explanation a year later: Axelrod had been executed without trial by being [thrown out of an airplane](https://realrawnews.com/2023/07/the-untried-and-the-dead-david-axelrod/), and it took months for Baxter to learn the truth.
 
 I’ll admit, I find Baxter’s efforts to maintain narrative integrity incredibly charming, given how the clash with the latent absurdity of the whole endeavor. Like most fictional universes, the Real Raw Newsiverse crumbles if you think about it too hard. If there are White Hat and Black Hat partitions of the military, how does military procurement work? How do newly-enlisted personnel know which faction they are joining? Do the two factions have separate recruiters? And when literally everyone carries a basic video camera in their pocket, and social media access is universal, how are major battles being fought on American soil with zero video evidence anywhere?
@@ -164,7 +166,15 @@ You might be tempted to think this is all irrelevant rambling  into the void. B
 
 The typical RRN article gets hundreds upon hundreds of comments. And sure, a lot of them are “My mother is being paid $2,000/day working from home” spam, but most of them are not. Hundreds upon hundreds of comments are from readers grateful to Baxter for sharing the “truth.” Even more unsettling are comments from people who spot a problem with the occasional story, but still trust Baxter overall.
 
+![](https://acximages.ennals.org/images/2024-book-reviews/9005cdf68f997333.png)
+
 Baxter has a [donation page](https://www.givesendgo.com/realrawnews2) on Christian crowdfunding site GiveSendGo. It has raised more than $210,000 and donations continue to pour in on a daily basis. Sure, some donation messages clearly indicate people who are in on the joke…but many more do not.
+
+![](https://acximages.ennals.org/images/2024-book-reviews/3511594cebe0d10d.png)![](https://acximages.ennals.org/images/2024-book-reviews/36ceb7531f11074e.png)
+
+![](https://acximages.ennals.org/images/2024-book-reviews/f7614c2399ed667c.png)
+
+![](https://acximages.ennals.org/images/2024-book-reviews/2bc2ccacbddeaf3c.png)
 
 But I don’t just need to guess based on comments and donation messages. In this realm, I can appeal to personal experience. I work in the broader world of American right-of-center politics, and we encounter Real Raw News believers constantly. We get emails from people who confidently insist the public-facing news of the day is fake, and the truth about the events at Gitmo will soon be revealed. At public Q&A events, we’ve fielded questions from genuinely nervous and worried people, who complain about their friends losing hope and being blackpilled by the news, and want to know why there hasn’t been more effort to share what’s “really” going on. A friend of mine who served in the Trump administration has described attending parties where, when he mentioned looking for a post-admin job, he received knowing looks and wink-wink-nudge-nudge remarks from people signaling they knew what was “really” going on.
 
@@ -285,7 +295,7 @@ Do I think that’s what happened here? Not at all – Real Raw News is way too 
 
 But what about five years from now? What if there were some technological change that would make it far, far easier to produce evidence of a sweeping conspiracy theory?
 
-That’s right, this review is actually about AI.[[13]](#ftnt13)
+That’s right, this review is actually about AI.[[13]](#ftnt13) 
 
 The rise of realistic artificial intelligence has created a lot of fretting about deepfakes, and it’s also created a lot of fretting about porn. Will young men really bother with the pain and difficulty and awkwardness of dating in real life, when they can just create a custom AI girlfriend to their exact specifications, then simulate sex with her using virtual reality? Will women bother with seeking out a boyfriend if they can use an LLM to give them perfect 24/7 empathy and emotional validation?
 

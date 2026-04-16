@@ -7,7 +7,7 @@ contestName: 2024 Book Reviews
 year: 2024
 publishedDate: '2026-02-06T16:49:50.817Z'
 slug: the-vegetarian
-wordCount: 1619
+wordCount: 1621
 readingTimeMinutes: 8
 originalUrl: >-
   https://docs.google.com/document/d/1Ki5XsE0jkxZtd2XAeyTAJw1ZjLh2Cu-matUYKAhA6-s
@@ -20,7 +20,7 @@ tags:
 
 The Vegetarian tells the story of Yeong-hye, a Korean woman in her thirties, whose mental health deteriorates after she becomes a vegetarian. Despite the one-sentence summary, this is not a book about B12 deficiency, and not even that much about plant-based diet. To me, the most salient themes of the book are mental health and bodily autonomy. Being unfamiliar with Korean culture, I also found the description of Korean everyday life interesting.
 
-It’s not exactly a happy read, featuring elements such as sexual assault, self-harm and abusive family. (There’s also plenty of material for a debate on [mental illness](https://slatestarcodex.com/2015/10/07/contra-caplan-on-mental-illness/)[vs.](https://slatestarcodex.com/2020/01/15/contra-contra-contra-caplan-on-psych/)[unusual preferences](https://www.astralcodexten.com/p/sure-whatever-lets-try-another-contra), which might be triggering for our dear blog host.) However, it’s a beautiful book, sometimes disturbing, sometimes funny, often ironic. It’s thought-provoking and ambiguous, raising questions rather than passing judgments.
+It’s not exactly a happy read, featuring elements such as sexual assault, self-harm and abusive family. (There’s also plenty of material for a debate on [mental illness](https://slatestarcodex.com/2015/10/07/contra-caplan-on-mental-illness/) [vs.](https://slatestarcodex.com/2020/01/15/contra-contra-contra-caplan-on-psych/) [unusual preferences](https://www.astralcodexten.com/p/sure-whatever-lets-try-another-contra), which might be triggering for our dear blog host.) However, it’s a beautiful book, sometimes disturbing, sometimes funny, often ironic. It’s thought-provoking and ambiguous, raising questions rather than passing judgments.
 
 ## Mental health and bodily autonomy
 

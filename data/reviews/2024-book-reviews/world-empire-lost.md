@@ -26,7 +26,7 @@ He takes time to lay out the overall aims and ambitions of Germany, in his view 
 
 “This great manipulator so managed the war that other nations bled themselves almost to death, so as to hand his country the rule of the earth on a silver platter... America in four years of global war lost about three hundred thousand on all fronts including her war with Japan! For this almost bloodless conquest of the earth, which has no parallel in all history, the American people can thank that enigmatic, still shrouded figure, the Augustus of the industrial age, the Dutch-descended millionaire cripple, Roosevelt.”  
 
-The book was first published in 1965, at a time when von Roon was still serving time for the atrocities for which he was convicted at Nuremberg, primarily on the Eastern Front. It was written as a summary for ‘popular’ consumption of his much larger two-volume operational analysis of the war, entitled Land, Sea, and Air Campaigns of World War II.
+The book was first published in 1965, at a time when von Roon was still serving time for the atrocities for which he was convicted at Nuremberg, primarily on the Eastern Front. It was written as a summary for ‘popular’ consumption of his much larger two-volume operational analysis of the war, entitled Land, Sea, and Air Campaigns of World War II. 
 
 The version I read was translated into English a year later by a senior US naval officer, Victor Henry - and in this review I will also be referring to his translation notes at times, particularly where they offer a biting comment on the (in)accuracies of von Roon’s account. As he puts it:
 
@@ -54,11 +54,11 @@ It is true, after all, that the Poles treated the Jews appallingly - and that th
 
 “If Hebrews were no longer welcome in Germany, it developed that they were not much more welcome anywhere else. Year by year after Hitler took power, western Europe stiffened its restrictions against admitting Jews. The sparsely settled vast lands of the New World, led by the “haven of oppressed mankind,” the U.S.A., clanged iron doors shut in the Jews’ faces. This was a black chapter in the tale of man’s inhumanity to man.”[[95]](#ftnt95)
 
-Von Roon’s justification of atrocities is indefensible and at times hard to read. One can have more understanding when he discusses the failures of the Weimar Republic and the Great Depression - and the very real threat the communists posed to Germany. Most seductive is his central thesis, that underpins the entirety of World Empire Lost including the title, that “Franklin Delano Roosevelt’s one war aim was to destroy Germany so as to win unimpeded rule of the world for American monopoly capital.”[[96]](#ftnt96)
+Von Roon’s justification of atrocities is indefensible and at times hard to read. One can have more understanding when he discusses the failures of the Weimar Republic and the Great Depression - and the very real threat the communists posed to Germany. Most seductive is his central thesis, that underpins the entirety of World Empire Lost including the title, that “Franklin Delano Roosevelt’s one war aim was to destroy Germany so as to win unimpeded rule of the world for American monopoly capital.”[[96]](#ftnt96) 
 
 To read World Empire Lost is to voluntarily dip oneself into a cesspit. It is not comfortable, nor is it pleasant; upon emerging, one must check oneself to be sure that no stain remains. But the events described in it did happen, and were justified and carried out by tens, if not hundreds, of thousands who thought the same way as von Roon. That is something it behooves us to understand.
 
-## The War Begins
+##  The War Begins
 
 “The reader will have to grow used to the German habit of blaming other countries for getting themselves invaded by Germans - VH.”
 
@@ -465,7 +465,7 @@ World Empire Lost is a fiction.
 
 To be more precise, it is a fictional work of non-fiction. It exists - and at approximately 80,000 words long, is as long as many books one might find in a bookshop. All quotes and translator’s notes produced here are genuine quotations from material that actually exists.
 
-General Armin von Roon, however, never existed. World Empire Lost was instead written by the American author Herman Wouk, and spliced into his masterpiece The Winds of War / War and Remembrance[[105]](#ftnt105), an epic[[106]](#ftnt106) duology of the Second World War and the Holocaust. While the bulk of the books follow an American naval family (including Victor Henry, the ‘translator’) and other families they come into contact with, ever few chapters he presents an excerpt from World Empire Lost.
+General Armin von Roon, however, never existed. World Empire Lost was instead written by the American author Herman Wouk, and spliced into his masterpiece The Winds of War / War and Remembrance[[105]](#ftnt105), an epic[[106]](#ftnt106) duology of the Second World War and the Holocaust. While the bulk of the books follow an American naval family (including Victor Henry, the ‘translator’) and other families they come into contact with, ever few chapters he presents an excerpt from World Empire Lost. 
 
 Does this mean that it is valueless? It is, after all, written not by a Nazi war criminal, but by an American Jew. How much insight can we gain from it?
 

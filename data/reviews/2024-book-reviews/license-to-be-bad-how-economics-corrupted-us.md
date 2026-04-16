@@ -7,7 +7,7 @@ contestName: 2024 Book Reviews
 year: 2024
 publishedDate: '2026-02-06T16:48:20.708Z'
 slug: license-to-be-bad-how-economics-corrupted-us
-wordCount: 4012
+wordCount: 4015
 readingTimeMinutes: 18
 originalUrl: >-
   https://docs.google.com/document/d/1cp6iw5OEyDjnD_viZo-KL0Zv4jwQnMXtE4yIovfVAco
@@ -89,7 +89,7 @@ In essence, on top of introducing markets into areas where they previously didn�
 
 The only problem is that all of this is one big accident.
 
-For starters,Ronald Coase, 1991 Nobel Prize in Economics winner, never really meant to be an economist in the first place. He wanted to study History, but didn’t meet the course requirements for his coveted degree due to never studying Latin (that’s how things worked back in the 1920s).
+For starters, Ronald Coase, 1991 Nobel Prize in Economics winner, never really meant to be an economist in the first place. He wanted to study History, but didn’t meet the course requirements for his coveted degree due to never studying Latin (that’s how things worked back in the 1920s).
 
 He then resolved to pivot to Chemistry instead, although he quickly discovered that he despised mathematics, which were again, a requirement. So that didn’t work out either. By process of elimination, he eventually found himself in the London School of Economics – where he excelled.
 
@@ -115,7 +115,7 @@ Nevermind the fact that this dynamic can encourage emitters to exploit easy shor
 
 And whatever you do, don’t try to invoke any additional form of authority to try and stop the gradual decay of the earth. There’s no need, really!
 
-So here we all are, watching helplessly as a misinterpreted theory serves as a basis for a misfiring policy. As if in a greek tragedy, the world of zero transaction costs is often described as a Caosean one - the complete opposite of what he intended.The cherry on top however, is that Coase always preferred it spelled with an I (“Coasian”). Not even his spelling was adopted.
+So here we all are, watching helplessly as a misinterpreted theory serves as a basis for a misfiring policy. As if in a greek tragedy, the world of zero transaction costs is often described as a Caosean one - the complete opposite of what he intended. The cherry on top however, is that Coase always preferred it spelled with an I (“Coasian”). Not even his spelling was adopted.
 
 And that’s just one of many examples of how misguided economic principles create a world in which...
 
@@ -129,7 +129,7 @@ The paper was popular since it proposed a solution to a fundamental problem: How
 
 Jensen and Murphy were dabbling in the economic art of “optimal contracting”, a discipline spearheaded by Bengt Holmstrom at the time. It aimed to find the ultimate “pay for performance” package for upper management, and ended up laying out the ideological groundwork that today is taken for granted as a piece of all too common sense:
 
-The bestest most productivest of people in a company surely deserve the bestest of rewards – and if you’re a CEO of a profitable company, congratulations,that person is by definition you!
+The bestest most productivest of people in a company surely deserve the bestest of rewards – and if you’re a CEO of a profitable company, congratulations, that person is by definition you!
 
 So obvious was this conclusion, that in the 15 years that followed the publishing of the paper, the average total “compensation package” of CEOs in the top 500 US companies more than tripled (after accounting for inflation).
 

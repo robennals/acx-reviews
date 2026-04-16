@@ -7,7 +7,7 @@ contestName: 2022 Book Reviews
 year: 2022
 publishedDate: '2026-02-06T07:24:08.703Z'
 slug: how-solar-energy-became-cheap-a-model-for-low-carbon-innovation
-wordCount: 6608
+wordCount: 6611
 readingTimeMinutes: 30
 originalUrl: >-
   https://docs.google.com/document/d/1pRQbRbEUwSH_jm94PI_ij-88swat7vQ4iNaNp6gd39g
@@ -18,6 +18,8 @@ tags:
 ---
 
 Technology has a number of impressive stories of progress but few rival the story of solar photovoltaics (PV). From costing $300,000 for a mWh in 1957 costs have fallen on average 14% a year leading to current costs in sunny places to be as low as $17 per mWh, or in other words the world’s cheapest electricity.
+
+![](https://acximages.ennals.org/images/2022-book-reviews/7eae53065b6e6edd.png)
 
 Solar has achieved this despite competing in maybe the most commoditized market in the world, electricity, and when it started its costs were far far above those of its competition like oil or coal.
 
@@ -36,6 +38,8 @@ The story of how solar energy became cheap presented is one of three overlapping
 If I was to summarise the main components in a, somewhat long, sentence it would be that solar PV modules benefited from being able to work in a number of niche markets, at many stages spurred on by government demand side policies and that the standardisation of the underlying module and the physical principles it is built on made them particularly amenable to economies of scale and learning by doing helping them to radically fall in cost as installed capacity increased.
 
 The book has two main lists covering spelling out a number of factors that helped in this process. One covers the main drivers of how solar became cheap and the other covers things that could accelerate technologies like solar. We won't look at all the points on either list but I thought it would be unfair not to at least include them in full so here they are below:
+
+![](https://acximages.ennals.org/images/2022-book-reviews/e695571ffb4347f8.png)
 
 I'm going to focus on a few of the aspects the book touches on in this summary rather than take you through the same kind of chronological story it presents. Instead, I'm going to roughly separate things out into the role of technology, the role of governments, and the role of markets.
 
@@ -100,6 +104,8 @@ Being the first program it had to overcome some challenges that later schemes di
 The solution was to purchase solar PV in 5 blocks, each block would have a pre-committed price producers would get but each block would be increasingly demanding for manufacturing specifications, things like cost, efficiency, life expectancy.
 
 The FSA was a massive success and was even described by congress as one of the best managed projects ever undertaken.
+
+![](https://acximages.ennals.org/images/2022-book-reviews/bfb0374165665d57.png)
 
 METI rooftop solar program
 
@@ -226,7 +232,7 @@ Hopefully the above gives a glimpse into the path solar has taken to go from wha
 
 * * *
 
-[[1]](#ftnt_ref1) Uplift is a recently popular genre where a modern human brings technology and other cultural knowledge--say, medical practices, like in the web serial [Castle Kingside](https://www.google.com/url?q=https://www.royalroad.com/fiction/43462/castle-kingside-rewrite&sa=D&source=editors&ust=1770366233891770&usg=AOvVaw3SbKK35HwaedT_nwUaEXDF)\--to a less advanced society. You often see this with time-travel stories, but Uplift stories focus on the process of training the people, spreading the tech, etc. I’ve actually had trouble finding that specific definition online (I guess [this](https://www.google.com/url?q=https://tvtropes.org/pmwiki/pmwiki.php/Main/TechnologyUplift&sa=D&source=editors&ust=1770366233892105&usg=AOvVaw10O6XzDJE-hoGTYyGNhUKs) is close), but the genre is well known in certain circles.
+[[1]](#ftnt_ref1) Uplift is a recently popular genre where a modern human brings technology and other cultural knowledge--say, medical practices, like in the web serial [Castle Kingside](https://www.royalroad.com/fiction/43462/castle-kingside-rewrite)--to a less advanced society. You often see this with time-travel stories, but Uplift stories focus on the process of training the people, spreading the tech, etc. I’ve actually had trouble finding that specific definition online (I guess [this](https://tvtropes.org/pmwiki/pmwiki.php/Main/TechnologyUplift) is close), but the genre is well known in certain circles.
 
 [[2]](#ftnt_ref2) It’s easy to forget his name, the entire thing is written in first person and apparently ‘Hank’ is only in there twice.
 

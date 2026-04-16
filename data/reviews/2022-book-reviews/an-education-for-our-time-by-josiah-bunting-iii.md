@@ -7,7 +7,7 @@ contestName: 2022 Book Reviews
 year: 2022
 publishedDate: '2026-02-06T07:24:08.689Z'
 slug: an-education-for-our-time-by-josiah-bunting-iii
-wordCount: 6792
+wordCount: 6794
 readingTimeMinutes: 31
 originalUrl: >-
   https://docs.google.com/document/d/1pRQbRbEUwSH_jm94PI_ij-88swat7vQ4iNaNp6gd39g
@@ -25,23 +25,25 @@ It’s pretty unique to find someone who thinks colleges desperately need to be 
 
 An Education for Our Time is written by Josiah Bunting III, a Rhodes scholar, Vietnam War veteran, and university president. He’s also written a bunch of novels and some non-fiction books. If you think that sounds like the biography of a guy who would care a lot about “inculcating virtue” and would use words like “disinterested service”, you would be exactly right.
 
+![](https://acximages.ennals.org/images/2022-book-reviews/19659913a9d22258.jpg)
+
 Though An Education is fundamentally a playbook for creating a new kind of college, Bunting conveys his vision for the college through an epistolary novel, documenting the exchange of letters between a dying tech billionaire describing his plans for a college endowed in his will and the executor of that will. Some readers might be interested in treating the book as a literary work and separating the voice of the dying billionaire from that of the author, but I think that’s missing the point of what’s going on here. The book is best read more-or-less as a treatise with Bunting speaking through the voice of the main character, and that is how I am going to be thinking about it in this review.
 
 If not the status quo or vocational training, what does Bunting think colleges should do? Fortunately, this book is not very subtle. According to Bunting, “the mission of the College is to prepare our students to give virtuous and disinterested service and leadership to the Republic” (219). Bunting likes to throw around lofty phrases like “disinterested service to the Republic”, but fundamentally, he envisions a model of college that works on students’ souls (or if you prefer, students’ character) as much as their brains, and not because that is a nice thing to do, but because the more courageous, resourceful, honest, respectful, altruistic, confident, etc one becomes, the better they will serve themselves and society at large.
 
 Bunting’s college is not about creating people who know certain kinds of things; it is about creating certain kinds of people, namely those with “a positive passion for the public good” (39), “active and prudent minds and the will to act” (45), “unself-conscious moral courage, self-forgetfulness and self-mastery, indifference to material success and to ‘things’, fierce patriotism, willingness to assume responsibility without calculation of risk or reward, intellectual self-reliance, independence of judgment, retention of a lifelong sense of wonder, magnanimity, liberality, generosity, [and] physical hardihood and resistance to fatigue” (141).
 
-Bunting’s approach to education might sound kind of hokey, but Yuval Levin has a [great riff](https://www.google.com/url?q=https://www.hoover.org/research/importance-institutions-yuval-levin-1&sa=D&source=editors&ust=1770366233027779&usg=AOvVaw168TSbwN_xIRbcwp1eTq-f) on education that totally changed my perspective and made me more receptive to Bunting’s vision:
+Bunting’s approach to education might sound kind of hokey, but Yuval Levin has a [great riff](https://www.hoover.org/research/importance-institutions-yuval-levin-1) on education that totally changed my perspective and made me more receptive to Bunting’s vision:
 
 The military is… the great exception to our loss of trust in institutions… And I think the reason for that has everything to do with… [how] the military is unabashedly formative. It's not just good at protecting us from our enemies. Though it is, it's also good at transforming young people into responsible serious men and women. When somebody tells you that they went to Harvard, you think maybe that's a serious person, maybe that's an intelligent person, maybe not. But you know, whatever they are, they got into Harvard because Harvard sort of measured them, decided if they were up to that standard, and then let them in. When someone tells you they went to the Naval Academy, you think this is a serious person. And it's because of the Naval Academy, because it made them that way. [emphasis added]
 
-[Mulan | I'll Make a Man Out of You | Disney Junior UK](https://www.google.com/url?q=https://youtu.be/vGfJeW_CcFY&sa=D&source=editors&ust=1770366233028751&usg=AOvVaw0R7rjK25iCrfthHVQOvvKO)
+[Mulan | I'll Make a Man Out of You | Disney Junior UK](https://youtu.be/vGfJeW_CcFY)
 
 We know it is possible to create institutions that take teenagers and turn them into incredibly competent and trustworthy adults with leadership skills that they will carry with them for the rest of their lives. As Levin notes, the military and its associated academies consistently do this pretty well. Levin highlights how Harvard merely houses exceptional students who have already met the standards of their extremely selective admissions process, while the military academies seek to transform their students into exceptional people. This explains why Mark Zuckerberg and Bill Gates are not thought of as “lesser” Harvard students even though they never graduated.
 
 We also know that your typical college student will remember very little of the substance of their courses in college and will also most likely have few opportunities to usefully apply whatever academic knowledge they retain. These are the kinds of criticisms that Caplan and other detractors have been credibly making against the status quo. But, instead of concluding that college is useless, as such critics might, why not reorient the institution towards the goal of helping students become holistically better people?
 
-CS Lewis [once](https://www.google.com/url?q=https://akademician.files.wordpress.com/2019/08/lewis-men-without-chests.pdf&sa=D&source=editors&ust=1770366233029912&usg=AOvVaw0WgDarJ5PxF2V9m__JGipN) wrote
+CS Lewis [once](https://akademician.files.wordpress.com/2019/08/lewis-men-without-chests.pdf) wrote
 
 “[w]e make men without chests and expect of them virtue and enterprise. We laugh at honour and are shocked to find traitors in our midst. We castrate and bid the geldings be fruitful”
 
@@ -55,11 +57,11 @@ Bunting offers a succinct summary of his college in the form of the letter he wo
 
 “A new College… seeks to identify high school juniors… Its purpose is the preparation of virtuous and disinterested citizens and leaders for the Republic… The College will enroll undergraduates only,  for a five-year program, its academic curriculum to embody some requirements traditional to liberal education, but others (for example, the mastery to fluency of two foreign languages, one of them non-Western; required courses in mathematics, logic, and deontology) less apt to be required in contemporary undergraduate curricula. Eighteen months of the five-year tenure will be spent away from the College’s demesne, which is currently being readied near Douglas, Wyoming. All costs of the full undergraduate program, including tuition, room, board, books and sundries, and travel costs, will be borne by the College. All graduates are to incur a three-year obligation for service in some agency of federal, state, or local government. Principal qualifications for admission comprise, among others, demonstrated qualities of self-reliance, selflessness, tenacity, integrity, and judgment… Please send to [address]... the names of possible candidates, and a brief description of each. Do not, even if known, include SAT, ACT, or IQ ‘scores’” (62)
 
-Bunting again refers to “virtuous and disinterested citizens and leaders for the Republic”. Though his language is a bit more flowery, the mission of his college as stated is actually not so different from that of existing institutions. For reference, [Harvard’s mission](https://www.google.com/url?q=https://college.harvard.edu/about/mission-vision-history%23:~:text%3DThe%2520mission%2520of%2520Harvard%2520College,liberal%2520arts%2520and%2520sciences%2520education.&sa=D&source=editors&ust=1770366233032974&usg=AOvVaw2XCJpAV5_y60EqTgePIpRa) is
+Bunting again refers to “virtuous and disinterested citizens and leaders for the Republic”. Though his language is a bit more flowery, the mission of his college as stated is actually not so different from that of existing institutions. For reference, [Harvard’s mission](https://college.harvard.edu/about/mission-vision-history#:~:text=The%20mission%20of%20Harvard%20College,liberal%20arts%20and%20sciences%20education.) is
 
 “to educate the citizens and citizen-leaders for our society… hop[ing] that students will begin to fashion their lives by gaining a sense of what they want to do with their gifts and talents… and learning how they can best serve the world”.
 
-Though Bunting’s college shares many of the aims of existing institutions, his vision seems better suited to achieving these shared goals. Of the [Harvard Class of 2021](https://www.google.com/url?q=https://features.thecrimson.com/2021/senior-survey/after-harvard/&sa=D&source=editors&ust=1770366233033452&usg=AOvVaw17BG3RcDiTxTD8TgGQl1fK), for instance, just ~6% of graduating students said they planned on working in government, politics, public service, or non-profits after graduation. Students’ first jobs out of college is an imperfect proxy for public spiritedness, but Bunting’s proposal to obligate students to work in public service seems like a reasonable mechanism for getting students to work for the public benefit.
+Though Bunting’s college shares many of the aims of existing institutions, his vision seems better suited to achieving these shared goals. Of the [Harvard Class of 2021](https://features.thecrimson.com/2021/senior-survey/after-harvard/), for instance, just ~6% of graduating students said they planned on working in government, politics, public service, or non-profits after graduation. Students’ first jobs out of college is an imperfect proxy for public spiritedness, but Bunting’s proposal to obligate students to work in public service seems like a reasonable mechanism for getting students to work for the public benefit.
 
 Bunting also refers to an 18 month period that students would spend off campus. Later on, he elaborates that 12 of those months are to be spent in the military:
 
@@ -77,9 +79,9 @@ It’s not so rare to hear professors and college administrators lament, in publ
 
 Ironically, Bunting is writing these words through the voice of a billionaire, so of course we’re not meant to think that material success itself is the issue; rather, Bunting seems critical of a worldview centered around material things. Zuckerbeg and Bezos definitely have incentives to not appear materialistic in the below interviews, but it does seem true that some of the most successful Americans were not particularly or fundamentally driven by the pursuit of wealth.
 
-[I Have A Little Like One Bedroom Apartment With A Mattress On The Floor! - Mark Zuckerberg](https://www.google.com/url?q=https://www.youtube.com/watch?v%3DQGZPCueUAc8&sa=D&source=editors&ust=1770366233037056&usg=AOvVaw04Tsabv1D5Mgr0V0hkeBMM)
+[I Have A Little Like One Bedroom Apartment With A Mattress On The Floor! - Mark Zuckerberg](https://www.youtube.com/watch?v=QGZPCueUAc8)
 
-[Jeff Bezos driving a 1996 Honda Accord at 10 billion dollars networth](https://www.google.com/url?q=https://www.youtube.com/watch?v%3DOOmsLlZPaxA&sa=D&source=editors&ust=1770366233037136&usg=AOvVaw013mDuZ94jnXcm7Gyy-teq)
+[Jeff Bezos driving a 1996 Honda Accord at 10 billion dollars networth](https://www.youtube.com/watch?v=OOmsLlZPaxA)
 
 Bunting’s monastic vision for the college doesn’t stop there. He quotes from St. Benedict’s Rules for Monasteries:
 
@@ -129,6 +131,8 @@ All of this should give you a sense of the vibe Bunting is going for, but it mig
 
 Bunting offers the below breakdown of how many classes students should take in each of (what he deems to be) the key areas of study:
 
+![](https://acximages.ennals.org/images/2022-book-reviews/3f1fb398a5a7812a.jpg)
+
 At first I didn’t notice the allocations and thought that Bunting had really dropped the ball – when you don’t pay attention to the allocations, this looks like a totally normie liberal arts curriculum. Where it gets fun is when you realize that History and Foreign Languages make up half of the classes Bunting’s students would take (and that doesn’t include the six months Bunting requires they spend abroad).
 
 We normally think of a liberal arts education as instrumentally valuable to improving one’s thinking. The typical defense of the liberal arts usually includes referencing the “critical thinking and analytical skills” that such an education offers, and you can more easily defend Math/Science/Philosophy/English as subjects that sharpen the thinking/reasoning/writing skills that one might deploy in their professional work. History and Foreign Languages increasingly look like the least instrumentally useful disciplines in the liberal arts as they are less directly focused on refining those core skills. To include them at all is reasonable, but to make them the focus of the education seems kind of unjustifiable.
@@ -167,7 +171,7 @@ What about the Foreign Language requirement? Bunting offers two main arguments f
 
 “It is likely that… [our students] will live, serve, or work abroad… our countrymen will discharge their duties, not only to their companies, but also to our country with far greater efficiency and credibility if they know the language of their hosts’, just as they should be avid students of their hosts’ country itself” (162)
 
-[Suntory Time! - Lost in Translation (1/10) Movie CLIP (2003) HD](https://www.google.com/url?q=https://www.youtube.com/watch?v%3DFiQnH450hPM&sa=D&source=editors&ust=1770366233053211&usg=AOvVaw1NTc-tbVT-srF03FEXWYxz)
+[Suntory Time! - Lost in Translation (1/10) Movie CLIP (2003) HD](https://www.youtube.com/watch?v=FiQnH450hPM)
 
 (Bunting clearly underrated the value of the fish-out-of-water comedy)
 
@@ -197,11 +201,11 @@ Another cool aspect of the book is that it helped me reframe the cultural debate
 
 But, even committed libertarians should not want everything in society to be libertarian – at some point in the societal stack, someone has to take a stance on what is good, otherwise it’s just people passing the buck on what to care about all the way down. Part of the motivation for libertarian politics is the idea that political neutrality on the best kind of life allows different non-governmental institutions to help people pursue their specific conceptions of the good life. But, that requires institutions to step up and confidently assert the desirability of some way of life over another. Colleges are supposed to be formative institutions that help young adults figure out what kind of life they would like to lead, and it’s actually kind of striking the extent to which they have basically totally given up on this function.
 
-Finally, there’s a [“Seeing Like a State”](https://www.google.com/url?q=https://slatestarcodex.com/2017/03/16/book-review-seeing-like-a-state/&sa=D&source=editors&ust=1770366233059560&usg=AOvVaw3TsCWINhV1qqkgz_hcGyXv) thing going on subterraneously in An Education. For a bunch of reasons, the college experience has been made more legible over the last hundred years or so. People now leave college with GPAs to indicate their performance, majors to show their areas of expertise, and so on.
+Finally, there’s a [“Seeing Like a State”](https://slatestarcodex.com/2017/03/16/book-review-seeing-like-a-state/) thing going on subterraneously in An Education. For a bunch of reasons, the college experience has been made more legible over the last hundred years or so. People now leave college with GPAs to indicate their performance, majors to show their areas of expertise, and so on.
 
 You know what’s not very easily made legible? Character. Employers recognize this and try to approximate an understanding of someone’s character with behavioral interviews and reference checks, but that seems to be best used to ensure against bottom quintile values. It’s pretty hard to quickly distinguish a 75th percentile leader, or 75th percentile “good person”, from a 95th percentile one in a way that is just not true of intelligence or subject matter expertise.
 
-Though Abraham Lincoln [was seen by many as a mediocrity](https://www.google.com/url?q=https://www.theatlantic.com/magazine/archive/2013/06/abraham-lincoln-is-an-idiot/309304/&sa=D&source=editors&ust=1770366233060439&usg=AOvVaw0gHokHkjEDozCH16_WpfCl) in his time, with clearer eyes we now acknowledge him as one of the greatest leaders in human history. Character is a really hard thing to quantify accurately. Venture capitalist John Doerr popularized the idea that if something matters, you should measure it. The contrapositive of that though, is that if you can’t measure something, it doesn’t matter… So, given these difficulties in quantifying character, we shouldn’t be surprised that colleges stopped trying to optimize for improving their students as people. Colleges don’t report to US News and World Report how many of their students would cheat if they could get away with it or how many would eagerly avoid responsibility for a group failure. Should we care about the loss of these illegible values?
+Though Abraham Lincoln [was seen by many as a mediocrity](https://www.theatlantic.com/magazine/archive/2013/06/abraham-lincoln-is-an-idiot/309304/) in his time, with clearer eyes we now acknowledge him as one of the greatest leaders in human history. Character is a really hard thing to quantify accurately. Venture capitalist John Doerr popularized the idea that if something matters, you should measure it. The contrapositive of that though, is that if you can’t measure something, it doesn’t matter… So, given these difficulties in quantifying character, we shouldn’t be surprised that colleges stopped trying to optimize for improving their students as people. Colleges don’t report to US News and World Report how many of their students would cheat if they could get away with it or how many would eagerly avoid responsibility for a group failure. Should we care about the loss of these illegible values?
 
 As An Education comes to a close, the dying billionaire, in his final moments, starts to reflect on the meaning of the kind of life he hopes for his students:
 
@@ -214,6 +218,6 @@ To describe the feeling of approaching that final gate, Bunting/our dying billio
 
 I’m not sure Bunting, or anyone for that matter, could actually create a college that produced students that reliably found a sense of equanimity in the face of death. It’s a very tall order, and one that is basically impossible to ever verify. But, when I read that final passage, I couldn’t help but feel that such soulcraft is an immensely noble pursuit.
 
-[Modest Mussorgsky, "Pictures at an Exhibition" X. The Great Gate of Kiev | Sviatoslav Richter](https://www.google.com/url?q=https://www.youtube.com/watch?v%3Dz-YMdc174Wk&sa=D&source=editors&ust=1770366233062574&usg=AOvVaw0sDmuHtwrQkWsl5KbQVGH8)
+[Modest Mussorgsky, "Pictures at an Exhibition" X. The Great Gate of Kiev | Sviatoslav Richter](https://www.youtube.com/watch?v=z-YMdc174Wk)
 
 * * *

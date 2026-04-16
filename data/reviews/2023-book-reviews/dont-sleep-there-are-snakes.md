@@ -29,7 +29,7 @@ How do you learn a language if there’s not a single bilingual speaker in the w
 
 Everett figures out very quickly why no outsider speaks Pirahã – even the basic building blocks of the language are a nightmare. Phonemes are the fundamental sounds of a language that differentiate one word from another. Most variants of English give you in the neighborhood of 20 vowels and 20 consonants to work with. Pirahã has very, very few phonemes: Three vowels and eight consonants. All the different words sound the same. Once he’s gotten used to that, he noticed that his interview partners keep varying the pronunciation apparently at random. The same words sound all different.
 
-[Here’s a very nice example](https://www.google.com/url?q=https://daneverettbooks.com/translation-for-an-interesting-piraha-text/&sa=D&source=editors&ust=1770366050327154&usg=AOvVaw11_AtIcM2TV0PC2T0Per-B), and if you strain your ears, you might even be able to relate a few words to their transcription!
+[Here’s a very nice example](https://daneverettbooks.com/translation-for-an-interesting-piraha-text/), and if you strain your ears, you might even be able to relate a few words to their transcription!
 
 Pirahã, as it turns out, is an intensely tonal language. So intensely tonal, in fact, that stuff like consonants and vowels seem more like an afterthought and all the meaning you need can be conveyed just via pitch – in the book, Everett at one point uses musical notation. Pirahã speech can be hummed, whistled, yelled, sung. Outsiders aren’t exactly fans. “It sounds like they are crying all the time,” says one official of Brazil’s Indian Protection Service. The river traders just call them “little animals”.
 

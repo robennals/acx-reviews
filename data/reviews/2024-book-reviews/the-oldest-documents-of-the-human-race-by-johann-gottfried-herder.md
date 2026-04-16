@@ -7,7 +7,7 @@ contestName: 2024 Book Reviews
 year: 2024
 publishedDate: '2026-02-06T16:49:50.813Z'
 slug: the-oldest-documents-of-the-human-race-by-johann-gottfried-herder
-wordCount: 6804
+wordCount: 6810
 readingTimeMinutes: 31
 originalUrl: >-
   https://docs.google.com/document/d/1Ki5XsE0jkxZtd2XAeyTAJw1ZjLh2Cu-matUYKAhA6-s
@@ -99,9 +99,9 @@ To think of natural man as capable of such abstraction is to bestow foreign mode
 
 Herder doesn’t care about these modern objections, of course. He is at great pains to stress that the first men learn differently to us (I guess training is distinct from inference, after all). He considers it decidedly impossible that happenstance, random learning could lead humans into the wisdom they came to possess. Some guiding force must have been holding their hand. And so he goes on:
 
-God, the teacher of these people, shall teach them… not through conclusions and abstractions, of which they, like all adolescents, have no idea! Which exhaust, hinder and blind us! No, only through presence and power! So that they are gradually guided and directed to everything around them, upon which they feelas if poured out onto!
+God, the teacher of these people, shall teach them… not through conclusions and abstractions, of which they, like all adolescents, have no idea! Which exhaust, hinder and blind us! No, only through presence and power! So that they are gradually guided and directed to everything around them, upon which they feel as if poured out onto!
 
-Such that the entire world of images, that bombarded or would bombard their eyes, could proceed in gentle order - such that each could be grasped in its entire presence with sense and power \- Heavens! For this adolescent, for the blind man learning to see, what wiser, more paternal order in heaven and earth![[1]](#ftnt1)
+Such that the entire world of images, that bombarded or would bombard their eyes, could proceed in gentle order - such that each could be grasped in its entire presence with sense and power - Heavens! For this adolescent, for the blind man learning to see, what wiser, more paternal order in heaven and earth![[1]](#ftnt1)
 
 When humans learn in this way, only one conclusion is possible: to the infant eyes of the first homo sapiens, the experience of sunrise is, inescapably, an encounter with God. Herder is bullish on this, claiming it’s an experiment you can replicate with any kid:
 
@@ -121,11 +121,13 @@ He who taught men what they know appeared under the purple of the dawn; there he
 
 The element of instruction was, in every respect, composed into creation! Great, articulate, mighty, eternal, like the system of the heavens and the earth! This is how God teaches!
 
-God as Adam saw Him
+![](https://acximages.ennals.org/images/2024-book-reviews/3f15660bf8742891.png)God as Adam saw Him
 
 I likened this to supervised learning earlier, but maybe a better analogy is that of a seeded run. In the [rogue-like](https://en.wikipedia.org/wiki/Roguelike) videogame genre, players makes repeated attempts to beat the game in one go, with any number of small randomisations affecting outcomes throughout the entire “run”. The essence of skill in a rogue-like is a player’s ability to make use of the hand they’ve been dealt. Each run is denoted with a specific “seed” which denotes a given game path by determining the randomisation of all the outcomes a player experiences over the course of the run.
 
 In most rogue-likes, players have the option to set a specific seed in advance to get a particular (and typically favourable) experience of the game. Streamers of rogue-like games blessed with implausible luck will frequently be accused of surreptiously playing a “seeded run”. Real life parallels abound: nepo babies are all on gatekept runs; Basil I of Byzantine clearly enjoyed some outrageous RNG; the Kennedy seed… … is a mixed bag. (For veteran gamers only).
+
+![](https://acximages.ennals.org/images/2024-book-reviews/e8fb7394e6ea9ceb.png)
 
 Forrest Gump: modern cinema’s quintessential seeded run
 
@@ -188,6 +190,8 @@ Rousseau here is forwarding an exceptionally important and near-tautological fac
 The situation he describes is pretty simple: we live in a world in which force prevails. Duh. So far, that doesn’t look much like a world in which right can prevail, since the only thing with any space for prevailing is force.
 
 Suddenly, everyone is obsessed with the idea that, damn, it sure does look like everything that happens is just the result of Force Prevailing. The follow-up is obvious: “But wait - are we stuck in the predicament? Will everything always just be force all the way down? How and when will right prevail?”
+
+![](https://acximages.ennals.org/images/2024-book-reviews/71fbcb58c1c9f4d0.png)![](https://acximages.ennals.org/images/2024-book-reviews/a82fdde25f422d42.png)![](https://acximages.ennals.org/images/2024-book-reviews/65a5c3331a13ff8d.png)
 
 The equity of these outcomes may  be debatable, but they’re all undeniably the result of Force Prevailing.
 
@@ -296,6 +300,10 @@ I’m not saying this predetermines what follows, but it certainly is a worrisom
 Epilogue II. The Oldest Documents in the age of Deep Learning
 
 We all know that 2001: A Space Odyssey was woefully wrong in its predictions of humanity’s future. An unexpected outcome of the deep learning revolution is to invalidate that film’s vision of our past, too.
+
+                ![](https://acximages.ennals.org/images/2024-book-reviews/fb3bb0b136a89e11.png)                                        ![](https://acximages.ennals.org/images/2024-book-reviews/19b1f97d3ce4431e.png)
+
+![](https://acximages.ennals.org/images/2024-book-reviews/97c943cddb09dffd.png)![](https://acximages.ennals.org/images/2024-book-reviews/9fefabbfe34fc373.png)
 
 There is no monolith. If AI can do it, we can do it too - human ingenuity is looking more and more like statistics and associative learning all the way down. There is no divine message to recover. Adam’s story has no special sauce. Anything and anyone can learn, anywhere.
 

@@ -10,7 +10,7 @@ year: 2021
 publishedDate: '2026-02-06T07:21:29.563Z'
 slug: >-
   capital-as-power-a-study-of-order-and-creorder-by-jonathan-nitzan-and-shimshon-bichler
-wordCount: 8338
+wordCount: 8346
 readingTimeMinutes: 38
 originalUrl: >-
   https://docs.google.com/document/d/1xexFJ7h0vULMDE7N77q_MIzXoerexfe_CqqGEL6hEoQ
@@ -24,15 +24,17 @@ tags:
 
 ### 1\. A Need for Better Theory
 
-If you are a well-educated person in the 21st century, you probably have conflicted views. On the one hand, the grand socialist project has had… problems… over the last century. Serious problems. Problems that kill and hurt people, and are really, really non-dismissable. For a bibliography, check [here](https://www.google.com/url?q=https://www.independent.org/issues/article.asp?id%3D13056&sa=D&source=editors&ust=1770366085714838&usg=AOvVaw2Vosr5TLZmTp2FOW6wYN68).
+If you are a well-educated person in the 21st century, you probably have conflicted views. On the one hand, the grand socialist project has had… problems… over the last century. Serious problems. Problems that kill and hurt people, and are really, really non-dismissable. For a bibliography, check [here](https://www.independent.org/issues/article.asp?id=13056).
 
 On the other hand, the (main) alternative is capitalism. And that also sucks. A lot. If you haven’t noticed this, you haven’t been paying attention.
 
-[Capital as Power](https://www.google.com/url?q=http://bnarchives.yorku.ca/259/&sa=D&source=editors&ust=1770366085715183&usg=AOvVaw01T8eMM7weLYp91sj_-z8L) by Bichler and Nitzan does not even attempt to talk about an alternative system of government. However, it argues that a necessary precondition for radical system change is a new theory of economics. In their words:
+[Capital as Power](http://bnarchives.yorku.ca/259/) by Bichler and Nitzan does not even attempt to talk about an alternative system of government. However, it argues that a necessary precondition for radical system change is a new theory of economics. In their words:
 
 Perhaps the key problem facing young people today is a lack of theoretical alternatives. A new social reality presupposes and implies a new social cosmology. To change the capitalist world, one first needs to re-conceive it; and that re-conception means new ways of thinking, new categories and new measurements.
 
 The purpose of Capital as Power is to provide such a theoretical alternative. However such a thing is easier said than done. To start with, it is necessary to give a thorough examination of past attempts to put economics on sound theoretical feet.
+
+![Capital%20As%20Power%20c5ed7a152b8f4e39b3f86720e832e41e/CapitalAsPowerIllustrations_feet.png](https://acximages.ennals.org/images/2021-book-reviews/78630d89d349e706.png)
 
 Sound Theoretical Feet
 
@@ -51,6 +53,8 @@ The key to Bichler and Nitzans’ arguments against both theories is that they c
 ### 2\. Business and Industry
 
 One of the key parts of this new theory comes out of the theories of a historian named Thorstein Veblen (according to Wikipedia, Veblen coined the term “conspicuous consumption”). Veblen’s big idea is that there is a fundamental distinction between Business and Industry. Industry is the domain of the kind of people who build giant redstone contraptions in Minecraft or the kind of people who name their lab mice and talk to them in squeaky voices while cleaning up after an experiment that went on until 1am. It is both a collaborative activity and a competitive activity, but it is fundamentally built on creativity, curiosity and a desire to solve problems. Business is the domain of the kind of people who network at parties and care a lot about “corporate strategy”. The point of Business is profit and accumulation.
+
+![Capital%20As%20Power%20c5ed7a152b8f4e39b3f86720e832e41e/CapitalAsPowerIllustrations_mouse.png](https://acximages.ennals.org/images/2021-book-reviews/c2e6c1328e28edeb.png)
 
 Trevor
 
@@ -71,6 +75,8 @@ The idea of a distinction between Business and Industry was not the most provoca
 Here, Bichler and Nitzan follow the ideas of a historian named Lewis Mumford. Mumford takes us back all the way to the beginning of what we now call civilization, in the Nile River delta. His conceit is that the first “technology” was not mechanical or chemical, it was social. The organizational structure of ancient Egypt, with its intricate hierarchy of politics and religion meshed together, was a form of power previously unmatched in its ability to change its surroundings and to persist through time.
 
 And here I add my own analysis. It was impressed on me thoroughly in ninth grade ancient history by my most excellent history teacher Audrey Budding that the one of most common threads through history and one of the most important questions to ask about a society is how legitimacy of the ruling class is achieved. In this lens, the novel technology of Egypt was the ability to give its rulers, through religion, tradition, force, and bureaucracy, enough legitimacy that they could impress their will on a massive population.
+
+![Capital%20As%20Power%20c5ed7a152b8f4e39b3f86720e832e41e/CapitalAsPowerIllustrations_pyramid.png](https://acximages.ennals.org/images/2021-book-reviews/8f45ba1952bf0aea.png)
 
 The Original Mega-Machine
 
@@ -98,6 +104,8 @@ You see, I’m trying to give you a picture of what it is like to read this book
 
 Before the industrial revolution, one could make a decent argument that political power and economic power could be separated. One strong point in favor was the separation of nobles, merchants, and clergy. Certainly, nobles often happened to be rich, but their wealth mostly derived from land-ownership, and their political power was mainly derived from their birth and connections, rather than their wealth (though, connections and wealth could go hand and hand). Merchants, even though they could have influence through their wealth, were excluded from positions of political power. And the clergy, in some cases more important than the nobles or the merchants, were also quite separated from both.
 
+![Capital%20As%20Power%20c5ed7a152b8f4e39b3f86720e832e41e/MCN_MerchantClergyNoble_MerchantClergyNoble.png](https://acximages.ennals.org/images/2021-book-reviews/4e21f8d6dd535113.png)
+
 Noble, Merchant, Clergy
 
 It is from this situation that the “original sin” of economics derives: the belief that economics is productively analyzed outside of political context. The original liberals relied on this duality to expound on their idea that the ideal government simply facilitates the movements of the market.
@@ -111,6 +119,8 @@ In Marxism, a similar problem arose as the competition-rich environment where Ma
 ### 2\. The Nominal and The Material
 
 Another issue that plagues both Marxist and neoliberal analyses is an attempt to make a distinction between what I might call “the map” and the “territory.” On the Marxist side, this comes up as a distinction between “fictional” and “real” capital. “Real” capital is owned by industrial capitalists, who employ productive labor to create surplus value. I imagine that Marx was thinking of factories here. “Fictional” capital, on the other hand, is capital owned by commercial and financial capitalists, who merely appropriate the value generated by productive labor. Intuitively, this is a theory that one is inclined to be sympathetic to. On the one hand, you have farmers and laborers, who are clearly producing surplus, and on the other hand you have stock brokers, who clearly are just siphoning off the top. But to actually give a sturdy definition of what is “productive” and what is “unproductive” is not at all easy.
+
+![Capital%20As%20Power%20c5ed7a152b8f4e39b3f86720e832e41e/CapitalAsPowerIllustrations_stonks.png](https://acximages.ennals.org/images/2021-book-reviews/cc7d1141fe694f39.png)
 
 Stockbroker
 
@@ -129,6 +139,8 @@ To study the rationalist order of capitalism without quantities is like studying
 With this passage, Bichler and Nitzan set a high bar for theories. It is not enough for a theory of capitalism to give a qualitative account of value because the nature of capitalism is quantitative. It is on this cross of numerics that the Marxist “abstract labor” and the neoclassicist “util” are ultimately crucified.
 
 They lay the problem out in the following way. It is well understood that wealth is not well-measured by current market value, because of inflation. Economists get around this by coming up with a “price index”, which measures how much a “standard bundle” of goods and services would cost at different times. By this mechanism, comparisons of value across time can be measured. However, the definition of such a “standard bundle” is highly problematic. If this standard bundle were, say, a single transistor, then an economist would conclude that we are over a million times richer than we were in the 1960s. This is clearly not true. Of course, an economist would not calculate a price index in this way, but almost any commodity has similar problems, though less extreme, from roast passenger pigeon to steel.
+
+![Capital%20As%20Power%20c5ed7a152b8f4e39b3f86720e832e41e/CapitalAsPowerIllustrations_goods.png](https://acximages.ennals.org/images/2021-book-reviews/41ba8f4335e14a80.png)
 
 A Standard Bundle of Goods
 
@@ -184,7 +196,7 @@ An analogy can be drawn here to machine translation: the “rules-based” syste
 
 Additionally, this mindset allows us to salvage a great deal of neoliberal and Marxist economics. When properly contextualized and removed from their moral and theoretical underpinnings, these theories can have great empirical success.
 
-The famous physicist and captain of the high seas Robert Hooke believed that the law that he discovered governing the motion of a spring, ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADsAAAAWCAYAAAB+F+RbAAAABHNCSVQICAgIfAhkiAAAAAFzUkdCAK7OHOkAAAFpSURBVFiF7daxSxxBFMfxz2mrCIoKxjRGCVrlULlAQMw11imUCEKKQASVgCBWYqMW16ZIlyIkraVN0tmYIhymCf4TNnapzmJGPY47Vrz1Nsp+Ydh5w2/fvrfz5u2Sk/PoWMSnOD/HZIaxpE5X1gHk5OQ8SnpRi2Mg41g6wmsctePgIXXjPhy34+Aq2XH8xGcUMIhv2GzHecrM4k+cvxFKujG+Qlz7G/WwFO3r8l/FCC4whYqQcCt23JyhVmP+Tik1p4DfGI32R7yL6/W8QElIeA8LeNtEB77gEE9SDDSNFzOGX8IGbONVgn4ap8ImtmQDuwmOsuCqbGtC0km9pi9qn9Yv1t80iiLmbvHwTpfxDNaE4Et4nqBfxg8t/u2HcRCv/6Log/+jW3ehipfR/o51oZSLDdoCVlAWqrSCiWiDLXxFf7R3cNLEUVY8EzagJ9ploVm9b9AN4UwoecIXpop9dN9/mDk5OWlzCW5gSUpC0X6tAAAAAElFTkSuQmCC), where ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAgAAAASCAYAAABmQp92AAAABHNCSVQICAgIfAhkiAAAAAFzUkdCAK7OHOkAAABzSURBVCiR5cwhDoIAHEbx34QTuDE3cNNAkWb0QnABopXAEQwGo8HqFYycwgvYbJY/RTmAG69827e3xyxIYktcccAdGU7YjmKDHC9U6EP64YwbivFIv4QBSzynhDX22EylV+hi39ihxgJaXCINRzyi9hd8ANUtDUA5yESdAAAAAElFTkSuQmCC) is the displacement from rest position, was a new law of nature. However, it actually turned out to just be a good approximation in certain cases, and we still use Hooke’s law in engineering because of this
+The famous physicist and captain of the high seas Robert Hooke believed that the law that he discovered governing the motion of a spring, ![](https://acximages.ennals.org/images/2021-book-reviews/faf8475fc285b540.png), where ![](https://acximages.ennals.org/images/2021-book-reviews/5a738635bdee5089.png) is the displacement from rest position, was a new law of nature. However, it actually turned out to just be a good approximation in certain cases, and we still use Hooke’s law in engineering because of this
 
 I think that many economists are all too aware that they are just using an approximation. And if I wanted to know the answer to a given question, I would look to expert economic judgement. This is because a highly tuned misguided theory often gives much better results than a poorly tuned well-founded theory. I recently bought a subscription to the Economist, and despite its heavy neoliberal bias, I still think it gives a clearer picture of the world than many other news sources; a large helping of meritocracy goes a long way. However, the way that human brains work is that understanding is layered. After working with principles and laws for a long time, we forget what the underlying assumptions that lead us to come up with those principles and laws were, and are therefore less able to ascertain when those principles and laws no longer hold. Our intuitions about prices are developed by going to the grocery store, not by buying companies, and we should not trust principles just because they seem to make sense in the micro-scale.
 
@@ -194,9 +206,9 @@ In this way, implicit assumptions about the nature of economics radically change
 
 In the previous section, we moved a bit far afield from the review. We now move back to the book as it attempts to examine the “internal logic” of capitalism; the processes and beliefs that keep it afloat.
 
-Bichler and Nitzan argue that the central process of capitalism is, fittingly, capitalization. Capitalization is the process of taking an asset that is expected to produce a certain stream of future profits and assigning a current price to it. This is achieved through a discount rate, where future profits are valued lower than present profits. That is, we assume that 1 dollar now is worth the same as ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAcAAAASCAYAAACXScT7AAAABHNCSVQICAgIfAhkiAAAAAFzUkdCAK7OHOkAAABoSURBVCiR3c+tDYNQAATgj74EAZoZqmowTFBVi+lI1YxRxwC4OsIMhKQj4DGvCeIJDKZnLrm/5PgrFHjhgwp3DOgCWrzxiMFvDOa/dsCMZ2r6igXlXrxEvqHHmjJrTKnJDCOaA89OxwZ0/Aw3rI/NwAAAAABJRU5ErkJggg==) dollars in a year. Mathematically, we can then say that if the profit from an asset ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAkAAAASCAYAAACJgPRIAAAABHNCSVQICAgIfAhkiAAAAAFzUkdCAK7OHOkAAACHSURBVCiR7c4hCgJxEMXhz10wCGJZg2AUTG5wL2Ay2k0GT+AxPIzBKAomm1GbwWQw6gUss/DHExh8ad6b3zyGv9DCGid0McERG3RqaI4+9lhihgIPVGlbjjsW4Zt4oZdCw7hshx9hVy+zJNziHb7C4Rsa45w0l3jGf4MMDUxxTaALVjHf/KA+oj4TFUzG2/wAAAAASUVORK5CYII=) years in the future is ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA8AAAAYCAYAAAAlBadpAAAABHNCSVQICAgIfAhkiAAAAAFzUkdCAK7OHOkAAADvSURBVDiN7dIvS8NRFMbxz+b8wwwiIiJsxaCgIohiMyxp0ZW9At+FySxLJt+BhiWxzGQQQUFMNo0GN5YMahEN9wor/n4Xk4IPnHDPOV+ee889/OsPqYwmLjGJGs5xhPEssIg6DvCKrZjfxig2suASjjGAWXSiKzxgLM8ZZtBFu6+2gMcUeBFneI/npRjXedeGFUxjGFXsYxe9LBgKuMKOMPE2GjGfqyruUpv7VRQGc4uPn8DLmMfcNz1ltLCGPZxgKNVgXViaJio4xMiXc54uMIFT4d+f8JYKwypuMIVnbKbCg8K7X4S9qOM+0fQ36hOjvSTKQv9fmQAAAABJRU5ErkJggg==), then the value of that asset now is ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADQAAAAsCAYAAAAq/ZsdAAAABHNCSVQICAgIfAhkiAAAAAFzUkdCAK7OHOkAAAL+SURBVGiB7dldiFVVFMDx39yr3dQpUsEBP6ZSVAwtbFRCnAfpQUlQNAckCB8EJS3xxV4UlKDANxVEMeolQlBRog8oDQR9kNI+JfwgiBDpwURFpV7Uh3XQcZwz97LP9d4m7x8OnHM2e+219tp7rbXPoUWLFo+K13EK7+AJvI8fsKiZSlWjlPP+KXShG6exDdexHAtRaYh2deQ5LM7uK/hceAlWoKMJOtVEnocuYw6GYxV+xXS0YRquNkS7BPIMuoHvcAzjsAXzhKdO4d9GKNeiRYvHh+E4ICLpFnzmflooRF6Ue9R04RP04CNcqpcuzTLoOEaLNHARf+GfeghulkEwS+S0DlFWLayH0P4MKuMP3KlylQuMO1Tso1sYgiW4UEBeVXqE0n0r6wreUtyghlPChziLsX3aKuIYMagMgvH4HXul77VVOINXMFVEtrNqO350itD+cTb+avyE90SRnMQysbxWJPSdKwzZJHLNSjFJh2vo24a3MUXs5x4xIRMyfaYl6HNP8B6RJyYmytieXSmz+oJYJZN6vbskEnIyY3EeGxL6lvGbSKQpLMcHvZ47hIc68zrUsjcqIvl9mqDQRDyDXxL6wsv4vtfzAhzEn4nyDMMhzE7sv1REyxTaROJdK+q8brFSZg7UqZqHNuILD84S7BAn2Wp0ZUql0CmO+kMzGavxBn5MlGcxdnk435SzAUamCq6RRR7cP4WYjCMeVrqcDXQHT9ZrsBw2Y009BI3Alwau464rkNxq5KhIqqNz2ieLjzjPYp+YgEHNArwrastRIl8OenYLD44RZVZTz0NFqYg9/TdeEofE7sFs0BT8nN3fxpvSUwQiKKwXR4mtIl80nSIemimq5/kiMs6ri0YFKckPfy/qP2TvzNpn4FtcwzcKlPT1pCQKyK/wGtaJWScKyrZ+rvVZ+0jczO6vob0xKg9MCV/jeewXHyz61m153MDT2X27/8gvlpKc8Kf6kjsnPj2141X3I05TKckPf9WW3EnxY+wErqjdsy1a/J+4C9jEmwz1jaQGAAAAAElFTkSuQmCC). If ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACwAAAAYCAYAAACBbx+6AAAABHNCSVQICAgIfAhkiAAAAAFzUkdCAK7OHOkAAAGFSURBVFiF7dXPS1VBGMbxz703iAQhkRaBLhSlUImKaCMR2kIwXBgF3U2Cgv0VtQqCfizEvSCIbWuVgpALRRMRlBa1iYho0R/QLmrxzsVrZcdfVy5xvjCcmTk8Z56Z933nkJOTk/Pf0YCnWMYZ9OENZtFUw3WvYQXjaMRjbOFOlrCMFixgVBhuxCvczdAu4mdGa/6Lrhn3cBOTGBOHNYhPKGWZLuFz+kCF57ifJTwkZbwUUYbzYpMNuwmK6dmOb5ireteNL0fvcQcXMY3vadyK1arxH1QM92AeP9L4QmpvMxZcdLCUgAIGsFk1N4wXGWuCR5jCSXTgNUb2IjwEbWJDvTgl8njJHgq9IMIwKm6KOdxO87VkCE8wgXd4Joo/k9YkqLXB33koUmBfFEVxbYjwHCf9+LpfURGX0IVzR+3oH5zFddywe2QfiDS9JVK183isHYx2UYwzuCqMX2b7Wqs3Poq7eB1rOI331K9h4j+wnPot4sRL9Wz4Cj6kfhtO2P6x5eRU+AUXiUpWriVAeAAAAABJRU5ErkJggg==) is constant, then this reduces to
+Bichler and Nitzan argue that the central process of capitalism is, fittingly, capitalization. Capitalization is the process of taking an asset that is expected to produce a certain stream of future profits and assigning a current price to it. This is achieved through a discount rate, where future profits are valued lower than present profits. That is, we assume that 1 dollar now is worth the same as ![](https://acximages.ennals.org/images/2021-book-reviews/3f1411d7dbc0f744.png) dollars in a year. Mathematically, we can then say that if the profit from an asset ![](https://acximages.ennals.org/images/2021-book-reviews/34e23ea72f791e2e.png) years in the future is ![](https://acximages.ennals.org/images/2021-book-reviews/8169f3daf7c1fb69.png), then the value of that asset now is ![](https://acximages.ennals.org/images/2021-book-reviews/a03169f511464bb7.png). If ![](https://acximages.ennals.org/images/2021-book-reviews/688966621ede99f5.png) is constant, then this reduces to
 
-![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFsAAAAsCAYAAAAKEcTgAAAABHNCSVQICAgIfAhkiAAAAAFzUkdCAK7OHOkAAAPRSURBVGiB7dpfaBxVFMfxT3YbU9tUKUUKrWC11BLU+CcqImkxGrRaaKi2/gH/PMQXFQsWBR8KtYoPikhVxH/4pKAoCqIoKmqxEYrG4r+HlqIUEamg1WoVi6Xx4awk3WYzO5vsjJvMF4adnZl779mz95577u8OBQUFBQXTgWswjDtxHB7ETqzO06hWplTj+jz0YAU+x0P4HeuwCh2ZWDdDWII1lfMOvCl6N1yPhTnY1PLU6tk/40LMwSC+xploQxd+y8S6aUYtZx/Ep9iGxdiMXtHDh3EoC+MKCgoKCgpmGnPwqsh4NuMNo6nltKVWNtJsevAC1uN5/JijLWm4Es+gG0O4Nk3hvH7gdiwQqeQP2Ie/c7KlXmbhH+GzE3Ez+tNUkGdvOl/k7AuFFLAqR1vq4TA+Fgu+7TiCn9JUMJ6zy9iLkYSj3KDR0C7i9l+ixwxgzyTqy4rThYPn4Xa8NxWVrhcOrVb4OnCbyTu7VbkBG4X6OThVlZbwHHZhUdW9jkpjM9HZD2vS7z4Z3+JZjcf2QXyDi7BcZCC71JZo23DrmDJL8aKY+bsbtGGqKGOHSSiebQn3r8ZrYvi8nLLui8UkcpmIy3vxAZ7A2oQy/SKe7xMZywaRvWycoL1NeCDBpj4hruVCkrPb8JTQtnvxXQNtbK183iVifb1lfsWWyvfrcBVuaaD9evioSfWOpW9WwgMjuB+XCodvnfjxYyjjctykfkeXRM8eGHNticb+6HrZkvxINpyKD3FSA2WXidVhe4oyS/GV0VHXiS/EFt1EbJKcrl6Swo7MOR6v44IGy68VWU0aBvC9iNEL8AielBzy/vckZRn34C18VnX9MbGDk0SPWCWm4Tw8Kv6kd8TIuFv9YWiqWCneLMiENaJHVeeVZeHA+U1qd0iEkjy5QqSt92bR2DK871iHlsWqcgSzm9Du4krdc5tQd1q6pHP2ajyNc/CJ2CA/ivHCyFyRdfRjv6MnmMMirPyhOZu+Z1Q+Vzah7snSbfxJ93GRABwSc9wiIcPuz8fM1iRtz54tVrs1J/JWEOzzol26lHW5WJ1mPZG3POuEdv2L+lPXG4XcUNDqtAmBaCfuk27IzUgmE7PPFTJsn8hgeqfEomlMSeTU23AKXhIaAxOnOnCWkEwPiO2hrqyMblVKOA1vCwnzDtFbGRWDqo8Nlfvz8Wfl/IAQjAomoIR3hbL3ihD5q3WQWhzECZXzTsVrxImUxBZVWaQ5Z4vdkRWSw8hu8fpBp9iN+TJLw1uRktie/89RR4TQPyw5jOwQ71AMiaVpvSOioKCgoKAx/gU6dMR4vhNKvQAAAABJRU5ErkJggg==)
+![](https://acximages.ennals.org/images/2021-book-reviews/d33cb41360c42e9e.png)
 
 This formula is called the “discounting/capitalization formula”. This idea of a discount rate (and implicitly this formula, and variations of it), have been in use since the fourteenth century, where it was first introduced by Italian merchants (according to Bichler and Nitzan). As the centuries went on, it spread farther and farther, although not everyone really did the math “correctly”.
 
@@ -207,6 +219,8 @@ It is evident that not bonds and notes alone, but all securities, imply in their
 Bichler and Nitzan are really good a picking good quotes from old economists, so I can’t resist giving you another one:
 
 The primitive economy in its choice of enjoyable goods of different epochs of maturity, in its wars for the possession of hunting grounds and pastures, in its slow accumulation of a store of valuable durable tools, weapons, houses, boats, ornaments, flocks and herds, first appropriated from nature, and then carefully guarded and added to by patient effort — in all this and in much else the primitive economy, even though it were quite patriarchal and communistic, without money, without formal trade, without definite arithmetic calculations, was nevertheless capitalizing, and therefore embodying in its economic environment a rate of premium and discount as between present and future. (Fetter 1914b: 77)
+
+![Capital%20As%20Power%20c5ed7a152b8f4e39b3f86720e832e41e/CapitalAsPowerIllustrations_livestocks.png](https://acximages.ennals.org/images/2021-book-reviews/00c910361c7cb1a4.png)
 
 Livestocks
 
@@ -261,6 +275,8 @@ As a rough approximation of dominant capital, Bichler and Nitzan consider the to
 This growth is not driven by expansion of industry. Bichler and Nitzan argue that expansion of industry means loss of control by capitalists, and thus is uncorrelated to accumulation of capital.
 
 To back these arguments up, Bichler and Nitzan make lots of graphs where two trends on different axes are lined up.
+
+![Capital%20As%20Power%20c5ed7a152b8f4e39b3f86720e832e41e/Untitled.png](https://acximages.ennals.org/images/2021-book-reviews/cc4b82c252dd6f38.png)![Capital%20As%20Power%20c5ed7a152b8f4e39b3f86720e832e41e/Untitled%201.png](https://acximages.ennals.org/images/2021-book-reviews/e7968df7a3fd259b.png)
 
 These sort of graphs are actually pervasive throughout Capital as Power, and although they were suggestive, I’m kind of skeptical of arguments that pull out variables from thin air and show that they are correlated. Presumably Bichler and Nitzan had many different datasets that they could work with; it’s not too hard to find trends that are correlated if you squint. And additionally, as always causation is hard to tease out; the cycles/trends in these graphs could be coming from common causes that have nothing to do with this theory.
 
@@ -322,6 +338,6 @@ Capital as Power is long, but extremely full of content. There are some large po
 
 Additionally, Bichler and Nitzan write in a very engaging way; not necessarily easy to read but certainly action-packed. And there are many, many interesting historical nuggets in the book, like the history of GM’s EV1 car that I referenced in the introduction.
 
-And finally, although Capital as Power is long, there is a “middle way” (between reading this review, and reading the entire book). The first chapter, which is around 80 pages on my ereader, contains a summary and overview of the whole thing, and Bichler and Nitzan have a [free copy](https://www.google.com/url?q=http://bnarchives.yorku.ca/259/&sa=D&source=editors&ust=1770366085792632&usg=AOvVaw1Uo-Bfn3Tyjg9Ls3jK9v2C) available on their webpage, so you don’t even have to feel bad about buying an entire book. So go do that!
+And finally, although Capital as Power is long, there is a “middle way” (between reading this review, and reading the entire book). The first chapter, which is around 80 pages on my ereader, contains a summary and overview of the whole thing, and Bichler and Nitzan have a [free copy](http://bnarchives.yorku.ca/259/) available on their webpage, so you don’t even have to feel bad about buying an entire book. So go do that!
 
 * * *

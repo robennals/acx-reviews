@@ -7,7 +7,7 @@ contestName: 2024 Book Reviews
 year: 2024
 publishedDate: '2026-02-06T16:47:15.601Z'
 slug: don-juan
-wordCount: 3157
+wordCount: 3160
 readingTimeMinutes: 15
 originalUrl: >-
   https://docs.google.com/document/d/1AXmWgSbh_TFsoZuApSCSEoz57yn93CM5YYhtaO_s4W4
@@ -32,7 +32,7 @@ We’ll soar [on wings of song](https://en.wikipedia.org/wiki/On_Wings_of_Song_(
 
 Sweet Musie, don’t you dare put us in coach.
 
-I.
+I. 
 
 I need a poem — well, I need a poet
 
@@ -54,11 +54,11 @@ And one to tell the tale, plus two disarming
 
 Poor commoners who— well, you get the point.
 
-Blake?[That’s been done](http://unsongbook.com/). Keats? There’s no doubt he’s charming,
+Blake? [That’s been done](http://unsongbook.com/). Keats? There’s no doubt he’s charming,
 
 But [none too popular](https://www.lesswrong.com/posts/x4dG4GhpZH2hgz59x/joy-in-the-merely-real) around this joint.
 
- Ovid’s just porn; [Piet Hein](https://allpoetry.com/Piet-Hein)’s too bent on harming
+  Ovid’s just porn; [Piet Hein](https://allpoetry.com/Piet-Hein)’s too bent on harming
 
 Our eyes
 
@@ -106,13 +106,13 @@ By crying, [“Tan largo me lo fiàis!”](https://en.wikipedia.org/wiki/Don_Jua
 
 Until one Doña Ana was his victim,
 
-Which set the mai— the now-ex\-maiden’s father
+Which set the mai— the now-ex-maiden’s father
 
 Ablaze with hope to kill, maim, or afflict him;
 
 He slayed her old papá — but did he bother
 
-Repenting to embrace his Savior’s [dictum](https://www.kingjamesbibleonline.org/Acts-2-38/)
+Repenting to embrace his Savior’s [dictum](https://www.kingjamesbibleonline.org/Acts-2-38/) 
 
 Beside the old man’s tomb? He rather (rah-ther?
 
@@ -254,7 +254,7 @@ Her lord came to apo— well, to excuse
 
 The raid (‘ere her harangue had made him pause it) —
 
-He didn’t justifyhis great [J’accuse](https://en.wikipedia.org/wiki/J%27Accuse...!),
+He didn’t justify his great [J’accuse](https://en.wikipedia.org/wiki/J%27Accuse...!),
 
 But did try to explain what made him cause it,
 
@@ -776,7 +776,7 @@ It’s tempting, now to want to be our hero
 
 And stumble into love and war, with zero
 
-Effort on your part (J.R.R.’s[to blame](https://scholars-stage.org/on-the-tolkienic-hero/)
+Effort on your part (J.R.R.’s [to blame](https://scholars-stage.org/on-the-tolkienic-hero/)
 
 For this phenomenon, says Mr. Greer) O
 

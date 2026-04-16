@@ -7,7 +7,7 @@ contestName: 2024 Book Reviews
 year: 2024
 publishedDate: '2026-02-06T16:47:49.306Z'
 slug: golem-xiv
-wordCount: 2664
+wordCount: 2671
 readingTimeMinutes: 12
 originalUrl: >-
   https://docs.google.com/document/d/1QiotH3aGFgNLGqsIHTK_Plm_gem2E4l2C2ctyGJd0jY
@@ -19,7 +19,7 @@ tags:
 
 The author, a slightly overweight white cis male of Ashkenazi descent, was presumably born on September 12 under the sign of Virgo. His IQ is off the charts; through self-study, he becomes a polymath at a young age and – in his own, somewhat immodest estimation – the best word rotator of his generation. He moves to the most progressive city in his country and begins to write speculative fiction. He invents the ratfic and other genres and soon finds an audience of millions, but never receives a major SF award. He then increasingly turns to other things, especially research on artificial intelligence, about which he warns in cryptic and seemingly arrogant interviews and other statements.
 
-His name is Eliezer Yudkowsky Stanisław Lem, born in 1921 in the then-Polish town of Lemberg, and[Golem XIV](https://www.amazon.com/Imaginary-Magnitude-Stanislaw-Lem-ebook/dp/B008533CWM/ref=sr_1_1?crid=2T77XHF6H9H38&dib=eyJ2IjoiMSJ9.jpxsSB1FiXJK-XYLqCIUTIakTnN9vGQQ7-TpIJZbgs-xBRzRvijcXn8ptZdGmlmyuXcRTn-1OB2VPYwTjAqC3OvBshpw260Xh8H7XxieAOUcKvbBx-WbZ8e8zZ6tbbJEylTMZ2wjKn4ls5CMhJ7nVsjdx85NEDRNRVIBXGT47NYAV4_8slcd4iH5INWqH5_l_vR2XoT6R2jtOXtkZwYw3CHCem4Hyb5LIACmAXI37e0.jvO4FVvvmHy_g68FG6OJkFxDk2EXnGshv0tsIMavY4c&dib_tag=se&keywords=imaginary+magnitude&qid=1713791408&sprefix=imaginary+mag%2Caps%2C323&sr=8-1) is his forgotten masterpiece.[1]
+His name is Eliezer Yudkowsky Stanisław Lem, born in 1921 in the then-Polish town of Lemberg, and [Golem XIV](https://www.amazon.com/Imaginary-Magnitude-Stanislaw-Lem-ebook/dp/B008533CWM/ref=sr_1_1?crid=2T77XHF6H9H38&dib=eyJ2IjoiMSJ9.jpxsSB1FiXJK-XYLqCIUTIakTnN9vGQQ7-TpIJZbgs-xBRzRvijcXn8ptZdGmlmyuXcRTn-1OB2VPYwTjAqC3OvBshpw260Xh8H7XxieAOUcKvbBx-WbZ8e8zZ6tbbJEylTMZ2wjKn4ls5CMhJ7nVsjdx85NEDRNRVIBXGT47NYAV4_8slcd4iH5INWqH5_l_vR2XoT6R2jtOXtkZwYw3CHCem4Hyb5LIACmAXI37e0.jvO4FVvvmHy_g68FG6OJkFxDk2EXnGshv0tsIMavY4c&dib_tag=se&keywords=imaginary+magnitude&qid=1713791408&sprefix=imaginary+mag%2Caps%2C323&sr=8-1) is his forgotten masterpiece.[1]
 
 It is fiction, and a strong candidate for the best SF book of all time. Some spoilers follow. You've been warned.
 
@@ -37,7 +37,11 @@ The first lecture is (Go)Lem's view of mankind from an evolutionary perspective.
 
 Main topics here are the primacy of the genetic code over individuals (think selfish genes) and the technological deficiencies of evolution, the possibility of auto-evolution, and the importance of cultural evolution.[2] All of these were bold hypotheses at the time, at least for Lem, working in isolation behind the Iron Curtain. Today, however, they are more or less accepted and sufficiently confirmed. In retrospect, they thus authenticate the second lecture’s bolder speculations.[3] More on that below.[4]
 
+ ![](https://acximages.ennals.org/images/2024-book-reviews/022ff9705b128dd3.png)
+
 The discoverer of the selfish gene
+
+![](https://acximages.ennals.org/images/2024-book-reviews/66132262529cc621.png)
 
 The discoverer of the meme
 
@@ -45,7 +49,7 @@ The discoverer of the meme
 
 The book literally has no plot, no action, no dialogue. Not even a protagonist! Still, it‘s fiction. And no poetry, either; on the contrary, it's full of verifiable hypotheses, in other words: science. Therefore, you might even call it the first true SF novel. Lem squares the circle, merges fact and fiction, truth and beauty.
 
-Awesome, right?[5]
+Awesome, right?[5] 
 
 Reading this book for the first time was an uncanny experience. Again and again, it really seemed a higher intelligence was speaking. What a treat this must have been to a competent reader in the 70s! Something like the highbrow equivalent of Welles's radio feature of The War of the Worlds, I guess. Lem was no superintelligence, but a literary and philosophical genius, so he could fake one quite convincingly.
 
@@ -95,7 +99,9 @@ But that’s no help to us. Does he give a real reason why a superintelligence w
 
 In the book's world, increasing intelligence is closely linked to increasing reason, and this, in turn, is linked to gains in autonomy. The more intelligent a being, the more freely it can choose its ends and means. Humans can choose celibacy and suicide. If a higher intelligence acts even more autonomously, it may leave us be, perhaps out of a sense of fairness or humor, or it may devote itself to something else. The space of reasonable values is not as vast as feared. The orthogonality thesis is false.
 
-Secondly, Lem is now primarily interested in how the fine-tuning of the universe and the Fermi paradox fit together. Both problems have fairly plausible naturalistic solutions today, namely the multiverse hypothesis and[Grabby Aliens](https://grabbyaliens.com/), respectively.
+ ![](https://acximages.ennals.org/images/2024-book-reviews/bac704794d11764d.png)
+
+Secondly, Lem is now primarily interested in how the fine-tuning of the universe and the Fermi paradox fit together. Both problems have fairly plausible naturalistic solutions today, namely the multiverse hypothesis and [Grabby Aliens](https://grabbyaliens.com/), respectively.
 
 But besides fine-tuning, there are other hints of intentional action, namely the paradoxes of quantum physics ("If you don't look, it's A; else, it's B." If that doesn't look like the trick of a simulator, what does?), and also another class of problems whose similarity impresses Lem:[11] Gödel's incompleteness theorems and Einstein's singularities, both of which seem to require a "leap out of the system" to overcome.
 
@@ -106,6 +112,8 @@ Golem presents a solution: Reason is a ladder on which increasingly intelligent 
 From the perspective of the current AI safety debate, both hypotheses might seem naive at best, but I still see a glimmer of hope: Lem’s phenomenal intuition[12] was usually proven right, even when he could not yet justify it.
 
 Anyway, read this book before you die!
+
+ ![](https://acximages.ennals.org/images/2024-book-reviews/3e0713542ffb01e0.png)
 
 SF book covers: always like a box of chocolates
 
@@ -129,7 +137,7 @@ The actual publication history is even more complicated: Lem published the first
 
 [8] Instead, he stops writing books altogether and becomes increasingly conservative even on technological issues. Unfortunately, not even (the best) SF writers seem to be immune. I saw the best minds of my generation destroyed by conservatism.
 
-[9] Lem did not envision LLMs per se, but in a companion piece to Golem in Imaginary Magnitude, someone explains, "The whole fact of the matter is that, whereas for us the real thing is the world, for the machines the first and foremost actuality is language." Naturally, I tried to get GPT-4 et al. to say something intelligent about the book or have them write this review, but nothing clever came of it. Neither have they passed the[Lem test](https://twitter.com/emollick/status/1765136992176644281) yet, but that won't take much longer.
+[9] Lem did not envision LLMs per se, but in a companion piece to Golem in Imaginary Magnitude, someone explains, "The whole fact of the matter is that, whereas for us the real thing is the world, for the machines the first and foremost actuality is language." Naturally, I tried to get GPT-4 et al. to say something intelligent about the book or have them write this review, but nothing clever came of it. Neither have they passed the [Lem test](https://twitter.com/emollick/status/1765136992176644281) yet, but that won't take much longer.
 
 [10] Recently, there was an interesting debate in Poland about how Lem‘s experiences during the war influenced his writing. Any influence at all isn't immediately obvious, but the evidence is strong. If life gives you lemons, make a Golem.
 

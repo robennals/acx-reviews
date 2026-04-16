@@ -7,7 +7,7 @@ contestName: 2025 Non Book Reviews
 year: 2025
 publishedDate: '2026-02-06T16:55:03.478Z'
 slug: lambroisie-by-bernard-pacaud
-wordCount: 5768
+wordCount: 5777
 readingTimeMinutes: 26
 originalUrl: >-
   https://docs.google.com/document/d/1a3q0Z2tuPLLbDeg5-pfEffkajGjrfPDwE7ZMs7uaWQs
@@ -28,6 +28,8 @@ First, a quick preface of fine dining for the unfamiliar. Although it can someti
 
 The following is a quick array of what people "typically" think of as fine dining, sampled from my own travels, as a supplant to years of experience:
 
+![](https://acximages.ennals.org/images/2025-non-book-reviews/ab919c366a416389.png)
+
 [please embed rather than upload: [https://i.imgur.com/s9xvLn4.png](https://i.imgur.com/s9xvLn4.png)]
 
 From left to right, top to bottom:
@@ -42,6 +44,8 @@ From left to right, top to bottom:
 All of them excellent examples of fine dining to my palate and eye.
 
 Au contraire, a selection of places that did not live up to my standards, despite their high regard and reputations in the culinary and critical worlds:
+
+![](https://acximages.ennals.org/images/2025-non-book-reviews/c528678a44f89a0e.png)
 
 [please embed rather than upload: [https://i.imgur.com/nzbgKdR.png](https://i.imgur.com/nzbgKdR.png)]
 
@@ -76,11 +80,15 @@ Michelin is relatively tight lipped on its criteria, so people often ask me for 
 
 ## III. Amuse-bouche
 
+![](https://acximages.ennals.org/images/2025-non-book-reviews/09d1813b9e03e5f1.jpg)![](https://acximages.ennals.org/images/2025-non-book-reviews/48bb96b6127c5950.jpg)
+
 [please embed rather than upload: [https://i.imgur.com/67xa3Q8.jpeg](https://i.imgur.com/67xa3Q8.jpeg)]
 
 [please embed rather than upload: [https://i.imgur.com/V3s6Iu7.jpeg](https://i.imgur.com/V3s6Iu7.jpeg)]
 
 A meal here always begins with a kugelhopf, a sort of bundt-cake-shaped savory bun, proffered directly by the waiter into your hand to dissuade the Instagrammer. On my first visit in the summer of 2022, it was Comté cheese with tomato and olive. On my second in spring of 2025, it was black truffle and cheese. Herein lies the first rule of L'Ambroise: seasonality. So often a cynical excuse by other restaurants to all serve peas in the summer or squash in the autumn in army-like unison, here it is a religion, an excuse for indulgence, a necessity to only serve ingredients at their absolute prime to create the best dishes possible. L'Ambroisie has a few menu seasons throughout the year: the summer, ceps (porcini mushrooms) in the early autumn, white truffles (tuber magnatum) in the late autumn and early winter, Périgord black truffles (tuber melanosporum) in the late winter and early spring, and morel mushrooms in the spring. Yes, there is a strong focus on expensive, luxury fungus in the timing here. Luxury ingredients are not treated with either avoidant shame or obligatory afterthought here like they often are elsewhere.
+
+![](https://acximages.ennals.org/images/2025-non-book-reviews/c02a52b0da0c9f5e.jpg)![](https://acximages.ennals.org/images/2025-non-book-reviews/b4e354f1678fcd2b.jpg)
 
 [please embed rather than upload: [https://i.imgur.com/YJTjLkN.jpeg](https://i.imgur.com/YJTjLkN.jpeg)]
 
@@ -101,6 +109,8 @@ And we haven’t even started yet.
 ## IV. Appetizers
 
 The first thing one notices about the menu at L’Ambroisie is it is only available in French, and the service will roundly mock you for requesting one in English. The second is that is a la carte only rather than preset tasting menu or at least pre-fixe, the fine dining equivalent in antiquated oddity of showing up to a first date in a powdered wig or dress corset. Mr. Pacaud’s Luddism and his resistance to compromise, his absolute artisan’s resistance to trends or polite cultural correctness, strikes again even before ordering. The service’s imperious suggestions on which courses go, or do not go, together is another manifestation. This sort of inflexibility is more the kind one encounters in Japanese craftsmen than a European restaurant.
+
+![](https://acximages.ennals.org/images/2025-non-book-reviews/1169e29d7728597a.jpg)![](https://acximages.ennals.org/images/2025-non-book-reviews/636383f6dc8f3b01.jpg)
 
 [please embed rather than upload: [https://i.imgur.com/azg6dEC.jpeg](https://i.imgur.com/azg6dEC.jpeg)]
 
@@ -124,6 +134,8 @@ The velouté of Jerusalem artichoke, while perfect as accompanying sauce, is alm
 
 ## V. Mains
 
+![](https://acximages.ennals.org/images/2025-non-book-reviews/496b24b8967e555c.jpg)
+
 [please embed rather than upload: [https://i.imgur.com/4qGzxkA.jpeg](https://i.imgur.com/4qGzxkA.jpeg)]
 
 My main on my first visit was another classic of the house: Escalopines de bar à l’émince d’artichaut, caviar kristal. It is of course a royal dish when it arrives at your table. It cured my caviar cravings for at least 1-2 years, by my estimation, and may very well be more than many people eat in their whole lifetimes.
@@ -133,6 +145,8 @@ I admit I did not understand this dish at first, but thankfully I was given the 
 Every other element of the dish deserves note. The seabass is cooked in a way I cannot figure out to have the firmness and juiciness of chicken, when bad seabass can so often be flaky and dry. The artichoke is savory, almost reminiscent of bread except in texture, another stellar example of care for vegetables. The nage sauce (meaning “in the swim”, poached with the seafood, fittingly enough for the impression of the dish) is made with white wine and again shamelessly thickened with butter. This sauce is another proud celebration of classic French technique and ingredients. And most importantly, as hinted above, each and every element combines its different notes of savory into one harmony.
 
 There is one more surprise as you work your way through the seabass fillets: more caviar buried underneath, hidden within the ring of artichokes, to continue proper enjoyment of the dish. Money is not a priority for Mr. Pacaud, and while he puts great care into the presentation of his dishes, it is not the priority for him either. He is a true artist. His only aim is to give you the best meal he can, which happens to be the best meal in the world. It is the [twilight-blue painted](https://www.astralcodexten.com/p/the-colors-of-her-coat) ceiling of the Scrovegni chapel or the gilding of the Basilica di San Marco. This spirit of generosity, of auteurism, of unbounded desire for excellence, permeates the restaurant and everything that comes out of its kitchen.
+
+![](https://acximages.ennals.org/images/2025-non-book-reviews/9905bd07d1ed184b.jpg)![](https://acximages.ennals.org/images/2025-non-book-reviews/498c9c45bedad67a.jpg)
 
 [please embed rather than upload: [https://i.imgur.com/rnrexVy.jpeg](https://i.imgur.com/rnrexVy.jpeg)]
 
@@ -148,6 +162,8 @@ As for the dish itself, the description is quite simple: it is waterboarding wit
 
 ## VI. Desserts
 
+![](https://acximages.ennals.org/images/2025-non-book-reviews/76e88851e715f9e6.jpg)
+
 [please embed rather than upload: [https://i.imgur.com/Z10Gbym.jpeg](https://i.imgur.com/Z10Gbym.jpeg)]
 
 At other restaurants, the decline or removal of pastry chefs and concomitant loss of great desserts is yet another concession to capitalist reality. L’Ambroisie’s dessert menu at first glance looks like another victim, with its deceptively simple and staunchly traditional desserts. Take for example its Tarte fine sablée au cacao amer, glace à la vanille Bourbon, possibly the stupidest-looking dessert ever at a 3-star restaurant. A slice of chocolate cake with vanilla ice cream, seriously? The kind you’d find at Applebee’s or Red Lobster?
@@ -157,6 +173,8 @@ L’Ambroisie may not be my literal favorite dessert section in the world, just 
 The top is dusted with chocolate, the bottom a thick crust. But the middle, an ethereal chocolate sabayon, is so light as to be made of air. It has none of the density and little of the moisture of a normal cake. It compacts into nothing as you chew. It is neither cloyingly sweet nor plainly bitter, as perfectly calibrated as chocolate can be. The accompanying vanilla ice cream has such a deep vanilla flavor it feels like a platonic ideal, unmatched anywhere else. Much like the egg, this dish goes to show that with a little bit of inspiration in the idea and a lot of perspiration in the execution, the most mundane premise can be elevated to not just greatness, but even distinctiveness.
 
 I am not a cheese expert, deferring to the affineur for his recommendations, but the cheese selection here is probably the finest I've ever had. I still chase after the choice of comté cheese, continuing the theme of the kitchen's discerning eye for ingredients.
+
+![](https://acximages.ennals.org/images/2025-non-book-reviews/920bb9df5af3629f.jpg)![](https://acximages.ennals.org/images/2025-non-book-reviews/cabf9bf1d3324a8c.jpg)
 
 [please embed rather than upload: [https://i.imgur.com/vxzL4Xf.jpeg](https://i.imgur.com/vxzL4Xf.jpeg)]
 

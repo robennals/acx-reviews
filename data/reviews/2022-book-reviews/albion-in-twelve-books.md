@@ -33,7 +33,7 @@ The subject matter of Albion is unusual enough to deserve notice—and we’ll 
 
 Note that Nelson’s suggestion is but a small part of a much, much longer sentence. It’s also not very clear. Later on Nelson (or possibly the angel—I’m not always sure which one is talking) calls Albion, the island, “a monument the opaque,” and this description could serve Albion, the poem, just as well.
 
-While Albion is often difficult on the basic level of sense, it just as often draws a chaotic beauty from its opacity. Here, in a longer excerpt, is the Battle of Trafalgar, Albion\-style:
+While Albion is often difficult on the basic level of sense, it just as often draws a chaotic beauty from its opacity. Here, in a longer excerpt, is the Battle of Trafalgar, Albion-style:
 
 “…confusion, crash, rigging, yards, masts overboard, the Royal Sovereign, bereft ornament, a battered bulwark, led immortal prowess; prowess serene, now steady, enemy’s ranks, numbers pell-mell, force an awful destiny; elate the forward foe, Britons awed solemn brunt, one time terrible broadsides, inundate, lave watery, or mid-deck, chain weapon, two cut, heap heaps, a head here, there mangled frame, excruciate, twisted, overboard hid glared eyeballs, ’neath tinctured waves; death, groups to eternity; embossed enemies but the more confuse, innumerable veins, afar mingle vermilion, the distracted foe, push impeded decks, clear, tumbling ocean, unnumbered dead; some warm immortal life, scarce on celestial wing, others serene feature, heroic adieu, horrid mangled, some shock attitude, shrieks, agony, pitiful implore useless relief, some death invoke, cut short their woes, others, (so glory inspire,) farewell moments, king, endeared country; as thousand thunders, artillery roar…”
 

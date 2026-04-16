@@ -17,7 +17,7 @@ tags:
   - Politics
 ---
 
-[World’s Greatest Propaganda Construct](https://www.google.com/url?q=https://aussiesta.wordpress.com/2020/12/16/pericles-the-worlds-greatest-propaganda-construct/&sa=D&source=editors&ust=1770366184785487&usg=AOvVaw2YNwR-ox5ryrtAwHUmiD-t) 
+[World’s Greatest Propaganda Construct](https://aussiesta.wordpress.com/2020/12/16/pericles-the-worlds-greatest-propaganda-construct/) 
 
 The Athenian strongman Pericles (495-429 BC) epitomizes the triumph of lies and propaganda in Classical Greece.
 
@@ -125,7 +125,7 @@ In Plato’s dialogue “The Republic,” Socrates openly objects to the democra
 
 These promises were empty. Like Alcibiades and Anaxagoras before him, Socrates, a well-known friend of the Tyrants and enemy of the democrats, was put on trial for religious reasons thinly hiding political motives (2); Anytus, an upper-class, well-known democrat who had often been mocked and probably cuckolded by Alcibiades, led the prosecution in front of 500 juries. It was all exceedingly democratic, and the greatest genius of antiquity was sentenced, by a very large democratic majority, to death.
 
-1.       This is from a New Yorker’s article [published in 2020](https://www.google.com/url?q=https://www.newyorker.com/culture/culture-desk/the-athenian-plague-a-cautionary-tale-of-democracys-fragility?utm_source%3Dtwitter%26utm_medium%3Dsocial%26utm_campaign%3Donsite-share%26utm_brand%3Dthe-new-yorker%26utm_social-type%3Dearned&sa=D&source=editors&ust=1770366184811074&usg=AOvVaw2B4wx_9W03GBgRU6932y2w): “‘Future ages will wonder at us, as the present age wonders at us now,’ Pericles, the great Athenian statesman, declared in his funeral oration, a celebrated speech in the winter of 431–430 B.C.E. He wasn’t wrong. We continue to admire Athens’s architectural splendor, stage its tragedies and comedies, and marvel, especially, at much that its democracy (the world’s first) wrought: participatory government, equal treatment before the law in private disputes, a distaste for class consciousness, juries made up of citizens, and tolerance about others’ personal lives.”
+1.       This is from a New Yorker’s article [published in 2020](https://www.newyorker.com/culture/culture-desk/the-athenian-plague-a-cautionary-tale-of-democracys-fragility?utm_source=twitter&utm_medium=social&utm_campaign=onsite-share&utm_brand=the-new-yorker&utm_social-type=earned): “‘Future ages will wonder at us, as the present age wonders at us now,’ Pericles, the great Athenian statesman, declared in his funeral oration, a celebrated speech in the winter of 431–430 B.C.E. He wasn’t wrong. We continue to admire Athens’s architectural splendor, stage its tragedies and comedies, and marvel, especially, at much that its democracy (the world’s first) wrought: participatory government, equal treatment before the law in private disputes, a distaste for class consciousness, juries made up of citizens, and tolerance about others’ personal lives.”
 
 2.      The legal backbone for Socrates’ prosecutions, as well as others before him, was a decree passed under Pericles, and pushed by Diopeithes, a seer, sometime before 432 BC. The decree looked to curb impiety, targeted first those who did not acknowledge divine things.
 

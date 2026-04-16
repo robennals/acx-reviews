@@ -7,7 +7,7 @@ contestName: 2024 Book Reviews
 year: 2024
 publishedDate: '2026-02-06T16:47:15.598Z'
 slug: catkin-by-antonia-barber
-wordCount: 3776
+wordCount: 3781
 readingTimeMinutes: 17
 originalUrl: >-
   https://docs.google.com/document/d/1AXmWgSbh_TFsoZuApSCSEoz57yn93CM5YYhtaO_s4W4
@@ -58,13 +58,17 @@ Catkin returns to the wise-woman one final time, requesting her adjudication. Tr
 
 Original research interlude: Catkin is described as so small his tail is no bigger than the catkins hanging from the hazel trees. Assuming the hazel in question is Corylus avellana, his tail is at most 12 centimeters long. As the average cat tail length is about 30.5 centimeters, we can confidently assert that Catkin is less than 40% of a standard cat.
 
+![](https://acximages.ennals.org/images/2024-book-reviews/02a709eaf3d4a041.png)
+
 To understand what makes good children's fiction, it helps to understand where children's fiction commonly goes wrong. Most of it, of course, goes wrong by being opportunistic, contemptible dreck. Being short and often simple, children’s media is easy to mass-produce; the result is an aesthetically radioactive trash-scape of clipart pablum. (It will only get worse.)
 
 P. J. Lynch's illustrations — for Catkin, and many books besides — are so lovely they make me forget we're living through an apocalypse. His process, gleaned from a smattering of interviews, entails dedicating an entire year to each book, including several months of preliminary ideation and sketching. Just hearing about this, for me, was soul-bleaching — if you have the misfortune of being steeped in the engagement-baiting world of rapid content generation, you may understand why such an intentional, solitary method feels like wizardry, or a forgotten science.
 
-Catkin is 48 pages. My copy includes 17 full size illustrations, each of which, according to the illustrator, would have taken about two weeks to complete. There are many small inserts, and decorative borders for the text, not unlike those found in illuminated manuscripts. The paintings are made from models. In the illustrator blurb, Lynch states that he knew he “would have no shortage of models for Catkin or the old mother cat. My next door neighbor, Mrs. Tabiteau, owns about forty cats.” (Mrs. Tabby\-teau!) Elsewhere, he admits that his mother posed as the wise-woman; in an interview about a different book, taken thirty years later, he describes modeling a character after his daughter. Time comes full circle.
+Catkin is 48 pages. My copy includes 17 full size illustrations, each of which, according to the illustrator, would have taken about two weeks to complete. There are many small inserts, and decorative borders for the text, not unlike those found in illuminated manuscripts. The paintings are made from models. In the illustrator blurb, Lynch states that he knew he “would have no shortage of models for Catkin or the old mother cat. My next door neighbor, Mrs. Tabiteau, owns about forty cats.” (Mrs. Tabby-teau!) Elsewhere, he admits that his mother posed as the wise-woman; in an interview about a different book, taken thirty years later, he describes modeling a character after his daughter. Time comes full circle.
 
 The Underworld — pardon me, Fairyland — landscapes are earthy and dark, painted as though through an emerald’s swampy lens. Catkin and Carrie are the only sources of brightness underground. It reminds me, in spirit, of Arthur Rackham’s illustrations of The Goblin Market, a cautionary poem about goblin economies (don’t read anything into it!), whose young protagonist is likewise a beam in the murk.
+
+![](https://acximages.ennals.org/images/2024-book-reviews/14f6521b3c3951ba.jpg)
 
 Mind you, Catkin’s fairies are nowhere near as malevolent as those nasty goblins. Nor are they as tiny — though they are little, and drawn slightly smaller than something adult-shaped ought to be, such that next to Carrie their darkness and their scale is just wrong enough to produce an uncanny effect.
 
@@ -92,6 +96,8 @@ Two choices are made in the final act of Catkin (and there is a lesson to each)
 
 Of course, they choose to visit the wise-woman, because you can defer to a thinking human what cannot be deferred to an algorithm.
 
+![](https://acximages.ennals.org/images/2024-book-reviews/f579e0e56a60fec8.jpg)
+
 Catkin might not be a life-changing book, but it’s a testament to the crafts of riddling, writing, and illustration. It’s a charming reminder that lovely things can be made, and it’s brimming with the crooked wisdom of fairy tales. I’ve spent many years thinking about this book, and perhaps you can, too; or if not you, the children you know.
 
 To quote an online reviewer, who convinced me I was not alone: “I am 27 years old and I still remember this book well and adore it and its lessons. It is touching and beautiful and I am certain that it has created in me a better and more thoughtful person than I would have been without it.”
@@ -114,6 +120,8 @@ In slightly more than one sentence: the category “fairy” includes numerous E
 Fairies are nature spirits. Fairies are reinterpretations of the Roman gods, who, though loosened in their grip, have yet to be forgotten. Fairies are the dead. Fairies are Scandinavian and Celtic memetic agents self-propagating via ballads. Fairies are ergot elves, the terrible pre-modern equivalent to DMT elves. Fairies are “of a middle nature betwixt man and angel”, unless they’re just demons. The fairies are generous, powerful, quick to anger, bound by indecipherable rules and customs, indifferent towards humans, and best avoided.
 
 At some point, perhaps as early as the 17th century, the fear that fairies inspire begins to wane. Shakespeare’s A Midsummer Night’s Dream may signal what is to come; his play is one of the first to depict fairies as beneficent little flower people. Come the Victorian era, believing in fairies is an escapist pastime. The world is hurtling into the future. The Cottingley Fairies are a series of hoax photographs in which wee garden fairies frolic with young girls.
+
+![](https://acximages.ennals.org/images/2024-book-reviews/e0441a937fb2c4b9.png)
 
 Fairies are no longer perceived as dangerous. Fast forward again, and we have the popular fairies of today: Disney icons, be-winged Barbies and Bratz dolls, weird kid’s shows, and a saturation of the aesthetic that uncomfortably merges “pin-up” and “trying to sell this thing to children”. Saccharine, but also, creepy.
 
@@ -168,6 +176,8 @@ It’s difficult to tell when Catkin is set. Not medieval, not current. Like al
 Taking my guesses at face value, we find that the child mortality rate in the United Kingdom was 26% in 1870. By 1940 it was at 7%, and steeply dropping. By today’s standards, these are both vertiginously high.
 
 There are a couple of illustrations in Catkin depicting grief. The restrained pain of Carrie’s parents, shockingly visible; the theatrical, but no less broken, collapse of the fairy Lady. Suddenly, the bargain seems reasonable. Choices, trades, again and again. What’s one more?
+
+![](https://acximages.ennals.org/images/2024-book-reviews/efb4f3238d32e6bd.png)
 
 Catkin ends with the following passage: “And from that day, all things went well for the good man and his wife. They lived in peace with Carrie and Catkin and the Little People, and the farm on the green hillside flourished.” That we could all be so lucky: to live and speak with aliens, to make peace, to choose well, to thrive, and to fight death, until we are no longer
 

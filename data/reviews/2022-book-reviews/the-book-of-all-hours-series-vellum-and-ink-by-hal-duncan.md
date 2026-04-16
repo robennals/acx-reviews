@@ -7,7 +7,7 @@ contestName: 2022 Book Reviews
 year: 2022
 publishedDate: '2026-02-06T07:22:32.817Z'
 slug: the-book-of-all-hours-series-vellum-and-ink-by-hal-duncan
-wordCount: 4335
+wordCount: 4340
 readingTimeMinutes: 20
 originalUrl: >-
   https://docs.google.com/document/d/100kMdSVFviZSSBvUyyEQPMNlvLptVQxHFD9i9wGuBWs
@@ -24,7 +24,7 @@ Just read the Damn Book of All Hours
 
 “The annuna, the judges of the underworld, surrounded her- They passed judgment against her.
 
-Then Ereshkigal fastened on Inanna the eye of death\- She spoke against her the word of wrath
+Then Ereshkigal fastened on Inanna the eye of death- She spoke against her the word of wrath
 
 She uttered against her the cry of guilt- She struck her.
 
@@ -48,6 +48,8 @@ A quarter way through this, the journey of our mortal life, I received book vouc
 
 I found Vellum, Book one of the Book of All Hours.
 
+![](https://acximages.ennals.org/images/2022-book-reviews/ff4a1417f6518d1b.png)
+
  On the back, in the sonorous language of blurbs:
 
 The Book of All Hours: I
@@ -70,6 +72,8 @@ I got home and I started reading it. I became confused. Surprisingly, it did blo
 
 Trying to summarize this book is a bit like trying to capture the essence of a complex three-dimensional object like a human body with a single two-dimensional slice:
 
+![Sagittal plane - Wikipedia](https://acximages.ennals.org/images/2022-book-reviews/d911162af568704f.png)
+
 Nonetheless, the simplest way to describe The Book of All Hours is that it tells a story not about characters in the normal sense, but about hyper-characters- archetypes. It does this by weaving a series of stories, with the same archetypes in them, together into sequences corresponding to a narrative of narratives.
 
 The difficulty in reading it is peculiar, probably not quite what you are expecting. You know how Cthulhu is so maddening to look at because he is an N-dimensional being compressed, with loss, into a 3-dimensional space? It’s like that kind of difficulty, much more startling than it is laborious.. Or to look at it another way, It has been said that Kant is difficult to read not because he is vague, but precisely because he is so exact. Something like that is happening here. Given the architectonic character of the book, I was not surprised to learn the author is a former programmer. I can only imagine what the storyboard must have looked like.
@@ -88,7 +92,7 @@ A searing flash of light is seen across the skyline of Damascus…
 
 Every war has its deserters. Our lead characters are deserters from the war in heaven, trying to avoid being pressganged into either side. One of the characters, in various folds of reality, goes by the names Puck, Thomas, Dionysus, Tammuz, Dummuzi, Adonis, Pan, Thomson’s Gazelle (the species) Matthew Shepard (yes, that Matthew Shepard) and many others. He is killed, always by at least two killers, one of whom who admixtures disgust and longing- Jack. At the timeless, omnipresent moment of his death, a cry is heard across beingscape.
 
-[The Great God Pan is Dead](https://www.google.com/url?q=https://en.wikipedia.org/wiki/Pan_(god)%23%2522The_Great_God_Pan_is_dead%2522&sa=D&source=editors&ust=1770366145249109&usg=AOvVaw2Km4kSgi6fBpAH4x5mtVl6)
+[The Great God Pan is Dead](https://en.wikipedia.org/wiki/Pan_(god)#%22The_Great_God_Pan_is_dead%22)
 
 As was reputed to have been heard in our world, during the reign of Tiberius.
 

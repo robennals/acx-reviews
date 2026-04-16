@@ -7,7 +7,7 @@ contestName: 2024 Book Reviews
 year: 2024
 publishedDate: '2026-02-06T16:48:56.662Z'
 slug: safe-enough-a-history-of-nuclear-power-and-accident-risk
-wordCount: 8216
+wordCount: 8306
 readingTimeMinutes: 37
 originalUrl: >-
   https://docs.google.com/document/d/1GYQw3pgvhi7hqOVR-Ql629Q_8thbyHe8sSRy5voyt30
@@ -44,9 +44,13 @@ To understand the problems nuclear energy faced in its early years, we need a bi
 
 Twenty-five years after the Wright brothers flew the first airplane, the state of the art in commercial air travel was the Boeing 40B, an open-cockpit biplane that could hold up to four passengers. It mainly carried mail, a program the government introduced to encourage the industry because passenger travel was so unprofitable.
 
+![A Boeing 40B biplane](https://acximages.ennals.org/images/2024-book-reviews/77d9f22d574d499e.png)
+
 25 years of aviation technology (Boeing 40B)
 
-Twenty-five years after the first nuclear chain reaction in 1942, there were[about eight US commercial nuclear plants](https://en.wikipedia.org/wiki/List_of_commercial_nuclear_reactors#United_States) already in operation and 23 more under construction, 16 of which are still in operation more than 50 years later.
+Twenty-five years after the first nuclear chain reaction in 1942, there were [about eight US commercial nuclear plants](https://en.wikipedia.org/wiki/List_of_commercial_nuclear_reactors#United_States) already in operation and 23 more under construction, 16 of which are still in operation more than 50 years later.
+
+![The containment dome and surrounding site of a large Pressurized Water Reactor](https://acximages.ennals.org/images/2024-book-reviews/9c7eac1d62ef5c1b.jpg)
 
 25 years of nuclear power ([Connecticut Yankee,](https://en.wikipedia.org/wiki/Connecticut_Yankee_Nuclear_Power_Plant) 560 MWe, completed 1968)
 
@@ -58,11 +62,15 @@ In the early years of the Cold War, Congress wanted to ensure American primacy i
 
 After a sudden shutdown (a “scram”), the key to safety is to make sure the reactor core is covered with water. As long as it's covered, it stays cool enough to keep most of the radioactive fission products inside the fuel rods where they belong. But if you let that water drain off or boil away, then you're in trouble: even though you’ve stopped the neutron chain reaction, the decay heat of the fission products will still heat the fuel past its 5000 degree melting point. So a natural starting point for the AEC's disaster scenario was a Loss of Coolant Accident (LOCA). To make it the worst case, they imagined the largest pipe in the coolant system suddenly breaking in half. All the escaping water would have to be replaced somehow—generally an Emergency Core Cooling System (ECCS) would rapidly pump in more water from a giant tank nearby. And since things don't usually work perfectly during an emergency, they also assumed there would be a power outage and a “single active failure” of whatever active component (pump, generator, etc.) was most critical. This meant, essentially, that the designers would need to build in a backup for everything. The containment structure, meanwhile, would have to withstand a huge pressure spike as the superheated water flashed into steam, and that meant a voluminous, thick steel structure backed by even thicker concrete. Eventually there would be over a dozen different Design Basis Accidents to account for, such as a power surge or sudden loss of feedwater, but the Large LOCA remained the most challenging and expensive to address.
 
+![](https://acximages.ennals.org/images/2024-book-reviews/006b28f8262ad639.png)
+
 Loss of Coolant Accident [[ref](https://www.sciencedirect.com/topics/engineering/loss-of-coolant-accidents)]
 
 How likely this kind of accident was didn’t get as much attention, because there was no good way to estimate it. The state of the art “expert judgment” approach helpfully suggested that it was somewhere between unlikely and practically impossible. Consequences, though, were amenable to research. A study called WASH-740, published in 1957, examined the worst-case outcomes of a severe accident in which half the reactor core would vaporize directly into the atmosphere, with no containment, and with the wind directing it towards a major population center. It found there could be 3,400 deaths, 43,000 injuries, and property damage of $7 billion ($80 billion in 2024 dollars). It was “like evaluating airline travel by postulating a plane crash into Yankee Stadium during the seventh game of the World Series. Such scenarios only confused and frightened the public.” Some in the AEC thought that to improve nuclear power’s image they needed better risk estimates—a desire born of “an Enlightenment faith that the public was composed of rational actors who dispassionately choose their risks according to data.”  When they updated WASH-740 in 1965 to model the larger reactors then under construction, the danger looked even worse: 45,000 deaths. Still unable to calculate a justifiable probability to reassure the public, they kept the update to themselves.
 
 Recognizing that the Design Basis Accidents did not account for every possibility, the AEC also wanted nuclear plants to follow the principle of “Defense in Depth” by having additional layers of safeguards, like putting the reactor at a remote site and surrounding it with a containment structure. The commissioners believed these passive factors were “more reliable” than active measures like the ECCS.
+
+![](https://acximages.ennals.org/images/2024-book-reviews/9cc23d952aee187d.png)
 
 Phenomena during a severe accident had not been thoroughly studied [[ref](https://www.intechopen.com/chapters/17972)]
 
@@ -72,6 +80,8 @@ It was a crude approach. The AEC didn't really know whether these protections wo
     
 
 As it turned out, that plan would be severely challenged by the explosive growth of the nuclear industry. After a handful of small demonstration plants, the 1960s saw a meteoric rise in both the number and the size of nuclear plants applying for licenses. The rapid build-out was not organic; it was by design. The two main nuclear vendors, General Electric with its Boiling Water Reactors and Westinghouse with its Pressurized Water Reactors (pictured below), began offering what were called “turnkey” plants. These had a fixed up-front price to the utility that ordered them, with all the investment risk assumed by the manufacturer. The first one, Oyster Creek, sold for just $66 million. Like many others, it was a loss leader, sold below cost in a successful effort to create “a bandwagon effect, with many utilities rushing ahead...on the basis of only nebulous analysis.” Nuclear was the energy of tomorrow, and GE and Westinghouse wanted to bring it to fruition as quickly as possible. Utilities, initially skeptical of untested tech, came to think of a nuclear plant as a feather in their cap that proved they were tech-savvy, bold, and at the forefront of progress.
+
+![](https://acximages.ennals.org/images/2024-book-reviews/db6fd627c6d88788.png)
 
 The bandwagon approach had downsides, though. Some of the earlier plants took only about 4 years to build, but as reactors got larger (upwards of 800 MW electric capacity by the mid-1970s) they needed more specialized manufacturing. Build times doubled. Utilities started building new designs before the prior generation was finished. Even plants of the same nominal design were customized by the builders, making every one unique. And bigger, as it turned out, was not always better: larger plants were more complex to operate and maintain. In modern terms, the scale-up was creating more and more technical debt.
 
@@ -84,17 +94,23 @@ While the AEC staff diligently tried to apply its conservative Design Basis Acci
 
 Between 1958 and 1964, however, [AEC] research indicated that the fuel could melt, slump to the vessel bottom, and melt through it, too, landing on the containment building floor. It would then attack the concrete until it broke through the bottom. Once outside the containment building, the fission products might enter the water table or escape into the atmosphere. A joke about the glowing hot blob melting all the way to China led to the phenomena being dubbed “The China Syndrome.”
 
+![](https://acximages.ennals.org/images/2024-book-reviews/f0b8d4034d3b2149.png)
+
 [The China Syndrome](https://qph.cf2.quoracdn.net/main-qimg-1fe86975d14f48cb4c8589da5dff6ad2-lq)
 
 The industry fell back on the argument that Emergency Core Cooling Systems were so reliable that a core meltdown was simply inconceivable. The ECCS was “little more than a plumbing problem.” Industry advocates in government pulled AEC research away from severe accidents and toward a new research program to prove ECCS effectiveness. Without a fully functional containment, the AEC could no longer argue that even the worst accidents had zero consequences. Instead, it had to make the case that severe accidents were so improbable that reactors should still be considered safe.
 
 In an early warning of problems to come, licensing times began to increase. “Between 1965 and 1970, the size of the regulatory staff increased by about 50 percent, but its licensing and inspection caseload increased by about 600 percent. The average time required to process a construction permit application stretched from about 1 year in 1965 to over 18 months by 1970.” [ref 1]
 
-Oyster Creek, started in 1964, featured an innovative Mark I pressure-suppression containment—the same type that failed to protect the Fukushima reactors a half century later. It shrank down the massive steel structure until it fit tightly around the reactor vessel. To deal with the steam burst from a LOCA, it would direct it down an array of pipes into a pool of water where, they hoped, most of it would condense before creating enough pressure to burst the walls. Regulators, uncertain of its safety, granted only a conditional license. And that sort of decision became a trend:“From one application to the next, the AEC demanded new, expensive, redundant safety systems.” According to the AEC, these regulatory “surprises” came about because each plant had a new and unique design. The industry called it excess conservatism and “regulatory uncertainty.” How could builders hope to meet safety requirements that were a moving target?
+Oyster Creek, started in 1964, featured an innovative Mark I pressure-suppression containment—the same type that failed to protect the Fukushima reactors a half century later. It shrank down the massive steel structure until it fit tightly around the reactor vessel. To deal with the steam burst from a LOCA, it would direct it down an array of pipes into a pool of water where, they hoped, most of it would condense before creating enough pressure to burst the walls. Regulators, uncertain of its safety, granted only a conditional license. And that sort of decision became a trend: “From one application to the next, the AEC demanded new, expensive, redundant safety systems.” According to the AEC, these regulatory “surprises” came about because each plant had a new and unique design. The industry called it excess conservatism and “regulatory uncertainty.” How could builders hope to meet safety requirements that were a moving target?
+
+![](https://acximages.ennals.org/images/2024-book-reviews/5068b33bd7dd2b45.png)
 
 Throughout the 1970s, the AEC “often forced redesign and backfits on plants already under construction,” with no way of knowing how much they would improve safety. The list is long: New rules required seismic restraints, fireproof construction and ventilation, and “greater physical separation of redundant safety-related equipment such as electrical cables.” Everything had to be resistant to heat, humidity, and radiation. [Ref 4]. In one case, by 1976 the AEC had required 64 different upgrades (backfits) for a single reactor.
 
 In addition to safety issues, environmental concerns about nuclear power arose. Due to their greater size and lower thermal efficiency, nuclear plants polluted lakes and rivers with more excess heat than their fossil counterparts. To mitigate it, utilities turned to the huge, and expensive, natural-draft cooling towers that are now such an iconic image of nuclear power (though some other power plants use them too).
+
+![](https://acximages.ennals.org/images/2024-book-reviews/2ff8389fea5a7146.png)
 
 Natural draft cooling tower at a nuclear plant [[source](https://en.wikipedia.org/wiki/Nuclear_power)]
 
@@ -104,15 +120,17 @@ Certain writers have [targeted](https://jackdevanney.substack.com/p/alara) the 
 
 The ECCS reliability tests that the industry demanded came back to haunt them. Tests on a scaled-down core suggested that immediately after a LOCA, water injected into the system would flow right back out through the broken pipe. By the time the pressure got low enough for the water to reach the core, the fuel rods might be hot enough to collapse and block the flow, or to shatter on contact with the cold water. The AEC at first concealed the results, thinking that more research could reverse the conclusions and avoid bad press.
 
-Even after research revealed uncertainty with ECCS performance, AEC staff believed that a meltdown was not a credible accident. In late 1971, it estimated that the odds of a major core damage accident were 10\-8 per reactor year (one in one hundred million). As a later NRC report noted, this “was a highly optimistic estimate [by several orders of magnitude], but it typifies the degree to which meltdown accidents were considered ‘not credible.’”
+Even after research revealed uncertainty with ECCS performance, AEC staff believed that a meltdown was not a credible accident. In late 1971, it estimated that the odds of a major core damage accident were 10-8 per reactor year (one in one hundred million). As a later NRC report noted, this “was a highly optimistic estimate [by several orders of magnitude], but it typifies the degree to which meltdown accidents were considered ‘not credible.’”
 
 Antinuclear activists known as “intervenors,” with the support of a few of the ACRS staff, latched onto the uncertainties and sued to delay dozens of license applications until the ECCS designs could be proven effective. The AEC struggled to head off the lawsuits by creating new “interim” criteria for acceptance, and its rulemaking hearings in 1972 became a major press event that solidified public opinion against nuclear power and the AEC. Though it eventually pushed the rules through, the AEC’s position was weakened. And existing plants had to do expensive upgrades to satisfy the new criteria. One older unit (Indian Point 1, near New York) had to close down entirely due to the near-impossibility of the modifications.
 
-The rules were piling up. In his excellent article[Why Does Nuclear Power Plant Construction Cost So Much?](https://progress.institute/nuclear-power-plant-construction-costs/), Brian Potter shows this graph as an indicator of increases in regulatory requirements and thoroughness of NRC review throughout the 1970s:
+The rules were piling up. In his excellent article [Why Does Nuclear Power Plant Construction Cost So Much?](https://progress.institute/nuclear-power-plant-construction-costs/), Brian Potter shows this graph as an indicator of increases in regulatory requirements and thoroughness of NRC review throughout the 1970s:
 
-Increasing regulation:[Szalay 1978](https://inis.iaea.org/collection/NCLCollectionStore/_Public/10/421/10421637.pdf), as quoted[here](https://progress.institute/nuclear-power-plant-construction-costs/)
+![Plot: Cumulative totals of Division 1 Regulatory Guides and Branch Technical Positions Issued by NRC To Date. It rises steadily from near-zero in 1970 to over 250 expected by 1977.](https://acximages.ennals.org/images/2024-book-reviews/2a97ee0777ba6512.png)Increasing regulation: [Szalay 1978](https://inis.iaea.org/collection/NCLCollectionStore/_Public/10/421/10421637.pdf), as quoted [here](https://progress.institute/nuclear-power-plant-construction-costs/)
 
 It's worth nitpicking that the "regulatory guides" and "branch technical positions" shown here were not new regulations being created--they were examples the AEC/NRC gave of methods for showing that a plant meets the requirements. But my understanding is that the people building reactors mostly tried to follow them exactly (to reduce the risk of a denied application), so they are a decent proxy for how detailed and rigorous a license application would need to be. Demonstrating that a design followed all those rules and guidelines took up thousands of pages, and increasingly meant debating back and forth with the reviewers as well.
+
+![Plot of regulatory guides in effect from 1970 to 2023. The steep rise stops in 1978.](https://acximages.ennals.org/images/2024-book-reviews/3fbd6d854c334025.png)
 
 Division 1 (reactor-related) Regulatory Guides from the AEC and NRC [[Ref](https://www.nrc.gov/reading-rm/doc-collections/reg-guides/power-reactors/rg/index.html)]. I couldn't find data on Branch Technical Positions.
 
@@ -126,6 +144,8 @@ In the early 1970s, the tide of public opinion had started to turn against nucle
 The solution proposed by Rasmussen was to calculate the probabilities for chains of safety-component failures and other factors necessary to produce a disaster. The task was mind-boggling. A nuclear power plant's approximately twenty thousand safety components have a Rube Goldberg quality. Like dominoes, numerous pumps, valves, and switches must operate in the required sequence to simply pump cooling water or shut down the plant. There were innumerable unlikely combinations of failures that could cause an accident. Calculating each failure chain and aggregating their probabilities into one number required thousands of hours of labor. On the bright side, advancements in computing power, better data, and “fault-tree” analytical methodology had made the task feasible.
 
 WASH-1400, also called the Rasmussen Report after its lead scientist, was to be the first attempt at Probabilistic Risk Assessment. Other industries had already developed a technique called a fault tree, in which the failure probabilities of individual components could be combined, using Boolean logic (“and” gates and “or” gates), to give the failure probability of a multi-component system. The new study aggregated a number of fault trees into an “event tree,” a sort of flow chart mapping the system failures or successes during an incident to its eventual outcome. And in turn, there would be many different event trees derived from various possible ways for an accident to begin.
+
+![](https://acximages.ennals.org/images/2024-book-reviews/8aab0458a9b5c2ce.png)
 
 Sample PRA. A key innovation of WASH-1400 was to combine the
 
@@ -151,6 +171,8 @@ More helpfully, WASH-1400 provided new insights about what types of accident wer
 
 In 1975, a fire started at the Browns Ferry plant in Tennessee when a worker used a candle to check for air leaks in a chamber where wiring was routed underneath the control room (a standard practice at the time, somehow). The insulation of the control cables burned for seven hours. Like a malicious ghost in a horror movie, it caused equipment all over the plant to switch on and off at random. The operators barely managed to keep the core submerged.
 
+![](https://acximages.ennals.org/images/2024-book-reviews/7c5775fd8c5fd57e.png)
+
 Fire in the cable trays [[ref](https://blog.ucsusa.org/dlochbaum/fission-stories-98-fires-at-browns-ferry-get-your/)]
 
 A similar accident happened in 1978 at Rancho Seco in California, when someone dropped a light bulb on an instrument panel and caused a short. The shorted-out non-nuclear instrumentation (not classified as safety related) halted the feedwater flow, scramming the reactor. Incorrect indicators kept auxiliary feedwater from flowing, and the steam generators dried out, leaving nothing to dissipate heat from the reactor coolant system. But before the core could overheat, the feedwater started again on its own.
@@ -164,6 +186,8 @@ After that, however, nothing went as designed. A relief valve in the primary loo
 [...]
 
 [Radiation] readings taken after the accident were just a third of levels measured at the site during the 1986 Chernobyl disaster some five thousand miles away. Defense in depth had worked.
+
+![](https://acximages.ennals.org/images/2024-book-reviews/0e556dff6c859eaf.png)
 
 Though later investigation showed much of the core had melted, it did not escape the reactor vessel, and the containment building worked as designed [[image source](https://sciencephotogallery.com/featured/three-mile-island-damaged-reactor-core-nuclear-regulatory-commissionscience-photo-library.html)]
 
@@ -208,7 +232,7 @@ As construction projects of the 70s, delayed by TMI or the intervenors, slowly c
 
 These power uprates held the total licensed capacity fairly steady until the next round of closures began in 2013. The actual energy being sold to the grid continued to increase into the early 2000s, then stayed flat all the way up to the pandemic dip of 2020. Its time is finally up, though. Despite the recent addition of two units at Plant Vogtle in Georgia, the current downward trend will continue indefinitely unless a new wave of construction succeeds.
 
-Nuclear Energy in the US ([source](https://www.eia.gov/totalenergy/data/browser/?tbl=T08.01#/?f=A&start=1957&end=2022&charted=1-0-2)with interactive graph)
+![Plot of number of US nuclear plants, total capacity, and energy produced, 1957-2022](https://acximages.ennals.org/images/2024-book-reviews/2d64794ed85b82dc.png)Nuclear Energy in the US ([source](https://www.eia.gov/totalenergy/data/browser/?tbl=T08.01#/?f=A&start=1957&end=2022&charted=1-0-2) with interactive graph)
 
 The trick to producing more energy with fewer and fewer power plants is to increase their capacity factor—the average power level the plant runs at, as a percentage of its maximum capacity. Gas and coal plants need expensive fuel, so when there's low demand for electricity, they save fuel by running at less than their maximum power or shutting off entirely. Intermittent sources (wind and solar) are at the whim of the weather and often have capacity factors as low as 20-25%. But because the fuel for a nuclear plant is relatively cheap, you can hardly save any money by shutting it off when electricity prices dip—plus it takes many hours to start up again. To maximize profit, it needs to be running basically all the time; every interruption is a financial disaster. The average capacity factor in the early 1980s was an abysmal 55%.
 
@@ -220,7 +244,7 @@ One thing that could not be reformed was treatment of low-level radioactivity. P
 
 ### Near Miss
 
-In 2002, a shockingly close call threatened to undermine all the industry’s progress on safety and public trust. A few plants had recently noticed unexpected cracks in control rod nozzles that penetrated the reactor vessel head. Regulators, concerned that a large enough crack might sever a nozzle, warned other PWRs to check for the same problem. The Davis Besse plant in Ohio, on NRC orders and after quite a bit of stalling, shut down to inspect its control rod nozzles for cracks. Instead, workers found a hole in the vessel head the size of a pineapple. Corrosive water leaking from a crack had eaten all the way through the five-inch-thick steel, down to a stainless steel liner just ⅜ of an inch thick. back the 150-atmosphere operating pressure of the coolant. It was the closest any reactor had ever come to a large, or at least a medium-sized, LOCA. If the cavity had been allowed to grow, the liner would eventually have burst, leaving an opening of unknown size for coolant to escape into containment. 
+In 2002, a shockingly close call threatened to undermine all the industry’s progress on safety and public trust. A few plants had recently noticed unexpected cracks in control rod nozzles that penetrated the reactor vessel head. Regulators, concerned that a large enough crack might sever a nozzle, warned other PWRs to check for the same problem. The Davis Besse plant in Ohio, on NRC orders and after quite a bit of stalling, shut down to inspect its control rod nozzles for cracks. Instead, workers found a hole in the vessel head the size of a pineapple. Corrosive water leaking from a crack had eaten all the way through the five-inch-thick steel, down to a stainless steel liner just ⅜ of an inch thick. back the 150-atmosphere operating pressure of the coolant. It was the closest any reactor had ever come to a large, or at least a medium-sized, LOCA. If the cavity had been allowed to grow, the liner would eventually have burst, leaving an opening of unknown size for coolant to escape into containment. ![](https://acximages.ennals.org/images/2024-book-reviews/b13399a9efa14939.png)
 
 The hole that ate nearly through the reactor vessel head [[ref](https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML042600455)]
 
@@ -228,7 +252,9 @@ Davis Besse had invoked its PRA to justify the delayed inspection. The risk, the
 
 The dramatic damage resulted in a record-setting fine for the owner and criminal prosecutions for negligent plant staff. But was it also an indictment of PRA as a regulatory technique? The Union of Concerned Scientists, always quick to criticize nuclear safety, argued not that use of PRA was inappropriate but that the NRC had “no spine” in the way it applied risk information, and that the industry should have invested in better PRA models.
 
-The NRC admitted to some mistakes in handling the case, and launched new efforts to improve safety culture among operators, but it doubled down on using PRA for similar decisions in the future. From what they knew at the time, “[t]he increase in the probability of core damage of 5×10\-6 (one in two hundred thousand) reactor years was acceptable under NRC guidelines.” Afterward, the NRC added the incident to its Accident Sequence Precursor program, a PRA-based retrospective analysis of all dangerous events at US plants. ASP calculated in hindsight a much higher core damage probability of 6×10\-3 for the time the hole existed. But older events looked worse.
+The NRC admitted to some mistakes in handling the case, and launched new efforts to improve safety culture among operators, but it doubled down on using PRA for similar decisions in the future. From what they knew at the time, “[t]he increase in the probability of core damage of 5×10-6 (one in two hundred thousand) reactor years was acceptable under NRC guidelines.” Afterward, the NRC added the incident to its Accident Sequence Precursor program, a PRA-based retrospective analysis of all dangerous events at US plants. ASP calculated in hindsight a much higher core damage probability of 6×10-3 for the time the hole existed. But older events looked worse.
+
+![](https://acximages.ennals.org/images/2024-book-reviews/1b0a1b66baa8d588.png)
 
 Conditional core damage risk for various reactor incidents over the years, according to the NRC’s [Accident Sequence Precursor](https://www.nrc.gov/about-nrc/regulatory/research/asp.html) analyses [[data source](https://app.powerbigov.us/view?r=eyJrIjoiNmU2NjJiYjktOTQyYS00OGRhLTk0MGItMmUxNDdlOGI5NTgzIiwidCI6ImU4ZDAxNDc1LWMzYjUtNDM2YS1hMDY1LTVkZWY0YzY0ZjUyZSJ9)]. The two giant bars are the [Browns Ferry fire](https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20168A437) and the [Rancho Seco loss of feedwater](https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20168A722) event. Davis-Besse’s [head corrosion](https://adamswebsearch2.nrc.gov/webSearch2/main.jsp?AccessionNumber=ML20112F488) in 2002 is far larger than anything else this century. Not included in this chart is Three Mile Island, with a core damage probability of 1.
 

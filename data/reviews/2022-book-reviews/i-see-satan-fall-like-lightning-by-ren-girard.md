@@ -7,7 +7,7 @@ contestName: 2022 Book Reviews
 year: 2022
 publishedDate: '2026-02-06T07:23:14.475Z'
 slug: i-see-satan-fall-like-lightning-by-ren-girard
-wordCount: 5590
+wordCount: 5592
 readingTimeMinutes: 25
 originalUrl: >-
   https://docs.google.com/document/d/1kQUUJhv-MpLawby2j4zXLZPDG6ligWd5xpIjH8UmWdw
@@ -25,13 +25,17 @@ Myths are horrifying.
 
 Take Prometheus. In short, Prometheus was a Greek god who stole fire and gave it to humans. For this crime, he was bound to a rock, where an eagle would come to rip out and consume his liver. The next day, his liver would grow back, so the eagle would come again and feast again. And so on, for eternity.
 
-Most paintings of this scene [fail to capture the mood correctly](https://www.google.com/url?q=https://the-toast.net/2016/06/29/paintings-of-the-torture-of-prometheus-where-it-actually-looks-like-the-eagle-assigned-to-tear-out-his-liver-is-his-new-boyfriend/&sa=D&source=editors&ust=1770366183937325&usg=AOvVaw0yASh8b5lVfix_htMOq-KC).
+![](https://acximages.ennals.org/images/2022-book-reviews/c68a8c7bb20b1b5d.png)
+
+Most paintings of this scene [fail to capture the mood correctly](https://the-toast.net/2016/06/29/paintings-of-the-torture-of-prometheus-where-it-actually-looks-like-the-eagle-assigned-to-tear-out-his-liver-is-his-new-boyfriend/).
 
 It’s an easy story to tell, but it’s difficult to really grasp. The punishment is cruel, for the crime of theft (of a non-excludable good, no less!). This is fairly typical of mythology, and completely unconcerning as long as you don’t take the story at all seriously. I remember, when I first heard of Prometheus, imagining that gods were some sort of super-men with abnormally high pain tolerance. The alternative is unimaginable.
 
 René Girard wants us to imagine the alternative: that mythic punishments were not invented from whole cloth, but are instead slightly dramatized versions of real, historical incidents. Prometheus was a real person, who committed some serious crime (perhaps theft), and was punished by some form of bodily mutilation. In retellings, every aspect of the story has been exaggerated. Notably, though, those retelling the myth rarely feel the need to make the punishment fit the crime.
 
 Another charming example: Ixion. Ixion was, originally, a mortal King of little note. Here’s a picture of Ixion, tied to a flaming wheel, sent spinning through the skies (again, for eternity).
+
+![](https://acximages.ennals.org/images/2022-book-reviews/2d8aa2180d2f3531.png)
 
 Okay, so the punishment is a bit extreme. What was the crime? He attempted to seduce Hera—Zeus’s wife. By the standards of Greek mythology, this makes sense. But maybe the listener wants more. Well, more there is! While a mortal king, Ixion married a woman and failed to pay her father an appropriate price. This feud escalated until Ixion finally killed he father-in-law. Exiled from his community, Ixion is driven mad with guilt, until Zeus eventually takes pity on him and brings him up to Mount Olympus to join the gods.
 
@@ -73,7 +77,7 @@ Envy, jealousy, and hate render alike those they possess, but in our world peopl
 
 (All quotes in this article are from René Girard unless explicitly noted otherwise.)
 
-Inevitably, this talk of mimesis and imitation has strong [The Secret of our Success](https://www.google.com/url?q=https://slatestarcodex.com/2019/06/04/book-review-the-secret-of-our-success/&sa=D&source=editors&ust=1770366183948532&usg=AOvVaw3kbXymTK5O0VcgfjVCO15n) vibes. There, though, imitation is certainly a good thing, allowing humans to accomplish collectively what could never be done individually. Girard, thankfully, does not want us to discard mimesis altogether:
+Inevitably, this talk of mimesis and imitation has strong [The Secret of our Success](https://slatestarcodex.com/2019/06/04/book-review-the-secret-of-our-success/) vibes. There, though, imitation is certainly a good thing, allowing humans to accomplish collectively what could never be done individually. Girard, thankfully, does not want us to discard mimesis altogether:
 
 Even if the mimetic nature of human desire is responsible for most of the violent acts that distress us, we should not conclude that mimetic desire is bad in itself. If our desires were not mimetic, they would be forever fixed on predetermined objects; they would be a particular form of instinct. Human beings could no more change their desire than cows their appetite for grass. Without mimetic desire there would be neither freedom nor humanity. Mimetic desire is intrinsically good.
 
@@ -183,7 +187,7 @@ One question prickles: if Christianity—the concern for victims—is a powerful
 
 The concern for victims has become a paradoxical competition of mimetic rivalries, of opponents continually trying to outbid one another.
 
-“[Looks like scapegoating’s back on the menu, boys!](https://www.google.com/url?q=https://www.youtube.com/watch?v%3DufFOghMt1yI&sa=D&source=editors&ust=1770366183975876&usg=AOvVaw1Gqj09xKIhx-y0ea2fhats)”
+“[Looks like scapegoating’s back on the menu, boys!](https://www.youtube.com/watch?v=ufFOghMt1yI)”
 
 At this point Girard becomes eminently quotable, and I really have very little to add. Most of the quotes below are taken from Chapter 13, “The Modern Concern for Victims”. I remind you that he’s writing in 2001, and died in 2015.
 

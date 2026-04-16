@@ -1,22 +1,16 @@
 ---
-title: >-
-  Wonderful Life: The Burgess Shale and the Nature of Historyby Stephen Jay
-  Gould
-author: Unknown
-reviewAuthor: Anonymous
-contestId: 2024-book-reviews
-contestName: 2024 Book Reviews
+title: "Wonderful Life: The Burgess Shale and the Nature of History by Stephen Jay Gould"
+author: "Unknown"
+reviewAuthor: "Anonymous"
+contestId: "2024-book-reviews"
+contestName: "2024 Book Reviews"
 year: 2024
-publishedDate: '2026-02-06T16:49:50.824Z'
-slug: wonderful-life-the-burgess-shale-and-the-nature-of-historyby-stephen-jay-gould
-wordCount: 3853
+publishedDate: "2024-01-01T00:00:00.000Z"
+slug: "wonderful-life-the-burgess-shale-and-the-nature-of-history-by-stephen-jay-gould"
+wordCount: 3862
 readingTimeMinutes: 18
-originalUrl: >-
-  https://docs.google.com/document/d/1Ki5XsE0jkxZtd2XAeyTAJw1ZjLh2Cu-matUYKAhA6-s
-source: gdoc
-tags:
-  - Biology
-  - Science
+originalUrl: "https://docs.google.com/document/d/1Ki5XsE0jkxZtd2XAeyTAJw1ZjLh2Cu-matUYKAhA6-s"
+source: "gdoc"
 ---
 
 Stephen Jay Gould thought we were telling stories wrong.
@@ -65,13 +59,19 @@ Gould makes good use of images as he adapts popular understanding of evolution t
 
 For example, we’re all familiar with some version of this image, the evolution of man – a clear depiction of progress as man goes from a hunched primate to a strong, upright, and modern man.
 
+![](https://acximages.ennals.org/images/2024-book-reviews/4c847fdfe2dbb24b.png)
+
 And that image, Gould points out, is part of a larger narrative about evolution, which he calls the cone of increasing diversity, the idea that today’s life is the result of billions of years of progressive complexity.
+
+![](https://acximages.ennals.org/images/2024-book-reviews/6b01f10dfb786646.png)
 
 The problem is it’s classic survivor’s bias. We’re forgetting all the losers, those branches that go nowhere, many of which were perfectly well-adapted at one point to their environment and had captivating, complex designs of their own.
 
 Gould points out that “that the vast majority of “simpler” creatures are not human ancestors or even prototypes, but only collateral branches on life’s tree.”
 
 I’m surprised Gould even wavers between ‘tree’ and ‘bush.’ It’s clearly a bush! A vast chaotic network of branches with the greatest diversity either toward the bottom or at other major nodes that looks more like this.
+
+![](https://acximages.ennals.org/images/2024-book-reviews/2ed50e91d0bd8d56.jpg)
 
 As of now, there are thirty-two or so living phyla, “the fundamental ground plans for anatomy.” Among animals, they include anthropods (insects, spiders, lobsters), mollusks (clams, snails, squid), and our own glorious phyla, the chordate.
 
@@ -91,7 +91,11 @@ First, these creatures are weird as hell.
 
 Fauna today fit into basic anatomical designs (again called phyla) and there are rules about what those designs contain. Most of the Burgess creatures follow none of these rules. Here is the aptly named Hallucigenia.
 
+![](https://acximages.ennals.org/images/2024-book-reviews/16ac5be6f43de105.jpg)
+
 This is Dinomischus. Part cue-tip, part flower (but not actually at all), that lived in open waters. See that opening at the top? That’s its mouth and anus!
+
+![](https://acximages.ennals.org/images/2024-book-reviews/e99da1cedbde5c59.png)
 
 I realize I’m just a layman and it’s of no particular value that I think these fauna look like freaks. But the scientists who studied these fossils also thought they were freaks, and unlikely to be the precursors of anything living today.
 
@@ -101,13 +105,19 @@ The second thing Gould gets across is that, while the Burgess Shale was filled w
 
 This is a crustacean. And, yeah, it looks like a pretty normal crustacean.
 
+![](https://acximages.ennals.org/images/2024-book-reviews/2b4cdecc48e7cc41.jpg)
+
 Gould writes that the “The Burgess fauna contains both ordinary and unique anatomies in abundance.” Here’s a nice image of the Burgess fauna, teeming with both extinct designs and prototypes of modern ones.
+
+![](https://acximages.ennals.org/images/2024-book-reviews/67a6a5bf5114e208.jpg)
 
 But the prototypes of modern phyla weren’t particularly special within the burgess shale. They weren’t overrepresented. There’s no good reason to pick them as the eventual winners. They’re just there.
 
 It’s a cliche, but it bears repeating because it so deeply contradicts what our brains want to believe. Just as Earth is the third rock from the Sun, an unremarkable star in a nondescript exurb of a completely garden-variety galaxy, chordates and the other prototypes of survivors in the Burgess fossils were once one of many phyla in a post-Cambrian explosion planet with vastly more anatomical diversity than exists today.
 
 Gould makes the point, repeatedly, that the extinct designs were perfectly functional. This is Wiwaxia, which crawled on the sea floor while warding off predators with spikes. It’s not some primitive failed experiment but “a complete working organism – a herbivore or omnivore, living on small items of food...on the sea floor.”
+
+![](https://acximages.ennals.org/images/2024-book-reviews/d634a86f09a0f6ea.jpg)
 
 So why didn’t its progeny survive? It’s not like we know precisely. But probably just bad luck.
 
@@ -207,7 +217,7 @@ They are at least as common as the big forces.
 
 Most of my nonfiction reading is on relatively modern political events and not natural history. So where Gould stops, the arrival of Homo Sapiens, I’ll posit some counterfactuals. Here are three, in my opinion, plausible ones, contingencies of little importance at the time that changed the course of history.
 
-1.  China adopts a small alphabet and Europe adopts a large one. This is one of those quirks of history, a small thing that mattered only much later. Movable type actually was invented about [400 years earlier](https://en.wikipedia.org/wiki/Movable_type)in China than Europe, but the super long alphabet made it not very functional. Say Europe got the long alphabet and China got the short one. Knowledge spreads faster in China for hundreds of years, giving it that critical edge as the world moves into the 1500s. Are the Americas colonized from the East, spurring an age of East Asian wealth extraction and knowledge revolution that sets the post-Middle Ages stage of history in motion? Is Western Europe today, and much of the rest of the world, just crawling out from under the yoke of 500 years of East Asian, rather than Western European, domination?
+1.  China adopts a small alphabet and Europe adopts a large one. This is one of those quirks of history, a small thing that mattered only much later. Movable type actually was invented about [400 years earlier](https://en.wikipedia.org/wiki/Movable_type) in China than Europe, but the super long alphabet made it not very functional. Say Europe got the long alphabet and China got the short one. Knowledge spreads faster in China for hundreds of years, giving it that critical edge as the world moves into the 1500s. Are the Americas colonized from the East, spurring an age of East Asian wealth extraction and knowledge revolution that sets the post-Middle Ages stage of history in motion? Is Western Europe today, and much of the rest of the world, just crawling out from under the yoke of 500 years of East Asian, rather than Western European, domination?
 2.  Napoleon isn’t born. Does some version of the Louisiana Purchase happen? Sure, probably. Revolutions tend to be the kind of thing that forces you to sell some assets for a song. Does The French Revolution spill over into some sort of European continental war? I buy it, revolutions tend to go that way. But, still, Napoleon is such a singular figure. Without him, that war doesn’t reach Russia’s border. And, with that gone, so goes a good chunk of Russia’s 19th century national mythology (and all the best books 😔), Russian self-image as they battled the Nazis (if there are Nazis, in our hypothetical second timeline), a good chunk of Britain’s 19th century foreign policy, and the workings of thirty years of continental Europe’s failed attempts to balance powers against the rising forces of liberalism. History without him just seems very, very different.
 3.  In 1980, Ronald Reagan, as mercurial a president as any in history save Donald Trump, picks another member from his [short list](https://www.washingtonpost.com/archive/politics/1980/07/10/reagan-would-rather-go-it-alone-but-choose-he-must/746c9719-db7a-4161-8398-3629ebd8f748/), Donald Rumsfeld, for vice president in lieu of George H.W. Bush. In 1988, Rumsfeld is elected president (he considered running, in the timeline you’re reading this in). And the Cold War winds down with the chest-thumping, bellicose Rumsfeld as president, rather than prudent Bush. Does America go to war with the falling Soviet Union? It’s possible. Does America march into Baghdad and topple Saddam in the first Gulf War in 1991? Oh, absolutely. I mean, Rumsfeld did it – or, more precisely, was one of three or four central players – the first chance he got 10 years later.  
       

@@ -7,7 +7,7 @@ contestName: 2025 Non Book Reviews
 year: 2025
 publishedDate: '2026-02-06T16:52:48.891Z'
 slug: dating-apps-the-misery-engine
-wordCount: 6539
+wordCount: 6540
 readingTimeMinutes: 30
 originalUrl: >-
   https://docs.google.com/document/d/1d0vRSj1E93joWWvbUen2XGuDjN_mM94ybMIAADzM2fo
@@ -57,6 +57,8 @@ The massively increased quantity of apps doesn’t help the situation either. In
 So obviously dating apps aren’t free. How are they getting your money? There’s a few ways that basically all of them use now (to a degree this may be because Match Group owns them all, but even the non-Match Group ones use them too).
 
 The first and most ubiquitous is the subscription plan. Let’s look at [the Hinge plans](https://help.hinge.co/hc/en-us/articles/38014282744595-Subscription-and-Purchase-Benefits), as an example:
+
+![](https://acximages.ennals.org/images/2025-non-book-reviews/18736be5edef9361.png)
 
 HingeX is $50 monthly, and the breakdown for Tinder features and cost for the highest tier is similar[3]. If you just want unlimited likes via Hinge+, pretty much the bare minimum you need as a male user to even be able to use the app, that runs around 30 dollars monthly.
 

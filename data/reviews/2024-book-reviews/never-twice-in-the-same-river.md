@@ -7,7 +7,7 @@ contestName: 2024 Book Reviews
 year: 2024
 publishedDate: '2026-02-06T16:48:20.710Z'
 slug: never-twice-in-the-same-river
-wordCount: 5179
+wordCount: 5187
 readingTimeMinutes: 24
 originalUrl: >-
   https://docs.google.com/document/d/1cp6iw5OEyDjnD_viZo-KL0Zv4jwQnMXtE4yIovfVAco
@@ -19,7 +19,9 @@ tags:
 
 Höcke and the AfD
 
-[Björn Höcke](https://de.wikipedia.org/wiki/Bj%C3%B6rn_H%C3%B6cke) is the [fascist](https://www.spiegel.de/politik/deutschland/bjoern-hoecke-darf-als-faschist-bezeichnet-werden-gerichtsurteil-zu-eisenach-a-1289131.html), [nazi](https://taz.de/Verfahren-wegen-Beleidigung-eingestellt/!5968418/)[de facto leader](https://www.spiegel.de/politik/deutschland/bjoern-hoecke-der-wahre-chef-der-afd-a-60b3ae03-8db5-43f8-b2e8-9a00c7b5471f) of the [anti-democratic](https://www.cicero.de/innenpolitik/afd-bjoern-hoecke-alexander-gauland-demokratie), [far-right extremist party](https://www.tagesschau.de/inland/afd-bericht-gutachten-verfassungsschutz-100.html) “AfD” (Alternative für Deutschland/Alternative for Germany) in Germany. At least if you believe media representatives, politicians of other parties, the domestic intelligence service, and courts around the country. This should be rather concerning given that the AfD has steadily become stronger since its inception and is currently standing at slightly below 20% in national polls, which makes it the second strongest party.
+[Björn Höcke](https://de.wikipedia.org/wiki/Bj%C3%B6rn_H%C3%B6cke) is the [fascist](https://www.spiegel.de/politik/deutschland/bjoern-hoecke-darf-als-faschist-bezeichnet-werden-gerichtsurteil-zu-eisenach-a-1289131.html), [nazi](https://taz.de/Verfahren-wegen-Beleidigung-eingestellt/!5968418/) [de facto leader](https://www.spiegel.de/politik/deutschland/bjoern-hoecke-der-wahre-chef-der-afd-a-60b3ae03-8db5-43f8-b2e8-9a00c7b5471f) of the [anti-democratic](https://www.cicero.de/innenpolitik/afd-bjoern-hoecke-alexander-gauland-demokratie), [far-right extremist party](https://www.tagesschau.de/inland/afd-bericht-gutachten-verfassungsschutz-100.html) “AfD” (Alternative für Deutschland/Alternative for Germany) in Germany. At least if you believe media representatives, politicians of other parties, the domestic intelligence service, and courts around the country. This should be rather concerning given that the AfD has steadily become stronger since its inception and is currently standing at slightly below 20% in national polls, which makes it the second strongest party.
+
+![](https://acximages.ennals.org/images/2024-book-reviews/3d7594d8a509fc5d.png)
 
 Source: INSA
 
@@ -27,9 +29,13 @@ In some east German states, notably Thuringia, the state for which Höcke aims t
 
 However, media reporting on Höcke and the AfD may not be entirely even-handed and objective. A recent [study](https://www.researchgate.net/publication/377721606_Fehlt_da_was_Perspektivenvielfalt_in_den_offentlich-rechtlichen_Nachrichtenformaten) analyzed the content of both private and public news formats concerning the treatment of different parties. As you can see, reporting is almost universally negative.[[245]](#ftnt245) But maybe the AfD is simply horrible and deserves all the bad press it gets?
 
+![](https://acximages.ennals.org/images/2024-book-reviews/d3854cb01d00b083.png)
+
 Content analysis of public media (left) and private media (right)
 
 A recent example of such negative reporting was a CORRECTIV report about a secret meeting of far-right individuals, including AfD members, in Potsdam, who planned “[forced deportations of people from Germany based on a set of racist criteria, regardless of whether or not they have German citizenship](https://correctiv.org/en/top-stories/2024/01/15/secret-plan-against-germany/)”.[[246]](#ftnt246) These accusations were widely circulated within German media. At the same time as the report came out, even a [theater production](https://youtu.be/kJMQODymCsQ?t=1144) was performed to spread the message! All of this led to protests of millions of citizens across multiple German cities.
+
+![](https://acximages.ennals.org/images/2024-book-reviews/fb449002ae8797e9.jpg)![](https://acximages.ennals.org/images/2024-book-reviews/4b3d9359d2312df6.jpg)
 
 It is not in question that this meeting took place and that the “remigration” of non-assimilated individuals with German citizenship, as well as the expulsion of refugees to safe countries, have been discussed. However, there are good reasons to believe that this remigration does NOT include deportation, i.e. the extra-legal expulsion of citizens through violent means. Instead, Martin Sellner, the main speaker at the meeting, demands the formation of a “Leitkultur” (main culture) in addition to a set of incentives with the aim of getting non-assimilated migrants with German citizenship to leave the country voluntarily. You can watch a reenactment of Sellner’s presentation [here](https://rumble.com/v46t93k-mslive-livestream.html). Sellner very clearly denies that he called for deportations of German citizens. Meanwhile, CORRECTIV has rowed back by stating that they never used the word “[Deportation](https://twitter.com/hori_____zont/status/1751675275002192195)” to describe what was promoted by Sellner. The difference between deportation and remigration as defined by Sellner is crucial. Whereas the former is clearly unconstitutional and morally repugnant, the latter is not.
 
@@ -47,11 +53,17 @@ You could interpret this as “Germany should no longer remember its past misdee
 
 Before I start the review proper, I want to present a short overview of the current migrant situation in Germany. This has two reasons. Firstly, I want to convince you that the migrant crisis is one of the most significant problems Germany will face this century. Dealing with this crisis is the AfD’s raison d'être. Secondly, I want to be transparent and give you a context for my own views, so you can properly interpret my assessment of Höcke’s book. Since around 15 years, net migration has exploded in Germany.
 
+![](https://acximages.ennals.org/images/2024-book-reviews/18bc03380aaecd58.png)
+
 Net migration in Germany
 
 Most notable are the Syrian refugee crisis of 2015 and the current Ukraine crisis of 2022. As you can see from the following figure, Germany took in the most refugees from the 2015 crisis. Of course, Germany is a populous country with a strong economy, but comparing our intake with the UK, France, and Italy shows that we took in a lot of people even after accounting for these variables.
 
+![](https://acximages.ennals.org/images/2024-book-reviews/6f88b11fecdff62d.png)
+
 There are, in my view, two main reasons for why refugees came to Germany. Firstly, because Germany has a rather comfortable welfare system and secondly, because Angela Merkel, the former German Chancellor, literally asked for it. As a consequence of this migration policy mixed with past migration and relatively low native birth rates (1.36 (native) vs. 1.88 (non-native) per woman), the native population in Germany is gradually getting replaced. Consider the figure below, which shows the amount of individuals living in Germany by migrant background and age.[[248]](#ftnt248) Whereas only about 10% of retired people have a migration background, about 40% of children do.
+
+![](https://acximages.ennals.org/images/2024-book-reviews/bdbaedb43d0afb2d.jpg)
 
 Individuals with migration background (green) compared to the overall population by age (2020)
 
@@ -61,7 +73,7 @@ It does not take a genius to figure out how this situation will develop if nothi
 
 Ok fine, Germany is getting more colorful, so what? What’s the problem?
 
-I’ll keep it short. The problem is that the average migrant, especially among the latest set of migrants, has lower cognitive abilities, greater rates of criminality, and greater rates of unemployment. Furthermore, the subset of Muslim migrants often holds values that are incompatible with secular German values, is often anti-semitic, and engages in “ethnic voting”. Each of these claims could fill an entire post, so I will simply leave you with the most well-known German [wrongthink](https://www.langenmueller.de/seiten/autorendetails/?no_cache=1&tx_autorio_autorioextension%5BAutor%5D=Sarrazin%2C%20Thilo&tx_autorio_autorioextension%5BAutorRecord%5D=208084&tx_autorio_autorioextension%5Baction%5D=show&tx_autorio_autorioextension%5Bcontroller%5D=Autor) on the matter. Our establishment parties react to these problems by pouring oil on the fire. For example, they want to reduce the burdens for refugees to receive German citizenship. Now, with all this in mind,will Höcke and his AfD bring the solution to this problem? And if so, at what cost?
+I’ll keep it short. The problem is that the average migrant, especially among the latest set of migrants, has lower cognitive abilities, greater rates of criminality, and greater rates of unemployment. Furthermore, the subset of Muslim migrants often holds values that are incompatible with secular German values, is often anti-semitic, and engages in “ethnic voting”. Each of these claims could fill an entire post, so I will simply leave you with the most well-known German [wrongthink](https://www.langenmueller.de/seiten/autorendetails/?no_cache=1&tx_autorio_autorioextension%5BAutor%5D=Sarrazin%2C%20Thilo&tx_autorio_autorioextension%5BAutorRecord%5D=208084&tx_autorio_autorioextension%5Baction%5D=show&tx_autorio_autorioextension%5Bcontroller%5D=Autor) on the matter. Our establishment parties react to these problems by pouring oil on the fire. For example, they want to reduce the burdens for refugees to receive German citizenship. Now, with all this in mind, will Höcke and his AfD bring the solution to this problem? And if so, at what cost?
 
 ## A brief history of Höcke
 
@@ -81,7 +93,7 @@ For a book that’s supposed to lay out Höcke’s political and philosophical v
 
 The book mostly follows a basic scheme. The interviewer broaches a topic and Höcke answers vaguely and superficially, while usually citing some (often German) poet, statesman, or philosopher. The interviewer then returns a token criticism, which Höcke answers by citing some other poet, statesman, or philosopher. Take for example the passage, in which Höcke explains the title of the book.
 
-“Did your father lay the foundation for a romantic world view?
+“Did your father lay the foundation for a romantic world view? 
 
 My father not only stimulated my imagination, but also my critical thinking. Because we are on the Rhine, looking at the majestic river gave me two very important insights: Firstly, the Heraclitian saying that you cannot step into the same river twice and that it is therefore an impossible undertaking to repeat past conditions, secondly the steadiness of flowing water, which cannot be stopped by human power, which is why a propagated »end of history« can only represent evidence of human hubris. In politics, these insights saved me from a naive belief in feasibility, but without slipping into paralyzing fatalism. We humans are not omnipotent in this world, but we are not powerless either.
 
@@ -136,7 +148,7 @@ I also found some exculpatory evidence regarding the Fascism allegations that I 
 
 “My opponents interpreted this as if instead of officially condemning the Third Reich I was now demanding its glorification. This is of course wrong. Of course we must not close our eyes to the mistakes and crimes of the Nazi era. But no man and no people can build their selfconfidence only on negative references. The light sides of the story form the core of the identity without denying the dark sides that are also present.
 
-So it wasn't about reversing the standard of evaluation for you?
+So it wasn't about reversing the standard of evaluation for you? 
 
 No, even if I was maliciously accused of it again and again. I was merely pleading for a review of our approach to self-encountering as a people and a nation. Instead of allowing ourselves to be ruled solely by the stressful features that make us ill in the long term, we should feel at least as committed to the healing aspects of our history - but above all not constantly discrediting them with the others. This has mainly to do with self-respect, without which one cannot expect respect from third parties. How can one blame a person when he loses his respect for someone who continually degrades himself below his commonly felt worth?”
 

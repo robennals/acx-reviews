@@ -7,7 +7,7 @@ contestName: 2022 Book Reviews
 year: 2022
 publishedDate: '2026-02-06T07:24:08.688Z'
 slug: a-swim-in-a-pond-in-the-rain-by-george-saunders
-wordCount: 1518
+wordCount: 1520
 readingTimeMinutes: 7
 originalUrl: >-
   https://docs.google.com/document/d/1pRQbRbEUwSH_jm94PI_ij-88swat7vQ4iNaNp6gd39g
@@ -20,9 +20,9 @@ Shit. What a story!
 
 Why are some stories, movies, blog posts or e-mails better than the others?
 
-[George Saunders](https://www.google.com/url?q=https://en.wikipedia.org/wiki/George_Saunders&sa=D&source=editors&ust=1770366232910807&usg=AOvVaw2X5IFCmabH_0eC37FVaIBF) teaches creative writing at Syracuse University for over two decades. [A Swim in a Pond in the Rain](https://www.google.com/url?q=https://www.goodreads.com/book/show/53487237-a-swim-in-a-pond-in-the-rain&sa=D&source=editors&ust=1770366232910965&usg=AOvVaw3ntxEtbldjcKFv3uWmWpxy) (Goodreads: 4.57, 7.8k ratings) was published in 2021 and is about four Russians (Chekhov, Turgenev, Tolstoy and Gogol) giving “a master class on writing, reading, and life.”
+[George Saunders](https://en.wikipedia.org/wiki/George_Saunders) teaches creative writing at Syracuse University for over two decades. [A Swim in a Pond in the Rain](https://www.goodreads.com/book/show/53487237-a-swim-in-a-pond-in-the-rain) (Goodreads: 4.57, 7.8k ratings) was published in 2021 and is about four Russians (Chekhov, Turgenev, Tolstoy and Gogol) giving “a master class on writing, reading, and life.”
 
-Saunders practises what he teaches; he has won several awards for his short stories and is also a winner of prestigious Booker Prize for his 2017 debut novel [Lincoln in the Bardo](https://www.google.com/url?q=https://www.goodreads.com/book/show/29906980-lincoln-in-the-bardo&sa=D&source=editors&ust=1770366232911368&usg=AOvVaw3fsqVDSI_ZOC2_2lK2rz8j).
+Saunders practises what he teaches; he has won several awards for his short stories and is also a winner of prestigious Booker Prize for his 2017 debut novel [Lincoln in the Bardo](https://www.goodreads.com/book/show/29906980-lincoln-in-the-bardo).
 
 ### Who should read it?
 
@@ -32,6 +32,8 @@ Everyone who would like:
 *   to learn about the art of writing,
 *   to get an expert insight of why and how good stories work and
 *   to read and watch better.
+
+![](https://acximages.ennals.org/images/2022-book-reviews/0ea15e27597bb7e8.png)
 
 ### Top 3 takeaways
 
@@ -48,6 +50,8 @@ Revision, precision and years of f\*cking hard work. This is what it takes. Ok, 
 My interpretation in a nutshell: A good story has well developed patterns, an intelligent causality and is always escalating.
 
 If you’d set out to visualise this, you take Freytag’s pyramid as a base, ok, and then you show everyone you are no good in drawing by adding patterns and causality.
+
+![](https://acximages.ennals.org/images/2022-book-reviews/7685f236f66c3bc9.png)
 
 Freytag’s pyramid (1900) with additions.
 
@@ -122,7 +126,7 @@ This is his voice and I find it beautiful. Short and it makes me want to see the
 
 This was a powerful; I already re-read a couple of the stories. I am not gonna lie, I did not like all of them first time. What helped me appreciate them more was when Saunders took me backstage, “Look there, do you see? This is why and this is how.” Sound structure and beautiful design.
 
-As instructed I went and compared two stories from Tolstoy to see what 39 years of working on your craft does. And, my God, it does.[1](https://www.google.com/url?q=https://eightyfour.substack.com/%23footnote-1&sa=D&source=editors&ust=1770366232919134&usg=AOvVaw1XeGfwU--S-Lq6opO2TvOJ)
+As instructed I went and compared two stories from Tolstoy to see what 39 years of working on your craft does. And, my God, it does.[1](https://eightyfour.substack.com/#footnote-1)
 
 For my own writing:
 

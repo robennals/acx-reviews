@@ -16,7 +16,7 @@ tags:
   - History
 ---
 
-Your fields ground to mud by war machines, your home long plundered by roving bandits, your friends and family long dead of plague, you have no choice but to join the same armies that destroyed your village for a scrap of food. It seems like the world is ending, but you aren’t bothered. You know that any catastrophic event is part of a broader cycle, and the destruction you see now will eventually result in a society with greater farm acreages and less hierarchical power structures. Granted, this new society will eventually develop until it collapses under its own weight, just like your own is now. But that is the price to pay for civilization. All individual humans can hope to do is enjoy the ride. You are able to adopt this surprisingly blasé worldview because you have read Secular Cycles, by Peter Turchin and Sergey Nefedov (or at least the [SSC review](https://www.google.com/url?q=https://slatestarcodex.com/2019/08/12/book-review-secular-cycles/&sa=D&source=editors&ust=1770366233179431&usg=AOvVaw3bB74zeIBhRibCA2TMbjwt)).
+Your fields ground to mud by war machines, your home long plundered by roving bandits, your friends and family long dead of plague, you have no choice but to join the same armies that destroyed your village for a scrap of food. It seems like the world is ending, but you aren’t bothered. You know that any catastrophic event is part of a broader cycle, and the destruction you see now will eventually result in a society with greater farm acreages and less hierarchical power structures. Granted, this new society will eventually develop until it collapses under its own weight, just like your own is now. But that is the price to pay for civilization. All individual humans can hope to do is enjoy the ride. You are able to adopt this surprisingly blasé worldview because you have read Secular Cycles, by Peter Turchin and Sergey Nefedov (or at least the [SSC review](https://slatestarcodex.com/2019/08/12/book-review-secular-cycles/)).
 
 You might find this a little unrelatable. Sorry. After reading Autumn in the Heavenly Kingdom, 300 pages of people reacting in unrelatable ways to civilizational collapses, I may have lost my touch.
 
@@ -42,7 +42,7 @@ Let’s take a break! How would you do on the imperial examination? Here are som
 
 3.       Make sure to write using perfect prose and handwriting. Also, maintain your mental sharpness, since you have to do this for 60 hours straight.
 
-Stop whatever you are doing right now and pick up your calligraphy brush. These questions are excerpts from the 1904 metropolitan exam, held every three years in the capital. (Translation by [Bofeng Hu](https://www.google.com/url?q=https://www.quora.com/profile/Bofeng-Hu-3&sa=D&source=editors&ust=1770366233185050&usg=AOvVaw3i8bDH4xbxWdmWWn67QpZn))[2]
+Stop whatever you are doing right now and pick up your calligraphy brush. These questions are excerpts from the 1904 metropolitan exam, held every three years in the capital. (Translation by [Bofeng Hu](https://www.quora.com/profile/Bofeng-Hu-3))[2]
 
 1.       From the history section:
 
@@ -98,6 +98,6 @@ Ultimately that ominous statement is what stuck with me from the book. To the Br
 
 [1] The information in these paragraphs mostly comes from Peasant Life and Social Change in Northern China by Huang, which serves as a useful quantitative context for Autumn.
 
-[2] I tried to find some sort of official academic source for the exam questions, but the absolute best I could find were translated by someone named Bofeng Hu on Quora who clearly has a fair amount of knowledge on classical Chinese. Silly, I know. Whoever you are, thank you. I would suggest [looking at them](https://www.google.com/url?q=https://www.quora.com/What-types-of-questions-were-asked-on-Imperial-Examinations-during-the-Song-Dynasty&sa=D&source=editors&ust=1770366233197600&usg=AOvVaw36-AwPyU3iEpZPeW0VUHkR) for yourself, because they include a fair amount of context that I stripped out.
+[2] I tried to find some sort of official academic source for the exam questions, but the absolute best I could find were translated by someone named Bofeng Hu on Quora who clearly has a fair amount of knowledge on classical Chinese. Silly, I know. Whoever you are, thank you. I would suggest [looking at them](https://www.quora.com/What-types-of-questions-were-asked-on-Imperial-Examinations-during-the-Song-Dynasty) for yourself, because they include a fair amount of context that I stripped out.
 
 * * *

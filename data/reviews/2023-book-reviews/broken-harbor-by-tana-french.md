@@ -1,5 +1,5 @@
 ---
-title: "Broken Harbor\_by Tana French"
+title: Broken Harbor by Tana French
 author: Unknown
 reviewAuthor: Anonymous
 contestId: 2023-book-reviews
@@ -7,7 +7,7 @@ contestName: 2023 Book Reviews
 year: 2023
 publishedDate: '2026-02-06T07:21:10.024Z'
 slug: broken-harbor-by-tana-french
-wordCount: 3064
+wordCount: 3066
 readingTimeMinutes: 14
 originalUrl: >-
   https://docs.google.com/document/d/10CiEI7aDL2bMIdx7yayy3vlq0TJ8dO5LGnG7yIDPiw8
@@ -30,7 +30,7 @@ Broken Harbor by Tana French is a book-length version of this riddle. The polic
 
 I’ve given away the answer, of course. It’s the mom. The amazing thing is, French also gives away the answer in the first chapter when the lead detective tells his partner, “The fact that [the mother] survived puts her front and center.” The detective proceeds to merrily ignore this fact and pursue every other unlikely lead for the rest of the book, right up until the end.
 
-The book works precisely because both the detectives and the readers find the idea of the mother being the murderer so improbable. There is no need for a large cast of suspects or a trail of red herrings. The real answer is so cruel that, no matter what Sherlock Holmes [taught](https://www.google.com/url?q=https://www.goodreads.com/quotes/1196-when-you-have-eliminated-all-which-is-impossible-then-whatever&sa=D&source=editors&ust=1770366050065972&usg=AOvVaw19Eqoke-TQ0ZlvjFSDtwlI) us, even after eliminating the impossible, we can’t look straight at the improbable truth.
+The book works precisely because both the detectives and the readers find the idea of the mother being the murderer so improbable. There is no need for a large cast of suspects or a trail of red herrings. The real answer is so cruel that, no matter what Sherlock Holmes [taught](https://www.goodreads.com/quotes/1196-when-you-have-eliminated-all-which-is-impossible-then-whatever) us, even after eliminating the impossible, we can’t look straight at the improbable truth.
 
 The real villain in this book is the idea that, no matter how blamelessly you live, something “clawed and simian” might randomly hook onto you and follow you back home. Patrick and Jennifer Spain lived a picture-perfect life. Individually, they were both popular and kind. Together, they were high-school sweethearts still in love after many years. They did all the right things: created a lovely home, had two sweet children, treated each other well. Yet, they were destroyed by a barbaric monster that rose out of the ocean: the 2008 recession.
 
@@ -50,7 +50,9 @@ At this point, after having thoroughly spoiled the story for you, let me beg for
 
 ## Gone Girl, come back
 
-Gone Girl (2012) was the biggest thing to happen to suspense books in the last decade. Gone Girl was so big that it was released as a David Fincher (director of Fight Club) and Ben Affleck (actor in Dunkin Donuts commercial) blockbuster movie a mere two years after publication. Gone Girl was so big that its author hasn’t written another novel since. Gone Girl was so big that it is now a [cruise theme](https://www.google.com/url?q=https://www.youtube.com/watch?v%3DA7NBW13ANI8&sa=D&source=editors&ust=1770366050069718&usg=AOvVaw3K4F7Cy-ZkViKdAowXCR-q). Gone Girl was so big that there is now a whole genre of books that sound like it:
+Gone Girl (2012) was the biggest thing to happen to suspense books in the last decade. Gone Girl was so big that it was released as a David Fincher (director of Fight Club) and Ben Affleck (actor in Dunkin Donuts commercial) blockbuster movie a mere two years after publication. Gone Girl was so big that its author hasn’t written another novel since. Gone Girl was so big that it is now a [cruise theme](https://www.youtube.com/watch?v=A7NBW13ANI8). Gone Girl was so big that there is now a whole genre of books that sound like it:
+
+![](https://acximages.ennals.org/images/2023-book-reviews/8fd9110252283612.jpg)
 
 The original is in the top-left. I’m ashamed to admit I’ve read all of these.
 
@@ -60,7 +62,7 @@ Both books feature married couples who are incredibly compatible and in love wit
 
 Broken Harbor is better because it is operating on a higher level of difficulty. Unlike Gone Girl’s couple, the Spains have kids and the two tots are an integral part of the story. The readers see their autopsy, the supporting characters mourn the loss of their unique relationships with each child, and Jennifer Spain’s motive stems from her kids’ experiences. Broken Harbor pulls off the difficult trick of creating an interesting plot with both kids and parents involved. This is impressive because usually kids and parents mutually make each other's lives less interesting and more stable. There is a reason protagonists in fantasy stories are orphans; otherwise their parents would care too much to let them travel hundreds of miles with a donkey and an old man. (More precisely, writers are too lazy to come up with a good reason for their parents to say yes to this batshit idea.) There is a reason protagonists in adult contemporary fiction can always conveniently drop their child off with a babysitter or grandma or ex-wife before the end of the chapter; no one is driving anywhere exciting with an occupied car seat in the back.
 
-Broken Harbor is also better because it picks the better justification for its villain. Gone Girl’s villain has the justification of, roughly, “feminism” and “men are jerks.” The iconic [cool girl](https://www.google.com/url?q=https://www.goodreads.com/work/quotes/13306276-gone-girl&sa=D&source=editors&ust=1770366050072361&usg=AOvVaw3YCSaXGHOCFzLOWxgOm8lQ) monologue (very mild spoilers) provides a taste. This justification has the advantage that it is relatable, but is otherwise inferior in every way to Broken Harbor’s villain’s justification: “entropy wins and that sucks.”
+Broken Harbor is also better because it picks the better justification for its villain. Gone Girl’s villain has the justification of, roughly, “feminism” and “men are jerks.” The iconic [cool girl](https://www.goodreads.com/work/quotes/13306276-gone-girl) monologue (very mild spoilers) provides a taste. This justification has the advantage that it is relatable, but is otherwise inferior in every way to Broken Harbor’s villain’s justification: “entropy wins and that sucks.”
 
 Broken Harbor is littered with characters who try to impose some semblance of order upon their lives, and are defeated by life’s random vagaries. There is a group of tight-knit high school friends who hang out with each other every day and love each other to pieces, and then they grow up and apart and find it awkward to ever hang out again. There is a character who suffers a major personal blow, and so goes to enough therapy that he is able to live a good life, excelling at his job and navigating an amicable divorce, until the past that he thought he had resolved rises up again to hurt him. And of course, our central couple, who even after having been with each other for all their adult lives would “kiss when they passed in the kitchen,” are torn to shreds by the emotional and financial stress of joblessness. Side characters are not immune either: one of them, on the same day that all her immediate family is throwing up because of a stomach flu, finds out that she needs to provide urgent care to an extended family member suffering her own health crisis.
 
@@ -69,6 +71,8 @@ Over and over again, good people’s orderly lives fall apart due to sheer bad l
 ## The Bigger Short
 
 Pop quiz time: where are these cafes located?
+
+![](https://acximages.ennals.org/images/2023-book-reviews/e2b654bcad78ebcf.jpg)
 
 Answers, clockwise from top-left:
 
@@ -81,9 +85,9 @@ But if you answered that they are located in America, you are not wrong. They ar
 
 Americans are myopic. (Not you, dear reader; I’m talking about the rest of them.) Apart from occasionally comparing American social safety nets to European ones, they don’t care about the world and assume the rest of the world is returning the favor. Unfortunately, the rest of the world can’t afford that luxury. As I learned in my high school history class, “when America sneezes, the world catches a cold.” For better or for worse, the world is being dragged along by America. They stream Hollywood movies, they learn to make cold brews, they copy WeWork decor, they eat KFC, they stare at smartphones instead of talking to friends, they wear hoodies, and worst of all, they suffer for American financial crises.
 
-Broken Harbor takes place in an Irish suburb that has been devastated by the 2008 recession. A developer bought a huge plot of land in Broken Harbor and renamed the area Brianstown. All the twisting, dead-end suburban roads have names like Ocean View Rise, Ocean View Drive, and Ocean View Grove (with nary an ocean in view). The half-completed McMansion development is mostly empty, and the few families that remain stuck there have an unemployment rate of 50% and a desperation rate of 100%. The overall effect is something like the [Florida](https://www.google.com/url?q=https://www.youtube.com/watch?v%3DMesrrYyuoa4&sa=D&source=editors&ust=1770366050076583&usg=AOvVaw0308yFzLatxyKPU1zhsJ1J) scene from The Big Short (2015), but across the ocean.
+Broken Harbor takes place in an Irish suburb that has been devastated by the 2008 recession. A developer bought a huge plot of land in Broken Harbor and renamed the area Brianstown. All the twisting, dead-end suburban roads have names like Ocean View Rise, Ocean View Drive, and Ocean View Grove (with nary an ocean in view). The half-completed McMansion development is mostly empty, and the few families that remain stuck there have an unemployment rate of 50% and a desperation rate of 100%. The overall effect is something like the [Florida](https://www.youtube.com/watch?v=MesrrYyuoa4) scene from The Big Short (2015), but across the ocean.
 
-The characters are Irish, but the mood is pure American (or [universal?](https://www.google.com/url?q=https://slatestarcodex.com/2016/07/25/how-the-west-was-won/&sa=D&source=editors&ust=1770366050076857&usg=AOvVaw2DziTHjEnvmbMJ6dM3rCdM)). For example, here are the Spains talking about their decision to buy their home: “How else are we supposed to get on the property ladder? How else are we supposed to buy a decent-sized house with a garden for the kids? It’s a brilliant investment, in a few years it’ll be worth enough that we can sell it and buy somewhere in Dublin, but for now...” and “Man, do you know how fast property prices are rising? We haven’t even moved in yet, and the gaff’s already worth more than we’re paying. Any time we decide to sell, we’ll come out with a profit.”
+The characters are Irish, but the mood is pure American (or [universal?](https://slatestarcodex.com/2016/07/25/how-the-west-was-won/)). For example, here are the Spains talking about their decision to buy their home: “How else are we supposed to get on the property ladder? How else are we supposed to buy a decent-sized house with a garden for the kids? It’s a brilliant investment, in a few years it’ll be worth enough that we can sell it and buy somewhere in Dublin, but for now...” and “Man, do you know how fast property prices are rising? We haven’t even moved in yet, and the gaff’s already worth more than we’re paying. Any time we decide to sell, we’ll come out with a profit.”
 
 And then, the inevitable pop: “Only innocents think broke is made of how much you earn and how much you owe. Ask any economist: broke is made of how you feel. The credit crunch didn’t happen because people woke up any poorer than they’d been the day before; it happened because people woke up scared.” A neighbor compares the development’s half-built ruins to the other B-city America destroyed: Baghdad.
 

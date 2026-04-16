@@ -7,7 +7,7 @@ contestName: 2025 Non Book Reviews
 year: 2025
 publishedDate: '2026-02-06T16:55:59.395Z'
 slug: the-delusion-of-infinite-economic-growth
-wordCount: 1962
+wordCount: 1965
 readingTimeMinutes: 9
 originalUrl: >-
   https://docs.google.com/document/d/1jYVJFIz5-aMi0LCgsC9AN6BncJDNVGaMU37QmwZ1vzA
@@ -23,6 +23,8 @@ tags:
 2.  We acknowledge that delusional techno-optimists will respond with the argument that there may be ways to increase the limit (fracking), or to replace this resource with another with a higher limit (solar).
 3.  Regardless, exponential curves are magic, and we humans always underestimate how fast they grow. As the SA article puts it, “Exponential growth swiftly, inevitably, swamps anything in finite supply.”
 4.  And when we reach the limit, bad things happen.[1]
+
+![](https://acximages.ennals.org/images/2025-non-book-reviews/86beb132b793e6aa.png)
 
 As a techno-optimist I do indeed want to respond with the argument in (2). Putting imaginary boundaries on systems is a common systems thinking error. “Lithium battery production” isn’t the system, and so its limit is not the limit that concerns us. Our limit is the laws of physics, and the [light cone](https://en.wikipedia.org/wiki/Light_cone#In_general_relativity) they seem to restrict us to.
 
@@ -45,6 +47,8 @@ The amount of entropy we have in our bubble right now is minuscule compared to t
 
 So the only truly irreplaceable resource is negentropy. And we currently use it as part of everything we do, and the proportion of whatever activity we do that is not reversible is because of its use. The only reason future humanity won't be able to convert matter to energy (E=mc^2), use the energy for our purposes (energy is conserved), convert it back to matter (m=E/c^2), and then repeat the cycle to accomplish infinite work, is because this process increases entropy as a side effect, that is, consumes negentropy. At the end of the day, negentropy is our finite resource, and extending our technology to the limits allowed by our understanding of physics, it is our only truly non-renewable one.
 
+![](https://acximages.ennals.org/images/2025-non-book-reviews/cdfc487746673b14.png)
+
 Ok, we did a lot. Abstracting away technological growth to the physical limit, our resource is negentropy, and the limit is when we’ve condensed most of the matter in our bubble of the universe into a black hole. Since it’s hard to fathom why we would actually go all of the way there, imagine we actually have a space station orbiting our supermassive black hole, and you and I are on it. So our question becomes, how long until we are sitting on that space station, melancholic over the end of our journey of exponential economic growth?
 
 We’re still obeying the initial Scientific American/degrowth framing. Constant exponential growth for X years, up to a collapse at the limit. Now to get years, we need numbers. How much negentropy is humanity consuming, what’s the rate of growth, and what’s the limit where the negentropy reservoir of our light cone is exhausted by our consumption?
@@ -60,6 +64,8 @@ Since dS=dQ/T (the change in entropy is the amount of energy dissipated divided 
 As for how much negentropy we can potentially harvest, at the lower limit, the mass in our solar system in its maximal entropy state has about as much entropy as a black hole with its mass would have, which is an easy to calculate value given by the Bekenstein-Hawking entropy, about 10^77 k of entropy.
 
 If we take the upper limit of the entire Milky Way galaxy, we just do the same calculation using its mass. Combining both we get a limit of 10^77 - 10^101 Boltzmann constants. Quite a large range, but luckily we are going to be facing this limit off against an exponential.
+
+![](https://acximages.ennals.org/images/2025-non-book-reviews/15d2fe94d24eff99.png)
 
 What we get is that assuming our negentropy harvesting rate continues to grow by 2% year over year, we will exhaust the amount available to us in somewhere between 4,000 and 7,000 years. This doesn’t mean our negentropy consumption can’t grow for longer – after all, the light cone constantly expands. But it won’t be able to grow exponentially anymore.
 

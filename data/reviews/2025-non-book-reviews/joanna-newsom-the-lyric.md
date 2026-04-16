@@ -7,7 +7,7 @@ contestName: 2025 Non Book Reviews
 year: 2025
 publishedDate: '2026-02-06T16:57:48.927Z'
 slug: joanna-newsom-the-lyric
-wordCount: 3865
+wordCount: 3869
 readingTimeMinutes: 18
 originalUrl: >-
   https://docs.google.com/document/d/1hjIUcKi-vIM9RGRZDWPRyUtzZLlVrpaY6Jy81iZVYi4
@@ -15,6 +15,8 @@ source: gdoc
 tags:
   - Philosophy
 ---
+
+![](https://acximages.ennals.org/images/2025-non-book-reviews/e64d2fa202b8828f.png)
 
 1.  ## The Lyric
     
@@ -84,7 +86,7 @@ and we sing in the meantime,
 
 Wherever you are”
 
-Singing is a universal sign of waiting or of actions that are inevitably lost. Because when a song is done all that remains is the temporary memory of its performance. Recall in Orson Welles’ movie F is for Fake[the classic scene about Chartres cathedral](https://www.youtube.com/watch?v=p67d9F9nW2Y) and the loss and ultimate destruction of all things.
+Singing is a universal sign of waiting or of actions that are inevitably lost. Because when a song is done all that remains is the temporary memory of its performance. Recall in Orson Welles’ movie F is for Fake [the classic scene about Chartres cathedral](https://www.youtube.com/watch?v=p67d9F9nW2Y) and the loss and ultimate destruction of all things.
 
 And speaking of inevitable destruction we must come to the next track’s perspective on time.
 
@@ -127,6 +129,8 @@ An alternative interpretation of ‘the cause is Ozymandian’ is that the found
 The city, with its shifting names, forgotten peoples, rusting monuments stands as a symbol of how utterly time obscures meaning. This is a common enough theme in literature. From F is for Fake by Orson Welles, which we already saw, to [“The One Moment”](https://www.youtube.com/watch?v=QvW61K2s0tA) by OKGO. The tender idea of rejoicing
 
 “Look on my Works, ye Mighty, and despair.” And yet there are no mighty left to do the looking. Time devours indiscriminately. The good and the bad are buried side by side, and the future will not know the difference.
+
+![](https://acximages.ennals.org/images/2025-non-book-reviews/ebb5387222eb5718.jpg)
 
 Desolation, Thomas Cole 1836
 
@@ -240,5 +244,7 @@ White star, white ship–Nightjar, transmit: transcend!
 White star, white ship–Nightjar, transmit: trans
 
 [https://www.youtube.com/watch?v=PYefVGPHAE8](https://www.youtube.com/watch?v=PYefVGPHAE8)
+
+![](https://acximages.ennals.org/images/2025-non-book-reviews/02a0ca2a7245fafe.jpg)
 
 [1] I used the official lyrics sheets from the vinyl album for punctuation, line breaks, and capitalization in these lyrics. This does frequently affect the meaning. Use internet lyrics with care, my friend!

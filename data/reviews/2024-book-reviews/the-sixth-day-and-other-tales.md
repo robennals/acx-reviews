@@ -7,7 +7,7 @@ contestName: 2024 Book Reviews
 year: 2024
 publishedDate: '2026-02-06T16:49:50.815Z'
 slug: the-sixth-day-and-other-tales
-wordCount: 2341
+wordCount: 2347
 readingTimeMinutes: 11
 originalUrl: >-
   https://docs.google.com/document/d/1Ki5XsE0jkxZtd2XAeyTAJw1ZjLh2Cu-matUYKAhA6-s
@@ -19,15 +19,19 @@ tags:
 
 ## 1\. The author.
 
-I’ve sometimes talked about Primo Levi, the Italian-Jewish writer, chemist and Holocaust survivor, with men I loved. He was a violent man, one of them – a violent man himself – once told me, referring to the means of Levi’s likely suicide in 1987 – a fall down the stairs of an apartment landing in his native Torino, an industrial city not far from the French border. Another one, a climber, took me to a reading of Levi’s work. There, I first heard the short story Iron from The Periodic Table, one of Levi’s best known works,in which chemical elements give title to episodes of Levi’s life. That story, about a trip to the Alps with a childhood friend who later died in the war, made a long-lasting impression on my late teens self, for the precision of expression and for the epics that perspired from an era where feelings seemed stronger, simpler, and purer. The last and most recent guy told me, “don’t bother talking about non-American culture to an American audience.”
+I’ve sometimes talked about Primo Levi, the Italian-Jewish writer, chemist and Holocaust survivor, with men I loved. He was a violent man, one of them – a violent man himself – once told me, referring to the means of Levi’s likely suicide in 1987 – a fall down the stairs of an apartment landing in his native Torino, an industrial city not far from the French border. Another one, a climber, took me to a reading of Levi’s work. There, I first heard the short story Iron from The Periodic Table, one of Levi’s best known works, in which chemical elements give title to episodes of Levi’s life. That story, about a trip to the Alps with a childhood friend who later died in the war, made a long-lasting impression on my late teens self, for the precision of expression and for the epics that perspired from an era where feelings seemed stronger, simpler, and purer. The last and most recent guy told me, “don’t bother talking about non-American culture to an American audience.”
 
 Sorry, darling – I’m going to review The Sixth Day and Other Tales, a collection of science fiction short stories published in 1966 under the pen-name of Damiano Malabaila. The pseudonym was a precaution suggested by Levi’s publishing house, given the lesser reputation of the genre compared to that of his two previous autobiographical works on his experience in Nazi concentration camps (If This Is A Man, American edition: Survival in Auschwitz) and his adventurous return to Italy (The Truce).
+
+![](https://acximages.ennals.org/images/2024-book-reviews/c895e516b350e31c.png)
 
 The book’s original cover in the 1966 Italian edition by a Damiano Malabaila.
 
 ## 2\. A note on translation.
 
 Before setting out to write this review, I assumed the English [version](https://www.amazon.com/sixth-day-other-tales/dp/0718133323)([s](https://www.amazon.com/sixth-day-other-tales/dp/0718133323)) of the book, although perhaps a little obscure (I found no prints after 1990), would follow the Italian one. Of course, I was wrong. There are 15 stories in all the Italian editions – the latest of which was published in 2022 with mild fanfare (national darling! Re-discovered pieces! Look he also wrote sci-fi!) –, and 23 in the English one (see Additional Materials for the complete list). It turns out that the English version unifies what in Italy got published as two separate collections: The Sixth Day itself, and Vizi di Forma (“Form Defects”, 1971).
+
+![](https://acximages.ennals.org/images/2024-book-reviews/771e8f71b6032c01.jpg)
 
 The Italian 2022 edition by Einaudi, Levi’s long time publisher.
 
@@ -55,7 +59,7 @@ My millennial eyes have looked for traces of Ursula Le Guin – aren’t there d
 
 the flavor of mid-20th century international style furniture,
 
-butdifferently from the author of this Goodreads review line, I do not take it as a sign of a lesser work.
+but differently from the author of this Goodreads review line, I do not take it as a sign of a lesser work.
 
 Animal lovers and empathetic souls of all kinds will find The Sixth Day a painful read. There is, for example, a lab wolf dog
 
@@ -67,7 +71,7 @@ found agonizing, her cervix torn
 
 by a centaurus’ blind sexual appetite; manipulated dragonflies, whose collective-minded behavior serves their human master’s purpose; and many similar instances.
 
-In all this cruelty, Levi treats organic and inorganic matter with the same detached compassion. Many of the stories feature plastic interspecies exchanges, similar to those that [penetrated](https://en.wikipedia.org/wiki/Donna_Haraway)[pop culture](https://en.wikipedia.org/wiki/Titane) in recent years. Cars have genders, sex preferences, and can catch parasites (Cladonia Rapida / “Fast-Acting Cladonia”; this one is funny as Torino, where Levi lived all his life, is one of Europe’s oldest automotive industrial cities), and people’s clones have of course the same wills and troubles of their originals.
+In all this cruelty, Levi treats organic and inorganic matter with the same detached compassion. Many of the stories feature plastic interspecies exchanges, similar to those that [penetrated](https://en.wikipedia.org/wiki/Donna_Haraway) [pop culture](https://en.wikipedia.org/wiki/Titane) in recent years. Cars have genders, sex preferences, and can catch parasites (Cladonia Rapida / “Fast-Acting Cladonia”; this one is funny as Torino, where Levi lived all his life, is one of Europe’s oldest automotive industrial cities), and people’s clones have of course the same wills and troubles of their originals.
 
 Recurring characters help make the collection a coherent universe. Many of them are more than a little stereotypical: an engineer named Gilberto who in spite of
 
@@ -95,7 +99,7 @@ Some people even keep… an alive cat or dog.
 
 The title tale, The Sixth Day, in which a committee of zealous god-like technicians discusses how to design “The Human”, is one of the most enjoyable reads. The creation-of-man trope provides a familiar frame that makes the piece easy to read, and the rest is just funny. The way the creators impose all sorts of constraints over each one’s specialities reminds me of modern product design and, in particular, my TikTok darling [AI Meeting Recorder](https://www.tiktok.com/@tldv.io?_t=8m6fsNcKmdE&_r=1).
 
-I love The Versemaker (named after a ChatGPT-like machine for creative work assistance)for its play-like form and the irresistible characterization of the self-important Poet, the god-fearing but intelligent Secretary, and the comic NATCA Salesman.
+I love The Versemaker (named after a ChatGPT-like machine for creative work assistance) for its play-like form and the irresistible characterization of the self-important Poet, the god-fearing but intelligent Secretary, and the comic NATCA Salesman.
 
 Another favorite story[[23]](#ftnt23) is The Mnemogogues, where an old country doctor discovers a way to recreate memories, for the seamless way in which the absurd slips into a typical Torino countryside still life – one could almost smell the fog of the hills in autumn and take a seat in the man’s dusty office. I like the use of the sense of smell as one of a chemist’s finest tools – something that Levi relied on himself in his early professional days as a chemistry consultant. Unlike most other stories, this isn’t doom-infused, but the lingering threat given by the never explicitly mentioned addictive potential of the memory device makes it all the more unsettling.
 
@@ -103,7 +107,7 @@ Another favorite story[[23]](#ftnt23) is The Mnemogogues, where an old country
 
 Maybe it so just happens that the life I live now is connected to Levi in many forms. I too live in Torino, the city where he lived and died; I cycle past his family house on Corso Re Umberto as part of my daily commute to the city center. The places where he spent his childhood summer vacation, southwest of the city, are where I have my happiest memories with my own friends; chemistry, Levi’s lifelong occupation before becoming a full-time intellectual, is also the profession of both of my parents, who failed at instilling the subject in me but succeeded in passing one of Levi’s ethical archetypes: that of
 
-loving one's job [...] is the best concrete approximation to happiness on earth.[[24]](#ftnt24)
+loving one's job [...] is the best concrete approximation to happiness on earth.[[24]](#ftnt24) 
 
 though many people from my generation disagree.
 

@@ -7,7 +7,7 @@ contestName: 2022 Book Reviews
 year: 2022
 publishedDate: '2026-02-06T07:22:32.829Z'
 slug: the-man-who-quit-money-by-mark-sundeen
-wordCount: 8887
+wordCount: 8888
 readingTimeMinutes: 40
 originalUrl: >-
   https://docs.google.com/document/d/100kMdSVFviZSSBvUyyEQPMNlvLptVQxHFD9i9wGuBWs
@@ -337,8 +337,10 @@ Because Suelo keeps a webpage and a blog and has a Wikipedia page, I know that i
 
 In one sense, this is a failure in that he had to back on money, but I see this as a benefit to quitting money: this is exactly the sort of thing that most people wish they could do but can’t.  As with the tree sitting, Suelo’s lifestyle allowed him to be available when the need arose.
 
+![](https://acximages.ennals.org/images/2022-book-reviews/251f579b5098cc59.jpg)
+
 (I told you he was stylish.)
 
-[https://www.amazon.com/Man-Who-Quit-Money/dp/1594485690](https://www.google.com/url?q=https://www.amazon.com/Man-Who-Quit-Money/dp/1594485690&sa=D&source=editors&ust=1770366146716348&usg=AOvVaw0LkwrAWai8k7ocdorJIzTj)
+[https://www.amazon.com/Man-Who-Quit-Money/dp/1594485690](https://www.amazon.com/Man-Who-Quit-Money/dp/1594485690)
 
 * * *

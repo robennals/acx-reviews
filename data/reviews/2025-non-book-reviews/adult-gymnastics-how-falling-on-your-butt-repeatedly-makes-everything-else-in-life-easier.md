@@ -10,7 +10,7 @@ year: 2025
 publishedDate: '2026-02-06T16:52:48.886Z'
 slug: >-
   adult-gymnastics-how-falling-on-your-butt-repeatedly-makes-everything-else-in-life-easier
-wordCount: 2538
+wordCount: 2546
 readingTimeMinutes: 12
 originalUrl: >-
   https://docs.google.com/document/d/1d0vRSj1E93joWWvbUen2XGuDjN_mM94ybMIAADzM2fo
@@ -27,17 +27,23 @@ I started training and competing in gymnastics 13 years ago at age 24, and I hav
 
 Not the high bar, that’s inarguably rather high. But actually most gyms have an adjustable height bar that you can put as low as you want. In any case, I’m talking about the metaphorical bar of “how \_\_\_\_\_ you need to be to do gymnastics”. The most common response I get when I pitch people on adult gymnastics is some combination of “I’m not flexible” and “LOL I’m too weak”. I think people imagine starting gymnastics to be something like getting put up on a set of rings and being told to try to do an iron cross.
 
+![](https://acximages.ennals.org/images/2025-non-book-reviews/fbd56b5f00873087.png)
+
 This would be insane, and I agree that you likely aren’t flexible or strong enough to do that. But you also aren’t fast enough to keep up with marathon world-record-holder Kelvin Kiptum in a race or tall enough to shoot hoops with LeBron, but people don’t seem to balk at the idea of going out for a jog or joining a pickup game at the local basketball court. Similar to how you’d start running for the first time, you start gymnastics with skills, drills, and basics that are appropriate to whatever your fitness and capability levels are right now, and those exist even for very very beginner level adults. Good adult coaches can meet you where you’re at, even if where you’re at is face down on the mat. I’ve taught beginner classes to people who have literally never done a sport in their lives, and they left the class in one piece, with a smile on their face, and a desire for more (and to be fair also a fair amount of sweat and soreness).
 
 ## CrossFit, But With Less Cult and More Flips
 
 The specialized nature of most physical activities creates what you might call "fitness asymmetries." Runners develop impressive cardiovascular capacity but often neglect upper body strength. Weightlifters build impressive force production but may lack mobility. Rock climbers develop grip strength that would make a gorilla jealous but might have comparatively underdeveloped lower bodies. But gymnastics really does use pretty much every muscle in your body. The sheer variety of movements and loads you need to master if you’re training all 8 different apparatus (across all the men’s and women’s events) is pretty unmatched across other physical activities I’m aware of. The phrase “I’m sore in places I didn’t even know I had muscles” is not uncommon in the gymnastics gym! And while gymnastics doesn’t push that far into the endurance realm of things (floor routines generally don’t go longer than 90 seconds), it’s not purely anaerobic and does a good job of working strength, power, and medium length strength-endurance.
 
+![](https://acximages.ennals.org/images/2025-non-book-reviews/9ef195b687e941a2.png)
+
 Beyond just being fit for the sake of being fit, one benefit I’ve found is that being fit across many domains (upper and lower body, power/strength/endurance, balance) means that when you want to try a new physical activity, you’re generally well prepared to jump right in. So even if you end up moving to a different activity (or simply supplementing your newfound gymnastics hobby), chances are good that the fitness you’ve gained in the gym will translate well to any new sport or activity. Beyond the realm of other sports, it’s becoming increasingly clear that whole body fitness is important for increasing your “healthspan” (a term coined by Peter Attia in his book “Outlive”) - how many years you have in a body that can do most of what you want it to do. Put differently: gymnastics doesn't just make you good at gymnastics; it makes you better at being a human with a body.
 
 ## Boredom's Antidote: The Infinite Skill Tree
 
 You could replicate much of gymnastics’ physical benefits by going to the gym and lifting weights, doing plyometrics, and hitting the treadmill. The problem with that is that it’s SUPER BORING. Gymnastics, on the other hand, is like solving a physical puzzle while accidentally getting ripped. Most of the time in gymnastics you’re either trying to figure out how to get your body and brain to do what you know they need to or figuring out what you need to do in the first place. And if you get bored, frustrated, or stuck on a given skill? Lucky for you, there are thousands of other things you can work on! Even better, when you come back to the skill you paused on, the other things you’ve learned and the strength and flexibility you’ve gained in the meantime will likely have increased your chances of progressing on the original skill. I pole vaulted for 6 years before picking up gymnastics, and while the two sports have a lot in common, the lack of variety in pole vaulting meant that mental or physical stumbling blocks were a lot more frustrating and disheartening than they’ve been in gymnastics. Same thing with distance running, soccer, and every other sport I’ve tried. On a similar note, the infinite variety means that if you really don’t like a given apparatus or skill, you can just not do it! There’s plenty of other things to dive (roll) into, and no one is forcing you to do anything!
+
+![](https://acximages.ennals.org/images/2025-non-book-reviews/0503aaed1e089d30.png)
 
 There are hundreds of pages like this, filled with skills to try - and you can always make up your own if something isn’t already in there!
 
@@ -46,6 +52,8 @@ There are hundreds of pages like this, filled with skills to try - and you can a
 There’s a reason so many people dream about flying - it’s fucking awesome. Gymnastics is the safest, cheapest way to satisfy this craving without investing in skydiving gear or joining NASA. The psychophysical experience of momentary weightlessness creates a neurological reward that’s difficult to replicate through other means. That split second of flight during a flip activates proprioceptive and vestibular systems in ways our evolutionary history simply didn’t prepare us for. At first, you’ll probably be distracted by the fact that you have no idea what’s going on and your brain is trying to process way too much novel sensory input, but once you start filtering all of that out, all that’s left is the flight. The feeling of flipping through the air or swinging around a steel bar over and over just can’t be beat, and every time I get back in the gym after some time off I’m just so thankful I get to experience such a sublime feeling.
 
 ## Controlled Terror as Cognitive Medicine
+
+![](https://acximages.ennals.org/images/2025-non-book-reviews/63398dd6ab5da921.png)
 
 Yes, fear is good, and there are three main reasons:
 
@@ -61,13 +69,21 @@ Yes, fear is good, and there are three main reasons:
 
 I’d be remiss if I didn’t mention the impact of this very physical activity on what your body looks like. As a consequence of the whole body workout described in the second section above, gymnastics can make you look really fit (as a consequence of being really fit). People frequently ask what kind of weight lifting I do and are surprised to learn that for the most part the only thing I lift is my body, not dumbbells. That being said, I think it’s also important to note that you don’t have to look like this to do gymnastics:
 
+![](https://acximages.ennals.org/images/2025-non-book-reviews/99dfa35d2cf576b8.png)
+
 As a counterpoint, all of these people also do gymnastics and obviously have a wide range of body types:
+
+![](https://acximages.ennals.org/images/2025-non-book-reviews/9786bea979e1ce83.png)
+
+![](https://acximages.ennals.org/images/2025-non-book-reviews/d28f43fefb6a9c74.png)
 
 ## Addressing the Elephant in the Gym: Injury Risk
 
 When most people think of gymnastics, they might imagine catastrophic injuries - snapped tendons, broken bones, concussions. This perception isn't entirely unfounded; gymnastics does involve risk. However, to borrow a concept [from Patrick McKenzie](https://www.bitsaboutmoney.com/archive/optimal-amount-of-fraud/), the optimal amount of injury risk is non-zero. At one end of the spectrum, if you sit around and never are active, you risk all sorts of health related issues from low physical fitness. At the other end, if you are constantly engaged in high intensity athletic activity then your risk of overuse and acute injuries is going to be rather high. Most people want to be somewhere in the middle, and gymnastics is probably closer to the low impact end of the spectrum than you think - there are lots of soft mats and springs involved in this sport! For way too many examples of me failing but not getting injured, [see here](https://www.youtube.com/playlist?list=PLWMqI-QQPwCRoZKutQZd64PJqbmAVV7Bm).
 
 The perceived risk of gymnastics is high because the movements look dangerous, but proper instruction and progression management can substantially mitigate actual risk. Compare this to running, which has a deceptively high injury rate (up to 79% of runners experience injuries annually according to [van Gent et al., 2007](https://pubmed.ncbi.nlm.nih.gov/17473005/)) despite appearing low-risk. The principle at work here is that visible risk often leads to better risk management. When an activity looks dangerous, we approach it with appropriate caution. By contrast, activities that appear safe often lull us into overconfidence, leading paradoxically to higher injury rates.
+
+![](https://acximages.ennals.org/images/2025-non-book-reviews/22e97151fd3ec82c.png)
 
 ## Sticking the Landing
 

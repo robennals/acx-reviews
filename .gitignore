@@ -44,3 +44,7 @@ next-env.d.ts
 
 # Scratchpad
 /scratchpad
+
+# Superpowers workflow artifacts (design docs, plans) — may contain secrets,
+# and are session-specific. Keep local copies for reference, don't commit.
+/docs/superpowers/

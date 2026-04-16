@@ -1,5 +1,5 @@
 ---
-title: "Warrior’s Woman\_by Johanna Lindsey"
+title: Warrior’s Woman by Johanna Lindsey
 author: Unknown
 reviewAuthor: Anonymous
 contestId: 2024-book-reviews

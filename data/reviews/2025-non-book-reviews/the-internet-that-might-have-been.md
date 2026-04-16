@@ -7,8 +7,8 @@ contestName: 2025 Non Book Reviews
 year: 2025
 publishedDate: '2026-02-06T16:55:59.396Z'
 slug: the-internet-that-might-have-been
-wordCount: 7423
-readingTimeMinutes: 33
+wordCount: 7436
+readingTimeMinutes: 34
 originalUrl: >-
   https://docs.google.com/document/d/1jYVJFIz5-aMi0LCgsC9AN6BncJDNVGaMU37QmwZ1vzA
 source: gdoc
@@ -155,6 +155,8 @@ Nelson went further, though—it wouldn’t do to simply have links to all the o
 
 And recall, in 1965, state-of-the-art computing looked like this.
 
+![A man working with an IBM 2260](https://acximages.ennals.org/images/2025-non-book-reviews/b99d2d5b08154ddb.jpg)
+
 Ted Nelson was thinking far, far ahead.
 
 Maybe too far ahead. Conference attendees were initially excited about his idea, but when he revealed himself to know very little about the technical task of building Xanadu—or even whether it was possible at all—interest evaporated.
@@ -173,6 +175,8 @@ Shortly thereafter, Nelson’s wife left him. In his 2010 autobiography, he writ
 
 Nelson gave a talk at Union Theological Seminary in 1968 that included this slide, which Nelson considers “the first depiction of what the personal computer turned out to be.”
 
+![](https://acximages.ennals.org/images/2025-non-book-reviews/f276a549e60ea05a.png)
+
 “About six years later they started building computers like this at Xerox PARC.”
 
 Around the same time, Nelson claims to have called Vannevar Bush and told him about Project Xanadu. Bush “wanted very much to discuss it with” Nelson, but Nelson “hated him instantly [because] he sounded like a sports coach” and never contacted him again. This, of course, proved to be extremely self-destructive (though I can’t honestly say I would’ve done otherwise).
@@ -184,6 +188,8 @@ Nelson went where there was funding, working briefly on an early word processor 
 In fact, he started work on another book at the same time, called Dream Machines. By the time he completed each of them, in 1974, ARPANET had been released, and his vision for Project Xanadu had evolved. He published the two works together—Computer Lib was his lamentation over the industry’s disdain for hypertext, and Dream Machines was Xanadu’s manifesto.
 
 Nelson designed and printed the book himself. Its pages mostly look like this:
+
+![](https://acximages.ennals.org/images/2025-non-book-reviews/d86c2f8f4ea81cf7.png)
 
 Self-referential, multimedia, creative, and fun—they were a blueprint for the internet he was building. In the Dream Machines half, Nelson writes, “The real dream is for ‘everything’ to be in the hypertext. Everything you read, you read from the screen (and can always get back to right away; everything you write, you write at the screen (and can cross-link to whatever you read).”
 
@@ -204,6 +210,8 @@ Nelson answered (in 1974):
 *   Simply put a royalty on the links. If you want to reference a copyrighted New York Times article, then you’ve got to pay the author a little bit. And if someone else links to what you’ve written, then you get a small payout. Presumably, you could build in caveats for short excerpts and fair use kinds of things—“a universal flexible rule [still] has to be worked out.”
 
 He helpfully diagrammed the whole idea, in case it was at all confusing:
+
+![](https://acximages.ennals.org/images/2025-non-book-reviews/e534286d9f0cdc3d.png)
 
 A pay-per-click system like Nelson described would first be implemented in 1996.
 
@@ -283,6 +291,8 @@ But what kind of revolution was it, exactly?
 
 Ted Nelson pulls no punches.
 
+![](https://acximages.ennals.org/images/2025-non-book-reviews/de51db240bd60c22.png)
+
 Think about the Web we have today. The 2.0 and 3.0 (however you choose to identify it) revolutions included.
 
 What parts of Nelson’s wishlist have we checked off? What are we missing?
@@ -321,6 +331,8 @@ Maybe it looks a little unnatural, what you see when you squint at Xanadu—what
 
 But give the sight a little charity—imagine billions of dollars, maybe trillions, poured into Xanadu. Making it more beautiful, more intuitive. Imagine you’d never seen the Web before—no habits built, no understanding of what a webpage could or should be. What’s so wrong with Xanadu?
 
+![](https://acximages.ennals.org/images/2025-non-book-reviews/d2952bff26f9c447.png)
+
 Why shouldn’t the internet look (and work) a little more like this?
 
 For that matter, why doesn’t it?
@@ -348,6 +360,8 @@ His narration explains that Nelson has often been called insane. On screen, the 
 The two shake hands, and Nelson produces a small camera from his pocket, taking a photo of Herzog and his crew. No doubt, he will file the picture somewhere in his vast, interlinked personal archives, where it will sit and wait, until the day that Xanadu is finally launched, to be uploaded to a true digital memex.
 
 By all accounts, that day is only six months away.
+
+![](https://acximages.ennals.org/images/2025-non-book-reviews/6d204e827dc0b402.png)
 
 * * *
 

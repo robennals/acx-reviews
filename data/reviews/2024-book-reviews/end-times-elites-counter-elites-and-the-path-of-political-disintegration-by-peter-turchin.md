@@ -1,5 +1,7 @@
 ---
-title: "End Times: Elites, Counter-Elites, and the Path of Political Disintegration,\_by Peter Turchin"
+title: >-
+  End Times: Elites, Counter-Elites, and the Path of Political Disintegration,
+  by Peter Turchin
 author: Unknown
 reviewAuthor: Anonymous
 contestId: 2024-book-reviews
@@ -8,7 +10,7 @@ year: 2024
 publishedDate: '2026-02-06T16:47:49.304Z'
 slug: >-
   end-times-elites-counter-elites-and-the-path-of-political-disintegration-by-peter-turchin
-wordCount: 5599
+wordCount: 5606
 readingTimeMinutes: 25
 originalUrl: >-
   https://docs.google.com/document/d/1QiotH3aGFgNLGqsIHTK_Plm_gem2E4l2C2ctyGJd0jY
@@ -24,7 +26,7 @@ One day last year I found myself wondering why the United States is such a mess,
 
 I know what you’re thinking, and the answer is yes, Turchin has read the Foundation trilogy by Isaac Asimov.  Turchin has read widely for a database guy, and he gives credit to others including Ibn Khaldun, Leo Tolstoy, and especially a historian named Jack Goldstone who pioneered one of Turchin’s more important analytical frameworks involving historical cycles.
 
-Unfortunately, it turns out that End Times is essentially Turchin for Dummies.  I am a dummy; or to be more precise, I am an English major.  Nevertheless, I wanted more from an author whose claim to fame is his quantitative approach.  End Times includes some interesting observations about instability in the United States today, but it generalizes pretty broadly about the data and largely fails to explain how Turchin’s database and models work, even in the explanatory appendices.  I did not feel that Turchin had sufficiently distinguished himself from other popular cycle-mongers such as[William Strauss and Neil Howe](https://en.wikipedia.org/wiki/Strauss%E2%80%93Howe_generational_theory).
+Unfortunately, it turns out that End Times is essentially Turchin for Dummies.  I am a dummy; or to be more precise, I am an English major.  Nevertheless, I wanted more from an author whose claim to fame is his quantitative approach.  End Times includes some interesting observations about instability in the United States today, but it generalizes pretty broadly about the data and largely fails to explain how Turchin’s database and models work, even in the explanatory appendices.  I did not feel that Turchin had sufficiently distinguished himself from other popular cycle-mongers such as [William Strauss and Neil Howe](https://en.wikipedia.org/wiki/Strauss%E2%80%93Howe_generational_theory).
 
 So, I dug into Turchin’s back catalogue.  This is officially a review of End Times, but with a lot of help from other books and some sources available on the internet.  To Turchin’s credit, many of his articles and database materials are not paywalled.  My conclusion is that Peter Turchin has not solved history, but he has some good ideas that are worth thinking about, especially if you’re wondering why the United States is such a mess.
 
@@ -102,11 +104,11 @@ After reviewing the secular cycle theory and recent American history along with 
 
 Turchin identifies Tucker Carlson and a few others as being dangerously close to developing a political program that would appear coherent to the red team political base.  The potential political program includes:
 
-·Opposing mass immigration, which Turchin believes is a legitimate concern for wage earners because mass immigration has historically suppressed wages.
+·           Opposing mass immigration, which Turchin believes is a legitimate concern for wage earners because mass immigration has historically suppressed wages.
 
-·Opposing military interventions abroad.
+·           Opposing military interventions abroad.
 
-·Defending free speech against attacks from both legacy parties.
+·           Defending free speech against attacks from both legacy parties.
 
 Turchin does not identify anyone who is dangerously close to developing a unifying or coherent program for the blue team, perhaps because the blue team is currently stuck defending the old regime in the form of the Biden administration.
 
@@ -124,7 +126,7 @@ In the end, it is likely that massaging the data is what yields the insights.  
 
 ## Is Turchin’s theory too deterministic?
 
-Any historical theory that contains a cyclical element is always accused of being too deterministic and giving too little credit to human agency. [This review](https://www.aier.org/article/peter-turchins-end-times-a-review/) of End Times on the website of the American Institute of Economic Research says:
+Any historical theory that contains a cyclical element is always accused of being too deterministic and giving too little credit to human agency.  [This review](https://www.aier.org/article/peter-turchins-end-times-a-review/) of End Times on the website of the American Institute of Economic Research says:
 
 Although Turchin does not appear to be a fan of Marx, his approach shares the Marxian problem of envisioning the sweep of history in a very mechanistic way.  His human agents are materialistic and, like the rabbits and wolves, act in (obviously shortsighted) ways to maximize their take in the great tug-of-war for social resources between the classes.  Human agency has little place in his theory.  As he says, “The great-man theory is the most ‘anti-cliodynamic’ theory of history I can think of,” (where “the great-man theory” is one that makes the agency of individuals pivotal to the flow of history).
 
@@ -148,7 +150,7 @@ More troubling is that these economists seem to have completely missed the point
 
 Turchin says in End Times that wars are particularly suited to quantitative modeling and prediction.  I was therefore very disappointed when Turchin made no attempt to model or predict the outcome of the Ukraine war, which started a year before End Times came out.  Seems like low hanging fruit, a good test of the methodology.
 
-Turchin explains in a series of posts on his blog[beginning in July of 2023](https://peterturchin.com/what-osipov-and-lanchester-tell-us-about-the-war-in-ukraine/) that his final manuscript deadline was August 2022, so he did not have the time or the data to work up a model for the Ukraine war.  Turchin explained that by 2023 Ukraine had become a war of attrition, and he[compared two competing theories](https://peterturchin.com/war-in-ukraine-v-alternative-hypotheses/) of who would win.  Paul Krugman stood with the U.S. government, noting that the combined economic power of the Ukraine, the United States, and Europe, measured by GDP, was more than 20 times the economic power of Russia, and therefore Ukraine had the advantage.  A bunch of bloggers on the internet took a contrary view based on availability of replacement soldiers and armaments.  Turchin[built a model and projected](https://peterturchin.com/war-in-ukraine-vi-adding-economic-power-to-the-attrition-model/) that the motley crew of bloggers was correct – Russia will win the Ukraine war.  The basic problem with the economic model was that people, armaments, and dollars are not actually fungible in the real world.
+Turchin explains in a series of posts on his blog [beginning in July of 2023](https://peterturchin.com/what-osipov-and-lanchester-tell-us-about-the-war-in-ukraine/) that his final manuscript deadline was August 2022, so he did not have the time or the data to work up a model for the Ukraine war.  Turchin explained that by 2023 Ukraine had become a war of attrition, and he [compared two competing theories](https://peterturchin.com/war-in-ukraine-v-alternative-hypotheses/) of who would win.  Paul Krugman stood with the U.S. government, noting that the combined economic power of the Ukraine, the United States, and Europe, measured by GDP, was more than 20 times the economic power of Russia, and therefore Ukraine had the advantage.  A bunch of bloggers on the internet took a contrary view based on availability of replacement soldiers and armaments.  Turchin [built a model and projected](https://peterturchin.com/war-in-ukraine-vi-adding-economic-power-to-the-attrition-model/) that the motley crew of bloggers was correct – Russia will win the Ukraine war.  The basic problem with the economic model was that people, armaments, and dollars are not actually fungible in the real world.
 
 ## What next?
 

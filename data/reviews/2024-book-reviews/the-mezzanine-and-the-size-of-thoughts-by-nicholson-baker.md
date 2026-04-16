@@ -7,7 +7,7 @@ contestName: 2024 Book Reviews
 year: 2024
 publishedDate: '2026-02-06T16:49:14.013Z'
 slug: the-mezzanine-and-the-size-of-thoughts-by-nicholson-baker
-wordCount: 2613
+wordCount: 2619
 readingTimeMinutes: 12
 originalUrl: >-
   https://docs.google.com/document/d/14qa47TJ_Vyerx4XNgTCIh7PUZ_TOgNcU_eHm5So_zo0
@@ -25,11 +25,11 @@ To understand this problem, however, one needs to have the right model of though
 
 I will explain this model succinctly. In particular, how it solves the following puzzles related to the logistical problems alluded to above:
 
-(1)Why do people often change their minds without realising or becoming conscious of the change?[[83]](#ftnt83)
+(1)  Why do people often change their minds without realising or becoming conscious of the change?[[83]](#ftnt83)
 
-(2)Why is it that you (often) cannot identify why one of your beliefs has changed?
+(2)  Why is it that you (often) cannot identify why one of your beliefs has changed?
 
-(3)Why is it that all people possess mutually inconsistent or contradictory beliefs?
+(3)  Why is it that all people possess mutually inconsistent or contradictory beliefs?
 
 And, more importantly, how the ‘opacity of thought’ which the model posits is essential for the everyday experience (though not necessarily reality) of ‘free will.’
 
@@ -41,11 +41,11 @@ Baker’s prose style is logically independent from his ideas – you could find
 
 The idea in The Mezzanine is quite simple. We typically divide our thinking into the conscious and subconscious; our higher-order beliefs (the kind that could be formulated into communicable natural language) are treated generally as belonging exclusively to the former. It feels odd – though not entirely inappropriate – to describe oneself as a subconscious Catholic. Baker argues that, conversely, in reality:
 
-(1)Many – perhaps most – of our beliefs, preferences, values, and views (‘thoughts’) continue to exist when we are not explicitly considering them;
+(1)  Many – perhaps most – of our beliefs, preferences, values, and views (‘thoughts’) continue to exist when we are not explicitly considering them;
 
-(2)During the preponderant period in which our thoughts exist within our subconscious (or at least in some non-conscious space), they develop and change;
+(2)  During the preponderant period in which our thoughts exist within our subconscious (or at least in some non-conscious space), they develop and change;
 
-(3)They develop and change following diverse relationships with one another (imagine a densely connected web) which, whilst sometimes ascertainable with deliberate conscious evaluation, are often obscure to us.
+(3)  They develop and change following diverse relationships with one another (imagine a densely connected web) which, whilst sometimes ascertainable with deliberate conscious evaluation, are often obscure to us.
 
 His thesis is that whilst we might deliberately adopt viewpoints or change our mind (‘update’), this small mental worktop is a fraction of our total worldview. Under the surface, there is a process by which one’s thinking constantly adjusts and shifts, both from the continual, slow realignment and mutual interference of existing thoughts, and the addition of new ideas and material. We can call this the ‘Web Model’ of thinking. As the total volume of ‘information’ a person juggles in their mind increases, the density of their Web grows, and the proportion handled by their conscious mind recedes.
 

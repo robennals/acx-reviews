@@ -7,7 +7,7 @@ contestName: 2024 Book Reviews
 year: 2024
 publishedDate: '2026-02-06T16:47:15.592Z'
 slug: a-farewell-to-alms-a-brief-economic-history-of-the-world-by-gregory-clark
-wordCount: 2353
+wordCount: 2356
 readingTimeMinutes: 11
 originalUrl: >-
   https://docs.google.com/document/d/1AXmWgSbh_TFsoZuApSCSEoz57yn93CM5YYhtaO_s4W4
@@ -17,9 +17,13 @@ tags:
   - History
 ---
 
+![](https://acximages.ennals.org/images/2024-book-reviews/9b598748e8134bef.png)
+
 The Fermi paradox is well known for its existential nature: Why—despite all the starts and all the seeming possibility for life—is it the case that we are the only civilization that we can detect?
 
 Breaking this question down into parts gets us the Drake equation we get an estimate of the total number of communicable civilizations, N:
+
+![](https://acximages.ennals.org/images/2024-book-reviews/3595f5c7036b8764.png)
 
  Where:
 
@@ -39,9 +43,11 @@ The last one, L, or the longevity of a contactable civilization also seems like 
 
 Now Earth is just barely detectable/contactable, we, in the past ~100 have only just become delectable and we're not quite contactable yet (Messages in space need a couple of orders of magnitude more time) but if we do, say survive 10,000 years it's hard to imagine not surviving a lot longer—to exist for a meaningful percentage of our galaxy's present lifetime. (as opposed to our current 0.000...001% existence )
 
+![](https://acximages.ennals.org/images/2024-book-reviews/dab3b30a3efe6444.png)
+
 So that leaves us with the three hardest parameters: life, intelligence, and civilization.
 
-However, the probability of life seems like it would be fairly high, on our own plant life seems to have gotten a foothold about as soon as the conditions on the early earth seem to permit general chemical functioning. Similarly, it seems that given any plant with life, a non-astronomically small number would give rise to intelligence. Many different animals on earth have evolved intelligence and many others exist in environments plentiful enough to sustain the energy needed for intelligence. This doesn't have to occur very often but remember, we started off with ... number of habitable planets, to get an estimate in the range of ~1 for the Milky Way there needs to be some process that is a lot less likely than we are giving credit for. Perhaps this is the probability of industrial civilization.
+However, the probability of life seems like it would be fairly high, on our own plant life seems to have gotten a foothold about as soon as the conditions on the early earth seem to permit general chemical functioning. Similarly, it seems that given any plant with life, a non-astronomically small number would give rise to intelligence. Many different animals on earth have evolved intelligence and many others exist in environments plentiful enough to sustain the energy needed for intelligence. This doesn't have to occur very often but remember, we started off with ... number of habitable planets, to get an estimate in the range of ~1 for the Milky Way there needs to be some process that is a lot less likely than we are giving credit for. Perhaps this is the probability of industrial civilization.  
 
 ## An Economic History of the World
 

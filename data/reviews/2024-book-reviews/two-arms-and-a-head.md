@@ -7,7 +7,7 @@ contestName: 2024 Book Reviews
 year: 2024
 publishedDate: '2026-02-06T16:49:50.818Z'
 slug: two-arms-and-a-head
-wordCount: 9017
+wordCount: 9046
 readingTimeMinutes: 41
 originalUrl: >-
   https://docs.google.com/document/d/1Ki5XsE0jkxZtd2XAeyTAJw1ZjLh2Cu-matUYKAhA6-s
@@ -68,6 +68,8 @@ Clayton wastes no time in dispelling this myth:
 \> There is a tremendous difference between me and an able-bodied person sitting in a wheelchair. Tremendous.
 
 Spinal cord injuries affect everything downstream of the injury—not just "the legs" but also the pelvis, bowels, genitals, and abdomen. Depending on where the injury occurs, that can include all the trunk muscles that keep someone sitting upright.
+
+![](https://acximages.ennals.org/images/2024-book-reviews/7fb641787e1f0b9f.png)
 
 [Source](https://en.wikipedia.org/wiki/Spinal_cord_injury). Image Description: A diagram of the human spine next to a diagram of the human body, indicating which parts of the body are innervated by which vertebrae in the spinal column. The cervical, thoracic, lumbar, and sacral regions of the spine are highlighted in different colors, with the corresponding body regions highlighted in the same colors.
 
@@ -265,7 +267,7 @@ He starts by asserting that there is nothing wrong with his mental health or his
 
 \> There is no problem with my reasoning powers. [...] So if I say, “Paraplegia prevents me running. A life without running is not worth living. Therefore, my life is not worth living.” you might not agree with one of my premises, but there is no question of whether I’m being reasonable.
 
-This is similar to Frankl’s argument in Man’s Search for Meaning, and in fact Clayton spends an entire section talking about Frankl. He has a few disagreements with the book, but he has no gripewith the core message. Clayton decides to die because he had meaning in his life—and then the accident took it all away:
+This is similar to Frankl’s argument in Man’s Search for Meaning, and in fact Clayton spends an entire section talking about Frankl. He has a few disagreements with the book, but he has no gripe with the core message. Clayton decides to die because he had meaning in his life—and then the accident took it all away:
 
 \> Probably the life of a deaf man would be good enough for me, or that of a mute or a man missing a leg or an arm. But not the life of a paraplegic. There is not enough left for me. [...]
 
@@ -329,7 +331,7 @@ In Canada, a 27-year-old autistic woman with no disclosed physical symptoms was 
 
 In the Netherlands, a 28-year-old woman has decided to pursue MAiD due to her treatment-resistant clinical depression and borderline personality disorder. Her MAiD is scheduled for sometime in May 2024. At the time of this writing, she has yet to undergo it.
 
-[These stories](https://globalnews.ca/news/10118619/bc-cancer-agency-wait-times-surgery-united-states/)[are nothing new](https://apnews.com/article/covid-science-health-toronto-7c631558a457188d2bd2b5cfd360a867). They certainly sound dreadful.
+[These stories](https://globalnews.ca/news/10118619/bc-cancer-agency-wait-times-surgery-united-states/) [are nothing new](https://apnews.com/article/covid-science-health-toronto-7c631558a457188d2bd2b5cfd360a867). They certainly sound dreadful.
 
 Diving into every big story from the last ten years would be beyond the scope of this review, but let’s return to the one about the 27-year-old autistic Canadian woman who was granted MAiD. Both the [Calgary Herald](https://calgaryherald.com/news/local-news/calgary-judge-woman-with-autism-medical-assistance-in-dying) and [CBC](https://www.cbc.ca/news/canada/calgary/calgary-maid-father-daughter-court-injunction-judicial-review-decision-1.7154794) framed the story as a grieving father desperately trying to prevent his autistic daughter from being led astray by unethical doctors cherry-picked by the Alberta Health Service. The father insists that his adult daughter is physically healthy, albeit “vulnerable and not competent” to make medical decisions due to her autism and ADHD. Despite this, the judge has allowed MAiD to proceed anyway.
 
@@ -386,6 +388,8 @@ There’s a lot to unpack here. NDY is starting from the premise that the desire
 A society that has legalized MAiD still extends this preventive care to the able-bodied who want to die, but then turns around and gladly assists disabled patients in ending their lives. This is discrimination! Doctors are murdering the undesirables!
 
 To drive the point home, the [Canadian chapter](https://tvndy.ca/en/) of NDY has this image on their homepage:
+
+![A wheelchair user notices that the office of the Suicide Prevention Program is inaccessible, whereas the office of the Assisted Suicide organization has a wheelchair ramp.](https://acximages.ennals.org/images/2024-book-reviews/43e13a4046fa3e45.jpg)
 
 Image Description: A line drawing wherein a wheelchair user notices that the office of the Suicide Prevention Program is inaccessible, whereas the office of the Assisted Suicide organization has a wheelchair ramp.
 

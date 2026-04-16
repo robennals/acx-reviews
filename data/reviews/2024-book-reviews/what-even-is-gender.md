@@ -7,7 +7,7 @@ contestName: 2024 Book Reviews
 year: 2024
 publishedDate: '2026-02-06T16:49:50.819Z'
 slug: what-even-is-gender
-wordCount: 3689
+wordCount: 3690
 readingTimeMinutes: 17
 originalUrl: >-
   https://docs.google.com/document/d/1Ki5XsE0jkxZtd2XAeyTAJw1ZjLh2Cu-matUYKAhA6-s
@@ -40,19 +40,20 @@ So what exactly is this received narrative, and what’s wrong with it?
 BG give the following sketch:
 
                                                                                                  “1  People have a more-or-less stable inner trait called “gender identity”.  
-2  One’s “gender identity” is what disposes one to think of oneself as a “woman” or as a “man” (or, perhaps, as both or as neither).  
+                                                                                                                                         2  One’s “gender identity” is what disposes one to think of oneself as a “woman” or as a “man” (or, perhaps, as both or as neither).  
+                                                
 
-*   3  One’s “gender identity” is what disposes one to favor or avoid stereotypically feminine or masculine behaviors (or otherwise gendered behaviors).  
-    
-*   4  It is possible for there to be a mismatch between one’s “gender identity” and one’s physiology (in particular one’s “assigned sex” or “natal sex”).  
-    
-*   5  The frustration of these dispositions, or the presence of this sort of mismatch, results in a kind of distress known as “gender dysphoria” (or “gender incongruence”).  
-    
-*   6  The alleviation of “gender dysphoria” is the legitimate purpose of medical transition.  
-    
-*   7  It is one’s “gender identity”, and not one’s physiology, that properly determines whether one is a woman or a man (or both or neither).”
+*                                                                                                    3  One’s “gender identity” is what disposes one to favor or avoid stereotypically feminine or masculine behaviors (or otherwise gendered behaviors).  
+                                                    
+*                                                                                                    4  It is possible for there to be a mismatch between one’s “gender identity” and one’s physiology (in particular one’s “assigned sex” or “natal sex”).  
+                                                    
+*                                                                                                    5  The frustration of these dispositions, or the presence of this sort of mismatch, results in a kind of distress known as “gender dysphoria” (or “gender incongruence”).  
+                                                    
+*                                                                                                    6  The alleviation of “gender dysphoria” is the legitimate purpose of medical transition.  
+                                                    
+*                                                                                                    7  It is one’s “gender identity”, and not one’s physiology, that properly determines whether one is a woman or a man (or both or neither).”
 
-This narrative is certainly better from a trans-friendly point of view than “your gender is determined inexorably by your physiology,” but upon reflection leaves us with some questions. For one, aren’t stereotypes supposed to be bad? If gender identity consists in whole or part of the propensity to “favor or avoid stereotypically feminine or masculine behaviors,”maybe the problem is just that behaviors get stereotyped in this way (with certain behaviors more problematic than others), rather than with our conception of gender. And if it is these collections of stereotypes that define the categories “man” and “woman,” shouldn’t we just do away with them to the extent possible?
+This narrative is certainly better from a trans-friendly point of view than “your gender is determined inexorably by your physiology,” but upon reflection leaves us with some questions. For one, aren’t stereotypes supposed to be bad? If gender identity consists in whole or part of the propensity to “favor or avoid stereotypically feminine or masculine behaviors,” maybe the problem is just that behaviors get stereotyped in this way (with certain behaviors more problematic than others), rather than with our conception of gender. And if it is these collections of stereotypes that define the categories “man” and “woman,” shouldn’t we just do away with them to the extent possible?
 
 The concept of gender identity is confusing at a personal level as well. I tick the box marked “male” on forms that ask about my gender identity, but I would hesitate to say I have any deeply felt sense of myself as a man (other than maybe when successfully opening really stuck jam jar lids). This lack of clarity isn’t just a feature of gender being relatively unimportant to my idea of myself; both authors of WEIG are trans and nonbinary (and gender theorists!) and describe spending years agonizing over their “true” gender identities, to little avail. I have plenty of insight into my preferences, including stereotypically masculine ones, so it’s a bit odd that I have virtually no insight into the gender identity that is supposed to either determine or consist in them.
 

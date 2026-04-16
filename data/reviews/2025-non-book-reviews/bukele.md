@@ -7,7 +7,7 @@ contestName: 2025 Non Book Reviews
 year: 2025
 publishedDate: '2026-02-06T16:52:48.889Z'
 slug: bukele
-wordCount: 6358
+wordCount: 6363
 readingTimeMinutes: 29
 originalUrl: >-
   https://docs.google.com/document/d/1d0vRSj1E93joWWvbUen2XGuDjN_mM94ybMIAADzM2fo
@@ -25,9 +25,9 @@ Close your eyes and imagine this:
 
 Open your eyes: Meet the world’s ‘Coolest Dictator’, Bukele of El Salvador.
 
-  
+![](https://acximages.ennals.org/images/2025-non-book-reviews/5fc194d738f44aed.png)  
 Bukele at a surf contest in May 2021. Courtesy of Marvin Recinos / AFP  
-[https://elcomercio.pe/mundo/centroamerica/nayib-bukele-los-dos-anos-del-presidente-de-el-salvador-en-el-poder-apoyo-popular-y-reproche-internacional-noticia/](https://elcomercio.pe/mundo/centroamerica/nayib-bukele-los-dos-anos-del-presidente-de-el-salvador-en-el-poder-apoyo-popular-y-reproche-internacional-noticia/)
+[https://elcomercio.pe/mundo/centroamerica/nayib-bukele-los-dos-anos-del-presidente-de-el-salvador-en-el-poder-apoyo-popular-y-reproche-internacional-noticia/](https://elcomercio.pe/mundo/centroamerica/nayib-bukele-los-dos-anos-del-presidente-de-el-salvador-en-el-poder-apoyo-popular-y-reproche-internacional-noticia/) 
 
 What?
 
@@ -77,7 +77,7 @@ Reality is more complex than this, but only slightly.
 
 By 2019, as some people were openly calling for a return to the military dictatorship, Bukele looked like the opposite: A cool young politician who had managed to bring crime down on his small town without militarization, while also promoting youth sports and urban art (rap, skaters, graffitti). Many of my center-left classmates saw him as an Obama figure.
 
-During the 2019–2021 period, when the sclerotic opposition-controlled Congress tried to pull the same obstructionist playbook that the GOP pulled on Obama, Bukele fully embraced the tough-on-crime and institution-smashing rolethat the people demanded.
+During the 2019–2021 period, when the sclerotic opposition-controlled Congress tried to pull the same obstructionist playbook that the GOP pulled on Obama, Bukele fully embraced the tough-on-crime and institution-smashing role that the people demanded.
 
 Back in 2019, some people had warned that Bukele’s disdain for the norms were foretelling of authoritarian tendencies. When Bukele first called himself ‘The World’s Coolest Dictator’, he was trying to mock those Cassandras: Contrasting the idea of ‘Coolness’ and children smiling, versus the idea of ‘Dictatorship’ and tyranny.
 
@@ -93,8 +93,8 @@ A ‘dictator’ was, originally, a position in the Roman Republic: A man who su
 
 The war was internal, against the gangs.
 
-Pictured: Mejicanos Massacre, 2010. credit: BBC.  
-[https://www.bbc.com/mundo/noticias-america-latina-53074759](https://www.bbc.com/mundo/noticias-america-latina-53074759)
+![](https://acximages.ennals.org/images/2025-non-book-reviews/447cbc376f3a76c9.png)Pictured: Mejicanos Massacre, 2010. credit: BBC.  
+[https://www.bbc.com/mundo/noticias-america-latina-53074759](https://www.bbc.com/mundo/noticias-america-latina-53074759) 
 
 ## II. EL SALVADOR’S BACKGROUND.
 
@@ -171,8 +171,8 @@ In hindsight, we now know that by this period, Bukele’s people were negotiatin
 
 What was Bukele 's alias in these illegal negotiations? Batman. [14]
 
-Pictured: Bukele in 2023 touring the National Library.  
-Source: [https://www.youtube.com/live/9SMTnbnzReU?si=ljnHqwI6qwFF0ydB&t=747](https://www.youtube.com/live/9SMTnbnzReU?si=ljnHqwI6qwFF0ydB&t=747)
+![](https://acximages.ennals.org/images/2025-non-book-reviews/94c5b139b631965e.png)Pictured: Bukele in 2023 touring the National Library.  
+Source: [https://www.youtube.com/live/9SMTnbnzReU?si=ljnHqwI6qwFF0ydB&t=747](https://www.youtube.com/live/9SMTnbnzReU?si=ljnHqwI6qwFF0ydB&t=747) 
 
 *\*\*
 
@@ -239,8 +239,8 @@ Bukele then launched an ‘anti-corruption’ campaign targeting rivals, includi
 
 In this way, El Salvador is becoming like Singapore, at least in becoming a one-party-state.
 
-Pictured: The equivalent of a State of The Union Address.  
-Source: [https://www.asamblea.gob.sv/node/11257](https://www.asamblea.gob.sv/node/11257)
+![](https://acximages.ennals.org/images/2025-non-book-reviews/ed80ae9e546b2345.png)Pictured: The equivalent of a State of The Union Address.  
+Source: [https://www.asamblea.gob.sv/node/11257](https://www.asamblea.gob.sv/node/11257) 
 
 *\*\*
 
@@ -248,7 +248,7 @@ How did the local ‘oligarchy’ react to these abuses of power? By jumping int
 
 During the pandemic, Bukele met with the wealthiest businessmen in order to coordinate the lockdowns. In the collective imagination, that was the day when the oligarchy ‘descended from Olympus’ and seemingly made peace with Bukelism.
 
-After the pandemic, Carlos Calleja, the right-wing billionaire who had competed againstBukele back in 2019, had made so much money that his business group could afford to buy the South American ‘Grupo Exito’ for over a billion dollars, in one of the largest transactions of Latin America. Roberto Kriete, possibly the wealthiest man of the country, recently inaugurated a new engineering-focused University, and Bukele himself gave the opening speech.
+After the pandemic, Carlos Calleja, the right-wing billionaire who had competed against Bukele back in 2019, had made so much money that his business group could afford to buy the South American ‘Grupo Exito’ for over a billion dollars, in one of the largest transactions of Latin America. Roberto Kriete, possibly the wealthiest man of the country, recently inaugurated a new engineering-focused University, and Bukele himself gave the opening speech.
 
 *\*\*
 
@@ -315,8 +315,8 @@ So, is Bukele going the way of Singapore’s Lee Kuan Yew, or of Turkey’s Erdo
 
 Only time will tell. My intuition tells me that the difference between LKY and Erdogan will come down to whether Bukele succeeds at creating an ‘economic miracle’, or not.
 
-Pictured: San Salvador, a city under construction.  
-Source: [https://republicainmobiliaria.com/editorial/el-salvador-inversiones-us1200-millones/](https://republicainmobiliaria.com/editorial/el-salvador-inversiones-us1200-millones/)
+![](https://acximages.ennals.org/images/2025-non-book-reviews/6959250117a9ac79.png)Pictured: San Salvador, a city under construction.  
+Source: [https://republicainmobiliaria.com/editorial/el-salvador-inversiones-us1200-millones/](https://republicainmobiliaria.com/editorial/el-salvador-inversiones-us1200-millones/) 
 
 ## VI. COULD IT HAPPEN IN AMERICA?
 
@@ -404,7 +404,7 @@ History hasn’t ended yet. We can take part in writing it ourselves. Maybe that
 
 ## ENDNOTES
 
-1\. Thanks to Scott Alexander for gifting me the perfect intro with this comment: [https://www.astralcodexten.com/p/moldbug-sold-out/comment/115152269](https://www.astralcodexten.com/p/moldbug-sold-out/comment/115152269)
+1\. Thanks to Scott Alexander for gifting me the perfect intro with this comment: [https://www.astralcodexten.com/p/moldbug-sold-out/comment/115152269](https://www.astralcodexten.com/p/moldbug-sold-out/comment/115152269) 
 
 2.  [Over the course of this essay, I will quote liberally from Scott’s previous ‘Dictator’ series, without writing the URL, only referencing the Dictator itself. This is an exception because it’s not one of the Dictator series:](https://www.astralcodexten.com/p/model-city-monday-12621) [https://www.astralcodexten.com/p/model-city-monday-12621](https://www.astralcodexten.com/p/model-city-monday-12621)
 
@@ -420,7 +420,7 @@ History hasn’t ended yet. We can take part in writing it ourselves. Maybe that
 
 7\. From the report: “The Team has arrived at consensus that El Salvador‘s growth seems to face at least two binding constraints: crime and security, and low productivity of the tradables sector”.
 
-If an economist claims sloweconomic growth is explained by low productivity, then that’s just like a doctor claiming that the cause of death is that “the heart stopped beating”. The full report used to be available at USAID, but it got DOGE’d, so instead it can be accessed here:  [https://dataspace.princeton.edu/bitstream/88435/dsp017w62fb59v/1](https://dataspace.princeton.edu/bitstream/88435/dsp017w62fb59v/1).
+If an economist claims slow economic growth is explained by low productivity, then that’s just like a doctor claiming that the cause of death is that “the heart stopped beating”. The full report used to be available at USAID, but it got DOGE’d, so instead it can be accessed here:  [https://dataspace.princeton.edu/bitstream/88435/dsp017w62fb59v/1](https://dataspace.princeton.edu/bitstream/88435/dsp017w62fb59v/1).
 
 8\. I remember this well: It happened on a Sunday evening, and the next day at my private school everybody was talking about it. The next Saturday, when I went to French classes, everybody was still talking about it. It felt like a display of savagery worthy of a medieval society, and it shocked the entire country, from the lower to the upper classes.
 
@@ -430,9 +430,9 @@ In fact, it was this very massacre the one that got the Salvadoran government to
 
 I still find El Faro to be an excellent news source, but it does have an undeniable editorial bias. Notice that one of the journalists in the source below is ‘Roberto Valencia’, who seems to have been ‘pushed out’ of the journal because he opposed the extreme anti-Bukele editorial line that El Faro started to adopt from 2020 onwards.
 
-2015 El Faro report on police brutality (pre-Bukele): [https://salanegra.elfaro.net/es/201508/cronicas/17289/Police-Massacre-at-the-San-Blas-Farm.htm](https://salanegra.elfaro.net/es/201508/cronicas/17289/Police-Massacre-at-the-San-Blas-Farm.htm)
+2015 El Faro report on police brutality (pre-Bukele): [https://salanegra.elfaro.net/es/201508/cronicas/17289/Police-Massacre-at-the-San-Blas-Farm.htm](https://salanegra.elfaro.net/es/201508/cronicas/17289/Police-Massacre-at-the-San-Blas-Farm.htm) 
 
-10\. From the ‘Journal of Democracy’: ‘By 2018, a remarkable 82.3 percent of Salvadorans said that there were no meaningful differences between Arena and the FMLN.Only 27.7 percent said they preferred democracy over any other type of government—the lowest percentage of any country that Latinobarómetro surveyed’ at [https://www.journalofdemocracy.org/articles/latin-america-erupts-millennial-authoritarianism-in-el-salvador](https://www.journalofdemocracy.org/articles/latin-america-erupts-millennial-authoritarianism-in-el-salvador).
+10\. From the ‘Journal of Democracy’: ‘By 2018, a remarkable 82.3 percent of Salvadorans said that there were no meaningful differences between Arena and the FMLN. Only 27.7 percent said they preferred democracy over any other type of government—the lowest percentage of any country that Latinobarómetro surveyed’ at [https://www.journalofdemocracy.org/articles/latin-america-erupts-millennial-authoritarianism-in-el-salvador](https://www.journalofdemocracy.org/articles/latin-america-erupts-millennial-authoritarianism-in-el-salvador).
 
 11\. Cuscatlán is sometimes used as another name for El Salvador, because it 's the nahuatl version of the indigenous name for much of the country. The actual indigenous name is ‘Kushkatan’, but the pronunciation that became mainstream is that of the native tribes who supported the Conquistadores.
 

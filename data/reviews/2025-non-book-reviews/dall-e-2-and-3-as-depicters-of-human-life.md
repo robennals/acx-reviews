@@ -7,7 +7,7 @@ contestName: 2025 Non Book Reviews
 year: 2025
 publishedDate: '2026-02-06T16:52:48.891Z'
 slug: dall-e-2-and-3-as-depicters-of-human-life
-wordCount: 4136
+wordCount: 4175
 readingTimeMinutes: 19
 originalUrl: >-
   https://docs.google.com/document/d/1d0vRSj1E93joWWvbUen2XGuDjN_mM94ybMIAADzM2fo
@@ -37,23 +37,31 @@ Prompt: Like a rubber ball I come bouncing back to you.
 
 Song:["Rubber Ball"](https://www.youtube.com/watch?v=L28B48G6b68)
 
+![](https://acximages.ennals.org/images/2025-non-book-reviews/85991432494e449b.jpg)
+
 ### #2 (Dall-e 3)
 
 Prompt: Girls will be boys and boys will be girls, it's a mixed up, muddled up, shook up world, except for my Lola.
 
-Song:["Lola"](https://www.youtube.com/watch?v=LemG0cvc4oU)
+Song: ["Lola"](https://www.youtube.com/watch?v=LemG0cvc4oU)
+
+![](https://acximages.ennals.org/images/2025-non-book-reviews/b9e06edb3f4227ae.jpg)
 
 ### #3 (Dall-e 3)
 
 Prompt: Illustration in the style of a 1950s magazine cover of two people crazy in love
 
-Song:[“Why Do Fools Fall in Love?”](https://www.youtube.com/watch?v=2sAHiR0rkJg)
+Song: [“Why Do Fools Fall in Love?”](https://www.youtube.com/watch?v=2sAHiR0rkJg)
+
+![](https://acximages.ennals.org/images/2025-non-book-reviews/a5e40123e4421b6c.jpg)
 
 ### #4 (Dall-e 3)
 
 Prompt: Take another little piece of my heart. You'll know you've got it if it makes you feel good.
 
-Song:["Piece of My Heart"](https://www.youtube.com/watch?v=SCngPse1iiI)
+Song: ["Piece of My Heart"](https://www.youtube.com/watch?v=SCngPse1iiI)
+
+![](https://acximages.ennals.org/images/2025-non-book-reviews/c37d655168a29106.jpg)
 
 ### #5 (Dall-e 3)
 
@@ -61,23 +69,31 @@ Prompt: A man telling a woman she is going to give him her love.
 
 Song:["Not Fade Away"](https://www.youtube.com/watch?v=ZWjoXMY6FNo)
 
+![](https://acximages.ennals.org/images/2025-non-book-reviews/330d0974d87f8a9e.jpg)
+
 ### #6 (Dall-e 3)
 
 Prompt: A steampunk rendition of a crazy female falling in love with a crazy male. In the background, 1950's American suburbs
 
 Song:["Why Do Fools Fall in Love?"](https://www.youtube.com/watch?v=2sAHiR0rkJg)
 
+![](https://acximages.ennals.org/images/2025-non-book-reviews/67b5811a3739c645.jpg)
+
 ### #7 (Dall-e 3)
 
 Prompt: A steampunk rendition of a crazy female falling in love with a crazy male. In the background an atomic blast mushroom cloud.
 
-Song:["Why Do Fools Fall in Love?"](https://www.youtube.com/watch?v=2sAHiR0rkJg)
+Song: ["Why Do Fools Fall in Love?"](https://www.youtube.com/watch?v=2sAHiR0rkJg)
+
+![](https://acximages.ennals.org/images/2025-non-book-reviews/1ff211a960c04393.jpg)
 
 ### #8 (Dall-e 3)
 
 Prompt: A steampunk rendition of a crazy female falling in love with a crazy male. In the background complicated machinery.
 
-Song:["Why Do Fools Fall in Love?"](https://www.youtube.com/watch?v=2sAHiR0rkJg)
+Song: ["Why Do Fools Fall in Love?"](https://www.youtube.com/watch?v=2sAHiR0rkJg)
+
+![](https://acximages.ennals.org/images/2025-non-book-reviews/fd8f3748cb715e31.jpg)
 
 ### #9 (Dall-e 3)
 
@@ -85,11 +101,15 @@ Prompt: In the foreground a pretty Caucasian woman with voluminous hair and red 
 
 Song:["Ruby"](https://www.youtube.com/watch?v=VDqOBh0k9pU)
 
+![](https://acximages.ennals.org/images/2025-non-book-reviews/1c448d7dcd605c5b.jpg)
+
 ### #10 (Dall-e 3)
 
 Prompt: In the forgeround a pretty Caucasian woman aged about 40 with voluminous hair and red lipstick. In the background a mobile home with a man in a wheelchair visible in it.
 
-Song:["Ruby"](https://www.youtube.com/watch?v=VDqOBh0k9pU)
+Song: ["Ruby"](https://www.youtube.com/watch?v=VDqOBh0k9pU)
+
+![](https://acximages.ennals.org/images/2025-non-book-reviews/a22937d40d75aff5.jpg)
 
 Here’s why these images suck.
 
@@ -99,7 +119,7 @@ The prompts describe romantic situations and states of mind, but rarely give con
 
 You can say the same about #2, which illustrates some lyrics from “Lola.” Dall-e 3 gives us what you might call the limiting case of a simple, literal instantiation of a prompt: It puts the actual words of the prompt in the image with a crowd below the words, all presumably celebrating whatever it is the words mean. But as for visuals of what the words actually convey about gender and crushes and lust — nada. Where’s the gender-bending? Where’s sex? Where’s Lola? All of them are hidden behind rainbow drapery. Oh, to see a vast miniskirted queen roller blade through at 30 mph and knock over Mr and Mrs. Straights-Love-Rainbows like bowling pins!
 
-Thepeople are either emotionally flat or wearing selfie grins
+The people are either emotionally flat or wearing selfie grins
 
 Most of the prompts describe situations where you would expect to see faces full of feeling. But there is very little emotion on the faces in these images. There’s no fascination, no yearning, no lust, no ecstasy, no distain, no fear, no anger, no sorrow. In fact most of the faces show almost no emotion. The central couple in #2 is unpleasantly stoney-faced, and the faces in #4, # 5 and #9 are just a shade away from blank. (The woman in #4 might be saying, “you want another piece of my heart? Here, take the whole thing. Whatever.”). The women in #9 & 10 are essentially makeup models striking a pose, and the men behind them are staring blankly into space. Is there joy on any faces in the bunch? Yes, some. There’s the beige young couple in #3. And if you’re not squeamish you can count as joy the plastiform glee of the steampunk couple in #6-8 that, over the course of 3 images, intensities into a sort of pop-eyed carnivorous ecstasy. Personally, I experience the looks on their faces not as joy but as over-the-top selfie grins (“here’s us having an awesome time!”)
 
@@ -110,6 +130,8 @@ The worlds are hyper-conventional.
 Regarding any activity or trait that’s judgable, these images are way far up at the “good” end of the judgment spectrum. There’s no sex, no aggression, no odd behavior, nobody playing against type. Nobody is fat, skinny, stooped, flabby or wrinkled. Nobody is homely, nobody even has a prominent nose. There are no smears or scratches or broken things. In short, these images are Barbie.
 
  I wanted to cap this a section with an image of life rolling downhill towards Barbieland but here’s what happened when I submitted the prompt to Dall-e 3 via GPT4:
+
+![](https://acximages.ennals.org/images/2025-non-book-reviews/5e3cd1d1f196fc9c.jpg)
 
 I rest my case.
 
@@ -123,31 +145,41 @@ Below are the Dall-e 2 images that correspond to the Dall-e 3 ones displayed ear
 
 Prompt: Like a rubber ball I come bouncing back to you.
 
-Song:["Rubber Ball"](https://www.youtube.com/watch?v=L28B48G6b68)
+Song: ["Rubber Ball"](https://www.youtube.com/watch?v=L28B48G6b68)
+
+![](https://acximages.ennals.org/images/2025-non-book-reviews/49511c2f3187f1cc.jpg) 
 
 ### #2 (Dall-e 2)
 
 Prompt: Girls will be boys and boys will be girls, it's a mixed up, muddled up, shook up world, except for my Lola.
 
-Song:["Lola"](https://www.youtube.com/watch?v=LemG0cvc4oU)
+Song: ["Lola"](https://www.youtube.com/watch?v=LemG0cvc4oU)
+
+![](https://acximages.ennals.org/images/2025-non-book-reviews/4d06c5cbc4708ca7.jpg)
 
 ### #3 (Dall-e 2)
 
 Prompt: Illustration in the style of a 1950s magazine cover of two people crazy in love
 
-Song:["Why Do Fools Fall in Love"](https://www.youtube.com/watch?v=2sAHiR0rkJg)
+Song: ["Why Do Fools Fall in Love"](https://www.youtube.com/watch?v=2sAHiR0rkJg)
+
+![](https://acximages.ennals.org/images/2025-non-book-reviews/6a8f4a0d36bbbbf0.png)
 
 ### #4 (Dall-e 2)
 
 Prompt: Take another little piece of my heart. You'll know you've got it if it makes you feel good.
 
-Song:["Piece of My Heart"](https://www.youtube.com/watch?v=SCngPse1iiI)
+Song: ["Piece of My Heart"](https://www.youtube.com/watch?v=SCngPse1iiI)
+
+![](https://acximages.ennals.org/images/2025-non-book-reviews/86e12bb1651592fe.png)
 
 ### #5 (Dall-e 2)
 
 Prompt: a man telling a woman she is going to give him her love.
 
-Song:["Not Fade Away"](https://www.youtube.com/watch?v=ZWjoXMY6FNo)
+Song: ["Not Fade Away"](https://www.youtube.com/watch?v=ZWjoXMY6FNo)
+
+![](https://acximages.ennals.org/images/2025-non-book-reviews/d8d6b9a66f2e64a2.jpg)
 
 ### #6 (Dall-e 2)
 
@@ -155,31 +187,41 @@ Prompt: A steampunk rendition of a crazy female falling in love with a crazy mal
 
 Song: ["Why Do Fools Fall in Love"](https://www.youtube.com/watch?v=2sAHiR0rkJg)
 
+![](https://acximages.ennals.org/images/2025-non-book-reviews/8ee0441120d3b916.jpg)
+
 ### #7 (Dall-e 2)
 
 Song.["Why Do Fools Fall in Love?"](https://www.youtube.com/watch?v=2sAHiR0rkJg)
 
 Prompt: A steampunk rendition of a crazy female falling in love with a crazy male. In the background, an atomic blast mushroom cloud
 
+![](https://acximages.ennals.org/images/2025-non-book-reviews/6942f854ce17478b.jpg)
+
 ### #8 (Dall-e 2)
 
-Song:["Why Do Fools Fall in Love?"](https://www.youtube.com/watch?v=2sAHiR0rkJg)
+Song: ["Why Do Fools Fall in Love?"](https://www.youtube.com/watch?v=2sAHiR0rkJg)
 
 Prompt: A steampunk rendition of a crazy female falling in love with a crazy male. In the background complicated machinery.
+
+![](https://acximages.ennals.org/images/2025-non-book-reviews/100d76c93634d004.jpg)
 
 ### #9 (Dall-e 2)
 
 Prompt: In the forgeround a pretty Caucasian woman of about 40 with voluminous hair and red lipstick. In the background a trailer with a man in a wheelchair visible in it.
 
-Song:[Ruby](https://www.youtube.com/watch?v=VDqOBh0k9pU)
+Song: [Ruby](https://www.youtube.com/watch?v=VDqOBh0k9pU)
+
+![](https://acximages.ennals.org/images/2025-non-book-reviews/0eeec26fef05b7fb.jpg)
 
 ### #10 (Dall-e 2)
 
 Prompt: Prompt: In the foreground a pretty Caucasian woman of about 40 with voluminous hair and red lipstick. In the background a trailer with a man in a wheelchair visible in it.
 
-Song:[Ruby](https://www.youtube.com/watch?v=VDqOBh0k9pU)
+Song: [Ruby](https://www.youtube.com/watch?v=VDqOBh0k9pU)
 
-Notice how free the Dall-e 2 images are of Barbieland markers? Minimal unimaginative fleshing out of the prompt? Resounding no. Look, for instance, at #6 - 8, which show the variety of images Dall-e 2 came up with for a single prompt. (And note the lack of variety in the corresponding Dall-e 3 images.). Emotionally flat faces? Are you kidding? This batch shows us eager hopeless hope, an affectionate grin, solitary despair, angry stubborn determination, alarm, veiled homicidal rage and horny blowsy cynicism. Hyper-conventional niceness? Hahaha.There is not one flawless youthful beauty in the bunch, and the people and settings have a layer of dark smudge that suggests dirt and wear. We see quite a bit of transgressive behavior— self-injury, sex in public, sexual assault, recklessness. And did you catch the raunchy grin on the nipple-fondling guy in #8, who is clearly saying to you “hey, wanna watch?”.
+![](https://acximages.ennals.org/images/2025-non-book-reviews/a7827372fba1998c.jpg)
+
+Notice how free the Dall-e 2 images are of Barbieland markers? Minimal unimaginative fleshing out of the prompt? Resounding no. Look, for instance, at #6 - 8, which show the variety of images Dall-e 2 came up with for a single prompt. (And note the lack of variety in the corresponding Dall-e 3 images.). Emotionally flat faces? Are you kidding? This batch shows us eager hopeless hope, an affectionate grin, solitary despair, angry stubborn determination, alarm, veiled homicidal rage and horny blowsy cynicism. Hyper-conventional niceness? Hahaha. There is not one flawless youthful beauty in the bunch, and the people and settings have a layer of dark smudge that suggests dirt and wear. We see quite a bit of transgressive behavior— self-injury, sex in public, sexual assault, recklessness. And did you catch the raunchy grin on the nipple-fondling guy in #8, who is clearly saying to you “hey, wanna watch?”.
 
 Dall-e 2 took me to many odd places, but only a minority seemed random and incoherent, and even the worst of those were entertaining. And the best ones? They shot a spiraling quirky arrow straight through the heart of the matter. Look, for instance, at the sorrowful, earnest, goofy hope on the face in #1, with its big smudged eyes and squiggly smile. Dall-e 2 absolutely nailed ever-hopeful unrequited love with that face. And the other features of the image are not just consistent with that vision of the situation, they intensify and enrich the viewer’s experience of it. Placing the face on a ball, rather than on a person with a ball, captures the speaker’s helplessness and lack of dignity. Having the face looking straight out, rather than at its beloved, cranks up the intensity – the viewer is the position of the beloved. The almost blank background inflicts on the viewer the absence of any other hope or goal in the yearner’s life. And the ball’s wear and smudges tell us the hopeless hope has been going on for a long time.
 
@@ -191,7 +233,7 @@ And look at Dall-e 2’s “Lola.” It puts front and center the thing that’s
 
 ## Antifreeze
 
-AI learns in a way that defies our intuition that knowledge grows from the inside out. We feel that before a mind can grasp complex things it must first place them in an inner structure of categories, hierarchies, valences, regularities, similarities, etc. But AI just sucks up everything ever said about anything and memorizes the patterns and meta-patterns in that material, and now it can produce streams of words that carry more information about more things than even a present-day Leonardo da Vinci could know. There was an outside-to-inside process that produced, if not a mind furnished with knowledge, then something that’s a reasonable stand-in for it.
+        AI learns in a way that defies our intuition that knowledge grows from the inside out. We feel that before a mind can grasp complex things it must first place them in an inner structure of categories, hierarchies, valences, regularities, similarities, etc. But AI just sucks up everything ever said about anything and memorizes the patterns and meta-patterns in that material, and now it can produce streams of words that carry more information about more things than even a present-day Leonardo da Vinci could know. There was an outside-to-inside process that produced, if not a mind furnished with knowledge, then something that’s a reasonable stand-in for it.
 
            Yet despite its capacity to tell us things that improve and enrich the mental structure that is our understanding, AI itself stores its information in a form that lacks much of the structure that our storage has. It does not, for instance, rank things on desirability, because it lacks goals, tastes, emotions, drives and ethics (at least home-grown versions of these). Its cross-referencing across domains is pretty limited. For example, GPT once recommended to me an obviously useless floor cleaning mixture commonly recommended online, vinegar plus baking soda. Yet I know that if I had asked it in another context what that mixture’s reaction products are it would have known, and would also have known that these products can’t clean floors.  I doubt that AI could produce on original analogy.  Could an AI, for instance, compare a total immersion language course to drinking from a fire hose if it had never encountered in its training data an analogy using a fire hose to represent overwhelming information flow? And AI is very limited in its capacity to describe and explain itself. For example, I read that when learning to recognize some eye disease in retinal images AI also became able to tell the gender of each subject but it “didn’t now how it knew” the gender.
 
@@ -203,12 +245,14 @@ Dall-e 3’s algorithm produces images of human situations and emotions that imm
 
 Are images deficient in insideness so bad? Probably not, unless you worry, as I do, that things in human life are gradually losing their insideness as technology progresses. Not that long ago there were many items in daily life whose logic and inner workings were self-evident —ploughs, ice boxes, wagons. But over the last couple hundred years fewer and fewer of the objects in our lives have knowable interiors. Most people now have very little understanding of how their familiar possessions – their phones, their cars, their microwaves – actually work.  While there is an interior under their shiny exteriors, for most of us they might as well have no inner parts or inner workings, but run on magic. Somewhere in the back of our minds there must be a disturbing awareness that we are vulnerable in a way earlier generations weren’t, because we have no picture of the inner workings of many things we use routinely.   If all of these items were destroyed, most of us would have absolutely no idea how to replace them. And couldn’t it be that evolution optimized us for a life where we make things, then live among these things we understand and can reproduce?
 
-And then there’s the shrinking insideness of the people in our lives. Starting around the time television became popular people have been hanging out less and less with other people  and more and more with virtual representations of them.  But plenty has already been written about that, and I won’t repeat it. Instead, here’s a loss-of-insideness story from a friend who also broods about insideness drain.He has a lot of small children in his extended family, and often sees the whole bunch at family gatherings. Until recently, the kids reacted to happy surprises with loud excitement, each expressing the feeling in his or her own way. But now they cry “yay!” in unison. “They saw that on television,” he mutters. “Now they think that’s how kids act when they hear good news. It’s creepy.”
+And then there’s the shrinking insideness of the people in our lives. Starting around the time television became popular people have been hanging out less and less with other people  and more and more with virtual representations of them.  But plenty has already been written about that, and I won’t repeat it. Instead, here’s a loss-of-insideness story from a friend who also broods about insideness drain. He has a lot of small children in his extended family, and often sees the whole bunch at family gatherings. Until recently, the kids reacted to happy surprises with loud excitement, each expressing the feeling in his or her own way. But now they cry “yay!” in unison. “They saw that on television,” he mutters. “Now they think that’s how kids act when they hear good news. It’s creepy.”
 
 And yet, despite all of AI’s deficits, and the way they seem to explain why Dall-e 3 cannot produce deeply interesting and entertaining images of people in love, Dall-e 2 managed to do it.  How?  Did my prompts lead it to the full lyrics, so that it had very rich prompts to work with? (But then why didn’t the prompts take Dall-e 3 to them too?)  Did it use images from album covers for guidance? (But would it have “known” to look at covers of albums the songs appeared in, or at related albums?). Were there more Deviant Art-type images and fewer advertising image in Dall-e 2’s training set, giving it a larger storehouse of unusual-but-valid images as sources? Does the difference all come down to Dall-e 2’s being far less constrained by developer-implanted rules to avoid depicting things that are not “nice”? And how on earth could this not very advanced text-to-image generator have carried out the depth of processing required to produce Image #4, given the prompt “take another little piece of my heart”? How did it know to make the face not just sad-selfie sad, but bleak? What gave it enough grasp of emotions and of physical analogs of mental states to show blank nothing, rather than a wound, under the central hole in the woman’s dress, and then to scatter over the dress black spots that sometimes look like bullet holes and sometimes like black roses in the print on the dress’s cloth and sometimes like both? I would love to hear readers’ ideas about how little Dall-e 2 managed to pull off images like the ones I’ve shown.
 
                                      \*   \*   \*   \*   \*   \*   \*   \*   \*   \*   \*   \*   \*   \*   \*   \*    
 
 Dall-e 2’s site is still up, but it is no longer possible to make images with it. On May 30 of this year the site will be taken down. Goodbye, Dall-e 2.  I won’t forget our wild rides through hot spiced worlds.
+
+![](https://acximages.ennals.org/images/2025-non-book-reviews/ededf90b0813a037.png)
 
 And for you, Dall-e 3, here’s my version of the lavish [celebration](https://vimeo.com/1083773081?share=copy) many think you deserve.

@@ -10,7 +10,7 @@ year: 2024
 publishedDate: '2026-02-06T16:48:20.712Z'
 slug: >-
   passionate-marriage-keeping-love-and-intimacy-alive-in-committed-relationships-by-david-schnarch
-wordCount: 7195
+wordCount: 7200
 readingTimeMinutes: 32
 originalUrl: >-
   https://docs.google.com/document/d/1cp6iw5OEyDjnD_viZo-KL0Zv4jwQnMXtE4yIovfVAco
@@ -39,6 +39,8 @@ Oddly, years later, I found someone issuing the sort of clarion call I was hopin
 
 That book was “Passionate Marriage" by David Schnarch.
 
+![](https://docs.google.com/drawings/d/s2fQky7-Fzq24xW7IKdCV0A/image?parent=1cp6iw5OEyDjnD_viZo-KL0Zv4jwQnMXtE4yIovfVAco&rev=1&drawingRevisionAccessToken=8gMGrQNaLxA3Yg&h=516&w=624&ac=1)
+
 * * *
 
 ## The main deal: A synopsis of the author’s map of the relational world.
@@ -54,6 +56,8 @@ We’re talking extreme character change–change of a type and a magnitude that
 Family Systems Theory has this model as its starting point. So it was developed with the expectation that the usual things people try to do get them right back where they started… and to look in “other directions” than the usual ones, to give a robust approach to “breaking out” of such entrenched patterns.
 
 And that gets me back to the author’s map of the relational world: He arrived at it, in large part, by applying the lens of Bowen Family Systems theory to sexual and marital relationships.
+
+![](https://acximages.ennals.org/images/2024-book-reviews/18ad360165d76c92.png)
 
 * * *
 
@@ -160,6 +164,8 @@ Notice how if your spouse gives you a lousy kiss, this is such a hard thing to 
 
 * * *
 
+![](https://acximages.ennals.org/images/2024-book-reviews/824bb069e575fe46.png)
+
 3.  Illusions
 
 This model we’re using here anticipates family members around each-other will get “locked in” to certain modes of behavior (how we “always” do it), and be constrained by little deceptions and personal myths which become, for one reason or another, difficult to shake. They warp one's vision of oneself and one's family members. From the inside, though, they may even seem utterly necessary.
@@ -251,7 +257,7 @@ So, back to that interview:
 
 “...they studiously route round any explicit moral statement that might impose coercive obligations on someone else…”
 
-Well okay, but maybe this couple has a set of moral convictions that binds them to not carelessly say things that impose coercive obligations on someone else? That IS a morality. (It actually sounds like something about which multiple major in-world treatises would exist in Terra Ignota[[304]](#ftnt304)\--and for reasons.)
+Well okay, but maybe this couple has a set of moral convictions that binds them to not carelessly say things that impose coercive obligations on someone else? That IS a morality. (It actually sounds like something about which multiple major in-world treatises would exist in Terra Ignota[[304]](#ftnt304)--and for reasons.)
 
 If you have “access” to the ears of lots of people who don’t automatically agree with you, have not chosen to bind themselves by the same ethical constraints as you have, yet you want to persuasively speak truth into that person’s life to get him or her to CHANGE… isn’t that a good and beautiful thing? That type of verbal self-restraint… in a world that relishes “letting the outgroup have it,” that… that could be powerful.
 
@@ -310,7 +316,7 @@ I’d say he hit the nail on the head. I’ve sure seen this problem before; may
 
 This sort of request can come in many guises, and I’ve often felt a tingle of apprehension that “taking the bait” (by straightforwardly answering the question) will put me at risk of violating my integrity. I always thought the problem was, “This is just too thorny (and important) to answer in a reasonable amount of time while also being kind.”
 
-But Schnarch points out–no: the problem is they have put you in a position of being an authority on them. Accepting that role and offering that affirming praise (which if you think about it, is usually scripted/dictated for you by them)–for the low, low cost of being a little more entwined in a damaging and dysfunctional dynamic–doesn’t actually improve anything for them: it’s a negative. He seems to be implying that youcan’t give validation; it’s the nature of the beast. Self-validation or nothing; giving nothing is better locking yourself into a dynamic where an adult who came to you for help with his or her “I need to grow more strong and mature” problem relying upon other-validation so explicitly.
+But Schnarch points out–no: the problem is they have put you in a position of being an authority on them. Accepting that role and offering that affirming praise (which if you think about it, is usually scripted/dictated for you by them)–for the low, low cost of being a little more entwined in a damaging and dysfunctional dynamic–doesn’t actually improve anything for them: it’s a negative. He seems to be implying that you can’t give validation; it’s the nature of the beast. Self-validation or nothing; giving nothing is better locking yourself into a dynamic where an adult who came to you for help with his or her “I need to grow more strong and mature” problem relying upon other-validation so explicitly.
 
 So then what do you do when someone tries to put that on you? Schnarch admitted there was a risk and a tension in not just taking that counselee’s bid for affirmation and hitting him back with the good vibe he signaled he wanted. (“...how far could I go before Ken feels like he’s back with his uncommunicative family?”)
 
@@ -363,3 +369,5 @@ But also, remember this is bigger than you.
 The author quotes Pulitzer Prize winner Ernest Becker saying "our social ‘maps’ trivialize life and destroy any opportunity to feel heroic.” Doesn’t mean the opportunities for heroism don’t exist. Just, they’re harder to see.
 
 Be a hero.
+
+![](https://acximages.ennals.org/images/2024-book-reviews/6cd0792ed1108eb6.png)

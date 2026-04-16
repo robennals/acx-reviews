@@ -7,7 +7,7 @@ contestName: 2025 Non Book Reviews
 year: 2025
 publishedDate: '2026-02-06T16:52:48.903Z'
 slug: human-sexuality-reviewed
-wordCount: 6636
+wordCount: 6653
 readingTimeMinutes: 30
 originalUrl: >-
   https://docs.google.com/document/d/1d0vRSj1E93joWWvbUen2XGuDjN_mM94ybMIAADzM2fo
@@ -18,6 +18,8 @@ tags:
 ---
 
 I’ve always been curious about why people are turned on by some things, but not others. Why do [50%](https://www.amazon.com/Tell-Me-What-You-Want/dp/0738234958/) of surveyed men fantasize about their partner sleeping with someone else? Why do something like [45%](https://pubmed.ncbi.nlm.nih.gov/19085605/) of surveyed women have fantasies where they're forced to have sex against their will? What is up with all these fetishes, like people who wear diapers, or findom, or furries? I’m not alone in these questions.
+
+![](https://acximages.ennals.org/images/2025-non-book-reviews/3387c5921f3e8f96.jpg) 
 
  In an essay in 2022,  Scott Alexander laid out some of his confusions about human sexuality:
 
@@ -65,6 +67,8 @@ These twin systems use much of the same psychological machinery and produce simi
 
 The prestige system evolved as humans became more dependent on cultural knowledge, skill acquisition, and complex cooperation. As tool use made pure dominance strategies more dangerous (it's hard to be the alpha when weaker members can kill you in your sleep), humans increasingly relied on prestige. But we never lost the older dominance circuits—we just layered the new system on top.
 
+![](https://acximages.ennals.org/images/2025-non-book-reviews/4fb22b725e4585e6.png)
+
 So, we're left with a leaderboard in our head, keeping track of something called "status" for us and those around us. Status can be earned through dominance or through prestige, but is usually stored in memory and action as a single variable; social software is easier if you just have to keep track of one thing.
 
 Status is constantly being determined at both the micro-level through dozens of micro-signals—indicators of prestige and dominance such as who interrupts whom, gaze-holding time, whose jokes earn laugh-echoes—but it's also created at the macro-level by memory of someone's potential threat and usefulness. In social circumstances, parts of our brain constantly determine relative status, and use it to inform how to act, how to stand, when to talk.
@@ -76,6 +80,8 @@ Keith Johnstone describes the micro-level in his book Impro:
 Taskmaster
 
 For more details on what exactly high and low status look like in practice, [Taskmaster](https://en.wikipedia.org/wiki/Taskmaster_(TV_series)) is a British comedy show that provides a perfect illustration. The show features five comedians completing arbitrary tasks, given to them by the Taskmaster, who then scores and ranks them. It's a comedy show predicated on making a very high-status judge (Greg Davies), who then is funny in contrast to his sniveling assistant (Alex Horne), who is as low-status as possible.
+
+![](https://acximages.ennals.org/images/2025-non-book-reviews/10c592761ec60da4.png)
 
 If you want to see the pure body language of status, look no further than Greg and Alex. This picture shows it, but the [video of them](https://youtu.be/auFi3RzlzPU?t=319) is much clearer. Greg is relaxed, stares fixedly at whomever he is talking to, has his shoulders back. Alex looks around, off in space. He sits forward, tucked in on himself, nervously glances at Greg, constantly making fast darting movements. He compliments and adores Greg; Greg constantly insults him. Greg has all the status, Alex has none. Most of the comedy comes from the difference in status between them, and crucially to the show, Greg's status is amplified by Alex acting so low-status, which makes Greg's judgments of the other comedians feel much more real and powerful.  
   
@@ -124,6 +130,8 @@ So, to summarize, there are two main types of sexiness the human brain can exper
 
 *   Dominance-based LSH: Being controlled, submitting, potentially receiving pain
 *   Prestige-based LSH: Being desired by a high-value partner, being the focus of attention
+
+![](https://acximages.ennals.org/images/2025-non-book-reviews/e2b0bf8f500ff49b.png)
 
 Is this turning into a magic system-esque typology? Slightly, but I think this framework does the best job of explaining the complexity of human sexuality. High and low status are real and ancient, and the dominance and prestige model does the best job of explaining what the components of status are. Combine them together, and this is what you get.
 
@@ -210,9 +218,13 @@ Dominance and sexuality started out interlinked. In most animals, dominance come
 
 Mature male alligators pick an area of river, and hunt down and kill any other male alligators, monopolizing any females in the area until a new male alligator rises up and kills them. In social animals, such as our ape ancestors, dominance developed into hierarchies, where the individuals have a ranking order that dictates who breeds and who doesn't.
 
+![](https://acximages.ennals.org/images/2025-non-book-reviews/18926b5cf56d5ca9.jpg)
+
 Over time, this results in individuals in social species having sophisticated built-in status detectors and motivational systems, so that they can navigate this landscape and find reproductive success. Evolution makes it so that it feels good to be dominant, because now you can monopolize reproductive opportunities, and feeling good is how evolution incentivizes being on top.
 
 Meanwhile, males are spending all this energy fighting each other, testing each other, ranking each other. Females, who invest more resources and time into children than males do and so need to figure out who has good genes, learn to take advantage of this ranking.. "Top of the ranking = good genes" is a great heuristic for quality, because being dominant in a group is a complicated, hard-to-fake signal, similar to many other kinds of male mating displays.
+
+![](https://acximages.ennals.org/images/2025-non-book-reviews/ffb452dd85a5ff0d.png)
 
 Being high status is a hard-to-fake signal, a la a peacock’s tail
 
@@ -225,6 +237,9 @@ This story is sounding pretty gender essentialist: men are doms, women are subs,
 Well, I think it's pretty simple: evolution is a lazy hack.
 
 High status and low status sexuality may have evolved for the reproductive strategies of each gender, but actually giving completely different sexuality systems to each gender would be complicated and hard. After all, every fetus starts out as female, and the blueprints for male and female aren't that different. Instead, evolution found an easier approach: give both sexuality systems to everyone (which isn't too hard when everyone already has built-in status detection modules) and then use hormones to modulate which is more active.
+
+![=
+](https://acximages.ennals.org/images/2025-non-book-reviews/0c110653ea494fcc.png)
 
 Evolution being a lazy hack.        
 
@@ -240,6 +255,8 @@ Armed with this knowledge of status, the two main kinds of sexuality and their s
 Let's dive into some of those mysteries that Scott identified, plus a few more that always confused me until this all started clicking together:
 
 ### Mystery #1: Specific Scenarios
+
+![](https://acximages.ennals.org/images/2025-non-book-reviews/a3a0cfd609580968.png)
 
 Scott writes:
 
@@ -265,6 +282,8 @@ This also makes sense under the status lens. These are people who primarily expe
 
 ### Mystery #3: Hate Sex & Makeup Sex
 
+![](https://acximages.ennals.org/images/2025-non-book-reviews/280976e0b048fbf2.png)
+
 Scott says: “There's people who can only enjoy hate sex, or makeup sex.”
 
 Hate sex: clear, reified status dynamics; the one hating, punishing, being angry is acting higher status than they normally would, by virtue of being more dominant, and the other partner enjoys those higher status actions, despite the anger being directed at them.
@@ -279,7 +298,7 @@ The status theory of sexuality would say that there are people who are attracted
 
 Mystery #5: Forced Fantasies
 
-When I was younger, I was quite confused by the studies showing that a substantial number of women have dark sexual fantasies about coercion, violence, blackmail, and home invasions. According to[one study by Bivona & Critelli](https://pubmed.ncbi.nlm.nih.gov/19085605/), between 31% and 57% of women have fantasies of being forced into sexual activity. I didn't understand why this was so common, but this theory gives a solid answer.
+When I was younger, I was quite confused by the studies showing that a substantial number of women have dark sexual fantasies about coercion, violence, blackmail, and home invasions. According to [one study by Bivona & Critelli](https://pubmed.ncbi.nlm.nih.gov/19085605/), between 31% and 57% of women have fantasies of being forced into sexual activity. I didn't understand why this was so common, but this theory gives a solid answer.
 
 Status differences are hot, and people can enjoy being lower status than someone in a sexual context, even if they normally wouldn't. Someone with the ability to credibly threaten you or hurt you has super high status/authority. Someone can enjoy being overpowered, outmatched, if it happens in a way that demonstrates that the person doing the overpowering has high status.
 
@@ -287,13 +306,15 @@ And yes, this skews female, but it certainly isn't unique to women; there are pl
 
 ### Mystery #6: Cuckold Fantasies
 
-Another mystery was male sexual cuckold fantasies. I knew the simple story of reproductive logic, of men wanting to spread their genes and women being selective, and that completely failed to explain why something like[58% of men in a large survey reported fantasies about watching their partner with another man](https://www.lehmiller.com/blog/2018/4/3/i-want-to-watch-my-partner-having-sex-with-someone-else-the-psychology-of-cuckolding).
+Another mystery was male sexual cuckold fantasies. I knew the simple story of reproductive logic, of men wanting to spread their genes and women being selective, and that completely failed to explain why something like [58% of men in a large survey reported fantasies about watching their partner with another man](https://www.lehmiller.com/blog/2018/4/3/i-want-to-watch-my-partner-having-sex-with-someone-else-the-psychology-of-cuckolding).
 
 I knew why it would make sense for men to fantasize about being the bull, the person sleeping with the other man's wife, from an evolutionary "I'm the best" kind of logic, but instead, the point of view of the fantasy seemed to be from the male, the cuckold, whose partner slept with another man.
 
 Pretty baffling, until you understand that men have low status sexuality as well. Cuckold fantasies or reality is a way to induce intense feelings of low status in a sexual context, especially for men who have self-worth/status tied into which/how many women they're with. The humiliation aspect, which is often central to these fantasies, is essentially a form of extreme LSH, where the status drop itself is the erotic trigger.
 
 ### Mystery #7: Fetishes Through a Status Lens
+
+![](https://acximages.ennals.org/images/2025-non-book-reviews/cf6e89337d55eafa.png)
 
 One of the strengths of the status framework is its ability to explain seemingly bizarre fetishes that appear to have nothing to do with reproduction or conventional attractiveness. Let's look at some examples:
 
@@ -315,7 +336,9 @@ To some degree, yes. I don't think it's a coincidence that anything can be high 
 
 of nuance.
 
-Anything can be sorted into two buckets
+![](https://acximages.ennals.org/images/2025-non-book-reviews/4dd1471b6785267f.png)
+
+                                Anything can be sorted into two buckets
 
 At the same time, I do think our brain does that fundamental simplification, that sorting into high and low status  because it makes social decisions and judgments quicker and easier. Having a leaderboard in your head for those around you and yourself, which tracks who is ahead and who is behind, simplifies a lot of decision making.
 
@@ -334,6 +357,8 @@ And this theory does make testable predictions:
 ### Objection #2: "This Reduces Sex and Love to Status Games"
 
 The status framework might seem to paint an unromantic picture of human sexuality—all calculations and hierarchy rather than connection and intimacy.
+
+![](https://acximages.ennals.org/images/2025-non-book-reviews/589388ad3c4fd36e.png)
 
 But, just because something is uncomfortable, doesn’t mean it’s not true. We don’t particularly like thinking about status, and we don’t like thinking about sexuality; combining them feels uncomfortable. But,
 
@@ -359,6 +384,8 @@ This isn't a complete theory of human sexuality, but it's a substantial improvem
 
 Most importantly, it suggests that sexuality isn't some bizarre exception to our psychological models—it's deeply integrated with our social cognition. The same status-tracking systems that help us navigate office politics and dinner parties are recruited for our most intimate desires.
 
+![](https://acximages.ennals.org/images/2025-non-book-reviews/b7ec79b4a1d9d273.png)
+
 In the quote from Scott that opened this essay, he compared psychology to physics, where the Standard Model works until it doesn't. Perhaps a better analogy would be to early astronomy, where epicycles were added to make geocentric models match observations. Eventually, someone realized that a heliocentric model was simpler and more elegant.
 
 Likewise, a status based theory of sexuality is a framework that replaces increasingly complex explanations (trauma, "daddy issues," classical conditioning)  with a simpler, more unified model. Not "epicycles upon epicycles" to explain each sexual preference, but a single principle from which diverse phenomena naturally emerge.
@@ -372,6 +399,8 @@ To some degree, as mentioned before, this is insight porn; great for understandi
 But, I do think there is some value in understanding the links between status and sexuality. In my life, it’s made me a better lover. I flailed around when I first started sleeping with people, trying out different things. Some things got better reactions, and so, I started doing those things more, but I had no idea why people liked it when I moved them around, told them what to do, lightly choked them, etc. I could vaguely speculate, “I guess being dominant is attractive?” but that was about the limit of the framework I had at the time. I knew BDSM was a thing, and realized that I was acting as a Dom, but I’m a pretty prototypical Scott Alexander reader; I needed a framework, a scaffold to understand what the essence of being a Dom was, not just a list of traits.
 
 And so, I constructed one, pulling from different things I had read; this was the framework I’ve explained in this essay.
+
+![](https://acximages.ennals.org/images/2025-non-book-reviews/470dfeb0f09fb88a.png)
 
 I realized  that I had been with partners that enjoyed me acting high status , and I could lean further into that, now that I knew what the essence of status was. You still have to communicate, to try out different things, to see what the specific person you’re with actually enjoys; this is not license to assume that there is one universal human sexuality and that you know what someone will enjoy.
 

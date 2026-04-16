@@ -7,7 +7,7 @@ contestName: 2025 Non Book Reviews
 year: 2025
 publishedDate: '2026-02-06T16:57:48.927Z'
 slug: sound-bathing
-wordCount: 2523
+wordCount: 2529
 readingTimeMinutes: 12
 originalUrl: >-
   https://docs.google.com/document/d/1hjIUcKi-vIM9RGRZDWPRyUtzZLlVrpaY6Jy81iZVYi4
@@ -78,7 +78,7 @@ Every sound is an invitation to react—to run, dance, turn your head, or shift 
 
 All the sounds above were percussive. Even the marimbas make a sudden burst of sound when the mallet strikes, which makes the resulting tactile sensations easier to notice.
 
-But that[kiki](https://en.wikipedia.org/wiki/Bouba/kiki_effect) spike carries with it a touch of unpleasantness. It’s a miniature jump scare, a minor affront to expectations at the edge of your[predictive processing](https://slatestarcodex.com/2017/09/05/book-review-surfing-uncertainty/) network.
+But that [kiki](https://en.wikipedia.org/wiki/Bouba/kiki_effect) spike carries with it a touch of unpleasantness. It’s a miniature jump scare, a minor affront to expectations at the edge of your [predictive processing](https://slatestarcodex.com/2017/09/05/book-review-surfing-uncertainty/) network.
 
 Singing bowls, by contrast, are as bouba as it gets. Just a single, constant note, resonating for minutes. Unlike the percussive sounds, which evoke a sense of motion and direction, the bowls generate a steady pulse.
 
@@ -114,7 +114,7 @@ But I promised more than mere bliss. I promised long-term effects, on par with m
 
 Here we’ll have to step on epistemically shaky ground. I’m going to make an assertion, which you can, in time, verify empirically: all emotions are just correlated groups of tactile sensations. [2]
 
-Here’s Bessel van der Kolk, in The Body Keeps the Score (reviewed by Scott[here](https://slatestarcodex.com/2019/11/12/book-review-the-body-keeps-the-score/#:~:text=The%20Body%20Keeps%20The%20Score%20is%20a%20book%20about%20post,once%20you%20know%20about%20it.)):
+Here’s Bessel van der Kolk, in The Body Keeps the Score (reviewed by Scott [here](https://slatestarcodex.com/2019/11/12/book-review-the-body-keeps-the-score/#:~:text=The%20Body%20Keeps%20The%20Score%20is%20a%20book%20about%20post,once%20you%20know%20about%20it.)):
 
 In my practice I begin the process by helping my patients to first notice and then describe the feelings in their bodies—not emotions such as anger or anxiety or fear but the physical sensations beneath the emotions: pressure, heat, muscular tension, tingling, caving in, feeling hollow, and so on. I also work on identifying the sensations associated with relaxation or pleasure. I help them become aware of their breath, their gestures and movements.
 
@@ -140,7 +140,7 @@ Each time I untie and retie these knots, I get better at it. I figure out the tr
 
 I’m told by some expert-level meditators that eventually the knots stop re-forming. Edges might appear and disappear as they move their body, or experience an emotion, but their default state is dissolved. Honestly I don’t know how they’re able to ride a bike or put food in their mouth, but I’ve had enough first-hand experience with these states that I trust their reports.
 
-I’ve already drawn some loose parallels between singing bowls, meditation, and psychedelics. For me, all three are part of what I’d call an introspective practice. And increasingly, I’m interpreting my experiences in terms of jhana. (See Scott’s essays[here](https://www.astralcodexten.com/p/nick-cammarata-on-jhana) and[here](https://www.astralcodexten.com/p/jhanas-and-the-dark-room-problem).)
+I’ve already drawn some loose parallels between singing bowls, meditation, and psychedelics. For me, all three are part of what I’d call an introspective practice. And increasingly, I’m interpreting my experiences in terms of jhana. (See Scott’s essays [here](https://www.astralcodexten.com/p/nick-cammarata-on-jhana) and [here](https://www.astralcodexten.com/p/jhanas-and-the-dark-room-problem).)
 
 The first jhana is characterized by—you guessed it—tactile sensations. Practitioners look to identify and amplify pīti, pleasant tingling found anywhere in the body. The metaphor of “champagne bubbles” comes up frequently. For me, nothing conjures pīti more than staticky white noise.
 
@@ -162,6 +162,6 @@ For now, I’ll continue gathering with strangers, laying on the floor, and bask
 
 [1] There’s an important observation here: the tactile sensations are caused both by the sound itself (as in the jump scares), and by the anticipation of sound. This is very much like my experience of music: my brain is constantly reaching for the next note, and the confirmation or rejection of those predictions is what gives the music its flavor.
 
-[2] Meditation instructor Shinzen Young takes a slightly more expansive view, saying that emotions are body sensations plus thoughts—but attributes the “feeling” part to the body. Here’s a brief quote, from[Using Mindfulness Practice to Deal with Negative Urges](https://www.shinzen.org/wp-content/uploads/2016/12/art_urges.pdf)
+[2] Meditation instructor Shinzen Young takes a slightly more expansive view, saying that emotions are body sensations plus thoughts—but attributes the “feeling” part to the body. Here’s a brief quote, from [Using Mindfulness Practice to Deal with Negative Urges](https://www.shinzen.org/wp-content/uploads/2016/12/art_urges.pdf)
 
 It is important to remember that all emotions consist of a mixture of thoughts and body sensations. The actual feeling part of the emotion is a pattern of sensation in your body. That sensation may be in just one location of your body, but often it fills your whole body.

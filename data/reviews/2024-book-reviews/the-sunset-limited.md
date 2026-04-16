@@ -7,7 +7,7 @@ contestName: 2024 Book Reviews
 year: 2024
 publishedDate: '2026-02-06T16:49:50.816Z'
 slug: the-sunset-limited
-wordCount: 6017
+wordCount: 6019
 readingTimeMinutes: 27
 originalUrl: >-
   https://docs.google.com/document/d/1Ki5XsE0jkxZtd2XAeyTAJw1ZjLh2Cu-matUYKAhA6-s
@@ -51,7 +51,7 @@ The main question of The Sunset Limited is why don’t more people want to leav
 
 ## 3\. Blood Meridian
 
-Blood Meridian; or The Evening Redness in the West was closely based on an autobiographical account, My Confession: Recollections of a Rogue, writtenby a member of the Glanton Gang that hunted down Apaches and sold their scalps to the Mexican government. McCarthy traced the exact routes that the Glanton Gang took through Mexico and Texas and traveled them himself. He described almost every mountain and plateau with extreme detail. He learned Spanish so he could write dialogue with Mexican characters in the language it would’ve been spoken in. But one major departure from the autobiographical account is that McCarthy added a couple extra characters into the gang: the devil and an ex-priest. Judge Holden is either the devil, or at the very least a demon. The ex-priest is named Tobin. Judge Holden and Tobin ride around the desert, discussing philosophy as they murder and their debate parallels the debate in Sunset between White and Black.
+Blood Meridian; or The Evening Redness in the West was closely based on an autobiographical account, My Confession: Recollections of a Rogue, written by a member of the Glanton Gang that hunted down Apaches and sold their scalps to the Mexican government. McCarthy traced the exact routes that the Glanton Gang took through Mexico and Texas and traveled them himself. He described almost every mountain and plateau with extreme detail. He learned Spanish so he could write dialogue with Mexican characters in the language it would’ve been spoken in. But one major departure from the autobiographical account is that McCarthy added a couple extra characters into the gang: the devil and an ex-priest. Judge Holden is either the devil, or at the very least a demon. The ex-priest is named Tobin. Judge Holden and Tobin ride around the desert, discussing philosophy as they murder and their debate parallels the debate in Sunset between White and Black.
 
 The Glanton Gang runs out of Apaches and hunts Mexican villagers instead, selling their scalps to the Mexican government who can’t tell where they came from. Judge Holden tells the gang:
 
@@ -126,6 +126,8 @@ If Leighton wanted to summarize that core argument in a tweet – and within the
 Only suffering has an inherent urgency for relief; there’s no corresponding need to create bliss. People are sometimes willing to trade these things off, usually from a position of ignorance about the worst suffering, but that shouldn’t fool us into thinking they’re commensurate.
 
 Speaking of X, Leighton calls his preferred variant of negative utilitarianism xNU+, where the x stands for extreme suffering. (I’ll get to the + bit later, and drop it for now.) xNU distinguishes itself from strawman negative utilitarianism by being willing to say that a utopia marred only by a single pinprick is better than a barren rock.
+
+![](https://acximages.ennals.org/images/2024-book-reviews/27d2382757c670d3.jpg)
 
 It also differs from classical utilitarianism and some other variants of negative utilitarianism in saying that even unfathomably many instances of trivial suffering (like specks of dust in people’s eyes) are preferable to a single instance of torture.
 

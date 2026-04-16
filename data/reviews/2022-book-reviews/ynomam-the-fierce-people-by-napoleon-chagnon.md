@@ -7,8 +7,8 @@ contestName: 2022 Book Reviews
 year: 2022
 publishedDate: '2026-02-06T07:21:54.185Z'
 slug: ynomam-the-fierce-people-by-napoleon-chagnon
-wordCount: 4049
-readingTimeMinutes: 18
+wordCount: 4054
+readingTimeMinutes: 19
 originalUrl: >-
   https://docs.google.com/document/d/1hFzjXliCAWjvheY-8Qd2fhbF79LnX0Xg6R9eqk9yIyI
 source: gdoc
@@ -19,13 +19,15 @@ tags:
 
 I first heard of Napoleon Chagnon’s 1968 Yąnomamö: The Fierce People because of the controversy surrounding it.
 
-The author’s candid account of these southern Venezuelan Amazonians was well-received by some and he was eventually [accused](https://www.google.com/url?q=https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3178026/&sa=D&source=editors&ust=1770366107516264&usg=AOvVaw3-NGYv8QCXOSPZ8CthKsCv) of being a “virtually amoral eugenicist bent on conducting inhumane and deadly field experiments on a phenomenally vulnerable population” while conspiring to commit genocide by introducing “a potentially fatal contraindicated measles vaccine to the Yanomamö, probably inducing the 1968 epidemic, allowing him to test his eugenic theories.”
+The author’s candid account of these southern Venezuelan Amazonians was well-received by some and he was eventually [accused](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3178026/) of being a “virtually amoral eugenicist bent on conducting inhumane and deadly field experiments on a phenomenally vulnerable population” while conspiring to commit genocide by introducing “a potentially fatal contraindicated measles vaccine to the Yanomamö, probably inducing the 1968 epidemic, allowing him to test his eugenic theories.”
 
 Needless to say, I was intrigued.
 
 I learned that “the American Anthropological Association (AAA) saw fit to take [these] claims seriously by conducting a major investigation into the matter”, partly spurred on by anthropologists who objected to Changnon’s sociobiological theories of behavior.
 
 Ultimately, the accusations against Changnon were deemed totally false, though not before he was banned from studying the Yąnomamö and forced to retire from the field.
+
+![](https://acximages.ennals.org/images/2022-book-reviews/953b8844c208e39b.jpg)
 
 It was at this point that I realized that this book belonged to my favorite class of controversy: forbidden knowledge.
 
@@ -67,7 +69,7 @@ The “game” of it all is made amusingly apparent from Yąnomamö mens’ nost
 
 Many of them later reminisced about the early days of my work when I was "timid" and a little afraid of them, and they could bully me into giving goods away.
 
-(We may have to add “taking stuff off nerds” to our list of [Cultural Universals](https://www.google.com/url?q=https://en.wikipedia.org/wiki/Cultural_universal&sa=D&source=editors&ust=1770366107521631&usg=AOvVaw3JrjlqkcVB75SdMY2PhD3w).)
+(We may have to add “taking stuff off nerds” to our list of [Cultural Universals](https://en.wikipedia.org/wiki/Cultural_universal).)
 
 2.  ## Being a Yąnomamö woman sucks, though better when old
     
@@ -92,14 +94,14 @@ With old age, women’s lives improve somewhat:
 
 A woman gains a measure of respect when she becomes old. By then she has adult children who care for her and treat her kindly. Old women also have a unique position in the world of intervillage warfare and politics. They are immune from the incursions of raiders and can go from one village to another with complete disregard for personal danger. In this connection, they are employed as messengers and, on some occasions, as recoverers of bodies.
 
-This reversal of fortune for old women may explain why there are at least two [known](https://www.google.com/url?q=https://www.bbc.com/news/magazine-23758087&sa=D&source=editors&ust=1770366107523915&usg=AOvVaw2iB5nKLuDEG8pgEzCuFcV8) [cases](https://www.google.com/url?q=https://en.wikipedia.org/wiki/Yanoama&sa=D&source=editors&ust=1770366107523997&usg=AOvVaw2YKF8ibWLMiMHBETeyMjhb) of older women choosing to return to the Yąnomamö after having lived in modern society.
+This reversal of fortune for old women may explain why there are at least two [known](https://www.bbc.com/news/magazine-23758087) [cases](https://en.wikipedia.org/wiki/Yanoama) of older women choosing to return to the Yąnomamö after having lived in modern society.
 
 3.  ## Anthropology before ethics committees was bananas
     
 
-There are some really egregious examples like [the anthropologist](https://www.google.com/url?q=https://en.wikipedia.org/wiki/Kenneth_Good_(anthropologist)&sa=D&source=editors&ust=1770366107524346&usg=AOvVaw1k1U9WceNw97gNyYjops1G) who married and impregnated a teenage Yąnomamö girl then brought her back to New Jersey, but even the relatively scrupulous Changnon engaged in some curious practices. The 60s may have been an Anthropology-story sweet spot where rigorous records were kept, but they also got up to some wacky hijinks.
+There are some really egregious examples like [the anthropologist](https://en.wikipedia.org/wiki/Kenneth_Good_(anthropologist)) who married and impregnated a teenage Yąnomamö girl then brought her back to New Jersey, but even the relatively scrupulous Changnon engaged in some curious practices. The 60s may have been an Anthropology-story sweet spot where rigorous records were kept, but they also got up to some wacky hijinks.
 
-The best of these is when the author decides to take his friend Rerebawä to the Venezuelan capital Caracas in a [Coming to America](https://www.google.com/url?q=https://en.wikipedia.org/wiki/Coming_to_America&sa=D&source=editors&ust=1770366107524863&usg=AOvVaw0CMJYdwGhgSVQKF5NAqPJq)\-esque adventure. Rerebawä had never left the woods before, so naturally, they immediately fly him through a lighting storm in a cargo plane.
+The best of these is when the author decides to take his friend Rerebawä to the Venezuelan capital Caracas in a [Coming to America](https://en.wikipedia.org/wiki/Coming_to_America)-esque adventure. Rerebawä had never left the woods before, so naturally, they immediately fly him through a lighting storm in a cargo plane.
 
 Our hapless traveler first wonders if the plane will collide with the “upper layer” of the cosmos, before being downright traumatized by violent turbulence around what he thinks is their giant metal bird:
 
@@ -130,7 +132,9 @@ However, totally unchecked aggression would result in unsustainable levels of ho
 
 They have a series of graded forms of violence that ranges from chest-pounding and club-fighting duels to out-and-out shooting to kill. This gives them a good deal of flexibility in settling disputes without immediate resort to killing.
 
-The customs of chest-pounding and club-fights have the same basic rules: contestants take turns hitting each other in a designated way until someone gives up. I was struck by how much these graded-violence customs resembled a game I experienced in middle school: [bloody knuckles](https://www.google.com/url?q=https://en.wikipedia.org/wiki/Bloody_knuckles&sa=D&source=editors&ust=1770366107529224&usg=AOvVaw1gGnMSMYnTq9MLvYa2awiE). The rules are exactly the same as the Yąnomamö customs, except you take turns striking the knuckles rather than thumping the chest or clubbing the head.
+The customs of chest-pounding and club-fights have the same basic rules: contestants take turns hitting each other in a designated way until someone gives up. I was struck by how much these graded-violence customs resembled a game I experienced in middle school: [bloody knuckles](https://en.wikipedia.org/wiki/Bloody_knuckles). The rules are exactly the same as the Yąnomamö customs, except you take turns striking the knuckles rather than thumping the chest or clubbing the head.
+
+![](https://acximages.ennals.org/images/2022-book-reviews/0c06066bc036c38a.png)
 
   
 The interesting thing about all three of these games is that it’s hard to be good at them in a way that can be straightforwardly leveraged to bully everyone. Unlike say a wrestling match or sword duel, it’s more about durability than skill, and even the winner inevitably emerges worse for wear. After a hard-fought contest, you’re in no position to challenge anyone else for a while so there’s a natural limit to how often you can participate.  
@@ -151,13 +155,15 @@ Further, plantains are an Old-world crop, first brought along long trade network
 
 You may have seen this photo before:
 
+![](https://acximages.ennals.org/images/2022-book-reviews/65bd9d6b05f6be8a.jpg)
+
 These are indigenous Amazonians photographed from the air. When I first saw this I was fascinated, but also confused by two items that seemed out of place. The first is what looks like a machete in the center boy’s hand, but even more interesting is the small white pot by their feet.
 
 Chagnon explains:
 
 Most Yąnomamö groups still use clay pots, although these are being rapidly replaced by aluminum ware, which is traded inland to the more remote villages.
 
-Metallic aluminum is a modern invention, and early on it was [incredibly expensive](https://www.google.com/url?q=https://en.wikipedia.org/wiki/History_of_aluminium%23Early_industrial_production&sa=D&source=editors&ust=1770366107532119&usg=AOvVaw0A7lsaWX2G5FHV2cJiXT_d). A small block of aluminum was once displayed alongside France’s crown jewels, and Emperor Napoleon III (Napoleon Bonaparte’s nephew) kept aluminum cutlery for his most honored guests (the less honored had to settle for gold).
+Metallic aluminum is a modern invention, and early on it was [incredibly expensive](https://en.wikipedia.org/wiki/History_of_aluminium#Early_industrial_production). A small block of aluminum was once displayed alongside France’s crown jewels, and Emperor Napoleon III (Napoleon Bonaparte’s nephew) kept aluminum cutlery for his most honored guests (the less honored had to settle for gold).
 
 Archeologists tell of paleolithic burial sites containing seashells, artifacts, and minerals from thousands of miles away. It had felt hard to conceptualize a prehistoric trade network that could move goods so far, but the movement of these pots illustrate this beautifully.
 
@@ -168,7 +174,9 @@ Walking entails certain kinds of risks. The Yąnomamö have no shoes or clothing
 
 I knew that early people had walked around barefoot, but I’d assumed that their hardened feet offered protection from all but the worst environments (snow, pointy rocks, etc.). It seems that they don’t, and now I really appreciate shoes (sorry barefoot runners).
 
-That said, cane sandals don’t seem particularly [hard to make](https://www.google.com/url?q=https://www.youtube.com/watch?v%3Di-WYT2UotIc&sa=D&source=editors&ust=1770366107533673&usg=AOvVaw1oQ3mwNNY_rJxVDh146pra) so I don’t exactly understand how they haven’t invented something to protect their feet, yet can come up with specialized contraptions for climbing thorny trees:
+That said, cane sandals don’t seem particularly [hard to make](https://www.youtube.com/watch?v=i-WYT2UotIc) so I don’t exactly understand how they haven’t invented something to protect their feet, yet can come up with specialized contraptions for climbing thorny trees:
+
+![](https://acximages.ennals.org/images/2022-book-reviews/a0fe4dd94fbf1a15.png)
 
 I’ve never worn cane sandals though, so maybe shoes below some level of sophistication just aren’t worth the fuss.
 
@@ -183,6 +191,8 @@ This exchange rate surprised me, though I soon remembered traveling in developin
     
 
 Psychoactive “plant medicines” like psilocybin, peyote, and ayahuasca are increasingly popular, and many have origins in indigenous cultures. They’re often used with the goal of reaching deep truths and higher levels of conscientiousness, and I’d expected to see this from the Yąnomamö as well.
+
+![](https://acximages.ennals.org/images/2022-book-reviews/49dfd40d78ef1787.png)
 
 However, continuing with their inconvenient flouting of stereotypes, the Yąnomamö seem to mostly take drugs to get really stoned:
 
@@ -225,17 +235,17 @@ Tribal warfare in the Stone Age is about as far from our world as you can get, s
 
 [[4]](#ftnt_ref4) During the convention, Chicago cops indiscriminately attacked not just anti-war protestors but also journalists, photographers, and even innocent bystanders, to the horror of those watching on TV.
 
-[[5]](#ftnt_ref5) Also, he never once expresses dominance over his aides by making them come into the bathroom with him and take dictation [while he takes a dump](https://www.google.com/url?q=https://knowledgenuts.com/lyndon-johnson-held-meetings-on-the-toilet/&sa=D&source=editors&ust=1770366107539615&usg=AOvVaw2EWiPuULMIKrotxIRG2iuA).
+[[5]](#ftnt_ref5) Also, he never once expresses dominance over his aides by making them come into the bathroom with him and take dictation [while he takes a dump](https://knowledgenuts.com/lyndon-johnson-held-meetings-on-the-toilet/).
 
-[[6]](#ftnt_ref6) This is, of course, a grossly oversimplified summary of the actual deal; if you want more, [Wikipedia has a good overview](https://www.google.com/url?q=https://en.wikipedia.org/wiki/Camp_David_Accords&sa=D&source=editors&ust=1770366107539877&usg=AOvVaw0NKuqtLDIOlM90toUrW9df)
+[[6]](#ftnt_ref6) This is, of course, a grossly oversimplified summary of the actual deal; if you want more, [Wikipedia has a good overview](https://en.wikipedia.org/wiki/Camp_David_Accords)
 
 [[7]](#ftnt_ref7) It’s never been definitely proven that Kennedy was drunk at the time, but it seems pretty safe to assume he was given that he was leaving a party where he was seen drinking—and because it’s extremely uncommon for sober people to drive off bridges.
 
-[[8]](#ftnt_ref8) It also wouldn’t be unprecedented, as we now know for sure that the Nixon campaign [similarly conspired](https://www.google.com/url?q=https://www.politico.com/magazine/story/2017/08/06/nixon-vietnam-candidate-conspired-with-foreign-power-win-election-215461/&sa=D&source=editors&ust=1770366107540403&usg=AOvVaw3EGpMm5DOt2pZnfFU80dZy) to mess up LBJ’s Vietnam peace talks.
+[[8]](#ftnt_ref8) It also wouldn’t be unprecedented, as we now know for sure that the Nixon campaign [similarly conspired](https://www.politico.com/magazine/story/2017/08/06/nixon-vietnam-candidate-conspired-with-foreign-power-win-election-215461/) to mess up LBJ’s Vietnam peace talks.
 
 [[9]](#ftnt_ref9) 20 years later, when someone steals George W. Bush’s debate prep materials and passes them to Al Gore, the Gore campaign immediately alerts the FBI.
 
-[[10]](#ftnt_ref10)        [World Bank data](https://www.google.com/url?q=https://data.worldbank.org/indicator/NY.GDP.MKTP.KD.ZG?end%3D2020%26locations%3Dcn%26start%3D1961%26view%3Dchart&sa=D&source=editors&ust=1770366107540781&usg=AOvVaw1h5HqF_8JrKMRaFc9pRWj3).
+[[10]](#ftnt_ref10)        [World Bank data](https://data.worldbank.org/indicator/NY.GDP.MKTP.KD.ZG?end=2020&locations=cn&start=1961&view=chart).
 
 [[11]](#ftnt_ref11)        Employment went down from 76 million to 28 million in this period.
 
@@ -243,7 +253,7 @@ Tribal warfare in the Stone Age is about as far from our world as you can get, s
 
 [[13]](#ftnt_ref13) Latané and Darley (1968). I couldn’t find any positive or negative replications of this exact experiment, but the general conclusion, called the Bystander Effect, has been extensively replicated.
 
-[[14]](#ftnt_ref14) It’s hard to tell because this [article was originally in French](https://www.google.com/url?q=https://www.francetvinfo.fr/sante/maladie/coronavirus/deux-ans-apres-le-debut-de-la-pandemie-de-covid-19-ou-en-est-l-enquete-sur-les-origines-du-sars-cov-2_4911225.html&sa=D&source=editors&ust=1770366107541506&usg=AOvVaw1rTxBRJHijVAyQFLaVGPL3), but after [putting it through Google Translate](https://www.google.com/url?q=https://www-francetvinfo-fr.translate.goog/sante/maladie/coronavirus/deux-ans-apres-le-debut-de-la-pandemie-de-covid-19-ou-en-est-l-enquete-sur-les-origines-du-sars-cov-2_4911225.html?_x_tr_sl%3Dfr%26_x_tr_tl%3Den%26_x_tr_hl%3Den-GB%26_x_tr_pto%3Dwapp&sa=D&source=editors&ust=1770366107541714&usg=AOvVaw2FR61gz9HDGJASvKGfbo_6), it sounds like the head of the research team who discovered BANAL-52, Marc Eloit, still considered the lab origin scenario to be plausible as of January 2022.
+[[14]](#ftnt_ref14) It’s hard to tell because this [article was originally in French](https://www.francetvinfo.fr/sante/maladie/coronavirus/deux-ans-apres-le-debut-de-la-pandemie-de-covid-19-ou-en-est-l-enquete-sur-les-origines-du-sars-cov-2_4911225.html), but after [putting it through Google Translate](https://www-francetvinfo-fr.translate.goog/sante/maladie/coronavirus/deux-ans-apres-le-debut-de-la-pandemie-de-covid-19-ou-en-est-l-enquete-sur-les-origines-du-sars-cov-2_4911225.html?_x_tr_sl=fr&_x_tr_tl=en&_x_tr_hl=en-GB&_x_tr_pto=wapp), it sounds like the head of the research team who discovered BANAL-52, Marc Eloit, still considered the lab origin scenario to be plausible as of January 2022.
 
 [[15]](#ftnt_ref15) In a reminder of the Orwellian nature of the Chinese government, one of these doctors was even made to sign a confession letter admitting to this “crime”.
 
@@ -255,14 +265,14 @@ Tribal warfare in the Stone Age is about as far from our world as you can get, s
 
 [[19]](#ftnt_ref19) I don’t know.
 
-[[20]](#ftnt_ref20) Excepting Russa, which has [high immigration rates](https://www.google.com/url?q=https://www.rferl.org/a/migrants-welcome-is-russia-trying-to-solve-its-demographic-crisis-by-attracting-foreigners-/30677952.html&sa=D&source=editors&ust=1770366107543792&usg=AOvVaw1SpbBbdp8czr43nuOhP5t7).
+[[20]](#ftnt_ref20) Excepting Russa, which has [high immigration rates](https://www.rferl.org/a/migrants-welcome-is-russia-trying-to-solve-its-demographic-crisis-by-attracting-foreigners-/30677952.html).
 
-[[21]](#ftnt_ref21) Though the [SPLC strenuously disagrees](https://www.google.com/url?q=https://www.splcenter.org/fighting-hate/extremist-files/individual/john-tanton&sa=D&source=editors&ust=1770366107543963&usg=AOvVaw38dKKv4VHz0uJL2HO0Ggg8)
+[[21]](#ftnt_ref21) Though the [SPLC strenuously disagrees](https://www.splcenter.org/fighting-hate/extremist-files/individual/john-tanton)
 
-[[22]](#ftnt_ref22) A great title for a B-list sci-movie about assimilation into a [hive mind](https://www.google.com/url?q=https://en.wikipedia.org/wiki/Group_mind_(science_fiction)&sa=D&source=editors&ust=1770366107544139&usg=AOvVaw0etU9BeikO705lH5NTZ-VI), incidentally
+[[22]](#ftnt_ref22) A great title for a B-list sci-movie about assimilation into a [hive mind](https://en.wikipedia.org/wiki/Group_mind_(science_fiction)), incidentally
 
 [[23]](#ftnt_ref23) A friend notes that the black nationalist movement (like the Black Panthers and the Nation of Islam) are possible counter-examples, though neither were quite elite ideologies.
 
-[[24]](#ftnt_ref24) Though [see this Tyler Cowen post contra this idea](https://www.google.com/url?q=https://marginalrevolution.com/marginalrevolution/2008/05/network-effect.html&sa=D&source=editors&ust=1770366107544516&usg=AOvVaw1XN_eTlKbSX6UprqPAhnqY), pointing out within-country diversity has probably increased
+[[24]](#ftnt_ref24) Though [see this Tyler Cowen post contra this idea](https://marginalrevolution.com/marginalrevolution/2008/05/network-effect.html), pointing out within-country diversity has probably increased
 
 [[25]](#ftnt_ref25) American History by David Muzzey, which spoke to the anxieties of immigration, eg, “some...think that the process has injured our country by introducing a base alloy”

@@ -7,7 +7,7 @@ contestName: 2025 Non Book Reviews
 year: 2025
 publishedDate: '2026-02-06T16:55:03.478Z'
 slug: judaism
-wordCount: 3981
+wordCount: 3995
 readingTimeMinutes: 18
 originalUrl: >-
   https://docs.google.com/document/d/1a3q0Z2tuPLLbDeg5-pfEffkajGjrfPDwE7ZMs7uaWQs
@@ -31,6 +31,8 @@ Some background:
 
 The Creator of Heaven and Earth communes with a Mesapotamian man named Abraham, and makes a series of covenants with his family.
 
+![](https://acximages.ennals.org/images/2025-non-book-reviews/c58a72fc6d5addc4.png)
+
 “Naahhhh I was just kidding with that one. Absolutely crazy that you were willing to go through with it, though.”
 
 In one of these covenants, Abraham is told that his descendants will be subjugated in a foreign land for 400 years, but then rescued and brought into their homeland.
@@ -38,6 +40,8 @@ In one of these covenants, Abraham is told that his descendants will be subjugat
 Abraham’s descendants are paroled early out of slavery in Egypt, after serving 210 years of their sentence. A man named Moses chastises Pharoah with miraculous punishments and negotiates for the Israelites’ release.
 
 Moses leads his newly-freed people into the desert, and from a mountain-top brings them the Divine Book, the Torah (lit. “Law”; “Instruction”; “Teaching”). Moses is Abraham’s great-great-great-great grandson on his father’s side, and Abraham’s great-great-great grandson on his mother’s side, and is considered to be the humblest man who ever lived.
+
+![](https://acximages.ennals.org/images/2025-non-book-reviews/c433ad7aa3c53123.png)
 
 But he could still throw down when he had to.
 
@@ -49,17 +53,21 @@ So far so good. The early Hebrews confederate, are conquered and exiled, and ret
 
 During a civil war, they invite Roman interference, which predictably ends in Judea becoming a Roman vassal and subject. The Romans have a particular dislike for their new subjects: Jews keep to themselves, they don’t integrate well into Roman society, and they rebel with ferocity. These rebellions are put down with extreme force, and Jews live under Roman occupation and oppression for a few centuries.
 
-Pictured: extreme force
+![](https://acximages.ennals.org/images/2025-non-book-reviews/e8980da40c37fd10.png)Pictured: extreme force
 
 The Roman sandal stays on the Jewish neck for centuries, but the intensity of the oppression fluctuates based on whoever happens to be Emperor in Rome, and whoever happens to be Governor in Judea.
 
 Around 200 AD, a Jewish leader called Judah the Prince sees his chance. Renowned stoic philosopher Marcus Aurelius Antoninus has ascended to the Roman purple; and Judah the Prince sees in the new emperor not merely a sympathetic ruler, but a genuine intellectual counterpart. (Later Jewish sources record their conversations and their bromance, including a notable episode about which Judah the Prince later concedes “this matter I learned from Antoninus.”)
 
-For a good time, compare the opening passage of [Book 2 of the ‘Meditations’](https://classics.mit.edu/Antoninus/meditations.2.two.html) with Judah the Prince’s personal prayer at the bottom of [Berakhot 16b](https://www.sefaria.org/Berakhot.16b?lang=en)
+![](https://acximages.ennals.org/images/2025-non-book-reviews/a07027157fd90450.png)
+
+For a good time, compare the opening passage of [Book 2 of the ‘Meditations’](https://classics.mit.edu/Antoninus/meditations.2.two.html) with Judah the Prince’s personal prayer at the bottom of [Berakhot 16b](https://www.sefaria.org/Berakhot.16b?lang=en) 
 
 Judah the Prince assembles the learned men of his day, and redacts the Oral Law into a single unified text called “the Mishnah” (lit. “repetition”; “recital”; “sharpening”; “toothmaker”; even “teaching”). Omissions and contradictions are ironed out; supplementary materials considered canonical-but-superfluous make their way into less-central compilations.
 
 The Mishnah is taught to generation after generation of trainee judge, with a teacher’s manual called the Gemara gradually being added to the corpus. After about four hundred years of this, the final combination of Mishnah + Gemara are compiled into a text that will become Judaism’s source code in exile: an intricate literary goliath called “the Talmud” (lit. “teaching”, once again). Confusingly, the entire Talmud is often also simply called the Gemara.
+
+![](https://acximages.ennals.org/images/2025-non-book-reviews/51039e8cb9bb3fd8.png)
 
 The 73-volume Artscroll translation of the Talmud, complete with commentary. A steal at merely [$2,999 USD](https://www.amazon.com/Complete-Talmud-Bavli-Full-Size-Schottenstein/dp/B0037XGR6I).
 
@@ -71,17 +79,21 @@ For centuries, the Talmud and her pursuant discourse were how Jews learned to be
 
 Then, the Enlightenment struck, followed by the relaxing of anti-Jewish restrictions across the Continent. Suddenly, Jews weren’t merely outsiders with their own distinct culture. They could be full citizens of their host countries, participants in the cosmopolitan effort of humanism. For the first time, you could be an Englishman-who-happened-to-be-Jewish rather than a Jew-who-happened-to-live-in-England.
 
+![](https://acximages.ennals.org/images/2025-non-book-reviews/e7b8728a740872de.png)
+
 Benjamin Disraeli, whose Jewish birth did not prevent him from twice becoming Prime Minister of the United Kingdom
 
 Being raised in the social milieu of their host nations meant that Jews now learned how to be human by being Westerners, and their Judaism was largely relegated to an (often arbitrary) set of identity markers. Thus modern discussions in Jewish law often look like an absurd game of divine legal sudoku. Scholars furiously discuss ritual purity and food taboos, completely divorced from any understanding of water scarcity and disease vectors and the carrying capacity of ancient Judea.
 
 When we look back at the arguments of the sages in the Talmud, it sure seems like they’re playing Absurd Divine Legal Sudoku as well, at least at first glance. But with an appreciation of their material conditions and shared language, you can still glimpse [the real high-stakes conversations they were having](https://www.academia.edu/8844716/_The_Prosbul_A_Legal_Fiction_Jewish_Law_Annual_19_1_16), albeit framed in an [unfamiliar theologically-laden shorthand](https://www.academia.edu/112985684/Wise_hukkim_and_the_Byzantine_sermonic_ideology_of_a_Divine_fiat).
 
+![](https://acximages.ennals.org/images/2025-non-book-reviews/327197922d416e01.png)
+
 “From what time does one recite Shema in the evening?” the Talmud begins, presuming you already know (a) what the Shema is, (b) that it is recited in the evening, (c) what the function of that recitation is, and (d) that there are more- and less- ideal times for its recitation.
 
 Although most people studying the Talmud today are missing a huge amount of context, they can (and do) still greatly exert their minds in following the logic of her arguments. And while this tragic misunderstanding yet persists - that the Classical sages were only playing Absurd Divine Legal Sudoku - the study of the Talmud still trains a mind to think in a robust and useful way. Although [a point of hot contention](https://pubmed.ncbi.nlm.nih.gov/16867211/) (like everything else), it is often thought that this rigour is what has honed the Jewish mind to master other domains like economics, chemistry, literature, and mathematics. In The Polgar Variant, László Polgár, who validated his pedagogical methodology by raising his three daughters into chess grandmasters, genuflects briefly, but tantalisingly, to the Talmud.
 
-  
+![](https://acximages.ennals.org/images/2025-non-book-reviews/1b1a4061ef4facaf.png)  
 A fun image to drop into various conversations, I think.
 
 I have a friend who was ordained as a rabbi, then went to law school. “After yeshiva, law school was easy,” he told me.
@@ -160,7 +172,7 @@ Another thing that persecution helps with is being funny. Use your pain, they sa
 
 We can distinguish fairly neatly between Jewish comedy and comedy by Jews. In the latter, you have your Jerries Seinfeld, your Rodneys Dangerfield, your Jons Stewart. In the former, it’s a different breed. Mel Brooks might be the only true master of Jewish comedy to break through to broader popularity, but from within the tribe, the type specimen is [a man named Jackie Mason](https://www.youtube.com/watch?v=0hz8oCT2HTc).
 
-"My grandfather always said that I shouldn't watch my money. That I should watch my health.  
+![](https://acximages.ennals.org/images/2025-non-book-reviews/9b7c4c453c638fbe.png)"My grandfather always said that I shouldn't watch my money. That I should watch my health.  
 So while I was watching my health, someone stole my money. It was my grandfather."
 
 We’re a neurotic people, with plenty to be neurotic about. It’s hard to say that the comedy is always helping, rather than making things worse. But when it does help, it seems to have two main benefits. An old Hassidic tale:
@@ -173,6 +185,8 @@ The man laughed, and so Reb Bunim was able to reach out and save him.
 I mentioned this story to a friend, who said “it’s obviously about depression right? Can we agree that’s what this story is about?”
 
 I hadn’t realised it before then, but it struck me that my friend was correct. When someone is in a bad-enough place, you can’t even begin to do the important work of heal & rescue until you’ve shaken him a little. A good joke is supremely useful for that purpose. For a contemporary example, here’s [Tony Robbins using the same technique](https://www.youtube.com/watch?v=k_YqsqJBUfw&rco=1).
+
+![](https://acximages.ennals.org/images/2025-non-book-reviews/93f3dfc0aac4f83b.png)
 
 The Hassidic masters were rarely said to have possessed such striking jawlines
 
@@ -216,22 +230,28 @@ Most Jews don’t wear hats, but for those who do, hats are very serious busines
 
 Jewish law requires men to cover their heads. Males start wearing one of these from the age of three:
 
+![](https://acximages.ennals.org/images/2025-non-book-reviews/ab0b5e7e761729a5.png)
+
 It’s called a kippah (lit. “cover”) or yarmulke (lit. “fear of the King”), and it’s meant to indicate humility before one’s Creator.
 
 (Married Jewish women [also cover their heads](https://en.wikipedia.org/wiki/Head_covering_for_Jewish_women), but that’s it’s own whole thing and beyond the scope of this essay.)
 
 OK, so far so good. The kippah above is a fairly standard Chabad design. Here’s a selection of other designs, along with [attached signaling information](https://www.pewresearch.org/short-reads/2016/04/20/what-different-styles-of-head-coverings-say-about-israeli-jewish-men/):
 
-  
+![](https://acximages.ennals.org/images/2025-non-book-reviews/7281e46a0449e8de.png)  
 Hard to believe this is straight from Pew.
 
 If you’re sufficiently attuned to the Matrix, you can tell all sorts of things about a Jew from his hat. There’s the basic divide between the black kippot and the knitted kippot. You can often tell how serious a guy is in his faith (or how much he wants his faith to be taken as a core part of his identity) by the size of his kippah. And he’ll sometimes tell you explicitly about his political or sports or pop culture allegiances too.
 
+![](https://acximages.ennals.org/images/2025-non-book-reviews/9cec682b772335bb.png)![](https://acximages.ennals.org/images/2025-non-book-reviews/c5ca39b6d434b558.png)![](https://acximages.ennals.org/images/2025-non-book-reviews/f6b8d2399ad9f5ad.png)
+
 But once you get into the ultra-Orthodox world, you’re normally seeing an additional hat on top of the kippah. Take a look:
+
+![](https://acximages.ennals.org/images/2025-non-book-reviews/cb4224a8a5f78e9f.png)
 
 At first glance, they’re all dressed the same, right? But the longer you look, the more you notice subtle differences. These differences speak volumes to those who have ears to hear. I recently asked a good friend and mentor of mine to explain his hat.
 
-  
+![](https://acximages.ennals.org/images/2025-non-book-reviews/14369be71af00e75.png)  
 His hat looks like this.
 
 He said, and I quote here almost verbatim:
@@ -256,3 +276,5 @@ I have taught my Torah, yet my students took from me like the quill draws from t
 So, please, take everything I’ve said with a sense of perspective.
 
 And if you’re ever in Jerusalem, [come for Shabbos](mailto:metonacx@gmail.com). (I’m serious, btw. I’ve cleared it with my wife and everything.)
+
+![](https://acximages.ennals.org/images/2025-non-book-reviews/c1ad1a57f96b197e.png)

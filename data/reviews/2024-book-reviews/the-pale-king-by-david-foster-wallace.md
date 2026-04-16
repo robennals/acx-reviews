@@ -1,5 +1,5 @@
 ---
-title: "The Pale King\_by David Foster Wallace"
+title: The Pale King by David Foster Wallace
 author: Unknown
 reviewAuthor: Anonymous
 contestId: 2024-book-reviews
@@ -7,7 +7,7 @@ contestName: 2024 Book Reviews
 year: 2024
 publishedDate: '2026-02-06T16:49:50.813Z'
 slug: the-pale-king-by-david-foster-wallace
-wordCount: 6395
+wordCount: 6396
 readingTimeMinutes: 29
 originalUrl: >-
   https://docs.google.com/document/d/1Ki5XsE0jkxZtd2XAeyTAJw1ZjLh2Cu-matUYKAhA6-s
@@ -52,7 +52,7 @@ He believed contemporary fiction was stuck in two modes: cheap entertainment, or
 
 After I left the radical left, it was hard to find anything to believe in. The rightists were refreshingly frank, but dealt with postmodernism mainly by strawmanning it, ignoring its strongest points and asserting the naivest of realisms. Besides, their ideas were ugly and brutal. Religion offered another path, but again, it felt like mere reaction—giving up on synthesis and bowing out of the intellectual conversation altogether.
 
-Wallace was one of the few suggesting something new. In Wallace’s world, postmodernism and consumer culture form a wicked duo, the former reducing reality to discourse, and the latter papering over the resulting emptiness with a carnival of glittering distractions. His work uses the techniques of postmodernism to depict the frenetic, saturated tempo of modern life, but through it all unearthed the perennially human—like he was saying look, we haven’t seen it in awhile, but it’s still here! The project of writing sincere fiction striving for moral depth was so out of vogue, it’s almost shocking at times to read; while his style is arch-modern, he considered 19th\-century novelists his spiritual inspiration. Wallace offered a worldview which was old fashioned but not right-wing, beautiful and true, but also sophisticated.[5](#h.ozxmi317vmci)
+Wallace was one of the few suggesting something new. In Wallace’s world, postmodernism and consumer culture form a wicked duo, the former reducing reality to discourse, and the latter papering over the resulting emptiness with a carnival of glittering distractions. His work uses the techniques of postmodernism to depict the frenetic, saturated tempo of modern life, but through it all unearthed the perennially human—like he was saying look, we haven’t seen it in awhile, but it’s still here! The project of writing sincere fiction striving for moral depth was so out of vogue, it’s almost shocking at times to read; while his style is arch-modern, he considered 19th-century novelists his spiritual inspiration. Wallace offered a worldview which was old fashioned but not right-wing, beautiful and true, but also sophisticated.[5](#h.ozxmi317vmci)
 
 In short, I became a huge Wallace stan. I began devouring his essays and short stories, name-dropping him constantly, even pinned a David Foster Wallace button to my backpack. I was a little discomfited by talk of the [supposed obnoxiousness of his fans](https://electricliterature.com/men-recommend-david-foster-wallace-to-me/): “David Foster Wallace lit-bros,” who “played ultimate frisbee, rallied against multinational beverage corporations, listened to The Mountain Goats, and told me to read Infinite Jest.”
 
@@ -114,7 +114,7 @@ The plot builds towards a war over the future of the IRS: with one side wanting 
 
 Wallace is, of course, on team human. His criticism of the profit motive parallels his rejection of minimalism, the aesthetic of postmodernism: when we reduce reality to a thin, abstract variable, whether that be profit or discourse, we mutilate it. And once we’re there , all that’s left is our role as solipsistic consumers.
 
-One of the most moving sections of the book is a 100-page novella smack in the middle, written from the perspective of wastoid[11](#h.ozxmi317vmci)\-turned-accountant Chris Fogel. Chris’ 1970s youth was spent in partying and shallow rebellion, once again, papering over a deep emptiness: “I think the truth is that I was the worst kind of nihilist—the kind who isn’t even aware he’s a nihilist. I was like a piece of paper on the street in the wind, thinking, ‘Now I think I’ll blow this way, now I think I’ll blow that way.’ My essential response to everything was ‘Whatever.’”[12](#h.ozxmi317vmci)
+One of the most moving sections of the book is a 100-page novella smack in the middle, written from the perspective of wastoid[11](#h.ozxmi317vmci)-turned-accountant Chris Fogel. Chris’ 1970s youth was spent in partying and shallow rebellion, once again, papering over a deep emptiness: “I think the truth is that I was the worst kind of nihilist—the kind who isn’t even aware he’s a nihilist. I was like a piece of paper on the street in the wind, thinking, ‘Now I think I’ll blow this way, now I think I’ll blow that way.’ My essential response to everything was ‘Whatever.’”[12](#h.ozxmi317vmci)
 
 The emotional core of the story is Chris’ relationship with his father, who’s sardonic, dutiful, and old-fashioned: “His attitude towards life was that there are certain things that have to be done and you simply have to do them—such as, for instance, going to work every day.” Chris resents his father’s conformity, while blind to his own: “I was just as much a conformist as he was, plus a hypocrite, a ‘rebel’ who really just sponged off of society in the form of his parents.”
 
@@ -220,7 +220,7 @@ If Wallace had lived, his vision wouldn’t have reached any ultimate closure, b
 
 [16](#h.3u6pnlnzon0r) An essential element of romanticizing his death (the beating of the breasts, etc.)
 
-[17](#h.3u6pnlnzon0r)The best part of The Pale King was where he managed to abandon his usual style. Much of the Chris Fogel novella is composed of simple sentences: “I’m not sure I even know what to say. To be honest, a good bit of it I don’t remember. I don’t think my memory works in quite the way it used to. It may be that this kind of work changes you. Even just rote exams. It might actually change your brain. For the most part, it’s now almost as if I’m trapped in the present. If I drank, for instance, some Tang, it wouldn’t remind me of anything—I’d just taste the Tang.”
+[17](#h.3u6pnlnzon0r) The best part of The Pale King was where he managed to abandon his usual style. Much of the Chris Fogel novella is composed of simple sentences: “I’m not sure I even know what to say. To be honest, a good bit of it I don’t remember. I don’t think my memory works in quite the way it used to. It may be that this kind of work changes you. Even just rote exams. It might actually change your brain. For the most part, it’s now almost as if I’m trapped in the present. If I drank, for instance, some Tang, it wouldn’t remind me of anything—I’d just taste the Tang.”
 
 [18](#h.3u6pnlnzon0r) “For those of civilians who know in our gut that writing is an act of communication between one human being and another, the whole question seems sort of arcane.”
 

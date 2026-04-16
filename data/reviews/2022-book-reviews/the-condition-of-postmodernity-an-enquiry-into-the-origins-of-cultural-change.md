@@ -7,7 +7,7 @@ contestName: 2022 Book Reviews
 year: 2022
 publishedDate: '2026-02-06T07:22:32.821Z'
 slug: the-condition-of-postmodernity-an-enquiry-into-the-origins-of-cultural-change
-wordCount: 6861
+wordCount: 6866
 readingTimeMinutes: 31
 originalUrl: >-
   https://docs.google.com/document/d/100kMdSVFviZSSBvUyyEQPMNlvLptVQxHFD9i9wGuBWs
@@ -36,7 +36,7 @@ But by 1989, our author, David Harvey, was asking a different question. Harvey w
 
 Harvey ended up coining a term to describe his rate of diffusion idea: time-space compression. It spawned an entire subfield of study within geography. He used the concept to explain changes in the way people perceived the world throughout the 20th century, and in doing so, also explained a new cultural phenomenon whose origins had stumped everyone else at the time: postmodernism (don’t worry—we’ll define it later if you’re not familiar).
 
-Harvey published his findings in a book, The Condition of Postmodernity. It went on to not only be his bestselling work as a geographer ([47,000 citations](https://www.google.com/url?q=https://scholar.google.com/citations?view_op%3Dview_citation%26hl%3Den%26user%3DEBvugA0AAAAJ%26citation_for_view%3DEBvugA0AAAAJ:t2c9fUEjrewC&sa=D&source=editors&ust=1770366145634287&usg=AOvVaw2nvVQgh7yKpdkeXof14rw_) and counting) but made him into something of an intellectual celebrity within the broader academy. Take the laudatory words of one of his peers as proof:
+Harvey published his findings in a book, The Condition of Postmodernity. It went on to not only be his bestselling work as a geographer ([47,000 citations](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=EBvugA0AAAAJ&citation_for_view=EBvugA0AAAAJ:t2c9fUEjrewC) and counting) but made him into something of an intellectual celebrity within the broader academy. Take the laudatory words of one of his peers as proof:
 
 "Students need only visit the offices of professors who work in [fields other than geography]; they'll often find that Condition of Postmodernity is the only book by a geographer on their shelves."
 
@@ -46,9 +46,9 @@ So why does Harvey’s book matter? And more importantly, how can his ideas help
 
 Before we dive into the review, let me give you some quick context about our author to help you orient yourself.
 
-David Harvey is an academic geographer born in 1935, specializing in economic and urban geography. He’s a prolific writer, having published 27 books and dozens of academic papers. He’s also quite famous for having taught Karl Marx’s Das Kapital for over 50 years now, including in an [online MOOC](https://www.google.com/url?q=https://davidharvey.org/reading-capital/&sa=D&source=editors&ust=1770366145635541&usg=AOvVaw00UOCdFnnEquElhDs4Cc5R) which went viral a decade ago.
+David Harvey is an academic geographer born in 1935, specializing in economic and urban geography. He’s a prolific writer, having published 27 books and dozens of academic papers. He’s also quite famous for having taught Karl Marx’s Das Kapital for over 50 years now, including in an [online MOOC](https://davidharvey.org/reading-capital/) which went viral a decade ago.
 
-If that didn’t give away Harvey’s political bent, this will: he’s credited with having invented the academic discipline of “Marxist geography” which is exactly what it sounds like. You might even recall that another one of Harvey’s books, A Brief History of Neoliberalism, was featured in a previous [AstralCodexTen review](https://www.google.com/url?q=https://astralcodexten.substack.com/p/book-review-a-brief-history-of-neoliberalism&sa=D&source=editors&ust=1770366145636066&usg=AOvVaw2D_MgZSbZkRmsFgKYXWXfS) by Scott.
+If that didn’t give away Harvey’s political bent, this will: he’s credited with having invented the academic discipline of “Marxist geography” which is exactly what it sounds like. You might even recall that another one of Harvey’s books, A Brief History of Neoliberalism, was featured in a previous [AstralCodexTen review](https://astralcodexten.substack.com/p/book-review-a-brief-history-of-neoliberalism) by Scott.
 
 I bring this up because Scott’s review was (understandably) quite critical of Harvey, and I want to make a pitch to encourage you to stick around. Here it is:
 
@@ -64,9 +64,11 @@ Harvey, like many thinkers from his day, emphatically rejects this idea. A major
 
 But first, we need to figure out where the split between objective and subjective time and space arose in the first place. And to do that, we’ll need to travel back a few hundred years to medieval Europe.
 
-In medieval times, around 500-1400 CE, time and space were mostly perceived as subjective concepts. This was the time of feudalism where communities were relatively isolated from one another and there were no real means of transport to get from place to place. For most of this period, the mechanical clock and Gregorian calendar didn’t even exist, so it was difficult for people to make their experience of time and space [legible](https://www.google.com/url?q=https://slatestarcodex.com/2017/03/16/book-review-seeing-like-a-state/&sa=D&source=editors&ust=1770366145639565&usg=AOvVaw3CJWA3SpcVErCfjenRmzQA) to one another.
+In medieval times, around 500-1400 CE, time and space were mostly perceived as subjective concepts. This was the time of feudalism where communities were relatively isolated from one another and there were no real means of transport to get from place to place. For most of this period, the mechanical clock and Gregorian calendar didn’t even exist, so it was difficult for people to make their experience of time and space [legible](https://slatestarcodex.com/2017/03/16/book-review-seeing-like-a-state/) to one another.
 
 We have evidence that people had a very personal, subjective way of looking at time and space because of the art from that period. Harvey says that medieval cartographers had a tendency to “emphasize the sensuous rather than the rational and objective qualities of spatial order.” Take a look at these medieval maps to get an idea of what he’s talking about:
+
+![](https://acximages.ennals.org/images/2022-book-reviews/4a61d35c4f897449.png)
 
 Plate 3.3 from The Condition of Postmodernity
 
@@ -75,6 +77,8 @@ These maps are, quite literally, useless to an outsider without the subjective c
 This all began to change with the Renaissance in the 15th and 16th centuries. A number of developments occurred simultaneously, fueling one another and laying the groundwork for an objective sense of time and space.
 
 The most obvious visual change was the use of linear perspective by artists of this period. This meant that artists began producing paintings, maps, and other works of art from a “fixed viewpoint” and representing three-dimensional spatial depth on a flat, 2D canvas. Cartographers also imported conceptual breakthroughs like the Ptolemaic grid which divided space up into a coordinate plane and made it possible to create maps that were consistent, rational, and representative beyond just a single person’s viewpoint. Suddenly, maps started looking like this:
+
+![](https://acximages.ennals.org/images/2022-book-reviews/1b5963c77bd44d70.png)
 
 Plate 3.4 from The Condition of Postmodernity
 
@@ -92,7 +96,7 @@ By the time the Industrial Revolution began in Great Britain (around ~1760), the
 
 “[Modernity] amounted to an extraordinary intellectual effort on the part of Enlightenment thinkers 'to develop objective science, universal morality and law, and autonomous art according to their inner logic.' The idea was to use the accumulation of knowledge generated by many individuals working freely and creatively for the pursuit of human emancipation and the enrichment of daily life. The scientific domination of nature promised freedom from scarcity, want, and the arbitrariness of natural calamity. The development of rational forms of social organization and rational modes of thought promised liberation from the irrationalities of myth, religion, superstition, release from the arbitrary use of power as well as from the dark side of our own human natures.”
 
-While modernity is the intellectual and material project of this time, modernism is the cultural movement that dominated in parallel. A big question the reader is bound to have at this point is whether culture is a product of economic/technological conditions or vice-versa. This is where Harvey’s aforementioned Marxist ideology will implicitly provide an answer in the form of [historical materialism](https://www.google.com/url?q=https://en.wikipedia.org/wiki/Historical_materialism&sa=D&source=editors&ust=1770366145645874&usg=AOvVaw1hiTLWYEUcrRKS5opAK3uY)—that is, culture, and therefore modernism, is downstream of economics and technology. Harvey takes it for granted in Postmodernity that modernism is largely a cultural reaction to modernity and all of its societal effects. A weaker version of this thesis has already been shared by Scott [before](https://www.google.com/url?q=https://slatestarcodex.com/2013/03/07/we-wrestle-not-with-flesh-and-blood-but-against-powers-and-principalities/&sa=D&source=editors&ust=1770366145646404&usg=AOvVaw3xN6h-kFR97KP5iTIHS1lW), and I don’t think it’s that far from the truth.
+While modernity is the intellectual and material project of this time, modernism is the cultural movement that dominated in parallel. A big question the reader is bound to have at this point is whether culture is a product of economic/technological conditions or vice-versa. This is where Harvey’s aforementioned Marxist ideology will implicitly provide an answer in the form of [historical materialism](https://en.wikipedia.org/wiki/Historical_materialism)—that is, culture, and therefore modernism, is downstream of economics and technology. Harvey takes it for granted in Postmodernity that modernism is largely a cultural reaction to modernity and all of its societal effects. A weaker version of this thesis has already been shared by Scott [before](https://slatestarcodex.com/2013/03/07/we-wrestle-not-with-flesh-and-blood-but-against-powers-and-principalities/), and I don’t think it’s that far from the truth.
 
 If we accept that culture is going to be dramatically influenced by the material and technological conditions present at the time, then it follows that modernity is going to be a pretty turbulent time for culture because of how rapidly things are changing in the material world. Just compare what it was like to be a modern factory worker in 1900 vs. a feudal serf 500 years prior—it’s not just that different cultural products have diffused to you in these two time periods, the rate of diffusion itself has changed concomitant with the material conditions.
 
@@ -102,6 +106,8 @@ This is where Harvey’s idea of time-space compression comes in. Here’s how h
 
 And here is the classic image of time-space compression as shown through innovations in transport:
 
+![](https://acximages.ennals.org/images/2022-book-reviews/a5bc12401b6c0f24.png)
+
 Plate 3.1 from The Condition of Postmodernity
 
 See how the world is getting smaller?
@@ -110,7 +116,7 @@ The key thing to understand about time-space compression is that it’s only ref
 
 The first big dynamic to understand is the privileging of time over space in cultural and intellectual works. This makes a lot of sense—space starts to matter less because technologies of transport allow you to navigate the world faster, so time becomes the more important metric to keep track of.
 
-But more than that, Harvey points out that people’s sense of time has become warped by how quickly things are diffusing from place to place. People are starting to grapple with simultaneity and internationalism—Harvey’s way of saying that the world is beginning to become interconnected and something that happens in one place can have parallel, near-instantaneous effects elsewhere. Today, we take it for granted that something like the 2008 financial crisis can [climax in less than 24 hours](https://www.google.com/url?q=https://www.youtube.com/watch?v%3Dv4P4cS5jKmQ&sa=D&source=editors&ust=1770366145649662&usg=AOvVaw0k5T8tUinSP5D_u09B3gmk), but the early origins of that were more than a little disquieting for 20th-century thinkers.
+But more than that, Harvey points out that people’s sense of time has become warped by how quickly things are diffusing from place to place. People are starting to grapple with simultaneity and internationalism—Harvey’s way of saying that the world is beginning to become interconnected and something that happens in one place can have parallel, near-instantaneous effects elsewhere. Today, we take it for granted that something like the 2008 financial crisis can [climax in less than 24 hours](https://www.youtube.com/watch?v=v4P4cS5jKmQ), but the early origins of that were more than a little disquieting for 20th-century thinkers.
 
 It’s not just our sense of time that is distorted though; space is also dramatically affected and becomes less important than place. You can think of space as the abstract, sort of physical container we all live in, whereas place refers to space that is imbued with meaning and cultural significance. Tucson, Arizona is a place, whereas the boring desert roads you might take leaving from there are just generic space until you reach another place of interest.
 
@@ -134,7 +140,7 @@ Beyond the cubists, you see an emphasis on temporal immediacy in literature—wr
 
 The EEs are clearly concerned with the first half of Baudelaire’s formation, but they won’t get the last word. Harvey notes that the Permanent Patrons are what quickly come to dominate the intellectual zeitgeist of modernity. The PPs were less worried about representing ephemerality than trying to contain it. Intellectuals and artists sought to represent the parts of life that were eternal, whether that be in art, culture, or science. This is an understandable reaction: when culture starts to collapse in on you under the forces of time-space compression, it’s natural to seek some stability amidst all that change.
 
-The obvious examples of the Permanent Patrons at work can be found in the architectural designs of Le Corbusier, Gropius, and Mies van der Rohe. They emphasized function over form, clean lines & straightforward geometric shapes, and a top-down, technocratic approach to urban planning. And while we look back and think they had a weird, temporally-specific aesthetic​​, they genuinely felt they were creating timeless works and uncovering the “laws of architecture” at the time. This style became more and more popular as the world became increasingly chaotic in the inter-war and post-war years, with the latter period leading to the excesses that we now call [high modernism](https://www.google.com/url?q=https://en.wikipedia.org/wiki/High_modernism&sa=D&source=editors&ust=1770366145655634&usg=AOvVaw0Q4sK2NVc39x64dVn8Savf).
+The obvious examples of the Permanent Patrons at work can be found in the architectural designs of Le Corbusier, Gropius, and Mies van der Rohe. They emphasized function over form, clean lines & straightforward geometric shapes, and a top-down, technocratic approach to urban planning. And while we look back and think they had a weird, temporally-specific aesthetic​​, they genuinely felt they were creating timeless works and uncovering the “laws of architecture” at the time. This style became more and more popular as the world became increasingly chaotic in the inter-war and post-war years, with the latter period leading to the excesses that we now call [high modernism](https://en.wikipedia.org/wiki/High_modernism).
 
 Ultimately, the high modernist sect of the Permanent Patrons would experience a lot of backlash due to their unwillingness to compromise and disregard for more humanist approaches to art. They represented the universalist approach to permanence and Harvey suggests that appealing to science, technology, and rationality was just one way to create a sense of immutability in a transient world.
 
@@ -152,7 +158,7 @@ Coming out of the World Wars, high modernism dominated the cultural zeitgeist th
 
 Then, things fell apart.
 
-The 1970s represented the beginnings of an enormous repudiation of modernist ideology and culture that arrived in the form of postmodernism. It’s difficult to define postmodernism in a succinct way because it’s less a coherent school of thought than a loose grouping of thinkers across fields who collectively question, probe, and reject the meta-narratives that motivated modernity. I want to make this more concrete, but I’m going to tread carefully because previous attempts [have often failed](https://www.google.com/url?q=https://slatestarcodex.com/2017/11/01/postmodernism-for-rationalists-my-attempt/&sa=D&source=editors&ust=1770366145659232&usg=AOvVaw3uTq1zzhkdBvei3dTZfav3).
+The 1970s represented the beginnings of an enormous repudiation of modernist ideology and culture that arrived in the form of postmodernism. It’s difficult to define postmodernism in a succinct way because it’s less a coherent school of thought than a loose grouping of thinkers across fields who collectively question, probe, and reject the meta-narratives that motivated modernity. I want to make this more concrete, but I’m going to tread carefully because previous attempts [have often failed](https://slatestarcodex.com/2017/11/01/postmodernism-for-rationalists-my-attempt/).
 
 Maybe the best way to illustrate postmodernism is by way of juxtaposition (itself a common approach in the field). If the high modernists of the 50s and 60s were worried about trying to create consistent, rational, and efficient designs that leveraged science and technology, postmodernists were all about questioning the fundamental assumptions implicit in the modernist imperative. Planners in the style of Jane Jacobs would question the value of consistency & rationality and what those qualities overlooked in urban design. Philosophers like Jean-François Lyotard challenged the notion of efficiency and who it served. And critics like Foucault pointed out how science and technology were socially constructed and leveraged for political and institutional ends.
 
@@ -160,9 +166,13 @@ Postmodernists were on some level, quite cynical when evaluating modernist thoug
 
 Harvey, by way of literary theorist ​​Ihab Hassan, includes a table that very bluntly (and he admits this) contrasts modernism and postmodernism:
 
+![](https://acximages.ennals.org/images/2022-book-reviews/559eb60918e8323a.png)
+
 Table 1.1 from The Condition of Postmodernity
 
 Postmodernism wasn’t just about critiquing modernism from an ivory tower though. Like modernism in the time of modernity, it motivated artists and cultural producers to develop works of art that challenged the austerity, sterility, and universality of their modernist counterparts. Here’s one of the best known (and most egregious) examples:
+
+![](https://acximages.ennals.org/images/2022-book-reviews/1973b5acc7d76ecd.png)
 
 The Piazza d'Italia from New Orleans completed in 1978
 
@@ -186,7 +196,7 @@ In the postwar period, starting around 1945, the economic configuration that bec
 
 The problem was that Fordism was a relatively rigid configuration. Factories were giant, fixed capital investments intended to be amortized over the course of decades. Unions instituted labor contracts which left businesses very little room to adjust in times of poor performance. Even the state itself was tied up in trying to support massive, ever-increasing entitlement programs like social security. All of this assumed stable economic growth—things were fine until suddenly, they weren’t.
 
-That moment arrived in the [1970s](https://www.google.com/url?q=https://wtfhappenedin1971.com/&sa=D&source=editors&ust=1770366145665515&usg=AOvVaw2QHQG3279dG1ZRs_U5CuTM) when stagflation hit and the economy began to unravel. The regime of accumulation, regulation theorists would say, was no longer stable. The system needed an overhaul and that came in the form of a new type of economic configuration, one that Harvey calls flexible accumulation.
+That moment arrived in the [1970s](https://wtfhappenedin1971.com/) when stagflation hit and the economy began to unravel. The regime of accumulation, regulation theorists would say, was no longer stable. The system needed an overhaul and that came in the form of a new type of economic configuration, one that Harvey calls flexible accumulation.
 
 Flexible accumulation is so named because it was directly concerned with addressing the rigidities inherent in Fordism. Businesses outsourced the bulk of their manufacturing to developing countries where labor was cheaper and more readily available. Neoliberal politicians like Reagan and Thatcher significantly weakened domestic union power, ushering in an era of more flexible labor arrangements such as part-time work, subcontracting, and outsourcing. Developed economies also broadly shifted away from a goods-based to a service-based economy.
 
@@ -202,7 +212,7 @@ The important thing to realize about postmodernism is that Harvey believes it to
 
 While time-space compression played a significant role in quickening the pace of life during modernity, it resulted in extreme volatility during postmodernity. Both systems of production and consumption seem to turn over so quickly that you can barely remember what came before. A lot of this is enabled by the less rigid economic configuration, like just-in-time inventory management, that flexible accumulation allows for.
 
-One of my favorite points from the book is how Harvey demonstrates that this volatility affects businesses too. In a much more dynamic marketplace, long-term planning becomes more difficult as your plans are quickly made obsolete or irrelevant. This seems to have something to do with Thiel’s concept of [indefinite optimism](https://www.google.com/url?q=https://blakemasters.tumblr.com/post/23435743973/peter-thiels-cs183-startup-class-13-notes&sa=D&source=editors&ust=1770366145669538&usg=AOvVaw1FMKGkeSwW8fV0sDy0U2m6), the privileging of law/finance over engineering/art, and an emphasis on statistics & managing risk.
+One of my favorite points from the book is how Harvey demonstrates that this volatility affects businesses too. In a much more dynamic marketplace, long-term planning becomes more difficult as your plans are quickly made obsolete or irrelevant. This seems to have something to do with Thiel’s concept of [indefinite optimism](https://blakemasters.tumblr.com/post/23435743973/peter-thiels-cs183-startup-class-13-notes), the privileging of law/finance over engineering/art, and an emphasis on statistics & managing risk.
 
 Harvey’s most jaded in this section when he talks about the market beginning to emphasize image over actual substance. You see huge growth in advertising during this period and branding, marketing, and PR become big industries of their own and valid ways to make lots of money independent of tangible investment. Just like the “paper entrepreneurialism” from before, Harvey is frustrated by these industries which he views as decoupled from tangible, worthwhile effects on peoples’ lives. An important point here is that images and brands, aided in distribution by new technologies like cable television and eventually the internet, can turn over a lot faster than physical, material goods. This leads to yet more acceleration in the economy and the feeling of greater relativity in terms of time.
 
@@ -226,9 +236,9 @@ A lot of this has to do with Harvey’s style of writing and methods of inquiry.
 
 I kept wishing throughout Postmodernity that time-space compression was operationalized in a more rigorous way, such that I could track it more precisely over time. I come from a quantitative social science background, so inevitably every research question ends up looking like a data science problem to me. I actually spent some time wrangling with some economic data in Jupyter notebooks, and I kept realizing how contrived and misleading the markers for time-space compression I was building were. To Harvey’s credit, I understand why he took a qualitative approach and I suspect that something as subtle as the link between culture and the type of economic configuration would be difficult to do justice in describing from a quantitative angle.
 
-With that being said, that doesn’t mean Harvey couldn’t have been more rigorous in his qualitative approach. This book is split into a tripartite structure—one part dedicated to modernist and postmodernist culture, another to Fordism vs. flexible accumulation, and the final part discussing time-space compression as a link between the prior two. In a weird twist of [Conway’s Law](https://www.google.com/url?q=https://en.wikipedia.org/wiki/Conway%2527s_law&sa=D&source=editors&ust=1770366145675948&usg=AOvVaw2ZemsBBPrZZqEE3H6IbM_F), you get the sense that his choice to structure the book this way had a major effect on his argument.
+With that being said, that doesn’t mean Harvey couldn’t have been more rigorous in his qualitative approach. This book is split into a tripartite structure—one part dedicated to modernist and postmodernist culture, another to Fordism vs. flexible accumulation, and the final part discussing time-space compression as a link between the prior two. In a weird twist of [Conway’s Law](https://en.wikipedia.org/wiki/Conway%27s_law), you get the sense that his choice to structure the book this way had a major effect on his argument.
 
-For example, Harvey spent a lot of time describing modernism and Fordism as big categories and then time-space compression as a mediating link between them, but relatively little effort was put into tracing a change in material practices to an explicit, micro-level shift in culture. For example, there are countless anecdotes of how the advent of the radio led to faster diffusion and turnover of culture causing new practices like [popular music](https://www.google.com/url?q=https://archive.ph/FZZ9y&sa=D&source=editors&ust=1770366145676651&usg=AOvVaw0dVwgl94syUdOh-TWZsHH1) to sprout up. The structure of Postmodernity would have made it difficult for Harvey to complete this type of analysis, and it potentially discouraged him from including what the book needed the most: examples at the object level.
+For example, Harvey spent a lot of time describing modernism and Fordism as big categories and then time-space compression as a mediating link between them, but relatively little effort was put into tracing a change in material practices to an explicit, micro-level shift in culture. For example, there are countless anecdotes of how the advent of the radio led to faster diffusion and turnover of culture causing new practices like [popular music](https://archive.ph/FZZ9y) to sprout up. The structure of Postmodernity would have made it difficult for Harvey to complete this type of analysis, and it potentially discouraged him from including what the book needed the most: examples at the object level.
 
 Postmodernity is also entirely Eurocentric, lacking any examples of time-space compression and its effects upon developing economies (the receiving end of outsourced manufacturing in the second half of the 20th century in many cases). Harvey sort of apologizes for this blunder at one point, but it comes across half-hearted because he could have easily thrown the reader a bone and included at least a couple of cultural examples from outside the Western world.
 
@@ -240,7 +250,7 @@ Finally, I wish Harvey would have offered a framework to disambiguate which part
 
 Speaking of the future, the natural question after reading The Condition of Postmodernity is, “What’s next?” When are we going to move past the age of postmodernity and what cultural era will follow? Is there any room left for time and space to further compress?
 
-Let me start with that last question and work backward. I think so, and we already see evidence of this since Harvey’s book was published. In 1989, less than 1% of North Americans were using the internet. Fast forward to today, and over 90% of the continent is online. The rest of the world is [not far behind](https://www.google.com/url?q=https://ourworldindata.org/internet&sa=D&source=editors&ust=1770366145679296&usg=AOvVaw1HVV_hSS8jrkDmm_8Z0e-2). While there is no doubt that the automobile, shipping container, and television played a big role in making time and space feel negligible, there’s been no technology more disruptive to our sense of time and space than the internet.
+Let me start with that last question and work backward. I think so, and we already see evidence of this since Harvey’s book was published. In 1989, less than 1% of North Americans were using the internet. Fast forward to today, and over 90% of the continent is online. The rest of the world is [not far behind](https://ourworldindata.org/internet). While there is no doubt that the automobile, shipping container, and television played a big role in making time and space feel negligible, there’s been no technology more disruptive to our sense of time and space than the internet.
 
 And while the internet has certainly ushered in another round of time-space compression, it seems uncertain that it has substantially changed the economic configuration that underpins 21st-century society. Amazon may be an internet-native company, but it still relies upon flexible labor contracts, physical warehouses, and an international supply chain to operate. Likewise, Uber and Lyft may be a very real source of work for thousands of Americans, but they have yet to usher in a transition to the gig economy and a restructuring of the relationship between labor and capital.
 
@@ -260,18 +270,18 @@ It isn’t a coincidence that NFTs, DAOs, or the metaverse took off during the p
 
 Harvey, David. The Condition of Postmodernity: An Enquiry into the Origins of Cultural Change. Oxford: B. Blackwell, 1989.
 
-Energy.gov. “Historical Gasoline Prices, 1929-2011,” August 20, 2012. [https://www.energy.gov/eere/vehicles/fact-741-august-20-2012-historical-gasoline-prices-1929-2011](https://www.google.com/url?q=https://www.energy.gov/eere/vehicles/fact-741-august-20-2012-historical-gasoline-prices-1929-2011&sa=D&source=editors&ust=1770366145682854&usg=AOvVaw1oq1eSMYcL_zENINC01RBg).
+Energy.gov. “Historical Gasoline Prices, 1929-2011,” August 20, 2012. [https://www.energy.gov/eere/vehicles/fact-741-august-20-2012-historical-gasoline-prices-1929-2011](https://www.energy.gov/eere/vehicles/fact-741-august-20-2012-historical-gasoline-prices-1929-2011).
 
 Hubbard, Phil, Rob Kitchin, and Gill Valentine. Key Texts in Human Geography. Los Angeles: SAGE, 2008.
 
 Key Texts in Human Geography. Los Angeles: SAGE, 2008.
 
-Pelzer, Louis. “Pioneer Stage-Coach Travel.” The Mississippi Valley Historical Review 23, no. 1 (June 1936): 3. [https://doi.org/10.2307/1895188](https://www.google.com/url?q=https://doi.org/10.2307/1895188&sa=D&source=editors&ust=1770366145683436&usg=AOvVaw03TquQrL2eVRwM4LkNA754).
+Pelzer, Louis. “Pioneer Stage-Coach Travel.” The Mississippi Valley Historical Review 23, no. 1 (June 1936): 3. [https://doi.org/10.2307/1895188](https://doi.org/10.2307/1895188).
 
-Statistics, United States Bureau of Labor. “History of Wages in the United States From Colonial Times to 1928 : Bulletin of the United States Bureau of Labor Statistics, No. 604,” October 1, 1929. [https://fraser.stlouisfed.org/title/history-wages-united-states-colonial-times-1928-4126?start\_page=1](https://www.google.com/url?q=https://fraser.stlouisfed.org/title/history-wages-united-states-colonial-times-1928-4126?start_page%3D1&sa=D&source=editors&ust=1770366145683965&usg=AOvVaw1G6XfA3OZ13hHqTU2Bf8sn).
+Statistics, United States Bureau of Labor. “History of Wages in the United States From Colonial Times to 1928 : Bulletin of the United States Bureau of Labor Statistics, No. 604,” October 1, 1929. [https://fraser.stlouisfed.org/title/history-wages-united-states-colonial-times-1928-4126?start\_page=1](https://fraser.stlouisfed.org/title/history-wages-united-states-colonial-times-1928-4126?start_page=1).
 
-Energy.gov. “Vehicles per Thousand People: U.S. vs. Other World Regions,” October 6, 2014. [https://www.energy.gov/eere/vehicles/fact-841-october-6-2014-vehicles-thousand-people-us-vs-other-world-regions](https://www.google.com/url?q=https://www.energy.gov/eere/vehicles/fact-841-october-6-2014-vehicles-thousand-people-us-vs-other-world-regions&sa=D&source=editors&ust=1770366145684465&usg=AOvVaw1Js48gdqAFc8SMeHo0mGPu).
+Energy.gov. “Vehicles per Thousand People: U.S. vs. Other World Regions,” October 6, 2014. [https://www.energy.gov/eere/vehicles/fact-841-october-6-2014-vehicles-thousand-people-us-vs-other-world-regions](https://www.energy.gov/eere/vehicles/fact-841-october-6-2014-vehicles-thousand-people-us-vs-other-world-regions).
 
-Warf, Barney. “Teaching Time–Space Compression.” Journal of Geography in Higher Education 35, no. 2 (May 2011): 143–61. [https://doi.org/10.1080/03098265.2010.523681](https://www.google.com/url?q=https://doi.org/10.1080/03098265.2010.523681&sa=D&source=editors&ust=1770366145684840&usg=AOvVaw1MA5Ysy86gM0XWiyJ39fWD).
+Warf, Barney. “Teaching Time–Space Compression.” Journal of Geography in Higher Education 35, no. 2 (May 2011): 143–61. [https://doi.org/10.1080/03098265.2010.523681](https://doi.org/10.1080/03098265.2010.523681).
 
 * * *

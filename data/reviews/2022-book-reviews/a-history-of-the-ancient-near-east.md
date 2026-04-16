@@ -7,7 +7,7 @@ contestName: 2022 Book Reviews
 year: 2022
 publishedDate: '2026-02-06T07:24:08.687Z'
 slug: a-history-of-the-ancient-near-east
-wordCount: 10381
+wordCount: 10382
 readingTimeMinutes: 47
 originalUrl: >-
   https://docs.google.com/document/d/1pRQbRbEUwSH_jm94PI_ij-88swat7vQ4iNaNp6gd39g
@@ -18,7 +18,7 @@ tags:
 
 ## Introduction
 
-Shortly before my birthday, I got a message from a good friend of mine: "Hey, what do you want for your birthday?". Well, not exactly, because it was obviously going to be a book. So I got some photos of books and I choose my birthday present. I know, it sounds lame, but I'm happy because I choose wisely. I chose one that looked... neutral, or almost boring: [A History of the Ancient Near East, ca. 3000-323 BC , by Marc Van De Mieroop](https://www.google.com/url?q=https://www.amazon.com/gp/product/B00Z0JA72M/ref%3Ddbs_a_def_rwt_hsch_vapi_tkin_p1_i0&sa=D&source=editors&ust=1770366232787108&usg=AOvVaw1Z6B3vNwiddGKKora79AfK)
+Shortly before my birthday, I got a message from a good friend of mine: "Hey, what do you want for your birthday?". Well, not exactly, because it was obviously going to be a book. So I got some photos of books and I choose my birthday present. I know, it sounds lame, but I'm happy because I choose wisely. I chose one that looked... neutral, or almost boring: [A History of the Ancient Near East, ca. 3000-323 BC , by Marc Van De Mieroop](https://www.amazon.com/gp/product/B00Z0JA72M/ref=dbs_a_def_rwt_hsch_vapi_tkin_p1_i0)
 
 I chose wisely because most books have some kind of agenda, they want to convince you of something. This, however, is just plainly informative. When something is clear-cut and there is expert consensus on the matter, Marc explains why the consensus is as it is (I'll just call him Marc during the whole thing). And when something is a matter of debate, Marc lifts up the veil and explains the basics of what the debate is about, and what are the main arguments of each side. He may hint about which side looks more convincing to him, but doesn't expect you to share his opinion. And of course, whether you agree with him on some issues or not, you'll still walk away from the book having learnt something of value. If you have some >10 years old son/nephew/etc who is into history, this would be a good gift.
 
@@ -46,6 +46,8 @@ This is a process, at the broadest of levels, of progressive centralisation of p
 
 This was a description of the "when". It's worth having also a short description of the "where", in case someone didn't pay attention in Geography class. The best description, of course, is a map from Wikipedia:
 
+![](https://acximages.ennals.org/images/2022-book-reviews/69a56f5cc4a7f899.png)
+
 There, now I saved you a trip to Wikipedia. (By the way, quick reminder to contribute to Wikipedia, it's one of humanity's greatest achievements). Almost anything you need to know to navigate the places mentioned is in this map. Marc seems to use the word "Babylonia" to refer to the whole south of Mesopotamia, which in the map appears as "Sumer". It was a bit confusing at first (specially because in Spanish both Babylonia and Babylon were translated as "Babilonia"), but at least it's consistent during the whole book; and it kind of makes sense, because the city of Babylon dominated the area often, and it's the most famous one for those who are not familiarised with the topic. It's way more likely that you've heard of Babylon, but not of Uruk, Ur, Lagash, Kish, or Nippur. In fact, for most people, out of all the cities mentioned in this book, only Babylon and Jerusalem will ring a bell, and with some luck Nineveh and Ur, if they've had a religious upbringin.
 
 ## Initial developments
@@ -56,7 +58,7 @@ There's 3 developments that put this whole story in motion. In fact, they kind o
 
 In many places, this area is known as the Fertile Crescent, because the area looks like a crescent moon if you squint a lot and really want to give it a cool name; there may have been proposals to call it "The Arch Around the Arabian Desert" or something, but the publicists had better ideas. Anyway, the Fertile Crescent, together with Central America and the Yellow River in China, is one of the few places where they invented... well, everything. Civilization.
 
-There are many ideas about how agriculture could have appeared. Some are borderline crazy, or at least quite out there. Turns out it is challenging to figure out how it happened, because at an individual level it was kind of a step back (contrary to what I learnt at school). Yuval Noah Harari, for example, in Sapiens, explains that people who switched to agriculture lived less years, had less health, a less varied diet, and was more dependant on the weather (they couldn't do like the hunters, who could just go hunt somewhere else when the weather didn't help). Ant they also worked more hours a week. This is similar to other stuff along the lines of "[Grain is Fascist](https://www.google.com/url?q=https://slatestarcodex.com/2019/10/14/book-review-against-the-grain/&sa=D&source=editors&ust=1770366232792868&usg=AOvVaw3Up1ZIL5cA6VFuo0YB8Ih8)".
+There are many ideas about how agriculture could have appeared. Some are borderline crazy, or at least quite out there. Turns out it is challenging to figure out how it happened, because at an individual level it was kind of a step back (contrary to what I learnt at school). Yuval Noah Harari, for example, in Sapiens, explains that people who switched to agriculture lived less years, had less health, a less varied diet, and was more dependant on the weather (they couldn't do like the hunters, who could just go hunt somewhere else when the weather didn't help). Ant they also worked more hours a week. This is similar to other stuff along the lines of "[Grain is Fascist](https://slatestarcodex.com/2019/10/14/book-review-against-the-grain/)".
 
 Some other stuff I had read a long time ago (I don't remember where anymore, sorry), argued that agriculture was a banding together of bad hunters, which together were stronger than individual good hunters. According to this theory, agriculture could sustain a bigger mass of people in the same place, which allows for a stronger local military. It's better to have 1000 mediocre warriors than 10 elite ones (contrary to what Rambo movies may make you think). There are even theories about how agriculture made it possible to make alcoholic beverages, like beer, and that this could have been a decisive factor when deciding which way to go, either hunting or planting. These are related ideas that got in my notes while reading the book, not exactly what Marc describes, and I am in no way capable of evaluating the claims above, so if anyone here is, I will be glad to learn about it in the comments.
 

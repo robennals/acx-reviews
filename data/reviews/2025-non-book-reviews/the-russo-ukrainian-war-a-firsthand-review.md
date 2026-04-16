@@ -7,7 +7,7 @@ contestName: 2025 Non Book Reviews
 year: 2025
 publishedDate: '2026-02-06T16:55:59.398Z'
 slug: the-russo-ukrainian-war-a-firsthand-review
-wordCount: 7350
+wordCount: 7358
 readingTimeMinutes: 33
 originalUrl: >-
   https://docs.google.com/document/d/1jYVJFIz5-aMi0LCgsC9AN6BncJDNVGaMU37QmwZ1vzA
@@ -19,6 +19,8 @@ tags:
 ---
 
 ## You Can Just Do Things
+
+![](https://acximages.ennals.org/images/2025-non-book-reviews/2e06de583037eec5.jpg)
 
 In the winter of 2022 I was unhappily working at a dull but decently compensated IT job, which I had come upon at last after four years of phoning it in at college and abandoning my brief stint as an MMA Fighter/Porn Store Security Guard due to feeling like I was getting too old to be broke. If pressure to fit in with my yuppie, family-and-career-having peers pushed me into corporate life, the depressing mundanity of Covid-era day-to-day pushed me out just as quickly.
 
@@ -73,6 +75,8 @@ Conscription has certainly intensified since 2022. At the outbreak of the full s
 
 The war upwelling of war enthusiasm that created this surge of volunteers was on full display when I arrived. Europeans sometimes make fun of Americans for the ubiquity of our national flag on city streets, but since the war Ukrainian flags are even more omnipresent. It seemed every third billboard was either a recruitment advertisement or a general statement of praise for the military and faith in victory. If that sounds almost Orwellian, remember, Ukrainians in general are not cynical about this, but sincerely believe and support it in a way that may be hard for Americans of my generation or younger to imagine. The billboards are accompanied by printed posters, often produced by private organizations or groups supporting the war effort, and a load of street art and graffiti with the same basic message.
 
+![](https://acximages.ennals.org/images/2025-non-book-reviews/985e7a8aafa639ff.png)
+
 In the summer of 2022 you could find shrewd businessmen in market squares charging passersby for the chance to shoot pictures of Putin with a pellet gun shaped like an AK-74. College aged volunteers and grandmas alike gathered at volunteer centers to knit camouflage nets used to cover Ukrainian vehicles and positions. Uniformed soldiers were often treated to free coffee and snacks by local cafes. When passing civilians on the street they would often be greeted with the now famous salute “Glory to Ukraine”. This phrase “Slava Ukraini”  is in fact the first line of a longer call and response salute:
 
 A: “Glory to Ukraine!”
@@ -121,10 +125,13 @@ The particular organization that I initially worked with also functioned very ef
 
 The foreign fighters who passed through came in all shapes and sizes like the civilian volunteers, but their overall vibe was a bit different. Naturally there was less “save the whales” and more “I want to shoot people”. All of the negative tendencies I mentioned were if anything a bit worse than among the civilian volunteers, but at least they didn’t have to exaggerate to tell a good war story. There was less overlap with the bureaucratic professional NGO types among them.  
   
+![](https://acximages.ennals.org/images/2025-non-book-reviews/ff301268ce42b760.png)
 
 The post invasion foreign community in Ukraine is pretty small, and everyone knows someone who knows someone. I fell in with the others of the military crowd, and soon I found my way to the Legion.
 
 ## War Stories
+
+![](https://acximages.ennals.org/images/2025-non-book-reviews/3df42ac87d6dd104.jpg)
 
 “This is not like Iraq” the Ukrainian recruiting officer soberly told me with a thick accent. “You have 50% chance of dying.” That wasn’t actually true, but it was a lot closer to being true than almost anything you can voluntarily sign up for in an organized way. I decided it was worth it.
 
@@ -134,7 +141,11 @@ If you stand up out of the trench during the daytime, the enemy may be able to s
 
 That didn’t stop both our side and the Russians from occasionally opening up with both rifle and machine gun fire. Did they see something? Was there an attack we couldn’t see? Maybe, but quickly we learned that more often than not people were just shooting out of boredom. One side would start firing over the top of the trench, then the other side would respond, and it would go on like that for a few minutes back and forth until everyone stopped, usually without hitting anything.
 
+![](https://acximages.ennals.org/images/2025-non-book-reviews/42b7b57ca2063945.jpg)
+
 Our team leader was a salty infantryman, an American like me. He told us to be smart and not shoot unless there was a real reason to shoot. This was especially important with the machine gun, which we kept in a fixed position with a camouflage tarp over the top of it to keep it dry in the rain. Every time we fired it, we risked giving away its position. Once however, with my team leader’s permission, I fired an old soviet grenade launcher randomly in the enemy’s direction for funsies.
+
+![](https://acximages.ennals.org/images/2025-non-book-reviews/d8d5f45eae5308f4.png)
 
 During the day we mostly just stood there, leaning against the walls of the trench. Periodically we would improve certain areas of the trench by digging with our collapsible shovels. The joke was that we were playing Minecraft IRL. “Watch out for the creeper!”.
 
@@ -147,6 +158,8 @@ By the time I joined, this system was already on its way out the door. The Legio
 Despite this reform, teams maintained a very unusual structure with a high degree of autonomy throughout my time in service. First of all, rather than being appointed from above, team leaders were chosen by their own teams through democratic consensus. Although this had its problems, at a small scale it wasn’t as problematic as you might think. Soldiers know their lives are on the line; they want to be led capably, and they generally know who among them is going to be the best choice. Often it's the man with the most experience.
 
 Secondly, teams could hire and fire people at their own discretion. Rather than being assigned to a team, newly recruited legionnaires would have to find a team that wanted them, lest they be left to rot in the barracks in Kyiv. Individual teams often had their own sources of funding, their own social media, and their own shared equipment, to include night vision and vehicles used on the front line. Teams normally lived together in the same houses and apartments, both when deployed and on leave. Normally they split the rent among themselves. Rather than being called Alpha, Bravo Charlie, or One Two and Three, teams could even name themselves, and that is what everyone, including the Ukrainian officers, would call them.
+
+![](https://acximages.ennals.org/images/2025-non-book-reviews/e9373b30cb6411e1.jpg)
 
 In stark contrast to the French Foreign Legion, teams in the Ukrainian International Legion would often form around ethnolinguistic lines. Ukraine was not trying to assimilate us and teach us all Ukrainian, she just needed more soldiers, and fast. Latin Americans, Chechens, Belarusians and even Quebecois all often formed teams where they spoke their own languages internally.
 
@@ -199,5 +212,7 @@ I’ve already briefly discussed how drones are changing war right now, and I th
 Once, a few days before we were to return to the front, I snorted ecstasy with a comrade in a Kyiv strip club. “If we die” I told him, “we’re going to come back as flowers.”. “Yep.” he nodded in solemn agreement.
 
 None of my comrades were mercenaries in the sense that they did it for the money. The pay was pretty bad by western standards. Some of  them had very high minded ideas about defending western civilization, fighting imperialism, etc. Others really did not care, and just wanted a chance to be part of a modern day Koryos. Some are still in the Koryos, fighting to this day. Others have left and integrated or reintegrated into society. Still others have now come back as flowers. I will remember them for the rest of my life.
+
+![](https://acximages.ennals.org/images/2025-non-book-reviews/c9de5b41265d7acb.png)
 
 10/10, would recommend.

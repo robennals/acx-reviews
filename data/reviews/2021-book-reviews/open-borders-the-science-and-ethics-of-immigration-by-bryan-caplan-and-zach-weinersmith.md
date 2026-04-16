@@ -10,7 +10,7 @@ year: 2021
 publishedDate: '2026-02-06T07:21:29.572Z'
 slug: >-
   open-borders-the-science-and-ethics-of-immigration-by-bryan-caplan-and-zach-weinersmith
-wordCount: 4005
+wordCount: 4006
 readingTimeMinutes: 18
 originalUrl: >-
   https://docs.google.com/document/d/1xexFJ7h0vULMDE7N77q_MIzXoerexfe_CqqGEL6hEoQ
@@ -30,7 +30,7 @@ Caplan really does believe that there should be no restrictions on immigration w
 
 ### 1: Parochialism
 
-Open Borders is an extremely US-centric book. As someone from the land of ‘not America’, this is something that frustrates me about a lot of non-fiction. Caplan justifies his focus on the US by saying that his audience is mostly Americans and that that’s where the highest quality data exists for. But in this case, the book makes a way narrower argument than is set out in the book’s intro. This matters because, by focusing primarily on America, the case is made stronger than it otherwise would be. For instance, immigrants commit more crimes than native-born Europeans but fewer crimes than native-born Americans. Immigrants to the US assimilate unusually well (although some people say this is just because European countries are more regulated, and make such wise decisions as forbidding refugees from getting jobs -  [link](https://www.google.com/url?q=https://en.wikipedia.org/wiki/Direct_provision&sa=D&source=editors&ust=1770366086664254&usg=AOvVaw120V_As1ly5UNYhmFvsYDV)).
+Open Borders is an extremely US-centric book. As someone from the land of ‘not America’, this is something that frustrates me about a lot of non-fiction. Caplan justifies his focus on the US by saying that his audience is mostly Americans and that that’s where the highest quality data exists for. But in this case, the book makes a way narrower argument than is set out in the book’s intro. This matters because, by focusing primarily on America, the case is made stronger than it otherwise would be. For instance, immigrants commit more crimes than native-born Europeans but fewer crimes than native-born Americans. Immigrants to the US assimilate unusually well (although some people say this is just because European countries are more regulated, and make such wise decisions as forbidding refugees from getting jobs -  [link](https://en.wikipedia.org/wiki/Direct_provision)).
 
 The relentless focus on never talking about a rich country other than the US is doubly bizarre because the European Union has open borders between its member states! Surely analysing whether this has gone well should be the most convincing piece of evidence about open borders. Ireland is  17% foreign born, a significantly higher proportion than the US, and the immigration rate to Ireland has nearly quadrupled in the last 20 years. This would seem like a major success story of immigration. Meanwhile, Caplan only talks about the EU for a few panels toward the end of the book. Granted, there is more high-quality data about the US, and the audience is mostly American, but even still this doesn’t seem to justify anywhere near the level of parochialism.
 
@@ -56,9 +56,11 @@ Another serious objection is about the animal suffering that would be induced by
 
 ### 4: Culture
 
+![](https://acximages.ennals.org/images/2021-book-reviews/b3564e91d1fd7b89.png)
+
 Caplan has a section where he addresses the political effects of immigrants, largely drawing on data from Alex Nowrasteh at the Cato Institute finding that immigrants are a tiny bit more liberal than the general population but that their kids and grandkids regress to the political mainstream. Immigrants and natives didn’t have a partisan difference until the 1980s, and the partisan difference comes from immigrants being more likely to identify as independent, not from being more likely to identify as Democrat (although maybe after a while immigrants become acclimated and realise that third-parties never win...). This is interesting but doesn’t address the tail risk of immigration leading to a Trump/Brexit dysfunctional level of polarisation or backlash (admittedly, that would be very speculative). It may be the case that the biggest harms from immigration come from people irrationally freaking out about immigration, but, uh, people are in fact irrational.
 
-Here’s Michael Huemer, in one of the most well-known philosophical defences of open borders, on the effects of immigration on culture - [link](https://www.google.com/url?q=http://www.owl232.net/papers/immigration.htm&sa=D&source=editors&ust=1770366086673679&usg=AOvVaw3Jsf-fnY8RtBj2RJEpXG5-)):
+Here’s Michael Huemer, in one of the most well-known philosophical defences of open borders, on the effects of immigration on culture - [link](http://www.owl232.net/papers/immigration.htm)):
 
 Empirically, it is doubtful whether apprehensions about the demise of American culture are warranted. Around the world, American culture, and Western culture more generally, have shown a robustness that prompts more concern about the ability of other cultures to survive influence from the West than vice versa. For example, Coca-Cola now sells its products in over 200 countries around the world, with the average human being on Earth drinking 4.8 gallons of Coke per year. Footnote McDonald’s operates more than 32,000 restaurants in over 100 countries.
 

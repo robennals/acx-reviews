@@ -7,7 +7,7 @@ contestName: 2022 Book Reviews
 year: 2022
 publishedDate: '2026-02-06T07:24:08.695Z'
 slug: anthropic-bias-by-nick-bostrom
-wordCount: 4252
+wordCount: 4258
 readingTimeMinutes: 19
 originalUrl: >-
   https://docs.google.com/document/d/1pRQbRbEUwSH_jm94PI_ij-88swat7vQ4iNaNp6gd39g
@@ -17,7 +17,9 @@ tags:
   - Science
 ---
 
-Recently, I saw a meme that included the new-to-me phrase “anthropic reasoning.” A reasonable person would have kept scrolling. Instead, I read [Anthropic Bias](https://www.google.com/url?q=https://www.anthropic-principle.com/q%3Dbook/table_of_contents/&sa=D&source=editors&ust=1770366233102902&usg=AOvVaw3PEI5xb6PRfn4YA1EcXTVH) by Nick Bostrom. For posterity, the meme that [nerd-sniped](https://www.google.com/url?q=https://xkcd.com/356/&sa=D&source=editors&ust=1770366233103002&usg=AOvVaw2xjabRKQi1-HcR3MjNX32B) me was:
+Recently, I saw a meme that included the new-to-me phrase “anthropic reasoning.” A reasonable person would have kept scrolling. Instead, I read [Anthropic Bias](https://www.anthropic-principle.com/q=book/table_of_contents/) by Nick Bostrom. For posterity, the meme that [nerd-sniped](https://xkcd.com/356/) me was:
+
+![](https://acximages.ennals.org/images/2022-book-reviews/ffe4b20277451ff5.jpg)
 
 Panel 1: Alice from Alice in Wonderland looking into a rabbit hole saying “Ranking charities empirically by impact? How curious…”
 
@@ -25,7 +27,7 @@ Panel 2: Alice falling into the rabbit hole, surrounded by the following phrases
 
 The fact that this is the meme that made me read Anthropic Bias is ironic. Someone should update the meme so panel 1 says “A meme mentioning ‘anthropic reasoning’? How curious…” and panel 2 contains the text of this review.
 
-(In addition to the book Anthropic Bias, I also relied on blog posts by Katja Grace at [Meteuphoric](https://www.google.com/url?q=https://meteuphoric.com/anthropic-principles/&sa=D&source=editors&ust=1770366233103904&usg=AOvVaw1J6wxy9eyD_h5LcEP2Tpma) and Joe Carlsmith at [Hands and Cities](https://www.google.com/url?q=https://handsandcities.com/2021/09/30/sia-ssa-part-1-learning-from-the-fact-that-you-exist/&sa=D&source=editors&ust=1770366233104011&usg=AOvVaw3fXOTw5ZHMy9wIc39qphUR) to understand anthropic reasoning. Anything that sounds smart in the below book review comes from one of these three people, but all mistakes are solely mine.)
+(In addition to the book Anthropic Bias, I also relied on blog posts by Katja Grace at [Meteuphoric](https://meteuphoric.com/anthropic-principles/) and Joe Carlsmith at [Hands and Cities](https://handsandcities.com/2021/09/30/sia-ssa-part-1-learning-from-the-fact-that-you-exist/) to understand anthropic reasoning. Anything that sounds smart in the below book review comes from one of these three people, but all mistakes are solely mine.)
 
 ## Fine Tuned
 
@@ -41,7 +43,7 @@ Three, anthropic principles. A bunch of thinkers came up with their own anthropi
 
 Bostrom’s contribution to anthropic reasoning narrows in on observer selection effects. As observers, we are not omniscient. We are only able to observe select universes. Intelligent life can only observe universes capable of supporting intelligent life. We should account for this bias when drawing conclusions.
 
-An analogy is useful here. Consider the following famous (but maybe [apocryphal](https://www.google.com/url?q=https://ask.metafilter.com/216295/Is-this-famous-investment-scam-real-or-fiction&sa=D&source=editors&ust=1770366233106596&usg=AOvVaw1xHp2h1UNvJYd0k_TB7wlt)?) stock picking scam. A scammer sends 100 people an email predicting Tesla stock’s future. Half the emails say it will go up, the other half say it will go down. The stock goes up. The next week, the scammer emails the 50 people who received the correct prediction another prediction. Again, half the emails say the stock will go up, the other half say it will go down. The stock goes down. 25 people have now received correct predictions two weeks in a row. The scammer does this a few more times, until he is left with a handful of people who received correct predictions several weeks in a row. He then approaches these people, points to his past emails as evidence that he is a stock picking genius, and gets them to trust him with their money.
+An analogy is useful here. Consider the following famous (but maybe [apocryphal](https://ask.metafilter.com/216295/Is-this-famous-investment-scam-real-or-fiction)?) stock picking scam. A scammer sends 100 people an email predicting Tesla stock’s future. Half the emails say it will go up, the other half say it will go down. The stock goes up. The next week, the scammer emails the 50 people who received the correct prediction another prediction. Again, half the emails say the stock will go up, the other half say it will go down. The stock goes down. 25 people have now received correct predictions two weeks in a row. The scammer does this a few more times, until he is left with a handful of people who received correct predictions several weeks in a row. He then approaches these people, points to his past emails as evidence that he is a stock picking genius, and gets them to trust him with their money.
 
 Bob, one of the targets in this scam, would be incorrect to think “this stock picker is a genius.” Bob should account for observer selection effects. Bob observed a set of emails that had correct predictions, but Bob should think about the fact that he was not able to observe all emails the scammer sent. The scammer looks like a genius based on only the emails that Bob received, but looks less like a genius when Bob realizes that the scammer could have sent many more incorrect emails to others.
 
@@ -59,6 +61,8 @@ Look, I want to acknowledge that the upcoming thought experiments are weird. If 
 
 That said, imagine you wake up with no memory in a dark room, and a voice announces over a loudspeaker that you are part of an experiment where God flipped a coin after promising to create one human in this room if it came up heads, and to leave the room empty if it came up tails. How did the coin land?
 
+![](https://acximages.ennals.org/images/2022-book-reviews/7d605e52f24ea043.png)
+
 Heads = 1 human; Tails = nothing.
 
 This is the simplest experiment I can think of that illustrates anthropic bias. The coin had a 50-50 chance of landing heads or tails. However, the fact that you are awake in the dark room to contemplate God’s experiment is evidence that you should take into account. You only exist in a world where the coin landed heads. Therefore, the coin landed heads.
@@ -66,6 +70,8 @@ This is the simplest experiment I can think of that illustrates anthropic bias. 
 ### II.
 
 You again wake up, except this time God’s experiment is slightly different. God planned to create one human in this room regardless of whether the coin came up heads or tails.
+
+![](https://acximages.ennals.org/images/2022-book-reviews/c2489cb43e694090.png)
 
 Heads = 1 human; Tails = 1 human.
 
@@ -78,6 +84,8 @@ So far, so good. In simple thought experiments like these, it is easy to reason 
 ### III.
 
 You again wake up. This time, God planned to create one human in one room if heads and two humans in two rooms if tails. Which way did the coin land?
+
+![](https://acximages.ennals.org/images/2022-book-reviews/670528a978e81d65.png)
 
 Heads = 1 human; Tails = 2 humans.
 
@@ -93,6 +101,8 @@ In our coin-toss situation, the proportion of people like you in heads-world is 
 
 You wake up, this time in a well-lit room. Again, God planned to create one human in one room if heads and two humans in two rooms if tails. However, this time, all the people are not indistinguishable from each other. Specifically, on heads, God planned to create one person in a red jacket. On tails, God planned to create one person in a red jacket and one in a black jacket. You notice you’re wearing a red jacket. Which way did the coin land?
 
+![](https://acximages.ennals.org/images/2022-book-reviews/f287b77a156764d7.png)
+
 Heads = 1 human in red jacket; Tails = 1 human in red jacket, 1 human in black jacket.
 
 Under SIA, you should think about how many people like you (that is, people in a red jacket) exist in each world. In heads-world, there is one person like you, and in tails-world, there is also one person like you. Both worlds are equally likely, so the chance that the coin came up heads or tails is ½.
@@ -103,9 +113,9 @@ Under SSA, you should think about what proportion of people in each world are li
 
 Bostrom abdicates the duty to come up with a cute/cringy mnemonic device to distinguish SIA from SSA, which I would have thought would be the best part of coming up with similarly-named theories. I’ll fill in for him with my best attempt.
 
-SIA sounds like the singer [Sia](https://www.google.com/url?q=https://en.wikipedia.org/wiki/Sia&sa=D&source=editors&ust=1770366233114579&usg=AOvVaw32FTGIBLsh_YH0HXGkwyZq), who according to her songs seems to enjoy partying pretty indiscriminatorily. The more people you get dancing in a room, the more likely it is that one of them will be Sia, swinging from chandeliers, enjoying cheap thrills, shining bright like a diamond, etc. etc. Similarly, under SIA, the more people like you a world has, the more likely one of them is to be you.
+SIA sounds like the singer [Sia](https://en.wikipedia.org/wiki/Sia), who according to her songs seems to enjoy partying pretty indiscriminatorily. The more people you get dancing in a room, the more likely it is that one of them will be Sia, swinging from chandeliers, enjoying cheap thrills, shining bright like a diamond, etc. etc. Similarly, under SIA, the more people like you a world has, the more likely one of them is to be you.
 
-SSA shares initials with the [Social Security Administration](https://www.google.com/url?q=https://en.wikipedia.org/wiki/Social_Security_Administration&sa=D&source=editors&ust=1770366233115076&usg=AOvVaw23gdkwpeBqjxVcydUn4sjV), the US government agency tasked with distributing retirement benefits. The Social Security Administration cares a lot about which reference class you belong to. Are you 67 years old? Did you work for ten years? Did you pay taxes? Similarly, under SSA, you need to care about your reference class. You should decide what your reference class is, and then calculate what proportion of that reference class is like you.
+SSA shares initials with the [Social Security Administration](https://en.wikipedia.org/wiki/Social_Security_Administration), the US government agency tasked with distributing retirement benefits. The Social Security Administration cares a lot about which reference class you belong to. Are you 67 years old? Did you work for ten years? Did you pay taxes? Similarly, under SSA, you need to care about your reference class. You should decide what your reference class is, and then calculate what proportion of that reference class is like you.
 
 Both SIA and SSA have flaws. SIA becomes way too confident that there are LOTS of people in the universe, while SSA gives wildly different probabilities when different reference classes are chosen. The next two examples will illustrate their respective flaws.
 
@@ -120,6 +130,8 @@ The presumptuous philosopher’s math checks out under SIA, but his conclusion s
 Bostrom prefers SSA, but acknowledges that selecting the reference class is a subjective endeavor. A common criticism of SSA is that this process is too subjective. It allows people to select whatever reference class will give the best answer. Bostrom says that people should select a non-arbitrary reference class, but that doesn’t seem like a strong enough criteria to prevent reference class abuse. I trust Bostrom to come up with good reference classes, but others could use reference classes for more nefarious purposes.
 
 Consider our coin toss experiment again. You wake up. God planned to create one human in one room if heads. However, if tails, God planned to create a whole menagerie: one human, one chimpanzee, one dolphin, and one newborn infant. Which way did the coin land?
+
+![](https://acximages.ennals.org/images/2022-book-reviews/d87d7a235f527aca.png)
 
 Heads = 1 human; Tails = 1 human and a zoo.
 
@@ -155,13 +167,13 @@ All of this seems very wooly. I feel weird making up numbers for (i) how much al
 
 In addition to fine tuning, the other big problem anthropic bias can help us reason about is the doomsday argument.
 
-The [doomsday argument](https://www.google.com/url?q=https://en.wikipedia.org/wiki/Doomsday_argument&sa=D&source=editors&ust=1770366233122523&usg=AOvVaw3RQTGKXTJ-iR4oL3yowxXU) goes like this: let’s say each human gets assigned a serial number corresponding to their birth rank. Adam was #1, Eve was #2, and so on. I am roughly #60 billion. Assuming that my birth rank is random, it is 95% likely that I am within the last 95% of humans to ever be born. Therefore, the first 5% of humans numbered roughly 60 billion. If 5% of humans are 60 billion, then 100% of humans are 1.2 trillion. So, we can conclude that it is 95% likely that no more than 1.2 trillion humans will ever live.
+The [doomsday argument](https://en.wikipedia.org/wiki/Doomsday_argument) goes like this: let’s say each human gets assigned a serial number corresponding to their birth rank. Adam was #1, Eve was #2, and so on. I am roughly #60 billion. Assuming that my birth rank is random, it is 95% likely that I am within the last 95% of humans to ever be born. Therefore, the first 5% of humans numbered roughly 60 billion. If 5% of humans are 60 billion, then 100% of humans are 1.2 trillion. So, we can conclude that it is 95% likely that no more than 1.2 trillion humans will ever live.
 
 This is a really scary conclusion for a very simple argument!
 
 The argument seems so simple that a lot of people assume it is somehow wrong or incomplete. Bostrom devotes a whole chapter to explaining why this argument deserves to be taken seriously. You might be coming with objections like “Isn’t a sample size of one too small?” or “Couldn’t a Cro-Magnon man have used the Doomsday argument?” or “But we know so much more about ourselves than our birth ranks!” Bostrom addresses all of these and more. (In short, respectively: a small sample is sufficient to prove/disprove certain hypotheses to a high degree of certainty; the doomsday argument’s conclusion is only 95% likely and the Cro-Magnon would have been in one of the 5% of cases when the conclusion is incorrect; the extra information we know about ourselves doesn’t change the information the doomsday argument takes into account.)
 
-I think an analogy helps here. Consider the [German Tanks](https://www.google.com/url?q=https://www.albert.io/blog/german-tank-problem-explained-ap-statistics-review/&sa=D&source=editors&ust=1770366233123950&usg=AOvVaw1uugFaJRwb1vslVschqFxX) problem. During World War II, each German Tank had a serial number. Allied forces took note of the serial numbers of tanks they destroyed or captured. Statisticians were able to use these serial numbers to calculate how many tanks Germans were manufacturing. Impressively, statisticians came closer to guessing the correct number of tanks than spies who were gathering intelligence about tank manufacturing. To get some intuition here, imagine that the Allied forces found tanks numbered 9, 61, 185, 186, and 231. Guessing that the Germans manufactured 250 tanks will bring you closer to the correct answer than guessing 1,500.
+I think an analogy helps here. Consider the [German Tanks](https://www.albert.io/blog/german-tank-problem-explained-ap-statistics-review/) problem. During World War II, each German Tank had a serial number. Allied forces took note of the serial numbers of tanks they destroyed or captured. Statisticians were able to use these serial numbers to calculate how many tanks Germans were manufacturing. Impressively, statisticians came closer to guessing the correct number of tanks than spies who were gathering intelligence about tank manufacturing. To get some intuition here, imagine that the Allied forces found tanks numbered 9, 61, 185, 186, and 231. Guessing that the Germans manufactured 250 tanks will bring you closer to the correct answer than guessing 1,500.
 
 This is similar to the doomsday argument, but with tanks instead of people. In the doomsday argument, instead of finding tanks with serial numbers 9, 61, 185, 186, and 231, you find yourself with birth rank #60 billion. Given this, if you want to estimate the total number of humans that will live, you’ll be closer to the correct number if you guess 1 trillion than 1,000 trillion.
 

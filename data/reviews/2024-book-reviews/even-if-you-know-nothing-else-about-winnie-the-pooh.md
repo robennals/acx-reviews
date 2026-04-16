@@ -7,7 +7,7 @@ contestName: 2024 Book Reviews
 year: 2024
 publishedDate: '2026-02-06T16:49:50.824Z'
 slug: even-if-you-know-nothing-else-about-winnie-the-pooh
-wordCount: 4658
+wordCount: 4670
 readingTimeMinutes: 21
 originalUrl: >-
   https://docs.google.com/document/d/1Ki5XsE0jkxZtd2XAeyTAJw1ZjLh2Cu-matUYKAhA6-s
@@ -32,15 +32,19 @@ Everybody knows the Pooh of our collective consciousness already. This book revi
 
 So that’s what this book review is about.
 
+![](https://acximages.ennals.org/images/2024-book-reviews/0389dfb022477164.png)
+
 Artistic challenge: reinvent this meme so that Tuxedo Pooh is replaced with Achaean Warrior Pooh.
 
 ## III
 
-For those not familiar, the Winnie-the-Pooh canon consists of two books of short stories: Winnie-the-Pooh and The House At Pooh Corner.[[83]](#ftnt83) The stories are episodic but interrelated, and they follow the adventures of the titular teddy bear and his friends in the Forest.[[84]](#ftnt84)
+For those not familiar, the Winnie-the-Pooh canon consists of two books of short stories: Winnie-the-Pooh and The House At Pooh Corner.[[83]](#ftnt83) The stories are episodic but interrelated, and they follow the adventures of the titular teddy bear and his friends in the Forest.[[84]](#ftnt84) 
 
 Now, it’s going to be impossible to talk about these stories if you don’t know a little bit about the characters, so let’s start with a catalog.
 
 Winnie-the-Pooh: Winnie-the-Pooh is, as Milne tells us in the introduction to the first book, “the favorite.” He’s our poetic hero and our heroic poet (but more about all that later). He’s fond of honey and condensed milk. You can tell right away that he’s a Hero of the Old Sort  by the number of names he has. Edward Bear he is called, sometimes shortened to Bear. Then, of course, there’s Winnie-the-Pooh, Pooh for short. He also lives under the name Sanders.[[85]](#ftnt85) And, just as surely as we know that “swift-footed son of Peleus” means Achilles, we know “Bear of Very Little Brain” means Pooh.
+
+![](https://acximages.ennals.org/images/2024-book-reviews/7b0c4a6746262c3b.png)
 
 What’s even the point of Winnie-the-Pooh being in the public domain if no one is going to put high-res scans of the illustrations online where I can find them?
 
@@ -59,6 +63,8 @@ Kanga & Roo: Kanga is a stuffed kangaroo and Roo is her joey. Kanga’s personal
 Tigger: Tigger is a stuffed tiger prone to bouncing and overestimating his abilities. The only thing he’ll eat is Extract of Malt. He doesn’t appear at all until the second book (which led him to enter the public domain a bit later than the rest of the cast).
 
 Rabbit’s Friends-and-Relations: An assortment of rabbits, hedgehogs, mice, ferrets, toads, insects and what-have-you, comprising pretty much everyone in the forest besides the main cast.[[87]](#ftnt87)
+
+![](https://acximages.ennals.org/images/2024-book-reviews/9ead7f8f6c093e0d.png)
 
 The whole motley crew, except for Rabbit’s friends-and-relations.
 
@@ -110,6 +116,8 @@ Piglet, meanwhile, has popped the balloon he intended to give Eeyore. This came 
 
 He held it very tightly against himself, so that it shouldn’t blow away, and ran as fast as he could so as to get to Eeyore before Pooh did; for he thought that he would like to be the first one to give a present, just as if he had thought of it without being told by anybody.
 
+![](https://acximages.ennals.org/images/2024-book-reviews/95d8ab1ff7386c71.png)
+
 “At first he thought the whole world had blown up; and then he thought that perhaps only the Forest part of it had; and then he thought that perhaps only he had, and he was now alone in the moon or somewhere, and would never see Christopher Robin, or Pooh or Eeyore again.”
 
 It all works out in the end—the popped balloon turns out to be just the right size to go in and out of the Useful Pot to Keep Things In, and Eeyore is delighted. But Pooh’s and Piglet’s anxiousness to get credit for Having Good Ideas gives a picture of how most of the Pooh stories go. The denizens of the Forest are always jockeying for reputation.
@@ -148,6 +156,8 @@ Pooh was sitting in his house one day, counting his pots of honey, when there ca
 
 “I just like to know,” said Pooh humbly. “So as I can say to myself: ‘I’ve got fourteen pots of honey left.’ Of fifteen, as the case may be. It’s sort of comforting.”
 
+![](https://acximages.ennals.org/images/2024-book-reviews/428f6b12136dff48.png)
+
 I couldn’t even find this illustration in color. If anyone reading this runs a library, please make your next summer intern project Scanning Pooh Illustrations.
 
 But while Pooh’s attitude toward his treasures certainly befits a Homeric hero, Pooh’s honeypots were not won by his feats of arms. (The one time he tries to win honey through a conflict with some bees it Goes Badly.)
@@ -156,9 +166,13 @@ However, there is one fine example of Pooh winning timē in the last story of th
 
 In the next-to-last story, the Forest had become flooded by a rainstorm, and Piglet had become trapped in his rapidly-moistening house. Pooh had been vital to the rescue operation—especially by having the idea to turn Christopher Robin’s umbrella upside-down and use it as a boat—christened The Brain of Pooh—to come to Piglet’s aid.
 
+![](https://acximages.ennals.org/images/2024-book-reviews/2290437f67eb05fb.png)
+
 The Brain of Pooh (Captain, C. Robin; 1st Mate, P. Bear)
 
 So in the very last story of the book, Christopher Robin decides to throw what is “to be a special sort of party, because it’s because of what Pooh did when he did what he did to save Piglet from the flood.”
+
+![](https://acximages.ennals.org/images/2024-book-reviews/1922d56015548727.png)
 
 The book tells us that Christopher Robin serves milk at this feast, but I feel that a hero of Pooh’s caliber would quite appreciate mead.
 
@@ -183,7 +197,7 @@ Pooh likes to have stories told about him. And that is a very heroic attitude in
 
 We’ll talk more about Pooh’s kleos soon, but, first, I need to draw from my Homer class once more.
 
-Homer University II - Words and Deeds
+Homer University II - Words and Deeds 
 
 One of the marks of an epic hero in Homer is that he is capable with both words and deeds. Achilles is a musician—and a good yeller—in addition to being handy with a spear. Odysseus is skilled both at telling (or making up) stories and at shooting with a bow. The epic hero must have both elements: the feats of arms and the speechifying/storytelling. Possibly this is because poets are the ones making the rules.
 
@@ -282,6 +296,8 @@ DISCOVERED BY POOH
 
 POOH FOUND IT.
 
+![](https://acximages.ennals.org/images/2024-book-reviews/9ed538edc5dd6a47.png)
+
 My name is Poohzymandies, Bear of Bears / Look on my works ye mighty and admire!
 
 Pooh winds up feeling so proud of this piece of recognition that he later goes out in search of the East Pole by himself.
@@ -304,6 +320,8 @@ Christopher Robin, in this final story, is going away to school, and goes with P
 
 “Of course he could!” said Christopher Robin. “I’ll make you one.” And he took a stick and touched Pooh on the shoulder and said, “Rise, Sir Pooh de Bear, most faithful of all my Knights”
 
+![](https://acximages.ennals.org/images/2024-book-reviews/5a3c4b281c14dc43.png)
+
 “So Pooh rose and sat down and said ‘Thank you,’ which is the proper thing to say when you have been made a Knight.”
 
 This is the zenith of Pooh’s kleos in the stories.
@@ -317,6 +335,8 @@ In Chapter Eight of The House at Pooh Corner, Pooh and Piglet decide to use a ve
 “Supposing it didn’t,” said Pooh after careful thought.
 
 But Piglet’s supposition turns out to be  closer to the truth. They’ve only been at Owl’s house for a few moments when the wind brings down the tree and the house crashes to the ground on its side.[[88]](#ftnt88)
+
+![](https://acximages.ennals.org/images/2024-book-reviews/af36623b434dc332.png)
 
 Tragically, Owl’s house was not insured.
 
@@ -335,6 +355,8 @@ Pooh’s idea is to hoist Piglet up to Owl’s letter-box (also currently on the
 “It won’t break,” whispered Pooh comfortingly, “because you’re a Small Animal, and I’ll stand underneath, and if you save us all, it will be a Very Grand Thing to talk about afterwards, and perhaps I’ll make up a Song, and people will say ‘It was so grand what Piglet did that a Respectful Pooh Song was made about it.”
 
 Motivated by this speech, Piglet agrees to be hoisted up to the letter-box. He’s able to squeeze through the letter box and go for help, and Owl and Pooh are saved.
+
+![](https://acximages.ennals.org/images/2024-book-reviews/e3d201ccda9c836a.png)
 
 I must have searched the internet for twenty minutes to find this illustration. Seriously, if you want to create a Digital Repository of E.H. Shepard’s Pooh Illustrations, you’d be doing humanity a favor.
 
@@ -445,6 +467,8 @@ Why would the fame-hungry Pooh—that sort of Bear, remember—give up his share
 The answer seems to be because Pooh is content with being the poet. This comes through when he suggests that people will admire Piglet because of Piglet’s appearance in a Respectful Pooh Song. The implication is that featuring in a Respectful Pooh Song is quite an honor. And the further implication is that being a bestower of honor is honor enough for Pooh this time.
 
 You see a similar thing when Pooh receives his Special Pencil Case.
+
+![](https://acximages.ennals.org/images/2024-book-reviews/ea178708293f9faa.png)
 
 “‘Oh, Pooh!” said everybody else except Eeyore.”
 

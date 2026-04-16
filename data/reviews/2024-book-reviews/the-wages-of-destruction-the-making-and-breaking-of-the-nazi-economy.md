@@ -7,7 +7,7 @@ contestName: 2024 Book Reviews
 year: 2024
 publishedDate: '2026-02-06T16:49:50.817Z'
 slug: the-wages-of-destruction-the-making-and-breaking-of-the-nazi-economy
-wordCount: 4833
+wordCount: 4835
 readingTimeMinutes: 22
 originalUrl: >-
   https://docs.google.com/document/d/1Ki5XsE0jkxZtd2XAeyTAJw1ZjLh2Cu-matUYKAhA6-s
@@ -28,6 +28,8 @@ Is it really the case that the most recent major war, a war many living people s
 Could there be some more impartial, less morally charged account of WW2, beyond narratives of the war that may or may not be relics of propaganda from the war itself? One that renders the Nazis more legible without labelling them as essentially evil.
 
 If you asked a persuasive Nazi officer or official to justify all the conquest and genocide, and skull badges, is there anything they could say that would sound even vaguely sympathetic to someone with modern liberal sensibilities?
+
+![](https://acximages.ennals.org/images/2024-book-reviews/5e1653ef361b4960.jpg)
 
 Did anyone ever actually ask this? I can’t even imagine how that conversation would go.
 
@@ -148,6 +150,8 @@ So there are several areas Tooze’s analysis that raise difficult ethical quest
 ### To what extent does Tooze’s analysis exonerate Nazi conquest and genocide?
 
 So coming back to asking Hanz whether we’re the baddies.
+
+![](https://acximages.ennals.org/images/2024-book-reviews/16a793e64669ef59.jpg)
 
 Imagine Hanz presented the arguments of Wages of Destruction as justification for Germany’s conquests and genocide, and it was as erudite and painstakingly researched as Tooze’s book. If he argued conquest was necessary because of the position that the US and Britain had put Germany in internationally and that the genocides had been necessary because of the shortage of food. I’d think those were brutally utilitarian arguments, but potentially they might garner some sympathy, even if you rejected the Nazi’s other more racist and conspiratorial justifications for their actions.
 

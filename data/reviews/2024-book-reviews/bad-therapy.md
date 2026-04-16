@@ -7,7 +7,7 @@ contestName: 2024 Book Reviews
 year: 2024
 publishedDate: '2026-02-06T16:47:15.597Z'
 slug: bad-therapy
-wordCount: 7894
+wordCount: 7903
 readingTimeMinutes: 36
 originalUrl: >-
   https://docs.google.com/document/d/1AXmWgSbh_TFsoZuApSCSEoz57yn93CM5YYhtaO_s4W4
@@ -68,7 +68,7 @@ I’m not the only one to have found something fishy in the fact that more treat
 
 The increased availability of effective treatments should shorten depressive episodes, reduce relapses, and curtail recurrences. Combined, these treatment advances unequivocally should result in lower point-prevalence estimates of depression,” they write. “Have these reductions occurred? The empirical answer clearly is NO.”[[18]](#ftnt18)
 
-I checked with several of the paper’s authors. Two confirmed that the same might be said for anxiety. As treatment has become more widely available and dispersed, point-prevalence rates should go down.[[19]](#ftnt19) They have not. And while the authors admit that there was likely more depression in the past than we realized, they argue that there is at least as much, and probably more, depression now.[[20]](#ftnt20)[Emphasis mine.]
+I checked with several of the paper’s authors. Two confirmed that the same might be said for anxiety. As treatment has become more widely available and dispersed, point-prevalence rates should go down.[[19]](#ftnt19) They have not. And while the authors admit that there was likely more depression in the past than we realized, they argue that there is at least as much, and probably more, depression now.[[20]](#ftnt20) [Emphasis mine.]
 
 Why is this? We don’t see this happening with other diseases. Dedicating additional resources towards [cancer](https://www.cancer.gov/news-events/press-releases/2023/opportunities-to-reduce-cancer-death-rate#:~:text=According%20to%20their%20analysis%2C%20because,year%20from%202016%20to%202019.) and [heart disease](https://ourworldindata.org/grapher/cardiovascular-disease-death-rate-who-mdb?country=CAN~USA~RUS~HUN~BRA~AUS~DEU~FRA), for example, has improved outcomes, not worsened them.
 
@@ -96,11 +96,17 @@ Now, imagine that at the center of that space are the traumatic negative experie
 
 On the opposite side of things, at the very edge of our space of negative experiences, you have those events that are definitely non-traumatic. These are still negative experiences, but (almost) no one would claim that they had caused lasting trauma: Stubbing a toe, getting a cold, making a minor mistake. If we were to illustrate this space, it would look something like this:
 
+![](https://acximages.ennals.org/images/2024-book-reviews/b56a3a0cd452467d.png)
+
 Thus far presumably everyone agrees with this structure. Some negative experiences are definitely traumatic, others are definitely not. The question is: what about the space between these two extremes—between the definitely traumatic and the decidedly non-traumatic? Things like: watching a terrifying movie when you’re too young; being repeatedly bullied in school; or watching someone in your scout troop die from a lightning strike.
 
 This is the territory that Shrier focuses on, and it’s the space where most of the confusion and pseudo-therapy lies. Let’s call this zone “potentially traumatic”.
 
+![](https://acximages.ennals.org/images/2024-book-reviews/3427ca52c96d2fa0.png)
+
 This zone is composed of negative experiences which might be traumatic depending on the person, their previous experiences, and—most importantly for our purposes—how the negative experience is dealt with or treated. This is where the majority of our focus is going to be, and though she doesn’t lay it out as specifically as I have, this is the realm Shrier is concerned about. She provides numerous examples of situations and experiences that only become traumatic through misguided interventions. She doesn’t deny that some negative experiences definitely cause trauma, and that this trauma benefits from competent therapy.[[21]](#ftnt21) Her book isn’t against all therapy; it’s against bad therapy, and the way we recognize it as bad is that rather than treating actual trauma it expands the definition and scope of trauma such that a greater number of negative experiences go from being potentially traumatic to definitely traumatic:
+
+![](https://acximages.ennals.org/images/2024-book-reviews/a8adb60633c525bc.png)
 
 To return once again to the example of my son, I’m positive that if he had been subject to the sorts of practices Shrier describes that he could have been made to view his experience at scout camp as trauma—something that stayed with and haunted him, lessening his happiness and making him fearful. I’m confident that one of the many pseudo-therapists Shrier describes could have “talked him into this state”. I’m certain that I could have talked him into it, nor would it have involved any malice or double-dealing. It mostly would have been repeated variations of the question: “Are you sure you’re okay?”
 
@@ -175,13 +181,13 @@ Yulia Chentsova Dutton heads the Culture and Emotions Lab at Georgetown Universi
 
 This gets back to the idea of suggestibility as well, the deeper children are pushed to ruminate on their emotions and their potential negativity, the more those emotions will become negative. It can easily become a feedback loop: constant encouragement to search for negative emotions leads to digging up any that might exist (and suggestibly creating some that don’t) which leads to rumination on these emotions (further reifying and emphasizing them) which leads to marinating in negativity…
 
-Social-EmotionalLearning
+Social-Emotional Learning
 
 This approach has crystallized into what might be called a meta-curriculum: [social-emotional learning](https://www.nu.edu/blog/social-emotional-learning-sel-why-it-matters-for-educators/).
 
 This methodology combines the ubiquity already mentioned...
 
-Sometimes described by enthusiasts as “a way of life,”[[26]](#ftnt26) social-emotional learning is the curricular juggernaut that devours billions in education spending each year and upward of 8 percent of teacher time.[[27]](#ftnt27) (Many teachers say they try to ensure that social-emotional learning happens all day long.)[[28]](#ftnt28) Through prompts and exercises, social-emotional learning (SEL) pushes kids toward a series of personal reflections, aimed at teaching them “self-awareness,” “social awareness,” “relationship skills,” “self-management,” and “responsible decision-making.”[[29]](#ftnt29)[Emphasis mine]
+Sometimes described by enthusiasts as “a way of life,”[[26]](#ftnt26) social-emotional learning is the curricular juggernaut that devours billions in education spending each year and upward of 8 percent of teacher time.[[27]](#ftnt27) (Many teachers say they try to ensure that social-emotional learning happens all day long.)[[28]](#ftnt28) Through prompts and exercises, social-emotional learning (SEL) pushes kids toward a series of personal reflections, aimed at teaching them “self-awareness,” “social awareness,” “relationship skills,” “self-management,” and “responsible decision-making.”[[29]](#ftnt29) [Emphasis mine]
 
 and the marination…
 
@@ -291,11 +297,15 @@ Gessen’s story with Raffi is a perfect illustration of this concept. Had there
 
 Creating gradation in this space:
 
+![](https://acximages.ennals.org/images/2024-book-reviews/3de52c1c9951dd1c.png)
+
 …encompasses most if not all of what Shrier is saying. Instead we have replaced gradation with an effort to wrap everything up into a single overarching anti-trauma effort. A one-size-fits-all approach that first attempts to stop negative experiences from happening—voices are never raised, punishment is never arbitrary, hands are never swung (see all the examples above). But, if a negative experience does slip through then the overwhelming effort they put towards avoiding negative experiences is now turned towards mitigating those experiences. They must be treated with all the care and seriousness a parent (or teacher) can muster. But again there is no gradation. In both cases it’s all or nothing. Parents and educators attempt to avoid all negative experiences but the moment one gets through their carefully crafted defenses it’s immediately considered to be traumatic. So how do we restore gradation?
 
 ### VI- Resilience
 
 A reminder of where we left off in Section III:
+
+![](https://acximages.ennals.org/images/2024-book-reviews/a8adb60633c525bc.png)
 
 We’re seeing an ever-expanding circle of bad therapy which threatens to totalize all negative experiences as traumatic. The examples given above represent this impulse at its most extreme. There is an appealing simplicity to that approach which can be very attractive. Abandoning any sense of a continuum means that there are no difficult decisions about whether therapeutic intervention should be used. We can just use it all the time and everywhere. If there were no negative effects then that might actually work. But Shrier makes a compelling case that there are negative effects. The reason I started this review with my son’s own experience is that it bears this out. I think it would have been very easy to turn his experience into trauma.
 
@@ -304,6 +314,8 @@ So how do we find a happy medium?
 How do we create a continuum where we treat negative experiences with the level of seriousness they deserve, and, ideally, no more and no less?
 
 If you spend any time at all reading books about the various crises afflicting children you’ll come across the term resilience. It’s offered up everywhere as the one thing that will solve the various crises. But within these books advice on actually creating resilience is thin, and mostly consists of advice on what not to do. But the great thing about the framework we’ve extracted from Shrier’s book is that it naturally leads us to a definition and a methodology for creating resilience. It’s the quality that turns the potentially traumatic into the non-traumatic—resilience takes negative experiences and makes them normal. This is what turns the vast space between actual trauma on one side and the smallest bad event on the other into a continuum.
+
+![](https://acximages.ennals.org/images/2024-book-reviews/c8caf8b204ebe710.png)
 
 This leads to a more muscular view of resilience than that found in most of the discussions, and as such this is the area where Shrier has attracted the most criticism. For example see this quote from a [review](https://thingofthings.substack.com/p/bad-therapy-review-fifties-dad-mental) by [Ozy Brennan](https://thingofthings.substack.com/):
 

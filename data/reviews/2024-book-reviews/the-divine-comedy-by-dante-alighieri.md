@@ -7,7 +7,7 @@ contestName: 2024 Book Reviews
 year: 2024
 publishedDate: '2026-02-06T16:49:14.006Z'
 slug: the-divine-comedy-by-dante-alighieri
-wordCount: 14996
+wordCount: 15004
 readingTimeMinutes: 67
 originalUrl: >-
   https://docs.google.com/document/d/14qa47TJ_Vyerx4XNgTCIh7PUZ_TOgNcU_eHm5So_zo0
@@ -243,7 +243,7 @@ Her eyes were brighter than the stars aloft;
 
 she spoke with voice angelical and soft:        
 
-‘Onoble soul, whose fame has not yet passed,
+‘O noble soul, whose fame has not yet passed,
 
 and will not pass as long as Earth will last,
 
@@ -943,7 +943,7 @@ So long a time had passed, since last her presence
 
 had struck with trembling wondrousness my essence;                        
 
-from just her unseen strength, and not her sight,
+from just her unseen strength, and not her sight,                
 
 I felt an ancient love’s tremendous might;
 
@@ -1309,7 +1309,7 @@ that’s me; the vision waned and almost died,
 
 and still within my heart I feel it drizzle,
 
-the sweetness left behindby such a ride.
+the sweetness left behind by such a ride.
 
 And so the sunlit snow melts into dribble;
 
@@ -1641,7 +1641,7 @@ Of course, everything here has an allegorical meaning. But all Dante ever does i
 
 Oh, and obviously every literary critic ever would laugh at what I’m saying here, so feel free to think mine is crazy talk.
 
-*   A sense of[peace](https://en.wikipedia.org/wiki/Peace),[well-being](https://en.wikipedia.org/wiki/Well-being), painlessness and other positive[emotions](https://en.wikipedia.org/wiki/Emotion). A sense of removal from the world. An intense feeling of[unconditional love](https://en.wikipedia.org/wiki/Unconditional_love) and[acceptance](https://en.wikipedia.org/wiki/Acceptance). Experiencing euphoric environments.
+*   A sense of [peace](https://en.wikipedia.org/wiki/Peace), [well-being](https://en.wikipedia.org/wiki/Well-being), painlessness and other positive [emotions](https://en.wikipedia.org/wiki/Emotion). A sense of removal from the world. An intense feeling of [unconditional love](https://en.wikipedia.org/wiki/Unconditional_love) and [acceptance](https://en.wikipedia.org/wiki/Acceptance). Experiencing euphoric environments.
 
 Paradise.
 
@@ -1663,7 +1663,7 @@ I find the correspondences here particularly strong.
 
 Beatrice.
 
-*   Receiving a[life review](https://en.wikipedia.org/wiki/Life_review), commonly referred to as "seeing one's life flash before one's eyes".
+*   Receiving a [life review](https://en.wikipedia.org/wiki/Life_review), commonly referred to as "seeing one's life flash before one's eyes".
 
 The first thing Beatrice does is Give Dante a life review.
 

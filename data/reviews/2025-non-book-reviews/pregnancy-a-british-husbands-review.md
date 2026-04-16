@@ -7,7 +7,7 @@ contestName: 2025 Non Book Reviews
 year: 2025
 publishedDate: '2026-02-06T16:55:03.485Z'
 slug: pregnancy-a-british-husbands-review
-wordCount: 3135
+wordCount: 3141
 readingTimeMinutes: 14
 originalUrl: >-
   https://docs.google.com/document/d/1a3q0Z2tuPLLbDeg5-pfEffkajGjrfPDwE7ZMs7uaWQs
@@ -40,7 +40,7 @@ We gazed at the tiny ball of cells, and peering closely there was even a little 
 
 At this scan I also discovered that “baby” doesn’t take the definite article. It’s always just “baby”, not "the baby". I would say it’s because Baby is treated as a name, except that it also seems to be written with a lowercase b.
 
-Whether or not you get a scan to look, the pregnancy usually becomes obvious when morning sickness kicks in. Morning sickness can be pretty grim and is very much not limited to the mornings, but on the plus side it tends to be a sign baby is growing well (although sadly not always). My main guide for the pregnancy was an economist’s favorite:[Expecting Better by Emily Oster](https://www.goodreads.com/book/show/16158576-expecting-better). If you want morning sickness medicine, Oster’s top drug recommendation is implicitly the doxylamine-pyridoxine combination.[3] But only one woman she spoke to took medication, as others were too nervous. In Korea this is marketed as Diclectin, and many women in my wife’s chat group were happily taking it.
+Whether or not you get a scan to look, the pregnancy usually becomes obvious when morning sickness kicks in. Morning sickness can be pretty grim and is very much not limited to the mornings, but on the plus side it tends to be a sign baby is growing well (although sadly not always). My main guide for the pregnancy was an economist’s favorite: [Expecting Better by Emily Oster](https://www.goodreads.com/book/show/16158576-expecting-better). If you want morning sickness medicine, Oster’s top drug recommendation is implicitly the doxylamine-pyridoxine combination.[3] But only one woman she spoke to took medication, as others were too nervous. In Korea this is marketed as Diclectin, and many women in my wife’s chat group were happily taking it.
 
 In the UK the same drug is marketed as Xonvea. We asked our GP, but she said it was greyed out on her computer system which meant she wasn’t allowed to prescribe it. And as pharmacies need a prescription, that means it’s essentially unavailable – so I’m not sure why it’s marketed here and who gets to take it. We were offered Cyclizine instead, with the offputting words “if you really need it”.
 
@@ -56,7 +56,7 @@ So I was amused, and at first a little uncomfortable, to discover that Baby Worl
 
 We went with the cake. It was blue.
 
-Colour scheme of a gender reveal party, according to Google Search
+![](https://acximages.ennals.org/images/2025-non-book-reviews/2539c847a23a4a1d.jpg)Colour scheme of a gender reveal party, according to Google Search
 
 Then, I was led to believe, it’s time to start weight measurements and amniotic fluid scans. Oster seems to worry a lot about these being misinterpreted. Her midwife berates her for gaining too much weight (an experience shared by our friend in New York), even though it would be worse to not gain weight. And when, in a later pregnancy scan that’s known for being noisy, doctors appear to measure a low level of amniotic fluid in her friend, they whisk her away for sudden emergency induction.
 
@@ -65,6 +65,8 @@ But my wife’s midwives never even measured her weight gain, and told me they w
 After reading Oster’s book, I was, if anything, relieved that the NHS doesn’t measure amniotic fluid levels. However, I did wish they would measure cervical length. In Korea this is frequently and routinely measured throughout pregnancy: if it’s too short, women are advised to be careful, or to have a McDonald surgery (tie a suture around the cervix) to protect the pregnancy. In the UK it feels like we just hope the pregnancy takes care of itself: hospitals won’t measure cervical length unless the mother has a history of miscarriage. Is this because it’s the evidence-based best policy for the mother, or just the NHS conserving resources? Without data I haven’t seen, it’s impossible to say, but I’m leaning towards the latter. The stillbirth rate is 0.25% in the UK, 0.27% in the USA, but only 0.17% in Korea.[5] Proactive monitoring is surely part of the story.
 
 It seems to me that the various monitoring and screening tests can be placed on a scale of their benefit for a typical pregnancy, a bit like this:
+
+![](https://acximages.ennals.org/images/2025-non-book-reviews/7b361382ae2aa367.jpg)
 
 The basic ultrasounds are usually enough, then there are additional tests that make it slightly more likely the pregnancy will succeed and the mother will be safe. These get more and more marginal, until eventually some tests can apparently cause more harm than good,[6] because they lead doctors to overreact to noisy data. If you have the resources, you can try to buy extra tests to climb the curve until you are giving the mother and pregnancy the best chance you can.
 
@@ -76,11 +78,11 @@ It was time to get ready for baby. Several friends and colleagues recommended we
 
 So I was slightly on my guard in the first class, and it wasn’t helped when we spent the first 20 minutes covering “what is a reliable information source”. After that however, the classes picked up. They covered information about local hospitals that wouldn’t be available in books, they were a good chance to meet other expectant parents, and if nothing else they were an interesting case study in pedagogy: how to keep a voluntary class of adults engaged.
 
-A C-section, according to our baby class
+![](https://acximages.ennals.org/images/2025-non-book-reviews/371f40f01f810fa2.jpg)A C-section, according to our baby class
 
 For the most part, the classes were balanced on the pros and cons of different birth and childcare options. However, the infant feeding teacher didn’t get the memo. She was a confident lady with a lanyard decorated with drawings of breasts, and a habit of answering a question with a question. “What if I don’t have enough milk?” one woman asked. “Do dogs worry about that?” replied the teacher. “Are you saying 100% of mothers can breastfeed successfully?” I followed up. “Would humans have survived if we couldn’t?” she answered.
 
-She made it sound like the only possible reason for failure is lack of commitment. Don’t give formula, don’t buy bottles, don’t prepare a steriliser. This doesn’t chime with the stories I have heard from several mothers, and would have left us scrambling to buy supplies after birth, when the reality is that most families will do at least some mixed feeding. And it leads to the instruction not to give the newborn any formula, no matter how much they cry (advice echoed by[Your Baby Week By Week](https://www.goodreads.com/book/show/18872384-your-baby-week-by-week)); which in my opinion is pretty harsh, as some women’s milk supply genuinely isn’t enough to satisfy the baby until a few days in.
+She made it sound like the only possible reason for failure is lack of commitment. Don’t give formula, don’t buy bottles, don’t prepare a steriliser. This doesn’t chime with the stories I have heard from several mothers, and would have left us scrambling to buy supplies after birth, when the reality is that most families will do at least some mixed feeding. And it leads to the instruction not to give the newborn any formula, no matter how much they cry (advice echoed by [Your Baby Week By Week](https://www.goodreads.com/book/show/18872384-your-baby-week-by-week)); which in my opinion is pretty harsh, as some women’s milk supply genuinely isn’t enough to satisfy the baby until a few days in.
 
 I do recommend baby classes, for a different reason. Childbirth and baby care are two of the areas where cultural differences loom the largest – not only between nationalities, but also between families and over generations. For example, Your Baby Week By Week expects you to go out with your baby in week 1, and Oster even talks about attending a party, while our Korean textbook advises not to leave the house or have visitors until at least week 7. If you and your partner have different information diets, you may end up with wildly different expectations without realising. So it’s useful to hear the same information and be prompted to talk everything through. But be careful: our baby class teacher once had a couple rage out of the room in a heated argument.
 
@@ -93,7 +95,7 @@ Then we were posed a couple of questions in a very leading way.
 
 Actually I didn’t mind, because we were pushed in the right direction on both these questions. Delayed cord clamping carries a higher jaundice risk,[7] which neither the baby classes nor midwife mentioned, but I thought this was an acceptable trade-off for the blood and iron benefits. And skin-to-skin is widely accepted as a good idea, with no real downsides (one of the useful things the infant feeding teacher taught us, to be fair to her). We were told this needs at least an hour, soon after birth. Our friend in New York was told two hours. In Korea however, the baby is often taken away to a care unit, and barely sees the mum at all. If I were to sum up the healthcare systems, I would say that Korea is more mother-focused, while the UK is more baby-focused.
 
-We weren’t asked about a doula. I was surprised because[on the 80,000 hours podcast](https://80000hours.org/podcast/episodes/emily-oster-pregnancy-parenting-careers/) Oster said ‘get a doula’ is her number one piece of advice. Simkin’s The Birth Partner would agree. They make it sound like doulas are a very common and obvious choice. But what is a doula? Face to face, I never heard anyone suggest it.
+We weren’t asked about a doula. I was surprised because [on the 80,000 hours podcast](https://80000hours.org/podcast/episodes/emily-oster-pregnancy-parenting-careers/) Oster said ‘get a doula’ is her number one piece of advice. Simkin’s The Birth Partner would agree. They make it sound like doulas are a very common and obvious choice. But what is a doula? Face to face, I never heard anyone suggest it.
 
 A doula is a trained childbirth expert, who can accompany you to the birth and give support all the way through. I thought it sounded like a good idea – maybe because it would take responsibility off me as the birth partner – but we didn’t hire one in the end, partly because of the £1.5k price tag ($~2k). During birth, when I probably should have been concentrating on other things, I asked our birthing midwife how many people use a doula. In two years on the labour ward, she had seen only a single one, so they must be quite unusual.
 
@@ -113,16 +115,16 @@ Overall Pregnancy Rating: 2/5. And yet, it’s one of the best things that’s e
 
 [1] [Econtalk podcast with Russ Roberts, 28 Aug 2023, Vinay Prasad on Cancer Screening](https://www.econtalk.org/vinay-prasad-on-cancer-screening)
 
-[2] The NHS will give you an Early Pregnancy Scan if you present with symptoms (and are triaged towards the front of the queue relative to other patients on the day), but won’t give you a screening test before that point. See[https://www.nhs.uk/conditions/ectopic-pregnancy/](https://www.nhs.uk/conditions/ectopic-pregnancy/)
+[2] The NHS will give you an Early Pregnancy Scan if you present with symptoms (and are triaged towards the front of the queue relative to other patients on the day), but won’t give you a screening test before that point. See [https://www.nhs.uk/conditions/ectopic-pregnancy/](https://www.nhs.uk/conditions/ectopic-pregnancy/)
 
 [3] I say “implicitly” because on page 96 Oster calls Debendox the “first line of defense”, while noting it was taken off the market in the USA and never came back, despite studies not finding it to be dangerous. Something similar now seems to be available again, under the name Diclegis.
 
 [4] In which case our hospital would hook the mother up to a machine for contraction and baby monitoring, potentially followed by an extra ultrasound and the ‘single deepest pocket’ test (Oster’s preferred test) for amniotic fluid levels.
 
-[5][World Bank 2023 data](https://genderdata.worldbank.org/en/indicator/sh-dyn-stlb)
+[5] [World Bank 2023 data](https://genderdata.worldbank.org/en/indicator/sh-dyn-stlb)
 
-[6] Oster (2013) Expecting Better
+[6] Oster (2013) Expecting Better 
 
-[7] Oster (2013) Expecting Better
+[7] Oster (2013) Expecting Better 
 
 -- END OF FOOTNOTES --

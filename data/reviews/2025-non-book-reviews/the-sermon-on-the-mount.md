@@ -7,7 +7,7 @@ contestName: 2025 Non Book Reviews
 year: 2025
 publishedDate: '2026-02-06T16:55:59.399Z'
 slug: the-sermon-on-the-mount
-wordCount: 5968
+wordCount: 5969
 readingTimeMinutes: 27
 originalUrl: >-
   https://docs.google.com/document/d/1jYVJFIz5-aMi0LCgsC9AN6BncJDNVGaMU37QmwZ1vzA
@@ -130,7 +130,7 @@ Finally, let us return to the last of Jesus's three instructions in the genre of
 
 ## Death and tax collectors
 
-As a child, I never fully understood why tax collectors were regarded as such a despised class in Jesus's time. In Matthew 9, the Pharisees are scandalized to find Jesus dining with “tax collectors and sinners.”See also Matthew 21, where Jesus condemns the religious elites saying: "Truly I tell you, the tax collectors and the prostitutes are entering the kingdom of God ahead of you."
+As a child, I never fully understood why tax collectors were regarded as such a despised class in Jesus's time. In Matthew 9, the Pharisees are scandalized to find Jesus dining with “tax collectors and sinners.” See also Matthew 21, where Jesus condemns the religious elites saying: "Truly I tell you, the tax collectors and the prostitutes are entering the kingdom of God ahead of you."
 
 But much like the back-handed slap, and the military practice of short-term civilian conscription (angareia), debt was a tool of Roman oppression.
 

@@ -7,7 +7,7 @@ contestName: 2024 Book Reviews
 year: 2024
 publishedDate: '2026-02-06T16:49:50.824Z'
 slug: why-fish-dont-exist
-wordCount: 7091
+wordCount: 7114
 readingTimeMinutes: 32
 originalUrl: >-
   https://docs.google.com/document/d/1Ki5XsE0jkxZtd2XAeyTAJw1ZjLh2Cu-matUYKAhA6-s
@@ -24,6 +24,8 @@ Fish are very diverse animals and can be categorised in many ways.
 — Wikipedia, [Diversity of Fish](https://en.wikipedia.org/wiki/Diversity_of_fish)
 
 Is this book a work of fiction, perhaps one published before 1900? Well, no, it’s a work of fishin’ nonfiction. Is the book at least on an unusual topic? Metaphysics, perhaps? Er, no, it’s mostly about metafishics science—but it’s not like other nonfiction science books, I swear! Why Fish Don’t Exist is half-memoir, half biography, a frankenbook born of one woman’s monomaniacal insistence that a dead scientist possessed the only wisdom that could restore her to sanity. And it really makes an argument for why fish don’t exist! It just takes a while to get there. The book arguably belongs to a genre of its own, and it certainly breaks the mold of previous winners, thereby qualifying, I shamelessly claim, for preferential treatment in this here contest.
+
+![](https://acximages.ennals.org/images/2024-book-reviews/cb9e8d38a8e1c83a.jpg)
 
 ### A Speck on a Speck on a Speck
 
@@ -53,6 +55,8 @@ It’s not if, it’s when. Chaos is the only sure thing in this world. The mast
 
 Lulu’s depression may also have something to do with the matter of her ex-boyfriend of seven years, who left her after she cheated on him with some “bouncing blond girl.” But overcoming her lifelong crisis of meaning seems more tractable than winning back her ex, so Lulu sets out to solve the ancient problem.
 
+![](https://acximages.ennals.org/images/2024-book-reviews/be1d89f00310a282.jpg)
+
 This is Lulu Miller.
 
 Lulu harbors a fierce commitment to science: her parents were professors, and her father was a biochemist, so religious escapism is off the table. Where can one go to find meaningful connections in a [secular community](https://secularsolstice.com/) these days? LessWrong, of course! Indeed, nary a page expires without Lulu pondering some question that beloved forum has already pondered to death. Though she is as prime a specimen of a “proto-rat” as you will ever find, our poor Lulu is uninitiated in the art of rationality. Determined to recover her lost sense of meaning and unable to commiserate with the Sequences, Lulu investigates how others have reconciled themselves to the cold indifference of the universe.
@@ -71,9 +75,13 @@ The quote comes from the last sentence of On the Origin of Species. It is Darwin
 
 So Lulu can’t quite figure out what hidden principle animates her dad, despite his lowly place in the universe. Where he sees grandeur, Lulu finds only bleak insignificance.
 
+![](https://acximages.ennals.org/images/2024-book-reviews/3d526dddbf567b0b.jpg)
+
 This is Lulu’s father.
 
 Rejecting her father’s example, Lulu does what anyone in that position is supposed to do: she moves to Chicago to spend an alarming amount of time obsessing over a strange older man, who may have committed murder. In Lulu’s case, that man is a fish taxonomist who died over 50 years before she was born, and his alleged victim was Jane Stanford, founder of the eponymous university.
+
+![](https://acximages.ennals.org/images/2024-book-reviews/cf466a2fa80e699a.jpg)
 
 ### So You Want to Be a Starr?
 
@@ -94,6 +102,8 @@ So I can be like you
 — The Jungle Book, “I Wanna Be Like You”
 
 Why does Lulu expect David Starr Jordan, of all people, to possess the secret wisdom she seeks? For one, he bore an uncanny resemblance to Lulu’s father. David, too, was not above tasting the subjects of his scientific inquiry. He wrote children’s books “that portrayed a claustrophobic world in which the characters could not escape the cold rules of our universe . . . There was [no true magic, even for children](https://hpmor.com). Just survival born of the creative harnessing of these cold, harsh rules.” In his writing for adults, David crusaded against “trying to believe [what we know is not true](https://www.lesswrong.com/tag/litany-of-tarski).” His syllabus for a course on evolution declares, “Nature [no respecter](https://www.lesswrong.com/posts/pLRogvJLPPg6Mrvg4/an-alien-god) of persons . . . Tampering impossible . . . Her laws [immutable](https://nickbostrom.com/fut/evolution) . . . He who defies them wields a club of air.” Simply oozing with Rationality. Dedicating a day to the pessimism of evolution, David even repeats Lulu’s father’s favorite line: “There is grandeur in this view.”
+
+![](https://acximages.ennals.org/images/2024-book-reviews/9318a70445952237.jpg)
 
 This is David Starr Jordan.
 
@@ -121,7 +131,9 @@ With the needle, David sewed those tin name tags directly to their corresponding
 
 I wondered what it was that allowed him to keep plunging his sewing needle at Chaos, in spite of all the clear warnings that he would never prevail. I wondered if he had stumbled across some trick, some prescription for hope in an uncaring world. And because he was a scientist, I held on to the distant possibility that his justification for persistence, whatever it was, fit into my father’s worldview. Perhaps he had cracked something essential about how to have hope in a world of no promises, about how to carry forward on the darkest days.
 
-So Lulu indulges her infatuation with David and purchases his [two](https://www.astralcodexten.com/p/you-dont-hate-polyamory-you-hate)[\-volume memoir](https://www.astralcodexten.com/p/you-dont-hate-polyamory-you-hate). Since a memoir is a review of a life, and Why Fish is effectively a review of David’s memoir, I think that makes this post a review of a review of a review.
+So Lulu indulges her infatuation with David and purchases his [two](https://www.astralcodexten.com/p/you-dont-hate-polyamory-you-hate)[-volume memoir](https://www.astralcodexten.com/p/you-dont-hate-polyamory-you-hate). Since a memoir is a review of a life, and Why Fish is effectively a review of David’s memoir, I think that makes this post a review of a review of a review.
+
+![](https://acximages.ennals.org/images/2024-book-reviews/1633ed5f36cb2517.jpg)
 
 ### A Starr Is Born
 
@@ -132,7 +144,7 @@ Now, I understand
 What you tried to say to me  
 And how you suffered for your sanity
 
-—Don McLean, “Vincent”
+—   Don McLean, “Vincent”
 
 David was nearly born too late: by the time of his youth, the world had entered something of a taxonomy winter. The Age of Discovery had whetted the world’s appetite for exotic creatures, but globalization had already fed the hunger. Carl Linnaeus, the father of modern taxonomy, had effectively shut the book on the topic with the publication of Systema Naturae in 1758—almost a hundred years before David was born. History might have frustrated David’s taxonomic destiny if it were not for the careers of two scientists.
 
@@ -144,7 +156,9 @@ The problem with [memorizing](https://www.lesswrong.com/posts/L22jhyY9ocXQNLqyE/
 
 As late as the 1850s, for example, many respectable scientists still believed in the idea of “spontaneous generation”—the belief that fleas and maggots could spring forth from particles of dust; a few decades before that, scientists believed in a magical substance called “[phlogiston](https://www.lesswrong.com/posts/a7n8GdKiAZRX86T5A/making-beliefs-pay-rent-in-anticipated-experiences)” that determined whether or not a material would burn; at that very moment, people had no way of protecting their loved ones against [mysterious illnesses](https://www.youtube.com/live/ONMFsEAR14A?feature=shared&t=9262) . . .
 
-Illnesses like the ones that killed so many of the people close to David. To help the next generation [catch the spark](https://www.lesswrong.com/posts/9cbEPEuCa9E7uHMXT/catching-the-spark) of empiricism, Agassiz started “a kind of summer camp for young naturalists.” [History](https://www.sparc.camp/)[repeats](https://www.atlasfellowship.org/)[itself](https://espr.camp/). And of course, David Starr Jordan is selected to attend the camp on Penikese Island, off the coast of Massachusetts.
+Illnesses like the ones that killed so many of the people close to David. To help the next generation [catch the spark](https://www.lesswrong.com/posts/9cbEPEuCa9E7uHMXT/catching-the-spark) of empiricism, Agassiz started “a kind of summer camp for young naturalists.” [History](https://www.sparc.camp/) [repeats](https://www.atlasfellowship.org/) [itself](https://espr.camp/). And of course, David Starr Jordan is selected to attend the camp on Penikese Island, off the coast of Massachusetts.
+
+![](https://acximages.ennals.org/images/2024-book-reviews/c30090bbe037cf41.jpg)
 
 ### The Ladder of Nature
 
@@ -188,6 +202,8 @@ Perhaps Lulu compartmentalizes their differences to justify her continued search
 
 Lulu even approaches this understanding herself. Realizing that David was prone to narcissistic tendencies, she asks, “Was I doing exactly what I was beginning to suspect David of, twisting the facts to keep my worldview intact, to confirm my daddy’s belief that confidence corrupts?” But who can blame David for his confidence? He was a member of Homo sapiens, envy of the animal kingdom!
 
+![](https://acximages.ennals.org/images/2024-book-reviews/25cae96de67ab946.jpg)
+
 ### A Stanford Man
 
 We’re no saviors if we can’t save our brothers
@@ -198,7 +214,11 @@ At thirty-four years old, David was sworn in as president of Indiana University,
 
 David’s first objective was to pack the science departments with his friends and former students. Then, he turned his attention to facilities. The Stanfords proposed, to David’s delight, a statue of Louis Agassiz for the new campus. The marble sentry was positioned over the entrance to the building that contained what David had restored of his fish collection since the first fire. David also commissioned the Hopkins Seaside Laboratory on Monterey Bay.
 
+![](https://acximages.ennals.org/images/2024-book-reviews/a44c8607337fa6e7.jpg)
+
 In 1917, the research lab relocated to a quieter spot, a 20-minute walk down the coast, where it stands today.
+
+![](https://acximages.ennals.org/images/2024-book-reviews/71b2c0a6ab5588df.png)
 
 The first building on the left is Agassiz Hall, named after Alexander Agassiz, the son of the scientist whose seaside summer camp inspired this Stanford laboratory. In the background, the Monterey Bay Aquarium.
 
@@ -206,9 +226,13 @@ David and his second wife lived nearby, surrounded by a garden of plants from, i
 
 David was asleep, surrounded by his family and their menagerie, when the 1906 earthquake devastated the San Francisco Bay Area. He ran through the turmoil of Stanford’s campus to his office, where carnage awaited him. Lulu writes, “Fish were everywhere. Glass was strewn all over the floor. Flounders bashed further flat by fallen stone. Eels severed by shelves. Blowfish popped by shards of glass.” And topping it all off:
 
+![](https://acximages.ennals.org/images/2024-book-reviews/ca98b7609833a8e3.jpg)
+
 The statue of Louis Agassiz was unharmed. In 2020, it retired from its post above Jordan Hall, which was simultaneously [renamed](https://news.stanford.edu/2020/10/07/jordan-agassiz/) to Building 420.
 
 David dispatched two trusted professors to keep hoses on the fish pile for two days and nights, while they waited for a shipment of ethanol. Then, his team sorted through the soggy hoard: the fish they recognized were returned to ethanol jars, this time with their names affixed directly to their flesh, and the jars were secured on their shelves, which were in turn reinforced and mounted. Still, a thousand specimens were not recovered. To appreciate the magnitude of the loss, we must also know a thing about names.
+
+![](https://acximages.ennals.org/images/2024-book-reviews/c891138c502b0c8e.jpg)
 
 ### What’s an Anemone? That Fish We Collar Erodes
 
@@ -224,11 +248,15 @@ The men get increasingly creative in their naming. They name ugly fishes after t
 
 Off the coast of Japan in 1904, even David christened a fish with his name: Agonomalus jordani.
 
+![](https://acximages.ennals.org/images/2024-book-reviews/b24ac45bbc7ad975.jpg)
+
 Agonomalus jordani.
 
 David took a name from nature; it seems only fair that David gave his name to nature, in return. It would have been more fun if he’d picked a starfish, though. As he encounters hardships and Chaos, naming the natural world remains an abiding source of Order for David.
 
 There was always the relief of fish. That wide and watery world offering infinite comfort, better comfort, he was sure, than any booze or drug could provide. With each new fish, each new catch, each new name placed on a formerly unknown piece of the universe, came that impossibly intoxicating feeling. That sweet honey on the tongue. That hit of fantasized omnipotence. That lovely sensation of order. What a salve, a name.
+
+![](https://acximages.ennals.org/images/2024-book-reviews/f4d4b16d9c453299.jpg)
 
 ### So You Don’t Want to Be a Starr?
 
@@ -262,9 +290,15 @@ No, the more scientifically logical thing to do is to admit that fish, all this 
 
 So there you have it. Many species have become fish-like, despite disparate origins. It’s the familiar story of convergent evolution that has given rise to the world’s many-splendored [crabs](https://en.wikipedia.org/wiki/Carcinisation#:~:text=carcinisation%20%E2%80%A6,general%20body%20of%20a%20crab) and [trees](https://eukaryotewritesblog.com/2021/05/02/theres-no-such-thing-as-a-tree/).
 
+![](https://acximages.ennals.org/images/2024-book-reviews/50d719a4ab260575.png)
+
+![](https://acximages.ennals.org/images/2024-book-reviews/fdfed3874b277c98.png)
+
 Lulu considers this a damning indictment of David’s work. She admits that, if David had been alive for it, he probably would have come around to the cladist position. But she revels in the pain it would have caused the eugenicist: “His hurt, imagining him in some degree of anguish . . . it has a wonderful effect. It makes my skin prickle with the most forbidden of atheist fantasies. That somehow, out there, encoded in the cold math of Chaos, there is a sort of cosmic justice after all.”
 
 Once again Lulu is guilty of the same crime as David, not the crime of confirmation bias but the crime of assuming orderly conduct. And again their common cognitive bias proves their similarity, two people displaying the same adaptation to the same harsh environment. But by this point, Lulu has identified the trait, a predilection for eugenics, that classes David in a past generation. No matter how similar they might seem, they belong to different branches of history, which insulates Lulu from relating to a eugenicist, but also cuts her off from the one person who offered hope of solace, more so than her own father.
+
+![](https://acximages.ennals.org/images/2024-book-reviews/4ec28b4d4b7abfad.jpg)
 
 ### The Way Out
 
@@ -287,6 +321,8 @@ I get, at long last, that thing I had been searching for: a mantra, a trick, a p
 The best way of ensuring that you don’t miss them, these gifts, the trick that has helped me squint at the bleakness and see them more clearly, is to admit, with every breath, that you have no idea what you are looking at. To examine each object in the avalanche of Chaos with curiosity, with doubt. Is this storm a bummer? Maybe it’s a chance to get the streets to yourself, to be licked by raindrops, to reset. Is this party as boring as I assume it will be? Maybe there will be a friend waiting, with a cigarette in her mouth, by the back door of the dance floor, who will laugh with you for years to come, who will transmute your shame to belonging.
 
 I find this whiplash conclusion, with its “at long lasts,” cliché and unsatisfying, but perhaps it is realistic. Through uncertainty, Lulu learns to marvel at the wonders of the world, including her wife, whom she addresses in the acknowledgements: “Spending time with you is the grandeur of my life.”
+
+![](https://acximages.ennals.org/images/2024-book-reviews/9dfd1c09d7572e2f.jpg)
 
 ### Taking the Long Way
 
@@ -340,11 +376,15 @@ There are facts of the matter on each individual point – whether a whale has f
 
 Permitting these sorts of ill-behaved categories would have offended Lulu’s understanding of science, sure, but her solution involved tempering her estimation of science, anyway. At least common categories could have retained some integrity in Lulu’s eyes, even if their boundaries are a bit [arbitrary](https://www.lesswrong.com/posts/WBw8dDkAWohFjWQSk/the-cluster-structure-of-thingspace) or subjective. Lulu has already accepted that species are defined by artificial boundaries around fuzzy clusters; it should be simple to extend the same understanding to other categories.
 
+![](https://acximages.ennals.org/images/2024-book-reviews/b598bea532b3084f.png)
+
 The first irony of Lulu’s resolution to her ancient problem is that meeting her wife seems to cure her angst. If she had focused on finding love from the beginning, maybe she could have reached [the same happy ending](https://www.reddit.com/r/plotholes/comments/jtudaf/indiana_jones_has_no_effect_on_the_outcome_of/) while circumventing the entanglement with David altogether. Attributing her nuptial bliss to a suspicion of man-made categories sounds an awful lot like a confabulated explanation that conveniently redeems the untold hours she sunk into a wrongheaded search for wisdom.
 
 The second irony is that Lulu Miller’s deliverance is marrying Grace Miller. Like David and the natural world, Lulu and her wife share names! If disgust toward David had not clouded Lulu’s search, maybe she would have identified this core lesson from his life and embraced the power of names, rather than renouncing words entirely. Maybe names could have presented a shortcut to happiness, rather than an obstacle.
 
 But no matter, Lulu got there eventually. She met a new partner, bestowed her name, and found some peace. Though Lulu ends up insisting upon her differences with David, one last similarity between them bears mentioning. By the end of David’s career, his team had discovered about a fifth of the 12,000 or so species known to humanity at the time. So for both the writer and the taxonomist, it turned out there were plenty of fish in the sea.
+
+![](https://acximages.ennals.org/images/2024-book-reviews/b3cb7c0cbc45961b.jpg)
 
 ### Acknowledgements
 

@@ -7,7 +7,7 @@ contestName: 2022 Book Reviews
 year: 2022
 publishedDate: '2026-02-06T07:21:54.171Z'
 slug: the-outlier-the-unfinished-presidency-of-jimmy-carter-by-kai-bird
-wordCount: 5683
+wordCount: 5687
 readingTimeMinutes: 26
 originalUrl: >-
   https://docs.google.com/document/d/1hFzjXliCAWjvheY-8Qd2fhbF79LnX0Xg6R9eqk9yIyI
@@ -22,7 +22,7 @@ tags:
 
 I decided to read a 600-page book about Jimmy Carter because I was tired of only reading about the historical figures everyone already agrees are interesting.
 
-John Adams became an HBO miniseries. Hamilton became a Broadway show. The Power Broker and The Years of Lyndon Johnson became such status symbols that there was a whole [pandemic meme](https://www.google.com/url?q=https://www.nytimes.com/2020/05/28/nyregion/power-broker-tv.html&sa=D&source=editors&ust=1770366106338326&usg=AOvVaw0gSq2D6hPV2skB4PmOqbKq) about people ostentatiously displaying them in their Zoom backgrounds. But you never hear anyone bragging about their extensive knowledge of the Carter administration.
+John Adams became an HBO miniseries. Hamilton became a Broadway show. The Power Broker and The Years of Lyndon Johnson became such status symbols that there was a whole [pandemic meme](https://www.nytimes.com/2020/05/28/nyregion/power-broker-tv.html) about people ostentatiously displaying them in their Zoom backgrounds. But you never hear anyone bragging about their extensive knowledge of the Carter administration.
 
 Like most people under 70, I was more aware of Carter’s post-presidency role as America’s kindly old grandfather, pottering around holding his wife’s hand and building Houses for Humanity. I mostly knew that he liked to wear sweaters, that he owned a peanut farm, and that he lost to Ronald Reagan.
 
@@ -31,6 +31,8 @@ But I wondered what, if any, hidden depths lay within the peanut farmer. Also, I
 Carter was born in 1924 in Plains, Georgia, which, as you can tell from the name “Plains,” is very dull. His father was a successful farmer, which made his family wealthy by local standards. Almost every other Plains resident during Carter’s childhood was an impoverished African-American, many of whom worked on the Carter farm, a fact that is often cited as the answer to the central mystery of Carter’s childhood: how he grew up white in the Depression-era South without becoming a huge racist. It probably doesn’t tell the whole story, though, as his siblings came out just about as racist as you’d expect.
 
 Carter attends the Naval Academy and eventually becomes a lieutenant on a nuclear submarine. At one point, he participates in a cleanup mission in which he is lowered directly into the core of an active nuclear reactor, thus causing him to develop superpowers that he will later use to win the presidency. Perhaps because of this experience—but, more likely, because he realizes that his deep-seated religious beliefs make him a poor fit for a career in an organization designed to wage war—he quits the Navy at 29 and returns home to Plains. “God did not intend for me to kill,” he says, which would have been an awesome catchphrase had those superpowers actually been real.
+
+![](https://acximages.ennals.org/images/2022-book-reviews/2ca216bfe8af6d2c.png)
 
 Naval Lieutenant Jimmy Carter: surprisingly attractive.
 
@@ -48,13 +50,15 @@ And what he wants to do is… well, honestly, not all that much. Carter’s gove
 
 When he first enters the 1976 Democratic primary, Carter is a complete unknown, and the general consensus is that he’s the longest of long shots. (“Jimmy who?” one opponent asks.) But two things go very, very right for him. First, he’s one of the few people who fully understands the changes to the Democratic primary process that were implemented after the chaos of the 1968 convention[[4]](#ftnt4). He stakes his campaign on the now-familiar strategy of winning the Iowa caucuses and the New Hampshire primary, which is groundbreaking at the time. More importantly, the fact that no one has ever heard of him turns out to be a huge advantage in the wake of Watergate, when voters are hungry for an outsider.
 
-Despite the fact that his gubernatorial campaign was premised entirely on obscuring his actual beliefs, he opens his presidential campaign with the slogan “I’ll never lie to you.” He runs an Obama-esque campaign, emphasizing his personal background and outsider status rather than any specific accomplishments. By the time he wins the primary, he has a huge polling lead over the incumbent president, Gerald Ford, who’s unpopular thanks to his recent pardon of Richard Nixon and the memory of [that time he slipped and fell down the stairs of Air Force One](https://www.google.com/url?q=http://content.time.com/time/specials/packages/article/0,28804,1880208_1880218_1880225,00.html&sa=D&source=editors&ust=1770366106344943&usg=AOvVaw3u-ErTRQAQLqE7eeCb7qOa).
+Despite the fact that his gubernatorial campaign was premised entirely on obscuring his actual beliefs, he opens his presidential campaign with the slogan “I’ll never lie to you.” He runs an Obama-esque campaign, emphasizing his personal background and outsider status rather than any specific accomplishments. By the time he wins the primary, he has a huge polling lead over the incumbent president, Gerald Ford, who’s unpopular thanks to his recent pardon of Richard Nixon and the memory of [that time he slipped and fell down the stairs of Air Force One](http://content.time.com/time/specials/packages/article/0,28804,1880208_1880218_1880225,00.html).
 
 Carter then proceeds to squander almost his entire lead via a series of poor campaign decisions. First, he’s so overconfident that he refuses to prepare for his first debate with Ford, and completely bungles it as a result. He then sits for an interview with Playboy weeks before the election and, completely unprompted, mentions that he’s “looked on a lot of women with lust” in his life and “committed adultery in [his] heart many times.” There’s a growing perception that Carter is, in the infamous words of one journalist, “a weirdo.”
 
 He isn’t helped by the fact that “the Establishment” is still a real thing in 1976, and they don’t like Carter one bit. The Establishment consists mostly of northern WASP elites, who are openly prejudiced against Carter for being southern, born-again, and distinctly not of their world. Former New York Governor W. Averell Harriman, who you can tell is a bastion of the Establishment because he just has an initial for a first name, sums up this view nicely when he says, “Carter can’t be president—I don’t even know him!”
 
 Although his lead shrinks consistently up through election day, Carter nonetheless manages to squeak out a narrow victory against Ford, 49.9 to 47.9%. Had just 10,000 voters in two states flipped their votes, Carter would have lost the electoral college. But they didn’t. And now, the weirdo has become the president.
+
+![](https://acximages.ennals.org/images/2022-book-reviews/fe603881269faca3.png)
 
 The electoral map of the 1976 campaign. The Democratic coalition was pretty different back then!
 
@@ -86,11 +90,15 @@ Anyway, after two weeks of nonstop conversation between the three countries’ t
 
 Sike! Obviously, that doesn’t happen. The Camp David Accords are seen as a triumph at the time, but in the long run, the picture is more mixed. The first part of the deal holds up, even after Sadat—who ends up becoming quite close with Carter—is assassinated by fundamentalists just a few years later. But the Israelis immediately welch on the second part of the deal and continue building settlements. Today’s Israel has more than 20x the number of settlers as it did then, making the intensity of the Carter/Begin dispute seem depressingly quaint in retrospect.
 
+![](https://acximages.ennals.org/images/2022-book-reviews/0ee996adf6a48a6b.png)
+
 My hot take: this is bad
 
 Carter’s blissful focus on foreign policy is interrupted by deteriorating conditions at home. The economy hasn’t been great for most of his term, but now it’s starting to really decline, with inflation averaging 14% by the late 70’s. Paired with this high inflation are high unemployment and low growth—a set of conditions economists had previously thought was impossible. They’re so befuddled by the combination that they coin a new term for it: “stagflation.” If economic conditions during your presidency are so novel that economists have to make up a new word to describe them, it’s usually a bad thing.
 
 The poor economy receives an additional shock with the 1979 oil crisis, when a drop in global oil production instigated by the Iranian revolution (more on that later) triggers a market reaction that more than doubles the price of oil. The result is not just skyrocketing gas prices but around-the-block lines at gas stations, with some even instituting rationing. Carter’s approval ratings, never great to begin with, drop into the low 30s.
+
+![](https://acximages.ennals.org/images/2022-book-reviews/265564ea7c6a78e7.png)
 
 Gas lines in 1979
 
@@ -148,7 +156,7 @@ Although it may not be clear from this review, The Outlier is actually intended
 
 The book did convince me that Carter is somewhat underrated in the popular imagination (admittedly a low bar to clear), but I don’t think it fully succeeds in its overall attempt to rehabilitate Carter’s image. It depends on what you think the job of a president is. Is it to tell blunt truths to the American public and push us to acknowledge our country’s flaws? Or is it to implement policies that lead to tangible improvements in people’s lives? While the best leaders may do some of both, ultimately the latter is what really matters. Carter may have been ahead of his time, but being too far ahead of your time is just another synonym for being wrong.
 
-I also don’t think this book succeeds purely as a biographical portrait of its subject. After I finished Robert Caro’s The Years of Lyndon Johnson, I felt like I really knew LBJ. But even after finishing all 628 pages of this book, Carter remains a mystery to me. I can tell you everything he did during his presidency, but I still don’t feel like I really understand him. What motivated Jimmy Carter? How did he develop his seemingly unshakeable confidence? Why did he even want to be president in the first place? (Ted Kennedy’s [high-profile fumble](https://www.google.com/url?q=https://abcnews.go.com/Politics/TedKennedy/story?id%3D8436488&sa=D&source=editors&ust=1770366106370639&usg=AOvVaw1wkpscizB31950MOZsHYGm) of this question famously contributed to his primary loss, but Carter never really answers it either.)
+I also don’t think this book succeeds purely as a biographical portrait of its subject. After I finished Robert Caro’s The Years of Lyndon Johnson, I felt like I really knew LBJ. But even after finishing all 628 pages of this book, Carter remains a mystery to me. I can tell you everything he did during his presidency, but I still don’t feel like I really understand him. What motivated Jimmy Carter? How did he develop his seemingly unshakeable confidence? Why did he even want to be president in the first place? (Ted Kennedy’s [high-profile fumble](https://abcnews.go.com/Politics/TedKennedy/story?id=8436488) of this question famously contributed to his primary loss, but Carter never really answers it either.)
 
 In the author’s defense, some of this may be because he has chosen an impossible subject. Throughout his time in office, Carter was widely considered to be an enigma by a press and public that were obsessed with psychoanalyzing him. Unlike the voluble Lyndon Johnson, whose loquaciousness left behind a vast group of people who could later report back on what he’d thought and said, Carter rarely socialized and had almost no friends. He was, in the words of the author, “probably the most private and socially reticent individual ever to occupy the White House,” a difficult trait for a biographer’s subject to have.
 

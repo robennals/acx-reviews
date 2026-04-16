@@ -7,7 +7,7 @@ contestName: 2022 Book Reviews
 year: 2022
 publishedDate: '2026-02-06T07:22:32.829Z'
 slug: the-matter-with-things-by-iain-mcgilchrist
-wordCount: 3581
+wordCount: 3582
 readingTimeMinutes: 16
 originalUrl: >-
   https://docs.google.com/document/d/100kMdSVFviZSSBvUyyEQPMNlvLptVQxHFD9i9wGuBWs
@@ -23,7 +23,7 @@ I think Dr. Iain McGilchrist is one of the most consequential minds of our times
 
 As my notes alone are over sixty pages long, distilling this book down to any summary you’d have the patience to read is an exercise in futility. Instead I will explain what it means to me and why I think it’s so important. Reading it was like scaling a mountain; a worthy challenge rewarded with a stunning view from the top. I can’t show you the view, but I can tell you what I saw, and recommend you make the climb yourself.
 
-This recent [Rebel Wisdom interview](https://www.google.com/url?q=https://podcasts.apple.com/us/podcast/the-matter-with-things-iain-mcgilchrist/id1414973780?i%3D1000542249242&sa=D&source=editors&ust=1770366146737415&usg=AOvVaw2Lx8lIzaxzwUwe7zvxoVQp) is a great introduction to the book’s thesis and will probably be a good barometer of whether you’ll enjoy it. It has already tipped two people I love into finally understanding why I think his work is so revelatory.
+This recent [Rebel Wisdom interview](https://podcasts.apple.com/us/podcast/the-matter-with-things-iain-mcgilchrist/id1414973780?i=1000542249242) is a great introduction to the book’s thesis and will probably be a good barometer of whether you’ll enjoy it. It has already tipped two people I love into finally understanding why I think his work is so revelatory.
 
 ### The three parts of the book 
 
@@ -33,7 +33,9 @@ The first part of the book discusses an imbalance between the hemispheres of our
 
  There is a characterological difference between the hemispheres of our brain. Counter to pop psychology, both sides do similar things, but they do them in very different ways. Counter to scientific rebuttals, just because both sides can do similar things, doesn’t mean the way they do them isn’t radically important.
 
-Moreover, there is an absolutely necessary tension between the two sides. McGilchrist likes to use the example of a bird. A bird uses its left hemisphere (LH) to identify if a grain is food or sand, while simultaneously using its right hemisphere (RH) to be on guard for predators. Narrow focus and broad focus, simultaneously and in balance. Without the narrow focus of the left, you can’t interact with the world and sort things into useful categories, without the right, you focus too narrowly and get eaten by a cat. [I outlined more details in my brief [insights from](https://www.google.com/url?q=https://thekcpgroup.com/insights/four-insights-from-the-master-and-his-emissary&sa=D&source=editors&ust=1770366146739706&usg=AOvVaw2FkVoV8lw1B6jzyEfHAZCD) [The Master and His Emissary](https://www.google.com/url?q=https://thekcpgroup.com/insights/four-insights-from-the-master-and-his-emissary&sa=D&source=editors&ust=1770366146739844&usg=AOvVaw3_Ze_PxyXN5KpYchxkkvsz), a book McGilchrist wrote twelve years ago, that I first read two years ago and have thought about every single day since].
+Moreover, there is an absolutely necessary tension between the two sides. McGilchrist likes to use the example of a bird. A bird uses its left hemisphere (LH) to identify if a grain is food or sand, while simultaneously using its right hemisphere (RH) to be on guard for predators. Narrow focus and broad focus, simultaneously and in balance. Without the narrow focus of the left, you can’t interact with the world and sort things into useful categories, without the right, you focus too narrowly and get eaten by a cat. [I outlined more details in my brief [insights from](https://thekcpgroup.com/insights/four-insights-from-the-master-and-his-emissary) [The Master and His Emissary](https://thekcpgroup.com/insights/four-insights-from-the-master-and-his-emissary), a book McGilchrist wrote twelve years ago, that I first read two years ago and have thought about every single day since].
+
+![](https://acximages.ennals.org/images/2022-book-reviews/314e6605d79dd227.png)
 
 Source: Getty Images.
 

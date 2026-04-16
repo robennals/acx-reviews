@@ -19,7 +19,7 @@ tags:
 
 A radical view of evolution, founded on a very different understanding of time and knowledge.
 
-The full text of this book can be found at: [http://www.gutenberg.org/files/26163/26163-h/26163-h.htm](https://www.google.com/url?q=http://www.gutenberg.org/files/26163/26163-h/26163-h.htm&sa=D&source=editors&ust=1770366085858831&usg=AOvVaw1EadgUdJmZlsEzmOlZSh9k)
+The full text of this book can be found at: [http://www.gutenberg.org/files/26163/26163-h/26163-h.htm](http://www.gutenberg.org/files/26163/26163-h/26163-h.htm)
 
 ## Ch. I
 

@@ -7,7 +7,7 @@ contestName: 2024 Book Reviews
 year: 2024
 publishedDate: '2026-02-06T16:47:15.591Z'
 slug: a-canticle-for-leibowitz-by-walter-m-miller-jr
-wordCount: 3033
+wordCount: 3037
 readingTimeMinutes: 14
 originalUrl: >-
   https://docs.google.com/document/d/1AXmWgSbh_TFsoZuApSCSEoz57yn93CM5YYhtaO_s4W4
@@ -17,9 +17,11 @@ tags:
   - Religion
 ---
 
+![](https://acximages.ennals.org/images/2024-book-reviews/942c2c31112b8103.png)
+
 A Canticle for Leibowitz  
 Walter M. Miller, Jr.  
-October 1959, J.B. Lippincott & Co.
+October 1959, J.B. Lippincott & Co. 
 
 "And so it was in those days," said Brother Reader, "that the princes of Earth had hardened their hearts against the Law of the Lord, and of their pride there was no end. And each of them thought within himself that it was better for all to be destroyed than for the will of other princes to prevail over his. For the mighty of the Earth did contend among themselves for supreme power over all; by stealth, treachery, and deceit they did seek to rule, and of war they feared greatly and did tremble; for the Lord God had suffered the wise men of those times to learn the means by which the world itself might be destroyed, and into their hands was given the sword of the Archangel wherewith Lucifer had been cast down, that men and princes might fear God and humble themselves before the Most High. But they were not humbled."
 
@@ -69,7 +71,7 @@ and a tendency to stick his foot in his mouth, so much so that he remains a novi
 
 Throughout the three acts, there is one character that seems to persist. We first meet him as an old pilgrim wandering the desert in the opening pages of act 1, where he has a humorous interaction with young Francis, inadvertently helping him discover the fallout shelter before wandering back out of the narrative. It is heavily implied that he is none other than Leibowitz, though that can't be, as Leibowitz was martyred centuries ago. Or can it?
 
-He returns in act 2 as Benjamin Eleazar bar Joshua, no longer wandering, now camped on top of a mesa that overlooks the monastery below. Miller is a bit coy as to whether or not this is in fact the same person six hundred years later, but it is clear upon consideration that this is intended to be[the Wandering Jew](https://en.wikipedia.org/wiki/Wandering_Jew), still waiting for the return of the Messiah. This act is where the character is most fully realized, engaging in a long exchange with the Abbot on the nature of man, of the burden of faith, of both of their long waits for the return of their Lord. At the conclusion of Act 2, he declares that the great scholar ushering in a new age of discovery is not the one he awaits.
+He returns in act 2 as Benjamin Eleazar bar Joshua, no longer wandering, now camped on top of a mesa that overlooks the monastery below. Miller is a bit coy as to whether or not this is in fact the same person six hundred years later, but it is clear upon consideration that this is intended to be [the Wandering Jew](https://en.wikipedia.org/wiki/Wandering_Jew), still waiting for the return of the Messiah. This act is where the character is most fully realized, engaging in a long exchange with the Abbot on the nature of man, of the burden of faith, of both of their long waits for the return of their Lord. At the conclusion of Act 2, he declares that the great scholar ushering in a new age of discovery is not the one he awaits.
 
 A background character again in Act 3, having resumed his wandering ways, he is identified in this era as "latzar shemi," or Lazarus, if you prefer. His brief appearance in the denouement seems to signal that the Wandering Jew is still waiting, the messiah still not returned.
 
@@ -95,7 +97,7 @@ the second act. Knowledge and humanity become inseparable.
 
 Whether one believes in the existence of a higher power or not, that conflict, the central theme of A Canticle for Leibowitz, points to a difficult question, particularly relevant in the age of modern technology. We have seen, repeatedly, throughout history, scientific advancements showing themselves as double-edged swords. In many ways, the splitting of the atom represents the greatest and simultaneously most terrible of these achievements.
 
-What, then, is to be done? Does mankind's soul, his Reason, belong to him alone, or should it be entrusted to God? (Or[an international council](https://history.state.gov/historicaldocuments/frus1946v01/d411)if you prefer a more worldly solution.) Perhaps the luddites, the anti-tech activists, and the "simplifiers" of our novel had the right idea after all. Or perhaps there is no answer to the question; once we have tasted the fruit of the tree of knowledge, we are indeed fated to die.
+What, then, is to be done? Does mankind's soul, his Reason, belong to him alone, or should it be entrusted to God? (Or [an international council](https://history.state.gov/historicaldocuments/frus1946v01/d411) if you prefer a more worldly solution.) Perhaps the luddites, the anti-tech activists, and the "simplifiers" of our novel had the right idea after all. Or perhaps there is no answer to the question; once we have tasted the fruit of the tree of knowledge, we are indeed fated to die.
 
 Walter Miller does an excellent job of posing a surprisingly insightful philosophical problem, especially considering its original presentation in the pages of a 50's sci-fi pulp magazine. At the time of this writing, sixty-plus years after its original publication, A Canticle for Leibowitz has never been out of print, and for good reason.
 

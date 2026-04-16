@@ -7,7 +7,7 @@ contestName: 2025 Non Book Reviews
 year: 2025
 publishedDate: '2026-02-06T16:55:03.475Z'
 slug: jacobitism-the-first-four-thousand-years
-wordCount: 3367
+wordCount: 3374
 readingTimeMinutes: 15
 originalUrl: >-
   https://docs.google.com/document/d/1a3q0Z2tuPLLbDeg5-pfEffkajGjrfPDwE7ZMs7uaWQs
@@ -63,6 +63,8 @@ Jacobitism struggled in France. The well-established tradition of the French Mon
 
 True to form, it was more than five hundred years before the Jacobins made their big play. The French Revolution was led by two disparate groups. The largest were the populist proletariats, referred to as the Sans-Culottes due to preferring practical pants over the fancy breeches worn by people like King Louis.
 
+![King Louis XVI wearing culottes.](https://acximages.ennals.org/images/2025-non-book-reviews/8ad8a779e435419a.png)
+
 The other was a small circle of intellectuals. After Louis’s head was severed from his breeches, they began openly meeting in a Dominican convent, and so became known as the Jacobin Club, or simply the Jacobins. These former rebels worried that diffusing power among the unwashed masses would lead to disaster. Power needed to be recentralized–not on a new king, but on them.
 
 In the short term, the Jacobins won. They consolidated power by guillotining anyone who tried to take Liberté, égalité, fraternité too literally. They did eventually realize they were probably guillotining too much, so they guillotined the guy whose idea it was to do all the guillotining. But rather than return power to the people, they vested it in Napoleon, who, to be fair, never declared himself king. He skipped right to emperor.
@@ -71,11 +73,13 @@ In the long term, though, it’s the Sans-Culottes who achieved near-total domin
 
 ## Jacobitism Today
 
-The Jacobites were the victim of their own success in France. Not that they didn’t have any victories after that. The [Jacobinismo](https://pt.wikipedia.org/wiki/Revolu%C3%A7%C3%A3o_liberal_do_Porto)movement in Portugal is a notable example, although plagued by [controversy](https://en.wikipedia.org/wiki/Talk:Diego) over whether people named Diego count. But the French Reign of Terror had tarnished the Jacobite brand, illustrating that centralized power was always a threat to the people, even if it called itself populist. The popular support needed for revolution became harder to muster. In Spain, Infante Jaime, Duke of Segovia and theoretically the rightful King of France, made barely any effort to gain the throne of either country, beyond just declaring himself the rightful king every so often.
+The Jacobites were the victim of their own success in France. Not that they didn’t have any victories after that. The [Jacobinismo](https://pt.wikipedia.org/wiki/Revolu%C3%A7%C3%A3o_liberal_do_Porto) movement in Portugal is a notable example, although plagued by [controversy](https://en.wikipedia.org/wiki/Talk:Diego) over whether people named Diego count. But the French Reign of Terror had tarnished the Jacobite brand, illustrating that centralized power was always a threat to the people, even if it called itself populist. The popular support needed for revolution became harder to muster. In Spain, Infante Jaime, Duke of Segovia and theoretically the rightful King of France, made barely any effort to gain the throne of either country, beyond just declaring himself the rightful king every so often.
 
 Jacobitism has dwindled, but not vanished. Israelite nationalism remains a significant force, although even they are divided between Zionists and “diasporic nationalists.” The Syriac Orthodox Church has over a million members, and many of the other Jacobite religious sects have survived in one form or another.
 
 In terms of heads of state, though, it looks pretty grim. The only modern nations led by Jameses are Papua New Guinea and Montenegro. Oh, Jacobites had a good run in the United States, at first. The ascension of James Madison was positively textbook Jacobitism. Madison inherited slaves and land in Virginia, the Jacobite colony. Unusually for the time, he chose not to attend the College of William and Mary, named of course for the married cousins who had supplanted the Jacobite succession. Instead, he attended college in New Jersey, a colony that had backed the Jacobites. After the revolution, he eventually became the leader of one of the two major factions. The other had been led by Alexander Hamilton, who had lived a dangerous and hardscrabble life, long on manly derring-do and short on inherited plantations. Like Saint Iacobus, the first President James ascended by default after his chief rival was martyred. He endorsed James Monroe to succeed him, who won easily after the dying Federalist party made the critical mistake of nominating someone named [King](https://en.wikipedia.org/wiki/Rufus_King). But, by design, it’s hard to sustain a Jacobite dynasty in America. The Jacobites only won four Presidential elections after that, and none of those four (Polk, Buchanan, Garfield, and Carter) won a second term. The first pair, like Trump, is two of our worst presidents. Garfield only lasted a few months before being assassinated on a Monday, and Carter went by “Jimmy,” so arguably he shouldn’t even count.
+
+![](https://acximages.ennals.org/images/2025-non-book-reviews/1dc54bddc92782af.png)
 
 During what I guess we’re still calling the “Biden Administration,” the Oval Office included a prominent display of an antique plate, made in China, commemorating the Jacobite Rising of 1745. There’s no explanation for this odd choice, official or otherwise, that I could find. Trump was compared to James II during the same period, due to his insistence that despite what the legislature said, he was the rightful President.
 

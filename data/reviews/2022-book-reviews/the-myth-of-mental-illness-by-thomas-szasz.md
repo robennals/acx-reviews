@@ -193,11 +193,11 @@ In this regard the myth of mental illness serves as a band-aid for society, temp
 
 [[3]](#ftnt_ref3) The idea that “less-developed countries” should all be alike seems unlikely, but it fits with the current trend in economics where essentially any question involving non-OECD countries is lumped together into “development.”
 
-[[4]](#ftnt_ref4) [Popular Development Economics—An Anthropologist among the Mandarins](https://www.google.com/url?q=https://www.cambridge.org/core/journals/perspectives-on-politics/article/popular-development-economicsan-anthropologist-among-the-mandarins/F4B61C7199F51FF0F282DD9652635F31&sa=D&source=editors&ust=1770366146868812&usg=AOvVaw1BRXm79WduzL7gUObPw6dD)  pg. 348
+[[4]](#ftnt_ref4) [Popular Development Economics—An Anthropologist among the Mandarins](https://www.cambridge.org/core/journals/perspectives-on-politics/article/popular-development-economicsan-anthropologist-among-the-mandarins/F4B61C7199F51FF0F282DD9652635F31)  pg. 348
 
 [[5]](#ftnt_ref5) Ferguson pg. 234
 
-[[6]](#ftnt_ref6) As measured by randomized experiments. See, e.g. [Institutional Change by Imitation: Introducing Western Governance Practice in Congolese Villages](https://www.google.com/url?q=https://raulsanchezdelasierra.files.wordpress.com/2017/12/tuungane.pdf&sa=D&source=editors&ust=1770366146869299&usg=AOvVaw3wEbgNRz_VRfse6AShIuYE) for details.
+[[6]](#ftnt_ref6) As measured by randomized experiments. See, e.g. [Institutional Change by Imitation: Introducing Western Governance Practice in Congolese Villages](https://raulsanchezdelasierra.files.wordpress.com/2017/12/tuungane.pdf) for details.
 
 [[7]](#ftnt_ref7) I learned this story from Raul Sanchez de la Sierra, a researcher involved in the evaluation.
 
@@ -209,15 +209,15 @@ In this regard the myth of mental illness serves as a band-aid for society, temp
 
 [[11]](#ftnt_ref11) Ferguson pg. 243
 
-[[12]](#ftnt_ref12) See Orkin and Walker’s [Unconditional Cash Transfers and Civic Engagement in Kenya](https://www.google.com/url?q=https://www.povertyactionlab.org/evaluation/unconditional-cash-transfers-and-civic-engagement-kenya&sa=D&source=editors&ust=1770366146870169&usg=AOvVaw3ky3BVKdQlCv6P8SU7gT-k)
+[[12]](#ftnt_ref12) See Orkin and Walker’s [Unconditional Cash Transfers and Civic Engagement in Kenya](https://www.povertyactionlab.org/evaluation/unconditional-cash-transfers-and-civic-engagement-kenya)
 
 [[13]](#ftnt_ref13) Ferguson, pg. 258
 
 [[14]](#ftnt_ref14) See “The Data is Gold” or Omar Bah’s comic, above, for some examples.
 
-[[15]](#ftnt_ref15) One of my favorite Deutsch [stories](https://www.google.com/url?q=https://www.newyorker.com/magazine/2011/05/02/dream-machine&sa=D&source=editors&ust=1770366146870852&usg=AOvVaw1cMwgNipI2VdA-YNoRhoud) is when a Japanese film crew ran an interview at his house. They asked to tidy up as it was apparently messy. Deutsch only allowed it if they agreed to put everything back as it was afterwards.
+[[15]](#ftnt_ref15) One of my favorite Deutsch [stories](https://www.newyorker.com/magazine/2011/05/02/dream-machine) is when a Japanese film crew ran an interview at his house. They asked to tidy up as it was apparently messy. Deutsch only allowed it if they agreed to put everything back as it was afterwards.
 
-[[16]](#ftnt_ref16) I had a similar uneasy "I'm-in-the-presence-of-aliens" feeling when first reading the philosopher [Derek Parfit](https://www.google.com/url?q=https://www.newyorker.com/magazine/2011/09/05/how-to-be-good&sa=D&source=editors&ust=1770366146871693&usg=AOvVaw3DoJym3vJBsAIfTs00NjTq) (whose ideas are unrelated to Deutsch's).
+[[16]](#ftnt_ref16) I had a similar uneasy "I'm-in-the-presence-of-aliens" feeling when first reading the philosopher [Derek Parfit](https://www.newyorker.com/magazine/2011/09/05/how-to-be-good) (whose ideas are unrelated to Deutsch's).
 
 [[17]](#ftnt_ref17) Deutsch incidentally agrees that there’s no point in doing homework if you don’t want to. Not because he thinks human affairs are meaningless. Rather, he’s anti-coercion. A stance he lands on due to, you guessed it, his views on knowledge.
 
@@ -225,7 +225,7 @@ In this regard the myth of mental illness serves as a band-aid for society, temp
 
 [[19]](#ftnt_ref19) There may be similarities with Philosophical Pragmatism, but I haven’t read any William James, let alone Rorty or Dewey, to make a comment on that one.
 
-[[20]](#ftnt_ref20) Deutsch is a realist. He provides a crisp argument against Solipsism: That it’s not parsimonious as it has to posit the additional claim that everything looks like it independently exists without any explanation as to why. It’s analogous to geocentric models: convoluted in a way so that the planet’s orbits [look like](https://www.google.com/url?q=https://imgur.com/tBCC7P4&sa=D&source=editors&ust=1770366146873351&usg=AOvVaw1Kax0vSduWxJvItQ1E6Nq9) a heliocentric model would.
+[[20]](#ftnt_ref20) Deutsch is a realist. He provides a crisp argument against Solipsism: That it’s not parsimonious as it has to posit the additional claim that everything looks like it independently exists without any explanation as to why. It’s analogous to geocentric models: convoluted in a way so that the planet’s orbits [look like](https://imgur.com/tBCC7P4) a heliocentric model would.
 
 [[21]](#ftnt_ref21) Knowledge can exist without belief. It’s instantiated in books, computer programs, and genes. Further, knowledge may be inexplicit or unconscious. We effortlessly use grammar and laugh appropriately in social situations. Though I’m a little unclear if Deutsch thinks knowledge is never belief. Darwin surely believed in natural selection, right?
 
@@ -237,7 +237,7 @@ In this regard the myth of mental illness serves as a band-aid for society, temp
 
 [[25]](#ftnt_ref25) His arguments against genetic influence also apply to homosexuality and transgenderism which is the one area where the politically correct version is it’s all nature.
 
-[[26]](#ftnt_ref26) Some interviews where Deutsch touches on genetic influence: [here](https://www.google.com/url?q=https://www.youtube.com/watch?v%3DO14HyFNYVFY%26t%3D4227s&sa=D&source=editors&ust=1770366146874922&usg=AOvVaw24LyKROZOHxIKi0_bnnW2g), [here](https://www.google.com/url?q=https://www.youtube.com/watch?v%3DbbOVOY9PCpQ%26t%3D566s&sa=D&source=editors&ust=1770366146875037&usg=AOvVaw3B7ilNtK89TqIJtBj2OZX0), and [here](https://www.google.com/url?q=https://www.youtube.com/watch?v%3DQrt0XXg0QKM%26t%3D6717s&sa=D&source=editors&ust=1770366146875131&usg=AOvVaw0wjk1xAdOHSDlNpuePhNZ2).
+[[26]](#ftnt_ref26) Some interviews where Deutsch touches on genetic influence: [here](https://www.youtube.com/watch?v=O14HyFNYVFY&t=4227s), [here](https://www.youtube.com/watch?v=bbOVOY9PCpQ&t=566s), and [here](https://www.youtube.com/watch?v=Qrt0XXg0QKM&t=6717s).
 
 [[27]](#ftnt_ref27) Deutsch criticizes IQ as a measure for intelligence too. Firstly, IQ tests are a function of motivation. Secondly, it violates human universality. We can’t differ in the type of intelligence that makes humans unique: the ability to create explanatory knowledge. (Although our hardware can differ genetically, which amounts to speed and memory. But we don’t think of the village idiot simply needing more time to make Einstein’s discovery.)  
 
@@ -253,77 +253,77 @@ In this regard the myth of mental illness serves as a band-aid for society, temp
 
 [[33]](#ftnt_ref33) Karl Marx (1852/1885): Der achtzehnte Brumaire des Louis Bonaparte. Hamburg: Verlag Otto Meißner.
 
-[[34]](#ftnt_ref34) Cf. [https://en.wikipedia.org/wiki/The\_Eighteenth\_Brumaire\_of\_Louis\_Bonaparte#First\_as\_tragedy,\_then\_as\_farce](https://www.google.com/url?q=https://en.wikipedia.org/wiki/The_Eighteenth_Brumaire_of_Louis_Bonaparte%23First_as_tragedy,_then_as_farce&sa=D&source=editors&ust=1770366146877512&usg=AOvVaw3WftF5nk1vk-kAZXJh6055) 
+[[34]](#ftnt_ref34) Cf. [https://en.wikipedia.org/wiki/The\_Eighteenth\_Brumaire\_of\_Louis\_Bonaparte#First\_as\_tragedy,\_then\_as\_farce](https://en.wikipedia.org/wiki/The_Eighteenth_Brumaire_of_Louis_Bonaparte#First_as_tragedy,_then_as_farce) 
 
 [[35]](#ftnt_ref35) Jürgen Osterhammel (2020): Die Verwandlung der Welt: Eine Geschichte des 19. Jahrhunderts. München 2009: C. H. Beck, 1279-80.
 
-[[36]](#ftnt_ref36) [https://en.wikipedia.org/wiki/Louis\_Philippe\_II,\_Duke\_of\_Orl%C3%A9ans](https://www.google.com/url?q=https://en.wikipedia.org/wiki/Louis_Philippe_II,_Duke_of_Orl%25C3%25A9ans&sa=D&source=editors&ust=1770366146878119&usg=AOvVaw1biLjdI1Zama8KKjHnSkTZ).
+[[36]](#ftnt_ref36) [https://en.wikipedia.org/wiki/Louis\_Philippe\_II,\_Duke\_of\_Orl%C3%A9ans](https://en.wikipedia.org/wiki/Louis_Philippe_II,_Duke_of_Orl%C3%A9ans).
 
-[[37]](#ftnt_ref37) [https://en.wikipedia.org/wiki/Louis\_Philippe\_II,\_Duke\_of\_Orl%C3%A9ans](https://www.google.com/url?q=https://en.wikipedia.org/wiki/Louis_Philippe_II,_Duke_of_Orl%25C3%25A9ans&sa=D&source=editors&ust=1770366146878501&usg=AOvVaw2lVQxU8X9_Ff0MVkGMA5p0).
+[[37]](#ftnt_ref37) [https://en.wikipedia.org/wiki/Louis\_Philippe\_II,\_Duke\_of\_Orl%C3%A9ans](https://en.wikipedia.org/wiki/Louis_Philippe_II,_Duke_of_Orl%C3%A9ans).
 
-[[38]](#ftnt_ref38) Cf. [https://de.wikipedia.org/wiki/staatsstreichdes18.BrumaireVIII](https://www.google.com/url?q=https://de.wikipedia.org/wiki/staatsstreichdes18.BrumaireVIII)&sa=D&source=editors&ust=1770366146878870&usg=AOvVaw3yPi6C0gyTGmCK2OLsgKkd).
+[[38]](#ftnt_ref38) Cf. [https://de.wikipedia.org/wiki/staatsstreichdes18.BrumaireVIII](https://de.wikipedia.org/wiki/staatsstreichdes18.BrumaireVIII)).
 
-[[39]](#ftnt_ref39) Cf. [https://en.wikipedia.org/wiki/Charter\_of\_1814](https://www.google.com/url?q=https://en.wikipedia.org/wiki/Charter_of_1814&sa=D&source=editors&ust=1770366146879194&usg=AOvVaw0EAwNdvrQ-rswEyWXb9KiQ).
+[[39]](#ftnt_ref39) Cf. [https://en.wikipedia.org/wiki/Charter\_of\_1814](https://en.wikipedia.org/wiki/Charter_of_1814).
 
-[[40]](#ftnt_ref40) Cf. [https://en.wikipedia.org/wiki/Louis\_XVIII](https://www.google.com/url?q=https://en.wikipedia.org/wiki/Louis_XVIII&sa=D&source=editors&ust=1770366146879493&usg=AOvVaw3ssFv6G88Wrz4OEghuI7Ir).
+[[40]](#ftnt_ref40) Cf. [https://en.wikipedia.org/wiki/Louis\_XVIII](https://en.wikipedia.org/wiki/Louis_XVIII).
 
-[[41]](#ftnt_ref41) The famous painting “La Liberté guidant le peuple” ([https://en.wikipedia.org/wiki/Liberty\_Leading\_the\_People](https://www.google.com/url?q=https://en.wikipedia.org/wiki/Liberty_Leading_the_People&sa=D&source=editors&ust=1770366146879940&usg=AOvVaw1-zZ7-2r0D3BCh3diSRZ6A)) by Eugène Delacroix is about the barricades in 1830.
+[[41]](#ftnt_ref41) The famous painting “La Liberté guidant le peuple” ([https://en.wikipedia.org/wiki/Liberty\_Leading\_the\_People](https://en.wikipedia.org/wiki/Liberty_Leading_the_People)) by Eugène Delacroix is about the barricades in 1830.
 
-[[42]](#ftnt_ref42) Cf. [https://en.wikipedia.org/wiki/Charles\_X](https://www.google.com/url?q=https://en.wikipedia.org/wiki/Charles_X&sa=D&source=editors&ust=1770366146880302&usg=AOvVaw3FgBH9gNrAyIRleEOFLJGJ).
+[[42]](#ftnt_ref42) Cf. [https://en.wikipedia.org/wiki/Charles\_X](https://en.wikipedia.org/wiki/Charles_X).
 
-[[43]](#ftnt_ref43) Cf. [https://en.wikipedia.org/wiki/July\_Monarchy](https://www.google.com/url?q=https://en.wikipedia.org/wiki/July_Monarchy&sa=D&source=editors&ust=1770366146880584&usg=AOvVaw1sdX6J1rsIlISechyBpLiU).
+[[43]](#ftnt_ref43) Cf. [https://en.wikipedia.org/wiki/July\_Monarchy](https://en.wikipedia.org/wiki/July_Monarchy).
 
-[[44]](#ftnt_ref44) Cf. [https://en.wikipedia.org/wiki/French\_Revolution\_of\_1848](https://www.google.com/url?q=https://en.wikipedia.org/wiki/French_Revolution_of_1848&sa=D&source=editors&ust=1770366146880914&usg=AOvVaw3TSEdO6xzQaVZZNjsFmAfL) 
+[[44]](#ftnt_ref44) Cf. [https://en.wikipedia.org/wiki/French\_Revolution\_of\_1848](https://en.wikipedia.org/wiki/French_Revolution_of_1848) 
 
-[[45]](#ftnt_ref45) [https://en.wikipedia.org/wiki/Napoleon\_III](https://www.google.com/url?q=https://en.wikipedia.org/wiki/Napoleon_III&sa=D&source=editors&ust=1770366146881210&usg=AOvVaw2coNkh2ctzmmWn2M0aaWDj).
+[[45]](#ftnt_ref45) [https://en.wikipedia.org/wiki/Napoleon\_III](https://en.wikipedia.org/wiki/Napoleon_III).
 
-[[46]](#ftnt_ref46) All from [https://en.wikipedia.org/wiki/Napoleon\_III](https://www.google.com/url?q=https://en.wikipedia.org/wiki/Napoleon_III&sa=D&source=editors&ust=1770366146881525&usg=AOvVaw3ZivDv2FwmB9GpuL3vYObJ) and the literature cited there.
+[[46]](#ftnt_ref46) All from [https://en.wikipedia.org/wiki/Napoleon\_III](https://en.wikipedia.org/wiki/Napoleon_III) and the literature cited there.
 
-[[47]](#ftnt_ref47) Cf. [https://en.wikipedia.org/wiki/French\_Revolution\_of\_1848](https://www.google.com/url?q=https://en.wikipedia.org/wiki/French_Revolution_of_1848&sa=D&source=editors&ust=1770366146881921&usg=AOvVaw0I2v8tX6VPjJx7raohPYym).
+[[47]](#ftnt_ref47) Cf. [https://en.wikipedia.org/wiki/French\_Revolution\_of\_1848](https://en.wikipedia.org/wiki/French_Revolution_of_1848).
 
-[[48]](#ftnt_ref48) Cf. [https://en.wikipedia.org/wiki/French\_demonstration\_of\_15\_May\_1848](https://www.google.com/url?q=https://en.wikipedia.org/wiki/French_demonstration_of_15_May_1848&sa=D&source=editors&ust=1770366146882288&usg=AOvVaw0JSlVBXMMweCkewx9f-nUG) 
+[[48]](#ftnt_ref48) Cf. [https://en.wikipedia.org/wiki/French\_demonstration\_of\_15\_May\_1848](https://en.wikipedia.org/wiki/French_demonstration_of_15_May_1848) 
 
-[[49]](#ftnt_ref49) Cf. [https://de.wikipedia.org/wiki/Nationalwerkst%C3%A4tten](https://www.google.com/url?q=https://de.wikipedia.org/wiki/Nationalwerkst%25C3%25A4tten)&sa=D&source=editors&ust=1770366146882628&usg=AOvVaw0PBnA0wNF7hy2-NFzXIqv0)
+[[49]](#ftnt_ref49) Cf. [https://de.wikipedia.org/wiki/Nationalwerkst%C3%A4tten](https://de.wikipedia.org/wiki/Nationalwerkst%C3%A4tten))
 
-[[50]](#ftnt_ref50) Cf. [https://en.wikipedia.org/wiki/June\_Days\_uprising](https://www.google.com/url?q=https://en.wikipedia.org/wiki/June_Days_uprising&sa=D&source=editors&ust=1770366146882968&usg=AOvVaw0n4F6r5cYWjXN1_QXrbo3l) 
+[[50]](#ftnt_ref50) Cf. [https://en.wikipedia.org/wiki/June\_Days\_uprising](https://en.wikipedia.org/wiki/June_Days_uprising) 
 
-[[51]](#ftnt_ref51) Cf. [https://de.wikipedia.org/wiki/Nationalwerkst%C3%A4tten](https://www.google.com/url?q=https://de.wikipedia.org/wiki/Nationalwerkst%25C3%25A4tten&sa=D&source=editors&ust=1770366146883294&usg=AOvVaw0JzGvxR3u8dmS85IDCuyd-) 
+[[51]](#ftnt_ref51) Cf. [https://de.wikipedia.org/wiki/Nationalwerkst%C3%A4tten](https://de.wikipedia.org/wiki/Nationalwerkst%C3%A4tten) 
 
-[[52]](#ftnt_ref52) Cf. [https://en.wikipedia.org/wiki/French\_Revolution\_of\_1848](https://www.google.com/url?q=https://en.wikipedia.org/wiki/French_Revolution_of_1848&sa=D&source=editors&ust=1770366146883639&usg=AOvVaw0MVh4w6AiSTSH_Yku0PROX).
+[[52]](#ftnt_ref52) Cf. [https://en.wikipedia.org/wiki/French\_Revolution\_of\_1848](https://en.wikipedia.org/wiki/French_Revolution_of_1848).
 
-[[53]](#ftnt_ref53) [https://en.wikipedia.org/wiki/Napoleon\_III](https://www.google.com/url?q=https://en.wikipedia.org/wiki/Napoleon_III&sa=D&source=editors&ust=1770366146883952&usg=AOvVaw3HCiVpmCSwd2izapjyq3hO) 
+[[53]](#ftnt_ref53) [https://en.wikipedia.org/wiki/Napoleon\_III](https://en.wikipedia.org/wiki/Napoleon_III) 
 
 [[54]](#ftnt_ref54) J. J. Linz (1990): Perils of Presidentialism. Journal of Democracy, 51–69.
 
-[[55]](#ftnt_ref55) M. Yglesias (2015): American Democracy is Doomed, Vox.com: [http://www.vox.com/2015/3/2/8120063/american-democracy-doomed](https://www.google.com/url?q=http://www.vox.com/2015/3/2/8120063/american-democracy-doomed&sa=D&source=editors&ust=1770366146884690&usg=AOvVaw2Fiq76IZPsDq6YvvWDMS2q).
+[[55]](#ftnt_ref55) M. Yglesias (2015): American Democracy is Doomed, Vox.com: [http://www.vox.com/2015/3/2/8120063/american-democracy-doomed](http://www.vox.com/2015/3/2/8120063/american-democracy-doomed).
 
 [[56]](#ftnt_ref56) J. J. Linz (1994): Presidential or Parliamentary Democracy: Does It Make a Difference? In: J. J. Linz, A. Valenzuela (ed.): The Failure of Presidential Democracy: Comparative Perspectives. Baltimore and London: Johns Hopkins University Press.
 
-[[57]](#ftnt_ref57) Due to a strange strange electoral system, see [https://fr.wikipedia.org/wiki/%C3%89lections\_l%C3%A9gislatives\_fran%C3%A7aises\_de\_1848](https://www.google.com/url?q=https://fr.wikipedia.org/wiki/%25C3%2589lections_l%25C3%25A9gislatives_fran%25C3%25A7aises_de_1848&sa=D&source=editors&ust=1770366146885927&usg=AOvVaw2kQgmEXEykoQJYLhaTUDm-).
+[[57]](#ftnt_ref57) Due to a strange strange electoral system, see [https://fr.wikipedia.org/wiki/%C3%89lections\_l%C3%A9gislatives\_fran%C3%A7aises\_de\_1848](https://fr.wikipedia.org/wiki/%C3%89lections_l%C3%A9gislatives_fran%C3%A7aises_de_1848).
 
-[[58]](#ftnt_ref58) [https://en.wikipedia.org/wiki/Napoleon\_III](https://www.google.com/url?q=https://en.wikipedia.org/wiki/Napoleon_III&sa=D&source=editors&ust=1770366146886286&usg=AOvVaw3da1NmHDytN5HQIpAw-wkC).
+[[58]](#ftnt_ref58) [https://en.wikipedia.org/wiki/Napoleon\_III](https://en.wikipedia.org/wiki/Napoleon_III).
 
-[[59]](#ftnt_ref59) [https://en.wikipedia.org/wiki/Napoleon\_III](https://www.google.com/url?q=https://en.wikipedia.org/wiki/Napoleon_III&sa=D&source=editors&ust=1770366146886628&usg=AOvVaw0up-JddhhD_F2mPWvDy-rp).
+[[59]](#ftnt_ref59) [https://en.wikipedia.org/wiki/Napoleon\_III](https://en.wikipedia.org/wiki/Napoleon_III).
 
-[[60]](#ftnt_ref60) Séguin 1990, p. 125 cited by [https://en.wikipedia.org/wiki/Napoleon\_III](https://www.google.com/url?q=https://en.wikipedia.org/wiki/Napoleon_III&sa=D&source=editors&ust=1770366146887048&usg=AOvVaw0EXVDAlGT9c2-oIN3ijq-X).
+[[60]](#ftnt_ref60) Séguin 1990, p. 125 cited by [https://en.wikipedia.org/wiki/Napoleon\_III](https://en.wikipedia.org/wiki/Napoleon_III).
 
-[[61]](#ftnt_ref61) Milza, Pierre (2006). Napoléon III. Paris: Tempus. cited by [https://en.wikipedia.org/wiki/Napoleon\_III](https://www.google.com/url?q=https://en.wikipedia.org/wiki/Napoleon_III&sa=D&source=editors&ust=1770366146887551&usg=AOvVaw3bTk28byfAt8lagnI8KrZO).
+[[61]](#ftnt_ref61) Milza, Pierre (2006). Napoléon III. Paris: Tempus. cited by [https://en.wikipedia.org/wiki/Napoleon\_III](https://en.wikipedia.org/wiki/Napoleon_III).
 
-[[62]](#ftnt_ref62) See [https://fr.wikipedia.org/wiki/%C3%89lections\_l%C3%A9gislatives\_fran%C3%A7aises\_de\_1849](https://www.google.com/url?q=https://fr.wikipedia.org/wiki/%25C3%2589lections_l%25C3%25A9gislatives_fran%25C3%25A7aises_de_1849&sa=D&source=editors&ust=1770366146888092&usg=AOvVaw2evcDQ8XuIkFc1FxR96ICa).
+[[62]](#ftnt_ref62) See [https://fr.wikipedia.org/wiki/%C3%89lections\_l%C3%A9gislatives\_fran%C3%A7aises\_de\_1849](https://fr.wikipedia.org/wiki/%C3%89lections_l%C3%A9gislatives_fran%C3%A7aises_de_1849).
 
-[[63]](#ftnt_ref63) [https://fr.wikipedia.org/wiki/R%C3%A9publique\_romaine\_(1849)](https://www.google.com/url?q=https://fr.wikipedia.org/wiki/R%25C3%25A9publique_romaine_(1849)&sa=D&source=editors&ust=1770366146888502&usg=AOvVaw2Pwt8QqLAVT-gc9mD3bSkW) 
+[[63]](#ftnt_ref63) [https://fr.wikipedia.org/wiki/R%C3%A9publique\_romaine\_(1849)](https://fr.wikipedia.org/wiki/R%C3%A9publique_romaine_(1849)) 
 
-[[64]](#ftnt_ref64) Weirdly, while the word “moneylender” is used in the English edition "as translated and published by Progress Publishers, Moscow, 1937" ([https://www.marxists.org/archive/marx/works/1852/18th-brumaire/index.htm](https://www.google.com/url?q=https://www.marxists.org/archive/marx/works/1852/18th-brumaire/index.htm)&sa=D&source=editors&ust=1770366146889228&usg=AOvVaw210wnmqWOyJ9rvno-UTyXo)) Marx' original text in German just uses the word "Jude", "Jew" ([https://www.marxists.org/deutsch/archiv/marx-engels/1852/brumaire/index.htm),](https://www.google.com/url?q=https://www.marxists.org/deutsch/archiv/marx-engels/1852/brumaire/index.htm),&sa=D&source=editors&ust=1770366146889731&usg=AOvVaw1MDNWcoBz64qpAA1r4-1ie) – "Jew", as if this were not only a relevant information but practically equivalent to be "one of the most notorious of the high financiers".
+[[64]](#ftnt_ref64) Weirdly, while the word “moneylender” is used in the English edition "as translated and published by Progress Publishers, Moscow, 1937" ([https://www.marxists.org/archive/marx/works/1852/18th-brumaire/index.htm](https://www.marxists.org/archive/marx/works/1852/18th-brumaire/index.htm))) Marx' original text in German just uses the word "Jude", "Jew" ([https://www.marxists.org/deutsch/archiv/marx-engels/1852/brumaire/index.htm),](https://www.marxists.org/deutsch/archiv/marx-engels/1852/brumaire/index.htm),) – "Jew", as if this were not only a relevant information but practically equivalent to be "one of the most notorious of the high financiers".
 
-[[65]](#ftnt_ref65) It is not completely clear whether Marx builds up a case of Cluess Mystery ([https://tvtropes.org/pmwiki/pmwiki.php/Main/CluelessMystery](https://www.google.com/url?q=https://tvtropes.org/pmwiki/pmwiki.php/Main/CluelessMystery&sa=D&source=editors&ust=1770366146890290&usg=AOvVaw28NHHPoXRjzf09x0DnBmNb)).
+[[65]](#ftnt_ref65) It is not completely clear whether Marx builds up a case of Cluess Mystery ([https://tvtropes.org/pmwiki/pmwiki.php/Main/CluelessMystery](https://tvtropes.org/pmwiki/pmwiki.php/Main/CluelessMystery)).
 
-[[66]](#ftnt_ref66) [https://en.wikipedia.org/wiki/1851\_French\_constitutional\_referendum](https://www.google.com/url?q=https://en.wikipedia.org/wiki/1851_French_constitutional_referendum&sa=D&source=editors&ust=1770366146890534&usg=AOvVaw0fqHbWxmvBWBBAxUJGK8vT) 
+[[66]](#ftnt_ref66) [https://en.wikipedia.org/wiki/1851\_French\_constitutional\_referendum](https://en.wikipedia.org/wiki/1851_French_constitutional_referendum) 
 
-[[67]](#ftnt_ref67) Brad DeLong B (2011): What Was Karl Marx's Principal Contribution?, Grasping Reality blog, April 3, [What Was Karl Marx's Principal Contribution?](https://www.google.com/url?q=https://delong.typepad.com/sdj/2011/04/what-was-karl-marxs-principal-contribution.html&sa=D&source=editors&ust=1770366146890841&usg=AOvVaw1a68lkl3G_vXrdWbZg8WDK) 
+[[67]](#ftnt_ref67) Brad DeLong B (2011): What Was Karl Marx's Principal Contribution?, Grasping Reality blog, April 3, [What Was Karl Marx's Principal Contribution?](https://delong.typepad.com/sdj/2011/04/what-was-karl-marxs-principal-contribution.html) 
 
-[[68]](#ftnt_ref68) [Karl Marx: 18. Brumaire d. Louis Bonaparte (1852)](https://www.google.com/url?q=https://www.marxists.org/deutsch/archiv/marx-engels/1852/brumaire/&sa=D&source=editors&ust=1770366146891081&usg=AOvVaw0kSQUwHlUoyLzOMcsNvALO) 
+[[68]](#ftnt_ref68) [Karl Marx: 18. Brumaire d. Louis Bonaparte (1852)](https://www.marxists.org/deutsch/archiv/marx-engels/1852/brumaire/) 
 
-[[69]](#ftnt_ref69) Is the excessive discussion of the Society of December 10 a Fauxshadow ([https://tvtropes.org/pmwiki/pmwiki.php/Main/Fauxshadow](https://www.google.com/url?q=https://tvtropes.org/pmwiki/pmwiki.php/Main/Fauxshadow&sa=D&source=editors&ust=1770366146891412&usg=AOvVaw0hmDwNS_8ySaODQ7LD_8Rp)), or am I simply overlooking something?
+[[69]](#ftnt_ref69) Is the excessive discussion of the Society of December 10 a Fauxshadow ([https://tvtropes.org/pmwiki/pmwiki.php/Main/Fauxshadow](https://tvtropes.org/pmwiki/pmwiki.php/Main/Fauxshadow)), or am I simply overlooking something?
 
 [[70]](#ftnt_ref70) By ‘get fusion’, I mean Q > 5 for a steady state experiment. If it is not steady state (e.g. inertial confinement fusion), then I also require a shot frequency of at least 1/second. Anyone selling fusion power to the grid also counts, even if they don't meet these technical requirements.
 

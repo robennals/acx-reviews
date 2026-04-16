@@ -7,7 +7,7 @@ contestName: 2024 Book Reviews
 year: 2024
 publishedDate: '2026-02-06T16:49:14.009Z'
 slug: the-land-of-milk-honey-by-c-pam-zhang
-wordCount: 2318
+wordCount: 2319
 readingTimeMinutes: 11
 originalUrl: >-
   https://docs.google.com/document/d/14qa47TJ_Vyerx4XNgTCIh7PUZ_TOgNcU_eHm5So_zo0
@@ -42,7 +42,7 @@ Yes, we should eradicate disease if we can do so, and some tech entrepreneurs ca
 
 Our world is filled with unlikeable saviors, but shouldn’t they still try to do the saving?
 
-Another climate dystopia written 50 years prior grappled with that very question. Ursula Le Guin’s TheLathe of Heaven concerns the very ordinary George Orr whose dreams alter reality and his eccentric therapist Dr. Haber who realizes he can direct his client’s dreams using hypnosis, and intelligently worldbuild with them instead.
+Another climate dystopia written 50 years prior grappled with that very question. Ursula Le Guin’s The Lathe of Heaven concerns the very ordinary George Orr whose dreams alter reality and his eccentric therapist Dr. Haber who realizes he can direct his client’s dreams using hypnosis, and intelligently worldbuild with them instead.
 
 As in Milk & Honey, our world designer destroys the world even as he betters it. When Dr. Haber asks Orr to dream up a solution to overpopulation, Orr wakes to find a pandemic has turned a world of 7 billion to one billion. When asked to imagine a world with no “color problems” or “question of race,” Orr creates a world in which everyone is gray in skin color. When asked to dream about peace for humanity, well now there is an alien race to contend with.
 

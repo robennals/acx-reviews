@@ -7,7 +7,7 @@ contestName: 2023 Book Reviews
 year: 2023
 publishedDate: '2026-02-06T07:21:10.020Z'
 slug: a-thousand-brains-a-new-theory-of-intelligence
-wordCount: 4341
+wordCount: 4367
 readingTimeMinutes: 20
 originalUrl: >-
   https://docs.google.com/document/d/10CiEI7aDL2bMIdx7yayy3vlq0TJ8dO5LGnG7yIDPiw8
@@ -23,7 +23,7 @@ Even though ChatGPT is impressive, most people would agree that it’s not intel
 
 The same can be said for any other machine learning model. These things are just really good at picking. And that leaves most people in the field satisfied with their current approach. The approach is, “we don’t care whether this is how the human brain does it as long as it works”.
 
-Jeff Hawkins is the opposite. He doesn’t care about anything merely “inspired” by the brain. He wants to get at the real thing and he has spent the last decade(s) developing a theory of intelligence. “[A Thousand Brains](https://www.google.com/url?q=https://www.goodreads.com/book/show/54503521-a-thousand-brains&sa=D&source=editors&ust=1770366049493451&usg=AOvVaw2VWQX0F-hBBoxdcRfg3M3N)” is his attempt to put everything together. Reading it made me understand the brain better and gave me an idea of how the theory of predictive processing could work on the level of a neuron.
+Jeff Hawkins is the opposite. He doesn’t care about anything merely “inspired” by the brain. He wants to get at the real thing and he has spent the last decade(s) developing a theory of intelligence. “[A Thousand Brains](https://www.goodreads.com/book/show/54503521-a-thousand-brains)” is his attempt to put everything together. Reading it made me understand the brain better and gave me an idea of how the theory of predictive processing could work on the level of a neuron.
 
 ## Old brain, new brain.
 
@@ -33,7 +33,9 @@ There is the super old brain - the part that even frogs and reptiles have. It re
 
 So next time you try to remember something about brain anatomy, just think “frog, monkey, human” and you’re halfway there.
 
-Source: [https://waitbutwhy.com/2017/04/neuralink.html](https://www.google.com/url?q=https://waitbutwhy.com/2017/04/neuralink.html&sa=D&source=editors&ust=1770366049495127&usg=AOvVaw3_7qBKkeFncpQvFUtNjpVi)
+![Old brain new brain](https://acximages.ennals.org/images/2023-book-reviews/7b78162a40419124.jpg)
+
+Source: [https://waitbutwhy.com/2017/04/neuralink.html](https://waitbutwhy.com/2017/04/neuralink.html)
 
 The new brain (human) doesn’t have a direct connection to musculature, therefore it doesn’t control movement directly. If it wants you to do something it needs to signal to the old brain (monkey + frog). Sometimes the old brain listens and sometimes it doesn’t. For example, you can hold your breath (frog allowing human to control movement), but if you hold it for long enough the old brain takes over and just forces you to breathe (frog overruling human).
 
@@ -45,7 +47,11 @@ A slice of vision cortex looks just like a slice of language cortex. The only di
 
 Ok, so the neocortex consists of many copies of the same thing - then what is the thing? Hawkins's answer: the cortical column. A cortical column is a 1 x 1 mm piece of the neocortex, 3 mm deep. Here’s an image to get a sense of it:
 
+![Cortical Columns vs Spaghetti](https://acximages.ennals.org/images/2023-book-reviews/6816b29bebc42313.jpg)
+
 There are roughly 150,000 cortical columns in the human neocortex. Mice have one column for each whisker, which is cute, but hardly relevant. Here is a representation of different types of neurons in a column:
+
+![](https://acximages.ennals.org/images/2023-book-reviews/f31f1300e1a46e87.jpg)
 
 The black spidery-looking dots are neurons. There are many more neurons in a column than are illustrated in that picture. A column is made up of roughly 100k of them.
 
@@ -53,7 +59,9 @@ The actual sizes of these columns vary. It’s biology. Everything is smushed an
 
 Here is a 3D reconstruction of five neighboring columns in a rat:
 
-Source: [Project AGI](https://www.google.com/url?q=http://blog.agi.io/2015/04/mini-macro-micro-and-hyper-columns.html&sa=D&source=editors&ust=1770366049498849&usg=AOvVaw0-eWEBqpLT_VfxBz2Br3Ak), Credit: Marcel Oberlaender et al.
+![](https://acximages.ennals.org/images/2023-book-reviews/0174a129f31b2b9b.jpg)
+
+Source: [Project AGI](http://blog.agi.io/2015/04/mini-macro-micro-and-hyper-columns.html), Credit: Marcel Oberlaender et al.
 
 I’m trying to give you multiple visual representations of a column here because it’s our main protagonist. In Hawkins's opinion, a column holds all the basic ingredients of intelligence within. The more columns, the more intelligence. If we buy that, the road to intelligence becomes quite straightforward:
 
@@ -76,13 +84,15 @@ The bottom-up stream starts out as all that incomprehensible light and darkness 
 
 The top-down stream starts with everything you know about the world, all your best heuristics, all your priors, everything that’s ever happened to you before – everything from “solid objects can’t pass through one another” to “e=mc^2” to “that guy in the blue uniform is probably a policeman”. It uses its knowledge of concepts to make predictions – not in the form of verbal statements, but in the form of expected sense data. It makes some guesses about what you’re going to see, hear, and feel next, and asks “Like this?” These predictions gradually move down all the cognitive layers to generate lower-level predictions. If that uniformed guy was a policeman, how would that affect the various objects in the scene? Given the answer to that question, how would it affect the distribution of edges in the scene? Given the answer to that question, how would it affect the raw-sense data received?”
 
-Source: [Slate Star Codex](https://www.google.com/url?q=https://slatestarcodex.com/2017/09/05/book-review-surfing-uncertainty/&sa=D&source=editors&ust=1770366049504531&usg=AOvVaw3K11puJz0siwVijb26ufz5)
+Source: [Slate Star Codex](https://slatestarcodex.com/2017/09/05/book-review-surfing-uncertainty/)
 
 Recognizing a face means having a prediction for that face. When you see a new face you have no top-down prediction for what you see. Your mind doesn’t like that. It tries to avoid prediction errors as much as possible. Whenever there’s a big prediction error, your brain triggers attention. Attention is the system by which the brain builds new predictions.
 
 You can experience this right now. This is a picture of a cow:
 
-At first, you just see black spots, but I’m telling you it’s a cow. This constitutes a prediction error. You should see a cow, but you don’t. By paying attention to the picture your brain tries out its different models of “cow” until you finally recognize the cow in the picture ([solution here](https://www.google.com/url?q=https://uxswaps.notion.site/Cow-Solution-67e98c93cae7401c9bb76d8b94da3c4a&sa=D&source=editors&ust=1770366049506535&usg=AOvVaw3IZD_wPPntdhaLI7tQfqtS)) and the prediction error is eradicated. If no model fits, your brain can create a new one. Making new models is the process of learning.
+![](https://acximages.ennals.org/images/2023-book-reviews/37bc84e477cb78b8.png)
+
+At first, you just see black spots, but I’m telling you it’s a cow. This constitutes a prediction error. You should see a cow, but you don’t. By paying attention to the picture your brain tries out its different models of “cow” until you finally recognize the cow in the picture ([solution here](https://uxswaps.notion.site/Cow-Solution-67e98c93cae7401c9bb76d8b94da3c4a)) and the prediction error is eradicated. If no model fits, your brain can create a new one. Making new models is the process of learning.
 
 In predictive processing, movement is a kind of error minimization. Trying to recognize a cow in that picture, is to perform a kind of movement. It’s analogous to recognizing an object by touch. When you touch an object, you can’t just put a finger on it and know what it is. You have to run it through your fingers, move it around, feel its weight, and so forth. You were doing the same kind of thing trying to recognize the cow. You just did it in your mind.
 
@@ -98,9 +108,13 @@ What we have so far.
 
 The next step is to figure out how columns make predictions. To do that, I have this intimidating-looking slide for you:
 
-From a presentation that Jeff Hawkins gave at [the Simons Institute](https://www.google.com/url?q=https://www.youtube.com/watch?v%3DzVGQeFFjhEk%26ab_channel%3DSimonsInstitute&sa=D&source=editors&ust=1770366049509352&usg=AOvVaw0deqwq3m99mi3hCuaaolU9).
+![](https://acximages.ennals.org/images/2023-book-reviews/872ce88157db5399.jpg)
+
+From a presentation that Jeff Hawkins gave at [the Simons Institute](https://www.youtube.com/watch?v=zVGQeFFjhEk&ab_channel=SimonsInstitute).
 
 And sorry, I can’t comfort you by saying that it only looks scary, but in principle, it’s super simple. It just isn’t and there’s a lot going on. But what I can do is simplify it a bit and move through one layer at a time.
+
+![](https://acximages.ennals.org/images/2023-book-reviews/9be2c4432d148b9e.jpg)
 
 Here are the relevant questions:
 
@@ -114,27 +128,35 @@ I’m not going to get into the fourth part on composite objects, because I don�
 
 Is a single neuron already capable of prediction? Apparently yes! It does so with its distal synapses. A synapse is where a neuron gets inputs from another neuron. Only 10% of synapses are proximal (close enough to the cell body to activate the cell). 90% of the synapses are distal (too far away from the cell body to activate the cell).
 
+![](https://acximages.ennals.org/images/2023-book-reviews/6b434ccd3b766c06.jpg)
+
 Source: I combined two images from A Thousand Brains: A New Theory of Intelligence, Hawkins, Jeff.
 
-What is up with those distal synapses? They don’t activate the cell, so why do they even exist? We didn’t know until Jeff Hawkins and Subutai Ahmad came up with a theory in 2016: [Why Neurons Have Thousands of Synapses, a Theory of Sequence Memory in Neocortex](https://www.google.com/url?q=https://www.frontiersin.org/articles/10.3389/fncir.2016.00023/full&sa=D&source=editors&ust=1770366049511544&usg=AOvVaw3nM2CtCXGHouEXw6GpvJtU).
+What is up with those distal synapses? They don’t activate the cell, so why do they even exist? We didn’t know until Jeff Hawkins and Subutai Ahmad came up with a theory in 2016: [Why Neurons Have Thousands of Synapses, a Theory of Sequence Memory in Neocortex](https://www.frontiersin.org/articles/10.3389/fncir.2016.00023/full).
 
 The answer is: distal synapses get the dendrites excited. Dendrites are like cables that stick out of the cell body. And when a dendrite gets excited it increases the overall action potential of the cell - not enough to make it active, but enough to set it into a “ready to fire” state. The “ready to fire” state is the prediction!
 
 This is easier experienced than explained. Read this:
 
+![](https://acximages.ennals.org/images/2023-book-reviews/f3a7df072e03077e.png)
+
 You should be able to hear “brainstorm” in this audio:
 
-[PLAY AUDIO](https://www.google.com/url?q=https://substackcdn.com/video_upload/post/76084661/b32d0b65-caa7-4502-ac11-0d18ab50fef2/transcoded.mp3?post_id%3D76084661%26relation%3Dembed%26Expires%3D1677839834%26Key-Pair-Id%3DAPKAIVDA3NPSMPSPESQQ%26Signature%3DSb8NSnn-vKDdCX97ywLJr6ZRo9cIcl7J-SDV09e0COqsnNG21IhLVp0ec17EIM36pda3uEThZ3n-5NVfbWBHbrF2PTRkr857KRmxiFOnSc~uzL8N-w5wkOIHnN8FPOeSVxfYG~iBSChkStsFdmtT~2ZqDWLo3--M0GfzkvqSl~oTRtkAjwLez74Ni4HrbKQ3l0nmrjC42vcIAmj-3r1yPtaTtcalPTrDmLugCfOG1iuHQs5tX6K0R85svpuwbYjiwqafjATR1010hO6ALtLEcG9CV2sfHKFxALPQOzZXlLl4DtiX-nmeKRqklskkwuCRfD5vnEe24wL1Z5bLkDkjsw__&sa=D&source=editors&ust=1770366049512646&usg=AOvVaw1Ym5KGFnADP9aJe3vbD7Ph)
+[PLAY AUDIO](https://substackcdn.com/video_upload/post/76084661/b32d0b65-caa7-4502-ac11-0d18ab50fef2/transcoded.mp3?post_id=76084661&relation=embed&Expires=1677839834&Key-Pair-Id=APKAIVDA3NPSMPSPESQQ&Signature=Sb8NSnn-vKDdCX97ywLJr6ZRo9cIcl7J-SDV09e0COqsnNG21IhLVp0ec17EIM36pda3uEThZ3n-5NVfbWBHbrF2PTRkr857KRmxiFOnSc~uzL8N-w5wkOIHnN8FPOeSVxfYG~iBSChkStsFdmtT~2ZqDWLo3--M0GfzkvqSl~oTRtkAjwLez74Ni4HrbKQ3l0nmrjC42vcIAmj-3r1yPtaTtcalPTrDmLugCfOG1iuHQs5tX6K0R85svpuwbYjiwqafjATR1010hO6ALtLEcG9CV2sfHKFxALPQOzZXlLl4DtiX-nmeKRqklskkwuCRfD5vnEe24wL1Z5bLkDkjsw__)
 
 Let’s try another:
 
+![](https://acximages.ennals.org/images/2023-book-reviews/3cc7e6803243f90f.png)
+
 Now try to hear “green needle” in this one.
 
-[PLAY AUDIO](https://www.google.com/url?q=https://substackcdn.com/video_upload/post/76084661/b32d0b65-caa7-4502-ac11-0d18ab50fef2/transcoded.mp3?post_id%3D76084661%26relation%3Dembed%26Expires%3D1677839834%26Key-Pair-Id%3DAPKAIVDA3NPSMPSPESQQ%26Signature%3DSb8NSnn-vKDdCX97ywLJr6ZRo9cIcl7J-SDV09e0COqsnNG21IhLVp0ec17EIM36pda3uEThZ3n-5NVfbWBHbrF2PTRkr857KRmxiFOnSc~uzL8N-w5wkOIHnN8FPOeSVxfYG~iBSChkStsFdmtT~2ZqDWLo3--M0GfzkvqSl~oTRtkAjwLez74Ni4HrbKQ3l0nmrjC42vcIAmj-3r1yPtaTtcalPTrDmLugCfOG1iuHQs5tX6K0R85svpuwbYjiwqafjATR1010hO6ALtLEcG9CV2sfHKFxALPQOzZXlLl4DtiX-nmeKRqklskkwuCRfD5vnEe24wL1Z5bLkDkjsw__&sa=D&source=editors&ust=1770366049513324&usg=AOvVaw2rf9wVr8VBDuYzBqxtlaUN)
+[PLAY AUDIO](https://substackcdn.com/video_upload/post/76084661/b32d0b65-caa7-4502-ac11-0d18ab50fef2/transcoded.mp3?post_id=76084661&relation=embed&Expires=1677839834&Key-Pair-Id=APKAIVDA3NPSMPSPESQQ&Signature=Sb8NSnn-vKDdCX97ywLJr6ZRo9cIcl7J-SDV09e0COqsnNG21IhLVp0ec17EIM36pda3uEThZ3n-5NVfbWBHbrF2PTRkr857KRmxiFOnSc~uzL8N-w5wkOIHnN8FPOeSVxfYG~iBSChkStsFdmtT~2ZqDWLo3--M0GfzkvqSl~oTRtkAjwLez74Ni4HrbKQ3l0nmrjC42vcIAmj-3r1yPtaTtcalPTrDmLugCfOG1iuHQs5tX6K0R85svpuwbYjiwqafjATR1010hO6ALtLEcG9CV2sfHKFxALPQOzZXlLl4DtiX-nmeKRqklskkwuCRfD5vnEe24wL1Z5bLkDkjsw__)
 
 Here’s the catch: It is the same audio file both times. It doesn’t matter which audio you play. You will hear either “green needle” or “brainstorm” depending on what you expect to hear. When you expect to hear brainstorm, your “brainstorm-neurons” are in a predictive state and therefore more ready to fire than the other neurons. They will fire first and inhibit your “green-needle-neurons”. (If this didn’t work for you, I’m sorry. Some people hear only one of the words and can’t imagine it saying anything else.)
 
 You can also experience this visually. Does this train arrive or leave?
+
+![](https://acximages.ennals.org/images/2023-book-reviews/0a35186cdc743706.gif)
 
 The answer depends on your expectations, which is to say the state of your neurons. You can make it go either way, just by changing your expectations about it.
 
@@ -144,7 +166,9 @@ The audio examples and the train are not from the book. But they illustrate the 
 
 It goes like this:
 
-Source: [A Theory of How Columns in the Neocortex Enable Learning the Structure of the World](https://www.google.com/url?q=https://www.frontiersin.org/articles/10.3389/fncir.2017.00081/full&sa=D&source=editors&ust=1770366049515209&usg=AOvVaw3SyMdbbIq4uUsD9hXfaJaa).
+![](https://acximages.ennals.org/images/2023-book-reviews/bb52bac2867aaae9.gif)
+
+Source: [A Theory of How Columns in the Neocortex Enable Learning the Structure of the World](https://www.frontiersin.org/articles/10.3389/fncir.2017.00081/full).
 
 The “Input” is Layer 4 and the “Output” is Layer 2/3, inside the same column.
 
@@ -154,11 +178,13 @@ This propagates to the output layer and invokes a union of the cells representin
 
 With this single touch, the system can eliminate many possibilities but cannot disambiguate between these three objects.”
 
-Source: [A Theory of How Columns in the Neocortex Enable Learning the Structure of the World](https://www.google.com/url?q=https://www.frontiersin.org/articles/10.3389/fncir.2017.00081/full&sa=D&source=editors&ust=1770366049516552&usg=AOvVaw1_YwNv_2xiPXA5qRy4aYkY).
+Source: [A Theory of How Columns in the Neocortex Enable Learning the Structure of the World](https://www.frontiersin.org/articles/10.3389/fncir.2017.00081/full).
 
 Notice that while the input layer changes over time, the output remains stable. This fits our experience. You get many different visual inputs every second. Your eyes move, your head moves, you blink… How come you’re not constantly rediscovering where you are? The answer is in the output layer. My output layer right now says “We’re in the office” and it’s stable. My input layer however goes: "That’s a desk. That’s a window. That’s our coffee cup.” It’s pretty crazy in there. And yet, I don’t have to rediscover where I am all the time, because all these inputs don’t refute what has already been predicted in the output layer, which is “We’re in the office.”
 
 Predictions don’t have to come in one by one. You can get multiple inputs into multiple columns and make multiple predictions all at the same time. When you touch a cup with three fingers instead of one, the columns can work together to recognize the object instantly.
+
+![](https://acximages.ennals.org/images/2023-book-reviews/7f722b1baf1e9abf.jpg)
 
 3: How does L6a supply location information to L4?
 
@@ -174,7 +200,7 @@ A coffee cup is a thing because it has a reference frame attached to it. Why is 
 
 Could you attach some object to the reference frame of SELF? Sure thing! The famous rubber hand illusion relies on it. Here’s a taste
 
-[Twitter Link: Body transfer illusion is the illusion of owning a part of a body other than one's own.](https://www.google.com/url?q=https://twitter.com/Rainmaker1973/status/1566041361840734214?s%3D20%26t%3DDx0g0NJZUFBmHT75vG1Rug&sa=D&source=editors&ust=1770366049520212&usg=AOvVaw1AmCsYE7NJSjpptmkeVnER)
+[Twitter Link: Body transfer illusion is the illusion of owning a part of a body other than one's own.](https://twitter.com/Rainmaker1973/status/1566041361840734214?s=20&t=Dx0g0NJZUFBmHT75vG1Rug)
 
 ## The brain constructs reference frames using grid cells and place cells.
 
@@ -186,15 +212,25 @@ The old brain knows where you are relative to your environment. The cells that r
 
 If I understand it correctly, it goes something like this:
 
-Some very interesting experiments by [John O’Keefe, May-Britt Moser, and Edvard Moser](https://www.google.com/url?q=https://www.nobelprize.org/prizes/medicine/2014/press-release/&sa=D&source=editors&ust=1770366049521585&usg=AOvVaw0sO1TrnephFBoDsQxcArHQ) show how this grid is built in the brain (they won a Nobel Prize for it).
+![](https://acximages.ennals.org/images/2023-book-reviews/f8828a5685863524.png)
+
+Some very interesting experiments by [John O’Keefe, May-Britt Moser, and Edvard Moser](https://www.nobelprize.org/prizes/medicine/2014/press-release/) show how this grid is built in the brain (they won a Nobel Prize for it).
+
+![](https://acximages.ennals.org/images/2023-book-reviews/e3570a89d01de279.gif)
 
 This is a rat in a box running around with an electrode in its brain. Every time a grid cell is activated, the program puts a dot on that video.
 
 Let the mouse run around for a while, and this is what you get:
 
+![](https://acximages.ennals.org/images/2023-book-reviews/2533d68e0ba80695.jpg)
+
 See a pattern emerge?
 
+![](https://acximages.ennals.org/images/2023-book-reviews/db200251757e5737.jpg)
+
 Grid cells create a grid for any room that you are in. And then the place cells tell you what’s in it. Maybe you are looking for your phone. You think you left it in A2. But then you remember it’s actually in B3. You have the same cells representing your phone and the space, but different cells representing the phone’s location.
+
+![](https://acximages.ennals.org/images/2023-book-reviews/2a111b106e1ff74c.jpg)
 
 Maps in the NEW brain (epistemic status: conjecture).
 
@@ -210,7 +246,11 @@ You can establish a grid to learn where things are in space. But you can also do
 
 Less likely to be unique:
 
+![](https://acximages.ennals.org/images/2023-book-reviews/30bfc64c40be12ee.jpg)
+
 More likely to be unique:
+
+![](https://acximages.ennals.org/images/2023-book-reviews/1d1a4a24f962aed3.jpg)
 
 This is what happens when you touch a cup and recognize it. Each finger is like a person exploring a city, or like a rat exploring a box.
 
@@ -258,6 +298,6 @@ Hawkins has more to say about how they do all that exactly, but this review is g
 
 There’s much more to the theory than I could cover. In fact, I limited this review to only the first part of the book “Part 1: A New Understanding Of The Brain". I did so because it’s the most interesting and scientific part of the book. I found the other two parts (“Part 2: Machine Intelligence” and “Part 3: Human Intelligence”) to be less interesting because it’s just the author’s opinions and predictions for intelligence in the future and all I wanted is the science.
 
-If this type of thing interests you, I encourage you to read the [thousand brains theory of intelligence](https://www.google.com/url?q=https://numenta.com/a-thousand-brains-by-jeff-hawkins&sa=D&source=editors&ust=1770366049537463&usg=AOvVaw3k2MUKpMbypnpK5-jhH80q). It’s an excellent book with many examples and good explanations. It’s written for a wide audience and is easy to understand. I highly recommend it. [And so does Bill Gates](https://www.google.com/url?q=https://www.gatesnotes.com/About-Bill-Gates/Holiday-Books-2021&sa=D&source=editors&ust=1770366049537719&usg=AOvVaw2KXN13ie61m-OzX37fPPSx).
+If this type of thing interests you, I encourage you to read the [thousand brains theory of intelligence](https://numenta.com/a-thousand-brains-by-jeff-hawkins). It’s an excellent book with many examples and good explanations. It’s written for a wide audience and is easy to understand. I highly recommend it. [And so does Bill Gates](https://www.gatesnotes.com/About-Bill-Gates/Holiday-Books-2021).
 
 Thank you to Andrei Albu and Lukas Schott for reading drafts on this.

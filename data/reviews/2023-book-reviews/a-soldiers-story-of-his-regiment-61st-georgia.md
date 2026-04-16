@@ -19,7 +19,7 @@ tags:
 
 A Descendant’s Review
 
-George W. Nichols had his U.S. Civil War memoir, [A Soldier’s Story of His Regiment (61st Georgia)](https://www.google.com/url?q=https://archive.org/details/cu31924030922383/mode/2up&sa=D&source=editors&ust=1770366049444540&usg=AOvVaw02qniBx83G0YeCBFViKO6w), published at the end of the 19th century. Like many aspiring authors, his writing sucked, and he didn’t sell nearly as many copies as he dreamed of. It’s so badly-written I’d only read it if someone within my family or closest circle of friends wrote it.
+George W. Nichols had his U.S. Civil War memoir, [A Soldier’s Story of His Regiment (61st Georgia)](https://archive.org/details/cu31924030922383/mode/2up), published at the end of the 19th century. Like many aspiring authors, his writing sucked, and he didn’t sell nearly as many copies as he dreamed of. It’s so badly-written I’d only read it if someone within my family or closest circle of friends wrote it.
 
 Alas, I’m a direct descendant of George W. Nichols (note: ‘Nichols’ doesn’t appear in my full name, if you know someone with the name ‘Nichols’ that’s NOT me). My family has mentioned this book many times, so in 2016 I read it, and for this review I read it again. Since I read it, you don’t have to.
 
@@ -101,7 +101,7 @@ My guess is that Nichols followed his idols into the Confederate Army.
 
 The next level question is, why did the first wave of older brothers and local idols join the Confederate army? Maybe some local idols were slaveowners and thus had reason to fight the Union. I don’t know whether the family of Hodges-the-schoolteacher kept slaves, but his in-laws, the Parrish family, had a large plantation with many enslaved people. That might’ve been enough of a reason for Hodges to fight to preserve slavery.
 
-[Most of the Unionists in Georgia lived in Appalachia to the north, not in the southeastern coastal plains](https://www.google.com/url?q=https://www.georgiaencyclopedia.org/articles/history-archaeology/unionists/&sa=D&source=editors&ust=1770366049456173&usg=AOvVaw0czjWqoTYoe4o7IbbE1fmJ) where Nichols was born and raised. Perhaps location is the answer to why youths from Bulloch County enlisted in the Confederate Army after all.
+[Most of the Unionists in Georgia lived in Appalachia to the north, not in the southeastern coastal plains](https://www.georgiaencyclopedia.org/articles/history-archaeology/unionists/) where Nichols was born and raised. Perhaps location is the answer to why youths from Bulloch County enlisted in the Confederate Army after all.
 
 If the Confederate Army fostered a social environment like a high school, it was a dystopian one. Nichols says, “I was a mere boy, and was broken down before I matured into manhood, and I was too old to grow out of it.”
 
@@ -171,7 +171,7 @@ I’ll start by quoting every use of the word ‘slave’ and ‘slavery’ in t
 
 My father had never owned a slave and his house was spared, but Sherman took every horse he had and a great many other things.
 
-([According to this website](https://www.google.com/url?q=https://www.findagrave.com/memorial/13979166/theophilus-nichols&sa=D&source=editors&ust=1770366049468941&usg=AOvVaw2HbD5MZas9G2rOhcgI8907), local black people protected the house from Sherman’s army because they knew Theophilus Nichols adamantly opposed slavery). 
+([According to this website](https://www.findagrave.com/memorial/13979166/theophilus-nichols), local black people protected the house from Sherman’s army because they knew Theophilus Nichols adamantly opposed slavery). 
 
 Slavery had once been in the North as well as in the South. The North had sold its slaves to the South and had received pay for them. The South bought them in good faith. The negroes are all free and the whole nation is satisfied that such is the case. I, nor my parents never owned a slave and have never mistreated one.
 
@@ -187,7 +187,7 @@ Company D thought Lieutenant James Mincy was left with some of the rest of our w
 
 When Rube found that his master was going to be left, he stole a horse and wagon and got his master in the wagon and followed in the rear of our wagon train. We were proud to see Lieutenant Mincy back and we were proud of Rube, who could have remained in Pennsylvania and have been free, but I believe that he hated the Yankees worse than we did.
 
-Notice that Nichols didn’t automatically assume that Rube would be loyal to his ‘master.’ It occurred to him that Rube may have preferred freedom in Pennsylvania. [This article discusses other reasons why some camp slaves who came in the Gettysburg campaign followed their ‘masters’ back to the Confederacy rather than run away to freedom in Pennsylvania.](https://www.google.com/url?q=https://www.historynet.com/family-or-freedom-confederate-camp-slaves-cruel-dilemma/&sa=D&source=editors&ust=1770366049474708&usg=AOvVaw2S9PcUWqrkZuyMRglu6WF0)
+Notice that Nichols didn’t automatically assume that Rube would be loyal to his ‘master.’ It occurred to him that Rube may have preferred freedom in Pennsylvania. [This article discusses other reasons why some camp slaves who came in the Gettysburg campaign followed their ‘masters’ back to the Confederacy rather than run away to freedom in Pennsylvania.](https://www.historynet.com/family-or-freedom-confederate-camp-slaves-cruel-dilemma/)
 
 Our feet were blistered and our toe-nails were bloodshot. Some were so mad till they gave vent to their feelings by cursing. Oh! such horrible oaths! It looked like some could curse “by note.” They cursed out the Union, the Yankees, “Abe” Lincoln, Jeff Davis, the Confederacy, and the whole negro race.
 
@@ -207,7 +207,7 @@ They hired two old broken down horses and a wagon from an old citizen, with a ne
 
 Perhaps I’ve missed a couple references to slaves, but those quotes cover most of them. So, onward to analysis.
 
-[This review of the memoir by L. Bao Bui](https://www.google.com/url?q=https://networks.h-net.org/node/4113/reviews/7902/bui-nichols-soldiers-story-his-regiment-61st-georgia-and-incidentally&sa=D&source=editors&ust=1770366049478440&usg=AOvVaw1KNoW4rDhfEg-Fq1603atr) says:
+[This review of the memoir by L. Bao Bui](https://networks.h-net.org/node/4113/reviews/7902/bui-nichols-soldiers-story-his-regiment-61st-georgia-and-incidentally) says:
 
 The book lacks any acknowledgment of slavery as the fundamental cause of the war or the need to adapt to a postwar world in which slavery was abolished and African Americans were nominally full citizens and members of American society. Despite the passage of Thirteenth, Fourteenth, and Fifteenth Amendments, ex-slaves lost nearly all the gains made possible by the effusive shedding of blood by Northern soldiers, both black and white. Nichols’s rewriting of recent history helped made Jim Crow possible in the postbellum decades. Racial equality, and even mention of the Civil War’s root causes or the South’s determination to uphold human bondage, fell by the wayside in the name of national reconciliation. Even as white veterans like Nichols came together to celebrate and commemorate their shared experience of war and their one undivided country, black Americans continued to remain, if not slaves, then second-class citizens living under a system of repression and terror.
 
@@ -219,7 +219,7 @@ I don’t know why Jincy Parrish ‘married down.’ Not only were the Nichols a
 
 Some people (including L. Bao Bui) label this memoir as a celebration of the Lost Cause. That’s not how I see it.
 
-[According to the Encyclopedia Virginia](https://www.google.com/url?q=https://encyclopediavirginia.org/entries/lost-cause-the/&sa=D&source=editors&ust=1770366049481960&usg=AOvVaw3Ehio6JomlyQviyNDHAYmw):
+[According to the Encyclopedia Virginia](https://encyclopediavirginia.org/entries/lost-cause-the/):
 
 The Lost Cause interpretation of the Civil War typically includes the following six assertions:
 
@@ -283,7 +283,7 @@ The oral history I’ve gotten about my ancestor the-Prussian-immigrant-in-the-U
 
 Did this memoir contribute to entrenching Jim Crow? It’s plausible to me that Nichols intended to counter overly romantic nostalgia for the Confederacy by reporting the horrors, and that this memoir may have weakened the pro-Jim-Crow narrative.
 
-He says in the preface, “I have read a great many histories of the war, but have never read one that was correct” and that he wrote this memoir so future generations would know the truth. What were the histories he read which he deemed incorrect? He doesn’t say, but earlier he says, “I have never seen a history like this one. All that I ever read tells what officers did. This gives its readers faint idea of what officers and private soldiers did.” That implies that he intended to counter history books which left out [the lower decks](https://www.google.com/url?q=https://tvtropes.org/pmwiki/pmwiki.php/Main/LowerDeckEpisode&sa=D&source=editors&ust=1770366049489549&usg=AOvVaw3J9ewLIHJC4mTDempI3DY4).
+He says in the preface, “I have read a great many histories of the war, but have never read one that was correct” and that he wrote this memoir so future generations would know the truth. What were the histories he read which he deemed incorrect? He doesn’t say, but earlier he says, “I have never seen a history like this one. All that I ever read tells what officers did. This gives its readers faint idea of what officers and private soldiers did.” That implies that he intended to counter history books which left out [the lower decks](https://tvtropes.org/pmwiki/pmwiki.php/Main/LowerDeckEpisode).
 
 But what do I know, I’m no historian. Perhaps the histories he reacted against all gave nuanced discussions of how slavery caused the Civil War and African Americans need to adapt to life as full citizens.
 

@@ -7,7 +7,7 @@ contestName: 2025 Non Book Reviews
 year: 2025
 publishedDate: '2026-02-06T16:57:23.284Z'
 slug: the-witness
-wordCount: 4672
+wordCount: 4696
 readingTimeMinutes: 21
 originalUrl: >-
   https://docs.google.com/document/d/1B3YxYxLVFjKGicaEkqvt353kt0uimn0PSUQv1PyaHuI
@@ -44,35 +44,55 @@ The following will be a quick summary of what the average playthrough of The Wit
 
 Upon booting the game, you are immediately thrown into the world with full control, without so much as a title screen. The game lacks any sort of explicit direction, but the first few minutes of gameplay put you in a constrained environment and introduce you to the game’s central mechanics: drawing lines.
 
+![](https://acximages.ennals.org/images/2025-non-book-reviews/e0171dc6f5c59049.png)
+
 The game primarily involves walking around a 3D world and discovering these panels. Each is a self-contained (or so it seems at this point) puzzle that involves drawing a line from the circular starting point to a rounded end point. Solving these panels unlocks more panels, and so on and so forth.
 
 And I mean unlock pretty literally here: the game has a physicality to it, as if it wants you to feel that this world and these panels could be replicated in real life. Wires extend from the panels, activating new ones, opening doors, unlatching gates, shifting drawbridges, and so on.
 
 Soon, you lower the gate out of the starting garden, pictured here, and begin exploring the wider world.
 
+![The Witness: how to solve the first puzzle in the garden | VG247](https://acximages.ennals.org/images/2025-non-book-reviews/7a64f176ad5ea5df.png)
+
 You find yourself on an expansive island, with puzzle panels in every direction. The island is divided into several areas, seamlessly connected, each containing a set of themed panels (though you find some scattered, often very difficult panels that don’t seem tied to any particular area), and you are free to tackle each area in any order you please.
 
 Panels start introducing new patterns and rules that you must decipher yourself by solving puzzles of gradually increasing complexity. Here’s one of the first series of panels you run into, solved. As you may be able to tell, the rule here is to draw the line such that it separates the white dots from the black.
 
+![](https://acximages.ennals.org/images/2025-non-book-reviews/ace13b6b1515f78e.png)
+
 Puzzles also begin to involve the environment outside of the panels. In the orchard, another area near the starting garden, you need to trace lines to match nearby trees. Each panel is nearly identical, and only the trees change to up the difficulty, forcing you eventually to map their more complicated 3D structure onto the panel’s 2D diagram.
+
+![](https://acximages.ennals.org/images/2025-non-book-reviews/07264a3d9ecb0885.png)
 
 And the environmental puzzles get quite diverse and creative, involving things like tracing shadows cast on a panel, lining up window frames and tinted glass to reveal solutions, reflections in water, listening to audio cues, and even getting realistic glare to reflect off a panel in just the right way.
 
 Throughout your explorations, you’ll also run into various oddities, such as these strange statues scattered throughout the island:
 
+![](https://acximages.ennals.org/images/2025-non-book-reviews/356acae4a0633eba.png)
+
 You might even discover one of the neat [perspective easter eggs](https://www.ign.com/wikis/the-witness/Perspective_Easter_Eggs) scattered throughout the game that they’re often used in:
+
+![](https://acximages.ennals.org/images/2025-non-book-reviews/0bf85b4185c0b562.jpg)
 
 You may also find one of the game’s many scattered audio logs. The purpose of these is also unclear, but they all seem to be short quotes from various famous thinkers. I found sitting and pondering them and their relation to what I was doing can be quite pleasant, though I might have been in the minority in this regard, more on that later.
 
 Eventually, you’ll reach the end of one of the island’s areas, and activate one of these giant lasers:
 
+![](https://acximages.ennals.org/images/2025-non-book-reviews/dcca5024860f61ed.jpg)
+
 As you activate more and more, it becomes clear that they all point to one place: the island’s central mountain.
 
+![](https://acximages.ennals.org/images/2025-non-book-reviews/37b490b1a9cca699.jpg)
+
 You can visit this mountaintop at any time, where you’ll find a locked door, and more statues.
+
+![](https://acximages.ennals.org/images/2025-non-book-reviews/1a8b7724dfaa2e2c.jpg)
 
 Unlocking this door requires activating at least 8 of the 11 lasers in the game, granting you access to the final area, but that’s easier said than done. As you venture further from the starting area, puzzles start to ramp up in difficulty. The main game is roughly 20 hours long, longer still if you try to take on more or harder areas, and unless you’re some bizarre puzzle masochist you’ll start to take breaks.
 
 Away from the game, your subconscious begins to assimilate the patterns as it tries to break down the last puzzle you were stuck on, and when you return you find that progress comes quicker, easier, but you also begin to notice something else: the lines. In the river, in the footpaths, in bits of paint and moss…
+
+![](https://acximages.ennals.org/images/2025-non-book-reviews/d2cd93e1c76360d9.png)
 
 At first, you think it’s just a neat motif, a bit like the perspective easter eggs. And one day, you decide to try it. It’s likely during one of the periods of downtime between puzzles that the game forces on you, walking from one area to the next, or taking the boat around the island, or waiting for a bridge to extend; all encouraging you to slow down and take in the environment. You take your cursor, touch the circle and…
 
@@ -84,9 +104,13 @@ What?
 
 No, impossible. You must have missed something, gotten a bad ending. You probably had to do all the lasers, but damn, this feels a little unfair. No, it’s too much, probably just happens no matter what. A little unsatisfying as an ending, but hey, at least the journey was enjoyable. Maybe you’ll go check out the stuff you missed. You step out into the starting garden and-
 
+![](https://acximages.ennals.org/images/2025-non-book-reviews/5cf31e9ef6bf420e.jpg)
+
 No way.
 
 You trace the path.
+
+![](https://acximages.ennals.org/images/2025-non-book-reviews/8d1ac312409e0d05.jpg)
 
 Stepping into the corridor reveals a reception area that overlooks the whole island. Voice recordings in the area reveal the nature of the island as a simulation, designed to induce some sort of enlightenment. Reaching the end plays [a video](https://youtu.be/-yMw0l26Jvs?si=52eda23tMGMxqXl7&t=165) from the perspective of a man, presumably the player character, unstrapping himself from the simulation and demonstrating the same Tetris Effect-y pattern-recognition that you have surely experienced for yourself by now.
 
@@ -150,7 +174,7 @@ And the funny thing is that this is true in a deep sense. Maybe not quite as poe
 
 * * *
 
-As we’ve touched on, “perception” is an obvious theme here, even just going by the title alone. Fun tidbit, the first idea for the game came from Blow thinking of a player sat on a mountain, and noticing, then tracing, a secret pattern in the landscape below (and, you might recall, this idea did make it into the final product). But anyway, we’ve already covered the game’s treatment of perceiving the world and the abstract rules undergirding it, but Blow seemed to also want to engender a level of self\-perception:
+As we’ve touched on, “perception” is an obvious theme here, even just going by the title alone. Fun tidbit, the first idea for the game came from Blow thinking of a player sat on a mountain, and noticing, then tracing, a secret pattern in the landscape below (and, you might recall, this idea did make it into the final product). But anyway, we’ve already covered the game’s treatment of perceiving the world and the abstract rules undergirding it, but Blow seemed to also want to engender a level of self-perception:
 
 The puzzles [are] not trying to make you be smart. Some of them are harder, some of them are easier, but they're about communicating, they're about exploring some process of form going through iterations and you as a player seeing the interesting things that can happen there. That's one of the many levels at which, to get back to the title, the game has a mode of encouraging a witnessing presence. I would say (to the extent that a game can do that kind of thing) it's a game about looking at things and seeing them and knowing that you're looking at things and seeing them. It tries to add a level of self-referentiality to that process of seeing things and of asking the question “what is it like to be in a world and walk around and be seeing things and be hearing things?”
 

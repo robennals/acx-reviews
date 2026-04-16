@@ -7,7 +7,7 @@ contestName: 2025 Non Book Reviews
 year: 2025
 publishedDate: '2026-02-06T16:55:03.485Z'
 slug: rubbermaid-products
-wordCount: 4990
+wordCount: 4998
 readingTimeMinutes: 23
 originalUrl: >-
   https://docs.google.com/document/d/1a3q0Z2tuPLLbDeg5-pfEffkajGjrfPDwE7ZMs7uaWQs
@@ -25,6 +25,12 @@ That’s not the easiest thing, because most things that are good are also bori
 You not only deserve more than that, you want more than that. You want a topic about something simple and solid, something worthy and worthwhile. You want to hear about something dependable, something that takes pride in never, ever letting the people who depend on it down.
 
 In short, you want Rubbermaid. Luckily for me, I’ve long since been on record as being about as pro-Rubbermaid as it’s possible to be:
+
+![](https://acximages.ennals.org/images/2025-non-book-reviews/1477e3378f0fca75.png)
+
+![](https://acximages.ennals.org/images/2025-non-book-reviews/688238d82702a924.png)
+
+![](https://acximages.ennals.org/images/2025-non-book-reviews/98762ca37f1d36ce.png)
 
 When the idea for this article hit me, I went around the house grabbing every object I own that bears the regal Rubbermaid stamp. I planned on talking about all of them at length. Friend, you were going to listen. And if you had ears to hear, you would have been enlightened.
 
@@ -62,8 +68,11 @@ In the era I grew up in, the way soap was advertised was telling the consumer th
 
 As cleaners that come in spray bottles go, here is one that’s considered fairly exciting by the admittedly limited standards of the field:
 
+![](https://acximages.ennals.org/images/2025-non-book-reviews/77b30b728472ed56.png) 
+
 Look at those pretty bottles. So colorful. That’s this company’s whole jam - bottles and ad copy. Here’s a brush from the same company, or at least the same store you’d buy the soap at:  
   
+![](https://acximages.ennals.org/images/2025-non-book-reviews/33035304b6efd972.png)
 
 The copy that the company uses to sell either is about as attractive. Here, they say, is a sustainable product made with delightfully crunchy ingredients, each more hippy-commune than the last. They are “natural”. They are, I swear this is true, a scented summer-specific collection.
 
@@ -89,13 +98,17 @@ At the same time, I'd buy another Rubbermaid broom. I'm a fanboy, and so not to 
 
 His part of the plan went swimmingly. He's a more traditional kind of guy, sort of quasi-amish in an urban mennonite way. He probably knows how to can things, he's probably made at least one quiet disapproving comment at a renaissance faire about someone else's historically hopeful costume choices, and that sort of thing. I sent this titan of knowing-at-least-three-uses-for-pecans the sweeper of his choosing, a Rubbermaid Heavy-Duty Commercial Corn Broom that looks a bit like this.
 
+![](https://acximages.ennals.org/images/2025-non-book-reviews/5311686baa9fe257.png)
+
 I liked this for a couple reasons. The first was how well it fit the general Rubbermaid vibe. I mean, just look at that bad boy. There's not an exciting atom in the entire thing. If being thrilling was a sense of professional decorum in one’s private life, it would be the cleaning product equivalent of the Shamwow guy. If goosebump-giving capacity was an understanding of adequate firearm holsters, it would be the tidying-up counterpart to Plaxico Burress.
 
-I am a broom, It says, and I am here for sweeping and not a damn thing else.
+I am a broom, It says, and I am here for sweeping and not a damn thing else. 
 
 The second reason I liked it is how much it didn't fit the Rubbermaid vibe in other ways. There's hardly any rubber on it that I can see. It's not a tub. It's not a Tupperware. It's not a miracle of polymer molding. It's just a broom in a mostly-natural-materials format of object Rubbermaid doesn't generally make. If there was a place where their steel-belted reliability failed, you'd expect it to be here, outside their comfort zone and far out on a bristled limb.
 
 He got it, used it a few times, and reported back:
+
+![](https://acximages.ennals.org/images/2025-non-book-reviews/9fd74a73b7433389.png)
 
 Look at how completely without incident that review is. It's a thing of unassuming beauty, like a milk-jug cap.
 
@@ -104,6 +117,8 @@ If this low-key, I’m-reporting-back-that-it’s-fine review seems like a failu
 That's what Rubbermaid is about. That's the whole deal. You can order this thing, and they’ll give you a real, fully justified version of it. Boring is in. Get you some.
 
 Now, as for my side of the review process: Things went to shit. Not because I couldn't get a broom (I could have) or because the broom didn't work (It was going to be Rubbermaid, it would have) but because I got distracted. During the process of making sure I was looking at every available broom, I scrolled a bit too far and let my eyes land on the most medium-beautiful object of function I'd ever seen:
+
+![](https://acximages.ennals.org/images/2025-non-book-reviews/af03aadcb99e0f41.png)
 
 I mean, look at it. Really look at it. What could I do?
 

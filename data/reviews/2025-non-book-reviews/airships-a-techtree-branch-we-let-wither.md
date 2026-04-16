@@ -7,7 +7,7 @@ contestName: 2025 Non Book Reviews
 year: 2025
 publishedDate: '2026-02-06T16:52:48.888Z'
 slug: airships-a-techtree-branch-we-let-wither
-wordCount: 2268
+wordCount: 2274
 readingTimeMinutes: 11
 originalUrl: >-
   https://docs.google.com/document/d/1d0vRSj1E93joWWvbUen2XGuDjN_mM94ybMIAADzM2fo
@@ -22,6 +22,8 @@ I like to imagine the state of technical progress as a tech tree in a video game
 Airships can cut CO₂ by 90 % on regional cargo runs. Here’s how we lost and may regain this tech branch.
 
 As this is a review of airships, I should acknowledge my bias. I think airships are very cool. So much so that I spent a considerable amount of time building one in Minecraft.
+
+![](https://acximages.ennals.org/images/2025-non-book-reviews/e4a13ac545c90e00.jpg)
 
 This airship has lightning rods to prevent re-creating the Hindenburg disaster.
 
@@ -38,6 +40,8 @@ At the time, the Zeppelin company was running out of money, they would need a la
 Eckener pieced together the rest of the budget through grubby little deals like selling souvenir airmail stamped and pre-ordered by collectors for each leg of the journey.
 
 But this was still a huge gamble. A crash or even bad press could void Hearst’s payments, spook insurers, and scare off future financiers. If successful, however, it would show the world that zeppelins were a safe and reliable luxury travel option of the future.
+
+![](https://acximages.ennals.org/images/2025-non-book-reviews/e99dd943ef4f4fc4.jpg)
 
 The Dining area of the Graf Zeppelin
 
@@ -56,6 +60,8 @@ May 6 1937, Lakehurst Naval Air Station. Hindenburg is minutes from docking 
 The ship collapses in 34 seconds; yet [62 of 97 aboard survive](https://www.airships.net/hindenburg/disaster/), plus most ground crew. Later probes agree on the sequence: a gas‑cell tear, hydrogen‑air mix, then a static‑spark ignition, amplified by the doped‑cotton skin’s flammability [Smithsonian Magazine](https://www.smithsonianmag.com/smithsonian-institution/80th-anniversary-hindenburg-disaster-mysteries-remain-180963107/). Insurance rates triple overnight; U.S. media re‑run the footage for weeks; passenger bookings evaporate.
 
 After that, the public lost faith in airships. Within two years, the last aluminum-framed giant, Graf Zeppelin II, made its final flight.
+
+![](https://acximages.ennals.org/images/2025-non-book-reviews/373c81334326580e.png)
 
 I find it strange. The Titanic also ended in tragedy, yet people didn’t give up on ocean liners. Why were airships treated differently? Maybe it’s because the Titanic sank out at sea, largely away from public view. The Hindenburg exploded in front of a crowd. That visibility may have made all the difference.
 
@@ -76,6 +82,8 @@ Then came Sergey Brin and Pathfinder 1. In 2013, with Google booming as an adver
 Brin's team worked in secret for nearly a decade. The NDA shield allowed them to develop carbon-fiber structures, advanced avionics, and hydrogen-ready powertrains without competitors or media scrutiny. Early testing was done indoors and later in low-profile outdoor conditions to avoid public panic or "Hindenburg 2.0" headlines.
 
 In September 2023, Pathfinder 1 received its airworthiness certificate. By [October 2024](https://www.ltaresearch.com/news/pathfinder-1-achieves-untethered-outdoor-flight), it completed its first untethered outdoor flight. As of today (spring 2025), it's still undergoing cautious, low-altitude test flights.
+
+![](https://acximages.ennals.org/images/2025-non-book-reviews/564d89fd42c4491a.png)
 
 Brin’s nonprofit, Global Support and Development, is already planning to use it for [Pacific cyclone relief in 2026](https://techcrunch.com/2023/11/08/the-worlds-largest-aircraft-breaks-cover-in-silicon-valley/), mirroring their yacht-based medical response model. Pathfinder 1 is collecting performance data to certify cargo systems, including slings and pallet roll-on/roll-off designs.
 
@@ -123,8 +131,10 @@ Compared to bush planes or turboprops, airships can reduce emissions by [90 to 9
 
 ## VIII: Conclusion
 
-Airships will not sink container ships or outrun jets.Their sweet spot is the messy middle: routes too thin for rail, too remote for roads, too carbon‑sensitive for constant turboprops.  If we marry today’s composites, batteries and hydrogen with yesterday’s buoyancy physics, the next “green freight lane” may float overhead quiet, slow, and surprisingly cost‑effective.
+Airships will not sink container ships or outrun jets.  Their sweet spot is the messy middle: routes too thin for rail, too remote for roads, too carbon‑sensitive for constant turboprops.  If we marry today’s composites, batteries and hydrogen with yesterday’s buoyancy physics, the next “green freight lane” may float overhead quiet, slow, and surprisingly cost‑effective.
 
 History abandoned airships too quickly. Recently I saw a post showcasing a conceptual design of a new nuclear powered airplane that would be used for sky cruises. The picture looks absurd, a great big behemoth of absolute excess:
+
+![](https://acximages.ennals.org/images/2025-non-book-reviews/9930ec2fef80d9b9.jpg)
 
 The only trouble with this design is that we had already had this type of luxury air cruises back in 1920 with the Graf Zeppelin that circumnavigated the globe! We have forgotten this and are now trying to reinvent it in new silly ways. Maybe that’s why I want them to come back. Floating through the sky in a giant blimp scratches that steampunk itch. It would feel like witnessing a real, imaginative leap forward.

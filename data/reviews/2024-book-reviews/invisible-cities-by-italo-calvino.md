@@ -7,7 +7,7 @@ contestName: 2024 Book Reviews
 year: 2024
 publishedDate: '2026-02-06T16:47:49.312Z'
 slug: invisible-cities-by-italo-calvino
-wordCount: 4131
+wordCount: 4133
 readingTimeMinutes: 19
 originalUrl: >-
   https://docs.google.com/document/d/1QiotH3aGFgNLGqsIHTK_Plm_gem2E4l2C2ctyGJd0jY
@@ -33,7 +33,7 @@ Anyway: If everything from [Jane Austen's novels](https://www.janeaustenbooks.ne
 1.  ## The basic premise disallows it
     
 
-For as thin as a book as this is, the complex structure & spare prose make it dense stuff to read. I can’t read it very well before bedtime or naptime, because once my mind wanders from Invisible Cities, I miss city after city before noticing approximately none of it has adhered to my recent memory. In that way, I would think it similar to a cooking manual. But on the other hand,Invisible Cities is itself no manual. Kublai Khan remains in his palace, unable to follow Marco Polo’s steps, sometimes fearfully claiming, “Your cities do not exist. Perhaps they have never existed. It is sure they will never exist again.”
+For as thin as a book as this is, the complex structure & spare prose make it dense stuff to read. I can’t read it very well before bedtime or naptime, because once my mind wanders from Invisible Cities, I miss city after city before noticing approximately none of it has adhered to my recent memory. In that way, I would think it similar to a cooking manual. But on the other hand, Invisible Cities is itself no manual. Kublai Khan remains in his palace, unable to follow Marco Polo’s steps, sometimes fearfully claiming, “Your cities do not exist. Perhaps they have never existed. It is sure they will never exist again.”
 
 1.  ### The format of the thing
     
@@ -60,6 +60,8 @@ Perhaps the strongest argument against us, Calvino’s writing at large simply r
 It’s more-or-less the same with Calvino’s book covers, too. Wikipedia provides [a low-res cover of the original edition](https://en.wikipedia.org/wiki/Invisible_Cities), an artist clearly reveling in the fantastical elements of the book, it seems to me. No, no, no–I look again–[that’s a Magritte,](https://www.renemagritte.org/the-castle-of-the-pyrenees.jsp) painted over a decade before Invisible Cities, the artist dead before the book’s publication. So I guess I can’t strictly hold Magritte responsible, but Calvino(’s publisher) thought this pitted rock castle suspended over the air and waves had kinship with the cities described within. And in the case of portraits like Baucis (Cities & Eyes 3), The Castle of the Pyrenees appears in the same world: “lost above the clouds [...] Nothing of the city touches the earth except those long flamingo legs on which it rests...”
 
 Meanwhile, here is the cover of my modern edition:
+
+![](https://acximages.ennals.org/images/2024-book-reviews/34bd854380ca5064.jpg)
 
 At this point the cover is as much about the places to which I’ve dragged it as it is the places it contains.
 
@@ -180,7 +182,7 @@ Occasionally, I forget to add “Calvino” and end up with the cooking blogs of
 
 I do not know the Italian language, but I tried anyway. The Amazon listing popped up from my Italian keywords only because “Customers who viewed this item also viewed Le città invisibili…”
 
-[Italo Calvino: il sapore del racconto: Le ricette delle fiabe italiane (Leggere è un gusto)](https://www.amazon.com/-/es/Lina-Grossi/dp/8865800097) appears to feature 10 recipes based on Calvino’s [Italian Folktales](https://en.wikipedia.org/wiki/Italian_Folktales) collection. Despite having to pare down from 200 stories, this ricette equally samples different regions represented throughout that book. Not Invisible Cities, but another kindred project. (Unless Google Translate is really letting me down. Italian-speakers, report.)
+ [Italo Calvino: il sapore del racconto: Le ricette delle fiabe italiane (Leggere è un gusto)](https://www.amazon.com/-/es/Lina-Grossi/dp/8865800097) appears to feature 10 recipes based on Calvino’s [Italian Folktales](https://en.wikipedia.org/wiki/Italian_Folktales) collection. Despite having to pare down from 200 stories, this ricette equally samples different regions represented throughout that book. Not Invisible Cities, but another kindred project. (Unless Google Translate is really letting me down. Italian-speakers, report.)
 
 7.  ### Sadly, I am no SEO wizard
     

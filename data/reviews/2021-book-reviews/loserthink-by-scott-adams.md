@@ -91,7 +91,7 @@ The second point is more profound. History can often have a disproportionately s
 
 This is best summed up with the following lines: “Focusing on the past when the present offers sufficient paths to success is Loserthink. It is better to focus on your own systems for success and when you succeed watch how winning fixes most problems.”
 
-Adams also points out that the phrase is “history repeats itself” functions more like a [stop-sign](https://www.google.com/url?q=https://www.lesswrong.com/posts/FWMfQKG3RpZx6irjm/semantic-stopsigns&sa=D&source=editors&ust=1770366086599366&usg=AOvVaw3WsJES79QDgpCekiLddr_C) than as an actual predictor of anything useful.
+Adams also points out that the phrase is “history repeats itself” functions more like a [stop-sign](https://www.lesswrong.com/posts/FWMfQKG3RpZx6irjm/semantic-stopsigns) than as an actual predictor of anything useful.
 
 ## Engineer
 
@@ -157,7 +157,7 @@ There are some other ideas that Adams has woven into the book as well – new, n
 
 In my opinion, this is the most important idea by far. So much so that I pondered writing an entire book expounding on the basic idea myself. I haven’t done so, partly due to akrasia, but also partly because I would feel a lot better about writing such a book after my personal accomplishments are sufficient to inspire a non-trivial number of other human beings. Ironically, mastering your ego is enough to circumvent both of those hurdles.
 
-The conventional wisdom on your ego is that one must always look to suppress it. It is also looked at as largely a social element and much less of a personal one. Yudkowsky has rejected this paradigm, [drawn the distinction between fake social modesty and true humility](https://www.google.com/url?q=https://www.lesswrong.com/posts/GrDqnMjhqoxiqpQPw/the-proper-use-of-humility&sa=D&source=editors&ust=1770366086609913&usg=AOvVaw01sNHwmiWdGeOLrGweJBeT).
+The conventional wisdom on your ego is that one must always look to suppress it. It is also looked at as largely a social element and much less of a personal one. Yudkowsky has rejected this paradigm, [drawn the distinction between fake social modesty and true humility](https://www.lesswrong.com/posts/GrDqnMjhqoxiqpQPw/the-proper-use-of-humility).
 
 Adams offers practical advice on exercises that you can adopt to increase or decrease your ego as the case my require. In certain situations, ramping up your ego can give you much needed courage. A good example of this would be public speaking.
 

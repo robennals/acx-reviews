@@ -1,5 +1,5 @@
 ---
-title: "Time Loops\_by Eric Wargo"
+title: Time Loops by Eric Wargo
 author: Unknown
 reviewAuthor: Anonymous
 contestId: 2024-book-reviews
@@ -7,7 +7,7 @@ contestName: 2024 Book Reviews
 year: 2024
 publishedDate: '2026-02-06T16:49:50.818Z'
 slug: time-loops-by-eric-wargo
-wordCount: 3396
+wordCount: 3397
 readingTimeMinutes: 16
 originalUrl: >-
   https://docs.google.com/document/d/1Ki5XsE0jkxZtd2XAeyTAJw1ZjLh2Cu-matUYKAhA6-s
@@ -137,7 +137,7 @@ Restrain, of course, your hit-seeking with judicious use of the Skeptic's toolbo
 
 * * *
 
-[i]putatively prophetic, if we're neutral.
+[i] putatively prophetic, if we're neutral.
 
 [ii] in An Experiment With Time, 1927
 

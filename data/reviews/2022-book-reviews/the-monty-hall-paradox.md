@@ -7,7 +7,7 @@ contestName: 2022 Book Reviews
 year: 2022
 publishedDate: '2026-02-06T07:22:32.818Z'
 slug: the-monty-hall-paradox
-wordCount: 3357
+wordCount: 3361
 readingTimeMinutes: 15
 originalUrl: >-
   https://docs.google.com/document/d/100kMdSVFviZSSBvUyyEQPMNlvLptVQxHFD9i9wGuBWs
@@ -16,11 +16,11 @@ tags:
   - Science
 ---
 
-Why is the [Monty Hall problem](https://www.google.com/url?q=https://en.wikipedia.org/wiki/Monty_Hall_problem&sa=D&source=editors&ust=1770366145341321&usg=AOvVaw3HylMqSFcyQAFhgDs3Itop) so counterintuitive?
+Why is the [Monty Hall problem](https://en.wikipedia.org/wiki/Monty_Hall_problem) so counterintuitive?
 
 I assume that most readers are familiar with this paradox, but, in case you don’t know about it, here it is:
 
-In a TV game, there is a prize (a car) hidden behind one of three closed doors. The other two doors contain goats because our decadent western culture doesn’t value goats any more. You try your luck and pick one door. Before opening your door, the host opens another door, revealing a goat! Then he asks you if you want to go on with your choice or switch to the remaining door. What do you do? Think about it then look up the solution on the [Wikipedia article](https://www.google.com/url?q=https://en.wikipedia.org/wiki/Monty_Hall_problem&sa=D&source=editors&ust=1770366145342030&usg=AOvVaw25SKGOei0ZkTTBrVEqrz58).
+In a TV game, there is a prize (a car) hidden behind one of three closed doors. The other two doors contain goats because our decadent western culture doesn’t value goats any more. You try your luck and pick one door. Before opening your door, the host opens another door, revealing a goat! Then he asks you if you want to go on with your choice or switch to the remaining door. What do you do? Think about it then look up the solution on the [Wikipedia article](https://en.wikipedia.org/wiki/Monty_Hall_problem).
 
 Done? Now I’ll tell you about the first time I encountered this thing. I was at a Physics summer camp. At dinner, one guy is running the show by flabbergasting us with all sorts of counterintuitive trivia. Like, did you know that whenever you copy a file the computer introduces thousands of errors in the copy? Then he starts telling about this survival puzzle where you have two doors and there is a tiger behind one of them. He asks: what door do you choose?
 
@@ -86,6 +86,8 @@ Female: So, these penises you promised earlier?
 
 Me: In a moment, we first have to draw a causal diagram. Consider these three variables: which door hides the prize, which door you have chosen, which door Monty Hall opens. Imagine representing them with little dots and linking them with arrows, where each arrow goes from cause to effect. So we have to link the prize door to Monty Hall's one, because he can't open the prize door, and also the chosen door because he can't open that either.
 
+![](https://acximages.ennals.org/images/2022-book-reviews/19bc1ebbf07e3ad5.png)
+
 Female: Good, he's drawing arrows now. [makes a well-known gesture with the hands]
 
 Me: The point of this diagram is that in general when you have two causes of the same variable, and you know what value the variable yields, a correlation pops up between the two causes, even if there isn't a direct causality relationship between them.
@@ -121,6 +123,8 @@ Me: But... Listen, the point is: from this analysis, could I infer that you girl
 Female: But: if I really have to change the door, then it is not an illusion.
 
 Me: Whatever, it's an illusion in the penises case, what the two examples share is an unexpected correlation. Anyway, it becomes evident if we draw the diagram:
+
+![](https://acximages.ennals.org/images/2022-book-reviews/543b0606049ee691.png)
 
 Me: So, who out of you and your mother is carrying out the measurement influences the length due to the differential erection rate. Age matters too because children have it small.
 
@@ -171,6 +175,10 @@ Done? The solution is: the sample of women is more anxious than the sample of me
 I expect that you either have figured out the solution yourself, or at least think that the solution makes sense. Actually, I hope that you are already thinking about how to fix the study. It would be sufficient, say, to compute the correlation separately for males and females. Or to measure the difference in anxiety pre- and post-treatment. Or have a control group. I expect that how you feel about this stuff is of course it doesn’t work! Just do the study in the right way!
 
 While, instead, I expect you to feel perplexed about switching door or trusting your assistant not to have cherry-picked young subjects for the penis experiment. What’s the difference in trying to see through the veil of the correlation between these two kinds of situations? Pearl’s answer (to everything, actually) is: just draw the graph!
+
+![](https://acximages.ennals.org/images/2022-book-reviews/7c53cd3aa12f9fbc.png)
+
+![](https://acximages.ennals.org/images/2022-book-reviews/b67ea52564719d53.png)
 
 The arrows go in the opposite direction! It is easy for us to understand the correlation when it is produced by a shared cause of multiple effects, while it is difficult to have an intuitive grasp when there’s a single effect of multiple causes.
 

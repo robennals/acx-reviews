@@ -1,5 +1,7 @@
 ---
-title: "Now It Can Be Told: The Story of the Manhattan Project\_by General Leslie M. Groves"
+title: >-
+  Now It Can Be Told: The Story of the Manhattan Project by General Leslie M.
+  Groves
 author: Unknown
 reviewAuthor: Anonymous
 contestId: 2022-book-reviews
@@ -8,7 +10,7 @@ year: 2022
 publishedDate: '2026-02-06T07:23:14.486Z'
 slug: >-
   now-it-can-be-told-the-story-of-the-manhattan-project-by-general-leslie-m-groves
-wordCount: 19710
+wordCount: 19721
 readingTimeMinutes: 88
 originalUrl: >-
   https://docs.google.com/document/d/1kQUUJhv-MpLawby2j4zXLZPDG6ligWd5xpIjH8UmWdw
@@ -19,6 +21,8 @@ tags:
 ---
 
 Explosive Revelations of the Twentieth Century
+
+![](https://acximages.ennals.org/images/2022-book-reviews/e12dd355e4fe6789.jpg)
 
 The enemy’s gate is a 2,892-stage diffusion cascade.
 
@@ -38,7 +42,7 @@ But it’s not a joke! It’s the start of the Manhattan Project!
 
 Wait, what?
 
-According to General Leslie M. Groves’s account in his memoir, [Now It Can Be Told: The Story of the Manhattan Project](https://www.google.com/url?q=https://www.amazon.com/dp/B06XCZLRXS/&sa=D&source=editors&ust=1770366184607368&usg=AOvVaw0esNTZUXGBw5x-7IL0m5n0), that’s exactly how it went down when then-Colonel Groves was offered the position by General Somerville.
+According to General Leslie M. Groves’s account in his memoir, [Now It Can Be Told: The Story of the Manhattan Project](https://www.amazon.com/dp/B06XCZLRXS/), that’s exactly how it went down when then-Colonel Groves was offered the position by General Somerville.
 
 I admit I’m unfamiliar with the details of the US side of World War Two history, but even I know Groves headed the Manhattan Project. So if your story is true, he must have taken the assignment after all. What changed his mind?
 
@@ -62,7 +66,7 @@ In truth, at the time Groves took charge of the project, not even the basic scie
 
 Wow, so Somerville was practically just lying? What did Groves do next, then? Try to get reassigned to his original post? Complain to General Marshall?
 
-Wrong! Groves was a greater kind of man, not like you or I. The more impossible the task, the more determined he became to see it through, like the protagonist of an [Edgar Albert Guest poem](https://www.google.com/url?q=https://www.poetryfoundation.org/poems/44314/it-couldnt-be-done%255d&sa=D&source=editors&ust=1770366184611445&usg=AOvVaw0N3Xs6Bqe7z9HuH5i-agkt).
+Wrong! Groves was a greater kind of man, not like you or I. The more impossible the task, the more determined he became to see it through, like the protagonist of an [Edgar Albert Guest poem](https://www.poetryfoundation.org/poems/44314/it-couldnt-be-done%5d).
 
 Yeah, right – I’m not buying it. Since I know Groves didn’t actually leave the project, just give up and tell me already what else happened to convince him that the prospects of his new assignment were brighter than the dearth of work done up to that point suggested.
 
@@ -80,9 +84,9 @@ Just why Nelson gave in so easily, I will never know. I would have been most unw
 
 In any event, as a result of my visit to Mr. Nelson, we had no major priority difficulties for nearly a year.
 
-Well, I’ll grant you that the man can pull a bluff. But if the Manhattan Project had top priority and they could get all the resources they wanted, then why does everyone act like their success is so impressive? [Every](https://www.google.com/url?q=https://twitter.com/GhostPanther/status/1416146334625591296&sa=D&source=editors&ust=1770366184615533&usg=AOvVaw1PxyXRnu5oEWMmddaCnZ4-) [rando](https://www.google.com/url?q=https://twitter.com/modeledbehavior/status/1496711075873624069&sa=D&source=editors&ust=1770366184615649&usg=AOvVaw2j5qon9pLo-3EQ1bbXadQj) [on](https://www.google.com/url?q=https://twitter.com/SenSanders/status/1501640468584669185&sa=D&source=editors&ust=1770366184615751&usg=AOvVaw0D-CRetb9pDEXoQ8Qw2OY5) [twitter](https://www.google.com/url?q=https://mobile.twitter.com/AestheticPlanet/status/274934934836215808&sa=D&source=editors&ust=1770366184615842&usg=AOvVaw3SPbxgUjtAe09ZlpElwKNB) takes the Manhattan Project as a byword for any difficult tech-related project they want done quickly. But if you throw enough money and resources at a problem, it will get solved no matter how unexceptional the management might be, right? And the Manhattan Project wasn’t even that fast – the Allies had already finished defeating the Nazis in Europe with only conventional weapons, before Groves’s nukes were even ready.
+Well, I’ll grant you that the man can pull a bluff. But if the Manhattan Project had top priority and they could get all the resources they wanted, then why does everyone act like their success is so impressive? [Every](https://twitter.com/GhostPanther/status/1416146334625591296) [rando](https://twitter.com/modeledbehavior/status/1496711075873624069) [on](https://twitter.com/SenSanders/status/1501640468584669185) [twitter](https://mobile.twitter.com/AestheticPlanet/status/274934934836215808) takes the Manhattan Project as a byword for any difficult tech-related project they want done quickly. But if you throw enough money and resources at a problem, it will get solved no matter how unexceptional the management might be, right? And the Manhattan Project wasn’t even that fast – the Allies had already finished defeating the Nazis in Europe with only conventional weapons, before Groves’s nukes were even ready.
 
-Your implication that the Manhattan Project took the whole war is completely unfair. From Groves’s account, he only took charge in September 1942, and the project can’t really be considered to have started in earnest until then. And recall, the bombs were dropped on Japan in August, 1945. Do the math – that’s just under three years. The entire Manhattan Project took less time than it took the [Germans to build an airport,](https://www.google.com/url?q=https://www.euronews.com/2020/10/31/berlin-airport-opens-10-years-late-and-three-times-over-budget&sa=D&source=editors&ust=1770366184616886&usg=AOvVaw1hVB_qfd0XrFU7TzGV4QLQ) or [Boston to build a subway tunnel](https://www.google.com/url?q=https://www.nbcnews.com/id/wbna22394932&sa=D&source=editors&ust=1770366184616987&usg=AOvVaw3jrJKlbAHsN_0KHOWfBgDN).
+Your implication that the Manhattan Project took the whole war is completely unfair. From Groves’s account, he only took charge in September 1942, and the project can’t really be considered to have started in earnest until then. And recall, the bombs were dropped on Japan in August, 1945. Do the math – that’s just under three years. The entire Manhattan Project took less time than it took the [Germans to build an airport,](https://www.euronews.com/2020/10/31/berlin-airport-opens-10-years-late-and-three-times-over-budget) or [Boston to build a subway tunnel](https://www.nbcnews.com/id/wbna22394932).
 
 Fine, but at least some of the research had already been done before 1942, or else there wouldn’t have been international interest in nuclear weapons to begin with. So don’t try to convince me they were starting from scratch.
 
@@ -96,6 +100,8 @@ Rather than impressed, now I’m just confused. Neither separating uranium isoto
 
 There’s where you’re wrong. You’re assuming they did everything in serial – research, then design, then testing, then construction, then operation.
 
+![](https://acximages.ennals.org/images/2022-book-reviews/2484708e79b3328b.png)
+
 The Engineering Design Process
 
 Well, how else would they have done it? The process exists for a reason.
@@ -107,6 +113,8 @@ Do you mean they worked on both their reactors and their isotope separation faci
 No, I mean they did the actual steps of the design process in parallel:
 
 We then had to design, build and operate an extremely large plant with equipment of incredible complexity, without the benefit of any pilot plant or intermediate development… Always we were driven by the need to make haste. Consequently, research, development, construction and operation all had to be started and carried on simultaneously and without appreciable prior knowledge.
+
+![](https://acximages.ennals.org/images/2022-book-reviews/1e8335cb04f32bb9.jpg)
 
 Groves’s Engineering Design Process
 
@@ -175,6 +183,8 @@ Oppenheimer was never Groves’s ideal candidate. There was the problem of his r
 Oppenheimer had two major disadvantages – he had had almost no administrative experience of any kind, and he was not a Nobel Prize winner. Because of the latter lack, he did not then have the prestige among his fellow scientists that I would have liked the project leader to possess. The heads of our three major laboratories – Lawrence at Berkeley, Urey at Columbia, and Compton at Chicago – were all Nobel Prize winners, and Compton had several Nobel Prize winners working under him. There was a strong feeling among most of the scientific people with whom I discussed this matter that the head of Project Y should also be one.
 
 And on top of all that, there were Oppenheimer’s well-known communist connections that caused him so much trouble after the war. The military security organization wouldn’t even clear him until Groves personally wrote to the District Engineer and instructed him to do so.
+
+![](https://acximages.ennals.org/images/2022-book-reviews/132a57c1a3ed5ed9.jpg)
 
 If Oppenheimer really had been both a Soviet agent and the true “father of the atomic bomb,” then it would have been called the Moscow Project, not the Manhattan Project.
 
@@ -392,6 +402,8 @@ Frankly, if they needed a conductive material in 1945, I don’t see what else b
 
 That shows how much you know, because they did manage to find an even better conductor than copper. Recall, the elements in the periodic table share common properties according to column:
 
+![](https://acximages.ennals.org/images/2022-book-reviews/3cd69c9f2c8ba443.jpg)
+
 Okay, but that’s hardly helpful – anything beneath copper is just going to be even harder to get! Silver? Gold? Really?
 
 That’s where the Treasury comes in.
@@ -407,6 +419,8 @@ Fourteen thousand tons of it, worth more than $300 million – and that’s in 1
 The value of one of the materials we used in quantity necessitated what was virtually a separate operation in itself. Preliminary design calculations on the Y-12 electromagnetic plant in the summer of 1942 had indicated that enormous quantities of conductor material would be required. Because the demands for copper to be used in defense projects far exceeded the national supply, the Administration had decided that the need for copper should be reduced by substituting for it silver borrowed from the Treasury Department.
 
 Colonel Marshall thereupon called on the Under Secretary of the Treasury, Daniel Bell. Mr. Bell said that he might be able to make available some 47,000 tons of free silver, together with 39,000 tons more which could be released from the backup of silver certificates, if Congress authorized its use through appropriate legislation. At one point early in the negotiations, Nichols, acting for Marshall, said that they would need between five and ten thousand tons of silver. This led to the icy reply: “Colonel, in the Treasury we do not speak of tons of silver; our unit is the Troy ounce.”
+
+![](https://acximages.ennals.org/images/2022-book-reviews/18c736ac120a1de1.jpg)
 
 Fort Knox: Supplier of fine wire since 1942
 
@@ -506,7 +520,7 @@ Well, nothing is a hundred percent certain when so many records were burned or l
 
 Oh, Groves mentions those. After the war, Alsos interned ten German scientists they had identified as being involved in German nuclear weapons development at Farm Hall in England, right? But they bugged all the rooms to eavesdrop on what they were saying. Groves quotes from the reports a few times.
 
-Indeed – as far as I know no full original transcripts exist, but the translated selections reported to Groves by Major Rittner are [available and published](https://www.google.com/url?q=https://www.amazon.com/Hitlers-Uranium-Club-Secret-Recordings/dp/0387950893/&sa=D&source=editors&ust=1770366184684274&usg=AOvVaw0tkP9oMGKdRykl2aD3efqy).
+Indeed – as far as I know no full original transcripts exist, but the translated selections reported to Groves by Major Rittner are [available and published](https://www.amazon.com/Hitlers-Uranium-Club-Secret-Recordings/dp/0387950893/).
 
 Wouldn’t the Germans have expected the Americans to be spying on them and avoided saying anything compromising, though?
 
@@ -514,7 +528,7 @@ While the scientists would surely have been fools to think their words were priv
 
 Well, while the Russians were apparently beating us hands-down at intelligence and counterintelligence, it’s satisfying to know that there was still someone less adept than us. Though it does make me wonder – if the government was already bugging people even back in 1945, how much more should we be concerned about being spied on today, now they’ve had three-quarters of a century to perfect their technique?
 
-If I were you, I wouldn’t be too concerned. The US may have managed to build nukes in three years back then, but now they’re lucky if they [can finish upgrading a stealth plane within two decades](https://www.google.com/url?q=https://www.scientificamerican.com/article/what-went-wrong-with-the-f-35-lockheed-martins-joint-strike-fighter/&sa=D&source=editors&ust=1770366184686114&usg=AOvVaw1g3EPUVDxfPoX3bqJu5Xaz). I used to wonder why the KGB’s operations tended towards information gathering rather than more direct subversion – but with that kind of improvement, who needs sabotage?
+If I were you, I wouldn’t be too concerned. The US may have managed to build nukes in three years back then, but now they’re lucky if they [can finish upgrading a stealth plane within two decades](https://www.scientificamerican.com/article/what-went-wrong-with-the-f-35-lockheed-martins-joint-strike-fighter/). I used to wonder why the KGB’s operations tended towards information gathering rather than more direct subversion – but with that kind of improvement, who needs sabotage?
 
 You mock us Americans, but at least we can look back on our good old days! If their nuclear project is anything to judge by, modern airport-building skills aside, the Germans couldn’t even run a halfway-decent tech-development project back in the mid-twentieth century.
 
@@ -533,6 +547,8 @@ But the feasibility of enriching uranium for a bomb has little to do with the fe
 Well, no.
 
 Ha! I knew it. Their failure was probably less because of what they thought about the details of nuclear physics, and more because of who was doing the thinking:
+
+![](https://acximages.ennals.org/images/2022-book-reviews/740ce5e47fb3c93b.jpg)
 
 Mein Führer, I do Nazi the reason our nuclear research is failing.
 
@@ -574,7 +590,7 @@ Why else would they have been complaining so bitterly, if Groves hadn’t actual
 
 So Groves just got lucky to be part of a military that rolled over and let him recruit all their top officers?
 
-On the contrary, the military got lucky recruiting Groves! Really, without his skill at management, his organizational ability, his capability at convincing people to join him and inspiring them to work towards a common goal, his talent at balancing the political, scientific, military, and civilian sides of the project all at once, and his unwavering determination even when the task seemed [impossible](https://www.google.com/url?q=https://www.lesswrong.com/posts/nCvvhFBaayaXyuBiD/shut-up-and-do-the-impossible&sa=D&source=editors&ust=1770366184698041&usg=AOvVaw25GpaPBUFBUHdXIej2zZmr) – without all that in one man, how could the Manhattan Project ever have succeeded?
+On the contrary, the military got lucky recruiting Groves! Really, without his skill at management, his organizational ability, his capability at convincing people to join him and inspiring them to work towards a common goal, his talent at balancing the political, scientific, military, and civilian sides of the project all at once, and his unwavering determination even when the task seemed [impossible](https://www.lesswrong.com/posts/nCvvhFBaayaXyuBiD/shut-up-and-do-the-impossible) – without all that in one man, how could the Manhattan Project ever have succeeded?
 
 While I’m sure his memoir makes it appear as if Groves had all sorts of superhuman management skills and personally directed the solution to every problem, just recognize that you’re getting this account from the man himself. It stands to reason his perspective might be a bit biased.
 
@@ -582,9 +598,9 @@ Groves would never lie! Every word is gospel! You’re the liar!
 
 Chill out, I’m not saying he’s lying. But it’s obvious that Groves’s own contributions and decisions are going to appear more important from his own perspective. After all, from dancing to bring rain to playing slot machines, it’s human nature to believe your own actions are causing whatever happens in the world around you. Groves would have been an extraordinary person indeed not to find the cause of his success in the parts he had the most control over. So for example, if he spent a lot of time and had a lot of say in personnel recruitment, then it’s hardly a surprise if his account attributed greater importance to the quality of the people who were selected.
 
-Possibly. I still maintain that whatever Groves’s biases were, my explanation makes intuitive sense. After all, don’t top technology companies succeed the same way, by hiring the “best” people – not necessarily at a specific task, but in a general [“smart, and gets things done”](https://www.google.com/url?q=http://steve-yegge.blogspot.com/2008/06/done-and-gets-things-smart.html&sa=D&source=editors&ust=1770366184699784&usg=AOvVaw2Qd2Gx6kXz4J5rTfHhSN_A) sense?
+Possibly. I still maintain that whatever Groves’s biases were, my explanation makes intuitive sense. After all, don’t top technology companies succeed the same way, by hiring the “best” people – not necessarily at a specific task, but in a general [“smart, and gets things done”](http://steve-yegge.blogspot.com/2008/06/done-and-gets-things-smart.html) sense?
 
-Sure, sure. But didn’t a bunch of finance companies try the same hiring strategy – [and wind up filing for bankruptcy after causing a global recession](https://www.google.com/url?q=https://en.wikipedia.org/wiki/Lehman_Brothers&sa=D&source=editors&ust=1770366184700099&usg=AOvVaw3ADH6kNTAvzCV25lIkLCC3)?
+Sure, sure. But didn’t a bunch of finance companies try the same hiring strategy – [and wind up filing for bankruptcy after causing a global recession](https://en.wikipedia.org/wiki/Lehman_Brothers)?
 
 Their problem was an incentive misalignment – they took no responsibility for the results of their decisions. Rather than borrowing silver from the treasury for their magnetic coils, they were stealing gold for their parachutes. Groves, on the other hand, explicitly took responsibility for the results of the Manhattan Project all the way through, to everyone from politicians to companies to laborers.
 
@@ -638,6 +654,8 @@ Rumors didn’t bother him that much. There were already quite a few rumors abou
 
 Now you’re the one suggesting submarines, hundreds of miles away from any water!
 
+![](https://acximages.ennals.org/images/2022-book-reviews/62eddc9170330845.jpg)
+
 The subs were transported to the Pacific via the underground ocean.
 
 Hey, I didn’t say I believed the rumors. Other rumors were about the base’s security, such as those accidentally confided to a Los Alamos Colonel by an unsuspecting civilian he met on a train:
@@ -659,6 +677,8 @@ By targets, you mean the actual cities that were bombed? He chose Hiroshima and
 Not on his own – although he had some input and helped compile a list of possible targets, he never had final say on the matter. It’s obvious he wasn’t making the final decisions actually, since as far as specific target choices went, he had his heart set on Kyoto.
 
 Kyoto? Was he quite mad? Did he have no consideration for the sheer historical value that would have been destroyed? Or even if he cared nothing for Japanese culture and history, did he not take into account that such an act would have left the US’s international reputation in tatters? Not, of course, that the US hasn’t found other ways to tank its international reputation since then.
+
+![](https://acximages.ennals.org/images/2022-book-reviews/b8d006893cadde26.jpg)
 
 The perfect test-building to study nuclear detonation-induced structural damage.
 
@@ -706,7 +726,7 @@ No, this isn’t a criticism of Groves – I think remaining unbiased in his rol
 
 Don’t all countries do that?
 
-On the contrary, this was the very mistake Japan, a very militarized state at that point, made in [attacking Pearl Harbor](https://www.google.com/url?q=https://acoup.blog/2020/06/19/collections-the-battle-of-helms-deep-part-viii-the-mind-of-saruman/&sa=D&source=editors&ust=1770366184719894&usg=AOvVaw1LnQdqOoKpqDQgXjvbCrL_) – they asked how the US ought to be attacked, and not whether it was a good idea to open hostilities in the first place against an additional country when they were already fighting China. Japan and Germany both had very militarized governments at the time, and this is probably part of the reason these countries entered some conflicts they would almost certainly have been better off avoiding.
+On the contrary, this was the very mistake Japan, a very militarized state at that point, made in [attacking Pearl Harbor](https://acoup.blog/2020/06/19/collections-the-battle-of-helms-deep-part-viii-the-mind-of-saruman/) – they asked how the US ought to be attacked, and not whether it was a good idea to open hostilities in the first place against an additional country when they were already fighting China. Japan and Germany both had very militarized governments at the time, and this is probably part of the reason these countries entered some conflicts they would almost certainly have been better off avoiding.
 
 I’ll have to take your word for it when it comes to the mindsets that were prevalent in Germany and Japan, but I agree Groves appears to have had a very military type of perspective on a lot of things. While I think that mindset contributed to his success, it also set him apart from many of the others he worked with.
 
@@ -755,6 +775,8 @@ Really – “deliberate intent”? Did he think the newspapers were out to get 
 True! Just look at the Army sentries at Los Alamos, who spent so long watching for German spies but finding none, that they started to detect false positives:
 
 [Commander Willian S.] Parsons was the first Navy officer to be assigned to the station [at Los Alamos], and appeared at the gate wearing a Navy summer uniform. His arrival was announced by a frantic guard, who telephoned his sergeant: “Sergeant, we’ve really caught a spy! A guy is down here trying to get in, and his uniform is as phony as a three dollar bill. He’s wearing the eagles of a colonel, and claims that he’s a captain.”
+
+![](https://acximages.ennals.org/images/2022-book-reviews/dc767c0849573c07.jpg)
 
 All the effort they wasted keeping an eye out for non-existent German spies would have been better spent trying to track down some of the very-much-existent Soviet spies that were even then percolating into the heart of Groves’s supposedly extremely secret project. Why did no one notice Hall, or Cohen, or Fuchs –
 
@@ -816,7 +838,7 @@ Yep.
 
 I hesitate to ask this in case you actually expect me to go back and read them, but are they openly published like the Farm Hall transcripts?
 
-Not the originals, no – they’re still classified, not to mention in Russian. But the MI5 historian Christopher Andrew wrote a book, [The Sword and the Shield](https://www.google.com/url?q=https://www.amazon.com/dp/B06XCG9KVP/&sa=D&source=editors&ust=1770366184734960&usg=AOvVaw3vaP3H029sVXhVrBlVPuS_), summarizing the major KGB operations the notes cover.
+Not the originals, no – they’re still classified, not to mention in Russian. But the MI5 historian Christopher Andrew wrote a book, [The Sword and the Shield](https://www.amazon.com/dp/B06XCG9KVP/), summarizing the major KGB operations the notes cover.
 
 And that book mentioned Fuchs?
 
@@ -949,6 +971,8 @@ I’m still not sure I buy it.
 Eh, I suppose we could guess about it all day – if people are still debating the question three quarters of a century on, amateur armchair historians like us can hardly expect to solve it in an afternoon. But it’s sobering to consider that none of these factors would have mattered a whit if nuclear bombs had turned out to be impossible due to some quirk of nuclear physics. All the management skills in the world can’t save you from mother nature’s harsh audit, after all.
 
 Well, even if the physics involved had made nuclear weapons impossible, I think Groves would still have succeeded – with his management skills, he would simply have turned the whole research apparatus to some other technologically-advanced, war-ending project:
+
+![](https://acximages.ennals.org/images/2022-book-reviews/4d7b56e797ae730f.png)
 
 The sheer size of Groves’s genetically-engineered combat-dinosaurs gave  the strategy of island-hopping a new meaning.
 

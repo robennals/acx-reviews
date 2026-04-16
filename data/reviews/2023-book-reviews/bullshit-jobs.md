@@ -7,7 +7,7 @@ contestName: 2023 Book Reviews
 year: 2023
 publishedDate: '2026-02-06T07:21:10.025Z'
 slug: bullshit-jobs
-wordCount: 6084
+wordCount: 6095
 readingTimeMinutes: 28
 originalUrl: >-
   https://docs.google.com/document/d/10CiEI7aDL2bMIdx7yayy3vlq0TJ8dO5LGnG7yIDPiw8
@@ -49,7 +49,7 @@ Scott Alexander made one short post on the subject, but it didn’t mention how 
 
 So, the original idea of BS jobs hasn’t been fleshed out much since its creation, and we have to rely on input from people who didn’t originate the idea and aren’t outside the normal human range of insightfulness. I’m hoping to contribute to that as part of this review.
 
- 
+ ![](https://acximages.ennals.org/images/2023-book-reviews/5d86158d7ca80200.png)
 
 ### II. Graeber’s Main Arguments and Evidence, and My Overview
 
@@ -67,9 +67,9 @@ Perhaps as a public intellectual Graeber derived a lot of meaning from his work,
 
 Graeber also doesn’t have much in the way of evidence to support his central thesis: that a lot of work in the modern world really serves no purpose, which is an incredibly bold claim to make mostly unsupported.
 
-His main supporting data is the [YouGov survey](https://www.google.com/url?q=https://yougov.co.uk/topics/society/articles-reports/2015/08/12/british-jobs-meaningless&sa=D&source=editors&ust=1770366050092623&usg=AOvVaw2Cx8nIhZsBUAGPpXHWKYq5) which found that “37% of British workers think their jobs are meaningless”.
+His main supporting data is the [YouGov survey](https://yougov.co.uk/topics/society/articles-reports/2015/08/12/british-jobs-meaningless) which found that “37% of British workers think their jobs are meaningless”.
 
- 
+ ![](https://acximages.ennals.org/images/2023-book-reviews/0eb8750166b6e513.png)
 
 Graeber was a Leftist in the Rousseau-ian tradition and the opposite of a misanthrope, he believed in the sound judgment and basic goodness of ordinary people, and emphasises repeatedly that he defines BS jobs to be “jobs considered useless by the people doing them”, and that the best way to know how prevalent BS jobs are is to ask the people actually doing them. Which provides us a clear metric to define BS jobs by and avoids upsetting anyone who thinks what they do really is valuable.
 
@@ -175,7 +175,7 @@ So he really disapproves of servants, soldiers and anything to do with the churc
 
 Famously, Smith also writes a lot about how currency is an illusionary form of wealth, and how Spanish gold hordes (the main form of currency in his time) were masking an unproductive real economy. He also rails against the waste of labour in gold mines.
 
-  
+  ![](https://acximages.ennals.org/images/2023-book-reviews/1dc6b7f301496e48.png)
 
 I can understand why Smith considers some service sector jobs and landlords to be unproductive, but I’m not sure the Take That tribute act at your mums’ third wedding deserves the same indictment
 
@@ -209,6 +209,8 @@ Marx’s central argument is that organising work around capitalist institutions
 
 I can’t think of a catchy name for “work that’s only necessary if you live in a market economy”, maybe “changing” or “changers” after the money changers Jesus threw out of a temple. But I think this is the major theoretical discussion missing from Bullshit Jobs. “How much work do we need to do so we can do the actual work that needs doing?”
 
+![](https://acximages.ennals.org/images/2023-book-reviews/5daabef2a30c20d4.jpg)
+
 Marx isn’t suggesting you could remove these jobs entirely without causing harm, like you probably could for most of what Graeber considers BS work. Obviously getting rid of accountants and corporate law tomorrow would cause anarchy.
 
 Any economy needs organisation and these jobs provide that. But they provide it in a way specific to a certain mode of production, Marx’s argument is that other modes of production might be able to provide organisation more efficiently. i.e. that these jobs might only look productive in the near view.
@@ -233,11 +235,11 @@ In a chapter on Rusia’s transition to capitalism, The Commanding Heights, a bo
 
 Growth of US lawyers:
 
- 
+ ![](https://acximages.ennals.org/images/2023-book-reviews/46981ecde6bd637e.png)
 
 Commanding Heights also had a section about China developing a marketing sector after Deng Xiaoping’s reforms.
 
-[Leaked footage](https://www.google.com/url?q=https://www.youtube.com/watch?v%3DUgSORyrcHJo%26ab_channel%3DThatLook&sa=D&source=editors&ust=1770366050114449&usg=AOvVaw2PFITwgT8b3Ga4LQGF243d) from inside the growing [British marketing sector](https://www.google.com/url?q=https://www.youtube.com/watch?v%3Dkug7weZGiyc%26ab_channel%3DThatLook&sa=D&source=editors&ust=1770366050114612&usg=AOvVaw18_vl62_Hz3BX87nrCjsUg):
+[Leaked footage](https://www.youtube.com/watch?v=UgSORyrcHJo&ab_channel=ThatLook) from inside the growing [British marketing sector](https://www.youtube.com/watch?v=kug7weZGiyc&ab_channel=ThatLook):
 
 As well as in ex-communist countries, employment in changing jobs has also grown in the never-comunist-but-increasingly-market-oriented-since-the-70s-countires. When Britain or the US get referred to as having become service economies, most of those new service jobs are forms of changing.
 
@@ -245,7 +247,7 @@ Outside the UK, the cost of changing is perhaps most obvious in US healthcare. M
 
 You can make excuses for US healthcare like “it funds research”, “Americans have less healthy lifestyles” and “the wealthy pay for expensive but low cost treatments, whereas public healthcare allocates treatment in a way that optimises the population life expectancy.” All true, but 4x is a truly immense cost disparity that can’t all be explained circumstantially.
 
- 
+ ![](https://acximages.ennals.org/images/2023-book-reviews/85c4294f6d709625.png)
 
 Possibly a large part of the disparity is because US healthcare involves large numbers of workers not directly involved in providing healthcare.
 
@@ -255,15 +257,21 @@ Overall the market system looks much more bureaucratic than the more planned Eur
 
 If you think the UK has a housing market that’s comparably dysfunctional to the US healthcare market, well, there’s also a correspondingly large number of British changers working at selling, appraising and financing houses.
 
+![](https://acximages.ennals.org/images/2023-book-reviews/1963d751ba2dded3.png)
+
 In the last few decades British universities have transitioned from a more public model to a more private one, subsequently there has been an explosion of administration on campuses.
 
- 
+ ![](https://acximages.ennals.org/images/2023-book-reviews/27b1748079d1f411.png)
 
 There’s also large sections of the financial sector that serve dubious purposes.
 
 When banks issue home loans, for example, it has the effect of shifting the demand curve up, raising prices and forcing the marginal un-leveraged buyers to also take out a loan to reach the now higher prices, leading to higher prices and more debt, etc. etc., in a cycle that only benefits lenders.
 
 Since around the 1970s, the proportion of jobs in the service sector has grown rapidly and come to make up most of the economy in many Western countries.
+
+![](https://acximages.ennals.org/images/2023-book-reviews/5401c391448aa77b.png)
+
+![](https://acximages.ennals.org/images/2023-book-reviews/33b7a0fae7ca01dc.png)
 
 I don’t think Graeber would argue that every service sector job is BS, perhaps not even most of them, but there’s a stronger case to be made that the average service sector job is more BS than the average manufacturing one. And probably this growth in what’s effectively private sector bureaucracy has contributed to the perception that many jobs are BS.
 
@@ -282,6 +290,8 @@ Tyler Cowen suggests that in recent decades Western economies have suffered from
 ### VIII. Another Type of Bullshit Jobs I think Graeber Misses
 
 Another category of BS work I think Graeber misses is something I think of as “rickshaw-ing”.
+
+![](https://acximages.ennals.org/images/2023-book-reviews/5d7babd070e1bd1f.png)
 
 Rickshaws are a form of transport where one person pulls another person sitting in a chair on wheels, they were especially prevalent in East Asia prior to industrialisation.
 
@@ -329,7 +339,7 @@ One tantalizing possibility is that,if you accept that BS are predominantly in t
 
 You could imagine a strange future where large numbers of jobs are still pointless, but it doesn’t really matter since they’re being performed at minimal cost.
 
-A more worrying [possibility](https://www.google.com/url?q=https://thezvi.substack.com/p/escape-velocity-from-bullshit-jobs&sa=D&source=editors&ust=1770366050126716&usg=AOvVaw24Ki_CUWwC2L3BoH_ALFD1) is that, if BS jobs are widespread it implies that it’s difficult to curb the growth of pointless work, and the labour freed up by automation might just end up in make-work schemes.
+A more worrying [possibility](https://thezvi.substack.com/p/escape-velocity-from-bullshit-jobs) is that, if BS jobs are widespread it implies that it’s difficult to curb the growth of pointless work, and the labour freed up by automation might just end up in make-work schemes.
 
 ### X. Final Thoughts
 
@@ -357,6 +367,6 @@ I’d like bullshit jobs to be more widely discussed, and think they should be a
 
 I can accept that the 40 hour work week was part of the Faustian pact that allowed humanity to live indoors and past the age of 36. But I still find Bullshit Jobs implication, that it’s not easy to reduce the total time people spend working, quite discouraging. Even with consistent technological growth, a future full of pointless make-work looks entirely possible, maybe even likely.
 
-Hopefully Keynes’ great\-grandchildren can look forward to their promised 15 hour work-week.
+Hopefully Keynes’ great-grandchildren can look forward to their promised 15 hour work-week.
 
 * * *

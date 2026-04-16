@@ -7,7 +7,7 @@ contestName: 2024 Book Reviews
 year: 2024
 publishedDate: '2026-02-06T16:49:50.816Z'
 slug: the-treuhand
-wordCount: 5950
+wordCount: 5952
 readingTimeMinutes: 27
 originalUrl: >-
   https://docs.google.com/document/d/1Ki5XsE0jkxZtd2XAeyTAJw1ZjLh2Cu-matUYKAhA6-s
@@ -135,9 +135,13 @@ So what went wrong? And who is to be blamed?
 
 Böick is not interested in participating in this fun game because it’s too much economy/politics and too little history, but as the protests influenced the Treuhand, where many contemporaries placed the blame, he at least describes the different perspectives. To get at least some outside view, that is independent of those contemporary perspectives, we can have a look at some data.
 
-The per-capita GDP of other countries that transitioned around the same time as East Germany. If this plot seems kind of overwhelming, that is because it is. If you are really interested, you can have a closer look at them at the source, [Our World in Data](https://ourworldindata.org/economic-growth).
+![](https://acximages.ennals.org/images/2024-book-reviews/139509903b5047db.png)The per-capita GDP of other countries that transitioned around the same time as East Germany. If this plot seems kind of overwhelming, that is because it is. If you are really interested, you can have a closer look at them at the source, [Our World in Data](https://ourworldindata.org/economic-growth).
+
+![](https://acximages.ennals.org/images/2024-book-reviews/f3410ca0323096c1.png)
 
 The same data, averaged. The long stagnation in the mean during the 90s is a mix of some economies stagnating, but it also hides that some were still shrinking, while others were already growing. It is also partly an artifact of poorer countries gaining independence later.
+
+![](https://acximages.ennals.org/images/2024-book-reviews/4748bbbf324a22b9.png)
 
 The ratio of per-capita GDP in East and West Germany, during and after socialism, combining two different data sets for the pre and post-revolution era, respectively.[[46]](#ftnt46) You can see that the eastern economy quickly more than rebounded, but remains behind its western counterpart.
 

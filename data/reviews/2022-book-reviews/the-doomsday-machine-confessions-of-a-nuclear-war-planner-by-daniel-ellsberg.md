@@ -1,5 +1,5 @@
 ---
-title: "The Doomsday Machine: Confessions of a Nuclear War Planner\_by Daniel Ellsberg"
+title: 'The Doomsday Machine: Confessions of a Nuclear War Planner by Daniel Ellsberg'
 author: Unknown
 reviewAuthor: Anonymous
 contestId: 2022-book-reviews
@@ -254,7 +254,7 @@ General Curtis E. LeMay led the fire raid of Tokyo on March 9-10, 1945. This kil
 
 Was that LeMay’s reason? A push to make Japan surrender so that fewer Americans—and maybe even fewer Japanese—would die in the long run? Was Hansell’s judgment that it was ‘militarily unnecessary’ incorrect? Ellsberg doesn’t provide evidence one way or another, besides his previous implications that fire raids don’t break the will of the people enough to end wars.
 
-I believe Hansell was right: it wasn’t militarily necessary. According to [the Okinawa Prefectural Peace Memorial Museum](https://www.google.com/url?q=http://www.peace-museum.okinawa.jp/english/&sa=D&source=editors&ust=1770366145889259&usg=AOvVaw1chBPMBjFgSlTbqbCdTWh-), over 100,000 civilians, about one third of Okinawa’s civilian population, died in the Battle of Okinawa. That was in large part because the Japanese Imperial Military was indifferent towards protecting civilians—in fact, they used civilians as human shields, killed some themselves, and ordered many more to commit suicide (and gave them hand grenades to blow themselves up). The Japanese Imperial Military may have been more inclined to protect Japanese civilians than Okinawans, but overall, given how willing they were to kill civilians on their own side, targeting civilians seemed like an ineffective way of pushing them to surrender.
+I believe Hansell was right: it wasn’t militarily necessary. According to [the Okinawa Prefectural Peace Memorial Museum](http://www.peace-museum.okinawa.jp/english/), over 100,000 civilians, about one third of Okinawa’s civilian population, died in the Battle of Okinawa. That was in large part because the Japanese Imperial Military was indifferent towards protecting civilians—in fact, they used civilians as human shields, killed some themselves, and ordered many more to commit suicide (and gave them hand grenades to blow themselves up). The Japanese Imperial Military may have been more inclined to protect Japanese civilians than Okinawans, but overall, given how willing they were to kill civilians on their own side, targeting civilians seemed like an ineffective way of pushing them to surrender.
 
 Ellsberg interviewed John T. McNaughton, who had been General LeMay’s “weather officer” on the night of the raid. He told Ellsberg:
 
@@ -340,7 +340,7 @@ In other words, madmen aren’t the only ones who might commit omnicide. Normies
 
 Ellsberg says that we have widespread failure to grasp ‘moral reality.’ We are so caught up in our immediate goals, such as getting the budget for our branch of the military increased, pushing another nation to capitulate to our demands, defending our homeland’s honor, or refusing to admit we made a mistake, that we fail to step back and ask ourselves, ‘is this thing we’re about to do worth risking omnicide?’
 
-[One might call this the difference between soldier mindset and scout mindset.](https://www.google.com/url?q=https://astralcodexten.substack.com/p/book-review-the-scout-mindset&sa=D&source=editors&ust=1770366145905502&usg=AOvVaw3rLdp1AJF2DkXJgyEvFugj)
+[One might call this the difference between soldier mindset and scout mindset.](https://astralcodexten.substack.com/p/book-review-the-scout-mindset)
 
 The subtitle for this book is ‘Confessions of a Nuclear War Planner’ because Ellsberg himself failed at moral realism. In the 1950s, he was such a dedicated Cold Warrior that he didn’t step back and ask, ‘wait, would causing a nuclear war actually be better than surrendering to the Soviet Union and letting them take over the world?’
 
@@ -382,7 +382,7 @@ Maybe something in this book is so wildly inaccurate it knocks out the foundatio
 
 Choosing which details to include in this review was hard. Some things I didn’t mention at all feel important too. Heck, I omitted some things which got entire chapters. I wonder if I chose the wrong points.
 
-[This Amazon review](https://www.google.com/url?q=https://www.amazon.co.uk/gp/customer-reviews/R1BD1WCR47OA5L/ref%3Dcm_cr_dp_d_rvw_ttl?ie%3DUTF8%26ASIN%3D1408889285&sa=D&source=editors&ust=1770366145911039&usg=AOvVaw3pRUNNxqP0AK54evwL2OYI) says The Evolution of Nuclear Strategy by Lawrence Freedman and Command and Control by Eric Schlosser are better books on this topic. I haven’t read them. Maybe they are better.
+[This Amazon review](https://www.amazon.co.uk/gp/customer-reviews/R1BD1WCR47OA5L/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=1408889285) says The Evolution of Nuclear Strategy by Lawrence Freedman and Command and Control by Eric Schlosser are better books on this topic. I haven’t read them. Maybe they are better.
 
 I fear this review is inadequate.
 

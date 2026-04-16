@@ -7,7 +7,7 @@ contestName: 2024 Book Reviews
 year: 2024
 publishedDate: '2026-02-06T16:48:56.663Z'
 slug: sense-of-style-by-stephen-pinker
-wordCount: 3236
+wordCount: 3240
 readingTimeMinutes: 15
 originalUrl: >-
   https://docs.google.com/document/d/1GYQw3pgvhi7hqOVR-Ql629Q_8thbyHe8sSRy5voyt30
@@ -104,6 +104,8 @@ Does not try to argue, and instead should merely highlight facts about the world
 
 Is clear and straightforward. It avoids any form of jargon, and prefers simple words to complex ones.
 
+![](https://acximages.ennals.org/images/2024-book-reviews/b32e32a42bbc1829.png)
+
 Avoids 'really'. Avoid using some sort of qualifier in cases where you don't want to add a qualification to the scale. Saying 'Jim is an honest man' is very different than 'Jim is a very honest man'. Mark Twain had a quote that instead of writing 'very' anywhere, you should just write 'damn', and then let your editor remove it all.
 
 Avoids quotes. Avoid using 'scare quotes', it indicates that you aren't really comfortable using the language that you're using... so why are you using it in the first place? The three use cases where it can hold are when 1) you are literally quoting someone 2) you are referring to a word as a word 3) you are using the term but indicating your disagreement with it.
@@ -146,7 +148,7 @@ I had expected the section on grammar to be endlessly boring, but Pinker asks us
 
 When communicating, we start with a web of ideas. In our heads, there exists a loose web of words and concepts. You can think of it as a set of nodes with edges describing their relationships to one another.
 
-For Shakespeare's Oedipus Rex, your web might look something like this…
+For Shakespeare's Oedipus Rex, your web might look something like this…![](https://acximages.ennals.org/images/2024-book-reviews/729dc0fa18c9b077.png) 
 
 There's all manner of concepts in here, some of which are directly related to the play, and some of which connect to other concepts we might hold (now you know what Freud looks like).
 
@@ -159,6 +161,8 @@ Instead, we convey information via a string of words that comes from our mouth 
 Now the trouble occurs when the reader (or listener) then has to work backwards. They must fit that set of words into their own tree, and link the concepts in their own mind. This is syntax.
 
 Just as programming has abstract syntax trees for defining language, Pinker thinks of English as having its own set of syntax trees (shown in the diagram below).
+
+![](https://acximages.ennals.org/images/2024-book-reviews/1c5145c6724ad3d3.png)
 
 The best way to understand these diagrams is from the bottom-up. The english sentence is given in left-to-right form, and each word bubbles up into different phrases and clauses to create the whole.
 
@@ -183,6 +187,8 @@ The problem with this sentence is that it creates "too big of a stack", to quote
 
 If we chart the 'tree' here, we can better see where this sentence is going wrong
 
+![](https://acximages.ennals.org/images/2024-book-reviews/137ccfe4d66e41dd.png)
+
 Our first problem is that this sentence has too many deeply-nested structures. Looking at this tree, there is a ton of state we have to keep in our heads to understand what is going on.
 
 The primary subject of the sentence is "a third-rate Serbian military", and it is referred to after a lot of context: "the view that beating". Making things worse, the next clause –"for the third time in a decade... ...is brutally targeting civilians"–refers back to that same subject.
@@ -192,6 +198,8 @@ If we were to rewrite this problematic sentence, a better version might look lik
 For the third time in a decade, a third-rate Serbian military is brutally targeting civilians, but beating it is hardly worth the effort; this view is not based on a lack of understanding of what is occurring on the ground.
 
 It's not that much better (I still have trouble following it). But it does allow you to easily split up the clauses into separate pieces. These can be split as their own individual sentences, or omitted entirely.
+
+![](https://acximages.ennals.org/images/2024-book-reviews/8718a8738646cbcb.png)
 
 See how in the new structure starts with a simple prepositional phrase, and then immediately gets to the main subject of the sentence?
 

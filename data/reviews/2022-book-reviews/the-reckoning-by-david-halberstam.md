@@ -1,5 +1,5 @@
 ---
-title: "The Reckoning\_ by David Halberstam"
+title: The Reckoning by David Halberstam
 author: Unknown
 reviewAuthor: Anonymous
 contestId: 2022-book-reviews

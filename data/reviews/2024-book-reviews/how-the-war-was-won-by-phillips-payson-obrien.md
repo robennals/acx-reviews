@@ -7,7 +7,7 @@ contestName: 2024 Book Reviews
 year: 2024
 publishedDate: '2026-02-06T16:47:49.311Z'
 slug: how-the-war-was-won-by-phillips-payson-obrien
-wordCount: 5233
+wordCount: 5237
 readingTimeMinutes: 24
 originalUrl: >-
   https://docs.google.com/document/d/1QiotH3aGFgNLGqsIHTK_Plm_gem2E4l2C2ctyGJd0jY
@@ -70,7 +70,7 @@ In some limited cases, yes. Battlefield victory enabled Germany to overrun Franc
 
 In theory, the German army could destroy so much of the Soviet military in one battle (or even a few discrete battles) that the Soviets run out of men or weapons. If there was ever a time this could have happened, it would have been the German invasion of the Soviet Union in 1941, when the Germans basically won a series of crushing victories.
 
-The problem for the Germans was that by World War II, people in the combatant countries were good at building stuff in vast quantities, and the major combatants of World War II generally had access to sufficient natural resources. Even massive armies could not destroy produced weapons systems (e.g., tanks, airplanes) on the battlefield fast enough to remove the other side’s ability to continue fighting.What could (and did) happen was the destruction of the other side’s ability to produce and distribute weapons.
+The problem for the Germans was that by World War II, people in the combatant countries were good at building stuff in vast quantities, and the major combatants of World War II generally had access to sufficient natural resources. Even massive armies could not destroy produced weapons systems (e.g., tanks, airplanes) on the battlefield fast enough to remove the other side’s ability to continue fighting. What could (and did) happen was the destruction of the other side’s ability to produce and distribute weapons.
 
 Sure enough, if you look at the actual data from even the largest battles, neither side really destroys a hugely significant amount of stuff. Take the Battle of Kursk—the largest tank and air battle of World War II. Wikipedia will dazzle you with the numbers of soldiers involved (millions), tanks deployed (in the ballpark of 10,000), and aircraft in the sky (in the ballpark of 5,000).
 
@@ -97,7 +97,7 @@ For example, after the Allied air bombings started, Germany built vast undergrou
 
 *   The direct cost of building new factories in inconvenient places was very manpower intensive.  
     
-*   The oldfactories had been sited convenient to resource bases. The new factories were necessarily not near resource bases—they were in areas where one could dig out big new facilities.  
+*   The old factories had been sited convenient to resource bases. The new factories were necessarily not near resource bases—they were in areas where one could dig out big new facilities.  
       
     
 *   Railroads, by far the most efficient means of transportation, were set up to efficiently move goods to and from the old factories, not the new ones.  
@@ -106,6 +106,8 @@ For example, after the Allied air bombings started, Germany built vast undergrou
 *   Those factories had to be optimized for things like size and compactness, not efficiency and quality control. Aircraft frequently broke down on their way to the front lines. Once damaged, they could not be fixed on the front lines and were effectively useless.
 
 These effects ultimately mean fewer airplanes produced as the war went on, and dramatic increases in non-operational losses. Citing the German field marshal in charge of aircraft production, O’Brien assessed that the Germans lost approximately half of their planned fighter production in this way. This comports with post-war American assessments, which assessed total German aircraft losses at the front as 15,327 in 1944, and non-operational losses at approximately 15,000. For comparison: total German aircraft losses at Kursk were approximately 159(!)
+
+ ![](https://acximages.ennals.org/images/2024-book-reviews/df91eb60c3139dd8.png)
 
 Data from HtWWW, recreated to improve image quality
 
@@ -159,7 +161,9 @@ By 1945, the Japanese economy was so desperate for fuel that the government set 
 
 In the European theater, the Allies specifically targeted German coal-to-oil conversion plants and Romanian oil facilities, which became far less productive. Over the course of one year, 1944, the western Allies destroyed the German energy market, and with it the German economy writ large.
 
-Data from HtWWW, recreated to improve image quality.
+![](https://acximages.ennals.org/images/2024-book-reviews/5b1b11630f97254c.png)
+
+Data from HtWWW, recreated to improve image quality. 
 
 German oil shortages caused exactly the same training problem Japan had faced, with a slightly different but similarly disastrous outcome. Japanese training and production problems led to planes not arriving where they were supposed to in fighting condition (perhaps as few as 10% were actually combat capable when they arrived!) For Germany, training shortfalls meant annihilation for their air force as inexperienced pilots were forced to fight numerically and qualitatively superior American and British pilots. German monthly aircraft lost/damaged rates increased from 52.5% in January 1944 to 96.3% in June.
 

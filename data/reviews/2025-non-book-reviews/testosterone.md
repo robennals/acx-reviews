@@ -7,7 +7,7 @@ contestName: 2025 Non Book Reviews
 year: 2025
 publishedDate: '2026-02-06T16:55:59.394Z'
 slug: testosterone
-wordCount: 5388
+wordCount: 5400
 readingTimeMinutes: 24
 originalUrl: >-
   https://docs.google.com/document/d/1jYVJFIz5-aMi0LCgsC9AN6BncJDNVGaMU37QmwZ1vzA
@@ -37,7 +37,7 @@ Obviously, a lot of physical ones, and that’s why athletes use it - but there 
 
 1.  Significantly greater hypertrophy, improved oxygenation under load, and greater work capacity, and better physical recovery
 2.  Related to the above, greater baseline energy in day to day life.
-3.  Testosterone is actually a significant (and under-rated)[nootropic](https://gwern.net/nootropic/nootropics#testosterone) (gwern.net), and typically drives higher motivation, higher status seeking, and higher risk-taking, while also improving concentration and focus in many users.
+3.  Testosterone is actually a significant (and under-rated) [nootropic](https://gwern.net/nootropic/nootropics#testosterone) (gwern.net), and typically drives higher motivation, higher status seeking, and higher risk-taking, while also improving concentration and focus in many users.
 4.  Testosterone, especially for older men, drives greater joie de vivre and often helps them feel younger, more vital, and more engaged with life.
 5.  Testosterone increases libido, often significantly.
 
@@ -99,9 +99,11 @@ So given that supraphysiological doses are technically illegal, if quite common,
 
 (A) How about a 25 study Cochran, medline, embase meta analysis studying AAS use in athletes and looking at the side effects:
 
-Andrews, et al.[Physical Effects of Anabolic-androgenic Steroids in Healthy Exercising Adults: A Systematic Review and Meta-analysis](https://journals.lww.com/acsm-csmr/fulltext/2018/07000/physical_effects_of_anabolic_androgenic_steroids.5.aspx)(2018)
+Andrews, et al. [Physical Effects of Anabolic-androgenic Steroids in Healthy Exercising Adults: A Systematic Review and Meta-analysis](https://journals.lww.com/acsm-csmr/fulltext/2018/07000/physical_effects_of_anabolic_androgenic_steroids.5.aspx) (2018)
 
 Only 13/25 studies had negative effects at all, and the negative effects were all minor (and occurred about as often in the placebo groups) - they encompassed slightly changed LDL / HDL cholesterol levels, acne, and irritability:
+
+![](https://acximages.ennals.org/images/2025-non-book-reviews/c360a05dd90dd10a.jpg)
 
 This argues that as long as you stay away from orals, a dose of 300-600mg is actually quite safe in expectation, especially if you have no preexisting cholesterol, sugar, or blood pressure issues.
 
@@ -113,7 +115,7 @@ In terms of side effects:
 
 “Total cholesterol, plasma low-density lipoprotein cholesterol, and triglyceride levels did not change significantly at any dose. Serum PSA, creatinine, bilirubin, alanine aminotransferase, and alkaline phosphatase did not change significantly in any group, but aspartate aminotransferase decreased significantly in the 25-mg group. Two men in the 25-mg group, five in the 50-mg group, three in the 125-mg group, seven in the 300-mg group, and two in the 600-mg group developed acne. One man receiving the 50-mg dose reported decreased ability to achieve erections.”
 
-(C) Finally, the fun one - an actual RCT! Bhasin et al.[The effects of supraphysiologic doses of testosterone on muscle size and strength in normal men](https://pubmed.ncbi.nlm.nih.gov/8637535/) (1996):
+(C) Finally, the fun one - an actual RCT! Bhasin et al. [The effects of supraphysiologic doses of testosterone on muscle size and strength in normal men](https://pubmed.ncbi.nlm.nih.gov/8637535/) (1996):
 
 In this they’re giving 600mg of testosterone enanthate weekly over 10 weeks, splitting a population of 43 men from 19-40 years of age into four groups: placebo with no exercise, testosterone with no exercise, placebo plus exercise, and testosterone plus exercise.
 
@@ -137,7 +139,7 @@ They also noted no changes in anger or irritability in this group from the mood 
 
 So, this could be either a downside or an upside depending on where you are in life, but testosterone is actually a fairly effective male birth control (and has been studied as such).
 
-From Patel, et al.[Testosterone Is a Contraceptive and Should Not Be Used in Men Who Desire Fertility](https://pmc.ncbi.nlm.nih.gov/articles/PMC6305868/)(2018) - testosterone is a 60-98% effective male fertility suppressant:
+From Patel, et al. [Testosterone Is a Contraceptive and Should Not Be Used in Men Who Desire Fertility](https://pmc.ncbi.nlm.nih.gov/articles/PMC6305868/) (2018) - testosterone is a 60-98% effective male fertility suppressant:
 
 “[Two studies by the World Health Organization (WHO) Task Force on Methods for the Regulation of Male Fertility] found an azoospermia rate of 64% to 75% in 6 months with testosterone enanthate. A sperm concentration of 3 million/mL was used as a threshold for effective suppression of spermatogenesis in this study. In a Chinese study of a monthly intramuscular TU injection, an azoospermia rate of 93% to 98% was achieved after 6 months with 1 million/mL as the criteria for effective suppression”
 
@@ -148,6 +150,8 @@ From Patel, et al.[Testosterone Is a Contraceptive and Should Not Be Used in Men
 ### What is the answer if you’re worried about fertility?
 
 If you’re worried about fertility and want to preserve it while on T, the two ways to do so are by using HCG⁵ whenever you’re on anabolics (which ensures your endogenous production of testosterone never stops), or by cycling on and off for roughly equal 10-12 week time blocks and doing Post Cycle Therapy (PCT), where you take tamoxifen or clomid for several weeks to restart your HPG axis (this is typically done at “steroid level” doses and is called “blasting and cruising.”)
+
+![](https://acximages.ennals.org/images/2025-non-book-reviews/8fe5fdfb26c7b805.jpg)
 
 “Dr. Scully’s PCT Protocol: Human chorionic gonadotropin (hCG) is taken at 2000IU every other day for 20 days. Clomiphene citrate 50 mg is taken twice per day for 30 days. Tamoxifen citrate is taken 20 mg twice per day for 45 days.”
 
@@ -305,7 +309,7 @@ A big part of my argument is that the downsides are minimal, measurable, and mit
 
 #### What to monitor?
 
-Did you know there’s a[ton](https://www.privatemdlabs.com/) of[websites](https://www.labsmd.com/) where you can just order labs yourself, without needing a doctor?  What labs or self-monitoring would you need to do to monitor your sides?
+Did you know there’s a [ton](https://www.privatemdlabs.com/) of [websites](https://www.labsmd.com/) where you can just order labs yourself, without needing a doctor?  What labs or self-monitoring would you need to do to monitor your sides?
 
 1.  HDL and LDL (labs, 2x annually to keep an eye on your cholesterol and lipids)
 2.  CBC - blood chemistry labs, with hematocrit, RBC, neutrophils, that lets you keep track of excess red blood cells and a few immune measures. (2x annually)
@@ -334,6 +338,8 @@ Doing testosterone (TRT or higher) over a long enough period does suppress your 
 
 Generally with no further interventions, your body will recover over a couple of months:
 
+![](https://acximages.ennals.org/images/2025-non-book-reviews/cb4ef0fbd0e295d7.jpg)
+
 Alternatively, you can do Post Cycle Therapy using clomid or nolvadex, and shorten this to 1-1.5 months (you can find a PCT protocol in the fertility section).
 
 Finally, if you’ve been doing HCG (to preserve fertility, for example), your endogenous production should not have stopped to begin with, and you’ll be back at your normal testosterone levels after 2-4 weeks (testosterone enanthate has a ~8 day half life).
@@ -354,7 +360,7 @@ The downsides are measurable and mitigatable, and the potential upsides are imme
 
 As seen in things like this (relatively scaremongering, IMO) survey of AAS possible side effects:
 
-Modlinski et al.[The Effect of Anabolic Steroids on the Gastrointestinal System, Kidneys, and Adrenal Glands](https://journals.lww.com/acsm-csmr/fulltext/2006/04000/the_effect_of_anabolic_steroids_on_the.10.aspx) (2006)
+Modlinski et al. [The Effect of Anabolic Steroids on the Gastrointestinal System, Kidneys, and Adrenal Glands](https://journals.lww.com/acsm-csmr/fulltext/2006/04000/the_effect_of_anabolic_steroids_on_the.10.aspx) (2006)
 
 The kidney and liver problems are always driven by orals. Tumors, mostly benign (likely a result of mTor up regulation, this is why you take breaks and/or use rapamycin every other week). The really bad long tail effects like this are based on 1 or 2 single-person case studies. But the global lifetime gear use worldwide is 6.5%, which argues in the west it’s probably 10-15%. So these side effects are super rare empirically and probably down to particular idiosyncratic things in those individual’s biology.
 

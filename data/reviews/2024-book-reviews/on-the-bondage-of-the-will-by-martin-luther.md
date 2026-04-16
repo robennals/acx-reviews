@@ -7,7 +7,7 @@ contestName: 2024 Book Reviews
 year: 2024
 publishedDate: '2026-02-06T16:48:20.712Z'
 slug: on-the-bondage-of-the-will-by-martin-luther
-wordCount: 10041
+wordCount: 10045
 readingTimeMinutes: 45
 originalUrl: >-
   https://docs.google.com/document/d/1cp6iw5OEyDjnD_viZo-KL0Zv4jwQnMXtE4yIovfVAco
@@ -24,7 +24,7 @@ Today, I will be weighing in with my hot takes on a five hundred year old theolo
 
 ## Background
 
-### Desiderius Erasmus
+### Desiderius Erasmus![](https://acximages.ennals.org/images/2024-book-reviews/0b724a0060291aef.png)
 
 An Intellectual titan of the Renaissance, Erasmus of Rotterdam, one of the most learned men of his or any other age, still possesses the power to shock us from our lethargy and to focus the mind’s eye on truth.  
 – Professor John P. Dolan[[254]](#ftnt254)
@@ -39,7 +39,7 @@ From a very young age, Erasmus would receive a religious education, mostly from 
 
 Erasmus was a leading member of the Renaissance Humanist movement, which was composed of Catholic scholars who called for reform of the Catholic Church’s doctrines and practices and a restructuring of education away from the medieval “Scholastic” model which focused on rote memorization, formal logic, and close analysis of long-standing authoritative texts. Humanism also produced a number of new ideas in theology and political and moral philosophy, mostly on the basis of applying the moral teachings of Christianity (supplemented by compatible selections from pre-Christian Greek and Roman philosophy) to the practical problems of how to live your life and how to organize society. The Rationalist principle of “making your beliefs pay rent”, for instance, would probably have resonated strongly with most Renaissance Humanists.
 
-### Martin Luther
+### Martin Luther![](https://acximages.ennals.org/images/2024-book-reviews/d561c38a1ae088e4.png)
 
 There are a number of similarities between Luther’s biography and that of Erasmus. Like Erasmus, Luther was born into relatively humble circumstances in north-central Europe, studied as a child under the Brethren of the Common Life, pursued university education, took monastic orders with the Augustinian Friars, and became in his own way one of Europe’s most influential theologians[[259]](#ftnt259). But in the details, their biographies rapidly diverge.
 
@@ -47,9 +47,11 @@ Luther was 17 years younger than Erasmus, making him 42 years when he wrote Bond
 
 Luther promptly followed through on his resolution, taking orders the same year (1505) and not long thereafter began to work on surpassing Erasmus as the world’s least obedient monk. Where Erasmus’s chief difficulty was a preference for the life of a public intellectual living and working among high society, Luther’s was a sense that his monastic peers didn’t take the whole thing seriously enough[[263]](#ftnt263). Nevertheless, Luther excelled in his studies of theology, and his monastery loaned out his services as a university lecture on a number of related subjects. They also made use of Luther’s keen argumentative talents and his partial legal education, sending him in 1510 to Rome as part of a delegation to argue a jurisdictional dispute that was being appealed to the curia. In 1511, the monastery allowed Luther to transfer permanently to the University of Wittenberg, where he took a doctorate in 1512 and in 1513 became a full professor of Moral Theology. It was in this capacity that Luther began developing his heterodox theological view in earnest.
 
+![](https://acximages.ennals.org/images/2024-book-reviews/2a4cdef55297ed0e.png)
+
 In 1517, Luther decided to weigh in on an ongoing political and theological debate over the practice of selling indulgences. An indulgence is a blessing by the church (usually in the form of a written document) which pays off part or all of the debt to God incurred by a penitent’s sins[[264]](#ftnt264). This blessing might be given in return for any of a number of meritorious acts, including pilgrimage, joining a crusade, or charity. By the Renaissance period, it was becoming increasingly common to allow penitents to pay off their sins by making a donation to the church, on the theory that by donating they were facilitating Good Works performed by the clergy[[265]](#ftnt265). In 1515, Pope Leo X began a particularly aggressive marketing campaign for indulgences that were being sold to pay for the construction of St. Peter’s Basilica, and met considerable pushback both from theologians who felt that the marketing was overselling the spiritual benefits to the neglect of the importance of confession and repentance, and to secular political leaders who objected to the Pope vacuuming spare cash out of the local economy. A number of places, including Wittenberg, went so far as to ban the sale of indulgences within their jurisdictions.
 
-Luther joined the debate firstly by objecting in his lectures and complaining privately to the local Archbishop, and then much more publicly with the equivalent of a viral tweet-storm. It was customary at the University of Wittenberg to make announcements by nailing fliers to the main doors of the church where everyone would see them. One genre of fliers was announcements for one-off lectures and debates, and Luther’s post fit the form of the latter, inviting other local scholars to debate him on his objections to the indulgence-selling campaign and to the general practice of indulgence-selling. In nominal keeping with the format, Luther’s flier consisted mainly of a list of short thesis statements to be debated. However, like a tweet storm, he abused the format by stringing together an unreasonable number of theses (95 in this case) to form something more like a full-blown essay. Luther’s objections evidently struck a chord, as instead of a semi-private academic debate, it resulted in like-minded people having copies of the 95 Theses printed up and distributed widely, both in the original Latin and in German translation. A number of other essays and pamphlets were published, both attacking and defending Luther’s position.
+Luther joined the debate firstly by objecting in his lectures and complaining privately to the local Archbishop, and then much more publicly with the equivalent of a viral tweet-storm. It was customary at the University of Wittenberg to make announcements by nailing fliers to the main doors of the church where everyone would see them. One genre of fliers was announcements for one-off lectures and debates, and Luther’s post fit the form of the latter, inviting other local scholars to debate him on his objections to the indulgence-selling campaign and to the general practice of indulgence-selling. In nominal keeping with the format, Luther’s flier consisted mainly of a list of short thesis statements to be debated. However, like a tweet storm, he abused the format by stringing together an unreasonable number of theses (95 in this case) to form something more like a full-blown essay. Luther’s objections evidently struck a chord, as instead of a semi-private academic debate, it resulted in like-minded people having copies of the 95 Theses printed up and distributed widely, both in the original Latin and in German translation. A number of other essays and pamphlets were published, both attacking and defending Luther’s position.![](https://acximages.ennals.org/images/2024-book-reviews/6925035555ca8577.png)
 
 In the Theses, Luther confined his attack to the indulgence marketing material and Johann Tetzel, the Dominican friar in charge of the effort to market and distribute the indulgences. Luther employed a form of the classic fiction of rebels declaring their intention of “rescuing the king from evil councilors”, positing in his Theses that the Pope was ignorant of Tetzel’s actions and errors and would have been appalled had he known. As the heat of the “Pamphlet War” intensified, the Pope called Luther to discuss the matter privately with a Papal legate in Germany, which failed to produce an agreement. Luther instead called for a general Church council to decide the matter and gathered enough support that he wound up being summoned to appear before the Diet of Worms[[266]](#ftnt266) in 1521. By this point, the debate had become as much about a three-way political struggle between the North German princes and free cities, the Holy Roman Emperor, and the Papacy, as it was about theology.
 
@@ -197,6 +199,8 @@ Even if you can’t understand the words of the scripture, Luther avers, it rema
 
 All the things, therefore, contained in the Scriptures; are made manifest, although some places, from the words not being understood, are yet obscure. But to know that all things in the Scriptures are set in the clearest light, and then, because a few words are obscure, to report that the things are obscure, is absurd and impious.
 
+![](https://acximages.ennals.org/images/2024-book-reviews/4553e6b960453683.png)
+
 Martin Luther would probably see this scene not as humor but as literal truth
 
 For those who, like Erasmus, see the scriptures as obscure, Luther places the fault entirely with the readers, for any obscurity is the result of their unclear hearts and willful blindness.
@@ -241,7 +245,7 @@ The pro-wingers read the second half of the passage as definitively stating that
 
 Fortunately, we have the technology to settle the question of Balrog Wings definitively, or at least to introduce a fresh round of controversy to a question that has long since become tiresome. I have compiled a prompt based on all of Tolkien’s descriptions of Durin’s Bane in Fellowship of the Ring as well as from early drafts thereof[[289]](#ftnt289), and fed it to an image generation AI.
 
-## 
+## ![](https://acximages.ennals.org/images/2024-book-reviews/f67497a586a64b1a.png)
 
 This is the ideal Balrog body. You may not like it, but this is what peak performance looks like.
 
@@ -311,6 +315,8 @@ One thing that really struck me when reading both sides of the debate together i
 
 The real meat of the disagreements between Luther and Erasmus lies in the questions of the authority of the Church for interpretation vs reliance on the scriptures alone, of the total depravity of human nature, and of redemption through faith alone vs Erasmus’s conventional Catholic views that faith must be carried forth into the world in the form of Good Works in order to be meaningful.[[292]](#ftnt292) These questions encompass three core Protestant doctrines and touch on most of the others, and the rejection of the Catholic positions on these questions provides most of the justification for completely rejecting the Renaissance Catholic Church as an institution, as Luther and his supporter would do, rather than reforming its worst excesses as Erasmus and other Humanists had been urging.
 
+![](https://acximages.ennals.org/images/2024-book-reviews/9428cb02844a976a.png)
+
 One last thing that struck me in preparing this review is just how much modern political and cultural debate is rhyming with the Protestant Reformation in general and the Freedom/Bondage debate in particular. Now as then, new communications technology[[293]](#ftnt293) has eroded traditional bottlenecks and allowed arguments that were previously beyond the pale to gain traction. Some of the new dissenters are engaging in hateful and destructive nonsense, some are speaking truth to power and highlighting real abuses and injustices, and some are doing both at once. And much of the ground being fought over is familiar, as are the tactics used, particularly the questions of trusting authority vs grassroots iconoclasm, and the use of sick burns as a major rhetorical device.
 
 ## References
@@ -329,7 +335,7 @@ One last thing that struck me in preparing this review is just how much modern p
 10.  The Truth about Balrogs, Volume 6, by Conrad Dunkerson
 11.  The Fellowship of the Ring, by J.R.R. Tolkien, 1954
 12.  History of Middle Earth, Volume 7: The Treason of Isengard, edited by Christopher Tolkien, 1989.
-13.  God’s Dice are Loaded: Assertions and Criticisms on God, Man, and Salvation, by [redacted], 2003.
+13.  God’s Dice are Loaded: Assertions and Criticisms on God, Man, and Salvation, by [redacted], 2003. 
 14.  A bunch of Wikipedia articles
 
 1.  Martin Luther

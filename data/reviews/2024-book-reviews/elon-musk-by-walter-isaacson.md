@@ -7,7 +7,7 @@ contestName: 2024 Book Reviews
 year: 2024
 publishedDate: '2026-02-06T16:47:49.303Z'
 slug: elon-musk-by-walter-isaacson
-wordCount: 3560
+wordCount: 3561
 readingTimeMinutes: 16
 originalUrl: >-
   https://docs.google.com/document/d/1QiotH3aGFgNLGqsIHTK_Plm_gem2E4l2C2ctyGJd0jY
@@ -41,7 +41,7 @@ An overarching message that shines through is that, adore Musk or despise him, p
 
 Unlike many other journalists who write about Musk derisively in passing, Isaacson actually talked frequently and candidly with the man himself, as well as with many of those closest to him. Isaacson also observed Musk in action, observations woven throughout the narrative. It’s the kind of comprehensive access that few disinterested biographers ever attain.
 
-Contrast that approach with what Crawford Kilian of [The Tyee](https://thetyee.ca/Culture/2024/02/26/Set-Maximum-Wage-Rich/)wrote recently. Kilian confidently predicted that billionaire Musk wouldn’t be able to survive on a desert island.
+Contrast that approach with what Crawford Kilian of [The Tyee](https://thetyee.ca/Culture/2024/02/26/Set-Maximum-Wage-Rich/) wrote recently. Kilian confidently predicted that billionaire Musk wouldn’t be able to survive on a desert island.
 
 The Tyee columnist was imagining Musk as the hapless scion Thurston Howell III on Gilligan’s Island and not Musk as the engineer that he is. Musk more resembles the Professor — except Musk would figure out how to build a craft to escape the island. Born and raised in South Africa, Musk attended that country’s notorious [veldskool](https://mybroadband.co.za/news/trending/507482-elon-musks-violent-south-african-childhood.html), a wilderness survival camp, in his youth. It’s like Outward Bound or Katimavik — if those programs expected participants to die on occasion. So, yeah, Musk would probably survive just fine on a desert island.
 
