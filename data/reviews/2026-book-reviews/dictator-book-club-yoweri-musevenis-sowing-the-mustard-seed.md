@@ -16,7 +16,7 @@ tags:
   - Memoir
 ---
 
-# Dictator Book Club: Yoweri Museveni’s _Sowing The Mustard Seed_
+# Dictator Book Club: Yoweri Museveni’s Sowing The Mustard Seed
 
 When you land in Entebbe[[1]](#ftnt1), the first face you see is Yoweri Museveni’s. He’s everywhere, smiling down on you, beatific under his wide-brimmed almost-cowboy hat. His yellow campaign placards are plastered on every surface, thirty or forty in a row sometimes. After seven days in the country and about 800 miles on the road, I’d estimate that ~20% of the country’s total billboard stock is dedicated to the same poster, which seems like overkill. The slogan is “Yoweri Museveni: Protecting the Gains.” It’s not entirely clear what “the gains” are. (“His own gains!” Our driver snorted). One of my fellow travellers stole a poster to hang up in their home gym, thinking of a different kind of gainz, I suppose.
 

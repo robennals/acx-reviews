@@ -16,7 +16,7 @@ tags:
   - Philosophy
 ---
 
-## **The ABCs of Criticism in Thomas Pynchon’s** _**Bleeding Edge**_
+## The ABCs of Criticism in Thomas Pynchon’s Bleeding Edge
 
 My biggest critical weakness has always been allusion containment, or the inability to resist the connection. Hardly can I see Pennywise anymore without thinking of the white whale, the relationship between Joel and Ellie in _The Last of Us_ is the relationship between me and my papa, and whenever a character is praised as complex or to die for, I think of Shakespeare’s diverse cast of stars. Even when I pin my argument down in an essay and focus on something important in my life, whether grief or love or how to be a better man, the universal connections still fire away, and I often find myself, like in those conversations with the deepest friends who haven’t seen each other in a while, moving from topic to topic in brilliant, but maybe too bright, flashes. These are the 1.21 gigawatt moments of realization where truth backs truth, resulting in awe.
 

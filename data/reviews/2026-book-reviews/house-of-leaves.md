@@ -61,7 +61,7 @@ It is indeed ridiculous. Not in a sense of unrealistic, or badly written, but am
 
 And what was that about in-universe parody? Could the narrators in this book be so unreliable? Well, let me introduce you to someone.
 
-## _That_ Guy
+## That Guy
 
 The third layer is the story of Johnny Truant, as told by Johnny Truant. He is supposed to be editing the manuscript, but he took the opportunity to wax poetically about his (mis)adventures in the footnotes. How is that possible, you might be asking. Wouldn’t that make the footnotes impossibly long, a reasonable person wonders.
 

@@ -103,8 +103,9 @@ function applySemanticTags($: CheerioAPI, styles: GDocStyleMap): void {
       const classes = (el.attr('class') || '').split(/\s+/);
       const isBold = classes.some(c => styles.boldClasses.has(c));
       if (isBold && el.text().trim()) {
-        // Don't double-wrap if already inside <strong> or <b>
-        if (!el.closest('strong, b').length) {
+        // Don't double-wrap if already inside <strong> or <b>.
+        // Don't wrap inside headings — they're already prominent.
+        if (!el.closest('strong, b, h1, h2, h3, h4, h5, h6').length) {
           el.wrapInner('<strong></strong>');
         }
       }
@@ -118,7 +119,7 @@ function applySemanticTags($: CheerioAPI, styles: GDocStyleMap): void {
       const classes = (el.attr('class') || '').split(/\s+/);
       const isItalic = classes.some(c => styles.italicClasses.has(c));
       if (isItalic && el.text().trim()) {
-        if (!el.closest('em, i').length) {
+        if (!el.closest('em, i, h1, h2, h3, h4, h5, h6').length) {
           el.wrapInner('<em></em>');
         }
       }

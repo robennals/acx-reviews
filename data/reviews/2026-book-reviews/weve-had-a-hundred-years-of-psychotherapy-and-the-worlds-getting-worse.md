@@ -16,7 +16,7 @@ tags:
   - Society
 ---
 
-# **We've Had 133 Years of Psychotherapy and the World is Getting Worse**
+# We've Had 133 Years of Psychotherapy and the World is Getting Worse
 
 It happens every day in my psychotherapy office. A client comes in and complains about the state of the world. The climate is heating up, politics has dissolved into name-calling, madmen with mad weapons threaten extinction. It's almost as if they're asking me to do something about it. It's almost as if they've been reading James Hillmann and Michael Ventura's book, "[We've Had a Hundred Years of Psychotherapy and the World's Getting Worse](https://s3.us-west-1.wasabisys.com/luminist/EB/H/Hillman%20&%20Ventura%20-%20One%20Hundred%20Years%20Psychotherapy.pdf)."
 
