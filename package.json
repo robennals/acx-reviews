@@ -10,6 +10,7 @@
     "test": "playwright test",
     "test:ui": "playwright test --ui",
     "test:headed": "playwright test --headed",
+    "test:unit": "tsx --test lib/*.test.ts",
     "fetch-gdocs": "NODE_OPTIONS='--max-old-space-size=8192' tsx scripts/fetch-from-gdocs.ts",
     "fetch-acx": "tsx scripts/fetch-from-acx.ts",
     "generate-index": "tsx scripts/generate-index.ts",
@@ -17,6 +18,7 @@
   },
   "dependencies": {
     "@aws-sdk/client-s3": "^3.1030.0",
+    "@radix-ui/react-dialog": "^1.1.15",
     "class-variance-authority": "^0.7.1",
     "clsx": "^2.1.1",
     "date-fns": "^4.1.0",
@@ -29,7 +31,8 @@
     "remark": "^15.0.1",
     "remark-gfm": "^4.0.0",
     "remark-html": "^16.0.1",
-    "tailwind-merge": "^2.6.0"
+    "tailwind-merge": "^2.6.0",
+    "vaul": "^1.1.2"
   },
   "devDependencies": {
     "@playwright/test": "^1.58.1",
