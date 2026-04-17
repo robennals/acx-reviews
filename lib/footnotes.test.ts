@@ -106,3 +106,33 @@ test('ftnt: multiple footnotes ordered by reference position', () => {
   assert.equal(result.footnotes[0].raw, 'Note one.');
   assert.equal(result.footnotes[1].raw, 'Note two.');
 });
+
+test('fn: extracts from ## Footnotes ordered list with fnref back-links', () => {
+  const input = [
+    'Some text.[1](https://example.com/p/x#fn:alpha) More.[2](https://example.com/p/x#fn:beta) End.',
+    '',
+    '## Footnotes',
+    '',
+    '1.  First note. [↩](https://example.com/p/x#fnref:alpha)',
+    '',
+    '2.  Second note. [↩](https://example.com/p/x#fnref:beta)',
+    '',
+  ].join('\n');
+
+  const result = extractFootnotes(input);
+
+  assert.ok(
+    result.body.includes('<sup class="fn-ref" data-fn-id="1" id="fn-ref-1">[1]</sup>'),
+    'body has marker 1'
+  );
+  assert.ok(
+    result.body.includes('<sup class="fn-ref" data-fn-id="2" id="fn-ref-2">[2]</sup>'),
+    'body has marker 2'
+  );
+  assert.ok(!result.body.includes('## Footnotes'), 'Footnotes heading removed');
+  assert.ok(!result.body.includes('#fnref:alpha'), 'back-link removed');
+  assert.deepEqual(result.footnotes.map(f => f.id), ['1', '2']);
+  assert.ok(result.footnotes[0].raw.includes('First note.'));
+  assert.ok(!result.footnotes[0].raw.includes('↩'));
+  assert.ok(result.footnotes[1].raw.includes('Second note.'));
+});

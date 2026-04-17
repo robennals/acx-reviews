@@ -170,6 +170,78 @@ function extractFtnt(md: string): ExtractedFootnotes {
   return { body, footnotes };
 }
 
+function extractFn(md: string): ExtractedFootnotes {
+  // Locate and strip the trailing `## Footnotes` section
+  const footnotesHeadingMatch = /^##[ \t]+Footnotes[ \t]*$/m.exec(md);
+  const defsByName = new Map<string, string>();
+  let body = md;
+
+  if (footnotesHeadingMatch) {
+    const sectionStart = footnotesHeadingMatch.index;
+    const section = md.slice(sectionStart);
+    const items: string[] = [];
+    const lines = section.split('\n').slice(1); // drop heading
+    let current: string[] = [];
+    let inItem = false;
+    for (const line of lines) {
+      if (/^\d+\.[ \t]+/.test(line)) {
+        if (inItem) items.push(current.join('\n'));
+        current = [line];
+        inItem = true;
+      } else if (inItem) {
+        current.push(line);
+      }
+    }
+    if (inItem) items.push(current.join('\n'));
+
+    for (const item of items) {
+      // Strip the leading "N.  " bullet
+      const withoutBullet = item.replace(/^\d+\.[ \t]+/, '');
+      // Find back-link: capture its `fnref:name` and remove the whole `[↩](...#fnref:NAME)`
+      const backRefMatch = /\[↩\]\(https?:\/\/[^)]*#fnref:([^)]+)\)/.exec(withoutBullet);
+      if (!backRefMatch) continue;
+      const name = backRefMatch[1];
+      const cleaned = withoutBullet.replace(backRefMatch[0], '').trim();
+      defsByName.set(name, cleaned);
+    }
+
+    body = md.slice(0, sectionStart).replace(/\s+$/g, '') + '\n';
+  }
+
+  // Replace in-text refs. The number in `[N]` is authoritative; the name is the key.
+  const firstSeenById = new Set<string>();
+  body = body.replace(
+    /\[(\d+)\]\(https?:\/\/[^)]*#fn:([^)]+)\)/g,
+    (_full, id: string) => {
+      const first = !firstSeenById.has(id);
+      firstSeenById.add(id);
+      return REF_MARKER(id, first);
+    }
+  );
+
+  // Build ordered footnotes by body-appearance id, looking up raw by name.
+  // Re-walk the original md's ref order (id+name).
+  const idToName = new Map<string, string>();
+  const reScan = /\[(\d+)\]\(https?:\/\/[^)]*#fn:([^)]+)\)/g;
+  let r: RegExpExecArray | null;
+  while ((r = reScan.exec(md)) !== null) {
+    if (!idToName.has(r[1])) idToName.set(r[1], r[2]);
+  }
+
+  const footnotes: ExtractedFootnote[] = [];
+  const addedIds = new Set<string>();
+  for (const [id, name] of idToName) {
+    if (addedIds.has(id)) continue;
+    const raw = defsByName.get(name);
+    if (raw === undefined) continue;
+    footnotes.push({ id, raw });
+    addedIds.add(id);
+  }
+
+  body = body.replace(/\n{3,}$/g, '\n\n').replace(/\s+$/g, '') + '\n';
+  return { body, footnotes };
+}
+
 export function extractFootnotes(markdown: string): ExtractedFootnotes {
   const format = detectFormat(markdown);
   switch (format) {
@@ -177,6 +249,8 @@ export function extractFootnotes(markdown: string): ExtractedFootnotes {
       return extractSdfootnote(markdown);
     case 'ftnt':
       return extractFtnt(markdown);
+    case 'fn':
+      return extractFn(markdown);
     default:
       return { body: markdown, footnotes: [] };
   }
