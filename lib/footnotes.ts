@@ -16,8 +16,18 @@ const REF_MARKER = (id: string, first: boolean) =>
     : `<sup class="fn-ref" data-fn-id="${id}">[${id}]</sup>`;
 
 function detectFormat(md: string): Format {
-  if (/\[\d+\]\(#sdfootnote\d+sym\)/.test(md)) return 'sdfootnote';
-  if (/\[\[\d+\]\]\(#ftnt\d+\)/.test(md)) return 'ftnt';
+  if (
+    /\[\d+\]\(#sdfootnote\d+sym\)/.test(md) ||
+    /^\[\d+\]\(#sdfootnote\d+anc\)/m.test(md)
+  ) {
+    return 'sdfootnote';
+  }
+  if (
+    /\[\[\d+\]\]\(#ftnt\d+\)/.test(md) ||
+    /^\[\[\d+\]\]\(#ftntref\d+\)/m.test(md)
+  ) {
+    return 'ftnt';
+  }
   if (/\[\d+\]\(https?:\/\/[^)]*#fn:[^)]+\)/.test(md)) return 'fn';
   // Plain: a trailing block of `[N] content` lines at end of document
   const lines = md.split('\n');
@@ -64,9 +74,10 @@ function extractSdfootnote(md: string): ExtractedFootnotes {
     body = body.slice(0, start) + body.slice(end);
   }
 
-  // Replace in-text references (first occurrence of each id gets id attribute)
+  // Replace in-text references — only those with a matching def. Orphans pass through.
   const seen = new Set<string>();
-  body = body.replace(/\[(\d+)\]\(#sdfootnote\d+sym\)/g, (_m, id: string) => {
+  body = body.replace(/\[(\d+)\]\(#sdfootnote\d+sym\)/g, (full, id: string) => {
+    if (!defs.has(id)) return full;
     const first = !seen.has(id);
     seen.add(id);
     return REF_MARKER(id, first);
@@ -89,19 +100,15 @@ function extractSdfootnote(md: string): ExtractedFootnotes {
   for (const id of orderedIds) {
     const lines = defs.get(id);
     if (!lines) continue;
-    const raw = lines.join('\n').trim();
-    footnotes.push({ id, raw });
+    footnotes.push({ id, raw: lines.join('\n').trim() });
   }
-  // Also include any defs that had no matching ref (appended at end in def order)
   for (const [id, lines] of defs) {
     if (!orderSeen.has(id)) {
       footnotes.push({ id, raw: lines.join('\n').trim() });
     }
   }
 
-  // Trim trailing blank lines left behind
   body = body.replace(/\n{3,}$/g, '\n\n').replace(/\s+$/g, '') + '\n';
-
   return { body, footnotes };
 }
 
@@ -139,7 +146,8 @@ function extractFtnt(md: string): ExtractedFootnotes {
   }
 
   const seen = new Set<string>();
-  body = body.replace(/\[\[(\d+)\]\]\(#ftnt\d+\)/g, (_m, id: string) => {
+  body = body.replace(/\[\[(\d+)\]\]\(#ftnt\d+\)/g, (full, id: string) => {
+    if (!defs.has(id)) return full;
     const first = !seen.has(id);
     seen.add(id);
     return REF_MARKER(id, first);
@@ -198,9 +206,7 @@ function extractFn(md: string): ExtractedFootnotes {
     if (inItem) items.push(current.join('\n'));
 
     for (const item of items) {
-      // Strip the leading "N.  " bullet
       const withoutBullet = item.replace(/^\d+\.[ \t]+/, '');
-      // Find back-link: capture its `fnref:name` and remove the whole `[↩](...#fnref:NAME)`
       const backRefMatch = /\[↩\]\(https?:\/\/[^)]*#fnref:([^)]+)\)/.exec(withoutBullet);
       if (!backRefMatch) continue;
       const name = backRefMatch[1];
@@ -211,7 +217,6 @@ function extractFn(md: string): ExtractedFootnotes {
     body = md.slice(0, sectionStart).replace(/\s+$/g, '') + '\n';
   }
 
-  // Replace in-text refs. The number in `[N]` is authoritative; the name is the key.
   const firstSeenById = new Set<string>();
   body = body.replace(
     /\[(\d+)\]\(https?:\/\/[^)]*#fn:([^)]+)\)/g,
@@ -222,8 +227,6 @@ function extractFn(md: string): ExtractedFootnotes {
     }
   );
 
-  // Build ordered footnotes by body-appearance id, looking up raw by name.
-  // Re-walk the original md's ref order (id+name).
   const idToName = new Map<string, string>();
   const reScan = /\[(\d+)\]\(https?:\/\/[^)]*#fn:([^)]+)\)/g;
   let r: RegExpExecArray | null;
@@ -246,13 +249,10 @@ function extractFn(md: string): ExtractedFootnotes {
 }
 
 function extractPlain(md: string): ExtractedFootnotes {
-  // Definitions are trailing lines matching `^\[N\] content$`, forming a contiguous block
-  // at the end of the document (allowing blank lines before the block).
   const lines = md.split('\n');
   const defs: Array<{ id: string; content: string }> = [];
 
   let i = lines.length - 1;
-  // Skip trailing blank lines
   while (i >= 0 && lines[i].trim() === '') i--;
 
   const defIndices: number[] = [];
@@ -275,14 +275,12 @@ function extractPlain(md: string): ExtractedFootnotes {
   const defById = new Map<string, string>();
   for (const d of defs) defById.set(d.id, d.content);
 
-  // Replace in-text [N] references (standalone, not inside markdown links) for ids that
-  // have a matching def. Negative lookahead/lookbehind avoid rewriting links like [1](url) or [[1]](url).
   const seen = new Set<string>();
   const idsRegex = Array.from(defById.keys()).join('|');
   const bodyWithMarkers = body.replace(
     new RegExp(`(?<!\\[)\\[(${idsRegex})\\](?!\\()`, 'g'),
-    (_match, id: string) => {
-      if (!defById.has(id)) return _match;
+    (full, id: string) => {
+      if (!defById.has(id)) return full;
       const first = !seen.has(id);
       seen.add(id);
       return REF_MARKER(id, first);
@@ -314,18 +312,74 @@ function extractPlain(md: string): ExtractedFootnotes {
   return { body: bodyWithMarkers, footnotes };
 }
 
+interface CodeChunk { kind: 'code'; content: string; }
+interface TextChunk { kind: 'text'; content: string; }
+type Chunk = CodeChunk | TextChunk;
+
+function splitFencedCode(md: string): Chunk[] {
+  const chunks: Chunk[] = [];
+  const fenceRegex = /^(`{3,}|~{3,})[^\n]*\n[\s\S]*?^\1[ \t]*$/gm;
+  let last = 0;
+  let m: RegExpExecArray | null;
+  while ((m = fenceRegex.exec(md)) !== null) {
+    if (m.index > last) {
+      chunks.push({ kind: 'text', content: md.slice(last, m.index) });
+    }
+    chunks.push({ kind: 'code', content: m[0] });
+    last = m.index + m[0].length;
+  }
+  if (last < md.length) {
+    chunks.push({ kind: 'text', content: md.slice(last) });
+  }
+  return chunks;
+}
+
 export function extractFootnotes(markdown: string): ExtractedFootnotes {
-  const format = detectFormat(markdown);
+  const chunks = splitFencedCode(markdown);
+  const textOnly = chunks
+    .filter((c): c is TextChunk => c.kind === 'text')
+    .map((c) => c.content)
+    .join('');
+
+  const format = detectFormat(textOnly);
+  if (format === 'none') {
+    return { body: markdown, footnotes: [] };
+  }
+
+  const placeholders: string[] = [];
+  const withPlaceholders = chunks
+    .map((c) => {
+      if (c.kind === 'code') {
+        const i = placeholders.length;
+        placeholders.push(c.content);
+        return `\u0000CODEBLOCK${i}\u0000\n`;
+      }
+      return c.content;
+    })
+    .join('');
+
+  let extracted: ExtractedFootnotes;
   switch (format) {
     case 'sdfootnote':
-      return extractSdfootnote(markdown);
+      extracted = extractSdfootnote(withPlaceholders);
+      break;
     case 'ftnt':
-      return extractFtnt(markdown);
+      extracted = extractFtnt(withPlaceholders);
+      break;
     case 'fn':
-      return extractFn(markdown);
+      extracted = extractFn(withPlaceholders);
+      break;
     case 'plain':
-      return extractPlain(markdown);
+      extracted = extractPlain(withPlaceholders);
+      break;
     default:
       return { body: markdown, footnotes: [] };
   }
+
+  const restored = extracted.body.replace(
+    /\u0000CODEBLOCK(\d+)\u0000\n?/g,
+    (_m, idx: string) => placeholders[Number(idx)]
+  );
+
+  return { body: restored, footnotes: extracted.footnotes };
 }

@@ -170,3 +170,61 @@ test('plain: inline [N] without a matching trailing def is left untouched', () =
   assert.equal(result.body, input);
   assert.deepEqual(result.footnotes, []);
 });
+
+test('code blocks containing [1] are not processed', () => {
+  const input = [
+    'Normal text.[1](#sdfootnote1sym) More.',
+    '',
+    '```',
+    'const x = arr[1]; // looks like a footnote but is not',
+    '```',
+    '',
+    '[1](#sdfootnote1anc)Real footnote',
+    '',
+  ].join('\n');
+
+  const result = extractFootnotes(input);
+  assert.ok(result.body.includes('const x = arr[1]'), 'code block untouched');
+  assert.ok(
+    result.body.includes('<sup class="fn-ref"'),
+    'real ref still rewritten'
+  );
+  assert.equal(result.footnotes.length, 1);
+});
+
+test('duplicate sdfootnote refs: only first gets id attribute', () => {
+  const input = [
+    'First[1](#sdfootnote1sym) and again[1](#sdfootnote1sym).',
+    '',
+    '[1](#sdfootnote1anc) Note',
+    '',
+  ].join('\n');
+
+  const result = extractFootnotes(input);
+  const firstIdx = result.body.indexOf('id="fn-ref-1"');
+  const lastIdx = result.body.lastIndexOf('id="fn-ref-1"');
+  assert.notEqual(firstIdx, -1, 'has id on first');
+  assert.equal(firstIdx, lastIdx, 'only one id attribute');
+  const markerCount = (result.body.match(/<sup class="fn-ref"/g) || []).length;
+  assert.equal(markerCount, 2);
+});
+
+test('sdfootnote ref without matching def is left alone', () => {
+  const input = 'Orphan[1](#sdfootnote1sym) ref with no def at end.\n';
+  const result = extractFootnotes(input);
+  assert.ok(result.body.includes('[1](#sdfootnote1sym)'), 'ref preserved verbatim');
+  assert.deepEqual(result.footnotes, []);
+});
+
+test('sdfootnote def without matching ref is still listed', () => {
+  const input = [
+    'Body with no refs.',
+    '',
+    '[1](#sdfootnote1anc) Orphan footnote content',
+    '',
+  ].join('\n');
+
+  const result = extractFootnotes(input);
+  assert.equal(result.footnotes.length, 1);
+  assert.equal(result.footnotes[0].id, '1');
+});
