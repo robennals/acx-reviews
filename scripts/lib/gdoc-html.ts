@@ -215,6 +215,11 @@ export function cleanupMarkdown(markdown: string): string {
     // Strip leading non-breaking spaces from blockquote lines (Google Docs
     // sometimes uses &nbsp; for indentation even inside CSS-indented blocks)
     .replace(/^(>\s*)\u00a0+/gm, '$1')
+    // Convert soft line breaks (trailing two spaces) inside blockquotes to
+    // full paragraph breaks. Google Docs uses <br> (Shift+Enter) within a
+    // single <p>, which Turndown renders as "  \n" — but inside a blockquote
+    // this should be a new paragraph for consistent spacing.
+    .replace(/^(>.*) {2,}\n(?=>)/gm, '$1\n>\n')
     // Remove escaped brackets
     .replace(/\\\[/g, '[')
     .replace(/\\\]/g, ']')

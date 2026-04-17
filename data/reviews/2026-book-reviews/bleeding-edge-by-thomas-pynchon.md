@@ -7,7 +7,7 @@ contestName: 2026 Book Reviews
 year: 2026
 publishedDate: '2026-04-04T16:17:04.000Z'
 slug: bleeding-edge-by-thomas-pynchon
-wordCount: 6134
+wordCount: 6135
 readingTimeMinutes: 28
 source: gdoc
 tags:
@@ -88,7 +88,8 @@ This section more than any other overlaps with every other section, since we’r
 > 
 > Proof (14): “‘Jujubes,’ they’re informed, ‘Generic Undiagnosed James Bond Syndrome…’”
 > 
-> Proof (20): “Where, in this chilled chaos, is the Pinot E-Grigio?”  
+> Proof (20): “Where, in this chilled chaos, is the Pinot E-Grigio?”
+>
 > Proof (71): “entreprenerds.”
 > 
 > Proof (73): “undead signifiers.”

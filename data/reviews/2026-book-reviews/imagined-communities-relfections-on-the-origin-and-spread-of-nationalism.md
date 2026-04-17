@@ -7,7 +7,7 @@ contestName: 2026 Book Reviews
 year: 2026
 publishedDate: '2026-03-21T06:22:55.000Z'
 slug: imagined-communities-relfections-on-the-origin-and-spread-of-nationalism
-wordCount: 4543
+wordCount: 4550
 readingTimeMinutes: 21
 source: gdoc
 tags:
@@ -42,9 +42,12 @@ Anderson's definition of a nation is [3]:
 
 He then goes into some more detail:
 
->        It is _imagined_ because the members of even the smallest nation will never know most of their fellow-members, meet them, or even hear of them, yet in the minds of each lives the image of their communion. [...]  
->        The nation is imagined as _limited_ because even the largest of them, encompassing perhaps a billion living human beings has finite, if elastic, boundaries, beyond which lie other nations. No nation imagines itself coterminous with mankind. The most messianic nationalists do not dream of a day when all the members of the human race will join their nation in the way that it was possible [...] for Christians to dream of a wholly Christian planet.  
->        It is imagined as _sovereign_ because the concept was born in an age in which Enlightenment and Revolution were destroying the dynastic legitimacy of the divinely-ordained, hierarchical dynastic realm.[...]  
+>        It is _imagined_ because the members of even the smallest nation will never know most of their fellow-members, meet them, or even hear of them, yet in the minds of each lives the image of their communion. [...]
+>
+>        The nation is imagined as _limited_ because even the largest of them, encompassing perhaps a billion living human beings has finite, if elastic, boundaries, beyond which lie other nations. No nation imagines itself coterminous with mankind. The most messianic nationalists do not dream of a day when all the members of the human race will join their nation in the way that it was possible [...] for Christians to dream of a wholly Christian planet.
+>
+>        It is imagined as _sovereign_ because the concept was born in an age in which Enlightenment and Revolution were destroying the dynastic legitimacy of the divinely-ordained, hierarchical dynastic realm.[...]
+>
 >        Finally, it is imagined as a _community_, because regardless of the inequality and exploitation that may prevail in each, the nation is always conceived as a deep, horizontal comradeship. Ultimately it is this fraternity that makes possible, over the past two centuries, for so many millions of people, not so much to kill, as willing to die for such limited imaginings.
 
 He even addresses the common complaint on the same page:
@@ -87,7 +90,8 @@ At this stage, in the 1700 and 1800s, this process is driven by market forces an
 
 Language turns out to have a special way of bonding people. Anderson is mostly focused on history but he does leave us with passages like:[11]
 
->   
+> 
+>
 > What the eye is to the lover - that particular, ordinary eye he or she is born with - language - whatever language history has made his or her mother-tongue - is to the patriot. Through that language, encountered at the mother's knee and parted with only at the grave, pasts are restored, fellowships are imagined, and futures dreamed.
 
 The second force of community formation was the colonial administration. Why did the people who bleed to fight off the Spanish Imperial yoke, inspired by hot new liberal ideas intent on remaking the world, keep the same boundaries? Because they had spent a few hundred years with these borders and because these subdivisions of the colonial administration were economically cut off from each other, as it was common practice in those times to not let colonists trade with each other and only trade with the motherland. Newspapers, the main source of community in this telling, were primarily trade and business focused, and thus stuck to the borders as well. It doesn't hurt that since these boundaries predate modern transportation, they conform to the geography well.
@@ -112,9 +116,12 @@ These factors might seem idiosyncratic to the Spanish Empire, but the basic outl
 
 This quote about Indonesia during its revolution in the 1940s is illustrative.[13]
 
->        The case of Indonesia affords a fascinatingly intricate illustration of this process, not least because of its enormous size, huge populations (even in colonial times), geographical fragmentation (about 3000 islands), religious variegation (Muslims, Buddhists, Catholics, assorted protestants, Hindu-Balinese and 'animists') and ethnolinguistic diversity (well over 100 distinct groups) [...]  
->        Nothing nurtured this bonding more than the schools that the regime in Batavia set up in increasing numbers after the turn of the century. [...]  
->        From all over the vast colony, but nowhere outside it, the tender pilgrims made their inward, upward way, meeting fellow-pilgrims from different, perhaps once hostile, villages in primary school; from different ethnolinguistic groups in middle school; and from every part of the realm in the tertiary institutions of the capital. [...]  
+>        The case of Indonesia affords a fascinatingly intricate illustration of this process, not least because of its enormous size, huge populations (even in colonial times), geographical fragmentation (about 3000 islands), religious variegation (Muslims, Buddhists, Catholics, assorted protestants, Hindu-Balinese and 'animists') and ethnolinguistic diversity (well over 100 distinct groups) [...]
+>
+>        Nothing nurtured this bonding more than the schools that the regime in Batavia set up in increasing numbers after the turn of the century. [...]
+>
+>        From all over the vast colony, but nowhere outside it, the tender pilgrims made their inward, upward way, meeting fellow-pilgrims from different, perhaps once hostile, villages in primary school; from different ethnolinguistic groups in middle school; and from every part of the realm in the tertiary institutions of the capital. [...]
+>
 >        To put it another way, their common experience, and amiably competitive comradeship in the classroom, gave the maps they studied (always coloured differently from British Malaysia or the American Philippines) a territorially specific imagined reality which everyday was confirmed by the accents and physiognomies of their classmates.
 
 These same university elites would then be the revolutionary class that had been taught to think of all of themselves as a common entity, which they had on hand when they succeeded.
