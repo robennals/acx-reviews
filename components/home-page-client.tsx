@@ -9,6 +9,42 @@ import { markAsRead, markAsUnread } from '@/lib/reading-progress';
 
 type StatusFilter = 'all' | 'unread' | 'read' | 'in-progress' | 'favorites';
 
+const VALID_STATUS: StatusFilter[] = ['all', 'unread', 'read', 'in-progress', 'favorites'];
+
+interface FilterState {
+  contestId: string | null;
+  tag: string | null;
+  query: string;
+  status: StatusFilter;
+  page: number;
+}
+
+function parseUrlFilters(search: string): FilterState {
+  const params = new URLSearchParams(search);
+  const rawStatus = params.get('status');
+  const status = (VALID_STATUS as string[]).includes(rawStatus ?? '') ? (rawStatus as StatusFilter) : 'all';
+  const rawPage = Number(params.get('page'));
+  const page = Number.isFinite(rawPage) && rawPage > 0 ? rawPage : 1;
+  return {
+    contestId: params.get('contest'),
+    tag: params.get('tag'),
+    query: params.get('q') ?? '',
+    status,
+    page,
+  };
+}
+
+function buildFilterUrl(next: FilterState): string {
+  const params = new URLSearchParams();
+  if (next.contestId) params.set('contest', next.contestId);
+  if (next.tag) params.set('tag', next.tag);
+  if (next.query) params.set('q', next.query);
+  if (next.status !== 'all') params.set('status', next.status);
+  if (next.page > 1) params.set('page', String(next.page));
+  const qs = params.toString();
+  return qs ? `${window.location.pathname}?${qs}` : window.location.pathname;
+}
+
 interface HomePageClientProps {
   reviews: Review[];
   contests: Contest[];
@@ -25,6 +61,36 @@ export function HomePageClient({ reviews, contests, tags }: HomePageClientProps)
   const [currentPage, setCurrentPage] = useState(1);
   const { progressMap, refreshProgress } = useReadingProgressContext();
   const { favoritesSet, toggleFavorite } = useFavoritesContext();
+
+  useEffect(() => {
+    const applyFromUrl = () => {
+      const f = parseUrlFilters(window.location.search);
+      setSelectedContestId(f.contestId);
+      setSelectedTag(f.tag);
+      setSearchQuery(f.query);
+      setStatusFilter(f.status);
+      setCurrentPage(f.page);
+    };
+    applyFromUrl();
+    window.addEventListener('popstate', applyFromUrl);
+    return () => window.removeEventListener('popstate', applyFromUrl);
+  }, []);
+
+  const applyChanges = useCallback((changes: Partial<FilterState>) => {
+    const next: FilterState = {
+      contestId: 'contestId' in changes ? changes.contestId! : selectedContestId,
+      tag: 'tag' in changes ? changes.tag! : selectedTag,
+      query: changes.query ?? searchQuery,
+      status: changes.status ?? statusFilter,
+      page: changes.page ?? currentPage,
+    };
+    setSelectedContestId(next.contestId);
+    setSelectedTag(next.tag);
+    setSearchQuery(next.query);
+    setStatusFilter(next.status);
+    setCurrentPage(next.page);
+    window.history.replaceState(null, '', buildFilterUrl(next));
+  }, [selectedContestId, selectedTag, searchQuery, statusFilter, currentPage]);
 
   const handleToggleRead = useCallback((reviewId: string) => {
     const progress = progressMap[reviewId];
@@ -126,12 +192,12 @@ export function HomePageClient({ reviews, contests, tags }: HomePageClientProps)
             type="text"
             placeholder="Search by title..."
             value={searchQuery}
-            onChange={(e) => { setSearchQuery(e.target.value); setCurrentPage(1); }}
+            onChange={(e) => applyChanges({ query: e.target.value, page: 1 })}
             className="w-full px-4 py-3 bg-muted/50 border border-border rounded-lg text-foreground placeholder:text-muted-foreground focus:outline-none focus:ring-2 focus:ring-[hsl(var(--link))]/20 focus:border-[hsl(var(--link))]/50 transition-colors"
           />
           {searchQuery && (
             <button
-              onClick={() => { setSearchQuery(''); setCurrentPage(1); }}
+              onClick={() => applyChanges({ query: '', page: 1 })}
               className="absolute right-3 top-1/2 -translate-y-1/2 text-muted-foreground hover:text-foreground transition-colors"
               aria-label="Clear search"
             >
@@ -151,7 +217,7 @@ export function HomePageClient({ reviews, contests, tags }: HomePageClientProps)
               { id: null, label: 'All' },
               ...contests.map(c => ({ id: c.id, label: String(c.year) })),
             ]}
-            onSelect={(id) => { setSelectedContestId(id); setCurrentPage(1); }}
+            onSelect={(id) => applyChanges({ contestId: id, page: 1 })}
             isFiltered={selectedContestId !== null}
           />
           {tags.length > 0 && (
@@ -162,7 +228,7 @@ export function HomePageClient({ reviews, contests, tags }: HomePageClientProps)
                 { id: null, label: 'All' },
                 ...tags.map(t => ({ id: t, label: t })),
               ]}
-              onSelect={(id) => { setSelectedTag(id); setCurrentPage(1); }}
+              onSelect={(id) => applyChanges({ tag: id, page: 1 })}
               isFiltered={selectedTag !== null}
             />
           )}
@@ -182,7 +248,7 @@ export function HomePageClient({ reviews, contests, tags }: HomePageClientProps)
               { id: 'read', label: 'Finished' },
               { id: 'favorites', label: 'Saved' },
             ]}
-            onSelect={(id) => { setStatusFilter((id || 'all') as StatusFilter); setCurrentPage(1); }}
+            onSelect={(id) => applyChanges({ status: (id || 'all') as StatusFilter, page: 1 })}
             isFiltered={statusFilter !== 'all'}
           />
         </div>
@@ -243,7 +309,7 @@ export function HomePageClient({ reviews, contests, tags }: HomePageClientProps)
         {totalPages > 1 && (
           <div className="flex items-center justify-center gap-4 mt-8 pt-6 border-t border-border">
             <button
-              onClick={() => setCurrentPage(p => p - 1)}
+              onClick={() => applyChanges({ page: currentPage - 1 })}
               disabled={currentPage === 1}
               className="px-4 py-2 text-sm font-medium rounded-md transition-colors bg-muted text-muted-foreground hover:bg-muted/80 hover:text-foreground disabled:opacity-40 disabled:pointer-events-none"
             >
@@ -253,7 +319,7 @@ export function HomePageClient({ reviews, contests, tags }: HomePageClientProps)
               Page {currentPage} of {totalPages}
             </span>
             <button
-              onClick={() => setCurrentPage(p => p + 1)}
+              onClick={() => applyChanges({ page: currentPage + 1 })}
               disabled={currentPage === totalPages}
               className="px-4 py-2 text-sm font-medium rounded-md transition-colors bg-muted text-muted-foreground hover:bg-muted/80 hover:text-foreground disabled:opacity-40 disabled:pointer-events-none"
             >
