@@ -136,3 +136,37 @@ test('fn: extracts from ## Footnotes ordered list with fnref back-links', () => 
   assert.ok(!result.footnotes[0].raw.includes('↩'));
   assert.ok(result.footnotes[1].raw.includes('Second note.'));
 });
+
+test('plain: trailing [N] content lines are extracted as footnotes', () => {
+  const input = [
+    'Body text referring to [1] and [2].',
+    '',
+    'More prose.',
+    '',
+    '[1] First footnote.',
+    '[2] Second footnote.',
+    '',
+  ].join('\n');
+
+  const result = extractFootnotes(input);
+  assert.ok(
+    result.body.includes('<sup class="fn-ref" data-fn-id="1" id="fn-ref-1">[1]</sup>'),
+    'marker 1'
+  );
+  assert.ok(
+    result.body.includes('<sup class="fn-ref" data-fn-id="2" id="fn-ref-2">[2]</sup>'),
+    'marker 2'
+  );
+  assert.ok(!result.body.includes('[1] First footnote.'), 'def removed from body');
+  assert.deepEqual(result.footnotes, [
+    { id: '1', raw: 'First footnote.' },
+    { id: '2', raw: 'Second footnote.' },
+  ]);
+});
+
+test('plain: inline [N] without a matching trailing def is left untouched', () => {
+  const input = 'See paragraph [1] of the contract.';
+  const result = extractFootnotes(input);
+  assert.equal(result.body, input);
+  assert.deepEqual(result.footnotes, []);
+});

@@ -19,8 +19,11 @@ function detectFormat(md: string): Format {
   if (/\[\d+\]\(#sdfootnote\d+sym\)/.test(md)) return 'sdfootnote';
   if (/\[\[\d+\]\]\(#ftnt\d+\)/.test(md)) return 'ftnt';
   if (/\[\d+\]\(https?:\/\/[^)]*#fn:[^)]+\)/.test(md)) return 'fn';
-  // plain is the fallback; only used when trailing `[N] ...` definition lines exist
-  if (/\n\[\d+\][^(]/m.test(md)) return 'plain';
+  // Plain: a trailing block of `[N] content` lines at end of document
+  const lines = md.split('\n');
+  let i = lines.length - 1;
+  while (i >= 0 && lines[i].trim() === '') i--;
+  if (i >= 0 && /^\[\d+\][ \t]/.test(lines[i])) return 'plain';
   return 'none';
 }
 
@@ -242,6 +245,75 @@ function extractFn(md: string): ExtractedFootnotes {
   return { body, footnotes };
 }
 
+function extractPlain(md: string): ExtractedFootnotes {
+  // Definitions are trailing lines matching `^\[N\] content$`, forming a contiguous block
+  // at the end of the document (allowing blank lines before the block).
+  const lines = md.split('\n');
+  const defs: Array<{ id: string; content: string }> = [];
+
+  let i = lines.length - 1;
+  // Skip trailing blank lines
+  while (i >= 0 && lines[i].trim() === '') i--;
+
+  const defIndices: number[] = [];
+  while (i >= 0) {
+    const line = lines[i];
+    const match = /^\[(\d+)\][ \t](.*)$/.exec(line);
+    if (!match) break;
+    defs.unshift({ id: match[1], content: match[2] });
+    defIndices.unshift(i);
+    i--;
+  }
+
+  if (defs.length === 0) {
+    return { body: md, footnotes: [] };
+  }
+
+  const firstDefIdx = defIndices[0];
+  const body = lines.slice(0, firstDefIdx).join('\n').replace(/\s+$/g, '') + '\n';
+
+  const defById = new Map<string, string>();
+  for (const d of defs) defById.set(d.id, d.content);
+
+  // Replace in-text [N] references (standalone, not inside markdown links) for ids that
+  // have a matching def. Negative lookahead/lookbehind avoid rewriting links like [1](url) or [[1]](url).
+  const seen = new Set<string>();
+  const idsRegex = Array.from(defById.keys()).join('|');
+  const bodyWithMarkers = body.replace(
+    new RegExp(`(?<!\\[)\\[(${idsRegex})\\](?!\\()`, 'g'),
+    (_match, id: string) => {
+      if (!defById.has(id)) return _match;
+      const first = !seen.has(id);
+      seen.add(id);
+      return REF_MARKER(id, first);
+    }
+  );
+
+  const orderedIds: string[] = [];
+  const orderSeen = new Set<string>();
+  const orderRegex = /data-fn-id="(\d+)"/g;
+  let m: RegExpExecArray | null;
+  while ((m = orderRegex.exec(bodyWithMarkers)) !== null) {
+    const id = m[1];
+    if (!orderSeen.has(id)) {
+      orderSeen.add(id);
+      orderedIds.push(id);
+    }
+  }
+
+  const footnotes: ExtractedFootnote[] = [];
+  for (const id of orderedIds) {
+    const content = defById.get(id);
+    if (content === undefined) continue;
+    footnotes.push({ id, raw: content });
+  }
+  for (const d of defs) {
+    if (!orderSeen.has(d.id)) footnotes.push({ id: d.id, raw: d.content });
+  }
+
+  return { body: bodyWithMarkers, footnotes };
+}
+
 export function extractFootnotes(markdown: string): ExtractedFootnotes {
   const format = detectFormat(markdown);
   switch (format) {
@@ -251,6 +323,8 @@ export function extractFootnotes(markdown: string): ExtractedFootnotes {
       return extractFtnt(markdown);
     case 'fn':
       return extractFn(markdown);
+    case 'plain':
+      return extractPlain(markdown);
     default:
       return { body: markdown, footnotes: [] };
   }
