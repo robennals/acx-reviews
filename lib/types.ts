@@ -54,3 +54,8 @@ export interface GDocsSource {
   name: string;                  // E.g., "A-D" or "Games"
   type: 'individual' | 'composite';  // Single review or multiple reviews
 }
+
+export interface ReviewFootnote {
+  id: string;
+  html: string;
+}
