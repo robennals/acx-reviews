@@ -278,3 +278,89 @@ test('fn: works without ## Footnotes heading when trailing list has fnref back-l
   assert.deepEqual(result.footnotes.map(f => f.id), ['1', '2']);
   assert.ok(result.footnotes[0].raw.includes('First note'));
 });
+
+test('fn: multi-paragraph footnote dedents continuation lines (not a code block)', () => {
+  const input = [
+    'Body.[2](https://ex.com/p#fn:foo)',
+    '',
+    '## Footnotes',
+    '',
+    '2.  First paragraph.',
+    '    ',
+    '    Second paragraph should not be a code block.  [↩](https://ex.com/p#fnref:foo)',
+    '',
+  ].join('\n');
+  const r = extractFootnotes(input);
+  assert.equal(r.footnotes.length, 1);
+  // Raw must NOT start continuation paragraph with 4 spaces (would be parsed as code).
+  assert.ok(
+    !/\n {4}/.test(r.footnotes[0].raw),
+    'continuation should be dedented, got: ' + JSON.stringify(r.footnotes[0].raw)
+  );
+  assert.ok(r.footnotes[0].raw.includes('Second paragraph'));
+});
+
+test('plain: bare-digit refs after sentence punctuation are rewritten', () => {
+  const input = [
+    'First sentence.1 Second sentence?2 Third.3',
+    '',
+    '[1] First note.',
+    '[2] Second note.',
+    '[3] Third note.',
+    '',
+  ].join('\n');
+  const r = extractFootnotes(input);
+  assert.equal(r.footnotes.length, 3);
+  assert.ok(r.body.includes('<sup class="fn-ref" data-fn-id="1" id="fn-ref-1">[1]</sup>'));
+  assert.ok(r.body.includes('<sup class="fn-ref" data-fn-id="2" id="fn-ref-2">[2]</sup>'));
+  assert.ok(r.body.includes('<sup class="fn-ref" data-fn-id="3" id="fn-ref-3">[3]</sup>'));
+});
+
+test('plain: bare-digit fallback does NOT mangle numeric prose lacking matching def', () => {
+  // Body has "in 2002" and "$3 million" etc. File has def [1] but bare "3" should not be touched.
+  const input = [
+    'Published in 2002, it cost $3 million.1',
+    '',
+    '[1] Some note.',
+    '',
+  ].join('\n');
+  const r = extractFootnotes(input);
+  assert.equal(r.footnotes.length, 1);
+  // "2002" should NOT be rewritten (no def [2002])
+  assert.ok(r.body.includes('2002'));
+  // "$3" should NOT be rewritten (no def [3], and preceded by $ not close-punct)
+  assert.ok(r.body.includes('$3'));
+  // "1" at end should be rewritten
+  assert.ok(r.body.includes('data-fn-id="1"'));
+});
+
+test('plain: bare-digit fallback catches mid-sentence refs (letter + digit)', () => {
+  const input = [
+    'Reading Metamorphosis1 was hard. A tragedy3, perhaps.',
+    '',
+    '[1] First note.',
+    '[3] Third note.',
+    '',
+  ].join('\n');
+  const r = extractFootnotes(input);
+  assert.equal(r.footnotes.length, 2);
+  assert.ok(r.body.includes('data-fn-id="1"'));
+  assert.ok(r.body.includes('data-fn-id="3"'));
+});
+
+test('plain: bare-digit fallback skips version numbers like 2.0.1', () => {
+  // File has def [1] but body contains `version 2.0.1`. The trailing "1" should
+  // not be rewritten because it's part of a decimal.
+  const input = [
+    'Running on version 2.0.1 currently.',
+    '',
+    '[1] Some note.',
+    '',
+  ].join('\n');
+  const r = extractFootnotes(input);
+  assert.equal(r.footnotes.length, 1);
+  // The "1" in "2.0.1" must remain as plain text.
+  assert.ok(r.body.includes('version 2.0.1'));
+  // No fn-ref markers should be added.
+  assert.ok(!r.body.includes('data-fn-id'));
+});

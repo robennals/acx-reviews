@@ -265,11 +265,22 @@ function extractFn(md: string): ExtractedFootnotes {
     if (inItem) items.push(current.join('\n'));
 
     for (const item of items) {
-      const withoutBullet = item.replace(/^\d+\.[ \t]+/, '');
-      const backRefMatch = /\[↩\]\(https?:\/\/[^)]*#fnref:([^)]+)\)/.exec(withoutBullet);
+      // Split into lines so we can strip the bullet from the first line and
+      // dedent list-item continuations (kramdown indents these 4 spaces; left
+      // as-is, remark parses them as code blocks).
+      const rawLines = item.split('\n');
+      if (rawLines.length === 0) continue;
+      rawLines[0] = rawLines[0].replace(/^\d+\.[ \t]+/, '');
+      for (let i = 1; i < rawLines.length; i++) {
+        rawLines[i] = rawLines[i].replace(/^ {1,4}|^\t/, '');
+      }
+      let cleaned = rawLines.join('\n');
+
+      const backRefMatch = /\[↩\]\(https?:\/\/[^)]*#fnref:([^)]+)\)/.exec(cleaned);
       if (!backRefMatch) continue;
       const name = backRefMatch[1];
-      let cleaned = withoutBullet.replace(backRefMatch[0], '');
+      cleaned = cleaned.replace(backRefMatch[0], '');
+
       // Strip trailing blank lines and separator rules from the def content.
       const defLines = cleaned.split('\n');
       while (defLines.length > 0 && isTrailingSeparator(defLines[defLines.length - 1])) {
@@ -364,7 +375,7 @@ function extractPlain(md: string): ExtractedFootnotes {
 
   const seen = new Set<string>();
   const idsRegex = Array.from(defById.keys()).join('|');
-  const bodyWithMarkers = body.replace(
+  let bodyWithMarkers = body.replace(
     new RegExp(`(?<!\\[)\\[(${idsRegex})\\](?!\\()`, 'g'),
     (full, id: string) => {
       if (!defById.has(id)) return full;
@@ -373,6 +384,28 @@ function extractPlain(md: string): ExtractedFootnotes {
       return REF_MARKER(id, first);
     }
   );
+
+  // Fallback: if no `[N]` refs were rewritten, look for bare-digit refs.
+  // The file clearly has trailing footnote defs, so we're looking for inline
+  // markers that weren't bracketed (e.g. `future.1 The novel…`, `Metamorphosis1 is`,
+  // `dating3,`). Allow a digit that:
+  //   - follows a letter, close-quote, or sentence-end punctuation
+  //   - is followed by whitespace, comma, semicolon, colon, or closing paren
+  //   - is NOT the tail of a version/decimal number (preceding context `\d\.`)
+  if (seen.size === 0) {
+    bodyWithMarkers = bodyWithMarkers.replace(
+      new RegExp(
+        `(?<!\\d\\.)(?<=[A-Za-z.!?”’")])(${idsRegex})(?=[\\s,;:)]|$)`,
+        'g'
+      ),
+      (full, id: string) => {
+        if (!defById.has(id)) return full;
+        const first = !seen.has(id);
+        seen.add(id);
+        return REF_MARKER(id, first);
+      }
+    );
+  }
 
   const orderedIds: string[] = [];
   const orderSeen = new Set<string>();
