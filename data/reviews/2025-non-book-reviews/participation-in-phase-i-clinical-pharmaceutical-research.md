@@ -1,16 +1,20 @@
 ---
-title: "Participation in Phase I clinical pharmaceutical research"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2025-non-book-reviews"
-contestName: "2025 Non Book Reviews"
+title: Participation in Phase I clinical pharmaceutical research
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2025-non-book-reviews
+contestName: 2025 Non Book Reviews
 year: 2025
-publishedDate: "2025-01-01T00:00:00.000Z"
-slug: "participation-in-phase-i-clinical-pharmaceutical-research"
+publishedDate: '2025-01-01T00:00:00.000Z'
+slug: participation-in-phase-i-clinical-pharmaceutical-research
 wordCount: 4593
 readingTimeMinutes: 21
-originalUrl: "https://docs.google.com/document/d/1a3q0Z2tuPLLbDeg5-pfEffkajGjrfPDwE7ZMs7uaWQs"
-source: "gdoc"
+originalUrl: >-
+  https://docs.google.com/document/d/1a3q0Z2tuPLLbDeg5-pfEffkajGjrfPDwE7ZMs7uaWQs
+source: gdoc
+tags:
+  - Memoir
+  - Science
 ---
 
 If you’ve been following this blog for long, you probably know at least a bit about pharmaceutical research. You might know a bit about the sort of [subtle measures pharmaceutical companies take](https://slatestarcodex.com/2015/02/17/pharma-virumque/) to influence doctors’ prescribing habits, or how it takes [billions of dollars](https://www.investopedia.com/ask/answers/060115/how-much-drug-companys-spending-allocated-research-and-development-average.asp) on average to bring a new medication to market, or something about the [perverse incentives](https://www.astralcodexten.com/p/adumbrations-of-aducanumab) which determine the FDA’s standards for accepting or rejecting a new drug. You might have some idea what kinds of [hoops](https://slatestarcodex.com/2017/08/29/my-irb-nightmare/) a company has to jump through to conduct actual research which meets legal guidelines for patient safety and autonomy.

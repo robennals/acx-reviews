@@ -1,16 +1,19 @@
 ---
-title: "Kiki’s Delivery Service"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2025-non-book-reviews"
-contestName: "2025 Non Book Reviews"
+title: Kiki’s Delivery Service
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2025-non-book-reviews
+contestName: 2025 Non Book Reviews
 year: 2025
-publishedDate: "2025-01-01T00:00:00.000Z"
-slug: "kikis-delivery-service"
+publishedDate: '2025-01-01T00:00:00.000Z'
+slug: kikis-delivery-service
 wordCount: 2308
 readingTimeMinutes: 11
-originalUrl: "https://docs.google.com/document/d/17WAcFrTOExgendrk2lGTxRIR4LVC3ZGbiU5Xe3kF4mg"
-source: "gdoc"
+originalUrl: >-
+  https://docs.google.com/document/d/17WAcFrTOExgendrk2lGTxRIR4LVC3ZGbiU5Xe3kF4mg
+source: gdoc
+tags:
+  - Fiction
 ---
 
 On a clear moonlit night, with her talking black cat Jiji and small radio in tow, 13-year-old Kiki sets off on her broomstick to make her way in the world. According to tradition, witches her age are expected to leave home to complete their magical training in a new town.

@@ -1,16 +1,20 @@
 ---
-title: "The Beginning of Infinity and The Fabric of Reality by David Deutsch"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2024-book-reviews"
-contestName: "2024 Book Reviews"
+title: The Beginning of Infinity and The Fabric of Reality by David Deutsch
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2024-book-reviews
+contestName: 2024 Book Reviews
 year: 2024
-publishedDate: "2024-01-01T00:00:00.000Z"
-slug: "the-beginning-of-infinity-and-the-fabric-of-reality-by-david-deutsch"
+publishedDate: '2024-01-01T00:00:00.000Z'
+slug: the-beginning-of-infinity-and-the-fabric-of-reality-by-david-deutsch
 wordCount: 2056
 readingTimeMinutes: 10
-originalUrl: "https://docs.google.com/document/d/14qa47TJ_Vyerx4XNgTCIh7PUZ_TOgNcU_eHm5So_zo0"
-source: "gdoc"
+originalUrl: >-
+  https://docs.google.com/document/d/14qa47TJ_Vyerx4XNgTCIh7PUZ_TOgNcU_eHm5So_zo0
+source: gdoc
+tags:
+  - Science
+  - Philosophy
 ---
 
 The incomplete and ongoing works of David Deutsch

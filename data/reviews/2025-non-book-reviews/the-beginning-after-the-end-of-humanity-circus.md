@@ -1,16 +1,20 @@
 ---
-title: "The Beginning After the End of Humanity Circus"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2025-non-book-reviews"
-contestName: "2025 Non Book Reviews"
+title: The Beginning After the End of Humanity Circus
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2025-non-book-reviews
+contestName: 2025 Non Book Reviews
 year: 2025
-publishedDate: "2025-01-01T00:00:00.000Z"
-slug: "the-beginning-after-the-end-of-humanity-circus"
+publishedDate: '2025-01-01T00:00:00.000Z'
+slug: the-beginning-after-the-end-of-humanity-circus
 wordCount: 1019
 readingTimeMinutes: 5
-originalUrl: "https://docs.google.com/document/d/17WAcFrTOExgendrk2lGTxRIR4LVC3ZGbiU5Xe3kF4mg"
-source: "gdoc"
+originalUrl: >-
+  https://docs.google.com/document/d/17WAcFrTOExgendrk2lGTxRIR4LVC3ZGbiU5Xe3kF4mg
+source: gdoc
+tags:
+  - Memoir
+  - Society
 ---
 
 A small brass orchestra. Tables of booklets and postcards, some priced half off after being left in the rain. An Emceewalking around the audience, handing out programs, holding a papier-mâché top hat for donations, repeatedly encouraging everyone to sit closer. A grassy stage with a backdrop depicting twin suns and a cluster of inscrutable figures born aloft by a single set of wings, draped in front of a repainted school bus. On October 2nd, 2024, the Bread and Puppet Theater visited Bowling Green Ohio on tour, presenting _The Beginning after the End of Humanity Circus_ on the lawn behind Bowling Green State University’s Wolfe Center for the Arts.

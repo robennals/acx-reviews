@@ -1,16 +1,19 @@
 ---
-title: "Metamorphosis by Shindo L"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2024-book-reviews"
-contestName: "2024 Book Reviews"
+title: Metamorphosis by Shindo L
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2024-book-reviews
+contestName: 2024 Book Reviews
 year: 2024
-publishedDate: "2024-01-01T00:00:00.000Z"
-slug: "metamorphosis-by-shindo-l"
+publishedDate: '2024-01-01T00:00:00.000Z'
+slug: metamorphosis-by-shindo-l
 wordCount: 1291
 readingTimeMinutes: 6
-originalUrl: "https://docs.google.com/document/d/1cp6iw5OEyDjnD_viZo-KL0Zv4jwQnMXtE4yIovfVAco"
-source: "gdoc"
+originalUrl: >-
+  https://docs.google.com/document/d/1cp6iw5OEyDjnD_viZo-KL0Zv4jwQnMXtE4yIovfVAco
+source: gdoc
+tags:
+  - Fiction
 ---
 
 **This review contains discussion of a work featuring sexual content and trauma that some people may find distressing.**

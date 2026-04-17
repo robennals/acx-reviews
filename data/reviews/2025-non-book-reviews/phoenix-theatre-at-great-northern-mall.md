@@ -1,16 +1,19 @@
 ---
-title: "Phoenix Theatre at Great Northern Mall"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2025-non-book-reviews"
-contestName: "2025 Non Book Reviews"
+title: Phoenix Theatre at Great Northern Mall
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2025-non-book-reviews
+contestName: 2025 Non Book Reviews
 year: 2025
-publishedDate: "2025-01-01T00:00:00.000Z"
-slug: "phoenix-theatre-at-great-northern-mall"
+publishedDate: '2025-01-01T00:00:00.000Z'
+slug: phoenix-theatre-at-great-northern-mall
 wordCount: 3295
 readingTimeMinutes: 15
-originalUrl: "https://docs.google.com/document/d/17WAcFrTOExgendrk2lGTxRIR4LVC3ZGbiU5Xe3kF4mg"
-source: "gdoc"
+originalUrl: >-
+  https://docs.google.com/document/d/17WAcFrTOExgendrk2lGTxRIR4LVC3ZGbiU5Xe3kF4mg
+source: gdoc
+tags:
+  - Memoir
 ---
 
 I don’t know what a panic attack feels like, but at the beginning of last year I believe I came my closest to having one. I was in Cincinnati working on a Barry Levinson mobster movie with Robert DeNiro that still hasn’t come out. One weekend I figured I’d go out to catch a movie, so I went to the AMC theater just south of the river in Newport, Kentucky, the same theater that I went to seven years prior while working on a different mobster movie starring John Travolta. Back then I was embarrassingly seeing _Suicide Squad_ by myself—this time I was meeting with a friend to see _M3GAN_.

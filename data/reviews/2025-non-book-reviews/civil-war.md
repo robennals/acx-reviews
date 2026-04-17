@@ -1,16 +1,20 @@
 ---
-title: "“Civil War”"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2025-non-book-reviews"
-contestName: "2025 Non Book Reviews"
+title: “Civil War”
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2025-non-book-reviews
+contestName: 2025 Non Book Reviews
 year: 2025
-publishedDate: "2025-01-01T00:00:00.000Z"
-slug: "civil-war"
+publishedDate: '2025-01-01T00:00:00.000Z'
+slug: civil-war
 wordCount: 3786
 readingTimeMinutes: 17
-originalUrl: "https://docs.google.com/document/d/17WAcFrTOExgendrk2lGTxRIR4LVC3ZGbiU5Xe3kF4mg"
-source: "gdoc"
+originalUrl: >-
+  https://docs.google.com/document/d/17WAcFrTOExgendrk2lGTxRIR4LVC3ZGbiU5Xe3kF4mg
+source: gdoc
+tags:
+  - Fiction
+  - Politics
 ---
 
 A Straussian Interpretation of Alex Garland’s 2024 Movie

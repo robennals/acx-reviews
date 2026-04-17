@@ -1,16 +1,20 @@
 ---
-title: "Alpha School and \"2-hour Learning\" powered by AI"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2025-non-book-reviews"
-contestName: "2025 Non Book Reviews"
+title: Alpha School and "2-hour Learning" powered by AI
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2025-non-book-reviews
+contestName: 2025 Non Book Reviews
 year: 2025
-publishedDate: "2025-01-01T00:00:00.000Z"
-slug: "alpha-school-and-2-hour-learning-powered-by-ai"
+publishedDate: '2025-01-01T00:00:00.000Z'
+slug: alpha-school-and-2-hour-learning-powered-by-ai
 wordCount: 18026
 readingTimeMinutes: 81
-originalUrl: "https://docs.google.com/document/d/1d0vRSj1E93joWWvbUen2XGuDjN_mM94ybMIAADzM2fo"
-source: "gdoc"
+originalUrl: >-
+  https://docs.google.com/document/d/1d0vRSj1E93joWWvbUen2XGuDjN_mM94ybMIAADzM2fo
+source: gdoc
+tags:
+  - Technology
+  - Society
 ---
 
 **“Just as we don’t accept students using AI to write their essays, we will not accept districts using AI to supplant the critical role of teachers.”**

@@ -1,16 +1,19 @@
 ---
-title: "The Astral Codex Ten Commentariat: “Why Do We Suck?”"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2025-non-book-reviews"
-contestName: "2025 Non Book Reviews"
+title: 'The Astral Codex Ten Commentariat: “Why Do We Suck?”'
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2025-non-book-reviews
+contestName: 2025 Non Book Reviews
 year: 2025
-publishedDate: "2025-01-01T00:00:00.000Z"
-slug: "the-astral-codex-ten-commentariat-why-do-we-suck"
+publishedDate: '2025-01-01T00:00:00.000Z'
+slug: the-astral-codex-ten-commentariat-why-do-we-suck
 wordCount: 10070
 readingTimeMinutes: 45
-originalUrl: "https://docs.google.com/document/d/1jYVJFIz5-aMi0LCgsC9AN6BncJDNVGaMU37QmwZ1vzA"
-source: "gdoc"
+originalUrl: >-
+  https://docs.google.com/document/d/1jYVJFIz5-aMi0LCgsC9AN6BncJDNVGaMU37QmwZ1vzA
+source: gdoc
+tags:
+  - Society
 ---
 
 ## Introduction

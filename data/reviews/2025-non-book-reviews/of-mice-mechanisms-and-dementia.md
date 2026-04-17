@@ -1,16 +1,20 @@
 ---
-title: "Of Mice, Mechanisms, and Dementia"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2025-non-book-reviews"
-contestName: "2025 Non Book Reviews"
+title: 'Of Mice, Mechanisms, and Dementia'
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2025-non-book-reviews
+contestName: 2025 Non Book Reviews
 year: 2025
-publishedDate: "2025-01-01T00:00:00.000Z"
-slug: "of-mice-mechanisms-and-dementia"
+publishedDate: '2025-01-01T00:00:00.000Z'
+slug: of-mice-mechanisms-and-dementia
 wordCount: 7017
 readingTimeMinutes: 32
-originalUrl: "https://docs.google.com/document/d/1a3q0Z2tuPLLbDeg5-pfEffkajGjrfPDwE7ZMs7uaWQs"
-source: "gdoc"
+originalUrl: >-
+  https://docs.google.com/document/d/1a3q0Z2tuPLLbDeg5-pfEffkajGjrfPDwE7ZMs7uaWQs
+source: gdoc
+tags:
+  - Science
+  - Biology
 ---
 
 The scientific paper is a “[fraud](https://www.weizmann.ac.il/mcb/alon/sites/mcb.alon/files/users/user59/Is%20scientific%20paper%20a%20fraud.pdf)” that creates “a totally misleading narrative of the processes of thought that go into the making of scientific discoveries.”

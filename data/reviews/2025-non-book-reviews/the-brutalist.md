@@ -1,16 +1,19 @@
 ---
-title: "The Brutalist"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2025-non-book-reviews"
-contestName: "2025 Non Book Reviews"
+title: The Brutalist
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2025-non-book-reviews
+contestName: 2025 Non Book Reviews
 year: 2025
-publishedDate: "2025-01-01T00:00:00.000Z"
-slug: "the-brutalist"
+publishedDate: '2025-01-01T00:00:00.000Z'
+slug: the-brutalist
 wordCount: 6981
 readingTimeMinutes: 32
-originalUrl: "https://docs.google.com/document/d/17WAcFrTOExgendrk2lGTxRIR4LVC3ZGbiU5Xe3kF4mg"
-source: "gdoc"
+originalUrl: >-
+  https://docs.google.com/document/d/17WAcFrTOExgendrk2lGTxRIR4LVC3ZGbiU5Xe3kF4mg
+source: gdoc
+tags:
+  - Fiction
 ---
 
 We are at a turning point in cinema where the classics seem as though they may never be made ever again. But we are trying.

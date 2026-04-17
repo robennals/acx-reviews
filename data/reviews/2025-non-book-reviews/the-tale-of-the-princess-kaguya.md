@@ -1,16 +1,19 @@
 ---
-title: "The Tale of the Princess Kaguya"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2025-non-book-reviews"
-contestName: "2025 Non Book Reviews"
+title: The Tale of the Princess Kaguya
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2025-non-book-reviews
+contestName: 2025 Non Book Reviews
 year: 2025
-publishedDate: "2025-01-01T00:00:00.000Z"
-slug: "the-tale-of-the-princess-kaguya"
+publishedDate: '2025-01-01T00:00:00.000Z'
+slug: the-tale-of-the-princess-kaguya
 wordCount: 9173
 readingTimeMinutes: 41
-originalUrl: "https://docs.google.com/document/d/17WAcFrTOExgendrk2lGTxRIR4LVC3ZGbiU5Xe3kF4mg"
-source: "gdoc"
+originalUrl: >-
+  https://docs.google.com/document/d/17WAcFrTOExgendrk2lGTxRIR4LVC3ZGbiU5Xe3kF4mg
+source: gdoc
+tags:
+  - Fiction
 ---
 
 ## I

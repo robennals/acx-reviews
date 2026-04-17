@@ -1,16 +1,20 @@
 ---
-title: "Silo, Seasons 1 & 2: Tiananmen Square"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2025-non-book-reviews"
-contestName: "2025 Non Book Reviews"
+title: 'Silo, Seasons 1 & 2: Tiananmen Square'
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2025-non-book-reviews
+contestName: 2025 Non Book Reviews
 year: 2025
-publishedDate: "2025-01-01T00:00:00.000Z"
-slug: "silo-seasons-1-2-tiananmen-square"
+publishedDate: '2025-01-01T00:00:00.000Z'
+slug: silo-seasons-1-2-tiananmen-square
 wordCount: 1804
 readingTimeMinutes: 9
-originalUrl: "https://docs.google.com/document/d/17WAcFrTOExgendrk2lGTxRIR4LVC3ZGbiU5Xe3kF4mg"
-source: "gdoc"
+originalUrl: >-
+  https://docs.google.com/document/d/17WAcFrTOExgendrk2lGTxRIR4LVC3ZGbiU5Xe3kF4mg
+source: gdoc
+tags:
+  - Fiction
+  - Politics
 ---
 
 The death of a famous, reformist Chinese politician, in early 1989, led to a series of regime-approved student rallies in his honor. The most important of these rallies took place in Tiananmen Square, the huge, symbolical center of Beijing just outside of the old imperial palace (by then a museum for decades), also fairly close to Zhongnanhai, the Chinese White House.

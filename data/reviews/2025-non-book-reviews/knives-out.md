@@ -1,16 +1,19 @@
 ---
-title: "Knives Out"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2025-non-book-reviews"
-contestName: "2025 Non Book Reviews"
+title: Knives Out
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2025-non-book-reviews
+contestName: 2025 Non Book Reviews
 year: 2025
-publishedDate: "2025-01-01T00:00:00.000Z"
-slug: "knives-out"
+publishedDate: '2025-01-01T00:00:00.000Z'
+slug: knives-out
 wordCount: 4792
 readingTimeMinutes: 22
-originalUrl: "https://docs.google.com/document/d/17WAcFrTOExgendrk2lGTxRIR4LVC3ZGbiU5Xe3kF4mg"
-source: "gdoc"
+originalUrl: >-
+  https://docs.google.com/document/d/17WAcFrTOExgendrk2lGTxRIR4LVC3ZGbiU5Xe3kF4mg
+source: gdoc
+tags:
+  - Fiction
 ---
 
 When I was doing the research for this review, I came up with a lot of theories. Many of them are half-baked, but I want to put the one I feel most confident about first because I’m really proud of it.

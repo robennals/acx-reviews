@@ -1,16 +1,20 @@
 ---
-title: "Person of Interest"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2025-non-book-reviews"
-contestName: "2025 Non Book Reviews"
+title: Person of Interest
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2025-non-book-reviews
+contestName: 2025 Non Book Reviews
 year: 2025
-publishedDate: "2025-01-01T00:00:00.000Z"
-slug: "person-of-interest"
+publishedDate: '2025-01-01T00:00:00.000Z'
+slug: person-of-interest
 wordCount: 6447
 readingTimeMinutes: 29
-originalUrl: "https://docs.google.com/document/d/17WAcFrTOExgendrk2lGTxRIR4LVC3ZGbiU5Xe3kF4mg"
-source: "gdoc"
+originalUrl: >-
+  https://docs.google.com/document/d/17WAcFrTOExgendrk2lGTxRIR4LVC3ZGbiU5Xe3kF4mg
+source: gdoc
+tags:
+  - Fiction
+  - Technology
 ---
 
 On September 11th, 2001, four planes crashed in the United States. One plane crashed in a field in Pennsylvania, one into the West side of the Pentagon, and two into the so-called twin towers of the World Trade Center.

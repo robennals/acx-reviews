@@ -1,16 +1,20 @@
 ---
-title: "Inside"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2025-non-book-reviews"
-contestName: "2025 Non Book Reviews"
+title: Inside
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2025-non-book-reviews
+contestName: 2025 Non Book Reviews
 year: 2025
-publishedDate: "2025-01-01T00:00:00.000Z"
-slug: "inside"
+publishedDate: '2025-01-01T00:00:00.000Z'
+slug: inside
 wordCount: 6063
 readingTimeMinutes: 27
-originalUrl: "https://docs.google.com/document/d/17WAcFrTOExgendrk2lGTxRIR4LVC3ZGbiU5Xe3kF4mg"
-source: "gdoc"
+originalUrl: >-
+  https://docs.google.com/document/d/17WAcFrTOExgendrk2lGTxRIR4LVC3ZGbiU5Xe3kF4mg
+source: gdoc
+tags:
+  - Fiction
+  - Memoir
 ---
 
 _[Inside](https://www.netflix.com/title/81289483)_ is a comedy special that was written, shot, and edited by musical comedian Bo Burnham while he was stuck in quarantine during the 2020 pandemic--that’s the basic premise, anyway. He doesn’t just tell jokes or sing funny songs to the camera: he makes it a full-on production, with professional-grade lighting, camera work, and editing, putting it structurally somewhere between a traditional comedy special and a feature film. That alone makes it unique, but if _Inside_ was just well-framed jokes and music, I wouldn’t be writing about it. I’m writing about it because it’s also full of social commentary, meta-commentary, existential crises, and questions of identity, authenticity, and spectacle that are all reflective of modern times. If future civilizations were curious what we’ve grappled with as the first generation with ubiquitous social networks and smartphones (or as the last generation before AGI), I would want it to be at the top of their watchlist. To me, pound for pound, _Inside_ is one of the most vivid portraits of the challenges of the social media era ever created, and I hope to explain in this review how Bo Burnham paints such a portrait. To start off, let’s look at how he ended up as the man for the job--in a classic case of preparation meeting opportunity.

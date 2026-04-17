@@ -1,16 +1,20 @@
 ---
-title: "The Future of Legal AI: A Revue Review of the 2025 Stanford Law School Musical"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2025-non-book-reviews"
-contestName: "2025 Non Book Reviews"
+title: 'The Future of Legal AI: A Revue Review of the 2025 Stanford Law School Musical'
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2025-non-book-reviews
+contestName: 2025 Non Book Reviews
 year: 2025
-publishedDate: "2025-01-01T00:00:00.000Z"
-slug: "the-future-of-legal-ai-a-revue-review-of-the-2025-stanford-law-school-musical"
+publishedDate: '2025-01-01T00:00:00.000Z'
+slug: the-future-of-legal-ai-a-revue-review-of-the-2025-stanford-law-school-musical
 wordCount: 3659
 readingTimeMinutes: 17
-originalUrl: "https://docs.google.com/document/d/17WAcFrTOExgendrk2lGTxRIR4LVC3ZGbiU5Xe3kF4mg"
-source: "gdoc"
+originalUrl: >-
+  https://docs.google.com/document/d/17WAcFrTOExgendrk2lGTxRIR4LVC3ZGbiU5Xe3kF4mg
+source: gdoc
+tags:
+  - Technology
+  - Society
 ---
 
 Every year, the students of the Stanford Law School produce and perform a musical (“MuSLSical”). The performance typically features a number of short sketches, pre-filmed videos, and songs adapted from the pop canon to reference law school argot. This year, I had the honor of being invited to attend the MuSLSical. To my surprise and delight, this year’s set featured AI Safety heavily, which happens to be a topic of interest to me. This post will analyze the musical, assess the accuracy of its portrayal of AI, and rate it in terms of its enjoyability.

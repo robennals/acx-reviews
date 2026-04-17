@@ -1,16 +1,20 @@
 ---
-title: "Islamic geometric patterns in the Metropolitan Museum of Art"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2025-non-book-reviews"
-contestName: "2025 Non Book Reviews"
+title: Islamic geometric patterns in the Metropolitan Museum of Art
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2025-non-book-reviews
+contestName: 2025 Non Book Reviews
 year: 2025
-publishedDate: "2025-01-01T00:00:00.000Z"
-slug: "islamic-geometric-patterns-in-the-metropolitan-museum-of-art"
+publishedDate: '2025-01-01T00:00:00.000Z'
+slug: islamic-geometric-patterns-in-the-metropolitan-museum-of-art
 wordCount: 5335
 readingTimeMinutes: 24
-originalUrl: "https://docs.google.com/document/d/1d0vRSj1E93joWWvbUen2XGuDjN_mM94ybMIAADzM2fo"
-source: "gdoc"
+originalUrl: >-
+  https://docs.google.com/document/d/1d0vRSj1E93joWWvbUen2XGuDjN_mM94ybMIAADzM2fo
+source: gdoc
+tags:
+  - History
+  - Religion
 ---
 
 ![](https://acximages.ennals.org/images/2025-non-book-reviews/b7ff3f56667d925d.jpg)

@@ -1,16 +1,19 @@
 ---
-title: "Princess Mononoke"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2025-non-book-reviews"
-contestName: "2025 Non Book Reviews"
+title: Princess Mononoke
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2025-non-book-reviews
+contestName: 2025 Non Book Reviews
 year: 2025
-publishedDate: "2025-01-01T00:00:00.000Z"
-slug: "princess-mononoke"
+publishedDate: '2025-01-01T00:00:00.000Z'
+slug: princess-mononoke
 wordCount: 2606
 readingTimeMinutes: 12
-originalUrl: "https://docs.google.com/document/d/17WAcFrTOExgendrk2lGTxRIR4LVC3ZGbiU5Xe3kF4mg"
-source: "gdoc"
+originalUrl: >-
+  https://docs.google.com/document/d/17WAcFrTOExgendrk2lGTxRIR4LVC3ZGbiU5Xe3kF4mg
+source: gdoc
+tags:
+  - Fiction
 ---
 
 In the opening scene of _Princess Mononoke_, a boar god turned demon attacks a village. A trio of three basket-carrying village girls are caught at the outskirts of the village. One of them stumbles as the boar attacks. The other two stand their ground and draw their swords.

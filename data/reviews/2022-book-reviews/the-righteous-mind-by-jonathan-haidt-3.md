@@ -1,16 +1,21 @@
 ---
-title: "The Righteous Mind by Jonathan Haidt"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2022-book-reviews"
-contestName: "2022 Book Reviews"
+title: The Righteous Mind by Jonathan Haidt
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2022-book-reviews
+contestName: 2022 Book Reviews
 year: 2022
-publishedDate: "2022-01-01T00:00:00.000Z"
-slug: "the-righteous-mind-by-jonathan-haidt-3"
+publishedDate: '2022-01-01T00:00:00.000Z'
+slug: the-righteous-mind-by-jonathan-haidt-3
 wordCount: 11643
 readingTimeMinutes: 52
-originalUrl: "https://docs.google.com/document/d/1hFzjXliCAWjvheY-8Qd2fhbF79LnX0Xg6R9eqk9yIyI"
-source: "gdoc"
+originalUrl: >-
+  https://docs.google.com/document/d/1hFzjXliCAWjvheY-8Qd2fhbF79LnX0Xg6R9eqk9yIyI
+source: gdoc
+tags:
+  - Psychology
+  - Philosophy
+  - Politics
 ---
 
 (review by E)
