@@ -23,15 +23,6 @@ export function FootnoteSheet() {
   const current = openId ? footnotes.find((f) => f.id === openId) : null;
   const isOpen = Boolean(current);
 
-  const jumpToReference = () => {
-    if (!openId) return;
-    const el = document.getElementById(`fn-ref-${openId}`);
-    close();
-    requestAnimationFrame(() => {
-      el?.scrollIntoView({ behavior: 'smooth', block: 'center' });
-    });
-  };
-
   if (isMobile) {
     return (
       <Drawer.Root open={isOpen} onOpenChange={(o) => !o && close()}>
@@ -49,13 +40,6 @@ export function FootnoteSheet() {
                   dangerouslySetInnerHTML={{ __html: current.html }}
                 />
               )}
-              <button
-                type="button"
-                onClick={jumpToReference}
-                className="mt-4 text-sm text-link hover:underline"
-              >
-                Jump to reference ↩
-              </button>
             </div>
           </Drawer.Content>
         </Drawer.Portal>
@@ -73,13 +57,6 @@ export function FootnoteSheet() {
             dangerouslySetInnerHTML={{ __html: current.html }}
           />
         )}
-        <button
-          type="button"
-          onClick={jumpToReference}
-          className="mt-4 text-sm text-link hover:underline"
-        >
-          Jump to reference ↩
-        </button>
       </DialogContent>
     </Dialog>
   );
