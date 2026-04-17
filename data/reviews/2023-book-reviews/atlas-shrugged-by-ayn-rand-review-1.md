@@ -7,8 +7,8 @@ contestName: 2023 Book Reviews
 year: 2023
 publishedDate: '2026-02-06T07:21:10.021Z'
 slug: atlas-shrugged-by-ayn-rand-review-1
-wordCount: 12111
-readingTimeMinutes: 54
+wordCount: 12173
+readingTimeMinutes: 55
 originalUrl: >-
   https://docs.google.com/document/d/10CiEI7aDL2bMIdx7yayy3vlq0TJ8dO5LGnG7yIDPiw8
 source: gdoc
@@ -17,23 +17,23 @@ tags:
   - Philosophy
 ---
 
-If you’re like me, you don’t know anything about Atlas Shrugged.
+If you’re like me, you don’t know anything about _Atlas Shrugged_.
 
-Oh sure, you’ve heard it mentioned in passing, maybe seen a quick reference on the telly. Perhaps you’ve run across the occasional penniless hobo, who whispers the word Objectivism before dissipating into smoke. But beyond that, you don’t have any real idea of what the book is, or what it’s about.
+Oh sure, you’ve heard it mentioned in passing, maybe seen a quick reference on the telly. Perhaps you’ve run across the occasional penniless hobo, who whispers the word **Objectivism** before dissipating into smoke. But beyond that, you don’t have any real idea of what the book is, or what it’s about.
 
 I’m here to remedy that.
 
-I’m also here to pontificate on why you and I don’t know all that much about a seminal work of philosophical fiction. And throw in my own personal bouts of philosophizing, because I’m the one talking now and you can’t stop me. In fact, I’m here to do a lot of things, so let’s get this train out of the station, yeah? Here’s my book review for Ayn Rand’s 1957 novel, Atlas Shrugged.
+I’m also here to pontificate on why you and I don’t know all that much about a seminal work of philosophical fiction. And throw in my own personal bouts of philosophizing, because I’m the one talking now and you can’t stop me. In fact, I’m here to do a lot of things, so let’s get this train out of the station, yeah? Here’s my book review for Ayn Rand’s 1957 novel, _Atlas Shrugged_.
 
 * * *
 
-“Who is John Galt?”
-
-The light was ebbing, and Eddie Willers could not distinguish the bum’s face. The bum had said it simply, without expression. But from the sunset far at the end of the street, yellow glints caught his eyes, and the eyes looked straight at Eddie Willers, mocking and still—as if the question had been addressed to the causeless uneasiness within him.
+> “Who is John Galt?”
+>
+> The light was ebbing, and Eddie Willers could not distinguish the bum’s face. The bum had said it simply, without expression. But from the sunset far at the end of the street, yellow glints caught his eyes, and the eyes looked straight at Eddie Willers, mocking and still—as if the question had been addressed to the causeless uneasiness within him.
 
 This is the opening paragraph of the book, and it does an excellent job of showing you exactly what Rand’s priorities are. There are many philosophers which explain themselves and their ideologies in neatly clipped terminology. Carefully crafted and defined so that everyone is agreed on exactly what they are saying, and what they mean. Yet for every ounce of clarity they manage to gain, they lose a pound of glamour.
 
-Rand is very interested in conveying her ideology to you, the reader. Of course she is, the book is over a thousand pages long. But her goal doesn’t stop there. She also wants the glamour. She wants the sweeping themes, and stories of great men, doing great things. She wants a crippled society, glimpses of beauty and joy; enigma, and revelation. She wants to place her philosophy in a world that makes it golden. This is what sets Atlas apart from other great philosophical works. It is the cornerstone of the story, not the structure. The base upon which a compelling narrative can be built. A mystery which is up to the reader to solve. “Who is John Galt?” Is not merely a question. It is a promise. A promise uttered by a filthy bum on the side of the street. But perhaps I’m getting ahead of myself.
+Rand is very interested in conveying her ideology to you, the reader. Of course she is, the book is over a thousand pages long. But her goal doesn’t stop there. She also wants the glamour. She wants the sweeping themes, and stories of great men, doing great things. She wants a crippled society, glimpses of beauty and joy; enigma, and revelation. She wants to place her philosophy in a world that makes it golden. This is what sets _Atlas_ apart from other great philosophical works. It is the cornerstone of the story, not the structure. The base upon which a compelling narrative can be built. A mystery which is up to the reader to solve. “Who is John Galt?” Is not merely a question. It is a promise. A promise uttered by a filthy bum on the side of the street. But perhaps I’m getting ahead of myself.
 
 ### Setting the Stage
 
@@ -43,7 +43,7 @@ You’d be forgiven for thinking that Eddie Willers is the main character of thi
 
 Dagny is heiress to the Taggart fortune, not its founder, with the company first brought into being by the much reviled and admired Nat Taggart, generations ago. That said, she is perhaps the only character in the book that truly, intimately loves Taggart Transcontinental. To run and grow the company is her goal, and her continued efficacy in doing so makes that goal her birthright.
 
-Somewhere on the edge of her mind, under the music, she heard the sound of train wheels. They knocked in an even rhythm, every fourth knock accented, as if stressing a conscious purpose. She could relax, because she heard the wheels. She listened to the symphony, thinking: This is why the wheels have to be kept going, and this is where they’re going.
+> Somewhere on the edge of her mind, under the music, she heard the sound of train wheels. They knocked in an even rhythm, every fourth knock accented, as if stressing a conscious purpose. She could relax, because she heard the wheels. She listened to the symphony, thinking: This is why the wheels have to be kept going, and this is where they’re going.
 
 But the company is unconcerned with an earned birthright. The board recognizes her talent for running the trains on time, but her brother, James Taggart, holds their esteem. More traditional to keep the eldest son as president of the company, after all. Plus, I hear he’s got great connections with the boys in Washington.
 
@@ -51,59 +51,59 @@ James Taggart is many things, but he is not a businessman. Under his guidance, T
 
 The book opens a few years into this dynamic, with Dagny trying to repair and revitalize the failing company, while James sits at his desk and complains about things. To pull a few quotes from the balding fellow:
 
-“Railroad accidents happen every day. Did you have to bother me about that?”
-
-…
-
-“But the board hasn’t authorized it. I haven’t authorized it. You haven’t consulted me.”
-
-She reached over, picked up the receiver of a telephone on his desk and handed it to him.
-
-“Call Rearden and cancel it,” she said.
-
-James Taggart moved back in his chair. “I haven’t said that,” he answered angrily. “I haven’t said that at all.”
-
-“Then it stands?”
-
-“I haven’t said that either.”
-
-…
-
-“Other people are human. They’re sensitive. They can’t devote their whole life to metals and engines. You’re lucky—you’ve never had any feelings. You’ve never felt anything at all.”
+> “Railroad accidents happen every day. Did you have to bother me about that?”
+>
+> …
+>
+> “But the board hasn’t authorized it. I haven’t authorized it. You haven’t consulted me.”
+>
+> She reached over, picked up the receiver of a telephone on his desk and handed it to him.
+>
+> “Call Rearden and cancel it,” she said.
+>
+> James Taggart moved back in his chair. “I haven’t said that,” he answered angrily. “I haven’t said that at all.”
+>
+> “Then it stands?”
+>
+> “I haven’t said that either.”
+>
+> …
+>
+> “Other people are human. They’re sensitive. They can’t devote their whole life to metals and engines. You’re lucky—you’ve never had any feelings. You’ve never felt anything at all.”
 
 James exists in a state of constant, nigh-unwavering petulance. Particularly when speaking with his sister. Despite the fact that he could easily overturn any decision she chooses to make, he would much prefer to whinge about it, on and on, lecturing her, not so much on the fact that she’s wrong, but rather the implication that other people believe that she is in the wrong. Dagny, on the other hand, is very direct. She knows what she wants to do, the reasons why she wants to do it, explains both concisely, and acts accordingly.
 
 You get the sense that the two are talking past each other, whenever they interact. As though the world that each lives in is so fundamentally different that communication becomes practically impossible. So, James orders steel for a new railway from his friend Orren Boyle (who coincidentally also has connections in Washington), who then proceeds to never deliver any steel on time, ever. Dagny cuts the cord, and orders from their reliable long time supplier Hank Rearden instead. All she cares about is getting their metal on time, but James can’t seem to get past the insult to his friend, the undermining of his own power, and his startling inability to force her to do what he wants without ever saying it.
 
-Dagny and James set the template for many to come. With a few sparse exceptions, Atlas is not terribly interested in creating morally ambiguous characters, at least not within the lens of its story. Dagny is a moral good, as are her words, as are her actions; while James is a moral evil, as are his words, as are his actions. Once it is sure you understand this, the narrative starts to reveal Rand’s philosophy, one lingering question at a time. Why is Dagny serving as James’s lesser? Why doesn’t James actually assert his authority? Is this an isolated event, or a broader trend throughout society? Throughout history? How do these two people define the world that we live in?
+Dagny and James set the template for many to come. With a few sparse exceptions, _Atlas_ is not terribly interested in creating morally ambiguous characters, at least not within the lens of its story. Dagny is a moral good, as are her words, as are her actions; while James is a moral evil, as are his words, as are his actions. Once it is sure you understand this, the narrative starts to reveal Rand’s philosophy, one lingering question at a time. Why is Dagny serving as James’s lesser? Why doesn’t James actually assert his authority? Is this an isolated event, or a broader trend throughout society? Throughout history? How do these two people define the world that we live in?
 
 #### The Man of Copper
 
 Francisco d’Anconia is probably the best example I can give to support this moral certainty. His life runs parallel to Dagny’s, in many ways. He is heir to d’Anconia Copper, founded generations ago in Argentina by the much reviled and admired Sebastián d’Anconia. Unlike Nat Taggart, the d’Anconias were exceptionally skilled at raising their kids, in addition to running their business.
 
-“Francisco, you’re some kind of very high nobility, aren’t you?”…
-
-“Not yet. The reason my family has lasted for such a long time is that none of us has ever been permitted to think he is born a d’Anconia. We are expected to become one.”
+> “Francisco, you’re some kind of very high nobility, aren’t you?”…
+>
+> “Not yet. The reason my family has lasted for such a long time is that none of us has ever been permitted to think he is born a d’Anconia. We are expected to become one.”
 
 Successive generations of business prodigies have created a fortune so vast and sustainable that Francisco could freeload off of it his entire life, and three lifetimes to come, without the slightest worry of running out of cash.
 
 He and Dagny spent their summers together as children, and at the time, he seemed poised to capture the world within his hand:
 
-The d’Anconia heirs had been men of unusual ability, but none of them could match what Francisco d’Anconia promised to become. It was as if the centuries had sifted the family’s qualities through a fine mesh, had discarded the irrelevant, the inconsequential, the weak, and had let nothing through except pure talent; as if chance, for once, had achieved an entity devoid of the accidental.
-
-…
-
-Francisco could do anything he undertook, he could do it better than anyone else, and he did it without effort. There was no boasting in his manner and consciousness, no thought of comparison. His attitude was not “I can do it better than you,” but simply: “I can do it.” What he meant by doing was doing superlatively.
+> The d’Anconia heirs had been men of unusual ability, but none of them could match what Francisco d’Anconia promised to become. It was as if the centuries had sifted the family’s qualities through a fine mesh, had discarded the irrelevant, the inconsequential, the weak, and had let nothing through except pure talent; as if chance, for once, had achieved an entity devoid of the accidental.
+>
+> …
+>
+> Francisco could do anything he undertook, he could do it better than anyone else, and he did it without effort. There was no boasting in his manner and consciousness, no thought of comparison. His attitude was not “I can do it better than you,” but simply: “I can do it.” What he meant by doing was doing superlatively.
 
 Unlike Dagny, he did not struggle to claim his inheritance. When his father died, he became the owner of d’Anconia copper. And something strange happened. The wonder child, the one who could succeed in anything he pursued; the only one that truly, intimately loves d’Anconia Copper, becomes a playboy. He hosts opulent parties, he squanders his fortune, and he loses every ounce of respect that he had gained from Dagny during their childhood.
 
-Yet, the book never treats him the way that it treats James Taggart. Whenever he enters the room, he is not a sleaze, he is not a wanderer. He is a man of purposeful, direct action, who consistently shows insight into the people around him. Atlas is keen to reassure its reader that Francisco d’Anconia is a moral good. He is a man worth emulating. It then proceeds to let you sit with the question of “Why?” for several hundred pages, dropping bread crumbs all along the way.
+Yet, the book never treats him the way that it treats James Taggart. Whenever he enters the room, he is not a sleaze, he is not a wanderer. He is a man of purposeful, direct action, who consistently shows insight into the people around him. _Atlas_ is keen to reassure its reader that Francisco d’Anconia is a moral good. He is a man worth emulating. It then proceeds to let you sit with the question of “Why?” for several hundred pages, dropping bread crumbs all along the way.
 
 #### The Man of Steel
 
-There is one more man who needs to be introduced, before I can truly dig in to the plot and philosophy of Atlas Shrugged. He begins his journey suitably separate from the rest of the cast, yet standing as a monolith nonetheless.
+There is one more man who needs to be introduced, before I can truly dig in to the plot and philosophy of _Atlas Shrugged_. He begins his journey suitably separate from the rest of the cast, yet standing as a monolith nonetheless.
 
-Hank Rearden is an extremely successful industrialist. Hank Rearden is the most despised man in America. Rand’s book clings tightly to the ideal of the American dream, and Rearden is custom crafted to understand that dream in the present tense. He is a modern day Nat Taggart, a new born Sebastián d’Anconia. He has not inherited wealth, he has created it. Starting out as a lowly mine worker, and through tireless effort, ascending to become the biggest name in the metal industry. Upon his entry into Atlas, he has just created what may very well be the crowning achievement of his lifetime. Rearden Metal. The result of ten years of dedicated, expensive research, it is set to completely recontextualize industry. A green-blue alloy far more powerful than steel.
+Hank Rearden is an extremely successful industrialist. Hank Rearden is the most despised man in America. Rand’s book clings tightly to the ideal of the American dream, and Rearden is custom crafted to understand that dream in the present tense. He is a modern day Nat Taggart, a new born Sebastián d’Anconia. He has not inherited wealth, he has created it. Starting out as a lowly mine worker, and through tireless effort, ascending to become the biggest name in the metal industry. Upon his entry into _Atlas_, he has just created what may very well be the crowning achievement of his lifetime. Rearden Metal. The result of ten years of dedicated, expensive research, it is set to completely recontextualize industry. A green-blue alloy far more powerful than steel.
 
 Everyone hates it.
 
@@ -131,13 +131,13 @@ I did say that I would be waxing philosophical during this essay, right? Well, s
 
 I picked up this book, pretty much on a whim. I knew basically nothing about it, other than the fact that it is one of the classics. I haven’t read her other books, and I knew very little about objectivism beyond the name, and some vague ties to capitalism. Add to this, my preferred method for engaging with other people’s ideas is to give them as much credit as is humanly possible. I like to seek out grounds where someone else’s argument is strongest, because I find it to be the most intellectually stimulating to engage with. All of this to say, don’t be surprised if I give Rand too much credit, and/or totally misrepresent her. I know little enough about her philosophy that I can fill in the gaps with what I think is most appropriate, regardless of her actual stance.
 
-That said, I did read Atlas, and I did think about it. On my own. My reading was wholly uninfluenced by what other people might say about the book, including Ayn Rand herself. I hope that this results in a more honest reading overall, but it inevitably means that any bias in interpretation will be mine.
+That said, I did read _Atlas_, and I did think about it. On my own. My reading was wholly uninfluenced by what other people might say about the book, including Ayn Rand herself. I hope that this results in a more honest reading overall, but it inevitably means that any bias in interpretation will be mine.
 
 * * *
 
 ### A Climax of Fire
 
-Atlas Shrugged is split into three parts, each of which could function as a book in its own right. They work best together, though, as the lessons learned in each redefine the events that preceded them. At its face, part one is a classic tale of triumph turned tragedy. Dagny manages to construct the Colorado railway despite constant setbacks from James and his ilk, rebelliously dubbing it the John Galt Line. Rearden Metal takes its rightful place as a technological marvel. Ellis Wyatt narrowly avoids an early destruction, and is set to take the American economy by storm.
+_Atlas Shrugged_ is split into three parts, each of which could function as a book in its own right. They work best together, though, as the lessons learned in each redefine the events that preceded them. At its face, part one is a classic tale of triumph turned tragedy. Dagny manages to construct the Colorado railway despite constant setbacks from James and his ilk, rebelliously dubbing it the John Galt Line. Rearden Metal takes its rightful place as a technological marvel. Ellis Wyatt narrowly avoids an early destruction, and is set to take the American economy by storm.
 
 As hope becomes truth by the effort of our protagonists, something odd begins to happen with John Galt. People start to answer the question. Who is John Galt? He is a legend. The man who found Atlantis, and sank his own ship to live there. Discoverer of the Fountain of Youth, though he could not carry its waters to mankind. He is the titan Atlas, tortured holder of the sky.
 
@@ -149,21 +149,21 @@ As readers, we’ve only met Ellis Wyatt a few times in the book, and never from
 
 ### The Philosophical Spark
 
-With all of Colorado aflame, the time has come to talk philosophy. I know, we’re a ways in, but you can’t understand the value of Atlas Shrugged by reading through a bland listing of the tenets of objectivism. You lose too much. When Rand speaks, she speaks through the ever-burning oil fields of Ellis Wyatt. The shredded railways of Taggart Transcontinental. Every act within Atlas is world-shaking. Every piece of knowledge is precious. Anything less does the book a disservice.
+With all of Colorado aflame, the time has come to talk philosophy. I know, we’re a ways in, but you can’t understand the value of _Atlas Shrugged_ by reading through a bland listing of the tenets of objectivism. You lose too much. When Rand speaks, she speaks through the ever-burning oil fields of Ellis Wyatt. The shredded railways of Taggart Transcontinental. Every act within _Atlas_ is world-shaking. Every piece of knowledge is precious. Anything less does the book a disservice.
 
 As I’m sure you’ve noticed by now, the core of Rand’s philosophy revolves around a fervent support for the extremely wealthy industrialist, and a sincere distaste for government. The distaste for government isn’t particularly transgressive, but support for business fat cats certainly is. It’s an odd line to ride, but Rand has good reasons for it, so let’s get into the why.
 
 A scene in act two lays out the case most effectively. James Taggart is celebrating his wedding (and subtly gauging the stability of his social alliances), when Francisco d’Anconia crashes in, completely unexpected. He eventually sets off on a suitably dramatic monologue, talking, of all things, about money:
 
-“Money is made—before it can be looted or mooched—made by the effort of every honest man, each to the extent of his ability. An honest man is one who knows that he can’t consume more than he has produced.”
+> “Money is _made_—before it can be looted or mooched—made by the effort of every honest man, each to the extent of his ability. An honest man is one who knows that he can’t consume more than he has produced.”
+>
+> “To trade by means of money is the code of the men of good will. Money rests on the axiom that every man is the owner of his mind and his effort. … Money permits you to obtain for your goods and your labor that which they are worth to the men who buy them, but no more.”
+>
+> …
+>
+> “To the glory of mankind, there was, for the first and only time in history, a _country of money_—and I have no higher, more reverent tribute to pay to America, for this means: a country of reason, justice, freedom, production, achievement. For the first time, man’s mind and money were set free, and there were no fortunes-by conquest, but only fortunes-by-work, and instead of swordsmen and slaves, there appeared the real maker of wealth, the greatest worker, the highest type of human being—the self-made man—the American industrialist.”
 
-“To trade by means of money is the code of the men of good will. Money rests on the axiom that every man is the owner of his mind and his effort. … Money permits you to obtain for your goods and your labor that which they are worth to the men who buy them, but no more.”
-
-…
-
-“To the glory of mankind, there was, for the first and only time in history, a country of money—and I have no higher, more reverent tribute to pay to America, for this means: a country of reason, justice, freedom, production, achievement. For the first time, man’s mind and money were set free, and there were no fortunes-by conquest, but only fortunes-by-work, and instead of swordsmen and slaves, there appeared the real maker of wealth, the greatest worker, the highest type of human being—the self-made man—the American industrialist.”
-
-The industrialist is a moral good because they have gained their money in a morally upright manner. They have brought into the world, something which people are willing to voluntarily pay for. They did not take it by force, nor was it given to them as pittance. The industrialist has made money.
+The industrialist is a moral good because they have gained their money in a morally upright manner. They have brought into the world, something which people are willing to voluntarily pay for. They did not take it by force, nor was it given to them as pittance. The industrialist has **made** money.
 
 We don’t tend to think of it this way, but money makes a surprisingly good proxy for human value. I’m not hungry, so I don’t spend much on food. I love watching TV, so I pay for cable. I have an overwhelming urge to bury my canned goods, so I buy a shovel and a few sessions with a psychiatrist. Whatever humans value, reasonable or strange, that is where the money goes. So, that said, it’s kind of weird that we hate rich people, right? That we claim money as the root of all evil? As long as the system is working correctly, and money directly relates to human value, then the wealthiest people will inevitably be the ones that have generated the most value. They will be the ones who have produced the most for society. The ones that are most deserving of wealth. Why then, do we pay them in scorn?
 
@@ -183,15 +183,15 @@ Consider, for a moment, how often you hear from government officials that they a
 
 Or are they?
 
-Years before the events of Atlas Shrugged, the Twentieth Century Motor Company had a change in management. Jed Starnes died off and left the company to his three kids, who had a radical new plan for how to run the company. “From each according to his ability, to each according to his need.” Six thousand workers would be given whatever money they needed, paid for by their collective profit as a business. The plan was put to a vote among the workers, and passed unanimously.
+Years before the events of _Atlas Shrugged_, the Twentieth Century Motor Company had a change in management. Jed Starnes died off and left the company to his three kids, who had a radical new plan for how to run the company. “From each according to his ability, to each according to his need.” Six thousand workers would be given whatever money they needed, paid for by their collective profit as a business. The plan was put to a vote among the workers, and passed unanimously.
 
-Sounds nice, doesn’t it? We’re all in this together. Every need would be satisfied, and we’d all be equals. But wouldn’t you know it, the darndest thing happened. Suddenly, people started getting really needy, and pretty much stopped working altogether. Sure, there were some rubes who were working eighty hour weeks while getting paid jack squat, but they broke from the stress eventually. Everyone started distrusting one another, hating one another. Suddenly, other people were all lazy, and obviously lying through their teeth about their daughter’s broken leg. Every meal that someone else eats is coming out of my paycheck. Every movie they attend, every bobblehead they want to collect, every wedding, every kid, every investment, every thing that they could possibly do, is to my personal detriment.
+Sounds nice, doesn’t it? We’re all in this together. Every need would be satisfied, and we’d all be equals. But wouldn’t you know it, the darndest thing happened. Suddenly, people started getting really needy, and pretty much stopped working altogether. Sure, there were some rubes who were working eighty hour weeks while getting paid jack squat, but they broke from the stress eventually. Everyone started distrusting one another, hating one another. Suddenly, other people were all lazy, and obviously lying through their teeth about their daughter’s broken leg. Every meal that someone else eats is coming out of _my_ paycheck. Every movie they attend, every bobblehead they want to collect, every wedding, every kid, every investment, every thing that they could possibly do, is to my personal detriment.
 
 The best way to succeed in the company was to have ten kinds of debilitating illness and no dependents, all while working the absolute minimum amount you could get away with. Oh, or you could be friends with one of the Starnes siblings. After all, when six thousand people are all talking about how much need they have, it’s pretty arbitrary who actually gets paid, right? One person’s hungry kid is the same as another’s sick grandma on the need-o-meter, after all. Among this cacophony of needs, someone had to make the decisions, and wouldn’t you know it, the most needy people always seemed to be the ones who brown-nosed the Starnes.
 
 The company goes under a few years after new management takes over. Thinking back on the event, a former employee gives this assessment (with ‘the guff’ referring to talk about the social good):
 
-“The guff gave us a chance to pass off as virtue something that we’d be ashamed to admit otherwise. There wasn’t a man voting for it who didn’t think that under a setup of this kind he’d muscle in on the profits of the men abler than himself. There wasn’t a man rich and smart enough but that he didn’t think that somebody was richer and smarter, and this plan would give him a share of his better’s wealth and brain.”
+> “The guff gave us a chance to pass off as virtue something that we’d be ashamed to admit otherwise. There wasn’t a man voting for it who didn’t think that under a setup of this kind he’d muscle in on the profits of the men abler than himself. There wasn’t a man rich and smart enough but that he didn’t think that somebody was richer and smarter, and this plan would give him a share of his better’s wealth and brain.”
 
 Which nicely rounds out the lessons we’re meant to learn from this tale, I think. When you give to the needy, you encourage neediness. When you take from the productive, you discourage productivity. Any system which does not produce above its need is doomed for destruction. socialism (and co.) is a cause that is founded upon maximizing need and minimizing production, and it thrives upon the back of a cruel, unjust sort of greed. The desire for that which you have not earned.
 
@@ -215,7 +215,7 @@ The day the vote passed, Galt walked out on the world, leaving his invention on 
 
 ### Tangents and Elaborations
 
-With the reveal of John Galt, the core philosophy of Atlas Shrugged has been established. But that isn’t its whole, not by a long shot. Rand illustrates her views on a wide variety of topics throughout the book. There’s too many to comprehensively list here, but I’ll go through some of the recurrent ones, in order to give you a broader view of objectivism and how it works.
+With the reveal of John Galt, the core philosophy of _Atlas Shrugged_ has been established. But that isn’t its whole, not by a long shot. Rand illustrates her views on a wide variety of topics throughout the book. There’s too many to comprehensively list here, but I’ll go through some of the recurrent ones, in order to give you a broader view of objectivism and how it works.
 
 #### The Role of Government
 
@@ -223,9 +223,9 @@ It’s worth noting that Rand is opposed to more than just centralized, national
 
 That said, Rand is no anarchist. She simply wants to restrict the functions which governing bodies can perform. John Galt has a massive act three speech, which gives her stance some explicit detail:
 
-“The only proper purpose of a government is to protect man’s rights, which means: to protect him from physical violence. A proper government is only a policeman, acting as an agent of man’s self-defense, and, as such, may resort to force only against those who start the use of force. The only proper functions of a government are: the police, to protect you from criminals; the army, to protect you from foreign invaders; and the courts, to protect your property and contracts from breach or fraud by others, to settle disputes by rational rules, according to objective law.”
+> “The only proper purpose of a government is to protect man’s rights, which means: to protect him from physical violence. A proper government is only a policeman, acting as an agent of man’s self-defense, and, as such, may resort to force _only_ against those who _start_ the use of force. The only proper functions of a government are: the police, to protect you from criminals; the army, to protect you from foreign invaders; and the courts, to protect your property and contracts from breach or fraud by others, to settle disputes by rational rules, according to _objective_ law.”
 
-Beyond a few snippets like this, Rand doesn’t go into too much detail on her vision of a perfect government. Atlas is a book about the decay and downfall of a flawed society, not the formation of a new one. It’s a shame. I’d particularly like to know how she expects to fund the army, police, and judiciary without implementing a system of taxation, which she clearly regards as unjust. Perhaps that was a topic for another book.
+Beyond a few snippets like this, Rand doesn’t go into too much detail on her vision of a perfect government. _Atlas_ is a book about the decay and downfall of a flawed society, not the formation of a new one. It’s a shame. I’d particularly like to know how she expects to fund the army, police, and judiciary without implementing a system of taxation, which she clearly regards as unjust. Perhaps that was a topic for another book.
 
 #### The Other Side
 
@@ -237,7 +237,7 @@ All of this results in a game of secret truths for the Orren Boyles of the world
 
 This isn’t even totally his fault. After all, for years he’s been making horrible decisions. Dagny has fixed them. He’s made unconscionably bad investments. Dagny has turned a profit elsewhere. A big reason why he clings to his beliefs so fervently is because, for years now, Taggart Transcontinental has been fine. He has been fine. Dagny fixed any mistakes, so James could continue living within his void. It was by her ability that he was allowed to persist as a fool.
 
-This is another recurring theme within Atlas. “The Sanction of the Victim.” As Hank Rearden produces Rearden Metal at the behest of government officials, as he is blackmailed into ‘willingly’ handing over the patent to it, he gives them credibility, in their own eyes and the eyes of society. It is fine to steal from someone, as long as they submit willingly, after all. Why, I might even be the good guy! It is a righteous world, where a man must give me a portion of his effort, for nothing in return. I am an arbiter of justice, when I collect my due. I deserve your good. I am good. Tell me that I am good.
+This is another recurring theme within _Atlas_. “The Sanction of the Victim.” As Hank Rearden produces Rearden Metal at the behest of government officials, as he is blackmailed into ‘willingly’ handing over the patent to it, he gives them credibility, in their own eyes and the eyes of society. It is fine to steal from someone, as long as they submit willingly, after all. Why, I might even be the good guy! It is a righteous world, where a man must give me a portion of his effort, for nothing in return. I am an arbiter of justice, when I collect my due. I deserve your good. I am good. Tell me that I am good.
 
 When Rearden loses his life’s work, the government goes on to rename it “Miracle Metal”. With that, its narrative purpose is completed. What was once the work of a man, willing to change the world for mutual profit with society, is now a miracle. Who knows where it came from? It just appeared within our midst one day, with no effort, and as such all of humanity is entitled to its benefits. That which was shunned by society is now found to benefit society, and therefore cannot be owned by any one person. It belongs to everyone, and it will belong to everyone, by any means we deem necessary.
 
@@ -247,25 +247,25 @@ In his own warped way, James Taggart understands the game just as well as John G
 
 Rationality as a moral good is another core tenet of objectivism. To quote John Galt’s big speech again:
 
-“But you are not free to escape from your nature, from the fact that reason is your means of survival—so that for you, who are a human being, the question ‘to be or not to be’ is the question ‘to think or not to think.’
+> “But you are not free to escape from your nature, from the fact that _reason_ is your means of survival—so that for _you,_ who are a human being, the question ‘to be or not to be’ is the question ‘to think or not to think.’
+>
+> …
+>
+> “Man must obtain his knowledge and choose his actions by a process of thinking, which nature will not force him to perform. Man has the power to act as his own destroyer—and that is the way he has acted through most of history.”
 
-…
-
-“Man must obtain his knowledge and choose his actions by a process of thinking, which nature will not force him to perform. Man has the power to act as his own destroyer—and that is the way he has acted through most of history.”
-
-Other creatures benefit from claws, or muscle. They cannot ignore their most valuable asset, they must use it to act in their own interest, or die. The same is true for mankind. The only difference being that we must choose to act in our own interest. Teeth do not decide whether they are used for chewing. A mind must decide whether it is worth using for thinking.
+Other creatures benefit from claws, or muscle. They cannot ignore their most valuable asset, they must use it to act in their own interest, or die. The same is true for mankind. The only difference being that we must _choose_ to act in our own interest. Teeth do not decide whether they are used for chewing. A mind must decide whether it is worth using for thinking.
 
 It is. Which is really obvious, once you start to think about it (though that might be the problem, right there). Air conditioning, pulleys, planes, cars, guns, legal codes, buildings, art, music, math, physics, movies, phones, computers, games, fashion, language, ideology, morality, kindness, beauty, romance. Joy. All of these are reliant upon, contingent upon, the working human mind.
 
-“Mother, do they think it’s exactly in reverse?” she asked.
+> “Mother, do they think it’s exactly in reverse?” she asked.
+>
+> “What?” asked Mrs. Taggart, bewildered.
+>
+> “The things you were talking about. The lights and the flowers. Do they expect those things to make them romantic, not the other way around?”
 
-“What?” asked Mrs. Taggart, bewildered.
+Without your mind, perhaps you are a pathetic, insignificant speck within the roiling gut of the universe. But you have a mind. By the simple act of thinking, you create value not only within yourself, but within innumerable activities which you perform. _You_ make the flowers romantic. _You_ make the food delicious. _You_ make the engine run. _You_ make the universe known. Thought is not merely a key to your survival. It is not a simple instinct. It is a choice that you make, which enriches everything you touch. Your thought is your purpose in life, and its scope is wide and fulfilling.
 
-“The things you were talking about. The lights and the flowers. Do they expect those things to make them romantic, not the other way around?”
-
-Without your mind, perhaps you are a pathetic, insignificant speck within the roiling gut of the universe. But you have a mind. By the simple act of thinking, you create value not only within yourself, but within innumerable activities which you perform. You make the flowers romantic. You make the food delicious. You make the engine run. You make the universe known. Thought is not merely a key to your survival. It is not a simple instinct. It is a choice that you make, which enriches everything you touch. Your thought is your purpose in life, and its scope is wide and fulfilling.
-
-Atlas warns against those who wish to take this away from you. Those who wish to replace thought with obedience. Rationality is your defense against such people, as they inevitably must ask you to believe the preposterous. This cree is your defense.
+_Atlas_ warns against those who wish to take this away from you. Those who wish to replace thought with obedience. Rationality is your defense against such people, as they inevitably must ask you to believe the preposterous. This cree is your defense.
 
 “A is A”. You exist. The world exists.
 
@@ -275,7 +275,7 @@ But suppose, for a moment, that you don’t exist. You are simply a bag of insti
 
 It’s not as if Rand views the rational mind as infallible. I may say that rainfall works one way, you may say another, and eventually reality will adjudicate. One of us will be wrong, even though we both had perfectly rational reasons for our beliefs. The illness comes when we fail to adjust our thinking, in light of evidence. When we ignore reality and its dictums, instead settling for what we might prefer.
 
-“Learn to distinguish the difference between errors of knowledge and breaches of morality. An error of knowledge is not a moral flaw, provided you are willing to correct it; … But a breach of morality is the conscious choice of an action you know to be evil, or a willful evasion of knowledge”
+> “Learn to distinguish the difference between errors of knowledge and breaches of morality. An error of knowledge is not a moral flaw, provided you are willing to correct it; … But a breach of morality is the conscious choice of an action you know to be evil, or a willful evasion of knowledge”
 
 This is why a rational mind is morally good, in Rand’s opinion. It is rational to produce good things, and pursue joy in your life. To make more than you take. Further than this, a rational mind understands the worthlessness of unearned wealth. If I kill a man and take his possessions; if I receive pittance for the mere fact of being poor, I have not earned it. My wealth is a testament to my inability to create wealth. The rational mind will do all it can to avoid such an evil. The irrational mind will embrace it, or pretend it doesn’t exist.
 
@@ -313,17 +313,17 @@ Each of these is well telegraphed in advance, with Dagny suddenly, ah, feeling t
 
 Once the dam inevitably breaks, Rand keeps it classy, though she definitely doesn’t skimp on passion. Here are a few examples, one with Francisco, one with Rearden, and one with Galt:
 
-She knew that fear was useless, that he would do what he wished, that the decision was his, that he left nothing possible to her except the thing she wanted most—to submit. … Don’t ask me for it—oh, don’t ask me—do it!
+> She knew that fear was useless, that he would do what he wished, that the decision was his, that he left nothing possible to her except the thing she wanted most—to submit. … Don’t ask me for it—oh, don’t ask me—do it!
+>
+> …
+>
+> She looked at the glowing bands on the skin of her arm, spaced like bracelets from her wrist to her shoulder. They were strips of sunlight from the Venetian blinds on the window of an unfamiliar room. She saw a bruise above her elbow, with dark beads that had been blood.
+>
+> …
+>
+> It was not the pressure of a hand that made her tremble, but the instantaneous sum of its meaning, the knowledge that it was _his_ hand that it moved as if her flesh was his possession, that its movement was his signature of acceptance under the whole of that achievement which was herself—it was only a sensation of physical pleasure, but it contained her worship of him, of everything that was his person and his life … that it should be her body which was now giving him the sum of his existence, as his body was giving her the sum of hers.
 
-…
-
-She looked at the glowing bands on the skin of her arm, spaced like bracelets from her wrist to her shoulder. They were strips of sunlight from the Venetian blinds on the window of an unfamiliar room. She saw a bruise above her elbow, with dark beads that had been blood.
-
-…
-
-It was not the pressure of a hand that made her tremble, but the instantaneous sum of its meaning, the knowledge that it was his hand that it moved as if her flesh was his possession, that its movement was his signature of acceptance under the whole of that achievement which was herself—it was only a sensation of physical pleasure, but it contained her worship of him, of everything that was his person and his life … that it should be her body which was now giving him the sum of his existence, as his body was giving her the sum of hers.
-
-So yeah, dreadfully uncomfortable stuff to be reading on the bus. But hardly without a purpose. Sex is not a quick or casual act, by the standards of Atlas. It is a conscious choice, an exchange of the highest good that one has to offer. Each of Dagny’s relationships is written with this in mind. She endures almost unbearable amounts of sexual tension, fighting back her burning desires until the moment of intense, violent release finally arrives.
+So yeah, dreadfully uncomfortable stuff to be reading on the bus. But hardly without a purpose. Sex is not a quick or casual act, by the standards of _Atlas_. It is a conscious choice, an exchange of the highest good that one has to offer. Each of Dagny’s relationships is written with this in mind. She endures almost unbearable amounts of sexual tension, fighting back her burning desires until the moment of intense, violent release finally arrives.
 
 As a point of comparison, James also has a couple of sex scenes in the book, but they are quick, spur of the moment affairs, utterly devoid of passion. He gets drunk, gropes someone haphazardly, has sex, and looks at his partner in disgust once the deed is done. It is a dirty, necessary, animal desire to him. So he only gives it to those that he regards as dirty animals. Just as he does not recognize the value of money, he does not recognize the value of love. Any harlot which crosses his path is worthy of his affection, and in giving it he deprives himself of value. Or perhaps, he expresses where his values truly lie. In the gutter.
 
@@ -333,11 +333,11 @@ In Rand’s eyes, true love is among the most selfish things you can do. Which i
 
 In this sense, love is fiercely monogamous. Despite having three lovers over the course of the book, Dagny is never portrayed as a cheat. Her love belongs to, and can only belong to, the one man who most fully exemplifies her moral code, made into flesh. And vice-versa.
 
-In the many months of his absence, she never wondered whether he was true or not; she knew he was. She knew, even though she was too young to know the reason, that indiscriminate desire and unselective indulgence were possible only to those who regarded sex and themselves as evil.
+> In the many months of his absence, she never wondered whether he was true or not; she knew he was. She knew, even though she was too young to know the reason, that indiscriminate desire and unselective indulgence were possible only to those who regarded sex and themselves as evil.
 
 But even once you understand all of that, the way that Rand writes her lovers is still odd, at times. For a while, I struggled to grasp why Dagny would often express a thinly veiled contempt towards her man. A little re-reading gave a sizable clue, thankfully.
 
-Francisco smiled; it was a smile of radiant mockery. Watching them, Dagny thought suddenly of the difference between Francisco and her brother Jim. Both of them smiled derisively. But Francisco seemed to laugh at things because he saw something much greater. Jim laughed as if he wanted nothing to remain great.
+> Francisco smiled; it was a smile of radiant mockery. Watching them, Dagny thought suddenly of the difference between Francisco and her brother Jim. Both of them smiled derisively. But Francisco seemed to laugh at things because he saw something much greater. Jim laughed as if he wanted nothing to remain great.
 
 Once love becomes selfish, in the way Rand advocates, the goals that you have in pursuing it shift. Love is no longer an act of appeasement, trying to win over another person. It is an act of self-growth, making yourself worthy of being pursued by another person. When Dagny expresses contempt, it is because she sees the potential for much greater, within her partner. She sees his flaws, and subtly encourages him to overcome them, because she knows that he will. It is a contempt expressed in anticipation of something greater. Someone that is more worthy of her love.
 
@@ -349,9 +349,9 @@ And that really is the sum of it. When Rand writes about how attractive her char
 
 So, hopefully by this point you’ve gotten a decent idea as to which ideologies Ayn Rand is in support of, and which ones she loathes. With all of this progress made, it’s worth taking a hard look at exactly where Rand falls, in the philosophical battlegrounds.
 
-She’s clearly in favor of capitalism, and very, very against socialism. She repeatedly pushes the importance of, and happiness gained from, a purposeful and productive existence, so nihilism is definitely off the table. She understands man as an inherently rational being, not governed by whims or emotion. She’s also supports the idea of a concrete reality, independent of what people want it to be. In fact, she’s pushing the reader towards living their life under exactly that creed. To strive towards a “face without pain or fear or guilt”, unburdened by the world that others try to make you believe. Appropriate for a philosophy dubbed objectivism, and it accordingly places her at a distance from relativism. Though, Rand exceeds even this, placing humanity exclusively, solely on this Earth. No afterlife, no higher plane. No Christianity, no Buddhism, not even Plato’s less explicitly religious theory of forms. Are you seeing a trend here?
+She’s clearly in favor of capitalism, and very, very against socialism. She repeatedly pushes the importance of, and happiness gained from, a purposeful and productive existence, so nihilism is definitely off the table. She understands man as an inherently rational being, not governed by whims or emotion. She’s also supports the idea of a concrete reality, independent of what people want it to be. In fact, she’s pushing the reader towards living their life under exactly that creed. To strive towards a “face without pain or fear or guilt”, unburdened by the world that others try to make you believe. Appropriate for a philosophy dubbed objectivism, and it accordingly places her at a distance from relativism. Though, Rand exceeds even this, placing humanity exclusively, solely on this Earth. No afterlife, no higher plane. No Christianity, no Buddhism, not even Plato’s less explicitly religious theory of forms. Are you seeing a trend here?
 
-Because I personally am well versed in the basic tenets of socialism, and nihilism, and relativism, and Christianity, and Plato. Without ever seeking them out. These are all ideologies that I have become well versed in, because time, and time, and time again, people keep bringing them up. This is what I meant, when I mentioned in the intro that you and I don’t know anything about Atlas Shrugged. Every positive tenet of Rand’s ideology enjoys surprisingly little discussion, while everything she goes against has a strange habit of getting talked to death. When reading through Atlas with an open mind, it has a strange tendency to suck you in. Nihilism is a sad, useless philosophy, so why is it beloved? The removal of objective truth completely flouts all human progress, why is it so popular? Socialism, taken to its extreme, really does stifle the best that mankind can produce, while encouraging our most despicable traits, so why do people preach it so fervently? Why must we find goodness in a world that is unreachable, when our world is right here?
+Because I personally am well versed in the basic tenets of socialism, and nihilism, and relativism, and Christianity, and Plato. Without ever seeking them out. These are all ideologies that I have become well versed in, because time, and time, and time again, people keep bringing them up. This is what I meant, when I mentioned in the intro that you and I don’t know anything about _Atlas Shrugged_. Every positive tenet of Rand’s ideology enjoys surprisingly little discussion, while everything she goes against has a strange habit of getting talked to death. When reading through _Atlas_ with an open mind, it has a strange tendency to suck you in. Nihilism is a sad, useless philosophy, so why is it beloved? The removal of objective truth completely flouts all human progress, why is it so popular? Socialism, taken to its extreme, really does stifle the best that mankind can produce, while encouraging our most despicable traits, so why do people preach it so fervently? Why must we find goodness in a world that is unreachable, when our world is right here?
 
 When other writers tell of the apocalypse, it happens. The apocalypse is an event, placed in time, that drastically changes all of human society. Ayn Rand does not simplify her apocalypse. She understands that every human event has a cause, and creates instead, a tragedy of ideology. The events and actions that broke the world are exactly what we should expect. Their originator is among us today, fat with power and prestige. Basking in the light. Until the sun can be seen no more.
 
@@ -359,9 +359,9 @@ When other writers tell of the apocalypse, it happens. The apocalypse is an even
 
 ### The Diagnosis
 
-Congratulations! You made it through! I’m so proud of you. That was a whole lot of words, but you ain’t no slouch. You read ‘em all. What a cool person you are. Well, I’m here to let you know that the book review is officially finished. You now know a little bit more about Atlas Shrugged. Everything else is gonna be my opinions on the book, which are pretty worthless, if I’m being honest. Well, worthless to you at least. I obviously think they’re the most important thing in the world.
+Congratulations! You made it through! I’m so proud of you. That was a whole lot of words, but you ain’t no slouch. You read ‘em all. What a cool person you are. Well, I’m here to let you know that the book review is officially finished. You now know a little bit more about _Atlas Shrugged_. Everything else is gonna be my opinions on the book, which are pretty worthless, if I’m being honest. Well, worthless to you at least. I obviously think they’re the most important thing in the world.
 
-So, let’s lead off with the obvious. I think that Atlas Shrugged is an amazing book. It’s so rare to find philosophy which is this engaging. The book almost reads like a crime novel at times, as you slowly learn how to think like the detective, and start picking up on all of the clues that he saw from the beginning. Rand understands that philosophy in and of itself isn’t always enough to grab the reader, and strives to present that philosophy in the most compelling way possible. With resounding success, I’d say.
+So, let’s lead off with the obvious. I think that _Atlas Shrugged_ is an amazing book. It’s so rare to find philosophy which is this engaging. The book almost reads like a crime novel at times, as you slowly learn how to think like the detective, and start picking up on all of the clues that he saw from the beginning. Rand understands that philosophy in and of itself isn’t always enough to grab the reader, and strives to present that philosophy in the most compelling way possible. With resounding success, I’d say.
 
 #### Commendations and Criticisms…
 
@@ -393,7 +393,7 @@ Rand also does a great job of supporting rationality, pointing out how pervasive
 
 Hmm, what else is there? Oh yeah, love. I should probably talk about love. Thanks to how she views selfishness, the expression and importance of love undergoes a pretty drastic change. I value her more as an outsider opinion on this point. She reveals aspects of love which we don’t typically think about. As an extension and expression of what you value in the world. As something which you earn by improving your self, not by changing or conceding to someone else. Love as an identity, not an action. These are all important aspects of love, but they are often overshadowed by a focus on selflessness, kindness and compromise. Selfish and selfless, each of these is needed for a lasting, fulfilling relationship. A good relationship involves compromise, but it also involves finding the person that you will have to compromise the least with. And yes, it does involve a willingness to commit, rather than desperately hoping that your lover doesn’t find a better fit for their values, year after year. Marriage is good, Dagny should give it a try.
 
-Unfortunately, Rand is no revolutionary in the world of sex. Or, maybe she was, and that’s the problem? I mentioned how objectivism starts to fall apart when you introduce children to the equation, and sex is no exception to this. Reading through Atlas Shrugged, you’d be forgiven if you came away convinced that sex has absolutely nothing to do with baby making whatsoever. It is an immense pleasure, it is a gift of highest value to a partner of highest value, it is the culmination of everything which is good and valuable in this world, expressed in the movement of two bodies. What is this ‘small human’ you speak of. I do not believe they exist. They do not belong in any discussion of sex, take them away. So, no breakthroughs on that front, oh well. Perhaps one of these days I’ll find a writer that is willing to acknowledge that sex is both a procreative act and an intimate, pleasurable experience.
+Unfortunately, Rand is no revolutionary in the world of sex. Or, maybe she was, and that’s the problem? I mentioned how objectivism starts to fall apart when you introduce children to the equation, and sex is no exception to this. Reading through _Atlas Shrugged_, you’d be forgiven if you came away convinced that sex has absolutely nothing to do with baby making whatsoever. It is an immense pleasure, it is a gift of highest value to a partner of highest value, it is the culmination of everything which is good and valuable in this world, expressed in the movement of two bodies. What is this ‘small human’ you speak of. I do not believe they exist. They do not belong in any discussion of sex, take them away. So, no breakthroughs on that front, oh well. Perhaps one of these days I’ll find a writer that is willing to acknowledge that sex is both a procreative act and an intimate, pleasurable experience.
 
 ### As the Lights Fade
 

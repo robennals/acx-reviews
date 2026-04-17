@@ -38,7 +38,7 @@ Just like in previous competitions, this century we expect both the Philosophes 
 
 It’s time to touch on an important subject that comes up in every World Cup of Ideas. That subject is Hooliganism. I am sorry to have to report that, yet again, the offending supporters are all fans of the Nationalist team.
 
-It’s often said that Nationalist fans don’t know and don’t even care who is playing on their side in the World Cup of Ideas because they  just see the whole competition as an excuse for a fight. It is sad, but true, that if you asked the average Nationalist in the US, the UK, France, India, Turkey or wherever who Giusseppe Mazzini or Johann Gottlieb Fichte is they would struggle to answer you.
+It’s often said that Nationalist fans don’t know and don’t even care who is playing on their side in the World Cup of Ideas because they  just see the whole competition as an excuse for a fight. It is sad, but true, that if you asked the average Nationalist in the US, the UK, France, India, Turkey or wherever who Giusseppe Mazzini or Johann Gottlieb Fichte is they would struggle to answer you.
 
 Supreme (but often misplaced) confidence in their own team’s abilities doesn’t seem to stop the Nationalist fans playing dirty in the pre-tournament fixtures. In recent years we’ve seen them beating up other fans, taking over the sound system around the pitch and even trying to hack the score board thinking that no one would notice. This behavior has got to stop.
 
@@ -56,4 +56,4 @@ A few fans have suggested that the next World Cup of Ideas should be a purely do
 
 This sounds like a rerun of a much earlier Championship of Ideas that kicked off in 1861 in South Carolina but which only had regional match status rather than being a full World Cup. It looks unlikely that the US would be the venue for the very first Cup in the 21st Century, but you never know. If things continue as they are in the US it could well be a venue for the next fixture after that.
 
-Well, that’s just about it for my round up of prospects for the next World Cup of Ideas and thanks to Pankaj for his efforts in getting the program together.  No point sitting on the sidelines anymore. Pick your team and get out there with your support.
+Well, that’s just about it for my round up of prospects for the next World Cup of Ideas and thanks to Pankaj for his efforts in getting the program together.  No point sitting on the sidelines anymore. Pick your team and get out there with your support.

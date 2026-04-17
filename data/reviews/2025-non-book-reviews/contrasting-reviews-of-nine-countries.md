@@ -51,7 +51,7 @@ Your speech is policed, and you might get punched at any time – Britain is a b
   
 As an aside, I have figured out why Britain is so damned weird about trans women. It’s because genetically English women look like men. It is so easy to be a passing English trans woman. The native English cis woman can’t just smile and nod at trans women – there’s a real threat of the categories of cis women and trans women being mixed up, here. I can see how that might cause somewhat more panic than trans women do in more attractive countries.  
   
-Yes, the immigrants. The inevitable paragraph about the immigrants. It’s required, isn’t it. Here’s the thing about London. You have a very clear image of London in your head. Or maybe a fuzzy one. But either way, it’s a London that is English. This is not an accurate mental image. Maybe in 1950 it was accurate. But in 2025? No. London is 40% White English. This is very jarring, even if you are not a racist, even if you are not even particularly fond of the English, for the simple reason that anything being not what you had always imagined it to be your whole life is jarring.
+Yes, the immigrants. The inevitable paragraph about the immigrants. It’s required, isn’t it. Here’s the thing about London. You have a very clear image of London in your head. Or maybe a fuzzy one. But either way, it’s a London that _is English_. This is not an accurate mental image. Maybe in 1950 it was accurate. But in 2025? No. London is 40% White English. This is very jarring, even if you are not a racist, even if you are not even particularly fond of the English, for the simple reason that anything being not what you had always imagined it to be your whole life is jarring.
 
 Large parts of London are very very clearly immigrant – the shops have non-English labeling, the people aren’t white, etc., etc.. Large parts of London are sort of… international-feeling. Like they could be in any city in the world – if you look carefully, there’s clear signs in the little details of the buildings and such that you are in fact in Britain, but in some universal sense a McDonald’s is a McDonald’s and a Starbucks is a Starbucks and a McDonald’s analogue that serves Korean food instead is that, and a Starbucks analogue that has a different name is that as well. A few isolated parts of London are very distinctly and intentionally English. These are my least favorite parts of England.
 
@@ -69,7 +69,7 @@ I’m from here.
   
 If I’m smart enough and lucky enough I’ll never ever have to go back here.  
   
-Nothing good ever happened to me in America, in retrospect, other than marrying my wife. This happened after she was in America for perhaps 2 months. We had known each other online for quite some time before this, and now travel the world together. I now realize that this sounds like I am getting duped or taken advantage of. She is richer than me. I just have a cooler, more interesting life than you, probably.  
+Nothing good ever happened to me in America, in retrospect, other than marrying my wife. This happened after she was in America for perhaps 2 months. We had known each other online for quite some time before this, and now travel the world together. I now realize that this sounds like I am getting duped or taken advantage of. She is richer than me. I just have a cooler, more interesting life than you, probably.  
 
 I used to not feel like an American, when I lived in America. I didn’t think much of American ideals. Now I feel differently. It turns out that when I am the only American in the room, “being American” is the most important fact about me, and when I am faced with non-American ideals, or lack thereof, I think quite highly of American ideals.  
   
@@ -228,7 +228,7 @@ Cambodia is the country that I recommend as a starting place for all digital nom
   
 You can go there for…indefinitely, and the visa costs less than $400 per year. It’s very easy to get. The food is basically Thai food but without the sugar, and the culture isn’t terribly different from Thai culture, either. Rent and services are cheaper than in Thailand, but goods are more expensive. My rent was $175 a month – the Hideout in Kampot, the best landlord I ever had. Canadian guy. I spent more on food than on rent. I lived there for 7 months, and found it intensely peaceful and relaxing. It was a good place to get some work done, I found the country beautiful, I very much enjoyed the people and their honest nature, and generally I found it pleasant but a bit dull.  
   
-I remember one time that I accidentally overpaid a Cambodian man by a dollar – they use American currency there as readily as the Khmer Real – and he gave it back. I tried to tell him most people would have just kept it – the Cambodian GDP per capita works out to just under $6.68 a day – but he seemed confused by the idea. “But I already have all the money that I have,” he said, in badly broken English. He wasn’t offended by my idea or anything – he was just confused. The idea of keeping the dollar was simply not one that naturally occurred to him as a thing that a person could do – he wasn’t stupid, either. I found myself awkwardly explaining it to him, and he did appear to get it. It’s just that no one had ever told him that this was a thing that he could do, before.
+I remember one time that I accidentally overpaid a Cambodian man by a dollar – they use American currency there as readily as the Khmer Real – and he gave it back. I tried to tell him most people would have just kept it – the Cambodian GDP per capita works out to just under $6.68 a day – but he seemed confused by the idea. “But I already have all the money that I have,” he said, in badly broken English. He wasn’t offended by my idea or anything – he was just confused. The idea of keeping the dollar was simply not one that naturally occurred to him as a thing that a person _could_ do – he wasn’t stupid, either. I found myself awkwardly explaining it to him, and he did appear to get it. It’s just that no one had ever told him that this was a thing that he _could_ do, before.
 
 The beautiful thing about Cambodia is that rule of law, bureaucracy, and state capacity is about as limited there as you can get outside of an outright state of civil war. I never started a business there or did anything to truly advertise my wealth. But I was repeatedly told that if I did such a thing, I would find myself having to bribe every single local policeman and taxman.
 
@@ -248,7 +248,7 @@ I have never been to parts of Turkey that aren’t Istanbul. For all I know they
 
 ### Turkey: Wife
 
-In contrast to Cambodia, Turkey - at least Istanbul - is not calm at all. Istanbul is a crazy, chaotic place full of tourists and people trying to buy more stable dollars or euros against the Turkish lira, which is doing…lira things. Nothing good. It’s also the only place where I’ve ever seen a fistfight over $3 take place (that was the Uber driver who tried to rob me and my husband). Never again.
+In contrast to Cambodia, Turkey - at least Istanbul - is _not_ calm at all. Istanbul is a crazy, chaotic place full of tourists and people trying to buy more stable dollars or euros against the Turkish lira, which is doing…lira things. Nothing good. It’s also the only place where I’ve ever seen a fistfight over $3 take place (that was the Uber driver who tried to rob me and my husband). Never again.
 
 The cats are very sweet, though.
 
@@ -280,7 +280,7 @@ My husband and I are thinking of moving to Japan. I can’t wait to explore more
 
 I have spent exactly two weeks in Japan (in Tokyo and Kyoto) and I would quite like to go back.  
   
-I feel like a bit of a basic bro for being a white guy who loves Japan. But you know what? It’s actually great. Tokyo is a city with zero trash on the streets, and it’s so smog-free that it actually smells good. The food is amazing, the general vibe is great, I would enjoy simply wandering around and existing in Japan. It was a fantastic time. I don’t know what to tell you. You’ve seen travel reviews of Japan. It is exactly like the travel reviews. It lives up to the hype. It’s a fantastic place.
+I feel like a bit of a basic bro for being a white guy who loves Japan. But you know what? It’s actually great. Tokyo is a city with zero trash on the streets, and it’s so smog-free that it actually smells _good_. The food is amazing, the general vibe is great, I would enjoy simply wandering around and existing in Japan. It was a fantastic time. I don’t know what to tell you. You’ve seen travel reviews of Japan. It is exactly like the travel reviews. It lives up to the hype. It’s a fantastic place.
 
 I’m not even a weeb or anything. It’s just great. It is exactly as has been advertised to you.
 
@@ -290,10 +290,10 @@ As we finish writing this, we’ve been coming to terms with some bad health new
   
 The thing to consider, though, is that you might be preserving your body – you might be scrimping and saving and etc – all for nothing. You might get hit by a bus tomorrow. You might live to 100. You should probably do things that make sense with either. Working a job so you can rent an apartment so you can work a job isn’t a great use of your time. I’m not saying that seeing the world is the only thing worth doing, but I am saying that the only things worth doing are things that you think are worth doing.
 
-I was thinking about the conclusion I want to write for this - the takeaway that I want readers to have. It’s hard because something as big as moving countries regularly feels like it shouldn’t have a conclusion. I don’t want to stop travelling. I’m not done learning.  
+I was thinking about the conclusion I want to write for this - the takeaway that I want readers to have. It’s hard because something as big as moving countries regularly feels like it shouldn’t _have_ a conclusion. I don’t want to stop travelling. I’m not done learning.  
   
 It is crazy for there to be an entire world and for you to only see one part of it. That is a weird thing to do. You are given so many options and so little time, and you spend your time on just one of them. Why are you doing this to yourself?
 
 But if there were anything - one thing - I had to say, I’d say this.
 
-There’s a world beyond the Bay Area. Beyond the US even. It’s big and deeply weird and sometimes unpleasant but it’s always, always interesting and it reminds you that the map is not the territory. Frankly, the territory is not the territory, either. I can go to all these countries and still not really know most of them. This is what is addictive about travel – and I don’t mean addictive in a cute way; I mean addictive – that you are always intoxicated by the thought of going somewhere deeper, weirder, wilder. That there are always more places to go than there is time in a human life.
+There’s a world beyond the Bay Area. Beyond the US even. It’s big and deeply weird and sometimes unpleasant but it’s always, _always_ interesting and it reminds you that the map is not the territory. Frankly, the territory is not the territory, either. I can go to all these countries and still not really know most of them. This is what is addictive about travel – and I don’t mean addictive in a cute way; I mean addictive – that you are always intoxicated by the thought of going somewhere deeper, weirder, wilder. That there are always more places to go than there is time in a human life.

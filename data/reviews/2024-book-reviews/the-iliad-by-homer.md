@@ -7,7 +7,7 @@ contestName: 2024 Book Reviews
 year: 2024
 publishedDate: '2026-02-06T16:49:14.009Z'
 slug: the-iliad-by-homer
-wordCount: 3605
+wordCount: 3734
 readingTimeMinutes: 17
 originalUrl: >-
   https://docs.google.com/document/d/14qa47TJ_Vyerx4XNgTCIh7PUZ_TOgNcU_eHm5So_zo0
@@ -29,7 +29,7 @@ Achilles gets upset and decides to stop fighting for Agamemnon. He prays to his 
 
 So Zeus sends a dream to Agamemnon, telling him to attack Troy. Agamemnon decides to test the Greek fighters, telling them it’s time to give up and sail home. So they start running back to the ships, but Athena tells Odysseus to stop them, which he does mostly by telling them to obey orders.
 
-There’s a bunch of fighting between Greeks and Trojans, and bickering among the gods, and occasionally mortals even fight gods. In the middle of it there’s a one-day truce, which the Greeks use to build a wall, complete with gates. Poseidon says it’s such a good wall that people will forget the wall of Troy, which upsets him because they didn’t get the gods’ blessing to build it.[[45]](#ftnt45) Agamemnon tries to convince Achilles to fight again by offering massive rewards, including the woman he stole earlier, whom he swears he has not had sex with as is the normal way between men and women.
+There’s a bunch of fighting between Greeks and Trojans, and bickering among the gods, and occasionally mortals even fight gods. In the middle of it there’s a one-day truce, which the Greeks use to build a wall, complete with gates. Poseidon says it’s such a good wall that people will forget the wall of Troy, which upsets him because they didn’t get the gods’ blessing to build it.[[45]](#ftnt45) Agamemnon tries to convince Achilles to fight again by offering massive rewards, including the woman he stole earlier, whom he swears he has not had sex with as is the normal way between men and women.
 
 Eventually the Trojans fight past the wall and reach the Greek fleet. At this point Patroclus, Achilles’ bff (not explicitly lover, but people have been shipping them for thousands of years), puts on Achilles’ armor and goes to fight. He’s skilled and scary enough that the Trojans flee. Achilles told him not to chase them, but he does so anyway, and he’s killed by Hector. Hector takes the weapons and armor, and there’s a big fight for his body, but the Greeks manage to drag it back to their camp.
 
@@ -43,135 +43,135 @@ Some excerpts.
 
 Diomedes meets Glaucus on the battlefield, and asks his backstory to make sure he’s not a god. Glaucus tells the story of his grandfather Bellerophon, and Diomedes realizes that his own grandfather had been friends with Bellerophon:
 
-The master of the war cry, Diomedes,
-
-was glad to hear these words. He fixed his spear
-
-firm in the earth that feeds the world, and spoke
-
-in friendship to the shepherd of the people.
-
-“So you must be an old guest-friend of mine,
-
-through our forefathers. Oeneus once hosted
-
-noble Bellerophon inside his house
-
-and kept him as his guest for twenty days.
-
-They gave each other splendid gifts of friendship.
-
-Oeneus gave a shining belt, adorned
-
-with purple, and Bellerophon gave him
-
-a double-handled golden cup. I left it
-
-back home inside my house when I came here.
-
-But I do not remember Tydeus.
-
-He left me when I was a tiny baby,
-
-during the war at Thebes when Greeks were dying.
-
-Now you and I are also loving guest-friends,
-
-and I will visit you one day in Argos,
-
-and you will come to visit me in Lycia,
-
-whenever I arrive back home again.
-
-So let us now avoid each other’s spears,
-
-even amid the thickest battle scrum.
-
-Plenty of Trojans and their famous allies
-
-are left for me to slaughter, when a god
-
-or my quick feet enable me to catch them.
-
-And you have many other Greeks to kill
-
-whenever you are able. Let us now
-
-exchange our arms and armor with each other,
-
-so other men will know that we are proud
-
-to be each other’s guest-friends through our fathers.”
-
-With this, the two jumped off their chariots
-
-and grasped each other’s hands and swore the oath.
-
-Then Zeus robbed Glaucus of his wits. He traded
-
-his armor with the son of Tydeus,
-
-and gave up gold for bronze—gold armor, worth
-
-a hundred oxen, for a set worth nine.
+> The master of the war cry, Diomedes,
+>
+> was glad to hear these words. He fixed his spear
+>
+> firm in the earth that feeds the world, and spoke
+>
+> in friendship to the shepherd of the people.
+>
+> “So you must be an old guest-friend of mine,
+>
+> through our forefathers. Oeneus once hosted
+>
+> noble Bellerophon inside his house
+>
+> and kept him as his guest for twenty days.
+>
+> They gave each other splendid gifts of friendship.
+>
+> Oeneus gave a shining belt, adorned
+>
+> with purple, and Bellerophon gave him
+>
+> a double-handled golden cup. I left it
+>
+> back home inside my house when I came here.
+>
+> But I do not remember Tydeus.
+>
+> He left me when I was a tiny baby,
+>
+> during the war at Thebes when Greeks were dying.
+>
+> Now you and I are also loving guest-friends,
+>
+> and I will visit you one day in Argos,
+>
+> and you will come to visit me in Lycia,
+>
+> whenever I arrive back home again.
+>
+> So let us now avoid each other’s spears,
+>
+> even amid the thickest battle scrum.
+>
+> Plenty of Trojans and their famous allies
+>
+> are left for me to slaughter, when a god
+>
+> or my quick feet enable me to catch them.
+>
+> And you have many other Greeks to kill
+>
+> whenever you are able. Let us now
+>
+> exchange our arms and armor with each other,
+>
+> so other men will know that we are proud
+>
+> to be each other’s guest-friends through our fathers.”
+>
+> With this, the two jumped off their chariots
+>
+> and grasped each other’s hands and swore the oath.
+>
+> Then Zeus robbed Glaucus of his wits. He traded
+>
+> his armor with the son of Tydeus,
+>
+> and gave up gold for bronze—gold armor, worth
+>
+> a hundred oxen, for a set worth nine.
 
 At one point Hera dolls herself up to make Zeus want to sleep with her. This is the flirting game of Zeus, greatest of all the gods:
 
-“You can go later on that journey, Hera,
-
-but now let us enjoy some time in bed.
-
-Let us make love. Such strong desire has never
-
-suffused my senses or subdued my heart
-
-for any goddess or for any woman
-
-as I feel now for you. Not even when
-
-I lusted for the wife of Ixion,
-
-and got her pregnant with Pirithous,
-
-a councillor as wise as any god.
-
-Not even when I wanted Danae,
-
-the daughter of Acrisius, a woman
-
-with pretty ankles, and I got her pregnant
-
-with Perseus, the best of warriors.
-
-Not even when I lusted for the famous
-
-Europa, child of Phoenix, and I fathered
-
-Minos on her, and godlike Rhadamanthus.
-
-Not even when I wanted Semele,
-
-or when in Thebes I lusted for Alcmene,
-
-who birthed heroic Heracles, my son—
-
-and Semele gave birth to Dionysus,
-
-the joy of mortals. And not even when
-
-I lusted for the goddess, Queen Demeter,
-
-who has such beautiful, well-braided hair—
-
-not even when I wanted famous Leto,
-
-not even when I wanted you yourself—
-
-I never wanted anyone before
-
-as much as I want you right now. Such sweet
-
-desire for you has taken hold of me.”
+> “You can go later on that journey, Hera,
+>
+> but now let us enjoy some time in bed.
+>
+> Let us make love. Such strong desire has never
+>
+> suffused my senses or subdued my heart
+>
+> for any goddess or for any woman
+>
+> as I feel now for you. Not even when
+>
+> I lusted for the wife of Ixion,
+>
+> and got her pregnant with Pirithous,
+>
+> a councillor as wise as any god.
+>
+> Not even when I wanted Danae,
+>
+> the daughter of Acrisius, a woman
+>
+> with pretty ankles, and I got her pregnant
+>
+> with Perseus, the best of warriors.
+>
+> Not even when I lusted for the famous
+>
+> Europa, child of Phoenix, and I fathered
+>
+> Minos on her, and godlike Rhadamanthus.
+>
+> Not even when I wanted Semele,
+>
+> or when in Thebes I lusted for Alcmene,
+>
+> who birthed heroic Heracles, my son—
+>
+> and Semele gave birth to Dionysus,
+>
+> the joy of mortals. And not even when
+>
+> I lusted for the goddess, Queen Demeter,
+>
+> who has such beautiful, well-braided hair—
+>
+> not even when I wanted famous Leto,
+>
+> not even when I wanted you yourself—
+>
+> I never wanted anyone before
+>
+> as much as I want you right now. Such sweet
+>
+> desire for you has taken hold of me.”
 
 3.
 
@@ -205,39 +205,39 @@ And how much is the original versus the translation, or even the narrator of the
 
 What is up with classics?
 
-Like, what makes something a classic? Why do we keep reading them?[[46]](#ftnt46) Why did it feel vaguely blasphemous for me to say the Iliad isn’t very good?
+Like, what makes something a classic? Why do we keep reading them?[[46]](#ftnt46) Why did it feel vaguely blasphemous for me to say the Iliad isn’t very good?
 
 I’m probably not being original here, but….
 
-I think one thing often going on is that classics will be winners of some kind of iterated Keynesian beauty contest. A [Keynesian beauty contest](https://en.wikipedia.org/wiki/Keynesian_beauty_contest) is one where judges have incentive to vote, not for the person they think is most beautiful, but the person they think the other judges will vote for. Do a few rounds of those and you’ll probably converge on a clear winner; but if you started over from scratch, maybe you’d get a different clear winner.
+I think one thing often going on is that classics will be winners of some kind of **iterated Keynesian beauty contest**. A [Keynesian beauty contest](https://en.wikipedia.org/wiki/Keynesian_beauty_contest) is one where judges have incentive to vote, not for the person they think is most beautiful, but the person they think the other judges will vote for. Do a few rounds of those and you’ll probably converge on a clear winner; but if you started over from scratch, maybe you’d get a different clear winner.
 
 (I vaguely recall hearing about experiments along the lines of: set up some kind of Spotify-like system where users can see what’s popular, and run with a few different isolated sets of users. In each group you get clear favorites, but the favorites aren’t the same. If true, this points in the direction of IKBC dynamics being important.)
 
 But what contests are getting run?
 
-A cynical answer is that it’s all signaling. We read something because all the educated people read it, so it’s what all the educated people read. I’m not cynical enough to think this is the whole story behind classics, or even most of it, but it sure seems like it must be going on at least a little bit.
+A cynical answer is that it’s all **signaling**. We read something because all the educated people read it, so it’s what all the educated people read. I’m not cynical enough to think this is the whole story behind classics, or even most of it, but it sure seems like it must be going on at least a little bit.
 
 (Of course we’re not going to get a whole crowd of admirers to admit “there’s nothing here really, we just pretend to like this to seem sophisticated”. So even if this is most of the story, we might not expect to find a clear example.)
 
-To the extent that this is going on, then we’d expect me to be scared to criticize the Iliad because that exposes me as uneducated. Or we might expect me to criticize it extra harshly to show how independent-minded I am. Or both![[47]](#ftnt47) And in fact I don’t fully trust myself to have judged it neutrally, without regard to its status.
+To the extent that this is going on, then we’d expect me to be scared to criticize the Iliad because that exposes me as uneducated. Or we might expect me to criticize it extra harshly to show how independent-minded I am. Or both![[47]](#ftnt47) And in fact I don’t fully trust myself to have judged it neutrally, without regard to its status.
 
 My guess: this is why some people read the Iliad, but it’s not the main thing that makes it a classic.
 
-Less cynically, we might observe that classics are often referenced, and we want to get the references. I don’t think this could make something a classic in the first place, but it might help to cement its status.
+Less cynically, we might observe that classics are often referenced, and we want to **get the references**. I don’t think this could make something a classic in the first place, but it might help to cement its status.
 
 In fact, it’s not a coincidence that I listened to the Iliad soon after reading [Terra Ignota](https://en.wikipedia.org/wiki/Terra_Ignota). I don’t really guess this is a large part of why others read it, but maybe.
 
-(Also not a coincidence that I read [A Midsummer Night’s Dream](https://en.wikipedia.org/wiki/A_Midsummer_Night%27s_Dream) soon after watching [Get Over It](https://en.wikipedia.org/wiki/Get_Over_It_(film)). Reading the source material radically changed my opinion of that film. It went from “this is pretty fun, worth watching” to “this is excellent, one of my favorite movies”.[[48]](#ftnt48) Similarly, [See How They Run](https://en.wikipedia.org/wiki/See_How_They_Run_(2022_film)) was improved by having recently seen [The Mousetrap](https://en.wikipedia.org/wiki/The_Mousetrap).)
+(Also not a coincidence that I read [A Midsummer Night’s Dream](https://en.wikipedia.org/wiki/A_Midsummer_Night%27s_Dream) soon after watching [Get Over It](https://en.wikipedia.org/wiki/Get_Over_It_(film)). Reading the source material radically changed my opinion of that film. It went from “this is pretty fun, worth watching” to “this is excellent, one of my favorite movies”.[[48]](#ftnt48) Similarly, [See How They Run](https://en.wikipedia.org/wiki/See_How_They_Run_(2022_film)) was improved by having recently seen [The Mousetrap](https://en.wikipedia.org/wiki/The_Mousetrap).)
 
 A closely related thing here is that because lots of other people have read the classics, they’ve also written about the classics and about reading the classics. So if you enjoy reading commentary on the thing you’ve just read, the classics have you covered.
 
-Some things might be classics because they’re just plain good. There was a lot of crap published around the same time, and most of it has rightly been forgotten, but some was great even by the standards of today.
+Some things might be classics because they’re **just plain good**. There was a lot of crap published around the same time, and most of it has rightly been forgotten, but some was great even by the standards of today.
 
-Like, maybe if you published [Pride and Prejudice](https://en.wikipedia.org/wiki/Pride_and_Prejudice) today, it would be received as “ah yes, this is an excellent entry in the niche genre of Regency-era romance. The few hundred committed fans of that genre will be very excited, and people who dabble in it will be well-advised to pick this one out".
+Like, maybe if you published [Pride and Prejudice](https://en.wikipedia.org/wiki/Pride_and_Prejudice) today, it would be received as “ah yes, this is an excellent entry in the niche genre of Regency-era romance. The few hundred committed fans of that genre will be very excited, and people who dabble in it will be well-advised to pick this one out".
 
 But as I said above, I don’t think the Iliad meets that bar.
 
-I would guess the big thing for the Iliad is that it's a window into the past. Someone might read Frankenstein because they're interested in early science fiction, or because they want to learn something about that period in time. And someone might read the Iliad because they’re interested in early literature or ancient Greece.
+I would guess the big thing for the Iliad is that it's a **window into the past**. Someone might read Frankenstein because they're interested in early science fiction, or because they want to learn something about that period in time. And someone might read the Iliad because they’re interested in early literature or ancient Greece.
 
 (And this might explain why classics often seem to be found in the non-fiction section of the library or bookstore. It’s not that they’re not fiction, but they’re not being read as fiction.)
 
@@ -269,9 +269,9 @@ One way to think of fiction is that it’s about things that might happen, that 
 
 Or: fiction is in the things we're shown, and the things we're not shown even though they (fictionally) happened, and the things we're not shown because they didn't happen. Why one thing is shown and another is unshown and another doesn't happen is sometimes a marked choice and sometimes unmarked. (That is, sometimes “the writers did this for a specific reason and we can talk about why” and sometimes “this was just kind of arbitrary or default”.) And if you can't read the marks you're going to be very confused.
 
-*   Shown, unmarked: the lawyers are wearing suits. Marked: Edwin Poole isn't wearing pants.
-*   Not-shown, unmarked: people brush their teeth. Marked: an episode ends when the characters are waiting for an extremely time-sensitive call to be answered, and we just never learn what happened.
-*   Doesn't happen, unmarked: someone turns into a pig in the courtroom. Marked: someone reports a colleague to the bar for violating professional ethics. (At least not as far as I’ve watched.)
+> *   **Shown, unmarked**: the lawyers are wearing suits. **Marked**: Edwin Poole isn't wearing pants.
+> *   **Not-shown, unmarked**: people brush their teeth. **Marked**: an episode ends when the characters are waiting for an extremely time-sensitive call to be answered, and we just never learn what happened.
+> *   **Doesn't happen, unmarked**: someone turns into a pig in the courtroom. **Marked**: someone reports a colleague to the bar for violating professional ethics. (At least not as far as I’ve watched.)
 
 I can't read the marks in the Iliad. I don’t know what parts of what it shows are “this is how stuff just is, in Homer’s world” and what parts of it are “Homer showing the audience something unusual”. That makes it difficult for me to learn about ancient Greece, and also makes it difficult to know what story Homer is telling.
 

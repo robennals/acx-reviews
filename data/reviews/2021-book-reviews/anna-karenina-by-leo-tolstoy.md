@@ -7,7 +7,7 @@ contestName: 2021 Book Reviews
 year: 2021
 publishedDate: '2026-02-06T07:21:29.561Z'
 slug: anna-karenina-by-leo-tolstoy
-wordCount: 5656
+wordCount: 5687
 readingTimeMinutes: 26
 originalUrl: >-
   https://docs.google.com/document/d/1xexFJ7h0vULMDE7N77q_MIzXoerexfe_CqqGEL6hEoQ
@@ -20,13 +20,13 @@ I.
 
 Isn't this just some long-winded Russian book about adultery and divorce? Why are there legends about Tolstoy and about Anna Karenina?
 
-One of the first [stories](https://www.nps.gov/thro/learn/historyculture/roosevelt-pursues-boat-thieves.htm) I heard about Anna Karenina was from Teddy Roosevelt. He was rudely interrupted from hunting mountain lions in the Dakotas when some common cattle-killing horse-thieves ran off with his boat in the night. Roosevelt built a raft, chased them down through the still-icy river and captured them. Rather than hanging them where he caught them as was the custom, he decided to march them 300 miles to the sheriff of the nearest town while he read Anna Karenina.
+One of the first [stories](https://www.nps.gov/thro/learn/historyculture/roosevelt-pursues-boat-thieves.htm) I heard about Anna Karenina was from Teddy Roosevelt. He was rudely interrupted from hunting mountain lions in the Dakotas when some common cattle-killing horse-thieves ran off with his boat in the night. Roosevelt built a raft, chased them down through the still-icy river and captured them. Rather than hanging them where he caught them as was the custom, he decided to march them 300 miles to the sheriff of the nearest town while he read Anna Karenina.
 
 Then there was Tolstoy's personal correspondence with Gandhi, who called Tolstoy "the greatest apostle of non-violence the present age has produced."
 
 Then there was social activist Jane Addam's journey to Russia to seek Tolstoy's spiritual counsel, which began next to the peasants in the hayfields, with Tolstoy laying down his scythe and "pulling out one of the big sleeves of her fashionable traveling gown, saying it contained enough fabric to make a smock for a little girl." This biographical blurb about Jane Addams continues with: "Tolerating this and other discrediting jibes during the encounter, Addams returned to her demanding schedule at Hull-House, concluding that strict adherence to Tolstoy's philosophy would be counterproductive and 'utterly preposterous.'"
 
-Other contemporaries like William James  [wrote](https://philosophy.lander.edu/ethics/ethicsbook/c7009.html) about Tolstoy's philosophy, saying "he makes his love of the peasant so exclusive, and hardens his heart toward the educated."
+Other contemporaries like William James  [wrote](https://philosophy.lander.edu/ethics/ethicsbook/c7009.html) about Tolstoy's philosophy, saying "he makes his love of the peasant so exclusive, and hardens his heart toward the educated."
 
 Those last anecdotes are the most revealing about what's in a Tolstoy novel.
 
@@ -40,7 +40,7 @@ II.
 
 First, about that adultery. How do these 19th century moralists write the sex? The author of Lolita described Russian literature as "altogether the most chaste of novels." In the Puritan novel, The Scarlet Letter, the sex happens before page 1. Tolstoy can't do that with Anna Karenina, because he wants to show her descent into sin. Here's her passionate tryst in full graphic detail:
 
-That which for Anna had been an impossible, horrible, but all the more enchanting dream of happiness--this desire had been satisfied.
+> That which for Anna had been an impossible, horrible, but all the more enchanting dream of happiness--this desire had been satisfied.
 
 Anna's tryst is the reversible beginning of her fall from grace. What ruins her in Russian high society is she stops hiding her affair; she becomes not only gossiped about but also seen in closer relations with her lover than her husband. In the second half of the book, we hear very infrequently from Anna herself, but more of how other people deal with her and think of her. She's miserable, and her defiant existence makes everyone uncomfortable, including I confess myself. It was a sorry relief to me when one 100 page section offered more point-of-view sentences to Levin's hunting dog than to Anna Karenina.
 
@@ -66,11 +66,11 @@ For some of the main characters, this book spans the window of their lives where
 
 Vronksy: is Anna's lover. Essentially no readers like him, and the only characters that do either think he's hot or fun company in the clubs. He's a young cavalry officer, and one of the first things we hear about him from a minor elderly character are:
 
-"This little fop from Petersburg, they're made by machine, they're all the same sort, they're trash."
+> "This little fop from Petersburg, they're made by machine, they're all the same sort, they're trash."
 
 Russia has a lot of border disputes in securing its empire, and needs expendable alpha males to manage its army regiments. And Vronsky's regiment does look up to him, and he does purposefully follow the moral code that the culture trained into him--until he decides to make his affair with Anna public.
 
-Vronsky's life was especially fortunate in that he had a code of rules which unquestionably defined everything that ought and ought not to be done...his present relations with Anna and her husband were simple and clear. [They were clearly and precisely defined in the code of rules]...but recently there had appeared new, inner relations between himself and Anna that frightened him with their indefiniteness. [Just yesterday she had announced to him that she was pregnant. And he felt that this news and what she expected of him called for something not wholly defined by his guiding code of rules.]
+> Vronsky's life was especially fortunate in that he had a code of rules which unquestionably defined everything that ought and ought not to be done...his present relations with Anna and her husband were simple and clear. [They were clearly and precisely defined in the code of rules]...but recently there had appeared new, inner relations between himself and Anna that frightened him with their indefiniteness. [Just yesterday she had announced to him that she was pregnant. And he felt that this news and what she expected of him called for something not wholly defined by his guiding code of rules.]
 
 This frightening indefinite relationship with Anna causes Vronsky, for the first time, to take some actions that the Petersburg rearing did not design him to do. Sex drive is the noise term in Russian aristocracy, which so much of Russian cultural norms work to curate and minimize, but sex drive still produces unwanted surprises in rare individuals like Anna and Vronsky.
 
@@ -78,7 +78,7 @@ I also hated Vronsky at first, but began to feel an uncomfortable kinship with h
 
 Here's the narration of Vronsky's troubled solitary thoughts
 
-'Of course,' he said to himself, as if a logical, continuous and clear train of thought had brought him to an unquestionable conclusion. In fact, this 'of course' that he found so convincing was only the consequence of a repetition of exactly the same round of memories and notions that he had already gone through a dozen times within the hour.
+> 'Of course,' he said to himself, as if a logical, continuous and clear train of thought had brought him to an unquestionable conclusion. In fact, this 'of course' that he found so convincing was only the consequence of a repetition of exactly the same round of memories and notions that he had already gone through a dozen times within the hour.
 
 Tolstoy is great at making fun of people for thinking they are being courageous or wise when they are really just following everybody else. It's funny until I see myself in his examples, and then I get uncomfortable and less self-assured.
 
@@ -86,13 +86,13 @@ And then, in my first weeks of COVID social distancing, I read about all the way
 
 In between sessions of amateur piano-playing from what I learned in school and lessons, I read how Vronsky has taken up painting:
 
-He had an ability to understand art and to imitate it faithfully, and thought he had precisely what was needed for an artist. After some hesitation over what kind of painting he would choose--religious, historical, genre, or realistic--he started to paint. He understood all kinds and could be inspired by one or another; but he could not imagine that one could be utterly ignorant of all the kinds of painting and be inspired directly by what was in one's soul, unconcerned whether what one painted belonged to any particular kind. Since he did not know that, and was inspired not directly by life but indirectly by life already embodied in art, he became inspired very quickly and easily, and arrived as quickly and easily at making what he painted look very much like the kind of art he wanted to imitate.
+> He had an ability to understand art and to imitate it faithfully, and thought he had precisely what was needed for an artist. After some hesitation over what kind of painting he would choose--religious, historical, genre, or realistic--he started to paint. He understood all kinds and could be inspired by one or another; but he could not imagine that one could be utterly ignorant of all the kinds of painting and be inspired directly by what was in one's soul, unconcerned whether what one painted belonged to any particular kind. Since he did not know that, and was inspired not directly by life but indirectly by life already embodied in art, he became inspired very quickly and easily, and arrived as quickly and easily at making what he painted look very much like the kind of art he wanted to imitate.
 
 And as I'm considering possible career shifts to things I consider more altruistic, I read how awkward another character felt as Vronsky was proudly throwing his inherited wealth into the construction of a provincial hospital. Meanwhile Anna was patronizing and tutoring some foreign-born orphan, but these were only the causes of later fights, as Vronsky later calls them "unnatural concerns."
 
 And as missing the days of playing sports with friends, I read how a same-generation mother felt about Vronsky playing doubles tennis:
 
-She did not like that general unnaturalness of grown-ups when they play at a children's game by themselves, without children.
+> She did not like that general unnaturalness of grown-ups when they play at a children's game by themselves, without children.
 
 All of these quotations made me squirm, and some made me angrily shut the book for a couple weeks.
 
@@ -108,7 +108,7 @@ IV.
 
 This book is about Russian aristocratic life in the 1870s. Nabakov says as you follow the characters you get an immersive experience of the passage of time as the characters perceive it. One of the ways Tolstoy does this is spend a lot of time with their moment-to-moment thoughts, which involves lots of details of their politics, personal finances, diet, leisure reading, planning for workday and social itineraries. So much of the book is a contrast of how two characters respond to analogous situations. Because this book is such a detailed account of life 150 years ago, it invites comparison from their time to ours. Here are some of the aspects I found the most surprising:
 
-On the day of the horse races, Vronsky came earlier than usual to eat his beefsteak in the common room of the regimental mess. He did not need to maintain himself too strictly, because his weight was exactly the regulation 160lbs; but he also had not to gain any weight, and so he avoided starches and sweets.
+> On the day of the horse races, Vronsky came earlier than usual to eat his beefsteak in the common room of the regimental mess. He did not need to maintain himself too strictly, because his weight was exactly the regulation 160lbs; but he also had not to gain any weight, and so he avoided starches and sweets.
 
 Wait, I thought the low-carb beefsteak breakfasts was a new 2018 diet. This translation is from 2000, during the low-fat diet fad. Tolstoy does keep mentioning how Vronsky had great teeth.
 
@@ -122,7 +122,7 @@ The descriptions that make it most clear this novel is of an earlier time are re
 
 Then there's the autobiographical sequence of Levin's brother slowly and pathetically dying of tuberculosis. We see him in a German spa, with another character who was diagnosed as potentially tubercolic.
 
-And the famous doctor presented his plan of treatment by Soden waters, the main aim in the prescription of which evidently being that they could do no harm.
+> And the famous doctor presented his plan of treatment by Soden waters, the main aim in the prescription of which evidently being that they could do no harm.
 
 We later see him slowly dying in a provincial hotel. His brother and sister-in-law stay with him for 10 days, waiting for him to die, during which time he is alternatively at peace with impending death or miserably suffering from bedsores and anxious to recover, while sometimes "a desire for his death was felt by everyone who saw him." Because he's so provocative, I suspect Tolstoy would have opined on physician-assisted suicide if it existed in any form at that time. These four chapters read a lot like (SSC post) Who By Very Slow Decay, so the medical dramas are not completely different today.
 
@@ -138,21 +138,21 @@ You hear a lot about money in this book, about other character's debts, but also
 
 The first time he goes to some fancy restaurant to see his friend and learn about his friend's sister-in-law he wants to marry. They eat seafood with a fancy sauce even though Levin would rather eat something simple, and the fancy-sauce meal costs 14 roubles. When he returns to his farm, you learn about the peasants in the course of hearing his springtime dreams for the farm. Levin asks his steward in increasing exasperation why all the work is behind schedule, and the steward says
 
-'We need to hire more workers, but they don't come. There were some today, but they asked 70 roubles each for the summer.'
-
-Levin kept silent. Again this force opposed him...he could not help fighting even so. He replied 'send to [farther villages] if they don't come. We must look.'
+> 'We need to hire more workers, but they don't come. There were some today, but they asked 70 roubles each for the summer.'
+>
+> Levin kept silent. Again this force opposed him...he could not help fighting even so. He replied 'send to [farther villages] if they don't come. We must look.'
 
 At this point we had already heard Levin's first response to his pathetic, consumptive brother's proposal of Marxism.
 
-[Levin's brother] pointed to some small iron bars tied with string. 'That's the beginning of a new manufacturing association we're undertaking.'
-
-Levin was almost not listening. [...] His brother continued, "you know that capital oppresses the worker, [...] and so we're organizing an association in which all production and profit will be common property."
-
-"Where will this association be located?" Levin asked.
-
-"In the village of V\_\_"
-
-"Why have a metal-working association in a village? I think there's enough to do in the villages without that."
+> [Levin's brother] pointed to some small iron bars tied with string. 'That's the beginning of a new manufacturing association we're undertaking.'
+>
+> Levin was almost not listening. [...] His brother continued, "you know that capital oppresses the worker, [...] and so we're organizing an association in which all production and profit will be common property."
+>
+> "Where will this association be located?" Levin asked.
+>
+> "In the village of V\_\_"
+>
+> "Why have a metal-working association in a village? I think there's enough to do in the villages without that."
 
 Levin eventually tries this shared-property idea with his farm, and it doesn't work well. But we know from Tolstoy's life that he will eventually forsake the concept of private property and continue to obsess about peasant farm labor until his death. What's striking about this early exchange is Levin's assumption that small-town Russia had particularly more demand for work than supply of workers. This situation is totally flipped 150 years later, where politicians particularly speak of protecting jobs in small-town America and some economists question whether many rural towns should continue to exist. I want to share one of Tolstoy's points in the novel to speculate on part of why that flip happened.
 
@@ -166,7 +166,7 @@ Now, 100 pages earlier, Anna's lover was boasting of how he was building a first
 
 In case you were considering the utilitarian extreme of charity, the one Jane Addams rejected, this is what and how you should be eating:
 
-The old man crumbled some bread into a bowl, kneaded it with a spoon handle, poured in some water from his whetsone box, cut more bread, sprinkled it with salt, and turned eastward to pray. 'Here master, try a bit of my mash,' he said, squatting down in front of the bowl.
+> The old man crumbled some bread into a bowl, kneaded it with a spoon handle, poured in some water from his whetsone box, cut more bread, sprinkled it with salt, and turned eastward to pray. 'Here master, try a bit of my mash,' he said, squatting down in front of the bowl.
 
 Levin has some of the mash and finds it surprisingly delicious and filling. When he comes home that night he tells his housekeeper and brother he's already eaten dinner and isn't hungry, but they eventually get him to sit down with them, calling upon his responsibilities as a host (is all of Levin's economic consumption about reluctantly keeping up appearances?), and remark about how ravenously he is eating.
 
@@ -176,25 +176,25 @@ Levin is very much the intellectual ancestor of Taleb and Peterson. When he's fe
 
 Taleb writes this in Antifragile:
 
-Nero was the victim of an aesthetic ailment that brings revulsion, even phobia, toward: people wearing flip-flops, bankers, politicians...
+> Nero was the victim of an aesthetic ailment that brings revulsion, even phobia, toward: people wearing flip-flops, bankers, politicians...
 
 And this from Levin's opening scene:
 
-Levin was silent, glancing at the unfamiliar faces of his friend's two colleagues and especially at one clerk's hands, with such long white fingers, such long yellow nails curving at the tips, and such huge glittering cuff links on his sleeves, that these hands absorbed all his attention and did not allow him any freedom of thought...Levin looked with hatred at those hands.
+> Levin was silent, glancing at the unfamiliar faces of his friend's two colleagues and especially at one clerk's hands, with such long white fingers, such long yellow nails curving at the tips, and such huge glittering cuff links on his sleeves, that these hands absorbed all his attention and did not allow him any freedom of thought...Levin looked with hatred at those hands.
 
 Here's Taleb again, about scholarship:
 
-Nero had been spending all his adult life writing a philosophical-technical book. His tendency was to abandon the project every two years and take it up again two years later. He felt that the concept of probability as used was too narrow and incomplete to express the true nature of decisions in the ecology of the real world.
+> Nero had been spending all his adult life writing a philosophical-technical book. His tendency was to abandon the project every two years and take it up again two years later. He felt that the concept of probability as used was too narrow and incomplete to express the true nature of decisions in the ecology of the real world.
 
 And here's Levin about his book which variously consumes him throughout the novel.
 
-Levin had begun to write a work on farming, the basis of which was that the character of the worker had to be taken as an absolute given in farming, and that consequently, all propositions in the science of farming ought to be deduced not from the givens of soil and climate alone, but also from the known, immutable character of the worker...
-
-[100 pages later] Levin read the politico-economic books...which gave not even the slightest hint of what, he, Levin, and all Russian peasants and landowners were to do with their millions of hands and acres so that they would be most productive for the common good.
-
-[100 pages later] "Oh, I've given up on that book. It's just theory, what's the point?"
-
-[100 pages later] "I'm actually writing a book on agriculture..."
+> Levin had begun to write a work on farming, the basis of which was that the character of the worker had to be taken as an absolute given in farming, and that consequently, all propositions in the science of farming ought to be deduced not from the givens of soil and climate alone, but also from the known, immutable character of the worker...
+>
+> [100 pages later] Levin read the politico-economic books...which gave not even the slightest hint of what, he, Levin, and all Russian peasants and landowners were to do with their millions of hands and acres so that they would be most productive for the common good.
+>
+> [100 pages later] "Oh, I've given up on that book. It's just theory, what's the point?"
+>
+> [100 pages later] "I'm actually writing a book on agriculture..."
 
 My point in comparing to Taleb is that Tolstoy's Russian peasant obsessions are a case study of more universal questions, namely 1) how to utilize the labor of the masses in a changing economy, 2) how to deal with the mess when theory meets practice, and 3) whether any of these larger questions are more important than one's love life. Tolstoy's answers are 1) this is the most important question a society can ask, 2) this is really hard and he's tried things but hasn't figured it out yet, and 3) no, and if you find yourself wondering about this that's a sign that you are in love and should be doing more about it. The general answers are cliche, but the specifics are interesting.
 

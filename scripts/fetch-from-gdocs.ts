@@ -13,12 +13,11 @@
 import 'dotenv/config';
 import fs from 'fs';
 import path from 'path';
-import * as cheerio from 'cheerio';
-import TurndownService from 'turndown';
 import { slugify, countWords, calculateReadingTime } from '../lib/utils';
 import { processImages } from './lib/process-gdoc-images';
 import { checkDiff } from './lib/diff-check';
 import { resolvePublishedDate } from './lib/preserve-published-date';
+import { fetchGDocAsHTML, convertGDocToMarkdown } from './lib/gdoc-html';
 
 const GDOCS_SOURCES_PATH = path.join(process.cwd(), 'data/sources/gdocs-urls.json');
 const REVIEWS_DIR = path.join(process.cwd(), 'data/reviews');
@@ -37,126 +36,6 @@ interface ParsedReview {
   title: string;
   author: string;
   content: string;
-}
-
-// Initialize Turndown for HTML to Markdown conversion
-const turndownService = new TurndownService({
-  headingStyle: 'atx',
-  codeBlockStyle: 'fenced',
-});
-
-// Remove Google Docs styling spans that add no value.
-// IMPORTANT: must not strip spans that wrap images, and must not strip
-// whitespace-only spans (see comment on the cheerio span cleanup).
-turndownService.addRule('removeEmptySpans', {
-  filter: (node) => {
-    if (node.nodeName !== 'SPAN') return false;
-    // Only remove spans with NO text content at all. Whitespace-only spans
-    // carry meaningful word boundaries in current Google Docs HTML exports.
-    if (node.textContent) return false;
-    // Preserve spans that contain any image descendant.
-    if ((node as Element).querySelector?.('img')) return false;
-    return true;
-  },
-  replacement: () => '',
-});
-
-/**
- * Clean up markdown output
- */
-function cleanupMarkdown(markdown: string): string {
-  return markdown
-    // Remove escaped brackets
-    .replace(/\\\[/g, '[')
-    .replace(/\\\]/g, ']')
-    // Remove escaped parentheses
-    .replace(/\\\(/g, '(')
-    .replace(/\\\)/g, ')')
-    // Remove escaped dashes (anywhere — `\-` is never needed in markdown).
-    // Turndown escapes these whenever a dash could be read as a bullet or
-    // setext-heading underline, which includes mid-line contexts like
-    // "summary: \- The Ottoman Empire ...".
-    .replace(/\\-/g, '-')
-    // Clean up multiple consecutive blank lines
-    .replace(/\n{4,}/g, '\n\n\n')
-    // Remove escaped asterisks at line starts (but preserve ** for bold)
-    .replace(/^\\(\*[^*])/gm, '$1')
-    .trim();
-}
-
-/**
- * Fetch a Google Doc as HTML using the public export URL
- */
-async function fetchGDocAsHTML(docId: string): Promise<string> {
-  const url = `https://docs.google.com/document/d/${docId}/export?format=html`;
-  console.log(`  Fetching doc: ${docId}`);
-
-  const response = await fetch(url, {
-    headers: {
-      'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36',
-    },
-    redirect: 'follow',
-  });
-
-  if (!response.ok) {
-    throw new Error(`HTTP ${response.status}: ${response.statusText} for doc ${docId}`);
-  }
-
-  return await response.text();
-}
-
-/**
- * Extract the document body content from Google Docs HTML export
- * and convert to markdown
- */
-function convertGDocToMarkdown(html: string): string {
-  const $ = cheerio.load(html);
-
-  // Google Docs exports include a <body> with the content
-  // Remove Google Docs specific elements we don't want
-  $('style').remove();
-  $('script').remove();
-  // Remove Google Docs comment annotations and suggestions
-  $('sup').has('a[id^="cmnt"]').remove();
-  $('div').has('a[id^="cmnt"]').remove();
-  $('a[id^="cmnt"]').parent('sup').remove();
-  // Remove truly-empty spans (reduces memory pressure). We must NOT strip
-  // whitespace-only spans — Google Docs now puts run-boundary spaces in their
-  // own spans (e.g. "<span>the</span><span> </span><span>Arab Spring</span>"),
-  // and removing the space-span glues words together ("theArab Spring").
-  $('span').each(function() {
-    const el = $(this);
-    if (!el.text() && !el.find('img').length) {
-      el.remove();
-    }
-  });
-  // Strip Google Docs tracking URLs - unwrap redirect wrappers
-  $('a[href*="google.com/url"]').each(function() {
-    const el = $(this);
-    const href = el.attr('href') || '';
-    const match = href.match(/[?&]q=([^&]+)/);
-    if (match) {
-      el.attr('href', decodeURIComponent(match[1]));
-    }
-  });
-  // Unwrap anchors whose only content is whitespace (including &nbsp;).
-  // Google Docs sometimes emits <a>&nbsp;</a> alongside the real link to the
-  // same destination; those produce ugly [](url) empty links in markdown.
-  // Replace with the raw text so we preserve the whitespace (nbsp carries a
-  // word boundary between adjacent text runs).
-  $('a').each(function() {
-    const el = $(this);
-    if (!el.find('img').length && !el.text().replace(/\u00A0/g, '').trim()) {
-      el.replaceWith(el.text());
-    }
-  });
-
-  // Get the body content
-  const body = $('body');
-
-  // Convert to markdown
-  const rawMarkdown = turndownService.turndown(body.html() || '');
-  return cleanupMarkdown(rawMarkdown);
 }
 
 /**
@@ -540,34 +419,60 @@ async function processDoc(
     }
 
     for (const review of reviews) {
-      let slug = slugify(review.title);
-      if (!slug) {
-        slug = generateFallbackSlug(review.title, review.content);
-        console.log(`  ⚠️  Empty slug for title "${review.title}", using fallback: ${slug}`);
+      const baseSlug = slugify(review.title)
+        || generateFallbackSlug(review.title, review.content);
+      if (baseSlug !== slugify(review.title)) {
+        console.log(`  ⚠️  Empty slug for title "${review.title}", using fallback: ${baseSlug}`);
       }
-      // In-run dedup only: if we've already processed this slug this run,
-      // append a counter. If the slug matches an existing file that we
-      // haven't touched yet this run, we WANT to overwrite it (after diff
-      // check) — that's the whole point of re-ingestion.
-      if (processedThisRun.has(slug)) {
-        let counter = 2;
-        while (processedThisRun.has(`${slug}-${counter}`)) counter++;
-        slug = `${slug}-${counter}`;
-        console.log(`  ⚠️  In-run duplicate slug detected, using: ${slug}`);
-      }
-      processedThisRun.add(slug);
 
-      const writeStats = await createMarkdownFile(
-        contestId,
-        slug,
-        { ...review, reviewAuthor: 'Anonymous', originalUrl: docUrl },
-        applyMode
-      );
-      if (writeStats.skipped) stats.skipped++;
-      else if (writeStats.wrote) stats.reviewsCreated++;
-      stats.totalImages += writeStats.totalImages;
-      stats.uploadedImages += writeStats.uploadedImages;
-      stats.reusedImages += writeStats.reusedImages;
+      // Try baseSlug, then baseSlug-2, baseSlug-3, … until we find a slot
+      // that either doesn't exist yet or whose existing content passes the
+      // diff check. This handles docs that contain multiple reviews with
+      // the same title (different reviewers submitting on the same book):
+      // each distinct review ends up in its own file, and same-content
+      // near-duplicates collapse to a single file.
+      //
+      // A slot is reserved ONLY after a successful write, not on every
+      // attempt — otherwise a first-occurrence diff-skip would steal the
+      // base slot from a second occurrence whose content DOES match.
+      let chosenSlug = '';
+      let finalStats: WriteStats | null = null;
+      const MAX_ATTEMPTS = 20;
+      for (let counter = 1; counter <= MAX_ATTEMPTS; counter++) {
+        const candidate = counter === 1 ? baseSlug : `${baseSlug}-${counter}`;
+        if (processedThisRun.has(candidate)) continue;
+
+        const writeStats = await createMarkdownFile(
+          contestId,
+          candidate,
+          { ...review, reviewAuthor: 'Anonymous', originalUrl: docUrl },
+          applyMode
+        );
+
+        if (writeStats.skipped) {
+          // Existing file here has different content — try the next suffix.
+          continue;
+        }
+
+        // Wrote in apply mode, or "would write" in dry-run — reserve slot.
+        processedThisRun.add(candidate);
+        chosenSlug = candidate;
+        finalStats = writeStats;
+        break;
+      }
+
+      if (finalStats) {
+        if (chosenSlug !== baseSlug) {
+          console.log(`  ℹ️  "${review.title}" written to ${chosenSlug} (base slug was taken by a different review)`);
+        }
+        if (finalStats.wrote) stats.reviewsCreated++;
+        stats.totalImages += finalStats.totalImages;
+        stats.uploadedImages += finalStats.uploadedImages;
+        stats.reusedImages += finalStats.reusedImages;
+      } else {
+        stats.skipped++;
+        console.log(`  ⚠️  Gave up on "${review.title}" after ${MAX_ATTEMPTS} suffix attempts; no matching slot found`);
+      }
     }
   } catch (error) {
     console.error(`  ❌ Failed to process doc "${source.name}" (${source.docId}):`, error);

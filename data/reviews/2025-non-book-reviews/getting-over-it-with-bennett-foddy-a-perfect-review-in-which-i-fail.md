@@ -29,29 +29,29 @@ Into the carnival we go.
 
 ## In Which I Try To Get Over It
 
-And so, for the uninitiated, let’s establish the facts. The game I’m going to review, Getting Over It with Bennett Foddy, is all about overcoming—or at least tolerating—your hatred for failure. And because no one likes to fail, it’s become (un)popular for being (un)popular. Just google the name and you’ll know what I mean. Getting Over It is famous for the intense emotions it invoked in streamers, then it became infamous for the emotions it triggered in the rest of us.
+And so, for the uninitiated, let’s establish the facts. The game I’m going to review, _Getting Over It with Bennett Foddy,_ is all about overcoming—or at least tolerating—your hatred for failure. And because no one likes to fail, it’s become (un)popular for being (un)popular. Just google the name and you’ll know what I mean. _Getting Over It_ is famous for the intense emotions it invoked in streamers, then it became infamous for the emotions it triggered in the rest of us.
 
-In Getting Over It, you play a man, Diogenes, who must ascend a hill. You are given an axe and frustratingly wonky controls to do so. Curiously, you don’t know why you must climb the hill. Nothing about the game in particular encourages you to do so. There are no points to be gained, no collectible items, and no time limits. There is no story line. There are a few voiceovers by the creator, Bennett Foddy, which variously tell you about the origin of the game and what Tarkovsky, Nietzsche, and Mary Pickford had to say about failure, but many players find them annoying and end up muting them. Most of the usual pleasures of the average AAA video game—the chance of ‘winning’ a round, of achieving narrative depth, of solving a stimulating puzzle—are absent, exchanged for… well, it’s not clear. Mostly, you make some progress up the hill, and then you fall. You do this for hours. You do this for days. The falls you take grow in size, become more devastating. Nonetheless, people continue to play this game. It has sold over 2.7 million copies.
+In _Getting Over It_, you play a man, Diogenes, who must ascend a hill. You are given an axe and frustratingly wonky controls to do so. Curiously, you don’t know why you must climb the hill. Nothing about the game in particular encourages you to do so. There are no points to be gained, no collectible items, and no time limits. There is no story line. There are a few voiceovers by the creator, Bennett Foddy, which variously tell you about the origin of the game and what Tarkovsky, Nietzsche, and Mary Pickford had to say about failure, but many players find them annoying and end up muting them. Most of the usual pleasures of the average AAA video game—the chance of ‘winning’ a round, of achieving narrative depth, of solving a stimulating puzzle—are absent, exchanged for… well, it’s not clear. Mostly, you make some progress up the hill, and then you fall. You do this for hours. You do this for days. The falls you take grow in size, become more devastating. Nonetheless, people continue to play this game. It has sold over 2.7 million copies.
 
 But—why? Why did a game about failure, a game with less than a 10% completion rate, a game with no save files and where you must start over and over again and just when you begin to gain some momentum you—
 
 ~~
 
-Anyone who had Steam on their dashboard in 2018 has heard of Getting Over It with Bennett Foddy. It’s the game about climbing a mountain in a pot, and this is what my review will be about. But first, how much do you know about Bennett Foddy himself?
+Anyone who had Steam on their dashboard in 2018 has heard of _Getting Over It with Bennett Foddy._ It’s the game about climbing a mountain in a pot, and this is what my review will be about. But first, how much do you know about Bennett Foddy himself?
 
 Do you know he trained as a moral philosopher at Princeton? Does it surprise you that he studied drug addiction? That he played as a bassist in an electronica band before he lectured at Oxford?
 
-Jonathon Blow, the darling of indie gamers, said he wanted to make video games for people who read Gravity’s Rainbow. Bennett Foddy, meanwhile, says he made Getting Over It “for a specific type of person… To hurt them.” Why? And why this intensity? The game, it’s true, is downright cruel. It’s a game that scoops the willpower from your body like a shovel driven into dirt, a game that leaves you feeling imperfectly lobotomized, your mushy brain leaking chunkily out of your eyes. Why would he do this to us? What business does a moral philosopher have pushing us over then holding us down?
+Jonathon Blow, the darling of indie gamers, said he wanted to make video games for people who read Gravity’s Rainbow. Bennett Foddy, meanwhile, says he made _Getting Over It_ “for a specific type of person… To hurt them.” Why? And why this intensity? The game, it’s true, is downright cruel. It’s a game that scoops the willpower from your body like a shovel driven into dirt, a game that leaves you feeling imperfectly lobotomized, your mushy brain leaking chunkily out of your eyes. Why would he do this to us? What business does a moral philosopher have pushing us over then holding us down?
 
 In short, what the fuck is wrong with this guy? Why is he no—
 
 ~~
 
-Any good review of Getting Over It with Bennett Foddy must discuss the sunk cost fallacy, because Jesus—
+Any good review of _Getting Over It_ _with Bennett Foddy_ must discuss the sunk cost fallacy, because Jesus—
 
 ~~
 
-Ah, did you know there’s a video of Bennett Foddy playing Getting Over It with Bennett Foddy, and that this video is called Bennett Foddy Plays Getting Over It With Bennett Foddy, and that Bennett Foddy FUCKING FUCK OFF—
+Ah, did you know there’s a video of Bennett Foddy playing _Getting Over It with Bennett Foddy,_ and that this video is called _Bennett Foddy Plays Getting Over It With Bennett Foddy,_ and that Bennett Foddy FUCKING FUCK OFF—
 
 ~~
 
@@ -103,27 +103,27 @@ Even that paragraph was a failure—too off-key, amateurish, uncertain in its si
 
 ~~
 
-At the beginning, here, I want to tell you about the only game I played in 2025 that I managed to finish. You’ve probably heard of this game. It’s called Getting Over It with Bennett Foddy, and it was the first game that could reasonably be labelled a retelling of the Myth of Sisyphus. Nonetheless, it became, in 2017, the bestselling game on Steam.
+At the beginning, here, I want to tell you about the only game I played in 2025 that I managed to finish. You’ve probably heard of this game. It’s called _Getting Over It_ with Bennett Foddy, and it was the first game that could reasonably be labelled a retelling of the Myth of Sisyphus. Nonetheless, it became, in 2017, the bestselling game on Steam.
 
 This requires explanation. Why would a game that was made to “hurt a specific type of person” become popular? I you fucking derivative copy-cat it’s—
 
 ~~
 
-Alright, I’m pretty sure you’ve heard of Getting Over It With Bennett Foddy. It’s a game about learning to overcome your churning, Archean rage. It’s a game that requires Confucian levels of control—a kind of strategic, dispassionate detachment. The game trains, or at least rewards, emotional self-regulation—emotional IQ.
+Alright, I’m pretty sure you’ve heard of _Getting Over It_ With Bennett Foddy. It’s a game about learning to overcome your churning, Archean rage. It’s a game that requires Confucian levels of control—a kind of strategic, dispassionate detachment. The game trains, or at least rewards, emotional self-regulation—emotional IQ.
 
 Or at least that’s what most people think the game is about. In fact, they’ve been badly misled. To really understand what’s going on here—to give a ‘Straussian’ reading—requires starting from first principles.
 
 In other words, we need to talk about the cauldron. If you’ve played the game, you know what I’m talking about. The main character, Diogenes, never leaves his cauldron. In fact, we never see his legs. Nipples down, he is protected, shrimp-like, in a coal-black shell.
 
-One’s left to wonder whether he even has legs, or whether his bottom half has gradually come apart over time, his skin peeling away like saltines subsumed by boiling water, his bones below the knee becoming broth. There’s definitely water in there, or maybe sweat, because our guy Diogenes is wet, always spilling more of his boiled-body water out onto the mountain. The smell must be toxic, the stuff of 3rd-world medical hospitals. But maybe our Diogenes isn’t human. Inside of that pot, he’s curled up his eight octopus legs into a single fleshy bulb which presses against every edge of his container. He’s been trapped in there to keep him from his horrible habit of sucking out the pineal glands of humans. By climbing the mountain, you are helping him escape his cage, beckoning him out of his Elba and back into the seat of power. Can you imagine the bloody scabby good GRIEF GOD FUCKER—
+One’s left to wonder whether he even has legs, or whether his bottom half has gradually come apart over time, his skin peeling away like saltines subsumed by boiling water, his bones below the knee becoming broth. There’s definitely water in there, or maybe sweat, because our guy Diogenes is _wet_, always spilling more of his boiled-body water out onto the mountain. The smell must be toxic, the stuff of 3rd-world medical hospitals. But maybe our Diogenes isn’t human. Inside of that pot, he’s curled up his eight octopus legs into a single fleshy bulb which presses against every edge of his container. He’s been trapped in there to keep him from his horrible habit of sucking out the pineal glands of humans. By climbing the mountain, you are helping him escape his cage, beckoning him out of his Elba and back into the seat of power. Can you imagine the bloody scabby good GRIEF GOD FUCKER—
 
 ~~
 
-A list of the things we must ‘get over’ in Getting Over It, ranked in ascending difficulty: solo cup, Bermuda grass, sandstone, granite blocks, canoe paddle, satellite dish, wheelbarrow, cabin, pipe, barrel, garbage can, pallet, ivy, lamp, crane, garbage bags, casks, concrete, dog house, bookshelf, brick, banana tree, highway divider, bathtub, safe, beach ball, chair, mattress, couch, bookshelf, painting of Diogenes the Cynic, toilet, lamp, IKEA furniture (lots), telephone wires, shopping cart, Pine tree, church, children’s play set, magician’s hat, cellphone tower, anvil, security camera, balls of snow, chimney, ice wall, hanging bucket, BORED—
+A list of the things we must ‘get over’ in _Getting Over It_, ranked in ascending difficulty: solo cup, Bermuda grass, sandstone, granite blocks, canoe paddle, satellite dish, wheelbarrow, cabin, pipe, barrel, garbage can, pallet, ivy, lamp, crane, garbage bags, casks, concrete, dog house, bookshelf, brick, banana tree, highway divider, bathtub, safe, beach ball, chair, mattress, couch, bookshelf, painting of Diogenes the Cynic, toilet, lamp, IKEA furniture (lots), telephone wires, shopping cart, Pine tree, church, children’s play set, magician’s hat, cellphone tower, anvil, security camera, balls of snow, chimney, ice wall, hanging bucket, BORED—
 
 ~~
 
-As I reached the second half of Getting Over It With Bennett Foddy, I began to see it as a disability simulator. You do not have perfect control of your character. And yet, you’re expected to traverse an environment that actively exploits your limitations. You sad—
+As I reached the second half of _Getting Over It_ With Bennett Foddy, I began to see it as a disability simulator. You do not have perfect control of your character. And yet, you’re expected to traverse an environment that actively exploits your limitations. You sad—
 
 ~~
 
@@ -141,13 +141,13 @@ Probably some of this is self-protective. It hurts to think about meaningless fa
 
 Failures, according to this counter-narrative, are punished.
 
-In an interview about movies, comedian and director Richard Ayoade talks about how he finds unrelenting failure funny. While Hollywood loves to juice up stories that affirm the American Dream—and, to be fair, to satirize it too—Ayoade says it’s funnier, and truer, to imagine someone quitting their day job, putting their livelihood on the line, and ultimately failing as an artist. This seems more honest, to me. I see it everywhere. It reminds me of Joseph Grand in The Plague, a character who writes and rewrites the first sentence of his manuscript while everyone around him dies. Despite years of trying, he does not, so far as we know, finish the paragraph.
+In an interview about movies, comedian and director Richard Ayoade talks about how he finds unrelenting failure funny. While Hollywood loves to juice up stories that affirm the American Dream—and, to be fair, to satirize it too—Ayoade says it’s funnier, and truer, to imagine someone quitting their day job, putting their livelihood on the line, and ultimately failing as an artist. This seems more honest, to me. I see it everywhere. It reminds me of Joseph Grand in _The Plague_, a character who writes and rewrites the first sentence of his manuscript while everyone around him dies. Despite years of trying, he does not, so far as we know, finish the paragraph.
 
-All of this to say that the costs of failure seem underrepresented. Failure doesn’t teleologically lead towards success. Sometimes failures works like [The Disintegration Loops](https://www.youtube.com/watch?v=mjnAE5go9dI&ab_channel=TrevorMusicAnnex), a tape that loops over and over again and in so doing gradually destroys itself, the magnetic tape flaking off the tape, the sonic etchings scraped away in parts, its fullness haunted more and more by its emptiness, growing soberly towards muteness. Seems kind of true, no? With each new failure, you become more robotic, more detached from your emotions, an imperfect image of your former self; you grind and grind and eventually there’s nothing left but the waste product, shavings or sawdust, swarf and chaff. Failure precedes, precipitates, more failure.
+All of this to say that the costs of failure seem underrepresented. Failure doesn’t teleologically lead towards success. Sometimes failures works like _[The Disintegration Loops](https://www.youtube.com/watch?v=mjnAE5go9dI&ab_channel=TrevorMusicAnnex)_, a tape that loops over and over again and in so doing gradually destroys itself, the magnetic tape flaking off the tape, the sonic etchings scraped away in parts, its fullness haunted more and more by its emptiness, growing soberly towards muteness. Seems kind of true, no? With each new failure, you become more robotic, more detached from your emotions, an imperfect image of your former self; you grind and grind and eventually there’s nothing left but the waste product, shavings or sawdust, swarf and chaff. Failure precedes, precipitates, more failure.
 
 In a sane society, we manage the risk of life-destroying failure. Responsibility is metered out to people who’ve proven themselves, little-by-little, to have good judgement. But we are not sane, at least not entirely. For instance, we’ve learned that bestowing god-emperor power on children usually heaps risk on top of risk, but we still let people risk themselves. Gambling, apparently, is allowed. On WSB, you can watch people risk the forty-year savings of their grandparents—money made scrubbing toilets, fastidiously collected in piggy banks and hidden under mattresses, the money in some cases literally smeared with the sweat of their labour—shorting a toilet paper company. Generally, money is power, and so people who make money in one domain, maybe a domain where they are experts, can then exert power—responsibility—in another, risking failure mode. Oftentimes the failure of others becomes a failure for us all.
 
-Failure can also be complete. This is what makes Getting Over It arguably, in some ways, dishonest—or at least incomplete—or maybe even subtly optimistic. In life, failure eventually, necessarily, leads to death. But in Getting Over It, you can always keep going. You can always keep going. You can always keep g—
+Failure can also be complete. This is what makes _Getting Over It_ arguably, in some ways, dishonest—or at least incomplete—or maybe even subtly optimistic. In life, failure eventually, necessarily, leads to death. But in _Getting Over It,_ you can always keep going. You can _always_ keep going. You can always keep g—
 
 ~~
 

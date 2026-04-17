@@ -7,7 +7,7 @@ contestName: 2024 Book Reviews
 year: 2024
 publishedDate: '2026-02-06T16:49:13.992Z'
 slug: the-art-of-happiness
-wordCount: 3334
+wordCount: 3358
 readingTimeMinutes: 15
 originalUrl: >-
   https://docs.google.com/document/d/14qa47TJ_Vyerx4XNgTCIh7PUZ_TOgNcU_eHm5So_zo0
@@ -69,13 +69,13 @@ For all my disagreement and humor, this is the part of the book that started to 
 
 The third part of the book is about specific techniques to take a moment of suffering and turn that pain into something else. I found it to be the best part of the book. If this review almost convinces you to read The Art Of Happiness, but you’re maybe not sold on reading an entire book, I suggest you read only part three. As a rationalist, this was also the part of the book were I most often felt surprised at where Buddhist thought seemed to have arrived at a concept I thought of as a rationalist one. Take the following (somewhat abbreviated) paragraphs.
 
-“Let's say that someone makes you angry. . . In a lot of cases, it’s not just a matter of getting angry at the time you’re being hurt. You might think about the event later, and every time you think about it you become angry all over again.
-
-Surely the person who caused this anger in you will have a lot of other positive aspects, positive qualities. If you look carefully, you will also find that the act which has made you angry has also given you certain opportunities, something which otherwise would not have been possible, even from your point of view. . .
-
-But what about if you look for the positive angles of a person or event and can’t find any?
-
-Here, I think, we would be dealing with a situation where you might need to make some effort. . . but this perception does not correspond with reality.”
+> “Let's say that someone makes you angry. . . In a lot of cases, it’s not just a matter of getting angry at the time you’re being hurt. You might think about the event later, and every time you think about it you become angry all over again.
+>
+> Surely the person who caused this anger in you will have a lot of other positive aspects, positive qualities. If you look carefully, you will also find that the act which has made you angry has also given you certain opportunities, something which otherwise would not have been possible, even from your point of view. . .
+>
+> But what about if you look for the positive angles of a person or event and can’t find any?
+>
+> Here, I think, we would be dealing with a situation where you might need to make some effort. . . **but this perception does not correspond with reality.**”
 
 Or, in our language, your enemies are not innately evil.
 
@@ -83,7 +83,7 @@ There’s a charming story about being on a long, frustrating plane flight surro
 
 As I am mentioning the parts where it seems like rationality and The Art of Happiness agree however, I just want to point at one more quote.
 
-“For example, reflecting on your suffering can reduce your arrogance, your feeling of conceit. Of course, he laughed heartily, this may not be seen as a practical benefit or be a convincing reason for someone who doesn’t consider arrogance or pride to be a fault.”
+> “For example, reflecting on your suffering can reduce your arrogance, your feeling of conceit. Of course, he laughed heartily, this may not be seen as a practical benefit or be a convincing reason for someone who doesn’t consider arrogance or pride to be a fault.”
 
 Guilty as charged, your honor.
 
@@ -93,23 +93,23 @@ The first obstacle is our natural inclination to continue with the habits we are
 
 Hidden in this subsection however, there’s another rationalist comparison I want to make. Towards the start of part four, there’s a fragment of poem that resonated with me.
 
-As long as space endures
-
-As long as sentient beings remain
-
-May I too live
-
-To dispel the miseries
+> As long as space endures
+>
+> As long as sentient beings remain
+>
+> May I too live
+>
+> To dispel the miseries
 
 I cannot explain without reaching for metaphor and intuition why, but it feels like one half of a pair with
 
-Even if the stars should die in heaven
-
-Our sins can never be undone
-
-No single death will be forgiven
-
-When fades at last the last lit sun.
+> Even if the stars should die in heaven
+>
+> Our sins can never be undone
+>
+> No single death will be forgiven
+>
+> When fades at last the last lit sun.
 
 The bulk of part four is largely focused on anger, hatred, anxiety, and self-doubt. Of these, anger is the one I have the most trouble with, and I found the advice an interesting frame. Instead of getting angry and lashing out (which, yes, I know is unhelpful) the advice is about the strength involved in simply standing firm with where you are. Don’t lunge forward, simply remain patient and restrained.
 
@@ -121,13 +121,13 @@ For a book about the head of a religion, there’s surprisingly little about the
 
 One line I want to pick out and talk about because it caught me by surprise is about prayer.
 
-“I think prayer is, for the most part, a simple daily reminder of your deeply held principles and convictions.”
+> “I think prayer is, for the most part, a simple daily reminder of your deeply held principles and convictions.”
 
 Despite growing up religious, and even having a habit of daily prayer that persists to this day, I had not thought of prayer this way. For me prayer has always been a conversation, albeit one where my interlocutor doesn’t speak so much as listen well. Having read that line however, I think it’s changed how I think about these conversations. After having read the book, I’ve been trying to keep more continuity in my prayers. I don’t just talk over the day and what I want from tomorrow, but now I try to recite what I want to be and look at where I’m falling short and where I’m proud of myself for living up to what I hope to be. It’s not clear yet if this change will last, but I’m glad to try the experiment.
 
 Speaking of experimentation, apparently Buddhism is a fairly practical religion. When talking about other faiths, the Dalai Lama says:
 
-“Through this kind of closer contact we can learn about the useful contributions that these religions have made to humanity and find useful aspects of the other traditions that we can learn from. We may even discover methods and techniques that we can adopt in our own practice.”
+> “Through this kind of closer contact we can learn about the useful contributions that these religions have made to humanity and find useful aspects of the other traditions that we can learn from. **We may even discover methods and techniques that we can adopt in our own practice.**”
 
 I got the impression from reading this book that Dr. Cutler wasn’t just learning from the Dalai Lama; that the Dalai Lama was learning from Dr. Cutler. It seemed that the man who held highest religious office in Buddhism was interested to find out what the western world could tell him about happiness. If I have described more of the Buddhist side of this book, it is largely because of my own frustrations with the science that Dr. Cutler references being so maddeningly underspecified. I’ve seen more citations given out by a Sunday afternoon street parking attendant than I’ve seen in this book.
 

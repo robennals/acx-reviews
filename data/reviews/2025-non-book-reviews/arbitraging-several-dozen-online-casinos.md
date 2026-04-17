@@ -7,7 +7,7 @@ contestName: 2025 Non Book Reviews
 year: 2025
 publishedDate: '2026-02-06T16:52:48.889Z'
 slug: arbitraging-several-dozen-online-casinos
-wordCount: 4715
+wordCount: 4722
 readingTimeMinutes: 21
 originalUrl: >-
   https://docs.google.com/document/d/1d0vRSj1E93joWWvbUen2XGuDjN_mM94ybMIAADzM2fo
@@ -16,7 +16,7 @@ tags:
   - Economics
 ---
 
-The Vicious Subsidy
+_**The Vicious Subsidy**_
 
 The growth of gambling in the United States is unrelenting. This blog regularly plugs prediction markets, ESPN now shows moneylines, and even relatively conservative areas of investing blur the line through options sold to retail and event contracts. I dislike this for several reasons. The first bookies promote poor thinking in their customers to make better marks. Secondly, crypto used to mean cryptography and I already had a hard enough time justifying weird number puzzles to normal people.
 
@@ -82,13 +82,13 @@ Alice isn't content with her minimal income and wants more. To do this, she enga
 
 Her plan is simple. A casino offers her a deal where she can purchase 100 SC for $75. She has no special skills, but the casino offers a game where she will win, on average, 95% of what she plays [4].
 
-i. She buys the package for $75 via credit card and receives 100 SC.
-
-ii. She plays 100 SC and wins 95 SC.
-
-iii. She cashes out 95 SC for $95.
-
-iv. She pays a $75 credit card bill.
+> i. She buys the package for $75 via credit card and receives 100 SC.
+>
+> ii. She plays 100 SC and wins 95 SC.
+>
+> iii. She cashes out 95 SC for $95.
+>
+> iv. She pays a $75 credit card bill.
 
 v. She now has $20 more, more than one day's worth of daily bonuses.
 
@@ -182,13 +182,13 @@ Of course, Alice could not know because society suppresses information about gam
 
 ii. Discipline. The vast majority of the bets that casinos offer will lose money over the long term. People just won't limit themselves to playing the absolute minimum amount and gamble more than they should. That is what the casino expects and it seems to work. But the fact that it works is interesting.
 
-        iii. Instability. Because you aren’t supposed to be arbitraging, any given casino can stop paying at any time. They could drop table games and you’re stuck with slots or stop offering redeemable SC altogether. The portfolio of casinos is more resilient, but perhaps it just isn’t worth the effort to sign up for dozens of predatory, unofficial, pseudo-gig economy apps. This would prevent Alice from centering her personal finances exclusively on casino arbitrage, but would not prevent people with full or part time jobs or other financial support from picking up extra cash.
+iii. Instability. Because you aren’t supposed to be arbitraging, any given casino can stop paying at any time. They could drop table games and you’re stuck with slots or stop offering redeemable SC altogether. The portfolio of casinos is more resilient, but perhaps it just isn’t worth the effort to sign up for dozens of predatory, unofficial, pseudo-gig economy apps. This would prevent Alice from centering her personal finances exclusively on casino arbitrage, but would not prevent people with full or part time jobs or other financial support from picking up extra cash.
 
 iv. Downside Aversion. Alice is converting a lottery-like activity (jackpots) into a bond-like stream of payments ($95 per day). All of the risk of arbitraging is to the downside, since a casino could vanish or Alice could fat finger a bet. But the payouts are small, paid over long periods. To paraphrase, everybody wants a Lambo, ain’t nobody wants to clip them tedious coupons. Since the best case is making a little bit of money and the worst is losing a lot, Alice must have atypical preferences.
 
 v. Numeracy. The population of numberers is bad by the numbers. We can use the PIAAC (Program for International Assessment of Adult Competencies) [15] to get a grip on this. If arbitraging casinos requires Alice “to identify and act on mathematical information and ideas embedded in a range of common contexts where the mathematical content is fairly explicit or visual with relatively few distractors”, that’s a level 2 task and 34% of Americans cannot do it. If the information is “less explicit, embedded in contexts that are not always familiar and represented in more complex ways”, that’s level 3 and 62% of Americans can’t. Levels 4 and 5 exclude 88% and 98% of Americans respectively. My guess, figuring how to do this out is a level 3 task, executing a solved problem a 2. But I am a professional numberer, so my intuition is likely wrong. In either case, a significant fraction of adults cannot be expected to do basic arithmetic.
 
-vi. Social Pressure. The purpose of employment is not only money, but also social status and respect. Answering “What do you do?” with “Pick cheese out of mousetraps” is unlikely to one up anyone at parties. Of course, Alice doesn’t have to tell people. She can honestly say “I’m a financial analyst and investor specialized in alternative investments”, then deflect further questions. But that may take social skills she does not have. America’s social environment where most people work may not have caught up to the fiscal realities.  Of course, if she has a day job she can just answer with that. I personally don’t tell people I do this, the rewards are low and the risks are high.
+vi. Social Pressure. The purpose of employment is not only money, but also social status and respect. Answering “What do you do?” with “Pick cheese out of mousetraps” is unlikely to one up anyone at parties. Of course, Alice doesn’t have to tell people. She can honestly say “I’m a financial analyst and investor specialized in alternative investments”, then deflect further questions. But that may take social skills she does not have. America’s social environment where most people work may not have caught up to the fiscal realities.  Of course, if she has a day job she can just answer with that. I personally don’t tell people I do this, the rewards are low and the risks are high.
 
 3\. Minimally disciplined and numerate Americans have a high income floor.
 

@@ -7,7 +7,7 @@ contestName: 2021 Book Reviews
 year: 2021
 publishedDate: '2026-02-06T07:21:29.563Z'
 slug: bad-religion-how-we-became-a-nation-of-heretics-by-ross-douthat
-wordCount: 5941
+wordCount: 5982
 readingTimeMinutes: 27
 originalUrl: >-
   https://docs.google.com/document/d/1xexFJ7h0vULMDE7N77q_MIzXoerexfe_CqqGEL6hEoQ
@@ -17,7 +17,7 @@ tags:
   - Society
 ---
 
-Ross Douthat on Heresy, Christianity’s Decline, and Possible Renewal
+_Ross Douthat on Heresy, Christianity’s Decline, and Possible Renewal_
 
 Are there present-day heresies, which might afflict you? (Yes, you!)
 
@@ -29,15 +29,15 @@ Is there a defense for Christian orthodoxy today? (Yes.)
 
 What should be the response of institutional Christianity to this decline? (some ideas at the end)
 
-These questions (and more!) are asked and answered in Ross Douthat’s ambitious book “Bad Religion: How We Became a Nation of Heretics” in 2012.
+These questions (and more!) are asked and answered in Ross Douthat’s ambitious book “_Bad Religion: How We Became a Nation of Heretics_” in 2012.
 
-Important context: Douthat is a devout Roman Catholic—Bad Religion is not a diatribe against religion in the aggregate; instead, it documents the decline of orthodox Christianity since the 1960’s (especially the decline of mainline Protestantism and non-immigrant Catholicism) and the rise of certain ‘bad’ religious substitutes (Douthat’s adjective). To Douthat, these pseudo-Christianities are typified by Glenn Beck (Christian nationalism), Joel Osteen (prosperity gospel), Elizabeth Gilbert (the God Within/ ‘spiritual but not religious’), and Dan Brown (choose your own Jesus) (descriptions Douthat’s).
+Important context: Douthat is a devout Roman Catholic—_Bad Religion_ is not a diatribe against religion in the aggregate; instead, it documents the decline of orthodox Christianity since the 1960’s (especially the decline of mainline Protestantism and non-immigrant Catholicism) and the rise of certain ‘bad’ religious substitutes (Douthat’s adjective). To Douthat, these pseudo-Christianities are typified by Glenn Beck (Christian nationalism), Joel Osteen (prosperity gospel), Elizabeth Gilbert (the God Within/ ‘spiritual but not religious’), and Dan Brown (choose your own Jesus) (descriptions Douthat’s).
 
-As evidence of both the decline of Christianity’s importance to American society and the internal debate happening within Christianity, the United Methodist Church (my church, the second largest Protestant sect and one of the major mainline Protestant churches) is currently in a [schism](https://reason.com/volokh/2020/01/05/the-likely-outcome-of-the-methodist-schism/) and nobody even knows.
+As evidence of both the decline of Christianity’s importance to American society and the internal debate happening within Christianity, the United Methodist Church (my church, the second largest Protestant sect and one of the major mainline Protestant churches) is currently in a [schism](https://reason.com/volokh/2020/01/05/the-likely-outcome-of-the-methodist-schism/) and nobody even knows.
 
-In Douthat’s wildest dreams, Bad Religion serves as the inspiration for detached Christians to re-gain their faith, and for secular people to perform self-reflection about their own dogmas. If there were one book I could make every Christian read, it would be this one.
+In Douthat’s wildest dreams, _Bad Religion_ serves as the inspiration for detached Christians to re-gain their faith, and for secular people to perform self-reflection about their own dogmas. If there were one book I could make every Christian read, it would be this one.
 
-But don’t flee, non-Christians! The heresies that Douthat describe also implicate secular society. His chapter on American nationalism is prophetic and practically perfect, while his criticism of the prosperity gospel should have wide-ranging implications. And as for Elizabeth Gilbert, Dan Brown, and even Oprah? Douthat’s not sparing any punches. Bad Religion, if read correctly, should challenge everyone, no matter your religion or political beliefs. It is not a perfect book, though; the “Accommodation” chapter about theological liberalism is inadequate.
+But don’t flee, non-Christians! The heresies that Douthat describe also implicate secular society. His chapter on American nationalism is prophetic and practically perfect, while his criticism of the prosperity gospel should have wide-ranging implications. And as for Elizabeth Gilbert, Dan Brown, and even Oprah? Douthat’s not sparing any punches. _Bad Religion_, if read correctly, should challenge everyone, no matter your religion or political beliefs. It is not a perfect book, though; the “Accommodation” chapter about theological liberalism is inadequate.
 
 But in this, I concur with Mathew Yglesias: “And critically, by ‘highly recommend it to you’ I do not mean ‘I agree with all the takes.’…It’s important to read strong writers with big, influential ideas and understand what they’re saying.” ([link](https://www.slowboring.com/p/slate-star-codex))
 
@@ -51,15 +51,15 @@ One can hear the ring of “Make America Great Again” in American Nationalism�
 
 Here’s just a sample of the glory that is this chapter (263, Douthat, Bad Religion):
 
-But if messianism has done more good than apocalyptism, it has probably done more damage as well. Precisely because the messianic style has been more influential among the American elite, the consequences of messianic excess have generally been more comprehensively disastrous. Apocalyptism is rarely harmless, but its very marginalization limits its destructive power. Witch hunts are dangers and deadly, to be sure. But “wars for righteousness” often have far more victims, and they do more lasting harm.
-
-This is not how our history is usually remembered. But far more people suffered, at home and abroad, because messianic chief executives like Wilson and Teddy Roosevelt took the country repeatedly to war than suffered because of the excesses of Protestant fundamentalism in the same era. (Inherit the Wind bestrides high school reading lists, but the Roosevelt-championed Filipino War, America’s first exercise in disastrous nation-building, has been more or less erased from the national memory.
+> But if messianism has done more good than apocalyptism, it has probably done more damage as well. Precisely because the messianic style has been more influential among the American elite, the consequences of messianic excess have generally been more comprehensively disastrous. Apocalyptism is rarely harmless, but its very marginalization limits its destructive power. Witch hunts are dangers and deadly, to be sure. But “wars for righteousness” often have far more victims, and they do more lasting harm.
+>
+> This is not how our history is usually remembered. But far more people suffered, at home and abroad, because messianic chief executives like Wilson and Teddy Roosevelt took the country repeatedly to war than suffered because of the excesses of Protestant fundamentalism in the same era. (_Inherit the Wind_ bestrides high school reading lists, but the Roosevelt-championed Filipino War, America’s first exercise in disastrous nation-building, has been more or less erased from the national memory.
 
 While there’s much, much more, let’s move on. As I said, the book is ambitious.
 
 ## The Heresy of “Pray and Grow Rich”
 
-The infamous “Prosperity Gospel” has its origins in the New Thought movement, Pentecostalism, and an American strain of pro-capitalism. According to [Did Christianity Cause the Crash?](https://www.theatlantic.com/magazine/archive/2009/12/did-christianity-cause-the-crash/307764/) by Hanna Rosin, approximately 50 of the 260 largest churches preach the prosperity gospel today.
+The infamous “Prosperity Gospel” has its origins in the New Thought movement, Pentecostalism, and an American strain of pro-capitalism. According to [Did Christianity Cause the Crash?](https://www.theatlantic.com/magazine/archive/2009/12/did-christianity-cause-the-crash/307764/) by Hanna Rosin, approximately 50 of the 260 largest churches preach the prosperity gospel today.
 
 The prosperity gospel makes Christianity purely transactional: if you believe in Christ, you will be rewarded handsomely in this life.
 
@@ -67,19 +67,19 @@ This crass materialism is revealed when Osteen reflexively cries “No big deal,
 
 In light of this theology, it is unsurprising how many of these preachers own private jets or even commit [fraud](https://www.nytimes.com/1989/10/06/us/bakker-is-convicted-on-all-counts-first-felon-among-tv-evangelists.html?mcubz=0).
 
-Beyond the obvious criticisms that the prosperity gospel is incomplete (Douthat’s quip “Every day is Friday, but there’s never a Good Friday” is illustrative), the core problem is that the prosperity gospel implies that if you’re not successful, it’s because you’re not a “real” Christian. From pastor Fernando Garay:  “Ten Christians will say that God told them to buy a house. In nine of the cases, it will go bad. The 10th one is the real Christian.” (209, Bad religion)
+Beyond the obvious criticisms that the prosperity gospel is incomplete (Douthat’s quip “Every day is Friday, but there’s never a Good Friday” is illustrative), the core problem is that the prosperity gospel implies that if you’re not successful, it’s because you’re not a “real” Christian. From pastor Fernando Garay:  “Ten Christians will say that God told them to buy a house. In nine of the cases, it will go bad. The 10th one is the real Christian.” (209, Bad religion)
 
 This fallacy, though, is not limited to the prosperity gospel:
 
-1.  Fictional Steve Prefontaine in movie “Without Limits” when he claims “I run to see who has the most guts.”
-2.  The successful science professor who says “Whenever I worked hard, the experiment worked out for me, so you must be slacking.” (not a paraphrase…)
-3.  “The people who think admission to an Ivy League university was because they were superior, intellectually and perhaps morally, to those not as fortunate. They wanted to be the college admission version of John Calvin’s ‘elect,’ and they didn’t want luck to play any part of their admission” from [Ethical College Admissions: Ivy Lottery](https://www.insidehighered.com/admissions/views/2021/01/11/should-ivy-league-universities-conduct-admissions-lottery-opinion)
-
-1.  Note: this is true even if elite colleges stopped admitting legacies or athletes or stopped preferentially accepting people willing to pay full tuition (i.e. early decision)
-2.  The truth is almost everyone who is accepted to an elite college is qualified and deserves to be there (yes, the athletes and legacies too) —it’s just that there are many, many other people who are also qualified.
-3.  It’s why I support a lottery like Nathan Robinson’s [Admit Everybody](https://www.currentaffairs.org/2018/03/admit-everybody)
-
-4.  the entrepreneur who thinks his business succeeded only because he worked hard
+> 1.  Fictional Steve Prefontaine in movie “Without Limits” when he claims “I run to see who has the most guts.”
+> 2.  The successful science professor who says “Whenever I worked hard, the experiment worked out for me, so you must be slacking.” (not a paraphrase…)
+> 3.  “The people who think admission to an Ivy League university was because they were superior, intellectually and perhaps morally, to those not as fortunate. They wanted to be the college admission version of John Calvin’s ‘elect,’ and they didn’t want luck to play any part of their admission” from [Ethical College Admissions: Ivy Lottery](https://www.insidehighered.com/admissions/views/2021/01/11/should-ivy-league-universities-conduct-admissions-lottery-opinion)
+>
+> 1.  Note: this is true even if elite colleges stopped admitting legacies or athletes or stopped preferentially accepting people willing to pay full tuition (i.e. early decision)
+> 2.  The truth is almost everyone who is accepted to an elite college is qualified and deserves to be there (yes, the athletes and legacies too) —it’s just that there are many, many other people who are also qualified.
+> 3.  It’s why I support a lottery like Nathan Robinson’s [Admit Everybody](https://www.currentaffairs.org/2018/03/admit-everybody)
+>
+> 4.  the entrepreneur who thinks his business succeeded only because he worked hard
 
 Douthat seems to be worried that “the result is a country where religion actively promotes the sort of recklessness that produced our economic meltdown, rather than serving as a brake on materialism and a rebuke to avarice” (5, Bad Religion).
 
@@ -89,7 +89,7 @@ I’m more worried that the prosperity gospel (and related fallacies) lead to a 
 
 This is perhaps Douthat’s bravest chapter, where he takes on the “spiritual but not religious” creed, or what he terms, “the God within.” Among those implicated include Elizabeth Gilbert, Deepak Chopra, Marianne Williamson, Oprah Winfrey, Ralph Waldo Emerson, and the metaphysics of both Disney cartoons and George Lucas’s Jedi.
 
-Douthat observes that Gilbert, as recounted in her confessional, Eat, Pray, Love, does not change her theology at all even after she had all of these “earth-shaking, all-enveloping encounters” with God (214, Bad Religion).
+Douthat observes that Gilbert, as recounted in her confessional, _Eat, Pray, Love_, does not change her theology at all even after she had all of these “earth-shaking, all-enveloping encounters” with God (214, Bad Religion).
 
 As for Oprah? Well, the subtext of New Thought that runs through the prosperity gospel also suffused her show. To Douthat, “You get a car” if not a reward exactly, seems to always follow the proclamation of “following your spirit.”
 
@@ -105,9 +105,9 @@ Here Douthat examines some academic scholars’ “brave certainty” in the sea
 
 And Douthat thinks it’s all Dan Brown’s fault. So let’s talk.
 
-I agree with Douthat that you shouldn’t read the Da Vinci Code to get the true history of Christianity. The Gnostics did not portray Jesus as purely human, the decision of which books to include in the New Testament is very justifiable, and the Priory of Sion probably isn’t real. ([The Da Vinci Code](https://en.wikipedia.org/wiki/The_Da_Vinci_Code), Wikipedia)
+I agree with Douthat that you shouldn’t read the _Da Vinci Code_ to get the true history of Christianity. The Gnostics did not portray Jesus as purely human, the decision of which books to include in the New Testament is very justifiable, and the Priory of Sion probably isn’t real. ([The Da Vinci Code](https://en.wikipedia.org/wiki/The_Da_Vinci_Code), Wikipedia)
 
-But Douthat also distrusts Brown’s “theological project.”. Granted, I might feel differently if I were Catholic, but I enjoy Brown’s books and basically agree with Brown’s universalism.  
+But Douthat also distrusts Brown’s “theological project.”. Granted, I might feel differently if I were Catholic, but I enjoy Brown’s books and basically agree with Brown’s universalism.  
 
 But before we answer the question of “Why Christianity Declined?,” let’s take a small detour and reflect on this “brave certainty” that so irritated Douthat.
 
@@ -117,43 +117,43 @@ In one study, Philip Tetlock shows that many people commonly discover that half 
 
 Christian Statements
 
-1.  “The stories (New Testament)….tell us nothing whatsoever about the origins of Christian faith but quite a lot about the origins of Christian authority” John Crossan (171, Bad Religion)
-2.  The “exodus story” is a myth because we do not have archaeological evidence.
+> 1.  “The stories (New Testament)….tell us nothing whatsoever about the origins of Christian faith but quite a lot about the origins of Christian authority” John Crossan (171, Bad Religion)
+> 2.  The “exodus story” is a myth because we do not have archaeological evidence.
 
 Science
 
-1.  No aliens exist.
-2.  One study shows flossing doesn’t reduce cavities or gum disease, so flossing has no benefit.
-3.  Hunter-gatherer societies never had woman hunters.
-4.  The Out of Africa hypothesis is true because all ancient hominid were fossils found in Africa.
-5.  “While mammals and birds possess the prerequisite neural architecture for phenomenal consciousness, it is concluded that fish lack these essential characteristics and hence do not feel pain.” a 2014 [scientific article](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4356734/) published in Springer: Biology and Philosophy
+> 1.  No aliens exist.
+> 2.  One study shows flossing doesn’t reduce cavities or gum disease, so flossing has no benefit.
+> 3.  Hunter-gatherer societies never had woman hunters.
+> 4.  The Out of Africa hypothesis is true because all ancient hominid were fossils found in Africa.
+> 5.  “While mammals and birds possess the prerequisite neural architecture for phenomenal consciousness, it is concluded that fish lack these essential characteristics and hence do not feel pain.” a 2014 [scientific article](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4356734/) published in Springer: Biology and Philosophy
 
 Polling (aka Silver was right and I will not be taking questions about the 2016 election at this time)
 
-1.  “I get why Silver wants to hedge. It’s not easy to sit here and tell you that Clinton has a 98% change of winning. Everything inside us screams out that life is too full of uncertainty, that being so sure is fantasy. But that’s what the numbers say." (Ryan Grim, [Nate Silver is Unskewing Polls –All of Them—In Trump’s Direction](https://www.huffpost.com/entry/nate-silver-election-forecast_n_581e1c33e4b0d9ce6fbc6f7f))
-2.  While 538 is great and mostly well-calibrated, they need to update their NBA playoff predictions. Their RAPTOR model’s skepticism of the Lakers wasn’t credible (the model actually favored the Rockets and Heat in last year’s playoffs)
+> 1.  “I get why Silver wants to hedge. It’s not easy to sit here and tell you that Clinton has a 98% change of winning. Everything inside us screams out that life is too full of uncertainty, that being so sure is fantasy. But that’s what the numbers say." (Ryan Grim, [Nate Silver is Unskewing Polls –All of Them—In Trump’s Direction](https://www.huffpost.com/entry/nate-silver-election-forecast_n_581e1c33e4b0d9ce6fbc6f7f))
+> 2.  While 538 is great and mostly well-calibrated, they need to update their NBA playoff predictions. Their RAPTOR model’s skepticism of the Lakers wasn’t credible (the model actually favored the Rockets and Heat in last year’s playoffs)
 
 Covid-19 Edition
 
-1.  I haven’t had Covid-19 symptoms, so I haven’t had Covid-19.
-2.  “Is this going to be a deadly pandemic? No.” ([deleted Vox tweet](https://www.thewrap.com/vox-deletes-january-tweet-coronavirus-not-deadly/)).
-3.  “[The Conspiracy theories about the origins of the coronavirus, debunked](https://www.vox.com/2020/3/4/21156607/how-did-the-coronavirus-get-started-china-wuhan-lab)”
-
-1.  “But already, virologists who’ve parsed the genome and infectious disease experts who study coronaviruses say they have enough evidence the virus is brand new and came from nature” ([fifth paragraph](https://www.vox.com/2020/3/4/21156607/how-did-the-coronavirus-get-started-china-wuhan-lab), vox, again)
-
-4.  “[baseless theory that Covid-19 was manufactured in a Chinese Lab](https://twitter.com/kmele/status/1364607470690181122?s=20)” from NYT
+> 1.  I haven’t had Covid-19 symptoms, so I haven’t had Covid-19.
+> 2.  “Is this going to be a deadly pandemic? No.” ([deleted Vox tweet](https://www.thewrap.com/vox-deletes-january-tweet-coronavirus-not-deadly/)).
+> 3.  “[The Conspiracy theories about the origins of the coronavirus, debunked](https://www.vox.com/2020/3/4/21156607/how-did-the-coronavirus-get-started-china-wuhan-lab)”
+>
+> 1.  “But already, virologists who’ve parsed the genome and infectious disease experts who study coronaviruses say they have enough evidence the virus is brand new and came from nature” ([fifth paragraph](https://www.vox.com/2020/3/4/21156607/how-did-the-coronavirus-get-started-china-wuhan-lab), vox, again)
+>
+> 4.  “[baseless theory that Covid-19 was manufactured in a Chinese Lab](https://twitter.com/kmele/status/1364607470690181122?s=20)” from NYT
 
 Note Vox’s article, “[Covid-19 vaccine trials are showing promising results. A lot can still go wrong](https://www.vox.com/21311768/covid-19-coronavirus-vaccine-available-moderna-fauci)” is epistemically correct.
 
 I’m susceptible too
 
-1.  My “family myth” about my ancestor who changed his name from Andersson while in transit from Germany is false. (I “knew” this was so because there was no evidence, other family stories are also false, and the commonality of “Andersson” was suspicious). Turns out, I’m related to an Anders Larsson from Sweden. Given Swedish patronymics, this means my ancestor originally called himself Andersson.
+> 1.  My “family myth” about my ancestor who changed his name from Andersson while in transit from Germany is false. (I “knew” this was so because there was no evidence, other family stories are also false, and the commonality of “Andersson” was suspicious). Turns out, I’m related to an Anders Larsson from Sweden. Given Swedish patronymics, this means my ancestor originally called himself Andersson.
 
-But don’t overcorrect. Don’t be a [scared](https://twitter.com/conor64/status/1366276761084829696?s=20), [half-committed](https://apnews.com/article/586b1e81cb684654b0cf689b9074c1cb), [appeasement-seeking](https://www.thenation.com/article/politics/trump-coup-riot-congress/) [poll herder](https://fivethirtyeight.com/features/heres-proof-some-pollsters-are-putting-a-thumb-on-the-scale/). (said in [this tone](https://www.youtube.com/watch?v=5PT20MU6WXs))
+But don’t overcorrect. Don’t be a [scared](https://twitter.com/conor64/status/1366276761084829696?s=20), [half-committed](https://apnews.com/article/586b1e81cb684654b0cf689b9074c1cb), [appeasement-seeking](https://www.thenation.com/article/politics/trump-coup-riot-congress/) [poll herder](https://fivethirtyeight.com/features/heres-proof-some-pollsters-are-putting-a-thumb-on-the-scale/). (said in [this tone](https://www.youtube.com/watch?v=5PT20MU6WXs))
 
-The problem with poll-herding or being a scaredy-cat is that poll herding can “make the average poll more accurate even as it makes the polling average worse. (For economics nerds — this is sort of a [tragedy of the commons](http://en.wikipedia.org/wiki/Tragedy_of_the_commons) problem.)” (From [538](https://fivethirtyeight.com/features/heres-proof-some-pollsters-are-putting-a-thumb-on-the-scale/))
+The problem with poll-herding or being a scaredy-cat is that poll herding can “make the _average poll_ more accurate even as it makes the _polling average_ worse. (For economics nerds — this is sort of a [tragedy of the commons](http://en.wikipedia.org/wiki/Tragedy_of_the_commons) problem.)” (From [538](https://fivethirtyeight.com/features/heres-proof-some-pollsters-are-putting-a-thumb-on-the-scale/))
 
-Instead, be like [Ann](https://fivethirtyeight.com/features/selzer/) [Selzer.](https://fivethirtyeight.com/features/politics-podcast-how-to-make-polls-better/) Do the work, then let the chips fall where they may.
+Instead, be like [Ann](https://fivethirtyeight.com/features/selzer/) [Selzer.](https://fivethirtyeight.com/features/politics-podcast-how-to-make-polls-better/) Do the work, then let the chips fall where they may.
 
 ## Why is Christianity in decline?
 
@@ -161,7 +161,7 @@ To setup Douthat’s desired framing of a “fall,” he first presents condense
 
 Notably, this Christian revival really happened—church attendance per week was approximately 60% of adults in the 1960’s while it’s less than 30% today. Though if you broaden your perspective, picking 1960 as a starting point is somewhat arbitrary. Lyman Stone’s report: “[Promise and peril: The history of American Religiosity and its recent decline](https://www.aei.org/research-products/report/promise-and-peril-the-history-of-american-religiosity-and-its-recent-decline/)” concludes:
 
-“According to membership data, religiosity in America peaked sometime between 1940 and 1970. Religious membership rose dramatically during and after World War II in particular. But for the past 50 years, religious membership has been in decline.”  (13, Promise and Peril, italics mine)
+> “According to membership data, religiosity in America peaked sometime between 1940 and 1970. Religious membership _rose dramatically_ during and after World War II in particular. But for the past 50 years, religious membership has been _in decline_.”  (13, Promise and Peril, italics mine)
 
 Nevertheless, the decline is real. America is a big country, and religion is complex and personal, so there just isn’t one reason for the decline. Douthat suggests five causes: political polarization, the sexual revolution, an increasing global perspective, an increase of wealth, and the elite class’s dismissal of Christianity. Christian Smith, a religion professor at Notre Dame, suggests that the decline is caused primarily by the “the association of the Republican Party with the Christian right, the end of the Cold War, and 9/11” (Derek Thompson, “[Three Decades Ago, America Lost Its Religion, Why?](https://www.theatlantic.com/ideas/archive/2019/09/atheism-fastest-growing-religion-us/598843/)). Others have suggested the Catholic Church child sexual abuse scandal, the general fracturing of society described in Robert Putnam’s [Bowling Alone](https://en.wikipedia.org/wiki/Bowling_Alone), family instability, or even “adultescence.” (Thompson) Stone would add a possible snowball effect with respect to decreasing “club goods” and the decline in marriage rates (42,45, Promise and Peril).
 
@@ -176,38 +176,38 @@ We’ve talked a lot about political polarization with respect to political part
 
 So how does this phenomenon work in practice? Let me give you an example.
 
-After earning my Eagle Scout in 2009, the Boy Scout Council gave me a signed copy of a book by Gov. Rick Perry called: On My Honor: Why the American Values of the Boy Scouts Are Worth Fighting For, with blurbs by Sean Hannity and Newt Gingrich. The book attempted (rather unpersuasively) to defend the Boy Scouts’ ban on homosexual or atheist scouts/scoutmasters. “Traditional” American and Christian values were used to defend this ban against the “radical leftists” and the “secular humanists.” Oh, the horror. Later, Perry dismissively writes: “For that matter, they could, if they wished to form a national atheist youth group” (183, Perry, On My Honor). Given this “my way or the highway mentality” of many defenders of “traditional” Christianity (the 2019 United Methodist Special Called General Council is one example of many), and the increasing stakes of conflating Christianity with the Republican Party, it is perhaps not surprising that many liberals chose the door.
+After earning my Eagle Scout in 2009, the Boy Scout Council gave me a signed copy of a book by Gov. Rick Perry called: _On My Honor: Why the American Values of the Boy Scouts Are Worth Fighting For_, with blurbs by Sean Hannity and Newt Gingrich. The book attempted (rather unpersuasively) to defend the Boy Scouts’ ban on homosexual or atheist scouts/scoutmasters. “Traditional” American and Christian values were used to defend this ban against the “radical leftists” and the “secular humanists.” Oh, the horror. Later, Perry dismissively writes: “For that matter, they could, if they wished to form a national atheist youth group” (183, Perry, On My Honor). Given this “my way or the highway mentality” of many defenders of “traditional” Christianity (the 2019 United Methodist Special Called General Council is one example of many), and the increasing stakes of conflating Christianity with the Republican Party, it is perhaps not surprising that many liberals chose the door.
 
 To evaluate the other causes, though, it’s important to have the correct mental model about how large and widespread this decline actually is. This graph from Pew Research Center shows that the decline in religiosity is largely a generational effect.
 
- ![Large generation gap in American religion](https://acximages.ennals.org/images/2021-book-reviews/ec1da702d413354e.png)
+ ![Large generation gap in American religion](https://acximages.ennals.org/images/2021-book-reviews/ec1da702d413354e.png)
 
-And before you think this phenomenon is just because young people are more likely to be less-religious; it’s pretty clear that the generational difference in religiosity is not just an age effect. In fact, every generation has declined in religiosity over the last 20 years. (table from Gallup’s [U.S. Church Membership Down Sharply in Past Two Decades](https://news.gallup.com/poll/248837/church-membership-down-sharply-past-two-decades.aspx)) So people are not even attending church more as they age.
+And before you think this phenomenon is just because young people are more likely to be less-religious; it’s pretty clear that the generational difference in religiosity is not just an age effect. In fact, _every_ generation has declined in religiosity over the last 20 years. (table from Gallup’s [U.S. Church Membership Down Sharply in Past Two Decades](https://news.gallup.com/poll/248837/church-membership-down-sharply-past-two-decades.aspx)) So people are not even attending church more as they age.
 
 ![Graphical user interface, text
 Description automatically generated](https://acximages.ennals.org/images/2021-book-reviews/0e155c05635fa57c.png)
 
 Not only are people not getting more religious, but younger generations are less religious than older generations. From the table, we can see that at the same age, 62% of Gen X belonged to a church while only 42% of Millennials do. The key insight is that the religious preferences of the next generation start young:
 
-“Rather, they (Raphaël Franck and Iannaccone) found that religiosity is determined early in life: Kids raised without religion tend to become nonreligious adults, and vice versa. …. The vast majority of change in religiosity over time in most countries is not because adults converted away from a given religion, but simply because the next generation was less religious …In other words, the story of secularization in America is not mostly a story of lots of people who were raised religious leaving their religious faith as adults. It is a story of fewer people having a religious upbringing at all. (42, Promise and Peril)
+> “Rather, they (Raphaël Franck and Iannaccone) found that religiosity is determined early in life: Kids raised without religion tend to become nonreligious adults, and vice versa. …. The vast majority of change in religiosity over time in most countries is not because adults converted away from a given religion, but simply because the next generation was less religious …In other words, the story of secularization in America is _not_ mostly a story of lots of people who were raised religious leaving their religious faith as adults. It is a story of fewer people having a religious upbringing at all. (42, Promise and Peril)
 
 Being religious is a habit, so if we want to look at the most important drivers of why America is becoming less religious, then the answer will be found in why kids aren’t growing up religious.
 
-So this leads us to the second biggest reason for Christianity’s collapse: secular education. This point is related to Douthat’s use of the word “class. Specifically, the fact that almost every elite institution would only talk about Christianity in order to reject it—and then, to simply dismiss it. If all you learn about Christianity from school is the Crusades, the Spanish Inquisition, the Catholic Church’s opposition to Copernican Theory, The Scarlet Letter, the Scopes Monkey Trial, and Voltaire’s Candide—Christianity doesn’t look very appealing. If your family only attends church a few times a year, many of these kids will grow to become “nones.”
+So this leads us to the second biggest reason for Christianity’s collapse: secular education. This point is related to Douthat’s use of the word “class. Specifically, the fact that almost every elite institution would only talk about Christianity in order to reject it—and then, to simply dismiss it. If all you learn about Christianity from school is the Crusades, the Spanish Inquisition, the Catholic Church’s opposition to Copernican Theory, _The Scarlet Letter_, the Scopes Monkey Trial, and Voltaire’s _Candide_—Christianity doesn’t look very appealing. If your family only attends church a few times a year, many of these kids will grow to become “nones.”
 
-Douthat also blames the birth control pill and contraceptives more broadly. As more people reject Christian sexual ethics, it becomes easier to simply leave the flock. According to Douthat, “separating sex from procreation more completely than any previous technology, the birth control pill also severed the cultural connection between Christian ethics and American common sense. For the first time in human history, it was possible for the poor and middle class as well as the rich to imagine being safely promiscuous.” (71, Bad Religion). Today, though, it seems that Christianity’s response to LGBTQ people will be more influential.
+Douthat also blames the birth control pill and contraceptives more broadly. As more people reject Christian sexual ethics, it becomes easier to simply leave the flock. According to Douthat, “separating sex from procreation more completely than any previous technology, the birth control pill also severed the cultural connection between Christian ethics and American common sense. For the first time in human history, it was possible for the poor and middle class as well as the rich to imagine being _safely_ promiscuous.” (71, Bad Religion). Today, though, it seems that Christianity’s response to LGBTQ people will be more influential.
 
 Douthat also blames an increasing global perspective and conflation of Christianity with colonialism and racism. In essence, he thinks a cosmopolitanism and white guilt, along with the rise of relativism, presented a challenge to Christianity. I’m skeptical. If you live in a society with multiple religions and denominations, then any one religion has the problem of not having an “exclusive truth claim.”
 
 Next, Douthat blames increasing wealth. The increasing wealth of American society meant that the opportunity cost of becoming a minister increased: the average salary of a protestant minister with a graduate degree only increased 10% between 1970-1990, while salaries of, say, a doctor or lawyer rose 37%. (79, Bad Religion) (Note, this fact is clearly not true of some megachurch pastors, but Douthat and I think this phenomenon is not a satisfactory solution). This increase in wealth was bad for two reasons: many people who might’ve become ministers, fathers, nuns, or preachers instead became something else. But also, increasing wealth and increase in movement made it harder to create a community. This may contribute to the difficulty of recruiting talented ministers, which thus may make it more difficult to have a strong Church community.
 
-The Catholic sexual abuse crisis is a huge cause. An astounding [10% of Americans](https://en.wikipedia.org/wiki/Catholic_Church_in_the_United_States#:~:text=As%20of%20April%209%2C%202018,practicing%2C%20almost%2030%20million%20people.) are former or non-practicing Catholics. And while it’s hard to know the counter-factual, it’s clear that the Scandal caused a crisis of faith. (And not just for Catholics. There is sexual abuse crisis in Protest denominations as well, and the Catholic abuse scandal affects Christianity in the aggregate because the Roman Catholic Church is the largest Christian organization).
+The Catholic sexual abuse crisis is a huge cause. An astounding [10% of Americans](https://en.wikipedia.org/wiki/Catholic_Church_in_the_United_States#:~:text=As%20of%20April%209%2C%202018,practicing%2C%20almost%2030%20million%20people.) are former or non-practicing Catholics. And while it’s hard to know the counter-factual, it’s clear that the Scandal caused a crisis of faith. (And not just for Catholics. There is sexual abuse crisis in Protest denominations as well, and the Catholic abuse scandal affects Christianity in the aggregate because the Roman Catholic Church is the largest Christian organization).
 
 The catch-all of “family formation” also probably has an effect, but it’s pretty hard to know just how much this has or hasn’t had on religiousity. Stone adds that once the decline starts, there is a possible snowball effect. Organized religion provides fewer “club goods,” while it becomes easier and easier for people to meet and live with other non-religious people.
 
 ## Who are the “Nones?”
 
-Well they’re not all atheists—only 4% of American adults self-identify as Atheists. Agnostics make up another 5%, while 17% describe their religion as “nothing in particular” ([Pew Research Center](https://www.pewforum.org/2019/10/17/in-u-s-decline-of-christianity-continues-at-rapid-pace/)). So together, the religiously unaffiliated is 1/4th of America.
+Well they’re not all atheists—only 4% of American adults self-identify as Atheists. Agnostics make up another 5%, while 17% describe their religion as “nothing in particular” ([Pew Research Center](https://www.pewforum.org/2019/10/17/in-u-s-decline-of-christianity-continues-at-rapid-pace/)). So together, the religiously unaffiliated is 1/4th of America.
 
 Somewhat surprisingly, only 10% of Americans say they don’t believe in God ([Pew Research Center](https://www.pewresearch.org/fact-tank/2018/04/25/key-findings-about-americans-belief-in-god/))
 
@@ -221,37 +221,37 @@ Beyond the basic tenets of the Christian faith, Douthat beautifully proposes tha
 
 As for the Christian teaching on sex and the family? Well, [family structure matters](https://www.vox.com/policy-and-politics/2018/10/5/17941456/family-structure-policy). And the reappraisal of sexual ethics in the #MeToo era should be an opportunity for Christianity to regain some cultural cachet.
 
-And while I understand the financial benefit and social convenience to premarital cohabitation, cohabitation is still [correlated](https://ifstudies.org/blog/premarital-cohabitation-is-still-associated-with-greater-odds-of-divorce) with divorce. Even an article that largely defended the practice of cohabitation [admits](https://www.theatlantic.com/health/archive/2014/03/the-science-of-cohabitation-a-step-toward-marriage-not-a-rebellion/284512/) that cohabitation can often prevent people who should break-up from actually breaking up. And cohabitation is also not good for children. According to Bradford Wilcox, a Professor of Sociology at the University of Virginia:
+And while I understand the financial benefit and social convenience to premarital cohabitation, cohabitation is still [correlated](https://ifstudies.org/blog/premarital-cohabitation-is-still-associated-with-greater-odds-of-divorce) with divorce. Even an article that largely defended the practice of cohabitation [admits](https://www.theatlantic.com/health/archive/2014/03/the-science-of-cohabitation-a-step-toward-marriage-not-a-rebellion/284512/) that cohabitation can often prevent people who should break-up from actually breaking up. And cohabitation is also not good for children. According to Bradford Wilcox, a Professor of Sociology at the University of Virginia:
 
-“Cohabitation fosters enough intimacy to facilitate childbearing but not enough commitment to make people deliberate about their choices to become parents. The result, an unplanned birth, can pose real problems to their relationship and to their future odds of successfully marrying” (Lauren Fox, [The Science of Cohabitation: A Step Toward Marriage, Not a Rebellion](https://www.theatlantic.com/health/archive/2014/03/the-science-of-cohabitation-a-step-toward-marriage-not-a-rebellion/284512/)).
+> “Cohabitation fosters enough intimacy to facilitate childbearing but not enough commitment to make people deliberate about their choices to become parents. The result, an unplanned birth, can pose real problems to their relationship and to their future odds of successfully marrying” (Lauren Fox, [The Science of Cohabitation: A Step Toward Marriage, Not a Rebellion](https://www.theatlantic.com/health/archive/2014/03/the-science-of-cohabitation-a-step-toward-marriage-not-a-rebellion/284512/)).
 
 ## But let’s talk about “Accommodation.”
 
-Bad Religion’s third chapter, “Accommodation” is not great. In essence, it’s a repetition of Dean Kelley’s 1973 “Why Conservative Churches Are Growing” which is used almost exclusively by the traditional Christianity faction as a club against the theological liberals. To the traditional Christians, “accommodation” is tantamount to an indictment.  Basically, Douthat believes that the Church has two choices: resistance or accommodation. He of course associates “accommodation” with Teilhard Chardin, Harvey Cox, and Bishop James Pike; and he partially blames “accommodation” as responsible for Christianity’s decline.
+_Bad Religion’s_ third chapter, “Accommodation” is not great. In essence, it’s a repetition of Dean Kelley’s 1973 “Why Conservative Churches Are Growing” which is used almost exclusively by the traditional Christianity faction as a club against the theological liberals. To the traditional Christians, “accommodation” is tantamount to an indictment.  Basically, Douthat believes that the Church has two choices: resistance or accommodation. He of course associates “accommodation” with Teilhard Chardin, Harvey Cox, and Bishop James Pike; and he partially blames “accommodation” as responsible for Christianity’s decline.
 
-His fourth chapter, “Resistance,” is an apology for “traditional Christianity” and the rapprochement between Evangelicals and Catholics. And it’s mostly fine, I don’t dislike John Paul II (though in hindsight, John Paull II’s response to the Sexual Abuse Crisis seems woefully deficient). And I have respect for the evangelicals Jimmy Carter and George W. Bush. Though Douthat does annoyingly imply that the Lutheran John Neuhaus (who founded the influential religious journal First Things) among other prominent protestants made the correct decision to convert to the Roman Catholic Church. After reading Douthat’s To Change the Church, I kinda want Douthat to justify why he hasn’t converted to conservative Lutheranism. I thought that Catholics believed in Papal Infallibility.
+His fourth chapter, “Resistance,” is an apology for “traditional Christianity” and the rapprochement between Evangelicals and Catholics. And it’s mostly fine, I don’t dislike John Paul II (though in hindsight, John Paull II’s response to the Sexual Abuse Crisis seems woefully deficient). And I have respect for the evangelicals Jimmy Carter and George W. Bush. Though Douthat does annoyingly imply that the Lutheran John Neuhaus (who founded the influential religious journal First Things) among other prominent protestants made the correct decision to convert to the Roman Catholic Church. After reading Douthat’s _To Change the Church,_ I kinda want Douthat to justify why he hasn’t converted to conservative Lutheranism. I thought that Catholics believed in Papal Infallibility.
 
-But seriously, Douthat seems to misunderstand the unease faced by many theological liberals. When I read Andrew Sullivan’s earnest plea in [Here Comes The Groom](https://newrepublic.com/article/79054/here-comes-the-groom), my initial response was that I knew in a Platonic sense that Sullivan’s cause is just. I still don’t think the “traditional Christianity” response to Sullivan’s argument is very good, but Douthat is right about one thing: I don’t know if the quality of their argument would’ve mattered to me anyways. I knew that Sullivan was right, and I didn’t need to read the Bible to know that. This tension, of course, is also found in the Euthyphro Dilemma.
+But seriously, Douthat seems to misunderstand the unease faced by many theological liberals. When I read Andrew Sullivan’s earnest plea in _[Here Comes The Groom](https://newrepublic.com/article/79054/here-comes-the-groom)_, my initial response was that I _knew_ in a Platonic sense that Sullivan’s cause is just. I still don’t think the “traditional Christianity” response to Sullivan’s argument is very good, but Douthat is right about one thing: I don’t know if the quality of their argument would’ve mattered to me anyways. I knew that Sullivan was right, and I didn’t need to read the Bible to know that. This tension, of course, is also found in the Euthyphro Dilemma.
 
 But my frustration with the “traditional Christianity” faction goes deeper. One proponent of “traditional” Christianity wrote a twitter thread about the Methodist schism that was especially illustrative and infuriating. Among other things, he accuses white theological liberal American Methodists of being racist:
 
 ![Graphical user interface, text, application, email
 Description automatically generated](https://acximages.ennals.org/images/2021-book-reviews/d8d4aef886db6baf.png)![Graphical user interface, text, application
-Description automatically generated](https://acximages.ennals.org/images/2021-book-reviews/e154f34a4e4a531f.png) ![Graphical user interface, text, application
+Description automatically generated](https://acximages.ennals.org/images/2021-book-reviews/e154f34a4e4a531f.png) ![Graphical user interface, text, application
 Description automatically generated](https://acximages.ennals.org/images/2021-book-reviews/25e2c305c6166196.png)
 
 The debate, as everyone knows, was about whether the United Methodist Church would sanction gay marriage. The fact that this flashpoint also fractured the church politically made the schism possible. So while I’m sad that there’s a schism, it might be for the best.
 
-I don’t expect everyone to want to be Methodist. But Methodism has open communion, and it is important to me that anyone could be Methodist. And at least the UMC will allow conservative Churches to keep their property—for the most part, it’s an amicable split.
+I don’t expect everyone to want to be Methodist. But Methodism has open communion, and it is important to me that anyone _could_ be Methodist. And at least the UMC will allow conservative Churches to keep their property—for the most part, it’s an amicable split.
 
 ## Can Christianity Recover?
 
 Douthat suggests four possibilities for Christianity’s recovery.
 
-1.  The Postmodern Opportunity. Here, Douthat suggests that it might be possible for people to re-gain the spirt of Christianity in the first-century. The scholarly “radical Orthodoxy” or evangelical “emergent” movement would re-build Christianity from the ground-up with house churches and small groups; with prayer and storytelling.
-2.  The Benedict Option. Popularized by [Rod Dreher](https://www.amazon.com/Benedict-Option-Strategy-Christians-Post-Christian/dp/0735213291) and practiced by the Church of Latter Day Saints, here Christian communities would self-segregate in a “mustard-seed” strategy.
-3.  New Christendom. From Philip Jenkins’s [book](https://www.amazon.com/Next-Christendom-Coming-Global-Christianity/dp/0199767467). In this scenario, the emerging centers of Christendom of Sub-Sahara Africa, Pacific Asia, and Latin-America re-evangelize North America and Europe.
-4.  Age of Diminished Expectations. Last, Douthat suggests that cultural crises might cause a reassessment of modern life and drive people back to the faith of their forefathers.
+> 1.  **The Postmodern Opportunity.** Here, Douthat suggests that it might be possible for people to re-gain the spirt of Christianity in the first-century. The scholarly “radical Orthodoxy” or evangelical “emergent” movement would re-build Christianity from the ground-up with house churches and small groups; with prayer and storytelling.
+> 2.  **The Benedict Option.** Popularized by [Rod Dreher](https://www.amazon.com/Benedict-Option-Strategy-Christians-Post-Christian/dp/0735213291) and practiced by the Church of Latter Day Saints, here Christian communities would self-segregate in a “mustard-seed” strategy.
+> 3.  **New Christendom**. From Philip Jenkins’s [book](https://www.amazon.com/Next-Christendom-Coming-Global-Christianity/dp/0199767467). In this scenario, the emerging centers of Christendom of Sub-Sahara Africa, Pacific Asia, and Latin-America re-evangelize North America and Europe.
+> 4.  **Age of Diminished Expectations**. Last, Douthat suggests that cultural crises might cause a reassessment of modern life and drive people back to the faith of their forefathers.
 
 Personally, I am partial to the postmodern opportunity (though I would be hesitant about making the analogy too strong to the early Christian church). I respect the confidence of the Benedict option, but in practice I am sad that the Mormons left the Boy Scouts. As for New Christendom? American Christianity is one of the best avenues we have to assimilate the many immigrants needed to achieve [One Billion Americans](https://www.amazon.com/One-Billion-Americans-Thinking-Bigger/dp/0593190211/ref=sr_1_1?dchild=1&keywords=one+billion+americans&qid=1614586691&s=books&sr=1-1).
 
@@ -261,10 +261,10 @@ As for Douthat’s fourth suggestion, well, [I’m a dreamer too](https://www.yo
 
 Douthat provides four suggestions.
 
-1.  political without being partisan. It may be the case that we have to have liberal and conservative church denominations, with the exception of the Catholic Church. But just because you attend a liberal or conservative church, it doesn’t have to be a partisan church.
-2.  ecumenical but also confessional Douthat suggests that each denomination should conserve its inheritance. Catholics should still be robust Catholics. Methodists should continue to be inspired by John Wesley. Every denomination should remember its own traditions and inheritance.
-3.  moralistic but also holistic Douthat suggests that Christianity must not abandon criticism of the seven deadly sins, or to forget the importance of chastity and fidelity. That Christianity must always remember St. Basil’s exhortation that “The bread that you possess belongs to the hungry.”
-4.  oriented toward sanctity and beauty Douthat suggests Christianity requires “public examples of holiness, and public demonstrations of what the imitation of Christ can mean for a fallen world” (292, Bad Religion). If this revival is accompanied by great Christian songs, art, literary works, or architecture so much the better.
+> 1.  **political without being partisan.** It may be the case that we have to have liberal and conservative church denominations, with the exception of the Catholic Church. But just because you attend a liberal or conservative church, it doesn’t have to be a partisan church.
+> 2.  **ecumenical but also confessional** Douthat suggests that each denomination should conserve its inheritance. Catholics should still be robust Catholics. Methodists should continue to be inspired by John Wesley. Every denomination should remember its own traditions and inheritance.
+> 3.  **moralistic but also holistic** Douthat suggests that Christianity must not abandon criticism of the seven deadly sins, or to forget the importance of chastity and fidelity. That Christianity must always remember St. Basil’s exhortation that “The bread that you possess belongs to the hungry.”
+> 4.  **oriented toward sanctity and beauty** Douthat suggests Christianity requires “public examples of holiness, and public demonstrations of what the imitation of Christ can mean for a fallen world” (292, Bad Religion). If this revival is accompanied by great Christian songs, art, literary works, or architecture so much the better.
 
 What does this look like practice?
 
@@ -278,7 +278,7 @@ Christians should not support the Boy Scouts ban on atheism, and instead should 
 
 Since secular education is important, I would stop trying to ban Harry Potter (or any book) and instead try and install Quaker abolitionist writings and Catholic opposition to eugenics into the school curriculum. If “pro-life” in the context of abortion also means “pro-life” in the context of eugenics, the Catholic teaching makes more sense. The contribution of Christian churches by building hospitals, schools, orphanages, and universities shouldn’t be forgotten.
 
-Long term, there should be an unofficial “Third Testament” that, at minimum, includes Rev. Martin Luther King Jr.’s “Letter From a Birmingham Jail.” MLK’s Letter has obvious analogues to a Pauline epistle, and this heritage can and should be made explicit. This new canon could also include St. Augustine’s Confessions, Dante’s Divine Comedy, G.K. Chesterton’s Father Brown, or any number of writings from C.S. Lewis.
+Long term, there should be an unofficial “Third Testament” that, at minimum, includes Rev. Martin Luther King Jr.’s “Letter From a Birmingham Jail.” MLK’s Letter has obvious analogues to a Pauline epistle, and this heritage can and should be made explicit. This new canon could also include St. Augustine’s _Confessions_, Dante’s _Divine Comedy_, G.K. Chesterton’s _Father Brown_, or any number of writings from C.S. Lewis.
 
 ## And What About the Nones?
 
@@ -288,13 +288,13 @@ As for those liberals who felt pushed away from the church? Please, don’t just
 
 From Derek Thompson’s “Three Decades Ago, America Lost Its Religion. Why?”:
 
-Making friends as an adult without a weekly congregation is hard. Establishing a weekend routine to soothe Sunday-afternoon nerves is hard. Reconciling the overwhelming sense of life’s importance with the universe’s ostensible indifference to human suffering is hard.
+> Making friends as an adult without a weekly congregation is hard. Establishing a weekend routine to soothe Sunday-afternoon nerves is hard. Reconciling the overwhelming sense of life’s importance with the universe’s ostensible indifference to human suffering is hard.
 
 And it is hard. I rarely lace up my running shoes since my Cross Country days, and I haven’t even touched my trumpet since the last day of Marching Band. Going alone is hard, and institutions or communities of people with shared goals make everything easier. But no-one said re-knitting the fabric of American society would be easy.
 
- If you believe in “deed, not creeds,” you can join [Unitarian Universalism](https://www.uua.org/find/results?location%5Bsource_configuration%5D%5Borigin_address%5D=75229&location%5Bvalue%5D=25&items_per_page=10&honor_congregation=All) or even [Effective Altruism](https://www.effectivealtruism.org/get-involved/start-an-ea-local-group/). If you’re just generally agnostic, you can start or attend a [church of Freethought](https://en.wikipedia.org/wiki/North_Texas_Church_of_Freethought).
+ If you believe in “deed, not creeds,” you can join [Unitarian Universalism](https://www.uua.org/find/results?location%5Bsource_configuration%5D%5Borigin_address%5D=75229&location%5Bvalue%5D=25&items_per_page=10&honor_congregation=All) or even [Effective Altruism](https://www.effectivealtruism.org/get-involved/start-an-ea-local-group/). If you’re just generally agnostic, you can start or attend a [church of Freethought](https://en.wikipedia.org/wiki/North_Texas_Church_of_Freethought).
 
-Inspired by Benjamin Franklin, you could start a [Leather Apron Club](https://en.wikipedia.org/wiki/Junto_(club)) for mutual improvement. All you have to do is meet every Friday to debate morals, politics, and natural philosophy. It can even start in a tavern.
+Inspired by Benjamin Franklin, you could start a [Leather Apron Club](https://en.wikipedia.org/wiki/Junto_(club)) for mutual improvement. All you have to do is meet every Friday to debate morals, politics, and natural philosophy. It can even start in a tavern.
 
 Maybe no one will show up, but maybe they will. Maybe they’re just waiting for someone else to take that first step.
 

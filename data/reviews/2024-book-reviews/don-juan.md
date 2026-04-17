@@ -7,7 +7,7 @@ contestName: 2024 Book Reviews
 year: 2024
 publishedDate: '2026-02-06T16:47:15.601Z'
 slug: don-juan
-wordCount: 3160
+wordCount: 3179
 readingTimeMinutes: 15
 originalUrl: >-
   https://docs.google.com/document/d/1AXmWgSbh_TFsoZuApSCSEoz57yn93CM5YYhtaO_s4W4
@@ -28,13 +28,13 @@ So lead us on a flight of inspiration,
 
 To leave the public stirred, moved, roused, arrested;
 
-We’ll soar [on wings of song](https://en.wikipedia.org/wiki/On_Wings_of_Song_(poem)) — just one reproach:
+We’ll soar [on wings of song](https://en.wikipedia.org/wiki/On_Wings_of_Song_(poem)) — just one reproach:
 
-Sweet Musie, don’t you dare put us in coach.
+Sweet Musie, don’t you _dare_ put us in coach.
 
-I. 
+**I.** 
 
-I need a poem — well, I need a poet
+I need a poem — well, I need a _poet_
 
 To give us some heroic tale to sing.
 
@@ -54,41 +54,41 @@ And one to tell the tale, plus two disarming
 
 Poor commoners who— well, you get the point.
 
-Blake? [That’s been done](http://unsongbook.com/). Keats? There’s no doubt he’s charming,
+Blake? [That’s been done](http://unsongbook.com/). Keats? There’s no doubt he’s charming,
 
-But [none too popular](https://www.lesswrong.com/posts/x4dG4GhpZH2hgz59x/joy-in-the-merely-real) around this joint.
+But [none too popular](https://www.lesswrong.com/posts/x4dG4GhpZH2hgz59x/joy-in-the-merely-real) around this joint.
 
-  Ovid’s just porn; [Piet Hein](https://allpoetry.com/Piet-Hein)’s too bent on harming
+  Ovid’s just porn; [Piet Hein](https://allpoetry.com/Piet-Hein)’s too bent on harming
 
-Our eyes
-
- with all
-
- those line breaks
-
- to anoint.
+> Our eyes
+>
+>  with all
+>
+>  those line breaks
+>
+>  to anoint.
 
 Pope? Clickbait, ‘less you’ve realized — I’ll reward ya —
 
 “Pope, Alexander” won’t refer to [Borgia](https://en.wikipedia.org/wiki/Pope_Alexander_VI).
 
-But Byron? After all, it’s been a century
+But _Byron_? After all, it’s been a century
 
 Since George gave up his life to join the Greeks
 
-In [breaking](https://en.wikipedia.org/wiki/Greek_War_of_Independence) from their Turkish penitentiary
+In [breaking](https://en.wikipedia.org/wiki/Greek_War_of_Independence) from their Turkish penitentiary
 
 Before the Brits could lap up [their antiques](https://en.wikipedia.org/wiki/Elgin_Marbles).
 
 However great his corpus, what adventure re-
 
-Sung here can match its author’s final weeks?
+Sung here can match its author’s final weeks?
 
 Yet still, I told myself that I’d review one,
 
-And so I guess we’ll settle for Don Juan.
+And so I guess we’ll settle for _Don Juan_.
 
-Don Juan (rhymes with ‘through one,’ à la gringo)
+Don Juan (rhymes with ‘through one,’ _à la gringo_)
 
 Dates back to — I don’t know — some days of yore.
 
@@ -98,21 +98,21 @@ With women wed and single, rich and poor:
 
 He’d charm, disguise, connive — forgive the lingo —
 
-To please (ahem) his little matador,
+To please (_ahem_) his little matador,
 
 And shush his conscience, nagging at his vice,
 
-By crying, [“Tan largo me lo fiàis!”](https://en.wikipedia.org/wiki/Don_Juan#:~:text=The%20aphorism%20that%20Don%20Juan%20lives%20by%20is%3A%20%22Tan%20largo%20me%20lo%20fi%C3%A1is%22%20(translated%20as%20%22What%20a%20long%20term%20you%20are%20giving%20me!%22%5B1%5D).%20This%20is%20his%20way%20of%20indicating%20that%20he%20is%20young%20and%20that%20death%20is%20still%20distant%E2%80%94he%20thinks%20he%20has%20plenty%20of%20time%20to%20repent%20later%20for%20his%20sins.%5B2%5D)
+By crying, _[“Tan largo me lo fiàis!”](https://en.wikipedia.org/wiki/Don_Juan#:~:text=The%20aphorism%20that%20Don%20Juan%20lives%20by%20is%3A%20%22Tan%20largo%20me%20lo%20fi%C3%A1is%22%20(translated%20as%20%22What%20a%20long%20term%20you%20are%20giving%20me!%22%5B1%5D).%20This%20is%20his%20way%20of%20indicating%20that%20he%20is%20young%20and%20that%20death%20is%20still%20distant%E2%80%94he%20thinks%20he%20has%20plenty%20of%20time%20to%20repent%20later%20for%20his%20sins.%5B2%5D)_
 
 Until one Doña Ana was his victim,
 
-Which set the mai— the now-ex-maiden’s father
+Which set the mai— the now-_ex_-maiden’s father
 
 Ablaze with hope to kill, maim, or afflict him;
 
 He slayed her old papá — but did he bother
 
-Repenting to embrace his Savior’s [dictum](https://www.kingjamesbibleonline.org/Acts-2-38/) 
+Repenting to embrace his Savior’s [dictum](https://www.kingjamesbibleonline.org/Acts-2-38/) 
 
 Beside the old man’s tomb? He rather (rah-ther?
 
@@ -142,21 +142,21 @@ Who sought to school young Spaniards in morality,
 
 Though others showed it — odds are if you’ve seen a
 
-Production, it’s [Molière’s](https://en.wikipedia.org/wiki/Dom_Juan) — some partiality;
+Production, it’s [Molière’s](https://en.wikipedia.org/wiki/Dom_Juan) — some partiality;
 
 Mozart saw (says each self-proclaimed Athena)
 
 His father in the statue’s [grim finality](https://en.wikipedia.org/wiki/Don_Giovanni),
 
-And Strauss made it [a piece](https://en.wikipedia.org/wiki/Don_Juan_(Strauss)) that— fine, I’ll say it:
+And Strauss made it [a piece](https://en.wikipedia.org/wiki/Don_Juan_(Strauss)) that— fine, I’ll say it:
 
 I’d sooner dine in Hell than try to play it.
 
-But Byron makes the story, well, Byronic:
+But Byron makes the story, well, _Byronic_:
 
 Propelled on by the clip-clap of his cadence,
 
-It’s devilish, of course, but less demonic,
+It’s _devilish_, of course, but less _demonic_,
 
 In subject after subject making stray dents,
 
@@ -168,15 +168,15 @@ Like George’s grow to chasms while digressing—
 
 It does, I must admit, keep readers guessing.
 
-And yet, the greatest change with this young Juan
+And yet, the greatest change with _this_ young Juan
 
 (For Byron starts his story from his birth)
 
 Is that he doesn’t pave his road to ruin
 
-By being the greatest [rake](https://en.wikipedia.org/wiki/Rake_(stock_character)) on God’s green earth.
+By being the greatest [rake](https://en.wikipedia.org/wiki/Rake_(stock_character)) on God’s green earth.
 
-(Perhaps his fate was meant to match the true one —
+(Perhaps his fate was _meant_ to match the true one —
 
 The work’s unfinished) Here, he proves his worth
 
@@ -184,7 +184,7 @@ Stumbling into affairs, not even bent to
 
 Seduce — why try, when Lady Luck’s your [Yenta](https://en.wikipedia.org/wiki/Fiddler_on_the_Roof#Principal_characters:~:text=Yente%2C%20the%20gossipy%20village%20matchmaker%20who%20matches%20Tzeitel%20and%20Lazar.)?
 
-II.
+**II.**
 
 Don Juan’s childhood was a true anomaly;
 
@@ -202,7 +202,7 @@ Son learned the classics, but with strict omission
 
 Of sex, to keep him from his pop’s tradition;
 
-Yet soon, one Donna Julia, twenty-three,  
+Yet soon, one Donna Julia, twenty-three,  
 
 Fell for young Juan’s charms (for he had plenty);
 
@@ -228,7 +228,7 @@ Tremblings when met, and restlessness when left,”
 
 But let’s move on — the gradual, slow progression
 
-Of their affair’s too long, however deft
+Of their affair’s too long, however deft
 
 The telling — to a cloudy night that fall,
 
@@ -250,13 +250,13 @@ Of searchers left; her husband followed suit,
 
 And — last — the lawyer, doubting her repute.
 
-Her lord came to apo— well, to excuse
+Her lord came to apo— well, to _excuse_
 
 The raid (‘ere her harangue had made him pause it) —
 
-He didn’t justify his great [J’accuse](https://en.wikipedia.org/wiki/J%27Accuse...!),
+He didn’t justify his great _[J’accuse](https://en.wikipedia.org/wiki/J%27Accuse...!)_,
 
-But did try to explain what made him cause it,
+But _did_ try to explain what made him cause it,
 
 Until he stumbled on a pair of shoes
 
@@ -272,7 +272,7 @@ Don Juan’s mother shipped him to Leghorn;
 
 His ship, though it avoided hostile gunnery,
 
-Soon hit a storm and, mast by mast, was torn.
+Soon hit a storm and, mast by mast, was torn.
 
 He watched his lifeboat-mates drop one by one (or he,
 
@@ -294,7 +294,7 @@ Until a dove (and turtle, which they gored
 
 And ate) announced the rocky [Cyclades](https://en.wikipedia.org/wiki/Cyclades);
 
-They ran, but sharks — yes, sharks — bit each poor diver,
+They ran, but sharks — yes, _sharks_ — bit each poor diver,
 
 ‘Till Juan crawled ashore, the sole survivor.
 
@@ -330,7 +330,7 @@ If found, our hero would be quickly hauled —
 
 Except he sailed away, for booty called.
 
-Not that way, you sick freak: the impious sailor,
+Not _that_ way, you sick freak: the impious sailor,
 
 Lambro, on far-flung loot began to creep;
 
@@ -360,7 +360,7 @@ His soul was now his Maker’s — or the Devil’s —
 
 And once they’d mourned, their mistress, newly boasting
 
-Her father’s wealth, had gaily turned to hosting.
+Her father’s wealth, had gaily turned to hosting.
 
 Old Lambro, seeing the couple, took Haidée,
 
@@ -368,17 +368,17 @@ As Juan fought his crew (for Juan’s part,
 
 He battled well) but couldn’t win the fray
 
-‘Gainst twenty pirates, practiced in their art;
+‘Gainst twenty pirates, practiced in their art;
 
 They bound the wretch; once he’d been shipped away,
 
-Haidée soon perished of a broken heart.
+Haidée soon perished of a broken heart.
 
 (Poor Juan, I’ve no doubt, had planned to marry her —
 
 Assuming they could scale the language barrier.)
 
-III.
+**III.**
 
 Our hero’s luck, he found, had reached its nadir:
 
@@ -392,9 +392,9 @@ They sailed by Troy, an instance (there’s no greater)
 
 Of how far one can fall; and, lest we miss it, you’d
 
-Best catch the [Hellespont](https://en.wikipedia.org/wiki/Dardanelles) — Byron remarks,
+Best catch the [Hellespont](https://en.wikipedia.org/wiki/Dardanelles) — Byron remarks,
 
-He swam the strait once (no, that had no sharks).
+He swam the strait once (no, _that_ had no sharks).
 
 They reached Constantinople, richly gleaming
 
@@ -408,9 +408,9 @@ Our Juan met an Englishman who, seeming
 
 At ease, had from the Russian front been borne:
 
-“And taking lately, by [Suwarrow’s](https://en.wikipedia.org/wiki/Alexander_Suvorov) bidding,
+“And taking lately, by [Suwarrow’s](https://en.wikipedia.org/wiki/Alexander_Suvorov) bidding,
 
-A town, was ta’en myself instead of [Widin](https://en.wikipedia.org/wiki/Vidin).”
+A town, was ta’en myself instead of [Widin](https://en.wikipedia.org/wiki/Vidin).”
 
 The two were purchased by an old black eunuch,
 
@@ -432,7 +432,7 @@ Juan soon met the Queen — not genuflecting,
 
 Despite her wishes — as her concubine:
 
-She asked him, “Christian, canst though love?”, expecting
+She asked him, “Christian, canst though love?”, expecting
 
 That this would move him; yet he kept his spine,
 
@@ -442,7 +442,7 @@ On poor Haidée) can’t make his heart align —
 
 Love’s not a prize, however great your ardor,
 
-You earn by hunk’ring down and wanting harder.
+You earn by hunk’ring down and wanting harder.
 
 Now Queen Gulbeyaz thought of execution,
 
@@ -454,7 +454,7 @@ A great crescendo bid her dry her eyes:
 
 The Sultan came, and Juan’s restitution
 
-Among his concubines (hence his disguise)
+Among _his_ concubines (hence his disguise)
 
 Allowed him to escape her growing spite —
 
@@ -472,7 +472,7 @@ Her scream that night was heard in Kathmandu,
 
 And woke all (save Juanna): if you’re quick,
 
-Its cause, I’m sure, you’re tempted to divine —
+Its _cause_, I’m sure, you’re tempted to divine —
 
 Your guess, dear Reader, is as good as mine.
 
@@ -492,7 +492,7 @@ But, trusting him, we’ll leave this splendid shore
 
 And fly, in Byron’s wake, to sing of war.
 
-IV.
+**IV.**
 
 Along the flowing Danube stood the fortress
 
@@ -504,7 +504,7 @@ To scale), walls, bastions, ramparts, and such works;
 
 The Russian fleet, without some loyal portress,
 
-Was firing with the rage of Norse [berserks](https://en.wikipedia.org/wiki/Berserker),  
+Was firing with the rage of Norse [berserks](https://en.wikipedia.org/wiki/Berserker),  
 
 And yet each bursting, thund’ring cannonball
 
@@ -524,7 +524,7 @@ Paled next to what he’d need to take the fort;
 
 And yet, no sooner had the cannons halted
 
-Than he declared the town should be assaulted.  
+Than he declared the town should be assaulted.  
 
 On came Juan and Johnson, nearly tardy,
 
@@ -550,7 +550,7 @@ As soldiers slaughtered far beyond their duty,
 
 Proved that Humanity deserved the Flood;
 
-Juan avoided this appalling tutti
+Juan avoided this appalling _tutti_
 
 And in these burning branches found a bud:
 
@@ -572,7 +572,7 @@ She took him as her lover (Byron’s hate
 
 For despots enters here with forceful trumpeting —
 
-And several jokes about this despot’s strumpeting).
+And several jokes about _this_ despot’s strumpeting).
 
 Our hero’s health soon foundered, for the chirrups
 
@@ -586,7 +586,7 @@ As Juan galloped through those towns of Europe’s,
 
 Byron points out how much he owed his post.
 
-(“Post” in both senses — do not reprehend,
+(“Post” in _both_ senses — do not reprehend,
 
 For [if you pardon](https://www.folger.edu/explore/shakespeares-works/a-midsummer-nights-dream/read/5/1/#:~:text=If%C2%A0you%C2%A0pardon%2C%C2%A0we%C2%A0will%C2%A0mend.), we will innuend.)
 
@@ -600,7 +600,7 @@ As Byron dwells at length upon his past:
 
 Society can’t help but leave him snoring,
 
-Yet he can’t help but satirize his caste;
+Yet _he_ can’t help but satirize his caste;
 
 And so we get soirées that blend together,
 
@@ -608,7 +608,7 @@ Though George’s wit still sears in milder weather.
 
 In London, Juan found himself in fashion:
 
-[Blue-stockings](https://en.wikipedia.org/wiki/Bluestocking) were pursuing him in droves
+[Blue-stockings](https://en.wikipedia.org/wiki/Bluestocking) were pursuing him in droves
 
 And, practicing their Spanglish with a passion,
 
@@ -632,7 +632,7 @@ The table, ‘till each maiden had been eyed,
 
 And yet she disapproved when Juan’s panning
 
-(Perhaps she wished to end up at his side?)
+(Perhaps _she_ wished to end up at his side?)
 
 Fell on ethereal Aurora Raby,
 
@@ -660,17 +660,17 @@ To take their breakfast in the sumptuous hall;
 
 Fitz-Fulke and Juan looked — so thought the preening
 
-Guests — worn, as if they’d barely ‘scaped a brawl;
+Guests — worn, as if they’d barely ‘scaped a brawl;
 
 Dear Reader, I’m aware you want the meaning
 
-Of this (in fact, I want it most of all),
+Of this (in fact, _I_ want it most of all),
 
 But here we hit the end, abrupt and terse —
 
 For when the poet dies, so goes the verse.
 
-V.
+**V.**
 
 What should we glean from Byron’s sacrifices
 
@@ -686,7 +686,7 @@ Of lovers, friends, and Fortune all beguile
 
 Him into his affairs, with little grunting.
 
-He has no game — he is game, ripe for hunting.
+He has no game — he _is_ game, ripe for hunting.
 
 The work, in mockery, is dedicated
 
@@ -716,19 +716,19 @@ To shape the world could do so; Juan’s days
 
 Are less agentic (though no less exciting).
 
-Why weaken, then, Molina’s sly romancer?
+Why _weaken_, then, Molina’s sly romancer?
 
 Perhaps this might help point us toward an answer:
 
 In 1812 a youth, now back in Britain
 
-From his [Grand Tour](https://en.wikipedia.org/wiki/Grand_Tour) along the Mare Nostrum,
+From his [Grand Tour](https://en.wikipedia.org/wiki/Grand_Tour) along the _Mare Nostrum_,
 
 Entranced the social set with verse he’d written,
 
 And rumors swirled around him; from this rostrum,
 
-His [mad, bad, dangerous ways](https://en.wikipedia.org/wiki/Lord_Byron#England_1811%E2%80%931816:~:text=In%201812%2C%20Byron,115%5D%5B114%5D) left maidens smitten,
+His [mad, bad, dangerous ways](https://en.wikipedia.org/wiki/Lord_Byron#England_1811%E2%80%931816:~:text=In%201812%2C%20Byron,115%5D%5B114%5D) left maidens smitten,
 
 And each wife craved the days when Fate had tossed her him:
 
@@ -742,7 +742,7 @@ That Byron slept with his half-sister made a
 
 Great splash; his marriage, loveless, in frustration
 
-Collapsed (Or Lovelace? It did give us [Ada](https://en.wikipedia.org/wiki/Ada_Lovelace));
+Collapsed (Or Lovelace? It _did_ give us [Ada](https://en.wikipedia.org/wiki/Ada_Lovelace));
 
 The slanders grew, until he fled the nation
 
@@ -758,7 +758,7 @@ So rakes — like Byron — would be more relatable?
 
 Did Byron want a hapless foil, to make
 
-His own mystique seem greater? It’s debatable
+His own mystique seem greater? It’s debatable
 
 That this unfinished work will let us take
 
@@ -766,17 +766,17 @@ A lesson here (besides “It’s untranslatable”),
 
 For on our questions, Byron’s all but quiet —
 
-You want a moral? Fine, then: I’ll supply it.
+You want a moral? Fine, then: _I’ll_ supply it.
 
-Coda.
+**Coda.**
 
-It’s tempting, now to want to be our hero
+It’s tempting, now to _want_ to be our hero
 
 (Or any hero — here, they’re all the same),
 
 And stumble into love and war, with zero
 
-Effort on your part (J.R.R.’s [to blame](https://scholars-stage.org/on-the-tolkienic-hero/)
+Effort on your part (J.R.R.’s [to blame](https://scholars-stage.org/on-the-tolkienic-hero/)
 
 For this phenomenon, says Mr. Greer) O
 
@@ -802,18 +802,18 @@ To safety leave you with a fine objection:
 
 On this, I’ll leave you with Lord Byron’s outlook:
 
-“Well, if I don’t succeed, I have succeeded,
+> “Well, if I don’t succeed, I _have_ succeeded,
 
 And that’s enough; succeeded in my youth,
 
-The only time when much success is needed:
-
-And my success produced what I in sooth
-
-Cared most about; it need not now be pleaded—
-
-Whate’er it was, ‘twas mine: I’ve paid, in truth,
-
-Of late, the penalty of such success,
-
-But have not learned to wish it any less.”
+> The only time when much success is needed:
+>
+> And my success produced what I in sooth
+>
+> Cared most about; it need not now be pleaded—
+>
+> Whate’er it was, ‘twas mine: I’ve paid, in truth,
+>
+> Of late, the penalty of such success,
+>
+> But have not learned to wish it any less.”

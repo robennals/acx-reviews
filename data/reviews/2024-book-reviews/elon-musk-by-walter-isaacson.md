@@ -27,7 +27,7 @@ November 2023
 
 615 pages
 
-Headline: Canada has played outsized role in Musk’s Martian ambitions
+**Headline:** Canada has played outsized role in Musk’s Martian ambitions
 
 Blame Canada for Elon Musk. Or credit the Great White North with jump-starting Musk’s rise to prominence.
 
@@ -41,13 +41,13 @@ An overarching message that shines through is that, adore Musk or despise him, p
 
 Unlike many other journalists who write about Musk derisively in passing, Isaacson actually talked frequently and candidly with the man himself, as well as with many of those closest to him. Isaacson also observed Musk in action, observations woven throughout the narrative. It’s the kind of comprehensive access that few disinterested biographers ever attain.
 
-Contrast that approach with what Crawford Kilian of [The Tyee](https://thetyee.ca/Culture/2024/02/26/Set-Maximum-Wage-Rich/) wrote recently. Kilian confidently predicted that billionaire Musk wouldn’t be able to survive on a desert island.
+Contrast that approach with what Crawford Kilian of _[The Tyee](https://thetyee.ca/Culture/2024/02/26/Set-Maximum-Wage-Rich/)_ wrote recently. Kilian confidently predicted that billionaire Musk wouldn’t be able to survive on a desert island.
 
-The Tyee columnist was imagining Musk as the hapless scion Thurston Howell III on Gilligan’s Island and not Musk as the engineer that he is. Musk more resembles the Professor — except Musk would figure out how to build a craft to escape the island. Born and raised in South Africa, Musk attended that country’s notorious [veldskool](https://mybroadband.co.za/news/trending/507482-elon-musks-violent-south-african-childhood.html), a wilderness survival camp, in his youth. It’s like Outward Bound or Katimavik — if those programs expected participants to die on occasion. So, yeah, Musk would probably survive just fine on a desert island.
+_The Tyee_ columnist was imagining Musk as the hapless scion Thurston Howell III on Gilligan’s Island and not Musk as the engineer that he is. Musk more resembles the Professor — except Musk would figure out how to build a craft to escape the island. Born and raised in South Africa, Musk attended that country’s notorious [veldskool](https://mybroadband.co.za/news/trending/507482-elon-musks-violent-south-african-childhood.html), a wilderness survival camp, in his youth. It’s like Outward Bound or Katimavik — if those programs expected participants to die on occasion. So, yeah, Musk would probably survive just fine on a desert island.
 
 As Isaacson makes clear in the acknowledgements, Musk didn’t read the text in advance of publication, nor did he ask to read it. So this is a dispassionate and balanced account of what Isaacson perceives to be a historical figure, as he is making history. Considering that Isaacson’s other biographical subjects include Leonard da Vinci, Benjamin Franklin, and Albert Einstein, it’s fair to presume that the author regards Musk as a significant player in the course of human events.
 
-([Isaacson](https://www.simonandschuster.com/authors/Walter-Isaacson/697650) is no slouch either. Aside from authoring many books, he has been a Rhodes scholar, CEO and chairman of CNN, and the editor of Time magazine.)
+([Isaacson](https://www.simonandschuster.com/authors/Walter-Isaacson/697650) is no slouch either. Aside from authoring many books, he has been a Rhodes scholar, CEO and chairman of CNN, and the editor of Time magazine.)
 
 ## Coming to Canada
 
@@ -71,7 +71,7 @@ Elon “came away with the impression that the bank was a lot dumber than it was
 
 Shortly after his stint with Scotiabank, Musk called Nicholson for advice on whether to go to Stanford University or work with Kimbal on an interactive version of the Yellow Pages they called the Virtual City Navigator. Nicholson’s advice: “The Internet revolution only comes once in a lifetime, so strike while the iron is hot,” he reportedly told Musk as they strolled along the Lake Ontario shoreline.
 
-The Musk lads eventually turned Virtual City Navigator into the startup Zip2. But not before the president of the Toronto Star, which published the city’s Yellow Pages, showed them what he thought of their idea by tossing a copy of the Yellow Pages at Kimbal. Two years later, 140 newspapers, including the Star, were licensing Zip2. And in January 1999, the Musk boys cashed out — $22 million for Elon, and $15 million for Kimbal.
+The Musk lads eventually turned Virtual City Navigator into the startup Zip2. But not before the president of the _Toronto Star_, which published the city’s Yellow Pages, showed them what he thought of their idea by tossing a copy of the Yellow Pages at Kimbal. Two years later, 140 newspapers, including the Star, were licensing Zip2. And in January 1999, the Musk boys cashed out — $22 million for Elon, and $15 million for Kimbal.
 
 As we all now know, that was just the beginning. (Isaacson recounts this windfall on page 64 of his 615-page tale.)
 
@@ -133,7 +133,7 @@ Most of Musk’s children were conceived in vitro. One of the mysteries that Isa
 
 His romantic partners and children feature a lot of Canadian content. Canadian author Justine (Wilson) Musk is mother of his first six children, including the eldest who succumbed to sudden infant death syndrome. Canadian singer Grimes is the mother to three of Musk’s children, including one who was delivered by a surrogate. The latter occurred at almost the same time as another Canadian woman, Shivon Zilis, birthed twins, also fertilized in vitro.
 
-Musk thinks there should be more humans in the universe and he is doing his part to stimulate that. He obsession is to send humans to Mars, which is the singular focus of SpaceX.  From a distance, it can look like a narcissistic vanity project. That doesn’t mean, it won’t succeed. Again, underestimate Musk at your peril.
+Musk thinks there should be more humans in the universe and he is doing his part to stimulate that. He obsession is to send humans to Mars, which is the singular focus of SpaceX.  From a distance, it can look like a narcissistic vanity project. That doesn’t mean, it won’t succeed. Again, underestimate Musk at your peril.
 
 “My biggest concern is our trajectory,” Isaacson quotes Musk. “Are we on a trajectory to get to Mars before civilization crumbles.”
 

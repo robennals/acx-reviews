@@ -118,7 +118,8 @@ const config: Config = {
               color: "hsl(var(--foreground))",
             },
 
-            // Blockquotes
+            // Blockquotes — disable decorative quotes added by @tailwindcss/typography
+            // since review content often already contains quotation marks.
             blockquote: {
               fontStyle: "italic",
               borderLeftColor: "hsl(var(--border))",
@@ -126,6 +127,13 @@ const config: Config = {
               paddingLeft: "1.25em",
               marginLeft: "0",
               color: "hsl(var(--muted-foreground))",
+              quotes: "none",
+            },
+            "blockquote p:first-of-type::before": {
+              content: '""',
+            },
+            "blockquote p:last-of-type::after": {
+              content: '""',
             },
 
             // Code

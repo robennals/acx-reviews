@@ -7,7 +7,7 @@ contestName: 2021 Book Reviews
 year: 2021
 publishedDate: '2026-02-06T07:21:29.569Z'
 slug: games-people-play-the-psychology-of-human-relationships-by-eric-berne
-wordCount: 4774
+wordCount: 4797
 readingTimeMinutes: 22
 originalUrl: >-
   https://docs.google.com/document/d/1xexFJ7h0vULMDE7N77q_MIzXoerexfe_CqqGEL6hEoQ
@@ -24,14 +24,14 @@ Bob is playing a game of “Look What You Made Me Do”. He’s setting things u
 
 However, all is not lost. If you figure out the game and play the right moves, you can stop these games.
 
-*   You can stop your manager from shirking off responsibility.
-*   You can stop your spouse from playing status games.
-*   You can stop your friend from messing up their life and seeking sympathy again and again.
-*   You can stop strangers from playing games with you, too.
+> *   You can stop your manager from shirking off responsibility.
+> *   You can stop your spouse from playing status games.
+> *   You can stop your friend from messing up their life and seeking sympathy again and again.
+> *   You can stop strangers from playing games with you, too.
 
 But that’s only if you know the game they’re playing.
 
-[Games People Play](https://amzn.to/2Ke8Aw5)1 is a repository of such games and how to stop them. Eric Berne spent 40 years studying these games and published an academic book. I spent a month plowing through the literature, took the best parts and stitched together a narrative of the most important games, with examples relevant to today’s age.
+[Games People Play](https://amzn.to/2Ke8Aw5)1 is a repository of such games and how to stop them. Eric Berne spent 40 years studying these games and published an academic book. I spent a month plowing through the literature, took the best parts and stitched together a narrative of the most important games, with examples relevant to today’s age.
 
 We’ll start with some background theory — just enough to make sense of things. Then, we’ll explore interesting games people play, like the one above, and figure out ways to stop them. If you don’t want the background, you can [skip directly to the games.](https://neilkakkar.com/games-people-play-blogpost.html#games)
 
@@ -87,9 +87,9 @@ Berne writes: “If someone frankly asks for reassurance and gets it, that is an
 
 The ulterior motives of Games are hidden transactions. On the surface they seem like normal interactions, but psychologically, they’re different. For example:
 
-“Salesman: ‘This one is better, but you can’t afford it.’”  
+_“Salesman: ‘This one is better, but you can’t afford it.’”  
   
-“Housewife: ‘That’s the one I’ll take.’”
+“Housewife: ‘That’s the one I’ll take.’”_
 
 While on the surface it’s an Adult-Adult transaction, psychologically, the salesman is instigating the Child of the housewife.
 
@@ -153,15 +153,15 @@ Another payoff of this game, as hinted above, is confirming worldviews.
 
 This game can also be played between a couple. An interesting aspect here is why would one side dominate? For example, why would Brad ban Angelina from, say, going out? Berne claims that both sides have a phobia they’re avoiding.
 
-“Brad: ‘You stay home and take care of the house.’  
+_“Brad: ‘You stay home and take care of the house.’  
   
-Angelina: ‘If it weren’t for you, I could be out having fun.’
+Angelina: ‘If it weren’t for you, I could be out having fun.’_
 
 At the psychological level the relationship is Child-Child, and quite different.
 
-Brad: ‘You must always be here when I get home. I’m terrified of desertion.’  
+_Brad: ‘You must always be here when I get home. I’m terrified of desertion.’  
   
-Angelina: ‘I will be if you help me avoid phobic situations.”
+Angelina: ‘I will be if you help me avoid phobic situations.”_
 
 ### Debtor
 
@@ -190,7 +190,7 @@ He’s effectively forcing Angelina to end the marriage, while saving face himse
 
 A more sinister form of the game is “Look how hard I was trying”. Berne writes:
 
-A man is told that he has an ulcer, but keeps it a secret from his wife and friends. He continues working and worrying as hard as ever, and one day he collapses on the job. When his wife is notified, she gets the message instantly: ‘Look How Hard I Was Trying. ‘Now she is supposed to appreciate him as she never has before, and to feel sorry for all the mean things she has said and done in the past. In short, she is now supposed to love him, all previous methods of wooing her having failed.
+> A man is told that he has an ulcer, but keeps it a secret from his wife and friends. He continues working and worrying as hard as ever, and one day he collapses on the job. When his wife is notified, she gets the message instantly: ‘Look How Hard I Was Trying. ‘Now she is supposed to appreciate him as she never has before, and to feel sorry for all the mean things she has said and done in the past. In short, she is now supposed to love him, all previous methods of wooing her having failed.
 
 ## Self-reprimanding, obtaining forgiveness
 
@@ -213,7 +213,7 @@ An interesting property of the game is how flexible the roles are: people in one
 
 Schlemiel is very similar to the Alcoholic. Instead of getting drunk himself, in this game Brad creates a mess out of things, like intentionally breaking things, or destroying carpets at a party, and then seeking forgiveness from the host.
 
-Brad’s Child is exhilarated because he has enjoyed himself in carrying out these procedures, for all of which he has been forgiven, while [the party host] has made a gratifying display of suffering self-control. Thus both of them profit from an unfortunate situation, and [the party host] is not necessarily anxious to terminate the friendship.
+> _Brad’s Child is exhilarated because he has enjoyed himself in carrying out these procedures, for all of which he has been forgiven, while [the party host] has made a gratifying display of suffering self-control. Thus both of them profit from an unfortunate situation, and [the party host] is not necessarily anxious to terminate the friendship._
 
 ## Confirming worldview and stereotypes
 
@@ -255,15 +255,15 @@ Alice is reassuring herself that she’s not afraid.
 
 Angelina is at a party, where she’s talking about Brad and his new obsession with doing repairs on his own, after a bad experience with a plumber.
 
-Angelina: ‘My husband always insists on doing our own repairs, and he never builds anything right.’  
-Friend 1: ‘Why doesn’t he take a course in carpentry?’  
-Angelina: ‘Yes, but he doesn’t have time.’  
-Friend 2: ‘Why don’t you buy him some good tools?’  
-Angelina: ‘Yes, but he doesn’t know how to use them.’  
-Friend 3: ‘Why don’t you have your building done by a carpenter?’  
-Angelina: ‘Yes, but that would cost too much.’  
-Friend 4: ‘Why don’t you just accept what he does the way he does it?’  
-Angelina: ‘Yes, but the whole thing might fall down.”
+**Angelina**: ‘My husband always insists on doing our own repairs, and he never builds anything right.’  
+**Friend 1**: ‘Why doesn’t he take a course in carpentry?’  
+**Angelina**: ‘Yes, but he doesn’t have time.’  
+**Friend 2**: ‘Why don’t you buy him some good tools?’  
+**Angelina**: ‘Yes, but he doesn’t know how to use them.’  
+**Friend 3**: ‘Why don’t you have your building done by a carpenter?’  
+**Angelina**: ‘Yes, but that would cost too much.’  
+**Friend 4**: ‘Why don’t you just accept what he does the way he does it?’  
+**Angelina**: ‘Yes, but the whole thing might fall down.”
 
 ~~ silence ~~.
 
@@ -271,7 +271,7 @@ Angelina “wins” when all her friends have exhausted their options. Internall
 
 Berne writes:
 
-“Why don’t you - Yes but” is not played for its ostensible purpose (an Adult quest for information or solutions), but to reassure and gratify the Child. A bare transcript may sound Adult, but in the living tissue it can be observed that Angelina presents herself as a Child inadequate to meet the situation; whereupon the others become transformed into sage Parents anxious to dispense their wisdom for her benefit.
+> _“Why don’t you - Yes but” is not played for its ostensible purpose (an Adult quest for information or solutions), but to reassure and gratify the Child. A bare transcript may sound Adult, but in the living tissue it can be observed that Angelina presents herself as a Child inadequate to meet the situation; whereupon the others become transformed into sage Parents anxious to dispense their wisdom for her benefit._
 
 ## Feeling power & Control over others
 
@@ -287,7 +287,7 @@ The plumber here is usually playing a complementary game of “Why does this alw
 
 Berne puts it succinctly, via a game of Poker:
 
-Bob gets an unbeatable hand, such as four aces. At this point, if he is a NIGYSOB player, he is more interested in the fact that Alice is completely at his mercy than he is in good poker or making money.
+> _Bob gets an unbeatable hand, such as four aces. At this point, if he is a NIGYSOB player, he is more interested in the fact that Alice is completely at his mercy than he is in good poker or making money._
 
 ### Kiss Off
 
@@ -308,10 +308,10 @@ To drive home the idea, here are some interesting insights about games people pl
 
 Some games fit in well with other games, where both people can be playing their own game, and both people win.
 
-*   Kick me <–> Now I’ve got you, you son of a bitch <-later-> Ain’t it Awful
-*   Kick me <–> rapo
-*   Alcoholic <–> I’m only trying to help you
-*   Why don’t you - yes but <–> I’m only trying to help you
+> *   Kick me <–> Now I’ve got you, you son of a bitch <-later-> Ain’t it Awful
+> *   Kick me <–> rapo
+> *   Alcoholic <–> I’m only trying to help you
+> *   Why don’t you - yes but <–> I’m only trying to help you
 
 ### Reversible roles
 
@@ -345,7 +345,7 @@ I’d get frustrated when I saw people on the cusp of breaking out of a bad situ
 
 In its more sinister form, it’s when others sabotage you to continue their game. Berne writes:
 
-“Even the close relatives of the patient who complained most loudly about the inconveniences caused by his infirmity, may eventually turn on the therapist if the patient makes definitive progress. [..] All the people who were playing ‘I’m Only Trying to Help You’ are threatened by the impending disruption of the game if the patient shows signs of striking out on his own, and sometimes they use almost incredible measures to terminate the treatment.”
+> _“Even the close relatives of the patient who complained most loudly about the inconveniences caused by his infirmity, may eventually turn on the therapist if the patient makes definitive progress. [..] All the people who were playing ‘I’m Only Trying to Help You’ are threatened by the impending disruption of the game if the patient shows signs of striking out on his own, and sometimes they use almost incredible measures to terminate the treatment.”_
 
 ## Antithesis: How to Stop Games
 
@@ -362,7 +362,7 @@ I’ll go payoff-by-payoff, and choose one, or a few, representative games, and 
 
 ### See What You Made Me Do - Vindication
 
-Since Brad is deferring responsibility and vindicating himself, the best way for Angelina to stop this game is to flip the questions back to Brad. “It’s your choice, sweetheart. We’ll do whatever you want to do”. Of course, if this turns into a game of See What You Made Me Do with Angelina as the lead, then they’re in a loop that would need a third agent to fix.
+Since Brad is deferring responsibility and vindicating himself, the best way for Angelina to stop this game is to flip the questions back to Brad. “It’s your choice, sweetheart. We’ll do whatever you want to do”. Of course, if this turns into a game of _See What You Made Me Do_ with Angelina as the lead, then they’re in a loop that would need a third agent to fix.
 
 ### Look How Hard I’m Trying - Vindication
 
@@ -377,13 +377,13 @@ In both Alcoholic and Schlemiel, since the players are looking for forgiveness, 
 
 Berne writes:
 
-“Anti-‘Schlemiel’ is played by not offering the demanded absolution. After [Brad] says ‘I’m sorry’, [the party host] instead of muttering ‘It’s okay’, says, ‘Tonight you can embarrass my wife, ruin the furniture and wreck the rug, but please don’t say “I’m sorry”.’ Here [the party host] switches from being a forgiving Parent to being an objective Adult who takes the full responsibility for having invited [Brad] in the first place.”
+> _“Anti-‘Schlemiel’ is played by not offering the demanded absolution. After [Brad] says ‘I’m sorry’, [the party host] instead of muttering ‘It’s okay’, says, ‘Tonight you can embarrass my wife, ruin the furniture and wreck the rug, but please don’t say “I’m sorry”.’ Here [the party host] switches from being a forgiving Parent to being an objective Adult who takes the full responsibility for having invited [Brad] in the first place.”_
 
 ### Why don’t you … Yes but - Reassurance
 
 The best way to stop reassurance games is to not play your part. When someone talks about how they’re suffering, do not play “I’m only trying to help you”. Don’t give suggestions. Instead, flip the question back to them: “So, what are you going to do about it?”
 
-It’s a similar story with “If it weren’t for you”. Instead of banning them from doing X, let them know they’re free to do X. But that means getting rid of your insecurities related to X.
+It’s a similar story with “If it weren’t for you”. Instead of banning them from doing X, let them know they’re free to do X. But that means getting rid of _your_ insecurities related to X.
 
 Sometimes, when this happens, the players may escalate the game. Berne recommends going to therapy, as resolving deep ingrained games should best be left to professionals.
 
@@ -395,7 +395,7 @@ Of course, if possible, don’t do business with them.
 
 You’ve got to be careful about not just the contract, but everything around it:
 
-In everyday life, business dealings with NIGYSOB players are always calculated risks. The wife of such a person should be treated with polite correctness, and even the mildest flirtations, gallantries or slights should be avoided, especially if the husband himself seems to encourage them.
+> _In everyday life, business dealings with NIGYSOB players are always calculated risks. The wife of such a person should be treated with polite correctness, and even the mildest flirtations, gallantries or slights should be avoided, especially if the husband himself seems to encourage them._
 
 ## Epilogue
 
@@ -403,14 +403,15 @@ When you go about life without questioning something, things “just happen”. 
 
 The Theory of Games People Play is one such model. People don’t “just do things”, there are incentives and psychological motivations that haven’t been made clear to you.
 
-Of course, this model isn’t perfect, and doesn’t explain everything. It’s [one of many perspectives](https://neilkakkar.com/different-perspectives-to-solve-problems.html). But, it’s how the journey to building [better models](https://neilkakkar.com/Bayes-Theorem-Framework-for-Critical-Thinking.html) begins. If you never get introduced to models, you never begin. Once you have a model for social interactions, you can notice where it breaks down, and look for other models to fill in the gap.
+Of course, this model isn’t perfect, and doesn’t explain everything. It’s [one of many perspectives](https://neilkakkar.com/different-perspectives-to-solve-problems.html). But, it’s how the journey to building [better models](https://neilkakkar.com/Bayes-Theorem-Framework-for-Critical-Thinking.html) begins. If you never get introduced to models, you never begin. Once you have a model for social interactions, you can notice where it breaks down, and look for other models to fill in the gap.
 
 * * *
 
-1.  Affiliate link
-2.  Note the capitalisation. When I say parent, I mean the person who is the parent. When I say Parent, I mean the Parent ego state. Same for Child and Adult.
-3.  It’s interesting to see how pick up artists figured out these same games, but have different names for them. For example, in this case, they “leave her alone”.
-4.  Not all games are bad! There are some good games, too. Annoyingly, they usually don’t show up in therapy sessions, so study on them is limited. [↩](https://neilkakkar.com/games-people-play-blogpost.html#fnref:4)
-5.  Usually. Other times, for people deeply entrenched in games, it escalates their actions till they get the payoff.
-    
-    * * *
+> 1.  Affiliate link
+> 2.  Note the capitalisation. When I say parent, I mean the person who is the parent. When I say Parent, I mean the Parent ego state. Same for Child and Adult.
+> 3.  It’s interesting to see how pick up artists figured out these same games, but have different names for them. For example, in this case, they “leave her alone”.
+> 4.  Not all games are bad! There are some good games, too. Annoyingly, they usually don’t show up in therapy sessions, so study on them is limited. [↩](https://neilkakkar.com/games-people-play-blogpost.html#fnref:4)
+> 5.  Usually. Other times, for people deeply entrenched in games, it escalates their actions till they get the payoff.
+>     
+>     * * *
+>

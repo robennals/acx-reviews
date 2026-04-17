@@ -56,7 +56,7 @@ And to that, those eastern angels on sharp arches.
 
 After the Commonwealth was destroyed from within and from without, next to the donjon and the chapel, there is now the prison, which used to consume criminals, revolutionaries, and patriots.
 
-That is not strange, that Lublin has this building from precisely that time. Prisons were important in the thought of the Enlightenment. Panopticons on the one hand, ideas of resocialization on the other, compassion going against unusual and cruel punishment. People believed that there is a case to be made for progress and betterment of both collective and individual. Those ideas were still very much alive in the XIX century, despite reaction after downfall of Napoleon. It was in the air. Les Misérables were written in that spirit. And other tales of crime and punishment. Crowning of this literary tradition was The Gulag Archipelago, long text adored by famous theologians of XX century almost as new, post-enlightenment Bible.
+That is not strange, that Lublin has this building from precisely that time. Prisons were important in the thought of the Enlightenment. Panopticons on the one hand, ideas of resocialization on the other, compassion going against unusual and cruel punishment. People believed that there is a case to be made for progress and betterment of both collective and individual. Those ideas were still very much alive in the XIX century, despite reaction after downfall of Napoleon. It was in the air. _Les Misérables_ were written in that spirit. And other tales of crime and punishment. Crowning of this literary tradition was The _Gulag Archipelago_, long text adored by famous theologians of XX century almost as new, post-enlightenment Bible.
 
 There was case to be made that enlightenment itself blinded by reason. Rationalists were perfectly able to create prisons in old way, destructive and cruel. Maybe because they forgot original sin, maybe because they committed it by pride and lack of faith. Or maybe human nature is just that.
 
@@ -64,19 +64,19 @@ There are prisons everywhere for those with the eyes to see.
 
 Although I am a theologian, I put Bukowski above Solzhenitsyn. This one dialogue about coconuts opening Tales of Ordinary Madness, where five year old girl talking with her father, a thug:
 
-„why do you work nights?”
+_„why do you work nights?”_
 
-“it’s darker. people can’t see me.”
+_“it’s darker. people can’t see me.”_
 
-“why don’t you want people to see you?”
+_“why don’t you want people to see you?”_
 
-“because if they do I might get caught and put in jail.”
+_“because if they do I might get caught and put in jail.”_
 
-“what’s jail?”
+_“what’s jail?”_
 
-“everything’s jail.”
+_“everything’s jail.”_
 
-“I’m not jail!”
+_“I’m not jail!”_
 
 Probably philosophers stating similar idea in long sentences didn’t discover entirely new world, they just express in their own way general annoyance that is felt by any human caught in any system.
 
@@ -114,41 +114,41 @@ There is nothing better than dialogue between the old and the young. This one is
 
 Gorky as young boy was almost killed by constant beatings from his grandfather. Still, he teased the old monster from time to time, reminding him, for example, about mistakes in words of prayers, and if grandpa was not in the mood for tortures, his response was just to question the boy:
 
-Tell me: how many ranks of angels are there?
+_Tell me: how many ranks of angels are there?_
 
-I answered and then I asked:
+_I answered and then I asked:_
 
-‘And what are civil servants?’
+_‘And what are civil servants?’_
 
-‘Want to know everything, don’t you?’ he said, smirking, lowering his eyes and chewing his lips. With reluctance he explained:
+_‘Want to know everything, don’t you?’ he said, smirking, lowering his eyes and chewing his lips. With reluctance he explained:_
 
-‘That’s nothing to do with God – civil servants are humans! A civil servant feeds on regulations, he eats them the whole time.’
+_‘That’s nothing to do with God – civil servants are humans! A civil servant feeds on regulations, he eats them the whole time.’_
 
-‘What are regulations?’
+_‘What are regulations?’_
 
-‘Regulations? The same as habits,’ he answered more redily and cheerfully, his clever, piercing eyes twinkling. ‘People live together and make agreements between themselves. For example, they say: ‘This is better than anything else, so we’ll make it a custom, a regulation, a law!” it’s like when boys in the street have a game, and they decide on the rules, and how they are going to play. And what they agree on is the law!’  
+_‘Regulations? The same as habits,’ he answered more redily and cheerfully, his clever, piercing eyes twinkling. ‘People live together and make agreements between themselves. For example, they say: ‘This is better than anything else, so we’ll make it a custom, a regulation, a law!” it’s like when boys in the street have a game, and they decide on the rules, and how they are going to play. And what they agree on is the law!’_  
 
-‘And civil servants?’
+_‘And civil servants?’_
 
-‘Troublemakers who come and break all the laws.’
+_‘Troublemakers who come and break all the laws.’_
 
-‘That’s something you won’t understand,’ he said with a stern frown. Then he continued his sermon:
+_‘That’s something you won’t understand,’ he said with a stern frown. Then he continued his sermon:_
 
-‘God stands above all earthly dealings! Men want one thing, and he want something else. Everything that’s human perishes. Gos has only to brethe and everything’s turned at once to ashes, dust.’
+_‘God stands above all earthly dealings! Men want one thing, and he want something else. Everything that’s human perishes. Gos has only to brethe and everything’s turned at once to ashes, dust.’_
 
-I had plenty of reasons for wanting to know all about civil servants, and persevered.
+_I had plenty of reasons for wanting to know all about civil servants, and persevered._
 
-‘Uncle Yakov often sings:
+_‘Uncle Yakov often sings:_
 
-“Bright angels are God’s servants,
+_“Bright angels are God’s servants,_
 
-But civil servants – serfs of the devil.”
+_But civil servants – serfs of the devil.”_
 
-Grandfather raised his beard with the palm of his hand, put it in his mouth and closed his eyes. His cheeks quivered, I could see he was laughting inside.
+_Grandfather raised his beard with the palm of his hand, put it in his mouth and closed his eyes. His cheeks quivered, I could see he was laughting inside._
 
-I’ll have to tie up your legs with Yashka’s and fling you both in the river. He’s no buissness singing such songs and you shouldn’t listen to them either. Those are heretical jokes, the work of dissenters and unbelievers’. After a moment’s reflection he looked at me piercingly and said softly, ‘ah, what s lot they are!’
+_I’ll have to tie up your legs with Yashka’s and fling you both in the river. He’s no buissness singing such songs and you shouldn’t listen to them either. Those are heretical jokes, the work of dissenters and unbelievers’. After a moment’s reflection he looked at me piercingly and said softly, ‘ah, what s lot they are!’_
 
-        Such a picture: Russian, or maybe Slavic, theology of liberation; serfs are of the devil. The state apparatus devours actual laws. Those who are carrying authorities have horns. I wonder if there were ones in nineteenth-century Lublin who, like this evil grandpa, put their own beard in their mouth while looking at the liktor’s fasces, an attribute of justice shown as the devil’s identification.
+Such a picture: Russian, or maybe Slavic, theology of liberation; serfs are of the devil. The state apparatus devours actual laws. Those who are carrying authorities have horns. I wonder if there were ones in nineteenth-century Lublin who, like this evil grandpa, put their own beard in their mouth while looking at the liktor’s fasces, an attribute of justice shown as the devil’s identification.
 
 The case can be made, and a strong one, that the gradual collapse of the Commonwealth had its origin in this feeling that Polish nobles had – that every law is potentially leading to violence, and there is no way for the king to rule justly when he has power.
 
@@ -170,7 +170,7 @@ Not only is there general frost in the service of the Russian empire, but there 
 
 But I could tell that this Face of the Real, of the prison built on the ruins, was looking silly. Even funny! One could laugh and one should, I thought. That’s the statutory obligation for youngsters, do not cry when a king stupid to the point of nakedness is walking through a dozing crowd, just laugh. If the atmospheric pressure and humidity are right, your laugh may spread like fire.
 
-It didn’t spread. No one is, for example, advertising Lublin in such a way: visit our city to see prophecy about the lot of enlightenment in Europe! This is one of its kind architectural satire on the state of human institutions! Or, look how dumb our castle looks, for that matter. Several persons, for example, who are thinking about painting Lublin castle using the same colors that Munch used for The Scream, is non-zero.  
+It didn’t spread. No one is, for example, advertising Lublin in such a way: visit our city to see prophecy about the lot of enlightenment in Europe! This is one of its kind architectural satire on the state of human institutions! Or, look how dumb our castle looks, for that matter. Several persons, for example, who are thinking about painting Lublin castle using the same colors that Munch used for The Scream, is non-zero.  
 
 Never failure of our civilization been more obvious, never horns of jurisdiction been scarier than under Hitler. It is crucial to give this context to the castle. It was encircled by the Jewish quarter, now totally gone. But I am unwilling to speak about that without mentioning better days.
 
@@ -188,7 +188,7 @@ According to other Jewish traditions, the fulfilment of creation, the descent of
 
 There is no secular version of the end of the days in Lublin, but I have met a thinker who made a certain prediction on this matter based on Putin's obsession with history.
 
- But as for now, Lublin is the last piece of cosmos, where people tell old jokes about Chełm, sometimes forgetting that at the dawn of days, two or three centuries earlier, those were Jewish ones. There was a lady who was able to tell you such jokes in original splendid precious Lublin Yiddish, but COVID took her. Not one end, but many ends will happen here.
+ But as for now, Lublin is the last piece of cosmos, where people tell old jokes about Chełm, sometimes forgetting that at the dawn of days, two or three centuries earlier, those were Jewish ones. There was a lady who was able to tell you such jokes in original splendid precious Lublin Yiddish, but COVID took her. Not one end, but many ends will happen here.
 
 Fulfilment of the days shall happen next to the castle, as Horovitz's house used to be touching castle hill, although when he died in 1815, there were still a few more years to build the prison with the face.
 

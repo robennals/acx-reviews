@@ -16,9 +16,9 @@ tags:
   - Fiction
 ---
 
-Winner of the 1989 Booker Prize for English Literature
+_Winner of the 1989 Booker Prize for English Literature_
 
-Its 1993 film adaptation by Merchant-Ivory was nominated for eight Oscars ([trailer](https://www.youtube.com/watch?v=jALmEb72beg)) - starring Anthony Hopkins, Emma Thompson, Christopher Reeve and Hugh Grant
+_Its 1993 film adaptation by Merchant-Ivory was nominated for eight Oscars (__[trailer](https://www.youtube.com/watch?v=jALmEb72beg)__) - starring Anthony Hopkins, Emma Thompson, Christopher Reeve and Hugh Grant_
 
 How did the elite intellectual class of the 1930s fall for the underlying philosophies of Hitler and the Nazi party? These were not stupid people, nor were they uncurious or unworldly. Ishiguro uses fiction to examine the calibration of emotion, restraint, honesty and intellectualism to tell a complex story of a well-intentioned English aristocrat and his butler who both cling to ideals of logic and restraint, and of an American Senator and country housekeeper who urge both to see how emotion brings greater truth to their observations and conclusions.
 

@@ -17,7 +17,7 @@ tags:
   - History
 ---
 
-I like to imagine the state of technical progress as a tech tree in a video game. The digital age tech tree is cool, with advancements like the internet and now and, built on top of it, AI, but I can’t help thinking about the tech paths we let wither on the branch.  Take airships: a century ago they crossed oceans in Art‑Deco salons, then vanished in a flash of hydrogen and bad headlines. Today armed with carbon‑fibre frames, electric drivetrains and a climate mandate we may finally have the points to re‑unlock that branch.
+I like to imagine the state of technical progress as a tech tree in a video game. The digital age tech tree is cool, with advancements like the internet and now and, built on top of it, AI, but I can’t help thinking about the tech paths we let wither on the branch.  Take airships: a century ago they crossed oceans in Art‑Deco salons, then vanished in a flash of hydrogen and bad headlines. Today armed with carbon‑fibre frames, electric drivetrains and a climate mandate we may finally have the points to re‑unlock that branch.
 
 Airships can cut CO₂ by 90 % on regional cargo runs. Here’s how we lost and may regain this tech branch.
 
@@ -55,9 +55,9 @@ The Graf Zeppelin completed the trip in 21 days and 33,234 kilometers, the faste
 
 ## II: The Hindenburg
 
-May 6 1937, Lakehurst Naval Air Station. Hindenburg is minutes from docking after a 3‑day Atlantic hop. Designed for inert helium, she carries flammable hydrogen because the U.S. export ban under the [1925 Helium Act](https://en.wikipedia.org/wiki/Helium_Act_of_1925) left Germany no alternative. A sudden wind shift forces a sharp turn; mooring ropes slap the wet skin. At 7:25 p.m. by witnesses’ watches, a pale flame near the tail blossoms into an orange roar.
+_May 6 1937, Lakehurst Naval Air Station._ Hindenburg is minutes from docking after a 3‑day Atlantic hop. Designed for inert helium, she carries flammable hydrogen because the U.S. export ban under the [1925 Helium Act](https://en.wikipedia.org/wiki/Helium_Act_of_1925) left Germany no alternative. A sudden wind shift forces a sharp turn; mooring ropes slap the wet skin. At 7:25 p.m. by witnesses’ watches, a pale flame near the tail blossoms into an orange roar.
 
-The ship collapses in 34 seconds; yet [62 of 97 aboard survive](https://www.airships.net/hindenburg/disaster/), plus most ground crew. Later probes agree on the sequence: a gas‑cell tear, hydrogen‑air mix, then a static‑spark ignition, amplified by the doped‑cotton skin’s flammability [Smithsonian Magazine](https://www.smithsonianmag.com/smithsonian-institution/80th-anniversary-hindenburg-disaster-mysteries-remain-180963107/). Insurance rates triple overnight; U.S. media re‑run the footage for weeks; passenger bookings evaporate.
+The ship collapses in **34 seconds**; yet [62 of 97 aboard survive](https://www.airships.net/hindenburg/disaster/), plus most ground crew. Later probes agree on the sequence: a gas‑cell tear, hydrogen‑air mix, then a static‑spark ignition, amplified by the doped‑cotton skin’s flammability [Smithsonian Magazine](https://www.smithsonianmag.com/smithsonian-institution/80th-anniversary-hindenburg-disaster-mysteries-remain-180963107/). Insurance rates triple overnight; U.S. media re‑run the footage for weeks; passenger bookings evaporate.
 
 After that, the public lost faith in airships. Within two years, the last aluminum-framed giant, Graf Zeppelin II, made its final flight.
 
@@ -71,7 +71,7 @@ After the Hindenburg, airships became an endangered species. As not much happens
 
 1940 – late‑1960s U.S. Navy patrol era
 
-• Airships log [1 ½ million accident‑free hours hunting submarines in WWII](http://digitalcommons.cedarville.edu); the final ZPG‑3W radar picket flights end in 1962 and the program winds down by 1969.
+• Airships log [1 ½ million accident‑free hours hunting submarines in WWII](http://digitalcommons.cedarville.edu); the final ZPG‑3W radar picket flights end in 1962 and the program winds down by 1969.
 
 1980 – 2010 Advertising & aerial‑TV era
 
@@ -99,27 +99,27 @@ An airship is a type of lighter-than-air aircraft that can be steered and propel
 
 As a mechanical engineer, what fascinates me are the design trade-offs modern airships face.
 
-First, there’s the lifting gas. Helium is safe but expensive and in short supply, around $390–550 per thousand cubic feet in 2025. [Export helium](https://discoveryalert.com.au/news/helium-supply-crisis-2025-global-impact/) now rides on three liquefied natural gas hubs: Qatar, Algeria and Russia’s Amur making every plant outage or Strait of Hormuz scare a market shock.
+First, there’s the lifting gas. Helium is safe but expensive and in short supply, around $390–550 per thousand cubic feet in 2025. [Export helium](https://discoveryalert.com.au/news/helium-supply-crisis-2025-global-impact/) now rides on three liquefied natural gas hubs: Qatar, Algeria and Russia’s Amur making every plant outage or Strait of Hormuz scare a market shock.
 
 Hydrogen is abundant and can be produced through electrolysis and it provides about 10% more lift than helium, but its explosive nature means developers need to bend over backwards with safety systems. Modern design has every hydrogen cell being double‑walled in Mylar, with an inert nitrogen buffer between skins so that any leak meets nitrogen, not oxygen, before it can mix with the airframe. Spark-proof electrical systems are also needed to reduce risk of igniting the hydrogen. If we can manage the safety problems however, hydrogen is the most scalable path forward for airships. Currently, designers of modern day airships are using helium-based designs as the first step, while hydrogen propulsion is a highly coveted future upgrade.
 
 Buoyancy control is another challenge. If an airship offloads a heavy cargo load, and if nothing is done the ship becomes positively buoyant and tries to shoot sky‑ward. Classic fixes like venting gas or taking on ballast are wasteful or logistically hard. The modern solution is to compress helium into tanks and backfill the envelope with air from the atmosphere. But this requires energy, creates heat, and needs intercoolers.
 
-Ironically what makes hydrogen so appealing as a lifting gas makes it much worse to be able to compress. Hydrogen’s density at 1 bar is half helium’s, so to pack the same volume of gas into a small space you must go to 7 to 10 times the pressure. Some designers sidestep high‑pressure tanks with variable ballonets: onboard blowers pump outside air into flexible internal balloons, trading lift for a small weight penalty in minutes without venting precious gas.
+Ironically what makes hydrogen so appealing as a lifting gas makes it much worse to be able to compress. Hydrogen’s density at 1 bar is _half_ helium’s, so to pack the same _volume_ of gas into a small space you must go to 7 to 10 times the pressure. Some designers sidestep high‑pressure tanks with _variable ballonets_: onboard blowers pump outside air into flexible internal balloons, trading lift for a small weight penalty in minutes without venting precious gas.
 
-A more experimental idea is steam‑condensation trim, where water ballast is boiled off for ascent and re‑condensed for landing, no gas compression at all.
+A more experimental idea is _steam‑condensation trim_, where water ballast is boiled off for ascent and re‑condensed for landing, no gas compression at all.
 
-Regulatory barriers also loom large. [Neither the FAA nor EASA](https://lynceans.org/tag/darpa/) has a mature airship certification framework. Each project negotiates special terms, adding complexity and delays. Hybrid Air Vehicles, for example, began [UK certification in 2024](https://www.aerospacetestinginternational.com/news/industry-news/hybrid-air-vehicles-kicks-off-airlander-10-certification.html) and hopes for commercial service by 2028 or 2029, pending hundreds of compliance checks.
+Regulatory barriers also loom large. [Neither the FAA nor EASA](https://lynceans.org/tag/darpa/) has a mature airship certification framework. Each project negotiates special terms, adding complexity and delays. Hybrid Air Vehicles, for example, began [UK certification in 2024](https://www.aerospacetestinginternational.com/news/industry-news/hybrid-air-vehicles-kicks-off-airlander-10-certification.html) and hopes for commercial service by 2028 or 2029, pending hundreds of compliance checks.
 
 ## VI: What They Could Fix Today
 
 The 1920 Jones Act severely restricts coastal shipping in the United States. It requires that any cargo shipped between U.S. ports must be carried on U.S.-built, -flagged, -owned, and -crewed vessels.
 
-The result? A 2 to 3 times cost increase for American shipping. For territories like Puerto Rico, this translates to higher consumer prices. [A study on Puerto Rico](https://www.cato.org/research-briefs-economic-policy/effect-jones-act-puerto-rico) found the Jones Act alone adds about 1% to their household costs.Given that the Act is unlikely to be repealed anytime soon, airships might fill the void.
+The result? A 2 to 3 times cost increase for American shipping. For territories like Puerto Rico, this translates to higher consumer prices. [A study on Puerto Rico](https://www.cato.org/research-briefs-economic-policy/effect-jones-act-puerto-rico) found the Jones Act alone adds about 1% to their household costs.Given that the Act is unlikely to be repealed anytime soon, airships might fill the void.
 
-In Canada, Nunavut faces similar challenges. With no road access, everything is flown in, at great cost. A 20 kg box costing $0.10 per kg to ship from Toronto to Winnipeg can cost [$3 to $10](https://www.numbeo.com/cost-of-living/in/Iqaluit-NU-Canada) per kg to reach Nunavut by plane.
+In Canada, Nunavut faces similar challenges. With no road access, everything is flown in, at great cost. A 20 kg box costing $0.10 per kg to ship from Toronto to Winnipeg can cost [$3 to $10](https://www.numbeo.com/cost-of-living/in/Iqaluit-NU-Canada) per kg to reach Nunavut by plane.
 
-A University of Manitoba study compared a 50-tonne airship with current aircraft and sealift services. The result: airships could reduce logistics costs by [12 to 38%](https://www.academia.edu/16849505/Cost_Competitiveness_of_Re_Supply_via_Cargo_Airship_in_Kivalliq_Nunavut) and cut carbon emissions by over 75%. The break-even freight rate is estimated at $2 to $4 per kg, well below scheduled air freight.
+A University of Manitoba study compared a 50-tonne airship with current aircraft and sealift services. The result: airships could reduce logistics costs by [12 to 38%](https://www.academia.edu/16849505/Cost_Competitiveness_of_Re_Supply_via_Cargo_Airship_in_Kivalliq_Nunavut) and cut carbon emissions by over 75%. The break-even freight rate is estimated at $2 to $4 per kg, well below scheduled air freight.
 
 Airships can match truck speeds and reach locations without runways or highways, all while using much less energy. Trains are better when available, but at least for Canada building new rail lines seems like something the government doesn’t have the capacity to do anymore.
 
@@ -127,11 +127,11 @@ Airships can match truck speeds and reach locations without runways or highways,
 
 Airships require minimal energy to stay aloft and operate at much lower speeds than aircraft, making them incredibly energy efficient. Since power needs scale cubically with speed, airships flying at truck speeds use dramatically less energy.
 
-Compared to bush planes or turboprops, airships can reduce emissions by [90 to 98%](https://interestingengineering.com/transportation/hydrogen-airship-zero-emissions-at-quarter-the-price-of-a-cargo-plane) for cargo that can’t wait weeks for sealift.
+Compared to bush planes or turboprops, airships can reduce emissions by [90 to 98%](https://interestingengineering.com/transportation/hydrogen-airship-zero-emissions-at-quarter-the-price-of-a-cargo-plane) for cargo that can’t wait weeks for sealift.
 
 ## VIII: Conclusion
 
-Airships will not sink container ships or outrun jets.  Their sweet spot is the messy middle: routes too thin for rail, too remote for roads, too carbon‑sensitive for constant turboprops.  If we marry today’s composites, batteries and hydrogen with yesterday’s buoyancy physics, the next “green freight lane” may float overhead quiet, slow, and surprisingly cost‑effective.
+Airships will not sink container ships or outrun jets.  Their sweet spot is the messy middle: routes too thin for rail, too remote for roads, too carbon‑sensitive for constant turboprops.  If we marry today’s composites, batteries and hydrogen with yesterday’s buoyancy physics, the next “green freight lane” may float overhead quiet, slow, and surprisingly cost‑effective.
 
 History abandoned airships too quickly. Recently I saw a post showcasing a conceptual design of a new nuclear powered airplane that would be used for sky cruises. The picture looks absurd, a great big behemoth of absolute excess:
 

@@ -7,7 +7,7 @@ contestName: 2023 Book Reviews
 year: 2023
 publishedDate: '2026-02-06T07:21:10.025Z'
 slug: bullshit-jobs
-wordCount: 6095
+wordCount: 6104
 readingTimeMinutes: 28
 originalUrl: >-
   https://docs.google.com/document/d/10CiEI7aDL2bMIdx7yayy3vlq0TJ8dO5LGnG7yIDPiw8
@@ -17,15 +17,15 @@ tags:
   - Society
 ---
 
-“We must imagine Sisyphus wondering if he actually needs to bother.” Camus, probably.
+“_We must imagine Sisyphus wondering if he actually needs to bother._” Camus, probably.
 
-“Man was born free, and everywhere he is in offices.” Rousseau, I’ve heard.
+“_Man was born free, and everywhere he is in offices._” Rousseau, I’ve heard.
 
 ### I. Are Many Jobs Pointless?
 
 Famously some of the fiercest fighting during the Battle of Stalingrad took place in the city's tractor plant. I’m quite fascinated by those early soviet tractor plants (I promise this gets more interesting), mechanising agriculture represented a huge leap in productivity over pre-industrial farming.
 
-If you were an older worker, or even a manger, at one of those factories and you remembered harvesting potatoes by hand, or you remembered the famines of the Tsarist and earlier Soviet periods, you’d have absolutely zero fucking doubts about what an immense contribution your work was making to society.
+If you were an older worker, or even a manger, at one of those factories and you remembered harvesting potatoes by hand, or you remembered the famines of the Tsarist and earlier Soviet periods, you’d have **absolutely zero fucking doubts about what an immense contribution your work was making to society**.
 
 There must have been a tangible sense of mankind’s progress in those plants (I’ll move on before I get too sentimental about the Stalinist USSR.)
 
@@ -35,7 +35,7 @@ I haven’t worked as a credit manager or a corporate lawyer, but I don’t get 
 
 According to David Graeber’s book Bullshit Jobs: A Theory, many of them don’t feel they’re making any contribution to anything.
 
-“In the year 1930, John Maynard Keynes predicted that, by century’s end, technology would have advanced sufficiently that countries like Great Britain or the United States would have achieved a fifteen-hour work week. There’s every reason to believe he was right. In technological terms, we are quite capable of this. And yet it didn’t happen. Instead, technology has been marshaled, if anything, to figure out ways to make us all work more. In order to achieve this, jobs have had to be created that are, effectively, pointless. Huge swathes of people, in Europe and North America in particular, spend their entire working lives performing tasks they secretly believe do not really need to be performed.”
+_“In the year 1930, John Maynard Keynes predicted that, by century’s end, technology would have advanced sufficiently that countries like Great Britain or the United States would have achieved a fifteen-hour work week. There’s every reason to believe he was right. In technological terms, we are quite capable of this. And yet it didn’t happen. Instead, technology has been marshaled, if anything, to figure out ways to make us all work more. In order to achieve this, jobs have had to be created that are, effectively, pointless. Huge swathes of people, in Europe and North America in particular, spend their entire working lives performing tasks they secretly believe do not really need to be performed.”_
 
 The book followed on from an essay Graeber wrote in 2013, arguing that “over half of societal work is pointless”, and a subsequent YouGov poll that found that 37% of Britons felt their jobs “didn’t contribute meaningfully to the world”.
 
@@ -49,17 +49,17 @@ Scott Alexander made one short post on the subject, but it didn’t mention how 
 
 So, the original idea of BS jobs hasn’t been fleshed out much since its creation, and we have to rely on input from people who didn’t originate the idea and aren’t outside the normal human range of insightfulness. I’m hoping to contribute to that as part of this review.
 
- ![](https://acximages.ennals.org/images/2023-book-reviews/5d86158d7ca80200.png)
+ ![](https://acximages.ennals.org/images/2023-book-reviews/5d86158d7ca80200.png)
 
 ### II. Graeber’s Main Arguments and Evidence, and My Overview
 
 To be upfront, I think BS jobs are real and pervasive, in Britain especially, and in a way that hasn’t always been the case; and even that Graeber might have underestimated the amount of BS work in the modern West.
 
-Although I do have slightly mixed feelings about Bullshit Jobs (and Graeber’s work in general).
+Although I do have slightly mixed feelings about _Bullshit Jobs_ (and Graeber’s work in general).
 
 For one thing, I feel the book took an anthropological approach to a subject that really demands an economic one.
 
- Graeber focusses a lot on the idea that doing BS work is more psychologically harmful than doing useful work, because BS jobs don’t provide “meaning” in the way useful jobs apparently do. So he argues that the net damages of BS jobs are even greater than the opportunity cost of having half the workforce doing nothing useful.
+ Graeber focusses a lot on the idea that doing BS work is more psychologically harmful than doing useful work, because BS jobs don’t provide “meaning” in the way useful jobs apparently do. So he argues that the net damages of BS jobs are even greater than the opportunity cost of having half the workforce doing nothing useful.
 
 Graebe makes this psychological harm a central argument in the book, but I’m not convinced it deserves to be.
 
@@ -67,9 +67,9 @@ Perhaps as a public intellectual Graeber derived a lot of meaning from his work,
 
 Graeber also doesn’t have much in the way of evidence to support his central thesis: that a lot of work in the modern world really serves no purpose, which is an incredibly bold claim to make mostly unsupported.
 
-His main supporting data is the [YouGov survey](https://yougov.co.uk/topics/society/articles-reports/2015/08/12/british-jobs-meaningless) which found that “37% of British workers think their jobs are meaningless”.
+His main supporting data is the [YouGov survey](https://yougov.co.uk/topics/society/articles-reports/2015/08/12/british-jobs-meaningless) which found that “37% of British workers think their jobs are meaningless”.
 
- ![](https://acximages.ennals.org/images/2023-book-reviews/0eb8750166b6e513.png)
+ ![](https://acximages.ennals.org/images/2023-book-reviews/0eb8750166b6e513.png)
 
 Graeber was a Leftist in the Rousseau-ian tradition and the opposite of a misanthrope, he believed in the sound judgment and basic goodness of ordinary people, and emphasises repeatedly that he defines BS jobs to be “jobs considered useless by the people doing them”, and that the best way to know how prevalent BS jobs are is to ask the people actually doing them. Which provides us a clear metric to define BS jobs by and avoids upsetting anyone who thinks what they do really is valuable.
 
@@ -77,7 +77,7 @@ I’m sceptical that this is the right approach, and I’m not convinced this su
 
 I doubt you can reliably expect people to know what contribution their work is making, and like most polls the responses could change significantly depending on how the question is phrased. “Make a meaningful contribution to the world” seems like it could be asking whether you think your job achieves something exception, like curing cancer, so might have a high rate of false negatives.
 
- It’s not clear that responders necessarily think their jobs are economically useless in the specific sense Graeber wants to claim.
+ It’s not clear that responders necessarily think their jobs are economically useless in the specific sense Graeber wants to claim.
 
 The Economist responded to the survey with a similar objection, suggesting that workers might not recognise the purpose their small roles cumulatively play in the grander scheme of today’s monopolies larger firms.
 
@@ -99,31 +99,31 @@ If you stick to Graeber’s definition of BS jobs as “jobs that the person doi
 
 Without a concrete definition, it’s unclear what you should be measuring. And, since “what counts as a BS job?” is the question we’re trying to answer, there’s not much point using an ad hoc definition of BS either.
 
-Since BS jobs are vaguely defined, and it’s contentious whether they even exist at all, there are inherent limits to the empirical approach. So the rest of the book attempts to provide theoretical reasons why we should think BS jobs are prevalent.    
+Since BS jobs are vaguely defined, and it’s contentious whether they even exist at all, there are inherent limits to the empirical approach. So the rest of the book attempts to provide theoretical reasons why we should think BS jobs are prevalent.    
 
 Graeber gives us five conceptual categories of BS work:
 
-1.  Flunkies only exist to satisfy the egos of people who like to be in charge of others. Examples include some receptionists, door attendants, etc. A lot of managers enjoy having, or are incentivised to have, a lot of underlings, often more than can be productively employed, in order to appear more important.
+> 1.  Flunkies only exist to satisfy the egos of people who like to be in charge of others. Examples include some receptionists, door attendants, etc. A lot of managers enjoy having, or are incentivised to have, a lot of underlings, often more than can be productively employed, in order to appear more important.
+>
+> 2.  Goons do all kinds of zero sum competition games, like corporate lawyers who only make gains for their clients at the expense of rival firms, all kinds of advertising for already well-known types of product, lobbyists, public relations and I’m going to include anyone in education.
+>
+> 3.  Duct tapers temporarily repair problems that should be fixed permanently, e.g. programmers managing bloated legacy code.
+>
+> 4.  Box tickers fill out forms or publish psychology papers to create the illusion that something useful is being done, or avoid legal culpability. Lots of them in medicine, according to Graeber.
+>
+> 5.  Taskmasters create unnecessary make-work for their underlings in order to appear more productive to their over-lings, e.g. middle management, any commissar beneath Stalin.
 
-2.  Goons do all kinds of zero sum competition games, like corporate lawyers who only make gains for their clients at the expense of rival firms, all kinds of advertising for already well-known types of product, lobbyists, public relations and I’m going to include anyone in education.
+### IV. Graeber’s Categories are OK  
 
-3.  Duct tapers temporarily repair problems that should be fixed permanently, e.g. programmers managing bloated legacy code.
-
-4.  Box tickers fill out forms or publish psychology papers to create the illusion that something useful is being done, or avoid legal culpability. Lots of them in medicine, according to Graeber.
-
-5.  Taskmasters create unnecessary make-work for their underlings in order to appear more productive to their over-lings, e.g. middle management, any commissar beneath Stalin.
-
-### IV. Graeber’s Categories are OK  
-
-[If you’ve read Meditations on Moloch feel free to skip this part.]
+_[If you’ve read Meditations on Moloch feel free to skip this part.]_
 
 The one category that really strikes me as true is the Goons, the foot soldiers in zero sum games (games where a player can only gain if another player loses, like gambling; as opposed to positive sum games where all players can benefit, like trade for example).
 
-Graeber argues that the economic competition which capitalism relies on to ensure efficiency and foster innovation, can also lead to destructive competition where  the efforts of both competitors cancel each other out, befitting no-one. And that therefore capitalist economies suffer from a lot of goon jobs.
+Graeber argues that the economic competition which capitalism relies on to ensure efficiency and foster innovation, can also lead to destructive competition where  the efforts of both competitors cancel each other out, befitting no-one. And that therefore capitalist economies suffer from a lot of goon jobs.
 
 The classic example of destructive competition is advertising, if one seller advertises they can gain extra sales, but if all sellers advertise it’s effectively the same as none of them advertising, because no brand stands out from the competition.
 
-The Goons which Bullshit Jobs really excoriates are corporate lawyers (lawyers involved in resolving commercial disputes). Obviously courts can’t rule in favour of both sides of a dispute, so firms hire lawyers to advocate for their interests and, un-intentionally or deliberately, against the interests of their competitors, who are also hiring lawyers to do the opposite.
+The Goons which _Bullshit Jobs_ really excoriates are corporate lawyers (lawyers involved in resolving commercial disputes). Obviously courts can’t rule in favour of both sides of a dispute, so firms hire lawyers to advocate for their interests and, un-intentionally or deliberately, against the interests of their competitors, who are also hiring lawyers to do the opposite.
 
 In both cases, the resources invested in advertising or legal representation cancel out and are effectively wasted.
 
@@ -145,7 +145,7 @@ Which can lead to make-work schemes, and low rates of productivity that wouldn�
 
 Graeber does point out that the same phenomenon occurs in large corporations in the private sector as well though.
 
-### V. Graeber’s Categories Could be Better  
+### V. Graeber’s Categories Could be Better  
 
 Overall though, I don’t think anyone who likes economics is going to be that impressed with these categories, mostly they’re just examples of poor incentive structures and a couple don’t even look especially BS.
 
@@ -157,7 +157,7 @@ You’ll get box tickers anywhere the boss of an enterprise doesn’t have perfe
 
 Also, Graeber is an anarchists and heavily implies in the book that the epidemic of BS jobs is due to capitalism. But, even though he does document plenty of BS jobs in the private sector, most of his categories look like things that you’d get under any economic system.
 
-The USSR was infamous for its box tickers and taskmasters, for example.  
+The USSR was infamous for its box tickers and taskmasters, for example.  
 
 I’m not sure how he’d suggest getting rid of task Masters and box tickers other than just managing the economy better, somehow. Although I suppose anarchism suffers from the opposite problem of perverse incentives and probably wouldn’t have flunkies.
 
@@ -167,7 +167,7 @@ I would have liked more nuance in Graeber’s theoretical categories, and even t
 
 ### VI. Are there Better Ways to Explain Bullshit Jobs?
 
-If Bullshit Jobs had been written by an economist it might have mentioned any economic theory whatsoever Adam Smith’s concept of “unproductive labour”. It’s one of the central theses of Wealth of Nations, but has largely been forgotten; the opposite of the famous invisible hand, that he barely mentions.
+If Bullshit Jobs had been written by an economist it might have mentioned any economic theory whatsoever Adam Smith’s concept of “unproductive labour”. It’s one of the central theses of Wealth of Nations, but has largely been forgotten; the opposite of the famous invisible hand, that he barely mentions.
 
 Smith has a kinda weird definition of “productive”; it’s anything funded by capital, as opposed to wages or rents, and it has to produce a lasting physical object.
 
@@ -175,7 +175,7 @@ So he really disapproves of servants, soldiers and anything to do with the churc
 
 Famously, Smith also writes a lot about how currency is an illusionary form of wealth, and how Spanish gold hordes (the main form of currency in his time) were masking an unproductive real economy. He also rails against the waste of labour in gold mines.
 
-  ![](https://acximages.ennals.org/images/2023-book-reviews/1dc6b7f301496e48.png)
+  ![](https://acximages.ennals.org/images/2023-book-reviews/1dc6b7f301496e48.png)
 
 I can understand why Smith considers some service sector jobs and landlords to be unproductive, but I’m not sure the Take That tribute act at your mums’ third wedding deserves the same indictment
 
@@ -183,7 +183,7 @@ I think,by unproductive, Smith mostly means “things that don’t contribute to
 
 The insight that the means of exchanging value shouldn’t be confused with real value, and that it imposes a cost on the real economy seems like it might be relevant to the idea of BS jobs. But it’s not a well fleshed out theory in Wealth of Nations.
 
-Building on Smith, Marx defines “unproductive labour” as [insert 3000 word definition about social relations, surplus-value, class society, modes of production, constant and variable capital, accumulation, dialectics, commodity production, M-C-M, exchange and use values, superstructures, materialism, and detailing all 12 possible interpretations]. The key insight though is that capitalism has transaction costs.
+Building on Smith, Marx defines “unproductive labour” as [insert 3000 word definition about social relations, surplus-value, class society, modes of production, constant and variable capital, accumulation, dialectics, commodity production, M-C-M, exchange and use values, superstructures, materialism, and detailing all 12 possible interpretations]. The key insight though is that **capitalism has transaction costs**.
 
 Capitalism is a decentralised system, with no central authority collecting information or assigning tasks. Economic actors rely on their own knowledge (explicit or implicit) to decide on which actions to take, organise their own work, and arrange transactions with other actors themselves. They also need ways to document and enforce those transactions.
 
@@ -199,7 +199,7 @@ The portion of the stock market not devoted to speculation aggregates knowledge 
 
 The estate agent we accused of doing BS work earlier might object:
 
- “Yeah, I’m paid to inflate the price of a house which is good for the seller but equally bad for the buyer. But people need to be able to buy and sell houses, I facilitate that, so my job’s only 50% BS.”
+ “Yeah, I’m paid to inflate the price of a house which is good for the seller but equally bad for the buyer. But people need to be able to buy and sell houses, I facilitate that, so my job’s only 50% BS.”
 
 But people only need to buy and sell houses if there actually is a housing market.
 
@@ -217,7 +217,7 @@ Any economy needs organisation and these jobs provide that. But they provide it 
 
 Looking at planned economies, these kinds of jobs don’t exist and their equivalents in the central-bureaucracy employ fewer people.
 
-At its height, the Soviet planning Bureau, Gosplan, had a staff of just a few thousand bureaucrats, for an economy of almost 300 million people, for example. And those bureaucrats were only equipped with abacuses.  
+At its height, the Soviet planning Bureau, Gosplan, had a staff of just a few thousand bureaucrats, for an economy of almost 300 million people, for example. And those bureaucrats were only equipped with abacuses.  
 
 Obviously, Soviet bureaucracy was more extensive than just its planning office, but it’s hard to deny the centralised nature of the USSR’s economy provided economies of scale when it came to organisation and information processing tasks. It’s most apparent in the skylines of Soviet cities and their Western counterparts, typically the former was dominated by factory chimneys, whereas New York and London are almost entirely high rise offices.
 
@@ -231,15 +231,15 @@ In the 21st-century, and in Britain especially, changing is increasingly becomin
 
 In a chapter on Rusia’s transition to capitalism, The Commanding Heights, a book about 20th-century economic history jokes:
 
-“Private property can exist only within a framework of contracts and laws, and the [Russian State Committee on the Management of State Property] ran up against a problem that would astonish people in a country like the United States—an acute shortage of lawyers.”  
+“_Private property can exist only within a framework of contracts and laws, and the [Russian State Committee on the Management of State Property] ran up against a problem that would astonish people in a country like the United States—an acute shortage of lawyers._”  
 
 Growth of US lawyers:
 
- ![](https://acximages.ennals.org/images/2023-book-reviews/46981ecde6bd637e.png)
+ ![](https://acximages.ennals.org/images/2023-book-reviews/46981ecde6bd637e.png)
 
 Commanding Heights also had a section about China developing a marketing sector after Deng Xiaoping’s reforms.
 
-[Leaked footage](https://www.youtube.com/watch?v=UgSORyrcHJo&ab_channel=ThatLook) from inside the growing [British marketing sector](https://www.youtube.com/watch?v=kug7weZGiyc&ab_channel=ThatLook):
+[Leaked footage](https://www.youtube.com/watch?v=UgSORyrcHJo&ab_channel=ThatLook) from inside the growing [British marketing sector](https://www.youtube.com/watch?v=kug7weZGiyc&ab_channel=ThatLook):
 
 As well as in ex-communist countries, employment in changing jobs has also grown in the never-comunist-but-increasingly-market-oriented-since-the-70s-countires. When Britain or the US get referred to as having become service economies, most of those new service jobs are forms of changing.
 
@@ -247,7 +247,7 @@ Outside the UK, the cost of changing is perhaps most obvious in US healthcare. M
 
 You can make excuses for US healthcare like “it funds research”, “Americans have less healthy lifestyles” and “the wealthy pay for expensive but low cost treatments, whereas public healthcare allocates treatment in a way that optimises the population life expectancy.” All true, but 4x is a truly immense cost disparity that can’t all be explained circumstantially.
 
- ![](https://acximages.ennals.org/images/2023-book-reviews/85c4294f6d709625.png)
+ ![](https://acximages.ennals.org/images/2023-book-reviews/85c4294f6d709625.png)
 
 Possibly a large part of the disparity is because US healthcare involves large numbers of workers not directly involved in providing healthcare.
 
@@ -261,7 +261,7 @@ If you think the UK has a housing market that’s comparably dysfunctional to th
 
 In the last few decades British universities have transitioned from a more public model to a more private one, subsequently there has been an explosion of administration on campuses.
 
- ![](https://acximages.ennals.org/images/2023-book-reviews/27b1748079d1f411.png)
+ ![](https://acximages.ennals.org/images/2023-book-reviews/27b1748079d1f411.png)
 
 There’s also large sections of the financial sector that serve dubious purposes.
 
@@ -315,9 +315,9 @@ When Graeber explains why he thinks BS jobs exist, even though in theory market 
 
 He even goes so far as to claim that many workplaces are insulated from market forces and that the relationships between people in corporations is more similar to vassal relations between lords and serfs than buyers and sellers, in that they from a hierarchy that’s more straightforwardly social rather than economic, something Graeber terms “managerial feudalism”.
 
-“[C]orporations are less and less about making, building, fixing, or maintaining things and more and more about political processes of appropriating, distributing, and allocating money and resources.”
+“_[C]orporations are less and less about making, building, fixing, or maintaining things and more and more about political processes of appropriating, distributing, and allocating money and resources._”
 
-“Under classic capitalist conditions of this sort it does indeed make no sense to hire unnecessary workers. Maximizing profits means paying the least number of workers the least amount of money possible; in a very competitive market, those who hire unnecessary workers are not likely to survive. Of course, this is why doctrinaire libertarians, or, for that matter, orthodox Marxists, will always insist that our economy can’t really be riddled with bullshit jobs; that all this must be some sort of illusion. But by a feudal logic, where economic and political considerations overlap, the same behavior makes perfect sense.”
+“_Under classic capitalist conditions of this sort it does indeed make no sense to hire unnecessary workers. Maximizing profits means paying the least number of workers the least amount of money possible; in a very competitive market, those who hire unnecessary workers are not likely to survive. Of course, this is why doctrinaire libertarians, or, for that matter, orthodox Marxists, will always insist that our economy can’t really be riddled with bullshit jobs; that all this must be some sort of illusion. But by a feudal logic, where economic and political considerations overlap, the same behavior makes perfect sense._”
 
 Managerial feudalism seems like slightly too vague a concept to be any use in informing policy choices. I think Graeber’s anti-feudalism reforms would have just been anarchism.
 
@@ -361,12 +361,12 @@ In a way, Bullshit Jobs is the more general version of The Case Against Educatio
 
 Personally, I think it’s likely that BS jobs are a real and a widespread phenomena like Graeber claims. And, hopefully I’ve provided some extra theoretical grounding for the idea, but it’ll take a much more rigorous book/book-review to convince any sceptics.
 
-I think there’s a big opportunity for someone to write a book arguing that a large number of jobs are pointless more persuasively than Bullshit Jobs manages. And maybe gives the idea a more respectable name. But it’d need to be an incredibly ambitious book given the scope of the claim.
+I think there’s a big opportunity for someone to write a book arguing that a large number of jobs are pointless more persuasively than _Bullshit Jobs_ manages. And maybe gives the idea a more respectable name. But it’d need to be an incredibly ambitious book given the scope of the claim.
 
 I’d like bullshit jobs to be more widely discussed, and think they should be a major consideration in comparing different economic systems and policies. But that’s difficult when they’re so nebulous.
 
 I can accept that the 40 hour work week was part of the Faustian pact that allowed humanity to live indoors and past the age of 36. But I still find Bullshit Jobs implication, that it’s not easy to reduce the total time people spend working, quite discouraging. Even with consistent technological growth, a future full of pointless make-work looks entirely possible, maybe even likely.
 
-Hopefully Keynes’ great-grandchildren can look forward to their promised 15 hour work-week.
+Hopefully Keynes’ _great_-grandchildren can look forward to their promised 15 hour work-week.
 
 * * *

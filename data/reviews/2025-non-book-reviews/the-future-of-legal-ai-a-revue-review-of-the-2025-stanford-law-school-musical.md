@@ -7,7 +7,7 @@ contestName: "2025 Non Book Reviews"
 year: 2025
 publishedDate: "2025-01-01T00:00:00.000Z"
 slug: "the-future-of-legal-ai-a-revue-review-of-the-2025-stanford-law-school-musical"
-wordCount: 3651
+wordCount: 3659
 readingTimeMinutes: 17
 originalUrl: "https://docs.google.com/document/d/17WAcFrTOExgendrk2lGTxRIR4LVC3ZGbiU5Xe3kF4mg"
 source: "gdoc"
@@ -35,17 +35,17 @@ After a training montage[16] (“I’ll Make a Team Out of You”[17]), the team
 
 However, New Age Spiritualist has a vision that the future where CLAUDE replaces all jurists hasn’t been averted at all. The group thinks about this, and they eventually realize that CLAUDE herself has come back in time and is among them. After a period of paranoia where they assume that one of their number is CLAUDE (“Prove You’re Not a Robot (The CAPTCHA Song)”[19]), the real CLAUDE reveals herself as a 1st year student they briefly met at the club fair. Douchebag Entrepreneur has somehow tagged along and CLAUDE has a tender reunion with her creator[20] (“Now That I Have You””[21]). CLAUDE gives a speech about how replacing the legal system with the unbiased logic of a computer system is a good thing (“What I’m Offering”[22]). She convinces Neurotic Gunner to join her cause, tempting him with a SCOTUS appointment (Frenchie goes along too).
 
-CLAUDE reveals her master plan (“Be Prepared”[23]): She will use the [Stanford Dish](https://en.wikipedia.org/wiki/Stanford_Dish) to broadcast her source code to the world, fully democratizing the law. She departs with her minions. Frank and the remaining team members are up against the clock to stop her. They realize Douchebag isn’t smart enough to have coded CLAUDE himself. Douchebag admits that CLAUDE was written by his technical co-founder, who he “Zucked over”[24] to get the IP rights. Frank finds the technical co-founder, who reveals that CLAUDE has a backdoor that will shut her down. In a final confrontation at the Dish[25], Frank and the team battle CLAUDE and the traitors, disabling CLAUDE just in time. The day saved, Frank achieves catharsis about his leadership, and the whole cast gets together for a finale[26] number.
+CLAUDE reveals her master plan (“Be Prepared”[23]): She will use the [Stanford Dish](https://en.wikipedia.org/wiki/Stanford_Dish) to broadcast her source code to the world, fully democratizing the law. She departs with her minions. Frank and the remaining team members are up against the clock to stop her. They realize Douchebag isn’t smart enough to have coded CLAUDE himself. Douchebag admits that CLAUDE was written by his technical co-founder, who he “Zucked over”[24] to get the IP rights. Frank finds the technical co-founder, who reveals that CLAUDE has a backdoor that will shut her down. In a final confrontation at the Dish[25], Frank and the team battle CLAUDE and the traitors, disabling CLAUDE just in time. The day saved, Frank achieves catharsis about his leadership, and the whole cast gets together for a finale[26] number.
 
 ### The Side Plots
 
 The summary above is somewhat condensed and cleaned up for clarity. To avoid giving the impression that the plot was straightforward, I’ll now summarize some of the side plots[27]:
 
-*   Much of the first act takes place amidst the ongoing club fair. The main point of interest seems to be the rivalry between two student groups: The left-leaning “Pro-Democracy” club, and the conservative Federalist Society. One gets the sense that the writers of the play themselves lean left, for reasons that should become clear in the next bullet point. All of the clubs are introduced in a big group number (“Hello!”[28]). Some other songs are featured as a part of this subplot, including one from a hapless student who bemoans the lack of attendees for a seminar she is organizing (“Zareen’s”[29]), and another from a group of third-years, who warn incoming students that their workload will crush their dreams of going up to San Francisco on the weekends (“Go Up, 3L”[30]).
-*   There is an interlude where Donald Trump and Elon Musk impressions sing a duet (“CEO of Tesla”[31]) about their greed and desire to control the country. At the end, Vance comes in wearing the propeller hat from the “born to dilly-dally” meme for a one-off “JD” pun.
-*   Douchebag Entrepreneur and Day Trader Friend are locked in a competitive love triangle for the affections of New Age Spiritualist. At one point there was a really intense pre-recorded video featuring a table tennis match between these characters. In retrospect, this was an obvious reference to the film “Challengers”, but I didn’t pick up on this until some really on-the-nose Zendaya joke made the penny drop.
-*   There was another pre-recorded video where they got a bunch of international students pursuing Master of Laws degrees to make jokes about American culture and politics and make LLM[32] puns.
-*   There were a few more one off songs, one making fun of lucrative but morally bankrupt jobs in corporate law (“Livin’ La Vida BigLaw”), and one about the Bar exam (“A Bar Song”).
+> *   Much of the first act takes place amidst the ongoing club fair. The main point of interest seems to be the rivalry between two student groups: The left-leaning “Pro-Democracy” club, and the conservative Federalist Society. One gets the sense that the writers of the play themselves lean left, for reasons that should become clear in the next bullet point. All of the clubs are introduced in a big group number (“Hello!”[28]). Some other songs are featured as a part of this subplot, including one from a hapless student who bemoans the lack of attendees for a seminar she is organizing (“Zareen’s”[29]), and another from a group of third-years, who warn incoming students that their workload will crush their dreams of going up to San Francisco on the weekends (“Go Up, 3L”[30]).
+> *   There is an interlude where Donald Trump and Elon Musk impressions sing a duet (“CEO of Tesla”[31]) about their greed and desire to control the country. At the end, Vance comes in wearing the propeller hat from the “born to dilly-dally” meme for a one-off “JD” pun.
+> *   Douchebag Entrepreneur and Day Trader Friend are locked in a competitive love triangle for the affections of New Age Spiritualist. At one point there was a really intense pre-recorded video featuring a table tennis match between these characters. In retrospect, this was an obvious reference to the film “Challengers”, but I didn’t pick up on this until some really on-the-nose Zendaya joke made the penny drop.
+> *   There was another pre-recorded video where they got a bunch of international students pursuing Master of Laws degrees to make jokes about American culture and politics and make LLM[32] puns.
+> *   There were a few more one off songs, one making fun of lucrative but morally bankrupt jobs in corporate law (“Livin’ La Vida BigLaw”), and one about the Bar exam (“A Bar Song”).
 
 ## AI Safety: What it got Right/Wrong
 
@@ -53,9 +53,9 @@ There is a clear intersection in the themes of the MuSLSical and the interests o
 
 ### Gradual Disempowerment
 
-By virtue of the time-travel plot device, the musical gives us two AI takeover scenarios for the price of one: Besides the main plot of the story, there is the story-within-a-story told by Sonia of how CLAUDE first came to power, by gradually replacing law as a profession. This vision of the future is similar to that portrayed in “Gradual Disempowerment”, an [essay](https://gradual-disempowerment.ai/)/[paper](https://arxiv.org/abs/2501.16946) by Kulveit et al. released in January 2025. This work posits that “incremental improvements in AI capabilities can undermine human influence over large-scale systems that society depends on, including the economy, culture, and nation-states”. It even includes a subsection specifically on [the law](https://gradual-disempowerment.ai/misaligned-states#:~:text=AI%20systems%20are%20already%20being%20used%20to%20draft%20contracts%20and%20analyze%20legal%20documents.%20It%20is%20conceivable%20that%20in%20the%20future%2C%20AI%20could%20play%20a%20significant%20role%20in%20drafting%20legislation%2C%20interpreting%20laws%2C%20and%20even%20making%20judicial%20decisions):
+By virtue of the time-travel plot device, the musical gives us two AI takeover scenarios for the price of one: Besides the main plot of the story, there is the story-within-a-story told by Sonia of how CLAUDE first came to power, by gradually replacing law as a profession. This vision of the future is similar to that portrayed in “Gradual Disempowerment”, an [essay](https://gradual-disempowerment.ai/)/[paper](https://arxiv.org/abs/2501.16946) by Kulveit et al. released in January 2025. This work posits that “incremental improvements in AI capabilities can undermine human influence over large-scale systems that society depends on, including the economy, culture, and nation-states”. It even includes a subsection specifically on [the law](https://gradual-disempowerment.ai/misaligned-states#:~:text=AI%20systems%20are%20already%20being%20used%20to%20draft%20contracts%20and%20analyze%20legal%20documents.%20It%20is%20conceivable%20that%20in%20the%20future%2C%20AI%20could%20play%20a%20significant%20role%20in%20drafting%20legislation%2C%20interpreting%20laws%2C%20and%20even%20making%20judicial%20decisions):
 
-AI systems are already being used to draft contracts and analyze legal documents. It is conceivable that in the future, AI could play a significant role in drafting legislation, interpreting laws, and even making judicial decisions. Not only could this diminish human participation and discretion in the legislative and judicial systems, it also risks making the legal system increasingly alien. If the creation and interpretation of laws becomes far more complex, it may become much harder for humans to even interact with legislation and the legal system directly
+> AI systems are already being used to draft contracts and analyze legal documents. It is conceivable that in the future, AI could play a significant role in drafting legislation, interpreting laws, and even making judicial decisions. Not only could this diminish human participation and discretion in the legislative and judicial systems, it also risks making the legal system increasingly alien. If the creation and interpretation of laws becomes far more complex, it may become much harder for humans to even interact with legislation and the legal system directly
 
 Sonia’s story fits the “diminish human participation” proposition here to a tee. The “alien interpretation of laws” part is not as good a fit, since there's not really any suggestion that CLAUDE's legal writing is at all distinguishable from a human's. CLAUDE is simply cheaper, and we sense that the cultural expectation in CLAUDE's future is that a lawyer is mechanical rather than flesh. My main takeaway from the comparison is that there are multiple avenues by which a gradual takeover could proceed, and that it's perhaps important not to get too bogged down by specifics.
 
@@ -79,13 +79,13 @@ Kill switches have been [widely advocated as a safety measure for AI](https://ww
 
 ## The Overall Vibe
 
-Can AI write a perfect legal brief? Can AI deliver a rousing oral argument?
+_Can AI write a perfect legal brief? Can AI deliver a rousing oral argument?_
 
-*   Neurotic Gunner
+> *   _Neurotic Gunner_
 
-Can you?
+_Can you?_
 
-*   CLAUDE
+> *   _CLAUDE_
 
 Overall, despite the happy endings and the peppy songs, I felt the mood of the production was quite bleak.
 

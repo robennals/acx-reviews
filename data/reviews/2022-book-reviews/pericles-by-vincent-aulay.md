@@ -7,7 +7,7 @@ contestName: 2022 Book Reviews
 year: 2022
 publishedDate: '2026-02-06T07:23:14.487Z'
 slug: pericles-by-vincent-aulay
-wordCount: 3766
+wordCount: 3769
 readingTimeMinutes: 17
 originalUrl: >-
   https://docs.google.com/document/d/1kQUUJhv-MpLawby2j4zXLZPDG6ligWd5xpIjH8UmWdw
@@ -17,7 +17,7 @@ tags:
   - Politics
 ---
 
-[World’s Greatest Propaganda Construct](https://aussiesta.wordpress.com/2020/12/16/pericles-the-worlds-greatest-propaganda-construct/) 
+_[World’s Greatest Propaganda Construct](https://aussiesta.wordpress.com/2020/12/16/pericles-the-worlds-greatest-propaganda-construct/)_ 
 
 The Athenian strongman Pericles (495-429 BC) epitomizes the triumph of lies and propaganda in Classical Greece.
 
@@ -29,7 +29,7 @@ A tyrant under most definitions of the term, or at least an obviously precursor 
 
 That this power-hungry manipulator who led his city head-on not only to the most despicable imperialist power politics, but also into a gruelling, pointless, never-ending, destructive, ultimately lost war against Sparta, is commonly cited as the epitome of democracy (1) is perhaps the greatest joke ever played on us by posterity. Pericles is the world’s greatest propaganda construct.
 
-                                                                      \*
+                                                                      \*
 
 There’s a huge amount of studies on Athenian democracy, but few recent biographies of Pericles. The most comprehensive modern biography is Vincent Aulay’s prize-winning, French-language “Péricles” (2014), which is pretty conventional in many ways — particularly his persistent attempts to show Pericles in the best possible light and minimize the underlying tensions in Athens and the wider Greek world between the Socratic/Platonic school of philosophers and their sworn enemies, the democrats and Sophists — but still highly informative.
 
@@ -89,7 +89,7 @@ Many others say that the people was first led on by him into allotments of publi
 
 Pericles surrounded himself by the best and brightest, whom he regaled with his wealth and power. As stated before, he twisted the law to favor his well-known non-Athenian companion and brothel-keeper Aspasia and turned Athenian bully-style leadership of the Delian League into full-on imperialism.
 
-In 449 BC, the Peace of Callias with the Persians was followed by revolts against such imperialism, which Athenian troops crushed, first in Eubea, and then in Samos.  According to Plutarch, the talk in Athens was that it was Aspasia, who came from Miletus, who pushed Pericles to attack Miletus’ old foe Samos, and that Pericles only gave way to gratify her; others have gone as far as blaming Aspasia for the later, and much more destructive, Athenian war with Sparta.
+In 449 BC, the Peace of Callias with the Persians was followed by revolts against such imperialism, which Athenian troops crushed, first in Eubea, and then in Samos.  According to Plutarch, the talk in Athens was that it was Aspasia, who came from Miletus, who pushed Pericles to attack Miletus’ old foe Samos, and that Pericles only gave way to gratify her; others have gone as far as blaming Aspasia for the later, and much more destructive, Athenian war with Sparta.
 
 Regardless of the veracity of Aspasia-related gossip, the fact remains that Pericles’ democracy, a light of freedom for the people, was a prison for the peoples, paid for by the peoples, overseen by his street gangs and assemblies crammed with his clients and cronies.
 
@@ -125,8 +125,8 @@ In Plato’s dialogue “The Republic,” Socrates openly objects to the democra
 
 These promises were empty. Like Alcibiades and Anaxagoras before him, Socrates, a well-known friend of the Tyrants and enemy of the democrats, was put on trial for religious reasons thinly hiding political motives (2); Anytus, an upper-class, well-known democrat who had often been mocked and probably cuckolded by Alcibiades, led the prosecution in front of 500 juries. It was all exceedingly democratic, and the greatest genius of antiquity was sentenced, by a very large democratic majority, to death.
 
-1.       This is from a New Yorker’s article [published in 2020](https://www.newyorker.com/culture/culture-desk/the-athenian-plague-a-cautionary-tale-of-democracys-fragility?utm_source=twitter&utm_medium=social&utm_campaign=onsite-share&utm_brand=the-new-yorker&utm_social-type=earned): “‘Future ages will wonder at us, as the present age wonders at us now,’ Pericles, the great Athenian statesman, declared in his funeral oration, a celebrated speech in the winter of 431–430 B.C.E. He wasn’t wrong. We continue to admire Athens’s architectural splendor, stage its tragedies and comedies, and marvel, especially, at much that its democracy (the world’s first) wrought: participatory government, equal treatment before the law in private disputes, a distaste for class consciousness, juries made up of citizens, and tolerance about others’ personal lives.”
-
-2.      The legal backbone for Socrates’ prosecutions, as well as others before him, was a decree passed under Pericles, and pushed by Diopeithes, a seer, sometime before 432 BC. The decree looked to curb impiety, targeted first those who did not acknowledge divine things.
+> 1.       _This is from a New Yorker’s article_ _[published in 2020](https://www.newyorker.com/culture/culture-desk/the-athenian-plague-a-cautionary-tale-of-democracys-fragility?utm_source=twitter&utm_medium=social&utm_campaign=onsite-share&utm_brand=the-new-yorker&utm_social-type=earned)__: “‘Future ages will wonder at us, as the present age wonders at us now,’ Pericles, the great Athenian statesman, declared in his funeral oration, a celebrated speech in the winter of 431–430 B.C.E. He wasn’t wrong. We continue to admire Athens’s architectural splendor, stage its tragedies and comedies, and marvel, especially, at much that its democracy (the world’s first) wrought: participatory government, equal treatment before the law in private disputes, a distaste for class consciousness, juries made up of citizens, and tolerance about others’ personal lives.”_
+>
+> 2.      _The legal backbone for Socrates’ prosecutions, as well as others before him, was a decree passed under Pericles, and pushed by Diopeithes, a seer, sometime before 432 BC. The decree looked to curb impiety, targeted first those who did not acknowledge divine things._
 
 * * *

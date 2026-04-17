@@ -29,9 +29,9 @@ I often think that my father must have had some serious game to be able to pull 
 
 ### Crime as Illness
 
-Alcohol and drug addictions are considered mental illnesses under The Diagnostic and Statistical Manual of Mental Disorders (or the DSM for short) – which is the gold-standard and often final say of what is and is not deemed to be a true diagnosable mental illness.
+Alcohol and drug addictions are considered mental illnesses under _The Diagnostic and Statistical Manual of Mental Disorders_ (or the DSM for short) – which is the gold-standard and often final say of what is and is not deemed to be a true diagnosable mental illness.
 
-Psychiatrist Thomas Szasz, in his seminal work, The Myth of Mental Illness – for which this piece is a loosely formed book review – argues that mental illnesses aren’t real. To support his argument, Szasz underscores the fact that addictions and other disfavored behaviors which do not really seem to be diseases have been deemed so as mental illnesses.
+Psychiatrist Thomas Szasz, in his seminal work, _The Myth of Mental Illness_ – for which this piece is a loosely formed book review – argues that mental illnesses aren’t real. To support his argument, Szasz underscores the fact that addictions and other disfavored behaviors which do not really seem to be diseases have been deemed so as mental illnesses.
 
 What is a disease really? Is alcoholism or addiction in general, a disease, or are they the results of bad habits, poor circumstances, and a lack of sufficient discipline to overcome them? The inability to check appetites, whether the result of personal failings or due to bad surroundings and upbringings is now considered a disease, but previously it was considered sin, moral failing, or simply a crime.
 
@@ -43,7 +43,7 @@ Now I think of mental illness more like branding and packaging applied to a rang
 
 ### Being sick is who I am
 
-R.D. Liang who was both a psychiatrist and early leader of the Anti-Psychiatry movement harps on the arbitrariness of how we classify bad behavior as mental illness. Why are some actions and habits considered mentally ill, while other even more strange and dangerous ones considered healthy? He relates a tale of a female patient he attended who was deemed schizophrenic for believing she had an atomic bomb in her womb. Why was she crazy when there were actual men who have detonated atomic bombs that were deemed completely sane? Who defines madness in a mad world?
+R.D. Liang who was both a psychiatrist and early leader of the Anti-Psychiatry movement harps on the arbitrariness of how we classify bad behavior as mental illness. Why are some actions and habits considered mentally ill, while other even more strange and dangerous ones considered healthy? He relates a tale of a female patient he attended who was deemed schizophrenic for believing she had an atomic bomb in her womb. Why was she crazy when there were actual men who have detonated atomic bombs that were deemed completely sane? _Who defines madness in a mad world?_
 
 For Liang, much of mental illness was about communication and identity. People, unable to communicate through perhaps more straightforward or legible routes act out to express who they are. Szasz agrees, to use his example, a battered wife[2] may not be able to get the attention and care she desires from her spouse and neighbors, but if she acts out, if she becomes hysterical, then loads of attention may come her way, she may even get someone to listen.
 
@@ -69,19 +69,19 @@ After my mother’s second suicide attempt, during my sophomore year in college,
 
 A few years after her second suicide attempt, my mother is visiting me in New York City. On the last day of her stay she tells me over dinner, “I could never try to kill myself again, because of you and your sister. I love you both too much. I want to live for you.” She meant it to be loving and self-sacrificial, but I left her that evening feeling disgusted.
 
-Why do we take suffering so seriously?
+_Why do we take suffering so seriously?_
 
 Nietzsche deemed the teachings of the Christian church to be the spirit of gravity – embodying an ascetic and life-hating worldview that took everything all too seriously. What are humans but the animal that tells jokes! The idealized man he envisioned would be able to laugh and dance through all serious moments.
 
 I have always been a fan of comedy and spend much of what little free time I have on the very fringes and bottom rung of the comedy scene in New York City, doing improv shows and 5-minute stand-up routines at open mics. A leitmotif I find among so many comedians is using mental illness as a tragic punchline: “everything is terrible//we’re all fucked up in the head, HAHA!” strikes me more as pathetic than funny.
 
-Ironically, comedy and joking were a cornerstone of our household growing up. Between the fights and the weird manipulative behavior (and even entangled within them) was relentless good-humored teasing and acting out of bits. My parents constantly used punchlines or quips to wave away tension around their problems; they were used as artful counter-maneuvers to dodge much tougher discussions.  Our family didn’t take anything seriously, until we took it all-too seriously, but the same things that make you laugh make you cry.
+Ironically, comedy and joking were a cornerstone of our household growing up. Between the fights and the weird manipulative behavior (and even entangled within them) was relentless good-humored teasing and acting out of bits. My parents constantly used punchlines or quips to wave away tension around their problems; they were used as artful counter-maneuvers to dodge much tougher discussions.  Our family didn’t take anything seriously, until we took it all-too seriously, but the same things that make you laugh make you cry.
 
 By itself I don’t believe humor in tough situations is a bad thing at all. But it must be used in conjunction with sober analysis and diligent work to address and solve issues, not simply to sweep them under the rug. I inherited the ability to crack a joke even around the darkest subjects – and I look at this as a blessing not a flaw. When I first told my girlfriend (now wife) of my mother’s issues, I mentioned her two attempts to take her own life with the caveat that: “She’s really into suicide as a hobby, she’s just terrible at it.”
 
 Perhaps I am simply just making the same mistakes as my mother.
 
-Defining the indefinite
+_Defining the indefinite_
 
 I was the one that found my mother after her second suicide attempt. I remember coming from a basketball workout, walking into my parent’s apartment, relieved to escape the June heat. Just beyond the dining area and kitchen I found my mother laying facedown on the living room floor with a few empty bottles and pill capsules scattered about. Growing up my mother always said that I was just like her. I have my dad’s tall stature and darker skin, but my mother always told me “You have my brain.”
 
@@ -109,29 +109,29 @@ The day I was supposed to kill myself I was nineteen years old, it was just a fe
 
 ### Solving the wrong problems
 
-In The Myth of Mental Illness, Szasz argues that if something is an illness then it is a disease of the physical body. If chemicals are imbalanced or neurotransmitters are deficient in the brain leading to erratic behavior or thoughts, then it is an issue of the physical body not the mind. A good comparison would be the symptoms of fatigue and lethargy that accompany a cold. We know the tiredness and inactivity are due to an infection of the respiratory system and treat it as such – even though it shares many of the symptoms of depression it is not considered a mental illness.
+In _The Myth of Mental_ Illness, Szasz argues that if something is an illness then it is a disease of the physical body. If chemicals are imbalanced or neurotransmitters are deficient in the brain leading to erratic behavior or thoughts, then it is an issue of the physical body not the mind. A good comparison would be the symptoms of fatigue and lethargy that accompany a cold. We know the tiredness and inactivity are due to an infection of the respiratory system and treat it as such – even though it shares many of the symptoms of depression it is not considered a mental illness.
 
 In short, Sazsz argues that if mental symptoms come from a physical illness, we should consider it just a physical illness and not segregate diseases into a false dichotomy of mental vs. physical. Further, if mental symptoms do not have a physical cause, then in Szasz’s eyes, they are not illnesses to be addressed by medicine but rather are a question of social adjustment, personal character, morals, ethics, culture, religious belief, even politics and economics.
 
 I do not agree with Szasz completely – I have both stylistic and philosophical qualms with his argument. But I think there is something to gain from his view that the causes of mental illness may be more important than addressing symptoms, and perhaps even that we shouldn’t hyper-focus on symptoms at all. His attack on the idea of mental illness in this regard could be considered an attempt to look more holistically at the etiology of mental disorders.
 
-In Better than Well, Carl Elliott traces how Social Phobia was first officially deemed a disease in 1987 in the DSM’s third revision. By 1994 a softer and more patient friendly alternative title for the disease, Social Anxiety Disorder, was entered as an official diagnosis. And by 1999 the first pharmaceutical drug to treat anxiety, Paxil, was released by GlaxoSmithKline. The aggressive advertising campaign for Paxil stated, “Over 10 million people suffer from social anxiety and a chemical imbalance could be to blame.”
+In _Better than Well,_ Carl Elliott traces how Social Phobia was first officially deemed a disease in 1987 in the DSM’s third revision. By 1994 a softer and more patient friendly alternative title for the disease, Social Anxiety Disorder, was entered as an official diagnosis. And by 1999 the first pharmaceutical drug to treat anxiety, Paxil, was released by GlaxoSmithKline. The aggressive advertising campaign for Paxil stated, “Over 10 million people suffer from social anxiety and a _chemical imbalance could be to blame_.”
 
 Szasz notes that patient and doctor are inclined to bracket much of the external world and only examine issues and disease in terms of bodily function and illness. A man who is having issues with his marriage or job may come to a doctor in order to relieve his resultant ulcers and insomnia. The physician prescribes antacids and tranquillizers, and the man is given surface level relief while gaining more leeway for the cause of his issues, his social situation, to fester and deteriorate further.
 
-Joel Salatin notes in Folks, This Ain’t Normal, that cows evolved foraging on savannah type grassland environments. In the latter half of the 20th century, under the industrial agricultural revolution, big corporate interests moved cows from free-range pastures to stockpiled feedlots, where it was cheaper to feed them subsidized corn (and pieces of dead cow) than harvested grass. This new diet causes acidosis in the cows’ digestive tracks and allows for E. Coli 1057:H7, which causes hemorrhagic diarrhea and even death in humans, to proliferate in the cows’ intestines and rumen. These feedlots also pack the cattle cheek-to-jowl and leave them mired in their own feces, which forces the farmers to administer copious amounts of antibiotics to stave off infections. Due to the high intensity, speed, and automation of the industrial slaughterhouse the fecal matter is difficult to remove during butchering and processing. The solution to all this from the FDA and USDA has been to irradiate the feces laden meat.
+Joel Salatin notes in _Folks, This Ain’t Normal_, that cows evolved foraging on savannah type grassland environments. In the latter half of the 20th century, under the industrial agricultural revolution, big corporate interests moved cows from free-range pastures to stockpiled feedlots, where it was cheaper to feed them subsidized corn (and pieces of dead cow) than harvested grass. This new diet causes acidosis in the cows’ digestive tracks and allows for E. Coli 1057:H7, which causes hemorrhagic diarrhea and even death in humans, to proliferate in the cows’ intestines and rumen. These feedlots also pack the cattle cheek-to-jowl and leave them mired in their own feces, which forces the farmers to administer copious amounts of antibiotics to stave off infections. Due to the high intensity, speed, and automation of the industrial slaughterhouse the fecal matter is difficult to remove during butchering and processing. The solution to all this from the FDA and USDA has been to irradiate the feces laden meat.
 
 Similarly, raising chickens in packed industrial coops leaves many birds wallowing in their own waste. Fecal dust causes hemorrhages in their nasal passages which allow salmonella to enter into the chicken’s bloodstream. To fight off the passage of the pathogen into the chicken’s ovum, industrial processors now standardly chlorine wash all the eggs that come through their plant. While it does eradicate salmonella, it also destroys the eggs’ naturally protective film coat, forcing us to refrigerate our eggs, and allows chlorine to leach into the porous shells for us to consume. Further, chickens under the stress of packing in tight quarters are known to viciously attack and kill one another. To counteract this, their beaks are commonly clipped or cut off, to render their would-be murderous pecks harmless.
 
-In Mark Shepard’s Restoration Agriculture, he describes how tilling fields and monocropping of annual plants like corn and soybeans lead directly to invasions of pests and weeds and general environmental degradation. In an arms-race against these factors farms, especially overly-optimized corporate ones, will saturate their fields with pesticides, herbicides, and chemical fertilizers. These combinations often prove toxic to the actual food crops, and the solution from big ag has been to insert genetic material from foreign animal and plant species to make them more resilient. And consumers are thus provided with novel GMO food that has been sprayed with heavier and more potent doses of toxins.
+In Mark Shepard’s _Restoration Agriculture_, he describes how tilling fields and monocropping of annual plants like corn and soybeans lead directly to invasions of pests and weeds and general environmental degradation. In an arms-race against these factors farms, especially overly-optimized corporate ones, will saturate their fields with pesticides, herbicides, and chemical fertilizers. These combinations often prove toxic to the actual food crops, and the solution from big ag has been to insert genetic material from foreign animal and plant species to make them more resilient. And consumers are thus provided with novel GMO food that has been sprayed with heavier and more potent doses of toxins.
 
-Nassim Taleb in his seminal work The Black Swan, retells the Greek myth of Procrustes, an innkeeper and madman who would mutilate his guests so that they could fit his accommodations – if they were too long he would chop off their legs, if too short he would stretch them. The metaphor of a Procrustean bed exemplifies situations in which the wrong variable is being altered in order to solve a problem – often disastrously so. You can provide a man tranquillizers and antacids to alleviate the effects of his failing marriage in the same way that you can irradiate fecal laden beef and chlorinate eggs to mask the effects of industrial food processing. However, all of these treatments are attempting to alter the wrong aspect.
+Nassim Taleb in his seminal work _The Black Swan_, retells the Greek myth of Procrustes, an innkeeper and madman who would mutilate his guests so that they could fit his accommodations – if they were too long he would chop off their legs, if too short he would stretch them. The metaphor of a Procrustean bed exemplifies situations in which the wrong variable is being altered in order to solve a problem – often disastrously so. You can provide a man tranquillizers and antacids to alleviate the effects of his failing marriage in the same way that you can irradiate fecal laden beef and chlorinate eggs to mask the effects of industrial food processing. However, all of these treatments are attempting to alter the wrong aspect.
 
 ### Free Range Humans
 
 A person who is outwardly different is lobotomized, tranquillized, and put in a straightjacket. But a person who refuses to show their differences, has only done these things to him or herself internally.
 
-Ted Kaczynski (yes, the Unabomber) detailed the idea of the Power Process in his infamous manifesto Industrial Society and Its Future. The power process entails human beings’ basic desire and need for volition and self-direction in the key matters of their lives. People need to be able to make their own goals and act on them with autonomy. Fulfilling the power process is sine qua non for human flourishing; conversely, when people are divorced from being in the driver’s seat of their own lives, even if provided with all the basic human needs like food, water, and shelter, much suffering is sure to be had. Consequences include demoralization, defeatism, guilt, depression, anxiety – essentially the entire gambit of negative human emotions and behaviors.
+Ted Kaczynski (yes, the Unabomber) detailed the idea of the _Power Process_ in his infamous manifesto _Industrial Society and Its Future_. The power process entails human beings’ basic desire and need for volition and self-direction in the key matters of their lives. People need to be able to make their own goals and act on them with autonomy. Fulfilling the power process is _sine qua non_ for human flourishing; conversely, when people are divorced from being in the driver’s seat of their own lives, even if provided with all the basic human needs like food, water, and shelter, much suffering is sure to be had. Consequences include demoralization, defeatism, guilt, depression, anxiety – essentially the entire gambit of negative human emotions and behaviors.
 
 This concept is not without ample evidence. In the United States, the richest and most prosperous nation on earth, over 40 million adults have an anxiety disorder and 16 million adults have major depressive disorder meaning at least 1-in-6 people are afflicted with some form of diagnosable mental illness. As a contrast, the incidence of mental illness, distress, and suicide within the original free Native American tribes, Kalui people, Mbuti pygmies, and other “backwards” groups are at or near zero. The primary difference as I see it, is that these peoples were fully in a seat of authority to how they wanted to live their lives and were not subjugated to the seemingly endless insurmountable limitations and humiliations that come with modern living. In mainstream thought the lives of these primitive people are portrayed as a Hobbesian hell: nasty, brutish, and short; and perhaps they do face more danger and physical adversity externally than we do – but what hells are we putting ourselves through internally?
 
@@ -151,7 +151,7 @@ The psychiatric medication I took to combat my mental illness was more truly an 
 
 During my time under prescription, I was able to find a decent amount of what many would call success, I excelled in school, earned a college athletic scholarship, and landed what at the time I considered a dream job in finance in New York City. But truly I was miserable throughout most of it, I felt my success didn’t come from merit but rather how much deference I could express and how well I could please sources of abstract authority including teachers, administrators, coaches, and bosses. Though I didn’t have the language to express or perhaps even grasp it at the time, I found myself constantly entering deeper into a Faustian bargain – relinquishing my own volition and agency for material means and social standing.
 
-Ironically, the life that the medication afforded me, also lead to me leaving it behind. Being at the bottom of the totem pole at my “dream job,” I was working 60-hour weeks with an hour-long commute both ways. Between sipping from a fire hose at work and generally acclimating to the tempo presto living of Manhattan, many formerly important aspects of my life fell by the wayside. In the midst of one particularly whirlwind period, I ran out of medication and didn’t even have enough free time to refill my prescription. After two weeks of accidentally being off the meds, I came home from what felt like a particularly exhausting and trying day and felt absolutely overcome by real emotions the depths of which I hadn’t felt in ages. I punched a hole in my bedroom wall and fell on my bed weeping – it was the first time I had cried in over two-years. Realizing this, I made a promise to myself to never take any psychiatric medication ever again, I was done being numb.
+Ironically, the life that the medication afforded me, also lead to me leaving it behind. Being at the bottom of the totem pole at my “dream job,” I was working 60-hour weeks with an hour-long commute both ways. Between sipping from a fire hose at work and generally acclimating to the tempo presto living of Manhattan, many formerly important aspects of my life fell by the wayside. In the midst of one particularly whirlwind period, I ran out of medication and didn’t even have enough free time to refill my prescription. After two weeks of accidentally being off the meds, I came home from what felt like a particularly exhausting and trying day and felt absolutely overcome by _real emotions_ the depths of which I hadn’t felt in ages. I punched a hole in my bedroom wall and fell on my bed weeping – it was the first time I had cried in over two-years. Realizing this, I made a promise to myself to never take any psychiatric medication ever again, I was done being numb.
 
 ### Walking away from illness
 
@@ -165,7 +165,7 @@ A therapist once told me that she believes part of why I was depressed growing u
 
 My parents and I believed ourselves to be sick, and blamed bad brain chemistry and the lasting effects of trauma for what was more truly the effect of malformed behavior, poor diet, unhealthy social interactions, and beliefs. I was forcing myself to conform to identities and lifestyles ill-fit for me and in the process betraying myself by hoarding toxic emotions and traits that would torture me without end: apathy, narcissism, dishonesty, conformity, self-loathing. My parents believed themselves fated to a life of suffering from chemical imbalances and addictive predispositions. Yet, they fail to acknowledge their habits of victimhood and propensity for letting issues fester. I have seen both of them disregard dealing with years of psychological abuse from tyrannical parents, emotional abuse in relationships, and financial hardships because they deem themselves too incapable of doing so. This toxic cocktail when combined with an exogenously toxic world is a perfect recipe for tragedy to proliferate.
 
-My parents and I adorned ourselves with medical labels to shift agency away from our true issues (both exogenous and self-inflicted) and ingested drugs to mask the negative effects. If someone exists in a poisonous and polluted environment, and in addition chooses to lay in their own filth and waste doing nothing about their situation – you can surely treat the resultant illnesses with antibiotics and pain medications but it is not fixing any issues. Tylenol will mask a fever and suppress a cough, but it will not cure a cold.
+My parents and I adorned ourselves with medical labels to shift agency away from our true issues (both exogenous and self-inflicted) and ingested drugs to mask the negative effects. If someone exists in a poisonous and polluted environment, and in addition chooses to lay in their own filth and waste doing nothing about their situation – you can surely treat the resultant illnesses with antibiotics and pain medications but it is not fixing any issues. Tylenol will mask a fever and suppress a cough, but it will not cure a cold.
 
 I look back on my time growing up as intensely painful, feeling constantly suffocated and tortured by invisible forces I often couldn’t describe let alone name. And yet I am deeply grateful for having gone through all of that because the time since I walked away from being ill has been an ongoing blossom. These have been the richest years of my time on earth and without experiencing my previous life I do not believe I would be as appreciative of my current one.
 
@@ -175,202 +175,202 @@ Myths are oftentimes ancient stories that humans pass along intertwined within o
 
 In this context, it does seem apropos to call mental illness a myth. It fits right in as the same type of social technology like tales of angry gods that would urge farmers to harvest at the proper times of the year, or religious practices that would stress sanitation prior to germ theory. It necessitates actions and techniques that allow us to go about our day to day in a world much more uncertain and fraught with issues than we are willing to actively think about.
 
-In general, mental illness perfectly captures an abdication of personal responsibility that serves numerous functions in society. It helps drive the corporate profits of pharmaceutical, healthcare, and wellness companies; it provides a potent means of social control for government bureaucracies; and  it provides a steam release, scapegoat, and false panacea for volatile masses – blaming the symptoms of larger problems as the problems in themselves. Just like the chickens, whose beaks we snap off to stop them from pecking their over-crowded neighbors to death. We chemically neuter our brains in order to halt us from expressing signs, like anger, despair, anxiety, that are natural reactions to the ills of our lives – both our personal and collective failings. All the effects of mental illness may be healthy reactions to a crazy and disordered world – we are not doing ourselves any favors with attempts to sweep this under the rug.
+In general, mental illness perfectly captures an abdication of personal responsibility that serves numerous functions in society. It helps drive the corporate profits of pharmaceutical, healthcare, and wellness companies; it provides a potent means of social control for government bureaucracies; and  it provides a steam release, scapegoat, and false panacea for volatile masses – blaming the symptoms of larger problems as the problems in themselves. Just like the chickens, whose beaks we snap off to stop them from pecking their over-crowded neighbors to death. We chemically neuter our brains in order to halt us from expressing signs, like anger, despair, anxiety, that are natural reactions to the ills of our lives – both our personal and collective failings. All the effects of mental illness may be healthy reactions to a crazy and disordered world – we are not doing ourselves any favors with attempts to sweep this under the rug.
 
 In this regard the myth of mental illness serves as a band-aid for society, temporarily plugging holes in a ship in need of much more serious repair if not outright reconstruction. It is a quick-acting analgesic that relieves the pain of a deadly infection but so long as we continue to inappropriately construe our symptoms for the pathogen, we will never get over our real problems.
 
 * * *
 
-[1] For example, the one member who we can call a “victim” of the Holocaust actually just committed suicide in Poland.
+[1] For example, the one member who we can call a “victim” of the Holocaust actually just committed suicide in Poland.
 
-[2] This book was originally published in 1961
+[2] This book was originally published in 1961
 
 * * *
 
-[[1]](#ftnt_ref1) Ferguson pg. 55
+[[1]](#ftnt_ref1) Ferguson pg. 55
 
-[[2]](#ftnt_ref2) World Bank, quoted by Ferguson pg. 25
+[[2]](#ftnt_ref2) World Bank, quoted by Ferguson pg. 25
 
-[[3]](#ftnt_ref3) The idea that “less-developed countries” should all be alike seems unlikely, but it fits with the current trend in economics where essentially any question involving non-OECD countries is lumped together into “development.”
+[[3]](#ftnt_ref3) The idea that “less-developed countries” should all be alike seems unlikely, but it fits with the current trend in economics where essentially any question involving non-OECD countries is lumped together into “development.”
 
-[[4]](#ftnt_ref4) [Popular Development Economics—An Anthropologist among the Mandarins](https://www.cambridge.org/core/journals/perspectives-on-politics/article/popular-development-economicsan-anthropologist-among-the-mandarins/F4B61C7199F51FF0F282DD9652635F31)  pg. 348
+[[4]](#ftnt_ref4) [Popular Development Economics—An Anthropologist among the Mandarins](https://www.cambridge.org/core/journals/perspectives-on-politics/article/popular-development-economicsan-anthropologist-among-the-mandarins/F4B61C7199F51FF0F282DD9652635F31)  pg. 348
 
-[[5]](#ftnt_ref5) Ferguson pg. 234
+[[5]](#ftnt_ref5) Ferguson pg. 234
 
-[[6]](#ftnt_ref6) As measured by randomized experiments. See, e.g. [Institutional Change by Imitation: Introducing Western Governance Practice in Congolese Villages](https://raulsanchezdelasierra.files.wordpress.com/2017/12/tuungane.pdf) for details.
+[[6]](#ftnt_ref6) As measured by randomized experiments. See, e.g. [Institutional Change by Imitation: Introducing Western Governance Practice in Congolese Villages](https://raulsanchezdelasierra.files.wordpress.com/2017/12/tuungane.pdf) for details.
 
-[[7]](#ftnt_ref7) I learned this story from Raul Sanchez de la Sierra, a researcher involved in the evaluation.
+[[7]](#ftnt_ref7) I learned this story from Raul Sanchez de la Sierra, a researcher involved in the evaluation.
 
-[[8]](#ftnt_ref8) Ferguson pg. 252-253
+[[8]](#ftnt_ref8) Ferguson pg. 252-253
 
-[[9]](#ftnt_ref9) T. Sekhamane, quoted on Ferguson pg. 243
+[[9]](#ftnt_ref9) T. Sekhamane, quoted on Ferguson pg. 243
 
-[[10]](#ftnt_ref10) Ferguson pg. 111
+[[10]](#ftnt_ref10) Ferguson pg. 111
 
-[[11]](#ftnt_ref11) Ferguson pg. 243
+[[11]](#ftnt_ref11) Ferguson pg. 243
 
-[[12]](#ftnt_ref12) See Orkin and Walker’s [Unconditional Cash Transfers and Civic Engagement in Kenya](https://www.povertyactionlab.org/evaluation/unconditional-cash-transfers-and-civic-engagement-kenya)
+[[12]](#ftnt_ref12) See Orkin and Walker’s [Unconditional Cash Transfers and Civic Engagement in Kenya](https://www.povertyactionlab.org/evaluation/unconditional-cash-transfers-and-civic-engagement-kenya)
 
-[[13]](#ftnt_ref13) Ferguson, pg. 258
+[[13]](#ftnt_ref13) Ferguson, pg. 258
 
-[[14]](#ftnt_ref14) See “The Data is Gold” or Omar Bah’s comic, above, for some examples.
+[[14]](#ftnt_ref14) See “The Data is Gold” or Omar Bah’s comic, above, for some examples.
 
-[[15]](#ftnt_ref15) One of my favorite Deutsch [stories](https://www.newyorker.com/magazine/2011/05/02/dream-machine) is when a Japanese film crew ran an interview at his house. They asked to tidy up as it was apparently messy. Deutsch only allowed it if they agreed to put everything back as it was afterwards.
+[[15]](#ftnt_ref15) One of my favorite Deutsch [stories](https://www.newyorker.com/magazine/2011/05/02/dream-machine) is when a Japanese film crew ran an interview at his house. They asked to tidy up as it was apparently messy. Deutsch only allowed it if they agreed to put everything back as it was afterwards.
 
-[[16]](#ftnt_ref16) I had a similar uneasy "I'm-in-the-presence-of-aliens" feeling when first reading the philosopher [Derek Parfit](https://www.newyorker.com/magazine/2011/09/05/how-to-be-good) (whose ideas are unrelated to Deutsch's).
+[[16]](#ftnt_ref16) I had a similar uneasy "I'm-in-the-presence-of-aliens" feeling when first reading the philosopher [Derek Parfit](https://www.newyorker.com/magazine/2011/09/05/how-to-be-good) (whose ideas are unrelated to Deutsch's).
 
-[[17]](#ftnt_ref17) Deutsch incidentally agrees that there’s no point in doing homework if you don’t want to. Not because he thinks human affairs are meaningless. Rather, he’s anti-coercion. A stance he lands on due to, you guessed it, his views on knowledge.
+[[17]](#ftnt_ref17) Deutsch incidentally agrees that there’s no point in doing homework if you don’t want to. Not because he thinks human affairs are meaningless. Rather, he’s anti-coercion. A stance he lands on due to, you guessed it, his views on knowledge.
 
-[[18]](#ftnt_ref18)  It’s worth noting that Deutsch's views both on quantum physics and knowledge are minority views within their respective fields.
+[[18]](#ftnt_ref18)  It’s worth noting that Deutsch's views both on quantum physics and knowledge are minority views within their respective fields.
 
-[[19]](#ftnt_ref19) There may be similarities with Philosophical Pragmatism, but I haven’t read any William James, let alone Rorty or Dewey, to make a comment on that one.
+[[19]](#ftnt_ref19) There may be similarities with Philosophical Pragmatism, but I haven’t read any William James, let alone Rorty or Dewey, to make a comment on that one.
 
-[[20]](#ftnt_ref20) Deutsch is a realist. He provides a crisp argument against Solipsism: That it’s not parsimonious as it has to posit the additional claim that everything looks like it independently exists without any explanation as to why. It’s analogous to geocentric models: convoluted in a way so that the planet’s orbits [look like](https://imgur.com/tBCC7P4) a heliocentric model would.
+[[20]](#ftnt_ref20) Deutsch is a realist. He provides a crisp argument against Solipsism: That it’s not parsimonious as it has to posit the additional claim that everything looks like it independently exists without any explanation as to why. It’s analogous to geocentric models: convoluted in a way so that the planet’s orbits [look like](https://imgur.com/tBCC7P4) a heliocentric model would.
 
-[[21]](#ftnt_ref21) Knowledge can exist without belief. It’s instantiated in books, computer programs, and genes. Further, knowledge may be inexplicit or unconscious. We effortlessly use grammar and laugh appropriately in social situations. Though I’m a little unclear if Deutsch thinks knowledge is never belief. Darwin surely believed in natural selection, right?
+[[21]](#ftnt_ref21) Knowledge can exist without belief. It’s instantiated in books, computer programs, and genes. Further, knowledge may be inexplicit or unconscious. We effortlessly use grammar and laugh appropriately in social situations. Though I’m a little unclear if Deutsch thinks knowledge is never belief. Darwin surely _believed in_ natural selection, right?
 
-[[22]](#ftnt_ref22) Other thinkers including Hugh Everrett, Richard Dawkins, Jacob Bronowski, Alan Turing, and William Godwin.
+[[22]](#ftnt_ref22) Other thinkers including Hugh Everrett, Richard Dawkins, Jacob Bronowski, Alan Turing, and William Godwin.
 
-[[23]](#ftnt_ref23) Behavioral genetics may not be a core tenet of rationalism, but many rats subscribe to the idea that genes significantly influence intelligence.
+[[23]](#ftnt_ref23) Behavioral genetics may not be a core tenet of rationalism, but many rats subscribe to the idea that genes significantly influence intelligence.
 
-[[24]](#ftnt_ref24) Cognitive biases have the same issue, viz: barriers. Deutsch prefers to call them errors. However, aren’t biases simply systematic errors?
+[[24]](#ftnt_ref24) Cognitive biases have the same issue, viz: barriers. Deutsch prefers to call them errors. However, aren’t biases simply _systematic_ errors?
 
-[[25]](#ftnt_ref25) His arguments against genetic influence also apply to homosexuality and transgenderism which is the one area where the politically correct version is it’s all nature.
+[[25]](#ftnt_ref25) His arguments against genetic influence also apply to homosexuality and transgenderism which is the one area where the politically correct version is it’s all nature.
 
-[[26]](#ftnt_ref26) Some interviews where Deutsch touches on genetic influence: [here](https://www.youtube.com/watch?v=O14HyFNYVFY&t=4227s), [here](https://www.youtube.com/watch?v=bbOVOY9PCpQ&t=566s), and [here](https://www.youtube.com/watch?v=Qrt0XXg0QKM&t=6717s).
+[[26]](#ftnt_ref26) Some interviews where Deutsch touches on genetic influence: [here](https://www.youtube.com/watch?v=O14HyFNYVFY&t=4227s), [here](https://www.youtube.com/watch?v=bbOVOY9PCpQ&t=566s), and [here](https://www.youtube.com/watch?v=Qrt0XXg0QKM&t=6717s).
 
-[[27]](#ftnt_ref27) Deutsch criticizes IQ as a measure for intelligence too. Firstly, IQ tests are a function of motivation. Secondly, it violates human universality. We can’t differ in the type of intelligence that makes humans unique: the ability to create explanatory knowledge. (Although our hardware can differ genetically, which amounts to speed and memory. But we don’t think of the village idiot simply needing more time to make Einstein’s discovery.)  
+[[27]](#ftnt_ref27) Deutsch criticizes IQ as a measure for intelligence too. Firstly, IQ tests are a function of motivation. Secondly, it violates human universality. We can’t differ in the type of intelligence that makes humans unique: the ability to create explanatory knowledge. (Although our hardware can differ genetically, which amounts to speed and memory. But we don’t think of the village idiot simply needing more time to make Einstein’s discovery.)  
 
-[[28]](#ftnt_ref28) In fact, whether evidence is confirming or disconfirming depends on your explanation of it anyway. Since evidence never “confirms”, we should instead call evidence consistent with theories.
+[[28]](#ftnt_ref28) In fact, whether evidence is confirming or disconfirming depends on your _explanation_ of it anyway. Since evidence never “confirms”, we should instead call evidence _consistent_ with theories.
 
-[[29]](#ftnt_ref29) The possibility of aging being cured is an area where rationalists would surely agree with Deutsch (via the arguments of Aubrey de Grey).
+[[29]](#ftnt_ref29) The possibility of aging being cured is an area where rationalists would surely agree with Deutsch (via the arguments of Aubrey de Grey).
 
-[[30]](#ftnt_ref30) He had an exception for the smell of crispy bacon. That seemed to transcend the influence of his particular cultural memes.
+[[30]](#ftnt_ref30) He had an exception for the smell of crispy bacon. That seemed to transcend the influence of his particular cultural memes.
 
-[[31]](#ftnt_ref31) One of the funnier aspects of the book is how hilariously Italian the names of all the castrati were. A few examples: Loreto Vittori, Atto Melani, Antonio Bernacchi, Francesco Bernardi ("Senesino"), Valentino Urbani, Giusto Fernando Tenducci, Girolamo Crescentini, Giovanni Battista "Giambattista" Velluti, Venanzio Rauzzini.
+[[31]](#ftnt_ref31) One of the funnier aspects of the book is how hilariously Italian the names of all the castrati were. A few examples: Loreto Vittori, Atto Melani, Antonio Bernacchi, Francesco Bernardi ("Senesino"), Valentino Urbani, Giusto Fernando Tenducci, Girolamo Crescentini, Giovanni Battista "Giambattista" Velluti, Venanzio Rauzzini.
 
-[[32]](#ftnt_ref32) This is a joke by Balatri as the Italian region of Norcia was known for producing traveling surgeons which commonly carried out the castration operation.
+[[32]](#ftnt_ref32) This is a joke by Balatri as the Italian region of Norcia was known for producing traveling surgeons which commonly carried out the castration operation.
 
-[[33]](#ftnt_ref33) Karl Marx (1852/1885): Der achtzehnte Brumaire des Louis Bonaparte. Hamburg: Verlag Otto Meißner.
+[[33]](#ftnt_ref33) Karl Marx (1852/1885): Der achtzehnte Brumaire des Louis Bonaparte. Hamburg: Verlag Otto Meißner.
 
-[[34]](#ftnt_ref34) Cf. [https://en.wikipedia.org/wiki/The\_Eighteenth\_Brumaire\_of\_Louis\_Bonaparte#First\_as\_tragedy,\_then\_as\_farce](https://en.wikipedia.org/wiki/The_Eighteenth_Brumaire_of_Louis_Bonaparte#First_as_tragedy,_then_as_farce) 
+[[34]](#ftnt_ref34) Cf. [https://en.wikipedia.org/wiki/The\_Eighteenth\_Brumaire\_of\_Louis\_Bonaparte#First\_as\_tragedy,\_then\_as\_farce](https://en.wikipedia.org/wiki/The_Eighteenth_Brumaire_of_Louis_Bonaparte#First_as_tragedy,_then_as_farce) 
 
-[[35]](#ftnt_ref35) Jürgen Osterhammel (2020): Die Verwandlung der Welt: Eine Geschichte des 19. Jahrhunderts. München 2009: C. H. Beck, 1279-80.
+[[35]](#ftnt_ref35) Jürgen Osterhammel (2020): Die Verwandlung der Welt: Eine Geschichte des 19. Jahrhunderts. München 2009: C. H. Beck, 1279-80.
 
-[[36]](#ftnt_ref36) [https://en.wikipedia.org/wiki/Louis\_Philippe\_II,\_Duke\_of\_Orl%C3%A9ans](https://en.wikipedia.org/wiki/Louis_Philippe_II,_Duke_of_Orl%C3%A9ans).
+[[36]](#ftnt_ref36) [https://en.wikipedia.org/wiki/Louis\_Philippe\_II,\_Duke\_of\_Orl%C3%A9ans](https://en.wikipedia.org/wiki/Louis_Philippe_II,_Duke_of_Orl%C3%A9ans).
 
-[[37]](#ftnt_ref37) [https://en.wikipedia.org/wiki/Louis\_Philippe\_II,\_Duke\_of\_Orl%C3%A9ans](https://en.wikipedia.org/wiki/Louis_Philippe_II,_Duke_of_Orl%C3%A9ans).
+[[37]](#ftnt_ref37) [https://en.wikipedia.org/wiki/Louis\_Philippe\_II,\_Duke\_of\_Orl%C3%A9ans](https://en.wikipedia.org/wiki/Louis_Philippe_II,_Duke_of_Orl%C3%A9ans).
 
-[[38]](#ftnt_ref38) Cf. [https://de.wikipedia.org/wiki/staatsstreichdes18.BrumaireVIII](https://de.wikipedia.org/wiki/staatsstreichdes18.BrumaireVIII)).
+[[38]](#ftnt_ref38) Cf. [https://de.wikipedia.org/wiki/staatsstreichdes18.BrumaireVIII](https://de.wikipedia.org/wiki/staatsstreichdes18.BrumaireVIII)).
 
-[[39]](#ftnt_ref39) Cf. [https://en.wikipedia.org/wiki/Charter\_of\_1814](https://en.wikipedia.org/wiki/Charter_of_1814).
+[[39]](#ftnt_ref39) Cf. [https://en.wikipedia.org/wiki/Charter\_of\_1814](https://en.wikipedia.org/wiki/Charter_of_1814).
 
-[[40]](#ftnt_ref40) Cf. [https://en.wikipedia.org/wiki/Louis\_XVIII](https://en.wikipedia.org/wiki/Louis_XVIII).
+[[40]](#ftnt_ref40) Cf. [https://en.wikipedia.org/wiki/Louis\_XVIII](https://en.wikipedia.org/wiki/Louis_XVIII).
 
-[[41]](#ftnt_ref41) The famous painting “La Liberté guidant le peuple” ([https://en.wikipedia.org/wiki/Liberty\_Leading\_the\_People](https://en.wikipedia.org/wiki/Liberty_Leading_the_People)) by Eugène Delacroix is about the barricades in 1830.
+[[41]](#ftnt_ref41) The famous painting “_La Liberté guidant le peuple_” ([https://en.wikipedia.org/wiki/Liberty\_Leading\_the\_People](https://en.wikipedia.org/wiki/Liberty_Leading_the_People)) by Eugène Delacroix is about the barricades in 1830.
 
-[[42]](#ftnt_ref42) Cf. [https://en.wikipedia.org/wiki/Charles\_X](https://en.wikipedia.org/wiki/Charles_X).
+[[42]](#ftnt_ref42) Cf. [https://en.wikipedia.org/wiki/Charles\_X](https://en.wikipedia.org/wiki/Charles_X).
 
-[[43]](#ftnt_ref43) Cf. [https://en.wikipedia.org/wiki/July\_Monarchy](https://en.wikipedia.org/wiki/July_Monarchy).
+[[43]](#ftnt_ref43) Cf. [https://en.wikipedia.org/wiki/July\_Monarchy](https://en.wikipedia.org/wiki/July_Monarchy).
 
-[[44]](#ftnt_ref44) Cf. [https://en.wikipedia.org/wiki/French\_Revolution\_of\_1848](https://en.wikipedia.org/wiki/French_Revolution_of_1848) 
+[[44]](#ftnt_ref44) Cf. [https://en.wikipedia.org/wiki/French\_Revolution\_of\_1848](https://en.wikipedia.org/wiki/French_Revolution_of_1848) 
 
-[[45]](#ftnt_ref45) [https://en.wikipedia.org/wiki/Napoleon\_III](https://en.wikipedia.org/wiki/Napoleon_III).
+[[45]](#ftnt_ref45) [https://en.wikipedia.org/wiki/Napoleon\_III](https://en.wikipedia.org/wiki/Napoleon_III).
 
-[[46]](#ftnt_ref46) All from [https://en.wikipedia.org/wiki/Napoleon\_III](https://en.wikipedia.org/wiki/Napoleon_III) and the literature cited there.
+[[46]](#ftnt_ref46) All from [https://en.wikipedia.org/wiki/Napoleon\_III](https://en.wikipedia.org/wiki/Napoleon_III) and the literature cited there.
 
-[[47]](#ftnt_ref47) Cf. [https://en.wikipedia.org/wiki/French\_Revolution\_of\_1848](https://en.wikipedia.org/wiki/French_Revolution_of_1848).
+[[47]](#ftnt_ref47) Cf. [https://en.wikipedia.org/wiki/French\_Revolution\_of\_1848](https://en.wikipedia.org/wiki/French_Revolution_of_1848).
 
-[[48]](#ftnt_ref48) Cf. [https://en.wikipedia.org/wiki/French\_demonstration\_of\_15\_May\_1848](https://en.wikipedia.org/wiki/French_demonstration_of_15_May_1848) 
+[[48]](#ftnt_ref48) Cf. [https://en.wikipedia.org/wiki/French\_demonstration\_of\_15\_May\_1848](https://en.wikipedia.org/wiki/French_demonstration_of_15_May_1848) 
 
-[[49]](#ftnt_ref49) Cf. [https://de.wikipedia.org/wiki/Nationalwerkst%C3%A4tten](https://de.wikipedia.org/wiki/Nationalwerkst%C3%A4tten))
+[[49]](#ftnt_ref49) Cf. [https://de.wikipedia.org/wiki/Nationalwerkst%C3%A4tten](https://de.wikipedia.org/wiki/Nationalwerkst%C3%A4tten))
 
-[[50]](#ftnt_ref50) Cf. [https://en.wikipedia.org/wiki/June\_Days\_uprising](https://en.wikipedia.org/wiki/June_Days_uprising) 
+[[50]](#ftnt_ref50) Cf. [https://en.wikipedia.org/wiki/June\_Days\_uprising](https://en.wikipedia.org/wiki/June_Days_uprising) 
 
-[[51]](#ftnt_ref51) Cf. [https://de.wikipedia.org/wiki/Nationalwerkst%C3%A4tten](https://de.wikipedia.org/wiki/Nationalwerkst%C3%A4tten) 
+[[51]](#ftnt_ref51) Cf. [https://de.wikipedia.org/wiki/Nationalwerkst%C3%A4tten](https://de.wikipedia.org/wiki/Nationalwerkst%C3%A4tten) 
 
-[[52]](#ftnt_ref52) Cf. [https://en.wikipedia.org/wiki/French\_Revolution\_of\_1848](https://en.wikipedia.org/wiki/French_Revolution_of_1848).
+[[52]](#ftnt_ref52) Cf. [https://en.wikipedia.org/wiki/French\_Revolution\_of\_1848](https://en.wikipedia.org/wiki/French_Revolution_of_1848).
 
-[[53]](#ftnt_ref53) [https://en.wikipedia.org/wiki/Napoleon\_III](https://en.wikipedia.org/wiki/Napoleon_III) 
+[[53]](#ftnt_ref53) [https://en.wikipedia.org/wiki/Napoleon\_III](https://en.wikipedia.org/wiki/Napoleon_III) 
 
-[[54]](#ftnt_ref54) J. J. Linz (1990): Perils of Presidentialism. Journal of Democracy, 51–69.
+[[54]](#ftnt_ref54) J. J. Linz (1990): Perils of Presidentialism. Journal of Democracy, 51–69.
 
-[[55]](#ftnt_ref55) M. Yglesias (2015): American Democracy is Doomed, Vox.com: [http://www.vox.com/2015/3/2/8120063/american-democracy-doomed](http://www.vox.com/2015/3/2/8120063/american-democracy-doomed).
+[[55]](#ftnt_ref55) M. Yglesias (2015): American Democracy is Doomed, Vox.com: [http://www.vox.com/2015/3/2/8120063/american-democracy-doomed](http://www.vox.com/2015/3/2/8120063/american-democracy-doomed).
 
-[[56]](#ftnt_ref56) J. J. Linz (1994): Presidential or Parliamentary Democracy: Does It Make a Difference? In: J. J. Linz, A. Valenzuela (ed.): The Failure of Presidential Democracy: Comparative Perspectives. Baltimore and London: Johns Hopkins University Press.
+[[56]](#ftnt_ref56) J. J. Linz (1994): Presidential or Parliamentary Democracy: Does It Make a Difference? In: J. J. Linz, A. Valenzuela (ed.): The Failure of Presidential Democracy: Comparative Perspectives. Baltimore and London: Johns Hopkins University Press.
 
-[[57]](#ftnt_ref57) Due to a strange strange electoral system, see [https://fr.wikipedia.org/wiki/%C3%89lections\_l%C3%A9gislatives\_fran%C3%A7aises\_de\_1848](https://fr.wikipedia.org/wiki/%C3%89lections_l%C3%A9gislatives_fran%C3%A7aises_de_1848).
+[[57]](#ftnt_ref57) Due to a strange strange electoral system, see [https://fr.wikipedia.org/wiki/%C3%89lections\_l%C3%A9gislatives\_fran%C3%A7aises\_de\_1848](https://fr.wikipedia.org/wiki/%C3%89lections_l%C3%A9gislatives_fran%C3%A7aises_de_1848).
 
-[[58]](#ftnt_ref58) [https://en.wikipedia.org/wiki/Napoleon\_III](https://en.wikipedia.org/wiki/Napoleon_III).
+[[58]](#ftnt_ref58) [https://en.wikipedia.org/wiki/Napoleon\_III](https://en.wikipedia.org/wiki/Napoleon_III).
 
-[[59]](#ftnt_ref59) [https://en.wikipedia.org/wiki/Napoleon\_III](https://en.wikipedia.org/wiki/Napoleon_III).
+[[59]](#ftnt_ref59) [https://en.wikipedia.org/wiki/Napoleon\_III](https://en.wikipedia.org/wiki/Napoleon_III).
 
-[[60]](#ftnt_ref60) Séguin 1990, p. 125 cited by [https://en.wikipedia.org/wiki/Napoleon\_III](https://en.wikipedia.org/wiki/Napoleon_III).
+[[60]](#ftnt_ref60) Séguin 1990, p. 125 cited by [https://en.wikipedia.org/wiki/Napoleon\_III](https://en.wikipedia.org/wiki/Napoleon_III).
 
-[[61]](#ftnt_ref61) Milza, Pierre (2006). Napoléon III. Paris: Tempus. cited by [https://en.wikipedia.org/wiki/Napoleon\_III](https://en.wikipedia.org/wiki/Napoleon_III).
+[[61]](#ftnt_ref61) Milza, Pierre (2006). Napoléon III. Paris: Tempus. cited by [https://en.wikipedia.org/wiki/Napoleon\_III](https://en.wikipedia.org/wiki/Napoleon_III).
 
-[[62]](#ftnt_ref62) See [https://fr.wikipedia.org/wiki/%C3%89lections\_l%C3%A9gislatives\_fran%C3%A7aises\_de\_1849](https://fr.wikipedia.org/wiki/%C3%89lections_l%C3%A9gislatives_fran%C3%A7aises_de_1849).
+[[62]](#ftnt_ref62) See [https://fr.wikipedia.org/wiki/%C3%89lections\_l%C3%A9gislatives\_fran%C3%A7aises\_de\_1849](https://fr.wikipedia.org/wiki/%C3%89lections_l%C3%A9gislatives_fran%C3%A7aises_de_1849).
 
-[[63]](#ftnt_ref63) [https://fr.wikipedia.org/wiki/R%C3%A9publique\_romaine\_(1849)](https://fr.wikipedia.org/wiki/R%C3%A9publique_romaine_(1849)) 
+[[63]](#ftnt_ref63) [https://fr.wikipedia.org/wiki/R%C3%A9publique\_romaine\_(1849)](https://fr.wikipedia.org/wiki/R%C3%A9publique_romaine_(1849)) 
 
-[[64]](#ftnt_ref64) Weirdly, while the word “moneylender” is used in the English edition "as translated and published by Progress Publishers, Moscow, 1937" ([https://www.marxists.org/archive/marx/works/1852/18th-brumaire/index.htm](https://www.marxists.org/archive/marx/works/1852/18th-brumaire/index.htm))) Marx' original text in German just uses the word "Jude", "Jew" ([https://www.marxists.org/deutsch/archiv/marx-engels/1852/brumaire/index.htm),](https://www.marxists.org/deutsch/archiv/marx-engels/1852/brumaire/index.htm),) – "Jew", as if this were not only a relevant information but practically equivalent to be "one of the most notorious of the high financiers".
+[[64]](#ftnt_ref64) Weirdly, while the word “moneylender” is used in the English edition "as translated and published by Progress Publishers, Moscow, 1937" ([https://www.marxists.org/archive/marx/works/1852/18th-brumaire/index.htm](https://www.marxists.org/archive/marx/works/1852/18th-brumaire/index.htm))) Marx' original text in German just uses the word "Jude", "Jew" ([https://www.marxists.org/deutsch/archiv/marx-engels/1852/brumaire/index.htm),](https://www.marxists.org/deutsch/archiv/marx-engels/1852/brumaire/index.htm),) – "Jew", as if this were not only a relevant information but practically equivalent to be "one of the most notorious of the high financiers".
 
-[[65]](#ftnt_ref65) It is not completely clear whether Marx builds up a case of Cluess Mystery ([https://tvtropes.org/pmwiki/pmwiki.php/Main/CluelessMystery](https://tvtropes.org/pmwiki/pmwiki.php/Main/CluelessMystery)).
+[[65]](#ftnt_ref65) It is not completely clear whether Marx builds up a case of Cluess Mystery ([https://tvtropes.org/pmwiki/pmwiki.php/Main/CluelessMystery](https://tvtropes.org/pmwiki/pmwiki.php/Main/CluelessMystery)).
 
-[[66]](#ftnt_ref66) [https://en.wikipedia.org/wiki/1851\_French\_constitutional\_referendum](https://en.wikipedia.org/wiki/1851_French_constitutional_referendum) 
+[[66]](#ftnt_ref66) [https://en.wikipedia.org/wiki/1851\_French\_constitutional\_referendum](https://en.wikipedia.org/wiki/1851_French_constitutional_referendum) 
 
-[[67]](#ftnt_ref67) Brad DeLong B (2011): What Was Karl Marx's Principal Contribution?, Grasping Reality blog, April 3, [What Was Karl Marx's Principal Contribution?](https://delong.typepad.com/sdj/2011/04/what-was-karl-marxs-principal-contribution.html) 
+[[67]](#ftnt_ref67) Brad DeLong B (2011): What Was Karl Marx's Principal Contribution?, Grasping Reality blog, April 3, [What Was Karl Marx's Principal Contribution?](https://delong.typepad.com/sdj/2011/04/what-was-karl-marxs-principal-contribution.html) 
 
-[[68]](#ftnt_ref68) [Karl Marx: 18. Brumaire d. Louis Bonaparte (1852)](https://www.marxists.org/deutsch/archiv/marx-engels/1852/brumaire/) 
+[[68]](#ftnt_ref68) [Karl Marx: 18. Brumaire d. Louis Bonaparte (1852)](https://www.marxists.org/deutsch/archiv/marx-engels/1852/brumaire/) 
 
-[[69]](#ftnt_ref69) Is the excessive discussion of the Society of December 10 a Fauxshadow ([https://tvtropes.org/pmwiki/pmwiki.php/Main/Fauxshadow](https://tvtropes.org/pmwiki/pmwiki.php/Main/Fauxshadow)), or am I simply overlooking something?
+[[69]](#ftnt_ref69) Is the excessive discussion of the Society of December 10 a Fauxshadow ([https://tvtropes.org/pmwiki/pmwiki.php/Main/Fauxshadow](https://tvtropes.org/pmwiki/pmwiki.php/Main/Fauxshadow)), or am I simply overlooking something?
 
-[[70]](#ftnt_ref70) By ‘get fusion’, I mean Q > 5 for a steady state experiment. If it is not steady state (e.g. inertial confinement fusion), then I also require a shot frequency of at least 1/second. Anyone selling fusion power to the grid also counts, even if they don't meet these technical requirements.
+[[70]](#ftnt_ref70) By ‘get fusion’, I mean Q > 5 for a steady state experiment. If it is not steady state (e.g. inertial confinement fusion), then I also require a shot frequency of at least 1/second. Anyone selling fusion power to the grid also counts, even if they don't meet these technical requirements.
 
-[[71]](#ftnt_ref71) My dad is a doctor, so that should give you some idea at how bad he is at math.
+[[71]](#ftnt_ref71) My dad is a doctor, so that should give you some idea at how bad he is at math.
 
-[[72]](#ftnt_ref72) The fusion reaction chain in the sun burns six protons (hydrogen nuclei) into helium-4, two protons, and two positrons over the course of five fusion reactions. What we do is simpler.
+[[72]](#ftnt_ref72) The fusion reaction chain in the sun burns six protons (hydrogen nuclei) into helium-4, two protons, and two positrons over the course of five fusion reactions. What we do is simpler.
 
-[[73]](#ftnt_ref73) The number of protons + neutrons is the mass of the atom in amu, while the number of protons is the charge of the atomic nucleus in units of e. The mass and charge can be measured directly, so we write them instead of the number of protons and the number of neutrons.
+[[73]](#ftnt_ref73) The number of protons + neutrons is the mass of the atom in amu, while the number of protons is the charge of the atomic nucleus in units of _e_. The mass and charge can be measured directly, so we write them instead of the number of protons and the number of neutrons.
 
-[[74]](#ftnt_ref74) This is an order of magnitude estimate. Fire often occurs at a few hundred or thousand degrees Kelvin (or Celsius or Fahrenheit).
+[[74]](#ftnt_ref74) This is an order of magnitude estimate. Fire often occurs at a few hundred or thousand degrees Kelvin (or Celsius or Fahrenheit).
 
-[[75]](#ftnt_ref75) In particular, the confinement time for the energy. The particles are always at least as well confined as the energy. When the particles leave, they take energy with them. Energy can also leave through light or various plasma waves.
+[[75]](#ftnt_ref75) In particular, the confinement time for the energy. The particles are always at least as well confined as the energy. When the particles leave, they take energy with them. Energy can also leave through light or various plasma waves.
 
-[[76]](#ftnt_ref76) There is also ‘engineering breakeven', when you get more energy out of the entire        power plant than you put in, and ‘economic breakeven', when you get more money out of the entire power plant than you put in. We need to get scientific breakeven first.
+[[76]](#ftnt_ref76) There is also ‘engineering breakeven', when you get more energy out of the entire        power plant than you put in, and ‘economic breakeven', when you get more money out of the entire power plant than you put in. We need to get scientific breakeven first.
 
-[[77]](#ftnt_ref77) This was named after blood plasma by Langmuir in 1928. He thought the electrons and ions moving in the plasma were like red and white blood cells moving in blood plasma. Everyone else thinks that the analogy is rather stretched.
+[[77]](#ftnt_ref77) This was named after blood plasma by Langmuir in 1928. He thought the electrons and ions moving in the plasma were like red and white blood cells moving in blood plasma. Everyone else thinks that the analogy is rather stretched.
 
-[[78]](#ftnt_ref78) The mathematical proof that this shape must be a doughnut and cannot be anything like a sphere is called the Hairy Ball Theorem. Justin Ball modeled it with the top of his head.
+[[78]](#ftnt_ref78) The mathematical proof that this shape must be a doughnut and cannot be anything like a sphere is called the Hairy Ball Theorem. Justin Ball modeled it with the top of his head.
 
-[[79]](#ftnt_ref79) ‘Tokamak’ is a Russian acronym for тороидальная камера с магнитными катушками, which means ‘toroidal chamber with magnetic coils’.
+[[79]](#ftnt_ref79) ‘Tokamak’ is a Russian acronym for тороидальная камера с магнитными катушками, which means ‘toroidal chamber with magnetic coils’.
 
-[[80]](#ftnt_ref80) JET is an acronym for Joint European Torus. It is located in England as a thank you for British special forces helping to rescue a German plane being held hostage by terrorists in 1977. More recently, JET itself was held hostage as part of the Brexit negotiations.
+[[80]](#ftnt_ref80) JET is an acronym for Joint European Torus. It is located in England as a thank you for British special forces helping to rescue a German plane being held hostage by terrorists in 1977. More recently, JET itself was held hostage as part of the Brexit negotiations.
 
-[[81]](#ftnt_ref81) ITER used to be an acronym for International Thermonuclear Experimental Reactor. We decided we didn't like that branding, so now it is Latin for ‘the way'.
+[[81]](#ftnt_ref81) ITER used to be an acronym for International Thermonuclear Experimental Reactor. We decided we didn't like that branding, so now it is Latin for ‘the way'.
 
-[[82]](#ftnt_ref82) The fusion community has a long tradition of internationalism. We refused to take part in the Cold War and have collaborated across the Iron Curtain since 1958. I do wonder if we could have gotten more funding if we were trying to Beat the Russians instead of working with them.
+[[82]](#ftnt_ref82) The fusion community has a long tradition of internationalism. We refused to take part in the Cold War and have collaborated across the Iron Curtain since 1958. I do wonder if we could have gotten more funding if we were trying to Beat the Russians instead of working with them.
 
-[[83]](#ftnt_ref83) This isn't part of the official justification, but the US rejoined ITER to help convince Britain to join the Iraq War. Fusion projects are often used as prestige chips in international negotiations.
+[[83]](#ftnt_ref83) This isn't part of the official justification, but the US rejoined ITER to help convince Britain to join the Iraq War. Fusion projects are often used as prestige chips in international negotiations.
 
-[[84]](#ftnt_ref84) DEMO never was an acronym, but we still write it like one.
+[[84]](#ftnt_ref84) DEMO never was an acronym, but we still write it like one.
 
-[[85]](#ftnt_ref85) I don't want to do too much criticism of people aiming for Progress, even if I don't think they will be successful. At least criticizing Lockheed Martin is punching up.
+[[85]](#ftnt_ref85) I don't want to do too much criticism of people aiming for Progress, even if I don't think they will be successful. At least criticizing Lockheed Martin is punching up.
 
-[[86]](#ftnt_ref86) SPARC is a nested acronym for Smallest Possible ARC. ARC is an acronym for Affordable, Robust, Compact and is an Iron Man reference.
+[[86]](#ftnt_ref86) SPARC is a nested acronym for Smallest Possible ARC. ARC is an acronym for Affordable, Robust, Compact and is an Iron Man reference.
 
-[[87]](#ftnt_ref87) Commonwealth has raised $2 billion so far, compared with ITER's price tag of $45 billion.
+[[87]](#ftnt_ref87) Commonwealth has raised $2 billion so far, compared with ITER's price tag of $45 billion.
 
-[[88]](#ftnt_ref88) This is a rare example when government cuts to research funding drives technological progress. These particular cuts ended up being reversed and Alcator C-Mod is still operating.
+[[88]](#ftnt_ref88) This is a rare example when government cuts to research funding drives technological progress. These particular cuts ended up being reversed and Alcator C-Mod is still operating.
 
-[[89]](#ftnt_ref89) About 1 mm in diameter.
+[[89]](#ftnt_ref89) About 1 mm in diameter.
 
-[[90]](#ftnt_ref90) I know this because I might have gotten a job with them, but it didn't work out. I am not currently working for any of these groups.
+[[90]](#ftnt_ref90) I know this because I might have gotten a job with them, but it didn't work out. I am not currently working for any of these groups.
 
-[[91]](#ftnt_ref91) The largest tokamak currently operating in the US, DIII-D, is also managed by a private company, General Atomics, which gets most of its funding from the Department of Energy.
+[[91]](#ftnt_ref91) The largest tokamak currently operating in the US, DIII-D, is also managed by a private company, General Atomics, which gets most of its funding from the Department of Energy.
 
-[[92]](#ftnt_ref92) D-He3 fusion requires a triple product about ten times larger than what is needed for D-T fusion, including about a five times higher temperature. D-D fusion works best at the same temperature as D-T fusion, but requires a triple product about fifty times larger.
+[[92]](#ftnt_ref92) D-He3 fusion requires a triple product about ten times larger than what is needed for D-T fusion, including about a five times higher temperature. D-D fusion works best at the same temperature as D-T fusion, but requires a triple product about fifty times larger.
 
-[[93]](#ftnt_ref93) After SPARC, Type One Energy, Renaissance Fusion, and one of Tokamak Energy, Marvel, or Helion.
+[[93]](#ftnt_ref93) After SPARC, Type One Energy, Renaissance Fusion, and one of Tokamak Energy, Marvel, or Helion.
 
-[[94]](#ftnt_ref94) At one point, Winter decides to interrupt his chapter on building self-belief with a footnote explaining what Super Smash Bros. is. It’s about as informative and worthwhile as this one.
+[[94]](#ftnt_ref94) At one point, Winter decides to interrupt his chapter on building self-belief with a footnote explaining what _Super Smash Bros._ is. It’s about as informative and worthwhile as this one.

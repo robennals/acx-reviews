@@ -7,7 +7,7 @@ contestName: "2024 Book Reviews"
 year: 2024
 publishedDate: "2024-01-01T00:00:00.000Z"
 slug: "wonderful-life-the-burgess-shale-and-the-nature-of-history-by-stephen-jay-gould"
-wordCount: 3862
+wordCount: 3880
 readingTimeMinutes: 18
 originalUrl: "https://docs.google.com/document/d/1Ki5XsE0jkxZtd2XAeyTAJw1ZjLh2Cu-matUYKAhA6-s"
 source: "gdoc"
@@ -15,7 +15,7 @@ source: "gdoc"
 
 Stephen Jay Gould thought we were telling stories wrong.
 
-He knew that narratives are powerful and necessary and says as much in his 1989 book Wonderful Life: The Burgess Shale and the Nature of History, an argument for how to tell accurate stories, made through a trove of fossils discovered in the early 20th century.
+He knew that narratives are powerful and necessary and says as much in his 1989 book _Wonderful Life: The Burgess Shale and the Nature of History_, an argument for how to tell accurate stories, made through a trove of fossils discovered in the early 20th century.
 
 In fact, storytelling – that is, imposing narrative on images – is, according to Gould, the core job of his specialty and life’s work, paleontology. After all, studying fossils doesn’t allow much by way of the classic scientific method with its hypothesis testing. Instead, you need to tell a story about how the fossil got there and what it was like when it was alive.
 
@@ -37,19 +37,19 @@ His simple, contingent logic (like all of history, according to Gould) makes the
 
 I’ll sum it up here:
 
-1.  Humans are inclined toward narcissistic mythology that place ourselves, or extensions of ourselves, at the center of the story and make our own existence inevitable.
-
-1.  Exhibit A: the popular fable that evolution is a form of progress with human intelligence the inevitable endpoint.
-2.  Exhibit B: Charles Doolittle Walcott’s original treatment of the burgess fossils, which shoehorned them into a neat, progressive, preexisting, and wrong story.
-
-2.  Careful examination of facts reveals how wrong these stories are.
-
-1.  Exhibit C: Study of the Burgess fossils demonstrates the vast diversity of anatomical types, compared to now, among fauna after the Cambrian explosion 570 million years ago, the first time complex life appeared on Earth. Nothing in the fossil record reveals the ancestors of today’s life to have shown any general superiority or dominance at the time.
-
-3.  Therefore, in contrast to the fable of Exhibit A, today’s life is simply lucky survivors that made it through the vast pruning of the Cambrian fauna, either through chance or because their ancestors were well-adapted to the specific challenges of time and place at critical junctures, which does not demonstrate any broad bodily superiority that made them destined to be winners in evolution.
-4.  Because all history proceeds within the same framework, the discovery of the Burgess Fauna and what they represent over the course of the 20th century also contains many elements of lucky contingencies.
-5.  This is normal! Broad forces exist, but a brief summary of the evolution of life reveals the many other critical nodes humanity’s ancestors survived through lottery.
-6.  Therefore, today is not inevitable. In fact, it’s incredibly unlikely. History follows a logic, but the end result is entirely unpredictable and basically random.
+> 1.  Humans are inclined toward narcissistic mythology that place ourselves, or extensions of ourselves, at the center of the story and make our own existence inevitable.
+>
+> 1.  Exhibit A: the popular fable that evolution is a form of progress with human intelligence the inevitable endpoint.
+> 2.  Exhibit B: Charles Doolittle Walcott’s original treatment of the burgess fossils, which shoehorned them into a neat, progressive, preexisting, and wrong story.
+>
+> 2.  Careful examination of facts reveals how wrong these stories are.
+>
+> 1.  Exhibit C: Study of the Burgess fossils demonstrates the vast diversity of anatomical types, compared to now, among fauna after the Cambrian explosion 570 million years ago, the first time complex life appeared on Earth. Nothing in the fossil record reveals the ancestors of today’s life to have shown any general superiority or dominance at the time.
+>
+> 3.  Therefore, in contrast to the fable of Exhibit A, today’s life is simply lucky survivors that made it through the vast pruning of the Cambrian fauna, either through chance or because their ancestors were well-adapted to the specific challenges of time and place at critical junctures, which does not demonstrate any broad bodily superiority that made them destined to be winners in evolution.
+> 4.  Because all history proceeds within the same framework, the discovery of the Burgess Fauna and what they represent over the course of the 20th century also contains many elements of lucky contingencies.
+> 5.  This is normal! Broad forces exist, but a brief summary of the evolution of life reveals the many other critical nodes humanity’s ancestors survived through lottery.
+> 6.  Therefore, today is not inevitable. In fact, it’s incredibly unlikely. History follows a logic, but the end result is entirely unpredictable and basically random.
 
 ## Point One: Campfire tales about evolution to tuck us in at night
 
@@ -89,11 +89,11 @@ Still, it’s logically necessary since Gould has some key things he needs to ge
 
 First, these creatures are weird as hell.
 
-Fauna today fit into basic anatomical designs (again called phyla) and there are rules about what those designs contain. Most of the Burgess creatures follow none of these rules. Here is the aptly named Hallucigenia.
+Fauna today fit into basic anatomical designs (again called phyla) and there are rules about what those designs contain. Most of the Burgess creatures follow none of these rules. Here is the aptly named _Hallucigenia._
 
 ![](https://acximages.ennals.org/images/2024-book-reviews/16ac5be6f43de105.jpg)
 
-This is Dinomischus. Part cue-tip, part flower (but not actually at all), that lived in open waters. See that opening at the top? That’s its mouth and anus!
+This is _Dinomischus._ Part cue-tip, part flower (but not actually at all), that lived in open waters. See that opening at the top? That’s its mouth and anus!
 
 ![](https://acximages.ennals.org/images/2024-book-reviews/e99da1cedbde5c59.png)
 
@@ -101,7 +101,7 @@ I realize I’m just a layman and it’s of no particular value that I think the
 
 (By the way, if there are any major Hollywood directors reading this, please consider stealing some of these designs for movie aliens as they would be a refreshing change from humanoids, giant spiders, and octopi.)
 
-The second thing Gould gets across is that, while the Burgess Shale was filled with weirdos and, in fact, was majority-weirdo, it wasn’t only weirdo.
+The second thing Gould gets across is that, while the Burgess Shale was filled with weirdos and, in fact, was majority-weirdo, it wasn’t _only_ weirdo.
 
 This is a crustacean. And, yeah, it looks like a pretty normal crustacean.
 
@@ -115,7 +115,7 @@ But the prototypes of modern phyla weren’t particularly special within the bur
 
 It’s a cliche, but it bears repeating because it so deeply contradicts what our brains want to believe. Just as Earth is the third rock from the Sun, an unremarkable star in a nondescript exurb of a completely garden-variety galaxy, chordates and the other prototypes of survivors in the Burgess fossils were once one of many phyla in a post-Cambrian explosion planet with vastly more anatomical diversity than exists today.
 
-Gould makes the point, repeatedly, that the extinct designs were perfectly functional. This is Wiwaxia, which crawled on the sea floor while warding off predators with spikes. It’s not some primitive failed experiment but “a complete working organism – a herbivore or omnivore, living on small items of food...on the sea floor.”
+Gould makes the point, repeatedly, that the extinct designs were perfectly functional. This is _Wiwaxia,_ which crawled on the sea floor while warding off predators with spikes. It’s not some primitive failed experiment but “a complete working organism – a herbivore or omnivore, living on small items of food...on the sea floor.”
 
 ![](https://acximages.ennals.org/images/2024-book-reviews/d634a86f09a0f6ea.jpg)
 
@@ -157,7 +157,7 @@ First of all, Gould misclassifies Walcott. He wasn’t a generic traditionalist.
 
 Whittington, Briggs, and Simon worked in our world of post-war and post-modern chaos, decades after World War II shattered any consensus that stories needed to make moral sense. Moreover, and Gould doesn’t delve into this at all, Walcott worked in the age of eugenics; Whittington et al labored after the height of Civil Rights in an intellectual environment where diversity and equality held positive connotations.
 
-Whittington’s first major monograph of a Cambrian fauna was in 1971. Nine years earlier, Stephen Sondheim’s character sang in A Funny Thing Happened On The Way To The Forum, “Where is the moral? There is no moral!”
+Whittington’s first major monograph of a Cambrian fauna was in 1971. Nine years earlier, Stephen Sondheim’s character sang in _A Funny Thing Happened On The Way To The Forum_, “Where is the moral? There is no moral!”
 
 It was a much better milieu to discover human meaninglessness!
 
@@ -181,7 +181,7 @@ Dawkins’ second point is basically, so what?: “Gould expects us to be surpri
 
 Here, Dawkins is probably on firmer ground. Gould, who died in 2002, was repeatedly criticized for misrepresenting the views of his intellectual rivals.
 
-Still, I want to say: I’m surprised! Me! It’s not like I’ve spent all that much time considering this question directly. But, if you’d asked me before I read this book, I think I would have said that history proceeds more along the lines of how it does in Isaac Asimov’s Foundation trilogy, with broad rules about where we’re going and the details and timeline hammered out by individual actors.
+Still, I want to say: I’m surprised! Me! It’s not like I’ve spent all that much time considering this question directly. But, if you’d asked me before I read this book, I think I would have said that history proceeds more along the lines of how it does in Isaac Asimov’s _Foundation_ trilogy, with broad rules about where we’re going and the details and timeline hammered out by individual actors.
 
 Evolution by winnowing early diversity, and Gould’s forceful arguments for unpredictable contingency as the driving force of that winnowing, certainly changed how I think.
 
@@ -201,7 +201,7 @@ Is history contingent on critical junctures with unpredictable results and, ther
 
 First of all, to be clear, broad forces of history abound, less than academic historians admit but more than your average man-on-the-street probably believes.
 
-Take the two most important figures of the civil rights movement: Martin Luther King, Jr. and Lyndon Johnson. Ask most people whether we’d be living with southern de jure apartheid in the United States past the 1960s without those two historical figures and I’d bet many, if not most, would say yes.
+Take the two most important figures of the civil rights movement: Martin Luther King, Jr. and Lyndon Johnson. Ask most people whether we’d be living with southern _de jure_ apartheid in the United States past the 1960s without those two historical figures and I’d bet many, if not most, would say yes.
 
 Personally, I’d put my money on no. Take away those two and I bet the Civil Rights Act of 1965 and Voting Rights Act, in some form, both pass in the 1960s. It was the biggest issue of the day with two-thirds public support. It was a national embarrassment at the height of America’s Cold War rivalry with the Soviet Union. MLK was surrounded by other competent, notable Black activist leaders, and LBJ by other powerful civil rights-supporting politicians. I just don’t see these two individuals as the choke points of history here.[[90]](#ftnt90)
 
@@ -215,13 +215,13 @@ Once you see some of these critical, and improbable, nodes, you see them everywh
 
 They are at least as common as the big forces.
 
-Most of my nonfiction reading is on relatively modern political events and not natural history. So where Gould stops, the arrival of Homo Sapiens, I’ll posit some counterfactuals. Here are three, in my opinion, plausible ones, contingencies of little importance at the time that changed the course of history.
+Most of my nonfiction reading is on relatively modern political events and not natural history. So where Gould stops, the arrival of _Homo Sapiens,_ I’ll posit some counterfactuals. Here are three, in my opinion, plausible ones, contingencies of little importance at the time that changed the course of history.
 
-1.  China adopts a small alphabet and Europe adopts a large one. This is one of those quirks of history, a small thing that mattered only much later. Movable type actually was invented about [400 years earlier](https://en.wikipedia.org/wiki/Movable_type) in China than Europe, but the super long alphabet made it not very functional. Say Europe got the long alphabet and China got the short one. Knowledge spreads faster in China for hundreds of years, giving it that critical edge as the world moves into the 1500s. Are the Americas colonized from the East, spurring an age of East Asian wealth extraction and knowledge revolution that sets the post-Middle Ages stage of history in motion? Is Western Europe today, and much of the rest of the world, just crawling out from under the yoke of 500 years of East Asian, rather than Western European, domination?
-2.  Napoleon isn’t born. Does some version of the Louisiana Purchase happen? Sure, probably. Revolutions tend to be the kind of thing that forces you to sell some assets for a song. Does The French Revolution spill over into some sort of European continental war? I buy it, revolutions tend to go that way. But, still, Napoleon is such a singular figure. Without him, that war doesn’t reach Russia’s border. And, with that gone, so goes a good chunk of Russia’s 19th century national mythology (and all the best books 😔), Russian self-image as they battled the Nazis (if there are Nazis, in our hypothetical second timeline), a good chunk of Britain’s 19th century foreign policy, and the workings of thirty years of continental Europe’s failed attempts to balance powers against the rising forces of liberalism. History without him just seems very, very different.
-3.  In 1980, Ronald Reagan, as mercurial a president as any in history save Donald Trump, picks another member from his [short list](https://www.washingtonpost.com/archive/politics/1980/07/10/reagan-would-rather-go-it-alone-but-choose-he-must/746c9719-db7a-4161-8398-3629ebd8f748/), Donald Rumsfeld, for vice president in lieu of George H.W. Bush. In 1988, Rumsfeld is elected president (he considered running, in the timeline you’re reading this in). And the Cold War winds down with the chest-thumping, bellicose Rumsfeld as president, rather than prudent Bush. Does America go to war with the falling Soviet Union? It’s possible. Does America march into Baghdad and topple Saddam in the first Gulf War in 1991? Oh, absolutely. I mean, Rumsfeld did it – or, more precisely, was one of three or four central players – the first chance he got 10 years later.  
-      
-    You can argue that this is just a detail. The U.S. was bound to catastrophically overreach in the Middle East. And sure, fine! But toppling Saddam ten years earlier seems like a pretty big deal! For American history, for Middle Eastern history, and certainly for the 45 million people who live in Iraq. All contingent on a perfectly plausible and not terribly scrutinized political decision made 11 years before 1991.
+> 1.  China adopts a small alphabet and Europe adopts a large one. This is one of those quirks of history, a small thing that mattered only much later. Movable type actually was invented about [400 years earlier](https://en.wikipedia.org/wiki/Movable_type) in China than Europe, but the super long alphabet made it not very functional. Say Europe got the long alphabet and China got the short one. Knowledge spreads faster in China for hundreds of years, giving it that critical edge as the world moves into the 1500s. Are the Americas colonized from the East, spurring an age of East Asian wealth extraction and knowledge revolution that sets the post-Middle Ages stage of history in motion? Is Western Europe today, and much of the rest of the world, just crawling out from under the yoke of 500 years of East Asian, rather than Western European, domination?
+> 2.  Napoleon isn’t born. Does some version of the Louisiana Purchase happen? Sure, probably. Revolutions tend to be the kind of thing that forces you to sell some assets for a song. Does The French Revolution spill over into some sort of European continental war? I buy it, revolutions tend to go that way. But, still, Napoleon is such a singular figure. Without him, that war doesn’t reach Russia’s border. And, with that gone, so goes a good chunk of Russia’s 19th century national mythology (and all the best books 😔), Russian self-image as they battled the Nazis (if there are Nazis, in our hypothetical second timeline), a good chunk of Britain’s 19th century foreign policy, and the workings of thirty years of continental Europe’s failed attempts to balance powers against the rising forces of liberalism. History without him just seems very, very different.
+> 3.  In 1980, Ronald Reagan, as mercurial a president as any in history save Donald Trump, picks another member from his [short list](https://www.washingtonpost.com/archive/politics/1980/07/10/reagan-would-rather-go-it-alone-but-choose-he-must/746c9719-db7a-4161-8398-3629ebd8f748/), Donald Rumsfeld, for vice president in lieu of George H.W. Bush. In 1988, Rumsfeld is elected president (he considered running, in the timeline you’re reading this in). And the Cold War winds down with the chest-thumping, bellicose Rumsfeld as president, rather than prudent Bush. Does America go to war with the falling Soviet Union? It’s possible. Does America march into Baghdad and topple Saddam in the first Gulf War in 1991? Oh, absolutely. I mean, Rumsfeld did it – or, more precisely, was one of three or four central players – the first chance he got 10 years later.  
+>       
+>     You can argue that this is just a detail. The U.S. was bound to catastrophically overreach in the Middle East. And sure, fine! But toppling Saddam ten years earlier seems like a pretty big deal! For American history, for Middle Eastern history, and certainly for the 45 million people who live in Iraq. All contingent on a perfectly plausible and not terribly scrutinized political decision made 11 years before 1991.
 
 Gould has converted me.
 

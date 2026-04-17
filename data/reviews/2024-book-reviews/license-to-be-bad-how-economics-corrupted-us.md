@@ -23,7 +23,7 @@ If we lowered the bar just one peg below Laureates, and decided to check what wo
 
 Also, we would have learned that some things are silly to attempt to quantify. Apparently this alone would be enough to earn us a more well-rounded understanding of economics than many of the people you’ll see mentioned throughout this review.
 
-By the title, it’d be tempting for some to dismiss License to be Bad: How Economics Corrupted Us as the agenda of yet another humane idealist trying to take down the unassailable pillars of modern capitalism – but it’s not always the author’s own words that counteract them in this book. Sometimes it’s the fathers of the free market themselves. And I don’t mean in a roundabout, socratic-debate kind of way.
+By the title, it’d be tempting for some to dismiss _License to be Bad: How Economics Corrupted Us_ as the agenda of yet another humane idealist trying to take down the unassailable pillars of modern capitalism – but it’s not always the author’s own words that counteract them in this book. Sometimes it’s the fathers of the free market themselves. And I don’t mean in a roundabout, socratic-debate kind of way.
 
 I mean that they literally beg and shout into the roaring masses of their proponents to please… please stop spreading this complete misinterpretation of their theory, to no avail. Sometimes during their Nobel Prize acceptance speech itself.
 
@@ -33,7 +33,7 @@ It’s also a daunting examination of how an educational curriculum can lag seve
 
 Don’t worry if you haven’t brushed up on your economic superstars in a while! There’ll be a short re-cap whenever relevant (erring on the side of comfortable over-simplification). All this for the ultimate goal of trying to understand why:
 
-“Behaviour that to our grandparent’s generation might have seemed stupid, harmful or simply wicked now seems rational, natural, woven into the very logic of things.”
+“_Behaviour that to our grandparent’s generation might have seemed stupid, harmful or simply wicked now seems rational, natural, woven into the very logic of things.”_
 
 If you’ve ever felt suspicious (or like me, infuriated) by the fact that those who tend to flaunt the unassailable virtues of the free market often tend to be the very ones who stand to gain the most from it – this book (and this spiteful review), is probably for you.
 
@@ -47,7 +47,7 @@ For the sake of brevity, the essence of their argument can be eloquently simplif
 
 This of course, comes hand in hand with the implicit assumption that economic incentives can be the ultimate arbiters of human action and taste: markets ignore the kind of elitism that says going to the opera is more valuable than going to a wrestling match, and markets don’t make value judgements about the things you are allowed to consensually trade or not.
 
-Many succumb to its sweet siren call of false equivalence: Let the people decide! Just like in a democracy! You like democracy don’t you?
+Many succumb to its sweet siren call of false equivalence: Let the people decide! Just like in a democracy! You like _democracy_ don’t you?
 
 Yet market democracy is not like classical democracy. It is one dollar one vote, not one person one vote: the rich have more say because they have more buying power. Whether because they’re outstanding entrepreneurs, their wealthy grandparent slipped and fell down the stairs, or they went all in on a cryptocurrency.
 
@@ -55,25 +55,25 @@ This may not be an issue in most markets for ordinary goods and services (and we
 
 Aldred’s best illustrates this conflict with the following example:
 
-“If I need a kidney and I am willing to pay £20,000 to get one, and you are willing to sell yours for £20,000, then not only are we both better off if this transaction goes ahead but my desperate need for a kidney is met.
+“_If I need a kidney and I am willing to pay £20,000 to get one, and you are willing to sell yours for £20,000, then not only are we both better off if this transaction goes ahead but my desperate need for a kidney is met._
 
-My death may be prevented as a result. This seems to be economic imperialism in the service of a noble goal – yet selling kidneys is illegal in every country except Iran. And the sale of body parts has been explicitly prohibited by the United Nations, the European Union and the World Health Organization. In most countries, there is a severe shortage of kidneys available for transplant.”
+_My death may be prevented as a result. This seems to be economic imperialism in the service of a noble goal – yet selling kidneys is illegal in every country except Iran. And the sale of body parts has been explicitly prohibited by the United Nations, the European Union and the World Health Organization. In most countries, there is a severe shortage of kidneys available for transplant._”
 
 One might be tempted to ask themselves just how vulnerable, desperate, and powerless people have to be to justify the banning of an entire market.
 
 Becker of the Chicago school however, has no patience for such questions. Quite the contrary. “[Introducing Incentives in the Market for Live and Cadaveric Organ Donations](https://www.aeaweb.org/articles?id=10.1257/jep.21.3.3)’ is where our 1992 Nobel Prize winner buckled down to crunch the numbers himself:
 
-”the reservation price of an organ has three main additive components, a monetary compensation for the risk of death … for the time lost during recovery … for the risk of reduced quality of life”
+”_the reservation price of an organ has three main additive components, a monetary compensation for the risk of death … for the time lost during recovery … for the risk of reduced quality of life_”
 
 Divide here, multiply there, carry the eight, and Becker confidently concludes that a healthy kidney should go for the reasonable price of $19,800 per unit (by 2019 dollar prices!).
 
 In fairness to the economic imperalist’s pragmatic approach, Aldred concedes that one reason why the arguments for extending the scope of markets have been so powerfully influential is that there is no short and neat answer to many such questions of morality (when you remember to ask them!)
 
-Market incentives supposedly keep everything calm and fair. Since the exchange is voluntary, it will not take place if either side is unwilling or made worse off. Some economists go as far as to say that because of this, incentives cannot be unethical.
+Market incentives supposedly keep everything calm and fair. Since the exchange is voluntary, it will not take place if either side is unwilling or made worse off. Some economists go as far as to say that because of this, incentives _cannot_ be unethical.
 
-Aldred raises a very important counterproposition in this book however: “perhaps we should look for better ways of helping the destitute than dismantling them.”
+Aldred raises a very important counterproposition in this book however: “_perhaps we should look for better ways of helping the destitute than dismantling them_.”
 
-Granted, markets are NOT all the same – the [market for Sriracha sauce](https://edition.cnn.com/2023/06/29/business/sriracha-shortage-resell-prices/index.html) is not like the market for organs – and as a result, the reasons for not using markets will differ in different contexts too. And that context changes across time and place.
+Granted, markets are NOT all the same – the [market for Sriracha sauce](https://edition.cnn.com/2023/06/29/business/sriracha-shortage-resell-prices/index.html) is not like the market for organs – and as a result, the reasons for not using markets will differ in different contexts too. And that context changes across time and place.
 
 That’s why a perfectly acceptable market in one era, like a market for slaves, can be an abomination in another.
 
@@ -83,39 +83,39 @@ Speaking of abominable markets…
 
 Some context from Aldred himself to get us started:
 
-“Coase’s 1960 paper ‘The Problem of Social Cost’, which inspired the Coase Theorem, became the most-cited law journal article of all time. Coasean ideas led to the belief that the ultimate purpose of law is to maximize the wealth of all citizens. To achieve this, the legal system should establish clear rules and rights, and then get out of the way of market forces and deal-making between individuals.”
+“_Coase’s 1960 paper ‘The Problem of Social Cost’, which inspired the Coase Theorem, became the most-cited law journal article of all time. Coasean ideas led to the belief that the ultimate purpose of law is to maximize the wealth of all citizens. To achieve this, the legal system should establish clear rules and rights, and then get out of the way of market forces and deal-making between individuals._”
 
 In essence, on top of introducing markets into areas where they previously didn’t exist, the Coase Theorum is a sort of “do-nothing” manifesto – the government should set some terms, sit back, and stay out of other people’s business. Any issues arising from private deals between affected parties can be solved between themselves!
 
-The only problem is that all of this is one big accident.
+The only problem is that all of this is **one big accident.**
 
-For starters, Ronald Coase, 1991 Nobel Prize in Economics winner, never really meant to be an economist in the first place. He wanted to study History, but didn’t meet the course requirements for his coveted degree due to never studying Latin (that’s how things worked back in the 1920s).
+For starters, Ronald Coase, 1991 Nobel Prize in Economics winner, never really meant to be an economist in the first place. He wanted to study History, but didn’t meet the course requirements for his coveted degree due to never studying Latin (that’s how things worked back in the 1920s).
 
 He then resolved to pivot to Chemistry instead, although he quickly discovered that he despised mathematics, which were again, a requirement. So that didn’t work out either. By process of elimination, he eventually found himself in the London School of Economics – where he excelled.
 
-The real accident however, is that by definition NONE of the markets created according to the previously mentioned Coasean principles can ever be expected to work properly – since they are all based on a misinterpretation of what Coase really meant.
+The _real_ accident however, is that by definition NONE of the markets created according to the previously mentioned Coasean principles can ever be expected to work properly – since they are all based on a misinterpretation of what Coase really meant.
 
 It all originated from a discussion that emerged as the top minds of the Chicago School were sitting around a table hanging out:
 
-“Coase introduced the argument through a story about two farmers. Suppose, he said, a rancher’s cows stray on to a neighbouring arable farmer’s crops and damage them. If the two farmers are free to negotiate a deal to address this problem, then there are two possible outcomes. If the cost of restraining the cattle (say, by erecting a fence) is less than the cost of the damage to the crops, then the cattle will be restrained; conversely, if the cost of restraining the cattle is greater than the value of the damaged crops, then the crops will get damaged. The facts about relative costs will determine the outcome of the negotiations, regardless of whether the law gives rights to the rancher or to the arable farmer.”
+“_Coase introduced the argument through a story about two farmers. Suppose, he said, a rancher’s cows stray on to a neighbouring arable farmer’s crops and damage them. If the two farmers are free to negotiate a deal to address this problem, then there are two possible outcomes. If the cost of restraining the cattle (say, by erecting a fence) is less than the cost of the damage to the crops, then the cattle will be restrained; conversely, if the cost of restraining the cattle is greater than the value of the damaged crops, then the crops will get damaged. The facts about relative costs will determine the outcome of the negotiations, regardless of whether the law gives rights to the rancher or to the arable farmer.”_
 
-Great story. Yet it was introduced “...as obviously fiction, a kind of thought experiment to show the fantastic conclusions that follow from the story’s fictitious assumption: that there are no costs or other obstacles to private deal-making or, in Coase’s words, the assumption of ‘zero transaction costs’. While this style of reasoning is familiar to philosophers as a reductio ad absurdum, the Chicago economists missed the point.
+Great story. Yet it was introduced “..._as obviously fiction, a kind of thought experiment to show the fantastic conclusions that follow from the story’s fictitious assumption: that there are no costs or other obstacles to private deal-making or, in Coase’s words, the assumption of ‘zero transaction costs’. While this style of reasoning is familiar to philosophers as a reductio ad absurdum, the Chicago economists missed the point._
 
-Similarly to how Schrodinger originally intended the infamous cat in a box thought experiment to be a [parody](https://www.forbes.com/sites/startswithabang/2020/06/26/ask-ethan-what-are-we-getting-wrong-about-schrodingers-cat/?sh=7b6135fddd9b), Coase, simply meant to illustrate that in a world without transaction costs, government intervention wouldn’t be needed. Naively assuming that naturally, no-one would be goofy enough to dare to forget the fact that transaction costs do exist in the real world. Ranging from the environmental to the emotional. All the time. Everywhere.
+Similarly to how Schrodinger originally intended the infamous cat in a box thought experiment to be a [parody](https://www.forbes.com/sites/startswithabang/2020/06/26/ask-ethan-what-are-we-getting-wrong-about-schrodingers-cat/?sh=7b6135fddd9b), Coase, simply meant to illustrate that in a world without transaction costs, government intervention wouldn’t be needed. Naively assuming that naturally, no-one would be goofy enough to dare to forget the fact that transaction costs _do_ exist in the real world. Ranging from the environmental to the emotional. All the time. Everywhere.
 
 Things escalated quickly from there. By 1966, Coase’s approach had been elevated to the status of “Theorem” (not by him! But by Stigler, who would later win the Nobel prize himself in 1982), and from there rocketed on to appear in most economics textbooks, never looking back - entrenching a disastrous misinterpretation of how the world works in vulnerable minds far and wide.
 
 By the 1970s, Coase had begun to get uncomfortable, and actively pointed out the misinterpretation whenever he got the chance, but he did not shout loudly enough and was drowned out in the torrent of other influential Chicago voices piping up.
 
-And so, Coasean thinking rampaged unfettered, leading “...directly to policies which are now mainstream but were seen as shockingly radical when first proposed, such as the auctioning of mobile-phone and TV broadcast spectra by governments, and government-created carbon markets… More recently, the Coase Theorem has been invoked in proposals for other ‘created’ markets, including an intergovernmental trade in obligations to admit refugees, or population control via a market in procreation permits.
+And so, Coasean thinking rampaged unfettered, leading “..._directly to policies which are now mainstream but were seen as shockingly radical when first proposed, such as the auctioning of mobile-phone and TV broadcast spectra by governments, and government-created carbon markets… More recently, the Coase Theorem has been invoked in proposals for other ‘created’ markets, including an intergovernmental trade in obligations to admit refugees, or population control via a market in procreation permits._
 
 Let’s lightly delve into the architecture of modern carbon markets to illustrate the point. They’re designed under the Coasean assumption that it doesn’t really matter which countries or firms are given permits to emit X units of carbon, since in a free market for emissions permits, they’ll end up in the hands of whoever values them most anyway. The politicians get to decide the emission target, and the free market will take care of the rest!
 
-Nevermind the fact that this dynamic can encourage emitters to exploit easy short-term wins to cut emissions, focusing on low hanging fruit to reach their target instead of systematic change. Forget that that might dis-incentivize long term investments towards cleaner infrastructure or innovations in new technologies. Also disregard that all this might keep firms trudging on paths that end up being more costly in the future.
+Nevermind the fact that this dynamic can encourage emitters to exploit easy short-term wins to cut emissions, focusing on low hanging fruit to reach their target instead of systematic change. Forget that that might dis-incentivize long term investments towards cleaner infrastructure or innovations in new technologies. Also disregard that all this might keep firms trudging on paths that end up being _more_ costly in the future.
 
 And whatever you do, don’t try to invoke any additional form of authority to try and stop the gradual decay of the earth. There’s no need, really!
 
-So here we all are, watching helplessly as a misinterpreted theory serves as a basis for a misfiring policy. As if in a greek tragedy, the world of zero transaction costs is often described as a Caosean one - the complete opposite of what he intended. The cherry on top however, is that Coase always preferred it spelled with an I (“Coasian”). Not even his spelling was adopted.
+So here we all are, watching helplessly as a misinterpreted theory serves as a basis for a misfiring policy. As if in a greek tragedy, the world of zero transaction costs is often described as a _Caosean_ one - the complete opposite of what he intended. The cherry on top however, is that Coase always preferred it spelled with an I (“_Coasian_”). Not even his spelling was adopted.
 
 And that’s just one of many examples of how misguided economic principles create a world in which...
 
@@ -123,15 +123,15 @@ And that’s just one of many examples of how misguided economic principles crea
 
 Quick! If you had to pick only one employee in a Fortune 500 company to incentivize to work harder via a performance bonus, who would you choose?
 
-If you just screamed “THE CEO!” into your screen, congratulations, you’ve just startled everyone in your household due to the butterfly effect originating from the outrageously influential paper “[CEO Incentives](https://hbr.org/1990/05/ceo-incentives-its-not-how-much-you-pay-but-how)”, published in the Harvard Business Review by Jensen and Murphy in 1990.
+If you just screamed “THE CEO!” into your screen, congratulations, you’ve just startled everyone in your household due to the butterfly effect originating from the outrageously influential paper “[CEO Incentives](https://hbr.org/1990/05/ceo-incentives-its-not-how-much-you-pay-but-how)”, published in the _Harvard Business Review_ by Jensen and Murphy in 1990.
 
 The paper was popular since it proposed a solution to a fundamental problem: How to get CEOs and senior management to work super hard, even though they work on a salary, while company profits tend to go directly to Shareholders. The darned incentives just aren’t aligned (this was before employee-equity rich Startups were in vogue mind you).
 
 Jensen and Murphy were dabbling in the economic art of “optimal contracting”, a discipline spearheaded by Bengt Holmstrom at the time. It aimed to find the ultimate “pay for performance” package for upper management, and ended up laying out the ideological groundwork that today is taken for granted as a piece of all too common sense:
 
-The bestest most productivest of people in a company surely deserve the bestest of rewards – and if you’re a CEO of a profitable company, congratulations, that person is by definition you!
+The bestest most productivest of people in a company surely deserve the bestest of rewards – and if you’re a CEO of a profitable company, congratulations, that person is by definition _you_!
 
-So obvious was this conclusion, that in the 15 years that followed the publishing of the paper, the average total “compensation package” of CEOs in the top 500 US companies more than tripled (after accounting for inflation).
+So obvious was this conclusion, that in the 15 years that followed the publishing of the paper, the average total “compensation package” of CEOs in the top 500 US companies more than tripled _(after_ accounting for inflation).
 
 The problem is, and you guessed it, performance in these companies didn’t necessarily correlate in any meaningful way. Not to mention that with the benefit of hindsight, we can see some glaringly flawed assumptions here.
 
@@ -139,13 +139,13 @@ To name a few, it assumes that any performance increase in a company is solely d
 
 By 2004 the dynamics of this policy had played out for long enough, and the difference between the blackboard theory and stark reality eventually became so clear, that both Jensen and Murphy themselves eventually completely retracted their position in their fittingly named paper: “[Renumeration: Where We’ve Been, How We Got To Here, What Are The Problems, And How To Fix Them”](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=561305.).
 
-Specifically naming their own older study (for some reason in the third person) they state in no unclear terms that: “In their 1990 study of CEO compensation Jensen and Murphy (1990a) had this to say: ‘’Are current levels of CEO compensation high enough to attract the best and brightest individuals to careers in corporate management? The answer is, probably not.” As the reader of this report has undoubtedly surmised, Jensen and Murphy would not give that answer today”
+Specifically naming their own older study (for some reason in the third person) they state in no unclear terms that: _“In their 1990 study of CEO compensation Jensen and Murphy (1990a) had this to say: ‘’Are current levels of CEO compensation high enough to attract the best and brightest individuals to careers in corporate management? The answer is, probably not.” As the reader of this report has undoubtedly surmised, Jensen and Murphy would not give that answer today”_
 
 This changed very little however. So little so, that 11 years AFTER their retraction, Holmstromm (compensation package daddy) was awarded the Nobel Prize for his work on optimal contracting anyway.
 
-By then however, he too had become disillusioned, and nobly used his 2016 acceptance speech as an opportunity to disparage the very theory he was winning the prize for, concluding that :‘bringing the market inside the firm is such a misguided idea, something I failed to understand [earlier] and advocates of market-like incentives in firms seem to miss today’.
+By then however, he too had become disillusioned, and nobly used his 2016 acceptance speech as an opportunity to disparage the very theory he was winning the prize for, concluding that :_‘bringing the market inside the firm is such a misguided idea, something I failed to understand [earlier] and advocates of market-like incentives in firms seem to miss today’._
 
-Yet despite their most honest of efforts to change course, here we all are, still tutting loudly to ourselves whenever the occasional scandal appears in the news, telling us that the CEO of such and such just got a performance bonus of angering number while an equally angering amount of employees are getting laid off.
+Yet despite their most honest of efforts to change course, here we all are, still tutting loudly to ourselves whenever the occasional scandal appears in the news, telling us that the CEO of _such and such_ just got a performance bonus of _angering number_ while an _equally angering amount of employees_ are getting laid off.
 
 After reading example after example of outdated economic ideas overstaying their welcome by decades at a time, you can’t help but get a sense that:
 
@@ -163,11 +163,11 @@ There is also a constant reluctance to admit that some things just can’t be wo
 
 How the hell could anyone claim to accurately shove these non-economic concepts into economic models?
 
-At least two Nobel laureate economists have noted the problem. In Paul Krugman’s (2008 Nobel) words, “we just don’t see what we can’t formalize”. George Akerlof (2001 Nobel) argues that economic analysis is ignored unless it is written up in a research paper, and that can only happen if the analysis is mathematical: “What I am worried about most of all, is what we don’t see… the analysis that is never seen, that never becomes a paper… And it can’t become a paper, because that’s not what a paper in economics is all about… we know such vacuums exist”.
+At least two Nobel laureate economists have noted the problem. In Paul Krugman’s (2008 Nobel) words, “_we just don’t see what we can’t formalize”_. George Akerlof (2001 Nobel) argues that economic analysis is ignored unless it is written up in a research paper, and that can only happen if the analysis is mathematical: “_What I am worried about most of all, is what we don’t see… the analysis that is never seen, that never becomes a paper… And it can’t become a paper, because that’s not what a paper in economics is all about… we know such vacuums exist_”.
 
-Even Becker, one of the leaders of the homo economicus line of thought (and the opening and closing act of this review), eventually claimed that his own theory was misinterpreted too!
+Even Becker, one of the leaders of the _homo economicus_ line of thought (and the opening and closing act of this review), eventually claimed that _his_ own theory was misinterpreted too!
 
-Emphasizing that he never intended homo economicus to imply everyone was selfish, he was simply assuming “that individuals maximise welfare as they conceive it, whether they be selfish, altruistic, loyal, spiteful, or masochistic”.
+Emphasizing that he never intended _homo economicus_ to imply everyone was _selfish_, he was simply assuming “_that individuals maximise welfare as they conceive it, whether they be selfish, altruistic, loyal, spiteful, or masochistic_”.
 
 However, the effectiveness of this clarification (apart from helping him join the ‘’woefully misinterpreted influential economist club’’) is dubious at best. And despite it, we are still no closer to measuring the level of spite seething through my fingers as I write this review imagining the smug grin of that rich bastard I met at a party a while back, who claimed that there’s nothing wrong with getting people addicted to digital casinos since it provides them “entertainment value”. But it’s there. Oh it’s there.
 
@@ -175,7 +175,7 @@ Rinse and repeat these patterns across a whole book full of meticulous dissectio
 
 Learn how the economic concept of “discount” (money deployed in the present > money deployed in the future) is being used to justify not giving a shit about global warming’s impact on future generations
 
-Discover how constantly seeing workers as human beings with dreams and aspirations cold calculating selfish machines leads to immense human suffering and then backfires anyway.
+Discover how constantly seeing workers as human beings with dreams and aspirations cold calculating selfish machines leads to immense human suffering and then backfires anyway.
 
 Consistently spot how criminally flawed the methodology of the people literally defining our worldview tends to be.
 
