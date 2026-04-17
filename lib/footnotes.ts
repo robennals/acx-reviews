@@ -102,11 +102,81 @@ function extractSdfootnote(md: string): ExtractedFootnotes {
   return { body, footnotes };
 }
 
+function extractFtnt(md: string): ExtractedFootnotes {
+  const defRegex = /^\[\[(\d+)\]\]\(#ftntref\d+\)[ \t]?(.*)$/gm;
+  const defs = new Map<string, string[]>();
+  const defLineRanges: Array<[number, number]> = [];
+  let match: RegExpExecArray | null;
+
+  while ((match = defRegex.exec(md)) !== null) {
+    const id = match[1];
+    const firstLine = match[2];
+    const startIdx = match.index;
+    const lineEnd = md.indexOf('\n', startIdx);
+    let endIdx = lineEnd === -1 ? md.length : lineEnd;
+    const lines = [firstLine];
+    let cursor = endIdx + 1;
+    while (cursor < md.length) {
+      const nextLineEnd = md.indexOf('\n', cursor);
+      const nextLine = md.slice(cursor, nextLineEnd === -1 ? md.length : nextLineEnd);
+      if (/^\[\[\d+\]\]\(#ftntref\d+\)/.test(nextLine)) break;
+      lines.push(nextLine);
+      endIdx = nextLineEnd === -1 ? md.length : nextLineEnd;
+      if (nextLineEnd === -1) break;
+      cursor = nextLineEnd + 1;
+    }
+    defs.set(id, lines);
+    defLineRanges.push([startIdx, endIdx]);
+  }
+
+  let body = md;
+  for (let i = defLineRanges.length - 1; i >= 0; i--) {
+    const [start, end] = defLineRanges[i];
+    body = body.slice(0, start) + body.slice(end);
+  }
+
+  const seen = new Set<string>();
+  body = body.replace(/\[\[(\d+)\]\]\(#ftnt\d+\)/g, (_m, id: string) => {
+    const first = !seen.has(id);
+    seen.add(id);
+    return REF_MARKER(id, first);
+  });
+
+  const orderedIds: string[] = [];
+  const orderSeen = new Set<string>();
+  const orderRegex = /data-fn-id="(\d+)"/g;
+  let orderMatch: RegExpExecArray | null;
+  while ((orderMatch = orderRegex.exec(body)) !== null) {
+    const id = orderMatch[1];
+    if (!orderSeen.has(id)) {
+      orderSeen.add(id);
+      orderedIds.push(id);
+    }
+  }
+
+  const footnotes: ExtractedFootnote[] = [];
+  for (const id of orderedIds) {
+    const lines = defs.get(id);
+    if (!lines) continue;
+    footnotes.push({ id, raw: lines.join('\n').trim() });
+  }
+  for (const [id, lines] of defs) {
+    if (!orderSeen.has(id)) {
+      footnotes.push({ id, raw: lines.join('\n').trim() });
+    }
+  }
+
+  body = body.replace(/\n{3,}$/g, '\n\n').replace(/\s+$/g, '') + '\n';
+  return { body, footnotes };
+}
+
 export function extractFootnotes(markdown: string): ExtractedFootnotes {
   const format = detectFormat(markdown);
   switch (format) {
     case 'sdfootnote':
       return extractSdfootnote(markdown);
+    case 'ftnt':
+      return extractFtnt(markdown);
     default:
       return { body: markdown, footnotes: [] };
   }
