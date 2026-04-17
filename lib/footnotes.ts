@@ -15,6 +15,17 @@ const REF_MARKER = (id: string, first: boolean) =>
     ? `<sup class="fn-ref" data-fn-id="${id}" id="fn-ref-${id}">[${id}]</sup>`
     : `<sup class="fn-ref" data-fn-id="${id}">[${id}]</sup>`;
 
+// Matches trailing "separator" lines that can appear after plain-bracket footnote
+// definitions: blank lines and markdown horizontal rules (`* * *`, `---`, `___`).
+function isTrailingSeparator(line: string): boolean {
+  const t = line.trim();
+  if (t === '') return true;
+  if (/^(\*[ \t]*){3,}$/.test(t)) return true;
+  if (/^(-[ \t]*){3,}$/.test(t)) return true;
+  if (/^(_[ \t]*){3,}$/.test(t)) return true;
+  return false;
+}
+
 function detectFormat(md: string): Format {
   if (
     /\[\d+\]\(#sdfootnote\d+sym\)/.test(md) ||
@@ -30,9 +41,10 @@ function detectFormat(md: string): Format {
   }
   if (/\[\d+\]\(https?:\/\/[^)]*#fn:[^)]+\)/.test(md)) return 'fn';
   // Plain: a trailing block of `[N] content` lines at end of document
+  // (allowing trailing blank lines and separators like `* * *`).
   const lines = md.split('\n');
   let i = lines.length - 1;
-  while (i >= 0 && lines[i].trim() === '') i--;
+  while (i >= 0 && isTrailingSeparator(lines[i])) i--;
   if (i >= 0 && /^\[\d+\][ \t]/.test(lines[i])) return 'plain';
   return 'none';
 }
@@ -182,16 +194,63 @@ function extractFtnt(md: string): ExtractedFootnotes {
 }
 
 function extractFn(md: string): ExtractedFootnotes {
-  // Locate and strip the trailing `## Footnotes` section
-  const footnotesHeadingMatch = /^##[ \t]+Footnotes[ \t]*$/m.exec(md);
   const defsByName = new Map<string, string>();
   let body = md;
 
+  // Locate the trailing def region. Prefer an explicit `## Footnotes` heading when
+  // present; otherwise fall back to the earliest top-level numbered list item that
+  // ends with a `[↩](...#fnref:NAME)` back-link (kramdown without heading).
+  const footnotesHeadingMatch = /^##[ \t]+Footnotes[ \t]*$/m.exec(md);
+  let sectionStart = -1;
+  let sectionFromLine = 0;
+
   if (footnotesHeadingMatch) {
-    const sectionStart = footnotesHeadingMatch.index;
+    sectionStart = footnotesHeadingMatch.index;
+    sectionFromLine = 1; // drop heading
+  } else {
+    // Walk lines, find contiguous trailing block of numbered list items with back-links.
+    const lines = md.split('\n');
+    const backRefRegex = /\[↩\]\(https?:\/\/[^)]*#fnref:([^)]+)\)/;
+    // Find the highest index where a numbered item with a back-link exists.
+    let lastBackRefLine = -1;
+    for (let i = lines.length - 1; i >= 0; i--) {
+      if (/^\d+\.[ \t]+/.test(lines[i]) && backRefRegex.test(lines[i])) {
+        lastBackRefLine = i;
+        break;
+      }
+    }
+    if (lastBackRefLine >= 0) {
+      // Walk back from that line to find the start of the list block.
+      let firstListLine = lastBackRefLine;
+      for (let i = lastBackRefLine - 1; i >= 0; i--) {
+        const line = lines[i];
+        if (/^\d+\.[ \t]+/.test(line)) {
+          firstListLine = i;
+          continue;
+        }
+        if (line.trim() === '') {
+          // Peek past blanks
+          let j = i;
+          while (j >= 0 && lines[j].trim() === '') j--;
+          if (j >= 0 && /^\d+\.[ \t]+/.test(lines[j])) {
+            i = j + 1;
+            continue;
+          }
+          break;
+        }
+        // Continuation lines (indented) of current item — keep going
+        if (/^[ \t]/.test(line) && firstListLine <= lastBackRefLine) continue;
+        break;
+      }
+      sectionStart = lines.slice(0, firstListLine).join('\n').length + (firstListLine > 0 ? 1 : 0);
+      sectionFromLine = 0;
+    }
+  }
+
+  if (sectionStart >= 0) {
     const section = md.slice(sectionStart);
     const items: string[] = [];
-    const lines = section.split('\n').slice(1); // drop heading
+    const lines = section.split('\n').slice(sectionFromLine);
     let current: string[] = [];
     let inItem = false;
     for (const line of lines) {
@@ -210,7 +269,13 @@ function extractFn(md: string): ExtractedFootnotes {
       const backRefMatch = /\[↩\]\(https?:\/\/[^)]*#fnref:([^)]+)\)/.exec(withoutBullet);
       if (!backRefMatch) continue;
       const name = backRefMatch[1];
-      const cleaned = withoutBullet.replace(backRefMatch[0], '').trim();
+      let cleaned = withoutBullet.replace(backRefMatch[0], '');
+      // Strip trailing blank lines and separator rules from the def content.
+      const defLines = cleaned.split('\n');
+      while (defLines.length > 0 && isTrailingSeparator(defLines[defLines.length - 1])) {
+        defLines.pop();
+      }
+      cleaned = defLines.join('\n').trim();
       defsByName.set(name, cleaned);
     }
 
@@ -250,26 +315,48 @@ function extractFn(md: string): ExtractedFootnotes {
 
 function extractPlain(md: string): ExtractedFootnotes {
   const lines = md.split('\n');
-  const defs: Array<{ id: string; content: string }> = [];
 
-  let i = lines.length - 1;
-  while (i >= 0 && lines[i].trim() === '') i--;
+  // Find the trailing def region. Skip trailing blanks and separator rules.
+  let endIdx = lines.length - 1;
+  while (endIdx >= 0 && isTrailingSeparator(lines[endIdx])) endIdx--;
+  if (endIdx < 0 || !/^\[\d+\][ \t]/.test(lines[endIdx])) {
+    return { body: md, footnotes: [] };
+  }
 
-  const defIndices: number[] = [];
-  while (i >= 0) {
+  // Walk back from endIdx, keeping def-start lines AND blank lines that sit between
+  // defs (the Substack/kramdown-style layout separates each def with a blank line).
+  // Stop at the first non-blank, non-def line — that's the end of the body.
+  let firstDefIdx = endIdx;
+  for (let i = endIdx - 1; i >= 0; ) {
     const line = lines[i];
-    const match = /^\[(\d+)\][ \t](.*)$/.exec(line);
-    if (!match) break;
-    defs.unshift({ id: match[1], content: match[2] });
-    defIndices.unshift(i);
-    i--;
+    if (/^\[\d+\][ \t]/.test(line)) {
+      firstDefIdx = i;
+      i--;
+      continue;
+    }
+    if (line.trim() === '') {
+      // Peek past consecutive blanks; if a def-start is above, keep going.
+      let j = i;
+      while (j >= 0 && lines[j].trim() === '') j--;
+      if (j >= 0 && /^\[\d+\][ \t]/.test(lines[j])) {
+        i = j;
+        continue;
+      }
+      break;
+    }
+    break;
+  }
+
+  const defs: Array<{ id: string; content: string }> = [];
+  for (let k = firstDefIdx; k <= endIdx; k++) {
+    const m = /^\[(\d+)\][ \t](.*)$/.exec(lines[k]);
+    if (m) defs.push({ id: m[1], content: m[2] });
   }
 
   if (defs.length === 0) {
     return { body: md, footnotes: [] };
   }
 
-  const firstDefIdx = defIndices[0];
   const body = lines.slice(0, firstDefIdx).join('\n').replace(/\s+$/g, '') + '\n';
 
   const defById = new Map<string, string>();

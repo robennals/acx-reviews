@@ -27,9 +27,12 @@ async function main() {
       const full = fs.readFileSync(path.join(REVIEWS_DIR, contestDir, file), 'utf8');
       const { content } = parseMarkdown(full);
       const result = await markdownToHtml(content);
+      // When there are no footnotes, emit just the body HTML to match the baseline's
+      // plain-string output byte-for-byte (so no-footnote reviews produce zero diff).
+      // When footnotes exist, wrap with explicit sections for inspection.
       const payload =
-        typeof result === 'string'
-          ? result
+        result.footnotes.length === 0
+          ? result.html
           : `<!-- BODY -->\n${result.html}\n<!-- FOOTNOTES -->\n${JSON.stringify(
               result.footnotes,
               null,

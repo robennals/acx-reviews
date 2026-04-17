@@ -228,3 +228,53 @@ test('sdfootnote def without matching ref is still listed', () => {
   assert.equal(result.footnotes.length, 1);
   assert.equal(result.footnotes[0].id, '1');
 });
+
+test('plain: skips trailing horizontal rule separators like * * *', () => {
+  const input = [
+    'Body text referring to [1].',
+    '',
+    '[1] First footnote.',
+    '',
+    '* * *',
+    '',
+  ].join('\n');
+
+  const result = extractFootnotes(input);
+  assert.equal(result.footnotes.length, 1);
+  assert.equal(result.footnotes[0].id, '1');
+  assert.equal(result.footnotes[0].raw, 'First footnote.');
+});
+
+test('plain: multiple defs separated by blank lines are all extracted', () => {
+  const input = [
+    'Body refers to [1], [2], and [3].',
+    '',
+    '[1] First footnote.',
+    '',
+    '[2] Second footnote.',
+    '',
+    '[3] Third footnote.',
+    '',
+    '* * *',
+    '',
+  ].join('\n');
+
+  const result = extractFootnotes(input);
+  assert.equal(result.footnotes.length, 3);
+  assert.deepEqual(result.footnotes.map(f => f.id), ['1', '2', '3']);
+});
+
+test('fn: works without ## Footnotes heading when trailing list has fnref back-links', () => {
+  const input = [
+    'Body.[1](https://ex.com/p#fn:a) More.[2](https://ex.com/p#fn:b)',
+    '',
+    '1.  First note. [↩](https://ex.com/p#fnref:a)',
+    '2.  Second note. [↩](https://ex.com/p#fnref:b)',
+    '',
+  ].join('\n');
+
+  const result = extractFootnotes(input);
+  assert.equal(result.footnotes.length, 2);
+  assert.deepEqual(result.footnotes.map(f => f.id), ['1', '2']);
+  assert.ok(result.footnotes[0].raw.includes('First note'));
+});
