@@ -104,3 +104,39 @@
     line-height: 1.75;
   }
 }
+
+.prose .fn-ref {
+  display: inline-block;
+  vertical-align: super;
+  font-size: 0.75em;
+  line-height: 1;
+  padding: 0 0.25em;
+  margin: 0 -0.125em;
+  color: hsl(var(--link));
+  cursor: pointer;
+  border-radius: 3px;
+  text-decoration: none;
+  user-select: none;
+}
+
+.prose .fn-ref:hover {
+  background-color: hsl(var(--link) / 0.12);
+  color: hsl(var(--link-hover));
+}
+
+.prose .fn-ref:focus-visible {
+  outline: 2px solid hsl(var(--ring));
+  outline-offset: 2px;
+}
+
+/* Expand hit target on touch devices without changing visible size */
+@media (pointer: coarse) {
+  .prose .fn-ref {
+    position: relative;
+  }
+  .prose .fn-ref::after {
+    content: '';
+    position: absolute;
+    inset: -10px -4px;
+  }
+}
