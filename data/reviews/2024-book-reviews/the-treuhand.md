@@ -47,7 +47,7 @@ Independently, the people in the GDR were losing faith in their currency, which,
 
 Comes the Deutschmark, we shall stay;
 
-Does it not, we’ll go away![[41]](#ftnt41)
+Does it not, we’ll go away\![[41]](#ftnt41)
 
 Due to these factors and general skepticism towards reform proposals in the East, which were considered too vague, too slow and difficult to pull off in a country where no one had any experience in a market system, Erhard’s idea was taken up by a working group in the chancellery and then proposed to Kohl:
 

@@ -122,57 +122,59 @@ function parseTimestamp(timestamp: string): string {
 }
 
 /**
- * Sanitize a title: strip embedded image markdown and excessive length
+ * If a title is exactly two copies of the same string (with or without a
+ * separating space), return the single copy. Handles submitters who paste
+ * their title twice into the form, e.g. "Foo Bar Foo Bar" -> "Foo Bar".
  */
-function sanitizeTitle(raw: string): string {
-  return raw
-    .replace(/!\[[^\]]*\]\([^)]*\)/g, '') // Remove embedded images
-    .replace(/\s+/g, ' ')                  // Normalize whitespace
-    .trim()
-    .slice(0, 200);                        // Cap length
+function dedupeRepeatedTitle(title: string): string {
+  const t = title.trim();
+  if (t.length < 10) return t;
+  // "X X" — odd length, middle char is a space
+  if (t.length % 2 === 1 && t[(t.length - 1) / 2] === ' ') {
+    const half = (t.length - 1) / 2;
+    const first = t.slice(0, half);
+    const second = t.slice(half + 1);
+    if (first === second) return first;
+  }
+  // "XX" — even length, exact halves
+  if (t.length % 2 === 0) {
+    const half = t.length / 2;
+    if (t.slice(0, half) === t.slice(half)) return t.slice(0, half);
+  }
+  return t;
 }
 
 /**
- * Strip the leading title from the markdown content if it duplicates the CSV title.
+ * Sanitize a title: strip embedded image markdown, dedupe accidental
+ * self-repetition, normalize whitespace, cap length.
+ */
+function sanitizeTitle(raw: string): string {
+  const cleaned = raw
+    .replace(/!\[[^\]]*\]\([^)]*\)/g, '') // Remove embedded images
+    .replace(/\s+/g, ' ')                  // Normalize whitespace
+    .trim();
+  return dedupeRepeatedTitle(cleaned).slice(0, 200);
+}
+
+/**
+ * Strip the leading title (and related citation/byline lines) from markdown
+ * content when they duplicate the CSV title.
  *
- * Google Docs often start with a title line (as a heading, bold text, or plain text)
- * that repeats the title we already have from the CSV. Since the site renders the
- * title from frontmatter in the page header, we strip it to avoid duplication.
+ * Google Docs often start with one or more title-block lines — a heading,
+ * a quoted citation like "Title". Author Year, or a "by Author" byline —
+ * that repeat information already shown in the page header from frontmatter.
+ * We strip up to 3 such lines so they don't render twice.
  *
- * Matches if the first non-empty line is:
- *   - A markdown heading: # Title, ## Title, etc.
- *   - Bold text: **Title**
- *   - A short line (<150 chars) that shares significant words with the CSV title
+ * A line is stripped only if it's short (<150 chars) AND either:
+ *   - shares >50% word overlap (either direction) with the CSV title, or
+ *   - is an author byline starting with "by "
+ *
+ * Formatting alone (heading/bold/italic) is NOT enough — otherwise legitimate
+ * first section headings like "# Intro" or "## Background" would be stripped.
  */
 function stripLeadingTitle(markdown: string, csvTitle: string): string {
   const lines = markdown.split('\n');
 
-  // Find first non-empty line
-  let firstIdx = 0;
-  while (firstIdx < lines.length && !lines[firstIdx].trim()) {
-    firstIdx++;
-  }
-  if (firstIdx >= lines.length) return markdown;
-
-  const firstLine = lines[firstIdx].trim();
-
-  // Extract plain text from the first line for comparison
-  const plainFirst = firstLine
-    .replace(/^#{1,6}\s+/, '')     // strip heading markers
-    .replace(/\*\*/g, '')          // strip bold
-    .replace(/_/g, '')             // strip italic
-    .replace(/\[([^\]]+)\]\([^)]*\)/g, '$1') // links to text
-    .trim();
-
-  // Skip if the first line is long (likely a real paragraph, not a title)
-  if (plainFirst.length > 150) return markdown;
-
-  // Check if it looks like a title line (heading or bold)
-  const isHeading = /^#{1,6}\s+/.test(firstLine);
-  const isBold = /^\*\*[^*]+\*\*$/.test(firstLine.replace(/\s+$/, ''));
-  const isItalicTitle = /^_[^_]+_$/.test(firstLine.replace(/\s+$/, ''));
-
-  // Normalize for comparison: lowercase, strip common prefixes, non-alphanumeric
   const normalize = (s: string) => s.toLowerCase()
     .replace(/^(book\s+)?review[:\s]*/i, '')
     .replace(/^(a\s+review\s+of\s+)/i, '')
@@ -181,57 +183,53 @@ function stripLeadingTitle(markdown: string, csvTitle: string): string {
     .replace(/\s+/g, ' ')
     .trim();
 
-  const normFirst = normalize(plainFirst);
   const normCsv = normalize(csvTitle);
-
-  // Check word overlap in both directions:
-  // - Forward: >50% of CSV title words appear in the first line
-  // - Reverse: >50% of first-line words appear in the CSV title
-  // Either direction matching is enough (handles long CSV titles with short doc titles).
   const csvWords = normCsv.split(' ').filter(w => w.length > 2);
-  const firstLineWords = normFirst.split(' ').filter(w => w.length > 2);
   const csvWordSet = new Set(csvWords);
-  const firstWordSet = new Set(firstLineWords);
-  const forwardOverlap = csvWords.length > 0
-    ? csvWords.filter(w => firstWordSet.has(w)).length / csvWords.length : 0;
-  const reverseOverlap = firstLineWords.length > 0
-    ? firstLineWords.filter(w => csvWordSet.has(w)).length / firstLineWords.length : 0;
-  const overlapRatio = Math.max(forwardOverlap, reverseOverlap);
 
-  const shouldStrip = (isHeading || isBold || isItalicTitle || overlapRatio > 0.5)
-    && plainFirst.length < 150;
+  const isTitleBlockLine = (line: string): boolean => {
+    const trimmed = line.trim();
+    if (!trimmed) return false;
+    const plain = trimmed
+      .replace(/^#{1,6}\s+/, '')
+      .replace(/\*\*/g, '')
+      .replace(/_/g, '')
+      .replace(/\[([^\]]+)\]\([^)]*\)/g, '$1')
+      .trim();
+    if (plain.length === 0 || plain.length > 150) return false;
 
-  if (shouldStrip) {
-    // Remove the title line and any blank lines immediately after it
+    const isByline = /^by\s/i.test(plain) && plain.length < 100;
+
+    const firstLineWords = normalize(plain).split(' ').filter(w => w.length > 2);
+    const firstWordSet = new Set(firstLineWords);
+    const forwardOverlap = csvWords.length > 0
+      ? csvWords.filter(w => firstWordSet.has(w)).length / csvWords.length : 0;
+    const reverseOverlap = firstLineWords.length > 0
+      ? firstLineWords.filter(w => csvWordSet.has(w)).length / firstLineWords.length : 0;
+    const overlapRatio = Math.max(forwardOverlap, reverseOverlap);
+
+    return isByline || overlapRatio > 0.5;
+  };
+
+  // Find first non-empty line
+  let firstIdx = 0;
+  while (firstIdx < lines.length && !lines[firstIdx].trim()) firstIdx++;
+  if (firstIdx >= lines.length) return markdown;
+
+  // Strip up to 3 consecutive title-block lines (each followed by blank lines).
+  // Covers: heading → quoted citation → "by Author" byline patterns.
+  let stripped = false;
+  for (let pass = 0; pass < 3; pass++) {
+    if (firstIdx >= lines.length) break;
+    if (!isTitleBlockLine(lines[firstIdx])) break;
     lines.splice(firstIdx, 1);
     while (firstIdx < lines.length && !lines[firstIdx].trim()) {
       lines.splice(firstIdx, 1);
     }
-
-    // Second pass: if the new first line is a subtitle/byline (e.g. "# by Author Name",
-    // "by Author (year)", publisher info), strip it too. These are part of the title
-    // block, not the review content.
-    if (firstIdx < lines.length) {
-      const nextLine = lines[firstIdx].trim();
-      const plainNext = nextLine
-        .replace(/^#{1,6}\s+/, '')
-        .replace(/\*\*/g, '')
-        .replace(/_/g, '')
-        .trim();
-      // Strip if it's a short line starting with "by " (author byline)
-      // or looks like publisher/date info (short, no sentence structure)
-      if (plainNext.length < 100 && /^by\s/i.test(plainNext)) {
-        lines.splice(firstIdx, 1);
-        while (firstIdx < lines.length && !lines[firstIdx].trim()) {
-          lines.splice(firstIdx, 1);
-        }
-      }
-    }
-
-    return lines.join('\n');
+    stripped = true;
   }
 
-  return markdown;
+  return stripped ? lines.join('\n') : markdown;
 }
 
 /**

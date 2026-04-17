@@ -231,6 +231,11 @@ export function cleanupMarkdown(markdown: string): string {
     // setext-heading underline, which includes mid-line contexts like
     // "summary: \- The Ottoman Empire ...".
     .replace(/\\-/g, '-')
+    // Escape "!" when it's glued to a Google Docs footnote link like
+    // "[[N]](#ftntN)". Without escaping, "worse![[12]](#ftnt12)" parses as
+    // a markdown image and renders as a broken-image icon. The escape keeps
+    // the "!" as sentence punctuation immediately before the footnote marker.
+    .replace(/!(\[\[\d+\]\]\(#ftnt[^)]*\))/g, '\\!$1')
     // Clean up multiple consecutive blank lines
     .replace(/\n{4,}/g, '\n\n\n')
     // Remove escaped asterisks at line starts (but preserve ** for bold)

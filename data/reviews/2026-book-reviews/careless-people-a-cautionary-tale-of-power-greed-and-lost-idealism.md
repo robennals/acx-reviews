@@ -16,6 +16,8 @@ tags:
   - Politics
 ---
 
+#  Intro
+
 [care (n.)](https://www.etymonline.com/search?q=care)
 
 —from Old English _caru_, _cearu,_ meaning "sorrow, anxiety, grief"

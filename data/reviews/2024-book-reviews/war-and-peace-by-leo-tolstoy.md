@@ -108,7 +108,7 @@ After he recuperates, Andrei adopts a new philosophy: living for himself and his
 
 The sky has been a symbol of the divine for a long time, but not just any divine. It’s the masculine divine, the sky-father (as opposed to the earth-mother). When you reach for the sky, you are doing something great, but it’s not a humble, wise kind of greatness. It’s a kind of foolish autistic greatness like building a rocket to mars or a brick tower to heaven.
 
-So Andrei decides that he can’t just live for himself, and that life is not over at 31![[70]](#ftnt70) So he rejoins society and falls in love with Natásha. But when her reputation gets tarnished (after she is almost seduced by a married man)[[71]](#ftnt71), he rejects her and rejoins the fight against Napoleon.
+So Andrei decides that he can’t just live for himself, and that life is not over at 31\![[70]](#ftnt70) So he rejoins society and falls in love with Natásha. But when her reputation gets tarnished (after she is almost seduced by a married man)[[71]](#ftnt71), he rejects her and rejoins the fight against Napoleon.
 
 Thus he fights in his second great battle, the Battle of Borodino, deep in the heart of Russia. However, by this time a cloud has come over him. Without anyone to love, he becomes disillusioned.
 

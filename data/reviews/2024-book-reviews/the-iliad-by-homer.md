@@ -219,7 +219,7 @@ A cynical answer is that it’s all signaling. We read something because all the
 
 (Of course we’re not going to get a whole crowd of admirers to admit “there’s nothing here really, we just pretend to like this to seem sophisticated”. So even if this is most of the story, we might not expect to find a clear example.)
 
-To the extent that this is going on, then we’d expect me to be scared to criticize the Iliad because that exposes me as uneducated. Or we might expect me to criticize it extra harshly to show how independent-minded I am. Or both![[47]](#ftnt47) And in fact I don’t fully trust myself to have judged it neutrally, without regard to its status.
+To the extent that this is going on, then we’d expect me to be scared to criticize the Iliad because that exposes me as uneducated. Or we might expect me to criticize it extra harshly to show how independent-minded I am. Or both\![[47]](#ftnt47) And in fact I don’t fully trust myself to have judged it neutrally, without regard to its status.
 
 My guess: this is why some people read the Iliad, but it’s not the main thing that makes it a classic.
 

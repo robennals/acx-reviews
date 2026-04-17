@@ -97,7 +97,7 @@ I could go on! But I’ll spare you. The man is also a serial acronym abuser. He
 
 He complains that the first edition wasn’t African enough, so he stuffs this one full of folksy Runyankole sayings. He’ll stop for long digressions on how best to translate them, interspersed with snide comments like “You can see how incomparably the Runyankore is superior to the English language,” or “African languages have no comparison with the deficient, incompetent European languages.”
 
-Incompetent, by the way, is his favorite and most devastating insult. Idi Amin isn’t a cannibalistic, genocidal monster. He’s incompetent, because his troops don’t know how to operate a mortar or dig a trench. And that’s worse![[12]](#ftnt12)
+Incompetent, by the way, is his favorite and most devastating insult. Idi Amin isn’t a cannibalistic, genocidal monster. He’s incompetent, because his troops don’t know how to operate a mortar or dig a trench. And that’s worse\![[12]](#ftnt12)
 
 European powers? Incompetent. Other African dictators? Incompetent:
 

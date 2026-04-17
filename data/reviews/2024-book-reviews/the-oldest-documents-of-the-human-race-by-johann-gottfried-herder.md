@@ -101,7 +101,7 @@ Herder doesn’t care about these modern objections, of course. He is at great p
 
 God, the teacher of these people, shall teach them… not through conclusions and abstractions, of which they, like all adolescents, have no idea! Which exhaust, hinder and blind us! No, only through presence and power! So that they are gradually guided and directed to everything around them, upon which they feel as if poured out onto!
 
-Such that the entire world of images, that bombarded or would bombard their eyes, could proceed in gentle order - such that each could be grasped in its entire presence with sense and power - Heavens! For this adolescent, for the blind man learning to see, what wiser, more paternal order in heaven and earth![[1]](#ftnt1)
+Such that the entire world of images, that bombarded or would bombard their eyes, could proceed in gentle order - such that each could be grasped in its entire presence with sense and power - Heavens! For this adolescent, for the blind man learning to see, what wiser, more paternal order in heaven and earth\![[1]](#ftnt1)
 
 When humans learn in this way, only one conclusion is possible: to the infant eyes of the first homo sapiens, the experience of sunrise is, inescapably, an encounter with God. Herder is bullish on this, claiming it’s an experiment you can replicate with any kid:
 

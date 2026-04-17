@@ -26,7 +26,7 @@ Winnie-the-Pooh and his friends are now, [notoriously](https://en.wikipedia.org/
 
 If I were to hazard a guess, I would say that the Walt Disney Company's success with Winnie-the-Pooh has limited our ability to see the potential in these stories. The Disney adaptations are iconic—it’s Disney’s version of Winnie-the-Pooh that made that $48.5 billion, after all. And while the original books may be in the public domain, the Disney adaptations aren’t. So what’s the point of doing new Winnie-the-Pooh things when Disney has already made the definitive Winnie-the-Pooh adaptation?
 
-What people don’t realize is that there’s so much more to the Winnie-the-Pooh stories than what Disney has chosen to repackage and resell. Even people who have read the original books often see them through Disney-colored glasses—it’s hard to avoid when the Pooh of our collective consciousness is the one in the Disney-provided red t-shirt![[82]](#ftnt82)
+What people don’t realize is that there’s so much more to the Winnie-the-Pooh stories than what Disney has chosen to repackage and resell. Even people who have read the original books often see them through Disney-colored glasses—it’s hard to avoid when the Pooh of our collective consciousness is the one in the Disney-provided red t-shirt\![[82]](#ftnt82)
 
 Everybody knows the Pooh of our collective consciousness already. This book review isn’t about him. I set out to read the Pooh books with an eye to finding the Pooh we don’t know—the one who hasn’t yet graced the silver screen. And when I added up all the new and surprising things I discovered while reading the Pooh stories and tried to find one idea that captured them all, I realized that that one idea was that the Pooh books are heroic epics.
 
