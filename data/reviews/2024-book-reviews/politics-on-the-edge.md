@@ -7,7 +7,7 @@ contestName: 2024 Book Reviews
 year: 2024
 publishedDate: '2026-02-06T16:48:20.713Z'
 slug: politics-on-the-edge
-wordCount: 5322
+wordCount: 5336
 readingTimeMinutes: 24
 originalUrl: >-
   https://docs.google.com/document/d/1cp6iw5OEyDjnD_viZo-KL0Zv4jwQnMXtE4yIovfVAco
@@ -19,21 +19,21 @@ tags:
 
 The Problem with Rory Stewart
 
-1.  ## Prologue
-    
+> 1.  ## Prologue
+>     
 
 Often on my morning commute, entering London’s Old Street underground station (now in the fifth year of its endless redevelopment), I wave my iPhone towards the contactless ticket barrier, and find myself overcome with embarrassment. Sensing motion, the screen of my device illuminates without my consent, revealing to nearby passengers what is playing in my airpods - The Rest Is Politics podcast. TRIP might be the most popular podcast in the UK, but it is not the most fashionable.
 
 TRIP is hosted by former Labour communications director Alistair Campbell, and former diplomat, author, NGO worker and Conservative Member of Parliament and Minister, Rory Stewart. Coming from vaguely opposite sides of the political spectrum “disagreeing agreeably” is the unofficial motto of the show. Both are far from the extremes of their respective parties (or former party, in Stewarts case), which is a large part of the appeal for the centrist adjacent dads who represent the caricature of their audience.
 
-Critics from the left dislike them because they are the establishment. Supposedly, they represent the neoliberal consensus of the last 50 years of Conservative and New Labour[[308]](#ftnt308) governments. Critics from the right dislike the podcast because neither host is right-wing. Allegedly, they shift the overton window left, pushing it from the middle, rather than dragging it towards the extreme, with endless talks of Brexit and accusations of populism.
+Critics from the left dislike them because they are the establishment. Supposedly, they represent the neoliberal consensus of the last 50 years of Conservative and New Labour[[308]](#ftnt308) governments. Critics from the right dislike the podcast because neither host is right-wing. Allegedly, they shift the overton window left, pushing it from the middle, rather than dragging it towards the extreme, with endless talks of Brexit and accusations of populism.
 
 The latter claim is in particular one against Stewart, who is meant to be the conservative on the show, though he was expelled from the party in 2019, before leaving parliament. Given the popularity of TRIP in the UK, Stewart may be the most, or only, widely respected right-leaning politician in the country (at least in polite society). From this position, Stewart recently published a memoir of his time in government - Politics on the Edge (POTE). It was an immediate bestseller.
 
-The current Tory[[309]](#ftnt309) government is almost certain to lose the next election (which must be held before February 2025), and is likely to lose it by historic margins. The country is in the longest period of wage stagnation since the Napoleonic wars[[310]](#ftnt310). POTE is an opportunity to examine the government of a country in decline, and to understand a man who left that government.
+The current Tory[[309]](#ftnt309) government is almost certain to lose the next election (which must be held before February 2025), and is likely to lose it by historic margins. The country is in the longest period of wage stagnation since the Napoleonic wars[[310]](#ftnt310). POTE is an opportunity to examine the government of a country in decline, and to understand a man who left that government.
 
-2.  ## Who is Rory Stewart?
-    
+> 2.  ## Who is Rory Stewart?
+>     
 
 Roderick James Nugent “Rory” Stewart was born in a far eastern corner of the British Empire in 1973, his father a Colonial administrator and diplomat. He was educated at the right schools, Eton and Oxford, sent from his home in Malaysia at age 8. Between Eton and Oxford he took a gap year (a sacred tradition of the British upper classes) to join the Scottish Infantry on a short commission. Despite his accent (and future constituency) Stewart is a proud Scot. He was a Labour party member until he was eighteen.
 
@@ -55,8 +55,8 @@ Arriving in parliament, he is unimpressed by many of his fellow MPs, who are onl
 
 In the US, this book was published under the title How Not To Be A Politician. Up to this point, the book has so far been a manual on how to become a politician.
 
-3.  ## Battling bureaucracy
-    
+> 3.  ## Battling bureaucracy
+>     
 
 The point is to be a minister, so the book is much more interesting once he finally gets there. This takes longer than it could have - Stewart joins a group of Conservative rebels who do not support David Cameron’s plan to reform the House of Lords (the unelected upper house). This risks permanently relegating him to the backbenches, but tradition trumped a promotion opportunity. After winning reelection Stewart is appointed a Parliamentary Under-Secretary in the Department for the Environment and Rural Affairs (i.e., a provincial role in every sense).
 
@@ -74,8 +74,8 @@ These frustrating stories are the best parts of POTE. Not only are they surprisi
 
 I’m unsure if Stewarts not linking his experience to any wider discussion of the civil service is a failure of the book or my own failure to read between the lines. Perhaps his strategy is more Machiavellian, and he wishes to expose the failures of the system, without revealing his allegiance to the Cummings-school of thought. Regardless, to draw the correct conclusions about the civil service from this book, it's worth taking a diversion into another one…
 
-4.  ## How Westminster works, and why it doesn’t (Ian Dunt, 2023)
-    
+> 4.  ## How Westminster works, and why it doesn’t (Ian Dunt, 2023)
+>     
 
 This book describes what the title says it does, and opens with a case study.
 
@@ -89,22 +89,22 @@ Dunt offers good explanations for the failure of the civil service, including ho
 
 At one point Dunt quotes a civil servant saying that ministers under Boris Johnson just do what they want, and if what they want is illegal, then being illegal isn't an excuse. As prisons minister, Stewart tries to install body scanners to stop guards smuggling drugs into prisons. Civil servants tell him that it would violate human rights. The simple reading of Dunt is that Tory ministers will break the law to get what they want, but POTE provides perfect evidence that civil servants saying “its illegal'' doesn’t actually mean that something reprehensible is taking place. (It should also raise the question of what else can’t be done because a civil servant deems it would “violate human rights”.)
 
-But is POTE a complete repudiation of the Dunt theory of the civil service? I don't think so - Dunt provides good evidence supporting his thesis. It seems more likely that the Dunt and Cummings theses are both true at the same time. (Similar to how the police can be guilty of over-policing and under-policing the very same community.) This is how the Financial Conduct Authority can [propose regulations](https://www.fca.org.uk/news/press-releases/fca-and-pra-propose-measures-boost-diversity-and-inclusion-financial-services) to increase diversity and inclusion in UK financial services while the Home Office produces propaganda about shipping migrants to [Rwanda](https://twitter.com/ActivePatriotUK/status/1785635019030994976); the government will [eliminate tax credits](https://www.theguardian.com/society/2023/jul/16/two-child-benefit-cap-explainer) for families with more than two children while also deciding to [create a new agency](https://news.sky.com/story/new-football-regulator-announced-to-vet-prospective-owners-and-prevent-breakaway-competitions-13097778) to regulate football.
+But is POTE a complete repudiation of the Dunt theory of the civil service? I don't think so - Dunt provides good evidence supporting his thesis. It seems more likely that the Dunt and Cummings theses are both true at the same time. (Similar to how the police can be guilty of over-policing and under-policing the very same community.) This is how the Financial Conduct Authority can [propose regulations](https://www.fca.org.uk/news/press-releases/fca-and-pra-propose-measures-boost-diversity-and-inclusion-financial-services) to increase diversity and inclusion in UK financial services while the Home Office produces propaganda about shipping migrants to [Rwanda](https://twitter.com/ActivePatriotUK/status/1785635019030994976); the government will [eliminate tax credits](https://www.theguardian.com/society/2023/jul/16/two-child-benefit-cap-explainer) for families with more than two children while also deciding to [create a new agency](https://news.sky.com/story/new-football-regulator-announced-to-vet-prospective-owners-and-prevent-breakaway-competitions-13097778) to regulate football.
 
 Combined, these books illustrate the simultaneous strength and weakness of the government, or inversely, the simultaneous weakness and strength of the bureaucracy. This is a terrible conclusion, because it satisfies nobody, and makes diagnosing problems even more challenging. Given the complexity of this issue, it’s a shame that Stewart doesn't confront it more directly. Particularly in a country where critiques on the government are widespread, but mainstream critiques of government itself are rare (intelligent ones, anyway).
 
-5.  ## Brexit and economics
-    
+> 5.  ## Brexit and economics
+>     
 
 POTE opens on the 18th of June, 2019, with a debate between Stewart and other Conservative MPs, arguing over the details of Brexit and with each making their case to be leader of the party. We then jump back in time, retracing his entire career in politics up to that pivotal moment.
 
 This leadership contest is years after the UK voted to leave the EU, and is occurring because Theresa May is resigning due to her failure to win parliamentary approval for her Brexit proposal (a deal with the EU, laying out terms for the UK’s withdrawal). Right wing factions in the Conservative party would not support it because it made too many concessions. Labour would not support it because it was a Tory proposal. Stewart was incensed by both groups. He felt it was the best anybody could hope to get, and other leaders were lying about their ability to deliver anything better. In particular, he was incensed by Boris Jonhson, who lied to him about his willingness to accept a “no-deal” Brexit (i.e., leaving with no agreement in place at all).
 
-When deciding whether to enter the leadership race, he complains to his wife about Boris Johson, and she asks Stewart if  he makes him depressed about Britain. “I don’t know. Depressed about Boris, but Britain? We have never been so healthy or educated, We are at peace [...] London is the greatest city on earth… Why is it so depressing?” He decides to run, and goes about describing his policy platform. He wants gigafactories, a climate conference, and to plant 100m new trees across Britain (scaling back his prior ambition, now to only four times what MrBeast accomplished).
+When deciding whether to enter the leadership race, he complains to his wife about Boris Johson, and she asks Stewart if  he makes him depressed about Britain. “I don’t know. Depressed about Boris, but Britain? We have never been so healthy or educated, We are at peace [...] London is the greatest city on earth… Why is it so depressing?” He decides to run, and goes about describing his policy platform. He wants gigafactories, a climate conference, and to plant 100m new trees across Britain (scaling back his prior ambition, now to only four times what MrBeast accomplished).
 
 He loses the election, and is soon kicked out of the Conservative party by Boris, the winner. The manoeuvring and general politicking described in this part of the book is fascinating, if only because it gives a glimpse into how random and cruel a leadership contest can be. It also shows his best qualities; integrity; competence; understanding details; he speaks about a love for place and about rediscovering a British tradition - of prudence; shame; seriousness; and action. While highlighting Stewarts better qualities, at least he is also honest about what he lacks. He described that earlier policy platform as a “cake mix of random trustrations with daily life… and banality on artificial intelligence”. His weakness on economics is significant, but predictable. Earlier, when describing the turn to austerity by David Cameron and his Chancellor George Osbourne in the aftermath of the Great Recession:
 
-I agreed that if we continued spending and borrowing at the old rate we risked undermining confidence in our currency, our [bonds], and our economy. I did not agree with the many who thought the cuts were motivated purely by sadism, or that by continuing to increase public spending Britain would generate so much growth that the deficit would disappear on its own. But I was uneasy with the fervour with which Cameron and Osbourne embraced the spending reductions, and their insistence that Labour had grossly mismanaged the economy”
+_I agreed that if we continued spending and borrowing at the old rate we risked undermining confidence in our currency, our [bonds], and our economy. I did not agree with the many who thought the cuts were motivated purely by sadism, or that by continuing to increase public spending Britain would generate so much growth that the deficit would disappear on its own. But I was uneasy with the fervour with which Cameron and Osbourne embraced the spending reductions, and their insistence that Labour had grossly mismanaged the economy”_
 
 This is a parody of centrism, made worse because he still manages to come down on the wrong side of the issue. In 2010, in the wake of the Great Recession, Britain went against the Keynesian wisdom adopted in most countries, instead embracing “fiscal consolidation”. The rationale was that by maintaining confidence in the county’s ability to pay back its debt, the UK could avoid a greek-style crisis where the interest rates of government debt soared. What followed was a rare thing in economics - a perfect natural experiment. Britain cut spending aggressively, while the rest of the world continued stimulating their economies. Interest rates stayed low in Britain, as Cameron and Osbourne would have predicted. But they also stayed low everywhere else. Austerity did not reduce interest rates[[311]](#ftnt311). Worse, it did not even reduce public debt as a share of gross domestic (GDP), due to the poor growth post-crisis.
 
@@ -112,30 +112,30 @@ Earlier in the book, Stewart has some extremely harsh words for himself,“I tal
 
 This book is a memoir, not a manifesto. Is it fair to criticise it for failing to describe an approach to fiscal policy? I think if you want to be Prime Minister, you need a vision. Not for romantic reasons, but because a vision determines an agenda, and an agenda needs priorities. Though Stewart has not been able to articulate it, what should worry him most about Britain? Or rather… Why is it so depressing?
 
-6.  ## What is wrong with Britain?
-    
+> 6.  ## What is wrong with Britain?
+>     
 
 Britain used to be one of the richest countries in the world, and now it is not. GDP has increased steadily since the great recession, due to a growing population, but GDP per capita peaked in 2007 (17 years ago). This is the result of stagnant productivity, which peaked around the same time.
 
 ![](https://acximages.ennals.org/images/2024-book-reviews/5bce3eae863eb747.png)
 
-Figure 1: UK productivity from 1979 to 2023, linked to “[chronic underinvestment](https://www.lse.ac.uk/News/Latest-news-from-LSE/2023/k-November-2023/Chronic-under-investment-has-led-to-productivity-slowdown-in-the-UK#)”.
+**Figure 1**: UK productivity from 1979 to 2023, linked to “[chronic underinvestment](https://www.lse.ac.uk/News/Latest-news-from-LSE/2023/k-November-2023/Chronic-under-investment-has-led-to-productivity-slowdown-in-the-UK#)”.
 
-If not for the longest period of wage stagnation since the Napoleonic wars, the average worker would earn [£11,000 more](https://www.theguardian.com/business/2023/mar/20/uuk-workers-wage-stagnation-resolution-foundation-thinktank) (a 32% increase, for the average full-time worker in 2023[[312]](#ftnt312)). Why? Unfortunately, nobody really knows. Instead we have several, partially adequate, not fully satisfactory theories.
+If not for the longest period of wage stagnation since the Napoleonic wars, the average worker would earn [£11,000 more](https://www.theguardian.com/business/2023/mar/20/uuk-workers-wage-stagnation-resolution-foundation-thinktank) (a 32% increase, for the average full-time worker in 2023[[312]](#ftnt312)). Why? Unfortunately, nobody really knows. Instead we have several, partially adequate, not fully satisfactory theories.
 
-Many believe the dire situation is due to the combination of austerity and Brexit, both delivered by the Conservative party. There is logic to this: both have had predictable negative consequences. Simon-Wren Lewis, a left-leaning economist, [has suggested](https://mainlymacro.blogspot.com/2017/11/disentangling-uk-productivity-problem.html) that the negative shocks resulted in a pessimistic outlook where firms are reluctant to invest, creating a self fulfilling prophecy where the economy moves to new slow-growth equilibrium. This aligns with data showing the UK has chronically low investment (see source for Figure 1).
+Many believe the dire situation is due to the combination of austerity and Brexit, both delivered by the Conservative party. There is logic to this: both have had predictable negative consequences. Simon-Wren Lewis, a left-leaning economist, [has suggested](https://mainlymacro.blogspot.com/2017/11/disentangling-uk-productivity-problem.html) that the negative shocks resulted in a pessimistic outlook where firms are reluctant to invest, creating a self fulfilling prophecy where the economy moves to new slow-growth equilibrium. This aligns with data showing the UK has chronically low investment (see source for Figure 1).
 
 The biggest problem with this narrative is a counterfactual which did not implement austerity or depart the EU, and suffers from the exact same post-2008 stagnation - most of Europe. Compared to France, Spain, Italy, Portugal, and to a lesser extent Germany, the UK performance looks very ordinary.
 
 ![](https://acximages.ennals.org/images/2024-book-reviews/bde942c0d9063224.png)
 
-Figure 2: GDP per capita for the UK compared to European peers ([World Bank](https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=GB))[[313]](#ftnt313).
+**Figure 2**: GDP per capita for the UK compared to European peers ([World Bank](https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=GB))[[313]](#ftnt313).
 
-One area all agree is restricting growth is the planning system. This affects housing, making it too expensive and discouraging people from moving to more productive places, and suffocating the physical growth of more productive industries that would otherwise expand at a faster rate. It also affects infrastructure, making among other things, transport, slower and more expensive. The fundamentals are indisputable, however, rigorous evidence linking planning to productivity seems scarce, so there is some [debate](https://marginalrevolution.com/marginalrevolution/2024/05/ryan-bourne-on-the-british-growth-deterioration.html) about to what extent planning has contributed to the post-2008 stagnation. (Also, continental Europe is famously good at building cheap high quality infrastructure, while the US suffers from many of the same planning issues as the UK, yet the US is growing while Europe is not.)
+One area all agree is restricting growth is the planning system. This affects housing, making it too expensive and discouraging people from moving to more productive places, and suffocating the physical growth of more productive industries that would otherwise expand at a faster rate. It also affects infrastructure, making among other things, transport, slower and more expensive. The fundamentals are indisputable, however, rigorous evidence linking planning to productivity seems scarce, so there is some [debate](https://marginalrevolution.com/marginalrevolution/2024/05/ryan-bourne-on-the-british-growth-deterioration.html) about to what extent planning has contributed to the post-2008 stagnation. (Also, continental Europe is famously good at building cheap high quality infrastructure, while the US suffers from many of the same planning issues as the UK, yet the US is growing while Europe is not.)
 
-Another issue is the government: Tax receipts are [around 40%](https://commonslibrary.parliament.uk/research-briefings/cbp-8513/) of the economy[[314]](#ftnt314), the highest level observed since the early 1980’s. This isn’t necessarily bad, but taxes are increasing while public services are getting worse. When government expenses increase, as they are expected to, due to pensions and healthcare (i.e., an ageing population), the government must either cut costs, or raise taxes. Increasing taxes is hard politically, and harder economically when taxes are already high. So budgets must be cut, and services deteriorate. One of the easier things to cut is investment, but that means services deteriorate even more in the future. A perfect example from POTE is when Stewart arrives at the Ministry for Justice and finds that after first selling off office space, the ministry is delaying financial catastrophe with money that had been earmarked for building new prisons and investment in making the court system more efficient. (The senior civil servant in the ministry had cut back on newspapers, for ministers, but not themselves.)
+Another issue is the government: Tax receipts are [around 40%](https://commonslibrary.parliament.uk/research-briefings/cbp-8513/) of the economy[[314]](#ftnt314), the highest level observed since the early 1980’s. This isn’t necessarily bad, but taxes are increasing while public services are getting worse. When government expenses increase, as they are expected to, due to pensions and healthcare (i.e., an ageing population), the government must either cut costs, or raise taxes. Increasing taxes is hard politically, and harder economically when taxes are already high. So budgets must be cut, and services deteriorate. One of the easier things to cut is investment, but that means services deteriorate even more in the future. A perfect example from POTE is when Stewart arrives at the Ministry for Justice and finds that after first selling off office space, the ministry is delaying financial catastrophe with money that had been earmarked for building new prisons and investment in making the court system more efficient. (The senior civil servant in the ministry had cut back on newspapers, for ministers, but not themselves.)
 
-The government is paying more and getting less, and the place where this is most evident is the National Health Service (NHS). Despite a perception the Tories cut spending on the NHS, austerity really just slowed the growth of NHS spending. A [recent report](https://www.instituteforgovernment.org.uk/sites/default/files/2023-06/nhs-productivity-puzzle_0.pdf) into the NHS’s productivity growth, or absence of it, blamed a lack of investment. This is how spending on the NHS goes up, at the same time as waiting lists grow longer.
+The government is paying more and getting less, and the place where this is most evident is the National Health Service (NHS). Despite a perception the Tories cut spending on the NHS, austerity really just slowed the growth of NHS spending. A [recent report](https://www.instituteforgovernment.org.uk/sites/default/files/2023-06/nhs-productivity-puzzle_0.pdf) into the NHS’s productivity growth, or absence of it, blamed a lack of investment. This is how spending on the NHS goes up, at the same time as waiting lists grow longer.
 
 The direction of causality between the size of the state and productivity growth is ambiguous because the lack of tax revenue is reinforced by the lack of growth. This necessitates more cuts, further reducing investment. It also requires more tax increases, which disincentivizes growth in the rest of the economy. And while the government is bad at spending, it is just as bad at taxing. Sales tax (VAT) is riddled with [expensive and inefficient holes](https://www.economist.com/britain/2024/04/22/how-to-fix-britains-barmy-vat-regime), therefore income taxes are higher than they otherwise would be. Because most politics is over how to distribute scarce resources, rather than addressing wider issues, the only current debate around VAT is whether private schools should be exempted. (Stewart believes they should be. I suspect this is less due to his careful assessment of the costs and benefits, and more because it’s an opportunity to reaffirm himself as a Conservative on something low-stakes.)
 
@@ -145,8 +145,8 @@ Innovation in government delivery is needed, but won’t be possible without hon
 
 In theory there is a-off between the responsiveness of the civil service to ministerial (democratic) decisions, and the ability for an incompetent manager to wreak havoc on the system. If both theories of government are simultaneously true, this trade-off doesn’t exist. There are good ministers (Stewart) struggling to do useful things, while incompetent ministers are making bad decisions (Grayling). This suggests that rather than requiring radical reform, reorienting the different parts of “deep state” that either impede or facilitate action could solve both problems. “Outcomes over processes” may be less important than correct application of existing processes. (Though I could be giving too much weight to Dunt’s theory here; if made to choose, I would say POTE is more persuasive in arguing the opposing side.)
 
-7.  ## Necessary but not sufficient
-    
+> 7.  ## Necessary but not sufficient
+>     
 
 I can’t recall the last time I devoured a book the same way I did POTE. I could not put it down. But a gripping story is not necessarily one built around great ideas.
 

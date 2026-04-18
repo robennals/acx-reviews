@@ -7,7 +7,7 @@ contestName: 2022 Book Reviews
 year: 2022
 publishedDate: '2026-02-06T07:24:08.701Z'
 slug: god-emperor-of-dune-by-frank-herbert
-wordCount: 5131
+wordCount: 5139
 readingTimeMinutes: 23
 originalUrl: >-
   https://docs.google.com/document/d/1pRQbRbEUwSH_jm94PI_ij-88swat7vQ4iNaNp6gd39g
@@ -17,11 +17,11 @@ tags:
   - Philosophy
 ---
 
-AI Alignment, Immortal Deity-Kings, And You
+_AI Alignment, Immortal Deity-Kings, And You_
 
-(Reviewer’s Note: There are spoilers in this review, as you might expect when reading a review of a 40-year-old novel. It’s also the fourth book in a series; I’ve done my best to make it readable to anyone, but I’m not going to pretend a baseline familiarity with the series’ setting wouldn’t help in reading it.
+_**(Reviewer’s Note: There are spoilers in this review, as you might expect when reading a review of a 40-year-old novel. It’s also the fourth book in a series; I’ve done my best to make it readable to anyone, but I’m not going to pretend a baseline familiarity with the series’ setting wouldn’t help in reading it.**_
 
-With that said, the book itself has very little in the way of plot; it’s a snapshot of a moment in time, a description of the mindset of an unusual ruler, and a consideration of the existential dangers that surround humanity in this fictional future and perhaps also in ours. I promise I won’t leave you entirely hanging; the important bits necessary to understand the conclusion are sprinkled throughout the review.)
+_**With that said, the book itself has very little in the way of plot; it’s a snapshot of a moment in time, a description of the mindset of an unusual ruler, and a consideration of the existential dangers that surround humanity in this fictional future and perhaps also in ours. I promise I won’t leave you entirely hanging; the important bits necessary to understand the conclusion are sprinkled throughout the review.)**_
 
 The memory of sand’s gold sheen
 
@@ -39,13 +39,13 @@ divided god within a hell
 
 His pain a golden path
 
-- From The Collected Songs of The Scattering, author unknown.
+- From _The Collected Songs of The Scattering,_ author unknown.
 
 ### The Setting
 
-As God Emperor of Dune begins, our attention is immediately drawn to people. Here, 3500 years after the chronological setting of the first novel, is immediate proof that humanity has survived in the form of a small group of people fleeing through a forest, wolves nipping at their heels.
+As _God Emperor of Dune_ begins, our attention is immediately drawn to people. Here, 3500 years after the chronological setting of the first novel, is immediate proof that humanity has survived in the form of a small group of people fleeing through a forest, wolves nipping at their heels.
 
-The wolves belong to Leto Atreides II, the grandson of Duke Leto Atreides and son of Paul Muad’ib Atreides, the Kwisatz Haderach and protagonist of Dune I: The One You’ve Probably Read. At the end of the third book, Leto fused his body with Arakeen sandtrout, the larval form of the Sandworms on which the plot of the series mostly hangs. This symbiosis gave Leto super-human physical powers to match the clairvoyance already enjoyed by his family and allowed him to seize control of the galactic empire.
+The wolves belong to Leto Atreides II, the grandson of Duke Leto Atreides and son of Paul Muad’ib Atreides, the Kwisatz Haderach and protagonist of _Dune I: The One You’ve Probably Read_. At the end of the third book, Leto fused his body with Arakeen sandtrout, the larval form of the Sandworms on which the plot of the series mostly hangs. This symbiosis gave Leto super-human physical powers to match the clairvoyance already enjoyed by his family and allowed him to seize control of the galactic empire.
 
 Centuries of time have seen him evolve into a hybrid of a human man and a full-grown sandworm, and the resultant power and pseudo-immortality have allowed him to extend his father’s dominance of the known universe from a period of decades to an era spanning the better part of four millennia.
 
@@ -81,7 +81,7 @@ In the sense that he can be understood as human, Leto is a man on the brink of a
 
 This loneliness synergizes with Leto’s immense boredom, an ennui enhanced by experience and near-omniscience. Very little is new to him and virtually no one in the universe can serve as a companion to him. This makes him vulnerable not only to the psychological instability his loneliness encourages but also to anything that could possibly satisfy that lack; he would (and does) tolerate large amounts of risk to try and fill these gaps.
 
-Perhaps the most dangerous aspect of Leto is his firm, unshakeable belief that he is doing the right thing. In Herbert’s universe, the rightness of his actions is not just opinion but instead verifiable fact, at least in the sense that Leto himself can verify them to his satisfaction.
+Perhaps the most dangerous aspect of Leto is his firm, unshakeable belief that he is doing _the right thing._ In Herbert’s universe, the rightness of his actions is not just opinion but instead verifiable fact, at least in the sense that Leto himself can verify them to his satisfaction.
 
 This means that there is nothing Leto will not do if he perceives it as necessary; there is no cruelty he would not enact to push forward his golden path. But he is a mind that emerged from humanity and sees things humanity cannot itself see. His good deeds are not understood, and he works quasi-endlessly for what he considers to be the ultimate good while bearing the burden of the knowledge that he is viewed as nothing more or less than a dictator, a personification of the restriction under which humanity itself chafes.
 
@@ -95,9 +95,9 @@ From what we gather, the Duncans themselves always have very mixed feelings abou
 
 Duncan himself (or, at least, this iteration of himself) has misgivings about the totality of Leto’s control that clash with his absolute loyalty to the surname he serves:
 
-”You’ve taken something away from us,” he said. “I can feel it. Those women… Moneo…”
-
-Us against you, Leto thought. The Duncans always choose the human side.
+> ”You’ve taken something away from us,” he said. “I can feel it. Those women… Moneo…”
+>
+> _Us against you_, Leto thought. _The Duncans always choose the human side._
 
 Duncan is also faced with the reality any legendary swordsman faces 3500 years into a focused human-improvement breeding program faces: he’s slightly obsolete. People (read: women) generally like him and a giant worm-man loves him, but he seems to feel he lacks a clear purpose. He is a man who has always been useful wallowing in sudden, shocking impotence.
 
@@ -109,7 +109,7 @@ Remember those people running from the wolves at the onset of the novel? They we
 
 She is unpleasant to most people, most of the time. Here is the nicest thing she says in the book, spoken directly after she kind-of-sort-of kidnaps Duncan Idaho to try to hurt his feelings:
 
-“It would not offend me to be your friend,” she said.
+> “It would not offend me to be your friend,” she said.
 
 It might sound as if she’s a bad character, but like most of the other major players she is more representative of a facet of humanity than she is a fully fleshed human being. She is humanity, developed, advanced and unconquered. She is as refined as her father, with none of his domestication.
 
@@ -123,9 +123,9 @@ And designed she was, for one purpose and one purpose only: Being attractive to 
 
 Lest you think I’m exaggerating, consider Herbert’s description of Hwi after Leto contemplates the difficulties of worm/human romantic relationships, becomes frustrated, and sends her away:
 
-She left quietly, but Leto could see that Hwi, too, was tortured. There was no mistaking the deep sadness in her for the humanity that Leto had sacrificed. She knew they would have been friends, lovers, companions in an ultimate sharing between the sexes.
+> She left quietly, but Leto could see that Hwi, too, was tortured. There was no mistaking the deep sadness in her for the humanity that Leto had sacrificed. She knew they would have been friends, lovers, companions in an ultimate sharing between the sexes.
 
-At this point, she has known Leto for approximately five minutes.
+At this point, she has known Leto for _approximately five minutes._
 
 Besides being very nice to people who haven’t earned it from her (this is almost entirely aimed at Leto, but comes up in one other way later) she has essentially no personality traits. As a plot device, she exists only to be tempting to Leto, to be something he wants enough to compromise his primary objectives.
 
@@ -135,7 +135,7 @@ Herbert dug deep and tried to figure out what the most appealing woman possible 
 
 If Duncan Idaho represents the “mongrel strength” of the wild, primitive human as Leto claims, Moneo is a fully domesticated purebred. He is a direct line descendent of the Atreides, and thus a result of 35 centuries of Leto’s behavioral and genetic design. In a way also similar to the purebred, he is high-strung. He spends the greater part of the book being really, really nervous any time he’s around Leto, for whom he serves as a right-hand man.
 
-As Leto’s most senior employee, he knows as much about Leto as anyone can. He has read his history, sees his present and works to make his wishes reality. But for all that close association, he doesn’t appear to understand Leto very well; where Leto seems to respect strength and a level of rebellion and pushback, Moneo is consistently passive and cowardly. Where he serves Leto’s goals, the impression given to the reader is that he has been browbeaten into accepting them as correct.
+As Leto’s most senior employee, he _knows_ as much about Leto as anyone can. He has read his history, sees his present and works to make his wishes reality. But for all that close association, he doesn’t appear to _understand_ Leto very well; where Leto seems to respect strength and a level of rebellion and pushback, Moneo is consistently passive and cowardly. Where he serves Leto’s goals, the impression given to the reader is that he has been browbeaten into accepting them as correct.
 
 As a possible result of this, Leto doesn’t appear to actually like Moneo; despite his usefulness, Leto spends most of his time talking to him in a way that resembles a bully verbally abusing someone he’s incredibly tired of. If he’s wrong in his actions, Leto is at least not wrong in his target; Moneo really does suck.
 
@@ -151,11 +151,11 @@ The Jihad is barely explained in the books, but seems to have involved a crisis 
 
 Leto’s ability to peer into the future does not tell him the specifics of the next danger that might threaten humanity, but he does know that it’s threatened, nonetheless:
 
-“Nothing is ever separated from its source,” he said. “Seeing futures is a vision of a continuum in which all things take shape like bubbles forming beneath a waterfall. You see them and then they vanish into the stream. If the stream ends, it is as though the bubbles never were. That stream is my Golden Path and I saw it end."
+> “Nothing is ever separated from its source,” he said. “Seeing futures is a vision of a _continuum_ in which all things take shape like bubbles forming beneath a waterfall. You see them and then they vanish into the stream. If the stream ends, it is as though the bubbles never were. That stream is my Golden Path and I saw it end."
 
 Imagine Leto as a very big Big Yud (Eliezer Yudkowsky, rationalism’s original AI doom-sayer); he’s convinced that unless serious, committed action is taken the only future humanity can look forward to is paper-clip-based.
 
-“The Ixians do not recognize that machine-makers always run the risk of becoming totally machine. This is ultimate sterility. Machines always fail… given time. And when these machines failed there would be nothing left, no life at all.”
+> “The Ixians do not recognize that machine-makers always run the risk of becoming totally machine. This is ultimate sterility. Machines always fail… given time. And when these machines failed there would be nothing left, no life at all.”
 
 Understanding Leto-as-Yud is necessary to understand the threat Leto is responding to, but is a sub-par way of understanding Leto himself. The better way is to look at Leto’s function as an all-powerful force both holding the hazards of malicious AI at bay while at the same working to mitigate those same hazards.
 
@@ -169,7 +169,7 @@ Though Leto spends the better part of 3500 years doing this, time is not the mos
 
 All three of these forces seek their own narrow goals while ignoring the broader needs of humanity. The Bene Gesserit got a messiah who immediately turned against them. The Teilaxu are mules who only vaguely resemble humans, and the Ixians are only kept from creating an immediate AI disaster through external controls exerted upon them.
 
-Leto succeeds in helping humanity where others fail, not because of the time he spends and not even because of his resources; in the Dune universe, both could be duplicated by any sufficiently dedicated group of people. Leto creates no super-soldiers besides those that might have occurred naturally, given time. He creates no traits, instead only encouraging and curating traits that push humanity towards long-term viability. He keeps his power separate from his goals and thus keeps his goals pure.
+Leto succeeds in helping humanity where others fail, not because of the time he spends and not even because of his resources; in the _Dune_ universe, both could be duplicated by any sufficiently dedicated group of people. Leto creates no super-soldiers besides those that might have occurred naturally, given time. He creates no traits, instead only encouraging and curating traits that push humanity towards long-term viability. He keeps his power separate from his goals and thus keeps his goals pure.
 
 The man-who-walks-as-a-worm thus protects humanity while actively encouraging it to grow. In doing so he creates something that will one day not need him, and that is also capable of destroying him. The book does not say so directly, but the fact that both of those are really one single goal is key.
 
@@ -179,7 +179,7 @@ An AI that was created accidentally may one day be destroyed accidentally, eithe
 
 Travel is restricted in Leto’s empire. While ornithopters and spacecraft still exist, he limits their uses entirely to official travel of the sort necessary to make the empire run. The vast majority of people are planet-bound and mostly restricted to such travel as they can accomplish on foot. They are trapped in place in a society he engineered to be banal and boring.
 
-The goal (which is possible in Leto’s world, if not ours) is to encourage a kind of genetic yearning, a desire to travel and settle that is ingrained in humanity at a cellular level. Leto pushes for the accumulated voices of thousands of ancestors to scream “go west, my son” in unison, too loud to ignore. In the Dune universe, ancestral memories are a factual truth; this is how genetics work there. To build the desire, all you need is time - but the desire to do something and the wherewithal are two very different things.
+The goal (which is possible in Leto’s world, if not ours) is to encourage a kind of genetic yearning, a desire to travel and settle that is ingrained in humanity at a cellular level. Leto pushes for the accumulated voices of thousands of ancestors to scream “go west, my son” in unison, too loud to ignore. In the _Dune_ universe, ancestral memories are a factual truth; this is how genetics work there. To build the desire, all you need is time - but the desire to do something and the wherewithal are two very different things.
 
 Early in the novel, Leto makes an off-hand mention that some forces in the universe are terrified he will die away from water. When a sandworm dies, it breaks apart into sandtrout, which encapsulate environmental water until they’re surrounded by desert. Only when the environment is absolutely arid do they combine to create their adult sandworm forms.
 
@@ -191,11 +191,11 @@ This great culling is intended to take the genetic advantage Leto has given and 
 
 “Yes, yes,” you are likely saying. “But what of the plot?”. And in asking you’ve stumbled onto the major problem with the novel: it doesn’t have one, really. Or at least not much of one.
 
-Herbert’s books all have a theme. Dune is about teaching the reader about the untapped power of the desert, while Dune Messiah seeks to show them that power in action. Children of Dune is a warning that success can make you soft - since the harshness of the desert is what brings you power in this universe, bringing it under your control domesticates it and cuts into the very power base you rely on. When Paul Atreides blinks in the face of an overwhelming fate and is usurped by a younger, more vital generation, it’s no surprise.
+Herbert’s books all have a theme. _Dune_ is about teaching the reader about the untapped power of the desert, while _Dune Messiah_ seeks to show them that power in action. _Children of Dune_ is a warning that success can make you soft - since the harshness of the desert is what brings you power in this universe, bringing it under your control domesticates it and cuts into the very power base you rely on. When Paul Atreides blinks in the face of an overwhelming fate and is usurped by a younger, more vital generation, it’s no surprise.
 
 TGEoD is only a slight departure from these themes, instead asking what would happen if the harshness and strength of the desert were concentrated in a single mind. Genetic development has always been a tale written by hardship, a story about how life rises to greatness only when facing and overcoming great problems.
 
-(For the record, Heretics of Dune and Chapterhouse Dune are about sexing uppity women into submission and discovering a literal secret clan of space Jews, respectively. They are not necessarily required Dune reading, but if you are specifically looking for late-career-author-weirdness, they are excellent.)
+(For the record, _Heretics of Dune_ and _Chapterhouse Dune_ are about sexing uppity women into submission and discovering a literal secret clan of space Jews, respectively. They are not necessarily required _Dune_ reading, but if you are specifically looking for late-career-author-weirdness, they are _excellent_.)
 
 Because TGEoD is mostly about describing the end-point of a millennia-long exploitation of desert power, it is better understood as a book of sci-fi political philosophy than a story. But, to the extent there is a story at all, it is as follows:
 
@@ -217,7 +217,7 @@ So, why write a review on a 40-year-old sci-fi novel that nobody likes? If there
 
 First, I think it’s an interesting example of prescience on Herbert’s part. Thirty years before you had heard of Bayes, Herbert had tapped into an assumption that seemed so clear to him he didn’t realize he should spend more time explaining it to you: that any development of AI or AI-like programs would logically (if not actually) eventually result in an AI that held views so profoundly counter to the needs of humanity that it would wipe us out in pursuit of them.
 
-Today, those thoughts are old hat, but this book came out in 1981.
+Today, those thoughts are old hat, but this book came out in _1981._
 
 Second, there is always some value in anything that makes us think about the unpopular part of a problem. As is the case in any movement that addresses a potential hazard, eventually the prominent voices in the field are incentivized to focus on the sexy, sexy risk and not the boring, boring solutions. And thus you see much more “eventually nanomachines will fly through space at just under the speed of light, converting everything they see to AI”. They talk about the singularity, but less about potential solutions.
 
@@ -225,18 +225,18 @@ Let’s assume that both Herbert and Yud are correct and that an all-powerful AI
 
 TGEoD does not map perfectly onto reality. But to the extent it maps at all, it argues that the AI we build must be both protective and powerful; we have to allow it to accrue sufficient strength to prevent malicious AIs from gaining a foothold. We might be able to do that, or we might not. But if AI is inevitable then the dominance of a specific AI is likely; our best bet comes in promoting the correct one, not in the futility of trying to avoid the wrong program for the rest of eternity.
 
-If we can attain a perfect protective AI, we can be happy while still acknowledging that we are at best its pets; the very concepts we are talking about demand that we acknowledge the AI in this hypothetical is superior to us. Therein lies the secondary risk of AI; by creating an AI that coddles us, we run the risk of never advancing as a race again. As Dune points out, soft environments tend to weaken rather than reinforce.
+If we _can_ attain a perfect protective AI, we can be happy while still acknowledging that we are at best its pets; the very concepts we are talking about demand that we acknowledge the AI in this hypothetical is superior to us. Therein lies the secondary risk of AI; by creating an AI that coddles us, we run the risk of never advancing as a race again. As _Dune_ points out, soft environments tend to weaken rather than reinforce.
 
 How much better would it then be if we could create an AI that restricts all other AI’s, but only as a secondary goal necessary to reach its primary objective of identifying what it is that makes humans human and amplifying those traits in a positive direction until we (as a still identifiably human race) can stand against AI’s on equal footing.
 
 I am not an AI expert. I’m not sure if any of this is possible even without the theoretical framework of AI risk. But I do know people, at least a bit, and I know that the reflex to run from danger is often stronger than the impulse to run towards safety. If all-powerful AI is inevitable, then running away from the wrong AI is merely delaying our eventual fatal mistake. Running towards the correct AI is necessary. As Leto says:
 
-Run Faster. History is a constant race between invention and catastrophe. Education helps, but it’s never enough. You must also run.  
+> _Run Faster. History is a constant race between invention and catastrophe. Education helps, but it’s never enough. You must also run._  
 
 Footnote 1
 
 Leto’s family, the Atreides(es?) are basically magic; the Bene Gesserit were essentially witches who could draw on the ancestral memories of women in their ancestral line, and they bred this ability into Paul, Leto’s father. As a bonus, they can also draw on male ancestor’s memories, as well as having a pretty good ability to predict the future and know what’s going on in the present.
 
-If this seems like cheating, it is; Leto is not only 3500 years old, but also has the combined leadership/political experience of every member of his family line at least as far back as the ancient Greeks. Did I mention he’s also mentat and can do computer-level mental calculations? He can also do mind control with his voice, and roll into you to kill you like Sonic the Hedgehog. It’s like Frank Herbert was worried you’d mistake him for the Reasonably Tough Emperor of Dune and over-corrected in the other direction.
+If this seems like cheating, it is; Leto is not only 3500 years old, but also has the combined leadership/political experience of every member of his family line at least as far back as the ancient Greeks. Did I mention he’s also mentat and can do computer-level mental calculations? He can also do mind control with his voice, and roll into you to kill you like Sonic the Hedgehog. It’s like Frank Herbert was worried you’d mistake him for _the Reasonably Tough Emperor of Dune_ and over-corrected in the other direction.
 
 * * *

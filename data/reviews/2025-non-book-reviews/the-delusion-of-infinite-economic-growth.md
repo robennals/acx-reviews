@@ -7,7 +7,7 @@ contestName: 2025 Non Book Reviews
 year: 2025
 publishedDate: '2026-02-06T16:55:59.395Z'
 slug: the-delusion-of-infinite-economic-growth
-wordCount: 1965
+wordCount: 1971
 readingTimeMinutes: 9
 originalUrl: >-
   https://docs.google.com/document/d/1jYVJFIz5-aMi0LCgsC9AN6BncJDNVGaMU37QmwZ1vzA
@@ -19,21 +19,21 @@ tags:
 
 “[The Delusion of Infinite Economic Growth](https://www.scientificamerican.com/article/the-delusion-of-infinite-economic-growth/)” is an article published by the Scientific American in 2021, which is one of a long line of pieces making the same argument. They generally all have the same structure:
 
-1.  Here are one hundred different resources we rely on that at present our consumption of seems to be growing exponentially, but must have a limit. For instance, oil on earth.
-2.  We acknowledge that delusional techno-optimists will respond with the argument that there may be ways to increase the limit (fracking), or to replace this resource with another with a higher limit (solar).
-3.  Regardless, exponential curves are magic, and we humans always underestimate how fast they grow. As the SA article puts it, “Exponential growth swiftly, inevitably, swamps anything in finite supply.”
-4.  And when we reach the limit, bad things happen.[1]
+> 1.  Here are one hundred different resources we rely on that at present our consumption of seems to be growing exponentially, but must have a limit. For instance, oil on earth.
+> 2.  We acknowledge that delusional techno-optimists will respond with the argument that there may be ways to increase the limit (fracking), or to replace this resource with another with a higher limit (solar).
+> 3.  Regardless, exponential curves are magic, and we humans always underestimate how fast they grow. As the SA article puts it, “Exponential growth swiftly, inevitably, swamps anything in finite supply.”
+> 4.  And when we reach the limit, bad things happen.[1]
 
 ![](https://acximages.ennals.org/images/2025-non-book-reviews/86beb132b793e6aa.png)
 
-As a techno-optimist I do indeed want to respond with the argument in (2). Putting imaginary boundaries on systems is a common systems thinking error. “Lithium battery production” isn’t the system, and so its limit is not the limit that concerns us. Our limit is the laws of physics, and the [light cone](https://en.wikipedia.org/wiki/Light_cone#In_general_relativity) they seem to restrict us to.
+As a techno-optimist I do indeed want to respond with the argument in (2). Putting imaginary boundaries on systems is a common systems thinking error. “Lithium battery production” isn’t the system, and so its limit is not the limit that concerns us. Our limit is the laws of physics, and the [light cone](https://en.wikipedia.org/wiki/Light_cone#In_general_relativity) they seem to restrict us to.
 
 But, I must admit their rebuttal to my response in (3) has a certain appeal – exponential curves really do grow very fast. Intuitively, it is true that increasing the limit doesn’t do much in the face of exponential growth. Still, it doesn’t feel like we’re close to any kind of limit. We aren’t even doing proper fusion yet. Hell, we haven’t even really left earth!
 
 So under the pretense of reviewing this article’s argument, I will go through my own analysis to conclude when we reach our limit, when exponential growth must stop. But I’ll do it under my own terms, I choose the system, and I choose the limit. In a sense, this is a steelman of the article they were trying to make, crafted for techno-optimist sensibilities. And through it we will see if the underlying article has mettle. I focus on this and ignore the rest of the, uh, fluff, in the article, as part of this steelmanning procedure, for its own benefit. These are my assumptions.
 
-1.  The speed of light is absolute.
-2.  The second law of thermodynamics is correct.
+> 1.  The speed of light is absolute.
+> 2.  The second law of thermodynamics is correct.
 
 For the record, I am being very charitable with my assumptions. Our understanding of physics has last been completely turned on its head just a century ago, and we are going to be discussing the far future. I am assuming the current understanding of physics will never be overturned, in a way that will allow our economy to grow a bit longer. Nevertheless, we must choose some assumptions or leave the current framing entirely, and I choose to accept these constraints.
 
@@ -57,7 +57,7 @@ The amount of negentropy in our light cone itself depends on how far in the futu
 
 ## Doing some calculations
 
-Entropy is increased through many different things we do, but practically all of it is related to the production and usage of energy. We currently produce half a zettajoule of energy a year (zettajoule = 10^21 joules) and that production is increasing by about 2% a year. A decent approximation (at least when working at log scales) is that all of this energy ends up as waste heat released into the 300K ambient temperature, once we are done with it (or in the case of the [alleged](https://www.iea.org/reports/renewables-2019/heat) 50% of energy we consume which is used directly for heating, that’s precisely what we do with it).
+Entropy is increased through many different things we do, but practically all of it is related to the production and usage of energy. We currently produce half a zettajoule of energy a year (zettajoule = 10^21 joules) and that production is increasing by about 2% a year. A decent approximation (at least when working at log scales) is that all of this energy ends up as waste heat released into the 300K ambient temperature, once we are done with it (or in the case of the [alleged](https://www.iea.org/reports/renewables-2019/heat) 50% of energy we consume which is used directly for heating, that’s precisely what we do with it).
 
 Since dS=dQ/T (the change in entropy is the amount of energy dissipated divided by the temperature of the medium), that’s about 10^41 k entropy added to the universe from human activities in a year, or in our framing, 10^41 k of negentropy is irreversibly consumed (k is the [Boltzmann constant](https://en.wikipedia.org/wiki/Boltzmann_constant)). Since it’s related linearly to energy production, it grows like energy production, and so is growing at a rate of 2% year over year. We will assume this rate of growth is constant. If it increases (say because achieving AGI shortens our doubling time) the limit comes closer, if it decreases we no longer have exponential growth.
 
@@ -75,10 +75,10 @@ And of course, this is under the above assumption that we don’t discover new p
 
 Regardless of whether you view our limit as the accumulation of pollution or the harvesting of resources, as long as that pollution isn’t entropy and that resource is not negentropy, it relies on the implicit assumption that we fail to increase our efficiency, migrate to a different sort of pollution, or switch to a different type of resource as we approach our limit, something that doesn’t seem to track with recent history, or with techno-optimist priors.
 
-ENDNOTES
+**ENDNOTES**
 
-[1] What these bad things are depends on the article, in the SA article it is merely implied that it will be bad. Often it is the death of capitalism, because it is said, capitalism requires exponential economic growth (why these articles frame the death of capitalism as a bad thing, when it is clearly their greatest wish, is not clear). Sometimes it is instead an argument that some proportion of our resources are required to maintain our current stock of resource-extractors and living standards, which I find more convincing.
+**[1]** What these bad things are depends on the article, in the SA article it is merely implied that it will be bad. Often it is the death of capitalism, because it is said, capitalism requires exponential economic growth (why these articles frame the death of capitalism as a bad thing, when it is clearly their greatest wish, is not clear). Sometimes it is instead an argument that some proportion of our resources are required to maintain our current stock of resource-extractors and living standards, which I find more convincing.
 
-[2] An alternative would be to jump over to the complementary framing of pollution, which some would argue has the same dynamic. In this case instead of taking negentropy as a resource, we would simply take entropy itself as a type of pollution. I personally felt the resource framing is clearer.
+**[2]** An alternative would be to jump over to the complementary framing of pollution, which some would argue has the same dynamic. In this case instead of taking negentropy as a resource, we would simply take entropy itself as a type of pollution. I personally felt the resource framing is clearer.
 
-[3] We can see that even assuming we do have access to the entire Milky Way, we reach the limit in 7,000 years, which is before the entire Milky Way enters our light cone. As such it is an upper limit, we run out of negentropy before any structures outside it enter our light cone.
+**[3]** We can see that even assuming we do have access to the entire Milky Way, we reach the limit in 7,000 years, which is before the entire Milky Way enters our light cone. As such it is an upper limit, we run out of negentropy before any structures outside it enter our light cone.

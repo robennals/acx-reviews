@@ -28,11 +28,11 @@ The goat is one of those tutors.
 
 The goat, who has voluntarily associated with human groups from earliest times, was easy for humans to find and kill. Images of the Ibex, as prey, are found in ancient cave paintings and in archeological sites as early as 64,000 years ago. As herbivores there is no danger that a hungry goat will kill and eat a human. [4] It does not compete with humans for food. Being smallish in size, an individual person could wrangle and partially train them. [5] They require less work than other livestock who are often picky eaters. [6] Goats also reproduce in captivity thereby insuring food for the future. They are a reliable source of meat. 'Forget the special grass, Kevin, just eat the sheep!'
 
-## LESSON 2: GRASS CAN BECOME MILK.                                
+## LESSON 2: GRASS CAN BECOME MILK.                                
 
 Humans cannot digest most grasses, seeds and woody plants in an unprocessed form: it makes them sick! As ruminants [7] goats are able to provide regular milk because they process the grasses into milk. Domestication of the goat in the Fertile Crescent dates back 10,000 years, at about the same time as truly domesticated strains of grasses and grain crops emerged [8] The new abundance of grasses at the end of the last Ice Age did not directly result in an increase of food for humanity, but it did feed 'farm stock', who in turn fed people.
 
-Perhaps the second age of humanity could be called the 'Age of Cooking' rather than the 'agricultural age' because the new and most important element in human society became the processing of 'raw' materials rather than simply hunting and gathering. The use of fire for cooking and the availability of milk from ruminants brought the abundance of the warmer climate into the homes of humanity [9]. Thus, the goat helped to save humanity from the cold, sparse, desperate and often dangerous conditions of life during the Ice Ages.                                
+Perhaps the second age of humanity could be called the 'Age of Cooking' rather than the 'agricultural age' because the new and most important element in human society became the processing of 'raw' materials rather than simply hunting and gathering. The use of fire for cooking and the availability of milk from ruminants brought the abundance of the warmer climate into the homes of humanity [9]. Thus, the goat helped to save humanity from the cold, sparse, desperate and often dangerous conditions of life during the Ice Ages.                                
 
 ## LESSON 3: BE ORGANIZED.
 
@@ -40,7 +40,7 @@ As the planet settled into a warmer and more certain environment, humans began t
 
 But, what happened to the goat? The goat itself remained important for a single family. In the family setting the goat was small enough to live in the squeezed homestead of urbanized life and still provide a reliable supply of milk and meat. [13] Goats also found a place for themselves when humans sold or exchanged food becoming a 'product' in commerce: providing extra milk and milk products which could be sold or exchanged when it was alive; and providing meat and hides to sell when it was dead. The goat became simply another an item in humanity's inventory
 
-Commercial life started as a simple exchange system known as the baba system. [14] Six thousand years ago the Sumerian city-state of Lagash taxed transactions by farmers, cattle breeders, artisans, hunters and merchants by taking part of the income received in 'kind', by conscription, by construction of temples and canals and other exchanges. Goats were an integral part of that system: In the Bible, for example, Jacob, took speckled, spotted or black sheep and goats as wages and then carefully bred his flocks to become large and sturdy making himself extremely rich. [15]Joseph , a son of Jacob, was chosen by the Egyptian Pharaoh to be his chancellor.[16] He exchanged bread for livestock for his family when there was no money left to buy bread in the lands of Egypt and Cannan [17] Later Joseph acquired the lands of his tribe, who worked the land as surfs and were permitted to keep most of the harvest, providing them with some property rights. They became fruitful and increased in numbers [18] Nomadic wealth was measured by the size of the goat herd owned by one family or tribe.[19]
+Commercial life started as a simple exchange system known as the baba system. [14] Six thousand years ago the Sumerian city-state of Lagash taxed transactions by farmers, cattle breeders, artisans, hunters and merchants by taking part of the income received in 'kind', by conscription, by construction of temples and canals and other exchanges. Goats were an integral part of that system: In the _Bible_, for example, Jacob, took speckled, spotted or black sheep and goats as wages and then carefully bred his flocks to become large and sturdy making himself extremely rich. [15]Joseph , a son of Jacob, was chosen by the Egyptian Pharaoh to be his chancellor.[16] He exchanged bread for livestock for his family when there was no money left to buy bread in the lands of Egypt and Cannan [17] Later Joseph acquired the lands of his tribe, who worked the land as surfs and were permitted to keep most of the harvest, providing them with some property rights. They became fruitful and increased in numbers [18] Nomadic wealth was measured by the size of the goat herd owned by one family or tribe.[19]
 
 Along with excess, society developed and supported specialized individuals such as priests, artists, and kings who no longer produced their own food. Goat meat was placed among the benefits accorded to priests 'Offerings can be an animal from either herd or flock...if the offering is an animal out of a flock, a lamb or a goat offered as a holocaust, is a male without blemish.'[20] Sacrifices for Sin provide a way to be forgiven for certain sins. Sins of priests and leaders of the community require the sacrifice of a bull. Sins of private individuals require sacrifice of a she-goat or female lamb. The offering is an atonement for the inadvertent sin or doing something forbidden by the commandments of Yahweh. If the person cannot afford an animal of the flock, two turtledoves or young pigeons will substitute: one for a sacrifice for sin and one for a burned offering. And if that cannot be afforded, then a bushel sized figurine of wheat flour, mixed with oil or incense can be substituted as a memorial.[21] In the hierarchy of sacrifices, the sacrificed goat is sufficient for some sins of individuals but the sins of leaders and priests require beef. In these ways the goat retained a codified significance within that exchange system.
 
@@ -48,9 +48,9 @@ Outside of the commercial world, the goat regularly appeared in religious hierar
 
 Another Norse goat, Hedendom, lived on the roof of Odin's palace, where he ate leaves from the Tree of Life and produced a constant stream of mead for the warriors. Amalthea, a nymph, who is often described as a goat nursed the infant Zeus on her milk. Her horn, known as the cornucopia, was a magical horn capable of producing endless amounts of food or drink. Her goat skin was part of her shield and was used as a weapon in Zeus's battle against the Titans. She was rewarded by becoming a constellation in the sky but not a goddess. Pan, a satyr who is a half-man, half-goat creature was so hideous that his mother and nurse abandoned him. His father, Zeus, took him to Mt. Olympus where he became a favorite of the gods. He also referred to as the son of Hermes and as the god of shepherds, hunters and the wilds of nature. As the wild goat he symbolized strength and unpredictability. But as a satyr he was not part of the higher court on Olympus. The goat was an only attribute of Marduk, the Sumerian god who created heaven and earth. [23]
 
-In the Old Testament Bible the goat had some limited magical powers as a scapegoat. [24] Yahweh added the requirements of the Great Day of Atonement requiring that requiring that Aaron should receive two goats for a sacrifice for his own sin and a ram for a holocaust for atonement for himself and his family. Aaron allotted one goat to Yahweh and the other to Azazel [the demon of the desert]. The goat for Yahweh is sacrificed in the rite of atonement of sin. The other goat is sent into the desert to Azazel. Aaron, while laying his hands on the head of the second goat, confesses all the faults of the sons of Israel and lays them to its charge. The goat bore all of their faults away with it into the desert. The sacrifice of a goat became a substitute for human sacrifice. Abraham, who was singled out by Yahweh to form a great nation with all the nations of the earth, to command his sons and to maintain the way of Yahweh by just and upright living was tested for loyalty and passed because he was willing to kill and burn his son as a show of loyalty. An angel revealed a goat hanging in a nearby bush who was acceptable as a substitute for the boy. “Because you have done this, you have not refused me your son, your only son, I will shower blessings on you. I will make your descendants as many as the stars of heaven and the grains of sand on the seashore. Your descendants shall gain possession of the gates of their enemies. All nations of the earth shall bless themselves by your descendants, as a reward for your obedience.” [245
+In the Old Testament _Bible_ the goat had some limited magical powers as a scapegoat. [24] Yahweh added the requirements of the Great Day of Atonement requiring that requiring that Aaron should receive two goats for a sacrifice for his own sin and a ram for a holocaust for atonement for himself and his family. Aaron allotted one goat to Yahweh and the other to Azazel [the demon of the desert]. The goat for Yahweh is sacrificed in the rite of atonement of sin. The other goat is sent into the desert to Azazel. Aaron, while laying his hands on the head of the second goat, confesses all the faults of the sons of Israel and lays them to its charge. The goat bore all of their faults away with it into the desert. The sacrifice of a goat became a substitute for human sacrifice. Abraham, who was singled out by Yahweh to form a great nation with all the nations of the earth, to command his sons and to maintain the way of Yahweh by just and upright living was tested for loyalty and passed because he was willing to kill and burn his son as a show of loyalty. An angel revealed a goat hanging in a nearby bush who was acceptable as a substitute for the boy. “Because you have done this, you have not refused me your son, your only son, I will shower blessings on you. I will make your descendants as many as the stars of heaven and the grains of sand on the seashore. Your descendants shall gain possession of the gates of their enemies. All nations of the earth shall bless themselves by your descendants, as a reward for your obedience.” [245
 
-Although these goats had essential and important tasks in the more organized human society, the goat's basic position as livestock did not change. Humanity learned to 'use' the goat.
+Although these goats had essential and important tasks in the more organized human society, the goat's basic position as _livestock_ did not change. Humanity learned to 'use' the goat.
 
 ## LESSON 4: BE CURIOUS!
 
@@ -72,7 +72,7 @@ Things can worsen for the goat because of its inability to stay in line. The goa
 
 46 “Then they will go away to eternal punishment, but the righteous to eternal life.”
 
--–  Matthew 24: 31-46 The Sermon on the End. The Last Judgment[34]  
+-–  Matthew 24: 31-46 The Sermon on the End. The Last Judgment[34]  
 
 The goat's curious nature was part and parcel of humanity's entrance into civilization but was also why
 
@@ -82,7 +82,7 @@ it was never included in the leadership as king because the goat was always curi
 
 After a goat has eaten its fill of grass it lies down and ruminates. This is the amazing, if somewhat gross, process of chewing grass, swallowing it into one stomach, regurgitating it as cud, chewing it again and sending it into another stomach for final processing into milk. [35] Humans often nap after dinner and sometimes ruminate. But they are doing something completely different from the goat. Rumination is the last lesson.
 
-Even the great Oxford English Dictionary can not decide which is the 'first' meaning of ruminate! 'Ruminant' is (a) an animal who chews cud first, (b) a contemplative person. 'Rumination' is (a) contemplation and (b) the action of chewing cud. [36] This dual meaning links the goat's ability to provide milk with human imagination. The word is the same yet it is different. [37] When humans ruminate they think deeply about something. Thinking can be worrying, problem solving, envisioning new possibilities, explaining different perspectives, or imagining new ideas. Imagination, however, is more than curiosity because it surpasses the real. [38]
+Even the great _Oxford English Dictionary_ can not decide which is the 'first' meaning of ruminate! 'Ruminant' is (a) an animal who chews cud first, (b) a contemplative person. 'Rumination' is (a) contemplation and (b) the action of chewing cud. [36] This dual meaning links the goat's ability to provide milk with human imagination. The word is the same yet it is different. [37] When humans ruminate they think deeply about something. Thinking can be worrying, problem solving, envisioning new possibilities, explaining different perspectives, or imagining new ideas. Imagination, however, is more than curiosity because it surpasses the real. [38]
 
 When imagination enters the frame, storytelling changes away from the mere recitation of facts The 'Queen' goat identifies and communicates information about a new and unpleasant grass to the herd. She does not tell a story. Animals can 'lie' when they communicate with each other. For example, when the possum pretends to be dead it is acting out of instinct not creativity [39] This is where the student (humanity) surpasses Campbell's tutor (animals).
 
@@ -101,9 +101,9 @@ The book regularly links Peter to the god Pan. They both bring children into the
 
 'Peter’s heart was so glad that he felt he must sing all day long, just as the birds sing for joy, but, being partly human, he needed an instrument, so he made a pipe of reeds, and he used to sit by the shore of the island of an evening, practicing the sound of the wind and the ripple of the water, and catching handfuls of the shine of the moon, and he put them all in his pipe and played them so beautifully that even the birds were deceived, and they would say to each other, ‘Was that a fish leaping in the water or was it Peter playing leaping fish on his pipe?’ And sometimes he played the birth of birds, and then the mothers would turn round in their nests to see whether they had laid an egg. If you are a child of the Gardens ,you must know the chestnut-tree near the bridge, which comes out in flower first of all the chestnuts, but perhaps you have not heard why this tree leads the way. It is because Peter wearies for summer and plays that it has come, and the chestnut being so near, hears him and is cheated.' [44]
 
-Peter has many daring adventures in the 1904 play Peter Pan, or The Boy Who Wouldn't Grow Up. [45] Many of the adventures in the wild are dangerous, scary and cause panic. Peter shoots Wendy with a bow and arrow. Wendy and her brothers are captured by pirates and almost die. Captain Hook is determined to kill Peter because Peter cut off one of his arms in a duel, and fed the arm to the crocodile who found the arm to be tasty and wants to kill Hook to finish the meal. Like the great god Pan, Peter Pan initially promises fun and adventure but the fun usually turns into danger and nastiness. The children eventually want to go home to a stable, warm and loving home, but Peter remains in Neverland betwixt and between civilization and the wild...like the untamable goat.
+Peter has many daring adventures in the 1904 play _Peter Pan, or The Boy Who Wouldn't Grow Up._ [45] Many of the adventures in the wild are dangerous, scary and cause panic. Peter shoots Wendy with a bow and arrow. Wendy and her brothers are captured by pirates and almost die. Captain Hook is determined to kill Peter because Peter cut off one of his arms in a duel, and fed the arm to the crocodile who found the arm to be tasty and wants to kill Hook to finish the meal. Like the great god Pan, Peter Pan initially promises fun and adventure but the fun usually turns into danger and nastiness. The children eventually want to go home to a stable, warm and loving home, but Peter remains in Neverland betwixt and between civilization and the wild...like the untamable goat.
 
-Other well known stories include goats. The piper character in Wind in the Willows is half man and half goat. [46] Muriel, a white goat, is one of the few fully literate animals in Animal Farm. [47] Tumnus, a character in the Chronicles of Narnia, has reddish skin, curly hair, brown eyes, a short pointed beard, horns on his forehead, cloven hooves, goat legs with glossy black hair, a 'strange but pleasant little face,' a long tail, and being 'only a little taller than Lucy herself.' [48] Other tales include the Swedish Yule Goat, Krampus of the Alpine regions, and the goat figures found in the western and Chinese astrology. Even the noted author and journalist John Steinbeck changed his assignment for the Daily Express away from reporting on the airplanes of the Royal Air Force at Manston Airfield. Instead, he wrote an entire column about the mascot, Wing Commander William de Goat D.S.O who munched cigarettes, ate nearly everything in sight especially beer and glycol cooling fluid and who was considered to be the luck of his wing [49]
+Other well known stories include goats. The piper character in _Wind in the Willows_ is half man and half goat. [46] Muriel, a white goat, is one of the few fully literate animals in _Animal Farm_. [47] Tumnus, a character in the _Chronicles of Narnia,_ has reddish skin, curly hair, brown eyes, a short pointed beard, horns on his forehead, cloven hooves, goat legs with glossy black hair, a 'strange but pleasant little face,' a long tail, and being 'only a little taller than Lucy herself.' [48] Other tales include the Swedish Yule Goat, Krampus of the Alpine regions, and the goat figures found in the western and Chinese astrology. Even the noted author and journalist John Steinbeck changed his assignment for the Daily Express away from reporting on the airplanes of the Royal Air Force at Manston Airfield. Instead, he wrote an entire column about the mascot, Wing Commander William de Goat D.S.O who munched cigarettes, ate nearly everything in sight especially beer and glycol cooling fluid and who was considered to be the luck of his wing [49]
 
 In these stories, the goat character changes reality within the story and makes the reader see something unexpected. This is the essence of the Trickster archetype. 'He is the archetype who attacks all archetypes. He tells the story and then threatens to tear it apart. He is an eternal state of mind that is suspicious of all eternals, dragging them from their heavenly preserves to see how they fare down here in this time-haunted world ' [50] Imagination, aka creative lying, is the one of the most important element distinguishing humanity from all of the other species. [51]
 
@@ -113,54 +113,54 @@ Aristotle's goat continues to be a tutor because it does not stop being relevant
 
 ## ENDNOTES
 
-[1] Benton, William, publisher The Works of Aristotle Vol II (The Great Books Encyclopedia Britannica, Inc. 19th printing 1971) 99  
-[2] Campbell, Joseph The Hero with a Thousand Faces (New Jersey, Princeton University Press, 1973), 390  
+[1] Benton, William, publisher _The Works of Aristotle Vol II_ (The Great Books Encyclopedia Britannica, Inc. 19th printing 1971) 99  
+[2] Campbell, Joseph _The Hero with a Thousand Faces_ (New Jersey, Princeton University Press, 1973), 390  
 [3[ Campbell 390  
-[4] Mendelson, Anne Spoiled, The Myth of Milk as Superfood, (New York: Columbia University Press, 2023) 20  
-[5] Dartnell, Louis Origins: How Earth's History Shaped Human History (New York, Hachette Book Group 2019) 88  
-[6] Ruminants: an animal who chews the cud Jean L. McKechine, Ed. Webster's New Universal Unabridged Dictionary 2nd edition, (New York, Simon & Schuster, 1979) 1585 [7] Mendelson 33  
+[4] Mendelson, Anne _Spoiled, The Myth of Milk as Superfood,_ (New York: Columbia University Press, 2023) 20  
+[5] Dartnell, Louis _Origins: How Earth's History Shaped Human History_ (New York, Hachette Book Group 2019) 88  
+[6] Ruminants: an animal who chews the cud Jean L. McKechine, Ed. _Webster's New Universal Unabridged Dictionary 2__nd_ _edition,_ (New York, Simon & Schuster, 1979) 1585 [7] Mendelson 33  
 [8] Dartnell 68  
-[9] Frankopan, Peter The Earth Transformed: An Untold Story (New York, Alfred A Knopf Co 2023) 75  
-[10] Demas, Jerusalem “The Invention of Agriculture” (The Atlantic AM, November, 19, 2024)  
+[9] Frankopan, Peter _The Earth Transformed: An Untold_ Story (New York, Alfred A Knopf Co 2023) 75  
+[10] Demas, Jerusalem _“The Invention of Agriculture”_ (The Atlantic AM, November, 19, 2024)  
 [11] Frankopan 83  
 [12] Frankopan 67  
-[13] Coulthard, Sally Fowl Play: A History of the Chicken from Dinosaur to Dinner Plate, (United Kingdom, Blumsberry Publ. 2022) 172  
-[14] Digital Tax Technologies History of Taxation: Sumerians, Assyrians & Babalonia (published July 27, 2023)  
-[15] Jones, Alexander editor The Jerusalem Bible Reader's Edition, (Doubleday & Company 1968) Genesis 30: 32-43  
+[13] Coulthard, Sally _Fowl Play: A History of the Chicken from Dinosaur to Dinner Plate,_ (United Kingdom, Blumsberry Publ. 2022) 172  
+[14] Digital Tax Technologies _History of Taxation: Sumerians, Assyrians & Babalonia_ (published July 27, 2023)  
+[15] Jones, Alexander editor _The Jerusalem Bible Reader's Edition,_ (Doubleday & Company 1968) Genesis 30: 32-43  
 [16] Jones Genesis 41: 41-42  
 [17] Jones Genesis 47: 18-28  
 [18] Jones Genesis 47: 18-28  
 [19] Mendleson 41  
 [20] Jones Leviticus 1: 10-11
 
- [21] Jones Leviticus 6: 11  
+ [21] Jones Leviticus 6: 11  
 [22] Frankopan page 67  
-[23] Guirand, Felix editor The Larousse Encyclopedia of Mythology (London, Chancellor Press 1996) and Cavendish, Richard editor Legends of the World: A Cyclopedia of the Enduring Myths, Legends, and Sagas of Mankind (New York, Schocken Books 1982)
+[23] Guirand, Felix editor _The Larousse Encyclopedia of Mythology_ (London, Chancellor Press 1996) and Cavendish, Richard editor _Legends of the World: A Cyclopedia of the Enduring Myths, Legends, and Sagas of Mankind_ (New York, Schocken Books 1982)
 
- [24] Jones Leviticus 16: 20-23  
+ [24] Jones Leviticus 16: 20-23  
 [25] Jones Genesis 22: 11-18  
-[26] Barzum,, Jacques A Stroll with William James 'The Masterpiece', (NYC 1983) 59  
-[27] Shattuck, Roger Forbidden Knowledge From Prometheus to Pornography, (New York, Harcourt Brace & Company, 1996) 35  
+[26] Barzum,, Jacques _A Stroll with William James 'The Masterpiece',_ (NYC 1983) 59  
+[27] Shattuck, Roger _Forbidden Knowledge From Prometheus to Pornography,_ (New York, Harcourt Brace & Company, 1996) 35  
 [28] Benton 99  
-[29] Cornell CALS Goat Herd Behavior Eating (Ithaca NY, NYS 4-H Animal Science Program  
-[30] Jaynes, Julian The Origin of Consciousness in the Breakdown of the Bicameral Mind, (Boston, Houghton Mifflin Company, 1990) 193  
-[31] Wright, Andy No Goats Do Not Eat Tin Cans (Modern Farmer September 18, 2013) [32] Jones Genesis 3: 1-24  
+[29] Cornell CALS _Goat Herd Behavior Eating_ (Ithaca NY, NYS 4-H Animal Science Program  
+[30] Jaynes, Julian _The Origin of Consciousness in the Breakdown of the Bicameral Mind,_ (Boston, Houghton Mifflin Company, 1990) 193  
+[31] Wright, Andy _No Goats Do Not Eat Tin Cans_ (Modern Farmer September 18, 2013) [32] Jones Genesis 3: 1-24  
 [33] Encyclopedia Britannica (britannica.com/topic/Pandora-Greek-Mythology) October, 2024  
 [34] Jones Matthew 24: 31-46  
-[35] Weaver, Sue The Goat: A Natural and Cultural History (Princeton NJ, Princeton University Press, 2020) 36-39  
-[36] The Oxford English Dictionary 2nd edition Vol XIV (Oxford UK, Clarendon Press 2004) 238-9  
+[35] Weaver, Sue _The Goat: A Natural and Cultural History_ (Princeton NJ, Princeton University Press, 2020) 36-39  
+[36] _The Oxford English Dictionary 2__nd_ _edition Vol XIV_ (Oxford UK, Clarendon Press 2004) 238-9  
 [37] Barzum 44-45  
 [38] Shattuck 130  
-[39] Hyde, Lewis Trickster Makes This World: Mischief, Myth and Art, (New York, Farrar, Straus and Giroux 1998) 45  
+[39] Hyde, Lewis _Trickster Makes This World: Mischief, Myth and Art,_ (New York, Farrar, Straus and Giroux 1998) 45  
 [40] Hyde 14  
-[41] Graves, Robert The Greek Myths (New York, Penguin Classics, 1960) 78-81  
-[42] Barrie, J.M. Peter Pan in Kensington Gardens, (New York Charles Scribner's Sons 1910) 20 KG  
+[41] Graves, Robert _The Greek Myths_ (New York, Penguin Classics, 1960) 78-81  
+[42] Barrie, J.M. _Peter Pan in Kensington Gardens, (_New York Charles Scribner's Sons 1910) 20 KG  
 [43] Barrie 174 KG  
 [44] Barrie 33 KG  
-[45] Barrie, J. M. Peter Pan, or The Boy Who Wouldn't Grow Up (1904)  
-[46] Grahame, Kenneth The Wind in the Willows (1908)  
-[47] Orwell, George Animal Farm (1945)  
-[48] Lewis, C.S. The Chronicles of Narnia: The Lion, the Witch, and the Wardrobe (1950) [49] John Steinbeck “William De Goat” (New York Herald Tribune) June 29, 1943  
+[45] Barrie, J. M. _Peter Pan, or The Boy Who Wouldn't Grow Up_ (1904)  
+[46] Grahame, Kenneth _The Wind in the Willows_ (1908)  
+[47] Orwell, George _Animal Farm_ (1945)  
+[48] Lewis, C.S. _The Chronicles of Narnia: The Lion, the Witch, and the Wardrobe_ (1950) [49] John Steinbeck _“William De Goat” (_New York Herald Tribune) June 29, 1943  
 [50] Hyde 14  
 [51] Hyde 45  
 [52] Shuttuck 30

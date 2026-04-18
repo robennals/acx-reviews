@@ -1,23 +1,26 @@
 ---
-title: "She-Ra and the Princesses of Power"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2025-non-book-reviews"
-contestName: "2025 Non Book Reviews"
+title: She-Ra and the Princesses of Power
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2025-non-book-reviews
+contestName: 2025 Non Book Reviews
 year: 2025
-publishedDate: "2025-01-01T00:00:00.000Z"
-slug: "she-ra-and-the-princesses-of-power"
-wordCount: 2446
+publishedDate: '2025-01-01T00:00:00.000Z'
+slug: she-ra-and-the-princesses-of-power
+wordCount: 2450
 readingTimeMinutes: 11
-originalUrl: "https://docs.google.com/document/d/17WAcFrTOExgendrk2lGTxRIR4LVC3ZGbiU5Xe3kF4mg"
-source: "gdoc"
+originalUrl: >-
+  https://docs.google.com/document/d/17WAcFrTOExgendrk2lGTxRIR4LVC3ZGbiU5Xe3kF4mg
+source: gdoc
+tags:
+  - Fiction
 ---
 
 ## 1\. Raison d'être
 
 It's a story of childhood abuse, and different ways to cope with it.
 
-It's also a western magical girl cartoon, a remake of the original 80s cartoon She-Ra: Princess of Power, a cute science fantasy show for children and people who used to be children. If you want that, it's pretty good in its own right.
+It's also a western magical girl cartoon, a remake of the original 80s cartoon _She-Ra: Princess of Power_, a cute science fantasy show for children and people who used to be children. If you want that, it's pretty good in its own right.
 
 But the reason it resonated with so many people is the childhood trauma aspect. It's realistic, it's sympathetic, it’s heartfelt, it's cathartic. The victims of trauma see themselves, identify with the characters, and then are given reasons to heal. Their friends watch the show and become aware of the struggle, which is probably even more important. I can only hope the abusers are tormented with guilt, but we all know they don’t, and the show knows they don’t, and they know they don’t, so might as well not give them a redemption arc. And the magical transformation – the one that makes it a magical girl cartoon – is something that only the secret third target audience, people who never got to be children, can catch on to, and it’s the reason why I think this review is important. But I am getting ahead of myself.
 
@@ -49,9 +52,9 @@ This is a wham episode in many ways, but one thing in particular it does best is
 
 ### 4.1. Shadow Weaver
 
-The abuser. Cruel, selfish, manipulative, and unrepentant. There are reasons she does all that, understandable reasons. She is not ontologically evil. She is not broken. It’s just a thing-she-does. Some people perceive her as a cool, competent, impressive villain, a Professor Quirrell. Traumatized people invariably see her as a bottomless hate sink. This is not an accident.
+The abuser. Cruel, selfish, manipulative, and unrepentant. There are reasons she does all that, understandable reasons. She is not ontologically evil. She is not broken. It’s just a thing-she-does. Some people perceive her as a cool, competent, _impressive_ villain, a Professor Quirrell. Traumatized people invariably see her as a bottomless hate sink. This is not an accident.
 
-When I first wrote the previous paragraph, it went “reasons she is like that”. But on a revision, I changed it. It would look like she herself is a victim, or imply that her sin is in any way absolved. But that’s not how reality works, and therefore, not how the show portrays it. She is a realistic abuser that many watchers project their own experiences at. Her arc is flawlessly executed: no matter how many good reasons the abuser claims to have, no matter how difficult they had it, no matter how much what they did was justified – they are still evil, and you are allowed to hate them, and they do not deserve a happy ending, and their cruel choices are what would be their downfall. No matter what you think of the morality of this framing, you cannot deny its therapeutic value. Depicting her any other way would be diminishing the experience of victims. No other story I’ve seen manages this.
+When I first wrote the previous paragraph, it went “reasons she is like that”. But on a revision, I changed it. It would look like she herself is a victim, or imply that her sin is in any way absolved. But that’s not how reality works, and therefore, not how the show portrays it. She is a realistic abuser that many watchers project their own experiences at. Her arc is flawlessly executed: no matter how many good reasons the abuser claims to have, no matter how difficult they had it, no matter how much what they did was justified – _they are still evil_, and you _are_ allowed to hate them, and they _do not_ deserve a happy ending, and their cruel choices _are_ what would be their downfall. No matter what you think of the morality of this framing, you cannot deny its therapeutic value. Depicting her any other way would be diminishing the experience of victims. No other story I’ve seen manages this.
 
 ### 4.2. Adora
 
@@ -81,8 +84,8 @@ In the culmination of the first major arc, Catra learns that Hordak’s goal tha
 
 Why do people do evil? Do they know they’re evil, or are they just in error? One answer I’ve been fond of is given by Mikhail Bulgakov, speaking as Jesus:
 
-There are no evil people in the world – there are only people who are unhappy  
-— Master and Margarita
+> There are no evil people in the world – there are only people who are unhappy  
+> — Master and Margarita
 
 Right now, if you give me a button that destroys the world, I would press it. Yes, I am serious, this is not an exaggeration. I won’t even try to “resist” anything; there is nothing to resist. I know that this would be very evil and very stupid. I know that on a different day, I might make a different choice. It doesn’t matter. It’s just a thing-I-do. Scorpion on the back of a frog. Trauma brain resists comprehension.
 
@@ -90,7 +93,7 @@ I don’t know how universal this opinion is, but I’ve heard it from some ther
 
 When Adora tells Catra that she’s been lied to and manipulated, Catra says “Duh”. What does it matter to trauma brain? A paperclip maximizer will hear humans lament that this is not what they intended to build, and that extinguishing the light of consciousness forever is unspeakable evil, and then it will say “Duh” and get to work.
 
-There is nothing that shows the workings of trauma as sympathetically as She-Ra and the Princesses of Power.
+There is _nothing_ that shows the workings of trauma as sympathetically as _She-Ra and the Princesses of Power_.
 
 ## 6\. Holes in reality
 
@@ -108,11 +111,11 @@ Adora can transform into a legendary warrior, She-Ra. She becomes much more powe
 
 I can, too.
 
-It’s a common thing with dissociation. Trauma keeps you in chains; sometimes the chains unlock. Many transgender people are familiar with this: the wrong-gender version of you isn’t just more depressed, it’s weak. Even something as simple as going on the Internet and performing as the correctly gendered version of yourself can transform what you are capable of; and actually transitioning is a life-changing boost to your power level. This is not mania; this is just the time that you can control your actions, rather than being dissociated from yourself and reality. Instead of making decisions based on what your hyper-aware brain tells you on a second-to-second basis, interested only in avoiding anything that the trauma taught you to avoid, thinking only the thoughts you are allowed to think – you can just do good things and not do bad things.
+It’s a common thing with dissociation. Trauma keeps you in chains; sometimes the chains unlock. Many transgender people are familiar with this: the wrong-gender version of you isn’t just more depressed, it’s _weak_. Even something as simple as going on the Internet and performing as the correctly gendered version of yourself can transform what you are capable of; and actually transitioning is a life-changing boost to your power level. This is not mania; this is just the time that you can control your actions, rather than being dissociated from yourself and reality. Instead of making decisions based on what your hyper-aware brain tells you on a second-to-second basis, interested only in avoiding anything that the trauma taught you to avoid, thinking only the thoughts you are allowed to think – you can just do good things and not do bad things.
 
-Before my first henshin, I didn’t even realize how much in chains I was, and how easy it is to do things when you don’t have to fight with your own head every second of every day. Being able to decide something and just do it, rather than inventing a strategy of negotiation with your own demons to allow it, is supremely liberating.
+Before my first henshin, I didn’t even realize how much _in chains_ I was, and how easy it is to do things when you don’t have to fight with your own head every second of every day. Being able to decide something and _just do it_, rather than inventing a strategy of negotiation with your own demons to allow it, is supremely liberating.
 
-I don’t know if this connection was intended in the show. But I, and some other people I know, adopted She-Ra as the go-to metaphor of being able to act as yourself.
+I don’t know if this connection was intended in the show. But I, and some other people I know, adopted _She-Ra_ as the go-to metaphor of being able to act as yourself.
 
 What doesn’t kill you, doesn’t make you stronger. It makes you so, so much weaker. Surviving a traumatic ordeal doesn’t mean you’d be better at surviving it the next time. It means that next time anything is even slightly difficult about it, you just fold down and die. It means you won’t even be capable of the bare minimum. Things that are utterly trivial to normal people become insurmountable to you. To the point where temporarily overcoming it is comparatively like transforming into a legendary superhero.
 
@@ -120,11 +123,11 @@ What doesn’t kill you, doesn’t make you stronger. It makes you so, so much w
 
 True love and friendship being powerful is a stock literary cliché. But it’s usually just magic, a reverse Whale Aesop. The hero loves the heroine very very much and it makes him immune to mind control. The little ponies are very good friends and it allows them to blast baddies with their friendship beams.
 
-The last thing that She-Ra and the Princesses of Power shows you is the ultimate power of love. And for real this time.
+The last thing that _She-Ra and the Princesses of Power_ shows you is the ultimate power of love. And for real this time.
 
 * * *
 
 ## 9\. Afterword by Anton Chekhov
 
-We see the people going to market for provisions, eating by day, sleeping by night, talking their silly nonsense, getting married, growing old, serenely escorting their dead to the cemetery; but we do not see and we do not hear those who suffer, and what is terrible in life goes on somewhere behind the scenes… Everything is quiet and peaceful, and nothing protests but mute statistics: so many people gone out of their minds, so many gallons of vodka drunk, so many children dead from malnutrition… And this order of things is evidently necessary; evidently the happy man only feels at ease because the unhappy bear their burdens in silence, and without that silence happiness would be impossible. It's a case of general hypnotism. There ought to be behind the door of every happy, contented man some one standing with a hammer continually reminding him with a tap that there are unhappy people; that however happy he may be, life will show him her laws sooner or later, trouble will come for him – disease, poverty, losses, and no one will see or hear, just as now he neither sees nor hears others. But there is no man with a hammer; the happy man lives at his ease, and trivial daily cares faintly agitate him like the wind in the aspen-tree – and all goes well.  
-— Anton Chekhov, Gooseberries
+> We see the people going to market for provisions, eating by day, sleeping by night, talking their silly nonsense, getting married, growing old, serenely escorting their dead to the cemetery; but we do not see and we do not hear those who suffer, and what is terrible in life goes on somewhere behind the scenes… Everything is quiet and peaceful, and nothing protests but mute statistics: so many people gone out of their minds, so many gallons of vodka drunk, so many children dead from malnutrition… And this order of things is evidently necessary; evidently the happy man only feels at ease because the unhappy bear their burdens in silence, and without that silence happiness would be impossible. It's a case of general hypnotism. There ought to be behind the door of every happy, contented man some one standing with a hammer continually reminding him with a tap that there are unhappy people; that however happy he may be, life will show him her laws sooner or later, trouble will come for him – disease, poverty, losses, and no one will see or hear, just as now he neither sees nor hears others. But there is no man with a hammer; the happy man lives at his ease, and trivial daily cares faintly agitate him like the wind in the aspen-tree – and all goes well.  
+> — Anton Chekhov, _Gooseberries_

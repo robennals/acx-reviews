@@ -114,7 +114,7 @@ The story had been told before,
 
 It's part of the Arthurian lore.
 
-Mort Artu a likely source;
+_Mort Artu_ a likely source;
 
 And Malory wrote her too, of course
 
@@ -126,7 +126,7 @@ A novellina - Italian -
 
 A very short story with the name
 
-La Damigella di Scalot.
+_La Damigella di Scalot_.
 
 The common end of all of these
 
@@ -340,7 +340,7 @@ It's one verse more than this review
 
 And the rhymes work better too
 
-(He was Poet Laureate!).
+(He _was_ Poet Laureate!).
 
 My mind is now embalmed in rhyme,
 

@@ -7,7 +7,7 @@ contestName: 2022 Book Reviews
 year: 2022
 publishedDate: '2026-02-06T07:24:08.696Z'
 slug: civilization-and-its-discontents-by-sigmund-freud
-wordCount: 5726
+wordCount: 5738
 readingTimeMinutes: 26
 originalUrl: >-
   https://docs.google.com/document/d/1pRQbRbEUwSH_jm94PI_ij-88swat7vQ4iNaNp6gd39g
@@ -28,7 +28,7 @@ I have always found it challenging to decide to what extent psychoanalysis deser
 
 It is with these thoughts in my mind that I turned to Freud's 'Civilization and Its Discontents'. It was published in 1930, when Freud was 74, and can fruitfully be read as a synthesis of his theory of psychoanalysis with his personal philosophical views about the problems civilization poses to the happiness of people. He clearly dedicated a large part of his life thinking about these topics, and it is worth one's time to read the fruits of such a study. So I read it - specifically, I read the 2002 translation by David McLintock. It should be easy to find a translation online.
 
-TLDR; this is a book so profound in its pessimism that it is at times disturbing. It is redeemed by a combination of brilliant intuitive insight, and hilariously ungrounded but entertaining psychoanalytic speculations about e.g. the taming of fire by humans (Freud suggests we conquered fire when men learnt to restrain their homoerotic impulse to pee on it). I find the speculations about the origin of guilt, and the problems it poses to civilization, fascinating and worth taking seriously.
+**TLDR;** this is a book so profound in its pessimism that it is at times disturbing. It is redeemed by a combination of brilliant intuitive insight, and hilariously ungrounded but entertaining psychoanalytic speculations about e.g. the taming of fire by humans (Freud suggests we conquered fire when men learnt to restrain their homoerotic impulse to pee on it). I find the speculations about the origin of guilt, and the problems it poses to civilization, fascinating and worth taking seriously.
 
 ## The book as text
 
@@ -56,7 +56,7 @@ Freud begins the book by discussing a certain 'oceanic feeling' brought to his a
 
 Freud, a staunch atheist, apparently by temperament as much as conviction, insists he has had no experience of such a thing except in a purely intellectual sense, but admits that it occurs in other people. He identifies it with the dissolution of the distinction between the self and the outer world; this distinction is one that develops as a person matures beyond infanthood, 'through deliberate control of our sensory activity and appropriate muscular action', i.e. it corresponds to the development of the ego. If Rolland is correct about the origin of the religious experience, this conveniently frames the religious experience as an infantilism.
 
-Freud then argues that this feeling, which he refers to as 'a far more comprehensive, indeed all-embracing feeling, which corresponded to a more intimate bond between the ego and the world around it' persists in the mental or psychological makeup of the individual. He goes so far as to call it the 'primary sense of self'. The analogy he uses to make the case is based on a dubious comparison between mental development and the process of natural selection that I will not repeat here - but this is a good time to point out that he relies on analogy a lot, and that the analogies often read oddly, as they are rooted in the science of nearly a century ago.
+Freud then argues that this feeling, which he refers to as 'a far more comprehensive, indeed all-embracing feeling, which corresponded to a more intimate bond between the ego and the world around it' persists in the mental or psychological makeup of the individual. He goes so far as to call it the 'primary sense of self'. The analogy he uses to make the case is based on a dubious comparison between mental development and the process of natural selection that I will not repeat here - but this is a good time to point out that he relies on analogy a **lot**, and that the analogies often read oddly, as they are rooted in the science of nearly a century ago.
 
 He also posits that the human mind cannot forget anything, that '[...] nothing that ever took shape [in it] has passed away, and in which all previous phases of development exist beside the most recent'. This seems false to me; to the best of my knowledge modern neuroscience accepts that part of the process of learning involves the pruning of neural pathways, and hence forgetting.
 
@@ -64,27 +64,27 @@ Freud concludes that he does not agree that this oceanic feeling is the origin o
 
 This seems too narrowly specific to Abrahamic religions for my liking - I am not a religious scholar, but I think it is uncontroversial that the protective aspect of a father-like deity is less central to religions belonging to other traditions, i.e. most of them.
 
-If the argument is instead that even religions without such symbolism originate ultimately in the need for paternal protection, he does not make it, and I do not know how it can be sustained. In some broad sense a desire for safety may surely be said to be relevant to religion - but this is too vague an observation to draw conclusions from, and applies equally to many other things. My own belief is that religion owes more to the fear of death, and a desire for a continuation of the self, than a yearning for paternal protection as such.
+If the argument is instead that even religions without such symbolism originate ultimately in the need for paternal protection, he does not make it, and I do not know how it can be sustained. In some broad sense a desire for safety may surely be said to be _relevant_ to religion - but this is too vague an observation to draw conclusions from, and applies equally to many other things. My own belief is that religion owes more to the fear of death, and a desire for a continuation of the self, than a yearning for paternal protection as such.
 
 ## Religion
 
 Despite disagreeing with Rolland, Freud remains committed to the idea that the religious experience is a throwback to an infantile state. This criticism of religion is a recurring theme. For example:
 
-[religion] assures him that a careful providence will watch over his life and compensate him in a future existence for any privations he has suffered. The common man cannot imagine this providence otherwise than as an immensely exalted father.
-
- [...]
-
-All this is so patently infantile, so remote from reality, that it pains a philanthropic temperament to think that the great majority of mortals will never be able to rise above such a life.
+> [religion] assures him that a careful providence will watch over his life and compensate him in a future existence for any privations he has suffered. The common man cannot imagine this providence otherwise than as an immensely exalted father.
+>
+>  [...]
+>
+> All this is so patently infantile, so remote from reality, that it pains a philanthropic temperament to think that the great majority of mortals will never be able to rise above such a life.
 
 and later
 
-Of special importance is the case in which substantial numbers of people, acting in concert, try to assure themselves of happiness and protection against suffering through a delusional reshaping of reality.
-
-The religions of mankind too must be described as examples of mass delusion.
+> Of special importance is the case in which substantial numbers of people, acting in concert, try to assure themselves of happiness and protection against suffering through a delusional reshaping of reality.
+>
+> The religions of mankind too must be described as examples of mass delusion.
 
 In a later section he touches upon a truth that has motivated atheist, agnostics, and religious nonconformists throughout the ages;
 
-Its [i.e. religion's] technique consists in reducing the value of life and distorting the picture of the real world by means of delusion; and this presupposes the intimidation of the intelligence.
+> Its [i.e. religion's] technique consists in reducing the value of life and distorting the picture of the real world by means of delusion; and this presupposes the intimidation of the intelligence.
 
 This rings true to me - I remember how as a child, as my mind began to develop, how outraged I was that people would lie to me about God; and how terrified I was when I realized that all these adults, who were supposedly wiser than me and in control of the world, were motivated in part by a fundamental fear of death. I've chilled out since then, but probably because, as I am an adult, it is no longer considered socially acceptable to coop me up against my wishes and brainwash me with patently ridiculous religious doctrine.
 
@@ -92,7 +92,7 @@ This rings true to me - I remember how as a child, as my mind began to develop, 
 
 Freud commits, likely unknowingly, to the first of the four noble truths of Buddhism, called the truth of suffering ('to live is to suffer') when he says:
 
-The life imposed on us is too hard for us to bear: it brings too much pain, too many disappointments, too many insoluble problems. If we are to endure it, we cannot do without palliative measures.
+> The life imposed on us is too hard for us to bear: it brings too much pain, too many disappointments, too many insoluble problems. If we are to endure it, we cannot do without palliative measures.
 
 Unlike Buddhism, he does not consider our suffering to be ultimately the consequence of our attachment to desire, but rather due to three separate causes; the superior power of nature, the frailty of our bodies, and the inadequacy of the social institutions that regulate people's interactions with one another.
 
@@ -102,7 +102,7 @@ Perhaps driven by a concern that he has not sufficiently communicated his pessim
 
 Instead of a deeper purpose that would give meaning to our lives, Freud proposes that we are motivated by unconscious desires. The driving force of human instinct, located in the id, is the search for pleasure - hence Freud has it that the id is governed by 'the pleasure principle'. It is the role of the ego to transmute this into the 'reality principle', which is something like a compromise that assists us in dealing with the external world. To oversimplify; the id wants us to have sex with everything, gorge ourselves on chocolate, do a lot of cocaine, and murder people that frustrate our desires, but this is unobtainable. Instead we behave ourselves, go to school, get a job etc, so that we can indulge in some of these things some of the time, avoid death, and hopefully procreate.
 
-Just to be absolutely sure we understand that life is indeed suffering, Freud also states that '[the pursuit of the pleasure principle] is at odds with the whole world' and 'It is quite incapable of being realized; all the institutions of the world are opposed to it.' I find this bleak assessment oddly humorous (and true).
+Just to be _absolutely_ sure we understand that life is indeed suffering, Freud also states that '[the pursuit of the pleasure principle] is at odds with the whole world' and 'It is quite incapable of being realized; all the institutions of the world are opposed to it.' I find this bleak assessment oddly humorous (and true).
 
 Since civilization (which can also be read as 'society') does not permit us to murderfuck everything (which is apparently very frustrating to our unconscious selves), we channel our libidinal energy into other avenues to assuage our suffering. Freud considered the most effective channel for libidinal energy to be the exercise of mental and intellectual work as a substitutive satisfaction. This includes the work of scientists and artists - and essentially any creative application of the mind towards some aim other than the satisfaction of our instinctual desires (e.g for sex and food). Nonetheless, these pleasures are inferior in intensity, because 'they do not convulse the constitution' (which reads like a euphemism for 'they can't give you a literal orgasm). Freud also holds that they are not accessible to everyone (I disagree).
 
@@ -142,13 +142,13 @@ Freud defines civilization as all activities and values that are useful to human
 
 A primary focus of the book is the origin of the hostility to civilization which Freud considered a serious impediment to the furthering or continuation of said civilization. Freud lays part of the blame for the inimical attitude towards civilization on Christianity, because of its devaluation of the material world. There are echoes of Nietzsche here - the interested reader is directed to section 15 of 'The Antichrist', which also echoes Freud's antipathy towards religion in general.
 
-Freud points out that projecting our own mental state onto people living in completely different circumstances is likely inappropriate, given how extremely subjective such a process is - and that for this reason, despite great improvements in medicine and technology, it is difficult to say whether people of previous ages were more or less happy. This is very pessimistic - I imagine Steven Pinker would not be impressed by this argument. Certainly we are less likely to die or lose children than our ancestors were (on average), and this should be viewed as a good thing. Freud's response might be, sure, but are we really happier? This sounds like the notion of the hedonic treadmill applied to technological progress - I do not have a convincing rejoinder to it.
+Freud points out that projecting our own mental state onto people living in completely different circumstances is likely inappropriate, given how extremely subjective such a process is - and that for this reason, despite great improvements in medicine and technology, it is difficult to say whether people of previous ages were more or less happy. This is very pessimistic - I imagine Steven Pinker would not be impressed by this argument. Certainly we are less likely to die or lose children than our ancestors were (on average), and this should be viewed as a good thing. Freud's response might be, sure, but are we really _happier_? This sounds like the notion of the hedonic treadmill applied to technological progress - I do not have a convincing rejoinder to it.
 
 He discusses the so-called 'anal character', and without any motivation (which I assume he has provided elsewhere) asserts that this excessive obsession with cleanliness and order corresponds to a transformation of children's interest in 'the excretory function' (which we are also told is a form of 'anal eroticism'). At one point he also claims that the original possession, and hence the origin of the concept, is the infant's ownership of its feces. I do not know how to evaluate the truth of this statement, but it is certainly interesting. For one thing, it suggests a reconsideration of the notion of 'property' in discussions about civilization and freedom.
 
 Freud suggests theres exists a conflict between civilization and the sexual drives of individuals. Specifically, sexual love is a bond between (at least) two people, while civilization involves relationships between large groups of people; so when the demands of civilization make claims upon persons bound by sexual love, or a family (which is a natural consequence of this sexual love) there is a fundamental tension that must be resolved.
 
-To elaborate - civilization does not merely consist of pairs of people bonded via love, who also happen to share the bonds of work with the greater mass of society - that would be simply a case of distinct families cooperating when it was to their material benefit, and would not entail all the machinery of civilization. Instead Freud views civilization as involving the binding of everyone with libidinal energy, mainly of the aim-inhibited type. This is required to overcome an innate destructive drive that exists alongside our other drives. He talks about this quite a bit, but I never quite felt he motivated it properly. The idea was not originally his, and he writes that he also took some time to accept that such a drive exists - it is sometimes referred to as Thanatos (which was not Freud's word for it), to distinguish it from the drive to love, Eros, which are in some sense in opposition.
+To elaborate - civilization does not merely consist of pairs of people bonded via love, who also happen to share the bonds of work with the greater mass of society - that would be simply a case of distinct families cooperating when it was to their material benefit, and would not entail all the machinery of civilization. Instead Freud views civilization as involving the binding of _everyone_ with libidinal energy, mainly of the aim-inhibited type. This is required to overcome an innate destructive drive that exists alongside our other drives. He talks about this quite a bit, but I never quite felt he motivated it properly. The idea was not originally his, and he writes that he also took some time to accept that such a drive exists - it is sometimes referred to as Thanatos (which was not Freud's word for it), to distinguish it from the drive to love, Eros, which are in some sense in opposition.
 
 Relatedly, in what reads as a rather misogynistic turn, Freud claims that women have a 'retarding, restraining' influence on the process of civilization because of the importance they attach to family, and because they have little aptitude for sublimating their drives. He grounds this claim in his observation that civilization, as he construes it, makes claims on the energy of their partners. I would summarise his argument as 'women aren't good at civilization, which they resent for making their men have less sex with them', which is simultaneously hilarious, false, and offensive. I won't dispute that it seems likely that people might have more sex without the obligations imposed on them by society, but asserting that women, in general, have a hostile attitude towards 'civilization' because of this is a bit of stretch, to put it mildly. This is but one out of several passages that show a similar prejudice - I am unsure if I am being unfair to Freud here, but that is how they read to me.
 
@@ -156,11 +156,11 @@ Relatedly, in what reads as a rather misogynistic turn, Freud claims that women 
 
 If we accept that we possess an innate drive towards aggression, then it is necessary to find a way to tame it, if civilization is to continue.
 
-The main method we use to do so, Freud maintains, is to turn the aggression inwards, and direct it against the ego; this is the origin of our conscience, of our moral sentiment. The superego acts as a censor, directing the aggression we want to direct against others (actual, physical violence) against ourselves - this is the origin of guilt.
+The main method we use to do so, Freud maintains, is to turn the aggression inwards, and direct it against the ego; this is the origin of our conscience, of our moral sentiment. The superego acts as a censor, directing the aggression we want to direct against others (actual, physical violence) against _ourselves_ - this is the origin of guilt.
 
 The super-ego serves to sustain civilization against the violence of the individual:
 
-In this way civilization overcomes the dangerous aggressivity of the individual, by weakening him, by disarming him and setting up an internal authority to watch over him, like a garrison in a conquered town.
+> In this way civilization overcomes the dangerous aggressivity of the individual, by weakening him, by disarming him and setting up an internal authority to watch over him, like a garrison in a conquered town.
 
 Freud expands on this, and traces the development of this guilt-function to the dependency of the infant on its caretakers; what the child fears most is the withdrawal of the attention of its caretakers, that is, the withdrawal of their love. This is also the origin of our conception of evil - evil consists of those actions which can lead one to losing the love of those on whom you depend for survival (it is easy to imagine how this can be co opted by religions).
 
@@ -180,7 +180,7 @@ By analogy Freud also posits a cultural superego which plays a role like that of
 
 I can't resist another happy quote from Freud to further affirm the suffering inherent to human existence:
 
-If civilization is the necessary trend of development that leads from the family to humanity as a whole, it follows that the intensification of the sense of guilt, perhaps to a degree that the individual finds hard to endure, is indissolubly linked with it, as a consequence of the innate conflict of ambivalence, of the perpetual contention between love [Eros] and the death-wish [Thanatos].
+> If civilization is the necessary trend of development that leads from the family to humanity as a whole, it follows that the intensification of the sense of guilt, perhaps to a degree that the individual finds hard to endure, is indissolubly linked with it, as a consequence of the innate conflict of ambivalence, of the perpetual contention between love [Eros] and the death-wish [Thanatos].
 
 ## Conclusion
 
@@ -188,7 +188,7 @@ Do not read this as a way to get into Freud. If you read it, do so for the insig
 
 A modern reader might not feel terribly enlightened by much of the book. We are used to the idea that under our veneers of civilized respectability we are animals with violent and sexual tendencies - we might even think, so what if we are? But if that is something you believe, then it is due in part to this book.
 
-I am cautiously of the view that Freud's entire theory is best viewed as a useful model of human psychology, which lends itself to explanatory analogy. This means that many of the details will be wrong, while still being useful. But we should be wary of convincing analogies that do not aid us in making testable predictions.
+I am cautiously of the view that Freud's entire theory is best viewed as a useful _model_ of human psychology, which lends itself to explanatory analogy. This means that many of the details will be wrong, while still being useful. But we should be wary of convincing analogies that do not aid us in making testable predictions.
 
 Something in the way the material is presented puts me in mind of the thoroughly discredited notion from early evolutionary biology that phylogeny recapitulates ontogeny - in fact the idea that 'earlier' stages of the mind are maintained alongside 'later' versions is strongly reminiscent of it.
 

@@ -18,7 +18,7 @@ tags:
 
 and The Lathe of Heaven by Ursula Le Guin
 
-I’m rich and I’m saving the world—why don’t you like me?
+**I’m rich and I’m saving the world—why don’t you like me?**
 
 Two climate dystopias on who is qualified to save the world.
 
@@ -26,7 +26,7 @@ It’s the near future and a smog has blotted out the sun. The world would have 
 
 But a wealthy investor has purchased the last sunny mountaintop in Italy and leased the land to the investors who funded it. There are riots against them of the “kill the rich” variety, but it’s a high security compound and the only way in is to join.
 
-In C Pam Zhang’s novel Milk & Honey, one chef does. She misses food, taste, and manages to get a job cooking the last vegetables harvested from their indoor labs, and the last animals bred in their research institute. Their underground zoo is a post-apocalyptic Noah’s ark, only this time it’s not God’s chosen saving the planet, it’s God’s richest.
+In C Pam Zhang’s novel _Milk & Honey,_ one chef does. She misses food, taste, and manages to get a job cooking the last vegetables harvested from their indoor labs, and the last animals bred in their research institute. Their underground zoo is a post-apocalyptic Noah’s ark, only this time it’s not God’s chosen saving the planet, it’s God’s richest.
 
 Our investors are hated for enjoying richly prepared meals every evening while the world starves, but they might also be the world’s saviors. As our chef comes to learn, it was their research that invented the mung flour that now feeds the world. Aggrandized wealth gave them the starry-eyed ideals to solve a problem the governments couldn’t, and people really didn’t like that.
 
@@ -34,7 +34,7 @@ If our wealthy capitalists are saving the world, they also contributed to the ru
 
 We’re left to ponder who is authorized to save the world and whether we want them to save it. What should we do when we find ourselves with an unlikeable savior?
 
-We are familiar with the narrative. Oh the hubris of [the tech entrepreneur](https://www.wired.com/story/this-woman-will-decide-which-babies-are-born-noor-siddiqui-orchid/) who wants to eradicate disease in newborn babies, when our healthcare systems barely support those already sick! Oh the arrogance of the billionaire who wants to power the world with nuclear fusion—didn’t he make all of his money as a capitalist polluting the world? Oh the ego that causes men to reach for Mars as our own planet suffers! Oh the savior complex that compels rich countries to [drop aid in Gaza](https://www.astralcodexten.com/p/verses-on-five-people-being-killed?r=bt1ql&utm_medium=ios&triedRedirect=true) even as they fund the militaries that cause need for it.
+We are familiar with the narrative. Oh the hubris of [the tech entrepreneur](https://www.wired.com/story/this-woman-will-decide-which-babies-are-born-noor-siddiqui-orchid/) who wants to eradicate disease in newborn babies, when our healthcare systems barely support those already sick! Oh the arrogance of the billionaire who wants to power the world with nuclear fusion—didn’t he make all of his money as a capitalist polluting the world? Oh the ego that causes men to reach for Mars as our own planet suffers! Oh the savior complex that compels rich countries to [drop aid in Gaza](https://www.astralcodexten.com/p/verses-on-five-people-being-killed?r=bt1ql&utm_medium=ios&triedRedirect=true) even as they fund the militaries that cause need for it.
 
 We want change to “come from the bottom,” we wail. We want autonomy over our own fates, we howl. We don’t have the means to make things better and those who have the means to make things better aren’t qualified to do so, we scream. Those poised to solve the world’s problems with money and ingenuity lack the moral fortitude to make the call, but then I wonder, who has it? What savior can we accept?
 
@@ -42,9 +42,9 @@ Yes, we should eradicate disease if we can do so, and some tech entrepreneurs ca
 
 Our world is filled with unlikeable saviors, but shouldn’t they still try to do the saving?
 
-Another climate dystopia written 50 years prior grappled with that very question. Ursula Le Guin’s The Lathe of Heaven concerns the very ordinary George Orr whose dreams alter reality and his eccentric therapist Dr. Haber who realizes he can direct his client’s dreams using hypnosis, and intelligently worldbuild with them instead.
+Another climate dystopia written 50 years prior grappled with that very question. Ursula Le Guin’s _The_ _Lathe of Heaven_ concerns the very ordinary George Orr whose dreams alter reality and his eccentric therapist Dr. Haber who realizes he can direct his client’s dreams using hypnosis, and intelligently worldbuild with them instead.
 
-As in Milk & Honey, our world designer destroys the world even as he betters it. When Dr. Haber asks Orr to dream up a solution to overpopulation, Orr wakes to find a pandemic has turned a world of 7 billion to one billion. When asked to imagine a world with no “color problems” or “question of race,” Orr creates a world in which everyone is gray in skin color. When asked to dream about peace for humanity, well now there is an alien race to contend with.
+As in _Milk & Honey_, our world designer destroys the world even as he betters it. When Dr. Haber asks Orr to dream up a solution to overpopulation, Orr wakes to find a pandemic has turned a world of 7 billion to one billion. When asked to imagine a world with no “color problems” or “question of race,” Orr creates a world in which everyone is gray in skin color. When asked to dream about peace for humanity, well now there is an alien race to contend with.
 
 Orr is never quite sure if he’s bettering the world or worsening it—whether he’s better off letting his dreams unfold naturally, or trying to control them. If he does nothing the world will change anyway, sometimes for the better, sometimes for the worse. Is it worth trying to design for the better even if it will also sometimes turn out for the worse?
 
@@ -66,7 +66,7 @@ Our saviors have the vial and they imagine they are saving the world with it, bu
 
 In the four-part series on his rocket ship company Virgin Galactic, Richard Branson grapples with the desire to both make human progress and do it in a way that does not cause harm. Should he, for example, bring his air travel company Virgin America back to the United States even though air travel causes significant harm to the environment? His daughter says no. On the other hand, another airliner will provide the same service if he doesn’t, and at least Branson plans to use the profits to find less harmful fuel sources. Wouldn’t that be better?
 
-In Milk & Honey, our investor’s Italian mountaintop has become a haven for wealthy elites grappling with the same good intentions. One wealthy heiress confesses that she meant to use her money to bring back the wildflowers and redistribute the wealth once she inherited it. Then she realized that pulling money out of her father’s businesses would cause the loss of countless jobs around the world, “and how little that cash, split among thousands, would mean, in any case, as the smog rolled in and dealt those hills their final death knell. I’m not a bad person, she sobbed. There was no other way. I’m not selfish.”
+In _Milk & Honey_, our investor’s Italian mountaintop has become a haven for wealthy elites grappling with the same good intentions. One wealthy heiress confesses that she meant to use her money to bring back the wildflowers and redistribute the wealth once she inherited it. Then she realized that pulling money out of her father’s businesses would cause the loss of countless jobs around the world, “and how little that cash, split among thousands, would mean, in any case, as the smog rolled in and dealt those hills their final death knell. _I’m not a bad person_, she sobbed. _There was no other way. I’m not selfish._”
 
 Perhaps our well intentioned saviors can never be likable precisely because the problems they wish to solve are complex, and there can be no right answer. “Tax the rich!” we cry, even as doing so might contribute to bloated governments who use their money to invest in global military campaigns. “Get rid of capitalism!” we demand, even though putting the government in charge of the economy has only ever resulted in poverty and autocracy.
 
@@ -74,9 +74,9 @@ We want money and power in the right hands, but whose hands? What savior do we t
 
 Both books cede an obvious answer: We need all the saviors. They keep each other in check.
 
-In Milk & Honey, it wasn’t our mountaintop Noah’s ark that saved the world, but all of the arks combined. The Italian government ultimately shut down the investors—they escaped on a rocketship to Mars only to explode in mid-air. But this caused the rest of the world to step-up.
+In _Milk & Honey_, it wasn’t our mountaintop Noah’s ark that saved the world, but all of the arks combined. The Italian government ultimately shut down the investors—they escaped on a rocketship to Mars only to explode in mid-air. But this caused the rest of the world to step-up.
 
-“A famous hedge fund manager went on TV to lambast the impracticality of putting all one’s hopes and savings into a single, high-risk venture. He said, There is wisdom in a diversified, time-tested solution. By solution he meant earth, by time tested he meant earth, but the language of business moved businessmen. Private funding poured into research on air purification and crop development; and while it is true that 80 billion euros went into the technology that cleared the smog, while it is true that the solution would not otherwise have been so quickly distributed, it is not true, as investors came to say, that they saved the world. It is not true to say that of any human.”
+“A famous hedge fund manager went on TV to lambast the impracticality of putting all one’s hopes and savings into a single, high-risk venture. He said, _There is wisdom in a diversified, time-tested solution._ By solution he meant earth, by time tested he meant earth, but the language of business moved businessmen. Private funding poured into research on air purification and crop development; and while it is true that 80 billion euros went into the technology that cleared the smog, while it is true that the solution would not otherwise have been so quickly distributed, it is not true, as investors came to say, that they saved the world. It is not true to say that of any human.”
 
 A scientist’s lab came up with a way for dandelions to bind the smog, cloud seeding technology mitigated it. The United States opened its borders to climate refugees, allowing people to move away from areas that had become uninhabitable. Regulations forced more ethical business practices, and air quality became stringently monitored. Our chef, who survived the mountains with millions became an unlikable savior herself. She donantes the seeds from the mountain top lab, and their findings to scientific research organizations, she uses her money for philanthropy.
 
@@ -86,11 +86,11 @@ That doesn’t mean we shouldn’t have invented cars and airplanes and food tha
 
 Alone, any one entity is fallible, but together much less so.
 
-We will always cause new problems as we fix old ones, but that doesn’t mean we shouldn’t keep fixing them. Electricity solved a major problem for humanity even as it required a lot of energy to provide, but today’s light bulbs, refrigerators, and air conditioners use up to 75% less energy than they once did. When Ursula Le Guin published Lathe of Heaven in 1971, overpopulation was a primary concern—she thought the whole world would starve if we reached 7 billion—then we learned how to grow more food on less land. [Between 1961 and 2009](https://www.elysian.press/p/we-dont-need-degrowth-for-the-environment), the world population increased by 127% and the world produced 203% more food, but we only used 10% more land to do it.
+We will always cause new problems as we fix old ones, but that doesn’t mean we shouldn’t keep fixing them. Electricity solved a major problem for humanity even as it required a lot of energy to provide, but today’s light bulbs, refrigerators, and air conditioners use up to 75% less energy than they once did. When Ursula Le Guin published _Lathe of Heaven_ in 1971, overpopulation was a primary concern—she thought the whole world would starve if we reached 7 billion—then we learned how to grow more food on less land. [Between 1961 and 2009](https://www.elysian.press/p/we-dont-need-degrowth-for-the-environment), the world population increased by 127% and the world produced 203% more food, but we only used 10% more land to do it.
 
 Someday, we will have electric cars and electric airplanes and cities powered by nuclear fusion. We will develop better sources of protein, use less water, emit less carbon, and create less landfill. Some diseases will be eradicated and some inequities will be solved. Governments and companies and rich people and nonprofits and individuals will all play a role—we already are. We are actively saving the world even though it’s messy and complex and sometimes doesn’t work, and no one is made more likable for doing so.
 
-In Lathe of Heaven, Dr. Haber keeps trying, but eventually a Beatles song reminds Orr that it can’t just be up to the two of them. “I get by with a little help from my friends.” With the help of the aliens, Orr is able to dream up something better than what Haber and Orr alone could coax. Our gray humanity becomes peaceful with the aliens and Portland, Oregon becomes a thriving “Capital of the Planet” with “the great, handsome buildings, the tended lawns, the well-dressed crowds,” where events transpired in the public often because “people didn’t sit home and watch tv much anymore… the modern way of life was togetherness.”
+In _Lathe of Heaven_, Dr. Haber keeps trying, but eventually a Beatles song reminds Orr that it can’t just be up to the two of them. “I get by with a little help from my friends.” With the help of the aliens, Orr is able to dream up something better than what Haber and Orr alone could coax. Our gray humanity becomes peaceful with the aliens and Portland, Oregon becomes a thriving “Capital of the Planet” with “the great, handsome buildings, the tended lawns, the well-dressed crowds,” where events transpired in the public often because “people didn’t sit home and watch tv much anymore… the modern way of life was togetherness.”
 
 The world isn’t perfect, there or here, but at least someone’s trying to make it more so. At least they all are.
 

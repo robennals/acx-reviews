@@ -7,7 +7,7 @@ contestName: 2021 Book Reviews
 year: 2021
 publishedDate: '2026-02-06T07:21:29.571Z'
 slug: loserthink-by-scott-adams
-wordCount: 3771
+wordCount: 3788
 readingTimeMinutes: 17
 originalUrl: >-
   https://docs.google.com/document/d/1xexFJ7h0vULMDE7N77q_MIzXoerexfe_CqqGEL6hEoQ
@@ -25,27 +25,27 @@ Loserthink is a great book and is somewhere on the spectrum between self-help an
 
 One technique that Scott Adams often talks about in relation to persuasion is framing. It’s a powerful one. The exact same set of facts can be look completely different depending on the frame you place on it. A few examples of this:
 
-1.  Peter Thiel donates a few million dollars to life-extension.
-
-1.  Effective Altruist: Peter Thiel is extremely altruistic and is willing to spend his money in risky ways that can benefit humanity in the long run.
-2.  Skeptic frame: A business savvy Peter Thiel got lucky with the internet, his networking skills and his financial wizardry to work on the right products, but is now squandering his wealth on projects that will never yield returns and this can only be done by someone who does not understand science and in particular biology.  
-3.  Venture Capitalist frame: Thiel is investing in several high-risk high return ventures and he knows that if even one of them such as life-expectancy pays off, he will be many times richer in the future than he is now and will be a super successful venture-capitalist, perhaps the greatest of all time.
-
-2.  Elon Musk starts a rocket company to go to Mars, a car company and a tunnel company.
-
-1.  Engineer frame: Elon Musk is an engineering genius. The projects that he takes on are so grand and complex that his motivation must be to challenge his engineering prowess. This is inborn talent, the likes of which normal people cannot compete with, even though some people may develop expertise in some specific areas after decades of study and work.
-2.  Chosen One frame: There exists a prophecy that one man will save humanity by building rockets. He will combat global warming by making better cars and tunnels along which the cars can move.
-3.  Workaholic frame: Elon knows that he needs to put in long hours at the job or else he will go crazy. In order to stop him from having a soul crushing existential crisis, Elon needs to take on projects that are so grand just to keep his mind occupied and get his work fix.
-
-3.  Eliezer Yudkowsky writes fiction and a comprehensive blog on rationality
-
-4.  Genius frame: Yudkowsky is a genius and realized that some of his musings on human thought process is not just useful for his AI-themed work, but can also benefit others. A casual blog post for him might be life-changing insight for one of his readers and it often is.
-5.  Big mouth frame: Yudkowsky is very verbose and despite having a complicated subject that he works on, cannot resist the urge to stop talking and/or pen down his thoughts on a blog. He knows he’s smarter than 99.99999% of humanity but keeps writing his most obvious thoughts just for the love and attention he gets from us lesser beings.
-6.  Process frame: Even geniuses need process and having too many thoughts in your head at the same time can be maddening, so writing them down in an organized series of posts can help you get some much needed clarity of thought.
+> 1.  Peter Thiel donates a few million dollars to life-extension.
+>
+> 1.  Effective Altruist: Peter Thiel is extremely altruistic and is willing to spend his money in risky ways that can benefit humanity in the long run.
+> 2.  Skeptic frame: A business savvy Peter Thiel got lucky with the internet, his networking skills and his financial wizardry to work on the right products, but is now squandering his wealth on projects that will never yield returns and this can only be done by someone who does not understand science and in particular biology.  
+> 3.  Venture Capitalist frame: Thiel is investing in several high-risk high return ventures and he knows that if even one of them such as life-expectancy pays off, he will be many times richer in the future than he is now and will be a super successful venture-capitalist, perhaps the greatest of all time.
+>
+> 2.  Elon Musk starts a rocket company to go to Mars, a car company and a tunnel company.
+>
+> 1.  Engineer frame: Elon Musk is an engineering genius. The projects that he takes on are so grand and complex that his motivation must be to challenge his engineering prowess. This is inborn talent, the likes of which normal people cannot compete with, even though some people may develop expertise in some specific areas after decades of study and work.
+> 2.  Chosen One frame: There exists a prophecy that one man will save humanity by building rockets. He will combat global warming by making better cars and tunnels along which the cars can move.
+> 3.  Workaholic frame: Elon knows that he needs to put in long hours at the job or else he will go crazy. In order to stop him from having a soul crushing existential crisis, Elon needs to take on projects that are so grand just to keep his mind occupied and get his work fix.
+>
+> 3.  Eliezer Yudkowsky writes fiction and a comprehensive blog on rationality
+>
+> 4.  Genius frame: Yudkowsky is a genius and realized that some of his musings on human thought process is not just useful for his AI-themed work, but can also benefit others. A casual blog post for him might be life-changing insight for one of his readers and it often is.
+> 5.  Big mouth frame: Yudkowsky is very verbose and despite having a complicated subject that he works on, cannot resist the urge to stop talking and/or pen down his thoughts on a blog. He knows he’s smarter than 99.99999% of humanity but keeps writing his most obvious thoughts just for the love and attention he gets from us lesser beings.
+> 6.  Process frame: Even geniuses need process and having too many thoughts in your head at the same time can be maddening, so writing them down in an organized series of posts can help you get some much needed clarity of thought.
 
 The point here is not to suggest that any one frame is right and another frame is wrong. That would be missing the forest for the trees. It’s about realizing that there are multiple ways to think about a single issue/process/phenomenon.
 
-Charlie Munger, one of the most successful investors on the planet, has a phrase for this. He calls them “mental models”. And he attributes much of his success to be able to look at the same set of facts through different mental models.  
+Charlie Munger, one of the most successful investors on the planet, has a phrase for this. He calls them “mental models”. And he attributes much of his success to be able to look at the same set of facts through different mental models.  
 
 If I had to describe Loserthink in one sentence, it would be “A book about using different frames or mental models to make decisions and take action”. That would make a much better tagline than some quip about America.
 
@@ -67,7 +67,7 @@ However, success in life and truth-seeking prowess are poorly correlated (with t
 
 ## Think like a Psychologist
 
-LessWrongers often talk about the illusion of transparency. A much bigger problem is the reverse, where people assume they can read others minds. Adams then goes on to attribute much of the polarization in the world to specifically this phenomenon. While Adams concedes that people don’t literally believe that they are reading another person’s thoughts, he does believe that everyone falls for this illusion. People believe based on out of context speech that even a simpleton could see [insert apparently obvious] intent.
+LessWrongers often talk about the illusion of transparency. A much bigger problem is the reverse, where people assume they can read others minds. Adams then goes on to attribute much of the polarization in the world to specifically this phenomenon. While Adams concedes that people don’t _literally_ believe that they are reading another person’s thoughts, he does believe that everyone falls for this illusion. People believe based on out of context speech that even a simpleton could see [insert apparently obvious] intent.
 
 Similarly, Adams goes on to identify the issue of psychological projection as a real problem but one that untrained individuals won’t be able to identify.
 
@@ -89,9 +89,9 @@ Adams makes two important points about history. The first is that most history i
 
 The second point is more profound. History can often have a disproportionately strong hold on us. I have personally struggled (and continue to struggle) with this. At such times, it is important to remember that everything that we call history is in fact completely imaginary. It exists only in our minds.
 
-This is best summed up with the following lines: “Focusing on the past when the present offers sufficient paths to success is Loserthink. It is better to focus on your own systems for success and when you succeed watch how winning fixes most problems.”
+This is best summed up with the following lines: “_Focusing on the past when the present offers sufficient paths to success is Loserthink. It is better to focus on your own systems for success and when you succeed watch how winning fixes most problems_.”
 
-Adams also points out that the phrase is “history repeats itself” functions more like a [stop-sign](https://www.lesswrong.com/posts/FWMfQKG3RpZx6irjm/semantic-stopsigns) than as an actual predictor of anything useful.
+Adams also points out that the phrase is “history repeats itself” functions more like a [stop-sign](https://www.lesswrong.com/posts/FWMfQKG3RpZx6irjm/semantic-stopsigns) than as an actual predictor of anything useful.
 
 ## Engineer
 
@@ -103,7 +103,7 @@ The two key take-aways from this chapter: (1) the best solution to a problem doe
 
 In stark contrast to thinking like a scientist, Adams’ notes that a strategy adopted by effective leaders is often to set targets that seem overly ambitious. Adams’ does not cite this in the book, but Elon Musk has been known to do this repeatedly. The argument is that the job of a leader is to inspire the troops and motivate them to work hard towards a specific goal.
 
-For such a goal, the truth is often not the most useful weapon. Hyperbole is much more effective in such cases (Sorry, Bryan Caplan!).  
+For such a goal, the truth is often not the most useful weapon. Hyperbole is much more effective in such cases (Sorry, Bryan Caplan!).  
 
 ## Scientist
 

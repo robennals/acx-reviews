@@ -19,7 +19,7 @@ tags:
 
 ## 1\. Evolution's White Elephant
 
-Sharks cycle through about 20,000 teeth in their lifetime. Humans get exactly two sets before the slow, relentless crawl of dental entropy sets in. Somewhere along the evolutionary road, mammals struck a bargain; you'll get by.
+Sharks cycle through about 20,000 teeth in their lifetime. Humans get exactly two sets before the slow, relentless crawl of dental entropy sets in. Somewhere along the evolutionary road, mammals struck a bargain; _you'll get by_.
 
 For most, this compromise was good enough. Then we outlived sabre-tooths, discovered agriculture, and invented caramel. The rest is pain.
 
@@ -146,6 +146,6 @@ The tragedy isn’t that they fail. It’s that their failure breaks the illusio
 
 Teeth remind us what the body is: temporary architecture, constantly patched, inevitably crumbling. We cover the cracks with porcelain and smiles.
 
-ENDNOTES  
+**ENDNOTES  
   
-[1]  Technically, there’s some archaeological evidence that Paleolithic humans used primitive toothpicks. But these were likely for dislodging mammoth jerky, not part of a twice-daily preventive care routine endorsed by proto-dental hygienists.
+[1]**  Technically, there’s some archaeological evidence that Paleolithic humans used primitive toothpicks. But these were likely for dislodging mammoth jerky, not part of a twice-daily preventive care routine endorsed by proto-dental hygienists.

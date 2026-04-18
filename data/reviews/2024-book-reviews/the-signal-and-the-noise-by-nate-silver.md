@@ -7,7 +7,7 @@ contestName: 2024 Book Reviews
 year: 2024
 publishedDate: '2026-02-06T16:49:50.815Z'
 slug: the-signal-and-the-noise-by-nate-silver
-wordCount: 7388
+wordCount: 7425
 readingTimeMinutes: 33
 originalUrl: >-
   https://docs.google.com/document/d/1Ki5XsE0jkxZtd2XAeyTAJw1ZjLh2Cu-matUYKAhA6-s
@@ -27,13 +27,13 @@ An even riskier strategy would be to take aim at the ACX website slogan, “P(A|
 
 ![Never tell me the odds. | Star Wars Memes Wiki | Fandom](https://acximages.ennals.org/images/2024-book-reviews/1f9b3a06cc1dcd4d.png)
 
-Riskier still, this review isn’t even about a new book. Nate Silver’s, The Signal and the Noise (tSatN) came out a dozen years ago in 2012. It got an updated preface in 2020, but mostly this is a stand-alone chapter as opposed to a revision that goes through and eliminates the many sections that have not aged well.[[7]](#ftnt7)
+Riskier still, this review isn’t even about a new book. Nate Silver’s, _The Signal and the Noise_ (tSatN) came out a dozen years ago in 2012. It got an updated preface in 2020, but mostly this is a stand-alone chapter as opposed to a revision that goes through and eliminates the many sections that have not aged well.[[7]](#ftnt7)
 
 Statistics should be a timeless subject. There can’t be anything new to learn in a reread … could there?
 
 I would argue that the book’s age is a selling point, making it more relevant today. It’s not so old that the author is talking about the four humors, but it’s old enough to give us some parallax perspective about claims the author makes. As a product of its own time, we can see assumptions the author made that didn’t quite pan out. We can ask whether the book’s most aspirational claim pans out:
 
-Bayesian analysis should be applied to [every](https://slatestarcodex.com/2016/09/12/its-bayes-all-the-way-up/) aspect of rational [thinking](https://slatestarcodex.com/2018/03/04/god-help-us-lets-try-to-understand-friston-on-free-energy/).
+Bayesian analysis should be applied to [every](https://slatestarcodex.com/2016/09/12/its-bayes-all-the-way-up/) aspect of rational [thinking](https://slatestarcodex.com/2018/03/04/god-help-us-lets-try-to-understand-friston-on-free-energy/).
 
 ## About the Author: Nate Silver’s Claim to Fame
 
@@ -49,9 +49,9 @@ Except he didn’t call it, which was half the point of this section. The other 
 
 How lucky was Silver’s 2008 forecast?
 
-In the book Silver doesn’t do this analysis himself, probably because it’s not hard to look up [his predictions](https://fivethirtyeight.com/features/final-senate-projection-114-7-8/). Silver gave Democrats only a 15% chance of getting to at least 60 seats[[8]](#ftnt8) that year. Although a 15% prediction will happen 15% of the time, it’s difficult to point at this prediction as having earned all the subsequent accolades.
+In the book Silver doesn’t do this analysis himself, probably because it’s not hard to look up [his predictions](https://fivethirtyeight.com/features/final-senate-projection-114-7-8/). Silver gave Democrats only a 15% chance of getting to at least 60 seats[[8]](#ftnt8) that year. Although a 15% prediction will happen 15% of the time, it’s difficult to point at this prediction as having earned all the subsequent accolades.
 
-The source of the future accolades was that whichever Senate seat was ahead in the polls was labeled as ‘ahead’ in Silver’s forecast, and then it was entirely a chance occurrence that all those races happened to resolve in the ‘right direction’ for Silver to be said to have predicted it. In other words, there were multiple degrees of freedom for declaring Silver’s forecast as having ‘got everything right’, depending on what you defined as ‘everything’ and what you defined as ‘right’. This is the problem of [multiplicity](https://slatestarcodex.com/2016/11/05/the-pyramid-and-the-garden/) in any post-hoc analysis we’ll get back to later.
+The source of the future accolades was that whichever Senate seat was ahead in the polls was labeled as ‘ahead’ in Silver’s forecast, and then it was entirely a chance occurrence that all those races happened to resolve in the ‘right direction’ for Silver to be said to have predicted it. In other words, there were multiple degrees of freedom for declaring Silver’s forecast as having ‘got everything right’, depending on what you defined as ‘everything’ and what you defined as ‘right’. This is the problem of [multiplicity](https://slatestarcodex.com/2016/11/05/the-pyramid-and-the-garden/) in any post-hoc analysis we’ll get back to later.
 
 Why belabor this point? Maybe it’s because I’m jealous of Silver and I’m trying to explain away his wild success in 2008. But Silver himself points out that he made significant adjustments to his model in subsequent races, including 2012 and 2016. Why improve on the model if it got everything right?
 
@@ -67,15 +67,15 @@ It’s an approach he doesn’t take in his updated preface for the 2020 edition
 
 Imagine a world where two Nates issue 10,000 forecasts. One is Nate Bronze, and the other is Nate Gold. Given all those forecasts, we calibrate both Nates’ predictions and how likely they are to be correct:
 
-Nate:
+**Nate:**
 
-Prediction:
+**Prediction:**
 
-\# Observed:
+**\# Observed:**
 
-Calibration:
+**Calibration:**
 
-Bronze
+**Bronze**
 
 25-30%
 
@@ -83,7 +83,7 @@ Bronze
 
 75%
 
-Gold
+**Gold**
 
 5%
 
@@ -107,13 +107,13 @@ About halfway through the book, Silver introduces what he believes is a revoluti
 
 Let’s define terms.
 
-P(A|B) is the posterior probability that A is true, given B.
-
-P(A) is the prior probability that A is true.
-
-P(B) is the prior probability that B is true.
-
-P(B|A) is the posterior probability that B is true, given A.
+> **P(A|B)** is the posterior probability that A is true, given B.
+>
+> **P(A)** is the prior probability that A is true.
+>
+> **P(B)** is the prior probability that B is true.
+>
+> **P(B|A)** is the posterior probability that B is true, given A.
 
 This is all esoteric until we start looking at real-world situations. Let’s say you have a cancer blood test that accurately detects the presence of cancer 90% of the time. If someone has cancer, 90% of the time this test will come up positive, P(Positive|Cancer) = 0.9. That sounds good! But what about the test’s specificity? How often do we get false positives? Let’s say if a patient doesn’t have cancer, they’ll get a false ‘positive’ test result 5% of the time, P(Positive|No Cancer). Finally, let’s assume 1% of the population has cancer, P(Cancer).
 
@@ -127,7 +127,7 @@ To calculate P(Positive) in the denominator, we’ll add together the probabilit
 
 For every 100 patients who get positive results, slightly more than 15 will have cancer, while the rest were false negatives. This may be surprising. Despite this test having what looks like a high specificity, the large number of people you have to screen to find anyone with cancer means that the false positives dominate the results (84.6%). This is a powerful insight, and one that has had real-world consequences in recommendations for whether and when people should get cancer screenings.
 
-But how accurate is it? We can find the rate of false negatives by giving the test to a bunch of cancer patients. The rate of false positives is a little trickier, but assuming we do a good screening job, we can give the test to a bunch of people we’ve carefully screened who don’t have cancer and figure out the rate of false positives. Now what about that third number: the rate of cancer in the population. How well do we really know that number? I handed it down to you as part of the hypothetical, but maybe that’s not good enough. You could look to the [CDC](https://www.cdc.gov/cancer/dcpc/data/index.htm) or the [NCI](https://www.cancer.gov/about-cancer/understanding/statistics). Both will give you similar (but not the same) numbers. [Global](https://www.who.int/news-room/fact-sheets/detail/cancer) numbers are going to look different from US-centric numbers. Those will look different from numbers in your own state/city/family. How much does this matter? Say we take a dramatically different population and perform the same screening test. What’s the probability of a positive result if we’re looking at an enriched population where 50% of the people have cancer?
+But how accurate is it? We can find the rate of false negatives by giving the test to a bunch of cancer patients. The rate of false positives is a little trickier, but assuming we do a good screening job, we can give the test to a bunch of people we’ve carefully screened who don’t have cancer and figure out the rate of false positives. Now what about that third number: the rate of cancer in the population. How well do we really know that number? I handed it down to you as part of the hypothetical, but maybe that’s not good enough. You could look to the [CDC](https://www.cdc.gov/cancer/dcpc/data/index.htm) or the [NCI](https://www.cancer.gov/about-cancer/understanding/statistics). Both will give you similar (but not the same) numbers. [Global](https://www.who.int/news-room/fact-sheets/detail/cancer) numbers are going to look different from US-centric numbers. Those will look different from numbers in your own state/city/family. How much does this matter? Say we take a dramatically different population and perform the same screening test. What’s the probability of a positive result if we’re looking at an enriched population where 50% of the people have cancer?
 
 ![](https://acximages.ennals.org/images/2024-book-reviews/ff0acf09e1073783.png)
 
@@ -135,43 +135,43 @@ Suddenly this terrible test became highly specific. All we had to do was change 
 
 For now, let’s follow Silver’s logic of how we might use this equation to get around disagreements about what the baseline cancer rate is. Let’s say you and I disagree about the rate of cancer in the population. You think it’s 10% and I think it’s 0.01% - a thousand times less. We give the screening test to someone five times, and the test comes back positive five times. Assuming each test is independent, what’s the probability this patient truly has cancer? Since we both come to the table with different assumptions for the unknown probability, we’re going to get different answers from each Bayesian update. But watch how our estimates converge through serial applications of Bayes’ theorem:
 
-Result #
+**Result #**
 
-You
+**You**
 
-Me
+**Me**
 
-Baseline
+**Baseline**
 
 10.0%
 
 0.1%
 
-1
+**1**
 
 66.7%
 
 1.8%
 
-2
+**2**
 
 97.3%
 
 24.5%
 
-3
+**3**
 
 99.8%
 
 85.4%
 
-4
+**4**
 
 99.9%
 
 99.1%
 
-5
+**5**
 
 99.9%
 
@@ -187,7 +187,7 @@ So much of the chapter about RA Fisher is easy to critique because it’s object
 
 Or then there’s this gem:
 
-The bigger problem, however, is that the frequentist methods—in striving for immaculate statistical procedures that can’t be contaminated by the researcher’s bias—keep him hermetically sealed off from the real world. These methods discourage the researcher from considering the underlying context or plausibility of his hypothesis, something that the Bayesian method demands in the form of a prior probability. Thus, you will see apparently serious papers published on how toads can predict earthquakes, or how big-box stores like Target beget racial hate groups, which apply frequentist tests to produce “statistically significant” (but manifestly ridiculous) findings.
+> The bigger problem, however, is that the frequentist methods—in striving for immaculate statistical procedures that can’t be contaminated by the researcher’s bias—keep him hermetically sealed off from the real world. These methods discourage the researcher from considering the underlying context or plausibility of his hypothesis, something that the Bayesian method demands in the form of a prior probability. Thus, you will see apparently serious papers published on how toads can predict earthquakes, or how big-box stores like Target beget racial hate groups, which apply frequentist tests to produce “statistically significant” (but manifestly ridiculous) findings.
 
 Let’s set aside the weak man fallacy here for a second. (Are there no Bayesians who abuse statistics?) In Silver’s world, a frequentist builds a complex statistical model, decides on a p-value that would convince them that the model is correct (probably p < 0.05), then the thinking is done! If, after the experiment, the p-value is below the threshold the frequentist declares a victory for their hypothesis and moves on, never wondering whether this might be that 1 chance in 20 when they got their result by dumb luck. Never considering plausibility. Never even thinking whether there are other sources of error in the experimental design. Those poor dupes just mindlessly collect data and aren’t even allowed to consider the broader context.
 
@@ -201,7 +201,7 @@ In practice, p ≤ 0.05 should happen 1 in 20 times. Now my experience is in the
 
 Let’s consider a standard peer-reviewed paper. Say it has 4-6 figures. (We’ll estimate it at 5, and we won’t count the appendix.) If every one of these figures is using the same p < 0.05 threshold, the probability of all five figures independently agreeing through random chance goes to 1 in 3 million. Except each of these figures is broken up into 4-6 sub-figures, each at the same threshold. The probability of all these figures and sub-figures agreeing together in the same 1-in-20 fashion quickly becomes unlikely in the history of academic publications.
 
-For a paper like this to be wrong by chance alone ought to be a fluke occurrence, one unlikely to ever be repeated. And yet many publications are later discovered to be wrong. And that’s the point: the research can still be wrong, just not because of random chance.
+For a paper like this to be wrong by chance alone ought to be a fluke occurrence, one unlikely to ever be repeated. And yet many publications are later discovered to be wrong. And that’s the point: the research can still be wrong, just **not because of random chance**.
 
 If we see something wrong after a mountain of experimental data suggests random chance isn’t at play, we can start asking deeper questions about how the experiment went wrong. (Something Silver thinks is impossible for the dull frequentist.) This might be any number of things.
 
@@ -215,26 +215,26 @@ Silver and the Bayesian absolutists might opine here that they don’t need to d
 
 I call BS. No Bayesian is churning out independent analyses of “discomfort related to lower back pain” from a 28-point questionnaire built off a 5-point Likert scale. If they are, and they’re not correcting their probability estimates for the fact that the scale is discontinuous, their already-garbage analysis is even worse. In practice, Bayesian inputs like P(A) and P(B) are often drawn from some statistical result previously generated by a frequentist. Leaning hard on ‘purity’ will just make you ignorant of whether the frequentists did their job right, or whether you’re updating from a dump of garbage statistics.
 
-As I mentioned before, Silver seems to have a personal vendetta against Fisher. Indeed, he goes straight for the ad hominem attack: Fisher was an old holdout against the link between tobacco and lung cancer. He should have known better!
+As I mentioned before, Silver seems to have a personal vendetta against Fisher. Indeed, he goes straight for the _ad hominem_ attack: Fisher was an old holdout against the link between tobacco and lung cancer. He should have known better!
 
 Why didn’t he know? Silver claims this is because Fisher’s tool – frequentist statistics – was blinding him to the truth. Let’s analyze that claim. What’s the probability Fisher believes there’s no link between tobacco and lung cancer because frequentist statistics suck? (As an exercise for the reader, go ahead and perform your own Bayesian analysis of the evidence for/against both sides. Given how strongly Silver makes the claim that Fisher’s stance on tobacco is driven by frequentist statistics – against all evidence – back-calculate Silver’s bias.)
 
-Silver complains that Fisher should have known tobacco causes lung cancer. Why? Because this fact had already been demonstrated … by other frequentist statisticians!
+Silver complains that Fisher _should have known_ tobacco causes lung cancer. Why? Because this fact had already been demonstrated … by other frequentist statisticians!
 
 Which explanation better fits the evidence?
 
-*   Fisher was blind to the obvious conclusions his frequentist colleagues had already accepted because his frequentist statistics led him (and somehow not them) astray, or
-*   Fisher didn’t want to believe because he liked to smoke and got paid by the tobacco companies
+> *   Fisher was blind to the obvious conclusions his frequentist colleagues had already accepted because his frequentist statistics led him (and somehow not them) astray, or
+> *   Fisher didn’t want to believe because he liked to smoke and got paid by the tobacco companies
 
 Silver not only rejects all of Fisher’s contributions to a complex field of analysis – to the point of outright distortion – he goes on to reject the entire field of frequentist statistics.
 
 Why?
 
-I suspect Silver’s background informs his world view. Nate Silver used to be a successful[[10]](#ftnt10) poker player. He used his statistical prowess to become a successful baseball statistician. He then used that same mind to create a successful business making political predictions. What do all these things have in common – in the world of statistics? They’re all games of chance, sure. But they’re all a particular kind of game:
+I suspect Silver’s background informs his world view. Nate Silver used to be a successful[[10]](#ftnt10) poker player. He used his statistical prowess to become a successful baseball statistician. He then used that same mind to create a successful business making political predictions. What do all these things have in common – in the world of statistics? They’re all games of chance, sure. But they’re all a particular kind of game:
 
-*   Zero-sum
-*   With definite winners and losers
-*   Where results are announced objectively at defined timepoints
+> *   Zero-sum
+> *   With definite winners and losers
+> *   Where results are announced objectively at defined timepoints
 
 In elections, baseball, and especially poker you can make a prediction and put money down on that prediction if it differs from someone else’s prediction. Later collect or pay out and see whose model fit the real scenario. There was one right answer, and everyone empirically knows what that answer was. It’s not up for debate. This is the world Silver comes from, and it’s the world all his statistics live within. The problem for Silver, then, is that this does not describe most of the world outside of his narrow specialty.
 
@@ -242,7 +242,7 @@ Most questions aren’t first approximations of a zero-sum game. Many questions 
 
 Many other questions aren’t zero-sum at all. “What was the cause of World War 1?” Much of life is multi-causal, poorly defined, and continuously evolving. In addition to thinking probabilistically, we need to be able to think in terms of share or contribution. Too much analysis focuses on digital outputs to an analog world. Even a percentage estimate revolves around a digital yes/no. How do we get away from this kind of thinking?
 
-Now, I’m not an evangelist for frequentist models. The only reason I’m defending them is because I believe they’re sometimes useful (just as I think Bayes’ theorem is sometimes useful). But I don’t think the solution to the problems above is found in frequentist models. Whether Bayesian analysis can be adapted to this kind of problem isn’t something Silver’s book considers either. Instead of preparing his readers to live in a multi-causal world where ambiguity reigns, Silver encourages his readers to narrow their worldview to the kind of problem he seeks out: find the kind of ‘bet’ you can put money on. Silver’s book implicitly[[11]](#ftnt11) encourages the reader to ignore everything that can’t be transformed into this kind of game.
+Now, I’m not an evangelist for frequentist models. The only reason I’m defending them is because I believe they’re sometimes useful (just as I think Bayes’ theorem is sometimes useful). But I don’t think the solution to the problems above is found in frequentist models. Whether Bayesian analysis can be adapted to this kind of problem isn’t something Silver’s book considers either. Instead of preparing his readers to live in a multi-causal world where ambiguity reigns, Silver encourages his readers to narrow their worldview to the kind of problem he seeks out: find the kind of ‘bet’ you can put money on. Silver’s book implicitly[[11]](#ftnt11) encourages the reader to ignore everything that can’t be transformed into this kind of game.
 
 In Silver’s defense, fuzzy, multi-causal questions may never be answerable. Instead, we might focus on a question that can be answered like, “Did minimum wage law X impact employment in industry Y?” Then we can update our models based on this new information.
 
@@ -254,13 +254,13 @@ Silver has made a lot of money doing the kind of reductionist work he recommends
 
 ## Is Bayes’ approach fit-for-purpose?
 
-This is where Silver and other advocates for expanding Bayesian logic will pounce and declare that the Bayesian really shines in this environment. After all, if there’s a disagreement that requires disparate people to come together to discuss all the evidence and gradually approach a conclusion, Bayesian mathematics is made for this moment! Even if everyone starts out with different priors, Silver claims, so long as we all assign the same probabilities to updated information, everyone will end up pretty close to the same conclusion – even if that conclusion is that we need more evidence to be certain one way or another.
+This is where Silver and other advocates for expanding Bayesian logic will pounce and declare that the Bayesian really shines in this environment. After all, if there’s a disagreement that requires disparate people to come together to discuss all the evidence and gradually approach a conclusion, Bayesian mathematics is **made for this moment!** Even if everyone starts out with different priors, Silver claims, so long as we all assign the same probabilities to updated information, everyone will end up pretty close to the same conclusion – even if that conclusion is that we need more evidence to be certain one way or another.
 
 That’s great in theory, but in the real world it’s rare that everyone agrees on probability estimates. This brings up the big question for the Bayesian absolutist to answer: why doesn’t everyone assign the same probabilities for B, A, and B|A? After all, Silver claims,
 
-If the philosophical underpinnings of Bayes’s theorem are surprisingly rich, its mathematics are stunningly simple. In its most basic form, it is just an algebraic expression with three known variables and one unknown one. But this simple formula can lead to vast predictive insights.
+> If the philosophical underpinnings of Bayes’s theorem are surprisingly rich, its mathematics are stunningly simple. In its most basic form, it is just an algebraic expression with three known variables and one unknown one. But this simple formula can lead to vast predictive insights.
 
-Four variables and three of them are known? That’s easy! This isn’t some complicated frequentist model with lots of assumptions. It’s a simple matter of plug and play.
+Four variables and three of them are known? That’s _easy_! This isn’t some complicated frequentist model with lots of assumptions. It’s a simple matter of plug and play.
 
 This is true for many of the simple cases Silver champions in the book, but in most real-world situations applying Bayesian logic makes our job harder, not easier. Let’s take a simple example, where frequentist statistical reasoning makes the conclusion obvious and immediate, but Bayesian analysis muddies the water to the point where it’s nigh impossible to understand.
 
@@ -272,31 +272,31 @@ P(positive paper for defects|defect exists) = 95%
 
 P(negative paper for defects|defect exists) = 5%
 
-Result
+**Result**
 
-Doc #1
+**Doc #1**
 
-Doc #2
+**Doc #2**
 
-P(defects from Zofran)
+**P(defects from Zofran)**
 
 10%
 
 0.1%
 
-Positive
+**Positive**
 
 65.5%
 
 1.9%
 
-Negative
+**Negative**
 
 6.8%
 
 0.2%
 
-Negative
+**Negative**
 
 <0.1%
 
@@ -308,71 +308,71 @@ Well, maybe.
 
 I’m sure the authors of the positive study will argue why the negative studies were done wrong, and vice-versa. We’ll get into a debate about technique. One side will debate whether the prior and posterior probabilities were set right. In the end, half of the doctors will still be refusing to consider Zofran safe after a dozen papers negative for birth defects, while others would still be prescribing it after at least a few positive papers. The whole thing will devolve into a Bayesian mess because people are allowing their priors to not just define P(A|B), but also how they interpret new data, i.e. P(A) and P(B). While everyone debates the specific details of each study and how much credibility they should assign them, what we’ll end up with is probably something closer to this:
 
-Result
+**Result**
 
-Doc #1
+**Doc #1**
 
-Doc #2
+**Doc #2**
 
-P(defects from Zofran)
+**P(defects from Zofran)**
 
 10%
 
 0.1%
 
-Positive
+**Positive**
 
 78.5%
 
 0.2%
 
-Negative
+**Negative**
 
 72.8%
 
 <0.1%
 
-Negative
+**Negative**
 
 72.1%
 
 <0.1%
 
-Negative
+**Negative**
 
 68.4%
 
 <0.1%
 
-Let’s talk about what’s not being done in this analysis. To do that, we’ll let the frequentists back into the discussion.
+Let’s talk about what’s **not** being done in this analysis. To do that, we’ll let the frequentists back into the discussion.
 
-That [first paper](https://pubmed.ncbi.nlm.nih.gov/25450422/) – the one that identified an increase in birth defects – found their signal as part of a retrospective analysis. Their hypothesis was that Zofran would cause teratomas. It didn’t. But the authors claimed a ‘statistically significant’ increase in birth defects. Is that real?
+That [first paper](https://pubmed.ncbi.nlm.nih.gov/25450422/) – the one that identified an increase in birth defects – found their signal as part of a retrospective analysis. Their hypothesis was that Zofran would cause teratomas. It didn’t. But the authors claimed a ‘statistically significant’ increase in birth defects. Is that real?
 
-No, because of the problem of multiplicity.[[13]](#ftnt13) A frequentist setting up an experiment knows they must first calculate their statistical power to answer the question. Since there’s no way to power an unknown amount of multiplicity, the frequentist automatically identifies the post-hoc analysis as a different kind of evidence. It’s good for hypothesis generation, but it’s qualitatively different from predetermined experimental evidence.
+No, because of the problem of multiplicity.[[13]](#ftnt13) A frequentist setting up an experiment knows they must first calculate their statistical power to answer the question. Since there’s no way to power an unknown amount of multiplicity, the frequentist automatically identifies the post-hoc analysis as _a different kind of evidence_. It’s good for hypothesis generation, but it’s qualitatively different from predetermined experimental evidence.
 
-What the frequentist sees is that the first paper failed to find evidence to support their original hypothesis, “Zofran causes teratomas” while generating a new hypothesis, “Zofran causes heart defects”. Knowing that the first paper’s newly generated hypothesis was almost certainly noise (though not conclusively so since there’s still a small probability of Type II error) casts the [second paper](https://www.nejm.org/doi/full/10.1056/nejmoa1211035) in a different light. The hypothesis made a prediction. The prediction failed, so it is rejected (though we’ll continue to [collect additional evidence](https://onlinelibrary.wiley.com/doi/abs/10.1002/bdr2.1705) and gain more confidence in that rejection).
+What the frequentist sees is that the first paper failed to find evidence to support their original hypothesis, “Zofran causes teratomas” while generating a new hypothesis, “Zofran causes heart defects”. Knowing that the first paper’s newly generated hypothesis was almost certainly noise (though not conclusively so since there’s still a small probability of Type II error) casts the [second paper](https://www.nejm.org/doi/full/10.1056/nejmoa1211035) in a different light. The hypothesis made a prediction. The prediction failed, so it is rejected (though we’ll continue to [collect additional evidence](https://onlinelibrary.wiley.com/doi/abs/10.1002/bdr2.1705) and gain more confidence in that rejection).
 
 Notice how much more difficult this problem became when we ignored basic frequentist principles. Seeking only to apply cumbersome Bayesian updates to every situation led to us chasing noisy patterns forever. I can hear the hardcore Bayesians grumbling about this point, “Fine, we’ll take the lesson on multiplicity into account as we make our probability estimates. We wouldn’t assign the same weight to each piece of evidence anyway. That doesn’t mean we need to take anything else from Fisher – that evil shill for Phillip Morris.” The problems for Bayes only get worse from here.[[14]](#ftnt14)
 
 ## Against Universalizing Bayesian Thinking
 
-From Silver’s telling, even if everyone starts out with different priors, all Bayesians willing to calculate serial updates will converge around the same conclusion, given enough evidence. If we observe wide disagreement, we don’t have enough evidence.
+From Silver’s telling, even if everyone starts out with different priors, all Bayesians willing to calculate serial updates will converge around the same conclusion, **given enough evidence**. If we observe wide disagreement, we don’t have enough evidence.
 
-Scott’s [recent review](https://www.astralcodexten.com/p/practically-a-book-review-rootclaim) of the lab leak/zoonosis debate revealed a bizarre result when Bayesian principles were taken to their logical conclusion. Instead of Bayesian math converging on a single answer … well everyone kind of went their own way.[[15]](#ftnt15) What went wrong in the Rootclaim debate? Scott gives some insight that should cause any Bayesian serious reflection (emphasis mine):
+Scott’s [recent review](https://www.astralcodexten.com/p/practically-a-book-review-rootclaim) of the lab leak/zoonosis debate revealed a bizarre result when Bayesian principles were taken to their logical conclusion. Instead of Bayesian math converging on a single answer … well everyone kind of went their own way.[[15]](#ftnt15) What went wrong in the Rootclaim debate? Scott gives some insight that should cause any Bayesian serious reflection (emphasis mine):
 
-Rootclaim asks: what if you just directly apply Bayes to the world’s hardest problems? There’s something pure about that, in a way nobody else is trying.
-
-Unfortunately, the reason nobody else is trying this is because it doesn’t work. There’s too much evidence, and it’s too hard to figure out how to quantify it.
+> Rootclaim asks: what if you just directly apply Bayes to the world’s hardest problems? There’s something pure about that, in a way nobody else is trying.
+>
+> Unfortunately, the reason nobody else is trying this is because it doesn’t work. **There’s too much evidence**, and it’s too hard to figure out how to quantify it.
 
 If Bayesian analysis doesn’t work, the last reason we would expect is because “there’s too much evidence”. How did the solution become the problem?
 
-The last part of that quote hints at why, “it’s too hard to figure out how to quantify [the evidence].” The issue isn’t that Bayes was wrong. It’s just being applied to the wrong set of problems: namely every problem. The equation isn’t built for that.
+The last part of that quote hints at why, “it’s too hard to figure out how to quantify [the evidence].” The issue isn’t that Bayes was wrong. It’s just being applied to the wrong set of problems: namely _every_ problem. The equation isn’t built for that.
 
 Look again at it again:
 
 ![](https://acximages.ennals.org/images/2024-book-reviews/1923095e57f60920.png)
 
-What does it really mean? What is a posterior probability? What is a prior probability? “In theory” these questions should be easy to answer since we have all the observations. That’s not what happened in the Rootclaim debate. Not only did the two debaters present different probabilities for each event, so did each of the judges. And so did Scott! And honestly so did everyone else who tried their hand at it. Far from being objective, each of these variables proved subjective.
+What does it really _mean_? What is a posterior probability? What is a prior probability? “In theory” these questions should be easy to answer since we have all the observations. That’s not what happened in the Rootclaim debate. Not only did the two debaters present different probabilities for each event, so did each of the judges. And so did Scott! And honestly so did everyone else who tried their hand at it. Far from being objective, each of these variables proved subjective.
 
 Bayes’ theorem works great if the prior and posterior probabilities are empirically derived values. But if we don’t know those – if we’re guessing, estimating post-hoc, adjusting for ‘model uncertainty’, etc. – the only thing we can get from a Bayesian analysis is an undeserved sense of confidence.
 
@@ -388,7 +388,7 @@ That’s … not strictly Bayesian. It’s certainly good practice, but it’s n
 
 Silver picked an unnecessary fight with frequentist statistics. Any lesson about probability, no matter how general, gets cast as part of this faux battle between the righteous Bayesians and the tyrannical frequentists. His model for how frequentists view the world is weird. He frequently inveighs against their statistical models, claiming that they do nothing but make one-off declarations of “truth” that shall stand for all time as peer-reviewed ambrosia handed down from the gods:
 
-Essentially, the frequentist approach toward statistics seeks to wash its hands of the reason that predictions most often go wrong: human error. It views uncertainty as something intrinsic to the experiment rather than something intrinsic to our ability to understand the real world.
+> Essentially, the frequentist approach toward statistics seeks to wash its hands of the reason that predictions most often go wrong: human error. It views uncertainty as something intrinsic to the experiment rather than something intrinsic to our ability to understand the real world.
 
 Think about this claim: frequentist statisticians seek to ignore human error as a source of bias. Really? To be fair, it seems Fisher picked this same fight first, but there’s no reason we have to adopt the bad priors of earlier generations. Why do we have to accept this ancient battle line, where we either reject Fisher or Bayes, and then ascribe every statistical sin to “the other side”?
 
@@ -396,7 +396,7 @@ And there are sinners who believe this kind of garbage about: the scientific met
 
 ## It Doesn’t Have to Be This Way
 
-I do think books like tSatN help with that. Maybe Silver felt the need to lean in so hard at overcorrecting, using spurious connections to Bayes theorem to popularize ideas like ‘probabilistic thinking’, because of people who want to think of statistics as being as error free as a mathematical equation. (I would argue that [the earlier work](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1182327/) of John Ioannidis had a greater cultural impact inside and outside of academics, among many others. And indeed, [more good work](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6614217/) on what it means to learn through the scientific method continues to be done.) Yes, we should learn about statistical sins to avoid them, but let’s not fool ourselves in the process into committing new sins.
+I do think books like tSatN help with that. Maybe Silver felt the need to lean in so hard at overcorrecting, using spurious connections to Bayes theorem to popularize ideas like ‘probabilistic thinking’, because of people who want to think of statistics as being as error free as a mathematical equation. (I would argue that [the earlier work](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1182327/) of John Ioannidis had a greater cultural impact inside and outside of academics, among many others. And indeed, [more good work](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6614217/) on what it means to learn through the scientific method continues to be done.) Yes, we should learn about statistical sins to avoid them, but let’s not fool ourselves in the process into committing new sins.
 
 An allegory: My son loved his bike and became a confident rider long before I got around to removing the training wheels. On one hand, his hard riding bent those tattered wheels back, so that most of the time he wasn’t even using them anymore. On the other hand, once I finally did take the training wheels off, he was initially scared to ride his bike. He had little confidence, and made broad turns instead of obvious and easy ones.
 
@@ -404,7 +404,7 @@ It’s been a dozen years since tSatN came out. When I first read it, it did hel
 
 I think Bayesians have mostly bent back the restrictions of a purely Bayesian approach, which they hardly even use anymore. They’ve developed some good habits that they may think of as ‘Bayesian’ but aren’t really tied to Bayes’ theorem in a meaningful way. They ‘think probabilistically’, by assigning a number to their confidence (sometimes even writing it down and sharing it with others, sometimes going so far as to calibrate their predictions).
 
-But they[[16]](#ftnt16) also have some bad habits of estimating prior probabilities post hoc or in other invalid ways. They do a quick and dirty ‘Bayesian’ estimate, or sometimes even formally plug the numbers into a spreadsheet, and they get a false sense of precision. They lean a little too hard on the training wheels.
+But they[[16]](#ftnt16) also have some bad habits of estimating prior probabilities post hoc or in other invalid ways. They do a quick and dirty ‘Bayesian’ estimate, or sometimes even formally plug the numbers into a spreadsheet, and they get a false sense of precision. They lean a little too hard on the training wheels.
 
 We can do better than applying narrow statistical lessons overly broadly. We don’t have to overfit our models. Let’s return to that ACX website slogan “P(A|B) = [P(A)\*P(B|A)]/P(B), all the rest is commentary.” I used to like that slogan. I used to think it was clever. Now, not so much. Sometimes, Bayes’ equation gives powerful new insights. Most of the time it is the wrong model. It might even be time to move the phrase, “all the rest is commentary” to the ‘mistakes’ page.
 
@@ -414,29 +414,29 @@ The Bayesian training wheels are overly restrictive. They prevent us from consid
 
 Having spent so much time tearing down what Silver considers his most important point, you might think I hate everything about this book. Quite the opposite. I think there’s a lot of wonderful material in this book. If anything, a careful reading of tSatN will provide a masterclass on how difficult it is to consistently apply good statistical principles. Silver outlines dozens of principles and important nuances. Here are a few examples:
 
-*   Don’t overfit[[17]](#ftnt17) based on past cases.
-*   Low-probability events sometimes[[18]](#ftnt18) happen.
-*   Don’t trust a forecaster with a poor record.
-
-*   Corollary = don’t trust highly precise forecasts with records of low precision.
-*   Corollary = know your forecast’s range of uncertainty.
-
-*   Change your forecast when the evidence changes.
-*   Beware the comprehensive model and the quick fix.
-*   Patterns are not the same thing as signal.
-*   More data = more noise.
-
-*   Corollary: The hypothesis-free approach is prone to hallucination.
-
-*   Averages may conceal complexity.
-*   Don’t overlearn from computer[[19]](#ftnt19) model outputs.
-*   Don’t just extrapolate a trendline.
-*   Sometimes people react to a prediction, changing the outcome.
-*   Sometimes you’re too emotional to think probabilistically – it’s okay to walk away.
+> *   Don’t overfit[[17]](#ftnt17) based on past cases.
+> *   Low-probability events sometimes[[18]](#ftnt18) happen.
+> *   Don’t trust a forecaster with a poor record.
+>
+> *   Corollary = don’t trust highly precise forecasts with records of low precision.
+> *   Corollary = know your forecast’s range of uncertainty.
+>
+> *   Change your forecast when the evidence changes.
+> *   Beware the comprehensive model and the quick fix.
+> *   Patterns are not the same thing as signal.
+> *   More data = more noise.
+>
+> *   Corollary: The hypothesis-free approach is prone to hallucination.
+>
+> *   Averages may conceal complexity.
+> *   Don’t overlearn from computer[[19]](#ftnt19) model outputs.
+> *   Don’t just extrapolate a trendline.
+> *   Sometimes people react to a prediction, changing the outcome.
+> *   Sometimes you’re too emotional to think probabilistically – it’s okay to walk away.
 
 I’ve flagged a few of these where Silver failed to follow his own advice in the book. I don’t think this is because Silver isn’t good with statistics. He’s made millions of dollars over the years proving otherwise. If Silver is making mistakes despite being particularly good, what does that say about the rest of us?
 
-The project Silver is advocating for is a lifetime achievement. If Silver is still working on it after writing a book about statistics, you’re not likely to get there from a casual once-over of this book.
+The project Silver is advocating for is a _lifetime achievement_. If Silver is still working on it after writing a book about statistics, you’re not likely to get there from a casual once-over of this book.
 
 ## Okay, so yes or no to reading the book?
 

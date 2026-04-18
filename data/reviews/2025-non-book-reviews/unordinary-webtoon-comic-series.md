@@ -27,7 +27,7 @@ Other times, those questions are… let's say, “less profound”, as are the r
 
 Intuitively, you might think that deep question = great story, shallow/silly question = cheap slop.
 
-But consider Naomi Alderman’s The Power - it's a complex tale about physical strength, gender roles, and social influence. And it pulls no punches in asking whether, if women took charge of society, they might repeat some of the worst behaviors of the men who preceded them.
+But consider Naomi Alderman’s _The Power_ - it's a complex tale about physical strength, gender roles, and social influence. And it pulls no punches in asking whether, if women took charge of society, they might repeat some of the worst behaviors of the men who preceded them.
 
 But it's also a response to the question, “What if all these ladies could shoot lightning from their hands?”
 
@@ -39,7 +39,7 @@ And with that, let's turn to unORDINARY, a work that asks us, “What would high
 
 [unORDINARY](https://www.webtoons.com/en/super-hero/unordinary/prologue/viewer?title_no=679&episode_no=1)[2] is a serialized graphic novel created by Chelsey Han under the pen name uru-chan[3]. It started publishing weekly in 2016 (with occasional breaks), and is up to 346 episodes split into two “seasons”.
 
-In this review, I will focus heavily on the setting and overall themes of unORDINARY, and include a pretty spoiler-rich plot summary. And, in defiance of convention, I will actually review unORDINARY, in the sense of discussing whether or not you might like it.
+In this review, I will focus heavily on the setting and overall themes of unORDINARY, and include a pretty spoiler-rich plot summary. And, in defiance of convention, I will actually _review_ unORDINARY, in the sense of discussing whether or not you might like it.
 
 I will try to keep the main body of the review free of too much comic-book-y minutiae, and instead put those details in footnotes[4].
 
@@ -51,11 +51,11 @@ unORDINARY is set in an alternate universe where almost all humans have a superp
 
 Other than that, the world is like our own in many ways. Technology is basically on par with the US circa 2016, with a couple notable exceptions[5]. The economic structures are the same as ours - people have jobs, shop at supermarkets, and play games on their smartphones.
 
-The social structures, on the other hand, are very different. People's abilities are measured and tracked on a 1-to-10 scale[6] and this rating is given outsized importance in just about every context, even ones where it's hard to see the relevance (such as where people live).
+The _social_ structures, on the other hand, are very different. People's abilities are measured and tracked on a 1-to-10 scale[6] and this rating is given outsized importance in just about every context, even ones where it's hard to see the relevance (such as where people live).
 
-Most of the story takes place in or around the fictional Wellston Private High School, a boarding school known for high-ability-level[7] students. Like at other schools, the top-ranked students get playing-card inspired titles (King, Queen, and Jack, collectively “Royals”) that come with a lot of influence and privilege. Students are encouraged to have violent fights to develop their abilities, and the King and Queen roles can be taken by force, like we’re living in some kind of non-fatal version of Mad Max Beyond Thunderdome[8].
+Most of the story takes place in or around the fictional Wellston Private High School, a boarding school known for high-ability-level[7] students. Like at other schools, the top-ranked students get playing-card inspired titles (King, Queen, and Jack, collectively “Royals”) that come with a lot of influence and privilege. Students are encouraged to have violent fights to develop their abilities, and the King and Queen roles can be taken by force, like we’re living in some kind of non-fatal version of _Mad Max Beyond Thunderdome_[8].
 
-Even for students not jockeying for titles, school is a real meat-grinder. Most everybody has someone more powerful than them, and their “betters” demand subservience, force weaker students to do their homework, or just knock them around for fun. Teachers and staff turn a blind eye to all of this.
+Even for students not jockeying for titles, school is a real meat-grinder. Most everybody has _someone_ more powerful than them, and their “betters” demand subservience, force weaker students to do their homework, or just knock them around for fun. Teachers and staff turn a blind eye to all of this.
 
 The general pattern is repeated in society writ large - more powerful individuals are treated deferentially, not just as a practical matter, but on principle.
 
@@ -65,7 +65,7 @@ The Bureau is made exclusively of people with high-level abilities (and, from wh
 
 Philosophically, the Bureau of Authority is a classic fascist organization in many ways[13], and they’ve succeeded at creating a society obsessed with hierarchy, order, and control.
 
-There is one persistent exception to this - a handful of high-level individuals become vigilantes (referred to as “superheroes”), protecting low-level districts. Most-to-all of these vigilantes are inspired by a banned book called Unordinary, which is basically Superman[14] as a novel. (Although, in unORDINARY, what’s weird about the story is not the one person with superpowers, but the rest of the world with none.)
+There is one persistent exception to this - a handful of high-level individuals become vigilantes (referred to as “superheroes”), protecting low-level districts. Most-to-all of these vigilantes are inspired by a banned book called _Unordinary_, which is basically _Superman_[14] as a novel. (Although, in unORDINARY, what’s weird about the story is not the one person with superpowers, but the rest of the world with none.)
 
 People have mixed feelings about vigilantes, especially because there’s a terrorist group called EMBER that seems devoted to murdering as many of them as possible.
 
@@ -73,15 +73,15 @@ People have mixed feelings about vigilantes, especially because there’s a terr
 
 unORDINARY largely follows the life of John, a student at Wellston who, we are initially told[15], has no ability - he's referred to as a “cripple”[16]. He spends a lot of time trying to avoid getting bullied, escaping fights, or occasionally winning them (thanks to a lot of martial arts practice). John is sometimes protected by his best (and only) friend, Seraphina, Wellston’s highest-level student[17].
 
-Seraphina (or, Sera) was previously the Queen at Wellston but stepped down after she became friends with John, and began questioning her place in the school’s rigid hierarchy. Arlo[18], Wellston's King, takes issue with this and starts looking into John. Meanwhile, Sera learns that John’s father wrote Unordinary, and borrows a copy from him.
+Seraphina (or, Sera) was previously the Queen at Wellston but stepped down after she became friends with John, and began questioning her place in the school’s rigid hierarchy. Arlo[18], Wellston's King, takes issue with this and starts looking into John. Meanwhile, Sera learns that John’s father wrote _Unordinary_, and borrows a copy from him.
 
-Arlo becomes convinced that John is hiding a high-level ability, and plots to expose him, on the premise that John is shirking his responsibilities and defying the appropriate order. Arlo gets Sera suspended (for reading Unordinary), and has a couple other students deliberately break John's phone to isolate him from her. He then waits as increased bullying starts to wear on John’s mental state.
+Arlo becomes convinced that John is hiding a high-level ability, and plots to expose him, on the premise that John is shirking his responsibilities and defying the appropriate order. Arlo gets Sera suspended (for reading _Unordinary_), and has a couple other students deliberately break John's phone to isolate him from her. He then waits as increased bullying starts to wear on John’s mental state.
 
 Eventually Arlo feigns some concern for John and befriends him, only to drag him out to the middle of nowhere and have two other students attack him, while Arlo monologues about how this is all part of his evil plan.
 
-John loses it, and we finally see him use the ability that of course he has[19]. Specifically, John has the classic “can copy other people's abilities” ability. And he is very good at it[20]. John easily beats Arlo’s two lackeys, almost killing one, and then defeats Arlo as well.
+John loses it, and we finally see him use the ability that _of course he has_[19]. Specifically, John has the classic “can copy other people's abilities” ability. And he is very good at it[20]. John easily beats Arlo’s two lackeys, almost killing one, and then defeats Arlo as well.
 
-John and Arlo both do their best to cover this up, and for a while they succeed. Things get more complicated when an as-yet-unknown organization attacks Sera, injecting her with a drug that permanently disables her ability. When Sera drops from “most powerful person at the school” to “basically helpless”, she quickly becomes the target of the same violence John has been subject to, and he does not take it well.
+John and Arlo both do their best to cover this up, and for a while they succeed. Things get more complicated when an as-yet-unknown organization attacks Sera, injecting her with a drug that permanently disables her ability. When Sera drops from “most powerful person at the school” to “basically helpless”, she quickly becomes the target of the same violence John has been subject to, and he _does not take it well_.
 
 John starts getting revenge on Sera's attackers, wearing a mask and getting dubbed “Joker” by the other students. Each of his attacks is unnecessarily brutal, regularly leaving victims unconscious in a pool of their own blood.
 
@@ -99,7 +99,7 @@ The Bureau sends John to “re-adjustment” classes, which are exactly as Orwel
 
 The excessive replay etches the memories into his brain to the point that he basically has artificially-induced PTSD, complete with anxiety attacks, frequent flashbacks, and an abiding paranoia about people plotting against him.
 
-Thanks to this, John concludes that he is a monster (one of the last words Claire ever said to him), and enrolls in Wellston as a “cripple” specifically to avoid a repeat of New Bostin. But, of course, experiencing powerlessness is exactly what drove him to violence in the first place, and he ends up walking through all of the beats of the same story again.
+Thanks to this, John concludes that he _is_ a monster (one of the last words Claire ever said to him), and enrolls in Wellston as a “cripple” specifically to avoid a repeat of New Bostin. But, of course, experiencing powerlessness is exactly what drove him to violence in the first place, and he ends up walking through all of the beats of the same story again.
 
 During his “Joker” rampage, he doesn't forget the “lesson” of all of this - he tells himself that he's a bad person, but rationalizes that his fellow students are no better, and deserve what he's doing to them.
 
@@ -137,33 +137,33 @@ As promised, this is where I abruptly stop summarizing stuff. Sorry!
 
 I don’t know! I really like it, as you probably guessed from this review. But my tastes are not universal, so below are some things that you might like and/or hate.
 
-The Pacing: I saw somebody describe the pacing of unORDINARY as “glacial”, which I think is fair (and the most common complaint about the series[31]). For example, we first see John use his ability in episode 54, published over a year after the story began.
+**The Pacing:** I saw somebody describe the pacing of unORDINARY as “glacial”, which I think is fair (and the most common complaint about the series[31]). For example, we first see John use his ability in episode 54, published over a year after the story began.
 
 On the flip side - when we first meet John, he’s an upbeat guy who gets himself through some tough scrapes. He criticizes the world he lives in, where he’s at the bottom rung of things, but he’s idealistic about how it could be better.
 
 The version of John we see fighting Arlo is none of those things - he’s cold, vengeful, and sadistic, and shows very little concern about whether somebody dies because of his actions. This only works because we see the abuse he suffers, his isolation, and evidence of his past trauma[32], all drawn out and in detail.
 
-Without that, it wouldn’t feel real. Or it would feel like some cheap “split personality” thing. But it’s not that - John has a dark past, but it doesn’t just snap back into place. He literally gets beaten up almost every day for weeks, knowing he could avoid it, before the stress finally grinds him down.
+Without that, it wouldn’t feel real. Or it would feel like some cheap “split personality” thing. But it’s not that - John has a dark past, but it doesn’t just snap back into place. He literally gets beaten up almost every day for weeks, knowing he _could_ avoid it, before the stress finally grinds him down.
 
-All the character development is like this. Arlo eventually appreciates how terrible he was, but it takes him a lot of repetitive rumination[33]. Remi and Arlo have a series of arguments that go in circles about the same things. More than one character makes progress on some flaw of theirs, only to backslide repeatedly.
+All the character development is like this. Arlo _eventually_ appreciates how terrible he was, but it takes him a lot of repetitive rumination[33]. Remi and Arlo have a series of arguments that go in circles about the same things. More than one character makes progress on some flaw of theirs, only to backslide repeatedly.
 
 This sort of thing can seem weird when you read it, but that’s because narratives typically have absurdly crisp, coherent, plot-advancing dialogue and epiphanies. But, in the real world, people suck at working things out! We are not efficient communicators[34] or [clear thinkers](https://www.readthesequences.com/).
 
-An Actual Friendship: If I’ve learned anything from [r/books](https://www.reddit.com/r/books/comments/1axz5jd/romance_fans_do_you_like_the_miscommunication/), it’s that a lot of people hate stories that could have been resolved by a ten-minute conversation, but aren’t. And it never seems to matter how well the characters knew each other before the story began.
+**An Actual Friendship:** If I’ve learned anything from [r/books](https://www.reddit.com/r/books/comments/1axz5jd/romance_fans_do_you_like_the_miscommunication/), it’s that a lot of people hate stories that could have been resolved by a ten-minute conversation, but aren’t. And it never seems to matter how well the characters knew each other before the story began.
 
-John and Seraphina’s relationship is the exact inverse of this trope. They’re best friends for a while, and then he completely goes off the deep end, terrorizing the whole school and putting her friends in the hospital. Sera sensibly gets some distance from him, but also spends a lot of effort piecing together his past. And when she finally gets the chance to stop his rampage, she also tells him that he’s not an irredeemable monster and that she still cares about him.
+John and Seraphina’s relationship is _the exact inverse_ of this trope. They’re best friends for a while, and then he completely goes off the deep end, terrorizing the whole school and putting her friends in the hospital. Sera sensibly gets some distance from him, but also spends a _lot_ of effort piecing together his past. And when she finally gets the chance to stop his rampage, she also tells him that he’s not an irredeemable monster and that she still cares about him.
 
-Again, this seems weird - because most narratives put almost no value on long-term relationships! Just looking at superhero stuff, Captain America: Civil War[35] has the Avengers break out into a violent conflict after they’ve prevented an alien conquest of Earth and an AI apocalypse. Black Panther[36] has a character who betrays his own wife to side with a random murderer who usurped control of his country! If we actually watched their decades of marriage leading up to this, we’d realize that it’s batshit fucking insane.
+Again, this seems weird - because most narratives put almost no value on long-term relationships! Just looking at superhero stuff, _Captain America: Civil War_[35] has the Avengers break out into a violent conflict _after_ they’ve prevented an alien conquest of Earth _and_ an AI apocalypse. _Black Panther_[36] has a character who betrays his own wife to side with a random murderer who usurped control of his country! If we actually watched their decades of marriage leading up to this, we’d realize that it’s _batshit fucking insane_.
 
-This Guy Is Kind Of Terrible Sometimes Though: As noted, a significant chunk of the story involves John beating people senseless, and then hitting them some more.
+**This Guy Is Kind Of Terrible Sometimes Though:** As noted, a significant chunk of the story involves John beating people senseless, and then hitting them some more.
 
 He pushes away his only friend. He screams at and attacks his own (sycophantic) allies. A lot of people try to engage with him in calm and reasonable ways, and he consistently rejects them.
 
-Even after Seraphina gets through to him, and he goes on his obligatory personal growth journey, he’s just kind of less bad. He still has a crazy temper! He still, when pushed into fights, loses it and goes way overboard! He just goes from “I’m going to beat this person half to death and there’s nothing you can do about it” to “I’m going to beat this person half to death but I’ll stop if you pull me off of them”.
+Even after Seraphina gets through to him, and he goes on his obligatory personal growth journey, he’s just kind of _less bad_. He still has a crazy temper! He still, when pushed into fights, loses it and goes way overboard! He just goes from “I’m going to beat this person half to death and there’s nothing you can do about it” to “I’m going to beat this person half to death but I’ll stop if you pull me off of them”.
 
-As with the “pacing” thing above, I think this makes more sense than the alternative where he’s suddenly a perfect angel. And his actions need to be considered in light of the hyper-violent dystopia that he’s a part of, and the literal torture he experienced. But your mileage definitely may vary with this one[37].
+As with the “pacing” thing above, I think this makes _more_ sense than the alternative where he’s suddenly a perfect angel. And his actions need to be considered in light of the hyper-violent dystopia that he’s a part of, and the literal torture he experienced. But your mileage definitely may vary with this one[37].
 
-Does Humanity Suck Or Not: There are a lot of stories about ordinary people doing terrible things: Lord of the Flies[38], Yellowjackets[39], Squid Game[40], Alice in Borderland[41], etc.
+**Does Humanity Suck Or Not:** There are a lot of stories about ordinary people doing terrible things: _Lord of the Flies_[38], _Yellowjackets_[39], _Squid Game_[40], _Alice in Borderland_[41], etc.
 
 These works often imply that humans are garbage, and that only society/the police are holding us back from a giant murder-fest. But… is that true?
 
@@ -171,15 +171,15 @@ I always think of [Uruguayan Air Force Flight 571](https://en.wikipedia.org/wiki
 
 So, no, I don’t think humans are just a bunch of barely-restrained monsters. Even under extreme stress, we’re pretty cooperative - that’s kind of our whole thing.
 
-And, despite the violence in unORDINARY, on some level that’s how it presents its characters. The structures of their society discourage empathy - the fascist government, the Thunderdome schools, even the shadowy terrorist group murdering vigilantes. But these things are all fighting the tide of human nature. All it takes is one book suggesting you don’t have to be such an asshole, and people jump on board.
+And, despite the violence in unORDINARY, on some level that’s how it presents its characters. The structures of their society discourage empathy - the fascist government, the _Thunderdome_ schools, even the shadowy terrorist group murdering vigilantes. But these things are all fighting the tide of human nature. All it takes is one book suggesting you don’t have to be such an asshole, and people jump on board.
 
-Even without that, some characters are altruistic, although the conflict with their indoctrination is obvious. Particularly in the first season, a lot of high-level students do step in to protect somebody. But they never say that’s what they’re doing. They always give some plausible excuse as to why the aggressor is inconveniencing them. Maybe the fight is too loud first thing in the morning, or wasting somebody’s time by blocking off a hallway. Arlo in particular likes to complain about “making the rest of us high-rankers look bad”, as though the real victim of an asymmetric beating is his reputation.
+Even without that, some characters are altruistic, although the conflict with their indoctrination is obvious. Particularly in the first season, a lot of high-level students _do_ step in to protect somebody. But they never _say_ that’s what they’re doing. They always give some plausible excuse as to why the aggressor is inconveniencing them. Maybe the fight is too loud first thing in the morning, or wasting somebody’s time by blocking off a hallway. Arlo in particular likes to complain about “making the rest of us high-rankers look bad”, as though the _real_ victim of an asymmetric beating is _his reputation_.
 
-Generally, the people who witness this don’t actually buy these reasons (as we can see from their thought bubbles), but they [know better](https://en.wikipedia.org/wiki/Doublethink) than to question them out loud.
+Generally, the people who witness this don’t actually buy these reasons (as we can see from their thought bubbles), but they [know better](https://en.wikipedia.org/wiki/Doublethink) than to question them out loud.
 
-Also What’s Going On With This Society: As the story advances, it slowly expands from Wellston to broader affairs - we see more of the Bureau of Authority, we learn about EMBER, and we get increasingly detailed looks at Spectre, which is a sort of revolutionary group gone wrong. And the motivations of Vaughn, the school’s Headmaster, start to look a lot more complicated than “raise a new crop of fascists”.
+**Also What’s Going On With This Society:** As the story advances, it slowly expands from Wellston to broader affairs - we see more of the Bureau of Authority, we learn about EMBER, and we get increasingly detailed looks at Spectre, which is a sort of revolutionary group gone wrong. And the motivations of Vaughn, the school’s Headmaster, start to look a lot more complicated than “raise a new crop of fascists”.
 
-All of this seems to be building to some larger reordering of society, although it’s very much unclear how it will play out[43]. If you start reading, be prepared to suspend disbelief when superpowered teens save the world from totalitarian rule, like in Animorphs[44].
+All of this seems to be building to some larger reordering of society, although it’s very much unclear how it will play out[43]. If you start reading, be prepared to suspend disbelief when superpowered teens save the world from totalitarian rule, like in _Animorphs_[44].
 
 ## Concluding Thoughts
 
@@ -261,7 +261,7 @@ Seasons one and two are available [on WEBTOON](https://www.webtoons.com/en/super
 
 [36] “What if the most advanced society on Earth also had a terrible, archaic government structure?”
 
-[37] The author [also](https://www.webtoons.com/en/super-hero/unordinary/message-from-uru-chan/viewer?title_no=679&episode_no=246) found this part of the story emotionally draining.
+[37] The author [also](https://www.webtoons.com/en/super-hero/unordinary/message-from-uru-chan/viewer?title_no=679&episode_no=246) found this part of the story emotionally draining.
 
 [38] “What if we admit that British schoolchildren are just little monsters?”
 

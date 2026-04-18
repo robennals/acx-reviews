@@ -7,7 +7,7 @@ contestName: 2024 Book Reviews
 year: 2024
 publishedDate: '2026-02-06T16:47:15.592Z'
 slug: a-farewell-to-alms-a-brief-economic-history-of-the-world-by-gregory-clark
-wordCount: 2356
+wordCount: 2363
 readingTimeMinutes: 11
 originalUrl: >-
   https://docs.google.com/document/d/1AXmWgSbh_TFsoZuApSCSEoz57yn93CM5YYhtaO_s4W4
@@ -25,17 +25,17 @@ Breaking this question down into parts gets us the Drake equation we get an esti
 
 ![](https://acximages.ennals.org/images/2024-book-reviews/3595f5c7036b8764.png)
 
- Where:
+ Where:
 
-*   R\* is the rate of star formation per year
-*   ƒₚ is the fraction of stars with planets
-*   ⁿₑ s the number of Earth-like (or otherwise habitable) planets per system with planets
-*   ƒₗ is the fraction of such planets with life
-*   ƒᵢ is the fraction with life that develops intelligence
-*   ƒ꜀ is the fraction of intelligent civilizations that are detectable/contactable
-*   L is the average longevity of such detectable civilizations in years
+> *   R\* is the rate of star formation per year
+> *   ƒₚ is the fraction of stars with planets
+> *   ⁿₑ s the number of Earth-like (or otherwise habitable) planets per system with planets
+> *   ƒₗ is the fraction of such planets with life
+> *   ƒᵢ is the fraction with life that develops intelligence
+> *   ƒ꜀ is the fraction of intelligent civilizations that are detectable/contactable
+> *   L is the average longevity of such detectable civilizations in years
 
-Now the paradox comes in when we make reasonable assumptions with what we can guess. The first three parameters can be inferred with simple observation of what we think the range of an 'Earth-like' planet ought to be. Rocky planets in a habitable zone, one with a regular orbit and rotation, one that could support life are so numerous; So, "Where are they"?  
+Now the paradox comes in when we make reasonable assumptions with what we can guess. The first three parameters can be inferred with simple observation of what we think the range of an 'Earth-like' planet ought to be. Rocky planets in a habitable zone, one with a regular orbit and rotation, one that could support life are so numerous; So, "Where are they"?  
 
 Our models of planet formation and of our galaxy leave room for many, many of these planets to form. The sheer number of them makes the number of independent possibilities for life and the subsequent parameters to play out.
 
@@ -47,11 +47,11 @@ Now Earth is just barely detectable/contactable, we, in the past ~100 have only 
 
 So that leaves us with the three hardest parameters: life, intelligence, and civilization.
 
-However, the probability of life seems like it would be fairly high, on our own plant life seems to have gotten a foothold about as soon as the conditions on the early earth seem to permit general chemical functioning. Similarly, it seems that given any plant with life, a non-astronomically small number would give rise to intelligence. Many different animals on earth have evolved intelligence and many others exist in environments plentiful enough to sustain the energy needed for intelligence. This doesn't have to occur very often but remember, we started off with ... number of habitable planets, to get an estimate in the range of ~1 for the Milky Way there needs to be some process that is a lot less likely than we are giving credit for. Perhaps this is the probability of industrial civilization.  
+However, the probability of life seems like it would be fairly high, on our own plant life seems to have gotten a foothold about as soon as the conditions on the early earth seem to permit general chemical functioning. Similarly, it seems that given any plant with life, a non-astronomically small number would give rise to intelligence. Many different animals on earth have evolved intelligence and many others exist in environments plentiful enough to sustain the energy needed for intelligence. This doesn't have to occur very often but remember, we started off with ... number of habitable planets, to get an estimate in the range of ~1 for the Milky Way there needs to be some process that is a lot less likely than we are giving credit for. _**Perhaps this is the probability of industrial civilization.**_  
 
 ## An Economic History of the World
 
-Gregory Clark, in his book  \*A Farewell to Alms: A Brief Economic History of the World\* makes an attempt at "Big History one "...in the tradition of \*The Wealth of Nations\*, \*Das Kapital\*, \*The Rise of the Western World\*, and most recently \*Guns, Germs, and Steel\*. All these books, like this one, ask: How did we get here? Why did it take so long? Why are some rich and some poor? Where are we headed?” The primary goal is to explain the anomaly of the Industrial Revolution in light of the rather unknown workings of the past.
+Gregory Clark, in his book  \*A Farewell to Alms: A Brief Economic History of the World\* makes an attempt at "Big History one "...in the tradition of \*The Wealth of Nations\*, \*Das Kapital\*, \*The Rise of the Western World\*, and most recently \*Guns, Germs, and Steel\*. All these books, like this one, ask: How did we get here? Why did it take so long? Why are some rich and some poor? Where are we headed?” The primary goal is to explain the anomaly of the Industrial Revolution in light of the rather unknown workings of the past.
 
 Clark does not understate his claims; this is a book of "Big History." This an attempt to explain our world and how it came to be. Namely, why did the industrial revolution happen? Why are some countries developed where others are not? Why were the living conditions of 1850s England worse than that of hunter gathers?
 
@@ -77,7 +77,7 @@ So, in the long run as long as the death schedules and birth schedules stay the 
 
 ### Children
 
- Even population during population growth does the overall reproduction rate stay nearly constant.  The human population grew from about ~100,000 people in 130,000 BC to 770 million people by 1800, yet this growth only works out to 2.005 surviving children per woman!
+ Even population during population growth does the overall reproduction rate stay nearly constant.  The human population grew from about ~100,000 people in 130,000 BC to 770 million people by 1800, yet this growth only works out to 2.005 surviving children per woman!
 
 Below is a chart of this figure of european coutries. Considering that these contires have, in that period, a greater birth rate we find that there is a low
 
@@ -89,7 +89,7 @@ Malthusian times were not strictly awful for the people living in them. The equi
 
 One main way that human society have avoided this is by the restriction or at least non maximization of the birth rate. It is initially peculiar, in pretty much all human societies females reproduce less than their reproductive window allows A female wanting to maximize her reproductive schedule could theoretically produce XX offspring. If this were to happen in a Malthusian environment then we might expect human societies to mirror the ecology of animals more similarly; where much of the death is ultimacy caused by a lack of nutrients (see graphs of animal populations) What has sampling made humans different from other animals is that we don't fully maximize our reproduction; a hunter-gatherer society with a typical birth schedule and a fairly high death rate can live the high life, one of easy food procurement and long (after twenty ) life expectancy
 
-“In the preindustrial world sporadic technological advance produced people, not wealth.” (Clark, 2007, p. 32)  ![[Pasted image 20240504141338.png]]
+“In the preindustrial world sporadic technological advance produced people, not wealth.” (Clark, 2007, p. 32)  ![[Pasted image 20240504141338.png]]
 
 (Clark, 2007, p. 68)
 
@@ -115,7 +115,7 @@ The one constant of preindustrial growth is that there was no constant; societie
 
 There are many examples of this: consider the Chinese. China was arguably ahead of Europe a millennia ago.
 
-        When Marco Polo visited China in the 1290s he found that the Chinese were far ahead of the Europeans in technical prowess. Their oceangoing junks, for example, were larger and stronger than European ships. In them the Chinese sailed as far as Africa. The Portuguese, after a century of struggle, reached Calicut, India, in the person of Vasco da Gama in 1498 with four ships of 70–300 tons and perhaps 170 men. There they found they had been preceded years before by Zheng He, whose fleet may have had as many as three hundred ships and 28,000 men.16 Yet by the time the Portuguese reached China in 1514, the Chinese had lost the ability to build large oceangoing ships.
+When Marco Polo visited China in the 1290s he found that the Chinese were far ahead of the Europeans in technical prowess. Their oceangoing junks, for example, were larger and stronger than European ships. In them the Chinese sailed as far as Africa. The Portuguese, after a century of struggle, reached Calicut, India, in the person of Vasco da Gama in 1498 with four ships of 70–300 tons and perhaps 170 men. There they found they had been preceded years before by Zheng He, whose fleet may have had as many as three hundred ships and 28,000 men.16 Yet by the time the Portuguese reached China in 1514, the Chinese had lost the ability to build large oceangoing ships.
 
 The Chinese declined in other areas as well Marco Polo observed deep and sophisticated coal mines. Around that period, the Chinese measured time accuralty using water clocks. By 1600 these were not to be found by European visitors whose mechincial clocka amazed the Chinese who at that point reverted to pre prmitive methods of time keeping.
 
@@ -123,7 +123,7 @@ The Chinese declined in other areas as well Marco Polo observed deep and sophist
 
 Decline as happed even more fericly in the eample of the intuit and the Aboriginals. The Thule, the ancestors of the Inuit possesed a complex material culture. The hunted large sea mammals and lived in homes stocked with intricate artifiacts
 
-        Hunting of sea mammals in open water disappeared, or was restricted to smaller species. Winter was now spent in transient snow-houses, since the Inuit were unable to procure sufficient food supplies to winter in one location. Artifacts were simpler, and decorated or ornamental objects were produced in only a few areas. So marked was this difference that it took archaeologists a long time to accept that the Inuit were indeed the descendants of the Thule.
+Hunting of sea mammals in open water disappeared, or was restricted to smaller species. Winter was now spent in transient snow-houses, since the Inuit were unable to procure sufficient food supplies to winter in one location. Artifacts were simpler, and decorated or ornamental objects were produced in only a few areas. So marked was this difference that it took archaeologists a long time to accept that the Inuit were indeed the descendants of the Thule.
 
 ![[Pasted image 20240505165221.jpg]]
 
@@ -131,7 +131,7 @@ Decline as happed even more fericly in the eample of the intuit and the Aborigin
 
 Similar was the decline for the Aboriginals, much of the material culture of their ancestors, thier tools and other complexities no longer exist in thier culture. The knowelge that theri ansestores cane the to content by boat is forgotten. This forgetting happens to many isolated peoples
 
-Consider perhaps the longest example of this paradox: Madagascar. In the scope of the overall human time scale Madagascar was only settled recently, mere millennia ago. Anatomically modern humans existed as far back as 200,000 years ago, maybe even more. However, Madagascar was settles around 2000 years ago  This is quite the puzzle, how does it come to pass that after 200,000 years does the world's fourth largest island right off the coast of our ancestral homeland somehow get settled close to or even during the Roman Empire?
+Consider perhaps the longest example of this paradox: Madagascar. In the scope of the overall human time scale Madagascar was only settled recently, mere millennia ago. Anatomically modern humans existed as far back as 200,000 years ago, maybe even more. However, Madagascar was settles around 2000 years ago  This is quite the puzzle, how does it come to pass that after 200,000 years does the world's fourth largest island right off the coast of our ancestral homeland somehow get settled close to or even during the Roman Empire?
 
 It gets more perplexing, Africans, were if fact not the ones that first settled Madagascar, but the polypolnesianls. People who orginiated thouslans of miles away from the African coast. (add studies of Madagascar). Could it be the case that if humand never make it out of Africa by land we would have never made it out of Africa by sea?
 

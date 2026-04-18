@@ -7,7 +7,7 @@ contestName: 2022 Book Reviews
 year: 2022
 publishedDate: '2026-02-06T07:22:32.819Z'
 slug: epilogue
-wordCount: 1826
+wordCount: 1902
 readingTimeMinutes: 9
 originalUrl: >-
   https://docs.google.com/document/d/100kMdSVFviZSSBvUyyEQPMNlvLptVQxHFD9i9wGuBWs
@@ -16,61 +16,61 @@ tags:
   - Science
 ---
 
-We forgot one Jew along the way! Andrew Gelman is still alive and wants to say something. Gelman is a disciple of Rubin and his blog headline begins with “statistical modeling, causal inference” so he definitely has opinions on all this, which he expresses in [his own review of the Book of Why](https://statmodeling.stat.columbia.edu/2019/01/08/book-pearl-mackenzie/). He’s a bit upset that Pearl is so dismissive of statisticians, who he relegates as “stuck” on rung one, unable to ascend his fancy ladder. I thought this would be a good chance to see a potential outcome practitioner and Pearl actually get down to what’s the problem between them and start to agree, but of course there is no hope. If you want to see for yourself a discussion between experts, Pearl copy-pasted his debate with Gelman [on his blog](http://causality.cs.ucla.edu/blog/index.php/2019/01/15/more-on-gelmans-views-of-causal-inference/) for convenience, and there’s also [an older post by Gelman](https://statmodeling.stat.columbia.edu/2009/07/05/disputes_about/) with Pearl popping out in the comments to disagree, with [a recap by Gelman](https://statmodeling.stat.columbia.edu/2009/07/09/more_on_pearlru/). (But… do they disagree for real? Who knows! Ready the printing machine!) I’ll just cite here Pearl’s [commencing reaction](https://statmodeling.stat.columbia.edu/2019/01/08/book-pearl-mackenzie/#comment-943245) to Gelman’s review:
+We forgot one Jew along the way! Andrew Gelman is still alive and wants to say something. Gelman is a disciple of Rubin and his blog headline begins with “statistical modeling, causal inference” so he definitely has opinions on all this, which he expresses in [his own review of the Book of Why](https://statmodeling.stat.columbia.edu/2019/01/08/book-pearl-mackenzie/). He’s a bit upset that Pearl is so dismissive of statisticians, who he relegates as “stuck” on rung one, unable to ascend his fancy ladder. I thought this would be a good chance to see a potential outcome practitioner and Pearl actually get down to what’s the problem between them and start to agree, but of course there is no hope. If you want to see for yourself a discussion between experts, Pearl copy-pasted his debate with Gelman [on his blog](http://causality.cs.ucla.edu/blog/index.php/2019/01/15/more-on-gelmans-views-of-causal-inference/) for convenience, and there’s also [an older post by Gelman](https://statmodeling.stat.columbia.edu/2009/07/05/disputes_about/) with Pearl popping out in the comments to disagree, with [a recap by Gelman](https://statmodeling.stat.columbia.edu/2009/07/09/more_on_pearlru/). (But… do they disagree for real? Who knows! Ready the printing machine!) I’ll just cite here Pearl’s [commencing reaction](https://statmodeling.stat.columbia.edu/2019/01/08/book-pearl-mackenzie/#comment-943245) to Gelman’s review:
 
-Andrew,
-
-The hardest thing for people to snap out of is the bubble of their
-
-own language. You say:
-
-“I find it baffling that Pearl and his colleagues keep taking
-
-statistical problems and, to my mind, complicating them by
-
-wrapping them in a causal structure (see, for example, here).”
-
-No way! and again: No way! There is no way to answer causal questions
-
-without snapping out of statistical vocabulary.
-
-I have tried to demonstrate it to you in the past several
-
-years, but was not able to get you to solve ONE toy problem
-
-from beginning to end.
-
-This will remain a perennial stumbling block until one of your
-
-readers tries honestly to solve ONE toy problem from beginning to end.
-
-No links to books or articles, no naming of fancy statistical
-
-techniques, no global economics problems,
-
-just a simple causal question whose answer we know in advance.
-
-(e.g. take Simpson’s paradox: Which data should be consulted?
-
-The aggregated or the disaggregated?)
-
-Even this group of 73 Editors found it impossible, and have
-
-issued the following guidelines for reporting observational studies:
-
-[https://www.atsjournals.org/doi/pdf/10.1513/AnnalsATS.201808-564PS](https://www.atsjournals.org/doi/pdf/10.1513/AnnalsATS.201808-564PS)
-
-To readers of your blog: Please try it. The late Dennis Lindley
-
-was the only statistician I met who had the courage to admit:
-
-“We need to enrich our language with a do-operator”. Try it,
-
-and you will see why he came to this conclusion, and perhaps
-
-you will also see why Andrew is unable to follow him.
-
-JP
+> Andrew,
+>
+> The hardest thing for people to snap out of is the bubble of their
+>
+> own language. You say:
+>
+> “I find it baffling that Pearl and his colleagues keep taking
+>
+> statistical problems and, to my mind, complicating them by
+>
+> wrapping them in a causal structure (see, for example, here).”
+>
+> No way! and again: No way! There is no way to answer causal questions
+>
+> without snapping out of statistical vocabulary.
+>
+> I have tried to demonstrate it to you in the past several
+>
+> years, but was not able to get you to solve ONE toy problem
+>
+> from beginning to end.
+>
+> This will remain a perennial stumbling block until one of your
+>
+> readers tries honestly to solve ONE toy problem from beginning to end.
+>
+> No links to books or articles, no naming of fancy statistical
+>
+> techniques, no global economics problems,
+>
+> just a simple causal question whose answer we know in advance.
+>
+> (e.g. take Simpson’s paradox: Which data should be consulted?
+>
+> The aggregated or the disaggregated?)
+>
+> Even this group of 73 Editors found it impossible, and have
+>
+> issued the following guidelines for reporting observational studies:
+>
+> [https://www.atsjournals.org/doi/pdf/10.1513/AnnalsATS.201808-564PS](https://www.atsjournals.org/doi/pdf/10.1513/AnnalsATS.201808-564PS)
+>
+> To readers of your blog: Please try it. The late Dennis Lindley
+>
+> was the only statistician I met who had the courage to admit:
+>
+> “We need to enrich our language with a do-operator”. Try it,
+>
+> and you will see why he came to this conclusion, and perhaps
+>
+> you will also see why Andrew is unable to follow him.
+>
+> JP
 
 Wow, Pearl sounds so… cranky. He must be exasperated at statisticians not getting this stuff. And the only statistician who did died from the shock. But there are also his usual tone of biblical entitlement and the forced newlines that add a sophisticated touch of mysticism.
 
@@ -78,35 +78,35 @@ Anyway: in the end Gelman never solves Pearl’s toy problem because he thinks i
 
 I know that I’m not an expert, I’m just an anonymous internet dweller, but I hope to have at least tentatively convinced you in this review that it is possible to get down to the mathematical details and unify everything in a meaningful sense. (Yes I have shown only specific examples with binary variables for simplicity, but all the steps of the reasoning apply more generally.) This swamp of disagreement must be due to what programs these people are running in their heads. To investigate the matter, I rewatched [an old dialogue between Gelman and Yudkowsky](https://bloggingheads.tv/videos/2296). My violently uncharitable two-line paraphrase of their exchange is:
 
-Yudkowsky: Imagine the ideal Bayesian agent, the flow and trickle of probability mass over an infinite space, gliding over filaments of evidence, a never ending journey to the truth which had always been nowhere but at the center… How can we mere mortals ascend to that ideal?
-
-Gelman: Uhm, man, I dunno have you tried using more regressors? Last week I used 12 but sometimes I even go for 18. Have you checked that you don’t have coding errors in the model?
+> Yudkowsky: Imagine the ideal Bayesian agent, the flow and trickle of probability mass over an infinite space, gliding over filaments of evidence, a never ending journey to the truth which had always been nowhere but at the center… How can we mere mortals ascend to that ideal?
+>
+> Gelman: Uhm, man, I dunno have you tried using more regressors? Last week I used 12 but sometimes I even go for 18. Have you checked that you don’t have coding errors in the model?
 
 Gelman is clearly the human being of the situation, while Yudkowsky is… I don’t know what Yudkowsky is really and I don’t care now, so I’ll say instead that Pearl is the math nerd. Like he says in the Book of Why:
 
-When reading a scientific article, I often catch myself jumping from formula to formula, skipping the words altogether. To me, a formula is a baked idea. Words are ideas in the oven.
+> When reading a scientific article, I often catch myself jumping from formula to formula, skipping the words altogether. To me, a formula is a baked idea. Words are ideas in the oven.
 
-I guess that Gelman, judging by his blogging, thinks mostly verbally, and I have fun imagining Pearl applying his principle when he argues with Gelman, skipping everything that Gelman says. Another [mathy Pearl quote](https://statmodeling.stat.columbia.edu/2009/07/05/disputes_about/#comment-49482) closing a discussion is (emphasis mine):
+I guess that Gelman, judging by his blogging, thinks mostly verbally, and I have fun imagining Pearl applying his principle when he argues with Gelman, skipping everything that Gelman says. Another [mathy Pearl quote](https://statmodeling.stat.columbia.edu/2009/07/05/disputes_about/#comment-49482) closing a discussion is (emphasis mine):
 
-All,
-
-Well it has been fun. And, if I did not succeed
-
-in convincing anyone to convert to the dual-perspective
-
-camp, I hope I at least managed to convince you that
-
-causality is about the world – chimes, seat-belts, coins and bells,
-
-not about the method you use in your analysis and not
-
-about what this or that gurus said or did not say.
-
-Causality has been mathematized, so there is
-
-no more room for difference of opinion.
-
-\=======Judea Pearl
+> All,
+>
+> Well it has been fun. And, if I did not succeed
+>
+> in convincing anyone to convert to the dual-perspective
+>
+> camp, I hope I at least managed to convince you that
+>
+> causality is about the world – chimes, seat-belts, coins and bells,
+>
+> not about the method you use in your analysis and not
+>
+> about what this or that gurus said or did not say.
+>
+> **Causality has been mathematized, so there is**
+>
+> **no more room for difference of opinion.**
+>
+> \=======Judea Pearl
 
 This is from 2009 so he’s still relatively polite, he talks about the “dual-perspective camp” trying to play the syncretism card. But then he immediately doubles down with his punchline! OPINION IS NO MORE. I AM TRUTH. A typical phrase of wisdom that you have to tell kids is that “math is a universal language, it crosses all borders and differences, every mathematician can understand other mathematicians without ambiguity and they all give each other little kisses.” So while going home with his mother little Pearl is thinking “so if I want to show other people that I am right I just need to express everything into math, they won’t be able to deny my genius then!” The following day, little Pearl gets beaten and left bleeding in the courtyard.
 

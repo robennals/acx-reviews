@@ -20,7 +20,7 @@ tags:
   - History
 ---
 
-Impossible Histories: The Soviet Republic of Alaska, the United States of Hudsonia, President Charlemagne, and Other Pivotal Moments of History That Never Happened by Hal Johnson is a book of alternate history scenarios that tries to stand out among all the other books of alternate history scenarios by being both crazier and less crazy than the others.
+_Impossible Histories: The Soviet Republic of Alaska, the United States of Hudsonia, President Charlemagne, and Other Pivotal Moments of History That Never Happened_ by Hal Johnson is a book of alternate history scenarios that tries to stand out among all the other books of alternate history scenarios by being both crazier and less crazy than the others.
 
 When I say it’s less crazy, I mean that Johnson stops to give arguments why he posits the things he says would happen would happen. No good alternate history makes only arbitrary statements, but Johnson really tries to persuade you. I guess I don’t know if Japan really would have been worse off with no atom bombs dropped, or if Rome really would have not fallen if they had stopped taking hot baths, but Johnson marshals a bunch of evidence that any doubting Thomas would have to argue against.
 
@@ -32,19 +32,19 @@ Scurvy is cured for real -> Polar exploration is easier -> Amphibian fossils fou
 
 I see where you started out, there!
 
-I think the book contains a coded admission that sometimes it’s just going off on a flight of fancy. There are constant references to weird books from the occult section of the bookstore, such as David Hatcher Childress’ von Daniken-lite Technology of the Gods or Manly P. Hall’s The Secret Teachings of All Ages. Mixed in with the actual evidence Johnson marshals, which comes from history books, are bald assertions taken from poetry, the Bible, or comic books. I think he’s messing with us to make the scenarios more fun!
+I think the book contains a coded admission that sometimes it’s just going off on a flight of fancy. There are constant references to weird books from the occult section of the bookstore, such as David Hatcher Childress’ von Daniken-lite _Technology of the Gods_ or Manly P. Hall’s _The Secret Teachings of All Ages_. Mixed in with the actual evidence Johnson marshals, which comes from history books, are bald assertions taken from poetry, the Bible, or comic books. I think he’s messing with us to make the scenarios more fun!
 
 But also I think the book is crazy because it begins with a statement that alternate histories are literally impossible, and that Napoleon is no more likely to have invaded England in 1803 than Emily Dickinson was, even though Napoleon was ruler of a hostile power and Emily Dickinson wasn’t even born yet.
 
 In this review I’ll look at a couple of the scenarios that Johnson proposes, point out how likely (or crazy) I think they are, and close by examining the frame, represented by a philosophical prelude and a philosophical postlude.
 
-I should probably say from the start that I really enjoyed this book. Even where I disagreed with it, it always gave me something new to think about. When I thought I knew a lot about a topic, and expected the same few facts to be cited, Johnson found strange new sources to cite. He seems to have read everything, and is never ashamed to parade this fact. For example, to show how people romanticized war during the long century of peace before World War I, Johnson uses an obscure memoir by a big-game hunter, an obscure children’s book titled Uncle Sam’s Boys in the Ranks and an obscure story by Mary Shelley. To emphasize how hated Hirohito was in America during World War II, Johnson quotes a Woody Guthrie song, a comic book, a Burma Shave sign, Colliers Magazine, and (here comes the crazy part) Emperor Hirohito of Japan: Satan’s Man of Mystery Unveiled in the Light of Prophecy.
+I should probably say from the start that I really enjoyed this book. Even where I disagreed with it, it always gave me something new to think about. When I thought I knew a lot about a topic, and expected the same few facts to be cited, Johnson found strange new sources to cite. He seems to have read everything, and is never ashamed to parade this fact. For example, to show how people romanticized war during the long century of peace before World War I, Johnson uses an obscure memoir by a big-game hunter, an obscure children’s book titled _Uncle Sam’s Boys in the Ranks_ and an obscure story by Mary Shelley. To emphasize how hated Hirohito was in America during World War II, Johnson quotes a Woody Guthrie song, a comic book, a Burma Shave sign, _Colliers Magazine_, and (here comes the crazy part) _Emperor Hirohito of Japan: Satan’s Man of Mystery Unveiled in the Light of Prophecy_.
 
 Johnson mentions that he judges historians more on their prose style than their accuracy, and that comes as no surprise. For better or worse, he certainly leans on older writers: Gibbon, Hobbes and Hume, Washington Irving and Lord Macaulay. Johnson certainly tries to mimic them, and his prose is what they used to call pellucid. He’s never jokey but he’s often wry.
 
 Perhaps I should say he’s never jokey except when he’s quoting actual joke books, which I think he does four or five times.
 
-The scenarios
+_The scenarios_
 
 The book contains twenty scenarios, raging across the globe (including Antarctica) and going back as far as 432 BCE. None of them are the old standby “What if X and not Y had won the battle of…Gettysburg or Yorktown or w/e”, but several are the other old standby, “What if X died, or alternately did not die.” Some involve great events, like empires changing hands and such, and others are what you might call soft subjects, like a world without Romantic poetry or without Freud or without Harriet Beecher Stowe writing a book about Aaron Burr.
 

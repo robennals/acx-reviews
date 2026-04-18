@@ -7,7 +7,7 @@ contestName: 2025 Non Book Reviews
 year: 2025
 publishedDate: '2026-02-06T16:55:59.407Z'
 slug: which-sports-why-sports
-wordCount: 2163
+wordCount: 2166
 readingTimeMinutes: 10
 originalUrl: >-
   https://docs.google.com/document/d/1jYVJFIz5-aMi0LCgsC9AN6BncJDNVGaMU37QmwZ1vzA
@@ -20,9 +20,9 @@ Are you a sports person? If so, which ones and why? If not, what specific activi
 
 Three parts to this:
 
-1.  My brief philosophy. Why I care.
-2.  Practical overview. What could normal people do and how do I rate the available options?
-3.  Review of the major team sports in the US. Brief observations on fandom and the craziness of sports/humans.
+> 1.  My brief philosophy. Why I care.
+> 2.  Practical overview. What could normal people do and how do I rate the available options?
+> 3.  Review of the major team sports in the US. Brief observations on fandom and the craziness of sports/humans.
 
 *
 
@@ -48,11 +48,11 @@ On the other hand, the domains themselves are limited by their lack of complexit
 
 Granted I love each of these and go through phases. Breaking things down a little further, here are some ratings, first in the domain of running (1-5, where 5 is the highest score possible):
 
-## Road distance running: 4.0 (mix)
+## Road distance running: 4.0 (mix)
 
-## Trail running: 4.5 (spiritual)
+## Trail running: 4.5 (spiritual)
 
-## Sprint workouts: 4.5 (utilitarian)
+## Sprint workouts: 4.5 (utilitarian)
 
 Two factors leading to the high rating for trail. First, I absolutely love being engrossed in navigating a tricky patch of terrain while going as fast as I can. Danger lies with every step, which brings out a type of focus and presence for that moment that I find hard to match. And the second factor, less on the competitive side, is that I enjoy the nature aspect and the more chill environment that tends to accompany the trail scene. It's basically therapy to spend time running (or walking) in the woods.
 
@@ -136,7 +136,7 @@ The novel thing that I want to say is that I think playing football made me a be
 
 ## Basketball: 4.9
 
-Maybe I'm a little jaded or unrealistic in wanting to see more beautiful game, Spurs 2014 style-action, at all levels of play. I don't think I have many snob-like sympathies in my whole way of being throughout life, but basketball style of play is one those areas.
+Maybe I'm a little jaded or unrealistic in wanting to see more beautiful game, Spurs 2014 style-action, at all levels of play. I don't think I have many snob-like sympathies in my whole way of being throughout life, but basketball style of play is one those areas.
 
 You can tell a lot about a person by how they play a pickup basketball game. Most fail the test.
 

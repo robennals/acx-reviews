@@ -23,7 +23,7 @@ You’ve only got 150 miles left to go, but those are going to be a bit of a cho
 
 In 1978, Daniel Everett, trained linguist and missionary, came with his family to the river Maici. For the past 200 years of trade relations and missionary work, despite many, many attempts, no outsider had managed to acquire more than a basic knowledge of Pirahã, no Pirahã had learned more than a few words of any other language, and not a single Pirahã had converted to Christianity.
 
-In Don’t Sleep, There Are Snakes, Everett describes how he spent his entire professional life trying to figure out what was going on.
+In _Don’t Sleep, There Are Snakes_, Everett describes how he spent his entire professional life trying to figure out what was going on.
 
 How do you learn a language if there’s not a single bilingual speaker in the world? You point at things and write down everything you hear as accurately as you can.
 
@@ -31,7 +31,7 @@ Everett figures out very quickly why no outsider speaks Pirahã – even the bas
 
 [Here’s a very nice example](https://daneverettbooks.com/translation-for-an-interesting-piraha-text/), and if you strain your ears, you might even be able to relate a few words to their transcription!
 
-Pirahã, as it turns out, is an intensely tonal language. So intensely tonal, in fact, that stuff like consonants and vowels seem more like an afterthought and all the meaning you need can be conveyed just via pitch – in the book, Everett at one point uses musical notation. Pirahã speech can be hummed, whistled, yelled, sung. Outsiders aren’t exactly fans. “It sounds like they are crying all the time,” says one official of Brazil’s Indian Protection Service. The river traders just call them “little animals”.
+Pirahã, as it turns out, is an _intensely_ tonal language. So intensely tonal, in fact, that stuff like consonants and vowels seem more like an afterthought and all the meaning you need can be conveyed just via pitch – in the book, Everett at one point uses musical notation. Pirahã speech can be hummed, whistled, yelled, sung. Outsiders aren’t exactly fans. “It sounds like they are crying all the time,” says one official of Brazil’s Indian Protection Service. The river traders just call them “little animals”.
 
 In 1984, Everett writes a paper about the sound structure of Pirahã.
 
@@ -39,7 +39,7 @@ The difference between “unusual” and “unique” is immense. If you find so
 
 Everett begins to embark on his real heresy. He’s been around the Pirahãs for many years now, on and off, and he’s really starting to get the hang of the language. He’s also gotten familiar with the culture, and he noticed how different they are, both language- and culture-wise, from the other tribes in the area, often Christianized and adopting Western habits.
 
-Everett structures his stories about Pirahã life and his discussions of linguistics in a very clever way. Here’s an example: On multiple occasions, he accompanies them on hunting or foraging trips into the jungle and invariably gets lost; his companions find their way around with ease. Later, he talks about his frustrations trying to find out the terms for “left” and “right” – as usual, the answers he gets are contradictory and apparently random. The puzzle clicks into place when he eventually figures out that Pirahãs orient themselves not relative to their own body, but relative to the river Maici. The directions aren’t “left” and “right” and “forwards” and “back”: They are “upriver”, “downriver”, “into the jungle” and “to the river”. How clever is that? When you’re in the jungle, knowing where the river is is a question of life and death. If you have to express directions in absolute terms all the time, you learn orienteering from the moment you start talking, with the river as your fixed point of reference.
+Everett structures his stories about Pirahã life and his discussions of linguistics in a very clever way. Here’s an example: On multiple occasions, he accompanies them on hunting or foraging trips into the jungle and invariably gets lost; his companions find their way around with ease. Later, he talks about his frustrations trying to find out the terms for “left” and “right” – as usual, the answers he gets are contradictory and apparently random. The puzzle clicks into place when he eventually figures out that Pirahãs orient themselves not relative to their own body, but _relative to the river Maici._ The directions aren’t “left” and “right” and “forwards” and “back”: They are “upriver”, “downriver”, “into the jungle” and “to the river”. How clever is _that_? When you’re in the jungle, knowing where the river is is a question of life and death. If you have to express directions in absolute terms all the time, you learn orienteering from the moment you start talking, with the river as your fixed point of reference.
 
 And the river is pretty much a fixed point of reference. From a certain perspective, Pirahã society looks a bit like what happens when you just keep asking “Do you really need…?”
 
@@ -55,7 +55,7 @@ Everett respects and admires the Pirahãs enough to resist all notions of the �
 
 This is what an average life expectancy of 45 years looks like in practice.
 
-It’s pretty obvious that culture and vocabulary influence each other. For instance, a complete gibberish phrase like “I updated my priors” would only make sense if you worked for the Vatican, maintaining the personnel database of various monastic orders. Possible interactions between culture and grammar however, the underlying structures of language, the rules that determine how content is carried - that’s a lot more contentious.
+It’s pretty obvious that culture and vocabulary influence each other. For instance, a complete gibberish phrase like “I updated my priors” would only make sense if you worked for the Vatican, maintaining the personnel database of various monastic orders. Possible interactions between culture and _grammar_ however, the underlying structures of language, the rules that determine how content is carried - that’s a lot more contentious.
 
 Back in the 70s, the ever ongoing nature-vs-nurture-debate had, in the field of linguistics, swung all the way to “nature”, and Noam Chomsky’s theories of grammar had revolutionized the field.
 
@@ -67,9 +67,9 @@ The Pirahãs have never heard of the grand theories about how human beings are s
 
 There are no creation myths - or any other myths. No folk tales, no fiction. There’s no gods. There’s spirits in the forest. Sometimes, only the Pirahãs can see them. Sometimes, the spirits will speak through an individual. The spirits seem not entirely otherworldly. They can give advice or threaten, help or hinder, give suggestions or advice, but also:
 
-“This kaoáíbógí also likes sex, and he frequently talks about his desire to copulate with village women, with considerable detail provided.”
+“This _kaoáíbógí_ also likes sex, and he frequently talks about his desire to copulate with village women, with considerable detail provided.”
 
-(My copy of The Origin of Consciousness in the Breakdown of the Bicameral Mind is staring at me as I write this, somehow looking smug.)
+(My copy of _The Origin of Consciousness in the Breakdown of the Bicameral Mind_ is staring at me as I write this, somehow looking smug.)
 
 The Pirahãs don’t do art or decorations of any kind. They wear a few stones for spirit-related purposes, but apparently with no regards to aesthetics. They do bury their dead, but there’s no rituals connected to their funerals. They grieve, they move on.
 
@@ -81,7 +81,7 @@ Their relationship to knowledge and truth can be described as Holmesian - from t
 
 That’s a Pirahã attitude.
 
-Proponents of Universal Grammar see recursion, the “infinite use of finite means”,  as the one non-negotiable difference between human speech and mere animal communication, and it has to be on the level of grammar - clauses, phrases, words. Every human language needs to be able to generate sentences of arbitrary length (e.g. “the cat ate the rat that ate a rat that ate a rat” etc.).
+Proponents of Universal Grammar see recursion, the “infinite use of finite means”,  as the one non-negotiable difference between human speech and mere animal communication, and it has to be on the level of grammar - clauses, phrases, words. Every human language needs to be able to generate sentences of arbitrary length (e.g. “the cat ate the rat that ate a rat that ate a rat” etc.).
 
 Neither Everett nor I are sure why that’s so important, but here is the absolute focal point of all controversy about his research. Because he finds no instances of recursion. No relative clauses, nothing so much as a second verb in a phrase.
 
@@ -91,7 +91,7 @@ Everett talks about a lot of his views in opposition to Chomsky and Chomsky-ish 
 
 “Declarative Pirahã utterances contain only assertions related directly to the moment of speech, either experienced by the speaker or witnessed by someone alive during the lifetime of the speaker.”
 
-This rule is grammatical as much as it is cultural: We don’t talk abstractions. Their unique lack of creation myths follows naturally. Nobody you know saw the world being made, so it’s not relevant. Everything that is not clearly referenced to the here and now goes out the window - and with it colors and counting.  With it, worries about the future, notions of the divine or ideas of the afterlife. And do you really need…?
+This rule is grammatical as much as it is cultural: We don’t talk abstractions. Their unique lack of creation myths follows naturally. Nobody you know saw the world being made, so it’s not relevant. Everything that is not clearly referenced to the here and now goes out the window - and with it colors and counting.  With it, worries about the future, notions of the divine or ideas of the afterlife. And do you really need…?
 
 It is a compelling argument: Your language will be able to express everything that’s relevant to your culture. If you don’t need abstraction because there’s nothing to count and nothing to plan for, nothing abstract you need to talk about, your language won’t have many ways to communicate abstract concepts.
 

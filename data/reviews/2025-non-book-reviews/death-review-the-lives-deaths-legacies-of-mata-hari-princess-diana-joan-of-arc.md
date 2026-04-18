@@ -19,7 +19,7 @@ tags:
   - Philosophy
 ---
 
-Plutarch wrote Lives to compare great men. Let us turn to death and review great women. In Joan of Arc, Mata Hari, and Princess Diana, we find not just historical figures but powerful myths of the saint, the whore, and the princess, whose struggles with power, survival, and authenticity only became clear once they were gone.
+Plutarch wrote _Lives_ to compare great men. Let us turn to death and review great women. In Joan of Arc, Mata Hari, and Princess Diana, we find not just historical figures but powerful myths of the saint, the whore, and the princess, whose struggles with power, survival, and authenticity only became clear once they were gone.
 
 Joan of Arc, Mata Hari, and Princess Diana each represent a distinct path in the feminine experience: the Maiden, the Vixen, and the Damsel. Below is a look into their inner lives, moral journeys, and reviews of those travels as reflections for our own, inviting us to think about the choices that shape who we become; whether to stand, bend, or break.
 
@@ -31,7 +31,7 @@ Princess Diana lived a life of public adoration and personal struggles. Born int
 
 By comparing their lives and deaths, we learn that each journey carries its own lessons. Joan shows us the value of inner strength and sacrifice, Mata Hari warns against the perils of hiding behind sexual power, and Diana challenges us to turn vulnerability into more genuine empowerment. Their stories call on us to examine our own paths and strive to build identities that are both true and resilient.
 
-Programming Note: Unlike Plutarch, I’m not going to go through the lives of these three women in an academic and distanced way. Such truths are better done by the biographers. Instead, I wanted to try out, with your permission, a more intimate method. I’m going to write vignettes of the critical moral junctures in their lives. Episodes that are up close; that are in the room. The places where their lives diverged, often over a single decision. To be clear, I am trying to maintain as much truth as we can know, but this method incurs heavy speculation. I hope you will agree that this better fits the aim.  
+Programming Note: Unlike Plutarch, I’m not going to go through the lives of these three women in an academic and distanced way. Such truths are better done by the biographers. Instead, I wanted to try out, with your permission, a more intimate method. I’m going to write vignettes of the critical moral junctures in their lives. Episodes that are up close; that are in the room. The places where their lives diverged, often over a single decision. To be clear, I am trying to maintain as much truth as we can know, but this method incurs _heavy_ speculation. I hope you will agree that this better fits the aim.  
 
 ## Three Deaths
 
@@ -107,7 +107,7 @@ She doesn't notice how the hotel staff lingers near her door. How the switchboar
 
 That evening, she dresses for dinner. A Spanish diplomat who can smooth her passage. She descends the grand staircase like a queen, unhurried. No one would guess she's running.
 
-She doesn’t see the telegram sent minutes after she leaves, about the warning for British port authorities to watch for her on the Zeelandia, to arrest her, to take her to London, and to make Scotland Yard loosen her lips yet again.
+She doesn’t see the telegram sent minutes after she leaves, about the warning for British port authorities to watch for her on the _Zeelandia_, to arrest her, to take her to London, and to make Scotland Yard loosen her lips yet again.
 
 In the taxi, she exhales, thinking herself the master of her fate.
 

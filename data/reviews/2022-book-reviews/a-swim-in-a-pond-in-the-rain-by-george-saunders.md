@@ -7,7 +7,7 @@ contestName: 2022 Book Reviews
 year: 2022
 publishedDate: '2026-02-06T07:24:08.688Z'
 slug: a-swim-in-a-pond-in-the-rain-by-george-saunders
-wordCount: 1520
+wordCount: 1529
 readingTimeMinutes: 7
 originalUrl: >-
   https://docs.google.com/document/d/1pRQbRbEUwSH_jm94PI_ij-88swat7vQ4iNaNp6gd39g
@@ -20,7 +20,7 @@ Shit. What a story!
 
 Why are some stories, movies, blog posts or e-mails better than the others?
 
-[George Saunders](https://en.wikipedia.org/wiki/George_Saunders) teaches creative writing at Syracuse University for over two decades. [A Swim in a Pond in the Rain](https://www.goodreads.com/book/show/53487237-a-swim-in-a-pond-in-the-rain) (Goodreads: 4.57, 7.8k ratings) was published in 2021 and is about four Russians (Chekhov, Turgenev, Tolstoy and Gogol) giving “a master class on writing, reading, and life.”
+[George Saunders](https://en.wikipedia.org/wiki/George_Saunders) teaches creative writing at Syracuse University for over two decades. [A Swim in a Pond in the Rain](https://www.goodreads.com/book/show/53487237-a-swim-in-a-pond-in-the-rain) (Goodreads: 4.57, 7.8k ratings) was published in 2021 and is about four Russians (Chekhov, Turgenev, Tolstoy and Gogol) giving _“a master class on writing, reading, and life.”_
 
 Saunders practises what he teaches; he has won several awards for his short stories and is also a winner of prestigious Booker Prize for his 2017 debut novel [Lincoln in the Bardo](https://www.goodreads.com/book/show/29906980-lincoln-in-the-bardo).
 
@@ -28,10 +28,10 @@ Saunders practises what he teaches; he has won several awards for his short stor
 
 Everyone who would like:
 
-*   to understand what makes a good story, a movie, an article or a blog post,
-*   to learn about the art of writing,
-*   to get an expert insight of why and how good stories work and
-*   to read and watch better.
+> *   to understand what makes a good story, a movie, an article or a blog post,
+> *   to learn about the art of writing,
+> *   to get an expert insight of why and how good stories work and
+> *   to read and watch better.
 
 ![](https://acximages.ennals.org/images/2022-book-reviews/0ea15e27597bb7e8.png)
 
@@ -47,7 +47,7 @@ Revision, precision and years of f\*cking hard work. This is what it takes. Ok, 
 
 ### 1\. Good story = escalation + pattern + causality
 
-My interpretation in a nutshell: A good story has well developed patterns, an intelligent causality and is always escalating.
+My interpretation in a nutshell: _A good story has well developed patterns, an intelligent causality and is always escalating._
 
 If you’d set out to visualise this, you take Freytag’s pyramid as a base, ok, and then you show everyone you are no good in drawing by adding patterns and causality.
 
@@ -67,7 +67,7 @@ The difference is in what way the escalation hits us; on the surface, or does it
 
 A story is a conversation between the writer and the reader. Should the writer annoy the reader, well, she will stop reading.
 
-Good stories establish a pattern and "we expect it to recur. When it does recur, slightly altered, we take pleasure in this and infer meaning from the alteration."
+Good stories establish a pattern and _"we expect it to recur. When it does recur, slightly altered, we take pleasure in this and infer meaning from the alteration."_
 
 Remember the last time you expected something to happen, and it in fact happened, but was slightly different than expected? I bet you felt good! In that movie, remember, you anticipated XYZ, so smart of you, it happened, but differently. Maybe you said ‘wow,’ touched his hand, gasped loudly or even cried? You kept it for yourself, because you are more of an introvert? Also fine! Bottom line: it made you feel.
 
@@ -83,18 +83,18 @@ You look ahead. There is another door; dominos again. (What will happen in this 
 
 “There must have been a retard at work here,” you think before you see another door… ok, enough.
 
-Obviously "the problem is not in making things happen but in making one thing seem to cause the next." This is harder than dominos and requires a lot of hard work and probably talent?
+Obviously _"the problem is not in making things happen but in making one thing seem to cause the next."_ This is harder than dominos and requires a lot of hard work and probably talent?
 
 Causality is to the writer what melody is to the songwriter: a superpower that the audience feels as the crux of the matter; the thing the audience actually shows up for; the hardest thing to do; that which distinguishes the competent practitioner from the extraordinary one.
 
 ### 2\. A good story is a black box with perfect interior and an Answer
 
-A story puts you in a big black box with a door. You will leave a good one changed, because what happens in there is “thrilling and non-trivial.” Everything in this box, each object, everything you take in your hands makes sense and is there for a reason. Every time you enter you discover and see things anew.
+A story puts you in a big black box with a door. You will leave a good one changed, because what happens in there is _“thrilling and non-trivial.”_ Everything in this box, each object, everything you take in your hands makes sense and is there for a reason. Every time you enter you discover and see things anew.
 
 If I paraphrase Cornfeld (ibid.); in a good movie you will notice that every scene does two things:
 
-1.  it is entertaining in its own way and
-2.  it advances the story in a non-trivial way.
+> 1.  it is entertaining in its own way and
+> 2.  it advances the story in a non-trivial way.
 
 Writer is like an architect and interior designer; he/she first sets the structure, and then designs the interior. For “The Darling” Chekhov defines the black box:
 
@@ -106,7 +106,7 @@ Really? How about we test that supposition? Hmm. How to do that? Oh, I know: kil
 
 Reader will ask a question (what will happen with her second love?) and the story will answer. The structure (elements in the black box) will be specific and meaningful. Some stories will be revised a thousand times or the master will make it happen immediately, but only because he built hundreds of black boxes in decades (“Aljosha the pot” by Tolstoy).
 
-3\. Accept your voice and make it louder and louder
+**3\. Accept your voice and make it louder and louder**
 
 Saunders explains how he aspired to write like Hemingway, but after some time accepted that at most, he can only become a hemingwayish side-kick. He accepted he is George and hoped for the best:
 
@@ -120,19 +120,19 @@ How would you open? Saunders goes:
 
 Jesus. Who could be calling so early?
 
-This is his voice and I find it beautiful. Short and it makes me want to see the next sentence. But, please, it is not the right way, it is the right way for Saunders’ voice. Finding your voice is hard. You need to listen carefully and encourage it to grow louder and louder.
+This is his voice and I find it beautiful. Short and it makes me want to see the next sentence. But, please, it is not _the right way_, it is the right way for Saunders’ voice. Finding your voice is hard. You need to listen carefully and encourage it to grow louder and louder.
 
 ### My personal experience / How did it change me?
 
 This was a powerful; I already re-read a couple of the stories. I am not gonna lie, I did not like all of them first time. What helped me appreciate them more was when Saunders took me backstage, “Look there, do you see? This is why and this is how.” Sound structure and beautiful design.
 
-As instructed I went and compared two stories from Tolstoy to see what 39 years of working on your craft does. And, my God, it does.[1](https://eightyfour.substack.com/#footnote-1)
+As instructed I went and compared two stories from Tolstoy to see what 39 years of working on your craft does. And, my God, _it does.__[1](https://eightyfour.substack.com/#footnote-1)_
 
 For my own writing:
 
-*   using the word “shit” is fine, because it’s a part of my voice,
-*   commitment to revise sentences, paragraphs and storyline is a virtue, not a problem,
-*   each sentence should help the reader to read on; read your writing (can also be a simple e-mail!) like a reader would.
+> *   using the word “shit” is fine, because it’s a part of my voice,
+> *   commitment to revise sentences, paragraphs and storyline is a virtue, not a problem,
+> *   each sentence should help the reader to read on; read your writing (can also be a simple e-mail!) like a reader would.
 
 ### Closing remarks
 

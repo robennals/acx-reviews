@@ -43,7 +43,7 @@ The mostly still accepted story of the origins of WW2 satisfies the human desire
 
 Structure: A Few Highlighted Topics and a Conclusion
 
-Following is a taste of Taylor’s thoughts on some of the more important topics in his book. The selection is entirely of my own creation and is not meant to be comprehensive in any respect. I think of these highlights as a series of amuses bouches, tasty on their own, but chiefly designed to whet the reader’s appetite to read the entire book.  
+Following is a taste of Taylor’s thoughts on some of the more important topics in his book. The selection is entirely of my own creation and is not meant to be comprehensive in any respect. I think of these highlights as a series of amuses bouches, tasty on their own, but chiefly designed to whet the reader’s appetite to read the entire book.  
 
 At the end of this review are my conclusions on Taylor’s central thesis and some applicable takeaways from his methods.
 
@@ -51,7 +51,7 @@ At the end of this review are my conclusions on Taylor’s central thesis and so
 
 p. xx “The one thing [Hitler] did not plan for was the great war often attributed to him. Pretending to prepare for a great war and not in fact [preparing for] it was an essential part of Hitler’s political strategy; and those who sounded the alarm against him, such as Churchill, unwittingly did his work for him.”
 
-p. xx “Hitler gave orders, which Germans executed, of a wickedness without parallel in civilized history.  Same page, later: “Hitler would have counted for nothing without the support and the cooperation of the German people.”
+p. xx “Hitler gave orders, which Germans executed, of a wickedness without parallel in civilized history.  Same page, later: “Hitler would have counted for nothing without the support and the cooperation of the German people.”
 
 p. xxviii “In international affairs, there was nothing wrong with Hitler except he was a German.”
 
@@ -85,7 +85,7 @@ This fear was magnified by Hitler’s false claims of vast air superiority. Hitl
 
 Therefore, Britain and France had every reason to believe Hitler’s claims. This false belief was unwittingly aided by Winston Churchill who consistently argued against appeasement and used the German claims of air superiority to bolster his arguments. Fear that “the bomber will always get through” certainly contributed to the Allies’ fear of war.
 
-If French military capability was overrated, then Soviet military capability was underrated.  Given Stalin’s military purges of the 1930s and the overall notion that Communists were interested chiefly in revolution, not war, the value of USSR military strength was heavily discounted. The USSR had suffered a complete defeat in 1917 at the hands of Germany and had given up vast swaths of its territory in return for peace. In a future war, there was no reason to expect a different result. As well, Soviet military arrangements were, in Churchill’s famous general formulation about the USSR, “a riddle, wrapped in a mystery, inside an enigma”.
+If French military capability was overrated, then Soviet military capability was underrated.  Given Stalin’s military purges of the 1930s and the overall notion that Communists were interested chiefly in revolution, not war, the value of USSR military strength was heavily discounted. The USSR had suffered a complete defeat in 1917 at the hands of Germany and had given up vast swaths of its territory in return for peace. In a future war, there was no reason to expect a different result. As well, Soviet military arrangements were, in Churchill’s famous general formulation about the USSR, “a riddle, wrapped in a mystery, inside an enigma”.
 
 Therefore, well into the 1930s, Britain and France considered Stalin and Communism to be more of a danger, at least ideologically, than they did Hitler and Nazism. “Better Hitler than Stalin” was a notion shared by right wing politicians in both Allied countries. And some French conservatives took it one step further to say, “Better Hitler than Blum,” referring to Leon Blum, the left wing, Jewish French leader in the mid 1930s. No one would have imagined that during World War Two, the USSR would end up being responsible for around three-quarters of all German battlefield deaths. Or that it would emerge from the war as both the country chiefly responsible for the defeat of Nazi Germany as well as the dominant military power on the continent of Europe.
 
@@ -95,11 +95,11 @@ Mistaken beliefs and estimates informed European foreign policy throughout the 1
 
 Note: A.J.P. Taylor was himself an anti-appeaser in the 1930s.
 
-p. 189 “The settlement at Munich was a triumph for British policy, which had worked precisely to this end; not a triumph for Hitler who had started with no such clear intention. Nor was it merely a triumph for selfish or cynical British statesmen, indifferent to the fate of far-off peoples or calculating that Hitler might be launched into war against Soviet Russia. It was a triumph for all that was best and most enlightened in British life; a triumph for those who had preached equal justice between peoples; a triumph for those who had courageously denounced the harshness and short-sightedness of Versailles.”  
+p. 189 “The settlement at Munich was a triumph for British policy, which had worked precisely to this end; not a triumph for Hitler who had started with no such clear intention. Nor was it merely a triumph for selfish or cynical British statesmen, indifferent to the fate of far-off peoples or calculating that Hitler might be launched into war against Soviet Russia. It was a triumph for all that was best and most enlightened in British life; a triumph for those who had preached equal justice between peoples; a triumph for those who had courageously denounced the harshness and short-sightedness of Versailles.”  
 
 Is Taylor being sincere or sarcastic/ironic? I think both.
 
-Sincere in that British appeasement (conciliation) of Germany had been a consistent policy for a decade and a half, up to and, most of all, including Munich. Sincere in that Taylor believed that conciliation was a misguided, yet genuine and even noble policy. Chamberlain was willing to gamble for peace. Or, expressed by Chamberlain’s foreign minister Halifax in probabilistic terms, Britain refused to sympathize with “an argument in favour of a certain war now, against the possibility of war, perhaps in more unfavorable circumstances later (p. 172.)”  
+Sincere in that British appeasement (conciliation) of Germany had been a consistent policy for a decade and a half, up to and, most of all, including Munich. Sincere in that Taylor believed that conciliation was a misguided, yet genuine and even noble policy. Chamberlain was willing to gamble for peace. Or, expressed by Chamberlain’s foreign minister Halifax in probabilistic terms, Britain refused to sympathize with “an argument in favour of a certain war now, against the possibility of war, perhaps in more unfavorable circumstances later (p. 172.)”  
 
 Sincere also in that Taylor believed the worst of all policies was vacillation between confrontation and appeasement, an inconstancy which he believed was most likely to result in war. Using a current idiom, he might have said, “Pick one lane or the other.”
 
@@ -141,15 +141,15 @@ The calendar ticked ahead, Hitler felt he could not back down empty handed of an
 
 Some general takeaways from Taylor about history and war:
 
-1)        The course of actual events leads us to overestimate the extent to which governments and their leaders act upon firm, well-thought out plans vs. reacting in real time to events, some expected, many surprising.
+1)        The course of actual events leads us to overestimate the extent to which governments and their leaders act upon firm, well-thought out plans vs. reacting in real time to events, some expected, many surprising.
 
-2)        We also overestimate the certainty of outcomes. “Man plans, god laughs” is a Yiddish aphorism we would do well to always hold close to mind.
+2)        We also overestimate the certainty of outcomes. “Man plans, god laughs” is a Yiddish aphorism we would do well to always hold close to mind.
 
-3)        In no field of human endeavor should the unexpected be more expected than in war.
+3)        In no field of human endeavor should the unexpected be more expected than in war.
 
-4)        In diplomacy, democracies and dictatorships differ significantly in that democratically elected leaders will always take account of domestic public opinion in their decision making. This can either be a welcome constraint or a recipe for inconstancy in policy.
+4)        In diplomacy, democracies and dictatorships differ significantly in that democratically elected leaders will always take account of domestic public opinion in their decision making. This can either be a welcome constraint or a recipe for inconstancy in policy.
 
-5)        Inconstancy, whether by democracies or dictatorships, naturally leads to inaccurate assessments by adversaries, which in turn can lead to war.
+5)        Inconstancy, whether by democracies or dictatorships, naturally leads to inaccurate assessments by adversaries, which in turn can lead to war.
 
 How well has Taylor’s take on the cause of the September 1939 war held up? After all, troves of documents not available to Taylor in 1960 have been released, and history generally becomes clearer with the perspective of more time.
 
@@ -157,7 +157,7 @@ Taylor’s assertion that Hitler did not seek the specific war that started in 1
 
 Taylor was careful not to claim that Hitler could have been prevented from starting any war. And on this point, I think it is correct to go beyond the confines of Hitler as a statesman in the 1930s and recognize the messianic nature of Hitler’s hatred of Jews and Slavs. It seems clear to me that if war had been averted in 1939, the chances that any European war could have been avoided are slight, and that in all likelihood war would have been started by Hitler. Holding aside the chance of no war at all, the question remains where, when, and with whom would a different war have been fought. Perhaps a different war would have saved millions of lives; perhaps it would have been worse, although hard to imagine.
 
-However that may be, as Winston Churchill so poignantly and beautifully said in his eulogy for Chamberlain in late 1940:  
+However that may be, as Winston Churchill so poignantly and beautifully said in his eulogy for Chamberlain in late 1940:  
 
 “It is not given to human beings, happily for them, for otherwise life would be intolerable, to foresee or to predict to any large extent the unfolding course of events. In one phase men seem to have been right, in another they seem to have been wrong. Then again, a few years later, when the perspective of time has lengthened, all stands in a different setting.”
 

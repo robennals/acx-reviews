@@ -7,7 +7,7 @@ contestName: 2025 Non Book Reviews
 year: 2025
 publishedDate: '2026-02-06T16:55:59.407Z'
 slug: we-should-never-have-gone-to-mammoth-caves
-wordCount: 5216
+wordCount: 5219
 readingTimeMinutes: 24
 originalUrl: >-
   https://docs.google.com/document/d/1jYVJFIz5-aMi0LCgsC9AN6BncJDNVGaMU37QmwZ1vzA
@@ -128,7 +128,7 @@ The bus ride was 20 minutes or so, which felt interminable. The tour guide tried
 
 The park ranger then stood up in front of us all and proceeded to give us ANOTHER safety talk. Honestly, up to this point, I felt for the guy. Safety talks like this are usually born out of necessity because there were actual examples of kids falling down holes or old people passing out in dark caverns full of stale air. Fine. You have to cover your ass. But then…then he lost me.
 
-He proceeded to explain that he was actually a substitute tour guide. The guy who usually led the tour was a geologist and so it was usually really focused on the geology and science of the caves. Our substitute guide, however, was not a scientist but instead a historian and, according to him, the tour would be way less boring because of it. None of that science stuff, but so much of the rich and interesting history!
+He proceeded to explain that he was actually a substitute tour guide. The guy who usually led the tour was a geologist and so it was usually really focused on the geology and science of the caves. Our substitute guide, however, was not a scientist but instead a historian and, according to him, the tour would be way less boring because of it. None of that _science stuff_, but so much of the rich and interesting history!
 
 So…you know what the only truly interesting thing about caves is? THE GEOLOGY. That’s it. You go into these things to look around at cool rock formations and, if you are a nerd like me (and if you signed up to go tour a cave, you probably are at least somewhat of a nerd like me), you are interested in understanding things like mineral deposits and what causes all the colors in the formations. There are all kinds of different forms of rocks down there and they tell a story about the formation and evolution of the planet. If taught to you by someone who loves it, this isn’t boring. And honestly, if you’re bored thinking about the science of this grandiose cavern you’re standing in, then you’re the one who’s boring.
 
@@ -166,13 +166,13 @@ In all honesty, the caves really were beautiful and ultimately worth seeing. Had
 
 Admittedly, I haven’t looked into all this geology I keep saying I want to know about, and honestly, that’s because I would prefer someone who is into it tell me about it. Sure, I can read a book, but I like a performance. Having someone tell you about something they love because they want you to know about it (and not because they want you to know they know about it) is a superior form of education for me and I will take it every time. And I will both remember you and I will remember the content you shared for years to come what it is told to me with passion!
 
-For instance, recently my husband and I were at our town’s annual charity poker tournament and this guy shows up whom we hadn’t seen in like a decade or more. I couldn’t for the life of me remember his name, but I remembered his face and one very peculiar thing about him. I leaned over to my husband and said “Hey, isn’t that the guy who used to hang out with our friend who did his entire graduate thesis about James K. Polk?” “What?” “Yeah, that was the guy who was just really into Polk. I talked to him about him for an hour once at a party!” Later, this particular gentleman sat at my husband’s table and he took the opportunity to find out if this was the Polk guy and he was! And I think he was impressed and a bit honored that this was how we remembered him. So, this is my point: sharing things you care about with passion is how you connect  and get through to others. In this case, literally no one else in my entire life other than my 11th grade history teacher ever mentioned James K. Polk in conversation. And certainly no one else had ever spoken about him with such interest. This guy’s Polk conversation with me at that part in, like 2011, made such an impression on me, that a few years later when on a cross-country road trip, we had the opportunity to stop and look at Polk’s tomb sitting there in the middle of Nashville and we went “Hell yeah! That dude told us Polk was a pretty interesting guy!” And it was only fair since we had visited Taft’s house a few days earlier.
+For instance, recently my husband and I were at our town’s annual charity poker tournament and this guy shows up whom we hadn’t seen in like a decade or more. I couldn’t for the life of me remember his name, but I remembered his face and one very peculiar thing about him. I leaned over to my husband and said “Hey, isn’t that the guy who used to hang out with our friend who did his entire graduate thesis about James K. Polk?” “What?” “Yeah, that was the guy who was just really into Polk. I talked to him about him for an hour once at a party!” Later, this particular gentleman sat at my husband’s table and he took the opportunity to find out if this was the Polk guy and he was! And I think he was impressed and a bit honored that this was how we remembered him. So, this is my point: sharing things you care about with passion is how you connect  and get through to others. In this case, literally no one else in my entire life other than my 11th grade history teacher ever mentioned James K. Polk in conversation. And certainly no one else had ever spoken about him with such interest. This guy’s Polk conversation with me at that part in, like 2011, made such an impression on me, that a few years later when on a cross-country road trip, we had the opportunity to stop and look at Polk’s tomb sitting there in the middle of Nashville and we went “Hell yeah! That dude told us Polk was a pretty interesting guy!” And it was only fair since we had visited Taft’s house a few days earlier.
 
 As for the review part of this review, I feel that many elements need to be rated separately:
 
-*   The Caves Themselves: 4 out of 5 stars
-*   The Tour Guide: 2 out of 5 stars
-*   The Rest of the People on the Tour: 2 out of 5 stars
+> *   The Caves Themselves: 4 out of 5 stars
+> *   The Tour Guide: 2 out of 5 stars
+> *   The Rest of the People on the Tour: 2 out of 5 stars
 
 As mentioned earlier, the caves themselves were pretty excellent. I gave 4 out of 5 stars because the really cool stuff took a while to get to. This is different than, say, Yosemite, where the minute you drive into the valley there you are greeted with breathtaking views of El Capitan and Half Dome.
 
@@ -194,7 +194,7 @@ Endnotes
 
 [4]But for context, the Lafitte Swamp National Park visit was considerably better than our visit to Mammoth Caves. That’s right: a swamp park in 90 degree weather in 100% relative humidity, where alligators just kind of hung out with their prehistoric killing machine mouths inches away from visitors’ feet, where I came dangerously close to passing out under the weight of my physical condition and poor decisions, was more enjoyable and enriching than the G-D cave tour.
 
-[5] OK, not actually, but his LEGACY did it…it was actually finally made a national park in 1941, so it was a different Roosevelt who gets the credit, I guess.
+[5] OK, not actually, but his LEGACY did it…it was actually finally made a national park in 1941, so it was a different Roosevelt who gets the credit, I guess.
 
 [6]Insert “Pun Husky Meme” here.
 
@@ -202,6 +202,6 @@ Endnotes
 
 [8] I am a simple person with simple pleasures and I laughed for many, many minutes at the concept of paleofeces.
 
-[9] I was disappointed that I found no history of note about the caves during the Civil War because I really hoped that there would be a tale of a group of rebels called The Cave Bottom Boys.  Or a Union soldier who deserted and lived out the rest of the war in the cave and locals turned him into a Legendary Cryptid like Big Foot.
+[9] I was disappointed that I found no history of note about the caves during the Civil War because I really hoped that there would be a tale of a group of rebels called The Cave Bottom Boys.  Or a Union soldier who deserted and lived out the rest of the war in the cave and locals turned him into a Legendary Cryptid like Big Foot.
 
 [10] This is a quote from South Park’s Chef from their “You Got Served” episode. And, if I am being honest, this entire review is inspired by another South Park episode called “We Should Never Have Gone Ziplining”. My literary inspirations are highly refined.

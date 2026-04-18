@@ -7,7 +7,7 @@ contestName: 2022 Book Reviews
 year: 2022
 publishedDate: '2026-02-06T07:21:54.174Z'
 slug: the-tyranny-of-metrics-by-jerry-z-muller
-wordCount: 1533
+wordCount: 1546
 readingTimeMinutes: 7
 originalUrl: >-
   https://docs.google.com/document/d/1hFzjXliCAWjvheY-8Qd2fhbF79LnX0Xg6R9eqk9yIyI
@@ -21,23 +21,23 @@ sets out to investigate how metrics became ever present in private and public or
 
 I’ve picked up the tyranny of metrics as a counter-balance to “How to Measure Anything” by Douglas W. Hubbard, a book that has convinced me to join the “measure everything!” club. Tyranny of metrics did not convince me to leave that club.
 
-The book could have been called “Goodhart’s law: examples”. For those unfamiliar, [Goodhart’s law](https://en.wikipedia.org/wiki/Goodhart%27s_law):
+The book could have been called “Goodhart’s law: examples”. For those unfamiliar, [Goodhart’s law](https://en.wikipedia.org/wiki/Goodhart%27s_law):
 
-Any observed statistical regularity will tend to collapse once pressure is placed upon it for control purposes.
+> Any observed statistical regularity will tend to collapse once pressure is placed upon it for control purposes.
 
 better known through Marilyn Strathern’s generalisation:
 
-When a measure becomes a target, it ceases to be a good measure.
+> When a measure becomes a target, it ceases to be a good measure.
 
 That’s basically the whole argument of the book, followed by a hundred pages of examples.
 
 The examples all follow the same pattern:
 
-1.  There is a desire to distinguish between low quality and high quality and there is a desire to push for higher quality.
-2.  A metric for a proxy of quality (test scores, number of crimes, surgery outcomes) is introduced.
-3.  People’s pay becomes based on the metric.
-4.  People optimise for the metric, instead of quality.
-5.  Quality is reduced, work becomes a nightmare, everything is terrible.
+> 1.  There is a desire to distinguish between low quality and high quality and there is a desire to push for higher quality.
+> 2.  A metric for a proxy of quality (test scores, number of crimes, surgery outcomes) is introduced.
+> 3.  People’s pay becomes based on the metric.
+> 4.  People optimise for the metric, instead of quality.
+> 5.  Quality is reduced, work becomes a nightmare, everything is terrible.
 
 The outcome seems predictable, but is it avoidable? Muller suggests using “judgement”, without going into detail, I think we can do better.
 
@@ -47,9 +47,9 @@ Let’s see if we can derive a better metric for one of the examples from the bo
 
 When confronted with a difficult measurement, “How to measure anything” recommends asking “what is the decision this measurement is supposed to support?”.
 
-For a prospective student, the quality metric for a college will be used to decide whether to apply to that college or not. This is one of the U.S. Department of Education’s [College Ratings Framework](https://www.ed.gov/collegeratings) purposes:
+For a prospective student, the quality metric for a college will be used to decide whether to apply to that college or not. This is one of the U.S. Department of Education’s [College Ratings Framework](https://www.ed.gov/collegeratings) purposes:
 
-To provide better information about college value to students and families to support them as they search for select a college,
+> To provide better information about college value to students and families to support them as they search for select a college,
 
 College Ratings Framework has a broad set of metrics, some that are relevant to the student’s application decision are: “Labor Market Success” (median annual earnings of students … after graduation) and “Completion Rates”. Tyranny of metrics describes some problems these metrics create: belief that more education is better (average earnings with a bachelor degree are higher than without it) and lowering standards to increase completion rates, among others. I think these issues are in part caused by the use of metrics that are proxies for probabilities of events, instead of probabilities of events. For desirable events, higher probability means higher quality, and for undesirable events the other way around.
 
@@ -57,16 +57,16 @@ A student choosing to apply to a college might care about “getting a job as a 
 
 Providing these predictions would require a deep understanding of both the students and the teaching methods, but presumably that’s something colleges should care about anyway. As Lord Kelvin once said
 
-When you can measure what you are speaking about, and express it in numbers, you know something about it; but when you cannot measure it, when you cannot express it in numbers, your knowledge is of a meagre and unsatisfactory kind: it may be the beginning of knowledge, but you have scarcely, in your thoughts, advanced to the stage of science, whatever the matter may be.
+> When you can measure what you are speaking about, and express it in numbers, you know something about it; but when you cannot measure it, when you cannot express it in numbers, your knowledge is of a meagre and unsatisfactory kind: it may be the beginning of knowledge, but you have scarcely, in your thoughts, advanced to the stage of science, whatever the matter may be.
 
 Would this metric help against the problems mentioned above? Distribution of probabilities of events that students care about (like achieving employment with a specific salary) might show that there is a significant risk of net loss for students, which should make generalisations like “more education is better” less convincing. There should also be less of a push to lower standards to improve completion rates, since lowering standards decreases probability of other events students care about (like achieving employment with a specific salary).
 
-Using probabilities of events and prediction accuracy (see [Brier score](https://en.wikipedia.org/wiki/Brier_score) and “Superforecasting: The Art and Science of Prediction” by Philip E. Tetlock for more on prediction accuracy) as main metrics for quality seems to have some nice properties:
+Using probabilities of events and prediction accuracy (see [Brier score](https://en.wikipedia.org/wiki/Brier_score) and “Superforecasting: The Art and Science of Prediction” by Philip E. Tetlock for more on prediction accuracy) as main metrics for quality seems to have some nice properties:
 
-1.  Tracking of prediction accuracy forces models to self-correct (situation in the labour market changed and now getting a job with a specific salary is less likely? gotta update that model).
-2.  Models used for prediction of events can be better fitted to local circumstances (avoids “one size fits all”).
-3.  Using accurate models might show that events (that people care about) in particular circumstances might be too unlikely, and can force someone to reconsider their decision thresholds (“my chances of completing a degree at college C1 and then getting employment with salary X are low, but my chances of completing a degree at college C2 and getting employment with salary X/2 are much higher; given my level of risk aversion, I’ll settle for higher chance of employment with salary X/2“).
-4.  Gaming predictions (by overestimating or underestimating on purpose) makes less sense, both due to prediction accuracy tracking and better acceptance of failure due to the use of language of probability (“we predicted that you are only 20% likely to complete your degree, you took that risk and it didn’t work out, alas”).
+> 1.  Tracking of prediction accuracy forces models to self-correct (situation in the labour market changed and now getting a job with a specific salary is less likely? gotta update that model).
+> 2.  Models used for prediction of events can be better fitted to local circumstances (avoids “one size fits all”).
+> 3.  Using accurate models might show that events (that people care about) in particular circumstances might be too unlikely, and can force someone to reconsider their decision thresholds (“my chances of completing a degree at college C1 and then getting employment with salary X are low, but my chances of completing a degree at college C2 and getting employment with salary X/2 are much higher; given my level of risk aversion, I’ll settle for higher chance of employment with salary X/2“).
+> 4.  Gaming predictions (by overestimating or underestimating on purpose) makes less sense, both due to prediction accuracy tracking and better acceptance of failure due to the use of language of probability (“we predicted that you are only 20% likely to complete your degree, you took that risk and it didn’t work out, alas”).
 
 I think this approach can be applied in almost all of the examples in the book, although if “pay for performance” is used, there will still be pressure on how to record outcomes of predictions.
 

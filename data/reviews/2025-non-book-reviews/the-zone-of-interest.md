@@ -1,16 +1,20 @@
 ---
-title: "The Zone of Interest"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2025-non-book-reviews"
-contestName: "2025 Non Book Reviews"
+title: The Zone of Interest
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2025-non-book-reviews
+contestName: 2025 Non Book Reviews
 year: 2025
-publishedDate: "2025-01-01T00:00:00.000Z"
-slug: "the-zone-of-interest"
-wordCount: 1217
+publishedDate: '2025-01-01T00:00:00.000Z'
+slug: the-zone-of-interest
+wordCount: 1218
 readingTimeMinutes: 6
-originalUrl: "https://docs.google.com/document/d/17WAcFrTOExgendrk2lGTxRIR4LVC3ZGbiU5Xe3kF4mg"
-source: "gdoc"
+originalUrl: >-
+  https://docs.google.com/document/d/17WAcFrTOExgendrk2lGTxRIR4LVC3ZGbiU5Xe3kF4mg
+source: gdoc
+tags:
+  - Fiction
+  - History
 ---
 
 Spoilers, obviously.
@@ -27,7 +31,7 @@ After the movie ended, I sat and thought about that opening for a long time.
 
 Like many other holocaust movies, The Zone of Interest aims to examine the banality of evil. The term comes from Hannah Arendt while she was reporting on the trial of Adolf Eichmann. To quote from wiki:
 
-Arendt's book introduced the expression and concept of the banality of evil. Her thesis is that Eichmann was actually not a fanatic or a sociopath, but instead an average and mundane person who relied on cliché defenses rather than thinking for himself, was motivated by professional promotion rather than ideology, and believed in success which he considered the chief standard of "good society". Banality, in this sense, does not mean that Eichmann's actions were in any way ordinary, but that his actions were motivated by a sort of complacency which was wholly unexceptional.
+> _Arendt's book introduced the expression and concept of the banality of evil. Her thesis is that Eichmann was actually not a fanatic or a sociopath, but instead an average and mundane person who relied on cliché defenses rather than thinking for himself, was motivated by professional promotion rather than ideology, and believed in success which he considered the chief standard of "good society". Banality, in this sense, does not mean that Eichmann's actions were in any way ordinary, but that his actions were motivated by a sort of complacency which was wholly unexceptional._
 
 In 2024 I think this is a pretty well understood concept, but at the time of Arendt’s writing the 'banality of evil’ concept was pretty revolutionary. Evil was thought to be a really active process, something that relied on the full throated participation of ‘evil people’. It’s a nice fiction, it allows us to separate the world into clean categories of ‘good’ and ‘bad’ and mete out condemnation and punishment accordingly. But the Holocaust, with its tens-of-thousands of willing passive participants, showed that in reality evil can come from totally common and non-unique sources of motivation. Something as simple as wanting to excel at a job, for e.g.
 
@@ -43,7 +47,7 @@ The Zone of Interest, as a film, is fascinated by the mundane bureaucracy behind
 
 It all seems so normal, but it's punctuated by moments of "what the actual fuck?" that pull you out of the scene so fast your head spins. The paperwork is for crematoriums. His wife is talking about the jewelry she gets from the Jews who were being murdered. The kids are playing with teeth! Every scene there is an off screen scream, or someone-that-is-obviously-a-guard yelling, or a gun shot, or all three, and the characters just ignore it, and you in the audience are gritting your teeth because its so obvious to you how fucked up the situation is…except for when it isn't obvious, because you also, in the span of the movie, forget that random screams are not, in fact, normal.
 
-The Zone of Interest excels at creating this deeply disturbing uncanny valley, in which you the viewer are constantly on edge because you know, you know, that horrible things are happening right behind the wall, but you also you catch yourself forgetting until something pulls you right back. That's the banality of evil.
+The Zone of Interest excels at creating this deeply disturbing uncanny valley, in which you the viewer are constantly on edge because you know, _you know_, that horrible things are happening right behind the wall, but you also you catch yourself forgetting until something pulls you right back. That's the banality of evil.
 
 There are a lot of moments that are literally jaw dropping. Maybe the most visceral is when Hoss is playing in the river with his daughters, only to discover that he is swimming in the remains of corpses that are being dumped up stream. But I think the one that got me the most was when Hoss meets with Topf and Son. To recap, Hoss sits down with these two engineers, and together they pore over blueprints for a new crematorium. They talk numbers. The engineers are clearly proud of their device — it manages to cool one chamber so that it can be cleaned out (of human remains) as the other one heats up (to burn more bodies) in an alternating clockwise system. Efficiency is the name of the game; it never occurs to anyone in the room to question whether being efficient at killing people is a good thing.
 
