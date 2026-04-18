@@ -7,7 +7,7 @@ contestName: 2025 Non Book Reviews
 year: 2025
 publishedDate: '2026-02-06T16:52:48.904Z'
 slug: identity
-wordCount: 2881
+wordCount: 2892
 readingTimeMinutes: 13
 originalUrl: >-
   https://docs.google.com/document/d/1d0vRSj1E93joWWvbUen2XGuDjN_mM94ybMIAADzM2fo
@@ -17,7 +17,7 @@ tags:
   - Psychology
 ---
 
-I.
+**I.**
 
 Rationalists are fond of advice like this: “Keep your identity small”, “Cultivate a scout identity”, which always makes me wonder, “What do they mean?”
 
@@ -27,27 +27,27 @@ Arguments using identity are circular. Take this sentence: “Alice engages in f
 
 Whenever I talk to someone about my skepticism regarding identity, I am met with skepticism in return: “You don’t believe that people have an identity? They obviously do!” So what is meant by identity? People are not always very clear on that. The (to my knowledge) first post on identity that gained traction in the rationalist sphere was Paul Graham’s 2009 essay [Keep Your Identity Small](https://www.paulgraham.com/identity.html), in which he doesn’t define identity, but gives religion and politics as central examples of beliefs that form part of it. He says:
 
-I think what religion and politics have in common is that they become part of people's identity, and people can never have a fruitful argument about something that's part of their identity. By definition they're partisan.
+> I think what religion and politics have in common is that they become part of people's identity, and people can never have a fruitful argument about something that's part of their identity. By definition they're partisan.
+>
+> Which topics engage people's identity depends on the people, not the topic. For example, a discussion about a battle that included citizens of one or more of the countries involved would probably degenerate into a political argument. But a discussion today about a battle that took place in the Bronze Age probably wouldn't. No one would know what side to be on. So it's not politics that's the source of the trouble, but identity. When people say a discussion has degenerated into a religious war, what they really mean is that it has started to be driven mostly by people's identities.
 
-Which topics engage people's identity depends on the people, not the topic. For example, a discussion about a battle that included citizens of one or more of the countries involved would probably degenerate into a political argument. But a discussion today about a battle that took place in the Bronze Age probably wouldn't. No one would know what side to be on. So it's not politics that's the source of the trouble, but identity. When people say a discussion has degenerated into a religious war, what they really mean is that it has started to be driven mostly by people's identities.
+I think that quote makes at least as much sense if you replace the word “identity” by “values”, “emotions”, “ideology” or “prejudices” and I am [not the first](https://www.lesswrong.com/posts/BXQsZmubkovJ76Ldo/the-actionable-version-of-keep-your-identity-small) to replace the word identity in that particular essay. Julia Galef, who coined the term scout identity, admits that the term is unclear, stating that “The science on identity is still evolving, but I’ve observed two things that turn a belief into an identity: Feeling embattled and feeling proud.”
 
-I think that quote makes at least as much sense if you replace the word “identity” by “values”, “emotions”, “ideology” or “prejudices” and I am [not the first](https://www.lesswrong.com/posts/BXQsZmubkovJ76Ldo/the-actionable-version-of-keep-your-identity-small) to replace the word identity in that particular essay. Julia Galef, who coined the term scout identity, admits that the term is unclear, stating that “The science on identity is still evolving, but I’ve observed two things that turn a belief into an identity: Feeling embattled and feeling proud.”
+LessWrong gives a more precise [definition](https://www.lesswrong.com/w/identity) (references edited out), but it says that even more things are part of your identity:
 
-LessWrong gives a more precise [definition](https://www.lesswrong.com/w/identity) (references edited out), but it says that even more things are part of your identity:
+> **Identity** is an individual's conception of themselves. We might conceive of this as the set of _I am \_\_\__ statements an individual would make about themselves. It seems correct that _identity_ can be dangerous for epistemics since the desire to maintain one's identity can interfere with updating correctly or changing actions, but at the same time there are potentially useful and safe ways to maintain an identity which even enhances one's rationality.
 
-Identity is an individual's conception of themselves. We might conceive of this as the set of I am \_\_\_ statements an individual would make about themselves. It seems correct that identity can be dangerous for epistemics since the desire to maintain one's identity can interfere with updating correctly or changing actions, but at the same time there are potentially useful and safe ways to maintain an identity which even enhances one's rationality.
+And [Clearer Thinking](https://programs.clearerthinking.org/question_your_identity.html) has this extensional definition of the set:
 
-And [Clearer Thinking](https://programs.clearerthinking.org/question_your_identity.html) has this extensional definition of the set:
-
-Your identity is made up of:
-
-*   Traits that describe you (I am funny, athletic, disorganized, etc.)
-*   Relationships or groups you belong to (I am a father, a chef, a fan of my hometown sports team etc.)
-*   The ideologies of the groups you belong to (I am a conservative, a feminist, a neo-liberal)
+> Your identity is made up of:
+>
+> *   Traits that describe you _(I am funny, athletic, disorganized, etc.)_
+> *   Relationships or groups you belong to _(I am a father, a chef, a fan of my hometown sports team etc.)_
+> *   The ideologies of the groups you belong to _(I am a conservative, a feminist, a neo-liberal)_
 
 These are workable definitions. Naturally, I don’t deny that people have a conception of themselves, or traits, or that they belong to groups. However, using the term “identity” suggests that the disparate elements in this set form one unified whole. Just like mathematicians don’t call the set {12, -400.857845966+π, ℝ, x↦x/2} anything, we should not give the set of all of a person’s attributes a name. Do our traits or relationships have the same ability to warp our thinking as our ideologies? Do they do so via the same mechanisms? And does it really help you to think more clearly if you say “I fathered this child” rather than “I am this child’s father”?
 
-II.
+**II.**
 
 It’s obvious why people want to maintain their relationships. Relationships (most of them, anyway) are net-positive and afford all sorts of emotional and/or material benefits. There are definitely situations where they can become epistemically dangerous, for instance, when a friend did something bad, denies it, and you refuse to believe the accusations, but that follows from the nature of friendships, not identity.
 
@@ -61,21 +61,21 @@ In the cases where I find a desire to defend one’s identity most plausible, it
 
 In one of the “of course identity matters” conversations I’ve had, a friend described how he felt more attached to his local football club from home after moving from the north of Germany to the south. He had never been a huge fan, but now suddenly he was surrounded by people cheering for the arch-enemy and his old identity started growing stronger. I didn’t have a great response. Invoking status felt weird because if he subconsciously cared about status so much, why did he not switch allegiances to the other team and gain favour with his new neighbors? Because we are just not that cognitively malleable? Sure, but then can you use status to make predictions at all? This is also true for identity, though. If he cared that much about his northern identity, why did he move to the south for a new job, that had not previously been part of his identity? Now I’m just strawmanning. Nobody said that all identities trump all other concerns, but it’s weird that identity, as the driving force behind religion and politics, caused all wars, but does not determine everyday decisions. My best explanation for my friend’s experience is more reductive: Through years of exposure, he learned the association “our club wins → good”. Seeing more people incorrectly (from his subconscious point of view) not believing in it makes it more salient.
 
-Status provides the more appealing framework because it grounds the behaviors it intends to explain in their instrumental value for mating and survival, which identity only does once it gets linked to status. And yet it, too, breaks down at some point, or rather, on its own it proves too much. Sure, we can all agree that politics and religion are largely status displays, but did you know that people pursue sex only because it is high-status? Fear of death? Come on, obviously people don’t actually fear death, they cannot even model a world without themselves in it. But being dead means being a very useless ally, so we need to pretend to fear death. The [case in point](https://www.lesswrong.com/posts/GMWtZzpLHpBLKQsYp/fake-thinking-and-real-thinking) comes from Joe Carlsmith:
+Status provides the more appealing framework because it grounds the behaviors it intends to explain in their instrumental value for mating and survival, which identity only does once it gets linked to status. And yet it, too, breaks down at some point, or rather, on its own it proves too much. Sure, we can all agree that politics and religion are largely status displays, but did you know that people pursue sex only because it is high-status? Fear of death? Come on, obviously people don’t actually fear death, they cannot even model a world without themselves in it. But being dead means being a very useless ally, so we need to pretend to fear death. The [case in point](https://www.lesswrong.com/posts/GMWtZzpLHpBLKQsYp/fake-thinking-and-real-thinking) comes from Joe Carlsmith:
 
-I think about a time climbing up to a church carved into a cliff in Ethiopia, and wondering if I was going to fall and die. My mind went to: it would be so embarrassing to die this way.
+> I think about a time climbing up to a church carved into a cliff in Ethiopia, and wondering if I was going to fall and die. My mind went to: it would be so _embarrassing_ to die this way.
 
 So it really is just signaling all the way down. Or people are complex, they have several fundamental drives, it is not easy to predict how those play out in any given situation, and that is why it makes no sense to lump all behavioral or belief patterns together.
 
-III.
+**III.**
 
 When I asked if it really helps you to think more clearly if you say “I fathered this child” rather than “I am this child’s father”, many of you probably thought “yes, obviously”. The phrase “being a father” comes with loads of moral connotations, whereas “fathering a child” states the fact and nothing else. If you want to stick to that and reject the moral implications, you might say “I fathered” and not “I am a father” (though Alice and I would hope that you better have very good reasons for that). Likewise, looking at the two sentences “I agree with the positions of party P” and “I am a P-ist”, it is easier for me to imagine the former being continued with “but …”. Only the second speaker has P-ism as part of their identity, while the former does not, or at least has it to a lesser degree. So do I agree that identity is epistemically problematic? No, because that conclusion would conflate correlation and causality. Probably the second person started growing overconfident in party P’s positions before they started calling themselves a P-ist. Identity-related speech can be a warning sign of a trapped prior, but not a strong one, and is mostly just a turn of phrase.
 
 ![Meme - Darth Vader: I am your father. Luke (screaming): Well, there's a factual statement with no emotional valence at all.](https://acximages.ennals.org/images/2025-non-book-reviews/206efa7640201621.jpg)
 
-Scott Alexander (Do you know him? He has a good blog—can recommend!) wrote in a recent [post](https://www.astralcodexten.com/p/misophonia-beyond-sensory-sensitivity) about his misophonia:
+Scott Alexander (Do you know him? He has a good blog—can recommend!) wrote in a recent [post](https://www.astralcodexten.com/p/misophonia-beyond-sensory-sensitivity) about his misophonia:
 
-One night my roommate complained that I seemed to have some weird pathological problem with noise way outside the normal distribution. I’d never thought about it before, but again, something resonated, that became “part of my identity” against my will, and from then on I was intolerable about any noise-related issue. Again, the simple explanation is that I was already like that - hence my roommate telling me I was like that. Again, that’s not how I remember things.
+> One night my roommate complained that I seemed to have some weird pathological problem with noise way outside the normal distribution. I’d never thought about it before, but again, something resonated, that became “part of my identity” against my will, and from then on I was intolerable about any noise-related issue. Again, the simple explanation is that I was already like that - hence my roommate telling me I was like that. Again, that’s not how I remember things.
 
 (The quotation marks are his, not mine.) This annoyed me because I kind of like not understanding identity, but I understood this. Of course, it’s a huge deal to notice a pattern about yourself for the first time, to go from “noise is bad” to “noise is bad and also I really hate noise”, and of course it can reinforce this pattern. It makes a difference if you believe something about yourself rather than about the outside world. We matter to ourselves, and that is why our beliefs about ourselves matter, too. There is an obvious feedback loop, where your beliefs about who you are, what you like, what you do, inform both your perceptions and your actions. If you think you don’t like basketball, you will not try to play it and will not have the opportunity to discover that actually you love it.
 
@@ -85,9 +85,9 @@ So that leaves us at: people care about themselves, and beliefs about oneself ca
 
 ![The plot of the curve since 1800 shows the word frequency staying constant until 1920-40, around which time it started growing exponentially, reaching its maximum in 2019, followed by a tiny downward dent.](https://acximages.ennals.org/images/2025-non-book-reviews/324d4e1827fcf870.png)
 
-Where my contemporaries say identity, I use the words that our ancestors might have used. Where they say “Ukrainians are defending their identity”, I say “Ukrainians are defending their freedom”. When they say “conflicting identities”, I think of Jekyll and Hyde, not “[How do gender roles affect extremism?](https://www.undp.org/asia-pacific/tolerance-and-diversity/conflicting-identities)”. Identity already has a meaning; it means sameness. That’s its literal Latin meaning, that’s how we use it in Maths, and in terms like “personal identity” or “identity provider”. Maybe I am just being the mathematical and [etymological](https://www.youtube.com/watch?v=scS-Z70e4Xo) equivalent of those obnoxious people who demand that tomatoes must not be called vegetables because botanically they are fruits, but I still find myself insisting that the identity this essay is about is just a cheap rip-off of that trusted, useful notion.
+Where my contemporaries say identity, I use the words that our ancestors might have used. Where they say “Ukrainians are defending their identity”, I say “Ukrainians are defending their freedom”. When they say “conflicting identities”, I think of Jekyll and Hyde, not “[How do gender roles affect extremism?](https://www.undp.org/asia-pacific/tolerance-and-diversity/conflicting-identities)”. Identity already has a meaning; it means sameness. That’s its literal Latin meaning, that’s how we use it in Maths, and in terms like “personal identity” or “identity provider”. Maybe I am just being the mathematical and [etymological](https://www.youtube.com/watch?v=scS-Z70e4Xo) equivalent of those obnoxious people who demand that tomatoes must not be called vegetables because botanically they are fruits, but I still find myself insisting that the identity this essay is about is just a cheap rip-off of that trusted, useful notion.
 
-IV.
+**IV.**
 
 While I think the discourse around identity is built on vapid ideas, it still hints at something true. Graham’s “keep your identity small” or Galef’s “hold your identity lightly” (which I prefer over the first one) can be good advice, which can be formulated even better.
 

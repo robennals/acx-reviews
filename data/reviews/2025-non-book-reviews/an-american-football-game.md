@@ -23,7 +23,7 @@ One day, we headed to the nearest college town to watch a local football game. O
 
 It didn’t. But that didn’t really matter.
 
-Live American football games are so overwhelming, so overstimulating, so much that I really struggle to explain it in words. I figure it must be like what old people feel TikTok is like. No wonder the ADD boyfriend I was with loved it. American football is not only football, but approximately 10 other things happening in the span of a couple minutes. Because the game constantly pauses (?), something must happen during the breaks.
+Live American football games are so overwhelming, so overstimulating, so _much_ that I really struggle to explain it in words. I figure it must be like what old people feel TikTok is like. No wonder the ADD boyfriend I was with loved it. American football is not only football, but approximately 10 other things happening in the span of a couple minutes. Because the game constantly pauses (?), something must happen during the breaks.
 
 It was freezing cold. American winters are, in many areas, notably more harsh than Southern Scandinavia, which is where the vast majority of us live. The cheerleaders were in leggings, gloves and scarves with the team logo on it. But the sexy dancing girls were not.
 

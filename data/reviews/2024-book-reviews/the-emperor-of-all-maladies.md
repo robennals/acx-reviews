@@ -54,7 +54,7 @@ It was Sunday and she was in the garden with Sarah when the phone rang. Sarah wi
 
 II.
 
-Thus begins Siddartha Mukherjee's magisterial magnum opus, The Emperor of All Maladies. The author is on the seven o'clock train to the Massachusetts General Hospital when Carla's life flashes before her eyes and across his pager. New patient, 30 F, leukaemia, on the 14th floor. Please see as soon as you arrive.
+Thus begins Siddartha Mukherjee's magisterial magnum opus, The Emperor of All Maladies. The author is on the seven o'clock train to the Massachusetts General Hospital when Carla's life flashes before her eyes and across his pager. _New patient, 30 F, leukaemia, on the 14__th_ _floor. Please see as soon as you arrive._
 
 Mukherjee's ambition is nothing less than a biography of cancer. His prose sweeps across centuries: from the ancient sands of Egypt in 4000 BC, where a slave is ordered to cut off his queen's cancerous breast, through the sterile, gleaming halls of the National Cancer Institute, six millenia later, where chemicals named vincristine, cyclophosphamide, and rituximab seep with clockwork precision into bruised veins. But a vast panorama is nothing without a human subject to take it all in.
 

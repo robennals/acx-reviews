@@ -69,17 +69,22 @@ function parseGDocStyles(html: string): GDocStyleMap {
     if (/font-style\s*:\s*italic/.test(props)) {
       italicClasses.add(cls);
     }
-    // Detect meaningful indentation (blockquote-like).
-    // Google Docs uses two patterns for indented/quoted text:
-    //   1. margin-left >= 18pt  (block-level left indent)
-    //   2. text-indent >= 24pt  (deep first-line indent, distinct from the
-    //      normal ~13.5pt first-line indent used for body paragraphs)
-    const marginMatch = props.match(/margin-left\s*:\s*(\d+(?:\.\d+)?)pt/);
-    if (marginMatch && parseFloat(marginMatch[1]) >= 18) {
+    // Detect blockquote-like indentation. Google Docs' blockquote feature
+    // uses `margin-left: 36pt` (and usually `margin-right: 36pt` too). Body
+    // paragraphs often use `margin-left: 18pt` as a stylistic choice, and
+    // `text-indent` is just a first-line indent — neither is a blockquote.
+    //
+    // Accept a class as "indented" if EITHER:
+    //   - margin-left is a deep indent (>= 36pt), OR
+    //   - margin-left AND margin-right are BOTH set (indented both sides,
+    //     which is characteristic of a blockquote regardless of depth).
+    const marginLeftMatch = props.match(/margin-left\s*:\s*(\d+(?:\.\d+)?)pt/);
+    const marginRightMatch = props.match(/margin-right\s*:\s*(\d+(?:\.\d+)?)pt/);
+    const leftPt = marginLeftMatch ? parseFloat(marginLeftMatch[1]) : 0;
+    const rightPt = marginRightMatch ? parseFloat(marginRightMatch[1]) : 0;
+    if (leftPt >= 36) {
       indentClasses.add(cls);
-    }
-    const textIndentMatch = props.match(/text-indent\s*:\s*(\d+(?:\.\d+)?)pt/);
-    if (textIndentMatch && parseFloat(textIndentMatch[1]) >= 24) {
+    } else if (leftPt >= 18 && rightPt >= 18) {
       indentClasses.add(cls);
     }
   }
@@ -126,12 +131,15 @@ function applySemanticTags($: CheerioAPI, styles: GDocStyleMap): void {
     });
   }
 
-  // Blockquote: group consecutive indented block elements (p, ul, ol) into a
-  // single <blockquote> so they render as one block, not many separate quotes.
-  // This handles indented paragraphs followed by indented lists (common in
-  // Google Docs where a quote intro is followed by bullet points).
+  // Blockquote: wrap each indented block in its own <blockquote>. Adjacent
+  // single-block blockquotes in the HTML are collapsed into a single
+  // multi-paragraph block later, at the markdown level, which avoids the
+  // O(N²) DOM-move cost of grouping at the Cheerio level (every `.append()`
+  // of an existing node triggers a linear search of the old parent's child
+  // array, turning a run of N blocks into an N²-sized operation on large
+  // docs — 2025's biggest chunk has thousands of <p> elements and caused
+  // multi-minute stalls under the previous grouping approach).
   if (styles.indentClasses.size > 0) {
-    // Check if an element (or its children for lists) is indented
     const isElementIndented = (el: ReturnType<typeof $>) => {
       const classes = (el.attr('class') || '').split(/\s+/);
       if (classes.some(c => styles.indentClasses.has(c))) return true;
@@ -148,62 +156,30 @@ function applySemanticTags($: CheerioAPI, styles: GDocStyleMap): void {
     };
 
     const allBlocks = $('body > p, body > ul, body > ol, body > div > p, body > div > ul, body > div > ol').toArray();
-    let i = 0;
-    while (i < allBlocks.length) {
-      const el = $(allBlocks[i]);
-      const indented = isElementIndented(el);
-
-      if (indented && el.text().trim()) {
-        // Start of an indented run
-        const runStart = i;
-        while (i < allBlocks.length) {
-          const curr = $(allBlocks[i]);
-          const currIndented = isElementIndented(curr);
-          const isEmpty = !curr.text().trim();
-          if (currIndented || (isEmpty && i > runStart && i + 1 < allBlocks.length)) {
-            if (isEmpty) {
-              const next = $(allBlocks[i + 1]);
-              if (!isElementIndented(next)) break;
-            }
-            i++;
-          } else {
-            break;
-          }
-        }
-
-        // Wrap the entire run in a single <blockquote>
-        const bq = $('<blockquote></blockquote>');
-        $(allBlocks[runStart]).before(bq);
-        for (let j = runStart; j < i; j++) {
-          bq.append(allBlocks[j]);
-        }
-      } else {
-        i++;
+    for (const block of allBlocks) {
+      const el = $(block);
+      if (!el.text().trim()) continue;
+      if (isElementIndented(el)) {
+        el.wrap('<blockquote></blockquote>');
       }
     }
   }
 
-  // Also detect paragraphs indented with &nbsp; runs (Google Docs sometimes
-  // uses non-breaking spaces instead of CSS for indentation). The nbsp
-  // characters may be inside nested <span> elements.
+  // Strip leading `&nbsp;` runs on paragraphs — Google Docs authors often use
+  // non-breaking spaces as a first-line indent for visual effect. These are
+  // NOT a reliable signal of blockquoting (they appear on body paragraphs
+  // just as often), so we just clean them up for readable output.
   $('p').each(function () {
     const el = $(this);
-    if (el.closest('blockquote').length) return;
-    // Get the raw text content (Cheerio decodes &nbsp; to \u00a0)
     const text = el.text();
-    // Check if text starts with ≥6 non-breaking spaces (with optional leading newline)
-    if (/^\s*\u00a0{6,}/.test(text)) {
-      // Strip the leading nbsp indent from the inner HTML.
-      // Walk the first text-bearing descendant and trim its leading whitespace.
-      const firstSpan = el.find('span').first();
-      const target = firstSpan.length ? firstSpan : el;
-      const innerHtml = target.html() || '';
-      const cleaned = innerHtml
-        .replace(/^(<br\s*\/?>)?\s*((\u00a0|&nbsp;)\s*)+/, '')
-        .trim();
-      target.html(cleaned);
-      el.wrap('<blockquote></blockquote>');
-    }
+    if (!/^\s*\u00a0{3,}/.test(text)) return;
+    const firstSpan = el.find('span').first();
+    const target = firstSpan.length ? firstSpan : el;
+    const innerHtml = target.html() || '';
+    const cleaned = innerHtml
+      .replace(/^(<br\s*\/?>)?\s*((\u00a0|&nbsp;)\s*)+/, '')
+      .trim();
+    target.html(cleaned);
   });
 }
 
@@ -211,15 +187,13 @@ function applySemanticTags($: CheerioAPI, styles: GDocStyleMap): void {
  * Clean up markdown output
  */
 export function cleanupMarkdown(markdown: string): string {
-  return markdown
-    // Strip leading non-breaking spaces from blockquote lines (Google Docs
-    // sometimes uses &nbsp; for indentation even inside CSS-indented blocks)
-    .replace(/^(>\s*)\u00a0+/gm, '$1')
-    // Convert soft line breaks (trailing two spaces) inside blockquotes to
-    // full paragraph breaks. Google Docs uses <br> (Shift+Enter) within a
-    // single <p>, which Turndown renders as "  \n" — but inside a blockquote
-    // this should be a new paragraph for consistent spacing.
-    .replace(/^(>.*) {2,}\n(?=>)/gm, '$1\n>\n')
+  let md = markdown
+    // Normalize non-breaking spaces to regular spaces. Google Docs inserts
+    // `&nbsp;` (U+00A0) around italicized/bolded runs to prevent awkward
+    // line-wraps in the rendered doc, but in markdown source they appear
+    // as hard-to-see, hard-to-edit "weird spaces" and carry no meaningful
+    // semantic in a markdown context.
+    .replace(/\u00a0/g, ' ')
     // Remove escaped brackets
     .replace(/\\\[/g, '[')
     .replace(/\\\]/g, ']')
@@ -231,44 +205,86 @@ export function cleanupMarkdown(markdown: string): string {
     // setext-heading underline, which includes mid-line contexts like
     // "summary: \- The Ottoman Empire ...".
     .replace(/\\-/g, '-')
-    // Escape "!" when it's glued to a Google Docs footnote link like
-    // "[[N]](#ftntN)". Without escaping, "worse![[12]](#ftnt12)" parses as
-    // a markdown image and renders as a broken-image icon. The escape keeps
-    // the "!" as sentence punctuation immediately before the footnote marker.
-    .replace(/!(\[\[\d+\]\]\(#ftnt[^)]*\))/g, '\\!$1')
     // Clean up multiple consecutive blank lines
     .replace(/\n{4,}/g, '\n\n\n')
     // Remove escaped asterisks at line starts (but preserve ** for bold)
-    .replace(/^\\(\*[^*])/gm, '$1')
-    .trim();
+    .replace(/^\\(\*[^*])/gm, '$1');
+
+  // Merge adjacent blockquote paragraphs separated by a single blank line
+  // into a single multi-paragraph blockquote. We emit one <blockquote> per
+  // indented block (to avoid O(N²) DOM moves during the GDoc→HTML pass);
+  // this restores the multi-paragraph quote rendering at the markdown level.
+  // Pattern: a blockquote line, blank line, another blockquote line. The
+  // global match is non-overlapping, so a single pass merges chains.
+  md = md.replace(/(^>.*)\n\n(?=>)/gm, '$1\n>\n');
+
+  return md.trim();
 }
 
 /**
- * Fetch a Google Doc as HTML using the public export URL
+ * Fetch a Google Doc as HTML using the public export URL.
+ *
+ * Retries with exponential backoff on transient failures (5xx responses
+ * and network errors). Google Docs' export endpoint returns sporadic 500s
+ * when exporting large composite docs — usually clears within a few
+ * seconds to a minute. We retry up to 5 times (total wait ~60s) before
+ * giving up.
  */
 export async function fetchGDocAsHTML(docId: string): Promise<string> {
   const url = `https://docs.google.com/document/d/${docId}/export?format=html`;
-  console.log(`  Fetching doc: ${docId}`);
+  const MAX_ATTEMPTS = 5;
+  const BASE_DELAY_MS = 2000;
 
-  const response = await fetch(url, {
-    headers: {
-      'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36',
-    },
-    redirect: 'follow',
-  });
+  for (let attempt = 1; attempt <= MAX_ATTEMPTS; attempt++) {
+    const label = attempt === 1 ? '' : ` (attempt ${attempt}/${MAX_ATTEMPTS})`;
+    console.log(`  Fetching doc: ${docId}${label}`);
+    try {
+      const response = await fetch(url, {
+        headers: {
+          'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36',
+        },
+        redirect: 'follow',
+      });
 
-  if (!response.ok) {
-    throw new Error(`HTTP ${response.status}: ${response.statusText} for doc ${docId}`);
+      if (response.ok) {
+        return await response.text();
+      }
+
+      // 4xx (except 429) is unlikely to succeed on retry — fail fast.
+      if (response.status >= 400 && response.status < 500 && response.status !== 429) {
+        throw new Error(`HTTP ${response.status}: ${response.statusText} for doc ${docId}`);
+      }
+
+      if (attempt === MAX_ATTEMPTS) {
+        throw new Error(`HTTP ${response.status}: ${response.statusText} for doc ${docId} after ${MAX_ATTEMPTS} attempts`);
+      }
+      const delay = BASE_DELAY_MS * Math.pow(2, attempt - 1);
+      console.log(`  ⚠️  HTTP ${response.status} — backing off ${delay}ms`);
+      await new Promise(r => setTimeout(r, delay));
+    } catch (err: unknown) {
+      // Network errors (ENOTFOUND, ECONNRESET, etc.) — retry up to the limit.
+      if (attempt === MAX_ATTEMPTS) throw err;
+      const msg = err instanceof Error ? err.message : String(err);
+      // Re-throw 4xx errors immediately (message shape contains "HTTP 4")
+      if (/HTTP 4[0-28-9]/.test(msg)) throw err;
+      const delay = BASE_DELAY_MS * Math.pow(2, attempt - 1);
+      console.log(`  ⚠️  ${msg} — backing off ${delay}ms`);
+      await new Promise(r => setTimeout(r, delay));
+    }
   }
-
-  return await response.text();
+  // Unreachable — the loop either returns or throws.
+  throw new Error(`Exhausted retries for doc ${docId}`);
 }
 
 /**
- * Extract the document body content from Google Docs HTML export
- * and convert to markdown
+ * Process a single chunk of Google Docs HTML → Markdown.
+ * The chunk must be a full HTML document (with <style> and <body>) so the
+ * Cheerio+Turndown pipeline and CSS-class detection work correctly.
+ *
+ * Not exported — callers should use convertGDocToMarkdown which handles
+ * the full doc (with automatic chunking for large composite docs).
  */
-export function convertGDocToMarkdown(html: string): string {
+function convertHtmlChunk(html: string): string {
   // Parse CSS class→style mappings BEFORE loading into Cheerio and removing <style>.
   const styles = parseGDocStyles(html);
 
@@ -323,4 +339,79 @@ export function convertGDocToMarkdown(html: string): string {
   // Convert to markdown
   const rawMarkdown = turndownService.turndown(body.html() || '');
   return cleanupMarkdown(rawMarkdown);
+}
+
+/**
+ * Find the <style> block and <body> content of a Google Docs HTML export
+ * by raw string scanning (no DOM parse). This is fast even for 100MB+ docs
+ * and avoids the peak-memory problem of materializing the whole doc in
+ * Cheerio before we've even started processing.
+ */
+function extractStyleAndBody(html: string): { style: string; body: string } {
+  const styleMatch = html.match(/<style[^>]*>[\s\S]*?<\/style>/);
+  const style = styleMatch ? styleMatch[0] : '';
+  const bodyMatch = html.match(/<body[^>]*>([\s\S]*?)<\/body>/);
+  const body = bodyMatch ? bodyMatch[1] : html;
+  return { style, body };
+}
+
+/**
+ * Scan the body for <h1> tag positions using a non-DOM regex pass.
+ * Composite Google Docs are naturally segmented at <h1> boundaries
+ * (each review gets its own H1 heading), so splitting here gives us
+ * bounded peak memory per chunk.
+ */
+function findH1Boundaries(body: string): number[] {
+  const h1Re = /<h1\b[^>]*>/g;
+  const positions: number[] = [];
+  let m: RegExpExecArray | null;
+  while ((m = h1Re.exec(body)) !== null) positions.push(m.index);
+  return positions;
+}
+
+// Chunk-processing threshold. Docs smaller than this go through the single-shot
+// path (simpler, works fine). Larger docs get split at <h1> boundaries so each
+// chunk's DOM processing has bounded memory.
+const CHUNK_THRESHOLD_BYTES = 5 * 1024 * 1024;
+
+/**
+ * Extract the document body content from Google Docs HTML export
+ * and convert to markdown.
+ *
+ * For large composite docs (>5MB), the body is sliced at <h1> boundaries
+ * and each chunk is processed independently, keeping peak memory bounded
+ * to the largest single review rather than the whole document. This avoids
+ * the GC-thrash / OOM problem when processing 100MB+ source docs.
+ */
+export function convertGDocToMarkdown(html: string): string {
+  if (html.length < CHUNK_THRESHOLD_BYTES) {
+    return convertHtmlChunk(html);
+  }
+
+  const { style, body } = extractStyleAndBody(html);
+  const h1Positions = findH1Boundaries(body);
+
+  // Fallback: no H1 boundaries, nothing to split on.
+  if (h1Positions.length === 0) return convertHtmlChunk(html);
+
+  // Build chunks: [preamble, h1-section, h1-section, ...]
+  const ranges: Array<[number, number]> = [];
+  if (h1Positions[0] > 0) ranges.push([0, h1Positions[0]]);
+  for (let i = 0; i < h1Positions.length; i++) {
+    const end = i + 1 < h1Positions.length ? h1Positions[i + 1] : body.length;
+    ranges.push([h1Positions[i], end]);
+  }
+
+  const parts: string[] = [];
+  for (const [start, end] of ranges) {
+    const chunkBody = body.slice(start, end);
+    // Wrap in a minimal HTML shell so the style block is visible to our
+    // CSS-class detection and so Cheerio has a well-formed document.
+    const shell = `<!DOCTYPE html><html><head>${style}</head><body>${chunkBody}</body></html>`;
+    parts.push(convertHtmlChunk(shell));
+  }
+
+  // Concatenating cleaned chunks may produce 4+ consecutive blank lines at
+  // chunk boundaries. Collapse those once more.
+  return parts.join('\n\n').replace(/\n{4,}/g, '\n\n\n');
 }

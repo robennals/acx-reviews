@@ -136,7 +136,7 @@ export default async function ReviewPage({ params }: ReviewPageProps) {
 
         {/* Content */}
         <div className="max-w-3xl mx-auto px-6 sm:px-8 py-12 lg:py-16">
-          <ReviewContent contentHtml={review.contentHtml} />
+          <ReviewContent contentHtml={review.contentHtml} footnotes={review.footnotes} />
         </div>
 
         {/* Footer */}

@@ -7,7 +7,7 @@ contestName: 2025 Non Book Reviews
 year: 2025
 publishedDate: '2026-02-06T16:52:48.894Z'
 slug: googles-hiring-process-a-review
-wordCount: 2815
+wordCount: 2842
 readingTimeMinutes: 13
 originalUrl: >-
   https://docs.google.com/document/d/1d0vRSj1E93joWWvbUen2XGuDjN_mM94ybMIAADzM2fo
@@ -18,7 +18,7 @@ tags:
 
 It’s almost become a meme now that everyone wants to hire like Google, asking ridiculous questions about reversing a spliced linked binary hash tree in O(log(e^n!)) time.
 
-Meanwhile [sober analysts](https://x.com/GergelyOrosz/status/1842652638246285763) will tell you that while what Google does makes sense for them, it might not apply to your particular startup, yadda yadda yadda
+Meanwhile [sober analysts](https://x.com/GergelyOrosz/status/1842652638246285763) will tell you that while what Google does makes sense for them, it might not apply to your particular startup, yadda yadda yadda
 
 So how does Google actually hire? Might it work for you? Does it even work for them?
 
@@ -32,13 +32,13 @@ I’m an L5 software engineer at Google. I also do about 1 to 2 coding interview
 
 This is gonna come up a few times so let’s get it cleared up.
 
-L3: New hire, at most a few years out of school. They’re expected to need a fair bit of handholding, and you aren’t even allowed to ask them to bring you coffee anymore, which means that they can waste more time than they save. But the idea is they should eventually graduate and become a…
+**L3:** New hire, at most a few years out of school. They’re expected to need a fair bit of handholding, and you aren’t even allowed to ask them to bring you coffee anymore, which means that they can waste more time than they save. But the idea is they should eventually graduate and become a…
 
-L4: At this stage it’s expected that I can tell you what to do and you’ll get it done. They won’t take leadership over large projects, but anything in the space of a single person’s work for 2 weeks to a month they should be able to design and implement independently. You can stay an L4 indefinitely if you want to, but most SWEs will aim to make it to an:
+**L4:** At this stage it’s expected that I can tell you what to do and you’ll get it done. They won’t take leadership over large projects, but anything in the space of a single person’s work for 2 weeks to a month they should be able to design and implement independently. You can stay an L4 indefinitely if you want to, but most SWEs will aim to make it to an:
 
-L5: Now you’ll be expected to manage larger projects, including being lead developer on significant features or entire projects. You might architect an entire system, not just a minor change. Most developers stay here, but a lot continue to:
+**L5:** Now you’ll be expected to manage larger projects, including being lead developer on significant features or entire projects. You might architect an entire system, not just a minor change. Most developers stay here, but a lot continue to:
 
-L6+: At this stage you need to show you’re something impressive, and the standards get ever higher as you progress further. You might be the point man for designs for an entire team, or own some particularly impressive code or products. There’s rumored to be a lot of politics around this, and some claims that it leads to the whole killed by Google problem because an L7 needs to think of a new product to get promoted so decides that a new social network is just the ticket, then moves onto something else as soon as he’s got the goods. I dunno man, I just work here.
+**L6+:** At this stage you need to show you’re something impressive, and the standards get ever higher as you progress further. You might be the point man for designs for an entire team, or own some particularly impressive code or products. There’s rumored to be a lot of politics around this, and some claims that it leads to the whole killed by Google problem because an L7 needs to think of a new product to get promoted so decides that a new social network is just the ticket, then moves onto something else as soon as he’s got the goods. I dunno man, I just work here.
 
 ## How does the hiring process at Google work?
 
@@ -50,9 +50,9 @@ Every interview at Google is 45 minutes long. The first 5 minutes are just chit-
 
 There’s 3 types of interviews an average candidate might face:
 
-*   Coding and Algorithms (C&A)
-*   Googleyness and Leadership (G&L)
-*   System Design
+> *   Coding and Algorithms (C&A)
+> *   Googleyness and Leadership (G&L)
+> *   System Design
 
 System design is usually for L5+ candidates, and I don’t do them, so I won’t discuss it. We’ll focus more on the other two later.
 
@@ -68,9 +68,9 @@ If they pass all of that they’ll need to be allocated to a team. Sometimes can
 
 Google uses a structured grading rubric. What that means in practice is:
 
-1.  The interviewer will write up everything that happened in the interview, but the chances are nobody’s ever going to look at that.
-2.  They then rate the candidate from 1 to 4 on a variety of skills - e.g. coding, communication, testing, etc. There’s a detailed description of what each rating means for each skill, and they write up a couple of sentences about why the candidate deserved that rating.
-3.  Finally they rate the candidate anywhere from Strong No Hire to Strong Hire, and give a brief justification for this rating.
+> 1.  The interviewer will write up everything that happened in the interview, but the chances are nobody’s ever going to look at that.
+> 2.  They then rate the candidate from 1 to 4 on a variety of skills - e.g. coding, communication, testing, etc. There’s a detailed description of what each rating means for each skill, and they write up a couple of sentences about why the candidate deserved that rating.
+> 3.  Finally they rate the candidate anywhere from Strong No Hire to Strong Hire, and give a brief justification for this rating.
 
 The descriptions for each skill depend on the level the candidate is aiming for, so L3s have lower expectations than L5s. You can also optionally rate the candidate for one level above or below their target level, if you think they outperformed your expectations, or that they aren’t good enough for L4 but would be fine as an L3.
 
@@ -96,9 +96,9 @@ Let’s give some examples:
 
 BAD
 
-Given an array arr[] and an integer k, where arr[i] denotes the number of pages of a book and k denotes total number of students. All the books need to be allocated to k students in contiguous manner, with each student getting at least one book.
+_Given an array arr[] and an integer k, where arr[i] denotes the number of pages of a book and k denotes total number of students. All the books need to be allocated to k students in contiguous manner, with each student getting at least one book._
 
-The task is to minimize the maximum number of pages allocated to a student. If it is not possible to allocate books to all students, return -1.
+_The task is to minimize the maximum number of pages allocated to a student. If it is not possible to allocate books to all students, return -1._
 
 This is the first hard question on [https://www.geeksforgeeks.org/google-interview-questions/](https://www.geeksforgeeks.org/google-interview-questions/)
 
@@ -110,7 +110,7 @@ Thirdly, this question doesn’t distinguish between someone fresh outta college
 
 GOOD
 
-Given a number of filepaths, include as much of the end of each filepath as is necessary to uniquely identify it from all the others. So if you have “home/app/a”, “home/app/b”, and “home/config/a” return “app/a”, “b”, and “config/a”.
+_Given a number of filepaths, include as much of the end of each filepath as is necessary to uniquely identify it from all the others. So if you have “home/app/a”, “home/app/b”, and “home/config/a” return “app/a”, “b”, and “config/a”._
 
 This is the sort of thing that comes up in real life. I know it comes up in real life because it happened to me last week. And I know that there’s lots of approaches, it’s full of edge cases, an initial solution can be hacked out in 10 minutes, and handling all the edge cases can take waaaaay longer than you thought. And then your reviewer can tell you it’s not necessary and you wasted your entire morning. And then it turns out it is necessary, and you have to spend an hour trying to find it using unspeakable git commands. Only to eventually pick a different approach.
 
@@ -120,8 +120,8 @@ In short, this is coding in the trenches. How you solve this problem tells me wh
 
 In this interview you’ll be asked 4 to 6 behavioral questions. Things like:
 
-*   Have you ever worked on a project which failed? Why? How could you have let it fail? Are you just a pathetic miserable excuse for a human? Why do you even think you’re worthy to look at me, a Googler?
-*   What would you do if you disagreed with your boss? Yeah right? No you wouldn’t, you would silently nod and take it wouldn’t you? Yes, that’s right, you would.
+> *   Have you ever worked on a project which failed? Why? How could you have let it fail? Are you just a pathetic miserable excuse for a human? Why do you even think you’re worthy to look at me, a Googler?
+> *   What would you do if you disagreed with your boss? Yeah right? No you wouldn’t, you would silently nod and take it wouldn’t you? Yes, that’s right, you would.
 
 I have no unresolved trauma from my own interview.
 
@@ -135,8 +135,8 @@ Given how much I’ve bad-mouthed the interview process, here’s the point wher
 
 Unfortunately I can’t for two reasons:
 
-1.  I forgot all about the deadline and rushed this off in half an hour. I don’t have any data.
-2.  The results actually seem to be quite good.
+> 1.  I forgot all about the deadline and rushed this off in half an hour. I don’t have any data.
+> 2.  The results actually seem to be quite good.
 
 Developers at Google are consistently among the strongest I’ve ever worked with. At previous companies I was always the most talented developer in every team. Now I’m often not. And the levels seem roughly appropriate - when I find out which level a colleague is (it’s hidden by default) I’m rarely surprised.
 
@@ -150,31 +150,31 @@ Secondly Google has a huge pool of talented candidates, and candidates are prepa
 
 So, what would I recommend Google keep about their hiring process, and what would I recommend they change?
 
-The Good
+**The Good**
 
-*   Structured interviews with clear rubrics
-*   A separate hiring committee that sees all feedback and makes a decision
-*   Feedback is anonymised and doesn’t include e.g. gender or other identifying characteristics
-*   Hiring for generic roles instead of a specific position. Microsoft style team specific hiring is silly.
-*   Allowing candidates to use any programming language. Good developers can pick up a language in a month, Google isn’t in a rush.
-*   One preliminary interview, with a larger number of followup interviews.
-*   The shared UI is good, including the fact it doesn’t have a compiler - this forces interviewer and candidate to focus more on high level, and less on minutiae of syntax.
-*   Having an actual coding interview is crucial. So many candidates with incredibly impressive resumes are basically incapable of writing code.
-*   Consistent interviewing standards across the company means there’s no barrier to moving between teams.
-*   The systems design interview is generally good.
-*   Once a candidate has been accepted or rejected, interviewers get to see what other interviewers thought. This is a good way to check you’re calibrated.
+> *   Structured interviews with clear rubrics
+> *   A separate hiring committee that sees all feedback and makes a decision
+> *   Feedback is anonymised and doesn’t include e.g. gender or other identifying characteristics
+> *   Hiring for generic roles instead of a specific position. Microsoft style team specific hiring is silly.
+> *   Allowing candidates to use any programming language. Good developers can pick up a language in a month, Google isn’t in a rush.
+> *   One preliminary interview, with a larger number of followup interviews.
+> *   The shared UI is good, including the fact it doesn’t have a compiler - this forces interviewer and candidate to focus more on high level, and less on minutiae of syntax.
+> *   Having an actual coding interview is crucial. So many candidates with incredibly impressive resumes are basically incapable of writing code.
+> *   Consistent interviewing standards across the company means there’s no barrier to moving between teams.
+> *   The systems design interview is generally good.
+> *   Once a candidate has been accepted or rejected, interviewers get to see what other interviewers thought. This is a good way to check you’re calibrated.
 
-The Bad
+**The Bad**
 
-*   Asking questions which are too algorithm heavy, instead of real life questions.
-*   The Googleyness and Leadership interview causes a lot of misery, for very little signal.
-*   The feedback process can be very slow, with candidates occasionally waiting months to receive an offer.
-*   Software developers frequently give G&L interviews to hardware engineers. This usually goes terribly.
+> *   Asking questions which are too algorithm heavy, instead of real life questions.
+> *   The Googleyness and Leadership interview causes a lot of misery, for very little signal.
+> *   The feedback process can be very slow, with candidates occasionally waiting months to receive an offer.
+> *   Software developers frequently give G&L interviews to hardware engineers. This usually goes terribly.
 
-The Ugly
+**The Ugly**
 
-*   Telling candidates they need to practise for weeks before their interview is crazy. Ban any mention of a min-heap, a binary-tree, or dynamic programming from the question bank.
-*   Of the last 50 people I’ve interviewed, only 4 received offers.
+> *   Telling candidates they need to practise for weeks before their interview is crazy. Ban any mention of a min-heap, a binary-tree, or dynamic programming from the question bank.
+> *   Of the last 50 people I’ve interviewed, only 4 received offers.
 
 ## What about AI?
 

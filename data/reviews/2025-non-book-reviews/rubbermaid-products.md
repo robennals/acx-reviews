@@ -7,7 +7,7 @@ contestName: 2025 Non Book Reviews
 year: 2025
 publishedDate: '2026-02-06T16:55:03.485Z'
 slug: rubbermaid-products
-wordCount: 4998
+wordCount: 5014
 readingTimeMinutes: 23
 originalUrl: >-
   https://docs.google.com/document/d/1a3q0Z2tuPLLbDeg5-pfEffkajGjrfPDwE7ZMs7uaWQs
@@ -16,13 +16,13 @@ tags:
   - Society
 ---
 
-Choosing a topic for an open review contest is a special kind of problem, one with its own kind of meta to satisfy. I could just find something shockingly interesting to write about. I could then let that fact do most of the work for me, cheating my way through on the coattails of the subject’s excellence where I should have just manned up, girded my loins for battle, and proved my worth by working great wonders of art out of the most mundane of materials.
+Choosing a topic for an open review contest is a special kind of problem, one with its own kind of meta to satisfy. I _could_ just find something shockingly interesting to write about. I could then let that fact do most of the work for me, cheating my way through on the coattails of the subject’s excellence where I should have just manned up, girded my loins for battle, and proved my worth by working great wonders of art out of the most mundane of materials.
 
 That would have been against the spirit of the thing. To justify yourself in a contest like this, you want a subject that’s boring on the face but still somehow boiling with potential under the surface. You want something that’s nowhere near sturdy enough to use as a crutch, yet still capable of staying up under its own weight while you build a story around it.
 
-That’s not the easiest thing, because most things that are good are also boring. When San Francisco finally collapses under its own diseased weight, it’s going to be for that reason. Someone, uncontent with just enjoying good things, will tear a hole to a dark dimension open with a polycule accelerator, and that will be that.
+That’s not the easiest thing, because most things that are _good_ are also _boring._ When San Francisco finally collapses under its own diseased weight, it’s going to be for that reason. Someone, uncontent with just _enjoying good things,_ will tear a hole to a dark dimension open with a polycule accelerator, and that will be that.
 
-You not only deserve more than that, you want more than that. You want a topic about something simple and solid, something worthy and worthwhile. You want to hear about something dependable, something that takes pride in never, ever letting the people who depend on it down.
+You not only deserve more than that, you _want_ more than that. You want a topic about something simple and solid, something worthy and worthwhile. You want to hear about something dependable, something that takes pride in never, ever letting the people who depend on it down.
 
 In short, you want Rubbermaid. Luckily for me, I’ve long since been on record as being about as pro-Rubbermaid as it’s possible to be:
 
@@ -36,21 +36,21 @@ When the idea for this article hit me, I went around the house grabbing every ob
 
 The problem was that it would have been too much. There’s just too much to say. To give you an idea of why, here’s a single story from my household’s Rubbermaid mythos:
 
-Children, we have not always been well-to-do, as we now are. Far from it. When you each were born, you were individually and collectively sopping up so many resources we could hardly afford socks, let alone luxuries. Yet we still craved them, simple as our definition of luxuries might have been.
+> Children, we have not always been well-to-do, as we now are. Far from it. When you each were born, you were individually and collectively sopping up so many resources we could hardly afford socks, let alone luxuries. Yet we still craved them, simple as our definition of luxuries might have been.
+>
+> Chief among those was a ready supply of ice, one that needed not to be fetched from Circle K or McDonalds. We could not afford to retrofit our fridge with an ice-maker, so we went with the next closest option: dollar store ice trays.
+>
+> The trays they sell at the dollar store sure seem like they’ll work to make ice. They have cups that seem like they are the right shape to retain water as it’s cooled. They are slightly flexible, as you’d imagine they should be. They are white, or sometimes blue, as ice trays traditionally are.
+>
+> There was just one problem: They didn’t work. Whoever had designed the trays had designed them to look just like ice trays do, but lacked the wisdom or resources to actually make them function. When the water froze, twisting the trays would break the cubes, or fail to dislodge them at all. I would spend time carefully exposing the backs of the cups to hot water to slightly melt the cubes to get them out, or else dig at them with a butter knife.
+>
+> The durability of the trays was no better. Over time, they’d become brittle and snap, rendered into garbage. Eventually, the ice tray budget mounted to such heights that I snapped, looking for what I at the time called _rich people ice trays,_ the ones the coastal elites probably bought themselves before settling down into armchairs and reading _The New Yorker._
+>
+> The internet pushed me towards rubbermaid trays, and it’s never been more right about anything else. They made ice AND released it. They were standard-looking objects that didn’t offend my salt-of-the-earth sensibilities, but they also just wouldn’t break, no matter how long I owned them.
+>
+> They were perfect.
 
-Chief among those was a ready supply of ice, one that needed not to be fetched from Circle K or McDonalds. We could not afford to retrofit our fridge with an ice-maker, so we went with the next closest option: dollar store ice trays.
-
-The trays they sell at the dollar store sure seem like they’ll work to make ice. They have cups that seem like they are the right shape to retain water as it’s cooled. They are slightly flexible, as you’d imagine they should be. They are white, or sometimes blue, as ice trays traditionally are.
-
-There was just one problem: They didn’t work. Whoever had designed the trays had designed them to look just like ice trays do, but lacked the wisdom or resources to actually make them function. When the water froze, twisting the trays would break the cubes, or fail to dislodge them at all. I would spend time carefully exposing the backs of the cups to hot water to slightly melt the cubes to get them out, or else dig at them with a butter knife.
-
-The durability of the trays was no better. Over time, they’d become brittle and snap, rendered into garbage. Eventually, the ice tray budget mounted to such heights that I snapped, looking for what I at the time called rich people ice trays, the ones the coastal elites probably bought themselves before settling down into armchairs and reading The New Yorker.
-
-The internet pushed me towards rubbermaid trays, and it’s never been more right about anything else. They made ice AND released it. They were standard-looking objects that didn’t offend my salt-of-the-earth sensibilities, but they also just wouldn’t break, no matter how long I owned them.
-
-They were perfect.
-
----  
+---  
 
 That story is perhaps a bit dull. I admit it, and I’m fine with it. On the subject level, dull-as-virtue is what this article is about. Like it or not, you need a bunch of mundane, banal stuff to keep your quality-of-life at levels worth living. Even if you are an anti-consumer, anti-capitalism hater of goods, you still need soap and cleaning tools to enjoy even pre-capitalism levels of living.
 
@@ -64,11 +64,11 @@ Without that guarantee, a purchased doorknob might bring you something you’ll 
 
 But there’s other ways to get you.
 
-In the era I grew up in, the way soap was advertised was telling the consumer that it got things especially clean. Eventually, people started to care about other things, manufacturers started to focus on those things, and it muddied the waters more. You now can buy beautiful, expensive goods that hit a high bar for looking like quality but miss all but the most minimal standards of actually working.
+In the era I grew up in, the way soap was advertised was telling the consumer that it got things especially clean. Eventually, people started to care about other things, manufacturers started to focus on those things, and it muddied the waters more. You now can buy beautiful, expensive goods that hit a high bar for looking like quality but miss all but the most minimal standards of _actually working._
 
 As cleaners that come in spray bottles go, here is one that’s considered fairly exciting by the admittedly limited standards of the field:
 
-![](https://acximages.ennals.org/images/2025-non-book-reviews/77b30b728472ed56.png) 
+![](https://acximages.ennals.org/images/2025-non-book-reviews/77b30b728472ed56.png) 
 
 Look at those pretty bottles. So colorful. That’s this company’s whole jam - bottles and ad copy. Here’s a brush from the same company, or at least the same store you’d buy the soap at:  
   
@@ -76,13 +76,13 @@ Look at those pretty bottles. So colorful. That’s this company’s whole jam -
 
 The copy that the company uses to sell either is about as attractive. Here, they say, is a sustainable product made with delightfully crunchy ingredients, each more hippy-commune than the last. They are “natural”. They are, I swear this is true, a scented summer-specific collection.
 
-As you probably expect from my lead-up to this, they also don’t work very well. The company knows what’s sexy, and they pursue it with a single-minded focus that doesn’t leave a lot of room for something like functioning to a high standard. I’m sure that this means that, in their niche, they sell a lot of goods. It also means their products are a trap - they are reviewed well, but you are going to pay more to get less by functional standards.
+As you probably expect from my lead-up to this, they also don’t work very well. The company knows what’s sexy, and they pursue it with a single-minded focus that doesn’t leave a lot of room for something like _functioning to a high standard._ I’m sure that this means that, in their niche, they sell a lot of goods. It also means their products are a trap - they are reviewed well, but you are going to pay more to get less by functional standards.
 
 (Note: My wife says I love their hand soap. She’s very likely right on that. I do forget things like this. To be more fair, I want to say that I think the stuff I panned above is probably better than most off-the-shelf grocery store stuff, like 409. More on this later.)
 
-I’m not saying all this just to whine about sissy reasoning that says a pretty bottle should triumph over silly things like soap actually doing a good job, as much as I love doing it. I’m saying it to try and emphasize how nice it is, sometimes, to know of a brand that has never tried to do anything but be absolutely dependable. That doesn’t try to be colorful or fashionable, and has never come close to achieving sexy, but that has always and forever been safe to trust with whatever it says it can handle.
+I’m not saying all this just to whine about sissy reasoning that says a pretty bottle should triumph over silly things like soap actually doing a good job, as much as I love doing it. I’m saying it to try and emphasize how nice it is, sometimes, to know of a brand that has never tried to do anything but be absolutely dependable. That doesn’t try to be colorful or fashionable, and has never come close to achieving _sexy,_ but that has always and forever been safe to trust with whatever it says it can handle.
 
-Rubbermaid is the topic of this review for a reason, and it’s this: They never, ever fail. Rubbermaid is in the business of making things that work. Are they always pretty? No. They are often as ugly as sin. Are they sexy? Nope. They are the shape they need to be to do the job, made out of materials that optimize for adjectives like effective and durable.
+Rubbermaid is the topic of this review for a reason, and it’s this: They never, ever fail. Rubbermaid is in the business of making things that work. Are they always pretty? No. They are often as ugly as sin. Are they sexy? Nope. They are the shape they need to be to do the job, made out of materials that optimize for adjectives like _effective_ and _durable._
 
 When you are looking for a particular kind of tool and find that rubbermaid makes one, you can buy it without any hesitation. It’s going to work well, it’s going to be fine for the job, and these things are going to be true. Every. Single. Time.
 
@@ -92,7 +92,7 @@ I needed a way around that. To the extent I could, I think I found one. So tight
 
 ---
 
-The plan, as it was, was relatively simple. This not having to be an interesting article in a topic sense helped a lot. I would buy a friend a broom. I would pick a man of unimpeachable honor and honesty, a capable man who hated the very idea of a bribe. He would be forced to accept the Rubbermaid boon I thrust upon him. He’d use it to clean up little scraps of paper or whatever, and tell me how it did.
+The plan, as it was, was relatively simple. This not having to be an _interesting_ article in a topic sense helped a lot. I would buy a friend a broom. I would pick a man of unimpeachable honor and honesty, a capable man who hated the very idea of a bribe. He would be forced to accept the Rubbermaid boon I thrust upon him. He’d use it to clean up little scraps of paper or whatever, and tell me how it did.
 
 At the same time, I'd buy another Rubbermaid broom. I'm a fanboy, and so not to be trusted at all, but I could at least be another datapoint. You could compare my conclusions to his, pick an arbitrary point on a line drawn between our two positions, and probably come away with at least the illusion of balance.
 
@@ -102,9 +102,9 @@ His part of the plan went swimmingly. He's a more traditional kind of guy, sort 
 
 I liked this for a couple reasons. The first was how well it fit the general Rubbermaid vibe. I mean, just look at that bad boy. There's not an exciting atom in the entire thing. If being thrilling was a sense of professional decorum in one’s private life, it would be the cleaning product equivalent of the Shamwow guy. If goosebump-giving capacity was an understanding of adequate firearm holsters, it would be the tidying-up counterpart to Plaxico Burress.
 
-I am a broom, It says, and I am here for sweeping and not a damn thing else. 
+_I am a broom,_ It says, _and I am here for sweeping and not a damn thing else._ 
 
-The second reason I liked it is how much it didn't fit the Rubbermaid vibe in other ways. There's hardly any rubber on it that I can see. It's not a tub. It's not a Tupperware. It's not a miracle of polymer molding. It's just a broom in a mostly-natural-materials format of object Rubbermaid doesn't generally make. If there was a place where their steel-belted reliability failed, you'd expect it to be here, outside their comfort zone and far out on a bristled limb.
+The second reason I liked it is how much it _didn't_ fit the Rubbermaid vibe in other ways. There's hardly any rubber on it that I can see. It's not a tub. It's not a Tupperware. It's not a miracle of polymer molding. It's just a broom in a mostly-natural-materials format of object Rubbermaid doesn't generally make. If there was a place where their steel-belted reliability failed, you'd expect it to be here, outside their comfort zone and far out on a bristled limb.
 
 He got it, used it a few times, and reported back:
 
@@ -124,21 +124,21 @@ I mean, look at it. Really look at it. What could I do?
 
 This, folks, is an iron-handled bristle brush suitable for small-to-medium-scale cleaning, and not a single thought was given to making it pretty. It's a rubber-duck yellow handle over liberal arts college my-parents-just-don't-get-it hair dye blue, two colors that do not generally look good alone and do not by any means go well together here.
 
-I am a brush, it whispers. I am for brushing things. If I was slightly darker and less neon in hue, I would be the color motif for Ridley Scott's Gladiator. I knew that and didn't do it anyway. I'm here to put bristles to dirty things around your house and I have no idea why you'd want anything else.
+_I am a brush,_ it whispers. _I am for brushing things. If I was slightly darker and less neon in hue, I would be the color motif for Ridley Scott's Gladiator. I knew that and didn't do it anyway. I'm here to put bristles to dirty things around your house and I have no idea why you'd want anything else._
 
-It's that complete lack of compromise, the clear refusal to do a single form thing if it meant sacrificing any function, that sold me. I gave up on the broom and ordered the brush, changing my testing plans from "sweep some stuff" to "scrub some stuff" in a single smooth motion, like a master swordsman disarming the fop son of a corrupt nobleman. I hit "Buy it Now", an option somehow completely inadequate for the sense of urgency I felt. It was a moment of destiny.
+It's that complete lack of compromise, the clear refusal to do a single _form_ thing if it meant sacrificing any _function_, that sold me. I gave up on the broom and ordered the brush, changing my testing plans from "sweep some stuff" to "scrub some stuff" in a single smooth motion, like a master swordsman disarming the fop son of a corrupt nobleman. I hit "Buy it Now", an option somehow completely inadequate for the sense of urgency I felt. It was a moment of destiny.
 
 And now, in a way that’s only mostly unrelated, here's a story about stainless steel thermal coffee tumblers:
 
-My wife asked me for a stainless steel coffee tumbler one time, trying to identify one that had a "click-lock" hinged lid flap that secured itself by pressure and friction when pushed down towards the cup itself. I looked for a while, found Rubbermaid made one, and bought it for a price I believe was around eight dollars.
-
-It worked very well for a few years, staying completely leak-free and adequately preserving the desired temperature of beverages until she replaced it with another more fashionable cup years later. It still sits in our cupboard, fully functional.
+> My wife asked me for a stainless steel coffee tumbler one time, trying to identify one that had a "click-lock" hinged lid flap that secured itself by pressure and friction when pushed down towards the cup itself. I looked for a while, found Rubbermaid made one, and bought it for a price I believe was around eight dollars.
+>
+> It worked very well for a few years, staying completely leak-free and adequately preserving the desired temperature of beverages until she replaced it with another more fashionable cup years later. It still sits in our cupboard, fully functional.
 
 Did that story bore you? You, a person who might one day need to buy a cup? Hold fast, friend. Push through the ennui. Wisdom is like turgor pressure; it can take a while to work, but when it does it can push aside even the thickest of barriers.
 
 Back to business.
 
-One of the advantages of things like Rubbermaid is that they are commonly purchased items. Amazon doesn't need to get them to a warehouse near you, usually, because they are already there. A day later, I had my hands on the brush, gently cradling it in my grasp like a man returned from sea with sufficient spice-wealth cradles his soon-to-be bride. Against my palm, the bristles were firm and unyielding, as rigid as needed to quest against grime. I named her Stiffany.
+One of the advantages of _things like Rubbermaid_ is that they are commonly purchased items. Amazon doesn't need to get them to a warehouse near you, usually, because they are already there. A day later, I had my hands on the brush, gently cradling it in my grasp like a man returned from sea with sufficient spice-wealth cradles his soon-to-be bride. Against my palm, the bristles were firm and unyielding, as rigid as needed to quest against grime. I named her Stiffany.
 
 She asked that I tell you how to use her.
 
@@ -146,19 +146,19 @@ She asked that I tell you how to use her.
 
 This brings us around to some of the practical-advantage stuff I said I'd grant you near-but-not-at the beginning of the article. Specifically, I'm going to teach you the correct way to clean a toilet, to the extent that one exists that's available to you or me.
 
-The reason I'm saying that in the specific weird way I've chosen is there's always going to be a lot of tools you don't or can't have access to that would make the job a little easier. The actual best way to clean a toilet is in a room with commercial drains and water-impermeable walls such as allow you to add a full garden hose to the mix and use the sheer volume and pressure of the water to flood away the filth.  
+The reason I'm saying that in the specific weird way I've chosen is there's always going to be a lot of tools you don't or can't have access to that would make the job a little easier. The _actual_ best way to clean a toilet is in a room with commercial drains and water-impermeable walls such as allow you to add a full garden hose to the mix and use the sheer volume and pressure of the water to flood away the filth.  
 
-If you want to go even further, The theoretical best ways to clean a toilet is by having a toilet shaped autoclave you can pop over it, or else an army of nano-bots that put all the porcelain and enamel back in place once they consume all your remnant urea for fuel.
+If you want to go even further, The _theoretical_ best ways to clean a toilet is by having a toilet shaped autoclave you can pop over it, or else an army of nano-bots that put all the porcelain and enamel back in place once they consume all your remnant urea for fuel.
 
 There's also going to be some perfectly good ways of cleaning a toilet that rival mine, are available to a normal person, and might even be more convenient/effective/"fun?" than mine.
 
 I don't have the ability to grant you the impossible side of things, or the knowledge to give you better lessons than I know how to teach. In lieu of that, mine's just the best one available, the most I can do for the sake of this article. I’ll treat it as if it’s absolute. It's easier that way.
 
-The first move is to assemble your materials. Like the end of a DnD campaign, your toilet is in a lot of ways the bigbad of the home cleanliness cycle. It's gross. Worse, it seems gross, which is a subtly different thing. It's a weird shape and has nooks and crannies, which amps the difficulty level up even further.
+The first move is to assemble your materials. Like the end of a DnD campaign, your toilet is in a lot of ways the bigbad of the home cleanliness cycle. It's gross. Worse, it _seems_ gross, which is a subtly different thing. It's a weird shape and has nooks and crannies, which amps the difficulty level up even further.
 
 Continuing the metaphor, this is your last shopping run of the entire campaign, a chance to dump all your otherwise useless gold on potions of resistance that will trivialize the encounter and make your DM appropriately upset at you for "being a bunch of damn min-max munchkin bastards."
 
-Your first choice is between rags and paper towels. I'm a paper towel guy, but I also am the kind of fellow who wants to watch the world burn. If you want a more environmental choice, you can go the cloth-rag route; it's probably a greater impact on carbon emissions overall, but it doesn't feel that way, and deep in your soul you are aware that the overall feel of the thing is the bigger part of the virtue. Follow your feelings. Either option is fine.
+Your first choice is between rags and paper towels. I'm a paper towel guy, but I also am the kind of fellow who wants to watch the world burn. If you want a more environmental choice, you can go the cloth-rag route; it's probably a greater impact on carbon emissions overall, but it doesn't _feel_ that way, and deep in your soul you are aware that the overall feel of the thing is the bigger part of the virtue. Follow your feelings. Either option is fine.
 
 The brush is still here. Don't worry about the brush, brothers and sisters. It is not nor can it ever be forgotten. Put it in your little bucket of supplies, and we’ll talk about saponifying fluids.
 
@@ -178,7 +178,7 @@ Once the toilet is scrubbed, you are going to work the first of two cycles of wi
   
 Your secondary wipe, using a fresh cloth, is meant to clear the battlefield of all such stragglers. If you use the first rag here, you leave behind as much as you take away. A clean cloth (especially if it’s a folded-over paper towel) will leave you with nothing but pristine white.
 
-At the end, you will stand above the commode in victory, wiping the edges of the hinges clear of the last bits of detergent. The bowl is mostly a function of the same kinds of efforts, only subbing in repeated flushing for the work of the rag and allowing a toilet brush to do the work of your hand-scrubber. The only exception here is stains or discoloration. The cleaning supply industry knows you see these as infections of color and will try to sell you bleach products for them. This is because you are stupid. Don't worry; we all were as you once.
+At the end, you will stand above the commode in victory, wiping the edges of the hinges clear of the last bits of detergent. The bowl is mostly a function of the same kinds of efforts, only subbing in repeated flushing for the work of the rag and allowing a toilet brush to do the work of your hand-scrubber. The only exception here is stains or discoloration. The cleaning supply industry knows you see these as _infections of color_ and will try to sell you bleach products for them. This is because you are stupid. Don't worry; we all were as you once.
 
 The actual problem you are dealing with is calcium scale. Like the riches of a third-world country, the stains you see are broadly locked up in the toilet's mineral wealth. As with Peru or whatever, it takes the correct type of pressure to topple them. CLR is your friend here. Follow the label instructions and pour some in, then watch it melt away the prison over time and set the poor pee-colored captives free like an acidic toilet messiah.
 
@@ -192,7 +192,7 @@ Of course, I just did every toilet-scrubbing step described above myself. I'm no
 
 How did the brush hold up, you ask? Fine. It did fine. It cleaned the toilet well. It’s rinsed out now, waiting for its next job.
 
-That's the point. It's a Rubbermaid brush. I wasn't looking for it to shake the foundations of my world. I was looking for it to be a good brush, as opposed to a shitty one. It did that. It had a nice taper to the front that let me work around into odd angles, the bristles were bristles and didn't fall out, and it didn't scratch anything. The handle was shaped to be gripped by hands, like I like them.
+That's the point. It's a Rubbermaid brush. I wasn't looking for it to shake the foundations of my world. I was looking for it to be a _good brush_, as opposed to a shitty one. It did that. It had a nice taper to the front that let me work around into odd angles, the bristles were bristles and didn't fall out, and it didn't scratch anything. The handle was shaped to be gripped by hands, like I like them.
 
 What it wasn't was cheap and shitty. It also wasn't overpriced and shitty, which as previously mentioned is a real risk here. It was just a workman's brush, up to the task in every respect but looking to do nothing but consistently complete its objectives.
 

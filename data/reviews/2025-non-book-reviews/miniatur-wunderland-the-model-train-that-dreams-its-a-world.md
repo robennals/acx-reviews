@@ -7,7 +7,7 @@ contestName: 2025 Non Book Reviews
 year: 2025
 publishedDate: '2026-02-06T16:55:03.480Z'
 slug: miniatur-wunderland-the-model-train-that-dreams-its-a-world
-wordCount: 6802
+wordCount: 6846
 readingTimeMinutes: 31
 originalUrl: >-
   https://docs.google.com/document/d/1a3q0Z2tuPLLbDeg5-pfEffkajGjrfPDwE7ZMs7uaWQs
@@ -34,11 +34,11 @@ This is still a deeply inadequate description. But it's precisely this struggle 
 
 ## What makes Miniatur Wunderland so difficult to explain?
 
-Miniatur Wunderland presents the classic [ekphrasis](https://www.wikiwand.com/en/articles/Ekphrasis) challenge of translating a visual experience into words, with the difficulty dial turned all the way to Nightmare mode. There are thousands of tiny scenes happening simultaneously across different landscapes. The density of visual information borders on sensory overload, and describing it feels like trying to explain a Hieronymus Bosch painting. Although I'd admit Bosch poses his own unique challenges, a certain je ne sais [(pour)quoi is that naked man being devoured by a bird-headed monster wearing a kettle as a hat?](https://www.artspace.com/magazine/interviews_features/lists/the-10-worst-ways-to-die-in-a-hieronymous-bosch-painting-53872) Which Miniatur Wunderland mostly avoids. Mostly.
+Miniatur Wunderland presents the classic [ekphrasis](https://www.wikiwand.com/en/articles/Ekphrasis) challenge of translating a visual experience into words, with the difficulty dial turned all the way to Nightmare mode. There are thousands of tiny scenes happening simultaneously across different landscapes. The density of visual information borders on sensory overload, and describing it feels like trying to explain a Hieronymus Bosch painting. Although I'd admit Bosch poses his own unique challenges, a certain je ne sais [(pour)quoi is that naked man being devoured by a bird-headed monster wearing a kettle as a hat?](https://www.artspace.com/magazine/interviews_features/lists/the-10-worst-ways-to-die-in-a-hieronymous-bosch-painting-53872) Which Miniatur Wunderland mostly avoids. Mostly.
 
 The problem extends beyond words failing where sight would succeed. If that were the only issue, photographs could bridge the gap. But photographs of Miniatur Wunderland are flawed in their own way. They flatten, freeze and crop an expansive 3-D world that's meant to be explored in motion, with the freedom to stick your nose wherever you please and the joy of stumbling upon whimsical details tucked into unlikely corners [4].
 
-Still, you might be able to triangulate from a mosaic of flawed representations. So, if you have some time to spare and want a hint of what I’m talking about, you can (optionally) watch [this video](https://youtu.be/R669l5CA1YA) (and others on their YouTube channel) or and/or poke around in [this Google](https://www.google.com/maps/about/behind-the-scenes/streetview/treks/miniatur-wunderland/) [Street](https://www.google.com/maps/about/behind-the-scenes/streetview/treks/miniatur-wunderland/) [Mini View](https://www.google.com/maps/about/behind-the-scenes/streetview/treks/miniatur-wunderland/) ([Google used](https://youtu.be/mnqh8xhDh7Q) tiny vehicles equipped with camera rigs to record parts of the layout). Both are out of date and limited to only a few parts of the exhibit. But they are something.
+Still, you might be able to triangulate from a mosaic of flawed representations. So, if you have some time to spare and want a hint of what I’m talking about, you can (optionally) watch [this video](https://youtu.be/R669l5CA1YA) (and others on their YouTube channel) or and/or poke around in [this Google](https://www.google.com/maps/about/behind-the-scenes/streetview/treks/miniatur-wunderland/) [Street](https://www.google.com/maps/about/behind-the-scenes/streetview/treks/miniatur-wunderland/) [Mini View](https://www.google.com/maps/about/behind-the-scenes/streetview/treks/miniatur-wunderland/) ([Google used](https://youtu.be/mnqh8xhDh7Q) tiny vehicles equipped with camera rigs to record parts of the layout). Both are out of date and limited to only a few parts of the exhibit. But they are something.
 
 Otherwise, definitely no homework required to continue reading! Here are a few photos to help you get some extra context:
 
@@ -80,28 +80,28 @@ Let me elaborate on these one by one.
 
 Miniatur Wunderland has:
 
-*   1,694 m2 of miniature layout (in a 10,000 m2 old warehouse space), most of it on a 1:87 scale.
-*   1,231 trains, circulating on a 16,491m track (which would translate to roughly 1,400km in real life, which is approximately the traversal length of Great Britain, from the southwest to the northeast. Or a bit more than the distance between NYC and Chicago).
-*   11,800 cars and other road vehicles
-*   52 planes that operate 250 flights per day
-*   292,110 tiny residents
-*   5,278 buildings
-*   521,500 LEDs
-*   12 themed worlds:
-
-*   Knuffingen (2001): a fictional German town, famous for its extremely efficient fire brigade.
-*   Central Germany (2001): classic rural scenes and towns
-*   Austria (2001): includes the Alpine mountains, plenty of tunnels and ski resorts.
-*   Hamburg (2002): key landmarks from the host city, including the port, St. Michael’s Church, the Elbphilharmonie, and even a miniature version of Miniatur Wunderland itself.
-*   The US (2003): Las Vegas, Miami, Grand Canyon, the Old Wild West, Mount Rushmore, a (working) space shuttle launch in Cape Canaveral, and Area 51 (excellent for alien-watching).
-*   Scandinavia (2005): Norway, Sweden, Denmark, Finland, and a 30,000-liter water basin representing the North and Baltic Seas, complete with moving ships and tidal changes.
-*   Switzerland (2010): includes the Matterhorn, the Castle of Montebello, mountain villages, a chocolate factory (that actually gives you chocolate!) and various industrial plants. Very tall (up to 6m, stretching across two floors).
-*   Knuffingen Airport (2011): with planes that taxi, take off and land! In case you hadn’t got the memo yet.  
-*   Italy (2018): highlights from Rome, Venice, the Vatican (ok, ok, not technically Italy, but you get what I mean), and an eruption-prone Vesuvius.  
-*   Rio de Janeiro (2021): with urban scenes, Sugarloaf Mountain, the famous Christ statue and a massive carnival celebration.
-*   Patagonia (2023): wild landscapes of southern Chile and Argentina. Including glaciers and penguins. Lots of penguins.
-*   Monaco and Provence (2024): features the Monaco Grand Prix, with functioning race cars, and coastal southern-France towns with Mediterranean vibes.
-*   …with many more scheduled for construction, most imminently, several Asian countries.  Other countries are also in the long to-do list, while England has hilariously been postponed multiple times because “[By now 25% of our visitors come from abroad.  To many of them, Europe looks alike – old houses, small towns, meadows, fields, forests and the occasional mountain](https://mechtraveller.com/2019/11/review-miniatur-wunderland-in-hamburg/).” Sorry Brexiters!
+> *   1,694 m2 of miniature layout (in a 10,000 m2 old warehouse space), most of it on a 1:87 scale.
+> *   1,231 trains, circulating on a 16,491m track (which would translate to roughly 1,400km in real life, which is approximately the traversal length of Great Britain, from the southwest to the northeast. Or a bit more than the distance between NYC and Chicago).
+> *   11,800 cars and other road vehicles
+> *   52 planes that operate 250 flights per day
+> *   292,110 tiny residents
+> *   5,278 buildings
+> *   521,500 LEDs
+> *   12 themed worlds:
+>
+> *   Knuffingen (2001): a fictional German town, famous for its extremely efficient fire brigade.
+> *   Central Germany (2001): classic rural scenes and towns
+> *   Austria (2001): includes the Alpine mountains, plenty of tunnels and ski resorts.
+> *   Hamburg (2002): key landmarks from the host city, including the port, St. Michael’s Church, the Elbphilharmonie, and even a miniature version of Miniatur Wunderland itself.
+> *   The US (2003): Las Vegas, Miami, Grand Canyon, the Old Wild West, Mount Rushmore, a (working) space shuttle launch in Cape Canaveral, and Area 51 (excellent for alien-watching).
+> *   Scandinavia (2005): Norway, Sweden, Denmark, Finland, and a 30,000-liter water basin representing the North and Baltic Seas, complete with moving ships and tidal changes.
+> *   Switzerland (2010): includes the Matterhorn, the Castle of Montebello, mountain villages, a chocolate factory (that actually gives you chocolate!) and various industrial plants. Very tall (up to 6m, stretching across two floors).
+> *   Knuffingen Airport (2011): with planes that taxi, take off and land! In case you hadn’t got the memo yet.  
+> *   Italy (2018): highlights from Rome, Venice, the Vatican (ok, ok, not technically Italy, but you get what I mean), and an eruption-prone Vesuvius.  
+> *   Rio de Janeiro (2021): with urban scenes, Sugarloaf Mountain, the famous Christ statue and a massive carnival celebration.
+> *   Patagonia (2023): wild landscapes of southern Chile and Argentina. Including glaciers and penguins. Lots of penguins.
+> *   Monaco and Provence (2024): features the Monaco Grand Prix, with functioning race cars, and coastal southern-France towns with Mediterranean vibes.
+> *   …with many more scheduled for construction, most imminently, several Asian countries.  Other countries are also in the long to-do list, while England has hilariously been postponed multiple times because “[By now 25% of our visitors come from abroad.  To many of them, Europe looks alike – old houses, small towns, meadows, fields, forests and the occasional mountain](https://mechtraveller.com/2019/11/review-miniatur-wunderland-in-hamburg/).” Sorry Brexiters!
 
 …And I’m not even trying to be comprehensive here.
 
@@ -109,7 +109,7 @@ You might be nodding along at this point, thinking “sure, yeah, that sounds li
 
 Perhaps paradoxically, Miniatur Wunderland made vast numbers a little more digestible and tangible for me. Like those visual comparison books that show a blue whale next to a human, or museum exhibits with the Earth scaled down to the size of a pea. "One Wunderland" (approximately 300,000 tiny citizens) now feels like a concrete unit of measurement that I can (sort of) grasp at a visceral level. For example, the city where I grew up has almost half a Wunderland, and I can feel the human texture of that. The number now carries the weight of all those individual stories I encountered in that tiny world, each figure with their own implied life and place in the grand scheme of things.
 
-One death is a tragedy. A million deaths are a statistic. Three Wunderlands worth of death are… ok, still incomprehensible, but not a statistic. I can at least picture, literally picture, thousands upon thousands of individual stories suddenly gone silent. And that loss has a weight and a meaning that I can at least begin to grasp.
+One death is a tragedy. A million deaths are a statistic. Three Wunderlands worth of death are… ok, still incomprehensible, but not a statistic. I can at least picture, _literally picture_, thousands upon thousands of individual stories suddenly gone silent. And that loss has a weight and a meaning that I can at least begin to grasp.
 
 This works because Miniatur Wunderland blends the airplane-window view with a chance to zoom in at will and (metaphorically) walk the tiny cities and peek into tiny strangers’ lives. So you get the breadth of a distant godlike perspective and the grounded empathy of street-level immersion, both influencing each other: the god gains compassion, the close-up observer gains context. When it is so easy to alternate between seeing the forest and the trees, your mind starts learning how to hold both perspectives simultaneously.
 
@@ -121,9 +121,9 @@ It is the borderline-pathological attention to detail that makes this world feel
 
 #### Day-night cycles
 
-The layout shifts from daylight to night-time and back roughly every 15 minutes. The transition is gradual, mimicking real sunrise and sunset lighting conditions, gradually moving from warm yellow hues (sunset) to cool blues (night) and back. The system is driven by a centralised lighting control network connected to 500,000+ LEDs across the exhibit, inside buildings, vehicles, streetlamps, and landscapes. During “night,” lights switch on inside individual rooms across buildings, club scenes come to life, and you can even [see fireworks](https://www.youtube.com/watch?v=Fa-JW49ug_8) and the Vesuvius erupting, with glowing lava running down towards a miniature representation of Pompeii. Concert audiences hold tiny lighters and glow sticks.
+The layout shifts from daylight to night-time and back roughly every 15 minutes. The transition is gradual, mimicking real sunrise and sunset lighting conditions, gradually moving from warm yellow hues (sunset) to cool blues (night) and back. The system is driven by a centralised lighting control network connected to 500,000+ LEDs across the exhibit, inside buildings, vehicles, streetlamps, and landscapes. During “night,” lights switch on inside individual rooms across buildings, club scenes come to life, and you can even [see fireworks](https://www.youtube.com/watch?v=Fa-JW49ug_8) and the Vesuvius erupting, with glowing lava running down towards a miniature representation of Pompeii. Concert audiences hold tiny lighters and glow sticks.
 
-There are several night-specific events, but I’m afraid I don’t have many examples because I have a bad memory, when I visited (several months ago) I didn’t have this review in mind, and it didn’t occur to me to take notes. And it’s difficult to find this type of super-concrete information online (I don’t speak German, which doesn’t help, and I left writing this review to the last minute, which helps even less). I asked GPT, which gave me the most salient examples I already remembered, plus this one other thing that I strongly suspect is a hallucination: “a man getting up to pee during the 3 a.m. cycle of the day-night lighting system”. GPT clung to this scene with bizarre confidence that couldn't be backed by any fact-checking. But honestly, it’s exactly the sort of detail I could totally believe exists (or existed) somewhere in there.  
+There are several night-specific events, but I’m afraid I don’t have many examples because I have a bad memory, when I visited (several months ago) I didn’t have this review in mind, and it didn’t occur to me to take notes. And it’s difficult to find this type of super-concrete information online (I don’t speak German, which doesn’t help, and I left writing this review to the last minute, which helps even less). I asked GPT, which gave me the most salient examples I already remembered, plus this one other thing that I strongly suspect is a hallucination: “a man getting up to pee during the 3 a.m. cycle of the day-night lighting system”. GPT clung to this scene with bizarre confidence that couldn't be backed by any fact-checking. But honestly, it’s exactly the sort of detail I could totally believe exists (or existed) somewhere in there.  
 
 #### Real water basin
 
@@ -135,7 +135,7 @@ This level of hydraulic engineering is gloriously unnecessary. Most visitors wou
 
 Knuffingen Airport is a fully-functioning miniature airport complete with 52 aircraft (representing a variety of models and airlines) that collectively perform over 250 takeoffs and landings daily.
 
-Per their website: “Upon arriving at the gates, they [the airplanes] are steered back by push-back vehicles and taxi to the runway by themselves. There, they accelerate and take off. Each aircraft is equipped with original lights and the turbines emit a realistic sound, at least during take-off.” Arrivals and departures are tracked through [digital boards](https://www.miniatur-wunderland.com/discover-wunderland/worlds/knuffingen-airport/schedules-arrival/) that update in real time with flight status information.
+Per their website: “Upon arriving at the gates, they [the airplanes] are steered back by push-back vehicles and taxi to the runway by themselves. There, they accelerate and take off. Each aircraft is equipped with original lights and the turbines emit a realistic sound, at least during take-off.” Arrivals and departures are tracked through [digital boards](https://www.miniatur-wunderland.com/discover-wunderland/worlds/knuffingen-airport/schedules-arrival/) that update in real time with flight status information.
 
 The airport also has a fleet of buses and service vehicles, such as catering cars, fresh water and tank trucks, pumping engines, push-back cars and even an Airport Fire Brigade (which comes into action with up to 14 vehicles in case of an emergency landing)
 
@@ -157,13 +157,13 @@ Seasonal decorations transform sections throughout the year. I visited shortly b
 
 ![](https://acximages.ennals.org/images/2025-non-book-reviews/b2fdffdb56267a5e.png)
 
-Last week, they celebrated [May the 4th](https://www.youtube.com/watch?v=1HwIzS1XPSQ) recreating some of the most iconic scenes from the Star Wars saga, including a speeder-biker race through the Monaco Formula 1 circuit (Star Wars references are also a constant throughout the year, including a Millenium Falcon, which occasionally lands at Knuffingen Airport).
+Last week, they celebrated [May the 4th](https://www.youtube.com/watch?v=1HwIzS1XPSQ) recreating some of the most iconic scenes from the Star Wars saga, including a speeder-biker race through the Monaco Formula 1 circuit (Star Wars references are also a constant throughout the year, including a Millenium Falcon, which occasionally lands at Knuffingen Airport).
 
 The exhibit also responds to significant global events. After the recent papal election, white smoke rose from the Sistine Chapel in the Vatican section.
 
-And while we’re in the Italy region, if I understand the information on their website correctly (which the less-than-perfect translation to English makes slightly confusing) the Colosseum’s lighting may change whenever a death sentence is commuted or overturned, just as the real Colosseum does (did you know this was a thing? I didn’t!):
+And while we’re in the Italy region, if I understand the information on their website correctly (which the less-than-perfect translation to English makes slightly confusing) the Colosseum’s lighting _may_ change whenever a death sentence is commuted or overturned, just as the real Colosseum does (did you know this was a thing? I didn’t!):
 
-“Ever since 1999 the original Colosseum has become a memorial as to the wrongness of death penalty. Whenever the death penalty is suspended somewhere or has been abolished by a nation, the original building will be awash with light for 48 hours. This installation is also part of the Wunderland version of the Colosseum and shines brightly every night.”
+> _“Ever since 1999 the original Colosseum has become a memorial as to the wrongness of death penalty. Whenever the death penalty is suspended somewhere or has been abolished by a nation, the original building will be awash with light for 48 hours. This installation is also part of the Wunderland version of the Colosseum and shines brightly every night.”_
 
 Alternatively, maybe this means that they always have a special lighting homage setup? Unclear. I personally appreciate the anti-death-penalty activism, in any case.
 
@@ -175,7 +175,7 @@ And these are just some random fun facts from one small part of one region.
 
 #### There are uncountable other details
 
-There is a drive-in cinema which when I visited was  screening a Pixar short (obviously, what else). I loved the figurine of a woman who was ironing while watching the movie, just like my mother likes to do (though she doesn’t have a penchant for doing it in public).
+There is a drive-in cinema which when I visited was  screening a Pixar short (obviously, what else). I loved the figurine of a woman who was ironing while watching the movie, just like my mother likes to do (though she doesn’t have a penchant for doing it in public).
 
 ![](https://acximages.ennals.org/images/2025-non-book-reviews/55fca15bb4107b69.png)
 
@@ -201,19 +201,19 @@ Take their carsystem, for example. Cars aren’t on tracks. They’re free-roami
 
 They explain on their website:
 
-“We didn’t want the control software to follow a fixed sequence of steps, but rather provide each vehicle with a "brain". […]
+> _“We didn’t want the control software to follow a fixed sequence of steps, but rather provide each vehicle with a "brain". […]_
+>
+> _Currently, the program has one process for each car that computes all its options 20 times per second. Vehicles can just drive around, have a fixed destination, can be limited to a certain route (i.e. buses or garbage trucks), or be on their way to an incident (fire fighters, oversized heavy transporters). For each vehicle, not only its exact location has to be determined but also its next options, such as: catching up to another car, approaching a crossing (with or without right of way regulation), entering the highway (relatively complicated, since another car already driving on the highway might have to be informed to change lanes, in case it hasn't noticed for itself yet), recharging the battery, etc._
+>
+> _A vehicle, resp. the computer program, decides at every branch which way to go by checking various criteria: Is the new route permitted for the type of car? Does it lead eventually to the car's destination? (Imagine virtual “roadsigns” at every crossing.) Is the route free, or at least free enough so that the car wouldn’t have to stop if it selected that route? Is there no fire fighting operation blocking the street? (Should this be the case, the vehicle checks other routes and also, if the detour is permitted for its type of vehicle)._
+>
+> _Should there be more than one route fulfilling all criteria, the vehicle picks one route at random under consideration of pre-defined probabilities (i.e., a truck seldom enters residential areas). Once the vehicle selects a route, it checks if a turn signal has to be set or if stopping is required. (If a car has to stop on a highway, hazard warning lights start blinking automatically.) If there are no obstacles whatsoever, the vehicle enters the street and drives on with the speed defined for this route._
+>
+> _Our vehicles always check the right of way, yield to the highway rule of preferably driving on the right lane, stop at closed raillway crossing gates, obey traffic lights, grant the right of way to firefighters in operation, and stop at pedestrian crossings. If stuck in a traffic jam, they might let a car from a side street sneak in, and they also wait patiently behind garbage trucks with frequent stops. However, once in a while, a car gets caught in a radar trap because of speeding and subsequently is stopped by the police._
+>
+> _Buses make scheduled stops and at night, all vehicles turn on the headlights. They are switched off again at dawn, except for the Scandinavian layout. In the German section, about 10% of the cars run with headlights turned on at daytime, too – also controlled at random.”_
 
-Currently, the program has one process for each car that computes all its options 20 times per second. Vehicles can just drive around, have a fixed destination, can be limited to a certain route (i.e. buses or garbage trucks), or be on their way to an incident (fire fighters, oversized heavy transporters). For each vehicle, not only its exact location has to be determined but also its next options, such as: catching up to another car, approaching a crossing (with or without right of way regulation), entering the highway (relatively complicated, since another car already driving on the highway might have to be informed to change lanes, in case it hasn't noticed for itself yet), recharging the battery, etc.
-
-A vehicle, resp. the computer program, decides at every branch which way to go by checking various criteria: Is the new route permitted for the type of car? Does it lead eventually to the car's destination? (Imagine virtual “roadsigns” at every crossing.) Is the route free, or at least free enough so that the car wouldn’t have to stop if it selected that route? Is there no fire fighting operation blocking the street? (Should this be the case, the vehicle checks other routes and also, if the detour is permitted for its type of vehicle).
-
-Should there be more than one route fulfilling all criteria, the vehicle picks one route at random under consideration of pre-defined probabilities (i.e., a truck seldom enters residential areas). Once the vehicle selects a route, it checks if a turn signal has to be set or if stopping is required. (If a car has to stop on a highway, hazard warning lights start blinking automatically.) If there are no obstacles whatsoever, the vehicle enters the street and drives on with the speed defined for this route.
-
-Our vehicles always check the right of way, yield to the highway rule of preferably driving on the right lane, stop at closed raillway crossing gates, obey traffic lights, grant the right of way to firefighters in operation, and stop at pedestrian crossings. If stuck in a traffic jam, they might let a car from a side street sneak in, and they also wait patiently behind garbage trucks with frequent stops. However, once in a while, a car gets caught in a radar trap because of speeding and subsequently is stopped by the police.
-
-Buses make scheduled stops and at night, all vehicles turn on the headlights. They are switched off again at dawn, except for the Scandinavian layout. In the German section, about 10% of the cars run with headlights turned on at daytime, too – also controlled at random.”
-
-I’m going to spare you more details which basically boil down to my metaphorically pointing at things and (not-so-silently) mouthing: “LOOK AT THAT. Seriously, can you believe this?” You can read more on [their website](https://www.miniatur-wunderland.com/discover-wunderland/technologies/) (though if you’re anything like me, not nearly as much as you’d like. I can’t believe that they have not given an update on their in-progress ship control system since 2018) or, even better, check out their [YouTube channel](https://www.youtube.com/@MiniaturWunderlandOfficial), which is a bit more up-to-date and has great behind-the-scenes commentary.
+I’m going to spare you more details which basically boil down to my metaphorically pointing at things and (not-so-silently) mouthing: “LOOK AT THAT. Seriously, can you believe this?” You can read more on [their website](https://www.miniatur-wunderland.com/discover-wunderland/technologies/) (though if you’re anything like me, not nearly as much as you’d like. I can’t believe that they have not given an update on their in-progress ship control system since 2018) or, even better, check out their [YouTube channel](https://www.youtube.com/@MiniaturWunderlandOfficial), which is a bit more up-to-date and has great behind-the-scenes commentary.
 
 ### 4) The whimsical touch
 
@@ -247,23 +247,23 @@ But these little surprises do more than amuse you. I feel like they also quietly
 
 ## Ok, I want to know what charmingly deranged mind is behind all this.
 
-I’m glad you asked. At least this is something that I feel like I can explain!  Basically, Frederik Braun saw a model train in Zurich, had a nostalgic crisis, and called his twin brother six times in one day to convince him that they should quit their nightclub business to build the world’s largest model railway. And then they did.
+I’m glad you asked. At least this is something that I feel like I can explain!  Basically, Frederik Braun saw a model train in Zurich, had a nostalgic crisis, and called his twin brother six times in one day to convince him that they should quit their nightclub business to build the world’s largest model railway. And then they did.
 
 Here’s the official version (which, lest you doubt my summarising skills, is exactly what I said, with more words. I’m quoting it just so that you know that I’m not making anything up):
 
-In July 2000, Frederik Braun was visiting the alpine city of Zurich, Switzerland. Strolling through the alleys of Zurich’s center, he came across a railway model shop, which at once evoked childhood memories in him. Inspired by this reminiscence, the idea to make a long forgotten childhood dream come true became more and more prominent within hours after seeing the railway model shop.
+> _In July 2000, Frederik Braun was visiting the alpine city of Zurich, Switzerland. Strolling through the alleys of Zurich’s center, he came across a railway model shop, which at once evoked childhood memories in him. Inspired by this reminiscence, the idea to make a long forgotten childhood dream come true became more and more prominent within hours after seeing the railway model shop._
 
-The “at once evoked childhood memories” part could make you believe that he was very interested in trains as a child. From my (limited, imperfect) research, it looks like journalists often lean into the idea that the twins were lifelong train enthusiasts, presumably because it makes a tidy story. But my reading is that, yes, they liked trains, but they liked other things even more, including LEGO and construction games, and then fire departments (and following this, model fire trucks). Which, if one so insists, can also clearly be used for the purpose of imposing a clean narrative arc. They write in their [autobiography:](https://shop.miniatur-wunderland.de/buch-kleine-welt-grosser-traum.html) 
+The “at once evoked childhood memories” part could make you believe that he was very interested in trains as a child. From my (limited, imperfect) research, it looks like journalists often lean into the idea that the twins were lifelong train enthusiasts, presumably because it makes a tidy story. But my reading is that, _yes, they liked trains_, but they liked other things even more, including LEGO and construction games, and then fire departments (and following this, model fire trucks). Which, if one so insists, can also clearly be used for the purpose of imposing a clean narrative arc. They write in their [autobiography:](https://shop.miniatur-wunderland.de/buch-kleine-welt-grosser-traum.html) 
 
-Fire departments have two attractions we couldn't resist in the long run: They are red. They are loud. And in our case: There was a fire station nearby. Fire station 13 on Sedanstraße was just around the corner. I believe we stood in front of the gates for hours, and when the gates opened and a fire engine drove out with sirens blaring, we would hop on our bicycles and chase after them. When the streets were reasonably clear, they naturally soon left us behind. But that didn't stop us. We asked pedestrians and kept pestering people until we knew where the fire department had gone. I should emphasize that we weren't rubberneckers. We weren't interested in horror images of the injured or dramatic rescues of people standing in burning window frames too afraid to jump. […]
-
-But we wanted to better understand the fire department operations. For this reason, we eventually started keeping statistics. When was the operation? How long did it last? How many vehicles were involved? One might find it strange that little boys approach their hobby this way, but behind it lies a method of approaching reality. We didn't check out books about the history of the fire department from the library. We also didn't watch documentaries about how the fire department works. If we wanted to know how the fire department functioned, we went there and looked at it. And when you look at something so impartially, you maintain your own perspective. That's basically how I still approach almost all situations in life [original in German, translation by Claude].
+> _Fire departments have two attractions we couldn't resist in the long run: They are red. They are loud. And in our case: There was a fire station nearby. Fire station 13 on Sedanstraße was just around the corner. I believe we stood in front of the gates for hours, and when the gates opened and a fire engine drove out with sirens blaring, we would hop on our bicycles and chase after them. When the streets were reasonably clear, they naturally soon left us behind. But that didn't stop us. We asked pedestrians and kept pestering people until we knew where the fire department had gone. I should emphasize that we weren't rubberneckers. We weren't interested in horror images of the injured or dramatic rescues of people standing in burning window frames too afraid to jump. […]_
+>
+> _But we wanted to better understand the fire department operations. For this reason, we eventually started keeping statistics. When was the operation? How long did it last? How many vehicles were involved? One might find it strange that little boys approach their hobby this way, but behind it lies a method of approaching reality. We didn't check out books about the history of the fire department from the library. We also didn't watch documentaries about how the fire department works. If we wanted to know how the fire department functioned, we went there and looked at it. And when you look at something so impartially, you maintain your own perspective. That's basically how I still approach almost all situations in life [original in German, translation by Claude]._
 
 So here you have it: two brothers with a strong empirical mindset who like understanding complex systems for themselves, and making everything about fire brigades. That explains things. Who knew a childhood stalking emergency services would pay off so spectacularly?
 
 Now, back to Frederik’s epiphany in Switzerland:
 
-On the very same day, Frederik called his twin brother Gerrit, taking him by surprise by saying: “We are going to build the world’s largest model railway”. Gerrit, rather sceptic by nature, thought Frederik had gone mad and doubted the sincerity of his idea. But after receiving at least another six calls that day, with Frederik enthusiastically proposing new ideas on the topic, Gerrit realized how serious his brother was about the idea. He started considering the project from an economical and technical point of view. He came to the conclusion, that the project would be a technological challenge, the economic aspect would be very risky, from an entrepreneurial point of view it would be plain crazy, but overall it should be possible. Thus, Gerrit was infected by this idea as well. At that time, the two brothers, together with their business partner Stephan Hertz, had been running a night club in Hamburg and wanted out of the nightlife scene for a while.
+> _On the very same day, Frederik called his twin brother Gerrit, taking him by surprise by saying: “We are going to build the world’s largest model railway”. Gerrit, rather sceptic by nature, thought Frederik had gone mad and doubted the sincerity of his idea. But after receiving at least another six calls that day, with Frederik enthusiastically proposing new ideas on the topic, Gerrit realized how serious his brother was about the idea. He started considering the project from an economical and technical point of view. He came to the conclusion, that the project would be a technological challenge, the economic aspect would be very risky, from an entrepreneurial point of view it would be plain crazy, but overall it should be possible. Thus, Gerrit was infected by this idea as well. At that time, the two brothers, together with their business partner Stephan Hertz, had been running a night club in Hamburg and wanted out of the nightlife scene for a while._
 
 First of all, I love the implication that, obviously, it was Gerrit’s natural scepticism that made him doubt that his brother was serious about building the world’s largest model train. Not like someone with standard-to-low amounts of scepticism wouldn’t have asked: "Did you fall on the snow and hit your head?"
 
@@ -275,9 +275,9 @@ Also, it’s painfully clear to me which twin wrote this origin story. Just sayi
 
 On their website, they add a bit more colour to the psychological profiles of Gerrit “the Sceptic By Nature” who would “slow down Frederik down with rational facts” and Frederick, the hyperactive visionary:
 
-Being a mathematician at heart Gerrit knew that according to the laws of probability, he only had to wait for his brother to come up with a scheme that would look promising. It was only a question of waiting patiently and talking his brother out of the non-promising ideas.
-
-Until he was 11 he managed to rationalize his brother out of his scintillations, until Frederik approached him with the idea to build a huge Mickey Mouse comic book collection [Frederik in fact framed this as “the world’s biggest Mickey Mouse comic book collection”], making profits out of buying and reselling comic books. Gerrit simply couldn’t find any arguments against this plan and joined in.
+> _Being a mathematician at heart Gerrit knew that according to the laws of probability, he only had to wait for his brother to come up with a scheme that would look promising. It was only a question of waiting patiently and talking his brother out of the non-promising ideas._
+>
+> _Until he was 11 he managed to rationalize his brother out of his scintillations, until Frederik approached him with the idea to build a huge Mickey Mouse comic book collection [Frederik in fact framed this as “the world’s biggest Mickey Mouse comic book collection”], making profits out of buying and reselling comic books. Gerrit simply couldn’t find any arguments against this plan and joined in._
 
 Which, again, explains a lot of things.
 
@@ -285,11 +285,11 @@ Gerrit’s bio also notes that “[he] was good at construction [and] built an i
 
 But I digress.
 
-In order to find out whether enough visitors would come to cover the substantial capital outlay, the three of them decided to do a survey. More than 3,000 people with different characteristics were interviewed online and asked to decide which, mostly fictional, touristic places of interest they would want to see when visiting Hamburg. Male survey participants voted the idea of the “Miniatur Wunderland” to number 3, whereas with female voters it fell into last place.
+> _In order to find out whether enough visitors would come to cover the substantial capital outlay, the three of them decided to do a survey. More than 3,000 people with different characteristics were interviewed online and asked to decide which, mostly fictional, touristic places of interest they would want to see when visiting Hamburg. Male survey participants voted the idea of the “Miniatur Wunderland” to number 3, whereas with female voters it fell into last place._
 
 I’m confused about these survey results: I would have expected women to like, or at the very least not hate this idea (full disclosure: I’m a woman). I looked into this story and got mixed information, but one possible explanation, reading between a lot of lines, is that the concept was presented as the world’s largest model railway. Not “the most intricate miniature universe”. Different PR vibe.
 
-Despite this controversial outcome the founding team decided: “WE ARE GOING TO BUILD THE WORLD’S LARGEST MODEL RAILWAY” [apt capitalisation already in the original]
+> _Despite this controversial outcome the founding team decided: “WE ARE GOING TO BUILD THE WORLD’S LARGEST MODEL RAILWAY” [apt capitalisation already in the original]_
 
 And, I will add, “WE WILL MAKE SURE THAT EVERYONE LIKES IT”. This is where the “miniature world” came into play.
 
@@ -301,7 +301,7 @@ We all know the moral of the story: You can just do things. If it sounds barely 
 
 ## Do you (or someone else) really not have anything remotely negative to say about this place?
 
- It would make for a nice final touch to what’s already a ruthlessly balanced and objective review, completely free of personal enthusiasm, sentimental overinvestment, or uncritical awe.
+ It would make for a nice final touch to what’s already a ruthlessly balanced and objective review, completely free of personal enthusiasm, sentimental overinvestment, or uncritical awe.
 
 First of all, no one said anything about impartiality in the task specification.
 
@@ -315,7 +315,7 @@ Tickets can also be a bit expensive (it costs about 33 euros). Not all-things-co
 
 But its biggest drawback is the crowds. It’s strongly recommended to book tickets in advance, otherwise, you risk waiting over an hour to get in, or being turned away entirely. Even better, I’d recommend visiting at off-peak times, like early mornings or late nights on weekdays. It’s a bit of a shame that an exhibition so perfectly suited to delight neurodivergent visitors also involves one of the very things many neurodivergent people find most challenging. But there’s only so much you can do about it. And while I am, admittedly, the kind of person who complains about there being too many people while very much being people myself, I wasn’t too upset this time. It honestly makes me happy that a place like this is so well-loved.
 
-Lastly: it’s really difficult to find information about this place, though I suspect it would be easier if I spoke German. I had a bunch of questions that I would have loved to answer (and present in this review) but it seemed impossible without making this my full-time investigative job and watching all their YouTube videos (which I wish I had the time to do!). Their website is not up to date, while the exhibition is constantly changing. LLMs were close to useless for research purposes due to their severe, but hilariously fitting, hallucinations (I mean, who can blame them, if you’re going to make up funny details and stories, you would be pressed to find a better excuse). The twins’ autobiography is not translated. There’s a documentary that Amazon wouldn’t let me watch without an Amazon Germany account, and it wouldn’t let me get an account without a German address and credit card (I did try!) There’s also some sort of Apple docuseries that I found equally inaccessible. At one point I paid £40 for [a book on Amazon](https://www.amazon.co.uk/MINIATUR-WUNDERLAND-Largest-Railway-Exhibit/dp/1530605474) that looked promising, only to discover it was essentially a collection of blurry photos printed on low-grade paper, bound without page numbers, captions, or shame. (I got my £40 back.)
+Lastly: it’s really difficult to find information about this place, though I suspect it would be easier if I spoke German. I had a bunch of questions that I would have loved to answer (and present in this review) but it seemed impossible without making this my full-time investigative job and watching all their YouTube videos (which I wish I had the time to do!). Their website is not up to date, while the exhibition is constantly changing. LLMs were close to useless for research purposes due to their severe, but hilariously fitting, hallucinations (I mean, who can blame them, if you’re going to make up funny details and stories, you would be pressed to find a better excuse). The twins’ autobiography is not translated. There’s a documentary that Amazon wouldn’t let me watch without an Amazon Germany account, and it wouldn’t let me get an account without a German address and credit card (I did try!) There’s also some sort of Apple docuseries that I found equally inaccessible. At one point I paid £40 for [a book on Amazon](https://www.amazon.co.uk/MINIATUR-WUNDERLAND-Largest-Railway-Exhibit/dp/1530605474) that looked promising, only to discover it was essentially a collection of blurry photos printed on low-grade paper, bound without page numbers, captions, or shame. (I got my £40 back.)
 
 I think there’s a really good opportunity to bring more of this story to the English-speaking world. Someone, please, take it.
 
@@ -325,11 +325,11 @@ I didn’t have a pre-existing passion for or deep knowledge about model trains 
 
 I still don’t fully understand why this place struck such a strong chord with me. Perhaps it's because I'm drawn to ephemeral experiences out of low-key masochism: I have a bad memory, and it bothers me knowing I won't be able to fully capture moments to remember later. Most experiences can be at least partially salvaged through narrative: books can be summarized with my impressions, theatre plays have their storylines and often recordings, and even ballet performances can theoretically be found on video somewhere. But Miniatur Wunderland is perpetually transforming, and documenting it all seems utterly unmanageable. It changes from one day to the next, not in some vague "you cannot step in the same river twice" sense, but in the very tangible reality of a figurine you were particularly fond of disappearing overnight, replaced by an entirely new scene. Even with a set mind to record it all (I could drain three more phone batteries taking photos and videos), you wouldn't scratch the surface of this world. And how could you possibly capture its spatial nature? The way you move through it, kneel down for different perspectives, push buttons to trigger delightful effects or get a chocolate bar?
 
-There’s also what I said at the beginning about this place combining scale with close-up storytelling, making it easier to simultaneously hold an analytical and empathic perspective. There are other experiences that sound like they should fulfill a similar purpose, yet didn’t for me. Take video games. I used to play the Sims as a child, but this experience feels like it favours storytelling over real scale. Age of Empires provided scale but missed the close-up empathy and whimsy for me. More recently, open-world video games seem like they should work, but for some reason the hyper-realistic, voice-acted characters in my screen feel less real and fleshed-out than a static tiny person hunched under the weight of a heavy backpack while waiting in line at a miniature airport. Maybe it’s because digital spaces feel provisional. They vanish the moment you close the program or move away. But when I leave the room, I know the figurines will still be there.
+There’s also what I said at the beginning about this place combining scale with close-up storytelling, making it easier to simultaneously hold an analytical and empathic perspective. There are other experiences that sound like they should fulfill a similar purpose, yet didn’t for me. Take video games. I used to play the _Sims_ as a child, but this experience feels like it favours storytelling over real scale. _Age of Empires_ provided scale but missed the close-up empathy and whimsy for me. More recently, open-world video games seem like they should work, but for some reason the hyper-realistic, voice-acted characters in my screen feel less real and fleshed-out than a static tiny person hunched under the weight of a heavy backpack while waiting in line at a miniature airport. Maybe it’s because digital spaces feel provisional. They vanish the moment you close the program or move away. But when I leave the room, I know the figurines will still be there.
 
-The best analogy I’ve managed to come up with for Miniatur Wunderland is “a very big 3-D Where’s Waldo? book-turned-installation”. That gets pretty close. Tiny scenes everywhere, hundreds of micro-dramas unfolding at once, and the constant feeling that you’re missing something delightful just outside your field of view.
+The best analogy I’ve managed to come up with for Miniatur Wunderland is “a very big 3-D _Where’s Waldo?_ book-turned-installation”. That gets pretty close. Tiny scenes everywhere, hundreds of micro-dramas unfolding at once, and the constant feeling that you’re missing something delightful just outside your field of view.
 
-But there’s one key difference. In Where’s Waldo?, or any other of the aforementioned games, you’re doing something. You have a task. There’s an objective, a target, a sense of completion. Even in video games or puzzle books or interactive museums, there’s usually some kind of utilitarian frame: Find the thing. Solve the thing. Win the thing.
+But there’s one key difference. In _Where’s Waldo_?, or any other of the aforementioned games, you’re doing something. You have a task. There’s an objective, a target, a sense of completion. Even in video games or puzzle books or interactive museums, there’s usually some kind of utilitarian frame: Find the thing. Solve the thing. Win the thing.
 
 In Miniatur Wunderland, there’s none of that. You're not trying to accomplish anything. You're just looking. Just enjoying. And that, I think, is the disarming power of it: a world built entirely for wonder, that doesn’t ask anything of you.
 

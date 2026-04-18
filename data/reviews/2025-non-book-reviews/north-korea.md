@@ -67,7 +67,7 @@ Incidentally, Lee does not have the same haircut as Kim Jong Un, and I am told t
 
 After dinner, we drive to my hotel. This is on an island in the middle of the river. Really. I am told that I can walk around it but should not walk far or leave the island. The hotel is clean but not luxurious. I do not have clean water in my room, so I boil water (taking >5 minutes in my Soviet-style kettle) and then place the boiled water in my fridge. I hope the resulting water is clean to drink.
 
-Day Two
+**Day Two**
 
 Breakfast is tomato, toast, some kind of sour milk-based drink, and eggs. The breakfast room has a huge mural up but otherwise could pass for a youth hostel. On the way out, Yu tells me that the license plates are divided into various colours. Red and blue are for foreigners, yellow for privately owned, black for the military, and white for the government. Almost all of the cars have white plates, but I see a few black. A couple of hours later, Yu draws my attention to one yellow plate.
 
@@ -88,7 +88,7 @@ Yu also tells me that there are no homosexuals in North Korea and she doesn’t 
 
 After lunch, we visit a series of museums about the Korean war, where we learn how the North “liberated” Pyongyang (the later DPRK defeats are skimmed over or ignored: we focus on the part of the war where the North advanced in the south, liberating mile by mile). As far as I can tell, the war reports are close enough to reality, and the main propaganda is in word choices and missing out specific items, rather than making up battles altogether.
 
-I like the reporting on the USS Pueblo. This is an American ship which (according to the DPRK museum) strayed into Korean waters and was attacked by several Korean ships. After surrendering, seven Koreans boarded and arrested the 83 US soldiers on board. The museum guide makes a big thing out of how those seven Koreans overcame a huge numerical disadvantage, and she stresses the numbers on each side. I think it doesn’t take a lot of people to arrest an enemy who has already surrendered, but I keep this observation to myself. There is a signed letter from the US confirming they had spied on the DPRK.  
+I like the reporting on the USS Pueblo. This is an American ship which (according to the DPRK museum) strayed into Korean waters and was attacked by several Korean ships. After surrendering, seven Koreans boarded and arrested the 83 US soldiers on board. The museum guide makes a big thing out of how those seven Koreans overcame a huge numerical disadvantage, and she stresses the numbers on each side. I think it doesn’t take a lot of people to arrest an enemy who has already surrendered, but I keep this observation to myself. There is a signed letter from the US confirming they had spied on the DPRK.  
 
 Western sources tell the story differently: the Pueblo was attacked while its location was disputed (the US claims it was in international waters) and an agreement was reached that the US would sign a document agreeing its ship had spied on Korea, then the soldiers would be released, then the US would retract the confession. The captain of the Pueblo deliberately wrote a confession saying “we paean the North Korean state” – with the hidden meaning of “we pee on the North Korean state”. That must have taken serious cojones to write; I guess paean is stored in the balls.
 
@@ -110,7 +110,7 @@ I ask Yu and Lee about Korean drinking games and they play Rock Paper Scissors w
 
 The five of us go on to karaoke. On the way we see people bare-chested in a sports room playing table tennis.
 
-Day Three
+**Day Three**
 
 We are going to the Mausoleum, where President and General are laid out for state visits. This is very, very serious. Most people have ties. I wear my least crumpled clothes. Yu tells me to leave most of my things in the bus and take only my wallet, from which I remove everything other than money.
 

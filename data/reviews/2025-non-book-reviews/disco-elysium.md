@@ -7,7 +7,7 @@ contestName: 2025 Non Book Reviews
 year: 2025
 publishedDate: '2026-02-06T16:57:23.282Z'
 slug: disco-elysium
-wordCount: 2535
+wordCount: 2541
 readingTimeMinutes: 12
 originalUrl: >-
   https://docs.google.com/document/d/1B3YxYxLVFjKGicaEkqvt353kt0uimn0PSUQv1PyaHuI
@@ -19,7 +19,7 @@ tags:
 
 By A.H.
 
-[Disco Elysium](https://store.steampowered.com/app/632470/Disco_Elysium__The_Final_Cut/) is the best video game I’ve ever read. Reviewing it as part of the “Everything-Except-Book Review Contest” feels a bit like cheating, as Disco Elysium is more choose-your-own-adventure book than any video game you might have seen. The game’s script is [over a million words long](https://x.com/discoelysium/status/1215597783509610497)[1]. You spend most of your time conversing with other characters, the narrator, the city's soul, street signs, and fragments of your psyche. It’s one of my favorite pieces of media and is among the most high-brow entries that video games have to offer.
+[Disco Elysium](https://store.steampowered.com/app/632470/Disco_Elysium__The_Final_Cut/) is the best video game I’ve ever read. Reviewing it as part of the “Everything-Except-Book Review Contest” feels a bit like cheating, as Disco Elysium is more choose-your-own-adventure book than any video game you might have seen. The game’s script is [over a million words long](https://x.com/discoelysium/status/1215597783509610497)[1]. You spend most of your time conversing with other characters, the narrator, the city's soul, street signs, and fragments of your psyche. It’s one of my favorite pieces of media and is among the most high-brow entries that video games have to offer.
 
 ## The Story
 
@@ -31,7 +31,7 @@ As you try to leave your hotel room, the manager, Garte, confronts you about you
 
 ![](https://acximages.ennals.org/images/2025-non-book-reviews/87b382fa3a790c49.png)
 
-You can approach these situations more reasonably, but I generally recommend you don’t. These little moments of absurdity keep the game funny and lighthearted, even within its depressing setting. Your character is a colossal fuck-up, and you are constantly unearthing the sins of your past. You do so in the city of Revachol; Its streets are pocked with bomb craters, and most of its buildings are dilapidated and full of bullet holes. You walk by old statues and monuments that speak to the powerful place the city once was, now rusting away. After an occupying force put down a violent communist revolution, the city fell into disrepair and economic depression. The only place that is making money is the docks, and the workers have recently decided to go on strike. Tensions in the city are high, and you suspect the murder is somehow wrapped up in the budding political turmoil.
+You _can_ approach these situations more reasonably, but I generally recommend you don’t. These little moments of absurdity keep the game funny and lighthearted, even within its depressing setting. Your character is a colossal fuck-up, and you are constantly unearthing the sins of your past. You do so in the city of Revachol; Its streets are pocked with bomb craters, and most of its buildings are dilapidated and full of bullet holes. You walk by old statues and monuments that speak to the powerful place the city once was, now rusting away. After an occupying force put down a violent communist revolution, the city fell into disrepair and economic depression. The only place that is making money is the docks, and the workers have recently decided to go on strike. Tensions in the city are high, and you suspect the murder is somehow wrapped up in the budding political turmoil.
 
 Disco Elysium is highly political. Characters often profess their political views and try to convert you to their ideals. There’s a game mechanic where you can subscribe to the world’s different political ideologies, becoming a communist, moralist (the game’s term for vaguely liberal-leaning centrism), ultraliberal (hyper-capitalist libertarianism), or a fascist. None of these factions is treated with any reverence. You can tell that the writers are more fans of communism (they do self-identify as communists after-all) than fascism, but past that, there is plenty of poignant criticism to go around.
 
@@ -49,15 +49,15 @@ This dialogue system was [intentionally designed to mimic a Twitter feed](https:
 
 Most RPGs give your character a set of skills, and how good you are at those skills determines what your character can do in the game. This is an old-school, nearly ubiquitous system. Some typical examples include:
 
-*   Strength: Swing heavy things at your enemies
-*   Intelligence: Outthink your enemies
-*   Dexterity: Dance around your enemies
+> *   **Strength**: Swing heavy things at your enemies
+> *   **Intelligence**: Outthink your enemies
+> *   **Dexterity**: Dance around your enemies
 
 Disco Elysium uses this system, but with refreshing creativity. Here’s a sampling of my favorite skills:
 
-*   Encyclopedia: Makes you a know-it-all, turning your mind into a database of facts. It enables you to draw on these facts innately, offering a wealth of background knowledge to all things related and unrelated to your case.
-*   Inland Empire: The unfiltered wellspring of imagination, emotion, and foreboding. It enables you to grope your way through invisible dimensions of reality, gaining insight into that which sight can’t see.
-*   Electrochemistry: The animal within you, the beast longing to be unleashed to indulge and enjoy. It enables you to take drugs with fewer negative side-effects.
+> *   **Encyclopedia**: Makes you a know-it-all, turning your mind into a database of facts. It enables you to draw on these facts innately, offering a wealth of background knowledge to all things related and unrelated to your case.
+> *   **Inland Empire**: The unfiltered wellspring of imagination, emotion, and foreboding. It enables you to grope your way through invisible dimensions of reality, gaining insight into that which sight can’t see.
+> *   **Electrochemistry**: The animal within you, the beast longing to be unleashed to indulge and enjoy. It enables you to take drugs with fewer negative side-effects.
 
 Each one of these skills acts as its own independent character. They’re constantly chattering in your ear with what they think about the situation, and, another fun twist, they aren’t all reliable. Most games go with the assumption that putting more points into a skill always leads to benefits: having a lot of points in strength means you’re very strong and can pick up whatever you want, and this is always a good thing. But in Disco Elysium, if you put a lot of points into Encyclopedia, it will give you plenty of useful information, but far more useless information. While trying to focus on an essential part of the case, it could tell you about a clue, or it could notice that the bird outside belongs to an interesting subspecies, and then convince you that the witness you’re talking to would really like to hear about this fun fact. Or Electrochemistry will convince you that you absolutely need to lick spilled beer off of a dirty counter because it will give you super-powers.
 
@@ -69,13 +69,13 @@ I think the typical mold of an ACX review suggests I should start exploring each
 
 ## The Making and Un-Making Of
 
-The game was released in 2019 to massive critical acclaim. At [The Game Awards](https://en.wikipedia.org/wiki/The_Game_Awards)[8] and the [BAFTAs](https://www.bafta.org/) , Disco Elysium beat out some industry titans to win best narrative awards. It was not made by any large video game company, but by an Estonian artist collective called [ZA/UM](https://en.wikipedia.org/wiki/Zaum), whose “offices” were an abandoned art gallery. The artists were led by [Robert Kurvitz](https://en.wikipedia.org/wiki/Robert_Kurvitz), an Estonian author and rock singer.
+The game was released in 2019 to massive critical acclaim. At [The Game Awards](https://en.wikipedia.org/wiki/The_Game_Awards)[8] and the [BAFTAs](https://www.bafta.org/) , Disco Elysium beat out some industry titans to win best narrative awards. It was not made by any large video game company, but by an Estonian artist collective called [ZA/UM](https://en.wikipedia.org/wiki/Zaum), whose “offices” were an abandoned art gallery. The artists were led by [Robert Kurvitz](https://en.wikipedia.org/wiki/Robert_Kurvitz), an Estonian author and rock singer.
 
 Kurvitz is an avid Dungeons and Dragons player and built an elaborate world for his friends to play in. He decided to write a novel about the world, and published “Sacred and Terrible Air” in 2013 after working on it for five years. It sold maybe 1,000 copies, and he fell into a deep, alcohol-fueled depression. The support of his friends and the idea of adapting the world into a video game roused him, and he called upon his artist friends and a few shady Estonian investors to help build what would become Disco Elysium[9]. This worked out great for everyone until the assumedly niche title turned out to be a massive, money-making success.
 
-In 2022, 3 years after the game was released, Kurvitz and two other senior writers were fired from ZA/UM. Kurvitz claims he, suspecting the investors and executives were doing something shady with the finances, asked for some documents, which led to his firing. The CEO and investors claim there’s nothing shady going on, Kurvitz and the others are just nightmares to work with, and they had to be fired to preserve company morale. Now everyone is suing each other, all while the company tries to release [a mobile version of the game](https://www.youtube.com/watch?v=GqeXA1W8OPg) and work on a sequel. If you go onto [r/DiscoElysium](https://www.reddit.com/r/DiscoElysium/top/) or other social media, you’ll see fans have clearly taken the side of Kurvitz and encourage each other to pirate the game and boycott anything else ZA/UM makes. Quite a lot of vitriol has been hurled at the planned mobile version, and any other updates that have been made since Kurvitz was fired.
+In 2022, 3 years after the game was released, Kurvitz and two other senior writers were fired from ZA/UM. Kurvitz claims he, suspecting the investors and executives were doing something shady with the finances, asked for some documents, which led to his firing. The CEO and investors claim there’s nothing shady going on, Kurvitz and the others are just nightmares to work with, and they had to be fired to preserve company morale. Now everyone is suing each other, all while the company tries to release [a mobile version of the game](https://www.youtube.com/watch?v=GqeXA1W8OPg) and work on a sequel. If you go onto [r/DiscoElysium](https://www.reddit.com/r/DiscoElysium/top/) or other social media, you’ll see fans have clearly taken the side of Kurvitz and encourage each other to pirate the game and boycott anything else ZA/UM makes. Quite a lot of vitriol has been hurled at the planned mobile version, and any other updates that have been made since Kurvitz was fired.
 
-This controversy almost fully subsumes the online discourse around the game now. People Make Games produced a [2.5 hour long documentary](https://youtu.be/JGIGA8taN-M?si=CMzNeu-wS4YI6dTk) that gets deep into the weeds of it all[10]. The TL;DW is that there are a lot of murky, complex business dealings going on behind the scenes, all of which sound rather suspicious, but might not technically be illegal. Also, Kurvitz sounds like a nightmare to work with, and probably deserved to be fired.
+This controversy almost fully subsumes the online discourse around the game now. People Make Games produced a [2.5 hour long documentary](https://youtu.be/JGIGA8taN-M?si=CMzNeu-wS4YI6dTk) that gets deep into the weeds of it all[10]. The TL;DW is that there are a lot of murky, complex business dealings going on behind the scenes, all of which sound rather suspicious, but might not technically be illegal. Also, Kurvitz sounds like a nightmare to work with, and probably deserved to be fired.
 
 No one comes out looking particularly good in this saga, and I can’t help but opine on how it mirrors the political discourse in the game. Self-proclaimed communists (Kurvitz) strike up some shaky alliance with the capitalists (ZA/UM executives) that works out fine until the stakes get raised and giant piles of money enter the picture. Then everything gets cloudy. I think this line from the game points to who will come out on top, though:
 
@@ -101,6 +101,6 @@ No one comes out looking particularly good in this saga, and I can’t help but 
 
 [9] The original title was “No Truce with the Furies”, inspired by the R.S. Thomas poem, [Reflections](https://www.poeticous.com/r-s-thomas/reflections).
 
-[10] [Noclip is planning to release its own documentary](https://www.patreon.com/posts/our-disco-119396288) about the game soon. It will try to focus on the actual nuts and bolts of how the game was created, but I’m sure it will also shed more light on the controversy.
+[10] [Noclip is planning to release its own documentary](https://www.patreon.com/posts/our-disco-119396288) about the game soon. It will try to focus on the actual nuts and bolts of how the game was created, but I’m sure it will also shed more light on the controversy.
 
 [a] Including footnotes

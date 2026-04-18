@@ -7,7 +7,7 @@ contestName: 2025 Non Book Reviews
 year: 2025
 publishedDate: '2026-02-06T16:55:03.479Z'
 slug: marriage
-wordCount: 1015
+wordCount: 1020
 readingTimeMinutes: 5
 originalUrl: >-
   https://docs.google.com/document/d/1a3q0Z2tuPLLbDeg5-pfEffkajGjrfPDwE7ZMs7uaWQs
@@ -19,11 +19,11 @@ tags:
 
 Why review marriage? A few reasons:
 
-*   Marriage is likely someone's longest relationship with a (hopefully) non-blood relative, excluding childhood friendships, which often peter out anyway.
-*   Marriage contributes significantly to stable childhoods and less messed-up young adults.
-*   Marriage has taken a hit among younger generations, and predictably, so have rates of childbirth.
-*   Marriage provides meaning, stability, and safety for those involved.
-*   Marriage has been happening for a long time, and people generally don't keep doing stupid things so consistently for so long.
+> *   Marriage is likely someone's longest relationship with a (hopefully) non-blood relative, excluding childhood friendships, which often peter out anyway.
+> *   Marriage contributes significantly to stable childhoods and less messed-up young adults.
+> *   Marriage has taken a hit among younger generations, and predictably, so have rates of childbirth.
+> *   Marriage provides meaning, stability, and safety for those involved.
+> *   Marriage has been happening for a long time, and people generally don't keep doing stupid things so consistently for so long.
 
 ## Background
 

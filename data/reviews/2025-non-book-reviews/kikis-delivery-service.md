@@ -1,16 +1,19 @@
 ---
-title: "Kiki’s Delivery Service"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2025-non-book-reviews"
-contestName: "2025 Non Book Reviews"
+title: Kiki’s Delivery Service
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2025-non-book-reviews
+contestName: 2025 Non Book Reviews
 year: 2025
-publishedDate: "2025-01-01T00:00:00.000Z"
-slug: "kikis-delivery-service"
+publishedDate: '2025-01-01T00:00:00.000Z'
+slug: kikis-delivery-service
 wordCount: 2308
 readingTimeMinutes: 11
-originalUrl: "https://docs.google.com/document/d/17WAcFrTOExgendrk2lGTxRIR4LVC3ZGbiU5Xe3kF4mg"
-source: "gdoc"
+originalUrl: >-
+  https://docs.google.com/document/d/17WAcFrTOExgendrk2lGTxRIR4LVC3ZGbiU5Xe3kF4mg
+source: gdoc
+tags:
+  - Fiction
 ---
 
 On a clear moonlit night, with her talking black cat Jiji and small radio in tow, 13-year-old Kiki sets off on her broomstick to make her way in the world. According to tradition, witches her age are expected to leave home to complete their magical training in a new town.
@@ -39,15 +42,15 @@ Since there aren’t any other witches nearby, Kiki still wonders what she’s g
 
 What follows are several eventful deliveries, trials, and tribulations - but she overcomes them and ends each day with happy customers.
 
-What sets Kiki’s Delivery Service apart from other Studio Ghibli movies like Spirited Away or Whisper of the Heart is not just the fact that it’s a coming-of-age story, but a coming-of-age story grounded in real adult problems. Chihiro in Spirited Away emotionally “grows up” by fighting evil spirits, while Kiki grows up by, well, growing up. She starts a business to support herself, and it’s portrayed as this totally legible and straightforward task. Yes, running a delivery service has its challenges, but she overcomes them in a very mundane way.
+What sets _Kiki’s Delivery Service_ apart from other Studio Ghibli movies like _Spirited Away_ or _Whisper of the Heart_ is not just the fact that it’s a coming-of-age story, but a coming-of-age story grounded in real adult problems. Chihiro in _Spirited Away_ emotionally “grows up” by fighting evil spirits, while Kiki grows up by, well, _growing up._ She starts a business to support herself, and it’s portrayed as this totally legible and straightforward task. Yes, running a delivery service has its challenges, but she overcomes them in a very mundane way.
 
-She’s playing capitalism on easy mode, and it’s absolutely delightful and heartwarming. She finds a fantastic niche, her service spreads through word of mouth, and she’s surrounded by people who love her and support her in an incredibly safe and low-crime city. Even the bakery itself is quaint and cute; the business takes up the main floor of a mixed-used building where the family lives upstairs. This is the perfect embodiment of asabiyyah, a sense of civilizational belonging.
+She’s playing capitalism on easy mode, and it’s absolutely delightful and heartwarming. She finds a fantastic niche, her service spreads through word of mouth, and she’s surrounded by people who love her and support her in an incredibly safe and low-crime city. Even the bakery itself is quaint and cute; the business takes up the main floor of a mixed-used building where the family lives upstairs. This is the perfect embodiment of _asabiyyah_, a sense of civilizational belonging.
 
 Osono and her husband have a spirit of camaraderie and community about them. Osono takes Kiki under her wing as a member of the family and gives her lots of business advice - including letting her run her delivery service out of the bakery. Just think about how remarkable that is: they let her live up in the attic for free, with a hot breakfast every morning, in exchange for watching the cash register.
 
 Don’t let the witch magic fool you - this movie is about growing up and becoming a functional adult. She faces some very adult fears: “Where am I going to sleep tonight? How will I pay the rent? How can I afford groceries? These supplies cost a lot of money. I gave the cashier my bills, and only got a tiny handful of pocket change back.” But then she overcomes them with minimal on-screen effort. She only needs to work an easy job to “pay” her rent, and her delivery business starts making money hand over fist.
 
-But under this veneer of successful adulting, Kiki is confronting feelings of intense alienation among her peers. Tombo, a local teen and flying machine aficionado, has been trying to befriend her this whole time, but the rest of his friend group treats her like an outsider. All the adults treat Kiki with kindness, but according to the slightly older teenagers, she’s the freak with a job who doesn’t go to school.
+But under this veneer of successful adulting, Kiki is confronting feelings of intense alienation among her peers. Tombo, a local teen and flying machine aficionado, has been trying to befriend her this whole time, but the rest of his friend group treats her like an outsider. All the adults treat Kiki with kindness, but according to the slightly older teenagers, she’s the freak with a _job_ who doesn’t go to school.
 
 During her deliveries all over the city and surrounding countryside, it becomes clear that the modern era is slowly edging out the magical past. The bakery has an outhouse, but it’s fitted with a flush toilet [2].
 
@@ -79,7 +82,7 @@ Kiki’s adrenaline kicks in, she grabs a random broom from an onlooker, and her
 
 In the time-skipped post credit scene, she has regained her magic and is living happily as the Town Witch. She’s seen flying around next to Tombo’s new pedal-powered glider, and even Jiji finds love and has some kittens.
 
-What is it that draws me so much to this movie? Kiki’s Delivery Service strikes at all my neoliberal sensibilities that “surviving under capitalism” should be this easy. Rent should be cheap. It should be simple to start a business and perform services for money. Life should be easily maintained by holding down a low-stakes job as a bakery cashier while your business takes off. Local merchants should be ordinary, honest people who extend a helping hand to lost witches. We should encourage our young people to leave the nest and make their way in the world.
+What is it that draws me so much to this movie? _Kiki’s Delivery Service_ strikes at all my neoliberal sensibilities that “surviving under capitalism” _should_ be this easy. Rent _should_ be cheap. It _should_ be simple to start a business and perform services for money. Life _should_ be easily maintained by holding down a low-stakes job as a bakery cashier while your business takes off. Local merchants _should_ be ordinary, honest people who extend a helping hand to lost witches. We _should_ encourage our young people to leave the nest and make their way in the world.
 
 But nowadays we don’t have that. Starting a business requires a mountain of paperwork, and those cute mixed-use buildings are illegal to build. The rent is too damn high, and so are groceries. And good luck asking for a favor from a local Panera manager.
 
@@ -91,17 +94,17 @@ Which is why I was surprised to learn that Miyazaki is a communist.
 
 Well... [sort of](https://en.wikipedia.org/wiki/Hayao_Miyazaki#Views). It’s complicated.
 
-Miyazaki spent his early career at Toei Animation, where he served as the chief secretary of the union in the 1960s. When he moved on from Toei and began his directing career, Marxism heavily influenced his early work. This is most overtly shown in the 1978 television series [Future Boy Conan](https://en.wikipedia.org/wiki/Future_Boy_Conan). On a post-apocalyptic Earth, after the United States and Soviet Union have destroyed civilization with super-nukes, the titular character Conan must stop an evil warship named Industria from attempting to rebuild the world on the backs of an enslaved underclass.
+Miyazaki spent his early career at Toei Animation, where he served as the chief secretary of the union in the 1960s. When he moved on from Toei and began his directing career, Marxism heavily influenced his early work. This is most overtly shown in the 1978 television series _[Future Boy Conan](https://en.wikipedia.org/wiki/Future_Boy_Conan)_. On a post-apocalyptic Earth, after the United States and Soviet Union have destroyed civilization with super-nukes, the titular character Conan must stop an evil warship named _Industria_ from attempting to rebuild the world on the backs of an enslaved underclass.
 
-Given this political subtext, there’s an obvious alternative way to interpret Kiki’s Delivery Service:
+Given this political subtext, there’s an obvious alternative way to interpret _Kiki’s Delivery Service_:
 
-Magic is being steadily crowded out by modernity. It used to be a sacred act of the Town Witch offering up her services for free, but she now has to grovel and put up with rude customers in the context of running a business. Before, she would have been taken care of by the community and revered for her magical abilities. But when she first shows up in a modern city, she’s given the cold shoulder. Her very survival is dependent on her continuing to work and make deliveries, turning her sacred magic into a lowly commodity. Then, the grind of this makes her (almost) lose her magic entirely. It isn’t until she hangs out with people who care about her and learn to vibe with life that her magic returns.
+_Magic is being steadily crowded out by modernity. It used to be a sacred act of the Town Witch offering up her services for free, but she now has to grovel and put up with rude customers in the context of running a business. Before, she would have been taken care of by the community and revered for her magical abilities. But when she first shows up in a modern city, she’s given the cold shoulder. Her very survival is dependent on her continuing to work and make deliveries, turning her sacred magic into a lowly commodity. Then, the grind of this makes her (almost) lose her magic entirely. It isn’t until she hangs out with people who care about her and learn to vibe with life that her magic returns._
 
 This is probably closer to what Miyazaki was going for.
 
-When I first found out about this, I wasn’t really sure what to make of it. My first instinct was to invoke [Death of the Author](https://tvtropes.org/pmwiki/pmwiki.php/Main/DeathOfTheAuthor) and file this away with some other movies that had an obvious intended message - but then delivered a very different message.
+When I first found out about this, I wasn’t really sure what to make of it. My first instinct was to invoke [Death of the Author](https://tvtropes.org/pmwiki/pmwiki.php/Main/DeathOfTheAuthor) and file this away with some other movies that had an obvious intended message - but then delivered a very different message.
 
-Except Miyazaki’s political views at the time were a bit more complicated than that. While Miyazaki called himself a Marxist in his youth, he later disavowed certain elements of it. This shift occurred while he was working on Nausicaä of the Valley of the Wind from the mid 1980s through the ‘90s. This was the same time period when Kiki’s Delivery Service (1989) came out. Much of his Studio Ghibli work is centered on “human industry versus nature” instead of class struggle. He could be better characterized as an environmentalist than a strict leftist.
+Except Miyazaki’s political views at the time were a bit more complicated than that. While Miyazaki called himself a Marxist in his youth, he later disavowed certain elements of it. This shift occurred while he was working on _Nausicaä of the Valley of the Wind_ from the mid 1980s through the ‘90s. This was the same time period when _Kiki’s Delivery Service_ (1989) came out. Much of his Studio Ghibli work is centered on “human industry versus nature” instead of class struggle. He could be better characterized as an environmentalist than a strict leftist.
 
 So... which is it? Is the movie portraying business and commerce as good, or bad? Is trade a sacred pact of civilization, or is it a lowly magic-killing act of commodification?
 

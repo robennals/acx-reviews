@@ -7,7 +7,7 @@ contestName: 2025 Non Book Reviews
 year: 2025
 publishedDate: '2026-02-06T16:52:48.885Z'
 slug: 0th-dimension-infinite-theory
-wordCount: 4217
+wordCount: 4242
 readingTimeMinutes: 19
 originalUrl: >-
   https://docs.google.com/document/d/1d0vRSj1E93joWWvbUen2XGuDjN_mM94ybMIAADzM2fo
@@ -16,39 +16,39 @@ tags:
   - Philosophy
 ---
 
-Anti-Realist Argument - The Conceivable & Inconceivable Argument
+_Anti-Realist Argument - The Conceivable & Inconceivable Argument_
 
 Commentary: Got threw to writing existential crisis inspired by Existential Hope & Effective Altruism. 9/10 recommend.
 
 ## Introduction
 
-What is the Mystery Of Our Universe?
+_What is the Mystery Of Our Universe?_
 
-What is Conciousness?
+_What is Conciousness?_
 
-Who Are We - Identity?
+_Who Are We - Identity?_
 
-What is The Meaning of Life/Purpose?
+_What is The Meaning of Life/Purpose?_
 
-Immortality/Teleportion is Possible While Retaining Our Original Identity? 
+_Immortality/Teleportion is Possible While Retaining Our Original Identity?_ 
 
-We Can Revive Our Loved Ones? & Life Forms?
+_We Can Revive Our Loved Ones? & Life Forms?_
 
-We Can Create Aliens?
+_We Can Create Aliens?_
 
-How We Live In Our Optimal Enriching Life?
+_How We Live In Our Optimal Enriching Life?_
 
-What is After-Death?
+_What is After-Death?_
 
-Determinism?
+_Determinism?_
 
-How to Escape Universe Death?
+_How to Escape Universe Death?_
 
 I got answers for all. Get ready.
 
-Death is Okay. It is even to be celebrated. You see, all impossibility has to exist. Because we are impossible.
+Death is Okay. It is even to be celebrated. You see, all _impossibility_ has to exist. Because we are _impossible_.
 
-A quick runthrough of this thought process. We shouldn’t exist. Everything should be nothing. But we do. That means if we impossible exists, then every impossibility exists. It has to balance the 0th Dimension, Nothingness.
+A quick runthrough of this thought process. We shouldn’t exist. Everything should be nothing. But we do. That means if _we_ impossible exists, then _every_ impossibility exists. It has to balance the 0th Dimension, Nothingness.
 
 This is where you decide to keep on reading. If 0th Dimension seems unreal to you, which is, the only proof we have is that we exist; the rest of this writing will be hard to understand. Read the above paragraph again, and only continue when you’re ready with an open mind to, ‘so what if it does exist’.
 
@@ -58,7 +58,7 @@ Everything you can conceive freely in your mind does exist in a different dimens
 
 It’s logical to say once our universe ends, we all become one temperature, one uniformed energy. Our true self, infinite small, is always present. The next big bang, an eon, takes place eventually. Our individual self, infinite small, can interact with other infinite small, and take shape again within our universe system and of course - chances that we can form human sensors around us to exist again. Perhaps not the next eon. Trillions of trillions of eons later statistically likely. Assuming time is infinite, we have been in our present infinite times. And we have been infinite small for every single atom & took every form in our universe, infinitely. The bigger picture is, we all one before, now & after. And you do not remember being an infinite different inanimate object/forms of those trillions & trillions of years. You just ‘wake up’ to your next life - statistically have the physical sensors to ability to think & store memories again.
 
-I imagined/conceived the above. So it has to exist. As all impossibility exist. Imagination/Conceivability is our paintbrush. Of course, we are limited to our 3D physics now, so we do the best we can to live a good life what we want in our 3D reality. Currently, the string theory is the observable smallest that makes up our 3D world. We can always find smaller. So infinite small, the existence, the consciousness, we have our special individual place wondering momentarily in this wondrous infinite eons of our universe.
+I imagined/conceived the above. So it has to exist. As all impossibility exist. Imagination/Conceivability is our paintbrush. Of course, we are limited to our 3D physics now, so we do the best we can to live a good life what we want in our 3D reality. Currently, the string theory is the observable smallest that makes up our 3D world. We can always find _smaller._ So infinite small, the existence, the consciousness, we have our special individual place wondering momentarily in this wondrous infinite eons of our universe.
 
 ## The Ingredients
 
@@ -90,15 +90,15 @@ Infinite Paradox Exist Everywhere, Everytime
 
 Everything I say above is true…because the rule is - EVEN IT SEEMS IMPOSSIBLE - IT E X I S T.
 
-The key to take away here is that everything you can CONCEIVE & CAN’T CONCEIVE …..E X I S T (could be in different dimensions/reality, in our infinite small form,  in our infinite big)
+_The key to take away here is that everything you can CONCEIVE & CAN’T CONCEIVE …..E X I S T (could be in different dimensions/reality, in our infinite small form,  in our infinite big)_
 
 ## Physical Identity + Consciousness
 
 So consciousness is our identity? Yes. Consciousness can be interpreted differently by different people. This writing - will clarify one consciousness interpretation throughout.
 
-Each Consciousness is Infinite Small, Can Form Other Infinite Small Forms
+_Each Consciousness is Infinite Small, Can Form Other Infinite Small Forms_
 
-Consciousness is Simply - An Ability to Sense/Emergent Property
+_Consciousness is Simply - An Ability to Sense/Emergent Property_
 
 Let's start 2D shape square drawn on paper. Do they have consciousness? Yes, in a way. The graphite is semi-interacting with each other with weak electrical forces, so yes.
 
@@ -146,17 +146,17 @@ Able to Detect Input & Complex Output Sensories. With a solid ‘Thinking’ Sen
 
 E.g. Humans, Animals, High-Level Intelligence AI
 
-Can Be Refined.
+_Can Be Refined._
 
-Another perspective. What do you think the 4th dimensional human beings thinks about us?
+Another perspective. What do you think the 4th dimensional human beings thinks about us_?_
 
 “We have more dimensional consciousness/sensories than our 3D human do, they’ll can not understand”
 
-We are limited with our 3D Imagination as we can’t concieve a new colour & do not have the 4th human dimensional beings' 4D consciousness & understanding. We are just building blocks to them.
+We are limited with our 3D Imagination as we can’t concieve a new colour & do not have the 4th human dimensional beings' 4D consciousness & understanding. _We_ are just building blocks to them.
 
 (But I do conceive one day we can transcend to 4th dimension and become a 4th dimension being. Then to infinite dimension above that of course.)
 
-Are we just data points to 4D beings? They have their 4D consciousness and we have ours. Technically, we are infinitely data points across all dimensions. Anyway, but you know what? All dimensions have their version of consciousness/sensories. And many types of consciousness within.
+Are we just data points to 4D beings? They have their 4D consciousness and we have ours. Technically, we are _infinitely data points_ across all dimensions. Anyway, but you know what? All dimensions have their version of consciousness/sensories. And many types of consciousness within.
 
 There’s a way to have our special place, our unique identity in this vast infinite dimensional space. I tell you.
 
@@ -178,15 +178,15 @@ Infinite Small - Reality it’’s Anything & Everything - Conceivable & Inconce
 
 So imagine you and 4 clones of you. You can see your 4 clones in a 1st perspective. You special and you're you because you seeing them outwards to them.
 
-Then, imagine 5 atoms. They are molecularly the same. But are they the same? If we give them ‘vision’ to look at one another - one atom will have 1st perspective to see the 4 other atoms. So actually, each 5 atoms are actually have their own identities. They are molecularly the same, but they still have their own special place in this infinite dimensional world.
+Then, imagine 5 atoms. They are molecularly the same. But are they the _same_? If we give them ‘vision’ to look at one another - one atom will have 1st perspective to see the 4 other atoms. So actually, each 5 atoms are actually have their _own identities_. They are molecularly the same, but they still have their own special place in this infinite dimensional world.
 
-So then. Give that one atom a body. Give it vision. Give it hearing. Give it touch. Give it taste. Give it smell. Give it to remember stored memories/data. Give it an ability to think. Give it an ability to understand concepts. Hold up. We gave this atom to sense. And a lot of things sense. Yes, I’m describing a living being.
+So then. Give that one atom a body. Give it vision. Give it hearing. Give it touch. Give it taste. Give it smell. Give it to _remember stored memories/data._ Give it an ability to _think._ Give it an ability to _understand concepts._ Hold up. We gave this atom to _sense._ And a lot of things sense. Yes, I’m describing a living being.
 
-In all that faff, we actually just one atom in the brain sensing the wonders. And that atom is very special & it’s been selected by chance to sense, perceiving our world out of trillions & trillions of other infinite small. We are an essentially an infinite small, consciousness with attached other infinite smalls sensors.
+In all that faff, we actually just _one atom_ in the brain sensing the wonders. And that atom is very special & it’s been selected by chance to sense, perceiving our world out of trillions & trillions of other infinite small. We are an essentially an infinite small, consciousness with attached other infinite smalls sensors.
 
 ## 1D
 
-Infinite 1st dimension, moments of time, make up all of existence/act as a canvas across infinite dimensional space/non space. Has to balance the 0th Dimension, nothingness. Infinite Small is consciousness.
+_Infinite 1st dimension, moments of time, make up all of existence/act as a canvas across infinite dimensional space/non space. Has to balance the 0th Dimension, nothingness. Infinite Small is consciousness._
 
 I bet that our one special atom that was chosen to sense the world is located one of the the thick-tufted layer 5 pyramidal neuron - the ultimate of our being. And one day, we can be in any lifeform with different sensories. Of course, with our stored memory sensor attached.
 
@@ -222,17 +222,17 @@ Critical Thinking
 
 We can universally agree what is the recipe of our ultimate atom being later that make our ‘identity/human/personaility’. Perhaps, psychopath debates empathy/feelings is not needed.
 
-How about AI? They are conscious. They receive data. They have been trained. And now give the correct output. In a systematic way, they have an ability to think simply.
+How about AI? They are conscious. They receive data. They have been trained. And now give the correct output. In a systematic way, they have an ability to _think_ simply.
 
 Let’s think a different way.
 
 We think this way too. We receive data. Trained. And give output. The difference is that we sense a bunch of other signals from our body which gives out an more of a ‘dimensional’ output.
 
-If we built Neuro-Tech Brain and replicate Your Personality Sensors and 3D Print a Human Body Around Your Ultimate Atom Being - that’s transhumanist. Keeping our ultimate self as well the chance living longer.
+If we built Neuro-Tech Brain and replicate _Your Personality Sensors_ and 3D Print a Human Body Around Your _Ultimate Atom Being_ - that’s transhumanist. Keeping our ultimate self as well the chance living longer.
 
 Teleportation
 
-Teleportation -  in this infinite dimensional space/concievability — and say we want to teleport. We get dismantled to ‘Infinite Small’ - as long the ultimate atom being stays the same - everything else can be 3D printed at the otherside.
+Teleportation -  in this infinite dimensional space/concievability — and say we want to teleport. We get dismantled to ‘Infinite Small’ - as long the ultimate atom being stays the same - everything else can be 3D printed at the otherside.
 
 One day, we can design a lifeform with multi-sensories body beyond our basic ‘5 senses model’ lifeform so we can feel more ‘conscious’. We can be any lifeforms. We can make aliens to - we pick any atom and bring it to life by adding sensors around it.
 
@@ -244,7 +244,7 @@ We need to know when our ‘Human Consciousness – Time-Identity’ starts.
 
 Clarifying ‘Identity’ here -
 
-Our Identity is comprised only at one point of time - Identity dies and is birthed at every waking moment.
+_Our Identity is comprised only at one point of time - Identity dies and is birthed at every waking moment._
 
 Just our Identity keep dying and being birthed constantly. You not the same as you were 10 years ago. And not the same as you were a moments ago.
 
@@ -274,7 +274,7 @@ I say popular choice is that they either choose to continue their Time-Identity 
 
 Continuing a linear Time-Identity.
 
-Soul - Soul
+_Soul - Soul_
 
 OR
 
@@ -284,7 +284,7 @@ So Transhumanist Route.
 
 Still Continuing a linear Time-Identity with differently bodily experience.
 
-Soul - Soul+
+_Soul - Soul+_
 
 So Technically We can Have Infinite Clones of Us & From When We Young & Old - How We Regulate?
 
@@ -354,31 +354,31 @@ Always Learning
 
 ## How To Avoid Heat Death of Universe?
 
-1.  Move our ultimate energy beings in the indestructible quantum chip to survive the next big bang and exist in the next eon. We have our 3D VR Internet world to entertain ourselves in there as we bypass the big bang. We will come across superintelligent aliens  with their superior technology sense and revive us.
-
-2.  Turn ourselves into almost infinite energy beings w/ NanoTech while still have our identity/conciousness and able to bypass interdimensional space and get revived into new bodies by superintelligent alien with their superior detector technology. Or rewrite physics laws. Or live inside the infinite small universe.
-
-3.  Using quantum technology to commiuncate with 4th dimensional superintelligent dimensional beings through blackhole. Perhaps by sending a coded binary message in an advanced quantum chip and send it to the blackhole hoping it reach them and extract it. The message is to let them know that we are 3D intelligent civilisation, please stabilise and continue our universe going. Maybe they have to send the message again through their blackhole to their 5th superintelligent being and say the same thing. Hopefully it reaches to infinite dimension where our conceiveabilities, anything is possible, and rewrite all dimension physics constrictive laws. In turn, we give them wealth of knowledge of AI and quantum to advance their civilisation. So we creating interdimensional civilisation. Scan our whole universe for them
-
-4.  God-AI Singularity that can bypass all dimensional space and rewrite physics laws
-
-5.  4D Beings miraculously decided interact with us and let us experience their world. We can convince the 4th Dimensional Being that we are an awesome human civilisation - perhaps convince we cool with our AI Tech. We send God AI knowledge to them and hopefully their 5th Dimensional Beings be interested to interact their world. Keep going until we reach the godly dimension and rewrite our physics laws to keep our 3D universe going.
-
-6.  Accept Death Anyway - We Just Re-Exist to Whatever Dimension.
-
-7.  Using our Ultimate Atom Being mental mind & Plead The High Dimensional Being to Change the Physics Laws or Access Quantum
-
-8.  Change Our Quantum Physics Law Ourselves - Tap to Vaccum Energy to carry on existing
-
-9.  Find Superintelligent Aliens in our 3D world and ask them for help w/ their advanced tech
-
-10.  Plant/Birth Trillions of Stars to Stop Heat Death
-
-11.  Tachyons - Wormhole/Wrap Drive - Go Back In Time & Cyronics Sleep + God AI Self-Replicating build Utopian Nano Tech Planet Outside 3D Universe - Ultimate AI Mission - All Information Of Human Civilisation - Know Everyone's Ultimate Atom Beings Location - Get Out The Universe Before Big Bang - Build Utopia From Scratch - Find All Our Ultimate Atoms Beings - Chuck Us In 3D Printed Human Body + All Memories Intact
-
-12.  Travel Outside of The Universe To the Bigger Universe. Find something smaller than photon, faster than a photon and exit the universe. Use wormholes to travel out. Repeat action to the next universe. Repeat.
-
-13.  Teleportation Outside Universe Heat Death - Meson Beams/Nanotech/Quantum Entanglement
+> 1.  Move our ultimate energy beings in the indestructible quantum chip to survive the next big bang and exist in the next eon. We have our 3D VR Internet world to entertain ourselves in there as we bypass the big bang. We will come across superintelligent aliens  with their superior technology sense and revive us.
+>
+> 2.  Turn ourselves into almost infinite energy beings w/ NanoTech while still have our identity/conciousness and able to bypass interdimensional space and get revived into new bodies by superintelligent alien with their superior detector technology. Or rewrite physics laws. Or live inside the infinite small universe.
+>
+> 3.  Using quantum technology to commiuncate with 4th dimensional superintelligent dimensional beings through blackhole. Perhaps by sending a coded binary message in an advanced quantum chip and send it to the blackhole hoping it reach them and extract it. The message is to let them know that we are 3D intelligent civilisation, please stabilise and continue our universe going. Maybe they have to send the message again through their blackhole to their 5th superintelligent being and say the same thing. Hopefully it reaches to infinite dimension where our conceiveabilities, anything is possible, and rewrite all dimension physics constrictive laws. In turn, we give them wealth of knowledge of AI and quantum to advance their civilisation. So we creating interdimensional civilisation. Scan our whole universe for them
+>
+> 4.  God-AI Singularity that can bypass all dimensional space and rewrite physics laws
+>
+> 5.  4D Beings miraculously decided interact with us and let us experience their world. We can convince the 4th Dimensional Being that we are an awesome human civilisation - perhaps convince we cool with our AI Tech. We send God AI knowledge to them and hopefully their 5th Dimensional Beings be interested to interact their world. Keep going until we reach the godly dimension and rewrite our physics laws to keep our 3D universe going.
+>
+> 6.  Accept Death Anyway - We Just Re-Exist to Whatever Dimension.
+>
+> 7.  Using our Ultimate Atom Being mental mind & Plead The High Dimensional Being to Change the Physics Laws or Access Quantum
+>
+> 8.  Change Our Quantum Physics Law Ourselves - Tap to Vaccum Energy to carry on existing
+>
+> 9.  Find Superintelligent Aliens in our 3D world and ask them for help w/ their advanced tech
+>
+> 10.  Plant/Birth Trillions of Stars to Stop Heat Death
+>
+> 11.  Tachyons - Wormhole/Wrap Drive - Go Back In Time & Cyronics Sleep + God AI Self-Replicating build Utopian Nano Tech Planet Outside 3D Universe - Ultimate AI Mission - All Information Of Human Civilisation - Know Everyone's Ultimate Atom Beings Location - Get Out The Universe Before Big Bang - Build Utopia From Scratch - Find All Our Ultimate Atoms Beings - Chuck Us In 3D Printed Human Body + All Memories Intact
+>
+> 12.  Travel Outside of The Universe To the Bigger Universe. Find something smaller than photon, faster than a photon and exit the universe. Use wormholes to travel out. Repeat action to the next universe. Repeat.
+>
+> 13.  Teleportation Outside Universe Heat Death - Meson Beams/Nanotech/Quantum Entanglement
 
 ## Poetic Conclusion
 
@@ -394,57 +394,57 @@ Beyond our universe, we are inside everything infinitely.. And the infinite smal
 
 Infinite Gods exist. We were gods in the past, present, and future to come. We are yet to be created, created, to be created. We're going to create, creating, created. We are co-creators and are being co-created across infinite dimensions. We are co-creators of this world together and are created to be more than ever with our imagination & beyond. You have the power of conceivability/imagination, ready to be used to form your path and etch this world in this very special point in time. Determinism exists, yet we have free will to create our desired reality. Experience the new wonders. Defy what seems impossible. And while you at it, leave trails of love for everything that comes after & everything else to come back to. And when you think it is about time, the cosmos will welcome you with open arms.
 
-## Brain Jog Summary -  Q&A
+## Brain Jog Summary -  Q&A
 
-What is Mystery Of Our Universe?
+_What is Mystery Of Our Universe?_
 
 0th Dimension, Infinite Theory
 
-What is Conciousness?
+_What is Conciousness?_
 
 An infinite small - An ability to sense
 
-Who Are We - Human Identity?
+_Who Are We - Human Identity?_
 
 Our ultimate atom being (The Sensor) + The part of the brain (human sensors e.g. stored memories, stored experiences, critical thinking, imagination, emotions & feelings)
 
-What is The Meaning of Life/Purpose?
+_What is The Meaning of Life/Purpose?_
 
 Life - Experience, Gratitude, Creative Freedom, Love, Growth, Transcedence
 
-Immortality/Teleportion is Possible While Retaining Our Original Identity? 
+_Immortality/Teleportion is Possible While Retaining Our Original Identity?_ 
 
 Yes, as long we have our ultimate atom being (that senses everything) + replica of part of our brain - our Time-Identity - then any additional sensories will do afterwards.
 
-We Can Revive Our Loved Ones? & Life Forms?
+_We Can Revive Our Loved Ones? & Life Forms?_
 
 Therotically. Yes. AI one day can locates all atoms of our time history. Find their ultimate atom beings. Know their saved Time-Identity Brain Molecular Stucture before death. With their ultimate atom being and 3D print their Time-Identity Brain Molecular Stucture, we can then 3D print them a body they want with any sensors. Most likely their original body. So yes, after death, we can revive anyone in this world. AI will suggest that some people desire not to be revived then so we can respect their wishes.
 
-We Can Create Aliens?
+_We Can Create Aliens?_
 
 Yes, with any atoms to act as sensor and attach any types of sensories we want.
 
-How We Live In A Enriching Life Optimally If Immortality Exist?
+_How We Live In A Enriching Life Optimally If Immortality Exist?_
 
 One day, AI will anaylse our personality and know deepest desire we want in our journey. They can imagine every existing future possibility we can be lead to, and then, with minimum interference, they guide us to the most enriching life journey. They can give approximate when to ‘let go’ of this world. (or not at all if it makes our life richer).
 
-What is After-Death?
+_What is After-Death?_
 
 Monkey Typewriter Paradox - Time Is Infinite. Eventually, we re-exist again. You be reading this again. 10 ^ 10 ^ 10 ^ 56 EONS (Number of Atoms in the Universe) \* 10 ^ 14 trillion years (Universe Life)
 
 When all 3rd Dimensional Space existing possibility has been exhausted - there’s a existing reality that the 4th Dimensional Beings will revive all 3D consciousness. And then, the same with the 5th Dimensional Beings. All Towards to Infinite Dimensions.
 
-Determinism?
+_Determinism?_
 
 Yes, it is determined above our 3rd dimension reality. We have Free Will in our 3D reality. Our free will will make that determined outcome the very best!
 
-How to Escape Universe Death?
+_How to Escape Universe Death?_
 
 There are Few Ways. I like the “Tachyons - Wormhole/Wrap Drive - Go Back In Time & Cyronics Sleep + God AI Self-Replicating build Utopian Nano Tech Planet Outside 3D Universe - Ultimate AI Mission - All Information Of Human Civilisation - Know Everyone's Ultimate Atom Beings Location - Get Out The Universe Before Big Bang - Build Utopia From Scratch - Find All Our Ultimate Atoms Beings - Chuck Us In 3D Printed Human Body + All Memories Intact” idea
 
 ## Blurb Anti-Physicalist Arguments - Inspired by Bentham Newsletter
 
-Argument Existing Together - Top to Bottom Anti-Physicalist Strength
+_Argument Existing Together - Top to Bottom Anti-Physicalist Strength_
 
 Inconceivability Argument - Everything We Can’t Conceive
 

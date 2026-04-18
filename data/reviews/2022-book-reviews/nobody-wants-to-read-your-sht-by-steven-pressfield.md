@@ -40,7 +40,7 @@ Act three - Paying it all off
 
 So far, we’re in Act one and I’ll explain as we go.
 
-Act One: Nobody wants to read your sh\*t!
+**Act One: Nobody wants to read your sh\*t!**
 
 In Pressfield’s book, Act One is a wake-up call: People don’t like reading your writing. In fact, people don’t like reading anything at all.
 
@@ -72,7 +72,7 @@ This is the job of the writer: to discover and eliminate those things that don�
 
 And oh, there are quite a number of things to improve.
 
-Act Two: You lack empathy and do not know the foundational writing principles
+**Act Two: You lack empathy and do not know the foundational writing principles**
 
 Developing empathy is the biggest applicable lesson from the book, so let’s step through what it means.
 
@@ -152,7 +152,7 @@ But if you understand the Foundational Writing Principles and develop empathy, t
 
 NOBODY WANTS TO READ YOUR SH\*T - Steven Pressfield
 
-Act Three - 2nd meaning: Nobody likes when you haven’t worked to get the egotistical part (the sh\*t) out of your writing.
+**Act Three - 2nd meaning: Nobody likes when you haven’t worked to get the egotistical part (the sh\*t) out of your writing.**
 
 Now you know how to get your ego out of the way. You now write valuing the reader’s time. You tell stories with the plot arc in mind. You focus on helping or entertaining them. You adhere to the foundational writing principles.
 

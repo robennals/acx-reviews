@@ -7,7 +7,7 @@ contestName: 2025 Non Book Reviews
 year: 2025
 publishedDate: '2026-02-06T16:52:48.892Z'
 slug: elon-musks-engineering-algorithm
-wordCount: 4580
+wordCount: 4603
 readingTimeMinutes: 21
 originalUrl: >-
   https://docs.google.com/document/d/1d0vRSj1E93joWWvbUen2XGuDjN_mM94ybMIAADzM2fo
@@ -17,15 +17,15 @@ tags:
   - Memoir
 ---
 
-•  Make the requirements less dumb.
-
-•    Delete parts or process.
-
-•    Simplify and optimize.
-
-•    Accelerate cycle time.
-
-•    Automate.
+> •  **Make the requirements less dumb.**
+>
+> •    **Delete parts or process.**
+>
+> •    **Simplify and optimize.**
+>
+> •    **Accelerate cycle time.**
+>
+> •    **Automate.**
 
 - ModelThinkers.com, summarizing an interview with Elon Musk in 2021.
 
@@ -35,23 +35,23 @@ Long ago, in the Space Race, people were willing to test a lot, fail fast and le
 
 But over time, conservatism and bad incentives crept into space programs. Good engineering got choked by endless layers of process and review, and people became so terrified of the impression of failure that they would spend a hundred times as much to design perfect hardware.
 
-And so: NASA’s [1969 Space Task Group proposal](https://www.nasa.gov/history/the-post-apollo-space-program-directions-for-the-future/) aimed for a twenty-five-person moon base and nuclear-powered Mars trip in the late 1980s. Instead, fifty years later, we are stuck with boondoggles like the Space Launch System - NASA’s new moon rocket - that [cost more](https://www.gao.gov/assets/gao-23-105609.pdf) than the Saturn V, have less performance, and can launch maybe once every other year.
+And so: NASA’s [1969 Space Task Group proposal](https://www.nasa.gov/history/the-post-apollo-space-program-directions-for-the-future/) aimed for a twenty-five-person moon base and nuclear-powered Mars trip in the late 1980s. Instead, fifty years later, we are stuck with boondoggles like the Space Launch System - NASA’s new moon rocket - that [cost more](https://www.gao.gov/assets/gao-23-105609.pdf) than the Saturn V, have less performance, and can launch maybe once every other year.
 
-Throughout this whole period, the rage scream of the space nerds built. It expressed itself in a succession of space companies now unjustifiably ignored by history - [Space Services, Inc](https://en.wikipedia.org/wiki/Space_Services_Inc.), [AMROC](https://en.wikipedia.org/wiki/American_Rocket_Company), [Rotary Rocket Company](https://en.wikipedia.org/wiki/Rotary_Rocket), [Orbital Sciences](https://en.wikipedia.org/wiki/Orbital_Sciences_Corporation) [1]. Finally, amidst a boom in low orbit satellite construction, an eccentric rich person founded a company with a test site in Texas to change rocket launch forever. Then, after building the largest engine since Apollo, Andrew Beal’s [Beal Aerospace](https://www.beal-aerospace.com/) went bankrupt, and its test site was bought by the next challenger in line: Elon Musk’s Space Exploration Technologies Corporation.
+Throughout this whole period, the rage scream of the space nerds built. It expressed itself in a succession of space companies now unjustifiably ignored by history - [Space Services, Inc](https://en.wikipedia.org/wiki/Space_Services_Inc.), [AMROC](https://en.wikipedia.org/wiki/American_Rocket_Company), [Rotary Rocket Company](https://en.wikipedia.org/wiki/Rotary_Rocket), [Orbital Sciences](https://en.wikipedia.org/wiki/Orbital_Sciences_Corporation) [1]. Finally, amidst a boom in low orbit satellite construction, an eccentric rich person founded a company with a test site in Texas to change rocket launch forever. Then, after building the largest engine since Apollo, Andrew Beal’s [Beal Aerospace](https://www.beal-aerospace.com/) went bankrupt, and its test site was bought by the next challenger in line: Elon Musk’s Space Exploration Technologies Corporation.
 
 ![](https://acximages.ennals.org/images/2025-non-book-reviews/fcff596290e026de.png)
 
 Image Source: [Space Exploration Technologies Corporation](https://web.archive.org/web/20030623061458/http://spacex.com/)
 
-By the time I entered the aerospace industry, SpaceX (once known as SET, for “Space Exploration Technologies”) had already carried out one of the great underdog stories in aerospace. From its beginnings exploding rockets in the Kwajalein Atoll, to teenage years releasing hype videos [backed by Muse songs](https://www.youtube.com/watch?v=sSF81yjVbJE) [2], SpaceX had dethroned the entrenched, government-supported monopolies and was rapidly becoming wildly, historically dominant in the space industry.
+By the time I entered the aerospace industry, SpaceX (once known as SET, for “Space Exploration Technologies”) had already carried out one of the great underdog stories in aerospace. From its beginnings exploding rockets in the Kwajalein Atoll, to teenage years releasing hype videos [backed by Muse songs](https://www.youtube.com/watch?v=sSF81yjVbJE) [2], SpaceX had dethroned the entrenched, government-supported monopolies and was rapidly becoming wildly, historically dominant in the space industry.
 
 In the process, it told a powerful story of the secret to its success. The story went like this:
 
-•          SpaceX wasn’t afraid of the appearance of failure, which meant that they could learn faster by carrying out tests that might not work.
-
-•          Everybody at SpaceX was the cream of the crop and held to high expectations in a hard-charging environment.
-
-•          Decisions were made based on “first principles”. There was little stifling process and procedure.
+> •          SpaceX wasn’t afraid of the appearance of failure, which meant that they could learn faster by carrying out tests that might not work.
+>
+> •          Everybody at SpaceX was the cream of the crop and held to high expectations in a hard-charging environment.
+>
+> •          Decisions were made based on “first principles”. There was little stifling process and procedure.
 
 All of this was instantiated through a process of Responsible Engineering. If you were the Responsible Engineer for the pneumatic system, you had absolute power over it, but (hypothetically) any failure on it was your fault. Your capital-R responsibility stretched the whole way - identifying what the pneumatic system was supposed to do, working with all of its stakeholders to individually identify the possible ways it could help or hurt other problems, and finding solutions to every problem.
 
@@ -65,23 +65,23 @@ When The Algorithm arrived - fresh off the presses of Elon’s crushing experien
 
 In essence - as a exasperated reader might have noticed - it was a distillation of various extremely canonical Good Engineering Advice.
 
-•          Question the Requirements - so you solve exactly and only the problem you’re trying to solve.
-
-•          Delete the part - became removing complexity makes problems more manageable.
-
-•          Optimize the part - good, but only after satisfying the first two.
-
-•          Accelerate - to get more production and enable test, but only once you know it’s the right thing to produce.
-
-•          Automate - ditto, and ditto.
+> •          Question the Requirements - so you solve exactly and only the problem you’re trying to solve.
+>
+> •          Delete the part - became removing complexity makes problems more manageable.
+>
+> •          Optimize the part - good, but only after satisfying the first two.
+>
+> •          Accelerate - to get more production and enable test, but only once you know it’s the right thing to produce.
+>
+> •          Automate - ditto, and ditto.
 
 All of us seemed to read it as such. We nodded thoughtfully and continued along in the way that people since time immemorial have listened to, but not really absorbed, Good Engineering Advice. But slowly, it became clear that this time was different.
 
 As I worked in the early 2020s, the Algorithm became a mantra around the office. It came up in presentations and one on ones. Our slides were practically required to mention the steps. Within a year, I could recite it when woken from a dead sleep. Steadily, it became clear that this wasn’t advice, it was something new.
 
-Questioning the requirements was an extremely literal thing that you were supposed to do multiple times every single day. I’d make a claim about my system (“hey, if the stuff in this tube gets too hot, my part will explode, so please don’t put anything too hot near it”) and that very afternoon three or four people would stop by my desk, ready to debate.
+Questioning the requirements was an extremely literal thing that you were supposed to do multiple times every single day. I’d make a claim about my system (“hey, if the stuff in this tube gets too hot, my part will explode, so please don’t put anything too hot near it”) and _that very afternoon_ three or four people would stop by my desk, ready to debate.
 
-“Hello,” they would say. “I’m the Responsible Engineer for the Hot Things Near Tubes system,” and then the floodgates would open. What did I mean by near? What did I mean by hot? How hot was too hot? Was it really going to explode? If it exploded, was that really so terrible?
+“Hello,” they would say. “I’m the Responsible Engineer for the Hot Things Near Tubes system,” and then the floodgates would open. What did I mean by near? What did I mean by hot? How hot was _too_ hot? Was it really going to _explode_? If it exploded, was that really _so_ terrible?
 
 The first time, the debate would be interesting. The second, it would be a bit tiresome. By the first week after a new claim, it was exhausting and a little rote. But you had to win, every time, because if you didn’t, nobody would follow your requirement.
 
@@ -89,7 +89,7 @@ It also worked in the other direction. I learned to pay attention to everything 
 
 And so when there were requirements, they were strong, because they had to survive an endless barrage of attack. When there were parts, they were well-justified, because every person involved in the process of making them had tried to delete them first. And there were no requirements matrices, no engineering standards, practically no documentation at all.
 
-The key point came in, the reason why it was capitalized. It wasn’t philosophy, it wasn’t advice - it was an Algorithm. A set of process steps that you followed to be a good engineer. And all of us good engineers were being forced by unstoppable cultural forces to maniacally follow it.
+The key point came in, the reason why it was capitalized. It wasn’t philosophy, it wasn’t advice - it was an _Algorithm_. A set of process steps that you followed to be a good engineer. And all of us good engineers were being forced by unstoppable cultural forces to maniacally follow it.
 
 There was one question slowly building in my mind. The point of SpaceX was to get good engineers, do first principles analysis, let them iterate, and avoid documentation. This whole process was clearly succeeding at the last three steps. But if we were already so great, why did we have to have this process enforced so agressively?
 
@@ -127,17 +127,17 @@ Many things helped ride to the rescue, but one of the most important was a new f
 
 The first recorded use of the term “Systems Engineering” came from a 1950 presentation by Mervin J. Kelly, Vice President of Bell Telephone. It appeared as a new business segment, coequal with mainstays like Research and Development. Like much of the writing on systems engineering, the anodyne tone hid huge ambition.
 
- ‘Systems engineering’ controls and guides the use of the new knowledge obtained from the research and fundamental development programs … and the improvement and lowering of cost of services…’
+ ‘Systems engineering’ controls and guides the use of the new knowledge obtained from the research and fundamental development programs … and the improvement and lowering of cost of services…’
 
 In other words, this was meta-engineering.
 
-The problems were too complex, so the process had to be a designed thing, a product of its own, which would intake the project goals and output good decision making.
+The problems were too complex, so the _process_ had to be a designed thing, a product of its own, which would intake the project goals and output good decision making.
 
 It began with small things. There should be clear requirements for what the system is supposed to do. They should be boxed out and boiled down so that each engineer knows exactly what problem to solve and how it impacts the other ones. Changes would flow through the process and their impacts would be automatically assessed. Surrounding it grew a structure of reviews, process milestones, and organizational culture, to capture mistakes, record them, and make sure nobody else made them again.
 
 And it worked! All of those transcendental results from Apollo were in fact supported on the foundations of exquisitely handled systems engineering and program management. The tools developed here helped catapult commercial aviation and sent probes off beyond the Solar System and much more besides.
 
-At SpaceX, there was no such thing as a “Systems Engineer.” The whole idea was anathema. After all, you could describe the point of systems engineering, and process culture more generally, as the process of removing human responsibility and agency. The point of building a system to control human behavior is that humans are fallible. You write them an endless list of rules to follow and procedures to read, and they follow them correctly, and then it works out.
+At SpaceX, there was no such thing as a “Systems Engineer.” The whole idea was anathema. After all, you could describe the point of systems engineering, and process culture more generally, as the process of _removing_ human responsibility and agency. The point of building a system to control human behavior is that humans are fallible. You write them an endless list of rules to follow and procedures to read, and they follow them correctly, and then it works out.
 
 At SpaceX, it wasn’t going to be like that. First principles thinking and Requirements Questioning and the centrality of responsible engineering all centered around the idea of raising the agency of each individual engineer. Raising individual responsibility was always better.
 
@@ -159,9 +159,9 @@ Now, SpaceX was different, at first. There were enormous opportunities to have u
 
 But by the 2020s, even SpaceX was growing large. The company had passed 10,000 people, with programs across the country, tendrils in every major space effort and endlessly escalating ambition.
 
-And the larger it became, the greater the costs to its architecture became. As my program grew from dozens of people to hundreds to thousands, every RE needed to read more emails, track more issues, debate more requirements. And beyond that, every RE needed to be controlled by common culture to ensure good execution, which wasn’t growing fast enough to meet the churn rate of the new engineers.
+And the larger it became, the greater the costs to its architecture became. As my program grew from dozens of people to hundreds to thousands, every RE needed to read more emails, track more issues, debate more requirements. And beyond that, every RE needed to be controlled by common culture to ensure good execution_,_ which wasn’t growing fast enough to meet the churn rate of the new engineers.
 
-Enter The Algorithm. It was a philosophy, and it was ritual, and it was a set of rules to do Good Engineering. If you followed it, you would succeed. If you didn’t follow it, your manager would see that you didn’t.
+Enter The Algorithm. It was a philosophy, and it was ritual, and it was _a set of rules to do Good Engineering._ If you followed it, you would succeed. If you didn’t follow it, your manager would see that you didn’t.
 
 The Algorithm imposed costs, the same way that any attempt to get people to follow a ruleset does. That was the whole point of the responsibility culture in the first place. And it was a pretty lightweight set of rules, vague enough to be complied with across a range of positions. Unless you squinted, you couldn’t tell that anything had changed.
 
@@ -179,9 +179,9 @@ Like centrally planned systems of days past, it puts forwards the vision of a pe
 
 One might consider the “Responsible Engineering” system, then, to be a market system. Nobody can keep in their head the interlocking relationships that define the rocket engineering problem. Instead, every person in the machine is given incentives to get their part right and set to battle. Nobody in the system really has insight into the whole process, but the optimum design emerges via competition.
 
-Except that it’s not a great metaphor. First, the problem with a competitive model of engineering is that, unlike in an economy, everyone needs to succeed. The economy is fine with bad companies dying, but the rocket doesn’t work if any part dies. So everybody needs to be really good at doing market economics and very in balance with one another. You can help that with aggressive and continuous purging of faltering employees - if you have an endless line of excellence out the door. But even so, continuous excellence requires a small enough scale to control culture very tightly.
+Except that it’s not a great metaphor. First, the problem with a competitive model of engineering is that, unlike in an economy, _everyone needs to succeed_. The economy is fine with bad companies dying, but the rocket doesn’t work if any part dies. So everybody needs to be _really good_ at doing market economics and very in balance with one another. You can help that with aggressive and continuous purging of faltering employees - if you have an endless line of excellence out the door. But even so, continuous excellence requires a small enough scale to control culture very tightly.
 
-Second, it still runs into a complexity ceiling. The whole rocket has to work, which means that people can’t just optimize for their local success - they all need, to some extent, to keep the entirety of the system in mind. And all the market actors are individuals - that’s how you’re avoiding the bureaucracy - which means that they run into an abstraction scale limit.
+Second, it still runs into a complexity ceiling. The whole rocket has to work, which means that people _can’t_ just optimize for their local success - they all need, to some extent, to keep the entirety of the system in mind. And all the market actors are individuals - that’s how you’re avoiding the bureaucracy - which means that they run into an abstraction scale limit.
 
 But most of all, the metaphor is bad because command economics has a reputation of having failed, but centralized engineering hasn’t. In a sense, that’s what capitalism is, a whole bunch of legal dictatorships called “corporations”, the majority of which operate on an largely centralized model.
 
@@ -193,17 +193,17 @@ The SpaceX responsibility approach is a good one, but it’s not for everything.
 
 *
 
-Okay, so the answer is easy here. Various different approaches towards engineering can  coexist, all doing their part, sometimes in the same company. The world is complicated, false dichotomy, etc, etc, you’ve read this essay before.
+Okay, so the answer is easy here. Various different approaches towards engineering can  coexist, all doing their part, sometimes in the same company. The world is complicated, false dichotomy, etc, etc, you’ve read this essay before.
 
 But there’s a story here, a powerful one, the same one that drove me when I started, that makes it hard to look at things like that.
 
-For one thing, the Responsible Engineering approach is so much more fun. Both approaches have advantages and disadvantages, but the RE one works best when exploring a new concept with a small, focused team of unusually talented people, and wow, just writing that sentence locks me back into wondering how I could ever do anything else. Of course everybody wants to say that that’s how they think, of course every founder pitches their company like that. It’s narrative, even when it’s wrong.
+For one thing, the Responsible Engineering approach is so much more _fun_. Both approaches have advantages and disadvantages, but the RE one works best when exploring a new concept with a small, focused team of unusually talented people, and wow, just writing that sentence locks me back into wondering how I could ever do anything else. Of course everybody wants to say that that’s how they think, of course every founder pitches their company like that. It’s narrative, even when it’s wrong.
 
 And beyond that, it’s all about SpaceX.
 
 SpaceX is a company that’s so weird that in a worldbuilding project I would have considered it unrealistic.
 
-It’s the space industry’s Mary Sue, dominant, impossibly competent. Today, they launch multiple times a week while others launch a few times a year; they operate more satellites than the rest of humanity put together; they landed a rocket a decade ago and nobody has matched them since. Arguably, huge portions of the modern NASA policy of awarding single fixed-price contracts are a success only because of SpaceX - consider the commercial crew contract, on which SpaceX has been flawlessly delivering since 2020 but Boeing still can’t manage. In the industry, every discussion goes back to them, desperately trying to divine the secrets of their success, or figure out how to compete, or complain that they cannot be beaten.
+It’s the space industry’s Mary Sue, dominant, impossibly competent. Today, they launch multiple times a week while others launch a few times a year; they operate more satellites than the rest of humanity put together; they landed a rocket a decade ago and nobody has matched them since. Arguably, huge portions of the modern NASA policy of awarding single fixed-price contracts are a success _only_ because of SpaceX - consider the commercial crew contract, on which SpaceX has been flawlessly delivering since 2020 but Boeing still can’t manage. In the industry, every discussion goes back to them, desperately trying to divine the secrets of their success, or figure out how to compete, or complain that they cannot be beaten.
 
 Most of all, SpaceX is seen as having fixed the space industry. It did what AMROC and Orbital and Beal didn’t - shake up the incumbents, solve the problems, and bring about the glorious future of landing rockets.
 
@@ -241,7 +241,7 @@ We love that idea, we think it’s cool and exciting. We want it to be everywher
 
 *
 
-The dream of system responsibility as a solution to engineering problems is one that is legible, stable, solved.
+The dream of system responsibility as a solution to engineering problems is one that is legible, stable, _solved_.
 
 It’s easy to copy and scale, but a bit disappointing, and has a hard time being responsive.
 

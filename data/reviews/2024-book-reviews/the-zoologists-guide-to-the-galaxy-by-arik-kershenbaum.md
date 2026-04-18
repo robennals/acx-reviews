@@ -7,7 +7,7 @@ contestName: 2024 Book Reviews
 year: 2024
 publishedDate: '2026-02-06T16:49:50.817Z'
 slug: the-zoologists-guide-to-the-galaxy-by-arik-kershenbaum
-wordCount: 2149
+wordCount: 2153
 readingTimeMinutes: 10
 originalUrl: >-
   https://docs.google.com/document/d/1Ki5XsE0jkxZtd2XAeyTAJw1ZjLh2Cu-matUYKAhA6-s
@@ -21,11 +21,11 @@ Will aliens look like us? The study of extra-terrestrial life is not as speculat
 
 What is the point of books?
 
-Firstly, [no-one reads them](https://www.elysian.press/p/no-one-buys-books?utm_source=profile&utm_medium=reader2). With the exception of celebrity memoirs and once in a decade best sellers, most books do not repay their advance. Most sell less than 2k copies. For comparison, [Astral Codex Ten](https://www.astralcodexten.com/p/2023-subscription-drive-free-unlocked) has around 80k free subscribers and 6k paid subscribers. Publishers’ revenues mostly come from their backlist (repeat best-sellers). A substantial proportion comes from all-time classics, titles like the Bible, or the Very Hungry Caterpillar. These revenues are used to fund ‘vanity projects’ - the vast majority of new books which cost more money than they make. This is an open secret in the publishing world, so shouldn’t be surprising for aspiring authors.
+Firstly, [no-one reads them](https://www.elysian.press/p/no-one-buys-books?utm_source=profile&utm_medium=reader2). With the exception of celebrity memoirs and once in a decade best sellers, most books do not repay their advance. Most sell less than 2k copies. For comparison, [Astral Codex Ten](https://www.astralcodexten.com/p/2023-subscription-drive-free-unlocked) has around 80k free subscribers and 6k paid subscribers. Publishers’ revenues mostly come from their backlist (repeat best-sellers). A substantial proportion comes from all-time classics, titles like the Bible, or the Very Hungry Caterpillar. These revenues are used to fund ‘vanity projects’ - the vast majority of new books which cost more money than they make. This is an open secret in the publishing world, so shouldn’t be surprising for aspiring authors.
 
 It is particularly the case for Big Idea books. How many non fiction books have you read in the last year? Be honest. (I’ve read none!) For scientists, the scientific paper is the primary currency of communication. No scientist finds new ideas in books. Even popular science books, ostensibly for mass consumption have a fatal flaw - they didn’t have to be books. By this, I mean that the Big Ideas can be communicated more succinctly. Dare I say it, most popular science books could have been blogs.
 
-Think of past winners of this book contest. I still remember Erik Hoel’s [the gossip trap](https://www.theintrinsicperspective.com/p/the-gossip-trap) from 2022, though I can’t, off the top of my head, remember the book it was about. I certainly didn’t go out and buy it, did you? It was valuable for Hoel to outline the main ideas of the book in a readable blog post. (Cards on the table, I won’t be doing that here).
+Think of past winners of this book contest. I still remember Erik Hoel’s [the gossip trap](https://www.theintrinsicperspective.com/p/the-gossip-trap) from 2022, though I can’t, off the top of my head, remember the book it was about. I certainly didn’t go out and buy it, did you? It was valuable for Hoel to outline the main ideas of the book in a readable blog post. (Cards on the table, I won’t be doing that here).
 
 Instead, I’d like to introduce to you The Zoologist’s Guide to the Galaxy, by Arik Kershenbaum. It is one of the few Big Idea books that can not be compressed to a blog post, or podcast appearance, or review. Similar to Richard Dawkins, perhaps because of the richness of evolutionary biology, Kershenbaum’s ideas expand to the space of a book. It is a book I have read more than once.
 
@@ -49,13 +49,13 @@ That aliens exist is probably the biggest hurdle to overcome. If you’re with m
 
 Evolution through natural selection is the universal process by which complex life has developed on earth. It is the central, and perhaps only, biological law. Evolution explains how life, which began as single-celled organisms, can produce complex creatures like you and me.
 
-“At its simplest level, natural selection is easy to understand. Beneficial traits accumulate. Some new features will survive, other innovations will not, but good ideas developed by previous generations are not forgotten.”
+> “At its simplest level, natural selection is easy to understand. Beneficial traits accumulate. Some new features will survive, other innovations will not, but good ideas developed by previous generations are not forgotten.”
 
-It requires two properties, heritable variation (the offspring of individuals will show variation in the traits they inherit) and differential fitness (rates of survival and reproduction will vary between individuals). These two properties have resulted in the richness of life on earth. Each generation will show variation from the last. Traits that result in the reproduction of offspring, will be more likely to propagate than traits that do not. Over time (and by this I mean a lot of time, evolutionary time) this non-random propagation of traits gives rise to complex life.
+It requires two properties, heritable variation (the offspring of individuals will show variation in the traits they inherit) and differential fitness (rates of survival and reproduction will vary between individuals). These two properties have resulted in the richness of life on earth. Each generation will show variation from the last. Traits that result in the reproduction of offspring, will be more likely to propagate than traits that do not. Over time (and by this I mean a lot of time, _evolutionary time_) this non-random propagation of traits gives rise to complex life.
 
 The cumulation of traits that are useful for survival and reproduction eventually result in organisms like us. Evolution through natural selection is the process by which we are generated; it is [the blind watchmaker](https://www.penguin.co.uk/books/14234/the-blind-watchmaker-by-richard-dawkins/9780141026169), the designer of all lifeforms. It is not just the mechanism of life on earth, it is the only mechanism we know of that can produce complex life. As Kershenbaum puts it:
 
-“In the case of natural selection, however, it is remarkable that apart from a few deeply unsatisfying and non-scientific explanations for the existence of complex life, there are no serious alternative contenders.”
+> “In the case of natural selection, however, it is remarkable that apart from a few deeply unsatisfying and non-scientific explanations for the existence of complex life, there are no serious alternative contenders.”
 
 ### 3\. Laws are universal
 
@@ -63,11 +63,11 @@ The laws of nature are not provincial; by definition, they should be universal. 
 
 However, there’s more to universal laws. Any life in the universe will be subject to the same laws of evolution by natural selection. We know, and can imagine, no other process by which complex life could evolve:
 
-“Natural selection is not just the only mechanism we know for creating complexity out of simplicity (if we reject the explanation of a divine force pushing complexity to develop), it is also an inevitable mechanism, not just restricted to the planet Earth, or to ‘life as we know it’. If we see complexity in the universe – complexity of the kind that we would call ‘life’ – it is because natural selection has been operating.”
+> “Natural selection is not just the only mechanism we know for creating complexity out of simplicity (if we reject the explanation of a divine force pushing complexity to develop), it is also an inevitable mechanism, not just restricted to the planet Earth, or to ‘life as we know it’. If we see complexity in the universe – complexity of the kind that we would call ‘life’ – it is because natural selection has been operating.”
 
 The beauty of evolution is not limited to the biological systems we are familiar with here on earth. It only needs those two properties: heritable variation and differential fitness:
 
-“It’s a very likely (although perhaps not universally accepted) assumption that any system showing these properties – heritable variation and differential fitness – will experience natural selection. That is, natural selection is inevitable, even in non-biological systems like computer programs, internet memes, religious beliefs and so on, but especially in biological systems. There seems no doubt that organisms on other planets experience natural selection in this broad sense, because there is no other mechanism we know that can spontaneously produce and maintain the kind of complexity that we call life.”
+> “It’s a very likely (although perhaps not universally accepted) assumption that any system showing these properties – heritable variation and differential fitness – will experience natural selection. That is, natural selection is inevitable, even in non-biological systems like computer programs, internet memes, religious beliefs and so on, but especially in biological systems. There seems no doubt that organisms on other planets experience natural selection in this broad sense, because there is no other mechanism we know that can spontaneously produce and maintain the kind of complexity that we call life.”
 
 This is a huge claim to make. If you are on board with Kershenbaum, all life in the universe will be subject to the same process, the same rules, the same principles as those set out in 1859 by Charles Darwin. Life being subject to these universal principles means that there are parts of life that will be predictable, no matter where they arise.
 
@@ -81,7 +81,7 @@ Take a look at the creatures above, thylacines. They are now extinct but were kn
 
 Convergent evolution isn’t a curiosity - it isn’t just mistaking a marsupial for a canine. On earth it is the rule. We have birds and bats independently evolving wings from appendages, we have sharks and dolphins evolving streamlined swimming bodies. We have complex light sensors evolving in vertebrates and cephalopods, we have camouflage evolving in species subject to predation.
 
-Given variable heritability and differential fitness evolution will find similar solutions to the problems in sustaining and reproducing life. But, as we have found, as a universal law, convergent evolution will not be provincial. It will not be limited to terrestrial life, it will be seen across the universe.  
+Given **variable heritability** and **differential fitness** evolution will find similar solutions to the problems in sustaining and reproducing life. But, as we have found, as a universal law, convergent evolution will not be provincial. It will not be limited to terrestrial life, it will be seen across the universe.  
 
 ## Putting it together (the big idea)
 

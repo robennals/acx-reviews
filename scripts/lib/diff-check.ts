@@ -75,7 +75,7 @@ function normalizeForDiff(content: string): string {
   return stripImages(content)
     // Remove Turndown-style backslash escapes — neither side should carry
     // them, but older ingestion runs left them in the files on disk.
-    .replace(/\\([-*_[\]()\\])/g, '$1')
+    .replace(/\\([-.*_[\]()\\])/g, '$1')
     .replace(GOOGLE_URL_WRAPPER_RE, (_m, inner) => {
       try {
         return decodeURIComponent(inner);
@@ -97,6 +97,11 @@ function normalizeForDiff(content: string): string {
     .replace(/%22/gi, '"')
     .replace(/%3D/gi, '=')
     .replace(/%20/gi, ' ')
+    // Strip markdown formatting markers so that adding/removing semantic
+    // tags (<strong>, <em>, <blockquote>) detected from Google Docs CSS
+    // classes doesn't trigger an unsafe diff. The goal is semantic equality
+    // of the prose, not byte-for-byte equality of the markdown rendering.
+    .replace(/[*_>]/g, '')
     // Strip ALL whitespace for comparison. This is aggressive, but the goal
     // is to detect prose/content changes, not whitespace drift. Google Docs
     // shuffles how it distributes whitespace between spans across exports,

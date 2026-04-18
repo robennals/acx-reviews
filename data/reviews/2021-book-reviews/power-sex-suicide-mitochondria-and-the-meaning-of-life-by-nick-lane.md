@@ -7,7 +7,7 @@ contestName: 2021 Book Reviews
 year: 2021
 publishedDate: '2026-02-06T07:21:29.572Z'
 slug: power-sex-suicide-mitochondria-and-the-meaning-of-life-by-nick-lane
-wordCount: 1818
+wordCount: 1824
 readingTimeMinutes: 9
 originalUrl: >-
   https://docs.google.com/document/d/1xexFJ7h0vULMDE7N77q_MIzXoerexfe_CqqGEL6hEoQ
@@ -17,7 +17,7 @@ tags:
   - Science
 ---
 
-Many works try to take a weirdly shaped lens through which to rechart a small portion of our map of the world. [Power, Sex, Suicide](https://nick-lane.net/books/power-sex-suicide-mitochondria-meaning-life/) does that through the lens of, ahem, mitochondria. The weirdest thing about it is how splendidly it succeeds.
+Many works try to take a weirdly shaped lens through which to rechart a small portion of our map of the world. [Power, Sex, Suicide](https://nick-lane.net/books/power-sex-suicide-mitochondria-meaning-life/) does that through the lens of, ahem, mitochondria. The weirdest thing about it is how splendidly it succeeds.
 
 ## I - What is this book about?
 
@@ -47,13 +47,13 @@ It does this in such a holistic way that it brings tears to my eyes. Presenting 
 
 It spends 12 pages to reach a short "correct" statement like:
 
-The speed of respiration is very sensitive to changing circumstances—whether we’re awake or asleep, or doing aerobics, sitting around, writing books, or chasing a ball. These sudden shifts demand that mitochondria adapt their activity at a molecular level—a requirement that is too important, and abruptly swinging, to be controlled at a distance by the bureaucratic confederation of genes far away in the nucleus.
+> The speed of respiration is very sensitive to changing circumstances—whether we’re awake or asleep, or doing aerobics, sitting around, writing books, or chasing a ball. These sudden shifts demand that mitochondria adapt their activity at a molecular level—a requirement that is too important, and abruptly swinging, to be controlled at a distance by the bureaucratic confederation of genes far away in the nucleus.
 
 But the core of this book is not formed of correct statements, but rather in the impressively large and well-argued inquiry chains, the author uses to write them.
 
-I remember that Scott's review of [The Structure Of Scientific Revolutions](https://slatestarcodex.com/2019/01/08/book-review-the-structure-of-scientific-revolutions/) laments:
+I remember that Scott's review of [The Structure Of Scientific Revolutions](https://slatestarcodex.com/2019/01/08/book-review-the-structure-of-scientific-revolutions/) laments:
 
-one of my big complaints about this book is that, for a purported description of How Science Everywhere Is Always Practiced, it really just gives five examples
+> one of my big complaints about this book is that, for a purported description of How Science Everywhere Is Always Practiced, it really just gives five examples
 
 This book contains at least 4 examples that could easily amend Khun's work and map it to biology. I found the most engaging one to be the foray into how eukaryotes produce energy.
 
@@ -67,7 +67,7 @@ Ok, this book is probably not actually about the evolution of science. The autho
 
 This book is about the origination of eukaryote life. After 70 pages of prefaces and introductions, the author's ponderings around the origination of eukaryotes open the first real chapter:
 
-The void between bacterial and eukaryotic cells is greater
+> The void between bacterial and eukaryotic cells is greater
 
 than any other in biology. Even if we begrudgingly accept bacterial colonies as true multicellular organisms, they never got beyond a very basic level of organization. This is hardly for lack of time or opportunity—bacteria dominated the world for two billion years, have colonized all thinkable environments and more than a few unthinkable ones, and in terms of biomass still outweigh all multicellular life put together. Yet for some reason, bacteria never evolved into the kind of multicellular organism that a man on the street might recognize. In contrast, the eukaryotic cell appeared much later (according to the main- stream view) and in the space of just a few hundred million years—a fraction of the time available to bacteria—gave rise to the great fountain of life we see all around us.
 
@@ -77,9 +77,9 @@ We are presented with Nick Lane's favorite theory on the subject, the Hydrogen h
 
 The hydrogen hypothesis can be summed up as:
 
-While methanogens are uniquely resourceful in their metabolic powers, they nonetheless face a serious obstacle... . The trouble is that, while carbon dioxide is plentiful, hydrogen is hard to come by in any environment containing oxygen, as hydrogen and oxygen react together to form water. From the point of view of a methanogen, then, anything that provides a little hydrogen is a blessing.
-
-Hydrogenosomes are a double boon, because they release both hydrogen gas and carbon dioxide, the very substances that methanogens crave, in the process of generating their own energy. Even more importantly, they don’t need oxygen to do this—quite the contrary, they prefer to avoid oxygen—and so they function in the very low-oxygen conditions required by methanogens. No wonder the methanogens suckle up to hydrogenosomes like greedy piglets! The insight of Martin and Müller was to appreciate that this kind of intimate metabolic union might have been the basis of the original eukaryotic merger.
+> While methanogens are uniquely resourceful in their metabolic powers, they nonetheless face a serious obstacle... . The trouble is that, while carbon dioxide is plentiful, hydrogen is hard to come by in any environment containing oxygen, as hydrogen and oxygen react together to form water. From the point of view of a methanogen, then, anything that provides a little hydrogen is a blessing.
+>
+> Hydrogenosomes are a double boon, because they release both hydrogen gas and carbon dioxide, the very substances that methanogens crave, in the process of generating their own energy. Even more importantly, they don’t need oxygen to do this—quite the contrary, they prefer to avoid oxygen—and so they function in the very low-oxygen conditions required by methanogens. No wonder the methanogens suckle up to hydrogenosomes like greedy piglets! The insight of Martin and Müller was to appreciate that this kind of intimate metabolic union might have been the basis of the original eukaryotic merger.
 
 However, the books don't leave it at that and pick up the thread all the way to complex eukaryotic lifeforms. In the process, some interesting theories that don't seem related to mitochondria are approached. The one that stuck with me is how our immune systems may well have developed from the processes bacteria used to signal others in their colony when they wanted to get some DNA transferred to them. Since this usually happened when a bacteria was under some form of inter-cellular stress. This signal persisted in eukaryotes to form the basis of the much more complex interactions between cells and our immune system. How mitochondria are involved in all of this I leave to the reader to discover, however, as, with everything in these books, this thread of ideas does get tied back into them.
 
@@ -95,6 +95,6 @@ Even more so, this is done in a very respectful and, ahem, scientific? manner. I
 
 What he does have, however, is a strong fascination with creating edges in the graph of human knowledge between mitochondria, energy production, eukaryote evolution, and everything else. At least that is the feeling I get from reading the book. I find this kind of healthy obsession to be rare and fascinating, very enjoyable to observe, and to voyeuristically partake in for a few hours.
 
-In my library of pop-biology, this book stands in a place of honor, next to Sapolsky's course in human behavioral biology and The Selfish Gene. I can't help but recommend [it](https://nick-lane.net/books/power-sex-suicide-mitochondria-meaning-life/).
+In my library of pop-biology, this book stands in a place of honor, next to Sapolsky's course in human behavioral biology and The Selfish Gene. I can't help but recommend [it](https://nick-lane.net/books/power-sex-suicide-mitochondria-meaning-life/).
 
 * * *

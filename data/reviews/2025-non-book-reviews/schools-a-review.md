@@ -7,7 +7,7 @@ contestName: 2025 Non Book Reviews
 year: 2025
 publishedDate: '2026-02-06T16:55:03.486Z'
 slug: schools-a-review
-wordCount: 3214
+wordCount: 3249
 readingTimeMinutes: 15
 originalUrl: >-
   https://docs.google.com/document/d/1a3q0Z2tuPLLbDeg5-pfEffkajGjrfPDwE7ZMs7uaWQs
@@ -18,11 +18,11 @@ tags:
 
 By E.N.
 
-Trigger warning: mentions schools
+_Trigger warning: mentions schools_
 
-Epistemic status: product reviews sometimes exaggerate
+_Epistemic status: product reviews sometimes exaggerate_
 
-Readers of this blog are unlikely to hold schools in the highest esteem. [Scott](https://slatestarcodex.com/2014/05/23/ssc-gives-a-graduation-speech/) [Alexander](https://www.astralcodexten.com/p/book-review-the-cult-of-smart), [Bryan Caplan](https://www.amazon.com/Case-against-Education-System-Waste/dp/0691174652), [Eliezer Yudkowsky](https://www.lesswrong.com/posts/48WeP7oTec3kBEada/two-more-things-to-unlearn-from-school) and [Zvi Mowshowitz](https://thezvi.substack.com/p/childhood-and-education-9-school) have pointed at a range of different problems with schools. However, most people still accept schools as a given, and say things like "schools teach many necessary subjects",  "parents need some place to babysit their kids" or "kids need to learn social skills". I think this complacency is mistaken. The current K-12 US education system causes unnecessary suffering and waste due to flawed beliefs, and fails to teach many important skills. This should have been fixed long ago but the advance of AI provides new opportunities for change.
+Readers of this blog are unlikely to hold schools in the highest esteem. [Scott](https://slatestarcodex.com/2014/05/23/ssc-gives-a-graduation-speech/) [Alexander](https://www.astralcodexten.com/p/book-review-the-cult-of-smart), [Bryan Caplan](https://www.amazon.com/Case-against-Education-System-Waste/dp/0691174652), [Eliezer Yudkowsky](https://www.lesswrong.com/posts/48WeP7oTec3kBEada/two-more-things-to-unlearn-from-school) and [Zvi Mowshowitz](https://thezvi.substack.com/p/childhood-and-education-9-school) have pointed at a range of different problems with schools. However, most people still accept schools as a given, and say things like "schools teach many necessary subjects",  "parents need some place to babysit their kids" or "kids need to learn social skills". I think this complacency is mistaken. The current K-12 US education system causes unnecessary suffering and waste due to flawed beliefs, and fails to teach many important skills. This should have been fixed long ago but the advance of AI provides new opportunities for change.
 
 ![](https://acximages.ennals.org/images/2025-non-book-reviews/68429b03c6a2572a.png)
 
@@ -44,15 +44,15 @@ Schools group everyone together into grades entirely by age. Different kids lear
 
 All people are equal in deserving to flourish and not suffer. Value, meaning and happiness do not depend on academic achievement; that's just one of many areas a person can develop. People have different aptitudes and interests and progress at different rates academically. Yet schools put them all in one bucket. This is not how learning a skill works. When apprenticeships were common, people advanced based on their skill level. If you want to learn music or martial arts, you expect to be instructed based on your ability. Schools' inflexible approach targets the average student but causes problems both for those who need extra help and those who are more advanced.
 
-Many kids are required to move on to more advanced topics in a subject before they have a full grasp of the basics. For example, [30%](https://nces.ed.gov/pubs2020/2020025.pdf) of adults struggle with basic math. Why does the school system force kids to learn advanced math that they'll never use before ensuring that they understand genuinely useful concepts? Why make them suffer needlessly?
+Many kids are required to move on to more advanced topics in a subject before they have a full grasp of the basics. For example, [30%](https://nces.ed.gov/pubs2020/2020025.pdf) of adults struggle with basic math. Why does the school system force kids to learn advanced math that they'll never use before ensuring that they understand genuinely useful concepts? Why make them suffer needlessly?
 
 Some people dismiss the boredom brighter kids face in school. There is a real issue however, regardless of your ethical framework:
 
-*   Short-term boredom is often dismissed as trivial, but 8-12 years of it adds up to real suffering.
-*   Harming someone is wrong, regardless of whether it's common.
-*   If kids aren't achieving what they can, they're missing out on the meaning and fulfillment that is their right. Many philosophers stressed the importance of living virtuously by fulfilling one's purpose.
-*   If a kid isn't learning something or enjoying the class, their time is wasted, and so are school resources.
-*   Holding back kids from learning can prevent or delay them from applying their skills usefully, and thereby harms society.
+> *   Short-term boredom is often dismissed as trivial, but 8-12 years of it adds up to real suffering.
+> *   Harming someone is wrong, regardless of whether it's common.
+> *   If kids aren't achieving what they can, they're missing out on the meaning and fulfillment that is their right. Many philosophers stressed the importance of living virtuously by fulfilling one's purpose.
+> *   If a kid isn't learning something or enjoying the class, their time is wasted, and so are school resources.
+> *   Holding back kids from learning can prevent or delay them from applying their skills usefully, and thereby harms society.
 
 ## How Not to Learn
 
@@ -70,11 +70,11 @@ Schools focus on academic topics while practically ignoring other life skills, l
 
 Those are some of the issues with education today, but the status quo cannot continue. The recent rise of AI changes everything in a few connected ways:
 
-1.  Powerful tutoring and learning tools are becoming available to everyone.
-2.  With AI help readily available, homework cannot continue unchanged since cheating is so easy.
-3.  As AI masters human skills, many traditional subjects become even less practically relevant.
-4.  The most practical skill will be learning how to effectively use the AI tools.
-5.  Using AI tools, kids will be able to accomplish much across a range of subjects.
+> 1.  Powerful tutoring and learning tools are becoming available to everyone.
+> 2.  With AI help readily available, homework cannot continue unchanged since cheating is so easy.
+> 3.  As AI masters human skills, many traditional subjects become even less practically relevant.
+> 4.  The most practical skill will be learning how to effectively use the AI tools.
+> 5.  Using AI tools, kids will be able to accomplish much across a range of subjects.
 
 Schools should have improved long ago, but maybe AI can now help make it happen.
 
@@ -82,54 +82,54 @@ Schools should have improved long ago, but maybe AI can now help make it happen.
 
 If it's true that AI is taking over in [2027](https://ai-2027.com/), there wouldn't be any practical career skills left to learn. But I think we have some more time before AI can literally do everything, so some career skills will remain useful. And we have even more time before we merge with machines, so there's still a range of other practical skills to learn. These other skills will become even more important as ordinary career skills become less relevant.
 
-General Practical Knowledge
+**General Practical Knowledge**
 
 There's two basic skills that some kids learn in school that are genuinely important:
 
-*   Basic reading: Many kids can learn this at home, but schools should help those who need it with evidence-based techniques like phonics rather than popular methods that [don't work](https://www.apmreports.org/episode/2019/08/22/whats-wrong-how-schools-teach-reading). Once kids can read, give them opportunities to read books they personally find interesting. No need for years of group read-alouds where kids are forced to follow along with the reader.
-*   Basic math: Understanding basic math (such as fractions and exponents) is important for navigating the modern world, but many adults struggle with this. By eliminating regular grade levels and using AI-assisted tutoring, everyone can get the help they need to understand these topics. There's no need to force everyone to learn advanced topics like trigonometry or geometry. Instead, expose kids to mathematical ideas and let them explore what interests them. Those who enjoy it will pursue it further.
+> *   **Basic reading**: Many kids can learn this at home, but schools should help those who need it with evidence-based techniques like phonics rather than popular methods that [don't work](https://www.apmreports.org/episode/2019/08/22/whats-wrong-how-schools-teach-reading). Once kids can read, give them opportunities to read books they personally find interesting. No need for years of group read-alouds where kids are forced to follow along with the reader.
+> *   **Basic math**: Understanding basic math (such as fractions and exponents) is important for navigating the modern world, but many adults struggle with this. By eliminating regular grade levels and using AI-assisted tutoring, everyone can get the help they need to understand these topics. There's no need to force everyone to learn advanced topics like trigonometry or geometry. Instead, expose kids to mathematical ideas and let them explore what interests them. Those who enjoy it will pursue it further.
 
-Academic Knowledge
+**Academic Knowledge**
 
 Some say it's worthwhile to learn non-practical mathematical topics since math is beautiful, inspiring and meaningful. Similar arguments are given for teaching history, literature and science to everyone. I think kids should be exposed to a taste of these subjects and be given ample opportunity to learn more if they choose to. I personally feel understanding how the universe works is awe-inspiring, even if it's mostly impractical. However if a kid isn't interested, forcing it on them won't make it meaningful nor will they remember it afterwards. If schools think a topic is important, let them inspire kids to choose it!
 
-Underrated Practical Skills
+**Underrated Practical Skills**
 
 Besides the standard subjects schools teach, they should also provide opportunities for kids to learn practical technical skills such as the basics of:
 
-*   Statistics, such as understanding p-values or Bayes Theorem
-*   Coding, increasingly taught, but should be on par with regular subjects
-*   Dealing with data, e.g. in spreadsheets or databases
+> *   Statistics, such as understanding p-values or Bayes Theorem
+> *   Coding, increasingly taught, but should be on par with regular subjects
+> *   Dealing with data, e.g. in spreadsheets or databases
 
 They should also let kids learn practical life skills such as:
 
-*   Financial literacy, from basic money management to interest rates and investing
-*   Best health practices, such as nutrition and oral hygiene
-*   Legal literacy, such as basic concepts of laws vs norms and later covering topics like contracts
-*   Critical thinking - schools claim to teach this but rarely do. It's difficult to teach, but AI can help guide students in evaluating arguments, recognizing biases and handling heuristics.
-*   Using AI - as this becomes increasingly important, kids should learn AI basics such as how to write good prompts and fact-check the AI's output.
+> *   Financial literacy, from basic money management to interest rates and investing
+> *   Best health practices, such as nutrition and oral hygiene
+> *   Legal literacy, such as basic concepts of laws vs norms and later covering topics like contracts
+> *   Critical thinking - schools claim to teach this but rarely do. It's difficult to teach, but AI can help guide students in evaluating arguments, recognizing biases and handling heuristics.
+> *   Using AI - as this becomes increasingly important, kids should learn AI basics such as how to write good prompts and fact-check the AI's output.
 
-Interpersonal and Intrapersonal Skills
+**Interpersonal and Intrapersonal Skills**
 
 Schools shouldn't just teach academic subjects. They should help kids understand themselves and relate to others. "Social skills" are often given as a justification for schools, yet little is done to actually help kids learn it. Some things are learned naturally, but some skills benefit from practice and feedback. This could include broader communication skills such as:
 
-*   [Nonviolent communication](https://en.wikipedia.org/wiki/Nonviolent_Communication) and conflict resolution
-*   Negotiation
-*   Giving and receiving feedback
-*   Developing empathy
-*   Public speaking
-*   Digital communication
+> *   [Nonviolent communication](https://en.wikipedia.org/wiki/Nonviolent_Communication) and conflict resolution
+> *   Negotiation
+> *   Giving and receiving feedback
+> *   Developing empathy
+> *   Public speaking
+> *   Digital communication
 
 There are also many internal skills and principles that could be learned and practiced:
 
-*   Understanding and regulating one's own emotions
-*   Resilience and stress management
-*   Ways to cultivate gratitude, which is beneficial for one's own happiness
-*   Meditation, including exposure to practices that challenge conventional beliefs about the self
-*   Time management and avoiding distractions, especially in the digital age
-*   Decision making
-*   Principle for living well and flourishing (broadly defined and non-ideological)
-*   Practical tips to live according to one's values and goals, whatever they are
+> *   Understanding and regulating one's own emotions
+> *   Resilience and stress management
+> *   Ways to cultivate gratitude, which is beneficial for one's own happiness
+> *   Meditation, including exposure to practices that challenge conventional beliefs about the self
+> *   Time management and avoiding distractions, especially in the digital age
+> *   Decision making
+> *   Principle for living well and flourishing (broadly defined and non-ideological)
+> *   Practical tips to live according to one's values and goals, whatever they are
 
 While social and emotional learning (SEL) programs touch on some of these, they're less emphasized than academics. They also may mix in political ideology which can cause a backlash against the entire practice. Helping kids learn these skills helps them be happier now and in the future.
 
@@ -137,7 +137,7 @@ While social and emotional learning (SEL) programs touch on some of these, they'
 
 It's not practical to offer all these subjects with the current lecture- and class-based methods. But with AI tutors, kids can learn practically anything. They can dive more deeply into the topics they're interested in and achieve more than was possible before.
 
-While lectures are [not particularly helpful,](https://www.pnas.org/doi/10.1073/pnas.1319030111) schools do provide an overall structure for learning to occur. There's accountability, set time for learning, and peer discussion. Schools should be changed, but those elements should be kept in some form. Even motivated learners benefit from structure and accountability to help stay on track when distractions arise.
+While lectures are [not particularly helpful,](https://www.pnas.org/doi/10.1073/pnas.1319030111) schools do provide an overall structure for learning to occur. There's accountability, set time for learning, and peer discussion. Schools should be changed, but those elements should be kept in some form. Even motivated learners benefit from structure and accountability to help stay on track when distractions arise.
 
 Most learning (at least for older kids) can shift to interactive online tutorials with built-in AI tutoring. Testing has its place, but progress can generally be tracked through the students' completed tutorials and projects, as well as their in-depth discussions with their AI tutor. Many topics can be learned through conversation, where the AI tutor helps guide the students through questions and answers to help discover concepts on their own.
 
@@ -163,7 +163,7 @@ Deeper "gears level" grasp
 
 Apply in new circumstances, rediscover ideas, or even push the edge of knowledge forward
 
-Schools currently emphasize memorization, but they should emphasize understanding and applying it.
+_Schools currently emphasize memorization, but they should emphasize understanding and applying it._
 
 Homework is often just busywork and many kids struggle with it. Now that AI can solve anyone's homework, it's worth revisiting how much is really necessary. When work is assigned, it can involve students collaborating with an AI - they still need to think on their own but can achieve more and get instant feedback. AI can also track the specific student input to ensure engagement. This space is being actively developed, see Khan Academy's [writing coach](https://www.khanmigo.ai/writingcoach).
 
@@ -173,11 +173,11 @@ People forget most of the facts that they learn at school. Some say schools shou
 
 Grouping kids by age into fixed grades should be eliminated. Even grouping kids by ability levels isn't enough, as it doesn’t account for the wide range of abilities and interests or provide enough flexibility. It can also result with academically weaker kids being placed in classes that are counterproductive to learning. Montessori schools show that you can mix multiple ages together and have smaller groups that provide kids with more freedom. With AI tutors, schools can provide even greater flexibility as every kid can have a tutor targeted directly at their level and interests. Kids will still discuss the topics they learn with other kids in their group, as well as collaborate on projects together.
 
-School culture matters. As kids pursue their own interests in small groups, they will be exposed to their peers with similar interests who will provide encouragement as they learn. This will help build a culture of learning instead of the culture of apathy. The modular approach can also improve social dynamics. Kids will more easily connect with like-minded peers in their groups, while still interacting with a wider range of people throughout the day. Kids who would be outliers in some way (e.g. academically stronger or weaker) will be less likely to face bullying in a flexible environment built around smaller groups. Combined with an emphasis on interpersonal skills, this should help foster a positive social atmosphere. This may be why Montessori schools [report](https://fisherpub.sjf.edu/education_etd/162/) less bullying. A positive social culture can be more important than academic learning.
+School culture matters. As kids pursue their own interests in small groups, they will be exposed to their peers with similar interests who will provide encouragement as they learn. This will help build a culture of learning instead of the culture of apathy. The modular approach can also improve social dynamics. Kids will more easily connect with like-minded peers in their groups, while still interacting with a wider range of people throughout the day. Kids who would be outliers in some way (e.g. academically stronger or weaker) will be less likely to face bullying in a flexible environment built around smaller groups. Combined with an emphasis on interpersonal skills, this should help foster a positive social atmosphere. This may be why Montessori schools [report](https://fisherpub.sjf.edu/education_etd/162/) less bullying. A positive social culture can be more important than academic learning.
 
 ## Hello Choice
 
-As schooling moves away from lectures, teachers may become less essential. However they will still be helpful to hold students accountable to their goals, to help lead some discussion and to inspire students. The teacher can become more like a coach than a lecturer.  It's important that students not be locked-in with one teacher-coach, but have other options if it's not a good fit, especially for common subjects.
+As schooling moves away from lectures, teachers may become less essential. However they will still be helpful to hold students accountable to their goals, to help lead some discussion and to inspire students. The teacher can become more like a coach than a lecturer.  It's important that students not be locked-in with one teacher-coach, but have other options if it's not a good fit, especially for common subjects.
 
 People mention schools as a place to "babysit" their kids, but childcare and education can be separated. As school becomes more flexible, a kid might have free time in the day and can still use the school's resources. The school can provide a range of facilities for sports and activities, which can be managed with a very low adult:child ratio, as kids don't need constant supervision. Even homeschooled kids or those in private school should also be able to use these resources. Society can provide a place for kids to stay while their parents work without always placing the kid in a classroom.
 
@@ -187,8 +187,8 @@ I'm not suggesting we immediately tear down the existing school system. Instead,
 
 Don’t mistake academic success for human worth. Recognize that everyone has specific abilities and help each kid reach their own potential without stigma. Use the best technology to tailor the learning to every kid. Only require kids to learn the most essential topics, but encourage them to learn a broad range of skills beyond regular academics. Inspire curiosity. Give kids choice and agency and help them be happy. Let each kid flourish according to their own ability and interest.
 
-[Rabbi Zusha](https://en.wikipedia.org/wiki/Zusha_of_Hanipol) of Hanipol said:
+[Rabbi Zusha](https://en.wikipedia.org/wiki/Zusha_of_Hanipol) of Hanipol said:
 
-When I pass from this world and appear before the Heavenly Tribunal, they won't ask me, 'Zusha, why weren't you as wise as Moses or as kind as Abraham,' rather, they will ask me, 'Zusha, why weren't you Zusha?'
+> When I pass from this world and appear before the Heavenly Tribunal, they won't ask me, 'Zusha, why weren't you as wise as Moses or as kind as Abraham,' rather, they will ask me, 'Zusha, why weren't you Zusha?'
 
 We don't need every kid to be Moses, we just need every kid to be themselves.

@@ -7,7 +7,7 @@ contestName: 2023 Book Reviews
 year: 2023
 publishedDate: '2026-02-06T07:21:10.019Z'
 slug: a-peoples-tragedy-a-history-of-the-russian-revolution-1891-1924-review-2
-wordCount: 17101
+wordCount: 17107
 readingTimeMinutes: 77
 originalUrl: >-
   https://docs.google.com/document/d/10CiEI7aDL2bMIdx7yayy3vlq0TJ8dO5LGnG7yIDPiw8
@@ -34,16 +34,16 @@ The Wikipedia page on ‘social history’ quotes the historian Charles Tilly wh
 
 1) Documenting large structural changes
 
-2)  Reconstructing the experiences of ordinary people in the course of those changes
+2)  Reconstructing the experiences of ordinary people in the course of those changes
 
-3)  Connecting the two
+3)  Connecting the two
 
 This is exactly what the book succeeds at. The narrative from the top, the importance of Lenin or the Bolsheviks, recedes into the background. It is not that these agents are not influential, it is more that the author is focusing on what in society allowed for such agents to be influential in the way they have been, in a particular time.
 
- The book does follow, for the most part, a chronological narrative, accounting for the grand events of the revolution and its main actors, but following what is the main force of the book, I will not focus on the grand narrative too much and instead use the book to try and tackle some of these questions:  
+ The book does follow, for the most part, a chronological narrative, accounting for the grand events of the revolution and its main actors, but following what is the main force of the book, I will not focus on the grand narrative too much and instead use the book to try and tackle some of these questions:  
   
-What  were the important macro trends in Russia, in the decades prior to the revolution?  
-How did these trends compare to those occurring in the west?                                          What prevented a more progressive path toward political change?                                     Who were the people that supported and allowed for the revolution to occur?  
+What  were the important macro trends in Russia, in the decades prior to the revolution?  
+How did these trends compare to those occurring in the west?                                          What prevented a more progressive path toward political change?                                     Who were the people that supported and allowed for the revolution to occur?  
 What were their motivations and how did they experience the sequence of events?  
 How did those that opposed the revolution and later, the bolsheviks coup failed to mount an effective opposition?  
 What was the vision of the bolsheviks for the regime and what did it actually accomplish?
@@ -53,7 +53,7 @@ What was the vision of the bolsheviks for the regime and what did it actually ac
 Although there were few liberal regimes at the turn of the century, most countries of western Europe were transforming themselves into modern nation-states. Germany had recently been unified into a powerful empire after the defeat of France in 1871 and Italy followed the same process at the same period.
 
   
-The nation-state was one of the main transforming ideas of the 19th  century. Together with the industrial revolution that was spreading from England, it would profoundly transform the continent.
+The nation-state was one of the main transforming ideas of the 19th  century. Together with the industrial revolution that was spreading from England, it would profoundly transform the continent.
 
   
 While most states remained monarchical or even imperial, they were nonetheless experiencing deep structural changes in their organization that influenced their political , economic and societal characteristics.
@@ -62,7 +62,7 @@ The state was becoming more powerful. As its resources increased, its capacity t
 
 From a very light bureaucracy that relied on local relays of power, more centralized bureaucracies were established and a higher share of GDP passed through the hands of the state. This process was marked by the centrality of the army, most of the resources were directed for that purpose and it was often the main driver in the quest to increase the state’s revenue.
 
-Keeping the military force in mind, the statesmen of the period saw that there were more to it than sheer strength in number. What the modern era required was a literate population capable of following complex instructions and able to participate in large scale collaboration. This was required of soldiers in the army as it was of workers in the   factory.
+Keeping the military force in mind, the statesmen of the period saw that there were more to it than sheer strength in number. What the modern era required was a literate population capable of following complex instructions and able to participate in large scale collaboration. This was required of soldiers in the army as it was of workers in the   factory.
 
   
 The schooling system provided a solution to these issues, it became more widespread and was crucial in the forming of a national consciousness.
@@ -72,14 +72,14 @@ From a security state, it was turning into a benevolent one. All over western Eu
 
 The welfare policies enacted under the premiership of Disraeli in Great Britain or under Bismarck in Germany in the 1880s are good illustrations of that trend.
 
-The other element in the creation of the nation-state was the emergence of a civil society, exercising influence through political parties, unions, church organizations and various associations. Following a process well described by the economist Daron Acemoglu in [his book](https://www.amazon.fr/Narrow-Corridor-States-Societies-Liberty/dp/024131433X/ref=sr_1_1?__mk_fr_FR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=narrow+corridor&sr=8-1), the more organized the society became , the more able it was to check the increasingly powerful state.
+The other element in the creation of the nation-state was the emergence of a civil society, exercising influence through political parties, unions, church organizations and various associations. Following a process well described by the economist Daron Acemoglu in [his book](https://www.amazon.fr/Narrow-Corridor-States-Societies-Liberty/dp/024131433X/ref=sr_1_1?__mk_fr_FR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=narrow+corridor&sr=8-1), the more organized the society became , the more able it was to check the increasingly powerful state.
 
 Freedom of the press was a crucial element of this evolution. The newspapers were reaching a growing audience and were the platform for the diffusion of ideas and the expression of collective sentiments.
 
 Politically, the transformations were not less profound, most countries had a parliament that grew more influential with time. The parliaments were first very constrained in their prerogatives. However, with time, they came to impose their primacy as initiators of the law and liberal parties acted as engines for further progressive policies.  
-The franchise tended to evolve toward more inclusion with some countries attaining [universal man suffrage](https://en.wikipedia.org/wiki/Universal_manhood_suffrage) before the turn of the century.
+The franchise tended to evolve toward more inclusion with some countries attaining [universal man suffrage](https://en.wikipedia.org/wiki/Universal_manhood_suffrage) before the turn of the century.
 
- Although it would be tempting to separate, for instance, the more liberal regimes of France, the only republic with Switzerland on the continent and Great Britain with those of imperial Germany, Austria-Hungary and The Russian empire, what is truly remarkable is that these changes were occurring regardless of the form of government.
+ Although it would be tempting to separate, for instance, the more liberal regimes of France, the only republic with Switzerland on the continent and Great Britain with those of imperial Germany, Austria-Hungary and The Russian empire, what is truly remarkable is that these changes were occurring regardless of the form of government.
 
 ### Russia at the turn of the century
 
@@ -87,7 +87,7 @@ As the title of the book suggests, Figes takes a long view of the revolution, re
 
 So what does Russia look like at the turn of the century?
 
- A crucial event to mark the coming of Russia into the modern age is the end of serfdom. In 1861, the Tsar passed the act of Emancipation. Although it was only the beginning of a long process that would rid the majority of the population burdened with many constraints on their freedom, it had enormous consequences from the get go.
+ A crucial event to mark the coming of Russia into the modern age is the end of serfdom. In 1861, the Tsar passed the act of Emancipation. Although it was only the beginning of a long process that would rid the majority of the population burdened with many constraints on their freedom, it had enormous consequences from the get go.
 
 Prior to the act of emancipation, major disruptions of the economic system allowed the state to push for such a radical reform:
 
@@ -97,7 +97,7 @@ That trend was thus accelerated:
 
 Between 1861 and 1900 more than 40 per cent of the gentry's land was sold to the peasants, whose growing land hunger, due to a population boom, led to a seven-fold increase in land values. There was a similar rise in rental values and, by 1900, two-thirds of the gentry's arable land had been rented out to the peasants.
 
-Instead of fostering the creation of a new class of civil servants, able to lead the country with a rationalized style of government, the form of a modern administration got mixed in with the archaism of a feudal system  .  
+Instead of fostering the creation of a new class of civil servants, able to lead the country with a rationalized style of government, the form of a modern administration got mixed in with the archaism of a feudal system  .  
 Although the sons of commoners were able to join the ranks of the administration, noblemen still accounted for more than 71 percent of the four top civil civil ranks according to a 1897 census. Instead of fixed institutional relations and regular procedures, patronage remained the norm and prevented transparency or accountability.
 
 As it often happens when considering current developing countries with authoritarian rule in comparison with liberal democracies, our tendency is to overrate the strength of the former while downplaying the strength of the latter.  
@@ -108,17 +108,17 @@ This vital fact is all too often clouded by the revolutionaries' mythic image of
 
 The regular police, as opposed to the political branch, was extremely small by European standards. Russia's expenditure on the police per capita of the population was less than half of that in Italy or France and less than one quarter of that in Prussia. For a rural population of 100 million people, Russia in 1900 had no more than 1,852 police sergeants and 6,874 police constables. The average constable was responsible for policing 50,000 people in dozens of settlements stretched across nearly 2,000 square miles. Many of them did not even have a horse and cart.
 
- 
+ 
 
 Far from emphasizing this failure of modernization as an expression of the essence of an ‘eternal Russia’ that could only have turned out this way, the author highlights the missed opportunity of the reform era following the emancipation in the 1860s.
 
 Unfortunately, as it is often the case, the reforms went far enough to anger those who lost from it (the landlords) but not far enough to content those who stood to benefit the most from it (the peasants). In fact, discontent was very publicly expressed and the 1870s saw an explosion of politically motivated terrorist attacks, culminating in the assassination of the Tsar in 1881.
 
-Inheriting the throne from his father, Alexander III was set to put an end to any possibilities of further liberalization. However, under his authoritarian rule, the economy will grow at an [unprecedented rate](https://daviskedrosky.substack.com/p/twilight-imperium) and will continue to do so until the outbreak of the first world war.
+Inheriting the throne from his father, Alexander III was set to put an end to any possibilities of further liberalization. However, under his authoritarian rule, the economy will grow at an [unprecedented rate](https://daviskedrosky.substack.com/p/twilight-imperium) and will continue to do so until the outbreak of the first world war.
 
 From then on, we can see a growing asymmetry between the acceleration of Russia’s economic development and the fossilization of its political system.
 
- The Army
+ **The Army**
 
 Under the reign of Nicholas I ( 1825-1855 ), Russia operated as the “gendarme of Europe” and was the most important actor of the Holy alliance, an alliance created to safeguard conservative politics in the face of the political turmoil brought about by the Revolutionary and Napoleonic wars.
 
@@ -136,13 +136,13 @@ And:
 
 History proved them right. The vast majority of the private soldiers were peasants, and their morale was heavily influenced by the news they received from their villages. When the army was called out to put down the peasant uprisings of 1905—6 many of the units, especially in the peasant-dominated infantry, refused to obey and mutinied in support of the revolution. There were over 400 mutinies between the autumn of 1905 and the summer of 1906. The army was brought to the brink of collapse, and it took years to restore a semblance of order.28
 
-  As well as being subjected to deeply humiliating mistreatment by their officers:
+  As well as being subjected to deeply humiliating mistreatment by their officers:
 
 Colonels and generals were to be greeted not just with the simple hand salute but by halting and standing sideways to attention while the officer passed by for a strictly prescribed number of paces. The soldier was trained to answer his superiors in regulation phrases of deference: 'Not at all, Your Honour'; 'Happy to serve you, Your Excellency.' Any deviations were likely to be punished. Soldiers could expect to be punched in the face, hit in the mouth with the butt of a rifle and sometimes even flogged for relatively minor misdemeanours. Officers were allowed to use a wide range of abusive terms — such as 'scum' and 'scoundrel' — to humiliate their soldiers and keep them in their place. Even whilst off-duty the common soldier was deprived of the rights of a normal citizen.
 
 The army was in a poor state overall, with poor organization , poor equipment and very low morale. The leadership was stuck in outdated ways, with a contempt for all the training that would be required for modern warfare. The emphasis remained on cavalry charges, most officers considered digging trenches below their dignity and parading was often the most practiced exercise.
 
-The Church
+**The Church**
 
 Looking for the very common theme in European history, of power struggle between the church and the state in Russia, shows a clear cut case of almost complete victory of the state over the church.
 
@@ -164,17 +164,17 @@ When one compares this with the respect and deference shown by the peasants of C
 
 The last comment emphasizes the failure from the institutions to exercise a profound influence over the minds and behaviors of people. We can see once again a paradox of what seems like an overly constraining system actually serving as a cover for its impotence to alter the traditions and customs of the peasantry.
 
-Nations within the empire
+**Nations within the empire**
 
 The great wave of romantic nationalism sweeping across Europe was slowly reaching the diverse landscape of the Russian empire.
 
-Referring to the building up of [imagined communities](https://www.amazon.fr/Imagined-Communities-Reflections-Origin-Nationalism/dp/1784786756/ref=sr_1_1?__mk_fr_FR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=imagined+communities&sr=8-1), it is interesting to note that the effervescence and passion around the forging of a national culture through folklore and  the gathering of cultural artifacts, costumes, songs, dialects came mostly from educated urbanites thinking that they were ‘rediscovering’ their culture but were ultimately making it up.
+Referring to the building up of [imagined communities](https://www.amazon.fr/Imagined-Communities-Reflections-Origin-Nationalism/dp/1784786756/ref=sr_1_1?__mk_fr_FR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=imagined+communities&sr=8-1), it is interesting to note that the effervescence and passion around the forging of a national culture through folklore and  the gathering of cultural artifacts, costumes, songs, dialects came mostly from educated urbanites thinking that they were ‘rediscovering’ their culture but were ultimately making it up.
 
 Before these efforts were to produce the emergence of a national consciousness for the many nations within the empire, we can have an idea of the self representation of some its people through these examples:
 
 Theirs was a local culture dominated by tradition and the spoken word. It was confined to a small and narrow world: the village and its fields, the parish church, the landowner's manor and the local market. Beyond that was a foreign country. In Estonia, for example, the peasants simply called themselves maarahvas, meaning 'country people', while they understood the term saks (from Saxon — i.e. German) to mean simply a landlord or a master; it was only in the late nineteenth century, when the Tallinn intellectuals spread their influence into the villages, that these terms took on a new ethnic meaning. Much the same was true in Poland. 'I did not know that I was a Pole till I began to read books and papers,' recalled one peasant in the 1920s.
 
-And: 
+And: 
 
 One British diplomat — though no doubt a great imperialist and therefore somewhat contemptuous of the claims of small peasant nations like the Ukraine — concluded that this was still the case as late as 1918: Were one to ask the average peasant in the Ukraine his nationality he would answer that he is Greek Orthodox; if pressed to say whether he is a Great Russian, a Pole, or an Ukrainian, he would probably reply that he is a peasant; and if one insisted on knowing what language he spoke, he would say that he talked 'the local tongue'.
 
@@ -182,9 +182,9 @@ According to the census of 1897, Russians represented 47% of the population in t
 
 Russia was also home to a very large Jewish population that suffered terribly under a legal regime that set them apart from other groups but also from widespread hostility coming from every other group:
 
-The Empire's five million Jews, at the bottom of its ethnic hierarchy, were subject to a comprehensive range of legal disabilities and discriminations which by the end of the nineteenth century embraced some 1,400 different statutes and regulations as well as thousands of lesser rules, provisions and judicial interpretations. They — alone of all the ethnic groups — were forbidden to own land, to enter the Civil Service, or to serve as officers in the army; there were strict quotas on Jewish admissions into higher schools and universities; and, apart from a few exceptions, the Jews were forced by law to live within the fifteen provinces of the western Ukraine, Belorussia, Lithuania and Poland which made up the Pale of Settlement. This was a tsarist version of the Hindu caste system, with the Jews in the role of the Untouchables 
+The Empire's five million Jews, at the bottom of its ethnic hierarchy, were subject to a comprehensive range of legal disabilities and discriminations which by the end of the nineteenth century embraced some 1,400 different statutes and regulations as well as thousands of lesser rules, provisions and judicial interpretations. They — alone of all the ethnic groups — were forbidden to own land, to enter the Civil Service, or to serve as officers in the army; there were strict quotas on Jewish admissions into higher schools and universities; and, apart from a few exceptions, the Jews were forced by law to live within the fifteen provinces of the western Ukraine, Belorussia, Lithuania and Poland which made up the Pale of Settlement. This was a tsarist version of the Hindu caste system, with the Jews in the role of the Untouchables 
 
-The village
+**The village**
 
 The divide between the peasantry, still constituting the bulk of the society and the urban minority will be a crucial factor in the forthcoming misunderstanding and violence that will ravage the society.
 
@@ -202,7 +202,7 @@ Russia was still a peasant country at the turn of the twentieth century: 80 per 
 
 Russia's towns and cities all remained essentially 'peasant' in their social composition and character. Only a few miles from any city centre one would find oneself already in the backwoods, where there were bandits living in the forests, where roads turned into muddy bogs in spring, and where the external signs of life in the remote hamlets had remained essentially unchanged since the Middle Ages
 
-More interesting, was the common rejection of everything linked to the traditional values attached to the villages from those who managed to escape.  
+More interesting, was the common rejection of everything linked to the traditional values attached to the villages from those who managed to escape.  
 
 The will to escape can easily be understood considering the many reasons why one would want to get away from life in the village.
 
@@ -212,9 +212,9 @@ The Mir was often the most consequential organ regulating the life of peasants, 
 
 But in fact the decision-making was usually dominated by a small clique of the oldest household heads, who were often also the most successful farmers, and the rest of the villagers tended to follow their lead. The unanimity of the mir was not the reflection of some natural peasant harmony, but an imposed conformity set from above by the patriarchal elders of the village.
 
- There was deep resentment toward these elders, resentment that would later play a role in the policies of the Bolshevik regime:
+ There was deep resentment toward these elders, resentment that would later play a role in the policies of the Bolshevik regime:
 
-Some observers of peasant life (and this was to include the Bolsheviks) described these dominant patriarchs as 'commune-eaters' (miroyeiy) or 'kulaks'.\* These were the so-called 'rich' and 'cunning' peasants, 'petty-capitalist entrepreneurs', 'usurers', 'parasites' and 'strongmen', whom the rest of the villagers feared and whose greed and individualism would eventually lead to the commune's destruction. 
+Some observers of peasant life (and this was to include the Bolsheviks) described these dominant patriarchs as 'commune-eaters' (miroyeiy) or 'kulaks'.\* These were the so-called 'rich' and 'cunning' peasants, 'petty-capitalist entrepreneurs', 'usurers', 'parasites' and 'strongmen', whom the rest of the villagers feared and whose greed and individualism would eventually lead to the commune's destruction. 
 
 The source of anger did not only originate in the political power exercised by the elders over the mir, but from a very strict patriarchal order that regimented all parts of life and left very little space for individual liberty or privacy of any sort.
 
@@ -230,7 +230,7 @@ Also:
 
 Gorky wrote from his time at Krasnovidovo, 'three families fought with sticks, an old woman's arm got broken and a young boy had his skull cracked. Quarrels like this happened every week.'18 This was a culture in which life was cheap and, however one explains the origins of this violence, it was to play a major part in the revolution
 
-  Some of the customs in the villages seemed as alien to city-dwellers as they do to the modern reader:
+  Some of the customs in the villages seemed as alien to city-dwellers as they do to the modern reader:
 
 They had very little sense of privacy. All household members ate their meals from a common pot and slept together in one room. Lack of private spaces, not to speak of fertility rites, dictated that the sexual act was kept at least partly in the public domain. It was still a common practice in some parts of Russia for a peasant bride to be deflowered before the whole village; and if the groom proved impotent, his place could be taken by an older man, or by the finger of the matchmaker. Modesty had very little place in the peasant world. Toilets were in the open air. Peasant women were constantly baring their breasts, either to inspect and fondle them or to nurse their babies, while peasant men were quite unselfconscious about playing with their genitals. Urban doctors were shocked by the peasant customs of spitting into a persons eye to get rid of sties, of feeding children mouth to mouth, and of calming baby boys by sucking on their penis
 
@@ -252,7 +252,7 @@ The basic problem in the central agricultural zone was that the peasantry's egal
 
 This may seem odd in a country the size of Russia. But in central Russia, where most of the peasantry lived, the density of the population was similar to that of Western Europe. The average peasant allotment, at 2.6 desyatiny in 1900, was comparable in size to the typical smallholding in France or Germany.
 
-The city
+**The city**
 
 Whereas it took a long time in the west for the industrial revolution to bring about a betterment in the lives of workers, the era saw the enactment of laws that protected children from the worst abuses, allowed collective bargaining and strikes, reduced working hours and provided protection from the worst accidents of life.  
 Here again, Russia stands as an exception. These descriptions resemble more the situation prevailing in the west 50 years earlier:
@@ -271,7 +271,7 @@ Here Russia stood in stark contrast to Europe, where the most skilled and litera
 
 ### The first revolution
 
-Before the revolution , there were many occasions for the cracks in the system to appear openly. One such occasion was the [famine of 1891](https://en.wikipedia.org/wiki/Russian_famine_of_1891%E2%80%931892), it claimed lives in the hundreds of thousands and provoked lasting resentment, further eroding the legitimacy of the regime.
+Before the revolution , there were many occasions for the cracks in the system to appear openly. One such occasion was the [famine of 1891](https://en.wikipedia.org/wiki/Russian_famine_of_1891%E2%80%931892), it claimed lives in the hundreds of thousands and provoked lasting resentment, further eroding the legitimacy of the regime.
 
 The outrage was mostly due to the government response or the lack thereof:
 
@@ -279,35 +279,35 @@ But by far the greatest public outrage was caused by the government's postponeme
 
 Such cynicism did not seem unjustified. All along, the government had been refusing to admit the existence of a 'famine' (gohi), preferring instead to speak euphemistically of a 'poor harvest' (neurozhat). The reactionary daily Moscow News had even warned that it would be an act of disloyalty to use the more 'alarmist term', since it would give rise to a 'dangerous hubbub' from which only the revolutionaries could gain. Newspapers were forbidden to print reports on the 'famine', although many did in all but name.
 
-Not too long after that calamity, Russia got engaged in a [war](https://en.wikipedia.org/wiki/Russo-Japanese_War) with Japan over influence in Korea and Manchuria. Just like it would be in 1917, the war was a complete disaster for the Russian Empire.
+Not too long after that calamity, Russia got engaged in a [war](https://en.wikipedia.org/wiki/Russo-Japanese_War) with Japan over influence in Korea and Manchuria. Just like it would be in 1917, the war was a complete disaster for the Russian Empire.
 
 Suffering defeat after defeat on the battlefield, the home front situation ended up forcing the hand of the tsar to sue for peace.
 
-Strikes and spontaneous demonstrations, later strengthened by successful orators turned organizers, took the street demanding change. The form of these demands fitted the very common pattern among people expressing anger towards their rulers: that of the benevolent king surrounded by evil counselors. ‘Boyars’ refers to the nobility: 
+Strikes and spontaneous demonstrations, later strengthened by successful orators turned organizers, took the street demanding change. The form of these demands fitted the very common pattern among people expressing anger towards their rulers: that of the benevolent king surrounded by evil counselors. ‘Boyars’ refers to the nobility: 
 
 'The Tsar wants justice but the boyars resist' — that had fuelled and legitimized so many protest movements in Russian history. On 3—8 January 1905, when 120,000 workers went on strike in St Petersburg and began to speak about going to the Tsar in order to 'seek truth and justice', Gapon took up their cause. Encouraged by the Liberation Movement, he drew up a list of demands to be presented to the Tsar in a mass demonstration scheduled for the following Sunday. Supplicating and sentimental, the petition moved to tears whole crowds of workers. It began: SIRE We, the workers and inhabitants of St Petersburg, of various estates, our wives, our children, and our aged, helpless parents, come to THEE, O SIRE to seek justice and protection.
 
 It is that image of the benevolent tsar that was shattered for many, once the guards started to shoot unarmed protesters:
 
-Only moments after the shooting had ceased an old man turned to a boy of fourteen and said to him, with his voice full of anger: 'Remember, son, remember and swear to repay the Tsar. You saw how much blood he spilled, did you see? Then swear, son, swear!' 
+Only moments after the shooting had ceased an old man turned to a boy of fourteen and said to him, with his voice full of anger: 'Remember, son, remember and swear to repay the Tsar. You saw how much blood he spilled, did you see? Then swear, son, swear!' 
 
- This crucial choice of shooting unarmed demonstrators got remembered as [“Bloody Sunday”](https://en.wikipedia.org/wiki/Bloody_Sunday_(1905)) , that would itself lead to the largest labor protests in Russian history up to that point. More than 400 000 people went on strike.
+ This crucial choice of shooting unarmed demonstrators got remembered as [“Bloody Sunday”](https://en.wikipedia.org/wiki/Bloody_Sunday_(1905)) , that would itself lead to the largest labor protests in Russian history up to that point. More than 400 000 people went on strike.
 
 Some interesting points that stand out about what would be known as the 1905 revolution:
 
-l The socialist parties were completely taken by surprise by the events and did not play any significant role, most of their leaders including Lenin and Trotsky were abroad in exile.
-
-l The events enjoyed widespread popular support, especially from the peasants who felt empowered enough to impose their own revolution from the bottom. Many parts of the country seceded for a while, creating new forms of local sovereignty, refusing to obey the government, denying it taxes and army recruits. Violence was normalized and the Jews were specifically targeted:
+> l The socialist parties were completely taken by surprise by the events and did not play any significant role, most of their leaders including Lenin and Trotsky were abroad in exile.
+>
+> l The events enjoyed widespread popular support, especially from the peasants who felt empowered enough to impose their own revolution from the bottom. Many parts of the country seceded for a while, creating new forms of local sovereignty, refusing to obey the government, denying it taxes and army recruits. Violence was normalized and the Jews were specifically targeted:
 
 Every day the press reported dozens of these cases of 'mob law' (samosud), along with robberies and murders. Mobs of a different kind went round the streets beating up students and well-dressed passers-by. There were pogroms against Jews. In short, the whole country seemed locked into a downward spiral of violence and anarchy. As the US Consul in Batumi reported: [Russia] is permeated with sedition and reeking with revolution, racial hatred and warfare, murder, incendiarism, brigandage, robbery and crime of every kind ... As far as can be seen we are on the high road to complete anarchy and social chaos . . . One of the worst signs is that the public under this long reign of anarchy and crime is growing callous and the news of the murder of an acquaintance or friend is, by the bulk of the population, received with indifference whilst cases of brigandage are looked upon as being quite in the ordinary course of events
 
-l The “resolution” of the tension came from the Tsar’s wiser advisers and especially the military ones, that pushed for liberalizing reforms while the Tsar thought only in terms of more repression. He even asked his uncle to act as military dictator, who refused, threatening to shoot himself if the Tsar did not approve of the reforms.
-
-l Once the regime gave away on some of the demands for liberalization, state repression was pursued on an incredible scale:
+> l The “resolution” of the tension came from the Tsar’s wiser advisers and especially the military ones, that pushed for liberalizing reforms while the Tsar thought only in terms of more repression. He even asked his uncle to act as military dictator, who refused, threatening to shoot himself if the Tsar did not approve of the reforms.
+>
+> l Once the regime gave away on some of the demands for liberalization, state repression was pursued on an incredible scale:
 
 Between 1906 and 1909 over 5,000 'politicals' were sentenced to death, and a further 38,000 were either imprisoned or sent into penal servitude. In the Baltic lands punitive army units went through the towns and villages. During a six-month campaign of terror, starting in December, they executed 1,200 people, destroyed tens of thousands of buildings, and flogged thousands of workers and peasants. The Tsar was delighted with the operation and praised its commanding officer for 'acting splendidly'. In Russia itself the regime did not hesitate to launch a war of terror against its own people. In the areas of peasant revolt whole villages were destroyed by the army and thousands of peasants were imprisoned. When there was no more room in the county jails, orders were given to shoot the guilty peasants instead.
 
-Interrogating officers then rode on horses through the villagers, whipping them on the back whenever their answers displeased them, until they gave up their rebel leaders for summary execution. Liberally plied with vodka, the Cossacks committed terrible atrocities against the peasant population. Women and girls were raped in front of their menfolk. Hundreds of peasants were hanged from the trees without any pretence of a trial. In all it has been estimated that the tsarist regime executed 15,000 people, shot or wounded at least 20,000 and deported or exiled 45,000, between mid-October and the opening of the first State Duma in April 1906.69 It was hardly a promising start to the new parliamentary order. 
+Interrogating officers then rode on horses through the villagers, whipping them on the back whenever their answers displeased them, until they gave up their rebel leaders for summary execution. Liberally plied with vodka, the Cossacks committed terrible atrocities against the peasant population. Women and girls were raped in front of their menfolk. Hundreds of peasants were hanged from the trees without any pretence of a trial. In all it has been estimated that the tsarist regime executed 15,000 people, shot or wounded at least 20,000 and deported or exiled 45,000, between mid-October and the opening of the first State Duma in April 1906.69 It was hardly a promising start to the new parliamentary order. 
 
 To the question: why did the revolution fail ? The author sums up his thoughts:
 
@@ -317,7 +317,7 @@ What were the lessons of 1905? Although the tsarist regime had been shaken, it w
 
 The widespread fear among the the German decisions maker that Russia would soon become an unbeatable behemoth, and thus that it was better to fight it out sooner than later seemed justified:
 
- By 1914, Russia was spending more than Germany on her armed forces: over one-third of all government expenditures. It is not true, as historians later claimed, that the Russian army was unprepared for war. In manpower and materiel it was at least the equal of the German army, and, thanks to the recent improvement of Russia's western railways, took only three days more than its enemy to complete its mobilization.
+ By 1914, Russia was spending more than Germany on her armed forces: over one-third of all government expenditures. It is not true, as historians later claimed, that the Russian army was unprepared for war. In manpower and materiel it was at least the equal of the German army, and, thanks to the recent improvement of Russia's western railways, took only three days more than its enemy to complete its mobilization.
 
 Nonetheless, the war proved to be an absolute disaster for the country and set it on the course of tremendous changes of unforeseen consequences.
 
@@ -353,22 +353,22 @@ The officers responded all too often with more force. Reluctant soldiers were fl
 
 The combined effects of these elements eventually led the country to military disasters, a collapsing morale, a shattered economy unable to fulfill the basic needs of its population and a growing discontent waiting for an outlet.
 
- Mostly as a consequence of the disorganization in the railway system due to the requirements of war, the food supply in the cities became scarce and the rumors of penury more widespread.  
+ Mostly as a consequence of the disorganization in the railway system due to the requirements of war, the food supply in the cities became scarce and the rumors of penury more widespread.  
 Massive inflation ate away at the workers’ wages, in 1916 a requisition programme was put in place but failed to secure much needed grain from the countryside. black-marketeers took over.
 
 Early in the war, the situation looked very grim on the home front:
 
 Between 1914 and 1916 the calorie intake of unskilled workers fell by a quarter; infant mortality doubled; crime rates tripled; and the number of prostitutes increased by four or five times. From Petrograd, where he had been living since the start of the war, Gorky wrote to Ekaterina in November 1915: We will soon have a famine. I advise you to buy ten pounds of bread and hide it. In the suburbs of Petrograd you can see well-dressed women begging on the streets. It is very cold. People have nothing to burn in their stoves. Here and there, at night, they tear down the wooden fences. What has happened to the Twentieth Century! What has happened to Civilization! The number of child prostitutes is shocking. On your way somewhere at night you see them shuffling along the sidewalks, just like cockroaches, blue with cold and hungry. Last Tuesday I talked to one of them. I put some money into her hand and hurried away, in tears, in such a state of sadness that I felt like banging my head against a wall. Oh, to hell with it all, how hard it has become to live.
 
- The seeds of revolution were definitely sowed:
+ The seeds of revolution were definitely sowed:
 
 On the eve of 1917 the average working woman in Petrograd was probably spending around forty hours per week in various queues for provisions.78 The bread queues, in particular, became a sort of political forum or club, where rumours, information and views were exchanged. It was in these queues that the streets began to organize themselves for the coming revolution. The February Revolution was born in the bread queue. It began when a group of women textile workers on the Vyborg side of Petrograd became impatient with waiting in line and went off to rally their menfolk in the neighbouring metal factories for a protest march to the centre of the city
 
 ## Russia in revolution
 
-The February revolution
+**The February revolution**
 
- On the 19th of February, the government, facing ever more acute problems of logistics, announced the coming rationing of food.
+ On the 19th of February, the government, facing ever more acute problems of logistics, announced the coming rationing of food.
 
 That gave more strength to the rumors that were already spreading in Petrograd. Accordingly, panic buying ensued, the grocery stores and bakeries were emptied out, sometimes violently.
 
@@ -401,12 +401,12 @@ The uneasy balance between the two bodies, commonly defined as the ‘dual power
 
 By 28 February, then, two rival centres of power had emerged: in the right wing of the Tauride Palace there was the Temporary Committee of the Duma, which had the closest thing to formal power but no authority in the streets; while in the left wing there was the Soviet, which had the closest thing to power in the streets but no formal authority.
 
- Members  of the Duma, described as “reluctant revolutionaries” by Figes, were constantly expressing their fear of the masses and were therefore very prudent in their actions. The soviet representatives seemed to be, for their part, very concerned about legitimacy and legality and thus did not try to seize power but planned to use their power to pressure the provisional government.  
+ Members  of the Duma, described as “reluctant revolutionaries” by Figes, were constantly expressing their fear of the masses and were therefore very prudent in their actions. The soviet representatives seemed to be, for their part, very concerned about legitimacy and legality and thus did not try to seize power but planned to use their power to pressure the provisional government.  
 The soldiers, who exercised by far the biggest influence within the soviets, set out to dictate their demands to the government to ensure that their revendications would turn into political realities:
 
 The result was Order Number One, perhaps the most consequential document to be written as a result of the February Revolution. It was a list of the soldiers' demands and conditions for their return to the garrisons.
 
-It provided for the establishment of soldiers' committees as a democratic counterbalance to the authority of the officers. It declared that the soldiers would recognize only the authority of the Petrograd Soviet, and that the orders of the Duma's Military Commission would be executed only in so far as they did not conflict with the Soviet's. 
+It provided for the establishment of soldiers' committees as a democratic counterbalance to the authority of the officers. It declared that the soldiers would recognize only the authority of the Petrograd Soviet, and that the orders of the Duma's Military Commission would be executed only in so far as they did not conflict with the Soviet's. 
 
 As more new freedoms were granted, Russia was turning into the ‘[freest country in the world](http://www.orlandofiges.info/section5_TheFebruaryRevolution1917/TheProvisionalGovernment.php)’:
 
@@ -443,7 +443,7 @@ Most soldiers were also peasants, and their minds were fixated on carrying out t
 
 The peasant conscripts naturally assumed that, if only they could overthrow their noble officers, then peace, bread and land would be the result. As one soldier put it at a meeting of his regiment in March to discuss the abdication of the Tsar: Haven't you understood? What is going on is a ryvailoosbun! Don't you know what a ryvailoosbun is? It's when the people take all the power. And what's the people without us, the soldiers, with our guns? Bah! It's obvious — it means that the power belongs to us. And while we're about it, the country is ours too, and all the land is ours, and if we choose to fight or not is up to us as well. Now do you understand? That's a ryvailoosbun
 
-And: 
+And: 
 
 The soldiers wanted only one thing — peace, so that they could go home, rob the landowners, and live freely without paying any taxes or recognizing any authority. The soldiers veered towards Bolshevism because they believed that this was its programme. They did not have the slightest understanding of what either Communism, or the International,\* or the division into workers and peasants, actually meant, but they imagined themselves at home living without laws or landowners. This anarchistic freedom is what they called 'Bolshevism'.
 
@@ -488,7 +488,7 @@ Meanwhile, as these parties became more moderate and turned away from the soviet
 
 The Bolsheviks made dramatic gains in the city Duma elections of August and September. In Petrograd they increased their share of the popular vote from 20 per cent in May to 33 per cent on 20 August. In Moscow, where the Bolsheviks had polled a mere II per cent in June, they swept to victory on 24 September with 51 per cent of the vote, while the SR vote collapsed from 56 per cent to 14 per cent, and the Mensheviks from 12 per cent to 4 per cent. The Kadets, on the other hand, as the only party representing the interests of the bourgeoisie, increased their share of the vote from 17 per cent to 31 per cent.
 
- By this time, the socialist leaders were more or less on the same page, viewing the establishment of a coalition of only socialist parties as the most desirable outcome. The Bolsheviks shared that view, apart from Lenin who thought the opportunity was there for an armed insurrection to seize power unilaterally, sidelining both the soviets and the other parties.  
+ By this time, the socialist leaders were more or less on the same page, viewing the establishment of a coalition of only socialist parties as the most desirable outcome. The Bolsheviks shared that view, apart from Lenin who thought the opportunity was there for an armed insurrection to seize power unilaterally, sidelining both the soviets and the other parties.  
 Lenin, once again, prevailed against the other leaders and imposed what was an ultra minority view within his own party:
 
 The most important decision in the history of the Bolshevik Party — to launch the armed insurrection — was thus taken by a minority of the Central Committee: it passed by ten votes to two (Kamenev and Zinoviev)
@@ -533,7 +533,7 @@ To understand the scale of the revolution and how it managed to affect so many p
 As we have already seen , the peasants and the workers often had their own agenda and profited from the political struggles at the top to impose their own revolution from the bottom.  
 Considering the dire situation, due to the poor handling of the war, the economy, and the counterproductive policies implemented by the communists, what did the new regime offer to those that supported the revolution?  
   
-The phrase “looting of the looters”, that the Bolsheviks would [make their own](https://soviethistory.msu.edu/1917-2/economic-apparatus/economic-apparatus-texts/lenin-loot-the-looters/), is used by Figes to describe the process by which the regime managed to build itself on the worst sentiments of the masses:
+The phrase “looting of the looters”, that the Bolsheviks would [make their own](https://soviethistory.msu.edu/1917-2/economic-apparatus/economic-apparatus-texts/lenin-loot-the-looters/), is used by Figes to describe the process by which the regime managed to build itself on the worst sentiments of the masses:
 
 If Soviet power could do little to relieve the misery of the poor, it could at least make the lives of the rich still more miserable than their own — and this was a cause of considerable psychological satisfaction. After 1918, as the revolution's ideals became tarnished and the people became more and more impoverished, the Bolshevik regime was increasingly inclined to base its appeal almost exclusively on these vulgar pleasures of revenge. In an editorial to mark the start of 1919, Pravda proudly proclaimed: Where are the wealthy, the fashionable ladies, the expensive restaurants and private mansions, the beautiful entrances, the lying newspapers, all the corrupted 'golden life'?
 
@@ -541,18 +541,18 @@ And:
 
 In one People's Court the jurors made it a practice to inspect the hands of the defendant and, if they were clean and soft, to find him guilty. Speculative traders were heavily punished and sometimes even sentenced to death, whereas robbers — and sometimes even murderers — of the rich were often given only a very light sentence, or even acquitted altogether, if they pleaded poverty as the cause of their crime. The looting of the looters had been legalized and, in the process, law as such abolished: there was only lawlessness.
 
-The new regimeWhen the Bolsheviks were taking over the apparatus of the state, there was a widespread resistance to serve under their authority from the civil servants. Upon the arrival of the newly appointed ministers, the employees of the ministry would often just leave the building and many participated in strikes . As a consequence, many civil servants got replaced and a whole new class of administrators took over. The lack of basic knowledge on the running of government affairs was considerable and resulted in some instances in grotesque improvisation, notably when it came to the state’s finances:  
+**The new regime**When the Bolsheviks were taking over the apparatus of the state, there was a widespread resistance to serve under their authority from the civil servants. Upon the arrival of the newly appointed ministers, the employees of the ministry would often just leave the building and many participated in strikes . As a consequence, many civil servants got replaced and a whole new class of administrators took over. The lack of basic knowledge on the running of government affairs was considerable and resulted in some instances in grotesque improvisation, notably when it came to the state’s finances:  
 
-Ten days later the Bolsheviks finally seized control of the bank and forced the employees, at the point of a gun, to open the vaults. Five million roubles were removed, taken off to the Smolny in a velvet bag and deposited on Lenin's desk. The whole operation resembled a bank holdup. The Bolsheviks now took over the State Bank, making it possible for them to dip their hands freely into the nation's coffers; yet none of them had the slightest idea of how such a vast bank worked. 'There were people among us who were acquainted with the banking system from books and manuals,' recalled one of its new directors, 'but there was not a single man among us who knew the technical procedure of the Russian State Bank. 
+Ten days later the Bolsheviks finally seized control of the bank and forced the employees, at the point of a gun, to open the vaults. Five million roubles were removed, taken off to the Smolny in a velvet bag and deposited on Lenin's desk. The whole operation resembled a bank holdup. The Bolsheviks now took over the State Bank, making it possible for them to dip their hands freely into the nation's coffers; yet none of them had the slightest idea of how such a vast bank worked. 'There were people among us who were acquainted with the banking system from books and manuals,' recalled one of its new directors, 'but there was not a single man among us who knew the technical procedure of the Russian State Bank. 
 
 Regardless of the ignorance concerning the ins and outs of government among the new ruling class, they sincerely believed in their ideology and were definitely committed to implement it.  
   
 By doing so, they embarked on a journey that would profoundly reshape Russian society and those of the republics that would soon constitute the USSR. There was, of course, the economic policies that are at the core of communist ideology, but on top of that, there was a grand vision of the new man that could be shaped to fit in a communist state.  
-In that regard, the bolsheviks, did not especially got their inspiration from traditional marxist theory, they were the product of an era in which many dreamed about the rationalization of man :
+In that regard, the bolsheviks, did not especially got their inspiration from traditional marxist theory, they were the product of an era in which many dreamed about the rationalization of man :
 
 As Lilina Zinoviev, one of the pioneers of Soviet schooling, declared at a Congress of Public Education in 1918: We must make the young generation into a generation of Communists. Children, like soft wax, are very malleable and they should be moulded into good Communists .. . We must rescue children from the harmful influence of family life . .. We must nationalise them. From the earliest days of their little lives, they must find themselves under the beneficent influence of Communist schools. They will learn the ABC of Communism... To oblige the mother to give her child to the Soviet State — that is our task.
 
-This impulse to create everything anew and start from a “blank slate” allowed for extreme violence to be justified, the view that the worst aspects of the regime were the results of Stalin’s personality who corrupted the initial vision of the more benign bolsheviks leaders gets shattered when considering utterances like these: 
+This impulse to create everything anew and start from a “blank slate” allowed for extreme violence to be justified, the view that the worst aspects of the regime were the results of Stalin’s personality who corrupted the initial vision of the more benign bolsheviks leaders gets shattered when considering utterances like these: 
 
 They were now despatching armed brigades to requisition the grain from the peasantry by force; and their propaganda made it clear that this was to be seen as a 'battle for grain'. Trotsky himself told the meeting on 4 June: 'Our Party is for civil war! Civil war has to be waged for grain. We the Soviets are going into battle!' At this point a delegate had shouted: Long live civil war!' No doubt he had meant it as a joke. But Trotsky turned on him and replied with deadly seriousness: 'Yes, long live civil war! Civil war for the sake of the children, the elderly, the workers and the Red Army, civil war in the name of direct and ruthless struggle against counter-revolution.'  
 
@@ -586,13 +586,13 @@ As a result of poor management, skewed incentives that went against efficiency a
 
 Despite their exemption from the food levy and generous state grants of tools and livestock, very few collectives ran at a profit, and many of them ran at a heavy loss. Less than a third of their total income was derived from their own production, the rest coming mainly from the state. Some collectives were so badly run that they had to conscript the local peasants for labour duty on their fields. The peasants saw this as a new form of serfdom and took up arms against the collectives. Half of them were destroyed in the peasant wars of 1921.
 
- That same class of newly educated young peasants that resented their life in the countryside and all the restrictions that came with it, formed the battalions of revolutionaries and were also those that stood to benefit the most from the new regime. As Figes says : “Throughout the peasant world, communist regimes have been built on the fact that it is the ambition of every literate peasant son to become a clerk.”  
+ That same class of newly educated young peasants that resented their life in the countryside and all the restrictions that came with it, formed the battalions of revolutionaries and were also those that stood to benefit the most from the new regime. As Figes says : “Throughout the peasant world, communist regimes have been built on the fact that it is the ambition of every literate peasant son to become a clerk.”  
   
 Their dream of social ascension could be fulfilled by joining the apparatus of the state which was going through a tremendous inflation:
 
 From 1917 to 1921 the number of government employees more than quadrupled, from 576,000 to 2.4 million. By 1921, there were twice as many bureaucrats as workers in Russia. They were the social base of the regime. This was not a Dictatorship of the Proletariat but a Dictatorship of the Bureaucracy. Moscow, in Lenin's words, was 'bloated with officials': it housed nearly a quarter of a million of them, one-third of the total workforce in the city by the end of 1920. The centre of Moscow became one vast block of offices, as committees were piled on top of councils and departments on top of commissions.
 
- In perhaps was what to prove the most perfect combination of the anarchy coming from the bottom and the will to impose order from the top, the bloated nascent bureaucracy led to inefficiencies of farcical proportions:
+ In perhaps was what to prove the most perfect combination of the anarchy coming from the bottom and the will to impose order from the top, the bloated nascent bureaucracy led to inefficiencies of farcical proportions:
 
 Perhaps a third of the bureaucracy was employed in the regulation of the planned economy. It was an absurd situation: while the economy came to a standstill, its bureaucracy flourished. The country was desperately short of fuel but there was an army of bureaucrats to regulate its almost non-existent distribution. There was no paper in the shops but a mountain of it in the Soviet offices (90 per cent of the paper made in Russia during the first four years of Soviet rule was consumed by the bureaucracy). One of the few really busy factories was the Moscow Telephone Factory. Such was the demand of this new officialdom for telephones that it had a waiting list of 12,000 orders. This correlation — empty factories and full offices — was not accidental. The scarcer goods were, the harder it became to control their distribution, since the black market thrived on shortages, so that the state increased its intervention. The result was the proliferation of overlapping offices within the economy.
 
@@ -602,23 +602,23 @@ Nobody knows the full human cost of the revolution. By any calculation it was ca
 
 The death toll is almost unbelievable, but the human tragedy cannot be understood uniquely referring to the casualties. For many who survived throughout these events, the veneer of civilization was off :
 
- Death was so common that people became inured to it. The sight of a dead body in the street no longer attracted attention. Murders occurred for the slightest motive — stealing a few roubles, jumping a queue, or simply for the entertainment of the killers. Seven years of war had brutalized people and made them insensitive to the pain and suffering of others. In 1921 Gorky asked a group of soldiers from the Red Army if they were uneasy about killing people. 'No they were not. "He has a weapon, I have a weapon, so we are equal; what's the odds, if we kill one another there'll be more room in the land." '
+ Death was so common that people became inured to it. The sight of a dead body in the street no longer attracted attention. Murders occurred for the slightest motive — stealing a few roubles, jumping a queue, or simply for the entertainment of the killers. Seven years of war had brutalized people and made them insensitive to the pain and suffering of others. In 1921 Gorky asked a group of soldiers from the Red Army if they were uneasy about killing people. 'No they were not. "He has a weapon, I have a weapon, so we are equal; what's the odds, if we kill one another there'll be more room in the land." '
 
 And :
 
 'In our village everyone eats human flesh but they hide it. There are several cafeterias in the village — and all of them serve up young children.' The phenomenon really took off with the onset of winter, around November 1921, when the first snows covered the remaining food substitutes on the ground and there was nothing else to eat. Mothers, desperate to feed their children, cut off limbs from corpses and boiled the flesh in pots. People ate their own relatives — often their young children, who were usually the first to die and whose flesh was particularly sweet. In some villages the peasants refused to bury their dead but stored the corpses, like so much meat, in their barns and stables.
 
-The brutalization, and normalization of violence that defined many parts of Europe following the [‘end’](https://www.amazon.com/Vanquished-Why-First-World-Failed-ebook/dp/B01ERPCBUK/ref=sr_1_3?keywords=robert+gerwarth&sr=8-3) of World War I, was very acute in the Russian case. We already described many instances showing the low concern for human life throughout the events of historical intensity that occurred in Russia but the rationalization by some of the perpetrators of violence makes a grim depiction of the human condition:  
+The brutalization, and normalization of violence that defined many parts of Europe following the [‘end’](https://www.amazon.com/Vanquished-Why-First-World-Failed-ebook/dp/B01ERPCBUK/ref=sr_1_3?keywords=robert+gerwarth&sr=8-3) of World War I, was very acute in the Russian case. We already described many instances showing the low concern for human life throughout the events of historical intensity that occurred in Russia but the rationalization by some of the perpetrators of violence makes a grim depiction of the human condition:  
 
- In 1921 Gorky asked a group of soldiers from the Red Army if they were uneasy about killing people. 'No they were not. "He has a weapon, I have a weapon, so we are equal; what's the odds, if we kill one another there'll be more room in the land."
+ In 1921 Gorky asked a group of soldiers from the Red Army if they were uneasy about killing people. 'No they were not. "He has a weapon, I have a weapon, so we are equal; what's the odds, if we kill one another there'll be more room in the land."
 
-And: 
+And: 
 
 One soldier, who had also fought in Europe in the First World War, even told Gorky that it was easier to kill a Russian than a foreigner. 'Our people are many, our economy is poor; well, if a hamlet is burnt, what's the loss? It would have burnt down itself in due course.' Life had become so cheap that people thought little of killing one another, or indeed of others killing millions in their name. One peasant asked a scientific expedition working in the Urals during 1921: 'You are educated people, tell me then what's to happen to me. A Bashkir killed my cow, so of course I killed the Bashkir and then I took the cow away from his family. So tell me: shall I be punished for the cow?' When they asked him whether he did not rather expect to be punished for the murder of the man, the peasant replied: 'That's nothing, people are cheap nowadays.'
 
 The children were not spared from the worst of this brutalization:
 
- A survey of 1920 found that 88 per cent of the girls had engaged at some time in prostitution, while similar figures were found among the boys. Some of the girls were as young as seven. Most of the sexual acts took place in the streets, in market-places, in station-halls and parks. The girls had pimps — themselves usually no more than teenage boys — who often used them to rob their clients. But there were also paedophil-iac brothels run by so-called 'aunties', who gave the children food and a corner of a room, whilst putting them to work and living off their earnings.13 For millions of children this was the closest thing they ever had to maternal care.
+ A survey of 1920 found that 88 per cent of the girls had engaged at some time in prostitution, while similar figures were found among the boys. Some of the girls were as young as seven. Most of the sexual acts took place in the streets, in market-places, in station-halls and parks. The girls had pimps — themselves usually no more than teenage boys — who often used them to rob their clients. But there were also paedophil-iac brothels run by so-called 'aunties', who gave the children food and a corner of a room, whilst putting them to work and living off their earnings.13 For millions of children this was the closest thing they ever had to maternal care.
 
 Despite widespread calls to limit the children to six hours of labour, and to make employers provide two hours of schooling, the authorities chose not to intervene, claiming it was 'better to have the children working than living from crime on the streets', with the result that many minors ended up by working twelve or fourteen hours every day. Children also made excellent soldiers. The Red Army had many young teenagers in its ranks. Having spent the whole of their conscious lives surrounded by the violence of war and revolution, many of them had no doubt come to think that killing people was part of normal life. These little soldiers were noted for their readiness to do as they were told — their commanders often played the role of surrogate fathers — as well as for their ruthless ability to kill the enemy, especially when led to believe that they were avenging their parents' murder.
 

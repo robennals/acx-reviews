@@ -7,7 +7,7 @@ contestName: 2022 Book Reviews
 year: 2022
 publishedDate: '2026-02-06T07:22:32.825Z'
 slug: the-future-of-fusion-energy-by-jason-parisi-and-justin-ball
-wordCount: 4951
+wordCount: 4966
 readingTimeMinutes: 23
 originalUrl: >-
   https://docs.google.com/document/d/100kMdSVFviZSSBvUyyEQPMNlvLptVQxHFD9i9wGuBWs
@@ -19,17 +19,17 @@ tags:
 
 Fusion is the power which lights the stars. It is the source of all elements heavier than hydrogen in the universe. Wouldn't it be great if we could use and control this power here on Earth?
 
-I predict that we will get fusion[[70]](#ftnt70) before 2035 (80%) or 2040 (90%). I am a professional plasma physicist, a fusioneer if you will, so I probably know more about this subject than you, but am likely to overemphasize its importance.
+I predict that we will get fusion[[70]](#ftnt70) before 2035 (80%) or 2040 (90%). I am a professional plasma physicist, a fusioneer if you will, so I probably know more about this subject than you, but am likely to overemphasize its importance.
 
-The Future of Fusion Energy is the best introduction to fusion that I know. I can confirm that the information it contains is common knowledge among plasma physicists. My parents, who are not physicists,[[71]](#ftnt71) can confirm that it is accessible and interesting to read.
+_The Future of Fusion Energy_ is the best introduction to fusion that I know. I can confirm that the information it contains is common knowledge among plasma physicists. My parents, who are not physicists,[[71]](#ftnt71) can confirm that it is accessible and interesting to read.
 
-Things are changing fast in fusion right now, and The Future of Fusion Energy is already out of date in some important ways. I will summarize our quest for fusion as it is portrayed in the book, describe what has happened in the field since 2018, and make some predictions about where we go from here. The predictions are my own and do not reflect the opinions of Parisi or Ball.
+Things are changing fast in fusion right now, and _The Future of Fusion Energy_ is already out of date in some important ways. I will summarize our quest for fusion as it is portrayed in the book, describe what has happened in the field since 2018, and make some predictions about where we go from here. The predictions are my own and do not reflect the opinions of Parisi or Ball.
 
 ## Why Don't We Have Fusion Already?
 
 There is an old joke:
 
-        Fusion is 30 years away and always will be.
+Fusion is 30 years away and always will be.
 
 What happened? Why has fusion failed to deliver on its promise in the past?
 
@@ -39,7 +39,7 @@ How did that work out?
 
 ![](https://acximages.ennals.org/images/2022-book-reviews/43a4b079e6afb883.png)
 
-Figure 1: Oof.
+**Figure 1:** Oof.
 
 Along with the plans for fusion in 15-30 years, there was also a reference: ‘fusion never'. This plan would maintain America's plasma physics facilities, but not try to build anything new.
 
@@ -57,27 +57,27 @@ The easiest fusion reaction is burning deuterium and tritium to make helium. Deu
 
 ![](https://acximages.ennals.org/images/2022-book-reviews/27edef02c533db50.jpg)
 
-Figure 2: The D-T fusion reaction.
+**Figure 2:** The D-T fusion reaction.
 
 This reaction can be written as:
 
 ![](https://acximages.ennals.org/images/2022-book-reviews/89d7fce968619804.png)
 
-The subscript is the number of protons that each element has and the superscript is the number of protons + neutrons.[[73]](#ftnt73) Both of these numbers are conserved: if you add up the total superscript on the left, it must equal the total superscript on the right.
+The subscript is the number of protons that each element has and the superscript is the number of protons + neutrons.[[73]](#ftnt73) Both of these numbers are conserved: if you add up the total superscript on the left, it must equal the total superscript on the right.
 
 Several other fusion reactions are sometimes discussed as alternatives to deuterium-tritium fusion. All of them are at least several times more difficult, so they are unlikely to be the first fuel we use to get fusion. Maybe someday we'll switch to deuterium-deuterium fusion or something else, but for now, the emphasis is on what's easiest.
 
 What do you need to get a fusion reaction going?
 
-Think about the chemical reactions in combustion. You need to get the fuel to a high enough temperature, and then chemical reactions occur that release energy. Fusion is similar, but with much larger temperatures and energies. Combustion occurs at a temperature of about 1000 Kelvin[[74]](#ftnt74) and each reaction releases about 10 electron volts of energy. Fusion occurs at about 100 million Kelvin and each reaction releases about 10 million electron volts.
+Think about the chemical reactions in combustion. You need to get the fuel to a high enough temperature, and then chemical reactions occur that release energy. Fusion is similar, but with much larger temperatures and energies. Combustion occurs at a temperature of about 1000 Kelvin[[74]](#ftnt74) and each reaction releases about 10 electron volts of energy. Fusion occurs at about 100 million Kelvin and each reaction releases about 10 million electron volts.
 
 Along with a high enough temperature, you also need to have a high enough density and confinement time. Density is important because fusion requires a collision between a deuterium nucleus and a tritium nucleus. When the density is higher, stuff is more likely to run into each other. We also need to confine the fuel and the energy long enough for these collisions to occur. We don't want the particles to leave the reactor without fusing. If the energy leaks out too quickly, then the fuel will cool down too quickly to burn.
 
-Multiply these three quantities, density, temperature, and confinement time,[[75]](#ftnt75) to get the plasma triple product. Lawson's criterion states that, if the triple product is high enough, then you will get fusion.
+Multiply these three quantities, density, temperature, and confinement time,[[75]](#ftnt75) to get the plasma triple product. Lawson's criterion states that, if the triple product is high enough, then you will get fusion.
 
-We also measure the success of fusion using ![](https://acximages.ennals.org/images/2022-book-reviews/468184b993c402f9.png). ![](https://acximages.ennals.org/images/2022-book-reviews/468184b993c402f9.png) is the ratio of the amount of energy you put into the fuel to the amount of energy produced by fusion. News articles often focus on ![](https://acximages.ennals.org/images/2022-book-reviews/7a1303c5fce9fa79.png), or ‘scientific breakeven',[[76]](#ftnt76) when you get as much energy out of the fuel as you put in. Other significant milestones are ![](https://acximages.ennals.org/images/2022-book-reviews/caea4b0758311e2b.png), ‘burning', and ![](https://acximages.ennals.org/images/2022-book-reviews/7accb197520e29c2.png), ‘ignition', when the fusion sustains itself without any external heating.
+We also measure the success of fusion using ![](https://acximages.ennals.org/images/2022-book-reviews/468184b993c402f9.png). ![](https://acximages.ennals.org/images/2022-book-reviews/468184b993c402f9.png) is the ratio of the amount of energy you put into the fuel to the amount of energy produced by fusion. News articles often focus on ![](https://acximages.ennals.org/images/2022-book-reviews/7a1303c5fce9fa79.png), or ‘scientific breakeven',[[76]](#ftnt76) when you get as much energy out of the fuel as you put in. Other significant milestones are ![](https://acximages.ennals.org/images/2022-book-reviews/caea4b0758311e2b.png), ‘burning', and ![](https://acximages.ennals.org/images/2022-book-reviews/7accb197520e29c2.png), ‘ignition', when the fusion sustains itself without any external heating.
 
-![](https://acximages.ennals.org/images/2022-book-reviews/468184b993c402f9.png) is entirely determined by the triple product. To get ![](https://acximages.ennals.org/images/2022-book-reviews/7a1303c5fce9fa79.png) for D-T fusion, you need a triple product of ![](https://acximages.ennals.org/images/2022-book-reviews/cacd0d4afcdaa808.png) Getting a large ![](https://acximages.ennals.org/images/2022-book-reviews/468184b993c402f9.png) is the goal of fusion science. Getting a large triple product is how we achieve that goal. We can use the triple product to measure progress towards fusion.
+![](https://acximages.ennals.org/images/2022-book-reviews/468184b993c402f9.png) is entirely determined by the triple product. To get ![](https://acximages.ennals.org/images/2022-book-reviews/7a1303c5fce9fa79.png) for D-T fusion, you need a triple product of ![](https://acximages.ennals.org/images/2022-book-reviews/cacd0d4afcdaa808.png) Getting a large ![](https://acximages.ennals.org/images/2022-book-reviews/468184b993c402f9.png) is the goal of fusion science. Getting a large triple product is how we achieve that goal. We can use the triple product to measure progress towards fusion.
 
 ## Have We Made Progress?
 
@@ -85,7 +85,7 @@ How much progress have we made towards fusion?
 
 ![](https://acximages.ennals.org/images/2022-book-reviews/7b0a1b96f2dc53d5.png)
 
-Figure 3: This looks great !
+**Figure 3:** This looks great !
 
 The fusion triple product has grown exponentially. It has doubled every 1.8 years, which is even faster than Moore's Law. The best triple product we've gotten is five orders of magnitude better than what we started with in 1970.
 
@@ -97,17 +97,17 @@ I will answer these questions, but first, a few words on how we've made progress
 
 ## Plasma Basics
 
-Fusion occurs at such high temperatures that everything is ionized: The electrons and nuclei cannot stick together as atoms and instead move independently. Matter in this state is called a ‘plasma'.[[77]](#ftnt77) Plasma is by far the most common state of matter in the universe. Stars are made of plasma, as well as the low density matter in the space between stars.
+Fusion occurs at such high temperatures that everything is ionized: The electrons and nuclei cannot stick together as atoms and instead move independently. Matter in this state is called a ‘plasma'.[[77]](#ftnt77) Plasma is by far the most common state of matter in the universe. Stars are made of plasma, as well as the low density matter in the space between stars.
 
 When a fusion plasma comes in contact with anything solid (or liquid or even gas), either the solid will vaporize or the plasma will cool down. Both of these are very bad for achieving controlled fusion on Earth. We can't just put our fusion plasma in a container.
 
 How do we bottle the core of the sun?
 
-With a magnetic field. The electrons and ions in a fusion plasma are charged. Charged particles spiral around magnetic field lines and will not move freely perpendicular to the magnetic field. This confines the plasma in two dimensions. To confine the plasma in the third dimension, loop the magnetic field around in the shape of a doughnut.[[78]](#ftnt78) The particles can move around the doughnut, but stay confined within it.
+With a magnetic field. The electrons and ions in a fusion plasma are charged. Charged particles spiral around magnetic field lines and will not move freely perpendicular to the magnetic field. This confines the plasma in two dimensions. To confine the plasma in the third dimension, loop the magnetic field around in the shape of a doughnut.[[78]](#ftnt78) The particles can move around the doughnut, but stay confined within it.
 
 ![](https://acximages.ennals.org/images/2022-book-reviews/cbedf0e020da2d5c.jpg)
 
-Figure 4: A charged particle spiraling around a doughnut-shaped magnetic field.
+**Figure 4:** A charged particle spiraling around a doughnut-shaped magnetic field.
 
 This is still not quite enough. Charged particles will drift in a curved magnetic field, which causes them to leak out the outer side of the doughnut. We can solve this problem by making the magnetic field twist, like a French cruller. Particles near the outer edge, drifting outwards, will follow the magnetic field line around to the inner edge, where they will drift back towards the core.
 
@@ -121,7 +121,7 @@ This kind of fusion experiment is called a tokamak.[[79]](#ftnt79)
 
 ![](https://acximages.ennals.org/images/2022-book-reviews/408353ab9a73b1e0.png)
 
-Figure 5: The coils and magnetic fields of a tokamak.
+**Figure 5:** The coils and magnetic fields of a tokamak.
 
 ## Small, Medium, and Large Experiments
 
@@ -133,41 +133,41 @@ Small fusion experiments are sometimes called ‘tabletop' experiments. This doe
 
 ![](https://acximages.ennals.org/images/2022-book-reviews/17242537a1f794a3.jpg)
 
-Figure 6: The first tokamak, T-1, did fit on a tabletop.
+**Figure 6:** The first tokamak, T-1, did fit on a tabletop.
 
 Medium fusion experiments have a radius of about ![](https://acximages.ennals.org/images/2022-book-reviews/98b0047afefe500f.png). They require their own facility for all of their support systems, but they typically fit in a single building. One prominent medium experiment is JET.[[80]](#ftnt80)
 
 ![](https://acximages.ennals.org/images/2022-book-reviews/452a973c94109039.jpg)
 
-Figure 7: Someone inside JET. They have to wear a protective suit because tritium is nasty stuff.
+**Figure 7:** Someone inside JET. They have to wear a protective suit because tritium is nasty stuff.
 
-Large fusion experiment means ITER,[[81]](#ftnt81) an experiment currently under construction in southern France. ITER has a diameter of over 6 meters. The experiment itself has a five story building. Supporting buildings cover about 100 acres or 0.5 km2.
+Large fusion experiment means ITER,[[81]](#ftnt81) an experiment currently under construction in southern France. ITER has a diameter of over 6 meters. The experiment itself has a five story building. Supporting buildings cover about 100 acres or 0.5 km2.
 
 ![](https://acximages.ennals.org/images/2022-book-reviews/dda7e1630b671314.jpg)
 
-Figure 8: Construction at ITER as of May 2021.
+**Figure 8:** Construction at ITER as of May 2021.
 
 ## ITER
 
 We can now answer some of our earlier questions. The reason why progress has stalled is because we did as much as we could do on medium experiments.
 
-No country has been willing to provide enough money to build its own large experiment. So the fusion community has been gathering money from all around the world for decades for a single project.[[82]](#ftnt82) ITER is supported by Europe (EU + UK + Switzerland), the US (which withdrew in 1999 and rejoined in 2003[[83]](#ftnt83)), Russia, Japan, China, South Korea, and India.
+No country has been willing to provide enough money to build its own large experiment. So the fusion community has been gathering money from all around the world for decades for a single project.[[82]](#ftnt82) ITER is supported by Europe (EU + UK + Switzerland), the US (which withdrew in 1999 and rejoined in 2003[[83]](#ftnt83)), Russia, Japan, China, South Korea, and India.
 
 ![](https://acximages.ennals.org/images/2022-book-reviews/4be56f1301c1d20c.jpg)
 
-Figure 9: There are three people in this diagram. Can you find them?
+**Figure 9:** There are three people in this diagram. Can you find them?
 
 ITER is designed to get ![](https://acximages.ennals.org/images/2022-book-reviews/eedaf6844e7d113a.png).
 
 Despite getting 10 times as much energy from fusion as we put into the plasma, ITER is not designed to get engineering breakeven. ITER is designed as an experiment, not as a power plant. There will be tons of measuring devices pointed inwards. There are four different ways to heat the plasma and drive the current. This all allows you to learn more, but it requires extra power and lowers the overall plant efficiency.
 
-ITER will be followed by a demonstration power plant, named DEMO.[[84]](#ftnt84) A fully optimized power plant should be able to reach engineering breakeven as long as ![](https://acximages.ennals.org/images/2022-book-reviews/5799319937053071.png). This is why I chose ![](https://acximages.ennals.org/images/2022-book-reviews/caea4b0758311e2b.png) as my criterion for ‘getting fusion’.
+ITER will be followed by a demonstration power plant, named DEMO.[[84]](#ftnt84) A fully optimized power plant should be able to reach engineering breakeven as long as ![](https://acximages.ennals.org/images/2022-book-reviews/5799319937053071.png). This is why I chose ![](https://acximages.ennals.org/images/2022-book-reviews/caea4b0758311e2b.png) as my criterion for ‘getting fusion’.
 
 ITER is also testing multiple designs for the tritium breeding blanket. Tritium is expensive and radioactive, so you want to produce it on site. The D-T fusion reaction produces a neutron, which we want to absorb, so we can use it to produce tritium. ‘Breeding' is when we use a neutron to produce a more useful isotope. It is a ‘blanket' because it surrounds the entire plasma, keeping the neutrons from going anywhere else.
 
 The best reaction to produce tritium involves lithium-6:
 
-![](https://acximages.ennals.org/images/2022-book-reviews/1809b30fae9bb9a5.png) .
+![](https://acximages.ennals.org/images/2022-book-reviews/1809b30fae9bb9a5.png) .
 
 This reaction also releases energy, which increases the power produced by about 25%. The tritium breeding blanket needs to make this reaction occur as much as possible, to efficiently carry the heat away so it can be used to generate electricity, and to provide a way to extract the tritium produced.
 
@@ -175,9 +175,9 @@ ITER is scheduled to begin their first experiments in 2025. Part of why I think 
 
 There have been problems with ITER staying on schedule and under budget. This isn't surprising for a collaboration between governments representing over half the world's population. In 2014, ITER got a new director, recalculated its expected cost, and underwent a major restructuring. Since then, ITER has largely stuck to this schedule and budget. Recently, there has been a 6 month delay because the French nuclear agency did what nuclear regulatory agencies do best, but this has been the longest delay since 2014.
 
-It is still possible for ITER to fail. The biggest risk involves disruptions. Sometimes, the plasma in a tokamak becomes unstable and all of the plasma hits the wall at once. This could melt some extremely expensive equipment and take years to repair. If ITER cannot get disruptions under control, then it would be a failed experiment. This is especially challenging because pushing for higher ![](https://acximages.ennals.org/images/2022-book-reviews/468184b993c402f9.png) makes disruptions more likely. ITER is planning on being extremely cautious: Experiments begin in 2025, but it won't operate at full capacity until 2035.
+It is still possible for ITER to fail. The biggest risk involves disruptions. Sometimes, the plasma in a tokamak becomes unstable and all of the plasma hits the wall at once. This could melt some extremely expensive equipment and take years to repair. If ITER cannot get disruptions under control, then it would be a failed experiment. This is especially challenging because pushing for higher ![](https://acximages.ennals.org/images/2022-book-reviews/468184b993c402f9.png) makes disruptions more likely. ITER is planning on being extremely cautious: Experiments begin in 2025, but it won't operate at full capacity until 2035.
 
-ITER has been the focus of the fusion community now for decades. The Future of Fusion Energy similarly makes ITER the centerpiece of the book.
+ITER has been the focus of the fusion community now for decades. _The Future of Fusion Energy_ similarly makes ITER the centerpiece of the book.
 
 ## Things. Have. Changed.
 
@@ -185,17 +185,17 @@ ITER by itself is not enough to justify the high level of confidence I express a
 
 When Parisi & Ball finished writing this book in April 2018, ITER was basically the only game in town. Since then, Things. Have. Changed.
 
-Historically, private fusion companies were almost entirely jokes or frauds. They make outlandish claims, use completely different designs so they can't build on the progress of Figure 3, and they can be safely ignored. For example, Lockheed Martin[[85]](#ftnt85) claims that it will take them five years to build a prototype of a fusion power plant that will fit in a truck. They have yet to publish evidence that they have produced a fully ionized plasma. Maybe they're just being secretive, but their design has solid components in the plasma. That won't work.
+Historically, private fusion companies were almost entirely jokes or frauds. They make outlandish claims, use completely different designs so they can't build on the progress of Figure 3, and they can be safely ignored. For example, Lockheed Martin[[85]](#ftnt85) claims that it will take them five years to build a prototype of a fusion power plant that will fit in a truck. They have yet to publish evidence that they have produced a fully ionized plasma. Maybe they're just being secretive, but their design has solid components in the plasma. That won't work.
 
-A new generation of private companies have surged into fusion. Leading the charge is Commonwealth Fusion Systems and their tokamak SPARC.[[86]](#ftnt86) 
+A new generation of private companies have surged into fusion. Leading the charge is Commonwealth Fusion Systems and their tokamak SPARC.[[86]](#ftnt86) 
 
-Recent advances in high temperature superconductors have been a game changer. They can produce a much stronger magnetic field which allows for better confinement in a smaller experiment. We should now be able to get ![](https://acximages.ennals.org/images/2022-book-reviews/eedaf6844e7d113a.png) in a medium experiment, which costs ten times less than ITER[[87]](#ftnt87) and is within the reach of private venture capital.
+Recent advances in high temperature superconductors have been a game changer. They can produce a much stronger magnetic field which allows for better confinement in a smaller experiment. We should now be able to get ![](https://acximages.ennals.org/images/2022-book-reviews/eedaf6844e7d113a.png) in a medium experiment, which costs ten times less than ITER[[87]](#ftnt87) and is within the reach of private venture capital.
 
 ![](https://acximages.ennals.org/images/2022-book-reviews/054fa2c805f2b0a9.jpg)
 
-Figure 10: Finding the person here is much easier.
+**Figure 10:** Finding the person here is much easier.
 
-When the Department of Energy decided to close the third largest plasma experiment in the US, the MIT group which ran it found itself adrift. They founded Commonwealth Fusion Systems in 2018 with a goal of getting fusion within 10 years.[[88]](#ftnt88) Since then, they have built the first ever high temperature superconducting coil in 2019, released their engineering plans for SPARC in 2020, began construction in 2021, and plan on finishing construction in 2025.
+When the Department of Energy decided to close the third largest plasma experiment in the US, the MIT group which ran it found itself adrift. They founded Commonwealth Fusion Systems in 2018 with a goal of getting fusion within 10 years.[[88]](#ftnt88) Since then, they have built the first ever high temperature superconducting coil in 2019, released their engineering plans for SPARC in 2020, began construction in 2021, and plan on finishing construction in 2025.
 
 Commonwealth Fusion had just been founded when Parisi & Ball wrote in 2018. Now they're leading the race to fusion.
 
@@ -209,7 +209,7 @@ To understand how the alternative designs are different, we need to make sure we
 
 We want to get lots of fusion reactions …
 
-… so we want a large triple product (density ![](https://acximages.ennals.org/images/2022-book-reviews/4c364ad5f7f4fc8c.png) temperature ![](https://acximages.ennals.org/images/2022-book-reviews/4c364ad5f7f4fc8c.png) confinement time).
+… so we want a large triple product (density ![](https://acximages.ennals.org/images/2022-book-reviews/4c364ad5f7f4fc8c.png) temperature ![](https://acximages.ennals.org/images/2022-book-reviews/4c364ad5f7f4fc8c.png) confinement time).
 
 (B)
 
@@ -227,16 +227,16 @@ I will start with the alternatives that are most similar to a tokamak. For each 
 
 Tokamaks have been better researched than any other strategy. There are currently 10 medium tokamaks:
 
-*   T-10 (Russia, 1975)
-*   ASDEX (Germany, 1980)
-*   JET (England, 1983)
-*   JT-60 (Japan, 1985)
-*   DIII-D (USA, 1986)
-*   HL-2A (China, 2002)
-*   EAST (China, 2006)
-*   KSTAR (Korea, 2008)
-*   WEST (France, 2016)
-*   HL-2M (China, 2020)
+> *   T-10 (Russia, 1975)
+> *   ASDEX (Germany, 1980)
+> *   JET (England, 1983)
+> *   JT-60 (Japan, 1985)
+> *   DIII-D (USA, 1986)
+> *   HL-2A (China, 2002)
+> *   EAST (China, 2006)
+> *   KSTAR (Korea, 2008)
+> *   WEST (France, 2016)
+> *   HL-2M (China, 2020)
 
 ### Plasma Shaping & Spherical Tokamaks
 
@@ -250,16 +250,16 @@ The main benefit of a spherical tokamak is that you can get a larger plasma dens
 
 The best spherical tokamaks today are small, if you measure based on the radius, but medium if you measure based on the height. They are:
 
-*   NSTX (USA, 1999)
-*   MAST (England, 2000)
+> *   NSTX (USA, 1999)
+> *   MAST (England, 2000)
 
 ![](https://acximages.ennals.org/images/2022-book-reviews/02f79f3de2bb706f.jpg)
 
-Figure 11: A picture of the plasma inside MAST.
+**Figure 11:** A picture of the plasma inside MAST.
 
 We haven't explored other shapes very much. There might be one that works even better. There is currently a small experiment designed to look at as many shapes as possible:
 
-*   TCV (Switzerland, 2002)
+> *   TCV (Switzerland, 2002)
 
 ### Stellarators
 
@@ -267,7 +267,7 @@ Stellarators differ from tokamaks at point (C). To twist the magnetic field, the
 
 ![](https://acximages.ennals.org/images/2022-book-reviews/1fd2288b879025da.jpg)
 
-Figure 12: Inside the LHD.
+**Figure 12:** Inside the LHD.
 
 The main benefit of stellarators is that they don't have disruptions. Disruptions are caused by the current in the plasma. If the plasma is already moving coherently, when things become unstable, that motion can be redirected into the wall. The plasma in a stellarator doesn't have a current and isn't moving. When it becomes unstable, it leaks heat slightly faster than normal until it cools down again.
 
@@ -275,7 +275,7 @@ Stellarators also have the best name, look the coolest, and are my favorite.
 
 ![](https://acximages.ennals.org/images/2022-book-reviews/c4a7b452dc3ccc02.jpg)
 
-Figure 13: The layers of Wendelstein 7-X.
+**Figure 13:** The layers of Wendelstein 7-X.
 
 The main drawback is that stellarators are harder to design and build. There are lots of ways for coils to be weird and twisty and you want to find the best one. You then have to manufacture complex 3D shapes with high precision. This makes them more expensive than similarly sized tokamaks.
 
@@ -290,13 +290,13 @@ There are currently four medium stellarators:
 
 This is a completely different strategy to get fusion, going all the way back to point (A). So far, to increase the triple product, we have mostly been increasing the confinement time. Unlike Magnetic Confinement Fusion, Inertial Confinement Fusion accepts a short confinement time and instead tries to increase the density.
 
-Start with a small[[89]](#ftnt89) pellet which contains deuterium and tritium. Shine lots of lasers on it from all directions. For a moment, the pellet receives 1,000 times as much power as the entire US and implodes. The deuterium and tritium briefly become hot and dense enough to get fusion, before expanding again.
+Start with a small[[89]](#ftnt89) pellet which contains deuterium and tritium. Shine lots of lasers on it from all directions. For a moment, the pellet receives 1,000 times as much power as the entire US and implodes. The deuterium and tritium briefly become hot and dense enough to get fusion, before expanding again.
 
 ![](https://acximages.ennals.org/images/2022-book-reviews/6271153926ede347.png)
 
-Figure 14: The building layout for an inertial confinement experiment. The blue/red lines are the paths that the lasers follow before they enter the vacuum chamber (silver sphere on the right) where the pellet is located.
+**Figure 14:** The building layout for an inertial confinement experiment. The blue/red lines are the paths that the lasers follow before they enter the vacuum chamber (silver sphere on the right) where the pellet is located.
 
-Inertial confinement fusion experiments can also be used for [CLASSIFIED], so they get significant funding. Progress has been extremely rapid. They crossed ![](https://acximages.ennals.org/images/2022-book-reviews/7a1303c5fce9fa79.png) a few months ago.
+Inertial confinement fusion experiments can also be used for [CLASSIFIED], so they get significant funding. Progress has been extremely rapid. They crossed ![](https://acximages.ennals.org/images/2022-book-reviews/7a1303c5fce9fa79.png) a few months ago.
 
 There are still some major challenges. While magnetic confinement fusion can be done in a steady state, this has to be done in distinct ‘shots'. Currently, they can do about 1 shot/day. To make a power plant, you would need to do about 1 shot/second. I chose to include 1 shot/second as part of my criterion for ‘getting fusion' if the experiment is not in a steady state.
 
@@ -306,7 +306,7 @@ The best inertial confinement fusion experiment is at the boundary between mediu
 
 ## Players and Predictions
 
-Now that we have the strategies laid out, I will go through the groups that I think have a plausible path to fusion and make predictions for each one. I am only focusing on groups relevant for my headline prediction: ![](https://acximages.ennals.org/images/2022-book-reviews/5799319937053071.png) in steady state or with a shot frequency of 1/second before 2035 (80%) or 2040 (90%). I will also resolve this question to YES if anyone sells fusion power commercially, even if they don't meet my technical requirements.
+Now that we have the strategies laid out, I will go through the groups that I think have a plausible path to fusion and make predictions for each one. I am only focusing on groups relevant for my headline prediction: ![](https://acximages.ennals.org/images/2022-book-reviews/5799319937053071.png) in steady state or with a shot frequency of 1/second before 2035 (80%) or 2040 (90%). I will also resolve this question to YES if anyone sells fusion power commercially, even if they don't meet my technical requirements.
 
 ### Government Tokamaks
 
@@ -356,7 +356,7 @@ Type One Energy was founded in Wisconsin in 2020. They are planning on building 
 
 #### Tokamak Energy, Ltd.
 
-This is a slightly older company, founded in England in 2009. They originally managed a spherical tokamak experiment.[[91]](#ftnt91) More recently, they decided to try to get fusion by 2030 using a medium experiment and high temperature superconductors. Spherical tokamaks are less well tested at this size and don't benefit as much from having a stronger magnetic field.
+This is a slightly older company, founded in England in 2009. They originally managed a spherical tokamak experiment.[[91]](#ftnt91) More recently, they decided to try to get fusion by 2030 using a medium experiment and high temperature superconductors. Spherical tokamaks are less well tested at this size and don't benefit as much from having a stronger magnetic field.
 
 *   Tokamak Energy gets fusion by 2030 (10%) or 2035 (30%).
 
@@ -364,7 +364,7 @@ This is a slightly older company, founded in England in 2009. They originally ma
 
 Marvel Fusion was founded in Germany in 2019. They're working on inertial confinement fusion, which I have much less expertise in. Inertial confinement fusion has made rapid progress recently and they have recruited some good people, so they should have a chance. Some problems include not releasing a timeline and not planning on using D-T fuel.
 
-*   Marvel gets fusion by 2035 (30%).
+> *   Marvel gets fusion by 2035 (30%).
 
 #### Honorable Mention: Helion
 
@@ -372,13 +372,13 @@ Helion is the most serious of the previous generation of fusion startups that I 
 
 Instead, they're working on their own experimental program. They're on their 6th prototype, Trenta. It is a small experiment which can do 1 shot every 10 minutes. Their next experiment, Polaris, should be a medium experiment which can do 1 shot/second. They claim that it will get fusion by 2024.
 
-One good thing about Helion is that they have a more efficient way of directly converting the energy in the plasma into electricity. One bad thing is that they claim to be using helium-3 as a fuel. This is harder than D-T fusion[[92]](#ftnt92) and it doesn't fully represent what they're planning. Their entire fuel cycle involves 50% D-D fusion, 25% D-T fusion, and 25% D-He3 fusion.
+One good thing about Helion is that they have a more efficient way of directly converting the energy in the plasma into electricity. One bad thing is that they claim to be using helium-3 as a fuel. This is harder than D-T fusion[[92]](#ftnt92) and it doesn't fully represent what they're planning. Their entire fuel cycle involves 50% D-D fusion, 25% D-T fusion, and 25% D-He3 fusion.
 
 Helion is also notable because they've gotten more private funding than any company other than Commonwealth Fusion Systems.
 
 I'm more skeptical. At least it seems unlikely that they will get fusion on their first medium experiment, especially since that requires improvements of multiple orders of magnitude in both triple product and shot frequency. They should expect to design an 8th experiment based on what they learn from Polaris.
 
-*   Helion gets fusion by 2025 (5%) or 2030 (20%).
+> *   Helion gets fusion by 2025 (5%) or 2030 (20%).
 
 ### Summary
 
@@ -544,7 +544,7 @@ It is still possible for us not to get fusion by 2040. Maybe we never figure out
 
 ## Conclusion
 
-If you want to learn more about fusion, I highly recommend The Future of Fusion Energy.
+If you want to learn more about fusion, I highly recommend _The Future of Fusion Energy_.
 
 It discusses the fundamentals of fusion, plasma confinement, ITER, and the design of a fusion power plant in much more detail than I could here. Several topics that are tangentially related, such as other energy sources and nuclear proliferation, have overviews that I hope become common knowledge. There are also more specialized topics, like the history of fusion, what questions to ask a fusion startup to tell if it's legitimate, and why fusion is the only power we could use for interstellar travel that is currently theoretically possible. The final 3 pages are joke recipes for doughnuts, based on different strategies for getting fusion.
 

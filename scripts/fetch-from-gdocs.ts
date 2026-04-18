@@ -419,34 +419,60 @@ async function processDoc(
     }
 
     for (const review of reviews) {
-      let slug = slugify(review.title);
-      if (!slug) {
-        slug = generateFallbackSlug(review.title, review.content);
-        console.log(`  ⚠️  Empty slug for title "${review.title}", using fallback: ${slug}`);
+      const baseSlug = slugify(review.title)
+        || generateFallbackSlug(review.title, review.content);
+      if (baseSlug !== slugify(review.title)) {
+        console.log(`  ⚠️  Empty slug for title "${review.title}", using fallback: ${baseSlug}`);
       }
-      // In-run dedup only: if we've already processed this slug this run,
-      // append a counter. If the slug matches an existing file that we
-      // haven't touched yet this run, we WANT to overwrite it (after diff
-      // check) — that's the whole point of re-ingestion.
-      if (processedThisRun.has(slug)) {
-        let counter = 2;
-        while (processedThisRun.has(`${slug}-${counter}`)) counter++;
-        slug = `${slug}-${counter}`;
-        console.log(`  ⚠️  In-run duplicate slug detected, using: ${slug}`);
-      }
-      processedThisRun.add(slug);
 
-      const writeStats = await createMarkdownFile(
-        contestId,
-        slug,
-        { ...review, reviewAuthor: 'Anonymous', originalUrl: docUrl },
-        applyMode
-      );
-      if (writeStats.skipped) stats.skipped++;
-      else if (writeStats.wrote) stats.reviewsCreated++;
-      stats.totalImages += writeStats.totalImages;
-      stats.uploadedImages += writeStats.uploadedImages;
-      stats.reusedImages += writeStats.reusedImages;
+      // Try baseSlug, then baseSlug-2, baseSlug-3, … until we find a slot
+      // that either doesn't exist yet or whose existing content passes the
+      // diff check. This handles docs that contain multiple reviews with
+      // the same title (different reviewers submitting on the same book):
+      // each distinct review ends up in its own file, and same-content
+      // near-duplicates collapse to a single file.
+      //
+      // A slot is reserved ONLY after a successful write, not on every
+      // attempt — otherwise a first-occurrence diff-skip would steal the
+      // base slot from a second occurrence whose content DOES match.
+      let chosenSlug = '';
+      let finalStats: WriteStats | null = null;
+      const MAX_ATTEMPTS = 20;
+      for (let counter = 1; counter <= MAX_ATTEMPTS; counter++) {
+        const candidate = counter === 1 ? baseSlug : `${baseSlug}-${counter}`;
+        if (processedThisRun.has(candidate)) continue;
+
+        const writeStats = await createMarkdownFile(
+          contestId,
+          candidate,
+          { ...review, reviewAuthor: 'Anonymous', originalUrl: docUrl },
+          applyMode
+        );
+
+        if (writeStats.skipped) {
+          // Existing file here has different content — try the next suffix.
+          continue;
+        }
+
+        // Wrote in apply mode, or "would write" in dry-run — reserve slot.
+        processedThisRun.add(candidate);
+        chosenSlug = candidate;
+        finalStats = writeStats;
+        break;
+      }
+
+      if (finalStats) {
+        if (chosenSlug !== baseSlug) {
+          console.log(`  ℹ️  "${review.title}" written to ${chosenSlug} (base slug was taken by a different review)`);
+        }
+        if (finalStats.wrote) stats.reviewsCreated++;
+        stats.totalImages += finalStats.totalImages;
+        stats.uploadedImages += finalStats.uploadedImages;
+        stats.reusedImages += finalStats.reusedImages;
+      } else {
+        stats.skipped++;
+        console.log(`  ⚠️  Gave up on "${review.title}" after ${MAX_ATTEMPTS} suffix attempts; no matching slot found`);
+      }
     }
   } catch (error) {
     console.error(`  ❌ Failed to process doc "${source.name}" (${source.docId}):`, error);

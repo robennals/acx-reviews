@@ -57,7 +57,7 @@ In essence, this combination of live interaction, narrative spontaneity, and fan
 
 Today, the /vt/ community continues to refine its understanding of the industry. Their ongoing discussions, grounded in a shared commitment to objective analysis rather than mere fandom allegiance, reflect an enduring effort to discover the "holy grail" — the optimal path toward a sustainable and prosperous future for vtubing as a whole.
 
-## Chapter 3: Autobase, Roll Out! 
+## Chapter 3: Autobase, Roll Out! 
 
 Shifting our focus away from the vtubing ecosystem, we now turn to a seemingly unrelated yet equally fascinating phenomenon: the rise of the "txt" subculture on X (formerly known as Twitter).
 

@@ -7,8 +7,8 @@ contestName: 2025 Non Book Reviews
 year: 2025
 publishedDate: '2026-02-06T16:55:59.398Z'
 slug: the-men-are-not-alright
-wordCount: 15266
-readingTimeMinutes: 68
+wordCount: 15301
+readingTimeMinutes: 69
 originalUrl: >-
   https://docs.google.com/document/d/1jYVJFIz5-aMi0LCgsC9AN6BncJDNVGaMU37QmwZ1vzA
 source: gdoc
@@ -27,9 +27,9 @@ This quirk of mine becomes especially obvious when dating. Many of my dates turn
 
 This repeated pattern in my dating life has taught me three things:
 
-1.  I am terrible at small talk.
-2.  Most men are not accustomed to genuine questions about their well-being, and will often respond with a desperate upwelling of emotion.
-3.  The men are not alright.
+> 1.  I am _terrible_ at small talk.
+> 2.  Most men are not accustomed to genuine questions about their well-being, and will often respond with a desperate upwelling of emotion.
+> 3.  The men are not alright.
 
 This is a review of dating men in the Bay Area. But more than that, it’s an attempt to explain those unofficial therapy sessions to people who never get to hear them. It’s a review of the various forms of neglect and abuse society inflicts upon men, and the inevitable consequences to their happiness and romantic partnerships.
 
@@ -61,7 +61,7 @@ This map was well known and widely accepted; there was never any question as to 
 
 In return for fulfilling these many requirements, a man would be given respect, romantic and sexual companionship, devotion from friends and family, the right to take part in a spiritual tradition, the honor of his legacy being passed down through children, and the physical and emotional safety of a community.
 
-There’s much that can be critiqued about this old model; indeed, thousands of works of critique have been produced in recent centuries, and many damning flaws have been exposed. But this old model provided men with a purpose and a path, ensuring they couldn’t get lost, as long as they met the clear, unified  expectations.
+There’s much that can be critiqued about this old model; indeed, thousands of works of critique have been produced in recent centuries, and many damning flaws have been exposed. But this old model provided men with a purpose and a path, ensuring they couldn’t get lost, as long as they met the clear, unified  expectations.
 
 Enter modern Western society, a cultural force unlike any the world has ever seen. Modern technology and novel social structures have altered the fabric of our society, ripping apart the old model of manhood in the process.
 
@@ -77,7 +77,7 @@ Instead, the men in the Bay’s dating scene mostly represent the modern majorit
 
 The elite social strata, which I refer to as “polite society,” has taken the lead in providing this modernized “map to manhood,” using their strong influence on the media and academics as their primary tools. Gone are the days of carefully defined rituals, initiations, expectations, and stepping stones; now young men are expected to figure out the map through a bewildering mixture of movies, TV, social media, video games, books, news articles, and school.
 
-Sometimes it’s okay to also learn from your family and friends… but only if they agree with the map crafted by polite society.
+S_ometimes_ it’s okay to also learn from your family and friends… but only if they agree with the map crafted by polite society.
 
 And as for religion? Absolutely not. Throw it in the trash and light the trashcan on fire.
 
@@ -87,44 +87,44 @@ The first rule of the Modern Map to Manhood is that you don’t talk about the M
 
 So if you squint hard enough at the murky sea of conversation about gender, you can make out the following steps to become a man:
 
-1.  Reject toxic masculinity.
-
-1.  It’s your job to understand what this means, despite the definition of “toxic masculinity” being nebulous and ever-changing.
-2.  If you’re uncertain whether you fit the definition, you’re probably doing something wrong and should feel ashamed. To play it safe, act as demure as possible and avoid risk-taking.
-
-1.  If you adopt these mannerisms and it harms your romantic pursuits, do not complain.
-
-2.  Be your authentic self!
-
-1.  Your authentic self should not be: dominant, highly interested in sex, competitive, emotionally reserved, prone to risk-taking, bad at reading emotions, stoic, or interested in power.
-2.  You should consider many of your “masculine” personality traits to be symptoms of a poisoned society, rather than potentially inborn characteristics, and feel ashamed if they exist within you.
-
-1.  Don’t bring up the multitude of scientific studies that question this belief.
-
-3.  Once you figure out how to repress unwanted traits, people may still decide that Yourself ™ is unwanted or problematic. It’s your responsibility to figure out their concerns and how to accommodate them.
-
-3.  Provide for and protect others.
-
-1.  It’s your duty to use your privileges and strength as a man to defend the weak and uplift the less-privileged.
-2.  Understand that “providing” doesn’t mean making money and “protecting” doesn’t mean physical protection; those are outdated concepts that reinforce the patriarchy. Provide emotionally and protect against systemic injustices.
-
-1.  If you fail to provide money and physical protection (or at least a physically capable physique), you’ll be locked out of many relationships. But don’t complain about this discrepancy between stated and actual expectations.
-
-4.  Stop obsessing over “being a man.”
-
-1.  Gender roles are toxic, especially masculine ones, and it’s pathetic to care so much about being manly.
-
-1.  Yes, gender is so vital to our self-identity that many trans individuals would rather commit suicide than be forced to repress their gender. But it’s toxic for biological men to adopt manhood as a vital part of their identity, so just stop it.
-
-5.  Don’t expect anything in return for fulfilling these requirements.
-
-1.  This would be demanding a reward for meeting the bare minimum requirements, and that would make you gross and entitled.
+> 1.  **Reject toxic masculinity.**
+>
+> 1.  It’s your job to understand what this means, despite the definition of “toxic masculinity” being nebulous and ever-changing.
+> 2.  If you’re uncertain whether you fit the definition, you’re probably doing something wrong and should feel ashamed. To play it safe, act as demure as possible and avoid risk-taking.
+>
+> 1.  If you adopt these mannerisms and it harms your romantic pursuits, do not complain.
+>
+> 2.  **Be your authentic self!**
+>
+> 1.  Your authentic self should not be: dominant, highly interested in sex, competitive, emotionally reserved, prone to risk-taking, bad at reading emotions, stoic, or interested in power.
+> 2.  You should consider many of your “masculine” personality traits to be symptoms of a poisoned society, rather than potentially inborn characteristics, and feel ashamed if they exist within you.
+>
+> 1.  Don’t bring up the multitude of scientific studies that question this belief.
+>
+> 3.  Once you figure out how to repress unwanted traits, people may still decide that Yourself ™ is unwanted or problematic. It’s _your_ responsibility to figure out their concerns and how to accommodate them.
+>
+> 3.  **Provide for and protect others.**
+>
+> 1.  It’s your duty to use your privileges and strength as a man to defend the weak and uplift the less-privileged.
+> 2.  Understand that “providing” doesn’t mean making money and “protecting” doesn’t mean physical protection; those are outdated concepts that reinforce the patriarchy. Provide _emotionally_ and protect against _systemic injustices_.
+>
+> 1.  If you fail to provide money and physical protection (or at least a physically capable physique), you’ll be locked out of many relationships. But don’t complain about this discrepancy between stated and actual expectations.
+>
+> 4.  **Stop obsessing over “being a man.”**
+>
+> 1.  Gender roles are toxic, especially masculine ones, and it’s pathetic to care so much about being manly.
+>
+> 1.  Yes, gender is so vital to our self-identity that many trans individuals would rather commit suicide than be forced to repress their gender. But it’s toxic for biological men to adopt manhood as a vital part of their identity, so just stop it.
+>
+> 5.  **Don’t expect anything in return for fulfilling these requirements.**
+>
+> 1.  This would be demanding a reward for meeting the bare minimum requirements, and that would make you gross and entitled.
 
 This is the new guidance we’re tossing at young men. It’s the equivalent of taking away GPS from a driver and handing them a map scrawled by a half-blind cartographer tripping on acid.
 
 The obvious result is getting disastrously lost; the only question is which type of lostness will impact a man.
 
-## III. Patterns Within the Pain  
+## III. Patterns Within the Pain  
 
 Over the years, I’ve developed mental categories for the varieties of lostness men are faced with. Each one comes with its own unique troubles that stymie the health of men and the success of their relationships.
 
@@ -152,7 +152,7 @@ The Man Who Is Not isn’t the sort of person you’d expect to get lost, at lea
 
 He’s not exactly a stand-out success, but he gets good enough grades that get him into a good enough college. He’s reluctant to go; he doesn’t enjoy school all that much. But his parents push him to get a degree, and after he arrives, he decides college life isn’t half bad–he makes some friends, dates a couple girls casually, and enjoys plenty of parties.
 
-The worst stressor seems to be the nagging question of his degree concentration and what career he’s going to pursue. He’s changed his mind three times already, unsure what he really wants from his life, and his guidance counselor and parents are starting to lose their patience.
+The worst stressor seems to be the nagging question of his degree concentration and what career he’s going to pursue. He’s changed his mind three times already, unsure what he _really_ wants from his life, and his guidance counselor and parents are starting to lose their patience.
 
 He finally settles on Economics. It’s certainly not his passion, but he’s always been good at math, and this seems like a decent way to make money from that talent. He still has no idea what he wants from life, but at least now he’ll have time and resources to figure it out.
 
@@ -160,7 +160,7 @@ He graduates with his bachelors and takes a job as a data analyst at a big bank 
 
 What he finds isn’t nearly so exciting. Work is boring and draining, consisting of the same tasks every day with a workload that grows ever larger, and he has zero emotional attachment to the end product. He quickly starts to suspect he chose the wrong major, or maybe the wrong job, although mentors shrug off his concerns.
 
-Work isn’t supposed to be fun, they say. Get used to it.
+_Work isn’t supposed to be fun,_ they say. _Get used to it._
 
 It’s not uplifting advice, to say the least. He tries to distract himself from his miserable job with his social life, but it’s not as easy as he expected. All his college friends moved to different cities, and their texts grow increasingly rare. The city is huge, filled with hundreds of thousands of people, but it feels like they're a swarm of NPCs.
 
@@ -168,17 +168,17 @@ Few people talk to him unless he approaches first, and the dialogue is always tr
 
 Sometimes he tries to steer the conversations to more personal topics, and he manages to get a few phone numbers and promises to hang out sometime. But when he texts them, they never reply.
 
-He’s lonely. He doesn’t like admitting it, not even to himself, because it feels pathetic. After all, there’s nothing wrong with him. He’s a perfectly pleasant individual, and people have said he’s smart and funny, and he’s never struggled to make friends in the past. Yet the thousands and thousands of people who surround him couldn’t care less about his existence, and their apathy begins to grow a heavy lump of despair within him.
+He’s lonely. He doesn’t like admitting it, not even to himself, because it feels pathetic. After all, there’s nothing _wrong_ with him. He’s a perfectly pleasant individual, and people have said he’s smart and funny, and he’s never struggled to make friends in the past. Yet the thousands and thousands of people who surround him couldn’t care less about his existence, and their apathy begins to grow a heavy lump of despair within him.
 
 He consults the internet, and Reddit tells him to find a community. This seems like solid advice, so he tries to form stronger relationships with his coworkers. After all, work is the closest replacement he has to the structured community he had at college. Back in school, being trapped on campus together just naturally led to friendships and relationships, and he assumes the same will happen at work.
 
-He’s wrong. People don't have time to chat during the day, and they don’t want to hang out after work. They have partners and families and hobbies to get to, and besides, what happens if they have a falling out? That would make office interactions weird. The office is a place for friendliness, but not friends, and certainly not romantic relationships.
+He’s wrong. People don't have time to chat during the day, and they don’t want to hang out after work. They have partners and families and hobbies to get to, and besides, what happens if they have a falling out? That would make office interactions weird. The office is a place for _friendliness_, but not _friends_, and certainly not romantic relationships.
 
-The rejection stings, but he’s not about to give up. He joins a running club and a book club and starts attending group classes at his local gym. He’s not really sure if he enjoys any of these activities, but they seem like good ways to meet people and join new communities.
+The rejection stings, but he’s not about to give up. He joins a running club and a book club and starts attending group classes at his local gym. He’s not really sure if he _enjoys_ any of these activities, but they seem like good ways to meet people and join new communities.
 
 As the weeks tick past, people start to remember his name, and he gets added to some group chats for scheduling activities. Suddenly, his calendar is full of events, and his evenings are no longer an endless churn of YouTube and video game binges.
 
-He feels better. Still not great, exactly, but the despair has begun to recede, and he can breathe without feeling the primal fear of being alone and isolated.
+He feels better. Still not _great_, exactly, but the despair has begun to recede, and he can breathe without feeling the primal fear of being alone and isolated.
 
 There’s still something missing; he still goes to work wondering why the hell he’s there and leaves wondering what the hell he’s achieved, and he has no idea what he’s trying to do with his life. But he knows he’s still young and is pretty sure there’s still time to figure it out.
 
@@ -186,9 +186,9 @@ A life crisis occurs. It's small, but something he’d appreciate some support t
 
 The dismissal comes as a shock. His old friends would have made time for him and carefully listened and offered advice. It’s not like he’s asking a huge favor; this is basic friendship stuff. What kind of friends refuse to give such basic forms of help?
 
-A cold, creeping reality dawns on him: friends wouldn’t do that. Those “communities” he’s joined are just loose groups of acquaintances who enjoy the same activities. He’s never had the opportunity to have deep, emotionally-bonding discussions with any members, and that’s how they like it. After all, true communities come with effort and commitment, and who has time for that these days?
+A cold, creeping reality dawns on him: friends _wouldn’t_ do that. Those “communities” he’s joined are just loose groups of acquaintances who enjoy the same activities. He’s never had the opportunity to have deep, emotionally-bonding discussions with any members, and that’s how they like it. After all, true communities come with effort and commitment, and who has time for that these days?
 
-His new “friends” are nothing of the sort. For them to be friends, they'd have to actually know him. And they don't. They know Running Club Him and Book Club Him and Gym Him, but none of them understands the whole of him.
+His new “friends” are nothing of the sort. For them to be friends, they'd have to actually know him. And they don't. They know Running Club Him and Book Club Him and Gym Him, but none of them understands the _whole_ of him.
 
 He starts to question whether that version of himself even exists. After all, humans are social creatures, and if you don’t have a community or a partner or a purpose, can you even call yourself a whole person?
 
@@ -206,7 +206,7 @@ He may not know what he is, but he knows what he is not: not happy. Not whole. N
 
 There seems to be an obvious solution to at least the last problem: he can get another girlfriend. He hasn’t had one since college, and that was a few years ago, but he’s certain he can find another one. A girlfriend is guaranteed to offer him love and support. That’s the entire point of having a romantic relationship, after all.
 
-But dating isn’t easy in the Bay Area. The apps are soul-crushing, his jadedness and bitterness growing with each swipe and conversation with a bot. He manages to land a few dates, but they all seem to focus on the same set of questions: what are your passions? What are your friends like? What do you want from your future?  
+But dating isn’t easy in the Bay Area. The apps are soul-crushing, his jadedness and bitterness growing with each swipe and conversation with a bot. He manages to land a few dates, but they all seem to focus on the same set of questions: _what are your passions? What are your friends like? What do you want from your future?_  
 
 It feels like a stomach-churning interview, and the judgemental frowns from the women make it clear he didn’t pass. He starts to dread dates when he lands them, and begins to cancel them last-minute, unable to face the anxiety and rejection they lead to.
 
@@ -214,7 +214,7 @@ He feels increasingly desperate with each day that passes. Desperation isn’t a
 
 Yet no one seems even the slightest bit interested in helping him free himself from its grip. As soon as he tries to express his feelings to anyone, they react as if he’s diseased, immediately losing interest in him. Men are supposed to be strong and uplift others, not complain and demand attention for themselves.
 
-Maybe he is diseased. He’s pretty sure he’s suffering from depression at this point, and the stomach-churning anxiety and dread that frequently fill him don’t seem normal.
+Maybe he _is_ diseased. He’s pretty sure he’s suffering from depression at this point, and the stomach-churning anxiety and dread that frequently fill him don’t seem normal.
 
 He brings it up with his doctor and gets referred to a therapist. He’s reluctant to go—it seems to be an admission of his weakness. But he’s desperate for someone to listen to him, so he decides to give it a try.
 
@@ -224,7 +224,7 @@ He knows she has a valid point; he’s a straight, educated male. He has privile
 
 Yet the void has no respect for logic; rather than tempering his pain, the rationality merely adds a layer of self-disgust onto the despair. There are so many who suffer more than him, yet he can barely shoulder this burden.
 
-He tries repeatedly to explain the pitiful truth to the therapist: he can’t help himself. He can’t. He’s tried over and over again, and it doesn’t work. He remains lost, and society continues to not care.
+He tries repeatedly to explain the pitiful truth to the therapist: he can’t help himself. He _can’t_. He’s tried over and over again, and it doesn’t work. He remains lost, and society continues to not care.
 
 The therapist insists he’s not trying hard enough. Her advice is baffling. Exactly what is he supposed to be trying to do? What steps does he need to take to feel whole again? What actions are needed so he can know who he is, and what his purpose is, and convince people that he matters?
 
@@ -242,19 +242,19 @@ He doesn’t want to be invisible anymore. He doesn’t want to be ignored and r
 
 He doesn’t want to be. And the world doesn't give a single fuck.
 
-Dating a Man Who Is Not:
+**Dating a Man Who Is Not:**
 
 It’s rare to actually go on a date with a man in this category. More often I find them glancing at me, only to abruptly look away when I try to meet their eyes. Attempts at conversing with them are usually met with hollow replies and an exhausted sense of suspicion.
 
 On the rare instances I’ve ended up on dates with these men, it seems they’ve already used up all their hope and energy to schedule and arrive to the date. By the time we actually sit down for coffee, they’ve shriveled back into a ghost, providing half-hearted answers to questions about themselves.
 
-When they do talk freely, it’s usually a rant. Most of them seem to realize ranting isn’t ideal behavior on a first date, but they’re clearly desperate for someone, anyone, to listen to their pain. Yeah, it’s going to scare away the woman, but she’s not going to stick around, anyway. No one ever does.
+When they do talk freely, it’s usually a rant. Most of them seem to realize ranting isn’t ideal behavior on a first date, but they’re clearly desperate for someone, _anyone,_ to listen to their pain. Yeah, it’s going to scare away the woman, but she’s not going to stick around, anyway. No one ever does.
 
-At least that’s what the void tells them, and there’s nothing I could say to sway this opinion. Hypothetically, there might be something I could do–I could enter into a relationship with him and provide the love and support he desperately craves, giving him the strength he needs to discover his purpose in life.
+At least that’s what the void tells them, and there’s nothing I could say to sway this opinion. Hypothetically, there might be something I could _do_–I could enter into a relationship with him and provide the love and support he desperately craves, giving him the strength he needs to discover his purpose in life.
 
 Yet realistically, this is a fantasy. A single person can rarely solve issues this severe; it requires the combined strength of an entire community to drag a soul back from such extreme depths. Any attempt at a romantic relationship would crumble under the weight of the void, and only leave the man feeling more hopeless.
 
-The best I can do for these men is recommend they join communities where genuine emotional bonds can be forged. These still exist, although they’re frighteningly hard to find in modern society. I’ve been lucky enough to join several, and it’s startling how many people have the same story: feeling depressed and isolated and purposeless, and suddenly feeling like they’re alive for the first time in years once they’ve been embraced into the community.
+The best I can do for these men is recommend they join communities where genuine emotional bonds _can_ be forged. These still exist, although they’re frighteningly hard to find in modern society. I’ve been lucky enough to join several, and it’s startling how many people have the same story: feeling depressed and isolated and purposeless, and suddenly feeling like they’re alive for the first time in years once they’ve been embraced into the community.
 
 Therapy and guided self-improvement are also helpful, of course. But it has to be the right therapist, and those seem surprisingly rare. I’ve heard some truly jaw-dropping stories about experiences with therapists, and I feel concern for the men who haven’t heard of “therapist shopping” and don’t realize it can take trial and error to find compatible and competent help.
 
@@ -264,21 +264,21 @@ We need more resources for these men, and even more importantly, we need better 
 
 ### THE MAN WITH A PLAN
 
-The Man With a Plan is the inverted twin of the Man Who Is Not. Rather than struggling to figure out what he wants, he knows exactly what his goals are: he’s going to get good grades, which get him into a good school, which earns him a good job, which finances a good house in a good neighborhood and attracts a good spouse who provides good kids. He knows this is what he wants, because it is the creed that has been repeated to him since he was in elementary school.
+The Man With a Plan is the inverted twin of the Man Who Is Not. Rather than struggling to figure out what he wants, he knows _exactly_ what his goals are: he’s going to get good grades, which get him into a good school, which earns him a good job, which finances a good house in a good neighborhood and attracts a good spouse who provides good kids. He knows this is what he wants, because it is the creed that has been repeated to him since he was in elementary school.
 
-He does not know who he should be; his copy of the map is just as butchered as any other. But he knows what he needs to do, and that is what matters. After all, we’re merely the sum of our actions, right?
+He does not know who he should _be_; his copy of the map is just as butchered as any other. But he knows what he needs to _do_, and that is what matters. After all, we’re merely the sum of our actions, right?
 
 Life is smooth sailing for him. His mentors are right–hard work pays off, and once he graduates with that valuable degree, he lands an excellent job in exactly the field his parents always encouraged him to pursue. The money is great, and soon so is his apartment and his car.
 
 Everything seems to be falling into place. He downloads a dating app and gets a fair amount of matches, one of whom turns into his girlfriend. She’s pretty, and successful, and shares his goals of settling down in a good neighborhood to have some kids.
 
-His parents are thrilled. All their hard work has paid off, just as they expected.
+His parents are _thrilled._ All their hard work has paid off, just as they expected.
 
 He knows he should also be thrilled, too, but he’s not. There’s a vague sense of unease within him. It’s haunted him since he was young, sometimes dragging his thoughts to depressed and anxious places, although he always assumed it was because he just hadn’t completed all the steps in the plan. His work was unfinished, and thus so was he.
 
 Yet as he checks off more and more boxes on the list of tasks to attain a good life, that feeling seems to be growing in strength, not decreasing.
 
-He shrugs it off, reassuring himself that it’s just work stress that’s making him overthink things. Everything in his life is good. There’s no reasonable cause for despair, so he just needs to let those thoughts go.
+He shrugs it off, reassuring himself that it’s just work stress that’s making him overthink things. Everything in his life is _good_. There’s no reasonable cause for despair, so he just needs to let those thoughts go.
 
 Years pass, and he works hard to juggle work and his romantic relationship and his friends, although his friends seem to take less time these days. They’re getting married, having kids, and becoming too busy to hang out. When they do get together, it’s usually for an activity–an escape room, a movie night, karaoke. Once the event completes, people scurry off to other obligations, leaving little time for deep conversations.
 
@@ -292,9 +292,9 @@ The thoughts come to him unbidden, and he doesn’t dare to voice them. Two kids
 
 Yet he can’t shake the dread from his mind. The part of his mind that those fears escaped from seems to have been a pandora’s box. Now that it’s open, he can’t close it, and the dread continues to grow.
 
-He doesn't want to move to the suburbs; he knows there are better homes and schools there, but he enjoys the city. He’s not sure he wants his upcoming promotion to manager; yeah, his salary will increase, but he hates corporate politics. He doesn’t actually like doing escape rooms; he desperately misses the days of hanging out with his friends and getting tipsy and maybe a little high, and talking endlessly until the sun begins to rise.
+He doesn't want to move to the suburbs; he knows there are better homes and schools there, but he enjoys the city. He’s not sure he wants his upcoming promotion to manager; yeah, his salary will increase, but he _hates_ corporate politics. He doesn’t actually like doing escape rooms; he desperately misses the days of hanging out with his friends and getting tipsy and maybe a little high, and talking endlessly until the sun begins to rise.
 
-And his girlfriend… when he really thinks about it, there’s little in common between them except the same checklist of goals. She’s a wonderful partner, but is she a wonderful partner for him?
+And his girlfriend… when he really thinks about it, there’s little in common between them except the same checklist of goals. She’s a wonderful partner, but is she a wonderful partner for _him_?
 
 He doesn’t know. For so long, he’s convinced himself that people are just a sum of their actions, and if he just has a solid plan, he’s going to be a good person with a good life. Now he realizes that’s a lie.
 
@@ -304,15 +304,15 @@ He wants to discuss these things with his friends, but he realizes they hardly k
 
 His girlfriend says he’s been acting odd lately, cold and distant. He apologizes, and then he tells her that he likes painting. She probably doesn’t know that, because she’s never seen him do it, because the last time he painted was during art class in high school.
 
-He was good at it, and he loved it. It made him feel alive. His teacher suggested he could become a professional someday, but he’d immediately rejected the idea, knowing the life of a starving artist wasn’t a good plan.  
+He was good at it, and he loved it. It made him feel _alive_. His teacher suggested he could become a professional someday, but he’d immediately rejected the idea, knowing the life of a starving artist wasn’t a good plan.  
 
 Maybe he was wrong. Maybe he should have embraced that life. Maybe he’d be happier, and wouldn’t wake up every morning with crushing dread at the thought of going to work.
 
 His girlfriend says they should sign up for some wine-and-paint nights. He says they should break up.
 
-He quits his job, too. He hates it; it consumes his time and sucks at his soul, leaving behind a robotic husk. He’s done with that bullshit. Done.
+He quits his job, too. He hates it; it consumes his time and sucks at his soul, leaving behind a robotic husk. He’s done with that bullshit. _Done._
 
-His friends suggest he’s having a mental breakdown and needs help. It confirms his suspicions: they don’t know him at all. If they did, they would see that he is helping himself. He’s finally taking the time to find and understand himself, to discover his purpose.
+His friends suggest he’s having a mental breakdown and needs help. It confirms his suspicions: they don’t know him at all. If they did, they would see that he _is_ helping himself. He’s finally taking the time to find and understand himself, to discover his purpose.
 
 For a few weeks, he’s elated and excited to be on this new journey. But then the existential dread begins to creep back in.
 
@@ -332,11 +332,11 @@ He feels empty. His unknown future starts to feel like a crushing concern, rathe
 
 His few remaining friends suggest that maybe he should try to get back together with his girlfriend, maybe try to piece together his old life. It’s not too late, they assure him.
 
-But he doesn’t want that. He misses sex and cuddling and having someone to tell about his day, but he doesn’t miss her. It’s probably because he’s fundamentally broken, and she deserves better than him. And as for his job, he can’t bring himself to possibly go back, despite his rapidly dwindling bank account.
+But he doesn’t want that. He misses sex and cuddling and having someone to tell about his day, but he doesn’t miss _her._ It’s probably because he’s fundamentally broken, and she deserves better than him. And as for his job, he can’t bring himself to possibly go back, despite his rapidly dwindling bank account.
 
 He turns to the dating world, hoping maybe finding a solid partner will help him solve his brokenness. Yet he seems to keep attracting women with similar forms of emptiness within them, and a void that joins with a void is still just as empty.
 
-But he’s not going to give up. He has to find someone, something to give him purpose. Otherwise, his whole life and all his work and all his pain has been pointless. And he’s not sure he could deal with that outcome.
+But he’s not going to give up. He has to find someone, _something_ to give him purpose. Otherwise, his whole life and all his work and all his pain has been pointless. And he’s not sure he could deal with that outcome.
 
 #### Dating a Man With a Plan:
 
@@ -364,7 +364,7 @@ Meet a Man Who Provides in person, and he’s often interesting and intellectual
 
 The Man who Provides kept hold of one tattered remnant of the old map to manhood: the part that states men must provide resources. This is a vital piece, one that has guided men for thousands of years, and it has survived the great purge of manhood. Sure, people are more likely to point out that it is flawed and unfair, but the reality is that men are still expected to be breadwinners. (If you doubt this, just ask any “stay at home dad” about the hostility they’ve received for their role.)
 
-The Man who Provides takes this single piece of the map and makes it his entire identity. Much like the Man With a Plan, he takes his education and career seriously. But he doesn’t strive for a good education and career; he wants the best. In order to provide the most resources, he needs to earn as much success as possible, and he’s willing to put in the work to do it.
+The Man who Provides takes this single piece of the map and makes it his entire identity. Much like the Man With a Plan, he takes his education and career seriously. But he doesn’t strive for a _good_ education and career; he wants the _best_. In order to provide the most resources, he needs to earn as much success as possible, and he’s willing to put in the work to do it.
 
 Tiger parents are excellent at creating Men Who Provide. From a young age, the message is clear: your worth is equivalent to your ability to provide, and providing requires consistent success.
 
@@ -382,19 +382,19 @@ Those “friends” in his Burning Man photos were from his startup incubator, a
 
 As for dating? Well, a partner is yet another thing to be optimized, of course. They must match or exceed his quality level, and a woman’s quality revolves around their job title and academic degrees.
 
-His dating life is tumultuous, to say the least. He goes through periods of casually dating many women, proving his desirability to those around him. Then he’ll enter a serious relationship, with emphasis on serious. His time is valuable, so this relationship had better not waste it.
+His dating life is tumultuous, to say the least. He goes through periods of casually dating many women, proving his desirability to those around him. Then he’ll enter a serious relationship, with emphasis on _serious_. His time is valuable, so this relationship had better not waste it.
 
 The relationship will seem perfect at first–two successful, powerful, passionate people combining forces! What could possibly stand in their way?
 
 The answer: themselves. Their relationship quickly implodes, as it turns out two individuals hyper-focused on their personal success tend to be terrible at a group activity such as dating.
 
-Back to the carousel of casual dating he goes, carrying stories of his ex who just “couldn’t match his intensity” and “resented his success.” Then into another serious relationship, this time with someone with a bit less self-esteem and a determination to prove her worth to this intimidatingly accomplished man.  
+Back to the carousel of casual dating he goes, carrying stories of his ex who just “couldn’t match his intensity” and “resented his success.” Then into another serious relationship, this time with someone with a bit less self-esteem and a determination to prove her worth to this intimidatingly accomplished man.  
 
-The relationship lasts longer this time around, a year, maybe two. Then it implodes just as violently, with the woman insisting he was a manipulative and neglectful partner. He’s baffled by the claims; she’s the one who was always offering to support his success! It’s not like he made her do anything. And besides, everything he did was for the both of them. He just wanted to provide.
+The relationship lasts longer this time around, a year, maybe two. Then it implodes just as violently, with the woman insisting he was a manipulative and neglectful partner. He’s baffled by the claims; _she’s_ the one who was always offering to support his success! It’s not like he _made_ her do anything. And besides, everything he did was for the both of them. He just wanted to provide.
 
 Back to the carousel of casual dating he goes, still carrying the hope of finding The One, a woman to complete him, to prove to the world that he’s an attractive, successful man.
 
-All the while, a void grows in his chest. Every day, he seems to wake up with less energy and more dread. A friend hints that he’s burning out, and this insinuation panics him, so he runs off to the Amazon to do some ayahuasca about it. But the travel and drugs no longer invigorates him in the same way, and it’s beginning to truly worry him.
+All the while, a void grows in his chest. Every day, he seems to wake up with less energy and more dread. A friend hints that he’s burning out, and this insinuation panics him, so he runs off to the Amazon to do some ayahuasca about it. But the travel and drugs no longer invigorates him in the same way, and it’s beginning to truly worry him.
 
 He refuses to focus on these emotions, though. Emotions make him illogical and weak, and he needs to be strong and decisive. He’ll keep his focus on his company’s success, making sure that he can continue to provide and prove his worth. And in the meantime, he’ll keep searching for his perfect match to reap the rewards of his success and reassure him that he’s truly an excellent provider.
 
@@ -410,13 +410,13 @@ Yet they have no hope of clearing mine. A strong sense of self-identity is a req
 
 This leaves their identity hopelessly precarious and revolving around their immediate success. A bad day at work or a failed business deal can spell weeks of brooding and self-loathing. You never quite know what version of the man may appear; he could be euphoric from his latest product launch, or despondent and moody from a meeting that went wrong.
 
-There’s little I can do to address the issues faced by Men Who Provide. Try to talk them out of focusing so much on standard capitalistic forms of achievement, and they’ll often accuse you of being jealous and sabotaging their success. Point out their clear misery, and they’ll insist “there’s no gain without pain,” and if they can just achieve a constantly moving goalpost, they’ll finally be happy.
+There’s little I can do to address the issues faced by Men Who Provide. Try to talk them out of focusing so much on standard capitalistic forms of achievement, and they’ll often accuse you of being jealous and sabotaging their success. Point out their clear misery, and they’ll insist “there’s no gain without pain,” and if they can just achieve a constantly moving goalpost, they’ll _finally_ be happy.
 
 These men generally only shake off this mentality after burning themselves out and facing a bout of depression so severe it kills their ability to succeed in a traditional capacity. This forces them to find other ways to derive satisfaction and finally grow a self-identity that doesn’t revolve around money and success.
 
 It’s saddening that these men have to go through this burnout process to learn these lessons; I hope to see less of these men in the future, as more people come forward to describe this toxic form of living.
 
-In the meantime, I try to catch young men before they fall into these self-destructive patterns. I lecture my young interns about the hazards of a success-obsessed lifestyle, and encourage them to find senses of worth that don’t revolve around gaining power and providing money.
+In the meantime, I try to catch young men _before_ they fall into these self-destructive patterns. I lecture my young interns about the hazards of a success-obsessed lifestyle, and encourage them to find senses of worth that don’t revolve around gaining power and providing money.
 
 I’ll be honest, they don’t seem to listen to me much. But I hope my words remain in the back of their mind, ready to help guide them away from misery when they’re ready to make that change.
 
@@ -428,15 +428,15 @@ Some of these men have serious, obvious flaws that keep them locked out of the d
 
 The majority don’t fit this description, though. In fact, in the Bay Area, a large number of these men are very high-functioning members of society who are smart, respectful, and financially successful.
 
-Often the Man Who Opts Out is the victim of bullying or neglect as a young adult. People accuse him of being awkward, or short, or shy, or overweight, or an “undesirable” ethnicity. Or maybe no one ever directly vocalizes it, but the messages in the media are enough to convince him of his low self-worth, and his interactions with girls seem to confirm it. Most treat him as if he’s invisible, and his few female friends are quick to emphasize that they’re just friends.
+Often the Man Who Opts Out is the victim of bullying or neglect as a young adult. People accuse him of being awkward, or short, or shy, or overweight, or an “undesirable” ethnicity. Or maybe no one ever directly vocalizes it, but the messages in the media are enough to convince him of his low self-worth, and his interactions with girls seem to confirm it. Most treat him as if he’s invisible, and his few female friends are quick to emphasize that they’re _just friends._
 
 Dating feels impossible. After all, the goal of dating is to make someone fall in love with you, and how could someone love him when he’s so terribly unattractive?
 
-He decides to shove aside dating and focus on the other things society tells him are important: his schooling, his career, his social circle. He can actively work to improve and succeed in these areas, whereas being attractive feels miserably out of his control.  
+He decides to shove aside dating and focus on the other things society tells him are important: his schooling, his career, his social circle. He can actively work to improve and succeed in these areas, whereas being attractive feels miserably out of his control.  
 
 When he’s a teenager, this mentality doesn’t cause much alarm. In fact, some mentors even mistake his avoidance of dating as a sign of maturity. He “has his priorities straight,” they say.
 
-Yeah, some of his peers might mock him for not having a girlfriend, but did they get into MIT? Nope. But he did. That helps to ease the pain of not having a date for senior prom.
+Yeah, some of his peers might mock him for not having a girlfriend, but did _they_ get into MIT? Nope. But _he_ did. That helps to ease the pain of not having a date for senior prom.
 
 When he’s in his early-twenties, his aversion to dating starts to feel like a problem. Friends and family comment on it, voicing concern.
 
@@ -444,7 +444,7 @@ He decides, reluctantly, to give dating a shot. Loneliness is beginning to eat a
 
 His attempts don’t go well. In fact, you might say they’re a bit of a disaster. Women have come to expect a certain level of romantic competence from a twenty-two-year-old, and he just doesn’t meet the bar.
 
-It’s a painful shock. He’d started to gain his confidence back, proving through his successful schooling and his burgeoning career that he’s really worth something, even if he doesn’t quite meet the traditional model of a hot young bachelor. At this point, he’s accustomed to succeeding at most things in life.  
+It’s a painful shock. He’d started to gain his confidence back, proving through his successful schooling and his burgeoning career that he’s really worth something, even if he doesn’t quite meet the traditional model of a hot young bachelor. At this point, he’s accustomed to succeeding at most things in life.  
 
 But every attempt to flirt and date paints an entirely different picture of himself: he’s practically trembling with nerves, unsure what to talk about, prone to rambling about his niche interests until their eyes glaze over, terrified of accidentally being a creep, yet overly eager for the romantic affection that he desperately craves.
 
@@ -454,7 +454,7 @@ He vows to stop even trying. After all, what’s the point? It’s hopeless.
 
 Years pass. He settles into his career, becomes more successful and more mature. He’s not exactly a social butterfly, but he has some good friends and enough love and connection in his life to keep him tumbling down the path of a Man Who Is Not.
 
-Yet something is missing. He tries not to think about it, but there’s a growing emptiness inside him that makes life increasingly hollow. It’s not just a missing girlfriend; it’s a lack of someone, anyone, finding him attractive.
+Yet something is missing. He tries not to think about it, but there’s a growing emptiness inside him that makes life increasingly hollow. It’s not just a missing girlfriend; it’s a lack of someone, _anyone_, finding him attractive.
 
 More and more friends are finding committed relationships. At the end of the day, they go home to cuddles and laughter and sex and long, deep conversations. He returns home to his silent apartment and plays video games.
 
@@ -466,21 +466,21 @@ When he does match, he carries the conversation, and the woman usually ghosts at
 
 He takes another break from dating. More years pass, and his friends who are coupled feel increasingly alien. They’re having weddings, honeymoons, kids; buying houses and saving for college; attending recitals and soccer practices. He’s still playing Call of Duty and Dota with his dwindling group of single friends.
 
-Occasionally, some of his coupled friends will join them on Discord, playing a couple hurried rounds before having to log off to cook dinner or tuck the kids into bed. Damn, I miss being single, they’ll say, laughing. You have all the time, all the hobbies, all the peace you could ever want.
+Occasionally, some of his coupled friends will join them on Discord, playing a couple hurried rounds before having to log off to cook dinner or tuck the kids into bed. _Damn, I miss being single,_ they’ll say, laughing. _You have all the time, all the hobbies, all the peace you could ever want._
 
 They don’t address the elephant in the room–that at any time, they could dump their partner and be single again.
 
-Yet they don’t. Because being alone sucks.  
+Yet they don’t. Because being alone sucks.  
 
-As he nears his mid-thirties, an interesting development occurs: women start to actively become interested in him. Those superficial characteristics that kept them at bay when he was younger no longer seem so important.
+As he nears his mid-thirties, an interesting development occurs: women start to actively become interested in _him_. Those superficial characteristics that kept them at bay when he was younger no longer seem so important.
 
-So what if he’s only five-foot-six and a bit heavier than average? He has an amazing job, a stellar reputation, a gorgeous apartment, and a great sense of humor. He’s a catch.
+So what if he’s only five-foot-six and a bit heavier than average? He has an amazing job, a stellar reputation, a gorgeous apartment, and a great sense of humor. He’s a _catch._
 
 Yet once they discover he’s never been in a long-term relationship, they once more seem to recoil.
 
-He enters into a series of short-term flings, trying to make up for the lost experience. At first it’s exhilarating to have women actually show interest in him. They like him. They want him.
+He enters into a series of short-term flings, trying to make up for the lost experience. At first it’s exhilarating to have women actually show interest in him. They _like_ him. They _want_ him.
 
-Quickly, it becomes exhausting. Even when women initially approach him, he’s the one who must invest the most effort. The women know what they’re doing; he’s constantly trying to keep up. Some of them get tired of waiting for him to learn and walk away, opening up old wounds in his self-confidence.
+Quickly, it becomes exhausting. Even when women initially approach him, _he’s_ the one who must invest the most effort. The women know what they’re doing; he’s constantly trying to keep up. Some of them get tired of waiting for him to learn and walk away, opening up old wounds in his self-confidence.
 
 He considers trying to make one of the connections more serious, but it becomes obvious that she’d expect him to change so much. His hobbies, his sleeping patterns, his work habits, his furniture, his friendships… all of it would require modification to keep a girl around.
 
@@ -494,7 +494,7 @@ They’re right, he decides. He’s done. It’s over.
 
 Yet one evening, as he lays in bed, the loneliness chews at his soul as he stares at the empty spot beside him. He reaches for his phone and downloads a dating app.
 
-He’ll go on just one more date, he tells himself. Just to remind himself of why he doesn’t date anymore. Just to remind himself of why it’s futile to even try.  
+He’ll go on just one more date, he tells himself. Just to remind himself of why he doesn’t date anymore. Just to remind himself of why it’s futile to even try.  
 
 #### Dating a Man Who Opts Out:
 
@@ -518,15 +518,15 @@ I also hate the standard advice given to these men: that it’s “just a number
 
 The truth isn’t nearly so easy. A man with severe self-esteem issues is not likely to find a healthy relationship, no matter how many times he flings himself at the dating world. The core issue of self-esteem must be addressed.
 
-For some, this means structured therapy or psychiatric treatment, for others, it means growing their social life until it’s vibrant enough to soothe the part of their soul that insists they’re not enough. Or maybe it’s a combo of all three or something else entirely. But action needs to be taken to address the lack of self-esteem; the man can’t just half-heartedly daydream about a woman who might swoop in to “love him just the way he is” and solve all his confidence problems.
+For some, this means structured therapy or psychiatric treatment, for others, it means growing their social life until it’s vibrant enough to soothe the part of their soul that insists they’re not enough. Or maybe it’s a combo of all three or something else entirely. But _action_ needs to be taken to address the lack of self-esteem; the man can’t just half-heartedly daydream about a woman who might swoop in to “love him just the way he is” and solve all his confidence problems.
 
 Also, relationships take practice. If a man is past the age of twenty-five and has never been in a committed relationship, most women will view this as a red flag. They’ve spent their teens and early-twenties doing the hard work of learning how to be in a relationship, and they don’t want to partner with someone who hasn’t even begun that journey yet.
 
-The good news is that there are ways to compensate for this. I would happily date a thirty-year-old who has never been in a romantic relationship, if he has other social relationships to prove his viability as a partner. Close ties to his friends, family, and community can prove he’s well-versed in all the vital elements of a relationship: communication, trust, empathy, honesty, etc.
+The good news is that there are ways to compensate for this. I would happily date a thirty-year-old who has never been in a _romantic_ relationship, if he has other _social_ relationships to prove his viability as a partner. Close ties to his friends, family, and community can prove he’s well-versed in all the vital elements of a relationship: communication, trust, empathy, honesty, etc.
 
 Yet the fact remains that the longer someone opts out of the dating world, the harder it becomes to opt back in.
 
-So my advice to men who fall into this category is to rip off the bandaid. If they want a partner, they need to start working toward it now. Overcoming insecurities and past traumas takes time and effort.
+So my advice to men who fall into this category is to rip off the bandaid. If they want a partner, they need to start working toward it _now_. Overcoming insecurities and past traumas takes time and effort.
 
 The good news is that men who fall into this category seem to be pleasantly surprised at how quickly their social and romantic prospects improve, once they identify and address the root issues. Many of them happily “graduate” out of this category and go on to have wonderful relationships.
 
@@ -540,7 +540,7 @@ The Man Who Becomes a Beast often begins as a Man Who Is Not. He is lost, and de
 
 He drudges through his job, hating every moment, yet sometimes he hates being away from work even more. At work, he’s at least acknowledged as a person. As soon as he leaves, the lonely silence of his existence threatens to suffocate him.
 
-He doesn’t know what he wants from life, but he knows it’s not this.
+He doesn’t know what he wants from life, but he knows it’s not _this._
 
 The city is filled with young, attractive women that inspire wistful daydreams. Maybe he’ll ask one out, and they’ll hit it off, and then his apartment will no longer be empty. Then maybe she can introduce him to her friends, and the empty abyss of his social calendar will suddenly be filled with dinners, and trips, and concerts, and—
 
@@ -554,7 +554,7 @@ His performance at work slips, and he’s placed on a performance improvement pl
 
 His doctor tells him he’s depressed and tosses some pills at him, but it only serves to anger him.
 
-The anger is a surprise. He’s not an angry person, or at least he’s never been in the past. Yet the emotion keeps flaring to life in his chest, poisoning his mind with spite. Spite toward his idiot manager who doesn’t give a shit about him. Spite toward the women who judge him without truly knowing him. Spite at the asshole doctor who mindlessly writes a prescription without bothering to understand the real problem.
+The anger is a surprise. He’s not an angry person, or at least he’s never been in the past. Yet the emotion keeps flaring to life in his chest, poisoning his mind with spite. Spite toward his idiot manager who doesn’t give a shit about him. Spite toward the women who judge him without truly knowing him. Spite at the asshole doctor who mindlessly writes a prescription without bothering to understand the _real_ problem.
 
 There’s nothing wrong with his head; it’s the rest of the world that’s the problem. He doesn’t do anything wrong, yet the world treats him like he’s less than worthless. He doesn’t need pills, he just needs someone to give a shit.
 
@@ -564,7 +564,7 @@ Gradually, the algorithms drift toward new content. A buff dude sneers into the 
 
 He’s not sure whether to be offended or amused. The video is so over-the-top that he wants to laugh it off, but it also hits some painful insecurities.
 
-He is wasting his life at his shitty job. He would attract more women if he worked out more. He hates feeling awkward and uncertain and invisible.
+He _is_ wasting his life at his shitty job. He _would_ attract more women if he worked out more. He _hates_ feeling awkward and uncertain and invisible.
 
 He watches several more videos. The influencer sure isn’t a philosopher, but he at least has the balls to discuss the way society has neglected men. High school graduation rates are plummeting, college enrollment has taken a nosedive, addiction is spreading like wildfire, incarceration is creeping upwards, suicide rates are rocketing to the sky.
 
@@ -572,9 +572,9 @@ Where’s the public dismay? Where’s the outrage and the activism?
 
 Nowhere, says the influencer. All those activists are too busy accusing men of being dangerous monsters to bother caring about them.
 
-Fuck those people and all they stand for, says the influencer. If you want anyone to care about you, you have to make them care. And this influencer knows exactly how to accomplish that.
+Fuck those people and all they stand for, says the influencer. If you want anyone to care about you, you have to _make_ them care. And this influencer knows exactly how to accomplish that.
 
-And then he gives it: a map for manhood. One that’s entirely different from the vague, confusing, dismissive directions that polite society has offered. One whose guidance loudly insists that being a man is a good thing, something to be proud of and use to his advantage.
+And then he gives it: a map for manhood. One that’s entirely different from the vague, confusing, dismissive directions that polite society has offered. One whose guidance loudly insists that being a man is a _good_ thing, something to be proud of and use to his advantage.
 
 The manosphere map promises power, success, sex, money, belonging, and confidence if it’s followed. In contrast, the map offered by polite society offers a vague promise to not be considered a failure or a danger.
 
@@ -582,7 +582,7 @@ The choice seems obvious.
 
 If he looked hard at the manosphere map, its contradictions are obvious. It promises the respect and adoration of women, but insists this is to be gained through mistreating them. It promises power and money, yet discourages higher education, despite this being the most sure-fire way to climb the class ladder. It insists women are less intelligent and logical beings, yet also insists they have taken over control of the world.
 
-Yet it’s hard to think critically about these contradictions; life has left him exhausted and angry, and the manosphere map insists that success and payback are just a few easy steps away.  And those steps are deliciously concrete and specific. The manosphere offers millions of hours of video tutorials on the single subject of how to get a woman “out of your league” to like you. Meanwhile, polite society balks at the mere question, droning on about how romantic “leagues” are an inherently patriarchal and harmful concept.
+Yet it’s hard to think critically about these contradictions; life has left him exhausted and angry, and the manosphere map insists that success and payback are just a few easy steps away.  And those steps are _deliciously_ concrete and specific. The manosphere offers millions of hours of video tutorials on the single subject of how to get a woman “out of your league” to like you. Meanwhile, polite society balks at the mere question, droning on about how romantic “leagues” are an inherently patriarchal and harmful concept.
 
 Sure, some of the advice seems off. Insulting women goes against how he was raised, and some of the money advice seems like it's using people. Yet how he was raised led him to be anxious and invisible. And the rest of society seems to be using him, so why shouldn’t he turn the tables?
 
@@ -594,7 +594,7 @@ He’s hooked. On the clear directions, on the sex, on the feeling of power. And
 
 They hate him, but that’s okay, because he hates them too.
 
-The influencers were right: fuck society and their weak, pathetic norms. If you want something, you have to be a real man and take it.
+The influencers were right: fuck society and their weak, pathetic norms. If you want something, you have to be a _real_ man and take it.
 
 #### Dating a Man Who Becomes a Beast:
 
@@ -606,19 +606,19 @@ I rarely end up on dates with these men; I’ve gotten good at detecting them ov
 
 I will always end the date as soon as possible and update my detection heuristics. Yet it seems impossible to truly avoid these men.
 
-I punched one a few months back. He tried to dance with my friend at a concert, refused to take her clear “no” for an answer, forcefully shoved himself against her, and did not appreciate me shoving him back.
+I punched one a few months back. He tried to dance with my friend at a concert, refused to take her clear “no” for an answer, forcefully shoved himself against her, and did _not_ appreciate me shoving him back.
 
 He grabbed my arm and yanked me toward him; I landed a jab to his throat. (Apparently, the manosphere doesn’t teach men to tuck their chins during a fight. Quite the oversight.)
 
 My jab shocked him enough to loosen his grip, and I yanked free. Three strangers from the crowd grabbed him, restraining him as he tried to lunge at me. His face twisted in a snarl as he hurled insults over the booming bass.
 
-Cunt, crazy bitch, low value whore.
+_Cunt, crazy bitch, low value whore._
 
 It was the latter insult that gave it away: he was yet another young man drugged by the toxic ideology of the manosphere.
 
 There was something darkly poetic about the scene: three strangers, all men, throwing themselves in harm’s way to stop a two-hundred-pound brick of muscle from pulverizing me. Struggling against their grasp was the Hyde to their Jekyll, a rabid animal who used his natural strength to attack rather than to protect.
 
-I pity that young man. He was well-dressed, handsome, and fit, clearly doing something right to have made it to an expensive concert in a popular city. Yet his mind has been tainted by a creed that turned him into a predator. The preachers of this creed promise success and respect, yet in reality, they doom their adherents to be unfit for society, forcibly outcast from any loving community.
+I pity that young man. He was well-dressed, handsome, and fit, clearly doing _something_ right to have made it to an expensive concert in a popular city. Yet his mind has been tainted by a creed that turned him into a predator. The preachers of this creed promise success and respect, yet in reality, they doom their adherents to be unfit for society, forcibly outcast from any loving community.
 
 That young man walks the world as a predator, destined to be deprived of the love and respect he yearns for. He’ll likely gain some twisted semblance of a relationship; there are plenty of women out there who won’t recognize the warning signs. But it will be a relationship rooted in fear and manipulation, devoid of the warmth of love.
 
@@ -638,7 +638,7 @@ A Man Who Is Whole has created his own map to manhood. Often, he’s been blesse
 
 His passions lend themselves to goals, but after some trial and error, it becomes clear that obsessing over his personal goals doesn’t feel quite right. He needs to find some way to benefit his community through his goals.
 
-But what is his community exactly? He’s not sure, but he’s determined to find out. It’s not easy, and he screws up several times, burning and getting burned by various relationships. But eventually he manages to find a solid community, a real one with deep, emotional bonds and a mutual desire to provide love and support.
+But what _is_ his community exactly? He’s not sure, but he’s determined to find out. It’s not easy, and he screws up several times, burning and getting burned by various relationships. But eventually he manages to find a solid community, a real one with deep, emotional bonds and a mutual desire to provide love and support.
 
 His passion gives him motivation; his goals give him intention; his community gives him purpose. Combined, they provide a scaffolding for him to build himself into the best version of himself.
 
@@ -648,7 +648,7 @@ He knows how to be a man, because he knows how to be himself, and there is no do
 
 The map is his, and his alone, a hard-won victory personalized to his wants and needs. It should be celebrated and cherished, and whenever he gets the chance, shared with other young men who might benefit from its contents.
 
-#### Dating A Man Who Is Whole:  
+#### Dating A Man Who Is Whole:  
 
 Dating a Man Who Is Whole is a rare and precious experience. Their presence has a solidness that’s infinitely alluring and soothing, and it makes me want to nuzzle into their chest and listen to their heart, to marvel that such mundane biological pieces could somehow have produced such a magnetic presence.
 
@@ -683,7 +683,7 @@ There is so obviously a desperate desire for this type of conversation; the wild
 
 We need to give good, moral men the license to openly discuss their personal path to manhood in a positive light, and not be accused of being sexists who are “reinforcing the patriarchy.” Millions of young men are desperate for these discussions; our options are either to give them the most positive versions possible, or leave them to feed on the dangerous slop produced by the likes of the Tates.
 
-Importantly, when these discussions occur, there needs to be a focus on positivity. It can’t simply be a list of things you shouldn’t be. Don’t be lazy, don’t be violent, and don’t harass women are all vital lessons. But only hearing a list of “do nots” is a great way to make boys attach a feeling of shame to their gender and resentment toward those who preach those lessons.
+Importantly, when these discussions occur, there needs to be a focus on positivity. It can’t simply be a list of things you _shouldn’t_ be. Don’t be lazy, don’t be violent, and don’t harass women are all vital lessons. But only hearing a list of “do nots” is a great way to make boys attach a feeling of shame to their gender and resentment toward those who preach those lessons.
 
 Positivity needs to be woven into the core of the message; we need more “dos” than “do nots.” And those “dos” need to be specific and understandable.
 
@@ -704,12 +704,12 @@ Over and over again, a loud segment of society labels casual cruelty toward men 
 
 Being bigoted toward a group of people is destructive, immature, and harmful. Equality requires caring equally about all members of society. This is not a zero sum game, and that fact needs to be shouted to the heavens until all understand.
 
-Sexism matters, in all forms. It’s horrible, and no one deserves it, so let’s make it unacceptable behavior for anyone to display, regardless of their gender.
+Sexism matters, in all forms. It’s horrible, and no one deserves it, so let’s make it unacceptable behavior for _anyone_ to display, regardless of their gender.
 
 3.  ### Remind men of their worth.
     
 
-There’s a strange creed within much of polite society that insists men don’t need to be reminded of their worth, because they are privileged. In fact, some insist that reminding men of their worth might even make the privilege disparity worse.
+There’s a strange creed within much of polite society that insists men don’t need to be reminded of their worth, because they are privileged. In fact, some insist that reminding men of their worth might even make the privilege disparity _worse._
 
 This mentality is madness. There’s a raging epidemic of men who question their worth, and it’s leading to them spiraling into lostness and taking their own lives. It’s also causing an alarming uptick in men who despise women and polite society, believing that these people don’t believe they’re worth anything at all.
 
@@ -728,7 +728,7 @@ If we don’t, men will continue to turn to the manosphere and the alt-right for
 
 Refusing to listen to men’s issues, or insisting those issues don’t actually exist, also gives the alt-right an incredibly powerful recruitment tool: they can claim they’re the only ones “willing to speak the truth,” and have that highly alluring message be partially true.
 
-Many will protest that polite society is listening and men’s issues are being discussed. After all, polite society frequently discusses economic inequality, mental health resources, prison reform, and many other vital topics that have a massive impact on men’s issues. In fact, they discuss these things even more than the right!
+Many will protest that polite society _is_ listening and men’s issues _are_ being discussed. After all, polite society frequently discusses economic inequality, mental health resources, prison reform, and many other vital topics that have a massive impact on men’s issues. In fact, they discuss these things even more than the right!
 
 This isn’t enough. At all other times, polite society jumps on the opportunity to call out the issues facing specific demographics, and loudly insists on listening to the stories of these people. Paying close attention to specific demographics is better at conveying empathy, validating the concerns of impacted populations, and having more efficient and effective conversations.
 
@@ -739,7 +739,7 @@ This needs to stop. Polite society needs to get better at saying, “Men are hur
 5.  ### Openly acknowledge that men and women share some biological differences, and embrace the beauty of this diversity.
     
 
-Within polite society, there’s a strange insistence for men to be their true selves, yet a rejection of the idea that the average man could, perhaps, just maybe, be biologically programmed to act differently than the average woman, like all species closely related to us.
+Within polite society, there’s a strange insistence for men to be their true selves, yet a rejection of the idea that the average man could, perhaps, _just maybe_, be biologically programmed to act differently than the average woman, like all species closely related to us.
 
 Feminists encourage men to “reject social pressure” about manhood and “be their true selves.” Many seem to imagine that when social pressures vanish, traditionally masculine behaviors will melt away, leaving men with all the personality traits of the average woman.
 

@@ -7,7 +7,7 @@ contestName: 2023 Book Reviews
 year: 2023
 publishedDate: '2026-02-06T07:21:10.020Z'
 slug: a-thousand-brains-a-new-theory-of-intelligence
-wordCount: 4367
+wordCount: 4377
 readingTimeMinutes: 20
 originalUrl: >-
   https://docs.google.com/document/d/10CiEI7aDL2bMIdx7yayy3vlq0TJ8dO5LGnG7yIDPiw8
@@ -35,7 +35,7 @@ So next time you try to remember something about brain anatomy, just think “fr
 
 ![Old brain new brain](https://acximages.ennals.org/images/2023-book-reviews/7b78162a40419124.jpg)
 
-Source: [https://waitbutwhy.com/2017/04/neuralink.html](https://waitbutwhy.com/2017/04/neuralink.html)
+_Source:_ _[https://waitbutwhy.com/2017/04/neuralink.html](https://waitbutwhy.com/2017/04/neuralink.html)_
 
 The new brain (human) doesn’t have a direct connection to musculature, therefore it doesn’t control movement directly. If it wants you to do something it needs to signal to the old brain (monkey + frog). Sometimes the old brain listens and sometimes it doesn’t. For example, you can hold your breath (frog allowing human to control movement), but if you hold it for long enough the old brain takes over and just forces you to breathe (frog overruling human).
 
@@ -61,12 +61,12 @@ Here is a 3D reconstruction of five neighboring columns in a rat:
 
 ![](https://acximages.ennals.org/images/2023-book-reviews/0174a129f31b2b9b.jpg)
 
-Source: [Project AGI](http://blog.agi.io/2015/04/mini-macro-micro-and-hyper-columns.html), Credit: Marcel Oberlaender et al.
+_Source:_ _[Project AGI](http://blog.agi.io/2015/04/mini-macro-micro-and-hyper-columns.html)__, Credit: Marcel Oberlaender et al._
 
 I’m trying to give you multiple visual representations of a column here because it’s our main protagonist. In Hawkins's opinion, a column holds all the basic ingredients of intelligence within. The more columns, the more intelligence. If we buy that, the road to intelligence becomes quite straightforward:
 
-1.  Reverse engineer a cortical column.
-2.  Make lots of copies.
+> 1.  Reverse engineer a cortical column.
+> 2.  Make lots of copies.
 
 That’s it. You have built intelligence.
 
@@ -78,9 +78,9 @@ Hawkins never mentions Andy Clark or that there is a theory of predictive proces
 
 A quick summary:
 
-“The brain is a multi-layer prediction machine. All neural processing consists of two streams: a bottom-up stream of sense data, and a top-down stream of predictions. These streams interface at each level of processing, comparing themselves to each other and adjusting themselves as necessary.
+_“The brain is a multi-layer prediction machine. All neural processing consists of two streams: a bottom-up stream of sense data, and a top-down stream of predictions. These streams interface at each level of processing, comparing themselves to each other and adjusting themselves as necessary._
 
-The bottom-up stream starts out as all that incomprehensible light and darkness and noise that we need to process. It gradually moves up all the cognitive layers that we already knew existed – the edge-detectors that resolve it into edges, the object-detectors that shape the edges into solid objects, et cetera.
+_The bottom-up stream starts out as all that incomprehensible light and darkness and noise that we need to process. It gradually moves up all the cognitive layers that we already knew existed – the edge-detectors that resolve it into edges, the object-detectors that shape the edges into solid objects, et cetera._
 
 The top-down stream starts with everything you know about the world, all your best heuristics, all your priors, everything that’s ever happened to you before – everything from “solid objects can’t pass through one another” to “e=mc^2” to “that guy in the blue uniform is probably a policeman”. It uses its knowledge of concepts to make predictions – not in the form of verbal statements, but in the form of expected sense data. It makes some guesses about what you’re going to see, hear, and feel next, and asks “Like this?” These predictions gradually move down all the cognitive layers to generate lower-level predictions. If that uniformed guy was a policeman, how would that affect the various objects in the scene? Given the answer to that question, how would it affect the distribution of edges in the scene? Given the answer to that question, how would it affect the raw-sense data received?”
 
@@ -100,17 +100,17 @@ In predictive processing, movement is a kind of error minimization. Trying to re
 
 What we have so far.
 
-1.  Intelligence happens in the neocortex.
-2.  The neocortex is composed of 150,000 cortical columns.
-3.  A column is composed of 100,000 neurons.
-4.  Understanding the column is the key to understanding intelligence.
-5.  Columns are prediction machines.
+> 1.  Intelligence happens in the neocortex.
+> 2.  The neocortex is composed of 150,000 cortical columns.
+> 3.  A column is composed of 100,000 neurons.
+> 4.  Understanding the column is the key to understanding intelligence.
+> 5.  Columns are prediction machines.
 
 The next step is to figure out how columns make predictions. To do that, I have this intimidating-looking slide for you:
 
 ![](https://acximages.ennals.org/images/2023-book-reviews/872ce88157db5399.jpg)
 
-From a presentation that Jeff Hawkins gave at [the Simons Institute](https://www.youtube.com/watch?v=zVGQeFFjhEk&ab_channel=SimonsInstitute).
+_From a presentation that Jeff Hawkins gave at_ _[the Simons Institute](https://www.youtube.com/watch?v=zVGQeFFjhEk&ab_channel=SimonsInstitute)__._
 
 And sorry, I can’t comfort you by saying that it only looks scary, but in principle, it’s super simple. It just isn’t and there’s a lot going on. But what I can do is simplify it a bit and move through one layer at a time.
 
@@ -118,19 +118,19 @@ And sorry, I can’t comfort you by saying that it only looks scary, but in prin
 
 Here are the relevant questions:
 
-1.  How do neurons in L4 predict a sequence (like a melody)?
-2.  How do L4 and L2/3 work together to predict objects?
-3.  How does L6a supply location information to L4?
+> 1.  How do neurons in L4 predict a sequence (like a melody)?
+> 2.  How do L4 and L2/3 work together to predict objects?
+> 3.  How does L6a supply location information to L4?
 
 I’m not going to get into the fourth part on composite objects, because I don’t really understand what’s going on there.
 
-1: How do neurons in L4 predict a sequence?
+**1: How do neurons in L4 predict a sequence?**
 
 Is a single neuron already capable of prediction? Apparently yes! It does so with its distal synapses. A synapse is where a neuron gets inputs from another neuron. Only 10% of synapses are proximal (close enough to the cell body to activate the cell). 90% of the synapses are distal (too far away from the cell body to activate the cell).
 
 ![](https://acximages.ennals.org/images/2023-book-reviews/6b434ccd3b766c06.jpg)
 
-Source: I combined two images from A Thousand Brains: A New Theory of Intelligence, Hawkins, Jeff.
+_Source: I combined two images from A Thousand Brains: A New Theory of Intelligence, Hawkins, Jeff._
 
 What is up with those distal synapses? They don’t activate the cell, so why do they even exist? We didn’t know until Jeff Hawkins and Subutai Ahmad came up with a theory in 2016: [Why Neurons Have Thousands of Synapses, a Theory of Sequence Memory in Neocortex](https://www.frontiersin.org/articles/10.3389/fncir.2016.00023/full).
 
@@ -142,7 +142,7 @@ This is easier experienced than explained. Read this:
 
 You should be able to hear “brainstorm” in this audio:
 
-[PLAY AUDIO](https://substackcdn.com/video_upload/post/76084661/b32d0b65-caa7-4502-ac11-0d18ab50fef2/transcoded.mp3?post_id=76084661&relation=embed&Expires=1677839834&Key-Pair-Id=APKAIVDA3NPSMPSPESQQ&Signature=Sb8NSnn-vKDdCX97ywLJr6ZRo9cIcl7J-SDV09e0COqsnNG21IhLVp0ec17EIM36pda3uEThZ3n-5NVfbWBHbrF2PTRkr857KRmxiFOnSc~uzL8N-w5wkOIHnN8FPOeSVxfYG~iBSChkStsFdmtT~2ZqDWLo3--M0GfzkvqSl~oTRtkAjwLez74Ni4HrbKQ3l0nmrjC42vcIAmj-3r1yPtaTtcalPTrDmLugCfOG1iuHQs5tX6K0R85svpuwbYjiwqafjATR1010hO6ALtLEcG9CV2sfHKFxALPQOzZXlLl4DtiX-nmeKRqklskkwuCRfD5vnEe24wL1Z5bLkDkjsw__)
+**[PLAY AUDIO](https://substackcdn.com/video_upload/post/76084661/b32d0b65-caa7-4502-ac11-0d18ab50fef2/transcoded.mp3?post_id=76084661&relation=embed&Expires=1677839834&Key-Pair-Id=APKAIVDA3NPSMPSPESQQ&Signature=Sb8NSnn-vKDdCX97ywLJr6ZRo9cIcl7J-SDV09e0COqsnNG21IhLVp0ec17EIM36pda3uEThZ3n-5NVfbWBHbrF2PTRkr857KRmxiFOnSc~uzL8N-w5wkOIHnN8FPOeSVxfYG~iBSChkStsFdmtT~2ZqDWLo3--M0GfzkvqSl~oTRtkAjwLez74Ni4HrbKQ3l0nmrjC42vcIAmj-3r1yPtaTtcalPTrDmLugCfOG1iuHQs5tX6K0R85svpuwbYjiwqafjATR1010hO6ALtLEcG9CV2sfHKFxALPQOzZXlLl4DtiX-nmeKRqklskkwuCRfD5vnEe24wL1Z5bLkDkjsw__)**
 
 Let’s try another:
 
@@ -150,7 +150,7 @@ Let’s try another:
 
 Now try to hear “green needle” in this one.
 
-[PLAY AUDIO](https://substackcdn.com/video_upload/post/76084661/b32d0b65-caa7-4502-ac11-0d18ab50fef2/transcoded.mp3?post_id=76084661&relation=embed&Expires=1677839834&Key-Pair-Id=APKAIVDA3NPSMPSPESQQ&Signature=Sb8NSnn-vKDdCX97ywLJr6ZRo9cIcl7J-SDV09e0COqsnNG21IhLVp0ec17EIM36pda3uEThZ3n-5NVfbWBHbrF2PTRkr857KRmxiFOnSc~uzL8N-w5wkOIHnN8FPOeSVxfYG~iBSChkStsFdmtT~2ZqDWLo3--M0GfzkvqSl~oTRtkAjwLez74Ni4HrbKQ3l0nmrjC42vcIAmj-3r1yPtaTtcalPTrDmLugCfOG1iuHQs5tX6K0R85svpuwbYjiwqafjATR1010hO6ALtLEcG9CV2sfHKFxALPQOzZXlLl4DtiX-nmeKRqklskkwuCRfD5vnEe24wL1Z5bLkDkjsw__)
+**[PLAY AUDIO](https://substackcdn.com/video_upload/post/76084661/b32d0b65-caa7-4502-ac11-0d18ab50fef2/transcoded.mp3?post_id=76084661&relation=embed&Expires=1677839834&Key-Pair-Id=APKAIVDA3NPSMPSPESQQ&Signature=Sb8NSnn-vKDdCX97ywLJr6ZRo9cIcl7J-SDV09e0COqsnNG21IhLVp0ec17EIM36pda3uEThZ3n-5NVfbWBHbrF2PTRkr857KRmxiFOnSc~uzL8N-w5wkOIHnN8FPOeSVxfYG~iBSChkStsFdmtT~2ZqDWLo3--M0GfzkvqSl~oTRtkAjwLez74Ni4HrbKQ3l0nmrjC42vcIAmj-3r1yPtaTtcalPTrDmLugCfOG1iuHQs5tX6K0R85svpuwbYjiwqafjATR1010hO6ALtLEcG9CV2sfHKFxALPQOzZXlLl4DtiX-nmeKRqklskkwuCRfD5vnEe24wL1Z5bLkDkjsw__)**
 
 Here’s the catch: It is the same audio file both times. It doesn’t matter which audio you play. You will hear either “green needle” or “brainstorm” depending on what you expect to hear. When you expect to hear brainstorm, your “brainstorm-neurons” are in a predictive state and therefore more ready to fire than the other neurons. They will fire first and inhibit your “green-needle-neurons”. (If this didn’t work for you, I’m sorry. Some people hear only one of the words and can’t imagine it saying anything else.)
 
@@ -162,23 +162,23 @@ The answer depends on your expectations, which is to say the state of your neuro
 
 The audio examples and the train are not from the book. But they illustrate the concept well and, as far as I understand it, they are a good representation of the underlying concept.
 
-2: How do L4 and L2/3 work together to predict objects?
+**2: How do L4 and L2/3 work together to predict objects?**
 
 It goes like this:
 
 ![](https://acximages.ennals.org/images/2023-book-reviews/bb52bac2867aaae9.gif)
 
-Source: [A Theory of How Columns in the Neocortex Enable Learning the Structure of the World](https://www.frontiersin.org/articles/10.3389/fncir.2017.00081/full).
+_Source:_ _[A Theory of How Columns in the Neocortex Enable Learning the Structure of the World](https://www.frontiersin.org/articles/10.3389/fncir.2017.00081/full)__._
 
 The “Input” is Layer 4 and the “Output” is Layer 2/3, inside the same column.
 
-“As the finger moves toward the first point a location signal is generated representing where it’s going to touch the cup. The location signal depolarizes the set of cells whose distal dendritic segments match this location. This represents a prediction of the feature that will be sensed. When the finger touches the first spot the sensory input activates a set of mini-columns in the input layer. Cells in these mini columns that were also predicted by the location signal become active. These cells are shown in pink.
+_“As the finger moves toward the first point a location signal is generated representing where it’s going to touch the cup. The location signal depolarizes the set of cells whose distal dendritic segments match this location. This represents a prediction of the feature that will be sensed. When the finger touches the first spot the sensory input activates a set of mini-columns in the input layer. Cells in these mini columns that were also predicted by the location signal become active. These cells are shown in pink._
 
-This propagates to the output layer and invokes a union of the cells representing all objects which contain this feature at this location. In this case, a cup, ball, and can. What’s happening here is the system is thinking, “based on this sensory feature at this location… what could the object be”?
+_This propagates to the output layer and invokes a union of the cells representing all objects which contain this feature at this location. In this case, a cup, ball, and can. What’s happening here is the system is thinking, “based on this sensory feature at this location… what could the object be”?_
 
-With this single touch, the system can eliminate many possibilities but cannot disambiguate between these three objects.”
+_With this single touch, the system can eliminate many possibilities but cannot disambiguate between these three objects.”_
 
-Source: [A Theory of How Columns in the Neocortex Enable Learning the Structure of the World](https://www.frontiersin.org/articles/10.3389/fncir.2017.00081/full).
+_Source:_ _[A Theory of How Columns in the Neocortex Enable Learning the Structure of the World](https://www.frontiersin.org/articles/10.3389/fncir.2017.00081/full)__._
 
 Notice that while the input layer changes over time, the output remains stable. This fits our experience. You get many different visual inputs every second. Your eyes move, your head moves, you blink… How come you’re not constantly rediscovering where you are? The answer is in the output layer. My output layer right now says “We’re in the office” and it’s stable. My input layer however goes: "That’s a desk. That’s a window. That’s our coffee cup.” It’s pretty crazy in there. And yet, I don’t have to rediscover where I am all the time, because all these inputs don’t refute what has already been predicted in the output layer, which is “We’re in the office.”
 
@@ -186,11 +186,11 @@ Predictions don’t have to come in one by one. You can get multiple inputs into
 
 ![](https://acximages.ennals.org/images/2023-book-reviews/7f722b1baf1e9abf.jpg)
 
-3: How does L6a supply location information to L4?
+**3: How does L6a supply location information to L4?**
 
 In the example above, we assumed that L6a knows the location of things. But how exactly does it do that? The answer is reference frames. A reference frame is a grid that is attached to the object you’re trying to recognize. Much like in a 3D modeling program. You flip the thing and the reference frame flips with it. The fact that neurons could hold something as sophisticated as a 3D reference frame is already crazy, but it gets crazier. You don’t just have to know the location of the cup, you have to know the location of each finger relative to it. So not only is there a reference frame attached to the object, but there is a reference frame for each finger that is touching the cup. We’re talking about a reference frame for every single finger. Maybe even for every patch of skin:
 
-“Patches of retina are analogous to patches of skin. Each patch of your retina sees only a small part of an entire object, in the same way that each patch of your skin touches only a small part of an object. The brain doesn’t process a picture; it starts with a picture on the back of the eye but then breaks it up into hundreds of pieces. It then assigns each piece to a location relative to the object being observed.”
+_“Patches of retina are analogous to patches of skin. Each patch of your retina sees only a small part of an entire object, in the same way that each patch of your skin touches only a small part of an object. The brain doesn’t process a picture; it starts with a picture on the back of the eye but then breaks it up into hundreds of pieces. It then assigns each piece to a location relative to the object being observed.”_
 
 Hawkins, Jeff. A Thousand Brains: A New Theory of Intelligence (p. 50).
 
@@ -200,13 +200,13 @@ A coffee cup is a thing because it has a reference frame attached to it. Why is 
 
 Could you attach some object to the reference frame of SELF? Sure thing! The famous rubber hand illusion relies on it. Here’s a taste
 
-[Twitter Link: Body transfer illusion is the illusion of owning a part of a body other than one's own.](https://twitter.com/Rainmaker1973/status/1566041361840734214?s=20&t=Dx0g0NJZUFBmHT75vG1Rug)
+**[Twitter Link: Body transfer illusion is the illusion of owning a part of a body other than one's own.](https://twitter.com/Rainmaker1973/status/1566041361840734214?s=20&t=Dx0g0NJZUFBmHT75vG1Rug)**
 
 ## The brain constructs reference frames using grid cells and place cells.
 
 Ok, locations are represented by reference frames. How do neurons construct these reference frames? In order to answer that we’ll have to look at how location is represented in the old brain.
 
-Maps in the OLD brain (epistemic status: confident).
+**Maps in the OLD brain (epistemic status: confident).**
 
 The old brain knows where you are relative to your environment. The cells that represent a space are called grid cells. And the cells that represent your location in that space are called place cells.
 
@@ -214,7 +214,7 @@ If I understand it correctly, it goes something like this:
 
 ![](https://acximages.ennals.org/images/2023-book-reviews/f8828a5685863524.png)
 
-Some very interesting experiments by [John O’Keefe, May-Britt Moser, and Edvard Moser](https://www.nobelprize.org/prizes/medicine/2014/press-release/) show how this grid is built in the brain (they won a Nobel Prize for it).
+Some very interesting experiments by [John O’Keefe, May-Britt Moser, and Edvard Moser](https://www.nobelprize.org/prizes/medicine/2014/press-release/) show how this grid is built in the brain (they won a Nobel Prize for it).
 
 ![](https://acximages.ennals.org/images/2023-book-reviews/e3570a89d01de279.gif)
 
@@ -232,13 +232,13 @@ Grid cells create a grid for any room that you are in. And then the place cells 
 
 ![](https://acximages.ennals.org/images/2023-book-reviews/2a111b106e1ff74c.jpg)
 
-Maps in the NEW brain (epistemic status: conjecture).
+**Maps in the NEW brain (epistemic status: conjecture).**
 
 All this grid-cell-place-cell-stuff… we didn’t find it in the neocortex. We found it in the old brain (specifically in the hippocampus and entorhinal cortex). Hawkins’s suggestion here is that a very similar mechanism takes place in the new brain.
 
-“It is as if nature stripped down the hippocampus and entorhinal cortex to a minimal form, made tens of thousands of copies, and arranged them side by side in cortical columns. That became the neocortex.”
+_“It is as if nature stripped down the hippocampus and entorhinal cortex to a minimal form, made tens of thousands of copies, and arranged them side by side in cortical columns. That became the neocortex.”_
 
-Hawkins, Jeff. A Thousand Brains: A New Theory of Intelligence (p. 62)
+_Hawkins, Jeff. A Thousand Brains: A New Theory of Intelligence (p. 62)_
 
 The old brain tracks mostly the location of one thing - the body. The new brain seems to track the location of thousands of things, including concepts.
 
@@ -256,7 +256,7 @@ This is what happens when you touch a cup and recognize it. Each finger is like 
 
 Here’s Hawkins summarizing it:
 
-“If all knowledge is stored this way, then what we commonly call thinking is actually moving through a space, through a reference frame. Your current thought, the thing that is in your head at any moment, is determined by the current location in the reference frame. As the location changes, the items stored at each location are recalled one at a time. Our thoughts are continually changing, but they are not random. What we think next depends on which direction we mentally move through a reference frame, in the same way that what we see next in a town depends on which direction we move from our current location.”
+_“If all knowledge is stored this way, then what we commonly call thinking is actually moving through a space, through a reference frame. Your current thought, the thing that is in your head at any moment, is determined by the current location in the reference frame. As the location changes, the items stored at each location are recalled one at a time. Our thoughts are continually changing, but they are not random. What we think next depends on which direction we mentally move through a reference frame, in the same way that what we see next in a town depends on which direction we move from our current location.”_
 
 Hawkins, Jeff. A Thousand Brains: A New Theory of Intelligence (p. 80).
 
@@ -264,15 +264,15 @@ Hawkins, Jeff. A Thousand Brains: A New Theory of Intelligence (p. 80).
 
 The point has already been made, but here it is explicitly: Thinking is a type of movement. And the space that we think in, is constructed by the cortical columns, using a grid-cell-type mechanism, which Hawkins calls the reference frame.
 
-“We use this trick for much of what we know. For example, we know a lot about photons, and we have knowledge about concepts such as democracy, human rights, and mathematics. We know many facts about these concepts, but we are unable to organize these facts in a way that resembles a three-dimensional object. You can’t easily make an image of democracy. But there must be some form of organization to conceptual knowledge. Concepts such as democracy and mathematics are not just a pile of facts. We are able to reason about them and make predictions about what will happen if we act one way or another.
+_“We use this trick for much of what we know. For example, we know a lot about photons, and we have knowledge about concepts such as democracy, human rights, and mathematics. We know many facts about these concepts, but we are unable to organize these facts in a way that resembles a three-dimensional object. You can’t easily make an image of democracy. But there must be some form of organization to conceptual knowledge. Concepts such as democracy and mathematics are not just a pile of facts. We are able to reason about them and make predictions about what will happen if we act one way or another._
 
-Our ability to do this tells us that knowledge of concepts must also be stored in reference frames. But these reference frames may not be easily equated to the reference frames we use for coffee cups and other physical objects. For example, it is possible that the reference frames that are most useful for certain concepts have more than three dimensions. We are not able to visualize spaces with more than three dimensions, but from a mathematical point of view they work the same way as spaces with three or fewer dimensions.
+_Our ability to do this tells us that knowledge of concepts must also be stored in reference frames. But these reference frames may not be easily equated to the reference frames we use for coffee cups and other physical objects. For example, it is possible that the reference frames that are most useful for certain concepts have more than three dimensions. We are not able to visualize spaces with more than three dimensions, but from a mathematical point of view they work the same way as spaces with three or fewer dimensions._
 
-[…]
+_[…]_
 
-The succession of thoughts that we experience when thinking is analogous to the succession of sensations we experience when touching an object with a finger, or the succession of things we see when we walk about a town.”
+_The succession of thoughts that we experience when thinking is analogous to the succession of sensations we experience when touching an object with a finger, or the succession of things we see when we walk about a town.”_
 
-Hawkins, Jeff. A Thousand Brains: A New Theory of Intelligence.
+_Hawkins, Jeff. A Thousand Brains: A New Theory of Intelligence._
 
 Of course, reality is not as clear-cut as these examples. Most of it is unconscious. And the dimensions by which you store the knowledge are messy and highly individual. Cortical columns don’t have a preconceived notion of what reference frame they should use. A big part of learning is the column figuring out which reference frames work best for any given piece of knowledge.
 
@@ -286,7 +286,7 @@ On the other hand, not every column knows every object. Simulations suggest that
 
 Just by the way: if you do the stupid math, these numbers would suggest that I can only recognize 15k objects total: 100 objects per column x 150k columns / 1000 columns per object = 15k objects. Seems low. Is this too naive a calculation? There’s probably something I’m doing wrong here.
 
-The binding problem.
+**The binding problem.**
 
 Ok, we have a thousand columns that recognize a single object… why then does an object still feel like just one object and not a thousand objects? The answer to that is not clear, but the theory suggests that columns reach a consensus by voting.
 
@@ -300,4 +300,4 @@ There’s much more to the theory than I could cover. In fact, I limited this re
 
 If this type of thing interests you, I encourage you to read the [thousand brains theory of intelligence](https://numenta.com/a-thousand-brains-by-jeff-hawkins). It’s an excellent book with many examples and good explanations. It’s written for a wide audience and is easy to understand. I highly recommend it. [And so does Bill Gates](https://www.gatesnotes.com/About-Bill-Gates/Holiday-Books-2021).
 
-Thank you to Andrei Albu and Lukas Schott for reading drafts on this.
+**Thank you** to Andrei Albu and Lukas Schott for reading drafts on this.

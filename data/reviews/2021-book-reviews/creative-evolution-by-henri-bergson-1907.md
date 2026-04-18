@@ -39,17 +39,17 @@ For life, we can't separate out a simple system because things have identity. An
 
 Next is a description of various contemporary (1907) models of evolution:
 
- - Darwinism - mechanistic - accumulations of random variations - negative selective pressure - gradual, infinitesimally small changes.
+ - Darwinism - mechanistic - accumulations of random variations - negative selective pressure - gradual, infinitesimally small changes.
 
- - Punctuated equilibrium - similar to Darwinism - large, abrupt changes.
+ - Punctuated equilibrium - similar to Darwinism - large, abrupt changes.
 
- - Lamarckism - certain organs are strengthened or weakened by use or disuse - these changes are inherited.
+ - Lamarckism - certain organs are strengthened or weakened by use or disuse - these changes are inherited.
 
- - External environment - imposes its form on the creatures.
+ - External environment - imposes its form on the creatures.
 
- - Teleology - biology has an end goal - all life is one.
+ - Teleology - biology has an end goal - all life is one.
 
- - Bergson's own view - original impetus of all life - elan vital (more on this later).
+ - Bergson's own view - original impetus of all life - elan vital (more on this later).
 
 I had previously had a much simpler view of the contending theories.
 

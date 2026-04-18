@@ -7,7 +7,7 @@ contestName: 2025 Non Book Reviews
 year: 2025
 publishedDate: '2026-02-06T16:52:48.892Z'
 slug: einsteins-world-view-review
-wordCount: 3862
+wordCount: 3887
 readingTimeMinutes: 18
 originalUrl: >-
   https://docs.google.com/document/d/1d0vRSj1E93joWWvbUen2XGuDjN_mM94ybMIAADzM2fo
@@ -19,19 +19,19 @@ tags:
 
 ## Why Einstein?
 
-Einstein might be the world's most famous scientist, but his thoughts about topics outside physics don’t get as much recognition as they deserve in my view. Einstein wrote quite extensively about the issues of his day and, as I hope to show, those writings are interesting in their own right. The period between 1905 when Einstein, at the age of 26, first came to global fame after making numerous scientific discoveries in  what’s been termed his “miracle year”, and his death in 1955 is perhaps the most eventful 50-year period ever in history, encompassing events such as:
+Einstein might be the world's most famous scientist, but his thoughts about topics outside physics don’t get as much recognition as they deserve in my view. Einstein wrote quite extensively about the issues of his day and, as I hope to show, those writings are interesting in their own right. The period between 1905 when Einstein, at the age of 26, first came to global fame after making numerous scientific discoveries in  what’s been termed his “miracle year”, and his death in 1955 is perhaps the most eventful 50-year period ever in history, encompassing events such as:
 
-*   WW1 and WW2
-*   The adoption of mass public education in the West
-*   The Great Depression
-*   The founding of Israel as a state
-*   The rise of the Nazi party
-*   The Russian Revolution and the establishment of the USSR
-*   The Holocaust
-*   The development of nuclear weapons and the MAD doctrine
-*   The start of the Cold War
-*   Mass adoption of radios, television, and the advent of mass media
-*   Rapid scientific and technological advances
+> *   WW1 and WW2
+> *   The adoption of mass public education in the West
+> *   The Great Depression
+> *   The founding of Israel as a state
+> *   The rise of the Nazi party
+> *   The Russian Revolution and the establishment of the USSR
+> *   The Holocaust
+> *   The development of nuclear weapons and the MAD doctrine
+> *   The start of the Cold War
+> *   Mass adoption of radios, television, and the advent of mass media
+> *   Rapid scientific and technological advances
 
 Einstein commented on these events with a rare clarity and scope of thought, and was even personally involved in several of them. His thoughts are certainly of historical interest and many still hold relevance to contemporary issues. At the very least they’re a worthwhile glimpse into the broader worldview of arguably history’s greatest mind.
 
@@ -39,11 +39,11 @@ Broadly Einstein held progressive attitudes; advocating pacifism, global coopera
 
 I’d like to cover the details of his views in five main subject areas, evaluate how coherent his reasoning was and comment on how his vision for the world has held up from a modern perspective.
 
-## School and Academia  
+## School and Academia  
 
-If anyone was ever qualified to have an opinion on the best way to foster intellectual development, it must be Einstein, and his opinion of the approach taken by the mainstream education system of his time was very dim. Einstein was critical of the autocratic nature of schools and the lack of freedom they imposed on students, as well as the over-emphasis on rote learning. He advocated for self-directed learning guided by curiosity, which he considered formal education an impediment to: "It is a miracle that curiosity survives formal education."
+If anyone was ever qualified to have an opinion on the best way to foster intellectual development, it must be Einstein, and his opinion of the approach taken by the mainstream education system of his time was very dim. Einstein was critical of the autocratic nature of schools and the lack of freedom they imposed on students, as well as the over-emphasis on rote learning. He advocated for self-directed learning guided by curiosity, which he considered formal education an impediment to: "_It is a miracle that curiosity survives formal education._"
 
-Einstein was also very wary of groupthink and received dogma: "A foolish faith in authority is the worst enemy of truth."
+Einstein was also very wary of groupthink and received dogma: "_A foolish faith in authority is the worst enemy of truth._"
 
 He considered academia to have a similar tendency to stifle originality, independence of thought, and creativity. He thought social fashions, credentialization, formal hierarchies, and the intrusion of money, prestige, and other external social forces to be negative influences on personal intellectual development—going so far as to suggest that prospective scientists should isolate themselves from mainstream society and study in solitary occupations such as being a lighthouse keeper.
 
@@ -59,17 +59,17 @@ Modern schools and academia are still very much formalized institutions, and the
 
 Having spent a fair amount of time studying Einstein’s ideas in my physics degree, one thing that I don’t think was ever mentioned, but that is very prominent in his writings, is that Einstein and many of the other great physicists of the era were Jewish, often knew each other personally, and related to each other as Jews.
 
-Einstein took pride in being Jewish describing the features of Jewish tradition he particularly admired as "The pursuit of knowledge for its own sake, an almost fanatical love of justice, and the desire for personal independence." That affinity only grew after persecution of Jews heightened in Germany, he said: "My relationship to the Jewish people has become my strongest human bond, ever since I became fully aware of our precarious position among the nations of the world.” And on his travels often preferred to stay with local Jewish enclaves.
+Einstein took pride in being Jewish describing the features of Jewish tradition he particularly admired as _"The pursuit of knowledge for its own sake, an almost fanatical love of justice, and the desire for personal independence."_ That affinity only grew after persecution of Jews heightened in Germany, he said: _"My relationship to the Jewish people has become my strongest human bond, ever since I became fully aware of our precarious position among the nations of the world.”_ And on his travels often preferred to stay with local Jewish enclaves.
 
-He supported creating a Jewish homeland to escape persecution but also to preserve Jewish identity, which he saw as “rooted in a common historical tradition, in a common cultural possession." 
+He supported creating a Jewish homeland to escape persecution but also to preserve Jewish identity, which he saw _as “rooted in a common historical tradition, in a common cultural possession."_ 
 
-He traveled to Palestine to show support for Zionism.  On visiting Tel Aviv he complemented the city’s economic and intellectual life, attributing it to “What an incredibly lively people our Jews are!”
+He traveled to Palestine to show support for Zionism.  On visiting Tel Aviv he complemented the city’s economic and intellectual life, attributing it to “_What an incredibly lively people our Jews are!_”
 
 Before the establishment of Israel as a state a wide spectrum of Zionist thought existed with different visions of what Israel should be.
 
 The specific branch of Zionism, cultural Zionism, that Einstein supported was on the left of that spectrum, and envisioned a future Israel that acted only as a secular hub for sustaining Jewish culture and the Hebrew language that might be lost among international Jews who integrated into gentile societies. It also envisioned an Israel that wasn’t its own state but that could provide a refuge for persecuted Jews around the world, as well as advocating cooperation and cohabitation with Arabs.
 
-Einstein rejected aspirations of constructing Israel as the kind of state it has become "with borders, an army, and a measure of temporal power" and opposed plans for mass resettlement of Jews in Arab lands.
+Einstein rejected aspirations of constructing Israel as the kind of state it has become "_with borders, an army, and a measure of temporal power_" and opposed plans for mass resettlement of Jews in Arab lands.
 
 After Israel was established as a state Einstein did continue to support it, and was even offered the presidency, but was critical of Israeli nationalism and militarism as well as the treatment of Palestinians.
 
@@ -87,23 +87,23 @@ Overall I think Einstein's stance on Zionism was more reasonable than principled
 
 ## Cosmopolitanism
 
-Einstein held a life-long opposition to nationalism, describing it as an “infantile disease.” Early in life he disliked the jingoism of the German education system, and understandably felt alienated by German nationalism as a Jew. After the world wars his opposition to nationalism only strengthened as he considered it to have been a cause of the conflicts. A view that complemented his pacifism.
+Einstein held a life-long opposition to nationalism, describing it as an “_infantile disease._” Early in life he disliked the jingoism of the German education system, and understandably felt alienated by German nationalism as a Jew. After the world wars his opposition to nationalism only strengthened as he considered it to have been a cause of the conflicts. A view that complemented his pacifism.
 
 His attitudes towards ethnicity were perhaps more changeable over his life. His writings from before WW2, have been described as xenophobic and are maybe more open to the possibility of innate racial traits.
 
 In 1922 Einstein embarked on a half-year voyage to give scientific lectures and meet with public figures around the world. He visited China, Japan, India, Palestine and Spain, and kept diaries detailing his perceptions of the local cultures.
 
-Concerning poverty in China he commented that the Chinese were being “punished for their fecundity” referring to overpopulation, but also that “Even those reduced to working like horses never give the impression of conscious suffering.” He was also concerned that the Chinese might come to “supplant every other nation through their diligence, frugality, and abundance of offspring”, a possibility he considered “unspeakably dreary” because the Chinese were more spiritless than other races, “a peculiar hard-like nation.”
+Concerning poverty in China he commented that the Chinese were being _“punished for their fecundity_” referring to overpopulation, but also that “_Even those reduced to working like horses never give the impression of conscious suffering.”_ He was also concerned that the Chinese might come to “_supplant every other nation through their diligence, frugality, and abundance of offspring_”, a possibility he considered “_unspeakably dreary_” because the Chinese were more spiritless than other races, _“a peculiar hard-like nation.”_
 
-Later in life he was more clearly opposed to racism. After moving to America, following the Nazi’s rise to power in Germany in 1933, he gave public speeches and wrote several articles denouncing segregation, describing himself as “strongly against this injustice to the colored people.”
+Later in life he was more clearly opposed to racism. After moving to America, following the Nazi’s rise to power in Germany in 1933, he gave public speeches and wrote several articles denouncing segregation, describing himself as “_strongly against this injustice to the colored people.”_
 
 He summarized the arguments of segregationist as:
 
-““Our attitude towards Negroes is the result of unfavorable experiences which we have had by living side by side with Negroes in this country. They are not our equals in intelligence, sense of responsibility, reliability.””
+“_“Our attitude towards Negroes is the result of unfavorable experiences which we have had by living side by side with Negroes in this country. They are not our equals in intelligence, sense of responsibility, reliability._””
 
-And responded that their “ancestors dragged these black people from their homes by force; and in the white man’s quest for wealth and an easy life they have been ruthlessly suppressed and exploited, degraded into slavery. The modern prejudice against Negroes is the result of the desire to maintain this unworthy condition.”
+And responded that their “_ancestors dragged these black people from their homes by force; and in the white man’s quest for wealth and an easy life they have been ruthlessly suppressed and exploited, degraded into slavery. The modern prejudice against Negroes is the result of the desire to maintain this unworthy condition.”_
 
-And that the Classical Greeks held similar prejudices against their white slaves, and also that racial prejudice was “conditioned by opinions and emotions which we unconsciously absorb as children from our environment.”
+And that the Classical Greeks held similar prejudices against their white slaves, and also that racial prejudice was “_conditioned by opinions and emotions which we unconsciously absorb as children from our environment.”_
 
 Later in life, particularly after WW2 and the Holocaust, Einstein consciously rejected arguments based on innate racial traits that he might have entertained earlier in his life.
 
@@ -111,13 +111,13 @@ This might be the issue where Einstein's views were most in accord with what has
 
 ## Nuclear Weapons
 
-“The unleashed power of the atom has changed everything save our modes of thinking, and thus we drift toward unparalleled catastrophe.”
+_“The unleashed power of the atom has changed everything save our modes of thinking, and thus we drift toward unparalleled catastrophe.”_
 
 Nuclear weapons appear to have been among the issues Einstein cared most about, perhaps only second to the Nazi persecution of Jews, going so far as to advocate a world government to prevent conflict between nuclear-armed nations.
 
 He opposed building nuclear weapons in almost every instance when many other physicists, such as Von Neuman, and the political establishment in the US favoured their construction to further political aims, even when Einstein might have been sympathetic to those aims.
 
-Einstein did of course sign the famous Einstein–Szilárd Letter urging the US to develop nuclear weapons before Nazi Germany could, but later regretted signing it after it transpired that the Nazis were not close to developing their own weapons, stating that “Had I known that the Germans would not succeed in producing an atomic bomb, I would never have lifted a finger.”
+Einstein did of course sign the famous Einstein–Szilárd Letter urging the US to develop nuclear weapons before Nazi Germany could, but later regretted signing it after it transpired that the Nazis were not close to developing their own weapons, stating that “_Had I known that the Germans would not succeed in producing an atomic bomb, I would never have lifted a finger._”
 
 It has been argued that because Einstein countenanced building nuclear weapons in WW2 that his later opposition to American developments of nuclear weapons in the early Cold War, and he was even accused of Soviet sympathies.
 
@@ -135,27 +135,27 @@ But ultimately, with any issue of existential importance I don’t think any vie
 
 ## Socialism
 
-The central divide in socialist thought in the first half of the 20th century was between forms of socialism that were more tolerant of autocracy and more sympathetic to the USSR and forms that were more liberal and more democratic. Einstein came down strongly on the liberal democratic side of the debate and favoured incremental reform over revolution, implicitly preferring to retain much of the existing social framework of liberal capitalist society. In that sense he was not as radically anti-capitalist as some other intellectuals of the time, such as Sartre, who openly favoured the USSR over the West. But Einstein still held views that placed him firmly on the left of the political spectrum.  
+The central divide in socialist thought in the first half of the 20th century was between forms of socialism that were more tolerant of autocracy and more sympathetic to the USSR and forms that were more liberal and more democratic. Einstein came down strongly on the liberal democratic side of the debate and favoured incremental reform over revolution, implicitly preferring to retain much of the existing social framework of liberal capitalist society. In that sense he was not as radically anti-capitalist as some other intellectuals of the time, such as Sartre, who openly favoured the USSR over the West. But Einstein still held views that placed him firmly on the left of the political spectrum.  
 
-In the essay Why Socialism he lists his main objections to the then-existing capitalist economy as:
+In the essay _Why Socialism_ he lists his main objections to the then-existing capitalist economy as:
 
-*   Capitalism allowed income to be gained through the ownership of property, that income could in turn be reinvested into acquiring more property leading to an even larger stream of income which could be invested into yet more property. That feedback loop allowed established capitalists to expand their portfolio over time without limit, and the capitalist class as a whole to appropriate an ever expanding proportion of national wealth and income. Without sufficient redistribution Einstein suspected that such a run-away feedback loop would eventually reduce the share of national income of workers to the lowest possible level, the level of subsistence wages he had witnessed among peasants in China and India.
-
-*   He feared capitalism limited intellectual freedom and prevented honest discussion of alternative systems because capitalists inevitably come to control, directly or indirectly, the main sources of information including the press, radio and the education system, making it “extremely difficult [...] for the individual citizen to come to objective conclusions and to make intelligent use of his political rights.” He also insinuates that academic economics was under some degree of influence by capital and likened economists to priests of the medieval church who “made the class division of society into a permanent institution and created a system of values by which the people were thenceforth, to a large extent unconsciously, guided in their social behavior.”  
-
-*   Capitalists might come to directly influence or control political parties themselves.
-
-*   Capitalist economies are anarchic and uncoordinated leading to inefficiency and waste lowering growth.
-
-*   Capitalism eroded social trust and bonds. Einstein thought that individuals are necessarily dependent on the wider community and the division of labour to provide their economic means because no single person can run an industrialized economy alone, but that capitalism attempted to obscure this fact by providing an illusory form of individualism and caused people to view this dependency as a threat to their individual rights and prosperity rather than an “organic tie”, or as a “protective force”, which he considers a healthier, more pro-social and more accurate view of the individual's place in large-scale industrial society. Einstein described capitalism as part of the “predatory stage” of civilization and thought that for a man who lives by competition in the market the “egotistical drives of his make-up are constantly being accentuated, while his social drives, which are by nature weaker, progressively deteriorate.”
+> *   Capitalism allowed income to be gained through the ownership of property, that income could in turn be reinvested into acquiring more property leading to an even larger stream of income which could be invested into yet more property. That feedback loop allowed established capitalists to expand their portfolio over time without limit, and the capitalist class as a whole to appropriate an ever expanding proportion of national wealth and income. Without sufficient redistribution Einstein suspected that such a run-away feedback loop would eventually reduce the share of national income of workers to the lowest possible level, the level of subsistence wages he had witnessed among peasants in China and India.
+>
+> *   He feared capitalism limited intellectual freedom and prevented honest discussion of alternative systems because capitalists inevitably come to control, directly or indirectly, the main sources of information including the press, radio and the education system, making it “_extremely difficult [...] for the individual citizen to come to objective conclusions and to make intelligent use of his political rights._” He also insinuates that academic economics was under some degree of influence by capital and likened economists to priests of the medieval church who “_made the class division of society into a permanent institution and created a system of values by which the people were thenceforth, to a large extent unconsciously, guided in their social behavior._”  
+>
+> *   Capitalists might come to directly influence or control political parties themselves.
+>
+> *   Capitalist economies are anarchic and uncoordinated leading to inefficiency and waste lowering growth.
+>
+> *   Capitalism eroded social trust and bonds. Einstein thought that individuals are necessarily dependent on the wider community and the division of labour to provide their economic means because no single person can run an industrialized economy alone, but that capitalism attempted to obscure this fact by providing an illusory form of individualism and caused people to view this dependency as a threat to their individual rights and prosperity rather than an “organic tie”, or as a “protective force”, which he considers a healthier, more pro-social and more accurate view of the individual's place in large-scale industrial society. Einstein described capitalism as part of the “predatory stage” of civilization and thought that for a man who lives by competition in the market the “_egotistical drives of his make-up are constantly being accentuated, while his social drives, which are by nature weaker, progressively deteriorate.”_
 
 The reforms Einstein proposed to remedy those issues consisted of:
 
-*   Collective ownership of the means of production so that the gains from capital accumulation could accrue to the population as a whole rather than private owners of capital.
-
-*   Replacing coordination of the economy by the market with centralised planning so that the economy could grow in a more orderly and efficient manner.
-
-*   Replacing an education system focused on competition for economic station with one that was orientated towards “social goals”. Presumably social goals in line with his thinking around pro-social tendencies and fostering personal development and intellectual ability.
+> *   Collective ownership of the means of production so that the gains from capital accumulation could accrue to the population as a whole rather than private owners of capital.
+>
+> *   Replacing coordination of the economy by the market with centralised planning so that the economy could grow in a more orderly and efficient manner.
+>
+> *   Replacing an education system focused on competition for economic station with one that was orientated towards “social goals”. Presumably social goals in line with his thinking around pro-social tendencies and fostering personal development and intellectual ability.
 
 He also stipulated that the kind of democratic-socialism that this would result in should be run without an all-powerful or overweening bureaucracy that should also protect individual rights and be democratic.
 
@@ -165,7 +165,7 @@ One criticism might be that his proposed remedies aren’t very substantial and 
 
 Nor does he give any technical proposal on how to ensure it actually does run the economy more efficiently.
 
-Einstein himself would probably agree with that criticism, he described those problems as “extremely difficult socio-political problems” and that “Clarity about the aims and problems of socialism is of greatest significance in our age of transition. Since, under present circumstances, free and unhindered discussion of these problems has come under a powerful taboo” 
+Einstein himself would probably agree with that criticism, he described those problems as “_extremely difficult socio-political problems_” and that “_Clarity about the aims and problems of socialism is of greatest significance in our age of transition. Since, under present circumstances, free and unhindered discussion of these problems has come under a powerful taboo”_ 
 
 Einstein clearly saw solving those technical problems as something to be left to others and his own role as bringing the issue to attention and reducing the taboo around the subject.
 
@@ -179,11 +179,11 @@ But the more moderate variety that he promoted has fared better than the more au
 
 ## Final Thoughts
 
-“In the case of every problem that is not purely technical, even the most brilliant scientific approach will not help.”
+_“In the case of every problem that is not purely technical, even the most brilliant scientific approach will not help.”_
 
 I hope I’ve shown that there is depth to Einstein’s world-view, but I think it can be interpreted as naively idealistic. Cultural Zionism, world government, democratic socialism, cosmopolitanism, education reform and animal rights are all visions for the future where issues are resolved through more cooperation and empathy,
 
- without hard tradeoffs being made, without much regard for vested interests or existing incentive structures, and which don’t entail any use of force.
+ without hard tradeoffs being made, without much regard for vested interests or existing incentive structures, and which don’t entail any use of force.
 
 And you might think that he lacked foresight about the trends of the post-WW2 world, given that socialism saw little success, Israel did become a nationalist state with a military and that nuclear war never happened.
 
@@ -191,7 +191,7 @@ I have a more charitable interpretation:
 
 For one thing, given Einstein's intelligence and the level of engagement with the issues he must have been aware of more cynical view points. The opinions he expressed in his writings are the views he advocated publicly, not all the views that he considered but rejected.
 
-But more importantly Einstein thought that “Politics is more difficult than physics.” and that theories in social science couldn’t have the same predictive power as theories in hard sciences.
+But more importantly Einstein thought that _“Politics is more difficult than physics.”_ and that theories in social science couldn’t have the same predictive power as theories in hard sciences.
 
 Whilst he did consider issues deeply and with a lot of insight, predicting which social trends will predominate over the long term, or in which ways the world will improve and which ways it will stay the same is probably close to impossible, even for a genius.
 
@@ -201,6 +201,6 @@ Einstein mixed his analysis in with a heuristic of just being nice whenever poss
 
 If the future is uncertain, just being generally cooperative is a good strategy, from the point of view of the world as a whole. A more calculating political actor who would pursue political goals through conflict or force, or who was willing to make calculated trade-offs would be in a worse position if the world evolved unpredictably than one who was just straightforwardly beneficent.
 
-Einstein considered the hard sciences to have outpaced social science and social progress, and that “our technology has exceeded our humanity.” I think there was an empirical component to his idea of social progress and also a component of simply increasing altruism and cooperation that he viewed as at least as important as the empirical side.
+Einstein considered the hard sciences to have outpaced social science and social progress, and that _“our technology has exceeded our humanity.”_ I think there was an empirical component to his idea of social progress and also a component of simply increasing altruism and cooperation that he viewed as at least as important as the empirical side.
 
 Overall rating for Einstein's world-view: 8/10

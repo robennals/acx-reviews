@@ -1,6 +1,6 @@
 import fs from 'fs';
 import path from 'path';
-import { Review, Contest } from './types';
+import { Review, Contest, ReviewFootnote } from './types';
 import { parseMarkdown, markdownToHtml } from './markdown';
 
 const dataDirectory = path.join(process.cwd(), 'data');
@@ -29,7 +29,11 @@ export async function getAllReviews(): Promise<Review[]> {
 /**
  * Get a single review by slug with full content
  */
-export async function getReviewBySlug(slug: string): Promise<(Review & { content: string; contentHtml: string }) | null> {
+export async function getReviewBySlug(
+  slug: string
+): Promise<
+  (Review & { content: string; contentHtml: string; footnotes: ReviewFootnote[] }) | null
+> {
   const reviews = await getAllReviews();
   const review = reviews.find(r => r.slug === slug);
 
@@ -43,12 +47,13 @@ export async function getReviewBySlug(slug: string): Promise<(Review & { content
   try {
     const fileContents = fs.readFileSync(filePath, 'utf8');
     const { content } = parseMarkdown(fileContents);
-    const contentHtml = await markdownToHtml(content);
+    const { html: contentHtml, footnotes } = await markdownToHtml(content);
 
     return {
       ...review,
       content,
-      contentHtml
+      contentHtml,
+      footnotes,
     };
   } catch (error) {
     console.error(`Error loading review ${slug}:`, error);

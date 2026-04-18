@@ -7,7 +7,7 @@ contestName: 2022 Book Reviews
 year: 2022
 publishedDate: '2026-02-06T07:24:08.703Z'
 slug: how-solar-energy-became-cheap-a-model-for-low-carbon-innovation
-wordCount: 6611
+wordCount: 6618
 readingTimeMinutes: 30
 originalUrl: >-
   https://docs.google.com/document/d/1pRQbRbEUwSH_jm94PI_ij-88swat7vQ4iNaNp6gd39g
@@ -83,11 +83,11 @@ Back to our three broad government roles, starting with R&D funding. When solar 
 
 This is not wholly surprising, solar first found usage in satellites with NASA so the government had a vested interest in seeing it researched and improved. That being said the US government was largely dismissive of PV technology as an option for large scale energy provision. In fact Nixon tried to create Project Independence in response to the oil shocks, or in his words:
 
-" Let us set as our national goal, in the spirit of Apollo, with the determination of the Manhattan Project, that by the end of this decade we will have developed the potential to meet our own energy needs without depending on any foreign energy sources"
+_" Let us set as our national goal, in the spirit of Apollo, with the determination of the Manhattan Project, that by the end of this decade we will have developed the potential to meet our own energy needs without depending on any foreign energy sources"_
 
-A lofty goal and one that was backed, initially, by $10bn of energy R&D spending. As I said though this isn't really a victory story for solar as only around 0.8% of this was for solar and most of that was for heating rather than PV. PV was not actually even seen as part of the long term US response to the energy crisis, largely this was the role of nuclear. (How we have strayed from the golden age of nuclear optimism)
+A lofty goal and one that was backed, initially, by $10bn of energy R&D spending. As I said though this isn't really a victory story for solar as only around 0.8% of this was for solar and most of that was for heating rather than PV. PV was not actually even seen as part of the long term US response to the energy crisis, largely this was the role of nuclear. (How we have strayed from the golden age of nuclear optimism)
 
-But the point remains, early US funding of Solar R&D was crucial to help a nascent technology emerge into the world. Nemet also mentions how R&D spending was a driving force behind managing to keep tacit knowledge alive throughout solar's 60 year history. As an industry it went through many booms and busts, especially in terms of private interest. Each bust risked having engineers and scientists move to other industries with better prospects, or even any funding at all, and thus take their tacit knowledge with them. Government R&D helped bridge these gaps.  
+But the point remains, early US funding of Solar R&D was crucial to help a nascent technology emerge into the world. Nemet also mentions how R&D spending was a driving force behind managing to keep tacit knowledge alive throughout solar's 60 year history. As an industry it went through many booms and busts, especially in terms of private interest. Each bust risked having engineers and scientists move to other industries with better prospects, or even any funding at all, and thus take their tacit knowledge with them. Government R&D helped bridge these gaps.  
 
 ### Demand side interventions
 
@@ -95,7 +95,7 @@ The governments didn't just fund R&D they were also either direct buyers or crea
 
 Each of these schemes built on previous examples and each were fantastically effective. They're worth reading about in more depth but some of the key points for each of these schemes are below:
 
-FSA
+**FSA**
 
 This was the world's first demand pull program for PV and was very ambitious, wanting to make PV a globally competitive form of energy by the mid 1980's, vs the mid 2000's we actually saw, or maybe even up until today in some people's view. It was not surprisingly also very large and accounted for 17% of all global PV purchases from 1976-81.
 
@@ -107,19 +107,19 @@ The FSA was a massive success and was even described by congress as one of the b
 
 ![](https://acximages.ennals.org/images/2022-book-reviews/bfb0374165665d57.png)
 
-METI rooftop solar program
+**METI rooftop solar program**
 
 Japan in the 90's wanted to encourage increased use of solar by individual households but this ran up against one of the other main issues solar has faced, and currently faces in more developing parts of the world, upfront capital costs.
 
 Even if it is cheaper over the lifetime of having solar, if users are paying for their own panels then they face a pretty hefty upfront capital cost. Not only that but if they don't use the energy coming from the panels then this is basically wasted even though it has clear value.
 
-Japan approached this from two fronts, it created a subsidy program and supported this with net metering. Net metering means energy installed panels create that isn't used by a household can be sent to the grid with the household getting paid a certain rate for it.
+Japan approached this from two fronts, it created a subsidy program and supported this with net metering. Net metering means energy installed panels create that isn't used by a household can be sent to the grid with the household getting paid a certain rate for it.
 
 There were some pretty hefty challenges though. There was no precedent for providing a subsidy to individual residences, the finance ministry was initially dismissive of subsidy programs and even with the subsidy the scheme still relied on individual households being willing to invest thousands of dollars upfront.
 
 To incentivise adoption METI created a rebate scheme that initially provided a cash grant of 50% between 1994-96 then 30% between 1997-99 then a fixed yen per watt which also decreased over time. This notion of declining rebates was one of their biggest policy innovations and by 2000 Japan was the largest PV market in the world. All of this increased demand helped solar scale and it saw its price fall by over a factor of 3 during the rooftop solar program.
 
-Germany’s EEG
+**Germany’s EEG**
 
 Germany's Renewable Energy Sources Act (or Erneuerbare-Energien-Gesetz aka EEG), passed in 2000, was the largest government funded solar subsidy program ever, committing more than €200bn to support the adoption of over 30GW of PV. The program was truly huge and supported half of all global PV installations between 2004-10.
 
@@ -191,10 +191,10 @@ Luckily Greg Nemet had the exact same thoughts as you wise and curious reader an
 
 Nemet describes four different types of technologies, with historical innovation models and a climate tech that would likely have a similar scale up path
 
-*   High-tech, iterative, disruptive i.e solar PV and DAC
-*   Low-tech, small, distributed i.e the green revolution and soils
-*   Large, system integration intensive i.e chemical plants and BECCS
-*   General purpose i.e the CPU and AI
+> *   High-tech, iterative, disruptive i.e solar PV and DAC
+> *   Low-tech, small, distributed i.e the green revolution and soils
+> *   Large, system integration intensive i.e chemical plants and BECCS
+> *   General purpose i.e the CPU and AI
 
 He notes that the story of how solar energy got cheap is most likely to be helpful for the first type of technologies. These are ones where we will likely have a very high volume of units which can consist of a relatively standardised design. Still the utility of managing to recreate this kind of story for even just these kinds of technologies is huge.
 
@@ -202,13 +202,13 @@ As a word of warning the two specific cases Nemet looks at are direct air captur
 
 Direct air capture is the technology of using some system, usually very large fans, to blow air over some material that binds with the CO₂ in the atmosphere. You then strip the CO₂ from the binding material and concentrate it, after which you can do a few things with it. You can use it for goods and services, i.e drinks or greenhouses, it can be sequestered underground in mineral formations or old oil wells, it can be used as an input to make electro-fuels. We have a lot of uses for CO₂ basically, the main one DAC will probably be for though is to catch CO₂ for permanent sequestration to help meet net-zero targets.
 
-DAC is very very expensive at the moment, around $500-600 a tonne. While it is not at all an apples to apples comparison due to differences in permanence and quality things like afforestation are currently selling for around $20-30 a tonne. Also in total DAC has currently removed maybe 10,000 tonnes optimistically in its entire history.
+DAC is very very expensive at the moment, around $500-600 a tonne. While it is not at all an apples to apples comparison due to differences in permanence and quality things like afforestation are currently selling for around $20-30 a tonne. Also in total DAC has currently removed maybe 10,000 tonnes optimistically in its entire history.
 
 However, DAC has a number of features very similar to early solar.
 
-*   To a large extent many DAC systems can be standardised and then it is about building many of the same type of module over and over.
-*   It looks likely that DAC will have the potential to scale down its costs as we ramp up production.  
-*   DAC has also had a history of moving through niche markets, although these have been harder to come by than solar.
+> *   To a large extent many DAC systems can be standardised and then it is about building many of the same type of module over and over.
+> *   It looks likely that DAC will have the potential to scale down its costs as we ramp up production.  
+> *   DAC has also had a history of moving through niche markets, although these have been harder to come by than solar.
 
 Expanding on the markets point above, DAC was first used on submarines and in space, captured CO₂ can be used in enhanced oil recovery to get higher yield out of oil wells, it can be utilised to help grow macroalgae for biofuels. Also as mentioned earlier, in some places getting CO₂ from these types of systems can be the cheapest way to procure it for things like carbonating drinks or pumping into greenhouses to help stimulate plant growth.
 
@@ -232,20 +232,20 @@ Hopefully the above gives a glimpse into the path solar has taken to go from wha
 
 * * *
 
-[[1]](#ftnt_ref1) Uplift is a recently popular genre where a modern human brings technology and other cultural knowledge--say, medical practices, like in the web serial [Castle Kingside](https://www.royalroad.com/fiction/43462/castle-kingside-rewrite)--to a less advanced society. You often see this with time-travel stories, but Uplift stories focus on the process of training the people, spreading the tech, etc. I’ve actually had trouble finding that specific definition online (I guess [this](https://tvtropes.org/pmwiki/pmwiki.php/Main/TechnologyUplift) is close), but the genre is well known in certain circles.
+[[1]](#ftnt_ref1) Uplift is a recently popular genre where a modern human brings technology and other cultural knowledge--say, medical practices, like in the web serial _[Castle Kingside](https://www.royalroad.com/fiction/43462/castle-kingside-rewrite)_--to a less advanced society. You often see this with time-travel stories, but Uplift stories _focus_ on the process of training the people, spreading the tech, etc. I’ve actually had trouble finding that specific definition online (I guess [this](https://tvtropes.org/pmwiki/pmwiki.php/Main/TechnologyUplift) is close), but the genre is well known in certain circles.
 
-[[2]](#ftnt_ref2) It’s easy to forget his name, the entire thing is written in first person and apparently ‘Hank’ is only in there twice.
+[[2]](#ftnt_ref2) It’s easy to forget his name, the entire thing is written in first person and apparently ‘Hank’ is only in there twice.
 
-[[3]](#ftnt_ref3) I expected at one point we’d get some kind of explanation as to why he was sent to one day before a total solar eclipse he, for some reason, knows the exact date of. He’s not even an astronomer! We never get a justification. Some isekai protagonists get a smartphone, this guy got astro-serendipity.
+[[3]](#ftnt_ref3) I expected at one point we’d get some kind of explanation as to why he was sent to one day before a total solar eclipse he, for some reason, knows the exact date of. He’s not even an astronomer! We never get a justification. Some isekai protagonists get a smartphone, this guy got astro-serendipity.
 
-[[4]](#ftnt_ref4) This is surely not social commentary in any way whatsoever.
+[[4]](#ftnt_ref4) This is surely not social commentary in any way whatsoever.
 
-[[5]](#ftnt_ref5) Oh no, Hank has won the victory over himself. He loves the Catholic Church!
+[[5]](#ftnt_ref5) Oh no, Hank has won the victory over himself. He loves the Catholic Church!
 
-[[6]](#ftnt_ref6) I’m sure it was even funnier in Twain’s time, which I suppose was filled with the kind of garbage generic knight tales Sandy told. I am after all reading a work well after the culture it’s responding to died.
+[[6]](#ftnt_ref6) I’m sure it was even funnier in Twain’s time, which I suppose was filled with the kind of garbage generic knight tales Sandy told. I am after all reading a work well after the culture it’s responding to died.
 
-[[7]](#ftnt_ref7) “The true environmentalism is racism and has a racial foundation, and in fact the two things, environmentalism and racism, are indistinguishable.”
+[[7]](#ftnt_ref7) “The true environmentalism is racism and has a racial foundation, and in fact the two things, environmentalism and racism, are indistinguishable.”
 
-[[8]](#ftnt_ref8) “In the remote future, should the evil of human innovation continue unchecked, we really will live in the world the Gnostics feared, and that spark of vital life and energy that is the gift of nature to all youthful peoples born from its womb, that spark will remain entrapped in “matter wrongly configured,” matter entirely foreign to its inborn desires and workings, but fashioned instead for the benefit of something else. In many ways the world we inhabit now already anticipates this living hell of the Gnostics, and the response of those in whom the pain of civilization and modernity is most advanced, the transsexuals, unwittingly help to further uncouple reality from nature, and to make our progressive domestication more totalitarian and aggressive.”
+[[8]](#ftnt_ref8) “In the remote future, should the evil of human innovation continue unchecked, we really will live in the world the Gnostics feared, and that spark of vital life and energy that is the gift of nature to all youthful peoples born from its womb, that spark will remain entrapped in “matter wrongly configured,” matter entirely foreign to its inborn desires and workings, but fashioned instead for the benefit of something else. In many ways the world we inhabit now already anticipates this living hell of the Gnostics, and the response of those in whom the pain of civilization and modernity is most _advanced_, the transsexuals, unwittingly help to further uncouple reality from nature, and to make our progressive domestication more totalitarian and aggressive.”
 
-[[9]](#ftnt_ref9) The Underground Man: “Man is stupid, you know, phenomenally stupid; or rather he is not at all stupid, but he is so ungrateful that you could not find another like him in all creation. I, for instance, would not be in the least surprised if all of a sudden, à propos of nothing, in the midst of general prosperity a gentleman with an ignoble, or rather with a reactionary and ironical, countenance were to arise and, putting his arms akimbo, say to us all: “I say, gentleman, hadn’t we better kick over the whole show and scatter rationalism to the winds, simply to send these logarithms to the devil, and to enable us to live once more at our own sweet foolish will!” That again would not matter, but what is annoying is that he would be sure to find followers—such is the nature of man. And all that for the most foolish reason, which, one would think, was hardly worth mentioning: that is, that man everywhere and at all times, whoever he may be, has preferred to act as he chose and not in the least as his reason and advantage dictated. And one may choose what is contrary to one’s own interests, and sometimes one positively ought (that is my idea). One’s own free unfettered choice, one’s own caprice, however wild it may be, one’s own fancy worked up at times to frenzy—is that very “most advantageous advantage” which we have overlooked, which comes under no classification and against which all systems and theories are continually being shattered to atoms. And how do these wiseacres know that man wants a normal, a virtuous choice? What has made them conceive that man must want a rationally advantageous choice? What man wants is simply independent choice, whatever that independence may cost and wherever it may lead.”
+[[9]](#ftnt_ref9) _The Underground Man_: “Man is stupid, you know, phenomenally stupid; or rather he is not at all stupid, but he is so ungrateful that you could not find another like him in all creation. I, for instance, would not be in the least surprised if all of a sudden, _à propos_ of nothing, in the midst of general prosperity a gentleman with an ignoble, or rather with a reactionary and ironical, countenance were to arise and, putting his arms akimbo, say to us all: “I say, gentleman, hadn’t we better kick over the whole show and scatter rationalism to the winds, simply to send these logarithms to the devil, and to enable us to live once more at our own sweet foolish will!” That again would not matter, but what is annoying is that he would be sure to find followers—such is the nature of man. And all that for the most foolish reason, which, one would think, was hardly worth mentioning: that is, that man everywhere and at all times, whoever he may be, has preferred to act as he chose and not in the least as his reason and advantage dictated. And one may choose what is contrary to one’s own interests, and sometimes one _positively ought_ (that is my idea). One’s own free unfettered choice, one’s own caprice, however wild it may be, one’s own fancy worked up at times to frenzy—is that very “most advantageous advantage” which we have overlooked, which comes under no classification and against which all systems and theories are continually being shattered to atoms. And how do these wiseacres know that man wants a normal, a virtuous choice? What has made them conceive that man must want a rationally advantageous choice? What man wants is simply _independent_ choice, whatever that independence may cost and wherever it may lead.”

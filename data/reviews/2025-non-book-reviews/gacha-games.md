@@ -20,7 +20,7 @@ During the pandemic years I got into Genshin Impact. It wasn’t the first “ga
 
 After Genshin, I tried a whole series of other gacha games, hoping to find the same magic. Few of them stuck with me for very long. It turns out that “this game has a kind-of-predatory monetization mechanic, similar to that game you liked” is not actually a great predictor of quality. But there were a few hits.
 
-I haven’t come close to trying all the gacha games; this [list](https://revenue.ennead.cc/revenue) shows something like a hundred of them, and I’ve played maybe ten. But the ones I played shared a surprising number of similarities. So this is a review of gacha as a game mechanic. Or, I guess more specifically, it’s a review of gacha as a game mechanic, as implemented in the games where I encountered it. My experience is weighted toward games produced by a particular company (Hoyoverse), so some of what I write might be more true of their particular style of gacha. But I do think most of this applies broadly.
+I haven’t come close to trying all the gacha games; this [list](https://revenue.ennead.cc/revenue) shows something like a hundred of them, and I’ve played maybe ten. But the ones I played shared a surprising number of similarities. So this is a review of gacha as a game mechanic. Or, I guess more specifically, it’s a review of gacha as a game mechanic, as implemented in the games where I encountered it. My experience is weighted toward games produced by a particular company (Hoyoverse), so some of what I write might be more true of their particular style of gacha. But I do think most of this applies broadly.
 
 In Section 1 I’ll talk about what the “gacha” mechanic is, in theory. In Section 2, I’ll talk about how you will experience it in practice if you play a game like this. I’ll mostly withhold judgment until Section 3 (“Criticisms of Gacha”), and then in Section 4 I’ll talk about specific games for a bit.
 
@@ -28,27 +28,27 @@ This is not a review that’s intended to get you to play the game. Some of them
 
 ## 1.1. Gacha, dictionary definition.
 
-Wikipedia says that gacha games are named after the [gashapon](https://en.wikipedia.org/wiki/Gashapon) vending machines. These machines are full of little plastic capsules with random toys in them; you can put some money in, and get a random plastic toy back out, and then I guess you can collect them. Every part of this sounds terrible to me, but Wikipedia tells me it’s popular in Japan.
+Wikipedia says that gacha games are named after the [gashapon](https://en.wikipedia.org/wiki/Gashapon) vending machines. These machines are full of little plastic capsules with random toys in them; you can put some money in, and get a random plastic toy back out, and then I guess you can collect them. Every part of this sounds terrible to me, but Wikipedia tells me it’s popular in Japan.
 
 ![](https://acximages.ennals.org/images/2025-non-book-reviews/c024d7a056ddde19.png)
 
 Image from Wikipedia, [https://en.wikipedia.org/wiki/Gashapon#/media/File:Gachapon.jpg](https://en.wikipedia.org/wiki/Gashapon#/media/File:Gachapon.jpg).
 
-A gacha game is a game that's built around buying random "pulls" from a loot distribution. You pay some money (in-game currency, which you may or may not have bought with real money), and you get a permanent in-game item, which makes you better at certain in-game activities. In other words, gacha is a monetization model.
+A gacha game is a game that's built around buying random "pulls" from a loot distribution. You pay some money (in-game currency, which you may or may not have bought with real money), and you get a permanent in-game item, which makes you better at certain in-game activities. In other words, gacha is a _monetization model_.
 
-As a monetization model, it has been compared to gambling. (The Western equivalent of gacha is "loot boxes," as in [this](https://www.ftc.gov/news-events/news/press-releases/2025/01/genshin-impact-game-developer-will-be-banned-selling-lootboxes-teens-under-16-without-parental) lawsuit against Genshin Impact for letting children spend money on gacha rolls.) We’ll talk a bit more about this in section 3.1.
+As a monetization model, it has been compared to gambling. (The Western equivalent of gacha is "loot boxes," as in [this](https://www.ftc.gov/news-events/news/press-releases/2025/01/genshin-impact-game-developer-will-be-banned-selling-lootboxes-teens-under-16-without-parental) lawsuit against Genshin Impact for letting children spend money on gacha rolls.) We’ll talk a bit more about this in section 3.1.
 
 ## 1.2. Gacha, as people experience it.
 
 Above, we talked about how gacha means you’re buying “pulls from a loot distribution” which give you a chance at a “permanent in-game item”.
 
-In practice, it’s characters. You’re collecting characters.
+In practice, it’s _characters_. You’re collecting characters.
 
-In Arknights, your character is the Doctor, a military strategist who’s recruiting “Operators” to send on missions which feel a lot like tower-defense battles. The “Operators” are characters, and you get them from gacha rolls.
+In _Arknights_, your character is the Doctor, a military strategist who’s recruiting “Operators” to send on missions which feel a lot like tower-defense battles. The “Operators” are characters, and you get them from gacha rolls.
 
-In Zenless Zone Zero, your character is a Proxy, who’s recruiting “Agents” to guide on missions into the Hollow, doing action combat. The “Agents” are characters, and you get them from gacha rolls.
+In _Zenless Zone Zero_, your character is a Proxy, who’s recruiting “Agents” to guide on missions into the Hollow, doing action combat. The “Agents” are characters, and you get them from gacha rolls.
 
-In Fate/Grand Order, your character is the “Master”, and you’re recruiting a team of “Servants” from the gacha to fight for you. In Blue Archive, your character is a teacher, and you’re recruiting students from the gacha to fight for you. In Honkai Star Rail, your character is the Trailblazer, and it’s never really explained why Trailblazer turns into four other characters whenever a battle breaks out, but you have to pull the other characters from the gacha. [1]
+In _Fate/Grand Order_, your character is the “Master”, and you’re recruiting a team of “Servants” from the gacha to fight for you. In _Blue Archive_, your character is a teacher, and you’re recruiting students from the gacha to fight for you. In _Honkai Star Rail_, your character is the Trailblazer, and it’s never really explained why Trailblazer turns into four other characters whenever a battle breaks out, but you have to pull the other characters from the gacha. [1]
 
 The type of combat you’re doing will vary from game to game – tower defense, action combat, side-scrolling shooter, isometric strategy – but the need for good characters, and the means of getting them, stays the same.
 
@@ -56,17 +56,17 @@ So now we can say: a gacha game is designed to keep you interested in the “gam
 
 ## 1.3. History of gacha.
 
-Gacha as we know it appears to have been popularized in 2012 by a Japanese phone game called Puzzle & Dragons. The innovation was to attach a fairly primitive match-three game (think Bejeweled or Candy Crush) to a gacha model where you can spend money to get better monsters to do better in the game. This was very successful and inspired a whole series of other games which refined the formula.
+Gacha as we know it appears to have been popularized in 2012 by a Japanese phone game called _Puzzle & Dragons_. The innovation was to attach a fairly primitive match-three game (think _Bejeweled_ or _Candy Crush_) to a gacha model where you can spend money to get better monsters to do better in the game. This was very successful and inspired a whole series of other games which refined the formula.
 
 The refinements include replacing the monsters with characters you can talk to (often cute anime girls), and also replacing the match-three game with a wide variety of other games. Some of these games feel like they were carelessly slapped together to give you an excuse to collect the characters, but others are well-polished and can be pretty good.
 
-There have also been some “refinements” caused by public outcry. There was an incident in 2016 in which some characters in Granblue Fantasy were found to have very very very low drop rates: a streamer tried to stream himself pulling for a specific character, and spent over $6000 before he got it ([reddit link](https://www.reddit.com/r/HobbyDrama/comments/go2dfu/mobile_games_monkeygate_or_how_a_lone_browser/)). Since then, gachas are expected to publish clear information about drop rates, and also most gachas contain a “pity” mechanic which just gives you the character if you fail for too long. [2]
+There have also been some “refinements” caused by public outcry. There was an incident in 2016 in which some characters in _Granblue Fantasy_ were found to have _very very very_ low drop rates: a streamer tried to stream himself pulling for a specific character, and spent over $6000 before he got it ([reddit link](https://www.reddit.com/r/HobbyDrama/comments/go2dfu/mobile_games_monkeygate_or_how_a_lone_browser/)). Since then, gachas are expected to publish clear information about drop rates, and also most gachas contain a “pity” mechanic which just gives you the character if you fail for too long. [2]
 
-Although some gacha games have PC clients in addition to mobile clients, all the gacha games I know of are mobile-phone games from Asian developers. I think a partial explanation is that mobile phone gaming is just much larger in Asia: [this site](https://gs.statcounter.com/platform-market-share/desktop-mobile-tablet-console) tells me that mobile has 47% of the US gaming market, but 71% of the Asian gaming market.
+Although some gacha games have PC clients in addition to mobile clients, all the gacha games I know of are mobile-phone games from Asian developers. I think a partial explanation is that mobile phone gaming is just much larger in Asia: [this site](https://gs.statcounter.com/platform-market-share/desktop-mobile-tablet-console) tells me that mobile has 47% of the US gaming market, but 71% of the Asian gaming market.
 
 ## 2\. What do you actually do, in a gacha?
 
-Gacha games are a hybrid of two different activities which are almost orthogonal. One of the activities is experiencing the story, and the other is leveling your characters.
+Gacha games are a hybrid of two different activities which are almost orthogonal. One of the activities is _experiencing the story_, and the other is _leveling your characters_.
 
 ## 2.1. The Story.
 
@@ -104,9 +104,9 @@ Upgrading anything will cost gold, which is another kind of in-game currency. Go
 
 Then you have weapons and equipment, each of which can be leveled independently and require their own kinds of in-game currency. [4]
 
-The purpose of all this is to give you something to do, while you're waiting for more story content to be released. If you spend all your stamina every day, it can still take months to fully level all your characters. And of course by that point you'll have gained more characters.
+The purpose of all this is to give you something to _do_, while you're waiting for more story content to be released. If you spend all your stamina every day, it can still take months to fully level all your characters. And of course by that point you'll have gained more characters.
 
-2.3. Getting New Characters.
+**2.3. Getting New Characters.**
 
 Gacha runs in “banners”. Every few weeks, the game will have a new banner, advertising a specific character you can try to get.
 
@@ -114,9 +114,9 @@ Gacha runs in “banners”. Every few weeks, the game will have a new banner, a
 
 This banner is telling you that you have an 0.8% chance per two-dollar pull of getting a five-star “Anaxa” character. Pulls are called "Warps" in this game (Honkai Star Rail). The pictured account (not mine) has saved quite a lot of in-game currency, more than enough to pull this character without spending any real money.
 
-While the banner is running, the game will try to make you feel like this is a good character to have. The game might offer you a side quest where you meet this character and learn their backstory; you might meet other NPCs, who will have good things to say about the character currently on the banner. There might be some new monsters you can fight which are specifically vulnerable to whichever thing this character does. Sometimes there are youtube videos advertising the character on the side; the one I remember is the [Burnice Song](https://www.youtube.com/watch?v=0NQPMTJ9rh0) video, which is very internet.
+While the banner is running, the game will try to make you feel like this is a good character to have. The game might offer you a side quest where you meet this character and learn their backstory; you might meet other NPCs, who will have good things to say about the character currently on the banner. There might be some new monsters you can fight which are specifically vulnerable to whichever thing this character does. Sometimes there are youtube videos advertising the character on the side; the one I remember is the [Burnice Song](https://www.youtube.com/watch?v=0NQPMTJ9rh0) video, which is very internet.
 
-The character usually is mechanically better than existing characters in at least one dimension. The game tries to have a lot of different niches to specialize in, so hopefully this doesn’t mean other previous characters have gotten worse in comparison. When other previous characters are clearly worse in comparison, the term for that is “power creep”.
+The character usually _is_ mechanically better than existing characters in at least one dimension. The game tries to have a lot of different niches to specialize in, so hopefully this doesn’t mean other previous characters have gotten worse in comparison. When other previous characters _are_ clearly worse in comparison, the term for that is “power creep”.
 
 When I was considering getting a character, I would check the reviews on [https://www.prydwen.gg/](https://www.prydwen.gg/), which often include a prediction about whether this character will be useful on your team after the banner is over, or whether it will quickly get power crept.
 
@@ -128,11 +128,11 @@ If you don’t want the character, there will be a new banner in a few weeks. So
 
 The characters you encounter in the story will be the same characters you can pull for in the gacha. This makes total sense from a marketing perspective: of course they want to introduce you in-story to the characters you can pull! That's how you form attachments!
 
-But, in story terms, it's weird. Here's the supreme leader of one of the world's great nations; she's insanely wealthy and super busy, with every minute carefully scheduled. But if you pull her in the gacha, then she also has time to go adventuring with you, exploring the monster-infested countryside for hidden treasure chests.[5]
+But, in story terms, it's _weird_. Here's the supreme leader of one of the world's great nations; she's insanely wealthy and super busy, with every minute carefully scheduled. But if you pull her in the gacha, then she also has time to go adventuring with you, exploring the monster-infested countryside for hidden treasure chests.[5]
 
 It gets worse: sometimes the characters you can pull are first encountered as villains. In some games, it's possible to get into a boss fight when you have the boss you're fighting against physically in your party, essentially helping you fight a copy of themself ([example](https://www.youtube.com/watch?v=D9SZRy9SVY0)). This is never remarked upon, in-game.
 
-Sometimes a character dies, in the story, and you still have them in your party, fighting at your side. Sometimes a character dies, and then the developers release a special version of them in the gacha, in memoriam[6]. The memorial version tends to sell pretty well, I believe.
+Sometimes a character _dies_, in the story, and you still have them in your party, fighting at your side. Sometimes a character dies, and then the developers release a special version of them in the gacha, in memoriam[6]. The memorial version tends to sell pretty well, I believe.
 
 ## 3\. Criticisms of gacha.
 
@@ -142,17 +142,17 @@ How much could it cost to play a gacha game? The cost is zero, or more than you 
 
 Interacting with a gacha mechanic is startlingly well-documented. When you pull up the gacha screen, you will be told exactly what a pull will get you. You'll see the exact chance to get any of the possible results, plus the guaranteed maximum number of pulls before the game will declare "pity" and override the randomness and give you whatever you were trying to get. You can do the math and find the exact dollar average.
 
-...Although you can do the math, it’s hard to find these numbers online. I went and looked at several gachas, and the average cost to get a banner character is usually between $200 and $300 USD. For Genshin and the various games that use its gacha mechanics, the average is very close to $240 and you’re guaranteed to get the character you want by $360.
+...Although you _can_ do the math, it’s hard to find these numbers online. I went and looked at several gachas, and the average cost to get a banner character is usually between $200 and $300 USD. For _Genshin_ and the various games that use its gacha mechanics, the average is very close to $240 and you’re guaranteed to get the character you want by $360.
 
-(One exception was Monster Strike, which appears to come from a different philosophy and the average cost looked more like $33. I haven’t played this game and might be wrong about how it works. On the other hand, this is apparently the #1 gacha in terms of lifetime revenue, so maybe they know something nobody else does.)
+(One exception was _Monster Strike_, which appears to come from a different philosophy and the average cost looked more like $33. I haven’t played this game and might be wrong about how it works. On the other hand, this is apparently the #1 gacha in terms of lifetime revenue, so maybe they know something nobody else does.)
 
-You can’t have two copies of the same character; instead, if you pull the same character more than once, your first copy of that character becomes more powerful. Genshin Impact and similar games will let you usefully pull a single character up to seven times, and then pull their signature weapon up to five times, for a total of twelve pulls per character release. New characters happen every six weeks; multiplying, we get something like $25K per year, which is the most you can reasonably spend on Genshin Impact.
+You can’t have two copies of the same character; instead, if you pull the same character more than once, your first copy of that character becomes more powerful. Genshin Impact and similar games will let you usefully pull a single character up to seven times, and then pull their signature weapon up to five times, for a total of twelve pulls per character release. New characters happen every six weeks; multiplying, we get something like $25K per year, which is the most you can reasonably spend on _Genshin Impact_.
 
 And, to be super clear, this is awful.
 
-This isn’t gambling, unless you really stretch the term. We have a cultural taboo against gambling because it leads people to say things like: “okay, but if I bet twice the money on this next horse race, I can win back all my losses!” Gacha games offer no illusions: if you give them your money, they will keep your money and you are guaranteed not to get it back. Most people view gacha-ing as buying a character, for a price that’s a bit random but is still basically understood.
+This _isn’t_ gambling, unless you really stretch the term. We have a cultural taboo against gambling because it leads people to say things like: “okay, but if I bet _twice_ the money on this _next_ horse race, I can win back all my losses!” Gacha games offer no illusions: if you give them your money, they will keep your money and you are guaranteed not to get it back. Most people view gacha-ing as buying a character, for a price that’s a bit random but is still basically understood.
 
-On the other hand, paying hundreds of dollars for a video game character is absurd. I imagine that a lot of people get into the games thinking “oh, this is free to play!” and then wind up spending much much more than they would have spent on just buying a normal video game. These things do have a lot of children playing them, and I would very much support a law saying children are not allowed to spend money on digital goods. (And, quite recently, Genshin has been [ordered by the FTC](https://www.ftc.gov/news-events/news/press-releases/2025/01/genshin-impact-game-developer-will-be-banned-selling-lootboxes-teens-under-16-without-parental) to prevent children from doing this. Good for them!)
+On the other hand, paying hundreds of dollars for a video game character is absurd. I imagine that a lot of people get into the games thinking “oh, this is free to play!” and then wind up spending much much more than they would have spent on just buying a normal video game. These things do have a lot of children playing them, and I would very much support a law saying children are not allowed to spend money on digital goods. (And, quite recently, Genshin has been [ordered by the FTC](https://www.ftc.gov/news-events/news/press-releases/2025/01/genshin-impact-game-developer-will-be-banned-selling-lootboxes-teens-under-16-without-parental) to prevent children from doing this. Good for them!)
 
 On the gripping hand... you can just not spend money on them. I’ve never spent any money on any gacha. It’s usually not a problem. There’s often one event that’s deliberately difficult, to encourage you to spend money on powerful characters; that event is optional, and mostly for bragging rights, and everything else works fine free-to-play.
 
@@ -162,7 +162,7 @@ On the gripping hand... you can just not spend money on them. I’ve never spent
 
 Gacha games do not want you to stop playing them. The hook often takes the form of “daily quests” -- actions you can do every day, for a few minutes to an hour, in exchange for one of the many varieties of in-game currency. Sometimes these are fun! Other times they're sort of rote mechanical tasks you do for the reward.
 
-Technically, your stamina is a daily quest. The game gives you a certain amount of stamina per day, and you can spend it on fighting dungeons, in exchange for in-game currencies you can use to level your characters. Nothing bad actually happens to you if your stamina hits the maximum, but you’ll get a bad feeling because you’re not playing optimally.
+Technically, your stamina is a daily quest. The game gives you a certain amount of stamina per day, and you can spend it on fighting dungeons, in exchange for in-game currencies you can use to level your characters. Nothing bad actually happens to you if your stamina hits the maximum, but you’ll get a bad feeling because you’re _not playing optimally_.
 
 And, reader: I escaped spending money on gachas, but I’ve spent way more time on these things than I should have. Something like “an hour a day, every day, for two years,” before I finally admitted to myself that I had finished all the fun parts of the game and I did not need any more in-game currencies.
 
@@ -178,15 +178,15 @@ The developers know that you can do this, and they have a variety of responses. 
 
 Some games have a built-in account-reset option which lets you skip the tutorial to reroll more quickly. If you’re doing this, you’re probably using a guide like [this one](https://www.prydwen.gg/solo-leveling/guides/reroll/), which tells you which character you should try to get. (Since you do this process when you’re just starting the game, there’s no other way to know!)
 
-Another approach (I liked this in Heaven Burns Red) is to just show you the whole pool of top-tier characters and let you choose one, so there’s no randomness.
+Another approach (I liked this in _Heaven Burns Red_) is to just show you the whole pool of top-tier characters and let you choose one, so there’s no randomness.
 
 ### 3.4. So is this for perverts, or what?
 
-Across many games, most of the characters you can pull from the gacha are female. (One exception is Love And Deepspace, in which your protagonist is female and is romancing several male characters.) I think there’s no denying: most of these games are at least lowkey hoping you’ll develop a crush on a character and decide to spend money to get them.
+Across many games, most of the characters you can pull from the gacha are female. (One exception is _Love And Deepspace_, in which your protagonist is female and is romancing several male characters.) I think there’s no denying: most of these games are at least lowkey hoping you’ll develop a crush on a character and decide to spend money to get them.
 
 The characters are single. Yes, all of them, all of the time.[7] I’m not sure if this is to make it easier to develop a crush, or simply because something about censorship laws makes it not worthwhile to portray NPCs as being in relationships.
 
-Once you have the character, there are at least a few games that cross the lines of good taste. Girls Frontline 2: Exilum lets you “view” your characters relaxing in their rooms, sometimes in sexy poses, from very close up. Snowbreak has a [massage minigame](https://snowbreak.gg/massage-guide/). (Link goes to a surprisingly helpful wiki page describing the massage minigame mechanics.)
+Once you have the character, there are at least a few games that cross the lines of good taste. _Girls Frontline 2: Exilum_ lets you “view” your characters relaxing in their rooms, sometimes in sexy poses, from very close up. _Snowbreak_ has a [massage minigame](https://snowbreak.gg/massage-guide/). (Link goes to a surprisingly helpful wiki page describing the massage minigame mechanics.)
 
 Most games will give you a relationship bar, and some dialog that unlocks as the character gets to trust you more, but romance and flirting are generally not the standard.
 
@@ -198,21 +198,21 @@ Claude reviewed some early drafts of this review, and the feedback it kept givin
 
 I started to write that, and I noticed a problem: it sounded like I was reviewing an addictive substance. “Cocaine is totally fine as long as you don’t overdose!” Any review that sounds like “...fine as long as you’re careful to resist the temptation to do X” should probably be seen as a red flag.
 
-Let’s try this, then: a gacha is two games in one. One of them is experiencing the story, and you can play a finite amount of this before you run out of story. The other game is leveling your characters, and it wants you to keep doing that forever. My verdict is: often thumbs-up to the story, depending on the game, of course. Sometimes thumbs-up to the gameplay, though a surprising number of gachas are attached to games which are pretty bad. Mild thumbs-up to the first couple of hours of leveling your characters, when everything is new and you’re exploring possibilities. Hard thumbs-down to logging in every day to do your daily quests so you don’t miss out on upgrade currencies. And definitely don’t spend money on this stuff.
+Let’s try this, then: a gacha is two games in one. One of them is experiencing the story, and you can play a finite amount of this before you run out of story. The other game is leveling your characters, and it wants you to keep doing that forever. My verdict is: often thumbs-up to the story, depending on the game, of course. Sometimes thumbs-up to the gameplay, though a surprising number of gachas are attached to games which are pretty bad. Mild thumbs-up to the first couple of hours of leveling your characters, when everything is new and you’re exploring possibilities. _Hard_ thumbs-down to logging in every day to do your daily quests so you don’t miss out on upgrade currencies. And definitely don’t spend money on this stuff.
 
-Note that this suggests it might be better to join a gacha game late, a few years after launch, so there’s more accumulated story to experience before you run out. This hasn’t worked super well for me in practice, because the number of activities also increases linearly with age, and it can be bewildering logging in to be greeted with that much stuff at once. [8]
+Note that this suggests it might be better to join a gacha game _late_, a few years after launch, so there’s more accumulated story to experience before you run out. This hasn’t worked super well for me in practice, because the number of activities also increases linearly with age, and it can be bewildering logging in to be greeted with that much stuff at once. [8]
 
 ### 4.1: Specific Games.
 
 In order from most-played to least-played:
 
-I got into Genshin Impact during the pandemic, when we all had too much free time on our hands, and I don't regret it. The story was fine; the music was good; the gameplay was great. If there's another pandemic (God forbid!), you could do worse than to pick up Genshin Impact.
+I got into _Genshin Impact_ during the pandemic, when we all had too much free time on our hands, and I don't regret it. The story was fine; the music was good; the gameplay was great. If there's another pandemic (God forbid!), you could do worse than to pick up _Genshin Impact_.
 
-(Among all these games, Genshin is special. Standard for this genre is to show you a menu of chapters, and you can click on a chapter to play through it. Genshin has an actual open world to explore. It must have been quite expensive, because I don’t know of any other gacha that’s done it.)
+(Among all these games, _Genshin_ is special. Standard for this genre is to show you a menu of chapters, and you can click on a chapter to play through it. _Genshin_ has an actual open world to explore. It must have been quite expensive, because I don’t know of any other gacha that’s done it.)
 
-I liked Zenless Zone Zero, too – the characters were colorful and fun, and the roguelike battle mode, in particular, had good replay value. I only quit when I ran out of story.
+I liked _Zenless Zone Zero_, too – the characters were colorful and fun, and the roguelike battle mode, in particular, had good replay value. I only quit when I ran out of story.
 
-I played Honkai Star Rail for a while but the story was too bleak. Arknights was both too bleak and too difficult for me as a free-to-play player. Heaven Burns Red was cute and fun until a Certain Plot Development and then I uninstalled. Love And Deepspace wanted me to flirt with my character’s various boyfriends, much more than I wanted to do that. Girls Frontline 2: Exilium was too easy. Azur Lane lacked the experience-scrolls mechanic; it wanted me to level my characters by actually playing through levels over and over, and I didn’t have time for that. I played Fate/Grand Order briefly, but the combat system appeared to be “hope that three matching symbols come up in this hand of five cards”, and maybe I misunderstood but it just didn’t seem that interesting. I tried Blue Archive, but wasn’t comfortable with playing as a teacher recruiting an army of female students.
+I played _Honkai Star Rail_ for a while but the story was too bleak. _Arknights_ was both too bleak and too difficult for me as a free-to-play player. _Heaven Burns Red_ was cute and fun until a Certain Plot Development and then I uninstalled. _Love And Deepspace_ wanted me to flirt with my character’s various boyfriends, much more than I wanted to do that. _Girls Frontline 2: Exilium_ was too easy. _Azur Lane_ lacked the experience-scrolls mechanic; it wanted me to level my characters by actually playing through levels over and over, and I didn’t have time for that. I played _Fate/Grand Order_ briefly, but the combat system appeared to be “hope that three matching symbols come up in this hand of five cards”, and maybe I misunderstood but it just didn’t seem that interesting. I tried _Blue Archive_, but wasn’t comfortable with playing as a teacher recruiting an army of female students.
 
 I’m not in a gacha at the moment – recently my mobile games of choice are Sagrada and Slay The Spire. But I do plan to try other gachas, as they come out. I won’t ever spend money on them; that’s not difficult. But I have to make a pact with myself, to check in periodically on whether I’m still having fun, or if I’m just doing daily quests to accumulate experience scrolls while I wait for the next story update. If it’s the second thing, I uninstall the game.
 
@@ -220,26 +220,26 @@ Do with that what you will, I suppose.
 
 ## ENDNOTES
 
-[1] Here are two exceptions that I know of, for the rule that gacha is about pulling characters. In Pokemon TCG Pocket, you’re collecting cards from the gacha (TCG stands for Tradeable Card Game), and the cards might be pokemon but I think it’s not guaranteed. In Love And Deepspace, you only have four allied characters, and you’re collecting “memories” from the gacha; you can equip the memories onto your allied characters to give them powers.
+[1] Here are two exceptions that I know of, for the rule that gacha is about pulling characters. In _Pokemon TCG Pocket_, you’re collecting _cards_ from the gacha (TCG stands for Tradeable Card Game), and the cards might be pokemon but I think it’s not guaranteed. In _Love And Deepspace_, you only have four allied characters, and you’re collecting “memories” from the gacha; you can equip the memories onto your allied characters to give them powers.
 
-As I write this, Pokemon TCG Pocket is number one on the gacha revenue list, and Love And Deepspace is number two. I think the moral is that originality is good?
+As I write this, _Pokemon TCG Pocket_ is number one on the gacha revenue list, and _Love And Deepspace_ is number two. I think the moral is that originality is good?
 
-[2] In Genshin and games that copy its gacha, the average number of pulls to get any top-tier character from a banner is 60 ([citation](https://www.reddit.com/r/Genshin_Impact/comments/jod9o4/whale_watching_logs_2_the_blue_whale/)), and pity happens at 90 pulls – so you can’t do more than 50% worse than average. On the other hand, the first top-tier character is only 50% likely to be the one you wanted; if you lose the 50% chance, your second top-tier character is guaranteed to be the one you wanted. So I guess you’d say the average pulls for a specific top-tier character is 90, and the worst possible is 180.
+[2] In _Genshin_ and games that copy its gacha, the average number of pulls to get any top-tier character from a banner is 60 ([citation](https://www.reddit.com/r/Genshin_Impact/comments/jod9o4/whale_watching_logs_2_the_blue_whale/)), and pity happens at 90 pulls – so you can’t do more than 50% worse than average. On the other hand, the first top-tier character is only 50% likely to be the one you wanted; if you lose the 50% chance, your second top-tier character is guaranteed to be the one you wanted. So I guess you’d say the average pulls for a _specific_ top-tier character is 90, and the worst possible is 180.
 
-[3] The Arknights story is uniformly grim; it had me agreeing to “rescue” a mysterious little girl from the slums, in order to hand her over to an obviously-evil corporation, because my mercenary company needed the money and this was the job that was available. I did not want this job, but refusing it was not an option.
+[3] The _Arknights_ story is uniformly grim; it had me agreeing to “rescue” a mysterious little girl from the slums, in order to hand her over to an obviously-evil corporation, because my mercenary company needed the money and this was the job that was available. I did not want this job, but refusing it was not an option.
 
-Genshin goes a little too far in the other direction: there’s an early-game villain who my character was far too willing to forgive, after defeating him.
+_Genshin_ goes a little too far in the other direction: there’s an early-game villain who my character was far too willing to forgive, after defeating him.
 
-[4] An example might be helpful. Getting [Sucrose](https://genshin-impact.fandom.com/wiki/Sucrose) (from Genshin Impact) past a level cap requires Hurricane Seeds and Vayuda Topaz Fragments (from the Anemo Hypostasis world boss), Windwheel Asters (found in the wild in windy areas), and Whopperflower Nectars (from beating up Whopperflowers while exploring). You’ll also want Teachings of Freedom (from the Forsaken Rift minidungeon) and Spirit Lockets of Boreas (from the Boreas weekly boss) to level her skills, and the Viridescent Venerer artifact set (from a minidungeon in Mondstadt) with as much Elemental Mastery stat bonus as you can manage. Her weapon has its own levels and level caps and is handled separately.
+[4] An example might be helpful. Getting [Sucrose](https://genshin-impact.fandom.com/wiki/Sucrose) (from _Genshin Impact_) past a level cap requires Hurricane Seeds and Vayuda Topaz Fragments (from the Anemo Hypostasis world boss), Windwheel Asters (found in the wild in windy areas), and Whopperflower Nectars (from beating up Whopperflowers while exploring). You’ll also want Teachings of Freedom (from the Forsaken Rift minidungeon) and Spirit Lockets of Boreas (from the Boreas weekly boss) to level her skills, and the Viridescent Venerer artifact set (from a minidungeon in Mondstadt) with as much Elemental Mastery stat bonus as you can manage. Her weapon has its own levels and level caps and is handled separately.
 
 Most games go a bit less hard than this.
 
-[5] This is Ningguang from Genshin Impact. Her magic-stone attack isn’t the literal strongest, but it deals stun damage and can stunlock enemies at long range, and that made her the first pick on my adventuring team. I don’t know of any explanation for how she could keep running her nation while also battling monsters across Teyvat with me.
+[5] This is Ningguang from _Genshin Impact_. Her magic-stone attack isn’t the literal strongest, but it deals stun damage and can stunlock enemies at long range, and that made her the first pick on my adventuring team. I don’t know of any explanation for how she could keep running her nation while also battling monsters across Teyvat with me.
 
 [6] Spoilers in rot13: V'z guvaxvat urer bs Revxn Nbv sebz Urnira Oheaf Erq. Gur tnzr fcrag gur jubyr puncgre ohvyqvat hc ure eryngvbafuvc jvgu gur znva punenpgre, naq gryyvat hf ubj terng fur vf. Gura vg xvyyrq ure bss oehgnyyl va gur svany obff onggyr bs gur puncgre, naq eryrnfrq na FF (gbc-gvre) irefvba bs ure punenpgre fbzr gvzr yngre. V'z gbyq gur FF irefvba vf cbjreshy rira pbzcnerq gb bgure FF punenpgref. V vzntvar vg fbyq dhvgr jryy. V havafgnyyrq gur tnzr nsgre cynlvat gung puncgre.
 
-[7] There do exist pairs of same-sex characters who are noted as being particularly close friends. I believe it is illegal to depict homosexual relationships in Chinese media, so “particularly close friends” is probably as far as they’re allowed to go. It’s a little bit strange that I don’t know of any pairs of different-sex characters who have this sort of hinted-at very-close friendship.
+[7] There do exist pairs of same-sex characters who are noted as being _particularly_ close friends. I believe it is illegal to depict homosexual relationships in Chinese media, so “particularly close friends” is probably as far as they’re allowed to go. It’s a little bit strange that I don’t know of any pairs of different-sex characters who have this sort of hinted-at very-close friendship.
 
-Also, I’ve heard that in Arknights there’s a pair of playable characters that are married. I have not verified this.
+Also, I’ve heard that in _Arknights_ there’s a pair of playable characters that are married. I have not verified this.
 
-[8] I tried this with Honkai Impact 3rd, and there were too many activities with names like “Crimson Moonlight: Umbral Sonata of the Sakura Bride,” which tells me that the translator has a thesaurus, but doesn’t really explain what the event is for or whether a new player could usefully interact with it. But, also, it was an older game, and not very good.
+[8] I tried this with _Honkai Impact 3rd_, and there were too many activities with names like “Crimson Moonlight: Umbral Sonata of the Sakura Bride,” which tells me that the translator has a thesaurus, but doesn’t really explain what the event is for or whether a new player could usefully interact with it. But, also, it was an older game, and not very good.

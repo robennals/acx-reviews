@@ -7,7 +7,7 @@ contestName: 2022 Book Reviews
 year: 2022
 publishedDate: '2026-02-06T07:24:08.687Z'
 slug: a-history-of-the-ancient-near-east
-wordCount: 10382
+wordCount: 10385
 readingTimeMinutes: 47
 originalUrl: >-
   https://docs.google.com/document/d/1pRQbRbEUwSH_jm94PI_ij-88swat7vQ4iNaNp6gd39g
@@ -36,9 +36,9 @@ One of the main gains I have made from this book was to get some order in my hea
 
 In short, the structure of this story is as follows:
 
-1.  City-States (4000-1500 AC) 1.1. Origins of Civilization: agriculture, ceramics, writing, etc. 1.2. First cities 1.3. City-States, that is, cities that control some territory around them 1.4. First centralised kingdoms, where one city dominates other cities around it. 1.5. The Dark Age, a period of which we know very little.
-2.  Empires, in plural (1500-900 AC) 2.1. First empires, treating each other as equals, with a few small vassals each 2.2. The collapse in 1200 AC 2.3. The Rebirth of Civilization after the collapse
-3.  ONE Empire (900-323 AC) 3.1. First hegemonic empire, that is, that dominates the whole Ancient Near East: Asiria 3.2. (Medes and) Babilonians 3.3. Persia
+> 1.  City-States (4000-1500 AC) 1.1. Origins of Civilization: agriculture, ceramics, writing, etc. 1.2. First cities 1.3. City-States, that is, cities that control some territory around them 1.4. First centralised kingdoms, where one city dominates other cities around it. 1.5. The Dark Age, a period of which we know very little.
+> 2.  Empires, in plural (1500-900 AC) 2.1. First empires, treating each other as equals, with a few small vassals each 2.2. The collapse in 1200 AC 2.3. The Rebirth of Civilization after the collapse
+> 3.  ONE Empire (900-323 AC) 3.1. First hegemonic empire, that is, that dominates the whole Ancient Near East: Asiria 3.2. (Medes and) Babilonians 3.3. Persia
 
 And after Persia this ends because Alexander the Great from Macedon conquers the whole thing and makes it turn kind of Greek, but that's another story for another book. Now, with this structure in mind, the different historical data have a place to take root.
 
@@ -308,7 +308,7 @@ Persians had a peculiar religion, where they had only one god: Ahura Mazda. The 
 
 Apparently, there is way more debate that what I was aware of regarding when the different elements of the zoroastrian religion appear. I don't remember having those doubts back in the day when I read Mircea Eliade writing about the topic, so I may have to re-read those sections of this History of Religious Beliefs and Ideas with a bit more care, and to check also if it's the case that maybe Eliade had an excess of confidence in the date of his sources in this regard.
 
-What is really important about Persia is that they established an area of "Pax Persa" that was very extended, with an organization and administration that were very well calibrated. A great innovation were, for example, the network of couriers. They had some good roads, with stations every N km, where the messenger could drop the horse and take another one that was not tired, and keep running towards the next station. This way, the messages could get from one corner to the other of the empire in just SEVEN DAYS. From Herodotus' description of this system we get the motto of the New York Postal Service: "Neither snow nor rain nor heat nor gloom of night stays these couriers from the swift completion of their appointed rounds."
+What is really important about Persia is that they established an area of "Pax Persa" that was very extended, with an organization and administration that were very well calibrated. A great innovation were, for example, the network of couriers. They had some good roads, with stations every N km, where the messenger could drop the horse and take another one that was not tired, and keep running towards the next station. This way, the messages could get from one corner to the other of the empire in just SEVEN DAYS. From Herodotus' description of this system we get the motto of the New York Postal Service: "_Neither snow nor rain nor heat nor gloom of night stays these couriers from the swift completion of their appointed rounds._"
 
 In 323, when the year ends, Alexander the Great defeats Persia, and assumes all the titles he can from the ones the previous emperor of Persia had. So the whole empire was then under the control of one Greek guy, and then of his generals, and went through a few centuries of Hellenization, but that is already another story for another book.
 

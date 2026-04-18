@@ -7,7 +7,7 @@ contestName: 2022 Book Reviews
 year: 2022
 publishedDate: '2026-02-06T07:22:32.817Z'
 slug: the-beginning-of-infinity-by-david-deutsch
-wordCount: 6586
+wordCount: 6594
 readingTimeMinutes: 30
 originalUrl: >-
   https://docs.google.com/document/d/100kMdSVFviZSSBvUyyEQPMNlvLptVQxHFD9i9wGuBWs
@@ -17,13 +17,13 @@ tags:
   - Philosophy
 ---
 
-Deutsch eats rationalism
+_Deutsch eats rationalism_
 
-The philosopher Dan Dennet describes evolution, his pick for [the best idea that anyone's had](https://www.sfgate.com/books/article/Darwin-s-Theory-as-the-Best-Idea-Ever-3029303.php#:~:text=%22If%20I%20were%20to%20give,%2C%20mechanism%20and%20physical%20law.%22), as [universal acid](https://en.wikipedia.org/wiki/Darwin%27s_Dangerous_Idea#Universal_acid): A liquid so corrosive it eats through any substance that attempts to contain it.
+The philosopher Dan Dennet describes evolution, his pick for [the best idea that anyone's had](https://www.sfgate.com/books/article/Darwin-s-Theory-as-the-Best-Idea-Ever-3029303.php#:~:text=%22If%20I%20were%20to%20give,%2C%20mechanism%20and%20physical%20law.%22), as [universal acid](https://en.wikipedia.org/wiki/Darwin%27s_Dangerous_Idea#Universal_acid): A liquid so corrosive it eats through any substance that attempts to contain it.
 
-The ideas in The Beginning of Infinity (BoI), the 2011 book by the brilliant and eccentric[[15]](#ftnt15) Oxford physicist David Deutsch, form a universal acid: They can dissolve your entire worldview. Especially if your worldview happens to contain Bayesianism, forecasting, evolutionary psychology, behavioral genetics, cognitive biases, concerns for animal welfare, and an unease about the existential risks posed from the development of artificial intelligence. Did I miss anything?
+The ideas in _The Beginning of Infinity (BoI)_, the 2011 book by the brilliant and eccentric[[15]](#ftnt15) Oxford physicist David Deutsch, form a universal acid: They can dissolve your entire worldview. Especially if your worldview happens to contain Bayesianism, forecasting, evolutionary psychology, behavioral genetics, cognitive biases, concerns for animal welfare, and an unease about the existential risks posed from the development of artificial intelligence. Did I miss anything?
 
-Deutsch is a physicist by trade. He discovered the theory of quantum computing in the 1980s for which he was made a Royal Society Fellow. Remarkably, this achievement isn't the most interesting thing about him. Or, at least, it isn't the reason why he inspires so many. Deutsch's achievements in physics invariably end up as footnotes or preambles in interviews to get to his other ideas. Namely, those about knowledge.
+Deutsch is a physicist by trade. He discovered the theory of quantum computing in the 1980s for which he was made a Royal Society Fellow. Remarkably, this achievement isn't the most interesting thing about him. Or, at least, it isn't the reason why he inspires so many. Deutsch's achievements in physics invariably end up as footnotes or preambles in interviews to get to his _other_ ideas. Namely, those about knowledge.
 
 Reading BoI can feel like you're in the presence of an alien mind[[16]](#ftnt16). It completely avoids relying on conventional wisdom, both scientific and philosophical. In fact, it starts by redefining knowledge: How it’s created, its significance in the universe, and how it enables the unbounded potential of human progress. The later chapters are a tilt-a-whirl journey covering the impacts of knowledge on an eclectic range of topics from voting systems to flowers.
 
@@ -33,27 +33,27 @@ The book is filled with bold ideas, having one of the highest insight-per-page r
 
 Fortunately, according to Deutsch, problems are soluble.
 
-An initial problem in discussing Deutsch is the large [inferential distance](https://www.lesswrong.com/posts/HLqWn5LASfhhArZ7w/expecting-short-inferential-distances) from his ideas to most people's background knowledge. This can be easy to miss as Deutsch uses simple prosaic words to describe deep ideas. This makes the book accessible, but it risks the reader gliding past the significance of some of the claims.
+An initial problem in discussing Deutsch is the large [inferential distance](https://www.lesswrong.com/posts/HLqWn5LASfhhArZ7w/expecting-short-inferential-distances) from his ideas to most people's background knowledge. This can be easy to miss as Deutsch uses simple prosaic words to describe deep ideas. This makes the book accessible, but it risks the reader gliding past the significance of some of the claims.
 
 Take this sentence:
 
-“All evils are caused by insufficient knowledge.”
+> _“All evils are caused by insufficient knowledge.”_
 
-It’s a grand claim. It may even strike you as absurd: What do you mean all evil? Are you saying Hitler, Stalin, and Mao are caused by insufficient knowledge? What about poverty and violence? Or young children dying from cancer? Or a con-artist seducing an innocent older widowed woman to steal her entire retirement savings?
+It’s a grand claim. It may even strike you as absurd: What do you mean _all_ evil? Are you saying Hitler, Stalin, and Mao are caused by insufficient knowledge? What about poverty and violence? Or young children dying from cancer? Or a con-artist seducing an innocent older widowed woman to steal her entire retirement savings?
 
 Would avoiding WW2 have been as simple as having Führer-life-improving technologies such as perfectly crunchy vegetables, retractable dog leashes, and artificial light to make the evening sun shine extra brightly on the day that young Adolf was leaving Art school auditions?
 
 Perhaps.
 
-But the examples surely can’t all be the result of a lack of knowledge. I suppose the widow could've avoided her fate if she was less naive. But what about evil people? Isn't the very problem with the evil genius trope the fact that he has too much knowledge. Imagine if ISIS acquired the knowledge to create nuclear weapons.
+But the examples surely can’t _all_ be the result of a lack of knowledge. I suppose the widow could've avoided her fate if she was less naive. But what about evil _people_? Isn't the very problem with the evil genius trope the fact that he has _too much_ knowledge. Imagine if ISIS acquired the knowledge to create nuclear weapons.
 
 Or take a seemingly unconnected sentence:
 
-“Problems are soluble.”
+> _“Problems are soluble.”_
 
-A simple claim on the face of it. But the implications of it being true are momentous: All problems. No matter how hard. How interconnected. How ambiguous. How evil. They're soluble, in principle. The final caveat is important: There is no guarantee that we will solve our problems but it is possible that we can. And, according to Deutsch, it all depends on creating requisite knowledge.
+A simple claim on the face of it. But the implications of it being true are momentous: All problems. No matter how hard. How interconnected. How ambiguous. How evil. They're soluble, in principle. The final caveat is important: There is no guarantee that we _will_ solve our problems but it is possible that we _can_. And, according to Deutsch, it all depends on creating requisite knowledge.
 
-So knowledge will solve all our problems and cure evil? Well, not necessarily. Ok, then: problems may be solved if we know how. That seems like a tautology: If we know how to solve the problem, we know how to solve the problem. Sure. The key point from Deutsch though concerns barriers. Specifically, the lack of them: Deutsch provocatively claims that there are no barriers to knowledge.
+So knowledge will solve all our problems and cure evil? Well, not necessarily. Ok, then: problems _may_ be solved _if we know how_. That seems like a tautology: If we know how to solve the problem, we know how to solve the problem. Sure. The key point from Deutsch though concerns _barriers._ Specifically, the lack of them: Deutsch provocatively claims that there are no barriers to knowledge.
 
 He makes a caveat around the laws of physics. He doesn’t claim that we can go faster than the speed of light. But any physical transformation “that is not forbidden by laws of nature is achievable, given the right knowledge”. Deutsch’s “momentous dichotomy”.
 
@@ -61,37 +61,37 @@ He makes a caveat around the laws of physics. He doesn’t claim that we can go 
 
 To appreciate the implications of the claim that problems are soluble, Deutsch provides a thought experiment where we travel far into space to a bleak nowhere where there is nothing but hydrogen atoms. Given we had the right knowledge, we can make it home. Forget Mars: In the future we can terraform seemingly empty space. We can develop nano machines to make bigger machines that can transform hydrogen into more traditional resources. Quite literally, the universe is the limit.
 
-This thought experiment shows that it’s a parochial misconception to think earth is uniquely well suited for our survival. Deutsch calls this misconception Spaceship Earth. He points out that Oxfordshire, where he lives, isn’t well-suited for survival if it wasn’t for knowledge. Without clothes, shelter, trade, and medicine, he wouldn’t survive long. But, due to knowledge, Oxfordshire is more suitable than the Great Rift Valley, the likely place where we evolved.  
+This thought experiment shows that it’s a parochial misconception to think earth is uniquely well suited for our survival. Deutsch calls this misconception _Spaceship Earth_. He points out that Oxfordshire, where he lives, isn’t well-suited for survival _if it wasn’t for knowledge_. Without clothes, shelter, trade, and medicine, he wouldn’t survive long. But, due to knowledge, Oxfordshire is more suitable than the Great Rift Valley, the likely place where we evolved.  
 
-Reliance on knowledge rather than the environment captures the human condition: We, unlike other animals, can subdue our environment. As [Jacob Bronwoski](https://libquotes.com/jacob-bronowski/quote/lbt7v5c) said: “[man] is not a figure in the landscape – he is a shaper of the landscape.” Deserts can be irrigated. Jungles air-conditioned. Oceans crossed.
+Reliance on knowledge rather than the environment captures the human condition: We, unlike other animals, can subdue our environment. As [Jacob Bronwoski](https://libquotes.com/jacob-bronowski/quote/lbt7v5c) said: “[man] is not a figure in the landscape – he is a shaper of the landscape.” Deserts can be irrigated. Jungles air-conditioned. Oceans crossed.
 
-Deutsch [likes](https://twitter.com/DavidDeutschOxf/status/904454563582922753?s=20&t=yZJXvyLVTTGZh5zgPluvfA) Rick and Morty for portraying this theme. He doesn’t claim it’s the [funniest shit of all time](https://knowyourmeme.com/memes/pickle-rick-funniest-shit-ever), but [Pickle Rick](https://www.youtube.com/watch?v=tZp8sY06Qoc) epitomizes the human condition: “With only his mind, and minimal access to the world, he subdues it.”
+Deutsch [likes](https://twitter.com/DavidDeutschOxf/status/904454563582922753?s=20&t=yZJXvyLVTTGZh5zgPluvfA) Rick and Morty for portraying this theme. He doesn’t claim it’s the [funniest shit of all time](https://knowyourmeme.com/memes/pickle-rick-funniest-shit-ever), but [Pickle Rick](https://www.youtube.com/watch?v=tZp8sY06Qoc) epitomizes the human condition: “With only his mind, and minimal access to the world, he subdues it.”
 
-This is why Deutsch calls himself an optimist. It’s not his cheery domineer, although he has that too. And it’s not a prediction that the best outcome is always most likely. Problems are always around the corner. Deutsch’s optimism is that problems can be solved.  
+This is why Deutsch calls himself an optimist. It’s not his cheery domineer, although he has that too. And it’s not a prediction that the best outcome is always most likely. Problems are always around the corner. Deutsch’s optimism is that problems _can_ be solved.  
   
-Not only can all problems be solved, but all people can solve problems. People have universality. As Deutsch says: “there can be only one type of person: universal explainers”. Universal explainers can create explanatory knowledge.
+Not only can all problems be solved, but all people can solve problems. People have _universality_. As Deutsch says: “there can be only one type of person: universal explainers”. Universal explainers can create explanatory knowledge.
 
-This falls out of the [Church-Turing Thesis](https://en.wikipedia.org/wiki/Church%E2%80%93Turing_thesis) where anything is computable if it can be performed by a Turing machine. Everything that a physical object can do, can be emulated by a computer program. The only limits are memory and processing speed (which can always be added on). Reality can be computed and therefore explained.
+This falls out of the [Church-Turing Thesis](https://en.wikipedia.org/wiki/Church%E2%80%93Turing_thesis) where anything is computable if it can be performed by a Turing machine. Everything that a physical object can do, can be emulated by a computer program. The only limits are memory and processing speed (which can always be added on). Reality can be computed and therefore explained.
 
 ### Barriers to understanding
 
-Even if you’re on board with space faring civilizations creating nanotechnology to transmute hydrogen into hyenas, you may object that there is a different type of barrier. Namely, in our intuitive understanding. This is a common view among scientists: some concepts may be out of reach of our intelligence, like the theory of relativity is for chimpanzees. We evolved to avoid lions on the savannah. Not to understand the very small (quantum physics confuses us) or the very large (we underestimate the size of evolutionary or cosmological history).
+Even if you’re on board with space faring civilizations creating nanotechnology to transmute hydrogen into hyenas, you may object that there is a different type of barrier. Namely, in our _intuitive understanding_. This is a common view among scientists: some concepts may be out of reach of our intelligence, like the theory of relativity is for chimpanzees. We evolved to avoid lions on the savannah. Not to understand the very small (quantum physics confuses us) or the very large (we underestimate the size of evolutionary or cosmological history).
 
-Quantum physics and the age of the universe are of course things we know. But that doesn’t seem to be what’s in contention. It’s whether it feels intuitive to us.
+Quantum physics and the age of the universe are of course things we know. But that doesn’t seem to be what’s in contention. It’s whether it feels _intuitive_ to us.
 
-Deutsch points out that this is not the standard of having knowledge. If so, most of our knowledge would fail. Spacetime doesn't feel curved to us. The earth doesn't feel round. But we know they are. Further, our intuitions mislead us, as anyone who has been to a magician can purport. And as [Wittgenstein said](https://www.goodreads.com/quotes/752593-tell-me-wittgenstein-s-asked-a-friend-why-do-people-always#:~:text=Quotes%20%3E%20Quotable%20Quote-,%E2%80%9CTell%20me%2C%22%20Wittgenstein's%20asked%20a%20friend%2C%20%22why,Wittgenstein%20replied%2C%20%22Well%2C%20what) in response to the claim that it looks like the sun orbits the earth: "What would it have looked like if it had looked as if the earth turned on its axis".
+Deutsch points out that this is not the standard of having knowledge. If so, most of our knowledge would fail. Spacetime doesn't _feel_ curved to us. The earth doesn't _feel_ round. But we know they are. Further, our intuitions mislead us, as anyone who has been to a magician can purport. And as [Wittgenstein said](https://www.goodreads.com/quotes/752593-tell-me-wittgenstein-s-asked-a-friend-why-do-people-always#:~:text=Quotes%20%3E%20Quotable%20Quote-,%E2%80%9CTell%20me%2C%22%20Wittgenstein's%20asked%20a%20friend%2C%20%22why,Wittgenstein%20replied%2C%20%22Well%2C%20what) in response to the claim that it looks like the sun orbits the earth: "What would it have looked like _if it had looked as if_ the earth turned on its axis".
 
-But what about the claims that some things are inherently unknowable? Such as Colin McGuin’s awkwardly named [mysterianism](https://en.wikipedia.org/wiki/New_mysterianism) around the intractability of the hard problem of consciousness.
+But what about the claims that some things are inherently unknowable? Such as Colin McGuin’s awkwardly named [mysterianism](https://en.wikipedia.org/wiki/New_mysterianism) around the intractability of the hard problem of consciousness.
 
 Deutsch argues that invoking unknowable knowledge is equivalent to appealing to the supernatural. Both are non-explanations. Such knowledge would resemble Zeus as they would both control us but remain unknowable.
 
-Not only that, the argument that some things are unknowable proves too much. Phenomena outside our sphere of understanding will surely affect things inside it. The theory of relativity being inherently unknowable impacts our understanding of how planets orbit and apples fall. If any knowledge is outside a barrier, then all of it is.
+Not only that, the argument that some things are unknowable proves too much. Phenomena outside our sphere of understanding will surely affect things inside it. The theory of relativity being inherently unknowable impacts our understanding of how planets orbit and apples fall. If _any_ knowledge is outside a barrier, then all of it is.
 
 ### The cosmic significance of knowledge (and people)
 
-If knowledge can solve all problems, it must be quite important. For Deutsch, knowledge, as a building block of the universe, is up there with the laws of physics. In fact, knowledge is arguably the most important thing in the universe. This in turn elevates the importance of humans: as we are the ones who create knowledge.
+If knowledge can solve all problems, it must be quite important. For Deutsch, knowledge, as a building block of the universe, is up there with the laws of physics. In fact, knowledge is arguably the _most_ important thing in the universe. This in turn elevates the importance of humans: as we are the ones who create knowledge.
 
-Another conventional wisdom among scientists is that humans are insignificant in the cosmic scheme of things. The universe is massive and old and wasn’t designed with us in mind. A [young Alvy Singer](https://www.youtube.com/watch?v=5U1-OmAICpU) doesn’t see the point in doing his homework when he learns that the universe is expanding[[17]](#ftnt17). A [much older Stephen Hawking](https://www.goodreads.com/quotes/523470-the-human-race-is-just-a-chemical-scum-on-a) calls us “insignificant chemical scum”.
+Another conventional wisdom among scientists is that humans are insignificant in the cosmic scheme of things. The universe is massive and old and wasn’t designed with us in mind. A [young Alvy Singer](https://www.youtube.com/watch?v=5U1-OmAICpU) doesn’t see the point in doing his homework when he learns that the universe is expanding[[17]](#ftnt17). A [much older Stephen Hawking](https://www.goodreads.com/quotes/523470-the-human-race-is-just-a-chemical-scum-on-a) calls us “insignificant chemical scum”.
 
 As Deutsch says: “Feeling insignificant because the universe is large has exactly the same logic as feeling inadequate for not being a cow.” Our significance is not due to our size or bovinity, but to our ability to create knowledge. The deserts we can irrigate are not limited to earth but lie in distant galaxies.
 
@@ -99,33 +99,33 @@ Understanding the world depends on understanding what knowledge exists. Earth ma
 
 ### So what is knowledge?
 
-We tend to already have a sense of what knowledge is: It’s the understanding of a subject. To know something is not to simply [parrot a password](https://www.lesswrong.com/posts/NMoLJuDJEms7Ku9XS/guessing-the-teacher-s-password): To know something requires understanding how it's [related](https://www.gapingvoidart.com/wp-content/uploads/shopp/cache_852_852_0_0_100_16777215_information-knowledge.jpg) to other ideas.
+We tend to already have a sense of what knowledge is: It’s the _understanding_ of a subject. To know something is not to simply [parrot a password](https://www.lesswrong.com/posts/NMoLJuDJEms7Ku9XS/guessing-the-teacher-s-password): To know something requires understanding how it's _[related](https://www.gapingvoidart.com/wp-content/uploads/shopp/cache_852_852_0_0_100_16777215_information-knowledge.jpg)_ to other ideas.
 
 Wittgenstein has a lovely quote in Philosophical Investigations:
 
-“A wheel that can be turned, though nothing else moves with it, is not a part of the mechanism”
+> _“A wheel that can be turned, though nothing else moves with it, is not a part of the mechanism”_
 
-Having small unconnected pieces of information doesn’t help. Knowledge should be integrated. Which circumstances does this new idea apply? What existing ideas does it challenge? What ideas does it support?
+Having small unconnected pieces of information doesn’t help. Knowledge should be _integrated_. Which circumstances does this new idea apply? What existing ideas does it challenge? What ideas does it support?
 
-Pierre Bayard [goes as far as saying](https://www.amazon.com/Talk-About-Books-Havent-Read/dp/1596915439) that a relational understanding is often more important than the content of a book itself. (Making it not completely nonsensical for people to have [favorite](https://slatestarcodex.com/2017/03/16/book-review-seeing-like-a-state/) [books](https://slatestarcodex.com/2016/04/27/book-review-albions-seed/) that they haven’t actually read.)
+Pierre Bayard [goes as far as saying](https://www.amazon.com/Talk-About-Books-Havent-Read/dp/1596915439) that a relational understanding is often more important than the content of a book itself. (Making it not completely nonsensical for people to have [favorite](https://slatestarcodex.com/2017/03/16/book-review-seeing-like-a-state/) [books](https://slatestarcodex.com/2016/04/27/book-review-albions-seed/) that they haven’t actually read.)
 
-The educational psychologist Benjamin Bloom offers a useful [classification](https://ctle.utah.edu/resources/Blooms-Taxonomy.php) of knowledge types: factual, conceptual, and procedural. Respectively: knowing the details and terminology; knowing the relationships between concepts and theories; and knowing how to do things.
+The educational psychologist Benjamin Bloom offers a useful [classification](https://ctle.utah.edu/resources/Blooms-Taxonomy.php) of knowledge types: factual, conceptual, and procedural. Respectively: knowing the details and terminology; knowing the relationships between concepts and theories; and knowing how to do things.
 
-The common sense view of knowledge mostly covers what Deutsch means by the term. Deutsch puts emphasis on explanation: We explain things we see in terms of things we don't see. The tilt of the earth and its orbit around the sun explains the seasons. This is a good explanation as it’s hard to vary, where all the details play a functional role.
+The common sense view of knowledge mostly covers what Deutsch means by the term. Deutsch puts emphasis on _explanation_: We explain things we see in terms of things we don't see. The tilt of the earth and its orbit around the sun explains the seasons. This is a good explanation as it’s hard to vary, where all the details play a functional role.
 
 Deutsch also offers a tentative formal definition of knowledge: information that causes transformations. We explain phenomena in terms of more general laws which can transcend the original application it was used for. Knowing the theories behind the trajectory of throwing a ball allows us to build satellites.
 
 ### Unjustified Knowledge: Guesses and Criticism
 
-“For even if by chance he were to utter the final truth, he would himself not know it: For all is but a woven web of guesses” - Xenophanes
+> _“For even if by chance he were to utter the final truth, he would himself not know it: For all is but a woven web of guesses”_ - Xenophanes
 
-Deutsch's idea of knowledge differs from what you'll be taught in Philosophy 101: Namely, knowledge as [Justified True Belief](https://en.wikipedia.org/wiki/Belief#Justified_true_belief): If we believe a claim, it happens to be true, and we have justifiable reasons for coming to our belief, then we have knowledge of that claim.
+Deutsch's idea of knowledge differs from what you'll be taught in Philosophy 101: Namely, knowledge as [Justified True Belief](https://en.wikipedia.org/wiki/Belief#Justified_true_belief): If we believe a claim, it happens to be true, and we have justifiable reasons for coming to our belief, then we have knowledge of that claim.
 
-(Then Edmund Gettier proposed a bunch of [counterexamples](https://en.wikipedia.org/wiki/Gettier_problem) showing that even these conditions weren't enough. Like believing there’s a chicken on the roof because you saw a white plastic bag flapping in the wind. But the plastic bag’s flapping was awfully similar to the flapping of a chicken and any reasonable person with adequate chicken recognizing credentials would have made the same mistake. But, unbeknown to you, there actually was a chicken on the roof the entire time. It was just hiding behind the chimney.)
+(Then Edmund Gettier proposed a bunch of [counterexamples](https://en.wikipedia.org/wiki/Gettier_problem) showing that even these conditions weren't enough. Like believing there’s a chicken on the roof because you saw a white plastic bag flapping in the wind. But the plastic bag’s flapping was awfully similar to the flapping of a chicken and any reasonable person with adequate chicken recognizing credentials would have made the same mistake. But, unbeknown to you, there actually was a chicken on the roof the entire time. It was just hiding behind the chimney.)
 
-Gettier problems are clever (or silly) on their own terms, but the criticism they bring is that JTB isn't sufficient for knowledge. Under Deutsch's conception, these conditions aren't necessary. Quite the contrary: knowledge isn't justified, knowledge isn't true (in the sense of being free from error), and it's not even a belief! Three for three.
+Gettier problems are clever (or silly) on their own terms, but the criticism they bring is that JTB isn't _sufficient_ for knowledge. Under Deutsch's conception, these conditions aren't _necessary_. Quite the contrary: knowledge isn't justified, knowledge isn't true (in the sense of being free from error), and it's not even a belief! Three for three.
 
-Reminiscent of Deutsch's response when [being interviewed by](https://www.samharris.org/blog/surviving-the-cosmos) the podcaster Sam Harris: "You've made three different arguments. All of which are wrong."
+Reminiscent of Deutsch's response when [being interviewed by](https://www.samharris.org/blog/surviving-the-cosmos) the podcaster Sam Harris: "You've made three different arguments. All of which are wrong."
 
 (That's another thing you'll notice about Deutsch: His confidence to criticize ideas that are well-subscribed to but mistaken. Entire fields even. One chapter laments how physics went awry in the early 20th century. Another on philosophy. It's the sort of untroubled confidence that perhaps only an acclaimed quantum physicist gets away with[[18]](#ftnt18).)
 
@@ -133,21 +133,21 @@ Most importantly for Deutsch, knowledge isn’t justified. This is for quite a s
 
 According to Deutsch, we need to change the question. Instead, we should ask: How can this idea solve my problem[[19]](#ftnt19)? Or: How can we find a better theory?
 
-(Deutsch does this “let’s-just-change-the-question” move a few times. I'm not entirely sure it's legitimate. You’re still left with this nagging voice inside you asking: “How do we really know?” You don’t. So stop asking.)
+(Deutsch does this “let’s-just-change-the-question” move a few times. I'm not entirely sure it's legitimate. You’re still left with this nagging voice inside you asking: “How do we _really_ know?” You don’t. So stop asking.)
 
-Deutsch argues that ultimate justification is a chimera. And seeking it “may well have wasted more philosophers’ time and effort than any other idea.” Knowledge, according to Deutsch, is literally guesswork. Einstein’s theory of relativity was a bold guess. As was Darwin’s theory of evolution. We make guesses then submit them to criticism. This criticism can take the form of arguments or empirical tests.
+Deutsch argues that ultimate justification is a chimera. And seeking it “may well have wasted more philosophers’ time and effort than any other idea.” Knowledge, according to Deutsch, is literally guesswork. Einstein’s theory of relativity was a bold guess. As was Darwin’s theory of evolution. We make guesses then submit them to criticism. This criticism can take the form of arguments or empirical tests.
 
-The corollary is that we can never be sure that we have arrived at the truth. Deutsch is a proponent of fallibilism: the claim that all people are subject to error. Although objective truth exists, we can never be certain we have found it[[20]](#ftnt20).
+The corollary is that we can never be sure that we have arrived at the truth. Deutsch is a proponent of _fallibilism_: the claim that all people are subject to error. Although objective truth exists, we can never be certain we have found it[[20]](#ftnt20).
 
 Deutsch’s fallibilism permeates his morality. He is non-authoritarian as it is irrational to discount other people's theories and criticisms. This is because (1) knowledge grows by correcting errors, and (2) there’s no basis to privilege his ideas over anyone else's.
 
-(His anti-authoritarianism gets fairly serious fairly quickly. He thinks democratic voting systems should enable the [peaceful removal](https://www.economist.com/democracy-in-america/2016/01/31/from-the-archives-the-open-society-and-its-enemies-revisited) of leaders. He doesn't teach at his university as it implies an authoritarian relationship between teacher and student. He [thinks](https://www.fitz-claridge.com/introduction-to-the-theory-of-taking-children-seriously/) most parenting norms, where the parent assumes power over the child, are immoral. He even refuses to give advice.)
+(His anti-authoritarianism gets fairly serious fairly quickly. He thinks democratic voting systems should enable the [peaceful removal](https://www.economist.com/democracy-in-america/2016/01/31/from-the-archives-the-open-society-and-its-enemies-revisited) of leaders. He doesn't teach at his university as it implies an authoritarian relationship between teacher and student. He [thinks](https://www.fitz-claridge.com/introduction-to-the-theory-of-taking-children-seriously/) most parenting norms, where the parent assumes power over the child, are immoral. He even refuses to give advice.)
 
 And Deutsch doesn't believe in belief either[[21]](#ftnt21).
 
 ### Footnotes to Popper
 
-The book is largely a repackaging of the views of Karl Popper. In fact, Deutsch's worldview is Popperian. Although there are fingerprints from other thinkers sprinkled throughout, Deutsch happily describes his work as footnotes to Popper[[22]](#ftnt22).
+The book is largely a repackaging of the views of Karl Popper. In fact, Deutsch's worldview _is_ Popperian. Although there are fingerprints from other thinkers sprinkled throughout, Deutsch happily describes his work as footnotes to Popper[[22]](#ftnt22).
 
 But you aren't required to have read Popper to start BoI. In fact, Deutsch is the best place to learn Popperian philosophy. He's a better writer and has improved on it in places by emphasizing explanations and taking Popper’s views to their natural extensions. If nothing else, BoI is a clear introduction to Popper's ideas.
 
@@ -161,9 +161,9 @@ And it’s of course the basis of the many contradictions that a young rationali
 
 ## Contradictions with rationalism
 
-Do I contradict myself? Very well, then, I contradict myself; I am large. I contain multitudes. - Walt Whitman
+> _Do I contradict myself? Very well, then, I contradict myself; I am large. I contain multitudes_. - Walt Whitman
 
-The obvious problem with universal acid is it corrodes your other frameworks and leaves you in a mess. Especially as a young rationalist. [Robin Hanson argues](https://mason.gmu.edu/~rhanson/deceive.pdf) that rational people shouldn't knowingly disagree: At least one of you must be wrong. Honest truth-seeking partners should identify areas to persuade or be persuaded.
+The obvious problem with universal acid is it corrodes your other frameworks and leaves you in a mess. Especially as a young rationalist. [Robin Hanson argues](https://mason.gmu.edu/~rhanson/deceive.pdf) that rational people shouldn't knowingly disagree: At least one of you must be wrong. Honest truth-seeking partners should identify areas to persuade or be persuaded.
 
 It's fair to assume that this should hold internally for your own views. Inconsistent ideas should be ironed out. Fortunately, reconciling inconsistent ideas is simply another problem to be solved. Just like unifying quantum mechanics with general relativity. In the meantime, perhaps paradoxically, they continue to inform our understanding of the universe.
 
@@ -173,17 +173,17 @@ If I was to have a go at listing some of the main facets of rationalism, my nomi
 
 ### Different rats
 
-Deutsch's (and Popper's) philosophy is called [Critical Rationalism](https://en.wikipedia.org/wiki/Critical_rationalism#:~:text=Critical%20rationalism%20is%20an%20epistemological,possible%20to%20logically%20falsify%20it.). Confusingly, this is unrelated to Less Wrong styled Rationalism - the idea that rationality can be analyzed and improved on via the use of statistics, game theory, and identifying biases.
+Deutsch's (and Popper's) philosophy is called [Critical Rationalism](https://en.wikipedia.org/wiki/Critical_rationalism#:~:text=Critical%20rationalism%20is%20an%20epistemological,possible%20to%20logically%20falsify%20it.). Confusingly, this is unrelated to Less Wrong styled Rationalism - the idea that rationality can be analyzed and improved on via the use of statistics, game theory, and identifying biases.
 
-Even more confusingly, the rationalism label (in the LW sense) is misleading for those familiar with the history of Western philosophy. LW-styled-Rationalism arguably follows the tradition of [empiricism](https://plato.stanford.edu/entries/rationalism-empiricism/), especially with its focus on Bayesianism following the tradition of [induction](https://www.newworldencyclopedia.org/entry/Induction_(philosophy)#:~:text=Induction%20is%20a%20specific%20form,epistemology%2C%20and%20philosophy%20of%20science.). But empiricism gets contrasted with rationalism! Historic rationalism that is. Think Locke and Hume (empiricism) emphasizing sense experience as the source of our knowledge vs Descartes and Spinoza (rationalism) emphasizing internal reflective experience.
+Even more confusingly, the rationalism label (in the LW sense) is misleading for those familiar with the history of Western philosophy. LW-styled-Rationalism arguably follows the tradition of _[empiricism](https://plato.stanford.edu/entries/rationalism-empiricism/)_, especially with its focus on Bayesianism following the tradition of [induction](https://www.newworldencyclopedia.org/entry/Induction_(philosophy)#:~:text=Induction%20is%20a%20specific%20form,epistemology%2C%20and%20philosophy%20of%20science.). But empiricism gets _contrasted_ with rationalism! Historic rationalism that is. Think Locke and Hume (empiricism) emphasizing sense experience as the source of our knowledge vs Descartes and Spinoza (rationalism) emphasizing internal reflective experience.
 
 I won’t even start with post-rationalism. You can wait a few months for someone on twitter to ask what it is.
 
 ![](https://acximages.ennals.org/images/2022-book-reviews/fcd02a7cfe92a2e8.png)
 
-So rationalism (LW-styled) is kind of empiricism... which is opposed to (historic) rationalism... and post-rationalism kind of comes from rationalism (LW-styled) but maybe it just shares similar audiences… and Critical Rationalism is the philosophy developed by Karl Popper which states that we are fallible and that knowledge is created by making guesses and criticizing those guesses… (but many think it’s simply falsification)… and it seems to have some small inconsistencies with rationalism (LW-styled) like some of the terms having different meanings and totally dissolving its worldview.
+So rationalism (LW-styled) is _kind of_ empiricism... which is _opposed_ to (historic) rationalism... and post-rationalism _kind of_ comes from rationalism (LW-styled) but maybe it just shares similar audiences… and _Critical_ Rationalism is the philosophy developed by Karl Popper which states that we are fallible and that knowledge is created by making guesses and criticizing those guesses… (but many think it’s simply falsification)… and it seems to have some small inconsistencies with rationalism (LW-styled) like some of the terms having different meanings and totally dissolving its worldview.
 
-Before getting to specific topics, one difference is that Deutsch seem more like a [hedgehog](https://www.npr.org/2019/07/08/739502013/the-fox-and-the-hedgehog-a-story-of-triumphs-and-tragedy#:~:text=Renee%20Klahr-,Psychologist%20Phil%20Tetlock%20thinks%20the%20parable%20of%20the%20fox%20and,different%20approaches%20with%20different%20problems.) and rationalists tend to be foxes. Deutsch’s big idea being of course his view of knowledge in which everything else stems from.
+Before getting to specific topics, one difference is that Deutsch seem more like a [hedgehog](https://www.npr.org/2019/07/08/739502013/the-fox-and-the-hedgehog-a-story-of-triumphs-and-tragedy#:~:text=Renee%20Klahr-,Psychologist%20Phil%20Tetlock%20thinks%20the%20parable%20of%20the%20fox%20and,different%20approaches%20with%20different%20problems.) and rationalists tend to be foxes. Deutsch’s big idea being of course his view of knowledge in which everything else stems from.
 
 Hedgehog is a bit of a pejorative term for rationalists. [Foxes make better forecasts](https://longnow.org/seminars/02007/jan/26/why-foxes-are-better-forecasters-than-hedgehogs/). Hedgehogs try to twist everything to fit into their worldview. Maybe Deutsch is guilty of this. On the other hand, if you have sound arguments after reasoning from first principles, isn’t everything being consistent a good thing? Computation is universal. Knowledge is conjectural. Humans are fallible.
 
@@ -193,23 +193,23 @@ A semi-related point is that the community around Deutsch’s ideas come across 
 
 We can look at evolutionary psychology and behavioral genetics together. Behavioral genetics looks at differences between individual’s outcomes. Whereas evolutionary psychology focuses on what is shared across humans. But both fields attempt to attribute much human behavior to an inborn human nature.
 
-To be clear, evolutionary psychology was a [view-quake](https://marginalrevolution.com/marginalrevolution/2007/11/view-quake-read.html) for me. Specifically, the ideas in Robert Trivers’ series of papers from the 70s (popularized by Dawkins in The Selfish Gene and [a](https://www.amazon.com/Origins-Virtue-Instincts-Evolution-Cooperation/dp/0140264450) [flood](https://www.amazon.com/Moral-Animal-Science-Evolutionary-Psychology/dp/0679763996) [of](https://www.amazon.com/Red-Queen-Evolution-Human-Nature/dp/0060556579) [popular](https://www.amazon.com/Adapted-Mind-Evolutionary-Psychology-Generation/dp/0195101073) [books](https://www.amazon.com/How-Mind-Works-Steven-Pinker/dp/1491514965) [in](https://www.amazon.com/Mating-Mind-Sexual-Choice-Evolution-ebook/dp/B006F2182G) the 90s). They provided a scientific basis for understanding the main types of human relationships: between [the sexes](https://web.archive.org/web/20160304025739/http://www1.appstate.edu/~kms/classes/psy2664/Documents/trivers.pdf); between [parents and children and siblings](https://academic.oup.com/icb/article/14/1/249/2066733?login=false); [between friends](https://www.journals.uchicago.edu/doi/10.1086/406755); and [with yourself](https://labs.la.utexas.edu/swann/files/2016/03/brooks-17-18.pdf). Triver’s ideas, like evolutionary theory itself, fall into the category of ideas that are simple to understand once stated, but weren’t discovered for centuries.
+To be clear, evolutionary psychology was a [view-quake](https://marginalrevolution.com/marginalrevolution/2007/11/view-quake-read.html) for me. Specifically, the ideas in Robert Trivers’ series of papers from the 70s (popularized by Dawkins in _The Selfish Gene_ and [a](https://www.amazon.com/Origins-Virtue-Instincts-Evolution-Cooperation/dp/0140264450) [flood](https://www.amazon.com/Moral-Animal-Science-Evolutionary-Psychology/dp/0679763996) [of](https://www.amazon.com/Red-Queen-Evolution-Human-Nature/dp/0060556579) [popular](https://www.amazon.com/Adapted-Mind-Evolutionary-Psychology-Generation/dp/0195101073) [books](https://www.amazon.com/How-Mind-Works-Steven-Pinker/dp/1491514965) [in](https://www.amazon.com/Mating-Mind-Sexual-Choice-Evolution-ebook/dp/B006F2182G) the 90s). They provided a scientific basis for understanding the main types of human relationships: between [the sexes](https://web.archive.org/web/20160304025739/http://www1.appstate.edu/~kms/classes/psy2664/Documents/trivers.pdf); between [parents and children and siblings](https://academic.oup.com/icb/article/14/1/249/2066733?login=false); [between friends](https://www.journals.uchicago.edu/doi/10.1086/406755); and [with yourself](https://labs.la.utexas.edu/swann/files/2016/03/brooks-17-18.pdf). Triver’s ideas, like evolutionary theory itself, fall into the category of ideas that are simple to understand once stated, but weren’t discovered for centuries.
 
-Then there’s behavioral genetics. Robert Plomin, a doyen in the field, provides an accessible overview of the literature in Blueprint (2018). The main findings, via twin and adoptions studies, are: all behavioral characteristics are heritable; parenting doesn’t matter for long term outcomes; and environmental effects are idiosyncratic.
+Then there’s behavioral genetics. Robert Plomin, a doyen in the field, provides an accessible overview of the literature in _Blueprint (2018)_. The main findings, via twin and adoptions studies, are: all behavioral characteristics are heritable; parenting doesn’t matter for long term outcomes; and environmental effects are idiosyncratic.
 
-But the problem with explaining human behavior in terms of genes, as a Deutschian, is it quickly runs [counter](https://twitter.com/DavidDeutschOxf/status/1019612551691239425?s=20&t=8FPazcF3-G9Nr0zUxDH_0g) to human universality. There are no barriers to knowledge creation, so genetic influence cannot be immutable[[24]](#ftnt24).
+But the problem with explaining human behavior in terms of genes, as a Deutschian, is it quickly runs [counter](https://twitter.com/DavidDeutschOxf/status/1019612551691239425?s=20&t=8FPazcF3-G9Nr0zUxDH_0g) to human universality. There are no barriers to knowledge creation, so genetic influence cannot be immutable[[24]](#ftnt24).
 
-Many denials of human nature are due to commitments to ideology or political correctness. This is the topic of Steven Pinker’s The Blank Slate (2002). If people differ, in part, due to their genes, then hopes of an egalitarian society are weakened. The most taboo being any discussion about group differences.
+Many denials of human nature are due to commitments to ideology or political correctness. This is the topic of Steven Pinker’s _The Blank Slate (2002)_. If people differ, in part, due to their genes, then hopes of an egalitarian society are weakened. The most taboo being any discussion about group differences.
 
 Deutsch, however, does not seem motivated by political correctness. Elsewhere in BoI, he’s willing to defend politically sensitive views such as open societies in the West being better than closed societies or primitive societies[[25]](#ftnt25).
 
 Deutsch doesn’t totally reject genetics either. As we’ve covered, knowledge can be instantiated in genes. We are not blank slates. It actually neatly solves the problem of where human knowledge originally comes from. New ideas build on earlier ideas. Which were built on even earlier ideas. Going back to inborn ideas. His main criticism is that these influences are not immutable.  
   
-To be fair to evolutionary psychologists and behavioral geneticists, many don’t claim immutability. As Richard Plomin outlines: “genetics explain what is not what can be.”
+To be fair to evolutionary psychologists and behavioral geneticists, many don’t claim immutability. As Richard Plomin outlines: “genetics explain what _is_ not what _can be_.”
 
 So where’s the disagreement? I think it lies in (1) to what extent current outcomes are due to genetic influence, and (2) how easy this influence is to overcome.
 
-Deutsch seems to think that attributing current human behavior to genes is wrongheaded. That it’s easy to override our inborn instincts and perhaps even to overwrite them given the right knowledge. In fact, any genetic component is itself dependent on culture. He doesn’t explicitly say this in BoI, but he hints at it in interviews and it’s a corollary of his views on knowledge[[26]](#ftnt26): There are no barriers.
+Deutsch seems to think that attributing current human behavior to genes is wrongheaded. That it’s _easy_ to override our inborn instincts and perhaps even to over_write_ them _given the right knowledge_. In fact, any genetic component is itself dependent on culture. He doesn’t explicitly say this in BoI, but he hints at it in interviews and it’s a corollary of his views on knowledge[[26]](#ftnt26): There are no barriers.
 
 It’s hard to square this with the behavioral genetic literature where identical twins turn out so similarly (even when they’re reared apart) and adopted children turn out so differently to their adoptive parents. The most parsimonious explanation seems to be genetic influence on personality and IQ[[27]](#ftnt27). If not immutable, it seems to be very sticky. But any stickiness must not violate human universality. An important problem to be solved indeed.
 
@@ -217,39 +217,39 @@ It’s hard to square this with the behavioral genetic literature where identica
 
 Bayes pops up a fair bit in the rationalist canon.
 
-![](https://acximages.ennals.org/images/2022-book-reviews/4a80866f3c0f1c6d.png) ![](https://acximages.ennals.org/images/2022-book-reviews/b3e504971feab431.png)
+![](https://acximages.ennals.org/images/2022-book-reviews/4a80866f3c0f1c6d.png) ![](https://acximages.ennals.org/images/2022-book-reviews/b3e504971feab431.png)
 
 If Deutsch’s worldview conflicts with it, we want to understand why. Don’t worry. It’s not like Deutsch attempts to disprove Bayes rule. That would be a bigger catastrophe than the most pessimistic AI foom scenario.
 
 There’s no issue with Bayes in a statistical setting: When we have a dataset and make conditional statements around it, Bayes is fine. Even better: it can point out unintuitive results so we can diagnose breast cancer more accurately than every doctor in the world.
 
-The main gripe is when Bayes is used as an epistemology. There seems to be three main issues for Deutsch: (1) the source of our theories, (2) the irrelevance and arbitrariness of priors, and (3) the invalidity of evidence increasing the likelihood of theories.
+The main gripe is when Bayes is used as an _epistemology_. There seems to be three main issues for Deutsch: (1) the source of our theories, (2) the irrelevance and arbitrariness of priors, and (3) the invalidity of evidence increasing the likelihood of theories.
 
-Firstly, Bayes alone cannot create new knowledge. Where in the rationalist worldview do new ideas come from? It seems like it’s only ever evaluating beliefs in ideas that we get elsewhere. If they simply come from data, then this is [induction](https://plato.stanford.edu/entries/induction-problem/).
+Firstly, Bayes alone cannot create _new_ knowledge. Where in the rationalist worldview do new ideas come from? It seems like it’s only ever evaluating beliefs in ideas that we get elsewhere. If they simply come from data, then this is [induction](https://plato.stanford.edu/entries/induction-problem/).
 
 (Deutsch spends a lot of time in BoI criticizing induction. He points out that it often refers to two things: (1) knowledge being sourced from data/experience, and (2) further evidence supporting a theory by increasing its likelihood. Both of which, he argues, are false.)
 
-Secondly, Deutsch emphasizes explanations: Priors and updates are irrelevant if we lack explanations. They’re also often arbitrary. When they’re not (like if they’re based on historical rates) they, again, start to sound like induction.The future does not necessarily resemble the past. As Deutsch points out, we know the sun will rise, not because of repeated previous instances, but because we have a good explanation.
+Secondly, Deutsch emphasizes _explanations_: Priors and updates are irrelevant if we lack explanations. They’re also often arbitrary. When they’re not (like if they’re based on historical rates) they, again, start to sound like induction.The future does not necessarily resemble the past. As Deutsch points out, we know the sun will rise, not because of repeated previous instances, but because we have a good explanation.
 
 (Priors also lead to an infinite regress. How confident are you in your 90% prior?)
 
-Finally, confirming evidence doesn’t increase the likelihood of a theory being true, as shown by examples of black swans in the antipodes and the [anthropomorphic chicken](https://www.relicsworld.com/bertrand-russell/the-chicken-noticed-that-the-farmer-came-every-day-to-feed-it-author-bertrand-russell) that gets eaten for Christmas dinner[[28]](#ftnt28). Newton’s gravitational theory had as much confirming evidence as anything. It got displaced too.
+Finally, confirming evidence doesn’t increase the likelihood of a theory being true, as shown by examples of black swans in the antipodes and the [anthropomorphic chicken](https://www.relicsworld.com/bertrand-russell/the-chicken-noticed-that-the-farmer-came-every-day-to-feed-it-author-bertrand-russell) that gets eaten for Christmas dinner[[28]](#ftnt28). Newton’s gravitational theory had as much confirming evidence as anything. It got displaced too.
 
-Is it not simply induction to base our priors on the likelihood of war between North and South Korea on historic rates? And what are the correct rates to use as our [outside view](https://www.lesswrong.com/posts/BcYfsi7vmhDvzQGiF/taboo-outside-view) anyway? Wars in Korea? Wars between countries where at least one is developed? Or those with nuclear weapons?
+Is it not simply induction to base our priors on the likelihood of war between North and South Korea on historic rates? And what are the correct rates to use as our [outside view](https://www.lesswrong.com/posts/BcYfsi7vmhDvzQGiF/taboo-outside-view) anyway? Wars in Korea? Wars between countries where at least one is developed? Or those with nuclear weapons?
 
-And what about when there is no dataset? What would it have looked like if we were assigning values when traversing the [hornet’s nest](https://slatestarcodex.com/2014/12/12/beware-the-man-of-one-study/) of the minimum wage literature.
+And what about when there is no dataset? What would it have looked like if we were assigning values when traversing the [hornet’s nest](https://slatestarcodex.com/2014/12/12/beware-the-man-of-one-study/) of the minimum wage literature.
 
 We may have a strong prior that minimum wage hikes increase unemployment. Due to our understanding of supply and demand. We assign our confidence level at 90%.
 
-Then we read a bunch of [empirical](https://www.motu.nz/about-us/news/research-nz-minimum-wage-policies/) [papers](https://davidcard.berkeley.edu/papers/njmin-aer.pdf) that show small or no impacts. Surprising. But like good Bayesians we lower our priors. Say 40%.
+Then we read a bunch of [empirical](https://www.motu.nz/about-us/news/research-nz-minimum-wage-policies/) [papers](https://davidcard.berkeley.edu/papers/njmin-aer.pdf) that show small or no impacts. Surprising. But like good Bayesians we lower our priors. Say 40%.
 
-But then we read some [papers](http://econbrowser.com/archives/2014/12/new-estimates-of-the-effects-of-the-minimum-wage) that do show an impact. 65%.
+But then we read some [papers](http://econbrowser.com/archives/2014/12/new-estimates-of-the-effects-of-the-minimum-wage) that _do_ show an impact. 65%.
 
-And then we read [Caplan](https://www.econlib.org/archives/2013/03/the_vice_of_sel.html) who argues that we should discount the papers that showed small impacts (which we are 83% sure is not for ideological reasons). Back up to 90%.
+And then we read [Caplan](https://www.econlib.org/archives/2013/03/the_vice_of_sel.html) who argues that we should discount the papers that showed small impacts (which we are 83% sure is not for ideological reasons). Back up to 90%.
 
 The main point I’m trying to demonstrate is that these values are arbitrary and they’re not describing reality. They are metaphors for subjective belief. Bayesians may say: “Yes! They are estimates in our credence of a theory. We are well aware that the [map is not the territory](https://www.lesswrong.com/posts/KJ9MFBPwXGwNpadf2/skill-the-map-is-not-the-territory).” But the growth of knowledge, for Deutsch, “does not consist of finding ways to justify one’s beliefs. It consists of finding good explanations.”
 
-In truth, I don’t exactly know how this cashes out in every specific instance. When is Bayes theorem a valid use of statistics and when is an invalid use of epistemology for Deutsch? The Bayesian patient at the [doctor’s office](https://www.lesswrong.com/posts/XTXWPQSEgoMkAupKt/an-intuitive-explanation-of-bayes-s-theorem) has a (rational?) belief that she has an 8% chance of breast cancer.
+In truth, I don’t exactly know how this cashes out in every specific instance. When is Bayes theorem a valid use of statistics and when is an invalid use of epistemology for Deutsch? The Bayesian patient at the [doctor’s office](https://www.lesswrong.com/posts/XTXWPQSEgoMkAupKt/an-intuitive-explanation-of-bayes-s-theorem) has a (rational?) _belief_ that she has an 8% chance of breast cancer.
 
 I’m not exactly sure how Deutsch would respond. Maybe it’d be rational to make bets on that information but we shouldn’t call it knowledge. I don’t know if Deutsch is a betting man. But whether we know a woman actually has breast cancer depends on the explanation. This knowledge is fallible, but, for Deutsch, there is no concept of numerical uncertainty.
 
@@ -257,13 +257,13 @@ I’m not exactly sure how Deutsch would respond. Maybe it’d be rational to ma
 
 Deutsch makes strong claims against predictions in BoI:
 
-“The future of civilization is unknowable, because the knowledge that is going to affect it has yet to be created.”
+> _“The future of civilization is unknowable, because the knowledge that is going to affect it has yet to be created.”_
 
 He also claims that predictions without good explanations amount to “prophecy”.
 
-(Some of his concerns around predictions seem to resemble Taleb’s around the misuse of probability. Namely, it’s a [fallacy](https://en.wikipedia.org/wiki/Ludic_fallacy#:~:text=The%20ludic%20fallacy%2C%20proposed%20by,world%20of%20games%20and%20dice%22.) to assume gamelike probabilities in the real world (e.g. 47.4% chance of hitting red on roulette). The real world has unknown unknowns. However, Deutsch won’t [yell at you](https://slatestarcodex.com/2018/09/19/book-review-the-black-swan/).)
+(Some of his concerns around predictions seem to resemble Taleb’s around the misuse of probability. Namely, it’s a [fallacy](https://en.wikipedia.org/wiki/Ludic_fallacy#:~:text=The%20ludic%20fallacy%2C%20proposed%20by,world%20of%20games%20and%20dice%22.) to assume gamelike probabilities in the real world (e.g. 47.4% chance of hitting red on roulette). The real world has unknown unknowns. However, Deutsch won’t [yell at you](https://slatestarcodex.com/2018/09/19/book-review-the-black-swan/).)
 
-We don’t know tomorrow’s scientific discoveries. If we did, it would be today’s. Malthus’s [math](https://en.wikipedia.org/wiki/Malthusianism) wasn’t wrong. His assumptions about the future were: He didn’t predict [Norman Borlaug](https://www.theatlantic.com/magazine/archive/1997/01/forgotten-benefactor-of-humanity/306101/).
+We don’t know tomorrow’s scientific discoveries. If we did, it would be today’s. Malthus’s [math](https://en.wikipedia.org/wiki/Malthusianism) wasn’t wrong. His assumptions about the future were: He didn’t predict [Norman Borlaug](https://www.theatlantic.com/magazine/archive/1997/01/forgotten-benefactor-of-humanity/306101/).
 
 If early 20th century proto-rationalists were sitting around betting on world affairs, and Borlaug strolled in, a stem of wheat protruding out the side of his mouth, and pushed the chips off the table, they may look up, exasperated: Deutsch who was quietly sitting in the corner would calmly explain to them: “prophecy”.
 
@@ -271,19 +271,19 @@ If your model of the 20th century didn’t include the discovery of nuclear fiss
 
 But Deutsch makes predictions in BoI, for example, on aging[[29]](#ftnt29):
 
-Illness and old age are going to be cured soon — certainly within the next few lifetimes — and technology will also be able to prevent deaths through homicide or accidents by creating backups of the states of brains, which could be uploaded into new, blank brains in identical bodies if a person should die.
+> _Illness and old age are going to be cured soon — certainly within the next few lifetimes — and technology will also be able to prevent deaths through homicide or accidents by creating backups of the states of brains, which could be uploaded into new, blank brains in identical bodies if a person should die._
 
 Not against predictions so much after all. “Within the next few lifetimes” may be non-vague enough that even Tetlock would be happy with it.
 
-And in Deutsch’s [recent discussion](https://www.youtube.com/watch?v=IBc1oVXen-o) with Robin Hanson around the validity of forecasting stock prices among other things, Deutsch not only didn’t object but described it as “morally required”.
+And in Deutsch’s [recent discussion](https://www.youtube.com/watch?v=IBc1oVXen-o) with Robin Hanson around the validity of forecasting stock prices among other things, Deutsch not only didn’t object but described it as “morally required”.
 
 ​​It’s hard to square these with his strong claims in BoI.
 
-His main criticism is that probabilistic predictions are dangerous when the thing being predicted depends on the future growth of knowledge. Appealing to a historic base rate, in and of itself, is illegitimate. We need an explanation for why the historic base rate applies, despite any unpredicted future discoveries.
+His main criticism is that probabilistic predictions are dangerous when the thing being predicted depends on the future growth of knowledge. Appealing to a historic base rate, in and of itself, is illegitimate. We need an _explanation_ for why the historic base rate applies, despite any unpredicted future discoveries.
 
-However, Deutsch seems to remind us of this point most loudly when we’ve made a pessimistic prediction.
+However, Deutsch seems to remind us of this point most loudly when we’ve made a _pessimistic_ prediction.
 
-I have a feeling he’d wince at [Toby Ord](https://slatestarcodex.com/2020/04/01/book-review-the-precipice/)’s [20%](https://forum.effectivealtruism.org/posts/Z5KZ2cui8WDjyF6gJ/some-thoughts-on-toby-ord-s-existential-risk-estimates) estimate of existential catastrophe. Or if someone invoked the average age of previous civilizations (which, depending on [how you count](https://michaelshermer.com/sciam-columns/why-et-hasnt-called/), are 400 years and 300 since the Roman Empire). It’s illegitimate to extrapolate to our civilization as we have an explanation of how it differs. Namely, the way we create knowledge via good explanations and institutions that enable error correction. Poverty, war, climate change, nuclear destruction, and asteroid impacts scenarios are all problems that can be solved.
+I have a feeling he’d wince at [Toby Ord](https://slatestarcodex.com/2020/04/01/book-review-the-precipice/)’s [20%](https://forum.effectivealtruism.org/posts/Z5KZ2cui8WDjyF6gJ/some-thoughts-on-toby-ord-s-existential-risk-estimates) estimate of existential catastrophe. Or if someone invoked the average age of previous civilizations (which, depending on [how you count](https://michaelshermer.com/sciam-columns/why-et-hasnt-called/), are 400 years and 300 since the Roman Empire). It’s illegitimate to extrapolate to our civilization as we have an explanation of how it differs. Namely, the way we create knowledge via good explanations and institutions that enable error correction. Poverty, war, climate change, nuclear destruction, and asteroid impacts scenarios are all problems that can be solved.
 
 And even if we didn’t have an explicit theory for how our civilization is different, it would still be illegitimate to extrapolate. Any estimates of future survival depend on future knowledge that can’t be predicted today. A doomsdayer would need an explanation for why the world will collapse despite potential future discoveries.
 
@@ -293,9 +293,9 @@ Deutsch isn’t concerned about paper clips.
 
 Not because he thinks AGI is impossible. To the contrary. It follows from the universality of computation: Anything that a physical object can do can be emulated by a program.
 
-However, he doesn’t [think](https://aeon.co/essays/how-close-are-we-to-creating-artificial-intelligence) we will break through with current approaches. Rather, we need a breakthrough in philosophy: “a theory that explains how brains create explanations”.
+However, he doesn’t [think](https://aeon.co/essays/how-close-are-we-to-creating-artificial-intelligence) we will break through with current approaches. Rather, we need a breakthrough in philosophy: “a theory that explains how brains create explanations”.
 
-This is not to say that we can’t break through soon: All it’d take is a bold new idea. And the arguments around preventing AI existential risk don’t depend on a singularity happening in the next ten years. Regardless of when it happens, it is a vital problem to be solved.
+This is not to say that we can’t break through soon: All it’d take is a bold new idea. And the arguments around preventing AI existential risk don’t depend on a singularity happening in the next ten years. Regardless of _when_ it happens, it is a vital problem to be solved.
 
 Deutsch also thinks it would be immoral to constrain an AGI. Just as slavery is immoral. For Deutsch, an AGI is a person. In fact, that’s his definition of what a person is: a creator of new explanatory knowledge. An AGI would be qualitatively different to all existing AIs. Therefore, we won’t make the breakthrough simply from more brute force.
 
@@ -309,15 +309,15 @@ I’m unsure if any of this is strawmanning those in the AI-is-the-biggest-exist
 
 ### Animal welfare
 
-The way we treat animals, especially on factory farms, gets suggested as a contender for things we will look back on and lament our immorality. This concern is supported by Peter Singer’s argument that suffering is the appropriate criterion to assign moral weighting and that animals suffer as well as humans.
+The way we treat animals, especially on factory farms, gets suggested as a contender for things we will look back on and lament our immorality. This concern is supported by Peter Singer’s argument that _suffering_ is the appropriate criterion to assign moral weighting and that animals suffer as well as humans.
 
 However, pain ≠ suffering. In BoI, Deutsch points out that scientific studies that claim to measure animal suffering, such as stags being hunted, invariably measure things like nerve endings, blood levels, and pain receptors which are then assumed to have the associated qualia (suffering) that it purports to measure.  
   
-We can suffer without experiencing physical pain. And we can be in pain without suffering. In fact, people choose to endure pain when running or lifting weights and even grow to enjoy it. Arnie [described it](https://www.youtube.com/watch?v=BdVCfDioTcY) as heaven (in so many words). And BDSM can be enjoyable too, I heard from a friend.
+We can suffer without experiencing physical pain. And we can be in pain without suffering. In fact, people choose to endure pain when running or lifting weights and even grow to _enjoy_ it. Arnie [described it](https://www.youtube.com/watch?v=BdVCfDioTcY) as heaven (in so many words). And BDSM can be enjoyable too, I heard from a friend.
 
-As like most other things, it depends on knowledge. Whether our pain causes us to suffer depends on our explanation for the pain. However, animals do not create explanatory knowledge.
+As like most other things, it depends on knowledge. Whether our pain causes us to suffer depends on our _explanation_ for the pain. However, animals do not create explanatory knowledge.
 
-The psychologist Paul Bloom [describes](https://www.amazon.com/How-Pleasure-Works-Science-Like/dp/0393340007) that our theories around an experience affect the pleasure we receive. Imagine someone informing you part way through eating Sunday roast dinner (ignore the fact we are eating animals for the minute) that the food you are eating is the family dog. The same physical sensations would suddenly become disgusting. Incidentally, I heard from a Muslim guy who described his attitude towards eating pork as how we in the west would react to eating dog meat[[30]](#ftnt30).
+The psychologist Paul Bloom [describes](https://www.amazon.com/How-Pleasure-Works-Science-Like/dp/0393340007) that our _theories_ around an experience affect the pleasure we receive. Imagine someone informing you part way through eating Sunday roast dinner (ignore the fact we are eating animals for the minute) that the food you are eating is the family dog. The same physical sensations would suddenly become disgusting. Incidentally, I heard from a Muslim guy who described his attitude towards eating pork as how we in the west would react to eating dog meat[[30]](#ftnt30).
 
 However, I’m not sure if this obviates Singer’s argument for animal welfare. Singer may have been too quick to claim animals self-evidently suffer, but the new criterion may just be if an animal can create universal explanatory knowledge.
 
@@ -327,7 +327,7 @@ Deutsch points to infants as knowledge creators because they learn language, but
   
 Deutsch’s main point is that we do not currently know if animals suffer:
 
-“In reality, science has, and will have, no access to this issue until explanatory knowledge about qualia has been discovered.”
+> “In reality, science has, and will have, no access to this issue until explanatory knowledge about qualia has been discovered.”
 
 Perhaps it pays to be prudent in the meantime?
 
@@ -337,7 +337,7 @@ I have tentative conjectures to reconcile some of these problems (and in some ca
 
 (It would be great if a representative of rationalism like Yudkowsky or Galef discussed these differences with Deutsch to better steelman rationalism.)
 
-However, I am confident that BoI is both totally inspiring and at odds with many ideas in rationalism. All because of Deutsch’s understanding of knowledge: Genetic predispositions can be easily overcome; breakthroughs in AGI won’t happen until we understand creativity; predictions without explanations are prophecies; and knowledge doesn’t become more likely with more evidence.
+However, I am confident that BoI is both totally inspiring and at odds with many ideas in rationalism. All because of Deutsch’s understanding of knowledge: Genetic predispositions can be easily overcome; breakthroughs in AGI won’t happen until we understand creativity; predictions without explanations are prophecies; and knowledge doesn’t become more _likely_ with more evidence.
 
 Fortunately, if there really are no barriers to understanding the cosmos, we can approach these problems with excitement and wonder. After all, that is what the human condition is all about.
 
@@ -345,11 +345,11 @@ Fortunately, if there really are no barriers to understanding the cosmos, we can
 
 ### High-level tentative guesses of the differences between most people, rationalists, and Deutsch.
 
-Most people
+**Most people**
 
-Rationalists
+**Rationalists**
 
-Deutsch
+**Deutsch**
 
 Genetic influence
 
@@ -412,7 +412,7 @@ Suffering likely depends on the ability to create explanatory knowledge. Animals
 
 AI Risk
 
-Terminator scenarios are science fiction, right?. And why would they want to harm us anyway?
+Terminator scenarios are science _fiction_, right?. And why would they want to harm us anyway?
 
 AGI is plausibly the biggest x-risk along with nuclear destruction.
 
@@ -424,7 +424,7 @@ The current approach won’t achieve AGI breakthrough.
 
 AGI are people. It’s immoral to try to constrain them.  
   
-A true AGI won’t be constrained by a  goal because they will be a universal explainer.
+A true AGI won’t be constrained by a  goal because they will be a universal explainer.
 
 Once AGI is developed it will be trivial to improve our hardware to catch up. Software is universal.
 

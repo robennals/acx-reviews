@@ -7,7 +7,7 @@ contestName: 2024 Book Reviews
 year: 2024
 publishedDate: '2026-02-06T16:49:13.999Z'
 slug: the-ballad-of-the-white-horse-by-g-k-chesterton
-wordCount: 5806
+wordCount: 5805
 readingTimeMinutes: 26
 originalUrl: >-
   https://docs.google.com/document/d/14qa47TJ_Vyerx4XNgTCIh7PUZ_TOgNcU_eHm5So_zo0
@@ -20,21 +20,22 @@ tags:
 
 ## Introduction
 
-[The Ballad of the White Horse](https://www.gutenberg.org/files/1719/1719-h/1719-h.htm) is a 2,684 line poem about conservatism, and it is brilliant. It has been called the last great epic poem written in English. I have not read the three dozen or so English epic poems that Wikipedia claims have been written since, so I cannot confirm the “last” part, but I can confirm the rest. It is a great poem, in both quality and size, and it is undoubtedly an epic poem. It has almost all the qualities required of an epic poem: it begins by invoking a muse (his wife), it starts in media res, the plot is centered around a hero of legend, there are supernatural visions and interventions, and an omniscient narrator. The only epic requirement it lacks is a long boring list shoved in somewhere, for which I am grateful.
+_[The Ballad of the White Horse](https://www.gutenberg.org/files/1719/1719-h/1719-h.htm)_ is a 2,684 line poem about conservatism, and it is brilliant. It has been called the last great epic poem written in English. I have not read the three dozen or so English epic poems that Wikipedia claims have been written since, so I cannot confirm the “last” part, but I can confirm the rest. It is a great poem, in both quality and size, and it is undoubtedly an epic poem. It has almost all the qualities required of an epic poem: it begins by invoking a muse (his wife), it starts in media res, the plot is centered around a hero of legend, there are supernatural visions and interventions, and an omniscient narrator. The only epic requirement it lacks is a long boring list shoved in somewhere, for which I am grateful.
 
-        On the surface level the poem is about King Alfred the Great, a pre-Hastings Anglo-Saxon king who has the twin qualities of being both legendary and real. There was certainly an actual King Alfred who really did fight a Viking lord named Guthrum and built the foundation needed for his grandson to form the Kingdom of England. He is considered the first English king, and is the only English monarch to be given the epithet “the Great”. At the same time he is also a figure of legend. They say he disguised himself as a wandering minstrel and played the harp for Guthrum in his own camp on the night before they would meet in battle. They also say he once accidentally burned a peasant woman’s cakes, and she, not knowing he was her king, chewed him out thoroughly (I’d expand on that, but that’s really the whole legend; one of those stories told to children that seem to have no moral or point).
+On the surface level the poem is about King Alfred the Great, a pre-Hastings Anglo-Saxon king who has the twin qualities of being both legendary and real. There was certainly an actual King Alfred who really did fight a Viking lord named Guthrum and built the foundation needed for his grandson to form the Kingdom of England. He is considered the first English king, and is the only English monarch to be given the epithet “the Great”. At the same time he is also a figure of legend. They say he disguised himself as a wandering minstrel and played the harp for Guthrum in his own camp on the night before they would meet in battle. They also say he once accidentally burned a peasant woman’s cakes, and she, not knowing he was her king, chewed him out thoroughly (I’d expand on that, but that’s really the whole legend; one of those stories told to children that seem to have no moral or point).
 
 In the introduction Chesterton tells us straight off that his poem is not meant to be historically accurate.  
 
-This ballad needs no historical notes, for the simple reason that it does not profess to be historical. All of it that is not frankly fictitious, as in any prose romance about the past, is meant to emphasize tradition rather than history. King Alfred is not a legend in the sense that King Arthur may be a legend; that is, in the sense that he may possibly be a lie. But King Alfred is a legend in this broader and more human sense, that the legends are the most important things about him.
+> This ballad needs no historical notes, for the simple reason that it does not profess to be historical. All of it that is not frankly fictitious, as in any prose romance about the past, is meant to emphasize tradition rather than history. King Alfred is not a legend in the sense that King Arthur may be a legend; that is, in the sense that he may possibly be a lie. But King Alfred is a legend in this broader and more human sense, that the legends are the most important things about him.
 
-        The legend of King Alfred the Great is well told by Chesterton and his story is entertaining and engaging with a climactic battle, death duels, suspense, and burnt cakes. If all you get out of it is an entertaining yarn then your time will be well spent. The poetry is excellent, and accessible to the layman. As the [tweet](https://twitter.com/ursulabrs/status/1434791291653558275) said, people want poetry to rhyme so bad. Chesterton gives that to us. His lines are a joy to read aloud (as all good poetry should).
+  
+The legend of King Alfred the Great is well told by Chesterton and his story is entertaining and engaging with a climactic battle, death duels, suspense, and burnt cakes. If all you get out of it is an entertaining yarn then your time will be well spent. The poetry is excellent, and accessible to the layman. As the[tweet](https://twitter.com/ursulabrs/status/1434791291653558275) said, people want poetry to rhyme so bad. Chesterton gives that to us. His lines are a joy to read aloud (as all good poetry should).
 
-Beneath that, not all that well hidden, the Ballad is Chesterton’s love song to conservatism as he understands it. In it Chesterton weaves the ideas that he has been writing about all his life and creates a cohesive narrative theme. The Ballad is like a melody that all his other works, fiction and nonfiction, dance to. Chesterton wrote many books, yet none seemed to stand higher than the others in terms of quality or popularity. Because of this he has been called “the master without a masterpiece” (though, appropriately, the quote itself seems legendary: I have found it referenced everywhere but I cannot find the source). I disagree: the Ballad of the White Horse is his masterpiece. It is Chesterton boiled down to his essence. Within it we find two core themes of Chesterton’s body of work: hope in defiance of fate, and the eternal revolution.
+Beneath that, not all that well hidden, the _Ballad_ is Chesterton’s love song to conservatism as he understands it. In it Chesterton weaves the ideas that he has been writing about all his life and creates a cohesive narrative theme. The _Ballad_ is like a melody that all his other works, fiction and nonfiction, dance to. Chesterton wrote many books, yet none seemed to stand higher than the others in terms of quality or popularity. Because of this he has been called “the master without a masterpiece” (though, appropriately, the quote itself seems legendary: I have found it referenced everywhere but I cannot find the source). I disagree: the _Ballad of the White Horse_ is his masterpiece. It is Chesterton boiled down to his essence. Within it we find two core themes of Chesterton’s body of work: hope in defiance of fate, and the eternal revolution.
 
-The Doom of Alfred
+**The Doom of Alfred**
 
-        The poem begins with the White Horse and the destruction of the world. How the [White Horse of Uffington](https://en.wikipedia.org/wiki/Uffington_White_Horse) was there before Rome was founded, and remained after its collapse. We are introduced to the poem’s post-apocalyptic setting:
+The poem begins with the White Horse and the destruction of the world. How the[White Horse of Uffington](https://en.wikipedia.org/wiki/Uffington_White_Horse) was there before Rome was founded, and remained after its collapse. We are introduced to the poem’s post-apocalyptic setting:
 
 For the end of the world was long ago
 
@@ -68,7 +69,7 @@ They only saw with heavy eyes
 
 And broke with heavy hands.
 
-        Against these “Hairy men, as huge as sin” we find King Albert of Wessex alone, fighting a desperate and losing campaign. Rather, when we find him he is not fighting but fleeing alone and hunted through the woods after a lost battle. Chesterton heaps on how badly things are stacked against Albert. The vikings have won battle after battle, and even when Albert successfully fended them off they would come again year after year, wearing him down:
+Against these “Hairy men, as huge as sin” we find King Albert of Wessex alone, fighting a desperate and losing campaign. Rather, when we find him he is not fighting but fleeing alone and hunted through the woods after a lost battle. Chesterton heaps on how badly things are stacked against Albert. The vikings have won battle after battle, and even when Albert successfully fended them off they would come again year after year, wearing him down:
 
 And if ever he climbed the crest of luck
 
@@ -108,7 +109,7 @@ And given their country, field and fen,
 
 To the devils of the sea.
 
-        It is here, fleeing and alone, where Alfred receives a vision of Mary, the Mother of God. Alfred tells her that while he wouldn’t presume to ask about the secrets of God or Heaven, but he would like to know whether he will somehow drive back the Vikings or if the fate of Wessex is to die fighting and fade away. Mary corrects him; any man can ask and receive the secrets of God, but she will not tell him his fate.
+It is here, fleeing and alone, where Alfred receives a vision of Mary, the Mother of God. Alfred tells her that while he wouldn’t presume to ask about the secrets of God or Heaven, but he would like to know whether he will somehow drive back the Vikings or if the fate of Wessex is to die fighting and fade away. Mary corrects him; any man can ask and receive the secrets of God, but she will not tell him his fate.
 
 The gates of heaven are lightly locked,
 
@@ -122,7 +123,7 @@ But if he fail or if he win
 
 To no good man is told.
 
-        Here we are introduced to one of Chesterton’s core themes: hope versus fate. Chesterton sees hope as one of the primary distinguishers between Christianity and paganism, buddhism, eastern philosophy in general, and materialistic determinism.  We see this same dichotomy in another of Chesterton’s great poems, Lepanto, where he has Muhammed, enthroned in glory in the Muslim paradise, say:
+Here we are introduced to one of Chesterton’s core themes: hope versus fate. Chesterton sees hope as one of the primary distinguishers between Christianity and paganism, buddhism, eastern philosophy in general, and materialistic determinism.  We see this same dichotomy in another of Chesterton’s great poems,_Lepanto_, where he has Muhammed, enthroned in glory in the Muslim paradise, say:
 
 We have set the seal of Solomon on all things under sun,
 
@@ -140,7 +141,7 @@ It is he whose loss is laughter when he counts the wager worth,
 
 Put down your feet upon him, that our peace be on the earth.
 
-This contrast, between the fatalism of the East and the defiance of fate of the West, is expounded on further by Mary in the Ballad:
+This contrast, between the fatalism of the East and the defiance of fate of the West, is expounded on further by Mary in the _Ballad_:
 
 “The men of the East may spell the stars,
 
@@ -158,7 +159,7 @@ But the men that drink the blood of God
 
 Go singing to their shame.
 
-We see this theme repeated throughout the poem, comparing the christian Alfred to the pagan Guthrum and his men. Later in the Ballad Alfred disguises himself as a bard and, having snuck into the viking camp, has a philosophical debate with Guthrum and his three captains in the form of singing competition. After Alfred plays each of the viking lords play as well and each of their songs puts forward their view of life. The youngest viking sings boldly of hedonism, how he takes what he wants from the world and enjoys each thing thoroughly. The next viking, somewhat older, sings sadly about how the god Baldur the beautiful was slain, and how all good things eventually come to ruin. The next, even older, sings a song of rage against the gods and against the world, and how after a man tires of women and ale he takes comfort in battle. The fate of all men is to die, and the fate of the world is to burn, and so he will become a participant in the destruction instead of merely a victim of it. Finally Guthrum, the oldest, sings:
+We see this theme repeated throughout the poem, comparing the christian Alfred to the pagan Guthrum and his men. Later in the _Ballad_ Alfred disguises himself as a bard and, having snuck into the viking camp, has a philosophical debate with Guthrum and his three captains in the form of singing competition. After Alfred plays each of the viking lords play as well and each of their songs puts forward their view of life. The youngest viking sings boldly of hedonism, how he takes what he wants from the world and enjoys each thing thoroughly. The next viking, somewhat older, sings sadly about how the god Baldur the beautiful was slain, and how all good things eventually come to ruin. The next, even older, sings a song of rage against the gods and against the world, and how after a man tires of women and ale he takes comfort in battle. The fate of all men is to die, and the fate of the world is to burn, and so he will become a participant in the destruction instead of merely a victim of it. Finally Guthrum, the oldest, sings:
 
 For he sang of a wheel returning,
 
@@ -264,7 +265,7 @@ To remember it again."
 
 This song of resignation to death is fitting for a viking. What myths and tales we have from the pagan norse tell a story of fated destruction: that Ragnarok will come, and the gods will fight the giants, and they all will certainly die. The sun and moon will be devoured and even the victors of that battle will succumb to their wounds.
 
-        Alfred, in contrast, takes up the harp and sings a song of hope:
+Alfred, in contrast, takes up the harp and sings a song of hope:
 
 "When God put man in a garden
 
@@ -360,17 +361,17 @@ Has still some song to sing;
 
 ## What is Hope?
 
-Critics of [virtue ethics](https://en.wikipedia.org/wiki/Virtue_ethics) will often question how you can know what virtues the virtue ethicist should cultivate. In Catholic theology there is no such problem, as they have seven official virtues specified. [Four of these virtues](https://en.wikipedia.org/wiki/Cardinal_virtues) they inherited from Greek philosophy and they represent the practical and straightforward virtues that any rational man is likely to find worthwhile: prudence, temperance, justice, and fortitude.  Added to these four were [three virtues](https://en.wikipedia.org/wiki/Theological_virtues) unique to Christianity, believed to be revelations from God that mankind would not identify if left to their own devices. These three are faith, hope, and love.
+Critics of [virtue ethics](https://en.wikipedia.org/wiki/Virtue_ethics) will often question how you can know what virtues the virtue ethicist should cultivate. In Catholic theology there is no such problem, as they have seven official virtues specified. [Four of these virtues](https://en.wikipedia.org/wiki/Cardinal_virtues) they inherited from Greek philosophy and they represent the practical and straightforward virtues that any rational man is likely to find worthwhile: prudence, temperance, justice, and fortitude.  Added to these four were [three virtues](https://en.wikipedia.org/wiki/Theological_virtues) unique to Christianity, believed to be revelations from God that mankind would not identify if left to their own devices. These three are faith, hope, and love.
 
 Love is fairly easy to comprehend, though you could write volumes on its nuances as a virtue. Faith is more controversial, but still graspable: just as we have faith that the plane won’t crash when we take a long flight, Christians have faith in God’s promises. They hold to their belief, in the face of doubt. Hope, however, is harder to grok..
 
 Hope is, of course, the desire for something combined with the expectation that you will receive it. What does it mean for hope to be a virtue then? I have hope for a tasty dinner tonight but it is hard to see what is virtuous about that. Presumably it is a virtue to have hope for heaven, or hope for the beatific vision, or simple hope of salvation, but how is that different than having faith in those things? If I have faith that I am saved from my sins, that means I believe it and that I will try to continue to believe it despite the ups and downs of life and the fears that may haunt me from time to time. What does hope add to that? Is hope simply faith in things we desire? It kind of seems like hope isn’t pulling its own weight in the virtue department.
 
-The Catholics, of course, have an answer for this (you don’t spend two thousand years trying to hash out theology without producing volumes of work on every little facet of it). Faith, they say, is an act of the intellect. You believe something (presumably because you have good reason to) and then you choose to continue believing it. Hope is not an act of the intellect, but an act of will. You desire something and you choose to act as if that desire is attainable. Hope spurs you to move. Hope lies between the twin errors of despair, where you do not believe your desire is possible to obtain, and presumption, where you believe that you are certain to obtain your desire. Both errors will prevent you from acting; in the first case because nothing you do can obtain what you desire, and in the second because no action is necessary to obtain it. In the middle lies hope. You desire salvation, you believe it is possible but not certain that you will obtain it, and you take action to do so. Faith is all in your head, while hope is in your heart and your feet.
+The Catholics, of course, have an answer for this (you don’t spend two thousand years trying to hash out theology without producing volumes of work on every little facet of it). Faith, they say, is an act of the intellect. You believe something (presumably because you have good reason to) and then you choose to continue believing it. Hope is not an act of the intellect, but an act of will. You desire something and you choose to act as if that desire is attainable. Hope spurs you to _move._ Hope lies between the twin errors of despair, where you do not believe your desire is possible to obtain, and presumption, where you believe that you are certain to obtain your desire. Both errors will prevent you from acting; in the first case because nothing you do can obtain what you desire, and in the second because no action is necessary to obtain it. In the middle lies hope. You desire salvation, you believe it is possible but not certain that you will obtain it, and you take action to do so. Faith is all in your head, while hope is in your heart and your feet.
 
-        It is hope that drives Alfred forward. He asks Mary to know what the final result will be, seeking either despair or presumption. Mary will not tell him. The only answer she will give is this:  
+It is hope that drives Alfred forward. He asks Mary to know what the final result will be, seeking either despair or presumption. Mary will not tell him. The only answer she will give is this:  
   
-        I tell you naught for your comfort,
+        I tell you naught for your comfort,
 
 Yea, naught for your desire,
 
@@ -390,23 +391,23 @@ The joy without a cause.
 
 ## The Adventure
 
-        So Alfred has hope and his enemies do not. The vikings display both errors of hope simultaneously. They presume that their victory is certain, merely because they have won over and over and their enemy is outnumbered, scattered, and demoralized. Yet Guthrum also despairs for he has no hope of anything he does lasting beyond his life. All will burn in [Surtr’s fire](https://en.wikipedia.org/wiki/Surtr), and all will die with Odin. As Chesterton writes in his book [Orthodoxy](https://www.gutenberg.org/cache/epub/130/pg130-images.html):
+So Alfred has hope and his enemies do not. The vikings display both errors of hope simultaneously. They presume that their victory is certain, merely because they have won over and over and their enemy is outnumbered, scattered, and demoralized. Yet Guthrum also despairs for he has no hope of anything he does lasting beyond his life. All will burn in[Surtr’s fire](https://en.wikipedia.org/wiki/Surtr), and all will die with Odin. As Chesterton writes in his book _[Orthodoxy](https://www.gutenberg.org/cache/epub/130/pg130-images.html)_:
 
-To the pagan the small things are as sweet as the small brooks breaking out of the mountain; but the broad things are as bitter as the sea. When the pagan looks at the very core of the cosmos he is struck cold. Behind the gods, who are merely despotic, sit the fates, who are deadly. Nay, the fates are worse than deadly; they are dead.
+> To the pagan the small things are as sweet as the small brooks breaking out of the mountain; but the broad things are as bitter as the sea. When the pagan looks at the very core of the cosmos he is struck cold. Behind the gods, who are merely despotic, sit the fates, who are deadly. Nay, the fates are worse than deadly; they are dead.
 
 Fate is dead, in as much as it cannot move or change. To a pagan like Guthrum no man can escape his “wyrd”, no matter what he does. No action he can take will change his doom.
 
-        Alright, so fate leads to despair or presumption. But why should the “West”, the Christians, be any different? Don’t they believe that the ultimate fate of everything is also set? That the trump will sound, Jesus will descend, and evil will be done away with forevermore? What advantage does the “West” have against the “East” when it comes to fate?
+Alright, so fate leads to despair or presumption. But why should the “West”, the Christians, be any different? Don’t they believe that the ultimate fate of everything is also set? That the trump will sound, Jesus will descend, and evil will be done away with forevermore? What advantage does the “West” have against the “East” when it comes to fate?
 
-For Chesterton, a Christian is in the exact reversed position as the pagan; if the pagan finds the small things sweet, but the big things bitter the Christian finds the big things sweet and the small things bitter. To the Christian the universe has a happy ending for certain, but he may not. Nothing he can do will change the ultimate fate of the universe, but what he does today could change his own ultimate fate.  Which brings us to the other half of the equation: the risk of failure. Chesterton again:
+For Chesterton, a Christian is in the exact reversed position as the pagan; if the pagan finds the small things sweet, but the big things bitter the Christian finds the big things sweet and the small things bitter. To the Christian the universe has a happy ending for certain, but he may not. Nothing he can do will change the ultimate fate of the universe, but what he does today could change his _own_ ultimate fate.  Which brings us to the other half of the equation: the risk of failure. Chesterton again:
 
-“To the Buddhist or the eastern fatalist existence is a science or a plan, which must end up in a certain way. But to a Christian existence is a story, which may end up in any way. In a thrilling novel (that purely Christian product) the hero is not eaten by cannibals; but it is essential to the existence of the thrill that he might be eaten by cannibals. The hero must (so to speak) be an eatable hero. So Christian morals have always said to the man, not that he would lose his soul, but that he must take care that he didn't…the point is that a story is exciting because it has in it so strong an element of will, of what theology calls free-will. You cannot finish a sum how you like. But you can finish a story how you like. When somebody discovered the Differential Calculus there was only one Differential Calculus he could discover. But when Shakespeare killed Romeo he might have married him to Juliet's old nurse if he had felt inclined. And Christendom has excelled in the narrative romance exactly because it has insisted on the theological free-will.
+> “To the Buddhist or the eastern fatalist existence is a science or a plan, which must end up in a certain way. But to a Christian existence is a _story_, which may end up in any way. In a thrilling novel (that purely Christian product) the hero is not eaten by cannibals; but it is essential to the existence of the thrill that he _might_ be eaten by cannibals. The hero must (so to speak) be an eatable hero. So Christian morals have always said to the man, not that he would lose his soul, but that he must take care that he didn't…the point is that a story is exciting because it has in it so strong an element of will, of what theology calls free-will. You cannot finish a sum how you like. But you can finish a story how you like. When somebody discovered the Differential Calculus there was only one Differential Calculus he could discover. But when Shakespeare killed Romeo he might have married him to Juliet's old nurse if he had felt inclined. And Christendom has excelled in the narrative romance exactly because it has insisted on the theological free-will.
 
-This is the real dividing line Chesterton makes between his “West and East”. In order for a philosophy to stir men to action there must be stakes. There must be something real to gain, and something real to lose. Chesterton sees this as the engine of all human progress:
+This is the real dividing line Chesterton makes between his “West and East”. In order for a philosophy to stir men to action there must be _stakes._ There must be something real to gain, and something real to lose. Chesterton sees this as the engine of all human progress:
 
-In so far as we desire the definite reconstructions and the dangerous revolutions which have distinguished European civilization, we shall not discourage the thought of possible ruin; we shall rather encourage it. If we want, like the Eastern saints, merely to contemplate how right things are, of course we shall only say that they must go right. But if we particularly want to make them go right, we must insist that they may go wrong.
+> In so far as we desire the definite reconstructions and the dangerous revolutions which have distinguished European civilization, we shall not discourage the thought of possible ruin; we shall rather encourage it. If we want, like the Eastern saints, merely to contemplate how right things are, of course we shall only say that they must go right. But if we particularly want to _make_ them go right, we must insist that they may go wrong.
 
-We see this idea repeated in the Balled during Albert’s vision of Mary, in which she says
+We see this idea repeated in the _Balled_ during Albert’s vision of Mary, in which she says
 
 "But you and all the kind of Christ
 
@@ -416,15 +417,15 @@ And you have wars you hardly win
 
 And souls you hardly save.”
 
-        And because Alfred believes that the battle can go right, and can certainly go wrong, he acts.
+And because Alfred believes that the battle can go right, and can certainly go wrong, he acts.
 
 ## Piling Stones
 
-        When the battle finally comes, Alfred fails.
+When the battle finally comes, Alfred fails.
 
-        His three mighty captains fight like heroes, but each are slain in turn. The vikings are too strong, their numbers too great, and Alfred’s men break. Alfred finds himself in the same position as the beginning of the poem: fleeing for his life after a disastrous battle. He had hope, but what he desired has not come to pass. The Lady was right: “The sky grows darker yet, and the sea rises higher.”
+His three mighty captains fight like heroes, but each are slain in turn. The vikings are too strong, their numbers too great, and Alfred’s men break. Alfred finds himself in the same position as the beginning of the poem: fleeing for his life after a disastrous battle. He had hope, but what he desired has not come to pass. The Lady was right: “The sky grows darker yet, and the sea rises higher.”
 
-        So what does Alfred do? He does the same thing he did at the beginning of the poem. He starts over and tries again.
+So what does Alfred do? He does the same thing he did at the beginning of the poem. He starts over and tries again.
 
 And this was the might of Alfred,
 
@@ -496,7 +497,7 @@ And crouching in the furze and ferns
 
 He began his life once more.
 
-        Alfred blows his battle horn, and his men pause mid-flight. Alfred gives a stirring battle speech, rallies his men, reforms the ranks, and charges into the viking line once more. The vikings, having already started to celebrate, are confused. The fight was hopeless for Alfred from the start, and now he charges in again with half his men gone? And we get the final grand battle scene:
+Alfred blows his battle horn, and his men pause mid-flight. Alfred gives a stirring battle speech, rallies his men, reforms the ranks, and charges into the viking line once more. The vikings, having already started to celebrate, are confused. The fight was hopeless for Alfred from the start, and now he charges in again with half his men gone? And we get the final grand battle scene:
 
 Wild stared the Danes at the double ways
 
@@ -630,7 +631,7 @@ Where Ogier went on foot to die,
 
 In the old way of the Danes.
 
- "The high tide!" King Alfred cried.
+ "The high tide!" King Alfred cried.
 
 "The high tide and the turn!
 
@@ -646,9 +647,9 @@ Here, called by the sound of the renewed battle, a host of Alfred’s men who ha
 
 ## The White Horse and the Eternal Revolution
 
-        Why is the poem named The Ballad of the White Horse?
+Why is the poem named_The Ballad of the White Horse?_
 
-The poem begins with the White Horse of Uffington, and the White Horse winds in and out of the poem here and there, but the primary focus is on Alfred. Chesterton sets the battle in the White Horse vale but the White Horse itself doesn’t really come into it. It doesn’t suddenly inspire Alfred to action, he doesn’t mention it in his stirring speech to his men, and it doesn’t have any tactical impact on the battle itself. So why is it the Ballad of the White Horse instead of The Ballad of King Alfred? In the eighth and final section of the poem we get our answer, and find the second of Chesterton’s core themes..
+The poem begins with the White Horse of Uffington, and the White Horse winds in and out of the poem here and there, but the primary focus is on Alfred. Chesterton sets the battle in the White Horse vale but the White Horse itself doesn’t really come into it. It doesn’t suddenly inspire Alfred to action, he doesn’t mention it in his stirring speech to his men, and it doesn’t have any tactical impact on the battle itself. So why is it the _Ballad of the White Horse_ instead of _The Ballad of King Alfred_? In the eighth and final section of the poem we get our answer, and find the second of Chesterton’s core themes..
 
 It is now many decades in the future. Alfred has had a long and prosperous reign and the kingdom has flourished. He is holding court in the White Horse vale on scouring day. Every year the villages from around the vale come to the White Horse and hold a festival. During that festival they scour the Horse: they cut away all the weeds and turf that have started to grow over the chalk lines that make up the Horse. They scrape the chalk itself, which grays with dirt and dust, until it is white and clean again. They make a great party of it, and Albert, now old, enjoys watching the work.
 
@@ -664,7 +665,7 @@ Danes to the eastward—Danes!"
 
 After the battle Alfred made a peace treaty with Guthrum, yet now the vikings have come again, looting and killing. One of Alfred’s young vassals voices his anger with the vikings, and his despair that King Alfred was not able to defeat them and be done with them all those years ago:  
   
-        But the young earl said: "Ill the saints,
+        But the young earl said: "Ill the saints,
 
 The saints of England, guard
 
@@ -674,7 +675,7 @@ The dykes decay, the King grows old,
 
 And surely this is hard,
 
- "That we be never quit of them;
+ "That we be never quit of them;
 
 That when his head is hoar
 
@@ -734,17 +735,17 @@ If we would have the horse of old,
 
 Scour ye the horse anew.”
 
-This is what Chesterton calls the eternal revolution. To quote again from Orthodoxy:
+This is what Chesterton calls the eternal revolution. To quote again from _Orthodoxy_:
 
-We have remarked that one reason offered for being a progressive is that things naturally tend to grow better. But the only real reason for being a progressive is that things naturally tend to grow worse. The corruption in things is not only the best argument for being progressive; it is also the only argument against being conservative. The conservative theory would really be quite sweeping and unanswerable if it were not for this one fact. But all conservatism is based upon the idea that if you leave things alone you leave them as they are. But you do not. If you leave a thing alone you leave it to a torrent of change. If you leave a white post alone it will soon be a black post. If you particularly want it to be white you must be always painting it again; that is, you must be always having a revolution.
+> We have remarked that one reason offered for being a progressive is that things naturally tend to grow better. But the only real reason for being a progressive is that things naturally tend to grow worse. The corruption in things is not only the best argument for being progressive; it is also the only argument against being conservative. The conservative theory would really be quite sweeping and unanswerable if it were not for this one fact. But all conservatism is based upon the idea that if you leave things alone you leave them as they are. But you do not. If you leave a thing alone you leave it to a torrent of change. If you leave a white post alone it will soon be a black post. If you particularly want it to be white you must be always painting it again; that is, you must be always having a revolution.
 
 If you want to conserve something then you commit yourself to revolutionary action. To preserve what is good you not only need to protect it, you need to actively rebuild it. If you want a white post then you must strip the old paint and paint it white again, every few years, forever. Chesterton teaches that it is such with all good things. His hero is not merely the man who defeats the enemy, but the one who always rises to fight them again. The man with hope; that is to say, a vision of what he wants and the will to take action to get it. Without such hope all good things will fall to ruin: with it they can be preserved eternally.
 
-        Which is why the whole poem is named after the White Horse! There are certainly things older than the White Horse, like Stonehenge or the Great Pyramid of Giza, but they are made of stone. Giant stones, hard to knock over or carry away and well suited to survive the elements. You don’t have to do much of anything to preserve them other than leave them alone. The White Horse, on the other hand, is soft chalk lines cut out of the turf. If you left it alone for 20 years it would disappear completely. The only way it can persist is if it is regularly scoured, and yet it has persisted for 3,000 years. The people of the White Horse vale cut the horse out of the grass before the first stone was laid in Rome, and they cut it out to this day. As long as they do the Horse can last another three millenia. As soon as they stop, it will disappear. The same is true for all human institutions: for nations, constitutions, laws, traditions, stories, ambitions, and dreams. You will never “part with weeds forever, or show daisies to the door”.
+Which is why the whole poem is named after the White Horse! There are certainly things older than the White Horse, like Stonehenge or the Great Pyramid of Giza, but they are made of stone. Giant stones, hard to knock over or carry away and well suited to survive the elements. You don’t have to do much of anything to preserve them other than leave them alone. The White Horse, on the other hand, is soft chalk lines cut out of the turf. If you left it alone for 20 years it would disappear completely. The only way it can persist is if it is regularly scoured, and yet it_has_ persisted for _3,000 years._ The people of the White Horse vale cut the horse out of the grass before the first stone was laid in Rome, and they cut it out to this day. As long as they do the Horse can last another three millenia. As soon as they stop, it will disappear. The same is true for all human institutions: for nations, constitutions, laws, traditions, stories, ambitions, and dreams. You will never “part with weeds forever, or show daisies to the door”.
 
-        This, then, is Chesterton’s thesis. Everything corrupts, but can be preserved. What is needed to preserve what is good is hope, risk, and revolution. The poems ending reiterates this theme neatly:
+This, then, is Chesterton’s thesis. Everything corrupts, but can be preserved. What is needed to preserve what is good is hope, risk, and revolution. The poems ending reiterates this theme neatly:
 
-         Loud was the war on London wall,
+         Loud was the war on London wall,
 
 And loud in London gates,
 

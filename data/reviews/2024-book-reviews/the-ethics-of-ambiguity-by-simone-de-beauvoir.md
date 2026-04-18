@@ -7,7 +7,7 @@ contestName: 2024 Book Reviews
 year: 2024
 publishedDate: '2026-02-06T16:49:14.006Z'
 slug: the-ethics-of-ambiguity-by-simone-de-beauvoir
-wordCount: 2554
+wordCount: 2557
 readingTimeMinutes: 12
 originalUrl: >-
   https://docs.google.com/document/d/14qa47TJ_Vyerx4XNgTCIh7PUZ_TOgNcU_eHm5So_zo0
@@ -20,7 +20,7 @@ A Closer Look at Simone de Beauvoir's Ethics of Ambiguity
 
 Exploring the concepts of freedom, oppression, and ethical decision making in a complex world
 
-“Man exists. For him, it is not a question of wondering whether his presence in the world is useful, whether life is worth the trouble of being lived. These questions make no sense. It is a matter of knowing whether he wants to live and under what condition.”
+_“Man exists. For him, it is not a question of wondering whether his presence in the world is useful, whether life is worth the trouble of being lived. These questions make no sense. It is a matter of knowing whether he wants to live and under what condition.”_
 
 Simone de Beauvoir despises fascism. She despises oppressors in general and collaborators in particular. This whole book is written with the intention to rid the world of everyone who dares to interfere with the freedom of others. Everyone has to realize instead that everyone’s freedom is inextricably interwoven. You cannot truly be free as long as others are not.
 
@@ -30,9 +30,9 @@ This book does not give easy answers. Not because it does not want to, but becau
 
 I see the book as being structured into three main lines of arguments:
 
-*   What freedom is, how you realize and what errors people run into, while trying to realize it.
-*   How oppressors take away our freedom and what arguments they use to justify this.
-*   How you can act in the world, to both realize your own freedom and that of others, and fight oppression.
+> *   What freedom is, how you realize and what errors people run into, while trying to realize it.
+> *   How oppressors take away our freedom and what arguments they use to justify this.
+> *   How you can act in the world, to both realize your own freedom and that of others, and fight oppression.
 
 ## What is freedom? How do you realize it? Where can you go wrong?
 
@@ -44,37 +44,37 @@ Based on how people engage with their freedom, De Beauvoir developed a range of 
 
 ### The Sub-Man
 
-”Nobody can know the peace of the tomb while he is alive.”
+_”Nobody can know the peace of the tomb while he is alive.”_
 
 A person who rejects existing. They have no connection to the world, and the only thing they crave is to forget that they are conscious and free. An example would be a person that plays video games all day, every day, so they never have to engage with life.
 
 ### The Serious Man
 
-“The serious man wills himself to be a god, but he is not one and knows it.”
+_“The serious man wills himself to be a god, but he is not one and knows it.”_
 
 The serious man tries to evade the burden of freedom by finding a cause that explains the world for them, so they do not have to make decisions. An example for this is someone who takes religious rules as an objective fact about the world, while ignoring that they themselves chose this to be their object.
 
 ### The Nihilist
 
-“He wants to be nothing, and this nothing that he dreams of is still another sort of being,…“
+_“He wants to be nothing, and this nothing that he dreams of is still another sort of being,…“_
 
 A Serious Man who realized that their object is not an objective truth after all. From this shock, they conclude that nothing has meaning in this world. What they don’t understand is that their rejection of the world is still freely chosen by them, and that they could decide differently at any time.
 
 ### The Adventurer
 
-“His fault is believing that one can do something for oneself without others and even against them.”
+_“His fault is believing that one can do something for oneself without others and even against them.”_
 
 The adventurer understands that freedom is the only constant. Working towards your goals is more important than reaching them. However, the adventurer does not understand that their freedom is connected to that of everyone else. So they act on the world, as if they were alone in the universe, ignoring the oppression of others.
 
 ### The Passionate Man
 
-“The passionate man seeks possession; he seeks to attain being.”
+_“The passionate man seeks possession; he seeks to attain being.”_
 
 Like the Serious Man, the Passionate Man also has an object which they see as an absolute. The key distinction between the two is that the Serious Man passively accepts the first object they encounter, while the Passionate Man actively selects their own object. Despite this, both the Serious Man and the Passionate Man tend to view themselves and their object as one. Redemption for the Passionate Man is possible when they acknowledge the inherent separation between themselves and their object.
 
 ### The Free Man
 
-”Only the freedom of others keeps each one of us from hardening in the absurdity of facticity”
+_”Only the freedom of others keeps each one of us from hardening in the absurdity of facticity”_
 
 Only if you avoid all those pitfalls, can you become a Free Man. A person who realizes their own freedom, but who understands that your freedom isn’t just about you, it also involves the freedom of those around you. Your freedom is connected to the freedom of others and it’s difficult to truly understand and experience your freedom if those around you are not also free. By recognizing and engaging with the freedom of others, we can continue to push the boundaries of our own freedom and transcend the limitations of our individual circumstances.
 
@@ -126,11 +126,11 @@ Claim: We cannot have freedom, because it would disrupt the stability of our obj
 
 Response: This takes away the value from the individual and concentrates all of it in the object. However, to have value in a society, the parts of that society also have to have a value. With worthless individuals, you could only construct a worthless society. Therefore, the value has to come from the individuals, and thus they cannot be sacrificed so easily. De Beauvoir also applies this argument to the idea of utility, which is also often used as the object to justify oppression and violence. Utility, no matter how you define it, remains a subjective concept:
 
-“So much so that the terms “useful to man”, “useful to this man”, do not overlap. Universal absolute man exists nowhere. From this angle, we again come upon the same antimony: the only justification of sacrifice is utility; but the useful is what serves Man. In order to serve some men, we must do disservice to others. By what principle are we to choose between them?”
+_“So much so that the terms “useful to man”, “useful to this man”, do not overlap. Universal absolute man exists nowhere. From this angle, we again come upon the same antimony: the only justification of sacrifice is utility; but the useful is what serves Man. In order to serve some men, we must do disservice to others. By what principle are we to choose between them?”_
 
 ## How can you act in an ambiguous world?
 
-The ethics of ambiguity reject all a priori justifications: “The fact is that no behavior is ever authorized to begin with, and one of the concrete consequences of existentialist ethics is the rejection of all previous justifications which might be drawn from the civilization, the age, and the culture; it is the rejection of every principle of Authority.”
+The ethics of ambiguity reject all a priori justifications: _“The fact is that no behavior is ever authorized to begin with, and one of the concrete consequences of existentialist ethics is the rejection of all previous justifications which might be drawn from the civilization, the age, and the culture; it is the rejection of every principle of Authority.”_
 
 De Beauvoir believes that the particulars of an ethical decision are always unique. Therefore, there cannot be pre-made solutions, and we cannot construct a one-fits-all framework of morality. Such a thing does not exist. We can try to construct it, but it will only be a mirror of our subjective preferences.
 
@@ -142,10 +142,10 @@ You might ask: “Where is the point to switch between such options?”, but the
 
 This struggle will always be hard and everyone will suffer, be it us and our friends, be it the oppressors and their collaborators.
 
-“Every war, every revolution, demands the sacrifice of a generation, of a collectivity, by those who undertake it”.
+_“Every war, every revolution, demands the sacrifice of a generation, of a collectivity, by those who undertake it”._
 
 De Beauvoir warns us: Humans tend to become oppressors slowly over time, when they stop to fight against oppression. We get complacent and only focus on our own life, accepting that for our quiet life, others have to suffer.
 
 You must not think that you are doing the morally right thing. If you are certain, you have taken a shortcut somewhere and ignored the ambiguity of the world. If you think this sounds demanding, de Beauvoir would agree. The Ethics of Ambiguity aren’t meant to be easy, because the world we live in isn’t. But the struggle is worth it. It brings us closer to a present where we try to enhance each other’s lives, not oppress them. I’ll leave you with the sentences from the book, which I think best summarize these core ideas:
 
-“Man is free; but he finds his law in this very freedom. First, he must assume his freedom and not flee it; he assumes it by a constructive movement: one does not exist without doing something; and also by a negative movement which rejects oppression for oneself and others.”
+_“Man is free; but he finds his law in this very freedom. First, he must assume his freedom and not flee it; he assumes it by a constructive movement: one does not exist without doing something; and also by a negative movement which rejects oppression for oneself and others.”_

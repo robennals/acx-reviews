@@ -7,7 +7,7 @@ contestName: 2024 Book Reviews
 year: 2024
 publishedDate: '2026-02-06T16:47:49.312Z'
 slug: its-not-the-money-its-the-land
-wordCount: 4557
+wordCount: 4558
 readingTimeMinutes: 21
 originalUrl: >-
   https://docs.google.com/document/d/1QiotH3aGFgNLGqsIHTK_Plm_gem2E4l2C2ctyGJd0jY
@@ -23,7 +23,7 @@ Here’s what I knew going in. Some time in the 1960s, the Australian government
 
 I was interested in this because it seemed like a classic case of well-meaning government intervention gone wrong. But I wasn’t sure if my vague recollection of this event was accurate, and I wanted to get the full story.
 
-I did some googling. The [Australian Trade Union Institute](https://atui.org.au/2021/03/11/the-long-campaign-by-indigenous-workers-for-equal-pay-and-the-1966-decision/), predictably, refers to the equal pay decision as the result of a heroic struggle by indigenous workers against racist oppression, embodied by the evil cattle companies. The [National Museum](https://www.indigenousrights.net.au/civil_rights/equal_wages,_1963-66/response) tells a similar story. The [ABC](https://www.abc.net.au/news/2010-11-15/indigenous_australians_struggle_for_equality/41034) describes it as a part of Aboriginal Australians’ long-running struggle for equality before the law, a battle which is still with us today.
+I did some googling. The [Australian Trade Union Institute](https://atui.org.au/2021/03/11/the-long-campaign-by-indigenous-workers-for-equal-pay-and-the-1966-decision/), predictably, refers to the equal pay decision as the result of a heroic struggle by indigenous workers against racist oppression, embodied by the evil cattle companies. The [National Museum](https://www.indigenousrights.net.au/civil_rights/equal_wages,_1963-66/response) tells a similar story. The [ABC](https://www.abc.net.au/news/2010-11-15/indigenous_australians_struggle_for_equality/41034) describes it as a part of Aboriginal Australians’ long-running struggle for equality before the law, a battle which is still with us today.
 
 All these sources want you to come away convinced that the decision was obviously a good thing.
 
@@ -31,7 +31,7 @@ And, look - it feels pretty bad to disagree with this. Who wants to take a bold 
 
 The whole story of Aboriginal stockmen in Australia’s outback is very easy to fit into a standard leftist narrative of racist oppression, collective action, and working-class triumph. A whole bunch of Communists are involved. There’s even a famous song about it - [From Little Things Big Things Grow](https://www.youtube.com/watch?v=6_ndC07C2qw), which celebrates the Wave Hill walk-off, when Vincent Lingiari led a stockmen’s strike for equal pay and ultimately the return of the Gurindji people’s stolen land. It’s very clear from the song who the heroes are.
 
-But I still felt like I was missing something. So I turned to Bill Bunbury’s excellent book It’s Not The Money, It’s The Land: Aboriginal Stockmen And The Equal Wages Case, which takes a slightly more complicated view.
+But I still felt like I was missing something. So I turned to Bill Bunbury’s excellent book _It’s Not The Money, It’s The Land: Aboriginal Stockmen And The Equal Wages Case_, which takes a slightly more complicated view.
 
 -
 
@@ -71,7 +71,7 @@ It wasn’t until WWII that this began to change.
 
 Indigenous people from the Kimberley got involved in war work, where for the first time they were treated as something approaching equals. They were integrated into the vast industrial apparatus of the Allied war machine, and it changed the way they understood the world.
 
-In 1946 there was a strike in the Pilbara, coordinated by Aboriginal lawmen and a white Communist named Don McLeod. The strikers asked for a minimum wage of thirty shillings plus their keep. The Seamen’s Union placed a solidarity ban on wool exports from the Pilbara town of Port Hedland. The mainstream press ignored it, but it was covered by the Worker’s Star.
+In 1946 there was a strike in the Pilbara, coordinated by Aboriginal lawmen and a white Communist named Don McLeod. The strikers asked for a minimum wage of thirty shillings plus their keep. The Seamen’s Union placed a solidarity ban on wool exports from the Pilbara town of Port Hedland. The mainstream press ignored it, but it was covered by the _Worker’s Star_.
 
 Bunbury seems pretty ambivalent about this.
 
@@ -87,7 +87,7 @@ Australian trade unions have always had a complicated relationship with Aborigin
 
 Remember that this was the period of the White Australia Policy, strongly backed by the Labor Party, intended mostly to keep out Asian and Pacific immigrants who would otherwise bring down wages for the average working-class white man.
 
-The Communists were [broadly opposed](https://www.marxists.org/history/international/comintern/sections/australia/1945/white-australia.htm) to this. They wanted to unite the global proletariat - to build solidarity across all the workers of the world, not merely the whites. But they represented only a very small part of the Australian trade union movement. Businesses opposed it, too - wanting to import cheap Chinese labour - but the public backed it, and they won.
+The Communists were [broadly opposed](https://www.marxists.org/history/international/comintern/sections/australia/1945/white-australia.htm) to this. They wanted to unite the global proletariat - to build solidarity across all the workers of the world, not merely the whites. But they represented only a very small part of the Australian trade union movement. Businesses opposed it, too - wanting to import cheap Chinese labour - but the public backed it, and they won.
 
 (A lot of the Australian national character, in my view, can be traced back to the strength and conservatism of the trade union movement in the early 20th century. We would be a very different country today - perhaps less stable, but also less risk-averse and complacent - if we’d allowed mass Chinese immigration from the beginning. But that’s a digression.)
 
@@ -95,7 +95,7 @@ In the 20s and 30s, Bunbury writes, Australian unions fought very actively to ki
 
 They resented indigenous labour for the same reason they resented Chinese labour - indigenous people worked cheaper, and they thought that wasn’t fair. Equal pay was a double-edged sword. Its intended beneficiaries, from the old-fashioned union viewpoint, were not the Aborigines but the whites.
 
-All this is important background to understand what happened next.
+All this is important background to understand what happened next.
 
 -
 
@@ -113,7 +113,7 @@ Like most Australians of his day, he knows almost nothing about Aboriginal peopl
 
 He visits the stations, meets some of the Aboriginal workers and becomes excruciatingly conscious of the total impossibility of communicating with them in any way. “My most abiding memory of the case,” he writes,
 
-“is the scene on the station with some Aborigines demonstrating some work in stockyards. On one side the rest of the Aboriginal community silent, uncommunicative, not making a sound, and on the other side all the white fellows in the case, the union representatives, the judges, the Commonwealth representatives, the pastoralists and absolutely no interaction or communication between the two groups.”
+> “is the scene on the station with some Aborigines demonstrating some work in stockyards. On one side the rest of the Aboriginal community silent, uncommunicative, not making a sound, and on the other side all the white fellows in the case, the union representatives, the judges, the Commonwealth representatives, the pastoralists and absolutely no interaction or communication between the two groups.”
 
 He becomes convinced that the entire system of liberal equality, backed by the Australian state, is being imposed on indigenous workers without their understanding or consent. What they want, as Bunbury argues, is not just money but land. They want to live in traditional ways on their own sacred sites, as part of a holistic community. And this isn’t fungible. It can’t be made to fit into the system of award rates.
 
@@ -129,7 +129,7 @@ The feudal relationship that Wootten describes is obviously ripe for abuse, and 
 
 So the call gets made to change the law, and the inspectors head out to the stations to see that it’s enforced.
 
-Bunbury interviews one station owner about the transition. Before the law, he’s supporting around three hundred people at a rate of about a pound a month. Some of these people are stockmen, some are children, some are old blokes who just do odd jobs around the house.
+Bunbury interviews one station owner about the transition. Before the law, he’s supporting around three hundred people at a rate of about a pound a month. Some of these people are stockmen, some are children, some are old blokes who just do odd jobs around the house.
 
 After the law, he has to select about fifteen people and pay them whatever the award rate is. He can’t maintain an economic relationship with a whole community, all beholden to each other in a complex web of social obligations - he has to single out a few workers and pay them as individuals, then hope they support everyone else.
 
@@ -137,9 +137,9 @@ The law’s designed for individual breadwinners - it can’t handle whatever th
 
 Still, they muddle through. I get a little confused about the details here. It seems like some stations made an effort to make sure that the Aborigines could stay on their land, building schools and devaluing their properties by handing over parcels of land to the State Housing Commission. Others get the guns and dogs out and just tell them to fuck off.
 
-By the mid-1970s the outback towns of Halls Creek and Fitzroy Crossing were surrounded by squatters’ camps. Thousands of people living in cars and dirt shacks, in conditions of third-world poverty, with no work and no means of support beyond welfare.
+By the mid-1970s the outback towns of Halls Creek and Fitzroy Crossing were surrounded by squatters’ camps. Thousands of people living in cars and dirt shacks, in conditions of third-world poverty, with no work and no means of support beyond welfare.
 
-A lot of these people have never seen a town, even a tiny one like Fitzroy Crossing, and have no idea how to interact with it. They don’t know how to walk by the side of the road, how to spend money in a shop, how to talk to a policeman. They have no reason to know these things. They obviously can’t get a job - the best work around is on cattle stations, and the cattle stations legally can’t employ them at a rate they are willing to pay.
+A lot of these people have never seen a town, even a tiny one like Fitzroy Crossing, and have no idea how to interact with it. They don’t know how to walk by the side of the road, how to spend money in a shop, how to talk to a policeman. They have no reason to know these things. They obviously can’t get a job - the best work around is on cattle stations, and the cattle stations legally can’t employ them at a rate they are willing to pay.
 
 They’re bored, lonely, depressed, homesick and drunk. They’ve been living in the desert for thousands of years - they can’t just wake up one day and become fully assimilated subjects of Western industrial capitalism. Without the land they have no future.
 
@@ -159,9 +159,9 @@ This did in fact occur. In response to strikes like the Wave Hill walk-off - tra
 
 But it’s a logical next step. The equal pay decision seems to have objectively made matters worse. You can do nothing, but that’s not very liberal-reformer of you - and also, it seems clear that indigenous activists like Vincent Lingiari are themselves calling for justice.
 
-It’s not 1890 any more - they’re joining unions, they’re getting law degrees, they’re coming to see themselves as your equal. Are you going to tell them to get back in the humpy and go back to working for scraps?
+It’s not 1890 any more - they’re joining unions, they’re getting law degrees, they’re coming to see themselves as your equal. Are you going to tell them to get back in the humpy and go back to working for scraps?
 
-Bunbury tells the story of the Noonkanbah people. They’re driven off an unprofitable cattle station in 1971, and wash up in Fitzroy Crossing, drunk and unemployed like everyone else. They decide they want their land back.
+Bunbury tells the story of the Noonkanbah people. They’re driven off an unprofitable cattle station in 1971, and wash up in Fitzroy Crossing, drunk and unemployed like everyone else. They decide they want their land back.
 
 With what Bunbury describes as “considerable” government help, they’re able to buy the station for themselves and set it up as a working cattle operation. It’s still in operation and seems to be doing reasonably well, all things considered - not a raging success, but at least it works.
 
@@ -201,32 +201,32 @@ But it’s also clear what the limits of this process are going to be. And it do
 
 * * *
 
-[[1]](#ftnt_ref1) Sometimes it is said that small risks of ex post very bad events are particularly hard to estimate, but I think the issue is general to all small risks, and it is just that small risks of catastrophic outcomes are more important and hence more worth discussing.
+[[1]](#ftnt_ref1) Sometimes it is said that small risks of ex post very bad events are particularly hard to estimate, but I think the issue is general to all small risks, and it is just that small risks of catastrophic outcomes are more important and hence more worth discussing.
 
-[[2]](#ftnt_ref2) This is related to the idea of the [availability heuristic](https://en.wikipedia.org/wiki/Availability_heuristic).
+[[2]](#ftnt_ref2) This is related to the idea of the [availability heuristic](https://en.wikipedia.org/wiki/Availability_heuristic).
 
-[[3]](#ftnt_ref3) I haven’t actually read Infinite Jest, but I have read Freddie Deboer’s [post](https://freddiedeboer.substack.com/p/david-foster-wallace-won) about it, so without having read it I can say that if you enjoyed that, you’d probably enjoy this book too.  Using another critic’s review that complains people react to the “discourse” rather than read things for themselves, to bolster my anonymous credibility in a book review hosted on a different blogger’s website, but only for people who read footnotes?  That’s the kind of meta thing that is totally appropriate for this book, and you’ll probably find the book satisfying or unsatisfying in proportion to how well you like the rest of this review.
+[[3]](#ftnt_ref3) I haven’t actually read _Infinite Jest_, but I have read Freddie Deboer’s [post](https://freddiedeboer.substack.com/p/david-foster-wallace-won) about it, so without having read it I can say that if you enjoyed that, you’d probably enjoy this book too.  Using another critic’s review that complains people react to the “discourse” rather than read things for themselves, to bolster my anonymous credibility in a book review hosted on a different blogger’s website, but only for people who read footnotes?  That’s the kind of meta thing that is totally appropriate for this book, and you’ll probably find the book satisfying or unsatisfying in proportion to how well you like the rest of this review.
 
-[[4]](#ftnt_ref4) I discovered only after reading this and Tigerman, another Harkaway novel, that Harkaway is actually the pen name of Nicholas Cornwell, son of David Cornwell… aka John le Carré of Tinker, Tailor, Soldier, Spy fame.  So he’s actually another nepo baby (laudatory?).
+[[4]](#ftnt_ref4) I discovered only after reading this and _Tigerman_, another Harkaway novel, that Harkaway is actually the pen name of Nicholas Cornwell, son of David Cornwell… aka John le Carré of _Tinker, Tailor, Soldier, Spy_ fame.  So he’s actually another nepo baby (laudatory?).
 
-[[5]](#ftnt_ref5) You know, like a strong recommendation to skip to the [Conclusion](#id.hihvem1z559d).
+[[5]](#ftnt_ref5) You know, like a strong recommendation to skip to the [Conclusion](#id.hihvem1z559d).
 
-[[6]](#ftnt_ref6) Though the [movie](https://www.imdb.com/title/tt1371111/) is a surprising good adaptation of an “unfilmable” book.
+[[6]](#ftnt_ref6) Though the [movie](https://www.imdb.com/title/tt1371111/) is a surprising good adaptation of an “unfilmable” book.
 
-[[7]](#ftnt_ref7) Incidentally, If this ever get published, I would love if this description was enough to get people to read it who skipped the plot section.  Future me would love to know how thoroughly you feel betrayed in the comments..
+[[7]](#ftnt_ref7) Incidentally, If this ever get published, I would love if this description was enough to get people to read it who skipped the plot section.  Future me would love to know how thoroughly you feel betrayed in the comments..
 
-[[8]](#ftnt_ref8) Coward ;)
+[[8]](#ftnt_ref8) Coward ;)
 
-[[9]](#ftnt_ref9) Chomsky 1991b refers to “Linguistics and adjacent fields: a personal view”, a chapter of The Chomskyan Turn. I couldn’t access the original text, so this quote-of-a-quote will have to do.
+[[9]](#ftnt_ref9) Chomsky 1991b refers to “Linguistics and adjacent fields: a personal view”, a chapter of _The Chomskyan Turn_. I couldn’t access the original text, so this quote-of-a-quote will have to do.
 
-[[10]](#ftnt_ref10) Chomsky’s domination of linguistics is probably due to a combination of factors. First, he is indeed brilliant and prolific. Second, Chomsky’s theories promised to ‘unify’ linguistics and make it more like physics and other ‘serious’ sciences; for messy fields like linguistics, I assume this promise is extremely appealing. Third, he helped create and successfully exploited the [cognitive zeitgeist](https://en.wikipedia.org/wiki/Cognitive_revolution) that for the first time portrayed the mind as something that can be scientifically studied in the same way that atoms and cells can. Moreover, he was one of the first to make interesting connections between our burgeoning understanding of fields like molecular biology and neuroscience on the one hand, and language on the other. Fourth, Chomsky was not afraid to get into [fights](https://en.wikipedia.org/wiki/Linguistics_wars), which can be beneficial if you usually win.
+[[10]](#ftnt_ref10) Chomsky’s domination of linguistics is probably due to a combination of factors. First, he is indeed brilliant and prolific. Second, Chomsky’s theories promised to ‘unify’ linguistics and make it more like physics and other ‘serious’ sciences; for messy fields like linguistics, I assume this promise is extremely appealing. Third, he helped create and successfully exploited the [cognitive zeitgeist](https://en.wikipedia.org/wiki/Cognitive_revolution) that for the first time portrayed the mind as something that can be scientifically studied in the same way that atoms and cells can. Moreover, he was one of the first to make interesting connections between our burgeoning understanding of fields like molecular biology and neuroscience on the one hand, and language on the other. Fourth, Chomsky was not afraid to get into [fights](https://en.wikipedia.org/wiki/Linguistics_wars), which can be beneficial if you usually win.
 
-[[11]](#ftnt_ref11) One such sound is the [bilabial trill](https://en.m.wikipedia.org/wiki/Voiced_bilabial_trill), which kind of sounds like blowing a raspberry.
+[[11]](#ftnt_ref11) One such sound is the [bilabial trill](https://en.m.wikipedia.org/wiki/Voiced_bilabial_trill), which kind of sounds like blowing a raspberry.
 
-[[12]](#ftnt_ref12) This reminds me of a math [joke](https://scottaaronson.blog/?p=103).
+[[12]](#ftnt_ref12) This reminds me of a math [joke](https://scottaaronson.blog/?p=103).
 
-[[13]](#ftnt_ref13) Why is this vacuously true? If, given some particular notion of ‘sentence’, the sentences of any language could only have one word at most, we would just define some other notion of ‘word collections’.
+[[13]](#ftnt_ref13) Why is this vacuously true? If, given some particular notion of ‘sentence’, the sentences of any language could only have one word at most, we would just define some other notion of ‘word collections’.
 
-[[14]](#ftnt_ref14) He and archaeologist Lawrence Barham provide a more self-contained argument in [this 2020 paper](https://link.springer.com/article/10.1007/s10816-020-09480-9).
+[[14]](#ftnt_ref14) He and archaeologist Lawrence Barham provide a more self-contained argument in [this 2020 paper](https://link.springer.com/article/10.1007/s10816-020-09480-9).
 
-[[15]](#ftnt_ref15) A famous line at the beginning of Chomsky’s Aspects of the Theory of Syntax goes: “Linguistic theory is concerned primarily with an ideal speaker-listener, in a completely homogeneous speech community, who knows its language perfectly and is unaffected by such grammatically irrelevant conditions as memory limitations, distractions, shifts of attention and interest, and errors (random or characteristic) in applying his knowledge of the language in actual performance.”
+[[15]](#ftnt_ref15) A famous line at the beginning of Chomsky’s _Aspects of the Theory of Syntax_ goes: “Linguistic theory is concerned primarily with an ideal speaker-listener, in a completely homogeneous speech community, who knows its language perfectly and is unaffected by such grammatically irrelevant conditions as memory limitations, distractions, shifts of attention and interest, and errors (random or characteristic) in applying his knowledge of the language in actual performance.”

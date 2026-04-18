@@ -7,7 +7,7 @@ contestName: 2024 Book Reviews
 year: 2024
 publishedDate: '2026-02-06T16:48:56.664Z'
 slug: surviving-death-by-mark-johnston
-wordCount: 11450
+wordCount: 11470
 readingTimeMinutes: 51
 originalUrl: >-
   https://docs.google.com/document/d/1GYQw3pgvhi7hqOVR-Ql629Q_8thbyHe8sSRy5voyt30
@@ -18,9 +18,9 @@ tags:
 
 It’s about philosophy, sorry!
 
-The most disappointing thing about Surviving Death is its premise. I want to lead with that. Surviving Death is a book in the philosophy of personal identity, so any life extension routines are off the table. Moreover, even in the weird philosophical headspace, the book doesn’t promise the type of survival that it’s most natural to want, survival of one’s personality, subjectivity, etc. And, although it does offer a way to literally survive death, I’m not even totally convinced by that account of survival.
+The most disappointing thing about _Surviving Death_ is its premise. I want to lead with that. _Surviving Death_ is a book in the philosophy of personal identity, so any life extension routines are off the table. Moreover, even in the weird philosophical headspace, the book doesn’t promise the type of survival that it’s most natural to want, survival of one’s personality, subjectivity, etc. And, although it does offer a way to literally survive death, I’m not even totally convinced by that account of survival.
 
-What’s exciting about Surviving Death is everything else. First and foremost, the book is just plain fun, at least as far as philosophy books go. Second, the book is an important work in the philosophy of personal identity. There’s all sorts of novel stuff here, in terms of both method and doctrine, even if you don’t buy the whole argument. Third, the book is an erudite engagement with the history of religious thought. For instance, do you know what Martin Luther thought happened to the soul after you die? I do now.[[45]](#ftnt45) Fourth and finally, the book engages with religious philosophy in an interesting way. It is (analytic, logical, mathematical rather than poetic) philosophy with religious (or continental, maybe) stakes.
+What’s exciting about _Surviving Death_ is everything else. First and foremost, the book is just plain fun, at least as far as philosophy books go. Second, the book is an important work in the philosophy of personal identity. There’s all sorts of novel stuff here, in terms of both method and doctrine, even if you don’t buy the whole argument. Third, the book is an erudite engagement with the history of religious thought. For instance, do you know what Martin Luther thought happened to the soul after you die? I do now.[[45]](#ftnt45) Fourth and finally, the book engages with religious philosophy in an interesting way. It is (analytic, logical, mathematical rather than poetic) philosophy with religious (or continental, maybe) stakes.
 
 ## Mark Johnston
 
@@ -30,23 +30,23 @@ First, a note about the author: Mark Johnston is called a philosopher’s philos
 
 Kind of a great picture.
 
-However, with Saving God in 2009 and Surviving Death in 2010, Johnston performed something of a rebrand. Tonally and subject matter-wise, Johnston is writing more public-facing, perhaps more important work. This has nothing to do with simplicity or philosophical sophistication. As we will see, Surviving Death is plenty complex. These works, though, are concerned with religion, or even religious themselves. I want to be clear about what I mean here. When Johnston is writing about religion, I don’t just mean that he is writing about traditional objects of worship or the great extant religious traditions, although he is doing these things. Rather, Johnston thinks certain big problems/ideas are themselves religious, and even a naturalist, who denies the existence of God or the afterlife must grapple with them. For instance, Johnston takes human life to be “fallen”, not just occasionally good or bad, pleasant or unpleasant, but fallen:
+However, with _Saving God_ in 2009 and _Surviving Death_ in 2010, Johnston performed something of a rebrand. Tonally and subject matter-wise, Johnston is writing more public-facing, perhaps more important work. This has nothing to do with simplicity or philosophical sophistication. As we will see, _Surviving Death_ is plenty complex. These works, though, are concerned with religion, or even religious themselves. I want to be clear about what I mean here. When Johnston is writing about religion, I don’t just mean that he is writing about traditional objects of worship or the great extant religious traditions, although he is doing these things. Rather, Johnston thinks certain big problems/ideas are themselves religious, and even a naturalist, who denies the existence of God or the afterlife must grapple with them. For instance, Johnston takes human life to be “fallen”, not just occasionally good or bad, pleasant or unpleasant, but fallen:
 
-There are certain large-scale structural defects in human life that no amount of psychological adjustment or practical success can free us from. These include arbitrary suffering, aging (once it has reached the corrosive stage), our profound ignorance of our condition, the isolation of ordinary self-involvement, the vulnerability of everything we cherish to time and chance, and, finally, to untimely death. (Yes, death can be a release, but only when suffering or corrosive aging has already undermined the goods that an untimely death would have otherwise destroyed.) (Saving God, Chapter 1)
+> There are certain large-scale structural defects in human life that no amount of psychological adjustment or practical success can free us from. These include arbitrary suffering, aging (once it has reached the corrosive stage), our profound ignorance of our condition, the isolation of ordinary self-involvement, the vulnerability of everything we cherish to time and chance, and, finally, to untimely death. (Yes, death can be a release, but only when suffering or corrosive aging has already undermined the goods that an untimely death would have otherwise destroyed.) (Saving God, Chapter 1)
 
 This results in a genuine need for salvation, a way to overcome that condition, beyond the aforementioned approaches of psychological adjustment and practical success. Salvation could be all sorts of things (including being saved by Jesus, for instance) but in its neutral conception, even a person who doesn’t align with any major religion or believe in anything supernatural may be concerned with salvation. This is what makes Johnston’s later works everyone’s business.
 
 This is really exciting to me. Of course, whether or not we call a certain tough question about life or the universe “religious” is neither here nor there. But Johnston’s conception of religion, and its relation to philosophy, is not merely a matter of nomenclature. Rather, religion is (rationally and more than rationally) something that matters to us. This is not just a fact of psychology. It is not just that people are predisposed to religiosity. Genuine philosophical questions are (best?) answered by the best examples of religious thought. And these answers have foundational emotional, existential, and worldview consequences. It is not just that humans are so weak as to need emotional support in the form of imagined gods. It is that we can (rationally, philosophically) recognize weakness as a condition of human life, and our (partially rational/philosophical, partially enacted) response shapes our worldview and our way of being in the world. None of this requires belonging to any world religion or believing in God. But Johnston is concerned as to what we can “ransom” from the best examples of religious thought, in order to answer these questions.
 
-As a second example, Surviving Death is concerned with a naturalist theology of death.
+As a second example, _Surviving Death_ is concerned with a naturalist theology of death.
 
 ## The importance of surviving death
 
 In worrying about death, we may worry about the loss at least three things:
 
-1.  Subjective experience
-2.  Relationships with others
-3.  The importance of moral goodness
+> 1.  Subjective experience
+> 2.  Relationships with others
+> 3.  The importance of moral goodness
 
 As a framing for the rest of the work, Johnston is concerned with thing 3 (although he does have interesting things to say about 1 and 2, I promise). The threat from death that Johnston is primarily concerned with surviving is the threat to moral goodness (again, I do want to keep emphasizing that as part of that journey, there is a philosophical account of how an individual can literally survive death). Remember, that Johnston is “doing religion” here. He’s not just concerned about why we might fear and dread death. He’s also concerned about our (moral) orientation to the universe.
 
@@ -70,17 +70,17 @@ Johnston thinks so, and so takes as his challenge to make true the hope of Socra
 
 ## The Many Theses of Surviving Death
 
-A great deal of ground is covered in getting from our everyday conceptions of ourselves and our deaths to a view where we can survive death through genuine moral goodness. I will organize this journey, as Johnston does to an extent, around a set of controversial positions that he claims to establish. Surviving Death is undoubtedly fractal and indulges in a great deal of digressions. In getting to these theses, and putting them together into an overall vision, details, arguments, and related (or not so related) philosophical insights make up much of the text. In focussing in on the theses, we can see what the argument is at its most bare and can decide, more easily what we are going to take and what we are going to leave:
+A great deal of ground is covered in getting from our everyday conceptions of ourselves and our deaths to a view where we can survive death through genuine moral goodness. I will organize this journey, as Johnston does to an extent, around a set of controversial positions that he claims to establish. _Surviving Death_ is undoubtedly fractal and indulges in a great deal of digressions. In getting to these theses, and putting them together into an overall vision, details, arguments, and related (or not so related) philosophical insights make up much of the text. In focussing in on the theses, we can see what the argument is at its most bare and can decide, more easily what we are going to take and what we are going to leave:
 
-1.  Even given “supernaturalism”, there is no way that we can get to heaven.
-2.  There is no persistent self worth caring about.
-
-1.  As a result, there are no (non-derivative) reasons for self-interest or our general pattern of circles of concern that radiate out from ourselves.
-
-3.  Our identities are protean:
-
-1.  What we (literally, actually) are depends on what we think we are.
-2.  Therefore, we can come to exist in such a way that we literally survive death.
+> 1.  Even given “supernaturalism”, there is no way that we can get to heaven.
+> 2.  There is no persistent self worth caring about.
+>
+> 1.  As a result, there are no (non-derivative) reasons for self-interest or our general pattern of circles of concern that radiate out from ourselves.
+>
+> 3.  Our identities are protean:
+>
+> 1.  What we (literally, actually) are depends on what we think we are.
+> 2.  Therefore, we can come to exist in such a way that we literally survive death.
 
 As you can see, not all of these theses are created equally. In particular, the first claim, regarding heaven, is inessential to the broader program (although some things established in pursuing that claim continue to be relevant). Let’s go through the theses one-by-one.
 
@@ -96,7 +96,7 @@ There is even deeper context in the form of, what else, the Protestant Reformati
 
 This conflict gives birth to a great deal of positions about what we are and what we can survive, some of which seem random and strange and some of which reshape western thought. As already mentioned, we have Martin Luther’s doctrine of soul-sleeping, where the soul doesn’t vanish after death, but also doesn’t immediately get any reward or punishment. It just waits, unconscious. There are also the Christian Mortalists (who are sometimes grouped with the soul-sleepers), who hold that the soul is not immortal and it dies with the body (only to be later brought back somehow, during the resurrection). Crucially, this is one of the places where a modern-ish materialism first enters western thought - some of these thinkers even cite primitive mind-body correlation studies in support of their view that our spiritual component goes down with our physical component.
 
-And we have Locke, who in an ingenious move completely bypasses both the soul and the body to frame the question in terms of being the same person. He argues that continuity of consciousness is more than sufficient for this, meaning no matter what happens with your soul or body, it is easy enough to resurrect you, just by recreating a mind with your memories and intentions and character traits.
+And we have Locke, who in an ingenious move completely bypasses both the soul and the body to frame the question in terms of being the same _person_. He argues that continuity of consciousness is more than sufficient for this, meaning no matter what happens with your soul or body, it is easy enough to resurrect you, just by recreating a mind with your memories and intentions and character traits.
 
 ### Bodies, Cannibals, and Duplicates
 
@@ -108,11 +108,11 @@ If we’re particular about the matter making up the body, we hit upon an ancien
 
 There’s another deeper problem, which Johnston terms the problem of perimortem duplicates. As I said, in order for the bodily/animal criterion to secure the possibility of resurrection, an additional principle, allowing for and describing recreation, is necessary. Thus:
 
-A body y is a recreation of body x, and therefore the very body x brought back into existence, if and only if the perimortem state of body x is recreated (at all levels of analysis, i.e. cells, organelles, organs), from the same matter.
+> A body _y_ is a recreation of body _x_, and therefore the very body _x_ brought back into existence, if and only if the perimortem state of body _x_ is recreated (at all levels of analysis, i.e. cells, organelles, organs), from the same matter.
 
 Imagine two people, Fred and Ed, living hundreds of years apart. Both are pretty similar throughout their lives. However, in a bizarre cosmic coincidence, their makeups become exactly the same right at the moment of death. Their respective processes of growth and decay happen to end up perfectly at the same place, in the final moments. The organs of Fred are exactly like the organs of Ed, because the organelles that make them up are exactly alike, because the cells that make them up are exactly alike. We could even imagine the two living in a kind of enclosed terrarium such that, by incalculably unlikely odds, the very atoms of Fred have been recycled back into Ed, in the relevant positions, at his death. This is so unlikely as to be practically impossible. Additionally, it might have all sorts of strange knock-on effects. If the mind is determined by the state of the brain, then their identical brain states may lead Ed to die thinking he’s Fred, or it may lead both to die in some neutral state of delusion. However, despite all this, the situation is at least conceivable. It is at least a logical possibility, that is its idea is not itself a contradiction.
 
-Fred and Ed seem out of luck, as far as the resurrection is concerned. For how could God, even given His awesome power, resurrect one or the other? Any body that God creates is, by our resurrection principle, both of them. This is itself a contradiction (for two distinct bodies cannot become one), and screws the two of them over even more, if one was a sinner and the other a saint (presumably Fred and Ed can have different histories - this type of scenario is hard to cash out, despite its possibility). Indeed, insofar as perimortem duplicates are possible, a contradiction can be derived with our auxiliary principle. And surely it's the fault of our auxiliary principle, the one that underwrites the possibility of bodily resurrection, and not the much more plausible bodily criterion of identity.
+Fred and Ed seem out of luck, as far as the resurrection is concerned. For how could God, even given His awesome power, resurrect one or the other? Any body that God creates is, by our resurrection principle, _both of them_. This is itself a contradiction (for two distinct bodies cannot become one), and screws the two of them over even more, if one was a sinner and the other a saint (presumably Fred and Ed can have different histories - this type of scenario is hard to cash out, despite its possibility). Indeed, insofar as perimortem duplicates are possible, a contradiction can be derived with our auxiliary principle. And surely it's the fault of our auxiliary principle, the one that underwrites the possibility of bodily resurrection, and not the much more plausible bodily criterion of identity.
 
 ### The Empirical Turn: Offloading
 
@@ -122,7 +122,7 @@ Recall the Lockean criterion: same consciousness, same person. This consciousnes
 
 Can this be the criterion we use to track ourselves and others, even from our earliest ages? Johnston says no. Keeping track of psychological connections is too complicated for the youngest trackers of persons, and doesn’t reflect the easy, intuitive way in which we all keep track of each other through time. I don’t need to ask you about memories or test your character traits. I just know it’s you again. In fact, no criterion can adequately capture the way we track each other. This is because, on an empirical hypothesis, we track each other in a criterionless way. We “offload” the question of persistence on to other people.
 
-Consider the way we track everyday objects in motion. What we don’t do is see a bunch of momentary snapshots of an object at a location, as in the frames of an animation, and then stitch them together by some conscious or unconscious criterion of same-objectness. Instead, we just see the object as moving, which assumes persistence. Our visual system allows us to see the world as full of persisting objects without any extra thought.
+Consider the way we track everyday objects in motion. What we don’t do is see a bunch of momentary snapshots of an object at a location, as in the frames of an animation, and then stitch them together by some conscious or unconscious criterion of same-objectness. Instead, we just _see_ the object as moving, which assumes persistence. Our visual system allows us to see the world as full of persisting objects without any extra thought.
 
 There is a metaphysical upshot to this. Johnston motivates the hypothesis by the idea that we might have evolved to save the cognitive labor of stitching momentary objects together. It is easier to just perceive persisting objects directly as persisting. But this doesn’t work for any sort of object. We can only offload onto a special class of objects - those that take care of persistence themselves. That is, the sort of objects that have “powers” of self-maintenance. Consider a human animal. A plausible technical account of what it is to be that animal is to have self-maintaining life functions (i.e. we digest food in such a way as to take in nutrients which support our future ability to digest food). So animals are precisely the kind of thing that, by their nature, take care of their own persistence. But bundles of psychologically unified states are not.
 
@@ -144,15 +144,15 @@ This section might be disappointing for anyone deeply invested in this literatur
 
 ### De Se Reasons and the Doctrine Anatta
 
-At the basis of our practical reasoning are certain thoughts about our self and our self-interest. We are said to have basic de se[[49]](#ftnt49), of oneself, reasons for acting and caring. Indeed, our usual pattern of care is modeled as concentric circles containing, in the innermost layer, ourselves, and then, moving outward, our family, friends, acquaintances, and then perhaps our state or nation or other broader communities. We don’t reason as follows:
+At the basis of our practical reasoning are certain thoughts about our self and our self-interest. We are said to have basic _de se_[[49]](#ftnt49), of oneself, reasons for acting and caring. Indeed, our usual pattern of care is modeled as concentric circles containing, in the innermost layer, ourselves, and then, moving outward, our family, friends, acquaintances, and then perhaps our state or nation or other broader communities. We don’t reason as follows:
 
-1.  I happen to be from the U.S.
-2.  As a result, I feel patriotic for that country.
-3.  However, this is fortuitous, because the U.S. just so happens to actually be the best country.
+> 1.  I happen to be from the U.S.
+> 2.  As a result, I feel patriotic for that country.
+> 3.  However, this is fortuitous, because the U.S. just so happens to actually be the best country.
 
-Instead, it is just because the U.S. is my country that I feel attached to it. Similarly, it is because it is my family, not because my family is actually superior, that I care for them.
+Instead, it is just because the U.S. is _my_ country that I feel attached to it. Similarly, it is because it is _my_ family, not because my family is actually superior, that I care for them.
 
-In the rest of this section, the notion of the self, and with it, self-interest will be examined. We will be led to a version of the Buddhist doctrine of anatta, the idea that there are no persisting selves worth caring about. We have already made part of the journey: we have argued on empirical grounds that it is unlikely that there are souls. The rest of the journey will be in subjective territory.
+In the rest of this section, the notion of the self, and with it, self-interest will be examined. We will be led to a version of the Buddhist doctrine of _anatta_, the idea that there are no persisting selves worth caring about. We have already made part of the journey: we have argued on empirical grounds that it is unlikely that there are souls. The rest of the journey will be in subjective territory.
 
 ### Enter the Arena
 
@@ -168,9 +168,9 @@ Here is what is key: the self is defined relative to this arena. The self is the
 
 ### To the Death
 
-Death makes this idea particularly clear. Consider the event of one’s death. One part of this event is the end of the biological life of a certain organism. This is a thing that has happened billions of times. It is, no doubt, tragic. Humans tend to have goals and desires, as well as friends and families. It is sad to see the end of such a life. But this is not, particularly, what I fear in my own death. I fear the end of presence, the end of experience. When I die, it is not just the end of some being that presumably had aims and relations. I will no longer be capable of aiming for anything or relating to anything. Now, don’t say that the difference is that the death is mine. We are trying to determine what that entails and why it’s significant.
+Death makes this idea particularly clear. Consider the event of one’s death. One part of this event is the end of the biological life of a certain organism. This is a thing that has happened billions of times. It is, no doubt, tragic. Humans tend to have goals and desires, as well as friends and families. It is sad to see the end of such a life. But this is not, particularly, what I fear in my own death. I fear the end of presence, the end of experience. When I die, it is not just the end of some being that presumably had aims and relations. I will no longer be capable of aiming for anything or relating to anything. Now, don’t say that the difference is that the death is _mine_. We are trying to determine what that entails and why it’s significant.
 
-The nature of my death, my subjective or ownmost death, can be clarified in terms of the centered arena of presence and action. What we really fear is the closing up of the world around our personal centers. After my death, the world will be, in a crucial way, uncentered. There will be no perspective, no privileged point, to which the world presents. Of course, there will be others, each presumably with their own centers. But this is alien to my phenomenology.
+The nature of _my_ death, my subjective or ownmost death, can be clarified in terms of the centered arena of presence and action. What we really fear is the closing up of the world around our personal centers. After my death, the world will be, in a crucial way, uncentered. There will be no perspective, no privileged point, to which the world presents. Of course, there will be others, each presumably with their own centers. But this is alien to my phenomenology.
 
 I do fear for the death of the human being that I am, the one found at the center of the arena. This is because I have the science-informed view that it is the functioning of that human being’s brain that undergirds the existence of my arena of presence. But this is a derivative concern for the human being, not a primitive one. A certain human being has the property of being at the center of this arena of presence and action, which I take to be the property of being me.
 
@@ -178,7 +178,7 @@ I do fear for the death of the human being that I am, the one found at the cente
 
 So we have met the self. It is defined relative to the spatial structure of our consciousness as the being at the center. It also seems to be a lot of what we care about when it comes to our survival, as the discussion of death indicates. It is now time to bid the self goodbye.
 
-Let us look again at the arena. What sort of object is it? It is clearly an intentional object, an object of conscious thought. Prototypical intentional objects are the chair that you’re seeing or the balloon that you’re thinking about. Either or both may also be physical objects made of matter and existing in space. But they are also objects of thought, objects in your mind. The arena comes out in the various properties of the things we are conscious of. The things we see and hear, the thoughts we have, and the actions we take all have properties which allow us to construct an arena with a center. And it surely doesn’t exist beyond this. We are not conscious of some actually existing object. It is only that all the objects of our consciousness have properties such as to construct a further object for us to be conscious of. So the arena is a merely intentional object.
+Let us look again at the arena. What sort of object is it? It is clearly an intentional object, an object of conscious thought. Prototypical intentional objects are the chair that you’re seeing or the balloon that you’re thinking about. Either or both may also be physical objects made of matter and existing in space. But they are also objects of thought, objects in your mind. The arena comes out in the various properties of the things we are conscious of. The things we see and hear, the thoughts we have, and the actions we take all have properties which allow us to construct an arena with a center. And it surely doesn’t exist beyond this. We are not conscious of some actually existing object. It is only that all the objects of our consciousness have properties such as to construct a further object for us to be conscious of. So the arena is a _merely_ intentional object.
 
 Unfortunately, the prototypical merely intentional object is the hallucination, a thing that is an object of consciousness and nothing beyond. On some level, we shouldn’t be surprised that the arena is much like a hallucination. After all, we know reality is not really centered where we are. It makes sense that it’s just an element of our conscious experience. Here is a further argument: what objectively existing thing could justify our pattern of particular self-interest? If we are not solipsists, then whatever the special thing that justifies your pattern of concern is, it should be had by each and every person. Having a soul, for instance, could never be the justification for your particular pattern of self-concern, because it is something in the world that everyone has and is equally objectively accessible to everyone. So we should expect the justifier of our pattern of concern to be in the realm of the subjective.
 
@@ -186,19 +186,19 @@ Unfortunately, the prototypical merely intentional object is the hallucination, 
 
 There are many questions about hallucinations which have no answer. What color is the back of Macbeth’s hallucinated dagger? Allow that Macbeth is not having a hallucinatory vision of a specific actual dagger which we could go check (this differs from the actual play), then so long as he doesn’t have a vision of the back of the dagger, there’s just no answer to what color the back is. Identity over time of a hallucinated object is the same way. As a convention, we simply default to what the hallucinator says. If Macbeth has a hallucination of a dagger one night and then has another the next it is simply up to him whether it is the same dagger or a different one. Of course, how the hallucination presents to him has a substantial say. It is not just an arbitrary choice he makes. But beyond the mode of presentation of the dagger there are no actual facts as to the persistence of the dagger. And it is entirely possible for two people to be presented with the same stimulus and come to different conclusions (two people may each have two hallucinations made up of the same qualitative characteristics and one of them may understand their experience as two hallucinated daggers while the other may think they hallucinated one dagger twice).
 
-Consider your own case. Whenever you wake up, how do you know you are experiencing the same arena? What conditions do you apply, moment to moment, to make this determination?[[50]](#ftnt50) This is just something we immediately know. As a result of our scientific knowledge, we know, or at least strongly suspect, that whatever phenomenology we have comes from our brain. And we always find the same old human being at the center, with presumably the same brain (have you ever checked?). But this is not the criteria by which we come to know we are the same self moment to moment. We just experience the arena we have as persisting.
+Consider your own case. Whenever you wake up, how do you know you are experiencing the same arena? What conditions do you apply, moment to moment, to make this determination?[[50]](#ftnt50) This is just something we immediately know. As a result of our scientific knowledge, we know, or at least strongly suspect, that whatever phenomenology we have comes from our brain. And we always find the same old human being at the center, with presumably the same brain (have you ever checked?). But this is not the criteria by which we come to know we are the same self moment to moment. We just experience the arena we have as persisting.
 
 In order for us to actually just know that the arena persists, we’d have to be offloading. We’d have to be letting the arena take care of its own persistence. But a hallucination is not the type of thing that can take care of its own survival. It is not in its nature to be self-maintaining and persistent through time.
 
 ### What’s left?
 
-So, we are left with anatta. The self, as we care about it in terms of our own deaths, is defined relative to a hallucination. There is no sense of it persisting or not. We simply always take it to do so, and by convention we default to the understanding of the victim of hallucination. This is not a rational basis for any sort of interest. And so, with the self goes self-interest. We do, as a matter of fact, reason from the central premise of basic de se reasons. But there is no actual justifier of our patterns of self-interest. The world is not centered and we are not the center of the world.
+So, we are left with _anatta_. The self, as we care about it in terms of our own deaths, is defined relative to a hallucination. There is no sense of it persisting or not. We simply always take it to do so, and by convention we default to the understanding of the victim of hallucination. This is not a rational basis for any sort of interest. And so, with the self goes self-interest. We do, as a matter of fact, reason from the central premise of basic _de se_ reasons. But there is no actual justifier of our patterns of self-interest. The world is not centered and we are not the center of the world.
 
 ## Part 3: You Are What You Think
 
 ### A Parable: The Many Persons of the Distant Future
 
-Let’s do some science fiction. In the distant future, humanity has spread across the galaxy. Separated by distance, culture, or perhaps the disaster, several distinct tribes emerge. First, there are the Human Beings. These are our identical successors. They are not augmented or changed in any way. We are all, at this point, Human Beings even if the tribal distinctions don’t yet exist. Far off in the Epsilon system are the genius Teletransporters. Biologically identical to us, they are distinguished by their habitual use of super fast, perhaps near light speed, teletransporters, which copy the body of its user, beam the data to a receiving station, destroy the original, and then recreate a new body from ambient atoms at the receiving station. The Teletransporters prosper from the near instant travel, and in the latest design of the teletransporters, they can even recreate the transported bodies free from disease. Finally, tucked behind the R7120 cluster, are the unfortunate Hibernators. The Hibernators live on inhospitable planets passed up by the rest of the galaxy. They survive through exceptionally hard work, working without sleep for up to 9 months of the year. In order to support this, they then hibernate for the remaining 3 months.
+Let’s do some science fiction. In the distant future, humanity has spread across the galaxy. Separated by distance, culture, or perhaps _the disaster_, several distinct tribes emerge. First, there are the Human Beings. These are our identical successors. They are not augmented or changed in any way. We are all, at this point, Human Beings even if the tribal distinctions don’t yet exist. Far off in the Epsilon system are the genius Teletransporters. Biologically identical to us, they are distinguished by their habitual use of super fast, perhaps near light speed, teletransporters, which copy the body of its user, beam the data to a receiving station, destroy the original, and then recreate a new body from ambient atoms at the receiving station. The Teletransporters prosper from the near instant travel, and in the latest design of the teletransporters, they can even recreate the transported bodies free from disease. Finally, tucked behind the R7120 cluster, are the unfortunate Hibernators. The Hibernators live on inhospitable planets passed up by the rest of the galaxy. They survive through exceptionally hard work, working without sleep for up to 9 months of the year. In order to support this, they then hibernate for the remaining 3 months.
 
 Although perhaps a minor detail in a more exciting story, let’s pause for a second to examine the attitudes towards personal identity exhibited by these tribes. The Human Beings are like us. They take themselves to survive, roughly, for the life span of a particular human animal, although nearly all of them extend their life span to the now technologically possible situation of bodily death, but artificial life support for the brain. The Teletransporters are similar, except, they understand themselves to survive teletransportation. As a result, they outlive the animal they’re constituted by many times over, for it is destroyed and created anew each time they teleport. Finally, the tragedy of the Hibernator case is compounded by the fact that they take the deep sleep they enter to be a sort of death. As a result, when planning for the next year, they write as if a new crop of people will awake to take their places. As a result, the Hibernators die many times within the lifespan of one animal.
 
@@ -208,7 +208,7 @@ What do we say about these different communities? Couldn’t we just say that on
 
 Here is what we don’t want to be. We don’t want to be relativists about personal identity. We don’t, that is, want to say that things are true about the world in one culture, but not in the other (of course, different cultures can and do have different beliefs about the world - we don’t want to say that these beliefs are, in general, self-validating). In general, being a relativist is a bad idea. Relativism is acceptable in cases of genuine context dependence. To give a trivial case, an Australian and I can both be right about where the equator is relatively, even though we disagree.
 
-Johnston offers another way of dealing with cross-cultural difference, the even-handed treatment. An even-handed treatment is where we recognize multiple groups as agreeing on some higher-level fact, but implementing that fact differently within their culture. He gives the example of the moral permissiveness of telling someone to step outside for a fight in response to an insult. We shouldn’t be relativists and say that this is just allowed in some cultures and not in others. But we could offer an even-handed treatment of the two cultures. Imagine a higher moral principle that both cultures hold: something to do with respect and parity between persons. In a fighting culture, respect for another person is implemented by challenging them to a fight when they insult you. You are recognizing their agency and attempting to achieve restitution or resolution for their insult. Perhaps after the fight, the two of you can just continue to coexist respectfully in a community. In a non-fighting culture, respect for another person is implemented, for instance, in absolute respect for their bodily autonomy. Fighting would then break the parity between the two of you, and would be serious disrespect. So both cultures agree that we have a moral obligation to respect others and do our best to achieve parity between individuals, and disagree only in the implementation of this obligation.
+Johnston offers another way of dealing with cross-cultural difference, the even-handed treatment. An even-handed treatment is where we recognize multiple groups as agreeing on some higher-level fact, but implementing that fact differently within their culture. He gives the example of the moral permissiveness of telling someone to step outside for a fight in response to an insult. We shouldn’t be relativists and say that this is _just_ allowed in some cultures and not in others. But we could offer an even-handed treatment of the two cultures. Imagine a higher moral principle that both cultures hold: something to do with respect and parity between persons. In a fighting culture, respect for another person is _implemented_ by challenging them to a fight when they insult you. You are recognizing their agency and attempting to achieve restitution or resolution for their insult. Perhaps after the fight, the two of you can just continue to coexist respectfully in a community. In a non-fighting culture, respect for another person is _implemented_, for instance, in absolute respect for their bodily autonomy. Fighting would then break the parity between the two of you, and would be serious disrespect. So both cultures agree that we have a moral obligation to respect others and do our best to achieve parity between individuals, and disagree only in the implementation of this obligation.
 
 So an even-handed treatment is possible, without being relativism, in the case where there is a higher order principle being differentially implemented among communities.
 
@@ -216,7 +216,7 @@ So an even-handed treatment is possible, without being relativism, in the case w
 
 There are no independent justifiers of our future-oriented concern. We are not souls or Neo-Lockean psyches, on empirical grounds, we are not subjective selves, for those are mere hallucinations, and we are not animals, for neither of the three tribes identify only with the biological life of an animal (even the Human Beings take themselves to survive when only their brain does, which is the survival of an organ, but not an organism). We can still be persons, thinking reflective beings, but of what kind?
 
-There is a move available. We, at each moment in which we are normally functioning, have a disposition to take in our anticipatable future interests. Of course, we don’t consciously realize this disposition at every moment. But part of being a person is conceiving of yourself as having a life to live and shape.
+There is a move available. We, at each moment in which we are normally functioning, have a disposition to take in our anticipatable future interests. Of course, we don’t consciously realize this disposition at every moment. But part of being a person is conceiving of yourself as having a life to _live_ and _shape._
 
 In finding that what we took to justify this disposition, the persistence of an animal or soul or self, cannot do so, we can flip it around. Perhaps we previously had the relation right, but the direction backwards. It is the disposition to take in future interests that makes for persistence, not persistence that justifies. That is, a person survives an event E whenever there is a being after event E that the person is disposed to take in the interests of. This is the even-handed treatment of the three communities. There is a higher-level agreement that we are disposition-dependent persons. Each community implements this form of personhood differently, because each community instills in its people different dispositions.
 
@@ -230,9 +230,9 @@ Third, there is some conceptual indeterminacy in personal identity, that is, the
 
 ### What is goodness
 
-Something that looms large in Surviving Death, but has hardly come up so far in my review is the notion of goodness at play. Goodness is closely connected to the established doctrine of anatta or no-self and very very similar to the biblical command of agape or radical altruism and divine love. Goodness is, among other things, just taking oneself as one among many, although one that you have a particular responsibility to and power over. It is the orientation to the interests and good of all humanity, humans wherever they are found. Goodness, at least partially, is taking in the interests of all of humanity. Applications to Effective Altruism or one’s own moral system are left to the reader, but the application to identity are obvious. If your survival is dependent on your disposition to take in the interests of some future being, then insofar as you are good, that is, insofar as you are disposed to take in the interests of all of humanity, you can survive wherever humanity survives. You can literally survive death.
+Something that looms large in _Surviving Death_, but has hardly come up so far in my review is the notion of goodness at play. Goodness is closely connected to the established doctrine of _anatta_ or no-self and very very similar to the biblical command of _agape_ or radical altruism and divine love. Goodness is, among other things, just taking oneself as one among many, although one that you have a particular responsibility to and power over. It is the orientation to the interests and good of all humanity, humans wherever they are found. Goodness, at least partially, is taking in the interests of all of humanity. Applications to Effective Altruism or one’s own moral system are left to the reader, but the application to identity are obvious. If your survival is dependent on your disposition to take in the interests of some future being, then insofar as you are good, that is, insofar as you are disposed to take in the interests of all of humanity, you can survive wherever humanity survives. You can literally survive death.
 
-I want to pause to repeat that conclusion, as it is the big promise of this whole review. I’ll frame it as a bunch of conditionals. If we are persons who can implement our personhood in different ways depending on our dispositions to care about future individuals, then what we can literally survive is dependent on our patterns of identity and care. If we adopt the doctrine of anatta and orient ourselves towards agape, that is the care for all of humanity, then we survive wherever humanity survives.
+I want to pause to repeat that conclusion, as it is the big promise of this whole review. I’ll frame it as a bunch of conditionals. If we are persons who can implement our personhood in different ways depending on our dispositions to care about future individuals, then what we can literally survive is dependent on our patterns of identity and care. If we adopt the doctrine of _anatta_ and orient ourselves towards _agape_, that is the care for all of humanity, then we survive wherever humanity survives.
 
 ### Being Higher Order
 
@@ -252,25 +252,25 @@ First: method. Johnston’s doing all sorts of stuff, but a couple things stand 
 
 What takes the place of these thought experiments? At points, something like a healthy functionalism. Certain concepts have a role in our life. And that role places an absolute constraint on what sort of wizardry we can do to the concept. Recall offloading: whatever we are, we must be a type of thing that can be tracked easily and engaged with by the youngest members of our species. Recall the self: whatever we find the self to be upon reflection, it must be the sort of thing that’s intimately interwoven with our self-interest and our deep fear of death.
 
-In the interest of objectivity, we sometimes attempt to figure out what something really is and whether we’re justified in valuing it as we do. This is of course important and is very similar to the project of various parts of Surviving Death (for instance, we are not justified in valuing the self as we do). However, we need to make sure we keep our eyes on the right thing, and we continue to ask questions that we care about. Additionally, understanding the role something is supposed to play in our conceptual scheme can give us a place to start for the questions we may ask about it.
+In the interest of objectivity, we sometimes attempt to figure out what something _really is_ and whether we’re justified in valuing it as we do. This is of course important and is very similar to the project of various parts of _Surviving Death_ (for instance, we are not justified in valuing the self as we do). However, we need to make sure we keep our eyes on the right thing, and we continue to ask questions that we care about. Additionally, understanding the role something is supposed to play in our conceptual scheme can give us a place to start for the questions we may ask about it.
 
 Second: doctrine. I’m willing to buy that our prospects regarding the afterlife hang on the existence or nonexistence of immortal souls. I don’t personally have a lot of stake in the argument, but the various problems for alternative, bodily and psychological, accounts seem meaningful. It also does feel like a quirk of our scientific worldview that many religious philosophers take us to be animals (this would have been heretical in earlier eras, and perhaps is now).
 
-Part 2, regarding the self, straddles the line between provocative and surprising and well-argued and plausible perfectly for me. I take my self-interest and being the “subject of experience” to be very important. But it does seem that the justifier of my self-interest could only reside in the realm of the irreducibly subjective - no objective property that I have, just like everyone else, could account for what’s so special about being me. And of course the world really is not centered around my perspective. To return to a classic argument about death, it really is quite strange that the world existed before me presenting to no perspective I can possibly imagine (for to imagine it would be to imagine the world presenting to my perspective, possibly through the eyes of someone else). And broadly speaking, although I don’t find Johnston’s characterization of the arena to map exactly to my subjective experience, I find it amenable enough that it is an interesting attempt and its demise seems much like a demise of my subjective selfhood.
+Part 2, regarding the self, straddles the line between provocative and surprising and well-argued and plausible perfectly for me. I take my self-interest and being the “subject of experience” to be very important. But it does seem that the justifier of my self-interest could only reside in the realm of the irreducibly subjective - no objective property that I have, just like everyone else, could account for what’s so special about being me. And of course the world really is not centered around my perspective. To return to a classic argument about death, it really is quite strange that the world existed before me presenting to no perspective I can possibly imagine (for to imagine it would be to imagine the world presenting to _my_ perspective, possibly through the eyes of someone else). And broadly speaking, although I don’t find Johnston’s characterization of the arena to map exactly to my subjective experience, I find it amenable enough that it is an interesting attempt and its demise seems much like a demise of my subjective selfhood.
 
 Part 3 is really hard for me to believe. There is something about the claim that what I am depends on my patterns of care that is nearly impossible for me to believe. There are few analogues in the world. What my car is does not depend on what I think about it. Also, part of what’s so horrible about death is its imposed nature. Much of the tragedy of death would be diminished if we were immortal until we chose to go. But, crucially, we don’t choose what we survive. I suspect that what’s going wrong has something to do with what I’ve summarized in the section Error Theory and Response Dependence.
 
 ### The Incredulous Stare and Doing Philosophy
 
-But I really don’t have a knockdown argument. Of course, the task of philosophical engagement requires not just registering one’s disapproval of another's argument but actually providing a contrary philosophical argument. To explain why their conclusion doesn’t follow from their premises, and to provide an alternate expression of the issue at hand. But the argument of Surviving Death is long and complicated and distributed throughout the whole book as well as Johnston’s other published writings (and I am not attempting to publish new philosophy here).
+But I really don’t have a knockdown argument. Of course, the task of philosophical engagement requires not just registering one’s disapproval of another's argument but actually providing a contrary philosophical argument. To explain why their conclusion doesn’t follow from their premises, and to provide an alternate expression of the issue at hand. But the argument of _Surviving Death_ is long and complicated and distributed throughout the whole book as well as Johnston’s other published writings (and I am not attempting to publish _new_ philosophy here).
 
 At a certain point, one just wants to get off the wild ride.
 
 In an incredibly influential work of philosophy, David Lewis responds to a list of objections to his system, ending with the objection of the incredulous stare. That is, some people respond to his argument not with some contrary argument but simply with a look of disbelief. And Lewis takes this seriously as an objection to his ideas.
 
-Johnston’s conclusion seems crazy to me. I find there to be all sorts of interesting thoughts and arguments in Surviving Death and the conclusion we reach is really fascinating, but ultimately I struggle to actually believe these conclusions. I do have counter-arguments or at least minor quibbles at various points along the journey. But the overall feeling I have is that the conclusion is false, therefore, there must be some error in the reasoning. This is usually a bad way of arguing. The premise of the incredulous stare is that sometimes this is the best we can do.
+Johnston’s conclusion seems crazy to me. I find there to be all sorts of interesting thoughts and arguments in _Surviving Death_ and the conclusion we reach is really fascinating, but ultimately I struggle to actually believe these conclusions. I do have counter-arguments or at least minor quibbles at various points along the journey. But the overall feeling I have is that the conclusion is false, therefore, there must be some error in the reasoning. This is usually a bad way of arguing. The premise of the incredulous stare is that sometimes this is the best we can do.
 
-From an outside perspective, Johnston has been publishing work in the philosophy of personal identity since before I was born. So it’s likely he’d be able to fool me (this is not to suggest the book is a con in any way, just that if its conclusion is false, Johnston’s argumentative chops may be sufficient to make it convincing anyway). Additionally, the book is nearly 400 pages. As the detailed recounting of the argument may suggest, I don’t claim to have grasped the single golden thread that makes it all clear. It seems overwhelmingly likely that there is some mistake in the details somewhere that means the conclusion is totally off base.
+From an outside perspective, Johnston has been publishing work in the philosophy of personal identity since before I was born. So it’s likely he’d be able to fool me (this is not to suggest the book is a con in any way, just that if its conclusion is false, Johnston’s argumentative chops may be sufficient to make it convincing anyway). Additionally, the book is nearly 400 pages. As the detailed recounting of the argument may suggest, I don’t claim to have grasped the single golden thread that makes it all clear. It seems overwhelmingly likely that there is some mistake in the details _somewhere_ that means the conclusion is totally off base.
 
 Philosophy, and reason more broadly, is often a lot like semantic satiation, the phenomenon of a word losing meaning through repetition. Digging deep enough into our conceptual apparatus - plumbing the depth of what we most truly are and what it most deeply is to exist - we are led to confusing positions, questions we wouldn’t normally ask, and loss of the regular senses of things. Indeed, it is a mainstay of modern philosophy that regarding any open issue, there is no position that allows us to hold everything we want to hold. Two seemingly unimpeachable everyday premises somehow contradict and we must adopt some partial answer that requires us to deny something seemingly obvious.[[51]](#ftnt51)
 
@@ -296,112 +296,112 @@ I don’t worry so much about free will anymore. It honestly doesn’t have much
 
 * * *
 
-[[1]](#ftnt_ref1) “Wait a minute, this is about a fake news website? Why is it in this contest?”
+[[1]](#ftnt_ref1) “Wait a minute, this is about a fake news website? Why is it in this contest?”
 
 Excellent question! To that, I offer several answers:
 
-1.  A collection of fake news blog posts may as well be considered a long-running series of short stories, and I hope that we’d be allowed to review the collected short stories of an author even if they were never technically compiled into a book.
-2.  Scott told us to be less conventional in our choices.
-3.  I am a liberal arts graduate and I’m definitely not going to make the finals reviewing some nerdy non-fiction book.
+> 1.  A collection of fake news blog posts may as well be considered a long-running series of short stories, and I hope that we’d be allowed to review the collected short stories of an author even if they were never technically compiled into a book.
+> 2.  Scott told us to be less conventional in our choices.
+> 3.  I am a liberal arts graduate and I’m definitely not going to make the finals reviewing some nerdy non-fiction book.
 
-[[2]](#ftnt_ref2) Baxter also places a few tribunals in Guam.
+[[2]](#ftnt_ref2) Baxter also places a few tribunals in Guam.
 
-[[3]](#ftnt_ref3) Yes, the stock photo on this article is Christian Bale playing Dick Cheney from the Vice movie.
+[[3]](#ftnt_ref3) Yes, the stock photo on this article is Christian Bale playing Dick Cheney from the _Vice_ movie.
 
-[[4]](#ftnt_ref4) On the other hand, Jeffrey Epstein is [actually alive](https://realrawnews.com/2021/01/epstein-the-kraken-escaped-federal-custody-during-6-jan-riots/) – and at large, having escaped custody during the January 6 riot.
+[[4]](#ftnt_ref4) On the other hand, Jeffrey Epstein is [actually alive](https://realrawnews.com/2021/01/epstein-the-kraken-escaped-federal-custody-during-6-jan-riots/) – and at large, having escaped custody during the January 6 riot.
 
-[[5]](#ftnt_ref5) [A real person!](https://www.jag.navy.mil/about/leadership/jonathan-t-stephens/)
+[[5]](#ftnt_ref5) [A real person!](https://www.jag.navy.mil/about/leadership/jonathan-t-stephens/)
 
-[[6]](#ftnt_ref6) That [article](https://realrawnews.com/2021/10/hanks-former-co-star-peter-scolari-executed-by-military/) might be unpleasant to some (it describes child torture), but it does give Tom Hanks the best villain line in any artistic medium of the past half-decade: “Life ain’t like a box of chocolates, it’s like a bag of shit!”
+[[6]](#ftnt_ref6) That [article](https://realrawnews.com/2021/10/hanks-former-co-star-peter-scolari-executed-by-military/) might be unpleasant to some (it describes child torture), but it does give Tom Hanks the best villain line in any artistic medium of the past half-decade: “Life ain’t like a box of chocolates, it’s like a bag of shit!”
 
-[[7]](#ftnt_ref7) It is always Delta Force, SEALs, or Marines who undertake military operations in Real Raw News land. No exceptions.
+[[7]](#ftnt_ref7) It is _always_ Delta Force, SEALs, or Marines who undertake military operations in Real Raw News land. No exceptions.
 
-[[8]](#ftnt_ref8) The episode was titled “That 90s Show,” a joking reference to That 70s Show…except that, 15 years later, there now actually is a That 90s Show, and The Simpsons is still going.
+[[8]](#ftnt_ref8) The episode was titled “That 90s Show,” a joking reference to That 70s Show…except that, 15 years later, there now actually is a That 90s Show, and The Simpsons is still going.
 
-[[9]](#ftnt_ref9) And I mean the actual cut-your-head-off death penalty, none of that “outlawry” silliness from Njal’s Saga.
+[[9]](#ftnt_ref9) And I mean the actual cut-your-head-off death penalty, none of that “outlawry” silliness from Njal’s Saga.
 
-[[10]](#ftnt_ref10) A real-life capital court martial requires at least 12 jury members, but in RRN it is only three.
+[[10]](#ftnt_ref10) A real-life capital court martial requires at least 12 jury members, but in RRN it is only three.
 
-[[11]](#ftnt_ref11) This [sic] is from Baxter’s original article, describing a fictional quote about a fictional military tribunal. Like I said, the man’s a genius.
+[[11]](#ftnt_ref11) This [sic] is from Baxter’s original article, describing a fictional quote about a fictional military tribunal. Like I said, the man’s a genius.
 
-[[12]](#ftnt_ref12) Another charming part of Baxter’s style is his love of a good thesaurus.com search.
+[[12]](#ftnt_ref12) Another charming part of Baxter’s style is his love of a good thesaurus.com search.
 
-[[13]](#ftnt_ref13) Ironically, AI barely figures at all into Real Raw News’s reporting. Cloning, body doubles, and energy weapons pop up all the time. There’s plenty of footage that is faked the old-fashioned way, with studio sets and actors. Yet Real Raw News has never even used the word “deepfake,” and AI has only appeared a handful of times as an easily-foiled tactic by the bad guys.
+[[13]](#ftnt_ref13) Ironically, AI barely figures at all into Real Raw News’s reporting. Cloning, body doubles, and energy weapons pop up all the time. There’s plenty of footage that is faked the old-fashioned way, with studio sets and actors. Yet Real Raw News has never even used the _word_ “deepfake,” and AI has only appeared a handful of times as an easily-foiled tactic by the bad guys.
 
-[[14]](#ftnt_ref14) £22.52, which isn't that much, but more than I usually spend on books.
+[[14]](#ftnt_ref14) £22.52, which isn't that much, but more than I usually spend on books.
 
-[[15]](#ftnt_ref15) Subjective!
+[[15]](#ftnt_ref15) Subjective!
 
-[[16]](#ftnt_ref16) Which are often misleading without understanding the details, how they were defined/collected, potential biases, etc.
+[[16]](#ftnt_ref16) Which are often misleading without understanding the details, how they were defined/collected, potential biases, etc.
 
-[[17]](#ftnt_ref17) For example, Morris dismisses Ilan Pappe as [the world's sloppiest historian](https://newrepublic.com/article/85344/ilan-pappe-sloppy-dishonest-historian). He recommends Avi Shlaim as a historian who he disagrees with, but is factually accurate.
+[[17]](#ftnt_ref17) For example, Morris dismisses Ilan Pappe as [the world's sloppiest historian](https://newrepublic.com/article/85344/ilan-pappe-sloppy-dishonest-historian). He recommends Avi Shlaim as a historian who he disagrees with, but is factually accurate.
 
-[[18]](#ftnt_ref18) That prize goes to [Sacred Causes](https://www.amazon.com/Sacred-Causes-Religion-Politics-Terror/dp/0060580968) which basically listed off reams of events without ever tying them together or putting it into a wider narrative.
+[[18]](#ftnt_ref18) That prize goes to [Sacred Causes](https://www.amazon.com/Sacred-Causes-Religion-Politics-Terror/dp/0060580968) which basically listed off reams of events without ever tying them together or putting it into a wider narrative.
 
-[[19]](#ftnt_ref19) Interestingly, the Balfour declaration was driven partly because the British, based on anti-semitic tropes, assumed the Jews were far more powerful than they were and could decide the fate of the war.
+[[19]](#ftnt_ref19) Interestingly, the Balfour declaration was driven partly because the British, based on anti-semitic tropes, assumed the Jews were far more powerful than they were and could decide the fate of the war.
 
-[[20]](#ftnt_ref20) And almost provoking a war with the British who had a strong interest in the Sinai, given it bordered on the Suez.
+[[20]](#ftnt_ref20) And almost provoking a war with the British who had a strong interest in the Sinai, given it bordered on the Suez.
 
-[[21]](#ftnt_ref21) For more on this period, read [Israel's Border Wars, 1949–1956](https://en.wikipedia.org/wiki/Israel%27s_Border_Wars,_1949%E2%80%931956).
+[[21]](#ftnt_ref21) For more on this period, read [Israel's Border Wars, 1949–1956](https://en.wikipedia.org/wiki/Israel%27s_Border_Wars,_1949%E2%80%931956).
 
-[[22]](#ftnt_ref22) Partly because the aim was to be seen to be doing something, to reassure the border settlers that the government was looking out for their welfare, rather than to actually prevent the terrorism.
+[[22]](#ftnt_ref22) Partly because the aim was to be seen to be doing something, to reassure the border settlers that the government was looking out for their welfare, rather than to actually prevent the terrorism.
 
-[[23]](#ftnt_ref23) This is a contentious point, as there were contradictory things said by Nasser and various Egyptian higher ups. There definitely was some talk of attacking the Negev desert to meet up with Jordan, but it's difficult to judge how fanciful it was - certainly the Egyptian positions did not reflect any such plans.
+[[23]](#ftnt_ref23) This is a contentious point, as there were contradictory things said by Nasser and various Egyptian higher ups. There definitely was some talk of attacking the Negev desert to meet up with Jordan, but it's difficult to judge how fanciful it was - certainly the Egyptian positions did not reflect any such plans.
 
-[[24]](#ftnt_ref24) The Golan heights is a plateau dominating the sea of Galilee and the Hula valley, and so was a tactically difficult border to defend against as the Syrians had a strong height advantage, and could easily see and shell Israeli positions below. Israel had long coveted the heights to solve this issue.
+[[24]](#ftnt_ref24) The Golan heights is a plateau dominating the sea of Galilee and the Hula valley, and so was a tactically difficult border to defend against as the Syrians had a strong height advantage, and could easily see and shell Israeli positions below. Israel had long coveted the heights to solve this issue.
 
-[[25]](#ftnt_ref25) The West Bank is much higher than the plains to the west, and overlooks Israel's narrow waist, just 15km wide at its thinnest. It would be easy for a well armed opponent to cut Israel in two from the West Bank, and all of Israel's most important cities are within easy artillery range of the West Bank. Meanwhile the border with Jordan reached by occupying the West Bank is along a major valley and so easy to defend.
+[[25]](#ftnt_ref25) The West Bank is much higher than the plains to the west, and overlooks Israel's narrow waist, just 15km wide at its thinnest. It would be easy for a well armed opponent to cut Israel in two from the West Bank, and all of Israel's most important cities are within easy artillery range of the West Bank. Meanwhile the border with Jordan reached by occupying the West Bank is along a major valley and so easy to defend.
 
-[[26]](#ftnt_ref26) The biblical territory of the Israelites is mostly in the West Bank, whereas the territory of modern day Israel was mostly Pagan (with lots of exceptions both spatially and temporally).  The Temple Mount, the most (arguably - only) important site in Judaism is located in East Jerusalem, as is the Cave of the Patriarchs and Rachel's Tomb.
+[[26]](#ftnt_ref26) The biblical territory of the Israelites is mostly in the West Bank, whereas the territory of modern day Israel was mostly Pagan (with lots of exceptions both spatially and temporally).  The Temple Mount, the most (arguably - only) important site in Judaism is located in East Jerusalem, as is the Cave of the Patriarchs and Rachel's Tomb.
 
-[[27]](#ftnt_ref27) The residents were offered citizenship, though most refused and received permanent residency instead. Since then very few have received citizenship, and there's some debate to what extent that's their decision vs Israel placing bureaucratic hurdles in their path. Anyway, none of this is discussed in Righteous Victims so I shouldn't really be telling you about it.
+[[27]](#ftnt_ref27) The residents were offered citizenship, though most refused and received permanent residency instead. Since then very few have received citizenship, and there's some debate to what extent that's their decision vs Israel placing bureaucratic hurdles in their path. Anyway, none of this is discussed in Righteous Victims so I shouldn't really be telling you about it.
 
-[[28]](#ftnt_ref28) Surface to Air missiles.
+[[28]](#ftnt_ref28) Surface to Air missiles.
 
-[[29]](#ftnt_ref29) Israel had suffered some 360 deaths by then, almost all soldiers. Egyptian losses are impossible to know, but Morris gives a ballpark estimate of 10,000 military + civilians killed.
+[[29]](#ftnt_ref29) Israel had suffered some 360 deaths by then, almost all soldiers. Egyptian losses are impossible to know, but Morris gives a ballpark estimate of 10,000 military + civilians killed.
 
-[[30]](#ftnt_ref30) The day of atonement. Almost all Jewish Israelis stay at home or go to the synagogue. The roads are so empty that children call it the bicycle festival, as they can safely cycle on even the busiest highways.
+[[30]](#ftnt_ref30) The day of atonement. Almost all Jewish Israelis stay at home or go to the synagogue. The roads are so empty that children call it the bicycle festival, as they can safely cycle on even the busiest highways.
 
-[[31]](#ftnt_ref31) This force remains there to this day, and the border has been mostly quiet, excepting for some flare ups when Syria was fighting Islamic militants in the demilitarized zone during the ongoing civil war.
+[[31]](#ftnt_ref31) This force remains there to this day, and the border has been mostly quiet, excepting for some flare ups when Syria was fighting Islamic militants in the demilitarized zone during the ongoing civil war.
 
-[[32]](#ftnt_ref32) He was the ex head of the Irgun terror group.
+[[32]](#ftnt_ref32) He was the ex head of the Irgun terror group.
 
-[[33]](#ftnt_ref33) South Lebanese Army, a Christian/Shiite/Druze force.
+[[33]](#ftnt_ref33) South Lebanese Army, a Christian/Shiite/Druze force.
 
-[[34]](#ftnt_ref34) A different Palestinian terrorist organization shot the Israeli ambassador in London, likely to provoke exactly this war.
+[[34]](#ftnt_ref34) A different Palestinian terrorist organization shot the Israeli ambassador in London, likely to provoke exactly this war.
 
-[[35]](#ftnt_ref35) They were protected by an international force to safeguard their retreat.
+[[35]](#ftnt_ref35) They were protected by an international force to safeguard their retreat.
 
-[[36]](#ftnt_ref36) The IDF knowingly let the Phalangists take revenge for his assassination, [massacring hundreds of Palestinians](https://en.wikipedia.org/wiki/Sabra_and_Shatila_massacre).
+[[36]](#ftnt_ref36) The IDF knowingly let the Phalangists take revenge for his assassination, [massacring hundreds of Palestinians](https://en.wikipedia.org/wiki/Sabra_and_Shatila_massacre).
 
-[[37]](#ftnt_ref37) They generally earned less than Israelis could for the same work, and didn’t receive the standard protections and benefits Israeli workers did.
+[[37]](#ftnt_ref37) They generally earned less than Israelis could for the same work, and didn’t receive the standard protections and benefits Israeli workers did.
 
-[[38]](#ftnt_ref38) Clinton blamed the failure of the talks on Arafat, who he says failed to make any significant concessions. Alas the details of the talks are private, and Israeli and Palestinian claims as to what Israel offered differ wildly. Either way the talks were kind of moot, since by that stage Barak’s government was dead in the water, and basically had no chance of pushing through any sort of contentious peace deal.
+[[38]](#ftnt_ref38) Clinton blamed the failure of the talks on Arafat, who he says failed to make any significant concessions. Alas the details of the talks are private, and Israeli and Palestinian claims as to what Israel offered differ wildly. Either way the talks were kind of moot, since by that stage Barak’s government was dead in the water, and basically had no chance of pushing through any sort of contentious peace deal.
 
-[[39]](#ftnt_ref39) Israel was founded in May 1948. India and Pakistan split in August 1947, which led to the massacres of hundreds of thousands of people, and the mass migration of millions of Muslims from India to Pakistan and millions of Hindus from Pakistan to India.
+[[39]](#ftnt_ref39) Israel was founded in May 1948. India and Pakistan split in August 1947, which led to the massacres of hundreds of thousands of people, and the mass migration of millions of Muslims from India to Pakistan and millions of Hindus from Pakistan to India.
 
-[[40]](#ftnt_ref40) Ask WW2 Britain, which could have easily defeated Nazi Germany if it hadn’t handed over the Sudetenland without a fight.
+[[40]](#ftnt_ref40) Ask WW2 Britain, which could have easily defeated Nazi Germany if it hadn’t handed over the Sudetenland without a fight.
 
-[[41]](#ftnt_ref41) They currently control about 10 percent of the Knesset, but this is likely an underestimate.
+[[41]](#ftnt_ref41) They currently control about 10 percent of the Knesset, but this is likely an underestimate.
 
-[[42]](#ftnt_ref42) This is like Britain's reverse-1776: this is the year the Normans invaded, removed the Anglo-Saxons from power, and since then there has not been a single invasion of the British mainland. The Normans came from France but were actually originally from the Nordic countries, hence the name.
+[[42]](#ftnt_ref42) This is like Britain's reverse-1776: this is the year the Normans invaded, removed the Anglo-Saxons from power, and since then there has not been a single invasion of the British mainland. The Normans came from France but were actually originally from the Nordic countries, hence the name.
 
-[[43]](#ftnt_ref43) Often pronounced guh-WAYNE but properly pronounced GAH-win
+[[43]](#ftnt_ref43) Often pronounced guh-WAYNE but properly pronounced GAH-win
 
-[[44]](#ftnt_ref44) I would recommend reading his piece which includes this [here](https://samkriss.substack.com/p/the-repulsive-crust).
+[[44]](#ftnt_ref44) I would recommend reading his piece which includes this [here](https://samkriss.substack.com/p/the-repulsive-crust).
 
 All pictures taken from Wikimedia Commons
 
-[[45]](#ftnt_ref45) He thinks it sleeps until resurrection day in a view derisively titled psychopannychism.
+[[45]](#ftnt_ref45) He thinks it sleeps until resurrection day in a view derisively titled psychopannychism.
 
-[[46]](#ftnt_ref46) Part of Johnston’s case, I’m not sure if it’s an essential part, is that we have various points of view/sources of reasoning, e.g. moral, prudential, hedonic, which we put together somehow in our practical reasoning in order to determine what action to take. In this account, the moral point of view has diminished significance in our practical reasoning in a world that is morally incoherent. I’m not sure why we can’t just say morality’s significance is diminished while remaining agnostic about how exactly practical reasoning works. On his account, there’s some weirdness about whether morality is a self-contained “point of view” that we can go into or out of.
+[[46]](#ftnt_ref46) Part of Johnston’s case, I’m not sure if it’s an essential part, is that we have various points of view/sources of reasoning, e.g. moral, prudential, hedonic, which we put together somehow in our practical reasoning in order to determine what action to take. In this account, the moral point of view has diminished significance in our practical reasoning in a world that is morally incoherent. I’m not sure why we can’t just say morality’s significance is diminished while remaining agnostic about how exactly practical reasoning works. On his account, there’s some weirdness about whether morality is a self-contained “point of view” that we can go into or out of.
 
-[[47]](#ftnt_ref47) Are we just critiquing the etiquette point of view from the moral point of view, i.e. saying that given all the pressing moral demands in the world, the “good” of etiquette just isn’t enough to be worth considering?
+[[47]](#ftnt_ref47) Are we just critiquing the etiquette point of view from the moral point of view, i.e. saying that given all the pressing moral demands in the world, the “good” of etiquette just isn’t enough to be worth considering?
 
-[[48]](#ftnt_ref48) For instance, Johnston cites the great early modern scientist Robert Boyle as defending this view.
+[[48]](#ftnt_ref48) For instance, Johnston cites the great early modern scientist Robert Boyle as defending this view.
 
-[[49]](#ftnt_ref49) The classic example: you notice a trail of sugar on the ground at the grocery store and think “One really should clean up one’s mess”. Then, looking down at your cart you notice it’s your sugar that’s leaking. You apply the knowledge of who you are, to know which impersonal principles apply to you. This is a derivative de se reason (you have an impersonal clean-up-after-yourself principle and apply it to your case). There are also presumably basic de se considerations, such as basic self-interest.
+[[49]](#ftnt_ref49) The classic example: you notice a trail of sugar on the ground at the grocery store and think “One really should clean up one’s mess”. Then, looking down at your cart you notice it’s _your_ sugar that’s leaking. You apply the knowledge of who you are, to know which impersonal principles apply to you. This is a derivative _de se_ reason (you have an impersonal clean-up-after-yourself principle and apply it to your case). There are also presumably basic _de_ _se_ considerations, such as basic self-interest.
 
-[[50]](#ftnt_ref50) Of course, this may be your first time hearing about the arena. The question can be intuitively captured by something like how do you know you’re seeing through the same eyes, although that brings in elements of the body and the animal into the thought.
+[[50]](#ftnt_ref50) Of course, this may be your first time hearing about the arena. The question can be intuitively captured by something like how do you know you’re seeing through the same eyes, although that brings in elements of the body and the animal into the thought.
 
-[[51]](#ftnt_ref51) It is in this very context, that Johnston remarks, paraphrasing, that our best hope for philosophy is clarification of a subject without desiccation.
+[[51]](#ftnt_ref51) It is in this very context, that Johnston remarks, paraphrasing, that our best hope for philosophy is clarification of a subject without desiccation.

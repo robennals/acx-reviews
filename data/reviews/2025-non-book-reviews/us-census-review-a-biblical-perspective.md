@@ -19,13 +19,13 @@ tags:
 
 ![Collections: The Battle of Helm's Deep, Part I: Bargaining for Goods at  Helm's Gate – A Collection of Unmitigated Pedantry](https://acximages.ennals.org/images/2025-non-book-reviews/84359f039fa06eef.png)
 
-10,000 orcs would have been plenty,
+**10,000 orcs would have been plenty,**
 
-if he hadn’t doomed himself by counting them up.
+**if he hadn’t doomed himself by counting them up.**
 
 The decennial census and its consequences have been a disaster for the United States.
 
-In Article 1, Section 2, the US Constitution mandates when a population census shall be taken: “The actual Enumeration shall be made within three Years after the first Meeting of the Congress of the United States, and within every subsequent Term of ten Years, in such Manner as they shall by Law direct.” 
+In Article 1, Section 2, the US Constitution mandates when a population census shall be taken: “_The actual Enumeration shall be made within three Years after the first Meeting of the Congress of the United States, and within every subsequent Term of ten Years, in such Manner as they shall by Law direct.”_ 
 
 Why require a census at all, though? And why every ten years? In the context of Article 1, it is clear the main purpose of the census is for apportioning representation in the House of Representatives, since the seats each state is allotted are based on that state’s relative population. The writers of the constitution realized that this proportion was bound to change over time. According to notes from the Constitutional Convention, this led to some controversy. At the time the Constitution was written, the northern states were more populous than the southern, and the western states didn’t exist at all. But the delegates knew that the population of the south was growing in proportion to the north, and that western states would soon join as well. Some delegates from the north didn’t want to require a census at all, or would prefer it left up to the judgment of the legislature when one was needed. But others argued that it would never be in the interest of a legislature dominated by a shrinking majority to take a census, when that census would inevitably narrow, or even reverse their majority. Some worried that if things were left up to the legislature, it would choose never to recount population and reapportion congressional seats at all. (If you think US voting districts are unfairly gerrymandered now, imagine how bad the problem would be if they were drawn based on population data from 1790.) In the end, those worried about fair re-apportioning of representation won out. The census was written into the constitution to prevent states with slower-growing populations from clinging to disproportionate power.
 
@@ -33,21 +33,21 @@ Thus did the delegates agree on mandating a census every 10 years. But in their 
 
 Specifically, the folly from 2 Samuel 24:
 
-Again the anger of the Lord burned against Israel, and he incited David against them, saying, “Go and take a census of Israel and Judah.”  So the king said to Joab and the army commanders with him, “Go throughout the tribes of Israel from Dan to Beersheba and enroll the fighting men, so that I may know how many there are.”
+_Again the anger of the Lord burned against Israel, and he incited David against them, saying, “Go and take a census of Israel and Judah.”_  _So the king said to Joab and the army commanders with him, “Go throughout the tribes of Israel from Dan to Beersheba and enroll the fighting men, so that I may know how many there are.”_
 
-It took David’s census takers nine months and twenty days to complete the count, finding that, “In Israel there were eight hundred thousand able-bodied men who could handle a sword, and in Judah five hundred thousand.”
+It took David’s census takers nine months and twenty days to complete the count, finding that, _“In Israel there were eight hundred thousand able-bodied men who could handle a sword, and in Judah five hundred thousand.”_
 
 But David barely had a chance to take iniquitous pride in the number of his people before he realized he had messed up:
 
-David was conscience-stricken after he had counted the fighting men, and he said to the Lord, “I have sinned greatly in what I have done. Now, Lord, I beg you, take away the guilt of your servant. I have done a very foolish thing.” Before David got up the next morning, the word of the Lord had come to Gad the prophet, David’s seer: “Go and tell David, ‘This is what the Lord says: I am giving you three options. Choose one of them for me to carry out against you.’” So Gad went to David and said to him, “Shall there come on you three years of famine in your land? Or three months of fleeing from your enemies while they pursue you? Or three days of plague in your land? Now then, think it over and decide how I should answer the one who sent me.”
+_David was conscience-stricken after he had counted the fighting men, and he said to the Lord, “I have sinned greatly in what I have done. Now, Lord, I beg you, take away the guilt of your servant. I have done a very foolish thing.” Before David got up the next morning, the word of the Lord had come to Gad the prophet, David’s seer: “Go and tell David, ‘This is what the Lord says: I am giving you three options. Choose one of them for me to carry out against you.’” So Gad went to David and said to him, “Shall there come on you three years of famine in your land? Or three months of fleeing from your enemies while they pursue you? Or three days of plague in your land? Now then, think it over and decide how I should answer the one who sent me.”_
 
 It is clear how this scenario played out five years ago under first-term President Trump. The 2020 census found a population of 331 million souls residing within in this One Nation, Under God. Busy golfing, Trump realized only too late that God’s swift vengeance was upon him, for such sacrilegious numbering would never go unpunished long. And faced with the three options of famine, war, or plague, he made the biblically-approved choice:
 
-David said to Gad, “I am in deep distress. Let us fall into the hands of the Lord, for his mercy is great; but do not let me fall into human hands.” So the Lord sent a plague on Israel from that morning until the end of the time designated, and seventy thousand of the people from Dan to Beersheba died.
+_David said to Gad, “I am in deep distress. Let us fall into the hands of the Lord, for his mercy is great; but do not let me fall into human hands.” So the Lord sent a plague on Israel from that morning until the end of the time designated, and seventy thousand of the people from Dan to Beersheba died._
 
 And when the plague was at its apex, David realized he could not allow his people to continue suffering from his own mistakes:
 
-When David saw the angel who was striking down the people, he said to the Lord, “I have sinned; I, the shepherd, have done wrong. These are but sheep. What have they done? Let your hand fall on me and my family.”
+_When David saw the angel who was striking down the people, he said to the Lord, “I have sinned; I, the shepherd, have done wrong. These are but sheep. What have they done? Let your hand fall on me and my family.”_
 
 Donald and Melania Trump both caught Covid in October, 2020.
 
@@ -105,7 +105,7 @@ In 2000, as the census summed the 281 million souls within the borders, George B
 
 ![Listen to Second Plane Hits World Trade Center | HISTORY Channel](https://acximages.ennals.org/images/2025-non-book-reviews/4945b3677f4ace51.jpg)
 
-Bush picked it, God did it.
+**Bush picked it, God did it.**
 
 In 2010, after allowing the census to count the population up to 308 million, President Obama made the bitter choice to suffer famine by ecological disaster, and the Deepwater Horizon oil spill loosed an unprecedented 4.9 million barrels of oil into the Gulf of Mexico.
 

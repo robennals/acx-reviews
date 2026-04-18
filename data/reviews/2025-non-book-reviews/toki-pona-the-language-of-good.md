@@ -7,7 +7,7 @@ contestName: 2025 Non Book Reviews
 year: 2025
 publishedDate: '2026-02-06T16:55:59.406Z'
 slug: toki-pona-the-language-of-good
-wordCount: 3256
+wordCount: 3261
 readingTimeMinutes: 15
 originalUrl: >-
   https://docs.google.com/document/d/1jYVJFIz5-aMi0LCgsC9AN6BncJDNVGaMU37QmwZ1vzA
@@ -25,9 +25,9 @@ Scott: Excuse me, I meant to ask you to participate in a dialogue on my blog. Yo
 
 jan Alise: There is always simplicity and goodness. That is the essence of Toki Pona.
 
-Scott: Alright, what is Toki Pona?
+Scott: Alright, what _is_ Toki Pona?
 
-jan Alise: Toki Pona is the language of good. It has 120 words.
+jan Alise: Toki Pona is the _language of good_. It has 120 words.
 
 Scott: I'm good with languages, Alice, but even I can't describe drug reviews using 120 words.
 
@@ -35,11 +35,11 @@ jan Alise: The Oxford English Dictionary lists about 170,000 words. Your typical
 
 Scott: Well... how would you explain drug reviews to me in 120 words?
 
-jan Alise: Step by step. Idea by idea. The first step is to understand. We have a saying: “sina ken ala toki pona e ijo la, sina sona ala e ijo” – if you can not say simply a thing, you understand not the thing.
+jan Alise: Step by step. Idea by idea. The first step is to understand. We have a saying: “_sina ken ala toki pona e ijo la, sina sona ala e ijo”_ – if you can not say simply a thing, you understand not the thing.
 
 ![](https://acximages.ennals.org/images/2025-non-book-reviews/36e5059c30203b71.png)
 
-sina ken ala toki pona e ijo la, sina sona ala e ijo – by a member of the Toki Pona community who shall remain anonymous for the duration of the contest. The text is written in the “sitelen suwi” decorative writing system, using a custom glyph for the second “ijo”.
+_sina ken ala toki pona e ijo la, sina sona ala e ijo – by a member of the Toki Pona community who shall remain anonymous for the duration of the contest. The text is written in the “sitelen suwi” decorative writing system, using a custom glyph for the second “ijo”._
 
 Scott: This sounds like Yoda.
 
@@ -51,17 +51,17 @@ curious Scott: Yes, please! I’m always keen to learn more about languages. How
 
 ### Toki Pona Grammar in a Nutshell
 
-jan Alise: Sentences have the form <subject> li <verb> e <object>. For example, “sina toki e ijo” means you describe a thing. The particle li is omitted if the subject is mi or sina – I or you.
+jan Alise: Sentences have the form <subject> _li_ <verb> _e_ <object>. For example, _“sina toki e ijo”_ means you describe a thing. The particle _li_ is omitted if the subject is _mi_ or _sina_ – I or you.
 
-Modifiers go behind the thing that they modify. Examples are “sina pona li toki e ijo” – the friendly you describes a thing (note the li, since the subject is no longer simply “sina”). “sina toki pona e ijo” – you describe a thing well. “sina toki e ijo pona” – you describe a good thing.
+Modifiers go behind the thing that they modify. Examples are _“sina pona li toki e ijo”_ – the friendly you describes a thing (note the _li_, since the subject is no longer simply _“sina”_). _“sina toki pona e ijo”_ – you describe a thing well. _“sina toki e ijo pona”_ – you describe a good thing.
 
-Almost all words in the language can take any function. “pona” as a noun means goodness or simplicity. As an adjective, it can mean good, positive, simple, friendly… and as an adverb, it means well or simply. As a verb, it means to improve or to simplify. This is why the particles li and e are important – they make it clear where the subject end and the verb starts, and whether there is an object.
+Almost all words in the language can take any function. “pona” as a noun means goodness or simplicity. As an adjective, it can mean good, positive, simple, friendly… and as an adverb, it means well or simply. As a verb, it means to improve or to simplify. This is why the particles _li_ and _e_ are important – they make it clear where the subject end and the verb starts, and whether there is an object.
 
-Pre-verbs add nuance to a verb. In the proverb, there is the preverb “ken”, meaning to be able to. It is modified using “ala”, which means not: “sina ken ala toki pona e ijo” – you cannot explain a thing simply.
+Pre-verbs add nuance to a verb. In the proverb, there is the preverb _“ken”_, meaning to be able to. It is modified using _“ala”_, which means not: “sina ken ala toki pona e ijo” – you cannot explain a thing simply.
 
-The proverb features one more particle, “la”. It is a context marker. Everything before the “la” is context for what comes afterwards. In this case, the result is an if-then sentence: “sina ken ala toki pona e ijo la” – if you cannot explain a thing simply, then… “sina sona ala e ijo” – you do not know the thing.
+The proverb features one more particle, _“la”_. It is a context marker. Everything before the _“la”_ is context for what comes afterwards. In this case, the result is an if-then sentence: _“sina ken ala toki pona e ijo la”_ – if you cannot explain a thing simply, then… _“sina sona ala e ijo”_ – you do not know the thing.
 
-“la” is the only form of sentence-level recursion in Toki Pona. Like the [Pirahã Language](https://www.astralcodexten.com/p/your-book-review-how-language-began), Toki Pona has very short sentences. More complex thoughts have to be split. For example: Alice says that you know the thing becomes two sentences: “jan Alise li toki e ni: sina sona e ijo” – Alice says this: you know the thing.
+“la” is the only form of sentence-level recursion in Toki Pona. Like the [Pirahã Language](https://www.astralcodexten.com/p/your-book-review-how-language-began), Toki Pona has very short sentences. More complex thoughts have to be split. For example: Alice says that you know the thing becomes two sentences: _“jan Alise li toki e ni: sina sona e ijo”_ – Alice says this: you know the thing.
 
 jan Alise: That’s all the grammar you need to understand all I’ll be saying in Toki Pona. I’ll still give you English translations, but I’ll use more natural English now, no more Yoda-style sentences with Toki Pona word order!
 
@@ -79,17 +79,17 @@ Scott: A hedonistic language, eh? I still don't see how imprecision is useful.
 
 jan Alise: Think of it as an art. For example, when someone says “make America great again”, the word “great” is deliberately ambiguous. It means a different thing to each person. English obscures this ambiguity, but Toki Pona makes it plain and clear.
 
-Scott: What if I want precision?
+Scott: What if I _want_ precision?
 
-jan Alise: You can be as precise as the context requires. “sina pona” means you are good. And beautiful. And kind. You can add more modifiers to narrow down the meaning. “sina pona insa” means you are good in an inside way. As in, you have a good heart. “sina pona tan ni: sina pana e pona tawa jan mute pi mani ala” means you are good because you give help to many people with no money. You are an altruist.
+jan Alise: You can be as precise as the context requires. _“sina pona”_ means you are good. And beautiful. And kind. You can add more modifiers to narrow down the meaning. _“sina pona insa”_ means you are good in an inside way. As in, you have a good heart. _“sina pona tan ni: sina pana e pona tawa jan mute pi mani ala”_ means you are good because you give help to many people with no money. You are an altruist.
 
-Scott: It is a truth universally acknowledged, that a language in possession of few words, must be in want of extremely long explanations. Why prefer a page of explanations when the two words effective altruist suffice in English?
+Scott: It is a truth universally acknowledged, that a language in possession of few words, must be in want of extremely long explanations. Why prefer a page of explanations when the two words _effective altruist_ suffice in English?
 
-jan Alise: Have you not written thousands of words to explain what effective altruist truly means?
+jan Alise: Have you not written thousands of words to explain what _effective altruist_ truly means?
 
 Scott: Touché. But I am not letting you off the hook so easily. Surely having only 120 words makes explanations less precise?
 
-jan Alise: Consider P(A|B) = [P(A)\*P(B|A)]/P(B) – ultimate precision with minimal words.
+jan Alise: Consider P(A|B) = [P(A)\*P(B|A)]/P(B) – ultimate precision with minimal words.
 
 Scott: You are cheating. This only works because people have a shared understanding of P, A, and B.
 
@@ -103,7 +103,7 @@ As for who defines the meaning… Sonja introduced most words when she created t
 
 Scott: So... how would you explain drug reviews with 120 words? The challenges faced by the FDA aren’t exactly universal human experiences.
 
-jan Alise: Let me try to break down the core idea: “wile tu li lon” – two needs exist. “wile nanpa wan li ni: pona o kama” – need #1 is this: goodness shall happen. “wile nanpa tu li ni: ike o kama ala a” – need #2 is this: badness shall absolutely not happen!
+jan Alise: Let me try to break down the core idea: _“wile tu li lon”_ – two needs exist. _“wile nanpa wan li ni: pona o kama”_ – need #1 is this: goodness shall happen. _“wile nanpa tu li ni: ike o kama ala a”_ – need #2 is this: badness shall absolutely not happen!
 
 Scott: Alice, I want to write about drug reviews. You have a point, but it’s absurdly generic. This applies just as well to AI accelerationism vs AI safety. Or to the YIMBY/NIMBY debate.
 
@@ -115,7 +115,7 @@ jan Alise: We have them too. Consider this one: The table broke. How terrible!
 
 Scott: ...
 
-jan Alise: supa li pakala. IKE A!
+jan Alise: _supa li pakala. IKE A!_
 
 Scott: Alice, you are cherry-picking! With 120 words, there are 14400 two-word combinations. Let's say one in a thousand are funny, that leaves you with just a dozen puns, barely enough for a single blog post. I'm telling you, this language is too limiting.
 
@@ -131,11 +131,11 @@ jan Alise: Toki Pona is much closer to cognitive therapy than it is to Newspeak.
 
 Scott: And that helps?
 
-jan Alise: For example, you could use “toki insa”, inside talk, to describe it. Maybe this makes you more receptive to the idea that thoughts are just talk, and could be true or false or in-between.
+jan Alise: For example, you could use _“toki insa”_, inside talk, to describe it. Maybe this makes you more receptive to the idea that thoughts are just talk, and could be true or false or in-between.
 
-Scott: I see... but if “toki insa” is the compound expression for thought, you have merely substituted one expression for another. It will become automatic, and people will forget the original meaning. Just like nobody realizes that “happen” and “happy” are related [3].
+Scott: I see... but if _“toki insa”_ is the compound expression for thought, you have merely substituted one expression for another. It will become automatic, and people will forget the original meaning. Just like nobody realizes that “happen” and “happy” are related [3].
 
-jan Alise: You are right. This is why the Toki Pona community tries to avoid fixed compound expressions – what we call lexicalization. How about “pilin sona”, the feeling of knowledge, for thought? That might be more fitting for the process of recalling a memory. Or “pali lawa”, work of the head, for concentrated thoughts. “musi insa” is inside play. Wouldn't that describe creative thoughts? There are so many possibilities.
+jan Alise: You are right. This is why the Toki Pona community tries to avoid fixed compound expressions – what we call lexicalization. How about _“pilin sona”_, the feeling of knowledge, for thought? That might be more fitting for the process of recalling a memory. Or _“pali lawa”_, work of the head, for concentrated thoughts. _“musi insa”_ is inside play. Wouldn't that describe creative thoughts? There are so many possibilities.
 
 Scott: In therapy, we usually try to help the patient, not confuse them further with many possibilities.
 
@@ -153,17 +153,17 @@ Scott: And so all the genderqueer people flock to Toki Pona?
 
 jan Alise: I admit they are strongly represented in the community. The community is very diverse and international though. People meet online, make music, write books, have meetups.
 
-Scott: You are telling me people actually speak Toki Pona?
+Scott: You are telling me people actually _speak_ Toki Pona?
 
-jan Alise: It's one of the most successful constructed languages. More popular than Klingon by far. Second to Esperanto. There are some tens of thousands of speakers. Not much, but if you think of speakers per word...
+jan Alise: It's one of the most successful constructed languages. More popular than Klingon by far. Second to Esperanto. There are some tens of thousands of speakers. Not much, but if you think of speakers _per word_...
 
-Scott: Relatively speaking, I am less skeptical than before. But in absolute terms my skepticism is still high. Why would people do this?
+Scott: _Relatively speaking_, I am less skeptical than before. But in absolute terms my skepticism is still high. Why would people do this?
 
 jan Alise: For most, it's a fun little project. But the language enables genuinely new things. For example, learning to read Chinese is out of reach for most people, but if there are just 120 words, you can pick up a logographic writing system effortlessly as part of learning the language.
 
 ![](https://acximages.ennals.org/images/2025-non-book-reviews/4d24ac0c6078b5a2.png)
 
-A postcard written in Sitelen Pona, a logographic system where each symbol is one word. The first line reads “sike ni la, mi kama sona e toki pona” – this year, I came to know Toki Pona.
+_A postcard written in Sitelen Pona, a logographic system where each symbol is one word. The first line reads “sike ni la, mi kama sona e toki pona” – this year, I came to know Toki Pona._
 
 Scott: There is a logographic writing system?
 
@@ -189,95 +189,95 @@ Scott: I’m not so sure ;-) Let’s meet again for another post to discuss this
 
 —
 
-[1] [Njal's Saga](https://www.astralcodexten.com/p/your-book-review-njals-saga) has 1200 unique words, give or take, depending on the amount of normalization: from "a" (used 116 times) to "your" (used 25 times).
+**[1]** [Njal's Saga](https://www.astralcodexten.com/p/your-book-review-njals-saga) has 1200 unique words, give or take, depending on the amount of normalization: from "a" (used 116 times) to "your" (used 25 times).
 
-[2] The words that jan Alice used, in order of appearance in the text:
+**[2]** The words that jan Alice used, in order of appearance in the text:
 
-toki: to talk, to explain, communication, language
+_toki:_ to talk, to explain, communication, language
 
-jan: person, human being. jan Alise is Alice, lit: the Alice-y person
+_jan:_ person, human being. jan Alise is Alice, lit: the Alice-y person
 
-pona: good, simple
+_pona_: good, simple
 
-sina: you, your
+_sina_: you, your
 
-ken: can, to be able to, to be possible
+_ken_: can, to be able to, to be possible
 
-ala: not (negates the word before it)
+_ala_: not (negates the word before it)
 
-e: object marker (separates the verb and the object in a sentence)
+_e_: object marker (separates the verb and the object in a sentence)
 
-ijo: thing
+_ijo_: thing
 
-la: context marker (the part before “la” is context for what follows)
+_la_: context marker (the part before “la” is context for what follows)
 
-sona: to know, to understand
+_sona_: to know, to understand
 
 The grammar outline introduces three new words:
 
-li: verb marker (separates the subject and the verb in a sentence)
+_li_: verb marker (separates the subject and the verb in a sentence)
 
-mi: I, my
+_mi_: I, my
 
-ni: this (points to something else)
+_ni_: this (points to something else)
 
 Alice’s discussion with Scott continues:
 
-insa: inside, inner
+_insa_: inside, inner
 
-tan: because of, origin
+_tan_: because of, origin
 
-pana: to give, to put
+_pana_: to give, to put
 
-tawa: towards, to
+_tawa_: towards, to
 
-mute: many, any number more than two
+_mute_: many, any number more than two
 
-pi: a particle that groups modifiers. “jan toki pona” means (jan toki) pona – the good speaker. “jan pi toki pona” means jan (toki pona) – the person of a good language.
+_pi_: a particle that groups modifiers. _“jan toki pona”_ means (jan toki) pona – the good speaker. _“jan pi toki pona”_ means jan (toki pona) – the person of a good language.
 
-mani: money, livestock
+_mani_: money, livestock
 
-luka: hand, arm; the number five
+_luka_: hand, arm; the number five
 
-wile: want, need
+_wile_: want, need
 
-tu: to separate; the number two
+_tu_: to separate; the number two
 
-nanpa: number. Starts an enumeration: the first, the second, …
+_nanpa_: number. Starts an enumeration: the first, the second, …
 
-wan: a part, a whole; the number one
+_wan_: a part, a whole; the number one
 
-o: vocative marker (introduces a wish or order)
+_o_: vocative marker (introduces a wish or order)
 
-kama: to come, to arise, to appear
+_kama_: to come, to arise, to appear
 
-ike: bad, complex
+_ike_: bad, complex
 
-a: ah, exclamation (emphasizes the word before it)
+_a_: ah, exclamation (emphasizes the word before it)
 
-supa: a surface, a table
+_supa_: a surface, a table
 
-pakala: to break, to harm
+_pakala_: to break, to harm
 
 In the rest of the text, she uses a few more:
 
-pilin: to feel, feeling, the heart
+_pilin_: to feel, feeling, the heart
 
-pali: to work, to create
+_pali_: to work, to create
 
-lawa: the head, to lead
+_lawa_: the head, to lead
 
-musi: play, art
+_musi_: play, art
 
-[3] Both “happen” and “happy” derive from medieval hap: chance, a person's luck, fortune, or fate.
+**[3]** Both “happen” and “happy” derive from medieval hap: chance, a person's luck, fortune, or fate.
 
-[4] For jan Alise’s n=1 experiment, she gave the same task to a number of LLMs, keeping the API calls as similar as possible. The prompt asked for a packing list for a two-day hike, in Markdown format with checkboxes:
+**[4]** For jan Alise’s n=1 experiment, she gave the same task to a number of LLMs, keeping the API calls as similar as possible. The prompt asked for a packing list for a two-day hike, in Markdown format with checkboxes:
 
-Mi en jan pona li wile tawa nena. tenpo pimeja la, mi wile lape lon poka nena. tenpo suno kama la, mi wile tawa sewi nena.
-
-mi sona e ni : suno li lon. telo sewi li lon ala. tenpo pimeja la, kon li ken lete lili.
-
-mi o jo e ijo seme lon poki monsi? o sitelen e ijo ni kepeken nasin Markdown. ijo ale la, mi jo e ona la, mi luka e ijo. ni la, sitelen leko li kama sitelen pini.
+> Mi en jan pona li wile tawa nena. tenpo pimeja la, mi wile lape lon poka nena. tenpo suno kama la, mi wile tawa sewi nena.
+>
+> mi sona e ni : suno li lon. telo sewi li lon ala. tenpo pimeja la, kon li ken lete lili.
+>
+> mi o jo e ijo seme lon poki monsi? o sitelen e ijo ni kepeken nasin Markdown. ijo ale la, mi jo e ona la, mi luka e ijo. ni la, sitelen leko li kama sitelen pini.
 
 Results based on her subjective rating:
 
@@ -295,8 +295,8 @@ Claude 3.7 Sonnet (thinking): Understanding 2/2, writing 3/3 = 5/5
 
 Gemini 2.5 pro experimental: Understanding 2/2, writing 3/3 = 5/5
 
-[5] Toki Pona being a minimal language, it has fewer sounds than English. Toki Pona speakers replace complex sounds like “sc” or “x” with simpler alternatives. A name like Scott Alexander might become jan Sotalesante in Toki Pona [6].
+**[5]** Toki Pona being a minimal language, it has fewer sounds than English. Toki Pona speakers replace complex sounds like “sc” or “x” with simpler alternatives. A name like Scott Alexander might become jan Sotalesante in Toki Pona [6].
 
 Names of God would presumably include parts that are tokiponized, such as "sewi Jupite". Due to the limited size of the Toki Pona alphabet, this reduces the search space, but probably not as much as Scott has hoped. Toki Pona uses the letters a, e, i, j, k, l, m, n, o, p, s, t, u, and w. The phonotactic rules require that each syllable starts with one of these, contains a vowel, and may optionally end in -n. The syllables "wu", "wo", "ji", and "ti" are excluded for being hard to distinguish. So any tokiponized name of God would be formed of a combination of the 92 legal syllables.
 
-[6] This might solve an important problem, if someone could just pitch Toki Pona to the New York Times.
+**[6]** This might solve an important problem, if someone could just pitch Toki Pona to the New York Times.
