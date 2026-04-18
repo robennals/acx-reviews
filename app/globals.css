@@ -26,9 +26,9 @@
     --ring: 220 15% 15%;
     --radius: 0.375rem;
 
-    /* LessWrong-style green for links */
-    --link: 150 50% 30%;
-    --link-hover: 150 50% 22%;
+    /* Clear blue for links */
+    --link: 215 85% 42%;
+    --link-hover: 215 85% 32%;
     --reading-progress: 150 50% 35%;
   }
 
@@ -53,8 +53,8 @@
     --input: 220 15% 20%;
     --ring: 40 15% 92%;
 
-    --link: 150 45% 50%;
-    --link-hover: 150 45% 60%;
+    --link: 210 90% 68%;
+    --link-hover: 210 90% 78%;
     --reading-progress: 150 45% 50%;
   }
 }
@@ -102,5 +102,42 @@
 
   .leading-reading {
     line-height: 1.75;
+  }
+}
+
+.prose .fn-ref {
+  display: inline-block;
+  vertical-align: baseline;
+  font-size: 0.95em;
+  font-weight: 600;
+  line-height: inherit;
+  padding: 0 0.2em;
+  margin: 0 0.05em;
+  color: hsl(var(--link));
+  cursor: pointer;
+  border-radius: 3px;
+  text-decoration: none;
+  user-select: none;
+}
+
+.prose .fn-ref:hover {
+  background-color: hsl(var(--link) / 0.12);
+  color: hsl(var(--link-hover));
+}
+
+.prose .fn-ref:focus-visible {
+  outline: 2px solid hsl(var(--ring));
+  outline-offset: 2px;
+}
+
+/* Expand hit target on touch devices without changing visible size */
+@media (pointer: coarse) {
+  .prose .fn-ref {
+    position: relative;
+  }
+  .prose .fn-ref::after {
+    content: '';
+    position: absolute;
+    inset: -6px -2px;
   }
 }
