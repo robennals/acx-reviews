@@ -35,7 +35,7 @@ function detectFormat(md: string): Format {
   }
   if (
     /\[\[\d+\]\]\(#ftnt\d+\)/.test(md) ||
-    /^\[\[\d+\]\]\(#ftntref\d+\)/m.test(md)
+    /^\[\[\d+\]\]\(#ftnt_?ref\d+\)/m.test(md)
   ) {
     return 'ftnt';
   }
@@ -125,7 +125,7 @@ function extractSdfootnote(md: string): ExtractedFootnotes {
 }
 
 function extractFtnt(md: string): ExtractedFootnotes {
-  const defRegex = /^\[\[(\d+)\]\]\(#ftntref\d+\)[ \t]?(.*)$/gm;
+  const defRegex = /^\[\[(\d+)\]\]\(#ftnt_?ref\d+\)[ \t]?(.*)$/gm;
   const defs = new Map<string, string[]>();
   const defLineRanges: Array<[number, number]> = [];
   let match: RegExpExecArray | null;
@@ -141,7 +141,7 @@ function extractFtnt(md: string): ExtractedFootnotes {
     while (cursor < md.length) {
       const nextLineEnd = md.indexOf('\n', cursor);
       const nextLine = md.slice(cursor, nextLineEnd === -1 ? md.length : nextLineEnd);
-      if (/^\[\[\d+\]\]\(#ftntref\d+\)/.test(nextLine)) break;
+      if (/^\[\[\d+\]\]\(#ftnt_?ref\d+\)/.test(nextLine)) break;
       lines.push(nextLine);
       endIdx = nextLineEnd === -1 ? md.length : nextLineEnd;
       if (nextLineEnd === -1) break;

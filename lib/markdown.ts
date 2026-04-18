@@ -22,13 +22,23 @@ async function mdToHtml(md: string): Promise<string> {
 }
 
 /**
+ * Escape a "!" that's glued directly to a Google Docs footnote link —
+ * otherwise markdown parses "worse![[12]](#ftnt12)" as a broken image.
+ * Runs after extractFootnotes, covering docs where extraction couldn't
+ * match (e.g. footnotes with no back-link definitions).
+ */
+function escapeFootnoteBangs(md: string): string {
+  return md.replace(/!(\[\[?\d+\]\]?\(#ftnt[^)]*\))/g, '\\!$1');
+}
+
+/**
  * Convert markdown to HTML and extract footnotes
  */
 export async function markdownToHtml(
   markdown: string
 ): Promise<{ html: string; footnotes: ReviewFootnote[] }> {
   const { body, footnotes } = extractFootnotes(markdown);
-  const bodyHtml = await mdToHtml(body);
+  const bodyHtml = await mdToHtml(escapeFootnoteBangs(body));
   const footnoteHtmls: ReviewFootnote[] = [];
   for (const fn of footnotes) {
     const rendered = (await mdToHtml(fn.raw)).trim();

@@ -36,13 +36,13 @@ Tonight is a new book called _Wild, Wise, Weird: The Kingfisher Story Collection
 
 Minimus takes the center stage and raises his voice: “First, let me read some information from the _ChatGPT_, the latest Animal Intelligence system.”
 
-> “_Wild, Wise, Weird: The Kingfisher Story Collection_ is a semi-autobiographical collection of short stories centered around a bird village and its main character, Kingfisher. This anthology blends humor and wisdom through storytelling. The stories explore timeless themes such as animal behavior, societal norms, environmental awareness, and cultural reflections.”
+> “_Wild, Wise, Weird: The Kingfisher Story Collection_ is a semi-autobiographical collection of short stories centered around a bird village and its main character, Kingfisher. This anthology blends humor and wisdom through storytelling. The stories explore timeless themes such as animal behavior, societal norms, environmental awareness, and cultural reflections.”
 
 "The book was recently published in _Amazon_, and widely accepted by readers as a new emerging masterpiece. Rating exclusively 4 or 5 stars out of 5. There is even a scholarly analysis from a top-tier scholar about the readers' affection for the book. This scholar also mentioned the book’s environmental aspects in his review.” – Minimus adds.
 
 *\*\*
 
-All animals gasp in disbelief. In preparation for this Literary Evening, stories from the book were read by Minimus every night for two weeks before bed. In their mind, Kingfisher is the embodiment of knowledge and wisdom. And they are happy to discover that other readers, including a top-tier scholar, share their feelings. This top scholar even turned the stories and reviews of the _Wild, Wise, Weird_ into scholarly articles, revealing that “readers who describe the book as unique, whimsical, quirky, or innovative are more likely to express emotional attachment to it,” or capturing “an uncertainty–absurdity spiral in which partial uncertainty contributes to small absurdity, small absurdity increases vulnerability to complete uncertainty, and complete uncertainty culminates in large-scale absurdity.”
+All animals gasp in disbelief. In preparation for this Literary Evening, stories from the book were read by Minimus every night for two weeks before bed. In their mind, Kingfisher is the embodiment of knowledge and wisdom. And they are happy to discover that other readers, including a top-tier scholar, share their feelings. This top scholar even turned the stories and reviews of the _Wild, Wise, Weird_ into scholarly articles, revealing that “readers who describe the book as unique, whimsical, quirky, or innovative are more likely to express emotional attachment to it,” or capturing “an uncertainty–absurdity spiral in which partial uncertainty contributes to small absurdity, small absurdity increases vulnerability to complete uncertainty, and complete uncertainty culminates in large-scale absurdity.”
 
 The animals were marveled by the twists and turns in Feng Shui Professor, Brotherhood, GHG Emissions, or Bird Village Economics. It is such a pleasant surprise to know the book contains more than 40 stories, and the authors still update the stories occasionally. Animals in the Farm wonder what is more to the life of Bird Village. Compared to the mundane and customary life here on the Farm, Bird Village is the ultimate freedom. Like in the Brotherhood, Kingfisher became a good friend of Kitty. They were so close that Kitty could even “open his jaw and gnaw” at Kingfisher. Such a great friendship that transcends species.
 
@@ -70,7 +70,7 @@ Once again, the animals are in disbelief. Since the establishment of the Literar
 
 The animals of the Farm, all under the wise leadership of Napoleon, had never thought about anything besides work. The fairy tales they had recently been read emphasized hard work and dedication. Despite this, the situation on the Farm after the pandemic remained dire. However, surprising changes in mood and attitude began to emerge after Minimus read the stories of Kingfisher to the animals. Napoleon noticed these changes as well and paid extra attention to some of the stories—new insights and perspectives were a pleasant surprise.
 
-Before tonight’s discussion, he tasked Minimus with an additional responsibility: researching some of the innovations in _Wild, Wise, Weird_ and exploring how they could be applied to the Farm.
+Before tonight’s discussion, he tasked Minimus with an additional responsibility: researching some of the innovations in _Wild, Wise, Weird_ and exploring how they could be applied to the Farm.
 
 “Building on the Seven Commandments and the wisdom from the Kingfisher, we will begin rolling out different programs next week to boost the Farm’s economic performance. First, Feng Shui will be employed with help from the Union of Feng Shui Masters. Then, new technologies will be tested on the Farm. Animals who work hard will also receive titles in recognition of their contributions,” Minimus announced.
 
@@ -104,4 +104,4 @@ Some animals sing a song about hard work loudly. Soon, other animals follow. The
 
 * * *
 
-_Wild Wise Weird: The Kingfisher Story Collection_ is available on [Amazon](https://www.amazon.com/Kingfisher-Story-Collection-Quan-Hoang-Vuong-ebook/dp/B0BG2NNHY6).
+_Wild Wise Weird: The Kingfisher Story Collection_ is available on [Amazon](https://www.amazon.com/Kingfisher-Story-Collection-Quan-Hoang-Vuong-ebook/dp/B0BG2NNHY6).

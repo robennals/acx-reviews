@@ -7,7 +7,7 @@ contestName: 2026 Book Reviews
 year: 2026
 publishedDate: '2026-04-04T16:17:04.000Z'
 slug: bleeding-edge-by-thomas-pynchon
-wordCount: 6135
+wordCount: 6121
 readingTimeMinutes: 28
 source: gdoc
 tags:
@@ -16,9 +16,9 @@ tags:
   - Philosophy
 ---
 
-My biggest critical weakness has always been allusion containment, or the inability to resist the connection. Hardly can I see Pennywise anymore without thinking of the white whale, the relationship between Joel and Ellie in _The Last of Us_ is the relationship between me and my papa, and whenever a character is praised as complex or to die for, I think of Shakespeare’s diverse cast of stars. Even when I pin my argument down in an essay and focus on something important in my life, whether grief or love or how to be a better man, the universal connections still fire away, and I often find myself, like in those conversations with the deepest friends who haven’t seen each other in a while, moving from topic to topic in brilliant, but maybe too bright, flashes. These are the 1.21 gigawatt moments of realization where truth backs truth, resulting in awe.
+My biggest critical weakness has always been allusion containment, or the inability to resist the connection. Hardly can I see Pennywise anymore without thinking of the white whale, the relationship between Joel and Ellie in _The Last of Us_ is the relationship between me and my papa, and whenever a character is praised as complex or to die for, I think of Shakespeare’s diverse cast of stars. Even when I pin my argument down in an essay and focus on something important in my life, whether grief or love or how to be a better man, the universal connections still fire away, and I often find myself, like in those conversations with the deepest friends who haven’t seen each other in a while, moving from topic to topic in brilliant, but maybe too bright, flashes. These are the 1.21 gigawatt moments of realization where truth backs truth, resulting in awe.
 
-On the first page of Thomas Pynchon’s _Bleeding Edge_, not thinking about the approach at all, I stumbled across a method for this current essay that allows me to relate what I like about a book scientifically and artfully, without losing my grip. Since I was reading my own copy and not the library’s, I was reading with a pencil in hand, and so annotating. My annotation method has gotten more taciturn over the years, but I still cannot resist drawing marginal lines and stars that might remind a later, lazier, latent me of beautiful moments. On this reading however an older habit of mine resurfaced, and in the margins next to a cute moment, I wrote the letter _S._ You see, back in the day and mostly to work my way through Kant and Proust, I developed basic little keys that either helped me reach the book’s end, or referred to my specialized areas of research, which I could then write about for a grad school seminar. _S_ meant style, _M_ meaning, _N_ Nietzsche, _Sch_ Schopenhauer, _D_ definition, _K_ key, _T_ theme, _R_ recap. The system was liable to change from book to book, and I must stress that I didn’t do this too often, and only a dozen or so times have my acronyms come in handy when composing an essay. But, for some reason, on the first page of _Bleeding Edge_, nay, first paragraph, I marked an _S._ On the bottom of the page I marked a D, which later turned out to be an A, and on the next page I marked a C, and somewhere around this time I realized so luckily that my next essay could focus on the “ABCs of Criticism,” zooming in on all the aspects of literature that make me exult it, while also bridling my tendency to always bring to the forefront the creatures and loved ones that give me reason to live. _Bleeding Edge_ is the perfect candidate for this sudden experiment, for not only was I able to identify 20 letters of the critical alphabet in the first fifty pages, but because Pynchon’s spring of 2001 novel is so loaded with allusion and meaning that it’s a ripe battleground for testing my restraint. Look at it this way: there are so many currents in this book, so many themes to be handled, that if I could just provide the skeleton of how exemplary a work of art it is, then I, or someone else, could flesh out what it has to say on parenting, terrorism, paranoia, and, well, that lovely idea that everything is connected.
+On the first page of Thomas Pynchon’s _Bleeding Edge_, not thinking about the approach at all, I stumbled across a method for this current essay that allows me to relate what I like about a book scientifically and artfully, without losing my grip. Since I was reading my own copy and not the library’s, I was reading with a pencil in hand, and so annotating. My annotation method has gotten more taciturn over the years, but I still cannot resist drawing marginal lines and stars that might remind a later, lazier, latent me of beautiful moments. On this reading however an older habit of mine resurfaced, and in the margins next to a cute moment, I wrote the letter _S._ You see, back in the day and mostly to work my way through Kant and Proust, I developed basic little keys that either helped me reach the book’s end, or referred to my specialized areas of research, which I could then write about for a grad school seminar. _S_ meant style, _M_ meaning, _N_ Nietzsche, _Sch_ Schopenhauer, _D_ definition, _K_ key, _T_ theme, _R_ recap. The system was liable to change from book to book, and I must stress that I didn’t do this too often, and only a dozen or so times have my acronyms come in handy when composing an essay. But, for some reason, on the first page of _Bleeding Edge_, nay, first paragraph, I marked an _S._ On the bottom of the page I marked a D, which later turned out to be an A, and on the next page I marked a C, and somewhere around this time I realized so luckily that my next essay could focus on the “ABCs of Criticism,” zooming in on all the aspects of literature that make me exult it, while also bridling my tendency to always bring to the forefront the creatures and loved ones that give me reason to live. _Bleeding Edge_ is the perfect candidate for this sudden experiment, for not only was I able to identify 20 letters of the critical alphabet in the first fifty pages, but because Pynchon’s spring of 2001 novel is so loaded with allusion and meaning that it’s a ripe battleground for testing my restraint. Look at it this way: there are so many currents in this book, so many themes to be handled, that if I could just provide the skeleton of how exemplary a work of art it is, then I, or someone else, could flesh out what it has to say on parenting, terrorism, paranoia, and, well, that lovely idea that everything is connected.
 
 It is by no means a perfect system, these ABCs I’m going to recite, and I even hesitate to call it a system. Mainly I want to highlight what makes reading so rewarding, and perhaps set a few things straight so that any of my following essays, instead of dawdling or rewinding, can pursue the truth and fire away at allusion, now that the nets and hooks are in order. And so, none of the letters below should be taken as the end-all be-all of criticism, rather they are each cute tools by which we can appreciate art. In fact, up until the end of the essay, I changed a half a dozen of the letters, sometimes because they were weaker versions of a stronger critical element, and sometimes because I had noticed an element was outright missing. Lastly I might add that I have not alphabetized the list, rather each critical element appears in the essay as it appeared to me while I read.
 
@@ -36,10 +36,10 @@ To cap the style on this opening paragraph, let’s lean on meaning. What does i
 
 **A for Attention (formerly description)**
 
-Description is attention getting bored. Probably more of a tool for the artist than the critic, attention nevertheless is the dead giveaway of good art. If you pay attention, style will follow. Tell us, artist, how things are: how you see them, sense them, hear them, feel them, and nothing else. Follow attention, praise attention. For further reading on this, please consult my teacher Donald Revell’s lovely guide, _The Art of Attention_. I almost called him master but my current master is a fourteen-year-old pomeranian who barks at 8am to let her outside to bark at others.
+Description is attention getting bored. Probably more of a tool for the artist than the critic, attention nevertheless is the dead giveaway of good art. If you pay attention, style will follow. Tell us, artist, how things are: how you see them, sense them, hear them, feel them, and nothing else. Follow attention, praise attention. For further reading on this, please consult my teacher Donald Revell’s lovely guide, _The Art of Attention_. I almost called him master but my current master is a fourteen-year-old pomeranian who barks at 8am to let her outside to bark at others.
 
 > Proof (7): “‘But,’ eyes wide as fairground lollipops, ‘it worked for Crazy Eddie.’”
-> 
+>
 > Proof II (101) [and also the fourth book in a row proven good by how it describes the rain]: “it’s just starting to rain…sometimes she can’t resist, she needs to be out in the street. What might only be a simple point on the workday cycle, a reconvergence of what the day scattered as Sappho said someplace back in some college course, Maxine forgets, becomes a million pedestrian dramas, each one charged with mystery, more intense than high-barometer daylight can ever allow. Everything changes. There’s that clean, rained-on smell. The traffic noise gets liquefied. Reflections from the street into the windows of city buses fill the bus interiors with unreadable 3-D images, as surface unaccountably transforms to volume. Average pushy Manhattan schmucks crowding the sidewalks also pick up some depth, some purpose—they smile, they slow down…”
 
 **C for Comedy**
@@ -50,25 +50,25 @@ More than just being funny, comedy is hope. In every good joke there lies someth
 
 **D for Dialogue**
 
-Oboy. I don’t know where to begin with my fascination of how we communicate with one another. I also don’t know why I’m feeling the strongest hesitation so far in our dissection. A few years ago over a Christmas break I was halfway through Shakespeare’s Coriolanus when I suddenly felt I wanted to write the story of that lovable curmudgeon Arthur Schopenhauer. I scooched my chair to my computer (I remember receiving the idea leaned forward, halfway across the room, a rare but not impossible position for me), and within two weeks I finished the tragedy. Then, before the next two weeks were over, I had also finished a boner comedy starring Plato and Aristotle chasing babes and bros around Athens. (A note to authors: I can’t quite remember when I started the second work—but I do remember when I was struck by the idea of the first.) As of writing this essay now three years later, I have just spent the last month writing a play called _Play Achilles_, where the stars of the Trojan war, turns out, have _a lot_ of free time on their hands, which results, for the most part, in comedy. But I mention this all because the speed at which the pure dialogue comes to me speaks for its strong effect. It is less of a wonder Plato wrote so much. He must have been a quick scriber, I venture. At any rate, to write what is said is a purer art than to write what we see. I must stress this is quite an important discovery, and not to be taken lightly. What I see and what you see are vastly different. What I hear and you hear too, are vastly different. But r-o-s-e is r-o-s-e, and to record that word out of someone’s mouth, is a purer form than for any author to describe either how the flower is seen or felt, or even the flower itself.
+Oboy. I don’t know where to begin with my fascination of how we communicate with one another. I also don’t know why I’m feeling the strongest hesitation so far in our dissection. A few years ago over a Christmas break I was halfway through Shakespeare’s Coriolanus when I suddenly felt I wanted to write the story of that lovable curmudgeon Arthur Schopenhauer. I scooched my chair to my computer (I remember receiving the idea leaned forward, halfway across the room, a rare but not impossible position for me), and within two weeks I finished the tragedy. Then, before the next two weeks were over, I had also finished a boner comedy starring Plato and Aristotle chasing babes and bros around Athens. (A note to authors: I can’t quite remember when I started the second work—but I do remember when I was struck by the idea of the first.) As of writing this essay now three years later, I have just spent the last month writing a play called _Play Achilles_, where the stars of the Trojan war, turns out, have _a lot_ of free time on their hands, which results, for the most part, in comedy. But I mention this all because the speed at which the pure dialogue comes to me speaks for its strong effect. It is less of a wonder Plato wrote so much. He must have been a quick scriber, I venture. At any rate, to write what is said is a purer art than to write what we see. I must stress this is quite an important discovery, and not to be taken lightly. What I see and what you see are vastly different. What I hear and you hear too, are vastly different. But r-o-s-e is r-o-s-e, and to record that word out of someone’s mouth, is a purer form than for any author to describe either how the flower is seen or felt, or even the flower itself.
 
 Thomas Pynchon successfully records how the brilliant casts of characters that make up our third-millennia world speak to one another—whether high or low, both fast and slow, in good moods and bad—how, well, we speak to one another. The effect of dialogue on the human mind is quite momentous, and it almost singlehandedly qualifies literature as a science. Harold Bloom puts it best when he explains the effect of Shakespeare: he helps us overhear ourselves.
 
 Behold Pynchon in a meta dialogue dance:
 
-> ‘Um, no, I meant…’ Horst is almost cute when he fidgets. ‘You never forgave me for not learning how to dance, right?’
-> 
-> ‘Horst, I am supposed to be what, here, tiptoeing around your regrets? If you like, I can teach you a couple of real simple steps right now, would that help?’
-> 
-> ‘Long as I don’t have to swing my hips, a man’s got to draw the line someplace.’
-> 
-> She roots through the CD collection, pops on a disc. ‘OK. This is merengue, real simple, all you have to do is stand there like a silo, if you feel like moving a foot now and then, why so much the better.’
-> 
-> The kids look in after a while and find them in a formal clinch, slow-dancing to every other beat of ‘Copacabana.’
-> 
-> ‘Vice-principal’s office, you two.’
-> 
-> ‘Yeah, on the double.’ (300).
+‘Um, no, I meant…’ Horst is almost cute when he fidgets. ‘You never forgave me for not learning how to dance, right?’
+
+‘Horst, I am supposed to be what, here, tiptoeing around your regrets? If you like, I can teach you a couple of real simple steps right now, would that help?’
+
+‘Long as I don’t have to swing my hips, a man’s got to draw the line someplace.’
+
+She roots through the CD collection, pops on a disc. ‘OK. This is merengue, real simple, all you have to do is stand there like a silo, if you feel like moving a foot now and then, why so much the better.’
+
+The kids look in after a while and find them in a formal clinch, slow-dancing to every other beat of ‘Copacabana.’
+
+‘Vice-principal’s office, you two.’
+
+‘Yeah, on the double.’ (300).
 
 **T for Trust**
 
@@ -81,19 +81,18 @@ See all the other critical elements for why we can trust Thomas Pynchon. Perhaps
 This section more than any other overlaps with every other section, since we’re dealing words. Pynchon is the vocabulary heavyweight alongside Nabokov and Joyce, and he can pick flowers with them too.
 
 > Proof (4): “irrational exuberance.”
-> 
-> Proof (4): “kvell.” [later:] “kvetch…” “koan…”
-> 
-> Proof (9): “attitude…access issues.”
-> 
-> Proof (14): “‘Jujubes,’ they’re informed, ‘Generic Undiagnosed James Bond Syndrome…’”
-> 
-> Proof (20): “Where, in this chilled chaos, is the Pinot E-Grigio?”
 >
+> Proof (4): “kvell.” [later:] “kvetch…” “koan…”
+>
+> Proof (9): “attitude…access issues.”
+>
+> Proof (14): “‘Jujubes,’ they’re informed, ‘Generic Undiagnosed James Bond Syndrome…’”
+>
+> Proof (20): “Where, in this chilled chaos, is the Pinot E-Grigio?”  
 > Proof (71): “entreprenerds.”
-> 
+>
 > Proof (73): “undead signifiers.”
-> 
+>
 > Proof (255): “Polyvinyl chloride, something in bright red perhaps, though not inappropriate, is somehow absent from the inventory. Jeans are out of the question also. At length, deep in, at the event horizon of closet oblivion, she notices a chic cocktail-hour suit in a subdued aubergine shade, discovered long ago at the Galeries Lafayette going-out-of-business sale and kept for reasons that probably don’t include nostalgia.”
 
 **V for Violence**
@@ -113,14 +112,14 @@ Proof: Joel Wiener, Gabriel Ice, Spud Loiterman, Maxine Tarnow, Stu Gotz.
 Thomas Pynchon writes historical fiction.
 
 > Proof (244): “From what Maxine can gather, Shawn’s therapist, Leopoldo, is a Lacanian shrink who was forced to give up a decent practice in Buenos Aires a few years ago, due in no small part to neoliberal meddling in the economy of his country. The hyperinflation under Alfonsín, the massive layoffs of the Menem-Cavallo era, plus the regimes’ obedient arrangements with the IMF, must have seemed like the Law of the Father run amok…”
-> 
+>
 > Proof II (170): “Same as Nicaragua, El Salvador, Ronald Reagan and his people, Schachtmanite goons like Elliot Abrams, turning Central America into a slaughterhouse all to play out their little anti-Communist fantasies. Guatemala by then had fallen under the control of a mass murderer and a particular buddy of Reagan named Ríos Montt, who as usual wiped off his bloody hands on the baby Jesus like so many of these charmers do.”
-> 
+>
 > Proof III (95): [as Horst takes the boys to his new office at the World Trade Center], “and they eat lunch atWindows on the World, which has a dress code, so the boys wear jackets and ties. ‘Like going to Collegiate,’ Ziggy mutters. There happens to be a more-than-moderate wind blowing that day, making the tower sway back and forth in five-, what feel like ten-foot excursions. On days of storm, according to Horst’s co-tenant Jake Pimento, it’s like being in the crow’s nest of a very tall ship, allowing you to look down at helicopters and private planes and neighboring high-rises. ‘Seems kind of flimsy up here,’ to Ziggy. ‘Nah,’ says Jake, ‘built like a battleship.’
 
-**P for Pastoral** 
+**P for Pastoral** 
 
-_Bleeding Edge_ itself is not a pastoral, but there are pastorals within it: safe stories that usually involve conscious animals like in New York’s case a lot of birds and mice who help the shepherds see the humor in things. When Maxine is at her lowest, and I mean really down on her luck, wondering how she could’ve gotten herself in a position so violated, a mouse appears on the floor, and provides allegorical escape. In _Gravity’s Rainbow_ it’s the candies from the old lady and the hot air balloon trip and even Pirate’s bananas. In _Mason & Dixo_n, the wheel of cheese rolling.
+_Bleeding Edge_ itself is not a pastoral, but there are pastorals within it: safe stories that usually involve conscious animals like in New York’s case a lot of birds and mice who help the shepherds see the humor in things. When Maxine is at her lowest, and I mean really down on her luck, wondering how she could’ve gotten herself in a position so violated, a mouse appears on the floor, and provides allegorical escape. In _Gravity’s Rainbow_ it’s the candies from the old lady and the hot air balloon trip and even Pirate’s bananas. In _Mason & Dixo_n, the wheel of cheese rolling.
 
 Pynchon, like the best authors, includes in his work a critique and most apt summary better than any critic could ever furnish. Maxine is describing how Christmas feels to her a problematic pastoral, reminiscent of one of Shakespeare’s finest comedies, which for the most part is happy, but for at least one person is very sad.
 
@@ -128,7 +127,7 @@ Pynchon, like the best authors, includes in his work a critique and most apt sum
 
 **B for Bleeding and E for Edge**
 
-We have long been living the cutting edge, this is now the bleeding edge. Pynchon’s style bleeds too, hence the oozing culture, whether it’s Japanese, Arabic, American, or the literal thousands of other cultures and subcultures done justice in this book. On the surface Pynchon is mocked by skimmers as the foremost pop-culture reference maker and certified yuckster, but this is because we’re not familiar with someone both keen and benevolent—a most rare combo! And as culture bleeds, and style, of course the material world around us does too. As David Foster Wallace in _Infinite Jest_ had the sage who could stand on a chair and lift it from the floor say: never underestimate the object.
+We have long been living the cutting edge, this is now the bleeding edge. Pynchon’s style bleeds too, hence the oozing culture, whether it’s Japanese, Arabic, American, or the literal thousands of other cultures and subcultures done justice in this book. On the surface Pynchon is mocked by skimmers as the foremost pop-culture reference maker and certified yuckster, but this is because we’re not familiar with someone both keen and benevolent—a most rare combo! And as culture bleeds, and style, of course the material world around us does too. As David Foster Wallace in _Infinite Jest_ had the sage who could stand on a chair and lift it from the floor say: never underestimate the object.
 
 > Proof (205): “After a couple of token laps, Maxine and Conkling pretend to head for their respective locker rooms, but meet up again, sneak into a staff-only stairwell, presently they’re underneath the pool, moving flip-flopped and semiclad through the shadows and mysteries of the unnumbered thirteenth floor, which belongs to a disaster always about to happen, a buffer space constantly under the threat of inundation from above if the pool—concrete, state of the art back then, grandfathered exempt from what today would be a number of code violations—should God forbid ever spring a leak. For now it’s the outward and structural form of a secret history of payoffs to contractors and inspectors and signers of permits, dishonest stewards long gone who expected the deluge after them to take place well after any statue of limitations has run. Creaking underframe, early-20th-century trusswork and bracing. A range of animal life in which mice could be the least of one’s worries.”
 
@@ -147,33 +146,33 @@ Pynchon knows the limit he pushes. At a party a few days before the towers go do
 I’m struggling on this one, boys and girls. I want to say Faust because not only is Pynchon all-encompassingly knowledgeable while being taken aloft by woman, but Maxine seems to be Faust inverted, and we owe ourselves as critical thinkers to ask: could Faust have solved the case of the mysterious money-movings around the dotcombubble, or who short-sold the two airlines involved in 9/11? And although she doesn’t know everything, she’s damned perceptive and full of heart, so much so that we wouldn’t want to navigate 2001 and 2002 with any other hero. As for finesse, Pynchon can rap too, and when he does, he somehow manages to simultaneously condense his entire oeuvre into a verse, and pay homage to his favorite type of story (282-283):
 
 > “Tryin to do Tupac and Biggie thangs
-> 
+>
 > With red velvet Chairman Mao piggy banks,
-> 
+>
 > like Screamin Jay in Hong Kong
-> 
+>
 > jumpin to wrong conclusions
-> 
+>
 > old-movie confusions, yo who be dat
-> 
+>
 > Scandinavian brand of Azian
-> 
+>
 > ya dig wid some Sigrid be
-> 
+>
 > the daughter of Kublai Khan
-> 
+>
 > Warner Oland, Charlie Chan, General Yan,
-> 
+>
 > bitter tea, for her stupidity pullin rank
-> 
+>
 > Bette Davis shanked by Gale Sondegaard
-> 
+>
 > like they as on the yard
-> 
+>
 > or down in some forgotten cell
-> 
+>
 > far, far from the corner of
-> 
+>
 > Mott and Pell—
 
 **I for Invisibility**
@@ -185,15 +184,15 @@ Joyce’s Stephen Daedalus sang in the beginning of _Ulysses_, “I am the boy t
 My paternal grandfather used to express to me that one of his favorite parts about reading a book was when he learned something specific from it—something like what we learn in that TV show “How It’s Made,” how something functions or is made to function under a certain circumstance—insider, or rare knowledge. I myself fancy knowledge of people and how humans interact with one another—prudence nuggets, if you will. For the proofs here, I’ve combined both types.
 
 > Proof (9): “‘It’s this company I’ve been shooting a documentary about?’ I keep running into…’ One of those funny looks Maxine by now knows better than to ignore.’”
-> 
+>
 > Proof (11): “‘That’s…it? Reg, in my vast experience, embezzlers don’t need shooting at very often. Some public humiliation usually does the trick.’”
-> 
+>
 > Proof (14): “‘...Focused? you have no idea—sometime in the mid-eighties, she actually changed her _name_ to Krystle. A less understanding husband might call this unnatural.’”
-> 
+>
 > Proof (20): “The past, hey no shit, it’s an open invitation to wine abuse.”
-> 
+>
 > Proof (51) [and I too hated Times Square when I went to New York, and I didn’t hate much else there]: “[Maxine] ends up in Times Square, which for a few years now she has made a conscious effort not to go near if she can help it. The sleazy old Deuce she remembers from her less responsible youth is so no more, Giuliani and his developer friends and the forces of suburban righteousness have swept the place Disneyfied and sterile—the melancholy bars, the cholesterol and fat dispensaries and porno theaters have been torn down or renovated, the unkempt and unhoused and unspoken-for have been pushed out, no more dope dealers, no more pimps or three-card monte artists, not even kids playing hooky at the old pinball arcades—all gone. Maxine can’t avoid feeling nauseous at the possibility of some stupefied consensus about what life is to be, taking over this whole city without mercy, a tightening Noose of Horror, multiplexes and malls and big-box stores it only makes sense to shop at if you have a car and a driveway and a garage next to a house out in the burbs. Aahh! They have landed, they are among us, and it helps them no end that the mayor, with roots in the outer boroughs and beyond, is one of them.”
-> 
+>
 > Proof (375): “A silence she has to categorize as amused. ‘They don’t say KGB anymore, they say FSB, they say SVU. Since Putin, KGB means old guys in government.”
 
 **G for God**
@@ -204,7 +203,7 @@ We gotta mention him a few times, don’t we?
 
 **M for Metaphor**
 
-The answer to why the whale is so white is _Gravity’s Rainbow._ As for simile, take this one:
+The answer to why the whale is so white is _Gravity’s Rainbow._ As for simile, take this one:
 
 > Proof (441): The woman’s smile, in this bright noisy flow of city indifference, comes like a beer on the house in a bar where nobody knows you.”
 
@@ -212,7 +211,7 @@ The answer to why the whale is so white is _Gravity’s Rainbow._ As for simile
 
 y = f(x). According to Spengler, this is how the modern or Faustian man processes the world. I like Pynchon’s rendition, and what he has his main character say several times throughout _Bleeding Edge_, “What, then, the fuck is going on?” Most poignantly she says it a few days after 11 September, when three schoolgirls she usually sees at a bus stop appear to be old men who, “worse, were looking at her with a queer knowledgeable intensity, focusing personally on her, sinister in the dimmed morning air” (336). I really want to know what it means to see something like this in the fallout of such a catastrophic event. I want to know what Maxine’s friend means when she laments the state of the nation not improving after 9/11: “[we’ve always been] living on borrowed time. Getting away cheap. Never caring about who’s paying for it, who’s starving somewhere else all jammed together so we can have cheap food, a house, a yard in the burbs…planetwide, more every day, the payback keeps gathering. And meantime the only help we get from the media is boo hoo the innocent dead. Boo fuckin hoo. You know what? All the dead are innocent. There’s no uninnocent dead.’ After a while… ‘You’re not going to explain that, or…’ ‘Course not, it’s a koan.’
 
-Rereading is highly encouraged.  
+Rereading is highly encouraged.  
 
 **O for Obsession**
 
@@ -229,7 +228,7 @@ What can I say, I’m a sucker for the Hebrews from Adam to Solomon to Spinoza t
 Pynchon’s works teem with life. If it’s difficult to write for all time and the present time, it’s also difficult to write for a twenty-year-old and a seventy-six-year old (his age at _Bleeding Edge’s_ publication), especially in the same book. It was Goethe who said that what we write at twenty is best enjoyed by twenty-year-olds, and so on (_Conversations with Eckermann ~_). What Pynchon seems to realize, if I may, is that for the most part elders and youngins respect one another. What really makes me carve this section out as an element of criticism, though, is that Thomas Pynchon tells such a true story—reminder, folks, this is historical fiction—that I would go out on a limb and say that I could’ve convinced Schopenhauer to include Pynchon alongside Cervantes and Benjamin Franklin as what a formative mind should read, instead of romance and fantasy. Here I will provide one proof from _Bleeding Edge_ of how brilliantly Pynchon speaks to the budding young mind, but for the strongest proof we will have to look at an excerpt from his debut novel _V._, which, when I read it in grad school, I was awestruck, and since then it has remained among the ranks of quotes that has had a serious effect on my life as an artist.
 
 > Proof (6): “When will Maxine be allowed to kick back, become Angela Lansbury, dealing only with class tickets, instead of exiled out here among the dim and overextended?
-> 
+>
 > Proof II (54-55, _V._): “She knew instinctively: he will be fine as the fraternity boy just out of an Ivy League school who knows he will never stop being a fraternity boy as long as he lives. But who still feels he is missing something, and so hangs at the edges of the Whole Sick Crew. If he is going into management, he writes. If he is an engineer or architect why he paints or sculpts. He will straddle the line, aware up to the point of knowing he is getting the worst of both worlds, but never stopping to wonder why there should ever have been a line, or even if there is a line at all. He will learn how to be a twinned man and will go on at the game, straddling until he splits up the crotch and in half from the prolonged tension, and then he will be destroyed. She assumed ballet fourth position, moved her breasts at a 45 degree angle out of his line-of-sight, pointed her nose at his heart, looked up at him through her eyelashes. “How long have you been in New York?”
 
 **Q for Quizzical**
@@ -238,7 +237,7 @@ Once, during a graduate seminar on Victorian literature, on a slideshow with a p
 
 **R for Relevance**
 
-This critical element is evident by all the rest. Pynchon is as relevant as _Everything Everywhere All at Once_ (2022).
+This critical element is evident by all the rest. Pynchon is as relevant as _Everything Everywhere All at Once_ (2022).
 
 **L for Love and U for Understanding**
 
@@ -247,7 +246,7 @@ Same thing, really, as I vowed to prove through all the characters in my _Taking
 _Ben Jonson’s_ “To the Reader:”
 
 > Pray thee, take care, that tak’st my book in hand,
-> 
+>
 > To read it well: that is, to understand.
 
 And gall, can Pynchon write a good love story. I’m talking the most you ever believed in love—he captures that. Love, in fact, is what pulled me into _Gravity’s Rainbow_, and what helped me through Shakespeare. Learning how to love, too.

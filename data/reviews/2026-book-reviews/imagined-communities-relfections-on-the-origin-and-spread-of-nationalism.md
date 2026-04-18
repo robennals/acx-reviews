@@ -7,7 +7,7 @@ contestName: 2026 Book Reviews
 year: 2026
 publishedDate: '2026-03-21T06:22:55.000Z'
 slug: imagined-communities-relfections-on-the-origin-and-spread-of-nationalism
-wordCount: 4550
+wordCount: 4540
 readingTimeMinutes: 21
 source: gdoc
 tags:
@@ -18,9 +18,9 @@ tags:
 
 The concept of nation is such a smashing success so massive that nation, state and nation state are often used interchangeably despite ostensibly being quite different things.
 
-It has taken over the world in so many ways, to the point where thinking about a state that is _not_ a nation is genuinely hard. I can only come up with the Vatican as a clean example. Everywhere else in the world, we expect a state to be made of at least one nationality of people made expressly to serve those nationalities.
+It has taken over the world in so many ways, to the point where thinking about a state that is _not_ a nation is genuinely hard. I can only come up with the Vatican as a clean example. Everywhere else in the world, we expect a state to be made of at least one nationality of people made expressly to serve those nationalities.
 
-The reason I like _Imagined Communities_ so much is because it takes a concept, nationalism, that often has a negative connotation and shows that it's everywhere. It made me realize that it's like a fish taking a contemptuous view of water. The current global order is indisputably organized around the concept of nations.
+The reason I like _Imagined Communities_ so much is because it takes a concept, nationalism, that often has a negative connotation and shows that it's everywhere. It made me realize that it's like a fish taking a contemptuous view of water. The current global order is indisputably organized around the concept of nations.
 
 Taking a value-neutral definition of nationalism [1], it's admirable how hardy it is. None of the other great ideologies, not capitalism, not any religion or even communism, an explicitly anti-nationalist project which in practice needed that icky national sentiment to get revolutions off the ground, can hold a candle to nationalism as a state-wide organizing principle. Democracy, the other great victor of the 20th century, is the other twin pillar of the legitimacy of modern states and actually gets its due.
 
@@ -28,31 +28,28 @@ Even more interestingly, the sweep of history makes clear that multi-ethnic empi
 
 ## How did nationalism take over the world?
 
-_Imagined Communities_ is all about Benedict Anderson's attempt to explain this phenomena and by the by ponder on nationalism.[2]
+_Imagined Communities_ is all about Benedict Anderson's attempt to explain this phenomena and by the by ponder on nationalism.[2]
 
->        Theorists of nationalism have often been perplexed by, not to say irritated by, these three paradoxes:
-> 
+> Theorists of nationalism have often been perplexed by, not to say irritated by, these three paradoxes:
+>
 > *   Objective modernity to the historian's eye vs their subjective antiquity in the eyes of nationalists
 > *   The formal universality of nationality as a socio-cultural concept - in the modern world everyone can, should and will 'have' a nationality, as he or she 'has' a gender - vs. the irremediable particularity of its concrete manifestations, such that by definition, 'Greek' nationality is sui generis
 > *   The 'political' power of nationalisms vs. their philosophical poverty and even incoherence. In other words, unlike most other isms, no nationalism has never produced its own grand thinkers: no Hobbeses, Tocquevilles, Marces or Webers.
 
 Anderson's definition of a nation is [3]:
 
-> it is an imagined political community - and imagined as both inherently limited and sovereign.
+it is an imagined political community - and imagined as both inherently limited and sovereign.
 
 He then goes into some more detail:
 
->        It is _imagined_ because the members of even the smallest nation will never know most of their fellow-members, meet them, or even hear of them, yet in the minds of each lives the image of their communion. [...]
->
->        The nation is imagined as _limited_ because even the largest of them, encompassing perhaps a billion living human beings has finite, if elastic, boundaries, beyond which lie other nations. No nation imagines itself coterminous with mankind. The most messianic nationalists do not dream of a day when all the members of the human race will join their nation in the way that it was possible [...] for Christians to dream of a wholly Christian planet.
->
->        It is imagined as _sovereign_ because the concept was born in an age in which Enlightenment and Revolution were destroying the dynastic legitimacy of the divinely-ordained, hierarchical dynastic realm.[...]
->
->        Finally, it is imagined as a _community_, because regardless of the inequality and exploitation that may prevail in each, the nation is always conceived as a deep, horizontal comradeship. Ultimately it is this fraternity that makes possible, over the past two centuries, for so many millions of people, not so much to kill, as willing to die for such limited imaginings.
+> It is_imagined_ because the members of even the smallest nation will never know most of their fellow-members, meet them, or even hear of them, yet in the minds of each lives the image of their communion. [...]  
+>         The nation is imagined as _limited_ because even the largest of them, encompassing perhaps a billion living human beings has finite, if elastic, boundaries, beyond which lie other nations. No nation imagines itself coterminous with mankind. The most messianic nationalists do not dream of a day when all the members of the human race will join their nation in the way that it was possible [...] for Christians to dream of a wholly Christian planet.  
+>         It is imagined as _sovereign_ because the concept was born in an age in which Enlightenment and Revolution were destroying the dynastic legitimacy of the divinely-ordained, hierarchical dynastic realm.[...]  
+>         Finally, it is imagined as a _community_, because regardless of the inequality and exploitation that may prevail in each, the nation is always conceived as a deep, horizontal comradeship. Ultimately it is this fraternity that makes possible, over the past two centuries, for so many millions of people, not so much to kill, as willing to die for such limited imaginings.
 
 He even addresses the common complaint on the same page:
 
->        With a certain ferocity Gellner makes a comparable point when he rules that 'Nationalism is not the awakening of nations to self-consciousness: it _invents_ nations where they do not exist'. The drawback to the formulation, however, is that Gellner is so anxious to show that nationalism masquerades under false pretenses that he assimilates 'invention' to 'fabrication' and 'falsity', rather than to 'imagining' and 'creation'.
+> With a certain ferocity Gellner makes a comparable point when he rules that 'Nationalism is not the awakening of nations to self-consciousness: it_invents_ nations where they do not exist'. The drawback to the formulation, however, is that Gellner is so anxious to show that nationalism masquerades under false pretenses that he assimilates 'invention' to 'fabrication' and 'falsity', rather than to 'imagining' and 'creation'.
 
 ## Nationalism, a worked example
 
@@ -90,8 +87,7 @@ At this stage, in the 1700 and 1800s, this process is driven by market forces an
 
 Language turns out to have a special way of bonding people. Anderson is mostly focused on history but he does leave us with passages like:[11]
 
-> 
->
+>   
 > What the eye is to the lover - that particular, ordinary eye he or she is born with - language - whatever language history has made his or her mother-tongue - is to the patriot. Through that language, encountered at the mother's knee and parted with only at the grave, pasts are restored, fellowships are imagined, and futures dreamed.
 
 The second force of community formation was the colonial administration. Why did the people who bleed to fight off the Spanish Imperial yoke, inspired by hot new liberal ideas intent on remaking the world, keep the same boundaries? Because they had spent a few hundred years with these borders and because these subdivisions of the colonial administration were economically cut off from each other, as it was common practice in those times to not let colonists trade with each other and only trade with the motherland. Newspapers, the main source of community in this telling, were primarily trade and business focused, and thus stuck to the borders as well. It doesn't hurt that since these boundaries predate modern transportation, they conform to the geography well.
@@ -102,7 +98,7 @@ The third way was that since the French revolution was kind of a big deal, every
 
 ## Nationalism: Made in America
 
-Anderson loves to reference this quote by Jose de San Martin in 1812 that "in the future the aborigines shall not be called Indians or natives, they are children _and citizens_ of Peru and they shall be known as Peruvians." This is notable because nations in the Americas predate European nationalism. This is true in the strict sense that the American Revolution predated the French Revolution. It is also true in the broader sense that via the Spanish American Wars of Independence, Simon Bolivar and San Martin were founding nations left and right. With the dissolution in 1831 of Gran Colombia, a pet project held together by Bolivar's sheer force of personality, and the United Provinces of the Río de la Plata a map emerges that is quite familiar.
+Anderson loves to reference this quote by Jose de San Martin in 1812 that "in the future the aborigines shall not be called Indians or natives, they are children _and citizens_ of Peru and they shall be known as Peruvians." This is notable because nations in the Americas predate European nationalism. This is true in the strict sense that the American Revolution predated the French Revolution. It is also true in the broader sense that via the Spanish American Wars of Independence, Simon Bolivar and San Martin were founding nations left and right. With the dissolution in 1831 of Gran Colombia, a pet project held together by Bolivar's sheer force of personality, and the United Provinces of the Río de la Plata a map emerges that is quite familiar.
 
 ![](https://acximages.ennals.org/images/2026-book-reviews/681d32ac2b87ab7b.png)![](https://acximages.ennals.org/images/2026-book-reviews/24fec19c5397de7f.png)
 
@@ -116,19 +112,16 @@ These factors might seem idiosyncratic to the Spanish Empire, but the basic outl
 
 This quote about Indonesia during its revolution in the 1940s is illustrative.[13]
 
->        The case of Indonesia affords a fascinatingly intricate illustration of this process, not least because of its enormous size, huge populations (even in colonial times), geographical fragmentation (about 3000 islands), religious variegation (Muslims, Buddhists, Catholics, assorted protestants, Hindu-Balinese and 'animists') and ethnolinguistic diversity (well over 100 distinct groups) [...]
->
->        Nothing nurtured this bonding more than the schools that the regime in Batavia set up in increasing numbers after the turn of the century. [...]
->
->        From all over the vast colony, but nowhere outside it, the tender pilgrims made their inward, upward way, meeting fellow-pilgrims from different, perhaps once hostile, villages in primary school; from different ethnolinguistic groups in middle school; and from every part of the realm in the tertiary institutions of the capital. [...]
->
->        To put it another way, their common experience, and amiably competitive comradeship in the classroom, gave the maps they studied (always coloured differently from British Malaysia or the American Philippines) a territorially specific imagined reality which everyday was confirmed by the accents and physiognomies of their classmates.
+> The case of Indonesia affords a fascinatingly intricate illustration of this process, not least because of its enormous size, huge populations (even in colonial times), geographical fragmentation (about 3000 islands), religious variegation (Muslims, Buddhists, Catholics, assorted protestants, Hindu-Balinese and 'animists') and ethnolinguistic diversity (well over 100 distinct groups) [...]  
+>         Nothing nurtured this bonding more than the schools that the regime in Batavia set up in increasing numbers after the turn of the century. [...]  
+>         From all over the vast colony, but nowhere outside it, the tender pilgrims made their inward, upward way, meeting fellow-pilgrims from different, perhaps once hostile, villages in primary school; from different ethnolinguistic groups in middle school; and from every part of the realm in the tertiary institutions of the capital. [...]  
+>         To put it another way, their common experience, and amiably competitive comradeship in the classroom, gave the maps they studied (always coloured differently from British Malaysia or the American Philippines) a territorially specific imagined reality which everyday was confirmed by the accents and physiognomies of their classmates.  
 
 These same university elites would then be the revolutionary class that had been taught to think of all of themselves as a common entity, which they had on hand when they succeeded.
 
 ## What language does a polyglot empire think in?
 
-If the process of deciding borders post-revolution  was surprisingly chill in the Americas, trouble was brewing in Europe.
+If the process of deciding borders post-revolution  was surprisingly chill in the Americas, trouble was brewing in Europe.
 
 At the turn of the 1800s culture in all these new standardizing languages was flourishing, novels were being published and people were deepening their affinities to their newfound nations spanning centuries into the past. Adamantios Koraes, a Greek lexicographer, gave this speech to an audience in Paris: [14]
 
@@ -136,7 +129,7 @@ At the turn of the 1800s culture in all these new standardizing languages was fl
 
 While this new consciousness is forming, the bureaucracy in these multi-ethnic empires is growing and it causes tension. What language should this business be done in? Anderson quoting Jaszi gives the example of the Habsburgs: [15]
 
-> When the enlightened absolutist Joseph II decided in the early 1780s to switch the language of state from Latin to German, ‘he did not fight for instance, against the Magyar language, but he fought against the Latin… He thought that, on the basis of the medieval administration of the nobility, no effective work in the interest of masses could be carried on.[...] Under this necessity he could not choose any other language than German, the only one which had a vast culture and literature under its sway and which had a considerable minority of his provinces’ Indeed ‘the Habsburgs were _not_ a consciously and consequentially Germanizing power…. _There were Habsburgs who did not even speak German_.
+> When the enlightened absolutist Joseph II decided in the early 1780s to switch the language of state from Latin to German, ‘he did not fight for instance, against the Magyar language, but he fought against the Latin… He thought that, on the basis of the medieval administration of the nobility, no effective work in the interest of masses could be carried on.[...] Under this necessity he could not choose any other language than German, the only one which had a vast culture and literature under its sway and which had a considerable minority of his provinces’ Indeed ‘the Habsburgs were _not_ a consciously and consequentially Germanizing power…. _There were Habsburgs who did not even speak German_.
 
 Picking a language for internal state use put them in a bind where if they did pick German, all the other newfound nationalities would be pissed, whereas if they made concessions to the smaller groups, Germans would feel slighted.
 
@@ -144,7 +137,7 @@ The largest eruption of this time would be the Springtime of the Peoples in 1848
 
 What do these big empires do in response to this looming new threat? Co-opt nationalism. [17]
 
-> Romanovs discovered they were Great Russians, Hanoverians that they were English, Hohenzollerns that they were Germans - and with rather more difficulty their cousins turned Romanian, Greek and so forth. On the one hand, these new identifications shored up legitimacies, which, in an age of capitalism, scepticism and science, could less and less safely rest on putative sacrality and sheer antiquity. On the other hand, they posed new dangers. If Kaiser Wilhem II cast himself as ‘No. 1 German’ he implicitly conceded that he was one _among many of the same kind as himself_, that he had a representative function, and therefore could be a _traitor_ to his fellow-Germans (something inconceivable in the dynasty’s heyday. Traitor to whom or what?).
+> Romanovs discovered they were Great Russians, Hanoverians that they were English, Hohenzollerns that they were Germans - and with rather more difficulty their cousins turned Romanian, Greek and so forth. On the one hand, these new identifications shored up legitimacies, which, in an age of capitalism, scepticism and science, could less and less safely rest on putative sacrality and sheer antiquity. On the other hand, they posed new dangers. If Kaiser Wilhem II cast himself as ‘No. 1 German’ he implicitly conceded that he was one _among many of the same kind as himself_, that he had a representative function, and therefore could be a _traitor_ to his fellow-Germans (something inconceivable in the dynasty’s heyday. Traitor to whom or what?).
 
 This transformation still had a problem. What about all the non-Russian subjects of the Romanovs? Russification, naturally, described by Anderson as “stretching the short, tight skin of the nation over the gigantic body of the empire.” Note that this is different from earlier colonial projects like the conquest of the Americans. The Spanish Empire was primarily interested in conversion (and gold), not making them Spaniards.
 
@@ -161,9 +154,9 @@ From here many of the same trends we have seen play out: new, post-colonial nati
 I’d feel remiss if I didn’t include Anderson’s explanation of how non-language based nationalisms inspire such loyalty. Anderson notes that nationalism often uses family based language, like motherland and fatherland:[18]
 
 > Rather, the family has traditionally been conceived as the domain of disinterested love and solidarity. So too, if historians, diplomats, politicians, and social scientists are quite at ease with the idea of ‘national interest’, for most ordinary people of whatever class the whole point of the nation is that it is interestless. Just for that reason, it can ask for sacrifices.
-> 
+>
 > As noted earlier, the great wars of this century are extraordinary not so much in the unprecedented scale on which they permitted people to kill, as in the colossal numbers persuaded to lay down their lives. Is it not certain that the numbers of those killed vastly exceeded those who killed? The idea of the ultimate sacrifice comes only with an idea of purity, through fatality.
-> 
+>
 > Dying for one’s country, which usually one does not choose, assumes a moral grandeur which dying for the Labour Party, the American Medical Association, or perhaps even Amnesty International cannot rival, for these are all bodies one can join or leave at easy will. Dying for the revolution also draws its grandeur from the degree to which it is felt to be something fundamentally pure. (If people imagined the proletariat merely as a group in hot pursuit of refrigerators, holidays, or power, how far would they, including members of the proletariat, be willing to die for it?) Ironically enough, it may be that to the extent that Marxist interpretations of history are felt (rather than intellected) as representations of ineluctable necessity, they also acquire an aura of purity and disinterestedness.
 
 ## What it is like to actually read Imagined Communities
@@ -182,7 +175,7 @@ To his credit, he is meaningfully less eurocentric than I am in this review. I f
 
 Lastly, he had a chapter about the reception of the book in the edition I have and drops this gem: [20]
 
-> For the reasons indicated above, as well as others, the original version, published simultaneously in London and New York, had completely different receptions in the two countries. In those distant days, the UK still had a 'quality press,' and _IC_ was almost immediately reviewed by Edmund Leach, Conor Cruise O'Brien, Neal Ascherson, and the Jamaican Marxist Winston James. In the US, which has never had a 'quality press,' it was scarcely noticed.
+> For the reasons indicated above, as well as others, the original version, published simultaneously in London and New York, had completely different receptions in the two countries. In those distant days, the UK still had a 'quality press,' and _IC_ was almost immediately reviewed by Edmund Leach, Conor Cruise O'Brien, Neal Ascherson, and the Jamaican Marxist Winston James. In the US, which has never had a 'quality press,' it was scarcely noticed.
 
 But hey, my copy has a quote on the cover from the Economist that says ‘An intellectual giant’, so who am I to disagree.
 
@@ -196,17 +189,17 @@ IC also made me more sympathetic to the idea of plurinational states, where stat
 
 Practically, this newfound respect for nationalism makes the left’s refusal to be patriotic that is common in so many countries as just another self-inflicted shot in the foot. It seems to me that a healthier fight would be over how to define nationalism to have it be more compassionate, inclusive, less race focused and better aligned with other political goals.
 
-[1] Something like countries should be organized by and for people who share a combination of shared features across a given population, such as language, history, ethnicity, culture, territory or society coalesced into a collective identity, which I've cobbled together from these two Wikipedia pages: [https://en.wikipedia.org/wiki/Nationalism](https://en.wikipedia.org/wiki/Nationalism), [https://en.wikipedia.org/wiki/Nation](https://en.wikipedia.org/wiki/Nation)
+[1] Something like countries should be organized by and for people who share a combination of shared features across a given population, such as language, history, ethnicity, culture, territory or society coalesced into a collective identity, which I've cobbled together from these two Wikipedia pages: [https://en.wikipedia.org/wiki/Nationalism](https://en.wikipedia.org/wiki/Nationalism), [https://en.wikipedia.org/wiki/Nation](https://en.wikipedia.org/wiki/Nation)
 
 [2] Imagined Communities, p. 5
 
 [3] Imagined Communities, p. 6
 
-[4] [https://en.wikipedia.org/wiki/Ferdinand\_II\_of\_Aragon#:~:text=After%20Isabella%5Bedit%5D](https://en.wikipedia.org/wiki/Ferdinand_II_of_Aragon#:~:text=After%20Isabella%5Bedit%5D)
+[4] [https://en.wikipedia.org/wiki/Ferdinand\_II\_of\_Aragon#:~:text=After%20Isabella%5Bedit%5D](https://en.wikipedia.org/wiki/Ferdinand_II_of_Aragon#:~:text=After%20Isabella%5Bedit%5D)
 
 [5] Yes, it sounds that stilted in modern Spanish too. [https://en.wikipedia.org/wiki/Nueva\_Planta\_decrees](https://en.wikipedia.org/wiki/Nueva_Planta_decrees)
 
-[6] Although, ironically Catalonia does celebrate the events immediately leading up to it, as our national day is losing in the War of Spanish Succession on September 11th, 1714. [https://en.wikipedia.org/wiki/National\_Day\_of\_Catalonia](https://en.wikipedia.org/wiki/National_Day_of_Catalonia).
+[6] Although, ironically Catalonia does celebrate the events immediately leading up to it, as our national day is losing in the War of Spanish Succession on September 11th, 1714. [https://en.wikipedia.org/wiki/National\_Day\_of\_Catalonia](https://en.wikipedia.org/wiki/National_Day_of_Catalonia).
 
 [7] Imagined Communities, p. 87
 
