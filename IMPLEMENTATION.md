@@ -92,9 +92,9 @@ The ACX Reviews reading app is now fully functional with all core features imple
 ### Ready to Use
 The app is **fully functional** and ready for content population. You can:
 
-1. Run `npm run fetch-acx` to scrape all published ACX reviews (~75)
-2. Run `npm run generate-index` to create the index
-3. Start dev server with `npm run dev`
+1. Run `pnpm fetch-acx` to scrape all published ACX reviews (~75)
+2. Run `pnpm generate-index` to create the index
+3. Start dev server with `pnpm dev`
 4. Browse and read reviews with full progress tracking
 5. Deploy to Vercel immediately
 
@@ -102,16 +102,16 @@ The app is **fully functional** and ready for content population. You can:
 
 1. **Quick Start (10-20 minutes)**:
    ```bash
-   npm run fetch-acx          # Scrape all ACX posts
-   npm run generate-index     # Generate index
-   npm run dev                # Test locally
+   pnpm fetch-acx             # Scrape all ACX posts
+   pnpm generate-index        # Generate index
+   pnpm dev                   # Test locally
    ```
    This gives you ~75 reviews (all published winners/finalists).
 
 2. **Full Population (requires Google API setup)**:
    - Set up Google Docs API credentials
    - Implement document parsing logic in `fetch-from-gdocs.ts`
-   - Run `npm run fetch-gdocs` to get 200+ additional reviews
+   - Run `pnpm fetch-gdocs` to get 200+ additional reviews
    - This will give you the complete 200-300 review collection
 
 3. **Deploy**:
@@ -181,7 +181,7 @@ The app is **fully functional** and ready for content population. You can:
 
 Before deploying, test:
 
-- [ ] Run `npm run build` - should succeed
+- [ ] Run `pnpm build` - should succeed
 - [ ] Visit home page - shows reviews
 - [ ] Click review card - opens review page
 - [ ] Scroll review - progress bar updates
@@ -193,7 +193,7 @@ Before deploying, test:
 
 ## Deployment Checklist
 
-- [ ] Populate content with `npm run fetch-acx`
+- [ ] Populate content with `pnpm fetch-acx`
 - [ ] Test locally with sample reviews
 - [ ] Push to GitHub
 - [ ] Import in Vercel

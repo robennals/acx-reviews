@@ -6,8 +6,8 @@
  * and saves them as files with frontmatter. For composite documents (multiple
  * reviews in one doc), it splits them by heading boundaries.
  *
- * Usage: npm run fetch-gdocs [contestId]
- * Example: npm run fetch-gdocs 2023-book-reviews
+ * Usage: pnpm fetch-gdocs [contestId]
+ * Example: pnpm fetch-gdocs 2023-book-reviews
  */
 
 import 'dotenv/config';
@@ -550,7 +550,7 @@ async function main() {
   console.log(`       ↳ uploaded: ${grandTotal.uploadedImages}`);
   console.log(`       ↳ reused:   ${grandTotal.reusedImages}`);
   console.log('='.repeat(60));
-  console.log('\n✨ Done! Run `npm run generate-index` to update the index.\n');
+  console.log('\n✨ Done! Run `pnpm generate-index` to update the index.\n');
 }
 
 main().catch(console.error);

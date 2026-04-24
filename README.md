@@ -25,7 +25,7 @@ A beautiful reading app for 200-300+ Astral Codex Ten (ACX) book and non-book re
 
 ### Prerequisites
 
-- Node.js 18+ and npm
+- Node.js 18+ and [pnpm](https://pnpm.io/) 10+
 
 ### Installation
 
@@ -35,10 +35,10 @@ git clone <repository-url>
 cd acx-reviews/main
 
 # Install dependencies
-npm install
+pnpm install
 
 # Start development server
-npm run dev
+pnpm dev
 ```
 
 Open [http://localhost:3000](http://localhost:3000) to see the app.
@@ -52,7 +52,7 @@ The app currently has one sample review. To populate with real content:
 Scrape published reviews from ACX Substack:
 
 ```bash
-npm run fetch-acx
+pnpm fetch-acx
 ```
 
 This will fetch ~75 reviews from published ACX posts (winners and finalists from all contests).
@@ -71,7 +71,7 @@ Edit `data/sources/acx-urls.json` to add/remove URLs.
 Extract reviews from Google Docs (includes all contest entries, not just winners):
 
 ```bash
-npm run fetch-gdocs
+pnpm fetch-gdocs
 ```
 
 **Prerequisites:**
@@ -97,7 +97,7 @@ Edit `data/sources/gdocs-urls.json` to configure which docs to fetch.
 After fetching content from either source, generate the master index:
 
 ```bash
-npm run generate-index
+pnpm generate-index
 ```
 
 This scans all markdown files and creates:
@@ -107,7 +107,7 @@ This scans all markdown files and creates:
 ### Fetch All (Combined Workflow)
 
 ```bash
-npm run process-all
+pnpm process-all
 ```
 
 Runs all scripts in sequence: fetch-gdocs → fetch-acx → generate-index
@@ -178,20 +178,20 @@ Full contest entries organized in composite documents:
 
 ### Available Scripts
 
-- `npm run dev` - Start development server with Turbopack
-- `npm run build` - Build for production
-- `npm run start` - Start production server
-- `npm run lint` - Run ESLint
-- `npm run fetch-acx` - Fetch reviews from ACX posts
-- `npm run fetch-gdocs` - Fetch reviews from Google Docs
-- `npm run generate-index` - Generate reviews index
-- `npm run process-all` - Run all fetch and index scripts
+- `pnpm dev` - Start development server with Turbopack
+- `pnpm build` - Build for production
+- `pnpm start` - Start production server
+- `pnpm lint` - Run ESLint
+- `pnpm fetch-acx` - Fetch reviews from ACX posts
+- `pnpm fetch-gdocs` - Fetch reviews from Google Docs
+- `pnpm generate-index` - Generate reviews index
+- `pnpm process-all` - Run all fetch and index scripts
 
 ### Adding New Reviews
 
 1. Add review as markdown file in `data/reviews/{contest-id}/`
 2. Include proper frontmatter (see existing reviews for format)
-3. Run `npm run generate-index` to update the index
+3. Run `pnpm generate-index` to update the index
 4. Review will appear in the app immediately
 
 ### Customization
@@ -211,7 +211,7 @@ Full contest entries organized in composite documents:
 
 **Build settings:**
 - Framework: Next.js
-- Build command: `npm run build`
+- Build command: `pnpm build`
 - Output directory: `.next` (default)
 
 ### Static Export (Alternative)
@@ -219,7 +219,7 @@ Full contest entries organized in composite documents:
 The app is configured for static export and can be hosted on any static host:
 
 ```bash
-npm run build
+pnpm build
 # Output will be in the 'out' directory
 ```
 
