@@ -19,6 +19,11 @@ export const { handlers, signIn, signOut, auth } = NextAuth({
   session: { strategy: 'jwt' },
   trustHost: true,
   providers: [
+    // allowDangerousEmailAccountLinking: when a user who originally signed up
+    // with the email-PIN provider later signs in with Google, link both to
+    // the same user record by matching email. Safe here because the PIN flow
+    // only ever marks a user verified by email, and Google verifies email
+    // for us — both sides agree the bearer owns the address.
     Google({
       clientId: process.env.GOOGLE_CLIENT_ID,
       clientSecret: process.env.GOOGLE_CLIENT_SECRET,

@@ -39,7 +39,10 @@ export function FavoritesProvider({ children }: { children: React.ReactNode }) {
     return () => window.removeEventListener('storage', handleStorageChange);
   }, []);
 
-  // On login, merge server favorites into local (union).
+  // On login, merge server favorites into local. We do a UNION (no removal):
+  // if the user removed a favorite locally while signed out, signing in will
+  // re-add it from the server. Acceptable trade-off — true two-way sync would
+  // need per-favorite tombstones, which isn't worth the complexity here.
   useEffect(() => {
     if (!isAuthed) return;
     let cancelled = false;

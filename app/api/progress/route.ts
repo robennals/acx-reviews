@@ -3,6 +3,7 @@ import { and, eq } from 'drizzle-orm';
 import { auth } from '@/auth';
 import { db } from '@/lib/db/client';
 import { progress } from '@/lib/db/schema';
+import { getAllReviewIds } from '@/lib/reviews';
 import type { ProgressStatus } from '@/lib/sync';
 
 interface Body {
@@ -30,8 +31,10 @@ export async function POST(req: Request) {
     return NextResponse.json({ error: 'invalid_entries' }, { status: 400 });
   }
 
+  const knownIds = await getAllReviewIds();
   for (const e of entries) {
     if (!e?.reviewId || !VALID_STATUSES.has(e.status)) continue;
+    if (!knownIds.has(e.reviewId)) continue;
     if (e.status === 'unread') {
       await db
         .delete(progress)

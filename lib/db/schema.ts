@@ -43,6 +43,15 @@ export const verificationTokens = sqliteTable(
 
 // --- App tables ---
 
+// Generic sliding-window rate limiter. Key is namespaced like
+// "pin_request:<ip>". One row per key; window resets when the next request
+// arrives after `window_start + window_ms`.
+export const rateLimits = sqliteTable('rate_limits', {
+  key: text('key').primaryKey(),
+  count: integer('count').notNull().default(0),
+  windowStart: integer('window_start', { mode: 'timestamp_ms' }).notNull(),
+});
+
 // Email PIN sign-in. One active PIN per email; replaced on each request.
 export const emailPins = sqliteTable('email_pins', {
   email: text('email').primaryKey(),

@@ -69,6 +69,19 @@ export async function getReviewMetaBySlug(slug: string): Promise<Review | null> 
   return reviews.find((r) => r.slug === slug) ?? null;
 }
 
+let _idSetCache: Set<string> | null = null;
+/**
+ * Set of every known review id. Cached in module scope; safe because the
+ * index file is only re-read at build time. Use this to reject API requests
+ * that reference unknown review ids.
+ */
+export async function getAllReviewIds(): Promise<Set<string>> {
+  if (_idSetCache) return _idSetCache;
+  const reviews = await getAllReviews();
+  _idSetCache = new Set(reviews.map((r) => r.id));
+  return _idSetCache;
+}
+
 /**
  * Get reviews filtered by contest
  */

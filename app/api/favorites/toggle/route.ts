@@ -3,6 +3,7 @@ import { and, eq } from 'drizzle-orm';
 import { auth } from '@/auth';
 import { db } from '@/lib/db/client';
 import { favorites } from '@/lib/db/schema';
+import { getAllReviewIds } from '@/lib/reviews';
 
 interface Body {
   reviewId?: string;
@@ -20,6 +21,10 @@ export async function POST(req: Request) {
     return NextResponse.json({ error: 'invalid_body' }, { status: 400 });
   }
   if (!body.reviewId) return NextResponse.json({ error: 'missing_review' }, { status: 400 });
+  const knownIds = await getAllReviewIds();
+  if (!knownIds.has(body.reviewId)) {
+    return NextResponse.json({ error: 'unknown_review' }, { status: 404 });
+  }
 
   const existing = await db
     .select()

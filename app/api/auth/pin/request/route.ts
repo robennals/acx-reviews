@@ -2,6 +2,11 @@ import { NextResponse } from 'next/server';
 import { dbPinStore } from '@/lib/auth/pin-store-db';
 import { postmarkPinSender } from '@/lib/auth/pin-sender-postmark';
 import { requestPin } from '@/lib/auth/pin';
+import { checkRateLimit, getClientIp } from '@/lib/auth/rate-limit';
+import { dbRateLimitStore } from '@/lib/auth/rate-limit-store-db';
+
+const PIN_REQUESTS_PER_IP_PER_HOUR = 10;
+const ONE_HOUR_MS = 60 * 60 * 1000;
 
 export async function POST(req: Request) {
   let body: { email?: string };
@@ -15,6 +20,21 @@ export async function POST(req: Request) {
 
   const secret = process.env.AUTH_SECRET;
   if (!secret) return NextResponse.json({ error: 'server_misconfig' }, { status: 500 });
+
+  // Per-IP rate limit (defense in depth alongside the per-email cooldown
+  // enforced inside requestPin).
+  const ip = getClientIp(req);
+  const rl = await checkRateLimit(dbRateLimitStore, {
+    key: `pin_request:${ip}`,
+    max: PIN_REQUESTS_PER_IP_PER_HOUR,
+    windowMs: ONE_HOUR_MS,
+  });
+  if (!rl.allowed) {
+    return NextResponse.json(
+      { error: 'rate_limited', retryAfterMs: rl.retryAfterMs },
+      { status: 429 }
+    );
+  }
 
   const result = await requestPin(dbPinStore, postmarkPinSender, { email, secret });
   if (!result.ok) {

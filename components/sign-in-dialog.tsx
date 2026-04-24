@@ -40,6 +40,9 @@ export function SignInDialog({
       if (!res.ok) {
         if (data.error === 'cooldown' && data.retryAfterMs) {
           setError(`Please wait ${Math.ceil(data.retryAfterMs / 1000)}s before requesting another code.`);
+        } else if (data.error === 'rate_limited') {
+          const minutes = Math.max(1, Math.ceil((data.retryAfterMs ?? 0) / 60_000));
+          setError(`Too many sign-in attempts. Try again in ~${minutes} minute${minutes === 1 ? '' : 's'}.`);
         } else if (data.error === 'invalid_email') {
           setError('Please enter a valid email address.');
         } else {
