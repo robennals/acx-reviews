@@ -3,6 +3,14 @@ import { Source_Serif_4, Inter } from "next/font/google";
 import "./globals.css";
 import { ReadingProgressProvider } from "@/context/reading-progress-context";
 import { FavoritesProvider } from "@/context/favorites-context";
+import { VotesProvider } from "@/context/votes-context";
+import { AuthProvider } from "@/components/auth-provider";
+import { SignInPromptProvider } from "@/components/sign-in-prompt-provider";
+import { UserMenu } from "@/components/user-menu";
+import { VotingBanner } from "@/components/voting-banner";
+import { auth } from "@/auth";
+import { isAdminEmail } from "@/lib/admin";
+import { loadInitialVotes } from "@/lib/server/initial-votes";
 import Link from "next/link";
 import Script from "next/script";
 import { SITE_URL } from "@/lib/constants";
@@ -34,11 +42,14 @@ export const metadata: Metadata = {
   },
 };
 
-export default function RootLayout({
+export default async function RootLayout({
   children,
 }: Readonly<{
   children: React.ReactNode;
 }>) {
+  const session = await auth();
+  const isAdmin = isAdminEmail(session?.user?.email);
+  const initialVotes = await loadInitialVotes();
   return (
     <html lang="en" className={`${sourceSerif.variable} ${inter.variable}`}>
       <head>
@@ -56,9 +67,13 @@ export default function RootLayout({
         </Script>
       </head>
       <body className={`${inter.className} antialiased`}>
+        <AuthProvider>
+        <SignInPromptProvider>
         <ReadingProgressProvider>
         <FavoritesProvider>
+        <VotesProvider initial={initialVotes}>
           <div className="min-h-screen flex flex-col">
+            <VotingBanner />
             {/* Header */}
             <header className="border-b border-border bg-card">
               <div className="max-w-4xl mx-auto px-6 sm:px-8">
@@ -81,6 +96,7 @@ export default function RootLayout({
                     >
                       Astral Codex Ten
                     </a>
+                    <UserMenu isAdmin={isAdmin} />
                   </nav>
                 </div>
               </div>
@@ -114,8 +130,11 @@ export default function RootLayout({
               </div>
             </footer>
           </div>
+        </VotesProvider>
         </FavoritesProvider>
         </ReadingProgressProvider>
+        </SignInPromptProvider>
+        </AuthProvider>
       </body>
     </html>
   );

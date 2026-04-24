@@ -27,7 +27,31 @@ npm run process-all      # Run all fetch + index in sequence
 npm run test             # Run Playwright tests headless
 npm run test:ui          # Run with Playwright UI
 npm run test:headed      # Run with visible browser
+npm run test:unit        # Run pure-logic unit tests (node:test via tsx)
+
+# Database (Turso / libSQL)
+npm run db:push          # Apply lib/db/schema.ts to the configured DB
+npm run db:studio        # Open Drizzle Studio
 ```
+
+## Auth, voting, and admin
+
+- **Auth.js v5** with two providers: Google OAuth and a custom Credentials
+  provider (`id: 'pin'`) backed by an `email_pins` table. Sessions are JWT.
+- **Voting** is approval-style: one row per `(user, contest, review)`. The
+  active voting period is configured via env vars (`VOTING_CONTEST_YEAR`,
+  `VOTING_CONTEST_TITLE`, `VOTING_START`, `VOTING_END`); when any are
+  missing or invalid, voting is disabled everywhere. Vote button only renders
+  when the period is open AND the review's year matches `VOTING_CONTEST_YEAR`.
+- **Admin gating** is by env: `ADMIN_EMAILS=a@x.com,b@y.com`. `/admin` shows
+  vote tallies per contest.
+- **Reading progress sync**: only `in_progress | finished` is written to the
+  DB. The percentage stays in localStorage to keep write volume low.
+- **Pure helpers** (testable, no I/O): `lib/auth/pin.ts`, `lib/voting-period.ts`,
+  `lib/admin.ts`, `lib/sync.ts`. Side effects live in `*-store-db.ts` /
+  `*-sender-postmark.ts` / API routes.
+
+See `.env.example` for the full list of required env vars.
 
 ## Architecture
 

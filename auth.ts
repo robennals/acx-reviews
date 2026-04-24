@@ -1,0 +1,74 @@
+import NextAuth from 'next-auth';
+import Google from 'next-auth/providers/google';
+import Credentials from 'next-auth/providers/credentials';
+import { DrizzleAdapter } from '@auth/drizzle-adapter';
+import { eq } from 'drizzle-orm';
+import { db } from '@/lib/db/client';
+import { users, accounts, verificationTokens } from '@/lib/db/schema';
+import { dbPinStore } from '@/lib/auth/pin-store-db';
+import { verifyPin, normalizeEmail } from '@/lib/auth/pin';
+
+const adapter = DrizzleAdapter(db, {
+  usersTable: users,
+  accountsTable: accounts,
+  verificationTokensTable: verificationTokens,
+});
+
+export const { handlers, signIn, signOut, auth } = NextAuth({
+  adapter,
+  session: { strategy: 'jwt' },
+  trustHost: true,
+  providers: [
+    Google({
+      clientId: process.env.GOOGLE_CLIENT_ID,
+      clientSecret: process.env.GOOGLE_CLIENT_SECRET,
+      allowDangerousEmailAccountLinking: true,
+    }),
+    Credentials({
+      id: 'pin',
+      name: 'Email PIN',
+      credentials: {
+        email: { label: 'Email', type: 'email' },
+        pin: { label: 'PIN', type: 'text' },
+      },
+      authorize: async (raw) => {
+        const secret = process.env.AUTH_SECRET;
+        if (!secret) throw new Error('AUTH_SECRET not set');
+        const email = normalizeEmail(String(raw?.email ?? ''));
+        const pin = String(raw?.pin ?? '');
+        const result = await verifyPin(dbPinStore, { email, pin, secret });
+        if (!result.ok) return null;
+
+        // Find or create the user record (Credentials doesn't go through adapter).
+        const existing = await db.select().from(users).where(eq(users.email, email)).limit(1);
+        if (existing[0]) {
+          if (!existing[0].emailVerified) {
+            await db
+              .update(users)
+              .set({ emailVerified: new Date() })
+              .where(eq(users.id, existing[0].id));
+          }
+          return { id: existing[0].id, email: existing[0].email, name: existing[0].name ?? null };
+        }
+        const id = crypto.randomUUID();
+        await db.insert(users).values({ id, email, emailVerified: new Date() });
+        return { id, email, name: null };
+      },
+    }),
+  ],
+  callbacks: {
+    async jwt({ token, user }) {
+      if (user) {
+        token.uid = user.id;
+        token.email = user.email;
+      }
+      return token;
+    },
+    async session({ session, token }) {
+      if (session.user && token.uid) {
+        (session.user as { id?: string }).id = token.uid as string;
+      }
+      return session;
+    },
+  },
+});

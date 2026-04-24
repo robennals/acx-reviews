@@ -62,6 +62,14 @@ export async function getReviewBySlug(
 }
 
 /**
+ * Lightweight lookup by slug — returns the index row only, no markdown read.
+ */
+export async function getReviewMetaBySlug(slug: string): Promise<Review | null> {
+  const reviews = await getAllReviews();
+  return reviews.find((r) => r.slug === slug) ?? null;
+}
+
+/**
  * Get reviews filtered by contest
  */
 export async function getReviewsByContest(contestId: string): Promise<Review[]> {
