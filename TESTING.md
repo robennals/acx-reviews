@@ -49,27 +49,27 @@ All tests passing! The ACX Reviews app has been verified to work correctly.
 
 ### Run all tests
 ```bash
-npm test
+pnpm test
 ```
 
 ### Run with UI (interactive)
 ```bash
-npm run test:ui
+pnpm test:ui
 ```
 
 ### Run in headed mode (see browser)
 ```bash
-npm run test:headed
+pnpm test:headed
 ```
 
 ### Run specific test file
 ```bash
-npx playwright test tests/app.spec.ts
+pnpm exec playwright test tests/app.spec.ts
 ```
 
 ### Run specific test
 ```bash
-npx playwright test -g "home page loads"
+pnpm exec playwright test -g "home page loads"
 ```
 
 ## Test Configuration
@@ -122,7 +122,7 @@ test('my new test', async ({ page }) => {
 
 When adding new features:
 1. Add corresponding test in `tests/app.spec.ts`
-2. Run tests to verify: `npm test`
+2. Run tests to verify: `pnpm test`
 3. Update this document with new coverage
 
 ## CI/CD Integration
@@ -131,20 +131,23 @@ Tests can be integrated into CI/CD pipelines:
 
 ```yaml
 # Example GitHub Actions
+- name: Install pnpm
+  uses: pnpm/action-setup@v4
+
 - name: Install dependencies
-  run: npm ci
+  run: pnpm install --frozen-lockfile
 
 - name: Install Playwright
-  run: npx playwright install --with-deps chromium
+  run: pnpm exec playwright install --with-deps chromium
 
 - name: Run tests
-  run: npm test
+  run: pnpm test
 ```
 
 ## Debugging Failed Tests
 
-1. **Run in headed mode**: `npm run test:headed`
-2. **Use UI mode**: `npm run test:ui`
+1. **Run in headed mode**: `pnpm test:headed`
+2. **Use UI mode**: `pnpm test:ui`
 3. **Check screenshots**: Test results include screenshots on failure
 4. **Check traces**: Traces are captured on first retry
 

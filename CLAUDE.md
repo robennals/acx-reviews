@@ -6,27 +6,31 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ACX Reviews is a Next.js 15 reading app for Astral Codex Ten book/non-book reviews from contests spanning 2021-2025. It features reading progress tracking with localStorage, contest filtering, and SSG for performance.
 
+## Package Manager
+
+This project uses **pnpm** (see `packageManager` field in `package.json`). pnpm uses a global content-addressable store with hardlinks, so multiple git worktrees of this repo share on-disk bytes instead of duplicating `node_modules`.
+
 ## Commands
 
 ```bash
 # Development
-npm run dev              # Start Turbopack dev server on :3000
+pnpm dev              # Start Turbopack dev server on :3000
 
 # Build & Production
-npm run build            # Build optimized bundle
-npm run start            # Run production server locally
-npm run lint             # Run ESLint
+pnpm build            # Build optimized bundle
+pnpm start            # Run production server locally
+pnpm lint             # Run ESLint
 
 # Content Ingestion
-npm run fetch-acx        # Scrape ACX Substack posts (rate-limited, ~10+ mins)
-npm run fetch-gdocs      # Extract from Google Docs (requires API setup)
-npm run generate-index   # Create index from markdown files
-npm run process-all      # Run all fetch + index in sequence
+pnpm fetch-acx        # Scrape ACX Substack posts (rate-limited, ~10+ mins)
+pnpm fetch-gdocs      # Extract from Google Docs (requires API setup)
+pnpm generate-index   # Create index from markdown files
+pnpm process-all      # Run all fetch + index in sequence
 
 # Testing
-npm run test             # Run Playwright tests headless
-npm run test:ui          # Run with Playwright UI
-npm run test:headed      # Run with visible browser
+pnpm test             # Run Playwright tests headless
+pnpm test:ui          # Run with Playwright UI
+pnpm test:headed      # Run with visible browser
 ```
 
 ## Architecture
@@ -34,7 +38,7 @@ npm run test:headed      # Run with visible browser
 ### Data Flow
 
 **Content ingestion pipeline:**
-1. Scrapers fetch from ACX Substack (`npm run fetch-acx`) or Google Docs (`npm run fetch-gdocs`)
+1. Scrapers fetch from ACX Substack (`pnpm fetch-acx`) or Google Docs (`pnpm fetch-gdocs`)
 2. Content converted to Markdown with YAML frontmatter → `data/reviews/{contestId}/*.md`
 3. Index generator scans markdown files → `data/reviews-index.json` + updates `data/contests.json`
 4. Next.js generates static pages at build time via `generateStaticParams()`
@@ -71,4 +75,4 @@ npm run test:headed      # Run with visible browser
 
 1. Create markdown file in `data/reviews/{contest-id}/{slug}.md`
 2. Include frontmatter: title, author, reviewAuthor, contestId, year, publishedDate, source
-3. Run `npm run generate-index`
+3. Run `pnpm generate-index`

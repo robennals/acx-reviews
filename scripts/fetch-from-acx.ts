@@ -5,7 +5,7 @@
  * This script scrapes ACX Substack posts, extracts the article content,
  * converts HTML to markdown, and saves as files with frontmatter.
  *
- * Usage: npm run fetch-acx
+ * Usage: pnpm fetch-acx
  */
 
 import fs from 'fs';
@@ -307,7 +307,7 @@ async function main() {
   console.log(`   ✅ Successfully processed: ${totalProcessed}`);
   console.log(`   ❌ Failed: ${totalFailed}`);
   console.log('='.repeat(60));
-  console.log('\n✨ Done! Run `npm run generate-index` to update the index.\n');
+  console.log('\n✨ Done! Run `pnpm generate-index` to update the index.\n');
 }
 
 main().catch(console.error);

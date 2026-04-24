@@ -2,6 +2,7 @@
   "name": "acx-reviews",
   "version": "0.1.0",
   "private": true,
+  "packageManager": "pnpm@10.16.1",
   "scripts": {
     "dev": "next dev --turbopack",
     "build": "next build",
@@ -14,7 +15,7 @@
     "fetch-gdocs": "NODE_OPTIONS='--max-old-space-size=8192' tsx scripts/fetch-from-gdocs.ts",
     "fetch-acx": "tsx scripts/fetch-from-acx.ts",
     "generate-index": "tsx scripts/generate-index.ts",
-    "process-all": "npm run fetch-gdocs && npm run fetch-acx && npm run generate-index"
+    "process-all": "pnpm fetch-gdocs && pnpm fetch-acx && pnpm generate-index"
   },
   "dependencies": {
     "@aws-sdk/client-s3": "^3.1030.0",
@@ -52,5 +53,12 @@
     "tsx": "^4.19.2",
     "turndown": "^7.2.0",
     "typescript": "^5"
+  },
+  "pnpm": {
+    "onlyBuiltDependencies": [
+      "esbuild",
+      "sharp",
+      "unrs-resolver"
+    ]
   }
 }
