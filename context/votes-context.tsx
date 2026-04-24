@@ -10,6 +10,7 @@ import {
 } from 'react';
 import { useSession } from 'next-auth/react';
 import type { InitialVotesState } from '@/lib/server/initial-votes';
+import { applyOptimisticToggle, rollbackToggle } from '@/lib/sync';
 
 interface VotesState {
   votedReviewIds: Set<string>;
@@ -51,14 +52,12 @@ export function VotesProvider({
     async (reviewSlug: string, reviewId: string) => {
       if (status !== 'authenticated') return false;
       if (inflight.current.has(reviewId)) return inflight.current.get(reviewId)!;
-      const wasVoted = state.votedReviewIds.has(reviewId);
+      const { wasPresent } = applyOptimisticToggle(state.votedReviewIds, reviewId);
       // Optimistic
-      setState((s) => {
-        const next = new Set(s.votedReviewIds);
-        if (wasVoted) next.delete(reviewId);
-        else next.add(reviewId);
-        return { ...s, votedReviewIds: next };
-      });
+      setState((s) => ({
+        ...s,
+        votedReviewIds: applyOptimisticToggle(s.votedReviewIds, reviewId).next,
+      }));
 
       const promise = (async () => {
         try {
@@ -68,14 +67,11 @@ export function VotesProvider({
             body: JSON.stringify({ reviewSlug }),
           });
           if (!res.ok) {
-            // Roll back
-            setState((s) => {
-              const next = new Set(s.votedReviewIds);
-              if (wasVoted) next.add(reviewId);
-              else next.delete(reviewId);
-              return { ...s, votedReviewIds: next };
-            });
-            return wasVoted;
+            setState((s) => ({
+              ...s,
+              votedReviewIds: rollbackToggle(s.votedReviewIds, reviewId, wasPresent),
+            }));
+            return wasPresent;
           }
           const data = (await res.json()) as { voted: boolean };
           setState((s) => {

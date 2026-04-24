@@ -6,9 +6,9 @@ import { useSession } from 'next-auth/react';
 import { ReadingProgress } from '@/lib/types';
 import { getAllProgress, saveProgress } from '@/lib/reading-progress';
 import {
+  computeProgressDeltas,
   mergeProgressIntoLocal,
-  progressToStatus,
-  type ProgressStatus,
+  type LocalProgressStatus,
   type ServerProgressEntry,
 } from '@/lib/sync';
 
@@ -66,7 +66,7 @@ export function ReadingProgressProvider({ children }: { children: React.ReactNod
   );
 
   // --- Server sync ---
-  const lastPushedRef = useRef<Map<string, ProgressStatus | 'unread'>>(new Map());
+  const lastPushedRef = useRef<Map<string, LocalProgressStatus>>(new Map());
   const initialPullDoneRef = useRef(false);
 
   // Initial pull on auth
@@ -95,7 +95,7 @@ export function ReadingProgressProvider({ children }: { children: React.ReactNod
         setProgressMap(merged);
 
         // Seed lastPushed with what server already knows; we'll push the rest next.
-        const seeded = new Map<string, ProgressStatus | 'unread'>();
+        const seeded = new Map<string, LocalProgressStatus>();
         for (const e of serverEntries) seeded.set(e.reviewId, e.status);
         lastPushedRef.current = seeded;
         initialPullDoneRef.current = true;
@@ -111,32 +111,9 @@ export function ReadingProgressProvider({ children }: { children: React.ReactNod
   // Push deltas whenever the local map changes (and we're authed + initial pull done)
   useEffect(() => {
     if (!isAuthed || !initialPullDoneRef.current) return;
-    const deltas: { reviewId: string; status: ProgressStatus | 'unread' }[] = [];
-
-    for (const [reviewId, p] of Object.entries(progressMap)) {
-      const status: ProgressStatus | 'unread' = progressToStatus(p) ?? 'unread';
-      const last = lastPushedRef.current.get(reviewId);
-      // Server only cares about transitions to in_progress or finished, or
-      // moving back to unread (which deletes the row).
-      if (last !== status) {
-        // Skip pushing 'unread' if we never had a row server-side to begin with.
-        if (status === 'unread' && (last === undefined || last === 'unread')) continue;
-        deltas.push({ reviewId, status });
-        lastPushedRef.current.set(reviewId, status);
-      }
-    }
-
-    // Also detect entries that exist in lastPushed but not in current map
-    // (markAsUnread that fully removed an entry — currently doesn't happen,
-    // but defensive).
-    for (const [reviewId, last] of lastPushedRef.current.entries()) {
-      if (!(reviewId in progressMap) && last !== 'unread') {
-        deltas.push({ reviewId, status: 'unread' });
-        lastPushedRef.current.set(reviewId, 'unread');
-      }
-    }
-
+    const { deltas, nextLastPushed } = computeProgressDeltas(progressMap, lastPushedRef.current);
     if (deltas.length === 0) return;
+    lastPushedRef.current = nextLastPushed;
     fetch('/api/progress', {
       method: 'POST',
       headers: { 'content-type': 'application/json' },

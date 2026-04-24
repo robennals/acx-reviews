@@ -7,7 +7,7 @@ import {
   toggleFavorite as toggleFavoriteInStorage,
   addFavorite as addFavoriteInStorage,
 } from '@/lib/favorites';
-import { mergeFavorites } from '@/lib/sync';
+import { computeFavoritesSyncOps } from '@/lib/sync';
 
 interface FavoritesContextType {
   favoritesSet: Set<string>;
@@ -53,9 +53,8 @@ export function FavoritesProvider({ children }: { children: React.ReactNode }) {
         const data = (await res.json()) as { favorites?: string[] };
         const server = data.favorites ?? [];
         const local = getAllFavorites();
-        const merged = mergeFavorites(local, server);
+        const { merged, localOnly } = computeFavoritesSyncOps(local, server);
         // Push any local-only items up to the server.
-        const localOnly = merged.filter((id) => !server.includes(id));
         for (const id of localOnly) {
           fetch('/api/favorites/toggle', {
             method: 'POST',

@@ -81,3 +81,84 @@ export function localProgressToServerEntries(
   }
   return out;
 }
+
+/**
+ * Optimistic toggle for a Set. Returns the next set and the previous state of
+ * the id (so callers can roll back on failure without re-deriving it).
+ */
+export function applyOptimisticToggle<T>(
+  set: Set<T>,
+  id: T
+): { next: Set<T>; wasPresent: boolean } {
+  const wasPresent = set.has(id);
+  const next = new Set(set);
+  if (wasPresent) next.delete(id);
+  else next.add(id);
+  return { next, wasPresent };
+}
+
+/**
+ * Roll back a single id in a set to the given previous state.
+ */
+export function rollbackToggle<T>(set: Set<T>, id: T, wasPresent: boolean): Set<T> {
+  const next = new Set(set);
+  if (wasPresent) next.add(id);
+  else next.delete(id);
+  return next;
+}
+
+export type LocalProgressStatus = ProgressStatus | 'unread';
+
+/**
+ * Compute the deltas to push to the server given the current local progress
+ * map and what was last successfully pushed. Returns deltas + the new
+ * lastPushed map. A reviewId that isn't in `current` but was previously
+ * pushed as a non-'unread' status is emitted as 'unread' (deletes server row).
+ */
+export function computeProgressDeltas(
+  current: Record<string, ReadingProgress>,
+  lastPushed: Map<string, LocalProgressStatus>
+): {
+  deltas: { reviewId: string; status: LocalProgressStatus }[];
+  nextLastPushed: Map<string, LocalProgressStatus>;
+} {
+  const deltas: { reviewId: string; status: LocalProgressStatus }[] = [];
+  const next = new Map(lastPushed);
+
+  for (const [reviewId, p] of Object.entries(current)) {
+    const status: LocalProgressStatus = progressToStatus(p) ?? 'unread';
+    const last = next.get(reviewId);
+    if (last === status) continue;
+    // No-op: never had a row server-side AND state is 'unread'.
+    if (status === 'unread' && (last === undefined || last === 'unread')) continue;
+    deltas.push({ reviewId, status });
+    next.set(reviewId, status);
+  }
+
+  for (const [reviewId, last] of lastPushed.entries()) {
+    if (reviewId in current) continue;
+    if (last === 'unread') continue;
+    deltas.push({ reviewId, status: 'unread' });
+    next.set(reviewId, 'unread');
+  }
+
+  return { deltas, nextLastPushed: next };
+}
+
+/**
+ * Compute the union and the items present only locally (which need to be
+ * pushed up after sign-in). Used by FavoritesProvider on auth change.
+ */
+export function computeFavoritesSyncOps(
+  local: Iterable<string>,
+  server: Iterable<string>
+): { merged: string[]; localOnly: string[] } {
+  const serverSet = new Set(server);
+  const mergedSet = new Set(serverSet);
+  const localOnly: string[] = [];
+  for (const id of local) {
+    mergedSet.add(id);
+    if (!serverSet.has(id)) localOnly.push(id);
+  }
+  return { merged: Array.from(mergedSet), localOnly };
+}

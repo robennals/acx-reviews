@@ -5,6 +5,11 @@ import {
   mergeFavorites,
   mergeProgressIntoLocal,
   localProgressToServerEntries,
+  applyOptimisticToggle,
+  rollbackToggle,
+  computeProgressDeltas,
+  computeFavoritesSyncOps,
+  type LocalProgressStatus,
 } from './sync';
 import type { ReadingProgress } from './types';
 
@@ -70,6 +75,92 @@ test('mergeProgressIntoLocal: local finished is preserved when server is silent'
   const local = { r1: p({ reviewId: 'r1', percentComplete: 100, isComplete: true }) };
   const merged = mergeProgressIntoLocal(local, []);
   assert.equal(merged.r1.isComplete, true);
+});
+
+test('applyOptimisticToggle: adds when absent, removes when present', () => {
+  const set = new Set(['a', 'b']);
+  const add = applyOptimisticToggle(set, 'c');
+  assert.deepEqual([...add.next].sort(), ['a', 'b', 'c']);
+  assert.equal(add.wasPresent, false);
+
+  const remove = applyOptimisticToggle(set, 'a');
+  assert.deepEqual([...remove.next].sort(), ['b']);
+  assert.equal(remove.wasPresent, true);
+
+  // Original set is not mutated
+  assert.deepEqual([...set].sort(), ['a', 'b']);
+});
+
+test('rollbackToggle: restores previous state regardless of current', () => {
+  const set = new Set(['a']);
+  // Was previously absent → ensure removed
+  assert.deepEqual([...rollbackToggle(set, 'a', false)].sort(), []);
+  // Was previously present → ensure added
+  assert.deepEqual([...rollbackToggle(new Set(), 'a', true)].sort(), ['a']);
+});
+
+test('computeProgressDeltas: emits only changes vs lastPushed', () => {
+  const local: Record<string, ReadingProgress> = {
+    a: p({ reviewId: 'a', percentComplete: 50 }), // in_progress
+    b: p({ reviewId: 'b', percentComplete: 100, isComplete: true }), // finished
+    c: p({ reviewId: 'c', percentComplete: 0 }), // unread (no row needed)
+  };
+  const lastPushed = new Map<string, LocalProgressStatus>([
+    ['a', 'in_progress'], // unchanged
+    // 'b' missing — needs to be pushed as 'finished'
+  ]);
+  const { deltas, nextLastPushed } = computeProgressDeltas(local, lastPushed);
+  assert.deepEqual(deltas, [{ reviewId: 'b', status: 'finished' }]);
+  assert.equal(nextLastPushed.get('a'), 'in_progress');
+  assert.equal(nextLastPushed.get('b'), 'finished');
+});
+
+test('computeProgressDeltas: emits unread when entry disappears from local but had been pushed', () => {
+  const local: Record<string, ReadingProgress> = {};
+  const lastPushed = new Map<string, LocalProgressStatus>([['a', 'finished']]);
+  const { deltas, nextLastPushed } = computeProgressDeltas(local, lastPushed);
+  assert.deepEqual(deltas, [{ reviewId: 'a', status: 'unread' }]);
+  assert.equal(nextLastPushed.get('a'), 'unread');
+});
+
+test('computeProgressDeltas: skips no-op unread (never pushed)', () => {
+  const local: Record<string, ReadingProgress> = {
+    a: p({ reviewId: 'a', percentComplete: 0 }),
+  };
+  const { deltas } = computeProgressDeltas(local, new Map());
+  assert.deepEqual(deltas, []);
+});
+
+test('computeProgressDeltas: status transition in_progress → finished is a delta', () => {
+  const local: Record<string, ReadingProgress> = {
+    a: p({ reviewId: 'a', percentComplete: 100, isComplete: true }),
+  };
+  const lastPushed = new Map<string, LocalProgressStatus>([['a', 'in_progress']]);
+  const { deltas } = computeProgressDeltas(local, lastPushed);
+  assert.deepEqual(deltas, [{ reviewId: 'a', status: 'finished' }]);
+});
+
+test('computeProgressDeltas: returns no deltas when fully synced', () => {
+  const local: Record<string, ReadingProgress> = {
+    a: p({ reviewId: 'a', percentComplete: 100, isComplete: true }),
+    b: p({ reviewId: 'b', percentComplete: 30 }),
+  };
+  const lastPushed = new Map<string, LocalProgressStatus>([
+    ['a', 'finished'],
+    ['b', 'in_progress'],
+  ]);
+  const { deltas } = computeProgressDeltas(local, lastPushed);
+  assert.deepEqual(deltas, []);
+});
+
+test('computeFavoritesSyncOps: localOnly is the diff to push up', () => {
+  const r = computeFavoritesSyncOps(['a', 'b', 'c'], ['b', 'd']);
+  assert.deepEqual(r.merged.sort(), ['a', 'b', 'c', 'd']);
+  assert.deepEqual(r.localOnly.sort(), ['a', 'c']);
+});
+
+test('computeFavoritesSyncOps: empty inputs', () => {
+  assert.deepEqual(computeFavoritesSyncOps([], []), { merged: [], localOnly: [] });
 });
 
 test('localProgressToServerEntries: emits only meaningful rows', () => {

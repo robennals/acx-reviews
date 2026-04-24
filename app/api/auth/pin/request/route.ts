@@ -1,9 +1,10 @@
 import { NextResponse } from 'next/server';
-import { dbPinStore } from '@/lib/auth/pin-store-db';
+import { db } from '@/lib/db/client';
+import { makeDbPinStore } from '@/lib/auth/pin-store-db';
 import { postmarkPinSender } from '@/lib/auth/pin-sender-postmark';
 import { requestPin } from '@/lib/auth/pin';
 import { checkRateLimit, getClientIp } from '@/lib/auth/rate-limit';
-import { dbRateLimitStore } from '@/lib/auth/rate-limit-store-db';
+import { makeDbRateLimitStore } from '@/lib/auth/rate-limit-store-db';
 
 const PIN_REQUESTS_PER_IP_PER_HOUR = 30;
 const ONE_HOUR_MS = 60 * 60 * 1000;
@@ -24,7 +25,7 @@ export async function POST(req: Request) {
   // Per-IP rate limit (defense in depth alongside the per-email cooldown
   // enforced inside requestPin).
   const ip = getClientIp(req);
-  const rl = await checkRateLimit(dbRateLimitStore, {
+  const rl = await checkRateLimit(makeDbRateLimitStore(db), {
     key: `pin_request:${ip}`,
     max: PIN_REQUESTS_PER_IP_PER_HOUR,
     windowMs: ONE_HOUR_MS,
@@ -36,7 +37,7 @@ export async function POST(req: Request) {
     );
   }
 
-  const result = await requestPin(dbPinStore, postmarkPinSender, { email, secret });
+  const result = await requestPin(makeDbPinStore(db), postmarkPinSender, { email, secret });
   if (!result.ok) {
     if (result.reason === 'cooldown') {
       return NextResponse.json(

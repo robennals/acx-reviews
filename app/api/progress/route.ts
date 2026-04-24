@@ -1,20 +1,13 @@
 import { NextResponse } from 'next/server';
-import { and, eq } from 'drizzle-orm';
 import { auth } from '@/auth';
 import { db } from '@/lib/db/client';
-import { progress } from '@/lib/db/schema';
 import { getAllReviewIds } from '@/lib/reviews';
-import type { ProgressStatus } from '@/lib/sync';
+import { applyProgressEntries, type ProgressEntry } from '@/lib/api/progress-logic';
 
 interface Body {
-  entries?: { reviewId: string; status: ProgressStatus | 'unread' }[];
+  entries?: ProgressEntry[];
 }
 
-const VALID_STATUSES = new Set(['in_progress', 'finished', 'unread']);
-
-// POST /api/progress — upsert/delete progress rows for the signed-in user.
-// Accepts a batch of { reviewId, status }. status='unread' deletes the row.
-// Idempotent: status='finished' over an existing 'finished' is a no-op.
 export async function POST(req: Request) {
   const session = await auth();
   const userId = (session?.user as { id?: string } | undefined)?.id;
@@ -32,28 +25,6 @@ export async function POST(req: Request) {
   }
 
   const knownIds = await getAllReviewIds();
-  for (const e of entries) {
-    if (!e?.reviewId || !VALID_STATUSES.has(e.status)) continue;
-    if (!knownIds.has(e.reviewId)) continue;
-    if (e.status === 'unread') {
-      await db
-        .delete(progress)
-        .where(and(eq(progress.userId, userId), eq(progress.reviewId, e.reviewId)));
-      continue;
-    }
-    await db
-      .insert(progress)
-      .values({
-        userId,
-        reviewId: e.reviewId,
-        status: e.status,
-        updatedAt: new Date(),
-      })
-      .onConflictDoUpdate({
-        target: [progress.userId, progress.reviewId],
-        set: { status: e.status, updatedAt: new Date() },
-      });
-  }
-
+  await applyProgressEntries(db, { userId, entries, knownIds });
   return NextResponse.json({ ok: true });
 }

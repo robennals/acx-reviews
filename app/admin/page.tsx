@@ -1,12 +1,11 @@
 import Link from 'next/link';
 import { redirect } from 'next/navigation';
-import { sql, eq } from 'drizzle-orm';
 import { auth } from '@/auth';
 import { isAdminEmail } from '@/lib/admin';
 import { db } from '@/lib/db/client';
-import { votes } from '@/lib/db/schema';
 import { getAllContests, getReviewsByContest } from '@/lib/reviews';
 import { getVotingConfig } from '@/lib/voting-period';
+import { getContestVoteCounts } from '@/lib/api/admin-logic';
 
 interface PageProps {
   searchParams: Promise<{ contest?: string }>;
@@ -30,20 +29,9 @@ export default async function AdminPage({ searchParams }: PageProps) {
   const selectedContest = contests.find((c) => c.id === defaultContestId) ?? contests[0];
   const reviews = selectedContest ? await getReviewsByContest(selectedContest.id) : [];
 
-  // Aggregate vote counts for the selected contest in a single query.
-  const counts = selectedContest
-    ? await db
-        .select({
-          reviewId: votes.reviewId,
-          count: sql<number>`count(*)`.as('count'),
-        })
-        .from(votes)
-        .where(eq(votes.contestId, selectedContest.id))
-        .groupBy(votes.reviewId)
-    : [];
-
-  const countByReview = new Map<string, number>();
-  for (const row of counts) countByReview.set(row.reviewId, Number(row.count));
+  const countByReview = selectedContest
+    ? await getContestVoteCounts(db, selectedContest.id)
+    : new Map<string, number>();
 
   const ranked = reviews
     .map((r) => ({ review: r, votes: countByReview.get(r.id) ?? 0 }))
