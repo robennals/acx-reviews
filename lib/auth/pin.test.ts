@@ -54,6 +54,42 @@ test('normalizeEmail lowercases and trims', () => {
   assert.equal(normalizeEmail('  Foo@Bar.com '), 'foo@bar.com');
 });
 
+test('normalizeEmail strips Gmail dots from the local part', () => {
+  assert.equal(normalizeEmail('rob.ennals@gmail.com'), 'robennals@gmail.com');
+  assert.equal(normalizeEmail('r.o.b.e.n.n.a.l.s@gmail.com'), 'robennals@gmail.com');
+  assert.equal(normalizeEmail('robennals@gmail.com'), 'robennals@gmail.com');
+});
+
+test('normalizeEmail preserves dots in every non-gmail.com domain', () => {
+  assert.equal(normalizeEmail('rob.ennals@example.com'), 'rob.ennals@example.com');
+  assert.equal(normalizeEmail('user.name@fastmail.com'), 'user.name@fastmail.com');
+  // @googlemail.com is a Gmail alias but we can't tell from the domain alone
+  // whether to canonicalize at sign-in; leave it.
+  assert.equal(normalizeEmail('rob.ennals@googlemail.com'), 'rob.ennals@googlemail.com');
+  // Google Workspace custom domains behave like Gmail for dots, but we have
+  // no way to identify them at sign-in, so dots are preserved.
+  assert.equal(normalizeEmail('user.name@company-with-gsuite.com'), 'user.name@company-with-gsuite.com');
+});
+
+test('normalizeEmail preserves +tag addressing on every domain (intentional)', () => {
+  // + addressing is often deliberate (e.g., per-site tags) and on providers
+  // like Yahoo "+" is a literal character, so we never strip it.
+  assert.equal(normalizeEmail('rob+marketing@gmail.com'), 'rob+marketing@gmail.com');
+  assert.equal(normalizeEmail('user+foo@example.com'), 'user+foo@example.com');
+  assert.equal(normalizeEmail('user+tag@yahoo.com'), 'user+tag@yahoo.com');
+});
+
+test('normalizeEmail: Gmail dot-stripping chains with case and leaves +tag alone', () => {
+  assert.equal(normalizeEmail('Rob.Ennals@Gmail.com'), 'robennals@gmail.com');
+  assert.equal(normalizeEmail('Rob.Ennals+Marketing@Gmail.com'), 'robennals+marketing@gmail.com');
+});
+
+test('normalizeEmail leaves malformed input alone (for validator to reject)', () => {
+  assert.equal(normalizeEmail('not-an-email'), 'not-an-email');
+  assert.equal(normalizeEmail('@nowhere.com'), '@nowhere.com');
+  assert.equal(normalizeEmail('trailing@'), 'trailing@');
+});
+
 test('isValidEmail accepts simple addresses, rejects garbage', () => {
   assert.equal(isValidEmail('a@b.co'), true);
   assert.equal(isValidEmail('not-an-email'), false);
@@ -95,15 +131,48 @@ test('requestPin generates, stores hash, and sends pin', async () => {
   if (!r.ok) throw new Error('unreachable');
 
   assert.equal(sender.sent.length, 1);
-  assert.equal(sender.sent[0].email, 'a@b.co');
+  // Send to the user's typed form (trimmed only), not the canonical form.
+  assert.equal(sender.sent[0].email, 'A@B.co');
   assert.equal(sender.sent[0].pin, r.pin);
 
+  // The DB key and hash use the canonical form.
   const stored = await store.get('a@b.co');
   assert.ok(stored);
   assert.equal(stored!.pinHash, hashPin(r.pin, 'a@b.co', SECRET));
   assert.equal(stored!.attempts, 0);
   assert.equal(stored!.lastSentAt.toISOString(), now.toISOString());
   assert.equal(stored!.expiresAt.getTime(), now.getTime() + PIN_EXPIRY_MS);
+});
+
+test('requestPin sends PIN to the typed email, not the canonicalized one', async () => {
+  const store = makeStore();
+  const sender = makeSender();
+  // User types a Gmail variant with dots. We send to what they typed;
+  // they might be watching for that address specifically.
+  const typed = 'Rob.Ennals@Gmail.com';
+  const r = await requestPin(store, sender, { email: typed, secret: SECRET });
+  assert.equal(r.ok, true);
+  assert.equal(sender.sent.length, 1);
+  assert.equal(sender.sent[0].email, typed, 'send-to must preserve user-typed form');
+  // But the DB lookup uses the canonical form so it matches the verify side.
+  const stored = await store.get('robennals@gmail.com');
+  assert.ok(stored, 'DB row keyed by canonical email');
+});
+
+test('requestPin still cools down across dot/case variants of the same Gmail address', async () => {
+  const store = makeStore();
+  const sender = makeSender();
+  const t0 = new Date('2026-04-01T00:00:00Z');
+  await requestPin(store, sender, { email: 'rob.ennals@gmail.com', secret: SECRET, now: t0 });
+  const tooSoon = new Date(t0.getTime() + 1_000);
+  // A dot-variant should hit the same cooldown (same canonical identity).
+  const r = await requestPin(store, sender, {
+    email: 'ROBENNALS@gmail.com',
+    secret: SECRET,
+    now: tooSoon,
+  });
+  assert.equal(r.ok, false);
+  assert.equal(sender.sent.length, 1);
 });
 
 test('requestPin enforces resend cooldown', async () => {

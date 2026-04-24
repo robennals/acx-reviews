@@ -41,6 +41,20 @@ const providers: NextAuthConfig['providers'] = [
     clientId: process.env.GOOGLE_CLIENT_ID,
     clientSecret: process.env.GOOGLE_CLIENT_SECRET,
     allowDangerousEmailAccountLinking: true,
+    // Normalize the email returned by Google the same way normalizeEmail()
+    // normalizes it on the PIN side. Without this, a Google Workspace user
+    // whose email casing differs would create a second account with a
+    // distinct row in `users`, defeating the same-email-same-account
+    // invariant. Gmail emails are always lowercase in practice, but don't
+    // rely on that.
+    profile(profile) {
+      return {
+        id: profile.sub,
+        name: profile.name,
+        email: normalizeEmail(profile.email ?? ''),
+        image: profile.picture,
+      };
+    },
   }),
   Credentials({
     id: 'pin',
@@ -116,6 +130,22 @@ if (isAuthConfigured) {
           (session.user as { id?: string }).id = token.uid as string;
         }
         return session;
+      },
+    },
+    events: {
+      // Self-heal: if a pre-normalization user row survived, bring its email
+      // into canonical form the first time they sign in post-migration. This
+      // is defense in depth — the one-time migration should cover everyone,
+      // but if anyone was missed they'll get fixed silently on next login.
+      async signIn({ user }) {
+        if (!user?.id || !user.email) return;
+        const norm = normalizeEmail(user.email);
+        if (norm === user.email) return;
+        try {
+          await db.update(users).set({ email: norm }).where(eq(users.id, user.id));
+        } catch (err) {
+          console.error('[auth] signIn email self-heal failed:', err);
+        }
       },
     },
   }) as unknown as AuthExports;
