@@ -202,7 +202,7 @@ These are documented as future enhancements and don't affect core functionality.
 ## Next Steps Available
 
 ### Immediate (5-10 minutes)
-1. ✅ Run `npm run fetch-acx` to populate with 75 real reviews
+1. ✅ Run `pnpm fetch-acx` to populate with 75 real reviews
 2. ✅ Deploy to Vercel
 
 ### Future (Optional)
@@ -230,5 +230,5 @@ The ACX Reviews app is **production-ready** and has been thoroughly tested. All 
 
 **Verification Method**: Automated Playwright tests in headless Chromium
 **Test File**: `tests/app.spec.ts`
-**Run Tests**: `npm test`
-**View Report**: `npx playwright show-report`
+**Run Tests**: `pnpm test`
+**View Report**: `pnpm exec playwright show-report`

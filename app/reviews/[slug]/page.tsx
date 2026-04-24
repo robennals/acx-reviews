@@ -4,6 +4,7 @@ import Link from 'next/link';
 import { getReviewBySlug, getAllReviews } from '@/lib/reviews';
 import { ReviewContent } from '@/components/review-content';
 import { ReadingProgressTracker } from '@/components/reading-progress-tracker';
+import { VoteButton } from '@/components/vote-button';
 import { SITE_URL } from '@/lib/constants';
 
 interface ReviewPageProps {
@@ -137,6 +138,12 @@ export default async function ReviewPage({ params }: ReviewPageProps) {
         {/* Content */}
         <div className="max-w-3xl mx-auto px-6 sm:px-8 py-12 lg:py-16">
           <ReviewContent contentHtml={review.contentHtml} footnotes={review.footnotes} />
+          <VoteButton
+            reviewSlug={review.slug}
+            reviewId={review.id}
+            reviewYear={review.year}
+            variant="block"
+          />
         </div>
 
         {/* Footer */}

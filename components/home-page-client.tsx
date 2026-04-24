@@ -2,14 +2,18 @@
 
 import { useState, useMemo, useCallback, useRef, useEffect } from 'react';
 import Link from 'next/link';
+import { useRouter } from 'next/navigation';
 import { Review, Contest } from '@/lib/types';
+import { useSession } from 'next-auth/react';
 import { useReadingProgressContext } from '@/context/reading-progress-context';
 import { useFavoritesContext } from '@/context/favorites-context';
+import { useVotesContext } from '@/context/votes-context';
 import { markAsRead, markAsUnread } from '@/lib/reading-progress';
+import { VoteButton } from '@/components/vote-button';
 
-type StatusFilter = 'all' | 'unread' | 'read' | 'in-progress' | 'favorites';
+type StatusFilter = 'all' | 'unread' | 'read' | 'in-progress' | 'favorites' | 'voted';
 
-const VALID_STATUS: StatusFilter[] = ['all', 'unread', 'read', 'in-progress', 'favorites'];
+const VALID_STATUS: StatusFilter[] = ['all', 'unread', 'read', 'in-progress', 'favorites', 'voted'];
 
 interface FilterState {
   contestId: string | null;
@@ -61,6 +65,10 @@ export function HomePageClient({ reviews, contests, tags }: HomePageClientProps)
   const [currentPage, setCurrentPage] = useState(1);
   const { progressMap, refreshProgress } = useReadingProgressContext();
   const { favoritesSet, toggleFavorite } = useFavoritesContext();
+  const { votedReviewIds, contestYear } = useVotesContext();
+  const { status: sessionStatus } = useSession();
+  const showVotedFilter = sessionStatus === 'authenticated' && contestYear !== null;
+  const router = useRouter();
 
   useEffect(() => {
     const applyFromUrl = () => {
@@ -130,10 +138,18 @@ export function HomePageClient({ reviews, contests, tags }: HomePageClientProps)
       result = result.filter(r => !progressMap[r.id]?.isComplete && (progressMap[r.id]?.percentComplete ?? 0) > 0);
     } else if (statusFilter === 'favorites') {
       result = result.filter(r => favoritesSet.has(r.id));
+    } else if (statusFilter === 'voted') {
+      result = result.filter(r => votedReviewIds.has(r.id));
     }
 
     return result;
-  }, [reviews, selectedContestId, selectedTag, searchQuery, statusFilter, progressMap, favoritesSet]);
+  }, [reviews, selectedContestId, selectedTag, searchQuery, statusFilter, progressMap, favoritesSet, votedReviewIds]);
+
+  const handleRandom = useCallback(() => {
+    if (filteredReviews.length === 0) return;
+    const pick = filteredReviews[Math.floor(Math.random() * filteredReviews.length)];
+    router.push(`/reviews/${pick.slug}`);
+  }, [filteredReviews, router]);
 
   const totalPages = Math.max(1, Math.ceil(filteredReviews.length / REVIEWS_PER_PAGE));
   const paginatedReviews = filteredReviews.slice(
@@ -158,6 +174,7 @@ export function HomePageClient({ reviews, contests, tags }: HomePageClientProps)
     statusFilter === 'unread' ? 'Unread' :
     statusFilter === 'in-progress' ? 'In-Progress' :
     statusFilter === 'favorites' ? 'Saved' :
+    statusFilter === 'voted' ? 'Voted' :
     '',
     selectedTag || '',
     selectedContestId
@@ -239,6 +256,7 @@ export function HomePageClient({ reviews, contests, tags }: HomePageClientProps)
               statusFilter === 'unread' ? 'Unread' :
               statusFilter === 'in-progress' ? 'In Progress' :
               statusFilter === 'read' ? 'Finished' :
+              statusFilter === 'voted' ? 'Voted' :
               'Saved'
             }
             options={[
@@ -247,10 +265,22 @@ export function HomePageClient({ reviews, contests, tags }: HomePageClientProps)
               { id: 'in-progress', label: 'In Progress' },
               { id: 'read', label: 'Finished' },
               { id: 'favorites', label: 'Saved' },
+              ...(showVotedFilter ? [{ id: 'voted', label: 'Voted' }] : []),
             ]}
             onSelect={(id) => applyChanges({ status: (id || 'all') as StatusFilter, page: 1 })}
             isFiltered={statusFilter !== 'all'}
           />
+          <button
+            onClick={handleRandom}
+            disabled={filteredReviews.length === 0}
+            className="flex items-center gap-1.5 px-4 py-2 text-sm font-medium rounded-md transition-colors bg-muted text-muted-foreground hover:bg-muted/80 hover:text-foreground disabled:opacity-40 disabled:pointer-events-none"
+            aria-label="Open a random review from the current selection"
+          >
+            <svg className="w-3.5 h-3.5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+              <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M16 3h5v5M4 20L21 3M21 16v5h-5M15 15l6 6M4 4l5 5" />
+            </svg>
+            <span>Random</span>
+          </button>
         </div>
       </div>
 
@@ -508,9 +538,31 @@ function ReviewCard({ review, progress, isFavorite, onToggleRead, onToggleFavori
             >
               {isFavorite ? 'Saved' : 'Save'}
             </button>
+            <VoteSeparator>
+              <VoteButton
+                reviewSlug={review.slug}
+                reviewId={review.id}
+                reviewYear={review.year}
+              />
+            </VoteSeparator>
           </div>
         </div>
       </article>
     </Link>
+  );
+}
+
+// Renders a "·" separator only when its children render something. The
+// VoteButton self-hides when voting is closed or the year doesn't match, so
+// we suppress the leading dot in those cases.
+function VoteSeparator({ children }: { children: React.ReactNode }) {
+  const node = children as React.ReactElement<{ reviewYear: number }>;
+  const { contestYear } = useVotesContext();
+  if (contestYear === null || contestYear !== node.props.reviewYear) return null;
+  return (
+    <>
+      <span>&middot;</span>
+      {children}
+    </>
   );
 }

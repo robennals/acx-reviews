@@ -32,7 +32,7 @@ export default async function HomePage() {
               <span className="font-medium text-foreground">2.</span>
               <span>
                 Run{' '}
-                <code className="px-2 py-1 bg-muted rounded text-sm font-mono text-foreground">npm run fetch-gdocs</code>{' '}
+                <code className="px-2 py-1 bg-muted rounded text-sm font-mono text-foreground">pnpm fetch-gdocs</code>{' '}
                 to extract from Google Docs
               </span>
             </li>
@@ -40,7 +40,7 @@ export default async function HomePage() {
               <span className="font-medium text-foreground">3.</span>
               <span>
                 Run{' '}
-                <code className="px-2 py-1 bg-muted rounded text-sm font-mono text-foreground">npm run fetch-acx</code>{' '}
+                <code className="px-2 py-1 bg-muted rounded text-sm font-mono text-foreground">pnpm fetch-acx</code>{' '}
                 to scrape ACX posts
               </span>
             </li>
@@ -48,7 +48,7 @@ export default async function HomePage() {
               <span className="font-medium text-foreground">4.</span>
               <span>
                 Run{' '}
-                <code className="px-2 py-1 bg-muted rounded text-sm font-mono text-foreground">npm run generate-index</code>{' '}
+                <code className="px-2 py-1 bg-muted rounded text-sm font-mono text-foreground">pnpm generate-index</code>{' '}
                 to create the index
               </span>
             </li>
