@@ -110,6 +110,28 @@ test('admin link in user menu is hidden for non-admin users', async ({ page }) =
   await expect(page.getByRole('link', { name: /^Admin$/ })).toHaveCount(0);
 });
 
+test('signing in with Gmail dot variants or +tag lands in the same account', async ({ page }) => {
+  // A vote cast as "rob.ennals+x@gmail.com" should be visible when the same
+  // person later signs in as "robennals@gmail.com" — both normalize to
+  // "robennals@gmail.com" and hit the same users row.
+  const variantA = 'rob.ennals+test@gmail.com';
+  const variantB = 'robennals@gmail.com';
+
+  await signInAs(page, variantA);
+  await page.goto('/?contest=2025-non-book-reviews');
+  const slug = await page.locator('a[href^="/reviews/"]').first().getAttribute('href');
+  await page.goto(slug!);
+  await voteAndWait(page);
+  await expect(page.getByRole('button', { name: /^Voted$/ })).toBeVisible();
+
+  // Re-sign-in as the canonical variant — this replaces the JWT cookie.
+  // If normalization is correct, the server JWT carries the SAME user.id,
+  // and the server-rendered initial-votes snapshot includes our vote.
+  await signInAs(page, variantB);
+  await page.goto(slug!);
+  await expect(page.getByRole('button', { name: /^Voted$/ })).toBeVisible();
+});
+
 test('voting persists across reload (server state, not just localStorage)', async ({ page }) => {
   await signInAs(page, 'reload-test@example.invalid');
 
