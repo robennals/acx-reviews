@@ -74,4 +74,17 @@ test.describe('Auth & voting UI (signed out)', () => {
     // Banner mentions "Voting is open" when the env-configured window covers now.
     await expect(page.getByText(/Voting is open/i)).toBeVisible();
   });
+
+  test('article reading still works even when reaching API endpoints fails', async ({ page }) => {
+    // Sabotage every /api/* call from the browser. The article reading
+    // experience must keep working — this is the contract the contexts +
+    // server-rendered initial state are supposed to honor.
+    await page.route('**/api/**', (route) => route.abort());
+    await page.goto('/');
+    await expect(page.locator('article').first()).toBeVisible();
+    const firstLink = await page.locator('a[href^="/reviews/"]').first().getAttribute('href');
+    await page.goto(firstLink!);
+    // Review header + content render; favorites/progress sync silently fails.
+    await expect(page.locator('h1').first()).toBeVisible();
+  });
 });

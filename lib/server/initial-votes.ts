@@ -1,7 +1,7 @@
 import 'server-only';
 import { eq } from 'drizzle-orm';
 import { auth } from '@/auth';
-import { db } from '@/lib/db/client';
+import { db, isDbConfigured } from '@/lib/db/client';
 import { votes } from '@/lib/db/schema';
 import { getVotingConfig } from '@/lib/voting-period';
 
@@ -29,7 +29,7 @@ export async function loadInitialVotes(): Promise<InitialVotesState> {
 
   const session = await auth();
   const userId = (session?.user as { id?: string } | undefined)?.id;
-  if (!userId) return { ...meta, votedReviewIds: [] };
+  if (!userId || !isDbConfigured) return { ...meta, votedReviewIds: [] };
 
   const rows = await db
     .select({ reviewId: votes.reviewId })

@@ -5,9 +5,18 @@ import { useSession, signOut } from 'next-auth/react';
 import Link from 'next/link';
 import { useSignInPrompt } from './sign-in-prompt-provider';
 
-export function UserMenu({ isAdmin = false }: { isAdmin?: boolean }) {
+export function UserMenu({
+  isAdmin = false,
+  authAvailable = true,
+}: {
+  isAdmin?: boolean;
+  authAvailable?: boolean;
+}) {
   const { data: session, status } = useSession();
   const { openSignIn } = useSignInPrompt();
+  // If auth isn't wired on this deployment, render nothing — the article
+  // experience continues to work without a sign-in affordance.
+  if (!authAvailable) return null;
   const [menuOpen, setMenuOpen] = useState(false);
   const menuRef = useRef<HTMLDivElement>(null);
 

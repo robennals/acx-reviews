@@ -2,12 +2,30 @@ import { drizzle } from 'drizzle-orm/libsql';
 import { createClient } from '@libsql/client';
 import * as schema from './schema';
 
-const url = process.env.DATABASE_URL;
-if (!url) {
-  throw new Error('DATABASE_URL is not set');
+export class DbNotConfiguredError extends Error {
+  constructor() {
+    super('DATABASE_URL is not set — DB-backed features are disabled');
+    this.name = 'DbNotConfiguredError';
+  }
 }
 
-const client = createClient({ url, authToken: process.env.TURSO_TOKEN });
+const url = process.env.DATABASE_URL;
+const _real = url
+  ? drizzle(createClient({ url, authToken: process.env.TURSO_TOKEN }), { schema })
+  : null;
 
-export const db = drizzle(client, { schema });
-export type DB = typeof db;
+/**
+ * True iff the DB is wired. When false, `db` is a Proxy that throws
+ * DbNotConfiguredError on any method access — safe to import, unsafe to use.
+ * Callers that should degrade gracefully must check this flag first.
+ */
+export const isDbConfigured = _real !== null;
+
+export const db = (_real ??
+  new Proxy({} as Record<string, unknown>, {
+    get() {
+      throw new DbNotConfiguredError();
+    },
+  })) as NonNullable<typeof _real>;
+
+export type DB = NonNullable<typeof _real>;

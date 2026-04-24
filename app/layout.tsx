@@ -8,9 +8,9 @@ import { AuthProvider } from "@/components/auth-provider";
 import { SignInPromptProvider } from "@/components/sign-in-prompt-provider";
 import { UserMenu } from "@/components/user-menu";
 import { VotingBanner } from "@/components/voting-banner";
-import { auth } from "@/auth";
+import { auth, isAuthConfigured } from "@/auth";
 import { isAdminEmail } from "@/lib/admin";
-import { loadInitialVotes } from "@/lib/server/initial-votes";
+import { loadInitialVotes, type InitialVotesState } from "@/lib/server/initial-votes";
 import Link from "next/link";
 import Script from "next/script";
 import { SITE_URL } from "@/lib/constants";
@@ -47,9 +47,27 @@ export default async function RootLayout({
 }: Readonly<{
   children: React.ReactNode;
 }>) {
-  const session = await auth();
+  // Auth + DB calls are wrapped so the article-reading experience never
+  // breaks if those services are misconfigured or briefly unreachable.
+  let session = null;
+  let initialVotes: InitialVotesState = {
+    contestYear: null,
+    contestTitle: null,
+    votingStart: null,
+    votingEnd: null,
+    votedReviewIds: [],
+  };
+  try {
+    session = await auth();
+  } catch (err) {
+    console.error('[layout] auth() failed; rendering as signed-out:', err);
+  }
+  try {
+    initialVotes = await loadInitialVotes();
+  } catch (err) {
+    console.error('[layout] loadInitialVotes() failed; voting hidden:', err);
+  }
   const isAdmin = isAdminEmail(session?.user?.email);
-  const initialVotes = await loadInitialVotes();
   return (
     <html lang="en" className={`${sourceSerif.variable} ${inter.variable}`}>
       <head>
@@ -96,7 +114,7 @@ export default async function RootLayout({
                     >
                       Astral Codex Ten
                     </a>
-                    <UserMenu isAdmin={isAdmin} />
+                    <UserMenu isAdmin={isAdmin} authAvailable={isAuthConfigured} />
                   </nav>
                 </div>
               </div>

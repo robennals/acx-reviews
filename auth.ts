@@ -1,18 +1,19 @@
-import NextAuth, { type NextAuthConfig } from 'next-auth';
+import NextAuth, { type NextAuthConfig, type Session } from 'next-auth';
 import Google from 'next-auth/providers/google';
 import Credentials from 'next-auth/providers/credentials';
 import { DrizzleAdapter } from '@auth/drizzle-adapter';
 import { eq } from 'drizzle-orm';
-import { db } from '@/lib/db/client';
+import { db, isDbConfigured } from '@/lib/db/client';
 import { users, accounts, verificationTokens } from '@/lib/db/schema';
 import { makeDbPinStore } from '@/lib/auth/pin-store-db';
 import { verifyPin, normalizeEmail } from '@/lib/auth/pin';
 
-const adapter = DrizzleAdapter(db, {
-  usersTable: users,
-  accountsTable: accounts,
-  verificationTokensTable: verificationTokens,
-});
+/**
+ * Auth is "configured" iff both AUTH_SECRET and DATABASE_URL are set. When
+ * either is missing the site renders as if no one is signed in and the auth
+ * UI hides itself — articles still load.
+ */
+export const isAuthConfigured = isDbConfigured && !!process.env.AUTH_SECRET;
 
 async function findOrCreateUserByEmail(email: string) {
   const existing = await db.select().from(users).where(eq(users.email, email)).limit(1);
@@ -81,24 +82,61 @@ if (
   );
 }
 
-export const { handlers, signIn, signOut, auth } = NextAuth({
-  adapter,
-  session: { strategy: 'jwt' },
-  trustHost: true,
-  providers,
-  callbacks: {
-    async jwt({ token, user }) {
-      if (user) {
-        token.uid = user.id;
-        token.email = user.email;
-      }
-      return token;
+type AuthExports = {
+  handlers: { GET: (req: Request) => Promise<Response>; POST: (req: Request) => Promise<Response> };
+  signIn: (...args: unknown[]) => Promise<unknown>;
+  signOut: (...args: unknown[]) => Promise<unknown>;
+  auth: () => Promise<Session | null>;
+};
+
+let _exports: AuthExports;
+
+if (isAuthConfigured) {
+  const adapter = DrizzleAdapter(db, {
+    usersTable: users,
+    accountsTable: accounts,
+    verificationTokensTable: verificationTokens,
+  });
+
+  _exports = NextAuth({
+    adapter,
+    session: { strategy: 'jwt' },
+    trustHost: true,
+    providers,
+    callbacks: {
+      async jwt({ token, user }) {
+        if (user) {
+          token.uid = user.id;
+          token.email = user.email;
+        }
+        return token;
+      },
+      async session({ session, token }) {
+        if (session.user && token.uid) {
+          (session.user as { id?: string }).id = token.uid as string;
+        }
+        return session;
+      },
     },
-    async session({ session, token }) {
-      if (session.user && token.uid) {
-        (session.user as { id?: string }).id = token.uid as string;
-      }
-      return session;
+  }) as unknown as AuthExports;
+} else {
+  // Stub exports so the rest of the app can import these names without
+  // crashing at module load when AUTH_SECRET / DATABASE_URL is absent.
+  const notConfigured = () =>
+    new Response('Authentication is not configured on this deployment.', { status: 503 });
+  _exports = {
+    handlers: {
+      GET: async () => notConfigured(),
+      POST: async () => notConfigured(),
     },
-  },
-});
+    signIn: async () => {
+      throw new Error('Auth not configured');
+    },
+    signOut: async () => {
+      throw new Error('Auth not configured');
+    },
+    auth: async () => null,
+  };
+}
+
+export const { handlers, signIn, signOut, auth } = _exports;

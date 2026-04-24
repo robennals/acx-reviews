@@ -29,9 +29,15 @@ export default async function AdminPage({ searchParams }: PageProps) {
   const selectedContest = contests.find((c) => c.id === defaultContestId) ?? contests[0];
   const reviews = selectedContest ? await getReviewsByContest(selectedContest.id) : [];
 
-  const countByReview = selectedContest
-    ? await getContestVoteCounts(db, selectedContest.id)
-    : new Map<string, number>();
+  // If the DB is unreachable, fall back to an empty tally rather than 500.
+  let countByReview = new Map<string, number>();
+  if (selectedContest) {
+    try {
+      countByReview = await getContestVoteCounts(db, selectedContest.id);
+    } catch (err) {
+      console.error('[admin] vote tally query failed:', err);
+    }
+  }
 
   const ranked = reviews
     .map((r) => ({ review: r, votes: countByReview.get(r.id) ?? 0 }))
