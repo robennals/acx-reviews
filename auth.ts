@@ -41,6 +41,20 @@ const providers: NextAuthConfig['providers'] = [
     clientId: process.env.GOOGLE_CLIENT_ID,
     clientSecret: process.env.GOOGLE_CLIENT_SECRET,
     allowDangerousEmailAccountLinking: true,
+    // Normalize the email returned by Google the same way normalizeEmail()
+    // normalizes it on the PIN side. Without this, a Google Workspace user
+    // whose email casing differs would create a second account with a
+    // distinct row in `users`, defeating the same-email-same-account
+    // invariant. Gmail emails are always lowercase in practice, but don't
+    // rely on that.
+    profile(profile) {
+      return {
+        id: profile.sub,
+        name: profile.name,
+        email: normalizeEmail(profile.email ?? ''),
+        image: profile.picture,
+      };
+    },
   }),
   Credentials({
     id: 'pin',

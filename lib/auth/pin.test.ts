@@ -54,6 +54,36 @@ test('normalizeEmail lowercases and trims', () => {
   assert.equal(normalizeEmail('  Foo@Bar.com '), 'foo@bar.com');
 });
 
+test('normalizeEmail strips Gmail dots from the local part', () => {
+  assert.equal(normalizeEmail('rob.ennals@gmail.com'), 'robennals@gmail.com');
+  assert.equal(normalizeEmail('r.o.b.e.n.n.a.l.s@gmail.com'), 'robennals@gmail.com');
+  assert.equal(normalizeEmail('robennals@gmail.com'), 'robennals@gmail.com');
+  // Also covers @googlemail.com (same mail system).
+  assert.equal(normalizeEmail('rob.ennals@googlemail.com'), 'robennals@googlemail.com');
+});
+
+test('normalizeEmail preserves dots in non-Gmail domains', () => {
+  assert.equal(normalizeEmail('rob.ennals@example.com'), 'rob.ennals@example.com');
+  assert.equal(normalizeEmail('user.name@fastmail.com'), 'user.name@fastmail.com');
+});
+
+test('normalizeEmail strips +tag plus-addressing on any domain', () => {
+  assert.equal(normalizeEmail('rob+marketing@gmail.com'), 'rob@gmail.com');
+  assert.equal(normalizeEmail('rob.ennals+x@gmail.com'), 'robennals@gmail.com');
+  assert.equal(normalizeEmail('user+foo@example.com'), 'user@example.com');
+  assert.equal(
+    normalizeEmail('Rob.Ennals+Marketing@Gmail.com'),
+    'robennals@gmail.com',
+    'should chain with case + dots + tag'
+  );
+});
+
+test('normalizeEmail leaves malformed input alone (for validator to reject)', () => {
+  assert.equal(normalizeEmail('not-an-email'), 'not-an-email');
+  assert.equal(normalizeEmail('@nowhere.com'), '@nowhere.com');
+  assert.equal(normalizeEmail('trailing@'), 'trailing@');
+});
+
 test('isValidEmail accepts simple addresses, rejects garbage', () => {
   assert.equal(isValidEmail('a@b.co'), true);
   assert.equal(isValidEmail('not-an-email'), false);
