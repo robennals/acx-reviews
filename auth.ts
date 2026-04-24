@@ -132,6 +132,22 @@ if (isAuthConfigured) {
         return session;
       },
     },
+    events: {
+      // Self-heal: if a pre-normalization user row survived, bring its email
+      // into canonical form the first time they sign in post-migration. This
+      // is defense in depth — the one-time migration should cover everyone,
+      // but if anyone was missed they'll get fixed silently on next login.
+      async signIn({ user }) {
+        if (!user?.id || !user.email) return;
+        const norm = normalizeEmail(user.email);
+        if (norm === user.email) return;
+        try {
+          await db.update(users).set({ email: norm }).where(eq(users.id, user.id));
+        } catch (err) {
+          console.error('[auth] signIn email self-heal failed:', err);
+        }
+      },
+    },
   }) as unknown as AuthExports;
 } else {
   // Stub exports so the rest of the app can import these names without

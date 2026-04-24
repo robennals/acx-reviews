@@ -88,10 +88,15 @@ export async function requestPin(
   opts: { email: string; secret: string; now?: Date }
 ): Promise<RequestResult> {
   const now = opts.now ?? new Date();
-  const email = normalizeEmail(opts.email);
-  if (!isValidEmail(email)) return { ok: false, reason: 'invalid_email' };
+  // Canonical form is used as the DB key and in the hash — so "ROB@gmail.com"
+  // and "rob@gmail.com" are one identity. But we send the PIN email to the
+  // address the user actually typed (just trimmed): sending to a
+  // canonicalized address that looks unfamiliar would confuse users.
+  const displayEmail = opts.email.trim();
+  const canonical = normalizeEmail(opts.email);
+  if (!isValidEmail(canonical)) return { ok: false, reason: 'invalid_email' };
 
-  const existing = await store.get(email);
+  const existing = await store.get(canonical);
   if (existing) {
     const sinceLast = now.getTime() - existing.lastSentAt.getTime();
     if (sinceLast < PIN_RESEND_COOLDOWN_MS) {
@@ -101,13 +106,13 @@ export async function requestPin(
 
   const pin = generatePin();
   await store.upsert({
-    email,
-    pinHash: hashPin(pin, email, opts.secret),
+    email: canonical,
+    pinHash: hashPin(pin, canonical, opts.secret),
     expiresAt: new Date(now.getTime() + PIN_EXPIRY_MS),
     attempts: 0,
     lastSentAt: now,
   });
-  await sender.send(email, pin);
+  await sender.send(displayEmail, pin);
   return { ok: true, pin };
 }
 

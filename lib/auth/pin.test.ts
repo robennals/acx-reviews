@@ -125,15 +125,48 @@ test('requestPin generates, stores hash, and sends pin', async () => {
   if (!r.ok) throw new Error('unreachable');
 
   assert.equal(sender.sent.length, 1);
-  assert.equal(sender.sent[0].email, 'a@b.co');
+  // Send to the user's typed form (trimmed only), not the canonical form.
+  assert.equal(sender.sent[0].email, 'A@B.co');
   assert.equal(sender.sent[0].pin, r.pin);
 
+  // The DB key and hash use the canonical form.
   const stored = await store.get('a@b.co');
   assert.ok(stored);
   assert.equal(stored!.pinHash, hashPin(r.pin, 'a@b.co', SECRET));
   assert.equal(stored!.attempts, 0);
   assert.equal(stored!.lastSentAt.toISOString(), now.toISOString());
   assert.equal(stored!.expiresAt.getTime(), now.getTime() + PIN_EXPIRY_MS);
+});
+
+test('requestPin sends PIN to the typed email, not the canonicalized one', async () => {
+  const store = makeStore();
+  const sender = makeSender();
+  // User types a Gmail variant with dots and +tag. We should send to what
+  // they typed; they might be watching for that address specifically.
+  const typed = 'Rob.Ennals+billing@Gmail.com';
+  const r = await requestPin(store, sender, { email: typed, secret: SECRET });
+  assert.equal(r.ok, true);
+  assert.equal(sender.sent.length, 1);
+  assert.equal(sender.sent[0].email, typed, 'send-to must preserve user-typed form');
+  // But the DB lookup uses the canonical form so it matches the verify side.
+  const stored = await store.get('robennals@gmail.com');
+  assert.ok(stored, 'DB row keyed by canonical email');
+});
+
+test('requestPin still cools down across typed-email variants that share canonical form', async () => {
+  const store = makeStore();
+  const sender = makeSender();
+  const t0 = new Date('2026-04-01T00:00:00Z');
+  await requestPin(store, sender, { email: 'rob.ennals@gmail.com', secret: SECRET, now: t0 });
+  const tooSoon = new Date(t0.getTime() + 1_000);
+  // A different typed variant should hit the same cooldown (same identity).
+  const r = await requestPin(store, sender, {
+    email: 'ROBENNALS+x@gmail.com',
+    secret: SECRET,
+    now: tooSoon,
+  });
+  assert.equal(r.ok, false);
+  assert.equal(sender.sent.length, 1);
 });
 
 test('requestPin enforces resend cooldown', async () => {
