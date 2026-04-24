@@ -5,7 +5,7 @@ import { requestPin } from '@/lib/auth/pin';
 import { checkRateLimit, getClientIp } from '@/lib/auth/rate-limit';
 import { dbRateLimitStore } from '@/lib/auth/rate-limit-store-db';
 
-const PIN_REQUESTS_PER_IP_PER_HOUR = 10;
+const PIN_REQUESTS_PER_IP_PER_HOUR = 30;
 const ONE_HOUR_MS = 60 * 60 * 1000;
 
 export async function POST(req: Request) {
