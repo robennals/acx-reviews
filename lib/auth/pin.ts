@@ -29,13 +29,20 @@ const GMAIL_DOMAINS = new Set(['gmail.com', 'googlemail.com']);
 /**
  * Canonicalize an email address so the same person always maps to the same
  * user row regardless of how they typed it or which OAuth provider returned
- * it. Rules:
+ * it. Rules (deliberately conservative):
  *   - Trim surrounding whitespace.
- *   - Lowercase the whole thing (email is case-insensitive per RFC 5321).
- *   - Strip `+tag` from the local part (aka "plus addressing"; Gmail,
- *     Fastmail, iCloud, and many others route these to the base address).
- *   - For @gmail.com / @googlemail.com only, also strip dots from the
- *     local part — Gmail ignores them.
+ *   - Lowercase the whole thing (email is case-insensitive in practice).
+ *   - For @gmail.com / @googlemail.com only: strip dots from the local part.
+ *     Gmail treats "r.o.b@gmail.com" and "rob@gmail.com" as the same mailbox.
+ *
+ * We explicitly do NOT strip "+tag" plus-addressing on any domain, even on
+ * providers that recognize it. That's because:
+ *   - `+` is a legal local-part character per RFC 5321 — on providers like
+ *     Yahoo that don't alias with it, `user+tag` is a literally distinct
+ *     address and collapsing it would merge two unrelated accounts.
+ *   - Even on Gmail, if a user types `me+acx@gmail.com` to sign up, they
+ *     deliberately chose that tag and probably want to keep accounts
+ *     separated by tag.
  *
  * If the input isn't a recognizable email we leave it alone (after trim +
  * lowercase) so validation elsewhere can reject it.
@@ -45,15 +52,11 @@ export function normalizeEmail(email: string): string {
   const at = lower.lastIndexOf('@');
   if (at < 1 || at === lower.length - 1) return lower;
 
-  let local = lower.slice(0, at);
+  const local = lower.slice(0, at);
   const domain = lower.slice(at + 1);
 
-  const plusAt = local.indexOf('+');
-  if (plusAt >= 0) local = local.slice(0, plusAt);
-
-  if (GMAIL_DOMAINS.has(domain)) local = local.replace(/\./g, '');
-
-  return `${local}@${domain}`;
+  const canonicalLocal = GMAIL_DOMAINS.has(domain) ? local.replace(/\./g, '') : local;
+  return `${canonicalLocal}@${domain}`;
 }
 
 export function isValidEmail(email: string): boolean {

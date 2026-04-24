@@ -130,11 +130,11 @@ test('picks the OAuth-linked user as survivor regardless of input order', async 
   assert.equal(remaining[0].email, 'robennals@gmail.com');
 });
 
-test('merges 3+ users into one', async () => {
+test('merges 3+ users into one (case + dot variants)', async () => {
   const db = await createTestDb();
   await db.insert(users).values([
     { id: 'u1', email: 'Rob.Ennals@gmail.com' },
-    { id: 'u2', email: 'robennals+foo@gmail.com' },
+    { id: 'u2', email: 'ROBENNALS@gmail.com' },
     { id: 'u3', email: 'r.o.b.e.n.n.a.l.s@gmail.com' },
   ]);
   await db.insert(votes).values([
@@ -152,6 +152,19 @@ test('merges 3+ users into one', async () => {
     await db.select().from(votes).where(eq(votes.userId, remaining[0].id))
   ).map((v) => v.reviewId).sort();
   assert.deepEqual(reviews, ['r1', 'r2', 'r3']);
+});
+
+test('does NOT merge Gmail +tag variants — they are intentionally distinct', async () => {
+  const db = await createTestDb();
+  await db.insert(users).values([
+    { id: 'u1', email: 'rob@gmail.com' },
+    { id: 'u2', email: 'rob+work@gmail.com' },
+    { id: 'u3', email: 'rob+personal@gmail.com' },
+  ]);
+  const r = await normalizeUserEmails(db);
+  assert.equal(r.merged, 0);
+  const remaining = await listUsers(db);
+  assert.equal(remaining.length, 3);
 });
 
 test('is idempotent — a second run is a no-op', async () => {
