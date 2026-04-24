@@ -58,13 +58,17 @@ test('normalizeEmail strips Gmail dots from the local part', () => {
   assert.equal(normalizeEmail('rob.ennals@gmail.com'), 'robennals@gmail.com');
   assert.equal(normalizeEmail('r.o.b.e.n.n.a.l.s@gmail.com'), 'robennals@gmail.com');
   assert.equal(normalizeEmail('robennals@gmail.com'), 'robennals@gmail.com');
-  // Also covers @googlemail.com (same mail system).
-  assert.equal(normalizeEmail('rob.ennals@googlemail.com'), 'robennals@googlemail.com');
 });
 
-test('normalizeEmail preserves dots in non-Gmail domains', () => {
+test('normalizeEmail preserves dots in every non-gmail.com domain', () => {
   assert.equal(normalizeEmail('rob.ennals@example.com'), 'rob.ennals@example.com');
   assert.equal(normalizeEmail('user.name@fastmail.com'), 'user.name@fastmail.com');
+  // @googlemail.com is a Gmail alias but we can't tell from the domain alone
+  // whether to canonicalize at sign-in; leave it.
+  assert.equal(normalizeEmail('rob.ennals@googlemail.com'), 'rob.ennals@googlemail.com');
+  // Google Workspace custom domains behave like Gmail for dots, but we have
+  // no way to identify them at sign-in, so dots are preserved.
+  assert.equal(normalizeEmail('user.name@company-with-gsuite.com'), 'user.name@company-with-gsuite.com');
 });
 
 test('normalizeEmail preserves +tag addressing on every domain (intentional)', () => {

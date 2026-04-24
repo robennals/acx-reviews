@@ -24,25 +24,27 @@ export interface PinSender {
   send(email: string, pin: string): Promise<void>;
 }
 
-const GMAIL_DOMAINS = new Set(['gmail.com', 'googlemail.com']);
-
 /**
  * Canonicalize an email address so the same person always maps to the same
  * user row regardless of how they typed it or which OAuth provider returned
  * it. Rules (deliberately conservative):
  *   - Trim surrounding whitespace.
  *   - Lowercase the whole thing (email is case-insensitive in practice).
- *   - For @gmail.com / @googlemail.com only: strip dots from the local part.
- *     Gmail treats "r.o.b@gmail.com" and "rob@gmail.com" as the same mailbox.
+ *   - For @gmail.com only: strip dots from the local part. Gmail treats
+ *     "r.o.b@gmail.com" and "rob@gmail.com" as the same mailbox.
  *
- * We explicitly do NOT strip "+tag" plus-addressing on any domain, even on
- * providers that recognize it. That's because:
- *   - `+` is a legal local-part character per RFC 5321 — on providers like
- *     Yahoo that don't alias with it, `user+tag` is a literally distinct
- *     address and collapsing it would merge two unrelated accounts.
- *   - Even on Gmail, if a user types `me+acx@gmail.com` to sign up, they
- *     deliberately chose that tag and probably want to keep accounts
- *     separated by tag.
+ * Specifically NOT applied:
+ *   - @googlemail.com: a Gmail alias in some locales, but the PIN flow
+ *     can't know at verify time whether to canonicalize it, so we leave
+ *     it alone. Extremely rare today.
+ *   - Google Workspace / custom-domain Google accounts: Gmail's dot-ignore
+ *     rule technically applies there too, but we have no way to detect a
+ *     Workspace domain at sign-in time, so we must treat them like any
+ *     other provider.
+ *   - "+tag" plus-addressing on any domain: `+` is a legal local-part
+ *     character per RFC 5321, and on providers like Yahoo it is literal,
+ *     not an alias delimiter. Users who type different tags usually intend
+ *     different identities.
  *
  * If the input isn't a recognizable email we leave it alone (after trim +
  * lowercase) so validation elsewhere can reject it.
@@ -55,7 +57,7 @@ export function normalizeEmail(email: string): string {
   const local = lower.slice(0, at);
   const domain = lower.slice(at + 1);
 
-  const canonicalLocal = GMAIL_DOMAINS.has(domain) ? local.replace(/\./g, '') : local;
+  const canonicalLocal = domain === 'gmail.com' ? local.replace(/\./g, '') : local;
   return `${canonicalLocal}@${domain}`;
 }
 
