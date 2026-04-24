@@ -5,7 +5,7 @@
  * This script scans all markdown files in data/reviews/,
  * extracts frontmatter metadata, and generates a master index.
  *
- * Usage: npm run generate-index
+ * Usage: pnpm generate-index
  */
 
 import fs from 'fs';

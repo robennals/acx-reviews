@@ -2,6 +2,7 @@
 
 import { useState, useMemo, useCallback, useRef, useEffect } from 'react';
 import Link from 'next/link';
+import { useRouter } from 'next/navigation';
 import { Review, Contest } from '@/lib/types';
 import { useSession } from 'next-auth/react';
 import { useReadingProgressContext } from '@/context/reading-progress-context';
@@ -67,6 +68,7 @@ export function HomePageClient({ reviews, contests, tags }: HomePageClientProps)
   const { votedReviewIds, contestYear } = useVotesContext();
   const { status: sessionStatus } = useSession();
   const showVotedFilter = sessionStatus === 'authenticated' && contestYear !== null;
+  const router = useRouter();
 
   useEffect(() => {
     const applyFromUrl = () => {
@@ -142,6 +144,12 @@ export function HomePageClient({ reviews, contests, tags }: HomePageClientProps)
 
     return result;
   }, [reviews, selectedContestId, selectedTag, searchQuery, statusFilter, progressMap, favoritesSet, votedReviewIds]);
+
+  const handleRandom = useCallback(() => {
+    if (filteredReviews.length === 0) return;
+    const pick = filteredReviews[Math.floor(Math.random() * filteredReviews.length)];
+    router.push(`/reviews/${pick.slug}`);
+  }, [filteredReviews, router]);
 
   const totalPages = Math.max(1, Math.ceil(filteredReviews.length / REVIEWS_PER_PAGE));
   const paginatedReviews = filteredReviews.slice(
@@ -262,6 +270,17 @@ export function HomePageClient({ reviews, contests, tags }: HomePageClientProps)
             onSelect={(id) => applyChanges({ status: (id || 'all') as StatusFilter, page: 1 })}
             isFiltered={statusFilter !== 'all'}
           />
+          <button
+            onClick={handleRandom}
+            disabled={filteredReviews.length === 0}
+            className="flex items-center gap-1.5 px-4 py-2 text-sm font-medium rounded-md transition-colors bg-muted text-muted-foreground hover:bg-muted/80 hover:text-foreground disabled:opacity-40 disabled:pointer-events-none"
+            aria-label="Open a random review from the current selection"
+          >
+            <svg className="w-3.5 h-3.5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+              <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M16 3h5v5M4 20L21 3M21 16v5h-5M15 15l6 6M4 4l5 5" />
+            </svg>
+            <span>Random</span>
+          </button>
         </div>
       </div>
 

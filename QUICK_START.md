@@ -5,6 +5,7 @@ Get the ACX Reviews app running with real content in under 20 minutes!
 ## Prerequisites
 
 - Node.js 18+ installed
+- [pnpm](https://pnpm.io/) 10+ installed (`npm i -g pnpm` if you don't have it)
 - Terminal/command line access
 - Internet connection (for scraping ACX posts)
 
@@ -13,7 +14,7 @@ Get the ACX Reviews app running with real content in under 20 minutes!
 ### 1. Install Dependencies (if not done already)
 
 ```bash
-npm install
+pnpm install
 ```
 
 This installs all required packages. Takes about 1-2 minutes.
@@ -23,7 +24,7 @@ This installs all required packages. Takes about 1-2 minutes.
 Start the development server:
 
 ```bash
-npm run dev
+pnpm dev
 ```
 
 Open [http://localhost:3000](http://localhost:3000) in your browser.
@@ -43,7 +44,7 @@ Click the sample review to see:
 Stop the dev server (Ctrl+C) and run the scraper:
 
 ```bash
-npm run fetch-acx
+pnpm fetch-acx
 ```
 
 This will:
@@ -72,7 +73,7 @@ You'll see output like:
 After fetching completes:
 
 ```bash
-npm run generate-index
+pnpm generate-index
 ```
 
 This scans all markdown files and creates:
@@ -97,7 +98,7 @@ Processing 2022-book-reviews...
 ### 5. Start the App
 
 ```bash
-npm run dev
+pnpm dev
 ```
 
 Now you'll see:
@@ -126,7 +127,7 @@ Now you'll see:
 
 If you see TypeScript errors:
 ```bash
-npm install --save-dev @types/turndown tailwindcss-animate
+pnpm add -D @types/turndown tailwindcss-animate
 ```
 
 ### Scraper Fails
@@ -140,7 +141,7 @@ If the ACX scraper fails on some URLs:
 
 If reviews don't appear after fetching:
 1. Check `data/reviews/` directories - should have .md files
-2. Run `npm run generate-index` again
+2. Run `pnpm generate-index` again
 3. Check `data/reviews-index.json` - should have review objects
 4. Restart dev server
 
@@ -180,8 +181,8 @@ To add the remaining 200+ reviews from Google Docs:
 
 1. Set up Google Docs API (see README)
 2. Implement parsing logic in `scripts/fetch-from-gdocs.ts`
-3. Run `npm run fetch-gdocs`
-4. Run `npm run generate-index`
+3. Run `pnpm fetch-gdocs`
+4. Run `pnpm generate-index`
 
 ### Manual Review Addition
 
@@ -190,7 +191,7 @@ You can also add reviews manually:
 1. Create markdown file in `data/reviews/{contest-id}/`
 2. Add frontmatter (copy from existing review)
 3. Write content in markdown
-4. Run `npm run generate-index`
+4. Run `pnpm generate-index`
 5. Review appears immediately
 
 ## Performance Tips
@@ -199,8 +200,8 @@ You can also add reviews manually:
 
 Test production build locally:
 ```bash
-npm run build
-npm run start
+pnpm build
+pnpm start
 ```
 
 Should see:
@@ -212,7 +213,7 @@ Should see:
 
 After building:
 ```bash
-npm run build
+pnpm build
 ```
 
 Look for the route table showing sizes. All should be under 150KB First Load JS.
@@ -225,28 +226,28 @@ If you encounter issues:
 2. Review the README.md for detailed docs
 3. Check IMPLEMENTATION.md for technical details
 4. Ensure all dependencies are installed
-5. Try rebuilding: `rm -rf .next && npm run build`
+5. Try rebuilding: `rm -rf .next && pnpm build`
 
 ## Quick Command Reference
 
 ```bash
 # Development
-npm run dev              # Start dev server
-npm run build           # Build for production
-npm run start           # Run production build
+pnpm dev                # Start dev server
+pnpm build              # Build for production
+pnpm start              # Run production build
 
 # Content
-npm run fetch-acx       # Scrape ACX posts (10 min)
-npm run fetch-gdocs     # Extract from Google Docs (needs setup)
-npm run generate-index  # Generate index from .md files
+pnpm fetch-acx          # Scrape ACX posts (10 min)
+pnpm fetch-gdocs        # Extract from Google Docs (needs setup)
+pnpm generate-index     # Generate index from .md files
 
 # All-in-one
-npm run process-all     # Run all content scripts
+pnpm process-all        # Run all content scripts
 
 # Cleaning
-rm -rf .next           # Clear Next.js cache
-rm -rf node_modules    # Remove dependencies
-npm install            # Reinstall dependencies
+rm -rf .next            # Clear Next.js cache
+rm -rf node_modules     # Remove dependencies
+pnpm install            # Reinstall dependencies
 ```
 
 ## Success Checklist
