@@ -3,6 +3,14 @@ import { Source_Serif_4, Inter } from "next/font/google";
 import "./globals.css";
 import { ReadingProgressProvider } from "@/context/reading-progress-context";
 import { FavoritesProvider } from "@/context/favorites-context";
+import { VotesProvider } from "@/context/votes-context";
+import { AuthProvider } from "@/components/auth-provider";
+import { SignInPromptProvider } from "@/components/sign-in-prompt-provider";
+import { UserMenu } from "@/components/user-menu";
+import { VotingBanner } from "@/components/voting-banner";
+import { auth, isAuthConfigured } from "@/auth";
+import { isAdminEmail } from "@/lib/admin";
+import { loadInitialVotes, type InitialVotesState } from "@/lib/server/initial-votes";
 import Link from "next/link";
 import Script from "next/script";
 import { SITE_URL } from "@/lib/constants";
@@ -34,11 +42,32 @@ export const metadata: Metadata = {
   },
 };
 
-export default function RootLayout({
+export default async function RootLayout({
   children,
 }: Readonly<{
   children: React.ReactNode;
 }>) {
+  // Auth + DB calls are wrapped so the article-reading experience never
+  // breaks if those services are misconfigured or briefly unreachable.
+  let session = null;
+  let initialVotes: InitialVotesState = {
+    contestYear: null,
+    contestTitle: null,
+    votingStart: null,
+    votingEnd: null,
+    votedReviewIds: [],
+  };
+  try {
+    session = await auth();
+  } catch (err) {
+    console.error('[layout] auth() failed; rendering as signed-out:', err);
+  }
+  try {
+    initialVotes = await loadInitialVotes();
+  } catch (err) {
+    console.error('[layout] loadInitialVotes() failed; voting hidden:', err);
+  }
+  const isAdmin = isAdminEmail(session?.user?.email);
   return (
     <html lang="en" className={`${sourceSerif.variable} ${inter.variable}`}>
       <head>
@@ -56,9 +85,13 @@ export default function RootLayout({
         </Script>
       </head>
       <body className={`${inter.className} antialiased`}>
+        <AuthProvider>
+        <SignInPromptProvider>
         <ReadingProgressProvider>
         <FavoritesProvider>
+        <VotesProvider initial={initialVotes}>
           <div className="min-h-screen flex flex-col">
+            <VotingBanner />
             {/* Header */}
             <header className="border-b border-border bg-card">
               <div className="max-w-4xl mx-auto px-6 sm:px-8">
@@ -81,6 +114,7 @@ export default function RootLayout({
                     >
                       Astral Codex Ten
                     </a>
+                    <UserMenu isAdmin={isAdmin} authAvailable={isAuthConfigured} />
                   </nav>
                 </div>
               </div>
@@ -114,8 +148,11 @@ export default function RootLayout({
               </div>
             </footer>
           </div>
+        </VotesProvider>
         </FavoritesProvider>
         </ReadingProgressProvider>
+        </SignInPromptProvider>
+        </AuthProvider>
       </body>
     </html>
   );

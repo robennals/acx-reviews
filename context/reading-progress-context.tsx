@@ -1,9 +1,16 @@
 'use client';
 
-import React, { createContext, useContext, useState, useEffect, useCallback } from 'react';
+import React, { createContext, useContext, useState, useEffect, useCallback, useRef } from 'react';
 import { usePathname } from 'next/navigation';
+import { useSession } from 'next-auth/react';
 import { ReadingProgress } from '@/lib/types';
-import { getAllProgress } from '@/lib/reading-progress';
+import { getAllProgress, saveProgress } from '@/lib/reading-progress';
+import {
+  computeProgressDeltas,
+  mergeProgressIntoLocal,
+  type LocalProgressStatus,
+  type ServerProgressEntry,
+} from '@/lib/sync';
 
 interface ReadingProgressContextType {
   progressMap: Record<string, ReadingProgress>;
@@ -18,6 +25,8 @@ export function ReadingProgressProvider({ children }: { children: React.ReactNod
   const [progressMap, setProgressMap] = useState<Record<string, ReadingProgress>>({});
   const [isLoaded, setIsLoaded] = useState(false);
   const pathname = usePathname();
+  const { status } = useSession();
+  const isAuthed = status === 'authenticated';
 
   // Load all progress on mount and when route changes (SPA navigation)
   useEffect(() => {
@@ -29,7 +38,6 @@ export function ReadingProgressProvider({ children }: { children: React.ReactNod
 
     loadProgress();
 
-    // Refresh progress when localStorage changes in another tab
     const handleStorageChange = (e: StorageEvent) => {
       if (e.key === 'acx-reviews-progress') {
         loadProgress();
@@ -56,6 +64,62 @@ export function ReadingProgressProvider({ children }: { children: React.ReactNod
     },
     [progressMap]
   );
+
+  // --- Server sync ---
+  const lastPushedRef = useRef<Map<string, LocalProgressStatus>>(new Map());
+  const initialPullDoneRef = useRef(false);
+
+  // Initial pull on auth
+  useEffect(() => {
+    if (!isAuthed) {
+      lastPushedRef.current = new Map();
+      initialPullDoneRef.current = false;
+      return;
+    }
+    if (initialPullDoneRef.current) return;
+    let cancelled = false;
+    (async () => {
+      try {
+        const res = await fetch('/api/sync', { cache: 'no-store' });
+        if (!res.ok || cancelled) return;
+        const data = (await res.json()) as { progress?: ServerProgressEntry[] };
+        const serverEntries = data.progress ?? [];
+
+        const local = getAllProgress();
+        const merged = mergeProgressIntoLocal(local, serverEntries);
+        // Persist merged into localStorage so it sticks across reloads.
+        for (const [reviewId, p] of Object.entries(merged)) {
+          if (local[reviewId] !== p) saveProgress(reviewId, p);
+        }
+        if (cancelled) return;
+        setProgressMap(merged);
+
+        // Seed lastPushed with what server already knows; we'll push the rest next.
+        const seeded = new Map<string, LocalProgressStatus>();
+        for (const e of serverEntries) seeded.set(e.reviewId, e.status);
+        lastPushedRef.current = seeded;
+        initialPullDoneRef.current = true;
+      } catch {
+        // ignore
+      }
+    })();
+    return () => {
+      cancelled = true;
+    };
+  }, [isAuthed]);
+
+  // Push deltas whenever the local map changes (and we're authed + initial pull done)
+  useEffect(() => {
+    if (!isAuthed || !initialPullDoneRef.current) return;
+    const { deltas, nextLastPushed } = computeProgressDeltas(progressMap, lastPushedRef.current);
+    if (deltas.length === 0) return;
+    lastPushedRef.current = nextLastPushed;
+    fetch('/api/progress', {
+      method: 'POST',
+      headers: { 'content-type': 'application/json' },
+      body: JSON.stringify({ entries: deltas }),
+    }).catch(() => {});
+  }, [progressMap, isAuthed]);
 
   return (
     <ReadingProgressContext.Provider
