@@ -13,6 +13,7 @@
     "test:headed": "playwright test --headed",
     "test:unit": "tsx --test lib/*.test.ts lib/**/*.test.ts",
     "fetch-gdocs": "NODE_OPTIONS='--max-old-space-size=8192' tsx scripts/fetch-from-gdocs.ts",
+    "fetch-csv": "NODE_OPTIONS='--max-old-space-size=8192' tsx scripts/fetch-from-csv.ts",
     "fetch-acx": "tsx scripts/fetch-from-acx.ts",
     "generate-index": "tsx scripts/generate-index.ts",
     "process-all": "pnpm fetch-gdocs && pnpm fetch-acx && pnpm generate-index",
