@@ -45,8 +45,10 @@ async function userHasAccount(db: DB, userId: string): Promise<boolean> {
  * conflicts row by row. Then delete the victim user row.
  *
  * Conflict resolution per table:
- *   - votes / favorites: if survivor already has the same (contest, review)
- *     or (review) row, keep survivor's; drop victim's.
+ *   - votes: drop victim row if survivor already has the same (contest,
+ *     review) OR the same (contest, rank). Both are unique constraints.
+ *   - favorites: if survivor already has the same (review) row, keep
+ *     survivor's; drop victim's.
  *   - progress: if both exist for the same review, keep whichever has the
  *     higher-precedence status (finished > in_progress).
  *   - accounts: repoint userId. The (provider, providerAccountId) PK is
@@ -59,26 +61,26 @@ async function mergeVictimIntoSurvivor(
 ): Promise<void> {
   // VOTES
   const victimVotes = await db.select().from(votes).where(eq(votes.userId, victim.id));
+  const survivorVotes = await db.select().from(votes).where(eq(votes.userId, survivor.id));
+  const survivorReviewKeys = new Set(
+    survivorVotes.map((v) => `${v.contestId}::${v.reviewId}`)
+  );
+  const survivorRankKeys = new Set(
+    survivorVotes.map((v) => `${v.contestId}::${v.rank}`)
+  );
   for (const v of victimVotes) {
-    const existing = await db
-      .select()
-      .from(votes)
-      .where(
-        and(
-          eq(votes.userId, survivor.id),
-          eq(votes.contestId, v.contestId),
-          eq(votes.reviewId, v.reviewId)
-        )
-      )
-      .limit(1);
-    if (!existing[0]) {
-      await db.insert(votes).values({
-        userId: survivor.id,
-        contestId: v.contestId,
-        reviewId: v.reviewId,
-        createdAt: v.createdAt,
-      });
-    }
+    const reviewKey = `${v.contestId}::${v.reviewId}`;
+    const rankKey = `${v.contestId}::${v.rank}`;
+    if (survivorReviewKeys.has(reviewKey) || survivorRankKeys.has(rankKey)) continue;
+    await db.insert(votes).values({
+      userId: survivor.id,
+      contestId: v.contestId,
+      reviewId: v.reviewId,
+      rank: v.rank,
+      createdAt: v.createdAt,
+    });
+    survivorReviewKeys.add(reviewKey);
+    survivorRankKeys.add(rankKey);
   }
   await db.delete(votes).where(eq(votes.userId, victim.id));
 
