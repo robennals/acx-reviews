@@ -1,5 +1,5 @@
 import { sql } from 'drizzle-orm';
-import { sqliteTable, text, integer, primaryKey, index } from 'drizzle-orm/sqlite-core';
+import { sqliteTable, text, integer, primaryKey, index, uniqueIndex } from 'drizzle-orm/sqlite-core';
 
 // --- Auth.js standard tables (sqlite shape) ---
 
@@ -61,7 +61,9 @@ export const emailPins = sqliteTable('email_pins', {
   lastSentAt: integer('last_sent_at', { mode: 'timestamp_ms' }).notNull(),
 });
 
-// Approval votes — one row per (user, contest, review). Existence = upvote.
+// Ranked votes — one row per (user, contest, review). `rank` is 1-indexed
+// and contiguous within (user, contest). Top 10 ranks count toward voting;
+// rank 11+ is stored but excluded from admin views and CSV.
 export const votes = sqliteTable(
   'votes',
   {
@@ -70,13 +72,16 @@ export const votes = sqliteTable(
       .references(() => users.id, { onDelete: 'cascade' }),
     contestId: text('contest_id').notNull(),
     reviewId: text('review_id').notNull(),
+    rank: integer('rank').notNull(),
     createdAt: integer('created_at', { mode: 'timestamp_ms' })
       .notNull()
       .default(sql`(unixepoch() * 1000)`),
   },
   (t) => [
     primaryKey({ columns: [t.userId, t.contestId, t.reviewId] }),
+    uniqueIndex('votes_user_contest_rank_unique').on(t.userId, t.contestId, t.rank),
     index('votes_contest_review_idx').on(t.contestId, t.reviewId),
+    index('votes_contest_recency_idx').on(t.contestId, t.createdAt),
   ]
 );
 
