@@ -86,7 +86,7 @@ test('removeFrom: throws when missing', () => {
   assert.throws(() => removeFrom(['a', 'b'], 'x'), /not in/);
 });
 
-test('moveTo can produce a ballot longer than 10 (no internal cap)', () => {
+test('insertAt can produce a ballot longer than 10 (no internal cap)', () => {
   // 10-element ballot, target "before tail" with displaced element from later position.
   // The cap is enforced in the UI layer (picker hides rank > 10 targets), not here.
   const ten = ['a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j'];
