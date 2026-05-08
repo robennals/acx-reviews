@@ -53,18 +53,14 @@ export function RankingPopup({ open, onClose, review, reviewLookup }: Props) {
           className="fixed inset-x-0 bottom-0 sm:inset-auto sm:left-1/2 sm:top-1/2 sm:-translate-x-1/2 sm:-translate-y-1/2 sm:max-w-sm w-full bg-background border border-border sm:rounded-xl rounded-t-xl shadow-xl z-50 overflow-hidden"
           aria-describedby={undefined}
         >
-          <div className="px-4 py-3 border-b border-border flex items-center justify-between">
-            <Dialog.Title className="font-semibold text-sm">
-              {isEditing ? 'Edit ranking' : 'Rank this review'}
+          <div className="px-4 py-3 border-b border-border flex items-center gap-3">
+            <Dialog.Title className="flex-1 min-w-0 text-sm">
+              <span className="text-muted-foreground">Voting for: </span>
+              <span className="font-semibold truncate align-bottom inline-block max-w-full" title={review.title}>
+                {review.title}
+              </span>
             </Dialog.Title>
-            <Dialog.Close className="text-muted-foreground text-xl leading-none">×</Dialog.Close>
-          </div>
-
-          <div className="px-4 py-3 bg-amber-50 dark:bg-amber-950/20 border-b border-border">
-            <div className="text-[10px] uppercase tracking-wide text-muted-foreground">
-              {isEditing ? `Currently ranked · #${currentRank}` : 'Adding'}
-            </div>
-            <div className="font-medium text-sm mt-0.5">{review.title}</div>
+            <Dialog.Close className="text-muted-foreground text-xl leading-none shrink-0">×</Dialog.Close>
           </div>
 
           <div className="max-h-[60vh] overflow-y-auto">
