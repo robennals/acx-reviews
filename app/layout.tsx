@@ -53,9 +53,10 @@ export default async function RootLayout({
   let initialVotes: InitialVotesState = {
     contestYear: null,
     contestTitle: null,
+    contestId: null,
     votingStart: null,
     votingEnd: null,
-    votedReviewIds: [],
+    ballot: [],
   };
   try {
     session = await auth();
