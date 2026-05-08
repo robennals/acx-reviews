@@ -29,8 +29,15 @@ export function RankingPopup({ open, onClose, review, reviewLookup }: Props) {
     }));
   }, [ballot, reviewLookup, review.id]);
 
+  // Insert mode: trailing "Rank at #N+1" slot when below the cap.
   const showTrailingSlot =
     !isEditing && ballot.length < COUNTING_ZONE_SIZE;
+  // Edit mode: "Rank last" only when there's somewhere to move to (more than
+  // one entry and not already at the bottom). Omitted otherwise — when the
+  // ballot has a single entry, that entry is already #1 and there's nothing
+  // to do.
+  const showRankLastSlot =
+    isEditing && ballot.length > 1 && currentRank !== ballot.length;
 
   const handleSlot = (target: { beforeReviewId: string } | { atEnd: true }) => {
     const next = isEditing
@@ -134,6 +141,21 @@ export function RankingPopup({ open, onClose, review, reviewLookup }: Props) {
                 </span>
                 <span className="flex-1 text-sm font-semibold text-amber-700 dark:text-amber-400">
                   Rank at #{ballot.length + 1}
+                </span>
+              </button>
+            )}
+
+            {showRankLastSlot && (
+              <button
+                type="button"
+                className="w-full text-left px-4 py-2.5 flex items-center gap-2.5 bg-amber-50/60 dark:bg-amber-950/10 hover:bg-amber-100 dark:hover:bg-amber-900/30"
+                onClick={() => handleSlot({ atEnd: true })}
+              >
+                <span className="w-6 h-6 rounded-full border border-dashed border-amber-500 inline-flex items-center justify-center text-[11px] font-bold text-amber-600">
+                  {ballot.length}
+                </span>
+                <span className="flex-1 text-sm font-semibold text-amber-700 dark:text-amber-400">
+                  Rank last
                 </span>
               </button>
             )}
