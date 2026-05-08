@@ -129,7 +129,7 @@ export function RankingPopup({ open, onClose, review, reviewLookup }: Props) {
                   {ballot.length + 1}
                 </span>
                 <span className="flex-1 text-sm font-semibold text-amber-700 dark:text-amber-400">
-                  Rank at #{ballot.length + 1} (bottom of list)
+                  Rank at #{ballot.length + 1}
                 </span>
               </button>
             )}
