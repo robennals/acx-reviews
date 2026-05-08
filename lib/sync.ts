@@ -82,31 +82,6 @@ export function localProgressToServerEntries(
   return out;
 }
 
-/**
- * Optimistic toggle for a Set. Returns the next set and the previous state of
- * the id (so callers can roll back on failure without re-deriving it).
- */
-export function applyOptimisticToggle<T>(
-  set: Set<T>,
-  id: T
-): { next: Set<T>; wasPresent: boolean } {
-  const wasPresent = set.has(id);
-  const next = new Set(set);
-  if (wasPresent) next.delete(id);
-  else next.add(id);
-  return { next, wasPresent };
-}
-
-/**
- * Roll back a single id in a set to the given previous state.
- */
-export function rollbackToggle<T>(set: Set<T>, id: T, wasPresent: boolean): Set<T> {
-  const next = new Set(set);
-  if (wasPresent) next.add(id);
-  else next.delete(id);
-  return next;
-}
-
 export type LocalProgressStatus = ProgressStatus | 'unread';
 
 /**
