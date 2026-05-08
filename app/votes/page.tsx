@@ -32,15 +32,8 @@ export default async function MyVotesPage() {
   const activeContest = contests.find((c) => c.year === config.contestYear);
   if (!activeContest) redirect('/');
 
-  const rows = await db
-    .select({ reviewId: votes.reviewId, rank: votes.rank })
-    .from(votes)
-    .where(and(eq(votes.userId, userId), eq(votes.contestId, activeContest.id)))
-    .orderBy(asc(votes.rank));
-
   const reviews = await getReviewsByContest(activeContest.id);
   const reviewLookup = new Map(reviews.map((r) => [r.id, { title: r.title, slug: r.slug }]));
-  const initialBallot = rows.map((r) => r.reviewId);
 
   return (
     <div className="max-w-2xl mx-auto px-6 py-10">
@@ -52,7 +45,6 @@ export default async function MyVotesPage() {
       </p>
       <MyVotesClient
         contestId={activeContest.id}
-        initialBallot={initialBallot}
         reviewLookup={Object.fromEntries(reviewLookup)}
       />
     </div>

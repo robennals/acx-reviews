@@ -25,11 +25,12 @@ export async function GET(req: Request) {
   const rows = await getCsvRows(db, { contestId, reviewLookup: lookup });
   const csv = ballotsToCsv(rows);
 
+  const safeContestId = contestId.replace(/[^a-zA-Z0-9_-]/g, '');
   return new NextResponse(csv, {
     status: 200,
     headers: {
       'content-type': 'text/csv; charset=utf-8',
-      'content-disposition': `attachment; filename="${contestId}-ballots.csv"`,
+      'content-disposition': `attachment; filename="${safeContestId}-ballots.csv"`,
     },
   });
 }

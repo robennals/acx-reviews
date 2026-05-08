@@ -53,31 +53,45 @@ export function VotesProvider({
   const setBallot = useCallback(
     async (next: string[]) => {
       if (status !== 'authenticated' || !state.contestId) return state.ballot;
-      const prev = state.ballot;
+      // Apply optimistic update immediately so the UI is responsive.
       setState((s) => ({ ...s, ballot: next }));
 
-      const promise = (async () => {
-        try {
-          const res = await fetch('/api/votes/ballot', {
-            method: 'PUT',
-            headers: { 'content-type': 'application/json' },
-            body: JSON.stringify({ contestId: state.contestId, reviewIds: next }),
-          });
-          if (!res.ok) {
-            setState((s) => ({ ...s, ballot: prev }));
-            return prev;
+      // Serialize PUTs so responses can't clobber each other and rollbacks
+      // don't revert past a more recent optimistic update.
+      const wait = inflight.current ?? Promise.resolve();
+      const myTurn: Promise<string[]> = wait
+        .catch(() => undefined)
+        .then(async () => {
+          try {
+            const res = await fetch('/api/votes/ballot', {
+              method: 'PUT',
+              headers: { 'content-type': 'application/json' },
+              body: JSON.stringify({ contestId: state.contestId, reviewIds: next }),
+            });
+            if (!res.ok) {
+              // Failure: refetch the canonical state from the server is
+              // ideal, but with no GET endpoint we accept-state-as-displayed
+              // and let the user retry. Don't revert — that would race with
+              // any newer optimistic update queued behind us.
+              return next;
+            }
+            const data = (await res.json()) as { ballot: string[] };
+            // Only mirror the server's response if no newer write is queued.
+            // If `inflight.current === myTurn`, we are the most recent write
+            // and the server's confirmation is authoritative.
+            if (inflight.current === myTurn) {
+              setState((s) => ({ ...s, ballot: data.ballot }));
+            }
+            return data.ballot;
+          } catch {
+            return next;
           }
-          const data = (await res.json()) as { ballot: string[] };
-          setState((s) => ({ ...s, ballot: data.ballot }));
-          return data.ballot;
-        } finally {
-          inflight.current = null;
-        }
-      })();
-      inflight.current = promise;
-      return promise;
+        });
+
+      inflight.current = myTurn;
+      return myTurn;
     },
-    [state.ballot, state.contestId, status]
+    [state.contestId, status]
   );
 
   const rankOf = useCallback(

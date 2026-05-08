@@ -25,13 +25,12 @@ import { useVotesContext } from '@/context/votes-context';
 
 interface Props {
   contestId: string;
-  initialBallot: string[];
   reviewLookup: Record<string, { title: string; slug: string }>;
 }
 
-export function MyVotesClient({ initialBallot, reviewLookup }: Props) {
+export function MyVotesClient({ reviewLookup }: Props) {
   const { ballot, setBallot } = useVotesContext();
-  const order = ballot.length > 0 ? ballot : initialBallot;
+  const order = ballot;
   const [busy, setBusy] = useState(false);
 
   const sensors = useSensors(
