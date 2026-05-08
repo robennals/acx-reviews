@@ -1,8 +1,8 @@
 import { test, expect, type Page } from '@playwright/test';
 
-// End-to-end happy path covering: sign in -> vote on a 2025 review ->
-// see "Voted" state -> /admin shows the vote count. Uses the test-only
-// bypass auth provider enabled in playwright.config.ts.
+// End-to-end happy path covering: sign in -> rank a 2025 review -> see "#1"
+// state -> /admin shows the voter's ballot. Uses the test-only bypass auth
+// provider enabled in playwright.config.ts.
 
 const ADMIN_EMAIL = 'playwright-admin@example.invalid';
 
@@ -25,36 +25,65 @@ async function signInAs(page: Page, email: string) {
   await page.goto('/');
 }
 
-async function voteAndWait(page: Page) {
+async function waitForSession(page: Page) {
+  await expect(page.getByRole('button', { name: /Account menu/i })).toBeVisible();
+}
+
+/**
+ * Rank the review currently visible on the page at #1 via the ranking popup.
+ * Asserts the popup opens, then closes after the rank-at-#1 click.
+ */
+async function rankAtTopAndWait(page: Page) {
   // Make sure the session has hydrated client-side before clicking — otherwise
   // useSession() may still report 'loading' and the click opens the sign-in
-  // dialog instead of toggling.
-  await expect(page.getByRole('button', { name: /Account menu/i })).toBeVisible();
+  // dialog instead of the ranking popup.
+  await waitForSession(page);
   const voteButton = page.getByRole('button', { name: /Vote for this review/i });
   await expect(voteButton).toBeVisible();
+  await voteButton.click();
+
+  // The popup is a Radix dialog; "Rank this review" is the title (first add).
+  const dialog = page.getByRole('dialog');
+  await expect(dialog).toBeVisible();
+  await expect(dialog.getByText(/Rank this review|Edit ranking/)).toBeVisible();
+
   const [resp] = await Promise.all([
     page.waitForResponse(
-      (r) => r.url().includes('/api/votes/toggle') && r.request().method() === 'POST'
+      (r) => r.url().includes('/api/votes/ballot') && r.request().method() === 'PUT'
     ),
-    voteButton.click(),
+    // For an empty/short ballot the only slot is "Rank at #N (bottom of list)".
+    dialog.getByRole('button', { name: /Rank at #\d+/ }).click(),
   ]);
   expect(resp.status()).toBe(200);
+  // Popup closes after a successful rank.
+  await expect(dialog).toBeHidden();
 }
 
-async function unvoteAndWait(page: Page) {
-  await expect(page.getByRole('button', { name: /Account menu/i })).toBeVisible();
-  const votedButton = page.getByRole('button', { name: /^Voted$/ });
-  await expect(votedButton).toBeVisible();
+/**
+ * Open the popup on a review that is already on the ballot, then click
+ * "Remove from list".
+ */
+async function unrankAndWait(page: Page) {
+  await waitForSession(page);
+  const rankedButton = page.getByRole('button', { name: /^#\d+/ }).first();
+  await expect(rankedButton).toBeVisible();
+  await rankedButton.click();
+
+  const dialog = page.getByRole('dialog');
+  await expect(dialog).toBeVisible();
+  await expect(dialog.getByText(/Edit ranking/)).toBeVisible();
+
   const [resp] = await Promise.all([
     page.waitForResponse(
-      (r) => r.url().includes('/api/votes/toggle') && r.request().method() === 'POST'
+      (r) => r.url().includes('/api/votes/ballot') && r.request().method() === 'PUT'
     ),
-    votedButton.click(),
+    dialog.getByRole('button', { name: /Remove from list/i }).click(),
   ]);
   expect(resp.status()).toBe(200);
+  await expect(dialog).toBeHidden();
 }
 
-test('signed-in admin can vote and see it reflected in the admin tally', async ({ page }) => {
+test('signed-in admin can rank a review and see it reflected in the admin ballots view', async ({ page }) => {
   await signInAs(page, ADMIN_EMAIL);
   await expect(page.getByRole('button', { name: /Account menu/i })).toBeVisible();
 
@@ -66,34 +95,36 @@ test('signed-in admin can vote and see it reflected in the admin tally', async (
   await firstCard.locator('h3').first().click();
   await page.waitForURL(/\/reviews\//);
 
-  // Click vote and wait for the server toggle to settle.
-  await voteAndWait(page);
-  await expect(page.getByRole('button', { name: /^Voted$/ })).toBeVisible();
+  // Rank the review at #1 via the popup.
+  await rankAtTopAndWait(page);
+  await expect(page.getByRole('button', { name: /^#1/ })).toBeVisible();
 
-  // Visit /admin: with one vote in the system, our review is rank #1.
+  // Visit /admin: the ranked ballot for this voter should include this review.
   await page.goto('/admin?contest=2025-non-book-reviews');
-  await expect(page.getByRole('heading', { name: /Admin · Vote tally/i })).toBeVisible();
+  await expect(page.getByRole('heading', { name: /Admin · Ranked ballots/i })).toBeVisible();
+  // 1 voter, our row.
+  await expect(page.getByText(/^1 voters/i)).toBeVisible();
   const firstRow = page.locator('table tbody tr').first();
-  await expect(firstRow).toContainText(reviewTitle);
-  await expect(firstRow.locator('td').last()).toHaveText('1');
-  await expect(page.getByText(/1 vote across/)).toBeVisible();
+  await expect(firstRow).toContainText(ADMIN_EMAIL);
+  // The #1 cell holds the (clipped) title — assert the row links to the slug.
+  await expect(firstRow.locator('td').nth(1).locator('a')).toBeVisible();
 
-  // Unvote and verify the tally drops back to zero votes.
+  // Unrank and verify the admin view drops to zero voters.
   await page.goto('/?contest=2025-non-book-reviews');
   await page.locator('article').first().locator('h3').first().click();
   await page.waitForURL(/\/reviews\//);
-  await unvoteAndWait(page);
+  await unrankAndWait(page);
   await expect(page.getByRole('button', { name: /Vote for this review/i })).toBeVisible();
 
   await page.goto('/admin?contest=2025-non-book-reviews');
-  await expect(page.getByText(/0 votes across/)).toBeVisible();
+  await expect(page.getByText(/^0 voters/i)).toBeVisible();
 });
 
 test('signed-in non-admin cannot reach /admin', async ({ page }) => {
   await signInAs(page, 'just-a-user@example.invalid');
   await page.goto('/admin');
   await expect(page).toHaveURL('/');
-  await expect(page.getByRole('heading', { name: /Admin · Vote tally/i })).toHaveCount(0);
+  await expect(page.getByRole('heading', { name: /Admin · Ranked ballots/i })).toHaveCount(0);
 });
 
 test('admin link in user menu is visible only for admin users', async ({ page }) => {
@@ -121,15 +152,15 @@ test('signing in with Gmail dot variants or +tag lands in the same account', asy
   await page.goto('/?contest=2025-non-book-reviews');
   const slug = await page.locator('a[href^="/reviews/"]').first().getAttribute('href');
   await page.goto(slug!);
-  await voteAndWait(page);
-  await expect(page.getByRole('button', { name: /^Voted$/ })).toBeVisible();
+  await rankAtTopAndWait(page);
+  await expect(page.getByRole('button', { name: /^#1/ })).toBeVisible();
 
   // Re-sign-in as the canonical variant — this replaces the JWT cookie.
   // If normalization is correct, the server JWT carries the SAME user.id,
   // and the server-rendered initial-votes snapshot includes our vote.
   await signInAs(page, variantB);
   await page.goto(slug!);
-  await expect(page.getByRole('button', { name: /^Voted$/ })).toBeVisible();
+  await expect(page.getByRole('button', { name: /^#1/ })).toBeVisible();
 });
 
 test('voting persists across reload (server state, not just localStorage)', async ({ page }) => {
@@ -145,11 +176,11 @@ test('voting persists across reload (server state, not just localStorage)', asyn
   expect(slugLink).toMatch(/^\/reviews\//);
   await page.goto(slugLink!);
 
-  await voteAndWait(page);
-  await expect(page.getByRole('button', { name: /^Voted$/ })).toBeVisible();
+  await rankAtTopAndWait(page);
+  await expect(page.getByRole('button', { name: /^#1/ })).toBeVisible();
 
-  // Hard reload — local optimistic state is gone, the "Voted" pill must
-  // come back from the server-rendered initial-votes snapshot.
+  // Hard reload — local optimistic state is gone, the rank must come back from
+  // the server-rendered initial-votes snapshot.
   await page.reload();
-  await expect(page.getByRole('button', { name: /^Voted$/ })).toBeVisible();
+  await expect(page.getByRole('button', { name: /^#1/ })).toBeVisible();
 });
