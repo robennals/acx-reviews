@@ -64,13 +64,6 @@ export function RankingPopup({ open, onClose, review, reviewLookup }: Props) {
           </div>
 
           <div className="max-h-[60vh] overflow-y-auto">
-            {!isEditing && ballot.length === 0 && (
-              <div className="mx-4 my-3 px-3 py-2 rounded-md border border-amber-200 bg-amber-50/60 dark:border-amber-900/40 dark:bg-amber-950/20 text-xs text-amber-900 dark:text-amber-200 leading-relaxed">
-                This is your first vote. When you vote for multiple reviews,
-                you’ll be able to choose the order.
-              </div>
-            )}
-
             {ballot.length > 0 && (
               <div className="px-4 pt-3 pb-1 text-[10px] uppercase tracking-wide text-muted-foreground">
                 Place before
@@ -135,6 +128,13 @@ export function RankingPopup({ open, onClose, review, reviewLookup }: Props) {
                   Rank at #{ballot.length + 1}
                 </span>
               </button>
+            )}
+
+            {!isEditing && ballot.length === 0 && (
+              <div className="mx-4 my-3 px-3 py-2 rounded-md border border-amber-200 bg-amber-50/60 dark:border-amber-900/40 dark:bg-amber-950/20 text-xs text-amber-900 dark:text-amber-200 leading-relaxed">
+                This is your first vote. When you vote for multiple reviews,
+                you’ll be able to choose the order.
+              </div>
             )}
           </div>
 
