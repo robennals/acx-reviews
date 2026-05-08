@@ -1,7 +1,7 @@
 import { Metadata } from 'next';
 import { notFound } from 'next/navigation';
 import Link from 'next/link';
-import { getReviewBySlug, getAllReviews } from '@/lib/reviews';
+import { getReviewBySlug, getAllReviews, getReviewsByContest } from '@/lib/reviews';
 import { ReviewContent } from '@/components/review-content';
 import { ReadingProgressTracker } from '@/components/reading-progress-tracker';
 import { VoteButton } from '@/components/vote-button';
@@ -54,6 +54,9 @@ export default async function ReviewPage({ params }: ReviewPageProps) {
   if (!review) {
     notFound();
   }
+
+  const contestReviews = await getReviewsByContest(review.contestId);
+  const reviewLookup = new Map(contestReviews.map(r => [r.id, r.title]));
 
   const jsonLd = {
     '@context': 'https://schema.org',
@@ -139,9 +142,10 @@ export default async function ReviewPage({ params }: ReviewPageProps) {
         <div className="max-w-3xl mx-auto px-6 sm:px-8 py-12 lg:py-16">
           <ReviewContent contentHtml={review.contentHtml} footnotes={review.footnotes} />
           <VoteButton
-            reviewSlug={review.slug}
             reviewId={review.id}
+            reviewTitle={review.title}
             reviewYear={review.year}
+            reviewLookup={reviewLookup}
             variant="block"
           />
         </div>

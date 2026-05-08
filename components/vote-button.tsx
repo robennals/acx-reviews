@@ -1,26 +1,39 @@
 'use client';
 
+import { useState } from 'react';
 import { useSession } from 'next-auth/react';
 import { useVotesContext } from '@/context/votes-context';
 import { useSignInPrompt } from './sign-in-prompt-provider';
+import { RankingPopup } from './ranking-popup';
+import { COUNTING_ZONE_SIZE } from '@/lib/voting/ballot';
 
 interface Props {
-  reviewSlug: string;
   reviewId: string;
+  reviewTitle: string;
   reviewYear: number;
+  /** Map reviewId → title for the popup's other ballot entries. */
+  reviewLookup: Map<string, string>;
   variant?: 'inline' | 'block';
 }
 
-export function VoteButton({ reviewSlug, reviewId, reviewYear, variant = 'inline' }: Props) {
+export function VoteButton({
+  reviewId,
+  reviewTitle,
+  reviewYear,
+  reviewLookup,
+  variant = 'inline',
+}: Props) {
   const { status } = useSession();
-  const { contestYear, votedReviewIds, toggleVote, votingEnd } = useVotesContext();
+  const { contestYear, rankOf, votingEnd } = useVotesContext();
   const { openSignIn } = useSignInPrompt();
+  const [popupOpen, setPopupOpen] = useState(false);
 
-  // Hide entirely when no voting active or this review is from the wrong year.
   if (contestYear === null || contestYear !== reviewYear) return null;
 
   const isAuthed = status === 'authenticated';
-  const isVoted = isAuthed && votedReviewIds.has(reviewId);
+  const rank = isAuthed ? rankOf(reviewId) : null;
+  const isCounting = rank !== null && rank <= COUNTING_ZONE_SIZE;
+  const isBelowCap = rank !== null && rank > COUNTING_ZONE_SIZE;
 
   const handleClick = (e: React.MouseEvent) => {
     e.preventDefault();
@@ -29,47 +42,84 @@ export function VoteButton({ reviewSlug, reviewId, reviewYear, variant = 'inline
       openSignIn();
       return;
     }
-    toggleVote(reviewSlug, reviewId);
+    setPopupOpen(true);
   };
+
+  const label =
+    rank === null
+      ? variant === 'block'
+        ? 'Vote for this review'
+        : 'Vote'
+      : `#${rank}${isBelowCap ? " (won't count)" : ''}`;
 
   if (variant === 'block') {
     return (
-      <div className="flex flex-col items-center gap-2 py-6">
-        <button
-          onClick={handleClick}
-          className={`inline-flex items-center gap-2 px-5 py-2.5 rounded-full text-sm font-medium transition-colors border ${
-            isVoted
-              ? 'bg-amber-500 text-white border-amber-500 hover:bg-amber-600'
-              : 'bg-card text-foreground border-border hover:bg-muted'
-          }`}
-        >
-          <Star filled={isVoted} />
-          {isVoted ? 'Voted' : 'Vote for this review'}
-        </button>
-        {votingEnd && (
-          <p className="text-xs text-muted-foreground">
-            Voting closes {votingEnd.toLocaleDateString()}
-          </p>
+      <>
+        <div className="flex flex-col items-center gap-2 py-6">
+          <button
+            type="button"
+            onClick={handleClick}
+            className={`inline-flex items-center gap-2 px-5 py-2.5 rounded-full text-sm font-medium transition-colors border ${
+              isCounting
+                ? 'bg-amber-500 text-white border-amber-500 hover:bg-amber-600'
+                : isBelowCap
+                ? 'bg-amber-100 text-amber-800 border-amber-300'
+                : 'bg-card text-foreground border-border hover:bg-muted'
+            }`}
+            title={isBelowCap ? "Won't count toward voting" : undefined}
+          >
+            <Star filled={rank !== null} faded={isBelowCap} />
+            {label}
+          </button>
+          {votingEnd && (
+            <p className="text-xs text-muted-foreground">
+              Voting closes {votingEnd.toLocaleDateString()}
+            </p>
+          )}
+        </div>
+        {popupOpen && (
+          <RankingPopup
+            open={popupOpen}
+            onClose={() => setPopupOpen(false)}
+            review={{ id: reviewId, title: reviewTitle }}
+            reviewLookup={reviewLookup}
+          />
         )}
-      </div>
+      </>
     );
   }
 
   return (
-    <button
-      onClick={handleClick}
-      className={`inline-flex items-center gap-1 hover:text-foreground transition-colors ${
-        isVoted ? 'text-amber-500' : ''
-      }`}
-      aria-pressed={isVoted}
-    >
-      <Star filled={isVoted} small />
-      {isVoted ? 'Voted' : 'Vote'}
-    </button>
+    <>
+      <button
+        type="button"
+        onClick={handleClick}
+        className={`inline-flex items-center gap-1 hover:text-foreground transition-colors ${
+          isCounting ? 'text-amber-500' : isBelowCap ? 'text-amber-400/70' : ''
+        }`}
+        aria-pressed={rank !== null}
+        title={isBelowCap ? "Won't count toward voting" : undefined}
+      >
+        <Star filled={rank !== null} faded={isBelowCap} small />
+        {label}
+      </button>
+      {popupOpen && (
+        <RankingPopup
+          open={popupOpen}
+          onClose={() => setPopupOpen(false)}
+          review={{ id: reviewId, title: reviewTitle }}
+          reviewLookup={reviewLookup}
+        />
+      )}
+    </>
   );
 }
 
-function Star({ filled, small }: { filled: boolean; small?: boolean }) {
+function Star({
+  filled,
+  small,
+  faded,
+}: { filled: boolean; small?: boolean; faded?: boolean }) {
   const size = small ? 14 : 16;
   return (
     <svg
@@ -77,6 +127,7 @@ function Star({ filled, small }: { filled: boolean; small?: boolean }) {
       height={size}
       viewBox="0 0 24 24"
       fill={filled ? 'currentColor' : 'none'}
+      opacity={faded ? 0.6 : 1}
       stroke="currentColor"
       strokeWidth="2"
       strokeLinecap="round"
