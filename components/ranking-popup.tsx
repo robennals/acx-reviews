@@ -48,10 +48,18 @@ export function RankingPopup({ open, onClose, review, reviewLookup }: Props) {
   return (
     <Dialog.Root open={open} onOpenChange={(v) => !v && onClose()}>
       <Dialog.Portal>
-        <Dialog.Overlay className="fixed inset-0 bg-black/40 z-40" />
+        {/* Stop propagation: React portals bubble synthetic events through the
+            React tree, so without this a click on the overlay or close button
+            would reach an ancestor <Link> (e.g. the home-page card) and
+            navigate. Combined with stopping on Content for clicks inside. */}
+        <Dialog.Overlay
+          className="fixed inset-0 bg-black/40 z-40"
+          onClick={(e) => e.stopPropagation()}
+        />
         <Dialog.Content
           className="fixed inset-x-0 bottom-0 sm:inset-auto sm:left-1/2 sm:top-1/2 sm:-translate-x-1/2 sm:-translate-y-1/2 sm:max-w-sm w-full bg-background border border-border sm:rounded-xl rounded-t-xl shadow-xl z-50 overflow-hidden"
           aria-describedby={undefined}
+          onClick={(e) => e.stopPropagation()}
         >
           <div className="px-4 py-3 border-b border-border flex items-center gap-3">
             <Dialog.Title className="flex-1 min-w-0 text-sm">
