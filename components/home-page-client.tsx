@@ -12,14 +12,41 @@ import { markAsRead, markAsUnread } from '@/lib/reading-progress';
 import { VoteButton } from '@/components/vote-button';
 
 type StatusFilter = 'all' | 'unread' | 'read' | 'in-progress' | 'favorites' | 'voted';
+type SortOrder = 'random' | 'alpha';
 
 const VALID_STATUS: StatusFilter[] = ['all', 'unread', 'read', 'in-progress', 'favorites', 'voted'];
+const VALID_SORT: SortOrder[] = ['random', 'alpha'];
+const RANDOM_SEED_KEY = 'acx-reviews:random-seed';
+
+// FNV-1a 32-bit. Used to deterministically order reviews by hash(reviewId + seed)
+// so the random order is stable across reloads when the seed is the same.
+function hashStringToNumber(s: string): number {
+  let h = 2166136261;
+  for (let i = 0; i < s.length; i++) {
+    h ^= s.charCodeAt(i);
+    h = Math.imul(h, 16777619);
+  }
+  return h >>> 0;
+}
+
+function generateRandomSeed(): string {
+  const bytes = new Uint8Array(16);
+  crypto.getRandomValues(bytes);
+  return Array.from(bytes, b => b.toString(16).padStart(2, '0')).join('');
+}
+
+// Sort key for alphabetical order. Strips leading straight/curly quotes and
+// guillemets so '"Earth" in Review' sorts under E, not punctuation.
+function alphaSortKey(title: string): string {
+  return title.replace(/^[\s"'“”‘’«»]+/, '');
+}
 
 interface FilterState {
   contestId: string | null;
   tag: string | null;
   query: string;
   status: StatusFilter;
+  sort: SortOrder;
   page: number;
 }
 
@@ -27,6 +54,8 @@ function parseUrlFilters(search: string): FilterState {
   const params = new URLSearchParams(search);
   const rawStatus = params.get('status');
   const status = (VALID_STATUS as string[]).includes(rawStatus ?? '') ? (rawStatus as StatusFilter) : 'all';
+  const rawSort = params.get('sort');
+  const sort = (VALID_SORT as string[]).includes(rawSort ?? '') ? (rawSort as SortOrder) : 'random';
   const rawPage = Number(params.get('page'));
   const page = Number.isFinite(rawPage) && rawPage > 0 ? rawPage : 1;
   return {
@@ -34,6 +63,7 @@ function parseUrlFilters(search: string): FilterState {
     tag: params.get('tag'),
     query: params.get('q') ?? '',
     status,
+    sort,
     page,
   };
 }
@@ -44,6 +74,7 @@ function buildFilterUrl(next: FilterState): string {
   if (next.tag) params.set('tag', next.tag);
   if (next.query) params.set('q', next.query);
   if (next.status !== 'all') params.set('status', next.status);
+  if (next.sort !== 'random') params.set('sort', next.sort);
   if (next.page > 1) params.set('page', String(next.page));
   const qs = params.toString();
   return qs ? `${window.location.pathname}?${qs}` : window.location.pathname;
@@ -62,7 +93,12 @@ export function HomePageClient({ reviews, contests, tags }: HomePageClientProps)
   const [selectedTag, setSelectedTag] = useState<string | null>(null);
   const [searchQuery, setSearchQuery] = useState('');
   const [statusFilter, setStatusFilter] = useState<StatusFilter>('all');
+  const [sortOrder, setSortOrder] = useState<SortOrder>('random');
   const [currentPage, setCurrentPage] = useState(1);
+  // Empty string until the seed loads on mount. SSR/initial-hydration render
+  // with seed='' produces a deterministic but unshuffled-ish order; the real
+  // seed lands a tick later via useEffect, triggering a re-sort.
+  const [randomSeed, setRandomSeed] = useState<string>('');
   const { progressMap, refreshProgress } = useReadingProgressContext();
   const { favoritesSet, toggleFavorite } = useFavoritesContext();
   const { rankOf, contestYear } = useVotesContext();
@@ -81,11 +117,21 @@ export function HomePageClient({ reviews, contests, tags }: HomePageClientProps)
       setSelectedTag(f.tag);
       setSearchQuery(f.query);
       setStatusFilter(f.status);
+      setSortOrder(f.sort);
       setCurrentPage(f.page);
     };
     applyFromUrl();
     window.addEventListener('popstate', applyFromUrl);
     return () => window.removeEventListener('popstate', applyFromUrl);
+  }, []);
+
+  useEffect(() => {
+    let seed = localStorage.getItem(RANDOM_SEED_KEY);
+    if (!seed) {
+      seed = generateRandomSeed();
+      localStorage.setItem(RANDOM_SEED_KEY, seed);
+    }
+    setRandomSeed(seed);
   }, []);
 
   const applyChanges = useCallback((changes: Partial<FilterState>) => {
@@ -94,15 +140,17 @@ export function HomePageClient({ reviews, contests, tags }: HomePageClientProps)
       tag: 'tag' in changes ? changes.tag! : selectedTag,
       query: changes.query ?? searchQuery,
       status: changes.status ?? statusFilter,
+      sort: changes.sort ?? sortOrder,
       page: changes.page ?? currentPage,
     };
     setSelectedContestId(next.contestId);
     setSelectedTag(next.tag);
     setSearchQuery(next.query);
     setStatusFilter(next.status);
+    setSortOrder(next.sort);
     setCurrentPage(next.page);
     window.history.replaceState(null, '', buildFilterUrl(next));
-  }, [selectedContestId, selectedTag, searchQuery, statusFilter, currentPage]);
+  }, [selectedContestId, selectedTag, searchQuery, statusFilter, sortOrder, currentPage]);
 
   const handleToggleRead = useCallback((reviewId: string) => {
     const progress = progressMap[reviewId];
@@ -149,14 +197,24 @@ export function HomePageClient({ reviews, contests, tags }: HomePageClientProps)
     return result;
   }, [reviews, selectedContestId, selectedTag, searchQuery, statusFilter, progressMap, favoritesSet, rankOf]);
 
-  const handleRandom = useCallback(() => {
-    if (filteredReviews.length === 0) return;
-    const pick = filteredReviews[Math.floor(Math.random() * filteredReviews.length)];
-    router.push(`/reviews/${pick.slug}`);
-  }, [filteredReviews, router]);
+  const sortedReviews = useMemo(() => {
+    const arr = [...filteredReviews];
+    if (sortOrder === 'alpha') {
+      arr.sort((a, b) => alphaSortKey(a.title).localeCompare(alphaSortKey(b.title), undefined, { sensitivity: 'base' }));
+    } else {
+      arr.sort((a, b) => hashStringToNumber(a.id + randomSeed) - hashStringToNumber(b.id + randomSeed));
+    }
+    return arr;
+  }, [filteredReviews, sortOrder, randomSeed]);
 
-  const totalPages = Math.max(1, Math.ceil(filteredReviews.length / REVIEWS_PER_PAGE));
-  const paginatedReviews = filteredReviews.slice(
+  const handleRandom = useCallback(() => {
+    if (sortedReviews.length === 0) return;
+    const pick = sortedReviews[Math.floor(Math.random() * sortedReviews.length)];
+    router.push(`/reviews/${pick.slug}`);
+  }, [sortedReviews, router]);
+
+  const totalPages = Math.max(1, Math.ceil(sortedReviews.length / REVIEWS_PER_PAGE));
+  const paginatedReviews = sortedReviews.slice(
     (currentPage - 1) * REVIEWS_PER_PAGE,
     currentPage * REVIEWS_PER_PAGE
   );
@@ -274,6 +332,16 @@ export function HomePageClient({ reviews, contests, tags }: HomePageClientProps)
             onSelect={(id) => applyChanges({ status: (id || 'all') as StatusFilter, page: 1 })}
             isFiltered={statusFilter !== 'all'}
           />
+          <FilterDropdown
+            label="Order"
+            value={sortOrder === 'random' ? 'Random' : 'Alphabetical'}
+            options={[
+              { id: 'random', label: 'Random' },
+              { id: 'alpha', label: 'Alphabetical' },
+            ]}
+            onSelect={(id) => applyChanges({ sort: (id || 'random') as SortOrder, page: 1 })}
+            isFiltered={sortOrder !== 'random'}
+          />
           <button
             onClick={handleRandom}
             disabled={filteredReviews.length === 0}
@@ -283,7 +351,7 @@ export function HomePageClient({ reviews, contests, tags }: HomePageClientProps)
             <svg className="w-3.5 h-3.5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
               <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M16 3h5v5M4 20L21 3M21 16v5h-5M15 15l6 6M4 4l5 5" />
             </svg>
-            <span>Random</span>
+            <span>Surprise me</span>
           </button>
         </div>
       </div>
