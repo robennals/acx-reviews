@@ -50,6 +50,48 @@ test('createExcerpt preserves the blank line that separates an intro paragraph f
   );
 });
 
+test('createExcerpt skips a leading image-only paragraph', () => {
+  const content = [
+    '![](https://acximages.ennals.org/images/2024-book-reviews/942c2c31112b8103.png)',
+    '',
+    'A Canticle for Leibowitz is a 1959 post-apocalyptic novel that follows a Catholic monastic order across centuries as they preserve fragments of pre-war scientific knowledge.',
+  ].join('\n');
+
+  const excerpt = createExcerpt(content);
+
+  assert.ok(
+    !excerpt.includes('!['),
+    `excerpt should not contain markdown image syntax but got: ${excerpt}`
+  );
+  assert.ok(
+    !excerpt.includes('http'),
+    `excerpt should not contain the image URL but got: ${excerpt}`
+  );
+  assert.ok(
+    excerpt.startsWith('A Canticle'),
+    `excerpt should start with the prose paragraph but got: ${excerpt}`
+  );
+});
+
+test('createExcerpt strips an inline image but keeps the surrounding paragraph text', () => {
+  const content = 'Before the deluge, ![cover](https://example.com/cover.png) the monks of the order preserved fragments of pre-war scientific knowledge across the centuries.';
+
+  const excerpt = createExcerpt(content);
+
+  assert.ok(
+    !excerpt.includes('!['),
+    `excerpt should not contain markdown image syntax but got: ${excerpt}`
+  );
+  assert.ok(
+    !excerpt.includes('example.com'),
+    `excerpt should not contain the image URL but got: ${excerpt}`
+  );
+  assert.ok(
+    excerpt.includes('Before the deluge') && excerpt.includes('the monks'),
+    `excerpt should preserve text on either side of the image but got: ${excerpt}`
+  );
+});
+
 test('createExcerpt preserves greater-than characters that appear mid-line', () => {
   const content = 'In math, 5 > 3 is a true statement and this paragraph is plenty long enough to be picked as the excerpt.';
 
