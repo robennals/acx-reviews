@@ -6,9 +6,15 @@ import { useVotesContext } from '@/context/votes-context';
 
 export function VotingBanner({ year }: { year?: number }) {
   const { status } = useSession();
-  const { contestYear, contestTitle, votingEnd, countingCount } = useVotesContext();
+  const { contestYear, contestTitle, votingStart, votingEnd, countingCount } =
+    useVotesContext();
   if (contestYear === null) return null;
   if (year !== undefined && contestYear !== year) return null;
+  // Hide once voting has actually closed (or before it opens), regardless
+  // of whether the env config is still present.
+  const now = Date.now();
+  if (votingStart && now < votingStart.getTime()) return null;
+  if (votingEnd && now >= votingEnd.getTime()) return null;
 
   const n = countingCount();
   const isAuthed = status === 'authenticated';

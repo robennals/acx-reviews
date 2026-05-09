@@ -24,11 +24,17 @@ export function VoteButton({
   variant = 'inline',
 }: Props) {
   const { status } = useSession();
-  const { contestYear, rankOf, votingEnd } = useVotesContext();
+  const { contestYear, rankOf, votingStart, votingEnd } = useVotesContext();
   const { openSignIn } = useSignInPrompt();
   const [popupOpen, setPopupOpen] = useState(false);
 
   if (contestYear === null || contestYear !== reviewYear) return null;
+  // Also gate on the actual date window so the UI doesn't silently let
+  // users "vote" after the period closes (server returns 403 voting_closed
+  // and the optimistic update doesn't roll back).
+  const now = Date.now();
+  if (votingStart && now < votingStart.getTime()) return null;
+  if (votingEnd && now >= votingEnd.getTime()) return null;
 
   const isAuthed = status === 'authenticated';
   const rank = isAuthed ? rankOf(reviewId) : null;
