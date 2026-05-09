@@ -11,6 +11,7 @@ import {
   type LocalProgressStatus,
   type ServerProgressEntry,
 } from '@/lib/sync';
+import { useToast } from '@/context/toast-context';
 
 interface ReadingProgressContextType {
   progressMap: Record<string, ReadingProgress>;
@@ -26,6 +27,7 @@ export function ReadingProgressProvider({ children }: { children: React.ReactNod
   const [isLoaded, setIsLoaded] = useState(false);
   const pathname = usePathname();
   const { status } = useSession();
+  const { show: toast } = useToast();
   const isAuthed = status === 'authenticated';
 
   // Load all progress on mount and when route changes (SPA navigation)
@@ -118,8 +120,14 @@ export function ReadingProgressProvider({ children }: { children: React.ReactNod
       method: 'POST',
       headers: { 'content-type': 'application/json' },
       body: JSON.stringify({ entries: deltas }),
-    }).catch(() => {});
-  }, [progressMap, isAuthed]);
+    })
+      .then((r) => {
+        if (!r.ok) toast(`Couldn’t sync reading progress (error ${r.status}).`, 'error');
+      })
+      .catch(() => {
+        toast("Couldn’t sync reading progress — network error.", 'error');
+      });
+  }, [progressMap, isAuthed, toast]);
 
   return (
     <ReadingProgressContext.Provider

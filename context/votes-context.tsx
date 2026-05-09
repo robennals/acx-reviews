@@ -11,6 +11,7 @@ import {
 import { useSession } from 'next-auth/react';
 import type { InitialVotesState } from '@/lib/server/initial-votes';
 import { COUNTING_ZONE_SIZE } from '@/lib/voting/ballot';
+import { useToast } from '@/context/toast-context';
 
 interface VotesState {
   ballot: string[];
@@ -40,6 +41,7 @@ export function VotesProvider({
   children: ReactNode;
 }) {
   const { status } = useSession();
+  const { show: toast } = useToast();
   const [state, setState] = useState<VotesState>(() => ({
     ballot: initial.ballot,
     contestYear: initial.contestYear,
@@ -69,21 +71,26 @@ export function VotesProvider({
               body: JSON.stringify({ contestId: state.contestId, reviewIds: next }),
             });
             if (!res.ok) {
-              // Failure: refetch the canonical state from the server is
-              // ideal, but with no GET endpoint we accept-state-as-displayed
-              // and let the user retry. Don't revert — that would race with
-              // any newer optimistic update queued behind us.
+              let reason = `error ${res.status}`;
+              try {
+                const body = (await res.json()) as { error?: string };
+                if (body?.error) reason = body.error.replace(/_/g, ' ');
+              } catch {
+                /* response had no JSON body */
+              }
+              toast(`Couldn’t save your vote: ${reason}`, 'error');
+              // Don't revert — that would race with any newer optimistic
+              // update queued behind us. The toast tells the user.
               return next;
             }
             const data = (await res.json()) as { ballot: string[] };
             // Only mirror the server's response if no newer write is queued.
-            // If `inflight.current === myTurn`, we are the most recent write
-            // and the server's confirmation is authoritative.
             if (inflight.current === myTurn) {
               setState((s) => ({ ...s, ballot: data.ballot }));
             }
             return data.ballot;
           } catch {
+            toast("Couldn’t save your vote — network error.", 'error');
             return next;
           }
         });
@@ -91,7 +98,7 @@ export function VotesProvider({
       inflight.current = myTurn;
       return myTurn;
     },
-    [state.contestId, status]
+    [state.contestId, status, toast]
   );
 
   const rankOf = useCallback(

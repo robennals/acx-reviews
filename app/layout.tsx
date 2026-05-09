@@ -4,6 +4,7 @@ import "./globals.css";
 import { ReadingProgressProvider } from "@/context/reading-progress-context";
 import { FavoritesProvider } from "@/context/favorites-context";
 import { VotesProvider } from "@/context/votes-context";
+import { ToastProvider } from "@/context/toast-context";
 import { AuthProvider } from "@/components/auth-provider";
 import { SignInPromptProvider } from "@/components/sign-in-prompt-provider";
 import { UserMenu } from "@/components/user-menu";
@@ -87,6 +88,7 @@ export default async function RootLayout({
       </head>
       <body className={`${inter.className} antialiased`}>
         <AuthProvider>
+        <ToastProvider>
         <SignInPromptProvider>
         <ReadingProgressProvider>
         <FavoritesProvider>
@@ -153,6 +155,7 @@ export default async function RootLayout({
         </FavoritesProvider>
         </ReadingProgressProvider>
         </SignInPromptProvider>
+        </ToastProvider>
         </AuthProvider>
       </body>
     </html>
