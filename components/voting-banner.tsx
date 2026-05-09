@@ -20,12 +20,12 @@ export function VotingBanner({ year }: { year?: number }) {
           Voting is open for the <strong>{contestTitle}</strong>. Rank up to 10 reviews.
         </span>
         <span className="flex items-center gap-3">
-          {isAuthed && (
+          {isAuthed && n > 0 && (
             <Link
               href="/votes"
               className="text-amber-800 underline hover:text-amber-900 font-medium"
             >
-              My votes ({n}) →
+              My votes
             </Link>
           )}
           {votingEnd && (
