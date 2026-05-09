@@ -8,6 +8,7 @@ import {
   addFavorite as addFavoriteInStorage,
 } from '@/lib/favorites';
 import { computeFavoritesSyncOps } from '@/lib/sync';
+import { useToast } from '@/context/toast-context';
 
 interface FavoritesContextType {
   favoritesSet: Set<string>;
@@ -20,6 +21,7 @@ const FavoritesContext = createContext<FavoritesContextType | undefined>(undefin
 export function FavoritesProvider({ children }: { children: React.ReactNode }) {
   const [favoritesSet, setFavoritesSet] = useState<Set<string>>(new Set());
   const { status } = useSession();
+  const { show: toast } = useToast();
   const isAuthed = status === 'authenticated';
 
   useEffect(() => {
@@ -60,7 +62,13 @@ export function FavoritesProvider({ children }: { children: React.ReactNode }) {
             method: 'POST',
             headers: { 'content-type': 'application/json' },
             body: JSON.stringify({ reviewId: id }),
-          }).catch(() => {});
+          })
+            .then((r) => {
+              if (!r.ok) toast(`Couldn’t sync a favorite (error ${r.status}).`, 'error');
+            })
+            .catch(() => {
+              toast("Couldn’t sync a favorite — network error.", 'error');
+            });
         }
         // Reflect server-only adds locally.
         for (const id of server) addFavoriteInStorage(id);
@@ -72,7 +80,7 @@ export function FavoritesProvider({ children }: { children: React.ReactNode }) {
     return () => {
       cancelled = true;
     };
-  }, [isAuthed]);
+  }, [isAuthed, toast]);
 
   const toggleFavorite = useCallback(
     (reviewId: string) => {
@@ -83,10 +91,16 @@ export function FavoritesProvider({ children }: { children: React.ReactNode }) {
           method: 'POST',
           headers: { 'content-type': 'application/json' },
           body: JSON.stringify({ reviewId }),
-        }).catch(() => {});
+        })
+          .then((r) => {
+            if (!r.ok) toast(`Couldn’t save favorite (error ${r.status}).`, 'error');
+          })
+          .catch(() => {
+            toast("Couldn’t save favorite — network error.", 'error');
+          });
       }
     },
-    [isAuthed]
+    [isAuthed, toast]
   );
 
   const isFavorite = useCallback(

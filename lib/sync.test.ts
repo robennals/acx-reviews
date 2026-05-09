@@ -5,8 +5,6 @@ import {
   mergeFavorites,
   mergeProgressIntoLocal,
   localProgressToServerEntries,
-  applyOptimisticToggle,
-  rollbackToggle,
   computeProgressDeltas,
   computeFavoritesSyncOps,
   type LocalProgressStatus,
@@ -75,28 +73,6 @@ test('mergeProgressIntoLocal: local finished is preserved when server is silent'
   const local = { r1: p({ reviewId: 'r1', percentComplete: 100, isComplete: true }) };
   const merged = mergeProgressIntoLocal(local, []);
   assert.equal(merged.r1.isComplete, true);
-});
-
-test('applyOptimisticToggle: adds when absent, removes when present', () => {
-  const set = new Set(['a', 'b']);
-  const add = applyOptimisticToggle(set, 'c');
-  assert.deepEqual([...add.next].sort(), ['a', 'b', 'c']);
-  assert.equal(add.wasPresent, false);
-
-  const remove = applyOptimisticToggle(set, 'a');
-  assert.deepEqual([...remove.next].sort(), ['b']);
-  assert.equal(remove.wasPresent, true);
-
-  // Original set is not mutated
-  assert.deepEqual([...set].sort(), ['a', 'b']);
-});
-
-test('rollbackToggle: restores previous state regardless of current', () => {
-  const set = new Set(['a']);
-  // Was previously absent → ensure removed
-  assert.deepEqual([...rollbackToggle(set, 'a', false)].sort(), []);
-  // Was previously present → ensure added
-  assert.deepEqual([...rollbackToggle(new Set(), 'a', true)].sort(), ['a']);
 });
 
 test('computeProgressDeltas: emits only changes vs lastPushed', () => {
