@@ -89,7 +89,6 @@ export interface CsvRow {
   rank: number;
   reviewTitle: string;
   reviewSlug: string;
-  reviewId: string;
 }
 
 /**
@@ -113,12 +112,14 @@ export async function getCsvRows(
 
   return rows.map((r) => {
     const meta = opts.reviewLookup.get(r.reviewId);
+    // Fallback: stored reviewId is the slug in our current data model, so
+    // it's still useful even when the lookup misses (orphan vote rows from
+    // a contest whose review files were renamed/deleted).
     return {
       email: r.email,
       rank: r.rank,
       reviewTitle: meta?.title ?? r.reviewId,
-      reviewSlug: meta?.slug ?? '',
-      reviewId: r.reviewId,
+      reviewSlug: meta?.slug ?? r.reviewId,
     };
   });
 }

@@ -70,6 +70,8 @@ test('getCsvRows: includes all top-10 entries, sorted by email then rank', async
   assert.equal(rows[0].reviewTitle, 'Review 1');
   assert.equal(rows[2].email, 'oldest@x.co');
   assert.equal(rows[2].reviewTitle, 'Review 1');
-  // r2 not in lookup → falls back to id as title
+  // r2 not in lookup → both title and slug fall back to the stored reviewId
   assert.equal(rows[3].reviewTitle, 'r2');
+  assert.equal(rows[3].reviewSlug, 'r2');
+  assert.equal(rows[0].reviewSlug, 'review-1');
 });

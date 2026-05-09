@@ -3,10 +3,9 @@ export interface CsvRow {
   rank: number;
   reviewTitle: string;
   reviewSlug: string;
-  reviewId: string;
 }
 
-const HEADER = 'voter_email,rank,review_title,review_slug,review_id';
+const HEADER = 'voter_email,rank,review_title,review_slug';
 
 function escapeField(s: string): string {
   if (/[",\n\r]/.test(s)) {
@@ -29,7 +28,6 @@ export function ballotsToCsv(rows: CsvRow[]): string {
         String(r.rank),
         escapeField(r.reviewTitle),
         escapeField(r.reviewSlug),
-        escapeField(r.reviewId),
       ].join(',')
     );
   }
