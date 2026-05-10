@@ -1,21 +1,25 @@
 ---
-title: The Family That Couldn’t Sleep by D. T. Max
-author: Unknown
-reviewAuthor: Anonymous
-contestId: 2024-book-reviews
-contestName: 2024 Book Reviews
+title: "The Family That Couldn't Sleep"
+author: "Unknown"
+reviewAuthor: "Anonymous"
+contestId: "2024-book-reviews"
+contestName: "2024 Book Reviews"
 year: 2024
-publishedDate: '2026-02-06T16:49:14.007Z'
-slug: the-family-that-couldnt-sleep-by-d-t-max
-wordCount: 9708
-readingTimeMinutes: 44
-originalUrl: >-
-  https://docs.google.com/document/d/14qa47TJ_Vyerx4XNgTCIh7PUZ_TOgNcU_eHm5So_zo0
-source: gdoc
+publishedDate: "2026-05-10T03:23:34.919Z"
+slug: "the-family-that-couldnt-sleep"
+wordCount: 10253
+readingTimeMinutes: 46
+originalUrl: "https://www.astralcodexten.com/p/your-book-review-the-family-that"
+source: "acx"
 tags:
+  - History
   - Science
-  - Biology
+  - Society
 ---
+
+[_This is one of the finalists in the 2024 book review contest, written by an ACX reader who will remain anonymous until after voting is done. I’ll be posting about one of these a week for several months. When you’ve read them all, I’ll ask you to vote for a favorite, so remember which ones you liked_]
+
+* * *
 
 _“You wake up screaming, frightened by memories,_
 
@@ -23,7 +27,7 @@ _You’re plagued by nightmares, do we haunt all of your dreams?”_
 
 _The Family That Couldn’t Sleep_ by D. T. Max was published in late 2006. This glues it to a very particular era. A spectre was haunting Europe – the spectre of mad cow disease. Something was tearing through Britain’s cows, turning them inside out, eating their brains and thrashing their souls. It had been doing so since, DTM thinks, “the late 1970s”. When we look back in retrospect and think about a timeline like this, knowing everything we know, you can’t help but feel a shiver down your spine.
 
-By 2006, some few hundred people had developed _variant Creutzfeldt-Jakob disease_, colloquially “mad cow disease”. They were almost all young adults in the United Kingdom.  The disease was a nightmare – healthy young people succumbing to a terrifying dementia, caused by naught but a beef dinner they had enjoyed years ago. Few diseases were more horrific. Even the worst neurodegenerative disorders rarely struck people so young. The fact it was caused by – and covered up by – the cattle industry made it all the worse.
+By 2006, some few hundred people had developed _variant Creutzfeldt-Jakob disease_, colloquially “mad cow disease”. They were almost all young adults in the United Kingdom.  The disease was a nightmare – healthy young people succumbing to a terrifying dementia, caused by naught but a beef dinner they had enjoyed years ago. Few diseases were more horrific. Even the worst neurodegenerative disorders rarely struck people so young. The fact it was caused by – and covered up by – the cattle industry made it all the worse.
 
 The numbers were down by this point; the fear of a mad cow pandemic seemed to flicker, then die. The dust was settling, as it were, and it was just now possible to write a history. Simultaneously, it was still in the spotlight. Prion diseases gripped people’s souls with fear. You couldn’t sell a book about mad cow so well ten years later; people were much less scared of it. “That thing people were panicking about in 1999? Wasn’t it a nothingburger?”
 
@@ -43,17 +47,17 @@ The first part of the book is DTM’s pseudobiography of this doctor, and it pre
 
 The disease would wear on inexorably, no matter what he tried. He would find himself trapped in illucid places between waking and sleeping, never quite dreaming, never quite _not_ dreaming. His fever would never abate, but it would gyrate – the fevers typical of the disease, we know, are marked not by consistent high temperatures but by impossible fluctuations, jumping rapidly between every possible extreme. Even today, they look like measurement errors.
 
-When he died, no one would know what to call it. They didn’t know what to call it in his nephew,[[3]](#ftnt3) or in any of his nephew’s children or grandchildren. As the disease spread across generations, it took upon thousands of names – every wasting disease, infection, or psychosis you could find. It wasn’t exceptionally good for the family’s prospects; the repeated deaths of able-bodied adults made the family poorer, and neighbours refused to marry into the “mad” bloodline.
+When he died, no one would know what to call it. They didn’t know what to call it in his nephew[1](#footnote-1), or in any of his nephew’s children or grandchildren. As the disease spread across generations, it took upon thousands of names – every wasting disease, infection, or psychosis you could find. It wasn’t exceptionally good for the family’s prospects; the repeated deaths of able-bodied adults made the family poorer, and neighbours refused to marry into the “mad” bloodline.
 
-A point about prion diseases that D. T. Max likes emphasizing is that they don’t steal your _reason_. Everyone was unanimous that across multiple prion diseases – fatal familial insomnia itself, but also many forms of Creutzfeldt-Jakob, and plenty of other things you could grant such a name – the afflicted were consistently aware of their fates, even in the worst reaches of the illness. Many people with FFI never lost the ability to talk at all, and could express this very well for themselves. Others did, but seemed to know their surroundings infailibly. There is a famous [case report](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1781276/) about a man with FFI who managed to slow the disease’s progression with a slew of treatments; he could consistently describe his state in his most “incapacitated” periods when remitting. I’ll let him speak for himself:
+A point about prion diseases that D. T. Max likes emphasizing is that they don’t steal your _reason_. Everyone was unanimous that across multiple prion diseases – fatal familial insomnia itself, but also many forms of Creutzfeldt-Jakob, and plenty of other things you could grant such a name – the afflicted were consistently aware of their fates, even in the worst reaches of the illness. Many people with FFI never lost the ability to talk at all, and could express this very well for themselves. Others did, but seemed to know their surroundings infaillibly. There is a famous [case report](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1781276/) about a man with FFI who managed to slow the disease’s progression with a slew of treatments; he could consistently describe his state in his most “incapacitated” periods when remitting. I’ll let him speak for himself:
 
-![](https://acximages.ennals.org/images/2024-book-reviews/733536f39b0c4551.png)
+![](https://substackcdn.com/image/fetch/$s_!9apq!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F586e8939-0267-4f3a-9378-d58d9878064d_873x604.png)
 
 (This report was, as it happens, published in the exact same month as _The Family That Couldn’t Sleep_.)
 
 DTM came to know the family well. He befriended them by way of two members of their younger generation, Lisi – a woman terrified by the shadow of the disease, and Ignazio – the doctor she had married, who was more terrified by the _shadow_ of the disease. Ignazio put together the pieces of the family puzzle, consolidating all the disparate diagnoses into a single disorder and filling out a lot of blank spots on family trees. When DTM came along, he was able to help Ignazio make the case that the family would benefit from the spotlight – that greater awareness of FFI could lead to a cure both for them and for a slew of other prion diseases.
 
-As it so happens, he is one of those nonfiction authors who serve as a character in their own story. DTM has some form of progressive muscular palsy. He is, or at least was in 2006, not entirely sure what it is. The relatively unimpressive state of genetics at the time had not identified his causative mutation, though it looked a lot like one of the rarer forms of Charcot-Marie-Tooth disease.[[4]](#ftnt4) DTM is pragmatic about this, the way everyone chronically ill is either pragmatic or doomed. Whatever he has, it is a defect in protein structure; his peripheral nerves decay not because of a problem with the nerves themselves but an inability of their scaffolding to hold them together, as he puts it. The last chapter of the book dwells on this, on the web of connections popping up between a thousand disorders. DTM’s disease is something vaguely similar, if you squint, to an exceptionally slow-progressing motor neurone disease; if you jump another level out, you see amyloid plaque diseases like Huntington’s and Alzheimer’s, and if you jump yet another level out, you see something like prions. His interest in the Venetian family was driven by this. Some of its members thought this a beautiful act of sympathy; others thought him a grotesque parody of themselves, an onlooker, a _gawker_, peddling their tragedy to salve his relatively insignificant problems. They are, he thinks, both right.
+As it so happens, he is one of those nonfiction authors who serve as a character in their own story. DTM has some form of progressive muscular palsy. He is, or at least was in 2006, not entirely sure what it is. The relatively unimpressive state of genetics at the time had not identified his causative mutation, though it looked a lot like one of the rarer forms of Charcot-Marie-Tooth disease[2](#footnote-2). DTM is pragmatic about this, the way everyone chronically ill is either pragmatic or doomed. Whatever he has, it is a defect in protein structure; his peripheral nerves decay not because of a problem with the nerves themselves but an inability of their scaffolding to hold them together, as he puts it. The last chapter of the book dwells on this, on the web of connections popping up between a thousand disorders. DTM’s disease is something vaguely similar, if you squint, to an exceptionally slow-progressing motor neurone disease; if you jump another level out, you see amyloid plaque diseases like Huntington’s and Alzheimer’s, and if you jump yet another level out, you see something like prions. His interest in the Venetian family was driven by this. Some of its members thought this a beautiful act of sympathy; others thought him a grotesque parody of themselves, an onlooker, a _gawker_, peddling their tragedy to salve his relatively insignificant problems. They are, he thinks, both right.
 
 That’s the beginning, and that’s the end. What happens in the middle?
 
@@ -84,14 +88,14 @@ DTM tells this part fantastically. The Fore chapters drip with the dread of dram
 It would be quite some time before anyone figured out what caused it – but the problem, as DTM notes, was that its cause wasn’t possible. Everyone priored that the weird undescribed disease in the Fore lands was some nocebo sorcery-sickness. Vincent Zigas, the first actual doctor sent to work with the Fore, tried to placebo-effect them and failed miserably:
 
 > _On the way, Apekono stopped at a hut and showed Zigas his first kuru victim. “On the ground in the far corner sat a woman of about thirty,” the doctor wrote. “She looked odd, not ill, rather emaciated, looking up with blank eyes with a mask-like expression. There was an occasional fine tremor of her head and trunk, as if she were shivering from cold, though the day was very warm.” It was almost exactly the tableau McArthur had witnessed in 1953. Zigas, though, was a doctor. He could do more than look—or so he thought: “I decided I might as well try my own variety of magic,” he remembered. He rubbed Sloan’s Liniment, a balm for sore muscles, on her and declared to her family and his guide: “The sorcerer has put a bad spirit inside the woman. I am going to burn this spirit so that it comes out of her and leaves her. You will not see the fire, but she will feel it. The bad spirit will leave her and she will not die.”_
->
+> 
 > _The lotion penetrated the woman’s skin and she writhed in pain. “Get up! Walk!” Zigas commanded theatrically. “The woman struggled feebly as if to rise, then, exhausted, started to tremble more violently, making a sound of foolish laughter, akin to a titter.” That evening Apekono asked Zigas not to try to cure any more kuru victims; “Don’t use your magic medicine anymore. It will not win our strong sorcery.”_
 
 This was a disaster. The Fore were so cooperative precisely because they hoped “Western magic” could conquer theirs. As it became clear it couldn’t, they turned hostile. The Australians had hoped to “modernize a Stone Age people”; now all their subjects were dropping dead before their eyes, from what they could only assume was a “hysterical reaction” to colonization itself.
 
 So, to solve this, they needed a batshit insane American.
 
----------------------------------------------------------
+* * *
 
 Carleton Gajdusek is one of the characters who dominates _The Family That Couldn’t Sleep_. He couldn’t not. You could put him in a car commercial and he’d dominate it.
 
@@ -101,9 +105,9 @@ He did all this so he could rape kids. Oh, he did it for the scientific curiosit
 
 When Gajdusek landed in PNG, he first found the place too civilized. He’d been promised a land of “cannibal savages” – where were they? After some traipsing, he found them, right where he was promised. The Fore were perfect for Gajdusek. They had some kind of medical mystery that’d been lost on everyone else. They ate each other, in exactly the way he loved detailing in his diaries (“”Women and children, particularly, partake of the human flesh,” he noted with pleasure”). As kuru cases popped up, he aggressively recorded them. He wrote lovingly detailed notes that he sent back to his Australian advisor. He wrote with intensity, with exclamation marks, with the _joie de vivre_ of a man just where he wanted to be. Gajdusek smothered the Fore with ‘cures’ that never worked, but they didn’t get angry at him. As DTM dryly puts it: “Their children trusted him, and that was enough for them.”
 
-At some point, someone suggested sending an anthropologist...or an epidemiologist...or literally anyone with more credentials than Gajdusek and Zigas.[[5]](#ftnt5) Gajdusek threw a shitfit, convinced this one-and-a-half-man team was enough to Solve The Problem Forever. But he got bored eventually – running off with another tribe with, as his diary notes at length, an apparent custom of youths ritually fellating older men – and Zigas, I dunno, the book neglects him a bit here. So they managed to sneak in some anthropologists.
+At some point, someone suggested sending an anthropologist...or an epidemiologist...or literally anyone with more credentials than Gajdusek and Zigas[3](#footnote-3). Gajdusek threw a shitfit, convinced this one-and-a-half-man team was enough to Solve The Problem Forever. But he got bored eventually – running off with another tribe with, as his diary notes at length, an apparent custom of youths ritually fellating older men – and Zigas, I dunno, the book neglects him a bit here. So they managed to sneak in some anthropologists.
 
-The husband-and-wife team of Robert Glasse and Shirley Lindenbaum[[6]](#ftnt6) were the first involved parties to give a shit about the Fore as _people_, rather than as colonial subjects/medical mysteries/walking sex toys. What they uncovered was fascinating. The Fore were cannibals, yes, but they were _recent_ cannibals.
+The husband-and-wife team of Robert Glasse and Shirley Lindenbaum[4](#footnote-4) were the first involved parties to give a shit about the Fore as _people_, rather than as colonial subjects/medical mysteries/walking sex toys. What they uncovered was fascinating. The Fore were cannibals, yes, but they were _recent_ cannibals.
 
 They didn’t have an ancient tradition of eating their dead, like the other visitors assumed. They happened to be in contact with some cannibal groups, and after a Fore man died of “sorcery”, they thought: well, what would happen if we ate him? _“People tasting it expressed their approval. ‘”This is sweet,” they said, “What is the matter with us, are we mad? Here is good food and we have neglected to eat it.””_ If not for the wild coincidence that the first Fore cannibalism victim had a prion disease, kuru would never have existed.
 
@@ -139,7 +143,7 @@ I was surprised reading a lot of this, because for all the time I’ve been awar
 
 Gajdusek and Prusiner both won the Nobel for discovering prions, decades apart. This tells you something – the “discovery” of prions can be construed quite a few ways. Gajdusek formulated the hypothesis; Prusiner proved it. Gajdusek was grievously offended by Prusiner’s Nobel, perceiving his rival – not inaccurately – as a follower who never originated any ideas of his own. But Gajdusek was offended from a federal prison cell, so how’d that work out for him?
 
----------------------------------------------------------
+* * *
 
 Fascinating as all this is, no one published a book about prions in the mid-2000s because it was about kuru or FFI. They published books about prions because teenagers were dying, and people wanted to know why.
 
@@ -179,7 +183,7 @@ Anyway, all of this is wrong!
 
 _The Family That Couldn’t Sleep_ was written in the candidate gene era. Back then, the nascent field of human genetics was sure it was about to Solve Polygenism. Yes, the simple Mendelian monogenic patterns popular a few decades back clearly didn’t apply to common diseases, but how many variants could there be? We were about to discover the five genes influencing 20% of Alzheimer’s risk each, the five genes influencing 20% of heart disease risk each, etc., and once we were done we’d just do gene therapy and cure Alzheimer’s. A paper on autism genetics from 1999 was so outre as to speculate there might be as many as _fifteen_ genes involved. The fact we are now using the term “[omnigenic model](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5536862/)” should tell you roughly how well this worked out.
 
-Do you remember SNPedia? If you were a 2014 Slate Star Codex reader, [you might](https://slatestarcodex.com/2014/11/12/how-to-use-23andme-irresponsibly/). 2014 was still pretty candidate gene. People were out there publishing papers saying a single variant could increase your life expectancy by 15 years. SNPedia was a site that beautifully categorized all of these, so you could do 23andme or whatever, look up your results on SNPedia, and make horrible life choices.[[7]](#ftnt7) It was eventually bought out by one of the consumer DNA companies, so no one ever edited it again, making it a great time capsule of early-mid 2010s behavioural/medical genetics takes.
+Do you remember SNPedia? If you were a 2014 Slate Star Codex reader, [you might](https://slatestarcodex.com/2014/11/12/how-to-use-23andme-irresponsibly/). 2014 was still pretty candidate gene. People were out there publishing papers saying a single variant could increase your life expectancy by 15 years. SNPedia was a site that beautifully categorized all of these, so you could do 23andme or whatever, look up your results on SNPedia, and make horrible life choices.[5](#footnote-5) It was eventually bought out by one of the consumer DNA companies, so no one ever edited it again, making it a great time capsule of early-mid 2010s behavioural/medical genetics takes.
 
 [SNPedia](https://www.snpedia.com/index.php/Rs1799990) will excitedly explain to you that common genetic variants make you immune to vCJD. They cite [a 2009 post](https://web.archive.org/web/20190911061655/https://blog.23andme.com/news/no-good-evidence-that-potential-pool-of-mad-cow-disease-victims-is-expanding/) from the now-archived 23andme blog titled “No Good Evidence That Potential Pool of Mad Cow Disease Victims Is Expanding”, explaining how fears of late-onset vCJD are clearly debunked by new Scientific Knowledge. Everyone who developed vCJD in the 1990s and 2000s had an M/M genotype in a particular part of the PRNP prion gene, so the roughly half the population with M/V or V/V genotypes were immune.
 
@@ -187,11 +191,11 @@ _The Family That Couldn’t Sleep_ buys this, too. In fact, it buys it in an eve
 
 DTM discusses this, to set the scene for the genetics thing. He mentions what was the state of the art at the time – that a disproportionate share of both the growth hormone kids and sporadic CJD cases were _V/V_ homozygotes. This, uh – so the book was written in the mid-2000s, yeah?
 
-![](https://acximages.ennals.org/images/2024-book-reviews/f7b79e93710bd5e7.png)
+![](https://substackcdn.com/image/fetch/$s_!N93S!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fced2eca3-ec58-40b8-8c13-debdb559ab8f_651x601.png)
 
 [Yeah.](https://academic.oup.com/brain/article/138/11/3386/330626)
 
-The conclusion DTM drew – and this was a common conclusion at the time – was that homozygosity somehow made you more vulnerable to CJD, and M/M homozygosity made you vulnerable to BSE-borne CJD in particular. We cannot criticise the author for not predicting the future, but we live in the future, and can say how this worked out. Turns out, [nope, M/V heterozygotes totally get vCJD](https://www.newscientist.com/article/2118418-many-more-people-could-still-die-from-mad-cow-disease-in-the-uk/). After a British man in his 30s died of CJD in 2016, he was found to have vCJD and an M/V genotype. He was tested for vCJD only because he was exceptionally young for someone with a sporadic prion disease – meaning people developing it later in life would be missed.[[8]](#ftnt8)
+The conclusion DTM drew – and this was a common conclusion at the time – was that homozygosity somehow made you more vulnerable to CJD, and M/M homozygosity made you vulnerable to BSE-borne CJD in particular. We cannot criticise the author for not predicting the future, but we live in the future, and can say how this worked out. Turns out, [nope, M/V heterozygotes totally get vCJD](https://www.newscientist.com/article/2118418-many-more-people-could-still-die-from-mad-cow-disease-in-the-uk/). After a British man in his 30s died of CJD in 2016, he was found to have vCJD and an M/V genotype. He was tested for vCJD only because he was exceptionally young for someone with a sporadic prion disease – meaning people developing it later in life would be missed[6](#footnote-6).
 
 Did you know [up to 1 in 2000 people in the UK have latent vCJD](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3805509/)?
 
@@ -215,7 +219,7 @@ Eric Vallabh Minikel [has an answer for you](https://www.cureffi.org/2018/12/06/
 
 This is best described as “nightmarishly high”. I’m normed on genetic disorders. A genetic disorder that affects one in five thousand people is pretty common! I have known, in person, completely unselected, just from “random people I’ve met in my life in a non-medical context”, someone with a ~1/250k syndrome and someone with a ~1/50k-100k syndrome. I don’t think anyone in my extended family knows someone who died of a prion disease. I feel like it would’ve come up if they did!
 
-Prion diseases have distinctive phenotypes. Not distinctive enough, apparently, to avoid a lot of CJD being misdiagnosed as Alzheimer’s – but diagnosis is consistently insane. Something DTM reiterates throughout _The Family That Couldn’t Sleep_ is just what prion dementia looks like. The characteristic dementia in prion diseases spares something – “self” or “recognition” or “reflection” – that is not spared by Alzheimer’s, or by most common dementias. Shouldn’t this be, uh, noticeable?[[9]](#ftnt9) They kill rapidly, often over the course of months, and often onset in midlife. ALS shares this pattern and is way, way more common than prion diseases; you hear about ALS far more in the “disorder people actually have” sense. What am I missing here?
+Prion diseases have distinctive phenotypes. Not distinctive enough, apparently, to avoid a lot of CJD being misdiagnosed as Alzheimer’s – but diagnosis is consistently insane. Something DTM reiterates throughout _The Family That Couldn’t Sleep_ is just what prion dementia looks like. The characteristic dementia in prion diseases spares something – “self” or “recognition” or “reflection” – that is not spared by Alzheimer’s, or by most common dementias. Shouldn’t this be, uh, noticeable?[7](#footnote-7) They kill rapidly, often over the course of months, and often onset in midlife. ALS shares this pattern and is way, way more common than prion diseases; you hear about ALS far more in the “disorder people actually have” sense. What am I missing here?
 
 Anyway: 1 in 2000 prevalence of latent vCJD in the UK + extreme lack of clarity over whether scrapie is human-transmissible + [blood donations spread vCJD](https://onlinelibrary.wiley.com/doi/10.1111/j.1423-0410.2006.00833.x) + sporadic CJD prevalence keeps [going](https://www1.health.gov.au/internet/main/publishing.nsf/Content/8FA6078276359430CA257BF0001A4C42/$File/creutzfeldt_jakob_disease_surveillance_in_australia_update_to_31_december_2022.pdf) [up](https://www.cjd.ed.ac.uk/sites/default/files/report31.pdf) = ???
 
@@ -229,13 +233,13 @@ Chronic wasting disease is a prion disease of deer. Like scrapie, it “probably
 
 > _A prion plague should not be possible among ruminants in the wild. Deer are not cannibals, as the cows that spread BSE were forced to be; and, because deer and elk are not domesticated, they do not have enough contact with one another to spread a prion infection the way sheep are thought to spread scrapie. But deer do not live as they used to live, humans having once again brought their ambitions to bear on the natural course of things._
 
-_The Family That Couldn’t Sleep_ is a book of medical anthropology. Anthropology of the Veneto, anthropology of Papua New Guinea, anthropology of 1990s Britain. Here, it is an anthropology of America. Americans, having won the world, still fight to win their own backyard. The North American continent is geographically diverse, cutting through rain-snow-shine, mountains jutting over plains, cities sprawling into wilderness, habitations criss-cross dotted with surprisingly few empty zones. Go somewhere like Denver, the Mile High City, three million people fighting against nature. Few other countries have anything like this; geographically vast polities usually have uninhabitable blocks. Australians are twenty-five million people clustered against the shore. It still surprises me, after all this time, how every US state has a meaningful city.[[10]](#ftnt10)
+_The Family That Couldn’t Sleep_ is a book of medical anthropology. Anthropology of the Veneto, anthropology of Papua New Guinea, anthropology of 1990s Britain. Here, it is an anthropology of America. Americans, having won the world, still fight to win their own backyard. The North American continent is geographically diverse, cutting through rain-snow-shine, mountains jutting over plains, cities sprawling into wilderness, habitations criss-cross dotted with surprisingly few empty zones. Go somewhere like Denver, the Mile High City, three million people fighting against nature. Few other countries have anything like this; geographically vast polities usually have uninhabitable blocks. Australians are twenty-five million people clustered against the shore. It still surprises me, after all this time, how every US state has a meaningful city[8](#footnote-8).
 
 Midcentury Denver, growing and sprawling out across its mountains, started to run into their natural inhabitants – deer.
 
 > _Starvation is one way nature adjusts the deer population to the available food supply. People did not usually see this process, but in the 1950s and 1960s Colorado became more densely settled, reducing forested areas and forcing deer to look longer and harder for food. At the same time, the state enacted conservation laws, limiting when and where hunters could shoot. Soon emaciated deer began wandering onto the lawns and through suburban streets looking for a meal. People began to feed them, only to find that they died anyway. They would drop dead by haystacks, along highways, and in flower beds._
 
-In the late 1960s, a young biologist named Gene Schoonveld tried to figure out why the deer starved even when they were fed.[[11]](#ftnt11) He deprived some deer of food for a while, “[h]e cut windows in their stomachs to see what went on inside, and then he began to feed them”. While this was going on, he had a control group of healthy, well-fed deer as backups in case anything went wrong. It did...but not to the experimental group.
+In the late 1960s, a young biologist named Gene Schoonveld tried to figure out why the deer starved even when they were fed.[9](#footnote-9) He deprived some deer of food for a while, “[h]e cut windows in their stomachs to see what went on inside, and then he began to feed them”. While this was going on, he had a control group of healthy, well-fed deer as backups in case anything went wrong. It did...but not to the experimental group.
 
 The pen in which the deer were kept also housed sheep, which, it turned out, were scrapie carriers. The deer somehow acquired scrapie – there’s a huge unanswered question here, which DTM doesn’t address. _How did they get scrapie?_ They didn’t eat the sheep, presumably. Did it somehow transmit from casual contact? This is [not supposed to happen](https://www.cureffi.org/2017/12/08/skin-surgery-and-cjd/). And yet: the deer in the sheep pen started dying of a mysterious scrapie-like disease, one never reported before, that would go on to infect thousands.
 
@@ -243,11 +247,11 @@ These deer were released into the wild. Ten years later, the first reports of ch
 
 This kind of spread doesn’t track natural deer migration. That’s irrelevant, because nothing about CWD’s spread is natural. We shift gears into an anthropology of the American hunter. The hunter wants to shoot the most impressive buck, to bag himself one with as many “points” as possible – one whose antlers branch out most. A “ten-point buck” has five branches on each horn:
 
-![](https://acximages.ennals.org/images/2024-book-reviews/86868f9ee2832b9d.png)
+![](https://substackcdn.com/image/fetch/$s_!0J8B!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2a64b287-a7c6-4d82-bbe1-da949fc93118_1024x683.png)
 
 Original by [Ric McArthur](https://www.flickr.com/photos/ricmcarthur/51806642738)
 
-Nature doesn’t make enough bucks with perfectly symmetrical ten-point horns. To fill the demand, the market had to step in. Thus was born the deer farm industry, which raises captive deer in better genetic and nutritional conditions than Nature permits, then ships them across the country so hunters who couldn’t get legit ten-point bucks get the taxidermy piece for their wall. These are [controversial](https://www.reddit.com/r/Hunting/comments/15hzqkc/deer_farms_should_be_illegal/) [amongst](https://thebiggamehuntingblog.com/what-is-canned-shooting/) [hunters](https://www.boone-crockett.org/bc-position-statement-canned-shoots) and [illegal in numerous states](https://www.npr.org/templates/story/story.php?storyId=6433992) – but the industry is big enough to spread CWD. (The kind of hunter who needs a deer shipped to his house is the kind of hunter who will fumble killing it.) Another problem is supplemental feeding – leaving out protein-enriched food for deer to eat. This produces “[trophy class animals at an earlier age](https://tpwd.texas.gov/publications/pwdpubs/media/pwd_bk_w7000_0033.pdf)”, but again, what’s _in_ that protein? (“It is much like feeding your cows 41 percent protein cottonseed cake during the winter to raise the protein level in the cow’s diet to a level that will maintain acceptable production”, says that article from 1991.)[[12]](#ftnt12)
+Nature doesn’t make enough bucks with perfectly symmetrical ten-point horns. To fill the demand, the market had to step in. Thus was born the deer farm industry, which raises captive deer in better genetic and nutritional conditions than Nature permits, then ships them across the country so hunters who couldn’t get legit ten-point bucks get the taxidermy piece for their wall. These are [controversial](https://www.reddit.com/r/Hunting/comments/15hzqkc/deer_farms_should_be_illegal/) [amongst](https://thebiggamehuntingblog.com/what-is-canned-shooting/) [hunters](https://www.boone-crockett.org/bc-position-statement-canned-shoots) and [illegal in numerous states](https://www.npr.org/templates/story/story.php?storyId=6433992) – but the industry is big enough to spread CWD. (The kind of hunter who needs a deer shipped to his house is the kind of hunter who will fumble killing it.) Another problem is supplemental feeding – leaving out protein-enriched food for deer to eat. This produces “[trophy class animals at an earlier age](https://tpwd.texas.gov/publications/pwdpubs/media/pwd_bk_w7000_0033.pdf)”, but again, what’s _in_ that protein? (“It is much like feeding your cows 41 percent protein cottonseed cake during the winter to raise the protein level in the cow’s diet to a level that will maintain acceptable production”, says that article from 1991.)[10](#footnote-10)
 
 The book segues into a vignette. CWD was new in Wisconsin in the early 2000s, and the state’s Department of Natural Resources was optimistic it could eradicate it. In a state with a love of hunting, you could, in theory, recruit people to kill every single deer in a 400-square-mile radius:
 
@@ -257,27 +261,35 @@ The whole affair was gruesome – one official called it “hunting for slob hun
 
 This is to say that CWD is quite a bit more common in the American deer population than BSE ever was in British cattle. Since publication, it’s popped up in [Norway](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5024462/) and [South Korea](https://www.jstage.jst.go.jp/article/jvms/75/1/75_12-0077/_article). Notably, Norway doesn’t allow for the import of cervids, raising _numerous questions_ about how it got there. There are no unambiguous cases of CWD transmission to humans, and in vivo/in vitro primate studies have [mixed results](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7766630/). There [sure are](https://jamanetwork.com/journals/jamaneurology/fullarticle/780509) some unusually young hunters with sporadic CJD, though. But don’t worry, most of them aren’t M/M homozygotes!
 
----------------------------------------------------------
+* * *
 
 There is an absolute ton going on in this book. I’ve had to skim over whole sections. Parts that couldn’t be easily slotted into a narrative review include:
 
-> 1.  When Gajdusek was invited to a party at Prusiner’s house, he was horrified to find his rival had purchased hundreds of New Guinean statues – all with the genitals removed.
-> 2.  Elio Lugaresi, the neurologist who clinically identified FFI, shipped his patient’s brain to his former student Pierluigi Gambetti. Gambetti at this point ran a neuropathology lab at Case Western Reserve University, in Cleveland. Lugaresi was absolutely _bewildered_ as to why his student would leave Italy for Cleveland.
-> 3.  The only time DTM ever saw Lugaresi upset was when Lugaresi took him out for dinner at a restaurant specializing in wine, and he had to tell him he didn’t drink it.
-> 4.  The British agricultural minister attempted to force-feed his four-year-old daughter a burger as a photo-op. Later, [a family friend’s daughter died of vCJD](https://www.theguardian.com/politics/2007/oct/12/uk.bse).
-> 5.  BSE origin theories include: space dust, Gajdusek being a secret CIA operative who infected cows, CJD-infected human remains accidentally getting shipped to Britain as animal feed.
-> 6.  George Glenner, an Alzheimer’s expert and collaborator of Prusiner’s, died of cardiac amyloidosis, where amyloid plaques (similar to those seen in the brain in both prion diseases and Alzheimer’s) build up in the heart. Several of their collaborators suspect he was somehow infected.
-> 7.  Prusiner experimented with quinacrine, the malaria cure, as a potential CJD treatment. He gave a bunch of it to a young woman whose father heard about his research. It stopped her symptoms from progressing – and exploded her liver. _“By now, more than three hundred prion disease sufferers have tried quinacrine and, according to Graham Steel, the head of the CJD Alliance in the United Kingdom, “they’re all dead.””_
-> 8.  There were internet fora full of people convinced they had vCJD. Minor side notes like “symptoms persisting for several years without decline” or “spontaneous recovery” were not considered contraindications. Some claimed to be cured of vCJD, and shilled various alt-med solutions. _“[T]he woman who said she’d been cured responded with accidental ambiguity, “I don’t believe my information gives false hope—at the moment, what else is there?””_
+1.  When Gajdusek was invited to a party at Prusiner’s house, he was horrified to find his rival had purchased hundreds of New Guinean statues – all with the genitals removed.
+    
+2.  Elio Lugaresi, the neurologist who clinically identified FFI, shipped his patient’s brain to his former student Pierluigi Gambetti. Gambetti at this point ran a neuropathology lab at Case Western Reserve University, in Cleveland. Lugaresi was absolutely _bewildered_ as to why his student would leave Italy for Cleveland.
+    
+3.  The only time DTM ever saw Lugaresi upset was when Lugaresi took him out for dinner at a restaurant specializing in wine, and he had to tell him he didn’t drink it.
+    
+4.  The British agricultural minister attempted to force-feed his four-year-old daughter a burger as a photo-op. Later, [a family friend’s daughter died of vCJD](https://www.theguardian.com/politics/2007/oct/12/uk.bse).
+    
+5.  BSE origin theories include: space dust, Gajdusek being a secret CIA operative who infected cows, CJD-infected human remains accidentally getting shipped to Britain as animal feed.
+    
+6.  George Glenner, an Alzheimer’s expert and collaborator of Prusiner’s, died of cardiac amyloidosis, where amyloid plaques (similar to those seen in the brain in both prion diseases and Alzheimer’s) build up in the heart. Several of their collaborators suspect he was somehow infected.
+    
+7.  Prusiner experimented with quinacrine, the malaria cure, as a potential CJD treatment. He gave a bunch of it to a young woman whose father heard about his research. It stopped her symptoms from progressing – and exploded her liver. _“By now, more than three hundred prion disease sufferers have tried quinacrine and, according to Graham Steel, the head of the CJD Alliance in the United Kingdom, “they’re all dead.””_
+    
+8.  There were internet fora full of people convinced they had vCJD. Minor side notes like “symptoms persisting for several years without decline” or “spontaneous recovery” were not considered contraindications. Some claimed to be cured of vCJD, and shilled various alt-med solutions. _“[T]he woman who said she’d been cured responded with accidental ambiguity, “I don’t believe my information gives false hope—at the moment, what else is there?””_
+    
 
 “What else is there”, indeed.
 
 I’ve also skimmed over most vignettes of the family. Some of these are real highlights, particularly the explication of Silvano’s illness – the man who brought FFI to medical attention, after decades of misdiagnosis. This is _impressively distinctive_. His illness does not look like much anything else:
 
 > _During good moments, Silvano could still read. He wore his glasses on the end of his nose. He ticked off the days on a pad so he wouldn’t get disoriented. He dressed in black silk pajamas with a pocket square and continued to receive visitors._
->
+> 
 > _The nights were not so smooth. At night, Silvano dreamed, re-enacting memories of his old life, just as his sisters had. FFI strips its sufferers not just physically but psychologically. Silvano had always loved social life. He had even found the old crest of the Venetian doctor—black and red with a gold star—and hung it outside his bedroom. Now, in his dreams, Silvano carefully combed his hair, as if for a party. Once he saluted as if he were part of the changing guard at Buckingham Palace. He picked an orchid and offered it to the Queen of England._
->
+> 
 > _During lucid moments, Silvano could laugh with Ignazio and Lisi over what was happening—he joked that the brain-sensor cap on his head made him look like Celestine V, and that, like the thirteenth-century pope, he wanted to renounce his crown—but such joking did not disguise his terror. Two months into his stay at Bologna, he was howling in the night, his arms and legs wrapped around themselves, the tiny pocket square still in place. In the last days of his life he lay in a twitchy, exhausted nothingness._
 
 My thoughts turn back to DF, the FFI patient who swung between total lucidity and introverted serenity. Everyone was enraptured by Silvano’s illness precisely because he didn’t look “demented” in a traditional way, or even an unusually rapid way. This is supposed to be also true of CJD – some kind of lucidity persisting unusually far into the illness, even in a state that in any other disease would be marked by confusion and delirium.
@@ -301,3 +313,43 @@ Perhaps prion research owes its existence to a similar fluke. Prions are _recogn
 So goes the Land of Hypotheses. But we don’t live there, not in this life. In this life, we have a thousand unanswered questions. We can’t – yet – simulate all the universes where the prion question went different ways, where Alzheimer’s was a research focus in the 1950s, where we didn’t spend decades chasing the M/M homozygosity illusion, where the first Fore cannibalism victim died of something else, where prions were in Pasteur’s flask. But we can think, and dwell, and dream, and chase possibilities. _The Family That Couldn’t Sleep_ is a great book, precisely because it inspires possibilities. Even the ways it’s become wrong with time are usefully wrong – illustrative, if you will.
 
 “If prion fears go the way of swine flu or Ebola”, indeed.
+
+[1](#footnote-anchor-1)
+
+Fatal familial insomnia is an autosomal dominant disorder. This implies that if the doctor had FFI, his sibling must have also had it, tracing the origin of the gene another generation back – a mutation in one of their parents. The book doesn’t really grapple with this; it seems that whoever the mutation really originated in must’ve died of unrelated causes before developing FFI, which is common in autosomal dominant neurodegenerative disorders and makes it a real pain to construct family histories.
+
+[2](#footnote-anchor-2)
+
+I think DTM’s explanation is erroneous. He identifies his disorder as resembling “a form of CMT caused by a mutation on Chromosome 21”, then goes on to describe the specific gene affected. That particular gene is on _8p21_, so...understandable game of telephone. There is a reported form of CMT caused by a mutation on 21q22, but it seems to have been first described in 2019.
+
+[3](#footnote-anchor-3)
+
+Despite the rhetorical description of Zigas as an “actual doctor”, quite a few people – including Gajdusek – were sure he was lying about having a medical degree.
+
+[4](#footnote-anchor-4)
+
+They divorced at some point in the 1960s, and Shirley reverted to her maiden name. The book refers to them as “the Glasses” and uses the same surname for both, but most sources write Lindenbaum.
+
+[5](#footnote-anchor-5)
+
+Draw your preferred parallels to modern companies offering polygenic embryo screening.
+
+[6](#footnote-anchor-6)
+
+Realistically, this [wasn’t the first case](https://www.sciencedirect.com/science/article/pii/S0140673609615683). However, the man in 2009 with vCJD and an M/V genotype wasn’t confirmed at postmortem, so the medical community didn’t accept it until 2016.
+
+[7](#footnote-anchor-7)
+
+Gerstmann-Sträussler-Scheinker disease is apparently more Alzheimer’s-like, in that DTM says the misdiagnosis is particularly common this way (I get the impression the Vallabh variant is phenotypically most GSS-like, from what I’ve read of Eric and Sonia’s work). GSS is really rare – or really underdescribed, one of those – and it’s hard to find good detailed case descriptions, the kind you’d need to compare it to FFI or CJD on this axis.
+
+[8](#footnote-anchor-8)
+
+Let’s pretend for rhetorical purposes that somewhere like Cheyenne, Wyoming is a meaningful city. The metro area is 100k people – it’s meaningful enough. The equivalent spot in Australia has a population of “no one”.
+
+[9](#footnote-anchor-9)
+
+With the benefit of hindsight, this is known as _refeeding syndrome_. If someone is deprived of food for long enough, they can’t instantly return to a normal diet. The best-case scenario is that your digestive system is very unhappy with you for a while; the worst case is [sudden death](https://www.abc.net.au/news/2022-03-08/shane-warne-extreme-diets-nutrition-heart-health/100887810).
+
+[10](#footnote-anchor-10)
+
+DTM refers to this as Quality Deer Management, but I think he’s wrong? QDM seems to be [a particular attitude towards hunting](https://deerassociation.com/qdm-vs-trophy-traditional-deer-management/) that avoids shooting young bucks to optimize antler development, while shooting more doe than a pure “kill all the cool-looking ones” strategy will to avoid overpopulation. You can do QDM with or without supplemental feeding. I might be wrong – I know very little about deer hunting

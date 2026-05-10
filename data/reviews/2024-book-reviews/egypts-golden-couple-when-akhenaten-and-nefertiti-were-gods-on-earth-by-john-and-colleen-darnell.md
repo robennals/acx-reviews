@@ -1,12 +1,12 @@
 ---
-title: The first reason to read about Pharaoh Akhenaten
+title: "Egypt's Golden Couple: When Akhenaten and Nefertiti Were Gods on Earth by John and Colleen Darnell"
 author: Unknown
 reviewAuthor: Anonymous
 contestId: 2024-book-reviews
 contestName: 2024 Book Reviews
 year: 2024
 publishedDate: '2026-02-06T16:47:49.303Z'
-slug: the-first-reason-to-read-about-pharaoh-akhenaten
+slug: egypts-golden-couple-when-akhenaten-and-nefertiti-were-gods-on-earth-by-john-and-colleen-darnell
 wordCount: 6523
 readingTimeMinutes: 29
 originalUrl: >-

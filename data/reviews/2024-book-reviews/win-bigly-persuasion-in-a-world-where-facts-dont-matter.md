@@ -16,7 +16,6 @@ tags:
   - Politics
   - Psychology
 ---
-
 **Adams:** Good Morning America, and welcome a fake episode of the Real Coffee podcast. I’m not actually your host, Scott Adams. Listeners, today you are in for a genuine treat: an avatar of the distinguished UCLA political scientist John Zaller is here to discuss his seminal work, _The Nature and Origins of Mass Opinion._ Welcome, Professor Zaller.
 
 **Zaller:** Thanks, Scott. And thank you for the laughter that _Dilbert_ has provided over the years.
