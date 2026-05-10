@@ -6,7 +6,7 @@ contestId: 2024-book-reviews
 contestName: 2024 Book Reviews
 year: 2024
 publishedDate: '2026-02-06T16:49:50.824Z'
-slug: why-fish-dont-exist
+slug: why-fish-dont-exist-2024
 wordCount: 7171
 readingTimeMinutes: 32
 originalUrl: >-

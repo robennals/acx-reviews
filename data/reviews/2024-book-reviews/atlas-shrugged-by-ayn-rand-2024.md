@@ -6,7 +6,7 @@ contestId: 2024-book-reviews
 contestName: 2024 Book Reviews
 year: 2024
 publishedDate: '2026-02-06T16:47:15.596Z'
-slug: atlas-shrugged-by-ayn-rand
+slug: atlas-shrugged-by-ayn-rand-2024
 wordCount: 1812
 readingTimeMinutes: 9
 originalUrl: >-

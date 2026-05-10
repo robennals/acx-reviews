@@ -18,6 +18,7 @@ import { processImages } from './lib/process-gdoc-images';
 import { checkDiff } from './lib/diff-check';
 import { resolvePublishedDate } from './lib/preserve-published-date';
 import { fetchGDocAsHTML, convertGDocToMarkdown } from './lib/gdoc-html';
+import { runDedupeCrossSource } from './lib/dedupe-cross-source';
 
 const GDOCS_SOURCES_PATH = path.join(process.cwd(), 'data/sources/gdocs-urls.json');
 const REVIEWS_DIR = path.join(process.cwd(), 'data/reviews');
@@ -395,10 +396,31 @@ interface DocStats {
   skipped: number;
 }
 
+/**
+ * Build a map of every existing slug across every contest. Used to refuse
+ * a slug that's already taken in a *different* contest — the URL scheme
+ * is `/reviews/<slug>` with no contest in the path, so two contests
+ * holding the same slug would alias to the same URL.
+ */
+function buildExistingSlugIndex(): Map<string, string> {
+  // slug -> contestId where it lives
+  const idx = new Map<string, string>();
+  if (!fs.existsSync(REVIEWS_DIR)) return idx;
+  for (const d of fs.readdirSync(REVIEWS_DIR, { withFileTypes: true })) {
+    if (!d.isDirectory()) continue;
+    const cdir = path.join(REVIEWS_DIR, d.name);
+    for (const f of fs.readdirSync(cdir)) {
+      if (f.endsWith('.md')) idx.set(f.replace(/\.md$/, ''), d.name);
+    }
+  }
+  return idx;
+}
+
 async function processDoc(
   contestId: string,
   source: GDocsSource,
   processedThisRun: Set<string>,
+  existingSlugs: Map<string, string>,
   applyMode: boolean
 ): Promise<DocStats> {
   const docUrl = `https://docs.google.com/document/d/${source.docId}`;
@@ -446,6 +468,12 @@ async function processDoc(
         const candidate = counter === 1 ? baseSlug : `${baseSlug}-${counter}`;
         if (processedThisRun.has(candidate)) continue;
 
+        // Refuse a slug that already lives in a different contest dir.
+        // The URL scheme is /reviews/<slug> with no contest segment, so
+        // cross-contest collisions alias to the same URL.
+        const owner = existingSlugs.get(candidate);
+        if (owner && owner !== contestId) continue;
+
         const writeStats = await createMarkdownFile(
           contestId,
           candidate,
@@ -460,6 +488,7 @@ async function processDoc(
 
         // Wrote in apply mode, or "would write" in dry-run — reserve slot.
         processedThisRun.add(candidate);
+        existingSlugs.set(candidate, contestId);
         chosenSlug = candidate;
         finalStats = writeStats;
         break;
@@ -516,6 +545,11 @@ async function main() {
     reusedImages: 0,
   };
 
+  // Snapshot of every slug currently present on disk, mapped to its contest.
+  // Used to refuse a new slug that would alias to an existing slug in a
+  // different contest (the URL scheme has no contest segment).
+  const existingSlugs = buildExistingSlugIndex();
+
   for (const [contestId, docSources] of Object.entries(sources)) {
     if (filterContest && contestId !== filterContest) {
       continue;
@@ -534,7 +568,7 @@ async function main() {
 
     for (const source of docSources) {
       console.log(`\n📄 Processing: "${source.name}" (${source.type})`);
-      const stats = await processDoc(contestId, source, processedThisRun, applyMode);
+      const stats = await processDoc(contestId, source, processedThisRun, existingSlugs, applyMode);
       grandTotal.reviewsCreated += stats.reviewsCreated;
       grandTotal.skipped += stats.skipped;
       grandTotal.totalImages += stats.totalImages;
@@ -554,6 +588,13 @@ async function main() {
   console.log(`       ↳ uploaded: ${grandTotal.uploadedImages}`);
   console.log(`       ↳ reused:   ${grandTotal.reusedImages}`);
   console.log('='.repeat(60));
+
+  // Auto-run cross-source dedup against the new state of the corpus. Any
+  // gdoc review that's a content-twin of an ACX-imported finalist gets
+  // deleted (ACX wins because Scott edits the published copies). Runs in
+  // the same apply/dry-run mode as the fetch.
+  runDedupeCrossSource({ apply: applyMode });
+
   console.log('\n✨ Done! Run `pnpm generate-index` to update the index.\n');
 }
 

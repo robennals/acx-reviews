@@ -6,7 +6,7 @@ contestId: 2024-book-reviews
 contestName: 2024 Book Reviews
 year: 2024
 publishedDate: '2026-02-06T16:47:49.305Z'
-slug: frankenstein-by-mary-shelley
+slug: frankenstein-by-mary-shelley-2024
 wordCount: 5065
 readingTimeMinutes: 23
 originalUrl: >-

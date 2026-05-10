@@ -960,26 +960,6 @@
     ]
   },
   {
-    "id": "the-men-are-not-alright",
-    "title": "The Men Are Not Alright",
-    "author": "Unknown",
-    "reviewAuthor": "Anonymous",
-    "contestId": "2025-non-book-reviews",
-    "contestName": "2025 Non Book Reviews",
-    "year": 2025,
-    "publishedDate": "2026-02-06T16:55:59.398Z",
-    "slug": "the-men-are-not-alright",
-    "excerpt": "Sometimes I’m convinced there’s a note taped to my back that says, “PLEASE SPILL YOUR SOUL UPON THIS WOMAN.” I am not a therapist, nor in any way certified to deal with emotional distress, yet my...",
-    "wordCount": 15301,
-    "readingTimeMinutes": 69,
-    "originalUrl": "https://docs.google.com/document/d/1jYVJFIz5-aMi0LCgsC9AN6BncJDNVGaMU37QmwZ1vzA",
-    "source": "gdoc",
-    "tags": [
-      "Society",
-      "Psychology"
-    ]
-  },
-  {
     "id": "the-pebble-jewel-of-the-1960-world-series",
     "title": "The Pebble, Jewel of the 1960 World Series",
     "author": "Unknown",
@@ -1057,47 +1037,6 @@
     "tags": [
       "Society",
       "Politics"
-    ]
-  },
-  {
-    "id": "the-emperor-of-all-maladies",
-    "title": "The Emperor of All Maladies",
-    "author": "Unknown",
-    "reviewAuthor": "Anonymous",
-    "contestId": "2025-non-book-reviews",
-    "contestName": "2025 Non Book Reviews",
-    "year": 2025,
-    "publishedDate": "2026-02-06T16:55:59.396Z",
-    "slug": "the-emperor-of-all-maladies",
-    "excerpt": "“Take an aspirin,” her doctor told her breezily. It was just stress, then. “April had arrived so fast,” she thought, chasing the day along... lilacs for Sarah's birthday, mulch for the garden, and...",
-    "wordCount": 5898,
-    "readingTimeMinutes": 27,
-    "originalUrl": "https://docs.google.com/document/d/1jYVJFIz5-aMi0LCgsC9AN6BncJDNVGaMU37QmwZ1vzA",
-    "source": "gdoc",
-    "tags": [
-      "Fiction",
-      "History",
-      "Science"
-    ]
-  },
-  {
-    "id": "the-internet-that-might-have-been",
-    "title": "The Internet That Might Have Been",
-    "author": "Unknown",
-    "reviewAuthor": "Anonymous",
-    "contestId": "2025-non-book-reviews",
-    "contestName": "2025 Non Book Reviews",
-    "year": 2025,
-    "publishedDate": "2026-02-06T16:55:59.396Z",
-    "slug": "the-internet-that-might-have-been",
-    "excerpt": "As Director of the Office of Scientific Research and Development, he’d won World War II. His proximity fuse intercepted hundreds of V-1s and destroyed thousands of tanks, carving a path for Allied...",
-    "wordCount": 7508,
-    "readingTimeMinutes": 34,
-    "originalUrl": "https://docs.google.com/document/d/1jYVJFIz5-aMi0LCgsC9AN6BncJDNVGaMU37QmwZ1vzA",
-    "source": "gdoc",
-    "tags": [
-      "Technology",
-      "History"
     ]
   },
   {
@@ -2418,7 +2357,7 @@
     ]
   },
   {
-    "id": "why-fish-dont-exist",
+    "id": "why-fish-dont-exist-2024",
     "title": "Why Fish Don’t Exist",
     "author": "Unknown",
     "reviewAuthor": "Anonymous",
@@ -2426,7 +2365,7 @@
     "contestName": "2024 Book Reviews",
     "year": 2024,
     "publishedDate": "2026-02-06T16:49:50.824Z",
-    "slug": "why-fish-dont-exist",
+    "slug": "why-fish-dont-exist-2024",
     "excerpt": "Fish are very diverse animals and can be categorised in many ways.",
     "wordCount": 7171,
     "readingTimeMinutes": 32,
@@ -2458,7 +2397,7 @@
     ]
   },
   {
-    "id": "war-and-peace-by-leo-tolstoy",
+    "id": "war-and-peace-by-leo-tolstoy-2024",
     "title": "War and Peace by Leo Tolstoy",
     "author": "Unknown",
     "reviewAuthor": "Anonymous",
@@ -2466,7 +2405,7 @@
     "contestName": "2024 Book Reviews",
     "year": 2024,
     "publishedDate": "2026-02-06T16:49:50.819Z",
-    "slug": "war-and-peace-by-leo-tolstoy",
+    "slug": "war-and-peace-by-leo-tolstoy-2024",
     "excerpt": "Leo Tolstoy’s War and Peace is about two things: “War” and “Peace”.",
     "wordCount": 4463,
     "readingTimeMinutes": 20,
@@ -4556,7 +4495,7 @@
     ]
   },
   {
-    "id": "frankenstein-by-mary-shelley",
+    "id": "frankenstein-by-mary-shelley-2024",
     "title": "Frankenstein, by Mary Shelley",
     "author": "Unknown",
     "reviewAuthor": "Anonymous",
@@ -4564,7 +4503,7 @@
     "contestName": "2024 Book Reviews",
     "year": 2024,
     "publishedDate": "2026-02-06T16:47:49.305Z",
-    "slug": "frankenstein-by-mary-shelley",
+    "slug": "frankenstein-by-mary-shelley-2024",
     "excerpt": "If we want to talk about the monstrous, to assess and understand it, surely we must look at the monsters which mankind has created. But this isn’t quite enough. Humanity has been creating monsters...",
     "wordCount": 5065,
     "readingTimeMinutes": 23,
@@ -5132,7 +5071,7 @@
     ]
   },
   {
-    "id": "atlas-shrugged-by-ayn-rand",
+    "id": "atlas-shrugged-by-ayn-rand-2024",
     "title": "Atlas Shrugged by Ayn Rand",
     "author": "Unknown",
     "reviewAuthor": "Anonymous",
@@ -5140,7 +5079,7 @@
     "contestName": "2024 Book Reviews",
     "year": 2024,
     "publishedDate": "2026-02-06T16:47:15.596Z",
-    "slug": "atlas-shrugged-by-ayn-rand",
+    "slug": "atlas-shrugged-by-ayn-rand-2024",
     "excerpt": "I have been sidetracked by a longer project, but wanted to keep the practice of shorter-form writing as well....",
     "wordCount": 1812,
     "readingTimeMinutes": 9,
@@ -5311,7 +5250,7 @@
     ]
   },
   {
-    "id": "a-canticle-for-leibowitz-by-walter-m-miller-jr",
+    "id": "a-canticle-for-leibowitz-by-walter-m-miller-jr-2024",
     "title": "A Canticle for Leibowitz by Walter M. Miller, Jr.",
     "author": "Unknown",
     "reviewAuthor": "Anonymous",
@@ -5319,7 +5258,7 @@
     "contestName": "2024 Book Reviews",
     "year": 2024,
     "publishedDate": "2026-02-06T16:47:15.591Z",
-    "slug": "a-canticle-for-leibowitz-by-walter-m-miller-jr",
+    "slug": "a-canticle-for-leibowitz-by-walter-m-miller-jr-2024",
     "excerpt": "A Canticle for Leibowitz  \nWalter M. Miller, Jr.  \nOctober 1959, J.B. Lippincott & Co.",
     "wordCount": 3037,
     "readingTimeMinutes": 14,
@@ -5389,26 +5328,6 @@
       "Politics",
       "History",
       "Society"
-    ]
-  },
-  {
-    "id": "god-emperor-of-dune-by-frank-herbert",
-    "title": "God Emperor of Dune by Frank Herbert",
-    "author": "Unknown",
-    "reviewAuthor": "Anonymous",
-    "contestId": "2022-book-reviews",
-    "contestName": "2022 Book Reviews",
-    "year": 2022,
-    "publishedDate": "2026-02-06T07:24:08.701Z",
-    "slug": "god-emperor-of-dune-by-frank-herbert",
-    "excerpt": "(Reviewer’s Note: There are spoilers in this review, as you might expect when reading a review of a 40-year-old novel. It’s also the fourth book in a series; I’ve done my best to make it readable to...",
-    "wordCount": 5139,
-    "readingTimeMinutes": 23,
-    "originalUrl": "https://docs.google.com/document/d/1pRQbRbEUwSH_jm94PI_ij-88swat7vQ4iNaNp6gd39g",
-    "source": "gdoc",
-    "tags": [
-      "Fiction",
-      "Philosophy"
     ]
   },
   {
@@ -5535,26 +5454,6 @@
     ]
   },
   {
-    "id": "exhaustion-a-history-by-anna-schaffner",
-    "title": "Exhaustion: A History by Anna Schaffner",
-    "author": "Unknown",
-    "reviewAuthor": "Anonymous",
-    "contestId": "2022-book-reviews",
-    "contestName": "2022 Book Reviews",
-    "year": 2022,
-    "publishedDate": "2026-02-06T07:24:08.699Z",
-    "slug": "exhaustion-a-history-by-anna-schaffner",
-    "excerpt": "Imagine you find yourself, over the course of a few weeks or months, becoming steadily more tired. You’re not doing any more work or other activities than you usually do, but nonetheless you find...",
-    "wordCount": 4041,
-    "readingTimeMinutes": 18,
-    "originalUrl": "https://docs.google.com/document/d/1pRQbRbEUwSH_jm94PI_ij-88swat7vQ4iNaNp6gd39g",
-    "source": "gdoc",
-    "tags": [
-      "Psychology",
-      "History"
-    ]
-  },
-  {
     "id": "facing-the-dragon-confronting-personal-and-spiritual-grandiosity-by-robert-moore",
     "title": "Facing the Dragon: Confronting Personal and Spiritual Grandiosity by Robert Moore",
     "author": "Unknown",
@@ -5673,26 +5572,6 @@
     "tags": [
       "Technology",
       "Politics"
-    ]
-  },
-  {
-    "id": "consciousness-and-the-brain-by-stanislas-dehaene",
-    "title": "Consciousness and the Brain by Stanislas Dehaene",
-    "author": "Unknown",
-    "reviewAuthor": "Anonymous",
-    "contestId": "2022-book-reviews",
-    "contestName": "2022 Book Reviews",
-    "year": 2022,
-    "publishedDate": "2026-02-06T07:24:08.697Z",
-    "slug": "consciousness-and-the-brain-by-stanislas-dehaene",
-    "excerpt": "Imagine that there was a generally acknowledged test for artificial intelligence, to find out whether a computer program is truly intelligent. And imagine that a computer program passed this test for...",
-    "wordCount": 7592,
-    "readingTimeMinutes": 34,
-    "originalUrl": "https://docs.google.com/document/d/1pRQbRbEUwSH_jm94PI_ij-88swat7vQ4iNaNp6gd39g",
-    "source": "gdoc",
-    "tags": [
-      "Science",
-      "Philosophy"
     ]
   },
   {
@@ -5893,25 +5772,6 @@
     "tags": [
       "Society",
       "Politics"
-    ]
-  },
-  {
-    "id": "1587-a-year-of-no-significance-the-ming-dynasty-in-decline-by-ray-huang",
-    "title": "1587, A Year of No Significance: The Ming Dynasty in Decline by Ray Huang",
-    "author": "Unknown",
-    "reviewAuthor": "Anonymous",
-    "contestId": "2022-book-reviews",
-    "contestName": "2022 Book Reviews",
-    "year": 2022,
-    "publishedDate": "2026-02-06T07:24:08.688Z",
-    "slug": "1587-a-year-of-no-significance-the-ming-dynasty-in-decline-by-ray-huang",
-    "excerpt": "I bought this book because of its charming title: 1587, A Year of No Significance: The Ming Dynasty in Decline.",
-    "wordCount": 8765,
-    "readingTimeMinutes": 39,
-    "originalUrl": "https://docs.google.com/document/d/1pRQbRbEUwSH_jm94PI_ij-88swat7vQ4iNaNp6gd39g",
-    "source": "gdoc",
-    "tags": [
-      "History"
     ]
   },
   {
@@ -6474,26 +6334,6 @@
     ]
   },
   {
-    "id": "making-nature-the-history-of-a-scientific-journal-by-melinda-baldwin",
-    "title": "Making Nature: The History of a Scientific Journal by Melinda Baldwin",
-    "author": "Unknown",
-    "reviewAuthor": "Anonymous",
-    "contestId": "2022-book-reviews",
-    "contestName": "2022 Book Reviews",
-    "year": 2022,
-    "publishedDate": "2026-02-06T07:23:14.478Z",
-    "slug": "making-nature-the-history-of-a-scientific-journal-by-melinda-baldwin",
-    "excerpt": "The world of scientific publishing is organized as a hierarchy of status, much like the hierarchy of angels in the Abrahamic religions. At the bottom are the non-peer-reviewed blog posts and Twitter...",
-    "wordCount": 6468,
-    "readingTimeMinutes": 29,
-    "originalUrl": "https://docs.google.com/document/d/1kQUUJhv-MpLawby2j4zXLZPDG6ligWd5xpIjH8UmWdw",
-    "source": "gdoc",
-    "tags": [
-      "Science",
-      "History"
-    ]
-  },
-  {
     "id": "island-by-aldous-huxley",
     "title": "Island by Aldous Huxley",
     "author": "Unknown",
@@ -6549,25 +6389,6 @@
     "source": "gdoc",
     "tags": [
       "History"
-    ]
-  },
-  {
-    "id": "kora-in-hell-improvisations-by-william-carlos-williams",
-    "title": "Kora in Hell: Improvisations by William Carlos Williams",
-    "author": "Unknown",
-    "reviewAuthor": "Anonymous",
-    "contestId": "2022-book-reviews",
-    "contestName": "2022 Book Reviews",
-    "year": 2022,
-    "publishedDate": "2026-02-06T07:23:14.477Z",
-    "slug": "kora-in-hell-improvisations-by-william-carlos-williams",
-    "excerpt": "William Carlos Williams attributes the title to his friend/rival Ezra Pound, mythological references’ number one fanboy. Kora is a parallel figure to Persephone or Proserpina, the Spring captured and...",
-    "wordCount": 3116,
-    "readingTimeMinutes": 14,
-    "originalUrl": "https://docs.google.com/document/d/1kQUUJhv-MpLawby2j4zXLZPDG6ligWd5xpIjH8UmWdw",
-    "source": "gdoc",
-    "tags": [
-      "Fiction"
     ]
   },
   {
@@ -6790,26 +6611,6 @@
     ]
   },
   {
-    "id": "the-internationalists-by-oona-hathaway-and-scott-shapiro",
-    "title": "The Internationalists by Oona Hathaway and Scott Shapiro",
-    "author": "Unknown",
-    "reviewAuthor": "Anonymous",
-    "contestId": "2022-book-reviews",
-    "contestName": "2022 Book Reviews",
-    "year": 2022,
-    "publishedDate": "2026-02-06T07:22:32.827Z",
-    "slug": "the-internationalists-by-oona-hathaway-and-scott-shapiro",
-    "excerpt": "In The Internationalists, Oona Hathaway and Scott Shapiro (H&S from now on) work to raise the profile of the 1928 Kellogg-Briand Peace Pact, at the time the most-ratified treaty in history, in which...",
-    "wordCount": 8869,
-    "readingTimeMinutes": 40,
-    "originalUrl": "https://docs.google.com/document/d/100kMdSVFviZSSBvUyyEQPMNlvLptVQxHFD9i9wGuBWs",
-    "source": "gdoc",
-    "tags": [
-      "History",
-      "Politics"
-    ]
-  },
-  {
     "id": "the-irony-of-american-history-by-reinhold-niebuhr",
     "title": "The Irony of American History - by Reinhold Niebuhr",
     "author": "Unknown",
@@ -6928,26 +6729,6 @@
     "tags": [
       "History",
       "Politics"
-    ]
-  },
-  {
-    "id": "the-future-of-fusion-energy-by-jason-parisi-and-justin-ball",
-    "title": "The Future of Fusion Energy by Jason Parisi and Justin Ball",
-    "author": "Unknown",
-    "reviewAuthor": "Anonymous",
-    "contestId": "2022-book-reviews",
-    "contestName": "2022 Book Reviews",
-    "year": 2022,
-    "publishedDate": "2026-02-06T07:22:32.825Z",
-    "slug": "the-future-of-fusion-energy-by-jason-parisi-and-justin-ball",
-    "excerpt": "Fusion is the power which lights the stars. It is the source of all elements heavier than hydrogen in the universe. Wouldn't it be great if we could use and control this power here on Earth?",
-    "wordCount": 4966,
-    "readingTimeMinutes": 23,
-    "originalUrl": "https://docs.google.com/document/d/100kMdSVFviZSSBvUyyEQPMNlvLptVQxHFD9i9wGuBWs",
-    "source": "gdoc",
-    "tags": [
-      "Science",
-      "Technology"
     ]
   },
   {
@@ -7089,26 +6870,6 @@
     ]
   },
   {
-    "id": "the-dawn-of-everything-a-new-history-of-humanity-by-david-graeber-and-david-wengrow",
-    "title": "The Dawn of Everything: A New History of Humanity by David Graeber and David Wengrow",
-    "author": "Unknown",
-    "reviewAuthor": "Anonymous",
-    "contestId": "2022-book-reviews",
-    "contestName": "2022 Book Reviews",
-    "year": 2022,
-    "publishedDate": "2026-02-06T07:22:32.822Z",
-    "slug": "the-dawn-of-everything-a-new-history-of-humanity-by-david-graeber-and-david-wengrow",
-    "excerpt": "ON ROUSSEAU, ESSAY CONTESTS, POLITICAL MOTIVATIONS FOR REVISITING THE ORIGIN OF HUMAN CIVILIZATION, AND THE BOOK IS INTRODUCED",
-    "wordCount": 9545,
-    "readingTimeMinutes": 43,
-    "originalUrl": "https://docs.google.com/document/d/100kMdSVFviZSSBvUyyEQPMNlvLptVQxHFD9i9wGuBWs",
-    "source": "gdoc",
-    "tags": [
-      "History",
-      "Society"
-    ]
-  },
-  {
     "id": "the-deficit-myth-by-stephanie-kelton",
     "title": "The Deficit Myth by Stephanie Kelton",
     "author": "Unknown",
@@ -7126,26 +6887,6 @@
     "tags": [
       "Economics",
       "Politics"
-    ]
-  },
-  {
-    "id": "the-castrato-by-martha-feldman",
-    "title": "The Castrato by Martha Feldman",
-    "author": "Unknown",
-    "reviewAuthor": "Anonymous",
-    "contestId": "2022-book-reviews",
-    "contestName": "2022 Book Reviews",
-    "year": 2022,
-    "publishedDate": "2026-02-06T07:22:32.821Z",
-    "slug": "the-castrato-by-martha-feldman",
-    "excerpt": "“CASTRATO, a musician, who in his infancy had been deprived of the organs of generation, for the sake of preserving a shrill voice, who sings that part called sophrano. However small the connection...",
-    "wordCount": 8952,
-    "readingTimeMinutes": 40,
-    "originalUrl": "https://docs.google.com/document/d/100kMdSVFviZSSBvUyyEQPMNlvLptVQxHFD9i9wGuBWs",
-    "source": "gdoc",
-    "tags": [
-      "History",
-      "Society"
     ]
   },
   {
@@ -7303,26 +7044,6 @@
     "source": "gdoc",
     "tags": [
       "Science"
-    ]
-  },
-  {
-    "id": "the-anti-politics-machine-by-james-ferguson",
-    "title": "The Anti-Politics Machine by James Ferguson",
-    "author": "Unknown",
-    "reviewAuthor": "Anonymous",
-    "contestId": "2022-book-reviews",
-    "contestName": "2022 Book Reviews",
-    "year": 2022,
-    "publishedDate": "2026-02-06T07:22:32.817Z",
-    "slug": "the-anti-politics-machine-by-james-ferguson",
-    "excerpt": "Everyone familiar with Effective Altruism knows that “good intentions aren’t enough.”",
-    "wordCount": 4304,
-    "readingTimeMinutes": 20,
-    "originalUrl": "https://docs.google.com/document/d/100kMdSVFviZSSBvUyyEQPMNlvLptVQxHFD9i9wGuBWs",
-    "source": "gdoc",
-    "tags": [
-      "Politics",
-      "Economics"
     ]
   },
   {
@@ -7500,26 +7221,6 @@
     "tags": [
       "Society",
       "Biology"
-    ]
-  },
-  {
-    "id": "viral-by-alina-chan-and-matt-ridley",
-    "title": "Viral by Alina Chan and Matt Ridley",
-    "author": "Unknown",
-    "reviewAuthor": "Anonymous",
-    "contestId": "2022-book-reviews",
-    "contestName": "2022 Book Reviews",
-    "year": 2022,
-    "publishedDate": "2026-02-06T07:21:54.184Z",
-    "slug": "viral-by-alina-chan-and-matt-ridley",
-    "excerpt": "Alina Chan and Matt Ridley’s Viral is a book about the investigation into the origins of the COVID-19 pandemic. In case you haven’t been following, there’s been a shift in the scientific consensus on...",
-    "wordCount": 6353,
-    "readingTimeMinutes": 29,
-    "originalUrl": "https://docs.google.com/document/d/1hFzjXliCAWjvheY-8Qd2fhbF79LnX0Xg6R9eqk9yIyI",
-    "source": "gdoc",
-    "tags": [
-      "Science",
-      "Politics"
     ]
   },
   {
@@ -7701,26 +7402,6 @@
     ]
   },
   {
-    "id": "the-society-of-the-spectacle-by-guy-debord",
-    "title": "The Society of the Spectacle by Guy Debord",
-    "author": "Unknown",
-    "reviewAuthor": "Anonymous",
-    "contestId": "2022-book-reviews",
-    "contestName": "2022 Book Reviews",
-    "year": 2022,
-    "publishedDate": "2026-02-06T07:21:54.174Z",
-    "slug": "the-society-of-the-spectacle-by-guy-debord",
-    "excerpt": "“The Society of the Spectacle will make no sense if the reader feels there is nothing fundamentally wrong with contemporary society.”",
-    "wordCount": 9623,
-    "readingTimeMinutes": 43,
-    "originalUrl": "https://docs.google.com/document/d/1hFzjXliCAWjvheY-8Qd2fhbF79LnX0Xg6R9eqk9yIyI",
-    "source": "gdoc",
-    "tags": [
-      "Philosophy",
-      "Society"
-    ]
-  },
-  {
     "id": "the-tyranny-of-metrics-by-jerry-z-muller",
     "title": "The Tyranny of Metrics by Jerry Z. Muller",
     "author": "Unknown",
@@ -7757,27 +7438,6 @@
     "source": "gdoc",
     "tags": [
       "Society",
-      "Politics"
-    ]
-  },
-  {
-    "id": "the-righteous-mind-by-jonathan-haidt",
-    "title": "The Righteous Mind – by Jonathan Haidt",
-    "author": "Unknown",
-    "reviewAuthor": "Anonymous",
-    "contestId": "2022-book-reviews",
-    "contestName": "2022 Book Reviews",
-    "year": 2022,
-    "publishedDate": "2026-02-06T07:21:54.173Z",
-    "slug": "the-righteous-mind-by-jonathan-haidt",
-    "excerpt": "I didn’t read The Righteous Mind for a long time after I knew about it. This was partly because I don’t get through much in the way of new reading material. A friend of mine told me yesterday that...",
-    "wordCount": 11926,
-    "readingTimeMinutes": 54,
-    "originalUrl": "https://docs.google.com/document/d/1hFzjXliCAWjvheY-8Qd2fhbF79LnX0Xg6R9eqk9yIyI",
-    "source": "gdoc",
-    "tags": [
-      "Psychology",
-      "Philosophy",
       "Politics"
     ]
   },
@@ -7839,27 +7499,6 @@
     "tags": [
       "History",
       "Politics"
-    ]
-  },
-  {
-    "id": "the-outlier-the-unfinished-presidency-of-jimmy-carter-by-kai-bird",
-    "title": "The Outlier: The Unfinished Presidency of Jimmy Carter by Kai Bird",
-    "author": "Unknown",
-    "reviewAuthor": "Anonymous",
-    "contestId": "2022-book-reviews",
-    "contestName": "2022 Book Reviews",
-    "year": 2022,
-    "publishedDate": "2026-02-06T07:21:54.171Z",
-    "slug": "the-outlier-the-unfinished-presidency-of-jimmy-carter-by-kai-bird",
-    "excerpt": "I decided to read a 600-page book about Jimmy Carter because I was tired of only reading about the historical figures everyone already agrees are interesting.",
-    "wordCount": 5687,
-    "readingTimeMinutes": 26,
-    "originalUrl": "https://docs.google.com/document/d/1hFzjXliCAWjvheY-8Qd2fhbF79LnX0Xg6R9eqk9yIyI",
-    "source": "gdoc",
-    "tags": [
-      "History",
-      "Politics",
-      "Memoir"
     ]
   },
   {
@@ -8202,25 +7841,6 @@
     ]
   },
   {
-    "id": "how-children-fail-by-john-holt",
-    "title": "How Children Fail by John Holt",
-    "author": "Unknown",
-    "reviewAuthor": "Anonymous",
-    "contestId": "2021-book-reviews",
-    "contestName": "2021 Book Reviews",
-    "year": 2021,
-    "publishedDate": "2026-02-06T07:21:29.570Z",
-    "slug": "how-children-fail-by-john-holt",
-    "excerpt": "Seriously, they’re terrible at it, and nobody ever calls them out as a group. We call out individual children as failing. We call out individual schools and school systems as bad. But the much more...",
-    "wordCount": 4537,
-    "readingTimeMinutes": 21,
-    "originalUrl": "https://docs.google.com/document/d/1xexFJ7h0vULMDE7N77q_MIzXoerexfe_CqqGEL6hEoQ",
-    "source": "gdoc",
-    "tags": [
-      "Society"
-    ]
-  },
-  {
     "id": "human-scale-revisited-by-kirkpatrick-sale",
     "title": "Human Scale Revisited by Kirkpatrick Sale",
     "author": "Unknown",
@@ -8376,27 +7996,6 @@
     "source": "gdoc",
     "tags": [
       "Fiction"
-    ]
-  },
-  {
-    "id": "down-and-out-in-paris-and-london-by-george-orwell",
-    "title": "Down and Out in Paris and London by George Orwell",
-    "author": "Unknown",
-    "reviewAuthor": "Anonymous",
-    "contestId": "2021-book-reviews",
-    "contestName": "2021 Book Reviews",
-    "year": 2021,
-    "publishedDate": "2026-02-06T07:21:29.566Z",
-    "slug": "down-and-out-in-paris-and-london-by-george-orwell",
-    "excerpt": "George Orwell’s Down and Out in Paris and London is at least three things; a highly entertaining, almost picaresque tale of rough-and-tumble living in Europe, a serious attempt to catalogue the...",
-    "wordCount": 13451,
-    "readingTimeMinutes": 60,
-    "originalUrl": "https://docs.google.com/document/d/1xexFJ7h0vULMDE7N77q_MIzXoerexfe_CqqGEL6hEoQ",
-    "source": "gdoc",
-    "tags": [
-      "Fiction",
-      "Memoir",
-      "Society"
     ]
   },
   {
@@ -9075,26 +8674,6 @@
     "tags": [
       "Philosophy",
       "History"
-    ]
-  },
-  {
-    "id": "cities-and-the-wealth-of-nations-and-the-question-of-separatism-by-jane-jacobs",
-    "title": "‘Cities and the Wealth of Nations’ and ‘The Question of Separatism’ by Jane Jacobs",
-    "author": "Unknown",
-    "reviewAuthor": "Anonymous",
-    "contestId": "2023-book-reviews",
-    "contestName": "2023 Book Reviews",
-    "year": 2023,
-    "publishedDate": "2026-02-06T07:21:10.026Z",
-    "slug": "cities-and-the-wealth-of-nations-and-the-question-of-separatism-by-jane-jacobs",
-    "excerpt": "If you know Jane Jacobs at all, you know her for her work on cities. Her most famous book, published in 1961, is called The Death and Life of Great American Cities. It criticizes large-scale,...",
-    "wordCount": 9891,
-    "readingTimeMinutes": 44,
-    "originalUrl": "https://docs.google.com/document/d/10CiEI7aDL2bMIdx7yayy3vlq0TJ8dO5LGnG7yIDPiw8",
-    "source": "gdoc",
-    "tags": [
-      "Economics",
-      "Society"
     ]
   },
   {
@@ -10489,26 +10068,6 @@
     ]
   },
   {
-    "id": "alpha-school-and-2-hour-learning-powered-by-ai",
-    "title": "Alpha School and \"2-hour Learning\" powered by AI",
-    "author": "Unknown",
-    "reviewAuthor": "Anonymous",
-    "contestId": "2025-non-book-reviews",
-    "contestName": "2025 Non Book Reviews",
-    "year": 2025,
-    "publishedDate": "2025-01-01T00:00:00.000Z",
-    "slug": "alpha-school-and-2-hour-learning-powered-by-ai",
-    "excerpt": "“Just as we don’t accept students using AI to write their essays, we will not accept districts using AI to supplant the critical role of teachers.”",
-    "wordCount": 18026,
-    "readingTimeMinutes": 81,
-    "originalUrl": "https://docs.google.com/document/d/1d0vRSj1E93joWWvbUen2XGuDjN_mM94ybMIAADzM2fo",
-    "source": "gdoc",
-    "tags": [
-      "Technology",
-      "Society"
-    ]
-  },
-  {
     "id": "civil-war",
     "title": "“Civil War”",
     "author": "Unknown",
@@ -10608,26 +10167,6 @@
     ]
   },
   {
-    "id": "islamic-geometric-patterns-in-the-metropolitan-museum-of-art",
-    "title": "Islamic geometric patterns in the Metropolitan Museum of Art",
-    "author": "Unknown",
-    "reviewAuthor": "Anonymous",
-    "contestId": "2025-non-book-reviews",
-    "contestName": "2025 Non Book Reviews",
-    "year": 2025,
-    "publishedDate": "2025-01-01T00:00:00.000Z",
-    "slug": "islamic-geometric-patterns-in-the-metropolitan-museum-of-art",
-    "excerpt": "Gallery 456, also known as The Moroccan Court, was built in 2011 during the most recent renovation of the museum’s Islamic arts wing. Seeking to showcase not just Islamic artifacts, but also the...",
-    "wordCount": 5335,
-    "readingTimeMinutes": 24,
-    "originalUrl": "https://docs.google.com/document/d/1d0vRSj1E93joWWvbUen2XGuDjN_mM94ybMIAADzM2fo",
-    "source": "gdoc",
-    "tags": [
-      "History",
-      "Religion"
-    ]
-  },
-  {
     "id": "kikis-delivery-service",
     "title": "Kiki’s Delivery Service",
     "author": "Unknown",
@@ -10701,46 +10240,6 @@
     "source": "gdoc",
     "tags": [
       "Fiction"
-    ]
-  },
-  {
-    "id": "of-mice-mechanisms-and-dementia",
-    "title": "Of Mice, Mechanisms, and Dementia",
-    "author": "Unknown",
-    "reviewAuthor": "Anonymous",
-    "contestId": "2025-non-book-reviews",
-    "contestName": "2025 Non Book Reviews",
-    "year": 2025,
-    "publishedDate": "2025-01-01T00:00:00.000Z",
-    "slug": "of-mice-mechanisms-and-dementia",
-    "excerpt": "The scientific paper is a “fraud” that creates “a totally misleading narrative of the processes of thought that go into the making of scientific discoveries.”",
-    "wordCount": 7017,
-    "readingTimeMinutes": 32,
-    "originalUrl": "https://docs.google.com/document/d/1a3q0Z2tuPLLbDeg5-pfEffkajGjrfPDwE7ZMs7uaWQs",
-    "source": "gdoc",
-    "tags": [
-      "Science",
-      "Biology"
-    ]
-  },
-  {
-    "id": "participation-in-phase-i-clinical-pharmaceutical-research",
-    "title": "Participation in Phase I clinical pharmaceutical research",
-    "author": "Unknown",
-    "reviewAuthor": "Anonymous",
-    "contestId": "2025-non-book-reviews",
-    "contestName": "2025 Non Book Reviews",
-    "year": 2025,
-    "publishedDate": "2025-01-01T00:00:00.000Z",
-    "slug": "participation-in-phase-i-clinical-pharmaceutical-research",
-    "excerpt": "If you’ve been following this blog for long, you probably know at least a bit about pharmaceutical research. You might know a bit about the sort of subtle measures pharmaceutical companies take to...",
-    "wordCount": 4593,
-    "readingTimeMinutes": 21,
-    "originalUrl": "https://docs.google.com/document/d/1a3q0Z2tuPLLbDeg5-pfEffkajGjrfPDwE7ZMs7uaWQs",
-    "source": "gdoc",
-    "tags": [
-      "Memoir",
-      "Science"
     ]
   },
   {
@@ -10877,25 +10376,6 @@
     "source": "gdoc",
     "tags": [
       "Fiction",
-      "Society"
-    ]
-  },
-  {
-    "id": "the-astral-codex-ten-commentariat-why-do-we-suck",
-    "title": "The Astral Codex Ten Commentariat: “Why Do We Suck?”",
-    "author": "Unknown",
-    "reviewAuthor": "Anonymous",
-    "contestId": "2025-non-book-reviews",
-    "contestName": "2025 Non Book Reviews",
-    "year": 2025,
-    "publishedDate": "2025-01-01T00:00:00.000Z",
-    "slug": "the-astral-codex-ten-commentariat-why-do-we-suck",
-    "excerpt": "The Astral Codex Ten (ACX) Commentariat is defined as the 24,485 individuals other than Scott who have contributed to the corpus of work of Scott’s blog posts, chiefly by leaving comments at the...",
-    "wordCount": 10070,
-    "readingTimeMinutes": 45,
-    "originalUrl": "https://docs.google.com/document/d/1jYVJFIz5-aMi0LCgsC9AN6BncJDNVGaMU37QmwZ1vzA",
-    "source": "gdoc",
-    "tags": [
       "Society"
     ]
   },
@@ -11334,40 +10814,6 @@
     "tags": []
   },
   {
-    "id": "lying-for-money-how-legendary-frauds-reveal-the-workings-of-the-world",
-    "title": "Lying for Money: How Legendary Frauds Reveal the Workings of the World",
-    "author": "Unknown",
-    "reviewAuthor": "Anonymous",
-    "contestId": "2023-book-reviews",
-    "contestName": "2023 Book Reviews",
-    "year": 2023,
-    "publishedDate": "2023-01-01T00:00:00.000Z",
-    "slug": "lying-for-money-how-legendary-frauds-reveal-the-workings-of-the-world",
-    "excerpt": "At the time of its maiden voyage, the Titanic was considered an unsinkable ship. It was regarded as a marvel of engineering, a state-of-the-art vessel constructed by a shipyard with a long-standing...",
-    "wordCount": 12452,
-    "readingTimeMinutes": 56,
-    "originalUrl": "https://docs.google.com/document/d/1vci14HMZ2UEJBs6mKCZZ2vHs-jVuPSsFsiN3cAENzXU",
-    "source": "gdoc",
-    "tags": []
-  },
-  {
-    "id": "mans-search-for-meaning-by-viktor-e-frankl",
-    "title": "Man’s Search for Meaning, by Viktor E. Frankl",
-    "author": "Unknown",
-    "reviewAuthor": "Anonymous",
-    "contestId": "2023-book-reviews",
-    "contestName": "2023 Book Reviews",
-    "year": 2023,
-    "publishedDate": "2023-01-01T00:00:00.000Z",
-    "slug": "mans-search-for-meaning-by-viktor-e-frankl",
-    "excerpt": "Hello, reader. This is one of those reviews that starts with one book and switches to a completely different book in the middle. Plus a few more twists. Also, there will be orcs, golems,...",
-    "wordCount": 7379,
-    "readingTimeMinutes": 33,
-    "originalUrl": "https://docs.google.com/document/d/1vci14HMZ2UEJBs6mKCZZ2vHs-jVuPSsFsiN3cAENzXU",
-    "source": "gdoc",
-    "tags": []
-  },
-  {
     "id": "maos-great-famine",
     "title": "Mao’s Great Famine",
     "author": "Unknown",
@@ -11465,40 +10911,6 @@
     "excerpt": "There’s a familiar story that appears on the news roughly once a year, which pretty much goes like this:",
     "wordCount": 7791,
     "readingTimeMinutes": 35,
-    "originalUrl": "https://docs.google.com/document/d/1vci14HMZ2UEJBs6mKCZZ2vHs-jVuPSsFsiN3cAENzXU",
-    "source": "gdoc",
-    "tags": []
-  },
-  {
-    "id": "njals-saga-2",
-    "title": "Njal’s Saga",
-    "author": "Unknown",
-    "reviewAuthor": "Anonymous",
-    "contestId": "2023-book-reviews",
-    "contestName": "2023 Book Reviews",
-    "year": 2023,
-    "publishedDate": "2023-01-01T00:00:00.000Z",
-    "slug": "njals-saga-2",
-    "excerpt": "I found Njal’s Saga hard to follow. Halfway through, a friend reassured me it wasn’t my fault. The medieval Icelanders had erred in releasing it as a book. It should have been the world’s wackiest...",
-    "wordCount": 4393,
-    "readingTimeMinutes": 20,
-    "originalUrl": "https://docs.google.com/document/d/1vci14HMZ2UEJBs6mKCZZ2vHs-jVuPSsFsiN3cAENzXU",
-    "source": "gdoc",
-    "tags": []
-  },
-  {
-    "id": "on-the-marble-cliffs-by-ernst-jnger",
-    "title": "On the Marble Cliffs by Ernst Jünger",
-    "author": "Unknown",
-    "reviewAuthor": "Anonymous",
-    "contestId": "2023-book-reviews",
-    "contestName": "2023 Book Reviews",
-    "year": 2023,
-    "publishedDate": "2023-01-01T00:00:00.000Z",
-    "slug": "on-the-marble-cliffs-by-ernst-jnger",
-    "excerpt": "What kind of fiction could be remarkable enough for an Astral Codex Ten review?",
-    "wordCount": 7043,
-    "readingTimeMinutes": 32,
     "originalUrl": "https://docs.google.com/document/d/1vci14HMZ2UEJBs6mKCZZ2vHs-jVuPSsFsiN3cAENzXU",
     "source": "gdoc",
     "tags": []
@@ -11657,23 +11069,6 @@
     "tags": []
   },
   {
-    "id": "public-citizens-the-attack-on-big-government-and-the-remaking-of-american-liberalism",
-    "title": "Public Citizens: The Attack on Big Government and the Remaking of American Liberalism",
-    "author": "Unknown",
-    "reviewAuthor": "Anonymous",
-    "contestId": "2023-book-reviews",
-    "contestName": "2023 Book Reviews",
-    "year": 2023,
-    "publishedDate": "2023-01-01T00:00:00.000Z",
-    "slug": "public-citizens-the-attack-on-big-government-and-the-remaking-of-american-liberalism",
-    "excerpt": "Today, pundicts across the political spectrum bemoan America’s inability to build.",
-    "wordCount": 4905,
-    "readingTimeMinutes": 22,
-    "originalUrl": "https://docs.google.com/document/d/1vci14HMZ2UEJBs6mKCZZ2vHs-jVuPSsFsiN3cAENzXU",
-    "source": "gdoc",
-    "tags": []
-  },
-  {
     "id": "python-data-science-handbook",
     "title": "Python Data Science Handbook",
     "author": "Unknown",
@@ -11725,27 +11120,6 @@
     "tags": []
   },
   {
-    "id": "safe-enough-a-history-of-nuclear-power-and-accident-risk",
-    "title": "Safe Enough? A History of Nuclear Power and Accident Risk",
-    "author": "Unknown",
-    "reviewAuthor": "Anonymous",
-    "contestId": "2023-book-reviews",
-    "contestName": "2023 Book Reviews",
-    "year": 2023,
-    "publishedDate": "2023-01-01T00:00:00.000Z",
-    "slug": "safe-enough-a-history-of-nuclear-power-and-accident-risk",
-    "excerpt": "The date is June 9, 1985. The place is the Davis-Besse nuclear plant near Toledo, Ohio. It is just after 1:35 am, and the plant has a small malfunction: \"As the assistant supervisor entered the...",
-    "wordCount": 4915,
-    "readingTimeMinutes": 22,
-    "originalUrl": "https://docs.google.com/document/d/1vci14HMZ2UEJBs6mKCZZ2vHs-jVuPSsFsiN3cAENzXU",
-    "source": "gdoc",
-    "tags": [
-      "Technology",
-      "History",
-      "Science"
-    ]
-  },
-  {
     "id": "science-fictions-by-stuart-ritchie",
     "title": "Science Fictions by Stuart Ritchie",
     "author": "Unknown",
@@ -11758,23 +11132,6 @@
     "excerpt": "By now, the replication crisis is famous.  Everyone knows that many of the landmark studies in psychology and social science, among other fields, have gone down in flames.  But how did this crisis...",
     "wordCount": 5071,
     "readingTimeMinutes": 23,
-    "originalUrl": "https://docs.google.com/document/d/1vci14HMZ2UEJBs6mKCZZ2vHs-jVuPSsFsiN3cAENzXU",
-    "source": "gdoc",
-    "tags": []
-  },
-  {
-    "id": "secret-government-by-brian-kogelmann",
-    "title": "Secret Government by Brian Kogelmann",
-    "author": "Unknown",
-    "reviewAuthor": "Anonymous",
-    "contestId": "2023-book-reviews",
-    "contestName": "2023 Book Reviews",
-    "year": 2023,
-    "publishedDate": "2023-01-01T00:00:00.000Z",
-    "slug": "secret-government-by-brian-kogelmann",
-    "excerpt": "There is widespread agreement among philosophers, political commentators, and the general public that transparency in government is an unalloyed good. Louis Brandeis famously articulates the common...",
-    "wordCount": 5371,
-    "readingTimeMinutes": 24,
     "originalUrl": "https://docs.google.com/document/d/1vci14HMZ2UEJBs6mKCZZ2vHs-jVuPSsFsiN3cAENzXU",
     "source": "gdoc",
     "tags": []
@@ -11844,23 +11201,6 @@
     "wordCount": 4591,
     "readingTimeMinutes": 21,
     "originalUrl": "https://docs.google.com/document/d/1vci14HMZ2UEJBs6mKCZZ2vHs-jVuPSsFsiN3cAENzXU",
-    "source": "gdoc",
-    "tags": []
-  },
-  {
-    "id": "so-there-you-are-sitting-on-your-bed",
-    "title": "So there you are, sitting on your bed,",
-    "author": "Unknown",
-    "reviewAuthor": "Anonymous",
-    "contestId": "2023-book-reviews",
-    "contestName": "2023 Book Reviews",
-    "year": 2023,
-    "publishedDate": "2023-01-01T00:00:00.000Z",
-    "slug": "so-there-you-are-sitting-on-your-bed",
-    "excerpt": "So there you are, sitting on your bed, scrolling the internet, and you see it: your least favorite politician has done something that is unmistakably, unambiguously, undeniably JUST LIKE HITLER. But...",
-    "wordCount": 9129,
-    "readingTimeMinutes": 41,
-    "originalUrl": "https://docs.google.com/document/d/1AtGIIv371v0Yu35eNsIxJr67dw4SHOiGdKrqmoKt2hg",
     "source": "gdoc",
     "tags": []
   },
@@ -11950,7 +11290,7 @@
     "tags": []
   },
   {
-    "id": "the-burnout-society-by-byung-chul-han",
+    "id": "the-burnout-society-by-byung-chul-han-2023",
     "title": "The Burnout Society by Byung-Chul Han",
     "author": "Unknown",
     "reviewAuthor": "Anonymous",
@@ -11958,7 +11298,7 @@
     "contestName": "2023 Book Reviews",
     "year": 2023,
     "publishedDate": "2023-01-01T00:00:00.000Z",
-    "slug": "the-burnout-society-by-byung-chul-han",
+    "slug": "the-burnout-society-by-byung-chul-han-2023",
     "excerpt": "In The Burnout Society, Byung-Chul Han argues that Western societies have undergone a major transformation in recent decades, a once-in-an-epoch shift has given rise to nothing less than a new kind...",
     "wordCount": 1769,
     "readingTimeMinutes": 8,
@@ -12103,23 +11443,6 @@
     "tags": []
   },
   {
-    "id": "the-educated-mind-by-kieran-egan",
-    "title": "The Educated Mind, by Kieran Egan",
-    "author": "Unknown",
-    "reviewAuthor": "Anonymous",
-    "contestId": "2023-book-reviews",
-    "contestName": "2023 Book Reviews",
-    "year": 2023,
-    "publishedDate": "2023-01-01T00:00:00.000Z",
-    "slug": "the-educated-mind-by-kieran-egan",
-    "excerpt": "“The promise of a new educational theory”, writes Kieran Egan, “has the magnetism of a newspaper headline like ‘Small Earthquake in Chile: Few Hurt’”.",
-    "wordCount": 24260,
-    "readingTimeMinutes": 108,
-    "originalUrl": "https://docs.google.com/document/d/1AtGIIv371v0Yu35eNsIxJr67dw4SHOiGdKrqmoKt2hg",
-    "source": "gdoc",
-    "tags": []
-  },
-  {
     "id": "the-everything-store-jeff-bezos-and-the-age-of-amazon",
     "title": "The Everything Store: Jeff Bezos and the Age of Amazon",
     "author": "Unknown",
@@ -12200,23 +11523,6 @@
     "excerpt": "Imagine you’re watching a movie, and there’s this one character that keeps appearing in the background in several important scenes. This character has a couple of throwaway lines, but she doesn’t...",
     "wordCount": 5102,
     "readingTimeMinutes": 23,
-    "originalUrl": "https://docs.google.com/document/d/1AtGIIv371v0Yu35eNsIxJr67dw4SHOiGdKrqmoKt2hg",
-    "source": "gdoc",
-    "tags": []
-  },
-  {
-    "id": "the-laws-of-trading-by-agustin-lebron",
-    "title": "The Laws of Trading, by Agustin Lebron",
-    "author": "Unknown",
-    "reviewAuthor": "Anonymous",
-    "contestId": "2023-book-reviews",
-    "contestName": "2023 Book Reviews",
-    "year": 2023,
-    "publishedDate": "2023-01-01T00:00:00.000Z",
-    "slug": "the-laws-of-trading-by-agustin-lebron",
-    "excerpt": "A book about trading isn’t ever actually about trading.[[9]](#ftnt9) It is either:",
-    "wordCount": 6161,
-    "readingTimeMinutes": 28,
     "originalUrl": "https://docs.google.com/document/d/1AtGIIv371v0Yu35eNsIxJr67dw4SHOiGdKrqmoKt2hg",
     "source": "gdoc",
     "tags": []
@@ -12392,24 +11698,7 @@
     "tags": []
   },
   {
-    "id": "the-mind-of-a-bee-2",
-    "title": "THE MIND OF A BEE",
-    "author": "Unknown",
-    "reviewAuthor": "Anonymous",
-    "contestId": "2023-book-reviews",
-    "contestName": "2023 Book Reviews",
-    "year": 2023,
-    "publishedDate": "2023-01-01T00:00:00.000Z",
-    "slug": "the-mind-of-a-bee-2",
-    "excerpt": "Sadly, this is not a review of a book called The Mind of a Crab Spider. But as you crab spider lovers know, crab spiders and bumble bees are natural rivals.",
-    "wordCount": 5240,
-    "readingTimeMinutes": 24,
-    "originalUrl": "https://docs.google.com/document/d/1AtGIIv371v0Yu35eNsIxJr67dw4SHOiGdKrqmoKt2hg",
-    "source": "gdoc",
-    "tags": []
-  },
-  {
-    "id": "the-ministry-for-the-future-by-kim-stanley-robinson",
+    "id": "the-ministry-for-the-future-by-kim-stanley-robinson-2023",
     "title": "The Ministry for the Future by Kim Stanley Robinson",
     "author": "Unknown",
     "reviewAuthor": "Anonymous",
@@ -12417,7 +11706,7 @@
     "contestName": "2023 Book Reviews",
     "year": 2023,
     "publishedDate": "2023-01-01T00:00:00.000Z",
-    "slug": "the-ministry-for-the-future-by-kim-stanley-robinson",
+    "slug": "the-ministry-for-the-future-by-kim-stanley-robinson-2023",
     "excerpt": "Even the severest critic of The Ministry for the Future will agree that it is well-researched and well-intentioned.",
     "wordCount": 3232,
     "readingTimeMinutes": 15,
@@ -12647,23 +11936,6 @@
     "tags": []
   },
   {
-    "id": "the-weirdest-people-in-the-world-by-joseph-henrich-review-2",
-    "title": "The Weirdest People in the World by Joseph Henrich (Review 2)",
-    "author": "Unknown",
-    "reviewAuthor": "Anonymous",
-    "contestId": "2023-book-reviews",
-    "contestName": "2023 Book Reviews",
-    "year": 2023,
-    "publishedDate": "2023-01-01T00:00:00.000Z",
-    "slug": "the-weirdest-people-in-the-world-by-joseph-henrich-review-2",
-    "excerpt": "Down from the gardens of Asia descending radiating,  \nAdam and Eve appear…",
-    "wordCount": 4772,
-    "readingTimeMinutes": 22,
-    "originalUrl": "https://docs.google.com/document/d/1AtGIIv371v0Yu35eNsIxJr67dw4SHOiGdKrqmoKt2hg",
-    "source": "gdoc",
-    "tags": []
-  },
-  {
     "id": "the-weirdest-people-in-the-world-how-the-west-became-psychologically-peculiar-and-particularly-prosperous-by-joseph-henrich-review-1",
     "title": "The Weirdest People in the World: How the West Became Psychologically Peculiar and Particularly Prosperous by Joseph Henrich (Review 1)",
     "author": "Unknown",
@@ -12823,23 +12095,6 @@
     "tags": []
   },
   {
-    "id": "why-machines-will-never-rule-the-world-review-1",
-    "title": "Why Machines Will Never Rule the World (Review 1)",
-    "author": "Unknown",
-    "reviewAuthor": "Anonymous",
-    "contestId": "2023-book-reviews",
-    "contestName": "2023 Book Reviews",
-    "year": 2023,
-    "publishedDate": "2023-01-01T00:00:00.000Z",
-    "slug": "why-machines-will-never-rule-the-world-review-1",
-    "excerpt": "I'll begin with a contentious but invariably true statement, which I've no interest in defending here: new books—at least new nonfiction books—are not meant to be read. In truth, a new book is a...",
-    "wordCount": 2495,
-    "readingTimeMinutes": 12,
-    "originalUrl": "https://docs.google.com/document/d/1D2MGZ7HW1vRtOtfXYIx9BBUt6ubjEA2n06gpoHcxaFY",
-    "source": "gdoc",
-    "tags": []
-  },
-  {
     "id": "why-machines-will-never-rule-the-world-review-2",
     "title": "Why Machines Will Never Rule the World (Review 2)",
     "author": "Unknown",
@@ -12852,23 +12107,6 @@
     "excerpt": "My excitement for diving into Why Machines Will Never Rule the World was twofold. First, as a human with a fondness for our species' current planetary supremacy, it's comforting to know we won't be...",
     "wordCount": 2641,
     "readingTimeMinutes": 12,
-    "originalUrl": "https://docs.google.com/document/d/1D2MGZ7HW1vRtOtfXYIx9BBUt6ubjEA2n06gpoHcxaFY",
-    "source": "gdoc",
-    "tags": []
-  },
-  {
-    "id": "why-nations-fail-by-daron-acemoglu-and-james-robinson-2012",
-    "title": "Why Nations Fail by Daron Acemoglu and James Robinson, 2012",
-    "author": "Unknown",
-    "reviewAuthor": "Anonymous",
-    "contestId": "2023-book-reviews",
-    "contestName": "2023 Book Reviews",
-    "year": 2023,
-    "publishedDate": "2023-01-01T00:00:00.000Z",
-    "slug": "why-nations-fail-by-daron-acemoglu-and-james-robinson-2012",
-    "excerpt": "1.  Why Nations Fail is not a very good book.\n2.  Its authors' academic papers are much better, so I steelman their thesis as best I can, but it's still debatable.\n3.  Even if correct, it is much...",
-    "wordCount": 4903,
-    "readingTimeMinutes": 22,
     "originalUrl": "https://docs.google.com/document/d/1D2MGZ7HW1vRtOtfXYIx9BBUt6ubjEA2n06gpoHcxaFY",
     "source": "gdoc",
     "tags": []
@@ -12937,23 +12175,6 @@
     "excerpt": "There are many ways I can describe this series. Most of them are not good.",
     "wordCount": 8128,
     "readingTimeMinutes": 37,
-    "originalUrl": "https://docs.google.com/document/d/1D2MGZ7HW1vRtOtfXYIx9BBUt6ubjEA2n06gpoHcxaFY",
-    "source": "gdoc",
-    "tags": []
-  },
-  {
-    "id": "zuozhuan-2",
-    "title": "Zuozhuan",
-    "author": "Unknown",
-    "reviewAuthor": "Anonymous",
-    "contestId": "2023-book-reviews",
-    "contestName": "2023 Book Reviews",
-    "year": 2023,
-    "publishedDate": "2023-01-01T00:00:00.000Z",
-    "slug": "zuozhuan-2",
-    "excerpt": "To tell the story of the fall of a realm, it’s best to start with its rise.",
-    "wordCount": 7279,
-    "readingTimeMinutes": 33,
     "originalUrl": "https://docs.google.com/document/d/1D2MGZ7HW1vRtOtfXYIx9BBUt6ubjEA2n06gpoHcxaFY",
     "source": "gdoc",
     "tags": []

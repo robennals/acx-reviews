@@ -1,16 +1,17 @@
 ---
-title: "The Ministry for the Future by Kim Stanley Robinson"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2023-book-reviews"
-contestName: "2023 Book Reviews"
+title: The Ministry for the Future by Kim Stanley Robinson
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2023-book-reviews
+contestName: 2023 Book Reviews
 year: 2023
-publishedDate: "2023-01-01T00:00:00.000Z"
-slug: "the-ministry-for-the-future-by-kim-stanley-robinson"
+publishedDate: '2023-01-01T00:00:00.000Z'
+slug: the-ministry-for-the-future-by-kim-stanley-robinson-2023
 wordCount: 3232
 readingTimeMinutes: 15
-originalUrl: "https://docs.google.com/document/d/1AtGIIv371v0Yu35eNsIxJr67dw4SHOiGdKrqmoKt2hg"
-source: "gdoc"
+originalUrl: >-
+  https://docs.google.com/document/d/1AtGIIv371v0Yu35eNsIxJr67dw4SHOiGdKrqmoKt2hg
+source: gdoc
 ---
 
 THE IMPOTENCE OF BEING EARNEST

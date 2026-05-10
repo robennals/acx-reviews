@@ -6,7 +6,7 @@ contestId: 2024-book-reviews
 contestName: 2024 Book Reviews
 year: 2024
 publishedDate: '2026-02-06T16:47:15.591Z'
-slug: a-canticle-for-leibowitz-by-walter-m-miller-jr
+slug: a-canticle-for-leibowitz-by-walter-m-miller-jr-2024
 wordCount: 3037
 readingTimeMinutes: 14
 originalUrl: >-
