@@ -23,7 +23,7 @@
     "year": 2023,
     "type": "book",
     "description": "Book review contest entries from 2023",
-    "reviewCount": 51,
+    "reviewCount": 160,
     "sourceType": "both"
   },
   {
@@ -41,7 +41,7 @@
     "year": 2021,
     "type": "book",
     "description": "Book review contest entries from 2021",
-    "reviewCount": 60,
-    "sourceType": "acx"
+    "reviewCount": 115,
+    "sourceType": "both"
   }
 ]
