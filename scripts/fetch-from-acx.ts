@@ -14,6 +14,7 @@ import * as cheerio from 'cheerio';
 import matter from 'gray-matter';
 import TurndownService from 'turndown';
 import { slugify, countWords, calculateReadingTime, createExcerpt } from '../lib/utils';
+import { stringifyMarkdown } from './lib/frontmatter';
 
 const ACX_SOURCES_PATH = path.join(process.cwd(), 'data/sources/acx-urls.json');
 const REVIEWS_DIR = path.join(process.cwd(), 'data/reviews');
@@ -228,25 +229,95 @@ function createMarkdownFile(
     .map(word => word.charAt(0).toUpperCase() + word.slice(1))
     .join(' ');
 
-  // Create frontmatter
-  const frontmatter = `---
-title: "${data.title.replace(/"/g, '\\"')}"
-author: "${data.author.replace(/"/g, '\\"')}"
-reviewAuthor: "${data.reviewAuthor.replace(/"/g, '\\"')}"
-contestId: "${contestId}"
-contestName: "${contestName}"
-year: ${year}
-publishedDate: "${data.publishedDate}"
-slug: "${slug}"
-wordCount: ${wordCount}
-readingTimeMinutes: ${readingTime}
-originalUrl: "${data.originalUrl}"
-source: "acx"
----
-
-${data.content}`;
-
+  // If a different review (e.g. the gdoc honorable-mention version submitted
+  // by the same reviewer pre-finalization) already lives at this slug,
+  // don't clobber it. Find the next free `<slug>-N.md` for the existing
+  // file and move it there before writing the new ACX content under the
+  // base slug. This mirrors the gdoc-vs-acx coexistence pattern used in
+  // 2022 (e.g. `the-castrato.md` (acx) + `the-castrato-by-martha-feldman.md`
+  // (gdoc)) and prevents silent data loss.
+  //
+  // Exception: if the existing file IS the same ACX import (matching
+  // `source: acx` and `originalUrl`), this is just a re-run — overwrite
+  // in place rather than creating an endless chain of -2/-3 duplicates.
+  // Parse with gray-matter so we tolerate YAML quoting variations
+  // (single-quoted vs double-quoted vs unquoted scalars).
   const filePath = path.join(contestDir, `${slug}.md`);
+  if (fs.existsSync(filePath)) {
+    const existing = fs.readFileSync(filePath, 'utf8');
+    let isSameAcxImport = false;
+    try {
+      const { data: existingFm } = matter(existing);
+      isSameAcxImport =
+        existingFm.source === 'acx' &&
+        existingFm.originalUrl === data.originalUrl;
+    } catch {
+      // Malformed frontmatter — fall through to the move-aside path.
+    }
+    if (!isSameAcxImport) {
+      let suffix = 2;
+      while (fs.existsSync(path.join(contestDir, `${slug}-${suffix}.md`))) {
+        suffix++;
+      }
+      const movedPath = path.join(contestDir, `${slug}-${suffix}.md`);
+      // Update the slug field inside the moved file's frontmatter.
+      const updated = existing.replace(
+        new RegExp(`^slug:\\s*"?${slug}"?$`, 'm'),
+        `slug: ${slug}-${suffix}`
+      );
+      fs.writeFileSync(movedPath, updated, 'utf8');
+      console.log(`  ↪️  Moved existing ${slug}.md → ${slug}-${suffix}.md to make room for ACX import`);
+    }
+  }
+
+  // Prefer the existing publishedDate when this slot has been imported
+  // before. Substack's article:published_time tag sometimes goes missing
+  // (in which case extractArticleData falls back to `new Date()`), and
+  // we don't want every re-run to bump the date and add diff noise.
+  let publishedDate = data.publishedDate;
+  if (fs.existsSync(filePath)) {
+    try {
+      const { data: existingFm } = matter(fs.readFileSync(filePath, 'utf8'));
+      if (typeof existingFm.publishedDate === 'string' && existingFm.publishedDate) {
+        publishedDate = existingFm.publishedDate;
+      }
+    } catch {
+      // Malformed frontmatter — fall through to data.publishedDate.
+    }
+  }
+
+  // Preserve any existing tags from the previous import. apply-tags.ts
+  // would re-add them anyway, but if anyone forgets to run apply-tags
+  // we don't want to silently lose them.
+  let existingTags: string[] | undefined;
+  if (fs.existsSync(filePath)) {
+    try {
+      const { data: existingFm } = matter(fs.readFileSync(filePath, 'utf8'));
+      if (Array.isArray(existingFm.tags) && existingFm.tags.length > 0) {
+        existingTags = existingFm.tags;
+      }
+    } catch {
+      // Malformed frontmatter — ignore.
+    }
+  }
+
+  // Serialize via the gray-matter wrapper that disables YAML line-folding.
+  const frontmatter = stringifyMarkdown(data.content, {
+    title: data.title,
+    author: data.author,
+    reviewAuthor: data.reviewAuthor,
+    contestId,
+    contestName,
+    year,
+    publishedDate,
+    slug,
+    wordCount,
+    readingTimeMinutes: readingTime,
+    originalUrl: data.originalUrl,
+    source: 'acx',
+    ...(existingTags ? { tags: existingTags } : {}),
+  });
+
   fs.writeFileSync(filePath, frontmatter, 'utf8');
   console.log(`✅ Created: ${filePath}`);
 }
