@@ -82,26 +82,36 @@ function findDupGroups(contestDir: string): DupGroup[] {
   const files = fs.readdirSync(contestDir).filter(f => f.endsWith('.md'));
 
   // Group files by base slug. A file is a "numeric-suffix sibling" if its
-  // slug matches `<base>-<N>` where <N> is a small positive integer AND
-  // the base file `<base>.md` also exists.
+  // slug matches `<base>-<N>` where <N> is a small positive integer.
+  // Two cases produce a candidate group:
+  //   (a) The base file `<base>.md` exists alongside one or more `-N` files.
+  //   (b) The base file is absent but two or more `-N` files exist (the
+  //       original ingest path took the base slug; later re-imports landed
+  //       on `-2`, `-3`, …; if the base gets cleaned up later, the
+  //       remaining suffixed files can still be duplicates of each other).
   const byBase: Record<string, string[]> = {};
   for (const f of files) {
     const slug = f.replace(/\.md$/, '');
-    // Detect trailing -N where N is a positive integer and not clearly a year/date
     const m = slug.match(/^(.+)-(\d{1,2})$/);
     if (m) {
       const baseCandidate = m[1];
       const n = parseInt(m[2], 10);
-      if (n >= 2 && n <= 20 && files.includes(`${baseCandidate}.md`)) {
-        if (!byBase[baseCandidate]) byBase[baseCandidate] = [baseCandidate];
+      if (n >= 2 && n <= 20) {
+        if (!byBase[baseCandidate]) byBase[baseCandidate] = [];
         byBase[baseCandidate].push(slug);
       }
     }
   }
 
-  // Also ensure the base is always included
+  // Include the base file in each group when it exists; drop groups with
+  // only one file (no duplicate possible).
   for (const base of Object.keys(byBase)) {
-    if (!byBase[base].includes(base)) byBase[base].unshift(base);
+    if (files.includes(`${base}.md`) && !byBase[base].includes(base)) {
+      byBase[base].unshift(base);
+    }
+    if (byBase[base].length < 2) {
+      delete byBase[base];
+    }
   }
 
   const groups: DupGroup[] = [];
