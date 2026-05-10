@@ -11,6 +11,10 @@ wordCount: 3286
 readingTimeMinutes: 15
 originalUrl: "https://docs.google.com/document/d/1M1m8o1HInGYJR3cEMYZ6TQgNmeBOWo98YC6djNnFWf0"
 source: "gdoc"
+tags:
+  - Economics
+  - Politics
+  - Technology
 ---
 
 The Sovereign Individual, aka TSI, aka the most important book you’ve never heard of, aka the book that predicted Brexit, is a history book about the future.  

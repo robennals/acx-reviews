@@ -11,6 +11,10 @@ wordCount: 6441
 readingTimeMinutes: 29
 originalUrl: "https://docs.google.com/document/d/1vci14HMZ2UEJBs6mKCZZ2vHs-jVuPSsFsiN3cAENzXU"
 source: "gdoc"
+tags:
+  - Economics
+  - History
+  - Politics
 ---
 
 ## BIG CHANGES IN THE WORLD (ORDER)

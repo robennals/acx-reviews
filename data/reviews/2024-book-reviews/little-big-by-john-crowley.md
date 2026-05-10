@@ -1,12 +1,12 @@
 ---
-title: remember clearly when realized that there were other
+title: "Little, Big by John Crowley"
 author: Unknown
 reviewAuthor: Anonymous
 contestId: 2024-book-reviews
 contestName: 2024 Book Reviews
 year: 2024
 publishedDate: '2026-02-06T16:48:20.709Z'
-slug: remember-clearly-when-realized-that-there-were-other
+slug: little-big-by-john-crowley
 wordCount: 3159
 readingTimeMinutes: 15
 originalUrl: >-

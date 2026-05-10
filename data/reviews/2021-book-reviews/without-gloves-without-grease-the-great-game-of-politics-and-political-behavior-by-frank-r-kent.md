@@ -11,6 +11,9 @@ wordCount: 1151
 readingTimeMinutes: 6
 originalUrl: "https://docs.google.com/document/d/1M1m8o1HInGYJR3cEMYZ6TQgNmeBOWo98YC6djNnFWf0"
 source: "gdoc"
+tags:
+  - Politics
+  - History
 ---
 
 Why read Frank Kent? He worked with Mencken on the Baltimore Sun, wrote in Mencken's 'American Mercury', did the standard book on practical politics of the 1920's-30's, 'The Great Game of Politics', had a column in Time magazine till he died in the 1950's. His best was written in the twenties and thirties and he never claimed to write for all time.

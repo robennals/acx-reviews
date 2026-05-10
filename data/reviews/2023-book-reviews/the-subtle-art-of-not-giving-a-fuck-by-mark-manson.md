@@ -11,6 +11,10 @@ wordCount: 2877
 readingTimeMinutes: 13
 originalUrl: "https://docs.google.com/document/d/1AtGIIv371v0Yu35eNsIxJr67dw4SHOiGdKrqmoKt2hg"
 source: "gdoc"
+tags:
+  - Philosophy
+  - Psychology
+  - Society
 ---
 
 “The Subtle Art of Not Giving a Fuck” is most similar to William Irwin’s “A Guide to the Guide Life: The Ancient Art of Stoic Joy,” but with way more swearing.  The author, Mark Manson, also extols the virtues of pain, failure, and rejection, but includes personal anecdotes and a Panda that specializes in emotional facepunches.  The key to happiness is to make your circle of concern overlap with your circle of control, and not give a fuck about anything outside of it.  It is a subtle art, though, and just an exercise in not caring about anything, as you should and must still give a fuck about something, and must choose these things wisely.  I remember finding this book revelatory the first time I read it, but found it less so when I reread it for this review, similar to what Scott said many people felt about the Sequences.  I think the ideas in the book have become more mainstream and have found more acceptance now.  It is trendy to not give 110% at your soulless corporate job and live in a tiny house instead of a mansion.  It is no longer shocking, if it ever was, to say that money, sex, and status provide only superficial highs and that healthy relationships, enjoyable hobbies, and honest work are much better goals to pursue.  The ideas in the book also aligned well with my preconceptions, and fear this might be a case of “reverse any advice you hear.”  A pseudo intellectual slacker is the type of person that a book titled “The Subtle Art of Not Giving a Fuck” is going to appeal to and is probably the type of person who could also stand to give more of a fuck.  The status obsessed model or anxiety ridden workaholic who would most benefit from this book are unlikely to pick it off the shelf.  Despite these concerns I still whole-heartedly recommend the book.

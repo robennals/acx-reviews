@@ -11,6 +11,10 @@ wordCount: 3130
 readingTimeMinutes: 14
 originalUrl: "https://docs.google.com/document/d/1M1m8o1HInGYJR3cEMYZ6TQgNmeBOWo98YC6djNnFWf0"
 source: "gdoc"
+tags:
+  - Economics
+  - Philosophy
+  - History
 ---
 
 Growth is good. That was the first and was sufficient for the last statement of the book.

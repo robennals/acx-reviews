@@ -11,6 +11,9 @@ wordCount: 3411
 readingTimeMinutes: 16
 originalUrl: "https://docs.google.com/document/d/1AtGIIv371v0Yu35eNsIxJr67dw4SHOiGdKrqmoKt2hg"
 source: "gdoc"
+tags:
+  - Biology
+  - History
 ---
 
 This follow-up book to "The Emperor of all Maladies: A Biography of Cancer" chronicles some of the greatest biomedical advancements of the past 50 years: lab-synthetized protein drugs, the Human Genome Project, and gene therapy. A common angle in all these advancements is that while they've been (so far) overwhelmingly good for civilization[[5]](#ftnt5), there were also plenty of scientists and writers who cautioned us to watch out, tread carefully, go more slowly, warning of perils beyond our comprehension. And at the same time the pioneers would grumble and argue that the cautioners are just jealous and driven to mediocrity, and make it anyway. Those pioneers often found themselves outcasts of academia, in successful but ruthless new companies.

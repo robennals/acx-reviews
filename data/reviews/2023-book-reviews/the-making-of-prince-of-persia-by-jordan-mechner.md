@@ -11,6 +11,9 @@ wordCount: 8355
 readingTimeMinutes: 38
 originalUrl: "https://docs.google.com/document/d/1AtGIIv371v0Yu35eNsIxJr67dw4SHOiGdKrqmoKt2hg"
 source: "gdoc"
+tags:
+  - Technology
+  - History
 ---
 
 Jordan Mechner and the subtle art of video game narrative![](https://acximages.ennals.org/images/2023-book-reviews/dc16b00d75dbf891.jpg)

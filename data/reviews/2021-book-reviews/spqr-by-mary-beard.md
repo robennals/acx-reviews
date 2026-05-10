@@ -11,6 +11,9 @@ wordCount: 600
 readingTimeMinutes: 3
 originalUrl: "https://docs.google.com/document/d/1M1m8o1HInGYJR3cEMYZ6TQgNmeBOWo98YC6djNnFWf0"
 source: "gdoc"
+tags:
+  - History
+  - Society
 ---
 
 SPQR is the captivating account of how a nameless Italian village became one of humanity’s most influential empires, the impact of which dramatically shapes our modern lives without most of us even realizing it.

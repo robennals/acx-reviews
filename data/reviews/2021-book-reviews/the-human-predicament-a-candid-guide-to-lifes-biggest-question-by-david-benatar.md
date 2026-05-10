@@ -11,6 +11,10 @@ wordCount: 4621
 readingTimeMinutes: 21
 originalUrl: "https://docs.google.com/document/d/1M1m8o1HInGYJR3cEMYZ6TQgNmeBOWo98YC6djNnFWf0"
 source: "gdoc"
+tags:
+  - Philosophy
+  - Psychology
+  - Society
 ---
 
 ### 0\. The Warning

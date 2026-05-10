@@ -1,18 +1,19 @@
 ---
-title: 'Prologue: Three Jews on the Internet'
+title: The Book of Why by Judea Pearl
 author: Unknown
 reviewAuthor: Anonymous
 contestId: 2022-book-reviews
 contestName: 2022 Book Reviews
 year: 2022
-publishedDate: '2026-02-06T07:22:32.818Z'
-slug: prologue-three-jews-on-the-internet
+publishedDate: '2022-01-01T00:00:00.000Z'
+slug: the-book-of-why-by-judea-pearl-2022
 wordCount: 1243
 readingTimeMinutes: 6
 originalUrl: >-
   https://docs.google.com/document/d/100kMdSVFviZSSBvUyyEQPMNlvLptVQxHFD9i9wGuBWs
 source: gdoc
 tags:
+  - Philosophy
   - Science
 ---
 

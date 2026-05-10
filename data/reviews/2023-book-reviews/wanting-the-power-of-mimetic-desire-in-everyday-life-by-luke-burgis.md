@@ -11,6 +11,10 @@ wordCount: 1562
 readingTimeMinutes: 7
 originalUrl: "https://docs.google.com/document/d/1D2MGZ7HW1vRtOtfXYIx9BBUt6ubjEA2n06gpoHcxaFY"
 source: "gdoc"
+tags:
+  - Philosophy
+  - Psychology
+  - Society
 ---
 
 ![Diagram

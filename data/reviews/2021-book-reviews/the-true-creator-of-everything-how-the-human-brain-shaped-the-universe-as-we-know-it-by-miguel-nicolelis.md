@@ -11,6 +11,10 @@ wordCount: 2942
 readingTimeMinutes: 14
 originalUrl: "https://docs.google.com/document/d/1M1m8o1HInGYJR3cEMYZ6TQgNmeBOWo98YC6djNnFWf0"
 source: "gdoc"
+tags:
+  - Science
+  - Psychology
+  - Philosophy
 ---
 
 Miguel Nicolelis seems to be a pretty smart guy. He’s the co-director of the Neuroengineering Center at Duke University, and has clearly forgotten more about superior longitudinal fasciculi and frontoparietal neuronal circuits than most people will learn in their entire lifetimes. He wrote a (seemingly decently received) book in 2011, _Beyond Boundaries: The New Neuroscience of Connecting Brains with Machines_ (Times Books). Most famously, Nicolelis’ work on brain-machine interfaces led to a remarkable scene at the opening ceremony of the 2014 World Cup, when a 29-year-old man paralyzed from the waist down kicked a soccer ball using a robotic exoskeleton.

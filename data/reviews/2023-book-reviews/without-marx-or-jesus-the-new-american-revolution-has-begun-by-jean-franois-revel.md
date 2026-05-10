@@ -11,6 +11,10 @@ wordCount: 5083
 readingTimeMinutes: 23
 originalUrl: "https://docs.google.com/document/d/1D2MGZ7HW1vRtOtfXYIx9BBUt6ubjEA2n06gpoHcxaFY"
 source: "gdoc"
+tags:
+  - Politics
+  - History
+  - Philosophy
 ---
 
 The Spearhead Culture

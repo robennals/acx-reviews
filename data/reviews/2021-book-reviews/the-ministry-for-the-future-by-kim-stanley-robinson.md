@@ -11,6 +11,10 @@ wordCount: 3007
 readingTimeMinutes: 14
 originalUrl: "https://docs.google.com/document/d/1M1m8o1HInGYJR3cEMYZ6TQgNmeBOWo98YC6djNnFWf0"
 source: "gdoc"
+tags:
+  - Fiction
+  - Politics
+  - Science
 ---
 
 Your concentration is one part per billion. Actually - one part you, per eight billion parts everyone else. Some poisons are effective at around that concentration. For instance, botulinum neurotoxin, botox, is lethal for a 75-kg human at ninety parts per billion. Botox’s lethality stems from its specificity, biocompatibility with the animal nervous system, binding to a nerve cell and preventing it from communicating. It is a paralyzing agent. Abstracting the components to focus on the mechanism, if you could paralyze the carbon-chugging global system in an analogous way, then maybe you could stop climate change. That is the idea behind Kim Stanley Robinson’s new novel, The Ministry for the Future. 

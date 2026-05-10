@@ -11,6 +11,8 @@ wordCount: 3847
 readingTimeMinutes: 18
 originalUrl: "https://docs.google.com/document/d/1M1m8o1HInGYJR3cEMYZ6TQgNmeBOWo98YC6djNnFWf0"
 source: "gdoc"
+tags:
+  - Economics
 ---
 
 On March 12, 2008, Fletcher Asset Management (a hedge fund management company run by Alphonse “Buddy” Fletcher) made a presentation to the Firefighters’ Retirement System of Louisiana, which was considering investing in one of Fletcher’s hedge funds. The presentation was impressive: one of Fletcher’s funds (Fletcher Income Arbitrage, Ltd.) reported annualized returns of 8.13% between June of 1997 and December of 2007, a period during which the fund had no down months. To sweeten the deal, FAM guaranteed returns of at least 12%, capped at 18%. If the pension plan’s investment returned less than 12%, the other investors would be subordinated to the pension plan to make up the difference (on the other hand, if the fund returned more than 18%, the surplus would accrue to the other investors).

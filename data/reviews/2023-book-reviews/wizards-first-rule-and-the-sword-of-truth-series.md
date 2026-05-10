@@ -11,6 +11,10 @@ wordCount: 8128
 readingTimeMinutes: 37
 originalUrl: "https://docs.google.com/document/d/1D2MGZ7HW1vRtOtfXYIx9BBUt6ubjEA2n06gpoHcxaFY"
 source: "gdoc"
+tags:
+  - Fiction
+  - History
+  - Society
 ---
 
 A Brief Review of a Ten Thousand Page Series  

@@ -11,6 +11,10 @@ wordCount: 2729
 readingTimeMinutes: 13
 originalUrl: "https://docs.google.com/document/d/1M1m8o1HInGYJR3cEMYZ6TQgNmeBOWo98YC6djNnFWf0"
 source: "gdoc"
+tags:
+  - Science
+  - Politics
+  - Society
 ---
 
 _The Signal and the Noise: The Art and Science of Prediction_ was written by Nate Silver, a consultant-briefly-turned-poker-player-turned-political-analyst who is most famous for the election forecasting website FiveThirtyEight.com. _The Signal and the Noise_ is one of the small number of books – along with Philip Tetlock’s _Superforecasting_ – that aim to seriously assess the question of how predictable the future is, and how people can systematically improve their forecasting ability. This is a question which is of a lot of interest to me. Improving judgements about the future seems to be highly important in many areas (what will the effects of a policy be? When will different technological developments occur? How many people will die from COVID?) and very little attention is paid to it. I found _The Signal and the Noise_ to be thoughtful, and I learned a lot from it.

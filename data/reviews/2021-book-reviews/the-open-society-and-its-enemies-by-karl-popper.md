@@ -11,6 +11,10 @@ wordCount: 3422
 readingTimeMinutes: 16
 originalUrl: "https://docs.google.com/document/d/1M1m8o1HInGYJR3cEMYZ6TQgNmeBOWo98YC6djNnFWf0"
 source: "gdoc"
+tags:
+  - Philosophy
+  - Politics
+  - History
 ---
 
 In October 1958, the journalist and author Bryan Magee attended the presidential address at the Aristotelian Society in London, a talk “attended almost entirely by professional philosophers, many of them well known”. The speaker was the philosopher Karl Popper, and his topic was the idea that knowledge grows from the feedback process of criticism, something which originated with the pre-Socratic Greeks from Thales onwards. Magee watched with incredulous disbelief as the subsequent discussion missed Popper’s central point, focussing on the minutiae of his historical references, stating “instead of presenting his revolutionary idea head-on, he had presented it indirectly, in the form of a historical claim about the pre-Socratics”, and that, “he was presenting his ideas in a way that almost ensured they would be misunderstood”.

@@ -11,6 +11,9 @@ wordCount: 2186
 readingTimeMinutes: 10
 originalUrl: "https://docs.google.com/document/d/1AtGIIv371v0Yu35eNsIxJr67dw4SHOiGdKrqmoKt2hg"
 source: "gdoc"
+tags:
+  - History
+  - Society
 ---
 
 **cw: it’s the Confederacy, what do you expect**

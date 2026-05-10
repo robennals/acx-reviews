@@ -11,6 +11,10 @@ wordCount: 9206
 readingTimeMinutes: 41
 originalUrl: "https://docs.google.com/document/d/1AtGIIv371v0Yu35eNsIxJr67dw4SHOiGdKrqmoKt2hg"
 source: "gdoc"
+tags:
+  - Philosophy
+  - Science
+  - Psychology
 ---
 
 ## What Is Reality?

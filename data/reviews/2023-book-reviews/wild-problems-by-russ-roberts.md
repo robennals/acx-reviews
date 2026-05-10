@@ -11,6 +11,10 @@ wordCount: 1974
 readingTimeMinutes: 9
 originalUrl: "https://docs.google.com/document/d/1D2MGZ7HW1vRtOtfXYIx9BBUt6ubjEA2n06gpoHcxaFY"
 source: "gdoc"
+tags:
+  - Economics
+  - Philosophy
+  - Psychology
 ---
 
 There aren’t a lot of books whose genesis can be traced back to a Twitter argument. Russ Roberts’ _Wild Problems_ may be one of them.

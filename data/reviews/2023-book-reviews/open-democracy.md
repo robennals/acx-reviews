@@ -11,6 +11,9 @@ wordCount: 5106
 readingTimeMinutes: 23
 originalUrl: "https://docs.google.com/document/d/1vci14HMZ2UEJBs6mKCZZ2vHs-jVuPSsFsiN3cAENzXU"
 source: "gdoc"
+tags:
+  - Politics
+  - Philosophy
 ---
 
 ## Introduction

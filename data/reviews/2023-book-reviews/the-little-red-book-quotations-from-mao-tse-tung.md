@@ -11,6 +11,10 @@ wordCount: 6310
 readingTimeMinutes: 29
 originalUrl: "https://docs.google.com/document/d/1AtGIIv371v0Yu35eNsIxJr67dw4SHOiGdKrqmoKt2hg"
 source: "gdoc"
+tags:
+  - History
+  - Politics
+  - Society
 ---
 
 I thought it would be difficult to review _Quotations from Mao Tse-tung_, but in that way and so many others, it disappointed me. It may be the most widely read and published book of the 20th century (discounting religious texts, although it itself is one) yet it is hardly a ‘book ‘except in the sense that it was made of paper and bound between two covers. It comprises not chapters or essays but two hundred quotes collected from four decade’s worth of speeches, notes, pamphlets, and books, penned by Chairman Mao. The compiling and disseminating of these quotes began in 1964-1966, and continued at mind-boggling pace all through the Cultural Revolution, wherein Mao purged the communist party of opposition, and the country itself of much of its cultural heritage.

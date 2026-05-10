@@ -11,6 +11,9 @@ wordCount: 9943
 readingTimeMinutes: 45
 originalUrl: "https://docs.google.com/document/d/1AtGIIv371v0Yu35eNsIxJr67dw4SHOiGdKrqmoKt2hg"
 source: "gdoc"
+tags:
+  - History
+  - Politics
 ---
 
 From the ages of about nine to fourteen, I felt a powerful stab of fear whenever I noticed more than one contrail in the sky at the same time. I thought it meant nuclear war had begun, that the annihilation of me, my family, and everyone else in the world was upon us.

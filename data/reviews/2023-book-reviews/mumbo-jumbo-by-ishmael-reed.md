@@ -11,6 +11,10 @@ wordCount: 2417
 readingTimeMinutes: 11
 originalUrl: "https://docs.google.com/document/d/1vci14HMZ2UEJBs6mKCZZ2vHs-jVuPSsFsiN3cAENzXU"
 source: "gdoc"
+tags:
+  - Society
+  - History
+  - Fiction
 ---
 
 ![](https://acximages.ennals.org/images/2023-book-reviews/2b3c00f987955250.jpg)

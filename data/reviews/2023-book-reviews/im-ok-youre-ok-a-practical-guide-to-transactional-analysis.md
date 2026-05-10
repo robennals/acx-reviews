@@ -11,6 +11,9 @@ wordCount: 2709
 readingTimeMinutes: 13
 originalUrl: "https://docs.google.com/document/d/1vci14HMZ2UEJBs6mKCZZ2vHs-jVuPSsFsiN3cAENzXU"
 source: "gdoc"
+tags:
+  - Psychology
+  - Society
 ---
 
 ![](https://acximages.ennals.org/images/2023-book-reviews/8a7225d7270dc7ce.png)

@@ -11,6 +11,10 @@ wordCount: 3028
 readingTimeMinutes: 14
 originalUrl: "https://docs.google.com/document/d/1AtGIIv371v0Yu35eNsIxJr67dw4SHOiGdKrqmoKt2hg"
 source: "gdoc"
+tags:
+  - Economics
+  - History
+  - Society
 ---
 
 In 1819, Thomas Jefferson went broke. He had co-signed a friend’s loan, and when that friend slid into bankruptcy, he took Jefferson down with him. Jefferson never recovered, and left his family deeply in debt when he died in 1826. A few years later, his grandson quietly sold Monticello to pay off Jefferson’s estate, with Jefferson still buried there.

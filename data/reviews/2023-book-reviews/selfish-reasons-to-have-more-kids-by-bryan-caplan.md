@@ -11,6 +11,10 @@ wordCount: 2305
 readingTimeMinutes: 11
 originalUrl: "https://docs.google.com/document/d/1vci14HMZ2UEJBs6mKCZZ2vHs-jVuPSsFsiN3cAENzXU"
 source: "gdoc"
+tags:
+  - Economics
+  - Psychology
+  - Society
 ---
 
 Bryan Caplan is the ALS Ice Bucket Challenge of authors. Readers can feel a physical shock as beliefs they hold closely are picked apart piece by piece. I half expect Bryan’s next book to show that drinking water, eating food, and breathing air are all bad for my health._Selfish Reasons to Have More Kids_ is no exception from this Caplanian trend. Like any Caplan book, reading it requires an open mind, and a healthy amount of skepticism.

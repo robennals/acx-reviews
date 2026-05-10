@@ -11,6 +11,10 @@ wordCount: 2902
 readingTimeMinutes: 13
 originalUrl: "https://docs.google.com/document/d/1AtGIIv371v0Yu35eNsIxJr67dw4SHOiGdKrqmoKt2hg"
 source: "gdoc"
+tags:
+  - Fiction
+  - Politics
+  - Philosophy
 ---
 
 Hybrid Warfare: A Russian Postmodernist Invades the Brain with a Hammer and Nail

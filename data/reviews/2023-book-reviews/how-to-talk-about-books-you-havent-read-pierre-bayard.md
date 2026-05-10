@@ -11,6 +11,9 @@ wordCount: 4411
 readingTimeMinutes: 20
 originalUrl: "https://docs.google.com/document/d/1vci14HMZ2UEJBs6mKCZZ2vHs-jVuPSsFsiN3cAENzXU"
 source: "gdoc"
+tags:
+  - Philosophy
+  - Society
 ---
 
 Some of the praise for last year’s ACX Book Review Contest entries went like this: "This review did its job: it convinced me to purchase the book!".

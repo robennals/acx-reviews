@@ -11,6 +11,9 @@ wordCount: 7791
 readingTimeMinutes: 35
 originalUrl: "https://docs.google.com/document/d/1vci14HMZ2UEJBs6mKCZZ2vHs-jVuPSsFsiN3cAENzXU"
 source: "gdoc"
+tags:
+  - History
+  - Politics
 ---
 
 There’s a familiar story that appears on the news roughly once a year, which pretty much goes like this:

@@ -11,6 +11,10 @@ wordCount: 3127
 readingTimeMinutes: 14
 originalUrl: "https://docs.google.com/document/d/1M1m8o1HInGYJR3cEMYZ6TQgNmeBOWo98YC6djNnFWf0"
 source: "gdoc"
+tags:
+  - Society
+  - Politics
+  - Psychology
 ---
 
 _The Culture of Narcissism_ is a book that prophetically identifies a bunch of very twenty-first century cultural traits while also providing a bizarre and sometimes self-contradictory account of how they came into being. This is a largely because about half of it goes into long tangents about psychoanalytic theory citing Freud and Melanie Klein and so on, and accommodating psychoanalysis into anything usually comes at a cost to coherence. _The Culture of Narcissism_ therefore consists of a set of mostly interesting complaints about contemporary society and a set of mostly wild explanations for them.

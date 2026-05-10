@@ -11,6 +11,10 @@ wordCount: 2632
 readingTimeMinutes: 12
 originalUrl: "https://docs.google.com/document/d/1M1m8o1HInGYJR3cEMYZ6TQgNmeBOWo98YC6djNnFWf0"
 source: "gdoc"
+tags:
+  - Politics
+  - Society
+  - Philosophy
 ---
 
 Education is a huge topic. Too huge, really, because almost everything we care about, as humans, has an element of inculcation--of learning. We are great imitators; it is the [secret of our success](https://slatestarcodex.com/2019/06/04/book-review-the-secret-of-our-success/). Without education, we're little more than naked apes, so when you talk about education, you are in some sense talking about _the thing that makes us human beings_.

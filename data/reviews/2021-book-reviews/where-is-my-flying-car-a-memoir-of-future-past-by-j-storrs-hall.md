@@ -11,6 +11,10 @@ wordCount: 6558
 readingTimeMinutes: 30
 originalUrl: "https://docs.google.com/document/d/1M1m8o1HInGYJR3cEMYZ6TQgNmeBOWo98YC6djNnFWf0"
 source: "gdoc"
+tags:
+  - History
+  - Science
+  - Technology
 ---
 
 Occasionally there's a non-fiction book comes along that has enough data, enough original thoughts, enough assertions and enough chutzpah that it gives you that great jolt of electricity and kicks you out of your stupor! Where Is My Flying Car is one of those books. Not since Robin Hanson's Age of Em have I read something that so consistently and systematically looks at a world of fantastic possibilities so realistically. If Arthur C Clarke had a baby with an engineering manual, that'd be this book. At times I wasn't sure if I was reading an exquisitely researched science-fiction book or a lightly fictionalised technological manual.

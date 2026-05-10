@@ -11,6 +11,9 @@ wordCount: 5557
 readingTimeMinutes: 25
 originalUrl: "https://docs.google.com/document/d/1AtGIIv371v0Yu35eNsIxJr67dw4SHOiGdKrqmoKt2hg"
 source: "gdoc"
+tags:
+  - History
+  - Politics
 ---
 
 Dictator Book Club: Vladimir Putin

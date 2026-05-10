@@ -11,6 +11,10 @@ wordCount: 6678
 readingTimeMinutes: 30
 originalUrl: "https://docs.google.com/document/d/1AtGIIv371v0Yu35eNsIxJr67dw4SHOiGdKrqmoKt2hg"
 source: "gdoc"
+tags:
+  - History
+  - Science
+  - Politics
 ---
 
 _“It is a profound and necessary truth that the deep things in science are found not because they are useful; they are found because it was possible to find them” - J. Robert Oppenheimer._

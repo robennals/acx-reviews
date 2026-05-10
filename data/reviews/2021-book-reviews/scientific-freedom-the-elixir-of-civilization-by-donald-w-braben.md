@@ -11,6 +11,9 @@ wordCount: 2557
 readingTimeMinutes: 12
 originalUrl: "https://docs.google.com/document/d/1M1m8o1HInGYJR3cEMYZ6TQgNmeBOWo98YC6djNnFWf0"
 source: "gdoc"
+tags:
+  - Science
+  - History
 ---
 
 _(or maybe THIS is what Happened in 1971?)_

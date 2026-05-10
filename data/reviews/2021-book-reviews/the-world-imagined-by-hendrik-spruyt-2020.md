@@ -11,6 +11,10 @@ wordCount: 6808
 readingTimeMinutes: 31
 originalUrl: "https://docs.google.com/document/d/1M1m8o1HInGYJR3cEMYZ6TQgNmeBOWo98YC6djNnFWf0"
 source: "gdoc"
+tags:
+  - Politics
+  - History
+  - Society
 ---
 
 If you read my book review of The Sovereign State and Its Competitors, you can guess what this book is about. A sovereign, territorial state is an institution which claims a monopoly on violence and justice within certain lines on a map and no authority elsewhere. States are often associated with a particular cultural community, the nation. The international system of sovereign, territorial states has become so dominant that it's hard to conceive of anything else. This has not always been the case.

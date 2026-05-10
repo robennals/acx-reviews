@@ -11,6 +11,10 @@ wordCount: 9897
 readingTimeMinutes: 44
 originalUrl: "https://docs.google.com/document/d/1M1m8o1HInGYJR3cEMYZ6TQgNmeBOWo98YC6djNnFWf0"
 source: "gdoc"
+tags:
+  - Fiction
+  - Politics
+  - Philosophy
 ---
 
 > Napoleon, in conversation which he once had with Goethe on the nature of Tragedy, expressed the opinion that its modern phase differed from the ancient, through our no longer recognizing a Destiny to which men are absolutely subject, and that Policy occupies the place of the ancient Fate [_La Politique est la fatalité_]. This therefore he thought must be used as the modern form of Destiny in Tragedy—the irresistible power of circumstances to which individuality must bend.

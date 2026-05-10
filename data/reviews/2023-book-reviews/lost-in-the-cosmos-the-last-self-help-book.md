@@ -11,6 +11,9 @@ wordCount: 6960
 readingTimeMinutes: 31
 originalUrl: "https://docs.google.com/document/d/1vci14HMZ2UEJBs6mKCZZ2vHs-jVuPSsFsiN3cAENzXU"
 source: "gdoc"
+tags:
+  - Philosophy
+  - Psychology
 ---
 
 **I**

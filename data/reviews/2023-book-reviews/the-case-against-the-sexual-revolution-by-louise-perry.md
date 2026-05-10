@@ -11,6 +11,10 @@ wordCount: 3170
 readingTimeMinutes: 15
 originalUrl: "https://docs.google.com/document/d/1AtGIIv371v0Yu35eNsIxJr67dw4SHOiGdKrqmoKt2hg"
 source: "gdoc"
+tags:
+  - Psychology
+  - Society
+  - History
 ---
 
 What is the sexual revolution, and what does [Louise Perry](https://www.louisemperry.co.uk/), a millennial and former rape crisis counselor, have against it?

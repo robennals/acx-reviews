@@ -11,6 +11,9 @@ wordCount: 2011
 readingTimeMinutes: 9
 originalUrl: "https://docs.google.com/document/d/1vci14HMZ2UEJBs6mKCZZ2vHs-jVuPSsFsiN3cAENzXU"
 source: "gdoc"
+tags:
+  - Economics
+  - Society
 ---
 
 The publishers of the classic _Manias, Panics and Crashes,_ now on its seventh edition, still haven’t added “Bailouts” to the title. Maybe they thought it would be redundant.

@@ -11,6 +11,10 @@ wordCount: 1113
 readingTimeMinutes: 5
 originalUrl: "https://docs.google.com/document/d/1M1m8o1HInGYJR3cEMYZ6TQgNmeBOWo98YC6djNnFWf0"
 source: "gdoc"
+tags:
+  - Fiction
+  - Society
+  - Philosophy
 ---
 
 I will start off with a simple observation: things are not great.

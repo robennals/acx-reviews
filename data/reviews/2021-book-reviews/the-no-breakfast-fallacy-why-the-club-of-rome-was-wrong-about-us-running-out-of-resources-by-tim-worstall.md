@@ -11,6 +11,10 @@ wordCount: 5939
 readingTimeMinutes: 27
 originalUrl: "https://docs.google.com/document/d/1M1m8o1HInGYJR3cEMYZ6TQgNmeBOWo98YC6djNnFWf0"
 source: "gdoc"
+tags:
+  - Economics
+  - History
+  - Science
 ---
 
 Having decided that I wanted to review something with a broadly libertarian worldview, it struck me almost immediately that the obvious choice would be Deirdre McCloskey’s Bourgeois Trilogy, which is monumental (at 2000+ pages), magisterial, and erudite.

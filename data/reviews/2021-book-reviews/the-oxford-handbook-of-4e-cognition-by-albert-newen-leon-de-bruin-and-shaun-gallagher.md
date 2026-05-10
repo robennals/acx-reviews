@@ -11,6 +11,10 @@ wordCount: 5429
 readingTimeMinutes: 25
 originalUrl: "https://docs.google.com/document/d/1M1m8o1HInGYJR3cEMYZ6TQgNmeBOWo98YC6djNnFWf0"
 source: "gdoc"
+tags:
+  - Philosophy
+  - Psychology
+  - Science
 ---
 
 **Abstract:** The “4E” approach to cognition argues that cognition does not occur solely in the head, but is also embodied, embedded, enacted, or extended by way of extra-cranial processes and structures. Though very much in vogue, 4E cognition has received relatively few critical evaluations. This review performs such an evaluation with reference to The Oxford Handbook of 4E Cognition, which represents the most recent research in this area

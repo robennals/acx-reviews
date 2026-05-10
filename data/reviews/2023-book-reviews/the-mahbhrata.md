@@ -11,6 +11,10 @@ wordCount: 4091
 readingTimeMinutes: 19
 originalUrl: "https://docs.google.com/document/d/1AtGIIv371v0Yu35eNsIxJr67dw4SHOiGdKrqmoKt2hg"
 source: "gdoc"
+tags:
+  - History
+  - Fiction
+  - Philosophy
 ---
 
 ![](https://acximages.ennals.org/images/2023-book-reviews/38e8c1bf2ea04bd8.jpg)[Artist/maker unknown, India, Himachal Pradesh or Jammu and Kashmir](https://upload.wikimedia.org/wikipedia/commons/4/45/Arjuna_and_karna_in_war%2C_krishna_as_arjuna_charioter.jpg), [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0), via Wikimedia Commons

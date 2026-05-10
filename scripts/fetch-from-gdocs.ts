@@ -13,11 +13,13 @@
 import 'dotenv/config';
 import fs from 'fs';
 import path from 'path';
+import matter from 'gray-matter';
 import { slugify, countWords, calculateReadingTime } from '../lib/utils';
 import { processImages } from './lib/process-gdoc-images';
 import { checkDiff } from './lib/diff-check';
 import { resolvePublishedDate } from './lib/preserve-published-date';
 import { fetchGDocAsHTML, convertGDocToMarkdown } from './lib/gdoc-html';
+import { stringifyMarkdown } from './lib/frontmatter';
 import { runDedupeCrossSource } from './lib/dedupe-cross-source';
 
 const GDOCS_SOURCES_PATH = path.join(process.cwd(), 'data/sources/gdocs-urls.json');
@@ -105,6 +107,42 @@ function isTocLine(line: string): boolean {
 }
 
 /**
+ * Strip a leading table-of-contents block from a review's body. Some
+ * reviewers paste a TOC at the top of their gdoc — a block of internal
+ * anchor links followed by a `* * *` divider. The anchors point to
+ * heading IDs that don't exist outside the original gdoc, so the links
+ * render as broken on our pages. Drop everything from the top until we
+ * find the first real prose paragraph.
+ */
+function stripLeadingToc(content: string): string {
+  const lines = content.split('\n');
+  let i = 0;
+  let sawAnyTocLink = false;
+  // Skip leading blank/TOC lines.
+  while (i < lines.length && isTocLine(lines[i])) {
+    if (/^\[.*\]\(#h\./.test(lines[i].trim())) sawAnyTocLink = true;
+    i++;
+  }
+  // Only strip if we actually saw at least one TOC link (otherwise we'd
+  // strip leading blank lines from reviews that don't have a TOC, which
+  // is fine but pointless).
+  if (!sawAnyTocLink) return content;
+  // Skip a `* * *` or `---` divider that often follows the TOC block.
+  while (i < lines.length && /^(\s*\*\s*\*\s*\*\s*|\s*-{3,}\s*|\s*)$/.test(lines[i])) {
+    if (lines[i].trim() === '') {
+      i++;
+      continue;
+    }
+    if (/^\s*\*\s*\*\s*\*\s*$/.test(lines[i]) || /^\s*-{3,}\s*$/.test(lines[i])) {
+      i++;
+      break;
+    }
+    break;
+  }
+  return lines.slice(i).join('\n').trimStart();
+}
+
+/**
  * Check if a heading looks like a section marker within a review (e.g., Roman numerals,
  * part numbers) rather than a new review title.
  */
@@ -182,7 +220,7 @@ function splitCompositeDoc(markdown: string): ParsedReview[] {
         reviews.push({
           title,
           author: 'Unknown',
-          content,
+          content: stripLeadingToc(content),
         });
       }
     }
@@ -191,6 +229,18 @@ function splitCompositeDoc(markdown: string): ParsedReview[] {
   // Track whether the last review was created from section marker headings
   // so we know whether to merge or start a new review
   let lastReviewWasSectionMarker = false;
+  // Remember any recently skipped (too-short content) H1 titles AND their
+  // content. Used for the parent + sub-section-marker pattern:
+  // "Little, Big" → "I" → "II" — the first H1 is the book title, then
+  // actual content lives under Roman-numeral sub-H1s. Without remembering
+  // the parent we'd pick first-8-words-of-content as the title; without
+  // remembering its CONTENT we'd silently lose any subtitle/intro text the
+  // reviewer wrote between the book-title H1 and the first section marker
+  // (e.g. Winnie's "Sing, O Muse, of the Many-Mannered Bear!" and Egypt's
+  // Golden Couple's 99-word intro paragraph). We collect skipped
+  // titles+content in order and replay them when a section marker resolves
+  // the chain. On a normal H1 with content, the skipped chain is dropped.
+  let skippedParents: { title: string; content: string }[] = [];
 
   // Process remaining sections (each starts with # heading)
   for (let i = 1; i < sections.length; i++) {
@@ -209,31 +259,53 @@ function splitCompositeDoc(markdown: string): ParsedReview[] {
 
     if (isSectionMarkerHeading(title)) {
       if (lastReviewWasSectionMarker && reviews.length > 0) {
-        // Merge consecutive section markers into the same review
+        // Merge consecutive section markers into the same review.
+        // No length check: section markers are *part of* the parent review,
+        // not standalone reviews, so even a 5-word ## VI block is content
+        // we want to keep.
         const prev = reviews[reviews.length - 1];
         prev.content += `\n\n## ${title}\n\n${content}`;
       } else {
-        // First section marker after a normal review - start a new review
-        // Generate title from content since the heading is just a marker
-        const contentWords = content
-          .replace(/^#{1,6}\s+.*$/gm, '')
-          .replace(/\[([^\]]+)\]\([^)]+\)/g, '$1')
-          .replace(/[*_~`]/g, '')
-          .trim()
-          .split(/\s+/)
-          .filter(w => w.length > 1)
-          .slice(0, 8)
-          .join(' ');
-        const generatedTitle = contentWords || `Section ${title}`;
+        // First section marker after a normal review - start a new review.
+        // Prefer recently-skipped parent H1 title(s) (e.g. "Little, Big by
+        // John Crowley") to first-8-words-of-content auto-generation, AND
+        // include the skipped parents' content (subtitles, intro paragraphs)
+        // so it isn't silently dropped.
+        const inferredTitle =
+          skippedParents.map(p => p.title).join(' / ') ||
+          (() => {
+            const contentWords = content
+              .replace(/^#{1,6}\s+.*$/gm, '')
+              .replace(/\[([^\]]+)\]\([^)]+\)/g, '$1')
+              .replace(/[*_~`]/g, '')
+              .trim()
+              .split(/\s+/)
+              .filter(w => w.length > 1)
+              .slice(0, 8)
+              .join(' ');
+            return contentWords || `Section ${title}`;
+          })();
 
-        if (countWords(content) >= 100) {
-          reviews.push({
-            title: generatedTitle,
-            author: 'Unknown',
-            content: `## ${title}\n\n${content}`,
-          });
-          lastReviewWasSectionMarker = true;
-        }
+        // Prepend any skipped parent content (e.g. Winnie's "Sing, O Muse"
+        // subtitle, or a 99-word intro paragraph before # I).
+        const parentContent = skippedParents
+          .map(p => p.content)
+          .filter(c => c.trim().length > 0)
+          .join('\n\n');
+
+        // No length check on section markers themselves — they're part of
+        // a larger review and we shouldn't silently drop them.
+        const sectionContent = parentContent
+          ? `${parentContent}\n\n## ${title}\n\n${content}`
+          : `## ${title}\n\n${content}`;
+
+        reviews.push({
+          title: inferredTitle,
+          author: 'Unknown',
+          content: stripLeadingToc(sectionContent),
+        });
+        lastReviewWasSectionMarker = true;
+        skippedParents = []; // Consumed.
       }
       continue;
     }
@@ -241,15 +313,26 @@ function splitCompositeDoc(markdown: string): ParsedReview[] {
     // Normal heading - reset the section marker tracking
     lastReviewWasSectionMarker = false;
 
-    // Skip sections that are too short (likely just headers or dividers)
+    // Skip sections that are too short (likely just headers or dividers).
+    // Remember the title AND content in case it's the parent of upcoming
+    // section markers (parent + Roman-numeral pattern — content gets
+    // prepended into the section-marker review so subtitles aren't lost),
+    // or the leading book in a comparative review (resolved when the next
+    // non-skipped H1 lands).
     if (countWords(content) < 100) {
+      skippedParents.push({ title, content });
       continue;
     }
+
+    // Drop any skipped short H1s — they were stub headers the reviewer never
+    // filled in (e.g. 2023's Enigma of Reason stub before The Everything
+    // Store). Use ONLY this H1 (the one with content) as the title.
+    skippedParents = [];
 
     reviews.push({
       title,
       author: 'Unknown',
-      content,
+      content: stripLeadingToc(content),
     });
   }
 
@@ -297,6 +380,21 @@ async function createMarkdownFile(
   // 2. Resolve publishedDate (existing file wins; else Jan 1 of contest year).
   const publishedDate = resolvePublishedDate(filePath, contestId);
 
+  // 2b. Preserve any existing tags from the previous import. apply-tags.ts
+  // would re-add them anyway, but if anyone forgets to run apply-tags
+  // we don't want to silently lose them.
+  let existingTags: string[] | undefined;
+  if (fs.existsSync(filePath)) {
+    try {
+      const { data: existingFm } = matter(fs.readFileSync(filePath, 'utf8'));
+      if (Array.isArray(existingFm.tags) && existingFm.tags.length > 0) {
+        existingTags = existingFm.tags;
+      }
+    } catch {
+      // Malformed frontmatter — ignore and proceed without tags.
+    }
+  }
+
   // 3. Compute word/time counts after image rewrites.
   const wordCount = countWords(processedContent);
   const readingTime = calculateReadingTime(wordCount);
@@ -307,25 +405,24 @@ async function createMarkdownFile(
     .map(word => word.charAt(0).toUpperCase() + word.slice(1))
     .join(' ');
 
-  // Escape for YAML double-quoted strings: backslashes first, then quotes
-  const yamlEscape = (s: string) => s.replace(/\\/g, '\\\\').replace(/"/g, '\\"');
-
-  const newFrontmatter = `---
-title: "${yamlEscape(data.title)}"
-author: "${yamlEscape(data.author)}"
-reviewAuthor: "${yamlEscape(data.reviewAuthor)}"
-contestId: "${contestId}"
-contestName: "${contestName}"
-year: ${year}
-publishedDate: "${publishedDate}"
-slug: "${slug}"
-wordCount: ${wordCount}
-readingTimeMinutes: ${readingTime}
-originalUrl: "${data.originalUrl}"
-source: "gdoc"
----
-
-${processedContent}`;
+  // Serialize frontmatter via the gray-matter wrapper that disables YAML
+  // line-folding. Using gray-matter's defaults would fold long titles/slugs
+  // onto multiple lines using the `>-` indicator, producing noisy diffs.
+  const newFrontmatter = stringifyMarkdown(processedContent, {
+    title: data.title,
+    author: data.author,
+    reviewAuthor: data.reviewAuthor,
+    contestId,
+    contestName,
+    year,
+    publishedDate,
+    slug,
+    wordCount,
+    readingTimeMinutes: readingTime,
+    originalUrl: data.originalUrl,
+    source: 'gdoc',
+    ...(existingTags ? { tags: existingTags } : {}),
+  });
 
   // 4. If an old file exists, diff-check before overwrite.
   if (fs.existsSync(filePath)) {

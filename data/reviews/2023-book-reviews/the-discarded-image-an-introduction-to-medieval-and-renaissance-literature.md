@@ -11,6 +11,9 @@ wordCount: 4004
 readingTimeMinutes: 18
 originalUrl: "https://docs.google.com/document/d/1AtGIIv371v0Yu35eNsIxJr67dw4SHOiGdKrqmoKt2hg"
 source: "gdoc"
+tags:
+  - History
+  - Fiction
 ---
 
 _“The only palliative is to keep the clean sea breeze of the centuries blowing through our minds, and this can be done only by reading old books. Not, of course, that there is any magic about the past. People were no cleverer then than they are now; they made as many mistakes as we. But not the same mistakes. They will not flatter us in the errors we are already committing; and their own errors, being now open and palpable, will not endanger us. Two heads are better than one, not because either is infallible, but because they are unlikely to go wrong in the same direction. To be sure, the books of the future would be just as good a corrective as the books of the past, but unfortunately we cannot get at them.”-_C. S. Lewis, “On the Reading of Old Books”

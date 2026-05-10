@@ -11,6 +11,10 @@ wordCount: 2638
 readingTimeMinutes: 12
 originalUrl: "https://docs.google.com/document/d/1vci14HMZ2UEJBs6mKCZZ2vHs-jVuPSsFsiN3cAENzXU"
 source: "gdoc"
+tags:
+  - Memoir
+  - Fiction
+  - Psychology
 ---
 
 For years I casually mocked a book I sometimes walked past in my local independent bookstore. The book was My Struggle by Karl Ove Knausgaard; what was funny was the title combined with the size of the thing, actually a series of six thick volumes, an encyclopedia of struggle with the author’s haggard face on the cover of each book. Good grief, Karl, I would think. It can’t be that bad, can it?
