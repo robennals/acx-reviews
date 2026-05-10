@@ -51,8 +51,10 @@ export function createExcerpt(content: string, maxLength: number = 200): string 
   // Remove markdown syntax for clean excerpt
   let cleaned = content
     .replace(/^---[\s\S]*?---/, '') // Remove frontmatter
+    .replace(/!\[[^\]]*\]\([^)]*\)/g, '') // Remove markdown images (must come before link conversion)
     .replace(/^\s*\* \* \*\s*/gm, '') // Remove horizontal rules (*** style)
     .replace(/^-{3,}\s*/gm, '') // Remove horizontal rules (--- style)
+    .replace(/^[ \t]*>+[ \t]?/gm, '') // Remove blockquote markers
     .replace(/#{1,6}\s/g, '') // Remove headings
     .replace(/\[([^\]]+)\]\([^)]+\)/g, '$1') // Convert links to text
     .replace(/[*_~`]/g, '') // Remove emphasis

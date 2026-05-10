@@ -15,6 +15,7 @@
     "fetch-gdocs": "NODE_OPTIONS='--max-old-space-size=8192' tsx scripts/fetch-from-gdocs.ts",
     "fetch-csv": "NODE_OPTIONS='--max-old-space-size=8192' tsx scripts/fetch-from-csv.ts",
     "fetch-acx": "tsx scripts/fetch-from-acx.ts",
+    "dedupe-twins": "tsx scripts/dedupe-cross-source.ts",
     "generate-index": "tsx scripts/generate-index.ts",
     "process-all": "pnpm fetch-gdocs && pnpm fetch-acx && pnpm generate-index",
     "db:push": "drizzle-kit push",
@@ -23,6 +24,9 @@
   "dependencies": {
     "@auth/drizzle-adapter": "^1.11.2",
     "@aws-sdk/client-s3": "^3.1030.0",
+    "@dnd-kit/core": "^6.3.1",
+    "@dnd-kit/sortable": "^10.0.0",
+    "@dnd-kit/utilities": "^3.2.2",
     "@libsql/client": "^0.17.3",
     "@radix-ui/react-dialog": "^1.1.15",
     "class-variance-authority": "^0.7.1",

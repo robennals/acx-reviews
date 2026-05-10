@@ -1,9 +1,9 @@
 import { test, expect } from '@playwright/test';
 
-// These tests cover the UI behavior of the auth + voting features without
-// requiring a real sign-in. They assume:
+// These tests cover the UI behavior of the auth + ranked voting features
+// without requiring a real sign-in. They assume:
 //   - VOTING_CONTEST_YEAR=2025 and the voting window is currently open
-//     (matching the test config in .env.local).
+//     (matching the test config in playwright.config.ts).
 //   - At least one 2025 review and one non-2025 review exist in the index.
 
 test.describe('Auth & voting UI (signed out)', () => {
@@ -66,7 +66,7 @@ test.describe('Auth & voting UI (signed out)', () => {
     // After the redirect, we should land on / and not see the admin heading.
     await expect(page).toHaveURL('/');
     expect(response?.status()).toBeLessThan(400);
-    await expect(page.getByRole('heading', { name: /Admin · Vote tally/i })).toHaveCount(0);
+    await expect(page.getByRole('heading', { name: /Admin · Ranked ballots/i })).toHaveCount(0);
   });
 
   test('voting banner is visible when voting is open', async ({ page }) => {
@@ -86,5 +86,10 @@ test.describe('Auth & voting UI (signed out)', () => {
     await page.goto(firstLink!);
     // Review header + content render; favorites/progress sync silently fails.
     await expect(page.locator('h1').first()).toBeVisible();
+  });
+
+  test('/votes page redirects to home when not signed in', async ({ page }) => {
+    await page.goto('/votes');
+    await expect(page).toHaveURL('/');
   });
 });
