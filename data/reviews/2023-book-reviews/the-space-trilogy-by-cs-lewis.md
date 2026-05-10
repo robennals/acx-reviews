@@ -11,6 +11,10 @@ wordCount: 3823
 readingTimeMinutes: 17
 originalUrl: "https://docs.google.com/document/d/1AtGIIv371v0Yu35eNsIxJr67dw4SHOiGdKrqmoKt2hg"
 source: "gdoc"
+tags:
+  - Fiction
+  - Religion
+  - Philosophy
 ---
 
 C.S. Lewis, superstar lay theologian and author of immortal works of fiction like The Chronicles of Narnia and The Screwtape Letters, also wrote a series of three adult sci-fi novels collectively called the Space Trilogy.  

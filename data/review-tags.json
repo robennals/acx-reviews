@@ -222,6 +222,11 @@
     "Philosophy",
     "Religion"
   ],
+  "autobiography-of-yukichi-fukuzawa": [
+    "History",
+    "Memoir",
+    "Society"
+  ],
   "autoheterosexual-attracted-to-being-the-other-sex": [
     "Psychology",
     "Society"
@@ -496,9 +501,9 @@
     "Fiction",
     "History"
   ],
-  "dominion-by-matthew-scully": [
+  "dominion": [
     "Philosophy",
-    "Society"
+    "Religion"
   ],
   "don-juan": [
     "Fiction"
@@ -545,6 +550,10 @@
     "Philosophy",
     "Politics"
   ],
+  "egypts-golden-couple-when-akhenaten-and-nefertiti-were-gods-on-earth-by-john-and-colleen-darnell": [
+    "History",
+    "Religion"
+  ],
   "einsteins-world-view-review": [
     "Philosophy",
     "Politics"
@@ -579,9 +588,6 @@
   "eve-how-the-female-body-drove-200-million-years-of-human-evolution-by-cat-bohannon": [
     "Biology",
     "Society"
-  ],
-  "even-if-you-know-nothing-else-about-winnie-the-pooh": [
-    "Fiction"
   ],
   "exhaustion": [
     "Psychology",
@@ -764,6 +770,10 @@
   "how-children-fail-by-john-holt": [
     "Society"
   ],
+  "how-emotions-are-made-by-lisa-feldman-barrett": [
+    "Psychology",
+    "Science"
+  ],
   "how-language-began": [
     "Science",
     "Biology"
@@ -771,12 +781,35 @@
   "how-many-super-mario-games-are-there-now": [
     "Society"
   ],
+  "how-minds-change-by-david-mcraney": [
+    "Psychology",
+    "Society"
+  ],
   "how-solar-energy-became-cheap-a-model-for-low-carbon-innovation": [
     "Technology",
     "Economics"
   ],
-  "how-the-war-was-won-by-phillips-payson-obrien": [
+  "how-the-war-was-won": [
+    "History",
+    "Society"
+  ],
+  "how-the-world-really-works-a-scientists-guide-to-our-past-present-and-future-by-vaclav-smil-review-2": [
+    "Science",
+    "Economics",
     "History"
+  ],
+  "how-the-world-really-works-by-vaclav-smil-review-1": [
+    "Science",
+    "Economics"
+  ],
+  "how-to-invent-everything-rebuild-all-of-civilisation-with-96-fewer-catastrophes-this-time-by-ryan-north": [
+    "History",
+    "Science",
+    "Technology"
+  ],
+  "how-to-talk-about-books-you-havent-read-pierre-bayard": [
+    "Philosophy",
+    "Society"
   ],
   "hp-lovecraft-against-the-world-against-life-by-michel-houellebecq": [
     "Fiction",
@@ -793,6 +826,10 @@
   "human-smoke-by-nicholson-baker": [
     "History"
   ],
+  "human-solving-the-global-workforce-crisis-in-healthcare": [
+    "Economics",
+    "Society"
+  ],
   "humankind": [
     "Psychology",
     "Society"
@@ -804,6 +841,10 @@
   "identity": [
     "Philosophy",
     "Psychology"
+  ],
+  "im-ok-youre-ok-a-practical-guide-to-transactional-analysis": [
+    "Psychology",
+    "Society"
   ],
   "impossible-histories-the-soviet-republic-of-alaska-the-united-states-of-hudsonia-president-charlemagne-and-other-pivotal-moments-of-history-that-never-happened-by-hal-johnson": [
     "History"
@@ -828,6 +869,10 @@
     "Fiction",
     "Memoir"
   ],
+  "intelligence-and-spirit-by-reza-negarestani": [
+    "Philosophy",
+    "Science"
+  ],
   "inventing-temperature-measurement-and-scientific-progress-by-hasok-chang": [
     "Science",
     "History"
@@ -838,6 +883,11 @@
   "irreversible-damage-the-transgender-craze-seducing-our-daughters-by-abigail-shrier": [
     "Society",
     "Psychology"
+  ],
+  "ishmael-by-daniel-quinn": [
+    "Philosophy",
+    "Fiction",
+    "Society"
   ],
   "islamic-geometric-patterns": [
     "History"
@@ -880,6 +930,10 @@
     "History",
     "Society"
   ],
+  "keystroke-capitalism-by-aaron-sahr": [
+    "Economics",
+    "Society"
+  ],
   "kikis-delivery-service": [
     "Fiction"
   ],
@@ -907,6 +961,10 @@
     "Society",
     "Fiction"
   ],
+  "less-is-more-by-jason-hickel": [
+    "Economics",
+    "Philosophy"
+  ],
   "letter-to-a-christian-nation-and-other-writings-of-sam-harris": [
     "Religion",
     "Philosophy"
@@ -919,9 +977,21 @@
     "Economics",
     "Philosophy"
   ],
+  "limitless-jeanna-smialek-2023-manias-panics-and-crashes-robert-aliber-and-charles-kindleberger-2015-and-the-courage-to-act-ben-bernanke-2015": [
+    "Economics",
+    "Society"
+  ],
+  "little-big-by-john-crowley": [
+    "Fiction",
+    "Philosophy"
+  ],
   "loserthink-by-scott-adams": [
     "Psychology",
     "Society"
+  ],
+  "lost-in-the-cosmos-the-last-self-help-book": [
+    "Philosophy",
+    "Psychology"
   ],
   "love": [
     "Memoir"
@@ -935,6 +1005,11 @@
   ],
   "lying-for-money": [
     "Economics"
+  ],
+  "lying-for-money-how-legendary-frauds-reveal-the-workings-of-the-world": [
+    "Economics",
+    "History",
+    "Society"
   ],
   "mad-investors-chaos-and-the-woman-of-asmodeus": [
     "Fiction",
@@ -965,6 +1040,15 @@
     "Psychology",
     "Memoir"
   ],
+  "mans-search-for-meaning-by-viktor-e-frankl": [
+    "Psychology",
+    "Philosophy",
+    "History"
+  ],
+  "maos-great-famine": [
+    "History",
+    "Politics"
+  ],
   "marriage": [
     "Society",
     "Memoir"
@@ -973,9 +1057,18 @@
     "History",
     "Society"
   ],
+  "mating-in-captivity-by-esther-perel": [
+    "Psychology",
+    "Society"
+  ],
   "meditations-on-moloch": [
     "Philosophy",
     "Technology"
+  ],
+  "melmoth-the-wanderer": [
+    "Fiction",
+    "Philosophy",
+    "Religion"
   ],
   "memories-of-my-life-by-francis-galton": [
     "Memoir",
@@ -1017,6 +1110,11 @@
   "moscow-petushki-by-venedikt-yerofeyev": [
     "Fiction"
   ],
+  "mumbo-jumbo-by-ishmael-reed": [
+    "Society",
+    "History",
+    "Fiction"
+  ],
   "museum-of-science-boston": [
     "Memoir"
   ],
@@ -1035,6 +1133,11 @@
   "my-neighbour-totoro-stage-show": [
     "Fiction"
   ],
+  "my-struggle-by-karl-ove-knausgaard": [
+    "Memoir",
+    "Fiction",
+    "Psychology"
+  ],
   "never-twice-in-the-same-river": [
     "Politics",
     "Society"
@@ -1046,13 +1149,23 @@
   "nicotine-as-a-nootropic": [
     "Science"
   ],
-  "nine-lives-my-time-as-mi6s-top-spy-inside-al-qaeda-by-aimen-dean": [
-    "Memoir",
+  "nightmare-pipeline-failures": [
+    "History",
+    "Politics"
+  ],
+  "nine-lives": [
+    "History",
+    "Religion",
     "Politics"
   ],
   "njals-saga": [
     "Fiction",
     "History"
+  ],
+  "njals-saga-2": [
+    "History",
+    "Fiction",
+    "Society"
   ],
   "nobody-wants-to-read-your-sht-by-steven-pressfield": [
     "Society"
@@ -1090,9 +1203,23 @@
   "on-the-marble-cliffs": [
     "Fiction"
   ],
+  "on-the-marble-cliffs-by-ernst-jnger": [
+    "History",
+    "Politics",
+    "Society"
+  ],
   "on-the-natural-faculties": [
     "Science",
     "History"
+  ],
+  "on-the-origins-of-new-forms-of-life-2008-by-eugene-m-mccarthy": [
+    "Biology",
+    "Science"
+  ],
+  "one-day-in-the-life-of-ivan-denisovich": [
+    "Fiction",
+    "History",
+    "Politics"
   ],
   "one-dimensional-man-by-herbert-marcuse": [
     "Philosophy",
@@ -1102,16 +1229,30 @@
     "Economics",
     "Politics"
   ],
+  "open-democracy": [
+    "Politics",
+    "Philosophy"
+  ],
   "order-without-law": [
     "Society",
     "Economics"
   ],
-  "orgy-review-red-means-nohttpswwwredmeansnocom": [
+  "orgy-review-red-means-no": [
+    "Psychology",
     "Society"
+  ],
+  "pacific-war-trilogy-by-ian-w-toll": [
+    "History",
+    "Politics"
   ],
   "paradoxes-of-rationality-and-cooperation": [
     "Philosophy",
     "Economics"
+  ],
+  "parliament-ltd-a-journey-to-the-dark-heart-of-british-politics": [
+    "Politics",
+    "Society",
+    "History"
   ],
   "participation-in-phase-i-clinical-pharmaceutical-research": [
     "Memoir",
@@ -1144,6 +1285,10 @@
     "Society",
     "Biology"
   ],
+  "perplexities-of-consciousness-by-eric-schwitzgebel": [
+    "Philosophy",
+    "Psychology"
+  ],
   "person-of-interest": [
     "Fiction",
     "Technology"
@@ -1163,6 +1308,11 @@
     "Politics",
     "Memoir"
   ],
+  "power-sex-suicide": [
+    "Biology",
+    "History",
+    "Science"
+  ],
   "power-sex-suicide-mitochondria-and-the-meaning-of-life-by-nick-lane": [
     "Biology",
     "Science"
@@ -1176,6 +1326,11 @@
   "princess-mononoke": [
     "Fiction"
   ],
+  "principles-for-dealing-with-the-changing-world-order-why-nations-succeed-and-fail": [
+    "Economics",
+    "History",
+    "Politics"
+  ],
   "private-government-by-elizabeth-anderson": [
     "Politics",
     "Economics",
@@ -1185,6 +1340,10 @@
     "Science",
     "Philosophy"
   ],
+  "probability-theory-the-logic-of-science-by-et-jaynes": [
+    "Philosophy",
+    "Science"
+  ],
   "progress-and-poverty": [
     "Economics",
     "Politics"
@@ -1192,9 +1351,6 @@
   "project-xanadu": [
     "Technology",
     "History"
-  ],
-  "prologue-three-jews-on-the-internet": [
-    "Science"
   ],
   "public-choice-theory-and-the-illusion-of-grand-strategy-how-generals-weapons-manufacturers-and-foreign-governments-shape-american-foreign-policy-by-richard-hanania": [
     "Politics",
@@ -1204,6 +1360,11 @@
     "Politics",
     "Society"
   ],
+  "public-citizens-the-attack-on-big-government-and-the-remaking-of-american-liberalism": [
+    "Politics",
+    "History",
+    "Fiction"
+  ],
   "pure-mathematics": [
     "Science",
     "Philosophy"
@@ -1211,6 +1372,13 @@
   "pythia": [
     "Philosophy",
     "Technology"
+  ],
+  "python-data-science-handbook": [
+    "Technology"
+  ],
+  "range-why-generalists-triumph-in-a-specialized-world-by-david-epstein": [
+    "Psychology",
+    "Society"
   ],
   "ranimorphs-the-reckoning-by-duncan-sabien": [
     "Fiction"
@@ -1241,10 +1409,6 @@
     "Technology",
     "Science"
   ],
-  "remember-clearly-when-realized-that-there-were-other": [
-    "Fiction",
-    "Philosophy"
-  ],
   "repairing-a-fatherdaughter-relationship-as-an-adult": [
     "Memoir",
     "Religion"
@@ -1253,6 +1417,10 @@
     "Politics",
     "Society",
     "Technology"
+  ],
+  "revolutions-podcast-by-mike-duncan": [
+    "History",
+    "Politics"
   ],
   "righteous-victims-a-history-of-the-zionist-arab-conflict-by-benny-morris": [
     "History",
@@ -1288,14 +1456,32 @@
     "Economics",
     "History"
   ],
+  "scale-the-universal-laws-of-growth-innovation-sustainability-and-the-pace-of-life-in-organisms-cities-economies-and-companies-by-geoffrey-west": [
+    "Science",
+    "Biology",
+    "Economics"
+  ],
   "school": [
     "Society"
   ],
   "schools-a-review": [
     "Society"
   ],
+  "science-fictions-by-stuart-ritchie": [
+    "Science",
+    "History"
+  ],
+  "scientific-freedom-the-elixir-of-civilization-by-donald-w-braben": [
+    "Science",
+    "History"
+  ],
   "scientific-peer-review-umbilical-cord-or-corduroy-umbrella": [
     "Science"
+  ],
+  "second-nature-a-gardeners-education-by-michael-pollan": [
+    "History",
+    "Memoir",
+    "Society"
   ],
   "secret-agenda-watergate-deep-throat-and-the-cia-by-jim-hougan": [
     "Politics",
@@ -1305,9 +1491,27 @@
     "Politics",
     "Philosophy"
   ],
+  "secret-government-by-brian-kogelmann": [
+    "Politics",
+    "Society",
+    "History"
+  ],
+  "selfish-reasons-to-have-more-kids-by-bryan-caplan": [
+    "Economics",
+    "Psychology",
+    "Society"
+  ],
   "sense-of-style-by-stephen-pinker": [
     "Psychology",
     "Society"
+  ],
+  "shall-the-religious-inherit-the-earth-by-eric-kaufmann": [
+    "Religion",
+    "Society",
+    "History"
+  ],
+  "shattered-sword-the-untold-story-of-the-battle-of-midway-by-jonathan-parshall-and-anthony-tully": [
+    "History"
   ],
   "she-ra-and-the-princesses-of-power": [
     "Fiction"
@@ -1319,6 +1523,10 @@
     "Fiction",
     "Psychology"
   ],
+  "shut-out-by-kevin-erdmann": [
+    "Economics",
+    "Society"
+  ],
   "sign-tracking-sucks": [
     "Psychology",
     "Biology"
@@ -1327,9 +1535,10 @@
     "Fiction",
     "Politics"
   ],
-  "silver-age-marvel-comics-november-1961-december-1965": [
-    "Fiction",
-    "Society"
+  "silver-age-marvel-comics": [
+    "History",
+    "Society",
+    "Technology"
   ],
   "simple-twist-of-fate": [
     "Philosophy"
@@ -1346,6 +1555,16 @@
     "Fiction",
     "History"
   ],
+  "slouching-towards-utopia": [
+    "Economics",
+    "History",
+    "Politics"
+  ],
+  "so-good-they-cant-ignore-you-by-cal-newport": [
+    "Philosophy",
+    "Psychology",
+    "Society"
+  ],
   "society-of-the-spectacle": [
     "Philosophy",
     "Society"
@@ -1353,11 +1572,25 @@
   "sound-bathing": [
     "Psychology"
   ],
+  "space-forces-a-critical-history-of-life-in-space-by-fred-scharmen": [
+    "History",
+    "Society",
+    "Technology"
+  ],
+  "spqr-by-mary-beard": [
+    "History",
+    "Society"
+  ],
   "spring-snow-by-yukio-mishima": [
     "Fiction",
     "Society"
   ],
   "state-of-competitive-debating-unions-address": [
+    "Society"
+  ],
+  "steve-jobs-by-walter-isaacson": [
+    "Technology",
+    "History",
     "Society"
   ],
   "stilwell-and-the-american-experience-in-china-1911-1945-by-barbara-w-tuchman": [
@@ -1367,6 +1600,21 @@
   "storm-of-steel-by-ernst-junger": [
     "History",
     "Memoir"
+  ],
+  "strangers-drowning-impossible-idealism-drastic-choices-and-the-urge-to-help-by-larissa-macfarquhar": [
+    "Philosophy",
+    "Psychology",
+    "Society"
+  ],
+  "strong-towns-by-charles-marohn": [
+    "Economics",
+    "Society",
+    "Politics"
+  ],
+  "stubborn-attachments-by-tyler-cowen": [
+    "Economics",
+    "Philosophy",
+    "History"
   ],
   "sudden-glory-by-hal-johnson": [
     "Fiction",
@@ -1391,6 +1639,16 @@
     "Biology",
     "Philosophy"
   ],
+  "telluria-by-vladimir-sorokin": [
+    "Fiction",
+    "Politics",
+    "Philosophy"
+  ],
+  "ten-days-that-shook-the-world-by-john-reed": [
+    "History",
+    "Politics",
+    "Society"
+  ],
   "tenga-arte-drape": [
     "Society"
   ],
@@ -1409,9 +1667,19 @@
   "the-acx-commentariat": [
     "Society"
   ],
+  "the-age-of-entitlement-america-since-the-sixties-by-christopher-caldwell": [
+    "History",
+    "Politics",
+    "Society"
+  ],
   "the-age-of-the-infovore-by-tyler-cowen": [
     "Society",
     "Psychology"
+  ],
+  "the-alexander-romance": [
+    "Fiction",
+    "History",
+    "Society"
   ],
   "the-anti-politics-machine": [
     "Politics",
@@ -1425,21 +1693,26 @@
     "Philosophy",
     "Psychology"
   ],
+  "the-art-of-doing-science-and-engineering-by-richard-hamming": [
+    "Science",
+    "Technology"
+  ],
   "the-art-of-happiness": [
     "Psychology",
     "Religion"
   ],
-  "the-astral-codex-ten-commentariat-why-do-we-suck": [
+  "the-art-of-not-being-governed-an-anarchist-history-of-upland-southeast-asia-by-james-c-scott-2009": [
+    "History",
+    "Politics",
     "Society"
   ],
-  "the-autobiography-of-yukichi-fukuzawa": [
-    "Memoir",
-    "History"
+  "the-astral-codex-ten-commentariat-why-do-we-suck": [
+    "Society"
   ],
   "the-axis-of-madness": [
     "Fiction"
   ],
-  "the-ballad-of-the-white-horse-by-g-k-chesterton": [
+  "the-ballad-of-the-white-horse": [
     "Fiction",
     "History",
     "Politics"
@@ -1467,12 +1740,24 @@
     "Psychology",
     "Science"
   ],
+  "the-bomb-by-fred-kaplan": [
+    "History",
+    "Politics"
+  ],
   "the-book-of-all-hours-series-vellum-and-ink-by-hal-duncan": [
     "Fiction"
   ],
   "the-book-of-blam-by-aleksander-tima": [
     "Fiction",
     "History"
+  ],
+  "the-book-of-why-by-judea-pearl": [
+    "Philosophy",
+    "Science"
+  ],
+  "the-book-of-why-by-judea-pearl-2022": [
+    "Philosophy",
+    "Science"
   ],
   "the-british-industrial-revolution-in-global-perspective-by-robert-c-allen": [
     "History",
@@ -1485,9 +1770,39 @@
   "the-brutalist": [
     "Fiction"
   ],
+  "the-burnout-society-by-byung-chul-han": [
+    "Philosophy",
+    "Psychology",
+    "Society"
+  ],
+  "the-burnout-society-by-byung-chul-han-2023": [
+    "Philosophy",
+    "Psychology",
+    "Society"
+  ],
+  "the-call-of-cthulhu-by-h-p-lovecraft": [
+    "Fiction",
+    "Philosophy",
+    "Religion"
+  ],
+  "the-case-against-reality": [
+    "Philosophy",
+    "Science",
+    "Psychology"
+  ],
+  "the-case-against-reality-by-don-hoffman": [
+    "Philosophy",
+    "Science",
+    "Biology"
+  ],
   "the-case-against-reality-by-donald-hoffman": [
     "Philosophy",
     "Science"
+  ],
+  "the-case-against-the-sexual-revolution-by-louise-perry": [
+    "Psychology",
+    "Society",
+    "History"
   ],
   "the-castrato": [
     "History",
@@ -1501,14 +1816,38 @@
     "History",
     "Society"
   ],
-  "the-complete-rhyming-dictionary-and-poets-craft-book-1936-edition": [
+  "the-collected-stories-of-lydia-davis": [
     "Fiction",
-    "Society"
+    "Philosophy"
+  ],
+  "the-complete-rhyming-dictionary-and-poets-craft-book": [
+    "History",
+    "Fiction"
   ],
   "the-condition-of-postmodernity-an-enquiry-into-the-origins-of-cultural-change": [
     "Philosophy",
     "Society",
     "History"
+  ],
+  "the-conquest-of-happiness-by-bertrand-russell": [
+    "Philosophy",
+    "Psychology",
+    "Society"
+  ],
+  "the-constitution-of-liberty-by-friedrich-von-hayek": [
+    "Politics",
+    "Philosophy",
+    "History"
+  ],
+  "the-cult-of-smart-how-our-broken-education-system-perpetuates-social-injustice-by-fredrik-deboer": [
+    "Politics",
+    "Society",
+    "Philosophy"
+  ],
+  "the-culture-of-narcissism-by-christopher-lasch": [
+    "Society",
+    "Politics",
+    "Psychology"
   ],
   "the-dark-forest-by-liu-cixin": [
     "Fiction",
@@ -1518,13 +1857,19 @@
     "History",
     "Society"
   ],
+  "the-dawn-of-everything-a-new-history-of-humanity": [
+    "History",
+    "Philosophy",
+    "Society"
+  ],
   "the-dawn-of-everything-a-new-history-of-humanity-by-david-graeber-and-david-wengrow": [
     "History",
     "Society"
   ],
-  "the-dawn-of-everything-a-new-history-of-humanity-by-david-graeber-and-david-wengrow-3": [
+  "the-dawn-of-everything-a-new-history-of-humanity-by-david-graeber-and-david-wengrow-2": [
     "History",
-    "Society"
+    "Society",
+    "Politics"
   ],
   "the-deficit-myth-by-stephanie-kelton": [
     "Economics",
@@ -1534,9 +1879,18 @@
     "Economics",
     "Science"
   ],
+  "the-design-of-everyday-things": [
+    "History",
+    "Psychology",
+    "Society"
+  ],
   "the-diamond-age-or-a-young-ladys-illustrated-primer-by-neal-stephenson": [
     "Fiction",
     "Technology"
+  ],
+  "the-discarded-image-an-introduction-to-medieval-and-renaissance-literature": [
+    "History",
+    "Fiction"
   ],
   "the-divine-comedy-by-dante-alighieri": [
     "Fiction",
@@ -1558,9 +1912,19 @@
     "Society",
     "Philosophy"
   ],
+  "the-educated-mind-by-kieran-egan": [
+    "History",
+    "Memoir",
+    "Psychology"
+  ],
   "the-eighteenth-brumaire-of-louis-napoleon-by-karl-marx": [
     "History",
     "Politics"
+  ],
+  "the-eldraeverse-by-alistair-young": [
+    "Fiction",
+    "Society",
+    "Philosophy"
   ],
   "the-emperor-of-all-maladies": [
     "Fiction",
@@ -1574,8 +1938,17 @@
   "the-ethics-of-ambiguity-by-simone-de-beauvoir": [
     "Philosophy"
   ],
+  "the-everything-store-jeff-bezos-and-the-age-of-amazon": [
+    "Economics",
+    "Technology",
+    "History"
+  ],
   "the-evolution-of-beauty-how-darwins-forgotten-theory-of-mate-choice-shapes-the-animal-world-and-us-by-richard-prum": [
     "Biology"
+  ],
+  "the-evolving-self-problem-and-process-in-human-development-by-robert-kegan": [
+    "Psychology",
+    "Philosophy"
   ],
   "the-extended-mind-by-annie-murphy-paul": [
     "Psychology",
@@ -1585,13 +1958,14 @@
     "History",
     "Politics"
   ],
-  "the-family-that-couldnt-sleep-by-d-t-max": [
-    "Science",
-    "Biology"
-  ],
-  "the-first-reason-to-read-about-pharaoh-akhenaten": [
+  "the-family-that-couldnt-sleep": [
     "History",
-    "Religion"
+    "Science",
+    "Society"
+  ],
+  "the-forgotten-revolution-how-science-was-born-in-300-bc-and-why-it-had-to-be-reborn-by-lucio-russo": [
+    "History",
+    "Science"
   ],
   "the-four-hour-workweek": [
     "Economics",
@@ -1609,6 +1983,10 @@
     "Technology",
     "Society"
   ],
+  "the-gene-an-intimate-history": [
+    "Biology",
+    "History"
+  ],
   "the-genesis-machine-by-amy-webb-and-andrew-hessel": [
     "Technology",
     "Biology"
@@ -1620,6 +1998,21 @@
   "the-goal-its-not-luck-by-eliyahu-goldratt": [
     "Economics"
   ],
+  "the-golden-thread-how-fabric-changed-history": [
+    "History",
+    "Society",
+    "Economics"
+  ],
+  "the-great-american-gamble-deterrence-theory-and-practice-from-the-cold-war-to-the-twenty-first-century-by-keith-b-payne": [
+    "History",
+    "Politics",
+    "Philosophy"
+  ],
+  "the-gulag-archipelago": [
+    "History",
+    "Politics",
+    "Memoir"
+  ],
   "the-hebrew-bible": [
     "Religion"
   ],
@@ -1627,9 +2020,19 @@
     "Science",
     "Technology"
   ],
-  "the-history-of-the-rise-and-influence-of-the-spirit-of-rationalism-in-europe": [
+  "the-history-of-rationalism": [
     "History",
     "Philosophy"
+  ],
+  "the-horse-the-wheel-and-language-by-david-w-anthony-2007": [
+    "History",
+    "Biology",
+    "Society"
+  ],
+  "the-human-predicament-a-candid-guide-to-lifes-biggest-question-by-david-benatar": [
+    "Philosophy",
+    "Psychology",
+    "Society"
   ],
   "the-hundred-year-marathon-chinas-secret-strategy-to-replace-america-as-the-global-superpower-by-michael-pillsbury": [
     "Politics",
@@ -1660,6 +2063,11 @@
     "Religion",
     "Politics"
   ],
+  "the-joy-luck-club-by-amy-tan": [
+    "Fiction",
+    "History",
+    "Philosophy"
+  ],
   "the-knowledge-how-to-rebuild-our-world-from-scratch-by-lewis-dartnell": [
     "Science",
     "Technology"
@@ -1685,16 +2093,67 @@
   "the-laws-of-trading": [
     "Economics"
   ],
+  "the-laws-of-trading-by-agustin-lebron": [
+    "Economics",
+    "Philosophy",
+    "History"
+  ],
   "the-leopard-by-giuseppe-tomasi-di-lampedusa": [
     "Fiction",
     "History"
   ],
+  "the-life-and-opinions-of-zacharias-lichter-by-matei-clinescu": [
+    "Fiction",
+    "Philosophy",
+    "History"
+  ],
+  "the-life-of-johnny-reb-the-common-soldier-of-the-confederacy": [
+    "History",
+    "Society"
+  ],
   "the-lifes-work-of-banerjee-duflo-and-kremer": [
     "Economics"
+  ],
+  "the-little-prince-by-antoine-de-saint-exupry": [
+    "Fiction",
+    "Philosophy",
+    "Society"
+  ],
+  "the-little-red-book-quotations-from-mao-tse-tung": [
+    "History",
+    "Politics",
+    "Society"
+  ],
+  "the-machiavellians-by-james-burnham": [
+    "History",
+    "Politics",
+    "Society"
+  ],
+  "the-mahbhrata": [
+    "History",
+    "Fiction",
+    "Philosophy"
+  ],
+  "the-making-of-prince-of-persia-by-jordan-mechner": [
+    "Technology",
+    "History"
+  ],
+  "the-making-of-the-atomic-bomb-by-richard-rhodes-review-2": [
+    "Science",
+    "History"
+  ],
+  "the-making-of-the-atomic-bomb-richard-rhodes-review-1": [
+    "History",
+    "Science",
+    "Politics"
   ],
   "the-man-who-quit-money-by-mark-sundeen": [
     "Memoir",
     "Society"
+  ],
+  "the-man-without-a-face-the-unlikely-rise-of-vladimir-putin": [
+    "History",
+    "Politics"
   ],
   "the-many-worlds-of-hugh-everett-by-peter-byrne": [
     "Science",
@@ -1733,8 +2192,26 @@
     "Fiction",
     "Philosophy"
   ],
+  "the-millionaire-next-door-by-thomas-j-stanley-and-william-d-danko-and-other-books": [
+    "Economics",
+    "Psychology"
+  ],
   "the-mind-of-a-bee": [
     "Biology"
+  ],
+  "the-mind-of-a-bee-2": [
+    "Psychology",
+    "Memoir",
+    "History"
+  ],
+  "the-ministry-for-the-future-by-kim-stanley-robinson": [
+    "Fiction",
+    "Politics",
+    "Science"
+  ],
+  "the-ministry-for-the-future-by-kim-stanley-robinson-2023": [
+    "Fiction",
+    "Society"
   ],
   "the-mirror-and-the-light-by-hilary-mantel": [
     "Fiction",
@@ -1745,6 +2222,10 @@
   ],
   "the-motivation-hacker-by-nick-winter": [
     "Psychology"
+  ],
+  "the-motivation-to-work": [
+    "Psychology",
+    "Economics"
   ],
   "the-myth-of-mental-illness-by-thomas-szasz": [
     "Psychology",
@@ -1758,6 +2239,11 @@
     "Science",
     "Technology"
   ],
+  "the-no-breakfast-fallacy-why-the-club-of-rome-was-wrong-about-us-running-out-of-resources-by-tim-worstall": [
+    "Economics",
+    "History",
+    "Science"
+  ],
   "the-old-testament": [
     "Religion"
   ],
@@ -1768,6 +2254,11 @@
   "the-one-world-schoolhouse-by-salman-khan": [
     "Society",
     "Technology"
+  ],
+  "the-open-society-and-its-enemies-by-karl-popper": [
+    "Philosophy",
+    "Politics",
+    "History"
   ],
   "the-origins-of-the-second-world-war-by-ajp-taylor": [
     "History",
@@ -1787,12 +2278,33 @@
     "Politics",
     "Memoir"
   ],
-  "the-pale-king-by-david-foster-wallace": [
-    "Fiction"
+  "the-oxford-handbook-of-4e-cognition-by-albert-newen-leon-de-bruin-and-shaun-gallagher": [
+    "Philosophy",
+    "Psychology",
+    "Science"
+  ],
+  "the-pacific-war-by-saburo-ienaga": [
+    "History",
+    "Politics"
+  ],
+  "the-pale-king": [
+    "Fiction",
+    "Philosophy",
+    "History"
+  ],
+  "the-panic-of-1819": [
+    "Economics",
+    "History",
+    "Society"
   ],
   "the-party-the-secret-world-of-chinas-communist-rulers-by-richard-mcgregor": [
     "Politics",
     "History"
+  ],
+  "the-passengerstella-maris": [
+    "Fiction",
+    "History",
+    "Society"
   ],
   "the-pattern-seekers-how-autism-drives-human-invention-by-simon-baron-cohen": [
     "Psychology",
@@ -1805,9 +2317,37 @@
   "the-picture-of-dorian-gray-by-oscar-wilde": [
     "Fiction"
   ],
+  "the-power-of-glamour-by-virginia-postrel": [
+    "Psychology",
+    "History",
+    "Politics"
+  ],
+  "the-power-of-the-powerless-by-vclav-havel": [
+    "Philosophy",
+    "Politics"
+  ],
+  "the-problem-of-political-authority-by-michael-huemer": [
+    "Politics",
+    "Philosophy"
+  ],
+  "the-question-concerning-technology-by-martin-heidegger": [
+    "Philosophy",
+    "Technology",
+    "History"
+  ],
   "the-reckoning-by-david-halberstam": [
     "Economics",
     "History"
+  ],
+  "the-recovering-by-leslie-jamison": [
+    "Memoir",
+    "Psychology",
+    "Society"
+  ],
+  "the-red-and-the-black-by-stendhal": [
+    "Fiction",
+    "Politics",
+    "Philosophy"
   ],
   "the-remains-of-the-day-by-kazuo-ishiguro": [
     "Fiction"
@@ -1829,13 +2369,28 @@
     "Philosophy",
     "Politics"
   ],
-  "the-righteous-mind-by-jonathan-haidt-3": [
+  "the-righteous-mind-by-jonathan-haidt-2": [
     "Psychology",
     "Philosophy",
     "Politics"
   ],
+  "the-rings-of-saturn-by-wg-sebald": [
+    "Fiction",
+    "History",
+    "Society"
+  ],
   "the-rise-and-fall-of-the-third-reich": [
     "History"
+  ],
+  "the-rise-and-fall-of-the-third-reich-by-william-l-shirer": [
+    "History",
+    "Technology",
+    "Society"
+  ],
+  "the-ruin-of-kasch-by-roberto-calasso": [
+    "Philosophy",
+    "History",
+    "Religion"
   ],
   "the-russian-revolution-a-new-history-by-sean-mcmeekin": [
     "History",
@@ -1845,6 +2400,11 @@
     "History",
     "Politics",
     "Memoir"
+  ],
+  "the-scythian-empire-central-eurasia-and-the-birth-of-the-classical-age-from-persia-to-china-by-christopher-i-beckwith": [
+    "History",
+    "Philosophy",
+    "Religion"
   ],
   "the-sermon-on-the-mount": [
     "Religion",
@@ -1858,13 +2418,35 @@
     "Science",
     "Technology"
   ],
+  "the-signal-and-the-noise-the-art-and-science-of-prediction-by-nate-silver": [
+    "Science",
+    "Politics",
+    "Society"
+  ],
+  "the-silmarillion-by-j-r-r-tolkien": [
+    "Fiction",
+    "Philosophy",
+    "Religion"
+  ],
+  "the-simulacra": [
+    "Fiction",
+    "Philosophy"
+  ],
   "the-sixth-day-and-other-tales": [
     "Fiction",
     "Memoir"
   ],
+  "the-smartest-guys-in-the-room-the-amazing-rise-and-scandalous-fall-of-enron-by-bethany-mclean-and-peter-elkind": [
+    "History",
+    "Economics"
+  ],
   "the-society-of-the-spectacle-by-guy-debord": [
     "Philosophy",
     "Society"
+  ],
+  "the-soul-of-a-new-machine-review": [
+    "Technology",
+    "History"
   ],
   "the-soul-of-an-anti-woke-intellectual-jamie-q-roberts": [
     "Society",
@@ -1872,6 +2454,20 @@
   ],
   "the-soul-of-karl-friston-1": [
     "Science",
+    "Philosophy"
+  ],
+  "the-sovereign-individual-by-william-rees-mogg-and-james-dale-davidson": [
+    "Economics",
+    "Politics",
+    "Technology"
+  ],
+  "the-sovereign-state-and-its-competitors-by-hendrik-spruyt-1994": [
+    "History",
+    "Politics"
+  ],
+  "the-space-trilogy-by-cs-lewis": [
+    "Fiction",
+    "Religion",
     "Philosophy"
   ],
   "the-spreadsheet-humanitys-most-misunderstood-programming-language": [
@@ -1884,6 +2480,16 @@
   "the-structure-of-scientific-revolutions-by-thomas-kuhn": [
     "Science",
     "Philosophy"
+  ],
+  "the-subtle-art-of-not-giving-a-fuck-by-mark-manson": [
+    "Philosophy",
+    "Psychology",
+    "Society"
+  ],
+  "the-suicide-of-reason-by-lee-harris": [
+    "Philosophy",
+    "Psychology",
+    "Society"
   ],
   "the-sunset-limited": [
     "Fiction",
@@ -1906,6 +2512,16 @@
   ],
   "the-trial-by-franz-kafka": [
     "Fiction",
+    "Philosophy"
+  ],
+  "the-true-believer-thoughts-on-the-nature-of-mass-movements-by-eric-hoffer": [
+    "Psychology",
+    "Society",
+    "Politics"
+  ],
+  "the-true-creator-of-everything-how-the-human-brain-shaped-the-universe-as-we-know-it-by-miguel-nicolelis": [
+    "Science",
+    "Psychology",
     "Philosophy"
   ],
   "the-tyranny-of-metrics-by-jerry-z-muller": [
@@ -1945,6 +2561,26 @@
     "History",
     "Psychology"
   ],
+  "the-weirdest-people-in-the-world-by-joseph-henrich": [
+    "Biology",
+    "Psychology",
+    "Society"
+  ],
+  "the-weirdest-people-in-the-world-by-joseph-henrich-2": [
+    "Psychology",
+    "History",
+    "Society"
+  ],
+  "the-weirdest-people-in-the-world-by-joseph-henrich-review-2": [
+    "History",
+    "Fiction",
+    "Society"
+  ],
+  "the-weirdest-people-in-the-world-how-the-west-became-psychologically-peculiar-and-particularly-prosperous-by-joseph-henrich-review-1": [
+    "Psychology",
+    "History",
+    "Society"
+  ],
   "the-wheel-of-time": [
     "Fiction"
   ],
@@ -1959,6 +2595,11 @@
     "Society",
     "Memoir"
   ],
+  "the-world-imagined-by-hendrik-spruyt-2020": [
+    "Politics",
+    "History",
+    "Society"
+  ],
   "the-yom-kippur-war-the-epic-encounter-that-transformed-the-middle-east-by-abraham-rabinovich": [
     "History"
   ],
@@ -1969,6 +2610,11 @@
   "the-zoologists-guide-to-the-galaxy-by-arik-kershenbaum": [
     "Biology",
     "Science"
+  ],
+  "things-fall-apart-by-chinua-achebe": [
+    "Fiction",
+    "History",
+    "Society"
   ],
   "three-days-in-dwarfland-and-sequels": [
     "Fiction",
@@ -1989,6 +2635,10 @@
   "times-arrow-spirals": [
     "Philosophy"
   ],
+  "title-of-book-the-most-democratic-branch-how-the-courts-serve-america": [
+    "History",
+    "Politics"
+  ],
   "toby-a-review-of-my-entry-to-the-acx-everything-except-a-book-review-contest-2025": [
     "Fiction",
     "Philosophy"
@@ -2001,12 +2651,20 @@
     "Society",
     "Politics"
   ],
+  "transcendence-how-humans-evolved-through-fire-language-beauty-and-time-by-gaia-vince-2020": [
+    "Biology",
+    "Science",
+    "Society"
+  ],
   "troubled-blood-by-jk-rowling": [
     "Fiction"
   ],
   "trump-the-art-of-the-deal-by-donald-trump-and-tony-schwartz": [
     "Politics",
     "Memoir"
+  ],
+  "trustee-report-review": [
+    "Economics"
   ],
   "two-arms-and-a-head": [
     "Memoir",
@@ -2015,6 +2673,11 @@
   "two-years-of-parenthood-a-review": [
     "Society",
     "Memoir"
+  ],
+  "understand-1991-by-ted-chiang": [
+    "Fiction",
+    "Philosophy",
+    "Psychology"
   ],
   "unordinary-webtoon-comic-series": [
     "Fiction",
@@ -2047,6 +2710,16 @@
     "Society",
     "Technology"
   ],
+  "walkaway-by-cory-doctorow": [
+    "Fiction",
+    "Society",
+    "Economics"
+  ],
+  "wanting-the-power-of-mimetic-desire-in-everyday-life-by-luke-burgis": [
+    "Philosophy",
+    "Psychology",
+    "Society"
+  ],
   "war-and-peace-by-leo-tolstoy": [
     "Fiction",
     "History"
@@ -2055,14 +2728,26 @@
     "History",
     "Biology"
   ],
+  "war-in-the-balkans-1991-2002-by-r-craig-nation": [
+    "History",
+    "Politics"
+  ],
   "warriors-woman-by-johanna-lindsey": [
     "Fiction"
   ],
   "we-should-never-have-gone-to-mammoth-caves": [
     "Memoir"
   ],
+  "wealth-in-families-by-charles-collier": [
+    "Economics",
+    "Philosophy"
+  ],
   "what-even-is-gender": [
     "Society",
+    "Philosophy"
+  ],
+  "what-the-buddha-taught-by-walpola-rahula-thero": [
+    "Religion",
     "Philosophy"
   ],
   "when-men-behave-badly-by-david-buss": [
@@ -2072,6 +2757,11 @@
   "when-we-cease-to-understand-the-world": [
     "Fiction",
     "Science"
+  ],
+  "where-is-my-flying-car-a-memoir-of-future-past-by-j-storrs-hall": [
+    "History",
+    "Science",
+    "Technology"
   ],
   "wheres-my-flying-car": [
     "Technology",
@@ -2096,21 +2786,71 @@
     "Religion",
     "Psychology"
   ],
+  "why-does-he-do-that": [
+    "Psychology",
+    "Society"
+  ],
   "why-fish-dont-exist": [
     "Biology",
     "Science"
+  ],
+  "why-liberalism-failed": [
+    "Politics",
+    "Philosophy",
+    "Society"
   ],
   "why-machines-will-never-rule-the-world": [
     "Technology",
     "Philosophy"
   ],
+  "why-machines-will-never-rule-the-world-review-1": [
+    "Technology",
+    "History",
+    "Science"
+  ],
+  "why-machines-will-never-rule-the-world-review-2": [
+    "Philosophy",
+    "Technology",
+    "Psychology"
+  ],
   "why-nations-fail": [
     "Economics",
     "Politics"
   ],
+  "why-nations-fail-by-daron-acemoglu-and-james-robinson-2012": [
+    "Politics",
+    "Economics",
+    "Society"
+  ],
+  "why-people-die-by-suicide-by-thomas-joiner": [
+    "Psychology",
+    "Society"
+  ],
+  "wild-problems-by-russ-roberts": [
+    "Economics",
+    "Philosophy",
+    "Psychology"
+  ],
   "win-bigly-persuasion-in-a-world-where-facts-dont-matter": [
     "Politics",
     "Psychology"
+  ],
+  "winnie-the-pooh-the-house-at-pooh-corner": [
+    "Fiction"
+  ],
+  "without-gloves-without-grease-the-great-game-of-politics-and-political-behavior-by-frank-r-kent": [
+    "Politics",
+    "History"
+  ],
+  "without-marx-or-jesus-the-new-american-revolution-has-begun-by-jean-franois-revel": [
+    "Politics",
+    "History",
+    "Philosophy"
+  ],
+  "wizards-first-rule-and-the-sword-of-truth-series": [
+    "Fiction",
+    "History",
+    "Society"
   ],
   "wonderful-life-the-burgess-shale-and-the-nature-of-history-by-stephen-jay-gould": [
     "Science",
@@ -2119,6 +2859,10 @@
   "wonderful-life-the-burgess-shale-and-the-nature-of-historyby-stephen-jay-gould": [
     "Biology",
     "Science"
+  ],
+  "working-with-contracts-what-law-school-doesnt-teach-you-by-charles-m-fox": [
+    "Economics",
+    "Society"
   ],
   "world-empire-lost": [
     "History"
@@ -2141,5 +2885,10 @@
   ],
   "zuozhuan": [
     "History"
+  ],
+  "zuozhuan-2": [
+    "History",
+    "Society",
+    "Politics"
   ]
 }

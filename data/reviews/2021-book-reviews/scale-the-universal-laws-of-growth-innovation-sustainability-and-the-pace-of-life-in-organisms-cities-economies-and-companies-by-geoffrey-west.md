@@ -11,6 +11,10 @@ wordCount: 7237
 readingTimeMinutes: 33
 originalUrl: "https://docs.google.com/document/d/1M1m8o1HInGYJR3cEMYZ6TQgNmeBOWo98YC6djNnFWf0"
 source: "gdoc"
+tags:
+  - Science
+  - Biology
+  - Economics
 ---
 
 _Scale_ (2017) is a general audience (for the “intelligent layperson”) book which relates the author’s - a physicist at the Santa Fe Institute - research into the life sciences and later into cities, and as such is hard to categorize under a single topic or thesis. We could look to the title, which refers to scaling laws or power laws. That is, relationships of the form y = k\*(x^s) as opposed to linear relationships y = mx + b. Or we could look to the subtitle, _The Universal Laws of Life, Growth, and Death in Organisms, Cities, and Companies_. My own irreverent-but-not-irreverent characterization is that, in addition to describing a certain branch of science called complexity theory, this is a book which argues biologists, economists, sociologists, etc. should think more like physicists. The dominant thread in _Scale_ involves simple mathematical rules showing up in unexpected places – a hidden order where one would expect lots of statistical noise. With respect to certain properties all mammals are scaled versions of each other, as are all birds, as are the cities of a given country, as are companies. It’s a bold claim, particularly the latter two items (biology experts may already know about scaling between animal species), but West backs it up.

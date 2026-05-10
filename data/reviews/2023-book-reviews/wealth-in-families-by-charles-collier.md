@@ -11,6 +11,9 @@ wordCount: 3055
 readingTimeMinutes: 14
 originalUrl: "https://docs.google.com/document/d/1D2MGZ7HW1vRtOtfXYIx9BBUt6ubjEA2n06gpoHcxaFY"
 source: "gdoc"
+tags:
+  - Economics
+  - Philosophy
 ---
 
 _Wealth in Families,_ by Charles Collier, is not a typical self-help book. Self-help books are for people who struggle with habits, or relationships, or business. _Wealth in Families_ is by definition not for people who are struggling with anything. Written in the early 2000’s, it is the final self-help book at the end of a road that most will never reach. It is 100 pages of advice for wealthy Harvard University donors on how best to distribute their money to their children and philanthropic ventures. It is quite comfortable in being, and candid in announcing, that it is not for everyone. The inside cover contains solely the title of the book and this jarring epigraph:

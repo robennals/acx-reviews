@@ -1,20 +1,27 @@
 ---
-title: 'Even if you know nothing else about Winnie-the-Pooh,'
+title: Winnie-the-Pooh & The House at Pooh Corner
 author: Unknown
 reviewAuthor: Anonymous
 contestId: 2024-book-reviews
 contestName: 2024 Book Reviews
 year: 2024
-publishedDate: '2026-02-06T16:49:50.824Z'
-slug: even-if-you-know-nothing-else-about-winnie-the-pooh
-wordCount: 4887
-readingTimeMinutes: 22
+publishedDate: '2024-01-01T00:00:00.000Z'
+slug: winnie-the-pooh-the-house-at-pooh-corner
+wordCount: 4951
+readingTimeMinutes: 23
 originalUrl: >-
   https://docs.google.com/document/d/1Ki5XsE0jkxZtd2XAeyTAJw1ZjLh2Cu-matUYKAhA6-s
 source: gdoc
 tags:
   - Fiction
 ---
+Sing, O Muse, of the Many-Mannered Bear!
+
+## I
+
+A story is always more interesting than its Disney adaptation would lead you to believe. Carlo Collodi’s _Pinocchio_ has Pinocchio killing the Talking Cricket.[[81]](#ftnt81) Hans Christian Andersen’s “The Little Mermaid” involves the titular character having her _tongue_ cut out.
+
+And A.A. Milne’s Winnie-the-Pooh books belong to the very old and respected genre of heroic epic.
 
 ## II
 

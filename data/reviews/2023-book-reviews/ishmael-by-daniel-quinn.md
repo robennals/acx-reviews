@@ -11,6 +11,10 @@ wordCount: 3243
 readingTimeMinutes: 15
 originalUrl: "https://docs.google.com/document/d/1vci14HMZ2UEJBs6mKCZZ2vHs-jVuPSsFsiN3cAENzXU"
 source: "gdoc"
+tags:
+  - Philosophy
+  - Fiction
+  - Society
 ---
 
 Some people are visual learners. They’ll pick up calculus most easily by seeing lots of graphs of curves with the slopes and areas drawn in. Others are auditory learners: they’d rather listen to a professor lecture about how to compute an integral. Likewise, some people prefer to learn about how all modern culture, technology, and institutions owe their origins to some particularity of the Neolithic Revolution by reading a respectable-looking tome by someone like Jared Diamond, while others prefer to learn from a pedantic telepathic fictional gorilla. If you’re in the second group, Daniel Quinn’s Ishmael is the book for you.

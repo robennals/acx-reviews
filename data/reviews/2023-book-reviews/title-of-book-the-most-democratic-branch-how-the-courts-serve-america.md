@@ -11,6 +11,9 @@ wordCount: 11822
 readingTimeMinutes: 53
 originalUrl: "https://docs.google.com/document/d/1AtGIIv371v0Yu35eNsIxJr67dw4SHOiGdKrqmoKt2hg"
 source: "gdoc"
+tags:
+  - History
+  - Politics
 ---
 
 You can look at any given court case in two radically different ways. Officially, as the Supreme Court says, cases must always be about “definite and concrete” controversies that touch upon “the legal relations of parties having adverse legal interests.” In this framing, the “judicial power” involves four key elements:

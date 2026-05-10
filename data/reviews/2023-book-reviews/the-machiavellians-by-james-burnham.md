@@ -11,6 +11,10 @@ wordCount: 4623
 readingTimeMinutes: 21
 originalUrl: "https://docs.google.com/document/d/1AtGIIv371v0Yu35eNsIxJr67dw4SHOiGdKrqmoKt2hg"
 source: "gdoc"
+tags:
+  - History
+  - Politics
+  - Society
 ---
 
 James Burnham followed an almost comically 20th century intellectual trajectory. Born in 1905, he studied philosophy at Princeton then moved to Oxford where he learned Old English from Tolkien. By 1925 he was a professor at NYU. He was raised Catholic, converted to Marxism, became friends with Trotsky, broke with him over doctrinal disagreements then rejected Marxism to become a vehement anti-Marxist. During the war he joined the OSS and urged it to prepare itself for a post-war environment where communism was America’s primary enemy. He was involved in the early years of the CIA, helped found the _National Review_ and spent the rest of his life drifting further and further to the right. Ronald Reagan awarded him the Presidential medal of freedom in 1983, and he died four years later: a once influential thinker largely forgotten outside conservative circles.

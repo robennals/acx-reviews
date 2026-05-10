@@ -11,6 +11,10 @@ wordCount: 3313
 readingTimeMinutes: 15
 originalUrl: "https://docs.google.com/document/d/1vci14HMZ2UEJBs6mKCZZ2vHs-jVuPSsFsiN3cAENzXU"
 source: "gdoc"
+tags:
+  - Science
+  - Economics
+  - History
 ---
 
 Viking/Penguin 2022. [ISBN](https://en.wikipedia.org/wiki/ISBN_(identifier)) [978-0241454398](https://en.wikipedia.org/wiki/Special:BookSources/978-0241454398)

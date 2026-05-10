@@ -11,6 +11,10 @@ wordCount: 1614
 readingTimeMinutes: 8
 originalUrl: "https://docs.google.com/document/d/1M1m8o1HInGYJR3cEMYZ6TQgNmeBOWo98YC6djNnFWf0"
 source: "gdoc"
+tags:
+  - History
+  - Biology
+  - Society
 ---
 
 Indo-European is by far the most successful language family. 10 of the top 15 most commonly spoken languages are Indo-European:

@@ -11,6 +11,10 @@ wordCount: 8314
 readingTimeMinutes: 37
 originalUrl: "https://docs.google.com/document/d/1vci14HMZ2UEJBs6mKCZZ2vHs-jVuPSsFsiN3cAENzXU"
 source: "gdoc"
+tags:
+  - Economics
+  - History
+  - Politics
 ---
 
 > _That in the long 20th century, for the very first time in human history, the principal axis of history was economic—rather than cultural, ideological, religious, political, military-imperial, or what have you_

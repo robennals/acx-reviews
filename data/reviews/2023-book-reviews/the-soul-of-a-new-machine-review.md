@@ -11,6 +11,9 @@ wordCount: 2761
 readingTimeMinutes: 13
 originalUrl: "https://docs.google.com/document/d/1AtGIIv371v0Yu35eNsIxJr67dw4SHOiGdKrqmoKt2hg"
 source: "gdoc"
+tags:
+  - Technology
+  - History
 ---
 
 Tracy Kidder’s The Soul of a New Machine is about the people who make computers and the computers they make.

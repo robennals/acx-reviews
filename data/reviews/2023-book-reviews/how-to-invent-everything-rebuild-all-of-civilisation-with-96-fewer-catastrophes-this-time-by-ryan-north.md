@@ -11,6 +11,10 @@ wordCount: 2164
 readingTimeMinutes: 10
 originalUrl: "https://docs.google.com/document/d/1vci14HMZ2UEJBs6mKCZZ2vHs-jVuPSsFsiN3cAENzXU"
 source: "gdoc"
+tags:
+  - History
+  - Science
+  - Technology
 ---
 
 This is a book about technology wrapped in a fictional framing which makes for an easy read delivery with a good deal of dry humour. I would class it as non-fiction, flavoured with narrative whimsy. That may put some readers off, but that’s fine, everyone has their preferences. I enjoyed it a good deal.

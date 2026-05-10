@@ -11,6 +11,10 @@ wordCount: 4193
 readingTimeMinutes: 19
 originalUrl: "https://docs.google.com/document/d/1M1m8o1HInGYJR3cEMYZ6TQgNmeBOWo98YC6djNnFWf0"
 source: "gdoc"
+tags:
+  - History
+  - Politics
+  - Philosophy
 ---
 
 The Great American Gamble is a book analyzes how (ownership of) nuclear weapons was used and can be used in the future, to achieve important goals, like preventing nuclear war. It looks at the actual policies, but also the theory behind those policies. Were these policies and theories wise or were they [MAD](https://en.wikipedia.org/wiki/Mutual_assured_destruction)? Did the US avoid nuclear war by skill or by luck? Can these same policies keep the US and its allies safe from new threats, like North-Korea, China or terrorists?

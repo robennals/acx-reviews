@@ -234,20 +234,31 @@ export async function fetchGDocAsHTML(docId: string): Promise<string> {
   const url = `https://docs.google.com/document/d/${docId}/export?format=html`;
   const MAX_ATTEMPTS = 5;
   const BASE_DELAY_MS = 2000;
+  // Per-attempt timeout. The biggest 2025 docs are ~150–200 MB of HTML
+  // which streams in over Google's pipe at variable speeds; without a
+  // ceiling, fetch() can sit on a stalled connection forever (observed
+  // 10+ minute hangs on the 'Other J-S' doc). 4 minutes is plenty for
+  // a ~200 MB transfer and short enough to escalate to a retry quickly.
+  const FETCH_TIMEOUT_MS = 4 * 60 * 1000;
 
   for (let attempt = 1; attempt <= MAX_ATTEMPTS; attempt++) {
     const label = attempt === 1 ? '' : ` (attempt ${attempt}/${MAX_ATTEMPTS})`;
     console.log(`  Fetching doc: ${docId}${label}`);
+    const controller = new AbortController();
+    const timer = setTimeout(() => controller.abort(), FETCH_TIMEOUT_MS);
     try {
       const response = await fetch(url, {
         headers: {
           'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36',
         },
         redirect: 'follow',
+        signal: controller.signal,
       });
 
       if (response.ok) {
-        return await response.text();
+        const text = await response.text();
+        clearTimeout(timer);
+        return text;
       }
 
       // 4xx (except 429) is unlikely to succeed on retry — fail fast.
@@ -256,13 +267,16 @@ export async function fetchGDocAsHTML(docId: string): Promise<string> {
       }
 
       if (attempt === MAX_ATTEMPTS) {
+        clearTimeout(timer);
         throw new Error(`HTTP ${response.status}: ${response.statusText} for doc ${docId} after ${MAX_ATTEMPTS} attempts`);
       }
       const delay = BASE_DELAY_MS * Math.pow(2, attempt - 1);
       console.log(`  ⚠️  HTTP ${response.status} — backing off ${delay}ms`);
+      clearTimeout(timer);
       await new Promise(r => setTimeout(r, delay));
     } catch (err: unknown) {
-      // Network errors (ENOTFOUND, ECONNRESET, etc.) — retry up to the limit.
+      clearTimeout(timer);
+      // Network errors (ENOTFOUND, ECONNRESET, AbortError, etc.) — retry.
       if (attempt === MAX_ATTEMPTS) throw err;
       const msg = err instanceof Error ? err.message : String(err);
       // Re-throw 4xx errors immediately (message shape contains "HTTP 4")

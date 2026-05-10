@@ -11,6 +11,9 @@ wordCount: 2435
 readingTimeMinutes: 11
 originalUrl: "https://docs.google.com/document/d/1AtGIIv371v0Yu35eNsIxJr67dw4SHOiGdKrqmoKt2hg"
 source: "gdoc"
+tags:
+  - History
+  - Science
 ---
 
 _Lucio Russo_

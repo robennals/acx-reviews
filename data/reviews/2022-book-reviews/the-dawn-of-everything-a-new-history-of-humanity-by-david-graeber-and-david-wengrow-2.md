@@ -9,7 +9,7 @@ contestName: 2022 Book Reviews
 year: 2022
 publishedDate: '2022-01-01T00:00:00.000Z'
 slug: >-
-  the-dawn-of-everything-a-new-history-of-humanity-by-david-graeber-and-david-wengrow-3
+  the-dawn-of-everything-a-new-history-of-humanity-by-david-graeber-and-david-wengrow-2
 wordCount: 1930
 readingTimeMinutes: 9
 originalUrl: >-
@@ -18,6 +18,7 @@ source: gdoc
 tags:
   - History
   - Society
+  - Politics
 ---
 
 (review by B W)

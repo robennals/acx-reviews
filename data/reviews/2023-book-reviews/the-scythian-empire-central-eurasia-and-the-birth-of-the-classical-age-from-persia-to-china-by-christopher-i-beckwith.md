@@ -11,6 +11,10 @@ wordCount: 2728
 readingTimeMinutes: 13
 originalUrl: "https://docs.google.com/document/d/1AtGIIv371v0Yu35eNsIxJr67dw4SHOiGdKrqmoKt2hg"
 source: "gdoc"
+tags:
+  - History
+  - Philosophy
+  - Religion
 ---
 
 Every so often, a history book changes the way we think about a certain era. _The World of Late Antiquity,_ a slender, heavily illustrated book by classicist Peter Brown,  gave a name for a fascinating period of history, juxtaposed between “ancient history” and “medieval history,” when public baths and chariot racetracks in Constantinople, the New Rome, stood near large Christian churches. Kyle Harper’s _The Fate of Rome: Climate, Disease, and the End of an Empire_ offered a new answer to the perennial “Why did Rome fall?” question, substituting climate and plague for the older answers that emphasize Germanic invasions, high taxes or widespread lead poisoning.

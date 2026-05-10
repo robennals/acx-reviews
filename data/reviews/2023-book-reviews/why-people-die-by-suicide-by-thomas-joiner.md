@@ -11,6 +11,9 @@ wordCount: 2474
 readingTimeMinutes: 11
 originalUrl: "https://docs.google.com/document/d/1D2MGZ7HW1vRtOtfXYIx9BBUt6ubjEA2n06gpoHcxaFY"
 source: "gdoc"
+tags:
+  - Psychology
+  - Society
 ---
 
 A [CDC report](https://www.cdc.gov/healthyyouth/data/yrbs/pdf/YRBS_Data-Summary-Trends_Report2023_508.pdf) this year earned [extensive](https://www.pbs.org/newshour/show/teenage-girls-experiencing-record-high-levels-of-sadness-violence-and-trauma-cdc-says) [media](https://www.cnn.com/2020/08/13/health/mental-health-coronavirus-pandemic-cdc-study-wellness/index.html) [coverage](https://www.nytimes.com/2023/02/13/health/teen-girls-sadness-suicide-violence.html) with data on the poor mental health of U.S. high school students. In addition to sky-high rates of sadness and hopelessness, 30% of girls endorse seriously considering suicide, up from 19% in 2011, with 13% reporting a suicide attempt in the past year. Subsequent commentary has focused on potential causes for the increase in negative feelings, whether [social media](https://jonathanhaidt.substack.com/p/the-new-cdc-report), smart [phones](https://noahpinion.substack.com/p/honestly-its-probably-the-phones), [academic pressure](https://www.theatlantic.com/newsletters/archive/2023/03/teen-anxiety-elite-schools-sat-act-paradox-wealthy-nations/673307/), [climate anxiety](https://theweek.com/climate-change/1021612/climate-anxiety-is-plaguing-the-worlds-youth), or [politics](https://www.slowboring.com/p/why-are-young-liberals-so-depressed). As someone who works in mental health, all of this discussion certainly jibes with my daily experience.

@@ -11,6 +11,9 @@ wordCount: 6587
 readingTimeMinutes: 30
 originalUrl: "https://docs.google.com/document/d/1vci14HMZ2UEJBs6mKCZZ2vHs-jVuPSsFsiN3cAENzXU"
 source: "gdoc"
+tags:
+  - Philosophy
+  - Psychology
 ---
 
 ![](https://acximages.ennals.org/images/2023-book-reviews/7887142fda6bb75d.png)

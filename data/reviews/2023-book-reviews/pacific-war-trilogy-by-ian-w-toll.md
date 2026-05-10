@@ -11,6 +11,9 @@ wordCount: 3755
 readingTimeMinutes: 17
 originalUrl: "https://docs.google.com/document/d/1vci14HMZ2UEJBs6mKCZZ2vHs-jVuPSsFsiN3cAENzXU"
 source: "gdoc"
+tags:
+  - History
+  - Politics
 ---
 
 A Hard and Unforgiving School

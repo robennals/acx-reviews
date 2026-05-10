@@ -11,6 +11,10 @@ wordCount: 2551
 readingTimeMinutes: 12
 originalUrl: "https://docs.google.com/document/d/1AtGIIv371v0Yu35eNsIxJr67dw4SHOiGdKrqmoKt2hg"
 source: "gdoc"
+tags:
+  - Fiction
+  - History
+  - Society
 ---
 
 _“If it doesn’t involve life or death… it’s not interesting”_ – Cormac McCarthy in _Rolling Stone_

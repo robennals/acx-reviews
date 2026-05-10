@@ -11,6 +11,10 @@ wordCount: 2556
 readingTimeMinutes: 12
 originalUrl: "https://docs.google.com/document/d/1M1m8o1HInGYJR3cEMYZ6TQgNmeBOWo98YC6djNnFWf0"
 source: "gdoc"
+tags:
+  - Philosophy
+  - History
+  - Religion
 ---
 
 Roberto Calasso, _The Ruin of Kasch._ Translated by William Weaver and Stephen Sartarelli. Belknap Press, Cambridge University, 1994. (Italian original 1983) Reviewed by John Bedell 

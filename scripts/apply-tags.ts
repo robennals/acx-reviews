@@ -11,6 +11,7 @@
 import fs from 'fs';
 import path from 'path';
 import matter from 'gray-matter';
+import { stringifyMarkdown } from './lib/frontmatter';
 
 const REVIEWS_DIR = path.join(process.cwd(), 'data/reviews');
 const TAGS_PATH = path.join(process.cwd(), 'data/review-tags.json');

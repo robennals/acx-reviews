@@ -11,6 +11,10 @@ wordCount: 3144
 readingTimeMinutes: 14
 originalUrl: "https://docs.google.com/document/d/1vci14HMZ2UEJBs6mKCZZ2vHs-jVuPSsFsiN3cAENzXU"
 source: "gdoc"
+tags:
+  - Religion
+  - Society
+  - History
 ---
 
 **TLDR:** Conservative and Orthodox (fundamentalist) religious zealots push out more puppies. In fact, the more conservative and orthodox they are, the more they spawn. Also, conservative and orthodox kids tend to stay conservative and orthodox. Seculars don’t have kids. So they’re doomed.  Kaufmann (somewhat half-heartedly) concludes that, unless something changes, the future of humanity will be dominated by religious fundamentalists.

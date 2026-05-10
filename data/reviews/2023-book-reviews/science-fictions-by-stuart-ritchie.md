@@ -11,6 +11,9 @@ wordCount: 5071
 readingTimeMinutes: 23
 originalUrl: "https://docs.google.com/document/d/1vci14HMZ2UEJBs6mKCZZ2vHs-jVuPSsFsiN3cAENzXU"
 source: "gdoc"
+tags:
+  - Science
+  - History
 ---
 
 By now, the replication crisis is famous.  Everyone knows that many of the landmark studies in psychology and social science, among other fields, have gone down in flames.  But how did this crisis happen, and how do we make sure it doesn’t happen again?  As a young scientist and long-time science enthusiast, I have double the reason to be interested in these questions, and so eagerly read _Science Fictions_ by Stuart Ritchie.

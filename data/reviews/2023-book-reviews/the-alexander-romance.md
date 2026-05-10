@@ -11,6 +11,10 @@ wordCount: 4742
 readingTimeMinutes: 22
 originalUrl: "https://docs.google.com/document/d/1AtGIIv371v0Yu35eNsIxJr67dw4SHOiGdKrqmoKt2hg"
 source: "gdoc"
+tags:
+  - Fiction
+  - History
+  - Society
 ---
 
 Sometimes scholars go on a search for “the historical Jesus”. They start with the Gospels, then subtract everything that seems magical or implausible, then declare whatever’s left to be the truth.

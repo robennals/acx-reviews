@@ -11,6 +11,10 @@ wordCount: 3470
 readingTimeMinutes: 16
 originalUrl: "https://docs.google.com/document/d/1M1m8o1HInGYJR3cEMYZ6TQgNmeBOWo98YC6djNnFWf0"
 source: "gdoc"
+tags:
+  - History
+  - Politics
+  - Society
 ---
 
 I decided to read this because Scott's book "Seeing Like A State" is one of the best books I've ever read. If this sounds interesting, I highly recommend reading that book first.

@@ -11,6 +11,9 @@ wordCount: 2125
 readingTimeMinutes: 10
 originalUrl: "https://docs.google.com/document/d/1M1m8o1HInGYJR3cEMYZ6TQgNmeBOWo98YC6djNnFWf0"
 source: "gdoc"
+tags:
+  - Philosophy
+  - Science
 ---
 
 [Here](https://www.npr.org/2020/04/02/825903331/pakistani-court-overturns-murder-conviction-in-killing-of-journalist-daniel-pear) is a strange coincidental story from a couple of days ago mentioning the author Judea Pearl. Unfortunately he seems most famous for some shitty terrorist act which killed his son. I mention it only to emphasize the important fact that weird coincidences do happen. But let’s quickly set that aside and remind ourselves who the author, Judea Pearl, really is.

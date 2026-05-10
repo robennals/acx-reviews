@@ -11,6 +11,10 @@ wordCount: 2856
 readingTimeMinutes: 13
 originalUrl: "https://docs.google.com/document/d/1vci14HMZ2UEJBs6mKCZZ2vHs-jVuPSsFsiN3cAENzXU"
 source: "gdoc"
+tags:
+  - Fiction
+  - History
+  - Politics
 ---
 
 _“We had money. We were grimy and tired. Usually we felt guilty and frightened, because there was something wrong with us, and we didn’t know what it was; but today we had the feeling of men who had worked.”_

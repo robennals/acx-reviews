@@ -11,6 +11,10 @@ wordCount: 5778
 readingTimeMinutes: 26
 originalUrl: "https://docs.google.com/document/d/1vci14HMZ2UEJBs6mKCZZ2vHs-jVuPSsFsiN3cAENzXU"
 source: "gdoc"
+tags:
+  - Fiction
+  - Philosophy
+  - Religion
 ---
 
 _Enter my chamber you never will leave_

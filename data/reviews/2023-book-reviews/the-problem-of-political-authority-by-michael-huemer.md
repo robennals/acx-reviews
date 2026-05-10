@@ -11,6 +11,9 @@ wordCount: 2553
 readingTimeMinutes: 12
 originalUrl: "https://docs.google.com/document/d/1AtGIIv371v0Yu35eNsIxJr67dw4SHOiGdKrqmoKt2hg"
 source: "gdoc"
+tags:
+  - Politics
+  - Philosophy
 ---
 
 _Debunking the Myths of Political Authority_

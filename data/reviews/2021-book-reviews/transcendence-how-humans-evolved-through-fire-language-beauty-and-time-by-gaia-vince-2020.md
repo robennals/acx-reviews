@@ -11,6 +11,10 @@ wordCount: 478
 readingTimeMinutes: 3
 originalUrl: "https://docs.google.com/document/d/1M1m8o1HInGYJR3cEMYZ6TQgNmeBOWo98YC6djNnFWf0"
 source: "gdoc"
+tags:
+  - Biology
+  - Science
+  - Society
 ---
 
 _We've come a long way together_ 

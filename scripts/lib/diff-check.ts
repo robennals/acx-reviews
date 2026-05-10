@@ -162,13 +162,17 @@ export function checkDiff(oldContent: string, newContent: string): DiffResult {
     }
   }
 
-  // Tags are applied post-ingestion by apply-tags.ts, so the ingestion
-  // script should never write tags. If old had tags and new doesn't, that's
-  // fine (apply-tags will restore them). If new has tags, that's a bug.
-  if (newParsed.data.tags !== undefined) {
+  // Tags should match between old and new. The ingestion script preserves
+  // existing tags when re-importing (so re-runs don't strip tags if the
+  // user forgets to run apply-tags afterward). It's still apply-tags.ts
+  // that authoritatively maintains the tag list, but the ingestion script
+  // shouldn't drop them mid-flight either.
+  const oldTags = JSON.stringify(oldParsed.data.tags ?? []);
+  const newTags = JSON.stringify(newParsed.data.tags ?? []);
+  if (oldTags !== newTags) {
     return {
       safe: false,
-      reason: 'New content unexpectedly includes "tags" in frontmatter',
+      reason: `Tags changed between old (${oldTags}) and new (${newTags}); ingestion should preserve existing tags`,
     };
   }
 

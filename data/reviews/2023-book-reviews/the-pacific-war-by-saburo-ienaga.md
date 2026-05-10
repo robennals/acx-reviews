@@ -11,6 +11,9 @@ wordCount: 1212
 readingTimeMinutes: 6
 originalUrl: "https://docs.google.com/document/d/1AtGIIv371v0Yu35eNsIxJr67dw4SHOiGdKrqmoKt2hg"
 source: "gdoc"
+tags:
+  - History
+  - Politics
 ---
 
 Before I read through Ienaga’s _The Pacific War_, I understood fairly little as to the war between Japan and the U.S.-Chinese alliance, despite having a history knowledge that resulted in me easily getting all questions (except the troll question they throw in there) right on the Advanced Placement World History test. I thought of reviewing Toland’s _Rising Sun_, but, as it contained only one sentence on the China Incident -the direct cause of America’s sanctions on Japan (and, thus, Japan’s attack on Pearl Harbor)- I saw it better to review a Japanese book written for Japanese, from a man who personally saw how things went in the years of and leading up to Japan’s wars with the U.S., China, and many local resistances.

@@ -11,6 +11,10 @@ wordCount: 3044
 readingTimeMinutes: 14
 originalUrl: "https://docs.google.com/document/d/1M1m8o1HInGYJR3cEMYZ6TQgNmeBOWo98YC6djNnFWf0"
 source: "gdoc"
+tags:
+  - Memoir
+  - Psychology
+  - Society
 ---
 
 In late 2018, I read The Recovering by Leslie Jamison, a compelling memoir of debasement and redemption. This book changed the way I see the world through the deep lessons it offers about how to tell powerful stories, and thus about how to build new culture of the kind we need in order to re-infuse meaning into modern life.

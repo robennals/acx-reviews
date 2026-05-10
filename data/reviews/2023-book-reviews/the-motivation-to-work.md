@@ -11,6 +11,9 @@ wordCount: 2700
 readingTimeMinutes: 12
 originalUrl: "https://docs.google.com/document/d/1AtGIIv371v0Yu35eNsIxJr67dw4SHOiGdKrqmoKt2hg"
 source: "gdoc"
+tags:
+  - Psychology
+  - Economics
 ---
 
 Let’s start with a quiz….

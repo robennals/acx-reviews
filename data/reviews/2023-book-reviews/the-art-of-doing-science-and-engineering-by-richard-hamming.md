@@ -11,6 +11,9 @@ wordCount: 4952
 readingTimeMinutes: 23
 originalUrl: "https://docs.google.com/document/d/1AtGIIv371v0Yu35eNsIxJr67dw4SHOiGdKrqmoKt2hg"
 source: "gdoc"
+tags:
+  - Science
+  - Technology
 ---
 
 “They performed his signs among them, and miracles in the land of Ham.”

@@ -11,6 +11,10 @@ wordCount: 730
 readingTimeMinutes: 4
 originalUrl: "https://docs.google.com/document/d/1AtGIIv371v0Yu35eNsIxJr67dw4SHOiGdKrqmoKt2hg"
 source: "gdoc"
+tags:
+  - Fiction
+  - History
+  - Society
 ---
 
 WG Sebald, 1995 (1998 in English translation) 296pp

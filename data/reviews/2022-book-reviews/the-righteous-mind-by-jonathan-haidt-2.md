@@ -6,7 +6,7 @@ contestId: 2022-book-reviews
 contestName: 2022 Book Reviews
 year: 2022
 publishedDate: '2022-01-01T00:00:00.000Z'
-slug: the-righteous-mind-by-jonathan-haidt-3
+slug: the-righteous-mind-by-jonathan-haidt-2
 wordCount: 11643
 readingTimeMinutes: 52
 originalUrl: >-

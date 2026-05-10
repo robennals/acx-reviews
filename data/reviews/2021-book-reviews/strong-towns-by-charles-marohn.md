@@ -11,6 +11,10 @@ wordCount: 2360
 readingTimeMinutes: 11
 originalUrl: "https://docs.google.com/document/d/1M1m8o1HInGYJR3cEMYZ6TQgNmeBOWo98YC6djNnFWf0"
 source: "gdoc"
+tags:
+  - Economics
+  - Society
+  - Politics
 ---
 
 For years I've wanted to open a restaurant. The plan goes like this: Every Saturday morning I'll put a folding table up in my front yard and sell vegetables from my garden and eggs from my chickens. Once people are in the habit of coming by, I'll add some baked goods. If those catch on, I'll throw up a picnic table and serve breakfast. And I'll keep going until I have a small, part time restaurant on my lawn. Each step will be small and low risk. If people don't come by, I'll stop and move on to something else. It's a risk free way to pursue my dream.
