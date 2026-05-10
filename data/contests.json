@@ -5,7 +5,7 @@
     "year": 2025,
     "type": "non-book",
     "description": "Reviews of music, games, TV/movies, and other non-book subjects",
-    "reviewCount": 148,
+    "reviewCount": 140,
     "sourceType": "both"
   },
   {
@@ -23,7 +23,7 @@
     "year": 2023,
     "type": "book",
     "description": "Book review contest entries from 2023",
-    "reviewCount": 160,
+    "reviewCount": 144,
     "sourceType": "both"
   },
   {
@@ -32,7 +32,7 @@
     "year": 2022,
     "type": "book",
     "description": "Book review contest entries from 2022",
-    "reviewCount": 149,
+    "reviewCount": 134,
     "sourceType": "both"
   },
   {
@@ -41,7 +41,7 @@
     "year": 2021,
     "type": "book",
     "description": "Book review contest entries from 2021",
-    "reviewCount": 115,
+    "reviewCount": 113,
     "sourceType": "both"
   }
 ]
