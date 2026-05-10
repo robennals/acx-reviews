@@ -11,6 +11,7 @@
 import fs from 'fs';
 import path from 'path';
 import * as cheerio from 'cheerio';
+import matter from 'gray-matter';
 import TurndownService from 'turndown';
 import { slugify, countWords, calculateReadingTime, createExcerpt } from '../lib/utils';
 
@@ -159,6 +160,39 @@ function extractArticleData(html: string, url: string): {
 /**
  * Create markdown file with frontmatter
  */
+/**
+ * Refuse to write if the slug is already claimed in a way that would cause
+ * data loss or a routing collision:
+ *   - Same contest, source: 'gdoc' — overwriting would lose the gdoc text.
+ *   - Different contest, any source — the URL `/reviews/<slug>` has no
+ *     contest segment, so two contests with the same slug alias to the
+ *     same URL.
+ * Same contest with source: 'acx' is fine — that's a re-scrape.
+ */
+function checkSlugAvailable(contestId: string, slug: string): { ok: true } | { ok: false; reason: string } {
+  for (const d of fs.readdirSync(REVIEWS_DIR, { withFileTypes: true })) {
+    if (!d.isDirectory()) continue;
+    const fp = path.join(REVIEWS_DIR, d.name, `${slug}.md`);
+    if (!fs.existsSync(fp)) continue;
+    const m = matter(fs.readFileSync(fp, 'utf8'));
+    const otherContest = m.data.contestId || d.name;
+    const otherSource = m.data.source || 'gdoc';
+    if (otherContest !== contestId) {
+      return {
+        ok: false,
+        reason: `slug "${slug}" already used by ${otherContest} (source=${otherSource}). Add a manual title in data/sources/acx-urls.json to disambiguate.`,
+      };
+    }
+    if (otherSource !== 'acx') {
+      return {
+        ok: false,
+        reason: `slug "${slug}" in ${contestId} is held by a ${otherSource}-source file; refusing to overwrite. Move that file aside or rename if you intend to replace it.`,
+      };
+    }
+  }
+  return { ok: true };
+}
+
 function createMarkdownFile(
   contestId: string,
   slug: string,
@@ -171,6 +205,12 @@ function createMarkdownFile(
     originalUrl: string;
   }
 ): void {
+  const check = checkSlugAvailable(contestId, slug);
+  if (!check.ok) {
+    console.log(`  ⚠️  SKIP ${slug}: ${check.reason}`);
+    return;
+  }
+
   const contestDir = path.join(REVIEWS_DIR, contestId);
 
   // Create contest directory if it doesn't exist
