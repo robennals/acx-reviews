@@ -68,6 +68,21 @@
       "docId": "10CiEI7aDL2bMIdx7yayy3vlq0TJ8dO5LGnG7yIDPiw8",
       "name": "A - G",
       "type": "composite"
+    },
+    {
+      "docId": "1vci14HMZ2UEJBs6mKCZZ2vHs-jVuPSsFsiN3cAENzXU",
+      "name": "H - S",
+      "type": "composite"
+    },
+    {
+      "docId": "1AtGIIv371v0Yu35eNsIxJr67dw4SHOiGdKrqmoKt2hg",
+      "name": "T - Th",
+      "type": "composite"
+    },
+    {
+      "docId": "1D2MGZ7HW1vRtOtfXYIx9BBUt6ubjEA2n06gpoHcxaFY",
+      "name": "W - Z",
+      "type": "composite"
     }
   ],
   "2022-book-reviews": [
@@ -96,6 +111,11 @@
     {
       "docId": "1xexFJ7h0vULMDE7N77q_MIzXoerexfe_CqqGEL6hEoQ",
       "name": "A - R",
+      "type": "composite"
+    },
+    {
+      "docId": "1M1m8o1HInGYJR3cEMYZ6TQgNmeBOWo98YC6djNnFWf0",
+      "name": "S - W",
       "type": "composite"
     }
   ]
