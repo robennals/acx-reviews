@@ -1,5 +1,290 @@
 [
   {
+    "id": "the-ballad-of-the-white-horse",
+    "title": "The Ballad of the White Horse",
+    "author": "Unknown",
+    "reviewAuthor": "Anonymous",
+    "contestId": "2024-book-reviews",
+    "contestName": "2024 Book Reviews",
+    "year": 2024,
+    "publishedDate": "2026-05-10T03:23:50.127Z",
+    "slug": "the-ballad-of-the-white-horse",
+    "excerpt": "The Ballad of the White Horse is a 2,684 line poem about conservatism, and it is brilliant. It has been called the last great epic poem written in English. I have not read the three dozen or so...",
+    "wordCount": 6251,
+    "readingTimeMinutes": 28,
+    "originalUrl": "https://www.astralcodexten.com/p/your-book-review-the-ballad-of-the",
+    "source": "acx",
+    "tags": [
+      "Fiction",
+      "History",
+      "Politics"
+    ]
+  },
+  {
+    "id": "the-pale-king",
+    "title": "The Pale King",
+    "author": "Unknown",
+    "reviewAuthor": "Anonymous",
+    "contestId": "2024-book-reviews",
+    "contestName": "2024 Book Reviews",
+    "year": 2024,
+    "publishedDate": "2026-05-10T03:23:48.081Z",
+    "slug": "the-pale-king",
+    "excerpt": "For the longest time, I avoided reading The Pale King. It wasn’t the style—in places thick with the author’s characteristic footnotes,1 sentences that run for pages, and spasms of dense technical...",
+    "wordCount": 6456,
+    "readingTimeMinutes": 29,
+    "originalUrl": "https://www.astralcodexten.com/p/your-book-review-the-pale-king",
+    "source": "acx",
+    "tags": [
+      "Fiction",
+      "Philosophy",
+      "History"
+    ]
+  },
+  {
+    "id": "the-history-of-rationalism",
+    "title": "The History Of Rationalism",
+    "author": "Unknown",
+    "reviewAuthor": "Anonymous",
+    "contestId": "2024-book-reviews",
+    "contestName": "2024 Book Reviews",
+    "year": 2024,
+    "publishedDate": "2026-05-10T03:23:45.950Z",
+    "slug": "the-history-of-rationalism",
+    "excerpt": "April, 1861 was a cruel month. The American Civil War had just started, and across the Atlantic, high in a remote valley in the western Alps, in the old market town of Morzines, another war was...",
+    "wordCount": 2059,
+    "readingTimeMinutes": 10,
+    "originalUrl": "https://www.astralcodexten.com/p/your-book-review-the-history-of-the",
+    "source": "acx",
+    "tags": [
+      "History",
+      "Philosophy"
+    ]
+  },
+  {
+    "id": "the-complete-rhyming-dictionary-and-poets-craft-book",
+    "title": "The Complete Rhyming Dictionary And Poet's Craft Book",
+    "author": "Unknown",
+    "reviewAuthor": "Anonymous",
+    "contestId": "2024-book-reviews",
+    "contestName": "2024 Book Reviews",
+    "year": 2024,
+    "publishedDate": "2026-05-10T03:23:43.758Z",
+    "slug": "the-complete-rhyming-dictionary-and-poets-craft-book",
+    "excerpt": "Suppose you were a newcomer to English literature, and having heard of this artistic device called ‘poetry’, wondered what it was all about and where it came from.  You might start by looking up some...",
+    "wordCount": 4042,
+    "readingTimeMinutes": 18,
+    "originalUrl": "https://www.astralcodexten.com/p/your-book-review-the-complete-rhyming",
+    "source": "acx",
+    "tags": [
+      "History",
+      "Fiction"
+    ]
+  },
+  {
+    "id": "silver-age-marvel-comics",
+    "title": "Silver Age Marvel Comics",
+    "author": "Unknown",
+    "reviewAuthor": "Anonymous",
+    "contestId": "2024-book-reviews",
+    "contestName": "2024 Book Reviews",
+    "year": 2024,
+    "publishedDate": "2026-05-10T03:23:41.626Z",
+    "slug": "silver-age-marvel-comics",
+    "excerpt": "You are a serious person with serious interests. The last comic book you read was more likely by Bryan Caplan than Jonathan Hickman. You would prefer to be reading high quality book reviews on...",
+    "wordCount": 11497,
+    "readingTimeMinutes": 52,
+    "originalUrl": "https://www.astralcodexten.com/p/your-book-review-silver-age-marvel",
+    "source": "acx",
+    "tags": [
+      "History",
+      "Society",
+      "Technology"
+    ]
+  },
+  {
+    "id": "real-raw-news",
+    "title": "Real Raw News",
+    "author": "Unknown",
+    "reviewAuthor": "Anonymous",
+    "contestId": "2024-book-reviews",
+    "contestName": "2024 Book Reviews",
+    "year": 2024,
+    "publishedDate": "2026-05-10T03:23:39.500Z",
+    "slug": "real-raw-news",
+    "excerpt": "If you’re a follower of U.S. news outlets, you’ve seen some big stories unfolding over the past year: The unprecedented four criminal indictments lodged against former President Trump. The ongoing AI...",
+    "wordCount": 7526,
+    "readingTimeMinutes": 34,
+    "originalUrl": "https://www.astralcodexten.com/p/your-book-review-real-raw-news",
+    "source": "acx",
+    "tags": [
+      "Politics",
+      "Society"
+    ]
+  },
+  {
+    "id": "how-language-began",
+    "title": "How Language Began",
+    "author": "Unknown",
+    "reviewAuthor": "Anonymous",
+    "contestId": "2024-book-reviews",
+    "contestName": "2024 Book Reviews",
+    "year": 2024,
+    "publishedDate": "2026-05-10T03:23:37.130Z",
+    "slug": "how-language-began",
+    "excerpt": "You may have heard of a field known as \"linguistics\". Linguistics is supposedly the \"scientific study of language\", but this is completely wrong. To borrow a phrase from elsewhere, linguists are...",
+    "wordCount": 10664,
+    "readingTimeMinutes": 48,
+    "originalUrl": "https://www.astralcodexten.com/p/your-book-review-how-language-began",
+    "source": "acx",
+    "tags": [
+      "Science",
+      "Biology"
+    ]
+  },
+  {
+    "id": "the-family-that-couldnt-sleep",
+    "title": "The Family That Couldn't Sleep",
+    "author": "Unknown",
+    "reviewAuthor": "Anonymous",
+    "contestId": "2024-book-reviews",
+    "contestName": "2024 Book Reviews",
+    "year": 2024,
+    "publishedDate": "2026-05-10T03:23:34.919Z",
+    "slug": "the-family-that-couldnt-sleep",
+    "excerpt": "You’re plagued by nightmares, do we haunt all of your dreams?”",
+    "wordCount": 10253,
+    "readingTimeMinutes": 46,
+    "originalUrl": "https://www.astralcodexten.com/p/your-book-review-the-family-that",
+    "source": "acx",
+    "tags": [
+      "History",
+      "Science",
+      "Society"
+    ]
+  },
+  {
+    "id": "don-juan",
+    "title": "Don Juan",
+    "author": "Unknown",
+    "reviewAuthor": "Anonymous",
+    "contestId": "2024-book-reviews",
+    "contestName": "2024 Book Reviews",
+    "year": 2024,
+    "publishedDate": "2026-05-10T03:23:32.801Z",
+    "slug": "don-juan",
+    "excerpt": "O Muse! Awaken from your hibernation,  \nFor Poesy has fallen since you’ve rested;  \nEach word’s now placed with careful calculation,  \nEach sentence focus-grouped and tried and tested.  \nSo lead us...",
+    "wordCount": 3229,
+    "readingTimeMinutes": 15,
+    "originalUrl": "https://www.astralcodexten.com/p/your-book-review-don-juan",
+    "source": "acx",
+    "tags": [
+      "Fiction"
+    ]
+  },
+  {
+    "id": "dominion",
+    "title": "Dominion",
+    "author": "Unknown",
+    "reviewAuthor": "Anonymous",
+    "contestId": "2024-book-reviews",
+    "contestName": "2024 Book Reviews",
+    "year": 2024,
+    "publishedDate": "2026-05-10T03:23:30.686Z",
+    "slug": "dominion",
+    "excerpt": "Matthew Scully, author of Dominion, is an unlikely animal welfare advocate. He’s a conservative Christian who worked as a speechwriter for George W. Bush. That’s like finding out that Greta...",
+    "wordCount": 6477,
+    "readingTimeMinutes": 29,
+    "originalUrl": "https://www.astralcodexten.com/p/your-book-review-dominion-by-matthew",
+    "source": "acx",
+    "tags": [
+      "Philosophy",
+      "Religion"
+    ]
+  },
+  {
+    "id": "autobiography-of-yukichi-fukuzawa",
+    "title": "Autobiography Of Yukichi Fukuzawa",
+    "author": "Unknown",
+    "reviewAuthor": "Anonymous",
+    "contestId": "2024-book-reviews",
+    "contestName": "2024 Book Reviews",
+    "year": 2024,
+    "publishedDate": "2026-05-10T03:23:28.444Z",
+    "slug": "autobiography-of-yukichi-fukuzawa",
+    "excerpt": "I had been living in Japan for a year before I got the idea to look up whose portraits were on the banknotes I was handling every day. In the United States, the faces of presidents and statesmen...",
+    "wordCount": 5010,
+    "readingTimeMinutes": 23,
+    "originalUrl": "https://www.astralcodexten.com/p/your-book-review-autobiography-of",
+    "source": "acx",
+    "tags": [
+      "History",
+      "Memoir",
+      "Society"
+    ]
+  },
+  {
+    "id": "how-the-war-was-won",
+    "title": "How The War Was Won",
+    "author": "Unknown",
+    "reviewAuthor": "Anonymous",
+    "contestId": "2024-book-reviews",
+    "contestName": "2024 Book Reviews",
+    "year": 2024,
+    "publishedDate": "2026-05-10T03:23:26.338Z",
+    "slug": "how-the-war-was-won",
+    "excerpt": "To a first approximation, there are a million books about World War II. Why should you care about How the War Was Won (hereinafter “HtWWW”) by Phillips Payson O’Brien?",
+    "wordCount": 5296,
+    "readingTimeMinutes": 24,
+    "originalUrl": "https://www.astralcodexten.com/p/your-book-review-how-the-war-was",
+    "source": "acx",
+    "tags": [
+      "History",
+      "Society"
+    ]
+  },
+  {
+    "id": "nine-lives",
+    "title": "Nine Lives",
+    "author": "Unknown",
+    "reviewAuthor": "Anonymous",
+    "contestId": "2024-book-reviews",
+    "contestName": "2024 Book Reviews",
+    "year": 2024,
+    "publishedDate": "2026-05-10T03:23:24.221Z",
+    "slug": "nine-lives",
+    "excerpt": "Cats have nine lives but they don’t get involved in jungle wars in the Philippines",
+    "wordCount": 8199,
+    "readingTimeMinutes": 37,
+    "originalUrl": "https://www.astralcodexten.com/p/your-book-review-nine-lives",
+    "source": "acx",
+    "tags": [
+      "History",
+      "Religion",
+      "Politics"
+    ]
+  },
+  {
+    "id": "two-arms-and-a-head",
+    "title": "Two Arms And A Head",
+    "author": "Unknown",
+    "reviewAuthor": "Anonymous",
+    "contestId": "2024-book-reviews",
+    "contestName": "2024 Book Reviews",
+    "year": 2024,
+    "publishedDate": "2026-05-10T03:23:21.950Z",
+    "slug": "two-arms-and-a-head",
+    "excerpt": "Content warning: body horror, existential devastation, suicide. This book is an infohazard that will permanently alter your view of paraplegia.",
+    "wordCount": 9395,
+    "readingTimeMinutes": 42,
+    "originalUrl": "https://www.astralcodexten.com/p/your-book-review-two-arms-and-a-head",
+    "source": "acx",
+    "tags": [
+      "Memoir",
+      "Psychology"
+    ]
+  },
+  {
     "id": "the-synaptic-plasticity-and-memory-hypothesis",
     "title": "The Synaptic Plasticity And Memory Hypothesis",
     "author": "Unknown",
@@ -1372,21 +1657,22 @@
     ]
   },
   {
-    "id": "orgy-review-red-means-nohttpswwwredmeansnocom",
-    "title": "Orgy Review - [Red Means No](https://www.redmeansno.com/)",
+    "id": "orgy-review-red-means-no",
+    "title": "Orgy Review - Red Means No",
     "author": "Unknown",
     "reviewAuthor": "Anonymous",
     "contestId": "2025-non-book-reviews",
     "contestName": "2025 Non Book Reviews",
     "year": 2025,
     "publishedDate": "2026-02-06T16:55:03.483Z",
-    "slug": "orgy-review-red-means-nohttpswwwredmeansnocom",
+    "slug": "orgy-review-red-means-no",
     "excerpt": "This review will assume you are somewhat familiar with sex parties/orgies and have seen at least the basic pitch for RMN parties. So you already know that at a typical orgy the median attendee...",
     "wordCount": 4220,
     "readingTimeMinutes": 19,
     "originalUrl": "https://docs.google.com/document/d/1a3q0Z2tuPLLbDeg5-pfEffkajGjrfPDwE7ZMs7uaWQs",
     "source": "gdoc",
     "tags": [
+      "Psychology",
       "Society"
     ]
   },
@@ -2338,25 +2624,6 @@
     ]
   },
   {
-    "id": "even-if-you-know-nothing-else-about-winnie-the-pooh",
-    "title": "Even if you know nothing else about Winnie-the-Pooh,",
-    "author": "Unknown",
-    "reviewAuthor": "Anonymous",
-    "contestId": "2024-book-reviews",
-    "contestName": "2024 Book Reviews",
-    "year": 2024,
-    "publishedDate": "2026-02-06T16:49:50.824Z",
-    "slug": "even-if-you-know-nothing-else-about-winnie-the-pooh",
-    "excerpt": "Even if you know nothing else about Winnie-the-Pooh, you probably know that the books are children’s stories. When I called them heroic epics just now, you might have done that thing where one...",
-    "wordCount": 4887,
-    "readingTimeMinutes": 22,
-    "originalUrl": "https://docs.google.com/document/d/1Ki5XsE0jkxZtd2XAeyTAJw1ZjLh2Cu-matUYKAhA6-s",
-    "source": "gdoc",
-    "tags": [
-      "Fiction"
-    ]
-  },
-  {
     "id": "why-fish-dont-exist-2024",
     "title": "Why Fish Don’t Exist",
     "author": "Unknown",
@@ -2513,26 +2780,6 @@
     "tags": [
       "Science",
       "Philosophy"
-    ]
-  },
-  {
-    "id": "two-arms-and-a-head",
-    "title": "Two Arms and a Head",
-    "author": "Unknown",
-    "reviewAuthor": "Anonymous",
-    "contestId": "2024-book-reviews",
-    "contestName": "2024 Book Reviews",
-    "year": 2024,
-    "publishedDate": "2026-02-06T16:49:50.818Z",
-    "slug": "two-arms-and-a-head",
-    "excerpt": "[Content warning: body horror, existential devastation, suicide. This book is an info hazard that will permanently alter your view of paraplegia.]",
-    "wordCount": 9128,
-    "readingTimeMinutes": 41,
-    "originalUrl": "https://docs.google.com/document/d/1Ki5XsE0jkxZtd2XAeyTAJw1ZjLh2Cu-matUYKAhA6-s",
-    "source": "gdoc",
-    "tags": [
-      "Memoir",
-      "Psychology"
     ]
   },
   {
@@ -2892,25 +3139,6 @@
     ]
   },
   {
-    "id": "the-pale-king-by-david-foster-wallace",
-    "title": "The Pale King by David Foster Wallace",
-    "author": "Unknown",
-    "reviewAuthor": "Anonymous",
-    "contestId": "2024-book-reviews",
-    "contestName": "2024 Book Reviews",
-    "year": 2024,
-    "publishedDate": "2026-02-06T16:49:50.813Z",
-    "slug": "the-pale-king-by-david-foster-wallace",
-    "excerpt": "For the longest time, I avoided reading The Pale King. It wasn’t the style—in places thick with the author’s characteristic footnotes,1 sentences that run for pages, and spasms of dense technical...",
-    "wordCount": 6396,
-    "readingTimeMinutes": 29,
-    "originalUrl": "https://docs.google.com/document/d/1Ki5XsE0jkxZtd2XAeyTAJw1ZjLh2Cu-matUYKAhA6-s",
-    "source": "gdoc",
-    "tags": [
-      "Fiction"
-    ]
-  },
-  {
     "id": "win-bigly-persuasion-in-a-world-where-facts-dont-matter",
     "title": "Win Bigly: Persuasion in a World Where Facts Don’t Matter",
     "author": "Unknown",
@@ -3187,26 +3415,6 @@
     ]
   },
   {
-    "id": "the-history-of-the-rise-and-influence-of-the-spirit-of-rationalism-in-europe",
-    "title": "The History of the Rise and Influence of the Spirit of Rationalism in Europe",
-    "author": "Unknown",
-    "reviewAuthor": "Anonymous",
-    "contestId": "2024-book-reviews",
-    "contestName": "2024 Book Reviews",
-    "year": 2024,
-    "publishedDate": "2026-02-06T16:49:14.008Z",
-    "slug": "the-history-of-the-rise-and-influence-of-the-spirit-of-rationalism-in-europe",
-    "excerpt": "April, 1861 was a cruel month. The American Civil War had just started, and across the Atlantic, high in a remote valley in the western Alps, in the old market town of Morzines, another war was...",
-    "wordCount": 2001,
-    "readingTimeMinutes": 9,
-    "originalUrl": "https://docs.google.com/document/d/14qa47TJ_Vyerx4XNgTCIh7PUZ_TOgNcU_eHm5So_zo0",
-    "source": "gdoc",
-    "tags": [
-      "History",
-      "Philosophy"
-    ]
-  },
-  {
     "id": "the-hunt-for-red-october-is-tom-clancy",
     "title": "The Hunt for Red October is Tom Clancy",
     "author": "Unknown",
@@ -3224,26 +3432,6 @@
     "tags": [
       "Fiction",
       "History"
-    ]
-  },
-  {
-    "id": "the-family-that-couldnt-sleep-by-d-t-max",
-    "title": "The Family That Couldn’t Sleep by D. T. Max",
-    "author": "Unknown",
-    "reviewAuthor": "Anonymous",
-    "contestId": "2024-book-reviews",
-    "contestName": "2024 Book Reviews",
-    "year": 2024,
-    "publishedDate": "2026-02-06T16:49:14.007Z",
-    "slug": "the-family-that-couldnt-sleep-by-d-t-max",
-    "excerpt": "You’re plagued by nightmares, do we haunt all of your dreams?”",
-    "wordCount": 9708,
-    "readingTimeMinutes": 44,
-    "originalUrl": "https://docs.google.com/document/d/14qa47TJ_Vyerx4XNgTCIh7PUZ_TOgNcU_eHm5So_zo0",
-    "source": "gdoc",
-    "tags": [
-      "Science",
-      "Biology"
     ]
   },
   {
@@ -3387,26 +3575,6 @@
     ]
   },
   {
-    "id": "the-complete-rhyming-dictionary-and-poets-craft-book-1936-edition",
-    "title": "The Complete Rhyming Dictionary and Poet's Craft Book (1936 Edition)",
-    "author": "Unknown",
-    "reviewAuthor": "Anonymous",
-    "contestId": "2024-book-reviews",
-    "contestName": "2024 Book Reviews",
-    "year": 2024,
-    "publishedDate": "2026-02-06T16:49:14.005Z",
-    "slug": "the-complete-rhyming-dictionary-and-poets-craft-book-1936-edition",
-    "excerpt": "Suppose you were a newcomer to English literature, and having heard of this artistic device called ‘poetry’, wondered what it was all about and where it came from.  You might start by looking up some...",
-    "wordCount": 3908,
-    "readingTimeMinutes": 18,
-    "originalUrl": "https://docs.google.com/document/d/14qa47TJ_Vyerx4XNgTCIh7PUZ_TOgNcU_eHm5So_zo0",
-    "source": "gdoc",
-    "tags": [
-      "Fiction",
-      "Society"
-    ]
-  },
-  {
     "id": "the-british-industrial-revolution-in-global-perspective-by-robert-c-allen",
     "title": "The British Industrial Revolution in Global Perspective by Robert C. Allen",
     "author": "Unknown",
@@ -3463,47 +3631,6 @@
     "tags": [
       "Psychology",
       "Science"
-    ]
-  },
-  {
-    "id": "the-ballad-of-the-white-horse-by-g-k-chesterton",
-    "title": "The Ballad of the White Horse, by G. K. Chesterton",
-    "author": "Unknown",
-    "reviewAuthor": "Anonymous",
-    "contestId": "2024-book-reviews",
-    "contestName": "2024 Book Reviews",
-    "year": 2024,
-    "publishedDate": "2026-02-06T16:49:13.999Z",
-    "slug": "the-ballad-of-the-white-horse-by-g-k-chesterton",
-    "excerpt": "The Ballad of the White Horse is a 2,684 line poem about conservatism, and it is brilliant. It has been called the last great epic poem written in English. I have not read the three dozen or so...",
-    "wordCount": 5805,
-    "readingTimeMinutes": 26,
-    "originalUrl": "https://docs.google.com/document/d/14qa47TJ_Vyerx4XNgTCIh7PUZ_TOgNcU_eHm5So_zo0",
-    "source": "gdoc",
-    "tags": [
-      "Fiction",
-      "History",
-      "Politics"
-    ]
-  },
-  {
-    "id": "the-autobiography-of-yukichi-fukuzawa",
-    "title": "The Autobiography of Yukichi Fukuzawa",
-    "author": "Unknown",
-    "reviewAuthor": "Anonymous",
-    "contestId": "2024-book-reviews",
-    "contestName": "2024 Book Reviews",
-    "year": 2024,
-    "publishedDate": "2026-02-06T16:49:13.995Z",
-    "slug": "the-autobiography-of-yukichi-fukuzawa",
-    "excerpt": "I had been living in Japan for a year before I got the idea to look up whose portraits were on the banknotes I was handling every day. In the United States, the faces of presidents and statesmen...",
-    "wordCount": 4943,
-    "readingTimeMinutes": 22,
-    "originalUrl": "https://docs.google.com/document/d/14qa47TJ_Vyerx4XNgTCIh7PUZ_TOgNcU_eHm5So_zo0",
-    "source": "gdoc",
-    "tags": [
-      "Memoir",
-      "History"
     ]
   },
   {
@@ -3602,26 +3729,6 @@
     "source": "gdoc",
     "tags": [
       "Psychology",
-      "Society"
-    ]
-  },
-  {
-    "id": "silver-age-marvel-comics-november-1961-december-1965",
-    "title": "Silver Age Marvel Comics (November 1961- December 1965)",
-    "author": "Unknown",
-    "reviewAuthor": "Anonymous",
-    "contestId": "2024-book-reviews",
-    "contestName": "2024 Book Reviews",
-    "year": 2024,
-    "publishedDate": "2026-02-06T16:48:56.663Z",
-    "slug": "silver-age-marvel-comics-november-1961-december-1965",
-    "excerpt": "You are a serious person with serious interests. The last comic book you read was more likely by Bryan Caplan than Jonathan Hickman. You would prefer to be reading high quality book reviews on...",
-    "wordCount": 11506,
-    "readingTimeMinutes": 52,
-    "originalUrl": "https://docs.google.com/document/d/1GYQw3pgvhi7hqOVR-Ql629Q_8thbyHe8sSRy5voyt30",
-    "source": "gdoc",
-    "tags": [
-      "Fiction",
       "Society"
     ]
   },
@@ -3843,26 +3950,6 @@
     ]
   },
   {
-    "id": "real-raw-news",
-    "title": "Real Raw News",
-    "author": "Unknown",
-    "reviewAuthor": "Anonymous",
-    "contestId": "2024-book-reviews",
-    "contestName": "2024 Book Reviews",
-    "year": 2024,
-    "publishedDate": "2026-02-06T16:48:56.652Z",
-    "slug": "real-raw-news",
-    "excerpt": "If you’re a follower of U.S. news outlets, you’ve seen some big stories unfolding over the past year: The unprecedented four criminal indictments lodged against former President Trump. The ongoing AI...",
-    "wordCount": 7092,
-    "readingTimeMinutes": 32,
-    "originalUrl": "https://docs.google.com/document/d/1GYQw3pgvhi7hqOVR-Ql629Q_8thbyHe8sSRy5voyt30",
-    "source": "gdoc",
-    "tags": [
-      "Politics",
-      "Society"
-    ]
-  },
-  {
     "id": "practical-ethics-by-peter-singer",
     "title": "Practical Ethics by Peter Singer",
     "author": "Unknown",
@@ -4041,26 +4128,6 @@
     ]
   },
   {
-    "id": "nine-lives-my-time-as-mi6s-top-spy-inside-al-qaeda-by-aimen-dean",
-    "title": "Nine Lives: My Time As MI6's Top Spy Inside al-Qaeda by Aimen Dean",
-    "author": "Unknown",
-    "reviewAuthor": "Anonymous",
-    "contestId": "2024-book-reviews",
-    "contestName": "2024 Book Reviews",
-    "year": 2024,
-    "publishedDate": "2026-02-06T16:48:20.711Z",
-    "slug": "nine-lives-my-time-as-mi6s-top-spy-inside-al-qaeda-by-aimen-dean",
-    "excerpt": "Cats have nine lives but they don’t get involved in jungle wars in the Philippines",
-    "wordCount": 8147,
-    "readingTimeMinutes": 37,
-    "originalUrl": "https://docs.google.com/document/d/1cp6iw5OEyDjnD_viZo-KL0Zv4jwQnMXtE4yIovfVAco",
-    "source": "gdoc",
-    "tags": [
-      "Memoir",
-      "Politics"
-    ]
-  },
-  {
     "id": "normal-accidents-living-with-high-risk-technologies-by-charles-perrow",
     "title": "Normal Accidents: Living with high risk technologies by Charles Perrow",
     "author": "Unknown",
@@ -4159,6 +4226,26 @@
     ]
   },
   {
+    "id": "little-big-by-john-crowley",
+    "title": "Little, Big by John Crowley",
+    "author": "Unknown",
+    "reviewAuthor": "Anonymous",
+    "contestId": "2024-book-reviews",
+    "contestName": "2024 Book Reviews",
+    "year": 2024,
+    "publishedDate": "2026-02-06T16:48:20.709Z",
+    "slug": "little-big-by-john-crowley",
+    "excerpt": "I remember clearly when I realized that there were other powers at work in the world, inscrutable non-human entities who had their own goals and desires and who had the ability to interfere with...",
+    "wordCount": 3159,
+    "readingTimeMinutes": 15,
+    "originalUrl": "https://docs.google.com/document/d/1cp6iw5OEyDjnD_viZo-KL0Zv4jwQnMXtE4yIovfVAco",
+    "source": "gdoc",
+    "tags": [
+      "Fiction",
+      "Philosophy"
+    ]
+  },
+  {
     "id": "making-the-corps",
     "title": "Making the Corps",
     "author": "Unknown",
@@ -4176,26 +4263,6 @@
     "tags": [
       "Society",
       "Psychology"
-    ]
-  },
-  {
-    "id": "remember-clearly-when-realized-that-there-were-other",
-    "title": "remember clearly when realized that there were other",
-    "author": "Unknown",
-    "reviewAuthor": "Anonymous",
-    "contestId": "2024-book-reviews",
-    "contestName": "2024 Book Reviews",
-    "year": 2024,
-    "publishedDate": "2026-02-06T16:48:20.709Z",
-    "slug": "remember-clearly-when-realized-that-there-were-other",
-    "excerpt": "I remember clearly when I realized that there were other powers at work in the world, inscrutable non-human entities who had their own goals and desires and who had the ability to interfere with...",
-    "wordCount": 3159,
-    "readingTimeMinutes": 15,
-    "originalUrl": "https://docs.google.com/document/d/1cp6iw5OEyDjnD_viZo-KL0Zv4jwQnMXtE4yIovfVAco",
-    "source": "gdoc",
-    "tags": [
-      "Fiction",
-      "Philosophy"
     ]
   },
   {
@@ -4318,25 +4385,6 @@
     ]
   },
   {
-    "id": "how-the-war-was-won-by-phillips-payson-obrien",
-    "title": "How the War Was Won – by Phillips Payson O’Brien",
-    "author": "Unknown",
-    "reviewAuthor": "Anonymous",
-    "contestId": "2024-book-reviews",
-    "contestName": "2024 Book Reviews",
-    "year": 2024,
-    "publishedDate": "2026-02-06T16:47:49.311Z",
-    "slug": "how-the-war-was-won-by-phillips-payson-obrien",
-    "excerpt": "To a first approximation, there are a million books about World War II. Why should you care about How the War Was Won (hereinafter “HtWWW”) by Phillips Payson O’Brien?",
-    "wordCount": 5290,
-    "readingTimeMinutes": 24,
-    "originalUrl": "https://docs.google.com/document/d/1QiotH3aGFgNLGqsIHTK_Plm_gem2E4l2C2ctyGJd0jY",
-    "source": "gdoc",
-    "tags": [
-      "History"
-    ]
-  },
-  {
     "id": "hp-lovecraft-against-the-world-against-life-by-michel-houellebecq",
     "title": "H.P. Lovecraft: Against the World, Against Life, by Michel Houellebecq",
     "author": "Unknown",
@@ -4392,26 +4440,6 @@
     "source": "gdoc",
     "tags": [
       "Fiction"
-    ]
-  },
-  {
-    "id": "how-language-began",
-    "title": "How Language Began",
-    "author": "Unknown",
-    "reviewAuthor": "Anonymous",
-    "contestId": "2024-book-reviews",
-    "contestName": "2024 Book Reviews",
-    "year": 2024,
-    "publishedDate": "2026-02-06T16:47:49.310Z",
-    "slug": "how-language-began",
-    "excerpt": "You may have heard of a field known as \"linguistics\". Linguistics is supposedly the \"scientific study of language\", but this is completely wrong. To borrow a phrase from elsewhere, linguists are...",
-    "wordCount": 10335,
-    "readingTimeMinutes": 46,
-    "originalUrl": "https://docs.google.com/document/d/1QiotH3aGFgNLGqsIHTK_Plm_gem2E4l2C2ctyGJd0jY",
-    "source": "gdoc",
-    "tags": [
-      "Science",
-      "Biology"
     ]
   },
   {
@@ -4636,6 +4664,26 @@
     ]
   },
   {
+    "id": "egypts-golden-couple-when-akhenaten-and-nefertiti-were-gods-on-earth-by-john-and-colleen-darnell",
+    "title": "Egypt's Golden Couple: When Akhenaten and Nefertiti Were Gods on Earth by John and Colleen Darnell",
+    "author": "Unknown",
+    "reviewAuthor": "Anonymous",
+    "contestId": "2024-book-reviews",
+    "contestName": "2024 Book Reviews",
+    "year": 2024,
+    "publishedDate": "2026-02-06T16:47:49.303Z",
+    "slug": "egypts-golden-couple-when-akhenaten-and-nefertiti-were-gods-on-earth-by-john-and-colleen-darnell",
+    "excerpt": "The first reason to read about Pharaoh Akhenaten (born at some point before 1363 BC, died in either 1336 or 1334 BC) is his maybe-monotheistic sun cult, a unique occurrence in history. After a few...",
+    "wordCount": 6523,
+    "readingTimeMinutes": 29,
+    "originalUrl": "https://docs.google.com/document/d/1QiotH3aGFgNLGqsIHTK_Plm_gem2E4l2C2ctyGJd0jY",
+    "source": "gdoc",
+    "tags": [
+      "History",
+      "Religion"
+    ]
+  },
+  {
     "id": "elon-musk-by-walter-isaacson",
     "title": "Elon Musk by Walter Isaacson",
     "author": "Unknown",
@@ -4653,65 +4701,6 @@
     "tags": [
       "Memoir",
       "Technology"
-    ]
-  },
-  {
-    "id": "the-first-reason-to-read-about-pharaoh-akhenaten",
-    "title": "The first reason to read about Pharaoh Akhenaten",
-    "author": "Unknown",
-    "reviewAuthor": "Anonymous",
-    "contestId": "2024-book-reviews",
-    "contestName": "2024 Book Reviews",
-    "year": 2024,
-    "publishedDate": "2026-02-06T16:47:49.303Z",
-    "slug": "the-first-reason-to-read-about-pharaoh-akhenaten",
-    "excerpt": "The first reason to read about Pharaoh Akhenaten (born at some point before 1363 BC, died in either 1336 or 1334 BC) is his maybe-monotheistic sun cult, a unique occurrence in history. After a few...",
-    "wordCount": 6523,
-    "readingTimeMinutes": 29,
-    "originalUrl": "https://docs.google.com/document/d/1QiotH3aGFgNLGqsIHTK_Plm_gem2E4l2C2ctyGJd0jY",
-    "source": "gdoc",
-    "tags": [
-      "History",
-      "Religion"
-    ]
-  },
-  {
-    "id": "dominion-by-matthew-scully",
-    "title": "Dominion by Matthew Scully",
-    "author": "Unknown",
-    "reviewAuthor": "Anonymous",
-    "contestId": "2024-book-reviews",
-    "contestName": "2024 Book Reviews",
-    "year": 2024,
-    "publishedDate": "2026-02-06T16:47:15.601Z",
-    "slug": "dominion-by-matthew-scully",
-    "excerpt": "Matthew Scully, author of Dominion, is an unlikely animal welfare advocate. He’s a conservative Christian who worked as a speechwriter for George W. Bush. That’s like finding out that Greta...",
-    "wordCount": 6425,
-    "readingTimeMinutes": 29,
-    "originalUrl": "https://docs.google.com/document/d/1AXmWgSbh_TFsoZuApSCSEoz57yn93CM5YYhtaO_s4W4",
-    "source": "gdoc",
-    "tags": [
-      "Philosophy",
-      "Society"
-    ]
-  },
-  {
-    "id": "don-juan",
-    "title": "Don Juan",
-    "author": "Unknown",
-    "reviewAuthor": "Anonymous",
-    "contestId": "2024-book-reviews",
-    "contestName": "2024 Book Reviews",
-    "year": 2024,
-    "publishedDate": "2026-02-06T16:47:15.601Z",
-    "slug": "don-juan",
-    "excerpt": "To leave the public stirred, moved, roused, arrested;",
-    "wordCount": 3179,
-    "readingTimeMinutes": 15,
-    "originalUrl": "https://docs.google.com/document/d/1AXmWgSbh_TFsoZuApSCSEoz57yn93CM5YYhtaO_s4W4",
-    "source": "gdoc",
-    "tags": [
-      "Fiction"
     ]
   },
   {
@@ -6982,25 +6971,6 @@
     "excerpt": "If you have ever read Jaynes’ book on Bayesian statistics, you may remember that R. A. Fisher, one of the fathers of what we now call orthodox statistics, often pops up as the villain of the...",
     "wordCount": 3083,
     "readingTimeMinutes": 14,
-    "originalUrl": "https://docs.google.com/document/d/100kMdSVFviZSSBvUyyEQPMNlvLptVQxHFD9i9wGuBWs",
-    "source": "gdoc",
-    "tags": [
-      "Science"
-    ]
-  },
-  {
-    "id": "prologue-three-jews-on-the-internet",
-    "title": "Prologue: Three Jews on the Internet",
-    "author": "Unknown",
-    "reviewAuthor": "Anonymous",
-    "contestId": "2022-book-reviews",
-    "contestName": "2022 Book Reviews",
-    "year": 2022,
-    "publishedDate": "2026-02-06T07:22:32.818Z",
-    "slug": "prologue-three-jews-on-the-internet",
-    "excerpt": "I had just finished my lunch at the college canteen. As I walked along the long tables to put away my tray, I joined the conversation of another small group of people. A fellow freshman—a guy with a...",
-    "wordCount": 1243,
-    "readingTimeMinutes": 6,
     "originalUrl": "https://docs.google.com/document/d/100kMdSVFviZSSBvUyyEQPMNlvLptVQxHFD9i9wGuBWs",
     "source": "gdoc",
     "tags": [
@@ -10556,6 +10526,25 @@
     ]
   },
   {
+    "id": "winnie-the-pooh-the-house-at-pooh-corner",
+    "title": "Winnie-the-Pooh & The House at Pooh Corner",
+    "author": "Unknown",
+    "reviewAuthor": "Anonymous",
+    "contestId": "2024-book-reviews",
+    "contestName": "2024 Book Reviews",
+    "year": 2024,
+    "publishedDate": "2024-01-01T00:00:00.000Z",
+    "slug": "winnie-the-pooh-the-house-at-pooh-corner",
+    "excerpt": "A story is always more interesting than its Disney adaptation would lead you to believe. Carlo Collodi’s Pinocchio has Pinocchio killing the Talking Cricket.[[81]](#ftnt81) Hans Christian Andersen’s...",
+    "wordCount": 4951,
+    "readingTimeMinutes": 23,
+    "originalUrl": "https://docs.google.com/document/d/1Ki5XsE0jkxZtd2XAeyTAJw1ZjLh2Cu-matUYKAhA6-s",
+    "source": "gdoc",
+    "tags": [
+      "Fiction"
+    ]
+  },
+  {
     "id": "wonderful-life-the-burgess-shale-and-the-nature-of-history-by-stephen-jay-gould",
     "title": "Wonderful Life: The Burgess Shale and the Nature of History by Stephen Jay Gould",
     "author": "Unknown",
@@ -10590,7 +10579,10 @@
     "readingTimeMinutes": 20,
     "originalUrl": "https://docs.google.com/document/d/1vci14HMZ2UEJBs6mKCZZ2vHs-jVuPSsFsiN3cAENzXU",
     "source": "gdoc",
-    "tags": []
+    "tags": [
+      "Psychology",
+      "Science"
+    ]
   },
   {
     "id": "how-minds-change-by-david-mcraney",
@@ -10607,7 +10599,10 @@
     "readingTimeMinutes": 21,
     "originalUrl": "https://docs.google.com/document/d/1vci14HMZ2UEJBs6mKCZZ2vHs-jVuPSsFsiN3cAENzXU",
     "source": "gdoc",
-    "tags": []
+    "tags": [
+      "Psychology",
+      "Society"
+    ]
   },
   {
     "id": "how-the-world-really-works-a-scientists-guide-to-our-past-present-and-future-by-vaclav-smil-review-2",
@@ -10624,7 +10619,11 @@
     "readingTimeMinutes": 15,
     "originalUrl": "https://docs.google.com/document/d/1vci14HMZ2UEJBs6mKCZZ2vHs-jVuPSsFsiN3cAENzXU",
     "source": "gdoc",
-    "tags": []
+    "tags": [
+      "Science",
+      "Economics",
+      "History"
+    ]
   },
   {
     "id": "how-the-world-really-works-by-vaclav-smil-review-1",
@@ -10641,7 +10640,10 @@
     "readingTimeMinutes": 15,
     "originalUrl": "https://docs.google.com/document/d/1vci14HMZ2UEJBs6mKCZZ2vHs-jVuPSsFsiN3cAENzXU",
     "source": "gdoc",
-    "tags": []
+    "tags": [
+      "Science",
+      "Economics"
+    ]
   },
   {
     "id": "how-to-invent-everything-rebuild-all-of-civilisation-with-96-fewer-catastrophes-this-time-by-ryan-north",
@@ -10658,7 +10660,11 @@
     "readingTimeMinutes": 10,
     "originalUrl": "https://docs.google.com/document/d/1vci14HMZ2UEJBs6mKCZZ2vHs-jVuPSsFsiN3cAENzXU",
     "source": "gdoc",
-    "tags": []
+    "tags": [
+      "History",
+      "Science",
+      "Technology"
+    ]
   },
   {
     "id": "how-to-talk-about-books-you-havent-read-pierre-bayard",
@@ -10675,7 +10681,10 @@
     "readingTimeMinutes": 20,
     "originalUrl": "https://docs.google.com/document/d/1vci14HMZ2UEJBs6mKCZZ2vHs-jVuPSsFsiN3cAENzXU",
     "source": "gdoc",
-    "tags": []
+    "tags": [
+      "Philosophy",
+      "Society"
+    ]
   },
   {
     "id": "human-solving-the-global-workforce-crisis-in-healthcare",
@@ -10692,7 +10701,10 @@
     "readingTimeMinutes": 36,
     "originalUrl": "https://docs.google.com/document/d/1vci14HMZ2UEJBs6mKCZZ2vHs-jVuPSsFsiN3cAENzXU",
     "source": "gdoc",
-    "tags": []
+    "tags": [
+      "Economics",
+      "Society"
+    ]
   },
   {
     "id": "im-ok-youre-ok-a-practical-guide-to-transactional-analysis",
@@ -10709,7 +10721,10 @@
     "readingTimeMinutes": 13,
     "originalUrl": "https://docs.google.com/document/d/1vci14HMZ2UEJBs6mKCZZ2vHs-jVuPSsFsiN3cAENzXU",
     "source": "gdoc",
-    "tags": []
+    "tags": [
+      "Psychology",
+      "Society"
+    ]
   },
   {
     "id": "intelligence-and-spirit-by-reza-negarestani",
@@ -10726,7 +10741,10 @@
     "readingTimeMinutes": 13,
     "originalUrl": "https://docs.google.com/document/d/1vci14HMZ2UEJBs6mKCZZ2vHs-jVuPSsFsiN3cAENzXU",
     "source": "gdoc",
-    "tags": []
+    "tags": [
+      "Philosophy",
+      "Science"
+    ]
   },
   {
     "id": "ishmael-by-daniel-quinn",
@@ -10743,7 +10761,11 @@
     "readingTimeMinutes": 15,
     "originalUrl": "https://docs.google.com/document/d/1vci14HMZ2UEJBs6mKCZZ2vHs-jVuPSsFsiN3cAENzXU",
     "source": "gdoc",
-    "tags": []
+    "tags": [
+      "Philosophy",
+      "Fiction",
+      "Society"
+    ]
   },
   {
     "id": "keystroke-capitalism-by-aaron-sahr",
@@ -10760,7 +10782,10 @@
     "readingTimeMinutes": 16,
     "originalUrl": "https://docs.google.com/document/d/1vci14HMZ2UEJBs6mKCZZ2vHs-jVuPSsFsiN3cAENzXU",
     "source": "gdoc",
-    "tags": []
+    "tags": [
+      "Economics",
+      "Society"
+    ]
   },
   {
     "id": "less-is-more-by-jason-hickel",
@@ -10777,7 +10802,10 @@
     "readingTimeMinutes": 50,
     "originalUrl": "https://docs.google.com/document/d/1vci14HMZ2UEJBs6mKCZZ2vHs-jVuPSsFsiN3cAENzXU",
     "source": "gdoc",
-    "tags": []
+    "tags": [
+      "Economics",
+      "Philosophy"
+    ]
   },
   {
     "id": "limitless-jeanna-smialek-2023-manias-panics-and-crashes-robert-aliber-and-charles-kindleberger-2015-and-the-courage-to-act-ben-bernanke-2015",
@@ -10794,7 +10822,10 @@
     "readingTimeMinutes": 9,
     "originalUrl": "https://docs.google.com/document/d/1vci14HMZ2UEJBs6mKCZZ2vHs-jVuPSsFsiN3cAENzXU",
     "source": "gdoc",
-    "tags": []
+    "tags": [
+      "Economics",
+      "Society"
+    ]
   },
   {
     "id": "lost-in-the-cosmos-the-last-self-help-book",
@@ -10811,7 +10842,10 @@
     "readingTimeMinutes": 31,
     "originalUrl": "https://docs.google.com/document/d/1vci14HMZ2UEJBs6mKCZZ2vHs-jVuPSsFsiN3cAENzXU",
     "source": "gdoc",
-    "tags": []
+    "tags": [
+      "Philosophy",
+      "Psychology"
+    ]
   },
   {
     "id": "maos-great-famine",
@@ -10828,7 +10862,10 @@
     "readingTimeMinutes": 26,
     "originalUrl": "https://docs.google.com/document/d/1vci14HMZ2UEJBs6mKCZZ2vHs-jVuPSsFsiN3cAENzXU",
     "source": "gdoc",
-    "tags": []
+    "tags": [
+      "History",
+      "Politics"
+    ]
   },
   {
     "id": "mating-in-captivity-by-esther-perel",
@@ -10845,7 +10882,10 @@
     "readingTimeMinutes": 27,
     "originalUrl": "https://docs.google.com/document/d/1vci14HMZ2UEJBs6mKCZZ2vHs-jVuPSsFsiN3cAENzXU",
     "source": "gdoc",
-    "tags": []
+    "tags": [
+      "Psychology",
+      "Society"
+    ]
   },
   {
     "id": "melmoth-the-wanderer",
@@ -10862,7 +10902,11 @@
     "readingTimeMinutes": 26,
     "originalUrl": "https://docs.google.com/document/d/1vci14HMZ2UEJBs6mKCZZ2vHs-jVuPSsFsiN3cAENzXU",
     "source": "gdoc",
-    "tags": []
+    "tags": [
+      "Fiction",
+      "Philosophy",
+      "Religion"
+    ]
   },
   {
     "id": "mumbo-jumbo-by-ishmael-reed",
@@ -10879,7 +10923,11 @@
     "readingTimeMinutes": 11,
     "originalUrl": "https://docs.google.com/document/d/1vci14HMZ2UEJBs6mKCZZ2vHs-jVuPSsFsiN3cAENzXU",
     "source": "gdoc",
-    "tags": []
+    "tags": [
+      "Society",
+      "History",
+      "Fiction"
+    ]
   },
   {
     "id": "my-struggle-by-karl-ove-knausgaard",
@@ -10896,7 +10944,11 @@
     "readingTimeMinutes": 12,
     "originalUrl": "https://docs.google.com/document/d/1vci14HMZ2UEJBs6mKCZZ2vHs-jVuPSsFsiN3cAENzXU",
     "source": "gdoc",
-    "tags": []
+    "tags": [
+      "Memoir",
+      "Fiction",
+      "Psychology"
+    ]
   },
   {
     "id": "nightmare-pipeline-failures",
@@ -10913,7 +10965,10 @@
     "readingTimeMinutes": 35,
     "originalUrl": "https://docs.google.com/document/d/1vci14HMZ2UEJBs6mKCZZ2vHs-jVuPSsFsiN3cAENzXU",
     "source": "gdoc",
-    "tags": []
+    "tags": [
+      "History",
+      "Politics"
+    ]
   },
   {
     "id": "on-the-origins-of-new-forms-of-life-2008-by-eugene-m-mccarthy",
@@ -10930,7 +10985,10 @@
     "readingTimeMinutes": 3,
     "originalUrl": "https://docs.google.com/document/d/1vci14HMZ2UEJBs6mKCZZ2vHs-jVuPSsFsiN3cAENzXU",
     "source": "gdoc",
-    "tags": []
+    "tags": [
+      "Biology",
+      "Science"
+    ]
   },
   {
     "id": "one-day-in-the-life-of-ivan-denisovich",
@@ -10947,7 +11005,11 @@
     "readingTimeMinutes": 13,
     "originalUrl": "https://docs.google.com/document/d/1vci14HMZ2UEJBs6mKCZZ2vHs-jVuPSsFsiN3cAENzXU",
     "source": "gdoc",
-    "tags": []
+    "tags": [
+      "Fiction",
+      "History",
+      "Politics"
+    ]
   },
   {
     "id": "open-democracy",
@@ -10964,7 +11026,10 @@
     "readingTimeMinutes": 23,
     "originalUrl": "https://docs.google.com/document/d/1vci14HMZ2UEJBs6mKCZZ2vHs-jVuPSsFsiN3cAENzXU",
     "source": "gdoc",
-    "tags": []
+    "tags": [
+      "Politics",
+      "Philosophy"
+    ]
   },
   {
     "id": "pacific-war-trilogy-by-ian-w-toll",
@@ -10981,7 +11046,10 @@
     "readingTimeMinutes": 17,
     "originalUrl": "https://docs.google.com/document/d/1vci14HMZ2UEJBs6mKCZZ2vHs-jVuPSsFsiN3cAENzXU",
     "source": "gdoc",
-    "tags": []
+    "tags": [
+      "History",
+      "Politics"
+    ]
   },
   {
     "id": "parliament-ltd-a-journey-to-the-dark-heart-of-british-politics",
@@ -10998,7 +11066,11 @@
     "readingTimeMinutes": 23,
     "originalUrl": "https://docs.google.com/document/d/1vci14HMZ2UEJBs6mKCZZ2vHs-jVuPSsFsiN3cAENzXU",
     "source": "gdoc",
-    "tags": []
+    "tags": [
+      "Politics",
+      "Society",
+      "History"
+    ]
   },
   {
     "id": "perplexities-of-consciousness-by-eric-schwitzgebel",
@@ -11015,7 +11087,10 @@
     "readingTimeMinutes": 30,
     "originalUrl": "https://docs.google.com/document/d/1vci14HMZ2UEJBs6mKCZZ2vHs-jVuPSsFsiN3cAENzXU",
     "source": "gdoc",
-    "tags": []
+    "tags": [
+      "Philosophy",
+      "Psychology"
+    ]
   },
   {
     "id": "power-sex-suicide",
@@ -11032,7 +11107,11 @@
     "readingTimeMinutes": 24,
     "originalUrl": "https://docs.google.com/document/d/1vci14HMZ2UEJBs6mKCZZ2vHs-jVuPSsFsiN3cAENzXU",
     "source": "gdoc",
-    "tags": []
+    "tags": [
+      "Biology",
+      "History",
+      "Science"
+    ]
   },
   {
     "id": "principles-for-dealing-with-the-changing-world-order-why-nations-succeed-and-fail",
@@ -11049,7 +11128,11 @@
     "readingTimeMinutes": 29,
     "originalUrl": "https://docs.google.com/document/d/1vci14HMZ2UEJBs6mKCZZ2vHs-jVuPSsFsiN3cAENzXU",
     "source": "gdoc",
-    "tags": []
+    "tags": [
+      "Economics",
+      "History",
+      "Politics"
+    ]
   },
   {
     "id": "probability-theory-the-logic-of-science-by-et-jaynes",
@@ -11066,7 +11149,10 @@
     "readingTimeMinutes": 30,
     "originalUrl": "https://docs.google.com/document/d/1vci14HMZ2UEJBs6mKCZZ2vHs-jVuPSsFsiN3cAENzXU",
     "source": "gdoc",
-    "tags": []
+    "tags": [
+      "Philosophy",
+      "Science"
+    ]
   },
   {
     "id": "python-data-science-handbook",
@@ -11083,7 +11169,9 @@
     "readingTimeMinutes": 22,
     "originalUrl": "https://docs.google.com/document/d/1vci14HMZ2UEJBs6mKCZZ2vHs-jVuPSsFsiN3cAENzXU",
     "source": "gdoc",
-    "tags": []
+    "tags": [
+      "Technology"
+    ]
   },
   {
     "id": "range-why-generalists-triumph-in-a-specialized-world-by-david-epstein",
@@ -11100,7 +11188,10 @@
     "readingTimeMinutes": 20,
     "originalUrl": "https://docs.google.com/document/d/1vci14HMZ2UEJBs6mKCZZ2vHs-jVuPSsFsiN3cAENzXU",
     "source": "gdoc",
-    "tags": []
+    "tags": [
+      "Psychology",
+      "Society"
+    ]
   },
   {
     "id": "revolutions-podcast-by-mike-duncan",
@@ -11117,7 +11208,10 @@
     "readingTimeMinutes": 18,
     "originalUrl": "https://docs.google.com/document/d/1vci14HMZ2UEJBs6mKCZZ2vHs-jVuPSsFsiN3cAENzXU",
     "source": "gdoc",
-    "tags": []
+    "tags": [
+      "History",
+      "Politics"
+    ]
   },
   {
     "id": "science-fictions-by-stuart-ritchie",
@@ -11134,7 +11228,10 @@
     "readingTimeMinutes": 23,
     "originalUrl": "https://docs.google.com/document/d/1vci14HMZ2UEJBs6mKCZZ2vHs-jVuPSsFsiN3cAENzXU",
     "source": "gdoc",
-    "tags": []
+    "tags": [
+      "Science",
+      "History"
+    ]
   },
   {
     "id": "selfish-reasons-to-have-more-kids-by-bryan-caplan",
@@ -11151,7 +11248,11 @@
     "readingTimeMinutes": 11,
     "originalUrl": "https://docs.google.com/document/d/1vci14HMZ2UEJBs6mKCZZ2vHs-jVuPSsFsiN3cAENzXU",
     "source": "gdoc",
-    "tags": []
+    "tags": [
+      "Economics",
+      "Psychology",
+      "Society"
+    ]
   },
   {
     "id": "shall-the-religious-inherit-the-earth-by-eric-kaufmann",
@@ -11168,7 +11269,11 @@
     "readingTimeMinutes": 14,
     "originalUrl": "https://docs.google.com/document/d/1vci14HMZ2UEJBs6mKCZZ2vHs-jVuPSsFsiN3cAENzXU",
     "source": "gdoc",
-    "tags": []
+    "tags": [
+      "Religion",
+      "Society",
+      "History"
+    ]
   },
   {
     "id": "slouching-towards-utopia",
@@ -11185,7 +11290,11 @@
     "readingTimeMinutes": 37,
     "originalUrl": "https://docs.google.com/document/d/1vci14HMZ2UEJBs6mKCZZ2vHs-jVuPSsFsiN3cAENzXU",
     "source": "gdoc",
-    "tags": []
+    "tags": [
+      "Economics",
+      "History",
+      "Politics"
+    ]
   },
   {
     "id": "so-good-they-cant-ignore-you-by-cal-newport",
@@ -11202,7 +11311,11 @@
     "readingTimeMinutes": 21,
     "originalUrl": "https://docs.google.com/document/d/1vci14HMZ2UEJBs6mKCZZ2vHs-jVuPSsFsiN3cAENzXU",
     "source": "gdoc",
-    "tags": []
+    "tags": [
+      "Philosophy",
+      "Psychology",
+      "Society"
+    ]
   },
   {
     "id": "space-forces-a-critical-history-of-life-in-space-by-fred-scharmen",
@@ -11219,7 +11332,11 @@
     "readingTimeMinutes": 36,
     "originalUrl": "https://docs.google.com/document/d/1vci14HMZ2UEJBs6mKCZZ2vHs-jVuPSsFsiN3cAENzXU",
     "source": "gdoc",
-    "tags": []
+    "tags": [
+      "History",
+      "Society",
+      "Technology"
+    ]
   },
   {
     "id": "telluria-by-vladimir-sorokin",
@@ -11236,7 +11353,11 @@
     "readingTimeMinutes": 13,
     "originalUrl": "https://docs.google.com/document/d/1AtGIIv371v0Yu35eNsIxJr67dw4SHOiGdKrqmoKt2hg",
     "source": "gdoc",
-    "tags": []
+    "tags": [
+      "Fiction",
+      "Politics",
+      "Philosophy"
+    ]
   },
   {
     "id": "the-alexander-romance",
@@ -11253,7 +11374,11 @@
     "readingTimeMinutes": 22,
     "originalUrl": "https://docs.google.com/document/d/1AtGIIv371v0Yu35eNsIxJr67dw4SHOiGdKrqmoKt2hg",
     "source": "gdoc",
-    "tags": []
+    "tags": [
+      "Fiction",
+      "History",
+      "Society"
+    ]
   },
   {
     "id": "the-art-of-doing-science-and-engineering-by-richard-hamming",
@@ -11270,7 +11395,10 @@
     "readingTimeMinutes": 23,
     "originalUrl": "https://docs.google.com/document/d/1AtGIIv371v0Yu35eNsIxJr67dw4SHOiGdKrqmoKt2hg",
     "source": "gdoc",
-    "tags": []
+    "tags": [
+      "Science",
+      "Technology"
+    ]
   },
   {
     "id": "the-bomb-by-fred-kaplan",
@@ -11287,7 +11415,10 @@
     "readingTimeMinutes": 45,
     "originalUrl": "https://docs.google.com/document/d/1AtGIIv371v0Yu35eNsIxJr67dw4SHOiGdKrqmoKt2hg",
     "source": "gdoc",
-    "tags": []
+    "tags": [
+      "History",
+      "Politics"
+    ]
   },
   {
     "id": "the-burnout-society-by-byung-chul-han-2023",
@@ -11304,7 +11435,11 @@
     "readingTimeMinutes": 8,
     "originalUrl": "https://docs.google.com/document/d/1AtGIIv371v0Yu35eNsIxJr67dw4SHOiGdKrqmoKt2hg",
     "source": "gdoc",
-    "tags": []
+    "tags": [
+      "Philosophy",
+      "Psychology",
+      "Society"
+    ]
   },
   {
     "id": "the-case-against-reality",
@@ -11321,7 +11456,11 @@
     "readingTimeMinutes": 41,
     "originalUrl": "https://docs.google.com/document/d/1AtGIIv371v0Yu35eNsIxJr67dw4SHOiGdKrqmoKt2hg",
     "source": "gdoc",
-    "tags": []
+    "tags": [
+      "Philosophy",
+      "Science",
+      "Psychology"
+    ]
   },
   {
     "id": "the-case-against-the-sexual-revolution-by-louise-perry",
@@ -11338,7 +11477,11 @@
     "readingTimeMinutes": 15,
     "originalUrl": "https://docs.google.com/document/d/1AtGIIv371v0Yu35eNsIxJr67dw4SHOiGdKrqmoKt2hg",
     "source": "gdoc",
-    "tags": []
+    "tags": [
+      "Psychology",
+      "Society",
+      "History"
+    ]
   },
   {
     "id": "the-collected-stories-of-lydia-davis",
@@ -11355,7 +11498,10 @@
     "readingTimeMinutes": 15,
     "originalUrl": "https://docs.google.com/document/d/1AtGIIv371v0Yu35eNsIxJr67dw4SHOiGdKrqmoKt2hg",
     "source": "gdoc",
-    "tags": []
+    "tags": [
+      "Fiction",
+      "Philosophy"
+    ]
   },
   {
     "id": "the-conquest-of-happiness-by-bertrand-russell",
@@ -11372,7 +11518,11 @@
     "readingTimeMinutes": 19,
     "originalUrl": "https://docs.google.com/document/d/1AtGIIv371v0Yu35eNsIxJr67dw4SHOiGdKrqmoKt2hg",
     "source": "gdoc",
-    "tags": []
+    "tags": [
+      "Philosophy",
+      "Psychology",
+      "Society"
+    ]
   },
   {
     "id": "the-constitution-of-liberty-by-friedrich-von-hayek",
@@ -11389,7 +11539,11 @@
     "readingTimeMinutes": 43,
     "originalUrl": "https://docs.google.com/document/d/1AtGIIv371v0Yu35eNsIxJr67dw4SHOiGdKrqmoKt2hg",
     "source": "gdoc",
-    "tags": []
+    "tags": [
+      "Politics",
+      "Philosophy",
+      "History"
+    ]
   },
   {
     "id": "the-dawn-of-everything-a-new-history-of-humanity",
@@ -11406,7 +11560,11 @@
     "readingTimeMinutes": 32,
     "originalUrl": "https://docs.google.com/document/d/1AtGIIv371v0Yu35eNsIxJr67dw4SHOiGdKrqmoKt2hg",
     "source": "gdoc",
-    "tags": []
+    "tags": [
+      "History",
+      "Philosophy",
+      "Society"
+    ]
   },
   {
     "id": "the-design-of-everyday-things",
@@ -11423,7 +11581,11 @@
     "readingTimeMinutes": 26,
     "originalUrl": "https://docs.google.com/document/d/1AtGIIv371v0Yu35eNsIxJr67dw4SHOiGdKrqmoKt2hg",
     "source": "gdoc",
-    "tags": []
+    "tags": [
+      "History",
+      "Psychology",
+      "Society"
+    ]
   },
   {
     "id": "the-discarded-image-an-introduction-to-medieval-and-renaissance-literature",
@@ -11440,7 +11602,10 @@
     "readingTimeMinutes": 18,
     "originalUrl": "https://docs.google.com/document/d/1AtGIIv371v0Yu35eNsIxJr67dw4SHOiGdKrqmoKt2hg",
     "source": "gdoc",
-    "tags": []
+    "tags": [
+      "History",
+      "Fiction"
+    ]
   },
   {
     "id": "the-everything-store-jeff-bezos-and-the-age-of-amazon",
@@ -11457,7 +11622,11 @@
     "readingTimeMinutes": 8,
     "originalUrl": "https://docs.google.com/document/d/1AtGIIv371v0Yu35eNsIxJr67dw4SHOiGdKrqmoKt2hg",
     "source": "gdoc",
-    "tags": []
+    "tags": [
+      "Economics",
+      "Technology",
+      "History"
+    ]
   },
   {
     "id": "the-evolving-self-problem-and-process-in-human-development-by-robert-kegan",
@@ -11474,7 +11643,10 @@
     "readingTimeMinutes": 41,
     "originalUrl": "https://docs.google.com/document/d/1AtGIIv371v0Yu35eNsIxJr67dw4SHOiGdKrqmoKt2hg",
     "source": "gdoc",
-    "tags": []
+    "tags": [
+      "Psychology",
+      "Philosophy"
+    ]
   },
   {
     "id": "the-forgotten-revolution-how-science-was-born-in-300-bc-and-why-it-had-to-be-reborn-by-lucio-russo",
@@ -11491,7 +11663,10 @@
     "readingTimeMinutes": 11,
     "originalUrl": "https://docs.google.com/document/d/1AtGIIv371v0Yu35eNsIxJr67dw4SHOiGdKrqmoKt2hg",
     "source": "gdoc",
-    "tags": []
+    "tags": [
+      "History",
+      "Science"
+    ]
   },
   {
     "id": "the-gene-an-intimate-history",
@@ -11508,7 +11683,10 @@
     "readingTimeMinutes": 16,
     "originalUrl": "https://docs.google.com/document/d/1AtGIIv371v0Yu35eNsIxJr67dw4SHOiGdKrqmoKt2hg",
     "source": "gdoc",
-    "tags": []
+    "tags": [
+      "Biology",
+      "History"
+    ]
   },
   {
     "id": "the-golden-thread-how-fabric-changed-history",
@@ -11525,7 +11703,11 @@
     "readingTimeMinutes": 23,
     "originalUrl": "https://docs.google.com/document/d/1AtGIIv371v0Yu35eNsIxJr67dw4SHOiGdKrqmoKt2hg",
     "source": "gdoc",
-    "tags": []
+    "tags": [
+      "History",
+      "Society",
+      "Economics"
+    ]
   },
   {
     "id": "the-life-and-opinions-of-zacharias-lichter-by-matei-clinescu",
@@ -11542,7 +11724,11 @@
     "readingTimeMinutes": 14,
     "originalUrl": "https://docs.google.com/document/d/1AtGIIv371v0Yu35eNsIxJr67dw4SHOiGdKrqmoKt2hg",
     "source": "gdoc",
-    "tags": []
+    "tags": [
+      "Fiction",
+      "Philosophy",
+      "History"
+    ]
   },
   {
     "id": "the-life-of-johnny-reb-the-common-soldier-of-the-confederacy",
@@ -11559,7 +11745,10 @@
     "readingTimeMinutes": 10,
     "originalUrl": "https://docs.google.com/document/d/1AtGIIv371v0Yu35eNsIxJr67dw4SHOiGdKrqmoKt2hg",
     "source": "gdoc",
-    "tags": []
+    "tags": [
+      "History",
+      "Society"
+    ]
   },
   {
     "id": "the-little-prince-by-antoine-de-saint-exupry",
@@ -11576,7 +11765,11 @@
     "readingTimeMinutes": 4,
     "originalUrl": "https://docs.google.com/document/d/1AtGIIv371v0Yu35eNsIxJr67dw4SHOiGdKrqmoKt2hg",
     "source": "gdoc",
-    "tags": []
+    "tags": [
+      "Fiction",
+      "Philosophy",
+      "Society"
+    ]
   },
   {
     "id": "the-little-red-book-quotations-from-mao-tse-tung",
@@ -11593,7 +11786,11 @@
     "readingTimeMinutes": 29,
     "originalUrl": "https://docs.google.com/document/d/1AtGIIv371v0Yu35eNsIxJr67dw4SHOiGdKrqmoKt2hg",
     "source": "gdoc",
-    "tags": []
+    "tags": [
+      "History",
+      "Politics",
+      "Society"
+    ]
   },
   {
     "id": "the-machiavellians-by-james-burnham",
@@ -11610,7 +11807,11 @@
     "readingTimeMinutes": 21,
     "originalUrl": "https://docs.google.com/document/d/1AtGIIv371v0Yu35eNsIxJr67dw4SHOiGdKrqmoKt2hg",
     "source": "gdoc",
-    "tags": []
+    "tags": [
+      "History",
+      "Politics",
+      "Society"
+    ]
   },
   {
     "id": "the-mahbhrata",
@@ -11627,7 +11828,11 @@
     "readingTimeMinutes": 19,
     "originalUrl": "https://docs.google.com/document/d/1AtGIIv371v0Yu35eNsIxJr67dw4SHOiGdKrqmoKt2hg",
     "source": "gdoc",
-    "tags": []
+    "tags": [
+      "History",
+      "Fiction",
+      "Philosophy"
+    ]
   },
   {
     "id": "the-making-of-prince-of-persia-by-jordan-mechner",
@@ -11644,7 +11849,10 @@
     "readingTimeMinutes": 38,
     "originalUrl": "https://docs.google.com/document/d/1AtGIIv371v0Yu35eNsIxJr67dw4SHOiGdKrqmoKt2hg",
     "source": "gdoc",
-    "tags": []
+    "tags": [
+      "Technology",
+      "History"
+    ]
   },
   {
     "id": "the-making-of-the-atomic-bomb-by-richard-rhodes-review-2",
@@ -11661,7 +11869,10 @@
     "readingTimeMinutes": 23,
     "originalUrl": "https://docs.google.com/document/d/1AtGIIv371v0Yu35eNsIxJr67dw4SHOiGdKrqmoKt2hg",
     "source": "gdoc",
-    "tags": []
+    "tags": [
+      "Science",
+      "History"
+    ]
   },
   {
     "id": "the-making-of-the-atomic-bomb-richard-rhodes-review-1",
@@ -11678,7 +11889,11 @@
     "readingTimeMinutes": 30,
     "originalUrl": "https://docs.google.com/document/d/1AtGIIv371v0Yu35eNsIxJr67dw4SHOiGdKrqmoKt2hg",
     "source": "gdoc",
-    "tags": []
+    "tags": [
+      "History",
+      "Science",
+      "Politics"
+    ]
   },
   {
     "id": "the-man-without-a-face-the-unlikely-rise-of-vladimir-putin",
@@ -11695,7 +11910,10 @@
     "readingTimeMinutes": 25,
     "originalUrl": "https://docs.google.com/document/d/1AtGIIv371v0Yu35eNsIxJr67dw4SHOiGdKrqmoKt2hg",
     "source": "gdoc",
-    "tags": []
+    "tags": [
+      "History",
+      "Politics"
+    ]
   },
   {
     "id": "the-ministry-for-the-future-by-kim-stanley-robinson-2023",
@@ -11712,7 +11930,10 @@
     "readingTimeMinutes": 15,
     "originalUrl": "https://docs.google.com/document/d/1AtGIIv371v0Yu35eNsIxJr67dw4SHOiGdKrqmoKt2hg",
     "source": "gdoc",
-    "tags": []
+    "tags": [
+      "Fiction",
+      "Society"
+    ]
   },
   {
     "id": "the-motivation-to-work",
@@ -11729,7 +11950,10 @@
     "readingTimeMinutes": 12,
     "originalUrl": "https://docs.google.com/document/d/1AtGIIv371v0Yu35eNsIxJr67dw4SHOiGdKrqmoKt2hg",
     "source": "gdoc",
-    "tags": []
+    "tags": [
+      "Psychology",
+      "Economics"
+    ]
   },
   {
     "id": "the-pacific-war-by-saburo-ienaga",
@@ -11746,7 +11970,10 @@
     "readingTimeMinutes": 6,
     "originalUrl": "https://docs.google.com/document/d/1AtGIIv371v0Yu35eNsIxJr67dw4SHOiGdKrqmoKt2hg",
     "source": "gdoc",
-    "tags": []
+    "tags": [
+      "History",
+      "Politics"
+    ]
   },
   {
     "id": "the-panic-of-1819",
@@ -11763,7 +11990,11 @@
     "readingTimeMinutes": 14,
     "originalUrl": "https://docs.google.com/document/d/1AtGIIv371v0Yu35eNsIxJr67dw4SHOiGdKrqmoKt2hg",
     "source": "gdoc",
-    "tags": []
+    "tags": [
+      "Economics",
+      "History",
+      "Society"
+    ]
   },
   {
     "id": "the-passengerstella-maris",
@@ -11780,7 +12011,11 @@
     "readingTimeMinutes": 12,
     "originalUrl": "https://docs.google.com/document/d/1AtGIIv371v0Yu35eNsIxJr67dw4SHOiGdKrqmoKt2hg",
     "source": "gdoc",
-    "tags": []
+    "tags": [
+      "Fiction",
+      "History",
+      "Society"
+    ]
   },
   {
     "id": "the-power-of-glamour-by-virginia-postrel",
@@ -11797,7 +12032,11 @@
     "readingTimeMinutes": 17,
     "originalUrl": "https://docs.google.com/document/d/1AtGIIv371v0Yu35eNsIxJr67dw4SHOiGdKrqmoKt2hg",
     "source": "gdoc",
-    "tags": []
+    "tags": [
+      "Psychology",
+      "History",
+      "Politics"
+    ]
   },
   {
     "id": "the-problem-of-political-authority-by-michael-huemer",
@@ -11814,7 +12053,10 @@
     "readingTimeMinutes": 12,
     "originalUrl": "https://docs.google.com/document/d/1AtGIIv371v0Yu35eNsIxJr67dw4SHOiGdKrqmoKt2hg",
     "source": "gdoc",
-    "tags": []
+    "tags": [
+      "Politics",
+      "Philosophy"
+    ]
   },
   {
     "id": "the-question-concerning-technology-by-martin-heidegger",
@@ -11831,7 +12073,11 @@
     "readingTimeMinutes": 29,
     "originalUrl": "https://docs.google.com/document/d/1AtGIIv371v0Yu35eNsIxJr67dw4SHOiGdKrqmoKt2hg",
     "source": "gdoc",
-    "tags": []
+    "tags": [
+      "Philosophy",
+      "Technology",
+      "History"
+    ]
   },
   {
     "id": "the-rings-of-saturn-by-wg-sebald",
@@ -11848,7 +12094,11 @@
     "readingTimeMinutes": 4,
     "originalUrl": "https://docs.google.com/document/d/1AtGIIv371v0Yu35eNsIxJr67dw4SHOiGdKrqmoKt2hg",
     "source": "gdoc",
-    "tags": []
+    "tags": [
+      "Fiction",
+      "History",
+      "Society"
+    ]
   },
   {
     "id": "the-scythian-empire-central-eurasia-and-the-birth-of-the-classical-age-from-persia-to-china-by-christopher-i-beckwith",
@@ -11865,7 +12115,11 @@
     "readingTimeMinutes": 13,
     "originalUrl": "https://docs.google.com/document/d/1AtGIIv371v0Yu35eNsIxJr67dw4SHOiGdKrqmoKt2hg",
     "source": "gdoc",
-    "tags": []
+    "tags": [
+      "History",
+      "Philosophy",
+      "Religion"
+    ]
   },
   {
     "id": "the-simulacra",
@@ -11882,7 +12136,10 @@
     "readingTimeMinutes": 21,
     "originalUrl": "https://docs.google.com/document/d/1AtGIIv371v0Yu35eNsIxJr67dw4SHOiGdKrqmoKt2hg",
     "source": "gdoc",
-    "tags": []
+    "tags": [
+      "Fiction",
+      "Philosophy"
+    ]
   },
   {
     "id": "the-soul-of-a-new-machine-review",
@@ -11899,7 +12156,10 @@
     "readingTimeMinutes": 13,
     "originalUrl": "https://docs.google.com/document/d/1AtGIIv371v0Yu35eNsIxJr67dw4SHOiGdKrqmoKt2hg",
     "source": "gdoc",
-    "tags": []
+    "tags": [
+      "Technology",
+      "History"
+    ]
   },
   {
     "id": "the-space-trilogy-by-cs-lewis",
@@ -11916,7 +12176,11 @@
     "readingTimeMinutes": 17,
     "originalUrl": "https://docs.google.com/document/d/1AtGIIv371v0Yu35eNsIxJr67dw4SHOiGdKrqmoKt2hg",
     "source": "gdoc",
-    "tags": []
+    "tags": [
+      "Fiction",
+      "Religion",
+      "Philosophy"
+    ]
   },
   {
     "id": "the-subtle-art-of-not-giving-a-fuck-by-mark-manson",
@@ -11933,7 +12197,11 @@
     "readingTimeMinutes": 13,
     "originalUrl": "https://docs.google.com/document/d/1AtGIIv371v0Yu35eNsIxJr67dw4SHOiGdKrqmoKt2hg",
     "source": "gdoc",
-    "tags": []
+    "tags": [
+      "Philosophy",
+      "Psychology",
+      "Society"
+    ]
   },
   {
     "id": "the-weirdest-people-in-the-world-how-the-west-became-psychologically-peculiar-and-particularly-prosperous-by-joseph-henrich-review-1",
@@ -11950,7 +12218,11 @@
     "readingTimeMinutes": 40,
     "originalUrl": "https://docs.google.com/document/d/1AtGIIv371v0Yu35eNsIxJr67dw4SHOiGdKrqmoKt2hg",
     "source": "gdoc",
-    "tags": []
+    "tags": [
+      "Psychology",
+      "History",
+      "Society"
+    ]
   },
   {
     "id": "title-of-book-the-most-democratic-branch-how-the-courts-serve-america",
@@ -11967,7 +12239,10 @@
     "readingTimeMinutes": 53,
     "originalUrl": "https://docs.google.com/document/d/1AtGIIv371v0Yu35eNsIxJr67dw4SHOiGdKrqmoKt2hg",
     "source": "gdoc",
-    "tags": []
+    "tags": [
+      "History",
+      "Politics"
+    ]
   },
   {
     "id": "wanting-the-power-of-mimetic-desire-in-everyday-life-by-luke-burgis",
@@ -11984,7 +12259,11 @@
     "readingTimeMinutes": 7,
     "originalUrl": "https://docs.google.com/document/d/1D2MGZ7HW1vRtOtfXYIx9BBUt6ubjEA2n06gpoHcxaFY",
     "source": "gdoc",
-    "tags": []
+    "tags": [
+      "Philosophy",
+      "Psychology",
+      "Society"
+    ]
   },
   {
     "id": "war-and-peace-by-leo-tolstoy",
@@ -12021,7 +12300,10 @@
     "readingTimeMinutes": 32,
     "originalUrl": "https://docs.google.com/document/d/1D2MGZ7HW1vRtOtfXYIx9BBUt6ubjEA2n06gpoHcxaFY",
     "source": "gdoc",
-    "tags": []
+    "tags": [
+      "History",
+      "Politics"
+    ]
   },
   {
     "id": "wealth-in-families-by-charles-collier",
@@ -12038,7 +12320,10 @@
     "readingTimeMinutes": 14,
     "originalUrl": "https://docs.google.com/document/d/1D2MGZ7HW1vRtOtfXYIx9BBUt6ubjEA2n06gpoHcxaFY",
     "source": "gdoc",
-    "tags": []
+    "tags": [
+      "Economics",
+      "Philosophy"
+    ]
   },
   {
     "id": "why-does-he-do-that",
@@ -12055,7 +12340,10 @@
     "readingTimeMinutes": 47,
     "originalUrl": "https://docs.google.com/document/d/1D2MGZ7HW1vRtOtfXYIx9BBUt6ubjEA2n06gpoHcxaFY",
     "source": "gdoc",
-    "tags": []
+    "tags": [
+      "Psychology",
+      "Society"
+    ]
   },
   {
     "id": "why-fish-dont-exist",
@@ -12092,7 +12380,11 @@
     "readingTimeMinutes": 55,
     "originalUrl": "https://docs.google.com/document/d/1D2MGZ7HW1vRtOtfXYIx9BBUt6ubjEA2n06gpoHcxaFY",
     "source": "gdoc",
-    "tags": []
+    "tags": [
+      "Politics",
+      "Philosophy",
+      "Society"
+    ]
   },
   {
     "id": "why-machines-will-never-rule-the-world-review-2",
@@ -12109,7 +12401,11 @@
     "readingTimeMinutes": 12,
     "originalUrl": "https://docs.google.com/document/d/1D2MGZ7HW1vRtOtfXYIx9BBUt6ubjEA2n06gpoHcxaFY",
     "source": "gdoc",
-    "tags": []
+    "tags": [
+      "Philosophy",
+      "Technology",
+      "Psychology"
+    ]
   },
   {
     "id": "why-people-die-by-suicide-by-thomas-joiner",
@@ -12126,7 +12422,10 @@
     "readingTimeMinutes": 11,
     "originalUrl": "https://docs.google.com/document/d/1D2MGZ7HW1vRtOtfXYIx9BBUt6ubjEA2n06gpoHcxaFY",
     "source": "gdoc",
-    "tags": []
+    "tags": [
+      "Psychology",
+      "Society"
+    ]
   },
   {
     "id": "wild-problems-by-russ-roberts",
@@ -12143,7 +12442,11 @@
     "readingTimeMinutes": 9,
     "originalUrl": "https://docs.google.com/document/d/1D2MGZ7HW1vRtOtfXYIx9BBUt6ubjEA2n06gpoHcxaFY",
     "source": "gdoc",
-    "tags": []
+    "tags": [
+      "Economics",
+      "Philosophy",
+      "Psychology"
+    ]
   },
   {
     "id": "without-marx-or-jesus-the-new-american-revolution-has-begun-by-jean-franois-revel",
@@ -12160,7 +12463,11 @@
     "readingTimeMinutes": 23,
     "originalUrl": "https://docs.google.com/document/d/1D2MGZ7HW1vRtOtfXYIx9BBUt6ubjEA2n06gpoHcxaFY",
     "source": "gdoc",
-    "tags": []
+    "tags": [
+      "Politics",
+      "History",
+      "Philosophy"
+    ]
   },
   {
     "id": "wizards-first-rule-and-the-sword-of-truth-series",
@@ -12177,7 +12484,52 @@
     "readingTimeMinutes": 37,
     "originalUrl": "https://docs.google.com/document/d/1D2MGZ7HW1vRtOtfXYIx9BBUt6ubjEA2n06gpoHcxaFY",
     "source": "gdoc",
-    "tags": []
+    "tags": [
+      "Fiction",
+      "History",
+      "Society"
+    ]
+  },
+  {
+    "id": "the-book-of-why-by-judea-pearl-2022",
+    "title": "The Book of Why by Judea Pearl",
+    "author": "Unknown",
+    "reviewAuthor": "Anonymous",
+    "contestId": "2022-book-reviews",
+    "contestName": "2022 Book Reviews",
+    "year": 2022,
+    "publishedDate": "2022-01-01T00:00:00.000Z",
+    "slug": "the-book-of-why-by-judea-pearl-2022",
+    "excerpt": "I had just finished my lunch at the college canteen. As I walked along the long tables to put away my tray, I joined the conversation of another small group of people. A fellow freshman—a guy with a...",
+    "wordCount": 1243,
+    "readingTimeMinutes": 6,
+    "originalUrl": "https://docs.google.com/document/d/100kMdSVFviZSSBvUyyEQPMNlvLptVQxHFD9i9wGuBWs",
+    "source": "gdoc",
+    "tags": [
+      "Philosophy",
+      "Science"
+    ]
+  },
+  {
+    "id": "the-dawn-of-everything-a-new-history-of-humanity-by-david-graeber-and-david-wengrow-2",
+    "title": "The Dawn of Everything: A New History of Humanity by David Graeber and David Wengrow",
+    "author": "Unknown",
+    "reviewAuthor": "Anonymous",
+    "contestId": "2022-book-reviews",
+    "contestName": "2022 Book Reviews",
+    "year": 2022,
+    "publishedDate": "2022-01-01T00:00:00.000Z",
+    "slug": "the-dawn-of-everything-a-new-history-of-humanity-by-david-graeber-and-david-wengrow-2",
+    "excerpt": "Almost fifty years ago, a Cambridge archeologist by the name of David Clark predicted that further research into human evolution would show that “The explanations of the development of modern man,...",
+    "wordCount": 1930,
+    "readingTimeMinutes": 9,
+    "originalUrl": "https://docs.google.com/document/d/100kMdSVFviZSSBvUyyEQPMNlvLptVQxHFD9i9wGuBWs",
+    "source": "gdoc",
+    "tags": [
+      "History",
+      "Society",
+      "Politics"
+    ]
   },
   {
     "id": "the-dawn-of-everything-a-new-history-of-humanity-by-david-graeber-and-david-wengrow-3",
@@ -12197,6 +12549,27 @@
     "tags": [
       "History",
       "Society"
+    ]
+  },
+  {
+    "id": "the-righteous-mind-by-jonathan-haidt-2",
+    "title": "The Righteous Mind by Jonathan Haidt",
+    "author": "Unknown",
+    "reviewAuthor": "Anonymous",
+    "contestId": "2022-book-reviews",
+    "contestName": "2022 Book Reviews",
+    "year": 2022,
+    "publishedDate": "2022-01-01T00:00:00.000Z",
+    "slug": "the-righteous-mind-by-jonathan-haidt-2",
+    "excerpt": "They say cognitive biases are what other people have. In that vein, “The Righteous Mind” by Jonathan Haidt is a book about how other people think. Specifically, how they think about morality and make...",
+    "wordCount": 11643,
+    "readingTimeMinutes": 52,
+    "originalUrl": "https://docs.google.com/document/d/1hFzjXliCAWjvheY-8Qd2fhbF79LnX0Xg6R9eqk9yIyI",
+    "source": "gdoc",
+    "tags": [
+      "Psychology",
+      "Philosophy",
+      "Politics"
     ]
   },
   {
@@ -12235,7 +12608,11 @@
     "readingTimeMinutes": 33,
     "originalUrl": "https://docs.google.com/document/d/1M1m8o1HInGYJR3cEMYZ6TQgNmeBOWo98YC6djNnFWf0",
     "source": "gdoc",
-    "tags": []
+    "tags": [
+      "Science",
+      "Biology",
+      "Economics"
+    ]
   },
   {
     "id": "scientific-freedom-the-elixir-of-civilization-by-donald-w-braben",
@@ -12252,7 +12629,10 @@
     "readingTimeMinutes": 12,
     "originalUrl": "https://docs.google.com/document/d/1M1m8o1HInGYJR3cEMYZ6TQgNmeBOWo98YC6djNnFWf0",
     "source": "gdoc",
-    "tags": []
+    "tags": [
+      "Science",
+      "History"
+    ]
   },
   {
     "id": "second-nature-a-gardeners-education-by-michael-pollan",
@@ -12269,7 +12649,11 @@
     "readingTimeMinutes": 9,
     "originalUrl": "https://docs.google.com/document/d/1M1m8o1HInGYJR3cEMYZ6TQgNmeBOWo98YC6djNnFWf0",
     "source": "gdoc",
-    "tags": []
+    "tags": [
+      "History",
+      "Memoir",
+      "Society"
+    ]
   },
   {
     "id": "shattered-sword-the-untold-story-of-the-battle-of-midway-by-jonathan-parshall-and-anthony-tully",
@@ -12286,7 +12670,9 @@
     "readingTimeMinutes": 28,
     "originalUrl": "https://docs.google.com/document/d/1M1m8o1HInGYJR3cEMYZ6TQgNmeBOWo98YC6djNnFWf0",
     "source": "gdoc",
-    "tags": []
+    "tags": [
+      "History"
+    ]
   },
   {
     "id": "shut-out-by-kevin-erdmann",
@@ -12303,7 +12689,10 @@
     "readingTimeMinutes": 17,
     "originalUrl": "https://docs.google.com/document/d/1M1m8o1HInGYJR3cEMYZ6TQgNmeBOWo98YC6djNnFWf0",
     "source": "gdoc",
-    "tags": []
+    "tags": [
+      "Economics",
+      "Society"
+    ]
   },
   {
     "id": "spqr-by-mary-beard",
@@ -12320,7 +12709,10 @@
     "readingTimeMinutes": 3,
     "originalUrl": "https://docs.google.com/document/d/1M1m8o1HInGYJR3cEMYZ6TQgNmeBOWo98YC6djNnFWf0",
     "source": "gdoc",
-    "tags": []
+    "tags": [
+      "History",
+      "Society"
+    ]
   },
   {
     "id": "steve-jobs-by-walter-isaacson",
@@ -12337,7 +12729,11 @@
     "readingTimeMinutes": 7,
     "originalUrl": "https://docs.google.com/document/d/1M1m8o1HInGYJR3cEMYZ6TQgNmeBOWo98YC6djNnFWf0",
     "source": "gdoc",
-    "tags": []
+    "tags": [
+      "Technology",
+      "History",
+      "Society"
+    ]
   },
   {
     "id": "strangers-drowning-impossible-idealism-drastic-choices-and-the-urge-to-help-by-larissa-macfarquhar",
@@ -12354,7 +12750,11 @@
     "readingTimeMinutes": 39,
     "originalUrl": "https://docs.google.com/document/d/1M1m8o1HInGYJR3cEMYZ6TQgNmeBOWo98YC6djNnFWf0",
     "source": "gdoc",
-    "tags": []
+    "tags": [
+      "Philosophy",
+      "Psychology",
+      "Society"
+    ]
   },
   {
     "id": "strong-towns-by-charles-marohn",
@@ -12371,7 +12771,11 @@
     "readingTimeMinutes": 11,
     "originalUrl": "https://docs.google.com/document/d/1M1m8o1HInGYJR3cEMYZ6TQgNmeBOWo98YC6djNnFWf0",
     "source": "gdoc",
-    "tags": []
+    "tags": [
+      "Economics",
+      "Society",
+      "Politics"
+    ]
   },
   {
     "id": "stubborn-attachments-by-tyler-cowen",
@@ -12388,7 +12792,11 @@
     "readingTimeMinutes": 14,
     "originalUrl": "https://docs.google.com/document/d/1M1m8o1HInGYJR3cEMYZ6TQgNmeBOWo98YC6djNnFWf0",
     "source": "gdoc",
-    "tags": []
+    "tags": [
+      "Economics",
+      "Philosophy",
+      "History"
+    ]
   },
   {
     "id": "ten-days-that-shook-the-world-by-john-reed",
@@ -12405,7 +12813,11 @@
     "readingTimeMinutes": 20,
     "originalUrl": "https://docs.google.com/document/d/1M1m8o1HInGYJR3cEMYZ6TQgNmeBOWo98YC6djNnFWf0",
     "source": "gdoc",
-    "tags": []
+    "tags": [
+      "History",
+      "Politics",
+      "Society"
+    ]
   },
   {
     "id": "the-age-of-entitlement-america-since-the-sixties-by-christopher-caldwell",
@@ -12422,7 +12834,11 @@
     "readingTimeMinutes": 48,
     "originalUrl": "https://docs.google.com/document/d/1M1m8o1HInGYJR3cEMYZ6TQgNmeBOWo98YC6djNnFWf0",
     "source": "gdoc",
-    "tags": []
+    "tags": [
+      "History",
+      "Politics",
+      "Society"
+    ]
   },
   {
     "id": "the-art-of-not-being-governed-an-anarchist-history-of-upland-southeast-asia-by-james-c-scott-2009",
@@ -12439,7 +12855,11 @@
     "readingTimeMinutes": 16,
     "originalUrl": "https://docs.google.com/document/d/1M1m8o1HInGYJR3cEMYZ6TQgNmeBOWo98YC6djNnFWf0",
     "source": "gdoc",
-    "tags": []
+    "tags": [
+      "History",
+      "Politics",
+      "Society"
+    ]
   },
   {
     "id": "the-book-of-why-by-judea-pearl",
@@ -12456,7 +12876,10 @@
     "readingTimeMinutes": 10,
     "originalUrl": "https://docs.google.com/document/d/1M1m8o1HInGYJR3cEMYZ6TQgNmeBOWo98YC6djNnFWf0",
     "source": "gdoc",
-    "tags": []
+    "tags": [
+      "Philosophy",
+      "Science"
+    ]
   },
   {
     "id": "the-burnout-society-by-byung-chul-han",
@@ -12473,7 +12896,11 @@
     "readingTimeMinutes": 7,
     "originalUrl": "https://docs.google.com/document/d/1M1m8o1HInGYJR3cEMYZ6TQgNmeBOWo98YC6djNnFWf0",
     "source": "gdoc",
-    "tags": []
+    "tags": [
+      "Philosophy",
+      "Psychology",
+      "Society"
+    ]
   },
   {
     "id": "the-call-of-cthulhu-by-h-p-lovecraft",
@@ -12490,7 +12917,11 @@
     "readingTimeMinutes": 13,
     "originalUrl": "https://docs.google.com/document/d/1M1m8o1HInGYJR3cEMYZ6TQgNmeBOWo98YC6djNnFWf0",
     "source": "gdoc",
-    "tags": []
+    "tags": [
+      "Fiction",
+      "Philosophy",
+      "Religion"
+    ]
   },
   {
     "id": "the-case-against-reality-by-don-hoffman",
@@ -12507,7 +12938,11 @@
     "readingTimeMinutes": 22,
     "originalUrl": "https://docs.google.com/document/d/1M1m8o1HInGYJR3cEMYZ6TQgNmeBOWo98YC6djNnFWf0",
     "source": "gdoc",
-    "tags": []
+    "tags": [
+      "Philosophy",
+      "Science",
+      "Biology"
+    ]
   },
   {
     "id": "the-cult-of-smart-how-our-broken-education-system-perpetuates-social-injustice-by-fredrik-deboer",
@@ -12524,7 +12959,11 @@
     "readingTimeMinutes": 12,
     "originalUrl": "https://docs.google.com/document/d/1M1m8o1HInGYJR3cEMYZ6TQgNmeBOWo98YC6djNnFWf0",
     "source": "gdoc",
-    "tags": []
+    "tags": [
+      "Politics",
+      "Society",
+      "Philosophy"
+    ]
   },
   {
     "id": "the-culture-of-narcissism-by-christopher-lasch",
@@ -12541,7 +12980,11 @@
     "readingTimeMinutes": 14,
     "originalUrl": "https://docs.google.com/document/d/1M1m8o1HInGYJR3cEMYZ6TQgNmeBOWo98YC6djNnFWf0",
     "source": "gdoc",
-    "tags": []
+    "tags": [
+      "Society",
+      "Politics",
+      "Psychology"
+    ]
   },
   {
     "id": "the-eldraeverse-by-alistair-young",
@@ -12558,7 +13001,11 @@
     "readingTimeMinutes": 5,
     "originalUrl": "https://docs.google.com/document/d/1M1m8o1HInGYJR3cEMYZ6TQgNmeBOWo98YC6djNnFWf0",
     "source": "gdoc",
-    "tags": []
+    "tags": [
+      "Fiction",
+      "Society",
+      "Philosophy"
+    ]
   },
   {
     "id": "the-great-american-gamble-deterrence-theory-and-practice-from-the-cold-war-to-the-twenty-first-century-by-keith-b-payne",
@@ -12575,7 +13022,11 @@
     "readingTimeMinutes": 19,
     "originalUrl": "https://docs.google.com/document/d/1M1m8o1HInGYJR3cEMYZ6TQgNmeBOWo98YC6djNnFWf0",
     "source": "gdoc",
-    "tags": []
+    "tags": [
+      "History",
+      "Politics",
+      "Philosophy"
+    ]
   },
   {
     "id": "the-gulag-archipelago",
@@ -12592,7 +13043,11 @@
     "readingTimeMinutes": 24,
     "originalUrl": "https://docs.google.com/document/d/1M1m8o1HInGYJR3cEMYZ6TQgNmeBOWo98YC6djNnFWf0",
     "source": "gdoc",
-    "tags": []
+    "tags": [
+      "History",
+      "Politics",
+      "Memoir"
+    ]
   },
   {
     "id": "the-horse-the-wheel-and-language-by-david-w-anthony-2007",
@@ -12609,7 +13064,11 @@
     "readingTimeMinutes": 8,
     "originalUrl": "https://docs.google.com/document/d/1M1m8o1HInGYJR3cEMYZ6TQgNmeBOWo98YC6djNnFWf0",
     "source": "gdoc",
-    "tags": []
+    "tags": [
+      "History",
+      "Biology",
+      "Society"
+    ]
   },
   {
     "id": "the-human-predicament-a-candid-guide-to-lifes-biggest-question-by-david-benatar",
@@ -12626,7 +13085,11 @@
     "readingTimeMinutes": 21,
     "originalUrl": "https://docs.google.com/document/d/1M1m8o1HInGYJR3cEMYZ6TQgNmeBOWo98YC6djNnFWf0",
     "source": "gdoc",
-    "tags": []
+    "tags": [
+      "Philosophy",
+      "Psychology",
+      "Society"
+    ]
   },
   {
     "id": "the-joy-luck-club-by-amy-tan",
@@ -12643,7 +13106,11 @@
     "readingTimeMinutes": 16,
     "originalUrl": "https://docs.google.com/document/d/1M1m8o1HInGYJR3cEMYZ6TQgNmeBOWo98YC6djNnFWf0",
     "source": "gdoc",
-    "tags": []
+    "tags": [
+      "Fiction",
+      "History",
+      "Philosophy"
+    ]
   },
   {
     "id": "the-millionaire-next-door-by-thomas-j-stanley-and-william-d-danko-and-other-books",
@@ -12660,7 +13127,10 @@
     "readingTimeMinutes": 20,
     "originalUrl": "https://docs.google.com/document/d/1M1m8o1HInGYJR3cEMYZ6TQgNmeBOWo98YC6djNnFWf0",
     "source": "gdoc",
-    "tags": []
+    "tags": [
+      "Economics",
+      "Psychology"
+    ]
   },
   {
     "id": "the-ministry-for-the-future-by-kim-stanley-robinson",
@@ -12677,7 +13147,11 @@
     "readingTimeMinutes": 14,
     "originalUrl": "https://docs.google.com/document/d/1M1m8o1HInGYJR3cEMYZ6TQgNmeBOWo98YC6djNnFWf0",
     "source": "gdoc",
-    "tags": []
+    "tags": [
+      "Fiction",
+      "Politics",
+      "Science"
+    ]
   },
   {
     "id": "the-no-breakfast-fallacy-why-the-club-of-rome-was-wrong-about-us-running-out-of-resources-by-tim-worstall",
@@ -12694,7 +13168,11 @@
     "readingTimeMinutes": 27,
     "originalUrl": "https://docs.google.com/document/d/1M1m8o1HInGYJR3cEMYZ6TQgNmeBOWo98YC6djNnFWf0",
     "source": "gdoc",
-    "tags": []
+    "tags": [
+      "Economics",
+      "History",
+      "Science"
+    ]
   },
   {
     "id": "the-open-society-and-its-enemies-by-karl-popper",
@@ -12711,7 +13189,11 @@
     "readingTimeMinutes": 16,
     "originalUrl": "https://docs.google.com/document/d/1M1m8o1HInGYJR3cEMYZ6TQgNmeBOWo98YC6djNnFWf0",
     "source": "gdoc",
-    "tags": []
+    "tags": [
+      "Philosophy",
+      "Politics",
+      "History"
+    ]
   },
   {
     "id": "the-oxford-handbook-of-4e-cognition-by-albert-newen-leon-de-bruin-and-shaun-gallagher",
@@ -12728,7 +13210,11 @@
     "readingTimeMinutes": 25,
     "originalUrl": "https://docs.google.com/document/d/1M1m8o1HInGYJR3cEMYZ6TQgNmeBOWo98YC6djNnFWf0",
     "source": "gdoc",
-    "tags": []
+    "tags": [
+      "Philosophy",
+      "Psychology",
+      "Science"
+    ]
   },
   {
     "id": "the-power-of-the-powerless-by-vclav-havel",
@@ -12745,7 +13231,10 @@
     "readingTimeMinutes": 35,
     "originalUrl": "https://docs.google.com/document/d/1M1m8o1HInGYJR3cEMYZ6TQgNmeBOWo98YC6djNnFWf0",
     "source": "gdoc",
-    "tags": []
+    "tags": [
+      "Philosophy",
+      "Politics"
+    ]
   },
   {
     "id": "the-recovering-by-leslie-jamison",
@@ -12762,7 +13251,11 @@
     "readingTimeMinutes": 14,
     "originalUrl": "https://docs.google.com/document/d/1M1m8o1HInGYJR3cEMYZ6TQgNmeBOWo98YC6djNnFWf0",
     "source": "gdoc",
-    "tags": []
+    "tags": [
+      "Memoir",
+      "Psychology",
+      "Society"
+    ]
   },
   {
     "id": "the-red-and-the-black-by-stendhal",
@@ -12779,7 +13272,11 @@
     "readingTimeMinutes": 44,
     "originalUrl": "https://docs.google.com/document/d/1M1m8o1HInGYJR3cEMYZ6TQgNmeBOWo98YC6djNnFWf0",
     "source": "gdoc",
-    "tags": []
+    "tags": [
+      "Fiction",
+      "Politics",
+      "Philosophy"
+    ]
   },
   {
     "id": "the-righteous-mind-by-jonathan-haidt",
@@ -12817,7 +13314,11 @@
     "readingTimeMinutes": 12,
     "originalUrl": "https://docs.google.com/document/d/1M1m8o1HInGYJR3cEMYZ6TQgNmeBOWo98YC6djNnFWf0",
     "source": "gdoc",
-    "tags": []
+    "tags": [
+      "Philosophy",
+      "History",
+      "Religion"
+    ]
   },
   {
     "id": "the-signal-and-the-noise-the-art-and-science-of-prediction-by-nate-silver",
@@ -12834,7 +13335,11 @@
     "readingTimeMinutes": 13,
     "originalUrl": "https://docs.google.com/document/d/1M1m8o1HInGYJR3cEMYZ6TQgNmeBOWo98YC6djNnFWf0",
     "source": "gdoc",
-    "tags": []
+    "tags": [
+      "Science",
+      "Politics",
+      "Society"
+    ]
   },
   {
     "id": "the-silmarillion-by-j-r-r-tolkien",
@@ -12851,7 +13356,11 @@
     "readingTimeMinutes": 34,
     "originalUrl": "https://docs.google.com/document/d/1M1m8o1HInGYJR3cEMYZ6TQgNmeBOWo98YC6djNnFWf0",
     "source": "gdoc",
-    "tags": []
+    "tags": [
+      "Fiction",
+      "Philosophy",
+      "Religion"
+    ]
   },
   {
     "id": "the-smartest-guys-in-the-room-the-amazing-rise-and-scandalous-fall-of-enron-by-bethany-mclean-and-peter-elkind",
@@ -12868,7 +13377,10 @@
     "readingTimeMinutes": 20,
     "originalUrl": "https://docs.google.com/document/d/1M1m8o1HInGYJR3cEMYZ6TQgNmeBOWo98YC6djNnFWf0",
     "source": "gdoc",
-    "tags": []
+    "tags": [
+      "History",
+      "Economics"
+    ]
   },
   {
     "id": "the-sovereign-individual-by-william-rees-mogg-and-james-dale-davidson",
@@ -12885,7 +13397,11 @@
     "readingTimeMinutes": 15,
     "originalUrl": "https://docs.google.com/document/d/1M1m8o1HInGYJR3cEMYZ6TQgNmeBOWo98YC6djNnFWf0",
     "source": "gdoc",
-    "tags": []
+    "tags": [
+      "Economics",
+      "Politics",
+      "Technology"
+    ]
   },
   {
     "id": "the-sovereign-state-and-its-competitors-by-hendrik-spruyt-1994",
@@ -12902,7 +13418,10 @@
     "readingTimeMinutes": 21,
     "originalUrl": "https://docs.google.com/document/d/1M1m8o1HInGYJR3cEMYZ6TQgNmeBOWo98YC6djNnFWf0",
     "source": "gdoc",
-    "tags": []
+    "tags": [
+      "History",
+      "Politics"
+    ]
   },
   {
     "id": "the-suicide-of-reason-by-lee-harris",
@@ -12919,7 +13438,11 @@
     "readingTimeMinutes": 44,
     "originalUrl": "https://docs.google.com/document/d/1M1m8o1HInGYJR3cEMYZ6TQgNmeBOWo98YC6djNnFWf0",
     "source": "gdoc",
-    "tags": []
+    "tags": [
+      "Philosophy",
+      "Psychology",
+      "Society"
+    ]
   },
   {
     "id": "the-true-believer-thoughts-on-the-nature-of-mass-movements-by-eric-hoffer",
@@ -12936,7 +13459,11 @@
     "readingTimeMinutes": 15,
     "originalUrl": "https://docs.google.com/document/d/1M1m8o1HInGYJR3cEMYZ6TQgNmeBOWo98YC6djNnFWf0",
     "source": "gdoc",
-    "tags": []
+    "tags": [
+      "Psychology",
+      "Society",
+      "Politics"
+    ]
   },
   {
     "id": "the-true-creator-of-everything-how-the-human-brain-shaped-the-universe-as-we-know-it-by-miguel-nicolelis",
@@ -12953,7 +13480,11 @@
     "readingTimeMinutes": 14,
     "originalUrl": "https://docs.google.com/document/d/1M1m8o1HInGYJR3cEMYZ6TQgNmeBOWo98YC6djNnFWf0",
     "source": "gdoc",
-    "tags": []
+    "tags": [
+      "Science",
+      "Psychology",
+      "Philosophy"
+    ]
   },
   {
     "id": "the-weirdest-people-in-the-world-by-joseph-henrich-2",
@@ -12970,7 +13501,11 @@
     "readingTimeMinutes": 14,
     "originalUrl": "https://docs.google.com/document/d/1M1m8o1HInGYJR3cEMYZ6TQgNmeBOWo98YC6djNnFWf0",
     "source": "gdoc",
-    "tags": []
+    "tags": [
+      "Psychology",
+      "History",
+      "Society"
+    ]
   },
   {
     "id": "the-weirdest-people-in-the-world-by-joseph-henrich",
@@ -12987,7 +13522,11 @@
     "readingTimeMinutes": 19,
     "originalUrl": "https://docs.google.com/document/d/1M1m8o1HInGYJR3cEMYZ6TQgNmeBOWo98YC6djNnFWf0",
     "source": "gdoc",
-    "tags": []
+    "tags": [
+      "Biology",
+      "Psychology",
+      "Society"
+    ]
   },
   {
     "id": "the-world-imagined-by-hendrik-spruyt-2020",
@@ -13004,7 +13543,11 @@
     "readingTimeMinutes": 31,
     "originalUrl": "https://docs.google.com/document/d/1M1m8o1HInGYJR3cEMYZ6TQgNmeBOWo98YC6djNnFWf0",
     "source": "gdoc",
-    "tags": []
+    "tags": [
+      "Politics",
+      "History",
+      "Society"
+    ]
   },
   {
     "id": "things-fall-apart-by-chinua-achebe",
@@ -13021,7 +13564,11 @@
     "readingTimeMinutes": 28,
     "originalUrl": "https://docs.google.com/document/d/1M1m8o1HInGYJR3cEMYZ6TQgNmeBOWo98YC6djNnFWf0",
     "source": "gdoc",
-    "tags": []
+    "tags": [
+      "Fiction",
+      "History",
+      "Society"
+    ]
   },
   {
     "id": "transcendence-how-humans-evolved-through-fire-language-beauty-and-time-by-gaia-vince-2020",
@@ -13038,7 +13585,11 @@
     "readingTimeMinutes": 3,
     "originalUrl": "https://docs.google.com/document/d/1M1m8o1HInGYJR3cEMYZ6TQgNmeBOWo98YC6djNnFWf0",
     "source": "gdoc",
-    "tags": []
+    "tags": [
+      "Biology",
+      "Science",
+      "Society"
+    ]
   },
   {
     "id": "trustee-report-review",
@@ -13055,7 +13606,9 @@
     "readingTimeMinutes": 18,
     "originalUrl": "https://docs.google.com/document/d/1M1m8o1HInGYJR3cEMYZ6TQgNmeBOWo98YC6djNnFWf0",
     "source": "gdoc",
-    "tags": []
+    "tags": [
+      "Economics"
+    ]
   },
   {
     "id": "understand-1991-by-ted-chiang",
@@ -13072,7 +13625,11 @@
     "readingTimeMinutes": 22,
     "originalUrl": "https://docs.google.com/document/d/1M1m8o1HInGYJR3cEMYZ6TQgNmeBOWo98YC6djNnFWf0",
     "source": "gdoc",
-    "tags": []
+    "tags": [
+      "Fiction",
+      "Philosophy",
+      "Psychology"
+    ]
   },
   {
     "id": "walkaway-by-cory-doctorow",
@@ -13089,7 +13646,11 @@
     "readingTimeMinutes": 24,
     "originalUrl": "https://docs.google.com/document/d/1M1m8o1HInGYJR3cEMYZ6TQgNmeBOWo98YC6djNnFWf0",
     "source": "gdoc",
-    "tags": []
+    "tags": [
+      "Fiction",
+      "Society",
+      "Economics"
+    ]
   },
   {
     "id": "what-the-buddha-taught-by-walpola-rahula-thero",
@@ -13106,7 +13667,10 @@
     "readingTimeMinutes": 13,
     "originalUrl": "https://docs.google.com/document/d/1M1m8o1HInGYJR3cEMYZ6TQgNmeBOWo98YC6djNnFWf0",
     "source": "gdoc",
-    "tags": []
+    "tags": [
+      "Religion",
+      "Philosophy"
+    ]
   },
   {
     "id": "where-is-my-flying-car-a-memoir-of-future-past-by-j-storrs-hall",
@@ -13123,7 +13687,11 @@
     "readingTimeMinutes": 30,
     "originalUrl": "https://docs.google.com/document/d/1M1m8o1HInGYJR3cEMYZ6TQgNmeBOWo98YC6djNnFWf0",
     "source": "gdoc",
-    "tags": []
+    "tags": [
+      "History",
+      "Science",
+      "Technology"
+    ]
   },
   {
     "id": "without-gloves-without-grease-the-great-game-of-politics-and-political-behavior-by-frank-r-kent",
@@ -13140,7 +13708,10 @@
     "readingTimeMinutes": 6,
     "originalUrl": "https://docs.google.com/document/d/1M1m8o1HInGYJR3cEMYZ6TQgNmeBOWo98YC6djNnFWf0",
     "source": "gdoc",
-    "tags": []
+    "tags": [
+      "Politics",
+      "History"
+    ]
   },
   {
     "id": "working-with-contracts-what-law-school-doesnt-teach-you-by-charles-m-fox",
@@ -13157,6 +13728,9 @@
     "readingTimeMinutes": 30,
     "originalUrl": "https://docs.google.com/document/d/1M1m8o1HInGYJR3cEMYZ6TQgNmeBOWo98YC6djNnFWf0",
     "source": "gdoc",
-    "tags": []
+    "tags": [
+      "Economics",
+      "Society"
+    ]
   }
 ]

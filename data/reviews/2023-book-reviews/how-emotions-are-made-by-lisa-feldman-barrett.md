@@ -11,6 +11,9 @@ wordCount: 4300
 readingTimeMinutes: 20
 originalUrl: "https://docs.google.com/document/d/1vci14HMZ2UEJBs6mKCZZ2vHs-jVuPSsFsiN3cAENzXU"
 source: "gdoc"
+tags:
+  - Psychology
+  - Science
 ---
 
 Psychologists and neuroscientists have a pretty good grasp on the production of emotional experience. It is a universal, cross-cultural method of communicating our internal states to others; Darwin claimed that producing specific emotional facial expressions (happiness, sadness, fear, disgust and anger) and our interpretation of other people’s facial expressions is the same across _Homo sapiens_. Many more studies from pioneering emotions researchers such as Paul Ekman have backed up the cross-cultural identification of emotions from pictures of human faces not only from Western cultures but also in Papua New Guinea tribespeople who had never interacted with the West. ‘Classification of Inner States’ and ‘Emotions’ are two of the human universal traits collated by DE Brown in _[Human Universals](https://condor.depaul.edu/mfiddler/hyphen/humunivers.htm)_ and quoted approvingly in Stephen Pinker’s _The Blank Slate_.

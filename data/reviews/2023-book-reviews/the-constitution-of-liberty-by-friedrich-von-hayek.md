@@ -11,6 +11,10 @@ wordCount: 9497
 readingTimeMinutes: 43
 originalUrl: "https://docs.google.com/document/d/1AtGIIv371v0Yu35eNsIxJr67dw4SHOiGdKrqmoKt2hg"
 source: "gdoc"
+tags:
+  - Politics
+  - Philosophy
+  - History
 ---
 
 _“A Communist should not be given tenure.”_

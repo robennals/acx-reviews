@@ -11,6 +11,9 @@ wordCount: 7854
 readingTimeMinutes: 35
 originalUrl: "https://docs.google.com/document/d/1M1m8o1HInGYJR3cEMYZ6TQgNmeBOWo98YC6djNnFWf0"
 source: "gdoc"
+tags:
+  - Philosophy
+  - Politics
 ---
 
 Václav Havel’s _The Power of the Powerless_ is fascinating and surprising. The purpose of this review is to summarize it in such a tantalizing (and lengthy) way that you stop reading this and go look up Havel’s original instead.

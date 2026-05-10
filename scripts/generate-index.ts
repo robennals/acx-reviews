@@ -136,6 +136,24 @@ function main() {
     new Date(b.publishedDate).getTime() - new Date(a.publishedDate).getTime()
   );
 
+  // Validate: every review must have at least one tag, otherwise the
+  // tag-based filter on the home page can't show it. Tags are restored
+  // by apply-tags.ts after each ingestion run; if any review made it
+  // through with no tags, either the slug isn't in review-tags.json yet
+  // or apply-tags.ts wasn't run since the last fetch.
+  const untagged = reviews.filter(r => !r.tags || r.tags.length === 0);
+  if (untagged.length > 0) {
+    console.error(`\n❌ ${untagged.length} review(s) are missing tags:`);
+    for (const r of untagged.slice(0, 20)) {
+      console.error(`   ${r.contestId}/${r.slug}`);
+    }
+    if (untagged.length > 20) {
+      console.error(`   ... and ${untagged.length - 20} more`);
+    }
+    console.error(`\nAdd entries to data/review-tags.json and re-run apply-tags + generate-index.`);
+    process.exit(1);
+  }
+
   // Write index
   fs.writeFileSync(INDEX_PATH, JSON.stringify(reviews, null, 2), 'utf8');
   console.log(`\n✅ Generated index with ${reviews.length} reviews: ${INDEX_PATH}`);

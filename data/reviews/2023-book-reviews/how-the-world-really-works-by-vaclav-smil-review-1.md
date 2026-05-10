@@ -11,6 +11,9 @@ wordCount: 3215
 readingTimeMinutes: 15
 originalUrl: "https://docs.google.com/document/d/1vci14HMZ2UEJBs6mKCZZ2vHs-jVuPSsFsiN3cAENzXU"
 source: "gdoc"
+tags:
+  - Science
+  - Economics
 ---
 
 Like _The Times Complete History of the World_ and Steven Pinker’s _How the Mind Works_, the title of Vaclav Smil’s _How the World Really Works_ suggests a book of impossibly ambitious scope. Libraries are filled with thick tomes purporting to describe how very small components of the world “really work,” and they often admit, if not insist, that there is much yet to be learned even about their restricted subjects. Unsurprisingly, then, Smil immediately has to narrow the scope of “the world” to something more manageable and limited – after all, the book is only about 300 pages, including extensive notes and references. Smil describes his goal as “explain[ing] some of the most fundamental ruling realities governing our survival and our prosperity.” Those “realities” concern energy, food production, the “four pillars of modern civilization” (ammonia, plastics, steel, and concrete), globalization, risks, the environment, and the future. Ok, the book is _still_ impossibly ambitious.  

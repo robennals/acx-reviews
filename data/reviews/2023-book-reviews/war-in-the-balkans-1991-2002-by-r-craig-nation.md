@@ -11,6 +11,9 @@ wordCount: 6999
 readingTimeMinutes: 32
 originalUrl: "https://docs.google.com/document/d/1D2MGZ7HW1vRtOtfXYIx9BBUt6ubjEA2n06gpoHcxaFY"
 source: "gdoc"
+tags:
+  - History
+  - Politics
 ---
 
 Just over twenty years ago, the last Yugoslavian war ended, in Kosovo. I know that nobody cares, but I struggle to understand why.

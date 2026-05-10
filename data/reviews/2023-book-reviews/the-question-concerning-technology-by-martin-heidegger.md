@@ -11,6 +11,10 @@ wordCount: 6401
 readingTimeMinutes: 29
 originalUrl: "https://docs.google.com/document/d/1AtGIIv371v0Yu35eNsIxJr67dw4SHOiGdKrqmoKt2hg"
 source: "gdoc"
+tags:
+  - Philosophy
+  - Technology
+  - History
 ---
 
 First, I apologize for only reviewing an essay, rather than a whole book. It's because Heidegger is very hard to understand. I'm going to do my best to make this review easy to read, but I am only a mere mortal. If you stick with me, there's a payoff at the end: a unique vision of what technology is and what it does. There are even interesting implications for AI alignment.

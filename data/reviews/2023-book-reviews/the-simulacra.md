@@ -11,6 +11,9 @@ wordCount: 4633
 readingTimeMinutes: 21
 originalUrl: "https://docs.google.com/document/d/1AtGIIv371v0Yu35eNsIxJr67dw4SHOiGdKrqmoKt2hg"
 source: "gdoc"
+tags:
+  - Fiction
+  - Philosophy
 ---
 
 “[I]s a twenty-year-old novel successful merely because it seems cleverly predictive or contains scenarios that feel ‘relevant’ to later audiences? If that were the mark of enduring fiction, Philip K. Dick would be the greatest novelist of all time.” [0]

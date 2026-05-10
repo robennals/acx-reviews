@@ -11,6 +11,10 @@ wordCount: 10698
 readingTimeMinutes: 48
 originalUrl: "https://docs.google.com/document/d/1M1m8o1HInGYJR3cEMYZ6TQgNmeBOWo98YC6djNnFWf0"
 source: "gdoc"
+tags:
+  - History
+  - Politics
+  - Society
 ---
 
 I wonder if Christopher Caldwell, author of **Age of Entitlement: America Since the Sixties**, had the same trouble titling his book as I did with this review. The most precise, encompassing title I can think of is, “How the Civil Rights Act Ruined America,” but I’m worried that even putting that phrase at the top of a blog post will forever label me a Richard Spencer-style racist, so like hypothetical Caldwell, I played it safe.

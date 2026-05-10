@@ -11,6 +11,9 @@ wordCount: 4468
 readingTimeMinutes: 20
 originalUrl: "https://docs.google.com/document/d/1M1m8o1HInGYJR3cEMYZ6TQgNmeBOWo98YC6djNnFWf0"
 source: "gdoc"
+tags:
+  - Economics
+  - Psychology
 ---
 
 ## You’re Probably Wondering Why I Called You Here Today

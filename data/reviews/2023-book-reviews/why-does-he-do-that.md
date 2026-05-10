@@ -11,6 +11,9 @@ wordCount: 10462
 readingTimeMinutes: 47
 originalUrl: "https://docs.google.com/document/d/1D2MGZ7HW1vRtOtfXYIx9BBUt6ubjEA2n06gpoHcxaFY"
 source: "gdoc"
+tags:
+  - Psychology
+  - Society
 ---
 
 > _Your abusive partner doesn’t have a problem with_ _**his**_ _anger; he has a problem with_ _**your**_ _anger._

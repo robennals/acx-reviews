@@ -11,6 +11,10 @@ wordCount: 12266
 readingTimeMinutes: 55
 originalUrl: "https://docs.google.com/document/d/1D2MGZ7HW1vRtOtfXYIx9BBUt6ubjEA2n06gpoHcxaFY"
 source: "gdoc"
+tags:
+  - Politics
+  - Philosophy
+  - Society
 ---
 
 Political philosophers are often remembered for their catchphrases: ‘From each according to his abilities, to each according to his needs’; ‘The greatest happiness of the greatest number’; ‘Monopoly of the legitimate use of physical force’. The catchphrase of Patrick Deneen, Professor of Political Science at the University of Notre Dame, is: “Liberalism failed – not because it fell short, but because it was true to itself.”

@@ -11,6 +11,9 @@ wordCount: 11077
 readingTimeMinutes: 50
 originalUrl: "https://docs.google.com/document/d/1vci14HMZ2UEJBs6mKCZZ2vHs-jVuPSsFsiN3cAENzXU"
 source: "gdoc"
+tags:
+  - Economics
+  - Philosophy
 ---
 
 I

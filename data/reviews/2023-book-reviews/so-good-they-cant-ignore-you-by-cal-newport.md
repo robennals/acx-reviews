@@ -11,6 +11,10 @@ wordCount: 4591
 readingTimeMinutes: 21
 originalUrl: "https://docs.google.com/document/d/1vci14HMZ2UEJBs6mKCZZ2vHs-jVuPSsFsiN3cAENzXU"
 source: "gdoc"
+tags:
+  - Philosophy
+  - Psychology
+  - Society
 ---
 
 Cal Newport's pragmatic pessimism

@@ -11,6 +11,9 @@ wordCount: 5724
 readingTimeMinutes: 26
 originalUrl: "https://docs.google.com/document/d/1vci14HMZ2UEJBs6mKCZZ2vHs-jVuPSsFsiN3cAENzXU"
 source: "gdoc"
+tags:
+  - History
+  - Politics
 ---
 
 Anyone who has argued about political ideology in dorm rooms, bars, or the depths of internet forums knows about the rhetorical institution that is the murder debate. Who killed more, who killed the most? Hitler and the 6 million Jews he murdered usually provides the comparative foundation for pure evil, and the trick is to go higher. Maybe Stalin killed 10 million, maybe only 1. If one switches to percentages rather than absolute totals, Pol Pot begins to shine with a nearly 25% murder rate from a pool of the entire Cambodian population. If one claims that communism is responsible for 100 million deaths, then perhaps another will call for capitalism’s tally to be drawn up as well, sometimes including the fascists and sometimes the slave trade. But the winning move is to play Mao, and to point to the famine that occurred during The Great Leap Forward, the famine which killed tens of millions and stands as the single greatest man-made mass death in the history of humanity.

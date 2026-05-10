@@ -11,6 +11,10 @@ wordCount: 1883
 readingTimeMinutes: 9
 originalUrl: "https://docs.google.com/document/d/1M1m8o1HInGYJR3cEMYZ6TQgNmeBOWo98YC6djNnFWf0"
 source: "gdoc"
+tags:
+  - History
+  - Memoir
+  - Society
 ---
 
 _On the use of land: A second look at Second Nature_

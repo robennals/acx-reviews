@@ -11,6 +11,9 @@ wordCount: 4400
 readingTimeMinutes: 20
 originalUrl: "https://docs.google.com/document/d/1M1m8o1HInGYJR3cEMYZ6TQgNmeBOWo98YC6djNnFWf0"
 source: "gdoc"
+tags:
+  - History
+  - Economics
 ---
 
 _"If I had to describe my sixteen years of corporate work with one phrase, it would be 'pretending to add value.'"_

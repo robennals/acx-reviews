@@ -11,6 +11,10 @@ wordCount: 1515
 readingTimeMinutes: 7
 originalUrl: "https://docs.google.com/document/d/1M1m8o1HInGYJR3cEMYZ6TQgNmeBOWo98YC6djNnFWf0"
 source: "gdoc"
+tags:
+  - Philosophy
+  - Psychology
+  - Society
 ---
 
 Rarely does one read books that change their—already formed—views towards society. Maybe even more of a rare event is when a book makes one doubt their life philosophies and deepest goals.

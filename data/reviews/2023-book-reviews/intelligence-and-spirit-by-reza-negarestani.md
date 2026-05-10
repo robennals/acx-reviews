@@ -11,6 +11,9 @@ wordCount: 2832
 readingTimeMinutes: 13
 originalUrl: "https://docs.google.com/document/d/1vci14HMZ2UEJBs6mKCZZ2vHs-jVuPSsFsiN3cAENzXU"
 source: "gdoc"
+tags:
+  - Philosophy
+  - Science
 ---
 
 This book is about intelligence. Intelligence as in that which relates to the intelligible.This book is an attempt to answer hard questions about intelligence, and by extension also consciousness, by drawing from several areas ranging from theoretical computer science over to 19th century German philosophy. Ahead of us lies a tempest of confusing thought experiments, eclectic variety of schools of thought and a discussion of the question what role philosophy plays or should play in the 21st century.

@@ -11,6 +11,9 @@ wordCount: 6589
 readingTimeMinutes: 30
 originalUrl: "https://docs.google.com/document/d/1vci14HMZ2UEJBs6mKCZZ2vHs-jVuPSsFsiN3cAENzXU"
 source: "gdoc"
+tags:
+  - Philosophy
+  - Science
 ---
 
 A book review by two anonymous cool dudes

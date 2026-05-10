@@ -11,6 +11,10 @@ wordCount: 818
 readingTimeMinutes: 4
 originalUrl: "https://docs.google.com/document/d/1AtGIIv371v0Yu35eNsIxJr67dw4SHOiGdKrqmoKt2hg"
 source: "gdoc"
+tags:
+  - Fiction
+  - Philosophy
+  - Society
 ---
 
 Grown-ups can’t perceive important things; they look at figures, facts, politics, and rationale while never eyeing the significant details. That is the theme of Antoine de Saint-Exupéry’s 1943 novella ‘The Little Prince’.

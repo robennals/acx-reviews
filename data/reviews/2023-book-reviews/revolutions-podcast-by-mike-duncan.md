@@ -11,6 +11,9 @@ wordCount: 4047
 readingTimeMinutes: 18
 originalUrl: "https://docs.google.com/document/d/1vci14HMZ2UEJBs6mKCZZ2vHs-jVuPSsFsiN3cAENzXU"
 source: "gdoc"
+tags:
+  - History
+  - Politics
 ---
 
 What’s exciting about a revolution? It’s a classic underdog story, plus the overdog is often actually evil. The regime starts with everything: money, power, guns, and land, and yet the plucky revolutionaries manage to overcome these huge obstacles. It’s everything everyone wants out of politics and fiction: the good guys win and the bad lose. Or at least most of the bad guys lose and the good guys win occasionally.

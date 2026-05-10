@@ -11,6 +11,10 @@ wordCount: 5083
 readingTimeMinutes: 23
 originalUrl: "https://docs.google.com/document/d/1vci14HMZ2UEJBs6mKCZZ2vHs-jVuPSsFsiN3cAENzXU"
 source: "gdoc"
+tags:
+  - Politics
+  - Society
+  - History
 ---
 
 In modern Britain, political journalism is in a sorry state.
