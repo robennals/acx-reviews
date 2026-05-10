@@ -57,6 +57,10 @@ function sanitizeTitle(raw: string, fallback: string): string {
   let t = raw.replace(/\s+/g, ' ').trim();
   // Strip embedded image markdown that leaked into the title.
   t = t.replace(/!\[[^\]]*\]\([^)]*\)/g, '').trim();
+  // Unwrap markdown links: `[Title](https://...)` → `Title`. Some reviewers
+  // hyperlink the book title in their H1, which would otherwise produce
+  // slugs like `the-case-against-the-sexual-revolutionhttpswwwamazoncom...`.
+  t = t.replace(/\[([^\]]+)\]\([^)]*\)/g, '$1');
   // Unescape Turndown-style markdown escapes on chars that don't need
   // escaping in a YAML title (e.g. \* in "sh\*t").
   t = t.replace(/\\([*_[\]()\\])/g, '$1');

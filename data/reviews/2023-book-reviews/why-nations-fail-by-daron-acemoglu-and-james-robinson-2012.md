@@ -1,12 +1,12 @@
 ---
-title: "[Why Nations Fail](https://docs.google.com/document/d/13iohp3ua8fim_h4F9xzFFgakcwZJ3yZIMfDWfLWarSY/edit?usp=share_link) by Daron Acemoglu and James Robinson, 2012."
+title: "Why Nations Fail by Daron Acemoglu and James Robinson, 2012"
 author: "Unknown"
 reviewAuthor: "Anonymous"
 contestId: "2023-book-reviews"
 contestName: "2023 Book Reviews"
 year: 2023
 publishedDate: "2023-01-01T00:00:00.000Z"
-slug: "why-nations-failhttpsdocsgooglecomdocumentd13iohp3ua8fim-h4f9xzffgakcwzj3yzimfdwflwarsyedituspshare-link-by-daron-acemoglu-and-james-robinson-2012"
+slug: "why-nations-fail-by-daron-acemoglu-and-james-robinson-2012"
 wordCount: 4903
 readingTimeMinutes: 22
 originalUrl: "https://docs.google.com/document/d/1D2MGZ7HW1vRtOtfXYIx9BBUt6ubjEA2n06gpoHcxaFY"
