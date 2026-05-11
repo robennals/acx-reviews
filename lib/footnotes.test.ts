@@ -276,6 +276,36 @@ test('plain: strips a "Footnotes" heading immediately preceding the def block', 
   assert.equal(result.footnotes.length, 1);
 });
 
+test('plain: strips a "## FOOTNOTES" heading (uppercase)', () => {
+  // Real example from "The Mind is Flat".
+  const input = [
+    'Body paragraph mentioning footnote 1.',
+    '',
+    '## FOOTNOTES',
+    '',
+    '[1] Footnote one content.',
+    '',
+  ].join('\n');
+
+  const result = extractFootnotes(input);
+  assert.ok(!/FOOTNOTES/i.test(result.body), `uppercase FOOTNOTES heading should be stripped; got: ${result.body}`);
+  assert.equal(result.footnotes.length, 1);
+});
+
+test('plain: strips a "## Footnotes:" heading (trailing colon)', () => {
+  const input = [
+    'Body paragraph mentioning footnote 1.',
+    '',
+    '## Footnotes:',
+    '',
+    '[1] Footnote one content.',
+    '',
+  ].join('\n');
+
+  const result = extractFootnotes(input);
+  assert.ok(!/Footnotes:/i.test(result.body), `Footnotes: heading should be stripped; got: ${result.body}`);
+});
+
 test('plain: strips an H2 "Footnotes" heading too', () => {
   const input = [
     'Body referring to [1].',

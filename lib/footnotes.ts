@@ -448,15 +448,17 @@ function extractPlain(md: string): ExtractedFootnotes {
   }
 
   // If the author added their own "Footnotes" heading right before the
-  // defs (e.g. "### Footnotes"), drop it — the render layer adds its own
+  // defs (e.g. "### Footnotes", "## FOOTNOTES", "## Footnotes:",
+  // "## Endnotes"), drop it — the render layer adds its own
   // <h2>Footnotes</h2> and we'd otherwise show a duplicate. Walk back from
   // firstDefIdx past blanks; if the next non-blank line is a heading that
-  // is just the word "Footnotes", strip from there.
+  // is just the word "Footnotes" or "Endnotes" (case-insensitive, optional
+  // trailing colon), strip from there.
   let bodyEndIdx = firstDefIdx;
   {
     let j = firstDefIdx - 1;
     while (j >= 0 && lines[j].trim() === '') j--;
-    if (j >= 0 && /^#{1,6}\s+Footnotes\s*$/.test(lines[j])) {
+    if (j >= 0 && /^#{1,6}\s+(footnotes|endnotes)\s*:?\s*$/i.test(lines[j])) {
       bodyEndIdx = j;
     }
   }
@@ -589,7 +591,18 @@ export function extractFootnotes(markdown: string): ExtractedFootnotes {
       return { body: markdown, footnotes: [] };
   }
 
-  const restored = extracted.body.replace(
+  // Strip a trailing "Footnotes" / "Endnotes" section heading from the
+  // body — every format leaves the body ending just before the
+  // footnote-defs region, and the render layer adds its own
+  // <h2>Footnotes</h2> next to the extracted defs, so leaving the
+  // author's heading would show two of them. Case-insensitive and
+  // allows an optional trailing colon. Catches `## FOOTNOTES`,
+  // `### Footnotes`, `# Footnotes:`, `## Endnotes`, etc.
+  const bodyWithoutTrailingHeading = extracted.body.replace(
+    /\n*^#{1,6}[ \t]+(footnotes|endnotes)[ \t]*:?[ \t]*\s*$/im,
+    ''
+  );
+  const restored = bodyWithoutTrailingHeading.replace(
     /\u0000CODEBLOCK(\d+)\u0000\n?/g,
     (_m, idx: string) => placeholders[Number(idx)]
   );
