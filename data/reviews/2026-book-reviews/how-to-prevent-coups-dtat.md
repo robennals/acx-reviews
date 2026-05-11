@@ -7,13 +7,14 @@ contestName: 2026 Book Reviews
 year: 2026
 publishedDate: '2026-02-23T02:28:32.000Z'
 slug: how-to-prevent-coups-dtat
-wordCount: 3258
+wordCount: 3260
 readingTimeMinutes: 15
 source: gdoc
 tags:
   - Politics
   - History
 ---
+
 Cornell University Press, 2020
 
 If, like me, you’re not a Delta Force assault team member, nor possess high level security clearance, on the morning of January 3, 2026, you may have been similarly astonished to read that the United States carried out a snatch and grab of Venezuelan dictator Nicolás Maduro and his wife from their compound in Caracas and transported them to the US for narcoterrorism charges.
@@ -80,8 +81,7 @@ De Bruin herself cites Luttwak’s Coup d’État, several times in her own book
 
 Which, I suppose, makes this book review a non-expert’s take on coups d’état of an expert’s book on coups d’état that includes source material from a non-expert’s book on coups d’état. It’s coups, all the way down, baby!
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
+_ _ _
 [1] Lest you think this is a historic phenomenon regulated mostly to the dustbin of history, although coups were more common in the past, there have been more than 50 coup attempts among 31 different states between 2000-2019.
 
 [2] This sentence was originally, “push comes to shove,” but I could not resist the pun. Don’t like it? COME AT ME (I have plenty of counterbalances).

@@ -7,13 +7,14 @@ contestName: 2026 Book Reviews
 year: 2026
 publishedDate: '2026-04-29T01:25:04.000Z'
 slug: bronze-age-mindset-an-exhortation
-wordCount: 9301
+wordCount: 9303
 readingTimeMinutes: 42
 source: gdoc
 tags:
   - Philosophy
   - Politics
 ---
+
 **Diamond Age Mindset: A Primer for Sensitive Young Cyborgs**
 
 _An intro to Bronze Age Pervert’s mindset based on a diet of neopagan philosophy, Frogtwitter, lifting, and raw food—and a critique of his Nietzscheanism to the letter via my Nietzscheanism in spirit_
@@ -24,7 +25,7 @@ Written in intentionally brutish, caveman English befitting a steppe barbarian, 
 
 There is no shortage of left, right, and other diatribes and indictments against and defences and (b)apologies of BAP. In the first part of this essay, however, I want to provide a clear and accessible introduction to his philosophy free from either moral outrage descending into strawman caricatures and outright invectives, or fawning adulation bordering on cult hero worship and hagiography. In the second part, I am then going to offer an _immanent_ critique of what I distinguish as BAP’s more literalist and _fleshy_ neoNietzscheanism _to the letter_ from the perspective of my more _silicon_ neoNietzscheanism _in (free) spirit_.
 
-**Part 1**
+## Part 1
 
 > “What Mount Aetna was to Empedocles—is there something like that to you? Is there something like that at all anymore?”
 >
@@ -88,7 +89,7 @@ To achieve anything close to this, BAP concludes that, on a more individual leve
 
 So it is that BAP’s revival of a certain brand of Nietzschean philosophy has come to exert such an influence on contemporary movements like Frogtwitter, the New Right, body building, raw foodism, and various countercultural art scenes. He presents them all as forming a united front against the ruling elites and their drooling zombie armies of normie NPC drones—a front that might just be able to reignite the flame of life that once shone so blindingly bright in the bronze age.
 
-**Part 2**
+## Part 2
 
 > “Those who care most today ask: ‘how are human beings to be preserved?’ But Zarathustra is the only one and the first one to ask: ‘how shall human beings be _overcome_?’
 >

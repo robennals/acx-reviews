@@ -7,7 +7,7 @@ contestName: 2026 Book Reviews
 year: 2026
 publishedDate: '2026-05-07T14:44:56.000Z'
 slug: what-is-real
-wordCount: 10155
+wordCount: 10162
 readingTimeMinutes: 46
 source: gdoc
 tags:
@@ -15,6 +15,7 @@ tags:
   - Philosophy
   - History
 ---
+
 _“…epistemology-soaked orgy…”_
 
 Dear reader, I have set myself a goal: I aim to burn the phrase above – it is a quote – into your mind. If you forget _everything_ else from this essay but remember that quote, I will die a happy essayist.
@@ -33,7 +34,7 @@ Well, it is literally a century-long tale. And it is told, wonderfully, by Adam 
 
 This essay reviews that book, and tells in brief said tale.
 
-**1\. The Process of the Review**
+## 1\. The Process of the Review
 
 I had listened to the audiobook and then listened to Becker’s interview by Sean Carroll – this interview is on Carroll’s podcast ‘Mindscape’ – a while ago. To write this review, I listened to the audiobook and interview again so as to refresh the details and dates. And I referred to the physical book to get the page numbers of certain interesting parts – these are called out later.
 
@@ -55,13 +56,13 @@ What does that mean, you ask. Consider a person who knows that QP is a sound the
 
 So, putting it in my own words, the book is about working towards an Ontology, and not just stopping at Epistemology. Becker is frightfully keen on that – rightfully so. Perhaps that gives you a slight hint about what Albert was saying – more in a bit.
 
-**3\. The Capsule Review**
+## 3\. The Capsule Review
 
 I am _really_ glad I read this book. I learnt a fair bit – a number of new things – and it helped me correct two misunderstandings specific to the history and domain of QP. One of those misunderstandings was rather significant – you will see. The book also helped me in a general way, that is, not regarding QP – this too, you will see.
 
 I am grateful to Becker for this book. It must have been a huge task to collect and sift the details and then present them in the form he did, and he did it well.
 
-**4\. THE REVIEW**
+## 4\. THE REVIEW
 
 Those in the ACX community who have read Eliezer Yudkowsky’s ‘Quantum Physics Sequence’ will find in the book some technical material they already know.
 
@@ -105,7 +106,7 @@ What – and this is me talking – a loss for the world. That on so small a thi
 
 Just to be clear, he too is referring to Albert, not Bob. His closing sets a beautiful hook for later in the mind of the reader who does not know Bell’s insight – his cleverness. And thus ends the book’s Prologue.
 
-**4.2 The Early Days**
+## 4.2 The Early Days
 
 **Chapter 1** kicks off with Becker talking about the early days of QP – it kicked off in the latter half of the 1920s. He explains how QP, unlike Relativity, was a collaborative effort, and Bohr was basically the Godfather of it in those early days – it is due to Bohr and collaborators working in Copenhagen at the Neils Bohr Institute that the term CI came about.
 
@@ -338,7 +339,7 @@ You might wonder – I did – how Albert and Schrödinger reacted to Bohm’s w
 
 Eventually, Bohm abandoned his theory – he became convinced it was wrong because it turned out to not work with Special Relativity – and started looking for a new one.
 
-**4.7 Killing a Philosophic Monstrosity**
+## 4.7 Killing a Philosophic Monstrosity
 
 **Chapter 6** starts with Albert’s final lecture. It was in April 1954, at Princeton, on Relativity, but the discussion turned to QP. At that lecture was present a student who noted Albert’s remarks about CI.
 
@@ -554,7 +555,7 @@ Skipping over some material, we then arrive at the introduction of another ontol
 
 Bell died in 1990 of a stroke, never having a won a Nobel, but having done work which clearly deserved a Nobel. More importantly, he displayed a courage and a commitment to where his curiosity took him that many contemporaries, including various Nobels, never did. He wasn’t a Nobel, but he was more: a Noble.
 
-**4.12 The Bigger Picture Informs the Smallest**
+## 4.12 The Bigger Picture Informs the Smallest
 
 Becker shares that, before Bell died, he made the perceptive observation about Many Worlds that the existence of all possible worlds was interesting, given that our own world was “highly improbable”. To be fair, he found Many Worlds extravagant and vague, and wanted it to be made precise. But he did not dismiss it outright and opined it may have “something distinctive to say” about EPR once made precise. Not bad.
 
@@ -578,7 +579,7 @@ Becker then describes the trainwreck of falsifiability as a criterion for Scienc
 
 Everett died in 1982 and did not get to see the progress, but it seems he would not have much cared. He had achieved his goals with his thesis, and gone on to do what interested him, which was not a career in Physics academia.
 
-**4.13 The Mayhem Remains**
+## 4.13 The Mayhem Remains
 
 In the final chapter, Becker goes into some detail on the current dynamics of the field, and the proposed ontologies. This is where he expresses his agnosticism about which ontology is right, and his unshy stance that CI is not.
 

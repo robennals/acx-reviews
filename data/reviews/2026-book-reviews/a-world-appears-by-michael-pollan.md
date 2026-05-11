@@ -7,13 +7,14 @@ contestName: 2026 Book Reviews
 year: 2026
 publishedDate: '2026-05-10T18:27:55.000Z'
 slug: a-world-appears-by-michael-pollan
-wordCount: 3566
+wordCount: 3569
 readingTimeMinutes: 16
 source: gdoc
 tags:
   - Science
   - Philosophy
 ---
+
 Author Michael Pollan is both a journalist and a professor at Harvard and Berkely, where he is the director of the Knight Program in Science and Environmental Journalism. According to his wikipedia page, “Pollan is best known for his books that explore the [socio-cultural impacts of food](https://en.wikipedia.org/wiki/Food_studies), such as _[The Botany of Desire](https://en.wikipedia.org/wiki/The_Botany_of_Desire)_ (2001) and _[The Omnivore's Dilemma](https://en.wikipedia.org/wiki/The_Omnivore%27s_Dilemma)_ (2006), as well as those that explore the impact of drugs on society and consciousness, such as _[How To Change Your Mind](https://en.wikipedia.org/wiki/How_to_Change_Your_Mind)_ (2018) and _This Is Your Mind On Plants_ (2021).” He seems eminently qualified to interview experts on the mind and human behavior.
 
 Pollan’s most recent book is “_A World Appears_,” a fascinating attempt to cover the scholarship on a fascinating topic: human consciousness. Unfortunately, through no fault of his own, the reader is likely to be disappointed–the simple fact is that science hasn’t come to very many firm conclusions about consciousness, mostly because it is very difficult to study. There are a lot of theories in this field, but not enough facts to test them.
@@ -34,7 +35,7 @@ Pollan begins his book with a discussion of what has become known as the “Hard
 
 The disappointing result of consciousness research is that no one has ever plausibly answered this question. Indeed, there is no agreed upon objective definition of “Consciousness” within the scientific community, which perhaps helps explain the relative lack of research on it. As we will see, some scientists dismiss the hard problem, and others regard it as unanswerable.
 
-**The “Four Chapters” Framework**
+## The “Four Chapters” Framework
 
 Pollan organizes his interviews into four chapters, each of which covers an increasing level of complexity, starting with the simplest and culminating in the most complex. (So far as I can tell, Pollan came up with this scheme himself.) I found it to be a very useful approach, helping to clarify what otherwise might have been a very confusing range of theories and models. The four chapters cover, in order, Sentience, Feeling, Thought, and the Self.
 
@@ -48,7 +49,7 @@ Finally, the Self is, in some ways, the least satisfying chapter, as it appears 
 
 The research Pollan presents raises more questions than it provides answers. And yet these might be some of the most profound questions humanity can ask. It speaks to our sense of purpose and meaning–what is it to be human? What does it mean to be “aware?” Consciousness is the one thing we know exists (Descartes famously said “I think therefore I am”, to which I would add “All else is inference.”) And yet it may also be the one thing we know the least about. The very fact that this should be true is itself a fascinating quandary.
 
-**Sentience**
+## Sentience
 
 Pollan divides this chapter into two parts: the first on plant consciousness and the other on a discussion of living homeostatic systems. Both shed light on what we might mean when we consider that something is “conscious.”
 
@@ -112,7 +113,7 @@ Chalmers, though, might have some objections. Why does paying attention to one�
 
 This may be why Pollan chose to call this chapter “Sentience”, as a way of creating a distinction with what humans understand as “consciousness.” If so, then the research covered by his next chapter might provide another way of approaching it. While intelligent goal directed behavior may not require consciousness, surely feelings and emotions do.
 
-**Feeling**
+## Feeling
 
 Pollan begins this section by quoting [insert] “Be Wary of the Desire for Magic.” What he means by this is that there is a will to believe in the mind as a non-material manifestation, and a concomitant willingness to suspend skepticism whenever someone proposes an inspiring explanation, regardless of facts. In other words, responding to the idea of consciousness as an emotional response. This is an especially appropriate reminder with respect to this chapter, which deals with emotional responses.
 

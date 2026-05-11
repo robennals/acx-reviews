@@ -7,13 +7,14 @@ contestName: 2026 Book Reviews
 year: 2026
 publishedDate: '2026-05-04T20:16:20.000Z'
 slug: theodicy
-wordCount: 5141
+wordCount: 5145
 readingTimeMinutes: 23
 source: gdoc
 tags:
   - Fiction
   - Religion
 ---
+
 Why does an all-loving, all-powerful, and all-knowing God allow sin and evil in His creation? Why does He allow bad things to happen even to good people? This is the famous problem of evil, and a theodicy is an attempt to explain it. I was curious to learn what explanations early thinkers had to offer and turned to the first book ever written on the topic, simply and aptly named Theodicy. Since it predates Gottfried Wilhelm Leibniz’s invention of the term by more than two thousand years, the title shows the incredible foresight of its author, Greek theologian Homer, whose last name is lost to history. 
 
 This trailblazing marvel of a book asks the question of theodicy in a riveting, but at times quite wordy way. Not in prose, and not in a single sentence about God, but in the form of an epic poem of 12,109 verses in 24 books, laying out the human condition in its entirety and doing so not in the abstract, which would make for a bad piece of poetry, but in a _story_ about a single man. Man is thus the book’s first word, though in the English translation by Pope Alexander - I couldn’t figure out the number, but Claude says that based on style it’s likely Alexander VII or VIII - it cedes that spot to the no less poetic "the":
@@ -26,7 +27,7 @@ That man, the hero of the story, showed his valor countless times in a war of te
 
 Before I continue, let me note that I chose this translation more because of the Pope's theological authority than because of his skills as a translator. Neither Fabio Chigi nor Pietro Vito Ottoboni were renowned for their Greek or English skills. As a fellow non-native, I bow anyway to my half-known translator, who managed quite an impressive feat working under such linguistic constraints. Yet, I fear that he might have distorted a few things in his translation. It is quite possible that some mistakes he made [2] have also found their way into this review.
 
-**Polytheism**
+## Polytheism
 
 As can be guessed from the word gods with a small g and a plural suffix s I used above, Theodicy, the book, takes a rather archaic approach to theodicy: polytheism. There is more than one god in this story, and if you have several, meaningfully distinct gods, they cannot all be all-loving, all-powerful, and all-knowing. The book posits many gods, who have superhuman, but not unlimited, powers and knowledge, much like superheroes today. Regarding their character, these gods act like humans, and often like complete assholes [3] at that. They are haughty, vengeful, horny, at times quite ignorant, and often at odds with each other. Some gods are quite weak. At one point, four men surprise and physically overpower sea god Proteus. It is apparent that the gods' awareness, even of their immediate surroundings, is rather lacking. What distinguishes Proteus from mortals are his shape-shifting abilities, which seem commonplace among gods, and his old age, unusual in a world where only one in two people reached adulthood.
 
@@ -118,7 +119,7 @@ It should also be possible to see the spirits of the dead and talk to them. That
 
 There was, however, one thing I was able to test: There is a river right where I live, and rivers, according to Theodicy, are gods too. There is a scene where Odysseus, trying to swim to the Phaeacian shore, prays to a river to soften its current and that works. So I tried the same. I went to the bank and prayed. Then I prayed in verse. Then I bought a bottle of wine and emptied it into the river because the gods like offerings of wine. Then I tried beer and all sorts of liquor, but all to no avail, its current remained as strong as ever.
 
-**Free Will**
+## Free Will
 
 Frustrated with my failure, I was prompted to re-examine the theological claims of Theodicy and found that the book provides more explanations than just “The gods suck and not in a good way”, although this is the most salient. Homer lets none other than Zeus state that
 
@@ -148,7 +149,7 @@ Despite being a friend of the gods, we must not take Aeolus’ verdict at face v
 
 Unlike polytheism, free will is a popular explanation for the existence of evil also in Christian theology, proposed, among others, by Augustine of Hippo, yet it too has its critics. What about evils that are not man-made? And even when humans sin, couldn’t God intervene in ways that prevent the bad consequences of someone’s freely chosen bad actions on others (e.g., killing the suitors the instant they resolve to live like parasites off another man’s property, instead of letting them carry out their intent)? We don’t need to look at these arguments, however, as the real problem of free will is that people, at least in Theodicy, clearly do not have it. Yes, Zeus claims they do, but this is nothing but the classic “Stop hitting yourself” of a schoolyard bully. The gods constantly intervene in the “free” decision-making process of the mortals. Telemachus decides to go on his side quest to find out if anyone knows the whereabouts of his father? Athena tells him to. The suitor Amphinomus realizes that planning the murder of his love interest’s son is sort of rude? Athena changes his heart. But what then is Homer’s explanation for evil, and why does he deliberately include a false one?
 
-**The Best of All Possible Worlds**
+## The Best of All Possible Worlds
 
 There is a third theory that can be constructed from the story. It is striking how Odysseus’ suffering is transient. In the end, he gets home safely, his family is reunited, father and son kill the suitors, recreating the childhood they never had together. On the way, he has been given more gold by the Phaeacians than he carried from the temples of Troy and Athena rejuvenates his and Penelope’s bodies. Maybe suffering isn’t that bad after all? This again is also a position brought forward in Christian theology and was, in particular, held by Leibniz who claimed that evil serves a purpose, and is necessary for some greater good. What is that good?
 
@@ -172,7 +173,7 @@ In other words, the gods are what cannot, must not be known.
 
 Into this pattern also fit the episode with Aeolus, as well as the fake, conflicting theodicies. Finally, if you think about it, you realize that Odysseus doesn’t even have true knowledge. He shows no awareness that he is just a persona to illustrate a theological problem, although there are hints: He hears lots of stories about others like him, tells lots of stories (many of them lies) about himself, but never does he consider the option that he might _be_ a story told to someone. Admittedly, the hints are not very concrete and it would have been hard for him to reach this conclusion - I’m not sure I could do it either -, but it can be expected of Odysseus, the wisest man alive, who has done the impossible before. If even he does not have true knowledge, mankind cannot have it either. Homer’s true point is thus that any attempt at a theodicy is ultimately futile.
 
-**Conclusion**
+## Conclusion
 
 I certainly did not hope to end up with the lamest possible conclusion, a non-answer instead of an answer, but here I am, and I cannot, in good faith, defend any other interpretation. The many contradictions we have seen make it impossible to pin any specific theodicy on the work. Nonetheless, I can warmly recommend Theodicy. Not only is knowledge of the primary sources of great importance in theodicy, but this book, which blurs the line between philosophical essay and fiction, can almost be regarded as a piece of art in its own right.
 

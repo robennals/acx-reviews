@@ -7,12 +7,13 @@ contestName: 2026 Book Reviews
 year: 2026
 publishedDate: '2026-05-08T00:09:53.000Z'
 slug: king-rat
-wordCount: 910
+wordCount: 916
 readingTimeMinutes: 5
 source: gdoc
 tags:
   - Fiction
 ---
+
 _Back up Astral Codex Ten Book Review Contest 2026_
 
  If you have read renowned author Dan Brown’s _The DaVinci Code_ or _Angles and Demons_ or (God save you) _Digital Fortress,_ you may have found yourself asking:_“What would happen if I tortured Dan Brown?”_
@@ -28,8 +29,7 @@ If you did ask yourself this specific question, then I have some good news.
 “Renowned author Dan Brown _James Clavell_ woke up in his luxurious four-poster bed _on a ragged straw mat_ in his expensive $10 million house _a Japanese POW camp_– and immediately he felt angry _undefinable existential ennui_. Most people would have thought that the 48-year-old _17 year old_ man had no _every_ reason to be angry. After all, the famous writer had a new book coming out _teenager had been sent halfway around the world and shot in the face with a machine gun, immediately captured in the sweltering jungles of Java, and sent to starve in an open air prison._”
 
 [Stolen from Michael Deacon’s _**Don’t make fun of renowned Dan Brown**_, which is the book review you should actually be reading]  
-\_\_\_\_\_  
-  
+_ _ _
 I’d like to explore what sort of novel you get when you take…  
   
 The Author:  
@@ -45,8 +45,7 @@ I have claimed that Clavell is a formulaic writer. So here is everything you nee
   
   
   
-\_\_\_\_
-
+_ _ _
 King Rat starts out with a lie:  
   
 “There was a war. Changi and Utram Road jails in Singapore door did— exist. Obviously the rest of this story is fiction, and no similarity to anyone living or dead exists or is intended.”
@@ -127,4 +126,4 @@ poem about babalyon
 
   
 I image Clavell happy.  
-\_\_\_\_
+_ _ _

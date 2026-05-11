@@ -1,5 +1,5 @@
 ---
-title: 'The Short, Swift Time of Gods on Earth'
+title: The Short, Swift Time of Gods on Earth
 author: Unknown
 reviewAuthor: Anonymous
 contestId: 2026-book-reviews
@@ -14,6 +14,7 @@ tags:
   - History
   - Society
 ---
+
 ## A Monument to Man’s Arrogance
 
 Phoenix is in trouble. In 2024, the Arizona capital recorded 113 consecutive days of 100 degrees Fahrenheit or greater; the summers that were always hot but were still bearable are becoming more and more unbearable. As I write this in March of 2026, temperatures are already topping 100 degrees. While climate change explains some of the hotter temperatures, a bigger culprit is the endless concrete sprawl that traps heat in the daytime and doesn’t let it go at night. Phoenicians are long used to getting up at 5 in the morning to walk their dogs on concrete that doesn’t burn their paws; that time is getting earlier and earlier.

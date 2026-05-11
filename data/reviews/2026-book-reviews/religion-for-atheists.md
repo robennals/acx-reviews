@@ -7,13 +7,14 @@ contestName: 2026 Book Reviews
 year: 2026
 publishedDate: '2026-04-29T10:03:56.000Z'
 slug: religion-for-atheists
-wordCount: 5656
+wordCount: 5670
 readingTimeMinutes: 26
 source: gdoc
 tags:
   - Religion
   - Philosophy
 ---
+
 **Note: I read the Romanian edition of the book, so the quotes from the book are translated into English by my own brain**
 
 An important step in overcoming an addiction is to identify the needs the addiction satisfies and then find healthier ways of satisfying those needs. In the case of of the opiate of the masses, religion, Alain de Botton recognizes two broad categories of benefits
@@ -23,7 +24,7 @@ An important step in overcoming an addiction is to identify the needs the addict
 
 He samples practices from Christianity, Judaism and Buddhism that tends to these needs. It’s fair game to appropriate religious concepts for secular purposes, argues de Botton, when considering that, for example, the winter solstice was transformed into Christmas. Religious institutions made their mark on the world by influencing a wide array of activities, such as education, fashion, politics, art and architecture. De Botton analysis touches on all of them in this book and gives several of them a long form treatment in other books[[1]](https://www.goodreads.com/book/show/23422.The_Art_of_Travel?ref=nav_sb_ss_1_17), [[2]](https://www.goodreads.com/book/show/23425.Status_Anxiety?ref=nav_sb_ss_1_14), [[3]](https://www.goodreads.com/book/show/23418.The_Architecture_of_Happiness?ref=nav_sb_ss_1_29), [[4]](https://www.goodreads.com/book/show/5293573-the-pleasures-and-sorrows-of-work?from_search=true&from_srp=true&qid=rcdJP9hEg1&rank=1), [[5]](https://www.goodreads.com/book/show/17899481-art-as-therapy?from_search=true&from_srp=true&qid=9GxBMGbh6V&rank=1), [[6]](https://www.goodreads.com/book/show/23420.How_Proust_Can_Change_Your_Life?ref=nav_sb_ss_1_29), [[7]](https://www.goodreads.com/book/show/18282869-the-news?ref=nav_sb_ss_1_24), [[8]](https://www.goodreads.com/book/show/27845690-the-course-of-love?ref=nav_sb_ss_1_18).
 
-**Community**
+## Community
 
 De Botton identifies a few factors that may have contributed to the weakening of communities in the secular modern secular world.
 
@@ -85,7 +86,7 @@ The second example of mediating group vs individual needs is the Jewish Bar Mitz
 
 Such rituals are seen by de Botton as evidence that religions don’t expect us to manage troubling emotions alone so they grant special occasions for processing them.
 
-**The benefits of being told what to do**
+## The benefits of being told what to do
 
 De Botton takes issue with the amorphous group of libertarian theoreticians who made freedom our supreme political virtue.
 
@@ -110,7 +111,7 @@ The benefit of the doctrine of original sin is seen by de Botton to be the reali
 
 De Botton sees the modern state getting involved too late, after the damage was done and ignoring the contribution of subtle offenses to the serious crimes.
 
-**Art**
+## Art
 
 De Botton appreciates the way art is used by religions to communicate important ideas. He exemplifies this with Scrovegni chapel in Padua, Italy, where at the beginning of the 14th century, Florentine artist Giotto was hired to decorate the chapel walls with a series of frescoes: each wall would contain a portrait representing an allegory of a vice or a virtue [[11]](https://www.wga.hu/html_m/g/giotto/padova/7vicevir/index.html).
 
@@ -124,7 +125,7 @@ Why aren’t such paintings done in public buildings or spaces anymore? De Botto
 
 The fact that we more often think about “lemon scented hardwood wax or pepper flavored potato chips and only rarely about perseverance and justice is not solely our fault, but also a consequence of the fact that the two virtues have little chance of becoming the clients of the Young & Rubicon advertising agency.”
 
-**Saints**
+## Saints
 
 De Botton then looks at how Catholicism manages our entourage by showing believers a wide range of people they consider the most virtuous people who ever lived. As children talk to their stuffed toys, adults too may consult representations of saints. While talking with a plastic figure of Saint Francis of Asisi, we could imagine it replying with advice for talking to an angry spouse or hysterical children.
 
@@ -132,7 +133,7 @@ He proposes that in the secular world we could be inspired by imaginary conversa
 
 Maybe you’ve sometimes sought guidance from Rationalist Saints [[13]](https://www.astralcodexten.com/p/lives-of-the-rationalist-saints).
 
-**The teaching of humanities in universities**
+## The teaching of humanities in universities
 
 De Botton asks: how will people discover meaning and learning to behave in the absence of a religious paradigm? His answer: “Culture can replace scripture.” To best achieve that, he proposes that the universities of the future should sort information into useful categories:
 
@@ -163,7 +164,7 @@ There are no samples from any of the Franciscan monk’s speeches, but de Botton
 
 De Botton encourages university lectures to aim for the level of passion displayed by African American preachers in Baptist and Pentecostal churches.
 
-**The news**
+## The news
 
 It’s not enough to deliver ideas eloquently, de Botton tells us, they must also be constantly repeated. He sees religions having the wisdom to establish elaborate calendars, lest any month, day or hour pass without administering a carefully calibrated dose of ideas.
 
@@ -209,7 +210,7 @@ De Botton sees science, technology and commerce as supporting the irrational dev
 
 According to de Botton, the domain of marriage could benefit from a philosophy preaching pessimism: “disputes and boredom are not indications of failure, but a sign that life is proceeding according to plan.”
 
-**Count your blessings**
+## Count your blessings
 
 “The secular world does not master the art of being grateful: it does not bring thanks for the harvest, food, bees or good weather.”
 
@@ -225,7 +226,7 @@ At the Wailing Wall in Jerusalem, sorrows are written on small pieces of paper t
 
 For a similar effect, de Botton recommends that we should be interested in science not just for how it helps us control the world, but for showing us things that we will never control, such as giant stars and galaxies. He encourages us to imagine a moment of silence after the evening news, when we are invited to contemplate the vastness of the Universe or screens in public squares displaying live feeds from space telescopes, “displaying sights majestically indifferent towards all that we represent and comfortingly indifferent to what troubles us”.
 
-**The new cathedrals**
+## The new cathedrals
 
 In de Botton’s view, it’s no conIn 1972, 3 days after the revolutionary government in France declared the separation of the state from the Catholic Church, the Louvre museum was inaugurated. Museums have become the new cathedrals.
 
@@ -233,7 +234,7 @@ For Christianity, the purpose of art is to remind us of the things that matter. 
 
 Another example is _The Fourteen Stations of the Cross_ by Eric Gill at Westminster Abbey, which displays what Jesus suffered on his way to being crucified. De Boton hopes to see the creation of a secular equivalent titled _The Twelve Stations of Old Age_.
 
-**“It is up to artists to orchestrate moments of compassion.”**
+## “It is up to artists to orchestrate moments of compassion.”
 
 To de Botton, the true difficulty of communicating ideas through art is that the ideas being communicated appear obvious. That’s why it’s necessary to find new ways to attract attention to “ideas that are tiringly familiar but essential”.
 
@@ -247,13 +248,13 @@ A lone peasant girl pauses her work to listen to a lark singing in the distance
 
 Like in the case of humanities, De Botton argues that we should organize paintings and sculptures according to useful categories.
 
-**“Works of art are not devalued if they are accompanied by instruction manuals.”**
+## “Works of art are not devalued if they are accompanied by instruction manuals.”
 
 De Botton illustrates this with the Buddhism mantra that is to be repeated when looking at mandalas: _Om mani padme hum_ - generosity, morality, patience, diligence, renunciation, wisdom.
 
 Anything a little more descriptive than a title like “Number 125” would be greatly appreciated.
 
-**Architecture**
+## Architecture
 
 De Botton argues that, from an architectural point of view, the modern world is, in a secular sense, protestant. This is supported by recalling that in the first half of the 16th century, protestantism manifested extreme hostility towards visual arts.
 
@@ -270,7 +271,7 @@ On the backcover of my edition of “Religion for Atheists”, the short biograp
 
 The Living Architecture project includes 6 other houses you can book, as well as a currently closed single-bedroom installation located in the Southbank area of London. The stated mission of Living Architecture is to encourage an appreciation for modern architecture.
 
-**Tourism**
+## Tourism
 
 Looking at travel destinations for Christian tourists, de Botton notices the Temples for Genus Loci(local guardian spirits). To this day it is considered that touching the remains of Saint Donatus, renowned for easing the fear of fire and explosives, would be recommended to those afraid of lightning and willing to travel to Bad Münstereifel in Germany, where the remains are located today.
 
@@ -310,7 +311,7 @@ Tenerife
 
 I haven’t visited any of these places. But I admit that when visiting Japan, the top item on my bucket list was visiting the Peace Memorial in Hiroshima, because I wanted the visit to stick as a reminder that there’s hope of recovery even facing the most destructive force humankind has shown itself capable of.
 
-**The importance of institutions**
+## The importance of institutions
 
 At the end of the 13th century, skeptics and atheists began their attack against religion by using mainly books. De Botton argued that those contesting religion failed to understand the fundamental difference between them and their opponents, who used institutions to determine large numbers of people to influence the world through art, architecture, monuments, schools, uniforms, calendars, insignia and rituals.
 
@@ -338,7 +339,7 @@ Another example brought forth by de Botton is from Judaism. In spring, at the fi
 
 For an event to qualify as an experience, it should aim to be as Maslow-complete and address several different levels of need.
 
-**The first Religion of Humanity**
+## The first Religion of Humanity
 
 The blueprint for the project proposed by “Religion for atheists” in 2011 was established in the 19th century by the visionary and “only intermittently sane” French sociologist Auguste Comte [[18]](https://www.goodreads.com/book/show/2278380.The_Catechism_of_Positive_Religion), [[19]](https://www.goodreads.com/book/show/28348342-system-of-positive-polity).
 

@@ -1,5 +1,5 @@
 ---
-title: 'Patrocleia. Book XVI of Homer’s Iliad, adapted by Christopher Logue'
+title: Patrocleia. Book XVI of Homer’s Iliad, adapted by Christopher Logue
 author: Unknown
 reviewAuthor: Anonymous
 contestId: 2026-book-reviews
@@ -13,6 +13,7 @@ source: gdoc
 tags:
   - Fiction
 ---
+
 **_**Book design and typography by Germano Facetti  
 Scorpion Press, London 1962**
 

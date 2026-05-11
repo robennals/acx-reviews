@@ -7,7 +7,7 @@ contestName: 2026 Book Reviews
 year: 2026
 publishedDate: '2026-02-26T03:39:04.000Z'
 slug: stabilizing-an-unstable-economy
-wordCount: 8212
+wordCount: 8218
 readingTimeMinutes: 37
 source: gdoc
 tags:
@@ -37,7 +37,7 @@ This extension of responsibility affects expectations, leading to new risky fina
 
 Minsky’s narrative of the 70s and 80s was one of endogenous and increasing instability. “What we seem to have is a system that sustains instability even as it prevents the deep depressions of the past. Instead of a financial crisis and a deep depression being separated by decades, threats of crisis and deep depression occur every few years; instead of a realized deep depression, we now have chronic inflation.” (p. 106). That is the history Minsky looked back on as he wrote in the mid-1980s, following those harsh recessions and in the midst of instability at contemporary financial institutions (the Savings & Loans Crisis).
 
-**Minsky on Economics**
+## Minsky on Economics
 
 Minsky reviewed contemporary mainstream economics, and he wasn’t shy about his displeasure with it. He is ever colourful, throwing out quotes like “if there is a road to full employment by way of the Patinkin real-balance effect, it may well go by way of hell” (p. 198).
 
@@ -47,7 +47,7 @@ Minsky’s economics had little time for equilibrium analysis, except to critiqu
 
 Minsky was an ardent believer in John Maynard Keynes’s economics, but he wasn’t what we call a “Keynesian”, vehemently disagreeing with how others had interpreted Keynes’s work. Keynes, and particularly his 1936 tome, _The General Theory of Employment, Interest and Money_, loomed large over the field of economics. Keynes, his theories, and their interpretation by economists was so important to Minsky that his only other book, written previously in 1975, is on the topic and is simply titled _John Maynard Keynes_.[[5]](#ftnt5)[[6]](#ftnt6) Keynes shows up very early in SUE, as Minsky claims that “the economy is now behaving in the way that Keynes’s theory holds that a capitalist economy with a fragile structure and big government is expected to behave. The error is in current economic theory, which grossly misinterprets Keynes’s work” (p. 5).
 
-**An aside on Keynes**
+## An aside on Keynes
 
 I was a little taken aback by how seriously Minsky took Keynes, and how important it was to him that we interpret Keynes correctly. Not that I expect anyone to disregard Keynes, but now he seems like something from a far enough past that we reference him historically, rather than seeing him as having relevant opinions over the present. When reading other background material about Minsky I found this comment from Paul Krugman—himself an illustrative example of a modern influential economist—about both Minsky and Keynes: “My basic reaction to discussions about What Minsky Really Meant — and, similarly, to discussions about What Keynes Really Meant — is, I Don’t Care. I mean, intellectual history is a fine endeavor. But for working economists the reason to read old books is for insight, not authority”.[[7]](#ftnt7)
 
@@ -77,7 +77,7 @@ Applying that to a relatively modern example, consider the late 1990s in financi
 
 Minsky saw the world of the 1970s-80s as one with extensive and increasing debt financing of economic activity, by economic actors who formed and acted on expectations based on recent history. Financial activity can grow and even become self-fulfilling, as “rising profits that are the mirror image of an investment boom increase the apparent debt-carrying capacity of profit-earning firms. Once a shift toward increased external and speculative financing develops, market reactions validate the decision to engage in such financing.” (p. 237). The flip side of that coin is that bad economic times can reduce asset prices and require a broad unwinding of debts, creating a debt-deflation and a crisis.
 
-**Crisis and government**
+## Crisis and government
 
 Minsky believed that the government has a duty to prevent depressions. He believed this even with his emphasis on bad incentives and accelerating instability. Such was Minsky’s respect for the negative consequences of severe recessions, and how much he cared for the wellbeing of everyone in the economy.
 
@@ -95,7 +95,7 @@ In Minsky’s view, government is capable of, and obligated to, spend as necessa
 
 Minsky believed that the economy was increasingly unstable and believed that government intervention would only grow through each new bad incentive, causing inflation and laying the seeds for the next recession, yet he felt that it was all necessarily and optimal. Until we can restructure the economy to be fundamentally more stable, that is. Now we get into the promise of the book’s title, with policy ideas to stabilize an unstable economy.
 
-**Policy: Restructuring the economy**
+## Policy: Restructuring the economy
 
 Minsky saw US history as going through a number of different forms of capitalism, with these structural aspects having prominence on economic outcomes. He saw public society as having agency to create a new one. Minsky was inherently activist, writing extensively on policy recommendations through his life and in SUE. He believed in a broad public debate, with no automatic deference to more credentialed authority figures. Thus, “if economics is too important to be left to the economists, it is certainly too important to be left to economist-courtiers. Economic issues must become a serious public matter and the subject of debate if new directions are to be undertaken.” Not only is this viewpoint due to distrust of economists and well-connected public influencers, but also because “unless the public understands the reason for change they will not accept its cost; understanding is the foundation of legitimacy for reform” (p. 321).
 
@@ -113,7 +113,7 @@ The jobs program, if successful, would necessarily be massive. Part of the packa
 
 In the financial industry, Minsky wished for public policy that is “structured to foster and encourage the growth and prosperity of independent, small banks” (p. 355) so they could exist alongside larger banks. He wanted a more activist Federal Reserve that could “regulate the amount and the rate of increase of bank assets” (p. 356) and would shift from open-market operations to the discount window where they would “have a right to look over the shoulder and comment on the adequacy of a bank’s practices” (p. 363). Minsky did not purely want smaller and weaker banks in every way; he also wanted to reduce barriers to entry and to loosen some restrictions on banks (presumably repealing the Glass–Steagall restrictions that separated commercial and investment banking) so they could offer a wider range of services—albeit still with an emphasis on small local banks.
 
-**Humility and adaptability**
+## Humility and adaptability
 
 We’ve seen Minsky’s large program of economic restructuring, which incorporates changes to central banking, to financial regulation, and to fiscal policy. Minsky would create a large employer-of-last-resort government jobs program, paying lower than what would otherwise be minimum wages, such that anyone who loses employment in the private economy can fall back on a low wage public job. This is mainly guided by humanitarian principles, but Minsky also believed this change would lead to more production, less inflation, and more economic stability.
 
@@ -150,7 +150,7 @@ Minsky wanted large deficits during recessions or financial crises, and surpluse
 
 If MMT’s popularity reached high water as the world observed how the large deficits in the 2010s did not lead to inflation, now it is at low tide when even larger deficits during Covid lockdowns were followed by substantial inflation. I expect the proper status is somewhere in the middle; by raising the profile of alternative economic frameworks while asking creative questions and broadening the space of policy options, MMT has the potential to push mainstream economics to review and better resolve its own deficiencies. Much like Minsky, and again not coincidentally.
 
-**Minsky in hindsight**
+## Minsky in hindsight
 
 History turned almost immediately against Minsky. When he published his book, the cycle of escalating broad economic crises stopped. While other countries experienced financial crises, inflation, and defaults, within the US the tight connection of increased leverage, bad incentives, asset booms, inflation, and debt crises did not materialize into a sooner and larger recession and financial crisis again in the 1980s.[[15]](#ftnt15) Sure, there were still recessions, in 1990 and 2001. But not only were these far apart, but the first was short and moderate, and the latter was nearly too moderate to even qualify as a recession. Minsky was right about escalating financial complexity and intertwining in ways escaping traditional regulation, as exemplified by the leveraged boom and subsequent collapse of Long-Term Financial Management (LCTM) in 1998. Yet that crisis was contained without big effects on the real economy and without needing a public bailout. One could argue that the financial risks were still there but broader economic risk was managed by better monetary policy, as famously claimed by Ben Bernanke in his 2004 “Great Moderation” speech. If anything this development would imply that Minsky’s financial focus was an overemphasis and finance need not be centrally represented in our macroeconomic models, and furthermore that government size and spending need not be optimized around ensuring full employment.
 

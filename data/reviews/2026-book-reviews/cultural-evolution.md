@@ -7,7 +7,7 @@ contestName: 2026 Book Reviews
 year: 2026
 publishedDate: '2026-03-31T15:53:29.000Z'
 slug: cultural-evolution
-wordCount: 6562
+wordCount: 6567
 readingTimeMinutes: 30
 source: gdoc
 tags:
@@ -16,7 +16,7 @@ tags:
   - Society
 ---
 
-You may have noticed that in many countries around the world, young people tend to have very different moral values than old people. The young and the old have of course butted heads since antiquity and earlier — the Greek philosophers complained about degenerate youth. But never before has technological and economic change been so rapid that each generation’s life experience is so different from that of the generation before it. What does this imply for the moral values that our life experiences shape?
+You may have noticed that in many countries around the world, young people have very different moral values than old people. The young and the old have of course butted heads since antiquity and earlier — the Greek philosophers complained about degenerate youth. But never before has technological and economic change been so rapid that each generation’s life experience is so different from that of the generation before it. What does this imply for the moral values that our life experiences shape?
 
 Ronald Inglehart, who died in 2021, spent his career studying the changes in people’s values over time, from generation to generation. One of the most-cited political scientists ever, he summarized the findings of his career’s worth of studies in his pithy 2018 book _Cultural Evolution_. The book’s thesis, in a nutshell:
 
@@ -48,7 +48,7 @@ Another school of thought says that of course societies are evolving differently
 
 Modernization does not equal Westernization. Many non-Western societies follow distinct cultural, philosophical, and political trajectories even as Self-expression values shift in strikingly predictable ways. The view that groups of people simply hold different moral values and that these values are innate naively assumes that cultures are static. Inglehart’s work studies one important pattern of how cultures change, and that work predicts trajectories, not destinations.
 
-**Intergenerational Value Change**
+## Intergenerational Value Change
 
 Here’s where the book really gets going. Because [our personalities and values solidify by our mid-twenties](https://journals.sagepub.com/doi/abs/10.1177/0003122420921538), the years before that age have an outsized impact on each person’s conception of the world — and our physical and economic safety within it. These years matter the most for moral value formation. (Genes partially determine our values, too, but they interact heavily with the environment we grow up in.)
 
@@ -74,7 +74,7 @@ All of this is only true of countries that have been experiencing sustained econ
 
 In every society that undergoes the values transition, we see the same fifty-year (plus or minus a few years) time lag. A generation of kids grows up feeling somewhat safer than the generation before it, and that security encodes itself into the values they form as young adults. But they need to age into positions of influence before the change in vibes manifests as changes in policy. This means current economic and health conditions do not predict a society’s moral and political values. Instead, the conditions from forty to fifty years ago predict a society’s moral and political values today. In one study, existential security in 1960 was a stronger predictor than in any other year of society-wide Self-expression values in 2009.
 
-**The Democratic Transition**
+## The Democratic Transition
 
 All of this has a profound effect on democracy, and the relationship is causal. Economic development leads to rising Self-expression values. Then, after assistance or hindrance from each country’s individual culture, these values strongly increase the likelihood of a country transitioning to democracy.
 
@@ -96,7 +96,7 @@ The transition can happen quickly when institutions that had been keeping rising
 
 Democracy lasted for them. Why didn’t it last for Russia? A likely answer, or at least its root cause, is apparent in Inglehart’s data, too.
 
-**Case Studies, Past and Future**
+## Case Studies, Past and Future
 
 His theory isn’t unidirectional. If survival becomes newly precarious, especially for children and teenagers, a society can revert from Self-expression values back to Survival values. (This creates a dark incentive for authoritarians: keep your people poor and unsafe, and your regime can continue. If your country becomes prosperous, your regime only has about fifty years left.)
 
@@ -136,7 +136,7 @@ Economic development brings cognitive mobilization and value changes, in China j
 
 China’s economy likely didn’t provide enough economic security to start the fifty-year timer until the mid-nineties, though. In fact, more than any decade in living memory, the 1990s saw political stabilization and rapid economic growth in many countries, including authoritarian countries. So if Inglehart’s fifty-years rule is correct, we may see a renewed wave of democratization in the 2040s, including in China (barring a new calamity that seriously harms its economy — the economic headwinds facing it lately are probably too small to count).
 
-**Values and Happiness**
+## Values and Happiness
 
 The book has an interesting digression into whether Self-expression values are objectively better than Survival values. Inglehart seems sympathetic to Self-expression values, but he also cautions that Survival values are rational in environments where survival isn’t guaranteed. In forager, pastoralist, or agrarian cultures, if another group wants to take your land, survival really is “a zero-sum struggle between Us and Them,” and xenophobia is rational. In a chaotic world that could deal your death at any moment, a tough, decisive bully who promises order actually could make a good leader. When a high mortality rate threatens your group’s continued existence, “stigmatizing any sexual behavior not linked with reproduction” actually will help.
 
@@ -160,7 +160,7 @@ So Survival values do appear less conducive to happiness than Self-expression va
 
 > _“The desires for freedom and autonomy are universal aspirations. They may be subordinated to the needs for subsistence and order when survival is precarious, but they take increasingly high priority as survival becomes secure.”_
 
-**The Authoritarian Reflex**
+## The Authoritarian Reflex
 
 All of this means that a global transition to Self-expression values is inevitable as long as global economies keep growing, right?
 
@@ -210,7 +210,7 @@ To cap off the bleak final chapters, Inglehart worries that AI will induce an ev
 
 Moreover, much of the World Values Survey data was collected before the advent of digital mass surveillance, algorithmic content control, social media manipulation, AI-enabled disinformation campaigns, and other tools in the “digital authoritarianism” toolkit that help autocrats neutralize dissent at relatively low cost. Whether these will change people’s values and behavior enough to sabotage Inglehart’s theory is unknown.
 
-**Reasons for Optimism**
+## Reasons for Optimism
 
 Despite all this doom and gloom, Inglehart remained hopeful. Even after the 1990s-era optimism about democracy’s global future gave way to the democratic backsliding of the 2010s, he held to his theory. If conditions of economic and physical safety are met and sustained in any given society, Self-expression values will spread, and the society will be increasingly likely to democratize about fifty years later. Inglehart does not believe democracy will continue to withdraw, because the benefits of a modernized economy attract all states, and as economies modernize, Self-expression values increase.
 
@@ -224,7 +224,7 @@ Inglehart also points out:
 
 > _“The long-term trend toward democracy has always moved in surges and declines. At the start of the twentieth century only a handful of democracies existed, and even they were not full democracies by today’s standards. There was a large increase in the number of democracies immediately after World War I, another surge following World War II, and a third surge at the end of the Cold War. Each of these surges was followed by a decline, such as the spread of fascism in the 1930s – and each period of decline stimulated widespread belief that the spread of democracy had ended, and that the wave of the future was fascism (or communism; or bureaucratic authoritarianism). But the number of democracies never fell back to its original base line, and in the long run, each decline was followed by a_ _[renewed spread of democracy](https://www.journalofdemocracy.org/articles/why-the-future-is-democratic)__.”_
 
-**Open Questions**
+## Open Questions
 
 The next wave of the World Values Survey will be finished later this year, so we’ll soon have new data to help us analyze what trajectories we’re on. Meanwhile, the interactions between Inglehart’s theory and several other fields are ripe for exploration. Some questions/ideas that occurred to this reviewer while reading _Cultural Evolution_ (in no particular order):
 
