@@ -104,24 +104,42 @@ test('convertGDocToMarkdown splits a single <p> with <br>+nbsp-run into multiple
   // for the whole multi-paragraph quote and uses <br>&nbsp;…&nbsp; runs
   // to fake paragraph breaks via first-line indents. We need to render
   // these as proper multi-paragraph blockquotes, not one stuck-together
-  // run.
-  const html = `<html><head><style>.c6{margin-left:36pt;margin-right:36pt}</style></head><body><p class="c6"><span>First paragraph of the quote.<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Second paragraph of the quote.<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Third paragraph of the quote.</span></p></body></html>`;
+  // run. Paragraph-shaped content (60+ chars per part) so the
+  // "paragraph-shaped" guard doesn't drop the test as a false positive.
+  const html = `<html><head><style>.c6{margin-left:36pt;margin-right:36pt}</style></head><body><p class="c6"><span>This first paragraph contains enough substantive prose to clearly be a paragraph and not a verse line, with multiple clauses and a final period.<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The second paragraph also contains substantive prose with similar length and structure, again to qualify as a real paragraph.<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The third paragraph rounds out the example with the same shape, comfortably above the sixty-character paragraph threshold.</span></p></body></html>`;
 
   const md = convertGDocToMarkdown(html);
 
-  // Expect three blockquote paragraphs, separated by a blank quote line.
-  // CommonMark's multi-paragraph blockquote separator is "\n>\n".
-  assert.ok(md.includes('First paragraph'), `first para present; got: ${md}`);
-  assert.ok(md.includes('Second paragraph'), `second para present; got: ${md}`);
-  assert.ok(md.includes('Third paragraph'), `third para present; got: ${md}`);
-  // The indent nbsps should be stripped from the new paragraphs.
-  assert.ok(!/Second paragraph.* /.test(md), `indent stripped; got: ${md}`);
-  // Should render as multi-paragraph blockquote (>, blank quote line, >).
+  assert.ok(md.includes('This first paragraph'), `first para present; got: ${md}`);
+  assert.ok(md.includes('The second paragraph'), `second para present; got: ${md}`);
+  assert.ok(md.includes('The third paragraph'), `third para present; got: ${md}`);
   const paragraphSeparators = (md.match(/^>\s*$/gm) || []).length;
   assert.ok(
     paragraphSeparators >= 2,
     `should have 2+ blockquote paragraph separators; got ${paragraphSeparators}: ${md}`
   );
+});
+
+test('convertGDocToMarkdown does NOT split a body paragraph (not blockquoted) with <br>+nbsp runs', async () => {
+  // Without an indent class on the paragraph, the fake-paragraph-break
+  // pattern is more likely artistic spacing than a multi-paragraph quote.
+  const html = `<html><head><style></style></head><body><p><span>This first paragraph contains enough substantive prose to clearly be a paragraph and not a verse line, with multiple clauses and a final period.<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The second paragraph also contains substantive prose with similar length and structure, again to qualify as a real paragraph.</span></p></body></html>`;
+
+  const md = convertGDocToMarkdown(html);
+
+  const sep = (md.match(/^>\s*$/gm) || []).length;
+  assert.equal(sep, 0, `body paragraph should NOT be split; got: ${md}`);
+});
+
+test('convertGDocToMarkdown does NOT split short-line content even if every <br> has an indent', async () => {
+  // Verse-style content where every line happens to start with a first-line
+  // indent should NOT be split. The 60-char-per-part guard protects.
+  const html = `<html><head><style>.c6{margin-left:36pt;margin-right:36pt}</style></head><body><p class="c6"><span>Short verse one.<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Short verse two.<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Short verse three.</span></p></body></html>`;
+
+  const md = convertGDocToMarkdown(html);
+
+  const sep = (md.match(/^>\s*$/gm) || []).length;
+  assert.equal(sep, 0, `short-line content should NOT be split; got: ${md}`);
 });
 
 test('convertGDocToMarkdown does NOT split on a single <br> without an indent', async () => {

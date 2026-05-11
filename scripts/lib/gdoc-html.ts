@@ -153,9 +153,26 @@ function applySemanticTags($: CheerioAPI, styles: GDocStyleMap): void {
     // (verse line breaks plus stanza-internal indent), and splitting there
     // tears bold/italic spans mid-stanza.
     if (indentedBrCount !== totalBrCount) return;
-    const cls = el.attr('class');
-    const parts = html.split(splitRe).map(s => s.trim()).filter(Boolean);
+    // Guard 2: only split when the paragraph is in a blockquote-indent
+    // class. The fake-paragraph-break-via-indent pattern is a feature of
+    // long block quotations specifically; an isolated body paragraph with
+    // internal <br>+nbsp runs is more likely an author's intentional
+    // visual spacing where splitting would surprise them.
+    const cls = el.attr('class') || '';
+    const classes = cls.split(/\s+/);
+    const isIndented = classes.some(c => styles.indentClasses.has(c));
+    if (!isIndented) return;
+    // Guard 3: every resulting paragraph-part must be paragraph-shaped —
+    // at least 60 characters of plain text. Drop empty/whitespace-only
+    // parts first (a leading <span> shell before the first <br>+indent
+    // has no text content, but isn't an actual paragraph). Short
+    // non-empty parts mean we're slicing through a list or short-line
+    // content, not a multi-paragraph quote.
+    const rawParts = html.split(splitRe).map(s => s.trim());
+    const textLen = (p: string) => p.replace(/<[^>]+>/g, '').replace(/&nbsp;|&#160;| /g, ' ').trim().length;
+    const parts = rawParts.filter(p => textLen(p) > 0);
     if (parts.length < 2) return;
+    if (parts.some(p => textLen(p) < 60)) return;
     const classAttr = cls ? ` class="${cls.replace(/"/g, '&quot;')}"` : '';
     const wrappers = parts.map(p => `<p${classAttr}>${p}</p>`).join('');
     el.replaceWith(wrappers);
