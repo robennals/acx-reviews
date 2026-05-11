@@ -276,6 +276,92 @@ test('cleanupMarkdown does NOT promote bold lines when the doc already uses ATX 
   assert.ok(!/^## Bold Section Label/m.test(out), `bold-only line should NOT be promoted; got: ${out}`);
 });
 
+test('cleanupMarkdown dedents indented italic-only lines so they do not render as code blocks', () => {
+  // Real example from "The Sins of GK Chesterton": the gdoc author
+  // used `&nbsp; &nbsp; &nbsp;` to indent alternating poem lines for
+  // visual effect. Those nbsps become real spaces, and any line with
+  // 4+ leading spaces renders as an indented CODE BLOCK in CommonMark.
+  // Strip the leading whitespace from italic-only lines so the italic
+  // styling renders as normal prose.
+  const input = [
+    'Substantive prose above the quote, easily over fifty characters of real text content.',
+    '',
+    '_Oh, I knew a Doctor Gluck,_',
+    '',
+    '     _And his nose it had a hook,_',
+    '',
+    '_And his attitudes were anything but Aryan;_',
+  ].join('\n');
+
+  const out = cleanupMarkdown(input);
+
+  // The 5-space-indented italic line must no longer be at column 4+.
+  assert.ok(!/\n {4,}_/.test(out), `indented italic should be dedented; got: ${out}`);
+  assert.ok(out.includes('_And his nose it had a hook,_'), `italic content preserved; got: ${out}`);
+});
+
+test('cleanupMarkdown wraps multiple italic-only lines + attribution into a single blockquote', () => {
+  // Real example: a quote in poem form (multiple italic lines, each its
+  // own paragraph) followed by a blockquote-list-item attribution like
+  // `> *   _Source Title_`. The gdoc renders these as one visual quote
+  // block; markdown should do the same.
+  const input = [
+    'Substantive prose above the quote that easily exceeds the fifty-character substantive threshold.',
+    '',
+    '_Oh, I knew a Doctor Gluck,_',
+    '',
+    '_And his nose it had a hook,_',
+    '',
+    '_And his attitudes were anything but Aryan;_',
+    '',
+    '> *   _The Logical Vegetarian_',
+    '',
+    'Substantive prose below the quote that also exceeds the substantive threshold for context.',
+  ].join('\n');
+
+  const out = cleanupMarkdown(input);
+
+  // Every italic poem line must be inside the blockquote.
+  assert.ok(/^> _Oh, I knew a Doctor Gluck,_/m.test(out), `first line should be in blockquote; got: ${out}`);
+  assert.ok(/^> _And his nose it had a hook,_/m.test(out), `second line should be in blockquote; got: ${out}`);
+  assert.ok(/^> _And his attitudes were/m.test(out), `third line should be in blockquote; got: ${out}`);
+  // Attribution remains in the blockquote.
+  assert.ok(/^>\s*\*\s+_The Logical Vegetarian_/m.test(out), `attribution stays in blockquote; got: ${out}`);
+});
+
+test('cleanupMarkdown does NOT wrap italic-label followed by a multi-bullet list', () => {
+  // Real example from "The Extended Mind": the italic line is a
+  // section label and the `> *` block below is a list of example
+  // bullets, not a single attribution. Wrapping them as a single quote
+  // would be wrong — the bullets are substantive content, not a
+  // citation.
+  const input = [
+    'Substantive prose above the section label that exceeds the substantive threshold easily.',
+    '',
+    '_From "Thinking with Our Bodies"…_',
+    '',
+    '> *   In an experiment requiring subjects to flip cards, people’s skin conductance began to spike when they contemplated the bad decks.',
+    '> *   Radiologists improved from 85% to 99% diagnostic accuracy when walking on a treadmill.',
+    '> *   Doodling improved retention on a boring listening task by 29%.',
+    '',
+    'Substantive prose below the list that also exceeds the substantive threshold easily.',
+  ].join('\n');
+
+  const out = cleanupMarkdown(input);
+
+  // The italic label should NOT have been wrapped in `>`.
+  assert.ok(out.includes('_From "Thinking with Our Bodies"…_\n'), `italic label should stay unwrapped; got: ${out}`);
+  assert.ok(!/^> _From .Thinking/m.test(out), `italic label should NOT be prefixed with >; got: ${out}`);
+});
+
+test('cleanupMarkdown does NOT wrap standalone italic paragraphs without an attribution', () => {
+  // An isolated italic paragraph (with no attribution line following)
+  // is just an italic-emphasis paragraph. Don't wrap it in a blockquote.
+  const input = 'Substantive prose above that comfortably exceeds fifty characters of normal prose.\n\n_An isolated italic sentence._\n\nSubstantive prose below that also exceeds the substantive threshold easily.';
+  const out = cleanupMarkdown(input);
+  assert.ok(!/^> /m.test(out), `no blockquote should be created; got: ${out}`);
+});
+
 test('cleanupMarkdown does NOT promote a bold attribution line immediately following an italic-only quote', () => {
   // Some authors attribute quotes with bold name only (no em-dash).
   // The italic-only line right above is the giveaway that the bold

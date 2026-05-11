@@ -257,6 +257,54 @@ export function cleanupMarkdown(markdown: string): string {
     // Remove escaped asterisks at line starts (but preserve ** for bold)
     .replace(/^\\(\*[^*])/gm, '$1');
 
+  // Dedent italic-only lines that start with significant leading
+  // whitespace. Some authors indent poem lines via &nbsp; runs for
+  // visual rhythm; after our nbsp→space normalization above, lines with
+  // 4+ leading spaces would render as indented CODE BLOCKS in CommonMark,
+  // turning the italic poetry into grey monospace text. The line is
+  // safe to dedent because the entire content is wrapped in `_`-italic
+  // (`_` is not a meaningful character in indented code blocks).
+  md = md.replace(/^ {4,}(_[^_\n]+_[ \t]*)$/gm, '$1');
+
+  // Quote-block detection: when a run of italic-only paragraphs is
+  // followed (across blank lines) by a single blockquote-list-item
+  // attribution like `> *   _Source_`, the gdoc author intended the
+  // whole thing as one visual quote block. Wrap each italic line with
+  // `>` so the existing adjacent-blockquote-merge step below glues it
+  // all into a single multi-paragraph blockquote.
+  //
+  // Guard: the `> *` line must be standalone — the next non-blank line
+  // after it must NOT be another `> *`. A run of `> *` lines is a
+  // bullet list (e.g. an italic section label followed by multiple
+  // example bullets), not a quote with attribution.
+  {
+    const lines = md.split('\n');
+    const isAttribution = (s: string) => /^>\s*\*\s+\S/.test(s);
+    const isItalicOnly = (s: string) => /^\s*_[^_\n]+_[ \t]*$/.test(s);
+    for (let i = 0; i < lines.length; i++) {
+      if (!isAttribution(lines[i])) continue;
+      // The attribution must be standalone.
+      let k = i + 1;
+      while (k < lines.length && lines[k].trim() === '') k++;
+      if (k < lines.length && isAttribution(lines[k])) continue;
+      // Walk back through blanks and italic-only lines.
+      let start = i;
+      let j = i - 1;
+      while (j >= 0) {
+        if (lines[j].trim() === '') { j--; continue; }
+        if (isItalicOnly(lines[j])) { start = j; j--; continue; }
+        break;
+      }
+      if (start === i) continue; // no italic block precedes
+      for (let m = start; m < i; m++) {
+        if (isItalicOnly(lines[m])) {
+          lines[m] = `> ${lines[m].trim()}`;
+        }
+      }
+    }
+    md = lines.join('\n');
+  }
+
   // Merge adjacent blockquote paragraphs separated by a single blank line
   // into a single multi-paragraph blockquote. We emit one <blockquote> per
   // indented block (to avoid O(N²) DOM moves during the GDoc→HTML pass);
