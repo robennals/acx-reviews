@@ -218,6 +218,83 @@ export function cleanupMarkdown(markdown: string): string {
   // global match is non-overlapping, so a single pass merges chains.
   md = md.replace(/(^>.*)\n\n(?=>)/gm, '$1\n>\n');
 
+  // Normalize thematic-break paragraphs that turndown escaped. When an
+  // author types "***" or "---" as paragraph text (instead of using a
+  // proper Google Docs horizontal rule), turndown half-escapes it (e.g.
+  // "*\*\*" or "\*\*\*"), and the result doesn't render as anything in
+  // the final HTML. Replace each such line with the standard "* * *"
+  // thematic break. Matches lines that consist only of 3+ instances of
+  // the same break character (`*`, `-`, `_`), with any escaping or
+  // spacing — but ONLY when the line is on its own (surrounded by
+  // blanks), to avoid touching legitimate emphasis runs.
+  md = md.replace(
+    /^(?:\\?[*\-_]){3,}\s*$/gm,
+    (line) => {
+      const chars = line.replace(/\\/g, '').replace(/\s/g, '');
+      const c = chars[0];
+      if (chars.length < 3 || !chars.split('').every((x) => x === c)) return line;
+      return `${c} ${c} ${c}`;
+    }
+  );
+
+  // Some gdoc authors hand-format footnotes instead of using the proper
+  // Google Docs footnote feature: a superscript number in the body, and
+  // a "N   content" line at the tail of the doc. Turndown drops the
+  // superscript styling (leaving bare digits glued to surrounding text),
+  // and the bare-digit defs don't match any of lib/footnotes.ts known
+  // formats (sdfootnote / ftnt / fn / plain). Rewrite the tail defs to
+  // bracketed `[N] content` form so extractPlain picks them up and uses
+  // its bare-digit fallback to rewire the body refs.
+  //
+  // Heuristic: walk back from EOF, collecting consecutive "N   content"
+  // lines (allowing blank lines between). Require 2+ such lines to avoid
+  // converting a single coincidentally numbered tail paragraph.
+  {
+    const lines = md.split('\n');
+    let i = lines.length - 1;
+    while (i >= 0 && lines[i].trim() === '') i--;
+    const defIndices: number[] = [];
+    while (i >= 0) {
+      const line = lines[i];
+      if (/^\d+\s{2,}\S/.test(line)) {
+        defIndices.push(i);
+        i--;
+        continue;
+      }
+      if (line.trim() === '') {
+        i--;
+        continue;
+      }
+      break;
+    }
+    if (defIndices.length >= 2) {
+      for (const idx of defIndices) {
+        lines[idx] = lines[idx].replace(/^(\d+)\s{2,}/, '[$1] ');
+      }
+      md = lines.join('\n');
+    }
+  }
+
+  // Fix markdown links that the gdoc author placed *inside* a URL or
+  // domain. e.g. "www.random**[house](wiki/...)**.com" — Google Docs styles
+  // hyperlinks with `font-weight:700` and `color:blue`, which makes the
+  // emitted markdown carry a `**` bold wrapper. Two problems then surface:
+  //   (1) `**` flanked by alphanumeric chars isn't a valid CommonMark bold
+  //       opener, so the literal asterisks leak through to the rendered
+  //       output.
+  //   (2) GFM autolinks `www.random` greedily, swallowing the entire
+  //       `[house](url).com` tail and producing a broken `<a>` tag.
+  // We fix both: drop the `**` and prefix the URL-shaped run with a
+  // zero-width space (U+200B) that's invisible in the rendered output but
+  // prevents GFM's autolink from kicking in. Only `[house]` ends up
+  // clickable, while `www.random` and `.com` render as plain text. Guarded
+  // by a domain-shaped prefix AND a TLD-shaped suffix so standalone links
+  // elsewhere aren't touched.
+  md = md.replace(
+    /(\w+(?:\.\w+)+|www\.[\w-]+)\*\*(\[[^\]\n]+\]\([^)\n]+\))\*\*(\.[A-Za-z]{2,})/g,
+    '​$1$2$3'
+  );
+
   return md.trim();
 }
 

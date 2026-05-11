@@ -368,7 +368,21 @@ function extractPlain(md: string): ExtractedFootnotes {
     return { body: md, footnotes: [] };
   }
 
-  const body = lines.slice(0, firstDefIdx).join('\n').replace(/\s+$/g, '') + '\n';
+  // If the author added their own "Footnotes" heading right before the
+  // defs (e.g. "### Footnotes"), drop it — the render layer adds its own
+  // <h2>Footnotes</h2> and we'd otherwise show a duplicate. Walk back from
+  // firstDefIdx past blanks; if the next non-blank line is a heading that
+  // is just the word "Footnotes", strip from there.
+  let bodyEndIdx = firstDefIdx;
+  {
+    let j = firstDefIdx - 1;
+    while (j >= 0 && lines[j].trim() === '') j--;
+    if (j >= 0 && /^#{1,6}\s+Footnotes\s*$/.test(lines[j])) {
+      bodyEndIdx = j;
+    }
+  }
+
+  const body = lines.slice(0, bodyEndIdx).join('\n').replace(/\s+$/g, '') + '\n';
 
   const defById = new Map<string, string>();
   for (const d of defs) defById.set(d.id, d.content);

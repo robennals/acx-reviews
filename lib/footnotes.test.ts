@@ -171,6 +171,56 @@ test('plain: inline [N] without a matching trailing def is left untouched', () =
   assert.deepEqual(result.footnotes, []);
 });
 
+test('plain: strips a "Footnotes" heading immediately preceding the def block', () => {
+  // The author included their own "Footnotes" subheading. The render layer
+  // already adds a <h2>Footnotes</h2>, so leaving the heading in the body
+  // produces a duplicate.
+  const input = [
+    'Body referring to [1].',
+    '',
+    '### Footnotes',
+    '',
+    '[1] First footnote.',
+    '',
+  ].join('\n');
+
+  const result = extractFootnotes(input);
+  assert.ok(!/Footnotes/.test(result.body), `body should not contain the Footnotes heading; got: ${result.body}`);
+  assert.equal(result.footnotes.length, 1);
+});
+
+test('plain: strips an H2 "Footnotes" heading too', () => {
+  const input = [
+    'Body referring to [1].',
+    '',
+    '## Footnotes',
+    '',
+    '[1] First footnote.',
+    '',
+  ].join('\n');
+
+  const result = extractFootnotes(input);
+  assert.ok(!/^##\s+Footnotes/m.test(result.body), `body should not contain the H2 Footnotes heading; got: ${result.body}`);
+});
+
+test('plain: does NOT strip a "Footnotes" heading that is not immediately before defs', () => {
+  // If there's prose between the heading and the defs, leave the heading
+  // alone — it's referring to something else.
+  const input = [
+    '### Footnotes are an interesting feature of academic writing.',
+    '',
+    'They let an author add commentary without breaking the main argument.',
+    '',
+    '[1] First footnote.',
+    '',
+  ].join('\n');
+
+  const result = extractFootnotes(input);
+  // The original heading should still be there because it's not adjacent
+  // to the def block.
+  assert.ok(result.body.includes('Footnotes are an interesting feature'), `unrelated heading should be preserved; got: ${result.body}`);
+});
+
 test('code blocks containing [1] are not processed', () => {
   const input = [
     'Normal text.[1](#sdfootnote1sym) More.',

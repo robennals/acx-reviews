@@ -19,6 +19,7 @@ import path from 'path';
 import { slugify, countWords, calculateReadingTime } from '../lib/utils';
 import { processImages } from './lib/process-gdoc-images';
 import { fetchGDocAsHTML, convertGDocToMarkdown } from './lib/gdoc-html';
+import { stringifyMarkdown } from './lib/frontmatter';
 
 const REVIEWS_DIR = path.join(process.cwd(), 'data/reviews');
 
@@ -286,27 +287,27 @@ async function createMarkdownFile(
     .map(word => word.charAt(0).toUpperCase() + word.slice(1))
     .join(' ');
 
-  const yamlEscape = (s: string) => s.replace(/\\/g, '\\\\').replace(/"/g, '\\"');
-
+  // Frontmatter as a plain object — stringifyMarkdown emits YAML in the
+  // same default style (unquoted / single-quoted) used by apply-tags and
+  // fetch-from-gdocs, so re-serializations don't churn the quote style.
+  const fm: Record<string, unknown> = {
+    title: data.title,
+    author: 'Unknown',
+    reviewAuthor: data.reviewAuthor,
+    contestId,
+    contestName,
+    year,
+    publishedDate: data.publishedDate,
+    slug,
+    wordCount,
+    readingTimeMinutes: readingTime,
+    source: 'gdoc',
+  };
   // In anonymous mode, omit the original Google Doc URL since it could
   // reveal the author via sharing settings or document owner info.
-  const originalUrlLine = anonymousMode ? '' : `\noriginalUrl: "${data.originalUrl}"`;
+  if (!anonymousMode) fm.originalUrl = data.originalUrl;
 
-  const frontmatter = `---
-title: "${yamlEscape(data.title)}"
-author: "Unknown"
-reviewAuthor: "${yamlEscape(data.reviewAuthor)}"
-contestId: "${contestId}"
-contestName: "${contestName}"
-year: ${year}
-publishedDate: "${data.publishedDate}"
-slug: "${slug}"
-wordCount: ${wordCount}
-readingTimeMinutes: ${readingTime}${originalUrlLine}
-source: "gdoc"
----
-
-${processedContent}`;
+  const frontmatter = stringifyMarkdown(processedContent, fm);
 
   if (applyMode) {
     if (!fs.existsSync(contestDir)) {
@@ -362,7 +363,30 @@ async function main() {
   const rows = parseCsv(csvPath);
   console.log(`Found ${rows.length} valid submissions\n`);
 
-  const processedSlugs = new Set<string>();
+  // Read existing reviews so a re-run is idempotent for already-imported
+  // rows. We key on publishedDate (derived from the CSV timestamp, which
+  // is the form submission time and effectively unique per submission).
+  // Slug collisions for *different* submissions of the same book fall
+  // through to the -N suffix logic below.
+  const importedDates = new Set<string>();
+  const contestDir = path.join(REVIEWS_DIR, contestId);
+  if (fs.existsSync(contestDir)) {
+    for (const f of fs.readdirSync(contestDir)) {
+      if (!f.endsWith('.md')) continue;
+      const content = fs.readFileSync(path.join(contestDir, f), 'utf8');
+      const m = content.match(/^publishedDate: ['"]?([^'"\n]+)['"]?$/m);
+      if (m) importedDates.add(m[1]);
+    }
+    if (importedDates.size > 0) {
+      console.log(`Found ${importedDates.size} existing reviews on disk\n`);
+    }
+  }
+  const processedSlugs = new Set<string>(
+    fs.existsSync(contestDir)
+      ? fs.readdirSync(contestDir).filter(f => f.endsWith('.md')).map(f => f.replace(/\.md$/, ''))
+      : []
+  );
+
   let totalCreated = 0;
   let totalFailed = 0;
   let totalImages = 0;
@@ -376,7 +400,18 @@ async function main() {
     }
 
     const docUrl = `https://docs.google.com/document/d/${docId}`;
+    const publishedDate = parseTimestamp(row.timestamp);
     console.log(`\n📄 "${row.title}" by ${row.name}`);
+
+    // Skip if any existing review has the same publishedDate. The CSV
+    // timestamp is the form-submission time and is effectively unique per
+    // row, so this catches re-runs without re-fetching docs. Same-book
+    // different-submissions have different publishedDates and fall through
+    // to the -N suffix logic below.
+    if (importedDates.has(publishedDate)) {
+      console.log(`  ⏭️  Already imported (publishedDate ${publishedDate} matches existing review)`);
+      continue;
+    }
 
     try {
       const html = await fetchGDocAsHTML(docId);
@@ -389,7 +424,8 @@ async function main() {
         console.log(`  ⚠️  Empty slug for "${title}", using fallback: ${slug}`);
       }
 
-      // Deduplicate slugs within this run
+      // Deduplicate slugs within this run (and against existing files on
+      // disk, which were seeded into processedSlugs at startup).
       if (processedSlugs.has(slug)) {
         let counter = 2;
         while (processedSlugs.has(`${slug}-${counter}`)) counter++;
@@ -403,7 +439,7 @@ async function main() {
         reviewAuthor: anonymousMode ? 'Anonymous' : row.name,
         content: markdown,
         originalUrl: docUrl,
-        publishedDate: parseTimestamp(row.timestamp),
+        publishedDate,
       }, applyMode, anonymousMode);
 
       if (result.wrote) totalCreated++;
