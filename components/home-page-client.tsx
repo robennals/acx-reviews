@@ -220,7 +220,7 @@ export function HomePageClient({ reviews, contests, tags }: HomePageClientProps)
   );
 
   const continueReading = useMemo(() =>
-    reviews
+    filteredReviews
       .filter(r => progressMap[r.id]?.lastReadDate && !progressMap[r.id]?.isComplete && (progressMap[r.id]?.percentComplete ?? 0) > 0)
       .sort((a, b) => {
         const dateA = new Date(progressMap[a.id].lastReadDate).getTime();
@@ -228,7 +228,7 @@ export function HomePageClient({ reviews, contests, tags }: HomePageClientProps)
         return dateB - dateA;
       })
       .slice(0, 2),
-    [reviews, progressMap]
+    [filteredReviews, progressMap]
   );
 
   const sectionTitle = [
