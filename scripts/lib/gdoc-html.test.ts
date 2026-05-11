@@ -372,6 +372,86 @@ test('cleanupMarkdown formats a poetry quote (short italic lines) with line brea
   assert.ok(!/^>\s*$/m.test(verseRegion), `no blank-> lines should appear between verse lines; got: ${verseRegion}`);
 });
 
+test('cleanupMarkdown compacts a multi-paragraph blockquote of short lines (poetry without italic)', () => {
+  // Real example pattern: a blockquote of poem/lyric lines (no italic
+  // styling required) rendered with paragraph breaks between every
+  // line. Should collapse to one verse paragraph with hard line breaks.
+  const input = [
+    'Body context paragraph that easily exceeds fifty characters of normal prose.',
+    '',
+    '> Things fall apart; the centre cannot hold;',
+    '>',
+    '> Mere anarchy is loosed upon the world,',
+    '>',
+    '> The blood-dimmed tide is loosed, and everywhere',
+    '>',
+    '> The ceremony of innocence is drowned;',
+    '',
+    'Another substantive prose paragraph below the quote that exceeds the substantive threshold easily.',
+  ].join('\n');
+
+  const out = cleanupMarkdown(input);
+
+  assert.ok(/^> Things fall apart; the centre cannot hold;  $/m.test(out), `verse line 1 should have trailing 2 spaces; got: ${out}`);
+  assert.ok(/^> Mere anarchy is loosed upon the world,  $/m.test(out), `verse line 2 should have trailing 2 spaces; got: ${out}`);
+  assert.ok(/^> The blood-dimmed tide is loosed, and everywhere  $/m.test(out), `verse line 3 should have trailing 2 spaces; got: ${out}`);
+  assert.ok(/^> The ceremony of innocence is drowned;$/m.test(out), `last verse line should NOT have trailing 2 spaces; got: ${out}`);
+  // No blank-`>` separator should remain between verse lines.
+  const verseRegion = out.slice(out.indexOf('Things fall apart'), out.indexOf('innocence is drowned;') + 25);
+  assert.ok(!/^>\s*$/m.test(verseRegion), `no blank-> between verse lines; got: ${verseRegion}`);
+});
+
+test('cleanupMarkdown does NOT compact a blockquote with one long paragraph mixed in', () => {
+  // If even one paragraph is prose-length, keep paragraph style for
+  // the whole blockquote — mixing line-break + paragraph styles inside
+  // one blockquote is jarring.
+  const input = [
+    'Body context paragraph that easily exceeds fifty characters of normal prose.',
+    '',
+    '> Short line one',
+    '>',
+    '> A much longer prose paragraph that comfortably exceeds the eighty-character poetry threshold and is clearly explanatory prose, not verse.',
+    '>',
+    '> Short line three',
+    '',
+    'Another body paragraph below the blockquote.',
+  ].join('\n');
+
+  const out = cleanupMarkdown(input);
+
+  assert.ok(!/^> Short line one  $/m.test(out), `should NOT add trailing-2-space when a long line is present; got: ${out}`);
+});
+
+test('cleanupMarkdown preserves a blockquote-list-item attribution alongside compacted verse', () => {
+  // The current italic-quote+attribution wrap path emits attribution
+  // as a `> *` list item inside the same blockquote. The poetry
+  // compaction must NOT touch the list item.
+  const input = [
+    'Body context paragraph that easily exceeds fifty characters of normal prose.',
+    '',
+    '_Short verse one_',
+    '',
+    '_Short verse two_',
+    '',
+    '_Short verse three_',
+    '',
+    '> *   _Source Title_',
+    '',
+    'Body context below the quote that exceeds the substantive threshold easily.',
+  ].join('\n');
+
+  const out = cleanupMarkdown(input);
+
+  // Verse lines compacted.
+  assert.ok(/^> _Short verse one_  $/m.test(out), `verse 1 compacted; got: ${out}`);
+  assert.ok(/^> _Short verse two_  $/m.test(out), `verse 2 compacted; got: ${out}`);
+  // Last verse line should NOT have trailing two spaces (it sits
+  // before the attribution and a blank-> separates them).
+  assert.ok(/^> _Short verse three_$/m.test(out), `last verse keeps no trailing space; got: ${out}`);
+  // Attribution list item preserved.
+  assert.ok(/^>\s*\*\s+_Source Title_$/m.test(out), `attribution stays as list item; got: ${out}`);
+});
+
 test('cleanupMarkdown formats a prose quote (long italic lines) with paragraph breaks', () => {
   // When italic lines are longer (clearly prose, not verse), each
   // should be its own paragraph inside the blockquote so the

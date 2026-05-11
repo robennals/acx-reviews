@@ -269,16 +269,11 @@ export function cleanupMarkdown(markdown: string): string {
   // Quote-block detection: when a run of italic-only paragraphs is
   // followed (across blank lines) by a single blockquote-list-item
   // attribution like `> *   _Source_`, the gdoc author intended the
-  // whole thing as one visual quote block. Wrap each italic line with
-  // `>` and emit as a single blockquote.
-  //
-  // Poetry-vs-prose: if every italic line is short (≤80 plain-text
-  // chars), the quote is poetry — emit the italic lines as one
-  // multi-line paragraph inside the blockquote (trailing two spaces
-  // for hard line breaks, no blank-`>` between lines) so the verse
-  // structure renders without huge gaps. Otherwise, emit each as its
-  // own paragraph (existing blockquote-merge step glues them into a
-  // multi-paragraph blockquote downstream).
+  // whole thing as one visual quote block. Prefix each italic line
+  // with `>` so it joins the same blockquote group as the attribution.
+  // The downstream poetry-compaction pass decides whether to render
+  // the italic lines as verse (hard line breaks) or as separate
+  // paragraphs based purely on line length.
   //
   // Guard: the `> *` line must be standalone — the next non-blank line
   // after it must NOT be another `> *`. A run of `> *` lines is a
@@ -286,55 +281,27 @@ export function cleanupMarkdown(markdown: string): string {
   {
     const isAttribution = (s: string) => /^>\s*\*\s+\S/.test(s);
     const isItalicOnly = (s: string) => /^\s*_[^_\n]+_[ \t]*$/.test(s);
-    const POETRY_THRESHOLD = 80;
-    const plainTextLen = (s: string) =>
-      s.trim().replace(/[*_~`>]/g, '').trim().length;
     const lines = md.split('\n');
-    const out: string[] = [];
-    let i = 0;
-    while (i < lines.length) {
-      if (isItalicOnly(lines[i])) {
-        // Collect a run of italic-only paragraphs.
-        const italicIdxs: number[] = [];
-        let j = i;
-        while (j < lines.length) {
-          if (lines[j].trim() === '') { j++; continue; }
-          if (isItalicOnly(lines[j])) { italicIdxs.push(j); j++; continue; }
-          break;
-        }
-        // Check that the next non-blank line is a standalone attribution.
-        let attribIdx = -1;
-        if (j < lines.length && isAttribution(lines[j])) {
-          let k = j + 1;
-          while (k < lines.length && lines[k].trim() === '') k++;
-          if (k >= lines.length || !isAttribution(lines[k])) {
-            attribIdx = j;
-          }
-        }
-        if (italicIdxs.length >= 1 && attribIdx >= 0) {
-          const isPoetry = italicIdxs.every(
-            idx => plainTextLen(lines[idx]) <= POETRY_THRESHOLD
-          );
-          for (let k = 0; k < italicIdxs.length; k++) {
-            const isLast = k === italicIdxs.length - 1;
-            const content = lines[italicIdxs[k]].trim();
-            if (isPoetry && italicIdxs.length >= 2 && !isLast) {
-              out.push(`> ${content}  `); // hard line break
-            } else {
-              out.push(`> ${content}`);
-              if (!isLast && !isPoetry) out.push(''); // paragraph gap (merged later)
-            }
-          }
-          out.push(''); // blank line before attribution
-          out.push(lines[attribIdx]);
-          i = attribIdx + 1;
-          continue;
+    for (let i = 0; i < lines.length; i++) {
+      if (!isAttribution(lines[i])) continue;
+      let k = i + 1;
+      while (k < lines.length && lines[k].trim() === '') k++;
+      if (k < lines.length && isAttribution(lines[k])) continue;
+      let start = i;
+      let j = i - 1;
+      while (j >= 0) {
+        if (lines[j].trim() === '') { j--; continue; }
+        if (isItalicOnly(lines[j])) { start = j; j--; continue; }
+        break;
+      }
+      if (start === i) continue;
+      for (let m = start; m < i; m++) {
+        if (isItalicOnly(lines[m])) {
+          lines[m] = `> ${lines[m].trim()}`;
         }
       }
-      out.push(lines[i]);
-      i++;
     }
-    md = out.join('\n');
+    md = lines.join('\n');
   }
 
   // Merge adjacent blockquote paragraphs separated by a single blank line
@@ -344,6 +311,107 @@ export function cleanupMarkdown(markdown: string): string {
   // Pattern: a blockquote line, blank line, another blockquote line. The
   // global match is non-overlapping, so a single pass merges chains.
   md = md.replace(/(^>.*)\n\n(?=>)/gm, '$1\n>\n');
+
+  // Poetry-compaction pass for blockquotes. A multi-paragraph
+  // blockquote whose every text paragraph is a single short line
+  // (≤80 plain-text chars) is almost always poetry / song lyrics /
+  // short verse-like content. Render those compactly:
+  //   - Each non-last short text paragraph gets a trailing two-space
+  //     hard line break instead of a blank-`>` separator.
+  //   - The result is one multi-line paragraph inside the blockquote
+  //     (rendered with `<br>` between lines) — the visual rhythm of
+  //     verse is preserved without huge per-line vertical gaps.
+  //
+  // List items, nested blockquotes, and headings inside the
+  // blockquote (e.g. a `> *   _Source_` attribution) are passed
+  // through unchanged. If the blockquote contains ANY long text
+  // paragraph or any multi-line text paragraph, we leave the whole
+  // thing alone — prose blockquotes should keep their paragraph
+  // structure.
+  {
+    const POETRY_THRESHOLD = 80;
+    const isQuotePrefix = (s: string) => /^>/.test(s);
+    const isQuoteBlank = (s: string) => /^>\s*$/.test(s);
+    const isQuoteListItem = (s: string) => /^>\s*([-*]\s|\d+\.\s)/.test(s);
+    const isQuoteNested = (s: string) => /^>\s*>/.test(s);
+    const isQuoteHeading = (s: string) => /^>\s*#/.test(s);
+    const isQuoteText = (s: string) =>
+      isQuotePrefix(s) &&
+      !isQuoteBlank(s) &&
+      !isQuoteListItem(s) &&
+      !isQuoteNested(s) &&
+      !isQuoteHeading(s);
+    const plainTextLen = (s: string) =>
+      s.replace(/^>\s*/, '').replace(/[*_~`]/g, '').trim().length;
+
+    const lines = md.split('\n');
+    let i = 0;
+    while (i < lines.length) {
+      if (!isQuotePrefix(lines[i])) { i++; continue; }
+      // Find the extent of this blockquote group (maximal run of `>` lines).
+      const groupStart = i;
+      while (i < lines.length && isQuotePrefix(lines[i])) i++;
+      const groupEnd = i - 1;
+
+      // Within the group, find contiguous spans of text-paragraphs
+      // (each span = consecutive text-paragraphs separated by single
+      // blank-`>` lines). Each text paragraph must be a SINGLE line —
+      // a multi-line paragraph (consecutive non-blank-`>` lines) is
+      // left untouched.
+      let g = groupStart;
+      while (g <= groupEnd) {
+        if (!isQuoteText(lines[g])) { g++; continue; }
+        // Try to extend a run starting at g.
+        const runIdxs: number[] = [];
+        let h = g;
+        while (h <= groupEnd) {
+          if (!isQuoteText(lines[h])) break;
+          // Require this text line to be followed (within the group)
+          // by either a blank-`>` line, the end of the group, or a
+          // non-text quote line (list/nested/heading). If followed by
+          // another text line, it's a multi-line paragraph — abort.
+          const nextIsBlank = h + 1 > groupEnd || isQuoteBlank(lines[h + 1]);
+          const nextIsBoundary = h + 1 > groupEnd ||
+            isQuoteListItem(lines[h + 1]) ||
+            isQuoteNested(lines[h + 1]) ||
+            isQuoteHeading(lines[h + 1]);
+          if (!nextIsBlank && !nextIsBoundary) {
+            // Multi-line paragraph — skip the whole paragraph and
+            // abandon this run.
+            runIdxs.length = 0;
+            while (h <= groupEnd && isQuoteText(lines[h])) h++;
+            break;
+          }
+          runIdxs.push(h);
+          h++;
+          // Skip blank-`>` separators to look for the next text line.
+          while (h <= groupEnd && isQuoteBlank(lines[h])) h++;
+        }
+
+        // Compact runs of 2+ short text paragraphs.
+        if (
+          runIdxs.length >= 2 &&
+          runIdxs.every(idx => {
+            const L = plainTextLen(lines[idx]);
+            return L > 0 && L <= POETRY_THRESHOLD;
+          })
+        ) {
+          // For every non-last entry: add trailing two spaces (hard
+          // line break) and blank out any blank-`>` between this and
+          // the next entry. The last entry stays as-is.
+          for (let k = 0; k < runIdxs.length - 1; k++) {
+            if (!/  $/.test(lines[runIdxs[k]])) lines[runIdxs[k]] = `${lines[runIdxs[k]]}  `;
+            for (let b = runIdxs[k] + 1; b < runIdxs[k + 1]; b++) {
+              lines[b] = ' DEL';
+            }
+          }
+        }
+        g = h;
+      }
+      // Continue scanning past this group.
+    }
+    md = lines.filter(l => l !== ' DEL').join('\n');
+  }
 
   // Normalize thematic-break paragraphs that turndown escaped. When an
   // author types "***" or "---" as paragraph text (instead of using a
