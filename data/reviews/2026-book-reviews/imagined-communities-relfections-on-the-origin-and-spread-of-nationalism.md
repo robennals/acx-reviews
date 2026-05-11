@@ -10,6 +10,10 @@ slug: imagined-communities-relfections-on-the-origin-and-spread-of-nationalism
 wordCount: 4544
 readingTimeMinutes: 21
 source: gdoc
+tags:
+  - History
+  - Politics
+  - Society
 ---
 The concept of nation is such a smashing success so massive that nation, state and nation state are often used interchangeably despite ostensibly being quite different things.
 

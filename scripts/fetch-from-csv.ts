@@ -368,14 +368,22 @@ async function main() {
   // is the form submission time and effectively unique per submission).
   // Slug collisions for *different* submissions of the same book fall
   // through to the -N suffix logic below.
-  const importedDates = new Set<string>();
+  //
+  // We also maintain a publishedDate → filename map so the docId-dedup
+  // branch below can detect and clean up stale files written for the
+  // duplicate row by an older buggy version of the script.
   const contestDir = path.join(REVIEWS_DIR, contestId);
+  const importedDates = new Set<string>();
+  const fileForDate = new Map<string, string>();
   if (fs.existsSync(contestDir)) {
     for (const f of fs.readdirSync(contestDir)) {
       if (!f.endsWith('.md')) continue;
       const content = fs.readFileSync(path.join(contestDir, f), 'utf8');
       const m = content.match(/^publishedDate: ['"]?([^'"\n]+)['"]?$/m);
-      if (m) importedDates.add(m[1]);
+      if (m) {
+        importedDates.add(m[1]);
+        fileForDate.set(m[1], f);
+      }
     }
     if (importedDates.size > 0) {
       console.log(`Found ${importedDates.size} existing reviews on disk\n`);
@@ -406,6 +414,19 @@ async function main() {
     // Skip duplicate docIds within this run.
     if (seenDocIds.has(docId)) {
       console.log(`  ⏭️  Duplicate submission of doc ${docId} — skipping`);
+      // Self-heal: an older version of the script (before docId-dedup)
+      // would have imported this duplicate row as a -N suffix file. If a
+      // file with this row's publishedDate is sitting on disk, it was
+      // written by the buggy old script for this exact row — delete it.
+      const stalePublishedDate = parseTimestamp(row.timestamp);
+      const stale = fileForDate.get(stalePublishedDate);
+      if (stale && applyMode) {
+        const stalePath = path.join(contestDir, stale);
+        fs.unlinkSync(stalePath);
+        importedDates.delete(stalePublishedDate);
+        fileForDate.delete(stalePublishedDate);
+        console.log(`  🧹 Removed stale duplicate from a prior run: ${stale}`);
+      }
       continue;
     }
     seenDocIds.add(docId);
