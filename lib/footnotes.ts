@@ -40,12 +40,38 @@ function detectFormat(md: string): Format {
     return 'ftnt';
   }
   if (/\[\d+\]\(https?:\/\/[^)]*#fn:[^)]+\)/.test(md)) return 'fn';
-  // Plain: a trailing block of `[N] content` lines at end of document
-  // (allowing trailing blank lines and separators like `* * *`).
+  // Plain: there's a trailing footnotes section ending at EOF. A
+  // def-start is either `[N] content` (bracketed inline form) OR — if
+  // the doc has NO bracketed defs at all — a bare `N` on its own line
+  // (the number sits on its own line and the content paragraphs follow
+  // underneath). The exclusivity guard is important: docs that mix
+  // bracketed footnotes with body content like data tables (which
+  // often contain bare numbers on their own lines) would otherwise
+  // get those table values mis-detected as footnote defs.
+  //
+  // Walk back from EOF past trailing separators, blanks, def-starts,
+  // and continuation lines (non-blank non-def lines that have at
+  // least one def-start above them). If we encounter any def-start
+  // in that walk, this is plain format.
   const lines = md.split('\n');
+  const hasBracketed = lines.some(l => /^\[\d+\][ \t]/.test(l));
+  const isDefStart = hasBracketed
+    ? (s: string) => /^\[\d+\][ \t]/.test(s)
+    : (s: string) => /^\[\d+\][ \t]/.test(s) || /^\d+[ \t]*$/.test(s);
+  const defLineIndices: number[] = [];
+  for (let k = 0; k < lines.length; k++) {
+    if (isDefStart(lines[k])) defLineIndices.push(k);
+  }
+  if (defLineIndices.length === 0) return 'none';
   let i = lines.length - 1;
   while (i >= 0 && isTrailingSeparator(lines[i])) i--;
-  if (i >= 0 && /^\[\d+\][ \t]/.test(lines[i])) return 'plain';
+  while (i >= 0) {
+    if (isDefStart(lines[i])) return 'plain';
+    if (lines[i].trim() === '') { i--; continue; }
+    // Non-blank, non-def. Continuation only if some def-line sits above.
+    if (defLineIndices.some(idx => idx < i)) { i--; continue; }
+    break;
+  }
   return 'none';
 }
 
@@ -326,12 +352,25 @@ function extractFn(md: string): ExtractedFootnotes {
 
 function extractPlain(md: string): ExtractedFootnotes {
   const lines = md.split('\n');
-  const isDefStart = (s: string) => /^\[\d+\][ \t]/.test(s);
+  // A def-start is either `[N] content` (bracketed inline) or — if the
+  // doc has NO bracketed defs anywhere — a bare `N` on its own line.
+  // The exclusivity guard matches detectFormat above and prevents bare
+  // table-cell values from being mis-detected as footnote defs.
+  const hasBracketed = lines.some(l => /^\[\d+\][ \t]/.test(l));
+  const matchDefStart = (s: string): { id: string; inline: string } | null => {
+    const m1 = /^\[(\d+)\][ \t](.*)$/.exec(s);
+    if (m1) return { id: m1[1], inline: m1[2] };
+    if (hasBracketed) return null;
+    const m2 = /^(\d+)[ \t]*$/.exec(s);
+    if (m2) return { id: m2[1], inline: '' };
+    return null;
+  };
+  const isDefStart = (s: string) => matchDefStart(s) !== null;
 
-  // Find all `[N] content` def-start lines in the doc. Their indices
-  // let us tell, while walking back, whether a non-def line could
-  // belong to an earlier def (i.e. is footnote-continuation) versus
-  // body content above the footnotes section.
+  // Find all def-start lines in the doc. Their indices let us tell,
+  // while walking back, whether a non-def line could belong to an
+  // earlier def (i.e. is footnote-continuation) versus body content
+  // above the footnotes section.
   const defLineIndices: number[] = [];
   for (let i = 0; i < lines.length; i++) {
     if (isDefStart(lines[i])) defLineIndices.push(i);
@@ -377,23 +416,27 @@ function extractPlain(md: string): ExtractedFootnotes {
   const defs: Array<{ id: string; content: string }> = [];
   let k = firstDefIdx;
   while (k <= endIdx) {
-    const m = /^\[(\d+)\][ \t](.*)$/.exec(lines[k]);
+    const m = matchDefStart(lines[k]);
     if (m) {
-      const id = m[1];
-      const contentLines: string[] = [m[2]];
+      const contentLines: string[] = m.inline ? [m.inline] : [];
       let n = k + 1;
       while (n <= endIdx && !isDefStart(lines[n])) {
         contentLines.push(lines[n]);
         n++;
       }
-      // Trim trailing blank lines off the def's content.
+      // Trim leading blanks (bare-number form puts a blank between the
+      // number and the content) and trailing blanks off the def's
+      // content.
+      while (contentLines.length > 0 && contentLines[0].trim() === '') {
+        contentLines.shift();
+      }
       while (
         contentLines.length > 1 &&
         contentLines[contentLines.length - 1].trim() === ''
       ) {
         contentLines.pop();
       }
-      defs.push({ id, content: contentLines.join('\n').replace(/\s+$/, '') });
+      defs.push({ id: m.id, content: contentLines.join('\n').replace(/\s+$/, '') });
       k = n;
     } else {
       k++;

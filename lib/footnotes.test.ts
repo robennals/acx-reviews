@@ -171,6 +171,57 @@ test('plain: inline [N] without a matching trailing def is left untouched', () =
   assert.deepEqual(result.footnotes, []);
 });
 
+test('plain: detects bracketed defs even when the last def is multi-paragraph (Agatha-style)', () => {
+  // Real example: the last footnote in the file is a multi-paragraph
+  // def whose final paragraph is an indented blockquote. The walk-back
+  // for detectFormat used to look only at the last non-separator line,
+  // see the blockquote line `> "..."`, and conclude "no plain
+  // footnotes here." Should now correctly classify as plain.
+  const input = [
+    'Body referring to [1] and [2].',
+    '',
+    '## Footnotes',
+    '',
+    '[1] Single-line footnote.',
+    '',
+    '[2] First paragraph of the multi-paragraph footnote.',
+    '',
+    '> Indented blockquote line that ends the file.',
+  ].join('\n');
+
+  const result = extractFootnotes(input);
+  assert.equal(result.footnotes.length, 2);
+  assert.ok(result.footnotes[1].raw.includes('blockquote line'), `fn 2 should include the blockquote; got: ${result.footnotes[1].raw}`);
+});
+
+test('plain: handles bare-number footnote-def lines (Nick-Chater-style)', () => {
+  // Real example from "The Mind is Flat": the author put each footnote
+  // number on its own line, followed by content paragraphs, instead of
+  // using the `[N] content` bracketed form.
+  const input = [
+    'Body referring to[1] something[2].',
+    '',
+    '## Footnotes',
+    '',
+    '1',
+    '',
+    'First content paragraph of footnote one.',
+    '',
+    'Second content paragraph still in footnote one.',
+    '',
+    '2',
+    '',
+    'Content of footnote two.',
+  ].join('\n');
+
+  const result = extractFootnotes(input);
+  assert.equal(result.footnotes.length, 2, `expected 2 footnotes; got ${result.footnotes.length}: ${JSON.stringify(result.footnotes.map(f => f.id))}`);
+  assert.deepEqual(result.footnotes.map(f => f.id), ['1', '2']);
+  assert.ok(result.footnotes[0].raw.includes('First content paragraph'), `fn1 first para; got: ${result.footnotes[0].raw}`);
+  assert.ok(result.footnotes[0].raw.includes('Second content paragraph'), `fn1 second para; got: ${result.footnotes[0].raw}`);
+  assert.ok(result.footnotes[1].raw.includes('Content of footnote two'), `fn2; got: ${result.footnotes[1].raw}`);
+});
+
 test('plain: collects multi-paragraph footnote definitions', () => {
   // Real example pattern from "A Christmas Carol": one footnote has
   // several paragraphs separated by blank lines. The old walk-back
