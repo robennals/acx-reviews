@@ -284,6 +284,71 @@ export function cleanupMarkdown(markdown: string): string {
     }
   );
 
+  // Promote bold-only short standalone lines to H2 subheadings. Some
+  // authors style their subheadings as bold (sometimes also underlined
+  // or larger font) instead of using a proper Heading-2 style in
+  // Google Docs. Turndown drops the visual styling, leaving "**Title**"
+  // on a line by itself — which renders as a quiet inline bold span
+  // rather than the prominent section break the author intended.
+  //
+  // Heuristics (all must hold to promote):
+  //   1. The document doesn't already use any `#`-style ATX headings.
+  //      If the author used proper Heading-N styles anywhere, they
+  //      would have used them everywhere — so a bold-only line in such
+  //      a doc is emphasis, not a section title.
+  //   2. The entire line is wrapped in `**...**` and the inner text is
+  //      short (≤100 chars).
+  //   3. The text doesn't end with sentence punctuation
+  //      (`.`, `!`, `?`, `:`, `,`, `;`) — those cases are almost always
+  //      a bold sentence-fragment for emphasis, not a section title.
+  //   4. The line is flanked on BOTH sides (after skipping blank lines)
+  //      by a substantive non-bold-only paragraph (>=50 chars of plain
+  //      text). This rules out tier-list patterns like Bronze/Silver/Gold
+  //      where bold labels are stacked with short data values between
+  //      them — that's a list, not a section break.
+  if (!/^#{1,6}\s+\S/m.test(md)) {
+    const lines = md.split('\n');
+    const isBoldOnly = (s: string) => /^\*\*[^*\n]{1,100}\*\*[ \t]*$/.test(s);
+    const SUBSTANTIVE_CHARS = 50;
+    const nearestNonBlankAbove = (i: number) => {
+      let j = i - 1;
+      while (j >= 0 && lines[j].trim() === '') j--;
+      return j;
+    };
+    const nearestNonBlankBelow = (i: number) => {
+      let j = i + 1;
+      while (j < lines.length && lines[j].trim() === '') j++;
+      return j < lines.length ? j : -1;
+    };
+    const isSubstantivePara = (idx: number) => {
+      if (idx < 0) return false;
+      const l = lines[idx];
+      if (isBoldOnly(l)) return false;
+      // Strip markdown formatting and image/link syntax to get a rough
+      // character count of the plain text on the line.
+      const text = l
+        .replace(/!\[[^\]]*\]\([^)]*\)/g, '')
+        .replace(/\[([^\]]*)\]\([^)]*\)/g, '$1')
+        .replace(/[*_~`>#]/g, '')
+        .trim();
+      return text.length >= SUBSTANTIVE_CHARS;
+    };
+    for (let i = 0; i < lines.length; i++) {
+      const m = /^\*\*([^*\n]{1,100})\*\*[ \t]*$/.exec(lines[i]);
+      if (!m) continue;
+      const text = m[1].trim();
+      if (!text || /[.!?:;,]$/.test(text)) continue;
+      // A line that starts or ends with an em/en-dash (or stray hyphen)
+      // is almost always either a quote attribution (`– Author Name`)
+      // or a trailing sentence fragment, not a section title.
+      if (/^[-–—]|[-–—]$/.test(text)) continue;
+      if (!isSubstantivePara(nearestNonBlankAbove(i))) continue;
+      if (!isSubstantivePara(nearestNonBlankBelow(i))) continue;
+      lines[i] = `## ${text}`;
+    }
+    md = lines.join('\n');
+  }
+
   // Some gdoc authors hand-format footnotes instead of using the proper
   // Google Docs footnote feature: a superscript number in the body, and
   // a "N   content" line at the tail of the doc. Turndown drops the

@@ -131,6 +131,160 @@ test('convertGDocToMarkdown does NOT split a body paragraph (not blockquoted) wi
   assert.equal(sep, 0, `body paragraph should NOT be split; got: ${md}`);
 });
 
+test('cleanupMarkdown promotes a bold-only short line to a level-2 heading', () => {
+  // Real example from Cultural Evolution: the author styled subheadings
+  // as bold-and-underlined text instead of using a proper Heading-2
+  // style. Turndown drops the visual styling, leaving "**Title**" on a
+  // line by itself. Promote those lines to "## Title" so the rendered
+  // page shows them at the same prominence as docs that use proper
+  // headings.
+  const input = [
+    'A substantive prose paragraph that comfortably exceeds fifty characters of plain text.',
+    '',
+    '**Intergenerational Value Change**',
+    '',
+    'Another substantive prose paragraph below the heading, also comfortably above fifty characters.',
+  ].join('\n');
+
+  const out = cleanupMarkdown(input);
+
+  assert.ok(/^## Intergenerational Value Change$/m.test(out), `expected H2; got: ${out}`);
+  assert.ok(!out.includes('**Intergenerational'), `bold marker should be removed; got: ${out}`);
+});
+
+test('cleanupMarkdown does NOT promote when neighbors are too short', () => {
+  // A bold line surrounded by short data values (a tier-list) should
+  // stay bold even if neither short value is itself bold-only.
+  const input = [
+    'Substantive intro paragraph that is comfortably longer than fifty characters of real text content.',
+    '',
+    '25-30%',
+    '',
+    '**Silver**',
+    '',
+    '15-20%',
+    '',
+    'Substantive outro paragraph that is also comfortably longer than fifty characters of real text.',
+  ].join('\n');
+
+  const out = cleanupMarkdown(input);
+  assert.ok(!/^## Silver/m.test(out), `Silver should NOT be promoted; got: ${out}`);
+});
+
+test('cleanupMarkdown does NOT promote a bold sentence-fragment with terminal punctuation', () => {
+  // A bold-wrapped line ending in a period/!/? is almost always a
+  // sentence-as-emphasis, not a heading. Leave it bold.
+  const input = 'Body above.\n\n**This is a really important point.**\n\nBody below.';
+  const out = cleanupMarkdown(input);
+  assert.ok(out.includes('**This is a really important point.**'), `bold sentence should be preserved; got: ${out}`);
+  assert.ok(!/^##\s/m.test(out), `no heading should be inserted; got: ${out}`);
+});
+
+test('cleanupMarkdown does NOT promote a bold span that is not on its own line', () => {
+  const input = 'She thought **carefully** about every word before responding to the question.';
+  const out = cleanupMarkdown(input);
+  assert.equal(out, input);
+});
+
+test('cleanupMarkdown does NOT promote a long bold line (>100 chars)', () => {
+  const longText = 'This is a very long bold passage that almost certainly is a quoted line of intense emphasis rather than a section title';
+  const input = `Body above.\n\n**${longText}**\n\nBody below.`;
+  const out = cleanupMarkdown(input);
+  assert.ok(out.includes(`**${longText}**`), `long bold should be preserved as emphasis; got: ${out}`);
+});
+
+test('cleanupMarkdown does NOT promote bold lines when the doc already uses ATX headings', () => {
+  // If the author chose to use proper `##` headings anywhere in the
+  // doc, any bold-only line is emphasis, not a missed heading.
+  const input = [
+    'A substantive prose paragraph that is comfortably above the fifty-character threshold to count as a real paragraph.',
+    '',
+    '## A Proper Heading',
+    '',
+    'Another substantive prose paragraph that is comfortably above the fifty-character threshold for context.',
+    '',
+    '**Bold Section Label**',
+    '',
+    'A third substantive prose paragraph that is comfortably above the fifty-character threshold of text content.',
+  ].join('\n');
+
+  const out = cleanupMarkdown(input);
+
+  assert.ok(out.includes('**Bold Section Label**'), `bold-only line should stay bold; got: ${out}`);
+  assert.ok(!/^## Bold Section Label/m.test(out), `bold-only line should NOT be promoted; got: ${out}`);
+});
+
+test('cleanupMarkdown does NOT promote a bold quote-attribution line (starts with em-dash)', () => {
+  // Real example from Melmoth the Wanderer: italic quote followed by
+  // bold attribution. The attribution is bold-only, short, no terminal
+  // punctuation — but starts with an en-dash, which signals it's an
+  // attribution.
+  const input = [
+    'A substantive prose paragraph that comfortably exceeds fifty characters of plain text before the quote.',
+    '',
+    '_What a difference between words without meaning, and meaning without words._',
+    '',
+    '**– C.R. Maturin, Melmoth the Wanderer**',
+    '',
+    'Another substantive prose paragraph that comfortably exceeds fifty characters after the attribution.',
+  ].join('\n');
+
+  const out = cleanupMarkdown(input);
+
+  assert.ok(out.includes('**– C.R. Maturin'), `attribution should stay bold; got: ${out}`);
+  assert.ok(!/^## –/m.test(out), `attribution should NOT be promoted; got: ${out}`);
+});
+
+test('cleanupMarkdown does NOT promote a bold line that ends with an em-dash', () => {
+  // Real example: a bold sentence fragment trailing off with an em-dash.
+  const input = [
+    'Substantive prose context paragraph above that is well past fifty characters of normal text.',
+    '',
+    '**As I think I already pointed out, Nazi Germany started out as –**',
+    '',
+    'Substantive prose context paragraph below that is also well past fifty characters of normal text.',
+  ].join('\n');
+
+  const out = cleanupMarkdown(input);
+
+  assert.ok(out.includes('**As I think I already pointed out'), `trailing em-dash fragment should stay bold; got: ${out}`);
+  assert.ok(!/^## As I think/m.test(out), `trailing em-dash fragment should NOT be promoted; got: ${out}`);
+});
+
+test('cleanupMarkdown does NOT promote bold labels in a tier-list pattern', () => {
+  // Real example from "The Signal and the Noise": the author uses bold
+  // labels (Bronze, Silver, Gold) interleaved with short data values.
+  // That's a list, not section breaks — leave bold.
+  const input = [
+    'A substantive paragraph of prose introducing the calibration scoring system that follows below.',
+    '',
+    '**Calibration:**',
+    '',
+    '**Bronze**',
+    '',
+    '25-30%',
+    '',
+    '7,500/10,000',
+    '',
+    '**Silver**',
+    '',
+    '15-20%',
+    '',
+    '**Gold**',
+    '',
+    '5%',
+    '',
+    'A substantive paragraph of prose interpreting what these calibration tiers mean for the analysis.',
+  ].join('\n');
+
+  const out = cleanupMarkdown(input);
+
+  assert.ok(!/^## Bronze/m.test(out), `Bronze should NOT be promoted; got: ${out}`);
+  assert.ok(!/^## Silver/m.test(out), `Silver should NOT be promoted; got: ${out}`);
+  assert.ok(!/^## Gold/m.test(out), `Gold should NOT be promoted; got: ${out}`);
+  assert.ok(out.includes('**Bronze**'), `Bronze should remain bold; got: ${out}`);
+});
+
 test('convertGDocToMarkdown does NOT split short-line content even if every <br> has an indent', async () => {
   // Verse-style content where every line happens to start with a first-line
   // indent should NOT be split. The 60-char-per-part guard protects.

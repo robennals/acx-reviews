@@ -264,6 +264,7 @@ async function createMarkdownFile(
     content: string;
     originalUrl: string;
     publishedDate: string;
+    existingTags?: string[];
   },
   applyMode: boolean,
   anonymousMode: boolean = false,
@@ -306,8 +307,19 @@ async function createMarkdownFile(
   // In anonymous mode, omit the original Google Doc URL since it could
   // reveal the author via sharing settings or document owner info.
   if (!anonymousMode) fm.originalUrl = data.originalUrl;
+  // Preserve any previously-assigned tags. Tags are manual annotations
+  // so they shouldn't disappear when a re-import pulls fresh content.
+  if (data.existingTags && data.existingTags.length > 0) {
+    fm.tags = data.existingTags;
+  }
 
-  const frontmatter = stringifyMarkdown(processedContent, fm);
+  // Prepend a newline to the content so gray-matter emits a blank line
+  // between the closing `---` of the frontmatter and the first body
+  // paragraph. Without this, the output is `---\n${body}` (no blank
+  // line), which is valid CommonMark but inconsistent with how older
+  // ingested files were laid out and produces noisy whitespace-only
+  // diffs on every re-import.
+  const frontmatter = stringifyMarkdown('\n' + processedContent, fm);
 
   if (applyMode) {
     if (!fs.existsSync(contestDir)) {
@@ -363,30 +375,22 @@ async function main() {
   const rows = parseCsv(csvPath);
   console.log(`Found ${rows.length} valid submissions\n`);
 
-  // Read existing reviews so a re-run is idempotent for already-imported
-  // rows. We key on publishedDate (derived from the CSV timestamp, which
-  // is the form submission time and effectively unique per submission).
-  // Slug collisions for *different* submissions of the same book fall
-  // through to the -N suffix logic below.
-  //
-  // We also maintain a publishedDate → filename map so the docId-dedup
-  // branch below can detect and clean up stale files written for the
+  // Read existing reviews so we can (a) overwrite in place when a row's
+  // publishedDate matches one we've already imported (authors can edit
+  // their docs after submission, and we want re-runs to reflect those
+  // edits), and (b) clean up stale duplicate files written for a
   // duplicate row by an older buggy version of the script.
   const contestDir = path.join(REVIEWS_DIR, contestId);
-  const importedDates = new Set<string>();
   const fileForDate = new Map<string, string>();
   if (fs.existsSync(contestDir)) {
     for (const f of fs.readdirSync(contestDir)) {
       if (!f.endsWith('.md')) continue;
       const content = fs.readFileSync(path.join(contestDir, f), 'utf8');
       const m = content.match(/^publishedDate: ['"]?([^'"\n]+)['"]?$/m);
-      if (m) {
-        importedDates.add(m[1]);
-        fileForDate.set(m[1], f);
-      }
+      if (m) fileForDate.set(m[1], f);
     }
-    if (importedDates.size > 0) {
-      console.log(`Found ${importedDates.size} existing reviews on disk\n`);
+    if (fileForDate.size > 0) {
+      console.log(`Found ${fileForDate.size} existing reviews on disk\n`);
     }
   }
   const processedSlugs = new Set<string>(
@@ -423,7 +427,6 @@ async function main() {
       if (stale && applyMode) {
         const stalePath = path.join(contestDir, stale);
         fs.unlinkSync(stalePath);
-        importedDates.delete(stalePublishedDate);
         fileForDate.delete(stalePublishedDate);
         console.log(`  🧹 Removed stale duplicate from a prior run: ${stale}`);
       }
@@ -435,16 +438,9 @@ async function main() {
     const publishedDate = parseTimestamp(row.timestamp);
     console.log(`\n📄 "${row.title}" by ${row.name}`);
 
-    // Skip if any existing review has the same publishedDate. The CSV
-    // timestamp is the form-submission time and is effectively unique per
-    // row, so this catches re-runs without re-fetching docs. Same-book
-    // different-submissions have different publishedDates and fall through
-    // to the -N suffix logic below.
-    if (importedDates.has(publishedDate)) {
-      console.log(`  ⏭️  Already imported (publishedDate ${publishedDate} matches existing review)`);
-      continue;
-    }
-
+    // Always re-fetch the doc. Authors can edit their submission after
+    // the form goes through, so a re-run of this script needs to pick up
+    // the latest content rather than skipping by publishedDate.
     try {
       const html = await fetchGDocAsHTML(docId);
       const markdown = convertGDocToMarkdown(html);
@@ -456,9 +452,17 @@ async function main() {
         console.log(`  ⚠️  Empty slug for "${title}", using fallback: ${slug}`);
       }
 
-      // Deduplicate slugs within this run (and against existing files on
-      // disk, which were seeded into processedSlugs at startup).
-      if (processedSlugs.has(slug)) {
+      // If a file on disk was written for THIS row in a previous run
+      // (matched by publishedDate), reuse its filename so we overwrite
+      // in place — the slug computed from the current CSV title might
+      // differ if the title changed, but it's still the same submission
+      // and we want to update, not create a duplicate.
+      const existingForDate = fileForDate.get(publishedDate);
+      if (existingForDate) {
+        slug = existingForDate.replace(/\.md$/, '');
+      } else if (processedSlugs.has(slug)) {
+        // First-time import with a slug collision against a *different*
+        // submission of the same book — append -N suffix.
         let counter = 2;
         while (processedSlugs.has(`${slug}-${counter}`)) counter++;
         slug = `${slug}-${counter}`;
@@ -466,12 +470,31 @@ async function main() {
       }
       processedSlugs.add(slug);
 
+      // Preserve manually-assigned tags across re-imports. Tags are
+      // applied by scripts/apply-tags.ts from data/review-tags.json
+      // after each ingestion run, but it's safer to keep them in-place
+      // here too so the file is never tagless between fetch-csv and
+      // apply-tags.
+      const filePath = path.join(contestDir, `${slug}.md`);
+      let existingTags: string[] | undefined;
+      if (fs.existsSync(filePath)) {
+        const oldContent = fs.readFileSync(filePath, 'utf8');
+        const tagsMatch = oldContent.match(/^tags:\n((?: {2}- [^\n]+\n)+)/m);
+        if (tagsMatch) {
+          existingTags = tagsMatch[1]
+            .split('\n')
+            .filter(Boolean)
+            .map(l => l.replace(/^ {2}- /, ''));
+        }
+      }
+
       const result = await createMarkdownFile(contestId, slug, {
         title,
         reviewAuthor: anonymousMode ? 'Anonymous' : row.name,
         content: markdown,
         originalUrl: docUrl,
         publishedDate,
+        existingTags,
       }, applyMode, anonymousMode);
 
       if (result.wrote) totalCreated++;
