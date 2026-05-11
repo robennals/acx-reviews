@@ -31,6 +31,45 @@ turndownService.addRule('removeEmptySpans', {
   replacement: () => '',
 });
 
+// Convert <table> to a GFM-style markdown table. Default Turndown drops
+// table structure and just emits each cell as a separate paragraph,
+// which loses the row/column relationship the author was conveying.
+// We treat the first <tr> as the header row (Google Docs exports a
+// flat list of <tr> elements without <thead>/<tbody>, so there's no
+// other obvious header signal).
+turndownService.addRule('gdocTable', {
+  filter: 'table',
+  replacement: (_content, node) => {
+    const el = node as Element;
+    const rows = Array.from(el.querySelectorAll('tr'));
+    if (rows.length === 0) return '';
+    const cellText = (cell: Element): string => {
+      // Strip newlines and table-breaking chars inside a cell so the
+      // row stays on one line. `|` inside a cell is escaped as `\|`
+      // per CommonMark/GFM.
+      return (cell.textContent || '')
+        .replace(/\s+/g, ' ')
+        .replace(/\|/g, '\\|')
+        .trim();
+    };
+    const cellsOf = (row: Element) =>
+      Array.from(row.querySelectorAll('th, td')).map(cellText);
+
+    const headerCells = cellsOf(rows[0]);
+    const colCount = headerCells.length;
+    if (colCount === 0) return '';
+    const headerLine = `| ${headerCells.join(' | ')} |`;
+    const sepLine = `| ${headerCells.map(() => '---').join(' | ')} |`;
+    const bodyLines = rows.slice(1).map(r => {
+      const cells = cellsOf(r);
+      // Pad short rows so the column count is consistent.
+      while (cells.length < colCount) cells.push('');
+      return `| ${cells.slice(0, colCount).join(' | ')} |`;
+    });
+    return ['', headerLine, sepLine, ...bodyLines, ''].join('\n');
+  },
+});
+
 /**
  * Parse the <style> block from a Google Docs HTML export to identify
  * which CSS class names carry bold, italic, or indentation styling.

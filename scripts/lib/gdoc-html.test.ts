@@ -52,6 +52,25 @@ test('cleanupMarkdown preserves a standalone link surrounded by whitespace', () 
   assert.equal(out, input);
 });
 
+test('convertGDocToMarkdown converts a Google Docs <table> to a GFM markdown table', async () => {
+  // Real example pattern from Religion for Atheists: a small 2-column
+  // table that turndown would otherwise flatten into eight unrelated
+  // paragraphs. We want proper `| header | header |\n| --- | --- |`
+  // markdown so it renders as a table on the site.
+  const html = `<html><head><style></style></head><body><table>
+    <tr><td>Defence mechanism</td><td>Destination</td></tr>
+    <tr><td>Denial</td><td>Milton Keynes</td></tr>
+    <tr><td>Repression</td><td>Nantes</td></tr>
+  </table></body></html>`;
+
+  const md = convertGDocToMarkdown(html);
+
+  assert.ok(/^\|\s*Defence mechanism\s*\|\s*Destination\s*\|$/m.test(md), `header row should be in pipe format; got: ${md}`);
+  assert.ok(/^\|\s*---\s*\|\s*---\s*\|$/m.test(md), `separator row should be in pipe format; got: ${md}`);
+  assert.ok(/^\|\s*Denial\s*\|\s*Milton Keynes\s*\|$/m.test(md), `body row 1 should be in pipe format; got: ${md}`);
+  assert.ok(/^\|\s*Repression\s*\|\s*Nantes\s*\|$/m.test(md), `body row 2 should be in pipe format; got: ${md}`);
+});
+
 test('cleanupMarkdown rewrites tail-of-doc bare-number footnote defs to bracketed form', () => {
   // Gdoc author hand-formatted footnotes as superscripted numbers in body
   // and "N   content" lines at the end of the doc. Turndown drops the
