@@ -152,6 +152,68 @@ test('cleanupMarkdown promotes a bold-only short line to a level-2 heading', () 
   assert.ok(!out.includes('**Intergenerational'), `bold marker should be removed; got: ${out}`);
 });
 
+test('cleanupMarkdown DOES promote a bold heading followed by an italic-quote block then prose', () => {
+  // Real example from "The Sins of GK Chesterton": a section heading
+  // followed by several lines of italic-quoted poetry, then the
+  // substantive prose. We walk past italic-only and blockquote lines
+  // when looking for the substantive context.
+  const input = [
+    'A long substantive paragraph above the heading that comfortably exceeds fifty characters of real prose.',
+    '',
+    '**Chesterton’s Circle**',
+    '',
+    '_Before the Roman came to Rye or out to Severn strode,_',
+    '',
+    '_The rolling English drunkard made the rolling English road._',
+    '',
+    '> *   _The Rolling English Road_',
+    '',
+    'Ingrams begins by painting the more familiar picture of GK Chesterton: a jolly, witty buffoon, six foot two and twenty stone.',
+  ].join('\n');
+
+  const out = cleanupMarkdown(input);
+
+  assert.ok(/^## Chesterton/m.test(out), `should be promoted past italic quote; got: ${out}`);
+});
+
+test('cleanupMarkdown DOES promote a bold heading flanked by prose above and a short quote below', () => {
+  // Real example from "War" in Sins of GK Chesterton: substantive prose
+  // above, italic quote below. Either side substantive is enough.
+  const input = [
+    'A long substantive paragraph that wraps up the previous section with plenty of prose content above the next heading.',
+    '',
+    '**War**',
+    '',
+    '_Likelier the barricades shall blare_',
+    '',
+    '_Slaughter below and smoke above,_',
+    '',
+    'And so the substantive discussion of the war section continues from here with significant prose content.',
+  ].join('\n');
+
+  const out = cleanupMarkdown(input);
+
+  assert.ok(/^## War/m.test(out), `should be promoted with prose above + italic below; got: ${out}`);
+});
+
+test('cleanupMarkdown DOES promote when the doc has only a title heading at the very top', () => {
+  // The doc's title becomes a `##` heading; that shouldn't count as the
+  // doc using ATX headings for sections. Promote bolds anyway.
+  const input = [
+    '## The Document Title At The Very Top',
+    '',
+    'A substantive prose paragraph below the title that is comfortably above fifty characters of real prose.',
+    '',
+    '**Section One**',
+    '',
+    'Another substantive prose paragraph that is also comfortably above fifty characters of real prose content.',
+  ].join('\n');
+
+  const out = cleanupMarkdown(input);
+
+  assert.ok(/^## Section One$/m.test(out), `should promote despite title-style heading at top; got: ${out}`);
+});
+
 test('cleanupMarkdown does NOT promote when neighbors are too short', () => {
   // A bold line surrounded by short data values (a tier-list) should
   // stay bold even if neither short value is itself bold-only.
@@ -212,6 +274,26 @@ test('cleanupMarkdown does NOT promote bold lines when the doc already uses ATX 
 
   assert.ok(out.includes('**Bold Section Label**'), `bold-only line should stay bold; got: ${out}`);
   assert.ok(!/^## Bold Section Label/m.test(out), `bold-only line should NOT be promoted; got: ${out}`);
+});
+
+test('cleanupMarkdown does NOT promote a bold attribution line immediately following an italic-only quote', () => {
+  // Some authors attribute quotes with bold name only (no em-dash).
+  // The italic-only line right above is the giveaway that the bold
+  // line is an attribution, not a section heading.
+  const input = [
+    'Substantive prose above the quote that comfortably exceeds the fifty-character substantive threshold.',
+    '',
+    '_In hell I created, I pray tonight_',
+    '',
+    '**Lil Ugly Mane**',
+    '',
+    'Substantive prose below the attribution that also comfortably exceeds the substantive threshold.',
+  ].join('\n');
+
+  const out = cleanupMarkdown(input);
+
+  assert.ok(out.includes('**Lil Ugly Mane**'), `attribution should stay bold; got: ${out}`);
+  assert.ok(!/^## Lil Ugly Mane/m.test(out), `attribution should NOT be promoted; got: ${out}`);
 });
 
 test('cleanupMarkdown does NOT promote a bold quote-attribution line (starts with em-dash)', () => {

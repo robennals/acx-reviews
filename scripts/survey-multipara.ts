@@ -3,6 +3,9 @@
  * Survey tool: fetch each 2026 source doc, run conversion, and report
  * any <p> elements that match the multi-paragraph-quote split criteria
  * (all 3 guards). Lets a human eyeball false positives before shipping.
+ *
+ * Also reports the bold-as-heading promotions that fire in each doc so
+ * the operator can spot-check those for false positives too.
  */
 import 'dotenv/config';
 import fs from 'fs';

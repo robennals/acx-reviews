@@ -306,26 +306,53 @@ export function cleanupMarkdown(markdown: string): string {
   //      text). This rules out tier-list patterns like Bronze/Silver/Gold
   //      where bold labels are stacked with short data values between
   //      them — that's a list, not a section break.
-  if (!/^#{1,6}\s+\S/m.test(md)) {
+  //
+  // A leading ATX heading at the very start of the doc is almost always
+  // the doc's title (the gdoc author used a Heading-1 / Heading-2 style
+  // for the title even though the rest of their structure is bold-only).
+  // It doesn't count as evidence that the doc uses proper headings
+  // throughout, so we look past it.
+  const atxHeadingLines = ((md.split('\n').map((l, i) => ({l, i}))
+    .filter(({l}) => /^#{1,6}\s+\S/.test(l))) || []);
+  const titleAtTop = atxHeadingLines.length > 0 && (() => {
+    const firstIdx = atxHeadingLines[0].i;
+    const linesArr = md.split('\n');
+    for (let i = 0; i < firstIdx; i++) {
+      if (linesArr[i].trim()) return false; // some content precedes — not a title
+    }
+    return true;
+  })();
+  const nonTitleHeadingCount = atxHeadingLines.length - (titleAtTop ? 1 : 0);
+  if (nonTitleHeadingCount === 0) {
     const lines = md.split('\n');
     const isBoldOnly = (s: string) => /^\*\*[^*\n]{1,100}\*\*[ \t]*$/.test(s);
     const SUBSTANTIVE_CHARS = 50;
-    const nearestNonBlankAbove = (i: number) => {
+    // "Transparent" lines that we walk past while looking for the
+    // substantive prose flanking a candidate heading: blanks, italic-only
+    // quote lines, and blockquote lines. These commonly sit between a
+    // section heading and the prose that follows (e.g. an italic-quoted
+    // epigraph), so they shouldn't block the substantive-context check.
+    const isTransparent = (s: string) => {
+      const t = s.trim();
+      if (!t) return true;
+      if (/^_[^_\n]{1,200}_[ \t]*$/.test(t)) return true; // italic-only line
+      if (/^>/.test(t)) return true; // blockquote (incl. blockquote-list items)
+      return false;
+    };
+    const walkAbove = (i: number) => {
       let j = i - 1;
-      while (j >= 0 && lines[j].trim() === '') j--;
+      while (j >= 0 && isTransparent(lines[j])) j--;
       return j;
     };
-    const nearestNonBlankBelow = (i: number) => {
+    const walkBelow = (i: number) => {
       let j = i + 1;
-      while (j < lines.length && lines[j].trim() === '') j++;
+      while (j < lines.length && isTransparent(lines[j])) j++;
       return j < lines.length ? j : -1;
     };
     const isSubstantivePara = (idx: number) => {
       if (idx < 0) return false;
       const l = lines[idx];
       if (isBoldOnly(l)) return false;
-      // Strip markdown formatting and image/link syntax to get a rough
-      // character count of the plain text on the line.
       const text = l
         .replace(/!\[[^\]]*\]\([^)]*\)/g, '')
         .replace(/\[([^\]]*)\]\([^)]*\)/g, '$1')
@@ -333,6 +360,12 @@ export function cleanupMarkdown(markdown: string): string {
         .trim();
       return text.length >= SUBSTANTIVE_CHARS;
     };
+    const nearestNonBlankAbove = (i: number) => {
+      let j = i - 1;
+      while (j >= 0 && lines[j].trim() === '') j--;
+      return j;
+    };
+    const isItalicOnly = (s: string) => /^_[^_\n]{1,200}_[ \t]*$/.test(s.trim());
     for (let i = 0; i < lines.length; i++) {
       const m = /^\*\*([^*\n]{1,100})\*\*[ \t]*$/.exec(lines[i]);
       if (!m) continue;
@@ -342,8 +375,21 @@ export function cleanupMarkdown(markdown: string): string {
       // is almost always either a quote attribution (`– Author Name`)
       // or a trailing sentence fragment, not a section title.
       if (/^[-–—]|[-–—]$/.test(text)) continue;
-      if (!isSubstantivePara(nearestNonBlankAbove(i))) continue;
-      if (!isSubstantivePara(nearestNonBlankBelow(i))) continue;
+      // If the line immediately above (no walking) is an italic-only
+      // quote line, the bold line is almost always an attribution to
+      // that quote, even when the dash convention isn't used.
+      const immAbove = nearestNonBlankAbove(i);
+      if (immAbove >= 0 && isItalicOnly(lines[immAbove])) continue;
+      // EITHER side must have substantive prose nearby (after walking past
+      // transparent quote/blockquote lines). Both-sides-substantive was too
+      // strict: section headings often introduce a quote block before any
+      // prose. Either-side is permissive enough to catch those without
+      // letting tier-list patterns through — tier labels are flanked by
+      // short non-italic non-blockquote data values, which the walk stops
+      // on (and which fail the substantiveness check).
+      const aboveSub = isSubstantivePara(walkAbove(i));
+      const belowSub = isSubstantivePara(walkBelow(i));
+      if (!aboveSub && !belowSub) continue;
       lines[i] = `## ${text}`;
     }
     md = lines.join('\n');
