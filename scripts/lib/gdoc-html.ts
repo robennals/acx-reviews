@@ -131,6 +131,36 @@ function applySemanticTags($: CheerioAPI, styles: GDocStyleMap): void {
     });
   }
 
+  // Split paragraphs where the author faked a paragraph break with
+  // <br> + a run of &nbsp; (first-line indent). Google Docs emits a single
+  // <p> for the entire visual block and uses these break+indent patterns
+  // to separate "paragraphs" inside it. Without splitting, the markdown
+  // collapses into one run; the user sees a wall of text instead of a
+  // multi-paragraph quote. The new <p> elements inherit the original
+  // class so the blockquote-wrap pass below still picks them up.
+  $('p').each(function () {
+    const el = $(this);
+    const html = el.html() || '';
+    // 3+ nbsps after the <br> is the indent threshold — fewer is probably
+    // just a normal line break with a small lead.
+    const splitRe = /<br\s*\/?>\s*(?:(?:&nbsp;| )\s*){3,}/g;
+    const allBrRe = /<br\s*\/?>/g;
+    const indentedBrCount = (html.match(splitRe) || []).length;
+    const totalBrCount = (html.match(allBrRe) || []).length;
+    if (indentedBrCount === 0) return;
+    // Guard: only split when *every* <br> in the paragraph is followed by
+    // an indent. A mix of indented and plain <br>s is almost always poetry
+    // (verse line breaks plus stanza-internal indent), and splitting there
+    // tears bold/italic spans mid-stanza.
+    if (indentedBrCount !== totalBrCount) return;
+    const cls = el.attr('class');
+    const parts = html.split(splitRe).map(s => s.trim()).filter(Boolean);
+    if (parts.length < 2) return;
+    const classAttr = cls ? ` class="${cls.replace(/"/g, '&quot;')}"` : '';
+    const wrappers = parts.map(p => `<p${classAttr}>${p}</p>`).join('');
+    el.replaceWith(wrappers);
+  });
+
   // Blockquote: wrap each indented block in its own <blockquote>. Adjacent
   // single-block blockquotes in the HTML are collapsed into a single
   // multi-paragraph block later, at the markdown level, which avoids the

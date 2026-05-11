@@ -7,7 +7,7 @@ contestName: 2026 Book Reviews
 year: 2026
 publishedDate: '2026-03-21T06:22:55.000Z'
 slug: imagined-communities-relfections-on-the-origin-and-spread-of-nationalism
-wordCount: 4540
+wordCount: 4548
 readingTimeMinutes: 21
 source: gdoc
 tags:
@@ -15,7 +15,6 @@ tags:
   - Politics
   - Society
 ---
-
 The concept of nation is such a smashing success so massive that nation, state and nation state are often used interchangeably despite ostensibly being quite different things.
 
 It has taken over the world in so many ways, to the point where thinking about a state that is _not_ a nation is genuinely hard. I can only come up with the Vatican as a clean example. Everywhere else in the world, we expect a state to be made of at least one nationality of people made expressly to serve those nationalities.
@@ -42,14 +41,17 @@ it is an imagined political community - and imagined as both inherently limited 
 
 He then goes into some more detail:
 
-> It is_imagined_ because the members of even the smallest nation will never know most of their fellow-members, meet them, or even hear of them, yet in the minds of each lives the image of their communion. [...]  
->         The nation is imagined as _limited_ because even the largest of them, encompassing perhaps a billion living human beings has finite, if elastic, boundaries, beyond which lie other nations. No nation imagines itself coterminous with mankind. The most messianic nationalists do not dream of a day when all the members of the human race will join their nation in the way that it was possible [...] for Christians to dream of a wholly Christian planet.  
->         It is imagined as _sovereign_ because the concept was born in an age in which Enlightenment and Revolution were destroying the dynastic legitimacy of the divinely-ordained, hierarchical dynastic realm.[...]  
->         Finally, it is imagined as a _community_, because regardless of the inequality and exploitation that may prevail in each, the nation is always conceived as a deep, horizontal comradeship. Ultimately it is this fraternity that makes possible, over the past two centuries, for so many millions of people, not so much to kill, as willing to die for such limited imaginings.
+> It is _imagined_ because the members of even the smallest nation will never know most of their fellow-members, meet them, or even hear of them, yet in the minds of each lives the image of their communion. [...]
+>
+> The nation is imagined as _limited_ because even the largest of them, encompassing perhaps a billion living human beings has finite, if elastic, boundaries, beyond which lie other nations. No nation imagines itself coterminous with mankind. The most messianic nationalists do not dream of a day when all the members of the human race will join their nation in the way that it was possible [...] for Christians to dream of a wholly Christian planet.
+>
+> It is imagined as _sovereign_ because the concept was born in an age in which Enlightenment and Revolution were destroying the dynastic legitimacy of the divinely-ordained, hierarchical dynastic realm.[...]
+>
+> Finally, it is imagined as a _community_, because regardless of the inequality and exploitation that may prevail in each, the nation is always conceived as a deep, horizontal comradeship. Ultimately it is this fraternity that makes possible, over the past two centuries, for so many millions of people, not so much to kill, as willing to die for such limited imaginings.
 
 He even addresses the common complaint on the same page:
 
-> With a certain ferocity Gellner makes a comparable point when he rules that 'Nationalism is not the awakening of nations to self-consciousness: it_invents_ nations where they do not exist'. The drawback to the formulation, however, is that Gellner is so anxious to show that nationalism masquerades under false pretenses that he assimilates 'invention' to 'fabrication' and 'falsity', rather than to 'imagining' and 'creation'.
+> With a certain ferocity Gellner makes a comparable point when he rules that 'Nationalism is not the awakening of nations to self-consciousness: it _invents_ nations where they do not exist'. The drawback to the formulation, however, is that Gellner is so anxious to show that nationalism masquerades under false pretenses that he assimilates 'invention' to 'fabrication' and 'falsity', rather than to 'imagining' and 'creation'.
 
 ## Nationalism, a worked example
 
@@ -112,10 +114,13 @@ These factors might seem idiosyncratic to the Spanish Empire, but the basic outl
 
 This quote about Indonesia during its revolution in the 1940s is illustrative.[13]
 
-> The case of Indonesia affords a fascinatingly intricate illustration of this process, not least because of its enormous size, huge populations (even in colonial times), geographical fragmentation (about 3000 islands), religious variegation (Muslims, Buddhists, Catholics, assorted protestants, Hindu-Balinese and 'animists') and ethnolinguistic diversity (well over 100 distinct groups) [...]  
->         Nothing nurtured this bonding more than the schools that the regime in Batavia set up in increasing numbers after the turn of the century. [...]  
->         From all over the vast colony, but nowhere outside it, the tender pilgrims made their inward, upward way, meeting fellow-pilgrims from different, perhaps once hostile, villages in primary school; from different ethnolinguistic groups in middle school; and from every part of the realm in the tertiary institutions of the capital. [...]  
->         To put it another way, their common experience, and amiably competitive comradeship in the classroom, gave the maps they studied (always coloured differently from British Malaysia or the American Philippines) a territorially specific imagined reality which everyday was confirmed by the accents and physiognomies of their classmates.  
+> The case of Indonesia affords a fascinatingly intricate illustration of this process, not least because of its enormous size, huge populations (even in colonial times), geographical fragmentation (about 3000 islands), religious variegation (Muslims, Buddhists, Catholics, assorted protestants, Hindu-Balinese and 'animists') and ethnolinguistic diversity (well over 100 distinct groups) [...]
+>
+> Nothing nurtured this bonding more than the schools that the regime in Batavia set up in increasing numbers after the turn of the century. [...]
+>
+> From all over the vast colony, but nowhere outside it, the tender pilgrims made their inward, upward way, meeting fellow-pilgrims from different, perhaps once hostile, villages in primary school; from different ethnolinguistic groups in middle school; and from every part of the realm in the tertiary institutions of the capital. [...]
+>
+> To put it another way, their common experience, and amiably competitive comradeship in the classroom, gave the maps they studied (always coloured differently from British Malaysia or the American Philippines) a territorially specific imagined reality which everyday was confirmed by the accents and physiognomies of their classmates.  
 
 These same university elites would then be the revolutionary class that had been taught to think of all of themselves as a common entity, which they had on hand when they succeeded.
 

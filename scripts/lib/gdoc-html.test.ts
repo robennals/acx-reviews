@@ -1,6 +1,6 @@
 import { test } from 'node:test';
 import assert from 'node:assert/strict';
-import { cleanupMarkdown } from './gdoc-html';
+import { cleanupMarkdown, convertGDocToMarkdown } from './gdoc-html';
 
 test('cleanupMarkdown rewrites a URL-embedded link so only the link text is clickable', async () => {
   // Real example from House of Leaves: gdoc author styled "house" as a
@@ -97,6 +97,58 @@ test('cleanupMarkdown does not rewrite a single trailing "N text" line', () => {
   const input = 'Some body content.\n\n1   A trailing single line that might or might not be a footnote.';
   const out = cleanupMarkdown(input);
   assert.ok(!out.includes('[1]'), `single trailing line should NOT be rewritten; got: ${out}`);
+});
+
+test('convertGDocToMarkdown splits a single <p> with <br>+nbsp-run into multiple blockquote paragraphs', async () => {
+  // Real example from Imagined Communities: Google Docs emits one <p>
+  // for the whole multi-paragraph quote and uses <br>&nbsp;…&nbsp; runs
+  // to fake paragraph breaks via first-line indents. We need to render
+  // these as proper multi-paragraph blockquotes, not one stuck-together
+  // run.
+  const html = `<html><head><style>.c6{margin-left:36pt;margin-right:36pt}</style></head><body><p class="c6"><span>First paragraph of the quote.<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Second paragraph of the quote.<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Third paragraph of the quote.</span></p></body></html>`;
+
+  const md = convertGDocToMarkdown(html);
+
+  // Expect three blockquote paragraphs, separated by a blank quote line.
+  // CommonMark's multi-paragraph blockquote separator is "\n>\n".
+  assert.ok(md.includes('First paragraph'), `first para present; got: ${md}`);
+  assert.ok(md.includes('Second paragraph'), `second para present; got: ${md}`);
+  assert.ok(md.includes('Third paragraph'), `third para present; got: ${md}`);
+  // The indent nbsps should be stripped from the new paragraphs.
+  assert.ok(!/Second paragraph.* /.test(md), `indent stripped; got: ${md}`);
+  // Should render as multi-paragraph blockquote (>, blank quote line, >).
+  const paragraphSeparators = (md.match(/^>\s*$/gm) || []).length;
+  assert.ok(
+    paragraphSeparators >= 2,
+    `should have 2+ blockquote paragraph separators; got ${paragraphSeparators}: ${md}`
+  );
+});
+
+test('convertGDocToMarkdown does NOT split on a single <br> without an indent', async () => {
+  // A normal line break inside a paragraph should stay a line break,
+  // not become a paragraph split.
+  const html = `<html><head><style>.c6{margin-left:36pt;margin-right:36pt}</style></head><body><p class="c6"><span>First line of the verse.<br>Second line of the verse.</span></p></body></html>`;
+
+  const md = convertGDocToMarkdown(html);
+
+  // Should NOT have a blank blockquote separator line.
+  const sep = (md.match(/^>\s*$/gm) || []).length;
+  assert.equal(sep, 0, `verse-style line break should NOT become paragraph break; got: ${md}`);
+});
+
+test('convertGDocToMarkdown does NOT split a poetry-style paragraph that mixes plain and indented <br>', async () => {
+  // Real example from Patrocleia: a stanza with plain verse-line breaks
+  // and one stanza-internal indented line. Both are inside one <p>. We
+  // should NOT split — the plain <br>s show this is verse formatting, and
+  // splitting on the indented one would tear bold spans mid-stanza.
+  const html = `<html><head><style>.c6{margin-left:36pt;margin-right:36pt}</style></head><body><p class="c6"><span>Movement in the air. Gulls lift.<br>Sideslip. Land again. No more.<br>Mindless of everything Achilles said<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Patroclus went for Troy.</span></p></body></html>`;
+
+  const md = convertGDocToMarkdown(html);
+
+  // Should NOT introduce a blank blockquote separator anywhere in this
+  // paragraph — it's one stanza.
+  const sep = (md.match(/^>\s*$/gm) || []).length;
+  assert.equal(sep, 0, `mixed-br paragraph should not be split; got: ${md}`);
 });
 
 test('cleanupMarkdown normalizes thematic-break paragraphs that turndown escaped', () => {
