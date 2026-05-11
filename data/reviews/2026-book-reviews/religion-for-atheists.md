@@ -7,7 +7,7 @@ contestName: 2026 Book Reviews
 year: 2026
 publishedDate: '2026-04-29T10:03:56.000Z'
 slug: religion-for-atheists
-wordCount: 5673
+wordCount: 5701
 readingTimeMinutes: 26
 source: gdoc
 tags:
@@ -277,37 +277,15 @@ Looking at travel destinations for Christian tourists, de Botton notices the Tem
 
 This inspires de Botton to propose a therapeutic travel agency, which would match mental issues with parts of the planet most likely to treat them. For example:
 
-## Defence mechanism
-
-**Destination**
-
-Denial
-
-Milton Keynes
-
-Repression
-
-Nantes
-
-Regression
-
-Freetown
-
-Reaction formation
-
-Sioux Falls, Nagoya
-
-Projection
-
-Jericho
-
-Rationalisation
-
-Vladivostok
-
-Intellectualization
-
-Tenerife
+| Defence mechanism | Destination |
+| --- | --- |
+| Denial | Milton Keynes |
+| Repression | Nantes |
+| Regression | Freetown |
+| Reaction formation | Sioux Falls, Nagoya |
+| Projection | Jericho |
+| Rationalisation | Vladivostok |
+| Intellectualization | Tenerife |
 
 I haven’t visited any of these places. But I admit that when visiting Japan, the top item on my bucket list was visiting the Peace Memorial in Hiroshima, because I wanted the visit to stick as a reminder that there’s hope of recovery even facing the most destructive force humankind has shown itself capable of.
 
