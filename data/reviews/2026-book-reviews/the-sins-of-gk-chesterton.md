@@ -7,7 +7,7 @@ contestName: 2026 Book Reviews
 year: 2026
 publishedDate: '2026-04-22T18:42:53.000Z'
 slug: the-sins-of-gk-chesterton
-wordCount: 7832
+wordCount: 7814
 readingTimeMinutes: 35
 source: gdoc
 tags:
@@ -45,16 +45,11 @@ tags:
 
 ## Chesterton’s Circle
 
-> _Before the Roman came to Rye or out to Severn strode,_
->
-> _The rolling English drunkard made the rolling English road._
->
-> _A reeling road, a rolling road, that rambles round the shire,_
->
-> _And after him the parson ran, the sexton and the squire;_
->
-> _A merry road, a mazy road, and such as we did tread_
->
+> _Before the Roman came to Rye or out to Severn strode,_  
+> _The rolling English drunkard made the rolling English road._  
+> _A reeling road, a rolling road, that rambles round the shire,_  
+> _And after him the parson ran, the sexton and the squire;_  
+> _A merry road, a mazy road, and such as we did tread_  
 > _The night we went to Birmingham by way of Beachy Head._
 >
 > *   _The Rolling English Road_
@@ -95,12 +90,9 @@ Ingrams begins by painting the more familiar picture of GK Chesterton: a jolly, 
 
 ## War
 
-> _Likelier the barricades shall blare_
->
-> _Slaughter below and smoke above,_
->
-> _And death and hate and hell declare_
->
+> _Likelier the barricades shall blare_  
+> _Slaughter below and smoke above,_  
+> _And death and hate and hell declare_  
 > _That men have found a thing to love._
 >
 > *   _The Napoleon of Notting Hill_
@@ -111,16 +103,11 @@ The lenient sentence in the libel trial enabled Cecil and Belloc to claim a mora
 
 ## From the New Jerusalem to Mussolini
 
-> _Oh, I knew a Doctor Gluck,_
->
-> _And his nose it had a hook,_
->
-> _And his attitudes were anything but Aryan;_
->
-> _So I gave him all the pork_
->
-> _That I had, upon a fork;_
->
+> _Oh, I knew a Doctor Gluck,_  
+> _And his nose it had a hook,_  
+> _And his attitudes were anything but Aryan;_  
+> _So I gave him all the pork_  
+> _That I had, upon a fork;_  
 > _Because I am myself a Vegetarian._
 >
 > *   The Logical Vegetarian
@@ -163,16 +150,11 @@ In 1917, the Balfour declaration guaranteed a “national home for the Jewish pe
 
 **A Chesterton De-fense** (sorry)
 
-> _His sins they were forgiven him; or why do flowers run_
->
-> _Behind him; and the hedges all strengthening in the sun?_
->
-> _The wild thing went from left to right and knew not which was which,_
->
-> _But the wild rose was above him when they found him in the ditch._
->
-> _God pardon us, nor harden us; we did not see so clear_
->
+> _His sins they were forgiven him; or why do flowers run_  
+> _Behind him; and the hedges all strengthening in the sun?_  
+> _The wild thing went from left to right and knew not which was which,_  
+> _But the wild rose was above him when they found him in the ditch._  
+> _God pardon us, nor harden us; we did not see so clear_  
 > _The night we went to Bannockburn by way of Brighton Pier._
 >
 > *   _The Rolling English Road_
