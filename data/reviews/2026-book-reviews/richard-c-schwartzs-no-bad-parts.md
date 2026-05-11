@@ -13,6 +13,7 @@ source: gdoc
 tags:
   - Psychology
 ---
+
 **Cast of Characters:**
 
 Manager (MN): an intellectual, age 36  

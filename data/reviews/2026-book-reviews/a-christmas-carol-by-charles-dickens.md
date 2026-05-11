@@ -13,6 +13,7 @@ source: gdoc
 tags:
   - Fiction
 ---
+
 # Scrooge is dead: to begin with.
 
 This must be distinctly understood, or nothing wonderful can come of the story that I am going to review.

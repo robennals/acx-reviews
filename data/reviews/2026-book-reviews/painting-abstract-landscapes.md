@@ -13,6 +13,7 @@ source: gdoc
 tags:
   - Philosophy
 ---
+
 > “[W]hen painting _Ascension_, Edwards found that the painting resolved itself rather too quickly. It was looking too sweet, too illustrative:’I was suspicious of how quickly it had come into being, so I knew I had to disrupt it.’ He threw handfuls of ash at the painting, then picked up a bucket of sludgy turps and threw it over the Rococo cloud forms, letting the deluge fall down the canvas into the field and land area. This disrupted a too easily read picture and created an atmosphere of mystery, of half remembered emotional weather.” (120)
 
 Painting Abstract Landscapes (by Gareth Edwards and Kate Reeve Edwards, 2022) immerses the reader in an aesthetic world that emphasizes the misty, romantic, feelings laden world of the intuitive, the subconscious, in coastal mist, and the world as viewed through feeling and memory. It is grounded in practical, technical opinions on paints, gesso, solvents, and grounds, all at the service of immersing the viewer in that feelings-informed view. Its intended audience is intermediate to advanced painters who want to learn this specific genre. There’s still a lot of good material for a beginner painter, but they would probably be better off taking a traditional landscape painting class in oils first, even if only a weekend workshop.

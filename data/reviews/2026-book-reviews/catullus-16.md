@@ -13,6 +13,7 @@ source: gdoc
 tags:
   - Fiction
 ---
+
 Neoteric poetry was a movement of Roman poetry in the first century BC that, in opposition to the epic poetry that had dominated popular Latin composition to that point, focused on tightly-crafted language and more personal topics.  In the case of Catullus, the most well-known neoteric poet, his poetry touched on such topics as his fierce love for his beloved Lesbia, the everyday life of a Roman aristocrat, and **threats to sodomize his critics**_._  This last topic is the theme of “Catullus 16”, perhaps the most obscene poem ever written in any language.  Let’s dive in.
 
 First, a warning.  There are interpretations of this poem in which it is obscene not just in language but in moral content. If you have any reservations about reading about sexual assault, please feel free to skip this review.  I am not endorsing any of the actions described in the poem in this review and condemn them in the harshest possible terms, even if I do not stop each time the opportunity arises to repeat my condemnation.

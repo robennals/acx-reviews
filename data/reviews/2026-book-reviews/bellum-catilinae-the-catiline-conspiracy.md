@@ -13,6 +13,7 @@ source: gdoc
 tags:
   - History
 ---
+
 ## Why Do Roman Historians Invent Such Good Speeches for Their Enemies?
 
 Imagine you're watching Mulan, the Disney movie. The movie proceeds as usual: a Hun invasion, some musical numbers, the devastation of the Chinese peasantry, _et cetera_. Then comes the first meeting between Mulan and Shanyu on the snowy slopes of Tung Shao Pass. Imagine, however, that instead of growling and playing up the barbarian angle, Shanyu gives a speech to Mulan. A long one, like five solid minutes.

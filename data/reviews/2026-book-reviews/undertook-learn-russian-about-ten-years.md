@@ -13,6 +13,7 @@ source: gdoc
 tags:
   - Fiction
 ---
+
 I undertook to learn Russian about ten years ago just so I could read Dostoyevsky. And, after parsing Бесы (variously translated as “Demons” or “Devils” or “The Possessed”) in its original language—insofar as that was possible, obviously with the help of dictionaries, chatGPT, etc—I now sincerely believe in the existence of demons.
 
 People, like me, who are apt to spend their weekdays reading Star Slate Codex (or Slate Star Codex, or whatever) rather than laboring, would, I imagine, be disposed to scoff when confronted with the proposition that demons exist. “What now: Darwin and his colleagues have scoured the globe long ago; if, as you say, there exist these creatures, _demons_, as you call them, with hooves and fangs and claws and breathing fire, wouldn’t biologists have documented them? Wouldn’t they have a _genus_ and a _clade_ and all those other esoteric Latin incantations that _science_ says all real living creatures must have?”

@@ -13,6 +13,7 @@ source: gdoc
 tags:
   - Psychology
 ---
+
 Marc Andreessen recently explained on the [Founders podcast](https://www.youtube.com/watch?v=qBVe3M2g_SA) that he tries to have "zero" introspection. He thinks it's a waste of time.
 
 When people made fun of him on X, he doubled down and [cited](https://x.com/pmarca/status/2033682420621623751) Nick Chater's _The Mind is Flat_, claiming it provides a “scientific demolition of introspection”.

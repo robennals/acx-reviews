@@ -15,6 +15,7 @@ tags:
   - Politics
   - Society
 ---
+
 The concept of nation is such a smashing success so massive that nation, state and nation state are often used interchangeably despite ostensibly being quite different things.
 
 It has taken over the world in so many ways, to the point where thinking about a state that is _not_ a nation is genuinely hard. I can only come up with the Vatican as a clean example. Everywhere else in the world, we expect a state to be made of at least one nationality of people made expressly to serve those nationalities.

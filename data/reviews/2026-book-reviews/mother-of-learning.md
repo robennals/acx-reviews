@@ -13,6 +13,7 @@ source: gdoc
 tags:
   - Fiction
 ---
+
 ## Introduction:
 
 What do you get when a literal nobody with zero writing credentials sits down to write a free online fantasy story?  Almost all of the time you get a mess.  The story is either unreadable, uninteresting, or is abandoned part way through.  When Nobody103 started writing _Mother of Learning_ that is exactly what happened.1  He wrote the first eight chapters, decided they were not good enough, and started over.  On the second try, he only wrote four chapters before discarding them and again starting over.  On the third try he was satisfied enough with the first four chapters to post them online.  Then he kept writing, averaging a chapter a month over the next nine years.  And somewhere in that process the impossible happened.

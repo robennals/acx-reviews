@@ -14,6 +14,7 @@ tags:
   - Religion
   - History
 ---
+
 Islam is fundamentally a simplification, an Arabized version of the already straightforward strains of Christianity dominant in the Eastern Roman Empire and parts of the Sasanian Empire in the 7th century. Islam’s holy book, the Quran, was written for a desert people whose word for politics, “siyasa,” originally described the management and training of horses and camels.
 
 The core of Christianity was built around a vision of great complexity, in which the Greek demiurge elevated above reality is unaware of the horrors he created. As in the old literary motif of the king who dressed up like an ordinary man, mingling with the poor to know about their actual experience, it’s only when the demiurge enters his own creation and experiences it from within, as an inhabitant, that he can he see the implications of what he fathered: and he becomes a rebel, as well as a king[1].

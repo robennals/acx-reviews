@@ -14,6 +14,7 @@ tags:
   - Society
   - Politics
 ---
+
 In 2024, over 15,000 Americans were murdered by a person wielding a gun.[[1]](#ftnt1) The US murder rate is more than twice the average of other wealthy countries, with the bulk of US murders being committed with a gun.[[2]](#ftnt2)
 
 To reduce this horror requires understanding its causes. But most of us lack that understanding. I know, because even though I’ve thought about these issues a lot, Jens Ludwig’s Unforgiving Places changed my mind. He demonstrates that standard approaches to reducing violent crime have at best modest effects. This is not surprising, because, as he also shows, the underpinnings of our standard approaches do not explain the bulk of violent crime.

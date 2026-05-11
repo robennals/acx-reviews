@@ -13,6 +13,7 @@ source: gdoc
 tags:
   - Fiction
 ---
+
 **Lineages Longer and Purer Than Their Masters’:  
 A Review of** _**The War Nerd Iliad**_ **by John Dolan**
 

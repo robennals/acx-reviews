@@ -15,6 +15,7 @@ tags:
   - Philosophy
   - Society
 ---
+
 A story of a review of a book
 
 * * *

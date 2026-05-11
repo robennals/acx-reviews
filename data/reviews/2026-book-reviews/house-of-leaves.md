@@ -14,6 +14,7 @@ tags:
   - Fiction
   - Philosophy
 ---
+
 _This review is entirely human-written and contains no spoilers beyond the first few pages of the book._
 
 [House](https://en.wikipedia.org/wiki/House_of_Leaves) of Leaves is a famously weird fiction book from 2000 that, like other weird classics, many people want to have read. What's keeping them is 700 pages of confusing formatting, unclear narratives, and tedious subjects. What's drawing them in is that these are deliberate choices in pursuit of a very particular experience.

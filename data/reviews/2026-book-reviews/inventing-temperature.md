@@ -15,6 +15,7 @@ tags:
   - Philosophy
   - History
 ---
+
 ## Coherentism and the case for complementary science
 
 ### A review of Hasok Chang's "Inventing Temperature".
