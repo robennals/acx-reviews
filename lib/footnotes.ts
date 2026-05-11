@@ -326,42 +326,78 @@ function extractFn(md: string): ExtractedFootnotes {
 
 function extractPlain(md: string): ExtractedFootnotes {
   const lines = md.split('\n');
+  const isDefStart = (s: string) => /^\[\d+\][ \t]/.test(s);
+
+  // Find all `[N] content` def-start lines in the doc. Their indices
+  // let us tell, while walking back, whether a non-def line could
+  // belong to an earlier def (i.e. is footnote-continuation) versus
+  // body content above the footnotes section.
+  const defLineIndices: number[] = [];
+  for (let i = 0; i < lines.length; i++) {
+    if (isDefStart(lines[i])) defLineIndices.push(i);
+  }
+  if (defLineIndices.length === 0) {
+    return { body: md, footnotes: [] };
+  }
 
   // Find the trailing def region. Skip trailing blanks and separator rules.
   let endIdx = lines.length - 1;
   while (endIdx >= 0 && isTrailingSeparator(lines[endIdx])) endIdx--;
-  if (endIdx < 0 || !/^\[\d+\][ \t]/.test(lines[endIdx])) {
+  if (endIdx < 0) {
     return { body: md, footnotes: [] };
   }
 
-  // Walk back from endIdx, keeping def-start lines AND blank lines that sit between
-  // defs (the Substack/kramdown-style layout separates each def with a blank line).
-  // Stop at the first non-blank, non-def line — that's the end of the body.
-  let firstDefIdx = endIdx;
-  for (let i = endIdx - 1; i >= 0; ) {
+  // Walk back from endIdx, keeping:
+  //   - def-start lines (`[N] content`)
+  //   - blank lines
+  //   - non-blank, non-def lines IF at least one def-start exists
+  //     earlier in the doc — those lines are continuation paragraphs of
+  //     an earlier footnote def (multi-paragraph footnote content).
+  // Stop when we hit a non-blank, non-def line with no def above it —
+  // that's where the body ends and the trailing footnotes region
+  // begins.
+  let firstDefIdx = -1;
+  for (let i = endIdx; i >= 0; i--) {
     const line = lines[i];
-    if (/^\[\d+\][ \t]/.test(line)) {
+    if (isDefStart(line)) {
       firstDefIdx = i;
-      i--;
       continue;
     }
-    if (line.trim() === '') {
-      // Peek past consecutive blanks; if a def-start is above, keep going.
-      let j = i;
-      while (j >= 0 && lines[j].trim() === '') j--;
-      if (j >= 0 && /^\[\d+\][ \t]/.test(lines[j])) {
-        i = j;
-        continue;
-      }
-      break;
-    }
+    if (line.trim() === '') continue;
+    // Non-blank, non-def. Continuation only if some def-line sits above.
+    if (defLineIndices.some(idx => idx < i)) continue;
     break;
   }
+  if (firstDefIdx < 0) {
+    return { body: md, footnotes: [] };
+  }
 
+  // Collect defs, concatenating continuation paragraphs that follow
+  // each def-start up to the next def-start (or end of region).
   const defs: Array<{ id: string; content: string }> = [];
-  for (let k = firstDefIdx; k <= endIdx; k++) {
+  let k = firstDefIdx;
+  while (k <= endIdx) {
     const m = /^\[(\d+)\][ \t](.*)$/.exec(lines[k]);
-    if (m) defs.push({ id: m[1], content: m[2] });
+    if (m) {
+      const id = m[1];
+      const contentLines: string[] = [m[2]];
+      let n = k + 1;
+      while (n <= endIdx && !isDefStart(lines[n])) {
+        contentLines.push(lines[n]);
+        n++;
+      }
+      // Trim trailing blank lines off the def's content.
+      while (
+        contentLines.length > 1 &&
+        contentLines[contentLines.length - 1].trim() === ''
+      ) {
+        contentLines.pop();
+      }
+      defs.push({ id, content: contentLines.join('\n').replace(/\s+$/, '') });
+      k = n;
+    } else {
+      k++;
+    }
   }
 
   if (defs.length === 0) {

@@ -171,6 +171,42 @@ test('plain: inline [N] without a matching trailing def is left untouched', () =
   assert.deepEqual(result.footnotes, []);
 });
 
+test('plain: collects multi-paragraph footnote definitions', () => {
+  // Real example pattern from "A Christmas Carol": one footnote has
+  // several paragraphs separated by blank lines. The old walk-back
+  // stopped at the first non-def line, so any defs *above* the
+  // multi-paragraph one were lost from the footnotes section and
+  // their body refs stopped resolving.
+  const input = [
+    'Body referring to [1], [2], and [3].',
+    '',
+    '## Footnotes',
+    '',
+    '[1] First footnote, single line.',
+    '',
+    '[2] Second footnote, opens with one paragraph.',
+    '',
+    'Continues with a second paragraph still belonging to footnote 2.',
+    '',
+    'And a third paragraph also still inside footnote 2.',
+    '',
+    '[3] Third footnote, back to single line.',
+  ].join('\n');
+
+  const result = extractFootnotes(input);
+  assert.equal(result.footnotes.length, 3, `expected 3 footnotes; got ${result.footnotes.length}: ${JSON.stringify(result.footnotes.map(f => f.id))}`);
+  assert.deepEqual(result.footnotes.map(f => f.id), ['1', '2', '3']);
+  // The multi-paragraph footnote 2 should include all three paragraphs.
+  const fn2 = result.footnotes.find(f => f.id === '2')!;
+  assert.ok(fn2.raw.includes('Second footnote'), `fn2 starts with first paragraph; got: ${fn2.raw}`);
+  assert.ok(fn2.raw.includes('Continues with a second'), `fn2 includes second paragraph; got: ${fn2.raw}`);
+  assert.ok(fn2.raw.includes('And a third paragraph'), `fn2 includes third paragraph; got: ${fn2.raw}`);
+  // Body refs [1], [2], [3] should all be rewritten to <sup> markers.
+  assert.ok(result.body.includes('data-fn-id="1"'), `body should have ref to 1; got: ${result.body}`);
+  assert.ok(result.body.includes('data-fn-id="2"'), `body should have ref to 2; got: ${result.body}`);
+  assert.ok(result.body.includes('data-fn-id="3"'), `body should have ref to 3; got: ${result.body}`);
+});
+
 test('plain: strips a "Footnotes" heading immediately preceding the def block', () => {
   // The author included their own "Footnotes" subheading. The render layer
   // already adds a <h2>Footnotes</h2>, so leaving the heading in the body
