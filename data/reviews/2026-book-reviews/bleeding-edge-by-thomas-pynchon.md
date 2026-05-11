@@ -7,7 +7,7 @@ contestName: 2026 Book Reviews
 year: 2026
 publishedDate: '2026-04-04T16:17:04.000Z'
 slug: bleeding-edge-by-thomas-pynchon
-wordCount: 6145
+wordCount: 6130
 readingTimeMinutes: 28
 source: gdoc
 tags:
@@ -145,34 +145,20 @@ Pynchon knows the limit he pushes. At a party a few days before the towers go do
 
 I’m struggling on this one, boys and girls. I want to say Faust because not only is Pynchon all-encompassingly knowledgeable while being taken aloft by woman, but Maxine seems to be Faust inverted, and we owe ourselves as critical thinkers to ask: could Faust have solved the case of the mysterious money-movings around the dotcombubble, or who short-sold the two airlines involved in 9/11? And although she doesn’t know everything, she’s damned perceptive and full of heart, so much so that we wouldn’t want to navigate 2001 and 2002 with any other hero. As for finesse, Pynchon can rap too, and when he does, he somehow manages to simultaneously condense his entire oeuvre into a verse, and pay homage to his favorite type of story (282-283):
 
-> “Tryin to do Tupac and Biggie thangs
->
-> With red velvet Chairman Mao piggy banks,
->
-> like Screamin Jay in Hong Kong
->
-> jumpin to wrong conclusions
->
-> old-movie confusions, yo who be dat
->
-> Scandinavian brand of Azian
->
-> ya dig wid some Sigrid be
->
-> the daughter of Kublai Khan
->
-> Warner Oland, Charlie Chan, General Yan,
->
-> bitter tea, for her stupidity pullin rank
->
-> Bette Davis shanked by Gale Sondegaard
->
-> like they as on the yard
->
-> or down in some forgotten cell
->
-> far, far from the corner of
->
+> “Tryin to do Tupac and Biggie thangs  
+> With red velvet Chairman Mao piggy banks,  
+> like Screamin Jay in Hong Kong  
+> jumpin to wrong conclusions  
+> old-movie confusions, yo who be dat  
+> Scandinavian brand of Azian  
+> ya dig wid some Sigrid be  
+> the daughter of Kublai Khan  
+> Warner Oland, Charlie Chan, General Yan,  
+> bitter tea, for her stupidity pullin rank  
+> Bette Davis shanked by Gale Sondegaard  
+> like they as on the yard  
+> or down in some forgotten cell  
+> far, far from the corner of  
 > Mott and Pell—
 
 ## I for Invisibility
@@ -245,8 +231,7 @@ Same thing, really, as I vowed to prove through all the characters in my _Taking
 
 _Ben Jonson’s_ “To the Reader:”
 
-> Pray thee, take care, that tak’st my book in hand,
->
+> Pray thee, take care, that tak’st my book in hand,  
 > To read it well: that is, to understand.
 
 And gall, can Pynchon write a good love story. I’m talking the most you ever believed in love—he captures that. Love, in fact, is what pulled me into _Gravity’s Rainbow_, and what helped me through Shakespeare. Learning how to love, too.

@@ -7,7 +7,7 @@ contestName: 2026 Book Reviews
 year: 2026
 publishedDate: '2026-04-28T17:45:57.000Z'
 slug: the-evolution-of-desire-by-david-buss
-wordCount: 3713
+wordCount: 3753
 readingTimeMinutes: 17
 source: gdoc
 tags:
@@ -124,6 +124,6 @@ I don’t have the time or energy to conduct a comprehensive review of all of th
 Even if Buss’s psychological findings are reliable, they are mostly overshadowed by the unjustified claims about how all of these behaviors are actually biological imperatives from hundreds of thousands of years ago. Buss’s constant speculations about the ancestral environment, what is biological vs. cultural, and what would have been adaptive hundreds of thousands of years ago overshadow his legitimate findings. Ultimately, the evolutionary ideas don’t add any extra explanatory power to anything he’s saying. The valuable evidence is the survey data, cross-cultural studies, and observations of modern behavior. The speculation about evolution adds almost nothing but a cute Just So Story about how the human got his sexuality. It’s a bit edgier than Kipling, but just as imaginary.
 
 - - -
-[1] The Swedish data seems to be reliable, but there is disagreement about whether it represents a cross-cultural trend. [Eagly & Wood (1999)](https://psycnet.apa.org/record/1999-05337-002) found that female preferences are correlated with measures of gender equality, but the result failed to replicate in followup studies by [Zhang & Lee (2019)](https://pubmed.ncbi.nlm.nih.gov/31146580/) and [Walter, et al. (2020)](https://journals.sagepub.com/doi/abs/10.1177/0956797620904154).
+[1] The Swedish data seems to be reliable, but there is disagreement about whether it represents a cross-cultural trend. [Eagly & Wood (1999)](https://psycnet.apa.org/record/1999-05337-002) found that female preferences are correlated with measures of gender equality, but the result failed to replicate in followup studies by [Zhang & Lee (2019)](https://pubmed.ncbi.nlm.nih.gov/31146580/) and [Walter, et al. (2020)](https://journals.sagepub.com/doi/abs/10.1177/0956797620904154). In a recent study, [Murphy et al. (2026)](https://www.pnas.org/doi/10.1073/pnas.2527295123), women indicated in surveys that their attraction to resources fluctuated with relative wealth, while preference for age and physical attractiveness remained constant.
 
-[2] Buss appears to confuse Bushmen of Africa with Aboriginal Australians, which doesn't inspire confidence, though I was unable to access the cited study to confirm.
+[2] Buss appears to confuse Bushmen of Africa with Aboriginal Australians, which doesn't inspire confidence, though I was unable to access the cited study to confirm. Some sources refer to “bushmen” in Australia, but it’s rare.

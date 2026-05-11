@@ -7,7 +7,7 @@ contestName: 2026 Book Reviews
 year: 2026
 publishedDate: '2026-05-03T04:56:43.000Z'
 slug: a-christmas-carol-by-charles-dickens
-wordCount: 5678
+wordCount: 5670
 readingTimeMinutes: 26
 source: gdoc
 tags:
@@ -20,16 +20,11 @@ This must be distinctly understood, or nothing wonderful can come of the story t
 
 * * *
 
-> There'll be parties for hosting
->
-> Marshmallows for toasting
->
-> And caroling out in the snow
->
-> There'll be scary ghost stories
->
-> And tales of the glories
->
+> There'll be parties for hosting  
+> Marshmallows for toasting  
+> And caroling out in the snow  
+> There'll be scary ghost stories  
+> And tales of the glories  
 > Of Christmases long, long ago
 
 Charles Dickens’ _A Christmas Carol_ has planted itself as a foundational fixture of Christmas ever since its publication on December 19th, 1843. The entire first print run sold out before Christmas Eve five days later; it has not been out of print since.
@@ -228,12 +223,9 @@ We can all be like Charlie Brown and lament the commercialization of Christmas, 
 
 I give _A Christmas Carol_ five stars.
 
-> Someday soon we all will be together
->
-> If the fates allow
->
-> Until then, we'll have to muddle through somehow
->
+> Someday soon we all will be together  
+> If the fates allow  
+> Until then, we'll have to muddle through somehow  
 > So have yourself a merry little Christmas now
 
 ## Footnotes

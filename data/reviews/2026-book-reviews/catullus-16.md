@@ -7,8 +7,8 @@ contestName: 2026 Book Reviews
 year: 2026
 publishedDate: '2026-05-10T17:50:38.000Z'
 slug: catullus-16
-wordCount: 4306
-readingTimeMinutes: 20
+wordCount: 4254
+readingTimeMinutes: 19
 source: gdoc
 tags:
   - Fiction
@@ -22,92 +22,53 @@ With the disclaimer out of the way, below is the poem in three forms.  One is th
 
 **Latin**
 
-> Pēdīcābō ego vōs et irrumābō
->
-> Aurēlī pathice et cinaede Fūrī,
->
-> quī mē ex versiculīs meīs putāstis
->
-> quod sunt molliculī, parum pudīcum.
->
-> Nam castum esse decet pium poētam
->
-> ipsum, versiculōs nihil necesse est
->
-> quī tum dēnique habent salem ac lepōrem
->
-> Sī sint molliculī ac parum pudīcī
->
-> et quod prūriat incitāre possint
->
-> nōn dīcō puerīs sed hīs pilōsīs
->
-> quī dūrōs nequeunt movēre lumbōs.
->
-> Vōs quod mīlia multa bāsiōrum
->
-> lēgistis male mē marem putātis?
->
+> Pēdīcābō ego vōs et irrumābō  
+> Aurēlī pathice et cinaede Fūrī,  
+> quī mē ex versiculīs meīs putāstis  
+> quod sunt molliculī, parum pudīcum.  
+> Nam castum esse decet pium poētam  
+> ipsum, versiculōs nihil necesse est  
+> quī tum dēnique habent salem ac lepōrem  
+> Sī sint molliculī ac parum pudīcī  
+> et quod prūriat incitāre possint  
+> nōn dīcō puerīs sed hīs pilōsīs  
+> quī dūrōs nequeunt movēre lumbōs.  
+> Vōs quod mīlia multa bāsiōrum  
+> lēgistis male mē marem putātis?  
 > Pēdīcābō ego vōs et irrumābō
 
 **Wikipedia**
 
-> I will sodomize you and face-fuck you,
->
-> cocksucker Aurelius and butt-boy Furius,
->
-> who think, from my little verses,
->
-> because they're a little soft, that I have no shame.
->
-> For it is right for the devoted poet to be chaste
->
-> himself, but it's not necessary for his verses to be so.
->
-> [Verses] which then indeed have taste and charm,
->
-> If they are delicate and have no shame,
->
-> And because they can incite an itch,
->
-> And I don't mean in boys, but in
->
-> Those hairy men who can't move their loins.
->
-> You, because [about] my many thousands of kisses
->
-> You've read, you think me less of a man?
->
+> I will sodomize you and face-fuck you,  
+> cocksucker Aurelius and butt-boy Furius,  
+> who think, from my little verses,  
+> because they're a little soft, that I have no shame.  
+> For it is right for the devoted poet to be chaste  
+> himself, but it's not necessary for his verses to be so.  
+> [Verses] which then indeed have taste and charm,  
+> If they are delicate and have no shame,  
+> And because they can incite an itch,  
+> And I don't mean in boys, but in  
+> Those hairy men who can't move their loins.  
+> You, because [about] my many thousands of kisses  
+> You've read, you think me less of a man?  
 > I will sodomize you and face-fuck you.[1]
 
 **Zukofsky**
 
-> Piping, beaus, I’ll go whoosh and I’ll rumble you
->
-> pathic Aurelius and catamount Furius,
->
-> who mix my versicles with your poor tasties—
->
-> the sound is a mollycoddle’s, I’m not up
->
-> to par for chasteness. But the pious poet
->
-> is chaste, his versicles not nailed to his need,
->
-> quick to themselves with no lack of decorum,
->
-> if the sound models not quite pure for pudency
->
-> what incitement it carries passes into
->
-> now I won’t say hairless boys’, but such hoary
->
-> necks as endure not quite up to feel lumbar.
->
-> Milling thousands of kisses are base or make
->
-> me out some mare of a male—you impute that?
->
+> Piping, beaus, I’ll go whoosh and I’ll rumble you  
+> pathic Aurelius and catamount Furius,  
+> who mix my versicles with your poor tasties—  
+> the sound is a mollycoddle’s, I’m not up  
+> to par for chasteness. But the pious poet  
+> is chaste, his versicles not nailed to his need,  
+> quick to themselves with no lack of decorum,  
+> if the sound models not quite pure for pudency  
+> what incitement it carries passes into  
+> now I won’t say hairless boys’, but such hoary  
+> necks as endure not quite up to feel lumbar.  
+> Milling thousands of kisses are base or make  
+> me out some mare of a male—you impute that?  
 > Piping, beaus, I’ll go whoosh and I’ll rumble you.
 
 ### What is going on here?
@@ -124,16 +85,11 @@ He devotes two other _carmina_ to each of them, which gives a little more insigh
 
 So perhaps the most straightforward reading of this poem is that Catullus is lashing out at two former friends, after the relationships have soured over love and money.  The final straw comes when he hears that Aurelius and Furius are mocking him for his poem Catullus 5, in which he writes to Lesbia,
 
-> Dā mī bāsia mīlle, deinde centum,
->
-> dein mīlle altera, dein secunda centum,
->
-> deinde ūsque altera mīlle, deinde centum;
->
-> Give me a thousand kisses, then a hundred,
->
-> then another thousand, then a second hundred,
->
+> Dā mī bāsia mīlle, deinde centum,  
+> dein mīlle altera, dein secunda centum,  
+> deinde ūsque altera mīlle, deinde centum;  
+> Give me a thousand kisses, then a hundred,  
+> then another thousand, then a second hundred,  
 > then yet another thousand, then a hundred;
 
 Notice the parallelism of that poem with Catullus 16, in which he writes “_Vōs quod mīlia multa bāsiōrum”_ -- essentially, they are making fun of him for how much he loves to kiss his girlfriend.
@@ -142,14 +98,10 @@ In this reading of the poem, then, we have a clear narrative: a slighted artist 
 
 The parallels are obvious.  Compare to, say, Nas’s “Ether,” the legendary diss of Jay-Z that has become a by-word for destroying someone’s reputation on a rap song:
 
-> Is he Dame Diddy, Dame Daddy or Dame Dummy?
->
-> Oh, I get it, you Biggie and he's Puffy
->
-> Rockafeller died of AIDS, that was the end of his chapter
->
-> And that's the guy y'all chose to name your company after?
->
+> Is he Dame Diddy, Dame Daddy or Dame Dummy?  
+> Oh, I get it, you Biggie and he's Puffy  
+> Rockafeller died of AIDS, that was the end of his chapter  
+> And that's the guy y'all chose to name your company after?  
 > Put it together, I rock hoes, y'all rock fellas
 
 Or Ice Cube on “No Vaseline,” hitting back after leaving NWA:
@@ -184,8 +136,7 @@ irascere iterum meis iambis
 
 immerentibus, unice imperator
 
-> you are going to be angry at my iambics once again,
->
+> you are going to be angry at my iambics once again,  
 > sole Imperator (Caesar), though they don’t deserve it.[2]
 
 Per Suetonius, Catullus later apologized and Caesar graciously invited him to dinner the same day.  So there is a history of Catullus, in jest, insulting someone who at the time was the most powerful man in the Republic -- some playful back-and-forth with friends seems in character for the poet.  
@@ -206,12 +157,9 @@ Even in my treatment of the poem so far, I’ve focused an outsized amount of at
 
 I would venture to say… maybe.  There’s some good stuff in these eleven lines.  There’s the onomatopoeic alliteration in the p’s of the first few lines (all the _putāstis_ and _parum pudīcum_) which suggest the poet is spitting on his subjects.  There’s the cavalcade of m’s later on, which is preserved in Zukofsky’s translation:
 
-> Vōs quod mīlia multa bāsiōrum
->
-> lēgistis male mē marem putātis
->
-> Milling thousands of kisses are base or make
->
+> Vōs quod mīlia multa bāsiōrum  
+> lēgistis male mē marem putātis  
+> Milling thousands of kisses are base or make  
 > me out some mare of a male—you impute that?
 
 You can almost hear the “mwah’s” of the kisses one after another.  Latin poetry was largely intended to be read aloud, almost like a theatrical performance or perhaps a poetry slam, so opportunities for the reader to really lean into the action-nature of the language would have been an important piece of a good poem.  It’s for this reason that Zukofsky’s homophonic translation is in some ways the most faithful: it preserves the auditory experience a Roman audience would have had, which was often what the poet was optimizing for.

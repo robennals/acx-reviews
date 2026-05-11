@@ -7,7 +7,7 @@ contestName: 2026 Book Reviews
 year: 2026
 publishedDate: '2026-05-04T20:16:20.000Z'
 slug: theodicy
-wordCount: 5145
+wordCount: 5109
 readingTimeMinutes: 23
 source: gdoc
 tags:
@@ -19,8 +19,7 @@ Why does an all-loving, all-powerful, and all-knowing God allow sin and evil in 
 
 This trailblazing marvel of a book asks the question of theodicy in a riveting, but at times quite wordy way. Not in prose, and not in a single sentence about God, but in the form of an epic poem of 12,109 verses in 24 books, laying out the human condition in its entirety and doing so not in the abstract, which would make for a bad piece of poetry, but in a _story_ about a single man. Man is thus the book’s first word, though in the English translation by Pope Alexander - I couldn’t figure out the number, but Claude says that based on style it’s likely Alexander VII or VIII - it cedes that spot to the no less poetic "the":
 
-> _The man for wisdom's various arts renown'd,_
->
+> _The man for wisdom's various arts renown'd,_  
 > _Long exercised in woes, O Muse! resound;_ [1]
 
 That man, the hero of the story, showed his valor countless times in a war of ten years, ended that war single-handedly using nothing but his wits, and virtuously slaughtered the enemies of his people in their sleep. But not only is he not favored by the gods, no, they force him to suffer for ten more years until he gets home, and his journey is a trail of hardships: the sea, man-eating monsters, hunger, bereavement, separation, and sex. That man’s name is Odysseus, in what must be a clever pun on Theodicy in ancient Greek, though one lost on me. It is his journey home that Homer uses as a metaphor for human suffering.
@@ -39,26 +38,18 @@ While trying to find his way back home to his wife and family, he visits many di
 
 It would be hard for you to imagine anything as brutal as the encounter between Odysseus and Polyphemus. With a dozen of his men, Odysseus wants to visit the inhabitants of this land and exchange gifts (hospitality and reciprocal gift giving are super important in his culture). Polyphemus does not give any gifts to Odysseus. On the contrary, he traps them in his cave and eats two of his men for dinner, even devouring the bones. The visitors cannot kill him, as they wouldn’t be able to move the massive boulder which Polyphemus uses as a door to his abode. The next morning, after the giant has two more men for breakfast and then leaves with his herd of sheep, Odysseus comes up with a cunning plan: He takes the trunk of an olive tree that Polyphemus has in his cave in order to rework it into a club (often even the simplest objects have a backstory in Theodicy), and sharpens it. After Polyphemus comes home, Odysseus offers him the wine that he brought in the expectation of exchanging it for other gifts. Polyphemus gets drunk and asks Odysseus his name. Odysseus answers that he is called “noman”. It's not clear at this moment why he gives this answer, but, spoiler, it will pay off soon in an unexpected way. Polyphemus is now so inebriated that he passes out quickly. Odysseus and his men lift their tree trunk and poke it deep into his single eye. The now blinded giant wakes screaming, so his neighbouring brothers come running, asking what's the matter. Polyphemus replies:
 
-> _‘Friends, Noman kills me; Noman in the hour_
->
-> _Of sleep, oppresses me with fraudful power.’_
->
-> _‘If no man hurt thee, but the hand divine_
->
-> _Inflict disease, it fits thee to resign:_
->
-> _To Jove (=Zeus [6]) or to thy father Neptune (=Poseidon) pray.’_
->
+> _‘Friends, Noman kills me; Noman in the hour_  
+> _Of sleep, oppresses me with fraudful power.’_  
+> _‘If no man hurt thee, but the hand divine_  
+> _Inflict disease, it fits thee to resign:_  
+> _To Jove (=Zeus [6]) or to thy father Neptune (=Poseidon) pray.’_  
 > _The brethren cried, and_ _instant_ _strode away._
 
 The Ithacans now have a real shot at survival. When Polyphemus needs to release his herd the next morning and only has his sense of touch to control that no human escapes with them, they hide underneath the rams’ bellies - a plan which only works because Polyphemus does not have a dog. Back on his ship, Odysseus does something uncharacteristically stupid and taunts the Cyclops:
 
-> _Cyclop! if any, pitying thy disgrace._
->
-> _Ask, who disfigured thus that eyeless face?_
->
-> _Say ’twas Ulysses (=Odysseus): ’twas his deed declare,_
->
+> _Cyclop! if any, pitying thy disgrace._  
+> _Ask, who disfigured thus that eyeless face?_  
+> _Say ’twas Ulysses (=Odysseus): ’twas his deed declare,_  
 > _Laertes’ son, of Ithaca the fair;_
 
 This not only alerts Polyphemus to the escape and prompts him to throw rocks in the caller's direction - all of which miss their aim - but also tells him who attacked him, which he passes on to his dad. Hence the animosity I set out to explain. This episode has famously been interpreted like so:
@@ -69,42 +60,27 @@ I think it is much simpler. The primary purpose of the episode in the larger con
 
 Poseidon is not the only needlessly cruel god. Odysseus and the men of his last ship later get trapped by a terrible storm on an island where the only food is beeves - according to our translator, this is a word -, which are sacred to Helios, the sun god. Odysseus tells the others not to slaughter these animals, as he has been warned accordingly by Circe and Tiresias. Wait, I haven’t introduced these. To make it short: Circe is a witch goddess who lives on the island of Aeaea. With poisoned food and wine, she turns the scouts that Odysseus sends to explore the island into pigs. One man escapes and warns those who remained at the ship. Odysseus arms himself and goes to Circe’s palace to demand the retransformation of his men. On his way, Hermes, the god of having really good [8] shoes, appears to him and gives him a herb that grants immunity to Circe’s magic. When she is surprised that he is not growing a squiggly tail and a snout, he brandishes his sword at her. She has turned his friends into pigs; he has threatened to kill her - it need not be said that they soon find themselves in love with each other, so Circe restores Odysseus’ men to their human form. Their affair lasts for a whole year until the crew wants to go home. Circe agrees to let them go, but warns Odysseus that his toils are not yet over and that he needs to visit the spirit of famed seer Tiresias in the land of the dead if he wants to know how to get home. They safely reach the land of the dead, and with a sacrifice of milk, honey, wine, flour and sheep blood attract the dead spirits, most importantly Tiresias, who, after drinking sheep blood, tells Odysseus how he can appease Poseidon, but only after his return to Ithaca, and only if he meets an impossible condition:
 
-> _… a people far from sea explore,_
->
-> _Who ne’er knew salt, or heard the billows roar,_
->
-> _Or saw gay [9] vessel stem the watery plain,_
->
-> _A painted wonder flying on the main!_
->
-> _Bear on thy back an oar: with strange amaze_
->
-> _A shepherd meeting thee, the oar surveys,_
->
-> _And names a van: there fix it on the plain,_
->
-> _To calm the god that holds the watery reign;_
->
-> _A threefold offering to his altar bring,_
->
+> _… a people far from sea explore,_  
+> _Who ne’er knew salt, or heard the billows roar,_  
+> _Or saw gay [9] vessel stem the watery plain,_  
+> _A painted wonder flying on the main!_  
+> _Bear on thy back an oar: with strange amaze_  
+> _A shepherd meeting thee, the oar surveys,_  
+> _And names a van: there fix it on the plain,_  
+> _To calm the god that holds the watery reign;_  
+> _A threefold offering to his altar bring,_  
 > _A bull, a ram, a boar; and hail the ocean king._
 
 So Odysseus needs to find someone who confuses an oar with a van. No-one would ever do that, particularly not some three millennia before the invention of the automobile, such is the cynicism of the gods! Naturally, Odysseus won’t even attempt to do that in the end.
 
 At least Tiresias warns him about the beeves, but the crew is not impressed by that. When their provisions run out, they slaughter and eat the sacred animals. Odysseus alone does not partake in that. Now, I said that the gods are not all-knowing, but the problem with Helios is that he is probably the god who knows the most. As he is traveling with the sun across the sky each day and has very good eyes (the distance from the sun to Earth measures 150 million kilometers or equivalently a large number of miles), he can see everything that happens in the open. So he also notices that his precious beeves have been decimated. Helios apparently cannot directly punish Odysseus’ crew for unclear reasons (maybe he cannot move away from the sun?), so he blackmails Zeus instead:
 
-> _Vengeance, ye powers (he cries), and then whose hand_
->
-> _Aims the red bolt, and hurls the writhen brand! [10]_
->
-> _Slain are those herds which I with pride survey,_
->
-> _When through the ports of heaven I pour the day,_
->
-> _Or deep_ _in ocean_ _plunge the burning ray._
->
-> _Vengeance, ye gods! or I the skies forego,_
->
+> _Vengeance, ye powers (he cries), and then whose hand_  
+> _Aims the red bolt, and hurls the writhen brand! [10]_  
+> _Slain are those herds which I with pride survey,_  
+> _When through the ports of heaven I pour the day,_  
+> _Or deep_ _in ocean_ _plunge the burning ray._  
+> _Vengeance, ye gods! or I the skies forego,_  
 > _And bear the lamp of heaven to shades below._
 
 When the storm ends, and the Ithacans set sail, Zeus soon sends the next storm, strikes the ship with lightning and sinks it. Only Odysseus survives, and after a few days of floating around on a few pieces of wood he could tie together, he eventually strands on the island of the nymph Calypso, goddess of nothing in particular. At this point, Homer has almost run out of ideas, so he just lets Odysseus stay with her for the next seven years. Calypso is very much in love with him, but although the feeling is not at all mutual, she does not let him go. Then, while Poseidon is off partying with the Ethiopians, the other gods have a meeting and decide it is time for Odysseus to go home. Athena is going to Ithaca and sends Telemachus on a side quest to gather news about his father; Zeus sends Hermes to Calypso and commands her to let him leave. Calypso complies and helps Odysseus equip a raft, so finally he sets sail again. Poseidon comes back, gets up to speed, and sends a storm to destroy the raft. Leucothea, another sea goddess, gives Odysseus a protective veil, so he can swim to shore. There dwell, for a change, a normal, hospitable people, the Phaeacians, who receive him, give him many gifts and a ship that is steered by thought to carry him home.
@@ -123,12 +99,9 @@ There was, however, one thing I was able to test: There is a river right where I
 
 Frustrated with my failure, I was prompted to re-examine the theological claims of Theodicy and found that the book provides more explanations than just “The gods suck and not in a good way”, although this is the most salient. Homer lets none other than Zeus state that
 
-> _Perverse mankind! whose wills, created free,_
->
-> _Charge all their woes on absolute degree;_
->
-> _All to the dooming gods their guilt translate,_
->
+> _Perverse mankind! whose wills, created free,_  
+> _Charge all their woes on absolute degree;_  
+> _All to the dooming gods their guilt translate,_  
 > _And follies are miscall’d the crimes of fate._
 
 Even if Zeus had been an otherwise well-meaning creator, which seems highly doubtful, giving humans free will meant enabling them to do evil.
@@ -137,12 +110,9 @@ Should you need an example of human-made suffering, Theodicy provides many. When
 
 You may have noticed that the number of his ships sometime between the beginning of the story and their arrival on the cursed beeves island got reduced from twelve to one. For this loss of life, humans are entirely to blame. After his ill-fated visit to Polyphemus, Odysseus comes to the floating island of a man called Aeolus. Aeolus is a friend of the gods, who was made custodian of the winds by Zeus. At first, he has pity on the Ithacans and puts the winds into a bag, except the one which should carry them straight home. He hands the bag to Odysseus and tells him to release the winds again once they have reached Ithaca. This almost works, but when they can already see their native shore, the crew unties the silver thong with which Aeolus sealed the wind bag, because, not having been told about its true content, they suppose that it contains some great treasure that Odysseus wants to keep all for himself. The unleashed winds bring them to Aeolus anew, but he refuses to help again, saying:
 
-> _Vile_ _wretch, begone! this instant I command_
->
-> _Thy fleet accursed to leave our_ _hallow’d_ _land._
->
-> _His baneful suit pollutes these bless’d abodes,_
->
+> _Vile_ _wretch, begone! this instant I command_  
+> _Thy fleet accursed to leave our_ _hallow’d_ _land._  
+> _His baneful suit pollutes these bless’d abodes,_  
 > _Whose fate proclaims him hateful to the gods._
 
 Despite being a friend of the gods, we must not take Aeolus’ verdict at face value here. Not only is he a filthy pervert who sealed a gift with his underwear, he is also an incest-peddler who married his sons to his daughters. That man cannot claim any moral authority whatsoever. I believe Homer added this episode as a cautionary tale not only about the importance of communication in a king-subjects relationship, but also about the danger of guessing the will of the gods. With his decision, Aeolus prolongs the Ithacans’ dreadful journey and indirectly condemns all of them (except Odysseus) to an untimely death. For most of them, that death strikes soon, already at the next place they visit. Odysseus, having learnt from his visit to Polyphemus, does not go ashore himself this time, but sends three of his men. This proves to be very wise, as the inhabitants are yet another people of man-eating giants. Homer does not explicitly mention the number of eyes they have, but they certainly seem to have unimpaired stereoscopic vision as they sink almost the whole fleet once they start pelting the ships with rocks, after which they spearfish their crews. Only Odysseus’ vessel escapes.
@@ -161,12 +131,9 @@ But again I find myself dissatisfied: Can this really be true? Aren’t the othe
 
 And then there are the stories that don’t fit the knowledge-as-the-greatest-good narrative. First, the story with the lotus-eaters, which comes even before the encounter with the Cyclopes. The lotus-eaters are called lotus-eaters because they eat lotus, and from eating lotus, they forget. When Odysseus sends three men to explore the land, they eat lotus, forget who they are, where they were coming from and going to, so they have to be dragged back to the ship. Understandably, this seems terrible to the crew, but as they will learn, they are not going home; they are going to die. By regaining their knowledge, they are doomed. Secondly, the story of the sirens, creatures half woman, half bird, whose song lures passing sailors to their deaths. Again, only ignorance brings salvation. And here is what Odysseus has to say to Telemachus when his son wonders why the house shines like fire in the night before the suitors’ murder:
 
-> _Be calm (replies the sire); to none impart,_
->
-> _But oft revolve the vision in thy heart:_
->
-> _Celestials, mantled in excess of light,_
->
+> _Be calm (replies the sire); to none impart,_  
+> _But oft revolve the vision in thy heart:_  
+> _Celestials, mantled in excess of light,_  
 > _Can visit unapproach’d by mortal sight._
 
 In other words, the gods are what cannot, must not be known.
@@ -191,12 +158,9 @@ I certainly did not hope to end up with the lamest possible conclusion, a non-an
 
 [7] The only other joke I remember is “For nowise, methinks, did he come hither on foot”, where hither means to Ithaca. Ithaca is an island and if you need any further explanation, well, just think about it a bit more. Alexander, unusually humorless for a Catholic, completely ruins that joke in his translation:
 
-> _Whence, father, from what shore this stranger, say?_
->
-> _What vessel bore him o’er the watery way?_
->
-> _To human step our land impervious lies,_
->
+> _Whence, father, from what shore this stranger, say?_  
+> _What vessel bore him o’er the watery way?_  
+> _To human step our land impervious lies,_  
 > _And round the coast circumfluent oceans rise._
 
 [8] Claude suggests I use a different adjective, such as perfect, superb, wonderful, or fantastic. Since I cannot decide between these excellent (oh, that was also on the list) choices, I leave this up to you.

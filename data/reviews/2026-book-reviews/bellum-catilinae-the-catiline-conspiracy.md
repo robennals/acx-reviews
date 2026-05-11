@@ -7,7 +7,7 @@ contestName: 2026 Book Reviews
 year: 2026
 publishedDate: '2026-05-10T22:44:46.000Z'
 slug: bellum-catilinae-the-catiline-conspiracy
-wordCount: 7315
+wordCount: 7314
 readingTimeMinutes: 33
 source: gdoc
 tags:
@@ -224,8 +224,7 @@ There is no afterlife in this system. It is by the doing of great deeds, by the 
 
 In Caesar, Sallust sees the pinnacle of generosity and mercy, and in Cato, dignity and austerity. These virtues make them worthy, and Sallust makes them immortal. His description of Cato is one of the most famous lines in Latin prose:
 
-> _esse quam videri bonus malebat_ 
->
+> _esse quam videri bonus malebat_   
 > He preferred to be virtuous, rather than to seem it. (_Bellum Catilinae_ 54)
 
 ## Agonal Culture and a Bloody, Mournful Victory
