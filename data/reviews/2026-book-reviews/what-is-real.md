@@ -7,7 +7,7 @@ contestName: 2026 Book Reviews
 year: 2026
 publishedDate: '2026-05-07T14:44:56.000Z'
 slug: what-is-real
-wordCount: 10162
+wordCount: 10171
 readingTimeMinutes: 46
 source: gdoc
 tags:
@@ -48,7 +48,7 @@ If you don’t believe me and are thus inclined to pan this essay, just Pangram 
 
 Right then, onwards.
 
-**2\. The Focus of the Book**
+## 2\. The Focus of the Book
 
 Becker’s book is a book about the field of Quantum Physics, not the topic of Quantum Physics (QP). So, it is not complex, or at least it is manageably so. More specifically, it is about, to quote the subtitle, “the quest for the meaning of Quantum Physics”.
 
@@ -88,7 +88,7 @@ By the way, the phrase ‘shut up and calculate’ was originated by David Mermi
 
 Right then, let’s get to the book proper.
 
-**4.1 Clear as a Bell**
+## 4.1 Clear as a Bell
 
 After the book’s introduction, Becker kicks off things in the **Prologue** by talking about John Stewart Bell. The student Bell had found QP – it was basically CI at that point – to be a “vague mess”. You see, Neils Bohr and Werner Heisenberg, the biggest boys behind CI back then, were “maddeningly unclear” about the boundary between the quantum and classical worlds.
 
@@ -152,7 +152,7 @@ Sitting here a century after the start of QP, I wonder whether Albert would have
 
 And there ends chapter 1.
 
-**4.3 A Danish Sir Humphrey**
+## 4.3 A Danish Sir Humphrey
 
 **Chapter 2** gets into details of the early QP milestones in terms of ideas/hypotheses, the reactions to them of various physicists and their discussions.
 
@@ -178,7 +178,7 @@ Note, this stalemate had nothing to do with CI-or-Not – that was a different m
 
 And so we arrive at **chapter 3.**
 
-**4.4 Third Time’s the Charm**
+## 4.4 Third Time’s the Charm
 
 You remember Becker talked about Bohr’s lack of clarity in writing and speech. In this chapter, he shares that Bohr’s writing was so unclear that, even now, it is unclear what he believed. He shares – and I found this staggering – that there is a “cottage industry” of figuring out what Bohr was thinking and _why_ he was thinking what he was thinking.
 
@@ -265,7 +265,7 @@ All this is why I said at the start of this essay that Albert, famous as he is, 
 
 On we go to chapter 4. 
 
-**4.5 Epistemology, What Is It Good For? War**
+## 4.5 Epistemology, What Is It Good For? War
 
 **Chapter 4** is about WW2 and the Manhattan project, and their effects on the physicists, many of whom moved countries, and some of whom played critical parts in said project and thus in WW2. There is not much to say about it – it is of course interesting to read about the madness of those times.
 
@@ -279,7 +279,7 @@ A neat feedback loop: epistemology was good for war, and the War was good for ep
 
 Let’s go to **chapter 5.**
 
-**4.6 A Valiant Effort**
+## 4.6 A Valiant Effort
 
 You recall von Neumann’s 1932 proof that it was CI-or-bust for QP. You recall that Hermann had shown it was wrong, but was ignored.
 
@@ -429,7 +429,7 @@ Literally nothing happened for about five years after Bell published his now-lan
 
 And there ends chapter 7.
 
-**4.9 Chapter 8**
+## 4.9 Chapter 8
 
 Becker kicks it off with Thomas Kuhn’s interview of Bohr, in which they revisited the Albert-Bohr debates, and Bohr was of the opinion that Albert had had much the worse of it and that his criticisms had been groundless. Bohr even lamented the time Albert had spent coming up with his thought experiments.
 
@@ -457,7 +457,7 @@ _“shut up and calculate” “…epistemology-soaked orgy…”_
 
 And thus ends chapter 8.
 
-**4.10 Green Shoots, Shot**
+## 4.10 Green Shoots, Shot
 
 This chapter is the most staggering of all. In it, Becker talks about the chaps who pushed QP forward from its local maxima of the non-local CI.
 
@@ -541,7 +541,7 @@ Imagine. Consider. It reads like something from Victor Hugo in mid-season form, 
 
 Fact is sadder than fiction.
 
-**4.11 A Noble Man**
+## 4.11 A Noble Man
 
 **Chapter 10** gets into further work by Bell and how more physicists were becoming aware of his insight, and even spreading it. It mentions some potential practical effects of taking Bell’s Theorem seriously.
 

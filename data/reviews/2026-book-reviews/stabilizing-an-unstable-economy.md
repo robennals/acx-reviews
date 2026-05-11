@@ -7,7 +7,7 @@ contestName: 2026 Book Reviews
 year: 2026
 publishedDate: '2026-02-26T03:39:04.000Z'
 slug: stabilizing-an-unstable-economy
-wordCount: 8218
+wordCount: 8219
 readingTimeMinutes: 37
 source: gdoc
 tags:
@@ -59,7 +59,7 @@ Yet I’ve also come to wonder: Do we, living in the present, have a bit of hubr
 
 Let’s get back to Minsky and his economic views.
 
-**Minsky’s economics: The financial economy**
+## Minsky’s economics: The financial economy
 
 The financial structures that underlie an economic system are of first-order importance to Minsky. They are what made the US economy fundamentally different at different periods of US history. He even goes so far as to say “any possible impact of accumulation or the technical productivity of capital assets is of secondary importance” (p. 189). These structures had changed through US history, with financial activity growing in complexity and importance by the time of Minsky’s writing. The economy became heavily leveraged, with real economic activity financed by debt.
 

@@ -7,7 +7,7 @@ contestName: 2026 Book Reviews
 year: 2026
 publishedDate: '2026-05-10T18:27:55.000Z'
 slug: a-world-appears-by-michael-pollan
-wordCount: 3569
+wordCount: 3571
 readingTimeMinutes: 16
 source: gdoc
 tags:
@@ -139,7 +139,7 @@ The Butlin Report
 
 Cargo Cult cognitive science? (Field of Dreams model: If you build it, it will come.) A system cannot be explained entirely by its outcomes.
 
-**Thinking**
+## Thinking
 
 Against objective theory
 
@@ -175,7 +175,7 @@ Lucy Ellman
 
 The Hard Problem Again. Why do thoughts feel like something? Why is that feeling so hard to define?
 
-**Self**
+## Self
 
 David Hume and the Cartesian Theater
 

@@ -7,7 +7,7 @@ contestName: 2026 Book Reviews
 year: 2026
 publishedDate: '2026-04-29T01:25:04.000Z'
 slug: bronze-age-mindset-an-exhortation
-wordCount: 9303
+wordCount: 9304
 readingTimeMinutes: 42
 source: gdoc
 tags:
@@ -15,7 +15,7 @@ tags:
   - Politics
 ---
 
-**Diamond Age Mindset: A Primer for Sensitive Young Cyborgs**
+## Diamond Age Mindset: A Primer for Sensitive Young Cyborgs
 
 _An intro to Bronze Age Pervert’s mindset based on a diet of neopagan philosophy, Frogtwitter, lifting, and raw food—and a critique of his Nietzscheanism to the letter via my Nietzscheanism in spirit_
 

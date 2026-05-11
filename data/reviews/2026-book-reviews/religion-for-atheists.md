@@ -7,7 +7,7 @@ contestName: 2026 Book Reviews
 year: 2026
 publishedDate: '2026-04-29T10:03:56.000Z'
 slug: religion-for-atheists
-wordCount: 5670
+wordCount: 5673
 readingTimeMinutes: 26
 source: gdoc
 tags:
@@ -194,7 +194,7 @@ These examples are used by de Botton to show that, unlike modern universities, r
 > *   A specific place
 > *   A single format
 
-**Pessimism**
+## Pessimism
 
 I remember feeling cheated about the promise at finding peace by listening to a sermon and instead being troubled by how preachers always caution that the end is near. But de Botton proposes that a well calibrated pessimistic view has its merits
 
@@ -220,7 +220,7 @@ De Botton supports his statement with excerpts from the Authorised Daily Prayer 
 > *   When buying clothes
 > *   To encourage admiration of the digestive system
 
-**Putting your personal woes in perspective**
+## Putting your personal woes in perspective
 
 At the Wailing Wall in Jerusalem, sorrows are written on small pieces of paper that are then lodged in the spaces between the stones. What could we learn from this? According to de Botton, it contextualizes our personal worries as drops in an ocean. Imagine, he says, a digital wailing wall would display anonymous messages expressing personal concerns, to show us that even though we are suffering, we have not been specifically singled out for punishment.
 
@@ -277,7 +277,7 @@ Looking at travel destinations for Christian tourists, de Botton notices the Tem
 
 This inspires de Botton to propose a therapeutic travel agency, which would match mental issues with parts of the planet most likely to treat them. For example:
 
-**Defence mechanism**
+## Defence mechanism
 
 **Destination**
 

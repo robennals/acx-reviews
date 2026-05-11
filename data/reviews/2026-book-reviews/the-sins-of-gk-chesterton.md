@@ -7,7 +7,7 @@ contestName: 2026 Book Reviews
 year: 2026
 publishedDate: '2026-04-22T18:42:53.000Z'
 slug: the-sins-of-gk-chesterton
-wordCount: 7774
+wordCount: 7778
 readingTimeMinutes: 35
 source: gdoc
 tags:
@@ -27,7 +27,7 @@ tags:
 
 **V - A defense of Chesterton**
 
-**I - Introduction** 
+## I - Introduction
 
 _If you look at a thing nine hundred and ninety-nine times, you are perfectly safe; if you look at it the thousandth time, you are in frightful danger of seeing it for the first time._
 
@@ -43,7 +43,7 @@ _If you look at a thing nine hundred and ninety-nine times, you are perfectly sa
 
  II. The book
 
-**Chesterton’s Circle**
+## Chesterton’s Circle
 
 _Before the Roman came to Rye or out to Severn strode,_
 
@@ -93,7 +93,7 @@ _The mere facts! Do you really admit---are you still so sunk in superstitions, s
 
  Gilbert was present at the trial and called as a character witness. The trial deeply affected him. He had had bouts of depression throughout his life, and in 1914 experienced a breakdown, which left him bedridden in what Ingrams describes as a catatonic state. Looking back on the trial in his autobiography in 1936, he said that “history should be divided into Pre-Marconi and Post-Marconi days” because it was then that “the ordinary English citizen lost his invincible ignorance”. At the time, the affair was “systematically misrepresented” but in time it will be seen as “one of the turning points in the history of England and the World”. The reason for this, as he saw it, was the defeat of his brave comrades Cecil & Belloc emboldened their murky antagonists to consolidate their position and push for more power, just in time for the Great War.
 
-**War**
+## War
 
 _Likelier the barricades shall blare_
 
@@ -109,7 +109,7 @@ The lenient sentence in the libel trial enabled Cecil and Belloc to claim a mora
 
  Despite initially being declared unfit for military service, Cecil was later given a liaison role in France. After the armistice was signed in November 1918, Cecil took part in a long march in the rain, contracting nephritis, which proved fatal. Gilbert, obviously, was heartbroken. Unable to accept the futile and prosaic nature of his brother’s death, he developed a notion that Cecil had died a hero, “of the effects of exposure of the last fierce fighting that broke the Prussian power over Christendom”. He never moved on from this false view of Cecil’s death and his biographers repeated it. More worrying, though, was Gilbert’s open letter to ‘Marconi Man’ Rufus Isaacs, now Lord Reading, who was due to take part in the upcoming Versailles peace conference. This letter was published in December 1918, less than a month after Cecil’s death, and while it’s understandable that the letter might have been drafted in anger, sending it to Isaacs and publishing it too reflects very badly on Gilbert. Essentially he alleges that Isaacs as a Jew cannot be trusted to represent the national interest: “If it be decreed that the English nation is to lose its public honour, it will be partly because certain men of the tribe of Isaacs kept their own strange private loyalty”. England’s public honour, according to Gilbert, depended on honouring the territorial claims of Poland. “Is there any man who doubts that the Jewish International is unsympathetic with that full national demand? And is there any man who doubts that you will be sympathetic with the Jewish International?”. In fact Isaacs, a patriot who had _I Vow to Thee My Country_ at his funeral, went to Versailles with Lloyd George hoping to continue the blockade of Germany, but the Germans were starving and the contrary view prevailed. It’s a sobering thought that while the German far right were already blaming the Jews for undermining the German war effort, English rabble rousers were blaming Jews for taking the side of Germany and its Jewish financiers.
 
-**From the New Jerusalem to Mussolini**
+## From the New Jerusalem to Mussolini
 
 _Oh, I knew a Doctor Gluck,_
 

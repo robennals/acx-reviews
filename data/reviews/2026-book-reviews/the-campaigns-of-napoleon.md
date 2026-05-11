@@ -7,7 +7,7 @@ contestName: 2026 Book Reviews
 year: 2026
 publishedDate: '2026-03-30T19:52:25.000Z'
 slug: the-campaigns-of-napoleon
-wordCount: 2389
+wordCount: 2391
 readingTimeMinutes: 11
 source: gdoc
 tags:
@@ -18,7 +18,7 @@ tags:
 
 ![](https://acximages.ennals.org/images/2026-book-reviews/4a779d827a26cee8.png)
 
-**The Campaigns of Napoleon: The Mind and Method of History’s Greatest Soldier by David Chandler**
+## The Campaigns of Napoleon: The Mind and Method of History’s Greatest Soldier by David Chandler
 
 Why should you read a 1,100 page book from 1966 about Napoleon? My answer is simple: It is the best book for showing you the _operational_ genius of Napoleon in action. That particular skill is the main reason he won all of those battles. If you care about extraordinary success and want to learn more about how a master craftsman does their work, this book is for you.
 
@@ -48,7 +48,7 @@ Another one of Napoleon’s masterpieces was the victory at Jena-Auerstadt. Just
 
 ![](https://acximages.ennals.org/images/2026-book-reviews/e0f898323e110745.png)
 
-**Road and Lines of Communication Matter**
+## Road and Lines of Communication Matter
 
 Roads and lines of communication matter. If someone did a word cloud of the different phrases in this book, the second largest size after Napoleon would probably be “lines of communication”. This is another example of Chandler interweaving into the campaigns’ summary a topic that is boring and definitely not glorious but was so crucial. Lines of communication is a general term having to do with couriers being able to communicate back to the country and among the Corps as well as supplies and reinforcement routing. Napoleon was constantly aiming to secure his lines of communication while attacking the enemies. In a similar vein, Napoleon put so much care into route planning and which roads his armies should use as part of their maneuvering that one gets a sense that he was always running a complex multivariable optimization algorithm. It looked something like: Maximize threat to enemy lines of communication and own army maneuver while minimizing threat to own armies line of communication. In the book you read that Napoleon’s opponents weren’t always fools, but Napoleon put at least double the effort into this optimization problem than they did. When you pair that with him being smarter, is it any wonder he won as much as he did?
 
