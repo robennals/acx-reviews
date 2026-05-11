@@ -329,6 +329,73 @@ test('cleanupMarkdown wraps multiple italic-only lines + attribution into a sing
   assert.ok(/^>\s*\*\s+_The Logical Vegetarian_/m.test(out), `attribution stays in blockquote; got: ${out}`);
 });
 
+test('cleanupMarkdown formats a poetry quote (short italic lines) with line breaks, not paragraph breaks', () => {
+  // Real example from the Doctor Gluck quote: every line is short
+  // (under ~80 plain-text chars). Should render as one verse paragraph
+  // inside a blockquote with hard line breaks, not as separate
+  // paragraphs with visible gaps between them.
+  const input = [
+    'Substantive prose above the quote that comfortably exceeds the fifty-character substantive threshold.',
+    '',
+    '_Oh, I knew a Doctor Gluck,_',
+    '',
+    '_And his nose it had a hook,_',
+    '',
+    '_And his attitudes were anything but Aryan;_',
+    '',
+    '_So I gave him all the pork_',
+    '',
+    '_That I had, upon a fork;_',
+    '',
+    '_Because I am myself a Vegetarian._',
+    '',
+    '> *   _The Logical Vegetarian_',
+    '',
+    'Substantive prose below the quote that also exceeds the substantive threshold easily.',
+  ].join('\n');
+
+  const out = cleanupMarkdown(input);
+
+  // Each non-last italic line should end with two trailing spaces (hard
+  // line break in markdown).
+  assert.ok(/^> _Oh, I knew a Doctor Gluck,_  $/m.test(out), `first verse line should end with two spaces; got: ${out}`);
+  assert.ok(/^> _That I had, upon a fork;_  $/m.test(out), `penultimate line should end with two spaces; got: ${out}`);
+  // The last italic line should NOT have trailing spaces.
+  assert.ok(/^> _Because I am myself a Vegetarian\._$/m.test(out), `last verse line should not have trailing spaces; got: ${out}`);
+  // No blank `>` separator lines between verse lines (the slice ends
+  // at the last verse line, *before* the blank-`>` separator that
+  // precedes the attribution).
+  const verseRegion = out.slice(
+    out.indexOf('Doctor Gluck'),
+    out.indexOf('Because I am myself a Vegetarian._') + 'Because I am myself a Vegetarian._'.length
+  );
+  assert.ok(!/^>\s*$/m.test(verseRegion), `no blank-> lines should appear between verse lines; got: ${verseRegion}`);
+});
+
+test('cleanupMarkdown formats a prose quote (long italic lines) with paragraph breaks', () => {
+  // When italic lines are longer (clearly prose, not verse), each
+  // should be its own paragraph inside the blockquote so the
+  // paragraph structure renders correctly.
+  const input = [
+    'Substantive prose above the quote that comfortably exceeds the fifty-character substantive threshold.',
+    '',
+    '_This is a long prose quote that comfortably exceeds the eighty-character poetry threshold and is clearly a paragraph._',
+    '',
+    '_This is a second long prose paragraph that also exceeds the threshold and should render as its own paragraph in the blockquote._',
+    '',
+    '> *   _Some Source Title_',
+    '',
+    'Substantive prose below the quote that also exceeds the substantive threshold easily.',
+  ].join('\n');
+
+  const out = cleanupMarkdown(input);
+
+  // Lines should NOT end with two trailing spaces (no hard breaks).
+  assert.ok(!/comfortably exceeds the eighty-character poetry threshold and is clearly a paragraph\._  $/m.test(out), `prose line should not have trailing-2-space; got: ${out}`);
+  // The lines should still be wrapped with `>`.
+  assert.ok(/^> _This is a long prose/m.test(out), `prose line should still be wrapped; got: ${out}`);
+});
+
 test('cleanupMarkdown does NOT wrap italic-label followed by a multi-bullet list', () => {
   // Real example from "The Extended Mind": the italic line is a
   // section label and the `> *` block below is a list of example

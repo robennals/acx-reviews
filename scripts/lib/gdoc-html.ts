@@ -270,39 +270,71 @@ export function cleanupMarkdown(markdown: string): string {
   // followed (across blank lines) by a single blockquote-list-item
   // attribution like `> *   _Source_`, the gdoc author intended the
   // whole thing as one visual quote block. Wrap each italic line with
-  // `>` so the existing adjacent-blockquote-merge step below glues it
-  // all into a single multi-paragraph blockquote.
+  // `>` and emit as a single blockquote.
+  //
+  // Poetry-vs-prose: if every italic line is short (≤80 plain-text
+  // chars), the quote is poetry — emit the italic lines as one
+  // multi-line paragraph inside the blockquote (trailing two spaces
+  // for hard line breaks, no blank-`>` between lines) so the verse
+  // structure renders without huge gaps. Otherwise, emit each as its
+  // own paragraph (existing blockquote-merge step glues them into a
+  // multi-paragraph blockquote downstream).
   //
   // Guard: the `> *` line must be standalone — the next non-blank line
   // after it must NOT be another `> *`. A run of `> *` lines is a
-  // bullet list (e.g. an italic section label followed by multiple
-  // example bullets), not a quote with attribution.
+  // bullet list, not a quote with attribution.
   {
-    const lines = md.split('\n');
     const isAttribution = (s: string) => /^>\s*\*\s+\S/.test(s);
     const isItalicOnly = (s: string) => /^\s*_[^_\n]+_[ \t]*$/.test(s);
-    for (let i = 0; i < lines.length; i++) {
-      if (!isAttribution(lines[i])) continue;
-      // The attribution must be standalone.
-      let k = i + 1;
-      while (k < lines.length && lines[k].trim() === '') k++;
-      if (k < lines.length && isAttribution(lines[k])) continue;
-      // Walk back through blanks and italic-only lines.
-      let start = i;
-      let j = i - 1;
-      while (j >= 0) {
-        if (lines[j].trim() === '') { j--; continue; }
-        if (isItalicOnly(lines[j])) { start = j; j--; continue; }
-        break;
-      }
-      if (start === i) continue; // no italic block precedes
-      for (let m = start; m < i; m++) {
-        if (isItalicOnly(lines[m])) {
-          lines[m] = `> ${lines[m].trim()}`;
+    const POETRY_THRESHOLD = 80;
+    const plainTextLen = (s: string) =>
+      s.trim().replace(/[*_~`>]/g, '').trim().length;
+    const lines = md.split('\n');
+    const out: string[] = [];
+    let i = 0;
+    while (i < lines.length) {
+      if (isItalicOnly(lines[i])) {
+        // Collect a run of italic-only paragraphs.
+        const italicIdxs: number[] = [];
+        let j = i;
+        while (j < lines.length) {
+          if (lines[j].trim() === '') { j++; continue; }
+          if (isItalicOnly(lines[j])) { italicIdxs.push(j); j++; continue; }
+          break;
+        }
+        // Check that the next non-blank line is a standalone attribution.
+        let attribIdx = -1;
+        if (j < lines.length && isAttribution(lines[j])) {
+          let k = j + 1;
+          while (k < lines.length && lines[k].trim() === '') k++;
+          if (k >= lines.length || !isAttribution(lines[k])) {
+            attribIdx = j;
+          }
+        }
+        if (italicIdxs.length >= 1 && attribIdx >= 0) {
+          const isPoetry = italicIdxs.every(
+            idx => plainTextLen(lines[idx]) <= POETRY_THRESHOLD
+          );
+          for (let k = 0; k < italicIdxs.length; k++) {
+            const isLast = k === italicIdxs.length - 1;
+            const content = lines[italicIdxs[k]].trim();
+            if (isPoetry && italicIdxs.length >= 2 && !isLast) {
+              out.push(`> ${content}  `); // hard line break
+            } else {
+              out.push(`> ${content}`);
+              if (!isLast && !isPoetry) out.push(''); // paragraph gap (merged later)
+            }
+          }
+          out.push(''); // blank line before attribution
+          out.push(lines[attribIdx]);
+          i = attribIdx + 1;
+          continue;
         }
       }
+      out.push(lines[i]);
+      i++;
     }
-    md = lines.join('\n');
+    md = out.join('\n');
   }
 
   // Merge adjacent blockquote paragraphs separated by a single blank line
