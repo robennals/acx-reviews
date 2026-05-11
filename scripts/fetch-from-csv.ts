@@ -390,6 +390,7 @@ async function main() {
   let totalCreated = 0;
   let totalFailed = 0;
   let totalImages = 0;
+  const seenDocIds = new Set<string>();
 
   for (const row of rows) {
     const docId = extractDocId(row.docUrl);
@@ -398,6 +399,16 @@ async function main() {
       totalFailed++;
       continue;
     }
+
+    // A submitter can submit the same doc twice (e.g. they think the first
+    // submission didn't go through). Each row gets a distinct publishedDate
+    // from its form-submission timestamp, so date-based skip won't catch it.
+    // Skip duplicate docIds within this run.
+    if (seenDocIds.has(docId)) {
+      console.log(`  ⏭️  Duplicate submission of doc ${docId} — skipping`);
+      continue;
+    }
+    seenDocIds.add(docId);
 
     const docUrl = `https://docs.google.com/document/d/${docId}`;
     const publishedDate = parseTimestamp(row.timestamp);
