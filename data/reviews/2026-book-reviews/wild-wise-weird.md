@@ -7,7 +7,7 @@ contestName: 2026 Book Reviews
 year: 2026
 publishedDate: '2026-03-16T09:21:08.000Z'
 slug: wild-wise-weird
-wordCount: 1517
+wordCount: 1527
 readingTimeMinutes: 7
 source: gdoc
 tags:
@@ -15,19 +15,16 @@ tags:
   - Philosophy
   - Society
 ---
-
 A story of a review of a book
 
-*\*\*
-
+* * *
 It is a normal Saturday night at the farm. The weather has been kind lately, with sunny days and breezy nights. Tonight is especially chilly, so all animals are packed inside the farmhouse, eagerly waiting for Napoleon.
 
 In recent years, the economy has been tough after the devastating pandemic. Even with the old tactics, the animals' morale has been abysmal. Even Squealer and the piglets have been complaining constantly about the conditions. Thus, while allowing several “layoffs” and seeking an aid package from the Farm Union, Napoleon decided to conduct a Literary Evening on Saturday night to boost the morale of the animals. After several tests and trials, he soon discovered that the animals especially love fairy tales. The good old story of goods and bads has been surprisingly efficient at raising awareness about hard work and dedication.
 
 Tonight is a new book called _Wild, Wise, Weird: The Kingfisher Story Collection_. The title is so adorable and catchy that even Napoleon decided to join this evening. Usually, he tasked Minimus to conduct the event.
 
-*\*\*
-
+* * *
 "Aye, aye, aye" -- Minimus shouts.
 
 "Longue vie au roi" -- The sheep, the hens, the cows, the roosters, the cats are all standing up and paying respects to Napoleon.
@@ -40,14 +37,12 @@ Minimus takes the center stage and raises his voice: “First, let me read some 
 
 "The book was recently published in _Amazon_, and widely accepted by readers as a new emerging masterpiece. Rating exclusively 4 or 5 stars out of 5. There is even a scholarly analysis from a top-tier scholar about the readers' affection for the book. This scholar also mentioned the book’s environmental aspects in his review.” – Minimus adds.
 
-*\*\*
-
+* * *
 All animals gasp in disbelief. In preparation for this Literary Evening, stories from the book were read by Minimus every night for two weeks before bed. In their mind, Kingfisher is the embodiment of knowledge and wisdom. And they are happy to discover that other readers, including a top-tier scholar, share their feelings. This top scholar even turned the stories and reviews of the _Wild, Wise, Weird_ into scholarly articles, revealing that “readers who describe the book as unique, whimsical, quirky, or innovative are more likely to express emotional attachment to it,” or capturing “an uncertainty–absurdity spiral in which partial uncertainty contributes to small absurdity, small absurdity increases vulnerability to complete uncertainty, and complete uncertainty culminates in large-scale absurdity.”
 
 The animals were marveled by the twists and turns in Feng Shui Professor, Brotherhood, GHG Emissions, or Bird Village Economics. It is such a pleasant surprise to know the book contains more than 40 stories, and the authors still update the stories occasionally. Animals in the Farm wonder what is more to the life of Bird Village. Compared to the mundane and customary life here on the Farm, Bird Village is the ultimate freedom. Like in the Brotherhood, Kingfisher became a good friend of Kitty. They were so close that Kitty could even “open his jaw and gnaw” at Kingfisher. Such a great friendship that transcends species.
 
-*\*\*
-
+* * *
 After the introduction from Minimus, the main event started. Three animals were called on stage to debate the book. Napoleon emphasized this as a strategic event to foster an open culture and a competitive mindset; negative energy, he claimed, could be channeled healthily into scholarly debate. This was a great leap from the old days when working extra hours was prioritized to ensure productivity. Now, the Farm was increasing its use of technology in both work and leisure. Emotional Animal Intelligence systems were installed recently to monitor daily work, while a series of televisions and gaming consoles were brought into the barn for after-work relaxation. However, animals had to trade tokens earned during work hours to access the entertainment. Productivity steadily increased as the animals craved more and more stimulation.
 
 Bruce, representing the hens; Clark, representing the sheep; and Barry, representing the cows, took the stage.
@@ -62,8 +57,7 @@ Bruce fired back with his prepared points: “The book takes incredibly dense co
 
 “Yeah, because turning one guy’s opinion into mathematics is a clear indication of quality,” Clark responded. “Like all books, there are good and bad elements. For me, it is too on the nose, the lessons are just shoved in your face. It also relies too heavily on twists, every story ends with a punchline. Is that true depth, or just shock value? Finally, the book lacks universal appeal, it requires too much cultural specificity.”
 
-*\*\*
-
+* * *
 “Based on the design of the Bird Village, our great leader, Napoleon, is looking for technological innovation, as well as organizing classes and courses to improve the Farm’s economics.” Minimus suddenly breaks the animals’ chains of thought with a surprise announcement.
 
 Once again, the animals are in disbelief. Since the establishment of the Literary Evening, they have been in constant awe of the amazing lives depicted in different stories. And in the past two weeks, _Wild, Wise, Weird_ have ignited this great passion among the animals. Following the role model of Kingfisher, who constantly observes problems and offers solutions, he even goes so far as to experiment on himself. He is also a great warrior who goes through battles and fights for the safety of the village. Sometimes, Kingfisher's solutions did not work. Whether they should or they could is an entirely different story. There is a strange, addictive weirdness to the lonely position of Kingfisher at the Bird Village. He is a mad scientist who wants to change the world, yet the mad scientist will soon learn that the world is indifferent to his will.

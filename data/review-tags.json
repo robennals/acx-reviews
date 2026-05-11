@@ -15,6 +15,9 @@
     "Fiction",
     "Religion"
   ],
+  "a-christmas-carol-by-charles-dickens": [
+    "Fiction"
+  ],
   "a-connecticut-yankee-in-king-arthurs-court-by-mark-twain": [
     "Fiction",
     "History"
@@ -87,6 +90,10 @@
   "a-visit-from-the-goon-squad": [
     "Fiction"
   ],
+  "a-world-appears-by-michael-pollan": [
+    "Science",
+    "Philosophy"
+  ],
   "addiction-by-design": [
     "Psychology",
     "Technology"
@@ -104,6 +111,9 @@
   ],
   "against-elections-by-david-van-reybrouck": [
     "Politics"
+  ],
+  "agatha-christies-works": [
+    "Fiction"
   ],
   "age-of-anger-a-history-of-the-present-by-pankaj-mishra": [
     "History",
@@ -275,6 +285,9 @@
     "Science",
     "Philosophy"
   ],
+  "bellum-catilinae-the-catiline-conspiracy": [
+    "History"
+  ],
   "biophilia-by-eo-wilson": [
     "Biology",
     "Society"
@@ -318,6 +331,10 @@
     "Philosophy",
     "Society"
   ],
+  "bronze-age-mindset-an-exhortation": [
+    "Philosophy",
+    "Politics"
+  ],
   "bukele": [
     "Politics",
     "History"
@@ -347,6 +364,10 @@
     "Memoir",
     "Politics"
   ],
+  "careless-people-a-cautionary-tale-of-power-greed-and-lost-idealism-2": [
+    "Memoir",
+    "Technology"
+  ],
   "carpentaria-by-alexis-wright": [
     "Fiction",
     "Society"
@@ -355,6 +376,9 @@
     "Fiction"
   ],
   "cats-cradle-by-kurt-vonnegut": [
+    "Fiction"
+  ],
+  "catullus-16": [
     "Fiction"
   ],
   "che-guevara-a-revolutionary-life-by-jon-lee-anderson": [
@@ -429,6 +453,10 @@
     "Politics",
     "Economics",
     "Society"
+  ],
+  "cultural-evolution-2": [
+    "Society",
+    "Politics"
   ],
   "cycles-of-time-an-extraordinary-new-view-of-the-universe-by-roger-penrose-2012": [
     "Science"
@@ -911,6 +939,11 @@
     "Philosophy",
     "Science"
   ],
+  "inventing-temperature": [
+    "Science",
+    "Philosophy",
+    "History"
+  ],
   "inventing-temperature-measurement-and-scientific-progress-by-hasok-chang": [
     "Science",
     "History"
@@ -978,6 +1011,9 @@
   "kindness-goes-unpunished": [
     "Fiction",
     "Society"
+  ],
+  "king-rat": [
+    "Fiction"
   ],
   "knives-out": [
     "Fiction"
@@ -1152,6 +1188,9 @@
   "moscow-petushki-by-venedikt-yerofeyev": [
     "Fiction"
   ],
+  "mother-of-learning": [
+    "Fiction"
+  ],
   "mumbo-jumbo-by-ishmael-reed": [
     "Society",
     "History",
@@ -1287,6 +1326,9 @@
     "History",
     "Politics"
   ],
+  "painting-abstract-landscapes": [
+    "Philosophy"
+  ],
   "paradoxes-of-rationality-and-cooperation": [
     "Philosophy",
     "Economics"
@@ -1314,6 +1356,9 @@
   "patient-heal-thyself-how-the-new-medicine-puts-the-patient-in-charge-by-robert-veatch": [
     "Science",
     "Philosophy"
+  ],
+  "patrocleia-book-xvi-of-homers-iliad-adapted-by-christopher-logue": [
+    "Fiction"
   ],
   "peak-secrets-from-the-new-science-of-expertise-by-anders-ericsson": [
     "Psychology",
@@ -1451,6 +1496,10 @@
     "Technology",
     "Science"
   ],
+  "religion-for-atheists": [
+    "Religion",
+    "Philosophy"
+  ],
   "repairing-a-fatherdaughter-relationship-as-an-adult": [
     "Memoir",
     "Religion"
@@ -1463,6 +1512,9 @@
   "revolutions-podcast-by-mike-duncan": [
     "History",
     "Politics"
+  ],
+  "richard-c-schwartzs-no-bad-parts": [
+    "Psychology"
   ],
   "righteous-victims-a-history-of-the-zionist-arab-conflict-by-benny-morris": [
     "History",
@@ -2005,6 +2057,10 @@
   "the-evolution-of-beauty-how-darwins-forgotten-theory-of-mate-choice-shapes-the-animal-world-and-us-by-richard-prum": [
     "Biology"
   ],
+  "the-evolution-of-desire-by-david-buss": [
+    "Psychology",
+    "Science"
+  ],
   "the-evolving-self-problem-and-process-in-human-development-by-robert-kegan": [
     "Psychology",
     "Philosophy"
@@ -2082,6 +2138,10 @@
   "the-history-of-rationalism": [
     "History",
     "Philosophy"
+  ],
+  "the-holy-quran": [
+    "Religion",
+    "History"
   ],
   "the-horse-the-wheel-and-language-by-david-w-anthony-2007": [
     "History",
@@ -2253,6 +2313,9 @@
   ],
   "the-millionaire-next-door-by-thomas-j-stanley-and-william-d-danko-and-other-books": [
     "Economics",
+    "Psychology"
+  ],
+  "the-mind-is-flat-by-nick-chater": [
     "Psychology"
   ],
   "the-mind-of-a-bee": [
@@ -2473,6 +2536,10 @@
     "Religion",
     "History"
   ],
+  "the-short-swift-time-of-gods-on-earth": [
+    "History",
+    "Society"
+  ],
   "the-signal-and-the-noise-by-nate-silver": [
     "Science",
     "Technology"
@@ -2490,6 +2557,10 @@
   "the-simulacra": [
     "Fiction",
     "Philosophy"
+  ],
+  "the-sins-of-gk-chesterton": [
+    "Religion",
+    "Politics"
   ],
   "the-sixth-day-and-other-tales": [
     "Fiction",
@@ -2611,9 +2682,15 @@
     "History",
     "Economics"
   ],
+  "the-war-nerd-iliad": [
+    "Fiction"
+  ],
   "the-watergate-affair": [
     "History",
     "Politics"
+  ],
+  "the-waves": [
+    "Fiction"
   ],
   "the-weirdest-people-in-the-world": [
     "Society",
@@ -2670,6 +2747,10 @@
     "Biology",
     "Science"
   ],
+  "theodicy": [
+    "Fiction",
+    "Religion"
+  ],
   "things-fall-apart-by-chinua-achebe": [
     "Fiction",
     "History",
@@ -2705,6 +2786,10 @@
   "toki-pona-the-language-of-good": [
     "Society",
     "Philosophy"
+  ],
+  "tortilla-flat-by-john-steinbeck": [
+    "Fiction",
+    "History"
   ],
   "trans-when-ideology-meets-reality-by-helen-joyce": [
     "Society",
@@ -2742,6 +2827,13 @@
     "Fiction",
     "Philosophy",
     "Psychology"
+  ],
+  "undertook-learn-russian-about-ten-years": [
+    "Fiction"
+  ],
+  "unforgiving-places-the-unexpected-origins-of-american-gun-violence": [
+    "Society",
+    "Politics"
   ],
   "unordinary-webtoon-comic-series": [
     "Fiction",
@@ -2814,6 +2906,11 @@
   "what-even-is-gender": [
     "Society",
     "Philosophy"
+  ],
+  "what-is-real": [
+    "Science",
+    "Philosophy",
+    "History"
   ],
   "what-the-buddha-taught-by-walpola-rahula-thero": [
     "Religion",

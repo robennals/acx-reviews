@@ -14,7 +14,6 @@ tags:
   - Politics
   - History
 ---
-
 Cornell University Press, 2020
 
 If, like me, you’re not a Delta Force assault team member, nor possess high level security clearance, on the morning of January 3, 2026, you may have been similarly astonished to read that the United States carried out a snatch and grab of Venezuelan dictator Nicolás Maduro and his wife from their compound in Caracas and transported them to the US for narcoterrorism charges.
@@ -83,10 +82,10 @@ Which, I suppose, makes this book review a non-expert’s take on coups d’éta
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-1   Lest you think this is a historic phenomenon regulated mostly to the dustbin of history, although coups were more common in the past, there have been more than 50 coup attempts among 31 different states between 2000-2019.
+[1] Lest you think this is a historic phenomenon regulated mostly to the dustbin of history, although coups were more common in the past, there have been more than 50 coup attempts among 31 different states between 2000-2019.
 
-2   This sentence was originally, “push comes to shove,” but I could not resist the pun. Don’t like it? COME AT ME (I have plenty of counterbalances).
+[2] This sentence was originally, “push comes to shove,” but I could not resist the pun. Don’t like it? COME AT ME (I have plenty of counterbalances).
 
-3    The author of the cited paper, “The Invasion of Panama and the Rule of Law,” is one Carl T. Bogus, so you don’t even need to read the paper to know which side of the debate he landed on.
+[3] The author of the cited paper, “The Invasion of Panama and the Rule of Law,” is one Carl T. Bogus, so you don’t even need to read the paper to know which side of the debate he landed on.
 
-4    Yes, this whole aside was worth it to get to this fact: Well before the days of internet trolling, the US Delta Force and Navy Seals were the OG Rickrollers in Operation Nifty Package.
+[4] Yes, this whole aside was worth it to get to this fact: Well before the days of internet trolling, the US Delta Force and Navy Seals were the OG Rickrollers in Operation Nifty Package.

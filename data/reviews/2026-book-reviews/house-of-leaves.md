@@ -14,7 +14,6 @@ tags:
   - Fiction
   - Philosophy
 ---
-
 _This review is entirely human-written and contains no spoilers beyond the first few pages of the book._
 
 [House](https://en.wikipedia.org/wiki/House_of_Leaves) of Leaves is a famously weird fiction book from 2000 that, like other weird classics, many people want to have read. What's keeping them is 700 pages of confusing formatting, unclear narratives, and tedious subjects. What's drawing them in is that these are deliberate choices in pursuit of a very particular experience.
@@ -75,7 +74,7 @@ Overall I was not a fan of this guy and the stories he had to tell. But amidst t
 
 If the review so far sounded lukewarm for a supposed groundbreaking classic, you’d be right. Because what made this book famous is its formatting.
 
-There’s the back-and-forth of following appendix references. The nested footnotes. How every occurrence of the word “[house](https://en.wikipedia.org/wiki/House_of_Leaves)” is in blue (even the www.random**[house](https://en.wikipedia.org/wiki/House_of_Leaves)**.com address on the back!). Then there are whole sections where the text is squeezed, rotated, split, or crossed-out. Flipping through the book is trippy and an excellent conversation starter. Even the cover is too short for the pages (i.e., the book is bigger on the inside).
+There’s the back-and-forth of following appendix references. The nested footnotes. How every occurrence of the word “[house](https://en.wikipedia.org/wiki/House_of_Leaves)” is in blue (even the ​www.random[house](https://en.wikipedia.org/wiki/House_of_Leaves).com address on the back!). Then there are whole sections where the text is squeezed, rotated, split, or crossed-out. Flipping through the book is trippy and an excellent conversation starter. Even the cover is too short for the pages (i.e., the book is bigger on the inside).
 
 I’ll keep this section short to avoid spoiling the experience, but you get the idea.
 
