@@ -12,7 +12,10 @@ export function FootnotesSection({ footnotes }: FootnotesSectionProps) {
       <ol className="text-sm text-muted-foreground space-y-4 list-decimal pl-6">
         {footnotes.map((fn) => (
           <li key={fn.id} id={`fn-${fn.id}`}>
-            <div className="footnote-content" dangerouslySetInnerHTML={{ __html: fn.html }} />
+            <div
+              className="footnote-content prose prose-sm dark:prose-invert max-w-none"
+              dangerouslySetInnerHTML={{ __html: fn.html }}
+            />
             <a
               href={`#fn-ref-${fn.id}`}
               aria-label={`Jump to reference ${fn.id}`}
