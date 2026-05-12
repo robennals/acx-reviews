@@ -7,7 +7,7 @@ contestName: 2026 Book Reviews
 year: 2026
 publishedDate: '2026-05-07T18:14:08.000Z'
 slug: unforgiving-places-the-unexpected-origins-of-american-gun-violence
-wordCount: 2374
+wordCount: 2372
 readingTimeMinutes: 11
 source: gdoc
 tags:
@@ -62,8 +62,6 @@ That, however, is but one small implication of Jens’s work. In Chapter 8 he di
 There is surprising empirical evidence for a range of community programs that creates opportunities for intervention in situations before they become violent. Jens’s equation, gun violence = guns + violence, allows us to focus on things we can do to reduce violence _even in the presence of guns_. And as Chapter 9 emphasizes, these things are affordable. Sometimes, their cost is minimal, including minimal expansion of the state. They’re also not particularly partisan. For example, using existing mandatory class time for detained juveniles to teach extremely simple anger management techniques is almost costless and highly effective. For those who like gun control, programs that remove illegal guns from a community work, something proponents of law and order may also support. (The contrast with broad gun control, increased enforcement and incarceration and massive poverty relief is stark.)
 
 In short, there is hope. There are things we can afford that would also garner bipartisan support. While we’ve been arguing about better enforcement, longer incarceration, gun control, and poverty relief, we’ve been unable to see some straightforward policies that have empirically been shown to make a difference.
-
-Page of
 
 * * *
 

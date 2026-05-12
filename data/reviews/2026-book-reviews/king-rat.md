@@ -7,7 +7,7 @@ contestName: 2026 Book Reviews
 year: 2026
 publishedDate: '2026-05-08T00:09:53.000Z'
 slug: king-rat
-wordCount: 916
+wordCount: 913
 readingTimeMinutes: 5
 source: gdoc
 tags:
@@ -16,7 +16,9 @@ tags:
 
 _Back up Astral Codex Ten Book Review Contest 2026_
 
- If you have read renowned author Dan Brown’s _The DaVinci Code_ or _Angles and Demons_ or (God save you) _Digital Fortress,_ you may have found yourself asking:_“What would happen if I tortured Dan Brown?”_
+ If you have read renowned author Dan Brown’s _The DaVinci Code_ or _Angles and Demons_ or (God save you) _Digital Fortress,_ you may have found yourself asking:  
+  
+_“What would happen if I tortured Dan Brown?”_
 
  I know I did.  
   
@@ -41,20 +43,15 @@ James Clavell was…
 
 I have claimed that Clavell is a formulaic writer. So here is everything you need to know about the plot of King Rat summarized using [TVTropes.com](http://tvtropes.com):
 
-  
-  
-  
-  
 _ _ _
 King Rat starts out with a lie:  
   
 “There was a war. Changi and Utram Road jails in Singapore door did— exist. Obviously the rest of this story is fiction, and no similarity to anyone living or dead exists or is intended.”
 
-  
 (insert image Changi)
 
-**On Clavell’s prose:  
-** “The sea was angry that day, my friends - like an old man trying to send back soup in a deli. I got about fifty feet out and suddenly, the great beast appeared before me. I tell you, he was ten stories high if he was a foot. As if sensing my presence, he let out a great bellow. I said, "Easy, big fella!" And then, as I watched him struggling, I realized that something was obstructing its breathing. From where I was standing, I could see directly into the eye of the great fish.”
+**On Clavell’s prose:**  
+ “The sea was angry that day, my friends - like an old man trying to send back soup in a deli. I got about fifty feet out and suddenly, the great beast appeared before me. I tell you, he was ten stories high if he was a foot. As if sensing my presence, he let out a great bellow. I said, "Easy, big fella!" And then, as I watched him struggling, I realized that something was obstructing its breathing. From where I was standing, I could see directly into the eye of the great fish.”
 
 ~Seinfeld, The Marine Biologist.
 
@@ -62,15 +59,17 @@ No similarity to James Clavell’s prose exists or is intended
   
 The Question:
 
-**The Plot (using** **[TVTropes.com](http://tvtropes.com)****)  
-**
+**The Plot (using** **[TVTropes.com](http://tvtropes.com))**  
 
 _King Rat_ is a **Crapsack World** story featuring an **Übermensch** protagonist (the King), his **Lancer**  and **Author Avatar** (Marlowe), and an **Inspector Javert** antagonist (Grey). The plot is driven by a **MacGuffin** (in Platonic ideal of the form of a diamond ring) and executed as **The Caper**. **The Power of Friendship** is played straight, with the King's **Pet the Dog** moment when he rescues Marlowe against his own greater principles. Ending: **All for Nothing** 
 
-**Anvilicious** parable about rats.**The Setting:  
+**Anvilicious** parable about rats.  
   
   
-** **The Characters:**
+**The Setting:**  
+  
+  
+ **The Characters:**
 
 The King
 
@@ -80,9 +79,9 @@ Sean
 
 You may notice that Sean is not mentioned in my Trope Plot summery.
 
-_no similarity to anyone living or dead exists or is intended  
+_no similarity to anyone living or dead exists or is intended_  
   
-_I am not sure if there was a real King. I am not sure there was a Grey.  
+I am not sure if there was a real King. I am not sure there was a Grey.  
 I believe there was a Sean. I think her invention is beyond Clavell’s power.
 
 She does nothing for the plot.  
@@ -100,9 +99,11 @@ When I first started writing this review (20 minutes ago) I thought I would say 
 
 Marlowe
 
-**The Rats:  
-**         **Coda:  
-**
+**The Rats:**  
+           
+  
+  
+**Coda:**  
 
 It is 1980.
 
@@ -124,6 +125,5 @@ I suggest that when one has found ecstacy eating a dog, one can find meaning aga
   
 poem about babalyon
 
-  
 I image Clavell happy.  
 _ _ _

@@ -14,8 +14,8 @@ tags:
   - Fiction
 ---
 
-**Lineages Longer and Purer Than Their Masters’:  
-A Review of** _**The War Nerd Iliad**_ **by John Dolan**
+**Lineages Longer and Purer Than Their Masters’:**  
+**A Review of** _**The War Nerd Iliad**_ **by John Dolan**
 
 “_[…] was ever sleeping beauty more effectually concealed behind a more impenetrable hedge of dullness?—and she will have to sleep a good many years yet before anyone wakes her effectually._”  
 —Samuel Butler, “The Humour of Homer”  

@@ -107,32 +107,32 @@ As an example of how this works in practice, here’s how Smith tells the story 
 
 > The people saw that the rain wasn’t coming down often as it used to, so they gathered to plan how they would make canals to irrigate their crops. They finally decided they would make a canal right below “Suik”[13]. They dug with pointed sticks and used their hands to throw out the dirt. Being of one mind, they thought they would complete this work, but when they completed it and tried to make water run in it, the water wouldn’t run. Seeing this, they got one of the medicine men and asked him to draw water in the canal. He went down and walked there, singing:
 >
-> _There lie the ditches  
-> And among them  
-> I am walking.  
-> And among them I am breathing,  
-> Leading the water._
+> _There lie the ditches_  
+> _And among them_  
+> _I am walking._  
+> _And among them I am breathing,_  
+> _Leading the water._
 >
 > The water acted like it was going but didn’t go. This medicine man couldn’t do it. So they got another medicine man, and he went down and stood in the canal and sang:
 >
-> _There lie the ditches  
-> And I stood in the midst,  
-> I’m making the winds blow (dust devils)  
-> I’m making the water go._
+> _There lie the ditches_  
+> _And I stood in the midst,_  
+> _I’m making the winds blow (dust devils)_  
+> _I’m making the water go._
 >
 > The water acted like it was going, but it stopped and turned back to where it started from. This man couldn’t do it. So they got another medicine man and told him to try. He sang:
 >
-> _By the side of a river  
-> There lies a canal  
-> In that canal  
-> The water is making signs of pretty decoration._
+> _By the side of a river_  
+> _There lies a canal_  
+> _In that canal_  
+> _The water is making signs of pretty decoration._
 >
 > This man made the water go, but not enough. They got another medicine man and told him to put some more water in the canal. He went down and stood in the canal and sang:
 >
-> _There lie the canals  
-> And in the midst of those  
-> I stand  
-> Making water-hair snakes._
+> _There lie the canals_  
+> _And in the midst of those_  
+> _I stand_  
+> _Making water-hair snakes._
 >
 > The water flowed some more, and they had plenty of water in the canal. From there on, the people learned to build canals in order to irrigate their farms.
 
@@ -169,7 +169,7 @@ We open with the creation narrative. God is called simply God. Technically he’
 
 Earth Doctor then populates the earth. The first person that he creates is named Siuuhu. Also called I’itoi, the Drinker, and Elder Brother, Siuuhu is the closest thing we have to a main character; the primary “god” of the “gods on earth”. His actions, reactions, and constant attempts to stop being the main character are what drive the story forward. If you’ve ever been at a roadside Indian jewelry stand in the American southwest, or if you watched the HBO show _Westworld_, then you’ve seen him before:
 
-![May include: A silver pendant necklace with a black cord. The pendant features a circular design with a labyrinth pattern and a small figure in the center.](https://acximages.ennals.org/images/2026-book-reviews/f74b3682577e5de6.jpg)
+![May include: A silver pendant necklace with a black cord. The pendant features a circular design with a labyrinth pattern and a small figure in the center.](https://acximages.ennals.org/images/2026-book-reviews/da26b4ddaecccc55.jpg)
 
 Took this screencap from an Etsy [page](https://www.etsy.com/listing/277207112/man-in-the-maze-native-iitoi-iithi-litoi), in case you want to buy one. I’m not affiliated.
 
@@ -247,18 +247,18 @@ The narrative then switches to the perspective of these underground people, who 
 >
 > It wasn’t really a stone house, but the leader made it look like solid rock. The [Wooshkam medicine man] fooled himself by saying that the house was made of rock, and he couldn’t do anything with it, so they asked another man who had the power of thunder to see what he could do. He sang:
 >
-> _It is a hard house  
-> It is a hard house  
-> It is a hard house  
-> Do you see the foundation?  
-> It is made out of rock._
+> _It is a hard house_  
+> _It is a hard house_  
+> _It is a hard house_  
+> _Do you see the foundation?_  
+> _It is made out of rock._
 >
 > Then he told the people that it would be easy for him, and he sang:
 >
-> _I saw that he is  
-> Too light for me  
-> It is like a windbreak  
-> Made out of these ocotillos_
+> _I saw that he is_  
+> _Too light for me_  
+> _It is like a windbreak_  
+> _Made out of these ocotillos_
 >
 > It was true. The thunder man came down over the house and smashed it to pieces.
 

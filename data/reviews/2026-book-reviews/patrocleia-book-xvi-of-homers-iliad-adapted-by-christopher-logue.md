@@ -7,18 +7,18 @@ contestName: 2026 Book Reviews
 year: 2026
 publishedDate: '2026-05-08T12:23:17.000Z'
 slug: patrocleia-book-xvi-of-homers-iliad-adapted-by-christopher-logue
-wordCount: 2371
+wordCount: 2368
 readingTimeMinutes: 11
 source: gdoc
 tags:
   - Fiction
 ---
 
-**_**Book design and typography by Germano Facetti  
-Scorpion Press, London 1962**
+**Book design and typography by Germano Facetti**  
+**Scorpion Press, London 1962**
 
- _As flies to wanton boys are we to the gods; They kill us for their sport.  
-_(King Lear I,V:I:37–38)
+ _As flies to wanton boys are we to the gods; They kill us for their sport._  
+(King Lear I,V:I:37–38)
 
 Arguably, few people in history have been as widely and as long revered as the poet Homer. And yet we know nothing certain of him, save that he was credited with the composition, if indeed composition is the right term (perhaps _the singing_ is more accurate) of Western Europe’s two great epics, the Iliad and the Odyssey. Or was it really he? There are many unresolved questions about the poet - above all, whether ‘Omiros’ was a single individual or a succession of many individuals, each adding to and editing the epic over the vast span of time which passed before it was finally transcribed, most probably in Athens sometime during the 6th century BC.
 
@@ -44,188 +44,192 @@ Logue (1926-2011) was a middle-ranking British poet and appropriately, it seems 
 
 Great texts are invariably translated anew for each generation, almost inevitably consigning earlier versions to slow oblivion. But Logue’s version of the Iliad will survive, precisely because it is not a translation, but a radical reimagining which nevertheless hues very close to the original in plot, content and above all in spirit. He takes enormous liberties; he invents new names for minor protagonists, and the heroes no longer orate (or rarely), but talk almost like modern officers. Here is Achilles delivering a fateful warning to Patroclus as he sets off for battle:  
 
-> **And one more thing before you go.  
->          Don’t overreach yourself, Patroclus.  
-> Without me you are something, but not much.  
-> Let Hector be. He’s mine – God willing -  
-> In any case he’d make a meal of you.  
-> And I don’t want you killed, you hear?  
-> But neither do I want to see you shining  
-> At my expense. So, here’s my order.  
-> No matter how, how much, how often or how easily you win,  
-> Once you have forced the Trojans back, you stop. That’s clear?**
+> **And one more thing before you go.**  
+> **Don’t overreach yourself, Patroclus.**  
+> **Without me you are something, but not much.**  
+> **Let Hector be. He’s mine – God willing -**  
+> **In any case he’d make a meal of you.**  
+> **And I don’t want you killed, you hear?**  
+> **But neither do I want to see you shining**  
+> **At my expense. So, here’s my order.**  
+> **No matter how, how much, how often or how easily you win,**  
+> **Once you have forced the Trojans back, you stop. That’s clear?**
 
 Logue also breaks up the action with short, apparently irrelevant interpolations reflecting other times and situations, but which end up of amplifying and illuminating the subsequent action. This comes as Patroclus prepares to move out with his men:  
   
 
->  _**Imagine wolves: an hour ago the pack  
-> Smelt out a stag and tore it into shreds.  
-> Now they have snuffled through its corpse  
-> They want a drink to wash the curry down; so,  
-> they sniff out a pool and loll their long  
-> Thin, sharp-pointed tongues in it; and as they lap  
-> Little crimson billows drift off their chops,  
-> Spreading through the water like red smoke.**_
+>  _**Imagine wolves: an hour ago the pack**_  
+> _**Smelt out a stag and tore it into shreds.**_  
+> _**Now they have snuffled through its corpse**_  
+> _**They want a drink to wash the curry down; so,**_  
+> _**they sniff out a pool and loll their long**_  
+> _**Thin, sharp-pointed tongues in it; and as they lap**_  
+> _**Little crimson billows drift off their chops,**_  
+> _**Spreading through the water like red smoke.**_
 >
->      **Likewise the Myrmidons as they stood for Patroclus,  
-> While Achilles moved along their ranks; here,  
-> Tightening a shoulder strap; there dressing a sword****.**
+> **Likewise the Myrmidons as they stood for Patroclus,**  
+> **While Achilles moved along their ranks; here,**  
+> **Tightening a shoulder strap; there dressing a sword.**
 
 Patroclus succeeds in defeating the Trojan attack on the Greek ships, but succumbs to the hubris Achilles warned him of.
 
->          **Nothing was left of Hector’s raid except  
-> Loose smoke-swathes drifting over the Aegean like dark hair,  
-> And the ditch stained perfect crimson where  
-> Some outraged god, five miles tall, had stamped on glass.**
+> **Nothing was left of Hector’s raid except**  
+> **Loose smoke-swathes drifting over the Aegean like dark hair,**  
+> **And the ditch stained perfect crimson where**  
+> **Some outraged god, five miles tall, had stamped on glass.**
 >
->      **Movement in the air. Gulls lift.  
-> Sideslip. Land again. No more.  
-> Mindless of everything Achilles said  
->          Patroclus went for Troy.**
+> **Movement in the air. Gulls lift.**  
+> **Sideslip. Land again. No more.**  
+> **Mindless of everything Achilles said**  
+> **Patroclus went for Troy.**
 
 And then, before Patroclus meets his fate, Homer sings of the death of Sarpedon, Prince of Lydia, first and most faithful of Troy’s allies, in this most extended of his battle scenes.
 
-> _**Under the white sun, back and forth  
-> Across a disk of yellow earth, midway  
-> Between the ditch and the closed stone capital,  
-> The heroes fought like Pharaoh’s bare-necked hens  
-> Wrangling over carrion in mid air.**_
+> _**Under the white sun, back and forth**_  
+> _**Across a disk of yellow earth, midway**_  
+> _**Between the ditch and the closed stone capital,**_  
+> _**The heroes fought like Pharaoh’s bare-necked hens**_  
+> _**Wrangling over carrion in mid air.**_
 >
-> **Likewise the human champions,  
-> Until Patroclus’ spear nosed past Sarpedon’s busy heart  
-> And the ground sense in his body seeped away.**
+> **Likewise the human champions,**  
+> **Until Patroclus’ spear nosed past Sarpedon’s busy heart**  
+> **And the ground sense in his body seeped away.**
 >
-> _**He fell as a tree falls – oak, say or pine -  
-> Slowly at first and then, with the bright  
-> Commercial axes at its heart,  
-> The tall hurt trunk lies down  
-> Among its leaves, resentfully**__.  
+> _**He fell as a tree falls – oak, say or pine -**_  
+> _**Slowly at first and then, with the bright**_  
+> _**Commercial axes at its heart,**_  
+> _**The tall hurt trunk lies down**_  
+> _**Among its leaves, resentfully**__._  
 >   
-> _
 
 Seeing Hector approach to pillage the corpse, Glaucus, Sarpedon’s second-in-command, appeals to Apollo for help:  
   
 
-> _**Lord, put my pain to sleep,  
-> And grant me strength enough to keep  
-> Swords flickering across  
-> Sarpedon’s ruined body  
-> Until you lead the Sun away.  
->   
-> **_          **And Apollo, Mousegod, Lord of the Morning, He  
-> Whose face is brighter than a thousand suns,  
-> Mollified his wound with precious ointment,  
-> And let delight like flame rise through his loins,  
-> And he did more, for, as Glaucus ran to Hector,  
-> Aeneas, the rest, Apollo called:  
->          “Sun, stand thou still over Ilium,  
-> And guard Sarpedon’s body till their blades  
-> Move over it like** **grasses** **over stone.”  
->   
->          Air into azure steel.  
-> The daylight stiffens** **to translucent** **horn.  
->          And through it,  
-> Falling,  
->          One sun’s cord  
-> That opened out into  
-> A radiant cone around Sarpedon’s body  
-> And him inside it lying  
-> Like a waxen god asleep on his outstretched hand.**
+> _**Lord, put my pain to sleep,**_  
+> _**And grant me strength enough to keep**_  
+> _**Swords flickering across**_  
+> _**Sarpedon’s ruined body**_  
+> _**Until you lead the Sun away.**_
+>
+> **And Apollo, Mousegod, Lord of the Morning, He**  
+> **Whose face is brighter than a thousand suns,**  
+> **Mollified his wound with precious ointment,**  
+> **And let delight like flame rise through his loins,**  
+> **And he did more, for, as Glaucus ran to Hector,**  
+> **Aeneas, the rest, Apollo called:**  
+> **“Sun, stand thou still over Ilium,**  
+> **And guard Sarpedon’s body till their blades**  
+> **Move over it like** **grasses** **over stone.”**
+>
+> Air into azure steel.  
+> The daylight stiffens **to translucent** **horn.**  
+> **And through it,**  
+> **Falling,**  
+> **One sun’s cord**  
+> **That opened out into**  
+> **A radiant cone around Sarpedon’s body**  
+> **And him inside it lying**  
+> **Like a waxen god asleep on his outstretched hand.**
 
 The sequence of events in Logue’s rendition has followed the Homeric original closely, but he interpolates two entirely original texts: the fallen tree simile, and the wonderful details of Apollo’s Joshua-like halting of the sun: _“Sun, stand thou still over Ilium”_. In addition, his is the inspired image of blades moving across Sarpedon’s body “_like grasses over stone_.”
 
 And still the battle rages:  
 
-> **Inside the yellow spiral  
-> The enemies jammed cheek to cheek,  
-> And both, because they could do nothing else,  
-> Looked up and thought they saw the moon -  
-> Was it so long? – and wondered to themselves,  
-> **_**“Who will be left to praise us if we win?  
-> And if we lose, who will there be to bury us?”  
-> **_ **Yet it was not the moon they saw through dust,  
-> But the sun  
-> Turning its back upon a day longer than autumn.**
+> **Inside the yellow spiral**  
+> **The enemies jammed cheek to cheek,**  
+> **And both, because they could do nothing else,**  
+> **Looked up and thought they saw the moon -**  
+> **Was it so long? – and wondered to themselves,**  
+> _**“Who will be left to praise us if we win?**_  
+> _**And if we lose, who will there be to bury us?”**_  
+>  **Yet it was not the moon they saw through dust,**  
+> **But the sun**  
+> **Turning its back upon a day longer than autumn.**
 
 Eventually, after hours of grim fighting and many deaths, the Greeks overcome Glaucus’ Lydians and the body of Sarpedon is stripped of its gear, a trophy to be displayed upon Patroclus’ ship. And the singer, who is Omiros, and is also Logue, comments:  
 
->  **It is true men are clever.  
-> But the least of gods is cleverer than their best.  
->          And it was here, before God’s hands  
-> (Moons poised either side of the world’s agate)  
-> You overreached yourself, Patroclus.  
-> Not only God was out that day but Lord Apollo.**_**“You know he loves the Trojans. So,  
-> No matter how, how much, how often, or how easily you win,  
-> Once you have forced them back, you stop.”  
-> **_ **Remember it, Patroclus? Or was it years ago  
-> Achilles cautioned you outside his tent?  
-> Remembering or not you stripped Sarpedon’s gear,  
-> That glittered like the sea’s far edge at dawn,  
-> Ordered your borrowed Myrmidons to drag him off  
-> And went for Troy alone.**
+>  **It is true men are clever.**  
+> **But the least of gods is cleverer than their best.**  
+> **And it was here, before God’s hands**  
+> **(Moons poised either side of the world’s agate)**  
+> **You overreached yourself, Patroclus.**  
+> **Not only God was out that day but Lord Apollo.**  
+> _**“You know he loves the Trojans. So,**_  
+> _**No matter how, how much, how often, or how easily you win,**_  
+> _**Once you have forced them back, you stop.”**_  
+>  **Remember it, Patroclus? Or was it years ago**  
+> **Achilles cautioned you outside his tent?**  
+> **Remembering or not you stripped Sarpedon’s gear,**  
+> **That glittered like the sea’s far edge at dawn,**  
+> **Ordered your borrowed Myrmidons to drag him off**  
+> **And went for Troy alone.**
 
 It is now too late for the hero, as the hammer blows of Achilles’ admonitory warnings echo again like an ominous Wagnerian theme:  
 
-> **Three times Patroclus climbed Troy’s wall.  
-> Three times his fingers scraped the parapet.  
-> Three times and every time he tried it on  
-> The smiling Mousegod flicked him back.  
-> But when he came a fourth, last time,  
-> The smile was gone.  
->          Instead, from parapet to plain to beach-head, on,  
-> Across the rucked, sunlit Aegean, the Mousegod’s voice -  
-> Loud as ten thousand crying together -  
->          Cried  
-> ****“Greek,  
->   Get back where you belong!”  
-> **          **So loud  
-> Even the Yellow Judges passing sentence  
-> Half of the world away, paused -****“Get back where you belong!  
->   Troy will fall in God’s good time,  
->   But not to you!”  
-> **         **Banner behind slatted banner,  
-> Blue overwhelming gold, gold over blue,  
-> It was Patroclus’ turn to run  
-> Wide-armed, staring into the fight, and desperate  
-> To hide (to blind that voice) to hide  
-> Behind the moving blades.**
+> **Three times Patroclus climbed Troy’s wall.**  
+> **Three times his fingers scraped the parapet.**  
+> **Three times and every time he tried it on**  
+> **The smiling Mousegod flicked him back.**  
+> **But when he came a fourth, last time,**  
+> **The smile was gone.**  
+> **Instead, from parapet to plain to beach-head, on,**  
+> **Across the rucked, sunlit Aegean, the Mousegod’s voice -**  
+> **Loud as ten thousand crying together -**  
+> **Cried**  
+> **“Greek,**  
+>   **Get back where you belong!”**  
+> **So loud**  
+> **Even the Yellow Judges passing sentence**  
+> **Half of the world away, paused -**
+>
+> **“Get back where you belong!**  
+>   **Troy will fall in God’s good time,**  
+>   **But not to you!”**  
+> **Banner behind slatted banner,**  
+> **Blue overwhelming gold, gold over blue,**  
+> **It was Patroclus’ turn to run**  
+> **Wide-armed, staring into the fight, and desperate**  
+> **To hide (to blind that voice) to hide**  
+> **Behind the moving blades.**
 
 Till at the end, in a hysterical frenzy to escape Apollo’s anger, head ringing with his roar, reduced to pure killing machine, Patroclus senses the presence of the god at his back...
 
->            **Patroclus broke among the Trojans.  
-> A set of jealous bones covered with flesh  
-> Finished with bronze, dipped in blood,  
-> And the whole being inspired by ferocity**.  
->   
-> **- Kill them!**          **My sweet Patroclus  
->   
-> ****- Kill them!  
-> **         **As many as you can  
->          For  
-> Coming behind you in the dusk you felt  
-> -- What was it? – felt the darkness part and then**
+> **Patroclus broke among the Trojans.**  
+> **A set of jealous bones covered with flesh**  
+> **Finished with bronze, dipped in blood,**  
+> **And the whole being inspired by ferocity**.
+>
+> **- Kill them!**            
+> **My sweet Patroclus**
+>
+> **- Kill them!**  
+>            
+> **As many as you can**  
+> **For**  
+> **Coming behind you in the dusk you felt**  
+> **-- What was it? – felt the darkness part and then**
 
 **Apollo!**
 
-> **Who had been patient with you,  
-> Struck.**
+> **Who had been patient with you,**  
+> **Struck.**
 
 But that inexorable “struck” is not quite the end, for the very last word is bleaker still, spoken by a doomed Hector as he finishes off the dying Greek:
 
-> “**Big mouth,  
-> Remember it took three of you to kill me.  
-> A god, a boy, and last of all, a hero!  
->          I can hear Death  
-> Calling my name and yet,  
-> Somehow it sounds like** _**‘Hector’  
-> **_         **And when I close my eyes  
-> I see Achilles’ face with Death’s voice coming out of it.”**
+> “**Big mouth,**  
+> **Remember it took three of you to kill me.**  
+> **A god, a boy, and last of all, a hero!**  
+> **I can hear Death**  
+> **Calling my name and yet,**  
+> **Somehow it sounds like** _**‘Hector’**_  
+> **And when I close my eyes**  
+> **I see Achilles’ face with Death’s voice coming out of it.”**
 >
->          **Saying these things Patroclus died.  
-> And as his soul went through the sand like water,  
-> Hector withdrew his spear and said**         _**“Perhaps.**__”  
+> **Saying these things Patroclus died.**  
+> **And as his soul went through the sand like water,**  
+> **Hector withdrew his spear and said**  
+> _**“Perhaps.**__”_  
 >   
-> _
 
 [1]  Ancient Greek νόστος (nostos), derived from the verb νέομαι, to turn back; hence here, home-sickness.
 

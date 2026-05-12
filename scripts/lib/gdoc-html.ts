@@ -8,6 +8,19 @@
 import * as cheerio from 'cheerio';
 import type { CheerioAPI } from 'cheerio';
 import TurndownService from 'turndown';
+import fs from 'fs';
+import path from 'path';
+
+/**
+ * Local cache for raw Google Docs HTML exports. Keyed by docId. Lets us
+ * iterate on conversion logic without hitting Google's export endpoint
+ * every time — exports are slow and sometimes rate-limited, and the HTML
+ * itself is stable for the duration of a contest-import cycle. Set
+ * GDOC_NO_CACHE=1 to force a fresh fetch (e.g. when the author has edited
+ * the doc since the last cached copy).
+ */
+const GDOC_CACHE_DIR = path.join(process.cwd(), '.gdoc-cache');
+const GDOC_CACHE_DISABLED = process.env.GDOC_NO_CACHE === '1';
 
 // Initialize Turndown for HTML to Markdown conversion
 const turndownService = new TurndownService({
@@ -191,35 +204,39 @@ function applySemanticTags($: CheerioAPI, styles: GDocStyleMap): void {
     }
   }
 
-  // Bold: wrap span contents in <strong> if any of its classes are bold
-  if (styles.boldClasses.size > 0) {
-    $('span').each(function () {
+  // Split `<p>` elements that contain `<br><br>` (or more) runs into
+  // separate paragraphs at those boundaries. Google Docs encodes a
+  // stanza break inside a single visual block (poetry, long quotes) as
+  // a double `<br>` in the middle of one big `<p>`. Without splitting,
+  // the per-line span-split below collapses both stanzas into a
+  // continuous run of `<br>`-separated lines and the visual break is
+  // lost (we saw stanza N's last line + stanza N+1's first line
+  // glued together on one rendered line in Patrocleia).
+  //
+  // Guard: only split when the paragraph is itself indent-classed.
+  // A body paragraph with intentional double-`<br>` is rare but happens,
+  // and splitting it would surprise the author.
+  if (styles.indentClasses.size > 0) {
+    $('p').each(function () {
       const el = $(this);
-      const classes = (el.attr('class') || '').split(/\s+/);
-      const isBold = classes.some(c => styles.boldClasses.has(c));
-      if (isBold && el.text().trim()) {
-        // Don't double-wrap if already inside <strong> or <b>.
-        // Don't wrap inside headings — they're already prominent.
-        if (!el.closest('strong, b, h1, h2, h3, h4, h5, h6').length) {
-          el.wrapInner('<strong></strong>');
-        }
-      }
+      const inner = el.html() || '';
+      const splitRe = /(?:<br\s*\/?>\s*){2,}/g;
+      if (!splitRe.test(inner)) return;
+      const cls = el.attr('class') || '';
+      const classes = cls.split(/\s+/);
+      const isIndented = classes.some(c => styles.indentClasses.has(c));
+      if (!isIndented) return;
+      const rawParts = inner.split(splitRe).map(p => p.trim());
+      const textLen = (p: string) =>
+        p.replace(/<[^>]+>/g, '').replace(/&nbsp;|&#160;| | /g, ' ').trim().length;
+      const parts = rawParts.filter(p => textLen(p) > 0);
+      if (parts.length < 2) return;
+      const classAttr = cls ? ` class="${cls.replace(/"/g, '&quot;')}"` : '';
+      const wrappers = parts.map(p => `<p${classAttr}>${p}</p>`).join('');
+      el.replaceWith(wrappers);
     });
   }
 
-  // Italic: wrap span contents in <em> if any of its classes are italic
-  if (styles.italicClasses.size > 0) {
-    $('span').each(function () {
-      const el = $(this);
-      const classes = (el.attr('class') || '').split(/\s+/);
-      const isItalic = classes.some(c => styles.italicClasses.has(c));
-      if (isItalic && el.text().trim()) {
-        if (!el.closest('em, i, h1, h2, h3, h4, h5, h6').length) {
-          el.wrapInner('<em></em>');
-        }
-      }
-    });
-  }
 
   // Split paragraphs where the author faked a paragraph break with
   // <br> + a run of &nbsp; (first-line indent). Google Docs emits a single
@@ -268,6 +285,89 @@ function applySemanticTags($: CheerioAPI, styles: GDocStyleMap): void {
     el.replaceWith(wrappers);
   });
 
+  // Split <span>s that contain inline <br> elements into one sibling span
+  // per line. Google Docs encodes multi-line poetry as a single <span>
+  // wrapping every verse line with <br> between them — and then attaches
+  // bold/italic classes to that one <span>. If we leave the structure
+  // alone, Turndown emits the whole stanza as one multi-line `_**...**_`
+  // run; most markdown renderers can't handle emphasis that spans a hard
+  // line break cleanly, and the result is malformed delimiters at line
+  // starts. Splitting per line first means each line gets its own
+  // balanced `_**line**_` in the markdown.
+  //
+  // Strip leading and trailing <br>s inside the span first — leading ones
+  // would split into an empty initial span (a stray blank line at the
+  // top of the paragraph); trailing ones are padding at the bottom and
+  // would similarly produce an empty final span. Run this AFTER the
+  // `<br>+nbsp` paragraph split above so we don't consume `<br>`s that
+  // pass needed to find.
+  $('span').each(function () {
+    const el = $(this);
+    let inner = el.html() || '';
+    if (!/<br\s*\/?>/.test(inner)) return;
+    // Strip leading `<br>`s outright — they create empty initial spans.
+    inner = inner.replace(/^\s*(?:<br\s*\/?>\s*)+/, '');
+    // Extract trailing `<br>` runs. We can't just discard them: a `<br>`
+    // sitting between two sibling spans inside the same `<p>` is a
+    // line break that visually separates two distinct chunks (title vs
+    // byline; verse line vs blank-line; etc). Re-emit it as a sibling
+    // `<br>` AFTER the span so the line break survives the split.
+    let trailingBrs = '';
+    const trailMatch = inner.match(/(?:\s*<br\s*\/?>)+(\s*)$/);
+    if (trailMatch) {
+      const brCount = (trailMatch[0].match(/<br\s*\/?>/g) || []).length;
+      trailingBrs = '<br>'.repeat(brCount);
+      // Preserve any trailing whitespace from the captured group; it's
+      // what separates this span from the next textually.
+      inner = inner.slice(0, inner.length - trailMatch[0].length) + trailMatch[1];
+    }
+    if (!/<br\s*\/?>/.test(inner)) {
+      if (trailingBrs) {
+        const cls = el.attr('class') || '';
+        const classAttr = cls ? ` class="${cls.replace(/"/g, '&quot;')}"` : '';
+        el.replaceWith(`<span${classAttr}>${inner}</span>${trailingBrs}`);
+      } else {
+        el.html(inner);
+      }
+      return;
+    }
+    const cls = el.attr('class') || '';
+    const classAttr = cls ? ` class="${cls.replace(/"/g, '&quot;')}"` : '';
+    const parts = inner.split(/<br\s*\/?>/);
+    const newHtml = parts.map(p => `<span${classAttr}>${p}</span>`).join('<br>') + trailingBrs;
+    el.replaceWith(newHtml);
+  });
+
+  // Bold: wrap span contents in <strong> if any of its classes are bold
+  if (styles.boldClasses.size > 0) {
+    $('span').each(function () {
+      const el = $(this);
+      const classes = (el.attr('class') || '').split(/\s+/);
+      const isBold = classes.some(c => styles.boldClasses.has(c));
+      if (isBold && el.text().trim()) {
+        // Don't double-wrap if already inside <strong> or <b>.
+        // Don't wrap inside headings — they're already prominent.
+        if (!el.closest('strong, b, h1, h2, h3, h4, h5, h6').length) {
+          el.wrapInner('<strong></strong>');
+        }
+      }
+    });
+  }
+
+  // Italic: wrap span contents in <em> if any of its classes are italic
+  if (styles.italicClasses.size > 0) {
+    $('span').each(function () {
+      const el = $(this);
+      const classes = (el.attr('class') || '').split(/\s+/);
+      const isItalic = classes.some(c => styles.italicClasses.has(c));
+      if (isItalic && el.text().trim()) {
+        if (!el.closest('em, i, h1, h2, h3, h4, h5, h6').length) {
+          el.wrapInner('<em></em>');
+        }
+      }
+    });
+  }
+
   // Blockquote: wrap each indented block in its own <blockquote>. Adjacent
   // single-block blockquotes in the HTML are collapsed into a single
   // multi-paragraph block later, at the markdown level, which avoids the
@@ -314,6 +414,9 @@ function applySemanticTags($: CheerioAPI, styles: GDocStyleMap): void {
     const cleaned = innerHtml
       .replace(/^(<br\s*\/?>)?\s*((\u00a0|&nbsp;)\s*)+/, '')
       .trim();
+    if (innerHtml.includes('It is')) {
+      console.log('DBG nbsp-strip:', JSON.stringify(innerHtml.slice(0, 80)), '->', JSON.stringify(cleaned.slice(0, 80)));
+    }
     target.html(cleaned);
   });
 }
@@ -343,7 +446,17 @@ export function cleanupMarkdown(markdown: string): string {
     // Clean up multiple consecutive blank lines
     .replace(/\n{4,}/g, '\n\n\n')
     // Remove escaped asterisks at line starts (but preserve ** for bold)
-    .replace(/^\\(\*[^*])/gm, '$1');
+    .replace(/^\\(\*[^*])/gm, '$1')
+    // Collapse adjacent identical-emphasis delimiters that came from
+    // Google Docs splitting a bold/italic run across multiple sibling
+    // spans (e.g. the run plus a trailing punctuation span both flagged
+    // bold), which Turndown emits as `**foo****bar**` or `__foo____bar__`.
+    // The `****` / `____` pairs render as literal characters in some
+    // markdown parsers and look ugly even when they don't. Only collapse
+    // when sandwiched between non-whitespace characters; a `****` line by
+    // itself is a thematic break and must be preserved.
+    .replace(/(?<=\S)\*\*\*\*(?=\S)/g, '')
+    .replace(/(?<=\S)____(?=\S)/g, '');
 
   // Dedent italic-only lines that start with significant leading
   // whitespace. Some authors indent poem lines via &nbsp; runs for
@@ -353,6 +466,23 @@ export function cleanupMarkdown(markdown: string): string {
   // safe to dedent because the entire content is wrapped in `_`-italic
   // (`_` is not a meaningful character in indented code blocks).
   md = md.replace(/^ {4,}(_[^_\n]+_[ \t]*)$/gm, '$1');
+
+  // Dedent over-indented lines inside blockquotes. After nbsp→space
+  // normalization, a blockquoted verse line like `>      **Myrmidons...`
+  // has 5+ leading spaces inside the blockquote, which CommonMark parses
+  // as an INDENTED CODE BLOCK — rendered as monospace grey on a grey
+  // muted background (unreadable). We don't want any author-intended
+  // markdown to silently turn into code; preserve a single space of
+  // visual lead-in and drop the rest.
+  md = md.replace(/^(>\s)[ \t]{4,}(?=\S)/gm, '$1');
+  // And the same for body lines that aren't quoted: 4+ leading spaces
+  // on inline-emphasis or heading-only content is the nbsp-indent
+  // artifact left over from Google Docs first-line indentation, not
+  // an intentional code block. Don't touch list markers (`* ` / `- ` /
+  // `1. `) — those indents ARE meaningful (nested list children).
+  // Fenced code blocks (```) are unaffected because their content
+  // lines don't start with `**`/`_`/`#`.
+  md = md.replace(/^ {4,}(?=(?:\*\*|_|#{1,6}\s))/gm, '');
 
   // Quote-block detection: when a run of italic-only paragraphs is
   // followed (across blank lines) by a single blockquote-list-item
@@ -732,6 +862,12 @@ export function cleanupMarkdown(markdown: string): string {
  * giving up.
  */
 export async function fetchGDocAsHTML(docId: string): Promise<string> {
+  const cachePath = path.join(GDOC_CACHE_DIR, `${docId}.html`);
+  if (!GDOC_CACHE_DISABLED && fs.existsSync(cachePath)) {
+    console.log(`  Reading cached: ${docId}`);
+    return fs.readFileSync(cachePath, 'utf8');
+  }
+
   const url = `https://docs.google.com/document/d/${docId}/export?format=html`;
   const MAX_ATTEMPTS = 5;
   const BASE_DELAY_MS = 2000;
@@ -759,6 +895,10 @@ export async function fetchGDocAsHTML(docId: string): Promise<string> {
       if (response.ok) {
         const text = await response.text();
         clearTimeout(timer);
+        if (!GDOC_CACHE_DISABLED) {
+          fs.mkdirSync(GDOC_CACHE_DIR, { recursive: true });
+          fs.writeFileSync(cachePath, text);
+        }
         return text;
       }
 
@@ -804,6 +944,21 @@ function convertHtmlChunk(html: string): string {
   const styles = parseGDocStyles(html);
 
   const $ = cheerio.load(html);
+
+  // Remove Google Docs page-footer artifacts. Docs that had a header/footer
+  // turned on export with a stub like `<div><p>...Page  of </p></div>`
+  // (or "Page 3 of 7" with literal numbers) sitting at the bottom of the
+  // body, just before the footnote `<hr>`. These leak into the rendered
+  // review as a stray "Page of" line. Match the normalized text content of
+  // any top-level <p>/<div> to the page-number pattern and strip it.
+  const PAGE_FOOTER_RE = /^\s*Page\s*(?:[0-9ivxlcdm]+)?\s*of\s*(?:[0-9ivxlcdm]+)?\s*$/i;
+  $('body > div, body > p').each(function () {
+    const el = $(this);
+    const text = el.text().replace(/ /g, ' ').trim();
+    if (text && PAGE_FOOTER_RE.test(text)) {
+      el.remove();
+    }
+  });
 
   // Apply semantic tags (bold→<strong>, italic→<em>, indent→<blockquote>)
   // before Turndown conversion so it can recognize the formatting.
