@@ -29,7 +29,7 @@ By now I’ve probably seen hundreds of examples like this. Someone notices some
 
 I call this “armchair evopsych.” Its big problem is that it reasons backward. To follow the scientific method, you first make a guess (call it a “hypothesis” if you must), then you test it and interpret the result to see if it supports your theory. In armchair evopsych, you do this backwards. You get the result or the observation first (often a conclusion from a different study or just speculation about how people behave) then come up with a _post hoc_ explanation about what the evolutionary mechanism was. And then you’re done! It’s a rhetorical sleight-of-hand that seems to add evidence for the existence of a behavior while actually adding nothing but a plausible-sounding Just So Story.
 
-![](https://acximages.ennals.org/images/2026-book-reviews/b36f46a478740ba7.png)
+![](https://acximages.ennals.org/images/2026-book-reviews/6260518aa3a898aa.png)
 
 I held out hope that there was a more rigorous form of evolutionary psychology, where evolutionary theory would inform an educated guess about human behavior, but then it would be rigorously tested and add observational data to increase our understanding of human behavior. To that end, I read “The Evolution of Desire” (2016 edition) by David Buss. Buss is one of the most well-respected researchers in the field of evolutionary psychology. I figured that if I could find the good version anywhere, it would be in his seminal work.
 

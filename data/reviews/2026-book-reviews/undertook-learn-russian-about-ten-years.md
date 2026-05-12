@@ -48,7 +48,7 @@ If you said “it’s a black hole,” you’re wrong. Rather, what you are look
 
 Hopefully, after this short exercise, you’ve been completely disabused of any tendency to confuse representation for reality. But, just in case, we’ll do one more—what do you see in the following picture:
 
-![](https://acximages.ennals.org/images/2026-book-reviews/f8b59dc1a6b9f457.png)
+![](https://acximages.ennals.org/images/2026-book-reviews/49766ab1db14a13b.png)
 
 _Figure 2: The Output of a Very Complex Function That Takes as Inputs the Data Received From the Event Horizon Telescope Pointed toward the Center of Messier 87_
 

@@ -26,7 +26,7 @@ Most people’s survival was not secure for most of human history. Surrounded by
 
 Inglehart called this Evolutionary Modernization Theory. To test it, he and his collaborators established the World Values Survey. For the past forty-five years, it has conducted hundreds of thousands of interviews with representative sample populations in “more than 100 countries containing over 90 percent of the world’s population.” The researchers used this quasi-longitudinal data to track how the values in each country have been changing over the decades. Here’s their [most recent snapshot](https://www.worldvaluessurvey.org/WVSContents.jsp?CMSID=Findings) of the world’s moral values, from 2017-2022:
 
-![](https://acximages.ennals.org/images/2026-book-reviews/c65e83b74d2315d1.jpg)
+![](https://acximages.ennals.org/images/2026-book-reviews/f0ac6af53cb0561d.jpg)
 
 High-income countries tend to hold Secular and Self-expression values, while low-income countries tend to hold Traditional and Survival values. The Traditional → Secular axis is defined about how you expect it to be defined, but Survival values and Self-expression values, which are more central to Inglehart and colleagues’ findings, aren’t as immediately clear. Let’s define these. (Feel free to skip the next two paragraphs if you don’t care about definitions.)
 
@@ -64,7 +64,7 @@ Another common objection is that generational replacement can’t be the way tha
 
 There’s also a role for period effects: economic booms, recessions, pandemics, anything that can change how people feel about their own existential security. These tend to affect all living generations at once, and push their values in one direction or the other. But the generational difference remains, with older generations orienting more toward Survival values and younger generations aligning more with Self-expression values even during periods when everyone’s values are affected at once. These cohort effects typically far outweigh any period effects. Events that impact all society are usually transient, and their effects on values reverse as soon as existential security returns to its prior level. Cohort effects tend to be permanent.
 
-![](https://acximages.ennals.org/images/2026-book-reviews/35f45a3cb64c07e0.jpg)
+![](https://acximages.ennals.org/images/2026-book-reviews/da91cc4cc40a1cad.jpg)
 
 (The period effect of COVID on democracy is clearly visible in 2020. More on democracy below.)
 
@@ -184,7 +184,7 @@ There is voluminous [empirical evidence](https://www.pnas.org/doi/10.1073/pnas.2
 
 Once good economic conditions have already led to a rise in Self-expression values among the broader population, why do those values recede when economic conditions are still generally good? Inglehart points to this chart, the “elephant curve,” depicting the global population’s relative gain in real per capita income from 1988 through 2008, stratified by income percentile:
 
-![](https://acximages.ennals.org/images/2026-book-reviews/71d109d58d75c664.jpg)
+![](https://acximages.ennals.org/images/2026-book-reviews/10dbfb15e83d960d.jpg)
 
 [Source](https://www.jstor.org/stable/j.ctvjghwk4)
 

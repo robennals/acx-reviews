@@ -22,7 +22,7 @@ Chater's book collects a lot of evidence from cognitive science about the quirks
 
 The simplest example is impossible objects.
 
-![](https://acximages.ennals.org/images/2026-book-reviews/21c05de60977bac5.jpg)
+![](https://acximages.ennals.org/images/2026-book-reviews/d78b6da5965094e0.jpg)
 
 [Source](https://en.wikipedia.org/wiki/Impossible_object)
 
@@ -66,7 +66,7 @@ But first, let’s talk about the evidence.
 
 A naive model of how the mind works is that we have a full and precise mental representation of the world around us, ready to be consulted at any moment. A homunculus sitting inside our skull, watching a richly detailed movie on an inner screen.
 
-![Retinal and Pineal Images in Descartes Treatise of Man](https://acximages.ennals.org/images/2026-book-reviews/5e87ab24684103c8.png)
+![Retinal and Pineal Images in Descartes Treatise of Man](https://acximages.ennals.org/images/2026-book-reviews/110e40682b84a39b.png)
 
 Diagram from Descartes' _Treatise of Man_ (1664), showing the formation of inverted retinal images in the eyes, and the transmission of these images, via the nerves so as to form a single, re-inverted image on the surface of the pineal gland.
 
@@ -104,7 +104,7 @@ The crucial question is: how small can we shrink the window before people notice
 
 [McConkie and Rayner showed](https://link.springer.com/article/10.3758/BF03203972) in 1975 that the window can be shrunk to just ten to fifteen characters. As long as those ten to fifteen characters of normal text are there, reading proceeds quite normally. The rest of the page can be strings of xs, or Latin, or whatever the experimenter chooses, and it makes no difference.
 
-![](https://acximages.ennals.org/images/2026-book-reviews/c67d84757a24a1eb.jpg)
+![](https://acximages.ennals.org/images/2026-book-reviews/66c82570029fe14a.jpg)
 
 In other clever experiments it’s possible to demonstrate, for example, that [humans are only able to see one color and one pattern at a time](https://pubmed.ncbi.nlm.nih.gov/17638498/).1 We are always switching sequentially from seeing one color to the next, from one pattern to the next. And yet we of course have the illusion of experiencing a colorful, rich world.
 
@@ -142,7 +142,7 @@ Psychologists call this the [illusion of explanatory depth](https://en.wikipedia
 
 Neglect patients are perhaps the most striking case. After certain kinds of brain damage, these patients lose awareness of one entire side of their visual field. Half the world is simply gone. And yet they can feel rather doubtful that they have a visual deficit at all.
 
-![](https://acximages.ennals.org/images/2026-book-reviews/e29e4aeca67df0d3.jpg)
+![](https://acximages.ennals.org/images/2026-book-reviews/88617773a03ffc4e.jpg)
 
 Examples of clock drawings produced by right-brain-damaged stroke survivors with spatial neglect. [Source](https://pmc.ncbi.nlm.nih.gov/articles/PMC3371137/)
 
@@ -164,7 +164,7 @@ The [Kuleshov effect](https://en.wikipedia.org/wiki/Kuleshov_effect) highlights 
 
 Audiences were impressed by Mozzhukhin’s subtle acting, seeing grief, hunger, and lust in turn. But the acting wasn’t subtle. It was non-existent. The very same shots of his relatively impassive face were used in each case. The audience imposed their own interpretations of his emotional state, driven entirely by context.
 
-![](https://acximages.ennals.org/images/2026-book-reviews/2ec74515a3d634cc.jpg)
+![](https://acximages.ennals.org/images/2026-book-reviews/0b8182c478bacc0d.jpg)
 
 The same principle that Kuleshov demonstrated with faces applies to our opinions. [Shafir and Tversky](https://www.sciencedirect.com/science/article/abs/pii/001002779390034S) asked people to imagine making custody decisions between two parents.
 
@@ -194,7 +194,7 @@ Our mind is constantly inventing interpretations, and its priority is coherence.
 
 [Johansson and Hall](https://pubmed.ncbi.nlm.nih.gov/16210542/) showed that this isn’t just a quirk of split-brain patients. In their experiments, participants were shown pairs of faces and asked to pick the more attractive one. On some trials, by a sleight-of-hand card trick, participants were handed the face they had not chosen. Most didn’t notice. And when asked to explain their “choice,” they readily came up with reasons: it was the earrings, or the curly hair.
 
-![](https://acximages.ennals.org/images/2026-book-reviews/6b57b06a9caa845f.jpg)
+![](https://acximages.ennals.org/images/2026-book-reviews/0f7bd68485ebfe33.jpg)
 
 Sleight-of-hand card trick where participants are handed the face they had not chosen.
 

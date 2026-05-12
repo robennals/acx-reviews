@@ -30,7 +30,7 @@ These challenges were not solved immediately. But scientists did, over time, con
 
 So how did they do it, and why is it worth learning about?
 
-![](https://acximages.ennals.org/images/2026-book-reviews/b0d43cd9867658dc.png)
+![](https://acximages.ennals.org/images/2026-book-reviews/7a1797d6cf840be1.png)
 
 Chang begins and ends the book with a case for _[complementary science](http://www.sites.hps.cam.ac.uk/boiling/Complementary.htm)_.
 
@@ -48,7 +48,7 @@ Another value of complementary science is _contextualization_ and _rediscovery_.
 
 Finally, the study of other disciplines like thermometry can, if we’re lucky, inform modern debates and challenges. As I’ll discuss towards the end of this essay, perhaps _the_ major contemporary measurement challenge is benchmarking the capabilities and behaviors of large language models (LLMs) and other Artificial Intelligence (AI) systems. There are, of course, many points of divergence between thermometry and the scientific study of LLMs; but as I’ll suggest, even these differences can be instructive about the kind of challenge we now face.
 
-![](https://acximages.ennals.org/images/2026-book-reviews/b0d43cd9867658dc.png)
+![](https://acximages.ennals.org/images/2026-book-reviews/7a1797d6cf840be1.png)
 
 Let’s start, then, with the idea of epistemic iteration.
 
@@ -78,7 +78,7 @@ We can use this framework to conceptualize the history of thermometry. In the ea
 
 These thermoscopes, as I wrote above, were _ordinal_. The relative height of liquid in a narrow tube indicates whether some substance is hotter than another. It doesn’t tell us, however, exactly _how much hotter_. That requires a numerical scale, which in turn relies on the identification of “fixed points” (i.e., for anchoring the scale) and a method for “graduating” the scale (i.e., for interpolating between those points). These challenges are the primary subjects of chapters 1 and 2, respectively.
 
-![](https://acximages.ennals.org/images/2026-book-reviews/b0d43cd9867658dc.png)
+![](https://acximages.ennals.org/images/2026-book-reviews/7a1797d6cf840be1.png)
 
 Each of the primary chapters in _Inventing Temperature_ is divided into two sections. The first section covers some historical challenge in considerable detail, naming the main “players” and describing the steps they undertook to address that challenge; the second section uses this as the basis for drawing more abstract, generalizable lessons about how science is conducted. We might think of these chapters as making the case, implicitly, for what Chang calls “complementary science”: as I mentioned above, he makes the case explicitly at other points in the book, but these chapters serve as a kind of proof-of-concept that the approach is viable and even useful.
 
@@ -86,7 +86,7 @@ Some readers will likely be drawn more towards the philosophical distillations a
 
 Perhaps most importantly, the history provides the reader with a deep sense of how challenging some of these questions really were, and how much careful empirical work was required to address them. I consider one of these examples in the section below.
 
-![](https://acximages.ennals.org/images/2026-book-reviews/b0d43cd9867658dc.png)
+![](https://acximages.ennals.org/images/2026-book-reviews/7a1797d6cf840be1.png)
 
 Suppose we’ve constructed a thermoscope and anchored its readings to some fixed points we take to be relatively reliable (e.g., steam temperature). This process is itself not without some complexity, given the difficulty in identifying a stable fixed point (the boiling point of water, it turns out, is subject to fluctuation given atmospheric pressure, the material of the vessel, the water’s purity, and other factors). But assuming we’ve overcome those difficulties, we still face the question of how to _interpolate_ between them and, crucially, how to ensure that different instruments provide the same reading for the same substance.
 
@@ -139,7 +139,7 @@ Chang writes:
 
 As Chang notes, this _is_ an assumption: thus, it is not the case that Regnault made zero assumptions in his work. Moreover, the principle of single value is not merely a matter of logical consistency or non-contradiction (as would, say, the principle that a temperature can be _both_ 15˚C and _not_ 15˚C). Indeed, there are plenty of non-physical properties that we allow to take on multiple values, such as an object possessing multiple names or a mathematical function with multiple outputs. But because of the physical nature of temperature, we have a commitment (whether implicit or explicit) to the principle of single value. And crucially, this minimal commitment is what allowed Regnault to ground his (very extensive!) empirical investigation.
 
-![](https://acximages.ennals.org/images/2026-book-reviews/b0d43cd9867658dc.png)
+![](https://acximages.ennals.org/images/2026-book-reviews/7a1797d6cf840be1.png)
 
 There is much more that I cannot hope to cover here, both on the topic of Regnault’s work specifically and on the history of thermometry more generally. This history includes a number of remarkable detours and digressions—each stemming from a seemingly intractable problem—such as the [Wedgwood scale](https://en.wikipedia.org/wiki/Wedgwood_scale), a temperature scale developed by the potter [Josiah Wedgwood](https://en.wikipedia.org/wiki/Josiah_Wedgwood) to measure the temperature of extremely hot objects, i.e., at temperatures that would simply melt a mercury thermometer. The scale was based on the observation that clay shrinks when heated above so-called “[red heat](https://en.wikipedia.org/wiki/Red_heat)”, and the degree of shrinkage associated with a particular cube of clay could be used to approximate the heat of a room; the scale was ingenious, particularly Wedgwood’s technique for calibrating it with existing mercury thermometers, though [it eventually became obsolete](https://en.wikipedia.org/wiki/Wedgwood_scale#Corrections).
 
@@ -161,7 +161,7 @@ This is not to say progress cannot be made. A natural fixed point, for instance,
 
 Perhaps the closest example of something like _fixed points_ in LLM benchmarking comes from the much-discussed [METR graph](https://metr.org/) (below). Here, LLMs are measured in terms of their success rate performing tasks that take various amounts of time for humans to perform (e.g., from 4 seconds to 10 hours). This represents a conceptual advance in two ways: first, the tasks themselves are selected in terms of putatively useful capabilities (like “counting words in a passage” or “training a classifier”); and second, performance is grounded not only in a numerical score (e.g., “accuracy”) but aggregated in terms of _time_, which gives us a kind of common “currency” with which to compare models and tasks.
 
-![](https://acximages.ennals.org/images/2026-book-reviews/97faac29c90d2a7d.jpg)
+![](https://acximages.ennals.org/images/2026-book-reviews/d3716a8f415bd82e.jpg)
 
 Screenshot of the much-discussed [METR graph](https://metr.org/), which measures the ability of LLMs to perform tasks that take humans various amounts of time to perform.
 

@@ -147,7 +147,7 @@ Steinbeck documents the phenomenon that the extreme low end of the wealth and in
 
 One of the starkest studies he includes is [this one](https://www.sciencedirect.com/science/article/pii/S0160289620300921) from Sweden. In the graph entitled “Probability of Childlessness” we can see that for men in the lowest income decile the P(childless) never goes below 30% for all IQ levels. The correlation holds until income decile 6, at which point it starts leveling off.
 
-![](https://acximages.ennals.org/images/2026-book-reviews/17c9d52b04696cf5.jpg)
+![](https://acximages.ennals.org/images/2026-book-reviews/01a358837daf94a7.jpg)
 
 Once again, this data is for men. For the lowest-IQ, lowest-income levels, shown at top left in the graph, P(childless) is above 50%. (A note in the study: “Interestingly, we find that after adjusting for income, men with higher cognitive ability have a higher probability of childlessness than men with the median cognitive ability score. Assuming that they have a similar income, men with high cognitive ability scores are therefore more likely to be childless than men with average cognitive ability scores.” The Idiocracy model that less intelligent people have more children is correct… but only if you consider the population above median IQ levels, i.e. the right half of the IQ bell curve)
 

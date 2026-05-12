@@ -295,7 +295,7 @@ At the end of the 13th century, skeptics and atheists began their attack against
 
 As per Plato’s advice that philosophers should become kings or kings should become philosophers, it’s obvious to de Botton that writing books is not enough to change things. He supports his claim with a comparison of the financial resources that institutions can gather vs what the most successful individual author can gather.
 
-![](https://acximages.ennals.org/images/2026-book-reviews/632da0c04018e2fa.png)
+![](https://acximages.ennals.org/images/2026-book-reviews/799e9106bede4508.png)
 
 James Patterson is considered the most well paid individual author in the world.
 
@@ -303,7 +303,7 @@ James Patterson is considered the most well paid individual author in the world.
 
 Institutions with deep pockets can attract those in search of both a comfortable life and an opportunity to positively impact the world. Consider, de Botton says, the differences between Thomas Aquinas and Friederich Nietzsche. Aquinas benefited from the perks offered by the University of Paris and then the theological college he established in Naples. Whereas Nietzsche felt that he was living “like an animal chased out from all dens”. Although seen as an example of heroic individualism, Nietzsche would have wanted nothing more than to trade isolation for a university that would grant his ideas a greater impact on the world.
 
-![](https://acximages.ennals.org/images/2026-book-reviews/1f1871ef10905552.png)
+![](https://acximages.ennals.org/images/2026-book-reviews/e7c825678d4c9d81.png)
 
 “The fact that a job is merely ‘interesting’ will never be enough to attract a large number of the most energetic and ambitious candidates”
 

@@ -16,7 +16,7 @@ tags:
 
 “Gentlemen, examine this ground carefully, it is going to be a battlefield; you will have a part to play upon it” -Napoleon to his marshal’s examining the battlefield of Austerlitz before the battle
 
-![](https://acximages.ennals.org/images/2026-book-reviews/4a779d827a26cee8.png)
+![](https://acximages.ennals.org/images/2026-book-reviews/baa2a3abfe319969.png)
 
 ## The Campaigns of Napoleon: The Mind and Method of History’s Greatest Soldier by David Chandler
 
@@ -46,7 +46,7 @@ It is when Napoleon has an upcoming campaign in an area, sending for every book 
 
 Another one of Napoleon’s masterpieces was the victory at Jena-Auerstadt. Just like Austerlitz though, the key thing that Napoleon pulled off was the set up before the battle(s) began. Napoleon wanted a quick victory against the Prussians (newsflash, he always wanted fast and decisive wins) so he wanted to fix their army in place and then destroy them. The Prussian army was located southwest of Berlin above the Thuringian Forest which was notoriously difficult to traverse. Napoleon’s struggle was how to cross this forest efficiently while flanking forces cut off the Prussian lines of communication and retreat to Berlin. The problem is that ambushes could be in the forest and right on the other side he didn’t know what the Prussians were doing so he needed to be flexible and agile. He devised this approach which is called “le Bataillon Carre” which means Battalion Square. This was basically a grid of interlocking corps that travelled on parallel roads that could quickly support each other if attacked. Once on the other side of the forests, this formation allowed fast redeployment based on where and how the Prussians were deployed. This strategy (along with amazing tactical performance from Napoleon and his Marshals) led to the destruction of Prussia’s military.
 
-![](https://acximages.ennals.org/images/2026-book-reviews/e0f898323e110745.png)
+![](https://acximages.ennals.org/images/2026-book-reviews/7166b00944d842c1.png)
 
 ## Road and Lines of Communication Matter
 

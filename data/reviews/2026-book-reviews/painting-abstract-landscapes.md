@@ -78,7 +78,7 @@ What then? Should I paint that? What should I paint it on? Like most artists, GE
 
 GE likes to dissolve oil paint in turpentine (turps), pour it over his prepared ground, smear paint directly from the tube onto the piece, and wipe or drip it away. Alternately, someone could start by applying the paint from the tube, then blend it, perhaps with their fingers, to begin a section of air, and apply ground with a palette knife. I tried dissolving water mixable oils in water, and pouring them, finger painting, and mixing cold wax medium into the paints and somewhat randomly pulling it about with a silicone wedge. I prefer the oil and cold wax approach [4]. It has some of the melted wax look of encaustic, some of the unpredictability of turps, and is easier to use at the dining room table, when I have to set up, paint, and clean up all within two hours or so.
 
-![](https://acximages.ennals.org/images/2026-book-reviews/c892f9ff2858d63f.png)
+![](https://acximages.ennals.org/images/2026-book-reviews/b41f5804fc98d31d.png)
 
 Three Initial layers: a fingerpainting, a pour, and scraped with wax.
 
@@ -86,7 +86,7 @@ After the pour, the next phase is to look at the painting for a while, and consi
 
 I looked at my paintings, and applied some compositions to them, too aggressively at times.
 
-![](https://acximages.ennals.org/images/2026-book-reviews/0d0763ce1eb30427.png)
+![](https://acximages.ennals.org/images/2026-book-reviews/ef1d5ff395ced50a.png)
 
 Three layers of _Overlook along the Million Dollar Highway_
 
@@ -114,7 +114,7 @@ The book continues: it might be a good idea to put a little path, or a few littl
 
 Returning to the demonstration, GE has blended the sky with his fingers, and added texture to the bottom with his knife, including a serrated palette knife. “However, by doing this, the bottom can become too busy, with too many accidental areas of contrast or energetic marks. A great way to re-introduce accidental space is to re-pour turps on top of these foregrounded areas. This instantly opens up the foreground and can result in more happy accidents.” I appreciate that this is a concrete suggestion, but I am not feeling like things are too easy at this moment, so I didn’t try it out yet. I would really have preferred for him to have taught me how to paint these pretty, fluffy clouds, because I haven’t figured out how to make them yet, and will have to search elsewhere for guidance.
 
-![](https://acximages.ennals.org/images/2026-book-reviews/7c829e225448c6c2.png)
+![](https://acximages.ennals.org/images/2026-book-reviews/6ab4fda059a45eda.png)
 
 Left: Detail of a painting made using a reference photo, from a class that took a somewhat structured approach to oil painted clouds.
 
