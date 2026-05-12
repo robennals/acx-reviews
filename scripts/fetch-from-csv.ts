@@ -158,6 +158,44 @@ function sanitizeTitle(raw: string): string {
 }
 
 /**
+ * Per-slug content exceptions. Loaded lazily on first lookup.
+ * Schema (in data/review-exceptions.json):
+ *   { "<slug>": { "truncateAtLineContaining": "<substring>" }, ... }
+ * The substring is matched case-insensitively against the plain text of each
+ * line (markdown formatting stripped). When matched, the matching line AND
+ * everything after it is dropped from the markdown.
+ */
+interface ReviewException {
+  truncateAtLineContaining?: string;
+}
+let reviewExceptionsCache: Record<string, ReviewException> | null = null;
+function loadReviewExceptions(): Record<string, ReviewException> {
+  if (reviewExceptionsCache) return reviewExceptionsCache;
+  const filePath = path.join(REVIEWS_DIR, '..', 'review-exceptions.json');
+  if (!fs.existsSync(filePath)) {
+    reviewExceptionsCache = {};
+    return reviewExceptionsCache;
+  }
+  reviewExceptionsCache = JSON.parse(fs.readFileSync(filePath, 'utf8'));
+  return reviewExceptionsCache!;
+}
+function applyContentException(markdown: string, slug: string): string {
+  const exceptions = loadReviewExceptions();
+  const ex = exceptions[slug];
+  if (!ex?.truncateAtLineContaining) return markdown;
+  const needle = ex.truncateAtLineContaining.toLowerCase();
+  const lines = markdown.split('\n');
+  const stripFormatting = (line: string) =>
+    line.replace(/[*_`#>[\]()]/g, '').toLowerCase();
+  for (let i = 0; i < lines.length; i++) {
+    if (stripFormatting(lines[i]).includes(needle)) {
+      return lines.slice(0, i).join('\n').trimEnd() + '\n';
+    }
+  }
+  return markdown;
+}
+
+/**
  * Strip the leading title (and related citation/byline lines) from markdown
  * content when they duplicate the CSV title.
  *
@@ -275,8 +313,13 @@ async function createMarkdownFile(
   // Strip leading title line if it duplicates the CSV title
   const contentWithoutTitle = stripLeadingTitle(data.content, data.title);
 
+  // Apply per-slug content exceptions (e.g. truncating an author's note
+  // section that's marked "not for publication"). Loaded from
+  // data/review-exceptions.json — keyed by slug.
+  const truncatedContent = applyContentException(contentWithoutTitle, slug);
+
   // Upload images and rewrite markdown
-  const imageResult = await processImages(contentWithoutTitle, contestId);
+  const imageResult = await processImages(truncatedContent, contestId);
   const processedContent = imageResult.markdown;
 
   const wordCount = countWords(processedContent);

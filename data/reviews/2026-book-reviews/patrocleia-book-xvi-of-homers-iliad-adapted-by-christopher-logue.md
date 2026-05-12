@@ -7,7 +7,7 @@ contestName: 2026 Book Reviews
 year: 2026
 publishedDate: '2026-05-08T12:23:17.000Z'
 slug: patrocleia-book-xvi-of-homers-iliad-adapted-by-christopher-logue
-wordCount: 2368
+wordCount: 2287
 readingTimeMinutes: 11
 source: gdoc
 tags:
@@ -238,7 +238,3 @@ But that inexorable “struck” is not quite the end, for the very last word is
 [3]  On 17 September 1961, thousands of protestors, organized by the Committee of 100 to "Ban the Bomb," participated in a major nonviolent sit-down demonstration in London. Defying a ban, demonstrators occupied areas near Trafalgar Square and Parliament Square. [https://peacenews.info/node/9584/thousands-arrests-what-can-extinction-rebellion-learn]
 
 [4]  The most up-to-date complete version is _War Music. An Account of Homer’s Iliad_, Farrar, Straus & Giroux, 2017
-
-**[AUTHOR’S NOTE - NOT FOR PUBLICATION WITH REVIEW!**
-
-In this review, I have taken the considerable liberty of including two different fonts and changing the font size of some sections. This is because I am reviewing a book in which the design of the text played an important role. **If this is not acceptable, please change the entire text to a single uniform font and size**; in that case, if at all possible maintain at least the text indentations. Thank you.]
