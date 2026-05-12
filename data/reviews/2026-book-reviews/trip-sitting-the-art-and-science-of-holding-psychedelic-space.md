@@ -36,10 +36,9 @@ This book is a unique achievement and seems admirable. Accordingly, I must punis
 
 *   To trip sit someone, you must have completed a trip with the same drug yourself, preferably in the same setting.
 *   Before you start, prepare at length.
-
-1.  Talk with your adventurer in depth, as equals with mutual respect, about their medical and personal characteristics as well as their prior experiences and expectations. Carefully weigh whether you can assist this particular person with this particular trip.
-2.  Design the chosen safe space for hypersensitivity: lighting must be low, everything must be clean, you must mindfully adjust any and all features of the space, from artworks to the path to the bathroom and even the presence of pets.
-3.  Prepare a sound system your adventurer can use, and offer a music playlist that accompanies the predictable course of the pharmacological effects over time: encouraging start, interesting peak, relaxing return.
+    1.  Talk with your adventurer in depth, as equals with mutual respect, about their medical and personal characteristics as well as their prior experiences and expectations. Carefully weigh whether you can assist this particular person with this particular trip.
+    2.  Design the chosen safe space for hypersensitivity: lighting must be low, everything must be clean, you must mindfully adjust any and all features of the space, from artworks to the path to the bathroom and even the presence of pets.
+    3.  Prepare a sound system your adventurer can use, and offer a music playlist that accompanies the predictable course of the pharmacological effects over time: encouraging start, interesting peak, relaxing return.
 
 *   From before until after the trip, willfully Care in every sensible way. Let them chill in comfort while you embody unimpeachable safety and supportiveness.
 *   Avoid speaking at all; if words are necessary, have them well-prepared. (Examples of blessings, instructions and jokes are offered.)

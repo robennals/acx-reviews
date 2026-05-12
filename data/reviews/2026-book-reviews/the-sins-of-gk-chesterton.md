@@ -7,7 +7,7 @@ contestName: 2026 Book Reviews
 year: 2026
 publishedDate: '2026-04-22T18:42:53.000Z'
 slug: the-sins-of-gk-chesterton
-wordCount: 7814
+wordCount: 7827
 readingTimeMinutes: 35
 source: gdoc
 tags:
@@ -171,28 +171,16 @@ Initially dubious about the definition of Papal Infallibility by Pius IX at the 
 
 Waugh’s Lord Sebastian Flyte in _Brideshead Revisited_ and Greene's whiskey priest in _the Power and the Glory_ are in the vein of Chesterton’s rolling English drunkard. In my opinion this is about as liberal as traditional catholicism can get. A soul on its way to maturity, frequently falling and picking itself up, ignoring alike voices to turn back or to rush. Chesterton may have failed in charity, but his vision of charity as the “a reverent agnosticism towards the complexity of the soul” remains inspiring and relevant. His splendid silliness was not mere play, it was nothing less than an act of war against false pride and despair. So, mindful of his sins, I’m going to give Chesterton the last word. As Britain descended into a labour crisis in 1912, tensions frayed, and at a picket line on the London docks, radical preacher Ben Tillett prayed publicly for the death of Lord Devonport, director of the Port of London Authority. As we address our own political divisions, Chesterton’s poetic response to Tillett’s _fatwa_ seems appropriate:
 
-_We whom great mercy holds in fear,_
-
-_Boast not the claim to cry,_
-
-_Stricken of any mortal wrong,_
-
-_‘Lord, let this live man die!’_
-
-_But not incuriously we ask,_
-
-_Pondering on life and death,_
-
-_What name befits that round of years,_
-
-_What name that span of breath._
-
-_(...)_
-
-_O mighty to arise and smite,_
-
-_O mightier to forgive,_
-
-_Sunburst that blasted Lazarus,_
-
-_Lord, let this dead man live!_
+> _We whom great mercy holds in fear,_  
+> _Boast not the claim to cry,_  
+> _Stricken of any mortal wrong,_  
+> _‘Lord, let this live man die!’_  
+> _But not incuriously we ask,_  
+> _Pondering on life and death,_  
+> _What name befits that round of years,_  
+> _What name that span of breath._  
+> _(...)_  
+> _O mighty to arise and smite,_  
+> _O mightier to forgive,_  
+> _Sunburst that blasted Lazarus,_  
+> _Lord, let this dead man live!_

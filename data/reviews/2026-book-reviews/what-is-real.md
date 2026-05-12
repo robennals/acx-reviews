@@ -371,21 +371,18 @@ When I first learnt what follows, I almost laughed in disbelief. Here are the hi
 2.  Wheeler told Everett at some point after that that his thesis would be accepted and his degree granted by summer 1956.
 3.  In mid-1956 – this was several months after the draft was ready – Wheeler sent the draft to Bohr.
 4.  He then discussed the ideas with Bohr and gang in person, and then told Everett that he needed to “thrash” out the all the “issues of interpretation” with Bohr by visiting him for several weeks, and added that while the thesis was done, the “hardest part” was “just beginning”.
-
-1.  I am not making this up. See the book. Page 129.
+    1.  I am not making this up. See the book. Page 129.
 
 5.  Given #2 above, Everett already had a job lined up by then, and he was to start it in three weeks.
 6.  Worse, Wheeler had misread how favourably the CI-camp looked upon Everett’s ideas. He got further feedback from them at this point and realised this.
 7.  Wheeler then told Everett that it would “take a lot of time” to resolve the issues the CI-camp had raised and proposed two months of “day by day argument” with Bohr to have a meeting of the minds, not on the formalism but on the “words” of the thesis.
 8.  He then wrote to the CI-camp – and this is a masterpiece – that Everett accepted CI and only meant to generalise it.
-
-1.  See page 131.
+    1.  See page 131.
 
 9.  He then wrote to Everett and indicated that the thesis “must” be heavily revised in terms of “words” but not the Maths before he would recommend it for acceptance.
 10.  But Everett didn’t go to meet Bohr. So, in the end, Wheeler sat down with him and “told him what to say” in his thesis. The revisions did not change the Maths/formalism but “downplayed” the many-worlds aspect of it, that is, its ontology, that is, the thing that puts the ‘many’ – also the ‘s’ – in ‘Many Worlds’.
 11.  Thus, about six short months after Wheeler had first sent the thesis to Bohr, its words were in a state that Wheeler could accept.
-
-1.  I take it he thought that the revised thesis would not give rise to whatever downsides he had imagined the original draft would have.
+     1.  I take it he thought that the revised thesis would not give rise to whatever downsides he had imagined the original draft would have.
 
 12.  The thesis was published as a paper in 1957 along with a companion paper from Wheeler saying that Everett’s work did not aim to replace CI.
 
