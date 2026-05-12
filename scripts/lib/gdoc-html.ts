@@ -123,20 +123,28 @@ function parseGDocStyles(html: string): GDocStyleMap {
     }
     // Detect blockquote-like indentation. Google Docs' blockquote feature
     // uses `margin-left: 36pt` (and usually `margin-right: 36pt` too). Body
-    // paragraphs often use `margin-left: 18pt` as a stylistic choice, and
-    // `text-indent` is just a first-line indent — neither is a blockquote.
+    // paragraphs often use `margin-left: 18pt` as a stylistic choice.
+    // Some authors quote verse by using `text-indent: 36pt + margin-right`
+    // instead of `margin-left` — visually each (short) line ends up
+    // indented inside narrower bounds, which IS a blockquote shape.
     //
-    // Accept a class as "indented" if EITHER:
+    // Accept a class as "indented" if ANY of:
     //   - margin-left is a deep indent (>= 36pt), OR
     //   - margin-left AND margin-right are BOTH set (indented both sides,
-    //     which is characteristic of a blockquote regardless of depth).
+    //     which is characteristic of a blockquote regardless of depth), OR
+    //   - text-indent is a deep first-line indent (>= 36pt) AND margin-right
+    //     is set (the pattern used for quoted verse).
     const marginLeftMatch = props.match(/margin-left\s*:\s*(\d+(?:\.\d+)?)pt/);
     const marginRightMatch = props.match(/margin-right\s*:\s*(\d+(?:\.\d+)?)pt/);
+    const textIndentMatch = props.match(/text-indent\s*:\s*(\d+(?:\.\d+)?)pt/);
     const leftPt = marginLeftMatch ? parseFloat(marginLeftMatch[1]) : 0;
     const rightPt = marginRightMatch ? parseFloat(marginRightMatch[1]) : 0;
+    const textIndentPt = textIndentMatch ? parseFloat(textIndentMatch[1]) : 0;
     if (leftPt >= 36) {
       indentClasses.add(cls);
     } else if (leftPt >= 18 && rightPt >= 18) {
+      indentClasses.add(cls);
+    } else if (textIndentPt >= 36 && rightPt > 0) {
       indentClasses.add(cls);
     }
   }
@@ -391,9 +399,42 @@ function applySemanticTags($: CheerioAPI, styles: GDocStyleMap): void {
     };
 
     const allBlocks = $('body > p, body > ul, body > ol, body > div > p, body > div > ul, body > div > ol').toArray();
-    for (const block of allBlocks) {
+    for (let bi = 0; bi < allBlocks.length; bi++) {
+      const block = allBlocks[bi];
       const el = $(block);
-      if (!el.text().trim()) continue;
+      const isEmpty = !el.text().trim();
+      // An empty `<p>` between two indented blocks is a stanza break
+      // inside what the author wrote as one quote. Turndown drops empty
+      // `<p>`s, so the break would vanish — and the markdown-level
+      // adjacent-blockquote merge would glue both stanzas into one
+      // continuous quote with no visual break. Insert a `<br>` so the
+      // empty paragraph turns into a turndown-visible blank line (`>  `
+      // in the output), which the poetry-compaction pass below
+      // recognizes as a stanza marker. The empty `<p>` itself doesn't
+      // need to be indent-classed (some authors mark the gap with a
+      // body-paragraph-styled empty paragraph between two indented
+      // ones); what matters is that the surrounding blocks are.
+      if (isEmpty) {
+        const prev = bi > 0 ? $(allBlocks[bi - 1]) : null;
+        const next = bi + 1 < allBlocks.length ? $(allBlocks[bi + 1]) : null;
+        // Only fire when this empty `<p>` is between two short-line
+        // indented paragraphs — that pattern is poetry-with-stanza-
+        // break, and turndown's drop of the empty `<p>` would
+        // collapse the stanza break in compaction. Prose quotes have
+        // long paragraphs and don't need this marker; the markdown
+        // merge step already produces a `>` paragraph-break that
+        // renders correctly.
+        if (prev && next && isElementIndented(prev) && isElementIndented(next)) {
+          const POETRY_LINE_MAX = 100;
+          const prevText = prev.text().trim();
+          const nextText = next.text().trim();
+          if (prevText.length <= POETRY_LINE_MAX && nextText.length <= POETRY_LINE_MAX) {
+            el.html('<br>');
+            el.wrap('<blockquote></blockquote>');
+          }
+        }
+        continue;
+      }
       if (isElementIndented(el)) {
         el.wrap('<blockquote></blockquote>');
       }
@@ -580,6 +621,14 @@ export function cleanupMarkdown(markdown: string): string {
     const POETRY_THRESHOLD = 80;
     const isQuotePrefix = (s: string) => /^>/.test(s);
     const isQuoteBlank = (s: string) => /^>\s*$/.test(s);
+    // A "stanza marker" is a `>` line with 2+ trailing whitespace chars.
+    // It's produced upstream from an empty `<p><br></p>` between two
+    // indent-classed paragraphs (a stanza break that the author wrote
+    // as a fully-blank paragraph between verse stanzas). Distinguished
+    // from the bare `>` paragraph-break that the markdown-merge inserts
+    // between adjacent blockquoted paragraphs — those should NOT count
+    // as stanza breaks.
+    const isStanzaMarker = (s: string) => /^>\s{2,}$/.test(s);
     const isQuoteListItem = (s: string) => /^>\s*([-*]\s|\d+\.\s)/.test(s);
     const isQuoteNested = (s: string) => /^>\s*>/.test(s);
     const isQuoteHeading = (s: string) => /^>\s*#/.test(s);
@@ -591,6 +640,10 @@ export function cleanupMarkdown(markdown: string): string {
       !isQuoteHeading(s);
     const plainTextLen = (s: string) =>
       s.replace(/^>\s*/, '').replace(/[*_~`]/g, '').trim().length;
+    // Sentinel value used to mark blank-`>` paragraph-break lines that
+    // poetry compaction wants to delete. Filtered out after the
+    // outer-loop pass completes.
+    const POETRY_DEL = "__POETRY_LINE_DEL__";
 
     const lines = md.split('\n');
     let i = 0;
@@ -632,8 +685,13 @@ export function cleanupMarkdown(markdown: string): string {
           }
           runIdxs.push(h);
           h++;
-          // Skip blank-`>` separators to look for the next text line.
-          while (h <= groupEnd && isQuoteBlank(lines[h])) h++;
+          // Walk past bare `>` paragraph-break separators (still the
+          // same stanza), but STOP at a stanza marker (a `>` line with
+          // trailing whitespace, produced upstream from a fully-blank
+          // `<p>` between indented paragraphs). The outer loop will
+          // pick up a fresh run after the marker.
+          while (h <= groupEnd && isQuoteBlank(lines[h]) && !isStanzaMarker(lines[h])) h++;
+          if (h <= groupEnd && isStanzaMarker(lines[h])) break;
         }
 
         // Compact runs of 2+ short text paragraphs.
@@ -645,12 +703,15 @@ export function cleanupMarkdown(markdown: string): string {
           })
         ) {
           // For every non-last entry: add trailing two spaces (hard
-          // line break) and blank out any blank-`>` between this and
-          // the next entry. The last entry stays as-is.
+          // line break) and blank out any bare-`>` paragraph-break
+          // lines between this and the next entry (so the lines are
+          // contiguous in the rendered blockquote). The last entry
+          // stays as-is. Stanza markers were excluded from the run
+          // already, so we never delete those.
           for (let k = 0; k < runIdxs.length - 1; k++) {
             if (!/  $/.test(lines[runIdxs[k]])) lines[runIdxs[k]] = `${lines[runIdxs[k]]}  `;
             for (let b = runIdxs[k] + 1; b < runIdxs[k + 1]; b++) {
-              lines[b] = ' DEL';
+              lines[b] = POETRY_DEL;
             }
           }
         }
@@ -658,8 +719,15 @@ export function cleanupMarkdown(markdown: string): string {
       }
       // Continue scanning past this group.
     }
-    md = lines.filter(l => l !== ' DEL').join('\n');
+    md = lines.filter(l => l !== POETRY_DEL).join("\n");
   }
+
+  // Collapse consecutive blank-`>` lines in a blockquote into a single
+  // `>` blank. The stanza-marker insertion earlier in the pipeline may
+  // leave the markdown with patterns like `> \n> \n>  \n>` between
+  // paragraphs — renderers treat that as one paragraph break anyway,
+  // but the extra lines bloat the wordCount frontmatter and add noise.
+  md = md.replace(/(?:^>[ \t]*\n){2,}/gm, '>\n');
 
   // Normalize thematic-break paragraphs that turndown escaped. When an
   // author types "***" or "---" as paragraph text (instead of using a

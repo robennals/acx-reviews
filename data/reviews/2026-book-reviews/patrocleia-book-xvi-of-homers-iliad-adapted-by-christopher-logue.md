@@ -229,7 +229,7 @@ But that inexorable “struck” is not quite the end, for the very last word is
 > **And as his soul went through the sand like water,**  
 > **Hector withdrew his spear and said**  
 > _**“Perhaps.**__”_  
->   
+>
 
 [1]  Ancient Greek νόστος (nostos), derived from the verb νέομαι, to turn back; hence here, home-sickness.
 

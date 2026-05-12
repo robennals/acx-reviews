@@ -7,7 +7,7 @@ contestName: 2026 Book Reviews
 year: 2026
 publishedDate: '2026-05-10T17:50:38.000Z'
 slug: catullus-16
-wordCount: 4254
+wordCount: 4263
 readingTimeMinutes: 19
 source: gdoc
 tags:
@@ -87,7 +87,8 @@ So perhaps the most straightforward reading of this poem is that Catullus is las
 
 > Dā mī bāsia mīlle, deinde centum,  
 > dein mīlle altera, dein secunda centum,  
-> deinde ūsque altera mīlle, deinde centum;  
+> deinde ūsque altera mīlle, deinde centum;
+>
 > Give me a thousand kisses, then a hundred,  
 > then another thousand, then a second hundred,  
 > then yet another thousand, then a hundred;
@@ -108,9 +109,8 @@ Or Ice Cube on “No Vaseline,” hitting back after leaving NWA:
 
 Ay yo Dre, stick to producin'
 
-Callin' me Arnold, but you been-a-dick
-
-Eazy-E saw your ass and went in it quick
+> Callin' me Arnold, but you been-a-dick  
+> Eazy-E saw your ass and went in it quick
 
 In both songs, and many other rap diss tracks throughout history, you can see an echo of Catullus 16: a former friend’s character is tarred by association with homosexual acts in verse.  But there is one glaring difference between the poem and these songs -- _who_ is performing the act.  
 
@@ -132,10 +132,9 @@ All other mentions of Furius and Aurelius in the _carmina_ point to a close frie
 
 Now, I do not think anybody alive today would publicly threaten sexual assault on a friend as a joke, nor do I think that sort of behavior is indicative of any sort of normal friendship, male or otherwise. Roman culture, though, had different norms about such things; sexual humor was commonplace, as was playful deprecation of even those above your station.  As Williams relates, _“_Caesar’s own soldiers chanted ribald jokes concerning his adulteries” at his triumph, and even his co-consul was wont to call him “‘the Queen of Bithynia’” over an alleged affair with the king of that country.  In fact, even Catullus got some digs in at Caesar, and then wrote,
 
-irascere iterum meis iambis
-
-immerentibus, unice imperator
-
+> irascere iterum meis iambis  
+> immerentibus, unice imperator
+>
 > you are going to be angry at my iambics once again,  
 > sole Imperator (Caesar), though they don’t deserve it.[2]
 
@@ -158,7 +157,8 @@ Even in my treatment of the poem so far, I’ve focused an outsized amount of at
 I would venture to say… maybe.  There’s some good stuff in these eleven lines.  There’s the onomatopoeic alliteration in the p’s of the first few lines (all the _putāstis_ and _parum pudīcum_) which suggest the poet is spitting on his subjects.  There’s the cavalcade of m’s later on, which is preserved in Zukofsky’s translation:
 
 > Vōs quod mīlia multa bāsiōrum  
-> lēgistis male mē marem putātis  
+> lēgistis male mē marem putātis
+>
 > Milling thousands of kisses are base or make  
 > me out some mare of a male—you impute that?
 
@@ -186,8 +186,8 @@ Diss track, friendly banter, or perfectly constructed basketball team -- whateve
 
 So I’d recommend you scroll up to the top of the review and give one of the three versions of the poem (or all of them) another read, and hopefully something new, something I haven’t even mentioned in this rambling review fifty times the length of the poem, will jump out at you.  That’ll be Catullus’s talent shining across language and millennia.  One of his most famous quotes, other than the one about face-fucking, is from the same Catullus 5 that started his beef with Aurelius and Furius:
 
-Let us live and love, nor give a damn what sour old men say.
-
+> Let us live and love, nor give a damn what sour old men say.
+>
 > The sun that sets may rise again, but when our light has sunk into the earth it is gone forever[3]
 
 And at least in this case, he’s wrong.  His obscene, outrageous, shameless light is still here.

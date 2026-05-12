@@ -7,7 +7,7 @@ contestName: 2026 Book Reviews
 year: 2026
 publishedDate: '2026-05-03T04:56:43.000Z'
 slug: a-christmas-carol-by-charles-dickens
-wordCount: 5670
+wordCount: 5671
 readingTimeMinutes: 26
 source: gdoc
 tags:
@@ -227,6 +227,7 @@ I give _A Christmas Carol_ five stars.
 > If the fates allow  
 > Until then, we'll have to muddle through somehow  
 > So have yourself a merry little Christmas now
+>
 
 ## Footnotes
 
