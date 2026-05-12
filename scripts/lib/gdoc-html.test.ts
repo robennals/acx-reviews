@@ -52,6 +52,38 @@ test('cleanupMarkdown preserves a standalone link surrounded by whitespace', () 
   assert.equal(out, input);
 });
 
+test('convertGDocToMarkdown does NOT blockquote a top-level bullet list', () => {
+  // Real example: Trip Sitting. The gdoc author wrote a top-level
+  // `<ul>` after a heading. The `<li>` elements carry Google Docs'
+  // standard 36pt bullet-indent margin — that's the visual indent
+  // every bulleted list has, not a signal of blockquoting. The
+  // exported markdown should be a plain bullet list, not a list
+  // prefixed with `>`.
+  const html = `<html><head><style>.c0{margin-left:36pt}</style></head><body><h1>The gist!</h1><ul><li class="c0">First bullet item that comfortably exceeds fifty characters of content.</li><li class="c0">Second bullet item also comfortably above the threshold.</li><li class="c0">Third bullet item rounds out the list.</li></ul><p>Body paragraph below the bullet list goes here as normal prose content.</p></body></html>`;
+
+  const md = convertGDocToMarkdown(html);
+
+  // Bullet lines should not be inside a blockquote.
+  assert.ok(!/^>\s*\*\s+First bullet/m.test(md), `bullet should NOT have > prefix; got: ${md}`);
+  // The original bullets should still appear as markdown bullet list.
+  assert.ok(/^[*-]\s+First bullet/m.test(md), `bullet list should be preserved as plain markdown; got: ${md}`);
+});
+
+test('convertGDocToMarkdown DOES detect italic + standalone bullet as quote+attribution (no > prefix needed)', () => {
+  // Sins of GK pattern: italic quote followed by a single bullet
+  // citation. The bullet doesn't need a `> ` prefix anymore (lists
+  // are no longer auto-blockquoted) — the markdown-phase detector
+  // wraps the italic lines AND the attribution into one blockquote.
+  const html = `<html><head><style></style></head><body><p><em>A substantive italic quote paragraph that comfortably exceeds the substantive threshold of fifty characters.</em></p><ul><li><em>The Source Title</em></li></ul><p>Body paragraph below.</p></body></html>`;
+
+  const md = convertGDocToMarkdown(html);
+
+  // Both the italic quote AND the attribution should be in the
+  // same blockquote.
+  assert.ok(/^> _A substantive italic quote/m.test(md), `italic line should be wrapped in blockquote; got: ${md}`);
+  assert.ok(/^>\s*[*-]\s+_The Source Title_/m.test(md), `attribution should also be in blockquote; got: ${md}`);
+});
+
 test('convertGDocToMarkdown converts a Google Docs <table> to a GFM markdown table', async () => {
   // Real example pattern from Religion for Atheists: a small 2-column
   // table that turndown would otherwise flatten into eight unrelated

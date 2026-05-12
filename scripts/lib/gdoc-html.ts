@@ -228,17 +228,15 @@ function applySemanticTags($: CheerioAPI, styles: GDocStyleMap): void {
   if (styles.indentClasses.size > 0) {
     const isElementIndented = (el: ReturnType<typeof $>) => {
       const classes = (el.attr('class') || '').split(/\s+/);
-      if (classes.some(c => styles.indentClasses.has(c))) return true;
-      // For ul/ol: check if list items are indented (deeper indent = nested in quote)
-      const tag = el.prop('tagName')?.toLowerCase();
-      if (tag === 'ul' || tag === 'ol') {
-        const firstLi = el.find('li').first();
-        if (firstLi.length) {
-          const liClasses = (firstLi.attr('class') || '').split(/\s+/);
-          return liClasses.some(c => styles.indentClasses.has(c));
-        }
-      }
-      return false;
+      return classes.some(c => styles.indentClasses.has(c));
+      // Note: we do NOT fall back to checking `<li>` margin on a
+      // `<ul>`/`<ol>` element. Google Docs gives every `<li>` a
+      // standard 36pt margin-left as the bullet-indent — that's the
+      // visual indent built into every list, not a signal of
+      // blockquoting. Lists that the author actually intended as
+      // blockquoted will have the `<ul>` itself wrapped in a deeper
+      // indent class (or sit between other indented `<p>` elements,
+      // which the markdown-phase detector handles).
     };
 
     const allBlocks = $('body > p, body > ul, body > ol, body > div > p, body > div > ul, body > div > ol').toArray();
@@ -318,7 +316,12 @@ export function cleanupMarkdown(markdown: string): string {
   // after it must NOT be another `> *`. A run of `> *` lines is a
   // bullet list, not a quote with attribution.
   {
-    const isAttribution = (s: string) => /^>\s*\*\s+\S/.test(s);
+    // Attribution shape: a single bullet-list item, optionally inside a
+    // blockquote (`> *   foo` if the gdoc list happened to be inside a
+    // blockquote group, or just `*   foo` otherwise). The "standalone"
+    // guard below — next non-blank line is NOT another such bullet —
+    // ensures multi-item lists (which aren't attributions) don't fire.
+    const isAttribution = (s: string) => /^(?:>\s*)?[*-]\s+\S/.test(s);
     const isItalicOnly = (s: string) => /^\s*_[^_\n]+_[ \t]*$/.test(s);
     const lines = md.split('\n');
     for (let i = 0; i < lines.length; i++) {
@@ -338,6 +341,12 @@ export function cleanupMarkdown(markdown: string): string {
         if (isItalicOnly(lines[m])) {
           lines[m] = `> ${lines[m].trim()}`;
         }
+      }
+      // Also add a `>` prefix to the attribution line if it isn't
+      // already inside a blockquote — so the italic block and the
+      // attribution end up in the same blockquote group.
+      if (!/^>/.test(lines[i])) {
+        lines[i] = `> ${lines[i].trim()}`;
       }
     }
     md = lines.join('\n');
