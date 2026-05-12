@@ -52,6 +52,23 @@ test('cleanupMarkdown preserves a standalone link surrounded by whitespace', () 
   assert.equal(out, input);
 });
 
+test('convertGDocToMarkdown nests sibling lists encoded via lst-kix-N depth suffixes', () => {
+  // Real example from Trip Sitting: Google Docs flattens nested lists
+  // into sibling <ul>/<ol> elements, encoding the nesting via class
+  // suffixes like `lst-kix_X-0` (top), `lst-kix_X-1` (depth 1). The
+  // export should produce a properly nested markdown sublist.
+  const html = `<html><head><style></style></head><body><ul class="lst-kix_a-0 start"><li>Top item one</li><li>Top item two</li></ul><ol class="lst-kix_a-1 start"><li>Nested one</li><li>Nested two</li></ol><p>Body paragraph below.</p></body></html>`;
+
+  const md = convertGDocToMarkdown(html);
+
+  // Nested items should be indented (turndown emits 4-space indents
+  // for nested list items).
+  assert.ok(/^\s{2,}1\.\s+Nested one/m.test(md), `nested item 1 should be indented; got: ${md}`);
+  assert.ok(/^\s{2,}2\.\s+Nested two/m.test(md), `nested item 2 should be indented; got: ${md}`);
+  // Top-level items stay at column 0.
+  assert.ok(/^\*\s+Top item one/m.test(md), `top item 1 stays at column 0; got: ${md}`);
+});
+
 test('convertGDocToMarkdown does NOT blockquote a top-level bullet list', () => {
   // Real example: Trip Sitting. The gdoc author wrote a top-level
   // `<ul>` after a heading. The `<li>` elements carry Google Docs'
@@ -349,6 +366,38 @@ test('cleanupMarkdown dedents indented italic-only lines so they do not render a
   // The 5-space-indented italic line must no longer be at column 4+.
   assert.ok(!/\n {4,}_/.test(out), `indented italic should be dedented; got: ${out}`);
   assert.ok(out.includes('_And his nose it had a hook,_'), `italic content preserved; got: ${out}`);
+});
+
+test('cleanupMarkdown wraps multi-line italic poetry without an attribution into a blockquote', () => {
+  // Real example from Sins of GK Chesterton: the "We whom great mercy
+  // holds in fear" poem at the essay's end. Multiple italic-only short
+  // lines, no `> *` attribution after. Still poetry; should be wrapped
+  // and compacted to verse rendering.
+  const input = [
+    'Substantive prose above the poem that easily exceeds fifty characters of normal content.',
+    '',
+    '_We whom great mercy holds in fear,_',
+    '',
+    '_Boast not the claim to cry,_',
+    '',
+    '_Stricken of any mortal wrong,_',
+    '',
+    '_Lord, let this dead man live!_',
+  ].join('\n');
+
+  const out = cleanupMarkdown(input);
+
+  assert.ok(/^> _We whom great mercy holds in fear,_  $/m.test(out), `line 1 should be in blockquote with trailing 2 spaces; got: ${out}`);
+  assert.ok(/^> _Boast not the claim to cry,_  $/m.test(out), `line 2 should be in blockquote; got: ${out}`);
+  assert.ok(/^> _Lord, let this dead man live!_$/m.test(out), `last line should be in blockquote (no trailing 2 spaces); got: ${out}`);
+});
+
+test('cleanupMarkdown does NOT wrap a single standalone italic paragraph as poetry', () => {
+  // One italic line on its own is just an emphasis paragraph, not a
+  // poem. Don't wrap.
+  const input = 'Body prose above easily exceeding fifty characters of content.\n\n_A single isolated italic emphasis paragraph._\n\nBody prose below also above the threshold easily.';
+  const out = cleanupMarkdown(input);
+  assert.ok(!/^>/m.test(out), `should not be wrapped in blockquote; got: ${out}`);
 });
 
 test('cleanupMarkdown wraps multiple italic-only lines + attribution into a single blockquote', () => {

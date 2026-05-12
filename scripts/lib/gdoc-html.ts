@@ -140,6 +140,57 @@ function parseGDocStyles(html: string): GDocStyleMap {
  * 3. Wraps indented paragraphs in <blockquote>
  */
 function applySemanticTags($: CheerioAPI, styles: GDocStyleMap): void {
+  // Reconstruct nested list structure. Google Docs exports lists flat:
+  // a `<ul>` for top-level items, then a sibling `<ol>` or `<ul>` for
+  // nested items, then another sibling at top level for items that
+  // came after the nested block. The nesting depth is encoded in a
+  // class suffix like `lst-kix_XXXX-N`, where N is the depth (0 =
+  // top-level, 1 = nested once, etc.). Walk sibling lists in order and
+  // move any list whose suffix is N>0 into the last `<li>` of the most
+  // recent list at depth N-1 (sharing the same `lst-kix_XXXX` prefix).
+  // After this pass, Turndown emits properly indented nested
+  // sublists.
+  const listClassDepth = (cls: string): { prefix: string; depth: number } | null => {
+    const m = /\blst-kix_([\w-]+?)-(\d+)\b/.exec(cls);
+    if (!m) return null;
+    return { prefix: m[1], depth: parseInt(m[2], 10) };
+  };
+  {
+    // Snapshot the list elements first; Cheerio's traversal can be
+    // invalidated when we move nodes around mid-iteration.
+    const lists = $('ul, ol').toArray();
+    // Track the most recent list element seen at each depth, keyed
+    // by `lst-kix` prefix. When we encounter a nested list, we move
+    // it into the last <li> of the recorded parent.
+    const lastAtDepth = new Map<string, Element[]>();
+    for (const node of lists) {
+      const el = $(node);
+      const info = listClassDepth(el.attr('class') || '');
+      if (!info) continue;
+      const { prefix, depth } = info;
+      if (depth === 0) {
+        // Top-level list: record as the latest parent at depth 0.
+        const stack = lastAtDepth.get(prefix) || [];
+        stack[0] = node as unknown as Element;
+        stack.length = 1; // reset deeper levels
+        lastAtDepth.set(prefix, stack);
+        continue;
+      }
+      // Nested list: look up the parent at depth-1.
+      const stack = lastAtDepth.get(prefix);
+      if (!stack || !stack[depth - 1]) continue;
+      const parentList = $(stack[depth - 1]);
+      const lastLi = parentList.children('li').last();
+      if (!lastLi.length) continue;
+      // Move this list into the last <li> of the parent. Cheerio's
+      // append handles re-parenting.
+      lastLi.append(el);
+      // Record this list as the latest parent at its depth.
+      stack[depth] = node as unknown as Element;
+      stack.length = depth + 1;
+    }
+  }
+
   // Bold: wrap span contents in <strong> if any of its classes are bold
   if (styles.boldClasses.size > 0) {
     $('span').each(function () {
@@ -315,6 +366,10 @@ export function cleanupMarkdown(markdown: string): string {
   // Guard: the `> *` line must be standalone — the next non-blank line
   // after it must NOT be another `> *`. A run of `> *` lines is a
   // bullet list, not a quote with attribution.
+  //
+  // Even without an attribution, a run of 2+ italic-only short lines is
+  // almost always poetry/song lyrics. Wrap those too — the downstream
+  // poetry-compaction pass will render them with hard line breaks.
   {
     // Attribution shape: a single bullet-list item, optionally inside a
     // blockquote (`> *   foo` if the gdoc list happened to be inside a
@@ -323,30 +378,45 @@ export function cleanupMarkdown(markdown: string): string {
     // ensures multi-item lists (which aren't attributions) don't fire.
     const isAttribution = (s: string) => /^(?:>\s*)?[*-]\s+\S/.test(s);
     const isItalicOnly = (s: string) => /^\s*_[^_\n]+_[ \t]*$/.test(s);
+    const POETRY_LEN = 80;
+    const plainTextLen = (s: string) =>
+      s.trim().replace(/[*_~`>]/g, '').trim().length;
     const lines = md.split('\n');
-    for (let i = 0; i < lines.length; i++) {
-      if (!isAttribution(lines[i])) continue;
-      let k = i + 1;
-      while (k < lines.length && lines[k].trim() === '') k++;
-      if (k < lines.length && isAttribution(lines[k])) continue;
-      let start = i;
-      let j = i - 1;
-      while (j >= 0) {
-        if (lines[j].trim() === '') { j--; continue; }
-        if (isItalicOnly(lines[j])) { start = j; j--; continue; }
+    let i = 0;
+    while (i < lines.length) {
+      if (!isItalicOnly(lines[i])) { i++; continue; }
+      // Collect a contiguous run of italic-only paragraphs (with
+      // blank lines allowed between).
+      const italicIdxs: number[] = [];
+      let j = i;
+      while (j < lines.length) {
+        if (lines[j].trim() === '') { j++; continue; }
+        if (isItalicOnly(lines[j])) { italicIdxs.push(j); j++; continue; }
         break;
       }
-      if (start === i) continue;
-      for (let m = start; m < i; m++) {
-        if (isItalicOnly(lines[m])) {
-          lines[m] = `> ${lines[m].trim()}`;
-        }
+      // Check whether a standalone attribution follows.
+      let attribIdx = -1;
+      if (j < lines.length && isAttribution(lines[j])) {
+        let k = j + 1;
+        while (k < lines.length && lines[k].trim() === '') k++;
+        if (k >= lines.length || !isAttribution(lines[k])) attribIdx = j;
       }
-      // Also add a `>` prefix to the attribution line if it isn't
-      // already inside a blockquote — so the italic block and the
-      // attribution end up in the same blockquote group.
-      if (!/^>/.test(lines[i])) {
-        lines[i] = `> ${lines[i].trim()}`;
+      const allShort = italicIdxs.every(
+        idx => plainTextLen(lines[idx]) <= POETRY_LEN
+      );
+      const shouldWrap =
+        attribIdx >= 0 ||
+        (italicIdxs.length >= 2 && allShort);
+      if (shouldWrap) {
+        for (const idx of italicIdxs) {
+          lines[idx] = `> ${lines[idx].trim()}`;
+        }
+        if (attribIdx >= 0 && !/^>/.test(lines[attribIdx])) {
+          lines[attribIdx] = `> ${lines[attribIdx].trim()}`;
+        }
+        i = attribIdx >= 0 ? attribIdx + 1 : j;
+      } else {
+        i = j;
       }
     }
     md = lines.join('\n');
