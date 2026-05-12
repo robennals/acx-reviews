@@ -146,7 +146,7 @@ In 1917, the Balfour declaration guaranteed a “national home for the Jewish pe
 
 > _Suppose that a great commotion arises in the street about something, let us say a lamp-post, which many influential persons desire to pull down. A grey-clad monk, who is the spirit of the Middle Ages, is approached upon the matter, and begins to say, in the arid manner of the Schoolmen, “Let us first of all consider, my brethren, the value of Light. If Light be in itself good—” At this point he is somewhat excusably knocked down. All the people make a rush for the lamp-post, the lamp-post is down in ten minutes, and they go about congratulating each other on their unmediaeval practicality. But as things go on they do not work out so easily. Some people have pulled the lamp-post down because they wanted the electric light; some because they wanted old iron; some because they wanted darkness, because their deeds were evil. Some thought it not enough of a lamp-post, some too much; some acted because they wanted to smash municipal machinery; some because they wanted to smash something. And there is war in the night, no man knowing whom he strikes. So, gradually and inevitably, to-day, to-morrow, or the next day, there comes back the conviction that the monk was right after all, and that all depends on what is the philosophy of Light. Only what we might have discussed under the gas-lamp, we now must discuss in the dark._
 >
-> *   _Heretics_ 
+> *   _Heretics_
 
 **A Chesterton De-fense** (sorry)
 

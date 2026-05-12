@@ -7,7 +7,7 @@ contestName: 2026 Book Reviews
 year: 2026
 publishedDate: '2026-03-01T16:50:32.000Z'
 slug: trip-sitting-the-art-and-science-of-holding-psychedelic-space
-wordCount: 1109
+wordCount: 1097
 readingTimeMinutes: 5
 source: gdoc
 tags:
@@ -34,18 +34,18 @@ This book is a unique achievement and seems admirable. Accordingly, I must punis
 
 # The gist![](https://acximages.ennals.org/images/2026-book-reviews/a255b61f9ebd2ff3.jpg)
 
-> *   To trip sit someone, you must have completed a trip with the same drug yourself, preferably in the same setting.
-> *   Before you start, prepare at length.
->
-> 1.  Talk with your adventurer in depth, as equals with mutual respect, about their medical and personal characteristics as well as their prior experiences and expectations. Carefully weigh whether you can assist this particular person with this particular trip.
-> 2.  Design the chosen safe space for hypersensitivity: lighting must be low, everything must be clean, you must mindfully adjust any and all features of the space, from artworks to the path to the bathroom and even the presence of pets.
-> 3.  Prepare a sound system your adventurer can use, and offer a music playlist that accompanies the predictable course of the pharmacological effects over time: encouraging start, interesting peak, relaxing return.
->
-> *   From before until after the trip, willfully Care in every sensible way. Let them chill in comfort while you embody unimpeachable safety and supportiveness.
-> *   Avoid speaking at all; if words are necessary, have them well-prepared. (Examples of blessings, instructions and jokes are offered.)
-> *   Know what you’re doing and what is going on, and keep signaling that knowledge, to gently reassure your adventurer who doesn’t.
-> *   “After the journey, it is important to have some delicious food available for the tripper.”
-> *   Absolutely never tell anybody anything of what transpired.
+*   To trip sit someone, you must have completed a trip with the same drug yourself, preferably in the same setting.
+*   Before you start, prepare at length.
+
+1.  Talk with your adventurer in depth, as equals with mutual respect, about their medical and personal characteristics as well as their prior experiences and expectations. Carefully weigh whether you can assist this particular person with this particular trip.
+2.  Design the chosen safe space for hypersensitivity: lighting must be low, everything must be clean, you must mindfully adjust any and all features of the space, from artworks to the path to the bathroom and even the presence of pets.
+3.  Prepare a sound system your adventurer can use, and offer a music playlist that accompanies the predictable course of the pharmacological effects over time: encouraging start, interesting peak, relaxing return.
+
+*   From before until after the trip, willfully Care in every sensible way. Let them chill in comfort while you embody unimpeachable safety and supportiveness.
+*   Avoid speaking at all; if words are necessary, have them well-prepared. (Examples of blessings, instructions and jokes are offered.)
+*   Know what you’re doing and what is going on, and keep signaling that knowledge, to gently reassure your adventurer who doesn’t.
+*   “After the journey, it is important to have some delicious food available for the tripper.”
+*   Absolutely never tell anybody anything of what transpired.
 
 This gist appears to accord with mainstream opinion among people who publicly comment on how to do psychedelic-assisted / psycholytic therapy, as far as I can tell despite their frustrating vagueness. The difference is in impressively assiduous specifics like “a variety of blankets, bolsters, and pillows should be available for the traveller” and in very particular hints such as to take care to prevent any sudden noises from the doorbell.
 

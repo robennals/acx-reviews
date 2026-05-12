@@ -7,7 +7,7 @@ contestName: 2026 Book Reviews
 year: 2026
 publishedDate: '2026-03-21T06:22:55.000Z'
 slug: imagined-communities-relfections-on-the-origin-and-spread-of-nationalism
-wordCount: 4544
+wordCount: 4540
 readingTimeMinutes: 21
 source: gdoc
 tags:
@@ -31,10 +31,10 @@ Even more interestingly, the sweep of history makes clear that multi-ethnic empi
 _Imagined Communities_ is all about Benedict Anderson's attempt to explain this phenomena and by the by ponder on nationalism.[2]
 
 > Theorists of nationalism have often been perplexed by, not to say irritated by, these three paradoxes:
->
-> *   Objective modernity to the historian's eye vs their subjective antiquity in the eyes of nationalists
-> *   The formal universality of nationality as a socio-cultural concept - in the modern world everyone can, should and will 'have' a nationality, as he or she 'has' a gender - vs. the irremediable particularity of its concrete manifestations, such that by definition, 'Greek' nationality is sui generis
-> *   The 'political' power of nationalisms vs. their philosophical poverty and even incoherence. In other words, unlike most other isms, no nationalism has never produced its own grand thinkers: no Hobbeses, Tocquevilles, Marces or Webers.
+
+*   Objective modernity to the historian's eye vs their subjective antiquity in the eyes of nationalists
+*   The formal universality of nationality as a socio-cultural concept - in the modern world everyone can, should and will 'have' a nationality, as he or she 'has' a gender - vs. the irremediable particularity of its concrete manifestations, such that by definition, 'Greek' nationality is sui generis
+*   The 'political' power of nationalisms vs. their philosophical poverty and even incoherence. In other words, unlike most other isms, no nationalism has never produced its own grand thinkers: no Hobbeses, Tocquevilles, Marces or Webers.
 
 Anderson's definition of a nation is [3]:
 

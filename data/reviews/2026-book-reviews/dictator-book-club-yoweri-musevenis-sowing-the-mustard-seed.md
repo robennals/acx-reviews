@@ -7,7 +7,7 @@ contestName: 2026 Book Reviews
 year: 2026
 publishedDate: '2026-02-20T17:13:52.000Z'
 slug: dictator-book-club-yoweri-musevenis-sowing-the-mustard-seed
-wordCount: 6682
+wordCount: 6669
 readingTimeMinutes: 30
 source: gdoc
 tags:
@@ -88,8 +88,8 @@ OK, so after Amin, Obote has another brief turn in the seat. The man who is the 
 
 This is not a well-written book. But it _is_ a page-turner. Museveni starts by explaining why he wanted a second edition in the first place. Not to redact war crimes from the previous edition. No, no, no! It’s because he hates the Oxford comma! He spends at least a page on how he would never have approved the ghost writer if he knew he would use the Oxford comma. Which, fine, listen: I can understand a man who has strong feelings about punctuation. But then he immediately begins perpetrating egregious crimes against the comma, like:
 
-> *   “I, certainly, saw a dead body, on the road, as I was heading back to Kampala.”
-> *   “They, immediately, jumped into a number of cars, fully armed with SMGs and drove up to the roadblock at Kireka.”
+*   “I, certainly, saw a dead body, on the road, as I was heading back to Kampala.”
+*   “They, immediately, jumped into a number of cars, fully armed with SMGs and drove up to the roadblock at Kireka.”
 
 I could go on! But I’ll spare you. The man is also a serial acronym abuser. Here’s just one example sentence that took me a few attempts to parse:
 
@@ -163,10 +163,10 @@ Recall that he had met Deng Xiaoping, and Kim Il Sung and Fidel Castro. You have
 
 OK, so he’s in charge. What does he do? At first he rolls out a pretty good four-part plan for normalization:
 
-> 1.  Maintain army discipline to create calm and reassure everyone
-> 2.  Let the Shilling float to establish fiscal stability
-> 3.  Start building out paved roads and the electrical grid
-> 4.  Get proper tax collection organized so his government wouldn’t have to be totally kleptocratic to make ends meet
+1.  Maintain army discipline to create calm and reassure everyone
+2.  Let the Shilling float to establish fiscal stability
+3.  Start building out paved roads and the electrical grid
+4.  Get proper tax collection organized so his government wouldn’t have to be totally kleptocratic to make ends meet
 
 I mean… is this the most reasonable plan ever instituted by a first-generation leftist dictator? It’s not perfect, but he clearly has some common sense. For example, he recognizes that nationalizing companies is counterproductive:
 
@@ -188,13 +188,13 @@ Things have been pretty low-key ever since. He styles himself mostly as a farmer
 
 He rates _himself_ very highly, and isn’t afraid to name and attack his detractors head on. He gives himself particularly high marks for avoiding five out of the seven “types of crime and corruption” his predecessors engaged in. This is not a joke. Here’s the list:
 
-> 1.  Extra-judicial killings
-> 2.  Raping women and defiling young girls
-> 3.  Extortion of money at roadblocks by soldiers and looting
-> 4.  Poaching of animals at the national parks and encroachment on the forest reserves[[16]](#ftnt16)
-> 5.  Embezzlement of public funds, bribe taking and abuse of office
-> 6.  Obstruction of projects of public interest
-> 7.  Nepotism
+1.  Extra-judicial killings
+2.  Raping women and defiling young girls
+3.  Extortion of money at roadblocks by soldiers and looting
+4.  Poaching of animals at the national parks and encroachment on the forest reserves[[16]](#ftnt16)
+5.  Embezzlement of public funds, bribe taking and abuse of office
+6.  Obstruction of projects of public interest
+7.  Nepotism
 
 “Of these seven types of crime and corruption, only two are surviving. These are N0.5 and N0.6—i.e. embezzlement of public funds, taking of bribes and abuse of office and blocking of projects of public interest such as investments.”
 

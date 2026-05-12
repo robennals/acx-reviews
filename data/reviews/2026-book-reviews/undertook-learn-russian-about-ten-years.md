@@ -7,7 +7,7 @@ contestName: 2026 Book Reviews
 year: 2026
 publishedDate: '2026-05-09T18:04:08.000Z'
 slug: undertook-learn-russian-about-ten-years
-wordCount: 4897
+wordCount: 4892
 readingTimeMinutes: 22
 source: gdoc
 tags:
@@ -31,8 +31,8 @@ However, the whole purpose of this review is so that the modern “scientific, r
 At the end of the book (not really a spoiler, I literally told you Dostoyevsky predicted the reasons for the Russian revolution) Stepan Trofimovich reflects on this passage and how it relates to Russia (translated by me—actually the character speaks half in French because he’s quirky and arrogant and a poser like that—and, unlike many translators, I have preserved the French original):
 
 > “My friend,” pronounced Stepan Trofimovich in a great agitation, “savez-vous, this marvellous and . . . unusual place was for me my entire life a stumblingblock . . . dans ce livre . . . so much so that I could even as a child recall it. Now, however, I have only one thought; une comparaison. Now horribly have many thoughts come to me: you see, this is point-by-point just like our Russia. These demons, coming out of the sick [man] and going into the swine—it’s all the sores, all the miasmas, all the uncleanness, all the demons and demon-cubs that have amassed themselves in our great and dear sick [one], in our Russia, for the age, for the age! Oui, cette Russie, que j’aimais toujours. But a great thought and a great will hangs over her from above, just as over that mindless demon-infested [man], and there will come out all these demons, all the uncleanness, all this abomination that is beginning to fester on the surface . . . and they themselves will ask to go into the swine. Yea, and they’ve already gone in, maybe! That’s us, us and those, and Petrusha . . . et les autres avec lui, and I, maybe, am the first, at the head, and we’ll throw ourselves, mindless and possessed, from the cliff into the sea and we all will drown, and that is our path, because after all that’s all we’re good for. But the sick man was made whole and “was sitting at the feet of Jesus” . . . and all will look on in astonishment . . . [My] dear, vous comprendrez après, but now this is very much disturbing me . . . Vous comprendrez après... Nous comprendrons ensemble.
->
-> 1.  **Representation vs. Reality (A Category Error)**
+
+1.  **Representation vs. Reality (A Category Error)**
 
 A great philosopher of Reddit (whose name eludes me at the moment) once argued that literally every error in rationality is a “category error”—which means wrongly dealing with or talking about an entity _as if it were something that it’s not_.
 
@@ -66,7 +66,7 @@ Demons, like black holes, can be difficult to perceive with the naked eye. Their
 
 _Figure 3: A Medieval Artist’s Rendition of Two Demons_
 
-> 2.  **Defining and Translating Demons**
+2.  **Defining and Translating Demons**
 
 There are some texts that are called “untranslatable.” This can be for many reasons—a common one is that the source language is simply too unrelated to the target language.
 
@@ -106,7 +106,7 @@ Like I said: literal, screeching demons with claws and fangs.
 
 It can further be seen, even after the word _demon_ is properly defined and construed, that any remaining objection the skeptic might raise is simply [an isolated demand for rigor](https://slatestarcodex.com/2014/08/14/beware-isolated-demands-for-rigor/), all the more dishonest since the skeptic routinely accepts the existence of phenomena for which the evidence is even flimsier—such as “mental illness.”
 
-> 3.  **The Modern Man Says “He’s Mentally Ill”; the Ancient, “He Hath a Demon.”**
+3.  **The Modern Man Says “He’s Mentally Ill”; the Ancient, “He Hath a Demon.”**
 
 Approaching a topic rationally, scientifically, and skeptically requires us to rely only on objective evidence: that is to say, only that which a bystander can actually observe is admissible in our discussions. Furthermore, this bystander must be actually _objective_: that is, even armed with actual direct observations, the bystander cannot rely on inferences that are predicated on unfounded assumptions, stereotypes, or biases of normativity.
 
@@ -138,7 +138,7 @@ Of course, if you read carefully, it’s obvious that Maria has a depth of thoug
 
 _“Captain Lebyadkin? Sure, he has some problems, as we all do, but he’s not possessed by a demon, nor does he have any mental illness, much less alcoholism: he’s just a retired Russian army officer! It’s completely normal and understandable for someone with his cultural and professional background to behave and drink like that!”_
 
-> 4.  **A Review of a Book, but Not a Book Review**
+4.  **A Review of a Book, but Not a Book Review**
 
 People like Health Secretary JFK Jr would maintain that “autists” do not and cannot understand fiction; activists would push back that this is an unfair characterization, that many “autists” can enjoy and understand many of the same things, etc.
 

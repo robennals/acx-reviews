@@ -7,7 +7,7 @@ contestName: 2026 Book Reviews
 year: 2026
 publishedDate: '2026-05-09T22:23:55.000Z'
 slug: mother-of-learning
-wordCount: 5873
+wordCount: 5869
 readingTimeMinutes: 27
 source: gdoc
 tags:
@@ -54,10 +54,10 @@ Instead of Akoja, Zorian finds Zach fighting the invaders with an insane level o
 
 From here the story is told over the course of three (or four) major arcs.  The webnovel treats it as three, but the longer third arc was split into two books when it was officially published.  There are 117 chapters including the epilogue and they are broken down as such:
 
-> *   Arc 1 (Chapters 1-26): Zorian comes to grip with the time loop and finds some unlikely allies to help unlock a hidden talent.
-> *   Arc 2 (Chapters 27-54): Worried about being hunted, Zorian travels the county to learn as much as he can before finally coming back to Cyoria.
-> *   Arc 3 (Chapters 55-91): Zorian finally teams up with Zach as they make increasingly risky gambles to escape the time loop.
-> *   Arc 4 (Chapters 92-117): Now escaped from the time loop and at the start of the real month, Zorian must work harder than ever to stop the invasion and save the lives of everyone that he has come to care about.
+*   Arc 1 (Chapters 1-26): Zorian comes to grip with the time loop and finds some unlikely allies to help unlock a hidden talent.
+*   Arc 2 (Chapters 27-54): Worried about being hunted, Zorian travels the county to learn as much as he can before finally coming back to Cyoria.
+*   Arc 3 (Chapters 55-91): Zorian finally teams up with Zach as they make increasingly risky gambles to escape the time loop.
+*   Arc 4 (Chapters 92-117): Now escaped from the time loop and at the start of the real month, Zorian must work harder than ever to stop the invasion and save the lives of everyone that he has come to care about.
 
 The arcs themselves are all well paced with the details of the time loop slowly being revealed.  In order to avoid spoilers I won’t be sharing information about the overarching mystery of how the time loop works.  Thankfully, the book is full of secondary mysteries that Zorian only learns about through his repeated interactions with people.  For example, it takes dozens of loops before Zorian realizes that Kirelle desperately wants to go to Cyoria with him and only wakes Zorian up so aggressively because she couldn’t wait to find out if he would agree to take her.  Much later, Zorian finally asks why his parents are travelling to another continent to see Daimen and learns that Daimen is engaged to foreign royalty and his parents want to break up the marriage.  The groundwork for those two reveals are laid in the first scene, but the entire book is like that.
 
