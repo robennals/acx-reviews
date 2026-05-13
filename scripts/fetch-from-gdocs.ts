@@ -408,7 +408,10 @@ async function createMarkdownFile(
   // Serialize frontmatter via the gray-matter wrapper that disables YAML
   // line-folding. Using gray-matter's defaults would fold long titles/slugs
   // onto multiple lines using the `>-` indicator, producing noisy diffs.
-  const newFrontmatter = stringifyMarkdown(processedContent, {
+  // Prepend a newline to the content so gray-matter emits a blank line
+  // between the closing `---` of the frontmatter and the first body
+  // paragraph (matches the convention fetch-from-csv uses).
+  const newFrontmatter = stringifyMarkdown('\n' + processedContent, {
     title: data.title,
     author: data.author,
     reviewAuthor: data.reviewAuthor,
