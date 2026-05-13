@@ -7,7 +7,7 @@ contestName: 2026 Book Reviews
 year: 2026
 publishedDate: '2026-04-04T16:17:04.000Z'
 slug: bleeding-edge-by-thomas-pynchon
-wordCount: 6130
+wordCount: 6143
 readingTimeMinutes: 28
 source: gdoc
 tags:
@@ -56,19 +56,19 @@ Thomas Pynchon successfully records how the brilliant casts of characters that m
 
 Behold Pynchon in a meta dialogue dance:
 
-‘Um, no, I meant…’ Horst is almost cute when he fidgets. ‘You never forgave me for not learning how to dance, right?’
-
-‘Horst, I am supposed to be what, here, tiptoeing around your regrets? If you like, I can teach you a couple of real simple steps right now, would that help?’
-
-‘Long as I don’t have to swing my hips, a man’s got to draw the line someplace.’
-
-She roots through the CD collection, pops on a disc. ‘OK. This is merengue, real simple, all you have to do is stand there like a silo, if you feel like moving a foot now and then, why so much the better.’
-
-The kids look in after a while and find them in a formal clinch, slow-dancing to every other beat of ‘Copacabana.’
-
-‘Vice-principal’s office, you two.’
-
-‘Yeah, on the double.’ (300).
+> ‘Um, no, I meant…’ Horst is almost cute when he fidgets. ‘You never forgave me for not learning how to dance, right?’
+>
+> ‘Horst, I am supposed to be what, here, tiptoeing around your regrets? If you like, I can teach you a couple of real simple steps right now, would that help?’
+>
+> ‘Long as I don’t have to swing my hips, a man’s got to draw the line someplace.’
+>
+> She roots through the CD collection, pops on a disc. ‘OK. This is merengue, real simple, all you have to do is stand there like a silo, if you feel like moving a foot now and then, why so much the better.’
+>
+> The kids look in after a while and find them in a formal clinch, slow-dancing to every other beat of ‘Copacabana.’
+>
+> ‘Vice-principal’s office, you two.’
+>
+> ‘Yeah, on the double.’ (300).
 
 ## T for Trust
 

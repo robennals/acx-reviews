@@ -7,7 +7,7 @@ contestName: 2026 Book Reviews
 year: 2026
 publishedDate: '2026-05-10T22:44:46.000Z'
 slug: bellum-catilinae-the-catiline-conspiracy
-wordCount: 7317
+wordCount: 7321
 readingTimeMinutes: 33
 source: gdoc
 tags:
@@ -273,15 +273,13 @@ His second personal motivation, the love of the game, is also recognizable. Sall
 
 As a Latin stylist, Sallust is compressed, expressive, ametric, and brilliant. The prose is superb. Cicero at his best is lyrical:
 
-_Quo usque tandem abutere, Catilina, patientia nostra?_ 
-
-How long, Catiline, will you abuse our patience?
+> _Quo usque tandem abutere, Catilina, patientia nostra?_   
+> How long, Catiline, will you abuse our patience?
 
 Sallust at his best is syncopated, arresting:
 
-_Namque pauci libertatem, pars magna iustos dominos volunt._[12]
-
-Because few prefer liberty, the greater part desire only fair masters.
+> _Namque pauci libertatem, pars magna iustos dominos volunt._[12]  
+> Because few prefer liberty, the greater part desire only fair masters.
 
 Sallust translates naturally into English, as if _inconcinnitas_ were the default style of our prose—at least after Hemingway.
 

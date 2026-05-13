@@ -121,30 +121,28 @@ function parseGDocStyles(html: string): GDocStyleMap {
     if (/font-style\s*:\s*italic/.test(props)) {
       italicClasses.add(cls);
     }
-    // Detect blockquote-like indentation. Google Docs' blockquote feature
-    // uses `margin-left: 36pt` (and usually `margin-right: 36pt` too). Body
-    // paragraphs often use `margin-left: 18pt` as a stylistic choice.
-    // Some authors quote verse by using `text-indent: 36pt + margin-right`
-    // instead of `margin-left` — visually each (short) line ends up
-    // indented inside narrower bounds, which IS a blockquote shape.
+    // Detect blockquote-like indentation. A class is "indented" if it
+    // carries a meaningful indent signal in ANY of these forms:
+    //   - `margin-left >= 36pt` (Google Docs' built-in blockquote style,
+    //     and the most common manual block-quote indent), OR
+    //   - `text-indent >= 36pt` (a first-line indent of 36pt or more — used
+    //     by some authors to mark a single-line quote, or one verse line at
+    //     a time, especially when the paragraph is short enough that the
+    //     "first line" IS the whole line), OR
+    //   - `margin-left + margin-right` BOTH set (indented on both sides,
+    //     which is characteristic of a blockquote regardless of depth).
     //
-    // Accept a class as "indented" if ANY of:
-    //   - margin-left is a deep indent (>= 36pt), OR
-    //   - margin-left AND margin-right are BOTH set (indented both sides,
-    //     which is characteristic of a blockquote regardless of depth), OR
-    //   - text-indent is a deep first-line indent (>= 36pt) AND margin-right
-    //     is set (the pattern used for quoted verse).
+    // Whole-doc-default text-indent (a typical "first-line indent on every
+    // body paragraph" style) would over-fire here. We gate against that in
+    // applySemanticTags by checking that the indent class isn't used on
+    // the majority of body paragraphs.
     const marginLeftMatch = props.match(/margin-left\s*:\s*(\d+(?:\.\d+)?)pt/);
     const marginRightMatch = props.match(/margin-right\s*:\s*(\d+(?:\.\d+)?)pt/);
     const textIndentMatch = props.match(/text-indent\s*:\s*(\d+(?:\.\d+)?)pt/);
     const leftPt = marginLeftMatch ? parseFloat(marginLeftMatch[1]) : 0;
     const rightPt = marginRightMatch ? parseFloat(marginRightMatch[1]) : 0;
     const textIndentPt = textIndentMatch ? parseFloat(textIndentMatch[1]) : 0;
-    if (leftPt >= 36) {
-      indentClasses.add(cls);
-    } else if (leftPt >= 18 && rightPt >= 18) {
-      indentClasses.add(cls);
-    } else if (textIndentPt >= 36 && rightPt > 0) {
+    if (leftPt >= 36 || textIndentPt >= 36 || (leftPt >= 18 && rightPt >= 18)) {
       indentClasses.add(cls);
     }
   }
@@ -161,6 +159,30 @@ function parseGDocStyles(html: string): GDocStyleMap {
  * 3. Wraps indented paragraphs in <blockquote>
  */
 function applySemanticTags($: CheerioAPI, styles: GDocStyleMap): void {
+  // Gate against universal-body-style indentation. A class like
+  // `.cN{text-indent:36pt}` is a blockquote signal ONLY when it
+  // distinguishes some paragraphs from the others; in a doc where
+  // every body paragraph carries that class (the typical "first-line
+  // indent on all paragraphs" book style), it's the body default and
+  // doesn't indicate quoting. Count paragraph usage; if a candidate
+  // indent class is on >50% of paragraphs, treat it as body, not
+  // indent. The threshold is generous on purpose — real quote-only
+  // classes typically land below 20%, real body-default classes
+  // typically land above 70%.
+  // Need a meaningful denominator to call something a "body default" —
+  // in a doc with 1 paragraph it's not a default, it's the only thing.
+  // Real reviews have hundreds of paragraphs; the 10-paragraph floor is
+  // generous on the side of NOT firing.
+  const totalParagraphs = $('p').length;
+  if (totalParagraphs >= 10) {
+    for (const cls of [...styles.indentClasses]) {
+      const usageCount = $(`p.${cls}`).length;
+      if (usageCount / totalParagraphs > 0.5) {
+        styles.indentClasses.delete(cls);
+      }
+    }
+  }
+
   // Reconstruct nested list structure. Google Docs exports lists flat:
   // a `<ul>` for top-level items, then a sibling `<ol>` or `<ul>` for
   // nested items, then another sibling at top level for items that
