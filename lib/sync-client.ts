@@ -12,8 +12,13 @@ let cached: Promise<SyncResponse> | null = null;
  * and FavoritesProvider need the same data; without this dedup they'd each
  * issue their own request even though /api/sync already returns both shapes.
  *
- * Cleared on failure (so callers can retry) and on sign-out via
- * invalidateSyncCache().
+ * Cache lifecycle:
+ *   - Cleared on rejection so the next caller hits the network again.
+ *     Concurrent callers share both the in-flight promise AND the rejection;
+ *     subsequent callers after that get a fresh attempt.
+ *   - Cleared explicitly on sign-out (see invalidateSyncCache()).
+ *   - Retry / backoff policy lives at the call sites, not here — the
+ *     contexts gate re-fetches behind their own auth + done flags.
  */
 export function fetchSyncOnce(
   doFetch: typeof fetch = fetch
@@ -24,8 +29,8 @@ export function fetchSyncOnce(
     if (!res.ok) throw new Error(`sync failed: ${res.status}`);
     const data = (await res.json()) as Partial<SyncResponse>;
     return {
-      favorites: data.favorites ?? [],
-      progress: data.progress ?? [],
+      favorites: Array.isArray(data.favorites) ? data.favorites : [],
+      progress: Array.isArray(data.progress) ? data.progress : [],
     };
   })().catch((err) => {
     cached = null;

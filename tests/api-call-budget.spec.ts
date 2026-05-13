@@ -53,7 +53,7 @@ async function captureApiCalls(page: Page, action: () => Promise<void>): Promise
   return urls;
 }
 
-test('signed-in reload of home page makes at most one /api/sync and no /api/auth/session', async ({
+test('signed-in reload of home page makes exactly one /api/sync and no /api/auth/session', async ({
   page,
 }) => {
   await signInAs(page, 'api-budget-home@example.invalid');
@@ -68,13 +68,23 @@ test('signed-in reload of home page makes at most one /api/sync and no /api/auth
   const syncCount = countMatching(urls, /\/api\/sync(\?|$)/);
   const sessionCount = countMatching(urls, /\/api\/auth\/session(\?|$)/);
 
-  expect(syncCount, `expected at most 1 /api/sync, saw: ${urls.join(', ')}`).toBeLessThanOrEqual(1);
+  // Exact counts — a 0 here would mean the dedup is dropping a legitimate
+  // fetch (regression in initial pull); a 2 means the dedup broke.
+  expect(syncCount, `expected exactly 1 /api/sync, saw: ${urls.join(', ')}`).toBe(1);
   expect(sessionCount, `expected 0 /api/auth/session, saw: ${urls.join(', ')}`).toBe(0);
 });
 
-test('signed-in reload of a review page makes at most one /api/sync and no /api/auth/session', async ({
+test('signed-in reload of a review page makes exactly one /api/sync and no /api/auth/session (dev path)', async ({
   page,
 }) => {
+  // NOTE: this test runs under `next dev`, which serves every route
+  // dynamically — so the layout's auth() call resolves and the session
+  // is hydrated into SessionProvider. In a production build, /reviews/[slug]
+  // is statically prerendered: auth() throws at build time, the layout
+  // passes session=undefined to AuthProvider, and SessionProvider fetches
+  // /api/auth/session once on mount. That production codepath is NOT
+  // exercised here. Worth adding a prod-mode Playwright project later if
+  // we want to assert that exact budget end-to-end.
   await signInAs(page, 'api-budget-review@example.invalid');
   await page.goto('/');
   const slugHref = await page
@@ -93,7 +103,7 @@ test('signed-in reload of a review page makes at most one /api/sync and no /api/
   const syncCount = countMatching(urls, /\/api\/sync(\?|$)/);
   const sessionCount = countMatching(urls, /\/api\/auth\/session(\?|$)/);
 
-  expect(syncCount, `expected at most 1 /api/sync, saw: ${urls.join(', ')}`).toBeLessThanOrEqual(1);
+  expect(syncCount, `expected exactly 1 /api/sync, saw: ${urls.join(', ')}`).toBe(1);
   expect(sessionCount, `expected 0 /api/auth/session, saw: ${urls.join(', ')}`).toBe(0);
 });
 

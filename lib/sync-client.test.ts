@@ -67,6 +67,55 @@ test('fetchSyncOnce: failure clears the cache so a retry hits the network again'
   assert.deepEqual(out.favorites, ['after-retry']);
 });
 
+test('fetchSyncOnce: concurrent callers share the same rejection, next caller gets a fresh attempt', async () => {
+  // Use a controlled deferred so we can observe what happens to the
+  // second caller while the first is still in flight.
+  let rejectFirst!: (err: Error) => void;
+  let firstCalls = 0;
+  const firstFetch = (async () => {
+    firstCalls++;
+    return new Promise<Response>((_, reject) => {
+      rejectFirst = (err) => reject(err);
+    });
+  }) as unknown as typeof fetch;
+
+  const p1 = fetchSyncOnce(firstFetch);
+  const p2 = fetchSyncOnce(firstFetch);
+  // Both callers must be observing the same in-flight promise — only one
+  // network call happened.
+  assert.equal(firstCalls, 1);
+
+  rejectFirst(new Error('boom'));
+
+  const e1 = await p1.then(
+    () => null,
+    (err) => err
+  );
+  const e2 = await p2.then(
+    () => null,
+    (err) => err
+  );
+  assert.ok(e1 instanceof Error);
+  // Same rejection bubbled to both callers.
+  assert.equal(e1, e2);
+
+  // Cache was cleared on rejection — a third caller now hits the network.
+  const retry = makeFetchSpy({ favorites: ['fresh'], progress: [] });
+  const out = await fetchSyncOnce(retry.fn);
+  assert.equal(retry.getCalls(), 1);
+  assert.deepEqual(out.favorites, ['fresh']);
+});
+
+test('fetchSyncOnce: non-array fields in the response are coerced to []', async () => {
+  // The route contract is `string[]` and `ServerProgressEntry[]`, but a
+  // misbehaving server (or middlebox) returning `{favorites: null}` shouldn't
+  // crash the contexts that consume this.
+  const { fn } = makeFetchSpy({ favorites: null, progress: 'oops' });
+  const out = await fetchSyncOnce(fn);
+  assert.deepEqual(out.favorites, []);
+  assert.deepEqual(out.progress, []);
+});
+
 test('invalidateSyncCache: forces the next call to re-fetch', async () => {
   const first = makeFetchSpy({ favorites: ['one'], progress: [] });
   const out1 = await fetchSyncOnce(first.fn);
