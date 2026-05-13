@@ -1,55 +1,73 @@
 import { test } from 'node:test';
 import assert from 'node:assert/strict';
-import { ballotsToCsv } from './csv';
+import { ratingsToCsv } from './csv';
 
 test('empty input → header row only', () => {
   assert.equal(
-    ballotsToCsv([]),
-    'voter_email,rank,review_title,review_slug\n'
+    ratingsToCsv([]),
+    'voter_email,rating,review_title,review_slug,rated_at\n'
   );
 });
 
 test('single row', () => {
-  const csv = ballotsToCsv([
-    { email: 'a@x.com', rank: 1, reviewTitle: 'Hello', reviewSlug: 'hello' },
+  const csv = ratingsToCsv([
+    {
+      email: 'a@x.com',
+      rating: 8,
+      reviewTitle: 'Hello',
+      reviewSlug: 'hello',
+      ratedAt: '2026-04-15T12:00:00Z',
+    },
   ]);
   assert.equal(
     csv,
-    'voter_email,rank,review_title,review_slug\n' +
-      'a@x.com,1,Hello,hello\n'
+    'voter_email,rating,review_title,review_slug,rated_at\n' +
+      'a@x.com,8,Hello,hello,2026-04-15T12:00:00Z\n'
   );
 });
 
 test('escapes commas and quotes in title', () => {
-  const csv = ballotsToCsv([
-    { email: 'a@x.com', rank: 1, reviewTitle: 'A, "great" book', reviewSlug: 'a-great-book' },
+  const csv = ratingsToCsv([
+    {
+      email: 'a@x.com',
+      rating: 9,
+      reviewTitle: 'A, "great" book',
+      reviewSlug: 'a-great-book',
+      ratedAt: '2026-04-15T12:00:00Z',
+    },
   ]);
   assert.equal(
     csv,
-    'voter_email,rank,review_title,review_slug\n' +
-      'a@x.com,1,"A, ""great"" book",a-great-book\n'
+    'voter_email,rating,review_title,review_slug,rated_at\n' +
+      'a@x.com,9,"A, ""great"" book",a-great-book,2026-04-15T12:00:00Z\n'
   );
 });
 
 test('escapes newlines in title', () => {
-  const csv = ballotsToCsv([
-    { email: 'a@x.com', rank: 1, reviewTitle: 'Line one\nLine two', reviewSlug: 'multi' },
+  const csv = ratingsToCsv([
+    {
+      email: 'a@x.com',
+      rating: 5,
+      reviewTitle: 'Line one\nLine two',
+      reviewSlug: 'multi',
+      ratedAt: '2026-04-15T12:00:00Z',
+    },
   ]);
   assert.equal(
     csv,
-    'voter_email,rank,review_title,review_slug\n' +
-      'a@x.com,1,"Line one\nLine two",multi\n'
+    'voter_email,rating,review_title,review_slug,rated_at\n' +
+      'a@x.com,5,"Line one\nLine two",multi,2026-04-15T12:00:00Z\n'
   );
 });
 
 test('multiple rows in input order', () => {
-  const csv = ballotsToCsv([
-    { email: 'a@x.com', rank: 1, reviewTitle: 'A', reviewSlug: 'a' },
-    { email: 'a@x.com', rank: 2, reviewTitle: 'B', reviewSlug: 'b' },
-    { email: 'b@y.com', rank: 1, reviewTitle: 'C', reviewSlug: 'c' },
+  const csv = ratingsToCsv([
+    { email: 'a@x.com', rating: 10, reviewTitle: 'A', reviewSlug: 'a', ratedAt: '2026-04-15T12:00:00Z' },
+    { email: 'a@x.com', rating: 7, reviewTitle: 'B', reviewSlug: 'b', ratedAt: '2026-04-14T12:00:00Z' },
+    { email: 'b@y.com', rating: 9, reviewTitle: 'C', reviewSlug: 'c', ratedAt: '2026-04-13T12:00:00Z' },
   ]);
   const lines = csv.trim().split('\n');
   assert.equal(lines.length, 4);
-  assert.equal(lines[1], 'a@x.com,1,A,a');
-  assert.equal(lines[3], 'b@y.com,1,C,c');
+  assert.equal(lines[1], 'a@x.com,10,A,a,2026-04-15T12:00:00Z');
+  assert.equal(lines[3], 'b@y.com,9,C,c,2026-04-13T12:00:00Z');
 });
