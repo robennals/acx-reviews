@@ -10,11 +10,12 @@ import {
 } from 'react';
 import { useSession } from 'next-auth/react';
 import type { InitialVotesState } from '@/lib/server/initial-votes';
-import { COUNTING_ZONE_SIZE } from '@/lib/voting/ballot';
 import { useToast } from '@/context/toast-context';
 
+type RatingEntry = { rating: number; updatedAt: number };
+
 interface VotesState {
-  ballot: string[];
+  ratings: Record<string, RatingEntry>;
   contestYear: number | null;
   contestTitle: string | null;
   contestId: string | null;
@@ -23,12 +24,10 @@ interface VotesState {
 }
 
 interface VotesContextValue extends VotesState {
-  /** Optimistic full-ballot replace; returns server-confirmed ballot. */
-  setBallot: (next: string[]) => Promise<string[]>;
-  /** 1-based rank, or null if not in ballot. */
-  rankOf: (reviewId: string) => number | null;
-  /** Count of entries in the counting zone (rank ≤ 10). */
-  countingCount: () => number;
+  ratingOf: (reviewId: string) => number | null;
+  ratedAtOf: (reviewId: string) => number | null;
+  setRating: (reviewId: string, rating: number) => Promise<void>;
+  clearRating: (reviewId: string) => Promise<void>;
 }
 
 const VotesContext = createContext<VotesContextValue | undefined>(undefined);
@@ -43,79 +42,122 @@ export function VotesProvider({
   const { status } = useSession();
   const { show: toast } = useToast();
   const [state, setState] = useState<VotesState>(() => ({
-    ballot: initial.ballot,
+    ratings: initial.ratings,
     contestYear: initial.contestYear,
     contestTitle: initial.contestTitle,
     contestId: initial.contestId,
     votingStart: initial.votingStart ? new Date(initial.votingStart) : null,
     votingEnd: initial.votingEnd ? new Date(initial.votingEnd) : null,
   }));
-  const inflight = useRef<Promise<string[]> | null>(null);
 
-  const setBallot = useCallback(
-    async (next: string[]) => {
-      if (status !== 'authenticated' || !state.contestId) return state.ballot;
-      // Apply optimistic update immediately so the UI is responsive.
-      setState((s) => ({ ...s, ballot: next }));
+  // Per-review single-flight: queue writes for the same reviewId so two
+  // rapid clicks don't race. Different reviews are independent.
+  const queues = useRef(new Map<string, Promise<void>>());
 
-      // Serialize PUTs so responses can't clobber each other and rollbacks
-      // don't revert past a more recent optimistic update.
-      const wait = inflight.current ?? Promise.resolve();
-      const myTurn: Promise<string[]> = wait
-        .catch(() => undefined)
-        .then(async () => {
-          try {
-            const res = await fetch('/api/votes/ballot', {
-              method: 'PUT',
-              headers: { 'content-type': 'application/json' },
-              body: JSON.stringify({ contestId: state.contestId, reviewIds: next }),
-            });
-            if (!res.ok) {
-              let reason = `error ${res.status}`;
-              try {
-                const body = (await res.json()) as { error?: string };
-                if (body?.error) reason = body.error.replace(/_/g, ' ');
-              } catch {
-                /* response had no JSON body */
-              }
-              toast(`Couldn’t save your vote: ${reason}`, 'error');
-              // Don't revert — that would race with any newer optimistic
-              // update queued behind us. The toast tells the user.
-              return next;
+  const enqueue = useCallback(
+    (reviewId: string, fn: () => Promise<void>): Promise<void> => {
+      const prev = queues.current.get(reviewId) ?? Promise.resolve();
+      const next = prev.catch(() => undefined).then(fn);
+      queues.current.set(reviewId, next);
+      next.finally(() => {
+        if (queues.current.get(reviewId) === next) {
+          queues.current.delete(reviewId);
+        }
+      });
+      return next;
+    },
+    []
+  );
+
+  const setRating = useCallback(
+    async (reviewId: string, rating: number) => {
+      if (status !== 'authenticated' || !state.contestId) return;
+      const optimisticAt = Date.now();
+      setState((s) => ({
+        ...s,
+        ratings: { ...s.ratings, [reviewId]: { rating, updatedAt: optimisticAt } },
+      }));
+
+      await enqueue(reviewId, async () => {
+        try {
+          const res = await fetch('/api/votes/rating', {
+            method: 'PUT',
+            headers: { 'content-type': 'application/json' },
+            body: JSON.stringify({ contestId: state.contestId, reviewId, rating }),
+          });
+          if (!res.ok) {
+            let reason = `error ${res.status}`;
+            try {
+              const body = (await res.json()) as { error?: string };
+              if (body?.error) reason = body.error.replace(/_/g, ' ');
+            } catch {
+              /* no JSON body */
             }
-            const data = (await res.json()) as { ballot: string[] };
-            // Only mirror the server's response if no newer write is queued.
-            if (inflight.current === myTurn) {
-              setState((s) => ({ ...s, ballot: data.ballot }));
-            }
-            return data.ballot;
-          } catch {
-            toast("Couldn’t save your vote — network error.", 'error');
-            return next;
+            toast(`Couldn't save your rating: ${reason}`, 'error');
+            return;
           }
-        });
-
-      inflight.current = myTurn;
-      return myTurn;
+          const data = (await res.json()) as {
+            rating: { reviewId: string; rating: number; updatedAt: number };
+          };
+          setState((s) => ({
+            ...s,
+            ratings: {
+              ...s.ratings,
+              [reviewId]: { rating: data.rating.rating, updatedAt: data.rating.updatedAt },
+            },
+          }));
+        } catch {
+          toast("Couldn't save your rating — network error.", 'error');
+        }
+      });
     },
-    [state.contestId, status, toast]
+    [state.contestId, status, toast, enqueue]
   );
 
-  const rankOf = useCallback(
-    (reviewId: string) => {
-      const idx = state.ballot.indexOf(reviewId);
-      return idx === -1 ? null : idx + 1;
+  const clearRating = useCallback(
+    async (reviewId: string) => {
+      if (status !== 'authenticated' || !state.contestId) return;
+      setState((s) => {
+        const next = { ...s.ratings };
+        delete next[reviewId];
+        return { ...s, ratings: next };
+      });
+
+      await enqueue(reviewId, async () => {
+        try {
+          const url = `/api/votes/rating?contestId=${encodeURIComponent(state.contestId!)}&reviewId=${encodeURIComponent(reviewId)}`;
+          const res = await fetch(url, { method: 'DELETE' });
+          if (!res.ok) {
+            let reason = `error ${res.status}`;
+            try {
+              const body = (await res.json()) as { error?: string };
+              if (body?.error) reason = body.error.replace(/_/g, ' ');
+            } catch {
+              /* no JSON body */
+            }
+            toast(`Couldn't remove your rating: ${reason}`, 'error');
+          }
+        } catch {
+          toast("Couldn't remove your rating — network error.", 'error');
+        }
+      });
     },
-    [state.ballot]
+    [state.contestId, status, toast, enqueue]
   );
 
-  const countingCount = useCallback(
-    () => Math.min(state.ballot.length, COUNTING_ZONE_SIZE),
-    [state.ballot.length]
+  const ratingOf = useCallback(
+    (reviewId: string) => state.ratings[reviewId]?.rating ?? null,
+    [state.ratings]
+  );
+  const ratedAtOf = useCallback(
+    (reviewId: string) => state.ratings[reviewId]?.updatedAt ?? null,
+    [state.ratings]
   );
 
   return (
-    <VotesContext.Provider value={{ ...state, setBallot, rankOf, countingCount }}>
+    <VotesContext.Provider
+      value={{ ...state, ratingOf, ratedAtOf, setRating, clearRating }}
+    >
       {children}
     </VotesContext.Provider>
   );
