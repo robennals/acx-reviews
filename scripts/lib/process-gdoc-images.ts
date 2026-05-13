@@ -10,7 +10,45 @@
  */
 
 import crypto from 'crypto';
+import sharp from 'sharp';
 import { uploadIfMissing } from './r2-client';
+
+/**
+ * Some Google Docs images come out of the export with a large block of
+ * trailing whitespace baked into the PNG itself — the gdoc author drew
+ * on a tall canvas and then used the doc's image-crop tool to display
+ * only the top portion. The crop is purely a `<span>` with
+ * `overflow:hidden` in the gdoc HTML, so the PNG file we save contains
+ * the full original canvas and renders with a big empty bottom strip
+ * on the site.
+ *
+ * Run each raster image through `sharp.trim()`, which detects and
+ * removes solid-color borders (whitespace, single-color background)
+ * around the actual content. Idempotent for images that don't have
+ * trailing whitespace.
+ */
+const TRIMMABLE_MIMES = new Set(['image/png', 'image/jpeg', 'image/jpg', 'image/webp']);
+async function trimImageWhitespace(buffer: Buffer, mime: string): Promise<Buffer> {
+  if (!TRIMMABLE_MIMES.has(mime)) return buffer;
+  try {
+    const { data, info } = await sharp(buffer)
+      .trim()
+      .toBuffer({ resolveWithObject: true });
+    const origMeta = await sharp(buffer).metadata();
+    // Sharp re-encodes on toBuffer() even when trim() removed nothing,
+    // producing different bytes for an effectively-identical image and
+    // forcing pointless re-uploads on every run. Return the ORIGINAL
+    // bytes when the dimensions weren't changed.
+    if (info.width === origMeta.width && info.height === origMeta.height) {
+      return buffer;
+    }
+    return data;
+  } catch {
+    // If sharp can't decode the image for any reason (corrupt header,
+    // unsupported subformat), fall back to the original bytes.
+    return buffer;
+  }
+}
 
 interface ProcessResult {
   markdown: string;
@@ -97,7 +135,8 @@ export async function processImages(
     if (replacementByFull.has(match.full)) continue;
 
     const ext = MIME_TO_EXT[match.mime] ?? match.subtype;
-    const buffer = Buffer.from(match.base64, 'base64');
+    const rawBuffer = Buffer.from(match.base64, 'base64');
+    const buffer = await trimImageWhitespace(rawBuffer, match.mime);
     const hash = crypto.createHash('sha256').update(buffer).digest('hex').slice(0, 16);
     const key = `images/${contestId}/${hash}.${ext}`;
 
