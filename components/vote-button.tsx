@@ -79,7 +79,12 @@ export function VoteButton({
           </button>
           {votingEnd && (
             <p className="text-xs text-muted-foreground">
-              Voting closes {votingEnd.toLocaleDateString()}
+              Voting closes {votingEnd.toLocaleDateString('en-US', {
+                month: 'short',
+                day: 'numeric',
+                year: 'numeric',
+                timeZone: 'UTC',
+              })}
             </p>
           )}
         </div>
