@@ -101,15 +101,10 @@ export function HomePageClient({ reviews, contests, tags }: HomePageClientProps)
   const [randomSeed, setRandomSeed] = useState<string>('');
   const { progressMap, refreshProgress } = useReadingProgressContext();
   const { favoritesSet, toggleFavorite } = useFavoritesContext();
-  const { rankOf, contestYear } = useVotesContext();
+  const { ratingOf, contestYear } = useVotesContext();
   const { status: sessionStatus } = useSession();
   const showVotedFilter = sessionStatus === 'authenticated' && contestYear !== null;
   const router = useRouter();
-  const reviewLookup = useMemo(
-    () => new Map(reviews.map(r => [r.id, r.title])),
-    [reviews]
-  );
-
   useEffect(() => {
     const applyFromUrl = () => {
       const f = parseUrlFilters(window.location.search);
@@ -191,11 +186,11 @@ export function HomePageClient({ reviews, contests, tags }: HomePageClientProps)
     } else if (statusFilter === 'favorites') {
       result = result.filter(r => favoritesSet.has(r.id));
     } else if (statusFilter === 'voted') {
-      result = result.filter(r => rankOf(r.id) !== null);
+      result = result.filter(r => ratingOf(r.id) !== null);
     }
 
     return result;
-  }, [reviews, selectedContestId, selectedTag, searchQuery, statusFilter, progressMap, favoritesSet, rankOf]);
+  }, [reviews, selectedContestId, selectedTag, searchQuery, statusFilter, progressMap, favoritesSet, ratingOf]);
 
   const sortedReviews = useMemo(() => {
     const arr = [...filteredReviews];
@@ -371,7 +366,6 @@ export function HomePageClient({ reviews, contests, tags }: HomePageClientProps)
                 isFavorite={favoritesSet.has(review.id)}
                 onToggleRead={handleToggleRead}
                 onToggleFavorite={handleToggleFavorite}
-                reviewLookup={reviewLookup}
                 compact
               />
             ))}
@@ -403,7 +397,6 @@ export function HomePageClient({ reviews, contests, tags }: HomePageClientProps)
                 isFavorite={favoritesSet.has(review.id)}
                 onToggleRead={handleToggleRead}
                 onToggleFavorite={handleToggleFavorite}
-                reviewLookup={reviewLookup}
               />
             ))}
           </div>
@@ -511,11 +504,10 @@ interface ReviewCardProps {
   isFavorite: boolean;
   onToggleRead: (reviewId: string) => void;
   onToggleFavorite: (reviewId: string) => void;
-  reviewLookup: Map<string, string>;
   compact?: boolean;
 }
 
-function ReviewCard({ review, progress, isFavorite, onToggleRead, onToggleFavorite, reviewLookup, compact }: ReviewCardProps) {
+function ReviewCard({ review, progress, isFavorite, onToggleRead, onToggleFavorite, compact }: ReviewCardProps) {
   const isComplete = progress?.isComplete;
   const percentComplete = progress?.percentComplete || 0;
   const isInProgress = !isComplete && percentComplete > 0;
@@ -618,7 +610,6 @@ function ReviewCard({ review, progress, isFavorite, onToggleRead, onToggleFavori
                 reviewId={review.id}
                 reviewTitle={review.title}
                 reviewYear={review.year}
-                reviewLookup={reviewLookup}
               />
             </VoteSeparator>
           </div>
