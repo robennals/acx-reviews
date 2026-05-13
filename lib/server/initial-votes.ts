@@ -34,17 +34,33 @@ export async function loadInitialVotes(): Promise<InitialVotesState> {
     votingEnd: config?.end.toISOString() ?? null,
   };
 
-  const session = await auth();
-  const userId = (session?.user as { id?: string } | undefined)?.id;
+  let userId: string | undefined;
+  try {
+    const session = await auth();
+    userId = (session?.user as { id?: string } | undefined)?.id;
+  } catch (err) {
+    // Auth lookup can throw in misconfigured preview envs (missing
+    // AUTH_SECRET, DB connection issues, etc). Treat as signed-out
+    // rather than nuking the whole voting state — the banner only
+    // needs the meta, and signed-out users still see it.
+    console.error('[initial-votes] auth() failed; treating as signed-out:', err);
+  }
   if (!userId || !isDbConfigured || !activeContest) {
     return { ...meta, ballot: [] };
   }
 
-  const rows = await db
-    .select({ reviewId: votes.reviewId, rank: votes.rank })
-    .from(votes)
-    .where(and(eq(votes.userId, userId), eq(votes.contestId, activeContest.id)))
-    .orderBy(asc(votes.rank));
-
-  return { ...meta, ballot: rows.map((r) => r.reviewId) };
+  try {
+    const rows = await db
+      .select({ reviewId: votes.reviewId, rank: votes.rank })
+      .from(votes)
+      .where(and(eq(votes.userId, userId), eq(votes.contestId, activeContest.id)))
+      .orderBy(asc(votes.rank));
+    return { ...meta, ballot: rows.map((r) => r.reviewId) };
+  } catch (err) {
+    // DB query failed for a signed-in user. Return the meta so the
+    // banner stays visible — the user just won't see their previously
+    // ranked ballot until the next request succeeds.
+    console.error('[initial-votes] votes query failed; ballot empty:', err);
+    return { ...meta, ballot: [] };
+  }
 }
