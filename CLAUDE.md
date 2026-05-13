@@ -100,3 +100,36 @@ See `.env.example` for the full list of required env vars.
 1. Create markdown file in `data/reviews/{contest-id}/{slug}.md`
 2. Include frontmatter: title, author, reviewAuthor, contestId, year, publishedDate, source
 3. Run `pnpm generate-index`
+
+## Tagging Reviews
+
+Tags drive the home-page filter and are required: `pnpm generate-index`
+fails if any review has no tags. Every review needs at least one tag (up
+to three) from a fixed vocabulary:
+
+```
+Biology, Economics, Fiction, History, Memoir, Philosophy, Politics,
+Psychology, Religion, Science, Society, Technology
+```
+
+Tags live in `data/review-tags.json` (slug → string[]). They get applied
+to each review's frontmatter by `scripts/apply-tags.ts`.
+
+**After importing new reviews, tag them via a sub-agent:**
+
+1. Identify the new slugs (e.g., `git status data/reviews/<contest>/`).
+2. Dispatch a sub-agent. Hand it the slugs, file paths, and vocabulary
+   above. Have it read the first ~1500 characters of each file's body
+   (skip frontmatter) and return JSON `{ slug: [tags...] }` with 1–3
+   tags per slug, chosen only from the vocabulary above.
+3. Merge the returned mapping into `data/review-tags.json` (keep keys
+   sorted).
+4. Run `pnpm exec tsx scripts/apply-tags.ts` to write tags into each
+   markdown's frontmatter.
+5. Run `pnpm generate-index` to rebuild `data/reviews-index.json` and
+   `data/contests.json`.
+
+Don't invent new tag values — the home-page filter only knows about the
+12 listed above. If the vocabulary itself needs to grow, that's a
+separate, deliberate change (update this list, update any UI that
+enumerates tags, and document the reasoning in the commit message).
