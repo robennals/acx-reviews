@@ -171,6 +171,173 @@ test('plain: inline [N] without a matching trailing def is left untouched', () =
   assert.deepEqual(result.footnotes, []);
 });
 
+test('plain: detects bracketed defs even when the last def is multi-paragraph (Agatha-style)', () => {
+  // Real example: the last footnote in the file is a multi-paragraph
+  // def whose final paragraph is an indented blockquote. The walk-back
+  // for detectFormat used to look only at the last non-separator line,
+  // see the blockquote line `> "..."`, and conclude "no plain
+  // footnotes here." Should now correctly classify as plain.
+  const input = [
+    'Body referring to [1] and [2].',
+    '',
+    '## Footnotes',
+    '',
+    '[1] Single-line footnote.',
+    '',
+    '[2] First paragraph of the multi-paragraph footnote.',
+    '',
+    '> Indented blockquote line that ends the file.',
+  ].join('\n');
+
+  const result = extractFootnotes(input);
+  assert.equal(result.footnotes.length, 2);
+  assert.ok(result.footnotes[1].raw.includes('blockquote line'), `fn 2 should include the blockquote; got: ${result.footnotes[1].raw}`);
+});
+
+test('plain: handles bare-number footnote-def lines (Nick-Chater-style)', () => {
+  // Real example from "The Mind is Flat": the author put each footnote
+  // number on its own line, followed by content paragraphs, instead of
+  // using the `[N] content` bracketed form.
+  const input = [
+    'Body referring to[1] something[2].',
+    '',
+    '## Footnotes',
+    '',
+    '1',
+    '',
+    'First content paragraph of footnote one.',
+    '',
+    'Second content paragraph still in footnote one.',
+    '',
+    '2',
+    '',
+    'Content of footnote two.',
+  ].join('\n');
+
+  const result = extractFootnotes(input);
+  assert.equal(result.footnotes.length, 2, `expected 2 footnotes; got ${result.footnotes.length}: ${JSON.stringify(result.footnotes.map(f => f.id))}`);
+  assert.deepEqual(result.footnotes.map(f => f.id), ['1', '2']);
+  assert.ok(result.footnotes[0].raw.includes('First content paragraph'), `fn1 first para; got: ${result.footnotes[0].raw}`);
+  assert.ok(result.footnotes[0].raw.includes('Second content paragraph'), `fn1 second para; got: ${result.footnotes[0].raw}`);
+  assert.ok(result.footnotes[1].raw.includes('Content of footnote two'), `fn2; got: ${result.footnotes[1].raw}`);
+});
+
+test('plain: collects multi-paragraph footnote definitions', () => {
+  // Real example pattern from "A Christmas Carol": one footnote has
+  // several paragraphs separated by blank lines. The old walk-back
+  // stopped at the first non-def line, so any defs *above* the
+  // multi-paragraph one were lost from the footnotes section and
+  // their body refs stopped resolving.
+  const input = [
+    'Body referring to [1], [2], and [3].',
+    '',
+    '## Footnotes',
+    '',
+    '[1] First footnote, single line.',
+    '',
+    '[2] Second footnote, opens with one paragraph.',
+    '',
+    'Continues with a second paragraph still belonging to footnote 2.',
+    '',
+    'And a third paragraph also still inside footnote 2.',
+    '',
+    '[3] Third footnote, back to single line.',
+  ].join('\n');
+
+  const result = extractFootnotes(input);
+  assert.equal(result.footnotes.length, 3, `expected 3 footnotes; got ${result.footnotes.length}: ${JSON.stringify(result.footnotes.map(f => f.id))}`);
+  assert.deepEqual(result.footnotes.map(f => f.id), ['1', '2', '3']);
+  // The multi-paragraph footnote 2 should include all three paragraphs.
+  const fn2 = result.footnotes.find(f => f.id === '2')!;
+  assert.ok(fn2.raw.includes('Second footnote'), `fn2 starts with first paragraph; got: ${fn2.raw}`);
+  assert.ok(fn2.raw.includes('Continues with a second'), `fn2 includes second paragraph; got: ${fn2.raw}`);
+  assert.ok(fn2.raw.includes('And a third paragraph'), `fn2 includes third paragraph; got: ${fn2.raw}`);
+  // Body refs [1], [2], [3] should all be rewritten to <sup> markers.
+  assert.ok(result.body.includes('data-fn-id="1"'), `body should have ref to 1; got: ${result.body}`);
+  assert.ok(result.body.includes('data-fn-id="2"'), `body should have ref to 2; got: ${result.body}`);
+  assert.ok(result.body.includes('data-fn-id="3"'), `body should have ref to 3; got: ${result.body}`);
+});
+
+test('plain: strips a "Footnotes" heading immediately preceding the def block', () => {
+  // The author included their own "Footnotes" subheading. The render layer
+  // already adds a <h2>Footnotes</h2>, so leaving the heading in the body
+  // produces a duplicate.
+  const input = [
+    'Body referring to [1].',
+    '',
+    '### Footnotes',
+    '',
+    '[1] First footnote.',
+    '',
+  ].join('\n');
+
+  const result = extractFootnotes(input);
+  assert.ok(!/Footnotes/.test(result.body), `body should not contain the Footnotes heading; got: ${result.body}`);
+  assert.equal(result.footnotes.length, 1);
+});
+
+test('plain: strips a "## FOOTNOTES" heading (uppercase)', () => {
+  // Real example from "The Mind is Flat".
+  const input = [
+    'Body paragraph mentioning footnote 1.',
+    '',
+    '## FOOTNOTES',
+    '',
+    '[1] Footnote one content.',
+    '',
+  ].join('\n');
+
+  const result = extractFootnotes(input);
+  assert.ok(!/FOOTNOTES/i.test(result.body), `uppercase FOOTNOTES heading should be stripped; got: ${result.body}`);
+  assert.equal(result.footnotes.length, 1);
+});
+
+test('plain: strips a "## Footnotes:" heading (trailing colon)', () => {
+  const input = [
+    'Body paragraph mentioning footnote 1.',
+    '',
+    '## Footnotes:',
+    '',
+    '[1] Footnote one content.',
+    '',
+  ].join('\n');
+
+  const result = extractFootnotes(input);
+  assert.ok(!/Footnotes:/i.test(result.body), `Footnotes: heading should be stripped; got: ${result.body}`);
+});
+
+test('plain: strips an H2 "Footnotes" heading too', () => {
+  const input = [
+    'Body referring to [1].',
+    '',
+    '## Footnotes',
+    '',
+    '[1] First footnote.',
+    '',
+  ].join('\n');
+
+  const result = extractFootnotes(input);
+  assert.ok(!/^##\s+Footnotes/m.test(result.body), `body should not contain the H2 Footnotes heading; got: ${result.body}`);
+});
+
+test('plain: does NOT strip a "Footnotes" heading that is not immediately before defs', () => {
+  // If there's prose between the heading and the defs, leave the heading
+  // alone — it's referring to something else.
+  const input = [
+    '### Footnotes are an interesting feature of academic writing.',
+    '',
+    'They let an author add commentary without breaking the main argument.',
+    '',
+    '[1] First footnote.',
+    '',
+  ].join('\n');
+
+  const result = extractFootnotes(input);
+  // The original heading should still be there because it's not adjacent
+  // to the def block.
+  assert.ok(result.body.includes('Footnotes are an interesting feature'), `unrelated heading should be preserved; got: ${result.body}`);
+});
+
 test('code blocks containing [1] are not processed', () => {
   const input = [
     'Normal text.[1](#sdfootnote1sym) More.',
