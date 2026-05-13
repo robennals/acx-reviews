@@ -8,6 +8,7 @@ import {
   addFavorite as addFavoriteInStorage,
 } from '@/lib/favorites';
 import { computeFavoritesSyncOps } from '@/lib/sync';
+import { fetchSyncOnce } from '@/lib/sync-client';
 import { useToast } from '@/context/toast-context';
 
 interface FavoritesContextType {
@@ -50,10 +51,9 @@ export function FavoritesProvider({ children }: { children: React.ReactNode }) {
     let cancelled = false;
     (async () => {
       try {
-        const res = await fetch('/api/sync', { cache: 'no-store' });
-        if (!res.ok || cancelled) return;
-        const data = (await res.json()) as { favorites?: string[] };
-        const server = data.favorites ?? [];
+        const data = await fetchSyncOnce();
+        if (cancelled) return;
+        const server = data.favorites;
         const local = getAllFavorites();
         const { merged, localOnly } = computeFavoritesSyncOps(local, server);
         // Push any local-only items up to the server.

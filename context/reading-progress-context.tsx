@@ -9,8 +9,8 @@ import {
   computeProgressDeltas,
   mergeProgressIntoLocal,
   type LocalProgressStatus,
-  type ServerProgressEntry,
 } from '@/lib/sync';
+import { fetchSyncOnce, invalidateSyncCache } from '@/lib/sync-client';
 import { useToast } from '@/context/toast-context';
 
 interface ReadingProgressContextType {
@@ -76,16 +76,17 @@ export function ReadingProgressProvider({ children }: { children: React.ReactNod
     if (!isAuthed) {
       lastPushedRef.current = new Map();
       initialPullDoneRef.current = false;
+      // Drop the cached snapshot so the next sign-in fetches fresh data.
+      invalidateSyncCache();
       return;
     }
     if (initialPullDoneRef.current) return;
     let cancelled = false;
     (async () => {
       try {
-        const res = await fetch('/api/sync', { cache: 'no-store' });
-        if (!res.ok || cancelled) return;
-        const data = (await res.json()) as { progress?: ServerProgressEntry[] };
-        const serverEntries = data.progress ?? [];
+        const data = await fetchSyncOnce();
+        if (cancelled) return;
+        const serverEntries = data.progress;
 
         const local = getAllProgress();
         const merged = mergeProgressIntoLocal(local, serverEntries);
