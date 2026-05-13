@@ -1,31 +1,27 @@
-import { and, eq, sql, max, asc, desc, lte } from 'drizzle-orm';
+import { and, eq, sql, max, asc, desc } from 'drizzle-orm';
 import type { DB } from '@/lib/db/client';
 import { users, votes } from '@/lib/db/schema';
-import { COUNTING_ZONE_SIZE } from '@/lib/voting/ballot';
 
 export const ADMIN_PAGE_SIZE = 50;
 
-export interface VoterBallot {
+export interface VoterRatings {
   userId: string;
   email: string;
-  ballot: { rank: number; reviewId: string }[];   // rank 1..10 only
+  // Sorted rating desc, then updatedAt desc.
+  ratings: { reviewId: string; rating: number; updatedAt: number }[];
 }
 
-export interface PaginatedBallots {
-  voters: VoterBallot[];
+export interface PaginatedRatings {
+  voters: VoterRatings[];
   totalVoters: number;
   page: number;
   pageSize: number;
 }
 
-/**
- * One page of ballots, voters sorted most-recent-first then email asc.
- * Each voter's ballot includes only ranks 1..10 (counting zone).
- */
-export async function getPaginatedBallots(
+export async function getPaginatedRatings(
   db: DB,
   opts: { contestId: string; page: number; pageSize?: number }
-): Promise<PaginatedBallots> {
+): Promise<PaginatedRatings> {
   const pageSize = opts.pageSize ?? ADMIN_PAGE_SIZE;
   const page = Math.max(1, opts.page);
 
@@ -39,7 +35,7 @@ export async function getPaginatedBallots(
     .select({
       userId: votes.userId,
       email: users.email,
-      recency: max(votes.createdAt).as('recency'),
+      recency: max(votes.updatedAt).as('recency'),
     })
     .from(votes)
     .innerJoin(users, eq(users.id, votes.userId))
@@ -54,29 +50,37 @@ export async function getPaginatedBallots(
   }
 
   const userIds = voterRows.map((v) => v.userId);
-  const ballotRows = await db
-    .select({ userId: votes.userId, rank: votes.rank, reviewId: votes.reviewId })
+  const ratingRows = await db
+    .select({
+      userId: votes.userId,
+      reviewId: votes.reviewId,
+      rating: votes.rating,
+      updatedAt: votes.updatedAt,
+    })
     .from(votes)
     .where(
       and(
         eq(votes.contestId, opts.contestId),
-        lte(votes.rank, COUNTING_ZONE_SIZE),
         sql`${votes.userId} IN (${sql.join(userIds.map((id) => sql`${id}`), sql`, `)})`
       )
     )
-    .orderBy(asc(votes.rank));
+    .orderBy(desc(votes.rating), desc(votes.updatedAt));
 
-  const byUser = new Map<string, { rank: number; reviewId: string }[]>();
+  const byUser = new Map<string, VoterRatings['ratings']>();
   for (const id of userIds) byUser.set(id, []);
-  for (const r of ballotRows) {
-    byUser.get(r.userId)!.push({ rank: r.rank, reviewId: r.reviewId });
+  for (const r of ratingRows) {
+    byUser.get(r.userId)!.push({
+      reviewId: r.reviewId,
+      rating: r.rating,
+      updatedAt: r.updatedAt.getTime(),
+    });
   }
 
   return {
     voters: voterRows.map((v) => ({
       userId: v.userId,
       email: v.email,
-      ballot: byUser.get(v.userId) ?? [],
+      ratings: byUser.get(v.userId) ?? [],
     })),
     totalVoters,
     page,
@@ -86,15 +90,16 @@ export async function getPaginatedBallots(
 
 export interface CsvRow {
   email: string;
-  rank: number;
+  rating: number;
   reviewTitle: string;
   reviewSlug: string;
+  ratedAt: string;
 }
 
-/**
- * Long-format CSV rows for the admin export. Sorted by email then rank,
- * so each voter's ballot is contiguous. Filters to ranks 1..10.
- */
+function toIsoSecond(d: Date): string {
+  return d.toISOString().replace(/\.\d{3}Z$/, 'Z');
+}
+
 export async function getCsvRows(
   db: DB,
   opts: { contestId: string; reviewLookup: Map<string, { title: string; slug: string }> }
@@ -102,24 +107,23 @@ export async function getCsvRows(
   const rows = await db
     .select({
       email: users.email,
-      rank: votes.rank,
+      rating: votes.rating,
       reviewId: votes.reviewId,
+      updatedAt: votes.updatedAt,
     })
     .from(votes)
     .innerJoin(users, eq(users.id, votes.userId))
-    .where(and(eq(votes.contestId, opts.contestId), lte(votes.rank, COUNTING_ZONE_SIZE)))
-    .orderBy(asc(users.email), asc(votes.rank));
+    .where(eq(votes.contestId, opts.contestId))
+    .orderBy(asc(users.email), desc(votes.rating), desc(votes.updatedAt));
 
   return rows.map((r) => {
     const meta = opts.reviewLookup.get(r.reviewId);
-    // Fallback: stored reviewId is the slug in our current data model, so
-    // it's still useful even when the lookup misses (orphan vote rows from
-    // a contest whose review files were renamed/deleted).
     return {
       email: r.email,
-      rank: r.rank,
+      rating: r.rating,
       reviewTitle: meta?.title ?? r.reviewId,
       reviewSlug: meta?.slug ?? r.reviewId,
+      ratedAt: toIsoSecond(r.updatedAt),
     };
   });
 }
