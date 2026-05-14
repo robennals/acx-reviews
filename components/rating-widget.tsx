@@ -32,22 +32,30 @@ export function RatingWidget({
   // In 'preview' mode the widget tracks its own tentatively-selected value.
   // In 'live' mode the parent owns the value via `current`.
   const [preview, setPreview] = useState<number | null>(current);
+  // Transient hover/focus state — takes precedence over `selected` for both
+  // star fill and label display so users can read what each rating means
+  // before committing.
+  const [hover, setHover] = useState<number | null>(null);
 
   useEffect(() => {
     if (mode === 'preview' && previewOverride !== undefined) {
       setPreview(previewOverride);
+      setHover(null);
     }
   }, [previewOverride, mode]);
 
   // Keep the live-mode internal state in sync with the prop so star fills
   // reflect any optimistic update made by the parent.
   useEffect(() => {
-    if (mode === 'live') setPreview(current);
+    if (mode === 'live') {
+      setPreview(current);
+      setHover(null);
+    }
   }, [current, mode]);
 
   const selected = mode === 'live' ? current : preview;
-  const labelRating = selected;
-  const labelWord = labelRating ? LIKERT_LABELS[labelRating] : '';
+  const displayed = hover ?? selected;
+  const labelWord = displayed ? LIKERT_LABELS[displayed] : '';
 
   function handleClick(n: number) {
     if (mode === 'live') {
@@ -63,10 +71,13 @@ export function RatingWidget({
 
   return (
     <div className="flex flex-col items-center">
-      <div className={`flex ${gap} justify-center py-2`}>
+      <div
+        className={`flex ${gap} justify-center py-2`}
+        onMouseLeave={() => setHover(null)}
+      >
         {Array.from({ length: LIKERT_MAX }, (_, i) => {
           const n = i + 1;
-          const filled = selected !== null && n <= selected;
+          const filled = displayed !== null && n <= displayed;
           return (
             <button
               key={n}
@@ -74,6 +85,8 @@ export function RatingWidget({
               aria-label={`Rate ${n} — ${LIKERT_LABELS[n]}`}
               aria-pressed={selected === n}
               onClick={() => handleClick(n)}
+              onMouseEnter={() => setHover(n)}
+              onFocus={() => setHover(n)}
               className={`${starSize} inline-flex items-center justify-center transition-transform hover:scale-110`}
             >
               <Star filled={filled} />
@@ -81,9 +94,9 @@ export function RatingWidget({
           );
         })}
       </div>
-      {labelRating !== null && (
-        <div className={`text-center font-bold ${tierClass(labelRating)} ${size === 'expanded' ? 'text-base' : 'text-sm'}`}>
-          <span className="text-foreground">{labelRating}</span>
+      {displayed !== null && (
+        <div className={`text-center font-bold ${tierClass(displayed)} ${size === 'expanded' ? 'text-base' : 'text-sm'}`}>
+          <span className="text-foreground">{displayed}</span>
           <span className="text-muted-foreground mx-1">/ 10 ·</span>
           <span>{labelWord}</span>
         </div>

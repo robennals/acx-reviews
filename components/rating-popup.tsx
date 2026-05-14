@@ -63,11 +63,14 @@ export function RatingPopup({ open, onClose, reviewId, reviewTitle }: Props) {
           </div>
 
           <div className="px-4 py-4">
+            <p className="text-center text-xs uppercase tracking-wide text-muted-foreground mb-1">
+              Tap a star to rate
+            </p>
             <RatingWidget
               current={current}
               previewOverride={preview}
               mode="preview"
-              size="expanded"
+              size="compact"
               onPreview={(n) => setPreview(n)}
             />
           </div>
