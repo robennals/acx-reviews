@@ -11,10 +11,10 @@ import { useVotesContext } from '@/context/votes-context';
 import { markAsRead, markAsUnread } from '@/lib/reading-progress';
 import { RatingChip } from '@/components/rating-chip';
 
-type StatusFilter = 'all' | 'unread' | 'read' | 'in-progress' | 'favorites' | 'voted';
+type StatusFilter = 'all' | 'unread' | 'read' | 'in-progress' | 'favorites' | 'voted' | 'not-voted';
 type SortOrder = 'random' | 'alpha';
 
-const VALID_STATUS: StatusFilter[] = ['all', 'unread', 'read', 'in-progress', 'favorites', 'voted'];
+const VALID_STATUS: StatusFilter[] = ['all', 'unread', 'read', 'in-progress', 'favorites', 'voted', 'not-voted'];
 const VALID_SORT: SortOrder[] = ['random', 'alpha'];
 const RANDOM_SEED_KEY = 'acx-reviews:random-seed';
 
@@ -206,10 +206,13 @@ export function HomePageClient({ reviews, contests, tags }: HomePageClientProps)
       result = result.filter(r => favoritesSet.has(r.id));
     } else if (statusFilter === 'voted') {
       result = result.filter(r => ratingOf(r.id) !== null);
+    } else if (statusFilter === 'not-voted') {
+      // Only reviews from the active contest year that the user hasn't rated.
+      result = result.filter(r => r.year === contestYear && ratingOf(r.id) === null);
     }
 
     return result;
-  }, [reviews, selectedContestId, selectedTag, searchQuery, statusFilter, progressMap, favoritesSet, ratingOf]);
+  }, [reviews, selectedContestId, selectedTag, searchQuery, statusFilter, progressMap, favoritesSet, ratingOf, contestYear]);
 
   const sortedReviews = useMemo(() => {
     const arr = [...filteredReviews];
@@ -251,6 +254,7 @@ export function HomePageClient({ reviews, contests, tags }: HomePageClientProps)
     statusFilter === 'in-progress' ? 'In-Progress' :
     statusFilter === 'favorites' ? 'Saved' :
     statusFilter === 'voted' ? 'Voted' :
+    statusFilter === 'not-voted' ? 'Not Voted' :
     '',
     selectedTag || '',
     selectedContestId
@@ -333,6 +337,7 @@ export function HomePageClient({ reviews, contests, tags }: HomePageClientProps)
               statusFilter === 'in-progress' ? 'In Progress' :
               statusFilter === 'read' ? 'Finished' :
               statusFilter === 'voted' ? 'Voted' :
+              statusFilter === 'not-voted' ? 'Not Voted' :
               'Saved'
             }
             options={[
@@ -341,7 +346,12 @@ export function HomePageClient({ reviews, contests, tags }: HomePageClientProps)
               { id: 'in-progress', label: 'In Progress' },
               { id: 'read', label: 'Finished' },
               { id: 'favorites', label: 'Saved' },
-              ...(showVotedFilter ? [{ id: 'voted', label: 'Voted' }] : []),
+              ...(showVotedFilter
+                ? [
+                    { id: 'voted', label: 'Voted' },
+                    { id: 'not-voted', label: 'Not Voted' },
+                  ]
+                : []),
             ]}
             onSelect={(id) => applyChanges({ status: (id || 'all') as StatusFilter, page: 1 })}
             isFiltered={statusFilter !== 'all'}
