@@ -111,9 +111,16 @@ export function HomePageClient({ reviews, contests, tags }: HomePageClientProps)
   const [randomSeed, setRandomSeed] = useState<string>('');
   const { progressMap, refreshProgress } = useReadingProgressContext();
   const { favoritesSet, toggleFavorite } = useFavoritesContext();
-  const { ratingOf, contestYear } = useVotesContext();
+  const { ratingOf, contestYear, votingStart, votingEnd } = useVotesContext();
   const { status: sessionStatus } = useSession();
-  const showVotedFilter = sessionStatus === 'authenticated' && contestYear !== null;
+  // Only show vote-related filters when voting is actually open right now —
+  // contestYear stays set after the period ends, so check the window too.
+  const now = Date.now();
+  const votingOpen =
+    contestYear !== null &&
+    (!votingStart || now >= votingStart.getTime()) &&
+    (!votingEnd || now < votingEnd.getTime());
+  const showVotedFilter = sessionStatus === 'authenticated' && votingOpen;
   const router = useRouter();
   const searchParams = useSearchParams();
   const filtersRef = useRef<HTMLDivElement>(null);
