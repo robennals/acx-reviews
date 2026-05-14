@@ -8,7 +8,7 @@ import {
   useRef,
   type ReactNode,
 } from 'react';
-import { useSession } from 'next-auth/react';
+import { useSession, signOut } from 'next-auth/react';
 import type { InitialVotesState } from '@/lib/server/initial-votes';
 import { useToast } from '@/context/toast-context';
 
@@ -69,14 +69,21 @@ export function VotesProvider({
     []
   );
 
+  // Snapshot the previous rating so we can roll back on auth-expired (401).
+  // Other error codes (403 voting closed, 400 invalid) keep the optimistic
+  // value and surface a toast — matches existing policy.
   const setRating = useCallback(
     async (reviewId: string, rating: number) => {
       if (status !== 'authenticated' || !state.contestId) return;
       const optimisticAt = Date.now();
-      setState((s) => ({
-        ...s,
-        ratings: { ...s.ratings, [reviewId]: { rating, updatedAt: optimisticAt } },
-      }));
+      let prev: RatingEntry | undefined;
+      setState((s) => {
+        prev = s.ratings[reviewId];
+        return {
+          ...s,
+          ratings: { ...s.ratings, [reviewId]: { rating, updatedAt: optimisticAt } },
+        };
+      });
 
       await enqueue(reviewId, async () => {
         try {
@@ -85,6 +92,21 @@ export function VotesProvider({
             headers: { 'content-type': 'application/json' },
             body: JSON.stringify({ contestId: state.contestId, reviewId, rating }),
           });
+          if (res.status === 401) {
+            // Session expired (JWT past maxAge / cookie cleared). Roll back
+            // the optimistic update and flip the local session to signed-out
+            // so the UI shows the "Sign in to rate" affordance instead of
+            // silently swallowing future clicks.
+            setState((s) => {
+              const next = { ...s.ratings };
+              if (prev) next[reviewId] = prev;
+              else delete next[reviewId];
+              return { ...s, ratings: next };
+            });
+            toast('Your session expired — please sign in again.', 'error');
+            void signOut({ redirect: false });
+            return;
+          }
           if (!res.ok) {
             let reason = `error ${res.status}`;
             try {
@@ -129,7 +151,9 @@ export function VotesProvider({
   const clearRating = useCallback(
     async (reviewId: string) => {
       if (status !== 'authenticated' || !state.contestId) return;
+      let prev: RatingEntry | undefined;
       setState((s) => {
+        prev = s.ratings[reviewId];
         const next = { ...s.ratings };
         delete next[reviewId];
         return { ...s, ratings: next };
@@ -139,6 +163,17 @@ export function VotesProvider({
         try {
           const url = `/api/votes/rating?contestId=${encodeURIComponent(state.contestId!)}&reviewId=${encodeURIComponent(reviewId)}`;
           const res = await fetch(url, { method: 'DELETE' });
+          if (res.status === 401) {
+            // Session expired — restore the prior rating so we don't show
+            // the user as having un-rated when the server didn't see it.
+            setState((s) => ({
+              ...s,
+              ratings: prev ? { ...s.ratings, [reviewId]: prev } : s.ratings,
+            }));
+            toast('Your session expired — please sign in again.', 'error');
+            void signOut({ redirect: false });
+            return;
+          }
           if (!res.ok) {
             let reason = `error ${res.status}`;
             try {
