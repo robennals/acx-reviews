@@ -540,7 +540,7 @@ function ReviewCard({ review, progress, isFavorite, onToggleRead, onToggleFavori
 
           {/* Compact rating chip directly under the title; clicking opens
               the popup with the full RatingCard. */}
-          <div className="mt-1 mb-2">
+          <div className="mt-2 mb-3 flex items-center">
             <RatingChip
               reviewId={review.id}
               reviewYear={review.year}

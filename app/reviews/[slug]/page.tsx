@@ -143,6 +143,12 @@ export default async function ReviewPage({ params }: ReviewPageProps) {
           <ReviewContent contentHtml={review.contentHtml} footnotes={review.footnotes} />
         </div>
 
+        {/* Inline rating card at the end of the article, encouraging
+            readers to rate once they've finished. */}
+        <div className="max-w-3xl mx-auto px-6 sm:px-8 pb-12">
+          <RatingCard reviewId={review.id} reviewYear={review.year} />
+        </div>
+
         {/* Footer */}
         <footer className="border-t border-border bg-muted/30">
           <div className="max-w-3xl mx-auto px-6 sm:px-8 py-10">
