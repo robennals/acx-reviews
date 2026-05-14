@@ -3,6 +3,7 @@ import { notFound } from 'next/navigation';
 import Link from 'next/link';
 import { getReviewBySlug, getAllReviews } from '@/lib/reviews';
 import { ReviewContent } from '@/components/review-content';
+import { FootnotesSection } from '@/components/footnotes-section';
 import { ReadingProgressTracker } from '@/components/reading-progress-tracker';
 import { RatingCard } from '@/components/rating-card';
 import { SITE_URL } from '@/lib/constants';
@@ -139,14 +140,19 @@ export default async function ReviewPage({ params }: ReviewPageProps) {
         </header>
 
         {/* Content */}
-        <div className="max-w-3xl mx-auto px-6 sm:px-8 py-12 lg:py-16">
+        <div className="max-w-3xl mx-auto px-6 sm:px-8 pt-12 lg:pt-16">
           <ReviewContent contentHtml={review.contentHtml} footnotes={review.footnotes} />
         </div>
 
-        {/* Inline rating card at the end of the article, encouraging
-            readers to rate once they've finished. */}
-        <div className="max-w-3xl mx-auto px-6 sm:px-8 pb-12">
+        {/* Rating card after the body but BEFORE footnotes — many readers
+            stop before reaching the footnotes section. */}
+        <div className="max-w-3xl mx-auto px-6 sm:px-8">
           <RatingCard reviewId={review.id} reviewYear={review.year} />
+        </div>
+
+        {/* Footnotes section (renders nothing when there are none). */}
+        <div className="max-w-3xl mx-auto px-6 sm:px-8 pb-12">
+          <FootnotesSection footnotes={review.footnotes} />
         </div>
 
         {/* Footer */}

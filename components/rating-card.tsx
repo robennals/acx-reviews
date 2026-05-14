@@ -44,7 +44,7 @@ export function RatingCard({ reviewId, reviewYear, onCommitClose }: Props) {
   const displayed = hover ?? current;
 
   return (
-    <div className="border border-border rounded-xl bg-card px-1 py-5 sm:px-5 my-4 shadow-sm">
+    <div className="border border-border rounded-xl bg-card px-1 py-4 sm:px-5 sm:py-5 -mx-[22px] sm:mx-0 my-3 sm:my-4 shadow-sm">
       <div className="text-center text-sm font-semibold text-foreground mb-3">
         {current !== null ? 'Your rating' : 'Rate this review'}
       </div>
