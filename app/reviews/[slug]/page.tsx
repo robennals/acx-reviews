@@ -4,7 +4,7 @@ import Link from 'next/link';
 import { getReviewBySlug, getAllReviews } from '@/lib/reviews';
 import { ReviewContent } from '@/components/review-content';
 import { ReadingProgressTracker } from '@/components/reading-progress-tracker';
-import { RatingRow } from '@/components/rating-row';
+import { RatingCard } from '@/components/rating-card';
 import { SITE_URL } from '@/lib/constants';
 
 interface ReviewPageProps {
@@ -94,10 +94,8 @@ export default async function ReviewPage({ params }: ReviewPageProps) {
               {review.title}
             </h1>
 
-            {/* Inline rating row directly under the title */}
-            <div className="mb-6">
-              <RatingRow reviewId={review.id} reviewYear={review.year} />
-            </div>
+            {/* Inline rating card directly under the title */}
+            <RatingCard reviewId={review.id} reviewYear={review.year} />
 
             {/* Attribution - only show if we have meaningful author info */}
             {(review.author !== 'Unknown' || review.reviewAuthor !== 'Anonymous') && (

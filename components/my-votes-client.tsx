@@ -3,13 +3,13 @@
 import { useMemo, useState } from 'react';
 import Link from 'next/link';
 import { useVotesContext } from '@/context/votes-context';
-import { RatingRow } from '@/components/rating-row';
+import { RatingChip } from '@/components/rating-chip';
 
 type Sort = 'rating' | 'recent' | 'alpha';
 
 interface Props {
   reviewLookup: Record<string, { title: string; slug: string }>;
-  /** Year of the active contest — passed to <RatingRow> so its gating works
+  /** Year of the active contest — passed to <RatingChip> so its gating works
    *  client-side without re-reading the voting config. */
   activeContestYear: number;
 }
@@ -67,22 +67,28 @@ export function MyVotesClient({ reviewLookup, activeContestYear }: Props) {
         {entries.map((e) => (
           <div
             key={e.reviewId}
-            className="px-4 py-3 border-b border-border last:border-b-0 hover:bg-muted/30"
+            className="flex items-center gap-3 px-4 py-3 border-b border-border last:border-b-0 hover:bg-muted/30"
           >
-            {e.slug ? (
-              <Link
-                href={`/reviews/${e.slug}`}
-                className="text-sm font-semibold hover:underline truncate block"
-              >
-                {e.title}
-              </Link>
-            ) : (
-              <span className="text-sm font-semibold truncate block">{e.title}</span>
-            )}
-            <RatingRow reviewId={e.reviewId} reviewYear={activeContestYear} />
-            <div className="text-xs text-muted-foreground mt-1">
-              rated {relativeTime(e.updatedAt)}
+            <div className="flex-1 min-w-0">
+              {e.slug ? (
+                <Link
+                  href={`/reviews/${e.slug}`}
+                  className="text-sm font-semibold hover:underline truncate block"
+                >
+                  {e.title}
+                </Link>
+              ) : (
+                <span className="text-sm font-semibold truncate block">{e.title}</span>
+              )}
+              <div className="text-xs text-muted-foreground mt-0.5">
+                rated {relativeTime(e.updatedAt)}
+              </div>
             </div>
+            <RatingChip
+              reviewId={e.reviewId}
+              reviewYear={activeContestYear}
+              reviewTitle={e.title}
+            />
           </div>
         ))}
       </div>

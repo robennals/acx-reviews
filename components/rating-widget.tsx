@@ -69,6 +69,9 @@ export function RatingWidget({
   const selected = mode === 'live' ? current : preview;
   const displayed = hover ?? selected;
   const labelWord = displayed ? LIKERT_LABELS[displayed] : '';
+  // True when the user is hovering AND that hover differs from the committed
+  // value. Used to render preview stars softer than committed ones.
+  const previewing = hover !== null && hover !== selected;
 
   function setHoverAndNotify(n: number | null) {
     setHover(n);
@@ -85,10 +88,9 @@ export function RatingWidget({
     }
   }
 
-  // In row layout, ignore the size prop and use a small star.
-  const starSize =
-    layout === 'row' ? 'w-5 h-5' : size === 'expanded' ? 'w-9 h-9' : 'w-7 h-7';
-  const gap = layout === 'row' ? 'gap-0.5' : size === 'expanded' ? 'gap-1.5' : 'gap-1';
+  // Honor `size` in both layouts so the card treatment can use larger stars.
+  const starSize = size === 'expanded' ? 'w-7 h-7' : 'w-5 h-5';
+  const gap = size === 'expanded' ? 'gap-1.5' : layout === 'row' ? 'gap-0.5' : 'gap-1';
 
   const stars = (
     <div
@@ -106,14 +108,21 @@ export function RatingWidget({
             aria-pressed={selected === n}
             disabled={disabled}
             tabIndex={disabled ? -1 : 0}
-            onClick={() => handleClick(n)}
+            onClick={(e) => {
+              // Stop the click from bubbling to a parent <Link> (Next.js Link
+              // attaches its onClick to the <a>, so without this the page
+              // navigates instead of saving the rating).
+              e.preventDefault();
+              e.stopPropagation();
+              handleClick(n);
+            }}
             onMouseEnter={() => !disabled && setHoverAndNotify(n)}
             onFocus={() => !disabled && setHoverAndNotify(n)}
             className={`${starSize} inline-flex items-center justify-center transition-transform ${
               disabled ? 'opacity-60 cursor-default' : 'hover:scale-110'
             }`}
           >
-            <Star filled={filled} disabled={disabled} />
+            <Star filled={filled} preview={filled && previewing} disabled={disabled} />
           </button>
         );
       })}
@@ -157,7 +166,15 @@ function tierClass(n: number): string {
     : 'text-muted-foreground';
 }
 
-function Star({ filled, disabled = false }: { filled: boolean; disabled?: boolean }) {
+function Star({
+  filled,
+  preview = false,
+  disabled = false,
+}: {
+  filled: boolean;
+  preview?: boolean;
+  disabled?: boolean;
+}) {
   // Greyed-out empty stars when the widget is disabled (signed-out state).
   const fillColor = disabled
     ? filled
@@ -171,6 +188,9 @@ function Star({ filled, disabled = false }: { filled: boolean; disabled?: boolea
     : filled
     ? '#b45309'
     : '#c8c5be';
+  // Render hover-preview fills softer so the user can tell preview from
+  // committed at a glance.
+  const opacity = preview ? 0.5 : 1;
   return (
     <svg viewBox="0 0 24 24" className="w-full h-full" aria-hidden>
       <polygon
@@ -179,6 +199,7 @@ function Star({ filled, disabled = false }: { filled: boolean; disabled?: boolea
         stroke={strokeColor}
         strokeWidth="0.6"
         strokeLinejoin="round"
+        opacity={opacity}
       />
     </svg>
   );

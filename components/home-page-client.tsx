@@ -9,7 +9,7 @@ import { useReadingProgressContext } from '@/context/reading-progress-context';
 import { useFavoritesContext } from '@/context/favorites-context';
 import { useVotesContext } from '@/context/votes-context';
 import { markAsRead, markAsUnread } from '@/lib/reading-progress';
-import { RatingRow } from '@/components/rating-row';
+import { RatingChip } from '@/components/rating-chip';
 
 type StatusFilter = 'all' | 'unread' | 'read' | 'in-progress' | 'favorites' | 'voted';
 type SortOrder = 'random' | 'alpha';
@@ -538,8 +538,15 @@ function ReviewCard({ review, progress, isFavorite, onToggleRead, onToggleFavori
             {review.title}
           </h3>
 
-          {/* Inline rating row directly under the title */}
-          <RatingRow reviewId={review.id} reviewYear={review.year} stopPropagation />
+          {/* Compact rating chip directly under the title; clicking opens
+              the popup with the full RatingCard. */}
+          <div className="mt-1 mb-2">
+            <RatingChip
+              reviewId={review.id}
+              reviewYear={review.year}
+              reviewTitle={review.title}
+            />
+          </div>
 
           {/* Book author & reviewer - only show if meaningful */}
           {(review.author !== 'Unknown' || review.reviewAuthor !== 'Anonymous') && (
