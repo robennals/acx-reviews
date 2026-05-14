@@ -99,13 +99,25 @@ export function VotesProvider({
           const data = (await res.json()) as {
             rating: { reviewId: string; rating: number; updatedAt: number };
           };
-          setState((s) => ({
-            ...s,
-            ratings: {
-              ...s.ratings,
-              [reviewId]: { rating: data.rating.rating, updatedAt: data.rating.updatedAt },
-            },
-          }));
+          // Mirror the server's authoritative updatedAt — but only if the
+          // client's current rating still matches what we just sent. If a
+          // later clearRating or setRating mutated the entry in between, the
+          // response is stale and writing it back would resurrect a deleted
+          // row or overwrite a newer value.
+          setState((s) => {
+            const cur = s.ratings[reviewId];
+            if (!cur || cur.rating !== data.rating.rating) return s;
+            return {
+              ...s,
+              ratings: {
+                ...s.ratings,
+                [reviewId]: {
+                  rating: data.rating.rating,
+                  updatedAt: data.rating.updatedAt,
+                },
+              },
+            };
+          });
         } catch {
           toast("Couldn't save your rating — network error.", 'error');
         }

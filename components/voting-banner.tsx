@@ -6,7 +6,7 @@ import { useVotesContext } from '@/context/votes-context';
 
 export function VotingBanner({ year }: { year?: number }) {
   const { status } = useSession();
-  const { contestYear, contestTitle, contestId, votingStart, votingEnd, ratings } =
+  const { contestYear, contestTitle, votingStart, votingEnd, ratings } =
     useVotesContext();
   if (contestYear === null) return null;
   if (year !== undefined && contestYear !== year) return null;
@@ -24,9 +24,9 @@ export function VotingBanner({ year }: { year?: number }) {
           Voting is open for the <strong>{contestTitle}</strong>. Rate any reviews you've read.
         </span>
         <span className="flex items-center gap-3">
-          {isAuthed && n > 0 && contestId && (
+          {isAuthed && n > 0 && (
             <Link
-              href={`/?status=voted&contest=${encodeURIComponent(contestId)}`}
+              href={`/?status=voted&year=${contestYear}`}
               className="text-amber-800 underline hover:text-amber-900 font-medium"
             >
               My ratings ({n})
