@@ -1,10 +1,10 @@
 import { Metadata } from 'next';
 import { notFound } from 'next/navigation';
-import Link from 'next/link';
 import { getReviewBySlug, getAllReviews, getReviewsByContest } from '@/lib/reviews';
 import { ReviewContent } from '@/components/review-content';
 import { ReadingProgressTracker } from '@/components/reading-progress-tracker';
 import { VoteButton } from '@/components/vote-button';
+import { BackToArchiveLink } from '@/components/back-to-archive-link';
 import { SITE_URL } from '@/lib/constants';
 
 interface ReviewPageProps {
@@ -82,15 +82,12 @@ export default async function ReviewPage({ params }: ReviewPageProps) {
         <header className="bg-muted/30 border-b border-border">
           <div className="max-w-3xl mx-auto px-6 sm:px-8 py-12">
             {/* Back link */}
-            <Link
-              href="/"
-              className="inline-flex items-center text-sm text-muted-foreground hover:text-foreground transition-colors no-underline mb-8"
-            >
+            <BackToArchiveLink className="inline-flex items-center text-sm text-muted-foreground hover:text-foreground transition-colors no-underline mb-8">
               <svg className="w-4 h-4 mr-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                 <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M15 19l-7-7 7-7" />
               </svg>
               Back to archive
-            </Link>
+            </BackToArchiveLink>
 
             {/* Title */}
             <h1 className="text-3xl sm:text-4xl lg:text-[2.75rem] font-serif font-semibold leading-tight tracking-tight mb-6 text-balance">
@@ -154,15 +151,12 @@ export default async function ReviewPage({ params }: ReviewPageProps) {
         <footer className="border-t border-border bg-muted/30">
           <div className="max-w-3xl mx-auto px-6 sm:px-8 py-10">
             <div className="flex flex-col sm:flex-row items-start sm:items-center justify-between gap-4">
-              <Link
-                href="/"
-                className="inline-flex items-center text-sm text-muted-foreground hover:text-foreground transition-colors no-underline"
-              >
+              <BackToArchiveLink className="inline-flex items-center text-sm text-muted-foreground hover:text-foreground transition-colors no-underline">
                 <svg className="w-4 h-4 mr-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                   <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M15 19l-7-7 7-7" />
                 </svg>
                 Back to archive
-              </Link>
+              </BackToArchiveLink>
 
               {review.originalUrl && (
                 <a
