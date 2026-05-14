@@ -106,7 +106,7 @@ export function HomePageClient({ reviews, contests, tags }: HomePageClientProps)
   const showVotedFilter = sessionStatus === 'authenticated' && contestYear !== null;
   const router = useRouter();
   const searchParams = useSearchParams();
-  const reviewsSectionRef = useRef<HTMLElement>(null);
+  const filtersRef = useRef<HTMLDivElement>(null);
   const isFirstSync = useRef(true);
   // The most recent search-string we wrote via applyChanges. Used to ignore
   // our own `replaceState` echoes (if Next.js's `useSearchParams` ever picks
@@ -129,7 +129,7 @@ export function HomePageClient({ reviews, contests, tags }: HomePageClientProps)
     setSortOrder(f.sort);
     setCurrentPage(f.page);
     if (!isFirstSync.current) {
-      reviewsSectionRef.current?.scrollIntoView({ behavior: 'smooth', block: 'start' });
+      filtersRef.current?.scrollIntoView({ behavior: 'smooth', block: 'start' });
     }
     isFirstSync.current = false;
   }, [searchParams]);
@@ -278,7 +278,7 @@ export function HomePageClient({ reviews, contests, tags }: HomePageClientProps)
       </header>
 
       {/* Search and filter */}
-      <div className="mb-10 space-y-4">
+      <div ref={filtersRef} className="mb-10 space-y-4 scroll-mt-4">
         {/* Search input */}
         <div className="relative">
           <input
@@ -393,7 +393,7 @@ export function HomePageClient({ reviews, contests, tags }: HomePageClientProps)
       )}
 
       {/* All reviews */}
-      <section ref={reviewsSectionRef}>
+      <section>
         <div className="flex items-baseline justify-between mb-6">
           <h2 className="text-sm font-semibold text-muted-foreground uppercase tracking-wider">
             {sectionTitle}
