@@ -9,7 +9,7 @@ import { useReadingProgressContext } from '@/context/reading-progress-context';
 import { useFavoritesContext } from '@/context/favorites-context';
 import { useVotesContext } from '@/context/votes-context';
 import { markAsRead, markAsUnread } from '@/lib/reading-progress';
-import { VoteButton } from '@/components/vote-button';
+import { RatingRow } from '@/components/rating-row';
 
 type StatusFilter = 'all' | 'unread' | 'read' | 'in-progress' | 'favorites' | 'voted';
 type SortOrder = 'random' | 'alpha';
@@ -538,6 +538,9 @@ function ReviewCard({ review, progress, isFavorite, onToggleRead, onToggleFavori
             {review.title}
           </h3>
 
+          {/* Inline rating row directly under the title */}
+          <RatingRow reviewId={review.id} reviewYear={review.year} stopPropagation />
+
           {/* Book author & reviewer - only show if meaningful */}
           {(review.author !== 'Unknown' || review.reviewAuthor !== 'Anonymous') && (
             <p className="text-sm text-muted-foreground mb-2">
@@ -605,31 +608,9 @@ function ReviewCard({ review, progress, isFavorite, onToggleRead, onToggleFavori
             >
               {isFavorite ? 'Saved' : 'Save'}
             </button>
-            <VoteSeparator>
-              <VoteButton
-                reviewId={review.id}
-                reviewTitle={review.title}
-                reviewYear={review.year}
-              />
-            </VoteSeparator>
           </div>
         </div>
       </article>
     </Link>
-  );
-}
-
-// Renders a "·" separator only when its children render something. The
-// VoteButton self-hides when voting is closed or the year doesn't match, so
-// we suppress the leading dot in those cases.
-function VoteSeparator({ children }: { children: React.ReactNode }) {
-  const node = children as React.ReactElement<{ reviewYear: number }>;
-  const { contestYear } = useVotesContext();
-  if (contestYear === null || contestYear !== node.props.reviewYear) return null;
-  return (
-    <>
-      <span>&middot;</span>
-      {children}
-    </>
   );
 }

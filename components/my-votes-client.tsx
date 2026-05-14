@@ -3,20 +3,20 @@
 import { useMemo, useState } from 'react';
 import Link from 'next/link';
 import { useVotesContext } from '@/context/votes-context';
-import { LIKERT_LABELS, tierOf } from '@/lib/voting/likert';
-import { RatingPopup } from '@/components/rating-popup';
+import { RatingRow } from '@/components/rating-row';
 
 type Sort = 'rating' | 'recent' | 'alpha';
 
 interface Props {
   reviewLookup: Record<string, { title: string; slug: string }>;
-  votingOpen: boolean;
+  /** Year of the active contest — passed to <RatingRow> so its gating works
+   *  client-side without re-reading the voting config. */
+  activeContestYear: number;
 }
 
-export function MyVotesClient({ reviewLookup, votingOpen }: Props) {
+export function MyVotesClient({ reviewLookup, activeContestYear }: Props) {
   const { ratings } = useVotesContext();
   const [sort, setSort] = useState<Sort>('rating');
-  const [editing, setEditing] = useState<{ id: string; title: string } | null>(null);
 
   const entries = useMemo(() => {
     const list = Object.entries(ratings).map(([reviewId, r]) => ({
@@ -47,7 +47,7 @@ export function MyVotesClient({ reviewLookup, votingOpen }: Props) {
       <div className="border border-border rounded-lg p-8 text-center text-muted-foreground">
         You haven't rated anything yet.{' '}
         <Link href="/" className="text-link underline">Browse reviews</Link>{' '}
-        and tap Vote on one to start.
+        and tap a star to start.
       </div>
     );
   }
@@ -67,46 +67,25 @@ export function MyVotesClient({ reviewLookup, votingOpen }: Props) {
         {entries.map((e) => (
           <div
             key={e.reviewId}
-            className="flex items-center gap-3 px-4 py-3 border-b border-border last:border-b-0 hover:bg-muted/30"
+            className="px-4 py-3 border-b border-border last:border-b-0 hover:bg-muted/30"
           >
-            <ScoreBadge rating={e.rating} />
-            <div className="flex-1 min-w-0">
-              {e.slug ? (
-                <Link
-                  href={`/reviews/${e.slug}`}
-                  className="text-sm font-semibold hover:underline truncate block"
-                >
-                  {e.title}
-                </Link>
-              ) : (
-                <span className="text-sm font-semibold truncate block">{e.title}</span>
-              )}
-              <div className="text-xs text-muted-foreground">
-                {LIKERT_LABELS[e.rating]} · rated {relativeTime(e.updatedAt)}
-              </div>
-            </div>
-            {votingOpen ? (
-              <button
-                type="button"
-                onClick={() => setEditing({ id: e.reviewId, title: e.title })}
-                className="text-muted-foreground hover:text-foreground text-xl leading-none px-2"
-                aria-label={`Change rating for ${e.title}`}
+            {e.slug ? (
+              <Link
+                href={`/reviews/${e.slug}`}
+                className="text-sm font-semibold hover:underline truncate block"
               >
-                ›
-              </button>
-            ) : null}
+                {e.title}
+              </Link>
+            ) : (
+              <span className="text-sm font-semibold truncate block">{e.title}</span>
+            )}
+            <RatingRow reviewId={e.reviewId} reviewYear={activeContestYear} />
+            <div className="text-xs text-muted-foreground mt-1">
+              rated {relativeTime(e.updatedAt)}
+            </div>
           </div>
         ))}
       </div>
-
-      {editing && (
-        <RatingPopup
-          open={true}
-          onClose={() => setEditing(null)}
-          reviewId={editing.id}
-          reviewTitle={editing.title}
-        />
-      )}
     </>
   );
 }
@@ -132,23 +111,6 @@ function SortChip({
     >
       {label}
     </button>
-  );
-}
-
-function ScoreBadge({ rating }: { rating: number }) {
-  const t = tierOf(rating);
-  const cls =
-    t === 'high'
-      ? 'bg-amber-500 text-black'
-      : t === 'mid'
-      ? 'bg-amber-200 text-amber-900'
-      : 'bg-muted text-foreground';
-  return (
-    <span
-      className={`${cls} rounded-md w-9 h-9 inline-flex items-center justify-center font-extrabold text-sm shrink-0`}
-    >
-      {rating}
-    </span>
   );
 }
 

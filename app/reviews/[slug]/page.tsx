@@ -4,7 +4,7 @@ import Link from 'next/link';
 import { getReviewBySlug, getAllReviews } from '@/lib/reviews';
 import { ReviewContent } from '@/components/review-content';
 import { ReadingProgressTracker } from '@/components/reading-progress-tracker';
-import { RatingWidgetInline } from '@/components/rating-widget-inline';
+import { RatingRow } from '@/components/rating-row';
 import { SITE_URL } from '@/lib/constants';
 
 interface ReviewPageProps {
@@ -90,9 +90,14 @@ export default async function ReviewPage({ params }: ReviewPageProps) {
             </Link>
 
             {/* Title */}
-            <h1 className="text-3xl sm:text-4xl lg:text-[2.75rem] font-serif font-semibold leading-tight tracking-tight mb-6 text-balance">
+            <h1 className="text-3xl sm:text-4xl lg:text-[2.75rem] font-serif font-semibold leading-tight tracking-tight mb-3 text-balance">
               {review.title}
             </h1>
+
+            {/* Inline rating row directly under the title */}
+            <div className="mb-6">
+              <RatingRow reviewId={review.id} reviewYear={review.year} />
+            </div>
 
             {/* Attribution - only show if we have meaningful author info */}
             {(review.author !== 'Unknown' || review.reviewAuthor !== 'Anonymous') && (
@@ -138,10 +143,6 @@ export default async function ReviewPage({ params }: ReviewPageProps) {
         {/* Content */}
         <div className="max-w-3xl mx-auto px-6 sm:px-8 py-12 lg:py-16">
           <ReviewContent contentHtml={review.contentHtml} footnotes={review.footnotes} />
-          <RatingWidgetInline
-            reviewId={review.id}
-            reviewYear={review.year}
-          />
         </div>
 
         {/* Footer */}

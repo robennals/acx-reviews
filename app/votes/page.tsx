@@ -43,9 +43,12 @@ export default async function MyVotesPage() {
         Your ratings · {config!.contestTitle}
       </h1>
       <p className="text-sm text-muted-foreground mb-6">
-        {open ? 'Tap a row to change a rating.' : 'Voting has ended.'}
+        {open ? 'Tap a star to change a rating.' : 'Voting has ended.'}
       </p>
-      <MyVotesClient reviewLookup={reviewLookup} votingOpen={open} />
+      <MyVotesClient
+        reviewLookup={reviewLookup}
+        activeContestYear={activeContest.year}
+      />
     </div>
   );
 }
