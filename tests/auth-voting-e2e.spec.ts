@@ -1,7 +1,8 @@
 import { test, expect, type Page } from '@playwright/test';
 
-// End-to-end happy path covering: sign in -> rank a 2025 review -> see "#1"
-// state -> /admin shows the voter's ballot. Uses the test-only bypass auth
+// End-to-end happy path covering: sign in -> rate a 2025 review via the
+// inline star widget -> see the chip reflect the rating -> /admin shows
+// the voter row with the rating chip. Uses the test-only bypass auth
 // provider enabled in playwright.config.ts.
 
 const ADMIN_EMAIL = 'playwright-admin@example.invalid';
@@ -30,101 +31,61 @@ async function waitForSession(page: Page) {
 }
 
 /**
- * Rank the review currently visible on the page at #1 via the ranking popup.
- * Asserts the popup opens, then closes after the rank-at-#1 click.
+ * Click the star labeled `Rate N — Word` on the *inline* RatingCard at the
+ * top of a review page (the first one in DOM order). Waits for the
+ * `PUT /api/votes/rating` round-trip to land.
  */
-async function rankAtTopAndWait(page: Page) {
-  // Make sure the session has hydrated client-side before clicking — otherwise
-  // useSession() may still report 'loading' and the click opens the sign-in
-  // dialog instead of the ranking popup.
+async function rateInline(page: Page, n: number) {
   await waitForSession(page);
-  const voteButton = page.getByRole('button', { name: /Vote for this review/i });
-  await expect(voteButton).toBeVisible();
-  await voteButton.click();
-
-  // The popup is a Radix dialog; "Rank this review" is the title (first add).
-  const dialog = page.getByRole('dialog');
-  await expect(dialog).toBeVisible();
-  await expect(dialog.getByText(/Rank this review|Edit ranking/)).toBeVisible();
-
+  const star = page.getByRole('button', { name: new RegExp(`^Rate ${n} — `, 'i') }).first();
+  await expect(star).toBeVisible();
   const [resp] = await Promise.all([
     page.waitForResponse(
-      (r) => r.url().includes('/api/votes/ballot') && r.request().method() === 'PUT'
+      (r) => r.url().includes('/api/votes/rating') && r.request().method() === 'PUT'
     ),
-    // For an empty/short ballot the only slot is "Rank at #N (bottom of list)".
-    dialog.getByRole('button', { name: /Rank at #\d+/ }).click(),
+    star.click(),
   ]);
   expect(resp.status()).toBe(200);
-  // Popup closes after a successful rank.
-  await expect(dialog).toBeHidden();
 }
 
-/**
- * Open the popup on a review that is already on the ballot, then click
- * "Remove from list".
- */
-async function unrankAndWait(page: Page) {
-  await waitForSession(page);
-  const rankedButton = page.getByRole('button', { name: /^#\d+/ }).first();
-  await expect(rankedButton).toBeVisible();
-  await rankedButton.click();
-
-  const dialog = page.getByRole('dialog');
-  await expect(dialog).toBeVisible();
-  await expect(dialog.getByText(/Edit ranking/)).toBeVisible();
-
-  const [resp] = await Promise.all([
-    page.waitForResponse(
-      (r) => r.url().includes('/api/votes/ballot') && r.request().method() === 'PUT'
-    ),
-    dialog.getByRole('button', { name: /Remove from list/i }).click(),
-  ]);
-  expect(resp.status()).toBe(200);
-  await expect(dialog).toBeHidden();
-}
-
-test('signed-in admin can rank a review and see it reflected in the admin ballots view', async ({ page }) => {
+test('signed-in admin can rate a review and see it reflected in /admin', async ({ page }) => {
   await signInAs(page, ADMIN_EMAIL);
-  await expect(page.getByRole('button', { name: /Account menu/i })).toBeVisible();
+  await waitForSession(page);
 
-  // Open the first 2025 non-book review.
-  await page.goto('/?contest=2025-non-book-reviews');
+  // Open the first 2025 non-book review by clicking the title.
+  await page.goto('/?year=2025');
   const firstCard = page.locator('article').first();
   const reviewTitle = (await firstCard.locator('h3').first().textContent())?.trim() ?? '';
   expect(reviewTitle.length).toBeGreaterThan(0);
   await firstCard.locator('h3').first().click();
   await page.waitForURL(/\/reviews\//);
 
-  // Rank the review at #1 via the popup.
-  await rankAtTopAndWait(page);
-  await expect(page.getByRole('button', { name: /^#1/ })).toBeVisible();
+  // Rate via the inline card (star 8 = "Very good").
+  await rateInline(page, 8);
 
-  // Visit /admin: the ranked ballot for this voter should include this review.
+  // The card's headline flips from "Rate this review" to "Your rating".
+  await expect(page.getByText(/^Your rating$/).first()).toBeVisible();
+
+  // Visit /admin: the row for this voter should include a rating chip
+  // with the rating value (8) and the (clipped) review title. Other test
+  // workers running in parallel populate additional voter rows in the
+  // same DB, so we don't assert exact-1; we just find our admin's row.
   await page.goto('/admin?contest=2025-non-book-reviews');
-  await expect(page.getByRole('heading', { name: /Admin · Ranked ballots/i })).toBeVisible();
-  // 1 voter, our row.
-  await expect(page.getByText(/^1 voters/i)).toBeVisible();
-  const firstRow = page.locator('table tbody tr').first();
-  await expect(firstRow).toContainText(ADMIN_EMAIL);
-  // The #1 cell holds the (clipped) title — assert the row links to the slug.
-  await expect(firstRow.locator('td').nth(1).locator('a')).toBeVisible();
-
-  // Unrank and verify the admin view drops to zero voters.
-  await page.goto('/?contest=2025-non-book-reviews');
-  await page.locator('article').first().locator('h3').first().click();
-  await page.waitForURL(/\/reviews\//);
-  await unrankAndWait(page);
-  await expect(page.getByRole('button', { name: /Vote for this review/i })).toBeVisible();
-
-  await page.goto('/admin?contest=2025-non-book-reviews');
-  await expect(page.getByText(/^0 voters/i)).toBeVisible();
+  await expect(page.getByRole('heading', { name: /Admin · Ratings/i })).toBeVisible();
+  const voterRow = page.locator('div').filter({ hasText: ADMIN_EMAIL }).first();
+  await expect(voterRow).toBeVisible();
+  // The chip's badge contains the rating value as plain text "8".
+  await expect(voterRow.getByText('8', { exact: true }).first()).toBeVisible();
+  // And the clipped title appears in the chip.
+  const titleClip = reviewTitle.length <= 22 ? reviewTitle : reviewTitle.slice(0, 21) + '…';
+  await expect(voterRow).toContainText(titleClip);
 });
 
 test('signed-in non-admin cannot reach /admin', async ({ page }) => {
   await signInAs(page, 'just-a-user@example.invalid');
   await page.goto('/admin');
   await expect(page).toHaveURL('/');
-  await expect(page.getByRole('heading', { name: /Admin · Ranked ballots/i })).toHaveCount(0);
+  await expect(page.getByRole('heading', { name: /Admin · Ratings/i })).toHaveCount(0);
 });
 
 test('admin link in user menu is visible only for admin users', async ({ page }) => {
@@ -142,33 +103,42 @@ test('admin link in user menu is hidden for non-admin users', async ({ page }) =
 });
 
 test('signing in with Gmail dot variants or +tag lands in the same account', async ({ page }) => {
-  // A vote cast as "rob.ennals+x@gmail.com" should be visible when the same
-  // person later signs in as "robennals@gmail.com" — both normalize to
-  // "robennals@gmail.com" and hit the same users row.
+  // A rating cast as "rob.ennals+x@gmail.com" should be visible when the
+  // same person later signs in as "robennals@gmail.com" — both normalize
+  // to "robennals@gmail.com" and hit the same users row.
   const variantA = 'rob.ennals+test@gmail.com';
   const variantB = 'robennals@gmail.com';
 
   await signInAs(page, variantA);
-  await page.goto('/?contest=2025-non-book-reviews');
+  await page.goto('/?year=2025');
   const slug = await page.locator('a[href^="/reviews/"]').first().getAttribute('href');
   await page.goto(slug!);
-  await rankAtTopAndWait(page);
-  await expect(page.getByRole('button', { name: /^#1/ })).toBeVisible();
+  await rateInline(page, 7);
+  // Chip on the back-to-archive page should show "7 — Good".
+  await page.goto('/?year=2025');
+  await waitForSession(page);
+  // Find the chip for this review on the card listing. We don't know which
+  // card it is, so just check that *some* chip on the page shows the rating.
+  await expect(
+    page.getByRole('button', { name: /^Your rating: 7 — Good$/ }).first()
+  ).toBeVisible();
 
   // Re-sign-in as the canonical variant — this replaces the JWT cookie.
   // If normalization is correct, the server JWT carries the SAME user.id,
-  // and the server-rendered initial-votes snapshot includes our vote.
+  // and the server-rendered initial-votes snapshot includes our rating.
   await signInAs(page, variantB);
   await page.goto(slug!);
-  await expect(page.getByRole('button', { name: /^#1/ })).toBeVisible();
+  await waitForSession(page);
+  // The inline card now reads "Your rating" instead of "Rate this review".
+  await expect(page.getByText(/^Your rating$/).first()).toBeVisible();
 });
 
-test('voting persists across reload (server state, not just localStorage)', async ({ page }) => {
+test('rating persists across reload (server state, not just localStorage)', async ({ page }) => {
   await signInAs(page, 'reload-test@example.invalid');
 
   // Navigate to a specific 2025 review by URL so we don't depend on click
   // ordering or filter timing.
-  await page.goto('/?contest=2025-non-book-reviews');
+  await page.goto('/?year=2025');
   const slugLink = await page
     .locator('a[href^="/reviews/"]')
     .first()
@@ -176,11 +146,43 @@ test('voting persists across reload (server state, not just localStorage)', asyn
   expect(slugLink).toMatch(/^\/reviews\//);
   await page.goto(slugLink!);
 
-  await rankAtTopAndWait(page);
-  await expect(page.getByRole('button', { name: /^#1/ })).toBeVisible();
+  await rateInline(page, 9);
+  await expect(page.getByText(/^Your rating$/).first()).toBeVisible();
 
-  // Hard reload — local optimistic state is gone, the rank must come back from
-  // the server-rendered initial-votes snapshot.
+  // Hard reload — local optimistic state is gone, the rating must come back
+  // from the server-rendered initial-votes snapshot.
   await page.reload();
-  await expect(page.getByRole('button', { name: /^#1/ })).toBeVisible();
+  await expect(page.getByText(/^Your rating$/).first()).toBeVisible();
+  // Star 9 is the persisted value — the bottom label echoes "9 — Excellent".
+  await expect(page.getByText(/9 — Excellent/).first()).toBeVisible();
+});
+
+test("voting banner's 'My ratings' link sets URL filters and the home page reacts", async ({
+  page,
+}) => {
+  await signInAs(page, 'banner-link@example.invalid');
+
+  // Rate a review so the banner shows the My-ratings link (only visible
+  // when the user has at least one rating).
+  await page.goto('/?year=2025');
+  const slugLink = await page
+    .locator('a[href^="/reviews/"]')
+    .first()
+    .getAttribute('href');
+  await page.goto(slugLink!);
+  await rateInline(page, 6);
+
+  // Back to home — the banner should now show "My ratings (1)".
+  await page.goto('/');
+  await waitForSession(page);
+  const myRatings = page.getByRole('link', { name: /^My ratings \(1\)$/ });
+  await expect(myRatings).toBeVisible();
+  await myRatings.click();
+
+  // URL should now carry status=voted&year=2025.
+  await page.waitForURL(/\/\?.*status=voted/);
+  expect(page.url()).toContain('status=voted');
+  expect(page.url()).toContain('year=2025');
+  // Exactly 1 article card remains visible.
+  await expect(page.locator('article')).toHaveCount(1);
 });

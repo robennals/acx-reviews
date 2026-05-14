@@ -1,48 +1,73 @@
 import { test, expect } from '@playwright/test';
 
-// These tests cover the UI behavior of the auth + ranked voting features
+// These tests cover the UI behavior of the auth + Likert rating features
 // without requiring a real sign-in. They assume:
 //   - VOTING_CONTEST_YEAR=2025 and the voting window is currently open
 //     (matching the test config in playwright.config.ts).
 //   - At least one 2025 review and one non-2025 review exist in the index.
 
-test.describe('Auth & voting UI (signed out)', () => {
-  test('vote button is visible on a 2025 review article', async ({ page }) => {
-    await page.goto('/?contest=2025-non-book-reviews');
+test.describe('Auth & rating UI (signed out)', () => {
+  test('rating card is visible on a 2025 review article', async ({ page }) => {
+    await page.goto('/?year=2025');
     const firstReview = page.locator('article').first();
     await firstReview.locator('h3').first().click();
     await page.waitForURL(/\/reviews\//);
-    await expect(page.getByRole('button', { name: /Vote for this review/i })).toBeVisible();
+    // The inline RatingCard renders both at the top of the review and
+    // again just before the footnotes. Headline reads "Rate this review"
+    // when there's no committed rating.
+    const cardHeadings = page.getByText(/^Rate this review$/);
+    await expect(cardHeadings.first()).toBeVisible();
+    // Card appears twice: top and bottom.
+    await expect(cardHeadings).toHaveCount(2);
+    // Each instance renders the 10 Likert star buttons. Sum across all
+    // instances on the page should be 20 (10 stars x 2 cards).
+    await expect(page.getByRole('button', { name: /^Rate \d+ — /i })).toHaveCount(20);
   });
 
-  test('vote button is hidden on a non-2025 review article', async ({ page }) => {
-    await page.goto('/?contest=2024-book-reviews');
+  test('rating card is hidden on a non-2025 review article', async ({ page }) => {
+    await page.goto('/?year=2024');
     const firstReview = page.locator('article').first();
     await firstReview.locator('h3').first().click();
     await page.waitForURL(/\/reviews\//);
-    await expect(page.getByRole('button', { name: /Vote for this review/i })).toHaveCount(0);
+    // Non-2025 review: <RatingCard> early-returns null. No "Rate this review"
+    // heading, no star buttons.
+    await expect(page.getByText(/^Rate this review$/)).toHaveCount(0);
+    await expect(page.getByRole('button', { name: /^Rate \d+ — /i })).toHaveCount(0);
   });
 
-  test('clicking the vote button while signed out opens the sign-in dialog', async ({ page }) => {
-    await page.goto('/?contest=2025-non-book-reviews');
-    const firstReview = page.locator('article').first();
-    await firstReview.locator('h3').first().click();
-    await page.waitForURL(/\/reviews\//);
-    await page.getByRole('button', { name: /Vote for this review/i }).click();
+  test('clicking the rating chip on a card while signed out opens the sign-in dialog', async ({
+    page,
+  }) => {
+    await page.goto('/?year=2025');
+    const firstCard = page.locator('article').first();
+    // RatingChip on the card: aria-label is "Rate this review" when no rating.
+    const chip = firstCard.getByRole('button', { name: /^Rate this review$/i });
+    await expect(chip).toBeVisible();
+    const urlBefore = page.url();
+    await chip.click();
     await expect(page.getByRole('dialog')).toBeVisible();
     await expect(page.getByRole('button', { name: /Continue with Google/i })).toBeVisible();
     await expect(page.getByRole('button', { name: /Sign in with email/i })).toBeVisible();
+    // Clicking the chip must not navigate to the review page.
+    expect(page.url()).toBe(urlBefore);
   });
 
-  test('inline vote button on review cards opens the sign-in dialog (does not navigate)', async ({ page }) => {
-    await page.goto('/?contest=2025-non-book-reviews');
-    const firstCard = page.locator('article').first();
-    const inlineVote = firstCard.getByRole('button', { name: /^Vote$/ });
-    await expect(inlineVote).toBeVisible();
-    const urlBefore = page.url();
-    await inlineVote.click();
+  test('clicking a star on the inline rating card while signed out opens the sign-in dialog', async ({
+    page,
+  }) => {
+    await page.goto('/?year=2025');
+    const firstReview = page.locator('article').first();
+    await firstReview.locator('h3').first().click();
+    await page.waitForURL(/\/reviews\//);
+    // Inline RatingCard: signed-out users see a "Sign in to rate" link
+    // instead of being able to commit a star. The stars themselves are
+    // rendered as disabled buttons (clicks are no-ops in the widget), but
+    // the "Sign in to rate" link triggers the sign-in dialog.
+    const signInLink = page.getByRole('button', { name: /^Sign in to rate$/i }).first();
+    await expect(signInLink).toBeVisible();
+    await signInLink.click();
     await expect(page.getByRole('dialog')).toBeVisible();
-    expect(page.url()).toBe(urlBefore);
+    await expect(page.getByRole('button', { name: /Continue with Google/i })).toBeVisible();
   });
 
   test('header sign-in button opens the sign-in dialog', async ({ page }) => {
@@ -66,7 +91,7 @@ test.describe('Auth & voting UI (signed out)', () => {
     // After the redirect, we should land on / and not see the admin heading.
     await expect(page).toHaveURL('/');
     expect(response?.status()).toBeLessThan(400);
-    await expect(page.getByRole('heading', { name: /Admin · Ranked ballots/i })).toHaveCount(0);
+    await expect(page.getByRole('heading', { name: /Admin · Ratings/i })).toHaveCount(0);
   });
 
   test('voting banner is visible when voting is open', async ({ page }) => {
@@ -86,10 +111,5 @@ test.describe('Auth & voting UI (signed out)', () => {
     await page.goto(firstLink!);
     // Review header + content render; favorites/progress sync silently fails.
     await expect(page.locator('h1').first()).toBeVisible();
-  });
-
-  test('/votes page redirects to home when not signed in', async ({ page }) => {
-    await page.goto('/votes');
-    await expect(page).toHaveURL('/');
   });
 });
