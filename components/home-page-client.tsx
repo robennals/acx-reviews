@@ -42,7 +42,7 @@ function alphaSortKey(title: string): string {
 }
 
 interface FilterState {
-  contestId: string | null;
+  year: number | null;
   tag: string | null;
   query: string;
   status: StatusFilter;
@@ -58,9 +58,11 @@ function parseUrlFilters(search: string): FilterState {
   const sort = (VALID_SORT as string[]).includes(rawSort ?? '') ? (rawSort as SortOrder) : 'random';
   const rawPage = Number(params.get('page'));
   const page = Number.isFinite(rawPage) && rawPage > 0 ? rawPage : 1;
+  const rawYear = Number(params.get('year'));
+  const year = Number.isFinite(rawYear) && rawYear > 0 ? rawYear : null;
   return {
-    contestId: params.get('contest'),
-    tag: params.get('tag'),
+    year,
+    tag: params.get('topic'),
     query: params.get('q') ?? '',
     status,
     sort,
@@ -68,16 +70,24 @@ function parseUrlFilters(search: string): FilterState {
   };
 }
 
-function buildFilterUrl(next: FilterState): string {
+function buildFilterQueryString(state: FilterState): string {
   const params = new URLSearchParams();
-  if (next.contestId) params.set('contest', next.contestId);
-  if (next.tag) params.set('tag', next.tag);
-  if (next.query) params.set('q', next.query);
-  if (next.status !== 'all') params.set('status', next.status);
-  if (next.sort !== 'random') params.set('sort', next.sort);
-  if (next.page > 1) params.set('page', String(next.page));
-  const qs = params.toString();
+  if (state.year !== null) params.set('year', String(state.year));
+  if (state.tag) params.set('topic', state.tag);
+  if (state.query) params.set('q', state.query);
+  if (state.status !== 'all') params.set('status', state.status);
+  if (state.sort !== 'random') params.set('sort', state.sort);
+  if (state.page > 1) params.set('page', String(state.page));
+  return params.toString();
+}
+
+function buildFilterUrl(next: FilterState): string {
+  const qs = buildFilterQueryString(next);
   return qs ? `${window.location.pathname}?${qs}` : window.location.pathname;
+}
+
+function buildReviewHref(slug: string, archiveQuery: string): string {
+  return archiveQuery ? `/reviews/${slug}?${archiveQuery}` : `/reviews/${slug}`;
 }
 
 interface HomePageClientProps {
@@ -89,7 +99,7 @@ interface HomePageClientProps {
 const REVIEWS_PER_PAGE = 20;
 
 export function HomePageClient({ reviews, contests, tags }: HomePageClientProps) {
-  const [selectedContestId, setSelectedContestId] = useState<string | null>(null);
+  const [selectedYear, setSelectedYear] = useState<number | null>(null);
   const [selectedTag, setSelectedTag] = useState<string | null>(null);
   const [searchQuery, setSearchQuery] = useState('');
   const [statusFilter, setStatusFilter] = useState<StatusFilter>('all');
@@ -113,6 +123,11 @@ export function HomePageClient({ reviews, contests, tags }: HomePageClientProps)
   // them up) so in-page filter edits don't trigger the scroll-into-view.
   const lastAppliedSearch = useRef<string | null>(null);
 
+  const years = useMemo(
+    () => Array.from(new Set(contests.map(c => c.year))).sort((a, b) => b - a),
+    [contests]
+  );
+
   useEffect(() => {
     const incoming = searchParams.toString();
     if (lastAppliedSearch.current === incoming) {
@@ -122,7 +137,7 @@ export function HomePageClient({ reviews, contests, tags }: HomePageClientProps)
       return;
     }
     const f = parseUrlFilters(incoming);
-    setSelectedContestId(f.contestId);
+    setSelectedYear(f.year);
     setSelectedTag(f.tag);
     setSearchQuery(f.query);
     setStatusFilter(f.status);
@@ -145,14 +160,14 @@ export function HomePageClient({ reviews, contests, tags }: HomePageClientProps)
 
   const applyChanges = useCallback((changes: Partial<FilterState>) => {
     const next: FilterState = {
-      contestId: 'contestId' in changes ? changes.contestId! : selectedContestId,
+      year: 'year' in changes ? changes.year! : selectedYear,
       tag: 'tag' in changes ? changes.tag! : selectedTag,
       query: changes.query ?? searchQuery,
       status: changes.status ?? statusFilter,
       sort: changes.sort ?? sortOrder,
       page: changes.page ?? currentPage,
     };
-    setSelectedContestId(next.contestId);
+    setSelectedYear(next.year);
     setSelectedTag(next.tag);
     setSearchQuery(next.query);
     setStatusFilter(next.status);
@@ -164,7 +179,7 @@ export function HomePageClient({ reviews, contests, tags }: HomePageClientProps)
     const nextSearch = nextUrl.split('?')[1] ?? '';
     lastAppliedSearch.current = nextSearch;
     window.history.replaceState(null, '', nextUrl);
-  }, [selectedContestId, selectedTag, searchQuery, statusFilter, sortOrder, currentPage]);
+  }, [selectedYear, selectedTag, searchQuery, statusFilter, sortOrder, currentPage]);
 
   const handleToggleRead = useCallback((reviewId: string) => {
     const progress = progressMap[reviewId];
@@ -183,8 +198,8 @@ export function HomePageClient({ reviews, contests, tags }: HomePageClientProps)
   const filteredReviews = useMemo(() => {
     let result = reviews;
 
-    if (selectedContestId) {
-      result = result.filter(r => r.contestId === selectedContestId);
+    if (selectedYear !== null) {
+      result = result.filter(r => r.year === selectedYear);
     }
 
     if (selectedTag) {
@@ -212,7 +227,7 @@ export function HomePageClient({ reviews, contests, tags }: HomePageClientProps)
     }
 
     return result;
-  }, [reviews, selectedContestId, selectedTag, searchQuery, statusFilter, progressMap, favoritesSet, ratingOf, contestYear]);
+  }, [reviews, selectedYear, selectedTag, searchQuery, statusFilter, progressMap, favoritesSet, ratingOf, contestYear]);
 
   const sortedReviews = useMemo(() => {
     const arr = [...filteredReviews];
@@ -224,11 +239,23 @@ export function HomePageClient({ reviews, contests, tags }: HomePageClientProps)
     return arr;
   }, [filteredReviews, sortOrder, randomSeed]);
 
+  const archiveQuery = useMemo(
+    () => buildFilterQueryString({
+      year: selectedYear,
+      tag: selectedTag,
+      query: searchQuery,
+      status: statusFilter,
+      sort: sortOrder,
+      page: currentPage,
+    }),
+    [selectedYear, selectedTag, searchQuery, statusFilter, sortOrder, currentPage]
+  );
+
   const handleRandom = useCallback(() => {
     if (sortedReviews.length === 0) return;
     const pick = sortedReviews[Math.floor(Math.random() * sortedReviews.length)];
-    router.push(`/reviews/${pick.slug}`);
-  }, [sortedReviews, router]);
+    router.push(buildReviewHref(pick.slug, archiveQuery));
+  }, [sortedReviews, router, archiveQuery]);
 
   const totalPages = Math.max(1, Math.ceil(sortedReviews.length / REVIEWS_PER_PAGE));
   const paginatedReviews = sortedReviews.slice(
@@ -257,9 +284,7 @@ export function HomePageClient({ reviews, contests, tags }: HomePageClientProps)
     statusFilter === 'not-voted' ? 'Not Voted' :
     '',
     selectedTag || '',
-    selectedContestId
-      ? `${contests.find(c => c.id === selectedContestId)?.year}`
-      : '',
+    selectedYear !== null ? String(selectedYear) : '',
     'Reviews',
     searchQuery ? `matching "${searchQuery}"` : '',
   ].filter(Boolean).join(' ');
@@ -309,13 +334,13 @@ export function HomePageClient({ reviews, contests, tags }: HomePageClientProps)
         <div className="flex flex-wrap gap-3">
           <FilterDropdown
             label="Year"
-            value={selectedContestId ? String(contests.find(c => c.id === selectedContestId)?.year) : 'All'}
+            value={selectedYear !== null ? String(selectedYear) : 'All'}
             options={[
               { id: null, label: 'All' },
-              ...contests.map(c => ({ id: c.id, label: String(c.year) })),
+              ...years.map(y => ({ id: String(y), label: String(y) })),
             ]}
-            onSelect={(id) => applyChanges({ contestId: id, page: 1 })}
-            isFiltered={selectedContestId !== null}
+            onSelect={(id) => applyChanges({ year: id !== null ? Number(id) : null, page: 1 })}
+            isFiltered={selectedYear !== null}
           />
           {tags.length > 0 && (
             <FilterDropdown
@@ -395,6 +420,7 @@ export function HomePageClient({ reviews, contests, tags }: HomePageClientProps)
                 isFavorite={favoritesSet.has(review.id)}
                 onToggleRead={handleToggleRead}
                 onToggleFavorite={handleToggleFavorite}
+                archiveQuery={archiveQuery}
                 compact
               />
             ))}
@@ -426,6 +452,7 @@ export function HomePageClient({ reviews, contests, tags }: HomePageClientProps)
                 isFavorite={favoritesSet.has(review.id)}
                 onToggleRead={handleToggleRead}
                 onToggleFavorite={handleToggleFavorite}
+                archiveQuery={archiveQuery}
               />
             ))}
           </div>
@@ -533,17 +560,18 @@ interface ReviewCardProps {
   isFavorite: boolean;
   onToggleRead: (reviewId: string) => void;
   onToggleFavorite: (reviewId: string) => void;
+  archiveQuery: string;
   compact?: boolean;
 }
 
-function ReviewCard({ review, progress, isFavorite, onToggleRead, onToggleFavorite, compact }: ReviewCardProps) {
+function ReviewCard({ review, progress, isFavorite, onToggleRead, onToggleFavorite, archiveQuery, compact }: ReviewCardProps) {
   const isComplete = progress?.isComplete;
   const percentComplete = progress?.percentComplete || 0;
   const isInProgress = !isComplete && percentComplete > 0;
 
   return (
     <Link
-      href={`/reviews/${review.slug}`}
+      href={buildReviewHref(review.slug, archiveQuery)}
       className="block group no-underline"
     >
       <article className={`
