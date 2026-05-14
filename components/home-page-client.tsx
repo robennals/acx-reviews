@@ -2,7 +2,7 @@
 
 import { useState, useMemo, useCallback, useRef, useEffect } from 'react';
 import Link from 'next/link';
-import { useRouter } from 'next/navigation';
+import { useRouter, useSearchParams } from 'next/navigation';
 import { Review, Contest } from '@/lib/types';
 import { useSession } from 'next-auth/react';
 import { useReadingProgressContext } from '@/context/reading-progress-context';
@@ -105,20 +105,34 @@ export function HomePageClient({ reviews, contests, tags }: HomePageClientProps)
   const { status: sessionStatus } = useSession();
   const showVotedFilter = sessionStatus === 'authenticated' && contestYear !== null;
   const router = useRouter();
+  const searchParams = useSearchParams();
+  const reviewsSectionRef = useRef<HTMLElement>(null);
+  const isFirstSync = useRef(true);
+  // The most recent search-string we wrote via applyChanges. Used to ignore
+  // our own `replaceState` echoes (if Next.js's `useSearchParams` ever picks
+  // them up) so in-page filter edits don't trigger the scroll-into-view.
+  const lastAppliedSearch = useRef<string | null>(null);
+
   useEffect(() => {
-    const applyFromUrl = () => {
-      const f = parseUrlFilters(window.location.search);
-      setSelectedContestId(f.contestId);
-      setSelectedTag(f.tag);
-      setSearchQuery(f.query);
-      setStatusFilter(f.status);
-      setSortOrder(f.sort);
-      setCurrentPage(f.page);
-    };
-    applyFromUrl();
-    window.addEventListener('popstate', applyFromUrl);
-    return () => window.removeEventListener('popstate', applyFromUrl);
-  }, []);
+    const incoming = searchParams.toString();
+    if (lastAppliedSearch.current === incoming) {
+      // This effect was driven by an in-page applyChanges() that already
+      // updated React state directly; skip re-applying and skip scroll.
+      isFirstSync.current = false;
+      return;
+    }
+    const f = parseUrlFilters(incoming);
+    setSelectedContestId(f.contestId);
+    setSelectedTag(f.tag);
+    setSearchQuery(f.query);
+    setStatusFilter(f.status);
+    setSortOrder(f.sort);
+    setCurrentPage(f.page);
+    if (!isFirstSync.current) {
+      reviewsSectionRef.current?.scrollIntoView({ behavior: 'smooth', block: 'start' });
+    }
+    isFirstSync.current = false;
+  }, [searchParams]);
 
   useEffect(() => {
     let seed = localStorage.getItem(RANDOM_SEED_KEY);
@@ -144,7 +158,12 @@ export function HomePageClient({ reviews, contests, tags }: HomePageClientProps)
     setStatusFilter(next.status);
     setSortOrder(next.sort);
     setCurrentPage(next.page);
-    window.history.replaceState(null, '', buildFilterUrl(next));
+    const nextUrl = buildFilterUrl(next);
+    // Record the query string we're about to write so the URL-sync effect
+    // can ignore its own echo and skip the scroll-into-view.
+    const nextSearch = nextUrl.split('?')[1] ?? '';
+    lastAppliedSearch.current = nextSearch;
+    window.history.replaceState(null, '', nextUrl);
   }, [selectedContestId, selectedTag, searchQuery, statusFilter, sortOrder, currentPage]);
 
   const handleToggleRead = useCallback((reviewId: string) => {
@@ -374,7 +393,7 @@ export function HomePageClient({ reviews, contests, tags }: HomePageClientProps)
       )}
 
       {/* All reviews */}
-      <section>
+      <section ref={reviewsSectionRef}>
         <div className="flex items-baseline justify-between mb-6">
           <h2 className="text-sm font-semibold text-muted-foreground uppercase tracking-wider">
             {sectionTitle}
