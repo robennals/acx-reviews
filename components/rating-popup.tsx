@@ -46,7 +46,11 @@ export function RatingPopup({ open, onClose, reviewId, reviewYear, reviewTitle }
             </Dialog.Close>
           </div>
           <div className="px-4 py-2">
-            <RatingCard reviewId={reviewId} reviewYear={reviewYear} />
+            <RatingCard
+              reviewId={reviewId}
+              reviewYear={reviewYear}
+              onCommitClose={onClose}
+            />
           </div>
         </Dialog.Content>
       </Dialog.Portal>

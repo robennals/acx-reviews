@@ -5,6 +5,7 @@ import { useSession } from 'next-auth/react';
 import { useVotesContext } from '@/context/votes-context';
 import { useSignInPrompt } from './sign-in-prompt-provider';
 import { RatingPopup } from './rating-popup';
+import { LIKERT_LABELS } from '@/lib/voting/likert';
 
 interface Props {
   reviewId: string;
@@ -50,15 +51,21 @@ export function RatingChip({ reviewId, reviewYear, reviewTitle }: Props) {
       <button
         type="button"
         onClick={handleClick}
-        className={`inline-flex items-center gap-1.5 px-3 py-1.5 rounded-full text-sm font-semibold border align-middle transition-colors ${
+        className={`inline-flex items-center gap-1.5 px-3 py-1.5 rounded-full text-sm font-semibold border align-middle transition-colors max-w-full ${
           current !== null
             ? 'bg-amber-100 border-amber-300 text-amber-900 hover:bg-amber-200'
             : 'bg-amber-500 border-amber-600 text-black hover:bg-amber-600'
         }`}
-        aria-label={current !== null ? `Your rating: ${current}` : 'Rate this review'}
+        aria-label={
+          current !== null
+            ? `Your rating: ${current} — ${LIKERT_LABELS[current]}`
+            : 'Rate this review'
+        }
       >
         <span aria-hidden>★</span>
-        <span>{current !== null ? current : 'Rate this'}</span>
+        <span>
+          {current !== null ? `${current} — ${LIKERT_LABELS[current]}` : 'Rate this'}
+        </span>
       </button>
       {open && (
         <RatingPopup
