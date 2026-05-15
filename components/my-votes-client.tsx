@@ -94,7 +94,7 @@ export function MyVotesClient({ reviewLookup, activeContestYear }: Props) {
                 </span>
               )}
               <div className="text-xs text-muted-foreground">
-                {LIKERT_LABELS[e.rating]} &middot; rated {relativeTime(e.updatedAt)}
+                {e.rating} &mdash; {LIKERT_LABELS[e.rating]} &middot; rated {relativeTime(e.updatedAt)}
               </div>
             </div>
             <div className="shrink-0 ml-auto">
