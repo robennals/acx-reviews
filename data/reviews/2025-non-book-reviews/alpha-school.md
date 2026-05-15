@@ -31,20 +31,20 @@ But there is nowhere on the internet that provides a detailed, non-partisan, des
 2-Hour Learning’s flagship school is the “Alpha School” in Austin Texas. The [Alpha homepage](https://alpha.school/) makes three claims:
 
 1.  Love School
-    
+
 2.  Learn 2X in two-hours per day
-    
+
 3.  Learn Life Skills
-    
+
 
 Only the second claim seems to be controversial, which may be exactly why that is the claim the Alpha PR team focuses on. That PR campaign makes three more sub-claims on what the two-hour, 2x learning really means:
 
 1.  “Learn 2.6X faster.” (on average)
-    
+
 2.  “Only two hours of academics per day.”
-    
+
 3.  “Powered by  AI (not teachers).”
-    
+
 
 If all of this makes your inner Bayesian flinch, you’re in good company. After twenty‑odd years of watching shiny education fixes wobble and crash—KIPP, AltSchool, Summit Learning, One-laptop-per-child, No child left behind, MOOCs, Khan‑for‑Everything—you _should_ be skeptical. Either Alpha is (a) another program for the affluent propped up by selection effects, or (b) a clever way to turn children into joyless speed‑reading calculators. Those were, more or less, the two critical camps that emerged when Alpha’s parent company was approved to launch the tuition‑free Arizona charter school this past January.
 
@@ -55,30 +55,30 @@ I first heard about Alpha in May 2024, and in the absence of randomized‑contro
 Since last autumn I’ve collected the sort of on‑the‑ground detail that doesn’t surface in press releases, or is available anywhere online: long chats with founders, curriculum leads, “guides” (not teachers), Brazilian Zoom coaches, sceptical parents, ecstatic parents, and the kids who live inside the Alpha dashboard – including my own. I hope this seven-part review can help share what the program actually is and that this review is more open minded than the critics, but is something that would never get past an Alpha public relations gatekeeper:
 
 1.  **Starting Point: My Assumptions:** how my views on elite private schools, tutoring and acceleration shaped the experiment (and this essay). **WHAT** is the existing education environment.
-    
+
 2.  **A Short History of Alpha:** from billionaire‑funded microschool to charter aspirations. **HOW** Alpha came to be.
-    
+
 3.  **How Alpha Works Part 1: Under the Hood:** What does “2‑hour learning” actually look like – what is the product and the science behind the product? **HOW** is Alpha getting kids to learn faster (Spoiler: “Two hour learning AI learning” closer to three hours, with a 5:1 teacher:student ratio and zero “generative AI”).
-    
+
 4.  **How Alpha Works Part 2: Incentives & Motivation:** The secret sauce that doesn’t get mentioned in the PR copy, but I have discovered is at least as important as the fancy technology. The “**other** **HOW**” that no one is talking about.
-    
+
 5.  **How Alpha is Measured: Effectiveness:** The science says it _should_ work, but how do you measure if it _is_ working? How is the vaunted “2.6x” number calculated? **WHAT** data is Alpha using to make its claims and what does that data actually say?
-    
+
 6.  **Why this time might be different:** Most promising educational initiatives fail to have impact when expanded beyond their initial studies. Bryan Caplan might argue this is because most education education is just signaling anyway (“[The Case Against Education](https://www.amazon.com/Case-against-Education-System-Waste/dp/0691174652)”). He also argues that most parental interventions have no impact (“[Selfish Reasons to Have More Kids](https://www.amazon.com/Selfish-Reasons-Have-More-Kids/dp/0465028616)”) – He claims that how kids turn out is a combination of genetics and non-shared environment (randomness; nothing to do with parenting choices). How can we reconcile Caplan’s buttoned-up data with the idea that the “parenting choice” to educate your kids differently (like with Alpha) might result in different outcomes than would be expected from genetics alone? **WHY** could Alpha work?
-    
+
 7.  **What Comes Next? The Scaling Problem:** The Alpha founders have a vision of completely re-inventing the way the world serves education. But even if Alpha works, it is up against a history of education programs that were never able to scale. It is also going to face resistance for being “weird”. **WHAT** comes next?
-    
+
 
 After twelve months I’m persuaded that Alpha is doing something remarkable—but that almost everyone, including Alpha’s own copywriting team, is describing it wrong:
 
 *   **It isn’t** **genuine two‑hour learning**: most kids start school at 8:30am, start working on the “two-hour platform” sometime between 9am-930am and are occupied with academics until noon-1230pm. They also blend in “surges” from time to time to squeeze in more hours on the platform.
-    
+
 *   **It isn’t** **AI** in the way we have been thinking about it since the “[Attention is all you need](https://arxiv.org/abs/1706.03762)” paper. There is no “generative AI” powered by OpenAI, Gemini or Claude in the platform the kids use – it is closer to “turbocharged spreadsheet checklist with a spaced‑repetition algorithm”
-    
+
 *   **It definitely isn’t** **teacher‑free**: Teachers have been rebranded “guides”, and while their workload is different than a traditional school, they are very important – and both the quantity and quality are much higher than traditional schools.
-    
+
 *   **The bundle matters**: it’s not just the learning platform on its own. A big part of the product’s success is how the school has set up student incentives and the culture they have built to make everything work together
-    
+
 
 …Yet the core claim survives: Since they started in October my children have been marching through and mastering material roughly _three times_ faster than their age‑matched peers (and their own speed prior to the program). I am NOT convinced that an Alpha-like program would work for every child, but I expect, for roughly 30-70% of children it could radically change how fast they learn, and dramatically change their lives and potential.
 
@@ -103,22 +103,22 @@ In order to get into this school our kids needed to score in the top 3% on an [I
 Now, after four years with three kids at this ultra-selective school, I can name exactly four genuine upgrades over our neighborhood public school:
 
 *   **Tiny classes** – teacher‑to‑student ratio hovered around 10 : 1 versus 25:1 or worse at the public school
-    
+
 *   **Exceptional peers** – classroom disruption was rare, they were surrounded by incredibly bright and motivated classmates – kids enthralled by learning rather than make-up and crop tops (yes, even in elementary schools)
-    
+
 *   **Deep pockets** – music rooms, tech labs, theatre programs – even ski trips
-    
+
 *   **No bottom‑quartile teachers** – there were weak teachers, but nothing like the worst duds you hear about, or that I had experienced as a child. No one was “phoning it in”.
-    
+
 
 But… for many other characteristics I did not see any difference from the free, local, public schools:
 
 *   **Median teacher skill** ≈ public median. Our friends in the public schools had lots of great teachers.
-    
+
 *   **Best teacher skill** ≈ public best. Some of the best teachers at our school left to teach in the public schools
-    
+
 *   Same state curriculum, same worksheets, **same pace.**
-    
+
 
 The school philosophy was “no acceleration—just go deep.” We knew this was the philosophy going in. The pitch was that instead of accelerating through the state curriculum the teachers would take their time with the kids and allow them to fully explore and master the content of each grade. When we asked for examples of what that meant in practice we were told things like: “Instead of reading more advanced vocabulary, the students will learn to read out loud and use emotion and character impressions. They will learn how to vary the timing of their reading like where and when to pause to create emotion in the listener”. That sounded reasonable! It sounded like more learning, but just _different_ learning than what the state had mandated.
 
@@ -205,11 +205,11 @@ That challenge led to Alpha’s 2024 expansion into specialty schools.
 Three micro‑campuses opened August 2024:
 
 *   **[GT School](https://gt.school/) (Georgetown, TX)** — Alpha’s “Gifted and Talented” School. Higher admissions bar; higher academic expectations; Afternoon programming focused on excelling in “academic competitions” like chess, go, debate, public speaking, robotics, programming and Quiz Bowl.
-    
+
 *   **[Lake Travis Sports Academy](https://sportsacademy.school/)** — Alpha’s “Sports school”. Kids who get through their academics in the morning spend the afternoon on sport skills, strength & conditioning, tactics, strategy, and sports psychology.
-    
+
 *   **[NextGen Academy](https://nextgenacademy.school/) (Austin)** —Perhaps the most radical experiment. Afternoons are spent training in competitive esports & game design.
-    
+
 
 Each new campus launched with <10 students, two or more local guides, and the same two‑hour core.
 
@@ -230,21 +230,21 @@ The goal of these schools does not seem to be making money or profit – at leas
 The Alpha website claims the following [locations](https://alpha.school/locations/#) are launching in Fall 2025:
 
 *   Houston, TX
-    
+
 *   Fort Worth, TX
-    
+
 *   Santa Barbara, CA
-    
+
 *   Phoenix, AR
-    
+
 *   Orlando, FL
-    
+
 *   Tampa, FL
-    
+
 *   Palm Beach, FL
-    
+
 *   New York City, NY
-    
+
 
 I also know that there is a physical location selected for Fort Lauderdale. While it is possible they launch eight (or nine) new campuses in the fall (they did pull off four last year), I expect that is more about “putting it out there” and then launching the campuses that get enough commitment. It is hard to launch a new school. Parents are risk averse, and many who are willing to take risks may not do it if they don’t think the school is even likely to happen. Better to say you are going to launch in Fort Worth, and then see what demand looks like. You can pull the trigger or pull the shoot depending on which markets are getting natural traction.
 
@@ -257,13 +257,13 @@ Now: What do these schools actually do? What does a day at Alpha really look lik
 Like most schools, Alpha is a bundle of products. In Alpha’s case I would break them out as:
 
 *   The 2-hour learning platform and tools
-    
+
 *   The afternoon program (workshops and check chart)
-    
+
 *   The incentive system
-    
+
 *   The school itself (guides, building, day care)
-    
+
 
 Almost all the discourse about Alpha is about the 2-hour learning program, and that is what I want to dive into most in this section, but I will also touch on the afternoon program (which I think is important). The incentive system – a very important, undiscussed part of the secret sauce – will get its own section in Part Four.
 
@@ -274,32 +274,32 @@ Every Alpha “flavor” – the core school, the home school, the Gifted School
 We drop our kids off around 8:30am. After a morning kick-off (some sort of group activity) they put on (optional) headphones, find a place to work (the school is a bit like a start-up office), and log in to their personal 2-hour learning platform. The platform informs each student what their specific required lessons are for the day (usually between 8-12 lessons). Those “required” lessons are called “minimums” and the kids talk about it that way:
 
 *   “Did you hit your minimums?”
-    
+
 *   “I missed my minimums by one lesson today but it wasn’t my fault”
-    
+
 *   “We got to skip our minimums today to do MAP testing”
-    
+
 *   “Guess what dad! I did my minimums plus two today!” (i.e., two additional lessons beyond her “minimums”)
-    
+
 
 While hitting the “minimums” are required, the students can choose the order they work through those requirements. Depending on the kid subjects covered in the platform could include:
 
 *   Math (learning new math; mostly on iXL)
-    
+
 *   “Fast Math” (doing simple math they already know how to do faster and more accurately; mostly on “Rocket Math” or “FastMath Pro”)
-    
+
 *   Language (Spelling and grammar; mostly on iXL)
-    
+
 *   Foreign Language (mostly on duolingo)
-    
+
 *   Science (mostly on iXL)
-    
+
 *   Social Studies (mostly on iXL)
-    
+
 *   Reading (Older kids are on “Alpha Reads”; younger kids use Amira and Lalio)
-    
+
 *   Writing (Mostly on AlphaWrite)
-    
+
 
 If a student gets all their lessons done in the allotted time they can choose which subjects to work ahead on – they can try and balance subjects, work on the ones they are struggling on the most, or just push ahead in the ones they are already excelling in (They do get coaching on this from guides on a regular basis, but the kids make their own choices).
 
@@ -328,11 +328,11 @@ Here is the feedback for math that day (that did not go as well):
 The constructive feedback to save eye strain:
 
 *   Not spending enough time on the subject
-    
+
 *   Ignoring explanations after mistakes
-    
+
 *   Rushing questions
-    
+
 
 No wonder she only got 60% correct.
 
@@ -351,11 +351,11 @@ During these morning sessions every 20-30 minutes the kids get what is called a 
 Most schools are set up in traditional ways, and then adjust the best they can within that structure to serve the needs of their unique students the best they can. What is impressive about the Alpha program is that is seems to be built from the ground-up around three of the most powerful learning principles:
 
 1.  **1:1 learning:** It’s not really 1:1, but in practice every kids is working on stuff at the edge of their ability, rather than the median of a group
-    
+
 2.  **Spaced Repetition:** The system brings back topics on a regular basis “just before” the student forgets, so it is more likely to encode in long term memory
-    
+
 3.  **Mastery:** In most education settings school students learn some percentage of the material and then move on. This can work for a while, but eventually students who missed something will struggle because they don’t have the tools to learn the next thing on the ladder. This is particularly noticeable in mathematics, but it can be a problem anywhere. With “mastery learning” the kids are not allowed to move on without mastering the subject. If there is something they miss, the system will bring it back again and again until they have mastered it. Liemandt in particular thinks this is a very big deal, and believes it is a significant driver of Alpha’s success (and the reason many kids are failing in traditional schools)
-    
+
 
 The morning “2-hour learning” session wraps up around noon. For those tracking at home that is “drop off at 830am, finish 2-hour learning 3.5 hours later”. They really are spending roughly 2 hours learning, it just takes half the day to get that 2-hours of focus in.
 
@@ -366,20 +366,20 @@ Then the afternoon begins.
 Afternoons are where the Alpha family of schools diverge. The Sports Academy is doing very different things in the afternoon than the GT school. But all the schools use a similar structure of breaking the afternoon into two types of work:
 
 1.  Workshops
-    
+
 2.  Check Chart Time
-    
+
 
 Workshops were the “life skills” program at the original Alpha School. Some of the workshops at the core school have included:
 
 *   **Thanksgiving Dinner:** The Kinders and 1st graders learned to make a dinner for their parents
-    
+
 *   **Time Traveler Tea:** The K-1’s learned about customs at different countries in different time periods and then had to pass a test where they had to “infiltrate” that culture without making any mistakes
-    
+
 *   **Ice Skating:** The kids all went ice skating. The idea was to teach resilience since none of the kids in Texas knew how to skate
-    
+
 *   **Airbnb:** Maybe the most impressive one. The 5th graders learned about the economics of property management - from property sourcing, mortgages, interior design, taxes, marketing, photo shoots, etc. And then they actually bought and managed a small property as a class (yes, the 5th grade class manages an actual property with a P&L)
-    
+
 
 Those are a select list of the coolest ones (in my opinion). Some friends who go to the main campus complained to us that the workshops in general are “not academic enough”. They say most are either “sports” (they mentioned sailing, golf, and running), or “entrepreneurship”. When they pushed the administration on potentially doing more academic-minded workshops (writing, history seminars, economics, psychology, chemistry) they were told, “you sound like GT parents. Have you considered that school?”
 
@@ -388,83 +388,83 @@ Our kids go to the GT School – the gifted and talented version of Alpha. All o
 **Younger Kids (K-2nd grade):**
 
 *   “Teamwork” (made competitive by having the kids compete in adult escape rooms)
-    
+
 *   Go (the game)
-    
+
 *   Competitive Debate
-    
+
 *   Piano (they all learned a level-one conservatory piece. I was impressed!)
-    
+
 *   Chemistry (The stuff I learned in 10th grade high school combined with using lego-type materials to actually build each element)
-    
+
 *   “Rock Band” (they are each learning an instrument. They are also using AI tools to write their own songs)
-    
+
 *   Magnets (building tracks and racing electric cars)
-    
+
 
 **Older Kids (3rd-8th grade):**
 
 *   Chess
-    
+
 *   Competitive Speech
-    
+
 *   Competitive Debate
-    
+
 *   Competitive Robotics
-    
+
 *   Programming (not competitive so far, but potentially building that way)
-    
+
 *   Quiz Bowl
-    
+
 
 All of the GT Workshops are focused on a measurable, legible output. They don’t learn “public speaking”, they learn how to craft and deliver a speech and then submit the performance to the Moth to be judged by external parties. The school’s “[100% Money Back guarantee](https://gt.school/)” is that every student who attends will be in the top 1% academically and win at least one national academic competition (for kids who start in kindergarten they guarantee 1350+ SAT and 5s on APs by 8th grade). This past year four kids placed in the top-8 in a global debate with more than 1000 entries, and two kids are competing at national championships in chess and an academic bee respectively, but not national champions yet.
 
 The second part of the afternoon is roughly 45-minutes per day to work on individual “Check Charts”**.** Check Charts are an assigned series of tasks each student needs to complete before they can move to the next “level”. Levels are mostly broken into two-year cohorts of kids. Roughly:
 
 *   Learning Lab = Kindergarten and 1st grade
-    
+
 *   Linc = 2nd grade
-    
+
 *   L1 = 3/4th grade
-    
+
 *   L2 = 5/6th grade
-    
+
 *   L3 = 7/8th grade
-    
+
 
 Kids advance academically at their own speed and could, in theory, finish all of elementary school content long before they get to 8th grade (more on that in section four), but they don’t advance from level-to-level based on academics (or at least not academics alone). Instead the kids are required to “complete their check chart”. When they do, they move up, and that can happen at five different points in the year (they don’t need to wait until the fall).
 
 The check chart provides two benefits:
 
 1.  **It gives the kids autonomy.** Every week they have time where they can choose what to do with it. They decide which check items they want to work on next
-    
+
 2.  **It gives the kids goals** beyond the academic platform, and shows that they don’t advance “automatically” based on just “aging up”. If their friend moves up before they do, they need to double down so they can catch up.
-    
+
 
 Check Chart items vary considerably. Some items on my kids’ charts this year:
 
 *   Give a tour of the school to visiting parents
-    
+
 *   Build a paper airplane that flies more than 30 feet
-    
+
 *   Complete a 1000-piece puzzle
-    
+
 *   Assemble a piece of IKEA furniture on your own (with a time limit)
-    
+
 *   Give a TED-type talk to 300+ people
-    
+
 *   Identify all 50 states on a map without any errors
-    
+
 *   Come top-10% in a local chess tournament
-    
+
 *   Write a letter in cursive at least 20 sentences long
-    
+
 *   Type 30-words per minute with 95% accuracy
-    
+
 *   Compete in a local Quizbowl tournament and qualify for nationals
-    
+
 *   Take 10% off your time to run a mile
-    
+
 
 Workshops in the afternoons are the “fun” part of school. They are the equivalent of the music, theater and art classes that fill in a traditional school schedule (just more focused, measurable and creative). The check charts both exist to fill in the gaps on important things that are missing from the academic program (like public speaking and typing) and to teach the students the importance of agency – there is no one standing over them with deadlines on the check chart. They just won’t move on to the next level with their friends if they don’t get everything on the list done.
 
@@ -519,11 +519,11 @@ According to Ericsson, the key to being great is deliberate practice. The key to
 Ericsson dug further to figure out where the motivation came from and he found it grew over three stages:
 
 1.  **Parental and authority approval:** Initially kids practice because they are given praise and attention from their parents when they do so, and are reprimanded when they don’t. He gives examples of mom saying “if you don’t practice an hour per day on piano I am going to stop paying for your music instructor”.
-    
+
 2.  **Peer approval:** At some point the young musicians begin to care less about what their parents think, and more about their relative status among their peers. Part of this is that they can perform music for their classmates, which is very impressive, but a bigger motivation is that their skills are recognized by other young musicians – their true peers.
-    
+
 3.  **Self Actualization:** Eventually the best musicians stop caring about their peers and start internalizing the desire to be great. They see themselves as musicians, and they do the hard, uncomfortable work of practicing because “that is what a great musician does”.
-    
+
 
 Ericsson found every musician followed the same path (and he repeated it with other adult experts and came to the same conclusion).
 
@@ -534,11 +534,11 @@ If you are the type of person who reads challenging books at the edge of your ab
 Self actualization is where we want all our kids to reach (or at least “become a strong enough reader that they enjoy reading books and will do it for pleasure”). The question is how to get there. Ericsson has mapped out that path:
 
 *   Start with adult-generated incentives
-    
+
 *   Surround the children with peers who will raise their status for being “learners”
-    
+
 *   Hope at some point they self-actualize
-    
+
 
 Clearly not every kid will get to stage three (and no one will get to stage three in every endeavor), but Ericsson’s point is that EVERYONE who gets to stage three starts at stage one. And we know how to motivate kids in stage one – or at least Roland Fryer does.
 
@@ -631,9 +631,9 @@ Alpha claims 2.6x average learning speed versus traditional schools, but what do
 Even the Alpha guides get confused sometimes. There are two learning concepts that get entangled:
 
 1.  How fast students are learning and mastering the content – **“Lesson Clock Speed”**
-    
+
 2.  How high students are scoring on standardized tests that measure content understanding – **“MAP Growth Speed”**
-    
+
 
 **Lesson Clock Speed (LCS)** can be measured by how many lessons the students are completing at “mastery” level and how long it takes them to complete those lessons. My 8-year old started 2nd grade content in mid-October 2025. She “mastered” all of 2nd grade by March 31st, 2025 (Reading: March 31st, Math: February 5th, Language: January 20th). She is now working her way through 3rd grade and the system estimated she will master all 3rd grade content before the end of May (Language: May 23rd, Math: May 9th, Science: May 7th). When she completes this content she will start on 4th grade material for the remainder of this year, and will start next school year part-way through that 4th grade content (assuming she doesn’t finish 4th grade over the summer). Since she missed the first 20% of the school year, we could say she is “learning” at (2.1/0.8) ~2.6x speed.
 
@@ -652,13 +652,13 @@ You can see all of the [MAP percentile charts here](https://teach.mapnwea.org/im
 **A few things worth pointing out:**
 
 1.  **Everyone gets better.** Whether due to education or not, the scores of any given percentile increase with each passing year
-    
+
 2.  **Everyone slows down.** Students get rapidly better on the test in the early years of school, and that progress slows down as they get older. Kindergarten to 1st grade sees increases of ~20 points at most percentile ranks. 11th to 12th grade improvements are minimal. Even the best students at that age are only getting ~6 points better on the test, and the median student sees no improvement at all over 12th grade.
-    
+
 3.  **The best kids slow down the least.** From Kindergarten to first grade everyone is advancing at about 20-points on the test, so the more average kids are actually improving faster on a percentage basis than the top-1% kids. But around middle school something happens. From 7th to 8th grade the top percentile kids gain 7-points on the test. The 50th percentile kids gain 3-points. The lowest percentile kids (not shown in that image) only improve by a single point (from a much lower base)
-    
+
 4.  **The top performing kids are WAY ahead of the average and the lower tier kids.** The kids at the top percentile achieve the median score of a graduating senior by the end of 3rd grade! And recall this is not an IQ test – this is a content test. The top 1% of 3rd graders have more content knowledge and comprehension than the median high school graduate.
-    
+
 
 When Alpha says their kids are learning 2.6x faster than kids in traditional schools, what they mean is that Alpha kids are increasing their MAP scores 2.6-times faster than similar kids at traditional schools.
 
@@ -673,11 +673,11 @@ What is surprising is that, with the caveat that the GT-school is both new and s
 There are at least three other objections to using MAP scores to measure progress or “success” of academic programs:
 
 1.  Do MAP scores actually correlate to anything important later in life?
-    
+
 2.  Is this all just “teaching to the test”? Are the kids just learning knowledge to pass multiple-choice tests? What about critical thinking, formulating long-form thoughts through essays, and other types of learning?
-    
+
 3.  How effective are other elite-schools and learning programs at increasing MAP scores?
-    
+
 
 I do not want to get bogged down in any of those questions, but all deserve at least courtesy answers.
 
@@ -706,21 +706,21 @@ There I _do_ have some concerns.
 The MAP tests seem to be very effective at assessing knowledge and ability to incorporate that knowledge in novel situations. What MAP is not testing are things like:
 
 *   Writing essays
-    
+
 *   Long form planning and strategy
-    
+
 *   Public speaking and persuasion
-    
+
 *   Making connections between two disparate concepts or ideas
-    
+
 *   Deep understanding of the drivers of history
-    
+
 *   Psychology
-    
+
 *   Economics
-    
+
 *   Leadership
-    
+
 
 …and so many other things.
 
@@ -759,11 +759,11 @@ Is there any data on how different education programs are doing on improving MAP
 Both examples show that if you have technology-enabled personalized learning for extended periods of time improve MAP scores versus the norm. Both show that those results only happen when the students stick with the program. This shows that the “secret sauce” of Alpha’s 2-Hour Learning is not what and how they are teaching but rather:
 
 1.  That they are using personalized technology-enhanced programing (when most schools aren’t)
-    
+
 2.  They do it for 2-hours per day instead of 30-minutes per week
-    
+
 3.  They keep the kids motivated so they put in the daily effort and don’t get burned out
-    
+
 
 What Alpha is doing is not rocket science. They are just “following the science” for what has been proven to work, and then designing a school around the best way (or “a way”) to deliver that science - personalized instruction, mastery focus, spaced repetition and incentives.
 
@@ -800,15 +800,15 @@ So what does a good zip code look like?
 Chetty summarizes a good zip code as:
 
 *   Short commutes
-    
+
 *   Low inequality
-    
+
 *   Low high school dropout rates
-    
+
 *   High voter turnout
-    
+
 *   Low single mother rate
-    
+
 
 [He summarizes that as a place of “economic connectedness”](https://www.econtalk.org/raj-chetty-on-economic-mobility/) – where adults are connected to each other and to the broader community. A lack of those five elements are not bad per se, but they are correlated with a community where people are not interacting with each other as much as they are in communities where the metrics are reversed.
 
@@ -899,11 +899,11 @@ Whether they will be successful is still in early innings. The homeschool produc
 When Bryan Caplan writes about the signaling theory of education, he lists three signals that schools send to employers:
 
 1.  Our students are smart
-    
+
 2.  Our students are heard working
-    
+
 3.  Our students are conformists
-    
+
 
 Many people are surprised that anyone would want to signal conformity. Don’t most people and employers value “innovative thinking”? Maybe, but not in their new hires.
 
@@ -944,11 +944,11 @@ Mostly elite non-conformists.
 I think that broader group breaks down into three sub-segments (to use Marketing persona jargon):
 
 1.  **David Disruptor:** Tech employee who has moved from the Bay area to Austin. He was nonconformist to even get into tech, and even more non-conformist to leave California
-    
+
 2.  **Arjun Academic:** First generation immigrant family from India. Likely also works in tech, or maybe healthcare, or runs a small business. They want their kids to excel academically and they are fine doing it differently than the people around them
-    
+
 3.  **Alex Amplifier:** The smallest segment. Austin is home to a small group of non-conformist “new media” personalities. I can name a dozen off the top of my head: Joe Rogan, Tim Ferriss, Lex Fridman, Andrew Huberman, Byrne Hobart, Razib Khan, Peter Attia, Matt Bateman, Chris Williamson, Ryan Holiday, David Parell, Rob Henderson and the _Kill Tony_ guys. At least 3-4 from that list have kids in one of the Alpha schools.
-    
+
 
 That is a solid base to build an initial business from (especially in “Keep it Weird, Austin”), but they will need to find a way to break through that niche into the mainstream if they want to truly transform education more broadly – which is really the founders’ goal.
 

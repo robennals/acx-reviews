@@ -54,13 +54,13 @@ _**We don't know anything about pre-historic man, but let's speculate wildly in 
 How did this play out for pre-farming man? Were we friendly, or was life 'nasty, brutish and short'? Steven Pinker's _The Better Angels of Our Nature_ tabulates violent deaths for:
 
 *   15% of pre-farming skeletons
-    
+
 *   14% of people in the foraging tribes left today,
-    
+
 *   3% for the 20th Century
-    
+
 *   1% for today (not fighting world wars helps)
-    
+
 
 But pre-historic man used things like tusks for weapons. This makes it hard to distinguish between 'violent death at the hands of the tribe down the road wielding tusks' and 'violent death at the hands of an elephant which didn't fancy being eaten for dinner'. Foraging tribes today are even less use - any tribe which has been followed around by sociologists with clipboards is hardly unsullied by contact with the modern world, and indeed quite a lot of the deaths turn out to have been caused by bullets from slave traders (presumably either these slave traders have developed zombification, or else they completely missed the aim of their job) or cattle ranchers. Unless Predator was actually a documentary, one presumes primitive man didn't have to contend with this.
 
@@ -90,11 +90,11 @@ Milgram experiment took pairs of volunteers, and assigned one to take a memory t
 Bregman is quite candid that his aim is to do a hatchet job on Milgram's experiment, in order to protect his thesis of humanity's innate goodness (just as it was for all the other things he's discredited - set your biasometers accordingly). Bregman spends a section trying to pick holes in the experiment, without much success. He then admits that he's not had any success, and that Milgram's experiment replicates. Where does all of this leave us? My conclusions are:
 
 1.  It's possible to get ordinary people to do terrible things, but it's not that easy. Left to their own devices they don't spontaneously turn sadistic.
-    
+
 2.  There do exist terrible people who will work hard to get people to do terrible things to each other. Some of them are psychology professors.
-    
+
 3.  Don't trust any study which hasn't been replicated
-    
+
 
 _**Why you shouldn't stand by the bystander effect**_  
 In 1964 at 3:19am Catherine Genovese was attacked in front of 38 witnesses in a nice neighbourhood in New York. For half an hour none of them did anything to help, allowing her attacker to strike again. Finally at 3:50am one calls it in. The police arrive two minutes later, but it's too late for Kitty.
@@ -125,9 +125,9 @@ _**Power kills empathy**_
 When Professor Dacher Kelter started working on the psychology of power in the 90s he noticed two things:
 
 1.  Everyone assumed Machiavelli was right
-    
+
 2.  Almost no science had been to check
-    
+
 
 Kelter ran a series of experiments from dorm rooms to summer camps where people meet for the first time, and establish pecking orders. What he discovered was that people who behave as _The Prince_ recommends get run out of the camp. The people who rise to power are the friendliest and most empathetic. Now to be fair to Machiavelli, summer camps are not an exact parallel for Italian city states, and Machiavelli's main concern was advising how to maintain power after you've got it. Still, that power is obtained by being the friendliest, not the backstabbiest, is useful insight for the budding megalomaniacs amongst us.
 
@@ -176,7 +176,7 @@ Bregman contends that in fact zero tolerance policing doesn't work, and that New
 
 _**The contact hypothesis**_  
 In the 1950's psychologist Gordon Allport discovered a cure for racism and its friends: contact. The general assumption was that more contact led to more friction, in fact the opposite is true: the more time people spend with those of other races, classes, sexualities, whatever, the more sympathy there is between them. That's why it was only in segregated areas of Detroit that the 1943 race riots occurred. People didn't riot against their neighbours, in fact they protected them. American white soldiers who had fought in mixed units (something that wasn't supposed to happen, but no plan survives first contact with the enemy) were nine times less likely to dislike blacks. Allport found the same effects in schools, sailors and police officers.  
-  
+
 Actually, it's a bit more complicated than that (what isn't!). Firstly, this is more of a long-term thing. If you just flood a load of immigrants into an area, tension will initially go up. We've been running this experiment in Europe and I wouldn't recommend it. Secondly, the kind of contact matters. If you're a prison guard who treats prisoners with brutality every day, there is no number of days after which you're going to become friends.
 
 This sounds a lot like empathy, which Bregman previously claimed to be against. I think this is a mistake on his part: his thesis works better with a positive view of the power of empathy. Bregman deals with this by reframing empathy. Empathy, he says, is experiencing someone else's sufferings, which is exhausting. What we should seek is compassion: doing something about someone else's sufferings, which is energising.

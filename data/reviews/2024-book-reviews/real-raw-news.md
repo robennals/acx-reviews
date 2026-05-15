@@ -63,17 +63,17 @@ In the world of Real Raw News, at least, it’s working. In this corner of the W
 The basic summary of the past four years of world history, according to RRN, are as follows:
 
 *   Following widespread and blatant fraud in the 2020 election, endorsed as legitimate by the media, Donald Trump pretended to surrender power to Joe Biden. In reality, though, he [retained the support](https://realrawnews.com/2021/05/pentagon-coup-joint-chiefs-overthrown/) of the U.S. military, and continues to exercise presidential power from a secret bunker at Mar-a-Lago.
-    
+
 *   Military forces loyal to Trump, empowered by the Insurrection Act and other executive orders secretly placing the country under martial law, have been conducting special forces operations to hunt down and secretly arrest various high-profile Americans on charges of treason. 
-    
+
 *   Joe Biden, who is not really president and perhaps not really Joe Biden either, is somehow still exerting dictatorial powers over much of America, assisted by Deep State-aligned government agencies like the IRS, the FBI, and of course, FEMA. Any time there is a natural disaster, Trump-loyal military forces [do battle](https://realrawnews.com/2022/09/special-forces-save-child-from-evil-fema-agents/) with FEMA operatives. These battles have killed hundreds.
-    
+
 *   A chief goal of Biden’s not-really-in-power dictatorship is spreading Covid-19 vaccines, which are an evil plot to do…something. They contain ingredients like the [“zombie drug”](https://realrawnews.com/2022/07/scopolamine-found-in-child-covid-vaccines/) scopolamine, [pesticides](https://realrawnews.com/2022/05/military-finds-pesticides-in-moderna-covid-19-vaccines/), [HIV](https://realrawnews.com/2023/03/putin-exterminates-mad-covid-19-vaccine-scientist/), and [wasp venom](https://realrawnews.com/2022/07/wasp-venom-found-in-child-covid-shots/). Vaccines variously cause heart attacks, [mass sudden death](https://realrawnews.com/2022/11/uncounted-vaccine-deaths-on-our-highways-and-railways/), or [berserker rage](https://realrawnews.com/2023/08/heavily-vaxxed-pilot-goes-beserk-at-denver-international-airport/). 
-    
+
 *   Vladimir Putin launched the war in Ukraine to [hunt down](https://realrawnews.com/2024/04/putin-strikes-pedophile-compound-in-ukraine/) a network of child-trafficking pedophiles. The Deep State has some kind of weird plan to merge America with Ukraine.
-    
+
 *   The lack of evidence that all this is happening is entirely explained through coordinated media silence as well as the widespread use of body doubles and clones.
-    
+
 
 The heart of Real Raw News, and the source of most of its entertainment value, is its accounts of the supposed secret military tribunals occurring at America’s Guantanamo Bay Naval Base in Cuba, better known as Gitmo[2](#footnote-2). For more than three years, the site has produced one article after another describing the arrest, trial, and execution of dozens of major and not-so-major figures in American life. 
 
@@ -230,16 +230,16 @@ I actually think the reverse side of this explains things like the durability of
 At the height of the French Revolution’s Reign of Terror, the Committee of Public Safety pushed through the [Law of 22 Prairial](https://revolution.chnm.org/d/439/). The law simplified the procedures of the country’s Revolutionary Tribunal by:
 
 *   Defining a whole heap of activities as criminal treason, including “creating scarcity,” disparaging the National Convention, “inspiring discouragement,” and spreading fake news. 
-    
+
 
 *   Capping trials at three days in length.
-    
+
 *   Abolishing defense counsel.
-    
+
 *   Abolishing all witnesses, if “moral proofs” against the accused make such witnesses unnecessary.
-    
+
 *   Making the sentence for all crimes identical: Mandatory death penalty[9](#footnote-9).
-    
+
 
 As far as perfidious methods to deliberately destroy due process and engineer mass executions go, the Law of 22 Prairial is pretty much unmatched in human history. And yet: In the roughly two months of the law’s existence, about one-fifth of defendants were still acquitted! 
 
@@ -334,11 +334,11 @@ So, what happens if you choose to believe the story you find most enjoyable? And
 Excellent question! To that, I offer several answers:
 
 1.  A collection of fake news blog posts may as well be considered a long-running series of short stories, and I hope that we’d be allowed to review the collected short stories of an author even if they were never technically compiled into a book.
-    
+
 2.  Scott told us to be less conventional in our choices. 
-    
+
 3.  I am a liberal arts graduate and I’m definitely not going to make the finals reviewing some nerdy non-fiction book.
-    
+
 
 [2](#footnote-anchor-2)
 

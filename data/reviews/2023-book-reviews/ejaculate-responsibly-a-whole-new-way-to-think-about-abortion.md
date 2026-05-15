@@ -84,7 +84,7 @@ Start with the discussion of women’s birth control. We are told that hormonal 
 I don’t want to denigrate these claims, because some women do indeed suffer from the side effects of birth control, and that’s valid, and maybe we should give more pain medication during IUD insertions. But these are not typical experiences! The vast majority of women who use hormonal birth control do not get liver cancer, and the vast majority of women who use IUDs don’t bleed for a year afterwards.
 
 My IUD insertion involved less than a minute of mild pain and I had no unusual bleeding. How much weight should you give that? Very little! But the positive anecdotes deserve as much weight as the horror stories.  
-  
+
 (Part of this, by the way, is the FDA’s fault—yes, friends, it’s all about the FDA. Unlike the IUD horror stories, the author’s claim about side effects of hormonal birth control _mostly_ checks out, but, as with most lists of side effects that American patients are given, she makes no attempt to distinguish between common risks and incredibly rare ones.)
 
 A person who wanted to tell an honest story about birth control would focus on _typical_ experiences, not just the horror stories. This was the first clue that the author is operating from a [conflict](https://slatestarcodex.com/2018/01/24/conflict-vs-mistake/) mindset and presenting facts tendentiously.

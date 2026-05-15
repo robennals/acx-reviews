@@ -21,11 +21,11 @@ tags:
 In which I argue:
 
 1.  _[Why Nations Fail](https://amzn.to/47Lk8x0)_ is not a very good book. 
-    
+
 2.  Its authors' academic papers are much better, so I steelman their thesis as best I can, but it's still debatable.
-    
+
 3.  Even if correct, it is much less interesting and useful than it appears.
-    
+
 
 Epistemic status: I have a decade-old PhD in economics (not in the field of economic growth) and a handful of peer-reviewed papers in moderately-ranked journals. I'm not claiming to make any original technical points, or to give a comprehensive evaluation of the economic growth literature. My criticisms are largely straight from the authors' own mouths. 
 
@@ -102,26 +102,26 @@ Genetics or race is not mentioned, but would presumably attract the same counter
 For the rest of the book, I'll just list a few nitpicks to signal I read the whole thing and know a bit of history, but feel free to skip this – the real evidence for AR's thesis is in their academic papers, and I'll discuss those in the next section.
 
 *   I think AR overrate the importance of the [Glorious Revolution](https://en.wikipedia.org/wiki/Glorious_Revolution), to the point of claiming it "created the rule of law" – after all, Parliament had already deposed and executed a king, then brought back the king’s son on their own terms after a decade of republican government.  No less a luminary than [Edmund Burke](https://sourcebooks.fordham.edu/mod/1791burke.asp) asserted "The Revolution was made to preserve our ancient indisputable laws and liberties, and that ancient constitution of government which is our only security for law and liberty." Also, strong signs of British economic uniqueness – the abnormal growth of London and reliance on coal as a fuel – [predated](https://antonhowes.substack.com/) 1688.
-    
+
 *   Despite quoting E.P. Thompson a lot, they make astounding assertions about the inclusiveness of 18th century British institutions and that aristocrats were "the clear economic losers from industrialization." The rate of (male) electoral enfranchisement in the UK was actually lower than that in [Poland](http://libr.sejm.gov.pl/file/history_sejm.pdf) of the same period, and a few hundred thousand handloom weavers would have begged to differ. It might be easier to write a narrative in which the emergence of industrial capitalism was an elite project requiring extensive repression of the masses. Oh, wait, looks like some [people](https://en.wikipedia.org/wiki/The_Making_of_the_English_Working_Class) already [have](https://www.marxists.org/archive/marx/works/1867-c1/). 
-    
+
 *   Venice was supposedly "on the brink of becoming the world’s first inclusive society".  Even sticking with a purely Eurocentric view, Athens and the early Roman republic seem strong contenders, whatever unspecified threshold is used.
-    
+
 *   The preface has Egypt passing seamlessly from the Ottomans to Napoleon to British colonialism, while chapter 2 describes Muhammed Ali's rule (1805-48) as "a path of rapid economic change". Tarring [Nasser's](https://en.wikipedia.org/wiki/Gamal_Abdel_Nasser) regime as "another elite as disinterested in achieving prosperity for ordinary Egyptians as the Ottoman and British had been" also seems unfair – whatever his faults, he did redistribute land to [peasants](https://en.wikipedia.org/wiki/Land_reform_in_Egypt), build the Aswan dam, and push an extensive program of industrialisation.
-    
+
 *   Jared Diamond's _Guns, Germs and Steel_ is treated with similar inconsistency: while initially admitting it is "a powerful approach to the puzzle on which he focuses" (why the Old World colonised the New instead of vice versa), AR eventually claim
-    
+
 
 > _… it is not even historically or geographically or culturally predetermined that Europeans should have been the ones colonizing the world. It could have been the Chinese or even the Incas._
 > 
 > The Chinese perhaps, but Diamond's thesis is completely inconsistent with the Incas.
 
 *   Soviet growth apparently "did not feature technological change". As an economist I assume they mean that statistical measures of [total factor productivity](https://en.wikipedia.org/wiki/Total_factor_productivity) did not grow. But by any ordinary meaning of "technological change" this statement is patently ridiculous: horses were replaced with tractors, employment shifted from agriculture to industry, the production of steel, electricity and machine tools grew exponentially, and city dwellers moved into highrise apartments with radio, TV and refrigerators. (I once travelled a bit in Central Asia and the newly ex-Soviet 'stans felt like developed countries that had fallen on hard times. Nepal didn’t.)
-    
+
 *   Similarly, Chinese growth is described as lacking "creative destruction and true innovation". If sacking tens of millions of workers from [state-owned enterprises](https://press-files.anu.edu.au/downloads/press/n4267/pdf/ch19.pdf), allowing [capitalists](https://en.wikipedia.org/wiki/Three_Represents) into the Communist Party, and leading the development of [5G](https://en.wikipedia.org/wiki/Huawei) does not count, I am not sure what would.
-    
+
 *   "IMF/World Bank policies are not adopted and not implemented, or are implemented in name only" rather understates the extent of privatisation, trade liberalisation and financial deregulation imposed by those institutions. It might be truer to say you cannot shrink a functioning state to the point where a corrupt elite will not find a way to steal from it.
-    
+
 
 ### 2\. If _Why Nations Fail_ isn't very good, why have multiple Nobel prize winners written it nice blurbs and why might the authors still get a Nobel prize of their own?
 

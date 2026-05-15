@@ -81,13 +81,13 @@ Imagine a group of 100 American adults, chosen at random. They’ve sat through 
 Bryan Caplan, in his book _[Against Education](https://www.amazon.com/Case-against-Education-System-Waste/dp/0691196451/ref=sr_1_1?crid=29RALCLO3PEWW&keywords=against+education&qid=1680704910&s=books&sprefix=against+education%2Cstripbooks%2C126&sr=1-1)_, cites surveys of what Americans know about basic scientific concepts. Here’s what they find:
 
 *   of the hundred adults, 76 know that the center of the Earth is hot (this is good!)
-    
+
 *   only 54 know that the Earth goes around the Sun
-    
+
 *   only 50 know that not all radioactivity is man-made
-    
+
 *   only 29 know that ordinary (as opposed to GMO) tomatoes have genes
-    
+
 
 #### **Q: Well, those are facts, not understanding — and that’s just looking at American adults in general! Surely good schools are doing a better job educating than that?**
 
@@ -774,11 +774,11 @@ At present, so much of the high school science curriculum — especially “hono
 Egan proposes, simply, that we flip this, and organize high school science classes around the big debates. We shouldn’t be ashamed at how, well, adolescent this might look: “the dramatic, speculative, and contentious theories will be up-front in the early years of the [high school] curriculum”. What might those be? Egan doesn’t give a list, but we can spitball some: 
 
 *   instead of explaining what “matter” is from the top down, a physics class could problematize “matter” by following the debates over the nature of dark matter and dark energy, and by becoming familiarized with the various interpretations of quantum mechanics
-    
+
 *   instead of holding back the origin of life, a chemistry class could treat it as a central debate, and investigate molecules and cellular processes to follow the scholarly conversation
-    
+
 *   instead of giving the usual short definition of natural selection, a biology class could dip into the recent professional debates that have motivated specialists — things like selfish gene theory, multi-level section, punctuated equilibrium vs. gradualism
-    
+
 
 If these are too high-level, teachers could dip into the historical debates that resulted in our now-dominant theories — showing, for example, the evidence that led to our understanding of the atom, and how people like J. J. Thompson, Ernest Rutherford, and Niels Bohr argued over it.
 

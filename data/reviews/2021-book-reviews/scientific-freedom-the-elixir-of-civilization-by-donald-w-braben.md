@@ -44,7 +44,7 @@ Don quite literally tried to “eliminate every selection rule imposed since abo
 
 In Don’s approach, he never told anyone “no”. If he thought someone was a quack (for instance, if I claimed that I had disproven super-string theory with only knowledge of calculus), he would kindly probe deeper. ”Will, you say you’ve disproven super-string theory, can you tell me how.” Don wouldn’t tell me to buzz off. For a bumbling or nonsensical answer, he’d just tell me to come back when I had more. This practice let Don filter out fakers, without filtering too aggressively for ideas that might be true, but not accepted by the wider scientific community.
 
-  
+
 On a practical level, Venture Researchers would be funded for 3 years at a time. Support could be renewed and often was. On renewal, the director of the research program simply asked themselves whether what they were wanting to do was still challenging. If it was, the program got renewed. In this paradigm, trust between funder and scientists was paramount.
 
 ## Who Don Was Looking for: “The Planck Club”

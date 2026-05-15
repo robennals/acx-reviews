@@ -53,7 +53,7 @@ Even with these changes, the public execution remained dangerous. The people flo
 The case for reform was strengthened by the changing nature of crime. As Foucault tells it, during the feudal period crime targeted feudal rights. Common crimes included smuggling and tax-avoidance. These crimes violated the rights that the feudal system awards to groups of people. Smugglers, for example, violate the King’s right to tax trade. As feudalism gave way to capitalism and France became richer, crime began to target goods. Writing in 1764, Le Trosne complained that brigands could cost richer peasants up to a third of their incomes. The problem became worse when the newly created bourgeoisie began to buy the old feudal estates. Traditionally, the peasantry had the right to collect wood, to graze livestock, etc. in the landed estates. These rights were rejected by the new owners of the estates, who regarded these activities as theft.
 
 As crime stopped targeting the rights of the old feudal nobility and started targeting the goods of the new capitalist bourgeoisie, the bourgeoisie began to panic. They became convinced that France was in the middle of a crime wave, even though in absolute terms crime seems to have been decreasing at the time of the Revolution. They began to search for a way to restore order. They reasoned:  
-  
+
         “A criminal commits a crime because he expects benefits from it. If each crime is associated with disadvantages which outweigh its benefits, there will be no reason to commit crime.”
 
 On hearing this, a modern social scientist might respond:

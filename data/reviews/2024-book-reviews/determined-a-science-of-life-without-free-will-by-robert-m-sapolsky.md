@@ -326,7 +326,7 @@ Sapolsky brings up the classic liberal example of the Norwegian justice system, 
 
 > “...in Norway’s “open prison” system, criminals, even those under maximal security, have rooms rather than cells, computers and TVs in each, freedom of movement, kitchens to cook in communally, workshops for hobbies, music studios filled with instruments, art on the walls, trees on the campus-like grounds, a chance to ski in the winter and go to the beach in the summer.”
 
-  
+
 And contrary to concerns that such a system would be an ineffective deterrent, or even an incentive for crime, we see that Norway has a far lower recidivism rate. This means far fewer prisoners, savings from a smaller police force, and the obvious direct benefits of there just generally being less crime in society. It seems like a win-win: the only ‘loss’ is the satisfaction of our bloodlust.
 
 So as social policy, I’m broadly in favor of the quarantine system as Sapolsky describes it, and the example of Norway seems like proof to me that, slowly but surely, we can as a society reduce our desire to see bad people punished to the maximum extent possible. We’ll probably never get it down to zero, but as they say, perfect is the enemy of good.
@@ -354,5 +354,5 @@ For all the elaborate scientific explanations about our behaviors and radical cl
 In the end, I don’t think the free will debate will ever have a definitive answer, because it’s not a question of fact but of feeling. There are times when I think the framework of free will is useful, times when I think it’s not, and times when I think it’s simply inescapable. Sapolsky is right that everything that happens to us is, in a sense, predetermined; and people like Dennet are right to say that we still have agency anyways, and that agency in and of itself gives us some level of moral responsibility, in a practical, societal sense.
 
 So, having faced the Predictor and lived to tell the tale, I’ve come out more on Chiang’s side than Sapolsky’s: the illusion of free will, if it is an illusion, is a helpful one, and moreover I don’t think our brains are wired to ever be able to reject it entirely. Even Sapolsky admits that he rarely succeeds at holding the idea in his head consistently. But his notion that we should try and understand the complicated, multifaceted reasons why everyone is the way they are? To understand that we are simply the sum of our parts and our past, that the line between you and someone else is much thinner than you think, and that we should therefore treat each other with a little more forgiveness, a little more understanding, a little more grace?  
-  
+
 I’ve got no choice but to agree with that.

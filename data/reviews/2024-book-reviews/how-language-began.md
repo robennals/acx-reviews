@@ -27,46 +27,46 @@ I'm only half-joking, because Chomsky’s impact on the study of language is har
 It isn’t atypical for a hard-working professor at a top-ranked institution to, after a career’s worth of work and many people helping them do research and write papers, have maybe 20,000 citations (= 0.04 Chomskys). Generational talents do better, but usually not by more than a factor of 5 or so. Consider a few more citation counts:
 
 *   Computer scientist [Alan Turing](https://scholar.google.com/citations?hl=en&user=VWCHlwkAAAAJ) (65,000 = 0.13 Chomskys)
-    
+
 *   Neuro / cogsci / AI researcher [Matthew Botvinick](https://scholar.google.com/citations?user=eM916YMAAAAJ&hl=en)  (83,000 = 0.17 Chomskys)
-    
+
 
 *   Mathematician [Terence Tao](https://scholar.google.com/citations?hl=en&user=TFx_gLQAAAAJ) (96,000 = 0.19 Chomskys)
-    
+
 *   Cognitive scientist [Joshua Tenenbaum](https://scholar.google.com/citations?user=rRJ9wTJMUB8C&hl=en&oi=ao) (107,000 = 0.21 Chomskys)
-    
+
 *   Nobel-Prize-winning physicist [Richard Feynman](https://scholar.google.com/citations?hl=en&user=B7vSqZsAAAAJ) (120,000 = 0.24 Chomskys)
-    
+
 *   Psychologist and linguist [Steven Pinker](https://scholar.google.com/citations?hl=en&user=bUhVerAAAAAJ) (123,000 = 0.25 Chomskys)
-    
+
 *   Two-time Nobel Prize winner [Linus Pauling](https://scholar.google.com/citations?hl=en&user=b0B12YAAAAAJ) (128,000 = 0.26 Chomskys)
-    
+
 *   Neuroscientist [Karl Deisseroth](https://scholar.google.com/citations?hl=en&user=WhhC4LwAAAAJ) (143,000 = 0.29 Chomskys)
-    
+
 *   Biologist [Charles Darwin](https://scholar.google.com/citations?hl=en&user=D847cGsAAAAJ) (182,000 = 0.36 Chomskys)
-    
+
 *   Theoretical physicist [Ed Witten](https://scholar.google.com/citations?hl=en&user=Z-EXYCkAAAAJ) (250,000 = 0.50 Chomskys)
-    
+
 *   AI researcher [Yann LeCun](https://scholar.google.com/citations?hl=en&user=WLN3QrAAAAAJ) (352,000 = 0.70 Chomskys)
-    
+
 *   Historian and philosopher [Hannah Arendt](https://scholar.google.com/citations?hl=en&user=CNsGZOYAAAAJ) (359,000 = 0.72 Chomskys)
-    
+
 *   [Karl Marx](https://scholar.google.com/citations?hl=en&user=4VSRHmIAAAAJ) (458,000 = 0.92 Chomskys)
-    
+
 
 Yes, fields vary in ways that make these comparisons not necessarily fair: fields have different numbers of people, citation practices vary, and so on. There is also probably a considerable recency bias; for example, most biologists don’t cite Darwin every time they write a paper whose content relates to evolution. But 500,000 is still a mind-bogglingly huge number. 
 
 Not many academics do better than Chomsky citation-wise. But there are a few, and you can probably guess why:
 
 *   Human-Genome-Project-associated scientist [Eric Lander](https://scholar.google.com/citations?hl=en&user=LXVfPc8AAAAJ) (685,000 = 1.37 Chomskys)
-    
+
 
 *   AI researcher [Yoshua Bengio](https://scholar.google.com/citations?hl=en&user=kukA0LcAAAAJ) (780,000 = 1.56 Chomskys)
-    
+
 *   AI researcher [Geoff Hinton](https://scholar.google.com/citations?hl=en&user=JicYPdAAAAAJ) (800,000 = 1.60 Chomskys)
-    
+
 *   Philosopher and historian [Michel Foucault](https://scholar.google.com/citations?hl=en&user=AKqYlxMAAAAJ) (1,361,000 = 2.72 Chomskys)
-    
+
 
 …well, okay, maybe I don’t entirely get Foucault’s number. Every humanities person must have an altar of him by their bedside or something.    
 
@@ -241,27 +241,27 @@ But the article ignited a firestorm of controversy that follows Everett to this 
 > He became a pure charlatan, although he used to be a good descriptive linguist. That is why, as far as I know, all the serious linguists who work on Brazilian languages ignore him.
 
 *   Noam Chomsky, MIT professor and linguist
-    
+
 
 > You, too, can enjoy the spotlight of mass media and closet exoticists! Just find a remote tribe and exploit them for your own fame by making claims nobody will bother to check!
 
 *   Andrew Nevins, UCL professor and linguist (Harvard professor at quote time)
-    
+
 
 > I think he knows he’s wrong, that’s what I really think. I think it’s a move that many, many intellectuals make to get a little bit of attention. 
 
 *   Tom Roeper, U. Mass. Amherst professor and linguist 
-    
+
 
 > Everett is a racist. He puts the Pirahã on a level with primates. 
 
 *   Cilene Rodrigues, PUC-Rio professor and linguist
-    
+
 
 > Is Daniel Everett the village idiot of linguistics? 
 
 *   [bedobi](https://www.reddit.com/r/asklinguistics/comments/vme0o6/is_daniel_everett_the_village_idiot_of_linguistics/), Redditor
-    
+
 
 Apparently he struck a nerve. And there is much more vitriol like this; see [Pullum](http://www.lel.ed.ac.uk/~gpullum/Pullum_NAAHoLS_2024.pdf) for the best (short) account of the beef I’ve found, along with sources for each quote except the last. On the whole affair, he writes:
 
@@ -292,9 +292,9 @@ Two observations here. First, another statement about “serious” linguistics;
 Polemics aside, what’s the technical content of each side’s argument? Is Pirahã recursive or not? Much of the debate appears to hinge on two things:
 
 *   what one means by _recursion_
-    
+
 *   what one means by the statement “All natural human languages have recursion.”
-    
+
 
 Everett generally takes recursion to refer to the following property of many natural languages: one can construct sentences or phrases from other sentences and phrases. For example:
 
@@ -387,11 +387,11 @@ These two points are not unrelated. Everett’s core idea is that language shoul
 In any case, let’s discuss these points one at a time. First: the origins of language. There are a number of questions one might want to answer about how language began:
 
 *   In what order did different language-related concepts and components emerge?
-    
+
 *   When did language proper first arise?
-    
+
 *   What aspects of human biology best explain why and how language emerged?
-    
+
 
 To Everett, the most important feature of language is not grammar or any particular properties of grammar, but the fact that it involves communication using _symbols_. What are symbols? (Ch. 1, pg. 17)
 

@@ -141,11 +141,11 @@ What would we need to see to be convinced? Let's apply some key principles of ex
 **Critical Controls**: Including controls in your experiments helps to demonstrate that your predicted effect isn’t arising for some other reason. Here are some controls you’d like to see in the PDAPP mouse study if you’re going to be convinced of the amyloid cascade hypothesis:
 
 *   Absence of plaques in mice not engineered to overexpress APP.
-    
+
 *   Comparisons between brain regions with and without plaques. If you see neuronal death, it should co-occur with the presence of plaques, not be spread throughout the brain.
-    
+
 *   Evidence that APP overexpression isn't driving toxicity, which can cause similar damage to the brain. This is very hard to control for, so the best course of action is to try to match human APP expression levels in your mouse model.
-    
+
 
 Controls are an indispensable reality check for **strong inference**—the practice of designing experiments that not only test a hypothesis but aim to _disprove it_ or eliminate alternatives. The concept was introduced in [1964 by the biophysicist John Platt](https://www.science.org/doi/10.1126/science.146.3642.347), who observed that some scientific fields advance rapidly while others stagnate. The difference, he argued, wasn’t in the complexity of the problems or the brilliance of the researchers, but in the systematic use of what he called strong inference.
 
@@ -176,16 +176,16 @@ Panel d is an immunoblot (Western blot), a technique that tells us whether a spe
 For purposes of this figure, proteins can differ in two important ways:
 
 *   They can differ in molecular weight (size), scored on the scale along the vertical axis on the left.
-    
+
 *   They can be expressed to a greater or lesser degree, reflected in the intensity (darkness and spread) of the bands. Lighter means less protein expression, darker more. (Note: It’s fine that there are two bands in lane 3).
-    
+
 
 Let’s pause to consider what we should expect to see in this blot if the PDAPP mouse is to be considered a reasonable model of human Alzheimer’s disease. Two things!
 
 1.  Ideally, lane 1 (normal mouse) will be empty; and
-    
+
 2.  The PDAPP mouse sample in lane 2 will have the same molecular weight (height on vertical axis) and expression level (intensity and spread) as the human sample in lane 3.
-    
+
 
 **Why do we want to see these results?** It matters because our ultimate goal is to develop treatments that work in people, not just in mice. To make that leap from a mouse model, the PDAPP mouse needs to replicate the key features of Alzheimer’s disease in humans—not just produce APP but drive similar amyloid-induced disease processes in the brain.
 
@@ -210,9 +210,9 @@ But now I’m worried.
 If we’re trying to create a human-comparable Alzheimer’s model, this much APP might be _way_ too much. Why might this be a problem?
 
 *   **APP expression at this level doesn’t mirror expression levels in human Alzheimer’s.** Alzheimer’s patients don’t have 40 copies of APP. If it takes this much overexpression (and a mutant form at that!) to drive pathology in mice, are these mice even an appropriate animal model for Alzheimer’s?
-    
+
 *   **Excess protein can stress neurons in ways unrelated to amyloid.** What if the brain is freaking out not because of Aβ toxicity, but because it’s drowning in APP?
-    
+
 
 Overexpression alone isn’t a dealbreaker. Many successful transgenic models for cancer, Huntington’s, and Parkinson’s disease rely on high gene expression to accelerate pathology and make the disease more tractable for study. These models have been invaluable for understanding disease mechanisms and testing therapies. So, while the extreme APP overexpression in PDAPP mice raises concerns, it doesn’t automatically invalidate the model—we could still be on the right track.
 
@@ -239,9 +239,9 @@ While I won’t reprint the Figure 2 subfigure here, to support a claim that PDA
 In summary, Figure 2 systematically makes it really hard to:
 
 1.  Compare plaque pathology in PDAPP mice to human Alzheimer’s brains.
-    
+
 2.  Evaluate whether mouse amyloid progresses over time in the Alzheimer’s way.
-    
+
 
 It’s frustrating because these are the key questions Figure 2 is supposed to answer. Grrr.
 
@@ -264,9 +264,9 @@ AI-generated content may be incorrect.")
 ✔ **Panel e** reveals that PDAPP mouse amyloid deposits are similar to human Alzheimer’s plaques in two other ways.
 
 *   Both have plaques that form structured, compacted fiber strands (fibrils), causing them to stain positive for Thioflavin-S.
-    
+
 *   The larger of the two mouse plaque deposits in Panel e shows a dense core with a surrounding halo, a hallmark of amyloid plaque deposits in human Alzheimer’s.
-    
+
 
 So far, so good—amyloid plaques in PDAPP mice aren’t just amorphous protein junk; they’re structured, biologically reactive, and surrounded by gliosis.
 

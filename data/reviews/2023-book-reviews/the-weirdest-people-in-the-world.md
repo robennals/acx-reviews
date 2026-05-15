@@ -39,19 +39,19 @@ Coming as he does from the scientific side of the aisle, Henrich isn't just goin
 His hypothesis comes from cross-cultural psychology. The West got rich because Westerners are different. People from Western, Educated, Industrialized, Rich and Democratic societies are _WEIRD_ – the acronym comes from a [previous article](https://www.nature.com/articles/466029a) of his. In particular, compared to everyone else in the world and in history, modern Westerners:
 
 *   Are individualist, not collectivist or conformist
-    
+
 *   Feel more guilt and less shame
-    
+
 *   Explain people's actions by their innate dispositions, not their social role
-    
+
 *   Reason analytically not holistically
-    
+
 *   Follow more universal norms and less relationship-specific norms
-    
+
 *   Are more patient
-    
+
 *   Trust strangers more and are more honest.
-    
+
 
 This psychology might make societies richer, for fairly well-known and plausible reasons. _The Weirdest People in the World_ (henceforth just _WEIRD_) sets out a causal chain from cultural change to psychological change to modern economic growth. The start of that chain is surprising: an obscure set of rules pushed by the medieval Catholic church, which banned marriage between cousins. The most important argument of the book is that these rules created WEIRD psychology.
 
@@ -82,11 +82,11 @@ Both historians and historical economists — a more appropriate name than “ec
 You can see the incentives that these disciplinary demands might set up, and that might worry you. At worst, you might get a kind of “underground river” concept of history, where
 
 1.  X happened long ago
-    
+
 2.  [underpants gnomes whispering]
-    
+
 3.  Y is correlated with X today
-    
+
 
 Indeed this does seem to skip all the interesting, contingent bits:
 
@@ -105,12 +105,12 @@ It's not by chance that _WEIRD_ tells the West's story as a landslide. First, th
 Second, the “bicycle push uphill” story would threaten the clean causality of the natural experiment. Suppose the Western Church promulgated the MFP with the deliberate plan of creating WEIRD psychology and causing the take-off into modern economic growth. Okay, that's unlikely, but suppose it promulgated the MFP with a plan that was somewhat related to increasing human welfare (in this world, not the next). Then we might suspect two things:
 
 *   Maybe in doing so the Church was reacting to existing conditions: reading the human situation and responding “hey, what we need here is less intensive kinship”. 
-    
+
 
 > If so, then it might put more effort into pushing the MFP in places where that was likely to have higher payoffs: in, say, the centre of the Carolingian empire – the strip running north-south roughly from Belgium to North Italy, where many trade routes meet, and which will be the richest part of Europe from at least the 12th century until the 21st. Not so much in Ireland, at the edge of the known world, long on monks but low on opportunities for trade; or in Sweden where the Church has barely a foothold. But now that threatens the randomness of your treatment, because the MFP correlates with existing economic institutions.
 
 *   Also, maybe when and where it did the MFP, the Church also took other actions to achieve the same goal.
-    
+
 
 > That goal being not modern economic growth, but perhaps that “the earth shall be filled with the glory of God, as the waters cover the sea”. Again, if so, there goes randomness, because the MFP correlates with those other actions.
 

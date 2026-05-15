@@ -153,17 +153,17 @@ H&S help us travel back into the minds of a set of thinkers who were in a very s
 H&S carefully document and disprove five major claims about why the Kellogg-Briand Pact is irrelevant. I’ve added a sixth here, which they do not address, and a short section about it below. 
 
 1.  Outlawry of war wasn't actually a significant change for anyone at the time.
-    
+
 2.  Outlawry wasn't taken seriously at the time by the signatories - that it was just feel-good propaganda. 
-    
+
 3.  World War II proves that it failed, so it wasn't important. 
-    
+
 4.  The world isn't more peaceful today, post outlawry.
-    
+
 5.  Any increase in peace since World War II is due to democracies, nuclear weapons, or other reasons, and not the Peace Pact. 
-    
+
 6.  The US keeps starting or engaging in wars, like in Libya, Afghanistan, and Iraq.
-    
+
 
 I will briefly summarize the 3 major sections of the book and how they tackle the first five claims.
 
@@ -264,13 +264,13 @@ H&S’s perspective is that the Peace Pact marks a turning point, and one that s
 In the end, they identify four key changes in the intellectual landscape, with Lauterpacht’s fingers in nearly all of them.
 
 1.  Neutrality no longer requires impartiality. States can help those they view as victims.
-    
+
 2.  Economic sanctions are a valid form of punishment of aggressor states, not a casus belli.
-    
+
 3.  Conquest is illegal, and will not be recognized.
-    
+
 4.  Coerced agreements through threats or gunboat diplomacy are not valid.
-    
+
 
 James T. Shotwell and Salmon Levinson started us on the journey to ending war. Hersch Lauterpacht formalized it.
 

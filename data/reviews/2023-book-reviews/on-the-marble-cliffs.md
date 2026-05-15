@@ -26,11 +26,11 @@ I picked _[On the Marble Cliffs](https://amzn.to/3Qhw96Z)_, because it is all of
 This review has three aims.
 
 1.  To persuade you that _On the Marble Cliffs_ is so unique, so beautiful and so absurdly courageous that you should at least know about it.
-    
+
 2.  To contextualize it in such a way as to enhance your appreciation in case you actually read it.
-    
+
 3.  To expose what in my opinion is the actual point of this book, but which (no doubt due to its many other attractions) all reviews of it I have read have missed entirely.
-    
+
 
 ### The German Catastrophe
 
@@ -55,23 +55,23 @@ One remarkable witness to this entire catastrophe was Ernst Jünger. In 1938, wh
 Jünger wrote for an audience that was very familiar with _Storm of Steel_ and, because of the autobiographical nature of all of his preceding work, with him as a person. His books revealed him to be a highly perceptive, highly but coldly intelligent, very erudite, sensation seeking… sociopath. He has masterful eloquence and a keen interest in nature. Even in the trenches of the World War, where he enjoyed “hunting down” enemy soldiers with sniper shots, he seemed more interested in the dealings between the insects that bumbled through this hellscape than in how his fellow soldiers inwardly felt about what was going on. And his protagonist in the _Marble Cliffs_ is both the first-person narrator and _almost exactly the same guy!_ All of the following points are true both for the protagonist of this novel, and the author at the time of writing.
 
 *   He lives with his brother on the edge of a small town in a fairly rural area with an old Christian culture and strong traditional crafts of wine making and fishing, overlooking a large body of water, across which is a mountainous foreign country: Alta Plana in the book, Switzerland in reality.
-    
+
 *   They are veterans of a great war, which their side lost, and have only recently distanced themselves from their organized veteran community, because that community is being corrupted by the influence of a charismatic demagogue who initially impressed the narrator/author but whom he has since recognized as purely evil.
-    
+
 *   Their society, and all the traditional values they hold dear, are crumbling under the violent, terrorizing infiltration of this charismatic demagogue’s thuggish, murderous followers.
-    
+
 *   The brothers are highly educated in philosophy and classical literature, and have strong metaphysical leanings, but are not equipped with much historical or sociological, or any economic, understanding of what is happening.
-    
+
 *   They deeply appreciate and carefully study nature. To be fair, Jünger at least makes his protagonist more interested in botany than in his own favorite field of entomology. But the plants the narrator studies are almost all native to the area where Jünger lived when he wrote this.
-    
+
 *   The narrator/author is an astonishingly intense aesthete, but towards his fellow humans (except his brother) quite cold-blooded and distant.
-    
+
 *   He has next to no sense of humor or irony.
-    
+
 *   He basically doesn't “get” people. He notices what they pay attention to and which philosophies they espouse, but his models of their motivations rarely go beyond basic drives towards safety and power. Just like almost all of Jünger’s memoirs, _On the Marble Cliffs_ does not contain any dialogue, nor any other evidence of complexity in the characters.
-    
+
 *   His emotional range spans only from a kind of tired nostalgia to the reckless joy of intoxication, punctuated by his most prized feeling by far, the gleefully murderous “bloodthirst” of mortal combat.
-    
+
 
 So everyone who had read some Jünger, which at the time of publication would likely include most of the German population and definitely most of the Nazis, could see right through the facade of fiction. It is an obvious conceit that made the book just barely publishable, in a time and place where saying outright that the Nazis were disgusting savages would have gotten everyone involved a headshot. After 1945, Jünger did admit that the book was (also) a commentary on the political reality of its time. And that he knew perfectly well that in publishing this “fiction” he was playing with his life. And still he got it published, uncensored, in Germany in 1939, just before Hitler started the second World War.
 
@@ -150,26 +150,26 @@ Not once in this entire story has the narrator expressed surprise at this progre
 I have omitted not just many smaller elements of the story but also a huge number of allusions to ancient history, (German) literature and especially the Bible. I imagine Jünger put them there as prizes for the few who would find them. This is one of the ways that I think _On the Marble Cliffs_ is Ernst Jünger’s _Unsong_: a vehicle that lets
 
 *   a prolific nonfiction author
-    
+
 *   indulge in a fantastical narrative where things happen in accordance with philosophy,
-    
+
 *   compress some of his sincerely held views for the kind of reader that doesn’t read that much nonfiction,
-    
+
 *   and also allow distance from these views through the obviousness of the exaggeration.
-    
+
 
 ### The point everyone seems to be missing
 
 Over the years, and especially while preparing this review, I have read a lot of reviews of this book, most of them in German, and found that much of what they find worth pointing out about it is anachronistic. Many of these reviews are quite similar to each other.
 
 *   They describe the obvious allegorical nature of the book and Jünger's relationship to the Nazis, much like I did above. They vary in how much they emphasize his earlier sympathy with the Nazis or his later revulsion, and often omit one or the other.
-    
+
 *   Many point out that Jünger says that the Chief Ranger's hordes are eventually defeated, and thereby predicts that Hitler’s will be.
-    
+
 *   They also debate whether the Chief Ranger more closely resembles Adolf Hitler or Hermann Göring. Or they remark that Braquemart kills himself with a prepared poison capsule exactly like Hitler would six years later. If Jünger could see into his future, like these reviewers can, this would mean Braquemart is Hitler, so the Chief Ranger is actually Stalin.
-    
+
 *   And they point out Jünger’s involvement in the Stauffenberg plot, five years later, which he probably only survived because the conspiracy was otherwise entirely among the high command, so Jünger as a mere major on the general staff wasn’t suspected to have materially contributed.
-    
+
 
 But most dishearteningly, nearly all the reviews are confused by the combination of horror and beauty! Most of the written reception of the book has alleged that these passionately positive tones constitute either approval of, or at least insufficient distance from, the atrocities of Nazi rule. Even reviewers who don't allege this seem to think of this work as a primarily political book, an allegory “dressed up” in beauty.
 

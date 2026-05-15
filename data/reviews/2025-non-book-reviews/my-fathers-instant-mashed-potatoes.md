@@ -87,13 +87,13 @@ This is a pattern that recurs frequently in reading about American foodways of t
 Why did America start eating like it was on a total war footing again when my parents’ generation was young? There are a lot of overlapping explanations. Here are a few:
 
 *   **Industrial inertia**: Companies that had spun up to supply a vast army didn’t want to shut down overnight, so they necessarily pivoted to the consumer market. Some of these efforts succeeded at entrenching new consumer categories (fish sticks, canned peaches) while others (hamburgers-in-a-can) did not.
-    
+
 *   **Genuine innovation**: Technologies brought to maturity during and after the war, notably frozen food, offer novel consumer benefits that stand on their own merits.
-    
+
 *   **Tastes fixed by rationing**: Consumer habits are sticky. People who spent a couple years forced to buy margarine instead of rationed butter, or skim milk instead of rationed meat, got used to those items and wanted to continue buying them in greater quantities than the prewar status quo.
-    
+
 *   **Pursuit of efficiency**: As women entered the workforce en masse in the postwar era, the pool of hours available to be spent on domestic labor like cooking shrank. As much as any dishwasher or washing machine, convenience foods are labor-saving, productivity-enhancing technologies for the home.
-    
+
 
 This last factor is the only one that can explain the continued development of instant mashed potato technology. There were no potato-_flaking_ interests during the war to have inertia; the instant mashed potatoes are not superior to their fresh antecedents; there was no ingrained consumer preference for an instant mashed potato product. It is only the desire to reduce time spent on food prep that could create “better instant mashed potatoes” as a commercially viable R&D space in the 1950s.
 
@@ -134,13 +134,13 @@ At this point in the review you might say, “what’s the big deal? It’s just
 Consider an abstracted version of the saga of my father’s instant mashed potatoes. It has a few steps:
 
 1.  Humanity develops a Thing from ingredients that exist in the world.
-    
+
 2.  Seeking efficiency at scale, an industry chops the ingredients of the Thing into teeny tiny bits.
-    
+
 3.  Using an artificial emulsifier, the bits are bound back together into an aesthetically deficient but more convenient slurry that resembles the Thing.
-    
+
 4.  Because it contains traces of the ingredients of the original Thing, this IMPish admixture is sold to us _as if it were the original Thing._
-    
+
 
 Pared back to this level of abstraction, a surprising amount of stuff starts to seem like my father’s instant mashed potatoes.
 

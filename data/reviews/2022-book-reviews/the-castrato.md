@@ -57,16 +57,16 @@ Balatri’s self-mocking origin story illustrates an important aspect of the cas
 It’s worth lingering further on the singular figure of Farinelli (birth name Carlo Broschi) as he provides perhaps the best exemplar of the castrati’s liminality. As the above passage suggests, no one straddled the line between humanity and divinity better than Farinelli; by all accounts, his voice was so angelic that it basically just melted people’s brains. Here’s a few of the more sensational stories (courtesy of wikipedia unless otherwise noted):
 
 *   Farinelli was originally called to Spain by the doctor of King Philip V in hopes that his singing could ease the King’s melancholia. “According to lore, it was arranged that Farinelli should sing in a room adjacent to the royal apartments. By the time he had finished the second song, the king appeared much moved by the beauty of his voice and ordered the singer brought before him. Philip overwhelmed Farinelli with compliments and agreed to pay him a salary for life. Farinelli would sing eight or nine arias for the king and queen every night, usually with a trio of musicians.” (“[Music to soothe the Mad King](about:blank)”)
-    
+
 
 *   Writing of an opera that Farinelli performed with another castrato, Sensino, 17th century music historian Charles Burney reports: "Senesino had the part of a furious tyrant, and Farinelli that of an unfortunate hero in chains; but in the course of the first air, the captive so softened the obdurate heart of the tyrant, that Senesino, forgetting his stage-character, ran to Farinelli and embraced him in his own…The first note he sung was taken with such delicacy, swelled by minute degrees to such an amazing volume, and afterwards diminished in the same manner to a mere point, that it was applauded for a full five minutes. After this he set off with such brilliancy and rapidity of execution, that it was difficult for the violins of those days to keep pace with him."
-    
+
 *   "The librettist Paolo Rolli, a close friend and supporter of Senesino, commented: "Farinelli has surprised me so much that I feel as though I had hitherto heard only a small part of the human voice, and now have heard it all. He has besides, the most amiable and polite manners..." Some fans were more unrestrained: one titled lady was so carried away that, from a theatre box, she famously exclaimed: "One God, one Farinelli!"
-    
+
 *   “Loaded with riches and honors, he was so famous and so formidable as a performer that his rival and friend, the castrato Gioacchino Conti ("Gizziello") is said to have fainted away from sheer despondency on hearing him sing.”
-    
+
 *   It was not uncommon for castrato to display their vocal prowess in contests against other singers or musicians (I imagine it like the 17th century version of a rap battle; more later on the castrato-rapper comparison). Famously, Farinelli once got into such a contest with a trumpet player and so surpassed him in technique and volume that “he was at last silenced only by the acclamations of the audience". He wasn’t undefeated however, “Farinelli sang at Bologna in 1727, where he met the famous castrato Antonio Bernacchi, twenty years his senior. In a duet in Orlandini's _Antigona_, Farinelli showed off all the beauties of his voice and refinements of his style, executing a number of passages of great virtuosity, which were rewarded with tumultuous applause. Undaunted, Bernacchi repeated every trill, roulade, and cadenza of his young rival, but performing all of them even more exquisitely, and adding variations of his own. Farinelli, admitting defeat, entreated Bernacchi to give him instruction in _grazie sopraffine_ ("ultra-refined graces"); Bernacchi agreed.”
-    
+
 
 Farinelli also provides perhaps the finest example of another important sense in which the castrati were uniquely liminal figures. As much as anyone else alive in their era, they existed with one foot in the old world—feudal, monarchical, religious—and the other in modernity—secular, dynamic, economic.
 

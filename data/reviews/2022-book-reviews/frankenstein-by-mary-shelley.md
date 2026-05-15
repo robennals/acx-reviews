@@ -42,7 +42,7 @@ First scene: the scientist in question pulls on a lever connected to a lightning
 Second scene: a mob of villagers with torches and pitchforks attempt to hunt down the newly-living creature.
 
 It turns out that neither of these scenes are actually in Mary Shelley’s _Frankenstein_. And there is some other stuff in there that is absolutely _wild_. Definitely not what I expected going in.  
-  
+
 So: SPOILER ALERT.
 
 ## III.
@@ -66,7 +66,7 @@ His tale is kind of sympathetic, sure; we all know it’s rough to be an outcast
 Unsurprisingly, Viktor is like: no way. The monster is like, alright, but what if I promise to move with my new gf to “the vast wilds of South America”, subsist on berries, and never bother human settlements again? Viktor still isn’t sure. The monster is like, ok, how about if you _don’t_ help me I’ll keep murdering the people you love. How about now?
 
 Viktor eventually is like: I guess I can trust this guy. He returns home, and his dad sits him down for a chat. _Remember that peasant girl your mother and I adopted when you were small? The one we had always hoped you’d eventually marry?_ asks his father. _Would you like to marry her?_ Viktor is all: of course, Elizabeth is the light of my eyes, there’s just one thing I need to do first, and that thing must happen … in England. And might take a year or two, who knows. (Perhaps unsurprisingly, everything seems to have a very relaxed pace in eighteenth-century Europe.)  
-  
+
 Viktor gathers up Clerval, whose life plans always seem to conveniently map onto Viktor’s whims, and a long travel montage ensues, complete with far more musings on English history than you’d expect from a Swiss character. Did you know that the city of Oxford was the last remaining stronghold of Charles II when the rest of the country had defected to Cromwell? Apparently, Dr Frankenstein knew this. And now, so do I.
 
 Viktor and Clerval arrive in England, and are invited by a mutual friend to visit Scotland. Here, in rural Scotland, Viktor finds himself a suitably-isolated island (and the right amount of corpses) and gets to work.

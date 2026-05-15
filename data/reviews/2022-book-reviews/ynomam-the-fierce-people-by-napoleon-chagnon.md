@@ -42,7 +42,7 @@ _Yąnomamö_ was forbidden because it presents compelling evidence against certa
 Here’s what I found most controversial or unexpected:
 
 1.  ## They’re kinda dicks
-    
+
 
 I say “kinda” because it’s more complicated than being either totally brutal or totally noble. The more you learn about a thing, the more the situation usually turns into “it’s complicated”, though it was painting this multifaceted picture that cost Chagnon his career.
 
@@ -71,7 +71,7 @@ The “game” of it all is made amusingly apparent from Yąnomamö mens’ nost
 (We may have to add “taking stuff off nerds” to our list of [Cultural Universals](https://en.wikipedia.org/wiki/Cultural_universal).)
 
 2.  ## Being a Yąnomamö woman sucks, though better when old
-    
+
 
 Growing up as a girl:
 
@@ -96,7 +96,7 @@ With old age, women’s lives improve somewhat:
 This reversal of fortune for old women may explain why there are at least two [known](https://www.bbc.com/news/magazine-23758087) [cases](https://en.wikipedia.org/wiki/Yanoama) of older women choosing to return to the Yąnomamö after having lived in modern society.
 
 3.  ## Anthropology before ethics committees was bananas
-    
+
 
 There are some really egregious examples like [the anthropologist](https://en.wikipedia.org/wiki/Kenneth_Good_(anthropologist)) who married and impregnated a teenage Yąnomamö girl then brought her back to New Jersey, but even the relatively scrupulous Changnon engaged in some curious practices. The 60s may have been an Anthropology-story sweet spot where rigorous records were kept, but they also got up to some wacky hijinks.
 
@@ -121,7 +121,7 @@ If you’re going to read just one thing in this book, read the bit about this c
 (Sometimes I blow people’s minds by telling them that my grandfather, who grew up poor in a tropical country, didn’t know what ice was. As in he didn’t know that if water got cold enough it turned hard. Still, I have to think that his life was actually closer to ours, we who read blogs on the internet, than to a Yąnomamö of the Amazon.)
 
 4.  ## Yąnomamö life is violent, but norms exist to contain this
-    
+
 
 As aggression is necessary, it is encouraged from a young age:
 
@@ -135,13 +135,13 @@ The customs of chest-pounding and club-fights have the same basic rules: contest
 
 ![](https://acximages.ennals.org/images/2022-book-reviews/0c06066bc036c38a.png)
 
-  
+
 The interesting thing about all three of these games is that it’s hard to be good at them in a way that can be straightforwardly leveraged to bully everyone. Unlike say a wrestling match or sword duel, it’s more about durability than skill, and even the winner inevitably emerges worse for wear. After a hard-fought contest, you’re in no position to challenge anyone else for a while so there’s a natural limit to how often you can participate.  
-  
+
 Personally, I’ve really appreciated these rituals. In middle school, I was a scrawny kid that didn’t do well in real fights, but I was reliable enough at bloody knuckles to generate a tiny bit of menace and respect that probably saved me from worse interactions.
 
 5.  ## Most of their food comes from agriculture
-    
+
 
 I’d always thought that “uncontacted” peoples were hunter-gatherers, or perhaps fishermen, but it turns out, by calories, the Yąnomamö are mostly agriculturalists and therefore Neolithic (sorry Paleo-dieters).
 
@@ -150,7 +150,7 @@ I’d always thought that “uncontacted” peoples were hunter-gatherers, or pe
 Further, plantains are an Old-world crop, first brought along long trade networks with intermediately-connected indigenous groups. The Yąnomamö are still in indirect contact with the modern world, which leads to the next surprising point:
 
 6.  ## “Uncontacted” peoples have access to technology fit for 19th-century Kings
-    
+
 
 You may have seen this photo before:
 
@@ -167,7 +167,7 @@ Metallic aluminum is a modern invention, and early on it was [incredibly expensi
 Archeologists tell of paleolithic burial sites containing seashells, artifacts, and minerals from thousands of miles away. It had felt hard to conceptualize a prehistoric trade network that could move goods so far, but the movement of these pots illustrate this beautifully.
 
 7.  ## They hate stepping on thorns but haven’t invented shoes
-    
+
 >
 > Walking entails certain kinds of risks. The Yąnomamö have no shoes or clothing, so thorns are always a problem. A party of 10 men can rarely go more than an hour without someone stopping suddenly, cursing, and sitting down to dig a thorn out of his foot with the tip of his arrow point. While their feet are hardened and thickly calloused, walking in streams and through muddy terrain softens the callouses and then the thorns can get deeply embedded.
 
@@ -180,14 +180,14 @@ That said, cane sandals don’t seem particularly [hard to make](https://www.you
 I’ve never worn cane sandals though, so maybe shoes below some level of sophistication just aren’t worth the fuss.
 
 8.  ## You can buy a canoe full of plantains for a few pocket knives
-    
+
 >
 > The Venezuelans who carried supplies upstream to the mission always bought plantains from the Yanomamo for ridiculously low prices and sold them for up to 800% profit
 
 This exchange rate surprised me, though I soon remembered traveling in developing regions and buying unbelievable bounties for pennies. With enough of a technology gap, this makes sense though; if a futuristic alien showed up and wanted your house in exchange for a teleporter or something, you’d probably take the deal.
 
 9.  ## Their “plant medicine” is more like PCP than ayahuasca
-    
+
 
 Psychoactive “plant medicines” like psilocybin, peyote, and ayahuasca are increasingly popular, and many have origins in indigenous cultures. They’re often used with the goal of reaching deep truths and higher levels of conscientiousness, and I’d expected to see this from the Yąnomamö as well.
 
@@ -200,10 +200,10 @@ However, continuing with their inconvenient flouting of stereotypes, the Yąnoma
 That said, there is some _hekura_ communing, so I can’t dismiss _ebene_ as a party drug entirely. Perhaps it’s similar to psychedelics in the west—there’s a consciousness vs. partying use-case divide.
 
 10.  ## They’re pretty good sports all in all
-     
+
 
 The author would constantly have things stolen from him, and eventually, he learned to ask a local child, who would cheerfully identify the culprit. The author would then go steal the offender’s hammock, forcing the thief to return the item and endure village taunts about getting so easily caught. That would be the end of it until inevitably something else was stolen and the process repeated itself.  
-  
+
 Once, in retaliation for stealing boards from his canoe, Chagnon set the perpetrators’ canoes loose into the river:
 
 > I then pulled out my hunting knife and, while their grins disappeared, cut each of their canoes loose, set it into the current, and let them float away. I left without further ado and without looking back.
@@ -219,9 +219,9 @@ The juxtaposition of nonstop aggression alongside the capacity for letting bygon
 Earlier editions of the book are something of a catalog of descriptions, while later editions are expanded and have a more narrative structure.
 
 Aside from my highlights, many of the book's factoids won’t be that surprising to anyone who’s seen a few nature documentaries; Changon doesn’t especially seem to be courting controversy, just depicting what he saw. It’s short for an anthropology book (the first edition is only ~140 pages), so worthwhile reading for those with particular anthropological interest or curiosity about the finer details of the above points.  
-  
+
 However, I think the biggest reason to read it is to travel to a world unlike your own. You may have experienced this before by reading old books; the world has evolved so much that even a mundane story from the 19th century will unintentionally illustrate dramatic changes.  
-  
+
 Tribal warfare in the Stone Age is about as far from our world as you can get, so _Yąnomamö’: The Fierce People_ is like an “old book” on jungle psychotropics. It will be harsh and possibly nauseating, but ultimately rewardingly mind-altering.
 
 * * *

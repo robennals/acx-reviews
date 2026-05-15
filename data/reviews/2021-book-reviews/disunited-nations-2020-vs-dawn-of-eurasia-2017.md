@@ -134,7 +134,7 @@ Maçães is not only more hopeful about China. He approvingly cites a quote in t
 > _“The weird makeup of the early-Disorder British economy— minimal European access, but large-scale North American access—makes the British dependent upon the Americans for growth. With the American population aging far more gracefully than the British, this dependency is for the long haul and will become more intense with every passing year.”_
 
 Where Zeihan’s future is “_unavoidable_”, Maçães’ is yet to be born, hopeful.  
-  
+
 Maçães’ is an altogether poetic vision, enthralled as he is by his subjects. His world is ancient or futuristic, lost cities and lost peoples (Circassians and Khazars), forgotten cities (Astrakhan), cities remade into the gaudy image of men, cities of the future, cities full of spies and lovers and adventurer archaeologists and diplomats and wily traders. Maçães is part Odysseus, enchanting us with his own travels and the tales that surround them. On the Caspian:
 
 > _“Stepan Razin, that impossible combination of Cossack and a Caribbean pirate, who set out for adventure and plunder on the Caspian, endlessly tormenting the Russians along the northern shore and Persians in the south until his gruesome execution in the Red Square in Moscow in 1671.”_

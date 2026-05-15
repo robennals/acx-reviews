@@ -44,13 +44,13 @@ BG give the following sketch:
 >                                                 
 >
 *                                                                                                    3  One’s “gender identity” is what disposes one to favor or avoid stereotypically feminine or masculine behaviors (or otherwise gendered behaviors).  
-                                                    
+
 *                                                                                                    4  It is possible for there to be a mismatch between one’s “gender identity” and one’s physiology (in particular one’s “assigned sex” or “natal sex”).  
-                                                    
+
 *                                                                                                    5  The frustration of these dispositions, or the presence of this sort of mismatch, results in a kind of distress known as “gender dysphoria” (or “gender incongruence”).  
-                                                    
+
 *                                                                                                    6  The alleviation of “gender dysphoria” is the legitimate purpose of medical transition.  
-                                                    
+
 *                                                                                                    7  It is one’s “gender identity”, and not one’s physiology, that properly determines whether one is a woman or a man (or both or neither).”
 
 This narrative is certainly better from a trans-friendly point of view than “your gender is determined inexorably by your physiology,” but upon reflection leaves us with some questions. For one, aren’t stereotypes supposed to be bad? If gender identity consists in whole or part of the propensity to “favor or avoid stereotypically feminine or masculine behaviors,” maybe the problem is just that behaviors get stereotyped in this way (with certain behaviors more problematic than others), rather than with our conception of gender. And if it is these collections of stereotypes that define the categories “man” and “woman,” shouldn’t we just do away with them to the extent possible?

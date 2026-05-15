@@ -215,17 +215,17 @@ You may have noticed some similarities between the plot of _Ollantay_ and the st
 Pretty much all of the questions surrounding the Túpac Amaru rebellion vanish if you assume that Túpac was not fighting a rebellion but following a script. Why did Túpac not immediately attack Cuzco? Because Ollantay didn’t. Why was he seemingly okay with his army losing its discipline? Because Ollantay was. Why did he put his army in a position to lose? Why was he okay with being taken alive, knowing how the Spanish dealt with rebels? Because Túpac was following the path set by Ollantay:
 
 *   First, declare yourself in rebellion.
-    
+
 *   Second, win a quick and easy victory with the help of stone-throwers.
-    
+
 *   Third, amass a giant army.
-    
+
 *   Fourth, hunker down at your base in the mountains and wait to be defeated by the new army sent from the capital.
-    
+
 *   Fifth, be brought to Cuzco and given authority over all of inner Peru.
-    
+
 *   Finally, use your new authority to improve the lives of all indigenous people and be remembered forever as a great ruler.
-    
+
 
 He made it all the way to step five before things went awry.
 
@@ -238,15 +238,15 @@ The first time I read _Ollantay_, I was sure that there was some mistake; that A
 So how much should we blame Don Antonio Valdez? Here are the theories I’ve seen of where Valdez’s version came from. All of these theories have their vigorous defenders.
 
 1.  Valdez came up with the whole play himself.
-    
+
 2.  Valdez took an existing Quechua oral tradition and set it in the form of a Castilian play.
-    
+
 3.  Valdez took an existing Quechua drama that had been acted for centuries and wrote it down.
-    
+
 4.  Valdez took an existing Quechua drama that had been acted for centuries, changed the ending so as to fit with his more romantic notions, and wrote it down.
-    
+
 5.  Valdez found a play that had already been written down in Castilian verse; all he had to do was hire actors to stage it.
-    
+
 
 It must be reiterated that scholarship on this point is incredibly varied. To quote one article that tries (and fails) to come to any sort of conclusion, “Certain scholars have said that the _Ollantay_ tradition, which exists yet today in Peru, is the source of the play; and others say that the play is the source of the tradition.” Which is to say that yes there are folk stories around Ollantay, and we have no idea whether they spawned the play or the play spawned them.
 
@@ -359,7 +359,7 @@ Here I’ll be quoting from Markham’s 1863 English translation. Markham tried 
 [11](https://www.astralcodexten.com/p/your-review-ollantay#footnote-anchor-11-167091288)
 
 For example:  
-  
+
 PIQUI CHAQUI.  
 (jumping up).  
 I was asleep, my master,  
@@ -381,13 +381,13 @@ And my ears a good deal longer.
 [12](https://www.astralcodexten.com/p/your-review-ollantay#footnote-anchor-12-167091288)
 
 She does have her own subplot, which I’ll tell in this footnote. The princess is confined to a prison within a religious order. She gives birth off-screen, and her daughter, who she names Yma Sumac, is raised in the convent to be a consecrated virgin. We then jump forward ten years, as Ollantay builds his kingdom in the mountains. Yma does not know that she is secretly Inca royalty, and she despairs at the life set before her. She also is very interested in learning why there is a crying woman behind the walls at the convent. This plot is resolved when Yma’s friend tells her everything and brings her to her mother. Yma then goes to tell the emperor, completely unaware of the events surrounding Ollantay. The emperor sends Yma to fetch the princess and bring her back to Ollantay. At no point do Yma or Ollantay acknowledge that she is his daughter.  
-  
+
 Wait, you say, wouldn’t it make more sense if Ollantay went to go rescue his wife and daughter after being made viceroy? If he had nothing to do with Yma’s discovery of her true parentage, then why did Yma have to wait ten years before peeking behind a wall to find her mother? These are all good questions! The answer is that _Ollantay_ has anticipated the Bechdel test by two hundred years and so is absolutely determined that any time there are two women in a scene together they must 1) have a conservation with each other that 2) is not about a man.
 
 [13](https://www.astralcodexten.com/p/your-review-ollantay#footnote-anchor-13-167091288)
 
 There’s also a good argument to be made that he changed the original ending, turning it from a tragedy to a triumph. That would explain the presence of this song in Act I, sung by a passing child to Coyllur:  
-  
+
 “She wanders forth from stone to stone,  
 She seeks her mate in vain;  
 ‘My love! my love!’ she makes her moan,  

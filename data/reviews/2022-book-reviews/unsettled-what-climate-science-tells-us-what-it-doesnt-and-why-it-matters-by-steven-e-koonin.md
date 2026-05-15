@@ -23,7 +23,7 @@ _Epistemic Status: A take on a book, its science, and the politics that make eve
 TL;DR: Climate change is real, climate science is hard, all models are wrong, and the world isn’t ending anytime soon (from the climate, anyway).  Also the media is useless.
 
 1.  ## My Motivation
-    
+
 
 My father is…conservative, both in a religious and political sense.  Growing up, he didn’t have the most flattering take on Global Warming/Climate Change.  Discussion of it in our house was often disparaging at best.  I can’t speak to where my father got his opinions from other than to note that it wasn’t from books (he seldom read them).
 
@@ -32,7 +32,7 @@ So imagine my surprise when my father, now retired, lends me a book on Climate C
 That book is Steven E. Koonin’s _[Unsettled](https://www.amazon.com/Unsettled-Climate-Science-Doesnt-Matters/dp/B0948623S1/ref=sr_1_1?keywords=unsettled+steven+koonin&qid=1648008609&sprefix=unsettled%2Caps%2C63&sr=8-1)__._  I figured it was worth writing about.
 
 2.  ## Koonin’s Motivation
-    
+
 
 ### Curriculum Vitae
 
@@ -102,7 +102,7 @@ Koonin writes:
 Unsettling indeed.
 
 3.  ## To Explain or Persuade?
-    
+
 
 That is the question that every climate scientist must face.
 
@@ -157,7 +157,7 @@ Or to take arms against the rising seas
 And by exaggerating end them.
 
 4.  ## Warming and Measurement
-    
+
 
 ### Core Questions and Uncertainty
 
@@ -232,7 +232,7 @@ In Koonin’s own words:
 > …the real question is not whether the globe has warmed recently, but rather to what extent this warming is being caused by humans.
 >
 5.  ## Human Influence
-    
+
 
 ### The Basics
 
@@ -319,7 +319,7 @@ This graph sums it up:
 ![](https://acximages.ennals.org/images/2022-book-reviews/112547df563a633a.png)
 
 6.  ## An Emissions Interlude
-    
+
 
 ### Carbon Concentrations
 
@@ -384,7 +384,7 @@ Koonin notes that higher-emission scenarios are now taken to be much less likely
 Cheerful.  On that note, let’s move on to a more uplifting topic: mathematical models!
 
 7.  ## All Models Are Wrong; Some Are Useful
-    
+
 
 ### What Climate Models Are
 
@@ -473,7 +473,7 @@ Koonin goes into more detail and with more recent data, but his overall point is
 So are the models all wrong?  Well, yes.  But as this section is titled, these models can still be useful.  They suggest general trends, and we have no other ways of attempting to predict what might happen in the future.  Generally speaking, though, any specific model or prediction should be taken with a large grain of salt.
 
 8.  ## The (Actual) Science
-    
+
 
 ### The Gist
 
@@ -736,7 +736,7 @@ The data in context:
 Sea levels _are_ rising as the globe warms - we just can’t untangle how much of that is due to human influences and how much is due to natural processes.  Granted, such uncertainties are small comfort to coastal developments, but even in the implausibly bad RCP8.5, the rate of rising water is only 8.4 mm/year - meaning that it would take more than a century for the oceans to be a meter higher, giving we humans time to adjust.
 
 9.  ## It Ain’t The End Of The World
-    
+
 
 ### Extreme Weather
 
@@ -801,7 +801,7 @@ He finishes with a comforting (or sobering, depending on your point of view) gra
 While the warming climate may delay the global economy’s growth, it won’t stop it, nor is it expected to hinder it much over the next century.
 
 10.  ## Politics and Science
-     
+
 
 After going through the science of what climate change is really doing, Koonin elaborates on who he thinks is responsible for the narrative of “The Science” being so misleading.  What follows is less science and more speculation and opinion.
 
@@ -893,7 +893,7 @@ He leaves us with a list of red flags to watch out for in writing about the clim
 These all seem reasonable to me, and contain echoes of Scott’s take on [bad science journalism](https://astralcodexten.substack.com/p/the-phrase-no-evidence-is-a-red-flag?s=r) and Zvi’s [Law of No Evidence](https://thezvi.substack.com/p/law-of-no-evidence?s=r).
 
 11.  ## Conclusion
-     
+
 
 _Unsettled_ is fundamentally a book about Science as an institution as seen through the lens of climate science, a place where the institutions of Science and Politics collide (along with being Koonin’s own domain of expertise).  Koonin seems to think - and I agree - that Science has come off the worse from the interaction, although he remains full of praise for most scientists and their actual work.
 

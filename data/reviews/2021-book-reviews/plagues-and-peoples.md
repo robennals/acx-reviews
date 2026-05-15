@@ -43,7 +43,7 @@ Until some enterprising early humans discovered the Mediterranean and the compar
 As society gets more complex, so does the relationship with microparasites. 
 
 The ecological population check of anciently co-evolved parasites in Africa didn’t work when humans left Africa. After killing all the big game in the world, people (independently across the globe) decided to domesticate an animal and grow some vegetables in their backyard. Eventually humans decided that instead of dealing with weeds and unpredictable backyard gardens, they will collaborate and build irrigation systems and monoculture. Humans escaped the tropical jungle to eventually settle down in warm, wet, dense irrigation farms.  
-  
+
 Here McNeill points to the blood fluke that causes schistosomiasis, “a nasty debilitating disease, affecting as many as 100 million people today.” Mollusks and humans are the fluke’s hosts, which swims around in water looking for the next snail or farmer. In humans, the disease is debilitating in childhood and is less acute, although still semi-debilitating, thereafter. Again, like trypanosome (and also malaria),  blood flukes' very complex life cycle seemingly indicates a lengthy evolution in respect to humans. Maybe blood fluke emerged from tropical Africa, but it spread widely through irrigation farming. 
 
 Here, it starts to get interesting. 
@@ -67,7 +67,7 @@ Establishing this type of diffusion of disease, he says, requires several thousa
 **Macroparasitism** 
 
 The host-parasite relationship mirrors subject-government relationship. “The entire process of adjustment between host and parasite may be conceived as a series of wavelike disturbances to pre-existing biological equilibria.” As McNeill paints the complexly evolving relationship between humans and parasites, he introduces government as humanity’s macroparasite.  
-  
+
 McNeill again,
 
 > “Only when civilized communities had built up certain level of wealth and skill did war and raiding become an economically viable enterprise. But seizing the harvest by force, if it led to speedy death of the agricultural workforce from starvation, was an unstable form of macroparasitism.”
@@ -111,31 +111,31 @@ We all kind of knew the narrative that the Spanish decimated the Aztecs and Maya
 McNeill provides as much detail and admits lack of detail as possible. The book is about on fifth footnotes. But the most convincing arguments for his narrative is the sum of parts that make up the narrative. I’m going to just list a few more examples that fit his framework because they are all interesting and also paint a more convincing picture of the importance microparasitism played in human history.
 
 *   The way that Europeans decimated Native Americans with smallpox blankets has been a key driver in ancient civilization expansion. The moment the city folk come in contact with tribes, smaller towns, anyone in the countryside they also bring the city folk diseases. This makes civilization expansion fundamentally easier. 
-    
+
 
 *   India’s caste system is a relic of living in a high disease gradient area and cohabitating between city folk, farmers, and others. The ‘untouchables’ makes a lot of sense in that framework. 
-    
+
 
 *   Many weird religious things that you’ve probably heard of fit in this framework like not eating pork and washing hands. In the year 2245 Martian kids will wonder why members of Church of the Crypto Spaghetti Monster on Earth all wear cloth over their mouths in public.
-    
+
 
 *   Mongol caravans introduced the plague to rats and then spread the plague rats across the world. The plague probably existed in say Yunnan, China where the locals had developed a complex set of myths and traditions to say, not eat rats. When the Mongols came they trapped the rats, got the plague and spread it in China. China’s population decreased from around 123 million in 1200 to around 65 million in 1331. Then the Mongols brought the rats to Europe 1346. 
-    
+
 
 *   The long term effects of the plague in Europe include anti semitism, less use of Latin, better painting, good European sensibilities of government, and more religious rigidity. No, I do not want to explain further. 
-    
+
 
 *   Since the Mediterrean is relatively disease free and overall pleasant, the Roman civilization ended up relatively top heavy and parasitic. It was too top heavy when epidemics arrived and the microparasites disrupted the balance.
-    
+
 
 *   Certain religions and forms of government evolve in certain disease gradients. 
-    
+
 
 *   [Australian rabbit populations](https://www.newyorker.com/magazine/2020/07/06/the-rabbit-outbreak) provide a fascinating view of virus-host evolution in fast forward. 
-    
+
 
 *   An entirely new pace of urban growth coincides with dramatically improving medical practices.  
-    
+
 
 **William H. McNeill versus Jared Diamond**
 

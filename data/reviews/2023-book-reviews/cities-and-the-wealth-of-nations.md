@@ -115,15 +115,15 @@ By the 1960s, only one old man was left. That’s when two foreign visitors, a G
 The Bardou story contains examples of several of the forces that import-replacing cities radiate, according to Jacobs. These forces are central to her thinking. There are five of them: 
 
 *   **Markets**. Cities house a lot of people who need a lot of goods and services, and are therefore strong markets to sell goods and services to. This was the force that acted on the Bardou area when it was a Roman mining region, and again today when it functions as a tourist spot for city vacationers. 
-    
+
 *   **Jobs**. Prosperous cities tend to attract people from elsewhere who come for work, which is what depopulated Bardou in the 19th and 20th centuries.
-    
+
 *   **Technology**. New things are disproportionately invented in cities, and only later do they affect other regions. Bardou received a windfall when the movie company rented it for location shots; that would obviously not have been possible before movie technology was invented.
-    
+
 *   **Transplants**. Sometimes cities send transplanted factories to other regions. (I don’t think that happened to Bardou.)
-    
+
 *   **Capital**. Cities can provide money directly to other regions, for instance as subsidies, loans, or development grants. I’m guessing that Bardou received some assistance from the French national or regional governments at some point.
-    
+
 
 These five forces determine pretty much everything that happens in rural regions. We can distinguish at least seven types of these regions, depending on which forces act upon them.
 
@@ -146,15 +146,15 @@ Shinohata is in Tochigi Prefecture, but I couldn’t figure out what its real na
 Rural regions far from import-replacing cities are generally less lucky. Their plights take different forms, depending on which of the five forces dominates the others.
 
 *   An oversized market force creates a **supply region**: a place that exploits agricultural or natural resources and exports them to distant cities. These regions (the most common in the world) can be rich or poor, but they’re never economically dynamic — and they’re very sensitive to disturbances in the markets that they serve. Jacobs’s example is Uruguay, a country that grew rich selling animal products to European cities in the early 20th century, but then suffered immensely when the market changed in the 1950s, propelling the nation into a succession of economic crises. 
-    
+
 *   An oversized jobs force creates a **region workers abandon**. When workers leave to work in distant cities, they improve their own situation, but their region of origin stagnates. This is true even if the workers send remittances, as in her main example, the town of Napizaro in rural Mexico. Most men from Napizaro work hundreds of kilometers north, in the factories of the dynamic city of Los Angeles. Even though they send back a lot of money to their families in Napizaro, Napizaro is never able to develop, because it imports everything it consumes and doesn’t replace those imports. 
-    
+
 *   An oversized technology force creates a **clearance region**. The example here is the Scottish Highlands, where a technological innovation was introduced in the late 18th century: a new breed of sheep. (Technically this was a rural invention, but the introduction to Scotland was devised by businessmen in London.) The new sheep greatly improved the yields from the land, but at the cost of violently displacing a large number of poor tenant farmers to make room for pastures. So it goes for other technologies, like farm machinery: when they are introduced to a poor rural region that isn’t integrated into an import-replacing economy, they just replace workers and leave them idle, poorer than before, or forced to emigrate. 
-    
+
 *   An oversized transplant force creates a **transplant economy**: a place that depends on industries that it did not generate itself. Getting a transplanted factory is always tempting for the governments of poor regions. But while the new jobs do alleviate poverty, transplants almost never lead to durable economic development (with rare exceptions, such as Taiwan). Jacobs has multiple examples, but the one I like most is Iran just before the revolution, when the Shah used oil money to buy a helicopter factory from the United States — thereby spurring a lot of development in the United States, where many companies got involved in building the factory, and almost none in Iran.
-    
+
 *   Finally, an oversized capital force creates an **artificial city region**. In the US, the Tennessee Valley Authority was a Depression Era program to develop a poor region using federal government money. The hydroelectric dams and other infrastructure that the money bought seemed to be great successes at first, and to be sure they did reduce poverty. But problems later appeared, and today the region isn’t particularly dynamic, in addition to being riddled with environmental issues. Jacobs explains that the federal aid could never truly help, because the Tennessee Valley has always lacked an import-replacing city. Subsidies, grants, and loans give at best the illusion of development.
-    
+
 
 None of these five types of rural regions tend to do great in the long run, unless they manage to generate an import-replacing city. But at least they receive _something_ from distant cities. It’s far worse when a region is untouched by city forces at all, as Bardou was for a long time. Or as was a hamlet in North Carolina that Jacobs calls “Henry” for anonymity reasons, but which we can safely reveal to be [Higgins](https://en.wikipedia.org/wiki/Higgins,_North_Carolina), in the Appalachian region. Here is what Higgins looked like in 2013 on Google Street View:
 
@@ -253,11 +253,11 @@ The rest of the nation or empire, then, declines. But of course, nations and emp
 Jacobs calls these false solutions **transactions of decline**. She identifies three types, and, content warning, you might not like some of them depending on your political sensibilities.
 
 *   Sustained **military production** is a transaction of decline. Permanent military bases and garrison towns are a special kind of settlement: they import a lot and export nothing. Superficially, producing weapons and supplies for the military seems like a good deal for some cities — Jacobs gives the example of Seattle, which, before Microsoft and Amazon were a thing, depended mostly on making military aircraft. But because nobody in a military base ever tries to replace those weapons and supplies with their own production, the trade is sterile in terms of economic development. In a sense, the wealth is slowly “drained” from cities. Large empires are especially prone to this: eventually all of their wealth is destined to the military just to keep the empire together. 
-    
+
 *   Maybe you’re a pacifist and are thinking, “well yeah, pouring money into the military is dumb, we should use the money to help people instead.” Well, Jane Jacobs has bad news for you. **Welfare programs** are also transactions of decline. They, too, drain the wealth away from cities. When the Canadian government takes production from the Toronto city region and redirects it to your choice of: 1) the poor province of New Brunswick; 2) unproductive retired people; 3) farmers who depend on agricultural subsidies, that’s production that Toronto could have exported to an economically dynamic city instead, fostering development in both. Poor regions on the receiving end might seem better off, but remember that they don’t develop from welfare: depending on the exact shape the aid takes, they become clearance regions, transplant economies, or artificial city regions.
-    
+
 *   The third transaction of decline is **heavy trade between advanced and backward cities**, especially on credit. Selling a helicopter factory to the Shah of Iran is fine if the Shah pays for it with oil, but if Iran buys the factory on a loan and fails to pay it back (as poor regions often do, and as Iran did due to the revolution), then that’s also wealth that is drained away from cities. Nor does this kind of trade help backward economies develop. You can’t replace imports from an economy that’s much more advanced than you are: the gulf is too great.
-    
+
 
 Let’s take a moment here to appreciate how Jacobs casually destroys ideas so many of us hold dear. Trade between rich and poor countries seems _obviously_ good. Military production isn’t exactly popular, but most people agree we need it for peace. The world would be far less safe without the military-backed Pax Americana. And welfare programs! Who wouldn’t want to send help to the poor, the unproductive, the retired? It seems inhumane to say that rich countries shouldn’t redistribute their wealth to alleviate poverty. 
 
@@ -338,31 +338,31 @@ So, to end this review on a more review-y note, go read Jane Jacobs. Her books a
 ## Image credits
 
 *   _**Cities and the Wealth of Nations**_ **book cover**: from [Amazon](https://www.amazon.com/Cities-Wealth-Nations-Principles-Economic/dp/0394729110?keywords=cities+and+the+wealth+of+nations&qid=1679610174).
-    
+
 *   _**The Question of Separatism**_ **book cover**: from [Amazon](https://www.amazon.com/Question-Separatism-Quebec-Struggle-Sovereignty/dp/0394509811?crid=12MKPBFYG2U22&keywords=the+question+of+separatism&qid=1679610276).
-    
+
 *   **Phillips curve**: from Phillips, A.W. (1958), The Relation Between Unemployment and the Rate of Change of Money Wage Rates in the United Kingdom, 1861–1957. _Economica_, 25: 283-299. [https://doi.org/10.1111/j.1468-0335.1958.tb00003.x](https://doi.org/10.1111/j.1468-0335.1958.tb00003.x)
-    
+
 *   **Our World in Data historical GDP charts**: from Our World in Data’s [article on economic growth](https://ourworldindata.org/economic-growth).
-    
+
 *   **Saugus Iron Works photograph**: By Daderot at the English-language Wikipedia, CC BY-SA 3.0. From [Wikimedia Commons](https://commons.wikimedia.org/w/index.php?curid=10748200).
-    
+
 *   **Bardou photograph**: By Ckeen - Own work, CC BY-SA 3.0. From [Wikimedia Commons](https://commons.wikimedia.org/w/index.php?curid=164777).
-    
+
 *   _**Shinohata**_ **book cover**: from [Penguin Random House Canada](https://www.penguinrandomhouse.ca/books/42051/shinohata-by-ronald-dore/9780307831934).
-    
+
 *   **Greater Tokyo Area map**: By Qrsk075 - Own work, CC BY-SA 3.0. From [Wikimedia](https://commons.wikimedia.org/w/index.php?curid=15541972).
-    
+
 *   **Higgins, North Carolina screenshot**: from [Google Street View](https://www.google.com/maps/@35.9566518,-82.3715803,3a,75y,319.61h,78.07t/data=!3m6!1e1!3m4!1sQo6HlG3MbDiVVvLhCjIL1A!2e0!7i13312!8i6656).
-    
+
 *   **Dominion of Canada map**: “Map of the Dominion of Canada Showing Location of Some of the Principal Products (1900)”. Found on [Flickr](https://www.flickr.com/photos/manitobamaps/3811643901).
-    
+
 *   **Golden Horseshoe map**: By Vidioman - Crop and trace of Image:Canada (geolocalisation).svg; trace of Image:Ontario subdivisions.PNG. From [Wikimedia Commons](https://commons.wikimedia.org/w/index.php?curid=2919445).
-    
+
 *   **Venetian ducat photograph**: By Classical Numismatic Group, Inc. http://www.cngcoins.com, CC BY-SA 3.0. From [Wikimedia Commons](https://commons.wikimedia.org/w/index.php?curid=687990).
-    
+
 *   **2023 French protests in Besançon photograph**: By Toufik-de-Planoise, CC BY-SA 4.0. From [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Manifestation_retraites_23_mars_2023_Besan%C3%A7on_Toufik-de-Planoise.jpg).
-    
+
 *   **Holy Roman Empire map**: “Deutschland im XIV. Jahrhundert”, Gustav Droysen, 1886. From [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Deutschland_im_XIV._Jahrhundert.jpg).
-    
+
 *   **Jane Jacobs portrait**: Ron Bull/Toronto Star

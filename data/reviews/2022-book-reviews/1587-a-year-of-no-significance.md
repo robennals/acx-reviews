@@ -274,11 +274,11 @@ The execution of prisoners of war was also done with theatrical ceremony:
 And can I just note that Huang's chapter headings reminded me of Borges' short story titles from his collection _A Universal History of Infamy_? For example:
 
 *   “The Implausible Imposter Tom Castro” vs. “Hai Jui the Eccentric Model Official”
-    
+
 *   “The Widow Ching - Pirate” vs. “The Living Ancestor”
-    
+
 *   “The Cruel Redeemer Lazarus Morell” vs. “Ch'i Chi-Kuang the Lonely General”
-    
+
 
 (Spoiler alert: all three examples are Borges vs. Huang.)
 

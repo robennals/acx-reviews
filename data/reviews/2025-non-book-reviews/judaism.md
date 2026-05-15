@@ -19,7 +19,7 @@ tags:
 
 Any review of Judaism must be insufficient, skewed. Overreaching statements, bombast, long digressions agonisingly cut. I’m sorry in advance. Here we go.
 
-  
+
 This review will be centered around Judaism’s four great strengths: law, persecution, comedy, and hats. At the end, we might spare a few sentences for her four great weaknesses: food, dance, fashion, and Tay-Sachs.
 
 ## Law
@@ -261,7 +261,7 @@ I wish I knew enough to explain what is going on here. Really, I do. I thought a
 
 But, in the end, I decided that my ignorance would be a teaching moment. The lesson is important, and it’s kinda the same as the point I started with.
 
-  
+
 Even though I’m the guy teaching you about Judaism, I still barely have any idea what’s going on. And to be honest, I’m not entirely sure that the vastness of the machinery can be fully understood by a single person. There are people who spend their whole lives on it, and still barely grasp their own small section of the edifice.
 
 As Rabbi Eliezer [said on his deathbed](https://www.sefaria.org/Sanhedrin.68a.5?lang=en):

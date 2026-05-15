@@ -143,9 +143,9 @@ Most of the US, however, have action-based laws. California, specifically, had t
 
 *   1956, the pipeline was constructed. No specific laws apply, however industry mostly followed the standard ASME B31.1.8 (1955), which stated that new lines shall be hydrotested to a factor above maximum allowable operating pressure (MAOP).  
     Line 132 was not hydrotested at construction (there’s no record, and it probably would have failed if it was tested)  
-    
+
 *   1961, California General Order 112 - new pipelines are to be hydrotested to ASME B31.1 (1958), however nothing about old pipelines specifically.  
-    
+
 *   1970, Federal 49 CFR 192.505 - new pipelines are to be hydrotested to 1.5 x MAOP, however a grandfathering clause explicitly states that for existing lines, MAOP shall be the highest pressure the line has been exposed to prior to 1 July 1970
 *   2004, Federal 49 CFR 192.917(e) - existing lines must be hydrotested if operating pressure rises above pressure seen in the last 5 years
 

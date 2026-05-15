@@ -70,7 +70,7 @@ As cleaners that come in spray bottles go, here is one that’s considered fairl
 ![](https://acximages.ennals.org/images/2025-non-book-reviews/2258b654a5c5b922.png) 
 
 Look at those pretty bottles. So colorful. That’s this company’s whole jam - bottles and ad copy. Here’s a brush from the same company, or at least the same store you’d buy the soap at:  
-  
+
 ![](https://acximages.ennals.org/images/2025-non-book-reviews/45a67aeea5cad039.png)
 
 The copy that the company uses to sell either is about as attractive. Here, they say, is a sustainable product made with delightfully crunchy ingredients, each more hippy-commune than the last. They are “natural”. They are, I swear this is true, a scented summer-specific collection.
@@ -174,7 +174,7 @@ You will, with vigor, scrub every inch of the toilet while paying special attent
 Accept the fact, reject the negativity. The wipe is coming.
 
 Once the toilet is scrubbed, you are going to work the first of two cycles of wiping. This is a one-rag job. What you are looking to do is clean up the majority of the cleaner and detritus in one go. This is where you will begin to see the fruits of your labors but various stray hairs and lint will still mock you from the otherwise beautiful surface.  
-  
+
 Your secondary wipe, using a fresh cloth, is meant to clear the battlefield of all such stragglers. If you use the first rag here, you leave behind as much as you take away. A clean cloth (especially if it’s a folded-over paper towel) will leave you with nothing but pristine white.
 
 At the end, you will stand above the commode in victory, wiping the edges of the hinges clear of the last bits of detergent. The bowl is mostly a function of the same kinds of efforts, only subbing in repeated flushing for the work of the rag and allowing a toilet brush to do the work of your hand-scrubber. The only exception here is stains or discoloration. The cleaning supply industry knows you see these as _infections of color_ and will try to sell you bleach products for them. This is because you are stupid. Don't worry; we all were as you once.

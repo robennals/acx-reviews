@@ -36,7 +36,7 @@ GTD is another tool that can “help anyone achieve their aims”. If Ord’s sp
 
 **II.**
 
-  
+
 A caveat before you start implementing GTD: It’s likely that your first implementation of it will fail. Most people need several attempts before it’s automated to the point where it’s just “how you do things”. There’s a fairly obvious chain of causality behind that:
 
 You approach or hit a limit of your ability to stay on top of stuff in your life → You become interested in methods to get better organized/more productive, finding GTD → Setting up a GTD-like system requires additional cognitive bandwidth, using up the remaining slack in your system → a minor additional demand (work deadline, social occasion, whatever) pushes you over your limit → giving up GTD is more feasible than giving up anything else → You revert to your previous system of organization.
@@ -81,7 +81,7 @@ This is where the various implementations of GTD differ the most, and where it�
 
 This is another step that _**must not be skipped**_. The reason is that your brain needs to trust you, on a gut level, that the stuff you got out of your brain and into your system will actually be dealt with. Otherwise, it will keep reminding you of it and you haven’t freed up your cognitive bandwidth. Allen suggests doing this in a Weekly Review process. He says it’s the time to “gather and process all your ‘stuff’, review your system, update your lists, get clean, clear, current and complete”. Put differently, the goal of this step is to make sure your mind is clear and you’ve captured everything, and that your attention is directed appropriately in the time to come (so you’re aware of deadlines, etc.) This is another area where experimenting is worthwhile.
 
-  
+
 5) Doing it.
 
 You may have noticed that there is no sorting by priorities in the steps above. If you’re diligent about regularly reviewing and not putting stuff on your calendar that doesn’t belong there, you need day-to-day-prioritizing much less than you think. Nonetheless, many implementations include priorisation (including Everdo). Again, find what works for you.

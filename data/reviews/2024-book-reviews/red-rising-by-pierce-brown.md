@@ -26,7 +26,7 @@ Belief in liberal democracy is predicated on social equality. Everyone deserves 
 This is the world of the _[Red Rising](https://www.amazon.com/gp/product/0345539788/)_ saga by Pierce Brown. Let me warn you now that most of the first book takes the form of a bunch of young adults thrown into an arena where they fight each other. At this point, your initial reaction is probably disgust at the thought of reading a YA fiction novel filled with tripe. What kind of self-respecting ACX member would be caught reading a Hunger Games rip off? If you didn't know, the Hunger Games is actually a rip off of Battle Royale, where a fictitious fascist government controls society by forcing Japanese schoolkids to kill each other off, spreading division and fear. So don't worry about _Red Rising_, it's a much higher form of tripe than YA fiction.
 
 1.  ## Per Aspera Ad Astra  
-    
+
 
 Every story starts at the beginning. Thus, this review will start before the beginning.
 
@@ -40,7 +40,7 @@ Initially, the class system was formal but not intrinsically tied to the attribu
 
 The authoritarian nature of the society combined with the extreme specialization of labor made it very effective at ordering growth and exploiting resources. As time goes on, the society grows in power and expands from the moon. The nation-states of Earth naturally resent the growing power of their colony while simultaneously wanting to extract a greater share of its burgeoning wealth. In a well-trod historical tradition, this causes a war between the colony and their overlords.
 
-  
+
 The colonists are mostly composed of the highly intelligent, skilled, and adventurous type of people that would be needed to survive off Earth. They are lead by a ruthless and competent elite class that rules with an iron fist. Think of 1940 Germany, with its Prussian officer class trained in a tradition of aggressive mobile warfare. The French army, despite being bigger and better equipped on paper, was destroyed in what is perhaps the most decisive defeat of a peer nation in modern military history. Except the colonists are also the kind of people that can put together the Manhattan Project. In short, Earth loses and surrenders unconditionally.
 
 There was one notable road bump on the path to victory: America. The Americans, or at least some vague American-ish power bloc, developed an autonomous fighting force. Whether this meant robots under some central command or robots acting individually or an AI controlling robots is pretty vague. This force was lead by a human general, but that doesn't really clarify any of the above. At any rate, this army goes rogue, at least in part due to its non-human nature. It inflicts massive damage on the colonist forces, but even more on the Terrans. Eventually it is destroyed. The colonists were so traumatized by this that they outlaw AI/robotics and even thinking of using them is a major taboo. If this all seems really vague and not deeply thought out, just accept it as an excuse for why the author wanted to write about the future but not AI or robots.
@@ -57,7 +57,7 @@ There were still hundreds of millions of Terran people left over after the ravag
 *           Genocide everyone else that they had no use for
 >
 2.  ## The Society of The Society  
-    
+
 
 Readers who have been paying attention might notice that I keep using terms like the society or the pyramid. This is because the author creatively termed his civilization The Society, and the caste system is organized into a pyramid. Keeping with this wildly creative tradition, the ruling executive's title is The Sovereign. At the top of this pyramid are the philosopher-kings, the ruling elite, golds. The tier below them is occupied by silvers (financiers), whites (ritual functionaries), and coppers (bureaucrats). These top two tiers are collectively known as the high colors. Third tier members include blues (spaceship crew), greens (programmers), yellows (doctors/scientists), violets (artists), and oranges (engineers). Below this tier are the greys, which make up the police and military forces. These are collectively the mid colors. Tier 5 is made up of browns (menial laborers), obisidians (warriors), and pinks (entertainers). At the absolute bottom tier are the reds, manual laborers who toil away in the mines or fields.
 
@@ -86,7 +86,7 @@ By this point, the peanut gallery is probably wondering why I'm spending such an
 Full disclosure, prioritizing world building over narrative might just be a me problem. When I read the _Night's Dawn_ trilogy by Peter F. Hamilton, I found the idea of people who were telepathically bonded to living coral spaceships and space stations far more interesting than the main plot. Which was about the souls of the dead actually going to a different dimension, and coming back to repossess the living due to a freak physics experiment gone wrong. "I want to hear about that book!", chimes in the peanut gallery. Hush!
 
 3.  ## Metamorphosis
-    
+
 
 Every story starts at the beginning. Except when the author makes the inciting incident occur before the book takes place, which is usually a terrible idea unless the author is particularly talented. Our story starts with Darrow of Lykos, Darrow the red. You might have noticed that there is a glaring inconsistency in the caste pyramid. Each tier is played off between the others, kept in line by those at the top and their relative privilege over the tier below. The bottom tier has no one below it, and no higher relative status or privilege over anyone. The reds are at the bottom rung, with the most to gain and the least to lose from disrupting the Society. Where else could our unlikely hero emerge from but the reds?
 
@@ -113,7 +113,7 @@ When the Society was first created, this was as simple as changing clothes. Late
 Enlisting the help of an egoistic violet, Darrow is transformed. He spends weeks at a time on the surgical table, alternately unable to see or hear as his sense organs are worked on. All this time is spent training his mind and body to think and act like a gold. He needs to know not just what to say but how to say it. Imagine trying to prep a boy who spent his whole life in Cockney for tea with the Queen. At the end of it all, Darrow walks over to a mirror and sees the thing he hates most in life staring back at him: Gold.
 
 4.  ## Battle Royale  
-    
+
 
 A short digression here on the weaponry of _Red Rising_. Golds, and possibly some high ranking greys or obsidians, have kinetic shields. Shields act much like plate armor for medieval knights before the advent of gunpowder. Getting shot by an arrow might not feel very good, but it won't kill you like a peasant wearing padded cloth. There are certain ages in military history where the dominance of certain technological factors changes how wars are fought. In both the Napoleonic wars and WWII, mobility and maneuver were paramount. Yet WWI was mostly fought in static trenches, because the communication (telephone) and transport (trains) technology was slow to deploy and heavily favored defense. Here, shields represent a technological edge built towards defense, at least for the wealthy. Absent technological progress that invalidates it (think going from mechanical projectile systems like a bow & arrow to chemical projectile systems like guns), the shield rules the battlefield.  
 
@@ -150,7 +150,7 @@ Being “enslaved” means a student is destined to score poorly at the Institut
 While this is a much better plan, it puts Darrow into a dilemma. He needs to free the slaves (which stand in for the low colors), but he can't do it without Mustang's help (standing in for the elite of gold society). If he wants to make a better world, Darrow has to truly become a gold. He has to be the golds' friend, their confidant, if necessary to gather the support for his slave revolt. As Darrow and Mustang set out on this path and gather more golds to their standard, he finds himself surrounded by deeply intelligent and charismatic people. Are they really such monsters? Can he cruelly use people who are becoming his friends to achieve his ends? If he finds himself falling in love? How far will he go for freedom, and who will he be at the end of that path?  
 
 5.  ## Finis  
-    
+
 
 I was hesitant to review a fiction book for ACX. A lot of the power in a story is wasted if the various conflicts are spoiled. Hopefully I balanced a thorough review while still being vague enough that any potential readers can still enjoy the book. Also, fiction is generally written primarily to entertain, rather than educate. I think Pierce Brown did a fantastic job building a world that explores how people are held apart and brought together. Even down to the finer details, like the cognitive dissonance around the lower colors. A gold has to simultaneously believe in being a philosopher-king to guide the less well off, and a master that has to keep the unruly slaves in line. The Society is an organism that just wants to survive, and it needs people to do that. But people need to survive too. The Society was cruel by necessity, to survive on the moon. Then it was cruel by choice, in the aftermath of the war with Earth. By the time of Darrow, it is cruel by tradition.  
 

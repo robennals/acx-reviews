@@ -89,7 +89,7 @@ So now for the big reveal - what _are_ these Moral Foundations? Let’s go over 
 Also keep in mind that there could be a utilitarian justification for some of these foundations, but intuitions come first, even if expected utility and game theory are the reasons these intuitions evolved, which we’ll get into later.
 
 1.  ### Care / harm
-    
+
 
 We should care for other people and not harm them, especially the weak. This one is the most intuitive to many people. If an action harms people (sometimes also animals), it is morally wrong. If a group of people gang up on a woman, and beat her unconscious for the fun of it - that’s wrong. They are violating the care foundation. Helping a blind person cross the street is morally good. As we said, many people seem to think care / harm is the only admissible foundation for something being morally right or wrong. Now, harm is not a synonym for “lowered total expected utility”. This foundation is triggered especially by direct bodily harm, a thing which we have intuitions about. There are films where the hero is a bank robber, but not where the hero is a child abuser. Probably because a bank robbery is an indirect harm. Similarly, we have to force ourselves to realize that tax evasion causes more damage than car theft.
 
@@ -108,14 +108,14 @@ They tested these on US college students. Many subjects in fact said these were 
 This is in contrast to people in less [WEIRD](https://www.wikiwand.com/en/The_WEIRDest_People_in_the_World) cultures, or even working class subjects in the US, who were more comfortable condemning an action as morally wrong without a harm justification, or even without any reasoned justification at all.
 
 2.  ### Fairness / cheating
-    
+
 
 Abide by the rules, don’t cheat. Someone who says he is collecting donations for a charity, but at the end of the day takes it to himself is violating the Fairness foundation. A runner taking a shortcut on the course during the marathon in order to win is violating the Fairness foundation. Even if it’s an amateur race and nothing is at stake, and even if the runner would benefit more from the victory than the others. It’s just wrong to cheat.
 
 You can ask where these rules you should abide by come from, and there could be disagreement which makes people judge fairness differently. For example, if you’re against the concept of individual property, maybe theft is not a fairness violation. But regardless, if something is perceived to break the agreed-upon rules, it is judged as wrong.
 
 3.  ### Loyalty / betrayal
-    
+
 
 Be loyal to your in-group, don’t betray the group or its people. A man leaving his family business to go work for their main competitor violates the loyalty foundation. So is a man secretly voting against his wife in a local beauty pageant. To really trigger this one, you have to [find your in-group](https://slatestarcodex.com/2014/09/30/i-can-tolerate-anything-except-the-outgroup/). For example, I think of how betrayed and angry I felt when doctors or scientists came out against COVID vaccines or denied COVID was dangerous, using pseudo-scientific arguments and bad statistics but mostly their status, thus giving fodder to crazy conspiracy theorists and anti-vaxxers.
 
@@ -126,12 +126,12 @@ As a side note, Haidt gives the best explanation I’ve ever heard for the popul
 Being a sports fan feels good because it’s a loyalty rush. That’s why people want to be in the stadium, even if it’s cold and they actually see the plays in a way that’s inferior to their TV at home. It’s not about the plays, it’s about being a fan with others. More on this later.
 
 4.  ### Authority / subversion
-    
+
 
 Respect authority, do not subvert it or deny it. A woman refusing to stand when the judge walks into the courtroom is violating the authority foundation. So is someone who, on his first day at a job, loudly proclaims that his managers don’t understand their business and he has a better business plan. It used to be that a sports star refusing to kneel during the national anthem would have been a good example, but that has gotten into the culture war blender and now it’s just another tribal marker. Again, to really trigger this one, you have to find a true figure of authority for you. How about someone interrupting a scientific conference on genetics with screams that the study of genetics is racist? How about slapping your father (with his permission) as part of a comedy skit? If not, forget it, it’s all a theory about _other_ people’s moral intuitions. But if you feel a pang saying it’s wrong, but think “well, it’s because it harms this or that person” then hold off on the justification.
 
 5.  ### Sanctity / degradation
-    
+
 
 Some things are sacred and should not be defiled. They have value that is not just instrumental, and degrading them with things that are unclean is wrong. One of those is your body - it’s not just a slab of meat. The vignettes above about eating the carcass of the family dog, and the sex with the chicken, are violations of the sanctity foundation. Someone peeing on a tombstone is grossly violating the sanctity foundation. So is someone spraying graffiti on [Half Dome](https://en.wikipedia.org/wiki/Half_Dome). If you want to trigger this foundation, you need to find what is sacred to you. For me, it’s very hard to scribble in a book, and tearing out a page is unthinkable, because books hold some sacred value to me. Religion is full of sanctity of course, so speaking the name of God inside a toilet is forbidden, or even placing a bible on the floor.
 

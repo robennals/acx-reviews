@@ -213,11 +213,11 @@ But I’m pretty sympathetic to Galen’s position, because his contemporaries r
 Some of the positions he argues against include:
 
 *   Urine passes into the bladder in the form of vapors, rather than being secreted by the kidneys and passed through the ureters to the bladder. Galen argues against this first by pointing out that the kidneys and bladder are connected by the ureters (which must have some purpose), and second by the extensive evidence from vivisection that I mentioned above.
-    
+
 *   Fetuses are constructed piecemeal in the uterus, instead of beginning small and growing to the size they are at birth. Galen argues against this by describing an observation mentioned by Hippocrates, where he saw a very early miscarriage in which he noticed that the heart of the fetus was “so small as to differ in no respect from a millet-seed, or, if you will, a bean.”
-    
+
 *   Swallowing is powered by the “impulse from above” (I think he means gravity), rather than the action of the muscles. Galen argues against this first by pointing out that the “oblique situation of the gullet” means that gravity wouldn’t be sufficient, and second by describing vivisections he had conducted that showed swallowing to be caused by the action of different parts of esophagus. He also mentions something about pouring water down a dead man’s throat, but I didn’t understand that part of the argument.
-    
+
 
 Galen is certainly right about some things and wrong about other things. He mentions that the veins and arteries are connected to each other, something that had apparently escaped everyone else’s notice. But he also thinks that air is taken in through the capillaries near the skin. He has some unusual ideas about pregnancy, and reports that corn will spontaneously draw water out of nearby earthen jars and increase in weight, which I’m pretty sure is not true. But compared to his contemporaries, he seems to be very much on the right track.
 

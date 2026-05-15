@@ -21,19 +21,19 @@ A feminist take on evolutionary history might be a bit of a hard sell for ACX re
 As the title would suggest _Eve_ is an exploration of human evolution through the lens of the female body. Which in retrospect seems like the obvious way to look at evolution, given that it’s where 99% of the whole reproduction business seems to be going on. The book structures itself as a journey through time, with each chapter focusing on the history of a particular evolutionary trait and it’s associated female ancestor, or “Eves” as the book likes to call them. These range from the first mammal to produce milk up to modern _homo sapiens_. Although really _Eve_ is anything but linear. One minute we’re talking about breastfeeding rodents, then wet nursing in ancient Babylon, the next we’re reading about Hillary Clinton and howler monkeys. It’s an evolutionary journey, yes, but one with flashbacks and flashforwards and more than a few diversions along the way. Here’s a far from an exhaustive list of interesting things I learned along the way:
 
 1.  ##   Breasts are A Communication Platform
-    
+
 
 I was vaguely aware that breastfeeding played a role in building a babies immune system before reading _Eve_ and that breasts were a bit more than just milk dispensation nozzles. But it’s even more complicated than that. Think of breasts as more of an elaborate baby-to-mother docking port where biological information flows both ways. The baby is getting hormonal signals from the mother that convey her current stress level, which in turn shapes the babies behavior. Rats, mice and monkeys fed on milk low in stress hormones are playful and adventurous while those fed on high-stress milk are skittish and antisocial. But the baby’s backwashed saliva also informs the mother what sort of milk they need. A mother’s breast milk will change composition to fight off infections, adjust nutritional needs or work as an analgesic for a baby in pain.
 
 2.  ##  Wombs are Weirder than you Think
-    
+
 
 You probably know that the human reproductive system is a mess. Narrow, upright walking hips and giant heads led to a protracted and difficult birthing process with a high chance of killing or permanently harming the mother. _Eve_ introduced me to a few new glaring design flaws, like how the downward pressure from standing upright squishes down our organs on top of the womb. Or how the fetus and it’s mother are basically at war with each other over the course of the pregnancy. After implantation, the placenta sends cells called trophoblasts into the uterine lining. These trophoblasts attack the mother’s uterine arteries in order to try to gain more nutrients for the fetus. The mother’s immune system fights back, but the fetus deploys a bunch of clever tricks to get around this, like attacking nearby veins with something called placental protein 13 (Or PP13) which inflames the area and keeps the immune system distracted. Throughout the book Bohannan’s tone while describing the female reproductive system fluctuates between loving and lovecraftian, which having finished the book, doesn’t strike me as too inaccurate.
 
 Our wombs aren't even the weirdest in the animal kingdom. Marsupials have multiple wombs and vaginas, as well as corresponding forked penises to match. The embryos of sharks that give live birth are free to swim between their mothers multiple uteri, feeding on a nutritional mucus instead of a placental connection, even poking their heads out of the cervix on occasion. Birds don’t have penises but instead mate with a sort of ‘cloacal kiss’. Oh except maybe male weaver birds who have a sort of pseudo-clitorus. I’ll let the diagrams below illustrate just how weird they can get.
 
 3.  ##  Get Pregnant, Develop your Brain
-    
+
 
 During childhood the human brain is continually rebuilding itself, blooming with interconnecting neurons then pruning them back to something more manageable.There are a couple phases in which the brain gets particularly busy, particularly around the phases that tend to be the most emotionally tumultuous, early childhood and adolescence. This restructuring lasts until our mid twenties when things finally start to settle down.  
 
@@ -42,7 +42,7 @@ But there’s a secret bonus phase of brain development that only pregnant women
 This seems massively understudied. Bohannon couldn't even find whether this occurred in every pregnancy or just someone's first. I’m very curious if this can be used therapeutically in some way. Readers are invited to get impregnated and report back.
 
 4.  ##  When in Danger, Grab a Friendly Toddler
-    
+
 
 This, according to Eve, is the origin of human monogamy and patriarchy. You see, at some point our ancestors made the switch from a bonobo-like social structure, which was matriarchal, matrilocal, (females stick around while males ‘marry out’ to other groups), and very very promiscuous, to the typically patriarchal, patrilocal, and monogamous social structures common today. So why did the switch happen? And how? A patrilineal system seems like a non-starter when no one can tell which child belongs to which father.
 

@@ -27,11 +27,11 @@ This quirk of mine becomes especially obvious when dating. Many of my dates turn
 This repeated pattern in my dating life has taught me three things:
 
 1.  I am _terrible_ at small talk.
-    
+
 2.  Most men are not accustomed to genuine questions about their well-being, and will often respond with a desperate upwelling of emotion.
-    
+
 3.  The men are not alright.
-    
+
 
 This is a review of dating men in the Bay Area. But more than that, it’s an attempt to explain those unofficial therapy sessions to people who never get to hear them. It’s a review of the various forms of neglect and abuse society inflicts upon men, and the inevitable consequences to their happiness and romantic partnerships.
 
@@ -90,46 +90,46 @@ The first rule of the Modern Map to Manhood is that you don’t talk about the M
 So if you squint hard enough at the murky sea of conversation about gender, you can make out the following steps to become a man:
 
 1.  **Reject toxic masculinity.**
-    
+
     1.  It’s your job to understand what this means, despite the definition of “toxic masculinity” being nebulous and ever-changing.
-        
+
     2.  If you’re uncertain whether you fit the definition, you’re probably doing something wrong and should feel ashamed. To play it safe, act as demure as possible and avoid risk-taking.
-        
+
         1.  If you adopt these mannerisms and it harms your romantic pursuits, do not complain.
-            
+
 
 2.  **Be your authentic self!**
-    
+
     1.  Your authentic self should not be: dominant, highly interested in sex, competitive, emotionally reserved, prone to risk-taking, bad at reading emotions, stoic, or interested in power.
-        
+
     2.  You should consider many of your “masculine” personality traits to be symptoms of a poisoned society, rather than potentially inborn characteristics, and feel ashamed if they exist within you.
-        
+
         1.  Don’t bring up the multitude of scientific studies that question this belief.
-            
+
     3.  Once you figure out how to repress unwanted traits, people may still decide that Yourself ™ is unwanted or problematic. It’s _your_ responsibility to figure out their concerns and how to accommodate them.
-        
+
 
 3.  **Provide for and protect others.**
-    
+
     1.  It’s your duty to use your privileges and strength as a man to defend the weak and uplift the less-privileged.
-        
+
     2.  Understand that “providing” doesn’t mean making money and “protecting” doesn’t mean physical protection; those are outdated concepts that reinforce the patriarchy. Provide _emotionally_ and protect against _systemic injustices_.
-        
+
         1.  If you fail to provide money and physical protection (or at least a physically capable physique), you’ll be locked out of many relationships. But don’t complain about this discrepancy between stated and actual expectations.
-            
+
 
 4.  **Stop obsessing over “being a man.”**
-    
+
     1.  Gender roles are toxic, especially masculine ones, and it’s pathetic to care so much about being manly.
-        
+
         1.  Yes, gender is so vital to our self-identity that many trans individuals would rather commit suicide than be forced to repress their gender. But it’s toxic for biological men to adopt manhood as a vital part of their identity, so just stop it.
-            
+
 
 5.  **Don’t expect anything in return for fulfilling these requirements.**
-    
+
 
 1.  This would be demanding a reward for meeting the bare minimum requirements, and that would make you gross and entitled.
-    
+
 
 This is the new guidance we’re tossing at young men. It’s the equivalent of taking away GPS from a driver and handing them a map scrawled by a half-blind cartographer tripping on acid.
 
@@ -686,7 +686,7 @@ Society owes it to young men to draft a new map for them, one with more positivi
 I have many ideas about potential fixes and additions to the Modern Map to Manhood, but there are five that I feel are most important:
 
 1.  **Encourage positive male role models to provide detailed directions on how to “become a man.”**
-    
+
 
 Prior cultures have had granular stepping stones toward manhood for a reason: young minds thrive on concrete goals and specific examples. We need more high-profile, morally-sound men who openly discuss what it’s like to live with a testosterone-dominated body and how they learned to channel their natural instincts into positive and productive outcomes.
 
@@ -701,7 +701,7 @@ Positivity needs to be woven into the core of the message; we need more “dos�
 There is no one “right way” to be a man, just as there is no one right way to be a woman. But we need to provide young men with varied, concrete examples of manhood, highlight the positivity that each form of manhood brings the world, and provide stepping-stones for becoming each type.
 
 2.  **Stigmatize sexist behavior toward men.**
-    
+
 
 There is currently a double-standard when it comes to sexism. For many decades, there has been rightful backlash against sexist behavior toward women; after millenia of horrific treatment of women in Western society, this focus makes sense. Yet there is an increasingly vocal minority that has decided “protecting women” is a zero sum game, and demeaning men and ignoring their concerns will somehow improve the lives of women.
 
@@ -718,7 +718,7 @@ Being bigoted toward a group of people is destructive, immature, and harmful. Eq
 Sexism matters, in all forms. It’s horrible, and no one deserves it, so let’s make it unacceptable behavior for _anyone_ to display, regardless of their gender.
 
 3.  **Remind men of their worth.**
-    
+
 
 There’s a strange creed within much of polite society that insists men don’t need to be reminded of their worth, because they are privileged. In fact, some insist that reminding men of their worth might even make the privilege disparity _worse._
 
@@ -729,7 +729,7 @@ Men need to know that we care. They need to know that they’re worthy of respec
 No one should ever feel ashamed or unworthy because of an inherent trait. Boys should be just as proud of their gender as girls are, and we can accomplish this by celebrating the beauties of both identities.
 
 4.  **Encourage men to discuss the issues they face, and listen to them.**
-    
+
 
 There is currently a confusing contradiction when it comes to vocalizing the issues impacting men. On one hand, polite society insists the patriarchy has stifled men’s emotions, and they need to be better about discussing their thoughts, feelings, and concerns. Yet when men oblige and try to discuss the serious issues they face, they’re often berated for being sexist, told these problems are their own fault, or have their concerns dismissed as “lesser” than those faced by other demographics.
 
@@ -748,7 +748,7 @@ Yet when men’s issues are involved, polite society suddenly balks at their own
 This needs to stop. Polite society needs to get better at saying, “Men are hurting, and we care about their specific needs, and we want to hear from them and make things better for them.” Until that can be accomplished without triggering backlash and infighting, we are doomed to lose more and more young men to the alt-right.
 
 5.  **Openly acknowledge that men and women share some biological differences, and embrace the beauty of this diversity.**
-    
+
 
 Within polite society, there’s a strange insistence for men to be their true selves, yet a rejection of the idea that the average man could, perhaps, _just maybe_, be biologically programmed to act differently than the average woman, like all species closely related to us.
 

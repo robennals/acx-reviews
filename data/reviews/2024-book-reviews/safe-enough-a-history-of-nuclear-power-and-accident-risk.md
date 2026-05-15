@@ -26,7 +26,7 @@ _“If you’re not [pursuing safety] cost-effectively, you’re killing people.
 —David Okrent, former member of the Advisory Committee on Reactor Safeguards
 
 1.  ## Enlightenment Faith
-    
+
 
 _Safe Enough?_ is the heartbreaking story of an industry that tried to move fast and break things, and in the process ended up completely broken. But it is also a cautiously hopeful tale of repeated attempts to resuscitate nuclear power through the arduous, and often controversial, process of Probabilistic Risk Assessment (PRA). While it doesn’t fully explain what went wrong with nuclear power, or whether it can be fixed, this book fills in some of the gaps, without the ideological blinders that often define the popular debate.
 
@@ -39,7 +39,7 @@ This argument plays directly to my biases: PRA is sometimes called “the ration
 To understand the problems nuclear energy faced in its early years, we need a bit of context: the terrific speed of its arrival and the excitement that surrounded it. Energy industry insiders never really believed nuclear would make electricity “too cheap to meter” (they expected capital costs to be higher than a coal plant’s, due to the more complex equipment and the need to protect the workers from radiation), but they did see it as a manifestation of science and of humanity's bright future, and the obvious solution to rapidly rising demand for electricity. Its promise was threefold: compared to coal or oil, it would have low fuel costs, run on practically inexhaustible reserves of uranium, and create no air pollution. Most experts thought of major nuclear accidents as a remote possibility that barely merited concern. The sooner the transition to energy abundance could happen, the better.
 
 2.  ## Crash Course
-    
+
 
 Twenty-five years after the Wright brothers flew the first airplane, the state of the art in commercial air travel was the Boeing 40B, an open-cockpit biplane that could hold up to four passengers. It mainly carried mail, a program the government introduced to encourage the industry because passenger travel was so unprofitable.
 
@@ -76,7 +76,7 @@ Phenomena during a severe accident had not been thoroughly studied [[ref](https:
 It was a crude approach. The AEC didn't really know whether these protections would be “adequate,” per their regulatory directive, nor could they know if some of their requirements were excessive. The plan, it seems, was to figure things out as they went along.
 
 3.  ## Bandwagon Market and Turnkey Power Plants
-    
+
 
 As it turned out, that plan would be severely challenged by the explosive growth of the nuclear industry. After a handful of small demonstration plants, the 1960s saw a meteoric rise in both the number and the size of nuclear plants applying for licenses. The rapid build-out was not organic; it was by design. The two main nuclear vendors, General Electric with its Boiling Water Reactors and Westinghouse with its Pressurized Water Reactors (pictured below), began offering what were called “turnkey” plants. These had a fixed up-front price to the utility that ordered them, with all the investment risk assumed by the manufacturer. The first one, Oyster Creek, sold for just $66 million. Like many others, it was a loss leader, sold below cost in a successful effort to create “a bandwagon effect, with many utilities rushing ahead...on the basis of only nebulous analysis.” Nuclear was the energy of tomorrow, and GE and Westinghouse wanted to bring it to fruition as quickly as possible. Utilities, initially skeptical of untested tech, came to think of a nuclear plant as a feather in their cap that proved they were tech-savvy, bold, and at the forefront of progress.
 
@@ -85,7 +85,7 @@ As it turned out, that plan would be severely challenged by the explosive growth
 The bandwagon approach had downsides, though. Some of the earlier plants took only about 4 years to build, but as reactors got larger (upwards of 800 MW electric capacity by the mid-1970s) they needed more specialized manufacturing. Build times doubled. Utilities started building new designs before the prior generation was finished. Even plants of the same nominal design were customized by the builders, making every one unique. And bigger, as it turned out, was not always better: larger plants were more complex to operate and maintain. In modern terms, the scale-up was creating more and more technical debt.
 
 4.  ## Regulatory Ratchet
-    
+
 
 Safety reviewers couldn’t keep up. What would later become the NRC started as a small division within the AEC (1% of the budget), with just a handful of staff acting as “design reviewers, inspectors, hearings examiners, and enforcers.” It lacked the deep technical knowledge of the research and development labs, meaning that regulatory staff often had to consult with colleagues in charge of promoting nuclear energy. The conflict of interest became clear immediately, and the commission made efforts to keep the regulators independent. The Atomic Energy Act allowed quite a bit of flexibility in the AEC’s approach to safety requirements, but early commissioners (on the advice of Edward Teller) wanted nuclear power to have a higher standard of safety than other industries—partly from fear that an accident would turn the public against the technology.
 
@@ -136,7 +136,7 @@ Division 1 (reactor-related) Regulatory Guides from the AEC and NRC [[Ref](https
 But something shifted. If we extend the plot up to the present, it looks like most of the regulatory guides were issued between 1970 and 1978, and then the number stayed flat for the next 20 years before slowly rising again. It may not be a coincidence that 1978 was also the last year any plant started construction until 2013. The regulatory ratchet did not grind to a halt—after the Three Mile Island accident in 1979, for example, the NRC created new requirements for evacuation planning and operator training. But with no new reactor designs to review, practices for applying the existing rules had a chance to stabilize. Reactor designs had finally started to become more standardized around 1975, so there had been time to understand and react to any new issues those designs raised. Regulators were starting to catch up with the pace of change.
 
 5.  ## Quantify Risk?
-    
+
 
 In the early 1970s, the tide of public opinion had started to turn against nuclear power and against the AEC in particular. The AEC represented the military-industrial complex, and the rising environmental movement did not trust its claims about how safe reactors were. The hidden update to the WASH-740 study, with its 45,000 potential deaths, had “sat like a tumor in remission in AEC filing cabinets, waiting to metastasize.” When anti-nuclear crusaders learned of its existence, they considered it proof that the AEC was lying, and demanded its full release. Politically, the AEC needed to be able to prove that the WASH-740 scenario was vanishingly unlikely. But more than that, they needed to show that _all_ accidents with significant consequences were unlikely. If they could calculate probabilities and consequences for every type of reactor accident that might happen, it would allow fair comparisons between the risks of nuclear power and other common dangers, including those of fossil fuels. They needed to “see all the paths to disaster.”
 
@@ -195,7 +195,7 @@ Defense in depth “may have proven its worth in protecting the public, but not 
 As the PRA techniques developed in WASH-1400 proved themselves useful, they began to spread beyond just nuclear accidents. PRA “made knowable the unknown risks of rare catastrophic events” not only to nuclear plants but space missions, chemical plants, and other complex engineered systems.
 
 6.  ## Canceled
-    
+
 
 By the mid-1970s, orders for new reactors had collapsed. In the 70s and early 80s, utilities canceled over a hundred reactor orders, 40 percent of them before the accident at Three Mile Island. The reasons were numerous: unexpectedly flat electricity demand, skyrocketing interest rates that made large capital investments unattractive, increasing costs and delays in reactor construction, and public opposition. Some utilities lacked the technical expertise and quality control systems needed for a nuclear plant. “Our major management shortcoming,” the CEO of Boston Edison said, “was the failure to recognize fully that the operational and managerial demands placed on a nuclear power plant are very different from those of a conventional fossil-fired power plant.” Even some nearly complete plants were abandoned or converted to fossil fuels.
 
@@ -214,7 +214,7 @@ Congress obliged, splitting the AEC into the NRC and the Energy Research and Dev
 In a Department of Energy survey, utility executives named regulatory burden as a contributing factor in 38 of 100 decisions to cancel. But whoever was to blame, the party was over.
 
 7.  ## How Safe is Safe Enough?
-    
+
 
 The NRC commissioners answered this question in 1986, in their Safety Goal Policy Statement. Living within a mile of a nuclear power plant should not increase a person's risk of accidental death by more than 0.1%, and living within 10 miles should not increase someone's risk of cancer death by more than 0.1%. ("Accidental death" here means a fatality from acute radiation poisoning, which could take weeks or months.) These criteria have no legal force—they are guidelines to be considered when writing and interpreting regulations. They were carefully chosen to sound reasonable and reassuring, and yet still be achievable. Their purpose, in part, was to end the arbitrary regulatory ratchet and replace it with careful calculations of cost and benefit. A safe enough plant—one that met the goals by a healthy margin—could be exempt from backfit requirements entirely.
 
@@ -223,7 +223,7 @@ For a typical nuclear plant, the 0.1% cancer increase is much more restrictive t
 Once the safety goals were established, licensees had to perform at least a rudimentary PRA for each power plant. The NRC placed a lot of trust in the utilities: industry associations peer reviewed their PRAs, but regulators saw only the results. In practice, rather than calculating health effects for each plant, the NRC considered the plant likely to meet the safety goals if it showed a core damage frequency less than 1 in 10,000 years. Most did, at least when considering internal (random) events; adding in earthquakes, tsunamis, tornadoes, etc. made it less clear. Later NRC studies on accident consequences showed fewer deaths than the early PRAs (but more property damage) because releases of radiation could be delayed long enough for thorough evacuations. The possibility of another meltdown began to look less like an intangible looming catastrophe and more like a manageable economic risk.
 
 8.  ## The Rise and Strangely Recent Fall of Nuclear Energy
-    
+
 
 Why should we still care about nuclear power or how it’s regulated? The economic, political, and technical problems that arose in the 70s killed the dream of nuclear abundance, and left a zombie industry running on inertia. Of the plants that would eventually be completed, none started construction after 1978. Yet miraculously, 40+ years later, it still produced 20% of US electricity. Even today it is our largest source of low-carbon energy. The long series of missteps reversed itself: robbed of growth, the nuclear industry turned inward and found ways to scrape up cost savings and efficiency improvements for the plants it already had.
 

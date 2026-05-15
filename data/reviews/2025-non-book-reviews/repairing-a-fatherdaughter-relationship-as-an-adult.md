@@ -17,10 +17,10 @@ tags:
 ---
 
 1.  ## Introduction
-    
+
 >
 1.  ### A song from my past
-    
+
 
 _“Now that she’s back in the atmosphere / With drops of Jupiter in her hair…”_
 
@@ -45,7 +45,7 @@ During his life, I wouldn’t be able to write something like this, because… w
 But Dad passed away two years ago, so he’s beyond my puny misjudgements and relational fumblings. Our story is fair game now.
 
 2.  ## Problems
-    
+
 
 A few years back, I remember an online conversation where one person commented he’d had a happy family growing up, and a happy family as a father, but, from talking to his (now-adult) children, he gathered many of their friends had a very different experience.
 
@@ -72,14 +72,14 @@ But well into my late 20s, maybe even into my 30s, I would lie in bed staring up
 But I–really both Dad and I–did indeed find a way to bridge this silent gap. And, to my surprise, I was able to see Dad mellow with age.
 
 3.  ## Resources
-    
+
 
 To bridge this gap, we needed to leverage resources that we did not yet have.
 
 But think about it: In the face of his parents’ choices, a seven-year-old child is comparatively powerless: He doesn’t have an imagination for the influence that he _could_ have on his parents at twenty-seven. To really win at filial love, he needs to grow and mature–but he should take care _how_ he shall grow: “_Keep your heart with all vigilance, for from it flow the springs of life._”
 
 2.  ### The Heroes and Poets
-    
+
 >
 > Where would I be without heroes? A poor example of a human being, and a woman trying to live without hope.
 >
@@ -88,7 +88,7 @@ But think about it: In the face of his parents’ choices, a seven-year-old chil
 > I needed my heroes to keep my hope. But, hey, I was literate, my parents had encouraged me to read longer books–so my youth was luminous with them: Isaiah. Moses. Paul the Apostle. Joseph, son of Jacob, reconciling his broken family. Daniel. Calm counselors and teachers in the modern days: C.S. Lewis, an ever patient voice. (I always forget how pleasant he is when I haven’t read him in awhile.) George MacDonald or someone reminding someone that though they grew up, they perhaps rather ought to have _grown down._ Amy Carmichael and Elizabeth Eliot. Some guy whose name I have not retained, who had been a thief before becoming a Christian, and when he learned about restitution embraced a new holy task: living on a small salary from an honest job, when he received his paycheck each week, he went to the Post Office and mailed envelopes of money to those he had stolen from to give back what he had taken. (How did he know the names of everyone he had stolen from and the amounts, I always wonder?) Corrie Ten Boom. Brother Yun. Step back in time, and you have Hudson Taylor and Jonathan Edwards. Augustine.
 >
 3.  ### The Love of My Life.
-    
+
 >
 > When you come out of this, and then you get married, the person who most bears the brunt of the cost and the need to sacrifice… is your spouse. Or so it was with me.  My husband sacrificed so much as my many dysfunctionalities ran up against the realities of life.
 >
@@ -97,7 +97,7 @@ But think about it: In the face of his parents’ choices, a seven-year-old chil
 > And the sacrifice–just knowing my husband was sacrificing for me, and without giving in to bitterness or apathy at his circumstances–was such a gift. And when you get a gift like that, you don’t want to squander it.
 >
 4.  ### A New View of What’s Past
-    
+
 >
 > My husband, too, could tell me things that nobody else could. He would listen to the hardest things I experienced, and so, over the years, he could also speak to them–notice something new.  
 >
@@ -112,7 +112,7 @@ But think about it: In the face of his parents’ choices, a seven-year-old chil
 > And it’s a fear I can understand.
 >
 5.  ### Circumstances Beyond your Control
-    
+
 >
 > This is going to sound like I’m saying “You can just throw your problems at your… other problems!” But sometimes you really can. My relationship with my dad has greatly benefitted from the disappointments common to life and even frightening circumstances beyond my control.  
 >   
@@ -139,7 +139,7 @@ But think about it: In the face of his parents’ choices, a seven-year-old chil
 ## IV. Dad’s Stories
 
 1.  ### How we got to the point of Dad sharing the stories I wanted to hear
-    
+
 >
 > So I’ve come at you, dear reader, with an insistence on idealism: “Don’t give up,” etc., etc. And that is true, for it is good and right. But it’s not a very detailed picture. “Mash one button, with the word ‘idealism’ printed on it?”
 >
@@ -154,7 +154,7 @@ But think about it: In the face of his parents’ choices, a seven-year-old chil
 > And here is some of what I got.
 
 ### Wonder over new technology - picturephones  
-  
+
 Dad was captivated by the changes in technology. It should me a piece of who he was when he recounted waiting in line all morning to get to use one of the first videoconferencing devices to talk to someone on the East Coast.  Was it the Bell Picturephone?  It looks like they installed 3 calling booths for those–one in NYC, one Chicago and one in DC–[in June 1964](https://www.wired.com/2012/04/april-20-1964-picturephone-dials-up-first-transcontinental-video-call/).  Dad would have been 22 years old.  Both from listening to his account of it (it doesn’t sound like he’d planned to talk to any particular person; just whoever was next in their own line on the other end) and from knowing him, though, I think it was probably for a free promotional sort of thing - so possibly a bit earlier than that.
 
 Marvelling at technology.  “And here we are talking to each other like this [videoconferencing] now.”  Marvelling that here he was–he’d made it to 80–talking to me, his daughter–”You’re 40 already?”  Marvelling at how time flies.
@@ -197,10 +197,10 @@ Dad’s loyalty for Winston was characteristic. Dad once told me that, whenever 
 
 I could’ve done with the reminder “Remember: he is not you.”
 
-  
+
 “I didn’t like to dance.” he said.
 
-  
+
 I turned towards him and wondered where this was going.
 
 “I had pimples and didn’t like being up close near a woman, where she could see that. And you know I had glasses.”

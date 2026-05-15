@@ -17,7 +17,7 @@ tags:
 ---
 
 1.  ## History and Happiness
-    
+
 
 Leo Tolstoy’s _War and Peace_ is about two things: “War” and “Peace”.
 
@@ -32,7 +32,7 @@ Tolstoy started writing _War and Peace_ in 1862, about 50 years after the war. S
 The novel offers up two big theories corresponding to the two main themes: a theory of history and a theory of happiness. So if you ever wanted to either make history or be happy, read on. Tolstoy has the answers.
 
 2.  ## The Great Man Theory
-    
+
 
 Tolstoy uses the War of 1812 to delve into the role of great men directing the course of history.[[63]](#ftnt63) Specifically, he argues that there are no great men. So yeah, I lied. Tolstoy doesn’t tell you how to make history. Instead he tells you how to not be an asshole. Specifically, he argues against the Great Man Theory of history, using Napoleon as a stand in for the supposed “Great Man”. And the message is: don’t try this.
 
@@ -63,7 +63,7 @@ Kutuzov is the opposite of a hero. He’s hardly even an individual, being more 
 So you want to be a great man? You will succumb to evil. And if you don’t want to be evil? Then don’t try to dictate the course of events. And while you’re at it, don’t try to win all the time. You can lose every battle and still win the war.
 
 3.  ## The Chad
-    
+
 
 But Napoleon, Kutuzov and the war in general are really just the background for our novel. The main story involves a number of more relatable characters. Chief among them are Prince Andrei Bolkonsky (the “Chad”) and Count Pierre Bezukov (the “Virgin”).
 
@@ -132,7 +132,7 @@ Like Napoleon, Andrei sets off in a quest for glory. But despite his talents, An
 Unlike Napoleon, his love of glory is transformed into divine love. Interestingly, both seem to have the effect of suppressing your need for actual human love and eliminating the fear of death. So while the temptation to experience a more earthly love continues to tempt him to the end,[[72]](#ftnt72) Andrei ultimately dies from his injuries comforted by his connection to the divine.
 
 4.  ## The Virgin
-    
+
 
 But Andrei isn’t even our main character. That honor belongs to Pierre, Andrei’s nerdy counterpart. Like the Russians in the war, Pierre mostly fumbles around, retreating from one failure to the next. He survives mostly out of luck.
 

@@ -24,9 +24,9 @@ The Astral Codex Ten (ACX) Commentariat is defined as the 24,485 individuals oth
 A couple of years ago Scott asked, _[Why Do I Suck?](https://www.astralcodexten.com/p/why-do-i-suck)_. This was a largely tongue-in-cheek springboard to discuss a substantive criticism he regularly received - that his earlier writing was better than his writing now. How far back do we need to go before his writing was ‘good’? Accounts seemed to differ; Scott said that the feedback he got was of two sorts:
 
 *   “I loved your articles from about 2013 - 2016 so much! Why don’t you write articles like that any more?”, which dates the decline to 2016
-    
+
 *   “Do you feel like you’ve shifted to less ambitious forms of writing with the new Substack?”, which dates the decline to 2021
-    
+
 
 Quite a few people responded in the comments that Scott’s writing hadn’t changed, but it was the experience of being a commentor which had worsened. For example, David Friedman, a prolific commentor on the blog in the SSC-era, [writes](https://www.astralcodexten.com/p/why-do-i-suck/comment/4845801):
 
@@ -57,13 +57,13 @@ To demonstrate this, I have displayed below a graph of comments per post across 
 In this graph, each datapoint represents a month that Scott has been blogging. A typical month will have between 15-20 posts, of which around half will be authored by Scott and half will be ‘authored’ in some way by the Commentariat, which are mostly Open Threads. I’ve averaged by month because certain types of post get much less engagement than others, and so looking at individual posts ended up too noisy to make attractive graphs (the true goal of any honest statistician).
 
 *   The SSC-era is highlighted in blue. You can see that it shows something a bit like a classic sigmoidal adoption curve (but wearing a top hat). Post engagement starts low, before rapidly shooting up in 2014-15. It peaks in April 2016 – which is highlighted in red in this and all subsequent graphs so you can track peak engagement - before dropping back to a steady level of around 400-600 comments per post for the next three years. Notably, the run of posts that most people regard as being the ‘Golden Age’ for Scott’s writing happens much **earlier** than peak engagement with the comments section. People disagree about where this run of exceptionally good posts in quick succession start and ends, but I think you could safely say it has definitely begun by the time of _[The Control Group is Out of Control](https://slatestarcodex.com/2014/04/28/the-control-group-is-out-of-control/)_ (although I would date it a little earlier, personally) and ends with either _The [Toxoplasmosa of Rage](https://slatestarcodex.com/2014/12/17/the-toxoplasma-of-rage/)_ or _[Untitled](https://slatestarcodex.com/2015/01/01/untitled/)_ – basically 2014 has a high density of ‘important’ posts.
-    
+
 
 *   There’s then a white band representing the NYT unpleasantness where the blog was briefly on a hiatus, and the posts in that period were very weird (statistically speaking). I won’t say much about this period in my review.
-    
+
 
 *   The ACX-era begins in 2021 and is highlighted in green. You can see engagement starts lower than the SSC steady-state of 400-600 comments per post (maybe more like 300-400 per post) but increases over time to at least that level by 2024, getting close to the peak engagement era. In one of life’s small ironies, Scott wrote _Why Do I Suck?_ at close to the lowest period of engagement the blog had experienced for nearly a decade.
-    
+
 
 My key conclusion is that someone who says they preferred what the comments section used to be like is not (necessarily) just being curmudgeonly – something really did happen between pre-2016 SSC and post-2016 SSC, and then again between SSC as a whole and ACX as a whole, which caused a lot of people to disengage from the comments section. Furthermore, we would expect engagement to track quality quite closely (because people don’t want to engage with a bad comment section), and so a very strong hypothesis for an otherwise unexplained drop in comment engagement is a corresponding drop in Commentariat quality.
 
@@ -74,13 +74,13 @@ Interestingly, after a few years of lower engagement than steady-state SSC, enga
 ‘Professional’ reviewers – a thousand curses heaped upon their name – often rely on vague and idiosyncratic measures of quality. This may be appropriate for trivialities like literature and music, but when it comes to important things like the ACX Commentariat I’d prefer to follow good Commentariat norms and use clearly defined objective criteria in my review. I’ve therefore broken down comment quality into four key factors that, in my view, define the Commentariat’s unique character:
 
 *   **Depth of engagement with a topic** – When the comment section is good, it is characterised by people taking time to uncover each other’s views and identify genuine disagreement, rather than just rehearsing tribally-coded talking points or making incendiary ‘drive-by’ comments and disappearing.
-    
+
 *   **Freedom of intellectual engagement** – A feature which many people appreciate about the SSC/ACX comments section is the freedom to discuss socially or professionally sensitive ideas (i.e. ideas which could get you sacked from a University if you expressed them publicly). If the Commentariat are censored or self-censoring they lose this unique feature making ACX better than other blogs.
-    
+
 *   **Politeness** – Perhaps more than any other blog, the Commentariat considers itself to be a ‘polite’ place, where people are afforded a fair opportunity to discuss ideas. There are strong community norms towards politeness, even when engaging with very emotive topics. Other websites have free speech norms (such as 4Chan or early-days reddit), but ACX is unique in having strong norms both for free speech **and** politeness.
-    
+
 *   **Complexity of thought** – Perhaps the most important feature distinguishing the ACX Commentariat from other, lesser, blogs is that some really smart people comment here and give novel and well-nuanced takes on a topic. If this ever disappeared it would not matter about any of the other three features, because the Commentariat would effectively be dead anyway.
-    
+
 
 To me, these broad categories represent the unique and positive features of the SSC/ACX Commentariat, and the extent to which they are present is a reasonable indicator of comment section quality, especially if they are all present at the same timepoint and that timepoint happens to line up with peak engagement in 2016 (this is foreshadowing).
 
@@ -93,7 +93,7 @@ I’m also delighted to share my raw data with anyone interested – the summary
 Considering each of these factors in turn:
 
 1.  **Depth of engagement with a topic**
-    
+
 
 Depth of engagement matters for several reasons, but the most important is simply that it shows people are getting enough out of a discussion to keep participating - a strong marker of a high-quality Commentariat. This is especially relevant in the ACX context, where many commentors don’t fit neatly into predefined categories like ‘Democrat’ or ‘Republican.’ As a result, discussions often require more time to clarify positions and establish common ground before real debate can begin. In that sense, depth also serves as a proxy for the number of interesting and non-standard voices present, which is itself a sign of a healthy and valuable comment section.
 
@@ -114,7 +114,7 @@ For example, benwave [writes](https://www.astralcodexten.com/p/why-do-i-suck/com
 I raise this because it is easy to see how too much free speech could be polarising, or too much politeness stifling – but I wanted to flag that a good comment section seems to lie in a Goldilocks zone of pretty much **every** dimension. I also love the idea of an ‘epistemic little league’ happening below the primetime event of Scott’s posts.
 
 2.  **Freedom of intellectual engagement**
-    
+
 
 Freedom of intellectual engagement matters because people describe the SSC/ACX forum as one of the only places they can go to get honest critique of prevailing intellectual orthodoxy. Respectful discussion of highly emotive topics is a unique feature of the Commentariat which is not replicated in heavily censored spaces (especially in meatspaces where you can suffer very real harm for expressing a view which is seen as locally unacceptable).
 
@@ -139,7 +139,7 @@ I include below a few specific sensitive phrases which I thought were interestin
 ![](https://substackcdn.com/image/fetch/$s_!DD3w!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd75c3c55-0fc8-4c3e-bd67-7d1f406d2df5_723x428.png)
 
 3.  **Politeness**
-    
+
 
 One of the most appealing aspects of the ACX Commentariat, to me, is that ideas respectfully presented are respectfully engaged with – even when mainstream cultural commentors use this as a stick to beat ACX with. Strong community norms for [niceness, community and civilisation](https://slatestarcodex.com/2014/02/23/in-favor-of-niceness-community-and-civilization/) are very rare in online spaces, so the ACX Commentariat may be especially sensitive to fluctuating levels of politeness.
 
@@ -162,7 +162,7 @@ The most toxic the comments section has ever got (beyond the very early days) wa
 Of Scott’s classic posts, the most toxic the comment section has ever become was on [Radicalising the Romanceless](https://slatestarcodex.com/2014/08/31/radicalizing-the-romanceless/). The least toxic the comments section has ever been are the posts on Scott’s conworld, [Raikoth](https://slatestarcodex.com/2013/05/15/index-posts-on-raikoth/) (technically the Raikoth post on history and religion specifically, but the whole series is so good I’ve linked to the index).
 
 4.  **Complexity of thought**
-    
+
 
 Complexity of thought is important because it indicates the effort being spent on each comment. Effort being spent on comments indicates that the Commentariat is treating each other with respect and thoughtfulness (or at least that’s my hypothesis).
 
@@ -207,13 +207,13 @@ My conclusion here is that these data are completely consistent with a Commentar
 From the data I extracted, it is clear **something** happened to the Commentariat in 2016(ish) and again in 2021 with the switch to ACX. Of the four measures I presented:
 
 *   Depth of engagement shows two clear directional reversals in 2016 and 2021
-    
+
 *   Freedom of expression shows a scruffy directional reversal in 2016 and a clearer one in 2021, and also looking at individual kinds of expression reveals very sharp peaks in 2016 for ‘SJW’ and related phrases
-    
+
 *   Toxicity scores show a clear directional reversal in 2021 (but nothing in 2016)
-    
+
 *   Complexity of thought measures show clear directional reversals on every measure except average word length (which has been steadily declining) in both 2017 and 2021. This would be great confirmation for the theory that quality declined in 2016 except you’ll notice that 2017 is a bit too late to explain that!
-    
+
 
 Overall, I’d say that all four of these measures point to a change which occurred when the Commentariat moved to Substack, and two-and-a-half point to a change which occurred in 2016.
 
@@ -230,16 +230,16 @@ And teddytruther [writes](https://www.astralcodexten.com/p/why-do-i-suck/comment
 The change which occurred in 2016 (and very specifically **April** 2016) is much less understandable to me. After some thought, I’ve come up with three possible hypotheses:
 
 *   Scott’s writing got worse in April 2016, causing mass disengagement, which changed the makeup of the comments section
-    
+
 *   The user experience of the blog unrelated to Scott’s writing changed in April 2016, which changed the way in which the Commentariat engaged with the comments section (in basically an exact parallel to the ACX switch)
-    
+
 *   The ACX Commentariat has a very specific set of hyperfixations, and world events around that time meant they weren’t able to satisfy that hyperfixation through commenting, so their commenting got lazier / worse and never really recovered.
-    
+
 
 Considering each in turn:
 
 1.  **Scott’s writing got worse**
-    
+
 
 I kicked off this essay by referencing _Why Do I Suck?_, in which Scott presents some evidence that his writing has not got worse, replicated below:
 
@@ -256,7 +256,7 @@ Another point to consider is that the ‘Scott’s writing sucks now’ hypothes
 In summary, I’m agnostic on the question of whether Scott’s writing has got worse. I personally don’t think it has (although the frequency of ‘hits’ was remarkable in 2014) but perhaps it has changed a bit over time. However, I’m reasonably certain that nothing Scott writes is the reason for the dropoff in engagement around 2016, because there’s no coherent story you can tell that fits that hypothesis. I think this is an unproductive sidetrack to consider in a review of the Commentariat specifically.
 
 2.  **The user experience of the blog got worse**
-    
+
 
 If Scott’s writing did not get worse, perhaps some other element of the blog did, which led to significant disengagement. For example, perhaps the moderation of SSC got more restrictive around this time or an incredibly obnoxious autoplay advert was introduced to the sidebar. We actually know that the Commentariat are quite sensitive to user experience changes, because Scott [notes](https://www.astralcodexten.com/p/open-thread-197) that Open Threads with an announcement get between 2-4x less engagement than those without. This theory seems very strong to me – the UX was one of the major complaints about early-days ACX, and it seems like you can explain the initial Commentariat stagnation and then flourishing for ACX with reference to the UX specifically.
 
@@ -283,7 +283,7 @@ So, on this theory, the Commentariat have an approximately fixed amount of time 
 This leads to quite an interesting corollary, which is if true then to some extent Scott’s posts are irrelevant to the Commentariat’s enjoyment of Scott’s writing. The value of Scott’s writing is to act as a sort of butterfly net to catch the sort of people interested in Scott’s writing, and then once captured those people interact with each other in the comments section basically a fixed amount basically regardless of how often Scott posts. I don’t know how fully I endorse this theory, but it is interesting to think about how long the Commentariat would remain good **even if** Scott’s writing genuinely did drop in quality.
 
 3.  **The real world intruded on the Commentariat’s hyperfixations**
-    
+
 
 In _[The Rise and Fall of Online Culture Wars](https://www.astralcodexten.com/p/the-rise-and-fall-of-online-culture)_, Scott notes that online feminism was absolutely everywhere from around 2014-16 and then just sort of… disappeared one day. This has some parallels (down to the timing) for engagement with the SSC Comments section – from 2014-16 engagement with the comments section seems to be on an unstoppable upward trajectory and then in April 2016 it just sort of… reverses.
 
@@ -300,9 +300,9 @@ The evidence for this hypothesis is kind of mixed – if you abandon all sense o
 I appreciate it is so _boring_ to conclude that Trump is the Great Satan for the millionth time. However, I do think if you add in contextual factors there is reason to be cautiously supportive of a ‘Donald Trump killed the AXC Comments Section’ theory:
 
 *   The volume of ‘Trump’ comments is absolutely massive - around 11% of all comments were about Trump in January 2017, which is greater than comments about Russia during their invasion of Ukraine (10%) and comments about COVID during the first few months of the pandemic (7%). Even a topic like SJWs, which the Commentariat really liked talking about, could only manage a peak of around 1.2% (although eg ‘gender’ peaks at 5.5% and ‘feminis\*’ peaks at 3.7%). Concepts like ‘Harambe’ and ‘Wikileaks’ barely register on this scale, at 0.3% and 0.5% peaks respectively. So even though the shape of the two curves looks similar when you normalise them, it is reasonable to believe Trump could have had a significant enough impact on the comments section to dislodge forum norms, in a way Harambe did not.
-    
+
 *   Looking at the data for related terms makes it clear that a massive shift in discourse occurred around the time of Trump’s election – terms which were somewhat common before (like SJW) died out basically overnight, whereas terms which arose in the alt-right ecosystem spring up basically at the same time. Also of importance, there is no clear term that replaces ‘SJW’ until early 2017 (with ‘antifa’), and no equivalent term that sticks until ‘woke’ enters common parlance.
-    
+
 
 s
 

@@ -231,25 +231,25 @@ I will start with the alternatives that are most similar to a tokamak. For each 
 Tokamaks have been better researched than any other strategy. There are currently 10 medium tokamaks:
 
 *   T-10 (Russia, 1975)
-    
+
 *   ASDEX (Germany, 1980)
-    
+
 *   JET (England, 1983)
-    
+
 *   JT-60 (Japan, 1985)
-    
+
 *   DIII-D (USA, 1986)
-    
+
 *   HL-2A (China, 2002)
-    
+
 *   EAST (China, 2006)
-    
+
 *   KSTAR (Korea, 2008)
-    
+
 *   WEST (France, 2016)
-    
+
 *   HL-2M (China, 2020)
-    
+
 
 ### Plasma Shaping & Spherical Tokamaks
 
@@ -264,9 +264,9 @@ The main benefit of a spherical tokamak is that you can get a larger plasma dens
 The best spherical tokamaks today are small, if you measure based on the radius, but medium if you measure based on the height. They are:
 
 *   NSTX (USA, 1999)
-    
+
 *   MAST (England, 2000)
-    
+
 
 ![](https://substackcdn.com/image/fetch/$s_!rEt0!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F6947bb4b-be5f-4824-bd71-08446113ca41_900x691.jpeg)
 
@@ -275,7 +275,7 @@ The best spherical tokamaks today are small, if you measure based on the radius,
 We haven't explored other shapes very much. There might be one that works even better. There is currently a small experiment designed to look at as many shapes as possible:
 
 *   TCV (Switzerland, 2002)
-    
+
 
 ### Stellarators
 
@@ -298,13 +298,13 @@ The main drawback is that stellarators are harder to design and build. There are
 There are currently four medium stellarators:
 
 *   TJ-II (Spain, 1997)
-    
+
 *   LHD (Japan, 1998)
-    
+
 *   Uragan-2 (Ukraine, 2006)
-    
+
 *   Wendelstein 7-X (Germany, 2015)
-    
+
 
 ### Inertial Confinement Fusion
 
@@ -323,7 +323,7 @@ There are still some major challenges. While magnetic confinement fusion can be 
 The best inertial confinement fusion experiment is at the boundary between medium and large, although those categories were designed for doughnut-shaped plasmas, not for banks of lasers:
 
 *   NIF (USA, 2009)
-    
+
 
 ## Players and Predictions
 
@@ -336,28 +336,28 @@ Now that we have the strategies laid out, I will go through the groups that I th
 ITER is still the biggest player in the field. They have the most money and the most people working to make it succeed. ITER moves slowly, but resolutely.
 
 *   ITER gets fusion by 2035 (50%) or 2040 (70%).
-    
+
 
 #### K-DEMO
 
 Most of the countries in ITER plan on making their own large demonstration power plant, after they see if ITER succeeds. South Korea is being more aggressive and will build their DEMO while ITER is still doing its early experiments. The construction should be complete by 2037. Success here is highly correlated with ITER's success.
 
 *   K-DEMO gets fusion by 2040 (70%).
-    
+
 
 #### CFETR
 
 China seems to be willing to spend more money on fusion than most other countries: 3 out of 5 new medium tokamaks since 2000 have been in China. They're planning on building a large tokamak like ITER in the 2030s and converting it into a DEMO in the 2040s. They don't have detailed plans yet, but they might have reliable funding.
 
 *   CFETR gets fusion by 2040 (60%).
-    
+
 
 #### STEP
 
 The United Kingdom has announced that it will not take part in Europe's EU-DEMO, planned for the 2040s. Instead, they will build a large spherical tokamak by 2040. I'm not convinced that this will happen, but it would be great if it does.
 
 *   STEP gets fusion by 2040 (20%).
-    
+
 
 ### Private Companies
 
@@ -366,35 +366,35 @@ The United Kingdom has announced that it will not take part in Europe's EU-DEMO,
 I've already told their story because they are the current leader. Everything has gone well so far.
 
 *   SPARC gets fusion by 2025 (30%) or 2030 (70%).
-    
+
 
 #### Renaissance Fusion
 
 Renaissance Fusion was founded in Grenoble, France in 2019. They are planning on building a stellarator that can get fusion by 2032. I can't tell you their cool ideas for manufacturing the coils because they still haven't published them yet. [21]
 
 *   Renaissance gets fusion by 2035 (50%) or 2040 (70%).
-    
+
 
 #### Type One Energy
 
 Type One Energy was founded in Wisconsin in 2020. They are planning on building a stellarator using Commonwealth Fusion's high temperature superconductors and 3D printing the steel supports for the coils. Their goal is fusion by 2031.
 
 *   Type One gets fusion by 2035 (50%) or 2040 (70%).
-    
+
 
 #### Tokamak Energy, Ltd.
 
 This is a slightly older company, founded in England in 2009. They originally managed a spherical tokamak experiment [22]. More recently, they decided to try to get fusion by 2030 using a medium experiment and high temperature superconductors. Spherical tokamaks are less well tested at this size and don't benefit as much from having a stronger magnetic field.
 
 *   Tokamak Energy gets fusion by 2030 (10%) or 2035 (30%).
-    
+
 
 #### Marvel Fusion
 
 Marvel Fusion was founded in Germany in 2019. They're working on inertial confinement fusion, which I have much less expertise in. Inertial confinement fusion has made rapid progress recently and they have recruited some good people, so they should have a chance. Some problems include not releasing a timeline and not planning on using D-T fuel.
 
 *   Marvel gets fusion by 2035 (30%).
-    
+
 
 #### Honorable Mention: Helion
 
@@ -409,7 +409,7 @@ Helion is also notable because they've gotten more private funding than any comp
 I'm more skeptical. At least it seems unlikely that they will get fusion on their first medium experiment, especially since that requires improvements of multiple orders of magnitude in both triple product and shot frequency. They should expect to design an 8th experiment based on what they learn from Polaris.
 
 *   Helion gets fusion by 2025 (5%) or 2030 (20%).
-    
+
 
 ### Summary
 

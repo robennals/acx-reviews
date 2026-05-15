@@ -17,7 +17,7 @@ tags:
 ---
 
 1.  ## Intro
-    
+
 
 Is it possible to write about gender without worsening the already-terrible gender relations? I’m not sure.
 
@@ -85,7 +85,7 @@ Given how unusually sensitive gender takes are to the speaker’s personal exper
 (As an aside: yes, I know my use of English military terms is weird. That’s because English is not the language of the country whose military I served in.I’ve been accused of stolen valour before due to this, so I want to clarify.)
 
 2.  ## Why is this a problem at all?
-    
+
 
 How is it possible that gender relations are so fucked up? What is going on with the low birthrate? Why should we bother at all with this apparently intractable problem?
 
@@ -116,7 +116,7 @@ Remember her - she, and her substack, will make an appearance in the final secti
 (Source: [https://www.avabear.xyz/p/what-is-partnership-for](https://www.avabear.xyz/p/what-is-partnership-for) )
 
 3.  ## A Hypothesis
-    
+
 
 There is an essay by Scott Alexander called “The Psychopolitics of Trauma”.
 
@@ -165,7 +165,7 @@ Most of us are mainly interested in solving the problem at the level of n=2. Tha
 If the above is accurate, a main part of the problem is that the most severely affected people make up the legions of “highly engaged” gender warriors that dominate the discourse and set the frames and narratives for everyone else. The downstream effects of that make things worse for everyone else. The downstream effects can be mitigated at the individual level - and the more individuals do so, the more the gender wars will lose their hold over us.
 
 4.  ## Objection: That would not solve the root cause of the problem
-    
+
 
 As we’ve established above, part of the problem is that men and women are not perfectly matched in their average desires. This set up the conditions for us to all traumatise each other, but it is upstream of the trauma problem.
 
@@ -180,7 +180,7 @@ _This - sex, romance, love - will hurt. That is inevitable. We can still try to 
 The next section of this review is an attempt to locate and describe sources of unnecessary pain, mostly by describing misconceptions the genders have about each other and how they arise.
 
 5.  ## Things correlated with gender that are not actually gender
-    
+
 
 Most of us have encountered variants of this graph before:
 
@@ -206,7 +206,7 @@ Of course the “standard” dynamic can be flipped. For example, see here for d
 Conceptual precision is useful. If it’s an attachment thing, call it an attachment thing, instead of making generalisations about how “women are clingy” or “men don’t communicate”. And so on. Zoom in on what’s actually going on. That is more likely to be productive - you can’t do anything about “men’s nature” or “women’s nature”, but you can do something about anxious-avoidant relationship dynamics. It increases the resolution of our culture’s mental models, and that in turn increases the degrees of freedom we can operate in without leaving the cultural scripts.
 
 6.  ## Non-Innate Gender Dynamics and Misperceptions Downstream of Selection Effects
-    
+
 
 ### Biology is real
 
