@@ -21,7 +21,7 @@ _Relevant context: I play jazz saxophone at a high level._
 Here are two situations that I’ve been in a million times and that feel strikingly similar:
 
 1.  Conversing in Portuguese, which I speak mediocrely, and running into something I don’t know how to say.
->
+
 2.  Improvising on the guitar, which I play less-than-mediocrely, and attempting to play something requiring a note outside of the rudimentary scales I’ve practiced.
 
 In both cases, the feeling is that there’s a nice, well-formed idea in my head that I could express perfectly well some other way, but I’m blocked by my lack of ability.

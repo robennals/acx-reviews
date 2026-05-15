@@ -46,7 +46,7 @@ The disagreements between such activist types and more centrist (maybe more rati
 *   Is the injustice intentional and one-sided?
 *   What’s the actual scope of the injustice?
 *   Do we have a way of resolving it?
->
+
 *   Also, will that way accidentally destroy the economy and kill millions of people? Because that would be kind of bad.
 
 Trying to separate the discussion into fine granular threads is good because you can actually _figure out your disagreements_, but Uncle Ted whizzes right past that into:

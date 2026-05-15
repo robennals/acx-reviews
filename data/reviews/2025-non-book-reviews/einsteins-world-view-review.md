@@ -139,21 +139,21 @@ The central divide in socialist thought in the first half of the 20th century wa
 In the essay _Why Socialism_ he lists his main objections to the then-existing capitalist economy as:
 
 *   Capitalism allowed income to be gained through the ownership of property, that income could in turn be reinvested into acquiring more property leading to an even larger stream of income which could be invested into yet more property. That feedback loop allowed established capitalists to expand their portfolio over time without limit, and the capitalist class as a whole to appropriate an ever expanding proportion of national wealth and income. Without sufficient redistribution Einstein suspected that such a run-away feedback loop would eventually reduce the share of national income of workers to the lowest possible level, the level of subsistence wages he had witnessed among peasants in China and India.
->
+
 *   He feared capitalism limited intellectual freedom and prevented honest discussion of alternative systems because capitalists inevitably come to control, directly or indirectly, the main sources of information including the press, radio and the education system, making it “_extremely difficult [...] for the individual citizen to come to objective conclusions and to make intelligent use of his political rights._” He also insinuates that academic economics was under some degree of influence by capital and likened economists to priests of the medieval church who “_made the class division of society into a permanent institution and created a system of values by which the people were thenceforth, to a large extent unconsciously, guided in their social behavior._”  
->
+
 *   Capitalists might come to directly influence or control political parties themselves.
->
+
 *   Capitalist economies are anarchic and uncoordinated leading to inefficiency and waste lowering growth.
->
+
 *   Capitalism eroded social trust and bonds. Einstein thought that individuals are necessarily dependent on the wider community and the division of labour to provide their economic means because no single person can run an industrialized economy alone, but that capitalism attempted to obscure this fact by providing an illusory form of individualism and caused people to view this dependency as a threat to their individual rights and prosperity rather than an “organic tie”, or as a “protective force”, which he considers a healthier, more pro-social and more accurate view of the individual's place in large-scale industrial society. Einstein described capitalism as part of the “predatory stage” of civilization and thought that for a man who lives by competition in the market the “_egotistical drives of his make-up are constantly being accentuated, while his social drives, which are by nature weaker, progressively deteriorate.”_
 
 The reforms Einstein proposed to remedy those issues consisted of:
 
 *   Collective ownership of the means of production so that the gains from capital accumulation could accrue to the population as a whole rather than private owners of capital.
->
+
 *   Replacing coordination of the economy by the market with centralised planning so that the economy could grow in a more orderly and efficient manner.
->
+
 *   Replacing an education system focused on competition for economic station with one that was orientated towards “social goals”. Presumably social goals in line with his thinking around pro-social tendencies and fostering personal development and intellectual ability.
 
 He also stipulated that the kind of democratic-socialism that this would result in should be run without an all-powerful or overweening bureaucracy that should also protect individual rights and be democratic.

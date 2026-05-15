@@ -38,15 +38,15 @@ How did glamour do that?  By making Michaela envious?  By slashing her self-este
 Here is my outline of Postrel’s model and vocabulary:
 
 *   Glamour is what connects an audience (which can be an individual) with a “totem” (image, concept, or some other item including a “celebrity”).
->
+
 *   For an audience to be susceptible to glamour, the audience must have an “inarticulate longing.” An inarticulate desire.  Let’s call it the “ID.” Maybe for Michaela it is to rise out of her impoverished situation in Sierra Leone.
->
+
 *   What Postrel calls “nonverbal…images, concepts, and totems” I will simply call the “totem.”  Postrel insists it must be nonverbal.  Concepts made up of a bunch of words must be “perceived and remembered as emotionally resonant snapshots” in order to become a totem.  In the Michaela example, the totem is the photograph.
->
+
 *   Postrel tells us that the word “glamour” comes from an old Scots word meaning “magic spell.” To Postrel, this is an apt description of the process connecting an audience and a totem.  Various phenomena  (some of which may be consciously designed by skilled users of specific techniques) can intensify and draw out the longing that the audience possesses. The key is to bind “image and desire.”  
->
+
 *   The totem succeeds only if the audience is “receptive.”  This means the totem must represent a “desire fulfilled,” and must be sufficiently mysterious to encourage projection by the audience into the totem. Of course, intellectually we know that there are “flaws, costs, frictions” required to actually “get there,” and others that may result from actually ”getting there” (“there” being the fulfilled state).  These things must be hidden from, or willfully ignored by, the audience.  Michaela’s photo likely contained no information regarding the extraordinary lengths she would have to go to in order to achieve her goal.  If it had, it is likely she would have ignored it.
->
+
 *   When the audience and a totem are connected in this way, the audience experiences an emotional reaction which has a potentially important impact on its behavior.
 
 That is a pretty abstract description. The model doesn’t generate statistically verifiable predictions.  And frankly,  it wasn’t clear to me that this model held much promise for telling us much outside of the traditional concept of glamour (which, as I’ve already explained, interests me little).  Sure,  maybe it can tell us a bit about inspirational stories like Michaela’s.  But those are rare situations – how much is there to really learn from it?
@@ -116,15 +116,15 @@ Except, does that work for the glamorous things in my life?   How do I test whet
 Here are some suggestions I would make based on my reading of this fine book:
 
 1.  Look for “glamour driven behavior” in yourself. Using Postrel’s definition.  It can be humbling.
->
+
 2.  Resign yourself to the fact that society as a whole will always be, in large part, random. Not just individuals.  Groups too, since the power of imitation amplifies the power of glamour.  It will often look insane.  Postrel tries to be an optimist about it all.   “Glamour may be an illusion, but it reveals the truth about what we desire.”  Really?  Or does it just reveal the truth that we have predominantly random, unarticulated desires that we are always chasing? Don't get me wrong.  Postrel is not simplistic about this.  She sees the downside too, touching on everything from the trap of overspending on “glamorous” items, to the role of glamour among Nazis, terrorists and gangsters. But in the end, Postrel emphasizes the upside.   The whole thing rattles me more than her.
->
+
 3.  Since nothing seems to escape the reach of artificial intelligence these days, do we need to consider what AI advances will do in the world of glamour?  Of course!  I have no contribution to the debates over whether there is some essentially human ability that AI will never be able to conquer.  But what is clear is that more and more human reasoning activities are becoming unnecessary.  Except for the pure pleasure of thinking (a pleasure which not everyone shares), AI reduces the number of things you _need_ to think about.  Given that, all I am left with are questions:  Since AI, like imitation, is a kind of thinking-substitute, will AI lead people to engage in _less_ imitation?  What if we spend ever more time applying our AI tools in the service of random glamorous totems that change arbitrarily?  What would that kind of world look like?  
->
+
 4.  If you must, go ahead and learn the principles of manipulating others through the techniques of glamour.  Use the book as a how-to manual. It will explain black and white vs. color photos.  Still photos vs video.  Sunglasses.  Stuff like that.  However,  I’m skeptical about how much one can do with this.  Given that I see randomness at its core,  I wonder if anyone can forecast trends or turning points in Postrelian glamour.  Is it like the stock market,  where good salespeople thrive by telling you what stocks to buy, but in reality their forecasting skills are nonexistent?
->
+
 5.  Postrel’s suggestion is to use your own episodes of glamour driven behavior for the “life-enhancing inspiration” that they are,  but to try to maintain your reasoning abilities, to try to remember “what might be left out.”  Yes, but this is hard.  First,  the shiny thing you find glamorous is inherently nonrational.  And second, trying to be rational will often just make you rationalize what you’ve already decided. But it doesn’t hurt to try.
->
+
 6.  Finally, be a bit more tolerant of glamour driven behavior in others.  I have always been indifferent to or even looked down on traditionally glamorous things.  So much of it seems like wasteful conspicuous consumption and senseless status-signaling.  Of course, there is much of that.  But when you see people under its spell, they aren’t always trying to elevate themselves above you, even if that’s how it feels.  They might just be trying to elevate themselves, period.  They might succeed, or they might fail. Perhaps some understanding - even sympathy at times - is called for.  Remember, you probably have your own IDs.
 
 [Here's the book.](https://read.amazon.com/kp/embed?asin=B00A25EZ72&preview=newtab&linkCode=kpe&ref_=cm_sw_r_kb_dp_7W6SW3ZA5CAX64QV0HN1)

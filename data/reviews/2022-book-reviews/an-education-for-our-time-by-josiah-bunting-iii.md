@@ -212,7 +212,6 @@ As _An Education_ comes to a close, the dying billionaire, in his final moments,
 
 To describe the feeling of approaching that final gate, Bunting/our dying billionaire of course reaches for an extremely erudite reference:
 
->   
 > “There has never been a pianist like [Sviatoslav Richter]... Every pianist who has ever played… [The Great Gates at Kiev] has thundered out the scene and sound… But Richter did it so quietly, so simply, with such unforced calm and restraint, that I suddenly understood the… meaning of the scene. The traveler had come to the Gates in reverence and awe, but composed, calm, certain that he had finally prepared himself, through all the means earned and given him, to pass through” (241-2)
 
 I’m not sure Bunting, or anyone for that matter, could actually create a college that produced students that reliably found a sense of equanimity in the face of death. It’s a very tall order, and one that is basically impossible to ever verify. But, when I read that final passage, I couldn’t help but feel that such soulcraft is an immensely noble pursuit.

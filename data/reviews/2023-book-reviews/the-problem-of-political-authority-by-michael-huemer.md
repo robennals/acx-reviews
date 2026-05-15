@@ -63,7 +63,7 @@ Huemer scrupulously reasons from widely shared moral premises to surprising conc
 Work Cited
 
 1.   Weber, Max. Politics As a Vocation. Philadelphia: Fortress Press, 1965. Print.
->
+
 2.  Huemer, Michael. The problem of political authority: an examination of the right to coerce and the duty to obey. Pg 35, Palgrave Macmillan, 2013.
->
+
 3.   McLeod, S. A. (2007). The Milgram experiment
