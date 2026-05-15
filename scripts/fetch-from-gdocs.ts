@@ -428,19 +428,30 @@ async function createMarkdownFile(
   });
 
   // 4. If an old file exists, diff-check before overwrite.
+  //
+  // Exception: if the existing file's originalUrl matches the new content's
+  // originalUrl, both came from the same gdoc — they are the same review
+  // and any body drift is just pipeline-version markup drift (an extra `##`
+  // heading detected, a blockquote-wrap, etc.). Overwrite without diff-check.
+  // Without this exception, the pipeline falls through to the `-2`-suffix
+  // fallback in the outer loop and creates a duplicate sibling file.
   if (fs.existsSync(filePath)) {
     const oldContent = fs.readFileSync(filePath, 'utf8');
-    const diff = checkDiff(oldContent, newFrontmatter);
-    if (!diff.safe) {
-      console.log(`  ⚠️  SKIP ${slug}: ${diff.reason}`);
-      return {
-        wrote: false,
-        skipped: true,
-        reason: diff.reason,
-        totalImages: imageResult.totalImages,
-        uploadedImages: imageResult.uploadedCount,
-        reusedImages: imageResult.reusedCount,
-      };
+    const oldUrl = matter(oldContent).data.originalUrl;
+    const sameSource = typeof oldUrl === 'string' && oldUrl === data.originalUrl;
+    if (!sameSource) {
+      const diff = checkDiff(oldContent, newFrontmatter);
+      if (!diff.safe) {
+        console.log(`  ⚠️  SKIP ${slug}: ${diff.reason}`);
+        return {
+          wrote: false,
+          skipped: true,
+          reason: diff.reason,
+          totalImages: imageResult.totalImages,
+          uploadedImages: imageResult.uploadedCount,
+          reusedImages: imageResult.reusedCount,
+        };
+      }
     }
   }
 
