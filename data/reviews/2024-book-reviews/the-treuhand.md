@@ -44,8 +44,7 @@ The government of West Germany also lacked a good plan for the events unfolding 
 
 Independently, the people in the GDR were losing faith in their currency, which, to make things more confusing, was called Mark of the GDR. Now that the state could no longer control its circulation, they started using the Deutschmark as a shadow currency and calls arose for its official adoption. There were banners at the demonstration of the time reading:
 
-> _Comes the Deutschmark, we shall stay;_
->
+> _Comes the Deutschmark, we shall stay;_  
 > _Does it not, we’ll go away!_[[41]](#ftnt41)
 
 Due to these factors and general skepticism towards reform proposals in the East, which were considered too vague, too slow and difficult to pull off in a country where no one had any experience in a market system, Erhard’s idea was taken up by a working group in the chancellery and then proposed to Kohl:
@@ -135,10 +134,12 @@ So what went wrong? And who is to be blamed?
 Böick is not interested in participating in this fun game because it’s too much economy/politics and too little history, but as the protests influenced the Treuhand, where many contemporaries placed the blame, he at least describes the different perspectives. To get at least some outside view, that is independent of those contemporary perspectives, we can have a look at some data.
 
 > ![](https://acximages.ennals.org/images/2024-book-reviews/6d8b16f40786b624.png)The per-capita GDP of other countries that transitioned around the same time as East Germany. If this plot seems kind of overwhelming, that is because it is. If you are really interested, you can have a closer look at them at the source, [Our World in Data](https://ourworldindata.org/economic-growth).
+>
 
 ![](https://acximages.ennals.org/images/2024-book-reviews/50a07399ab812be7.png)
 
 > The same data, averaged. The long stagnation in the mean during the 90s is a mix of some economies stagnating, but it also hides that some were still shrinking, while others were already growing. It is also partly an artifact of poorer countries gaining independence later.
+>
 
 ![](https://acximages.ennals.org/images/2024-book-reviews/c28523f423ef8903.png)
 

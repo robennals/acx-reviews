@@ -16,13 +16,10 @@ tags:
   - Science
 ---
 
-_Lucio Russo_
-
-_The Forgotten Revolution_
-
-_How Science Was Born in 300 BC and Why it Had to Be Reborn_
-
-_Springer 2004_
+> _Lucio Russo_  
+> _The Forgotten Revolution_  
+> _How Science Was Born in 300 BC and Why it Had to Be Reborn_  
+> _Springer 2004_
 
 **The forgotten revolution** is not a harmless book. Despite being ultimately an ancient history book, it possesses the remarkable ability of taking a hammer to your certainties and hitting them repeatedly until they crumble to dust. Certainties about ancient history, you ask? Sure, but certainties about mathematics and the scientific method as well.
 

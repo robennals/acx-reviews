@@ -40,31 +40,31 @@ The overall goal of this review is to study how a person’s sense of individual
 
 The author begins the book with some stories from Somalia, where he was embedded with a Marine unit as a journalist in 1992, during chaotic famine-relief operations that often [involved violent contact with various warlords and their militias](https://en.wikipedia.org/wiki/Battle_of_Mogadishu_(1993)). Although this is just the prologue to the book, I think it’s pretty important, since this is when the author describes how he came to write the book – how he noticed that there was something about the Marines worth writing about. He tells several anecdotes that sparked his curiosity, including the following:
 
-_“As we walked in single file, with red and green tracer fire arcing across the black sky_
+> _“As we walked in single file, with red and green tracer fire arcing across the black sky_
+>
+> _over the city, I realized that I had placed my life in the hands of the young corporal_
+>
+> _leading the patrol, a twenty-two-year-old Marine. In my office back in Washington, we_
+>
+> _wouldn’t let a twenty-two-year-old run the copying machine without adult supervision._
+>
+> _Here, after just two days on the ground in Africa, the corporal was leading his squad into_
+>
+> _unknown territory, with a confidence that was contagious._
 
-_over the city, I realized that I had placed my life in the hands of the young corporal_
+_The next morning I walked to the Mogadishu airport along a hot road ankle deep in fine_
 
-_leading the patrol, a twenty-two-year-old Marine. In my office back in Washington, we_
-
-_wouldn’t let a twenty-two-year-old run the copying machine without adult supervision._
-
-_Here, after just two days on the ground in Africa, the corporal was leading his squad into_
-
-_unknown territory, with a confidence that was contagious._
-
-        _The next morning I walked to the Mogadishu airport along a hot road ankle deep in fine_
-
-_dust with another returning patrol from Alpha Company, led by Cpl. Armando Cordova, a_
-
-_precise-seeming man with a small mustache and wire-rimmed glasses. A native of_
-
-_Puerto Rico who was raised in the Bronx, he once left the Marines and then, after ten_
-
-_months back in New York City, reenlisted. ‘You don’t make friends in the world like you_
-
-_do here,’ he explained, his M-16_ _slung_ _horizontally across his chest. ‘We are like family._
-
-_We eat together, sleep together, patrol together.’”_
+> _dust with another returning patrol from Alpha Company, led by Cpl. Armando Cordova, a_
+>
+> _precise-seeming man with a small mustache and wire-rimmed glasses. A native of_
+>
+> _Puerto Rico who was raised in the Bronx, he once left the Marines and then, after ten_
+>
+> _months back in New York City, reenlisted. ‘You don’t make friends in the world like you_
+>
+> _do here,’ he explained, his M-16_ _slung_ _horizontally across his chest. ‘We are like family._
+>
+> _We eat together, sleep together, patrol together.’”_
 
 ![](https://acximages.ennals.org/images/2024-book-reviews/246bef9a2b90d5bc.jpg)
 
@@ -82,8 +82,8 @@ The author provides a demographic overview of this group: entirely men (basic tr
 
 _“Among them are an accountant fired by Ernst & Young because he flunked his CPA_
 
-_exam; a self-professed gang member from Washington, DC; the son of a Merrill Lynch_
-
+> _exam; a self-professed gang member from Washington, DC; the son of a Merrill Lynch_
+>
 > _bond trader; a Dutch-American who considers himself a pacifist; a former white-supremacist skinhead from Mobile, Alabama; a dozen former employees of Taco Bell and other fast food joints; and a handful of one-time workers at small, off-the-books construction firms. [...] They have come here from Shubuta, Mississippi, from Bayonne, New Jersey, from Destin, Florida, from Pittsburg, Pennsylvania, and from forty other small towns and crumbling eastern cities to pursue one of the few rites of passage left in America.”_
 
 Something I found interesting, both in the book and in my own boot camp experience, is that the military is very diverse, but in a different way than other diverse organizations. Before joining the military, I went to college at a major research university and then briefly worked at a tech company. Both were diverse in a way that reflected the global population, and I got to know people from all over the world – China, India, Europe, Africa, the Middle East, and more. But the military is diverse in a way that closely reflects American society. Boot camp was the first time that I really got to know any southerners (both white and black), Mormons, Protestants[[230]](#ftnt230), Appalachian people ([who are overrepresented in the military](https://slatestarcodex.com/2016/04/27/book-review-albions-seed/)), Cajuns, Puerto Ricans, Mexican-Americans, and Native Americans. The kind of diversity you see at major universities and tech companies doesn’t always include those people.
@@ -92,13 +92,10 @@ The author notes that he’s particularly interested in this kind of diversity, 
 
 _“I wanted to see how an organization could take fifty or so American kids – a group_
 
-_steeped in a culture of individualism and consumerism, many of them users of_
-
-_recreational drugs, few of them with much education or hope of prospering in the_
-
-_American economy – and turn them into Marines who saw themselves as a band of_
-
-_brothers, overcoming deep differences of race and class.”_
+> _steeped in a culture of individualism and consumerism, many of them users of_  
+> _recreational drugs, few of them with much education or hope of prospering in the_  
+> _American economy – and turn them into Marines who saw themselves as a band of_  
+> _brothers, overcoming deep differences of race and class.”_
 
 So, how is this accomplished? The following sections will cover several aspects of the transformation that occurs at Parris Island, in which individual identities are broken down and a new Marine identity is created.
 
@@ -108,17 +105,17 @@ A key element in the process of identity formation is the removal of recruits fr
 
 _“Everything is taken away – hair, clothes, food, and friends. It’s a total cutoff from_
 
-_previous life.”_
+> _previous life.”_
 
 Part of this is the physical separateness: Parris Island is, of course, an island that is physically separated from the rest of society by water and can only be accessed via a single bridge. When recruits cross over that bridge to arrive at boot camp, they’re entering a strange, new world. The author describes this as such:
 
 _“In reality, the bright lights and yacht-set bistros of antebellum Beaufort, South Carolina,_
 
-_are just a few miles from the Marine camp. But to the recruits, the 7,000 flat, wet acres of_
-
-_sand that make up Parris Island might as well be a thousand miles out in the Atlantic_
-
-_Ocean.”_
+> _are just a few miles from the Marine camp. But to the recruits, the 7,000 flat, wet acres of_
+>
+> _sand that make up Parris Island might as well be a thousand miles out in the Atlantic_
+>
+> _Ocean.”_
 
 ![](https://acximages.ennals.org/images/2024-book-reviews/bf153b894530baff.jpg)
 
@@ -136,8 +133,8 @@ One of the most striking things I remember about boot camp is how utterly _diffe
 
 Rather than being gradually eased into this new reality, recruits are thrown in headfirst, in a deliberate attempt to disorient them and induce culture shock. It begins when, immediately upon arrival, a drill instructor steps on the bus and starts yelling at the recruits to get off and line up on a set of yellow footprints. The author writes:
 
-_“The footprints, four to a row, eighteen rows, are so closely packed that the_
-
+> _“The footprints, four to a row, eighteen rows, are so closely packed that the_
+>
 > _newcomers can’t be seen as individuals. Standing nearly heel to toe in the dark night their faces are hardly visible, and their bodies become one mass. The effect is intentional: Marine Corps culture is the culture of the group, made up of members who are anonymous.”_
 
 This is the first of many aspects of boot camp that either explicitly or implicitly emphasize group identity over individual identity. The drill instructor then (very loudly) briefs them on some of many rules they’ll be expected to follow: how to stand at attention and how to respond to questions and orders (“Sir, yes, sir!”).
@@ -166,35 +163,35 @@ Another strange thing about boot camp that the recruits are introduced to immedi
 
 “_As if to underscore that they have entered a new world, Staff Sergeant Biehl begins to_
 
-_teach them a new language. Its peculiarly nautical tones grows out of the Marines’_
-
-_origins as a sea service. ‘We don’t call it a floor, we call it a deck,’ he lectures, striding_
-
-_purposely back and forth at the front of the desks. ‘We don’t call it a door, we call it a_
-
-_hatch.’ For no apparent reason relating to the sea, writing pens are now to be called_
-
-_inksticks and sneakers are go-fasters.”_
+> _teach them a new language. Its peculiarly nautical tones grows out of the Marines’_
+>
+> _origins as a sea service. ‘We don’t call it a floor, we call it a deck,’ he lectures, striding_
+>
+> _purposely back and forth at the front of the desks. ‘We don’t call it a door, we call it a_
+>
+> _hatch.’ For no apparent reason relating to the sea, writing pens are now to be called_
+>
+> _inksticks and sneakers are go-fasters.”_
 
 These are just a few examples of the new vocabulary and there are many more. But perhaps the most notable linguistic change is that the first person pronouns “I” and “me” are forbidden, and recruits are required to refer to themselves in the third person as “this recruit.” This is another not-so-subtle effort to erode the recruits’ sense of individual identity and encourage them to think of themselves as members of a group.
 
 Learning this new language in such a high-pressure atmosphere is difficult. The author describes a conversation in which a recruit is asking permission to use the bathroom (which is called the “head”):
 
-        _“‘I need to…’_
+_“‘I need to…’_
 
-        _‘No.’_
+_‘No.’_
 
-        _‘Sir, I need to…’_
+_‘Sir, I need to…’_
 
-        _‘No.’_
+_‘No.’_
 
-        _‘Sir, can I go to…’_
+_‘Sir, can I go to…’_
 
-        _‘No.’_
+_‘No.’_
 
-        _Finally, after four more tries, he puts it all together, dropping the first person and_
+_Finally, after four more tries, he puts it all together, dropping the first person and_
 
-_including a ‘sir’: ‘Recruit Prish requests permission to make a head call, sir.’”_
+> _including a ‘sir’: ‘Recruit Prish requests permission to make a head call, sir.’”_
 
 And although it’s not conveyed in the quote, it’s likely that this recruit was shouting at the top of his lungs during this exchange.
 
@@ -202,11 +199,11 @@ After being thrown into this loud, chaotic new environment, recruits are then ke
 
 In interviews with the author, the drill instructors and officers at Parris Island are refreshingly honest about the process of disorientation. One says:
 
-        _“From the recruit’s perspective, it appears to be_ _chaos__. [...] The recruits aren’t the_
+_“From the recruit’s perspective, it appears to be_ _chaos__. [...] The recruits aren’t the_
 
-_enemy–don’t get me wrong. The enemy is their values – their un-Marinelike values._
-
-_Self-indulgence, me first, ‘I’m-going-to-do-what-I-want-to-do.’”_
+> _enemy–don’t get me wrong. The enemy is their values – their un-Marinelike values._
+>
+> _Self-indulgence, me first, ‘I’m-going-to-do-what-I-want-to-do.’”_
 
 Normally if you ask a cult leader about this kind of thing, they deny it: “What?! Use disorientation to break down the members' sense of individual identity?! Of course not, that’s ridiculous!” But the Marines own it. This is a straightforward goal that they pursue, not an accusation of something negative. The sense of personal identity, along with any selfishness and individualism, must be broken down so that the Marine group identity can be built up in its place.
 
@@ -288,20 +285,20 @@ While many of these aspects of culture are common to all the military branches, 
 
 “_Once at the pits, four recruits climb into pugil gear: large external padded jockstraps,_
 
-         _flak jackets, padded horse collars, and football helmets with a lineman’s web of a mask._
+_flak jackets, padded horse collars, and football helmets with a lineman’s web of a mask._
 
-_The pugil sticks themselves are really double-headed clubs about four feet long, with_
+> _The pugil sticks themselves are really double-headed clubs about four feet long, with_
+>
+> _heavy green pads at either end, like great malevolent Q-Tips. Sergeant Carey exhorts_
+>
+> _them: ‘Kill or be killed, understand? If you come out a loser, you might as well consider_
+>
+> _yourself dead, understand?’_
 
-_heavy green pads at either end, like great malevolent Q-Tips. Sergeant Carey exhorts_
+_Today’s preliminary round of pugil stick fighting is staged on a wooden fifty-foot-long_
 
-_them: ‘Kill or be killed, understand? If you come out a loser, you might as well consider_
-
-_yourself dead, understand?’_
-
-        _Today’s preliminary round of pugil stick fighting is staged on a wooden fifty-foot-long_
-
-_boardwalk elevated about two feet above a pit of sawdust. Here simple two-man_
-
+> _boardwalk elevated about two feet above a pit of sawdust. Here simple two-man_
+>
 > _contests are staged to loosen up the recruits as the DIs stand nearby and instruct them, like handlers just outside a boxing ring. Members of 3086 are sent up the ramp to the boardwalk to confront head-on recruits from 3084, a companion platoon. Years from now, those recruits will be bosom buddies, Marine comrades who went through boot camp at the same time. But now the adversaries from 3084 are ‘the other’ – masked strangers who might as well be aliens from another planet for all the comradeship 3086 feels with them. The goal is to land two ‘killing’ blows – hits to the head, thrusts to the chest – before the opponent does the same to you.”_
 
 ![](https://acximages.ennals.org/images/2024-book-reviews/3c24cc83d399d35e.jpg)
@@ -346,21 +343,21 @@ So those are two examples of bad identities (gang member, white supremacist) bei
 
 “_Buijs contends in private conversation that he is a pacifist. It isn’t clear why he left the_
 
-_Netherlands to join the Marines, but there is a hint in his personal history. He was born in_
-
+> _Netherlands to join the Marines, but there is a hint in his personal history. He was born in_
+>
 > _New Jersey to a free-spirited Dutch girl who came to America to find the hippie life and instead found a man who left her one month after Paul was born in 1977. She took her baby back to Holland, and Paul grew up happy there. Though essentially Dutch in outlook, he seems somehow driven to prove that he really is an American – perhaps as much an American as his vanished father.”_
 
 Buijs struggles with the violent aspects of boot camp, like the pugil stick fighting, and was described at times as the weakest recruit of the group. The author repeatedly notes the apparent contradiction between being a pacifist and joining the Marines. Now, this is an identity I’m pretty sympathetic to. Like I said, I have some pacifist leanings myself, and when I joined the military I purposely looked for a job specialty that was not focused on fighting. This is kind of impossible in the Marines though, since “every Marine is a rifleman”, as the saying goes. But by the end of boot camp, Buijs’ views have changed:
 
 “_Recruit Buijs concedes that his views have shifted a bit from his steadfast pacifism. ‘It_
 
-_depends on the circumstances. If there’s a good reason, then killing is justified,’ he says._
-
-_Then he marches outside and pins on the Corps’ eagle, globe, and anchor. He isn’t the_
-
-_natural-born killer of the movies, but in his own roundabout way he has become more_
-
-_dedicated to the Marines than many other members of the platoon.”_
+> _depends on the circumstances. If there’s a good reason, then killing is justified,’ he says._
+>
+> _Then he marches outside and pins on the Corps’ eagle, globe, and anchor. He isn’t the_
+>
+> _natural-born killer of the movies, but in his own roundabout way he has become more_
+>
+> _dedicated to the Marines than many other members of the platoon.”_
 
 Overall, the Marine identity seems to have considerable staying-power. To sum things up, the author notes that you typically see a lot more Marine bumper stickers on cars than Army bumper stickers, even though the Army is a much larger branch with many more veterans than the Marines. You also see many more Marine flags on houses than Army flags. If you talk to a middle-aged or elderly person who was in the Marine Corps even just for a couple years in their twenties, often you’ll find that having been a Marine is still a considerable part of their identity.
 

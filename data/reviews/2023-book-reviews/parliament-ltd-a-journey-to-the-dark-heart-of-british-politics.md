@@ -123,9 +123,8 @@ Williams recounts his interview with Labour MP Gisela Stuart thusly:
 
 “_It was as if I’d just taken a crap on the table in front of her. A mixture of horror, disgust and anger – but, above all, just complete confusion. Yet all I’d done was ask a simple question:_
 
-_‘What is Vestra Wealth?’_
-
-_A stunned look sprang on her face. ‘Is that on the Register?’_
+> _‘What is Vestra Wealth?’_  
+> _A stunned look sprang on her face. ‘Is that on the Register?’_
 
 _‘No’ I said. ‘It’s not’_”
 

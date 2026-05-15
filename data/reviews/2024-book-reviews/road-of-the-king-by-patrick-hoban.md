@@ -16,7 +16,7 @@ tags:
 ---
 
 1.  ## Introduction
-
+    
 
 Computer, generate a book that will teach me how to maximize my chances of winning tournaments for the Yu-Gi-Oh! Trading Card Game. The contents must be written by one of the most prolific players of all time. Disable safety protocols.
 
@@ -25,7 +25,7 @@ Computer, generate a book that will teach me how to maximize my chances of winni
 _[Road of The King](https://www.amazon.com/Road-King-Patrick-Hoban/dp/1523990716)_ by Patrick Hoban is a fascinating read that promises to improve your performance in competitive games but at the risk of becoming a villain in the process.
 
 2.  ## Background Information
-
+    
 
 Trading Card Games are a subset of card-based tabletop games which are in no small part defined by unequal access to those cards. Cards are usually acquired through randomized booster packs, preconstructed decks, and promotional events. Players are encouraged to buy more product and trade with each other in order to build out their collections of available cards. This uneven access to resources means players are expected to build a custom deck using their limited available cardpool prior to sitting down at a table. This is the world of hidden information games in which your opponent could, in principle, be using virtually any combination of thousands of cards.
 
@@ -34,9 +34,9 @@ Before we talk about the Yu-Gi-Oh! Trading Card Game in particular, we must firs
 But who are Timmy, Johnny and Spike? What motivates them? Why do they play the game?
 
 *   Timmy is the power gamer. He wants to win in an impressive way with powerful cards and dramatic plays. Timmy won’t be satisfied with a win he considers lame. He is often characterized by a friendly attitude.
->
+
 *   Johnny is the combo player. He wants to express his creativity through innovative strategies and unique interactions. Johnny won’t be satisfied unless his creative idea pays off, but doesn’t mind taking losses along the way.
->
+
 *   Spike is the tournament player. He wants to win. He won’t be satisfied with a loss. He can be ruthless in this pursuit.
 
 ![](https://acximages.ennals.org/images/2024-book-reviews/3c83099e5dbb369c.png)![](https://acximages.ennals.org/images/2024-book-reviews/0cd8894da42447f1.png)![](https://acximages.ennals.org/images/2024-book-reviews/9b018bcb20c78e85.png)
@@ -46,7 +46,7 @@ The vast majority of players embody aspects of each persona, perhaps leaning har
 We strive to increase the probability of a win to its absolute limit, but to do so in such a way that we maximize the fun had along the way. However, certain strategies are forever blocked off from us because of this. I won’t use something straightforward or overused. He won’t use something slow or defensive. We are forever handicapped by an unwillingness to choose victory over all else. Likewise, the friendly decorum of the Timmy closes off [dark arts](https://www.lesswrong.com/tag/dark-arts) that would otherwise prove helpful for securing certain advantages during play.
 
 3.  ## Getting To Know Our Hero
-
+    
 
 Patrick Hoban is one of the most prolific players in the history of the Yu-Gi-Oh! Trading Card Game. Playing the game competitively since 2010, he made a name for himself with consistent top tournament level performance, surpassing the previous record holder of greatest number of tournament top placements to date..
 
@@ -65,9 +65,9 @@ Patrick Hoban is the rare breed of pure Spike. His advice can be ruthless and hi
 Very few players before him had taken such an analytical approach to deck building theory. Everything in this book is designed to leverage his systematized knowledge and claw the chance of success as close as possible to 100%. As a friend of mine put it, “He wants to ‘Moneyball’ Yu-Gi-Oh!”
 
 4.  ## Laying The Foundation
+    
 
-
-_“Much of this section will focus on what it means to be rational.”_
+> _“Much of this section will focus on what it means to be rational.”_
 
 Hoban sets out to explain to his audience how he thinks about anything at all before he goes into how he thinks about games in particular. Drawing on concepts and lessons learned from economics, cognitive psychology and entrepreneurship, he presents a toolbox about how to think clearly, avoid mistakes, and win. It’s one man’s screed about cognition frontloaded in the attempt to discuss his goal of choice with a like-minded audience. If this sounds familiar, it [should](https://www.readthesequences.com/).
 
@@ -76,8 +76,8 @@ Hoban sets out to explain to his audience how he thinks about anything at all be
 The section outlining biases alone contains 41 different biases and errors of thought to avoid.  The reader is guided through a rationality mini crash course, complete with thought experiments, anecdotes, cited studies, and quotes by experts. Specific mental techniques are outlined and Hoban expects the reader to walk away from this section ready to apply these lessons to all domains of their life.
 
 5.  ## Hiring For Your Startup
+    
 
->
 > _“As we continue, we’ll find incredible similarities between things such as the correct way to prepare for tournaments and seemingly unrelated things like the correct way to run a business, because the process of making good decisions looks very similar across all the different disciplines.”_
 
 Some goals are more easily accomplished with a team, which Hoban refers to as a circle, but the ideas discussed feel quite a lot like hiring for a startup. He describes building a highly specialized circle of competence containing specialized roles. The roles support each other so that any given member has a much higher chance of winning the tournaments they attend. He recommends having as few people as possible, each filling a specific specialized niche. He warns against inviting in someone merely because they are your friend. Your circle is your startup and everything you do is your proprietary company secret. Hoban takes this idea very seriously and warns against inviting in anyone who could jeopardize the circle’s mission.
@@ -97,14 +97,14 @@ Outside agents might try to trick you into revealing something valuable.
 It should come as no surprise that Patrick Hoban leveraged these lessons years later to found his own startup, [Parvenu](http://parvenu.io), named in honor of the French word for upstart.
 
 6.  ## Technical Play
+    
 
-
-_“Good technical play is about a fundamental understanding of the basics”_
+> _“Good technical play is about a fundamental understanding of the basics”_
 
 Summarizing and evaluating Hoban’s breakdown of the fundamental skills of TCG play is beyond the scope of this review. I’m pushing the bounds of common sense already by submitting this to the book review contest. If you are a reader of the blog and also play TCGs this section will be extremely valuable. New players will gain a newfound appreciation for the depths of strategy in high level play, and seasoned players can benefit from seeing their already internalized lessons spelled out and systematized.
 
 7.  ## Getting To Know Our Competition
-
+    
 
 The game begins before you place your deck on the table. Just as you must understand all the meta-relevant cards you could face, you must understand all the types of players you could face. Accurately gauging the skill level of your opponent will tell you what level to play at. Each skill level demands a gradually increasing level of nuance and strategy needed to manipulate and defeat them. Afterall, there’s no point making a fancy bluff that requires deep game knowledge if your opponent barely knows what the cards do.
 
@@ -133,8 +133,8 @@ If you are currently up in arms about how reductionist this classification syste
 ![](https://acximages.ennals.org/images/2024-book-reviews/200ea5acf7dfea8d.png)
 
 8.  ## The Mental Game
+    
 
->
 > _“We’re engaging in a battle of the minds with the opponent. This is competition in its purest form. There are no bad draws, no lucky top decks, and no brick hands when it comes to a battle of the minds. Those exist only in the realm of the deck. The mental game is a true test of one’s ability, for it eliminates these factors entirely. This is a battle of intellect, wit, and cunning between two players. The mental aspect embodies the very essence of competition. It is a show of dominance as an art form.”_
 
 This section of the book is where Hoban truly starts to show how orthogonal the values of a Spike can be from the values of a Timmy or Johnny.
@@ -172,24 +172,24 @@ Of course, in order to do this well, Hoban warns, one must have an intimate know
 The path to victory is to gain every possible advantage. Over the course of a long tournament, these little accruals of probability will add up and separate the top players from those that bubble out. Any small increase in victory which is left on the table is a waste and a tragedy. In that spirit, here are some of Hoban’s recommendations to milk valuable information out of your unsuspecting opponent:
 
 *   Ask them about their record. People are all too happy to reveal their win/loss ratio as well as what beat them. Knowledge of what they lost to can help you to guess what deck they’re using before they play a single card.
->
+
 *   Create a mutual enemy. If they express disdain for a particular card used in one of the top decks, then you can guess they aren’t personally using that deck. This has the added benefit of building rapport and good will that can be spent later for an advantage.
->
+
 *   Phish some more with the help of foreign cards. It’s within the bounds of the rules to use foreign language cards so long as you can provide an English version of the card should one be requested. Under normal circumstances, players will ask to look at your card, read it, and hand it back to you. However, a foreign card does not grant them this luxury. They now must ask to see your English copy. This provides an opportunity for exploitation. You can helpfully volunteer to answer any question they might have in lieu of wasting the time hunting for your English copy. They might seem petulant if they turn down this friendly favor and outright ask for a particular piece of information, giving you added knowledge of what they’re considering.
->
+
 > _“If they ask us a specific question about it, then we can infer from that the cards that they might have. We can learn to hear things like, “I was wondering if it could be targeted” as “I have a card that targets.” That is free information we wouldn’t have been able to get if they had just picked up the card and read it!”_
->
+
 *   Abuse the helpful nature of your fellow man.
->
+
 > _“He found a way to be able to figure out who was playing Cairngorgon and who wasn’t. Justin realized that we could pick up our own Extra Deck and stare at a card for a few seconds, and then ask the opponent, “Do you have an English Cairngorgon I could read?””_ 
 >
 > Hoban’s circle knew that most opponent’s first reaction to a friendly request would be an obliging hand. So why not abuse this fact? His team needed to know if their opponents were using a particular card in order to evaluate the relative safety of an otherwise strong play. This knowledge would turn a coin flip into an assured victory. Throughout the entire tournament in which they performed this ploy, all players helpfully obliged them, many sealing their own doom in the process. The only one who managed to avoid doing so flat out forgot they were using the card and instead checked their trade binder rather than the cards they were using to play. Hoban’s team meanwhile leaked no useful information with this play, as they were not even using the card to begin with.
->
-*   Phish, phish, phish! Make bold assertions about what your opponent is planning. Their responses will often reveal whether or not you were right. Puzzled looks, confused wonderment, and forced blankness all yield their own information theoretic advantage if only you can separate the signal from the noise.
->
-9.  ## The Art of Persuasion or How I Learned to Stop Caring and Love the Dark Arts
 
->
+*   Phish, phish, phish! Make bold assertions about what your opponent is planning. Their responses will often reveal whether or not you were right. Puzzled looks, confused wonderment, and forced blankness all yield their own information theoretic advantage if only you can separate the signal from the noise.
+
+9.  ## The Art of Persuasion or How I Learned to Stop Caring and Love the Dark Arts
+    
+
 > _“It’s an important distinction to make, as there is no such thing as “somewhat illegal.” It’s either illegal and not allowed or legal and allowed, and we need to make sure we are staying on the right side of the line.”_
 
 This section of the book is about particular ways to lead your opponent to the conclusions you want them to have. This goes beyond baiting them into believing you have a particular card or misdirecting them away from a winning play. It’s here that Hoban advocates convincing your opponent to make decisions against their own interests beyond the confines of the game itself.
@@ -221,7 +221,7 @@ Perhaps the most infamous example of this tactic is to offer to mutually remove 
 Remember, this is the art of winning– and that translates into taking every little edge and advantage you can. Anything short of that would be to not take the endeavor seriously. Made up notions like honor and sportsmanship only serve to hold you back and artificially handicap yourself.
 
 10.  ## The Rest of The Book
-
+     
 
 What remains is an extremely in-depth systematized look at how to build a consistent, powerful deck. This section is extremely informative and a great resource for anyone building a deck for the Yu-Gi-Oh! Trading Card game circa 2016.
 
@@ -230,7 +230,7 @@ Although all of Hoban’s advice about probability, variance, and comparative ad
 He goes on to describe metagames at large, how to evaluate them, and how to gear your deck choices to suit them. Lessons to be learned here are very specific to constructed play of luck-based hidden information games, but are an interesting read for anyone interested in the deep well of meta-level skills employed in high level play.
 
 11.  ## My Takeaways
-
+     
 
 During my reading of _Road of The King_ I was constantly torn. Doing what Hoban recommends will absolutely make you more likely to win tournaments, but he never brings up what you would be trading off by doing so.
 
@@ -249,7 +249,7 @@ I want to win without compromising my values or making the game less pleasant fo
 ![](https://acximages.ennals.org/images/2024-book-reviews/85b58b12b6c77c8b.jpg)
 
 12.  ## Conclusion
-
+     
 
 Who should read this book?
 

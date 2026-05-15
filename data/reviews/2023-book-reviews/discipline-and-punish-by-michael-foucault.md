@@ -53,7 +53,7 @@ Even with these changes, the public execution remained dangerous. The people flo
 The case for reform was strengthened by the changing nature of crime. As Foucault tells it, during the feudal period crime targeted feudal rights. Common crimes included smuggling and tax-avoidance. These crimes violated the rights that the feudal system awards to groups of people. Smugglers, for example, violate the King’s right to tax trade. As feudalism gave way to capitalism and France became richer, crime began to target goods. Writing in 1764, Le Trosne complained that brigands could cost richer peasants up to a third of their incomes. The problem became worse when the newly created bourgeoisie began to buy the old feudal estates. Traditionally, the peasantry had the right to collect wood, to graze livestock, etc. in the landed estates. These rights were rejected by the new owners of the estates, who regarded these activities as theft.
 
 As crime stopped targeting the rights of the old feudal nobility and started targeting the goods of the new capitalist bourgeoisie, the bourgeoisie began to panic. They became convinced that France was in the middle of a crime wave, even though in absolute terms crime seems to have been decreasing at the time of the Revolution. They began to search for a way to restore order. They reasoned:  
-
+  
         “A criminal commits a crime because he expects benefits from it. If each crime is associated with disadvantages which outweigh its benefits, there will be no reason to commit crime.”
 
 On hearing this, a modern social scientist might respond:
@@ -78,7 +78,7 @@ The system of punishment we have today, where all major offenses are punished by
 
 By 1810, however, basically all serious crimes were either punished by death or imprisonment. This surprised several deputies of the French Assembly, who wondered why ironic punishment had not been tried instead. One complained:
 
-_“If I have betrayed my country, I go to prison; if I have killed my father, I go to prison; every imaginable offense is punished in the same way. One might as well see a physician who has the same remedy for all ills.”_
+> _“If I have betrayed my country, I go to prison; if I have killed my father, I go to prison; every imaginable offense is punished in the same way. One might as well see a physician who has the same remedy for all ills.”_
 
 This raises the question: _“what happened?”_ Why did France decide to punish crime by imprisonment without even trying the alternatives? Foucualt’s answer: during the nineteenth century, everything became more prison-like. Punishment just came along for the ride.
 
@@ -94,19 +94,13 @@ Fantastically Orwellian? Perhaps. But as Foucault documents, the French took thi
 
 The Écoles mutuelles, or mutual improvement schools, timetabled their children’s lives in 4 minute increments. Foucault helpfully supplies an extract from their timetables:
 
-_8:45. Entrance of the monitor._
-
-        _8:52. The monitor’s summons._
-
-        _8:56. Entrance of the children and prayer._
-
-        _9:00. The children go to their benches._
-
-        _9:04. First slate._
-
-        _9:08. End of dictation._
-
-        _9:12. Second slate._
+> _8:45. Entrance of the monitor._  
+> _8:52. The monitor’s summons._  
+> _8:56. Entrance of the children and prayer._  
+> _9:00. The children go to their benches._  
+> _9:04. First slate._  
+> _9:08. End of dictation._  
+> _9:12. Second slate._
 
 The students’ movement was carefully choreographed. Take the command _“Enter your benches”._ On hearing the word _“Enter”_, a child was expected to place his hands on the table and put one leg into the bench. On hearing the words _“your benches”_, he should put his other leg in and sit down. Take the command _“Take your slates”._ At the word _“Take”_, a child was expected to grab the string that her slate is hanging by with her right hand and the slate itself with her left hand. At the word _“slates”_, she should unhook it and place it on the table.
 

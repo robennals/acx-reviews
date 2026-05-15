@@ -79,9 +79,8 @@ The difficulty in reading it is peculiar, probably not quite what you are expect
 
 The “center of gravity” of the stories is that the heroes- these archetypes moving through the space of all possible worlds-are Unkin. Once-humans who have stepped out of linear time, into a space of narrative time, they became demi-gods. Over the millennia they have been arranging themselves into two sides: The Covenant- an attempt to govern the Unkin, to bring them to heel and cease their pretensions to Godhood- they have championed Abrahamic monotheism. The Sovereigns stand against them- individual self-styled deities and their little fiefdoms. Angels and demons duel with swords of fire and words of thunder in the air. But a third side is coming, a Greek chorus that has chosen to enter the fight, a swarm of dead souls, moved by the richness of the world out from death and eternity, furious at the pretensions of both sides:
 
-_**““NO MORE VILLAINS, NO MORE VICTIMS, NO MORE HEROES”**_
-
-_[…]_
+> _**““NO MORE VILLAINS, NO MORE VICTIMS, NO MORE HEROES”**_  
+> _[…]_
 
 _A commendable concept says Moloch_ _bitterly. And who might you be?_
 

@@ -29,47 +29,39 @@ To get you started, picture a man walking through a park at day’s end, decidin
 
 ### Verse 1
 
-_**They sat together in the park**_
-
-_**As the evening sky grew dark**_
+> _**They sat together in the park**_  
+> _**As the evening sky grew dark**_
 
 So here they are, presumably on a park bench, as the song opens.
 
-_**She looked at him and he felt a spark**_
-
-_**Tingle to his bones**_
+> _**She looked at him and he felt a spark**_  
+> _**Tingle to his bones**_
 
 “_**He felt a spark tingle to his bones**_” is quintessential Dylan, and is not to be overlooked. You know exactly what he means by this, but you wouldn’t have said it that way yourself. The phrases that surface in the minds of mere mortals are pedestrian tropes, things like:  “she made his heart skip  a beat” or “she took his breath away” or “she hit him like a ton of bricks.” But with Dylan it’s a spark that tingles to the bone. Short, simple words rarely seen together - spark, tingle, bone - perfectly conjuring something we’re all familiar with - ”I’m seriously out of my league here!” - is at the root of the Dylan magic.
 
-_**‘Twas then he felt alone**_
-
-_**And wished that he’d gone straight**_
-
-_**And watched out for a simple twist of fate**_
+> _**‘Twas then he felt alone**_  
+> _**And wished that he’d gone straight**_  
+> _**And watched out for a simple twist of fate**_
 
 So the man is about to hook up with a woman who is clearly very desirable. And he knows she desires _him_, from that look. He should be absolutely pumped, and yet he feels alone - _alone_ - and wishes he hadn’t sat down at all! But it’s too late now; the ride has begun. And as this metaphorical roller coaster pulls away from the platform, he’s being overwhelmed by a premonition that it will end badly for him.
 
 ### Verse 2
 
-_**They walked along by the old canal**_
-
-_**A little confused, I remember well**_
+> _**They walked along by the old canal**_  
+> _**A little confused, I remember well**_
 
 Wait, what? _I_ remember well? Who are you?
 
 This “I” is the “he” in the story. Dylan’s narrator is signalling to us that although he’s telling the story in the third person - presumably to allow us to imagine ourselves more snugly in his shoes - it’s a _first_ person story. He’s talking about what happened to _himself_. At the very end of the song he’ll drop the he/she shenanigans and get down to business by talking directly to us about his problems.
 
-_**And stopped into a strange hotel**_
-
-_**With a neon burning bright**_
+> _**And stopped into a strange hotel**_  
+> _**With a neon burning bright**_
 
 Pretty straightforward. Can you see the brightness of the neon against a sky that has yet to go fully dark? Or maybe it _has_ gone fully dark by now. Either way, it’s a strange hotel.
 
-_**He felt the heat of the night**_
-
-_**Hit him like a freight train**_
-
-_**Movin’ with a simple twist of fate**_
+> _**He felt the heat of the night**_  
+> _**Hit him like a freight train**_  
+> _**Movin’ with a simple twist of fate**_
 
 As they used to say back when this was written, she rocked his world. Or you could say that the experience in the hotel with the woman was devastatingly satisfying for the man.
 
@@ -77,9 +69,8 @@ A minor side comment here. Note that Dylan has rhymed _**freight train**_ with _
 
 ### Verse 3
 
-_**A saxophone someplace far off played**_
-
-_**As she was walkin’ on by the arcade**_
+> _**A saxophone someplace far off played**_  
+> _**As she was walkin’ on by the arcade**_
 
 There’s been a change of scene. She’s no longer where we left her - at the strange hotel with the man. Don’t tell me she left while he was sleeping???
 
@@ -87,15 +78,13 @@ It seems like she’s now outside, where she can hear a saxophone playing in the
 
 And she’s walking by _an arcade_? Why an arcade? It was chosen to reflect her view of the night before: just fun and games. If you think I’m reaching for that interpretation, you’ll see in just a bit that I’m not.
 
-_**As the light bust through a beat up shade**_
-
-_**Where he was wakin’ up**_
+> _**As the light bust through a beat up shade**_  
+> _**Where he was wakin’ up**_
 
 She _did_ sneak out on him!!! I _knew_ it. And now we know she left before sunrise.
 
-_**She dropped a coin into the cup**_
-
-_**Of a blind man at the gate**_
+> _**She dropped a coin into the cup**_  
+> _**Of a blind man at the gate**_
 
 A second, indirect reference to her opinion of the happenings of the previous night. It couldn’t be any clearer. It was a charity fuck.
 
@@ -109,19 +98,13 @@ This third verse, taken altogether, is pure Hollywood. The juxtaposition of the 
 
 ### Verse 4
 
-_**He woke up, the room was bare**_
-
-_**He didn’t see her anywhere**_
-
-_**He told himself he didn’t care**_
-
-_**Pushed the window open wide**_
-
-_**Felt an emptiness inside**_
-
-_**To which he just could not relate**_
-
-_**Brought on by a simple twist of fate**_
+> _**He woke up, the room was bare**_  
+> _**He didn’t see her anywhere**_  
+> _**He told himself he didn’t care**_  
+> _**Pushed the window open wide**_  
+> _**Felt an emptiness inside**_  
+> _**To which he just could not relate**_  
+> _**Brought on by a simple twist of fate**_
 
 No need to go line by line here, it’s all pretty straightforward. I do love the pushing open wide of the window. It’s just what you would do if you were in a movie. And we’d already been introduced to the beat-up shade _on_ that window, so the window was already in the scene.
 
@@ -149,25 +132,22 @@ _**Hunts her down by the waterfront docks**_
 
 This is a bit unexpected. He actually tracks her down. But by the waterfront docks? Where did _they_ come from? We’re by a large body of water? I guess there _was_ a canal, wasn’t there? But is Dylan throwing away half a line here? Scenic filler? No. _Never_. He’s setting us up for a giant thwack on the funny bone.
 
-_**Where the sailors all come in**_
-
-_**Maybe she’ll pick him out again**_
+> _**Where the sailors all come in**_  
+> _**Maybe she’ll pick him out again**_
 
 So let’s review. She’s already picked him out once and been severely unimpressed. And now she’s positioned herself where boatloads of horny sailors are disembarking, and he’s hoping to be picked out again???
 
 (The parrot, by the way, is now back in play! It so nicely fits with the sailor theme, don’t you think? Maybe she made him pretend he was a sailor! Only Bob would know.)
 
-_**How long must he wait**_
-
-_**One more time for a simple twist of fate**_
+> _**How long must he wait**_  
+> _**One more time for a simple twist of fate**_
 
 F_orever_, most likely, is how long he’ll have to wait. Parrot or no parrot.
 
 ### Final Verse
 
-_**People tell me it’s a sin**_
-
-_**To know and feel too much within**_
+> _**People tell me it’s a sin**_  
+> _**To know and feel too much within**_
 
 His buddies are all telling him, “Dude, you gotta stop obsessing over this chick. It’s time to MOVE ON.”
 
@@ -181,9 +161,8 @@ _**But I lost the ring**_
 
 He couldn’t close the deal. He lost the engagement ring. Not a literal engagement ring, but rather a spiritual one–his chance to win this woman’s heart. _How_ did he lose the ring, you ask?
 
-_**She was born in spring**_
-
-_**But I was born too late**_
+> _**She was born in spring**_  
+> _**But I was born too late**_
 
 By being too young, too immature.
 
@@ -201,19 +180,13 @@ So, in this final line of the song, according to me, Dylan’s referring to a _s
 
 Not buyin’ that slight age difference explanation, are ya? Well, I have one further piece of evidence to introduce before you make your final ruling. There’s an alternate closing verse to this song.
 
-_**People tell me it’s a crime**_
-
-_**To feel too much at any one time**_
-
-_**She should’ve caught me in my prime**_
-
-_**She would have stayed with me**_
-
-_**Instead of going off to sea**_
-
-_**And leavin’ me to meditate**_
-
-_**Upon that simple twist of fate**_
+> _**People tell me it’s a crime**_  
+> _**To feel too much at any one time**_  
+> _**She should’ve caught me in my prime**_  
+> _**She would have stayed with me**_  
+> _**Instead of going off to sea**_  
+> _**And leavin’ me to meditate**_  
+> _**Upon that simple twist of fate**_
 
 I think that “_**She should’ve caught me in my prime**_” seals the deal, don’t you?
 

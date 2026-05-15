@@ -14,6 +14,7 @@ source: gdoc
 tags:
   - Fiction
 ---
+
 Sing, O Muse, of the Many-Mannered Bear!
 
 ## I
@@ -217,52 +218,34 @@ But when it comes to the words half Pooh is still better. For Winnie-the-Pooh—
 
 > NOISE, BY POOH
 >
-> Oh, the butterflies are flying,
->
-> Now the winter days are dying.
->
-> And the primroses are trying
->
+> Oh, the butterflies are flying,  
+> Now the winter days are dying.  
+> And the primroses are trying  
 > To be seen.
 >
-> And the turtle-doves are cooing,
->
-> And the woods are up and doing,
->
-> For the violets are blue-ing
->
+> And the turtle-doves are cooing,  
+> And the woods are up and doing,  
+> For the violets are blue-ing  
 > In the green.
 >
-> Oh, the honey-bees are gumming
->
-> On their little wings, and humming
->
-> That the summer, which is coming
->
+> Oh, the honey-bees are gumming  
+> On their little wings, and humming  
+> That the summer, which is coming  
 > Will be fun.
 >
-> And the cows are almost cooing,
->
-> And the turtle doves are mooing,
->
-> Which is why a Pooh is poohing
->
+> And the cows are almost cooing,  
+> And the turtle doves are mooing,  
+> Which is why a Pooh is poohing  
 > In the sun.
 >
-> For the spring is really springing;
->
-> You can see a skylark singing,
->
-> And the blue-bells, which are ringing,
->
+> For the spring is really springing;  
+> You can see a skylark singing,  
+> And the blue-bells, which are ringing,  
 > Can be heard.
 >
-> And the cuckoo isn’t cooing,
->
-> But he’s cucking and he’s ooing,
->
-> And a Pooh is simply poohing
->
+> And the cuckoo isn’t cooing,  
+> But he’s cucking and he’s ooing,  
+> And a Pooh is simply poohing  
 > Like a bird.
 
 Rabbit overhears Pooh singing this song and consequently learns a bit about Pooh’s Artistic Process:
@@ -282,10 +265,8 @@ Now, this brings us back to Pooh’s _kleos_. Like Odysseus, Pooh is the sort of
 
     “I,” said Pooh,
 
-> “At a quarter to two
->
-> (Only it was quarter to eleven really),
->
+> “At a quarter to two  
+> (Only it was quarter to eleven really),  
 > _I_ found the Tail!”
 
 Later, he suddenly thinks of the line, “_Sing Ho! for the life of a Bear!”_ and thinks it’s such a “very good start for a song” that he composes one to do it justice. During the Expotition to find the North Pole, Pooh memorializes the entire group in song. After he rescues Pigelet from the flood, he composes a song with lines like “3 Cheers for the wonderful Winnie-the-Pooh!” When he and Piglet build a house for Eeyore, Pooh changes the words to one of his hums to celebrate the act. He also writes a song about how he will spend his morning, a song claiming ownership of a Thoughtful Spot where he sometimes meets Piglet, and a song about his adventure getting pinned under a chair at Owl’s house.
@@ -336,8 +317,7 @@ But the most Homeric moment in the Pooh books actually belongs to Piglet.
 
 In Chapter Eight of _The House at Pooh Corner_, Pooh and Piglet decide to use a very windy day to go around the Forest making social calls. Their last stop is the Hundred Acre Wood, where Owl lives in a treehouse. The sound of the wind in the treetops worries Piglet:
 
-> “Supposing a tree fell down, Pooh, when we were underneath it?”
->
+> “Supposing a tree fell down, Pooh, when we were underneath it?”  
 > “Supposing it didn’t,” said Pooh after careful thought.
 
 But Piglet’s supposition turns out to be  closer to the truth. They’ve only been at Owl’s house for a few moments when the wind brings down the tree and the house crashes to the ground on its side.[[88]](#ftnt88)
@@ -368,80 +348,50 @@ _I must have searched the internet for twenty minutes to find this illustration.
 
 And this is the song Pooh writes for him:
 
-> _Here lies a tree which Owl (a bird)_
->
-> _Was fond of when it stood on end,_
->
-> _And Owl was talking to a friend_
->
-> _Called Me (in case you hadn't heard)_
->
+> _Here lies a tree which Owl (a bird)_  
+> _Was fond of when it stood on end,_  
+> _And Owl was talking to a friend_  
+> _Called Me (in case you hadn't heard)_  
 > _When something Oo occurred._
 >
-> _For lo! the wind was blusterous_
->
-> _And flattened out his favourite tree;_
->
-> _And things looked bad for him and we—_
->
-> _Looked bad, I mean, for he and us—_
->
+> _For lo! the wind was blusterous_  
+> _And flattened out his favourite tree;_  
+> _And things looked bad for him and we—_  
+> _Looked bad, I mean, for he and us—_  
 > _I've never known them wuss._
 >
-> _Then Piglet (PIGLET) thought a thing:_
->
-> _“Courage!” he said “There's always hope._
->
-> _I want a thinnish piece of rope._
->
-> _Or, if there isn't any, bring_
->
+> _Then Piglet (PIGLET) thought a thing:_  
+> _“Courage!” he said “There's always hope._  
+> _I want a thinnish piece of rope._  
+> _Or, if there isn't any, bring_  
 > _A thickish piece of string.”_
 >
-> _So to the letter-box he rose,_
->
-> _While Pooh and Owl said “Oh!”_
->
-> _and “Hum!”_
->
-> _And where the letters always come_
->
-> _(Called “LETTERS ONLY”) Piglet sqoze_
->
+> _So to the letter-box he rose,_  
+> _While Pooh and Owl said “Oh!”_  
+> _and “Hum!”_  
+> _And where the letters always come_  
+> _(Called “LETTERS ONLY”) Piglet sqoze_  
 > _His head and then his toes._
 >
-> _O gallant Piglet (PIGLET)! Ho!_
-
-    _Did Piglet tremble? Did he blinch?_
-
-> _No, No, he struggled inch by inch_
->
-> _Through LETTERS ONLY, as I know_
->
+> _O gallant Piglet (PIGLET)! Ho!_  
+> _Did Piglet tremble? Did he blinch?_  
+> _No, No, he struggled inch by inch_  
+> _Through LETTERS ONLY, as I know_  
 > _Because I saw him go._
 >
-> _He ran and ran, and then he stood_
->
-> _And shouted, “Help for Owl, a bird,_
->
-> _And Pooh, a bear!” until he heard_
->
-> _The others coming through the wood_
->
+> _He ran and ran, and then he stood_  
+> _And shouted, “Help for Owl, a bird,_  
+> _And Pooh, a bear!” until he heard_  
+> _The others coming through the wood_  
 > _As quickly as they could._
 >
-> _“Help-help and Rescue!” Piglet cried,_
->
-> _And showed the others where to go._
->
-> _Sing ho! for Piglet (PIGLET) ho!_
->
-> _And soon the door was opened wide_
->
+> _“Help-help and Rescue!” Piglet cried,_  
+> _And showed the others where to go._  
+> _Sing ho! for Piglet (PIGLET) ho!_  
+> _And soon the door was opened wide_  
 > _And we were both outside!_
 >
-> _Sing ho! for Piglet, ho!_
->
+> _Sing ho! for Piglet, ho!_  
 > _Ho!_
 
 Piglet is understandably delighted when Pooh shares this song with him, which leads to this exchange:

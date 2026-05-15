@@ -17,34 +17,34 @@ tags:
   - Economics
 ---
 
-_Imagine no possessions_
-
-_I wonder if you can_
-
-_No need for greed or hunger_
-
-_A brotherhood of man_
-
-_Imagine all the people sharin' all the world_
-
-_Yoo, hoo, oo-oo_
-
+> _Imagine no possessions_
+>
+> _I wonder if you can_
+>
+> _No need for greed or hunger_
+>
+> _A brotherhood of man_
+>
+> _Imagine all the people sharin' all the world_
+>
+> _Yoo, hoo, oo-oo_
+>
 > _-- John Lennon, "Imagine," 1971 AD_
-
-_Under thy rule what trace may yet remain_
-
-_With us of guilt, shall vanish from the earth_
-
-_Leaving it free for ever from alarm..._
-
-_The whole world will he rule, now set at peace..._
-
-_The teeming she-goats without call come home,_
-
-_The flocks by lions shall be scared no more,_
-
-_No more by serpents and by poison plants..._
-
+>
+> _Under thy rule what trace may yet remain_
+>
+> _With us of guilt, shall vanish from the earth_
+>
+> _Leaving it free for ever from alarm..._
+>
+> _The whole world will he rule, now set at peace..._
+>
+> _The teeming she-goats without call come home,_
+>
+> _The flocks by lions shall be scared no more,_
+>
+> _No more by serpents and by poison plants..._
+>
 > _-- Vergil,_ _[Eclogue 4](https://en.wikisource.org/wiki/Eclogues_of_Virgil_(1908)/Eclogue_4)__, 42 BC_
 
 ## I

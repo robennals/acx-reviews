@@ -20,11 +20,9 @@ tags:
 ![Diagram
 Description automatically generated](https://acximages.ennals.org/images/2023-book-reviews/c8314b09b88bef22.jpg)
 
-_“Most people are other people._
-
-_Their thoughts are someone else's opinions,_
-
-_Their lives a mimicry, their passions a quotation.”  - Oscar Wilde_
+> _“Most people are other people._  
+> _Their thoughts are someone else's opinions,_  
+> _Their lives a mimicry, their passions a quotation.”  - Oscar Wilde_
 
 In the magical world of Harry Potter, Dumbledore imparts a profound piece of wisdom to young Harry: "_It is our choices, Harry, that show what we truly are, far more than our abilities._"
 

@@ -19,9 +19,8 @@ tags:
 
 ## Apologia
 
-_“First is the worst; second is the best”_
-
-_— Timeless Adage_
+> _“First is the worst; second is the best”_  
+> _— Timeless Adage_
 
 I know what you’re thinking: “Oh boy, here we go again. Didn’t someone review this book last year?” Indeed, Erik Hoel [won last year’s contest](https://astralcodexten.substack.com/p/your-book-review-the-dawn-of-everything) by braving the vast seas of The Dawn of Everything, a devastating realization I only made once I was hundreds of pages into my own voyage through this behemoth of a book. I debated charting a new course through a different text to preempt accusations of piracy, but after examining last year’s review more carefully, I resolved to complete this one for a few reasons:
 
@@ -81,9 +80,8 @@ Despite (or perhaps because of) his historical misconceptions, Rousseau’s lega
 
 ## Two Models of Freedom
 
-_“If freedom means doing what I want, well, don’t I gotta want something?”_
-
-_— Ramshackle Glory_
+> _“If freedom means doing what I want, well, don’t I gotta want something?”_  
+> _— Ramshackle Glory_
 
 The Davids outline three freedoms[[3]](#ftnt3) they find are neglected in the discourse of Western political philosophy. These are:
 
@@ -101,9 +99,8 @@ Indeed, the American Indian concept of freedom comes at the cost of guaranteed s
 
 ## The Agency Argument
 
-_“I could stop any time.”_
-
-_— My uncle on his second pack of the day_
+> _“I could stop any time.”_  
+> _— My uncle on his second pack of the day_
 
 The Davids open with a call to “treat people, from the beginning, as imaginative, intelligent, playful creatures,” rather than a monolithic “primordial human soup,” which is a great band name. After all, “even small children are typically far more imaginative than this, and as we all know spend a considerable part of their time constructing alternative roles and symbolic worlds to inhabit.”
 
@@ -198,9 +195,8 @@ Maybe, once again, they’re really chafing against the friction that inheres to
 
 ## Is the Evidence in the Room with Us Right Now?
 
-_“Gee, wouldya look at all the bullet holes in them there aircraft wings!”_
-
-_— Someone in WWII, probably_
+> _“Gee, wouldya look at all the bullet holes in them there aircraft wings!”_  
+> _— Someone in WWII, probably_
 
 So far the story goes something like this. The Davids show you some evidence, and ask you to connect the dots:
 
@@ -230,9 +226,8 @@ If we had the full evidence of human history, our connect the dots would actuall
 
 ## Standing on Erik Hoel’s Giant Shoulders
 
-_“Fee fi fo fum”_
-
-_— The Giant_
+> _“Fee fi fo fum”_  
+> _— The Giant_
 
 I know Erik’s review was excellent because it improved my understanding of the book after I’d finished reading it. I’ll refrain from submitting my own speculative theory of human history and focus on two points of disagreement.
 
@@ -248,9 +243,8 @@ More importantly, dwelling on the Sapient Paradox misses the pragmatic value the
 
 ## Fun Facts
 
-_“It is fun to have fun but you have to know how.”_
-
-_— Dr. Seuss_
+> _“It is fun to have fun but you have to know how.”_  
+> _— Dr. Seuss_
 
 The idea of the “noble savage” first referred to Indian men who spent their days hunting and fighting, which were largely the preserve of the noblemen back in France.
 

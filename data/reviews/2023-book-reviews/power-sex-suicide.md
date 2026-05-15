@@ -191,7 +191,7 @@ And what if Earth had taken just another billion years between evolving life, ph
 
 ![](https://acximages.ennals.org/images/2023-book-reviews/7c2919ecca6c30d4.png)
 
-_Mitochondria can’t evolve in space_
+> _Mitochondria can’t evolve in space_
 
 This all makes me pretty pessimistic about how often complex life might evolve out there but again, it all adds up to normality and with the Fermi Paradox we probably already knew that.  But on the flip side, it makes me more optimistic about our ability to find simple life out there.  Colonies of chemosynthetic life bound to deep sea vents on icy but geologically active moons in the outer solar system.  Or life that once arose on Mars but died out when the surface water went away.
 

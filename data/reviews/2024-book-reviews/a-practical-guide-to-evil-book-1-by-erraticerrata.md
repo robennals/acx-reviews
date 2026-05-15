@@ -32,16 +32,16 @@ While superficially it’s a young adult fantasy epic about Evil triumphing over
 What would you do if you knew you were in a simulation?  As in, your existence is predicated on beings from outside your Reality created you for their own purposes, and your position and continued existence depend on you and the people you interact with doing the bidding of the simulators, but they won't tell you any of the "rules" and the objectives of the simulation are seemingly opaque…
 
 *   _Oh, that framing might be catnip to ACXers, but I only remember that theme appearing in later books; I wonder if it was present at the start of the series?_  
->
+
 > _**In the beginning, there were only the Gods.**_
 >
 > _**Aeons untold passed as they drifted aimlessly through the Void, until they grew bored with this state of affairs. In their infinite wisdom they brought into existence Creation, but with Creation came discord. The Gods disagreed on the nature of things: some believed their children should be guided to greater things, while others believed that they must rule over the creatures they had made.**_
-
-_**So, we are told, were born Good and Evil.**_
-
+>
+> _**So, we are told, were born Good and Evil.**_
+>
 > _**Ages passed in fruitless argument between them until finally a wager was agreed on: it would be the mortals that settled the matter, for strife between the Gods would only result in the destruction of all. We know this wager as Fate, and thus Creation came to know war. Through the passing of the years grooves appeared in the workings of Fate, patterns repeated until they came into existence easier than not, and those grooves came to be called Roles. The Gods gifted these Roles with Names, and with those came power. We are all born free, but for every man and woman comes a time where a choice must be made.**_
-
-_**It is, we are told, the only choice that ever really matters.”**_
+>
+> _**It is, we are told, the only choice that ever really matters.”**_
 
 **– First page of the Book of All Things**
 

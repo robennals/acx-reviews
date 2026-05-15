@@ -113,22 +113,22 @@ Cognitive biases are universal ammunition in this sense. Widespread and unbounde
 
 2007-Yudkowsky [argued](https://www.lesswrong.com/posts/AdYdLP2sRqPMoe8fb/knowing-about-biases-can-hurt-people) this point in signature guru style:
 
-> _The last time I gave a talk on heuristics and biases, I started out by introducing the general concept by way of the_ [weaponisable] _conjunction fallacy and_ [weaponisable] _representativeness heuristic. And then I moved on to confirmation bias, disconfirmation bias, sophisticated argument, motivated skepticism, and other attitude effects. I spent the next thirty minutes hammering on that theme, reintroducing it from as many different perspectives as I could.  
-> …  
-> Whether I do it on paper, or in speech, I now try to never mention calibration and overconfidence unless I have first talked about disconfirmation bias, motivated skepticism, sophisticated arguers, and dysrationalia in the mentally agile. First, do no harm!_
+> _The last time I gave a talk on heuristics and biases, I started out by introducing the general concept by way of the_ [weaponisable] _conjunction fallacy and_ [weaponisable] _representativeness heuristic. And then I moved on to confirmation bias, disconfirmation bias, sophisticated argument, motivated skepticism, and other attitude effects. I spent the next thirty minutes hammering on that theme, reintroducing it from as many different perspectives as I could._  
+> _…_  
+> _Whether I do it on paper, or in speech, I now try to never mention calibration and overconfidence unless I have first talked about disconfirmation bias, motivated skepticism, sophisticated arguers, and dysrationalia in the mentally agile. First, do no harm!_
 
 I still feel like this undersells the problem. It’s amazingly thorny: The better you are at spotting errors, the more you know about the topic in question, and the more carefully you reason, _the harder it gets_. The more progress you make, the more elaborately your brain can fool you. Sophistication bias threatens to turn the whole rationalist project against itself.
 
 Confirmation bias isn’t even needed, information asymmetries do the trick. I found Scott’s [story](https://www.astralcodexten.com/p/contra-kavanaugh-on-fideism) about his Atlantis days instructive:
 
 > _When I was a teenager I believed in a conspiracy theory. It was the one Graham Hancock wrote about in Fingerprints Of The Gods, sort of a modern update on the Atlantis story. It went something like this:_
->
+
 *   _Did you know that dozens of civilizations around the world have oddly similar legends about a lost continent that sunk under the waves? The Greeks called it Atlantis; the Aztecs, Atzlan; the Indonesians, Atala._
 *   _Various ancient structures and artifacts appear to be older than generally believed. Geologists say that the erosion patterns on the Sphinx prove it must be at least 10,000 years old; some well-known ruins in South America have depictions of animals that have been extinct for at least 10,000 years._
 *   _There are vast underwater ruins, pyramids and stuff. We know where they are! You can just learn to scuba dive and go see them! Historians just ignore them, or say they’re probably natural, but if you look at them, they’re obviously not natural._
->
+
 > _Teenage me was impressed by these arguments. But he also had some good instincts and wanted to check to see what skeptics had to say in response. Here are what the skeptics had to say:_
->
+
 *   _“Haha, can you believe some people still think there was an Atlantis! Imagine how stupid you would have to be to fall for that scam!”_
 *   _“There is literally ZERO evidence for Atlantis. The ONLY reason you could ever believe it is because you’re a racist who thinks brown people couldn’t have built civilizations on their own.”_
 *   _“No mainstream historians believe in any of that. Do you think you’re smarter than all the world’s historians?”_

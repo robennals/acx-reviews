@@ -15,11 +15,9 @@ tags:
   - Religion
 ---
 
-_Answer not a fool according to his folly, lest thou also be like unto him._
-
-_Answer a fool according to his folly, lest he be wise in his own conceit._
-
-_Proverbs 26:4-5_
+> _Answer not a fool according to his folly, lest thou also be like unto him._  
+> _Answer a fool according to his folly, lest he be wise in his own conceit._  
+> _Proverbs 26:4-5_
 
 ![](https://acximages.ennals.org/images/2024-book-reviews/d64792430fe661a0.jpg)
 

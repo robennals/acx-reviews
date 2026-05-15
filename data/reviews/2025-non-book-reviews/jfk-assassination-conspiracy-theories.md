@@ -150,9 +150,8 @@ Nonetheless, this remains the most plausible of the major conspiracy theories—
 
 #### Lyndon Johnson did it
 
-_“He’s mean, bitter, vicious—an animal in many ways.” —RFK on LBJ_
-
-_“I’ve had more women by accident than he ever had on purpose.” —LBJ on JFK_
+> _“He’s mean, bitter, vicious—an animal in many ways.” —RFK on LBJ_  
+> _“I’ve had more women by accident than he ever had on purpose.” —LBJ on JFK_
 
 In a crowded field of backstabbers and power-grabbers, Lyndon Johnson takes the crown as America’s most ruthless president. Among other things, he froze out longtime backers forever over the smallest slights, almost certainly [stole the 1948 Texas Senate election](https://apnews.com/article/lbj-stolen-election-box-13-mangan-c818e478ec509c65585d3094bda69f96), and established dominance over his aides by making them join him in the bathroom to take dictation while he sat on the toilet.
 
@@ -282,8 +281,7 @@ It’s not just that every specific conspiracy theory has good arguments against
 
 The conspiracy theorists do get a few things right. There _was_ a cover-up—but it was just the CIA covering its own ass. High-level government officials _did_ go into the investigation favoring some explanations over others—but it just so happens that the scenarios they were most afraid of really didn’t happen. The Warren Commission _didn’t_ get the whole truth from all of its witnesses—but it got the core story right anyway.
 
----
-
+- - -
 This sucks, and I’m pretty bummed about it.
 
 After all, the official narrative is deeply unsatisfying, and accepting the government’s version of events just feels so… uncool. I came of age in the George W. Bush era, when distrusting the experts and assuming the government was always lying were hallmarks of the left. Sometime in the Trump years, that all flipped. I already find myself cheering for Liz Cheney and defending the FBI. Now I have to tell everyone the Warren Report is accurate? When did being on the left become so fucking lame?
@@ -292,8 +290,7 @@ After all, the official narrative is deeply unsatisfying, and accepting the gove
 
 Remember when the biggest conspiracy theory this guy believed was that George Bush didn’t care about Black people?
 
----
-
+- - -
 Earlier in this piece, I said that the person who benefitted most from Kennedy’s assassination was Lyndon Johnson. But that wasn’t quite right. There’s someone who benefitted even more: Kennedy himself. Or at least, the Kennedy legacy.
 
 In case it’s not obvious from the tone of this review, I think Kennedy is a wildly overrated president, one whose reputation rests more on what he represented than what he actually accomplished. And that reputation would not have survived a second term intact.

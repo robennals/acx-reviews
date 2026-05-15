@@ -163,19 +163,13 @@ I will leave you with this: a depiction of the lives of our distant ancestors, i
 
 ._..and he carves in the stone three peoples, tight-knit families each,_
 
-_offshoots of a single clan, divided long ago. It was a small thing,_
-
-_their dispute: where best to hunt, where the great Grandfather bear_
-
-_and other men, might not intrude? So divided, they set out_
-
-_to meet their separate fates in cheerful spirits, each among them sure_
-
-_they'd chosen best. Millenia go by. Now three peoples, they_
-
-_speak in separate tongues, with no inkling of their mutual relation._
-
-_One clan still thrives in a fecund river valley. Winter, when it comes, is_
+> _offshoots of a single clan, divided long ago. It was a small thing,_  
+> _their dispute: where best to hunt, where the great Grandfather bear_  
+> _and other men, might not intrude? So divided, they set out_  
+> _to meet their separate fates in cheerful spirits, each among them sure_  
+> _they'd chosen best. Millenia go by. Now three peoples, they_  
+> _speak in separate tongues, with no inkling of their mutual relation._  
+> _One clan still thrives in a fecund river valley. Winter, when it comes, is_
 
 _not so harsh. He renders in the stone a family curled up in a cave,_
 
@@ -193,90 +187,50 @@ _and trusted her to reappear in time. Spring’s fertile offspring would return,
 
 _this child too will in time become acquainted with her joys._
 
-_And he traces out a hunting-band, flung far from the shelter of the caves,_
-
-_coursing through the woodland, their quarry flagging in the summer heat,_
-
-_unfit to outrun such pursuers._
-
+> _And he traces out a hunting-band, flung far from the shelter of the caves,_  
+> _coursing through the woodland, their quarry flagging in the summer heat,_  
+> _unfit to outrun such pursuers._  
 > _But then in those deep woods_
 
 _is heard another voice—the second of the clans, whose hunters_
 
 _scout the way before a  heavy-laden convoy. The lands_ they _found_
 
-_were not so rich, and in time they came to fear the winter's pressing chill._
-
-_Each year the cold came quicker, and the great columns of ice were_
-
-_unrelenting. Many had to starve before the choice was made. In the stone_
-
-_Is etched a council of the elders passing judgment: hope is gone—_
-
-_there is no future for them here, but only death. So out they set_
-
-_to find a richer clime, recalled in myth—where the wolves were not so hungry_
-
-_in the night. They brought what they could carry, trekked for years,_  
-
-_numbers ever dwindling, with Winter at their heels. They prayed_
-
-_for their deliverance. The sky was vengeful—still aggrieved_
-
-_at some offense, they had to guess. They swore: a portion of our bounties_
-
-_will be yours, o gods, if you only let us share again in bounty!_
-
-_And he hews a scene in stone: the distant relatives alight upon each other._
-
-_They know each other not. Then a young man of the fertile valley, abound_
-
-_with the strength of a rich life, looks up. His eyes meet other eyes—_
-
-_the stare of a young woman, who despite her years has known_
-
-_more grief than he known, by far._
-
-> _The third clan, too, knew well_
-
-_how merciless the seasons oft could be. It was not their fate to flee_
-
-_the ice itself, but to be fled towards. But when the others came,_
-
-_they came like wolves. Their hearts were bitter towards all people,_
-
-_and the earth itself, which punished them for nothing. Their meeting ended in_
-
-_a brutal slaughter: the third clan's hunters cut down in their tracks,_
-
-_too trusting, unprepared to steel their hearts so quickly. The interlopers took_
-
-_their pick of what was left behind: food and garments, tools_
-
-_and woven bladders to bring water on the hunt. Women too, though many_
-
-_women’s lives were lost already. Those who did escape, their hearts_
-
-_turned bitter too—mistrusting all, in turn._
-
-> _All this he carves, and carves again_
-
-_a thousand times. So many generations—eternities—_
-
-_calamities to seed fear in the world, great waves sent forth_
-
-_to cause fear alike in others when they break. Still the sea will settle—_
-
-_and the cycle of the seasons will go on. And each time Spring arrives,_
-
-_and all the children taste her joys, their fear grows fainter._
-
-_And the long dark days of winter, with little else to do, afford_
-
-_time to retell stories, and to learn from their mistakes, to not forget_
-
-_what it took to withstand bygone seasons. All this he sets in stone,_
-
-_and buries in the earth, a fractal chronicle of life,_
-
-_all but forgotten, but no less true for having been forgotten._
+> _were not so rich, and in time they came to fear the winter's pressing chill._  
+> _Each year the cold came quicker, and the great columns of ice were_  
+> _unrelenting. Many had to starve before the choice was made. In the stone_  
+> _Is etched a council of the elders passing judgment: hope is gone—_  
+> _there is no future for them here, but only death. So out they set_  
+> _to find a richer clime, recalled in myth—where the wolves were not so hungry_  
+> _in the night. They brought what they could carry, trekked for years,_  
+> _numbers ever dwindling, with Winter at their heels. They prayed_  
+> _for their deliverance. The sky was vengeful—still aggrieved_  
+> _at some offense, they had to guess. They swore: a portion of our bounties_  
+> _will be yours, o gods, if you only let us share again in bounty!_  
+> _And he hews a scene in stone: the distant relatives alight upon each other._  
+> _They know each other not. Then a young man of the fertile valley, abound_  
+> _with the strength of a rich life, looks up. His eyes meet other eyes—_  
+> _the stare of a young woman, who despite her years has known_  
+> _more grief than he known, by far._  
+> _The third clan, too, knew well_  
+> _how merciless the seasons oft could be. It was not their fate to flee_  
+> _the ice itself, but to be fled towards. But when the others came,_  
+> _they came like wolves. Their hearts were bitter towards all people,_  
+> _and the earth itself, which punished them for nothing. Their meeting ended in_  
+> _a brutal slaughter: the third clan's hunters cut down in their tracks,_  
+> _too trusting, unprepared to steel their hearts so quickly. The interlopers took_  
+> _their pick of what was left behind: food and garments, tools_  
+> _and woven bladders to bring water on the hunt. Women too, though many_  
+> _women’s lives were lost already. Those who did escape, their hearts_  
+> _turned bitter too—mistrusting all, in turn._  
+> _All this he carves, and carves again_  
+> _a thousand times. So many generations—eternities—_  
+> _calamities to seed fear in the world, great waves sent forth_  
+> _to cause fear alike in others when they break. Still the sea will settle—_  
+> _and the cycle of the seasons will go on. And each time Spring arrives,_  
+> _and all the children taste her joys, their fear grows fainter._  
+> _And the long dark days of winter, with little else to do, afford_  
+> _time to retell stories, and to learn from their mistakes, to not forget_  
+> _what it took to withstand bygone seasons. All this he sets in stone,_  
+> _and buries in the earth, a fractal chronicle of life,_  
+> _all but forgotten, but no less true for having been forgotten._

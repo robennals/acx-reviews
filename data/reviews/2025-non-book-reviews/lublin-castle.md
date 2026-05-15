@@ -63,19 +63,13 @@ There are prisons everywhere for those with the eyes to see.
 
 Although I am a theologian, I put Bukowski above Solzhenitsyn. This one dialogue about coconuts opening Tales of Ordinary Madness, where five year old girl talking with her father, a thug:
 
-_„why do you work nights?”_
-
-_“it’s darker. people can’t see me.”_
-
-_“why don’t you want people to see you?”_
-
-_“because if they do I might get caught and put in jail.”_
-
-_“what’s jail?”_
-
-_“everything’s jail.”_
-
-_“I’m not jail!”_
+> _„why do you work nights?”_  
+> _“it’s darker. people can’t see me.”_  
+> _“why don’t you want people to see you?”_  
+> _“because if they do I might get caught and put in jail.”_  
+> _“what’s jail?”_  
+> _“everything’s jail.”_  
+> _“I’m not jail!”_
 
 Probably philosophers stating similar idea in long sentences didn’t discover entirely new world, they just express in their own way general annoyance that is felt by any human caught in any system.
 

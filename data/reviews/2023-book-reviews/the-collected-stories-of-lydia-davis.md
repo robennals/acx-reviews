@@ -91,13 +91,13 @@ After reading the previous section, you may feel disappointed. And I don't blame
 Which reliable sources? Not sure, there are so many. Let’s ask ChatGPT. It should be able to show the wisdom of the crowd. ChatGPT, which reviews should the reader read instead?
 
 > _There are many reviews of "The Collected Stories Of Lydia Davis" available online, and here are some recommendations of reputable magazines/newspapers:_
->
+
 1.  _The New Yorker: The New Yorker is known for its in-depth and thought-provoking book reviews, and they have published multiple reviews of Lydia Davis's work over the years._
 2.  _The New York Times: The New York Times has a robust book review section that covers a wide range of genres and authors. They have also published several reviews of Davis's work, including her collected stories._
 3.  _The Guardian: The Guardian is a UK-based newspaper that features reviews of books from both established and emerging authors. They have also published a review of Davis's collected stories._
 4.  _The Paris Review: The Paris Review is a literary magazine that features reviews, interviews, and essays on contemporary literature. They have also published a review of Davis's collected stories._
 5.  _The Los Angeles Times: The Los Angeles Times has a dedicated book review section that covers a range of genres and authors. They have published a review of Davis's collected stories as well._
->
+
 > _These are just a few examples, but there are many other reputable magazines and newspapers that have reviewed Davis's collected stories. Reading a variety of reviews can help you get a better understanding of the book and whether it's right for you._
 
 I particularly agree with the idea of reading a variety of reviews. In fact, with so many reviews online, ChatGPT can even write a competent summary of them. Boring? Yes. Generalist? Too. But a safe and useful option for anyone who has not read anything about the book or the author? I'd say so:
@@ -150,8 +150,7 @@ Enjoying human complexity can come thanks to AI efficiency. ChatGPT, what books 
 >
 > _"The Thing Around Your Neck" by Chimamanda Ngozi Adichie_
 >
-> _  
-> These authors all write in a similar vein as Berlin, Davis, and Hempel, with a focus on the short story form and a gift for capturing the complexities of human emotion and experience in a few short pages._
+> _These authors all write in a similar vein as Berlin, Davis, and Hempel, with a focus on the short story form and a gift for capturing the complexities of human emotion and experience in a few short pages._
 
 I can tell you that these recommendations are better than any available on Amazon or Goodreads, for example. For a start, they do not fall into the trap of recommending books by the same author or close collaborators. Also, the ability to add multiple authors/books, rather than just one, helps me to better define what I am looking for.
 

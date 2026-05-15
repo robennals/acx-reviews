@@ -256,20 +256,14 @@ What I didn’t find in this memoir was Nichols claiming women were sanctified b
 
 Nichols includes a poem by William Alderman about the death of his nephew, James C. Hodges, yes the same one who was Nichols’ schoolteacher and the cousin of Jincy Parrish, and yes, William Alderman was also Jincy’s uncle. Here are a couple stanzas:
 
-> _To see young men torn up with bombs,_
-
-_And knowing they are some mother’s sons._
-
-> _How would it make a mother feel_
->
+> _To see young men torn up with bombs,_  
+> _And knowing they are some mother’s sons._  
+> _How would it make a mother feel_  
 > _To see her son dead on the field?_
 >
-> _In battles fought, and wars of old,_
->
-> _As I have read, and oft been told,_
->
-> _But never viewed such awful scenes,_
->
+> _In battles fought, and wars of old,_  
+> _As I have read, and oft been told,_  
+> _But never viewed such awful scenes,_  
 > _Until this awful war has been._
 
 The full poem reads like an antiwar poem, not a sanctification of mothers’ sacrifices.

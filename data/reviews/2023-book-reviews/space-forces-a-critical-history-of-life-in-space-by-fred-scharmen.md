@@ -113,9 +113,8 @@ _Space Forces_ here first singles out Arthur C. Clarke. _The Encyclopedia of Sci
 
 ![](https://acximages.ennals.org/images/2023-book-reviews/ed16516163a30165.png)
 
-_The monolith, busily being cool and unsympathetic._
-
-_Source: 2001: A Space Odyssey Film Still_
+> _The monolith, busily being cool and unsympathetic._  
+> _Source: 2001: A Space Odyssey Film Still_
 
 In this section, as before, the book travels back across the Iron Curtain to bring up other authors - Stanislaw Lem’s _Solaris_, and the Stugatskys’ _Roadside Picnic._
 
@@ -159,9 +158,8 @@ In a twist of fate that’s almost hard to believe but is absolutely real, the M
 
 ![](https://acximages.ennals.org/images/2023-book-reviews/4beda5a71a4f82f8.png)
 
-_No, seriously. It looks even weirder on the page._
-
-_Source: The Mars Project, Screenshot/Highlight from Business Insider_
+> _No, seriously. It looks even weirder on the page._  
+> _Source: The Mars Project, Screenshot/Highlight from Business Insider_
 
 Of course, von Braun’s Nazi past was [not completely lost on America](https://www.youtube.com/watch?v=QEJ9HrZq7Ro) - but the specifics of his actual future vision mostly were. Instead, a narrative grew up around him, arguing that, in his 1947 testimony to the War Department, “given the nature of his work, he had no alternative but to join” the SS. Just like with Tsiolkovsky, a respect for the strength of his dream, for the quality of being a person pursuing a dream, grew up around him at the same time that the specific details of his dream vanished into thin air.
 
