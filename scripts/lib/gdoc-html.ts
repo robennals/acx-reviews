@@ -628,9 +628,6 @@ function applySemanticTags($: CheerioAPI, styles: GDocStyleMap): void {
     const cleaned = innerHtml
       .replace(/^(<br\s*\/?>)?\s*((\u00a0|&nbsp;)\s*)+/, '')
       .trim();
-    if (innerHtml.includes('It is')) {
-      console.log('DBG nbsp-strip:', JSON.stringify(innerHtml.slice(0, 80)), '->', JSON.stringify(cleaned.slice(0, 80)));
-    }
     target.html(cleaned);
   });
 }
