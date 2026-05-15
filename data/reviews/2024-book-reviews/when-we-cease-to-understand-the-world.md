@@ -38,7 +38,7 @@ Thirty one years ago, in 1993, Vernor Vinge predicted, though far from the first
 
 _It is a point where our old models must be discarded and a new reality rules. As we move closer to this point, it will loom vaster and vaster over human affairs till the notion becomes a commonplace. Yet when it finally happens it may still be a great surprise and a greater unknown._
 
-        _- The Coming Technological Singularity: How to Survive in the Post-Human Era, Vernor Vinge_
+_- The Coming Technological Singularity: How to Survive in the Post-Human Era, Vernor Vinge_
 
 He reports that John Von Neumann, Freeman Dyson, and Stanislaw Ulam were enamored with the idea and wrestled with it as early as the 1950s.  Why? How did all of these intellects converge early on such a notion, and why did it torment them?
 
@@ -84,123 +84,74 @@ _Love_ _set_ _you going like a fat gold watch._
 
 _The midwife slapped your_ _footsoles__, and your bald cry_  
 
-_Took its place among the elements._
-
-_Our voices echo, magnifying your arrival. New statue._
-
-_In a drafty museum, your nakedness_
-
-_Shadows our safety. We stand round blankly as walls._
-
-_I’m no more your mother_
-
-_Than the cloud that distills a mirror to reflect its own slow_
-
-_Effacement at the wind’s hand._
-
-_All night your moth-breath_
-
-_Flickers among the flat pink roses. I wake to listen:_
-
-_A far sea moves in my ear._
-
-_One cry, and I stumble from bed, cow-heavy and floral_
-
-_In my Victorian nightgown._
-
-_Your mouth opens clean as a cat’s. The window square_
-
-_Whitens and swallows its dull stars. And now you try_
-
-_Your handful of notes;_
-
-_The clear vowels rise like balloons._
-
-*   Morning Song, Sylvia Plath
+> _Took its place among the elements._  
+> _Our voices echo, magnifying your arrival. New statue._  
+> _In a drafty museum, your nakedness_  
+> _Shadows our safety. We stand round blankly as walls._  
+> _I’m no more your mother_  
+> _Than the cloud that distills a mirror to reflect its own slow_  
+> _Effacement at the wind’s hand._  
+> _All night your moth-breath_  
+> _Flickers among the flat pink roses. I wake to listen:_  
+> _A far sea moves in my ear._  
+> _One cry, and I stumble from bed, cow-heavy and floral_  
+> _In my Victorian nightgown._  
+> _Your mouth opens clean as a cat’s. The window square_  
+> _Whitens and swallows its dull stars. And now you try_  
+> _Your handful of notes;_  
+> _The clear vowels rise like balloons._
+>
+> *   Morning Song, Sylvia Plath
 
 ### Self-Reliance // Understanding
 
-_Out of the night that covers me,_
-
-      _Black as the pit from pole to pole,_
-
-_I thank whatever gods may be_
-
-      _For my unconquerable soul._
-
-_In the fell clutch of circumstance_
-
-      _I have not winced nor cried aloud._
-
-_Under the bludgeonings of chance_
-
-      _My head is bloody, but unbowed._
-
-_Beyond this place of wrath and tears_
-
-      _Looms but the Horror of the shade,_
-
-_And yet the menace of the years_
-
-      _Finds and shall find me unafraid._
-
-_It matters not how strait the gate,_
-
-      _How charged with punishments the scroll,_
-
-_I am the master of my fate,_
-
-      _I am the captain of my soul._
-
-*   Invictus, William Ernest Henley
+> _Out of the night that covers me,_  
+> _Black as the pit from pole to pole,_  
+> _I thank whatever gods may be_  
+> _For my unconquerable soul._  
+> _In the fell clutch of circumstance_  
+> _I have not winced nor cried aloud._  
+> _Under the bludgeonings of chance_  
+> _My head is bloody, but unbowed._  
+> _Beyond this place of wrath and tears_  
+> _Looms but the Horror of the shade,_  
+> _And yet the menace of the years_  
+> _Finds and shall find me unafraid._  
+> _It matters not how strait the gate,_  
+> _How charged with punishments the scroll,_  
+> _I am the master of my fate,_  
+> _I am the captain of my soul._
+>
+> *   Invictus, William Ernest Henley
 
 ### Falling // Approach
 
-_Turning and turning in the widening gyre_  
-
-_The falcon cannot hear the falconer;_
+> _Turning and turning in the widening gyre_  
+> _The falcon cannot hear the falconer;_
 
 _Things fall apart; the_ _centre_ _cannot hold;_
 
-_Mere anarchy is loosed upon the world,_
-
-_The blood-dimmed tide is loosed, and everywhere_  
-
-_The ceremony of innocence is drowned;_
-
-_The best lack all conviction, while the worst_  
-
-_Are full of passionate intensity._
-
-_Surely some revelation is at hand;_
-
-_Surely the Second Coming is at hand._  
-
-_The Second Coming! Hardly are those words out_  
-
-_When a vast image out of Spiritus Mundi_
-
-_Troubles my sight: somewhere in sands of the desert_  
-
-_A shape with lion body and the head of a man,_  
-
-_A gaze blank and pitiless as the sun,_  
-
-_Is moving its slow thighs, while all about it_  
-
-_Reel shadows of the indignant desert birds._  
-
-_The darkness drops again; but now I know_  
-
-_That twenty centuries of stony sleep_
-
-_Were vexed to nightmare by a rocking cradle,_  
-
-_And what rough beast, its hour come round at last,_  
-
-_Slouches towards Bethlehem to be born?_
-
-*   The Second Coming, William Butler Yeats
+> _Mere anarchy is loosed upon the world,_  
+> _The blood-dimmed tide is loosed, and everywhere_  
+> _The ceremony of innocence is drowned;_  
+> _The best lack all conviction, while the worst_  
+> _Are full of passionate intensity._  
+> _Surely some revelation is at hand;_  
+> _Surely the Second Coming is at hand._  
+> _The Second Coming! Hardly are those words out_  
+> _When a vast image out of Spiritus Mundi_  
+> _Troubles my sight: somewhere in sands of the desert_  
+> _A shape with lion body and the head of a man,_  
+> _A gaze blank and pitiless as the sun,_  
+> _Is moving its slow thighs, while all about it_  
+> _Reel shadows of the indignant desert birds._  
+> _The darkness drops again; but now I know_  
+> _That twenty centuries of stony sleep_  
+> _Were vexed to nightmare by a rocking cradle,_  
+> _And what rough beast, its hour come round at last,_  
+> _Slouches towards Bethlehem to be born?_
+>
+> *   The Second Coming, William Butler Yeats
 
 ### On The Other Side
 

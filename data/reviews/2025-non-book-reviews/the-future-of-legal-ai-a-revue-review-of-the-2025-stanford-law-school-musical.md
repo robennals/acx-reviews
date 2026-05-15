@@ -82,13 +82,13 @@ Kill switches have been [widely advocated as a safety measure for AI](https://ww
 
 ## The Overall Vibe
 
-_Can AI write a perfect legal brief? Can AI deliver a rousing oral argument?_
-
-*   _Neurotic Gunner_
-
-_Can you?_
-
-*   _CLAUDE_
+> _Can AI write a perfect legal brief? Can AI deliver a rousing oral argument?_
+>
+> *   _Neurotic Gunner_
+>
+> _Can you?_
+>
+> *   _CLAUDE_
 
 Overall, despite the happy endings and the peppy songs, I felt the mood of the production was quite bleak.
 

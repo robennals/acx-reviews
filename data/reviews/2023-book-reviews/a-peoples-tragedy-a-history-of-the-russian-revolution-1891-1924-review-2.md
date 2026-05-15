@@ -23,7 +23,7 @@ Review by D.N.
 From my readings on Russia, there is arguably one dominant theme that keeps occurring. That is the concern over Russia’s “backwardness”, be it from its own leaders, its intellectuals, foreign observers or statesmen.
 
 It is obviously a very charged terminology and one that can be hard to truly pinpoint. Nonetheless , it seems pretty accurate in many ways, especially as Russia’s identity came to be increasingly defined by its relation with the west. It could be argued that many other areas in Europe also shared that trait, but Russia came to be compared to the west increasingly as it gained the great power status and entered the ‘concert of Europe’.  
-
+  
 From then on, the country has been anchored to Europe. The debate of whether it belongs to Europe, became a dividing line among its native thinkers. Some actually took pride in Russia’s Asiatic culture and history, embracing the Mongol heritage as part of the country’s identity, while others were convinced that the only way forward was toward the west. Later on, the idea of pan-slavism also gained ground and played a non-trivial role in the onset of the First World War as the support for Serbia was seen as a form of moral obligation that excited an ever more vocal public opinion.
 
 Orlando Figes delivers in this book, what is to me, social history at its best.  
@@ -40,7 +40,7 @@ The Wikipedia page on ‘social history’ quotes the historian Charles Tilly wh
 This is exactly what the book succeeds at. The narrative from the top, the importance of Lenin or the Bolsheviks, recedes into the background. It is not that these agents are not influential, it is more that the author is focusing on what in society allowed for such agents to be influential in the way they have been, in a particular time.
 
  The book does follow, for the most part, a chronological narrative, accounting for the grand events of the revolution and its main actors, but following what is the main force of the book, I will not focus on the grand narrative too much and instead use the book to try and tackle some of these questions:  
-
+  
 What  were the important macro trends in Russia, in the decades prior to the revolution?  
 How did these trends compare to those occurring in the west?                                          What prevented a more progressive path toward political change?                                     Who were the people that supported and allowed for the revolution to occur?  
 What were their motivations and how did they experience the sequence of events?  
@@ -51,9 +51,7 @@ What was the vision of the bolsheviks for the regime and what did it actually ac
 
 Although there were few liberal regimes at the turn of the century, most countries of western Europe were transforming themselves into modern nation-states. Germany had recently been unified into a powerful empire after the defeat of France in 1871 and Italy followed the same process at the same period.
 
-
 The nation-state was one of the main transforming ideas of the 19th  century. Together with the industrial revolution that was spreading from England, it would profoundly transform the continent.
-
 
 While most states remained monarchical or even imperial, they were nonetheless experiencing deep structural changes in their organization that influenced their political , economic and societal characteristics.
 
@@ -63,9 +61,7 @@ From a very light bureaucracy that relied on local relays of power, more central
 
 Keeping the military force in mind, the statesmen of the period saw that there were more to it than sheer strength in number. What the modern era required was a literate population capable of following complex instructions and able to participate in large scale collaboration. This was required of soldiers in the army as it was of workers in the   factory.
 
-
 The schooling system provided a solution to these issues, it became more widespread and was crucial in the forming of a national consciousness.
-
 
 From a security state, it was turning into a benevolent one. All over western Europe, the state was getting involved in the betterment of the health and education of its population. The children were slowly being brought out of dreadful working conditions and put into schools, the workers were insured better working conditions, the elderly insured against destitution.
 
@@ -78,7 +74,8 @@ Freedom of the press was a crucial element of this evolution. The newspapers wer
 Politically, the transformations were not less profound, most countries had a parliament that grew more influential with time. The parliaments were first very constrained in their prerogatives. However, with time, they came to impose their primacy as initiators of the law and liberal parties acted as engines for further progressive policies.  
 The franchise tended to evolve toward more inclusion with some countries attaining [universal man suffrage](https://en.wikipedia.org/wiki/Universal_manhood_suffrage) before the turn of the century.
 
- Although it would be tempting to separate, for instance, the more liberal regimes of France, the only republic with Switzerland on the continent and Great Britain with those of imperial Germany, Austria-Hungary and The Russian empire, what is truly remarkable is that these changes were occurring regardless of the form of government.
+   
+Although it would be tempting to separate, for instance, the more liberal regimes of France, the only republic with Switzerland on the continent and Great Britain with those of imperial Germany, Austria-Hungary and The Russian empire, what is truly remarkable is that these changes were occurring regardless of the form of government.
 
 ### Russia at the turn of the century
 
@@ -107,7 +104,7 @@ This vital fact is all too often clouded by the revolutionaries' mythic image of
 
 The regular police, as opposed to the political branch, was extremely small by European standards. Russia's expenditure on the police per capita of the population was less than half of that in Italy or France and less than one quarter of that in Prussia. For a rural population of 100 million people, Russia in 1900 had no more than 1,852 police sergeants and 6,874 police constables. The average constable was responsible for policing 50,000 people in dozens of settlements stretched across nearly 2,000 square miles. Many of them did not even have a horse and cart.
 
-
+   
 
 Far from emphasizing this failure of modernization as an expression of the essence of an ‘eternal Russia’ that could only have turned out this way, the author highlights the missed opportunity of the reform era following the emancipation in the 1860s.
 
@@ -517,11 +514,11 @@ And:
 Alongside it was printed a second letter of protest from five People's Commissars, a third of Lenin's cabinet, four who resigned and six other prominent Bolshevik leaders, in which it was stated that a purely Bolshevik government could be maintained only by means of 'political terror' and that, if this path was taken, it would lead to 'the establishment of an unaccountable regime and to the destruction of the revolution and the country'. This was without doubt one of the most critical moments in the history of the Bolshevik Party. Though Lenin's revolution had been carried out, the party emerged from it hopelessly divided and isolated from the rest of the revolutionary movement. Few people believed, in its second week, that the Bolshevik regime could survive.
 
 Under Lenin’s ruthless leadership, the Bolsheviks are now busy concentrating power into their own hands, they are not simply setting themselves as the main party but are actively repressing all forms of dissents.  
-
+  
 The soviet is bypassed by the party, the elections are rigged and where there is an open show of opposition, the repression is swift. After a large demonstration against the many abuses of power by the Bolsheviks, the other parties are accused as “counter revolutionaries”, some parties are banned while party leaders are arrested.  
-
+  
 The party was growing as violent as it was growing powerful, a political police, the Cheka, was established under Felix Dzerzhinsky. The Cheka was bound to surpass in violence and cruelty the Okhrhana, its predecessor from the tsarist era, in no time.  
-
+  
 Very soon, the constituent assembly, the representative body with the most democratic legitimacy, was under direct attack by the Bolsheviks. Unless it accepted submission to the Soviet, the Bolsheviks simply asked for the closure of the assembly . The repression against the public outcry was indicative of the direction of the new regime:
 
 Petrograd was in a state of siege on 5 January, the opening day of the Constituent Assembly. The Bolsheviks had placed the capital under martial law, forbidden public gatherings and flooded the city with troops. Most of them were concentrated near the Tauride Palace, where the Assembly was due to convene. The palace was cordoned off with barricades guarded by Bolshevik pickets.
@@ -531,7 +528,7 @@ It was the first time government troops had fired on an unarmed crowd since the 
 To understand the scale of the revolution and how it managed to affect so many people in such a dramatic manner, it is important to stress the amount of buy-in that there was within the population at large.  
 As we have already seen , the peasants and the workers often had their own agenda and profited from the political struggles at the top to impose their own revolution from the bottom.  
 Considering the dire situation, due to the poor handling of the war, the economy, and the counterproductive policies implemented by the communists, what did the new regime offer to those that supported the revolution?  
-
+  
 The phrase “looting of the looters”, that the Bolsheviks would [make their own](https://soviethistory.msu.edu/1917-2/economic-apparatus/economic-apparatus-texts/lenin-loot-the-looters/), is used by Figes to describe the process by which the regime managed to build itself on the worst sentiments of the masses:
 
 If Soviet power could do little to relieve the misery of the poor, it could at least make the lives of the rich still more miserable than their own — and this was a cause of considerable psychological satisfaction. After 1918, as the revolution's ideals became tarnished and the people became more and more impoverished, the Bolshevik regime was increasingly inclined to base its appeal almost exclusively on these vulgar pleasures of revenge. In an editorial to mark the start of 1919, Pravda proudly proclaimed: Where are the wealthy, the fashionable ladies, the expensive restaurants and private mansions, the beautiful entrances, the lying newspapers, all the corrupted 'golden life'?
@@ -545,7 +542,7 @@ In one People's Court the jurors made it a practice to inspect the hands of the 
 Ten days later the Bolsheviks finally seized control of the bank and forced the employees, at the point of a gun, to open the vaults. Five million roubles were removed, taken off to the Smolny in a velvet bag and deposited on Lenin's desk. The whole operation resembled a bank holdup. The Bolsheviks now took over the State Bank, making it possible for them to dip their hands freely into the nation's coffers; yet none of them had the slightest idea of how such a vast bank worked. 'There were people among us who were acquainted with the banking system from books and manuals,' recalled one of its new directors, 'but there was not a single man among us who knew the technical procedure of the Russian State Bank. 
 
 Regardless of the ignorance concerning the ins and outs of government among the new ruling class, they sincerely believed in their ideology and were definitely committed to implement it.  
-
+  
 By doing so, they embarked on a journey that would profoundly reshape Russian society and those of the republics that would soon constitute the USSR. There was, of course, the economic policies that are at the core of communist ideology, but on top of that, there was a grand vision of the new man that could be shaped to fit in a communist state.  
 In that regard, the bolsheviks, did not especially got their inspiration from traditional marxist theory, they were the product of an era in which many dreamed about the rationalization of man :
 
@@ -586,7 +583,7 @@ As a result of poor management, skewed incentives that went against efficiency a
 Despite their exemption from the food levy and generous state grants of tools and livestock, very few collectives ran at a profit, and many of them ran at a heavy loss. Less than a third of their total income was derived from their own production, the rest coming mainly from the state. Some collectives were so badly run that they had to conscript the local peasants for labour duty on their fields. The peasants saw this as a new form of serfdom and took up arms against the collectives. Half of them were destroyed in the peasant wars of 1921.
 
  That same class of newly educated young peasants that resented their life in the countryside and all the restrictions that came with it, formed the battalions of revolutionaries and were also those that stood to benefit the most from the new regime. As Figes says : “Throughout the peasant world, communist regimes have been built on the fact that it is the ambition of every literate peasant son to become a clerk.”  
-
+  
 Their dream of social ascension could be fulfilled by joining the apparatus of the state which was going through a tremendous inflation:
 
 From 1917 to 1921 the number of government employees more than quadrupled, from 576,000 to 2.4 million. By 1921, there were twice as many bureaucrats as workers in Russia. They were the social base of the regime. This was not a Dictatorship of the Proletariat but a Dictatorship of the Bureaucracy. Moscow, in Lenin's words, was 'bloated with officials': it housed nearly a quarter of a million of them, one-third of the total workforce in the city by the end of 1920. The centre of Moscow became one vast block of offices, as committees were piled on top of councils and departments on top of commissions.

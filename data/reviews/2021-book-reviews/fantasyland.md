@@ -95,7 +95,8 @@ More subtly, Boy Scouts has an uncanny and jarring relationship with anachronism
 
 *   The guy who keeps track of equipment is called the “quartermaster.”
 *   The advancement ceremony is called a “Court of Honor”
-*   Everything - buildings, uniforms, signs - looks _intentionally_ old. Not from a lack of ability to be replaced, but as an intentional decision to foster an image of a bygone era. ![Boy Scout Troop 466 NCAC: Camp Bowman - Goshen Scout Camp 2009 (Set 2)](https://acximages.ennals.org/images/2021-book-reviews/e93a34f4ce279f81.jpg)I spent many nights in one of these
+*   Everything - buildings, uniforms, signs - looks _intentionally_ old. Not from a lack of ability to be replaced, but as an intentional decision to foster an image of a bygone era.  
+     ![Boy Scout Troop 466 NCAC: Camp Bowman - Goshen Scout Camp 2009 (Set 2)](https://acximages.ennals.org/images/2021-book-reviews/e93a34f4ce279f81.jpg)I spent many nights in one of these
 
 This aesthetic is most obvious in settings of centralized planning and organization, like the summer camps and [national bases](https://en.wikipedia.org/wiki/Philmont_Scout_Ranch).
 
@@ -103,7 +104,7 @@ The point is this: the Scouts’ style and curriculum are not merely old-seeming
 
 *   The design and marketing surrounding Jeep SUVs and similar cars gesture towards a lifestyle of safaris and outdoor exploration that 99% of their owners will never use their cars to partake in.  
     ![New 2020 2-Door Jeep Wrangler vs New 2020 4-Door Jeep Wrangler | Patriot  CDJR](https://acximages.ennals.org/images/2021-book-reviews/410c6641395a659a.jpg)
->
+
 *   Quasi-functional shoes like Vans (skateboarding) and Sperries (boating, whatever that means) likely at one point signalled their owners’ genuine participation in these activities, and have since transitioned to purely nonfunctional form reminiscent of a bygone era.
 *   Camden Yards, home of the Baltimore Orioles, is intentionally designed to look and feel old.  
     ![A Look Inside Baltimore's Beautiful Camden Yards - TBA](https://acximages.ennals.org/images/2021-book-reviews/7d5ac2282a2ff98a.jpg)

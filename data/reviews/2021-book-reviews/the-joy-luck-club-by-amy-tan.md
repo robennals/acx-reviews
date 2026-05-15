@@ -18,7 +18,7 @@ tags:
 ---
 
 1.  ## Introduction: The Words You Cannot Say
-
+    
 
 Have you ever begun to telling a story from your childhood, only to stop mid-sentence?
 
@@ -31,7 +31,7 @@ Impossible. Unacceptable. Just plain weird.
 For some of us, almost everything that matters about who we are & where we came from is illegible to those we love.
 
 2.  ## Wounds: The Rifts Between Generations and Cultures
-
+    
 
 This illegibility of identity - and the consequent impotence to influence - marks all the protagonists of “The Joy Luck Club,” a master work by novelist Amy Tan.
 
@@ -43,16 +43,15 @@ The story begins and ends with four mothers, and four daughters in and around 19
 
 In a sort of Chinese Fairy Tale that begins the book, and reflects one life, Tan speaks of a woman who purchased a swan from a market vendor for a foolish sum:
 
-_“__This bird, boasted the market vendor, was once a duck that stretched its neck in hopes of becoming a goose, and now look!—it is too beautiful to eat.  
-
-Then the woman and the swan sailed across an ocean many thousands of li wide, stretching their necks toward America. On her journey she cooed to the swan: “In America I will have a daughter just like me.... Over there nobody will look down on her, because I will make her speak only perfect American English. And over there she will always be too full to swallow any sorrow! She will know my meaning, because I will give her this swan—a creature that became more than what was hoped for.”_
+_“__This bird, boasted the market vendor, was once a duck that stretched its neck in hopes of becoming a goose, and now look!—it is too beautiful to eat._  
+  
+_Then the woman and the swan sailed across an ocean many thousands of li wide, stretching their necks toward America. On her journey she cooed to the swan: “In America I will have a daughter just like me.... Over there nobody will look down on her, because I will make her speak only perfect American English. And over there she will always be too full to swallow any sorrow! She will know my meaning, because I will give her this swan—a creature that became more than what was hoped for.”_
 
 _Now the woman was old. And she had a daughter who grew up speaking only English and swallowing more Coca-Cola than sorrow._ _For a long time now the woman had wanted to give her daughter the single swan feather and tell her, “This feather may look worthless, but it comes from afar and carries with it all my good intentions.” And she waited, year after year, for the day she could tell her daughter this in perfect American English.”_
 
 But the gifts of language are unevenly distributed among the two generations. It is as though the daughters have access to a set of symbols comparable to ASCII, but the mothers have a set of symbols as rich as Unicode. (In a time and place where ASCII dominates, being adept with those symbols has certain advantages! But if you can’t load the extended characters your mom is trying to communicate with, you won’t be able to understand her.)
 
-_“__She said the two soups were almost the same,_ _**chabudwo**__. Or maybe she said_ _**butong**__, not the same thing at all. It was one of those Chinese expressions that means the better half of mixed intentions. I can never remember things I didn’t understand in the first place.__”_  
-(Chinese words were not using pin yin, but an earlier Romanization.)
+_“__She said the two soups were almost the same,_ _**chabudwo**__. Or maybe she said_ _**butong**__, not the same thing at all. It was one of those Chinese expressions that means the better half of mixed intentions. I can never remember things I didn’t understand in the first place.__”_(Chinese words were not using pin yin, but an earlier Romanization.)
 
 Even the names of the mothers can be a barrier: a reader coming from English-language context might find them difficult to track. The mothers are Suyuan Woo - a woman of a long-treasured hope, An-mei Hsu, the thrice-scarred, Lindo Jong, who is like a fierce wind, and Ying-ying St. Clair, who was a tiger, but is now a ghost.
 
@@ -85,7 +84,7 @@ But there's also room for ghosts. A repeated motif in Amy Tan's stories is a fun
 As you read these accounts, it occurs to you that the mothers, as children, believed they were disposable daughters.
 
 3.  ## Interlude: Using the Category of Concrete-Relational Thinking to Decrypt the Narratives in “The Joy Luck Club”
-
+    
 
 _“...we are concerned with people who attempt to discover truth in such a way that ‘life and reality are seen pictorially in terms of the active emotional relationships present in a concrete situation.” In verbal communication, the concrete relational thinker tends to express, inform, and persuade by referring to symbols, stories, events, objects and so forth, rather than to general propositions and principles.  But he is especially prone to rely on nonverbal communication of all types…”_
 
@@ -110,7 +109,7 @@ But that is where we expect a Western thinker’s analogy (a metaphor in the mid
 Today, I think for the first time, I finally understood. When a family uses a tripod, it’s so that the one taking the picture is not left out of it. And this was her wish for me: she wanted me to be able to be “in the picture” with my family, and remain there.
 
 4.  ## Restored beyond Expectation: Possessors of Agency and of an Uncommon Vision
-
+    
 
 _“Besides a common language... there will also be, within the same group, many specialized vocabularies… Such ‘working languages’ are filled with jargon and idioms. People in the same profession typically have a language of the trade. Other people cannot understand the conversations… In every school and even every dormitory room, specialized vocabularies develop. The most widely occurring ‘working language’ is that which develops between mothers and their children.”_ -Fei Xiaotong, “From the Soil: The Foundations of Chinese Society”
 
@@ -119,7 +118,7 @@ The unusual thinking styles - not to mention the otherworldly terrors in their l
 However, in the times of testing that adulthood imposes, the daughters had discoveries to make. First a discovery of their own limitations. But second, the discovery that their mothers, whom they have come to see clueless, verbally-clumsy, and incomprehensible are actually strikingly perceptive. It’s an awkward dance towards one-another, on a road mostly dark, but occasionally lit by a brilliant flash of illumination.
 
 Sometimes it takes the form of a serious mother-daughter conversation, bracketed by stressful and exasperating interactions.  
-
+  
 In response to a shaken Waverly saying, “I don’t know what’s inside me right now,” Lindo tells her, “Then I will tell you.” Lindo gives her daughter an origin story of Waverly’s life. Who she was, in her mothers’ eyes, has everything to do with where her mother comes from and her father comes from.
 
 Then Waverly puts forward a glib comment - the kind of joke people make when they are uncomfortable because they don’t understand a thing, or want to test whether they do understand- but carve out a “safe” path they can retreat back down if not.  
@@ -172,7 +171,7 @@ She lays out a tapestry replete with repeated words, repeated themes. Sometimes 
 The overall structure of the book includes a strange or brave choice - Tan divided her book into four sections. “Four” is a very taboo number in Chinese, because it sounds like the verb “die.” Not only is the entire book divided into four sections, but each section is divided into four chapters - each one a mother or daughter. It would seem as though this structure is screaming, “Die, die, die, die.” While that kind of fits the unremitting bleakness of the hard parts of of these lives portrayed, I don’t think Tan is exactly eager to flout tradition. (She didn’t number the sections or chapters.) And here’s something where I’m not sure if I’m right - but I imagine one of her protagonists - a Chinese mother perhaps - explaining that you can see it in another way. There are two groups of eight sections - and eight is a very _good_ number in that system. The daughters complete the mothers’ stories, and what was like death without them becomes success.
 
 5.  ## Conclusion: Catharsis. Cost. Catalysis.
-
+    
 
 If you’ve ever had a Chinese friend (or maybe been that Chinese friend) brush aside some unreasonable-sounding parental restriction or awful-sounding phenomenon of their family life by saying “Ah, it’s just Asian parents.” Maybe some of these are impossible to disentangle with anything short of a novel. (Or maybe they are only impossible to explain to someone unmotivated, and a novel helps many to find the needed motivation.)
 

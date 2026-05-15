@@ -16,13 +16,12 @@ tags:
 ---
 
 > “**29** When Moses came down from Mount Sinai with the two tablets of the covenant law in his hands, he was not aware that his face was radiant because he had spoken with the Lord. **30** When Aaron and all the Israelites saw Moses, his face was radiant, and they were afraid to come near him.”
->
+
 *   Exodus 34:29-30
 
 This is a review of good taste and its evangelists.
 
-*\*\*\*\*
-
+* * *
 What is taste?
 
 Scott recently offered a series of _[Friendly and Hostile Analogies For Taste](https://www.astralcodexten.com/p/friendly-and-hostile-analogies-for)_, which kicked off a wide-ranging discussion in our little corner of the internet.
@@ -47,8 +46,7 @@ Surely there must be _some_ through-line we can trace, some central concept at t
 
 Perhaps the best place to begin is simply the beginning. Before taste was a metaphor, it was a sense. What if good taste is, at the core, no different from good eyesight or good hearing?
 
-*\*\*\*\*
-
+* * *
 A woman enters a room. In it are a hundred wines, a thousand. She has never heard of wine, never tasted a sip. The woman is given a task: rank these wines by sweetness.
 
 She does so. _Perfectly_. No matter how fine the distinction, how miniscule the difference, she gets it exactly right.
@@ -57,8 +55,7 @@ The test proceeds. Some concepts are easy to describe to a novice - body, acidit
 
 Surely she has _good taste_. Can we then conclude that taste is perception?
 
-*\*\*\*\*
-
+* * *
 A girl enters a room. In it are a hundred wines, a thousand. She has never heard of wine, never tasted a sip. The girl is given a task: rank these wines by sweetness.
 
 She does so. Terribly. Not just poorly, but _incoherently_. There is no identifiable logic, no discernable rhyme or reason. She is asked to rank the wines by their other attributes. The result is the same. Or rather, different. Not only do her answers not make sense - they are never the same twice. After a large enough sample size, the analysts conclude that her choices are indistinguishable from a random number generator. Some observers have stopped tallying results and started Googling terms like ‘taste blindness’ and ‘brain damage’.
@@ -67,8 +64,7 @@ With the tests nearly at an end, one worker begins carefully packing up the unla
 
 “- can I have that one? I think that was my favorite.”
 
-*\*\*\*\*
-
+* * *
 “...Um. I don’t know, actually. I’ll have to ask.”
 
 In the next room, the administrators are incredulous. She chose arguably the single best wine in the entire selection! The worker comes back out.
@@ -89,8 +85,7 @@ The woman gets the first one “wrong”, but maybe that’s just personal prefe
 
 “These results _can’t_ be real.”
 
-*\*\*\*\*
-
+* * *
 Which of the two has good taste? The woman or the girl?
 
 Let’s pose the question a bit more clearly: when we think of good taste, do we mean someone who is good at tasting things, or someone who likes the taste of things that are good?
@@ -105,8 +100,7 @@ Accordingly:
 
 **Taste is genuine preference, and good taste is a genuine preference for genuine quality.**
 
-*\*\*\*\*
-
+* * *
 You may have noticed an assumption or three there. That’s because we’ve arrived at a definition for the platonic ideal of taste. In the real world, things are a teensy bit more complicated.
 
 One assumption that we have to make is that genuine quality is a real thing that really exists. It would take a separate essay (or book) to fully explore that concept, but for our purposes we can grant that some things are objectively better than other things, insofar as any of those words contain any useful information whatsoever.
@@ -119,8 +113,7 @@ Similarly, if we acknowledge that some wine is bad, some wine must be good. If s
 
 For reasons that we will address shortly, it’s difficult to assert that any one thing in particular is in good taste. But we don’t have to agree on the specifics to acknowledge the existence of such things as a category.
 
-*\*\*\*\*
-
+* * *
 One of the core problems here is the non-obvious merits of things that are considered in good taste. Chris Stapleton songs and Tarentino movies are obviously great, but that very obviousness largely removes them from the taste conversation. You don’t get points for liking good art if it has mass appeal.
 
 There is a murky sense that good taste demands something from its possessor. To me, this is what Sympathetic Opposition was trying to get at by specifying _aesthetic_ pleasure, as opposed to pleasure in general.
@@ -173,8 +166,7 @@ Anyone who has ever been held hostage by a Boomer holding up a Facebook reel und
 
 Context also affects our breadth of appreciation, because some things can only be appreciated if they are properly understood. That same Facebook reel was once cutting edge humor, and the innovator does not deserve to be lumped in with the imitators. The reel might also be legitimately funnier if we learned that it was a response to something else, part of a larger conversation that had more dimensions than the video itself indicates.
 
-*\*\*\*\*
-
+* * *
 Henry Oliver also [argues forcefully](https://www.commonreader.co.uk/p/why-i-write-the-common-reader) on behalf of knowledge and proper context:
 
 > “Many people believe that literature is entertainment, a question of personal enjoyment, and they oppose this to the scholarly view of literature…
@@ -243,8 +235,7 @@ She recommends that we leave aside interpretation altogether:
 
 Wait - are we back at square one?
 
-*\*\*\*\*
-
+* * *
 Earlier, I said that “... as you learn what good quality means, you cultivate a greater appreciation for higher quality that influences your genuine preferences.” This self-fulling element of gaining good taste complicates the entire notion.
 
 The problem with genuine preference as the defining characteristic of taste is that pesky adjective.
@@ -267,8 +258,7 @@ But what about if we didn’t know who those people are, or the objective standa
 
 Most likely, a whole bunch of arguing. Possibly some name-calling.
 
-*\*\*\*\*
-
+* * *
 If you’ll recall, this essay is not just a review of taste. It’s also a review of _evangelists_ of good taste - those who claim to possess it, and advocate that other people should try to acquire it as well.
 
 It seems somewhat problematic that the experts can’t even come to an agreement on _how_ to appreciate good art or good craftsmanship, much less which things deserve that label.
@@ -303,8 +293,7 @@ The relationship between layman and expert is predicated on trust. Trust that th
 
 For the layman, good taste is a matter of faith.
 
-*\*\*\*\*
-
+* * *
 It is at this point, alas, that we must talk about Girard in 2025.
 
 For the three people living under an internet rock who haven’t heard of him by now, here’s a quick down n’ dirty:
@@ -318,8 +307,7 @@ For our purposes here, I will call desire for the object itself _genuine_ desire
 
 This difference matters, because it’s the difference between wanting something, and wanting to be like the people who want it.
 
-*\*\*\*\*
-
+* * *
 In the purest form, a person with excellent taste is the perfect consumer of the product made by the master. They are the follower dancing with the world's best lead, the true audience of the maestro.
 
 Every masterpiece needs an aficionado to appreciate it. You have to _have_ expectations before they can be violated or surpassed.
@@ -340,8 +328,7 @@ A fair number of people authentically care about wine, or opera, or sculpture, d
 
 Way way way more people care about appearing cool or upper class, and _all_ of those people want taste for non-taste reasons.
 
-*\*\*\*\*
-
+* * *
 The supposed classiness of good taste can be eye-roll inducing, the merits debateable. And yet, almost all of us appreciate a good snob. There is something admirable in an unapologetic assertion of superiority, particularly if it’s done with competence, charm, and impeccable credentials.
 
 The hatred for snobbishness is well-earned, but that’s because most snobs can’t pull it off. The number of people who want to be an Oscar Wilde or Anna Wintour vastly exceeds both the demand and the supply.
@@ -360,8 +347,7 @@ Fair or not, the idea of the hipster became inextricably intertwined with constr
 
 Once people suspect you of liking things for inauthentic reasons, it becomes impossible for them to truly believe you. And if your whole identity is built around the things you like… well, not many hipsters around in 2025.
 
-*\*\*\*\*
-
+* * *
 Everyone who isn’t being deliberately difficult admits that good taste exists. But it’s also true that some arbiters of taste are huffing their own farts and inviting you to savor the smell.
 
 The layman must be open to the reality of taste, which requires a humble admission of ignorance. But the expert is the one who knows how to sort the wheat from chaff. Those who know the difference are tasked with explaining it. If they want to be successful, they need to do so in a way that meets the layman where he is at.
@@ -392,8 +378,7 @@ Saying that you _should_ do this, you _shouldn’t_ do that, you should like _th
 
 We already talked about Girard, right?
 
-*\*\*\*\*
-
+* * *
 At last, we can address the root issue: the discourse around taste and art and culture is dominated by snobs who don’t know that they’re snobs.
 
 The top search result for “on taste” is [an essay](https://claremontreviewofbooks.com/on-taste/) by Thomas Kaminski in the Claremont Review of Books. In many ways, it is a better-written version of this exact review.
@@ -444,8 +429,7 @@ Let’s play a game. You get seven words. Your goal - be as snobbish as the Engl
 
 > “[Taste is real. Don’t be a philistine.](https://www.commonreader.co.uk/p/how-to-read-the-canon)”
 
-*\*\*\*\*
-
+* * *
 It’s not that there are no points to be made in this vein. It’s that this is the exact wrong way to make these points if you are trying to bring newcomers into the fold.
 
 It always comes across as an attempt to position yourself in Helm’s Deep, fighting off the orcish hordes. I’m just not sure how much value there is in being the latest to join a societal dogpile. The primary impact of the guy on top is felt by those just beneath them, and the primary effect is to make them question their life choices.
@@ -464,8 +448,7 @@ The more obvious the target or comparison, the more work is required to avoid co
 
 It’s totally fine to criticize Marvel. [Just make it good](https://samkriss.substack.com/p/all-the-nerds-are-dead).
 
-*\*\*\*\*
-
+* * *
 Snobbishness about good taste is not just a one way phenomenon from the haves to the have-nots.
 
 I liked almost everything that Zvi had to say in [his post on taste](https://thezvi.substack.com/p/a-matter-of-taste). But, like the others, he followed up his Don’t Be A Snob section with shots fired:
@@ -476,8 +459,7 @@ Read [BDM’s post](https://www.notebook.bdmcclay.com/p/so-elegant-so-intelligen
 
 Reverse snobbishness is just snobbishness, and sweeping dismissals only detract from the conversation.
 
-*\*\*\*\*
-
+* * *
 Kaminski describes low-brow culture as Dionysiac, which naturally evokes the Apollonian and Dionysiac dialectic [proposed by Nietzsche](https://en.wikipedia.org/wiki/Apollonian_and_Dionysian#:~:text=Apollo%20represents%20harmony%2C%20progress%2C%20clarity%2C%20logic%20and,the%20omission%20of%20the%20principle%20of%20individuation).&text=He%20notes%20that%20without%20the%20Apollonian%2C%20the,Apollonian%20lacks%20the%20necessary%20vitality%20and%20passion.) in _The Birth of Tragedy_. Simplistically, the Apollonian represents individuation, reason, and order, while the Dionysiac represents passion, chaos, and unity.
 
 In Nietzsche’s view, both are required to make truly great art. The Apollonian provides form, structure, and vision, while the Dionysian gives it an essential vitality and will.
@@ -516,8 +498,7 @@ How will we view ourselves, see our place in the universe, when AI takes our gre
 
 Maybe that’ll be the least of our worries.
 
-*\*\*\*\*
-
+* * *
 Gwern once wrote that _[Culture Is Not Esthetics](https://gwern.net/culture-is-not-about-esthetics#fn29)_, arguing that “aesthetically & economically, maybe there is too much new art.”
 
 He also says “Don’t take this too seriously.” As an internet person in good standing, I will ignore that disclaimer and assume this is the only serious thing he has ever written.
@@ -536,10 +517,9 @@ Moreover, as that [Ira Glass quote](https://www.goodreads.com/quotes/309485-nobo
 
 Oscar Wilde espoused _[The Critic As Artist](https://celt.ucc.ie/published/E800003-007/text001.html)_, but he had it exactly backwards. It is the artist who is a critic; either of the artists who came before, or of the world itself for lacking that which ought to exist.
 
-*\*\*\*\*
-
+* * *
 > “**15** Watch out for false prophets. They come to you in sheep’s clothing, but inwardly they are ferocious wolves. **16** By their fruit you will recognize them. Do people pick grapes from thornbushes, or figs from thistles? **17** Likewise, every good tree bears good fruit, but a bad tree bears bad fruit. **18** A good tree cannot bear bad fruit, and a bad tree cannot bear good fruit. **19** Every tree that does not bear good fruit is cut down and thrown into the fire. **20** Thus, by their fruit you will recognize them.”
->
+
 *   Matthew 7:15-20
 
 What is a miracle?

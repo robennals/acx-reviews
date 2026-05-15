@@ -19,7 +19,7 @@ tags:
 * * *
 
 1.  **Introduction: “No Good Deed Will Go Unpunished.”**
->
+
 > On the first page of _“A Failure of Nerve,”_ Edwin H. Friedman launches his troubling thesis with this unforgettable statement:
 >
 > _“…when anxiety reaches certain thresholds, 'reasonableness and honesty’ no longer defend against illusion, and then even the most learned ideas can begin to function as superstition.”_
@@ -37,7 +37,7 @@ tags:
 ![](https://acximages.ennals.org/images/2022-book-reviews/e9a92469d3747fce.png)
 
 > [If they tell you that they don’t _know_ that failure is inevitable–but that you’re the best hope they’ve got–maybe run if you can? Not that they necessarily said that to Ender in so many words!]
->
+
 2.  **Give me the takeaways before I close out this tab and get on with my life!!!**
 
 Okay, okay, you say you don’t have time for this unless I can “boil down” a 250-page book into a few critical principles? You’ll stop reading if I don’t tell you how to fix most of your thorny leadership quandaries within the next 200 words? Fine, fine! Here you go!
@@ -90,25 +90,25 @@ These leaders needed to be willing to face their own selves. Our society’s tra
 Near the beginning of the book, Friedman explains another shift in the way he counseled–this, especially in a family context. Rather than making heroic efforts to get family members to talk to each-other, and to engage people who didn’t want to be in the sessions, he:
 
 > _“…began to search instead for the member with the greatest capacity to be a leader as I have defined it. That person generally turned out to be the one who could express himself or herself with the least amount of blaming and the one who had the greatest capacity to take responsibility for his or her own emotional being and destiny.”_
->
+
 5.  **“Playfulness will get you out of a rut more successfully than seriousness.”**
->
+
 > Decades ago… back in the 1980s, my dad’s job involved sending hard copies of reams of data from one office to another. The security protocols were onerous, in spite of the fact that the already-boring data was anonymized.  He’d ask his boss, “Is all this worth the trouble? If someone wanted to get at it, our protocols aren’t actually enough to prevent that.” I think there really was no good thing for his boss to say to that. But my dad remembers his response perfectly: The boss walked over to the window and looked down at the busy city streets below. Then he said conspiratorially, “There’s people out there who would kill for this stuff.”
->
+
 6.  **Key to the Kingdom: Managing your Minions’ Anxieties–and Your Own as Well.**
+
+> Years ago, I watched my closest friend lead a team (he put forth superhuman efforts to keep it from becoming a faction, really.) in an organization that was fraught with quarrels–serious long-standing relational frictions from long before he came on the scene. The people in the larger organization really wanted his program to become awesome; however, they wanted to see the awesome results _immediately_, and preferably as a result of _their_ own brilliance (in providing solutions for him to implement). Magic button-ism. Their anxieties were constantly on display as they cast about for “what other people did that worked”-type scenarios in their pathetic, despair-ridden cluelessness.
 >
-> Years ago, I watched my closest friend lead a team (he put forth superhuman efforts to keep it from becoming a faction, really.) in an organization that was fraught with quarrels–serious long-standing relational frictions from long before he came on the scene. The people in the larger organization really wanted his program to become awesome; however, they wanted to see the awesome results _immediately_, and preferably as a result of _their_ own brilliance (in providing solutions for him to implement). Magic button-ism. Their anxieties were constantly on display as they cast about for “what other people did that worked”-type scenarios in their pathetic, despair-ridden cluelessness.  
->   
 > As you can imagine, that sucked.
 >
 > You can only do so much, but some kind of catharsis helps. So some days, I’d catch him playing the same song on infinite loop. (but it was a good song!) Some days, we’d watch an episode of The West Wing together, and laugh harshly, and say “YES, THAT!” (Oh yeah–I was his right hand in the operation.) Because it really is “lonely at the top.” There really are things you can’t freely explain to the minions (or the “outside world,” for that matter!) about the obnoxious constraints that bind you. You can’t go ahead and “share” quite how high your uncertainty is for even the most important decisions you make in this work–lest they catch your fears.
->
+
 7.  **Vision: An asset beyond price.**
 
 ![](https://acximages.ennals.org/images/2022-book-reviews/33b268ca83b56777.jpg)
 
 > Photo by [Quino Al](https://unsplash.com/@quinoal?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/sunrise?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
->
+
 8.  **Intergenerational shitstorms: a possible ceiling on growth.**
 
 If you read this book, you might find yourself motivated to “work on” your family-of-origin issues. I notice I stated this topictitle  in the negative, rather than the positive. This is probably because I’m someone who had not-perfect relationships with members of my family-of-origin when I was a newly-fledged adult, and has seen (I mean, and participated in!) them grow better and closer. I’m sure there are other people who’ve weathered a similar storm, braced themselves, and come out on the other side to find their heart’s desire, so I don’t want to put myself out there as a special expert in this area. (unless I do.)
@@ -120,7 +120,7 @@ You don’t have to fix it now-now, but you might be motivated to if you read th
 But the author says it better:
 
 > _‘In any type of institution whatsoever, when a self-directed, imaginative, energetic, or creative member is being consistently frustrated and sabotaged rather than encouraged and supported, what will turn out to be true one hundred percent of the time, regardless of whether the disrupters are supervisors, subordinates, or peers, is that the person at the very top of that institution is a peace-monger. By that I mean a highly anxious risk-avoider, someone who is more concerned with good feelings than with progress, someone whose life revolves around the axis of consensus, a "middler," someone who is so incapable of taking well-defined stands that his "disability" seems to be genetic, someone who functions as if she had been filleted of her backbone, someone who treats conflict or anxiety like mustard gas—one whiff, on goes the emotional gas mask, and he flits. Such leaders are often ''nice," if not charming.’_
->
+
 9.  **Q&A: Comparing, Contrasting. Context-Contemplating**
 
 **Q1: Is this a Christian Book™?** 
@@ -132,9 +132,9 @@ But, please be assured that:
 1.  You **WON’T** get tons of anecdotes about specifically churches, **NOR** will you get anecdotes written in inscrutable “churchy” language.
 2.  You **WILL** get irreverence.
 3.  You **WON’T** get a dude trying to promote American Evangelical “niceness culture.” On the contrary, you will get a dude whose words cut against “nice” weaksauce [lameass leaders who don’t wield their authority with strength]. He’s even put on display the devastation and damage that enables. Witness:
->
+
 > _“The regression came about because the moderator (that is, the leader) of the panel was a "nice guy" (a former minister and president of a local educational institution) who did not have the temerity to set limits on this person's invasiveness. He was more concerned to assuage her hurt feelings, to right her perceived slight, and to keep good feelings going in the community. By letting her speak and guiding the panel in a discussion of her remarks, he thereby adapted the entire community to her demands…”_
->
+
 4.  You **WILL** get a badass author who’s advised parents and presidents, CEOs and educators, healers and generals, leaders in synagogues, and leaders in churches.
 
 **Q2: Do you have any disclaimers for me?**
@@ -179,8 +179,8 @@ Okay, but Brene Brown is talking about relational vulnerability. In theory, rela
 >
 > _“And how does that feel?”_
 >
-> _The room got quiet. I answered for them. "There's probably not a single act at work that requires more vulnerability than holding people responsible for ethics and values, especially when you're alone in it or there's a lot of money, power, or influence at stake. People will put you down, question your intentions, hate you, and sometimes try to discredit you in the process of protecting themselves. So if you don't ‘do’ vulnerability, and/or you have a culture that thinks vulnerability is weakness, then it's no wonder ethical decision-making is a problem."  
-> –_Brene Brown in "Dare to Lead"
+> _The room got quiet. I answered for them. "There's probably not a single act at work that requires more vulnerability than holding people responsible for ethics and values, especially when you're alone in it or there's a lot of money, power, or influence at stake. People will put you down, question your intentions, hate you, and sometimes try to discredit you in the process of protecting themselves. So if you don't ‘do’ vulnerability, and/or you have a culture that thinks vulnerability is weakness, then it's no wonder ethical decision-making is a problem."_  
+> _–_Brene Brown in "Dare to Lead"
 
 Sounds like she's pushing the value of integrity just like Friedman did!
 
@@ -213,7 +213,7 @@ The question is not whether you will ever have an opportunity to lead; it is whe
 I say this, yet… maybe there is one more sort of person to think of. You are the ones who, if you read the book, might wonder if you’re seeing yourself depicted among the “irresponsible” and the “recalcitrant”… the chronic complainers in a workplace, or the black sheep among the siblings in your family. Your integrity is about as present and reliable as the security of an ancient walled city with all its walls knocked down. Your consumption of emotional resources from those around you resembles, by analogy, that of the proverbial goldfish: you grow to fill the tank. And maybe it hurts you, to even think about that.
 
 I guess… the book would advise you to “sit with” the pain to get to the good results on the other side. And this is good advice, if literally telling you to do something uncomfortable! (Also, you can get better at “sitting with” this discomfort, fear, and discouragement. Rome need not be built in a day.) But maybe you won’t be motivated to do this hard work for me or for some random guy who wrote a book 20+ years ago! So the author himself would probably advise me, “Don’t bother with them; find the responsible people _adjacent_ to them, and help those people who are in their church, or their family, or their team.” But I’m not talking to any of those people, am I? I’m talking to you.  
-
+  
 So I will go off-script and add a note of hope. If you can find your way back up to the surface of the ocean before drowning in despair, there’s a reward for you beyond mere survival. Let me whisper this: There is always a scarcity of leaders. And you can be a leader at any level. Find a way to get some integrity and some self-control–and also some laughter–and leadership may well find you. If and when you make it to the other side of the clichéd “dark tunnel'' you're passing through, someone else will want your help and your guidance. And in spite of all I’ve said about how terrible leadership can be… to the weary and the jaded leaders reading this as well, it’s one of the more wonderful things in the world.
 
 Thanks for help with reviewing and editing to: P, RC, G, N, and NZ. Thanks also to Ey and TOTS for help with a past book review, so I would even try this again.

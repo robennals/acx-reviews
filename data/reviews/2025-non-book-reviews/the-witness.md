@@ -139,17 +139,17 @@ Mentioned in the previous section, the game includes a selection of (rather infa
 
 To expand a bit on the skills point, many of the puzzles in the game are designed to force the player to adopt a scientific mindset:
 
-_From [the player’s perspective] the puzzles are about engaging in a process of investigation. There's symbols that tell you what the answer is, but not really, not to a fresh new player in the_
-
-_game, because they're they're completely non-linguistic symbols that have, as best as I could_
-
-_manage, no previous associations with things that you would recognize in the world. They're very abstract, and so part of what happens is you have to engage in a little bit of a preliminary experimentation to try and figure out what works. The puzzles start off very simple where there's only a few things that you could possibly do, and you try them and maybe one of them is right and the other ones are wrong, and then you start to engage your pattern-understanding mind. “Why was that one right and why were the other ones wrong?” And you form an idea and then you see if that idea holds up through the next few, and it might hold up for a couple and then turn wrong and you're like “Wait, I thought I understood what was going on! Why!?”_
-
-_So it's a process of developing an understanding from something very simple to something very_
-
-_complex actually, and in some of these sequences in the game there's hard left turns where you think you fully got it and then just something totally random is in there out of left field and you have to change your understanding of the system._
-
-* * *
+> _From [the player’s perspective] the puzzles are about engaging in a process of investigation. There's symbols that tell you what the answer is, but not really, not to a fresh new player in the_
+>
+> _game, because they're they're completely non-linguistic symbols that have, as best as I could_
+>
+> _manage, no previous associations with things that you would recognize in the world. They're very abstract, and so part of what happens is you have to engage in a little bit of a preliminary experimentation to try and figure out what works. The puzzles start off very simple where there's only a few things that you could possibly do, and you try them and maybe one of them is right and the other ones are wrong, and then you start to engage your pattern-understanding mind. “Why was that one right and why were the other ones wrong?” And you form an idea and then you see if that idea holds up through the next few, and it might hold up for a couple and then turn wrong and you're like “Wait, I thought I understood what was going on! Why!?”_
+>
+> _So it's a process of developing an understanding from something very simple to something very_
+>
+> _complex actually, and in some of these sequences in the game there's hard left turns where you think you fully got it and then just something totally random is in there out of left field and you have to change your understanding of the system._
+>
+> * * *
 
 “Epiphany” comes up a lot in discussions of the game.
 

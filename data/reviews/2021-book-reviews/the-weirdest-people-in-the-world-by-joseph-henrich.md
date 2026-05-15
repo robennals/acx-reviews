@@ -260,9 +260,9 @@ _"Marking this in English, words for “plagiarism” first began to spread in t
 
 With the rise of the printing press and knowledge societies, these new individualistic scientists began to operate as a collective brain. Henrich again:
 
-_The Cistercian Order, in particular, built a sprawling network of monastery-factories that deployed the latest techniques for grinding wheat, casting iron, tanning hides, fulling cloth, and cultivating grapes. At mandatory annual meetings, hundreds of Cistercian abbots shared their best technical, industrial, and agricultural practices with the entire order. This essentially threaded Europe’s collective brain with Cistercian nerves, pulsing the latest technical advances out to even the most remote monasteries."_
-
-* * *
+> _The Cistercian Order, in particular, built a sprawling network of monastery-factories that deployed the latest techniques for grinding wheat, casting iron, tanning hides, fulling cloth, and cultivating grapes. At mandatory annual meetings, hundreds of Cistercian abbots shared their best technical, industrial, and agricultural practices with the entire order. This essentially threaded Europe’s collective brain with Cistercian nerves, pulsing the latest technical advances out to even the most remote monasteries."_
+>
+> * * *
 
 These examples—individual rights, doux commerce, and an individual collective brain—are all manifestations of this new individualistic WEIRD psychology. Can we get closer though? To measure WEIRDness itself?
 

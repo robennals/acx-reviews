@@ -214,7 +214,7 @@ In this regard the myth of mental illness serves as a band-aid for society, temp
 
 [[14]](#ftnt_ref14) See “The Data is Gold” or Omar Bah’s comic, above, for some examples.
 
-[[15]](#ftnt_ref15) One of my favorite Deutsch [stories](https://www.newyorker.com/magazine/2011/05/02/dream-machine) is when a Japanese film crew ran an interview at his house. They asked to tidy up as it was apparently messy. Deutsch only allowed it if they agreed to put everything back as it was afterwards.
+[[15]](#ftnt_ref15) One of my favorite Deutsch [stories](https://www.newyorker.com/magazine/2011/05/02/dream-machine) is when a Japanese film crew ran an interview at his house. They asked to tidy up as it was apparently messy. Deutsch only allowed it if they agreed to put everything back as it was afterwards.  
 
 [[16]](#ftnt_ref16) I had a similar uneasy "I'm-in-the-presence-of-aliens" feeling when first reading the philosopher [Derek Parfit](https://www.newyorker.com/magazine/2011/09/05/how-to-be-good) (whose ideas are unrelated to Deutsch's).
 
@@ -222,17 +222,17 @@ In this regard the myth of mental illness serves as a band-aid for society, temp
 
 [[18]](#ftnt_ref18)  It’s worth noting that Deutsch's views both on quantum physics and knowledge are minority views within their respective fields.
 
-[[19]](#ftnt_ref19) There may be similarities with Philosophical Pragmatism, but I haven’t read any William James, let alone Rorty or Dewey, to make a comment on that one.
+[[19]](#ftnt_ref19) There may be similarities with Philosophical Pragmatism, but I haven’t read any William James, let alone Rorty or Dewey, to make a comment on that one.  
 
 [[20]](#ftnt_ref20) Deutsch is a realist. He provides a crisp argument against Solipsism: That it’s not parsimonious as it has to posit the additional claim that everything looks like it independently exists without any explanation as to why. It’s analogous to geocentric models: convoluted in a way so that the planet’s orbits [look like](https://imgur.com/tBCC7P4) a heliocentric model would.
 
-[[21]](#ftnt_ref21) Knowledge can exist without belief. It’s instantiated in books, computer programs, and genes. Further, knowledge may be inexplicit or unconscious. We effortlessly use grammar and laugh appropriately in social situations. Though I’m a little unclear if Deutsch thinks knowledge is never belief. Darwin surely _believed in_ natural selection, right?
+[[21]](#ftnt_ref21) Knowledge can exist without belief. It’s instantiated in books, computer programs, and genes. Further, knowledge may be inexplicit or unconscious. We effortlessly use grammar and laugh appropriately in social situations. Though I’m a little unclear if Deutsch thinks knowledge is never belief. Darwin surely _believed in_ natural selection, right?  
 
-[[22]](#ftnt_ref22) Other thinkers including Hugh Everrett, Richard Dawkins, Jacob Bronowski, Alan Turing, and William Godwin.
+[[22]](#ftnt_ref22) Other thinkers including Hugh Everrett, Richard Dawkins, Jacob Bronowski, Alan Turing, and William Godwin.  
 
 [[23]](#ftnt_ref23) Behavioral genetics may not be a core tenet of rationalism, but many rats subscribe to the idea that genes significantly influence intelligence.
 
-[[24]](#ftnt_ref24) Cognitive biases have the same issue, viz: barriers. Deutsch prefers to call them errors. However, aren’t biases simply _systematic_ errors?
+[[24]](#ftnt_ref24) Cognitive biases have the same issue, viz: barriers. Deutsch prefers to call them errors. However, aren’t biases simply _systematic_ errors?  
 
 [[25]](#ftnt_ref25) His arguments against genetic influence also apply to homosexuality and transgenderism which is the one area where the politically correct version is it’s all nature.
 

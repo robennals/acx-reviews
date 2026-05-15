@@ -36,9 +36,9 @@ The rallying cry that Josh suggests is "It is a possibility!" on how we ought to
 The three biggest themes from the book were:
 
 1.  The Great Stagnation is real, and was caused by careful strangulation of all of the potential avenues of search and advancement we have had
->
+
 2.  There is surprisingly little correlation between regulatory increase and scientific and technological progress and it can be seen over and over again in multiple sectors
->
+
 3.  There are credible paths of research as yet untapped, amongst all areas seen as science fiction - including nanotechnology, nuclear energy and yes, flying cars
 
 Josh summarises it brutally using the income classification of the world population developed by Hans Rosling.
@@ -56,11 +56,11 @@ The whole book is an attempt to answer one question - why are we not living like
 The answer that Josh gives is in a few parts:
 
 1.  High degrees of bureaucratisation and regulatory throttling of promising research avenues
->
+
 2.  We stopped trying to increase our energy usage somewhere around the 70s
->
+
 3.  We became horrible at actually converting the R&D dollars from the government to usable innovations
->
+
 4.  There's an endemic "Failure of Nerve" amongst the entire elite intelligentsia, including both the researchers and the bureaucrats, that leads to a reduction in ambition
 
 When you combine all of this, you get the crazy cocktail that we've all accepted as normality. That large scale technological changes and breakthroughs are well-nigh impossible, and being "rational" means that we should set our sights lower.
@@ -70,15 +70,15 @@ Much in the way that a well-meaning parent might tell their child to not dream a
 So the book basically goes as follows.
 
 *   We had great science fiction style aspirations in the 50s
->
+
 *   This was also true of those people bent on making the science fiction into fact
->
+
 *   In steps the high hand of overly harsh regulations, government overreach and general painful bureaucracy - some endemic within institutions and some extrinsic coming from elite consensus
->
+
 *   We become highly risk averse across most things
->
+
 *   We don't make the science fiction aspirations come true
->
+
 *   And this negative feedback loop makes us fall into reducing our current aspirations as well, kicking off the loop again and making it a self-fulfilling prophesy
 
 The beginning is my favourite chart to start with, showing where we hit a ceiling in the airline cruising speeds. This is the old adage about why we don't have Concorde anymore. This is also the launching pad for Josh's litany of issues around why we haven't been progressing.

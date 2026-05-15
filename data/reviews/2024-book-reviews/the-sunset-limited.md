@@ -171,11 +171,11 @@ For the avoidance of doubt, here’s Leighton in his own words:
 > […]
 >
 > [F]rom a consequentialist, impact-based perspective, [utilitarianism, deontology and virtue ethics] can also be seen as providing answers to different questions:
->
+
 *   What outcomes do we want for our actions when we look at the world objectively?
 *   What rules can we follow to get there effectively? And what other rules do we need to follow for other, indirect reasons, such as not generating huge tensions and opposition that would ultimately undermine the ethical objectives?
 *   What character and ways of thinking do we want to instil in people so as to achieve the desired outcomes?
->
+
 > […]
 >
 > [T]he fact that strictly following negative utilitarianism might seem to lead to the conclusion that we _must_ destroy the world is another refutation of moral realism, not of negative utilitarianism itself… [A]s an answer to the world destruction criticism, I [have] proposed a variation of negative utilitarianism that I called “negative utilitarianism plus”, in which we simply assert our desire for continuity and refuse to destroy the planet and everything we care about in the process. This is a fundamentally different approach than pretending that all the happiness makes the suffering worthwhile. Rather, it’s a pragmatic concession to one of our deepest intuitions.

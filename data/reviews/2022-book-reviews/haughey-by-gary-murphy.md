@@ -41,7 +41,7 @@ Political veterans like Charles Haughey may be ministers for three or more unrel
 *   **Minister for Finance:** 1966-1970
 *   **Minister for Social Welfare:** 1977-1979
 *   **Minister for Health:** 1977-1979
-*   **Minister for the** **[Gaeltacht](https://en.wikipedia.org/wiki/Gaeltacht)****:** 1987-1992
+*   **Minister for the** **[Gaeltacht](https://en.wikipedia.org/wiki/Gaeltacht):** 1987-1992
 
 Haughey was also Taoiseach (prime minister, pronounced “tea-shuck”) from 1979 to 1981, then again from 1982 to later in 1982, and from 1987 to 1992.
 

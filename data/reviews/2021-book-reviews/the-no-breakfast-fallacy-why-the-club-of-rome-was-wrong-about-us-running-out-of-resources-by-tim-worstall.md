@@ -89,7 +89,7 @@ Page 34  “.._there’s not any likely shortage looming”_
 
 Page 58  _“..there’s no shortage of any metal or mineral that’s likely to impact upon us or our_      
 
-                 _descendants over any reasonable period of time”_
+_descendants over any reasonable period of time”_
 
    Go on Tim – tell us what you really think!
 

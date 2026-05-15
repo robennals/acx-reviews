@@ -16,7 +16,7 @@ tags:
   - Psychology
 ---
 
-![](https://acximages.ennals.org/images/2023-book-reviews/7887142fda6bb75d.png)
+>
 
 In _Perplexities of Consciousness_ Eric Schwitzgebel takes on phenomenology, the study of the phenomena of human inner experience — percepts, mental images, emotions, thoughts. So I’m going to start us off with my absolute favorite bit of phenomenology, Vladimir Nabokov’s description of his childhood bedtime ritual. He would climb the stairs towards his mother with his eyes closed, moving up each time she said “step.” It was understood that she would not inform him when he reached the top of the stairs, but would say “step” one more time:
 
@@ -122,4 +122,4 @@ I will give Schwitzgebel the last word:
 
 No, on second thought I think I will have the last word. While we think of ourselves as bottles, with inner experience uncontaminated, inviolate and private, that model is clearly wrong.  The blind echolocators were engaging in a process to which they themselves did not have introspective access, but which experimenters could recognize and measure. And much of what we think of as untainted inner experience is shaped by expectations and models that originate outside of us. We are less like wine bottles than we are like Klein bottles. It’s very unsettling. Have a drink.
 
-![](https://acximages.ennals.org/images/2023-book-reviews/7d1b25fb716efbc8.png)
+![](https://acximages.ennals.org/images/2023-book-reviews/ecb495eb9dc68d7d.png)

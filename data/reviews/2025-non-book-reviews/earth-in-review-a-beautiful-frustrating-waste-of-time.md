@@ -82,7 +82,7 @@ She bares her bloody teeth against the darkness, in defiance and threat.
 
 _I will keep you safe_, she declares to the child in her arms. _No matter what_.
 
-        **And she holds me tight.**
+**And she holds me tight.**
 
 #
 

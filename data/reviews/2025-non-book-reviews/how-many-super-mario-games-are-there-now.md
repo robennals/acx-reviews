@@ -16,7 +16,7 @@ tags:
 ---
 
 I don’t actually expect to have the weirdest review subject in the contest, but I’d like to be in the runners up.  
-
+  
 Mitch Halley runs a YouTube channel formerly called _Conlang Critic_. I assume if you’ve heard of him before, it would be from his series of the same name, in which he ranks and reviews artificially made languages from Esperanto to Dothraki. He eventually changed the channel’s name to _jan misali_ (which is a translation of Mitch into Toki Pona, his favorite constructed language), to reflect the increasingly eclectic nature of his content. I’ll be calling him jan Misali, or Misali for short. One strain of videos would see him attempt to categorize which _Super Mario_ games were “mainline” and which were not, and our subject today is the magnum opus of this project. _[how](https://www.youtube.com/watch?v=-Ddmjcy3lEs)_ _[many Super Mario games are there NOW?](https://www.youtube.com/watch?v=-Ddmjcy3lEs)_ is a two hour long extravaganza, centered on a survey taken by thousands of people over a period of several months, and covering just about every game in the Mario series. The survey took several hours to complete even in a single sitting, which I can personally attest to. I’m going to do my best to make this review digestible even for readers who haven’t seen the video or have a staggering level of Mario knowledge, but you may want to watch it before or after in case I fail at this lofty goal. If you’re understandably unsure of whether to commit two hours to this topic, jan Misali's inaugural video on the topic _[how many Super Mario games are there?](https://www.youtube.com/watch?v=XejJ6PzPtEw)_ is around 45 minutes, features a shorter survey, and covers a much more constrained set of games in detail, so you may want to start with that.
 
 The video itself waits for around an hour to ask the question
@@ -93,7 +93,7 @@ This episode in particular centres Albee Dawn (played by Carly Monardo): a lovea
 *   Frederick de Bonesby (played by Christopher Hastings): A once-human noble-turned-fancy-wig-wearing-skeleton by way of a botched lich ritual.
 *   Stir Fry (played delightfully by Tim Platt): A hyperactive Kenku chef who was granted the ability to speak by de Bonesby, and has been overcompensating ever since.
 *   Bellow Gorramael (played by Joe Lepore): A hot, blue, druid tiefling with “psychotically chill” vibes.
->
+
 *   And the Game Master, Branson Reese, whose voice and and narration is just exciting enough without being overstimulating to me, and who performs an impressive array of characters throughout the course of the show.
 
 So—quest. Naturally, unhinged improvisation coincides with meandering paths and shenanigans as the group traverses the Teenage Woods and what lies beyond. This show is, at turns, hilarious, horrifying, and every now and then—against all logic—profound. What happens is fairly typical. There’s some owlbears and bearowls. Attempting to potty-train a ratman in exchange for answers. A reunion with a brother. The murder of a brother. A Kebin—a “stupid as fuck” yet horrifying monster made up of mutilated body parts and flesh who can turn anything inside out.
@@ -218,7 +218,7 @@ Albee, confused:
 
 Kreedis, without hesitation:
 
-I wanna be dead. But what I’m saying is, your hero worship is holding you back. There is nobody who found anything meaningful out from someone else’s journey. _Your_ journey is what is teaching you.
+> I wanna be dead. But what I’m saying is, your hero worship is holding you back. There is nobody who found anything meaningful out from someone else’s journey. _Your_ journey is what is teaching you.
 
 This moment is raw and complicated. Kreedis isn’t trying to guide Albee to a specific answer—he’s trying to shake her out of the belief that answers come from outside herself. He’s asking her to stop narrating her own growth, to stop grading herself, and instead, _perceive._
 
@@ -244,17 +244,15 @@ Not to be cruel, but to force her to confront the absurdity of her reality—and
 
 This is the turning point.
 
-_Kreedis: You can walk away from nirvana. Most people do._
-
-_Albee: I mean, it doesn’t seem to have brought you anything but more pain._
-
-_Kreedis: This reality is pain, yeah absolutely._
+> _Kreedis: You can walk away from nirvana. Most people do._  
+> _Albee: I mean, it doesn’t seem to have brought you anything but more pain._  
+> _Kreedis: This reality is pain, yeah absolutely._
 
 The scene continues to cut back and forth between Albee’s internal unraveling and the external absurdity of the nachos threatening to engulf her friends. It’s a surreal juxtaposition: cosmic truth and food-based apocalypse. But it works.
 
 Kreedis delivers another teaching:
 
-The power that will come from you accepting the world as it is, is a power that can unlock every star in the universe. The acceptance of the things that are beyond your control is the path to self-control, and the self and the universe are one and the same. Accept doesn’t mean endorse. Accept doesn’t mean admire. Accept doesn’t mean approve. It just means accept.
+> The power that will come from you accepting the world as it is, is a power that can unlock every star in the universe. The acceptance of the things that are beyond your control is the path to self-control, and the self and the universe are one and the same. Accept doesn’t mean endorse. Accept doesn’t mean admire. Accept doesn’t mean approve. It just means accept.
 
 And here, finally, Albee lets go.
 
@@ -326,15 +324,15 @@ She feels it—the guilt, the pain, the failure. She feels his life, both the de
 
 All at once, she’s enveloped in it:
 
-The drinking, the drugging, the high-profile interviews… the shame, the seclusion—all deliberate choices made to numb the pain and the guilt of having destroyed an entire peninsula of living souls minding their own business. _(Game Master, “Mountaintop,” Rude Tales of Magic)_
+> The drinking, the drugging, the high-profile interviews… the shame, the seclusion—all deliberate choices made to numb the pain and the guilt of having destroyed an entire peninsula of living souls minding their own business. _(Game Master, “Mountaintop,” Rude Tales of Magic)_
 
 She feels it all. The joy in the power. The crushing realization of consequence. The burden of it all. It becomes a kind of plan—slowly forming, aimless, yet deliberate.
 
-The grim skeleton of a plan begins to form and amble about. _Become nothing_. Albee feels musculature and a nervous system begin to form around the plan. _Destroy the path behind me, so that nobody may follow where I go… I can never again have my hands on the wheel. I am a vehicle I never learned to drive_. _(Game Master, “Mountaintop”)_
+> The grim skeleton of a plan begins to form and amble about. _Become nothing_. Albee feels musculature and a nervous system begin to form around the plan. _Destroy the path behind me, so that nobody may follow where I go… I can never again have my hands on the wheel. I am a vehicle I never learned to drive_. _(Game Master, “Mountaintop”)_
 
 She’s experiencing the full scope of what it means to have lived a life of both overwhelming power and destructive isolation. Every toxin Kreedis has ever consumed, every failure, every moment of confusion, and every ounce of shame is now coursing through her, too.
 
-You feel every single toxin that he has ever pumped through his bloodstream voluntarily. You feel sixty-plus years of failure and disappointment and weight and… just absolute existential… _death_. You feel it. You feel the guilt. You feel the power. You feel the excitement at the power. You feel the shame that comes along with it. You feel the confusion. You feel the anger, you feel the acceptance…” _(Game Master, “Mountaintop”)_
+> You feel every single toxin that he has ever pumped through his bloodstream voluntarily. You feel sixty-plus years of failure and disappointment and weight and… just absolute existential… _death_. You feel it. You feel the guilt. You feel the power. You feel the excitement at the power. You feel the shame that comes along with it. You feel the confusion. You feel the anger, you feel the acceptance…” _(Game Master, “Mountaintop”)_
 
 The magnitude of it nearly overwhelms her, but Albee realizes,
 
@@ -410,22 +408,17 @@ I questioned whether or not to submit this review, not sure if I actually had an
 
 * * *
 
-_Kreedis: These beautiful memories. Do they matter to the universe?_
-
-_Albee: No._
-
-_Kreedis: Do they matter to you?_
-
-_Albee: Yes._
-
-_Kreedis: Is that enough?_
+> _Kreedis: These beautiful memories. Do they matter to the universe?_  
+> _Albee: No._  
+> _Kreedis: Do they matter to you?_  
+> _Albee: Yes._  
+> _Kreedis: Is that enough?_
 
 _Albee:_ Yes.
 
-_Kreedis: Hell yeah._
-
-_Albee: Hell yeah._
-
-* * *
+> _Kreedis: Hell yeah._  
+> _Albee: Hell yeah._
+>
+> * * *
 
 … it is okay for something to matter only to you.

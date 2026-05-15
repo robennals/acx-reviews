@@ -61,9 +61,9 @@ Great writers generally **use simple words over complicated ones**. But they rel
 
 > _Pauline Phillips, a California housewife who nearly 60 years ago, seeking something more meaningful than mah-jongg, transformed herself into the syndicated columnist Dear Abby—and in so doing became a trusted, tart-tongued adviser to tens of millions—died on Wednesday in Minneapolis. . . ._
 >
-> _With her comic and flinty yet fundamentally sympathetic voice, Mrs. Phillips helped wrestle the advice column from its weepy Victorian past into a hard-nosed 20th-century present. . . .  
->   
-> -_[Margalit Fox, NYT, Pauline Phillips, Flinty Adviser to Millions as Dear Abby, Dies at 94](https://www.nytimes.com/2013/01/18/business/media/pauline-phillips-flinty-adviser-to-millions-as-dear-abby-dies-at-94.html)
+> _With her comic and flinty yet fundamentally sympathetic voice, Mrs. Phillips helped wrestle the advice column from its weepy Victorian past into a hard-nosed 20th-century present. . . ._
+>
+> -[Margalit Fox, NYT, Pauline Phillips, Flinty Adviser to Millions as Dear Abby, Dies at 94](https://www.nytimes.com/2013/01/18/business/media/pauline-phillips-flinty-adviser-to-millions-as-dear-abby-dies-at-94.html)
 
 Notice _flinty_ and _hard-nosed_. Both words are uncommon, but they don't require the use of a dictionary.
 
@@ -113,22 +113,22 @@ The hallmarks of classic style...
 
 **Doesn’t use signposting.** You'd never tell a friend "I'm about to tell you three different things about trees...", you'd just dive right in. Classic style gets straight to the point. Authors don't talk about what they want to say, they just say it.
 
-_Bad: This chapter discusses the factors that cause names to rise and fall in popularity.  
-Better: What makes a name rise and fall in popularity?_
+_Bad: This chapter discusses the factors that cause names to rise and fall in popularity._  
+_Better: What makes a name rise and fall in popularity?_
 
 **Confident, does not hedge.** How many times have you read a newspaper article that is endlessly couched in "allegedly" and "reportedly". Classic style instead counts on common sense and says what it needs to. _"Any adversary who is unscrupulous enough to give the least charitable reading to an unhedged statement will find an opening to attack the writer in a thicket of hedged ones anyway."_
 
 **Avoids cliches and vagaries.** It's easy to include sentences which convey little-to-no information. Cut them, or re-phrase.
 
-_Bad: When Americans are told about foreign politics, their eyes glaze over.  
-Better: Ever tried to explain to a New Yorker the finer points of Slovakian coalition politics? I have._
+_Bad: When Americans are told about foreign politics, their eyes glaze over._  
+_Better: Ever tried to explain to a New Yorker the finer points of Slovakian coalition politics? I have._
 
 _He almost needed an adrenaline shot to come out of the coma._
 
 **Avoids abstract nouns** (e.g. 'level', 'strategy', 'issues', 'perspective'). Instead, just write directly.
 
-_Bad: I have serious doubts that trying to amend the Constitution would work on an actual_ _level__. On the aspirational_ _level__, however, a constitutional amendment_ _strategy_ _may be more valuable.  
-Better: I doubt that trying to amend the Constitution would actually succeed, but it may be valuable to aspire to it._
+_Bad: I have serious doubts that trying to amend the Constitution would work on an actual_ _level__. On the aspirational_ _level__, however, a constitutional amendment_ _strategy_ _may be more valuable._  
+_Better: I doubt that trying to amend the Constitution would actually succeed, but it may be valuable to aspire to it._
 
 Aside from these rules of the road, Pinker also offers two pieces of advice to improve our writing.
 

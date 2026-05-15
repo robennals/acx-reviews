@@ -176,15 +176,11 @@ But what implications does this have for the relationship between a therapist an
 
 Kegan thinks T.S. Eliot speaks to this problem best, in his poem _“Burnt Norton”_:
 
-_The enchainment of the past and future_
-
-_Woven in the weakness of the changing body_
-
-_Protects mankind from heaven and damnation_
-
-_Which flesh cannot endure. Time past and future_
-
-_Allow but a little consciousness. To be conscious is not to be in time._
+> _The enchainment of the past and future_  
+> _Woven in the weakness of the changing body_  
+> _Protects mankind from heaven and damnation_  
+> _Which flesh cannot endure. Time past and future_  
+> _Allow but a little consciousness. To be conscious is not to be in time._
 
 Kegan interprets this passage as representing the misalignment between the client’s desire to solve his short-term issue as quickly as possible, versus the therapist’s focus on addressing the longer-term issues:
 
@@ -264,7 +260,7 @@ Yet, Kegan’s personal belief that his level-system would result in a convergen
 
 ![](https://acximages.ennals.org/images/2023-book-reviews/5e130d90a5559984.jpg)
 
-> **Perhaps level 5 only looks so safely universalist to Kegan because he is suffering from some variant of** **[streetlight effect](https://en.wikipedia.org/wiki/Streetlight_effect)****?**
+> **Perhaps level 5 only looks so safely universalist to Kegan because he is suffering from some variant of** **[streetlight effect](https://en.wikipedia.org/wiki/Streetlight_effect)?**
 
 Of course, any analysis of the further implications of constructive-developmental theory is meaningless if the theory isn’t true in the first place. And Kegan does not seem to have developed his theory through, say, a meta-analysis of a large number of randomized control trials. Rather, he collated his personal experiences and the experiences and theories of others, and pattern-matched until things felt right. (Though as best I understand it, this method is not particularly unusual for his field and time-period?)
 

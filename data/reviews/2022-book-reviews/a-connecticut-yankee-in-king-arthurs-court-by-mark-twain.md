@@ -21,7 +21,7 @@ _**FORMATTING NOTES FOR SCOTT, IN CASE THIS MAKES IT:**_
 1.  _**Indenting means Substack quote formatting.**_
 2.  _**[[ ]] brackets means it’s a Substack image caption for the image above.**_
 3.  _**The review starts with the quote below.**_
->
+
 > “How much is 9 times 6?”
 >
 > “It is a mystery that is hidden from me by reason that the emergency requiring the fathoming of it hath not in my life-days occurred, and so, not having no need to know this thing, I abide barren of the knowledge.”

@@ -15,9 +15,9 @@ tags:
   - Science
 ---
 
-_TLDR: Nicotine is mostly wrongly vilified; its big issue is a short half-life that foments chronic re-dosing. Addiction potential is a function of net time to hit your bloodstream (inhalation/smoking > buccal administration/snus/dip > nicotine gums > transdermal patches). Be careful with chronically elevated nicotine levels, which can engender higher baseline levels of neural excitation (mechanisms explicated below) and is a primary mediator of addiction reinforcement. Otherwise, it’s a powerful, angiogenic nootropic that is useful with perspicacious use. But as always, you’re modifying a vastly complex biochemical system with countless reflexive feedback loops, so who knows._
-
-* * *
+> _TLDR: Nicotine is mostly wrongly vilified; its big issue is a short half-life that foments chronic re-dosing. Addiction potential is a function of net time to hit your bloodstream (inhalation/smoking > buccal administration/snus/dip > nicotine gums > transdermal patches). Be careful with chronically elevated nicotine levels, which can engender higher baseline levels of neural excitation (mechanisms explicated below) and is a primary mediator of addiction reinforcement. Otherwise, it’s a powerful, angiogenic nootropic that is useful with perspicacious use. But as always, you’re modifying a vastly complex biochemical system with countless reflexive feedback loops, so who knows._
+>
+> * * *
 
 If you refer to my admittedly indulgent list of “[apodictic truths](https://panpharmacon.substack.com/p/operating-assumptions)”, I make the point that “(d)opaminergics are a dual-edged sword and extreme caution is warranted.” While nicotine is more rightly classified as a cholinergic, it does elicit a strong dopamine response via mechanisms downstream of nicotinic acetylcholine receptor (nAChR) activation. This ultimately begets dopamine tolerance and an attendant progressive attenuation of reward-prediction error in the mesolimbic pathway. If you want the mechanistic details, read the [wikipedia](https://en.wikipedia.org/wiki/Nicotine#:~:text=Nicotine%20is%20a%20naturally%20produced,cessation%20to%20relieve%20withdrawal%20symptoms.) page or, better yet, the [Examine.com](https://examine.com/supplements/nicotine/) page.
 

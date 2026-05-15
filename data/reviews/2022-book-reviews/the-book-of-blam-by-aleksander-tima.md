@@ -30,7 +30,7 @@ Almost no human exists today without PFOAs within them, even in small, trace amo
 
 The Book of Blam is a postscript to the Hungarian occupation of Novi Sad during WWII,  told through the mourning, regretful existence of the novel’s protagonist, Miroslav Blam. Blam is the semi-autobiographical portrayal of the novel's author, Aleksandar Tišma. In his introduction to the NYRB edition, Charles Simic quotes Tišma as admitting that all his novels are autobiographical, though “He is not recounting his life but using elements of his experience in them.” Tišma was raised in Novi Sad, and though half-Jewish through his mother’s side, was saved from the Novi Sad massacre by a Hungarian neighbor who reportedly misled the invaders. Tišma’s survival remained a forceful and recurring source of guilt. Simic cites one of Tišma’s journal entries, where he confesses,  “I am a man who stayed in the hole because he couldn’t part company with its warmth.” The Book of Blam is a novel about the effects of being in that hole, and what it is like now to have come out of it.
 
-_He lacks the self-confidence or the energy for it; nor does he feel the need. His will dooms him to return to the same old roads and streets, to remain their intent yet listless and melancholy observer._
+> _He lacks the self-confidence or the energy for it; nor does he feel the need. His will dooms him to return to the same old roads and streets, to remain their intent yet listless and melancholy observer._
 
 _Aleksandar Tišma, The Book of Blam_
 
@@ -44,7 +44,7 @@ As a result, this book takes place in the past, or, anything of substance does. 
 
 Most accurately, Blam’s life can be described as a nightmare that he wakes up from, and nevertheless remains a nightmare. Tišma narrates, “He experiences waking as a lie, yet the dean that waking releases him from is also a lie.” Blam’s life, he knows, is “a whole dreamed life of suffering, which he no longer remembers and whose vestiges are fading, disappearing. He does not want them to disappear. If it is his life, he wants to keep it.” The image of a dream that is not quite a dream, but not quite a nightmare either, and nothing that can be ended, anyway— life that is not quite life—is constantly reinforced throughout the novel. “He is moving among dreams, from dream to dream, and everything not a dream is an illusion.” Blam’s real life has ended. Blam, in the form he wishes, has ceased to exist. The Book of Blam is an exposition of what this is like, and an investigation into how this has come to be the case.
 
-_They have no idea what is going on inside Blam; they cannot share it, they would not understand his fear, his terror, his certainty that the patrol will come for him and push him to the railing. What is wrong with him? Is he mad? Or is everyone mad but him? Though it amounts to the same thing. For if he is different from everyone, then he is a monster, a freak, an aberration, ripe for being split open and having his thoughts read, for being crammed into a cage and exhibited in an anthropological rather than zoological garden, exhibited naked, the better to be seen and poked at through the bars until he produces the incoherent howls and shrieks expected of him._
+> _They have no idea what is going on inside Blam; they cannot share it, they would not understand his fear, his terror, his certainty that the patrol will come for him and push him to the railing. What is wrong with him? Is he mad? Or is everyone mad but him? Though it amounts to the same thing. For if he is different from everyone, then he is a monster, a freak, an aberration, ripe for being split open and having his thoughts read, for being crammed into a cage and exhibited in an anthropological rather than zoological garden, exhibited naked, the better to be seen and poked at through the bars until he produces the incoherent howls and shrieks expected of him._
 
 _Aleksandar Tišma, The Book of Blam_
 
@@ -52,7 +52,7 @@ The above excerpt is taken from one of the first few pages of the novel and fore
 
 Blam is living, but not as an identity; he hates when he is singled out as an individual, and counters all efforts ‘to be pigeonholed.’ For instance, Blam avoids direct human contact, especially of his scarce friends, who perhaps know what he once was (and has ceased to be). “He chose the busiest parts of town for his wanderings, places where people were crowds rather than individuals, impersonal, purely physical, and their moving, surging, pushing brought the fatigue he desired, like the wet snow and fierce wind.” Still, as this quote portrays, even in Blam’s desired anonymity, he wishes to accomplish such an anonymity not through solitude, but rather by convergence and congregation; he opts for closeness to others. Most of all, Blam’s desire for anonymity is drawn from his want to avoid recognition, specifically to not to be recognized in his shame, but not wanting to isolate that shame either. “To escape that danger, Blam bends his head and gazes down at the feet of his fellow citizens, which he is less likely to recognize than their faces, and hopes that he is less likely to be recognized.”
 
-_Death was his goal as he roamed in search of something impersonal to mask his shame; death was what he sought here in the “acoustics,” in merging with the crowd, losing his individuality and what was left of tradition and memory in the intoxication of music._
+> _Death was his goal as he roamed in search of something impersonal to mask his shame; death was what he sought here in the “acoustics,” in merging with the crowd, losing his individuality and what was left of tradition and memory in the intoxication of music._
 
 _Aleksander Tišma, The Book of Blam_
 
@@ -62,7 +62,7 @@ In the end, in spite (and because of) all his efforts to hide from us, we do eve
 
 Explanations for Blam’s pervading guilt and shame are not offered by Blam himself. In this way, The Book of Blam is a book that is filled haphazardly, rather than explained in an orderly manner. We know Blam has suffered greatly; we know his family is dead, we know his community has been decimated, etc, but Blam does not account for aftermath himself. It is only the reflexes of memory activated by the happenstance triggers placed by Tišma that form the daze-filled episodes of the novel where Blam is forced to unravel. In this way, the account offered by The Book of Blam is not one that is linear, but instead is a backfilling of Blam’s present condition.
 
-_“He does not, of course.”_
+> _“He does not, of course.”_
 
 _Aleksandar Tišma, The Book of Blam_
 
@@ -74,7 +74,7 @@ _“If Čutura were still alive…”_
 
 The Book of Blam is a failure to fulfill the desirable demands of ‘if’. ‘If I were myself, the book wouldn’t exist.’ ‘If I was an honorable son, either my parents would be alive, or I would be dead too.’ ‘If I was a lawful husband, my wife wouldn’t cheat on me, and my daughter would be mine.’ And most strikingly these conditional shortcomings continue, nothing is a lesson learned, nothing strikes the saying, ‘I will do it next time,’ but he is conditioned to not fulfill the higher obligations of his higher self and that which he knows to be right. Blam is condemned to suffer, and suffer as a coward through his perpetual inaction. And it is not for the lack of opportunity either.
 
-_“You’re just guessing.”_
+> _“You’re just guessing.”_
 
 _“I’m being logical. You should have at least looked into the possibility. You didn’t do a thing.”_
 
@@ -86,7 +86,7 @@ Throughout the novel, an entire set of activities is imagined, usually revolving
 
 _Blam, Funkenstein, Čutura vs Kocsis 1 (abbreviations of speakers added for clarity):_
 
-_Kocsis: “Mr. Blam!”_
+> _Kocsis: “Mr. Blam!”_
 
 _Blam: “Mr. Kocsis. I’m sure I don’t know...”_
 
@@ -114,7 +114,7 @@ _Aleksander Tišma, The Book of Blam_
 
 Blam can’t even confront Kocsis himself, even after others have brought them face to face and given Blam the seemingly easy upper-hand. And still, Blam doesn’t interrogate Kocsis at all—Čutura does most of the speaking. It is not even Blam who has told us the precise details of the Blam family murder; the revelation that takes place near the end of the novel doesn’t even come from Blam’s own lips, but instead the mental projection of Čutura. And it is Čutura who now hands Blam the imaginary pistol, allowing Blam to carry out the rightful sentence, even just in his mind. And it is Blam who refuses to take it:
 
-_Blam, Funkenstein, Čutura vs Kocsis 2 (abbreviations of speakers added for clarity):_
+> _Blam, Funkenstein, Čutura vs Kocsis 2 (abbreviations of speakers added for clarity):_
 
 _Č: “Take the pistol, I tell you. Take it and shoot him. Don’t be afraid. Nobody will ever know.”_
 
@@ -148,7 +148,7 @@ _Aleksander Tišma, The Book of Blam_
 
 The scene unfolds and ends like an Athenian tragedy. ‘I can’t,’ ‘I can’t,’ ‘I can’t;’ Blam is unable to be brave even in his own imagination. His fantasy of vengeance has somehow resulted in his own death. Instead of killing the killer of his parents, he allows himself to be killed instead. He does not kill even for his own sake! He does not kill even at the risk of his death! It is the ultimate eternal return of Blam’s guilt. Of course, none of this is actually happening; the scene takes place fully within Blam’s imagination, yet is somehow all the more real on account of this and even more powerful. The quick reflex to reality that occurs at the end of imaginary dialogues like this are relapses that occur many times a day. “If Čutura were still alive;” if Čutura were alive…even if Čutura were still alive Blam still stays in the hole of torture he is so comfortable in. But Čutura is dead, and none of this happens, and even if it were to happen, he would continue to fail anyway.
 
-_“But Cutura is no longer among the living, and Blam leaves the square for the former Jew Street, unencumbered by third parties, thinking his own thoughts.”_
+> _“But Cutura is no longer among the living, and Blam leaves the square for the former Jew Street, unencumbered by third parties, thinking his own thoughts.”_
 
 _Aleksander Tišma, The Book of Blam_
 
@@ -156,7 +156,7 @@ Again, The Book of Blam takes place in the past, like an obituary exists in the 
 
 ## But
 
-_Look at the map of Novi Sad, and you will see a kind of spider’s web intersecting on one side with a broad ribbon in the form of a half-circle but extending evenly in all other directions. The ribbon, usually coloured blue, is the Danube, the city’s permanent eastern boundary and also its womb._
+> _Look at the map of Novi Sad, and you will see a kind of spider’s web intersecting on one side with a broad ribbon in the form of a half-circle but extending evenly in all other directions. The ribbon, usually coloured blue, is the Danube, the city’s permanent eastern boundary and also its womb._
 
 _Aleksandar Tišma, The Book of Blam_
 
@@ -170,8 +170,8 @@ And yet, and yet it isn’t so easy, no matter if it is true. We come up with po
 
 And yet, from another perspective, if we remain silent we stand at the precipice, and allow ourselves to be at the edge, and eventually fall into a more evil abyss. So, however barbaric, however impossible, we must keep speaking. We must keep writing. We must keep living. Such is the condition of the modern writer, and the modern man. Yes, it is barbaric to write poetry after Auschwitz. But it is more barbaric to remain silent. It is more barbaric to stop living on account of our toxicity, for to do that would make us all the more toxic still. Adorno revised his claim to state that, “Perennial suffering has as much right to expression as the tortured have to scream.” Such are all of our conditions, marked, scarred, but we are still alive anyway. Such is Mirosav Blam’s condition; Miroslav Blam is one who is left to swim in the Danube, left to roam the streets that have been stripped of their inhabitants. Tišma, faced with the same conditions, took the sorrow and suffering from the world and made a masterpiece out of it. This is the life of Miroslav Blam, this is The Book of Blam, this is the book of all of us that have survived. A marked masterpiece, yes, but a masterpiece all the same.
 
-_He will step forward and put his neck in the noose or take his place before the firing squad. He will not dodge death this time; he will close the circle he left open; he will enable a death to happen that must happen; he will reveal another murder, another murderer, another victim—in a man in whom they would not have been revealed, a man who might not even have seen them in himself—as all his people had done before him, thus committing, as he now realizes, an act of the most profound truth._
-
-_Aleksander Tišma, The Book of Blam_
-
-* * *
+> _He will step forward and put his neck in the noose or take his place before the firing squad. He will not dodge death this time; he will close the circle he left open; he will enable a death to happen that must happen; he will reveal another murder, another murderer, another victim—in a man in whom they would not have been revealed, a man who might not even have seen them in himself—as all his people had done before him, thus committing, as he now realizes, an act of the most profound truth._
+>
+> _Aleksander Tišma, The Book of Blam_
+>
+> * * *

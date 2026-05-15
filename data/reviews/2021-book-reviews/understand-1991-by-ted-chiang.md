@@ -315,8 +315,7 @@ _It_ made the fatal inference for him; _it_ dissolved, this mini-Me —while _he
 
 His death was false, like a sisterly Pregnancy.
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
+_ _ _
 And that's my Pitch to Naturalize the Virgin Birth: Mary underwent history's most extreme sympathetic pregnancy, with cousin Elizabeth who'd conceived John the Baptist the usual way.  And such is the power of motherly suggestion, from a girl pure of Heart, that young Yeshua suspects he's God.
 
 I'd love to read a Naturalized account of the miracles of healing, of the Five Thousand Fed, of the Resurrection, in Chiang's next Collection.  He's given us already a realistic Babylonian cosmology.

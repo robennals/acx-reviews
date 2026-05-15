@@ -49,8 +49,7 @@ The problem was that it would have been too much. There’s just too much to say
 >
 > They were perfect.
 
----  
-
+- - -
 That story is perhaps a bit dull. I admit it, and I’m fine with it. On the subject level, dull-as-virtue is what this article is about. Like it or not, you need a bunch of mundane, banal stuff to keep your quality-of-life at levels worth living. Even if you are an anti-consumer, anti-capitalism hater of goods, you still need soap and cleaning tools to enjoy even pre-capitalism levels of living.
 
 That’s why the tyranny of bad goods ordered from afar is so oppressive. I’m old enough to remember a time when most goods sucked. Almost every packaged food was bad. Every children’s toy was trash. Good stuff existed, but it was much more expensive. The age of Amazon actually changed this a lot. WIth luck, you can buy a twenty dollar doorknob set that would cost you twice that at Home Depot, one that actually works and holds up for a reasonable amount of time.
@@ -70,7 +69,7 @@ As cleaners that come in spray bottles go, here is one that’s considered fairl
 ![](https://acximages.ennals.org/images/2025-non-book-reviews/2258b654a5c5b922.png) 
 
 Look at those pretty bottles. So colorful. That’s this company’s whole jam - bottles and ad copy. Here’s a brush from the same company, or at least the same store you’d buy the soap at:  
-
+  
 ![](https://acximages.ennals.org/images/2025-non-book-reviews/45a67aeea5cad039.png)
 
 The copy that the company uses to sell either is about as attractive. Here, they say, is a sustainable product made with delightfully crunchy ingredients, each more hippy-commune than the last. They are “natural”. They are, I swear this is true, a scented summer-specific collection.
@@ -89,8 +88,7 @@ Having determined that I just didn’t have space to write about every Rubbermai
 
 I needed a way around that. To the extent I could, I think I found one. So tighten your belt and jostle your soul to a more comfortable riding position, because we are about to travel very fast over rough, unexplored roads in search of polymer wisdom.
 
----
-
+- - -
 The plan, as it was, was relatively simple. This not having to be an _interesting_ article in a topic sense helped a lot. I would buy a friend a broom. I would pick a man of unimpeachable honor and honesty, a capable man who hated the very idea of a bribe. He would be forced to accept the Rubbermaid boon I thrust upon him. He’d use it to clean up little scraps of paper or whatever, and tell me how it did.
 
 At the same time, I'd buy another Rubbermaid broom. I'm a fanboy, and so not to be trusted at all, but I could at least be another datapoint. You could compare my conclusions to his, pick an arbitrary point on a line drawn between our two positions, and probably come away with at least the illusion of balance.
@@ -141,8 +139,7 @@ One of the advantages of _things like Rubbermaid_ is that they are commonly purc
 
 She asked that I tell you how to use her.
 
----
-
+- - -
 This brings us around to some of the practical-advantage stuff I said I'd grant you near-but-not-at the beginning of the article. Specifically, I'm going to teach you the correct way to clean a toilet, to the extent that one exists that's available to you or me.
 
 The reason I'm saying that in the specific weird way I've chosen is there's always going to be a lot of tools you don't or can't have access to that would make the job a little easier. The _actual_ best way to clean a toilet is in a room with commercial drains and water-impermeable walls such as allow you to add a full garden hose to the mix and use the sheer volume and pressure of the water to flood away the filth.  
@@ -174,7 +171,7 @@ You will, with vigor, scrub every inch of the toilet while paying special attent
 Accept the fact, reject the negativity. The wipe is coming.
 
 Once the toilet is scrubbed, you are going to work the first of two cycles of wiping. This is a one-rag job. What you are looking to do is clean up the majority of the cleaner and detritus in one go. This is where you will begin to see the fruits of your labors but various stray hairs and lint will still mock you from the otherwise beautiful surface.  
-
+  
 Your secondary wipe, using a fresh cloth, is meant to clear the battlefield of all such stragglers. If you use the first rag here, you leave behind as much as you take away. A clean cloth (especially if it’s a folded-over paper towel) will leave you with nothing but pristine white.
 
 At the end, you will stand above the commode in victory, wiping the edges of the hinges clear of the last bits of detergent. The bowl is mostly a function of the same kinds of efforts, only subbing in repeated flushing for the work of the rag and allowing a toilet brush to do the work of your hand-scrubber. The only exception here is stains or discoloration. The cleaning supply industry knows you see these as _infections of color_ and will try to sell you bleach products for them. This is because you are stupid. Don't worry; we all were as you once.
@@ -185,8 +182,7 @@ Is all this overkill? As I write this, an internet friend is commenting that it 
 
 To your type, I say this: Listen, man. Some of us are contributing to the future of this great nation and the world, and need actual tools. This is what gets the job done.
 
----
-
+- - -
 Of course, I just did every toilet-scrubbing step described above myself. I'm not going to fire from the hip on a subject this important. I went and got my facts straight beforehand so I could give you only the very straightest of shooting, as you deserve. You'd expect no less from a person of my stature, and I'm glad to say I didn't balk from delivering it.
 
 How did the brush hold up, you ask? Fine. It did fine. It cleaned the toilet well. It’s rinsed out now, waiting for its next job.
@@ -203,8 +199,7 @@ As a secondary power move and just to get another data-point I also set out to c
 
 The tray is okay now. The brush did fine. It's a Rubbermaid. Rising to the occasion is the only life it knows.
 
----
-
+- - -
 This essay might make it seem like I’m joking. I am, in the sense that I’m making a lot of jokes. I’m not at all joking about my love for this company, though.
 
 A friend who proofread this for me before I sent it out said that he was worried that this might straddle the line between a review and a memoir of a life lived in happiness with a brand. If so, let that be your review in-and-of-itself, because that just wouldn’t be possible for me with most things. Too many trusted names have failed me. Too many heroes have fallen. Rubbermaid alone has stood firm against the storms.

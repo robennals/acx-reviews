@@ -161,21 +161,21 @@ If you’re _extra_ paranoid, you could hit the fertility clinic and put some sp
 Ultimately, quality of life is about how you _feel_ and academic studies aren’t really ever going to surface that very well.  So I’m also going to include a few quotes from different TRT users that I personally know:
 
 1.  “I used to have such a “what can I consume” view of the world and now I want to make things and impress people.  That’s a better way to live than an unambitious life where you just passively stand by as the economy slots you into some soul crushing 9-5 by default.”
->
+
 > – a younger friend who founded a startup after doing TRT and getting motivated
->
+
 2.  “Life changing, it’s just crazy.  I feel like ME again, in every part of my life.”
->
+
 > – my dad, a former athlete and serial entrepreneur after taking up TRT in his 60’s
->
+
 3.  “If you do T properly for long enough and know what you’re doing, the powers you gain can feel almost superhuman.”  
->
+
 > – a retired gym buddy in his 70’s who still squats 3 plates (315+ lbs)
->
+
 4.  “I was really hitting plateaus in my life, and it changed it fully.  It definitely increased my energy, along with my strength and muscle mass.  I would recommend it for a lot of men, it really enhances your lifestyle.”  
->
+
 > – a good friend who is currently working a day job in software, building a mid-rise building, and just signed a deal with a large corporate airline for his side-project startup
->
+
 5.  “Do you know what the biggest change for me is?  It gives you that push - before you might have thought about going to the gym, and hesitated - maybe you’d give in to your worst impulses and stay home.  But now?  I go.  I used to have a lot more trouble procrastinating before, too, in a lot of areas, and it helped that on multiple fronts.”
 
 – a former gym buddy and colleague from several gyms and companies ago

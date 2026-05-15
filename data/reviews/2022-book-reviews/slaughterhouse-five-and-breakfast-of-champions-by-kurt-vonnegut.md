@@ -164,8 +164,7 @@ In contrast, insanity in \*BoC\* is treated very differently. For one, Dwayne Ho
 
 In conclusion, _SF_ and _BoC_ invite us to take a step back from taking things seriously. They show us that narratives are nothing more than convenient lies, reality is always chaotic.
 
----
-
+- - -
 **Footnotes**
 
 * I found [this](http://www.sarahrimkus.com/trapped-in-amber) orchestral piece composed by Sarah Rimkus called 'Trapped in Amber.' The music was inspired by Slaughterhouse-Five.

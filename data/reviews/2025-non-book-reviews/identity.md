@@ -39,7 +39,7 @@ LessWrong gives a more precise [definition](https://www.lesswrong.com/w/identity
 And [Clearer Thinking](https://programs.clearerthinking.org/question_your_identity.html) has this extensional definition of the set:
 
 > Your identity is made up of:
->
+
 *   Traits that describe you _(I am funny, athletic, disorganized, etc.)_
 *   Relationships or groups you belong to _(I am a father, a chef, a fan of my hometown sports team etc.)_
 *   The ideologies of the groups you belong to _(I am a conservative, a feminist, a neo-liberal)_

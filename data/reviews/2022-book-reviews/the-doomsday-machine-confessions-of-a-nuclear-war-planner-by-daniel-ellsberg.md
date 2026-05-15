@@ -221,7 +221,7 @@ Then the British and American militaries adopted the ‘bomb factories for the w
 > _Fewer people would be killed overall, on both sides, from this approach._
 >
 > _This justification was based on the assumption that the bombing would be effective quickly with relatively small numbers of bombs. And that belief depended on several other beliefs that British and American planners held:_
->
+
 *   _that British and American bombers could sustain the loss rates from defenses flying in daylight;_
 *   _that they could bomb accurately enough in daytime to destroy enemy bases and factories;_
 *   _that they could find towns and industrial targets accurately at night, if necessary, and still destroy factories;_
@@ -230,7 +230,7 @@ Then the British and American militaries adopted the ‘bomb factories for the w
 *   _that with attainable accuracy, American bombers could destroy critical bottlenecks and vulnerabilities in German industrial networks that would cripple war production;_
 *   _that through the use of high explosives and incendiaries, British bombers flying at night could “de-house” a huge fraction of the German population, destroying German will to fight; and_
 *   _that the morale of the German population (and later, the Japanese) was far more fragile under bombing than that of the Chinese, Spanish, or British had proved to be._
->
+
 > _Each of these assumptions, every one of them—all articles of faith among strategic-bombing enthusiasts—was decisively disproven by experience in the first years of World War II. But the bombing continued, and greatly increased._
 
 Why did the British and American militaries continue to target dense civilian population centers even after this strategy failed to accomplish their objectives?

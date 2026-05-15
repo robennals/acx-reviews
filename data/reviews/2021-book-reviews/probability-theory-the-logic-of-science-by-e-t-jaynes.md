@@ -16,9 +16,9 @@ tags:
   - Philosophy
 ---
 
-_P(A|B) = [P(A)\*P(B|A)]/P(B), all the rest is commentary._
-
-- Astral Codex Ten tagline.
+> _P(A|B) = [P(A)\*P(B|A)]/P(B), all the rest is commentary._
+>
+> - Astral Codex Ten tagline.
 
 If I told you that over the course of last year I have read Hartshorne's graduate math textbook "[Algebraic Geometry](https://en.wikipedia.org/wiki/Algebraic_Geometry_(book))" and did all the exercises in it, you would probably assume I have learned some mathematics.
 

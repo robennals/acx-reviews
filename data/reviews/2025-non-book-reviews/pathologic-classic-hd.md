@@ -17,6 +17,7 @@ tags:
 ---
 
 >   _Changeling: I know. The entire burden of the Earth is weighing you down…_
+>
 
 That’s how it feels to think about writing a thorough Pathologic review. Hundreds of hours of engaging with the work, hundreds of thousands of words read, ten pages of relevant quotes selected and I still don’t know where to even begin. To make sense of Pathologic is to make sense of life itself – how do you even approach a task like that? It’s a work that’s _trying_ to be about the entire history of humanity and it largely succeeds. No matter how long you’ve been thinking about it you will notice new and more nuanced themes and every time you are going to be tempted to call them ‘the main theme’ because they all feel equally fundamental and all-encompassing. Every minor character's story feels like a profound commentary on the human condition and…
 

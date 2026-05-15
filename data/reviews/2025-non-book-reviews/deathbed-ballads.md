@@ -164,7 +164,7 @@ The meter of the song follows a similar Ballad Form structure to _Shades_, but i
 Notably, the chord progression of _Laredo_ is almost identical to that of _Shades_, once you adjust for transposition of keys.
 
 About half of the earliest versions in the Roud Index seem to contain some variation of the framing story of the chance meeting. The other half starts cold with what in Cash’s and Robbins’s versions is the third verse, beginning “It was once in the saddle, I used to go dashing” or something very much like it. The first Roud Index record with a framing story (the second record of the song archetype overall) is from 1929 and begins identically with “As I walked out on the streets of Laredo”, but there are also several other versions from the 1930s which set the framing story in other locations, most often “Tom Sherman’s barroom”, “Lathian’s barroom”, or minor variants thereof. By the mid-20th century, the version with the Laredo framing story appears to have been very firmly established.  
-
+  
 Marty Robbins’s version (1960, five years prior to Cash’s) has fewer verses, omitting the instructions to inform the Cowboy’s mother and the “Six jolly cowboys” verse of the funeral instructions, while the “play the drum slowly” verse is used as a chorus rather than as a reprised verse. The verse describing the Cowboy’s death is similar, but has the notable difference that it occurs as the narrator is fetching him a glass of water, not at dusk with the narrator present.
 
 The oldest version I can find in full is a recording by Dick Devall, released in a CD compilation published in 1996 [3] of African American music of the 1920s and 1930s, apparently recorded in 1929 [4]. I couldn’t find this recording in the Roud Index, although I did find a different recording by Devall there dated 1946. Devall’s rendition takes place in “Tom Sherman’s barroom” rather than Laredo, and largely follows the same structure as Robbins’s later rendition with the “play the drum slowly” verse as chorus. The verse about bearing news to the Cowboy’s mother, present in Cash’s version and absent in Robbins’s, is also present here in recognizable but modified form. The most significant change is saying “Don’t forget a word that I’ve told you” where Cash’s Cowboy said “But please not one word of the man who had killed me.” Devall uses a very loosely related melody for the song, which unlike that used by Cash or Robbins is syncopated in a similar pattern to the one Silverstein uses in _Shades_.
@@ -270,8 +270,8 @@ In the 1920s, a cluster of related Blues songs started showing up in the reperto
 
 ![](https://acximages.ennals.org/images/2025-non-book-reviews/63c1fab263898f85.png)![](https://acximages.ennals.org/images/2025-non-book-reviews/7c971217600b04a0.png)![](https://acximages.ennals.org/images/2025-non-book-reviews/91e338944762a634.png)![](https://acximages.ennals.org/images/2025-non-book-reviews/c70f3c94ce564ca1.png)![](https://acximages.ennals.org/images/2025-non-book-reviews/b104a56ee140e793.png)
 
-_Top Row: Phil Baxter, Louis Armstrong, Cab Calloway  
-Bottom Row: Arlo Gunthrie, Hugh Laurie_
+> _Top Row: Phil Baxter, Louis Armstrong, Cab Calloway_
+> _Bottom Row: Arlo Gunthrie, Hugh Laurie_
 
 The original Baxter/Moore version used something close to a “talking blues” vocal style, accompanied by a tune that as far as I know is original. Louis Armstrong’s performance set the song instead to a different tune, extremely similar to an instrumental jazz piece recorded in 1924 by The California Ramblers, under the title _Charleston Cabin_ [3]. Calloway, Guthrie, Laurie, and every other recording I’ve heard has used minor variants of the Armstrong tune.
 
@@ -315,8 +315,8 @@ Laurie performs nearly identical lyrics to Armstrong’s version. Gunthrie’s i
 > It was down by old Joe's barroom  
 > On the corner of the square  
 > The drinks were served as usual  
-> And the usual crowd was there  
->   
+> And the usual crowd was there
+>
 > On my left stood Big Joe McKennedy  
 > And his eyes were bloodshot red  
 > And as he looked at the gang around him  
@@ -466,8 +466,8 @@ The third verse contrasts the landscape in which McBride died, a horrifying land
 
 ![](https://acximages.ennals.org/images/2025-non-book-reviews/7fd1ad2d8419ff97.png)![](https://acximages.ennals.org/images/2025-non-book-reviews/ece6958756a3bf6f.png)
 
-> _Left: Part of the Somme battlefield (Deville Wood) in July 1916  
-> Right: The Rancourt (British) Military Cemetery, one of many graveyards and memorials on the Somme battlefield._
+> _Left: Part of the Somme battlefield (Deville Wood) in July 1916_  
+> _Right: The Rancourt (British) Military Cemetery, one of many graveyards and memorials on the Somme battlefield._
 
 In the final verse, the narrator wonders what McBride thought about the reasons for the fighting, if he and his fellows “knew why they died”, if they believed in “the cause”, if they believed that the war would end wars. The narrator sadly informs them that the last hope in particular was soundly disproven by history, that
 
@@ -537,10 +537,10 @@ The narrator then tells us how Sam seduced the engineer of the Conch Train, Bets
 
 On the fateful day, Sam jumps naked out of the ocean, where he had been hiding, onto the train and holds up the tourists with his filet knife. Things do not go well for our hero [4], as near the back of the train rides Kelso Bolls, whom the narrator describes as “A redneck of respect and a marksman of renown”, who draws a concealed pistol and shoots Sam three times. The narrator spends two full verses describing Bolls and his one-sided shootout with Sam, explicitly comparing them to two classic Western movie stars:
 
-![](https://acximages.ennals.org/images/2025-non-book-reviews/16bbabcc334a92a0.png)![](https://acximages.ennals.org/images/2025-non-book-reviews/31e6c13338695565.png)_…and the third time that he shot poor Sam,  
-You could see in both their eyes  
-Lash LaRue [Left] and Randolph Scott [Right]  
-Beneath the Western skies._ [5]
+![](https://acximages.ennals.org/images/2025-non-book-reviews/16bbabcc334a92a0.png)![](https://acximages.ennals.org/images/2025-non-book-reviews/31e6c13338695565.png)_…and the third time that he shot poor Sam,_  
+> _You could see in both their eyes_
+> _Lash LaRue [Left] and Randolph Scott [Right]_
+_Beneath the Western skies._ [5]
 
 The closing verses are what at long last converge towards the deathbed ballad format, as a group that includes the narrator, Betsy, and Kelso carry Sam back to the nearby beach and listen to his dying words. Sam bears remarkably little ill will towards his killer, saying only that he “botched the job” and asking “But how can a boy be Jesse James / Without a train to rob?”
 
