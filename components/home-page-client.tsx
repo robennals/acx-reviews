@@ -150,11 +150,12 @@ export function HomePageClient({ reviews, contests, tags }: HomePageClientProps)
     setStatusFilter(f.status);
     setSortOrder(f.sort);
     setCurrentPage(f.page);
-    // Scroll to the filters when the URL drove this sync — both on
-    // first-mount-with-query (cross-page nav from a link like the banner's
-    // contest title) and on subsequent same-page nav. Skip when there are
-    // no query params (the bare home page should land at the hero).
-    if (incoming.length > 0) {
+    // Only scroll when the URL changes within an already-mounted page
+    // (e.g. clicking the banner contest-title link while already on the
+    // archive). On a fresh mount — including cross-page navigation that
+    // lands here with query params — keep the scroll position so the user
+    // can read the hero before scrolling down themselves.
+    if (!isFirstSync.current) {
       filtersRef.current?.scrollIntoView({ behavior: 'smooth', block: 'start' });
     }
     isFirstSync.current = false;
