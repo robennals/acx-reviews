@@ -52,10 +52,10 @@ test('merges two users with equivalent emails, repointing all child rows', async
     providerAccountId: 'google-sub-1',
   });
   await db.insert(votes).values([
-    { userId: 'survivor', contestId: 'c1', reviewId: 'r-shared', rank: 1 },
-    { userId: 'survivor', contestId: 'c1', reviewId: 'r-survivor-only', rank: 2 },
-    { userId: 'victim', contestId: 'c1', reviewId: 'r-shared', rank: 1 }, // dupe: survivor's wins
-    { userId: 'victim', contestId: 'c1', reviewId: 'r-victim-only', rank: 3 },
+    { userId: 'survivor', contestId: 'c1', reviewId: 'r-shared', rating: 1, updatedAt: new Date() },
+    { userId: 'survivor', contestId: 'c1', reviewId: 'r-survivor-only', rating: 2, updatedAt: new Date() },
+    { userId: 'victim', contestId: 'c1', reviewId: 'r-shared', rating: 1, updatedAt: new Date() }, // dupe: survivor's wins
+    { userId: 'victim', contestId: 'c1', reviewId: 'r-victim-only', rating: 3, updatedAt: new Date() },
   ]);
   await db.insert(favorites).values([
     { userId: 'survivor', reviewId: 'fav-a' },
@@ -138,9 +138,9 @@ test('merges 3+ users into one (case + dot variants)', async () => {
     { id: 'u3', email: 'r.o.b.e.n.n.a.l.s@gmail.com' },
   ]);
   await db.insert(votes).values([
-    { userId: 'u1', contestId: 'c1', reviewId: 'r1', rank: 1 },
-    { userId: 'u2', contestId: 'c1', reviewId: 'r2', rank: 2 },
-    { userId: 'u3', contestId: 'c1', reviewId: 'r3', rank: 3 },
+    { userId: 'u1', contestId: 'c1', reviewId: 'r1', rating: 1, updatedAt: new Date() },
+    { userId: 'u2', contestId: 'c1', reviewId: 'r2', rating: 2, updatedAt: new Date() },
+    { userId: 'u3', contestId: 'c1', reviewId: 'r3', rating: 3, updatedAt: new Date() },
   ]);
 
   const r = await normalizeUserEmails(db);

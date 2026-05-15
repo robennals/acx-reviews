@@ -2,20 +2,20 @@
 
 import { useState, useMemo, useCallback, useRef, useEffect } from 'react';
 import Link from 'next/link';
-import { useRouter } from 'next/navigation';
+import { useRouter, useSearchParams } from 'next/navigation';
 import { Review, Contest } from '@/lib/types';
 import { useSession } from 'next-auth/react';
 import { useReadingProgressContext } from '@/context/reading-progress-context';
 import { useFavoritesContext } from '@/context/favorites-context';
 import { useVotesContext } from '@/context/votes-context';
 import { markAsRead, markAsUnread } from '@/lib/reading-progress';
-import { VoteButton } from '@/components/vote-button';
+import { RatingChip } from '@/components/rating-chip';
 
-type StatusFilter = 'all' | 'unread' | 'read' | 'in-progress' | 'favorites' | 'voted';
-type SortOrder = 'random' | 'alpha';
+type StatusFilter = 'all' | 'unread' | 'read' | 'in-progress' | 'favorites' | 'voted' | 'not-voted';
+type SortOrder = 'random' | 'alpha' | 'my-rating';
 
-const VALID_STATUS: StatusFilter[] = ['all', 'unread', 'read', 'in-progress', 'favorites', 'voted'];
-const VALID_SORT: SortOrder[] = ['random', 'alpha'];
+const VALID_STATUS: StatusFilter[] = ['all', 'unread', 'read', 'in-progress', 'favorites', 'voted', 'not-voted'];
+const VALID_SORT: SortOrder[] = ['random', 'alpha', 'my-rating'];
 const RANDOM_SEED_KEY = 'acx-reviews:random-seed';
 
 // FNV-1a 32-bit. Used to deterministically order reviews by hash(reviewId + seed)
@@ -42,7 +42,7 @@ function alphaSortKey(title: string): string {
 }
 
 interface FilterState {
-  contestId: string | null;
+  year: number | null;
   tag: string | null;
   query: string;
   status: StatusFilter;
@@ -58,9 +58,11 @@ function parseUrlFilters(search: string): FilterState {
   const sort = (VALID_SORT as string[]).includes(rawSort ?? '') ? (rawSort as SortOrder) : 'random';
   const rawPage = Number(params.get('page'));
   const page = Number.isFinite(rawPage) && rawPage > 0 ? rawPage : 1;
+  const rawYear = Number(params.get('year'));
+  const year = Number.isFinite(rawYear) && rawYear > 0 ? rawYear : null;
   return {
-    contestId: params.get('contest'),
-    tag: params.get('tag'),
+    year,
+    tag: params.get('topic'),
     query: params.get('q') ?? '',
     status,
     sort,
@@ -68,16 +70,24 @@ function parseUrlFilters(search: string): FilterState {
   };
 }
 
-function buildFilterUrl(next: FilterState): string {
+function buildFilterQueryString(state: FilterState): string {
   const params = new URLSearchParams();
-  if (next.contestId) params.set('contest', next.contestId);
-  if (next.tag) params.set('tag', next.tag);
-  if (next.query) params.set('q', next.query);
-  if (next.status !== 'all') params.set('status', next.status);
-  if (next.sort !== 'random') params.set('sort', next.sort);
-  if (next.page > 1) params.set('page', String(next.page));
-  const qs = params.toString();
+  if (state.year !== null) params.set('year', String(state.year));
+  if (state.tag) params.set('topic', state.tag);
+  if (state.query) params.set('q', state.query);
+  if (state.status !== 'all') params.set('status', state.status);
+  if (state.sort !== 'random') params.set('sort', state.sort);
+  if (state.page > 1) params.set('page', String(state.page));
+  return params.toString();
+}
+
+function buildFilterUrl(next: FilterState): string {
+  const qs = buildFilterQueryString(next);
   return qs ? `${window.location.pathname}?${qs}` : window.location.pathname;
+}
+
+function buildReviewHref(slug: string, archiveQuery: string): string {
+  return archiveQuery ? `/reviews/${slug}?${archiveQuery}` : `/reviews/${slug}`;
 }
 
 interface HomePageClientProps {
@@ -89,7 +99,7 @@ interface HomePageClientProps {
 const REVIEWS_PER_PAGE = 20;
 
 export function HomePageClient({ reviews, contests, tags }: HomePageClientProps) {
-  const [selectedContestId, setSelectedContestId] = useState<string | null>(null);
+  const [selectedYear, setSelectedYear] = useState<number | null>(null);
   const [selectedTag, setSelectedTag] = useState<string | null>(null);
   const [searchQuery, setSearchQuery] = useState('');
   const [statusFilter, setStatusFilter] = useState<StatusFilter>('all');
@@ -101,29 +111,55 @@ export function HomePageClient({ reviews, contests, tags }: HomePageClientProps)
   const [randomSeed, setRandomSeed] = useState<string>('');
   const { progressMap, refreshProgress } = useReadingProgressContext();
   const { favoritesSet, toggleFavorite } = useFavoritesContext();
-  const { rankOf, contestYear } = useVotesContext();
+  const { ratingOf, contestYear, votingStart, votingEnd } = useVotesContext();
   const { status: sessionStatus } = useSession();
-  const showVotedFilter = sessionStatus === 'authenticated' && contestYear !== null;
+  // Only show vote-related filters when voting is actually open right now —
+  // contestYear stays set after the period ends, so check the window too.
+  const now = Date.now();
+  const votingOpen =
+    contestYear !== null &&
+    (!votingStart || now >= votingStart.getTime()) &&
+    (!votingEnd || now < votingEnd.getTime());
+  const showVotedFilter = sessionStatus === 'authenticated' && votingOpen;
   const router = useRouter();
-  const reviewLookup = useMemo(
-    () => new Map(reviews.map(r => [r.id, r.title])),
-    [reviews]
+  const searchParams = useSearchParams();
+  const filtersRef = useRef<HTMLDivElement>(null);
+  const isFirstSync = useRef(true);
+  // The most recent search-string we wrote via applyChanges. Used to ignore
+  // our own `replaceState` echoes (if Next.js's `useSearchParams` ever picks
+  // them up) so in-page filter edits don't trigger the scroll-into-view.
+  const lastAppliedSearch = useRef<string | null>(null);
+
+  const years = useMemo(
+    () => Array.from(new Set(contests.map(c => c.year))).sort((a, b) => b - a),
+    [contests]
   );
 
   useEffect(() => {
-    const applyFromUrl = () => {
-      const f = parseUrlFilters(window.location.search);
-      setSelectedContestId(f.contestId);
-      setSelectedTag(f.tag);
-      setSearchQuery(f.query);
-      setStatusFilter(f.status);
-      setSortOrder(f.sort);
-      setCurrentPage(f.page);
-    };
-    applyFromUrl();
-    window.addEventListener('popstate', applyFromUrl);
-    return () => window.removeEventListener('popstate', applyFromUrl);
-  }, []);
+    const incoming = searchParams.toString();
+    if (lastAppliedSearch.current === incoming) {
+      // This effect was driven by an in-page applyChanges() that already
+      // updated React state directly; skip re-applying and skip scroll.
+      isFirstSync.current = false;
+      return;
+    }
+    const f = parseUrlFilters(incoming);
+    setSelectedYear(f.year);
+    setSelectedTag(f.tag);
+    setSearchQuery(f.query);
+    setStatusFilter(f.status);
+    setSortOrder(f.sort);
+    setCurrentPage(f.page);
+    // Only scroll when the URL changes within an already-mounted page
+    // (e.g. clicking the banner contest-title link while already on the
+    // archive). On a fresh mount — including cross-page navigation that
+    // lands here with query params — keep the scroll position so the user
+    // can read the hero before scrolling down themselves.
+    if (!isFirstSync.current) {
+      filtersRef.current?.scrollIntoView({ behavior: 'smooth', block: 'start' });
+    }
+    isFirstSync.current = false;
+  }, [searchParams]);
 
   useEffect(() => {
     let seed = localStorage.getItem(RANDOM_SEED_KEY);
@@ -136,21 +172,26 @@ export function HomePageClient({ reviews, contests, tags }: HomePageClientProps)
 
   const applyChanges = useCallback((changes: Partial<FilterState>) => {
     const next: FilterState = {
-      contestId: 'contestId' in changes ? changes.contestId! : selectedContestId,
+      year: 'year' in changes ? changes.year! : selectedYear,
       tag: 'tag' in changes ? changes.tag! : selectedTag,
       query: changes.query ?? searchQuery,
       status: changes.status ?? statusFilter,
       sort: changes.sort ?? sortOrder,
       page: changes.page ?? currentPage,
     };
-    setSelectedContestId(next.contestId);
+    setSelectedYear(next.year);
     setSelectedTag(next.tag);
     setSearchQuery(next.query);
     setStatusFilter(next.status);
     setSortOrder(next.sort);
     setCurrentPage(next.page);
-    window.history.replaceState(null, '', buildFilterUrl(next));
-  }, [selectedContestId, selectedTag, searchQuery, statusFilter, sortOrder, currentPage]);
+    const nextUrl = buildFilterUrl(next);
+    // Record the query string we're about to write so the URL-sync effect
+    // can ignore its own echo and skip the scroll-into-view.
+    const nextSearch = nextUrl.split('?')[1] ?? '';
+    lastAppliedSearch.current = nextSearch;
+    window.history.replaceState(null, '', nextUrl);
+  }, [selectedYear, selectedTag, searchQuery, statusFilter, sortOrder, currentPage]);
 
   const handleToggleRead = useCallback((reviewId: string) => {
     const progress = progressMap[reviewId];
@@ -169,8 +210,8 @@ export function HomePageClient({ reviews, contests, tags }: HomePageClientProps)
   const filteredReviews = useMemo(() => {
     let result = reviews;
 
-    if (selectedContestId) {
-      result = result.filter(r => r.contestId === selectedContestId);
+    if (selectedYear !== null) {
+      result = result.filter(r => r.year === selectedYear);
     }
 
     if (selectedTag) {
@@ -191,27 +232,53 @@ export function HomePageClient({ reviews, contests, tags }: HomePageClientProps)
     } else if (statusFilter === 'favorites') {
       result = result.filter(r => favoritesSet.has(r.id));
     } else if (statusFilter === 'voted') {
-      result = result.filter(r => rankOf(r.id) !== null);
+      result = result.filter(r => ratingOf(r.id) !== null);
+    } else if (statusFilter === 'not-voted') {
+      // Only reviews from the active contest year that the user hasn't rated.
+      result = result.filter(r => r.year === contestYear && ratingOf(r.id) === null);
     }
 
     return result;
-  }, [reviews, selectedContestId, selectedTag, searchQuery, statusFilter, progressMap, favoritesSet, rankOf]);
+  }, [reviews, selectedYear, selectedTag, searchQuery, statusFilter, progressMap, favoritesSet, ratingOf, contestYear]);
 
   const sortedReviews = useMemo(() => {
     const arr = [...filteredReviews];
     if (sortOrder === 'alpha') {
       arr.sort((a, b) => alphaSortKey(a.title).localeCompare(alphaSortKey(b.title), undefined, { sensitivity: 'base' }));
+    } else if (sortOrder === 'my-rating') {
+      // Rated reviews first (rating desc); unrated reviews after, in
+      // alphabetical order so the unrated tail is at least readable.
+      arr.sort((a, b) => {
+        const ra = ratingOf(a.id);
+        const rb = ratingOf(b.id);
+        if (ra !== null && rb !== null) return rb - ra;
+        if (ra !== null) return -1;
+        if (rb !== null) return 1;
+        return alphaSortKey(a.title).localeCompare(alphaSortKey(b.title), undefined, { sensitivity: 'base' });
+      });
     } else {
       arr.sort((a, b) => hashStringToNumber(a.id + randomSeed) - hashStringToNumber(b.id + randomSeed));
     }
     return arr;
-  }, [filteredReviews, sortOrder, randomSeed]);
+  }, [filteredReviews, sortOrder, randomSeed, ratingOf]);
+
+  const archiveQuery = useMemo(
+    () => buildFilterQueryString({
+      year: selectedYear,
+      tag: selectedTag,
+      query: searchQuery,
+      status: statusFilter,
+      sort: sortOrder,
+      page: currentPage,
+    }),
+    [selectedYear, selectedTag, searchQuery, statusFilter, sortOrder, currentPage]
+  );
 
   const handleRandom = useCallback(() => {
     if (sortedReviews.length === 0) return;
     const pick = sortedReviews[Math.floor(Math.random() * sortedReviews.length)];
-    router.push(`/reviews/${pick.slug}`);
-  }, [sortedReviews, router]);
+    router.push(buildReviewHref(pick.slug, archiveQuery));
+  }, [sortedReviews, router, archiveQuery]);
 
   const totalPages = Math.max(1, Math.ceil(sortedReviews.length / REVIEWS_PER_PAGE));
   const paginatedReviews = sortedReviews.slice(
@@ -237,11 +304,10 @@ export function HomePageClient({ reviews, contests, tags }: HomePageClientProps)
     statusFilter === 'in-progress' ? 'In-Progress' :
     statusFilter === 'favorites' ? 'Saved' :
     statusFilter === 'voted' ? 'Voted' :
+    statusFilter === 'not-voted' ? 'Not Voted' :
     '',
     selectedTag || '',
-    selectedContestId
-      ? `${contests.find(c => c.id === selectedContestId)?.year}`
-      : '',
+    selectedYear !== null ? String(selectedYear) : '',
     'Reviews',
     searchQuery ? `matching "${searchQuery}"` : '',
   ].filter(Boolean).join(' ');
@@ -264,7 +330,7 @@ export function HomePageClient({ reviews, contests, tags }: HomePageClientProps)
       </header>
 
       {/* Search and filter */}
-      <div className="mb-10 space-y-4">
+      <div ref={filtersRef} className="mb-10 space-y-4 scroll-mt-4">
         {/* Search input */}
         <div className="relative">
           <input
@@ -291,13 +357,13 @@ export function HomePageClient({ reviews, contests, tags }: HomePageClientProps)
         <div className="flex flex-wrap gap-3">
           <FilterDropdown
             label="Year"
-            value={selectedContestId ? String(contests.find(c => c.id === selectedContestId)?.year) : 'All'}
+            value={selectedYear !== null ? String(selectedYear) : 'All'}
             options={[
               { id: null, label: 'All' },
-              ...contests.map(c => ({ id: c.id, label: String(c.year) })),
+              ...years.map(y => ({ id: String(y), label: String(y) })),
             ]}
-            onSelect={(id) => applyChanges({ contestId: id, page: 1 })}
-            isFiltered={selectedContestId !== null}
+            onSelect={(id) => applyChanges({ year: id !== null ? Number(id) : null, page: 1 })}
+            isFiltered={selectedYear !== null}
           />
           {tags.length > 0 && (
             <FilterDropdown
@@ -319,6 +385,7 @@ export function HomePageClient({ reviews, contests, tags }: HomePageClientProps)
               statusFilter === 'in-progress' ? 'In Progress' :
               statusFilter === 'read' ? 'Finished' :
               statusFilter === 'voted' ? 'Voted' :
+              statusFilter === 'not-voted' ? 'Not Voted' :
               'Saved'
             }
             options={[
@@ -327,17 +394,27 @@ export function HomePageClient({ reviews, contests, tags }: HomePageClientProps)
               { id: 'in-progress', label: 'In Progress' },
               { id: 'read', label: 'Finished' },
               { id: 'favorites', label: 'Saved' },
-              ...(showVotedFilter ? [{ id: 'voted', label: 'Voted' }] : []),
+              ...(showVotedFilter
+                ? [
+                    { id: 'voted', label: 'Voted' },
+                    { id: 'not-voted', label: 'Not Voted' },
+                  ]
+                : []),
             ]}
             onSelect={(id) => applyChanges({ status: (id || 'all') as StatusFilter, page: 1 })}
             isFiltered={statusFilter !== 'all'}
           />
           <FilterDropdown
             label="Order"
-            value={sortOrder === 'random' ? 'Random' : 'Alphabetical'}
+            value={
+              sortOrder === 'random' ? 'Random' :
+              sortOrder === 'alpha' ? 'Alphabetical' :
+              'My rating'
+            }
             options={[
               { id: 'random', label: 'Random' },
               { id: 'alpha', label: 'Alphabetical' },
+              ...(votingOpen ? [{ id: 'my-rating', label: 'My rating' }] : []),
             ]}
             onSelect={(id) => applyChanges({ sort: (id || 'random') as SortOrder, page: 1 })}
             isFiltered={sortOrder !== 'random'}
@@ -371,7 +448,7 @@ export function HomePageClient({ reviews, contests, tags }: HomePageClientProps)
                 isFavorite={favoritesSet.has(review.id)}
                 onToggleRead={handleToggleRead}
                 onToggleFavorite={handleToggleFavorite}
-                reviewLookup={reviewLookup}
+                archiveQuery={archiveQuery}
                 compact
               />
             ))}
@@ -403,7 +480,7 @@ export function HomePageClient({ reviews, contests, tags }: HomePageClientProps)
                 isFavorite={favoritesSet.has(review.id)}
                 onToggleRead={handleToggleRead}
                 onToggleFavorite={handleToggleFavorite}
-                reviewLookup={reviewLookup}
+                archiveQuery={archiveQuery}
               />
             ))}
           </div>
@@ -511,18 +588,18 @@ interface ReviewCardProps {
   isFavorite: boolean;
   onToggleRead: (reviewId: string) => void;
   onToggleFavorite: (reviewId: string) => void;
-  reviewLookup: Map<string, string>;
+  archiveQuery: string;
   compact?: boolean;
 }
 
-function ReviewCard({ review, progress, isFavorite, onToggleRead, onToggleFavorite, reviewLookup, compact }: ReviewCardProps) {
+function ReviewCard({ review, progress, isFavorite, onToggleRead, onToggleFavorite, archiveQuery, compact }: ReviewCardProps) {
   const isComplete = progress?.isComplete;
   const percentComplete = progress?.percentComplete || 0;
   const isInProgress = !isComplete && percentComplete > 0;
 
   return (
     <Link
-      href={`/reviews/${review.slug}`}
+      href={buildReviewHref(review.slug, archiveQuery)}
       className="block group no-underline"
     >
       <article className={`
@@ -545,6 +622,16 @@ function ReviewCard({ review, progress, isFavorite, onToggleRead, onToggleFavori
           `}>
             {review.title}
           </h3>
+
+          {/* Compact rating chip directly under the title; clicking opens
+              the popup with the full RatingCard. */}
+          <div className="mt-2 mb-3 flex items-center">
+            <RatingChip
+              reviewId={review.id}
+              reviewYear={review.year}
+              reviewTitle={review.title}
+            />
+          </div>
 
           {/* Book author & reviewer - only show if meaningful */}
           {(review.author !== 'Unknown' || review.reviewAuthor !== 'Anonymous') && (
@@ -613,32 +700,9 @@ function ReviewCard({ review, progress, isFavorite, onToggleRead, onToggleFavori
             >
               {isFavorite ? 'Saved' : 'Save'}
             </button>
-            <VoteSeparator>
-              <VoteButton
-                reviewId={review.id}
-                reviewTitle={review.title}
-                reviewYear={review.year}
-                reviewLookup={reviewLookup}
-              />
-            </VoteSeparator>
           </div>
         </div>
       </article>
     </Link>
-  );
-}
-
-// Renders a "·" separator only when its children render something. The
-// VoteButton self-hides when voting is closed or the year doesn't match, so
-// we suppress the leading dot in those cases.
-function VoteSeparator({ children }: { children: React.ReactNode }) {
-  const node = children as React.ReactElement<{ reviewYear: number }>;
-  const { contestYear } = useVotesContext();
-  if (contestYear === null || contestYear !== node.props.reviewYear) return null;
-  return (
-    <>
-      <span>&middot;</span>
-      {children}
-    </>
   );
 }

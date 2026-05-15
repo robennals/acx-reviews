@@ -5,8 +5,8 @@ import { isAdminEmail } from '@/lib/admin';
 import { db } from '@/lib/db/client';
 import { getAllContests, getReviewsByContest } from '@/lib/reviews';
 import { getVotingConfig } from '@/lib/voting-period';
-import { getPaginatedBallots, ADMIN_PAGE_SIZE } from '@/lib/api/admin-logic';
-import { COUNTING_ZONE_SIZE } from '@/lib/voting/ballot';
+import { getPaginatedRatings, ADMIN_PAGE_SIZE } from '@/lib/api/admin-logic';
+import { tierOf, LIKERT_LABELS } from '@/lib/voting/likert';
 
 interface PageProps {
   searchParams: Promise<{ contest?: string; page?: string }>;
@@ -36,7 +36,7 @@ export default async function AdminPage({ searchParams }: PageProps) {
   if (!selectedContest) {
     return (
       <div className="max-w-4xl mx-auto px-6 py-12">
-        <h1 className="font-serif text-3xl">Admin · Ballots</h1>
+        <h1 className="font-serif text-3xl">Admin · Ratings</h1>
         <p className="text-muted-foreground mt-2">No contests found.</p>
       </div>
     );
@@ -44,15 +44,13 @@ export default async function AdminPage({ searchParams }: PageProps) {
 
   const page = Math.max(1, Number(pageParam ?? '1') | 0);
   const reviews = await getReviewsByContest(selectedContest.id);
-  const reviewLookup = new Map(
-    reviews.map((r) => [r.id, { title: r.title, slug: r.slug }])
-  );
+  const reviewLookup = new Map(reviews.map((r) => [r.id, { title: r.title, slug: r.slug }]));
 
   let pageData;
   try {
-    pageData = await getPaginatedBallots(db, { contestId: selectedContest.id, page });
+    pageData = await getPaginatedRatings(db, { contestId: selectedContest.id, page });
   } catch (err) {
-    console.error('[admin] getPaginatedBallots failed:', err);
+    console.error('[admin] getPaginatedRatings failed:', err);
     pageData = { voters: [], totalVoters: 0, page, pageSize: ADMIN_PAGE_SIZE };
   }
   const totalPages = Math.max(1, Math.ceil(pageData.totalVoters / pageData.pageSize));
@@ -60,9 +58,9 @@ export default async function AdminPage({ searchParams }: PageProps) {
   return (
     <div className="max-w-7xl mx-auto px-6 sm:px-8 py-12">
       <header className="mb-6 pb-6 border-b border-border">
-        <h1 className="text-3xl font-serif font-semibold mb-2">Admin · Ranked ballots</h1>
+        <h1 className="text-3xl font-serif font-semibold mb-2">Admin · Ratings</h1>
         <p className="text-sm text-muted-foreground">
-          Visible only to admins. Most-recent ballot activity first.
+          Visible only to admins. Most-recent rating activity first.
         </p>
       </header>
 
@@ -91,63 +89,46 @@ export default async function AdminPage({ searchParams }: PageProps) {
       </div>
 
       <div className="mb-4 text-sm text-muted-foreground">
-        {pageData.totalVoters.toLocaleString()} voters &middot; page {pageData.page} of {totalPages}
+        {pageData.totalVoters.toLocaleString()} voters · page {pageData.page} of {totalPages}
       </div>
 
-      <div className="border border-border rounded-lg overflow-x-auto">
-        <table className="w-full text-sm border-collapse">
-          <thead>
-            <tr className="bg-muted/40 text-xs text-muted-foreground uppercase tracking-wider">
-              <th className="sticky left-0 bg-muted/40 px-3 py-2 text-left min-w-[200px] z-[1] border-b border-border border-r">
-                Voter
-              </th>
-              {Array.from({ length: COUNTING_ZONE_SIZE }, (_, i) => (
-                <th key={i} className="px-3 py-2 text-left min-w-[160px] border-b border-border">
-                  #{i + 1}
-                </th>
-              ))}
-            </tr>
-          </thead>
-          <tbody>
-            {pageData.voters.map((v) => {
-              const byRank = new Map(v.ballot.map((b) => [b.rank, b.reviewId]));
-              return (
-                <tr key={v.userId} className="border-b border-border last:border-b-0 hover:bg-muted/20">
-                  <td className="sticky left-0 bg-background px-3 py-2 border-r border-border">
-                    {v.email}
-                  </td>
-                  {Array.from({ length: COUNTING_ZONE_SIZE }, (_, i) => {
-                    const reviewId = byRank.get(i + 1);
-                    const meta = reviewId ? reviewLookup.get(reviewId) : undefined;
-                    if (!reviewId || !meta) {
-                      return (
-                        <td key={i} className="px-3 py-2 text-muted-foreground">—</td>
-                      );
-                    }
-                    return (
-                      <td key={i} className="px-3 py-2">
-                        <Link
-                          href={`/reviews/${meta.slug}`}
-                          title={meta.title}
-                          className="hover:underline"
-                        >
-                          {clip(meta.title, TITLE_CLIP)}
-                        </Link>
-                      </td>
-                    );
-                  })}
-                </tr>
-              );
-            })}
-            {pageData.voters.length === 0 && (
-              <tr>
-                <td colSpan={COUNTING_ZONE_SIZE + 1} className="px-3 py-6 text-center text-muted-foreground">
-                  No ballots for this contest.
-                </td>
-              </tr>
-            )}
-          </tbody>
-        </table>
+      <div className="border border-border rounded-lg overflow-hidden">
+        <div className="bg-muted/40 px-4 py-2 text-xs text-muted-foreground uppercase tracking-wider flex gap-3">
+          <span className="min-w-[200px]">Voter</span>
+          <span>Ratings, high → low</span>
+        </div>
+        {pageData.voters.map((v) => (
+          <div
+            key={v.userId}
+            className="px-4 py-3 border-t border-border flex flex-wrap items-center gap-3 hover:bg-muted/20"
+          >
+            <span className="min-w-[200px] text-sm font-semibold">{v.email}</span>
+            <div className="flex-1 min-w-0 flex flex-wrap gap-1.5">
+              {v.ratings.map((r) => {
+                const meta = reviewLookup.get(r.reviewId);
+                const title = meta?.title ?? r.reviewId;
+                return (
+                  <span
+                    key={r.reviewId}
+                    title={`${title} — ${LIKERT_LABELS[r.rating]}`}
+                    className={chipClass(r.rating)}
+                  >
+                    <span className={badgeClass(r.rating)}>{r.rating}</span>
+                    <span className="truncate max-w-[140px]">{clip(title, TITLE_CLIP)}</span>
+                  </span>
+                );
+              })}
+            </div>
+            <span className="text-xs text-muted-foreground uppercase tracking-wide">
+              {v.ratings.length} rating{v.ratings.length === 1 ? '' : 's'}
+            </span>
+          </div>
+        ))}
+        {pageData.voters.length === 0 && (
+          <div className="px-4 py-6 text-center text-muted-foreground">
+            No ratings for this contest.
+          </div>
+        )}
       </div>
 
       {totalPages > 1 && (
@@ -175,4 +156,22 @@ export default async function AdminPage({ searchParams }: PageProps) {
       )}
     </div>
   );
+}
+
+function chipClass(rating: number): string {
+  const t = tierOf(rating);
+  const base =
+    'inline-flex items-center gap-1.5 px-2 py-0.5 rounded-full text-xs border';
+  if (t === 'high') return `${base} bg-amber-50 border-amber-300 text-amber-900`;
+  if (t === 'mid') return `${base} bg-card border-border text-foreground`;
+  return `${base} bg-card border-border text-muted-foreground`;
+}
+
+function badgeClass(rating: number): string {
+  const t = tierOf(rating);
+  const base =
+    'inline-flex items-center justify-center w-5 h-5 rounded-full font-extrabold text-[10px]';
+  if (t === 'high') return `${base} bg-amber-500 text-black`;
+  if (t === 'mid') return `${base} bg-amber-200 text-amber-900`;
+  return `${base} bg-muted text-foreground`;
 }

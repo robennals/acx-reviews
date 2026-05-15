@@ -7,10 +7,15 @@ const TEST_DB_URL = pathToFileURL(TEST_DB_PATH).toString();
 
 export default defineConfig({
   testDir: './tests',
-  fullyParallel: true,
+  // Tests run against a Turbopack dev server (next dev --turbopack). The dev
+  // server is not parallel-safe under heavy load — it intermittently 500s
+  // with ENOENT on .next/server/app-paths-manifest.json when several
+  // workers compile different routes simultaneously. Run a single worker
+  // so the server only ever serves one client at a time.
+  fullyParallel: false,
   forbidOnly: !!process.env.CI,
   retries: process.env.CI ? 2 : 0,
-  workers: process.env.CI ? 1 : undefined,
+  workers: 1,
   reporter: 'html',
   use: {
     baseURL: 'http://localhost:3011',

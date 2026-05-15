@@ -1,169 +1,152 @@
 'use client';
 
-import { useState } from 'react';
+import { useMemo, useState } from 'react';
 import Link from 'next/link';
-import {
-  DndContext,
-  closestCenter,
-  KeyboardSensor,
-  PointerSensor,
-  TouchSensor,
-  useSensor,
-  useSensors,
-  type DragEndEvent,
-} from '@dnd-kit/core';
-import {
-  SortableContext,
-  useSortable,
-  arrayMove,
-  sortableKeyboardCoordinates,
-  verticalListSortingStrategy,
-} from '@dnd-kit/sortable';
-import { CSS } from '@dnd-kit/utilities';
-import { COUNTING_ZONE_SIZE } from '@/lib/voting/ballot';
 import { useVotesContext } from '@/context/votes-context';
+import { LIKERT_LABELS } from '@/lib/voting/likert';
+import { RatingChip } from '@/components/rating-chip';
+
+type Sort = 'rating' | 'recent' | 'alpha';
 
 interface Props {
-  contestId: string;
   reviewLookup: Record<string, { title: string; slug: string }>;
+  activeContestYear: number;
 }
 
-export function MyVotesClient({ reviewLookup }: Props) {
-  const { ballot, setBallot } = useVotesContext();
-  const order = ballot;
-  const [busy, setBusy] = useState(false);
+export function MyVotesClient({ reviewLookup, activeContestYear }: Props) {
+  const { ratings } = useVotesContext();
+  const [sort, setSort] = useState<Sort>('rating');
 
-  const sensors = useSensors(
-    useSensor(PointerSensor, { activationConstraint: { distance: 6 } }),
-    useSensor(TouchSensor, { activationConstraint: { delay: 200, tolerance: 5 } }),
-    useSensor(KeyboardSensor, { coordinateGetter: sortableKeyboardCoordinates })
-  );
+  const entries = useMemo(() => {
+    const list = Object.entries(ratings).map(([reviewId, r]) => ({
+      reviewId,
+      rating: r.rating,
+      updatedAt: r.updatedAt,
+      title: reviewLookup[reviewId]?.title ?? reviewId,
+      slug: reviewLookup[reviewId]?.slug ?? null,
+    }));
+    if (sort === 'rating') {
+      list.sort((a, b) => {
+        if (b.rating !== a.rating) return b.rating - a.rating;
+        if (b.updatedAt !== a.updatedAt) return b.updatedAt - a.updatedAt;
+        return a.title.localeCompare(b.title, undefined, { sensitivity: 'base' });
+      });
+    } else if (sort === 'recent') {
+      list.sort((a, b) => b.updatedAt - a.updatedAt);
+    } else {
+      list.sort((a, b) =>
+        a.title.localeCompare(b.title, undefined, { sensitivity: 'base' })
+      );
+    }
+    return list;
+  }, [ratings, reviewLookup, sort]);
 
-  const handleDragEnd = async (e: DragEndEvent) => {
-    const { active, over } = e;
-    if (!over || active.id === over.id) return;
-    const oldIdx = order.indexOf(String(active.id));
-    const newIdx = order.indexOf(String(over.id));
-    const next = arrayMove(order, oldIdx, newIdx);
-    setBusy(true);
-    await setBallot(next);
-    setBusy(false);
-  };
-
-  const handleRemove = async (id: string) => {
-    setBusy(true);
-    await setBallot(order.filter((x) => x !== id));
-    setBusy(false);
-  };
-
-  if (order.length === 0) {
+  if (entries.length === 0) {
     return (
       <div className="border border-border rounded-lg p-8 text-center text-muted-foreground">
-        You haven’t ranked anything yet.{' '}
-        <Link href="/" className="text-link underline">Browse reviews</Link>
-        {' '}and click Vote on one to start.
+        You haven&rsquo;t rated anything yet.{' '}
+        <Link href="/" className="text-link underline">Browse reviews</Link>{' '}
+        and tap a star on one to start.
       </div>
     );
   }
 
-  const counting = order.slice(0, COUNTING_ZONE_SIZE);
-  const belowCap = order.slice(COUNTING_ZONE_SIZE);
-
   return (
-    <div className={busy ? 'opacity-70 pointer-events-none' : ''}>
-      <DndContext sensors={sensors} collisionDetection={closestCenter} onDragEnd={handleDragEnd}>
-        <SortableContext items={order} strategy={verticalListSortingStrategy}>
-          <div className="border border-border rounded-lg overflow-hidden">
-            {counting.map((id, i) => (
-              <SortableRow
-                key={id}
-                id={id}
-                rank={i + 1}
-                title={reviewLookup[id]?.title ?? id}
-                slug={reviewLookup[id]?.slug}
-                onRemove={() => handleRemove(id)}
-              />
-            ))}
-            {belowCap.length > 0 && (
-              <div className="px-4 py-2 bg-muted/30 text-[10px] uppercase tracking-wide text-muted-foreground border-y border-border">
-                Below this line: won’t count toward voting
+    <>
+      <div className="mb-4 flex flex-wrap gap-2 items-center">
+        <span className="text-[10px] uppercase tracking-wide text-muted-foreground">
+          Sort:
+        </span>
+        <SortChip
+          label="Rating &darr;"
+          active={sort === 'rating'}
+          onClick={() => setSort('rating')}
+        />
+        <SortChip
+          label="Recently rated"
+          active={sort === 'recent'}
+          onClick={() => setSort('recent')}
+        />
+        <SortChip
+          label="A &rarr; Z"
+          active={sort === 'alpha'}
+          onClick={() => setSort('alpha')}
+        />
+      </div>
+
+      <div className="border border-border rounded-lg overflow-hidden">
+        {entries.map((e) => (
+          <div
+            key={e.reviewId}
+            className="flex items-center gap-3 px-4 py-3 border-b border-border last:border-b-0"
+          >
+            <div className="flex-1 min-w-0">
+              {e.slug ? (
+                <Link
+                  href={`/reviews/${e.slug}`}
+                  className="text-sm font-semibold hover:underline truncate inline-block max-w-full align-bottom"
+                >
+                  {e.title}
+                </Link>
+              ) : (
+                <span className="text-sm font-semibold truncate inline-block max-w-full align-bottom">
+                  {e.title}
+                </span>
+              )}
+              <div className="text-xs text-muted-foreground">
+                {e.rating} &mdash; {LIKERT_LABELS[e.rating]} &middot; rated {relativeTime(e.updatedAt)}
               </div>
-            )}
-            {belowCap.map((id, i) => (
-              <SortableRow
-                key={id}
-                id={id}
-                rank={COUNTING_ZONE_SIZE + i + 1}
-                title={reviewLookup[id]?.title ?? id}
-                slug={reviewLookup[id]?.slug}
-                onRemove={() => handleRemove(id)}
-                muted
+            </div>
+            <div className="shrink-0 ml-auto">
+              <RatingChip
+                reviewId={e.reviewId}
+                reviewYear={activeContestYear}
+                reviewTitle={e.title}
               />
-            ))}
+            </div>
           </div>
-        </SortableContext>
-      </DndContext>
-    </div>
+        ))}
+      </div>
+    </>
   );
 }
 
-function SortableRow({
-  id,
-  rank,
-  title,
-  slug,
-  onRemove,
-  muted,
+function SortChip({
+  label,
+  active,
+  onClick,
 }: {
-  id: string;
-  rank: number;
-  title: string;
-  slug?: string;
-  onRemove: () => void;
-  muted?: boolean;
+  label: string;
+  active: boolean;
+  onClick: () => void;
 }) {
-  const { attributes, listeners, setNodeRef, transform, transition, isDragging } =
-    useSortable({ id });
-
-  const style = {
-    transform: CSS.Transform.toString(transform),
-    transition,
-    opacity: muted ? 0.55 : isDragging ? 0.5 : 1,
-  };
-
   return (
-    <div
-      ref={setNodeRef}
-      style={style}
-      className="flex items-center gap-3 px-4 py-3 border-b border-border last:border-b-0 bg-background"
-    >
-      <button
-        type="button"
-        className="text-muted-foreground text-lg cursor-grab touch-none"
-        aria-label="Drag to reorder"
-        {...attributes}
-        {...listeners}
-      >
-        ☰
-      </button>
-      <span className="bg-muted text-foreground rounded-full w-7 h-7 inline-flex items-center justify-center font-bold text-xs shrink-0">
-        {rank}
-      </span>
-      {slug ? (
-        <Link href={`/reviews/${slug}`} className="flex-1 text-sm hover:underline">
-          {title}
-        </Link>
-      ) : (
-        <span className="flex-1 text-sm">{title}</span>
-      )}
-      <button
-        type="button"
-        onClick={onRemove}
-        className="text-muted-foreground text-xl leading-none px-2 py-1 hover:text-red-600"
-        aria-label={`Remove ${title}`}
-      >
-        ×
-      </button>
-    </div>
+    <button
+      type="button"
+      onClick={onClick}
+      // eslint-disable-next-line react/no-danger -- label is a small static
+      // string with HTML entities (&darr; / &rarr;) for the sort affordance.
+      dangerouslySetInnerHTML={{ __html: label }}
+      className={`px-3 py-1 rounded-full text-xs font-medium ${
+        active
+          ? 'bg-foreground text-background'
+          : 'bg-muted text-muted-foreground hover:bg-muted/80'
+      }`}
+    />
   );
+}
+
+function relativeTime(ms: number): string {
+  const diff = Date.now() - ms;
+  const m = Math.round(diff / 60_000);
+  if (m < 1) return 'just now';
+  if (m < 60) return `${m} min ago`;
+  const h = Math.round(m / 60);
+  if (h < 24) return `${h} hr ago`;
+  const d = Math.round(h / 24);
+  if (d < 30) return `${d} day${d === 1 ? '' : 's'} ago`;
+  const mo = Math.round(d / 30);
+  if (mo < 12) return `${mo} month${mo === 1 ? '' : 's'} ago`;
+  const y = Math.round(mo / 12);
+  return `${y} year${y === 1 ? '' : 's'} ago`;
 }

@@ -62,7 +62,7 @@ export default async function RootLayout({
     contestId: null,
     votingStart: null,
     votingEnd: null,
-    ballot: [],
+    ratings: {},
   };
   try {
     session = await auth();
