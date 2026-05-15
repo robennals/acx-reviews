@@ -738,6 +738,155 @@ test('convertGDocToMarkdown does NOT split a poetry-style paragraph that mixes p
   assert.equal(sep, 0, `mixed-br paragraph should not be split; got: ${md}`);
 });
 
+test('cleanupMarkdown does NOT dedent 4-space-indented `#`-prefixed lines (Python code comments)', () => {
+  // Real example from "Python Data Science Handbook": the reviewer's
+  // gdoc has Python code as a run of `<p>` paragraphs with `&nbsp;`-
+  // indented inline-comment lines. After nbsp→space normalization,
+  // those comments look like `    # get wins for this series of bets`.
+  // If we dedent the leading spaces, the H1 splitter sees `# get wins...`
+  // at column 0 and creates a spurious new review with that "title",
+  // truncating the parent review's body.
+  const input = [
+    'for cur_round in range(1, NUM_ROUNDS+1):',
+    '',
+    '    # get wins for this series of bets',
+    '',
+    '    wins = (np.random.randint(0, 100, size=NUM_BETS) < WIN_PERCENT).astype(int)',
+  ].join('\n');
+
+  const out = cleanupMarkdown(input);
+
+  // The `#` comment must keep its 4-space indent (so the H1 splitter
+  // does not see it as a new review boundary).
+  assert.ok(out.includes('    # get wins for this series of bets'),
+    `indented code-comment with # must stay indented; got: ${out}`);
+  assert.ok(!/^# get wins/m.test(out),
+    `# comment must NOT be at column 0; got: ${out}`);
+});
+
+test('convertGDocToMarkdown DOES blockquote a real quote paragraph that contains a footnote-REFERENCE anchor', async () => {
+  // Real example from "The Red and the Black" (2021): the reviewer has
+  // a book quote ending with a footnote reference like
+  // \`...French people. <a id="ftnt_ref25" href="#ftnt25">[25]</a>\`.
+  // The reference-anchor (\`id="ftnt_refN"\`) must NOT trigger the
+  // footnote-def skip — that's reserved for the destination anchor
+  // (\`id="ftntN"\`).
+  const html = `<html><head><style>.c0{margin-left:36pt}</style></head><body>` +
+    `<p><span>Body paragraph for context.</span></p>` +
+    `<p class="c0"><span>‘The French, Napoleon remarked, ‘are indifferent to liberty.’ </span><a id="ftnt_ref25" href="#ftnt25"><span>[25]</span></a></p>` +
+    `</body></html>`;
+
+  const { convertGDocToMarkdown } = await import('./gdoc-html.ts');
+  const out = convertGDocToMarkdown(html);
+
+  // The book quote (a body paragraph linking TO a footnote) must be in
+  // a blockquote — the ftnt_ref anchor is a reference, not a definition.
+  assert.ok(/^> ‘The French/m.test(out),
+    `body paragraph with ftnt_ref link must be blockquoted; got: ${out}`);
+});
+
+test('convertGDocToMarkdown does NOT blockquote footnote-definition paragraphs even when they have a blockquote-eligible indent class', async () => {
+  // Real example from "Win Bigly" (2024): the gdoc author's hand-formatted
+  // footnotes at the end of the review use the same text-indent:36pt class
+  // (c119) the pipeline treats as a blockquote signal on short paragraphs.
+  // Footnotes shouldn't render as blockquotes — they're reviewer commentary,
+  // not external quotations. Detect them via the \`<a id="ftntN">\` anchor
+  // that gdoc footnote-definition paragraphs always carry.
+  const html = `<html><head><style>.c0{text-indent:36pt}</style></head><body>` +
+    `<p><span>Body paragraph with substantive content for context.</span></p>` +
+    `<p class="c0"><a id="ftnt73">[73]</a><span> A short footnote about French philosophy.</span></p>` +
+    `<p class="c0"><a id="ftnt74">[74]</a><span> Another short footnote about Brahmin society.</span></p>` +
+    `<p class="c0"><a id="ftnt75">[75]</a><span> Joke; embittered by economics.</span></p>` +
+    `</body></html>`;
+
+  const { convertGDocToMarkdown } = await import('./gdoc-html.ts');
+  const out = convertGDocToMarkdown(html);
+
+  // None of the footnote-definition paragraphs should be blockquoted.
+  assert.ok(!/^> \[\[73\]\]/m.test(out),
+    `footnote [73] must NOT be blockquoted; got: ${out}`);
+  assert.ok(!/^> \[\[74\]\]/m.test(out),
+    `footnote [74] must NOT be blockquoted; got: ${out}`);
+});
+
+test('convertGDocToMarkdown blockquotes a text-indent paragraph ONLY when it is also italic', async () => {
+  // Empirically across the corpus, every italic+text-indent paragraph is
+  // a quote (book excerpts, Latin sentences, novel dialogue, song lyrics,
+  // attributions). Reviewer-prose paragraphs that the older heuristic
+  // mistakenly wrapped (the-righteous-mind, at-the-existentialist-caf,
+  // bronze-age-mindset, win-bigly footnotes, etc.) are NEVER italic.
+  //
+  // So the per-paragraph rule for text-indent-only is: blockquote iff
+  // every substantive span carries an italic class.
+  const html = `<html><head><style>.c0{text-indent:36pt}.ci{font-style:italic}</style></head><body>` +
+    `<p><span>Body paragraph for context with substantive content.</span></p>` +
+    `<p class="c0"><span class="ci">He lacks the self-confidence or the energy for it.</span></p>` +
+    `<p class="c0"><span>A reviewer-prose paragraph with text-indent but NOT italic.</span></p>` +
+    `</body></html>`;
+
+  const { convertGDocToMarkdown } = await import('./gdoc-html.ts');
+  const out = convertGDocToMarkdown(html);
+
+  // Italic + text-indent → blockquote.
+  assert.ok(/^> _He lacks the self-confidence/m.test(out),
+    `italic + text-indent paragraph must be blockquoted; got: ${out}`);
+  // Non-italic + text-indent → NOT blockquote (it's typographic styling).
+  assert.ok(!/^> A reviewer-prose/m.test(out),
+    `non-italic text-indent paragraph must NOT be blockquoted; got: ${out}`);
+});
+
+test('convertGDocToMarkdown wraps a paragraph indented via a SPLIT-class combination (margin-left in one class, margin-right in another)', async () => {
+  // Real example from "Disunited Nations" (2021): a quoted block had
+  // `<p class="c97 c32 c117">` where c97 carried only `margin-right:33.1pt`
+  // and c117 carried only `margin-left:21.3pt`. Neither class alone met
+  // the 36pt or "both-sides" threshold, so the old detector marked
+  // neither as an indent class and the multi-paragraph book quote got
+  // un-quoted. Detector must sum margins across all classes on the element.
+  const html = `<html><head><style>.c0{font-weight:400}.c97{margin-right:33.1pt}.c117{margin-left:21.3pt}</style></head><body>` +
+    `<p><span class="c0">Body paragraph with plenty of substantive content before the quote starts here.</span></p>` +
+    `<p class="c97 c117"><span class="c0">First quoted paragraph with enough content to be unambiguously a real prose quote and not a verse line.</span></p>` +
+    `<p class="c97 c117"><span class="c0">Second quoted paragraph also with comfortably substantive prose content stretching well past fifty chars.</span></p>` +
+    `<p><span class="c0">Body paragraph after the quote with similarly substantive content for completeness.</span></p>` +
+    `</body></html>`;
+
+  const { convertGDocToMarkdown } = await import('./gdoc-html.ts');
+  const out = convertGDocToMarkdown(html);
+
+  // Both quoted paragraphs must end up in a blockquote.
+  assert.ok(/^> First quoted paragraph/m.test(out),
+    `first quoted paragraph must be in a blockquote; got: ${out}`);
+  assert.ok(/^> Second quoted paragraph/m.test(out),
+    `second quoted paragraph must be in a blockquote; got: ${out}`);
+  // Body paragraphs must NOT be quoted.
+  assert.ok(!/^> Body paragraph/m.test(out),
+    `body paragraphs must not be quoted; got: ${out}`);
+});
+
+test('convertGDocToMarkdown wraps a multi-paragraph indented passage in a blockquote even when most paragraphs in the chunk are inside the quote', async () => {
+  // Real example from "Scientific Freedom": a single review chunk where ~53%
+  // of the <p>s carry the margin-left:36pt class because of a multi-paragraph
+  // book quote (Don Braben's Planck Club passage). The old 50% body-default
+  // gate stripped c14 from indentClasses for that chunk and the entire quote
+  // came out un-quoted.
+  const indentedPs = Array.from({ length: 6 }).map(() =>
+    `<p class="c0 c14"><span class="c0">This indented quote paragraph contains enough substantive prose to comfortably qualify as part of a real blockquote passage, well past the fifty-character threshold.</span></p>`,
+  ).join('');
+  const bodyPs = Array.from({ length: 5 }).map(() =>
+    `<p class="c0"><span class="c0">This body paragraph also contains substantive prose with plenty of words to clear the substantive-content gate used elsewhere in cleanupMarkdown.</span></p>`,
+  ).join('');
+  const html = `<html><head><style>.c0{font-weight:400}.c14{margin-left:36pt}</style></head><body>${bodyPs}${indentedPs}</body></html>`;
+
+  const { convertGDocToMarkdown } = await import('./gdoc-html.ts');
+  const out = convertGDocToMarkdown(html);
+
+  // Every indented paragraph must end up in a blockquote.
+  const indentedCount = (out.match(/^> This indented quote paragraph/gm) || []).length;
+  assert.equal(indentedCount, 6, `expected 6 blockquoted lines; got ${indentedCount}: ${out}`);
+  // Body paragraphs must NOT be in a blockquote.
+  assert.ok(!/^> This body paragraph/m.test(out),
+    `body paragraphs must not be quoted; got: ${out}`);
+});
+
 test('cleanupMarkdown normalizes thematic-break paragraphs that turndown escaped', () => {
   // When the gdoc author types "***" as a paragraph (instead of using a
   // proper horizontal rule), turndown emits a half-escaped "*\*\*" that
