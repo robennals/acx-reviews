@@ -4,7 +4,7 @@ import { isAdminEmail } from '@/lib/admin';
 import { db } from '@/lib/db/client';
 import { getReviewsByContest } from '@/lib/reviews';
 import { getCsvRows } from '@/lib/api/admin-logic';
-import { ballotsToCsv } from '@/lib/voting/csv';
+import { ratingsToCsv } from '@/lib/voting/csv';
 
 export const dynamic = 'force-dynamic';
 
@@ -23,14 +23,14 @@ export async function GET(req: Request) {
   const reviews = await getReviewsByContest(contestId);
   const lookup = new Map(reviews.map((r) => [r.id, { title: r.title, slug: r.slug }]));
   const rows = await getCsvRows(db, { contestId, reviewLookup: lookup });
-  const csv = ballotsToCsv(rows);
+  const csv = ratingsToCsv(rows);
 
   const safeContestId = contestId.replace(/[^a-zA-Z0-9_-]/g, '');
   return new NextResponse(csv, {
     status: 200,
     headers: {
       'content-type': 'text/csv; charset=utf-8',
-      'content-disposition': `attachment; filename="${safeContestId}-ballots.csv"`,
+      'content-disposition': `attachment; filename="${safeContestId}-ratings.csv"`,
     },
   });
 }
