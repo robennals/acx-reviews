@@ -95,11 +95,13 @@ export function MyVotesClient({ reviewLookup, activeContestYear }: Props) {
                 {LIKERT_LABELS[e.rating]} &middot; rated {relativeTime(e.updatedAt)}
               </div>
             </div>
-            <RatingChip
-              reviewId={e.reviewId}
-              reviewYear={activeContestYear}
-              reviewTitle={e.title}
-            />
+            <div className="shrink-0 ml-auto">
+              <RatingChip
+                reviewId={e.reviewId}
+                reviewYear={activeContestYear}
+                reviewTitle={e.title}
+              />
+            </div>
           </div>
         ))}
       </div>
