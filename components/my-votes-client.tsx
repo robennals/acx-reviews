@@ -84,12 +84,14 @@ export function MyVotesClient({ reviewLookup, activeContestYear }: Props) {
               {e.slug ? (
                 <Link
                   href={`/reviews/${e.slug}`}
-                  className="text-sm font-semibold hover:underline truncate block"
+                  className="text-sm font-semibold hover:underline truncate inline-block max-w-full align-bottom"
                 >
                   {e.title}
                 </Link>
               ) : (
-                <span className="text-sm font-semibold truncate block">{e.title}</span>
+                <span className="text-sm font-semibold truncate inline-block max-w-full align-bottom">
+                  {e.title}
+                </span>
               )}
               <div className="text-xs text-muted-foreground">
                 {LIKERT_LABELS[e.rating]} &middot; rated {relativeTime(e.updatedAt)}
