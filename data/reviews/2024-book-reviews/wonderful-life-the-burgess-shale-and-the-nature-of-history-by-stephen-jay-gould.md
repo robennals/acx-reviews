@@ -41,14 +41,12 @@ His simple, contingent logic (like all of history, according to Gould) makes the
 I’ll sum it up here:
 
 1.  Humans are inclined toward narcissistic mythology that place ourselves, or extensions of ourselves, at the center of the story and make our own existence inevitable.
->
-1.  Exhibit A: the popular fable that evolution is a form of progress with human intelligence the inevitable endpoint.
-2.  Exhibit B: Charles Doolittle Walcott’s original treatment of the burgess fossils, which shoehorned them into a neat, progressive, preexisting, and wrong story.
->
+    1.  Exhibit A: the popular fable that evolution is a form of progress with human intelligence the inevitable endpoint.
+    2.  Exhibit B: Charles Doolittle Walcott’s original treatment of the burgess fossils, which shoehorned them into a neat, progressive, preexisting, and wrong story.
+
 2.  Careful examination of facts reveals how wrong these stories are.
->
-1.  Exhibit C: Study of the Burgess fossils demonstrates the vast diversity of anatomical types, compared to now, among fauna after the Cambrian explosion 570 million years ago, the first time complex life appeared on Earth. Nothing in the fossil record reveals the ancestors of today’s life to have shown any general superiority or dominance at the time.
->
+    1.  Exhibit C: Study of the Burgess fossils demonstrates the vast diversity of anatomical types, compared to now, among fauna after the Cambrian explosion 570 million years ago, the first time complex life appeared on Earth. Nothing in the fossil record reveals the ancestors of today’s life to have shown any general superiority or dominance at the time.
+
 3.  Therefore, in contrast to the fable of Exhibit A, today’s life is simply lucky survivors that made it through the vast pruning of the Cambrian fauna, either through chance or because their ancestors were well-adapted to the specific challenges of time and place at critical junctures, which does not demonstrate any broad bodily superiority that made them destined to be winners in evolution.
 4.  Because all history proceeds within the same framework, the discovery of the Burgess Fauna and what they represent over the course of the 20th century also contains many elements of lucky contingencies.
 5.  This is normal! Broad forces exist, but a brief summary of the evolution of life reveals the many other critical nodes humanity’s ancestors survived through lottery.
@@ -223,7 +221,7 @@ Most of my nonfiction reading is on relatively modern political events and not n
 1.  China adopts a small alphabet and Europe adopts a large one. This is one of those quirks of history, a small thing that mattered only much later. Movable type actually was invented about [400 years earlier](https://en.wikipedia.org/wiki/Movable_type) in China than Europe, but the super long alphabet made it not very functional. Say Europe got the long alphabet and China got the short one. Knowledge spreads faster in China for hundreds of years, giving it that critical edge as the world moves into the 1500s. Are the Americas colonized from the East, spurring an age of East Asian wealth extraction and knowledge revolution that sets the post-Middle Ages stage of history in motion? Is Western Europe today, and much of the rest of the world, just crawling out from under the yoke of 500 years of East Asian, rather than Western European, domination?
 2.  Napoleon isn’t born. Does some version of the Louisiana Purchase happen? Sure, probably. Revolutions tend to be the kind of thing that forces you to sell some assets for a song. Does The French Revolution spill over into some sort of European continental war? I buy it, revolutions tend to go that way. But, still, Napoleon is such a singular figure. Without him, that war doesn’t reach Russia’s border. And, with that gone, so goes a good chunk of Russia’s 19th century national mythology (and all the best books 😔), Russian self-image as they battled the Nazis (if there are Nazis, in our hypothetical second timeline), a good chunk of Britain’s 19th century foreign policy, and the workings of thirty years of continental Europe’s failed attempts to balance powers against the rising forces of liberalism. History without him just seems very, very different.
 3.  In 1980, Ronald Reagan, as mercurial a president as any in history save Donald Trump, picks another member from his [short list](https://www.washingtonpost.com/archive/politics/1980/07/10/reagan-would-rather-go-it-alone-but-choose-he-must/746c9719-db7a-4161-8398-3629ebd8f748/), Donald Rumsfeld, for vice president in lieu of George H.W. Bush. In 1988, Rumsfeld is elected president (he considered running, in the timeline you’re reading this in). And the Cold War winds down with the chest-thumping, bellicose Rumsfeld as president, rather than prudent Bush. Does America go to war with the falling Soviet Union? It’s possible. Does America march into Baghdad and topple Saddam in the first Gulf War in 1991? Oh, absolutely. I mean, Rumsfeld did it – or, more precisely, was one of three or four central players – the first chance he got 10 years later.  
-
+      
     You can argue that this is just a detail. The U.S. was bound to catastrophically overreach in the Middle East. And sure, fine! But toppling Saddam ten years earlier seems like a pretty big deal! For American history, for Middle Eastern history, and certainly for the 45 million people who live in Iraq. All contingent on a perfectly plausible and not terribly scrutinized political decision made 11 years before 1991.
 
 Gould has converted me.

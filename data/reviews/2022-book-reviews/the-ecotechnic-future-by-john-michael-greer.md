@@ -99,9 +99,8 @@ In other words, a short bout of prosperity may actually leave those who come aft
 Greer enumerates the following seres:
 
 1.  The industrial age
->
-*   You are now here
->
+    *   You are now here
+
 2.  Scarcity industrialism
 3.  Salvage society
 4.  The ecotechnic age

@@ -60,10 +60,9 @@ As an example of all this, I am a shipper who ships the Harry Potter/Hermione Gr
 
 *   OTP: Shippers will usually have an ‘OTP’, or ‘One True Pair’, the ship they hold dearest in their heart. If three people are involved in the ship, this is replaced with ‘OT3’.
 *   AU: Alternate Universe. This is when a fanfic transports the characters from their original setting into an alternate one.
->
-*   There’s minor AU, where a few elements are changed from the original setting but the rest is kept intact (imagine if Harry Potter had been raised by Dumbledore instead of the Dursleys!), and
-*   Major AU, where the setting is completely different (what if the Justice League were all ordinary teenagers attending high school together!)
->
+    *   There’s minor AU, where a few elements are changed from the original setting but the rest is kept intact (imagine if Harry Potter had been raised by Dumbledore instead of the Dursleys!), and
+    *   Major AU, where the setting is completely different (what if the Justice League were all ordinary teenagers attending high school together!)
+
 *   AO3: Archive Of Our Own, one of the biggest (and best organized) repositories of fanworks on the internet.
 *   Fic: A work of fanfiction, which is a work of fiction using an established world that someone else wrote.
 

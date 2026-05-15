@@ -85,11 +85,10 @@ I’m not really satisfied with Phil’s treatment of the question of causality.
 
 1.  Some critics argue that autogynephilia cannot be causal for transness because cis women are autogynephilic too. But actually those people are wrong because cis women aren’t all that autogynephilic, and even if they were, that has nothing to do with what is going on in trans women.
 2.  Some critics argue that trans women might have autogynephilia-like sexuality because they want to be female and dislike being male. But if that is true, then how does one explain the following facts:
->
-1.  Autogynephilia-like sexuality is less common among trans women exclusively attracted to men,
-2.  There are men with autogynephilia-like sexuality who don’t transition,
-3.  Sexual orientation labels like “gay” are usually causally downstream from sexual attractions like getting boners when seeing hunks, so by analogy gender identity labels like “trans” should be causally downstream of sexual autogynephilic attraction.
->
+    1.  Autogynephilia-like sexuality is less common among trans women exclusively attracted to men,
+    2.  There are men with autogynephilia-like sexuality who don’t transition,
+    3.  Sexual orientation labels like “gay” are usually causally downstream from sexual attractions like getting boners when seeing hunks, so by analogy gender identity labels like “trans” should be causally downstream of sexual autogynephilic attraction.
+
 3.  Trans women often have experiences in their childhood where they wanted to be girls, before their autogynephilic sexual arousal in puberty. This is analogous to how people of other sexual orientations often have childhood crushes, so this supports autogynephilia being causal.
 
 I’ll address these in reverse order; 3-2c-2b-2a. I’ll skip responding to 1 because the whole debate on it is a giant mess that would take a long and convoluted text to sort out while mainly concluding that I am too confused about the matter to know anything about it\*\*.
@@ -169,10 +168,10 @@ Other than autoheterosexuality, there are basically two alternative positions in
 > If someone’s deepest, most heartfelt wish was to be the other sex, which of the following explanations for their gender feelings would feel more emotionally satisfying?
 >
 > They want to be the other sex because:
->
+
 1.  In truth, they are actually more like the other sex in mind and spirit, but a mistake in development led them to have the wrong anatomy.
 2.  They have an autosexual version of heterosexuality that makes them happier when they feel similar to the other sex or embody traits they associate with it.
->
+
 > It’s a no-brainer, right? The first one is obviously more emotionally satisfying.
 >
 > This is why hearing about autoheterosexuality is so upsetting to many trans people. It suggests to them that their desire to be the other sex is ultimately because they are not that sex. Furthermore, their drive to be the other sex comes from a type of heterosexuality—the least queer kind of sexuality.

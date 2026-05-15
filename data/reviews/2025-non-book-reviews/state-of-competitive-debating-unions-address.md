@@ -72,12 +72,10 @@ This motion is clearly very flawed. The “public interest” is vague. This wou
 Today, this level of imbalance is practically unthinkable in large debate competitions. Why? I can’t say for sure:
 
 *   It seems that the teams that select motions--called the Chief Adjudicators (CAs)--take their roles much more seriously. In ["Advice for new CAs setting motions,"](https://trolleyproblem.blogspot.com/2012/01/advice-for-new-cas-setting-motions.html) Li’s first suggestion is “don’t try to come up with motions on the day itself.” Even the most scattered CA teams will start assembling spreadsheets of motions a couple of weeks in advance.
->
-*   There is much more pressure on tournaments to recruit smart, accomplished people to CA teams.
->
+    *   There is much more pressure on tournaments to recruit smart, accomplished people to CA teams.
+
 *   As Li predicted, the ability to perform large-scale analysis of motions and tournaments makes it easier for CA teams to predict which kinds of motions will be balanced.
->
-*   It is also much easier to analyze the past performances of prospective CAs: people with track records of setting balanced motions are more likely to be hired.
+    *   It is also much easier to analyze the past performances of prospective CAs: people with track records of setting balanced motions are more likely to be hired.
 
 Li understands that “fairness” is not the only consideration to be made when evaluating a motion. It is important to make university debaters argue about topics that are interesting and relevant. He [praises](https://trolleyproblem.blogspot.com/2012/01/why-i-like-motions-about-aliens-and.html) motions about aliens and robots for the metaethical insights they produce; he [encourages](https://trolleyproblem.blogspot.com/2012/01/advice-for-new-cas-setting-motions.html) CAs not to let their personal obsessions leak into their motion-setting.
 
@@ -108,9 +106,8 @@ The idea that judges should apply a uniform approach to assessing debates took h
 Fierce discussions have been had about how to quantifiably score speeches. The scale theoretically standardizes scoring by asking the judge to consider:
 
 *   How well-explained/logically sound the content was
->
-*   How vulnerable the content was to responses of varying ingenuity
->
+    *   How vulnerable the content was to responses of varying ingenuity
+
 *   How relevant the content was
 *   How easy the speech was to follow
 
@@ -217,9 +214,8 @@ All teams have to give arguments for their position, refute opponents’ argumen
 The topic of debate is called the motion. The beginnings of motions are almost always phrased in one of the following ways:
 
 *   _This House Would_: this kind of debate is about implementing a policy or taking an action. The government teams have to prove it’s practically feasible and that it leads to better outcomes than alternative policies/actions. The opening government team gets to decide who the “house” is (it’s in their interest to pick something reasonable) and “model” what the policy’s implementation would look like.
->
-*   _This House, as X, Would:_ Same as above, but the debate is from the perspective of a specific actor (e.g. “the CCP” or “a professional athlete”).
->
+    *   _This House, as X, Would:_ Same as above, but the debate is from the perspective of a specific actor (e.g. “the CCP” or “a professional athlete”).
+
 *   _This House Believes That:_ More of a normative judgement than a policy.
 *   _This House Supports/This House Opposes:_ Exactly what it sounds like.
 *   _This House Predicts:_ Exactly what it sounds like.

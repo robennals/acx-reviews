@@ -73,13 +73,11 @@ A great deal of ground is covered in getting from our everyday conceptions of ou
 
 1.  Even given “supernaturalism”, there is no way that we can get to heaven.
 2.  There is no persistent self worth caring about.
->
-1.  As a result, there are no (non-derivative) reasons for self-interest or our general pattern of circles of concern that radiate out from ourselves.
->
+    1.  As a result, there are no (non-derivative) reasons for self-interest or our general pattern of circles of concern that radiate out from ourselves.
+
 3.  Our identities are protean:
->
-1.  What we (literally, actually) are depends on what we think we are.
-2.  Therefore, we can come to exist in such a way that we literally survive death.
+    1.  What we (literally, actually) are depends on what we think we are.
+    2.  Therefore, we can come to exist in such a way that we literally survive death.
 
 As you can see, not all of these theses are created equally. In particular, the first claim, regarding heaven, is inessential to the broader program (although some things established in pursuing that claim continue to be relevant). Let’s go through the theses one-by-one.
 

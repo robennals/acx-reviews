@@ -18,15 +18,14 @@ tags:
 
 Today, I will be weighing in with my hot takes on a five hundred year old theological debate between Erasmus and Luther, with particular attention to Luther’s rejoinder to Erasmus. As a writer, Martin Luther was brilliant, a meticulous scholar, fairly witty, bombastically self-righteous, obnoxiously pedantic, and breathtakingly rude. These qualities are all on full display in this work.
 
-
 “Bondage of the Will” is a treatise written by Luther as a public response to a work by the Catholic Humanist scholar Desiderius Erasmus, _De Libero Arbitrio_, whose title is translated to English as “Of Free Will” or “Freedom of the Will”; Erasmus wrote _Freedom_ as a critique of Luther’s views on free will and predestination and a defense and explication of Erasmus’s particular view of conventional Catholic teachings on the subject. In _Bondage_, Luther responds to Erasmus’s work by criticizing its logic, heaping vulgar abuse on Erasmus personally, and fully developing and defending Luther’s own views. As such, _Bondage_ can be thought of as a book review of _Freedom_, making this essay a book review of a book review.
 
 ## Background
 
 ### Desiderius Erasmus![](https://acximages.ennals.org/images/2024-book-reviews/0b724a0060291aef.png)
 
-> _An Intellectual titan of the Renaissance, Erasmus of Rotterdam, one of the most learned men of his or any other age, still possesses the power to shock us from our lethargy and to focus the mind’s eye on truth.  
-> _– Professor John P. Dolan[[254]](#ftnt254)
+> _An Intellectual titan of the Renaissance, Erasmus of Rotterdam, one of the most learned men of his or any other age, still possesses the power to shock us from our lethargy and to focus the mind’s eye on truth._  
+> – Professor John P. Dolan[[254]](#ftnt254)
 >
 > _For I know [Erasmus] well, from his skin to his heart, that he is not worthy of being spoken to, or dealt with, by any good man; such a hypocrite is he, and so full of reprobate envy and malevolence._
 >
@@ -336,14 +335,13 @@ One last thing that struck me in preparing this review is just how much modern p
 12.  _History of Middle Earth, Volume 7: The Treason of Isengard_, edited by Christopher Tolkien, 1989.
 13.  _God’s Dice are Loaded: Assertions and Criticisms on God, Man, and Salvation_, by [redacted], 2003. 
 14.  A bunch of Wikipedia articles
->
-1.  Martin Luther
-2.  Desiderius Erasmus
-3.  Thomas More
-4.  95 Theses
-5.  On the Bondage of the Will
-6.  Renaissance Humanism
-7.  John Calvin
+     1.  Martin Luther
+     2.  Desiderius Erasmus
+     3.  Thomas More
+     4.  95 Theses
+     5.  On the Bondage of the Will
+     6.  Renaissance Humanism
+     7.  John Calvin
 
 ### Illustration Credits
 
@@ -352,7 +350,5 @@ One last thing that struck me in preparing this review is just how much modern p
 3.  Found circulating online without attribution. Appears to be based on a painting of Luther by Greg Copeland.
 4.  My own editing job, putting Luther’s head and a quote from the 95 Theses onto a meme template obtained from KnowYourMeme.com. The subject of the original photo was conservative podcaster Steven Crowder.
 5.  Scene from _Pirate of the Caribbean: Dead Man’s Chest_, 2006
-6.  Compilation of four images I made using the Adobe Firefly generative AI tool based on the prompt _“They could see the furnace-fire of its yellow eyes from afar; its arms were very long. Through the air it sprang over the fiery fissure. The flames leaped up to greet it and wreathed about it. Its streaming hair seemed to catch fire, and the sword that it held turned to flame. In its other hand it held a whip. His enemy halted again, facing him, and the shadow about it reached out like two vast wings.”_  
-
-    Top left: Firefly v1 March 2023. Top right: Firefly v1 May 2023. Bottom left: Firefly v2 October 2023. Bottom right: Firefly v3 April 2024.
+6.  Compilation of four images I made using the Adobe Firefly generative AI tool based on the prompt _“They could see the furnace-fire of its yellow eyes from afar; its arms were very long. Through the air it sprang over the fiery fissure. The flames leaped up to greet it and wreathed about it. Its streaming hair seemed to catch fire, and the sword that it held turned to flame. In its other hand it held a whip. His enemy halted again, facing him, and the shadow about it reached out like two vast wings.”_Top left: Firefly v1 March 2023. Top right: Firefly v1 May 2023. Bottom left: Firefly v2 October 2023. Bottom right: Firefly v3 April 2024.
 7.  My compilation of the aforementioned portraits of Erasmus and Luther to replace the angel Aziraphale and the demon Crowley in an anonymous meme based on the ending of Season 2 of _Good Omens._

@@ -57,23 +57,21 @@ TLDR: In case you don’t have the time or inclination to read his book, you can
 At the core of his model are:
 
 *   Three Big Cycles
->
-*   Money, Credit, Debt, and Economic Activity
-*   Internal Order
-*   External Order
+    *   Money, Credit, Debt, and Economic Activity
+    *   Internal Order
+    *   External Order
 
 That interact with:
 
 *   Eight Key Determinants
->
-*   Education
-*   Innovation & Technology
-*   Cost Competitiveness
-*   Military Strength
-*   Trade
-*   Economic Output
-*   Markets and Financial Center
-*   Reserve Currency Status
+    *   Education
+    *   Innovation & Technology
+    *   Cost Competitiveness
+    *   Military Strength
+    *   Trade
+    *   Economic Output
+    *   Markets and Financial Center
+    *   Reserve Currency Status
 
 Less important determinants, other factors, plus bonus content are included at the end.
 

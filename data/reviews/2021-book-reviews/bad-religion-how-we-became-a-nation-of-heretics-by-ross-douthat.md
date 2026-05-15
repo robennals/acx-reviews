@@ -73,11 +73,10 @@ This fallacy, though, is not limited to the prosperity gospel:
 1.  Fictional Steve Prefontaine in movie “Without Limits” when he claims “I run to see who has the most guts.”
 2.  The successful science professor who says “Whenever I worked hard, the experiment worked out for me, so you must be slacking.” (not a paraphrase…)
 3.  “The people who think admission to an Ivy League university was because they were superior, intellectually and perhaps morally, to those not as fortunate. They wanted to be the college admission version of John Calvin’s ‘elect,’ and they didn’t want luck to play any part of their admission” from [Ethical College Admissions: Ivy Lottery](https://www.insidehighered.com/admissions/views/2021/01/11/should-ivy-league-universities-conduct-admissions-lottery-opinion)
->
-1.  Note: this is true even if elite colleges stopped admitting legacies or athletes or stopped preferentially accepting people willing to pay full tuition (i.e. early decision)
-2.  The truth is almost everyone who is accepted to an elite college is qualified and deserves to be there (yes, the athletes and legacies too) —it’s just that there are many, many other people who are also qualified.
-3.  It’s why I support a lottery like Nathan Robinson’s [Admit Everybody](https://www.currentaffairs.org/2018/03/admit-everybody)
->
+    1.  Note: this is true even if elite colleges stopped admitting legacies or athletes or stopped preferentially accepting people willing to pay full tuition (i.e. early decision)
+    2.  The truth is almost everyone who is accepted to an elite college is qualified and deserves to be there (yes, the athletes and legacies too) —it’s just that there are many, many other people who are also qualified.
+    3.  It’s why I support a lottery like Nathan Robinson’s [Admit Everybody](https://www.currentaffairs.org/2018/03/admit-everybody)
+
 4.  the entrepreneur who thinks his business succeeded only because he worked hard
 
 Douthat seems to be worried that “the result is a country where religion actively promotes the sort of recklessness that produced our economic meltdown, rather than serving as a brake on materialism and a rebuke to avarice” (5, Bad Religion).
@@ -137,9 +136,8 @@ Covid-19 Edition
 1.  I haven’t had Covid-19 symptoms, so I haven’t had Covid-19.
 2.  “Is this going to be a deadly pandemic? No.” ([deleted Vox tweet](https://www.thewrap.com/vox-deletes-january-tweet-coronavirus-not-deadly/)).
 3.  “[The Conspiracy theories about the origins of the coronavirus, debunked](https://www.vox.com/2020/3/4/21156607/how-did-the-coronavirus-get-started-china-wuhan-lab)”
->
-1.  “But already, virologists who’ve parsed the genome and infectious disease experts who study coronaviruses say they have enough evidence the virus is brand new and came from nature” ([fifth paragraph](https://www.vox.com/2020/3/4/21156607/how-did-the-coronavirus-get-started-china-wuhan-lab), vox, again)
->
+    1.  “But already, virologists who’ve parsed the genome and infectious disease experts who study coronaviruses say they have enough evidence the virus is brand new and came from nature” ([fifth paragraph](https://www.vox.com/2020/3/4/21156607/how-did-the-coronavirus-get-started-china-wuhan-lab), vox, again)
+
 4.  “[baseless theory that Covid-19 was manufactured in a Chinese Lab](https://twitter.com/kmele/status/1364607470690181122?s=20)” from NYT
 
 Note Vox’s article, “[Covid-19 vaccine trials are showing promising results. A lot can still go wrong](https://www.vox.com/21311768/covid-19-coronavirus-vaccine-available-moderna-fauci)” is epistemically correct.

@@ -93,24 +93,19 @@ Without a [once-and-for-all](https://aligned.substack.com/p/alignment-solution) 
 How much of a problem Pythia is depends on how strongly the [Orthogonality Thesis](https://www.youtube.com/watch?v=hEUO6pjwFOo) holds.
 
 *   [Strong Orthogonality](https://www.lesswrong.com/w/orthogonality-thesis)
->
-*   All goals are equally easy to design an agent to pursue, beyond the inherent tractability of that goal.[4]
->
+    *   All goals are equally easy to design an agent to pursue, beyond the inherent tractability of that goal.[4]
+
 *   [Orthogonality](https://www.lesswrong.com/w/orthogonality-thesis)
->
-*   There can exist arbitrarily intelligent agents pursuing any kind of goal.
->
+    *   There can exist arbitrarily intelligent agents pursuing any kind of goal.
+
 *   [Obliqueness](https://www.lesswrong.com/posts/vdATCfuxdtdqM2wh9/the-obliqueness-thesis#:~:text=an%20%22obliqueness%20thesis%22.-,Obliqueness%20Thesis%3A,-The%20Diagonality%20Thesis)
->
-*   Agents do not tend to factorize into an Orthogonal value-like component and a Diagonal belief-like component; rather, there are Oblique components that do not factorize neatly.
->
+    *   Agents do not tend to factorize into an Orthogonal value-like component and a Diagonal belief-like component; rather, there are Oblique components that do not factorize neatly.
+
 *   [Diagonality](https://www.lesswrong.com/posts/vdATCfuxdtdqM2wh9/the-obliqueness-thesis#:~:text=a%20possible%20formulation%3A-,Diagonality%20Thesis%3A,-Final%20goals%20tend)
->
-*   All sufficiently advanced systems converge towards maximizing intelligence/power/influence/self-evidencing, shredding all their other values in the process.
->
+    *   All sufficiently advanced systems converge towards maximizing intelligence/power/influence/self-evidencing, shredding all their other values in the process.
+
 *   [Universalist moral internalism](https://www.lesswrong.com/w/orthogonality-thesis#Relation_to_moral_internalism)
->
-*   What is right must be _universally_ motivating so all sufficiently advanced AI systems discover objective moral truth and do Good Things. (Maybe it takes them a while to converge)
+    *   What is right must be _universally_ motivating so all sufficiently advanced AI systems discover objective moral truth and do Good Things. (Maybe it takes them a while to converge)
 
 [1] And not just for crafting much of the memeplex which birthed e/acc.
 

@@ -31,49 +31,39 @@ Let’s take a moment to appreciate this spiffy cover.
 _Ejaculate Responsibly!_ is a beautifully short book (126 pages). Its main arguments are presented verbatim but reordered below.  
 
 *   Men are 50 times more fertile than women.
->
-*   Most times when a woman has sex, she cannot be impregnated because her egg is not fertile. Every time a man has sex, he can potentially impregnate someone, because he is always fertile.
->
+    *   Most times when a woman has sex, she cannot be impregnated because her egg is not fertile. Every time a man has sex, he can potentially impregnate someone, because he is always fertile.
+
 *   Women’s fertility is unpredictable.
->
-*   [In a] 2020 study of 32,595 women...even among women who _wanted_ to be impregnated, and were _trying hard to track their fertility,_ using the fourteen-day ovulation guidance was not accurate...Even if cycle length can be predicted, the day of ovulation can be very variable, meaning that you cannot accurately predict the fertile phase using cycle length alone.
->
+    *   [In a] 2020 study of 32,595 women...even among women who _wanted_ to be impregnated, and were _trying hard to track their fertility,_ using the fourteen-day ovulation guidance was not accurate...Even if cycle length can be predicted, the day of ovulation can be very variable, meaning that you cannot accurately predict the fertile phase using cycle length alone.
+
 *   Ovulation is involuntary, ejaculation is not.
->
-*   We treat ejaculation as something that happens at random, that is unintentional, that is impossible to anticipate or predict. And we treat ovulation like it can be pinpointed well in advance and easily predicted. Somehow, we've confused the two.
->
+    *   We treat ejaculation as something that happens at random, that is unintentional, that is impossible to anticipate or predict. And we treat ovulation like it can be pinpointed well in advance and easily predicted. Somehow, we've confused the two.
+
 *   Birth control for women is hard to access and hard to use.
->
-*   The list of side effects for the Pill/Patch/Ring/Shot is long and serious, including depression, fatigue, headache, insomnia, mood swings, nausea, breast pain, vomiting, weight gain, acne, bloating, blood clots, heart attack, high blood pressure, liver cancer, and stroke.
->
+    *   The list of side effects for the Pill/Patch/Ring/Shot is long and serious, including depression, fatigue, headache, insomnia, mood swings, nausea, breast pain, vomiting, weight gain, acne, bloating, blood clots, heart attack, high blood pressure, liver cancer, and stroke.
+
 *   Birth control for men is easy to access and easy to use.
->
-*   The stereotype of men trying to avoid using condoms is basically a given in our culture...But what if our cultural myths around condoms are wrong?
-*   [T]he expectation ought to be that a man uses a condom every time he has sex. And if a man is deeply condom-averse, it should be an absolute given that he would get a vasectomy.
->
+    *   The stereotype of men trying to avoid using condoms is basically a given in our culture...But what if our cultural myths around condoms are wrong?
+    *   [T]he expectation ought to be that a man uses a condom every time he has sex. And if a man is deeply condom-averse, it should be an absolute given that he would get a vasectomy.
+
 *   Vasectomies are less risky than tubal ligations.
->
-*   Successful reversal rates are known to hover around 75 percent for vasectomies reversed within three years, with less success as the time between vasectomy and reversal attempt increases, but, happily, things are improving.
-*   Of course, if reversal success is a worry, men can always bank their sperm before the vasectomy.
->
+    *   Successful reversal rates are known to hover around 75 percent for vasectomies reversed within three years, with less success as the time between vasectomy and reversal attempt increases, but, happily, things are improving.
+    *   Of course, if reversal success is a worry, men can always bank their sperm before the vasectomy.
+
 *   We expect women to do the work of pregnancy prevention.
->
-*   Why would a woman ever need to ask a man to wear a condom? Why wouldn't it be the default that men should provide their own condom and put it on without a request?
->
+    *   Why would a woman ever need to ask a man to wear a condom? Why wouldn't it be the default that men should provide their own condom and put it on without a request?
+
 *   Men cause all unwanted pregnancies.
 *   The realities and burdens of parenting are unfathomable.
->
-*   People don't want to hear that pregnancy and childbirth can be so awful, because if we were honest about how difficult it is, and how it will permanently change your body, perhaps fewer women would be willing to endure it.
-*   [The author has six children.]
->
+    *   People don't want to hear that pregnancy and childbirth can be so awful, because if we were honest about how difficult it is, and how it will permanently change your body, perhaps fewer women would be willing to endure it.
+    *   [The author has six children.]
+
 *   There are zero consequences for men who ejaculate irresponsibly.
->
-*   Men can and do walk out on pregnancies. Women cannot.
-*   [O]nly 43.5 percent of parents report receiving the full amount of child support due.
->
+    *   Men can and do walk out on pregnancies. Women cannot.
+    *   [O]nly 43.5 percent of parents report receiving the full amount of child support due.
+
 *   Men can easily prevent abortions but choose not to.
->
-*   [M]en could easily prevent elective abortion, which is virtually all abortion, simply by ejaculating responsibly.
+    *   [M]en could easily prevent elective abortion, which is virtually all abortion, simply by ejaculating responsibly.
 
 As a committed feminist (whoops, just lost my audience, huh), ahem, as a committed feminist, I wanted to like this book. It’s the unicorn combination of left-wing ideology, egalitarianism, and personal responsibility! And, like most women, I’ve been annoyed many times with men who come up with bullshit reasons for not wearing a condom.
 
@@ -84,7 +74,7 @@ Start with the discussion of women’s birth control. We are told that hormonal 
 I don’t want to denigrate these claims, because some women do indeed suffer from the side effects of birth control, and that’s valid, and maybe we should give more pain medication during IUD insertions. But these are not typical experiences! The vast majority of women who use hormonal birth control do not get liver cancer, and the vast majority of women who use IUDs don’t bleed for a year afterwards.
 
 My IUD insertion involved less than a minute of mild pain and I had no unusual bleeding. How much weight should you give that? Very little! But the positive anecdotes deserve as much weight as the horror stories.  
-
+  
 (Part of this, by the way, is the FDA’s fault—yes, friends, it’s all about the FDA. Unlike the IUD horror stories, the author’s claim about side effects of hormonal birth control _mostly_ checks out, but, as with most lists of side effects that American patients are given, she makes no attempt to distinguish between common risks and incredibly rare ones.)
 
 A person who wanted to tell an honest story about birth control would focus on _typical_ experiences, not just the horror stories. This was the first clue that the author is operating from a [conflict](https://slatestarcodex.com/2018/01/24/conflict-vs-mistake/) mindset and presenting facts tendentiously.
@@ -153,8 +143,7 @@ Remember when I said that the book veers into thought experiments about punishin
 
 I do wonder if any anti-abortion men have done this. If you _really_ don’t want your girlfriend or wife to have an abortion, well, there’s your solution. Except that of course imposing this by government fiat would be horrifically tyrannical, and I wonder who gets to decide if you’re “responsible” enough to use that banked sperm? In my dystopian novel, it all comes back to the FDA.
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
+_ _ _
 A historian should have written this book. I would have liked to see a historically-informed account of the evolution in attitudes toward fertility control. In Biblical times, the story of Onan and the differential treatment of lesbianism and male homosexuality suggest that ejaculation was an important moral issue. In Romantic and Victorian times, remember the obsession with preventing masturbation? “Don’t leave him alone night or day,” Rousseau advises the tutor of his ideal pupil, Émile. The tutor must share his pupil’s room, if not his bed. “Let him go to bed only when overcome by sleep.” Every sperm is sacred, anyone?
 
 Now, maybe eliminating male masturbation from the world was never super-feasible, but how did we go from harsh, moralistic bans on all extramarital ejaculation, to a world in which male masturbation is accepted, and unprotected ejaculation is largely seen as devoid of moral weight, while women and girls have the power of life and death in their hands alone?

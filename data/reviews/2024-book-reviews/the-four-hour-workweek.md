@@ -28,7 +28,7 @@ Part self-help book, part business advice book, and part ‘lifestyle design’ 
 
 > “Carpe Diem, seize the day boys, make your lives extraordinary.”
 >
-- [Dead Poets Society](https://www.goodreads.com/work/quotes/1207563-dead-poets-society)
+> - [Dead Poets Society](https://www.goodreads.com/work/quotes/1207563-dead-poets-society)
 
 ## Motivation
 
@@ -124,17 +124,15 @@ Put simply, it is:
 
 1.  Come up with an idea for a product (or license one) in a niche market in which you are a customer, called a _muse_.
 2.  Test your muse by advertising on google/in a magazine, directing buyers to a website where they can enter their information to buy (although not actually buy, since you don’t have anything yet) - if you find it would be profitable, move forward, if not, go back to step 1. An idea is profitable if:
->
-1.  You have enough ‘sales’, where ‘sales’ means ‘people clicked on buy’ even though you haven’t enabled that functionality yet, such that
-2.  The equation  
-    profit per item \* items ‘sold’ > advertising cost  
-    where  
-    profit per item = sell price - cost to manufacture  
-    is true.
->
+    1.  You have enough ‘sales’, where ‘sales’ means ‘people clicked on buy’ even though you haven’t enabled that functionality yet, such that
+    2.  The equation  
+        profit per item \* items ‘sold’ > advertising cost  
+        where  
+        profit per item = sell price - cost to manufacture  
+        is true.
+
 3.  If your idea tests well, go ahead and implement it: pay a contract manufacturer to make the product and sell it on your website. Given the online tools available today, this has to be even easier than it was when Ferriss wrote the book.
->
-1.  It should be possible to automate this process, such that when a user places an order, the product is manufactured, shipped, and delivered, all without you having to do more than send an email or two, if that.
+    1.  It should be possible to automate this process, such that when a user places an order, the product is manufactured, shipped, and delivered, all without you having to do more than send an email or two, if that.
 
 According to Ferriss, this is how he financed his own dreams: he created a supplement called BrainQUICKEN, automated the process of manufacturing and selling it, and started raking in the cash. And you, the reader, can do it too!
 
@@ -150,10 +148,9 @@ It boils down to:
 
 1.  Find an excuse to work from home one day (sick, vacation, weekend, whatever). Be more productive than you usually are that day, and document it.
 2.  Bring the documentation to your boss, suggesting that you work from home one day a week as a trial, making sure to
->
-1.  justify it from the perspective of the business (you provide more value to the company from home than you do from the office), and
-2.  approach the whole thing like a sale, and go for the sell
->
+    1.  justify it from the perspective of the business (you provide more value to the company from home than you do from the office), and
+    2.  approach the whole thing like a sale, and go for the sell
+
 3.  Once you’ve got one day a week remote, make sure to keep the productivity differential high and documented, up to and including being _less_ productive while in the office to highlight the difference.
 4.  Repeat steps 2-3, but for more days each time, until you’re fully remote (except for possible exceptional circumstances, which are fine).
 
@@ -169,8 +166,7 @@ Once you’ve finally gone fully remote, or finally have enough automated income
 
 Breaking away from ‘acceptable’ or ‘stable’ or ‘predictable’ life plans is a massive step, but the juice is worth the squeeze. Being a part of the New Rich is about having the ultimate luxury: the choice to live whatever life you want.
 
-> [The New Rich lifestyle!] Take it! It's yours!
->
+> [The New Rich lifestyle!] Take it! It's yours!  
 > _- Achilles,_ _[Troy](https://www.imdb.com/title/tt0332452/quotes/)_ _(paraphrased)_
 
 ## Does It Work?
@@ -242,7 +238,7 @@ That’s a trickier question. There are parts of the book that absolutely apply 
 
 > I believe that success can be measured in the number of uncomfortable conversations you’re willing to have.
 >
-- Tim Ferriss
+> - Tim Ferriss
 
 Ferriss makes the point that few people attempt to do truly ambitious things, so there’s often, counterintuitively, _less_ competition for doing them than for more ‘ordinary’ accomplishments. [Fifty-seven thousand](https://college.harvard.edu/admissions/admissions-statistics) people applied to Harvard last year - how many tried to get in touch with Satya Nadella, CEO of Microsoft? How many people tried to climb Mt. Everest, or pilot a hot-air balloon around the world?
 
@@ -288,23 +284,23 @@ It’s a guide to leveling up in class from _office drone_ to _Nouveau_ _Riche_,
 
 There’s a parable Ferriss tells towards the end of the book, about a businessman on vacation in Mexico who sees a fisherman come in with his catch, quoted here:
 
-> _An American businessman took a vacation to a small coastal Mexican village on doctor's orders. Unable to sleep after an urgent phone call from the office the first morning, he walked out to the pier to clear his head. A small boat with just one fisherman had docked, and inside the boat were several large yellowfin tuna. The American complimented the Mexican on the quality of his fish.  
->  "How long did it take you to catch them?" the American asked.  
->  "Only a little while," the Mexican replied in surprisingly good English.  
->  "Why don't you stay out longer and catch more fish?" the American then asked.  
->  "I have enough to support my family and give a few to friends," the Mexican said as he unloaded them into a basket.  
->  "But... What do you do with the rest of your time?"  
->  The Mexican looked up and smiled. "I sleep late, fish a little, play with my children, take a siesta with my wife, Julia, and stroll into the village each evening, where I sip wine and play guitar with my amigos. I have a full and busy life, senor."  
->  The American laughed and stool tall. "Sir, I'm a Harvard M.B.A. and can help you. You should spend more time fishing, and with the proceeds, buy a bigger boat. In no time, you could buy several boats with the increased haul. Eventually, you would have a fleet of fishing boats."  
->  He continued, "Instead of selling your catch to a middleman, you would sell directly to the consumers, eventually opening your own cannery. You would control the product, processing, and distribution, and move to Mexico City, then to Los Angeles, and eventually New York City, where you could run your expanding enterprise with proper management."  
->  The Mexican fisherman asked, "But senor, how long will all this take?"  
->  To which the American replied, "15-20 years. 25 tops."  
->  "But what then, senor?"  
->  The American laughed and said, "That's the best part. When the time is right, you would announce an IPO and sell your company stock to the public and become very rich. You would make millions."  
->  "Millions, senor? Then what?"  
->  "Then you would retire and move to a small coastal fishing village, where you would sleep late, fish a little, play with your kids, take a siesta with your wife, and stroll to the village in the evenings where you could sip wine and play your guitar with your amigos..."_
+> _An American businessman took a vacation to a small coastal Mexican village on doctor's orders. Unable to sleep after an urgent phone call from the office the first morning, he walked out to the pier to clear his head. A small boat with just one fisherman had docked, and inside the boat were several large yellowfin tuna. The American complimented the Mexican on the quality of his fish._  
+>  _"How long did it take you to catch them?" the American asked._  
+>  _"Only a little while," the Mexican replied in surprisingly good English._  
+>  _"Why don't you stay out longer and catch more fish?" the American then asked._  
+>  _"I have enough to support my family and give a few to friends," the Mexican said as he unloaded them into a basket._  
+>  _"But... What do you do with the rest of your time?"_  
+>  _The Mexican looked up and smiled. "I sleep late, fish a little, play with my children, take a siesta with my wife, Julia, and stroll into the village each evening, where I sip wine and play guitar with my amigos. I have a full and busy life, senor."_  
+>  _The American laughed and stool tall. "Sir, I'm a Harvard M.B.A. and can help you. You should spend more time fishing, and with the proceeds, buy a bigger boat. In no time, you could buy several boats with the increased haul. Eventually, you would have a fleet of fishing boats."_  
+>  _He continued, "Instead of selling your catch to a middleman, you would sell directly to the consumers, eventually opening your own cannery. You would control the product, processing, and distribution, and move to Mexico City, then to Los Angeles, and eventually New York City, where you could run your expanding enterprise with proper management."_  
+>  _The Mexican fisherman asked, "But senor, how long will all this take?"_  
+>  _To which the American replied, "15-20 years. 25 tops."_  
+>  _"But what then, senor?"_  
+>  _The American laughed and said, "That's the best part. When the time is right, you would announce an IPO and sell your company stock to the public and become very rich. You would make millions."_  
+>  _"Millions, senor? Then what?"_  
+>  _"Then you would retire and move to a small coastal fishing village, where you would sleep late, fish a little, play with your kids, take a siesta with your wife, and stroll to the village in the evenings where you could sip wine and play your guitar with your amigos..."_
 >
-- Tim Ferriss, _The Four Hour Workweek, p.252-253_
+> - Tim Ferriss, _The Four Hour Workweek, p.252-253_
 
 The point of the parable isn’t - in my eyes - that the businessman is _wrong_. He’s not.
 
