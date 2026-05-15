@@ -7,8 +7,8 @@ contestName: 2022 Book Reviews
 year: 2022
 publishedDate: '2026-02-05T15:57:57.331Z'
 slug: god-emperor-of-dune
-wordCount: 5095
-readingTimeMinutes: 23
+wordCount: 5063
+readingTimeMinutes: 24
 originalUrl: https://astralcodexten.substack.com/p/your-book-review-god-emperor-of-dune
 source: acx
 tags:

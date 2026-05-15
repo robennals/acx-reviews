@@ -7,8 +7,8 @@ contestName: 2022 Book Reviews
 year: 2022
 publishedDate: '2026-02-05T15:57:47.618Z'
 slug: the-righteous-mind
-wordCount: 11986
-readingTimeMinutes: 54
+wordCount: 11967
+readingTimeMinutes: 55
 originalUrl: https://astralcodexten.substack.com/p/your-book-review-the-righteous-mind
 source: acx
 tags:

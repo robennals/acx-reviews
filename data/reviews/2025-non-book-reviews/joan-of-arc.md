@@ -7,8 +7,8 @@ contestName: 2025 Non Book Reviews
 year: 2025
 publishedDate: '2026-02-06T16:58:28.988Z'
 slug: joan-of-arc
-wordCount: 24243
-readingTimeMinutes: 108
+wordCount: 23985
+readingTimeMinutes: 110
 originalUrl: https://www.astralcodexten.com/p/your-review-joan-of-arc
 source: acx
 tags:

@@ -7,7 +7,7 @@ contestName: 2022 Book Reviews
 year: 2022
 publishedDate: '2026-02-06T07:21:54.171Z'
 slug: the-party-the-secret-world-of-chinas-communist-rulers-by-richard-mcgregor
-wordCount: 4056
+wordCount: 4034
 readingTimeMinutes: 19
 originalUrl: https://docs.google.com/document/d/1hFzjXliCAWjvheY-8Qd2fhbF79LnX0Xg6R9eqk9yIyI
 source: gdoc

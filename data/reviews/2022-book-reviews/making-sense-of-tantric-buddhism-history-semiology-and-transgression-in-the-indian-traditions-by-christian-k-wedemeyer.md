@@ -7,8 +7,8 @@ contestName: 2022 Book Reviews
 year: 2022
 publishedDate: '2026-02-06T07:23:14.479Z'
 slug: making-sense-of-tantric-buddhism-history-semiology-and-transgression-in-the-indian-traditions-by-christian-k-wedemeyer
-wordCount: 5833
-readingTimeMinutes: 26
+wordCount: 5810
+readingTimeMinutes: 27
 originalUrl: https://docs.google.com/document/d/1kQUUJhv-MpLawby2j4zXLZPDG6ligWd5xpIjH8UmWdw
 source: gdoc
 tags:

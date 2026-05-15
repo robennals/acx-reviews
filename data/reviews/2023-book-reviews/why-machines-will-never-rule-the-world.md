@@ -7,7 +7,7 @@ contestName: 2023 Book Reviews
 year: 2023
 publishedDate: '2026-02-06T07:05:53.965Z'
 slug: why-machines-will-never-rule-the-world
-wordCount: 2549
+wordCount: 2543
 readingTimeMinutes: 12
 originalUrl: https://www.astralcodexten.com/p/your-book-review-why-machines-will
 source: acx

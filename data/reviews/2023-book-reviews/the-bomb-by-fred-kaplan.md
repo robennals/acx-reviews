@@ -7,7 +7,7 @@ contestName: 2023 Book Reviews
 year: 2023
 publishedDate: '2023-01-01T00:00:00.000Z'
 slug: the-bomb-by-fred-kaplan
-wordCount: 9943
+wordCount: 9889
 readingTimeMinutes: 45
 originalUrl: https://docs.google.com/document/d/1AtGIIv371v0Yu35eNsIxJr67dw4SHOiGdKrqmoKt2hg
 source: gdoc

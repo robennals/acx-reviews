@@ -7,7 +7,7 @@ contestName: 2023 Book Reviews
 year: 2023
 publishedDate: '2023-01-01T00:00:00.000Z'
 slug: the-life-and-opinions-of-zacharias-lichter-by-matei-clinescu
-wordCount: 3035
+wordCount: 3026
 readingTimeMinutes: 14
 originalUrl: https://docs.google.com/document/d/1AtGIIv371v0Yu35eNsIxJr67dw4SHOiGdKrqmoKt2hg
 source: gdoc

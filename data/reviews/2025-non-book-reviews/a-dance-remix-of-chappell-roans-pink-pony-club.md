@@ -7,8 +7,8 @@ contestName: 2025 Non Book Reviews
 year: 2025
 publishedDate: '2026-02-06T16:57:48.925Z'
 slug: a-dance-remix-of-chappell-roans-pink-pony-club
-wordCount: 10151
-readingTimeMinutes: 46
+wordCount: 10124
+readingTimeMinutes: 47
 originalUrl: https://docs.google.com/document/d/1hjIUcKi-vIM9RGRZDWPRyUtzZLlVrpaY6Jy81iZVYi4
 source: gdoc
 tags:

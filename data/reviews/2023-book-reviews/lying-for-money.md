@@ -7,8 +7,8 @@ contestName: 2023 Book Reviews
 year: 2023
 publishedDate: '2026-02-06T07:05:51.687Z'
 slug: lying-for-money
-wordCount: 12628
-readingTimeMinutes: 57
+wordCount: 12542
+readingTimeMinutes: 58
 originalUrl: https://www.astralcodexten.com/p/your-book-review-lying-for-money
 source: acx
 tags:

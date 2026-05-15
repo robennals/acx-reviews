@@ -7,8 +7,8 @@ contestName: 2021 Book Reviews
 year: 2021
 publishedDate: '2026-02-06T07:21:29.572Z'
 slug: reasons-and-persons-by-derek-parfit
-wordCount: 4495
-readingTimeMinutes: 20
+wordCount: 4487
+readingTimeMinutes: 21
 originalUrl: https://docs.google.com/document/d/1xexFJ7h0vULMDE7N77q_MIzXoerexfe_CqqGEL6hEoQ
 source: gdoc
 tags:

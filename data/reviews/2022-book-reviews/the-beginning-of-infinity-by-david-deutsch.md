@@ -7,7 +7,7 @@ contestName: 2022 Book Reviews
 year: 2022
 publishedDate: '2026-02-06T07:22:32.817Z'
 slug: the-beginning-of-infinity-by-david-deutsch
-wordCount: 6594
+wordCount: 6563
 readingTimeMinutes: 30
 originalUrl: https://docs.google.com/document/d/100kMdSVFviZSSBvUyyEQPMNlvLptVQxHFD9i9wGuBWs
 source: gdoc

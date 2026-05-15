@@ -7,8 +7,8 @@ contestName: 2023 Book Reviews
 year: 2023
 publishedDate: '2026-02-06T07:06:22.867Z'
 slug: why-nations-fail
-wordCount: 5141
-readingTimeMinutes: 23
+wordCount: 5109
+readingTimeMinutes: 24
 originalUrl: https://www.astralcodexten.com/p/your-book-review-why-nations-fail
 source: acx
 tags:

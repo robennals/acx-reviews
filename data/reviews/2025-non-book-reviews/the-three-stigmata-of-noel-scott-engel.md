@@ -7,7 +7,7 @@ contestName: 2025 Non Book Reviews
 year: 2025
 publishedDate: '2026-02-06T16:57:48.983Z'
 slug: the-three-stigmata-of-noel-scott-engel
-wordCount: 1432
+wordCount: 1373
 readingTimeMinutes: 7
 originalUrl: https://docs.google.com/document/d/1hjIUcKi-vIM9RGRZDWPRyUtzZLlVrpaY6Jy81iZVYi4
 source: gdoc

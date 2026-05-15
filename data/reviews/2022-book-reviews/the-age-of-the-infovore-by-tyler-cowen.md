@@ -7,7 +7,7 @@ contestName: 2022 Book Reviews
 year: 2022
 publishedDate: '2026-02-06T07:22:32.816Z'
 slug: the-age-of-the-infovore-by-tyler-cowen
-wordCount: 676
+wordCount: 672
 readingTimeMinutes: 4
 originalUrl: https://docs.google.com/document/d/100kMdSVFviZSSBvUyyEQPMNlvLptVQxHFD9i9wGuBWs
 source: gdoc

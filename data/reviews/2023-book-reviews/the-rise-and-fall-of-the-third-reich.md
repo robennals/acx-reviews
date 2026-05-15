@@ -7,8 +7,8 @@ contestName: 2023 Book Reviews
 year: 2023
 publishedDate: '2026-02-06T07:06:15.292Z'
 slug: the-rise-and-fall-of-the-third-reich
-wordCount: 9560
-readingTimeMinutes: 43
+wordCount: 9530
+readingTimeMinutes: 44
 originalUrl: https://www.astralcodexten.com/p/your-book-review-the-rise-and-fall
 source: acx
 tags:

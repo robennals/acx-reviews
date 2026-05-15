@@ -7,7 +7,7 @@ contestName: 2024 Book Reviews
 year: 2024
 publishedDate: '2026-05-10T03:23:43.758Z'
 slug: the-complete-rhyming-dictionary-and-poets-craft-book
-wordCount: 4042
+wordCount: 3958
 readingTimeMinutes: 18
 originalUrl: https://www.astralcodexten.com/p/your-book-review-the-complete-rhyming
 source: acx

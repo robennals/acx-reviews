@@ -7,7 +7,7 @@ contestName: 2022 Book Reviews
 year: 2022
 publishedDate: '2026-02-05T15:57:27.924Z'
 slug: 1587-a-year-of-no-significance
-wordCount: 8830
+wordCount: 8773
 readingTimeMinutes: 40
 originalUrl: https://astralcodexten.substack.com/p/your-book-review-1587-a-year-of-no
 source: acx

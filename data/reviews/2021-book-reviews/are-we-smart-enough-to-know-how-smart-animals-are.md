@@ -7,7 +7,7 @@ contestName: 2021 Book Reviews
 year: 2021
 publishedDate: '2026-02-05T15:44:05.511Z'
 slug: are-we-smart-enough-to-know-how-smart-animals-are
-wordCount: 5430
+wordCount: 5416
 readingTimeMinutes: 25
 originalUrl: https://astralcodexten.substack.com/p/your-book-review-are-we-smart-enough
 source: acx

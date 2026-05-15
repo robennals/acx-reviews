@@ -7,7 +7,7 @@ contestName: 2022 Book Reviews
 year: 2022
 publishedDate: '2026-02-06T07:24:08.689Z'
 slug: albion-in-twelve-books
-wordCount: 5225
+wordCount: 5216
 readingTimeMinutes: 24
 originalUrl: https://docs.google.com/document/d/1pRQbRbEUwSH_jm94PI_ij-88swat7vQ4iNaNp6gd39g
 source: gdoc

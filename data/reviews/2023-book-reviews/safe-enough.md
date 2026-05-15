@@ -7,7 +7,7 @@ contestName: 2023 Book Reviews
 year: 2023
 publishedDate: '2026-02-06T07:06:03.119Z'
 slug: safe-enough
-wordCount: 5005
+wordCount: 4938
 readingTimeMinutes: 23
 originalUrl: https://www.astralcodexten.com/p/your-book-review-safe-enough
 source: acx

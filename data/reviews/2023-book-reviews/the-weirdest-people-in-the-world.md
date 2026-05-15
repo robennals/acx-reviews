@@ -7,8 +7,8 @@ contestName: 2023 Book Reviews
 year: 2023
 publishedDate: '2026-02-06T07:06:18.061Z'
 slug: the-weirdest-people-in-the-world
-wordCount: 4947
-readingTimeMinutes: 22
+wordCount: 4912
+readingTimeMinutes: 23
 originalUrl: https://www.astralcodexten.com/p/your-book-review-the-weirdest-people
 source: acx
 tags:

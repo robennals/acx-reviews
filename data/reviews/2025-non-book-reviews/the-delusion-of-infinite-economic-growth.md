@@ -7,7 +7,7 @@ contestName: 2025 Non Book Reviews
 year: 2025
 publishedDate: '2026-02-06T16:55:59.395Z'
 slug: the-delusion-of-infinite-economic-growth
-wordCount: 1971
+wordCount: 1961
 readingTimeMinutes: 9
 originalUrl: https://docs.google.com/document/d/1jYVJFIz5-aMi0LCgsC9AN6BncJDNVGaMU37QmwZ1vzA
 source: gdoc

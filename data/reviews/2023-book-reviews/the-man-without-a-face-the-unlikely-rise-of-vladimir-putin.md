@@ -7,8 +7,8 @@ contestName: 2023 Book Reviews
 year: 2023
 publishedDate: '2023-01-01T00:00:00.000Z'
 slug: the-man-without-a-face-the-unlikely-rise-of-vladimir-putin
-wordCount: 5557
-readingTimeMinutes: 25
+wordCount: 5528
+readingTimeMinutes: 26
 originalUrl: https://docs.google.com/document/d/1AtGIIv371v0Yu35eNsIxJr67dw4SHOiGdKrqmoKt2hg
 source: gdoc
 tags:

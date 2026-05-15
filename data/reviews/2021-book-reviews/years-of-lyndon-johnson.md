@@ -7,7 +7,7 @@ contestName: 2021 Book Reviews
 year: 2021
 publishedDate: '2026-02-05T15:44:15.948Z'
 slug: years-of-lyndon-johnson
-wordCount: 2254
+wordCount: 2250
 readingTimeMinutes: 11
 originalUrl: https://astralcodexten.substack.com/p/your-book-review-the-years-of-lyndon
 source: acx

@@ -7,7 +7,7 @@ contestName: 2024 Book Reviews
 year: 2024
 publishedDate: '2026-05-10T03:23:32.801Z'
 slug: don-juan
-wordCount: 3229
+wordCount: 3217
 readingTimeMinutes: 15
 originalUrl: https://www.astralcodexten.com/p/your-book-review-don-juan
 source: acx

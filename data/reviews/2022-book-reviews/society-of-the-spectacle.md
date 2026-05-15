@@ -7,8 +7,8 @@ contestName: 2022 Book Reviews
 year: 2022
 publishedDate: '2026-02-05T15:57:50.046Z'
 slug: society-of-the-spectacle
-wordCount: 9640
-readingTimeMinutes: 43
+wordCount: 9544
+readingTimeMinutes: 44
 originalUrl: https://astralcodexten.substack.com/p/your-book-review-the-society-of-the
 source: acx
 tags:

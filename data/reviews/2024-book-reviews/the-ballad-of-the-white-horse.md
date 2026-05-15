@@ -7,8 +7,8 @@ contestName: 2024 Book Reviews
 year: 2024
 publishedDate: '2026-05-10T03:23:50.127Z'
 slug: the-ballad-of-the-white-horse
-wordCount: 6251
-readingTimeMinutes: 28
+wordCount: 5857
+readingTimeMinutes: 27
 originalUrl: https://www.astralcodexten.com/p/your-book-review-the-ballad-of-the
 source: acx
 tags:

@@ -7,7 +7,7 @@ contestName: 2025 Non Book Reviews
 year: 2025
 publishedDate: '2026-02-06T16:58:43.484Z'
 slug: ollantay
-wordCount: 5794
+wordCount: 5673
 readingTimeMinutes: 26
 originalUrl: https://www.astralcodexten.com/p/your-review-ollantay
 source: acx

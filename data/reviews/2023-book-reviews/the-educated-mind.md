@@ -7,8 +7,8 @@ contestName: 2023 Book Reviews
 year: 2023
 publishedDate: '2026-02-06T07:06:08.065Z'
 slug: the-educated-mind
-wordCount: 24027
-readingTimeMinutes: 107
+wordCount: 23812
+readingTimeMinutes: 109
 originalUrl: https://www.astralcodexten.com/p/your-book-review-the-educated-mind
 source: acx
 tags:

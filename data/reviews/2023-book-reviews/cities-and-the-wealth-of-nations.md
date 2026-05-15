@@ -7,7 +7,7 @@ contestName: 2023 Book Reviews
 year: 2023
 publishedDate: '2026-02-06T07:05:49.278Z'
 slug: cities-and-the-wealth-of-nations
-wordCount: 9913
+wordCount: 9857
 readingTimeMinutes: 45
 originalUrl: https://www.astralcodexten.com/p/your-book-review-cities-and-the-wealth
 source: acx

@@ -7,8 +7,8 @@ contestName: 2025 Non Book Reviews
 year: 2025
 publishedDate: '2026-02-06T16:52:48.889Z'
 slug: arbitraging-several-dozen-online-casinos
-wordCount: 4722
-readingTimeMinutes: 21
+wordCount: 4707
+readingTimeMinutes: 22
 originalUrl: https://docs.google.com/document/d/1d0vRSj1E93joWWvbUen2XGuDjN_mM94ybMIAADzM2fo
 source: gdoc
 tags:

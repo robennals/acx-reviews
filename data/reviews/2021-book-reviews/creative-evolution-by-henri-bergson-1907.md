@@ -7,7 +7,7 @@ contestName: 2021 Book Reviews
 year: 2021
 publishedDate: '2026-02-06T07:21:29.564Z'
 slug: creative-evolution-by-henri-bergson-1907
-wordCount: 2592
+wordCount: 2584
 readingTimeMinutes: 12
 originalUrl: https://docs.google.com/document/d/1xexFJ7h0vULMDE7N77q_MIzXoerexfe_CqqGEL6hEoQ
 source: gdoc

@@ -7,8 +7,8 @@ contestName: 2022 Book Reviews
 year: 2022
 publishedDate: '2026-02-05T15:57:30.457Z'
 slug: the-castrato
-wordCount: 9100
-readingTimeMinutes: 41
+wordCount: 9024
+readingTimeMinutes: 42
 originalUrl: https://astralcodexten.substack.com/p/your-book-review-the-castrato
 source: acx
 tags:

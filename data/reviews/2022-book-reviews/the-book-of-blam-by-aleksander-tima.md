@@ -7,8 +7,8 @@ contestName: 2022 Book Reviews
 year: 2022
 publishedDate: '2026-02-06T07:22:32.818Z'
 slug: the-book-of-blam-by-aleksander-tima
-wordCount: 5299
-readingTimeMinutes: 24
+wordCount: 5292
+readingTimeMinutes: 25
 originalUrl: https://docs.google.com/document/d/100kMdSVFviZSSBvUyyEQPMNlvLptVQxHFD9i9wGuBWs
 source: gdoc
 tags:

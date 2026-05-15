@@ -7,7 +7,7 @@ contestName: 2024 Book Reviews
 year: 2024
 publishedDate: '2026-02-06T16:49:14.001Z'
 slug: the-british-industrial-revolution-in-global-perspective-by-robert-c-allen
-wordCount: 3488
+wordCount: 3479
 readingTimeMinutes: 16
 originalUrl: https://docs.google.com/document/d/14qa47TJ_Vyerx4XNgTCIh7PUZ_TOgNcU_eHm5So_zo0
 source: gdoc

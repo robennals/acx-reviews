@@ -7,8 +7,8 @@ contestName: 2021 Book Reviews
 year: 2021
 publishedDate: '2021-01-01T00:00:00.000Z'
 slug: the-silmarillion-by-j-r-r-tolkien
-wordCount: 7650
-readingTimeMinutes: 34
+wordCount: 7616
+readingTimeMinutes: 35
 originalUrl: https://docs.google.com/document/d/1M1m8o1HInGYJR3cEMYZ6TQgNmeBOWo98YC6djNnFWf0
 source: gdoc
 tags:

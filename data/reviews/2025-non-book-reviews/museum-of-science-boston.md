@@ -7,8 +7,8 @@ contestName: 2025 Non Book Reviews
 year: 2025
 publishedDate: '2026-02-06T16:55:03.481Z'
 slug: museum-of-science-boston
-wordCount: 2011
-readingTimeMinutes: 9
+wordCount: 2000
+readingTimeMinutes: 10
 originalUrl: https://docs.google.com/document/d/1a3q0Z2tuPLLbDeg5-pfEffkajGjrfPDwE7ZMs7uaWQs
 source: gdoc
 tags:

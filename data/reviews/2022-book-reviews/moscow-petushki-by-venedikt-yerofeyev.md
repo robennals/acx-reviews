@@ -7,8 +7,8 @@ contestName: 2022 Book Reviews
 year: 2022
 publishedDate: '2026-02-06T07:23:14.485Z'
 slug: moscow-petushki-by-venedikt-yerofeyev
-wordCount: 8817
-readingTimeMinutes: 40
+wordCount: 8801
+readingTimeMinutes: 41
 originalUrl: https://docs.google.com/document/d/1kQUUJhv-MpLawby2j4zXLZPDG6ligWd5xpIjH8UmWdw
 source: gdoc
 tags:

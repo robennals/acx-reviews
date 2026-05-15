@@ -7,8 +7,8 @@ contestName: 2022 Book Reviews
 year: 2022
 publishedDate: '2026-02-06T07:21:54.170Z'
 slug: the-one-world-schoolhouse-by-salman-khan
-wordCount: 5779
-readingTimeMinutes: 26
+wordCount: 5742
+readingTimeMinutes: 27
 originalUrl: https://docs.google.com/document/d/1hFzjXliCAWjvheY-8Qd2fhbF79LnX0Xg6R9eqk9yIyI
 source: gdoc
 tags:

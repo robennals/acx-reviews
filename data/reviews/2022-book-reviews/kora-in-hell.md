@@ -7,7 +7,7 @@ contestName: 2022 Book Reviews
 year: 2022
 publishedDate: '2026-02-05T15:57:59.684Z'
 slug: kora-in-hell
-wordCount: 3202
+wordCount: 3180
 readingTimeMinutes: 15
 originalUrl: https://astralcodexten.substack.com/p/your-book-review-kora-in-hell
 source: acx

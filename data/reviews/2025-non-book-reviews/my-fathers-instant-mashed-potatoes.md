@@ -7,8 +7,8 @@ contestName: 2025 Non Book Reviews
 year: 2025
 publishedDate: '2026-02-06T16:58:41.435Z'
 slug: my-fathers-instant-mashed-potatoes
-wordCount: 4457
-readingTimeMinutes: 20
+wordCount: 4430
+readingTimeMinutes: 21
 originalUrl: https://www.astralcodexten.com/p/your-review-my-fathers-instant-mashed
 source: acx
 tags:

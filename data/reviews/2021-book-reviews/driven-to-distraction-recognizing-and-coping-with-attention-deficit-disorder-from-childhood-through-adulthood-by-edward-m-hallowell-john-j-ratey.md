@@ -7,7 +7,7 @@ contestName: 2021 Book Reviews
 year: 2021
 publishedDate: '2026-02-06T07:21:29.565Z'
 slug: driven-to-distraction-recognizing-and-coping-with-attention-deficit-disorder-from-childhood-through-adulthood-by-edward-m-hallowell-john-j-ratey
-wordCount: 1222
+wordCount: 1214
 readingTimeMinutes: 6
 originalUrl: https://docs.google.com/document/d/1xexFJ7h0vULMDE7N77q_MIzXoerexfe_CqqGEL6hEoQ
 source: gdoc

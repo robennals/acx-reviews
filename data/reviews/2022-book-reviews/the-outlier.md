@@ -7,7 +7,7 @@ contestName: 2022 Book Reviews
 year: 2022
 publishedDate: '2026-02-05T15:57:45.158Z'
 slug: the-outlier
-wordCount: 5931
+wordCount: 5927
 readingTimeMinutes: 27
 originalUrl: https://astralcodexten.substack.com/p/your-book-review-the-outlier
 source: acx

@@ -7,8 +7,8 @@ contestName: 2024 Book Reviews
 year: 2024
 publishedDate: '2026-05-10T03:23:30.686Z'
 slug: dominion
-wordCount: 6477
-readingTimeMinutes: 29
+wordCount: 6452
+readingTimeMinutes: 30
 originalUrl: https://www.astralcodexten.com/p/your-book-review-dominion-by-matthew
 source: acx
 tags:

@@ -7,8 +7,8 @@ contestName: 2024 Book Reviews
 year: 2024
 publishedDate: '2026-02-06T16:47:49.306Z'
 slug: gdel-escher-bach-by-douglas-hofstadter
-wordCount: 3992
-readingTimeMinutes: 18
+wordCount: 3967
+readingTimeMinutes: 19
 originalUrl: https://docs.google.com/document/d/1QiotH3aGFgNLGqsIHTK_Plm_gem2E4l2C2ctyGJd0jY
 source: gdoc
 tags:

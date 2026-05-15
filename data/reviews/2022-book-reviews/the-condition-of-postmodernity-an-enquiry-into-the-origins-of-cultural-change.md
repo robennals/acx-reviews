@@ -7,8 +7,8 @@ contestName: 2022 Book Reviews
 year: 2022
 publishedDate: '2026-02-06T07:22:32.821Z'
 slug: the-condition-of-postmodernity-an-enquiry-into-the-origins-of-cultural-change
-wordCount: 6872
-readingTimeMinutes: 31
+wordCount: 6847
+readingTimeMinutes: 32
 originalUrl: https://docs.google.com/document/d/100kMdSVFviZSSBvUyyEQPMNlvLptVQxHFD9i9wGuBWs
 source: gdoc
 tags:

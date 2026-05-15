@@ -7,8 +7,8 @@ contestName: 2022 Book Reviews
 year: 2022
 publishedDate: '2026-02-06T07:23:14.489Z'
 slug: rationality-what-it-is-why-it-seems-scarce-why-it-matters-by-steven-pinker
-wordCount: 35933
-readingTimeMinutes: 160
+wordCount: 35518
+readingTimeMinutes: 162
 originalUrl: https://docs.google.com/document/d/1kQUUJhv-MpLawby2j4zXLZPDG6ligWd5xpIjH8UmWdw
 source: gdoc
 tags:

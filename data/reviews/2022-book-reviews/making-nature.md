@@ -7,7 +7,7 @@ contestName: 2022 Book Reviews
 year: 2022
 publishedDate: '2026-02-05T15:57:40.293Z'
 slug: making-nature
-wordCount: 6564
+wordCount: 6477
 readingTimeMinutes: 30
 originalUrl: https://astralcodexten.substack.com/p/your-book-review-making-nature
 source: acx

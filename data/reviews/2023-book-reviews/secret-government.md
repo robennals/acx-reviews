@@ -7,7 +7,7 @@ contestName: 2023 Book Reviews
 year: 2023
 publishedDate: '2026-02-06T07:06:05.480Z'
 slug: secret-government
-wordCount: 5428
+wordCount: 5392
 readingTimeMinutes: 25
 originalUrl: https://www.astralcodexten.com/p/your-book-review-secret-government
 source: acx

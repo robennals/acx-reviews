@@ -7,8 +7,8 @@ contestName: 2025 Non Book Reviews
 year: 2025
 publishedDate: '2026-02-06T16:58:37.325Z'
 slug: islamic-geometric-patterns
-wordCount: 5386
-readingTimeMinutes: 24
+wordCount: 5359
+readingTimeMinutes: 25
 originalUrl: https://www.astralcodexten.com/p/your-review-islamic-geometric-patterns
 source: acx
 tags:

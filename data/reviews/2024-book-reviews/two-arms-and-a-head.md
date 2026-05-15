@@ -7,7 +7,7 @@ contestName: 2024 Book Reviews
 year: 2024
 publishedDate: '2026-05-10T03:23:21.950Z'
 slug: two-arms-and-a-head
-wordCount: 9395
+wordCount: 9074
 readingTimeMinutes: 42
 originalUrl: https://www.astralcodexten.com/p/your-book-review-two-arms-and-a-head
 source: acx

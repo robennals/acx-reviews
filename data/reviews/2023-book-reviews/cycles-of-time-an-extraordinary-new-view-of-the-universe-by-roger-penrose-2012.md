@@ -7,7 +7,7 @@ contestName: 2023 Book Reviews
 year: 2023
 publishedDate: '2026-02-06T07:21:10.026Z'
 slug: cycles-of-time-an-extraordinary-new-view-of-the-universe-by-roger-penrose-2012
-wordCount: 2307
+wordCount: 2300
 readingTimeMinutes: 11
 originalUrl: https://docs.google.com/document/d/10CiEI7aDL2bMIdx7yayy3vlq0TJ8dO5LGnG7yIDPiw8
 source: gdoc

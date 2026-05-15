@@ -7,8 +7,8 @@ contestName: 2022 Book Reviews
 year: 2022
 publishedDate: '2026-02-06T07:24:08.700Z'
 slug: from-third-world-to-first-the-singapore-story-1965-2000-by-lee-kuan-yew
-wordCount: 6263
-readingTimeMinutes: 28
+wordCount: 6222
+readingTimeMinutes: 29
 originalUrl: https://docs.google.com/document/d/1pRQbRbEUwSH_jm94PI_ij-88swat7vQ4iNaNp6gd39g
 source: gdoc
 tags:

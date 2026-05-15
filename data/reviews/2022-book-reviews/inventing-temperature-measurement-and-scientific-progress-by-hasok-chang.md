@@ -7,8 +7,8 @@ contestName: 2022 Book Reviews
 year: 2022
 publishedDate: '2026-02-06T07:23:14.476Z'
 slug: inventing-temperature-measurement-and-scientific-progress-by-hasok-chang
-wordCount: 8161
-readingTimeMinutes: 37
+wordCount: 8158
+readingTimeMinutes: 38
 originalUrl: https://docs.google.com/document/d/1kQUUJhv-MpLawby2j4zXLZPDG6ligWd5xpIjH8UmWdw
 source: gdoc
 tags:

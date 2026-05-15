@@ -7,8 +7,8 @@ contestName: 2022 Book Reviews
 year: 2022
 publishedDate: '2026-02-06T07:24:08.696Z'
 slug: at-the-existentialist-caf-by-sarah-bakewell
-wordCount: 9510
-readingTimeMinutes: 43
+wordCount: 9507
+readingTimeMinutes: 44
 originalUrl: https://docs.google.com/document/d/1pRQbRbEUwSH_jm94PI_ij-88swat7vQ4iNaNp6gd39g
 source: gdoc
 tags:

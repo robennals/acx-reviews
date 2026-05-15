@@ -7,7 +7,7 @@ contestName: 2022 Book Reviews
 year: 2022
 publishedDate: '2026-02-06T07:22:32.817Z'
 slug: the-book-of-all-hours-series-vellum-and-ink-by-hal-duncan
-wordCount: 4340
+wordCount: 4320
 readingTimeMinutes: 20
 originalUrl: https://docs.google.com/document/d/100kMdSVFviZSSBvUyyEQPMNlvLptVQxHFD9i9wGuBWs
 source: gdoc

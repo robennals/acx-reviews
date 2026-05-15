@@ -7,8 +7,8 @@ contestName: 2025 Non Book Reviews
 year: 2025
 publishedDate: '2026-02-06T16:55:03.476Z'
 slug: jfk-assassination-conspiracy-theories
-wordCount: 8063
-readingTimeMinutes: 36
+wordCount: 8011
+readingTimeMinutes: 37
 originalUrl: https://docs.google.com/document/d/1a3q0Z2tuPLLbDeg5-pfEffkajGjrfPDwE7ZMs7uaWQs
 source: gdoc
 tags:

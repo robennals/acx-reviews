@@ -7,8 +7,8 @@ contestName: 2022 Book Reviews
 year: 2022
 publishedDate: '2026-02-06T07:22:32.823Z'
 slug: the-ecotechnic-future-by-john-michael-greer
-wordCount: 9990
-readingTimeMinutes: 45
+wordCount: 9946
+readingTimeMinutes: 46
 originalUrl: https://docs.google.com/document/d/100kMdSVFviZSSBvUyyEQPMNlvLptVQxHFD9i9wGuBWs
 source: gdoc
 tags:

@@ -7,7 +7,7 @@ contestName: 2025 Non Book Reviews
 year: 2025
 publishedDate: '2026-02-06T16:58:39.380Z'
 slug: mice-mechanisms-and-dementia
-wordCount: 7104
+wordCount: 6990
 readingTimeMinutes: 32
 originalUrl: https://www.astralcodexten.com/p/your-review-of-mice-mechanisms-and
 source: acx

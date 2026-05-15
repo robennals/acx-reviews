@@ -7,8 +7,8 @@ contestName: 2021 Book Reviews
 year: 2021
 publishedDate: '2026-02-05T15:44:11.787Z'
 slug: the-wizard-and-the-prophet
-wordCount: 5793
-readingTimeMinutes: 26
+wordCount: 5756
+readingTimeMinutes: 27
 originalUrl: https://astralcodexten.substack.com/p/your-book-review-the-wizard-and-the
 source: acx
 tags:

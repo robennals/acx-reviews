@@ -7,7 +7,7 @@ contestName: 2023 Book Reviews
 year: 2023
 publishedDate: '2023-01-01T00:00:00.000Z'
 slug: how-the-world-really-works-by-vaclav-smil-review-1
-wordCount: 3215
+wordCount: 3207
 readingTimeMinutes: 15
 originalUrl: https://docs.google.com/document/d/1vci14HMZ2UEJBs6mKCZZ2vHs-jVuPSsFsiN3cAENzXU
 source: gdoc

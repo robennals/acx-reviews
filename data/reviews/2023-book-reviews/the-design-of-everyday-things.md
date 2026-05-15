@@ -7,8 +7,8 @@ contestName: 2023 Book Reviews
 year: 2023
 publishedDate: '2023-01-01T00:00:00.000Z'
 slug: the-design-of-everyday-things
-wordCount: 5828
-readingTimeMinutes: 26
+wordCount: 5783
+readingTimeMinutes: 27
 originalUrl: https://docs.google.com/document/d/1AtGIIv371v0Yu35eNsIxJr67dw4SHOiGdKrqmoKt2hg
 source: gdoc
 tags:

@@ -7,7 +7,7 @@ contestName: 2022 Book Reviews
 year: 2022
 publishedDate: '2026-02-06T07:22:32.829Z'
 slug: the-mathematics-of-poker-by-bill-chen-and-jerrod-ankenman
-wordCount: 2789
+wordCount: 2781
 readingTimeMinutes: 13
 originalUrl: https://docs.google.com/document/d/100kMdSVFviZSSBvUyyEQPMNlvLptVQxHFD9i9wGuBWs
 source: gdoc

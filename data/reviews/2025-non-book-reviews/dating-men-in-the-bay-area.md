@@ -7,8 +7,8 @@ contestName: 2025 Non Book Reviews
 year: 2025
 publishedDate: '2026-02-06T16:58:35.261Z'
 slug: dating-men-in-the-bay-area
-wordCount: 15309
-readingTimeMinutes: 69
+wordCount: 15291
+readingTimeMinutes: 70
 originalUrl: https://www.astralcodexten.com/p/your-review-dating-men-in-the-bay
 source: acx
 tags:

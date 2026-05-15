@@ -7,8 +7,8 @@ contestName: 2025 Non Book Reviews
 year: 2025
 publishedDate: '2026-02-06T16:58:33.192Z'
 slug: the-acx-commentariat
-wordCount: 10085
-readingTimeMinutes: 45
+wordCount: 10034
+readingTimeMinutes: 46
 originalUrl: https://www.astralcodexten.com/p/your-review-the-astral-codex-ten
 source: acx
 tags:

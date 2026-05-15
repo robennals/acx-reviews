@@ -7,7 +7,7 @@ contestName: 2022 Book Reviews
 year: 2022
 publishedDate: '2026-02-06T07:21:54.175Z'
 slug: the-yom-kippur-war-the-epic-encounter-that-transformed-the-middle-east-by-abraham-rabinovich
-wordCount: 3695
+wordCount: 3641
 readingTimeMinutes: 17
 originalUrl: https://docs.google.com/document/d/1hFzjXliCAWjvheY-8Qd2fhbF79LnX0Xg6R9eqk9yIyI
 source: gdoc

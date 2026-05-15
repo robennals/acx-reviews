@@ -7,8 +7,8 @@ contestName: 2022 Book Reviews
 year: 2022
 publishedDate: '2026-02-05T15:57:35.421Z'
 slug: the-internationalists
-wordCount: 8928
-readingTimeMinutes: 40
+wordCount: 8840
+readingTimeMinutes: 41
 originalUrl: https://astralcodexten.substack.com/p/your-book-review-the-internationalists
 source: acx
 tags:

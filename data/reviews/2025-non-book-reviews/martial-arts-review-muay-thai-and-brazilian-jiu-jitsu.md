@@ -8,7 +8,7 @@ year: 2025
 publishedDate: '2026-02-06T16:55:03.480Z'
 slug: martial-arts-review-muay-thai-and-brazilian-jiu-jitsu
 wordCount: 5767
-readingTimeMinutes: 26
+readingTimeMinutes: 27
 originalUrl: https://docs.google.com/document/d/1a3q0Z2tuPLLbDeg5-pfEffkajGjrfPDwE7ZMs7uaWQs
 source: gdoc
 tags:

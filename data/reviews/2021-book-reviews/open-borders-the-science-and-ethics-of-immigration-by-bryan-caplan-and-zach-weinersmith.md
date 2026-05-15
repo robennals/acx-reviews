@@ -7,8 +7,8 @@ contestName: 2021 Book Reviews
 year: 2021
 publishedDate: '2026-02-06T07:21:29.572Z'
 slug: open-borders-the-science-and-ethics-of-immigration-by-bryan-caplan-and-zach-weinersmith
-wordCount: 4005
-readingTimeMinutes: 18
+wordCount: 3991
+readingTimeMinutes: 19
 originalUrl: https://docs.google.com/document/d/1xexFJ7h0vULMDE7N77q_MIzXoerexfe_CqqGEL6hEoQ
 source: gdoc
 tags:

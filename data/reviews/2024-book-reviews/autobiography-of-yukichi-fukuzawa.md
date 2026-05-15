@@ -7,7 +7,7 @@ contestName: 2024 Book Reviews
 year: 2024
 publishedDate: '2026-05-10T03:23:28.444Z'
 slug: autobiography-of-yukichi-fukuzawa
-wordCount: 5010
+wordCount: 5002
 readingTimeMinutes: 23
 originalUrl: https://www.astralcodexten.com/p/your-book-review-autobiography-of
 source: acx

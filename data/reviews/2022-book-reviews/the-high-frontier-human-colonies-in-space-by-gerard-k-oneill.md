@@ -7,7 +7,7 @@ contestName: 2022 Book Reviews
 year: 2022
 publishedDate: '2026-02-06T07:22:32.826Z'
 slug: the-high-frontier-human-colonies-in-space-by-gerard-k-oneill
-wordCount: 2087
+wordCount: 2084
 readingTimeMinutes: 10
 originalUrl: https://docs.google.com/document/d/100kMdSVFviZSSBvUyyEQPMNlvLptVQxHFD9i9wGuBWs
 source: gdoc

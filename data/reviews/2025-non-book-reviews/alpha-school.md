@@ -7,8 +7,8 @@ contestName: 2025 Non Book Reviews
 year: 2025
 publishedDate: '2026-02-06T16:58:31.109Z'
 slug: alpha-school
-wordCount: 17983
-readingTimeMinutes: 80
+wordCount: 17847
+readingTimeMinutes: 82
 originalUrl: https://www.astralcodexten.com/p/your-review-alpha-school
 source: acx
 tags:

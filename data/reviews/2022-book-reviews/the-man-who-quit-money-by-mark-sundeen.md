@@ -7,8 +7,8 @@ contestName: 2022 Book Reviews
 year: 2022
 publishedDate: '2026-02-06T07:22:32.829Z'
 slug: the-man-who-quit-money-by-mark-sundeen
-wordCount: 8959
-readingTimeMinutes: 40
+wordCount: 8864
+readingTimeMinutes: 41
 originalUrl: https://docs.google.com/document/d/100kMdSVFviZSSBvUyyEQPMNlvLptVQxHFD9i9wGuBWs
 source: gdoc
 tags:

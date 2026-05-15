@@ -7,7 +7,7 @@ contestName: 2023 Book Reviews
 year: 2023
 publishedDate: '2023-01-01T00:00:00.000Z'
 slug: range-why-generalists-triumph-in-a-specialized-world-by-david-epstein
-wordCount: 4361
+wordCount: 4343
 readingTimeMinutes: 20
 originalUrl: https://docs.google.com/document/d/1vci14HMZ2UEJBs6mKCZZ2vHs-jVuPSsFsiN3cAENzXU
 source: gdoc

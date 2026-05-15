@@ -7,8 +7,8 @@ contestName: 2021 Book Reviews
 year: 2021
 publishedDate: '2026-02-06T07:21:29.561Z'
 slug: antifragile-things-that-gain-from-disorder-by-nassim-nicholas-taleb
-wordCount: 4701
-readingTimeMinutes: 21
+wordCount: 4665
+readingTimeMinutes: 22
 originalUrl: https://docs.google.com/document/d/1xexFJ7h0vULMDE7N77q_MIzXoerexfe_CqqGEL6hEoQ
 source: gdoc
 tags:

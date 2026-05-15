@@ -7,8 +7,8 @@ contestName: 2023 Book Reviews
 year: 2023
 publishedDate: '2026-02-06T07:06:12.934Z'
 slug: on-the-marble-cliffs
-wordCount: 7088
-readingTimeMinutes: 32
+wordCount: 7057
+readingTimeMinutes: 33
 originalUrl: https://www.astralcodexten.com/p/your-book-review-on-the-marble-cliffs
 source: acx
 tags:

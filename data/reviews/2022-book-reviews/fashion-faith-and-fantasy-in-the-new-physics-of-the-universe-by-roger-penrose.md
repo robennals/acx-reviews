@@ -7,8 +7,8 @@ contestName: 2022 Book Reviews
 year: 2022
 publishedDate: '2026-02-06T07:24:08.699Z'
 slug: fashion-faith-and-fantasy-in-the-new-physics-of-the-universe-by-roger-penrose
-wordCount: 6274
-readingTimeMinutes: 28
+wordCount: 6240
+readingTimeMinutes: 29
 originalUrl: https://docs.google.com/document/d/1pRQbRbEUwSH_jm94PI_ij-88swat7vQ4iNaNp6gd39g
 source: gdoc
 tags:

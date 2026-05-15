@@ -7,7 +7,7 @@ contestName: 2023 Book Reviews
 year: 2023
 publishedDate: '2026-02-06T07:05:58.545Z'
 slug: njals-saga
-wordCount: 4361
+wordCount: 4326
 readingTimeMinutes: 20
 originalUrl: https://www.astralcodexten.com/p/your-book-review-njals-saga
 source: acx

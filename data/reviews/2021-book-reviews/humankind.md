@@ -7,8 +7,8 @@ contestName: 2021 Book Reviews
 year: 2021
 publishedDate: '2026-02-05T15:44:22.224Z'
 slug: humankind
-wordCount: 7365
-readingTimeMinutes: 33
+wordCount: 7361
+readingTimeMinutes: 34
 originalUrl: https://astralcodexten.substack.com/p/your-book-review-humankind
 source: acx
 tags:

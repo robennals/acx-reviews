@@ -7,8 +7,8 @@ contestName: 2022 Book Reviews
 year: 2022
 publishedDate: '2026-02-06T07:21:54.172Z'
 slug: the-republic-by-plato
-wordCount: 6707
-readingTimeMinutes: 30
+wordCount: 6688
+readingTimeMinutes: 31
 originalUrl: https://docs.google.com/document/d/1hFzjXliCAWjvheY-8Qd2fhbF79LnX0Xg6R9eqk9yIyI
 source: gdoc
 tags:

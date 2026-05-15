@@ -7,8 +7,8 @@ contestName: 2023 Book Reviews
 year: 2023
 publishedDate: '2023-01-01T00:00:00.000Z'
 slug: title-of-book-the-most-democratic-branch-how-the-courts-serve-america
-wordCount: 11822
-readingTimeMinutes: 53
+wordCount: 11807
+readingTimeMinutes: 54
 originalUrl: https://docs.google.com/document/d/1AtGIIv371v0Yu35eNsIxJr67dw4SHOiGdKrqmoKt2hg
 source: gdoc
 tags:

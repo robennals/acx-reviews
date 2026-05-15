@@ -7,8 +7,8 @@ contestName: 2024 Book Reviews
 year: 2024
 publishedDate: '2026-05-10T03:23:34.919Z'
 slug: the-family-that-couldnt-sleep
-wordCount: 10253
-readingTimeMinutes: 46
+wordCount: 10221
+readingTimeMinutes: 47
 originalUrl: https://www.astralcodexten.com/p/your-book-review-the-family-that
 source: acx
 tags:

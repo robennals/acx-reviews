@@ -7,7 +7,7 @@ contestName: 2022 Book Reviews
 year: 2022
 publishedDate: '2026-02-05T15:57:54.934Z'
 slug: exhaustion
-wordCount: 4107
+wordCount: 4101
 readingTimeMinutes: 19
 originalUrl: https://astralcodexten.substack.com/p/your-book-review-exhaustion
 source: acx

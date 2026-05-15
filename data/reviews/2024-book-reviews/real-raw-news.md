@@ -7,7 +7,7 @@ contestName: 2024 Book Reviews
 year: 2024
 publishedDate: '2026-05-10T03:23:39.500Z'
 slug: real-raw-news
-wordCount: 7526
+wordCount: 7412
 readingTimeMinutes: 34
 originalUrl: https://www.astralcodexten.com/p/your-book-review-real-raw-news
 source: acx

@@ -7,7 +7,7 @@ contestName: 2022 Book Reviews
 year: 2022
 publishedDate: '2026-02-05T15:57:32.947Z'
 slug: the-future-of-fusion-energy
-wordCount: 5743
+wordCount: 5670
 readingTimeMinutes: 26
 originalUrl: https://astralcodexten.substack.com/p/your-book-review-the-future-of-fusion
 source: acx

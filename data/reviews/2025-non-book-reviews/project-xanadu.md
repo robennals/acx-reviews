@@ -7,7 +7,7 @@ contestName: 2025 Non Book Reviews
 year: 2025
 publishedDate: '2026-02-06T16:58:47.906Z'
 slug: project-xanadu
-wordCount: 7485
+wordCount: 7360
 readingTimeMinutes: 34
 originalUrl: https://www.astralcodexten.com/p/your-review-project-xanadu-the-internet
 source: acx

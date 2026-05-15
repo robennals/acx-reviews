@@ -7,7 +7,7 @@ contestName: 2022 Book Reviews
 year: 2022
 publishedDate: '2026-02-06T07:24:08.702Z'
 slug: history-has-begun-by-bruno-macaes
-wordCount: 2960
+wordCount: 2957
 readingTimeMinutes: 14
 originalUrl: https://docs.google.com/document/d/1pRQbRbEUwSH_jm94PI_ij-88swat7vQ4iNaNp6gd39g
 source: gdoc

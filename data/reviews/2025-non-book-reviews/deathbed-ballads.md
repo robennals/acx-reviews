@@ -7,8 +7,8 @@ contestName: 2025 Non Book Reviews
 year: 2025
 publishedDate: '2026-02-06T16:57:48.926Z'
 slug: deathbed-ballads
-wordCount: 14292
-readingTimeMinutes: 64
+wordCount: 14089
+readingTimeMinutes: 65
 originalUrl: https://docs.google.com/document/d/1hjIUcKi-vIM9RGRZDWPRyUtzZLlVrpaY6Jy81iZVYi4
 source: gdoc
 tags:

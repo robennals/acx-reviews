@@ -7,8 +7,8 @@ contestName: 2021 Book Reviews
 year: 2021
 publishedDate: '2026-02-05T15:43:56.979Z'
 slug: progress-and-poverty
-wordCount: 18646
-readingTimeMinutes: 83
+wordCount: 18424
+readingTimeMinutes: 84
 originalUrl: https://astralcodexten.substack.com/p/your-book-review-progress-and-poverty
 source: acx
 tags:

@@ -7,7 +7,7 @@ contestName: 2025 Non Book Reviews
 year: 2025
 publishedDate: '2026-02-06T16:58:52.463Z'
 slug: the-synaptic-plasticity-and-memory-hypothesis
-wordCount: 10620
+wordCount: 10539
 readingTimeMinutes: 48
 originalUrl: https://www.astralcodexten.com/p/your-review-the-synaptic-plasticity
 source: acx

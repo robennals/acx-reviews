@@ -7,8 +7,8 @@ contestName: 2025 Non Book Reviews
 year: 2025
 publishedDate: '2026-02-06T16:55:59.404Z'
 slug: the-watergate-affair
-wordCount: 8445
-readingTimeMinutes: 38
+wordCount: 8426
+readingTimeMinutes: 39
 originalUrl: https://docs.google.com/document/d/1jYVJFIz5-aMi0LCgsC9AN6BncJDNVGaMU37QmwZ1vzA
 source: gdoc
 tags:

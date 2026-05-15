@@ -7,7 +7,7 @@ contestName: 2023 Book Reviews
 year: 2023
 publishedDate: '2026-02-06T07:06:10.465Z'
 slug: the-laws-of-trading
-wordCount: 6335
+wordCount: 6259
 readingTimeMinutes: 29
 originalUrl: https://www.astralcodexten.com/p/your-book-review-the-laws-of-trading
 source: acx

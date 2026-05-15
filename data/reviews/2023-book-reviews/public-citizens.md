@@ -7,7 +7,7 @@ contestName: 2023 Book Reviews
 year: 2023
 publishedDate: '2026-02-06T07:06:00.853Z'
 slug: public-citizens
-wordCount: 5438
+wordCount: 5433
 readingTimeMinutes: 25
 originalUrl: https://www.astralcodexten.com/p/your-book-review-public-citizens
 source: acx

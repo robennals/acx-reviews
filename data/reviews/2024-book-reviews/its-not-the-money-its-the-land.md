@@ -7,7 +7,7 @@ contestName: 2024 Book Reviews
 year: 2024
 publishedDate: '2026-02-06T16:47:49.312Z'
 slug: its-not-the-money-its-the-land
-wordCount: 4558
+wordCount: 4554
 readingTimeMinutes: 21
 originalUrl: https://docs.google.com/document/d/1QiotH3aGFgNLGqsIHTK_Plm_gem2E4l2C2ctyGJd0jY
 source: gdoc

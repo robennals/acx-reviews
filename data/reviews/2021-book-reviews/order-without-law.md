@@ -7,8 +7,8 @@ contestName: 2021 Book Reviews
 year: 2021
 publishedDate: '2026-02-05T15:44:03.331Z'
 slug: order-without-law
-wordCount: 14758
-readingTimeMinutes: 66
+wordCount: 14719
+readingTimeMinutes: 67
 originalUrl: https://astralcodexten.substack.com/p/your-book-review-order-without-law
 source: acx
 tags:

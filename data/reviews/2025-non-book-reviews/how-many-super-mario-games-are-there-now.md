@@ -7,7 +7,7 @@ contestName: 2025 Non Book Reviews
 year: 2025
 publishedDate: '2026-02-06T16:57:23.283Z'
 slug: how-many-super-mario-games-are-there-now
-wordCount: 6543
+wordCount: 6504
 readingTimeMinutes: 30
 originalUrl: https://docs.google.com/document/d/1B3YxYxLVFjKGicaEkqvt353kt0uimn0PSUQv1PyaHuI
 source: gdoc

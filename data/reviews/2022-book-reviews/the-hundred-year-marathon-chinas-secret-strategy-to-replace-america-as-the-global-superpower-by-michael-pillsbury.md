@@ -7,8 +7,8 @@ contestName: 2022 Book Reviews
 year: 2022
 publishedDate: '2026-02-06T07:22:32.826Z'
 slug: the-hundred-year-marathon-chinas-secret-strategy-to-replace-america-as-the-global-superpower-by-michael-pillsbury
-wordCount: 12840
-readingTimeMinutes: 58
+wordCount: 12819
+readingTimeMinutes: 59
 originalUrl: https://docs.google.com/document/d/100kMdSVFviZSSBvUyyEQPMNlvLptVQxHFD9i9wGuBWs
 source: gdoc
 tags:
