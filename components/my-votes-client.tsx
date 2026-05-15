@@ -78,7 +78,7 @@ export function MyVotesClient({ reviewLookup, activeContestYear }: Props) {
         {entries.map((e) => (
           <div
             key={e.reviewId}
-            className="flex items-center gap-3 px-4 py-3 border-b border-border last:border-b-0 hover:bg-muted/30"
+            className="flex items-center gap-3 px-4 py-3 border-b border-border last:border-b-0"
           >
             <div className="flex-1 min-w-0">
               {e.slug ? (
