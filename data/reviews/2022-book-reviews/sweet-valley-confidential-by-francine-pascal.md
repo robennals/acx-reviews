@@ -36,17 +36,17 @@ The second problem is everything else. The books are quite short and try to cove
 
  In the fourth book published in 1983, Robin Wilson wants to join the high school sorority run by Jessica but is fat. Here’s how the ghost writer emphasizes the point.
 
->     Robin plopped down on the sofa, rummaged around in her purse for something, and finally came up with a large chocolate bar. She unwrapped it and hungrily started munching.
+> Robin plopped down on the sofa, rummaged around in her purse for something, and finally came up with a large chocolate bar. She unwrapped it and hungrily started munching.
 >
->     “You’re really lucky, Liz, having a terrific sister like Jessica.” The chocolate bar was disappearing fast.
+> “You’re really lucky, Liz, having a terrific sister like Jessica.” The chocolate bar was disappearing fast.
 >
->     “That’s me, all right, lucky Liz,” she replied dryly, hypnotized by Robin’s rhythmic chewing.
+> “That’s me, all right, lucky Liz,” she replied dryly, hypnotized by Robin’s rhythmic chewing.
 >
->     “Robin, doesn’t eating like that make you”—don’t say “fat,” she warned herself—“break out?”
+> “Robin, doesn’t eating like that make you”—don’t say “fat,” she warned herself—“break out?”
 >
->     “Oh, no,” said Robin, licking her sticky fingers. “I never get zits, just pounds. But I just wasn’t meant to be slim like you and Jessica. It’s got something to do with my bones—or is it my metabolism? Anyway, it’s just my sad fate.”
+> “Oh, no,” said Robin, licking her sticky fingers. “I never get zits, just pounds. But I just wasn’t meant to be slim like you and Jessica. It’s got something to do with my bones—or is it my metabolism? Anyway, it’s just my sad fate.”
 >
->     Elizabeth looked at Robin dubiously. She was convinced Robin’s heaviness was due to the way she ate— especially if this was typical.
+> Elizabeth looked at Robin dubiously. She was convinced Robin’s heaviness was due to the way she ate— especially if this was typical.
 
 The dangers of being fat or gaining weight is a recurring motif in the Sweet Valley Universe. (See for instance Sweet Valley Twins #1 and #117). In Sweet Valley University, Elizabeth’s roommate supports the white supremacist secret society terrorizing town- but her real evil is revealed when she manipulates Elizabeth into over-eating to the point where _she and Jessica are no longer identical!_ If these books were written now, Robin would reconcile herself to her fatness and boldly denounce her haters. But in the 80s, Robin responded with aerobics.
 

@@ -88,7 +88,7 @@ Because he thought it so absurd, K. might have forgotten about his arrest entire
 
 > _“And you sit there coolly with a criminal case hanging round your neck?” cried his uncle, his voice growing louder and louder._
 >
->          _“The cooler I am, the better in the end,” said K. wearily._
+> _“The cooler I am, the better in the end,” said K. wearily._
 >
 > _”Joseph, my dear Joseph, think of yourself, think of your relatives, think of our good name. You have been a credit to us until now, you can’t become a family disgrace.”_
 

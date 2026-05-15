@@ -284,7 +284,7 @@ Now, this brings us back to Pooh’s _kleos_. Like Odysseus, Pooh is the sort of
 
 > “At a quarter to two
 >
->     (Only it was quarter to eleven really),
+> (Only it was quarter to eleven really),
 >
 > _I_ found the Tail!”
 
@@ -370,9 +370,9 @@ And this is the song Pooh writes for him:
 
 > _Here lies a tree which Owl (a bird)_
 >
->     _Was fond of when it stood on end,_
+> _Was fond of when it stood on end,_
 >
->     _And Owl was talking to a friend_
+> _And Owl was talking to a friend_
 >
 > _Called Me (in case you hadn't heard)_
 >
@@ -380,9 +380,9 @@ And this is the song Pooh writes for him:
 >
 > _For lo! the wind was blusterous_
 >
->     _And flattened out his favourite tree;_
+> _And flattened out his favourite tree;_
 >
->     _And things looked bad for him and we—_
+> _And things looked bad for him and we—_
 >
 > _Looked bad, I mean, for he and us—_
 >
@@ -390,9 +390,9 @@ And this is the song Pooh writes for him:
 >
 > _Then Piglet (PIGLET) thought a thing:_
 >
->     _“Courage!” he said “There's always hope._
+> _“Courage!” he said “There's always hope._
 >
->     _I want a thinnish piece of rope._
+> _I want a thinnish piece of rope._
 >
 > _Or, if there isn't any, bring_
 >
@@ -400,11 +400,11 @@ And this is the song Pooh writes for him:
 >
 > _So to the letter-box he rose,_
 >
->     _While Pooh and Owl said “Oh!”_
+> _While Pooh and Owl said “Oh!”_
 >
->         _and “Hum!”_
+> _and “Hum!”_
 >
->     _And where the letters always come_
+> _And where the letters always come_
 >
 > _(Called “LETTERS ONLY”) Piglet sqoze_
 >
@@ -414,7 +414,7 @@ And this is the song Pooh writes for him:
 
     _Did Piglet tremble? Did he blinch?_
 
->     _No, No, he struggled inch by inch_
+> _No, No, he struggled inch by inch_
 >
 > _Through LETTERS ONLY, as I know_
 >
@@ -422,9 +422,9 @@ And this is the song Pooh writes for him:
 >
 > _He ran and ran, and then he stood_
 >
->     _And shouted, “Help for Owl, a bird,_
+> _And shouted, “Help for Owl, a bird,_
 >
->     _And Pooh, a bear!” until he heard_
+> _And Pooh, a bear!” until he heard_
 >
 > _The others coming through the wood_
 >
@@ -432,9 +432,9 @@ And this is the song Pooh writes for him:
 >
 > _“Help-help and Rescue!” Piglet cried,_
 >
->     _And showed the others where to go._
+> _And showed the others where to go._
 >
->     _Sing ho! for Piglet (PIGLET) ho!_
+> _Sing ho! for Piglet (PIGLET) ho!_
 >
 > _And soon the door was opened wide_
 >

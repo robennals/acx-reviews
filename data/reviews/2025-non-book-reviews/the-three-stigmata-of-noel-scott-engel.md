@@ -61,7 +61,7 @@ But anyone will tell you that the second murder is easier than the first. Having
 >
 > WILLARD:  They told me that you had gone totally insane
 >
->                    and that your methods were unsound.
+> and that your methods were unsound.
 >
 > KURTZ:      Are my methods unsound?
 >

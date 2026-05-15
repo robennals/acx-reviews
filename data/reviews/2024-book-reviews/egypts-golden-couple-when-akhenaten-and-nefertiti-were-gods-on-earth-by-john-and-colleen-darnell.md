@@ -208,7 +208,7 @@ And lastly, on how Akhenaten (here referred to by another of his names, _Neferkh
 
 > There is no other one who knows you,  
 >  except for your son, Neferkheperure, Unique One of Re,  
->    whom you cause to become aware of your plans and your power
+> whom you cause to become aware of your plans and your power
 
 As it turns out, this last bit may be the most important clue to explain Akhenaten’s theology. It seems that the pharaoh’s new cult had the effect of concentrating religious power onto his own person. “People can see the disk and feel its heat,” write the Darnells, “but Aten is otherwise mute. Unlike other gods, Aten does not speak to anyone except the royal family. . . . At Akhet-Aten, even the high priests of Aten only interacted directly with the king, who acted as the intermediary between the priests and the gods they served.”
 

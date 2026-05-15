@@ -79,11 +79,11 @@ Cavafy mocks, but recognises, beauty’s seduction, and its ability to fool even
 
 Cavafy’s humour reaches its zenith in _[Waiting for the Barbarians](https://www.onassis.org/initiatives/cavafy-archive/the-canon/waiting-for-the-barbarians)_. Here, the citizens of a Roman Empire-like state are waiting to surrender to barbaric invaders. The whole poem pokes fun at the civilised polity’s decadence, but most of all at its silliness: the praetors wear their finery and sparkling jewellery because ‘things like that dazzle the barbarians’; but clearly, they dazzle those refined and sophisticated praetors themselves – otherwise, why would they have them in the first place? The poem’s ending is hilarious as much as it is tragic: the state is plunged into despair because
 
->            night has fallen and the barbarians have not come.
+> night has fallen and the barbarians have not come.
 >
->             And some who have just returned from the border say
+> And some who have just returned from the border say
 >
->             there are no barbarians any longer.
+> there are no barbarians any longer.
 >
 > And now, what’s going to happen to us without barbarians?
 >
@@ -181,7 +181,7 @@ As with sense of duty, so it is with stoicism: it confers dignity (and again, co
 >
 > And she boarded the ship, going toward whatever lay “in the
 >
->             hands of the gods.”
+> hands of the gods.”
 
 Internalising this means letting go of the stress and sense of helplessness of trying to affect things one cannot influence (c.f. [the Serenity Prayer](https://en.wikipedia.org/wiki/Serenity_Prayer)).
 

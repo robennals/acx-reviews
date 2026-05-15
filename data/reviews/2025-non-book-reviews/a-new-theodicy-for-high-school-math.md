@@ -83,7 +83,7 @@ Have we already forgotten what it’s like to be a teenager? If my parents or te
 
 ![](https://acximages.ennals.org/images/2025-non-book-reviews/3ec1fd64863c3854.png)
 
->          “Why are you making me learn calculus?”
+> “Why are you making me learn calculus?”
 
 And here’s a sociological observation: a lot of the new atheists (in my experience, angsty /r/atheism types) were former Christians that, having fully grappled with the problem of evil, didn’t just lose their faith in God, but actively turned against it. The sentiment is familiar: even if there _was_ a God, why worship him? He’s a jerk, after all.  
 

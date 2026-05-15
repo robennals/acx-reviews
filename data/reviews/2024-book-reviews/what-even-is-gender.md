@@ -40,7 +40,7 @@ BG give the following sketch:
 
 >   
 > “1  People have a more-or-less stable inner trait called “gender identity”.  
->                                                                                                                                          2  One’s “gender identity” is what disposes one to think of oneself as a “woman” or as a “man” (or, perhaps, as both or as neither).  
+> 2  One’s “gender identity” is what disposes one to think of oneself as a “woman” or as a “man” (or, perhaps, as both or as neither).  
 >                                                 
 >
 *                                                                                                    3  One’s “gender identity” is what disposes one to favor or avoid stereotypically feminine or masculine behaviors (or otherwise gendered behaviors).  

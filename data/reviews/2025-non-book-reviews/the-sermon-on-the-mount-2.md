@@ -46,35 +46,35 @@ The Sermon on the Mount begins with a series of statements known today as the Be
 
 > _Blessed are the poor in spirit,_
 >
->     _for theirs is the kingdom of heaven._
+> _for theirs is the kingdom of heaven._
 >
 >  _Blessed are those who mourn,_
 >
->     _for they will be comforted._
+> _for they will be comforted._
 >
 >  _Blessed are the meek,_
 >
->     _for they will inherit the earth._
+> _for they will inherit the earth._
 >
 >  _Blessed are those who hunger and thirst for righteousness,_
 >
->     _for they will be filled._
+> _for they will be filled._
 >
 >  _Blessed are the merciful,_
 >
->     _for they will be shown mercy._
+> _for they will be shown mercy._
 >
 > _Blessed are the pure in heart,_
 >
->     _for they will see God._
+> _for they will see God._
 >
 >  _Blessed are the peacemakers,_
 >
->     _for they will be called sons of God._
+> _for they will be called sons of God._
 >
 > _Blessed are those who are persecuted because of righteousness,_
 >
->     _for theirs is the Kingdom of Heaven.”_
+> _for theirs is the Kingdom of Heaven.”_
 
 To a modern audience, and particularly to those who grew up in the faith, the Beatitudes can be a bit confusing. Some of them are so straightforward that my mind tends to flow over them without taking notice, like “blessed are the peacemakers” or “blessed are the merciful.” Others are strange and confusing, like “blessed are the poor in spirit” or the most famous beatitude, “blessed are the meek”. The Beatitudes are never explained or referenced again. They just kind of happen. A modern Westerner reading them today will likely come away a bit confused why they’re there.
 
