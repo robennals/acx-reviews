@@ -21,7 +21,14 @@ export function VotingBanner({ year }: { year?: number }) {
     <div className="bg-amber-50 border-b border-amber-200 text-amber-900">
       <div className="max-w-4xl mx-auto px-6 sm:px-8 py-3 text-sm flex flex-wrap items-center justify-between gap-2">
         <span>
-          Voting is open for the <strong>{contestTitle}</strong>. Rate any reviews you've read.
+          Voting is open for the{' '}
+          <Link
+            href={`/?year=${contestYear}`}
+            className="font-bold underline hover:text-amber-700"
+          >
+            {contestTitle}
+          </Link>
+          . Rate any reviews you&rsquo;ve read.
         </span>
         <span className="flex items-center gap-3">
           {isAuthed && n > 0 && (
