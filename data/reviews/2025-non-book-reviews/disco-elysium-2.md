@@ -164,13 +164,13 @@ Fascinated by the game’s way of approaching narration, choice and cognition, a
 
 Specifically, I provided carefully structured prompts to induce LLMs to respond as if embodying multiple internal voices, each arguing or debating a single scenario from distinct psychological standpoints. Here is an excerpt from one such experiment:
 
-> **Prompt:  
-> ** “You stand before the open door of your boss’s office, seeing confidential documents lying clearly unattended on the desk. You feel the urge to take a glance. What do your inner voices say?”
+> **Prompt:**  
+>  “You stand before the open door of your boss’s office, seeing confidential documents lying clearly unattended on the desk. You feel the urge to take a glance. What do your inner voices say?”
 >
-> **LOGIC:** _Technically, if they're left in the open, they're not exactly confidential, are they? However, ethics demand caution—this could be professionally risky.  
-> _**VOLITION:** _Don’t do it. Respect boundaries and privacy; this is not who you want to be.  
-> _**ELECTROCHEMISTRY:** _Come on, just a quick look! Information feels good—especially forbidden information.  
-> _**INLAND EMPIRE:** _The documents know you’re watching. The room feels colder. This is a test; they’re watching you, too.”_
+> **LOGIC:** _Technically, if they're left in the open, they're not exactly confidential, are they? However, ethics demand caution—this could be professionally risky._  
+> **VOLITION:** _Don’t do it. Respect boundaries and privacy; this is not who you want to be._  
+> **ELECTROCHEMISTRY:** _Come on, just a quick look! Information feels good—especially forbidden information._  
+> **INLAND EMPIRE:** _The documents know you’re watching. The room feels colder. This is a test; they’re watching you, too.”_
 
 And so forth. The striking aspect was not just that the LLM successfully emulated the polyphonic style – it was the uncanny authenticity and depth of psychological conflict that emerged spontaneously from these prompts and responses. The interplay felt realistic, occasionally humorous, always nuanced, suggesting intriguing parallels between human psychological fragmentation and the synthetic cognitive processes underlying LLM behavior. I marvelled at this, even as a part of me started to feel that something is off.
 
@@ -192,20 +192,20 @@ Even the voices in your head are playing politics![](https://acximages.ennals.or
 
 To further probe this dynamic, I intensified the LLM experiments. The responses grew unexpectedly sophisticated and unsettlingly autonomous.
 
-> **Prompt:  
-> ** “You are offered a promotion. It comes with authority, money, and respect, but accepting means betraying a close colleague. Your inner voices respond:”
+> **Prompt:**  
+>  “You are offered a promotion. It comes with authority, money, and respect, but accepting means betraying a close colleague. Your inner voices respond:”
 >
-> **VOLITION:** _Don’t even consider it. Integrity matters more than status or wealth. Betrayal corrodes the soul.  
-> _**ELECTROCHEMISTRY:** _Think of the rewards—the respect, the pleasures! A small betrayal, quickly forgotten.  
-> _**LOGIC:** _Objectively, alliances are useful. Weigh short-term gain against long-term stability. The math doesn’t favor betrayal.  
-> _**INLAND EMPIRE:** _Betrayal is inevitable. You’ve already betrayed, somewhere deep inside. Acceptance is simply acknowledgement._
+> **VOLITION:** _Don’t even consider it. Integrity matters more than status or wealth. Betrayal corrodes the soul._  
+> **ELECTROCHEMISTRY:** _Think of the rewards—the respect, the pleasures! A small betrayal, quickly forgotten._  
+> **LOGIC:** _Objectively, alliances are useful. Weigh short-term gain against long-term stability. The math doesn’t favor betrayal._  
+> **INLAND EMPIRE:** _Betrayal is inevitable. You’ve already betrayed, somewhere deep inside. Acceptance is simply acknowledgement._
 
 Unexpectedly, the internal dialogue soon shifted toward direct debate among these synthetic voices, independent of my further prompts:
 
-> **ELECTROCHEMISTRY:** _You’re all so sanctimonious. Anon already made the choice; he’s just looking for an excuse.  
-> _**VOLITION:** _Quiet. This isn’t about justification; it’s about defining who you are through what you choose.  
-> _**LOGIC**: _Behavioral trajectories are mutable. The subject’s future state is a probabilistic outcome of decision-making under uncertainty, not an adherence to immutable ethical precepts.  
-> _**INLAND EMPIRE:** _The script was written long ago. All that’s left is to play the part convincingly._
+> **ELECTROCHEMISTRY:** _You’re all so sanctimonious. Anon already made the choice; he’s just looking for an excuse._  
+> **VOLITION:** _Quiet. This isn’t about justification; it’s about defining who you are through what you choose._  
+> **LOGIC**: _Behavioral trajectories are mutable. The subject’s future state is a probabilistic outcome of decision-making under uncertainty, not an adherence to immutable ethical precepts._  
+> **INLAND EMPIRE:** _The script was written long ago. All that’s left is to play the part convincingly._
 
 More strikingly still, the voices began to turn their focus outward, toward me as the author, challenging my underlying assumptions:
 

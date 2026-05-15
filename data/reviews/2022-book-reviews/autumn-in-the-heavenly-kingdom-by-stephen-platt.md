@@ -35,11 +35,11 @@ In the early 19th century, one family of poor farmers in southern China believed
 
 Let’s take a break! How would you do on the imperial examination? Here are some sample questions from historical exams. Keep in mind, for a good score, you have to
 
-1.       Show a deep understanding of all the texts referenced, both explicitly and implicitly. For best results you should perfectly memorize the entire canon of Confucian literature.
+> 1.       Show a deep understanding of all the texts referenced, both explicitly and implicitly. For best results you should perfectly memorize the entire canon of Confucian literature.
 >
-2.       Give an answer consistent with the Confucian school of thought dominant in the palace at the time. Don’t ask you parents for help! The school of thought may have changed since they went through the mill.
+> 2.       Give an answer consistent with the Confucian school of thought dominant in the palace at the time. Don’t ask you parents for help! The school of thought may have changed since they went through the mill.
 >
-3.       Make sure to write using perfect prose and handwriting. Also, maintain your mental sharpness, since you have to do this for 60 hours straight.
+> 3.       Make sure to write using perfect prose and handwriting. Also, maintain your mental sharpness, since you have to do this for 60 hours straight.
 
 Stop whatever you are doing right now and pick up your calligraphy brush. These questions are excerpts from the 1904 metropolitan exam, held every three years in the capital. (Translation by [Bofeng Hu](https://www.quora.com/profile/Bofeng-Hu-3))[2]
 

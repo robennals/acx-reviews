@@ -152,8 +152,8 @@ On January 7, 2023, Tyre Nichols was pulled out of his car and beaten to death b
 
 Elie Mystal, in [The Nation](https://www.thenation.com/article/society/tyre-nichols-murder-cops-supremacy/), wrote:
 
-> “You could drop a Martian in the middle of a local prosecutor’s office and, unless they actively and consciously looked for ways to subvert and sabotage the system, they too would soon start charging Black suspects with stunning haste while using their discretion to aid and appease white wrongdoers.  
->   
+> “You could drop a Martian in the middle of a local prosecutor’s office and, unless they actively and consciously looked for ways to subvert and sabotage the system, they too would soon start charging Black suspects with stunning haste while using their discretion to aid and appease white wrongdoers.
+>
 > And if you dropped that same Martian into a patrol car, it wouldn’t take long before they got out of that car and started cracking Black skulls.”
 
 How would you ever disprove such a belief?

@@ -19,7 +19,6 @@ tags:
 
 Any review of Judaism must be insufficient, skewed. Overreaching statements, bombast, long digressions agonisingly cut. I’m sorry in advance. Here we go.
 
-
 This review will be centered around Judaism’s four great strengths: law, persecution, comedy, and hats. At the end, we might spare a few sentences for her four great weaknesses: food, dance, fashion, and Tay-Sachs.
 
 ## Law
@@ -60,7 +59,8 @@ Around 200 AD, a Jewish leader called Judah the Prince sees his chance. Renowned
 
 ![](https://acximages.ennals.org/images/2025-non-book-reviews/a07027157fd90450.png)
 
-_For a good time, compare the opening passage of_ _[Book 2 of the ‘Meditations’](https://classics.mit.edu/Antoninus/meditations.2.two.html)_ _with Judah the Prince’s personal prayer at the bottom of_ _[Berakhot 16b](https://www.sefaria.org/Berakhot.16b?lang=en)_ 
+_For a good time, compare the opening passage of_ _[Book 2 of the ‘Meditations’](https://classics.mit.edu/Antoninus/meditations.2.two.html)_   
+_with Judah the Prince’s personal prayer at the bottom of_ _[Berakhot 16b](https://www.sefaria.org/Berakhot.16b?lang=en)_ 
 
 Judah the Prince assembles the learned men of his day, and redacts the Oral Law into a single unified text called “the Mishnah” (lit. “repetition”; “recital”; “sharpening”; “toothmaker”; even “teaching”). Omissions and contradictions are ironed out; supplementary materials considered canonical-but-superfluous make their way into less-central compilations.
 
@@ -92,8 +92,7 @@ _“From what time does one recite Shema in the evening?” the Talmud begins, p
 
 Although most people studying the Talmud today are missing a huge amount of context, they can (and do) still greatly exert their minds in following the logic of her arguments. And while this tragic misunderstanding yet persists - that the Classical sages were only playing Absurd Divine Legal Sudoku - the study of the Talmud still trains a mind to think in a robust and useful way. Although [a point of hot contention](https://pubmed.ncbi.nlm.nih.gov/16867211/) (like everything else), it is often thought that this rigour is what has honed the Jewish mind to master other domains like economics, chemistry, literature, and mathematics. In _The Polgar Variant_, László Polgár, who validated his pedagogical methodology by raising his three daughters into chess grandmasters, genuflects briefly, but tantalisingly, to the Talmud.
 
-![](https://acximages.ennals.org/images/2025-non-book-reviews/1b1a4061ef4facaf.png)_  
-A fun image to drop into various conversations, I think._
+![](https://acximages.ennals.org/images/2025-non-book-reviews/1b1a4061ef4facaf.png)_A fun image to drop into various conversations, I think._
 
 I have a friend who was ordained as a rabbi, then went to law school. “After yeshiva, law school was _easy_,” he told me.
 
@@ -171,14 +170,13 @@ Another thing that persecution helps with is being funny. Use your pain, they sa
 
 We can distinguish fairly neatly between Jewish comedy and comedy by Jews. In the latter, you have your Jerries Seinfeld, your Rodneys Dangerfield, your Jons Stewart. In the former, it’s a different breed. Mel Brooks might be the only true master of Jewish comedy to break through to broader popularity, but from within the tribe, the type specimen is [a man named Jackie Mason](https://www.youtube.com/watch?v=0hz8oCT2HTc).
 
-![](https://acximages.ennals.org/images/2025-non-book-reviews/9b7c4c453c638fbe.png)_"My grandfather always said that I shouldn't watch my money. That I should watch my health.  
-So while I was watching my health, someone stole my money. It was my grandfather."_
+![](https://acximages.ennals.org/images/2025-non-book-reviews/9b7c4c453c638fbe.png)_"My grandfather always said that I shouldn't watch my money. That I should watch my health._  
+_So while I was watching my health, someone stole my money. It was my grandfather."_
 
 We’re a neurotic people, with plenty to be neurotic about. It’s hard to say that the comedy is always helping, rather than making things worse. But when it does help, it seems to have two main benefits. An old Hassidic tale:
 
 > Reb Simcha Bunim of Przysucha was walking by a river and saw a man drowning. He called to the man, “give my regards to the Leviathan!”
 >
->   
 > The man laughed, and so Reb Bunim was able to reach out and save him.
 
 I mentioned this story to a friend, who said “it’s obviously about depression right? Can we agree that’s what this story is about?”
@@ -237,8 +235,7 @@ It’s called a kippah (lit. “cover”) or yarmulke (lit. “fear of the King�
 
 OK, so far so good. The kippah above is a fairly standard Chabad design. Here’s a selection of other designs, along with [attached signaling information](https://www.pewresearch.org/short-reads/2016/04/20/what-different-styles-of-head-coverings-say-about-israeli-jewish-men/):
 
-![](https://acximages.ennals.org/images/2025-non-book-reviews/d1c6904b0d731ad1.png)_  
-Hard to believe this is straight from Pew._
+![](https://acximages.ennals.org/images/2025-non-book-reviews/d1c6904b0d731ad1.png)_Hard to believe this is straight from Pew._
 
 If you’re sufficiently attuned to the Matrix, you can tell all sorts of things about a Jew from his hat. There’s the basic divide between the black kippot and the knitted kippot. You can often tell how serious a guy is in his faith (or how much he wants his faith to be taken as a core part of his identity) by the size of his kippah. And he’ll sometimes tell you explicitly about his political or sports or pop culture allegiances too.
 
@@ -250,8 +247,7 @@ But once you get into the ultra-Orthodox world, you’re normally seeing an addi
 
 At first glance, they’re all dressed the same, right? But the longer you look, the more you notice subtle differences. These differences speak volumes to those who have ears to hear. I recently asked a good friend and mentor of mine to explain his hat.
 
-![](https://acximages.ennals.org/images/2025-non-book-reviews/c8be74394bf8aef1.png)_  
-His hat looks like this._
+![](https://acximages.ennals.org/images/2025-non-book-reviews/c8be74394bf8aef1.png)_His hat looks like this._
 
 He said, and I quote here almost verbatim:
 
@@ -261,15 +257,14 @@ I wish I knew enough to explain what is going on here. Really, I do. I thought a
 
 But, in the end, I decided that my ignorance would be a teaching moment. The lesson is important, and it’s kinda the same as the point I started with.
 
-
 Even though I’m the guy teaching you about Judaism, I still barely have any idea what’s going on. And to be honest, I’m not entirely sure that the vastness of the machinery can be fully understood by a single person. There are people who spend their whole lives on it, and still barely grasp their own small section of the edifice.
 
 As Rabbi Eliezer [said on his deathbed](https://www.sefaria.org/Sanhedrin.68a.5?lang=en):
 
-> I have learned much Torah, and I have taught much Torah.  
->   
-> I have learned much Torah, yet I took from my teachers like a dog lapping at the ocean.  
->   
+> I have learned much Torah, and I have taught much Torah.
+>
+> I have learned much Torah, yet I took from my teachers like a dog lapping at the ocean.
+>
 > I have taught my Torah, yet my students took from me like the quill draws from the inkwell.
 
 So, please, take everything I’ve said with a sense of perspective.

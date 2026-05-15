@@ -61,8 +61,8 @@ What is leisure? In modern parlance, leisure is the absence of work. Colloquiall
 
 Pieper tries to recover the ‘original’ meaning of leisure. Leisure is not the absence of work. It is in fact the _opposite_ of work. Where work is activity, leisure is non-activity. Where work is effortful, leisure is effortless. Where work serves a social function, leisure is subordinate to no purpose.
 
-> “Against the exclusiveness of the paradigm of work as activity, first of all, there is leisure as "non-activity"— an inner absence of preoccupation, a calm, an ability to let things go, to be quiet.  
->   
+> “Against the exclusiveness of the paradigm of work as activity, first of all, there is leisure as "non-activity"— an inner absence of preoccupation, a calm, an ability to let things go, to be quiet.
+>
 > Second, against the exclusiveness of the paradigm of work as effort, leisure is the condition of considering things in a celebrating spirit… [made possible when one] is in agreement with the world and its meaning….leisure lives on affirmation…
 >
 > In the third place, leisure stands opposed to the exclusiveness of the paradigm of work as social function… Leisure is not there for the sake of work, no matter how much new strength the one who resumes working may gain from it; leisure in our sense is not justified by providing bodily renewal or even mental refreshment to lend new vigor to further work - although it does indeed bring such things!
@@ -132,7 +132,6 @@ This is what lore looks like. And it has within it
 > “an element of imaginative irony to all the postures. We are aware enough of uncertainties, ambiguities, and gaps in our knowledge that we are not entirely sure of ourselves, so there is some invention and kayfabe-like willed belief involved. A gap between felt and performed confidence.”
 
 * * *
-
 All said,  _Leisure: The Basis of Culture_ is a a great book. It’s a great book because it asks hard questions. Questions we aren’t asking because _we think_ they don’t have immediate utility. Questions we aren’t asking precisely because they are too hard to tackle and seem to go nowhere. Questions that are unsolvable (or only partially solvable). Questions which are the kind of questions philosophy, at least according to Pieper, is meant to ask. Recommended, if you have the patience.
 
 * * *

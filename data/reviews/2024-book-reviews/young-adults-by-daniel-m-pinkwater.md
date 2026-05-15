@@ -15,7 +15,8 @@ tags:
   - Fiction
 ---
 
-> “What can I but enumerate old themes…”        –Yeats, “The Circus Animals’ Desertion” (1939).
+> “What can I but enumerate old themes…”  
+> –Yeats, “The Circus Animals’ Desertion” (1939).
 
 Some artists return again and again to their favorite well, same old bucket in hand. Alfred Hitchcock never tires of reminding people that they are _one false accusation_ away from being a fugitive from justice; Jane Austen has a hard time keeping readers in suspense about whether or not her heroes will get together in the end; J. W. Waterhouse will paint the same beautiful woman over and over and she will never have ears; Lord Byron didn’t get the Byronic hero named after him by, you know, _mixing it up_.
 
@@ -162,17 +163,23 @@ Not the author of but the master of the author of the cookbook is Alan W. Watzuk
 [3]  
 I don’t know, maybe (not in order):
 
-_Young Adults  
-_Shirley Jackson, _Life Among the Savages  
-_David Sedaris, _Barrel Fever  
-_Martin Amis, _The Information  
-_Barbara Robinson, _The Best Christmas Pageant Ever  
-_?
+_Young Adults_  
+Shirley Jackson, _Life Among the Savages_  
+David Sedaris, _Barrel Fever_  
+Martin Amis, _The Information_  
+Barbara Robinson, _The Best Christmas Pageant Ever_  
+?
 
 [4]  
 The novels in question are:
 
-_Lizard Music_ (1976)_Alan Mendelsohn, the Boy from Mars_ (1979)_Yobgorgle: Mystery Monster of Lake Ontario_ (1979) [The weakest fit, in my opinion.]_Java Jack_ (1980) [Co-authored with Luqman Keele.]_The Worms of Kukumlima_ (1981)_The Snarkout Boys and the Avocado of Death_ (1982)_The Snarkout Boys and the Baconburg Horror_ (1984) [A sequel, so a little different.]
+_Lizard Music_ (1976)  
+_Alan Mendelsohn, the Boy from Mars_ (1979)  
+_Yobgorgle: Mystery Monster of Lake Ontario_ (1979) [The weakest fit, in my opinion.]  
+_Java Jack_ (1980) [Co-authored with Luqman Keele.]  
+_The Worms of Kukumlima_ (1981)  
+_The Snarkout Boys and the Avocado of Death_ (1982)  
+_The Snarkout Boys and the Baconburg Horror_ (1984) [A sequel, so a little different.]
 
 Notice that many later books, such as _Borgel_ (1990) or _The Neddiad_ (2006) follow an identical pattern.
 
@@ -275,7 +282,7 @@ All these facts combined suggested it would be virtual suicide for an expansioni
 
 [[33]](#ftnt_ref33) I don’t want to get bogged down as I’m way out of depth here, but my understanding is string theory has another issue, the “string theory landscape” whereby there are > 10^500 possible sets of fundamental string theory parameters and we sort of randomly (??) ended up with one of them which is kind of unsatisfying and seems to present issues re the IC. Here I just want to point out that the unfalsifiability need not be damning.
 
-[[34]](#ftnt_ref34) Consider the function f:**T****O**→ℝ where **T****O** is the space of theories that explain a set of observations O and f(tO) is the information required to specify theory tO (I’m including information required to specify initial conditions and correction factors within tO). Now let O be the whole universe U so our space is **T****U**. Since information required to explain the universe is bounded below by zero, there exists a greatest lower bound (infimum) IUmin. If **T****U** is compact and fU is continuous then fU must reach its infimum for at least one theory tUmin (i.e. f(tUmin) = IUmin) which is the true description of the universe. More generally, if these conditions don’t hold, we can still get arbitrarily close to IUmin, that is for any ε\>0 there exists a theory tUε such that f(tUε) < IUmin+ε.
+[[34]](#ftnt_ref34) Consider the function f:**TO**→ℝ where **TO** is the space of theories that explain a set of observations O and f(tO) is the information required to specify theory tO (I’m including information required to specify initial conditions and correction factors within tO). Now let O be the whole universe U so our space is **TU**. Since information required to explain the universe is bounded below by zero, there exists a greatest lower bound (infimum) IUmin. If **TU** is compact and fU is continuous then fU must reach its infimum for at least one theory tUmin (i.e. f(tUmin) = IUmin) which is the true description of the universe. More generally, if these conditions don’t hold, we can still get arbitrarily close to IUmin, that is for any ε\>0 there exists a theory tUε such that f(tUε) < IUmin+ε.
 
 [[35]](#ftnt_ref35) Or in the parlance of the previous endnote, it’s the theory tOmin.
 
