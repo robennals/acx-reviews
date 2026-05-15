@@ -142,9 +142,9 @@ _Here’s a clip of_ _[Joe Rogan reciting the three-part explanation](https://yo
 
 To summarize:
 
-> *   In _low doses,_ it sharpens your vision into “chemical binoculars” to make you a better hunter.
-> *   In _medium doses_, it makes you horny, orgy-ready, and more likely to reproduce.
-> *   In _high doses_, it leads to mystical experiences, problem solving, and language.
+*   In _low doses,_ it sharpens your vision into “chemical binoculars” to make you a better hunter.
+*   In _medium doses_, it makes you horny, orgy-ready, and more likely to reproduce.
+*   In _high doses_, it leads to mystical experiences, problem solving, and language.
 
 The framework is an anthropological cartoon, where the tribes who ate mushrooms were better hunters, better bonkers, and better thinkers, giving them a chemical advantage.
 
@@ -226,9 +226,9 @@ _From a_ _[2023 report](https://link.springer.com/article/10.1007/s11920-023-014
 
 As soon as McKenna introduces the Stoned Ape theory he moves on, and from page 57 on we’re in the territory of his psychedelic manifesto, which I can summarize in 3 points:
 
-> *   **Chapter 5**: Agriculture is the fall from Eden into history, ruled by a “dominator culture” of “pathological monotheism” (p.64). He makes a Learian plea for an Archaic Revival: “a clarion call to recover our birthright … It is a call to realize that life lived in the absence of the psychedelic experience upon which primordial shamanism is based is life trivialized, life denied, life enslaved to the ego and its fear of dissolution in the mysterious matrix of feeling that is all around us. It is in the Archaic Revival that our transcendence of the historial dilemma actually lies.” (p.252)
-> *   **Chapter 6-14**: Our substance addictions stems from an “existential incompleteness” from losing touch with the mushroom. He covers the history of drugs, from prehistory through the 20th century. He gives a literally exhaustive survey of mushrooms, ergot, cannabis, hashish, sugar, coffee, tea, chocolate, tobacco, LSD, cocaine, heroin, DMT, and television.
-> *   **Chapter 15**: The last page of the book is a 10-point drug policy, showing the real intention of this whole effort: activism. He covers taxes, the IMF, cartel laws, research, and education.
+*   **Chapter 5**: Agriculture is the fall from Eden into history, ruled by a “dominator culture” of “pathological monotheism” (p.64). He makes a Learian plea for an Archaic Revival: “a clarion call to recover our birthright … It is a call to realize that life lived in the absence of the psychedelic experience upon which primordial shamanism is based is life trivialized, life denied, life enslaved to the ego and its fear of dissolution in the mysterious matrix of feeling that is all around us. It is in the Archaic Revival that our transcendence of the historial dilemma actually lies.” (p.252)
+*   **Chapter 6-14**: Our substance addictions stems from an “existential incompleteness” from losing touch with the mushroom. He covers the history of drugs, from prehistory through the 20th century. He gives a literally exhaustive survey of mushrooms, ergot, cannabis, hashish, sugar, coffee, tea, chocolate, tobacco, LSD, cocaine, heroin, DMT, and television.
+*   **Chapter 15**: The last page of the book is a 10-point drug policy, showing the real intention of this whole effort: activism. He covers taxes, the IMF, cartel laws, research, and education.
 
 Here are two more quotes from Goodreads on how the messianic mushroomism gets tiresome:
 
@@ -276,12 +276,12 @@ _Generated with GPT-4._
 
 This story inverts all of psychedelic romanticism that was baked into McKenna’s theory:
 
-> *   Mushrooms didn’t need to be plentiful; this might have happened once in the life of a tribe.
-> *   The whole tribe didn’t need to take them; it could’ve been a single person.
-> *   It wasn’t brave or intentional; it could’ve been accidental.
-> *   They didn’t turn into a superhuman hunter, lover, or linguist; they became a babbling idiot.
-> *   They didn’t come down more evolved; they barely remembered it.
-> *   The hero isn’t the psychonaut; the hero is the sober tribe who paid attention through the chaos to catch and remember the words that mattered.
+*   Mushrooms didn’t need to be plentiful; this might have happened once in the life of a tribe.
+*   The whole tribe didn’t need to take them; it could’ve been a single person.
+*   It wasn’t brave or intentional; it could’ve been accidental.
+*   They didn’t turn into a superhuman hunter, lover, or linguist; they became a babbling idiot.
+*   They didn’t come down more evolved; they barely remembered it.
+*   The hero isn’t the psychonaut; the hero is the sober tribe who paid attention through the chaos to catch and remember the words that mattered.
 
 To bring this back to evolution, magic mushrooms may have simply been a catalyst for linguistic mutation. Over a tribe’s life, the lead hunters would accidentally get stoned a few times, and it would lead to outpourings of gibberish. In some cases it would threaten the survival of the tribe, in most cases it would have been kind of annoying, and in rare cases it would lead to the creation of a re-usable word.
 

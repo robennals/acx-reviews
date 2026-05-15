@@ -51,31 +51,31 @@ The most compellingly useful aspect of this book is that it is a good primer to 
 
 ## How we relate to ourselves and the information we intake:
 
-> *   **Reattribute stress** – connect your stressful feelings (and those of others) to specific events in your life rather than “shadowy forces and nefarious plots”
-> *   **Learn to enjoy the state of ambiguity** – like hot sauce or beer, we can cultivate the ability to hold multiple viewpoints at the same time, reducing the risk that we will fall for a single terrible idea
-> *   **Don’t assume malice** – Hanlon’s Razor, which Ariely modifies to “never attribute to malice that which is adequately explained by human fallibility”, not only reduces the risk of a misunderstanding spiraling into destructive conflict, it also keeps us alert to things we can change to make something bad better
-> *   **Be suspicious** – The “suspicion glasses” Ariely mentioned at the start of this review is the most important tool a person has, and they are even more critical to use before we share information with others (which is a lesson I desperately wish many of my loved ones on social media would learn soon)
-> *    **Challenge your beliefs** – Ariely’s suggestions here frankly are a bit weak, so just plug Bayes in here as a way to ensure openness to changing your mind
-> *   **Change the way you search** – Use more neutral search terms when searching for explanations, or pair a search with the opposite framing to reduce the risk of confirmation bias
-> *   **Scout mindset** – Julia Galef’s notion (who Ariely explicitly name checks with good reason) of an explorative, investigative mindset to produce better maps rather than defending our viewpoint like a soldier
-> *   **The three razors** – Hanlon’s Razor, Occam’s Razor that “the simplest explanation is the one we should favor, until it is proven to be inadequate”, and Hitchen’s Razor that “what can be asserted without evidence can also be dismissed without evidence” can fight the Villain Spiral and help alert us to explanations that are not useful and seek alternatives that are
+*   **Reattribute stress** – connect your stressful feelings (and those of others) to specific events in your life rather than “shadowy forces and nefarious plots”
+*   **Learn to enjoy the state of ambiguity** – like hot sauce or beer, we can cultivate the ability to hold multiple viewpoints at the same time, reducing the risk that we will fall for a single terrible idea
+*   **Don’t assume malice** – Hanlon’s Razor, which Ariely modifies to “never attribute to malice that which is adequately explained by human fallibility”, not only reduces the risk of a misunderstanding spiraling into destructive conflict, it also keeps us alert to things we can change to make something bad better
+*   **Be suspicious** – The “suspicion glasses” Ariely mentioned at the start of this review is the most important tool a person has, and they are even more critical to use before we share information with others (which is a lesson I desperately wish many of my loved ones on social media would learn soon)
+*    **Challenge your beliefs** – Ariely’s suggestions here frankly are a bit weak, so just plug Bayes in here as a way to ensure openness to changing your mind
+*   **Change the way you search** – Use more neutral search terms when searching for explanations, or pair a search with the opposite framing to reduce the risk of confirmation bias
+*   **Scout mindset** – Julia Galef’s notion (who Ariely explicitly name checks with good reason) of an explorative, investigative mindset to produce better maps rather than defending our viewpoint like a soldier
+*   **The three razors** – Hanlon’s Razor, Occam’s Razor that “the simplest explanation is the one we should favor, until it is proven to be inadequate”, and Hitchen’s Razor that “what can be asserted without evidence can also be dismissed without evidence” can fight the Villain Spiral and help alert us to explanations that are not useful and seek alternatives that are
 
 ## How we relate to those around us:
 
-> *   **Improve secure attachment** – Form and maintain deep and trusting relationships (especially as a parent) to create resiliency that can make people less likely to fall prey to faulty explanations
-> *   **Support a misbeliever** – Don’t ostracize folks that have weird beliefs and reassure them that they don’t have to fall into the Villain Spiral or slip into an alternate universe just to find someone who seems to care about them
-> *   **Have “nondebate”** – focus on empathy first so people feel heard and reduce defense mechanisms that close them off to alternate viewpoints
-> *   **Hesitate to negate** – When you do need to counter a misbelief (in others or yourself), provide an alternate story early and focus on selling that story instead of trying to refute the misbelief
-> *   **Start with better solutions** – Addressing solution aversion as noted earlier
-> *   **Paradoxical persuasion** – Take an idea to its logical conclusion (5G is evil? Move to [Green Bank](https://en.wikipedia.org/wiki/United_States_National_Radio_Quiet_Zone). Pharma is evil? Switch from a doctor to a shaman.)
-> *   **Challenge the illusion of explanatory depth** – Increase comfort with self-doubt by confronting ignorance of how ordinary things work (bicycles, zippers, toilets, etc) in yourself and others, as even doubting knowledge in a mundane area can prompt questioning of certainty in other areas
-> *   **Risk assess your friends** – Pay closer attention to friends that may be prone to misbeliefs and don’t wait to intervene with techniques like reattributing stress and other supportive behaviors**Practice intellectual humility** – Express doubt and uncertainty regularly – “I’m not sure”, “As far as I know”, “Maybe I’m wrong” – and practice making good-faith arguments for positions you do not hold
-> *   **Tend to your narcissists** – For those folks in your life that are a bit more entitled and hubristic than average, help them find healthy ways to meet their needs
-> *   **Start with common ground** – Establish rapport with those you wish to persuade out of a misbelief by focusing on what you share instead of what you don’t
-> *   **Don’t take extremity too literally** – Extreme opinions are often driven by the need to establish identity and demonstrate loyalty to an in-group, so if someone you care about expresses an extreme opinion, recognize they are at a potential inflection point in their misbelief and do your best to help them turn back from subsuming themselves to their misbelief
-> *   **Listen to former insiders** – Our best way to reach those stuck in a misbelief is to listen and support those who have renounced those misbeliefs
-> *   **Practice trust** – Make yourself more vulnerable with others by picking up the tab and increasing how much personal info you share with them
-> *   **Invite trust by demonstrating care** – Show people in a tangible way that our interests are not purely self-serving
+*   **Improve secure attachment** – Form and maintain deep and trusting relationships (especially as a parent) to create resiliency that can make people less likely to fall prey to faulty explanations
+*   **Support a misbeliever** – Don’t ostracize folks that have weird beliefs and reassure them that they don’t have to fall into the Villain Spiral or slip into an alternate universe just to find someone who seems to care about them
+*   **Have “nondebate”** – focus on empathy first so people feel heard and reduce defense mechanisms that close them off to alternate viewpoints
+*   **Hesitate to negate** – When you do need to counter a misbelief (in others or yourself), provide an alternate story early and focus on selling that story instead of trying to refute the misbelief
+*   **Start with better solutions** – Addressing solution aversion as noted earlier
+*   **Paradoxical persuasion** – Take an idea to its logical conclusion (5G is evil? Move to [Green Bank](https://en.wikipedia.org/wiki/United_States_National_Radio_Quiet_Zone). Pharma is evil? Switch from a doctor to a shaman.)
+*   **Challenge the illusion of explanatory depth** – Increase comfort with self-doubt by confronting ignorance of how ordinary things work (bicycles, zippers, toilets, etc) in yourself and others, as even doubting knowledge in a mundane area can prompt questioning of certainty in other areas
+*   **Risk assess your friends** – Pay closer attention to friends that may be prone to misbeliefs and don’t wait to intervene with techniques like reattributing stress and other supportive behaviors**Practice intellectual humility** – Express doubt and uncertainty regularly – “I’m not sure”, “As far as I know”, “Maybe I’m wrong” – and practice making good-faith arguments for positions you do not hold
+*   **Tend to your narcissists** – For those folks in your life that are a bit more entitled and hubristic than average, help them find healthy ways to meet their needs
+*   **Start with common ground** – Establish rapport with those you wish to persuade out of a misbelief by focusing on what you share instead of what you don’t
+*   **Don’t take extremity too literally** – Extreme opinions are often driven by the need to establish identity and demonstrate loyalty to an in-group, so if someone you care about expresses an extreme opinion, recognize they are at a potential inflection point in their misbelief and do your best to help them turn back from subsuming themselves to their misbelief
+*   **Listen to former insiders** – Our best way to reach those stuck in a misbelief is to listen and support those who have renounced those misbeliefs
+*   **Practice trust** – Make yourself more vulnerable with others by picking up the tab and increasing how much personal info you share with them
+*   **Invite trust by demonstrating care** – Show people in a tangible way that our interests are not purely self-serving
 
 ## Hoisting Ariely on His Own Petard
 

@@ -141,13 +141,13 @@ In Australia and the UK, major hazard facilities (the kind of places where a maj
 
 Most of the US, however, have action-based laws. California, specifically, had the following suite of laws that applied at various times throughout the life of line 132, up until its fiery end:
 
-> *   1956, the pipeline was constructed. No specific laws apply, however industry mostly followed the standard ASME B31.1.8 (1955), which stated that new lines shall be hydrotested to a factor above maximum allowable operating pressure (MAOP).  
->     Line 132 was not hydrotested at construction (there’s no record, and it probably would have failed if it was tested)  
->     
-> *   1961, California General Order 112 - new pipelines are to be hydrotested to ASME B31.1 (1958), however nothing about old pipelines specifically.  
->     
-> *   1970, Federal 49 CFR 192.505 - new pipelines are to be hydrotested to 1.5 x MAOP, however a grandfathering clause explicitly states that for existing lines, MAOP shall be the highest pressure the line has been exposed to prior to 1 July 1970
-> *   2004, Federal 49 CFR 192.917(e) - existing lines must be hydrotested if operating pressure rises above pressure seen in the last 5 years
+*   1956, the pipeline was constructed. No specific laws apply, however industry mostly followed the standard ASME B31.1.8 (1955), which stated that new lines shall be hydrotested to a factor above maximum allowable operating pressure (MAOP).  
+    Line 132 was not hydrotested at construction (there’s no record, and it probably would have failed if it was tested)  
+    
+*   1961, California General Order 112 - new pipelines are to be hydrotested to ASME B31.1 (1958), however nothing about old pipelines specifically.  
+    
+*   1970, Federal 49 CFR 192.505 - new pipelines are to be hydrotested to 1.5 x MAOP, however a grandfathering clause explicitly states that for existing lines, MAOP shall be the highest pressure the line has been exposed to prior to 1 July 1970
+*   2004, Federal 49 CFR 192.917(e) - existing lines must be hydrotested if operating pressure rises above pressure seen in the last 5 years
 
 I did find it baffling that US laws explicitly state when something needed to be hydrotested, but in this case, if the intent was to find unsafe lines by forcing operators to hydrotest, it certainly didn’t work. There were a number of clever loopholes for an old enough pipeline - such as the provision requiring hydrotest if the operating pressure is greater than any pressure seen in the last 5 years. The loopholes are almost certainly written in because of industry lobbyists, possibly even PG&E’s own lobbyists.
 
@@ -381,10 +381,10 @@ The authors consider only oil and gas, but I don’t think these failure modes o
 
 Other potential high consequence, low risk events outside of hazardous industries:
 
-> *   Mass produced personal care products contain traces of benzene, putting large numbers of consumers at risk
-> *   Software firm releases a bug fix that inadvertently exposes a bunch of sensitive data
-> *   Banks recklessly investing customers’ savings
-> *   Poor hygiene in farming leading to disease outbreak
+*   Mass produced personal care products contain traces of benzene, putting large numbers of consumers at risk
+*   Software firm releases a bug fix that inadvertently exposes a bunch of sensitive data
+*   Banks recklessly investing customers’ savings
+*   Poor hygiene in farming leading to disease outbreak
 
 Does every industry need a Nightmare Pipeline Failures? Did the book accomplish much change?
 

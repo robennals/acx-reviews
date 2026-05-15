@@ -28,14 +28,14 @@ TBKtS is rich in anecdotes about traumatised people. Its narrative covers the ef
   
 The interesting and novel part is his central thesis:
 
-> *   Intense emotions activate the limbic area, especially the amygdala
-> *   The memories they induce are stored differently from your main memories.
-> *   They are different from normal memories: they are stored in an accurate way, and they surface unexpectedly.
-> *   The amygdala (which he calls the body’s ‘smoke detector’) functions incredibly quickly.
-> *   It warns us of impending danger, so if anything happens to remind you of your trauma, you may react in ways you don’t consciously control
-> *   Traditional ways of curing trauma are going to do badly, because they target the brain
-> *   To cure trauma, we need to work with your body.
-> *   Ways to do this include trauma-sensitive yoga, or Eye Movement Desensitisation and Reprocessing (EMDR)
+*   Intense emotions activate the limbic area, especially the amygdala
+*   The memories they induce are stored differently from your main memories.
+*   They are different from normal memories: they are stored in an accurate way, and they surface unexpectedly.
+*   The amygdala (which he calls the body’s ‘smoke detector’) functions incredibly quickly.
+*   It warns us of impending danger, so if anything happens to remind you of your trauma, you may react in ways you don’t consciously control
+*   Traditional ways of curing trauma are going to do badly, because they target the brain
+*   To cure trauma, we need to work with your body.
+*   Ways to do this include trauma-sensitive yoga, or Eye Movement Desensitisation and Reprocessing (EMDR)
 
 This is super interesting! Some people reported finding the book useful despite having failed with, uh, ‘traditional’ techniques, so I got curious about it. A key part is that traumatic memories are qualitatively different from non-traumatic memories.  
   
@@ -80,8 +80,8 @@ _In 2007 Shanley’s attorney, Robert F. Shaw Jr…tried to make the case that �
   
 To me, both of these things are true:
 
-> *   People can misremember or invent details of traumatic experiences.
-> *   Bad actors will cite that fact to defend themselves.
+*   People can misremember or invent details of traumatic experiences.
+*   Bad actors will cite that fact to defend themselves.
 
 van der Kolk seems to assume that if the second statement is true, the first must not be.  
   
@@ -139,10 +139,10 @@ And it isn't true that people, traumatised or otherwise, have perfect memory. Hu
   
 How did I find this? Because I kept seeing more and more problems. There was a running theme through TBKtS:
 
-> *   van der Kolk would present an interesting claim
-> *   I would be surprised
-> *   I would check the citation
-> *   It did not say anything like his claim
+*   van der Kolk would present an interesting claim
+*   I would be surprised
+*   I would check the citation
+*   It did not say anything like his claim
 
 Here's an example: "Traumatized children have fifty times the rate of asthma as their nontraumatized peers''.  
   
@@ -176,9 +176,9 @@ Am I dismissing a lot of his claims? Yes. But after a good-faith attempt to find
 
 PTSD is not fake, people are suffering, and I agree the amygdala does not understand pensions. But:
 
-> *   PTSD symptoms are largely self-reported.
-> *   Veterans, and only veterans, get regular checks if their PTSD symptoms remain
-> *   If a form asks things like "do you still have unpleasant memories of war", I can imagine people say “yes” more often if their checks depend on it.
+*   PTSD symptoms are largely self-reported.
+*   Veterans, and only veterans, get regular checks if their PTSD symptoms remain
+*   If a form asks things like "do you still have unpleasant memories of war", I can imagine people say “yes” more often if their checks depend on it.
 
 I’m not saying I’m sure this is right. I’m saying this (the most common explanation, apparently) seems totally plausible to me, while van der Kolk rejects it with no evidence.
 

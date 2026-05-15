@@ -28,10 +28,10 @@ Seth responds: that’s fine, we’ll just study this “rich inner life” dire
 
 As with life, consciousness can be broken into multiple components and aspects that can be well understood in the sense that we can explain, predict, and control their arising. And after we’ve achieved it, this understanding of what Seth calls “the real problem of consciousness” directly answers or simply dissolves enduring philosophical conundrums such as:
 
-> *   [What is it like to be a bat?](https://en.wikipedia.org/wiki/What_Is_It_Like_to_Be_a_Bat%3F)
-> *   How can I have free will in a deterministic universe?
-> *   Why am I me and not Britney Spears?
-> *   Is “the dress” white and gold or blue and black?
+*   [What is it like to be a bat?](https://en.wikipedia.org/wiki/What_Is_It_Like_to_Be_a_Bat%3F)
+*   How can I have free will in a deterministic universe?
+*   Why am I me and not Britney Spears?
+*   Is “the dress” white and gold or blue and black?
 
 Or at least, these conundrums feel resolved to _me_. Your experience may vary, which is also one of the key insights about _experience_ that _Being You_ imparts.
 
@@ -73,9 +73,9 @@ The important point here is that “redness” is a property of your brain’s b
 
 These models are “predictive” in the important sense that they perceive not just how things are at the moment but also anticipate how your sensory inputs would change under various conditions and as a consequence of your own actions. Thus:
 
-> *   Red = would create a perception of a warmer color relative to the illuminant even if the illumination changes.
-> *   Good in salads = would create perceptions of deliciousness and positive affect if consumed alongside arugula and goat cheese.
-> *   Real = would look like a strawberry from a different angle if you walked around it, and would generate perceptions of solidity and weight if you picked it up. An image of a strawberry on a screen generates almost the same visual input as a physical strawberry, but you perceive it as very different (_unreal_) because you predict different consequences to trying to grab it.
+*   Red = would create a perception of a warmer color relative to the illuminant even if the illumination changes.
+*   Good in salads = would create perceptions of deliciousness and positive affect if consumed alongside arugula and goat cheese.
+*   Real = would look like a strawberry from a different angle if you walked around it, and would generate perceptions of solidity and weight if you picked it up. An image of a strawberry on a screen generates almost the same visual input as a physical strawberry, but you perceive it as very different (_unreal_) because you predict different consequences to trying to grab it.
 
 This, in broad strokes, is the predictive processing theory of perception, which Scott himself [discovered to his great delight back in 2017](https://slatestarcodex.com/2017/09/05/book-review-surfing-uncertainty/). But _Being You_ doesn’t just lay out the _how_ of predictive processing, it also answers the _how come_ and the _so what_.
 

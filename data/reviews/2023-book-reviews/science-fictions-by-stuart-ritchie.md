@@ -110,8 +110,8 @@ To be fair, not every science news article is like this.  After another paper of
 
 In Part III of the book, Ritchie catalogs the perverse incentives that lead to all the scientific sins, and how to fix them.  The discussion is rich with juicy examples, but the perverse incentives essentially boil down to two:  
 
-> *   Publish or perish.  When scientists aren’t paid by the paper (which happens regularly in China), they are rewarded with job opportunities and/or tenure for publishing papers and getting citations
-> *   Having to constantly apply for grant funding
+*   Publish or perish.  When scientists aren’t paid by the paper (which happens regularly in China), they are rewarded with job opportunities and/or tenure for publishing papers and getting citations
+*   Having to constantly apply for grant funding
 
 According to Ritchie, the perverse behaviors that these perverse incentives lead to are legion.  My inbox is bombarded with ads from predatory journals, who will publish anything for an exorbitant fee.  Desperate to publish papers, many scientists either publish subpar results in predatory journals, or “salami slice” their results into the smallest possible publishable units to generate more papers.  Others artificially boost their citation counts by citing themselves, or pressuring others into citing them while serving as peer reviewers.
 
@@ -125,20 +125,20 @@ However scientists and their work are evaluated, it is not surprising that many 
 
 The very last chapter of the book is entitled “Fixing Science”.  Anyone expecting a plan to remove the perverse incentives altogether will be disappointed.  Instead, the chapter is a laundry list of ideas.  Most of them are good; many are increasingly being implemented; few strike me as truly revolutionary.  These ideas include:
 
-> *   Automated algorithms to catch statistical irregularities
-> *   Journals dedicated to null results
-> *   Journals should accept more replication studies
-> *   Doing away with statistical significance
-> *   Use Bayesian statistics
-> *   Have a panel of independent statisticians analyze the data, not the researchers
-> *   Have a government panel investigate allegations of misconduct, not the university
-> *   Analyze the data in many different ways (multiverse analysis)
-> *   Pre-registration of studies
-> *   Open science: publish all data and all code used to get the result
-> *   Open access: preprints
-> *   Hiring and tenure decisions should consider “good scientific citizenship” (openness and transparency, quality over quantity)
-> *   Fund scientists instead of specific projects
-> *   For grant proposals above a certain quality threshold, randomly select which ones to fund
+*   Automated algorithms to catch statistical irregularities
+*   Journals dedicated to null results
+*   Journals should accept more replication studies
+*   Doing away with statistical significance
+*   Use Bayesian statistics
+*   Have a panel of independent statisticians analyze the data, not the researchers
+*   Have a government panel investigate allegations of misconduct, not the university
+*   Analyze the data in many different ways (multiverse analysis)
+*   Pre-registration of studies
+*   Open science: publish all data and all code used to get the result
+*   Open access: preprints
+*   Hiring and tenure decisions should consider “good scientific citizenship” (openness and transparency, quality over quantity)
+*   Fund scientists instead of specific projects
+*   For grant proposals above a certain quality threshold, randomly select which ones to fund
 
 As the book notes, some of these suggestions are already being implemented.  Journals are already accepting more replication studies.  Pre-registration is already required in clinical trials.  In many fields, scientists put their papers on arXiv, medRxiv, or other preprint servers before publication.  Open science is becoming more and more the norm, as storage costs decrease and open source software proliferates.  There are already journals dedicated to null results–although nobody wants to publish in them.
 

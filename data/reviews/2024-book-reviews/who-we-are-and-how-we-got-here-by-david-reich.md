@@ -30,12 +30,12 @@ Repeat 30x. Like _The Iliad_, there are a lot of names. It’s a slog.
 
 But scattered throughout the tedium are bursts of amazing novelty. Over and over, my naive mental model of "how prehistory happened, basically, I guess" was revised by some tasty morsel of new information. Just from the first few chapters you learn things like:
 
-> *   The blond, blue-eyed, and light-skinned mutations actually arose in three entirely different ancient populations who lived very far apart in space and time. This makes Nazis look pretty stupid.
-> *   Neanderthals definitely interbred with the ancestors of all non-African modern humans, and their DNA makes up a fairly similar fraction of the DNA of almost all non-Africans today.
-> *   Speaking of: Neanderthals were tool-makers and created art and we have no good reason to think they were stupid brutes at all. Their brains were bigger than ours, after all!
-> *   And then there were the Denisovans: a whole other divergent lineage which also interbred with modern humans in Eastern Asia. Plus there's evidence of other even-older lineages, from which no fossils have been found, but whose existence can be deduced from DNA traces left behind by later interbreeding.
-> *   Maybe you had assumed that early humans simply migrated out of Africa in a single rush, spread widely across the land, and then just stopped moving and started drifting apart to produce the variety of modern races. I hadn't even realized I believed that, but I guess I did. Not so, according to Reich. In fact, the 50k years or so of human prehistory outside Africa involved numerous subsequent migrations and plenty of interbreeding, all occurring well before the acceleration of the inter-population contact we think of as accompanying the spread of agriculture, cities, and empires.
-> *   By the time "history" started being written down, nearly everyone on the map was already some kind of mixture of diverse much-older populations, and these archaic populations would have been as different from each other as the major "racial groups" are today.
+*   The blond, blue-eyed, and light-skinned mutations actually arose in three entirely different ancient populations who lived very far apart in space and time. This makes Nazis look pretty stupid.
+*   Neanderthals definitely interbred with the ancestors of all non-African modern humans, and their DNA makes up a fairly similar fraction of the DNA of almost all non-Africans today.
+*   Speaking of: Neanderthals were tool-makers and created art and we have no good reason to think they were stupid brutes at all. Their brains were bigger than ours, after all!
+*   And then there were the Denisovans: a whole other divergent lineage which also interbred with modern humans in Eastern Asia. Plus there's evidence of other even-older lineages, from which no fossils have been found, but whose existence can be deduced from DNA traces left behind by later interbreeding.
+*   Maybe you had assumed that early humans simply migrated out of Africa in a single rush, spread widely across the land, and then just stopped moving and started drifting apart to produce the variety of modern races. I hadn't even realized I believed that, but I guess I did. Not so, according to Reich. In fact, the 50k years or so of human prehistory outside Africa involved numerous subsequent migrations and plenty of interbreeding, all occurring well before the acceleration of the inter-population contact we think of as accompanying the spread of agriculture, cities, and empires.
+*   By the time "history" started being written down, nearly everyone on the map was already some kind of mixture of diverse much-older populations, and these archaic populations would have been as different from each other as the major "racial groups" are today.
 
 One cannot help but marvel that the bulk of these discoveries occurred over a period of only about six years—and the book was written six years ago! I was lightly interested in this field in college, I could have been involved! It's great stuff. I don't think I've ever had my assumptions proven wrong so many times by so short a book. Everything I learned in school is irrelevant now.
 
@@ -87,9 +87,9 @@ A social hierarchy begins as an unequal allocation of power, but it becomes a hi
 
 A few times in WWA&HWGH Reich addresses the various conflicts between genetic researchers and the subjects—or the descendants of long-dead subjects—under study. The basic issues are:
 
-> *   Many people for various reasons do not want the "true" story of their ancestral history told—certainly not by somebody other than themselves.
-> *   The remains of the dead are considered sacrosanct in many cultures. In all likelihood, the people whose graves are being opened would not have approved of it.
-> *   Some groups, particularly Native Americans, have been repeatedly deceived in the past about the use of their DNA for research.
+*   Many people for various reasons do not want the "true" story of their ancestral history told—certainly not by somebody other than themselves.
+*   The remains of the dead are considered sacrosanct in many cultures. In all likelihood, the people whose graves are being opened would not have approved of it.
+*   Some groups, particularly Native Americans, have been repeatedly deceived in the past about the use of their DNA for research.
 
 The first objection is quite understandable in light of all the sexual violence already hinted at in the paleogenetic record. It is no easy task to reassess "who you are", especially when it means coming into contact and reckoning with the violence of history. It could be said that the truth will set us free, but it won’t be easy, or  happen quickly. And this runs, too, into the thicket of notions of indigeneity and identity, which I'll come back to. Suffice to say: there are good reasons to not want to know where we came from.
 

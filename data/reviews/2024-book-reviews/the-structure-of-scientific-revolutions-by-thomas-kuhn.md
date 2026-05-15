@@ -259,12 +259,12 @@ For space reasons I’m giving short shrift to two key distinctions of great int
 
 I think my formulation of science clarifies what Kuhn is talking about. Basically, a scientific revolution as he defines it in _Structure_ is one that affects a maximally upstream node while normal science consists of changing nodes lower down. Here are some examples discussed by Kuhn plus the last two are my own:
 
-> *   The Copernican revolution describes the basic geometry of the universe which could not be derived from any non-religious considerations.
-> *   Each shift into a different aspect of modern physics (special relativity, general relativity, quantum mechanics) introduced concepts without precedent.
-> *   Ditto Lavoisier’s oxygen theory and Dalton’s atomic theory because at the time, there was no quantum mechanics-based grounding of chemistry.
-> *   Newtonian gravity was fully distinct from the existing grounding of all physical theories at the time (corpuscles).
-> *   Evolution by natural selection put a new node on top of all of biology by describing how it all came to be.
-> *   The rejection of vitalism added upstream chemistry and physics nodes to biology for the first time.
+*   The Copernican revolution describes the basic geometry of the universe which could not be derived from any non-religious considerations.
+*   Each shift into a different aspect of modern physics (special relativity, general relativity, quantum mechanics) introduced concepts without precedent.
+*   Ditto Lavoisier’s oxygen theory and Dalton’s atomic theory because at the time, there was no quantum mechanics-based grounding of chemistry.
+*   Newtonian gravity was fully distinct from the existing grounding of all physical theories at the time (corpuscles).
+*   Evolution by natural selection put a new node on top of all of biology by describing how it all came to be.
+*   The rejection of vitalism added upstream chemistry and physics nodes to biology for the first time.
 
  This maps neatly onto his idea of scientific “Revolutions as Changes in Worldview” to quote one of his chapter titles. After all, if the discovery you make falls under the umbrella of _x_, for any _x_ and for whatever reasonable definition of “umbrella,” you are not changing your worldview or your opinion of what fundamental objects populate the world. If a discovery is an upstream node, you have plausibly discovered a new kind of thing in the world or a new kind of way the world works. This also explains why his ideas don’t really apply to modern biology and chemistry: both are grounded in physics by now.[[32]](#ftnt32) Even for physics, it’s not clear to me that there are scientific revolutions left to be had besides unifying gravity and the Standard Model. It could be argued I’m being overly reductionist here, reasonable people can disagree and it doesn’t change my overall point.
 

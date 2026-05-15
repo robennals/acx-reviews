@@ -62,9 +62,9 @@ And what they have dictates what we want.
 
 Sometimes, mimesis manifests in innocuous ways, like ordering a martini instead of a beer at a bar simply because a friend did so. However, there are times when mimesis takes on a more sinister tone.
 
-> *   When a friend announces their promotion, you suddenly feel anxious and left behind.
-> *   Or when a neighbor moves into a swanky new community, your once-beloved home starts to feel like a prison.
-> *   As you watch your friend drive off in their new Tesla, you might opt for a classic Mustang to stand out. You tell yourself and others that it's about tradition and the environment, but deep down, you know it's still all about mimesis, like an intricate dance of desire.
+*   When a friend announces their promotion, you suddenly feel anxious and left behind.
+*   Or when a neighbor moves into a swanky new community, your once-beloved home starts to feel like a prison.
+*   As you watch your friend drive off in their new Tesla, you might opt for a classic Mustang to stand out. You tell yourself and others that it's about tradition and the environment, but deep down, you know it's still all about mimesis, like an intricate dance of desire.
 
 ## The Freshmainstan Chronicles
 

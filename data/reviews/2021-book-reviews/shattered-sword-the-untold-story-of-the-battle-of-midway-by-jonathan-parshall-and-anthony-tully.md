@@ -105,9 +105,9 @@ And of course, raw numbers don't tell the whole story. Quality matters just as m
 
 The IJN had an advantage in weaponry, too. At the time, there were essentially three ways of sinking a ship.
 
-> *   Really big guns, like the kind on a battleship
-> *   Torpedoes, fired either from a submarine or from a torpedo-bomber plane
-> *   Bombs, dropped either high above from a level bomber, or from a dive bomber swooping down close to the target
+*   Really big guns, like the kind on a battleship
+*   Torpedoes, fired either from a submarine or from a torpedo-bomber plane
+*   Bombs, dropped either high above from a level bomber, or from a dive bomber swooping down close to the target
 
 The IJN had proven capable at using all three of these. There was Pearl Harbor, of course, when it used dive bombers with deadly accuracy. It used torpedo bombers to destroy the only British battleship and battlecruiser in the Pacific just three days after Pearl Harbor, and then a submarine torpedoed a US carrier, the _Saratoga_, in January, which prevented it from taking part in Midway. Its battleships didn’t have much to do, but they were still highly capable and feared.
 
@@ -149,9 +149,9 @@ But that won't stop me from trying! Let's go back to that battle summary. To rei
 
 In other words, this one guy, by himself, managed to
 
-> *   definitely destroy one Japanese carrier, the _Akagi_
-> *   _probably_ save an American carrier, _Enterprise,_ from destruction
-> *   _possibly_ lead to the destruction of another Japanese carrier, since it was the planes from the _Enterprise_ that sank her, with Best among them
+*   definitely destroy one Japanese carrier, the _Akagi_
+*   _probably_ save an American carrier, _Enterprise,_ from destruction
+*   _possibly_ lead to the destruction of another Japanese carrier, since it was the planes from the _Enterprise_ that sank her, with Best among them
 
 So a lot of the battle's key results simply come from the actions of this _one guy_. I still can't get over how incredible that is. You usually hear arguments about whether battles were decided by strategies and tactics from the commanders, or larger technical and economic factors. But here, it's just one individual soldier being really good at his job. As an "individual contributor" myself, I can't help but find that inspiring.
 
@@ -187,13 +187,13 @@ A more reasonable question would be, could the Japanese have won this particular
 
 But then the book admits that, yes, all of those decisions ended up losing them the battle. It almost seems like every single decision they made regarding the battle was wrong:
 
-> *   Why attack at all? Midway island itself wasn't valuable.
-> *   Why not realize their codes had been compromised? Or have better codes to begin with.
-> *   Why attack with _half_ their carriers? Sending fewer (or none) would have been less of a loss. Sending more would have had overwhelming numbers in the air.
-> *   Why send the carriers charging in first, while the battleships and other ships hung back too far to do anything? Or even [send them in ahead](https://thediplomat.com/2020/07/rethinking-the-technological-story-of-the-pacific-theater-of-the-second-world-war/)?
-> *   Why put up just a minimal amount of scouts? They didn't have radar, so they really needed more scouts. Instead they were totally caught by surprise.
-> *   Why was their fighter defense so disorganized? They just sort of flew around randomly, and eventually got caught completely in the wrong position.
-> *   Why were their ships so vulnerable, especially to fire?
+*   Why attack at all? Midway island itself wasn't valuable.
+*   Why not realize their codes had been compromised? Or have better codes to begin with.
+*   Why attack with _half_ their carriers? Sending fewer (or none) would have been less of a loss. Sending more would have had overwhelming numbers in the air.
+*   Why send the carriers charging in first, while the battleships and other ships hung back too far to do anything? Or even [send them in ahead](https://thediplomat.com/2020/07/rethinking-the-technological-story-of-the-pacific-theater-of-the-second-world-war/)?
+*   Why put up just a minimal amount of scouts? They didn't have radar, so they really needed more scouts. Instead they were totally caught by surprise.
+*   Why was their fighter defense so disorganized? They just sort of flew around randomly, and eventually got caught completely in the wrong position.
+*   Why were their ships so vulnerable, especially to fire?
 
 There are reasons for all these given in the book, but they're not especially _good_ reasons. They all basically amount to either "that's just the way things were done in Imperial Japan and its navy, and no individual commander could possibly change that" or "under the stress and chaos of the situation, no one could have known better."  E.g., part of the reason they were so vulnerable to fire was that only officers were allowed to know how to fight fires, not regular crewman. They attacked with only part of their fleet, because they thought the Americans would be too scared to come out and fight if they sent everything. Seen in that light, where no decisions can be changed, I suppose it’s true that the outcome was inevitable. But it seems odd that a victory which depends on the opponent screwing up everything in the worst way could be seen as "inevitable". And even despite all those bad decisions, it still ended up being decided by a small number of bomb hits by American dive bomber pilots, particularly the one by Best on the _Akagi_.
 

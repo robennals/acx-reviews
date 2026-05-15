@@ -251,45 +251,45 @@ _the mysteries of intersubjectivity, which has a language all its own, sweet and
 
 ## Further Reading
 
-> *   Nick Enfield has a [solo book](https://www.google.com/books/edition/Language_vs_Reality/PKzIEAAAQBAJ?hl=en) which I haven't read but seems less academic and more philosophical. He was [interviewed](https://braininspired.co/podcast/166/) about it on the Brain Inspired podcast.
-> *   MIT publishes a [ton](https://direct.mit.edu/books/search-results?fl_SiteID=5&f_ContentType=Book&access_openaccess=true) of open access books. I like browsing them, because it's an essentially friendly experience, like spending the day in a bookshop and reading as much of each book as I want before deciding. No paywalls, ads, or newsletters, so I don't have to be on the defensive.
-> *   At the beginning of this review, when I railed against the poor writing of the galaxy-brains, I was mostly just describing the writing of Slavoj Žižek. The examples he uses to support his theories are so diverse that they give his books a surreal, dream-like feel. One of his books contains the sentence: “The space in which the (un)dead can talk without moral constraints, as imagined by Dostoevsky, prefigures this Gnostic-cyberspace dream.” [5] Of the handful of his books that I've read, the most compatible with ACX readers is [The Sublime Object of Ideology](https://archive.org/details/sublimeobjectofi0000ieks). It's his first book, and it's written quite differently. Here, he precisely defines new jargon, then uses his previously defined concepts later to build up a tower of abstractions. I was constantly using Ctrl-F to find where terms were defined. It felt like I was reading an abstract algebra textbook, or like I was manually linking and compiling a C++ program. _Sublime_ is hard to understand, but it's hard to understand in a way that might work for some of you, and if you take the time to reconstruct his tower of abstractions in your own mind, then you'll discover that it hangs together. As far as I know, this book is the closest we have to a textbook on intersubjectivity which covers everything I consider important.
+*   Nick Enfield has a [solo book](https://www.google.com/books/edition/Language_vs_Reality/PKzIEAAAQBAJ?hl=en) which I haven't read but seems less academic and more philosophical. He was [interviewed](https://braininspired.co/podcast/166/) about it on the Brain Inspired podcast.
+*   MIT publishes a [ton](https://direct.mit.edu/books/search-results?fl_SiteID=5&f_ContentType=Book&access_openaccess=true) of open access books. I like browsing them, because it's an essentially friendly experience, like spending the day in a bookshop and reading as much of each book as I want before deciding. No paywalls, ads, or newsletters, so I don't have to be on the defensive.
+*   At the beginning of this review, when I railed against the poor writing of the galaxy-brains, I was mostly just describing the writing of Slavoj Žižek. The examples he uses to support his theories are so diverse that they give his books a surreal, dream-like feel. One of his books contains the sentence: “The space in which the (un)dead can talk without moral constraints, as imagined by Dostoevsky, prefigures this Gnostic-cyberspace dream.” [5] Of the handful of his books that I've read, the most compatible with ACX readers is [The Sublime Object of Ideology](https://archive.org/details/sublimeobjectofi0000ieks). It's his first book, and it's written quite differently. Here, he precisely defines new jargon, then uses his previously defined concepts later to build up a tower of abstractions. I was constantly using Ctrl-F to find where terms were defined. It felt like I was reading an abstract algebra textbook, or like I was manually linking and compiling a C++ program. _Sublime_ is hard to understand, but it's hard to understand in a way that might work for some of you, and if you take the time to reconstruct his tower of abstractions in your own mind, then you'll discover that it hangs together. As far as I know, this book is the closest we have to a textbook on intersubjectivity which covers everything I consider important.
 
 ![](https://acximages.ennals.org/images/2024-book-reviews/1f11a411c0613247.jpg)
 
 Diagrams I made to understand the last chapter of _Sublime_ illustrate that it's difficult but possible to link together all the concepts. Don't bother deciphering my notes; decipher the book instead.
 
-> *   [Modernity and Self-Identity](https://archive.org/details/modernityselfide0000unse/page/n5/mode/1up) by Anthony Giddens predicted (in 1991) and explains the current identity crisis. Dense academic writing, don't let that put you off, the ideas themselves are pretty approachable.
-> *   I heard John Robb ([substack](https://johnrobb.substack.com/), [patreon](https://www.patreon.com/johnrobb)) on a podcast, and he said that maybe the progressive left could turn against Israel, and I said to myself “Who is this guy? He's crazy!” Then after Oct 7, when the progressive left started lobbing accusations at Israel, I went back to check out his stuff. He uses whatever works, including sometimes intersubjectivity, to make predictions and offer frameworks at the intersection of tech and war, dividing his attention roughly evenly between moral, psychological and physical war. I almost didn't include him on this list, because he never focuses on intersubjectivity per se, only bringing it up when it's useful. I included him anyway, because he does some things that persuade a curmudgeon:
+*   [Modernity and Self-Identity](https://archive.org/details/modernityselfide0000unse/page/n5/mode/1up) by Anthony Giddens predicted (in 1991) and explains the current identity crisis. Dense academic writing, don't let that put you off, the ideas themselves are pretty approachable.
+*   I heard John Robb ([substack](https://johnrobb.substack.com/), [patreon](https://www.patreon.com/johnrobb)) on a podcast, and he said that maybe the progressive left could turn against Israel, and I said to myself “Who is this guy? He's crazy!” Then after Oct 7, when the progressive left started lobbing accusations at Israel, I went back to check out his stuff. He uses whatever works, including sometimes intersubjectivity, to make predictions and offer frameworks at the intersection of tech and war, dividing his attention roughly evenly between moral, psychological and physical war. I almost didn't include him on this list, because he never focuses on intersubjectivity per se, only bringing it up when it's useful. I included him anyway, because he does some things that persuade a curmudgeon:
 >
-> *   Discussing intersubjectivity because it's actually useful for prediction and control, rather than as an academic interest
-> *   Producing falsifiable predictions [6]
-> *   Writing in a terse, bulleted format
-> *   Saying “protecting our communities” and other right-wing phrases, which could persuade someone who identifies intersubjectivity as a left partisan ideology
-> *   Offering actionable suggestions
+*   Discussing intersubjectivity because it's actually useful for prediction and control, rather than as an academic interest
+*   Producing falsifiable predictions [6]
+*   Writing in a terse, bulleted format
+*   Saying “protecting our communities” and other right-wing phrases, which could persuade someone who identifies intersubjectivity as a left partisan ideology
+*   Offering actionable suggestions
 
 ## Takeaways
 
-> *   intersubjectivity = activity + accountability
+*   intersubjectivity = activity + accountability
 >
-> *   Metaphysics is intersubjectivity misunderstood.
-> *   The social system matters not only for its outcomes, but its internal process is felt by the nodes.
-> *   Humans constitute a distributed ledger.
+*   Metaphysics is intersubjectivity misunderstood.
+*   The social system matters not only for its outcomes, but its internal process is felt by the nodes.
+*   Humans constitute a distributed ledger.
 >
-> *   We act and speak to imply updates to the ledger.
-> *   We can, unconsciously, keep track of how others are likely to view us, and can formulate a strategy to optimize this.
+*   We act and speak to imply updates to the ledger.
+*   We can, unconsciously, keep track of how others are likely to view us, and can formulate a strategy to optimize this.
 >
-> *   We must choose, exclusively, between two definitions of truth: prediction and control vs material correspondence.
+*   We must choose, exclusively, between two definitions of truth: prediction and control vs material correspondence.
 >
-> *   Instead of evaluating the material basis for a claim, we can evaluate the integrity of its goals.
-> *   Change minds by changing incentives.
+*   Instead of evaluating the material basis for a claim, we can evaluate the integrity of its goals.
+*   Change minds by changing incentives.
 >
-> *   Deconstruct what misguides your own actions and view every smallest interaction as a chance to be a better person.
+*   Deconstruct what misguides your own actions and view every smallest interaction as a chance to be a better person.
 >
-> *   Thick ethical concepts suck people into pointless, repetitive behavior.
-> *   Publicly display what you really believe in.
-> *   If you want to change your own mind, you should plug into different institutions.
-> *   Volunteer for a cause, any cause.
+*   Thick ethical concepts suck people into pointless, repetitive behavior.
+*   Publicly display what you really believe in.
+*   If you want to change your own mind, you should plug into different institutions.
+*   Volunteer for a cause, any cause.
 
 ## Notes
 

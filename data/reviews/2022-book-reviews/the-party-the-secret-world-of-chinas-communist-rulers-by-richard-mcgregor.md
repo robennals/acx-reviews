@@ -46,9 +46,9 @@ The State-approved consensus inside China is that Mao is "70% good and 30% bad."
 
 Mao is the man behind the People's Republic of China. He was Chairman of the CPC for the longest period of time. He is the amalgamation of three key figures in communism.
 
-> *   **Marx' Ideology:** Mao Zedong thought is the root of Chinese socialist ideology
-> *   **Lenin's Revolution:** Mao was the revolutionary who overthrew the previous system and kick started a country based on this ideology
-> *   **Stalin's Despotism:**, Mao was the despotic ruler who lost his way and implemented policies which lead to the death of millions and destruction of traditional Chinese culture
+*   **Marx' Ideology:** Mao Zedong thought is the root of Chinese socialist ideology
+*   **Lenin's Revolution:** Mao was the revolutionary who overthrew the previous system and kick started a country based on this ideology
+*   **Stalin's Despotism:**, Mao was the despotic ruler who lost his way and implemented policies which lead to the death of millions and destruction of traditional Chinese culture
 
 Mao's ideology and revolution are the 70% good that he gets credit for. 30% is docked for the path he chose when his initial plan failed. Mao Zedong thought is the foundation stone of the Chinese system of government. He can **never** be extricated from China's image of itself or from the story that China tells about its triumphs and tribulations.
 

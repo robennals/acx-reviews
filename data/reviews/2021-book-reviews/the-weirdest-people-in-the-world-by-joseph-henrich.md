@@ -43,11 +43,11 @@ Before humanity developed farming technology, all of us had brown eyes. Then we 
 
 There are five levels of systemic evolution: genetics, ontogeny, psychology, norms, and institutions.
 
-> *   **Genetics:** Genetic evolution happens slowly on generational time-scales of thousands of years. "Fitness" is determined by what genes reproduce the most.
-> *   **Ontogeny:** Ontogeny refers to the physical development of an organism _during its own lifetime_ while genetics (or phylogeny) refers to how the organisms have evolved across lifetimes. As an example, taxi drivers have highly developed hippocampi, the part of the brain responsible for navigation.
-> *   **Psychology:** Psychology is how our brains process information. As opposed to the levels above, which are purely biological, psychology is more culturally-focused. As an example, WEIRD societies are individualistic, while non-WEIRD societies are collectivist.
-> *   **Norms:** Norms are what happens when we project our inner psychology out into the world. It is the praise we receive for jumpstarting a neighbor's car. Or the shame when someone steals a bike. These norms can become moderately calcified into habitual actions like shaking hands to greet each other.
-> *   **Institutions:** Institutions are the formalization of norms into even more calcified structures like laws, markets, corporations, and nation-states. These institutions are usually written down and change more slowly.
+*   **Genetics:** Genetic evolution happens slowly on generational time-scales of thousands of years. "Fitness" is determined by what genes reproduce the most.
+*   **Ontogeny:** Ontogeny refers to the physical development of an organism _during its own lifetime_ while genetics (or phylogeny) refers to how the organisms have evolved across lifetimes. As an example, taxi drivers have highly developed hippocampi, the part of the brain responsible for navigation.
+*   **Psychology:** Psychology is how our brains process information. As opposed to the levels above, which are purely biological, psychology is more culturally-focused. As an example, WEIRD societies are individualistic, while non-WEIRD societies are collectivist.
+*   **Norms:** Norms are what happens when we project our inner psychology out into the world. It is the praise we receive for jumpstarting a neighbor's car. Or the shame when someone steals a bike. These norms can become moderately calcified into habitual actions like shaking hands to greet each other.
+*   **Institutions:** Institutions are the formalization of norms into even more calcified structures like laws, markets, corporations, and nation-states. These institutions are usually written down and change more slowly.
 
 I like to think of these levels like Stewart Brand's pace layers—they move at different time scales. Here's Brand's pace layering:
 
@@ -87,8 +87,8 @@ As apes, we didn't have the solidified norms and institutions that we've develop
 
 However, we did have two important biological instincts which provide the anchor for future cultural evolution:
 
-> *   **Polygynous Mating:** All ape species besides homo sapiens engage in polygynous mating. All future mating/marriage norms need to be built on our initial anchor of polygyny.
-> *   **Kin Altruism:** Other ape species engage in kin altruism, where individuals cooperate with close kin in order to increase genetic fitness of close relatives. For example, I may give some extra food to my hungry brother because it increases the chances of his reproduction (and doesn't hurt me too much). Many of our kin-based institutions (like patrilineal clans) are built on the biological anchor of kin altruism.
+*   **Polygynous Mating:** All ape species besides homo sapiens engage in polygynous mating. All future mating/marriage norms need to be built on our initial anchor of polygyny.
+*   **Kin Altruism:** Other ape species engage in kin altruism, where individuals cooperate with close kin in order to increase genetic fitness of close relatives. For example, I may give some extra food to my hungry brother because it increases the chances of his reproduction (and doesn't hurt me too much). Many of our kin-based institutions (like patrilineal clans) are built on the biological anchor of kin altruism.
 
 ## IV. Early Homo Sapiens (200,000 BCE - 10,000 BCE)
 

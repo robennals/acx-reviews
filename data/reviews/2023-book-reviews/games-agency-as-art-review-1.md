@@ -38,10 +38,10 @@ It is an open debate whether all games are Suitsian games, and not one we need t
 
 The next interesting distinction comes from what Nguyen calls “striving play”, in contrast to “achievement play”. Achievement play is playing to win. A professional poker player, for example, is an achievement player. Striving play, on the other hand, is playing for the sake of engaging in the struggle. This should be understood alongside the distinction between “intrinsic” and “extrinsic” goals. Combining these four terms, we can cache out the various reasons that people play games to begin with. This looks like:  
 
-> *   Intrinsic achievement play: playing for the sake of winning in itself
-> *   Extrinsic achievement play: playing as a means to whatever winning brings (e.g. prize money, status)
-> *   Intrinsic striving play: playing for the intrinsic value of engaging in the game
-> *   Extrinsic striving play: playing for the sake of whatever engagement brings (e.g. running a race to improve one’s mental health)
+*   Intrinsic achievement play: playing for the sake of winning in itself
+*   Extrinsic achievement play: playing as a means to whatever winning brings (e.g. prize money, status)
+*   Intrinsic striving play: playing for the intrinsic value of engaging in the game
+*   Extrinsic striving play: playing for the sake of whatever engagement brings (e.g. running a race to improve one’s mental health)
 
 These categories are not exclusive, and one can play a game for reasons that touch upon them all. But they are useful to keep in mind, because they offer us “two very different dimensions by which we may locate where a player finds value in a game”.
 

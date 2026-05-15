@@ -40,7 +40,7 @@ Bo Burnham’s trajectory is unique, but his starting point was not--he was just
 
 “They're coming for every second of your life. It's not because anyone is bad, or anyone has evil plans, or even that they're doing it consciously. It's because these companies--Twitter, YouTube, Instagram and everything--they went public. They went to the shareholders. So they have to grow, their entire models are based off of growth. They cannot stay stagnant. Twitter grossed $4-5 billion last year, and it is in the red, it is unprofitable. It has to get more of **you**. [...] Every single free moment you have is a moment you could be looking at your phone, and they could be gathering information to target ads at you. That's what's happening.”
 
-> *   Bo Burnham, in a 2018 [interview](https://www.youtube.com/watch?v=SUTbnjIHfkg) for his movie Eighth Grade
+*   Bo Burnham, in a 2018 [interview](https://www.youtube.com/watch?v=SUTbnjIHfkg) for his movie Eighth Grade
 
 Targeted ads may be the main incentive for the social media engagement machine to keep turning, but they aren’t what’s left such an impact on society. It is the resulting _secondary_ effects, downstream of these attention engines racing to the bottom, that have reshaped human interaction and behavior on such a massive scale.
 

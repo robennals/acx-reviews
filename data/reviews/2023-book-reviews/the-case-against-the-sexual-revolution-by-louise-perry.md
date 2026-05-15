@@ -25,10 +25,10 @@ Perry doesn’t believe Martin Luther King Junior’s assertion that “the arc 
 
 So, what is the sexual revolution, anyway?
 
-> *   The destigmatization of pre-marital sex, and normalization of sex without commitment, loyalty, or a relationship
-> *   The widespread adoption of contraception
-> *   The destigmatization of leaving one’s relationship in the name of personal wellbeing
-> *   Sex positivity, the belief that sex is good if it is consensual
+*   The destigmatization of pre-marital sex, and normalization of sex without commitment, loyalty, or a relationship
+*   The widespread adoption of contraception
+*   The destigmatization of leaving one’s relationship in the name of personal wellbeing
+*   Sex positivity, the belief that sex is good if it is consensual
 
 _(Note: Perry’s limited scope means she doesn’t address same-sex relationships)_
 
@@ -48,17 +48,17 @@ Which brings us to...
 
 Perry addresses the following:
 
-> *   _So selling your body as a prostitute is wrong, but selling your body to work on an oil rig in Alaska isn’t? Sex work is work._
-> *   _How can sex be unethical if it involves consensual adults enjoying themselves?_
-> *   _Just because your partner drinks coffee with someone else doesn’t mean they don’t want to drink coffee with you. So why do you care if your partner has sex with someone else?_
+*   _So selling your body as a prostitute is wrong, but selling your body to work on an oil rig in Alaska isn’t? Sex work is work._
+*   _How can sex be unethical if it involves consensual adults enjoying themselves?_
+*   _Just because your partner drinks coffee with someone else doesn’t mean they don’t want to drink coffee with you. So why do you care if your partner has sex with someone else?_
 
 Perry’s rebuttals, which are more fleshed out in her work:
 
-> *   If sex work is work, then why did feminists think it was so awful for Harvey Weinstein to _proposition_ sex in exchange for career advancement? After all, bosses often ask workers to perform tasks outside of their stated duties, like making copies or staying late.
-> *   If sex is not special, then why is rape a special class of crime?
-> *   If sex isn’t special, then why do you think it’s morally wrong for a brother and sister to have sex (with contraception)?
-> *   If sex isn’t special, then why shouldn’t people be allowed to have sex in public?
-> *   If sex isn’t special, then why shouldn’t it be ‘redistributed’ (e.g. women are obliged to have sex with incels the same way wealthy people are forced to pay taxes)?
+*   If sex work is work, then why did feminists think it was so awful for Harvey Weinstein to _proposition_ sex in exchange for career advancement? After all, bosses often ask workers to perform tasks outside of their stated duties, like making copies or staying late.
+*   If sex is not special, then why is rape a special class of crime?
+*   If sex isn’t special, then why do you think it’s morally wrong for a brother and sister to have sex (with contraception)?
+*   If sex isn’t special, then why shouldn’t people be allowed to have sex in public?
+*   If sex isn’t special, then why shouldn’t it be ‘redistributed’ (e.g. women are obliged to have sex with incels the same way wealthy people are forced to pay taxes)?
 
 People who _say_ that sex isn’t special do not act that way. We are hardwired to see sex as a _special_ activity, which is why we are OK if our wife makes coffee for her boss but not OK if our wife has sex with our boss. _There are taboos around sex because people feel very strongly about it in a way they do not feel about other activities! This is true of virtually everybody, whether they describe themselves as ‘sex positive’ or not!_
 

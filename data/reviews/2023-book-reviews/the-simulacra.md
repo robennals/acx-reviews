@@ -36,10 +36,10 @@ The word “simulacra” was used only sparsely in later Latin fiction by Virgil
 
 Philip K. Dick knew enough Latin to meditate at length on obscure Latin theological phrases in his later _Exegesis_. He had a habit of buttressing his book titles with Latinate words uncommon in lay English:
 
-> *   _The Penultimate Truth_
-> *   _The Three Stigmata of Palmer Eldritch_
-> *   _Deus Irae_ (collaboration with Roger Zelazny)
-> *   _A. Lincoln, Simulacrum_ (not a book, but a magazine serial)
+*   _The Penultimate Truth_
+*   _The Three Stigmata of Palmer Eldritch_
+*   _Deus Irae_ (collaboration with Roger Zelazny)
+*   _A. Lincoln, Simulacrum_ (not a book, but a magazine serial)
 
 Like Lucretius, Philip K. Dick maintained a specific meaning for the word “simulacra” in the world of his book. Dick’s usage cleaves closer to the _Vetus Testamentum_ usage of “graven images” than the phrase hit upon by most English translators of _De Rerum Natura_; one can speculate that Dick’s novel would doubtfully have produced the same impact had it been titled _The Images of Things_.
 
@@ -47,9 +47,9 @@ Like Lucretius, Philip K. Dick maintained a specific meaning for the word “sim
 
 Philip K. Dick’s biographer Lawrence Sutin wrote of _The Simulacra_ “Of all Phil’s novel plots, this may be the most complex.” [6] _The Simulacra_ has never been adapted for screen, stage, or video game console. Philip K. Dick published _The Simulacra_ in 1964, the same year as three other of his novels:
 
-> *   _The Penultimate Truth_
-> *   _Martian Time-Slip_
-> *   _Clans of the Alphane Moon_.
+*   _The Penultimate Truth_
+*   _Martian Time-Slip_
+*   _Clans of the Alphane Moon_.
 
 Some of the themes from Dick’s other novels of this hyperprolific period of his career can seem to bleed together. As an example, _The Penultimate Truth_ shares with _The Simulacra_ the theme of a political leader whose facade of authentic humanity conceals a hidden elite who control the perception of leadership with technology. Although _The Penultimate Truth_ reused the word simulacrum to describe this maneuver, the two stories imagined very different technologies accomplishing this effect.
 
@@ -282,22 +282,22 @@ Philip K. Dick’s continued relevance can be found in LessWrong discourse durin
 
 [3]: “EPISTULA I IOANNIS - Nova Vulgata, Novum Testamentum.” http://www.vatican.va, www.vatican.va/archive/bible/nova\_vulgata/documents/nova-vulgata\_nt\_epist-i-ioannis\_lt.html. Accessed 19 Mar. 2023. The word _simulacra_ is not used to denote idols anywhere in the books of the Pentateuch, nor in the Gospels. A different Latin term is employed in those books: _similitūdō_. The books within the Vulgate where the word _simulacra_ is used are the following:
 
-> *   _ACTUS APOSTOLORUM_
-> *   _AD COLOSSENSES EPISTULA SANCTI PAULI APOSTOLI_
-> *   _AD CORINTHIOS EPISTULA I SANCTI PAULI APOSTOLI_
-> *   _AD THESSALONICENSES EPISTULA I SANCTI PAULI APOSTOLI_
-> *   _APOCALYPSIS IOANNIS_
-> *   _EPISTULA I IOANNIS_
-> *   _LIBER BARUCH_
-> *   _LIBER ISAIAE_
-> *   _LIBER PRIMUS MACCABAEORUM_
-> *   _LIBER PRIMUS REGUM_
-> *   _LIBER PSALMORUM_
-> *   _LIBER SECUNDUS MACCABAEORUM_
-> *   _LIBER SECUNDUS PARALIPOMENON_
-> *   _PROPHETIA EZECHIELIS_
-> *   _PROPHETIA HABACUC_
-> *   _PROPHETIA OSEE_
+*   _ACTUS APOSTOLORUM_
+*   _AD COLOSSENSES EPISTULA SANCTI PAULI APOSTOLI_
+*   _AD CORINTHIOS EPISTULA I SANCTI PAULI APOSTOLI_
+*   _AD THESSALONICENSES EPISTULA I SANCTI PAULI APOSTOLI_
+*   _APOCALYPSIS IOANNIS_
+*   _EPISTULA I IOANNIS_
+*   _LIBER BARUCH_
+*   _LIBER ISAIAE_
+*   _LIBER PRIMUS MACCABAEORUM_
+*   _LIBER PRIMUS REGUM_
+*   _LIBER PSALMORUM_
+*   _LIBER SECUNDUS MACCABAEORUM_
+*   _LIBER SECUNDUS PARALIPOMENON_
+*   _PROPHETIA EZECHIELIS_
+*   _PROPHETIA HABACUC_
+*   _PROPHETIA OSEE_
 
 [4]: Géley, Gustave. _From the Unconscious to the Conscious_. United Kingdom, William Collins Sons, 1920, p.62. Géley appears to use the word simulacra in Lucretius’ original sense, uncritically accepting _De Rerum Natura_ as a still-reasonably-viable account of experiential phenomenon.
 

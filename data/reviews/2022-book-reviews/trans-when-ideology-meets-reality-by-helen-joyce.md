@@ -122,12 +122,12 @@ I have my own kids. Sometimes, I wonder what I would do if my child had gender d
 
 Joyce claims that her book is not about trans people, but rather about the philosophy of self-identity and trans activism. Yet, Joyce makes many claims about the trans population. She curates stylized profiles and anecdotes about transgender people. Here are some excerpts to illustrate the types of trans-women that command Joyce’s focus (note: I’ve changed all the names):
 
-> *   “Sarah tells him about the ‘robot man’ that ‘Chuck’ (her name pre-transition) constructed to enact his fantasy of vaginal penetration. It had a ‘penis’ made of a dildo, and an arm that could be manipulated to stroke his back.” (page 46)
-> *   “Lisa has written that ‘sissy porn did make me trans’.” (page 69).
-> *   Linda, a self-described ‘shemale’ escort whose personal ads boasted of ‘BIG bouncy 34E boobs’ and a ‘7-inch surprise,” did not have a GRC and was sent to a men’s prison.” (page 163)
-> *   “Melissa is one of only one hundred or so prisoners in Scotland classified as so dangerous that his sentence is indefinite. He has held dirty protests, assaulted prison officers, slashed a cellmate’s face with a razor and bitten open his own veins to spray staff with blood.” (page 166)
-> *   “Anna was convicted in July 2019 on ten counts of sexual assault, and one of cruelty to a child.” (page 242)
-> *   “Aged seventeen, Wendy attacked another woman, trying to gouge out her eyes, ripping her eyelids and pulling out clumps of her hair.” (page 243)
+*   “Sarah tells him about the ‘robot man’ that ‘Chuck’ (her name pre-transition) constructed to enact his fantasy of vaginal penetration. It had a ‘penis’ made of a dildo, and an arm that could be manipulated to stroke his back.” (page 46)
+*   “Lisa has written that ‘sissy porn did make me trans’.” (page 69).
+*   Linda, a self-described ‘shemale’ escort whose personal ads boasted of ‘BIG bouncy 34E boobs’ and a ‘7-inch surprise,” did not have a GRC and was sent to a men’s prison.” (page 163)
+*   “Melissa is one of only one hundred or so prisoners in Scotland classified as so dangerous that his sentence is indefinite. He has held dirty protests, assaulted prison officers, slashed a cellmate’s face with a razor and bitten open his own veins to spray staff with blood.” (page 166)
+*   “Anna was convicted in July 2019 on ten counts of sexual assault, and one of cruelty to a child.” (page 242)
+*   “Aged seventeen, Wendy attacked another woman, trying to gouge out her eyes, ripping her eyelids and pulling out clumps of her hair.” (page 243)
 
 Most people [don’t personally know a trans person](https://williamsinstitute.law.ucla.edu/wp-content/uploads/Public-Opinion-Trans-US-Aug-2019.pdf#page=5). That’s too bad, because [knowing a trans person](https://williamsinstitute.law.ucla.edu/wp-content/uploads/Public-Opinion-Trans-US-Aug-2019.pdf#page=14) is very predictive of having a trans-affirming perspective on many issues. It matters even more than age, income, or education. Clearly, the trans folks that most people know are quite different from the colorful cast of characters that Joyce chooses to highlight.
 

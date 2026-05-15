@@ -95,8 +95,8 @@ The overall formula is enhanced\_chips + hand\_left \* ( ( hand\_right + multi )
 
 > Jokers behave like relics in Spire:
 >
-> *   **Additive Multi** – e.g. Basic _[Joker](https://balatrogame.fandom.com/wiki/Joker)_: “+4 Multi”
-> *   **Multiplicative xMult** – e.g. _[Triboulet](https://balatrogame.fandom.com/wiki/Triboulet)_: “×2 Mult for each played King or Queen.”
+*   **Additive Multi** – e.g. Basic _[Joker](https://balatrogame.fandom.com/wiki/Joker)_: “+4 Multi”
+*   **Multiplicative xMult** – e.g. _[Triboulet](https://balatrogame.fandom.com/wiki/Triboulet)_: “×2 Mult for each played King or Queen.”
 >
 > Because _Multi_ is inside the parentheses that get multiplied by _xMult_, stacking both yields superlinear growth. One legendary Joker that increased xMult each scoring hand catapults scores from thousands to millions if protected.
 >

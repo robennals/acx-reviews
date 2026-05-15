@@ -32,12 +32,12 @@ We’re deep in the age of the dating app now, with the old-style dating sites f
 
 If this were a different product, this would be where I’d go through and review the major players and their different pros and cons, but there’s not any real point in doing so here because there aren’t actually that many major players. The Match Group essentially owns the entire heterosexual-dating-app industry. This sounds like an exaggeration, but here’s a list of major apps they own:
 
-> *   Tinder
-> *   Hinge
-> *   Plenty of Fish
-> *   [Match.com](http://match.com)
-> *   OKCupid
-> *   Most if not all of the “XPeopleMeet” apps
+*   Tinder
+*   Hinge
+*   Plenty of Fish
+*   [Match.com](http://match.com)
+*   OKCupid
+*   Most if not all of the “XPeopleMeet” apps
 
 There are a few other competitors, Bumble being the largest (they also own Badoo, which is fairly popular outside of the US), but even the ones not owned by Match tend to be strikingly similar in design. They all use the swipe-based matching system (some have you press a like or dislike button instead of literally swiping, but the result is identical). They almost all focus on short profiles with very brief prompts. And they all lock the basic functionality of the app behind paywalls.
 

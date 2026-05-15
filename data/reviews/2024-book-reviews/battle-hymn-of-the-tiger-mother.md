@@ -54,16 +54,16 @@ Either way, Chua’s perspective as an outsider immersed in the American mainstr
 
 > _A lot of people wonder how Chinese parents raise such stereotypically successful kids. They wonder what these parents do to produce so many math whizzes and music prodigies, what it’s like inside the family, and whether they could do it too. Well, I can tell them, because I’ve done it. Here are some things my daughters, Sophia and Louisa, were never allowed to do:_
 >
-> *   _attend a sleepover_
-> *   _have a playdate_
-> *   _be in a school play_
-> *   _complain about not being in a school play_
-> *   _watch TV or play computer games_
-> *   _choose their own extracurricular activities_
-> *   _get any grade less than an A_
-> *   _not be the #1 student in every subject except gym and drama_
-> *   _play any instrument other than the piano or violin_
-> *   _not play the piano or violin._
+*   _attend a sleepover_
+*   _have a playdate_
+*   _be in a school play_
+*   _complain about not being in a school play_
+*   _watch TV or play computer games_
+*   _choose their own extracurricular activities_
+*   _get any grade less than an A_
+*   _not be the #1 student in every subject except gym and drama_
+*   _play any instrument other than the piano or violin_
+*   _not play the piano or violin._
 >
 > **Battle Hymn of the Tiger Mother (p 3-4). Kindle Edition.**
 
@@ -208,9 +208,9 @@ There are more than enough interviews, articles and essays to be found out there
 
 > One of my greatest fears is family decline. There’s an old Chinese saying that “prosperity can never last for three generations.” I’ll bet that if someone with empirical skills conducted a longitudinal survey about intergenerational performance, they’d find a remarkably common pattern among Chinese immigrants fortunate enough to have come to the United States as graduate students or skilled workers over the last fifty years. The pattern would go something like this:
 >
-> *   The immigrant generation (like my parents) is the hardest-working. Many will have started off in the United States almost penniless, but they will work nonstop (...). Everything they do and earn will go toward their children’s education and future.
-> *   The next generation (mine), the first to be born in America, will typically be high-achieving. They will usually play the piano and/or violin. They will attend an Ivy League or Top Ten university. They will tend to be professionals (...). Whether male or female, they will not be as strict with their children as their parents were with them.
-> *   The next generation (...) is the one I spend nights lying awake worrying about. Because of the hard work of their parents and grandparents, this generation will be born into the great comforts of the upper middle class.(...) Finally and most problematically, they will feel that they have individual rights guaranteed by the U.S. Constitution and therefore be much more likely to disobey their parents and ignore career advice. In short, all factors point to this generation being headed straight for decline.
+*   The immigrant generation (like my parents) is the hardest-working. Many will have started off in the United States almost penniless, but they will work nonstop (...). Everything they do and earn will go toward their children’s education and future.
+*   The next generation (mine), the first to be born in America, will typically be high-achieving. They will usually play the piano and/or violin. They will attend an Ivy League or Top Ten university. They will tend to be professionals (...). Whether male or female, they will not be as strict with their children as their parents were with them.
+*   The next generation (...) is the one I spend nights lying awake worrying about. Because of the hard work of their parents and grandparents, this generation will be born into the great comforts of the upper middle class.(...) Finally and most problematically, they will feel that they have individual rights guaranteed by the U.S. Constitution and therefore be much more likely to disobey their parents and ignore career advice. In short, all factors point to this generation being headed straight for decline.
 >
 > _Well, not on my watch._ From the moment Sophia was born and I looked into her cute and knowing face, I was determined not to let it happen to her, not to raise a soft, entitled child — not to let my family fall.
 >

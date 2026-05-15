@@ -38,11 +38,11 @@ With that in mind, I suppose I better provide a TL;DR:
 
 ### TL;DR
 
-> *   We gain and add value by discussing thinkers and books we haven't read.
-> *   Doing so is a creative act.
-> *   An understanding of where a book sits in relation to other books and ideas can be as important as its content.
-> *   Even in the cases where we've completed a book, we don't know all the background context and we're in a constant state of forgetting.
-> *   Talking about books we haven’t read is something we do anyway. We should be less embarrassed by it.
+*   We gain and add value by discussing thinkers and books we haven't read.
+*   Doing so is a creative act.
+*   An understanding of where a book sits in relation to other books and ideas can be as important as its content.
+*   Even in the cases where we've completed a book, we don't know all the background context and we're in a constant state of forgetting.
+*   Talking about books we haven’t read is something we do anyway. We should be less embarrassed by it.
 
 I’m ambivalent on including this Blinkist styled overview that wouldn’t look out of place on a productivity guru’s twitter thread. Nabokov would advise against it. He [argued](https://www.amazon.com/Lectures-Literature-Vladimir-Nabokov/dp/0156027755) that the general summary is the exact wrong end to understand a book. Rather, we must fondle its details to gain artistic appreciation. Bayard would remind us that many details can be accessed without reading.
 

@@ -17,12 +17,12 @@ tags:
 
 This is a review of an O’Reilly book, so something between a textbook and a “how to” book. It’s a different book than most of the book review targets for Astral Codex Ten. Still, given the audience of the site and the topic, I thought it might be interesting to the readership. I was looking for something that would get me back into doing some data analysis. So, if you know some Python and some data analysis, is this a good book to refresh and get some practice on those topics? Yes, it’s pretty good, even without any previous data analysis experience. For me, the book ticked a number of boxes:
 
-> *   It uses Python
-> *   The second edition was just released, so it should use a fairly recent version of Python 3.
-> *   The modules I wanted to learn and the ones used by the book overlap nicely (NumPy, Pandas, and SciPy).
-> *   The book recommends Anaconda, which is the version of Python I already use.
-> *   It is focused on local execution. I didn’t want to mix in cloud services or how to tackle very large (>10GB datasets).
-> *   It has a free, on-line version. I bought the [Kindle version at Amazon](https://www.amazon.com/Python-Data-Science-Handbook-VanderPlas-ebook/dp/B0BP8XD42X/ref=tmm_kin_swatch_0), but I really like imagining I could give a class at a local library or community center for free.
+*   It uses Python
+*   The second edition was just released, so it should use a fairly recent version of Python 3.
+*   The modules I wanted to learn and the ones used by the book overlap nicely (NumPy, Pandas, and SciPy).
+*   The book recommends Anaconda, which is the version of Python I already use.
+*   It is focused on local execution. I didn’t want to mix in cloud services or how to tackle very large (>10GB datasets).
+*   It has a free, on-line version. I bought the [Kindle version at Amazon](https://www.amazon.com/Python-Data-Science-Handbook-VanderPlas-ebook/dp/B0BP8XD42X/ref=tmm_kin_swatch_0), but I really like imagining I could give a class at a local library or community center for free.
 
 While reading the book, with this review in mind, I noticed a few things about formatting worth mentioning. First, a few of the Amazon reviews mentioned that the print version was in black and white. I was going to read mainly on a new Kindle Scribe, so I was going to end up there anyway and thought that it might be a feature in my case. It turns out, things are weird these days. The book looked great on the Scribe and the images didn’t seem to suffer too much from being in B&W at first. However, all the figures seemed to be wrong. After I was sure that it was not just me, I put in an errata on the web site for the book (at least I could do that easily). After working another chapter, it was intolerable and I went to leave a review on Amazon in case no one was looking at the errata. As soon as I hit submit and went back to the book, it auto-updated and all the figures were fine. I assume the printed book was fine because someone looked before ordering a few pallets worth of them. I also submitted more minor coding errors that I assume were not caught, but I assume will be fixed soon in the Kindle edition and presumably in the online version, eventually. In addition, the Kindle version is actually in color and displays as such on a phone or other Kindle app capable of color. I found that reading on an iPad in landscape orientation was my favorite. The Kindle Scribe version seemed to have an issue of not using a fixed-width font for code and did not work with the free-form pen notes. Regular notes worked fine. It seems publishers and writers have more to watch out for these days.
 
@@ -150,14 +150,14 @@ What next?
 
 So as not to forget what I just learned, I plan to roll through a series of data analysis topics, mostly to look for a style and practice a set of tools. The next sections will be one of these in a time boxed way, but others might include:
 
-> *   Air pollution
-> *   Water quality
-> *   Safety by job type
-> *   Education format differences (the data seems tough here)
-> *   Local crime
-> *   Government spending
-> *   Anything else the pops up in the news (like train safety maybe)
-> *   Advent of Code, forcing myself to use NumPy and maybe some the of other tools
+*   Air pollution
+*   Water quality
+*   Safety by job type
+*   Education format differences (the data seems tough here)
+*   Local crime
+*   Government spending
+*   Anything else the pops up in the news (like train safety maybe)
+*   Advent of Code, forcing myself to use NumPy and maybe some the of other tools
 
 This would mainly be for practice, so it’s OK if they have been done before. Then if I feel confident enough and time allows, maybe the class. After doing just the couple empirical examples that follow, it may take some time to build that confidence.
 

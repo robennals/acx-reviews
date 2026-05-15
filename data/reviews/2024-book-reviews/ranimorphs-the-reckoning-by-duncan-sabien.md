@@ -43,22 +43,22 @@ But, for the fic, things diverge here. Duncan Sabien’s _r!Animorphs_ doesn’t
 
 [Left to right: Jake, Marco, Rachel, Tobias, Cassie and Aximili. Esplin (Visser Three) looks just like Aximili but bigger, which is an incredibly alien racist thing to say.]
 
-> *   Jake, everyman kid learning to be a leader, now has a soft superpower where he can travel social situations with incredible ease by modelling the opponent in his head and just being really convincing. To be fair, he was a good diplomat in the original, but I don't know why it had to be a "best in the world" talent here.
-> *   Marco, originally comic relief, is now a rationalist genius stereotype, the de facto leading man of the ensemble. This means he's less of a Jake toadie and the two have some fun conflict sometimes, but it also means he’s very annoying.
-> *   Cassie, heart of the group, now dies 5% into the plot so the author can (mostly) avoid accounting for virtue ethics and can focus exclusively on utilitarianism, completely missing the point that one of the main _Animorphs_ themes is people finding common grey ground over those black/white topics.[5]
-> *   Tobias, originally perennial bullying victim stuck in the body of a falcon,[6] now wears a leather jacket and is generally angsty and edgy instead. He lives in an orphanage where he's besties with the original new cast member, Garrett, who is younger and autistic. Garrett's autism is a superpower because it makes him a savant with thoughtspeak, which only he can use as a weapon. Tobias never turns into a falcon, which saves us from _really_ boring and repetitive sentences about thermals and air currents.
-> *   Rachel remains unchanged (beyond an accelerated arc from schoolgirl to bloodthirsty badass), but that just means she becomes the stock incompetent person to make the rest of the cast look smarter.
-> *   Esplin/Visser Three, the main antagonist, is the smartest being in the universe due to a quirk in how yeerk mechanics work, and his only goal now is achieving immortality, which he’s needed to escalate a _lot_ to achieve since most yeerks and all andalites have wanted him dead since he was born. In the original series, he was a complete idiot and the only reason Earth wasn't taken over in seven hours.
+*   Jake, everyman kid learning to be a leader, now has a soft superpower where he can travel social situations with incredible ease by modelling the opponent in his head and just being really convincing. To be fair, he was a good diplomat in the original, but I don't know why it had to be a "best in the world" talent here.
+*   Marco, originally comic relief, is now a rationalist genius stereotype, the de facto leading man of the ensemble. This means he's less of a Jake toadie and the two have some fun conflict sometimes, but it also means he’s very annoying.
+*   Cassie, heart of the group, now dies 5% into the plot so the author can (mostly) avoid accounting for virtue ethics and can focus exclusively on utilitarianism, completely missing the point that one of the main _Animorphs_ themes is people finding common grey ground over those black/white topics.[5]
+*   Tobias, originally perennial bullying victim stuck in the body of a falcon,[6] now wears a leather jacket and is generally angsty and edgy instead. He lives in an orphanage where he's besties with the original new cast member, Garrett, who is younger and autistic. Garrett's autism is a superpower because it makes him a savant with thoughtspeak, which only he can use as a weapon. Tobias never turns into a falcon, which saves us from _really_ boring and repetitive sentences about thermals and air currents.
+*   Rachel remains unchanged (beyond an accelerated arc from schoolgirl to bloodthirsty badass), but that just means she becomes the stock incompetent person to make the rest of the cast look smarter.
+*   Esplin/Visser Three, the main antagonist, is the smartest being in the universe due to a quirk in how yeerk mechanics work, and his only goal now is achieving immortality, which he’s needed to escalate a _lot_ to achieve since most yeerks and all andalites have wanted him dead since he was born. In the original series, he was a complete idiot and the only reason Earth wasn't taken over in seven hours.
 
 But these characters changes are not enough to justify the massive changes to the plot. In addition to the former, everyone gets an agency upgrade as a byproduct of changing how morphing works at its core. As a reminder, in _Animorphs_, they touch an animal, acquire it, and can later turn into it. Here:
 
-> *   You can take things with you into morphspace (so you're an animal on the outside, but the pocket dimension that holds your original body also has more things in it). In the original, you could only take skintight clothing into it, and that was presumably only because the authors didn't want to write a thousand scenes of naked children.
-> *   Morphing also had a two-hour hard time limit, after which you’d get "stuck in the morph" permanently. Here, the limit is based on how much mass you take into the morph, and the kids learn to refresh their morphs often so it’s a non-issue.
+*   You can take things with you into morphspace (so you're an animal on the outside, but the pocket dimension that holds your original body also has more things in it). In the original, you could only take skintight clothing into it, and that was presumably only because the authors didn't want to write a thousand scenes of naked children.
+*   Morphing also had a two-hour hard time limit, after which you’d get "stuck in the morph" permanently. Here, the limit is based on how much mass you take into the morph, and the kids learn to refresh their morphs often so it’s a non-issue.
 >
-> *   Morphing in the original is basically magic, your brain is magically controlling the animal you become, with no applications beyond that. Here, the tech is derived from yeerk biology, with the kids connected to a “fake yeerk” that is controlling the copied biology. When the kids morph into a sentient being and learn how to "turn on" the host body, they realize a clone of the being is fully conscious and they can talk with or interrogate the clone at will.
+*   Morphing in the original is basically magic, your brain is magically controlling the animal you become, with no applications beyond that. Here, the tech is derived from yeerk biology, with the kids connected to a “fake yeerk” that is controlling the copied biology. When the kids morph into a sentient being and learn how to "turn on" the host body, they realize a clone of the being is fully conscious and they can talk with or interrogate the clone at will.
 >
-> *   If you get stuck into a morph of a person, you've basically cloned them, with the clone waking up and controlling their new body. I predicted in advance that this would be used to bring people back, and it does really get spammed around the last third of the story, with the Animorphs convincing dying hospital patients to morph into their morphs of their dead friends, and Marco making thirty clones of himself, as a treat. You may think this is a batshit turn of events, but this is actually on brand for canon.
-> *   You can now morph as Luigi.
+*   If you get stuck into a morph of a person, you've basically cloned them, with the clone waking up and controlling their new body. I predicted in advance that this would be used to bring people back, and it does really get spammed around the last third of the story, with the Animorphs convincing dying hospital patients to morph into their morphs of their dead friends, and Marco making thirty clones of himself, as a treat. You may think this is a batshit turn of events, but this is actually on brand for canon.
+*   You can now morph as Luigi.
 
 If you're thinking that maybe tacking all of this onto the already somewhat complex _Animorphs_ lore might be too much, I fucking WISH that was it. Let's move on. We know the kids get their hands on the morphing power. What happens next?
 
@@ -172,10 +172,10 @@ Here's a particularly egregious example, which incidentally showcases the big is
 
 I cut off the quote early, before it goes into multiple parentheses per paragraph. The breathless, punctuation-heavy cascade never stops. I have the stats to prove it, by comparing it to other easily accessible pieces of web fiction, with a percentage of emdashes/word:
 
-> *   _[Fargo](https://archiveofourown.org/works/49647454/chapters/125309431)_:[11] 325k words, 640 emdashes, **once every 526 words.**
-> *   _[Unsong](https://unsongbook.com/)_: 233k words, 652 emdashes, **once every 357 words.**
-> *   This review: ~5.5k words,[12] 9 emdashes (four of which I will soon use for humorous purposes), **once every 611 words.**
-> *   _r!Animorphs_: 600k words, **16933 emdashes,** **once every** _**38**_ **words.**
+*   _[Fargo](https://archiveofourown.org/works/49647454/chapters/125309431)_:[11] 325k words, 640 emdashes, **once every 526 words.**
+*   _[Unsong](https://unsongbook.com/)_: 233k words, 652 emdashes, **once every 357 words.**
+*   This review: ~5.5k words,[12] 9 emdashes (four of which I will soon use for humorous purposes), **once every 611 words.**
+*   _r!Animorphs_: 600k words, **16933 emdashes,** **once every** _**38**_ **words.**
 
 While _Fargo_ and _Unsong_ place them conservatively, where they’re needed, _r!Animorphs_ uses them _everywhere_. That’s 3-6 times per average paragraph—so—pretty—damn—frequently.
 
@@ -363,21 +363,21 @@ You can read _r!Animorphs: The Reckoning_ by Duncan Sabien at [Archive of Our Ow
 
 > Highly-rational fiction could include one or more of the following features:
 >
-> *   Focus on intelligent characters solving problems through creative applications of their knowledge and resources.
-> *   Examination of goals and motives: the story makes reasons behind characters' decisions clear.
-> *   Intellectual pay-off: the story's climax features a satisfying intelligent solution to its problems.
-> *   Aspiring rationalism: the story heavily focuses on characters' thinking, or their attempts to improve their reasoning abilities. This is a feature of **rationalist fiction**, a subcategory of rational fiction.
-> *   Thoughtful worldbuilding: the fictional world follows known, consistent rules, as a consequence of rational background characters exploring it or building realistic social structures.
+*   Focus on intelligent characters solving problems through creative applications of their knowledge and resources.
+*   Examination of goals and motives: the story makes reasons behind characters' decisions clear.
+*   Intellectual pay-off: the story's climax features a satisfying intelligent solution to its problems.
+*   Aspiring rationalism: the story heavily focuses on characters' thinking, or their attempts to improve their reasoning abilities. This is a feature of **rationalist fiction**, a subcategory of rational fiction.
+*   Thoughtful worldbuilding: the fictional world follows known, consistent rules, as a consequence of rational background characters exploring it or building realistic social structures.
 >
 > Presence of these _particular_ features is not necessary: overall impression of the work is more important.
 >
 > **Adjacent tropes:** Rational stories tend to include certain narrative elements. Though their presence _doesn't_ make a story more rational, this community highly enjoys them. Most important ones include:
 >
-> *   [Fair-Play Whodunnit](https://tvtropes.org/pmwiki/pmwiki.php/Main/FairPlayWhodunnit): story's mysteries could be solved by attentive readers ahead of time.
-> *   Absence of [Deus Ex Machina](https://en.wikipedia.org/wiki/Deus_ex_machina): established story rules are never broken.
-> *   [Deconstruction](https://tvtropes.org/pmwiki/pmwiki.php/Main/Deconstruction): genre tropes are re-imagined in a more realistic manner.
-> *   Munchkinry: characters attempt to exploit their world's rules in creative, non-intuitive ways.
-> *   [Genre Savviness](https://tvtropes.org/pmwiki/pmwiki.php/Main/GenreSavvy): characters are familiar with common genre tropes and try to avoid or exploit them.
+*   [Fair-Play Whodunnit](https://tvtropes.org/pmwiki/pmwiki.php/Main/FairPlayWhodunnit): story's mysteries could be solved by attentive readers ahead of time.
+*   Absence of [Deus Ex Machina](https://en.wikipedia.org/wiki/Deus_ex_machina): established story rules are never broken.
+*   [Deconstruction](https://tvtropes.org/pmwiki/pmwiki.php/Main/Deconstruction): genre tropes are re-imagined in a more realistic manner.
+*   Munchkinry: characters attempt to exploit their world's rules in creative, non-intuitive ways.
+*   [Genre Savviness](https://tvtropes.org/pmwiki/pmwiki.php/Main/GenreSavvy): characters are familiar with common genre tropes and try to avoid or exploit them.
 
 The knee-jerk response to this is “you’re just describing good fiction in general”, but I find the “adjacent tropes” section is less _adjacent_ and more _extremely important_.
 

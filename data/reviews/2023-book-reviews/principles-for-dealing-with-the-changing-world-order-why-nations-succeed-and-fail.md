@@ -33,9 +33,9 @@ Dalio claims to have found timeless and universal principles that will allow the
 
 Dalio studied nine countries (the Netherlands, Great Britain, the US, China, Germany, France, Russia, India, and Japan) between 1500 and 2000 and found that the historical Great Powers (which he identifies as the Netherlands, Great Britain, the US, and China) shared a strikingly similar rise and fall pattern:
 
-> *   During their rise, society was united, well-educated and hardworking, and the nation used technological innovation and military power, fueled by capitalism, to outcompete rivals.  
-> *   At their pinnacle the population begins to consume in excess, their competitive advantage starts to wane, they face rising inequality and political upheaval, and they take on increasing amounts of debt to maintain the status quo.
-> *   These fundamental problems lead them to become internally divided, overextended, and over indebted, which combine to cause an irreversible decline.
+*   During their rise, society was united, well-educated and hardworking, and the nation used technological innovation and military power, fueled by capitalism, to outcompete rivals.  
+*   At their pinnacle the population begins to consume in excess, their competitive advantage starts to wane, they face rising inequality and political upheaval, and they take on increasing amounts of debt to maintain the status quo.
+*   These fundamental problems lead them to become internally divided, overextended, and over indebted, which combine to cause an irreversible decline.
 
 He argues that “because [the 18 steps to a rise and fall] unfold in a logical sequence of timeless and universal cause/effect relationships, it is possible to create a health index of where a country stands by looking at these measures.” (53)
 
@@ -56,24 +56,24 @@ TLDR: In case you don’t have the time or inclination to read his book, you can
 
 At the core of his model are:
 
-> *   Three Big Cycles
+*   Three Big Cycles
 >
-> *   Money, Credit, Debt, and Economic Activity
-> *   Internal Order
-> *   External Order
+*   Money, Credit, Debt, and Economic Activity
+*   Internal Order
+*   External Order
 
 That interact with:
 
-> *   Eight Key Determinants
+*   Eight Key Determinants
 >
-> *   Education
-> *   Innovation & Technology
-> *   Cost Competitiveness
-> *   Military Strength
-> *   Trade
-> *   Economic Output
-> *   Markets and Financial Center
-> *   Reserve Currency Status
+*   Education
+*   Innovation & Technology
+*   Cost Competitiveness
+*   Military Strength
+*   Trade
+*   Economic Output
+*   Markets and Financial Center
+*   Reserve Currency Status
 
 Less important determinants, other factors, plus bonus content are included at the end.
 
@@ -199,8 +199,8 @@ And Dalio knows this! He mentions that in the late 16th century even certain par
 
 Especially not when there is a great deal of variance within the data.
 
-> *   “Great empires typically lasted roughly 250 years, give or take 150 years” (14)
-> *   “big economic, debt, and political cycles … lasting about 50 to 100 years” (15)
+*   “Great empires typically lasted roughly 250 years, give or take 150 years” (14)
+*   “big economic, debt, and political cycles … lasting about 50 to 100 years” (15)
 
 But the crux of Dalio’s argument is that the rise and fall of each of these Great Powers is made up of many smaller cause-and-effect relationships.  He claims that each of these smaller interactions is verifiable, universal and timeless. If A + B = C in 1500, A + B = C in 2023.
 
@@ -240,12 +240,12 @@ Going all the way back to ancient history, much of the world’s economic activi
 
 The key determinants for that type of economic success might include:
 
-> *   arable land,
-> *   people to work the land,
-> *   industry to provide farm tools and turn agricultural products into more useful goods (leather into shoes, wool fibers into clothing),
-> *   commerce to facilitate the production, transport, and sale of agricultural goods,
-> *   the cooperation of local elites to allow delegation of authority,
-> *   and finally a military force to protect your land and extract taxes from the people.
+*   arable land,
+*   people to work the land,
+*   industry to provide farm tools and turn agricultural products into more useful goods (leather into shoes, wool fibers into clothing),
+*   commerce to facilitate the production, transport, and sale of agricultural goods,
+*   the cooperation of local elites to allow delegation of authority,
+*   and finally a military force to protect your land and extract taxes from the people.
 
 When Dalio introduces us to the world in 1500 (or more precisely 1504), he states that Europe’s most powerful empire was the Habsburg dynasty and that the world’s most powerful, wealthy, and advanced empire was Ming China. (246-247)  Both primarily relied on this traditional economic model.  
 
@@ -255,13 +255,13 @@ So, let’s try and make a prediction by using these historical key determinants
 
 The year is 1574.  Try to guess which European power I am talking about and what will happen to it.
 
-> *   One of the largest countries in Europe in terms of land and population
-> *   Great agricultural wealth from large-scale cultivation by peasants tied to the land
-> *   Possesses many trade ports and is a major exporter of agricultural products
-> *   Strong military that is famous for its cavalry
-> *   A cultural leader, its language is used as the common language of the region
-> *   Mostly Catholic but marked by relative religious and ethnic tolerance
-> *   A stable, but decentralized government characterized by powerful local elites
+*   One of the largest countries in Europe in terms of land and population
+*   Great agricultural wealth from large-scale cultivation by peasants tied to the land
+*   Possesses many trade ports and is a major exporter of agricultural products
+*   Strong military that is famous for its cavalry
+*   A cultural leader, its language is used as the common language of the region
+*   Mostly Catholic but marked by relative religious and ethnic tolerance
+*   A stable, but decentralized government characterized by powerful local elites
 
 This isn’t a trick question: it will flourish. This is the beginning of the Polish-Lithuanian Commonwealth’s golden age, which would last for another 75 years.  So far, Dalio’s methodology of extrapolating from the past looks good, as the Commonwealth was able to apply the lessons of the past to great effect!
 

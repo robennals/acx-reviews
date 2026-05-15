@@ -141,10 +141,10 @@ Of course, if public health institutions really wanted to restore some trust in 
 
 On March 10, 2021, Mexican actor Eugenio Derbez interviewed Anthony Fauci about Covid vaccines on [Instagram](https://www.instagram.com/p/CMQOqwxDNy0/). Before starting the interview, Derbez acknowledged that he was skeptical about getting vaccinated himself and explained that Fauci’s office had reached out to him so that he could ask questions on behalf of other vaccine hesitant people in his audience. In the interview, Derbez politely asked several reasonable questions that reflected genuine concerns that his audience might have:
 
-> *   Why do the vaccines only have Emergency Use Authorization instead of full authorization?
-> *   Why are pharmaceutical companies asking governments to protect them from liability? Won’t that reduce their incentive to make sure that the vaccines are safe?
-> *   If the vaccines prevent transmission of the virus, why are you asking people to wear masks even after they are vaccinated?
-> *   If mRNA vaccines are new, how can you be sure that they are safe in the long run?
+*   Why do the vaccines only have Emergency Use Authorization instead of full authorization?
+*   Why are pharmaceutical companies asking governments to protect them from liability? Won’t that reduce their incentive to make sure that the vaccines are safe?
+*   If the vaccines prevent transmission of the virus, why are you asking people to wear masks even after they are vaccinated?
+*   If mRNA vaccines are new, how can you be sure that they are safe in the long run?
 
 Although he was not perfect, I think that Fauci did pretty well in the interview. His answer about masking was convoluted because the official recommendations were convoluted (sometimes vaccinated people should wear masks and sometimes they could take them off depending on various complicated conditions that Fauci tried to summarize). [16]  And Fauci’s answer about the liability of pharmaceutical companies was evasive. He twice assured Derbez that of course you can sue the companies if they do something that harms you, a response which fails to explain why they were seeking liability protection in the first place. Overall, however, Fauci was calm, thoughtful, and persuasive. _I_ certainly wouldn’t have had any hesitancy about getting vaccinated immediately if I had seen the interview when it first aired.
 
@@ -228,12 +228,12 @@ Perhaps fewer people would have gotten vaccinated if public health experts hadn�
 
 [3] _Memes, Magnets, and Microchips: Narrative Dynamics Around COVID-19 Vaccines_ (2022). The other organizations are listed on the title page:
 
-> *   [Stanford Internet Observatory](https://en.wikipedia.org/wiki/Stanford_Internet_Observatory) - Note that the SIO was closed in 2024.
-> *   [NCoC Algorithmic Transparency Institute](https://ncoc.org/algorithmic-transparency-institute/) 
-> *   [NYU Tandon School of Engineering](https://engineering.nyu.edu/)
-> *   [NYU Center for Social Media and Politics](https://csmapnyu.org/)
-> *   [UW Center for an Informed Public Digital Forensic Research Lab](https://www.cip.uw.edu/)
-> *   [Graphika](https://www.graphika.com/)
+*   [Stanford Internet Observatory](https://en.wikipedia.org/wiki/Stanford_Internet_Observatory) - Note that the SIO was closed in 2024.
+*   [NCoC Algorithmic Transparency Institute](https://ncoc.org/algorithmic-transparency-institute/) 
+*   [NYU Tandon School of Engineering](https://engineering.nyu.edu/)
+*   [NYU Center for Social Media and Politics](https://csmapnyu.org/)
+*   [UW Center for an Informed Public Digital Forensic Research Lab](https://www.cip.uw.edu/)
+*   [Graphika](https://www.graphika.com/)
 
 [4] _Memes, Magnets…_ p. 30.
 

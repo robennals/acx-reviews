@@ -23,10 +23,10 @@ It usually does not happen that I read through a non-fiction book in two days, b
 
 This book tells its stories somewhat in parallel, but there are four main topics the authors are exploring:
 
-> *   How can we classify research questions?
-> *   Almost all researchers use “gap-spotting”, a process that only creates boring research questions
-> *   How can we find more relevant research questions? Challenge assumptions instead!
-> *   Why do scientists use gap-spotting so much, even though it produces more boring research?
+*   How can we classify research questions?
+*   Almost all researchers use “gap-spotting”, a process that only creates boring research questions
+*   How can we find more relevant research questions? Challenge assumptions instead!
+*   Why do scientists use gap-spotting so much, even though it produces more boring research?
 
 The focus of the book is on social science. However, in my experience in a collection of other research fields, those problems are also acute in fields far from social science. Therefore, I’ll treat everything here as a general comment around science. However, I would be curious to hear if there are fields in science that don’t suffer from the problems explained here.
 
@@ -38,17 +38,17 @@ Alright, let’s go through this step by step.
 
 The main claim this story starts with is that we have more research now than ever, but interesting and influential papers have gotten less, not more. This has to have a reason, and the authors propose that researchers today are mainly relying on gap-spotting to find research questions. Gap-spotting means that the researchers start their papers by identifying a gap somewhere in the scientific literature, and then justify the existence of their study by claiming that it fills the gap they found. Alvesson and Sandberg back this up with an empirical study. They collected a sample of over 100 papers and scrutinized them for their justification of the research question. Almost all of them used gap-spotting! They also found that gap-spotting comes in different flavors:
 
-> *   Confusion spotting: “The literature has competing explanations for X, and my study will show which one is right.”
-> *   Neglect spotting: “There is no good research about X. My study fills this hole.”
-> *   Application spotting: “Technique X might be great to use on Y and I have tested it.”
+*   Confusion spotting: “The literature has competing explanations for X, and my study will show which one is right.”
+*   Neglect spotting: “There is no good research about X. My study fills this hole.”
+*   Application spotting: “Technique X might be great to use on Y and I have tested it.”
 
 After reading those descriptions of how gap spotting happens, you probably feel called out. At least I did. Most of the research I have written so far employs those themes to explain why I use a specific research question. And when I look around, the people I know also explain their research this way. It is often even the way people get taught to find research questions in the first place.
 
 Alright, we now know that gap-spotting is the most common way to come up with research questions. However, there are also other ways:
 
-> *   Critical confrontation: “X is crap and I will tell you why.”
-> *   New idea: “X is new and great and I will tell you all about it.”
-> *   Problematization: “I challenge X by showing that its underlying assumptions are not true and present a new set of assumptions that better explain X or even show that X is not a useful concept/theory/idea in general.”
+*   Critical confrontation: “X is crap and I will tell you why.”
+*   New idea: “X is new and great and I will tell you all about it.”
+*   Problematization: “I challenge X by showing that its underlying assumptions are not true and present a new set of assumptions that better explain X or even show that X is not a useful concept/theory/idea in general.”
 
 The prevalence of using gap-spotting becomes a problem if the resulting research questions aren’t relevant and interesting. This might seem subjective, but we can actually find properties that important and influential studies have in common. Scientists evaluate a study as relevant and interesting if it challenges the assumptions of an established theory. Studies that do this have higher citations counts in comparison with studies that don’t. The problem is: Gap-spotting produces incremental additions at best, and has a good chance of just filling gaps in the literature no one even cares about. If I look for a gap to fill in the current paradigm, it is unlikely that the resulting study will challenge the paradigm itself.
 

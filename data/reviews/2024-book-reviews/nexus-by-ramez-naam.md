@@ -20,12 +20,12 @@ What kind of science fiction are we living in today?
 
 Ramez Naam’s 2012 novel _Nexus_ is not the answer, but there are some parallels:
 
-> *   A breakthrough technology in the 2020-30s has the potential to accelerate scientific progress and improve the human condition, but also to cause tremendous harm.
-> *   Institutions are increasingly defined by how they balance technological progress with safety.
+*   A breakthrough technology in the 2020-30s has the potential to accelerate scientific progress and improve the human condition, but also to cause tremendous harm.
+*   Institutions are increasingly defined by how they balance technological progress with safety.
 >
-> *   A plucky group of developers in San Francisco recognize the risks but build a vastly more powerful version, believing that the benefits outweigh the harms because the good guys (themselves) will find the right safeguards.
-> *   A leading developer of the technology named Ilya inexplicably disappears from the action.
-> *   It is uncertain whether any of this is expected to be a net positive for humanity.
+*   A plucky group of developers in San Francisco recognize the risks but build a vastly more powerful version, believing that the benefits outweigh the harms because the good guys (themselves) will find the right safeguards.
+*   A leading developer of the technology named Ilya inexplicably disappears from the action.
+*   It is uncertain whether any of this is expected to be a net positive for humanity.
 
 Naam believed that this change was coming. He said that the technological wonders of the next few decades would rival “even the greatest science fiction” and wrote _Nexus_ to prepare readers for the moral and political questions ahead.
 

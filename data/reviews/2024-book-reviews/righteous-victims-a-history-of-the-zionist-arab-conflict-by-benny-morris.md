@@ -80,10 +80,10 @@ _A map of Jewish owned land in Mandatory Palestine, 1944._
 
 The Zionist settlers did not do very much to ingratiate themselves with the native Arabs:
 
-> *   They didn't culturally integrate with the Arabs. Very few learned Arabic. They set up their own schools, a healthcare provider, and economic institutions, which for the most part Arabs couldn't use.
-> *   They claimed Jewish driven development would be good for everyone, but they preferentially hired Jewish workers. Although a lot of Arabs were hired as farmhands or guards, these were menial low pay jobs, and over time they were increasingly displaced by Jews.
-> *   Zionists bought land fair and square from their owners, but these owners were wealthy urban effendis, not those who actually lived on the land. They usually then forced the tenant farmers off the land for little or no compensation.
-> *   Many settlers wished to remake themselves as 'new Jews', ones who would not be oppressed in 'their' land. They had a habit of overreacting to what they perceived as slights against them or their property, such as cruelly beating trespassers. This especially caused problems when there were differences between local Ottoman customs and European ones as to public rights to land.
+*   They didn't culturally integrate with the Arabs. Very few learned Arabic. They set up their own schools, a healthcare provider, and economic institutions, which for the most part Arabs couldn't use.
+*   They claimed Jewish driven development would be good for everyone, but they preferentially hired Jewish workers. Although a lot of Arabs were hired as farmhands or guards, these were menial low pay jobs, and over time they were increasingly displaced by Jews.
+*   Zionists bought land fair and square from their owners, but these owners were wealthy urban effendis, not those who actually lived on the land. They usually then forced the tenant farmers off the land for little or no compensation.
+*   Many settlers wished to remake themselves as 'new Jews', ones who would not be oppressed in 'their' land. They had a habit of overreacting to what they perceived as slights against them or their property, such as cruelly beating trespassers. This especially caused problems when there were differences between local Ottoman customs and European ones as to public rights to land.
 
 The British defeated the Ottomans in the first World War and established the British Mandate for Palestine in the territory that is today Israel, Gaza and the West Bank. Part of the mandate was to implement the Balfour declaration which called for the establishment of a Jewish homeland in Palestine[[19]](#ftnt19).
 

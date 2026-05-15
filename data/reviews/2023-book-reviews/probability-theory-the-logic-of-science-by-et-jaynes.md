@@ -180,8 +180,8 @@ Sampling theory is the foundation of classical or frequentist statistics. It con
 
 When Jaynes wrote this chapter people were much more confused about causality than we are today. And philosophers like Penrose “_takes it as a fundamental axiom that probabilities referring to the present time can depend only on what happened earlier and, not what happens later_”, thus the two following scenarios are very different:
 
-> *   my first draw from an urn was a red ball; what is your guess for the color of the second?
-> *   my second draw from an urn was a red ball; what is your guess for the color of the first?
+*   my first draw from an urn was a red ball; what is your guess for the color of the second?
+*   my second draw from an urn was a red ball; what is your guess for the color of the first?
 
 However when we use probability as logic, we do not care about causality only about how the information available to changes our beliefs, and in the above case knowing that the second or first ball is red contains equal information about the urn, which in turn gives equal information about information about the unknown draw (whenever it happened). In Judea Pearl's notation this propensity vs logic is solved by introducing a new syntax, where ![](https://acximages.ennals.org/images/2023-book-reviews/da5ab54d92c4a373.png) is the information B gives about A (as above) and the new notation ![](https://acximages.ennals.org/images/2023-book-reviews/ad6f59d6e0f2ae74.png) is how “doing B” (rather than knowing B) changes A.
 
@@ -239,8 +239,8 @@ The previous chapter was about forward probabilities where we reason from hypoth
 
 In order to flip or reverse the probability we need a prior. Jaynes imagines the robot as always having information X available where X is all the robot has learned since it rolled of the factory floor, so what we want is not:
 
-> *   ![](https://acximages.ennals.org/images/2023-book-reviews/68a98db000cf626a.png): What the data makes us believe about H, but
-> *   ![](https://acximages.ennals.org/images/2023-book-reviews/d87f79f7aecf9b89.png): What the data and our prior knowledge makes us believe about H.
+*   ![](https://acximages.ennals.org/images/2023-book-reviews/68a98db000cf626a.png): What the data makes us believe about H, but
+*   ![](https://acximages.ennals.org/images/2023-book-reviews/d87f79f7aecf9b89.png): What the data and our prior knowledge makes us believe about H.
 
 Any probability ![](https://acximages.ennals.org/images/2023-book-reviews/eae70af8420927d1.png) that is only conditional on X is a prior probability. It is important to note that it is prior in “information/logic” not prior in “time/causality”, as there is no time variable in information theory.
 
@@ -254,10 +254,10 @@ Since the 3 previous chapters have given us: logic, the product and sum rule and
 
 In common parlance these 4 probabilities (or distributions) are called:
 
-> *   ![](https://acximages.ennals.org/images/2023-book-reviews/eae70af8420927d1.png) is the prior information we have about the hypothesis before the data
-> *   ![](https://acximages.ennals.org/images/2023-book-reviews/44c7e3c4399e7174.png) is the likelihood or sampling function which says how likely the data is under different hypotheses, in short: what does the hypothesis say about the data?
-> *   ![](https://acximages.ennals.org/images/2023-book-reviews/b9ae1d3cc6c8d904.png) is the probability of the data, and is usually found by marginalization (iterating over all the hypothesis)
-> *   ![](https://acximages.ennals.org/images/2023-book-reviews/7e5d7f19009d3c98.png) is called the posterior, it contains the information we have after considering the prior and data.
+*   ![](https://acximages.ennals.org/images/2023-book-reviews/eae70af8420927d1.png) is the prior information we have about the hypothesis before the data
+*   ![](https://acximages.ennals.org/images/2023-book-reviews/44c7e3c4399e7174.png) is the likelihood or sampling function which says how likely the data is under different hypotheses, in short: what does the hypothesis say about the data?
+*   ![](https://acximages.ennals.org/images/2023-book-reviews/b9ae1d3cc6c8d904.png) is the probability of the data, and is usually found by marginalization (iterating over all the hypothesis)
+*   ![](https://acximages.ennals.org/images/2023-book-reviews/7e5d7f19009d3c98.png) is called the posterior, it contains the information we have after considering the prior and data.
 
 So when you read Bayes theorem above, you should say:
 
@@ -297,8 +297,8 @@ We can use this to get the evidence of the posterior:
 
 Now let us try to use this. Imagine the following background information ![](https://acximages.ennals.org/images/2023-book-reviews/a67e2faeb691422d.png): There are 11 raiding parties potentially attacking our cities, and it is always the same raiding party attacking all cities.
 
-> *   10 are made of goblins who breach the walls with probability ⅙,
-> *   1 is made of stronger orcs who breach the walls with probability ⅓.
+*   10 are made of goblins who breach the walls with probability ⅙,
+*   1 is made of stronger orcs who breach the walls with probability ⅓.
 
 We now want to consider the hypothesis that we were attacked by orcs, the prior odds are 10:1, so ![](https://acximages.ennals.org/images/2023-book-reviews/2e79578dcb7a6741.png).
 
@@ -342,8 +342,8 @@ The next interesting story Jaynes discusses is about the paradox of intuition in
 
 I.J. Good’s response (with the title ‘The white shoe is a red herring’) shows what happens if you observe a black crow and consider just two hypotheses:
 
-> *   A world where crows are always black but rare (1/10000 birds are crows, 9999/10000 are parrots)
-> *   Another world where there are only crows, but only 10% of them are black.
+*   A world where crows are always black but rare (1/10000 birds are crows, 9999/10000 are parrots)
+*   Another world where there are only crows, but only 10% of them are black.
 
 If these are your only hypotheses, seeing a black crow is 30 dB (1000:1) of evidence that you are in the second world where not all crows are black. This is because for every black crow in world one there are 1000 black and 10000 white crows in world two, thus a black crow is stronger evidence for world two.
 
@@ -369,10 +369,10 @@ While the above may seem very counter intuitive, all the confusion can be fixed 
 
 Where:
 
-> *   The left is the source which follows a Poisson distribution:  ![](https://acximages.ennals.org/images/2023-book-reviews/186ba57de6ea5c02.png)
-> *   The middle is the detector, which follows a Binomial distribution:  ![](https://acximages.ennals.org/images/2023-book-reviews/111a0549db525d62.png)
-> *   The right is the posterior compromises of n between the prior (source) and likelihood (detector)
-> *   The red line is the MLE estimate of 150, the green is the Bayesian estimate of 105.
+*   The left is the source which follows a Poisson distribution:  ![](https://acximages.ennals.org/images/2023-book-reviews/186ba57de6ea5c02.png)
+*   The middle is the detector, which follows a Binomial distribution:  ![](https://acximages.ennals.org/images/2023-book-reviews/111a0549db525d62.png)
+*   The right is the posterior compromises of n between the prior (source) and likelihood (detector)
+*   The red line is the MLE estimate of 150, the green is the Bayesian estimate of 105.
 
 It is very easy without fancy math to see that the prior is narrow and the likelihood is broad, so the posterior compromise should favor the prior, in modern parlance this approach is called “full bayesian” because we use the full distributions to make inference, where the MLE approach hopes that the mode of the distributions capture sufficient information.
 

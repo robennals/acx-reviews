@@ -26,9 +26,9 @@ _Speciation modes by Imari Hakonen. CC-By-SA._
 
  McCarthy points out that biologists tend to [twist facts to fit that narrative](https://www.lesswrong.com/posts/34XxbRFe54FycoCDw/the-bottom-line) even when it is not the most parsimonious explanation:
 
-> *   Why do supposedly unrelated species [evolve similar body structures](https://en.wikipedia.org/wiki/Convergent_evolution)? Surely natural selection is not so deterministic that [subjecting populations to identical environments would give identical results](https://physics.stackexchange.com/questions/665111/what-s-the-intuition-behind-snowflake-symmetry), right?
-> *   Why do some forms [remain unchanged through millions of years](https://en.wikipedia.org/wiki/Living_fossil)? (A factor inhibiting mutations would add another epicycle to the theory.)
-> *   Why would the process through which nature produces new phenotypes be gradual, whereas the processes which have been used deliberately by humans for this (namely, hybridization and [the induction of polyploidy](https://en.wikipedia.org/wiki/Polyploidy#Crops)) immediately produce a specimen differing from its parent(s)?
+*   Why do supposedly unrelated species [evolve similar body structures](https://en.wikipedia.org/wiki/Convergent_evolution)? Surely natural selection is not so deterministic that [subjecting populations to identical environments would give identical results](https://physics.stackexchange.com/questions/665111/what-s-the-intuition-behind-snowflake-symmetry), right?
+*   Why do some forms [remain unchanged through millions of years](https://en.wikipedia.org/wiki/Living_fossil)? (A factor inhibiting mutations would add another epicycle to the theory.)
+*   Why would the process through which nature produces new phenotypes be gradual, whereas the processes which have been used deliberately by humans for this (namely, hybridization and [the induction of polyploidy](https://en.wikipedia.org/wiki/Polyploidy#Crops)) immediately produce a specimen differing from its parent(s)?
 
 He instead posits a [saltational](https://en.wikipedia.org/wiki/Saltation_(biology)) theory in which novel forms come from hybridization of distantly related organisms. “But wait. Aren't hybrids sterile due to mismatched chromosomes?” you may ask; indeed, the author spends much of Chapter 4 on adding epicycles of his own to justify this.
 

@@ -158,8 +158,8 @@ Would or should a more liberal country, without a leadership that believed in gl
 
 _WoD_ doesn’t directly answer this. But extrapolating from Tooze’s arguments, I’d say it comes down to two factors:
 
-> *   How bad becoming a vassal of the US would have been, in expectation at the time.
-> *   Exactly how high was the risk of famine in Germany?
+*   How bad becoming a vassal of the US would have been, in expectation at the time.
+*   Exactly how high was the risk of famine in Germany?
 
 * * *
 

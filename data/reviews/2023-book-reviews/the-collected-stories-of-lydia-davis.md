@@ -60,9 +60,9 @@ Even in her postmodern interpolations from diaries or bad biographies, you have 
 
 A common thread is the mismatch between worldviews (with others, with society's expectations) and some of our sub-optimal responses to them:
 
-> *   We may create a flawed structure so that it fits better with our worldview. Example: the person who wants to read Foucault, but can't help focusing on the structure of the sentences rather than the ideas in _Foucault and Pencil_.
-> *   We may attribute false reasons to others rather than accepting the limitations of our worldview. Example: the woman obsessed with fancy cooking, who prefers to think of any reason why her husband might not like her cooking other than the obvious one in _Meat, my Husband_.
-> *   We may neglect other people's needs if it is hard to first understand them. Example: we might treat dogs, plants or books better than our own son because they are easier to interpret, with a few constant needs and clear limitations (_The Old Dictionary_).
+*   We may create a flawed structure so that it fits better with our worldview. Example: the person who wants to read Foucault, but can't help focusing on the structure of the sentences rather than the ideas in _Foucault and Pencil_.
+*   We may attribute false reasons to others rather than accepting the limitations of our worldview. Example: the woman obsessed with fancy cooking, who prefers to think of any reason why her husband might not like her cooking other than the obvious one in _Meat, my Husband_.
+*   We may neglect other people's needs if it is hard to first understand them. Example: we might treat dogs, plants or books better than our own son because they are easier to interpret, with a few constant needs and clear limitations (_The Old Dictionary_).
 
 Other ways of failing in the book include fantasising about an alternative, dumb reality, like the repressed woman who fetishes cowboys in _The Professor_. Or focusing too much on social structures, like the fear and miscommunication between classes (and between sub-classes of the same class) and the resentment towards those who leave their group in _The House Behind_. Or the desire to overprotect someone, even when we have been hurt for the same reason (or especially because of it) in _Wife One in Country_. Pick your favourites to feel reflected.
 

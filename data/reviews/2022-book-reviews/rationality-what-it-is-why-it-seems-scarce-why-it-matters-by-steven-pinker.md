@@ -38,20 +38,20 @@ The problem isn't people trying to reason but falling prey to biases.  The probl
 
 The kind of irrationality that leads people to buy too much insurance, I can live with.  It's the kind that sends jackboots stomping across Europe I have a problem with.  Pinker doesn't recognize that that kind of irrationality isn't caused by bad reasoning; it's caused by bad _systems_ of reasoning.  They don't start with somebody forgetting to account for regression to the mean, but with myths and _rationalizations_ made by very smart people.  Any fool can say something dumb, but it takes a genius to say things this stupid with a straight face:
 
-> *   If a friend is hiding in your house from a murderer, and the murderer knocks on your door and asks you if your friend is inside, you should say "Yes" (Kant 1797).
-> *   Alchemy or astrology are just as legitimate as modern Western science (Spengler 1922/1926 p. 381-382, de Solla Price 1976 lecture 5, Newman & Grafton 2001 p. 5-12, Whitney 2004 p. 33).
-> *   The Catholic Church achieved complete harmony between faith and reason in the Middle Ages (St. Aquinas, Sorokin 1937-41/1957 vol. 2 chpt. 1, Williams 2007 lecture 1).
-> *   Art is dead (Heine 1828, Adorno, Baudrillard, too many others to list).
-> *   Science doesn't make progress (Kuhn 1962, fight me).
-> *   The Renaissance was indistinguishable from the Middle Ages (de Solla Price 1976; le Goff 1985 p. 1-23; Shiner 1990 p. 33, 35-37; Hannam 2009).
-> *   Words can never signify or communicate meanings (Plato's "Meno", Derrida 1967, Foucault 1969).
-> *   Originality is impossible (Barthes 1968, 1971)[zz16].
-> *   An original author can say nothing false (Foucault 1969)[zz17].
-> *   The meaning of a text comes from its readers ([Fish 1980](http://fs2.american.edu/dfagel/www/Class%20Readings/Fish/HowToRecognizeAPoem.htm)).
-> *   Auschwitz can be blamed on liberal humanism (Lyotard 1986 p. 1467).
-> *   TV shows about the Holocaust are worse than the Holocaust itself (Baudrillard 1984 p. 23-25).
-> *   To promote anti-racist health equity, we must ban menthol cigarettes, because blacks[zzblacks] like them ([Biden 2021](https://www.cbsnews.com/news/menthol-cigarettes-biden-fda-ban/)).[zzmenthol]
-> *   To fight racism, we must allow government agencies to teach "that one race or sex is inherently superior to another"; "that an individual, by virtue of his or her race or sex, is inherently racist, sexist, or oppressive"; "that an individual should be discriminated against or receive adverse treatment solely or partly because of his or her race or sex"; "that an individual's moral character is necessarily determined by his or her race or sex"; and that some people "should feel discomfort, guilt, anguish, or … psychological distress on account of his or her race or sex" ([Biden 2021](https://www.federalregister.gov/documents/2021/01/25/2021-01753/advancing-racial-equity-and-support-for-underserved-communities-through-the-federal-government)[zzbiden])
+*   If a friend is hiding in your house from a murderer, and the murderer knocks on your door and asks you if your friend is inside, you should say "Yes" (Kant 1797).
+*   Alchemy or astrology are just as legitimate as modern Western science (Spengler 1922/1926 p. 381-382, de Solla Price 1976 lecture 5, Newman & Grafton 2001 p. 5-12, Whitney 2004 p. 33).
+*   The Catholic Church achieved complete harmony between faith and reason in the Middle Ages (St. Aquinas, Sorokin 1937-41/1957 vol. 2 chpt. 1, Williams 2007 lecture 1).
+*   Art is dead (Heine 1828, Adorno, Baudrillard, too many others to list).
+*   Science doesn't make progress (Kuhn 1962, fight me).
+*   The Renaissance was indistinguishable from the Middle Ages (de Solla Price 1976; le Goff 1985 p. 1-23; Shiner 1990 p. 33, 35-37; Hannam 2009).
+*   Words can never signify or communicate meanings (Plato's "Meno", Derrida 1967, Foucault 1969).
+*   Originality is impossible (Barthes 1968, 1971)[zz16].
+*   An original author can say nothing false (Foucault 1969)[zz17].
+*   The meaning of a text comes from its readers ([Fish 1980](http://fs2.american.edu/dfagel/www/Class%20Readings/Fish/HowToRecognizeAPoem.htm)).
+*   Auschwitz can be blamed on liberal humanism (Lyotard 1986 p. 1467).
+*   TV shows about the Holocaust are worse than the Holocaust itself (Baudrillard 1984 p. 23-25).
+*   To promote anti-racist health equity, we must ban menthol cigarettes, because blacks[zzblacks] like them ([Biden 2021](https://www.cbsnews.com/news/menthol-cigarettes-biden-fda-ban/)).[zzmenthol]
+*   To fight racism, we must allow government agencies to teach "that one race or sex is inherently superior to another"; "that an individual, by virtue of his or her race or sex, is inherently racist, sexist, or oppressive"; "that an individual should be discriminated against or receive adverse treatment solely or partly because of his or her race or sex"; "that an individual's moral character is necessarily determined by his or her race or sex"; and that some people "should feel discomfort, guilt, anguish, or … psychological distress on account of his or her race or sex" ([Biden 2021](https://www.federalregister.gov/documents/2021/01/25/2021-01753/advancing-racial-equity-and-support-for-underserved-communities-through-the-federal-government)[zzbiden])
 
 Most of these people were philosophers.  _Rationality_ changed my mind in a way that dozens of other books tried to and failed:  It convinced me that philosophy isn't completely useless, by showing how far astray even someone as smart as Steven Pinker could go by dismissing it.
 
@@ -89,20 +89,20 @@ The wars were allegedly over a distinction between the metaphysical Greek words 
 
 Fighting over what words mean is common in politics and philosophy.
 
-> *   In 431 BCE, Pericles said, in his famous [funeral oration](https://en.wikipedia.org/wiki/Pericles%27_Funeral_Oration) in Athens, that democracy required every citizen to participate in politics, saying, "We do not say that a man who takes no interest in public affairs is a man who minds his own business. We say he has no business being here at all."  In 380 BCE, Plato responded in _Republic_ by redefining _dikaisyne_ ([custom, righteous judgement](https://www.perseus.tufts.edu/hopper/morph?l=dikh&la=greek#lexicon)) to mean a society in which "every man minds his own business", by which he meant _not_ participating in politics.
-> *   St. Paul redefined the Greek word _pistes_ (translated "faith") from meaning "having a certain proof of something" to "believing something without any evidence".[zzfaith]
-> *   Platonists have always translated _dikaisyne_ into English as "justice", rather than as "righteousness" (as the New Testament does), or as "custom", in order to associate totalitarianism with justice rather than with tradition and religious fervor.
-> *   Humanists define "freedom" as freedom _to_ do things: to own property, to sell your property or your labor, and to say what you want.  Marxists define "freedom" as freedom _from_ things, especially poverty and hunger.
+*   In 431 BCE, Pericles said, in his famous [funeral oration](https://en.wikipedia.org/wiki/Pericles%27_Funeral_Oration) in Athens, that democracy required every citizen to participate in politics, saying, "We do not say that a man who takes no interest in public affairs is a man who minds his own business. We say he has no business being here at all."  In 380 BCE, Plato responded in _Republic_ by redefining _dikaisyne_ ([custom, righteous judgement](https://www.perseus.tufts.edu/hopper/morph?l=dikh&la=greek#lexicon)) to mean a society in which "every man minds his own business", by which he meant _not_ participating in politics.
+*   St. Paul redefined the Greek word _pistes_ (translated "faith") from meaning "having a certain proof of something" to "believing something without any evidence".[zzfaith]
+*   Platonists have always translated _dikaisyne_ into English as "justice", rather than as "righteousness" (as the New Testament does), or as "custom", in order to associate totalitarianism with justice rather than with tradition and religious fervor.
+*   Humanists define "freedom" as freedom _to_ do things: to own property, to sell your property or your labor, and to say what you want.  Marxists define "freedom" as freedom _from_ things, especially poverty and hunger.
 >
-> *   The Marxists got the last word by perversely defining "freedom to do things" as _negative freedom_, and "freedom from want" as _positive freedom_.
+*   The Marxists got the last word by perversely defining "freedom to do things" as _negative freedom_, and "freedom from want" as _positive freedom_.
 >
-> *   Hegel defined "freedom" as "complete subservience to an authoritarian state", arguing that freedom was the ability to accomplish things, which individual could do only as members of the state.
+*   Hegel defined "freedom" as "complete subservience to an authoritarian state", arguing that freedom was the ability to accomplish things, which individual could do only as members of the state.
 >
-> *   This was what the Nazis (who were Hegelians) meant by "Arbeit macht free".
-> *   This is what Orwell was making fun of in _1984_ with "Freedom is Slavery".
+*   This was what the Nazis (who were Hegelians) meant by "Arbeit macht free".
+*   This is what Orwell was making fun of in _1984_ with "Freedom is Slavery".
 >
-> *   The French Revolution, Marxism, and the social justice movement defined "equality" as "equal outcome" rather than "equal opportunity" or "equality before the law".
-> *   The anti-racist movement calls treating people the same regardless of their race "racism".
+*   The French Revolution, Marxism, and the social justice movement defined "equality" as "equal outcome" rather than "equal opportunity" or "equality before the law".
+*   The anti-racist movement calls treating people the same regardless of their race "racism".
 
 Usually, when someone wants to say something that won't go over very well, like "freedom is bad" or "racism is good", they redefine a word so as to express their conclusion in the traditionally-accepted language.  As (Popper 1945/1966) pointed out, falling for this is stupid.  If you believe that vegemite is delicious, and then somebody explains to you that what you've been eating is not vegemite, but apple butter, and that vegemite is actually fermented yeast, you should re-evaluate your belief that vegemite is delicious.  We should take at least as much care with our beliefs about things like "freedom" and "racism".
 
@@ -171,12 +171,12 @@ So a scientist and a philosopher can both agree that knowledge is justified true
 
 Words have also been confused by attempts to smuggle philosophy into religion (Christianity[zzchrist]; the Universalist Church), science into religion (Auguste Comte's [Religion of Humanity](https://en.wikipedia.org/wiki/Religion_of_Humanity)), politics into religion (the French Revolution's Cult of the Supreme Being), religion into philosophy (e.g., Hegel), religion into science (_Naturphilosophie_; vitalism), or politics into science (Marxism; Critical Theory).[zzreligion]  Many belief systems fly under false flags.  As in the animal world, weak ones are more likely to survive when they mimic something else.
 
-> *   Marx meant it when he said Marxism was scientific.  But he thought "scientific" meant "the use of dialectic to find universal laws that make infallible predictions about future events" (Holloway 2002, chapter 7, "[The Tradition of Scientific Marxism](https://www.marxists.org/subject/marxmyths/john-holloway/article.htm)").
-> *   Later Marxists insisted that Marxism was so incompatible with philosophy that they need not bother arguing with philosophers (Rockmore 1992, chapter 1).[zzworldspirit].
-> *   Engels claimed that non-Marxist forms of thought are ideological, while Marxism is not (Rockmore 1992 chapter 1 p. 15).
-> *   Phenomenology is a subjective epistemology based on introspection about self-consciousness, whose most well-known practitioners, Husserl and Heidegger, both denied it was metaphysical (Wolin 2015[zz5]).  Husserl called it "science".  Heidegger hilariously attacked "metaphysics" for distracting people from studying the nature of Being (Flynn 2006 p. 51, 54, 108; Beiner chapter 2, throughout).
-> *   19th-century vitalism, the claim that what distinguishes life from non-life is some non-physical element, was a last-ditch attempt to deny that life could be explained as mechanism, by smuggling Aristotle's metaphysical concept of the soul into science under the name "entelechy" (Lillie 1914).  The most famous contemporary philosopher-of-mind, John Searle, still believes in vitalism.
-> *   An influential sociology books arguing that reality is socially-constructed says that "our purpose is not to engage in philosophy" (Berger & Luckmann 1966, part 1, chapter 1, section 1).[zzberger]
+*   Marx meant it when he said Marxism was scientific.  But he thought "scientific" meant "the use of dialectic to find universal laws that make infallible predictions about future events" (Holloway 2002, chapter 7, "[The Tradition of Scientific Marxism](https://www.marxists.org/subject/marxmyths/john-holloway/article.htm)").
+*   Later Marxists insisted that Marxism was so incompatible with philosophy that they need not bother arguing with philosophers (Rockmore 1992, chapter 1).[zzworldspirit].
+*   Engels claimed that non-Marxist forms of thought are ideological, while Marxism is not (Rockmore 1992 chapter 1 p. 15).
+*   Phenomenology is a subjective epistemology based on introspection about self-consciousness, whose most well-known practitioners, Husserl and Heidegger, both denied it was metaphysical (Wolin 2015[zz5]).  Husserl called it "science".  Heidegger hilariously attacked "metaphysics" for distracting people from studying the nature of Being (Flynn 2006 p. 51, 54, 108; Beiner chapter 2, throughout).
+*   19th-century vitalism, the claim that what distinguishes life from non-life is some non-physical element, was a last-ditch attempt to deny that life could be explained as mechanism, by smuggling Aristotle's metaphysical concept of the soul into science under the name "entelechy" (Lillie 1914).  The most famous contemporary philosopher-of-mind, John Searle, still believes in vitalism.
+*   An influential sociology books arguing that reality is socially-constructed says that "our purpose is not to engage in philosophy" (Berger & Luckmann 1966, part 1, chapter 1, section 1).[zzberger]
 
 ### Nominalism prevents incommensurability
 
@@ -215,9 +215,9 @@ Classical thinkers misunderstood the skeptics because they were uninterested in 
 
 Now consider the traditional slander of utilitarians as being "hedonistic" and "selfish".  Without going into quotations and citations, it has three main causes:
 
-> *   Definitions of utilitarianism as "maximizing pleasure and minimizing pain" are interpreted as immoral by theologians who believe sensual pleasure is inherently sinful.
-> *   The theological belief that humans are naturally evil, and desire only sinful, selfish pleasure.
-> *   Association of utilitarianism with the "rational self-interest" of rational choice theory, which Pinker defends correctly but a little misleadingly in chapter 6.  He notes that it isn't a theory of how humans choose or ought to choose, without noting that choice theory does require the agents to be selfish.  The invisible hand doesn't work if everybody's trying to be nice to each other, much as stop signs don't work in Iowa when everybody waits to let the other fellow go first.
+*   Definitions of utilitarianism as "maximizing pleasure and minimizing pain" are interpreted as immoral by theologians who believe sensual pleasure is inherently sinful.
+*   The theological belief that humans are naturally evil, and desire only sinful, selfish pleasure.
+*   Association of utilitarianism with the "rational self-interest" of rational choice theory, which Pinker defends correctly but a little misleadingly in chapter 6.  He notes that it isn't a theory of how humans choose or ought to choose, without noting that choice theory does require the agents to be selfish.  The invisible hand doesn't work if everybody's trying to be nice to each other, much as stop signs don't work in Iowa when everybody waits to let the other fellow go first.
 
 If a utilitarian objects that her utility function values the happiness of other people, a curmudgeonly theologian can only interpret that as meaning that she's restraining her own selfish wants with the help of religious belief.  He equates "desire" with _eros_ (lust), and you can't lust for good things to happen to other people.  So his [case frame](https://en.wikipedia.org/wiki/Case_grammar) for "desire" won't let him store the sentence "I desire your happiness" in memory.
 
@@ -389,11 +389,11 @@ _Piet Mondrian 1920. Composition No.II_
 
 Here we see
 
-> *   clear boundaries between objects, which are defined as rectangles by a set of necessary & sufficient conditions
-> *   linearity, both geometric and in (the lack of) shading
-> *   order
-> *   stasis
-> *   a complete lack of causal structure or mechanism
+*   clear boundaries between objects, which are defined as rectangles by a set of necessary & sufficient conditions
+*   linearity, both geometric and in (the lack of) shading
+*   order
+*   stasis
+*   a complete lack of causal structure or mechanism
 
 ![](https://acximages.ennals.org/images/2022-book-reviews/5621d94ba000decc.jpg)
 
@@ -401,11 +401,11 @@ Jackson Pollock 1948. Number 5.
 
 Here we see:
 
-> *   no boundaries and no objects
-> *   an absence of both linearity and purposeful non-linearity
-> *   randomness[zzpollock]
-> *   the sense of a sea of manic motion, the result of producing every line by swinging a paintbrush or can
-> *   a complete lack of causal structure or mechanism
+*   no boundaries and no objects
+*   an absence of both linearity and purposeful non-linearity
+*   randomness[zzpollock]
+*   the sense of a sea of manic motion, the result of producing every line by swinging a paintbrush or can
+*   a complete lack of causal structure or mechanism
 
 _Now_ I'll finally propose my answer to the question, "Why are different paradigms in philosophy and the humanities often incommensurable, while paradigms in science are not?"
 
@@ -415,12 +415,12 @@ Pinker is butting into a 2500-year-old conversation which he isn't especially in
 
 Nonetheless, Pinker comes close to the awful truth about irrationality many times, such as when noting:
 
-> *   the philosophy professor in Tom Stoppard's play _Jumpers_ who said art was irrational (chapter 2)
-> *   the ontology of classical versus real-world categories (chapter 2)
-> *   the difficulty philosophers ran into trying to evaluate morality _rationally_ (chapter 2)
-> *   the arational stance induced by Wagner's operas (chapter 10)
-> *   that we are intuitive essentialists and teleologists (chapter 10)
-> *   that Hugo Mercier (but not Pinker) thinks that "conspiracy theories and other weird beliefs are reflective, the result of conscious cogitation and theorizing"[zz11] (chapter 10, citing Mercier 2020)
+*   the philosophy professor in Tom Stoppard's play _Jumpers_ who said art was irrational (chapter 2)
+*   the ontology of classical versus real-world categories (chapter 2)
+*   the difficulty philosophers ran into trying to evaluate morality _rationally_ (chapter 2)
+*   the arational stance induced by Wagner's operas (chapter 10)
+*   that we are intuitive essentialists and teleologists (chapter 10)
+*   that Hugo Mercier (but not Pinker) thinks that "conspiracy theories and other weird beliefs are reflective, the result of conscious cogitation and theorizing"[zz11] (chapter 10, citing Mercier 2020)
 
 Remember when I wrote about how scientists and philosophers agree on certain sentences, while using some of the words in them very, very differently?  Well, one of those words is "rational".
 
@@ -526,20 +526,20 @@ The other problem is that deductive argument is inherently rational.  Measuremen
 
 So rationalist methods of thought are important for empirical science, but must be confined to the particular places where simplification and abstractions have the most value, and where we have methodologies such as operationalization that ensure our terms are meaningful and internally consistent.  These include
 
-> *   discrete math
-> *   rational choice theory
-> *   logical argument, bracketed by careful attention to the real-world extension of each word or symbol in the argument's input or output
-> *   utility calculations[zzutility]
+*   discrete math
+*   rational choice theory
+*   logical argument, bracketed by careful attention to the real-world extension of each word or symbol in the argument's input or output
+*   utility calculations[zzutility]
 
 Pure Kantian rationalism emphatically does _not_ belong in the processes of
 
-> *   measurement and data collection (because rationalists don't do it)
-> *   error theory (which rationalism doesn't have)
-> *   hypothesis testing (for which we use statistical tests)
-> *   the construction of categories and definitions
-> *   the interpretation and application of statistical test results to the real world
-> *   the interpretation of anything expressed in human language
-> *   epistemology in general
+*   measurement and data collection (because rationalists don't do it)
+*   error theory (which rationalism doesn't have)
+*   hypothesis testing (for which we use statistical tests)
+*   the construction of categories and definitions
+*   the interpretation and application of statistical test results to the real world
+*   the interpretation of anything expressed in human language
+*   epistemology in general
 
 Using the word "rationality" to mean reason in general legitimizes the absolute certainty which is the cause of our current political woes.  To stem the tide of irrationality and of rationality run amok, scientists must dispel the caricatures rationalists draw of the empiricist alternative to rationalism, and must make it clear that _science uses empirical, not rational, epistemology_.
 
@@ -591,27 +591,27 @@ It took decades for the Nazi metaphysics of the French and German academies to p
 
 Today's Social Justice movement, and the anti-racist movement in particular, use a lot of Nazi
 
-> *   slogans and values
+*   slogans and values
 >
-> *   "awakening"
-> *   from Heidegger, through the existentialists, "authenticity"
+*   "awakening"
+*   from Heidegger, through the existentialists, "authenticity"
 >
-> *   philosophical principles
+*   philosophical principles
 >
-> *   from phenomenology and existentialism, subjective "lived experience" instead of science or rationalism as epistemology (e.g., Flynn 2006 p. 5-6, 17-21)
-> *   from Schopenhauer[zzhitler] and Nietzsche via Foucault, "will to power" as the only motive for action[zzgorgias]
-> *   from Rousseau via Nietzsche, Spengler, and Foucault, civilization as a corrupting influence or power structure
-> *   art as purely political
-> *   from Schopenhauer, Marx, Nietzsche, and the existentialists, a view of modern "bourgeois" life as greedy and dismal
-> *   from Hitler and earlier racial essentialists, the location of soul, agency, moral status, soul, and essence in the race rather than in individuals (e.g., Waite 1977 p. 29, 80)
-> *   from (Spengler 1922/1926), races as having their own essential nature and cultural _telos_, and every race as having its own sciences and mathematics, all different and equally valid
+*   from phenomenology and existentialism, subjective "lived experience" instead of science or rationalism as epistemology (e.g., Flynn 2006 p. 5-6, 17-21)
+*   from Schopenhauer[zzhitler] and Nietzsche via Foucault, "will to power" as the only motive for action[zzgorgias]
+*   from Rousseau via Nietzsche, Spengler, and Foucault, civilization as a corrupting influence or power structure
+*   art as purely political
+*   from Schopenhauer, Marx, Nietzsche, and the existentialists, a view of modern "bourgeois" life as greedy and dismal
+*   from Hitler and earlier racial essentialists, the location of soul, agency, moral status, soul, and essence in the race rather than in individuals (e.g., Waite 1977 p. 29, 80)
+*   from (Spengler 1922/1926), races as having their own essential nature and cultural _telos_, and every race as having its own sciences and mathematics, all different and equally valid
 >
-> *   tactics (all but "control the dictionary" are spelled out in Hitler 1926)
+*   tactics (all but "control the dictionary" are spelled out in Hitler 1926)
 >
-> *   control the media; control the narrative; control the dictionary
-> *   control the educational system and the universities
-> *   motivate people with rage and hatred
-> *   mob, bully, deplatform, fire, and dehumanize opponents
+*   control the media; control the narrative; control the dictionary
+*   control the educational system and the universities
+*   motivate people with rage and hatred
+*   mob, bully, deplatform, fire, and dehumanize opponents
 
 The Social Justice movement (SJM) inherited all of these from continental philosophy, and chose them for the same reasons the Nazis did:  because they're tailor-made to help destroy an existing culture in order to replace it with something completely different.  But they were also tailor-made to replace reason with irrationality.  No amount of philosophizing based on these ideas can create a movement that allows reason to thrive.  The existentialists tried, but the best Sartre could achieve was a gloomy and illogical nihilism, one which justifies any action one chooses solely because one chooses it, in which the only value is the freedom to choose between meaningless alternatives (e.g., Flynn 2006 p. 45-48)[zzbn].  No wonder it produced such gloomy and nihilistic plays (Sartre, Beckett).
 
@@ -623,10 +623,10 @@ Near the beginning of this article, I said that the irrationalists may be right 
 
 But there are some not-obviously-wrong reasons to reject reason in general, rational or empirical.  You may have to read between the lines to detect them; people pretending to reason logically might not come out and say any of them openly.  They are:
 
-> *   Death
-> *   Reason might make you unhappy
-> *   Reason may lead us all to kill each other
-> *   Reason may prevent us from killing each other
+*   Death
+*   Reason might make you unhappy
+*   Reason may lead us all to kill each other
+*   Reason may prevent us from killing each other
 
 ### Death
 
@@ -696,10 +696,10 @@ It's hard to over-emphasize the hegemony of Christianity in rural culture.  I sa
 
 Contrary to popular urban opinion, evangelical or activist Christianity doesn't associate with the American right, which I take to mean racist nationalism and opposition to democracy.  You won't find books in a Christian bookstore calling for a return to monarchy, racial purity, or even tighter borders.  The main areas I'm aware of in which Christians oppose urban culture due to their faith are
 
-> *   abortion
-> *   schools teaching anything contrary to the beliefs of Christian culture
-> *   concerns about future centuries, because Christ will return before then
-> *   almost anything sexual
+*   abortion
+*   schools teaching anything contrary to the beliefs of Christian culture
+*   concerns about future centuries, because Christ will return before then
+*   almost anything sexual
 
 That's a short list, but not trivial.  Polygamy, prostitution, homosexuality, pornography, abortion, and the teaching of evolution would all be banned widely if it were up to rural Christians (and the first 2 already are).
 
@@ -709,15 +709,15 @@ I think the main reason for the dominance of Christianity in the country is that
 
 Rural culture has its own, separate gripes with urban culture.  These include:
 
-> *   gun control
-> *   expansion of federal powers
-> *   over-regulation of business
-> *   the doctrine that men and women are mentally the same
-> *   urban control of the media and institutions
-> *   discrimination against, and demonization of, rural people
-> *   rural poverty
-> *   immigration
-> *   gun control
+*   gun control
+*   expansion of federal powers
+*   over-regulation of business
+*   the doctrine that men and women are mentally the same
+*   urban control of the media and institutions
+*   discrimination against, and demonization of, rural people
+*   rural poverty
+*   immigration
+*   gun control
 
 These issues are more cultural and pragmatic than ideological.  I don't think this is the place to explain them.  But the next time you find yourself imitating a southern accent to imply that someone is stupid, stop and think.  The next time you talk about "diversity" or "multiculturalism", remember that rural American culture is one of those cultures you say you want to be tolerant of.  Cosmopolitan Western culture is closer to rural American culture than it is to just about any culture in the world.  Culture isn't just music and food; it's also about beliefs and values.  So how are you going to get along with Syrian Muslims if you can't get along with people from Iowa?
 
@@ -839,11 +839,11 @@ Yes, the masses cheered for Hitler.  Yes, some (though not most) voted for Hitle
 
 Nazism did not begin with Hitler.  The Nazi party did, but every one of its ideas was already planted firmly in German culture long before.
 
-> *   The **hatred of Jews**, owing much to Martin Luther, whose _On the Jews and Their Lies_ (1543) advised his followers on how to deal with Jews: "First, set fire to their synagogues or schools… Second, I advised that their houses also be razed and destroyed.… Third, I advised that all their prayer books and Talmudic writings,  in which such adultery, lies, cursing and blasphemy are taught, be taken from them.… Fourth, I advised that their rabbis be forbidden to teach henceforth on pain of loss of life and limb.…  Fifth, I advised that safe conduct on the highways be abolished completely for the Jews.… Sixth, I advise that… all cash and treasure of silver and gold be taken from them…. Seventh, … Let whosoever can throw brimstone and pitch upon them, so much the better… And if this be not enough, let them be driven like mad dogs out of the land." (Waite 1977 p. 250)  This theme was expanded on by others, like Guido von List (Waite p. 91-97), to add components such as the claim that only Aryans (whoever they were) had produced any art or culture (Wagner 1850; see also Waite p. 108; Georg Lanz von Liebenfels, Waite p. 93; Theodor Fritsch, Waite p. 98), a panic about the threat from Jews to the purity of German blood (von Liebenfels, Waite p. 94), the demand that Jewishness be eliminated from the Earth ([Karl Marx 1844](https://www.marxists.org/archive/marx/works/1844/jewish-question/), Wagner 1871 [V10](https://archive.org/details/gesammeltesc910wagn1871) p. 274[zznazi2]), followed by demands for the slaughter of all Jews (Karl Lueger, mayor of Vienna when Hitler moved there in 1907; von Liebenfels; von List; all cited in Waite p. 90-91).
-> *   The **military absolutism** of Frederick William I (ruled 1713-1740), [Frederick the Great](http://www.history.com/topics/frederick-ii-prussia) (ruled 1740-1786), and their successors, who turned Germany into a military dictatorship and taught the Germans **absolute submission to the state unto death** and the doctrine that **might makes right**.  Under Frederick the Great, [the military consumed 86% of the budget](https://en.wikipedia.org/wiki/Frederick_the_Great#Inheritance), prompting the Marquis de Mirabeau to say that Prussia was not a state in possession of an army, but an army in possession of a state.
-> *   The belief, taught by Luther and encouraged by the Prussian kings, that the spiritual life had nothing to do with the earthly state, and that good people ought not to concern themselves with politics (Waite 1977 p. 250). This created a mental divide between personal and political morality, so that one could acquiesce to the slaughter of Jews on the grounds that this was a political act which had nothing to do with your private spiritual walk with God.
-> *   The rejection of democracy in favor of a Messianic faith in a mythic divinely-inspired Leader or Führer who would unite Germany.  This was promoted, for example, in the adoration of the medieval German hero Barbarossa and the Arthurian-like legend that he would one day return to reunited Germany by force; in Hans von Grimmelshausen's _Adventurous Life of Simplicius Simplicissimus_ (1669, Waite p. 252); and by Guido von List in 1911 (Waite p. 96).
-> *   [Otto von Bismarck](https://en.wikipedia.org/wiki/Otto_von_Bismarck) (in office 1871–1890) promoted philosophers like Johann Fichte (1762-1814) and Hegel (1770-1831), historians like [Heinrich von Treitschke](https://en.wikipedia.org/wiki/Heinrich_von_Treitschke) (1834-1896), moralizing storytellers like the Grimm Brothers, and artists like Ernst Arndt (1769-1860) and Richard Wagner (1813-1883), to **fight off Western humanism and liberalism** by indoctrinating Germans with **racial separatism**, the **supremacy of the state over the individual**, the concept of **purity**, the **virtue of war** to purify and strengthen a nation, the uselessness of democracy, the need for **national salvation** through a Messiah-like Great Leader, a conviction that the Germans, not the Jews, were **God's chosen people** and destined to rule Europe, and a corresponding necessary hatred of Jews.  Every plank of the Nazi platform was already part of German culture when Hitler was born.  Kaiser Wilhelm and Hitler were the mad leaders raised in this stew of fascist doctrines who did not merely use, but believed, the propaganda.
+*   The **hatred of Jews**, owing much to Martin Luther, whose _On the Jews and Their Lies_ (1543) advised his followers on how to deal with Jews: "First, set fire to their synagogues or schools… Second, I advised that their houses also be razed and destroyed.… Third, I advised that all their prayer books and Talmudic writings,  in which such adultery, lies, cursing and blasphemy are taught, be taken from them.… Fourth, I advised that their rabbis be forbidden to teach henceforth on pain of loss of life and limb.…  Fifth, I advised that safe conduct on the highways be abolished completely for the Jews.… Sixth, I advise that… all cash and treasure of silver and gold be taken from them…. Seventh, … Let whosoever can throw brimstone and pitch upon them, so much the better… And if this be not enough, let them be driven like mad dogs out of the land." (Waite 1977 p. 250)  This theme was expanded on by others, like Guido von List (Waite p. 91-97), to add components such as the claim that only Aryans (whoever they were) had produced any art or culture (Wagner 1850; see also Waite p. 108; Georg Lanz von Liebenfels, Waite p. 93; Theodor Fritsch, Waite p. 98), a panic about the threat from Jews to the purity of German blood (von Liebenfels, Waite p. 94), the demand that Jewishness be eliminated from the Earth ([Karl Marx 1844](https://www.marxists.org/archive/marx/works/1844/jewish-question/), Wagner 1871 [V10](https://archive.org/details/gesammeltesc910wagn1871) p. 274[zznazi2]), followed by demands for the slaughter of all Jews (Karl Lueger, mayor of Vienna when Hitler moved there in 1907; von Liebenfels; von List; all cited in Waite p. 90-91).
+*   The **military absolutism** of Frederick William I (ruled 1713-1740), [Frederick the Great](http://www.history.com/topics/frederick-ii-prussia) (ruled 1740-1786), and their successors, who turned Germany into a military dictatorship and taught the Germans **absolute submission to the state unto death** and the doctrine that **might makes right**.  Under Frederick the Great, [the military consumed 86% of the budget](https://en.wikipedia.org/wiki/Frederick_the_Great#Inheritance), prompting the Marquis de Mirabeau to say that Prussia was not a state in possession of an army, but an army in possession of a state.
+*   The belief, taught by Luther and encouraged by the Prussian kings, that the spiritual life had nothing to do with the earthly state, and that good people ought not to concern themselves with politics (Waite 1977 p. 250). This created a mental divide between personal and political morality, so that one could acquiesce to the slaughter of Jews on the grounds that this was a political act which had nothing to do with your private spiritual walk with God.
+*   The rejection of democracy in favor of a Messianic faith in a mythic divinely-inspired Leader or Führer who would unite Germany.  This was promoted, for example, in the adoration of the medieval German hero Barbarossa and the Arthurian-like legend that he would one day return to reunited Germany by force; in Hans von Grimmelshausen's _Adventurous Life of Simplicius Simplicissimus_ (1669, Waite p. 252); and by Guido von List in 1911 (Waite p. 96).
+*   [Otto von Bismarck](https://en.wikipedia.org/wiki/Otto_von_Bismarck) (in office 1871–1890) promoted philosophers like Johann Fichte (1762-1814) and Hegel (1770-1831), historians like [Heinrich von Treitschke](https://en.wikipedia.org/wiki/Heinrich_von_Treitschke) (1834-1896), moralizing storytellers like the Grimm Brothers, and artists like Ernst Arndt (1769-1860) and Richard Wagner (1813-1883), to **fight off Western humanism and liberalism** by indoctrinating Germans with **racial separatism**, the **supremacy of the state over the individual**, the concept of **purity**, the **virtue of war** to purify and strengthen a nation, the uselessness of democracy, the need for **national salvation** through a Messiah-like Great Leader, a conviction that the Germans, not the Jews, were **God's chosen people** and destined to rule Europe, and a corresponding necessary hatred of Jews.  Every plank of the Nazi platform was already part of German culture when Hitler was born.  Kaiser Wilhelm and Hitler were the mad leaders raised in this stew of fascist doctrines who did not merely use, but believed, the propaganda.
 
 On July 8, 1915, Germany's intellectual community wrote the "Petition of the Intellectuals", demanding that Germany keep the conquered parts of France, that it also take Belgium and a large part of Eastern Europe, and that its enemies be required to pay high reparations "without mercy".  1,347 intellectuals signed the petition, including 352 university professors, 252 writers, and 158 clergy and teachers.  A more moderate petition circulated by Hans Delbrück gathered 141 signatures. (Waite 1977 p. 291)
 
@@ -853,9 +853,9 @@ In May 1933, in Heidegger's inaugural address as Rector of the University of Fre
 
 [zz16] (Barthes 1969), "The Death of the Author", is an instructive example of irrationality, less in what it says than in its reception.  There are 3 interpretations of it:
 
-> *   The one held by almost all writers and literature professors: that it argues that a critic should disregard the author's intentions.  This is wrong; that's a misinterpretation of (Wimsatt & Beardsley 1946), "The Intentional Fallacy".
-> *   The one held by the elite few literary theorists who've read and understood it:  that it proves that there's no such thing as an author, because originality is impossible.
-> *   The one that's right:  that it merely states that originality is impossible, without argument or citation.
+*   The one held by almost all writers and literature professors: that it argues that a critic should disregard the author's intentions.  This is wrong; that's a misinterpretation of (Wimsatt & Beardsley 1946), "The Intentional Fallacy".
+*   The one held by the elite few literary theorists who've read and understood it:  that it proves that there's no such thing as an author, because originality is impossible.
+*   The one that's right:  that it merely states that originality is impossible, without argument or citation.
 
 But I'm being slightly dishonest when I say the second interpretation is false.  It does prove that originality is possible, _by the standards of proof of today's literary theory community_.  Those standards are based on notions of "the discourse" promulgated by Foucault and Derrida, which say, in different ways, that an idea counts as being proven true when enough people repeat it.
 
@@ -991,9 +991,9 @@ Pinker could have used the dismissal of Wuhan Lab origin theory as an example of
 
 [zzonce] I did write out and debug a program on paper (a simple text-based arcade game), then type the whole thing into a computer and have it work at the first go – _once_.  But that was only because I was very, very practiced in debugging code on paper, because
 
-> *   I didn't have a computer, so I wrote my programs on paper at home, then typed them in on the days I could use a computer
-> *   After I got a computer, I couldn't afford an assembler, so if I made any changes to the code after typing it I'd have to retype the whole thing to fix the absolute and relative references to places in the code, which were numeric, not symbolic
-> *   I also couldn't afford hardware for _saving_ programs once typed in, and when I tested a program after typing it in, it was likely to erase either itself or the operating system (this was before protected memory)
+*   I didn't have a computer, so I wrote my programs on paper at home, then typed them in on the days I could use a computer
+*   After I got a computer, I couldn't afford an assembler, so if I made any changes to the code after typing it I'd have to retype the whole thing to fix the absolute and relative references to places in the code, which were numeric, not symbolic
+*   I also couldn't afford hardware for _saving_ programs once typed in, and when I tested a program after typing it in, it was likely to erase either itself or the operating system (this was before protected memory)
 
 So someone could become good enough at debugging his deductions to draw a valid conclusion rationally, once in a great while, _if_ he first worked as an empiricist, experimentally testing out all of his thoughts and theories.
 
@@ -1069,9 +1069,9 @@ Lewis also wrote that it didn't really matter to him whether faerieland was real
 
 [zzgoetz] ([Goetz 2009](https://www.lesswrong.com/posts/LkCeA4wu8iLmetb28/exterminating-life-is-rational)) made another argument that reason might kill us all, which, if clarified, steel-manned, and restricted, says
 
-> *   technology will continue increasing forever
-> *   technology will offer new existential risks a constant or increasing rate
-> *   due to the exponential or hyperbolic discounting Pinker explained in chapter 2, "Conflicts among Time Frames", rational self-interested agents would accept existential risks at a rate that would guarantee eventual self-extermination
+*   technology will continue increasing forever
+*   technology will offer new existential risks a constant or increasing rate
+*   due to the exponential or hyperbolic discounting Pinker explained in chapter 2, "Conflicts among Time Frames", rational self-interested agents would accept existential risks at a rate that would guarantee eventual self-extermination
 
 An additional complication not mentioned by Goetz is that, if this is a good argument, then reasonable agents may habitually commit local, pre-emptive genocides or cullings, to prevent the inevitable universal conflagration, like fire-fighters who regularly start small forest fires to prevent larger ones from bursting out.  For example:  If you believe it's likely that someone will build an Artificial General Intelligence (AGI) within the next 30 years that will kill us all, shouldn't you be trying to stop them by provoking a global thermonuclear war?  And if rational agents do such things, will one of their small forest fires inevitably grow out of control?
 
@@ -1671,25 +1671,25 @@ Northern and coastal or waterfront cities seem to have more racial hate crime th
 
 [zzmedia] I should probably make an annotated list of incidents showing that the major media systematically suppress any information which opposes their narrative, but I don't think it's worth taking the time to do it properly.  It's intrinsically futile, as we need a survey of a random sample of cases of media censorship.  For that I have no other source but those cases I've stumbled across myself accidentally, since cases of media censorship by definition can't be found in the media doing the censorship, and can usually only be found via opposing groups, which don't give a random sample.  But I can at least list ones that come to mind immediately:
 
-> *   I was in the computer game industry at the time of Gamergate, and was tangentially aware of it.  It was about allegations that computer game reviews in some major gaming magazines were biased to give good reviews of games by companies who advertised in those magazines.  I heard nothing about misogyny until years later, by which time the actual issues of gamergate had been drowned by major media outlets reporting, uncritically, that it was a misogynist and white-supremacist movement.  The only media outlet I found via Google that had any factual coverage of the matter was Breitbart.
-> *   Also owing to my connections with the computer game industry, I was waiting for news from a conference on computer game design that was to be held in California.  Then I heard that the conference was cancelled, hours or minutes before it was supposed to begin.  News agencies reported that it had been cancelled for violating the policy of the college where it was to be held, that all conferences must have at least one female speaker.  They spun it as "Sexist videogame developers got what they deserved."  Again, the only news media I found via Google that did any investigation at all was Breitbart, whose reporter interviewed the conference organizers, and learned that they _had_ invited a female game designer, with great difficulty (as there were, at the time, very few of them outside of educational games).  She'd cancelled on them at the last minute, after the audience had already paid for the conference and showed up in California to attend the event.  The university forced it to be cancelled anyway, probably causing innocent attendees and organizers losses in the hundreds of thousands of dollars.
-> *   The correlation between playing violent videogames and committing mass school shootings is greater than the correlation between access to guns and committing mass school shootings.  The scientific community was almost unanimous on this point when I checked in 2018; the link between game violence or media violence, and real-life violence, has been affirmed by National Commission on the Causes and Prevention of Violence (1969), the Surgeon General (1972), the National Institute of Mental Health (1982), the Attorney General's Task Force on Family Violence (1984), The American Academy of Pediatrics' Task Force on Children and Television, The American Psychological Association's Commission on Youth and Violence, and in publications in JAMA and Archives of Pediatrics and Adolescent Medicine.  The lone exception is Chris Ferguson, who claims one day that there's no evidence for a link between violent video games and violence, and on the next that the entire American psychology establishment is conspiring to suggest that link (Ferguson 2007).  Every article I've ever read in a mass-market magazine on the issue was either written by Ferguson, or used Ferguson as its primary source.  This is important because urban culture would have us put no restrictions on violent videogames, yet restrict gun ownership in order to reduce mass shootings, when the evidence is that doing the opposite would be at least as good.  It's a classic case of privileging the things important to urbanites above the things important to rural people.
-> *   Every person in rural America knows that the argument for the Second Amendment is that we need guns to protect ourselves from government tyranny.  I have never in my life seen this argument presented in a single news article about gun control.  I've been asked by adult urbanites, apparently sincerely, what on Earth anyone would want a rifle for other than for committing crimes or shooting deer.  This shows how ignorant urbanites are kept of the rural perspective.
-> *   Articles about gun control in the major media often cite studies or data showing that violent crime goes up in areas without gun control.  This result is obtained by classifying suicide as violent crime, usually without mentioning that fact.
-> *   The news media has, for IIRC the past 2 decades, unanimously voiced the opinion that support of the use of torture for any purpose is beyond the pale.  Yet the view that torture is never justifiable has always been a minority view among the American public:
+*   I was in the computer game industry at the time of Gamergate, and was tangentially aware of it.  It was about allegations that computer game reviews in some major gaming magazines were biased to give good reviews of games by companies who advertised in those magazines.  I heard nothing about misogyny until years later, by which time the actual issues of gamergate had been drowned by major media outlets reporting, uncritically, that it was a misogynist and white-supremacist movement.  The only media outlet I found via Google that had any factual coverage of the matter was Breitbart.
+*   Also owing to my connections with the computer game industry, I was waiting for news from a conference on computer game design that was to be held in California.  Then I heard that the conference was cancelled, hours or minutes before it was supposed to begin.  News agencies reported that it had been cancelled for violating the policy of the college where it was to be held, that all conferences must have at least one female speaker.  They spun it as "Sexist videogame developers got what they deserved."  Again, the only news media I found via Google that did any investigation at all was Breitbart, whose reporter interviewed the conference organizers, and learned that they _had_ invited a female game designer, with great difficulty (as there were, at the time, very few of them outside of educational games).  She'd cancelled on them at the last minute, after the audience had already paid for the conference and showed up in California to attend the event.  The university forced it to be cancelled anyway, probably causing innocent attendees and organizers losses in the hundreds of thousands of dollars.
+*   The correlation between playing violent videogames and committing mass school shootings is greater than the correlation between access to guns and committing mass school shootings.  The scientific community was almost unanimous on this point when I checked in 2018; the link between game violence or media violence, and real-life violence, has been affirmed by National Commission on the Causes and Prevention of Violence (1969), the Surgeon General (1972), the National Institute of Mental Health (1982), the Attorney General's Task Force on Family Violence (1984), The American Academy of Pediatrics' Task Force on Children and Television, The American Psychological Association's Commission on Youth and Violence, and in publications in JAMA and Archives of Pediatrics and Adolescent Medicine.  The lone exception is Chris Ferguson, who claims one day that there's no evidence for a link between violent video games and violence, and on the next that the entire American psychology establishment is conspiring to suggest that link (Ferguson 2007).  Every article I've ever read in a mass-market magazine on the issue was either written by Ferguson, or used Ferguson as its primary source.  This is important because urban culture would have us put no restrictions on violent videogames, yet restrict gun ownership in order to reduce mass shootings, when the evidence is that doing the opposite would be at least as good.  It's a classic case of privileging the things important to urbanites above the things important to rural people.
+*   Every person in rural America knows that the argument for the Second Amendment is that we need guns to protect ourselves from government tyranny.  I have never in my life seen this argument presented in a single news article about gun control.  I've been asked by adult urbanites, apparently sincerely, what on Earth anyone would want a rifle for other than for committing crimes or shooting deer.  This shows how ignorant urbanites are kept of the rural perspective.
+*   Articles about gun control in the major media often cite studies or data showing that violent crime goes up in areas without gun control.  This result is obtained by classifying suicide as violent crime, usually without mentioning that fact.
+*   The news media has, for IIRC the past 2 decades, unanimously voiced the opinion that support of the use of torture for any purpose is beyond the pale.  Yet the view that torture is never justifiable has always been a minority view among the American public:
 >
-> *   [2005-2011](https://fivethirtyeight.com/features/senate-torture-report-public-opinion/):
+*   [2005-2011](https://fivethirtyeight.com/features/senate-torture-report-public-opinion/):
 
 ![](https://acximages.ennals.org/images/2022-book-reviews/bd8fc63dd1720843.png)
 
-> *   March 2016: Only 15% say torture can never be justified ([Ipsos Poll Conducted for Reuters](http://graphics.thomsonreuters.com/16/Ipsos-Brussels.pdf), Brussels Topline 3.28.2016).  Poll "has a credibility interval of plus or minus 2.5 percentage points".
-> *   November 2016: 49% say torture can never be justified ([Pew Research](https://www.pewresearch.org/fact-tank/2017/01/26/americans-divided-in-views-of-use-of-torture-in-u-s-anti-terror-efforts/)).  "The margin of sampling error for the full sample of 4,265 respondents is plus or minus 3.1 percentage points."  (I think something is wrong with survey confidence intervals.)
+*   March 2016: Only 15% say torture can never be justified ([Ipsos Poll Conducted for Reuters](http://graphics.thomsonreuters.com/16/Ipsos-Brussels.pdf), Brussels Topline 3.28.2016).  Poll "has a credibility interval of plus or minus 2.5 percentage points".
+*   November 2016: 49% say torture can never be justified ([Pew Research](https://www.pewresearch.org/fact-tank/2017/01/26/americans-divided-in-views-of-use-of-torture-in-u-s-anti-terror-efforts/)).  "The margin of sampling error for the full sample of 4,265 respondents is plus or minus 3.1 percentage points."  (I think something is wrong with survey confidence intervals.)
 >
-> *   On Sept. 13, 2020, after two policemen in Los Angeles who were just sitting in their police car were shot on camera, execution-style, after a Black Lives Matter protest, I found no mention of it in any major media outlet except for Fox and CNN. It was the 60th article in CNN's news feed, 22 places below "Best showerheads of 2020."  The top seven articles in CNN's feed that day were all either about how bad Trump is, or about how good Biden is.
-> *   In years of discussing Black Lives Matter in the media, not one major media outlet has ever mentioned the fact that the odds of a person in a confrontation with the police in the US being fatally shot are indistinguishable for whites and blacks.  The difference in the probability of a black vs. a white being shot by the police is explained away by the difference in the probability of getting into a confrontation with the police.  You can check relevant data in the FBI's UCR.  I have a friend who was disinvited as a conference speaker just for having pointed this data out in a response on an online discussion forum.  Another point never mentioned is that the converse is true:  blacks confronting the police _are_ much more likely to shoot them than whites are.
-> *   In late 2020, I went into downtown Columbus, Ohio, and found it devastated by Black Lives Matter protests, with many blocks of smashed and boarded-up plate-glass windows.  I'd heard nothing about it on the news.
-> *   The contents of the IPCC reports on global warming are far more modest than any account of them that I've seen via any mainstream media outlet.
-> *   In November 2021, a driver ran his SUV into a parade in Wisconsin, killing 5.  When it turned out he'd posted messages on Facebook saying he wanted to kill whites, most major media outlets dropped the story instantly, [never retracting](https://www.newsweek.com/stop-avoiding-facts-about-waukesha-opinion-1655395) their earlier statements that it had  been motivated by domestic abuse.  The update about his racism was reported by the Toronto Sun, the New York Post, the UK Daily Mail, and Newsweek.  The Anti-Defamation League posted an article titled "Waukesha: Tragedy Exploited by White Supremacists", saying, "Although Brooks made hateful posts on social media and indicated support for some conspiratorial beliefs, there is no evidence that he was a member of any organized group."  Oddly, neither the ADL, nor anyone else, has said we shouldn't say that a killing by a white racist wasn't racially motivated because there was "no evidence that he was a member of any organized group."
+*   On Sept. 13, 2020, after two policemen in Los Angeles who were just sitting in their police car were shot on camera, execution-style, after a Black Lives Matter protest, I found no mention of it in any major media outlet except for Fox and CNN. It was the 60th article in CNN's news feed, 22 places below "Best showerheads of 2020."  The top seven articles in CNN's feed that day were all either about how bad Trump is, or about how good Biden is.
+*   In years of discussing Black Lives Matter in the media, not one major media outlet has ever mentioned the fact that the odds of a person in a confrontation with the police in the US being fatally shot are indistinguishable for whites and blacks.  The difference in the probability of a black vs. a white being shot by the police is explained away by the difference in the probability of getting into a confrontation with the police.  You can check relevant data in the FBI's UCR.  I have a friend who was disinvited as a conference speaker just for having pointed this data out in a response on an online discussion forum.  Another point never mentioned is that the converse is true:  blacks confronting the police _are_ much more likely to shoot them than whites are.
+*   In late 2020, I went into downtown Columbus, Ohio, and found it devastated by Black Lives Matter protests, with many blocks of smashed and boarded-up plate-glass windows.  I'd heard nothing about it on the news.
+*   The contents of the IPCC reports on global warming are far more modest than any account of them that I've seen via any mainstream media outlet.
+*   In November 2021, a driver ran his SUV into a parade in Wisconsin, killing 5.  When it turned out he'd posted messages on Facebook saying he wanted to kill whites, most major media outlets dropped the story instantly, [never retracting](https://www.newsweek.com/stop-avoiding-facts-about-waukesha-opinion-1655395) their earlier statements that it had  been motivated by domestic abuse.  The update about his racism was reported by the Toronto Sun, the New York Post, the UK Daily Mail, and Newsweek.  The Anti-Defamation League posted an article titled "Waukesha: Tragedy Exploited by White Supremacists", saying, "Although Brooks made hateful posts on social media and indicated support for some conspiratorial beliefs, there is no evidence that he was a member of any organized group."  Oddly, neither the ADL, nor anyone else, has said we shouldn't say that a killing by a white racist wasn't racially motivated because there was "no evidence that he was a member of any organized group."
 
 [zzornot] Or not.  The New Testament makes it clear that St. Peter wasn't Pope of anything, not even of the Jerusalem church; which shoots to Hell Catholicism's foundational myth of the Apostolic succession, but Catholics know the texts and don't care.  The number of people killed in Christ's name, from the Battle of the Milvian Bridge to the present, was well over 10 million, and by percentage of population, would give communism a run for its title as the most-lethal ideology in history.  (I've compiled a list of well-substantiated Christian atrocities, but it's about as long as this document.)  But the Christians I've explained this to, like Marxists presented with a history of Marxism, reply with "No true Scotsman."  (Or, in some cases, "They deserved it.")
 

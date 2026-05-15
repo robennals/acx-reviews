@@ -63,19 +63,19 @@ All of this is to say that America would absolutely not have built the first ato
 
 They were, however, completely wrong; the Germans had gotten nowhere. Nazi self sabotage was immense. For starters they had either forced into exile or decided to murder most of their best scientific and engineering talent. Here's a brief and incomplete list of some of the most important scientists who not only fled Europe, but went on to make significant contributions to the Manhattan Project.
 
-> *   Leo Szilard - Chain reaction, Saw the bomb was possible, Martian.
-> *   John Von Neuman - explosive lenses, (not eyewear, incredibly impressive, extremely difficult to explain, Rhoades does a great job - one of the best parts of the book), essential to building Fat man and later the Hydrogen bomb - Martian, possibly the smartest man who ever lived
-> *   James Franck - director of chemistry at Los Alamos - 1925 Nobel
-> *   Isidor Isaac Rabi - consultant at los alamos - 1944 Nobel
-> *   Enrico Fermi - “Architect of the nuclear age” - not Jewish but his wife was, 1938 Nobel
-> *   Neihls Bohr - discovered the structure of the Atom, consultant at Los Alamos, 1922 Nobel, another contender for smartest man to ever live.
-> *   Otto Frish - explained fission with his aunt Lise Meitner, who was stranded in Sweden - helped determine critical mass - probably should have won the Nobel
-> *   Edward Teller - “Father of the Hydrogen bomb,” Martian
-> *   Hans Bethe - critical mass calculations, implosion theory - 1967 Nobel
-> *   Rudolf Peierls - key to the measurements behind MAUD, first to realise U235 was the key - detonation mechanisms at Los Alamos
-> *   Klaus Fuchs - critical mass calculations with Peierls, MAUD, soviet spy
-> *   Stanislaw Ulam - lenses with von Neuman - his entire family was murdered in the holocaust.
-> *   Albert Einstein - Einstein! Lent his name to the letter to Roosevelt that set the wheels in motion, stayed away from Los Alamos. 1921 Nobel. Another contender for smartest man to ever live.
+*   Leo Szilard - Chain reaction, Saw the bomb was possible, Martian.
+*   John Von Neuman - explosive lenses, (not eyewear, incredibly impressive, extremely difficult to explain, Rhoades does a great job - one of the best parts of the book), essential to building Fat man and later the Hydrogen bomb - Martian, possibly the smartest man who ever lived
+*   James Franck - director of chemistry at Los Alamos - 1925 Nobel
+*   Isidor Isaac Rabi - consultant at los alamos - 1944 Nobel
+*   Enrico Fermi - “Architect of the nuclear age” - not Jewish but his wife was, 1938 Nobel
+*   Neihls Bohr - discovered the structure of the Atom, consultant at Los Alamos, 1922 Nobel, another contender for smartest man to ever live.
+*   Otto Frish - explained fission with his aunt Lise Meitner, who was stranded in Sweden - helped determine critical mass - probably should have won the Nobel
+*   Edward Teller - “Father of the Hydrogen bomb,” Martian
+*   Hans Bethe - critical mass calculations, implosion theory - 1967 Nobel
+*   Rudolf Peierls - key to the measurements behind MAUD, first to realise U235 was the key - detonation mechanisms at Los Alamos
+*   Klaus Fuchs - critical mass calculations with Peierls, MAUD, soviet spy
+*   Stanislaw Ulam - lenses with von Neuman - his entire family was murdered in the holocaust.
+*   Albert Einstein - Einstein! Lent his name to the letter to Roosevelt that set the wheels in motion, stayed away from Los Alamos. 1921 Nobel. Another contender for smartest man to ever live.
 
 I’m sure I’ve missed some, but I think I’ve made my point. The Nazis scored the greatest own goal in history, making a whole bunch of the smartest men in the world hate them with a burning passion, and driving those very smart men to come together to build the most terrible weapon the world had ever seen, with the intention of using it against them. Luckily for Germany they lost the war before it was ready. There were other reasons for German failure; their (remaining) scientists did conclude the bomb was possible, but hesitated about whether it could be achieved with the resources at Germany's disposal during the current war. Germany, unlike the United States, did not have any resources to spare, certainly not on a speculative bet, which any bomb project would be. Before the war Germany already had a far smaller economy and stock of industrial resources than the United States, and as the war advanced building the bomb became a near physical impossibility as the US and British air forces were in the process of reducing the Rhineland and every remotely important German city to rubble. Along with this they were facing 185 million very angry Soviets in a war of extermination in the east, the western allies were working their way through North Africa, Italy, and then France and Germany, and Norwegian commandos, in one of the most daring episodes of the war, destroyed the German reserve of heavy water, the only real physical asset the German bomb program had. Werner Heisenberg, 1932 Nobelist and head of the Nazi bomb programme, claimed after the war that he and the other scientists, horrified by the Nazis, had deliberately sabotaged efforts to build the bomb, but they would say that, wouldn’t they, so who knows. The end came in 1942, when Albert Speer, Hitlers chief engineer, decided to pull the plug on their programme “after I had again queried them [Heisenberg and Co.] about deadlines and been told that we could not not count on anything for three or four years.”
 

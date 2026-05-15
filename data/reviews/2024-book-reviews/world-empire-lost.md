@@ -71,11 +71,11 @@ Von Roon considers the other world leaders (Roosevelt excepted) are simply idiot
 
 One of the more darkly amusing parts of this section is von Roon’s, apparently earnest, attempt to apply moral realism to other nation’s decisions to resist Germany aggression. The basic argument takes the form:
 
-> *   Country X had ethical failings.
-> *   Also, it was weaker than Germany.
-> *   By resisting Germany’s invasion they suffered much more than if they had not resisted
-> *   Therefore morally speaking they should have surrendered to prevent that suffering.
-> *   Therefore any death to civilians is therefore the fault of their stupid and corrupt leaders.
+*   Country X had ethical failings.
+*   Also, it was weaker than Germany.
+*   By resisting Germany’s invasion they suffered much more than if they had not resisted
+*   Therefore morally speaking they should have surrendered to prevent that suffering.
+*   Therefore any death to civilians is therefore the fault of their stupid and corrupt leaders.
 
 Let us see how this unfolds with Poland (I have taken key paragraphs of his longer argument, which he scatters amongst descriptions of the military campaign):
 

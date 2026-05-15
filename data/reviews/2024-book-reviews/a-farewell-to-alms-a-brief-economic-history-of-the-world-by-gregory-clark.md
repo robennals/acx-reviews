@@ -26,13 +26,13 @@ Breaking this question down into parts gets us the Drake equation we get an esti
 
  Where:
 
-> *   R\* is the rate of star formation per year
-> *   ƒₚ is the fraction of stars with planets
-> *   ⁿₑ s the number of Earth-like (or otherwise habitable) planets per system with planets
-> *   ƒₗ is the fraction of such planets with life
-> *   ƒᵢ is the fraction with life that develops intelligence
-> *   ƒ꜀ is the fraction of intelligent civilizations that are detectable/contactable
-> *   L is the average longevity of such detectable civilizations in years
+*   R\* is the rate of star formation per year
+*   ƒₚ is the fraction of stars with planets
+*   ⁿₑ s the number of Earth-like (or otherwise habitable) planets per system with planets
+*   ƒₗ is the fraction of such planets with life
+*   ƒᵢ is the fraction with life that develops intelligence
+*   ƒ꜀ is the fraction of intelligent civilizations that are detectable/contactable
+*   L is the average longevity of such detectable civilizations in years
 
 Now the paradox comes in when we make reasonable assumptions with what we can guess. The first three parameters can be inferred with simple observation of what we think the range of an 'Earth-like' planet ought to be. Rocky planets in a habitable zone, one with a regular orbit and rotation, one that could support life are so numerous; So, "Where are they"?  
 

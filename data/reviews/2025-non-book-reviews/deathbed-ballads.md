@@ -604,9 +604,9 @@ I don’t think the connection of _Shades, Kangaroo,_ and _Conch Train_ with the
 
 One of the major tools of analysis applied to the Synoptic Gospels is pericope analysis, the counting and diagramming of shared passages between gospels. I have done something similar here, using motifs (a mix of thematic, structural, stylistic, and lyrical elements) instead of pericopes. I’ve included the nine specific songs I’ve included, plus three “control” songs that are clearly not part of the same tradition, chosen for similar origin and overlapping broad themes. The three are:
 
-> *   _Minnie the Moocher_, a jazz standard from the same era (1931) as _St. James_ that is probably Cab Calloway’s most iconic song. It concerns a prostitute who is daydreaming about marrying rich men and retiring to a life of luxury. I chose it because it was the first vaguely relevant song to come up on my “Jazz, Blues, and Swing” Pandora channel.
-> *   _Whiskey in the Jar_, a 16th century Irish ballad about a highwayman who is betrayed to the authorities by his wife or sweetheart. I chose it for themes of regret, lost love, and fateful chance meetings.
-> *   _A Boy Named Sue,_ a song written by Shel Silverstein for Johnny Cash in 1969 about a man seeking vengeance against his deadbeat father for giving him a girl's name. I chose it because three of the nine songs I’m reviewing were performed by Silverstein or Cash.
+*   _Minnie the Moocher_, a jazz standard from the same era (1931) as _St. James_ that is probably Cab Calloway’s most iconic song. It concerns a prostitute who is daydreaming about marrying rich men and retiring to a life of luxury. I chose it because it was the first vaguely relevant song to come up on my “Jazz, Blues, and Swing” Pandora channel.
+*   _Whiskey in the Jar_, a 16th century Irish ballad about a highwayman who is betrayed to the authorities by his wife or sweetheart. I chose it for themes of regret, lost love, and fateful chance meetings.
+*   _A Boy Named Sue,_ a song written by Shel Silverstein for Johnny Cash in 1969 about a man seeking vengeance against his deadbeat father for giving him a girl's name. I chose it because three of the nine songs I’m reviewing were performed by Silverstein or Cash.
 
 I chose the motifs by including elements that were shared between some of the nine songs, then removing things like “chance meetings" and “prior associates” that were too generic to add much value.
 

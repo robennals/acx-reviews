@@ -75,10 +75,10 @@ Pop quiz time: where are these cafes located?
 
 Answers, clockwise from top-left:
 
-> *   Chai Café, Harare, Zimbabwe
-> *   Two or More Cafe, Karachi, Pakistan
-> *   Rose Café, Barquisimeto, Venezuela
-> *   The Thirty-Six, Medan, Indonesia
+*   Chai Café, Harare, Zimbabwe
+*   Two or More Cafe, Karachi, Pakistan
+*   Rose Café, Barquisimeto, Venezuela
+*   The Thirty-Six, Medan, Indonesia
 
 But if you answered that they are located in America, you are not wrong. They are not physically in America, but they are American in every other way that counts. You could walk into any of these cafes and have the barista draw you adorable latte art. You could walk up to any of the customers and ask them what they thought of the latest season of _Game of Thrones_. I didn’t even try that hard to find these examples! It took me fifteen minutes on Google Maps to find all four pictures.
 

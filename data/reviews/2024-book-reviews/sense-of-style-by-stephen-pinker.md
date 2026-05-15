@@ -28,10 +28,10 @@ In [Sense of Style](https://www.amazon.com/Sense-Style-Thinking-Persons-Writing/
 
 You should probably read this book if you're excited about…
 
-> *   studying examples of incredible writing
-> *   the intricacies of grammar, syntax, and word choice
-> *   gaining a deeper appreciation for the english language
-> *   how written communication _actually_ happens
+*   studying examples of incredible writing
+*   the intricacies of grammar, syntax, and word choice
+*   gaining a deeper appreciation for the english language
+*   how written communication _actually_ happens
 
 There’s plenty of examples of each of them, but In the backdrop of all of this... I couldn't help but ponder how writing styles will evolve in the world of LLMs. Pinker doesn't mention it at all (the book came out in 2015), but I believe _Sense of Style_ can help us answer questions around why ChatGPT can sometimes feel so stale.
 
@@ -224,8 +224,8 @@ GPT-4 has [what's known as a "temperature" setting](https://platform.openai.com/
 
 That said, the transformer architecture actually seems like it would mirror many of the concepts that lead to good writing:
 
-> *   In training, the **weights of the model effectively code for the 'web of ideas'**. The embedding for 'king' is close to the embedding for 'queen' + 'male'. Clearly there's some deeper concepts embedded here in the many-dimensional state space.
-> *   Phrases are **connected by their proximity to one another**. The big insight of the attention mechanism was being able to dynamically adjust the weight of different tokens in relation to one another.
+*   In training, the **weights of the model effectively code for the 'web of ideas'**. The embedding for 'king' is close to the embedding for 'queen' + 'male'. Clearly there's some deeper concepts embedded here in the many-dimensional state space.
+*   Phrases are **connected by their proximity to one another**. The big insight of the attention mechanism was being able to dynamically adjust the weight of different tokens in relation to one another.
 
 Finally there's the question of interpretability. Somewhere in the LLM we've built the web of ideas... but in the output, all we see is the string of text. Re-creating that state is nearly impossible (but hey, you can't inspect my mental state either). How far can we go by serializing it to and from english? Probably not far enough.
 

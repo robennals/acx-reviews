@@ -81,9 +81,9 @@ Predictably, agricultural land prices skyrocketed. In prime growing locations li
 
 But prices didn’t stay high. The sulfur dissipated, and agricultural yields recovered. Soon there was a glut, and cotton, wheat, and corn prices fell below the cost of production. With perfect timing, this is the moment when SBUS began contracting credit. So, to recap the situation of the stereotypical American farmer in 1819:
 
-> *   They overpaid for a farm in 1817, on credit.
-> *   Their first big payment came due in 1819, at which point their crops were worth less than it cost to grow them.
-> *   They had to pay in specie, not the inflated paper money they thought they could use when they bought the land.
+*   They overpaid for a farm in 1817, on credit.
+*   Their first big payment came due in 1819, at which point their crops were worth less than it cost to grow them.
+*   They had to pay in specie, not the inflated paper money they thought they could use when they bought the land.
 
 You can see why Thomas Jefferson went broke.
 

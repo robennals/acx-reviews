@@ -43,44 +43,44 @@ Experience of gender is influenced by culture, socio-economic class, attractiven
 
 Given how unusually sensitive gender takes are to the speaker’s personal experience, here are some more details on my background. Read them if you want to correct for whichever distortions you think my observations have, or skip them as you wish.
 
-> *   I am in my early twenties and assigned female at birth (AFAB).
-> *   I’ve lived in several Western European countries,  but never in America.
-> *   Socio-economic background: progressive public schools, family of origin and non-school influences mostly self-identified “conservative and right-wing” who, by their own admission, would have voted for Trump if they were eligible to vote in America.
-> *   I served in the military ages 18-21, including several deployments.
-> *   Childhood: more tomboy than girly girl, but gender nonconformity wasn’t a big deal.
-> *   Age 14: Rapid onset gender dysphoria.
-> *   Ages 14-16:
+*   I am in my early twenties and assigned female at birth (AFAB).
+*   I’ve lived in several Western European countries,  but never in America.
+*   Socio-economic background: progressive public schools, family of origin and non-school influences mostly self-identified “conservative and right-wing” who, by their own admission, would have voted for Trump if they were eligible to vote in America.
+*   I served in the military ages 18-21, including several deployments.
+*   Childhood: more tomboy than girly girl, but gender nonconformity wasn’t a big deal.
+*   Age 14: Rapid onset gender dysphoria.
+*   Ages 14-16:
 >
-> *   Worked on getting HRT, top surgery etc. approved (not a quick process in the country where I lived).
-> *   Could pass as male in bathrooms and new contexts where I introduced myself with a gender-neutral nickname, which I did wherever I could.
-> *   Never transitioned socially in school, never voluntarily came out to anyone, or did anything else that is congruent with “attention-seeking”. Never had any piercings or unnatural hair colours.
+*   Worked on getting HRT, top surgery etc. approved (not a quick process in the country where I lived).
+*   Could pass as male in bathrooms and new contexts where I introduced myself with a gender-neutral nickname, which I did wherever I could.
+*   Never transitioned socially in school, never voluntarily came out to anyone, or did anything else that is congruent with “attention-seeking”. Never had any piercings or unnatural hair colours.
 >
-> *   This phase ended when I came across an account by someone who made a choice to be a gender non-conforming woman rather than trans. Not “having to transition” came as a relief.
-> *   Ages 17-22:
+*   This phase ended when I came across an account by someone who made a choice to be a gender non-conforming woman rather than trans. Not “having to transition” came as a relief.
+*   Ages 17-22:
 >
-> *   Intense dysphoria (visceral disgust and revulsion towards my body, especially gendered aspects) remained, with a significant detrimental effect on my physical and mental health and well-being.
-> *   During this time, I went back and forth on identifying as trans (which I never, at any point, wanted to be) and believing that “there must be something else going on, this doesn’t make sense, I need to figure out my “gender issues” some other way”. During the times where I thought being trans was the inevitable conclusion:
+*   Intense dysphoria (visceral disgust and revulsion towards my body, especially gendered aspects) remained, with a significant detrimental effect on my physical and mental health and well-being.
+*   During this time, I went back and forth on identifying as trans (which I never, at any point, wanted to be) and believing that “there must be something else going on, this doesn’t make sense, I need to figure out my “gender issues” some other way”. During the times where I thought being trans was the inevitable conclusion:
 >
-> *   I tried to get prescribed hormones (or buy them on the black market) at least five times, but always changed my mind at the last minute. I’ve never taken cross-sex hormones.
-> *   Insurance denied my application for chest reduction surgery, I had a private consultation but I delayed it due to cost.
-> *   I had (minor) facial masculinisation surgery (liposuction for a more pronounced jawline). Never regretted it. People who haven’t seen the before photos wouldn’t know I had anything done, but I like my face more now.
+*   I tried to get prescribed hormones (or buy them on the black market) at least five times, but always changed my mind at the last minute. I’ve never taken cross-sex hormones.
+*   Insurance denied my application for chest reduction surgery, I had a private consultation but I delayed it due to cost.
+*   I had (minor) facial masculinisation surgery (liposuction for a more pronounced jawline). Never regretted it. People who haven’t seen the before photos wouldn’t know I had anything done, but I like my face more now.
 >
-> *   Also during this period:
+*   Also during this period:
 >
-> *   I got progressively sicker due to a not-yet-diagnosed autoimmune disease and other reasons; this also led to weight gain.
+*   I got progressively sicker due to a not-yet-diagnosed autoimmune disease and other reasons; this also led to weight gain.
 >
-> *   I would no longer have been able to pass as male if I had tried, due to puberty and weight gain.
-> *   My attractiveness during this period was, controlling for age, definitely bottom tier.
+*   I would no longer have been able to pass as male if I had tried, due to puberty and weight gain.
+*   My attractiveness during this period was, controlling for age, definitely bottom tier.
 >
-> *   Age 21: autoimmune disease finally diagnosed.
+*   Age 21: autoimmune disease finally diagnosed.
 >
-> *   Physical and mental health improved drastically over the next years. Also some weight loss.
+*   Physical and mental health improved drastically over the next years. Also some weight loss.
 >
-> *   Attractiveness: moved from bottom to mid tier. Still “mid” as I write this.
+*   Attractiveness: moved from bottom to mid tier. Still “mid” as I write this.
 >
-> *   12.08.2024:
+*   12.08.2024:
 >
-> *   I discovered a mental “switch” that turned off dysphoria. It has not returned since.
+*   I discovered a mental “switch” that turned off dysphoria. It has not returned since.
 
 (As an aside: yes, I know my use of English military terms is weird. That’s because English is not the language of the country whose military I served in.I’ve been accused of stolen valour before due to this, so I want to clarify.)
 
@@ -190,10 +190,10 @@ Men and women differ, on the population level, on lots of dimensions. The mean o
 
 Some examples:
 
-> *   In the MBTI personality system, ~⅔ of women score as feelers and ~⅔ of men as thinkers
-> *   Women tend to have a more anxious attachment style, men tend more avoidant
-> *   In the OCEAN personality system, women tend to score higher on e.g. neuroticism and agreeableness, and men e.g. on assertiveness
-> *   Etc etc etc
+*   In the MBTI personality system, ~⅔ of women score as feelers and ~⅔ of men as thinkers
+*   Women tend to have a more anxious attachment style, men tend more avoidant
+*   In the OCEAN personality system, women tend to score higher on e.g. neuroticism and agreeableness, and men e.g. on assertiveness
+*   Etc etc etc
 
 It’s important that for many of these dimensions, relative position matters more than absolute position. Let’s say we have two people who tend to be anxiously attached. The less anxiously attached one will still, in a sense, be the avoidant one _in the context of that relationship._ Or, to use an often-cited example, orderliness. (Dimension in the OCEAN model; aspect of conscientiousness.) It’s often brought up that the average woman scores higher on orderliness than the average man. This has some explanatory power for the unequal distribution of housework. The higher you score on orderliness, the faster you are bothered by mess. If one partner is slightly more orderly than the other, that partner will be the one to be bothered first by most messes, even if the absolute difference between the two is small. This is a consequence of the relative position of the two partners. It’s a dynamic that still happens if one is 5th and the other 10th percentile on orderliness (both are less orderly than most men and most women) or if one partner is 90th percentile and the other 95th.
 
@@ -232,10 +232,10 @@ Sympathetic opposition deserves the credit for this observation: https://www.sym
 
 Several areas where this applies (all credit for the insights goes to her; if I am misrepresenting her argument the error is mine):
 
-> *   The minority gender is more likely to interrupt, and receives more attention when speaking.
-> *   The majority gender is more likely to attempt mate-poaching (=trying to couple with someone of the minority gender who is already in a relationship (assuming heterosexuality))
-> *   Intrasexual competition, as well as competition for the attention of the opposite gender, is more fierce for the majority gender than for the minority gender.
-> *   Individuals of the majority gender are more likely to initiate PDA’s (public displays of affection) and show mate-guarding behaviour towards their opposite partner than individuals of the minority gender.
+*   The minority gender is more likely to interrupt, and receives more attention when speaking.
+*   The majority gender is more likely to attempt mate-poaching (=trying to couple with someone of the minority gender who is already in a relationship (assuming heterosexuality))
+*   Intrasexual competition, as well as competition for the attention of the opposite gender, is more fierce for the majority gender than for the minority gender.
+*   Individuals of the majority gender are more likely to initiate PDA’s (public displays of affection) and show mate-guarding behaviour towards their opposite partner than individuals of the minority gender.
 
 Sym Opp’s analysis is more detailed and she goes into how men and women differ in how they occupy the roles of minority and majority gender; go read it.
 

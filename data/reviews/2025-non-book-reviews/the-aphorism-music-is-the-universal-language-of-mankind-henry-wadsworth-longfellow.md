@@ -40,9 +40,9 @@ All that said, the way of thinking that I claim is wrong goes like this:
 
 Instead, I claim:
 
-> *   The kind of thoughts you express when you improvise music (or dance) are completely distinct from the kind of thoughts you express with language (call them “music-thoughts” vs “dance-thoughts” vs “language-thoughts”)
-> *   There is no way to directly translate between these different kinds of thoughts
-> *   Non-prodigies without experience improvising will generally not have music or dance-thoughts, and there is no easy, fast, or obvious way to start having them (or to have better ones)
+*   The kind of thoughts you express when you improvise music (or dance) are completely distinct from the kind of thoughts you express with language (call them “music-thoughts” vs “dance-thoughts” vs “language-thoughts”)
+*   There is no way to directly translate between these different kinds of thoughts
+*   Non-prodigies without experience improvising will generally not have music or dance-thoughts, and there is no easy, fast, or obvious way to start having them (or to have better ones)
 
 These strike me as the kind of claims that seem either obviously true or obviously false depending on your intuition, so let me first argue that they’re true and then that they’re not obvious. For the moment, I’m distinguishing between thoughts and feelings/emotions, and just talking about thoughts; I’ll come back to feelings at the end.
 

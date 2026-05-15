@@ -22,8 +22,8 @@ Now that I’ve gotten your attention with a click-baitey-enough lead, allow me 
 
  As an engineer myself, I have enough experience to have absolutely no doubt about the following:
 
-> *   That Elizabeth Holmes’s “product” was an absolute pile of garbage, despite her seemingly sincere submissions to the contrary;
-> *   That this was partially, but not entirely, the result of the fact that the nature of her personality perpetuated and maintained an egregiously toxic work environment wherein, even if there did exist a spark of ingenuity that could, cultivated, have conceivably effected her dream, it would have immediately been snuffed out.
+*   That Elizabeth Holmes’s “product” was an absolute pile of garbage, despite her seemingly sincere submissions to the contrary;
+*   That this was partially, but not entirely, the result of the fact that the nature of her personality perpetuated and maintained an egregiously toxic work environment wherein, even if there did exist a spark of ingenuity that could, cultivated, have conceivably effected her dream, it would have immediately been snuffed out.
 
 I assume these facts to be true, because I have lived this experience enough times that it is not at all alien to me, such that I cannot in principle say that Elizabeth Holmes deserves to be in prison any more than any other startup founder. In other words, if she needs to go to prison, then the greater part of California, at least, needs to go to prison if our legal system is to maintain any shred of principled decision-making.
 

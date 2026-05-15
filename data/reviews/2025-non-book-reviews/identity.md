@@ -40,9 +40,9 @@ And [Clearer Thinking](https://programs.clearerthinking.org/question_your_identi
 
 > Your identity is made up of:
 >
-> *   Traits that describe you _(I am funny, athletic, disorganized, etc.)_
-> *   Relationships or groups you belong to _(I am a father, a chef, a fan of my hometown sports team etc.)_
-> *   The ideologies of the groups you belong to _(I am a conservative, a feminist, a neo-liberal)_
+*   Traits that describe you _(I am funny, athletic, disorganized, etc.)_
+*   Relationships or groups you belong to _(I am a father, a chef, a fan of my hometown sports team etc.)_
+*   The ideologies of the groups you belong to _(I am a conservative, a feminist, a neo-liberal)_
 
 These are workable definitions. Naturally, I don’t deny that people have a conception of themselves, or traits, or that they belong to groups. However, using the term “identity” suggests that the disparate elements in this set form one unified whole. Just like mathematicians don’t call the set {12, -400.857845966+π, ℝ, x↦x/2} anything, we should not give the set of all of a person’s attributes a name. Do our traits or relationships have the same ability to warp our thinking as our ideologies? Do they do so via the same mechanisms? And does it really help you to think more clearly if you say “I fathered this child” rather than “I am this child’s father”?
 

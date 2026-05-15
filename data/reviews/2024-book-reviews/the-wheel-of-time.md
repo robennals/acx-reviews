@@ -76,13 +76,13 @@ That’s all fairly surface level. You’re beat over the head with the fact tha
 
 Jordan’s interest goes beyond just gender politics, however; that’s an integral part of the fantasy world he constructs, but his real fascination is politics more broadly. Look at how many kinds of power structures exist among female magicians alone:
 
-> *   Aes Sedai have authority based on how much magic power they have.
-> *   Windfinders have authority based on the importance of their assignment and their clan’s standing.
-> *   The Kin yield to more senior members.
-> *   Wise Ones defer to sheer force of personality.
-> *   Black Ajah Aes Sedai operate in small cells, in principle obedient to a central authority but each constantly looking to advance by backstabbing.
-> *   Sharan channelers obey one emperor or empress of their number absolutely.
-> *   Seanchan _damane_ (slaves) are chattel with no authority at all.
+*   Aes Sedai have authority based on how much magic power they have.
+*   Windfinders have authority based on the importance of their assignment and their clan’s standing.
+*   The Kin yield to more senior members.
+*   Wise Ones defer to sheer force of personality.
+*   Black Ajah Aes Sedai operate in small cells, in principle obedient to a central authority but each constantly looking to advance by backstabbing.
+*   Sharan channelers obey one emperor or empress of their number absolutely.
+*   Seanchan _damane_ (slaves) are chattel with no authority at all.
 
 The author loves to take characters from one of these factions and dump them into another in order to watch them struggle with culture shock. The reader gets a good giggle when snobbish Aes Sedai are forced to submit Aiel Wise Ones and made to run around as their apprentices and conversely feels horror when a heroic Aes Sedai in training is forced into _damane_ magic slavery.
 

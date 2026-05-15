@@ -103,14 +103,14 @@ Singapore’s policy suite just does not map well onto Western left vs. right ca
 
 Further complicating our efforts to pin down Singapore’s success is the fact that many of its successful policies superficially resemble ones adopted by the US with more mixed results. For example:
 
-> *    Promoting home ownership to create an ownership society
-> *    Public housing
-> *    Promotion of racial intermingling
-> *   Policies to improve minority educational outcomes
-> *   Compulsory savings vehicles (similar to 401ks, IRAs, HSAs, etc. in the US)
-> *   Encouraging healthy habits
-> *   Urban renewal/[resettlement](https://www.amazon.com/Power-Broker-Robert-Moses-Fall/dp/0394720245)
-> *   Traffic congestion pricing
+*    Promoting home ownership to create an ownership society
+*    Public housing
+*    Promotion of racial intermingling
+*   Policies to improve minority educational outcomes
+*   Compulsory savings vehicles (similar to 401ks, IRAs, HSAs, etc. in the US)
+*   Encouraging healthy habits
+*   Urban renewal/[resettlement](https://www.amazon.com/Power-Broker-Robert-Moses-Fall/dp/0394720245)
+*   Traffic congestion pricing
 
 To put it lightly, the US implementation of these kinds of policies is considered at a minimum disappointing, which suggests that Singapore has a special sauce in terms of policy implementation.
 

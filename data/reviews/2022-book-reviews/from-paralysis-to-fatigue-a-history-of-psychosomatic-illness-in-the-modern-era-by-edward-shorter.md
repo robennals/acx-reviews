@@ -223,8 +223,8 @@ We’re up to the 1920s - 1930s. Thanks to advancing science, doctors have more 
 
 Pain and fatigue have several useful qualities. They’re universal experiences with a range of causes. They’re poorly understood compared to seizures or focal paralysis. They’re inherently subjective and “almost impossible to disprove.” Thus, somatization in the rest of the 20th century consisted largely of patients reporting pains, fatigue, and other sensations like nausea or dizziness.
 
-> *   A 1940s Boston internist: “one of the problems most encountered by the general practitioner and the internist is a complaint variously described as weakness, exhaustion, fatigue, loss of ambition, low vitality or weak spells.”
-> *   In 1960s France there was something called receptionists syndrome:
+*   A 1940s Boston internist: “one of the problems most encountered by the general practitioner and the internist is a complaint variously described as weakness, exhaustion, fatigue, loss of ambition, low vitality or weak spells.”
+*   In 1960s France there was something called receptionists syndrome:
 >
 > Profound asthenia of both physical and psychological nature at the end of the workday, a drop in attentiveness, in interest and in memory; disturbances of mood and personality, nervousness, irritability, episodes of anxious agitation, hypersensitivity to noise, hyperactivity with tearful moments
 

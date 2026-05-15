@@ -121,11 +121,11 @@ Finally, the third question I am interested in is regarding the book's first arg
 
 Differing attitudes and perceptions about work:
 
-> *   Textbook: Work is a series of tasks one is given to execute within a time frame. It’s a 9-5, unless your boss is an ass. You do it because everyone does it.
-> *   Aspirational: Work is a space where one encounters new problems and new experiences which helps one to become better thinkers and better doers. You keep at it and your enthusiasm knows no bounds.
-> *   Cynic: Work is a necessary evil. To bad UBI is not yet a thing and that even if it is, it will never be enough. Also, what else is there to do anyways?
-> *   Pragmatism: Work is a microcosm of life, a series of burdensome and unavoidable obligations. You accept it as an experience of life.
-> *   Hippie: Work is a place where you can find yourself?
+*   Textbook: Work is a series of tasks one is given to execute within a time frame. It’s a 9-5, unless your boss is an ass. You do it because everyone does it.
+*   Aspirational: Work is a space where one encounters new problems and new experiences which helps one to become better thinkers and better doers. You keep at it and your enthusiasm knows no bounds.
+*   Cynic: Work is a necessary evil. To bad UBI is not yet a thing and that even if it is, it will never be enough. Also, what else is there to do anyways?
+*   Pragmatism: Work is a microcosm of life, a series of burdensome and unavoidable obligations. You accept it as an experience of life.
+*   Hippie: Work is a place where you can find yourself?
 
 This is what lore looks like. And it has within it
 

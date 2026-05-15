@@ -26,7 +26,7 @@ One explanation is that TikTok is a good corporate citizen that helps its users 
 
 > Sometimes employees at Netflix think, ‘Oh my god, we’re competing with FX, HBO, or Amazon’ … [W]e actually compete with sleep.
 > 
-> - Reed Hastings
+- Reed Hastings
 
 Randomness is addictive, in rats. B. F. Skinner learned that when he created his eponymous rat boxes. The boxes had levers that, when pressed, dispensed food pellets. Rats in boxes where one press resulted in one pellet pressed the lever when hungry. But rats in boxes where one press randomly resulted in no, one, or many pellets, became addicted to pressing the lever. That mammalian attraction to randomness lies at the heart of all gambling.
 
@@ -105,7 +105,7 @@ The book’s description of machine gambling addiction forced me to rethink two 
 
 > Guns don’t kill people, people kill people
 > 
-> - NRA
+- NRA
 
 **I.**
 

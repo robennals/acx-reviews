@@ -166,10 +166,10 @@ That’s not to say it isn’t a very, very good book, but I cannot overstate th
 
 Most books are relaxing to read. Sitting down with _GEB_ felt like preparing for the intellectual version of a marathon. With the strong link between mental exercise and neurodegenerative disease prevention, it may be prudent for doctors to prescribe chapters of _GEB_ (must be taken with caffeine). But the medication analogy is not as strong as that of a diet:
 
-> *   Instructions that are hard to follow
-> *   You’ll likely quit after a few weeks
-> *   You’ll eventually come back and try again
-> *   Everyone you know has tried it or heard of it
-> *   You may be on and off of it forever
+*   Instructions that are hard to follow
+*   You’ll likely quit after a few weeks
+*   You’ll eventually come back and try again
+*   Everyone you know has tried it or heard of it
+*   You may be on and off of it forever
 
 However, if you put in the time, accept failure but continue to persist, it can be infinitely rewarding.

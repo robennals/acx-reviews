@@ -268,9 +268,9 @@ One way to think of fiction is that it’s about things that might happen, that 
 
 Or: fiction is in the things we're shown, and the things we're not shown even though they (fictionally) happened, and the things we're not shown because they didn't happen. Why one thing is shown and another is unshown and another doesn't happen is sometimes a marked choice and sometimes unmarked. (That is, sometimes “the writers did this for a specific reason and we can talk about why” and sometimes “this was just kind of arbitrary or default”.) And if you can't read the marks you're going to be very confused.
 
-> *   **Shown, unmarked**: the lawyers are wearing suits. **Marked**: Edwin Poole isn't wearing pants.
-> *   **Not-shown, unmarked**: people brush their teeth. **Marked**: an episode ends when the characters are waiting for an extremely time-sensitive call to be answered, and we just never learn what happened.
-> *   **Doesn't happen, unmarked**: someone turns into a pig in the courtroom. **Marked**: someone reports a colleague to the bar for violating professional ethics. (At least not as far as I’ve watched.)
+*   **Shown, unmarked**: the lawyers are wearing suits. **Marked**: Edwin Poole isn't wearing pants.
+*   **Not-shown, unmarked**: people brush their teeth. **Marked**: an episode ends when the characters are waiting for an extremely time-sensitive call to be answered, and we just never learn what happened.
+*   **Doesn't happen, unmarked**: someone turns into a pig in the courtroom. **Marked**: someone reports a colleague to the bar for violating professional ethics. (At least not as far as I’ve watched.)
 
 I can't read the marks in the Iliad. I don’t know what parts of what it shows are “this is how stuff just is, in Homer’s world” and what parts of it are “Homer showing the audience something unusual”. That makes it difficult for me to learn about ancient Greece, and also makes it difficult to know what story Homer is telling.
 

@@ -241,9 +241,9 @@ What happens next is the child cries and the parent realises what they've done, 
 
 What the child has learned from this process is that:
 
-> *   Your authority is arbitrary
-> *   You can be placated for them to get what they want
-> *   All they need to do is figure out _what will placate you_.
+*   Your authority is arbitrary
+*   You can be placated for them to get what they want
+*   All they need to do is figure out _what will placate you_.
 
 A harsh, even abusive parent who merely beats their kids for no reason is sure to give them some kind of pathology, but they won't get the second and third parts so this won't create narcissists. It's this unstable emotional dynamic: at once nurturing then punishing without a predictable underlying logic that could allow them to develop a clear understanding of right and wrong.
 

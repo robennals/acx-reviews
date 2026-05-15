@@ -66,10 +66,10 @@ _Atlas Shrugged_ is also much [steamier](https://www.washingtoncitypaper.com/col
 
 Rand’s prose really shines when she’s being mean. Let’s examine a few choice insults:
 
-> *   “Men with gelatin eyes, rubber voices, spiral-shaped convictions, non-committal souls and non-committing hands”
-> *   “The face of his attorney, an elderly man of the old-fashioned school, wore an expression that made it look like he longed to take a bath”
-> *   “Schoolroom voice and bar room mouth”
-> *   “Her voice sounded as if it were falling in drops, not of water, but of mayonnaise”
+*   “Men with gelatin eyes, rubber voices, spiral-shaped convictions, non-committal souls and non-committing hands”
+*   “The face of his attorney, an elderly man of the old-fashioned school, wore an expression that made it look like he longed to take a bath”
+*   “Schoolroom voice and bar room mouth”
+*   “Her voice sounded as if it were falling in drops, not of water, but of mayonnaise”
 
 My key takeaway from reading _Atlas Shrugged_ in 2020 is that it’s a real shame we never got to see the kind of takes Rand would drop on Twitter. She would have had some choice things to say about those pictures of Mark Zuckerberg sucking up to Congress in a too-big suit.
 

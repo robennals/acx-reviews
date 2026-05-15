@@ -123,15 +123,15 @@ Confirmation bias isn’t even needed, information asymmetries do the trick. I f
 
 > _When I was a teenager I believed in a conspiracy theory. It was the one Graham Hancock wrote about in Fingerprints Of The Gods, sort of a modern update on the Atlantis story. It went something like this:_
 >
-> *   _Did you know that dozens of civilizations around the world have oddly similar legends about a lost continent that sunk under the waves? The Greeks called it Atlantis; the Aztecs, Atzlan; the Indonesians, Atala._
-> *   _Various ancient structures and artifacts appear to be older than generally believed. Geologists say that the erosion patterns on the Sphinx prove it must be at least 10,000 years old; some well-known ruins in South America have depictions of animals that have been extinct for at least 10,000 years._
-> *   _There are vast underwater ruins, pyramids and stuff. We know where they are! You can just learn to scuba dive and go see them! Historians just ignore them, or say they’re probably natural, but if you look at them, they’re obviously not natural._
+*   _Did you know that dozens of civilizations around the world have oddly similar legends about a lost continent that sunk under the waves? The Greeks called it Atlantis; the Aztecs, Atzlan; the Indonesians, Atala._
+*   _Various ancient structures and artifacts appear to be older than generally believed. Geologists say that the erosion patterns on the Sphinx prove it must be at least 10,000 years old; some well-known ruins in South America have depictions of animals that have been extinct for at least 10,000 years._
+*   _There are vast underwater ruins, pyramids and stuff. We know where they are! You can just learn to scuba dive and go see them! Historians just ignore them, or say they’re probably natural, but if you look at them, they’re obviously not natural._
 >
 > _Teenage me was impressed by these arguments. But he also had some good instincts and wanted to check to see what skeptics had to say in response. Here are what the skeptics had to say:_
 >
-> *   _“Haha, can you believe some people still think there was an Atlantis! Imagine how stupid you would have to be to fall for that scam!”_
-> *   _“There is literally ZERO evidence for Atlantis. The ONLY reason you could ever believe it is because you’re a racist who thinks brown people couldn’t have built civilizations on their own.”_
-> *   _“No mainstream historians believe in any of that. Do you think you’re smarter than all the world’s historians?”_
+*   _“Haha, can you believe some people still think there was an Atlantis! Imagine how stupid you would have to be to fall for that scam!”_
+*   _“There is literally ZERO evidence for Atlantis. The ONLY reason you could ever believe it is because you’re a racist who thinks brown people couldn’t have built civilizations on their own.”_
+*   _“No mainstream historians believe in any of that. Do you think you’re smarter than all the world’s historians?”_
 
 Teenage Scott was wrong _because_ he really tried to figure out the truth instead of trusting vibes in an information asymmetric landscape. _Even while desperately seeking out good counterarguments_, he found only vibe-based condescension on the anti-Atlantis side, with no plausible counter-explanations. He knew much more than anyone he could find that disagreed with him, yet he was wrong and went on a five-year wild-goose-chase before recovering.
 
@@ -199,8 +199,8 @@ We learned the same lesson across the board. Workable policy advice was most dep
 
 Moving aspiring intellectual do-gooders to isolated forums risks turning a positive force into a destructive one:
 
-> *   **The mainstream** loses free-thinker insights and criticism. Discourse deteriorates and naive EAs who optimise their personal impact end up undermining the democratic institutions get rather than helping them.
-> *   **The free thinkers** with good intentions risk losing touch with reality and being net negative for society. Their ideas and inventions don’t spread from the niche subculture. Rutger Bregman’s 2025 relaunch of the [exact](https://www.moralambition.org/principles) EA project as a revolutionary idea for the mainstream is testament to EA’s isolation.
+*   **The mainstream** loses free-thinker insights and criticism. Discourse deteriorates and naive EAs who optimise their personal impact end up undermining the democratic institutions get rather than helping them.
+*   **The free thinkers** with good intentions risk losing touch with reality and being net negative for society. Their ideas and inventions don’t spread from the niche subculture. Rutger Bregman’s 2025 relaunch of the [exact](https://www.moralambition.org/principles) EA project as a revolutionary idea for the mainstream is testament to EA’s isolation.
 
 Of course, there are still plenty of contact points, and the focus on rationality, uncertainty and criticism counteracts many risks. But the movements are too individualistic. It’s about how _you_ personally can have accurate beliefs and influence the world. Scott wrote that you are playing with epistemological fire when you personally try to figure out who to trust, yet that is the whole rationalist morale.
 

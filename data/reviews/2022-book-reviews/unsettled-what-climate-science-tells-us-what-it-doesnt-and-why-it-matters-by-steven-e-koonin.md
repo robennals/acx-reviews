@@ -62,13 +62,13 @@ I’ll let Koonin describe the results:
 
 He lists four discoveries:
 
-> *   Humans exert a growing, but physically small, warming influence on the climate.  The deficiencies of climate data challenge our ability to untangle the response to human influences from poorly understood natural changes.
-> *   The results from the multitude of climate models disagree with, or even contradict, each other and many kinds of observations.  A vague “expert judgment” was sometimes applied to adjust model results and obfuscate shortcomings.
-> *   Government and UN press releases and summaries do not accurately reflect the reports themselves.  There was a consensus at the meeting on some important issues, but not at all the strong consensus the media promulgates.  Distinguished climate experts (including report authors themselves) are embarrassed by some media portrayals of the science.  This was somewhat shocking.
+*   Humans exert a growing, but physically small, warming influence on the climate.  The deficiencies of climate data challenge our ability to untangle the response to human influences from poorly understood natural changes.
+*   The results from the multitude of climate models disagree with, or even contradict, each other and many kinds of observations.  A vague “expert judgment” was sometimes applied to adjust model results and obfuscate shortcomings.
+*   Government and UN press releases and summaries do not accurately reflect the reports themselves.  There was a consensus at the meeting on some important issues, but not at all the strong consensus the media promulgates.  Distinguished climate experts (including report authors themselves) are embarrassed by some media portrayals of the science.  This was somewhat shocking.
 
 And the kicker (emphasis mine):
 
-> *   In short, **the science** **is insufficient to make useful projections about how the climate will change over the coming decades, much less what effect our actions will have on it.** 
+*   In short, **the science** **is insufficient to make useful projections about how the climate will change over the coming decades, much less what effect our actions will have on it.** 
 
 Whoops.
 
@@ -80,8 +80,8 @@ In the introduction, Koonin declares himself a scientist:
 
 Here “scientist” is defined by two activities:
 
-> *   Understanding the world through measurements and observations, and
-> *   Communicating the implications of that understanding clearly
+*   Understanding the world through measurements and observations, and
+*   Communicating the implications of that understanding clearly
 
 While scientists are good at the first point, they aren't anywhere near as adept at the second.  Koonin points this out as one of the chief failures of climate scientists; it is in the service of that duty that _Unsettled_ is written, and what follows is an attempt to communicate the state of the science to the general public.
 
@@ -163,9 +163,9 @@ And by exaggerating end them.
 
 Koonin opens with three issues that form the core questions of climate science:
 
-> *   How have humans _influenced_ the climate - and how will those influences change in the future?
-> *   How does the climate _respond_ to human (and natural) influences?
-> *   How will the climate’s response _impact_ ecosystems and societies?
+*   How have humans _influenced_ the climate - and how will those influences change in the future?
+*   How does the climate _respond_ to human (and natural) influences?
+*   How will the climate’s response _impact_ ecosystems and societies?
 
 He notes that:
 
@@ -883,12 +883,12 @@ Koonin received backlash to this idea when he suggested it, with the main argume
 
 He leaves us with a list of red flags to watch out for in writing about the climate:
 
-> *   **Anyone referring to a scientist with the pejoratives “denier” or “alarmist” is engaging in politics or propaganda.**
-> *   **Any appeal to the alleged “****[97 percent consensus](https://iopscience.iop.org/article/10.1088/1748-9326/11/4/048001)****” among scientists is another red flag.**
-> *   **Confusing weather and climate is another danger sign.**
-> *   **Omitting numbers is also a red flag.**
-> *   **Yet another common tactic is quoting alarming quantities without context.**
-> *   **Non-expert discussions of climate science also often confuse the climate that has been (observations) with the climate that could be (model projections under various scenarios).**
+*   **Anyone referring to a scientist with the pejoratives “denier” or “alarmist” is engaging in politics or propaganda.**
+*   **Any appeal to the alleged “****[97 percent consensus](https://iopscience.iop.org/article/10.1088/1748-9326/11/4/048001)****” among scientists is another red flag.**
+*   **Confusing weather and climate is another danger sign.**
+*   **Omitting numbers is also a red flag.**
+*   **Yet another common tactic is quoting alarming quantities without context.**
+*   **Non-expert discussions of climate science also often confuse the climate that has been (observations) with the climate that could be (model projections under various scenarios).**
 
 These all seem reasonable to me, and contain echoes of Scott’s take on [bad science journalism](https://astralcodexten.substack.com/p/the-phrase-no-evidence-is-a-red-flag?s=r) and Zvi’s [Law of No Evidence](https://thezvi.substack.com/p/law-of-no-evidence?s=r).
 
@@ -907,22 +907,22 @@ _Unsettled_ is an attempt to push back against the alarmism Koonin sees.  It emp
 
 If you take away anything from this review, take these points:
 
-> *   **The climate is always changing, and humans are accelerating those changes in certain ways.  It is important and necessary that we understand these changes and our part in them, so we can be prepared for the future.**
-> *   **Climate change isn’t an existential threat to humanity within the next century to the absolute best of our current knowledge; this is not an excuse to do nothing.  We don’t know how the future will unfold - things may get worse, but humans adapt.**
-> *   **Don’t build things where you know hurricanes are going to hit and then whine about climate change when they do.**
-> *   **Much like with COVID-19, if you want to know what’s really happening, look to the data and research itself, not the government or the media.**
+*   **The climate is always changing, and humans are accelerating those changes in certain ways.  It is important and necessary that we understand these changes and our part in them, so we can be prepared for the future.**
+*   **Climate change isn’t an existential threat to humanity within the next century to the absolute best of our current knowledge; this is not an excuse to do nothing.  We don’t know how the future will unfold - things may get worse, but humans adapt.**
+*   **Don’t build things where you know hurricanes are going to hit and then whine about climate change when they do.**
+*   **Much like with COVID-19, if you want to know what’s really happening, look to the data and research itself, not the government or the media.**
 
 ## Notes
 
-> *   This review only covers Part 1 of the book, which is the majority of the content.  Part 2 (really just the last few chapters, omitted in this review for brevity and salience) discusses possible strategies for mitigating anthropogenic climate change (including how implausible many are), along with methods of geoengineering (manipulating the climate on purpose) we might deploy to keep the planet’s climate within tolerable bounds should we need to.
-> *   Many of the figures here are taken directly from _Unsettled_; it should be clear where all others were sourced from.
-> *   Quotes are from _Unsettled_ unless otherwise sourced.
-> *   “All models are wrong; some are useful” is a quote attributed to [George Box](https://en.wikipedia.org/wiki/George_E._P._Box).
-> *   Predictably, Koonin experienced several…reactions to his public stance.
+*   This review only covers Part 1 of the book, which is the majority of the content.  Part 2 (really just the last few chapters, omitted in this review for brevity and salience) discusses possible strategies for mitigating anthropogenic climate change (including how implausible many are), along with methods of geoengineering (manipulating the climate on purpose) we might deploy to keep the planet’s climate within tolerable bounds should we need to.
+*   Many of the figures here are taken directly from _Unsettled_; it should be clear where all others were sourced from.
+*   Quotes are from _Unsettled_ unless otherwise sourced.
+*   “All models are wrong; some are useful” is a quote attributed to [George Box](https://en.wikipedia.org/wiki/George_E._P._Box).
+*   Predictably, Koonin experienced several…reactions to his public stance.
 >
-> *   Scientific American: _[A New Book Manages to Get Climate Science Badly Wrong](https://www.scientificamerican.com/article/a-new-book-manages-to-get-climate-science-badly-wrong/)_. And a later [review of](https://www.scientificamerican.com/article/that-obama-scientist-climate-skeptic-youve-been-hearing-about/) _[Unsettled](https://www.scientificamerican.com/article/that-obama-scientist-climate-skeptic-youve-been-hearing-about/)_ from them as well.
-> *   Koonin responds to some of the backlash in a [medium article](https://steven-koonin.medium.com/my-response-to-a-scientific-american-hit-piece-7b5811141137) that directly calls out the Scientific American article as a hit piece.
-> *   After a cursory examination I have Koonin winning this “exchange,” but I didn’t put too much effort into it.
+*   Scientific American: _[A New Book Manages to Get Climate Science Badly Wrong](https://www.scientificamerican.com/article/a-new-book-manages-to-get-climate-science-badly-wrong/)_. And a later [review of](https://www.scientificamerican.com/article/that-obama-scientist-climate-skeptic-youve-been-hearing-about/) _[Unsettled](https://www.scientificamerican.com/article/that-obama-scientist-climate-skeptic-youve-been-hearing-about/)_ from them as well.
+*   Koonin responds to some of the backlash in a [medium article](https://steven-koonin.medium.com/my-response-to-a-scientific-american-hit-piece-7b5811141137) that directly calls out the Scientific American article as a hit piece.
+*   After a cursory examination I have Koonin winning this “exchange,” but I didn’t put too much effort into it.
 
 * * *
 

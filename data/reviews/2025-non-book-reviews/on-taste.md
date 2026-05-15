@@ -17,7 +17,7 @@ tags:
 
 > “**29** When Moses came down from Mount Sinai with the two tablets of the covenant law in his hands, he was not aware that his face was radiant because he had spoken with the Lord. **30** When Aaron and all the Israelites saw Moses, his face was radiant, and they were afraid to come near him.”
 >
-> *   Exodus 34:29-30
+*   Exodus 34:29-30
 
 This is a review of good taste and its evangelists.
 
@@ -309,8 +309,8 @@ It is at this point, alas, that we must talk about Girard in 2025.
 
 For the three people living under an internet rock who haven’t heard of him by now, here’s a quick down n’ dirty:
 
-> *   Girard created a model for how we develop desire. Some of our lizard brain desires are inherent - the desire for food, sex, etc… Everything that isn’t hardcoded into us is acquired by mimicking others. We learn to want things because we see that other people want them. Girard called this mimesis.
-> *   This creates a three-part model of desire: the person who desires something, the object that is desired, and the model through which the desire was acquired.
+*   Girard created a model for how we develop desire. Some of our lizard brain desires are inherent - the desire for food, sex, etc… Everything that isn’t hardcoded into us is acquired by mimicking others. We learn to want things because we see that other people want them. Girard called this mimesis.
+*   This creates a three-part model of desire: the person who desires something, the object that is desired, and the model through which the desire was acquired.
 
 For our purposes here, I will call desire for the object itself _genuine_ desire, and desire acquired via model _mimetic_ desire.
 
@@ -540,7 +540,7 @@ Oscar Wilde espoused _[The Critic As Artist](https://celt.ucc.ie/published/E8000
 
 > “**15** Watch out for false prophets. They come to you in sheep’s clothing, but inwardly they are ferocious wolves. **16** By their fruit you will recognize them. Do people pick grapes from thornbushes, or figs from thistles? **17** Likewise, every good tree bears good fruit, but a bad tree bears bad fruit. **18** A good tree cannot bear bad fruit, and a bad tree cannot bear good fruit. **19** Every tree that does not bear good fruit is cut down and thrown into the fire. **20** Thus, by their fruit you will recognize them.”
 >
-> *   Matthew 7:15-20
+*   Matthew 7:15-20
 
 What is a miracle?
 

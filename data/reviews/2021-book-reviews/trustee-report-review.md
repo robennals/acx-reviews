@@ -103,16 +103,16 @@ But if Fletcher never used the formula to squeeze much money out of the companie
 
 The following bullet points are quoted directly from pages 16 and 17 of the Davis report (“FILB” is short for Fletcher International, Ltd. – the B stands for “Bermuda,” and “ANTS” is ANTS Software Inc.):
 
-> *   On March 15, 2010, FILB invested $1.5 million in ANTS, receiving common stock (then trading at 90 cents) and warrants to purchase another 10 million shares.
-> *   On March 31, 2010, FAM marked up this investment, despite there having been no fundamental change at ANTS, to $17.3 million (a 1,053% gain in 16 days) even though at the same time the ANTS 2009 audited financials were released, raising “going concern” issues (a fact FAM neglected to mention in highly optimistic reports to the MBTA Pension Fund).
-> *   FILB, either directly or through BRG (a FILB subsidiary), invested an additional $5.9 million in ANTS during 2010, and at its high point, FAM marked the investment at $62.8 million.
-> *   Ultimately, FILB recovered $4.9 million of the $7.4 million it invested; the remaining warrants are worthless.
-> *   Nevertheless, on an investment where FILB lost $2.5 million (ANTS), FAM took management and incentive fees as if it were worth 1,164% more than the investment actually returned.
+*   On March 15, 2010, FILB invested $1.5 million in ANTS, receiving common stock (then trading at 90 cents) and warrants to purchase another 10 million shares.
+*   On March 31, 2010, FAM marked up this investment, despite there having been no fundamental change at ANTS, to $17.3 million (a 1,053% gain in 16 days) even though at the same time the ANTS 2009 audited financials were released, raising “going concern” issues (a fact FAM neglected to mention in highly optimistic reports to the MBTA Pension Fund).
+*   FILB, either directly or through BRG (a FILB subsidiary), invested an additional $5.9 million in ANTS during 2010, and at its high point, FAM marked the investment at $62.8 million.
+*   Ultimately, FILB recovered $4.9 million of the $7.4 million it invested; the remaining warrants are worthless.
+*   Nevertheless, on an investment where FILB lost $2.5 million (ANTS), FAM took management and incentive fees as if it were worth 1,164% more than the investment actually returned.
 
 Here are some more examples, again quoting directly from the Davis report (pages 179-80):
 
-> *   On December 31, 2010, FILB made a $4 million investment in DSS. On the same day, FAM marked that position at $23.6 million, suggesting an immediate unrealized profit of $19.6 million.
-> *   On February 25, 2011, FILB made an investment in a warrant issued by HPG that had been acquired for $1 million. By February 28, 2011 – the next business day – FAM had marked the position at $25.7 million. This effectively meant that for $1 million spent by FILB, FAM received credit for $24.7 million in earnings, which on the margin would result in an approximate $5 million fee.
+*   On December 31, 2010, FILB made a $4 million investment in DSS. On the same day, FAM marked that position at $23.6 million, suggesting an immediate unrealized profit of $19.6 million.
+*   On February 25, 2011, FILB made an investment in a warrant issued by HPG that had been acquired for $1 million. By February 28, 2011 – the next business day – FAM had marked the position at $25.7 million. This effectively meant that for $1 million spent by FILB, FAM received credit for $24.7 million in earnings, which on the margin would result in an approximate $5 million fee.
 
 And here’s the aggregate math (directly quoting from page 179 of the report – citations omitted):
 

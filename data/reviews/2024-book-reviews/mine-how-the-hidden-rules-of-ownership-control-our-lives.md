@@ -81,20 +81,20 @@ _Mine!_ devotes a full chapter to each of these stories.[[240]](#ftnt240) In thi
 
 Unfortunately, there is no objective boundary between “self” and “not-self”—a fact which becomes obvious when we consider various bodily organs and excretions:
 
-> *   Hair snipped during a haircut
-> *   Cells taken during a biopsy
-> *   Sperm
-> *   Blood
-> *   Eggs
-> *   Kidneys
-> *   Children
+*   Hair snipped during a haircut
+*   Cells taken during a biopsy
+*   Sperm
+*   Blood
+*   Eggs
+*   Kidneys
+*   Children
 
 Like the airplane disputes, this isn’t just a fun thought experiment but a set of practical decisions with real implications for lives and dollars. For example, two cell lines known as “Mo” and “HeLa” have been used for extensive medical research, some of it quite lucrative; both of these lines originated with individuals (John Moore and Henrietta Lacks, respectively), who never saw a penny of the profits, and were not even aware what they’d agreed to. In America, there is a market for eggs and sperm but not kidneys, and 54,000 people [die from kidney failure every year](https://www.cdc.gov/nchs/fastats/kidney-disease.htm) as a result; in Iran, where there _is_ a market for kidney, no one does. You can’t sell children anywhere—but you can give them up for adoption just about everywhere.
 
 So, really, there are two senses in which self-ownership—and, as we’ll see in a moment, _all_ ownership stories—are invented:
 
-> *   First, in the real world, we rarely have discrete categories. Instead, we draw lines at semi-arbitrary points on a continuum: What is the “body”? Who is an “adult”? How do we define “first”?
-> *   Second, the very concept of ownership is essentially a “[bundle of sticks](https://scholarship.law.vanderbilt.edu/vlr/vol66/iss3/3/#:~:text=In%20the%20United%20States%2C%20every,persons%20concerning%20a%20valued%20resource.)” rather than a single unified right: The permission to _use_ something can be decoupled from the right to _sell_, _lend_, _copy_, _destroy_, or _profit_ from it. (This explains the general agreement that “your” child may be put up for adoption but not sold—with “your” connoting a very different bundle of rights than it does for “your” car or “your” bitcoin).
+*   First, in the real world, we rarely have discrete categories. Instead, we draw lines at semi-arbitrary points on a continuum: What is the “body”? Who is an “adult”? How do we define “first”?
+*   Second, the very concept of ownership is essentially a “[bundle of sticks](https://scholarship.law.vanderbilt.edu/vlr/vol66/iss3/3/#:~:text=In%20the%20United%20States%2C%20every,persons%20concerning%20a%20valued%20resource.)” rather than a single unified right: The permission to _use_ something can be decoupled from the right to _sell_, _lend_, _copy_, _destroy_, or _profit_ from it. (This explains the general agreement that “your” child may be put up for adoption but not sold—with “your” connoting a very different bundle of rights than it does for “your” car or “your” bitcoin).
 
 Both of these definitional challenges pervade all stories of ownership: What exactly are the _criteria for claiming_ a right to a given resource; and what exactly is _included_ _in_ a right to that resource?
 
@@ -124,9 +124,9 @@ _Attachment_ can be thought of as a kind of extended possession: Whatever you cu
 
 Many of _Mine!_’s illustrations of attachment revolve around property—for example, whether the deed to one’s house extends to the column of air above it, the groundwater below it, or the fluctuating shoreline a couple hundred yards away. In these contexts, landowners are described invoking attachment in order to…
 
-> *   shoot down drones above their house (in Heller and Salzman’s example, the [#DroneSlayer won his case](https://arstechnica.com/tech-policy/2017/03/judge-rules-in-favor-of-drone-slayer-dismisses-lawsuit-filed-by-pilot/));
-> *   dig deeper and deeper wells to compete for oil or aquifer access (the coordination problem here is solved through “unitization”: profit-sharing in proportion to the owners’ acreage over the underground resources);
-> *   and protest their lost ocean access as a result of state-subsidized beach replenishment (in this last case, a woman’s property had originally extended from her front door to wherever the water began; when Florida imported more sand to save the disappearing coastline, courts ruled that the public would now be able to access her previously private property).[[241]](#ftnt241)
+*   shoot down drones above their house (in Heller and Salzman’s example, the [#DroneSlayer won his case](https://arstechnica.com/tech-policy/2017/03/judge-rules-in-favor-of-drone-slayer-dismisses-lawsuit-filed-by-pilot/));
+*   dig deeper and deeper wells to compete for oil or aquifer access (the coordination problem here is solved through “unitization”: profit-sharing in proportion to the owners’ acreage over the underground resources);
+*   and protest their lost ocean access as a result of state-subsidized beach replenishment (in this last case, a woman’s property had originally extended from her front door to wherever the water began; when Florida imported more sand to save the disappearing coastline, courts ruled that the public would now be able to access her previously private property).[[241]](#ftnt241)
 
 Conceptual attachment, on the other hand, applies to any sort of legal structure that yokes together multiple owners (e.g., shareholders or coop members). These structures come with certain advantages—economies of scale, pooling of resources, etc.—but there are, naturally, strings attached. In one Californica condo, a resident named Jeffrey DeMarco was [fined for having too many rosebushes on his property](https://www.latimes.com/archives/la-xpm-1993-09-20-mn-37281-story.html), subsequently sued his homeowner’s association, and ended up losing both his home and $70,000 in legal fees. In another case, an elderly woman named Pamela McMahan was [fined and eventually kicked out of her condo](https://neowin.net/forum/topic/505107-the-runaway-power-of-homeowners-associations/) for failing to carry her dog across the lobby. (Her actions were in violation of a “no paws on the floor” rule.)
 
@@ -192,9 +192,9 @@ And of course there is a risk in making copyright _too_ strong. For example, whe
 
 Similar to the example of immediate reimbursement for home repairs, one way out of this gridlock is to allow for the borrowing of intellectual property but require compensation for it. Deployed reactively, this compensation is called “damages”; deployed _proactively_, it is known as “mandatory license.” (E.g., radio stations pay a mandatory licensing fee to an artist whenever they play that artist’s song.) These money transfers are an effective ownership design because they avoid many of the pitfalls we have seen come up:
 
-> *   They fairly allocate a few different “sticks” from the ownership bundle.
-> *   They are (relatively) easy to administer and enforce.
-> *   They align the incentives of the original owners and the downstream beneficiaries of those owners’ work.
+*   They fairly allocate a few different “sticks” from the ownership bundle.
+*   They are (relatively) easy to administer and enforce.
+*   They align the incentives of the original owners and the downstream beneficiaries of those owners’ work.
 
 These features are crucial to good ownership design, and as resources become more scarce and important, they are all the more necessary.
 
@@ -228,17 +228,17 @@ Here, the options range in their administrative ease and egalitarianism in rough
 
 To drive this home, consider three possible Controls to solve the problem of limited legroom on airplanes:
 
-> *   “Pre-clining” seats at a set angle (a “monopoly” on reclining; some budget airlines have in fact opted for this solution).
-> *   Brokering a market wherein would-be knee defenders transfer money to would-be recliners, or vice versa. (Effectively, most airlines _do_ employ this solution by offering different tiers of seating at different price points.)
-> *   Having passengers take turns with the seat upright vs. reclined (a reclining “timeshare”).
+*   “Pre-clining” seats at a set angle (a “monopoly” on reclining; some budget airlines have in fact opted for this solution).
+*   Brokering a market wherein would-be knee defenders transfer money to would-be recliners, or vice versa. (Effectively, most airlines _do_ employ this solution by offering different tiers of seating at different price points.)
+*   Having passengers take turns with the seat upright vs. reclined (a reclining “timeshare”).
 
 It probably goes without saying that different political ideologies are more sympathetic to different forms of Control. (E.g., the left stereotypically tolerates more regulation and higher administrative costs to maintain more equal outcomes). However, it’s important to note that almost _any_ form of Control is preferable to a late-stage Battle. While lobster gangs are silly at best and deeply problematic at worst, we should still prefer them to a world where lobsters are driven extinct by overfishing.
 
 Finally, while ownership design is far from a perfect science, _Mine!_ does give an indication of which kinds of resources _tend_ to lend themselves to which forms of Control:
 
-> *   For big natural resources, like oil, or fish populations, collective ownership is necessary to solve the inevitable tragedy of the commons.
-> *   For various goods and services, it’s often possible to broker access to people willing to pay different prices for better or worse versions.
-> *   And for “lumps” (i.e., undividable resources), like physical property or certain abstract ideas, it’s usually best to just award ownership to one person—perhaps offering damages or a mandatory license to others who might have had a claim.
+*   For big natural resources, like oil, or fish populations, collective ownership is necessary to solve the inevitable tragedy of the commons.
+*   For various goods and services, it’s often possible to broker access to people willing to pay different prices for better or worse versions.
+*   And for “lumps” (i.e., undividable resources), like physical property or certain abstract ideas, it’s usually best to just award ownership to one person—perhaps offering damages or a mandatory license to others who might have had a claim.
 
 ![](https://acximages.ennals.org/images/2024-book-reviews/210d51ebf237e6b3.png)
 
@@ -291,10 +291,10 @@ Of course, data comes in all shapes and sizes, and 23andMe/Ancestry.com are not 
 
 To be sure, there is a growing awareness of the value of data, and an effort to shift some of the ownership stories around it. At time of writing, congress is considering a piece of draft legislation, the [American Privacy Rights Act](https://energycommerce.house.gov/posts/committee-chairs-rodgers-cantwell-unveil-historic-draft-comprehensive-data-privacy-legislation), that would establish some fundamental data rights, such as…
 
-> *   Restricting companies’ data privileges to what they “actually need to provide [customers] products and services.”
-> *   Giving users the ability to block the sale or transfer of their data, and requiring “affirmative express consent before sensitive data can be transferred to a third party.”
-> *   Ensuring users can “access, correct, delete, and export their data.”
-> *   Allowing individuals to opt out of targeted advertising.
+*   Restricting companies’ data privileges to what they “actually need to provide [customers] products and services.”
+*   Giving users the ability to block the sale or transfer of their data, and requiring “affirmative express consent before sensitive data can be transferred to a third party.”
+*   Ensuring users can “access, correct, delete, and export their data.”
+*   Allowing individuals to opt out of targeted advertising.
 
 This seems like sensible regulation, and will help facilitate more prosocial forms of Control. But it is also reactive, and clearly there are ways we’ve been trained not to question tools and services built on top of data claimed under questionable circumstances. As with land that is adversely possessed and then sold to subsequent owners, it becomes increasingly difficult to unwind the second-order impacts of the initial claim.
 
@@ -328,10 +328,10 @@ There is also _another_ Battle to preempt a level up: The Battle to become THE d
 
 Naturally, there are a lot of policy questions to resolve on this front, but looking to analogies with other resources, these seem like reasonable predictions:
 
-> *   _**We will need to figure out what the AI “sticks” are.**_ Just as data ownership is currently in the process of being unbundled and negotiated (e.g., deletion rights vs. resale rights), it will be necessary to disambiguate between various aspects of AI ownership. This means trying to define now the extent to which users and companies are allowed to delete, copy, publish, modify, and do God knows what else with AI-generated materials, rather than doing so reactively.
-> *   _**AI companies will not regulate themselves**_. This isn’t to say that they’re especially greedy or unscrupulous—in fact, by all accounts, there are _lots_ of people working at leading AI companies who are sincerely concerned about safety. But like the Alaskan crab fishermen trapped in a dangerous derby, they cannot solve the coordination problem on their own. This means the government has a much-needed role to play in regulation, and right now there seems to be enough goodwill and genuine interest from those building models that it may not even be too difficult to enact.
-> *   _**It IS**_ _**possible to make progress on global coordination problems**_**.** A common response to calls for an AI slowdown is that the US can’t regulate what happens in other (rival) countries like China. Frankly, I find these arguments puzzling. While it may not be possible to halt the march of technology _indefinitely_, and humanity’s track record on this is far from perfect, it’s also true that we _have_ successfully slowed or prevented the spread of various global threats and dangerous technologies. (Human cloning, global warming, and nuclear weapons all come to mind.) By even the least generous interpretation, surely our collective track record on these issues isn’t so abysmal that we wouldn’t at least _try_ to broker an international deal on AI safety—right?
-> *   _**Preserving competitive markets shouldn’t be our top priority**_**.** Let’s grant, for the usual reasons, that markets are generally good for society (i.e., more innovation, lower prices, etc.). Now ask yourself: Is AI really a situation where we _want_ to speed up innovation or have companies running razor-thin margins? Personally, I’d much prefer a world where a small number of companies (more than one but less than five?) move slowly and deliberately in building the technology, and can afford to pay creators whose content they are using as training data. This may require an ownership design that creates moats around incumbents or collectivizes profit—disadvantaging new entrants and de-incentivizing rapid innovation; for this particular resource, I think these tradeoffs are worth it.
+*   _**We will need to figure out what the AI “sticks” are.**_ Just as data ownership is currently in the process of being unbundled and negotiated (e.g., deletion rights vs. resale rights), it will be necessary to disambiguate between various aspects of AI ownership. This means trying to define now the extent to which users and companies are allowed to delete, copy, publish, modify, and do God knows what else with AI-generated materials, rather than doing so reactively.
+*   _**AI companies will not regulate themselves**_. This isn’t to say that they’re especially greedy or unscrupulous—in fact, by all accounts, there are _lots_ of people working at leading AI companies who are sincerely concerned about safety. But like the Alaskan crab fishermen trapped in a dangerous derby, they cannot solve the coordination problem on their own. This means the government has a much-needed role to play in regulation, and right now there seems to be enough goodwill and genuine interest from those building models that it may not even be too difficult to enact.
+*   _**It IS**_ _**possible to make progress on global coordination problems**_**.** A common response to calls for an AI slowdown is that the US can’t regulate what happens in other (rival) countries like China. Frankly, I find these arguments puzzling. While it may not be possible to halt the march of technology _indefinitely_, and humanity’s track record on this is far from perfect, it’s also true that we _have_ successfully slowed or prevented the spread of various global threats and dangerous technologies. (Human cloning, global warming, and nuclear weapons all come to mind.) By even the least generous interpretation, surely our collective track record on these issues isn’t so abysmal that we wouldn’t at least _try_ to broker an international deal on AI safety—right?
+*   _**Preserving competitive markets shouldn’t be our top priority**_**.** Let’s grant, for the usual reasons, that markets are generally good for society (i.e., more innovation, lower prices, etc.). Now ask yourself: Is AI really a situation where we _want_ to speed up innovation or have companies running razor-thin margins? Personally, I’d much prefer a world where a small number of companies (more than one but less than five?) move slowly and deliberately in building the technology, and can afford to pay creators whose content they are using as training data. This may require an ownership design that creates moats around incumbents or collectivizes profit—disadvantaging new entrants and de-incentivizing rapid innovation; for this particular resource, I think these tradeoffs are worth it.
 
 As always, we should be wary of “casual empiricism” in ownership design: These policy recommendations are based off how I _believe_ the world works, and those beliefs may in fact be wrong. Unfortunately, there is no crystal ball here—no randomized controlled trial we can run on different possible futures. We can only grope our way forward by the light of history and existing science.
 

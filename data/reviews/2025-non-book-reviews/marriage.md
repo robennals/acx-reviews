@@ -18,11 +18,11 @@ tags:
 
 Why review marriage? A few reasons:
 
-> *   Marriage is likely someone's longest relationship with a (hopefully) non-blood relative, excluding childhood friendships, which often peter out anyway.
-> *   Marriage contributes significantly to stable childhoods and less messed-up young adults.
-> *   Marriage has taken a hit among younger generations, and predictably, so have rates of childbirth.
-> *   Marriage provides meaning, stability, and safety for those involved.
-> *   Marriage has been happening for a long time, and people generally don't keep doing stupid things so consistently for so long.
+*   Marriage is likely someone's longest relationship with a (hopefully) non-blood relative, excluding childhood friendships, which often peter out anyway.
+*   Marriage contributes significantly to stable childhoods and less messed-up young adults.
+*   Marriage has taken a hit among younger generations, and predictably, so have rates of childbirth.
+*   Marriage provides meaning, stability, and safety for those involved.
+*   Marriage has been happening for a long time, and people generally don't keep doing stupid things so consistently for so long.
 
 ## Background
 

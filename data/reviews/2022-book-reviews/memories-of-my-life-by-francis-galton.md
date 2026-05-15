@@ -122,13 +122,13 @@ Look, designer's eyes can be used for good or ill. It’s up to you.
 
 Galton complements designer's eyes with the _experimenter’s urge_: the itch to, quite literally, fuck around and find out. Here’s a few highlights of Galton’s many experiments, studies, and investigations:
 
-> *   Tries to learn arithmetic by smell, [succeeds](https://psycnet.apa.org/record/2006-01672-004)
-> *   Worships a puppet to see if he can convince himself it has godlike powers, succeeds
-> *   Tries to consciously control all of his automatic bodily processes, nearly suffocates
-> *   Hears animal magnetism is all the rage, learns it in secret (it’s illegal), magnetizes 80 people
-> *   Replaces the blood of a silver-grey rabbit with the blood of a lop-eared rabbit to see if it can still breed (it can)
-> *   Tells himself that everyone is spying on him to see if he can make himself insane, succeeds
-> *   Makes a walking stick with a hidden high-pitched whistle inside it, takes it to the zoo and whistles at all the animals (most don’t care, but the lions hate it)
+*   Tries to learn arithmetic by smell, [succeeds](https://psycnet.apa.org/record/2006-01672-004)
+*   Worships a puppet to see if he can convince himself it has godlike powers, succeeds
+*   Tries to consciously control all of his automatic bodily processes, nearly suffocates
+*   Hears animal magnetism is all the rage, learns it in secret (it’s illegal), magnetizes 80 people
+*   Replaces the blood of a silver-grey rabbit with the blood of a lop-eared rabbit to see if it can still breed (it can)
+*   Tells himself that everyone is spying on him to see if he can make himself insane, succeeds
+*   Makes a walking stick with a hidden high-pitched whistle inside it, takes it to the zoo and whistles at all the animals (most don’t care, but the lions hate it)
 
 Of course, it can’t all be arithmetic by smell and whistling at zoo animals. There’s been a shadow hanging over Galton’s life this whole time, and we must reckon with it. Gather ‘round kids, it’s time to talk about eugenics.
 
@@ -154,15 +154,15 @@ Galton later claims that he got the idea for eugenics as soon as he started thin
 
 This vision of a eugenic society is hardly surprising coming from a guy who is descended from, surrounded by, and obsessed with familial prominence. For example, here are some things he mentions about his wife:
 
-> *   Her father was the headmaster of a fancy school
-> *   Her brother became the head of Trinity College, Cambridge
-> *   Her nephew became the Foreign Secretary to the Indian Government
-> *   Her niece was first in her class in history at Oxford
+*   Her father was the headmaster of a fancy school
+*   Her brother became the head of Trinity College, Cambridge
+*   Her nephew became the Foreign Secretary to the Indian Government
+*   Her niece was first in her class in history at Oxford
 
 Here are some things he doesn’t mention:
 
-> *   His wife’s name
-> *   Anything else about her
+*   His wife’s name
+*   Anything else about her
 
 (In fact, Galton’s wife is a total nonentity in his memoir. He doesn’t even remark on her death in 1897, 14 years before his own. For someone so obsessed with smart people reproducing, it’s worth noting that he and his wife never have kids. Someone more Freudian than me should write a dissertation about that.)
 

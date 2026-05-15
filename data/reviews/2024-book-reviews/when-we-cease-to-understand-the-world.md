@@ -116,7 +116,7 @@ _Your handful of notes;_
 
 _The clear vowels rise like balloons._
 
-> *   Morning Song, Sylvia Plath
+*   Morning Song, Sylvia Plath
 
 ### Self-Reliance // Understanding
 
@@ -152,7 +152,7 @@ _I am the master of my fate,_
 
       _I am the captain of my soul._
 
-> *   Invictus, William Ernest Henley
+*   Invictus, William Ernest Henley
 
 ### Falling // Approach
 
@@ -200,7 +200,7 @@ _And what rough beast, its hour come round at last,_
 
 _Slouches towards Bethlehem to be born?_
 
-> *   The Second Coming, William Butler Yeats
+*   The Second Coming, William Butler Yeats
 
 ### On The Other Side
 

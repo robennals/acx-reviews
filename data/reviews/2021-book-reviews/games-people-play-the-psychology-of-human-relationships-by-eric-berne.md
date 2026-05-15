@@ -23,10 +23,10 @@ Bob is playing a game of “Look What You Made Me Do”. He’s setting things u
 
 However, all is not lost. If you figure out the game and play the right moves, you can stop these games.
 
-> *   You can stop your manager from shirking off responsibility.
-> *   You can stop your spouse from playing status games.
-> *   You can stop your friend from messing up their life and seeking sympathy again and again.
-> *   You can stop strangers from playing games with you, too.
+*   You can stop your manager from shirking off responsibility.
+*   You can stop your spouse from playing status games.
+*   You can stop your friend from messing up their life and seeking sympathy again and again.
+*   You can stop strangers from playing games with you, too.
 
 But that’s only if you know the game they’re playing.
 
@@ -307,10 +307,10 @@ To drive home the idea, here are some interesting insights about games people pl
 
 Some games fit in well with other games, where both people can be playing their own game, and both people win.
 
-> *   Kick me <–> Now I’ve got you, you son of a bitch <-later-> Ain’t it Awful
-> *   Kick me <–> rapo
-> *   Alcoholic <–> I’m only trying to help you
-> *   Why don’t you - yes but <–> I’m only trying to help you
+*   Kick me <–> Now I’ve got you, you son of a bitch <-later-> Ain’t it Awful
+*   Kick me <–> rapo
+*   Alcoholic <–> I’m only trying to help you
+*   Why don’t you - yes but <–> I’m only trying to help you
 
 ### Reversible roles
 

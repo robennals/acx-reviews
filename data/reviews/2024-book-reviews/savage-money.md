@@ -34,10 +34,10 @@ He never makes clear exactly what values are, but reading between the lines, I u
 
 In other words, the theory of value Gregory develops in the book starts off from the assumption that values are born out of human relationships. He contrasts this to many alternative theories of value, such as
 
-> *   Friedmanism: things are valuable because individuals desire them.
-> *   Marxism: things are valuable because they require labour to produce.
-> *   Physiocracy: things are valuable to the extent food can be grown on them.
-> *   Mercantilism: things are valuable to the extent they are gold.
+*   Friedmanism: things are valuable because individuals desire them.
+*   Marxism: things are valuable because they require labour to produce.
+*   Physiocracy: things are valuable to the extent food can be grown on them.
+*   Mercantilism: things are valuable to the extent they are gold.
 
 Gregory's interpersonal relationship theory of value does not really falsify these other theories of value – it attempts to generalise over them.
 
@@ -53,9 +53,9 @@ This commercialisation came as a surprise, because in everything Gregory had don
 
 Gregory did not find just commercial values in Bastar. He divides the social life into three major spheres:
 
-> *   The State is a relatively modern invention which concerns itself with large-scale appropriation of resources, a monopoly on violence within its borders, and being delegated to exercise foreign policy on the behalf of the people within its borders.
-> *   The Market is where people come together and exchange commodities at rates which both parties to the transaction agree on.
-> *   The House is a loosely defined institution that preserves _something_ across time through reciprocal relationships. The values a person holds are to a large extent part of what this _something_ is.
+*   The State is a relatively modern invention which concerns itself with large-scale appropriation of resources, a monopoly on violence within its borders, and being delegated to exercise foreign policy on the behalf of the people within its borders.
+*   The Market is where people come together and exchange commodities at rates which both parties to the transaction agree on.
+*   The House is a loosely defined institution that preserves _something_ across time through reciprocal relationships. The values a person holds are to a large extent part of what this _something_ is.
 
 Gregory believes the House continually reproduces the reigning values, rather than them being a remnant of history.
 
@@ -67,9 +67,9 @@ Things like friendships are part of the House, as they are based on reciprocal r
 
 Gregory hypothesises that there are, generally, three ways in which a thing can be valued.
 
-> *   As a commodity,
-> *   As a gift, and/or
-> *   As a good.
+*   As a commodity,
+*   As a gift, and/or
+*   As a good.
 
 Commodities are fungible, or _alienable_, in the lingo. If I give you a bowl of rice, and you throw it in a pan with your other rice, you don't care specifically which of the rice grains came from me. You accepted the rice for its commodity value – and hopefully that was the spirit in which I gave it to you, too. (But a difference of opinion of this kind can be the source of serious conflict.) The commodity value of a thing is the Market value or the use value of it.
 
@@ -105,8 +105,8 @@ These differences can lead to misunderstandings that have grave effects on peopl
 
 The idea was that market-based lending would outcompete village lending, and the economic standards of people would be improved through industrialisation. Some people were convinced to take these new loans, and one of two things happened:
 
-> *   Either they failed to industrialise their farms for technical reasons (lack of consolidated land, lack of knowledge, lack of raw materials, etc.); or
-> *   They didn't care about industrialisation and used the money to throw a kick-ass wedding or funeral instead.
+*   Either they failed to industrialise their farms for technical reasons (lack of consolidated land, lack of knowledge, lack of raw materials, etc.); or
+*   They didn't care about industrialisation and used the money to throw a kick-ass wedding or funeral instead.
 
 Gregory does not know a single case in which agricultural productivity actually did improve. However, the loans were due none the less. Some people had their land – their only source of income – foreclosed. Since land is a good in Bastar, this was humiliating in addition to not being great for their economic condition. To avoid that outcome, a lot of people took out an even bigger village loan – you know, the one thing the World Bank tried to drive out – to repay the loan to the World Bank.
 
@@ -118,9 +118,9 @@ And to be fair, I'm not one to judge. You should see my mortgage. I burn a ridic
 
 One might ask what makes a value different from a desire or a want. Gregory does not touch on this, but reading between the lines I think values
 
-> *   Are more persistent,
-> *   Are informed by the people around a valuer, and, oddly
-> *   Can contradict each other.
+*   Are more persistent,
+*   Are informed by the people around a valuer, and, oddly
+*   Can contradict each other.
 
 ## Contradictory values
 
@@ -148,10 +148,10 @@ Going back to the failure of the World Bank, it's worth briefly touching on two 
 
 Gregory borrows some notation from Marx, and the picture is perhaps most clear using that. Here are some examples:
 
-> *   C–C notates barter, or exchanging commodities for other commodities.
-> *   C–M–C notates marketing, or exchanging commodities for money, to buy other commodities.
-> *   M–C–M' notates the idea of "buy cheap here and sell dear there".
-> *   M–C...P...C'-M' is how Marx notated the cycle of production, where money is used to buy commodities, and then labour power is used to refine the commodity into something more valuable, which is then sold for money.
+*   C–C notates barter, or exchanging commodities for other commodities.
+*   C–M–C notates marketing, or exchanging commodities for money, to buy other commodities.
+*   M–C–M' notates the idea of "buy cheap here and sell dear there".
+*   M–C...P...C'-M' is how Marx notated the cycle of production, where money is used to buy commodities, and then labour power is used to refine the commodity into something more valuable, which is then sold for money.
 
 Gregory wants to exchange the P for a G, i.e. Gregory's claim is that production almost always happens through _goods_. In the case of farming, the good is land and equipment. In the case of Rajasthani merchants, the good is the territorial network of mercantile relationships. Critically, though, and the thing the World Bank seems to have missed, is that industrialised agriculture takes – among other things – the goods of consolidated land and appropriate knowledge. Smallholder farmers of parcelised land are generally not guardians over these goods.
 

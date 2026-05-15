@@ -40,8 +40,8 @@ It was an exciting time to be a physicist; we were entering the final few decade
 
 Radiation is an unfortunately-overloaded term in physics that causes a fair amount of confusion in the general public. The term most generally refers to the emission of some substance from another. There are two different forms:
 
-> *   Electromagnetic radiation—this is just light. Its frequency can range from very low (microwaves) to very high (ultraviolet).
-> *   Particle radiation—these are the emissions of non-massless particles like alpha and beta particles.
+*   Electromagnetic radiation—this is just light. Its frequency can range from very low (microwaves) to very high (ultraviolet).
+*   Particle radiation—these are the emissions of non-massless particles like alpha and beta particles.
 
 Radiation can also be characterized along a different axis: ionizing radiation (which, when it hits atoms, can knock off electrons and cause damage to living tissue) and non-ionizing radiation. All particle radiation is ionizing, but only high frequency electromagnetic radiation (UV and above) is ionizing. Substances that spontaneously emit ionizing radiation are called _radioactive_. In this review we are only concerned with ionizing radiation, most of it from particles.
 

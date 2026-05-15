@@ -35,43 +35,43 @@ To avoid reinventing the wheel, here are some key quotes from [Wikipedia’s boo
 
 #### Part I: The Conjuring of America: 1517–1789
 
-> *   _“Fantasyland contends that the earliest European settlers in what would become the United States were gold-crazed adventurers (__[Jamestown](https://en.wikipedia.org/wiki/History_of_Jamestown,_Virginia_(1607%E2%80%931699))__) and God-crazed cults (__[Puritans](https://en.wikipedia.org/wiki/Puritans)_ _and_ _[Pilgrims](https://en.wikipedia.org/wiki/Pilgrims_(Plymouth_Colony))__)”_
+*   _“Fantasyland contends that the earliest European settlers in what would become the United States were gold-crazed adventurers (__[Jamestown](https://en.wikipedia.org/wiki/History_of_Jamestown,_Virginia_(1607%E2%80%931699))__) and God-crazed cults (__[Puritans](https://en.wikipedia.org/wiki/Puritans)_ _and_ _[Pilgrims](https://en.wikipedia.org/wiki/Pilgrims_(Plymouth_Colony))__)”_
 
 #### Part II: United States of Amazing: The 1800s
 
-> *   _“The 19th century saw a mythologizing of the country's founding and founders, and a proliferation of religious sects”_
-> *   _“Occult beliefs…were common”_
-> *   _“The century introduced_ _[homeopathy](https://en.wikipedia.org/wiki/Homeopathy)__; medical fads, and_ _[snake oil](https://en.wikipedia.org/wiki/Snake_oil)_ _peddlers_
-> *   _“Steam-powered presses spawned large-circulation newspapers and magazines with loose standards of accuracy”_
+*   _“The 19th century saw a mythologizing of the country's founding and founders, and a proliferation of religious sects”_
+*   _“Occult beliefs…were common”_
+*   _“The century introduced_ _[homeopathy](https://en.wikipedia.org/wiki/Homeopathy)__; medical fads, and_ _[snake oil](https://en.wikipedia.org/wiki/Snake_oil)_ _peddlers_
+*   _“Steam-powered presses spawned large-circulation newspapers and magazines with loose standards of accuracy”_
 
 #### Part III: A Long Arc Bending Toward Reason: 1900–1960
 
-> *   _“Reason began fighting back: the_ _[Pure Food and Drug Act](https://en.wikipedia.org/wiki/Pure_Food_and_Drug_Act)_ _was passed… the_ _[NAACP](https://en.wikipedia.org/wiki/NAACP)_ _was founded”_
-> *   _“On the other side, there were brief conspiracy panics [and]…nostalgia for_ _[Antebellum South](https://en.wikipedia.org/wiki/Antebellum_South)_ _spread”_
-> *   _“Fundamentalism in religion grew in popularity”_
-> *   _“Movies…became more prevalent, bringing a greater amount of fiction into people's lives. There was an explosion in advertising and modern celebrity culture.”_
+*   _“Reason began fighting back: the_ _[Pure Food and Drug Act](https://en.wikipedia.org/wiki/Pure_Food_and_Drug_Act)_ _was passed… the_ _[NAACP](https://en.wikipedia.org/wiki/NAACP)_ _was founded”_
+*   _“On the other side, there were brief conspiracy panics [and]…nostalgia for_ _[Antebellum South](https://en.wikipedia.org/wiki/Antebellum_South)_ _spread”_
+*   _“Fundamentalism in religion grew in popularity”_
+*   _“Movies…became more prevalent, bringing a greater amount of fiction into people's lives. There was an explosion in advertising and modern celebrity culture.”_
 
 #### Part IV: Big Bang: The 1960s and '70s
 
-> *   _“The 1960s and '70s were a time when bits of everyday life were being replaced with bits of everyday fiction, and there was a veritable explosion of_ _[woo](https://en.wikipedia.org/wiki/Pseudoscience)__-based ideologies taking hold”_
-> *   _“__[Woodstock](https://en.wikipedia.org/wiki/Woodstock)__, the_ _[Counterculture](https://en.wikipedia.org/wiki/Counterculture_of_the_1960s)__, and_ _[hippies](https://en.wikipedia.org/wiki/Hippie)_ _encouraged free thinking and finding one's own truth”_
-> *   _“People could escape their mundane lives in living history theme parks,_ _[Civil War reenactments](https://en.wikipedia.org/wiki/American_Civil_War_reenactment)__, and_ _[Renaissance fairs](https://en.wikipedia.org/wiki/Renaissance_fair)__”_
-> *   _“There was a glut of theming: restaurants, malls, and architecture.”_
+*   _“The 1960s and '70s were a time when bits of everyday life were being replaced with bits of everyday fiction, and there was a veritable explosion of_ _[woo](https://en.wikipedia.org/wiki/Pseudoscience)__-based ideologies taking hold”_
+*   _“__[Woodstock](https://en.wikipedia.org/wiki/Woodstock)__, the_ _[Counterculture](https://en.wikipedia.org/wiki/Counterculture_of_the_1960s)__, and_ _[hippies](https://en.wikipedia.org/wiki/Hippie)_ _encouraged free thinking and finding one's own truth”_
+*   _“People could escape their mundane lives in living history theme parks,_ _[Civil War reenactments](https://en.wikipedia.org/wiki/American_Civil_War_reenactment)__, and_ _[Renaissance fairs](https://en.wikipedia.org/wiki/Renaissance_fair)__”_
+*   _“There was a glut of theming: restaurants, malls, and architecture.”_
 
 #### Part V: Fantasyland Scales: From the 1980s Through the Turn of the Century
 
-> *   _“Reality TV was ubiquitous…Escapists could enjoy_ _[Burning Man](https://en.wikipedia.org/wiki/Burning_Man)__,_ _[live action role-playing](https://en.wikipedia.org/wiki/Live_action_role-playing)__,_ _[fantasy sports](https://en.wikipedia.org/wiki/Fantasy_sports)__, and fantasy camps for adults”_
-> *   _“The country had a_ _[Hollywood president](https://en.wikipedia.org/wiki/Ronald_Reagan)__…politics became entertainment”_
-> *   _“The_ _[FCC fairness doctrine](https://en.wikipedia.org/wiki/FCC_fairness_doctrine)_ _was eliminated, ushering in_ _[Rush Limbaugh](https://en.wikipedia.org/wiki/Rush_Limbaugh)_ _and_ _[Fox News](https://en.wikipedia.org/wiki/Fox_News)__”_
-> *   _“The_ _[Internet](https://en.wikipedia.org/wiki/Internet)_ _enabled every person access to every conceivable idea and interest”_
+*   _“Reality TV was ubiquitous…Escapists could enjoy_ _[Burning Man](https://en.wikipedia.org/wiki/Burning_Man)__,_ _[live action role-playing](https://en.wikipedia.org/wiki/Live_action_role-playing)__,_ _[fantasy sports](https://en.wikipedia.org/wiki/Fantasy_sports)__, and fantasy camps for adults”_
+*   _“The country had a_ _[Hollywood president](https://en.wikipedia.org/wiki/Ronald_Reagan)__…politics became entertainment”_
+*   _“The_ _[FCC fairness doctrine](https://en.wikipedia.org/wiki/FCC_fairness_doctrine)_ _was eliminated, ushering in_ _[Rush Limbaugh](https://en.wikipedia.org/wiki/Rush_Limbaugh)_ _and_ _[Fox News](https://en.wikipedia.org/wiki/Fox_News)__”_
+*   _“The_ _[Internet](https://en.wikipedia.org/wiki/Internet)_ _enabled every person access to every conceivable idea and interest”_
 
 #### Part VI: The Problem with Fantasyland: From the 1980s to the Present and Beyond
 
-> *   _“Fantasyland contends that two changes in American society led to modern tipping points: the_ _[counterculture of the 1960s](https://en.wikipedia.org/wiki/Counterculture_of_the_1960s)_ _and the_ _[Information Age](https://en.wikipedia.org/wiki/Information_Age)__.”_
-> *   _“The internet and world wide web permitted all manner of ideas to bypass the traditional gatekeepers of information dissemination.”_
-> *   _“Conspiracy theories spread”_
-> *   _“Fundamentalist Christianity is amplified in the GOP”_
-> *   _“Extreme skepticism of the press is widespread as people lose immunity to false information.”_
+*   _“Fantasyland contends that two changes in American society led to modern tipping points: the_ _[counterculture of the 1960s](https://en.wikipedia.org/wiki/Counterculture_of_the_1960s)_ _and the_ _[Information Age](https://en.wikipedia.org/wiki/Information_Age)__.”_
+*   _“The internet and world wide web permitted all manner of ideas to bypass the traditional gatekeepers of information dissemination.”_
+*   _“Conspiracy theories spread”_
+*   _“Fundamentalist Christianity is amplified in the GOP”_
+*   _“Extreme skepticism of the press is widespread as people lose immunity to false information.”_
 
 ## III. The Good
 
@@ -93,20 +93,20 @@ This framing shed real light on part of my childhood experience as a Boy Scout t
 
 More subtly, Boy Scouts has an uncanny and jarring relationship with anachronism. Perhaps a few examples will best convey what I mean:
 
-> *   The guy who keeps track of equipment is called the “quartermaster.”
-> *   The advancement ceremony is called a “Court of Honor”
-> *   Everything - buildings, uniforms, signs - looks _intentionally_ old. Not from a lack of ability to be replaced, but as an intentional decision to foster an image of a bygone era. ![Boy Scout Troop 466 NCAC: Camp Bowman - Goshen Scout Camp 2009 (Set 2)](https://acximages.ennals.org/images/2021-book-reviews/e93a34f4ce279f81.jpg)I spent many nights in one of these
+*   The guy who keeps track of equipment is called the “quartermaster.”
+*   The advancement ceremony is called a “Court of Honor”
+*   Everything - buildings, uniforms, signs - looks _intentionally_ old. Not from a lack of ability to be replaced, but as an intentional decision to foster an image of a bygone era. ![Boy Scout Troop 466 NCAC: Camp Bowman - Goshen Scout Camp 2009 (Set 2)](https://acximages.ennals.org/images/2021-book-reviews/e93a34f4ce279f81.jpg)I spent many nights in one of these
 
 This aesthetic is most obvious in settings of centralized planning and organization, like the summer camps and [national bases](https://en.wikipedia.org/wiki/Philmont_Scout_Ranch).
 
 The point is this: the Scouts’ style and curriculum are not merely old-seeming as a _byproduct_ of the functional intentions of the program (to teach life lessons, socialize boys, have fun, etc.). They represent a non-functional effort to recreate some supposed historical ideal, just like so many elements of American culture. A few analogous examples:
 
-> *   The design and marketing surrounding Jeep SUVs and similar cars gesture towards a lifestyle of safaris and outdoor exploration that 99% of their owners will never use their cars to partake in.  
->     ![New 2020 2-Door Jeep Wrangler vs New 2020 4-Door Jeep Wrangler | Patriot  CDJR](https://acximages.ennals.org/images/2021-book-reviews/410c6641395a659a.jpg)
+*   The design and marketing surrounding Jeep SUVs and similar cars gesture towards a lifestyle of safaris and outdoor exploration that 99% of their owners will never use their cars to partake in.  
+    ![New 2020 2-Door Jeep Wrangler vs New 2020 4-Door Jeep Wrangler | Patriot  CDJR](https://acximages.ennals.org/images/2021-book-reviews/410c6641395a659a.jpg)
 >
-> *   Quasi-functional shoes like Vans (skateboarding) and Sperries (boating, whatever that means) likely at one point signalled their owners’ genuine participation in these activities, and have since transitioned to purely nonfunctional form reminiscent of a bygone era.
-> *   Camden Yards, home of the Baltimore Orioles, is intentionally designed to look and feel old.  
->     ![A Look Inside Baltimore's Beautiful Camden Yards - TBA](https://acximages.ennals.org/images/2021-book-reviews/7d5ac2282a2ff98a.jpg)
+*   Quasi-functional shoes like Vans (skateboarding) and Sperries (boating, whatever that means) likely at one point signalled their owners’ genuine participation in these activities, and have since transitioned to purely nonfunctional form reminiscent of a bygone era.
+*   Camden Yards, home of the Baltimore Orioles, is intentionally designed to look and feel old.  
+    ![A Look Inside Baltimore's Beautiful Camden Yards - TBA](https://acximages.ennals.org/images/2021-book-reviews/7d5ac2282a2ff98a.jpg)
 
 None of this is to disparage anyone who buys any of these items; I own Vans and have gone to Orioles games. At a larger level, though, it may indicate cultural preoccupation with nostalgia.
 
@@ -120,16 +120,16 @@ While such combinations need not be deceptive or harmful (as is often the case i
 
 After point 1 above, my second biggest takeaway is that Americans believe some kinda crazy shit. I know that some people [might answer polls in bad faith](https://slatestarcodex.com/2013/04/12/noisy-poll-results-and-reptilian-muslim-climatologists-from-mars/), and that recent political polling errors have cast doubt on the validity of other forms of polling that never have their answers checked in real life, but even still. A few examples:
 
-> *   _“one in nine adults, 25 or 30 million Americans, are sure they’ve ‘experienced/witnessed the devil/evil spirits being driven out of a person’”_
-> *   _“in the fall of 2016…an Economist/YouGov survey found a majority of Republicans still believed Obama probably or definitely was born in Kenya.”_
-> *   _“Only a third of us…believe with some certainty that CO2 emissions…are the main cause of Earth’s warming…[and] more than a third of us believe that…it’s a hoax perpetrated by a conspiracy of scientists, government, and journalists.”_
-> *   _“Only a third strongly disbelieve in telepathy and ghosts.”_
-> *   _“A quarter believe that vaccines cause autism and that Donald Trump won the popular vote in 2016…”_
+*   _“one in nine adults, 25 or 30 million Americans, are sure they’ve ‘experienced/witnessed the devil/evil spirits being driven out of a person’”_
+*   _“in the fall of 2016…an Economist/YouGov survey found a majority of Republicans still believed Obama probably or definitely was born in Kenya.”_
+*   _“Only a third of us…believe with some certainty that CO2 emissions…are the main cause of Earth’s warming…[and] more than a third of us believe that…it’s a hoax perpetrated by a conspiracy of scientists, government, and journalists.”_
+*   _“Only a third strongly disbelieve in telepathy and ghosts.”_
+*   _“A quarter believe that vaccines cause autism and that Donald Trump won the popular vote in 2016…”_
 
 These proportions remain pretty high even after we subtract Scott Alexander’s proposed [4% “lizardman constant.](https://slatestarcodex.com/2013/04/12/noisy-poll-results-and-reptilian-muslim-climatologists-from-mars/)” Other beliefs or practices aren’t so much crazy as merely surprising, at least for someone in a liberal, educated bubble like myself:
 
-> *   _“A majority of Americans tell Pew they pray every day; in the rest of the developed world, those fractions are one-tenth or one fifth.”_
-> *   _“In early 1998, as soon as we learned that Clinton had been fellated by an intern around the Oval Office, his popularity spiked, according to the polls.”_
+*   _“A majority of Americans tell Pew they pray every day; in the rest of the developed world, those fractions are one-tenth or one fifth.”_
+*   _“In early 1998, as soon as we learned that Clinton had been fellated by an intern around the Oval Office, his popularity spiked, according to the polls.”_
 
 And perhaps most importantly:
 

@@ -38,27 +38,27 @@ Unfortunately, a thorough job is going to require lots of spoilers. So, for peop
 
 In many respects, _Termination Shock_ is a "typical" Stephenson novel. This means it's something of a klugey mess, highly unusual in its substance and style. In the past, [I've compared his books to Swiss Army Knives](http://www.words-and-dirt.com/words/review-neal-stephensons-fall-or-dodge-in-hell/)––singular instruments designed for a wide range of utility. Making a guess about Stephenson's writing process, it seems like he spends some number of years researching a bunch of different technologies and theories, then crams them together into a single story. For _Termination Shock,_ I made a non-exhaustive list of current and future technologies readers will encounter:
 
-> *   Solar geoengineering, including grounded as well as airborne models;
-> *   Drones, including automated flocking, weaponization, and drones that can carry single passengers;
-> *   "Earthsuits," modular suits designed to help humans withstand varying levels of extreme heat;
-> *   Wild pig tracking and breeding genetics;
-> *   Augmented reality and artificial intelligence;
-> *   Carbon-neutral air and sea travel;
-> *   "Performative" warfare;
-> *   Non-lethal weapons such as electromagnetic pulses and radiation guns;
-> *   Martial arts, especially a Sikh tradition called Gatka;
-> *   Sea walls, storm surge gates, and sea level management;
-> *   Contact tracing apps;
-> *   Self-driving cars;
-> *   Disinformation via news and social media, including deepfakes;
-> *   Falconry as an anti-drone security measure;
-> *   High-altitude conditioning and equipment;
-> *   Artificial meat;
-> *   Cloud computing and climate modeling/prediction;
-> *   Underwater explosives that create targeted rogue waves;
-> *   3D printing;
-> *   Enhanced perception and proprioception as part of recovery from brain injury;
-> *   Advanced video surveillance
+*   Solar geoengineering, including grounded as well as airborne models;
+*   Drones, including automated flocking, weaponization, and drones that can carry single passengers;
+*   "Earthsuits," modular suits designed to help humans withstand varying levels of extreme heat;
+*   Wild pig tracking and breeding genetics;
+*   Augmented reality and artificial intelligence;
+*   Carbon-neutral air and sea travel;
+*   "Performative" warfare;
+*   Non-lethal weapons such as electromagnetic pulses and radiation guns;
+*   Martial arts, especially a Sikh tradition called Gatka;
+*   Sea walls, storm surge gates, and sea level management;
+*   Contact tracing apps;
+*   Self-driving cars;
+*   Disinformation via news and social media, including deepfakes;
+*   Falconry as an anti-drone security measure;
+*   High-altitude conditioning and equipment;
+*   Artificial meat;
+*   Cloud computing and climate modeling/prediction;
+*   Underwater explosives that create targeted rogue waves;
+*   3D printing;
+*   Enhanced perception and proprioception as part of recovery from brain injury;
+*   Advanced video surveillance
 
 Similar lists could be compiled for Stephenson's other novels, and some of those would be considerably longer than this one. The results of Stephenson's predilection for covering so many topics at once are always interesting, but not always successful from a narrative perspective. His characters aren't reliably well-developed, and he often has trouble coming up with satisfying endings.
 

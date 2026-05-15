@@ -23,10 +23,10 @@ If you refer to my admittedly indulgent list of “[apodictic truths](https://pa
 
 A few relevant details on nicotine pharmacokinetics:
 
-> *   Half-life: 1-2 hours
-> *   Duration of Action: .5-1.5 hour (typically contingent on tolerance in naive vs chronic users)
-> *   Metabolism: mostly in the liver via [CYP2A6](https://en.wikipedia.org/wiki/CYP2A6), [CYP2B6](https://en.wikipedia.org/wiki/CYP2B6), [FMO3](https://en.wikipedia.org/wiki/FMO3)
-> *   Major metabolite: Cotinine (also a nAChR agonist w/ a weaker affinity and ~20 hour half-life)
+*   Half-life: 1-2 hours
+*   Duration of Action: .5-1.5 hour (typically contingent on tolerance in naive vs chronic users)
+*   Metabolism: mostly in the liver via [CYP2A6](https://en.wikipedia.org/wiki/CYP2A6), [CYP2B6](https://en.wikipedia.org/wiki/CYP2B6), [FMO3](https://en.wikipedia.org/wiki/FMO3)
+*   Major metabolite: Cotinine (also a nAChR agonist w/ a weaker affinity and ~20 hour half-life)
 
 ![](https://acximages.ennals.org/images/2025-non-book-reviews/31d99d9165a3cb1b.png)
 
@@ -44,8 +44,8 @@ nAChR’s are located through the body and are involved in autonomic and somatic
 
 Anyways, we’ll focus on two receptor subtypes located in the CNS/brain that are germane to nicotine activation:
 
-> *   (α4)2(β2)3
-> *   (α7)5
+*   (α4)2(β2)3
+*   (α7)5
 
 The first is expressed at a higher density in GABAergic neurons (activation of these neurons elicits GABA release synaptically and—as an epiphenomenon—extra-synaptically as well to mediate tonic inhibition). α4-containing AChRs are desensitized to ligands like nicotine rapidly (via receptor internalization typically) and only re-sensitize after ~1 hour, though this is obviously person-dependent. Conversely, α7-containing AChRs desensitize much more slowly and re-sensitize on the order of ~2 minutes. A principal difference is that α7-containing AChRs are present in higher densities on glutaminergic neurons extending from the ventral tegmental area (VTA) to the prefrontal cortex (PFC), and α4-containing AChRs are primarily expressed on afferent and interneuron GABAergic cells extending from the nucleus accumbens (NAcc) to the VTA. See the diagram below taken from [this](https://pubmed.ncbi.nlm.nih.gov/11906697/#:~:text=The%20net%20effect%20is%20a,to%20reinforce%20nicotine%20self%2Dadministration.) 2002 paper in Neuron.
 

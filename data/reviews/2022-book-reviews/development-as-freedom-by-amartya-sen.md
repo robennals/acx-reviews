@@ -69,14 +69,14 @@ On the other hand, the open-endedness of the capabilities approach means that it
 
 Sen doesn’t seem to worry about this; he’s rather loose with what gets to count as a capability. Here is a partial list of capabilities or substantive freedoms he describes:
 
-> *   “freedom…to establish ownership over an adequate amount of food”
-> *   “freedom to seek wage employment away from one’s traditional bosses”
-> *   “freedom to participate in economic interchange”
-> *   “the capability to live really long”
-> *   “the capability…to have a good life while alive”
-> *   “the ability to survive rather than succumb to premature mortality”
-> *   “the ability…to take part in the life of the community”
-> *   “the…opportunity of having a fulfilling occupation”
+*   “freedom…to establish ownership over an adequate amount of food”
+*   “freedom to seek wage employment away from one’s traditional bosses”
+*   “freedom to participate in economic interchange”
+*   “the capability to live really long”
+*   “the capability…to have a good life while alive”
+*   “the ability to survive rather than succumb to premature mortality”
+*   “the ability…to take part in the life of the community”
+*   “the…opportunity of having a fulfilling occupation”
 
 They’re all over the place, broad and ill defined. The boundaries are a bit arbitrary: why is premature mortality an imposition on freedom while, uh, mature mortality is not? And how exactly do we judge someone’s ability to take part in the life of the community? Even worse, what happens when capabilities conflict?
 

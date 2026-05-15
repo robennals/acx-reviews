@@ -25,10 +25,10 @@ Do you recognize any of these? Not many people do; the books are kind of obscure
 
 Also, 3) the books are just ok. Maybe a 6/10, averaged out? But you might enjoy reading them if you belong to any of the following sets of people:
 
-> *   people who are interested in Christian sci-fi
-> *   CS Lewis megafans (me)
-> *   people who think that Narnia is a masterpiece and are interested in reading what basically amounts to a bad version of it to see how the writer developed (also me)
-> *   people who think that Narnia is terrible because it features a patchwork mythology drawn from wildly disparate areas of the Christian, English, and classical canons and crave a fantasy world with its own fully realized mythology complete with its own invented language (Tolkien)
+*   people who are interested in Christian sci-fi
+*   CS Lewis megafans (me)
+*   people who think that Narnia is a masterpiece and are interested in reading what basically amounts to a bad version of it to see how the writer developed (also me)
+*   people who think that Narnia is terrible because it features a patchwork mythology drawn from wildly disparate areas of the Christian, English, and classical canons and crave a fantasy world with its own fully realized mythology complete with its own invented language (Tolkien)
 
 And either way there are some interesting ideas in the books, which I will go over in this full-spoiler review.
 
@@ -150,8 +150,8 @@ The Space Trilogy is, in a word, uneven. There are interesting ideas, but I
 
 think they’re developed better in Lewis’s other works. So let me indulge in a very leading question I have been meaning to ask from the beginning. Why is Narnia so much better than the Space Trilogy?
 
-> *   Narnia feels more balanced. In the Space Trilogy, there’s really nothing good about the bad guys, to the point that you don’t understand why anyone would be swayed by them, and can’t help sharing Lewis’s scorn for people who are. Whereas every Narnia book features a sympathetic character doing something they and we know is wrong, for basically sympathetic reasons, and then later atoning for it. You understand exactly why Edmund betrays his siblings, because the White Witch is a smokeshow and he wants that sweet Turkish Delight.
-> *   The main characters in Narnia are all children, so the inherent didacticism of Lewis’s writing comes off wise rather than judgy.
-> *   It’s all Tolkien’s fault. He gave extensive notes on the whole Space Trilogy, urged Lewis to make his mythology more consistent and thorough, and once the changes were made, even wrote a letter of recommendation that convinced publisher Stanley Unwin to accept Out of the Silent Planet after the publisher initially rejected it.[[50]](#ftnt50) I think he casts a long, stickler’s shadow over the text. That Hideous Strength feels especially belabored by piety in a way that Lewis’s other works don’t.
-> *   That old Flannery O’Connor quote: “The writer can choose what he writes about but he cannot choose what he is able to make live.” Obviously none of this is an objective critique, but to me, the Narnia books are so more alive than the Space Trilogy. The imagery is fresher, the characters are better, and the stories are more interesting.
-> *   Lewis just got better at writing. This is a really heartening thought to me, that the same person can write two sets of books about the same basic themes, with many similar scenes and ideas, and the second one will just be better, because of what he’s learned through writing the first. The Space Trilogy is a step towards Narnia, and just for that, it’s worth the read.
+*   Narnia feels more balanced. In the Space Trilogy, there’s really nothing good about the bad guys, to the point that you don’t understand why anyone would be swayed by them, and can’t help sharing Lewis’s scorn for people who are. Whereas every Narnia book features a sympathetic character doing something they and we know is wrong, for basically sympathetic reasons, and then later atoning for it. You understand exactly why Edmund betrays his siblings, because the White Witch is a smokeshow and he wants that sweet Turkish Delight.
+*   The main characters in Narnia are all children, so the inherent didacticism of Lewis’s writing comes off wise rather than judgy.
+*   It’s all Tolkien’s fault. He gave extensive notes on the whole Space Trilogy, urged Lewis to make his mythology more consistent and thorough, and once the changes were made, even wrote a letter of recommendation that convinced publisher Stanley Unwin to accept Out of the Silent Planet after the publisher initially rejected it.[[50]](#ftnt50) I think he casts a long, stickler’s shadow over the text. That Hideous Strength feels especially belabored by piety in a way that Lewis’s other works don’t.
+*   That old Flannery O’Connor quote: “The writer can choose what he writes about but he cannot choose what he is able to make live.” Obviously none of this is an objective critique, but to me, the Narnia books are so more alive than the Space Trilogy. The imagery is fresher, the characters are better, and the stories are more interesting.
+*   Lewis just got better at writing. This is a really heartening thought to me, that the same person can write two sets of books about the same basic themes, with many similar scenes and ideas, and the second one will just be better, because of what he’s learned through writing the first. The Space Trilogy is a step towards Narnia, and just for that, it’s worth the read.

@@ -91,11 +91,11 @@ Even if you strike the right balance and avoid premature decisions you will stil
 
 Rabinovich does not discuss why General Zeira and Israeli intelligence were so enamored with this theory and obviously any explanation is speculative. “The Concept” had three key features which could have contributed to its popularity.
 
-> *   Deeply embedded in the Israeli psyche was, and still is, the fear of being “driven to the sea” by the much larger nations around them. When they were told of the actual, more limited Egyptian plans, it did not resonate emotionally like the fear of a war of annihilation.
+*   Deeply embedded in the Israeli psyche was, and still is, the fear of being “driven to the sea” by the much larger nations around them. When they were told of the actual, more limited Egyptian plans, it did not resonate emotionally like the fear of a war of annihilation.
 >
-> *   “The Concept” stroked the Israeli ego: there was no need to fear because Israel was so technologically superior. Rejecting “The Concept” required rejecting the belief in Israel’s technological dominance - a belief that had been resoundingly affirmed by the Six Day War just six years earlier.
+*   “The Concept” stroked the Israeli ego: there was no need to fear because Israel was so technologically superior. Rejecting “The Concept” required rejecting the belief in Israel’s technological dominance - a belief that had been resoundingly affirmed by the Six Day War just six years earlier.
 >
-> *   “The Concept” asserted that when Egypt was finally ready for war it would be due to factors outside Israel’s control. When the Soviets gave Egypt the required weaponry it would be necessary to prepare for a sudden war, but there was nothing Israel could realistically do to stop that.
+*   “The Concept” asserted that when Egypt was finally ready for war it would be due to factors outside Israel’s control. When the Soviets gave Egypt the required weaponry it would be necessary to prepare for a sudden war, but there was nothing Israel could realistically do to stop that.
 
 Put together, “The Concept” hit the key emotional notes of a successful argument; Your deepest fears are well-grounded, but you are strong and powerful enough to overcome them, and if these fears do come to pass it won’t be your fault.
 

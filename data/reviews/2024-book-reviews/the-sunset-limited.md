@@ -172,9 +172,9 @@ For the avoidance of doubt, here’s Leighton in his own words:
 >
 > [F]rom a consequentialist, impact-based perspective, [utilitarianism, deontology and virtue ethics] can also be seen as providing answers to different questions:
 >
-> *   What outcomes do we want for our actions when we look at the world objectively?
-> *   What rules can we follow to get there effectively? And what other rules do we need to follow for other, indirect reasons, such as not generating huge tensions and opposition that would ultimately undermine the ethical objectives?
-> *   What character and ways of thinking do we want to instil in people so as to achieve the desired outcomes?
+*   What outcomes do we want for our actions when we look at the world objectively?
+*   What rules can we follow to get there effectively? And what other rules do we need to follow for other, indirect reasons, such as not generating huge tensions and opposition that would ultimately undermine the ethical objectives?
+*   What character and ways of thinking do we want to instil in people so as to achieve the desired outcomes?
 >
 > […]
 >

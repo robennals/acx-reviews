@@ -87,9 +87,9 @@ One of the reasons we confuse these traits is that there is no foolproof way to 
 
 So we now have:
 
-> *   a name for the-thing-we-colloquially-call-autism-but-which-isn't-autism,
-> *   an understanding of why these two groups tend to overlap,
-> *   a mechanism for how they arise: a cluster of related genes, mediated by hormone levels in the womb.
+*   a name for the-thing-we-colloquially-call-autism-but-which-isn't-autism,
+*   an understanding of why these two groups tend to overlap,
+*   a mechanism for how they arise: a cluster of related genes, mediated by hormone levels in the womb.
 
 This very useful distinction might be the best thing about Baron-Cohen's book. Unfortunately, his tendency to equivocate between the benefits of systematising and the benefits of actually being _autistic_ might be the worst thing about this book, on which, more later.
 
@@ -249,8 +249,8 @@ Systematising is not the same thing as intelligence, but it must help with some 
 
 I couldn't find data on the exact relationship between the two traits, but if it exists, we can make some predictions about what it should look like:
 
-> *   We would expect to see a positive correlation between IQ and SQ that flattens and then becomes negative on the right tail
-> *   The _overall_ correlation should be zero (otherwise e.g. men would score higher on IQ tests than women do).
+*   We would expect to see a positive correlation between IQ and SQ that flattens and then becomes negative on the right tail
+*   The _overall_ correlation should be zero (otherwise e.g. men would score higher on IQ tests than women do).
 
 If anyone can find this dataset, please share it. If it doesn't exist, it would make for a great research project.
 

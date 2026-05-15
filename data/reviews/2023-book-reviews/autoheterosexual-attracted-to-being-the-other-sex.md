@@ -76,8 +76,8 @@ An alternate theory of the origins of forced feminization would be the following
 
 I think what happened is that there were _some_ trans women who _just happened_ to be masochistic ([lots of people are masochistic!](https://pubmed.ncbi.nlm.nih.gov/26941021/)), and people jumped on lumping this into the category of autogynephilia, without thinking about whether it was really better explained by other factors. There are many examples of this, where the book picks up a thing from an old story, suggests it originates from an inversion of heterosexuality, but where the thing really seems better explained by other factors, e.g.:
 
-> *   Does inverted heterosexuality supplant the need for friendship, or is it just that someone had some introverted tendencies or social difficulties which may or may not independently correlate with transness?
-> *   Was the Hungarian physician’s perceptions of having a female body really due to autogynephilia, or did it have something to do with their drug use and mental illnesses?
+*   Does inverted heterosexuality supplant the need for friendship, or is it just that someone had some introverted tendencies or social difficulties which may or may not independently correlate with transness?
+*   Was the Hungarian physician’s perceptions of having a female body really due to autogynephilia, or did it have something to do with their drug use and mental illnesses?
 
 Anyway, pseudo autogynephilia vs true autogynephilia is one thing, but perhaps more important is the direction of causality between autogynephilia and transness. This is a highly controversial question, because it determines whether autogynephilia can be seen as the cause of transness or just a byproduct of it.
 
@@ -269,11 +269,11 @@ Let’s take an issue where Phil agrees with me: autoandrophilia is real. But if
 
 I think the answer to this question is messy, but likely involves many of the following concepts:
 
-> *   Because autoheterosexuality was for a long time named “transvestic fetishism”, researchers thought it was _about the clothes_,\* and autoandrophilia is somewhat less transvestically focused than autogynephilia is, so they would be less likely to notice it.\*\*
-> *   Autoandrophilia is somewhat rarer than autogynephilia, so they would have been less likely to notice it.
-> *   Researchers have long had a preconception that unusual sexual motivations are a male-only thing, so they would have been less likely to notice it.
-> *   Many studies have been performed on autogynephiles, but few studies have been performed on autoandrophiles, so they would have been less likely to notice it.
-> *   Women face stronger gender norms than men, so the autoandrophiles who transition will likely also have masculinity as a secondary motivator, making it less unclear whether autoandrophilia is even needed as an explanation, and therefore making them less likely to notice it.
+*   Because autoheterosexuality was for a long time named “transvestic fetishism”, researchers thought it was _about the clothes_,\* and autoandrophilia is somewhat less transvestically focused than autogynephilia is, so they would be less likely to notice it.\*\*
+*   Autoandrophilia is somewhat rarer than autogynephilia, so they would have been less likely to notice it.
+*   Researchers have long had a preconception that unusual sexual motivations are a male-only thing, so they would have been less likely to notice it.
+*   Many studies have been performed on autogynephiles, but few studies have been performed on autoandrophiles, so they would have been less likely to notice it.
+*   Women face stronger gender norms than men, so the autoandrophiles who transition will likely also have masculinity as a secondary motivator, making it less unclear whether autoandrophilia is even needed as an explanation, and therefore making them less likely to notice it.
 
 Basically, the way I see it is, researchers were not paying enough attention to notice autoandrophilia. But in my opinion, autoandrophilia is sort of obviously a thing. If researchers are not paying attention to really notice it, then there are lots of other things that they also fail to realize. (In this perspective, it’s almost no wonder the prediction market participants expect the true answer to be a theory that hasn’t been put forth yet.)
 

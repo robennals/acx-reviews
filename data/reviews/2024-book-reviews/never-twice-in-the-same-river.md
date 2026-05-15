@@ -118,22 +118,22 @@ It may not surprise you to find out that Höcke isn’t particularly fond of mod
 
 Here are some things Höcke blames modernity for
 
-> *   ugly architecture
-> *   the deconstruction of gender, ethnicity, families, religions, borders, and humanity itself
-> *   mutating creative people into “flat mass persons”
-> *   being “directed against creation itself”, due to their “aim of permanent liquefaction”, which is “a relapse to the formless and desolate mass of preworldly chaos, as Ovid saw it in his metamorphoses”
+*   ugly architecture
+*   the deconstruction of gender, ethnicity, families, religions, borders, and humanity itself
+*   mutating creative people into “flat mass persons”
+*   being “directed against creation itself”, due to their “aim of permanent liquefaction”, which is “a relapse to the formless and desolate mass of preworldly chaos, as Ovid saw it in his metamorphoses”
 
 Well, at least concerning the architecture I can agree. Though I do wonder if he really thinks that everything about modernity is to be rejected. The Enlightenment? The Rise of Democracy? The rise of global markets? Women’s Rights? Increases in individual freedom? The relatively long period of peace in Europe after WW2? The abolition of slavery and Imperialism? Should all of this be reversed too?
 
 What can we do about it? As usual, Höcke is being vague because “the details of a new building [of the community] should not and cannot be decreed from above, but determined in a large, joint discussion.” After some prodding, he decides to provide some guidance:
 
-> *   a new down-to-earthness should be promoted
-> *   the idealistic value of meaningful work must be revitalized
-> *   a productive economic order should be created that generates a balanced social fabric and does not widen the gap between rich and poor
-> *   one's homeland should be rediscovered as a space of security and life development
-> *   a people's monopoly on settlement and organization in their country should be ensured
-> *   we should make beauty and a sense of form and measure the new benchmark
-> *   we must strive for a metaphysical re-anchoring
+*   a new down-to-earthness should be promoted
+*   the idealistic value of meaningful work must be revitalized
+*   a productive economic order should be created that generates a balanced social fabric and does not widen the gap between rich and poor
+*   one's homeland should be rediscovered as a space of security and life development
+*   a people's monopoly on settlement and organization in their country should be ensured
+*   we should make beauty and a sense of form and measure the new benchmark
+*   we must strive for a metaphysical re-anchoring
 
 Everything clear? This WILL be on the final exam. Höcke expands further on the topic of migration. He demands that migrants should get “acculturated”, meaning that they should not only accept the German rule of law but also integrate an unspecified German value system into their identity. The main reason why this doesn’t happen is because we Germans have stopped honoring our own traditions and religions because of our negative disposition towards our own culture. Due to this, migration turns invasive and threatens to replace the native culture. As mentioned before, I agree that we Germans have a rather negative view of ourselves and our history and that this adversely impacts us. However, I am not sure what Höcke means with a German value system, as the set of values that all Germans hold is pretty slim. If anything, it would be the rules as laid out in our constitution but Höcke explicitly demands more.
 

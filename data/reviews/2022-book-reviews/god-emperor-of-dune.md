@@ -29,7 +29,7 @@ _[This is one of the finalists in the 2022 book review contest. It’s not by me
 > divided god within a hell  
 > His pain a golden path
 > 
-> - From _The Collected Songs of The Scattering,_ author unknown.
+- From _The Collected Songs of The Scattering,_ author unknown.
 
 ## The Setting
 

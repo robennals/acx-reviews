@@ -40,31 +40,31 @@ So, lest you die without familiarizing yourself with GEB, let’s get started.
 
 The basic object of study in GEB is what Hofstadter calls a _formal system_. A formal system consists of:
 
-> *   A collection of allowable characters out of which we can form strings (sequences of characters)
-> *   A collection of strings called "axioms"
-> *   A collection of rules, or "inference rules," for changing some strings into others
+*   A collection of allowable characters out of which we can form strings (sequences of characters)
+*   A collection of strings called "axioms"
+*   A collection of rules, or "inference rules," for changing some strings into others
 
 Huh? Let's start with a simple, meaningless example called the MIU-system.
 
 The MIU-system:
 
-> *   Allowable characters: M, I, and U. (So strings are things like M, UMM, MIMMIUM, UMIIMUMUUIMIM, etc.)
-> *   Axioms: MI
-> *   Rules:
+*   Allowable characters: M, I, and U. (So strings are things like M, UMM, MIMMIUM, UMIIMUMUUIMIM, etc.)
+*   Axioms: MI
+*   Rules:
 >
-> *   Rule I: given a string that ends in an I, you can add a U to the end.
+*   Rule I: given a string that ends in an I, you can add a U to the end.
 >
 > Example: from UMI, form UMIU
 >
-> *   Rule II: given a string of the form M_x_ where _x_ consists of M’s, I’s, and U’s, you can form the string M_xx_
+*   Rule II: given a string of the form M_x_ where _x_ consists of M’s, I’s, and U’s, you can form the string M_xx_
 >
 > Example: from MIU, form MIUIU
 >
-> *   Rule III: given any string with III appearing somewhere inside, you may replace III with U
+*   Rule III: given any string with III appearing somewhere inside, you may replace III with U
 >
 > Example: from MIIII, you can form MUI (by replacing the middle III with U). You can also form MIU (by replacing the ending III with U).
 >
-> *   Rule IV: given any string with UU appearing inside, you may delete UU
+*   Rule IV: given any string with UU appearing inside, you may delete UU
 >
 > Example: from MUUI, form MI
 
@@ -96,12 +96,12 @@ In this example, the MIU-system doesn't seem to reflect the structure of anythin
 
 The tq-system:
 
-> *   Allowable characters: t, q, -
-> *   Axiom: -t-q-
-> *   Rules:
+*   Allowable characters: t, q, -
+*   Axiom: -t-q-
+*   Rules:
 >
-> *   Rule I: given a string _x_t_y_q_z_ where _x_,_y_,_z_ are strings consisting of only hyphens, you can form _x_-t_y_q_zy_
-> *   Rule II: given a string _x_t_y_q_z_ where _x,y,z_ are strings consisting of only hyphens, you can form _x_t_y_-q_zx_
+*   Rule I: given a string _x_t_y_q_z_ where _x_,_y_,_z_ are strings consisting of only hyphens, you can form _x_-t_y_q_zy_
+*   Rule II: given a string _x_t_y_q_z_ where _x,y,z_ are strings consisting of only hyphens, you can form _x_t_y_-q_zx_
 
 Unlike the MIU-system, the tq-system comes with an _interpretation_ which converts strings of the formal system into meaningful statements in some _context_. In this case, the context is “multiplications,” and the interpretation looks like
 

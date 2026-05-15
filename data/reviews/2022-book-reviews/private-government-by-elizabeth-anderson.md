@@ -51,10 +51,10 @@ _The effect of events on Life Satisfaction for Men. From_ _[Clark et al., 2007](
 
 This power, Anderson argues, allows employers to abuse and exploit their workers in ways large and small, without fear of push-back or reprisal. For proof, Anderson gives a litany of examples of employers exploiting workers, including:
 
-> *   Walmart forbidding chatting between workers
-> *   Apple searching warehouse workers for stolen merchandise every day, without pay
-> *   [Tyson](https://www.oxfamamerica.org/explore/research-publications/no-relief/) and [Nabisco](https://iro.uiowa.edu/esploro/outputs/book/Void-where-prohibited-rest-breaks-and/9983557352202771) not allowing bathroom breaks, forcing workers wearing diapers in order to keep their jobs
-> *   [Amazon](https://web.archive.org/web/20141011133520/http://articles.mcall.com/2011-09-18/news/mc-allentown-amazon-complaints-20110917_1_warehouse-workers-heat-stress-brutal-heat) arranging to have ambulances parked outside of their warehouses during heat waves, expecting workers to need hospitalization due to the heat
+*   Walmart forbidding chatting between workers
+*   Apple searching warehouse workers for stolen merchandise every day, without pay
+*   [Tyson](https://www.oxfamamerica.org/explore/research-publications/no-relief/) and [Nabisco](https://iro.uiowa.edu/esploro/outputs/book/Void-where-prohibited-rest-breaks-and/9983557352202771) not allowing bathroom breaks, forcing workers wearing diapers in order to keep their jobs
+*   [Amazon](https://web.archive.org/web/20141011133520/http://articles.mcall.com/2011-09-18/news/mc-allentown-amazon-complaints-20110917_1_warehouse-workers-heat-stress-brutal-heat) arranging to have ambulances parked outside of their warehouses during heat waves, expecting workers to need hospitalization due to the heat
 
 As a result, Anderson thinks it is reasonable to refer to workplaces as “communist dictatorships in our midst”], and declare that workplaces have “arbitrary, unaccountable power”.  
 

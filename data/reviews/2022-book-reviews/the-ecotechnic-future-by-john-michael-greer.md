@@ -100,7 +100,7 @@ Greer enumerates the following seres:
 
 > 1.  The industrial age
 >
-> *   You are now here
+*   You are now here
 >
 > 2.  Scarcity industrialism
 > 3.  Salvage society

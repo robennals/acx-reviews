@@ -184,9 +184,9 @@ The rest of his education stuff is kind of banal. Some of it is geared towards s
 
 The book is full of other proposals along these lines that I don’t think it makes sense to explore at length here, but suffice it to say that Bunting also has very strong views on dining arrangements, dorm sizes, proportion of time spent with others vs alone, the professional backgrounds of professors, the makeup of admissions committees, and so on. What I hope to have conveyed by exploring the examples from _An Education_ that I did is mostly the possibilities of:
 
-> *   a college having the courage of its convictions to implement policies that could reasonably achieve otherwise unsatisfied goals,
-> *   an education in self-mastery vs just an education in mastery over the world, and
-> *   holistic approaches to education that take a strong stance on issues beyond curricula
+*   a college having the courage of its convictions to implement policies that could reasonably achieve otherwise unsatisfied goals,
+*   an education in self-mastery vs just an education in mastery over the world, and
+*   holistic approaches to education that take a strong stance on issues beyond curricula
 
 Overall, I thought this was a cool book! It felt like a breath of fresh air in a stale but important conversation.
 

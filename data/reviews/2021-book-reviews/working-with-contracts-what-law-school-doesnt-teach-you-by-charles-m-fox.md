@@ -28,10 +28,10 @@ First, some very brief background info, which the book itself mostly assumes.
 
 Legally, in order to count as a “contract”, we need four main pieces:
 
-> *   Offer: someone offers a deal
-> *   Acceptance: someone else accepts it
-> *   Consideration: both parties gain something from the deal; it’s not a gift
-> *   Mutual understanding: both parties agree on what the deal is and the fact that they’ve agreed to it
+*   Offer: someone offers a deal
+*   Acceptance: someone else accepts it
+*   Consideration: both parties gain something from the deal; it’s not a gift
+*   Mutual understanding: both parties agree on what the deal is and the fact that they’ve agreed to it
 
 A Contracts 101 class has all sorts of details and gotchas related to these. Notice that “signature on a piece of paper” is not on that list; e.g. oral contracts are entirely enforceable, it’s just harder to prove their existence in court. Even implicit contracts are enforceable - e.g. when you order food from a restaurant, you implicitly agree to pay for it, and that’s a legally-enforceable contract. That said, we’ll focus here on explicit written contracts.
 
@@ -45,10 +45,10 @@ The “functional” components of a contract can be organized into two main cat
 
 Some example representations:
 
-> *   ABC Corp signs a statement that they have no pending lawsuits against them.
-> *   Bob signs a statement that the house he’s selling contains no lead-based paint or asbestos insulation.
-> *   Carol signs a statement that the forms she provided for a mortgage application are accurate and complete.
-> *   Title Corp signs a statement that there are no outstanding mortgages on a piece of property.
+*   ABC Corp signs a statement that they have no pending lawsuits against them.
+*   Bob signs a statement that the house he’s selling contains no lead-based paint or asbestos insulation.
+*   Carol signs a statement that the forms she provided for a mortgage application are accurate and complete.
+*   Title Corp signs a statement that there are no outstanding mortgages on a piece of property.
 
 Nominally, each of these is a promise that something is true. However, that’s not quite how they work _functionally_. Functionally, if a counterparty acts based on the assumption that the statement is true and is harmed as a result, then they can sue for damages. In other words, when providing a representation, we provide **insurance** against any damages which result from the representation being false. Bob may not even have checked that the house he’s selling contains no asbestos, and that’s fine - _if_ he’s willing to insure the counterparty against any asbestos-related risk.
 
@@ -58,17 +58,17 @@ The other key thing to notice about representations is that they’re _as of the
 
 While representations deal with past and present, covenants deal with the future. They’re the classic idea of contract provisions: precommitments to do something. Some examples:
 
-> *   ABC Corp agrees to not sell the machinery they’re leasing.
-> *   Bob agrees to not use any lead-based paint on the house he’s buying.
-> *   Carol agrees to maintain minimum levels of insurance on the house she’s mortgaging.
-> *   Monitoring Corp agrees to alert Bank if there is any change in the credit rating of Company.
+*   ABC Corp agrees to not sell the machinery they’re leasing.
+*   Bob agrees to not use any lead-based paint on the house he’s buying.
+*   Carol agrees to maintain minimum levels of insurance on the house she’s mortgaging.
+*   Monitoring Corp agrees to alert Bank if there is any change in the credit rating of Company.
 
 These work basically like you’d expect.
 
 Representations and covenants often run in parallel: a representation that X is true will have a corresponding covenant to make X continue to be true in the future. For instance:
 
-> *   ABC corp states that they do not currently have any liens on their main plant, and agrees to not create any (i.e. they won’t borrow any money with the plant as collateral).
-> *   Carol states that she currently has some level of insurance coverage on her house, and agrees to maintain that level of coverage.
+*   ABC corp states that they do not currently have any liens on their main plant, and agrees to not create any (i.e. they won’t borrow any money with the plant as collateral).
+*   Carol states that she currently has some level of insurance coverage on her house, and agrees to maintain that level of coverage.
 
 This is mainly for contracts which will be performed over a long time, especially debt contracts. One-off contracts (like a purchase/sale) tend to have relatively few covenants; most of their substance is in the representations.
 
@@ -108,8 +108,8 @@ This could go on for a while.
 
 Despite the parallels, lawyers are not very _good_ software engineers, in general. The most common solution to the sorts of problems above is to throw a patch on it, via two kinds of exceptions:
 
-> *   Carveouts: action X is generally forbidden, except for special case Y.
-> *   Baskets: action X is generally forbidden, except in amounts below some limit (e.g. the $5M limit in the example above)
+*   Carveouts: action X is generally forbidden, except for special case Y.
+*   Baskets: action X is generally forbidden, except in amounts below some limit (e.g. the $5M limit in the example above)
 
 Over the course of negotiations, patches are layered on top of patches. An example from the book:
 
@@ -131,8 +131,8 @@ One important thing to keep in mind while reading these: **when you push the do-
 
 Materiality means ignoring small things. For instance, compare:
 
-> *   “Borrower shall not default in its obligations under any contract”, vs
-> *   “Borrower shall not default in its obligations under any material contract”
+*   “Borrower shall not default in its obligations under any contract”, vs
+*   “Borrower shall not default in its obligations under any material contract”
 
 The first would be breached if e.g. the borrower forgot to update their payment information on their $10 monthly github subscription, and the payment was late. The second would ignore small things like that.
 
@@ -148,9 +148,9 @@ Reasonableness is exactly what it sounds like. It’s saying something that has 
 
 Some patterns where reasonableness shows up:
 
-> *   Reasonable expectations, e.g. “Borrower shall notify Lender of any changes which could reasonably be expected to have a material adverse effect…”
-> *   Consent not to be unreasonably withheld, e.g. “ABC Corp may not X without consent of XYZ Corp, such consent not to be unreasonably withheld.”
-> *   Reasonable efforts, e.g. “Borrower shall obtain X from their insurer.” vs “Borrower shall exert reasonable effort to obtain X from their insurer.”
+*   Reasonable expectations, e.g. “Borrower shall notify Lender of any changes which could reasonably be expected to have a material adverse effect…”
+*   Consent not to be unreasonably withheld, e.g. “ABC Corp may not X without consent of XYZ Corp, such consent not to be unreasonably withheld.”
+*   Reasonable efforts, e.g. “Borrower shall obtain X from their insurer.” vs “Borrower shall exert reasonable effort to obtain X from their insurer.”
 
 What would each of these do without the reasonableness clause? In the first case, the borrower could claim that they didn’t expect Obvious Bad Thing to impact their business. In the second case, XYZ Corp could withhold consent for some case they obviously don’t care about in order to extract further concessions from ABC Corp. In the third case, an insurer could simply refuse to provide X, and the borrower wouldn’t be able to do anything about it.
 
@@ -160,8 +160,8 @@ Sometimes a lender or prospective buyer wants to say “what you normally do is 
 
 Typical examples:
 
-> *   “Borrower will not incur any <debt of specific type> except in the ordinary course of business.”
-> *   “ABC Corp will not make any payments to <subsidiary> except in a manner consistent with past practice.”
+*   “Borrower will not incur any <debt of specific type> except in the ordinary course of business.”
+*   “ABC Corp will not make any payments to <subsidiary> except in a manner consistent with past practice.”
 
 In general, this is a pretty good way to let business continue as usual without having to go into all the tiny details of what business-as-usual involves, while still ensuring that e.g. a borrowing company doesn’t sell all their assets, distribute the funds as a dividend to a parent company, and then declare bankruptcy.
 
@@ -169,9 +169,9 @@ In general, this is a pretty good way to let business continue as usual without 
 
 In general, if a contract is breached, the counterparty can sue for damages. If you want anything else to happen as the result of a breach, then it needs to be included in the contract. In particular, common things triggered by a breach include:
 
-> *   Termination: counterparty gains the right to terminate the contract
-> *   Acceleration: loaned money must be paid back immediately
-> *   Indemnification: counterparty must be paid for any breach-related damages
+*   Termination: counterparty gains the right to terminate the contract
+*   Acceleration: loaned money must be paid back immediately
+*   Indemnification: counterparty must be paid for any breach-related damages
 
 The last is somewhat redundant with the court system, but by including it explicitly, the contract can also specify how to calculate damages, how damages are to be paid, caps or exceptions to liability, etc. Rather than leaving such matters to the whims of a court, the contract can specify them.
 

@@ -187,19 +187,19 @@ They both also have several mods that _add_ content, and Library of Ruina even h
 
 **[13]** Their character arcs and personalities also tend to mirror their source inspirations in some manner. Here’s the full list for a bit of fun trivia, in numerical Sinner order (h/t [this new player FAQ by solaariel](https://steamcommunity.com/sharedfiles/filedetails/?id=3345317336)):
 
-> *   Yi Sang — the author and presumed first-person main character of the Korean novel, The Wings
-> *   Faust — of Johann Wolfgang von Goethe’s play on the classic German legendary character
-> *   Don Quixote — The Ingenious Gentleman Don Quixote of La Mancha by Miguel de Cervantes
-> *   Ryoshu — based on the subject of a Japanese short story by Akutagawa Ryunosuke called the Hell Screen
-> *   Meursault — the main character of a French novella The Stranger by Albert Camus
-> *   Hong Lu — Hong Lu’s given name seems to be a reference to the title of the relatively obscure Chinese novel Xiùxiàng Hóng Lóu Mèng (Dream of the Red Chamber) by Cao Xueqin, but his proper name, Jia Baoyu, is also shared with its main protagonist
-> *   Heathcliff — of Wuthering Heights by Emily Bronte
-> *   Ishmael — from the American classic Moby-Dick by Herman Melville
-> *   Rodion — from Fyodor Dostoevsky’s Crime and Punishment
-> *   Dante — of the Divine Comedy
-> *   Sinclair — from a bildungsroman by Herman Hesse titled Demian: The Story of a Boyhood
-> *   Outis — a reference to the pseudonym used by Odysseus when confronting the Cyclops
-> *   Gregor — from The Metamorphosis by Franz Kafka
+*   Yi Sang — the author and presumed first-person main character of the Korean novel, The Wings
+*   Faust — of Johann Wolfgang von Goethe’s play on the classic German legendary character
+*   Don Quixote — The Ingenious Gentleman Don Quixote of La Mancha by Miguel de Cervantes
+*   Ryoshu — based on the subject of a Japanese short story by Akutagawa Ryunosuke called the Hell Screen
+*   Meursault — the main character of a French novella The Stranger by Albert Camus
+*   Hong Lu — Hong Lu’s given name seems to be a reference to the title of the relatively obscure Chinese novel Xiùxiàng Hóng Lóu Mèng (Dream of the Red Chamber) by Cao Xueqin, but his proper name, Jia Baoyu, is also shared with its main protagonist
+*   Heathcliff — of Wuthering Heights by Emily Bronte
+*   Ishmael — from the American classic Moby-Dick by Herman Melville
+*   Rodion — from Fyodor Dostoevsky’s Crime and Punishment
+*   Dante — of the Divine Comedy
+*   Sinclair — from a bildungsroman by Herman Hesse titled Demian: The Story of a Boyhood
+*   Outis — a reference to the pseudonym used by Odysseus when confronting the Cyclops
+*   Gregor — from The Metamorphosis by Franz Kafka
 
 **[14]** I’m going to sort of dodge around defining gameplay because I think that gets way too into the weeds for no payoff. And also partly because come on it’s in the word there, it’s like “mouthfeel”, it’s not that you need an explanation, it’s a fuzzy concept that’s sort of intuitive once you engage with it. We’re talking about what it feels like to play a game. It’s gotta be good, pending the few exceptions where misery is an intended part of the experience.
 

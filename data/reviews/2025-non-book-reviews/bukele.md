@@ -38,9 +38,9 @@ As a good Bayesian, you should know by the end of this review whether to adjust 
 
 In 2021, Alexander Scott wrote that Bukele might one day make a great Dictator Book Club entry [2]. Four years later, there still aren’t any non-hagiographical biographies on Amazon. Luckily for me, I need none, because I’ve witnessed the fall of the Republic myself:
 
-> *   In 2012, one of my high school classmates was already a Bukele fan, back when he was just a small-town mayor. Now, that classmate is part of the Bukelist ‘New Ideas’ Party.
-> *   In 2017, a pro-Bukele college group (_Team Nayib_) tried to recruit me. The classmate who approached me is now a congresswoman for ‘New Ideas’. Another became a mayor.
-> *   In 2022, I attended a farewell party for the wife of a journalist – the couple was preparing to self-exile due to a scholarship abroad. They were not planning to return.
+*   In 2012, one of my high school classmates was already a Bukele fan, back when he was just a small-town mayor. Now, that classmate is part of the Bukelist ‘New Ideas’ Party.
+*   In 2017, a pro-Bukele college group (_Team Nayib_) tried to recruit me. The classmate who approached me is now a congresswoman for ‘New Ideas’. Another became a mayor.
+*   In 2022, I attended a farewell party for the wife of a journalist – the couple was preparing to self-exile due to a scholarship abroad. They were not planning to return.
 
 So, did I courageously fight in defense of the Republic? Or did I jump in the Bukelist bandwagon to enact ‘change’ – and harness power and wealth for myself?
 
@@ -66,9 +66,9 @@ Then, if the rationalists can get El Salvador to actually achieve the good ‘Si
 
 Understanding El Salvador seems pretty straightforward:
 
-> *   The country used to be a military dictatorship from 1929 – 1979, and it took a brutal, 12-year-long, Civil War to shake off its last remnants.
-> *   In 1992, the war ended and El Salvador was officially recognized as a democracy. But much like the Weimar Republic, our democracy was a failure: corrupt, slow-growing, unequal, and riddled with crime.
-> *   In 2019, after three uninterrupted decades of rule by parties born out of the Civil War, my country seemingly voted to turn itself back into a dictatorship, but a civilian-led one this time. Progress!
+*   The country used to be a military dictatorship from 1929 – 1979, and it took a brutal, 12-year-long, Civil War to shake off its last remnants.
+*   In 1992, the war ended and El Salvador was officially recognized as a democracy. But much like the Weimar Republic, our democracy was a failure: corrupt, slow-growing, unequal, and riddled with crime.
+*   In 2019, after three uninterrupted decades of rule by parties born out of the Civil War, my country seemingly voted to turn itself back into a dictatorship, but a civilian-led one this time. Progress!
 
 Reality is more complex than this, but only _slightly._
 
@@ -101,20 +101,20 @@ All you need to know El Salvador’s history is in Matt Lakeman’s excellent ma
 
 If you read it, you will see statistics similar to these.
 
-> *   On Corruption:
+*   On Corruption:
 >
-> *   Out of the 6 presidents in the post-Civil War period, one is in jail for corruption; two died while being investigated for corruption; two more have self-exiled while they stand accused of corruption; and the remaining one died before he could be formally accused of corruption. [5]
+*   Out of the 6 presidents in the post-Civil War period, one is in jail for corruption; two died while being investigated for corruption; two more have self-exiled while they stand accused of corruption; and the remaining one died before he could be formally accused of corruption. [5]
 >
-> *   On the Economy:
+*   On the Economy:
 >
-> *   After the end of the Civil War (early 1992) until 2019, El Salvador grew at a pathetic average of 2.1% / year, which is less then the so-called ‘Hindu rate of growth’ of 3% / year. [6]
-> *   In 2011, the Obama administration got together a group of technocrats to decipher: ‘_Why doesn’t El Salvador grow? How can we make it grow to keep them from sending their people to America?_’ What was the conclusion of these geniuses? It was all about crime. [7].
+*   After the end of the Civil War (early 1992) until 2019, El Salvador grew at a pathetic average of 2.1% / year, which is less then the so-called ‘Hindu rate of growth’ of 3% / year. [6]
+*   In 2011, the Obama administration got together a group of technocrats to decipher: ‘_Why doesn’t El Salvador grow? How can we make it grow to keep them from sending their people to America?_’ What was the conclusion of these geniuses? It was all about crime. [7].
 >
-> *   On Crime:
+*   On Crime:
 >
-> *   In 2010, a faction of the 18th Street Gang (18-Revolucionarios) burned down two passenger buses in a working-class neighborhood, killing 19 of them, including women and children. This was known as the _Mejicanos massacre_ [8]
-> *   In 2015, El Salvador became ‘the world’s murder capital’, by reaching the highest murder rate outside of a war zone.
-> *   Between 2015 and 2019, there was a sort of ‘asymmetrical war’ between the gangs and the State, which managed to gradually decrease the murder rate, at the cost of extrajudicial executions carried not by the gangs, but by the police, such as the _San Blas massacre_. [9]
+*   In 2010, a faction of the 18th Street Gang (18-Revolucionarios) burned down two passenger buses in a working-class neighborhood, killing 19 of them, including women and children. This was known as the _Mejicanos massacre_ [8]
+*   In 2015, El Salvador became ‘the world’s murder capital’, by reaching the highest murder rate outside of a war zone.
+*   Between 2015 and 2019, there was a sort of ‘asymmetrical war’ between the gangs and the State, which managed to gradually decrease the murder rate, at the cost of extrajudicial executions carried not by the gangs, but by the police, such as the _San Blas massacre_. [9]
 
 *\*\*
 
@@ -148,9 +148,9 @@ In his thirties, he had enough of running campaigns for other people, and decide
 
 He successfully marketed himself as the herald of a renewed, rejuvenated El Salvador:
 
-> *   The name of the town, _Nuevo Cuscatlán_, means ‘New El Salvador’. [11]
-> *   Instead of using the colors of his party, he adopted a bright cyan, which _if you squint_ kind of looks like a more energetic, _youthful_, version of the national colors: Blue and white.
-> *   The logo of the town, a bright ‘N’ inside a circle, could be interpreted either as being the initial of his first name, ‘Nayib’; or the initial of what was then his movement ‘Nuevas Ideas’.
+*   The name of the town, _Nuevo Cuscatlán_, means ‘New El Salvador’. [11]
+*   Instead of using the colors of his party, he adopted a bright cyan, which _if you squint_ kind of looks like a more energetic, _youthful_, version of the national colors: Blue and white.
+*   The logo of the town, a bright ‘N’ inside a circle, could be interpreted either as being the initial of his first name, ‘Nayib’; or the initial of what was then his movement ‘Nuevas Ideas’.
 
 On the one hand, he tried to appeal to moderate voters by promoting the need for national unity across the political spectrum to face the challenges that the country was facing. After all, even if was a left-winger, his family were _millionaires_, so many people doubted that he would implement ‘21st century socialism’. He  also marketed himself to the predominantly Christian population by portraying himself as a bearded, _Christian_ 30-year-old, whose family literally came from Bethlehem.
 
@@ -179,9 +179,9 @@ In fact, the more popular Bukele became, the more he fell out of favor with the 
 
 In late 2017 it was far from obvious whether Bukele could win with a third party, even if he was the most popular politician:
 
-> *   First, he started organizing his own party, but he couldn’t register it by the deadline.
-> *   Then, in 2018, he attempted to use the center-left _Cambio Democrático_ party, only to have the Supreme Court _cancel this party_ due to their low vote share in the past election. This was a shameless power-grab by the Supreme Court.
-> *   _At the last possible minute_, he joined the center-right _GANA_ party. This was a party which, unlike the 2018 Bukele, had always defended socially conservative and tough-on-crime measures, even while being one of the most notoriously corrupt parties itself. The American embassy had described it as ‘a party for sale’.
+*   First, he started organizing his own party, but he couldn’t register it by the deadline.
+*   Then, in 2018, he attempted to use the center-left _Cambio Democrático_ party, only to have the Supreme Court _cancel this party_ due to their low vote share in the past election. This was a shameless power-grab by the Supreme Court.
+*   _At the last possible minute_, he joined the center-right _GANA_ party. This was a party which, unlike the 2018 Bukele, had always defended socially conservative and tough-on-crime measures, even while being one of the most notoriously corrupt parties itself. The American embassy had described it as ‘a party for sale’.
 
 If GANA was a party for sale, Bukele had the money, and he bought them: He successfully rebranded the party, changing its colors to a darkened version of the Bukelist _cyan_. Yet, at least one of my left-wing friends decided not to vote for Bukele because of this switch.
 
@@ -231,8 +231,8 @@ Alexander Scott argues that ‘all dictators get their start by discovering some
 
 Other dictators, like Erdogan, had to find innovative ways in which to ‘hack the checks-and-balances system requiring 2/3 majorities’. Bukele found the best hack of all: To just actually win, at least **once**. That was all he needed to gerrymander his way into earning supermajorities, seemingly forever:
 
-> *   In the 2019 election, Bukele earned 53.1% of the vote. In 2021, his party won 66.5% of the popular vote, which led to a ⅔ supermajority.
-> *   In 2024, Bukele himself increased his vote share to 84.7%, but his Party underperformed at 70.6% of the vote. However, his party now commands _90%_ of the Congress, due to gerrymandering.
+*   In the 2019 election, Bukele earned 53.1% of the vote. In 2021, his party won 66.5% of the popular vote, which led to a ⅔ supermajority.
+*   In 2024, Bukele himself increased his vote share to 84.7%, but his Party underperformed at 70.6% of the vote. However, his party now commands _90%_ of the Congress, due to gerrymandering.
 
 Bukele then launched an ‘anti-corruption’ campaign targeting rivals, including former San Salvador mayor Ernesto _‘Neto’_ Muyshondt— who lost the 2021 elections, and was arrested a few months later. By 2023, his mind had deteriorated so much because of his imprisonment, that he was transferred to the psychiatric hospital.
 
@@ -253,10 +253,10 @@ After the pandemic, Carlos Calleja, the right-wing billionaire _who had competed
 
 So, during the 2019 – 2022 period, Bukele took effective control of:
 
-> *   The media.
-> *   The police and military.
-> *   Congress.
-> *   The courts.
+*   The media.
+*   The police and military.
+*   Congress.
+*   The courts.
 
 It turns out that the real superpower was being _basically-an-elected-monarch_ all along.
 
@@ -270,9 +270,9 @@ In 2022, Batman killed Bruce Wayne.
 
 In 2024, Bukele seemed to be _surfing_ on success:
 
-> *   He consolidated absolute power.
-> *   He basically won the war on gangs.
-> *   He successfully re-elected himself for the 2024 - 2029 period.
+*   He consolidated absolute power.
+*   He basically won the war on gangs.
+*   He successfully re-elected himself for the 2024 - 2029 period.
 
 However, he had only one problem: _It’s the Economy, Stupid!_
 

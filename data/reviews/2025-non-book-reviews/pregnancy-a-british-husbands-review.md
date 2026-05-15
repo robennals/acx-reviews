@@ -89,8 +89,8 @@ And the classes did prepare us for the 36-week hospital appointment, when the mi
 
 Then we were posed a couple of questions in a very leading way.
 
-> *   Skin-to-skin is great for baby’s health, and brain development, and breastfeeding, and mother’s recovery: do you want skin-to-skin? Yes/no.
-> *   In the old days, we used to cut the cord immediately, but now we know delayed cord clamping gives baby a lot more blood and iron: do you want delayed cord clamping?
+*   Skin-to-skin is great for baby’s health, and brain development, and breastfeeding, and mother’s recovery: do you want skin-to-skin? Yes/no.
+*   In the old days, we used to cut the cord immediately, but now we know delayed cord clamping gives baby a lot more blood and iron: do you want delayed cord clamping?
 
 Actually I didn’t mind, because we were pushed in the right direction on both these questions. Delayed cord clamping carries a higher jaundice risk,[7] which neither the baby classes nor midwife mentioned, but I thought this was an acceptable trade-off for the blood and iron benefits. And skin-to-skin is widely accepted as a good idea, with no real downsides (one of the useful things the infant feeding teacher taught us, to be fair to her). We were told this needs at least an hour, soon after birth. Our friend in New York was told _two_ hours. In Korea however, the baby is often taken away to a care unit, and barely sees the mum at all. If I were to sum up the healthcare systems, I would say that Korea is more mother-focused, while the UK is more baby-focused.
 

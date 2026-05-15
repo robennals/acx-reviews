@@ -28,12 +28,12 @@ The biggest influences on culture aren't the ones that we debate, but the ones t
 
 Consider how many times you've heard people use the following idioms and aphorisms without consciously realizing that they're quoting Jesus:
 
-> *   Turn the other cheek
-> *   Go the extra mile
-> *   Salt of the earth (describing a person who is humble, dependable, and honest)
-> *   Judge not, lest ye be judged
-> *   (Don't throw your) pearls before swine
-> *   (Beware of) wolves in sheep's clothing
+*   Turn the other cheek
+*   Go the extra mile
+*   Salt of the earth (describing a person who is humble, dependable, and honest)
+*   Judge not, lest ye be judged
+*   (Don't throw your) pearls before swine
+*   (Beware of) wolves in sheep's clothing
 
 And that’s without even touching the obviously-Christian material: “Blessed are the meek, for they shall inherit the earth.” “Store up for yourselves treasures in heaven.” “You are the light of the world.” “You cannot serve both God and money.” And, of course, the _Our Father In Heaven…_, which has been recited aloud by millions every day for nearly two millennia: “Give us this day our daily bread.” “Forgive us our debts as we forgive our debtors.” “Lead us not into temptation.”
 

@@ -28,7 +28,7 @@ Part self-help book, part business advice book, and part ‘lifestyle design’ 
 
 > “Carpe Diem, seize the day boys, make your lives extraordinary.”
 >
-> - [Dead Poets Society](https://www.goodreads.com/work/quotes/1207563-dead-poets-society)
+- [Dead Poets Society](https://www.goodreads.com/work/quotes/1207563-dead-poets-society)
 
 ## Motivation
 
@@ -54,11 +54,11 @@ Granted, there are some logistical problems to solve (like making enough money t
 
 There are a few key concepts and terms Ferriss uses throughout the book that we’ll cover here for ease of reference:
 
-> *   **New Rich**: The people like Ferriss, who live like million/billionaires (travel, luxury, adventure, etc.) without actually having that kind of money.
-> *   **Mini-retirement**: A one-to-six month period wherein one travels to a distant location and enjoys oneself, as free as possible from the constraints and stresses of modern work. Defined in opposition to a Binge Vacation, a one-to-two week whirlwind of travel in which one exhausts oneself trying to make the most of their PTO (Paid Time Off, e.g. vacation days).
-> *   **Muse**: The product one sells as an entrepreneur to fund one’s adventures.
-> *   **Dreamline**: A timeline of the next six months, focused on what you dream of doing, how much it costs, and how much money it’ll take you to accomplish it.
-> *   **Geoarbitrage**: Using currency, time zones, and other differences between global locations to achieve one’s goals cheaply.
+*   **New Rich**: The people like Ferriss, who live like million/billionaires (travel, luxury, adventure, etc.) without actually having that kind of money.
+*   **Mini-retirement**: A one-to-six month period wherein one travels to a distant location and enjoys oneself, as free as possible from the constraints and stresses of modern work. Defined in opposition to a Binge Vacation, a one-to-two week whirlwind of travel in which one exhausts oneself trying to make the most of their PTO (Paid Time Off, e.g. vacation days).
+*   **Muse**: The product one sells as an entrepreneur to fund one’s adventures.
+*   **Dreamline**: A timeline of the next six months, focused on what you dream of doing, how much it costs, and how much money it’ll take you to accomplish it.
+*   **Geoarbitrage**: Using currency, time zones, and other differences between global locations to achieve one’s goals cheaply.
 
 ## What’s the Deal?
 
@@ -74,9 +74,9 @@ Ferriss makes the case that most people are sleepwalking through life. They’ve
 
 He names several traps people fall into:
 
-> *   **Work for work** (W4W): working for the sake of being busy, rather than actually accomplishing important goals.
-> *   **Consumerism**: believing that having _things_ will make you happy; Ferriss is big on _experiences_ as being the primary driver of happiness.
-> *   **Holding back out of fear**: being afraid is natural, Ferriss argues, but letting that fear stop you from achieving your dreams will impoverish your life.
+*   **Work for work** (W4W): working for the sake of being busy, rather than actually accomplishing important goals.
+*   **Consumerism**: believing that having _things_ will make you happy; Ferriss is big on _experiences_ as being the primary driver of happiness.
+*   **Holding back out of fear**: being afraid is natural, Ferriss argues, but letting that fear stop you from achieving your dreams will impoverish your life.
 
 What he advises you to do instead is define what you actually want your life to look like. This is the brainstorming part of lifestyle design - if you could live the way you want, what does that look like? Is it a life of travel and adventure, or one of quiet contemplation in a cabin in the woods?
 
@@ -100,9 +100,9 @@ Instead of efficiently completing a lot of meaningless busywork, Ferriss tells y
 
 Examples:
 
-> *   80% of sales come from 20% of customers; eliminate the rest and focus on the big buyers
-> *   80% of your problems come from 20% of your life; eliminate that part of your life
-> *   80% of your happiness comes from 20% of your life; focus on the that 20% and eliminate as much of the rest as you can
+*   80% of sales come from 20% of customers; eliminate the rest and focus on the big buyers
+*   80% of your problems come from 20% of your life; eliminate that part of your life
+*   80% of your happiness comes from 20% of your life; focus on the that 20% and eliminate as much of the rest as you can
 
 Ferriss also highlights [Parkinson’s Law](https://en.wikipedia.org/wiki/Parkinson%27s_law), which is that work expands to fill the time allotted to it.
 
@@ -224,9 +224,9 @@ Keeping in mind that the book was written in 2007 (so it uses 2007 prices), Ferr
 
 For traveling cheaply, the book compiles a large number of websites, resources, and pieces of advice, including bits like:
 
-> *   Stay in a hostel for a few days before renting an apartment for a few months, and never rent an apartment for more than a month unless you’ve physically been in it
-> *   Pack extremely light and buy whatever you need while there; you often need far fewer physical items than you think you do
-> *   Buy flights either months in advance or at the very last minute - the value of an empty seat to an airline is $0, so they often go for cheap at the last second
+*   Stay in a hostel for a few days before renting an apartment for a few months, and never rent an apartment for more than a month unless you’ve physically been in it
+*   Pack extremely light and buy whatever you need while there; you often need far fewer physical items than you think you do
+*   Buy flights either months in advance or at the very last minute - the value of an empty seat to an airline is $0, so they often go for cheap at the last second
 
 Broadly speaking, I’d say that Ferriss convinced me that it’s possible - not necessarily _easy_, but possible - to travel cheaply. Cheap travel is an entire subculture of its own, with a variety of assorted skills to learn. If you’re willing to put in the work, it’s doable.
 
@@ -242,7 +242,7 @@ That’s a trickier question. There are parts of the book that absolutely apply 
 
 > I believe that success can be measured in the number of uncomfortable conversations you’re willing to have.
 >
-> - Tim Ferriss
+- Tim Ferriss
 
 Ferriss makes the point that few people attempt to do truly ambitious things, so there’s often, counterintuitively, _less_ competition for doing them than for more ‘ordinary’ accomplishments. [Fifty-seven thousand](https://college.harvard.edu/admissions/admissions-statistics) people applied to Harvard last year - how many tried to get in touch with Satya Nadella, CEO of Microsoft? How many people tried to climb Mt. Everest, or pilot a hot-air balloon around the world?
 
@@ -304,7 +304,7 @@ There’s a parable Ferriss tells towards the end of the book, about a businessm
 >  "Millions, senor? Then what?"  
 >  "Then you would retire and move to a small coastal fishing village, where you would sleep late, fish a little, play with your kids, take a siesta with your wife, and stroll to the village in the evenings where you could sip wine and play your guitar with your amigos..."_
 >
-> - Tim Ferriss, _The Four Hour Workweek, p.252-253_
+- Tim Ferriss, _The Four Hour Workweek, p.252-253_
 
 The point of the parable isn’t - in my eyes - that the businessman is _wrong_. He’s not.
 

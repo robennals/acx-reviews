@@ -69,17 +69,17 @@ Much in the way that a well-meaning parent might tell their child to not dream a
 
 So the book basically goes as follows.
 
-> *   We had great science fiction style aspirations in the 50s
+*   We had great science fiction style aspirations in the 50s
 >
-> *   This was also true of those people bent on making the science fiction into fact
+*   This was also true of those people bent on making the science fiction into fact
 >
-> *   In steps the high hand of overly harsh regulations, government overreach and general painful bureaucracy - some endemic within institutions and some extrinsic coming from elite consensus
+*   In steps the high hand of overly harsh regulations, government overreach and general painful bureaucracy - some endemic within institutions and some extrinsic coming from elite consensus
 >
-> *   We become highly risk averse across most things
+*   We become highly risk averse across most things
 >
-> *   We don't make the science fiction aspirations come true
+*   We don't make the science fiction aspirations come true
 >
-> *   And this negative feedback loop makes us fall into reducing our current aspirations as well, kicking off the loop again and making it a self-fulfilling prophesy
+*   And this negative feedback loop makes us fall into reducing our current aspirations as well, kicking off the loop again and making it a self-fulfilling prophesy
 
 The beginning is my favourite chart to start with, showing where we hit a ceiling in the airline cruising speeds. This is the old adage about why we don't have Concorde anymore. This is also the launching pad for Josh's litany of issues around why we haven't been progressing.
 

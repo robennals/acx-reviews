@@ -40,7 +40,7 @@ Here is how he describes Napoleon guiding the course of a key battle:
 
 > _He fell back into that artificial realm of imaginary greatness, and again—as a horse walking a treadmill thinks it is doing something for itself—he submissively fulfilled the cruel, sad, gloomy, and inhuman role predestined for him…Never to the end of his life could he understand goodness, beauty, or truth, or the significance of his actions which were too contrary to goodness and truth, too remote from everything human, for him ever to be able to grasp their meaning. He could not disavow his actions, belauded as they were by half the world, and so he had to repudiate truth, goodness, and all humanity._
 >
-> *   Book 10, Chapter 38
+*   Book 10, Chapter 38
 
 War is hell and Napoleon is the devil. His greatness is imaginary, he knows nothing of the good, and worst of all, he is a slave to public opinion.
 
@@ -48,7 +48,7 @@ So if not great men, then what is the cause of history?
 
 > _Nothing is the cause. All this is only the coincidence of conditions in which all vital organic and elemental events occur…In historic events the so-called great men are labels giving names to events, and like labels they have but the smallest connection with the event itself. Every act of theirs, which appears to them an act of their own will, is in an historical sense involuntary and is related to the whole course of history and predestined from eternity._
 >
-> *   Book 9, Chapter 1
+*   Book 9, Chapter 1
 
 History isn't determined by specific actions taken by great men. It’s a continuous sea of interconnected causality that we can’t ever hope to name or understand.[[64]](#ftnt64)
 
@@ -56,7 +56,7 @@ Tolstoy presents the Russian General Kutuzov as a contrast to Napoleon. Where Na
 
 > _By long years of military experience [Kutuzov] knew, and with the wisdom of age understood, that it is impossible for one man to direct hundreds of thousands of others struggling with death, and he knew that the result of a battle is decided not by the orders of a commander in chief, nor the place where the troops are stationed, nor by the number of cannon or of slaughtered men, but by that intangible force called the spirit of the army, and he watched this force and guided it in as far as that was in his power._
 >
-> *   Book 10, Chapter 35
+*   Book 10, Chapter 35
 
 Kutuzov is the opposite of a hero. He’s hardly even an individual, being more like an avatar of his people.[[65]](#ftnt65) Napoleon isn’t defeated by a single man, he is defeated by Russia itself.
 
@@ -71,13 +71,13 @@ There are two main things that Tolstoy wants us to know about Andrei: he is good
 
 > _[Andrei] was a very handsome young man, of medium height, with firm, clearcut features. Everything about him, from his weary, bored expression to his quiet, measured step…among all these faces that he found so tedious, none seemed to bore him so much as that of his pretty wife._
 >
-> *   Book 1, Chapter 4
+*   Book 1, Chapter 4
 
 By contrast, Pierre is fat and curious:
 
 > _One of the next arrivals was a stout, heavily built young man with close-cropped hair [and] spectacles…Though he was certainly rather bigger than the other men in the room, [the hostess’s] anxiety could only have reference to the clever though shy, but observant and natural, expression which distinguished him from everyone else in that drawing room._
 >
-> *   Book 1, Chapter 3
+*   Book 1, Chapter 3
 
 Andrei is driven by an obsession with glory. Pierre is driven by his quest for knowledge. Andrei has good social skills. Pierre is an embarrassment at parties.[[66]](#ftnt66) When they try to reform their peasants Andrei succeeds and Pierre is fooled into believing he has succeeded.[[67]](#ftnt67) And of course, Natásha, the central female figure in the book, falls in love with Andrei when she has a choice.
 
@@ -85,7 +85,7 @@ Andrei isn’t exactly evil, but he seems like he might be one his way there. On
 
 > _“Never marry till you can say to yourself that you have done all you are capable of, and until you have ceased to love the woman of your choice and have seen her plainly as she is, or else you will make a cruel and irrevocable mistake.”_
 >
-> *   Book 1, Chapter 8
+*   Book 1, Chapter 8
 
 Bored with his marriage, and feeling that he hasn’t done everything he is capable of, Andrei leaves home to fight Napoleon. His first encounter with the enemy is at the Battle of Austerlitz, where Napoleon defeats the combined Austrian and Russian forces–paving the way for his invasion of Russia.
 
@@ -95,7 +95,7 @@ It is Napoleon who sees him and orders him to be saved, but Tolstoy finds a way 
 
 > _[Andrei’s] head was burning, he felt himself bleeding to death, and he saw above him the remote, lofty, and everlasting sky. He knew it was Napoleon—his hero—but at that moment Napoleon seemed to him such a small, insignificant creature compared with what was passing now between himself and that lofty infinite sky with the clouds flying over it._
 >
-> *   Book 3, Chapter 19
+*   Book 3, Chapter 19
 
 That is, Andrei, on the verge of death, looks up at the sky and experiences the divine. But his perfect moment is interrupted by “a small, insignificant creature”.
 
@@ -103,7 +103,7 @@ After he recuperates, Andrei adopts a new philosophy: living for himself and his
 
 > _"If there is a God and future life, there is truth and good, and man’s highest happiness consists in striving to attain them. We must live, we must love, and we must believe that we live not only today on this scrap of earth, but have lived and shall live forever, there, in the Whole," said Pierre, and he pointed to the sky…[Andrei] looked up at the sky to which Pierre had pointed, and for the first time since Austerlitz saw that high, everlasting sky he had seen while lying on that battlefield; and something that had long been slumbering, something that was best within him, suddenly awoke, joyful and youthful, in his soul._
 >
-> *   Book 5, Chapter 12
+*   Book 5, Chapter 12
 
 The sky has been a symbol of the divine for a long time, but not just any divine. It’s the masculine divine, the sky-father (as opposed to the earth-mother). When you reach for the sky, you are doing something great, but it’s not a humble, wise kind of greatness. It’s a kind of foolish autistic greatness like building a rocket to mars or a brick tower to heaven.
 
@@ -113,19 +113,19 @@ Thus he fights in his second great battle, the Battle of Borodino, deep in the h
 
 > _“...[W]e shall meet tomorrow, to murder one another; they kill and maim tens of thousands, and then have thanksgiving services for having killed so many people (they even exaggerate the number), and they announce a victory, supposing that the more people they have killed the greater their achievement. How does God above look at them and hear them?" exclaimed Prince Andrei in a shrill, piercing voice. "Ah, my friend, it has of late become hard for me to live. I see that I have begun to understand too much."_
 >
-> *   Book 10, Chapter 25
+*   Book 10, Chapter 25
 
 Although the Russians don’t lose as badly this time, Andrei is gravely injured again. Again he undergoes a spiritual transformation. This time he finds a love more perfect than love for his family.
 
 > _"Yes—love," he thought again quite clearly. "But not love which loves for something, for some quality, for some purpose, or for some reason, but the love which I—while dying—first experienced when I saw my enemy and yet loved him. I experienced that feeling of love which is the very essence of the soul and does not require an object. Now again I feel that bliss. To love one's neighbors, to love one’s enemies, to love everything, to love God in all His manifestations. It is possible to love someone dear to you with human love, but an enemy can only be loved by divine love.”_
 >
-> *   Book 11, Chapter 32
+*   Book 11, Chapter 32
 
 This universal love allows him to face death without fear.
 
 > _During the hours of solitude, suffering, and partial delirium he spent after he was wounded, the more deeply he penetrated into the new principle of eternal love revealed to him, the more he unconsciously detached himself from earthly life. To love everything and everybody and always to sacrifice oneself for love meant not to love anyone, not to live this earthly life. And the more imbued he became with that principle of love, the more he renounced life and the more completely he destroyed that dreadful barrier which—in the absence of such love—stands between life and death…_
 >
-> *   Book 12, Chapter 16
+*   Book 12, Chapter 16
 
 Like Napoleon, Andrei sets off in a quest for glory. But despite his talents, Andrei does not find glory in war. He loses, he is injured. And it is these losses that ensure that he doesn’t follow the path of evil.
 
@@ -142,7 +142,7 @@ Hélène is the greatest beauty in town, and she has no real interest in Pierre 
 
 > _He felt ashamed; he felt that he was occupying someone else’s place here beside Hélène. “This happiness is not for you,” some inner voice whispered to him. “This happiness is for those who have not in them what there is in you._
 >
-> *   Book 3, Chapter 2
+*   Book 3, Chapter 2
 
 Hélène covets his wealth and manipulates him into an engagement. Being the clever man that he is, he ignores his gut and lets it happen. But as soon as they get married, Hélène goes ice cold and won’t even touch him. Even his servants pity him.[[73]](#ftnt73) 
 
@@ -152,7 +152,7 @@ So when Natásha falls for Andrei, Pierre becomes completely depressed, abandons
 
 > _After Prince Andrei’s engagement to Natásha, Pierre without any apparent cause suddenly felt it impossible to go on…perfecting his inner man, to which he had devoted himself with such ardor—all the zest of such a life vanished…He had the unfortunate capacity many men, especially Russians, have of seeing and believing in the possibility of goodness and truth, but of seeing the evil and falsehood of life too clearly to be able to take a serious part in it. Every sphere of work was connected, in his eyes, with evil and deception. Whatever he tried to be, whatever he engaged in, the evil and falsehood of it repulsed him and blocked every path of activity._
 >
-> *   Book 8, Chapter 1
+*   Book 8, Chapter 1
 
 Eventually, he goes insane and discovers, using some dubious numerology, that everything is happening for a reason and that he is destined for greatness.[[76]](#ftnt76) So naturally he decides to kill Napoleon. First, he goes to the front lines and stumbles around ineffectually during the Battle of Borodino. Then, when Napoleon takes Moscow, Pierre returns and tries to assassinate him.
 
@@ -160,35 +160,35 @@ Being Pierre, he fails miserably, becomes a prisoner of war, marches across Russ
 
 > _While imprisoned in the shed Pierre had learned not with his intellect but with his whole being, by life itself, that man is created for happiness, that happiness is within him, in the satisfaction of simple human needs, and that all unhappiness arises not from privation but from superfluity. And now during these last three weeks of the march he had learned still another new, consolatory truth—that nothing in this world is terrible. He had learned that as there is no condition in which man can be happy and entirely free, so there is no condition in which he need be unhappy and lack freedom. He learned that suffering and freedom have their limits and that those limits are very near together; that the person in a bed of roses with one crumpled petal suffered as keenly as he now, sleeping on the bare damp earth with one side growing chilled while the other was warming; and that when he had put on tight dancing shoes he had suffered just as he did now when he walked with bare feet that were covered with sores—his footgear having long since fallen to pieces. He discovered that when he had married his wife—of his own free will as it had seemed to him—he had been no more free than now when they locked him up at night in a stable. Of all that he himself subsequently termed his sufferings, but which at the time he scarcely felt, the worst was the state of his bare, raw, and scab-covered feet._
 >
-> *   Book 14, Chapter 12
+*   Book 14, Chapter 12
 
 Pierre learns wisdom. So what does he do? Basically, he stops trying to argue with people.
 
 > _There was a new feature in Pierre’s relations…which gained for him the general good will. This was his acknowledgment of the impossibility of changing a man’s convictions by words, and his recognition of the possibility of everyone thinking, feeling, and seeing things each from his own point of view. This legitimate peculiarity of each individual which used to excite and irritate Pierre now became a basis of the sympathy he felt for, and the interest he took in, other people. The difference, and sometimes complete contradiction, between men’s opinions and their lives, and between one man and another, pleased him and drew from him an amused and gentle smile._
 >
-> *   Book 15, Chapter 13
+*   Book 15, Chapter 13
 
 Now that he has stopped trying to change other people, he is finally worthy. Meanwhile, Hélène dies trying to abort another man’s child and Andrei has dumped Natásha. Pierre is her only option so they get married and live happily ever after.
 
 So while Tolstoy doesn’t give us a recipe for greatness, Pierre’s story does give us a recipe for finding happiness:
 
-> *   Be curious
-> *   Do a lot of dumb shit
-> *   Suffer
-> *   Stop doing dumb shit
-> *   Get married
+*   Be curious
+*   Do a lot of dumb shit
+*   Suffer
+*   Stop doing dumb shit
+*   Get married
 
 And what does happiness look like? Well, it mainly consists of telling your wife about all the dumb shit you’ve dumb.
 
 > _Now that he was telling it all to Natásha he experienced that pleasure which a man has when women listen to him—not clever women who when listening either try to remember what they hear to enrich their minds and when opportunity offers to retell it, or who wish to adopt it to some thought of their own and promptly contribute their own clever comments prepared in their little mental workshop—but the pleasure given by real women gifted with a capacity to select and absorb the very best a man shows of himself. Natásha without knowing it was all attention: she did not lose a word, no single quiver in Pierre's voice, no look, no twitch of a muscle in his face, nor a single gesture. She caught the unfinished word in its flight and took it straight into her open heart, divining the secret meaning of all Pierre's mental travail…“People speak of misfortunes and sufferings,” remarked Pierre, “but if at this moment I were asked: "Would you rather be what you were before you were taken prisoner, or go through all this again?" then for heaven's sake let me again have captivity and horseflesh! We imagine that when we are thrown out of our usual ruts all is lost, but it is only then that what is new and good begins. While there is life there is happiness._
 >
-> *   Book 15, Chapter 17
+*   Book 15, Chapter 17
 
 As for Natásha, she becomes completely absorbed in her role as a wife and mother.
 
 > _The subject which wholly engrossed Natásha's attention was her family: that is, her husband whom she had to keep so that he should belong entirely to her and to the home, and the children whom she had to bear, bring into the world, nurse, and bring up. And the deeper she penetrated, not with her mind only but with her whole soul, her whole being, into the subject that absorbed her, the larger did that subject grow and the weaker and more inadequate did her powers appear, so that she concentrated them wholly on that one thing and yet was unable to accomplish all that she considered necessary. There were then as now conversations and discussions about women's rights, the relations of husband and wife and their freedom and rights, though these themes were not yet termed questions as they are now; but these topics were not merely uninteresting to Natásha, she positively did not understand them._
 >
-> *   First Epilogue, Chapter 10
+*   First Epilogue, Chapter 10
 >
 > 5.  **Epilogue**
 
@@ -202,7 +202,7 @@ They even wrote novels criticizing each other. For example, Tolstoy’s _The Kre
 
 > _Let us stop believing that carnal love is high and noble and understand that any end worth our pursuit – in service of humanity, our homeland, science, art, let alone God – any end, so long as we may count it worth our pursuit, is not attained by joining ourselves to the objects of our carnal love in marriage or outside it…_
 >
-> *   _The Kreutzer Sonata_
+*   _The Kreutzer Sonata_
 
 Sofia wrote a novel in reply, titled "Whose Fault?"). It was banned because it was too critical of her husband, who was by then a national hero.
 
@@ -212,13 +212,13 @@ But Sofia’s theory of why their marriage broke down was that he ultimately cho
 
 > _All the things that he preaches for the happiness of humanity only complicate life to the point where it becomes harder and harder for me to live…His sermons on love and goodness have made him indifferent to his family, and mean the intrusion of all kinds of riff-raff into our family life. And his (purely verbal) renunciation of worldly goods has made him endlessly critical and disapproving of others._
 >
-> *   Diary of Sofia Tolstaya
+*   Diary of Sofia Tolstaya
 
 Or, in the words of another famous Russian author who may have been describing Tolstoy:
 
 > _The more I love humanity in general the less I love man in particular._
 >
-> *   Fyodor Dostoevsky, The Brothers Karamazov
+*   Fyodor Dostoevsky, The Brothers Karamazov
 
 Of course, we saw similar ideas expressed in the character of Andrei–both the ambivalence to marriage and the emphasis on divine love. But this perspective really took hold after Tolstoy started reading Schopenhauer, who he calls a “genius among men”.[[78]](#ftnt78) Schopenhauer was famously critical of family happiness, being one of the first known proponents of anti-natalism, the theory that it's morally wrong to have children. Contrast this with his take on Nietzsche, that famous advocate of great men. Tolstoy called him an “abnormal German, suffering from power mania”.[[79]](#ftnt79) 
 

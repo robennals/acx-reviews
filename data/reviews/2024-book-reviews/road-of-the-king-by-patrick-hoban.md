@@ -33,11 +33,11 @@ Before we talk about the Yu-Gi-Oh! Trading Card Game in particular, we must firs
 
 But who are Timmy, Johnny and Spike? What motivates them? Why do they play the game?
 
-> *   Timmy is the power gamer. He wants to win in an impressive way with powerful cards and dramatic plays. Timmy won’t be satisfied with a win he considers lame. He is often characterized by a friendly attitude.
+*   Timmy is the power gamer. He wants to win in an impressive way with powerful cards and dramatic plays. Timmy won’t be satisfied with a win he considers lame. He is often characterized by a friendly attitude.
 >
-> *   Johnny is the combo player. He wants to express his creativity through innovative strategies and unique interactions. Johnny won’t be satisfied unless his creative idea pays off, but doesn’t mind taking losses along the way.
+*   Johnny is the combo player. He wants to express his creativity through innovative strategies and unique interactions. Johnny won’t be satisfied unless his creative idea pays off, but doesn’t mind taking losses along the way.
 >
-> *   Spike is the tournament player. He wants to win. He won’t be satisfied with a loss. He can be ruthless in this pursuit.
+*   Spike is the tournament player. He wants to win. He won’t be satisfied with a loss. He can be ruthless in this pursuit.
 
 ![](https://acximages.ennals.org/images/2024-book-reviews/3c83099e5dbb369c.png)![](https://acximages.ennals.org/images/2024-book-reviews/0cd8894da42447f1.png)![](https://acximages.ennals.org/images/2024-book-reviews/9b018bcb20c78e85.png)
 
@@ -171,21 +171,21 @@ Of course, in order to do this well, Hoban warns, one must have an intimate know
 
 The path to victory is to gain every possible advantage. Over the course of a long tournament, these little accruals of probability will add up and separate the top players from those that bubble out. Any small increase in victory which is left on the table is a waste and a tragedy. In that spirit, here are some of Hoban’s recommendations to milk valuable information out of your unsuspecting opponent:
 
-> *   Ask them about their record. People are all too happy to reveal their win/loss ratio as well as what beat them. Knowledge of what they lost to can help you to guess what deck they’re using before they play a single card.
+*   Ask them about their record. People are all too happy to reveal their win/loss ratio as well as what beat them. Knowledge of what they lost to can help you to guess what deck they’re using before they play a single card.
 >
-> *   Create a mutual enemy. If they express disdain for a particular card used in one of the top decks, then you can guess they aren’t personally using that deck. This has the added benefit of building rapport and good will that can be spent later for an advantage.
+*   Create a mutual enemy. If they express disdain for a particular card used in one of the top decks, then you can guess they aren’t personally using that deck. This has the added benefit of building rapport and good will that can be spent later for an advantage.
 >
-> *   Phish some more with the help of foreign cards. It’s within the bounds of the rules to use foreign language cards so long as you can provide an English version of the card should one be requested. Under normal circumstances, players will ask to look at your card, read it, and hand it back to you. However, a foreign card does not grant them this luxury. They now must ask to see your English copy. This provides an opportunity for exploitation. You can helpfully volunteer to answer any question they might have in lieu of wasting the time hunting for your English copy. They might seem petulant if they turn down this friendly favor and outright ask for a particular piece of information, giving you added knowledge of what they’re considering.
+*   Phish some more with the help of foreign cards. It’s within the bounds of the rules to use foreign language cards so long as you can provide an English version of the card should one be requested. Under normal circumstances, players will ask to look at your card, read it, and hand it back to you. However, a foreign card does not grant them this luxury. They now must ask to see your English copy. This provides an opportunity for exploitation. You can helpfully volunteer to answer any question they might have in lieu of wasting the time hunting for your English copy. They might seem petulant if they turn down this friendly favor and outright ask for a particular piece of information, giving you added knowledge of what they’re considering.
 >
 > _“If they ask us a specific question about it, then we can infer from that the cards that they might have. We can learn to hear things like, “I was wondering if it could be targeted” as “I have a card that targets.” That is free information we wouldn’t have been able to get if they had just picked up the card and read it!”_
 >
-> *   Abuse the helpful nature of your fellow man.
+*   Abuse the helpful nature of your fellow man.
 >
 > _“He found a way to be able to figure out who was playing Cairngorgon and who wasn’t. Justin realized that we could pick up our own Extra Deck and stare at a card for a few seconds, and then ask the opponent, “Do you have an English Cairngorgon I could read?””_ 
 >
 > Hoban’s circle knew that most opponent’s first reaction to a friendly request would be an obliging hand. So why not abuse this fact? His team needed to know if their opponents were using a particular card in order to evaluate the relative safety of an otherwise strong play. This knowledge would turn a coin flip into an assured victory. Throughout the entire tournament in which they performed this ploy, all players helpfully obliged them, many sealing their own doom in the process. The only one who managed to avoid doing so flat out forgot they were using the card and instead checked their trade binder rather than the cards they were using to play. Hoban’s team meanwhile leaked no useful information with this play, as they were not even using the card to begin with.
 >
-> *   Phish, phish, phish! Make bold assertions about what your opponent is planning. Their responses will often reveal whether or not you were right. Puzzled looks, confused wonderment, and forced blankness all yield their own information theoretic advantage if only you can separate the signal from the noise.
+*   Phish, phish, phish! Make bold assertions about what your opponent is planning. Their responses will often reveal whether or not you were right. Puzzled looks, confused wonderment, and forced blankness all yield their own information theoretic advantage if only you can separate the signal from the noise.
 >
 > 9.  ## The Art of Persuasion or How I Learned to Stop Caring and Love the Dark Arts
 >     

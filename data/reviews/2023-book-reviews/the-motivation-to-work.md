@@ -60,9 +60,9 @@ One last point before heading back into the review, Herzberg did not work alone.
 
 Let’s start with a list of guaranteed attitude killers, ways to create dissatisfaction, ways to fail on the Hygiene side of the ledger. Recall that Hygiene is all about context or environment. The distractions that the gossipers love to bitch about. The stuff that sucks the life out of otherwise good employees. Here are the top three
 
-> *   Enforce policies that lack fairness.
-> *   Hire and promote incompetent managers that also have poor interpersonal skills.
-> *   Put a confusing salary structure in place.
+*   Enforce policies that lack fairness.
+*   Hire and promote incompetent managers that also have poor interpersonal skills.
+*   Put a confusing salary structure in place.
 
 Suck at these Hygiene factors and your employees will be deeply dissatisfied, they’ll consider you unfair, and per Herzberg, they’ll conclude that you _lack integrity_. Since no ethical employer wants to be unfair and/or be thought of as lacking integrity, these Hygiene problems are obviously worth fixing. However, we need to attack these issues with eyes wide open. With the acceptance that the payoff for our hard work on the Hygiene side of the equation will be, at best, employees that are NOT DISsatisfied.
 

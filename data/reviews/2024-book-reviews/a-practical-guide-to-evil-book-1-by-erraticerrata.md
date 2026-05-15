@@ -23,15 +23,15 @@ How could I try to sell ACX subscribers on reading_A Practical Guide to Evil_ (P
 
 Well, it’s got a plucky teenage bisexual protagonist making morally dubious choices in a fantastical world with a diverse cast of loveable, likable, and so-hateable-you-love-them characters.  A magic system that’s actually consistent and legible, hilarious dialogue, and frenetic fight sequences…
 
-> *   _No, come on, this isn’t Tumblr, I can do better._
+*   _No, come on, this isn’t Tumblr, I can do better._
 
 While superficially it’s a young adult fantasy epic about Evil triumphing over Good, it takes its world seriously and manages to create a multilayered masterpiece.  Like _A Game of Thrones_, the expansive cast and detailed backstories presented seem like only a glimpse of the world the author created; the details are presented in the order which makes for a compelling story, but the characters and world develop together in ways that are deeply compelling.
 
-> *   _That might work on GoodReads, but I think this series deserves better…_
+*   _That might work on GoodReads, but I think this series deserves better…_
 
 What would you do if you knew you were in a simulation?  As in, your existence is predicated on beings from outside your Reality created you for their own purposes, and your position and continued existence depend on you and the people you interact with doing the bidding of the simulators, but they won't tell you any of the "rules" and the objectives of the simulation are seemingly opaque…
 
-> *   _Oh, that framing might be catnip to ACXers, but I only remember that theme appearing in later books; I wonder if it was present at the start of the series?_  
+*   _Oh, that framing might be catnip to ACXers, but I only remember that theme appearing in later books; I wonder if it was present at the start of the series?_  
 >
 > _**In the beginning, there were only the Gods.**_
 >

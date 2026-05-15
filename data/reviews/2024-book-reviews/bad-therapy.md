@@ -192,11 +192,11 @@ and the marination…
 
 > _Social-emotional exercises typically invite kids to marinate in a time when they were sad, scared, or vulnerable. One of the most popular social-emotional curricula, Second Step, for instance, instructs eighth graders to divulge the following:_
 >
-> *   _“Have you ever stayed overnight in the hospital?”_
-> *   _“Has someone close to you died?”_
-> *   _“Have you ever lost a championship game or important competition?”_
-> *   _“Do you attend religious services?”_
-> *   _“Have you ever worried about the safety of a loved one?”_
+*   _“Have you ever stayed overnight in the hospital?”_
+*   _“Has someone close to you died?”_
+*   _“Have you ever lost a championship game or important competition?”_
+*   _“Do you attend religious services?”_
+*   _“Have you ever worried about the safety of a loved one?”_
 
 with yet one more pseudo-therapeutic aspect—doing it while part of a group:
 

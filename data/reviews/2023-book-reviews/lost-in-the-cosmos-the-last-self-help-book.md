@@ -322,4 +322,4 @@ Percy is Catholic. He never gives a clear “answer” in his book, he merely of
 
 > _Do you read? Do you read? Are you in trouble? How did you get in trouble? If you are in trouble, have you sought help? If you did, did help come? If it did, did you accept it? Are you out of trouble? What is the character of your consciousness? Are you conscious? Do you have a self? Do you know who you are? Do you know what you are doing? Do you love? Do you know how to love? Are you loved? Do you hate? Do you read me? Come back. Repeat. Come back. Come back. Come back._
 >
-> *   _From the “Space Odyssey” chapters. The first message received from extraterrestrial intelligences._
+*   _From the “Space Odyssey” chapters. The first message received from extraterrestrial intelligences._

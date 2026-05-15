@@ -88,9 +88,9 @@ But there’s no avoiding an ugly truth: I am quite confident that, had I lived 
 
 Although I may have been uneasy about the means employed, I probably would have been convinced by the same arguments that convinced others, including top scientists and progressive politicians:
 
-> *    “These people don’t really want to have kids anyway, and couldn’t properly take care of them if they did.”
-> *    “A glorious future is worth a temporary sacrifice”[[6]](#ftnt6)
-> *    “[Three generations of imbeciles is enough](https://en.wikipedia.org/wiki/Buck_v._Bell)”
+*    “These people don’t really want to have kids anyway, and couldn’t properly take care of them if they did.”
+*    “A glorious future is worth a temporary sacrifice”[[6]](#ftnt6)
+*    “[Three generations of imbeciles is enough](https://en.wikipedia.org/wiki/Buck_v._Bell)”
 
 Therefore, I cannot really blame David Starr Jordan for believing in, and advocating for, eugenics as a means to improve humanity. His main fault here was overlooking the tragic cost of forced sterilizations, which was easy to ignore once he categorized certain humans as “unfit”.
 

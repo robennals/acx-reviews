@@ -29,10 +29,10 @@ After losing the second world war, Germany got occupied by the victors. With the
 
 The reformers that were now in charge were, unlike Honecker, willing to admit the problems of their economy and open to discuss solutions, among which the following measures featured:
 
-> *   Abolishing central planning, price-fixing, and giving more autonomy to the directors of the state-owned enterprises.
-> *   Promoting people to high management positions based on competence, instead of ideological loyalty.
-> *   No longer striving for economic autarchy.
-> *   Allowing joint ventures with western companies.
+*   Abolishing central planning, price-fixing, and giving more autonomy to the directors of the state-owned enterprises.
+*   Promoting people to high management positions based on competence, instead of ideological loyalty.
+*   No longer striving for economic autarchy.
+*   Allowing joint ventures with western companies.
 
 In the words of Minister for the Economy Christa Luft, the reformers wanted a decentralized “social-ecological market economy”. While they were willing to allow private property, they did not want to relinquish the state’s/the people’s property: it should either remain in the state’s hand or ownership of the enterprises should be transferred to their respective employees. In any case, the socialists could not actually implement any of their ideas themselves. It took the government until February 1990 to prepare a plan for the economic transition, which was supposed to be completed by 1993[[39]](#ftnt39). In the same month, the West-German chancellor Kohl (from the conservative CDU) proposed a plan for a monetary and economic union. In the East’s free elections one month later, the conservatives won and took up the plan of their Western counterparts. These events rendered the ideas of the reformers, who had only garnered 16% of the vote, obsolete.
 
@@ -128,9 +128,9 @@ Somehow, all of this was unexpected for the people at the time. The people’s p
 
 So what went wrong? And who is to be blamed?
 
-> *   The bureaucrats in the GDR with their impossible task of centrally managing an entire economy?
-> *   The politicians with their impossible task of setting an exchange rate that must appease their constituents without distorting monetary realities?
-> *   The Treuhand with its impossible task of rapidly privatizing a whole run-down economy?
+*   The bureaucrats in the GDR with their impossible task of centrally managing an entire economy?
+*   The politicians with their impossible task of setting an exchange rate that must appease their constituents without distorting monetary realities?
+*   The Treuhand with its impossible task of rapidly privatizing a whole run-down economy?
 
 Böick is not interested in participating in this fun game because it’s too much economy/politics and too little history, but as the protests influenced the Treuhand, where many contemporaries placed the blame, he at least describes the different perspectives. To get at least some outside view, that is independent of those contemporary perspectives, we can have a look at some data.
 
@@ -152,9 +152,9 @@ Whether, on top of all of this, the Treuhand made matters better or worse, I fin
 
 The Treuhand was quite a centralized institution. According to the Treuhand Act, the subsidiaries should have had a large degree of autonomy, but Rohwedder had protested against this and that part of the Act was never implemented. Instead, the board defined the roles of the subsidiaries themselves[[47]](#ftnt47). And centralized decision making is bad and was what brought us into this situation in the first place, right? It shifts the responsibility to people with little inside knowledge and no skin in the game. This is a valid point, I think. However, there are also counterarguments:
 
-> *   Böick quotes more than one employee saying that “nobody read the guidelines”, so I think it was not as centralized as it seemed.
-> *   When they were asked to write new business concepts, the replies from the companies were unsatisfactory both in quantity and quality, which could indicate a lack of initiative, which maybe had to be expected after 40 years of central planning. It could also indicate a lack of knowledge (or maybe the guidelines for writing these concepts were bad), but in that case they could have just bought Western expertise themselves.
-> *   The Treuhand saw itself as a protector of capitalism-naive companies against acquisitions on unfavorable terms or unrealistic proposals as we saw in the case of the potash mine.
+*   Böick quotes more than one employee saying that “nobody read the guidelines”, so I think it was not as centralized as it seemed.
+*   When they were asked to write new business concepts, the replies from the companies were unsatisfactory both in quantity and quality, which could indicate a lack of initiative, which maybe had to be expected after 40 years of central planning. It could also indicate a lack of knowledge (or maybe the guidelines for writing these concepts were bad), but in that case they could have just bought Western expertise themselves.
+*   The Treuhand saw itself as a protector of capitalism-naive companies against acquisitions on unfavorable terms or unrealistic proposals as we saw in the case of the potash mine.
 
 The Treuhand also had its share of corruption. We have seen how chaotic the early times were and it should come as no surprise that there was little oversight then. Managers were assured exemption from liability until July 1991. Only then, when the government did not want to prolong that exemption, more regulated processes were established, which in turn caused some managers to lament the increased bureaucratic burden. One of the largest corruption scandals happened not at the headquarters, but in one of the subsidiaries, so it is hard to say whether the Treuhand was too centralized and bureaucratic or not centralized and bureaucratic enough. Eventually, the German parliament estimated the damage done by corruption and fraud at between three and ten billion Mark, but that does not seem like a huge amount compared to the overall cost of the transition and I would also suspect that other countries saw much more corruption, though again this is beyond the scope of the book and its review.
 

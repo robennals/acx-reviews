@@ -89,12 +89,12 @@ Like all Dungeons and Dragons campaigns, _[Rude Tales of Magic](https://www.rude
 
 This episode in particular centres Albee Dawn (played by Carly Monardo): a loveable, punky, driven faun determined to become a Monk of the Four Elements. Her path—both literal and emotional—takes center stage in this episode. She is accompanied by her friends:
 
-> *   Cordelia Sasquatch (played by Ali Fisher): A self-assured, jean-jacket-wearing sasquatch who took the name of the land as her own.
-> *   Frederick de Bonesby (played by Christopher Hastings): A once-human noble-turned-fancy-wig-wearing-skeleton by way of a botched lich ritual.
-> *   Stir Fry (played delightfully by Tim Platt): A hyperactive Kenku chef who was granted the ability to speak by de Bonesby, and has been overcompensating ever since.
-> *   Bellow Gorramael (played by Joe Lepore): A hot, blue, druid tiefling with “psychotically chill” vibes.
+*   Cordelia Sasquatch (played by Ali Fisher): A self-assured, jean-jacket-wearing sasquatch who took the name of the land as her own.
+*   Frederick de Bonesby (played by Christopher Hastings): A once-human noble-turned-fancy-wig-wearing-skeleton by way of a botched lich ritual.
+*   Stir Fry (played delightfully by Tim Platt): A hyperactive Kenku chef who was granted the ability to speak by de Bonesby, and has been overcompensating ever since.
+*   Bellow Gorramael (played by Joe Lepore): A hot, blue, druid tiefling with “psychotically chill” vibes.
 >
-> *   And the Game Master, Branson Reese, whose voice and and narration is just exciting enough without being overstimulating to me, and who performs an impressive array of characters throughout the course of the show.
+*   And the Game Master, Branson Reese, whose voice and and narration is just exciting enough without being overstimulating to me, and who performs an impressive array of characters throughout the course of the show.
 
 So—quest. Naturally, unhinged improvisation coincides with meandering paths and shenanigans as the group traverses the Teenage Woods and what lies beyond. This show is, at turns, hilarious, horrifying, and every now and then—against all logic—profound. What happens is fairly typical. There’s some owlbears and bearowls. Attempting to potty-train a ratman in exchange for answers. A reunion with a brother. The murder of a brother. A Kebin—a “stupid as fuck” yet horrifying monster made up of mutilated body parts and flesh who can turn anything inside out.
 

@@ -49,9 +49,9 @@ Every interview at Google is 45 minutes long. The first 5 minutes are just chit-
 
 There’s 3 types of interviews an average candidate might face:
 
-> *   Coding and Algorithms (C&A)
-> *   Googleyness and Leadership (G&L)
-> *   System Design
+*   Coding and Algorithms (C&A)
+*   Googleyness and Leadership (G&L)
+*   System Design
 
 System design is usually for L5+ candidates, and I don’t do them, so I won’t discuss it. We’ll focus more on the other two later.
 
@@ -119,8 +119,8 @@ In short, this is coding in the trenches. How you solve this problem tells me wh
 
 In this interview you’ll be asked 4 to 6 behavioral questions. Things like:
 
-> *   Have you ever worked on a project which failed? Why? How could you have let it fail? Are you just a pathetic miserable excuse for a human? Why do you even think you’re worthy to look at me, a Googler?
-> *   What would you do if you disagreed with your boss? Yeah right? No you wouldn’t, you would silently nod and take it wouldn’t you? Yes, that’s right, you would.
+*   Have you ever worked on a project which failed? Why? How could you have let it fail? Are you just a pathetic miserable excuse for a human? Why do you even think you’re worthy to look at me, a Googler?
+*   What would you do if you disagreed with your boss? Yeah right? No you wouldn’t, you would silently nod and take it wouldn’t you? Yes, that’s right, you would.
 
 I have no unresolved trauma from my own interview.
 
@@ -151,29 +151,29 @@ So, what would I recommend Google keep about their hiring process, and what woul
 
 **The Good**
 
-> *   Structured interviews with clear rubrics
-> *   A separate hiring committee that sees all feedback and makes a decision
-> *   Feedback is anonymised and doesn’t include e.g. gender or other identifying characteristics
-> *   Hiring for generic roles instead of a specific position. Microsoft style team specific hiring is silly.
-> *   Allowing candidates to use any programming language. Good developers can pick up a language in a month, Google isn’t in a rush.
-> *   One preliminary interview, with a larger number of followup interviews.
-> *   The shared UI is good, including the fact it doesn’t have a compiler - this forces interviewer and candidate to focus more on high level, and less on minutiae of syntax.
-> *   Having an actual coding interview is crucial. So many candidates with incredibly impressive resumes are basically incapable of writing code.
-> *   Consistent interviewing standards across the company means there’s no barrier to moving between teams.
-> *   The systems design interview is generally good.
-> *   Once a candidate has been accepted or rejected, interviewers get to see what other interviewers thought. This is a good way to check you’re calibrated.
+*   Structured interviews with clear rubrics
+*   A separate hiring committee that sees all feedback and makes a decision
+*   Feedback is anonymised and doesn’t include e.g. gender or other identifying characteristics
+*   Hiring for generic roles instead of a specific position. Microsoft style team specific hiring is silly.
+*   Allowing candidates to use any programming language. Good developers can pick up a language in a month, Google isn’t in a rush.
+*   One preliminary interview, with a larger number of followup interviews.
+*   The shared UI is good, including the fact it doesn’t have a compiler - this forces interviewer and candidate to focus more on high level, and less on minutiae of syntax.
+*   Having an actual coding interview is crucial. So many candidates with incredibly impressive resumes are basically incapable of writing code.
+*   Consistent interviewing standards across the company means there’s no barrier to moving between teams.
+*   The systems design interview is generally good.
+*   Once a candidate has been accepted or rejected, interviewers get to see what other interviewers thought. This is a good way to check you’re calibrated.
 
 **The Bad**
 
-> *   Asking questions which are too algorithm heavy, instead of real life questions.
-> *   The Googleyness and Leadership interview causes a lot of misery, for very little signal.
-> *   The feedback process can be very slow, with candidates occasionally waiting months to receive an offer.
-> *   Software developers frequently give G&L interviews to hardware engineers. This usually goes terribly.
+*   Asking questions which are too algorithm heavy, instead of real life questions.
+*   The Googleyness and Leadership interview causes a lot of misery, for very little signal.
+*   The feedback process can be very slow, with candidates occasionally waiting months to receive an offer.
+*   Software developers frequently give G&L interviews to hardware engineers. This usually goes terribly.
 
 **The Ugly**
 
-> *   Telling candidates they need to practise for weeks before their interview is crazy. Ban any mention of a min-heap, a binary-tree, or dynamic programming from the question bank.
-> *   Of the last 50 people I’ve interviewed, only 4 received offers.
+*   Telling candidates they need to practise for weeks before their interview is crazy. Ban any mention of a min-heap, a binary-tree, or dynamic programming from the question bank.
+*   Of the last 50 people I’ve interviewed, only 4 received offers.
 
 ## What about AI?
 

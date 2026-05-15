@@ -292,9 +292,9 @@ Sounds like a great match right? But this too doesn’t have a happy ending for 
 
 I submit that the century makes a lot more sense if you could look at it from the perspective of an individual, and ask what he needs to reach his potential.
 
-> *   In the year 1200, his potential might have been snuffed out as education was hard to get, resources were hard to get, time was hard to get, which meant the level of extra output beyond survival would’ve been miniscule at best
-> *   In the year 1700, his potential would’ve been slightly easier to catch a flame, as education got _a tad_ easier since books existed, time was still hard to get, and resources equally so, which meant the extra output we could’ve expected from him goes up a tiny bit, but not much
-> *   In the year 1900, his potential would’ve been much higher, as education was a lot easier, time started being more abundant, resources started becoming available, and the extra output we could expect _could’ve then become the down payment_ for getting the resources!
+*   In the year 1200, his potential might have been snuffed out as education was hard to get, resources were hard to get, time was hard to get, which meant the level of extra output beyond survival would’ve been miniscule at best
+*   In the year 1700, his potential would’ve been slightly easier to catch a flame, as education got _a tad_ easier since books existed, time was still hard to get, and resources equally so, which meant the extra output we could’ve expected from him goes up a tiny bit, but not much
+*   In the year 1900, his potential would’ve been much higher, as education was a lot easier, time started being more abundant, resources started becoming available, and the extra output we could expect _could’ve then become the down payment_ for getting the resources!
 
 This gets further complicated based on whether you’re based in colonized Calcutta vs cosmopolitan London. This changes based on whether you’re a black man attempting this in the 1950s US south vs someone in Silicon Valley in the 1990s.
 
@@ -322,9 +322,9 @@ For someone to come up with an idea to help someone else requires both an innate
 
 It’s also a narrative that helps put the crazy convolutions that we societally went through in the last few centuries into place. We can ask and answer questions like:
 
-> *   What type of organizations did we stand up and why!
-> *   The scientific and technological inventiveness and how they got unleashed
-> *   Why did we change how we find, train and reward talent
+*   What type of organizations did we stand up and why!
+*   The scientific and technological inventiveness and how they got unleashed
+*   Why did we change how we find, train and reward talent
 
 And the way we can do that is through distilled knowledge. Ultimately we land in the arena of talent creation and education where, as [Erik Hoel has written](https://erikhoel.substack.com/p/why-we-stopped-making-einsteins), we’ve chosen mass industrialisation as the method instead of individualized instruction.
 

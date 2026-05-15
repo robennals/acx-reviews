@@ -38,9 +38,9 @@ Of relevance is also my knowledge about this period of history in general, and t
 
 War and Peace is three things:
 
-> *   a novel about some people in early 19th century Russia;
-> *   an historical accounting of critical events during the Napoleonic wars between 1805 and 1813; and
-> *   most important of all, a treatise on causality, chance, authority, and cognitive biases.
+*   a novel about some people in early 19th century Russia;
+*   an historical accounting of critical events during the Napoleonic wars between 1805 and 1813; and
+*   most important of all, a treatise on causality, chance, authority, and cognitive biases.
 
 It seems to me Tolstoy was unhappy with the disconnect between history as it is told and reality as it is experienced. For an example, take this very moment, as it plays out across the world in an instant. Think especially of the trends in movements of people, both near to you, and in countries far from you. The moment is now part of history, much like the kings or revolutions or emigrations from the books, but it doesn't feel like it, because when we write history down after the fact, it comes out different to how it was at the time. Written history tends to flow according to some logical progression, in a way the moment-to-moment experience of our lives do not. When we speak of the past, we assume there is some sort of cohesive plan according to which people do things, with one thing being a clear consequence of another, whereas in the moment, we experience a bombardment of opinions, random events, and desires that pull us in so many directions it's surprising we get anything done at all.
 
@@ -88,8 +88,8 @@ For a further lesson in how chance affects things, Tsar Alexander himself happen
 
 Aside from the historical research Tolstoy did, he personally participated in the Crimean War, and his experiences colour the depiction of the field of battle. If chance plays a large part in civilian life, any influence by chance is amplified during war. Tolstoy brings up principally two reasons for this:
 
-> *   Uncertainty is greater. When people's lives are at stake, they do irrational things, and this makes everything harder to predict. Add to this deliberate concealment of intentions, feigning of movement, darkness, and the smoke produced by gunpowder.
-> *   People in large groups amplify the effects of chance. The example Tolstoy repeats a few times is how, in the heat of battle,  it takes just one man to shout "They're running! Forward!" or "We're done for!" to affect the will to fight of many people on both sides.
+*   Uncertainty is greater. When people's lives are at stake, they do irrational things, and this makes everything harder to predict. Add to this deliberate concealment of intentions, feigning of movement, darkness, and the smoke produced by gunpowder.
+*   People in large groups amplify the effects of chance. The example Tolstoy repeats a few times is how, in the heat of battle,  it takes just one man to shout "They're running! Forward!" or "We're done for!" to affect the will to fight of many people on both sides.
 
 These two hold the key to generalisation of the idea. The situations in which we can expect random perturbations to have an especially large effect on outcomes is when uncertainty is great, and/or when people are doing things in groups. (Kahneman similarly describes the human desire to reach consensus in groups as a variance-amplifying mechanism.)
 

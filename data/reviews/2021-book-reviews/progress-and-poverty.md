@@ -165,7 +165,7 @@ George goes the other way:
 
 > It is never the amount of labor that has been exerted in bringing a thing into being that determines its value, but always the amount of labor that will be rendered in exchange for it.  
 >   
-> - Henry George, _The Science of Political Economy,_ p. 253
+- Henry George, _The Science of Political Economy,_ p. 253
 
 In other words, "a thing's value is whatever someone is willing to pay for it." This is in line with the so-called [marginal revolution](https://en.wikipedia.org/wiki/Marginal_utility#Marginal_Revolution) (the movement, not the [blog](https://marginalrevolution.com/)) and modern theories of value.
 

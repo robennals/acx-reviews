@@ -163,9 +163,9 @@ Then there are the most valuable parts of the book: techniques you can employ to
 
 David interviews three different groups of people that independently pioneered three _surprisingly similar_ techniques:
 
-> *   **[Deep Canvassing](https://deepcanvass.org/)** is a technique pioneered by the Los Angeles LGBT Centre. Volunteers developed it as a way to do door-to-door canvassing in support of LGBT rights and same-sex marriage in the wake of California's 2008 [Prop 8 amendment](https://en.wikipedia.org/wiki/2008_California_Proposition_8) which made same-sex marriage illegal.
-> *   **[Street Epistemology](https://streetepistemology.com/)** is an outgrowth of the New Atheist movement, who went from trying to convince people that religion is false, to a much more generalized approach to helping people explore the underpinning behind any of their beliefs and whether those underpinnings are solid.
-> *   **[Smart Politics](https://www.joinsmart.org/)** is a technique developed by Dr. Karen Tamerius of the progressive-advocacy organization of the same name, and based on a therapy technique called Motivational Interviewing.
+*   **[Deep Canvassing](https://deepcanvass.org/)** is a technique pioneered by the Los Angeles LGBT Centre. Volunteers developed it as a way to do door-to-door canvassing in support of LGBT rights and same-sex marriage in the wake of California's 2008 [Prop 8 amendment](https://en.wikipedia.org/wiki/2008_California_Proposition_8) which made same-sex marriage illegal.
+*   **[Street Epistemology](https://streetepistemology.com/)** is an outgrowth of the New Atheist movement, who went from trying to convince people that religion is false, to a much more generalized approach to helping people explore the underpinning behind any of their beliefs and whether those underpinnings are solid.
+*   **[Smart Politics](https://www.joinsmart.org/)** is a technique developed by Dr. Karen Tamerius of the progressive-advocacy organization of the same name, and based on a therapy technique called Motivational Interviewing.
 
 (Sorry, it doesn't look like the conservatives have caught on to this kind of approach yet.)
 

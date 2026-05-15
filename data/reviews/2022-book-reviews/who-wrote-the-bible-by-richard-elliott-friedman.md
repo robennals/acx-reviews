@@ -18,7 +18,7 @@ tags:
 
 “It appears that everybody _but_ Moses wrote the Torah.”
 
-> *   Talmidah (Shira Halevi), _The Life Story of Adam and Havah: A New Targum of Genesis 1:26-5:5_
+*   Talmidah (Shira Halevi), _The Life Story of Adam and Havah: A New Targum of Genesis 1:26-5:5_
 
 Book Review: _Who Wrote the Bible?_
 
@@ -183,11 +183,11 @@ Friedman says this description matches the same folks who came up with E, namely
 
 So who’s the Deuteronomistic Historian? We can tell a few things about him:
 
-> *   He doesn’t like Aaron; for example, in chapters one through eleven (and the last chapters) of Deuteronomy, it says that God wanted to kill him.
-> *   He really hates Solomon and Jeroboam; for example, in the DH, he uses the words “disgusting” and “abomination” to describe the heathen gods Solomon worshiped.
-> *   He portrays Jeremiah as a prophet loyal to Josiah and heavily linked to the court members involved with the ‘discovery’ of the law.
-> *   The last surviving Shiloh priest went to Anathoth, where Jeremiah was later born; and the Book of Jeremiah seems rather pro-Shiloh.
-> *   Parts of Deuteronomy are written in really, really similar words as parts of the Book of Jeremiah. Like, compare “and he brought you out of the iron furnace, from Egypt” to “in the day I brought them out from the land of Egypt, from the iron furnace”, or “With all your heart and with all your soul” to “With all my heart and with all my soul”.
+*   He doesn’t like Aaron; for example, in chapters one through eleven (and the last chapters) of Deuteronomy, it says that God wanted to kill him.
+*   He really hates Solomon and Jeroboam; for example, in the DH, he uses the words “disgusting” and “abomination” to describe the heathen gods Solomon worshiped.
+*   He portrays Jeremiah as a prophet loyal to Josiah and heavily linked to the court members involved with the ‘discovery’ of the law.
+*   The last surviving Shiloh priest went to Anathoth, where Jeremiah was later born; and the Book of Jeremiah seems rather pro-Shiloh.
+*   Parts of Deuteronomy are written in really, really similar words as parts of the Book of Jeremiah. Like, compare “and he brought you out of the iron furnace, from Egypt” to “in the day I brought them out from the land of Egypt, from the iron furnace”, or “With all your heart and with all your soul” to “With all my heart and with all my soul”.
 
 “Okay, [name],” you say, “we get the picture! Friedman claims that Jeremiah wrote most of Deuteronomy and the four later books!”
 

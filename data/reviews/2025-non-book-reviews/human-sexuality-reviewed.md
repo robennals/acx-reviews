@@ -122,13 +122,13 @@ So, to summarize, there are two main types of sexiness the human brain can exper
 
 > 1.  High Status Hotness (HSH)
 >
-> *   Dominance-based HSH: Controlling, commanding, potentially causing pain/discomfort
-> *   Prestige-based HSH: Skilled, making partner feel incredible pleasure, being admired
+*   Dominance-based HSH: Controlling, commanding, potentially causing pain/discomfort
+*   Prestige-based HSH: Skilled, making partner feel incredible pleasure, being admired
 >
 > 2.  Low Status Hotness (LSH)
 >
-> *   Dominance-based LSH: Being controlled, submitting, potentially receiving pain
-> *   Prestige-based LSH: Being desired by a high-value partner, being the focus of attention
+*   Dominance-based LSH: Being controlled, submitting, potentially receiving pain
+*   Prestige-based LSH: Being desired by a high-value partner, being the focus of attention
 
 ![](https://acximages.ennals.org/images/2025-non-book-reviews/e2b0bf8f500ff49b.png)
 

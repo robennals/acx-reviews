@@ -22,19 +22,19 @@ What if tech stagnation, declining growth rates, and the near-inevitable seeming
 
 That’s the broad thesis behind _Scientific Freedom: The Elixir of Civilization._ Published originally in 2008, Scientific Freedom chronicles the journey of physicist Don Braben, as he designs and builds a Venture Research arm at British Petroleum in the 1980s. Braben was successful in funding a transformative research initiative at BP (transformative meaning it fundamentally changes humanity thinks about a subject). In his estimation, 14 out of the 26 groups funded made a transformative discovery, at the cost of only 30 million pounds over 10 years! A few examples of transformative discoveries made by groups funded by Braben in his time at BP are:
 
-> *   Mike Bennett and Pat Heslop - Harrison discovered a new pathway for evolution and genetic control
-> *   Terry Clark pioneered the study of macroscopic quantum objects
-> *   Stan Clough and Tony Horsewill solved the quantum – classical transition problem by developing new relativity and quantum theories
-> *   Steve Davies developed small artificial enzymes for efficient chiral selection
-> *   Nigel Franks, Jean Louis Deneubourg, Simon Goss, and Chris Tofts quantified the rules describing distributed intelligence in animals
-> *   Herbert Huppert and Steve Sparks pioneered the new field of geologic fluid mechanics
-> *   Jeff Kimble pioneered squeezed states of light
-> *   Graham Parkhouse derived a novel theory of engineering design relating performance to shapes and materials
-> *   Alan Paton, Eunice Allen, and Anne Glover discovered a new symbiosis between plants and bacteria
-> *   Martyn Poliakoff transformed green chemistry
-> *   Colin Self demonstrated that antibodies in vivo can be activated by light
-> *   Gene Stanley and Jos é Teixeira discovered a new liquid – liquid phase transition in water that accounts for many of water’s anomalous properties
-> *   Harry Swinney, Werner Horsthemke, Patrick DeKepper, Jean - Claude Roux, and Jacques Boissonade developed the first laboratory chemical reactors to yield sustained spatial patterns — an essential precursor for the study of multidimensional chemistry
+*   Mike Bennett and Pat Heslop - Harrison discovered a new pathway for evolution and genetic control
+*   Terry Clark pioneered the study of macroscopic quantum objects
+*   Stan Clough and Tony Horsewill solved the quantum – classical transition problem by developing new relativity and quantum theories
+*   Steve Davies developed small artificial enzymes for efficient chiral selection
+*   Nigel Franks, Jean Louis Deneubourg, Simon Goss, and Chris Tofts quantified the rules describing distributed intelligence in animals
+*   Herbert Huppert and Steve Sparks pioneered the new field of geologic fluid mechanics
+*   Jeff Kimble pioneered squeezed states of light
+*   Graham Parkhouse derived a novel theory of engineering design relating performance to shapes and materials
+*   Alan Paton, Eunice Allen, and Anne Glover discovered a new symbiosis between plants and bacteria
+*   Martyn Poliakoff transformed green chemistry
+*   Colin Self demonstrated that antibodies in vivo can be activated by light
+*   Gene Stanley and Jos é Teixeira discovered a new liquid – liquid phase transition in water that accounts for many of water’s anomalous properties
+*   Harry Swinney, Werner Horsthemke, Patrick DeKepper, Jean - Claude Roux, and Jacques Boissonade developed the first laboratory chemical reactors to yield sustained spatial patterns — an essential precursor for the study of multidimensional chemistry
 
 So how did Braben fund proposals, if he didn’t use peer review or grant proposals?  
 

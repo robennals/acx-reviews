@@ -27,10 +27,10 @@ Saunders practises what he teaches; he has won several awards for his short stor
 
 Everyone who would like:
 
-> *   to understand what makes a good story, a movie, an article or a blog post,
-> *   to learn about the art of writing,
-> *   to get an expert insight of why and how good stories work and
-> *   to read and watch better.
+*   to understand what makes a good story, a movie, an article or a blog post,
+*   to learn about the art of writing,
+*   to get an expert insight of why and how good stories work and
+*   to read and watch better.
 
 ![](https://acximages.ennals.org/images/2022-book-reviews/0ea15e27597bb7e8.png)
 
@@ -129,9 +129,9 @@ As instructed I went and compared two stories from Tolstoy to see what 39 years 
 
 For my own writing:
 
-> *   using the word “shit” is fine, because it’s a part of my voice,
-> *   commitment to revise sentences, paragraphs and storyline is a virtue, not a problem,
-> *   each sentence should help the reader to read on; read your writing (can also be a simple e-mail!) like a reader would.
+*   using the word “shit” is fine, because it’s a part of my voice,
+*   commitment to revise sentences, paragraphs and storyline is a virtue, not a problem,
+*   each sentence should help the reader to read on; read your writing (can also be a simple e-mail!) like a reader would.
 
 ### Closing remarks
 

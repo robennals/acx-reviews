@@ -222,8 +222,8 @@ Silver complains that Fisher _should have known_ tobacco causes lung cancer. Why
 
 Which explanation better fits the evidence?
 
-> *   Fisher was blind to the obvious conclusions his frequentist colleagues had already accepted because his frequentist statistics led him (and somehow not them) astray, or
-> *   Fisher didn’t want to believe because he liked to smoke and got paid by the tobacco companies
+*   Fisher was blind to the obvious conclusions his frequentist colleagues had already accepted because his frequentist statistics led him (and somehow not them) astray, or
+*   Fisher didn’t want to believe because he liked to smoke and got paid by the tobacco companies
 
 Silver not only rejects all of Fisher’s contributions to a complex field of analysis – to the point of outright distortion – he goes on to reject the entire field of frequentist statistics.
 
@@ -231,9 +231,9 @@ Why?
 
 I suspect Silver’s background informs his world view. Nate Silver used to be a successful[[10]](#ftnt10) poker player. He used his statistical prowess to become a successful baseball statistician. He then used that same mind to create a successful business making political predictions. What do all these things have in common – in the world of statistics? They’re all games of chance, sure. But they’re all a particular kind of game:
 
-> *   Zero-sum
-> *   With definite winners and losers
-> *   Where results are announced objectively at defined timepoints
+*   Zero-sum
+*   With definite winners and losers
+*   Where results are announced objectively at defined timepoints
 
 In elections, baseball, and especially poker you can make a prediction and put money down on that prediction if it differs from someone else’s prediction. Later collect or pay out and see whose model fit the real scenario. There was one right answer, and everyone empirically knows what that answer was. It’s not up for debate. This is the world Silver comes from, and it’s the world all his statistics live within. The problem for Silver, then, is that this does not describe most of the world outside of his narrow specialty.
 
@@ -413,25 +413,25 @@ The Bayesian training wheels are overly restrictive. They prevent us from consid
 
 Having spent so much time tearing down what Silver considers his most important point, you might think I hate everything about this book. Quite the opposite. I think there’s a lot of wonderful material in this book. If anything, a careful reading of tSatN will provide a masterclass on how difficult it is to consistently apply good statistical principles. Silver outlines dozens of principles and important nuances. Here are a few examples:
 
-> *   Don’t overfit[[17]](#ftnt17) based on past cases.
-> *   Low-probability events sometimes[[18]](#ftnt18) happen.
-> *   Don’t trust a forecaster with a poor record.
+*   Don’t overfit[[17]](#ftnt17) based on past cases.
+*   Low-probability events sometimes[[18]](#ftnt18) happen.
+*   Don’t trust a forecaster with a poor record.
 >
-> *   Corollary = don’t trust highly precise forecasts with records of low precision.
-> *   Corollary = know your forecast’s range of uncertainty.
+*   Corollary = don’t trust highly precise forecasts with records of low precision.
+*   Corollary = know your forecast’s range of uncertainty.
 >
-> *   Change your forecast when the evidence changes.
-> *   Beware the comprehensive model and the quick fix.
-> *   Patterns are not the same thing as signal.
-> *   More data = more noise.
+*   Change your forecast when the evidence changes.
+*   Beware the comprehensive model and the quick fix.
+*   Patterns are not the same thing as signal.
+*   More data = more noise.
 >
-> *   Corollary: The hypothesis-free approach is prone to hallucination.
+*   Corollary: The hypothesis-free approach is prone to hallucination.
 >
-> *   Averages may conceal complexity.
-> *   Don’t overlearn from computer[[19]](#ftnt19) model outputs.
-> *   Don’t just extrapolate a trendline.
-> *   Sometimes people react to a prediction, changing the outcome.
-> *   Sometimes you’re too emotional to think probabilistically – it’s okay to walk away.
+*   Averages may conceal complexity.
+*   Don’t overlearn from computer[[19]](#ftnt19) model outputs.
+*   Don’t just extrapolate a trendline.
+*   Sometimes people react to a prediction, changing the outcome.
+*   Sometimes you’re too emotional to think probabilistically – it’s okay to walk away.
 
 I’ve flagged a few of these where Silver failed to follow his own advice in the book. I don’t think this is because Silver isn’t good with statistics. He’s made millions of dollars over the years proving otherwise. If Silver is making mistakes despite being particularly good, what does that say about the rest of us?
 

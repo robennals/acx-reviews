@@ -47,11 +47,11 @@ Many kids are required to move on to more advanced topics in a subject before th
 
 Some people dismiss the boredom brighter kids face in school. There is a real issue however, regardless of your ethical framework:
 
-> *   Short-term boredom is often dismissed as trivial, but 8-12 years of it adds up to real suffering.
-> *   Harming someone is wrong, regardless of whether it's common.
-> *   If kids aren't achieving what they can, they're missing out on the meaning and fulfillment that is their right. Many philosophers stressed the importance of living virtuously by fulfilling one's purpose.
-> *   If a kid isn't learning something or enjoying the class, their time is wasted, and so are school resources.
-> *   Holding back kids from learning can prevent or delay them from applying their skills usefully, and thereby harms society.
+*   Short-term boredom is often dismissed as trivial, but 8-12 years of it adds up to real suffering.
+*   Harming someone is wrong, regardless of whether it's common.
+*   If kids aren't achieving what they can, they're missing out on the meaning and fulfillment that is their right. Many philosophers stressed the importance of living virtuously by fulfilling one's purpose.
+*   If a kid isn't learning something or enjoying the class, their time is wasted, and so are school resources.
+*   Holding back kids from learning can prevent or delay them from applying their skills usefully, and thereby harms society.
 
 ## How Not to Learn
 
@@ -85,8 +85,8 @@ If it's true that AI is taking over in [2027](https://ai-2027.com/), there would
 
 There's two basic skills that some kids learn in school that are genuinely important:
 
-> *   **Basic reading**: Many kids can learn this at home, but schools should help those who need it with evidence-based techniques like phonics rather than popular methods that [don't work](https://www.apmreports.org/episode/2019/08/22/whats-wrong-how-schools-teach-reading). Once kids can read, give them opportunities to read books they personally find interesting. No need for years of group read-alouds where kids are forced to follow along with the reader.
-> *   **Basic math**: Understanding basic math (such as fractions and exponents) is important for navigating the modern world, but many adults struggle with this. By eliminating regular grade levels and using AI-assisted tutoring, everyone can get the help they need to understand these topics. There's no need to force everyone to learn advanced topics like trigonometry or geometry. Instead, expose kids to mathematical ideas and let them explore what interests them. Those who enjoy it will pursue it further.
+*   **Basic reading**: Many kids can learn this at home, but schools should help those who need it with evidence-based techniques like phonics rather than popular methods that [don't work](https://www.apmreports.org/episode/2019/08/22/whats-wrong-how-schools-teach-reading). Once kids can read, give them opportunities to read books they personally find interesting. No need for years of group read-alouds where kids are forced to follow along with the reader.
+*   **Basic math**: Understanding basic math (such as fractions and exponents) is important for navigating the modern world, but many adults struggle with this. By eliminating regular grade levels and using AI-assisted tutoring, everyone can get the help they need to understand these topics. There's no need to force everyone to learn advanced topics like trigonometry or geometry. Instead, expose kids to mathematical ideas and let them explore what interests them. Those who enjoy it will pursue it further.
 
 **Academic Knowledge**
 
@@ -96,39 +96,39 @@ Some say it's worthwhile to learn non-practical mathematical topics since math i
 
 Besides the standard subjects schools teach, they should also provide opportunities for kids to learn practical technical skills such as the basics of:
 
-> *   Statistics, such as understanding p-values or Bayes Theorem
-> *   Coding, increasingly taught, but should be on par with regular subjects
-> *   Dealing with data, e.g. in spreadsheets or databases
+*   Statistics, such as understanding p-values or Bayes Theorem
+*   Coding, increasingly taught, but should be on par with regular subjects
+*   Dealing with data, e.g. in spreadsheets or databases
 
 They should also let kids learn practical life skills such as:
 
-> *   Financial literacy, from basic money management to interest rates and investing
-> *   Best health practices, such as nutrition and oral hygiene
-> *   Legal literacy, such as basic concepts of laws vs norms and later covering topics like contracts
-> *   Critical thinking - schools claim to teach this but rarely do. It's difficult to teach, but AI can help guide students in evaluating arguments, recognizing biases and handling heuristics.
-> *   Using AI - as this becomes increasingly important, kids should learn AI basics such as how to write good prompts and fact-check the AI's output.
+*   Financial literacy, from basic money management to interest rates and investing
+*   Best health practices, such as nutrition and oral hygiene
+*   Legal literacy, such as basic concepts of laws vs norms and later covering topics like contracts
+*   Critical thinking - schools claim to teach this but rarely do. It's difficult to teach, but AI can help guide students in evaluating arguments, recognizing biases and handling heuristics.
+*   Using AI - as this becomes increasingly important, kids should learn AI basics such as how to write good prompts and fact-check the AI's output.
 
 **Interpersonal and Intrapersonal Skills**
 
 Schools shouldn't just teach academic subjects. They should help kids understand themselves and relate to others. "Social skills" are often given as a justification for schools, yet little is done to actually help kids learn it. Some things are learned naturally, but some skills benefit from practice and feedback. This could include broader communication skills such as:
 
-> *   [Nonviolent communication](https://en.wikipedia.org/wiki/Nonviolent_Communication) and conflict resolution
-> *   Negotiation
-> *   Giving and receiving feedback
-> *   Developing empathy
-> *   Public speaking
-> *   Digital communication
+*   [Nonviolent communication](https://en.wikipedia.org/wiki/Nonviolent_Communication) and conflict resolution
+*   Negotiation
+*   Giving and receiving feedback
+*   Developing empathy
+*   Public speaking
+*   Digital communication
 
 There are also many internal skills and principles that could be learned and practiced:
 
-> *   Understanding and regulating one's own emotions
-> *   Resilience and stress management
-> *   Ways to cultivate gratitude, which is beneficial for one's own happiness
-> *   Meditation, including exposure to practices that challenge conventional beliefs about the self
-> *   Time management and avoiding distractions, especially in the digital age
-> *   Decision making
-> *   Principle for living well and flourishing (broadly defined and non-ideological)
-> *   Practical tips to live according to one's values and goals, whatever they are
+*   Understanding and regulating one's own emotions
+*   Resilience and stress management
+*   Ways to cultivate gratitude, which is beneficial for one's own happiness
+*   Meditation, including exposure to practices that challenge conventional beliefs about the self
+*   Time management and avoiding distractions, especially in the digital age
+*   Decision making
+*   Principle for living well and flourishing (broadly defined and non-ideological)
+*   Practical tips to live according to one's values and goals, whatever they are
 
 While social and emotional learning (SEL) programs touch on some of these, they're less emphasized than academics. They also may mix in political ideology which can cause a backlash against the entire practice. Helping kids learn these skills helps them be happier now and in the future.
 

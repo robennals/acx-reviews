@@ -66,7 +66,7 @@ _CC_: Soft-hearted Frenchie.
 
 _KS_: Alexandre Dumas was black.
 
-> *   _Django Unchained_ (2012), Quentin Tarantino
+*   _Django Unchained_ (2012), Quentin Tarantino
 
 Candie, a Mississippi slaver and francophile, is caught out. He does not know that one piece of classic French literature was written by a black man, the grandchild of a Haitian slave, and the audience delights in seeing his sense of racial superiority pop like a balloon. But that moment does not linger, otherwise it would be difficult to ignore that this defiance of a slaver… comes as a result of slavers. They were not ‘soft-hearted Frenchies’ that subjugated the Antilles, that slaughtered its inhabitants and repopulated the islands with slaves from West Africa to harvest its bounty. Only after Dumas’ death, well after Django burned down Candyland, did the French Empire extend any citizenship to these islands, including Fanon’s home of Martinique.
 

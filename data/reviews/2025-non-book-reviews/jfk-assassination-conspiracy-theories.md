@@ -130,9 +130,9 @@ The Mafia harbored little affection for American politicians in general, but the
 
 There are hints of Mafia involvement everywhere you look—and as the wiseguys say, “You smell garlic, you know someone’s cookin’”:
 
-> *   In the months leading up to the assassination, Jack Ruby made a bunch of of phone calls to Mafia associates, and after killing Oswald, he received regular prison visits from a mob lieutenant.
-> *   Chicago mobster Johnny Roselli, when called to give congressional testimony on an unrelated matter, gave cryptic and suggestive answers that seemed to hint at the Mafia’s involvement, though he stopped short of claiming firsthand knowledge. The next year, a fisherman off the Miami coast found Roselli’s decomposing body in a 55-gallon steel drum, fueling speculation that he himself was killed for knowing too much.
-> *   And most tantalizing of all: In the 1980s, New Orleans don Carlos Marcello was captured on an FBI prison bug confessing to “having the son of a bitch killed.”
+*   In the months leading up to the assassination, Jack Ruby made a bunch of of phone calls to Mafia associates, and after killing Oswald, he received regular prison visits from a mob lieutenant.
+*   Chicago mobster Johnny Roselli, when called to give congressional testimony on an unrelated matter, gave cryptic and suggestive answers that seemed to hint at the Mafia’s involvement, though he stopped short of claiming firsthand knowledge. The next year, a fisherman off the Miami coast found Roselli’s decomposing body in a 55-gallon steel drum, fueling speculation that he himself was killed for knowing too much.
+*   And most tantalizing of all: In the 1980s, New Orleans don Carlos Marcello was captured on an FBI prison bug confessing to “having the son of a bitch killed.”
 
 The circumstantial evidence was compelling enough for the HSCA’s chief counsel, a man with the born-for-government-reports name of G. Robert Blakely. An organized crime expert who’d led the drafting of the RICO Act, Blakely later authored a book, _The Plot to Kill the President,_ which pointed to a Mafia conspiracy. The HSCA report as a whole didn’t blame the Mafia directly, though it left room for “the possibility that individual members may have been involved.” However it happened, Kennedy’s death did result in the feds turning down the heat: Lyndon Johnson booted Bobby Kennedy from the Attorney General’s office and replaced him with Nicholas Katzenbach, who deprioritized anti-Mafia efforts in favor of civil rights.
 

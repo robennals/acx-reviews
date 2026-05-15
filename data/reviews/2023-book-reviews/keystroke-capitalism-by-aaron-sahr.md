@@ -22,7 +22,7 @@ tags:
 
 No doubt they would have been astonished; but the men of 1960 were no longer lost in admiration of such marvels; they exploited them quite calmly, without being any the happier, for, from their hurried gait, their peremptory manner, their American “dash,” it was apparent that the demon of wealth impelled them onward without mercy or relief.”
 
-> -           Jules Verne, _Paris in the Twentieth Century_, 1863
+-           Jules Verne, _Paris in the Twentieth Century_, 1863
 
 …
 

@@ -142,19 +142,19 @@ You can communicate way more than the on-the-surface legible meaning of the spec
 
 Schnarch gave some examples of how this may play out with differences of tone that could show up in a kiss. You could have:
 
-> *   The perfunctory kiss on the way to the office.
-> *   The smothering kiss that rekindles childhood fears of an intrusive, engulfing parent.
-> *   The mushy, limp kiss of passivity and withheld eroticism.
-> *   The impatient kiss of a partner preoccupied with more important things.
-> *   The sloppy, soupy, wet kiss that triggers anger rather than desire.
-> *   The rigid-tongued kiss of the mechanical lover.
+*   The perfunctory kiss on the way to the office.
+*   The smothering kiss that rekindles childhood fears of an intrusive, engulfing parent.
+*   The mushy, limp kiss of passivity and withheld eroticism.
+*   The impatient kiss of a partner preoccupied with more important things.
+*   The sloppy, soupy, wet kiss that triggers anger rather than desire.
+*   The rigid-tongued kiss of the mechanical lover.
 
 Okay, those are the bad ones he listed. He gave the good ones first, but I figured I could take liberties with the organizational scheme. Here they are:
 
-> *   The soft but electric kiss of a familiar lover.
-> *   The hard kiss of passion.
-> *   The breathy, languid kiss of tasting and smelling each other’s body.
-> *   The gentle bite on the lip from someone begging to be [redacted][[300]](#ftnt300).
+*   The soft but electric kiss of a familiar lover.
+*   The hard kiss of passion.
+*   The breathy, languid kiss of tasting and smelling each other’s body.
+*   The gentle bite on the lip from someone begging to be [redacted][[300]](#ftnt300).
 
 Notice how if your spouse gives you a lousy kiss, this is _such_ a hard thing to call them on. (Or maybe just you know. But maybe if he or she doesn’t even know, that’s worse!) Yet it alters the tone of the interaction in ways that are perfectly perceptible. This is an instance which, as the author likes to point out, even if nobody’s saying a word, is full of rich communication.
 

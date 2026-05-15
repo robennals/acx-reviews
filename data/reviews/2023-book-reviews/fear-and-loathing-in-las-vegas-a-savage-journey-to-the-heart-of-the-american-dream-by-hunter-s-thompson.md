@@ -172,11 +172,11 @@ Also, the stereotypically male obsession with vehicles and weapons and the specs
 
 A few examples of this:
 
-> *   (Handgun) "suddenly he was waving a fat black .357 magnum at me. One of those snubnosed Colt Pythons with the beveled cylinder."
+*   (Handgun) "suddenly he was waving a fat black .357 magnum at me. One of those snubnosed Colt Pythons with the beveled cylinder."
 >
-> *   (Motorcycle) "Vincent Black Shadow" - "two hundred brake-horsepower at four thousand revolutions per minute on a magnesium frame...not much for turning, but it's pure hell on the straightaway"
+*   (Motorcycle) "Vincent Black Shadow" - "two hundred brake-horsepower at four thousand revolutions per minute on a magnesium frame...not much for turning, but it's pure hell on the straightaway"
 >
-> *   (Hunting knife) "he grabbed a grapefruit and sliced it in half with a Gerber mini-magnum -- a stainless-steel hunting knife with a blade like a fresh-honed straight razor.
+*   (Hunting knife) "he grabbed a grapefruit and sliced it in half with a Gerber mini-magnum -- a stainless-steel hunting knife with a blade like a fresh-honed straight razor.
 >
 > 'Where'd you get that knife?' I asked.
 >

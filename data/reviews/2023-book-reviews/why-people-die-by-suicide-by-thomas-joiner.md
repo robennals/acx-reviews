@@ -40,7 +40,7 @@ People usually try their best to stay alive. Why would a "desire for death'' eme
 
 > _No more fiendish punishment could be devised, were such a thing physically possible, than that one should be turned loose in society and remain absolutely unnoticed by all members thereof. If no one turned around when we entered, answered when we spoke, or minded what we did, but if every person we must 'cut us dead,' and acted as if we were non-existent things, a kind of rage and impotent despair would before long well up in us, from which the cruelest bodily torture would be a relief._
 >
-> *   William James (1890) via Joiner
+*   William James (1890) via Joiner
 
 The first is Thwarted Belongingness. Put simply, humans need frequent positive interactions with others. Personal connections create meaning in life and act as a buttress - it's common for even severely depressed people, when asked about suicide, to say something like "I could never do that to so-and-so."
 

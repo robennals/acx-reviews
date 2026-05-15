@@ -17,8 +17,8 @@ tags:
 
 A simple philosophy I’ve followed for most of my adult life goes like this: In any endeavor, there are only two questions that matter:
 
-> *   What’s the right thing to do?
-> *   How do I get people (including primarily myself) to do it?
+*   What’s the right thing to do?
+*   How do I get people (including primarily myself) to do it?
 
 These questions are too broad to be terribly useful on their own, but they have definitely guided me as I’ve searched for how to best produce a life worth living. At roughly the same time in my life that these questions distilled themselves, I received my first exposure to Eliyahu Goldratt’s classic business novel _The Goal_. I’ve since discovered that the book is also a classic of the previously-unknown-to-me genre of  “advertisement for a business consultant thinly disguised as a novel”.  In this genre, sacrificing literary finesse in favor of clear morals and easily-digested lessons is a feature, not a bug, and the attempt at presenting a logical framework for the improvement of complex systems was very well received by 27 year-old me. Well-received enough that I looked up some of Goldratt’s lesser-known works, and found in _It’s Not Luck_ a more abstracted and nuanced (not _too_ nuanced though–we’re still very much in the “consultancy” genre) application of ideas in the same vein. It’s been too long for me to remember which was the chicken and which was the egg, but the books attempt to put some meat onto my two questions and give some concrete tools for answering them.
 

@@ -29,9 +29,9 @@ This book does not give easy answers. Not because it does not want to, but becau
 
 I see the book as being structured into three main lines of arguments:
 
-> *   What freedom is, how you realize and what errors people run into, while trying to realize it.
-> *   How oppressors take away our freedom and what arguments they use to justify this.
-> *   How you can act in the world, to both realize your own freedom and that of others, and fight oppression.
+*   What freedom is, how you realize and what errors people run into, while trying to realize it.
+*   How oppressors take away our freedom and what arguments they use to justify this.
+*   How you can act in the world, to both realize your own freedom and that of others, and fight oppression.
 
 ## What is freedom? How do you realize it? Where can you go wrong?
 

@@ -36,11 +36,11 @@ Early on in the book, Gessen describes an incident so frightening and bizarre th
 
 In 1999 there was a series of bombings targeting several Russian cities. This was during the [Second Chechen War](https://en.wikipedia.org/wiki/Second_Chechen_War), so it was widely believed that Chechen separatists were behind the attacks. Gessen describes the following attacks in the book. Please note that the death and injury numbers given in the book are slightly different from the ones I found on Wikipedia and in the news articles from the time. For this review I’m listing the numbers that the author gives, but don’t be surprised if you see different numbers in different sources.
 
-> *   Moscow, August 31, 1999 – An explosion in a shopping center, leaving 1 dead and more than 30 injured.
-> *   Buynaksk (close to Chechnya), September 4, 1999 – A car bomb attack targeting an apartment building where Russian military officers and their families lived. 64 dead and 146 injured.
-> *   Moscow, September 8 1999 – A bombing that destroyed a nine-story apartment building. 100 dead, nearly 700 injured.
-> *   Moscow, September 13, 1999 – A bombing that destroyed an eight-story apartment building, leaving 124 dead and 7 injured.
-> *   Volgodonsk, September 16, 1999 – A truck bomb exploded in the street, leaving 19 dead and over a thousand injured.
+*   Moscow, August 31, 1999 – An explosion in a shopping center, leaving 1 dead and more than 30 injured.
+*   Buynaksk (close to Chechnya), September 4, 1999 – A car bomb attack targeting an apartment building where Russian military officers and their families lived. 64 dead and 146 injured.
+*   Moscow, September 8 1999 – A bombing that destroyed a nine-story apartment building. 100 dead, nearly 700 injured.
+*   Moscow, September 13, 1999 – A bombing that destroyed an eight-story apartment building, leaving 124 dead and 7 injured.
+*   Volgodonsk, September 16, 1999 – A truck bomb exploded in the street, leaving 19 dead and over a thousand injured.
 
 ![](https://acximages.ennals.org/images/2023-book-reviews/bd5b95747de4b816.jpg)
 

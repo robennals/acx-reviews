@@ -48,15 +48,15 @@ This dialogue system was [intentionally designed to mimic a Twitter feed](https:
 
 Most RPGs give your character a set of skills, and how good you are at those skills determines what your character can do in the game. This is an old-school, nearly ubiquitous system. Some typical examples include:
 
-> *   **Strength**: Swing heavy things at your enemies
-> *   **Intelligence**: Outthink your enemies
-> *   **Dexterity**: Dance around your enemies
+*   **Strength**: Swing heavy things at your enemies
+*   **Intelligence**: Outthink your enemies
+*   **Dexterity**: Dance around your enemies
 
 Disco Elysium uses this system, but with refreshing creativity. Here’s a sampling of my favorite skills:
 
-> *   **Encyclopedia**: Makes you a know-it-all, turning your mind into a database of facts. It enables you to draw on these facts innately, offering a wealth of background knowledge to all things related and unrelated to your case.
-> *   **Inland Empire**: The unfiltered wellspring of imagination, emotion, and foreboding. It enables you to grope your way through invisible dimensions of reality, gaining insight into that which sight can’t see.
-> *   **Electrochemistry**: The animal within you, the beast longing to be unleashed to indulge and enjoy. It enables you to take drugs with fewer negative side-effects.
+*   **Encyclopedia**: Makes you a know-it-all, turning your mind into a database of facts. It enables you to draw on these facts innately, offering a wealth of background knowledge to all things related and unrelated to your case.
+*   **Inland Empire**: The unfiltered wellspring of imagination, emotion, and foreboding. It enables you to grope your way through invisible dimensions of reality, gaining insight into that which sight can’t see.
+*   **Electrochemistry**: The animal within you, the beast longing to be unleashed to indulge and enjoy. It enables you to take drugs with fewer negative side-effects.
 
 Each one of these skills acts as its own independent character. They’re constantly chattering in your ear with what they think about the situation, and, another fun twist, they aren’t all reliable. Most games go with the assumption that putting more points into a skill always leads to benefits: having a lot of points in strength means you’re very strong and can pick up whatever you want, and this is always a good thing. But in Disco Elysium, if you put a lot of points into Encyclopedia, it will give you plenty of useful information, but far more useless information. While trying to focus on an essential part of the case, it could tell you about a clue, or it could notice that the bird outside belongs to an interesting subspecies, and then convince you that the witness you’re talking to would really like to hear about this fun fact. Or Electrochemistry will convince you that you absolutely need to lick spilled beer off of a dirty counter because it will give you super-powers.
 

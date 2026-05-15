@@ -48,10 +48,10 @@ How much does Klitgaard’s central finding matter? That depends on how importan
 
 > Looking at Harvard’s survey course in economics and using a complicated set of simultaneous equations, she estimated how a host of variables - what students did with their time, students’ tastes and abilities, teachers’ characteristics, and the way the course was taught in different sections (pass/fail, programmed instruction, and so forth) - affected how much economics students learned and their satisfaction with the course. How much they learned was estimated via an objective examination given at the end of each semester. With all these variables ingeniously and extensively measured over a number of years, Allison made the following discoveries:
 >
-> *   With other variables held constant, a measure of “academic ability” that combined high-school records and SAT test scores was about ten times as important as a measure of “student effort” (study time and so forth), in terms of how much was learned.
-> *   Other things equal, a hundred point increase in both the SAT verbal and math scores made a slightly greater difference as to how much more students learned than did the difference between the best and worst instructors in the course.
-> *   Students’ ratings of the competence and personability of their teachers had absolutely no relationship with how much the students learned. But the teachers’ grades in graduate school did.
-> *   A twenty-five point increase in both SAT verbal and math scores had about the same effect on how much economics was learned as an increase in study time of ten hours per week for this course.[footnote omitted]
+*   With other variables held constant, a measure of “academic ability” that combined high-school records and SAT test scores was about ten times as important as a measure of “student effort” (study time and so forth), in terms of how much was learned.
+*   Other things equal, a hundred point increase in both the SAT verbal and math scores made a slightly greater difference as to how much more students learned than did the difference between the best and worst instructors in the course.
+*   Students’ ratings of the competence and personability of their teachers had absolutely no relationship with how much the students learned. But the teachers’ grades in graduate school did.
+*   A twenty-five point increase in both SAT verbal and math scores had about the same effect on how much economics was learned as an increase in study time of ten hours per week for this course.[footnote omitted]
 
 In other words, brains matter. A lot.
 

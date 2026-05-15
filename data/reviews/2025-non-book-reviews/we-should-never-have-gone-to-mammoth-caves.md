@@ -169,9 +169,9 @@ For instance, recently my husband and I were at our town’s annual charity poke
 
 As for the review part of this review, I feel that many elements need to be rated separately:
 
-> *   The Caves Themselves: 4 out of 5 stars
-> *   The Tour Guide: 2 out of 5 stars
-> *   The Rest of the People on the Tour: 2 out of 5 stars
+*   The Caves Themselves: 4 out of 5 stars
+*   The Tour Guide: 2 out of 5 stars
+*   The Rest of the People on the Tour: 2 out of 5 stars
 
 As mentioned earlier, the caves themselves were pretty excellent. I gave 4 out of 5 stars because the really cool stuff took a while to get to. This is different than, say, Yosemite, where the minute you drive into the valley there you are greeted with breathtaking views of El Capitan and Half Dome.
 

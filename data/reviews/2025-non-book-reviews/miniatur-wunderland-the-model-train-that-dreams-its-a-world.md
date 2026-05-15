@@ -79,28 +79,28 @@ Let me elaborate on these one by one.
 
 Miniatur Wunderland has:
 
-> *   1,694 m2 of miniature layout (in a 10,000 m2 old warehouse space), most of it on a 1:87 scale.
-> *   1,231 trains, circulating on a 16,491m track (which would translate to roughly 1,400km in real life, which is approximately the traversal length of Great Britain, from the southwest to the northeast. Or a bit more than the distance between NYC and Chicago).
-> *   11,800 cars and other road vehicles
-> *   52 planes that operate 250 flights per day
-> *   292,110 tiny residents
-> *   5,278 buildings
-> *   521,500 LEDs
-> *   12 themed worlds:
+*   1,694 m2 of miniature layout (in a 10,000 m2 old warehouse space), most of it on a 1:87 scale.
+*   1,231 trains, circulating on a 16,491m track (which would translate to roughly 1,400km in real life, which is approximately the traversal length of Great Britain, from the southwest to the northeast. Or a bit more than the distance between NYC and Chicago).
+*   11,800 cars and other road vehicles
+*   52 planes that operate 250 flights per day
+*   292,110 tiny residents
+*   5,278 buildings
+*   521,500 LEDs
+*   12 themed worlds:
 >
-> *   Knuffingen (2001): a fictional German town, famous for its extremely efficient fire brigade.
-> *   Central Germany (2001): classic rural scenes and towns
-> *   Austria (2001): includes the Alpine mountains, plenty of tunnels and ski resorts.
-> *   Hamburg (2002): key landmarks from the host city, including the port, St. Michael’s Church, the Elbphilharmonie, and even a miniature version of Miniatur Wunderland itself.
-> *   The US (2003): Las Vegas, Miami, Grand Canyon, the Old Wild West, Mount Rushmore, a (working) space shuttle launch in Cape Canaveral, and Area 51 (excellent for alien-watching).
-> *   Scandinavia (2005): Norway, Sweden, Denmark, Finland, and a 30,000-liter water basin representing the North and Baltic Seas, complete with moving ships and tidal changes.
-> *   Switzerland (2010): includes the Matterhorn, the Castle of Montebello, mountain villages, a chocolate factory (that actually gives you chocolate!) and various industrial plants. Very tall (up to 6m, stretching across two floors).
-> *   Knuffingen Airport (2011): with planes that taxi, take off and land! In case you hadn’t got the memo yet.  
-> *   Italy (2018): highlights from Rome, Venice, the Vatican (ok, ok, not technically Italy, but you get what I mean), and an eruption-prone Vesuvius.  
-> *   Rio de Janeiro (2021): with urban scenes, Sugarloaf Mountain, the famous Christ statue and a massive carnival celebration.
-> *   Patagonia (2023): wild landscapes of southern Chile and Argentina. Including glaciers and penguins. Lots of penguins.
-> *   Monaco and Provence (2024): features the Monaco Grand Prix, with functioning race cars, and coastal southern-France towns with Mediterranean vibes.
-> *   …with many more scheduled for construction, most imminently, several Asian countries.  Other countries are also in the long to-do list, while England has hilariously been postponed multiple times because “[By now 25% of our visitors come from abroad.  To many of them, Europe looks alike – old houses, small towns, meadows, fields, forests and the occasional mountain](https://mechtraveller.com/2019/11/review-miniatur-wunderland-in-hamburg/).” Sorry Brexiters!
+*   Knuffingen (2001): a fictional German town, famous for its extremely efficient fire brigade.
+*   Central Germany (2001): classic rural scenes and towns
+*   Austria (2001): includes the Alpine mountains, plenty of tunnels and ski resorts.
+*   Hamburg (2002): key landmarks from the host city, including the port, St. Michael’s Church, the Elbphilharmonie, and even a miniature version of Miniatur Wunderland itself.
+*   The US (2003): Las Vegas, Miami, Grand Canyon, the Old Wild West, Mount Rushmore, a (working) space shuttle launch in Cape Canaveral, and Area 51 (excellent for alien-watching).
+*   Scandinavia (2005): Norway, Sweden, Denmark, Finland, and a 30,000-liter water basin representing the North and Baltic Seas, complete with moving ships and tidal changes.
+*   Switzerland (2010): includes the Matterhorn, the Castle of Montebello, mountain villages, a chocolate factory (that actually gives you chocolate!) and various industrial plants. Very tall (up to 6m, stretching across two floors).
+*   Knuffingen Airport (2011): with planes that taxi, take off and land! In case you hadn’t got the memo yet.  
+*   Italy (2018): highlights from Rome, Venice, the Vatican (ok, ok, not technically Italy, but you get what I mean), and an eruption-prone Vesuvius.  
+*   Rio de Janeiro (2021): with urban scenes, Sugarloaf Mountain, the famous Christ statue and a massive carnival celebration.
+*   Patagonia (2023): wild landscapes of southern Chile and Argentina. Including glaciers and penguins. Lots of penguins.
+*   Monaco and Provence (2024): features the Monaco Grand Prix, with functioning race cars, and coastal southern-France towns with Mediterranean vibes.
+*   …with many more scheduled for construction, most imminently, several Asian countries.  Other countries are also in the long to-do list, while England has hilariously been postponed multiple times because “[By now 25% of our visitors come from abroad.  To many of them, Europe looks alike – old houses, small towns, meadows, fields, forests and the occasional mountain](https://mechtraveller.com/2019/11/review-miniatur-wunderland-in-hamburg/).” Sorry Brexiters!
 
 …And I’m not even trying to be comprehensive here.
 

@@ -66,9 +66,9 @@ Finally, Plato extends on his class system further, dividing the Guardians into 
 
 So, after sixty pages of detailing his ideal society, we finally get to the ostensible point of all this - the nature of justice. Socrates opens by saying that a perfect state will have the four cardinal virtues - wisdom, courage, self-discipline, and justice. The state has these four in the following ways:
 
-> *   Wisdom, i.e knowledge and good judgment, comes from the Guardians. (More specifically, from the Rulers, but that hasn’t been fully argued yet.)
-> *   Courage also comes from the Guardians, specifically the Auxiliaries that defend the state.
-> *   Self-discipline is what Plato calls the triumph of the better element of oneself - e.g, choosing to go running when you’d rather sit on the couch. In Plato’s society, self-discipline is achieved by the rulers guiding the citizens.
+*   Wisdom, i.e knowledge and good judgment, comes from the Guardians. (More specifically, from the Rulers, but that hasn’t been fully argued yet.)
+*   Courage also comes from the Guardians, specifically the Auxiliaries that defend the state.
+*   Self-discipline is what Plato calls the triumph of the better element of oneself - e.g, choosing to go running when you’d rather sit on the couch. In Plato’s society, self-discipline is achieved by the rulers guiding the citizens.
 
 That just leaves justice. Justice, Socrates states, is the quality that allows the first three to come into being and preserves them. This quality is the previously-argued concept of “One man, one job”. In other words, justice is when each person performs their duty in the state and does not stray from it - abandoning this is the worst of evils.
 

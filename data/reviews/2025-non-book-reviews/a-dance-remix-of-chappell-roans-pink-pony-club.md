@@ -267,11 +267,11 @@ Arnold Schoenberg - Drei Klavierstücke ("Three Piano Pieces"), Op. 11
 
 “...for the first time in world history, popular cultural production had proved to be aesthetically superior to the cultural production of the elite. Genre fiction, whether thrillers or sci-fi, was broadly superior, at that time, to the mainstream novel; the comic book outclassed by far the creations of the official representatives of the visual arts; and most particularly, popular music made a mockery of subsidized attempts at ‘experimental music.’”
 
-> *   _Michel Houellebecq, Annihilation_
+*   _Michel Houellebecq, Annihilation_
 
 “Intelligent people have always been offended if one bothered them with matters which any idiot could understand at once.”
 
-> *   _Arnold Schoenberg, New Music, Outmoded Music, Style, and Idea_
+*   _Arnold Schoenberg, New Music, Outmoded Music, Style, and Idea_
 
 I.
 

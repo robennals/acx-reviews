@@ -58,24 +58,24 @@ As an example of all this, I am a shipper who ships the Harry Potter/Hermione Gr
 
 ### Other Vocabulary
 
-> *   OTP: Shippers will usually have an ‘OTP’, or ‘One True Pair’, the ship they hold dearest in their heart. If three people are involved in the ship, this is replaced with ‘OT3’.
-> *   AU: Alternate Universe. This is when a fanfic transports the characters from their original setting into an alternate one.
+*   OTP: Shippers will usually have an ‘OTP’, or ‘One True Pair’, the ship they hold dearest in their heart. If three people are involved in the ship, this is replaced with ‘OT3’.
+*   AU: Alternate Universe. This is when a fanfic transports the characters from their original setting into an alternate one.
 >
-> *   There’s minor AU, where a few elements are changed from the original setting but the rest is kept intact (imagine if Harry Potter had been raised by Dumbledore instead of the Dursleys!), and
-> *   Major AU, where the setting is completely different (what if the Justice League were all ordinary teenagers attending high school together!)
+*   There’s minor AU, where a few elements are changed from the original setting but the rest is kept intact (imagine if Harry Potter had been raised by Dumbledore instead of the Dursleys!), and
+*   Major AU, where the setting is completely different (what if the Justice League were all ordinary teenagers attending high school together!)
 >
-> *   AO3: Archive Of Our Own, one of the biggest (and best organized) repositories of fanworks on the internet.
-> *   Fic: A work of fanfiction, which is a work of fiction using an established world that someone else wrote.
+*   AO3: Archive Of Our Own, one of the biggest (and best organized) repositories of fanworks on the internet.
+*   Fic: A work of fanfiction, which is a work of fiction using an established world that someone else wrote.
 
 ## Popular Ships (And My Favorites)
 
 Given that [most fiction is heteronormative](https://ccbc.education.wisc.edu/ccbc-2017-statistics-on-lgbtq-literature-for-children-teens/) (not saying this is good or bad, just true), the majority of lesbian fanfiction centers around noncanon pairings. Without going too in-depth, I’m going to list some of my favorite pairings, whether they’re canonical or not, and a brief blurb about them along with a recommended fic (warning: read the tags on the fics; some of them are very R-rated). You can skim this if you want.
 
-> *   Wenclair, NonCanon: Wednesday Addams and Enid Sinclair from the Netflix show Wednesday. They’re roommates who learn to get along, and Enid appears to be the only person Wednesday accepts physical and emotional intimacy from who isn’t trying to kill her. Recommended fic: [In the Heat of the Moment](https://archiveofourown.org/works/43850628)
-> *   SwanQueen, NonCanon: Emma Swan and Regina Mills from the ABC show Once Upon A Time about Disney characters in real life. The two of them literally co-parent a child, and the men they’re paired off with are male versions of each other. Recommended fic: [every winter fades away (into the spring)](https://archiveofourown.org/works/10848708)
-> *   SuperCorp, NonCanon: Kara Danvers (Supergirl) and Lena Luthor from the CW show Supergirl. The two have a _very_ close friendship, a perfect Romeo-and-Juliet backstory (their families are enemies), and are intensely emotionally intimate. Recommended fic: [reflecting in your eyes (like an endless summer)](https://archiveofourown.org/works/20761346)
-> *   Kigo, NonCanon: Kim Possible and Shego from the Disney Channel show Kim Possible. They have an ‘experienced older person/younger person’ dynamic along with ‘enemies to lovers’, and Shego regularly calls Kim ‘Princess’, ‘Cupcake’, and other terms of endearment. Recommended fic: [Alone Together](https://www.fanfiction.net/s/2949422/1/Alone-Together)
-> *   Clexa, Canon: Clarke Griffin and Lexa from The 100. They do kiss, but Lexa is killed pretty early on (a classic case of ‘Bury Your Gays’, the trope where, like black people in horror movies, gay characters are killed off at suspiciously high rates). Recommended fic: [The Lay of Looking-Glass Land](https://archiveofourown.org/series/390229)
+*   Wenclair, NonCanon: Wednesday Addams and Enid Sinclair from the Netflix show Wednesday. They’re roommates who learn to get along, and Enid appears to be the only person Wednesday accepts physical and emotional intimacy from who isn’t trying to kill her. Recommended fic: [In the Heat of the Moment](https://archiveofourown.org/works/43850628)
+*   SwanQueen, NonCanon: Emma Swan and Regina Mills from the ABC show Once Upon A Time about Disney characters in real life. The two of them literally co-parent a child, and the men they’re paired off with are male versions of each other. Recommended fic: [every winter fades away (into the spring)](https://archiveofourown.org/works/10848708)
+*   SuperCorp, NonCanon: Kara Danvers (Supergirl) and Lena Luthor from the CW show Supergirl. The two have a _very_ close friendship, a perfect Romeo-and-Juliet backstory (their families are enemies), and are intensely emotionally intimate. Recommended fic: [reflecting in your eyes (like an endless summer)](https://archiveofourown.org/works/20761346)
+*   Kigo, NonCanon: Kim Possible and Shego from the Disney Channel show Kim Possible. They have an ‘experienced older person/younger person’ dynamic along with ‘enemies to lovers’, and Shego regularly calls Kim ‘Princess’, ‘Cupcake’, and other terms of endearment. Recommended fic: [Alone Together](https://www.fanfiction.net/s/2949422/1/Alone-Together)
+*   Clexa, Canon: Clarke Griffin and Lexa from The 100. They do kiss, but Lexa is killed pretty early on (a classic case of ‘Bury Your Gays’, the trope where, like black people in horror movies, gay characters are killed off at suspiciously high rates). Recommended fic: [The Lay of Looking-Glass Land](https://archiveofourown.org/series/390229)
 
 ## Tropes of the Genre
 
