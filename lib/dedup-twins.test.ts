@@ -111,3 +111,39 @@ test('findTwins: ACX with no candidates appears in unmatchedAcx', () => {
   assert.equal(r.unmatchedAcx.length, 1);
   assert.equal(r.unmatchedAcx[0].slug, 'lonely');
 });
+
+test('findTwins: two gdocs with identical body twin each other; longer-slug is deletable', () => {
+  const shared = 'a review of the very same book pasted into two source gdocs '.repeat(40);
+  const reviews: ReviewRecord[] = [
+    { slug: 'foo', contestId: 'c', source: 'gdoc', title: 'Foo', body: shared },
+    { slug: 'foo-2', contestId: 'c', source: 'gdoc', title: 'Foo', body: shared },
+  ];
+  const r = findTwins(reviews);
+  assert.equal(r.matches.length, 1);
+  assert.equal(r.matches[0].acx.slug, 'foo', 'shorter slug kept');
+  assert.equal(r.matches[0].gdoc.slug, 'foo-2', 'longer slug deletable');
+});
+
+test('findTwins: distinct same-title gdocs (different reviewers, different bodies) are NOT twinned', () => {
+  const reviews: ReviewRecord[] = [
+    { slug: 'foo', contestId: 'c', source: 'gdoc', title: 'Foo', body: lorem('reviewerA wrote about plot ', 200) },
+    { slug: 'foo-2', contestId: 'c', source: 'gdoc', title: 'Foo', body: lorem('reviewerB wrote about themes ', 200) },
+  ];
+  const r = findTwins(reviews);
+  assert.equal(r.matches.length, 0, 'distinct bodies must not be flagged as twins');
+});
+
+test('findTwins: gdoc-vs-gdoc pass skips gdocs already in multiMatchedAcx', () => {
+  // Same setup as the multiMatchedAcx test: 1 ACX + 2 gdoc twins. The gdocs
+  // ARE body-identical, so gdoc-vs-gdoc would normally fire — but the ACX
+  // ambiguity needs human resolution first, so we MUST NOT auto-delete one.
+  const shared = 'identical body text '.repeat(50);
+  const reviews: ReviewRecord[] = [
+    { slug: 'x', contestId: 'c', source: 'acx', title: 'X', body: shared },
+    { slug: 'x-g1', contestId: 'c', source: 'gdoc', title: 'X g1', body: shared },
+    { slug: 'x-g2', contestId: 'c', source: 'gdoc', title: 'X g2', body: shared },
+  ];
+  const r = findTwins(reviews);
+  assert.equal(r.matches.length, 0, 'no auto-deletion when ACX twin is ambiguous');
+  assert.equal(r.multiMatchedAcx.length, 1);
+});
