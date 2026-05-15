@@ -334,14 +334,9 @@ Perhaps it was our luck that the conjunctive factors came together, energy, know
 
 Rarely has a book this ensorcelled me in its grip, or thrown up so many avenues of exploration simultaneously. What it reminds me most of is Mokyr’s [A Culture of Growth](https://www.amazon.com/Culture-Growth-Origins-Schumpeter-Lectures-ebook/dp/B01EGQA1Z2/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=1655020377&sr=1-1), and Robert Gordon’s [The Rise and Fall of American Growth](https://www.amazon.com/Rise-Fall-American-Growth-Princeton-ebook/dp/B071W7JCKW/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=1655020478&sr=1-1), in both the scope of ambition and the breadth of subject matter covered. [Slouching Towards Utopia](https://www.amazon.co.uk/Slouching-Towards-Utopia-Economic-Twentieth/dp/1399803417) is a work of political economy, taking us through the long 20th century and explaining the major events. It’s the first audiobook I have ever listened to, and listened to partially with my son. It’s special, you should read it. It has the same quality the best books do - the questions it generates are much more valuable than the answers it provides.
 
-> Things fall apart; the centre cannot hold;
->
-> Mere anarchy is loosed upon the world …
->
-> That twenty centuries of stony sleep
->
-> Were vexed to nightmare by a rocking cradle,
->
-> And what rough beast, its hour come round at last,
->
+> Things fall apart; the centre cannot hold;  
+> Mere anarchy is loosed upon the world …  
+> That twenty centuries of stony sleep  
+> Were vexed to nightmare by a rocking cradle,  
+> And what rough beast, its hour come round at last,  
 > Slouches towards Bethlehem to be born?

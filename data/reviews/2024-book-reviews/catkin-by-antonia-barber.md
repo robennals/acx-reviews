@@ -19,10 +19,8 @@ I.
 
 Let’s open with a riddle:
 
-> To cast away
->
-> What cannot cut
->
+> To cast away  
+> What cannot cut  
 > And sever words all tangled up
 
 Don't try too hard to answer. This riddle embeds its solution according to a particular format, and though its rules are simple, without knowing them the text remains uninterpretable.
@@ -37,10 +35,8 @@ This kind of riddle is known as a _phonetic charade_, a fact I only learned afte
 
 When my first is a task to a young girl of spirit,
 
-> And my second confines her to finish the piece,
->
-> How hard is her fate! but how great is her merit
->
+> And my second confines her to finish the piece,  
+> How hard is her fate! but how great is her merit  
 > If by taking my whole she effects her release!
 
 The answer, apparently, is hemlock. Bleak!
@@ -105,11 +101,8 @@ In short, I recommend it. Thus ends my review of _Catkin_.
 
 II.
 
->   
-> Always desired
->
-> While I grow long
->
+> Always desired  
+> While I grow long  
 > Endless as flowers, seasons, and songs
 
 Here is the history of fairies in one sentence: pagan manifestations of _otherness_ become nostalgic symbols of pre-industrial folkways become diminutive and oft glittery butterfly-winged females.
@@ -152,10 +145,8 @@ Time to solve this section's opening riddle. What is _always desired_? _More_. T
 
 III.
 
-> Mouse-hunter
->
-> Closer than a friend
->
+> Mouse-hunter  
+> Closer than a friend  
 > Wind-dancer at the bough's end
 
 Here lies _Catkin_’s final riddle. Since this one is from the book, I won't spoil the answer; but you _can_ solve it, can't you?
@@ -180,8 +171,6 @@ There are a couple of illustrations in _Catkin_ depicting grief. The restrained 
 
 _Catkin_ ends with the following passage: “And from that day, all things went well for the good man and his wife. They lived in peace with Carrie and Catkin and the Little People, and the farm on the green hillside flourished.” That we could all be so lucky: to live and speak with aliens, to make peace, to choose well, to thrive, and to fight death, until we are no longer
 
-> Greater than some
->
-> Higher than others
->
+> Greater than some  
+> Higher than others  
 > Endless as sisters, daughters, and mothers.

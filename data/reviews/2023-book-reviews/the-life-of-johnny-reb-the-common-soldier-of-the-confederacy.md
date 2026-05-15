@@ -50,12 +50,9 @@ That’s probably why people liked the book (I’m talking about historians and 
 
 He also doesn’t bother to hide that a lot of them were kinda dicks. He quotes several examples of patriotic verse which adorned the letterheads of soldier correspondents, one of which ran thusly:
 
-> May those Northern fanatics who abuse their Southern neighbors,
->
-> Approach near enough to feel the point of our sabres;
->
-> May they come near enough to hear the click of a trigger,
->
+> May those Northern fanatics who abuse their Southern neighbors,  
+> Approach near enough to feel the point of our sabres;  
+> May they come near enough to hear the click of a trigger,  
 > And learn that a white man is better than a-
 
 In Wiley’s reproduction of the text, he does not omit the last word in this soldier’s poem. I am, of course, deeply disappointed in the Confederate author of the poem, both for his highly impolite language but also for his incompetence at writing poetry with a proper meter. Not only was this anonymous Confederate a racist, he was a complete failure at versification.
