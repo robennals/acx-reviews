@@ -196,7 +196,7 @@ Fortunately, it is rare for even the most aggressive IMPish mimic to drive its m
 
 I even, on a recent visit to my grandmother’s house where I cooked St. Patrick’s Day dinner, got my dad to make real mashed potatoes himself, in a saucepan over a gas flame. It was the first time he’d ever done so. He enjoyed them.
 
-*\*\*
+* * *
 
 In the interest of full fairness while writing this review, I purchased a plastic cup of my dad’s currently favored “Buttery Homestyle” Idahoan brand instant mashed potatoes for $1.99. The preparation was extraordinarily efficient; the aroma was decent; the taste was a reasonable facsimile; but the texture was all wrong - a smothering paste that coated my mouth and constrained my tongue like a straightjacket. 3/10 would not buy again.
 

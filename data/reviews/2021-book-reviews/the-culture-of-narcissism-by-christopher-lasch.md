@@ -31,7 +31,7 @@ Lasch takes psychoanalytic theory very, very seriously. He is clear that narciss
 
 This is frustrating. It also undermines his more credible argument about the structural impact of hyperliberalism: if the one true mechanism for how people become narcissists is actually something about bad breasts and absent patriarchs, what does it matter if, say, schools are dysfunctional? And it adds long passages of boring and entirely unsubstantiated psychoanalytic digression that you have to skip through to stay sane between the complaints about the decline of Man.
 
-*\*\*
+* * *
 
 Complaint No. 1 might be summed up as ‘everyone is a bit useless’:
 
@@ -63,7 +63,7 @@ This is only part of the picture, though. The main problem for Lasch is that par
 
 Overall, the issue isn’t the lack of a cultural code or superego so much as that we now have the wrong, bad sort: ‘The decline of institutionalised authority in an ostensibly permissive society does not, however, lead to a “decline of the superego” in individuals. It encourages instead the development of a harsh, punitive superego that derives most of its psychic energy, in the absence of authoritative social prohibitions, from the destructive, aggressive impulses within the id.’ By this I assume Lasch foresaw people screeching at each other on Twitter, which is generally a good demonstration of everything that is bad both in _The Culture of Narcissism_ and in the world more generally.
 
-*\*\*
+* * *
 
 If there’s a swathe of people online oversharing emotional content that probably won’t serve them well long-term, regularly picking fights with other people and posting stuff that crudely signals certain status-signifiers, that sounds as much like a bunch of five-year-olds jostling for status in the playground as pathological narcissism.
 

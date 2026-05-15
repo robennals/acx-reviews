@@ -31,7 +31,7 @@ Obviously, some authors are so craven and weak as to craft their own works in su
 
 And so the mature way to look at any given court case is to treat it like a carefully honed product, which is thus only about the institutional power of the courts. Though judges and lawyers and scholars may see the law as little more than fan-fiction about the shriekers and husks who parade before them—the special interests and the named props—you should learn to see it as something more. And this is the main point of Jeffrey Rosen’s “The Most Democratic Branch: How the Courts Serve America.” Obviously, as with all other topics, this only matters now insofar as it relates to progress in AI; I believe that such an approach will help us (personally and politically) cultivate some much-needed human supremacism, but a bit of background is needed first.
 
-*\*\*
+* * *
 
 Doesn’t it seem like we’ve transitioned from a world of hero worship to a world of passive totems? We compulsively tear down statues of historical figures because, by definition, great men are not “nice guys,” and we compulsively bow down to random supposed victims. It should by now be clear to everyone that this iconoclasm is not about finding idols who fulfill a new morality—that it’s not about soberly condemning the works and virtues of old gods, nor about actually venerating worthy individuals—but rather about frantically replacing agents with objects. All so that we can take sides in a million little controversies, and claim them for our ideologies!
 
@@ -51,7 +51,7 @@ Because of the Lawrence decision’s opacity, it immediately birthed countless s
 
 Though I don’t share his worldview, I respect that he was willing to sacrifice procedural clarity for moral clarity, and thus to call forth innumerable test cases, of dubious authenticity, in order to further clarify his vision. And his vision, first and foremost, is of a court that’s confident enough in its moral fiber to dictate our culture to us. After all, the main impact and message of cases like Romer v Evans and Obergefell v Hodges was not that sodomy is a protected act, nor that gays are a protected class, or else they would have clearly said as much; instead, it was that the court decides these issues now, and that its decisions come from the heart, not the head. I’ve already mentioned how many companies have Potemkin headquarters in Wilmington, but I haven’t mentioned that—behind them—looms the Delaware Court of Chancery: it’s one of this country’s few remaining courts of equity (which basically means that judges decide cases based on their gut rather than law), and it’s practically in charge of US corporate law.
 
-*\*\*
+* * *
 
 This coy and fickle style of rule clearly wouldn’t work for top-down structures, in which the leader issues commands rather than judgments, and awards resources based on prospects rather than results. Generals and executives need to be clear on what they want ahead of time, so they can move whole organizations proactively. Of course, this leads to the two standard alignment problems: the _inner_ problem of ensuring that your subordinates are properly generalizing their instructions, and the _outer_ problem of ensuring that your instructions actually point toward something good. But such proactive top-down commands are the only way to make a large machine that’s made of humans move quickly enough to meet human demands.
 
@@ -61,7 +61,7 @@ After all, even if the cogs in an organization could act inhumanly fast, we’d 
 
 This is basically what “reinforcement learning from human feedback” (RLHF) means, and it seems to work incredibly well for standard AI systems… at least, if capabilities increase gradually enough that your feedback doesn’t fall behind a backlog of new questions, and if these systems are composed of meaningfully adversarial parts. And I think there’s a large chance that we’ll get just such a slow and multipolar takeoff, for two basic reasons: first, because AI progress is clearly governed by simple scaling laws that are based on costly inputs like hardware, data, and inference; and, second, because it’s much easier to copy or leak a model than to train it. [insert section on training from alt]
 
-*\*\*
+* * *
 
 But what about our elected government? Well, do you really think that Joe Biden or Donald Trump were ever really in charge of pretty much anything? The president gets to appoint about 4,000 people, most of whom he can’t then legally fire. In comparison, about three million civilians officially work in the executive branch, and a supermajority of them can’t be fired without affirmatively proving “just cause” before the MSPB (which is an agency whose heads likewise have tenure). And this is just one of the deep state’s unaccountability mechanisms: 40% of them are in unions, compared with 5% of private-sector workers; the Office of Personnel Management is an independent agency fully in charge of many staffing decisions; the Office of Government Ethics is an independent agency empowered to investigate the whole executive branch; etc.
 
@@ -91,7 +91,7 @@ Just look at the clarity of purpose and vision that judges display. For example,
 
 In contrast, representatives from each party often sound the same, whether they’re in the house, the senate, or the white house; hell, they even sound the same when they’re running for state or local office. But if your city councilors run on hot-button federal issues, and if you can predict the vast majority of their political views based on how they talk about any three topics picked at random, then why not just collapse them all into a single national election? And yet each supreme court justice has a careful, coherent, and creative worldview of his own, and each offers up thoughtful guidance to you on countless areas of concern. Further, each one wants you to learn to think _how_ he would, rather than just _what_ he would.
 
-*\*\*
+* * *
 
 In the beginning, there was the King’s Court: the Curia Regis, which moved from palace to palace with him—hearing pleas from his people and issuing judgments in response. The Norman Conquest imposed on England this roving mass of royal attendants, out of which all its major governing bodies grew. This body shared certain similarities with the Witan, which had been the country’s previous ruling council, in that both mainly functioned as courts in the judicial sense (though Witenagemot elected their monarch). For example, instead of writing general laws they would mostly just approve or veto specific writs and grants, which only applied to particular cases or persons.
 
@@ -109,7 +109,7 @@ In other words, true judicial supremacy has worked in the past, in the one conte
 
 Other English kings gradually limited the pope’s claims on estates, trusts, knights, and lawyers, until, centuries later, Henry VIII could liquidate the monasteries. However, his main strategy for liquidating this rival quasi-judiciary was to set up royal courts to dispose of all their property: the Courts of General Surveyors, of Augmentations, of First Fruits and Tenths, and of Wards and Liveries. And he turned the Court of Star Chamber from a vestigial council into his main political weapon. Because, in many contexts, the courts are all you need.
 
-*\*\*
+* * *
 
 The story of how the high courts actually worked—how they fought each other for power—will cure you of any remaining temptation to think about judicial cases as nonfiction. Essentially, they focused on the “forms of action” rather than the “causes of action”: so long as your paperwork was in order, the real-world facts of your case didn’t have to be. For example, during the 1300s, to claim jurisdiction, the courts often had to allege some breach of the king’s peace. Thus, the most common form of action became the writ of trespass “by force and arms.” In many of these cases, nobody even pretended to believe that there had been any force, but they nonetheless recited the words. A fairly typical example is Rattlesdene v Grunestone, in which a shipping accident spoiled some wine. The writ stated that the defendants “with force and arms, namely with swords and bows and arrows, drew off a great part of the wine from the aforesaid tun and instead of the wine so drawn off they filled the tun with salt water so that all the aforesaid wine was destroyed.”
 
@@ -125,7 +125,7 @@ And, finally, the court of common pleas began to claim that unwritten common law
 
 And so, by the century’s end, after the Revolution of 1688, courts of equity were mostly abolished, and judicial independence from the crown mostly ensured. Gradually, they were unified, and regularized, and granted equity jurisdiction. The chancery had every advantage: it used the common tongue while common law courts were still using Latin; it had the king on its side, and the right to be arbitrary. Hell, in plenty of European countries the chancellor beat out the prime minister to become the head of government. But when you’re not facing meaningful risks of invasion—for instance, when you’re a backwards island on the outskirts of premodern civilization, or perhaps when you’re a global hegemon protected by nukes and two oceans—the crown hangs heavy, and the king becomes decadent, and proper judges can arise.
 
-*\*\*
+* * *
 
 A similar story played out on our shores. During the colonial period, judges weren’t independent of royal governors—they could be fired by the executive branch at will—and, in fact, were often considered part of the executive branch (indeed, judges and governors were both typically called _magistrates_). For example, as John Adams put it, “the first grand division of constitutional powers” was between “those of legislation and those of execution,” with “the administration of justice” resting in “the executive part of the constitution.” Or, as Thomas Paine said, there were “no more than two powers in any government, viz. the power to make laws, and the power to executive them; for the judicial power is only a branch of the executive, the chief of every country being the first magistrate.”
 
@@ -147,7 +147,7 @@ In other words, their first attempt at overturning a federal law involved refusi
 
 The general pattern during this early period is that the court retreated from political life in order to erect a defensible perimeter. They bowed and scraped before their funders and enforcers, so that they could lord over lower governments. They would not issue advisory opinions or accept administrative responsibilities, because their decisions would be final. They set up certain procedures that favored moving cases to federal courts, so they wouldn’t have to overturn as many state-level decisions. They established law schools and developed special jargon and utterly depoliticized themselves, in order to claim that their constitutional interpretations were above mere politics (no longer would judges campaign for politicians, or accept political appointments, or harangue the jurors in a case, though that had previously been the norm). They upheld vast amounts of general regulation, while also expanding individual rights: for example, they allowed increasingly aggressive industry-level economic interventions, and yet also radically strengthened corporate rights against specifically-targeted dispossession; because, after all, courts are designed for dealing with specific issues, not broad policies. Etc.
 
-*\*\*
+* * *
 
 If the judiciary’s power is fundamentally institutional—rather than persuasive or practical—then, of course, the object of analysis should be the court, not the cases before it. And yet the supreme court was nothing special before Chief Justice John Marshall: from 1790 to 1800, it decided fewer than ten cases per year, and met for just four weeks, in the capitol building’s vacant rooms or taverns across the street; further, the founding fathers often refused appointments to it, or else quickly resigned in favor of state-level posts. For example, John Jay had been offered the spot that became John Marshall’s, but he declined it in order to pursue private work.
 
@@ -169,7 +169,7 @@ Each year, the justices consider about ten thousand petitions for certiorari, an
 
 Likewise, the justices don’t actually write their opinions anymore, and so—like a Renaissance master whose mentees produce paintings that he signs—each one must seek out young clerks each year who are worthy of using his name, and must hone them in his image. And what is the art of each age but that medium from which authors disappear? A grocery list isn’t literature because it only matters in relation to its actual writer, and the same holds true for “identity novelists” (whereas words like Joycean and Kafkaesque have transcended their original husks, and have thus become proper brands). May they become the curators of our national culture, like Homer and Hesiod before them.
 
-*\*\*
+* * *
 
 And may they give us more worthy gods to worship: worthier than sad props like Hardwick, Lawrence, Floyd, and Lacks. These empty bags of aggrieved meat only occupy our people’s jurisprudence because—as the court gained more control over its docket—it began to impose new kinds of requirements on its cases. In short, it switched from only hearing technical disputes to just hearing ethical ones; and because the court exerts tremendous amounts of selection pressure, it thus began selecting for fake grievances rather than fake debates.
 
@@ -183,7 +183,7 @@ This shift from technical to substantive disputes intuitively expanded the judic
 
 Around this time, congress also granted the supreme court administrative powers over the judiciary: the Judicial Conference gave it authority over its judges, and the Administrative Office gave it authority over its courts. And the Rules Enabling Act gave it authority over its internal practices (like rules of evidence and rules of procedure). Previously, the circuits had each governed their own judges—on issues ranging from discipline to assignments—and the executive branch had governed the courts; and state-level practices governed its internal rules. And the supreme court finally got its own building.
 
-*\*\*
+* * *
 
 But what does all this have to do with the book I’m ostensibly reviewing? Well, here’s a summary from GPT:
 

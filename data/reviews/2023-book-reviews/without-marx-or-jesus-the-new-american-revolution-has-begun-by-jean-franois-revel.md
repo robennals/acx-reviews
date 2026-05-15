@@ -33,7 +33,7 @@ He criticized de Gaulle and the new regime he built in 1958, the Fifth Republic.
 
 For Revel, however, the U.S. was not just a backdrop against which the flaws of the French system came to the surface. In his eyes, America is a civilization that, in contrast with Europe, has “the ability to formulate cultural prototypes and prototypes of political societies.”
 
-*\*\*
+* * *
 
 Revel wrote in 2000 that if the French left and right were stripped of their anti-Americanism, there would be nothing left of their political ideas. This assessment may be considered too harsh, but every political formation and intellectual involved in politics in France had to grapple with their stance towards the United States as a global superpower. These issues boiled down to two questions, which Richard F. Kuisel formulated as follows in _The French Way: How France Embraced and Rejected American Values and Power_: “How can we avoid American hegemony and remain independent? How can we be modern and yet remain French?”
 

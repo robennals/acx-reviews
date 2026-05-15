@@ -34,7 +34,7 @@ This doesn’t mean that gender is unimportant. Our society is organized around 
 
 Helen Joyce would take a different approach to TSA pat downs. Were she to don the blue button-up and golden badge, she would skip the “are you male or female at the airport” question. She doesn’t need to ask because she already knows. She sees my stature and how I move. She hears my voice. And despite my long hair and adorable blouse, she effortlessly codes me as male. It’s not that I don’t look good, but eons of evolutionary programming are difficult to defeat. “Good afternoon. One moment please,” she would say, before going to fetch a male screener.
 
-*\*\*
+* * *
 
 The central idea of Joyce’s _Trans, When Ideology Meets Reality_ concerns the doctrine of gender self-identification. The idea that people should count as men or women according to how they feel and what they declare. Joyce argues that this idea is wrong. She encourages us to understand the movie _[The Matrix](https://www.imdb.com/title/tt0133093/?ref_=fn_al_tt_1)_ as an extended allegory for the doctrine of gender identity. (After the film’s release, sibling directors Lana and Lily Wachowski both transitioned from male to female.)
 
@@ -42,7 +42,7 @@ Most people in _The Matrix_ experience a reality like our own. Yet, a small numb
 
 Just like the characters couldn’t perceive their true self within the confines of _The Matrix_, one cannot know their true gender through observation of the material world. The most salient aspects of gender can only be understood through introspection. We know gender identity exists for similar reasons that we know consciousness exists. Namely, that we feel it within our minds, or at least many people do. If you don’t personally experience a gender identity, it does not mean you don’t have one. Often, it is only when our gender identities clash with our external physical and social existences that they enter the foreground of our minds.
 
-*\*\*
+* * *
 
 Joyce is skeptical of this story. When we identify with a particular gender, what exactly are we identifying with? Are we identifying with specific body parts or specific cultural rituals? If so, why shouldn’t these physical and social phenomena be viewed as the basis of sex and gender? Why should gender identity be given precedence?
 
@@ -52,7 +52,7 @@ When trans people say they identify with a gender, they often seem to be referri
 
 More commonly, trans activists see no issue with boys liking pink. To them, the notion that gender identities can be decoupled with anything in the real world is a feature, not a bug. Historically, gender roles have been arbitrary, burdensome, stifling, and unfair. But strong rigid gender roles aren’t possible in a world where we can effortlessly hop between countless gender identities. In this way, gender identity theories can be seen as an intellectual pathway towards a post gender world.
 
-*\*\*
+* * *
 
 Joyce thinks this is dangerous idealism. There are biological realities that separate men and women. Female bodies bring unique risks and unique burdens. Pretending that sex doesn’t exist does not make it so and can be actively harmful. She argues that, in recent years, British and American society has become deluded by the ideology of gender identity, and has rejiggered their institutions accordingly.  Increasingly, sex-segregated facilities and organizations define sex using self-identification. This has extended not just to restrooms, but also to prisons, homeless shelters, and sport associations.
 
@@ -62,7 +62,7 @@ Joyce believes that basing sex-segregation on self-identification is almost as b
 
 Joyce has a similar take with respect to trans women seeking to participate in women’s sports. The entire basis of gendered sport leagues was to account for male physical advantages. Joyce describes the science behind why men dominate women in athletic competition. Women’s bodies, including their body fat percentage and hip structure, are evolutionarily optimized for bearing children. This leads women to have systematic physical disadvantages in nearly every sporting performance category. Joyce argues that even for trans women who medically transition after puberty, most of these advantages are preserved. And for trans women who identify as women while maintaining their natural testosterone levels, the male-advantage remains fully intact. This is another example of self-identification effectively undermining the benefits of sex-segregation. Again, the victims are almost always women, who are denied the glory of victory or sometimes even the opportunity to compete.
 
-*\*\*
+* * *
 
 A separate focus of the book is a critique of pediatric gender medicine. Joyce covers the “desistance” literature, which shows that, when left untreated, most children with gender dysphoria eventually [grow out of it](https://en.wikipedia.org/w/index.php?title=Gender_dysphoria_in_children&oldid=1080477141#Prospective_outcomes). However, it’s becoming less common for gender dysphoric kids to be left untreated. Many of them socially transition, sometimes at very young ages. If the dysphoria persists to early adolescence, the [professional standards of care](https://www.endocrine.org/clinical-practice-guidelines/gender-dysphoria-gender-incongruence#1) recommend using drugs to suppress the onset of puberty. By age 16, the child can start receiving cross-sex hormones. Joyce is concerned that the long-term effects of this protocol are insufficiently studied. Moreover, the results of cross-sex hormone therapy are dramatic, particularly when started at young ages, and can lead to permanent loss in fertility.
 
@@ -70,7 +70,7 @@ People see puberty blockers as a moderate intervention for transgender youth bec
 
 A [UK study](https://www.medrxiv.org/content/10.1101/2020.12.01.20241653v1) of 44 patients, aged 12 to 15, found that all but one recipient of puberty blockers eventually progressed towards receiving cross-sex hormone therapy. Joyce interprets these results, in combination with the desistance literature, as showing that puberty blockers cause persistence. Joyce believes that if the kids in this study were left alone, they would have grown out of their gender dysphoria. Instead, these children are subjected to a cascade of interventions, ending in surgery, and often leading them to become a life-long trans person. Joyce is unimpressed by [the literature](http://www.fundacionjuntoscontigo.org/estudios/bloqueadores.pdf) showing that children subjected to this protocol grow up to be highly functioning adults. In her view, they could have just as easily been highly functioning cisgender adults, spared the burden of rough surgeries and with their fertility intact.
 
-*\*\*
+* * *
 
 Contrary to the cover blurb given by Richard Dawkins, _Trans_ is not a “[thoroughly researched](https://upload.wikimedia.org/wikipedia/en/d/d7/Trans-_When_Ideology_Meets_Reality_cover.jpg)” book. The book has no footnotes, which makes fact-checking Joyce’s claims an arduous process. It’s also difficult to verify if she is addressing certain lines of evidence, because the book has no index. There is a “further reading” section, but I sometimes struggled to find where she was getting her information, even after going through each listed reference for the entire chapter.
 
@@ -90,7 +90,7 @@ Benjamin accepted a job as Friedmann’s assistant and traveled to the United St
 
 Joyce’s gloss on the above history is that Benjamin was an “out-and-out quack” whose “fraud” was exposed. I can see why that narrative is useful in her effort to portray transgender medicine as corrupt from the start. But it’s not true. Over the subsequent decades, Benjamin systemized transgender medicine, eventually publishing _[The Transsexual Phenomenon](https://en.wikipedia.org/wiki/The_Transsexual_Phenomenon)_, a clinical treatment guide informed by extensive experience working with transgender populations. His core recommendation, that sometimes the best we can do is “[adjust the body to the mind](https://www.tandfonline.com/doi/abs/10.1080/00224496709550519?journalCode=hjsr20),” is still widely-accepted in contemporary clinical practice.
 
-*\*\*
+* * *
 
 Joyce’s discussion routinely omits research that undermines her viewpoint. For example, she repeatedly asserts that allowing trans women access to female facilities would pose a safety risk to women. However, the only empirical research she provides to support this view is a reference to this report that [found that 90%](https://www.thetimes.co.uk/article/unisex-changing-rooms-put-women-in-danger-8lwbp8kgk?region=global) of “changing room sex attacks” happen in unisex changing rooms. The source article provides minimal detail on how this estimate was developed.
 
@@ -102,7 +102,7 @@ At least in the United States, there have been significant policy changes in thi
 
 No, they didn’t. If anything, localities with trans-affirming policies experienced a more favorable trend in the number of criminal incidents within bathrooms. Let’s not over-state this evidence. It’s a good paper, but it’s just one paper. The authors note, bathroom crime is rare, and that makes it hard to detect a signal. They also don’t report any evidence on whether the policy changes even affected transgender bathroom use patterns. With respect to this paper, I am only confident about one thing. If this paper had shown an unfavorable result for trans-affirming bathroom policies, it definitely would have been featured in Joyce’s book.
 
-*\*\*
+* * *
 
 I’m not surprised that Joyce covered the puberty blocker issue. It’s a standard topic within the trans-concern literature. However, it’s hard to see how this topic relates to the rest of her book. There is no obvious connection between the treatment protocol of trans children and gender self-identification. Moreover, many of Joyce’s concerns would, at least superficially, be resolved if more people transitioned before puberty. Absent a first male puberty, trans women would likely fit-in just fine playing women’s sports or serving time in female prisons. Young transitioners typically pass so well, Joyce would probably never even notice them. If anything, Joyce’s advocacy stance on puberty blockers seems in tension with most of her other concerns.
 
@@ -118,7 +118,7 @@ Moreover, Joyce’s “cascade of interventions'' hypothesis is essentially spec
 
 I have my own kids. Sometimes, I wonder what I would do if my child had gender dysphoria and wanted to take drugs to suppress puberty. I think I would want to wait a bit, let them experience some of the effects of their natural puberty, and regularly check-in to see how they felt. The value of that information just seems too important to pass up altogether. But I wouldn’t want to wait too long and doom the prospect of them passing in their target gender. The decision for how long to wait would be a total nightmare because I wouldn’t know what to do. Also, my desire to make a thoughtful decision customized to my child’s circumstances would guarantee that idealogues on both sides would call me a child abuser.
 
-*\*\*
+* * *
 
 Joyce claims that her book is not about trans people, but rather about the philosophy of self-identity and trans activism. Yet, Joyce makes many claims about the trans population. She curates stylized profiles and anecdotes about transgender people. Here are some excerpts to illustrate the types of trans-women that command Joyce’s focus (note: I’ve changed all the names):
 
@@ -137,7 +137,7 @@ For many of her readers, Joyce’s book will likely be their primary source of i
 
 And the policy environment here is very dynamic. Only since 2020 has the United States [adopted a nationwide prohibition](https://en.wikipedia.org/wiki/Bostock_v._Clayton_County#Legislation_and_prior_case_law) on employment discrimination against transgender people. Before January 2021, the United States had a blanket ban on [transgender military service.](https://en.wikipedia.org/wiki/Transgender_personnel_in_the_United_States_military) In thirteen countries, [being transgender is explicitly illegal](https://www.forbes.com/sites/jamiewareham/2020/09/30/this-is-where-its-illegal-to-be-transgender-in-2020/?sh=58fd64795748). On all these policy questions, I suspect Joyce would take a trans-affirming position. Yet, her book is so loaded with anti-trans affect, that I suspect her impact will be to push people towards the anti-trans vote on every issue.
 
-*\*\*
+* * *
 
 This book is about _Trans_ identity. The _Trans_ identity that I am most deeply familiar with is my own. So, I am going to close by talking about myself. From my earliest memories, I have always had a strong desire to be female. When I felt male, I felt bad. When I felt female, I felt good. I don’t know why these things caused me to feel good or bad. That’s just how I am built.
 
@@ -161,7 +161,7 @@ I knew who was telling the truth. I realized how weak I had become. I had given 
 
 So, I went back to using my real voice. I started sleeping in and not worrying about the make-up. Increasingly, I wore jeans and t-shirts. After this, I didn’t need to worry about what my waiter would say. The “he’s” would come, but I just wasn’t invested anymore. Moving to this approach changed my life. For me, the recipe for being trans and being happy, was to accept certain hard truths. I’m never going to be a woman, like my sisters are women. Some people are always going to see a male when they look at me. Those are the facts of my life. It’s still a good life.
 
-*\*\*
+* * *
 
 As much as I genuinely hated the experience of reading Joyce’s book, my personal experience leads much of her central message to resonate with me. From my perspective, being trans is nothing like _The Matrix_. It’s not a deep self-knowledge of some secret non-physical element of reality. It is just a base desire to be like the opposite sex. It’s not even much of an identity. It’s more like a body image problem.
 

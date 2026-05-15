@@ -19,7 +19,7 @@ tags:
 
 The book makes one think about the role of personalities in history: Cuba became communist just because of the Argentine Che Guevara. He planted the idea of communism in the mind of Fidel Castro. Fidel wasn’t a communist in the beginning. Fidel was an ambitious, Che an idealist. Fidel wanted power, Che wanted a better world. Fidel had bourgeois leanings: he liked comfort, good food and beautiful women. Che pushed correctness and self-denial close to asceticism.  And still, Che, _le chevalier sans peur et sans reproche_[[11]](#ftnt11) of communism, had a far bigger negative impact. Without Che, Fidel would have been just an ordinary Latin American dictator.
 
-*\*\*
+* * *
 
 Don’t think that this book only shows Che Guevara’s qualities, although some people consider it a hagiography.  On the other hand, I’ve seen Marxist sites that consider Jon Lee Anderson as a detractor who tainted Che Guevara’s memory. Because Anderson tries to be objective: he also writes about the shootings ordered by Che Guevara and about his disastrous impact for the Cuban economy, as a Minister of Industry  (He was more communist than Moscow, he didn’t accept even the mild financial autonomy  of the companies  and financial rewards for workers allowed in other communist countries, he thought  that the economy could work only on moral motivations.) and about the toughness of this symbol of rebellion with his subordinates (for serious faults, he punished  his fighters with days without any food, and his subordinates at the Ministry, with months in the labor camp Guanahacabibes). Although the author lived for years in Cuba, when researching the book, the book is far from being pro-Cuban propaganda. I won’t be surprised to find that it’s banned in Cuba – actually, I would be surprised if it isn’t.
 
@@ -27,7 +27,7 @@ Of course, Anderson isn’t totally objective. An article about Che Guevara’s 
 
 To his own conscience and to his old friends shocked by his metamorphosis in a “killing machine” (like Alberto, the guy with the motorcycle), he justified his actions on utilitarian grounds, speaking about the future. If you don’t kill them, they kill you. Yes, they also have wives and children, but you have the chance to save thousands of future children from poverty and hunger. As time has shown, unfortunately it was the other way around:  instead of saving, he condemned thousands of future children to poverty, hunger, rationed food: the food ratios were introduced in 1962, when he was minister (7 months before that, at an international conference, he boasted that Cuba will become self-sufficient for food and will have 10% economic growth per year).  I grew up in a communist country in the 80’s, a country that had food ratios.  Trying to imagine what would have been to live like that all my life helps me to understand, easier than most, the actual negative impact Che Guevara had on Cuba.
 
-*\*\*
+* * *
 
 Ernesto Guevara de la Serna was born in a good, upper class, blue tribe Argentine family that claimed to have aristocratic origins. The family lost its wealth in time, but not its social status. His parents, especially his mother, were cultured people, nonconformist for their time and place, irreligious, left-leaning, supporting the left during Spanish civil war, democrats, opposing Peron’s dictatorship. They had a messy but welcoming house, full of books everywhere, on every piece of furniture.
 
@@ -43,7 +43,7 @@ Until then, he used his vacations to travel: through Argentina on bike, on the o
 
 Until he reached another country in the fever of revolution: Guatemala. Here he lived interesting times: he saw the contra-revolution orchestrated by the CIA, that replaced an elected president, Arbenz, with a dictator, Castillo Armas, to put an end to the agrarian reform and nationalizations that touched American interests. He already flirted with Marxism when reaching Guatemala, but after he saw the planes shooting civilians, after he offered to fight for the revolution but was sent to a hospital, as a doctor,  after he saw the demise of the president under USA pressure  and the repression that followed, the arrests (including his future wife, Hilda), he came from this experience completely radicalized, full of powerless revolt against the Americans and convinced that the solution for Latin America’s problems is to be found behind the Iron Curtain. He left for Mexico, where he met Fidel Castro, who invited him to join his revolution (because he needed a doctor).
 
-*\*\*
+* * *
 
 The Cuba landing was a disaster. They were discovered immediately by the army and destroyed. From about 80 fighters who came with the ship, only about a dozen survived, dispersed in the mountains. Che himself was shot in the neck and felt he was dying, but survived. And still, there, in the mountains, the minuscule rebel group survived, grew more and more, fought and, after 2 years, finally won. How it was possible?  With the help of the local peasants, who hid them, fed them and joined their fight, and also due to the urban people from the city movement, mostly students and young professionals, who, risking their lives, constantly send them weapons, money and food. The peasants wanted land, the urban young people wanted freedom – neither had any idea that they were fighting for the victory of communism!
 
@@ -59,7 +59,7 @@ But Che couldn’t come back vanquished. The fact that he had in Cuba 5 children
 
 Why did the guerilla tactics that succeeded in Cuba lose in Bolivia? Maybe because in Bolivia they lacked the support of the peasants, who saw them as the foreign invaders they were. He only succeeded to recruit a few workers from the cities, communists disavowed by their own party leadership, but not a single peasant. The Native American peasants, who received land at their revolution, as I said, looked at these white armed bearded aliens with fear and hostility and avoided them as much as possible. On top of this, Che really had bad luck. They became totally isolated after their radio transmitter broke and Tania, their contact with the Cuban spy network, had to stay with them after a reckless mistake. Maybe she was attracted by the guerilla life or maybe she was attracted by Che, although the book doesn’t claim that they were lovers. (But Che had an extraordinary charisma, he fascinated not only women but even men sometimes, once he received a declaration of love from a Soviet official!) And after the Bolivian army discovered the hiding place where they kept their documents, food and medicine, Che couldn’t control his asthma anymore and the illness subdued him, transforming him in an invalid who could barely walk. What followed was a long agony…
 
-*\*\*
+* * *
 
 The book is well documented and rich in details, sometimes captivating like a good novel, other times boring due to that multitude of details that offered context but interrupted the story.
 

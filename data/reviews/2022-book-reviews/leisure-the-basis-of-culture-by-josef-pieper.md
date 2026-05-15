@@ -131,7 +131,7 @@ This is what lore looks like. And it has within it
 
 > “an element of imaginative irony to all the postures. We are aware enough of uncertainties, ambiguities, and gaps in our knowledge that we are not entirely sure of ourselves, so there is some invention and kayfabe-like willed belief involved. A gap between felt and performed confidence.”
 
-*\*\*
+* * *
 
 All said,  _Leisure: The Basis of Culture_ is a a great book. It’s a great book because it asks hard questions. Questions we aren’t asking because _we think_ they don’t have immediate utility. Questions we aren’t asking precisely because they are too hard to tackle and seem to go nowhere. Questions that are unsolvable (or only partially solvable). Questions which are the kind of questions philosophy, at least according to Pieper, is meant to ask. Recommended, if you have the patience.
 

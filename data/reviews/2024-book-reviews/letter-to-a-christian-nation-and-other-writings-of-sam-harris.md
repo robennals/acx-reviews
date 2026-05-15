@@ -44,7 +44,7 @@ When Harris originally invited Stewart on his podcast, he described him as:
 
 How did a potentially fruitful dialogue between two such interested and interesting people, with presumably broadly overlapping goals for the future of humanity, get so badly derailed from the start?
 
-*\*\*
+* * *
 
 At first glance, the disconnect between Harris and Stewart apparently centered on their fundamentally different views about religion. However, I believe that another, more subtle factor was their conflicting values regarding communication. Harris was focused on rationally evaluating the relative merits of different truth claims regarding “Islam as a system of ideas” and “how these ideas produce violence and intolerance,”[[13]](#ftnt13) while Stewart seemed to be much more attuned to the feelings of the people involved, including how listeners who thought of him as an ally might perceive the degree to which he was acquiescing to Harris’s positions:
 
@@ -52,7 +52,7 @@ At first glance, the disconnect between Harris and Stewart apparently centered o
 
 Stewart’s discomfort with Harris’s view of Islam, and the mismatch of values revealed by their conversations (hinted at in Stewart’s phrase “disagreement which is hidden under politeness”), suggest the need to move beyond religion as the sole cause for this miscommunication and to consider Harris’s ideas about honesty as well. Looking more deeply still, I think that the links between Harris’s perspectives on these societal and interpersonal issues also extend to his conclusions about mental life—including the self, consciousness, and free will.
 
-*\*\*
+* * *
 
 I admire Harris for a lot of reasons: he is intellectually curious; he has the courage of his convictions but is open to changing his mind; he is committed to reason and evidence and engaging in good-faith conversations with people who disagree with him; and he has worked diligently within his sphere of influence to effect positive change in the world. Although I share much of Harris’s worldview, I often end up feeling perplexed by his conclusions about certain philosophical topics. Having read his essays and books and listened to his podcast for many years, I think I see a few reasons behind some persistent misunderstandings between Harris and his critics.
 
@@ -108,7 +108,7 @@ I see this perspective as an example of Harris misinterpreting his own subjectiv
 
 For members of these varied faith communities across multiple societies and countries, professing personal religious values did not prevent them from taking scientific evidence seriously; conversely, trusting scientific experts did not cause them to abandon their religious identities. Harris may have well-reasoned arguments for his own personal rejection of religion, but many other people seem to have different preferences. It’s worth considering this point made by the journalist David Goodhard: “Humanism has had a very good critique of religion, but it's not been able to replace it.”[[38]](#ftnt38)
 
-*\*\*
+* * *
 
 Perhaps because of what I perceive to be his rationalism, moral absolutism, and dichotomous thinking about religion, Harris often appears to understand, identify with, and devote disproportionate attention to fundamentalist religious extremists, while having a harder time relating to religious moderates—people who prefer to keep the “reality mindset” and “mythology mindset” separate—as these passages from _Letter to a Christian Nation_ suggest:
 
@@ -164,7 +164,7 @@ Sounds plausible—let’s hear the suggestion for what more effective, honest c
 
 > But that doesn’t mean someone more courageous or capable than you couldn’t have produced a better result with the truth. Telling the truth in such a circumstance need not amount to acquiescence. The truth in this case could well be, “I wouldn’t tell you even if I knew. And if you take another step, I’ll put a bullet in your brain.”[[49]](#ftnt49)
 
-*\*\*
+* * *
 
 Harris’s imaginary dialogue with a murder at his door illustrates another tradeoff involved with honesty that goes largely unaddressed in his book: an increase in interpersonal conflict. A true statement may also be hurtful, even if no one ends up getting shot in the head; whether sharing such a painful truth will lead to a better and deeper relationship (as Harris suggests) or damage the relationship beyond repair doesn’t seem like a foregone conclusion to me, and likely depends on the personalities of the people involved. In some cases, avoiding painful truths may allow for continued harmony in relationships that one or both parties want to maintain but at a more superficial level.
 
@@ -174,7 +174,7 @@ When I have taken the five-factor personality test in the past, I have occasiona
 
 I have made enough miscalculations in my own life, while intending to communicate honestly but inadvertently causing pain to others, that I now make more effort to anticipate other people’s reactions, which are often different than I think mine would be. Unfortunately, correctly anticipating others’ desires can be challenging.
 
-*\*\*
+* * *
 
 For Harris—and for me much of the time—the purpose of communication is to literally and accurately convey factual information, as he explains in _Lying_:
 
@@ -195,7 +195,7 @@ I tend to share this preference for direct communication, but in my experience, 
 
 It seems to me that some balance between supportive dishonesty and painful truths may be desirable in many relationships, not just fictional ones.
 
-*\*\*
+* * *
 
 Another potential role of communication that may be at odds with Harris’s view of honesty involves the dynamics of relative social standing. In a perceptive 1816 letter, the political commentator Margaret Bayard Smith wrote the following about the wife of soon-to-be-president James Monroe:
 
@@ -214,7 +214,7 @@ For me, a more realistic taxonomy of diverse relationships with honesty was outl
 
 > Sometimes people lie, right? “That guy lied.” They found out he _lied_. Then there’s somebody who lies once in a while; he can’t quite stay inside the boundaries of truth, right, _somebody who lies sometimes_. Then you have a _liar_, who’s somebody who’s almost like it’s like a problem; they can’t help it, they lie a lot. Then you have just _lying sack of shit_. And that’s somebody who just [proud vomiting noises]. They just lie. They like it. _He likes it_. He goes “Heh _heh_, it wasn’t even true, wudn’t even _true_! And I then I said _they_ were liars.” Like, it’s just an insane, it’s just gross. He’s just a gross crook dirty rotten lying sack of shit.[[62]](#ftnt62)
 
-*\*\*
+* * *
 
 For many people, the preferred way to handle honesty in most situations is probably to make cost/benefit calculations on a case-by-case basis. The legal system distinguishes “the truth, the whole truth, and nothing but the truth,” and each of these aspects of honesty may need to be carefully managed in social networks including nuclear families, extended families, in-laws, friends, acquaintances, and strangers, with relationships that may develop, persist, or dissolve in a variety of settings, including a shared home, social gatherings, and workplaces.
 
@@ -257,7 +257,7 @@ The neuroscientist Kevin Mitchell explains why we might expect this to be the ca
 
 > [A]nimals that move around in the world must, at the very least, model their own existence and their own actions to enable them to distinguish self-caused from externally caused perceptual changes. This necessarily entails a subjective perspective, which may in some way anchor subjective experience, however basic that may be.[[74]](#ftnt74)
 
-*\*\*
+* * *
 
 Here is how Harris’s subjective argument against the objective existence of the self begins:
 
@@ -271,7 +271,7 @@ From my perspective, Harris has the characterization of events backward here: _h
 
 Despite his subjective experience that “any sense of having a body disappeared,” Harris does not seem to have concluded that the body is an illusion. Why not? To follow the subjective argument that the self is an illusion through to its logical conclusion, every experience in the brain that can be even temporarily paused should be called an illusion. Numbness in a limb would prove that touch is an illusion, Covid-induced anosmia would prove that smell is an illusion, and falling asleep would prove that consciousness is just as illusory as Harris regards the self to be: “_Like many illusions, the sense of consciousness disappears when neglected, and this is done through the practice of closing one’s eyes when tired_.” But here, Harris balks; consistent with Buddhist tenets, he maintains that “Consciousness is the one thing in this universe that cannot be an illusion.”[[79]](#ftnt79)
 
-*\*\*
+* * *
 
 In _Waking Up_, Harris acknowledges that there is no agreed-upon definition of consciousness:
 
@@ -301,7 +301,7 @@ The claim being made here—that the emergence of life from nonliving matter is 
 
 Harris’s statements about consciousness—his intuition for how many nerve fibers are sufficient to integrate neuronal activity and his conclusion that information partitioning between the hemispheres requires our brains to harbor multiple centers of consciousness—seem to me to be, as with the topics of religion, honesty, and the self discussed above, not empirical arguments supported by evidence, but instead subjective expressions of personal belief that need not necessarily be shared by other people.
 
-*\*\*
+* * *
 
 In _Free Will_, Harris argues that free will is so illusory that even the illusion of free will is an illusion:
 
@@ -329,7 +329,7 @@ Ultimately, Seth does step back from complete nihilism regarding the existence o
 
 I’m much more comfortable with this limited claim that the way things appear in perceptual experience is a construction of the brain—neurologically, what else could it be? If, though, we accept this framing, then Harris has described two different subjective perceptions, both of which are constructions of the brain: one of the self existing and another of the self not existing; by what criteria should one illusory hallucination be called false and another one true?
 
-*\*\*
+* * *
 
 Harris goes on in _Waking Up_ to make a related argument that the self can’t be real because people can be led to misperceive it in artificial experimental settings: “And the fact that people report losing their sense of self to one or another degree suggests that the experience of being a self can be selectively interfered with.”[[102]](#ftnt102)
 
@@ -347,7 +347,7 @@ There is good reason for this to be the case. For billions of years since the or
 
 This relentless optimization has led to the existence of organisms that are highly incentivized to make accurate decisions under the conditions their ancestors evolved in. Nonetheless, because they are subject to constraints and tradeoffs, no evolved abilities will be perfect in all situations, and it is unsurprising to me that our senses can be fooled when placed in contrived situations specifically designed to mislead us; such failures under unnatural conditions need not be interpreted as evidence that the faculties do not function under natural conditions.
 
-*\*\*
+* * *
 
 Like these arguments about experimentally altering people’s perception of the self, Harris makes the (to me, also questionably relevant) point in _Waking Up_ that the sense of self can be disturbed under other abnormal circumstances:
 
@@ -370,7 +370,7 @@ We seem to have arrived at another semantic disagreement about how to categorize
 
 > _Experiences of unified buildings do not signify the existence of an “actual building.” Indeed, the experience of being in a unified building can come undone all too easily, or disappear entirely in strong winds and in severe cases of landslides, and it can be warped and distorted in cases of earthquakes._
 
-*\*\*
+* * *
 
 Harris’s rejection of the self in _Waking Up_ encompasses what I see as its major role in the body:
 
@@ -392,7 +392,7 @@ Contrary to these two neuroscientists, and with appropriate humility, I’ll off
 >
 > Why would a society of mental agents need an executive at the top? … No matter how many agents we have in our minds, we each have exactly one body. Custody of each major part must be granted to a controller that selects a plan from the hubbub of competing agents.[[116]](#ftnt116)
 
-*\*\*
+* * *
 
 Harris’s description of perceptual experience as though unaware that humans have a brain connected to the rest of the body by a peripheral nervous system is not an unrepresentative oversight, but a favorite approach; he often returns to a framing that I don’t know what to call other than feigned obliviousness:
 
@@ -403,7 +403,7 @@ Harris’s description of perceptual experience as though unaware that humans ha
 
 As former President of the United States and noted wiseguy Barack H. Obama once said: “Now, first of all … _what_?!”[[121]](#ftnt121)
 
-*\*\*
+* * *
 
 For me, human anatomy sufficiently explains the experience that Harris is describing:
 
@@ -423,7 +423,7 @@ In an endnote to _The Moral Landscape_, Harris approvingly summarizes the psychi
 >
 > The multiplicity of competing interests in the human mind causes us each to function as a loose coalition of interests that may be unified only by resource limitations—like the fact that we have only one body with which to express our desires, moment to moment. This obvious constraint upon our fulfilling mutually incompatible ends keeps us bargaining with our “self” across time ….[[125]](#ftnt125)
 
-*\*\*
+* * *
 
 Harris’s subjective, personal, and dichotomous conviction that the self is an illusion—and his portrayal of this conclusion as an objective, universal truth—parallels his related belief that free will is another dichotomous illusion that should be rejected, and again I think he misrepresents what most people believe. Perhaps unexpectedly, in his arguments throughout _Free Will_ I notice the emergence of a self that is thoroughly denied in _Waking Up_.
 
@@ -463,7 +463,7 @@ What Harris goes on to argue (implausibly, to me), is that this widely understoo
 
 Claiming to know what most people think without providing evidence is not persuasive to me here. I did not find Harris’s perspectives on science and religion, honesty, consciousness, or the self to be representative of typical understandings. What do “most people” really mean by free will?
 
-*\*\*
+* * *
 
 The late historian of science William Provine anecdotally reported that he polled the several hundred students in his undergraduate evolution course each year about their belief in free will. This is what he found:
 
@@ -481,7 +481,7 @@ Harris himself describes this normal conception of free will in a passage from _
 
 Harris’s impression of agency, his feeling that his actions were under his control, not automatic, and “the result of [his] brain,” (who else’s brain would it be?)—these are what most people mean by free will, not the expectation of a Genie-like ability that he imputes to them.
 
-*\*\*
+* * *
 
 I think that a second important source of mutual misunderstanding about free will comes from selecting the appropriate timescale (or level of analysis) at which to describe causation. Kevin Mitchell argues for “cognitive realism”—the view “that neural patterns have causal power in the system solely by virtue of what they mean; that is, by virtue of their status as representing goals, beliefs, intentions, or other elements of cognition (whether conscious or not).”[[140]](#ftnt140)
 
@@ -516,7 +516,7 @@ Kevin Mitchell explains the significance of this neuroanatomy for decision-makin
 
 Eventually—at different points and to greater or lesser degrees in different people—most of us begin to develop more and more deliberate control over the decisions we make. I expect that the exercise of this control would feed back to influence the brain’s structure, and in _The Moral Landscape_, Harris argues that it does: “What if I could change the architecture of my mind? On some level, this has always been possible, as everything we devote attention to, every discipline we adopt, or piece of knowledge we acquire changes our minds.”[[149]](#ftnt149)
 
-*\*\*
+* * *
 
 The dictionary definition of _will_ is “the mental faculty by which one deliberately chooses or decides upon a course of action.”[[150]](#ftnt150) For me, free will seems best understood as a continuously varying ability to make choices—again, in contrast to the dichotomous “_you-have-it-or-you-don’t_” conception presented by Harris. My impression is that people seem to understand this variability; we don’t treat all actions by all individuals as deriving from an equal, uniform ability. Rather, we seem to assign responsibility to others based on how much control we expect them to have over their own actions.
 
@@ -552,7 +552,7 @@ And when he wants to win an argument against a strange analogy he has put into a
 
 > Imagine that a person claims to have no need to eat food of any kind—rather, he can live on light. From time to time, an Indian yogi will make such a boast, much to the merriment of skeptics. Needless to say, there is no reason to take such claims seriously, no matter how thin the yogi. However, a compatibilist like Dennett could come to the charlatan’s defense: The man _does_ live on light—we all do—because when you trace the origin of any food, you arrive at something that depends on photosynthesis. By eating beef, we consume the grass the cow ate, and the grass ate sunlight. So the yogi is no liar after all. But that’s not the ability the yogi was advertising, and his actual claim remains dishonest (or delusional).[[157]](#ftnt157)
 
-*\*\*
+* * *
 
 Harris’s denial of free will—it would be uncharitable to use his own phrase and call it “dishonest (or delusional)”—extends in a few additional directions, which strike me as similarly misguided:
 
@@ -593,7 +593,7 @@ In his second book, _The Extended Phenotype_, Richard Dawkins discusses misunder
 
 From my perspective, if you wanted to program a robot to have free will, you would need to give it a will. Neither programming it to always perform the same behavior, nor programming it to perform behaviors randomly, as Harris rightly points out, would do the trick; I am suggesting that programming the robot to perform the behavior _when it wants to_ would instantiate choice in a meaningful way. As discussed above, I understand the neuroanatomy of the brain to allow this ability—though of course, to varying degrees in different brains and at different times.
 
-*\*\*
+* * *
 
 So much for the past; second, on to the role of consciousness in free will. To me, Harris seems to be unnecessarily conflating consciousness and free will, and to be reading too much significance into the mysteriousness of our brains in action:
 
@@ -613,7 +613,7 @@ Another example from Harris may help illustrate these potential areas of disagre
 
 In both cases, Harris made a choice, even if there was more apparent agency the second time—again, with regard to my position that his dichotomous framing of discrete states of consciousness is misleading. The example also raises the question of who this “conscious witness of [his] thoughts and actions” Harris is referring to is, if not the self that, under other circumstances, he tries so hard to kill off? To me, this phrasing is indefensibly dualistic, with choices being made for an uninvolved, separate “_him_” somehow isolated from his physical brain. It would make no sense to describe the action of any other part of the body in this way: “_Did I bend my knee? No. The bending was done for me by events in my leg_.”
 
-*\*\*
+* * *
 
 Perhaps I am misunderstanding Harris, but in attempting to reject the existence of free will, he seems to have fully resurrected the self from its prematurely celebrated death:
 
@@ -634,7 +634,7 @@ Harris knows all of this:
 
 To me, this sounds like a return to Buddhist dogma, not the pursuit of a scientific understanding of the brain. How does Harris suggest that these mystical unauthored thoughts are able to author our actions—and who is immediately responsible for them if not our “selves”?
 
-*\*\*
+* * *
 
 I may not have succeeded in solving the age-old paradox of reconciling a materialistic universe with the importance of choice in our lives, but I don’t think that Harris has either. In attempting to bridge the disconnect between these two levels of analysis, some of his statements begin to make less and less sense to me:
 
@@ -646,7 +646,7 @@ I may not have succeeded in solving the age-old paradox of reconciling a materia
 
 What does it mean “to grab hold of one of your strings”? Who is doing the grabbing if not our selves? What is required “to steer a more intelligent course through our lives” if not free will?
 
-*\*\*
+* * *
 
 Despite his exhaustive arguments that it does not exist, Harris seems to end up agreeing with pretty much everything that I think we should care about with regard to free will:
 
@@ -661,7 +661,7 @@ If Harris is right that free will is an illusion, then so are all of our choices
 
 The eggs that Harris ultimately argues for sound indistinguishable from the free will that I have been describing, which is the free will that both the dictionary and surveys indicate that people think they have. If it’s purely a semantic disagreement, then the next question should be whether there are any real-world consequences that follow from how free will is framed.
 
-*\*\*
+* * *
 
 In _Free Will_, Harris considers the argument that people might benefit from believing in free will, or be harmed by abandoning it, but he quickly dismisses these possibilities:
 
@@ -701,7 +701,7 @@ Sapolsky (despite Harris’s assertion that “we’re the two people on Earth w
 
 > Yes, _but_—“but,” as in: it’s a really tall order to get someone to the point—you know, a concert pianist—where all they really feel is just gratitude that, “How in hell did I wind up with these fingers? How did I wind up with fingers that could do things that bring audiences to tears?” That sort of detachment, that’s a very—“How did I wind up being somebody who would work my ass off like crazy?” without feeling anything other than, “Huh—I just wound up that way.” … But that’s not a one-week project; that one’s a long-haul one.[[195]](#ftnt195)
 
-*\*\*
+* * *
 
 If there are general benefits of believing oneself to have free will, and general costs of believing oneself not to, it does not surprise me that many of Harris’s statements would strike some members of his audience as downright alarming:
 
@@ -794,7 +794,7 @@ Harris argues that only the “conscious witness of our thoughts and actions” 
 
 Harris’s rejection of free will, if taken to its logical conclusion, would reveal all choices to be fundamentally illusory. Rather than accept this conclusion, though, he still acknowledges the importance of characteristics traditionally understood as deriving from free will: deliberative and reflective thinking, decisions, intentions, efforts, goals, willpower, and moral responsibility, concluding that “the fact that our choices depend on prior causes does not mean that they don’t matter.”[[226]](#ftnt226) I believe Harris when he says that he can maintain this perspective while regarding free will as an illusion, but evidence from social science research suggests that most people benefit from a belief in free will and suffer from a denial of it.
 
-*\*\*
+* * *
 
 One generous reviewer of an early draft of this essay helpfully characterized it as coming across as a “personal attack.” I didn’t intend for it to be an attack of any kind—the tone I was aiming for was “playful”! Whatever sense of attack that remains in the text reflects my own failure to communicate my intended tone: I have thought of this whole review as a friendly conversation, with the goal of it being as useful as possible. To the degree that the structure of my comments is “personal,” though, that is a major theme I have focused on: my impression is that what Harris presents as objective and universal truths are often subjective and personal preferences.
 

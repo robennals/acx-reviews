@@ -34,7 +34,7 @@ This is a non-Book **review** of Bukele’s rise and his presidency. At the time
 
 As a good Bayesian, you should know by the end of this review whether to adjust your worldview to become more _Bukele-pilled_, or more _Bukele-skeptic_.
 
-*\*\*
+* * *
 
 In 2021, Alexander Scott wrote that Bukele might one day make a great Dictator Book Club entry [2]. Four years later, there still aren’t any non-hagiographical biographies on Amazon. Luckily for me, I need none, because I’ve witnessed the fall of the Republic myself:
 
@@ -52,7 +52,7 @@ Now, in the early years of my career, when I’m trying to start a family and no
 
 But the best that I can do is this: Review Bukele, for the entertainment of a wealthier, foreign audience.
 
-*\*\*
+* * *
 
 That might be better than it sounds:
 
@@ -84,7 +84,7 @@ I didn’t believe those Cassandras. Neither, apparently, did the prestigious jo
 
 But by 2022, El Faro had become one of Bukele’s fiercest critics. And by 2023, they had self-exiled to Costa Rica—one of the few opposition voices still standing.
 
-*\*\*
+* * *
 
 In hindsight, was ‘The World’s Coolest Dictator” actually playing 4-D chess, trying to shift the Overton window into ‘maybe we should actually elect him as dictator’? No one knows.
 
@@ -116,7 +116,7 @@ If you read it, you will see statistics similar to these.
 *   In 2015, El Salvador became ‘the world’s murder capital’, by reaching the highest murder rate outside of a war zone.
 *   Between 2015 and 2019, there was a sort of ‘asymmetrical war’ between the gangs and the State, which managed to gradually decrease the murder rate, at the cost of extrajudicial executions carried not by the gangs, but by the police, such as the _San Blas massacre_. [9]
 
-*\*\*
+* * *
 
 In this period, the “vibes” were as bad as the statistics would have you believe. El Salvador truly _felt_ like a real-life Gotham City.
 
@@ -130,7 +130,7 @@ Our resentment against the elites worsened after it was revealed by El Faro that
 
 In other countries, the criminals bribe the politicians; in El Salvador, the politicians bribed the gangs.
 
-*\*\*
+* * *
 
 By the late 2010’s the Salvadoran population itself became one of the most disillusioned with democracy in Latin America [10]. But hope remained in the form of one man.
 
@@ -173,7 +173,7 @@ What was Bukele 's alias in these _illegal_ negotiations? _Batman_. [14]
 ![](https://acximages.ennals.org/images/2025-non-book-reviews/94c5b139b631965e.png)Pictured: Bukele in 2023 touring the National Library.  
 Source: [https://www.youtube.com/live/9SMTnbnzReU?si=ljnHqwI6qwFF0ydB&t=747](https://www.youtube.com/live/9SMTnbnzReU?si=ljnHqwI6qwFF0ydB&t=747) 
 
-*\*\*
+* * *
 
 In fact, the more popular Bukele became, the more he fell out of favor with the FMLN. Eventually it became obvious that the left-wing party wouldn’t give him the nomination for the next presidential election. He intensified his criticism, which eventually led to him being expelled.
 
@@ -187,7 +187,7 @@ If GANA was a party for sale, Bukele had the money, and he bought them: He succe
 
 In the end, the attempts by the Supreme Court to block him may feel justified _in hindsight_, but they actually backfired, by making him even more popular. Forcing him to join the right-wing _GANA_ party might have been beneficial too, as this party had a presence in the rural areas, where Bukele was weaker.
 
-*\*\*
+* * *
 
 Near the midnight of February 3rd, 2019, Bukele surprised the entire country by winning the 2019 presidency with a landslide 53.1% of the vote. My entire family and myself weren’t surprised that he won, we were surprised that won _in the first round_.
 
@@ -211,7 +211,7 @@ In hindsight, we see that he _also had the loyalty of the gangs_, who saw in Buk
 
 At the same time, Bukele’s public rhetoric morphed to one of complete warfare against the gangs: He closed off all communication between the jails and the outer world. He ‘mixed’ the members of different gangs. He destroyed the graffiti and defaced the tombs of gang members. He praised the police and army as ‘heroes’, while decrying Human Rights defenders as ‘defenders of criminals’.
 
-*\*\*
+* * *
 
 Then came the turning point. On February 9, 2020, Bukele summoned Congress to discuss a security loan. When opposition deputies refused to show up, he entered Congress with armed soldiers on live TV. He prayed, sat in the president’s chair, and hinted at dissolving the Legislative branch. In the end, he decided to wait for the next elections, to defeat the opposition in the ballot boxes.
 
@@ -225,7 +225,7 @@ The new legislature’s first move: remove Supreme Court justices, replacing the
 
 I went back to my retweet that was critical of Bukele’s _autogolpe_, and promptly deleted it. I haven’t posted publicly about politics ever since.
 
-*\*\*
+* * *
 
 Alexander Scott argues that ‘all dictators get their start by discovering some loophole in the democratic process.’ What Bukele found was that he could just win all the votes and acquire all the power.
 
@@ -241,7 +241,7 @@ In this way, El Salvador is becoming like Singapore, at least in becoming a one-
 ![](https://acximages.ennals.org/images/2025-non-book-reviews/ed80ae9e546b2345.png)_Pictured: The equivalent of a State of The Union Address.  
 Source:_ _[https://www.asamblea.gob.sv/node/11257](https://www.asamblea.gob.sv/node/11257)_ 
 
-*\*\*
+* * *
 
 How did the local ‘oligarchy’ react to these abuses of power? By jumping into the Bukele bandwagon:
 
@@ -249,7 +249,7 @@ During the pandemic, Bukele met with the wealthiest businessmen in order to coor
 
 After the pandemic, Carlos Calleja, the right-wing billionaire _who had competed against_ _Bukele back in 2019_, had made so much money that his business group could afford to buy the South American _‘Grupo Exito’_ for over a billion dollars, in one of the largest transactions of Latin America. Roberto Kriete, possibly the wealthiest man of the country, recently inaugurated a new engineering-focused University, and Bukele himself gave the opening speech.
 
-*\*\*
+* * *
 
 So, during the 2019 – 2022 period, Bukele took effective control of:
 
@@ -284,7 +284,7 @@ This meant that actual Salvadorans were facing both increasingly unaffordable ho
 
 So, just like Erdogan did in the 2000s, Bukele asked himself ‘what would a real center-right President do?
 
-*\*\*
+* * *
 
 Even if Bukele hasn't spent the past five years mangling the Constitution to make it impossible to ever _not_ elect him, he probably still would have won elections in a landslide.
 
@@ -302,13 +302,13 @@ Maybe this is because, unlike Chavez, Bukele doesn’t have ‘enough oil money 
 
 After winning the 2024 re-election in a landslide, he proclaimed that his next challenge was to jumpstart the economy. To do this, he has recently been approved on a long-negotiated IMF loan that will hopefully see the Government reach fiscal sustainability without sacrificing long-term investing in infrastructure.
 
-*\*\*
+* * *
 
 Ironically, as Bukele adopted more moderate, center-right positions, he became more well known abroad as a far-right leader.
 
 And, just like Orbán, ‘it also catapulted him to fame in the wider world. Rightists across the continent began hailing him as the savior of Latin America, the man who stopped crime when no one else could. Now, Bukele started having grander plans, plans of becoming a beloved model for the world.’
 
-*\*\*
+* * *
 
 So, is Bukele going the way of Singapore’s Lee Kuan Yew, or of Turkey’s Erdogan?
 
@@ -375,7 +375,7 @@ I’m not going to deny that Bukele has already used lawfare against his politic
 
 Contrast that to what El Salvador experienced before and during the Salvadoran Civil War: The military literally shooting protestors on-sight, opposition activists executed by death squads. Nothing of that sort has happened. Yet.
 
-*\*\*
+* * *
 
 If this all looks like a very tiring job, it’s because it is: Bukele recently published that he only sleeps ‘two hours’ a day.
 
@@ -383,7 +383,7 @@ Maybe what separates a dictator from a leader is their laziness. It must be easi
 
 Luckily, Bukele is young: He seems to _enjoy_ the thrill of fighting, as long as he always keeps an ace up his sleeve.
 
-*\*\*
+* * *
 
 ## VI. A VISION FOR THE FUTURE.
 
@@ -397,7 +397,7 @@ If you want to know how I plan to measure this, and to forecast the future of Sa
 
 After all, if Bukele proves to be more like Erdogan, then I’ll be taking a real material risk _just by writing this review_ which acknowledges the gang truce as real. That’s a risk that I’m not willing to take without the protective mantle of pseudonymity.
 
-*\*\*
+* * *
 
 History hasn’t ended yet. We can take part in writing it ourselves. Maybe that’s what true democracy looks like.
 

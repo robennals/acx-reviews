@@ -318,7 +318,7 @@ _“Thou movest us to delight in praising Thee; for Thou hast formed us for Thys
 
 Percy is Catholic. He never gives a clear “answer” in his book, he merely offers different alternative viewpoints, and then uses style to show which ones he finds more convincing. Call this artistic flair or straw-manning or whatever. He presents the problem of the self in the modern age. Perhaps the solution is not his God. But – and this is his main point – TV, sex, and the atom bomb sure as Hell aren’t solutions either.
 
-*\*\*
+* * *
 
 > _Do you read? Do you read? Are you in trouble? How did you get in trouble? If you are in trouble, have you sought help? If you did, did help come? If it did, did you accept it? Are you out of trouble? What is the character of your consciousness? Are you conscious? Do you have a self? Do you know who you are? Do you know what you are doing? Do you love? Do you know how to love? Are you loved? Do you hate? Do you read me? Come back. Repeat. Come back. Come back. Come back._
 >

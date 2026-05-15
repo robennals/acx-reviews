@@ -44,7 +44,7 @@ Second, indeed, it's interesting to note that despite the quality of research in
 
 It's way too easy to explain it away as "snobby liberal historians hate Nicholas and don't want to take a look at anything which contradicts their narrative". However, I'm pretty sure the circumstances of the book writing play at least as huge a role here. Are there many relatively popular Russian historians in the Anglosphere? The only one who I could think about might be Lev Gumilyov, and that must be in large part due to his and his father's tragic life (and death) in the USSR; also, curiously enough, as a response to "last tsar" query Amazon manages to show me something by Radzinsky. But "Russian émigré-historian" is someone who belonged to a small and scattered community which wasn't backed up by the resources of any nation-state. However good your books are, any popularity contest is going to be an uphill battle in such a condition; this battle was probably won only once by Nabokov.
 
-*\*\*
+* * *
 
 Of course, there are many things in the book. The first years of the Emperor's reign; the Russo-Japanese War; the Revolution of 1905, which didn't dethrone the Czar, but made him establish the Duma (parliament, pronounced as "doom-ah"); the agrarian reforms; the First World War, but...
 
@@ -54,7 +54,7 @@ Imagine you're watching a horror movie. The producer was really lazy, and the mo
 
 Those are basically the parts of the book related to the build-up to Revolution and the revolutionaries. Well, not quite—it stops right after the Revolution and the Czar's abdication (no surprise, given the title). But it certainly gives the reader the taste of horrors to come, and it's not like I haven't known what happened next.
 
-*\*\*
+* * *
 
 The description of revolutionaries reminded me a lot about that de Maistre's idea about how the French Revolution was a culmination of Enlightenment—and, hence, a kind of a providential divine punishment for all the cool and fashionable people of France who cheered for Enlightenment and republicanism in 18th century and who got murdered by it. This in a sense certainly applies to the Russian Revolution too. The people who wanted to remove the Czar were playing with fire, but they thought this fire was a small cool firecracker; it turned out to be a (no pun intended) Czar Bomb, obliterating all their plans and strategies in a heartbeat.
 
@@ -62,7 +62,7 @@ A couple of good examples: 1) general Ruzsky who actually convinces the Czar to 
 
 These examples are not an exception, they are more like an iron rule: not a single "moderate", "constitutional", "liberal" revolutionary in the Army or in the Duma gets what he wants (the most lucky ones were those who at least were able to escape to the West); to remember that famous Mencken quote: they certainly got what they deserved, and they got it good and hard.
 
-*\*\*
+* * *
 
 But why did these people cheer for the Revolution? Why did they all want—the things they wanted?
 
@@ -88,17 +88,17 @@ Then the war doesn't end overnight, and everyone becomes kinda jaded. The libera
 
 Then in early 1917 the Duma's term is about to end, and the Czar is thinking about not convening it again, but before this happens, Petrograd — i.e. Saint Petersburg, which at the time was Russian capital — becomes engulfed in bread panic which then becomes bread riot (this is more or less the first time there were any major issues with food there: that the food supply in the Russian Empire was pretty much way ahead of every other major warring country is, like many Russian Empire-related things, an acknowledged but overlooked fact). The riot is suppressed, but then immediately — after months of revolutionary propaganda—an army regiment mutinies too. This mutiny is suppressed as well, but several others flare up, and soon Petrograd is controlled — if this word is applicable here — by the soldiers. The Czar tries to move the loyal regiments to the city and get there himself, but he is stopped by either dumb or Revolution-sympathizing general (see above, also, while I can believe he was thinking that the Duma was controlling something (in reality the true power in the city at the moment has already belonged to organizations like the "Councils of Revolutionary Soldiers"), I'm not sure if he was dumb enough to think that the Duma controlling city was actually something good, given what the Duma thought about the Czar; anyway...). This is the early March of 1917, and that's how the Empire ended: not with a bang but a whimper.
 
-*\*\*
+* * *
 
 Right now almost every country in the First World is a liberal democracy (even if it has some decorative royal figure). Some centuries ago almost all of them were absolute monarchies; at some point most of them were both monarchies and democracies at the same time; there were two centers of power: the monarch, and the electable body. These transitions were often slow and peaceful (like in e.g. England after 1688), and the reasons behind them may be not exactly clear. Curtis Yarvin once wrote that if you had claimed e.g. in England after the Glorious Revolution that this arrangement was unstable, you would have been instantly labeled as an ultra-right "Tory" absolutist-monarchist — but the history would have slowly proved you right. The history of representative democracy in Russian Empire demonstrates very well why this happens: you can't really have more than one center of power. They will try to compete with and subjugate each other until only one such a center will remain. In England this center turned out to be the Parliament which defeated the Crown. In Russia the Duma was pushing, pushing and pushing, never capitulating completely and always preparing to pump the pressure up again whenever possible. Probably the most serious issue with the Czar was that he didn't have enough guts to play as hard a ball as the situation required. Not so seldom he was trying to make a compromise with the Duma by appointing more liberal ministers. Needless to say, unless these ministers were following the Duma's positions rather than Czar's, they were obstructed and boycotted: the Duma never gave any quarter to the Czar. While, in my opinion, the very least every single member of "progressive bloc" deserved was lustration, probably not so radical methods could have helped too — at least, for a while. In short, so much for the "checks and balances". Thank you Montesquieu, very cool!
 
 It's interesting how you can notice this pattern even in temporary political struggles and positions of people who gained power: in 1917 no one needed moderates except as temporary useful idiots. Two stable positions were "I trust the full power in Czar", and "I trust the full power in People". "I trust a bit in Czar, but he should give some way to People" isn't really a way to win friends and influence people: it's a way to gain some temporary alliance which will end when the radicals will make your anti-Czar arguments more refined and more pure (and probably murder you for being not revolutionary enough).
 
-*\*\*
+* * *
 
 To sum, great book. It sort of confirms my priors about the Empire, and it somewhat changes them when it comes to Duma specifically and parliamentarism in general: I didn't held Russian politicians of the era in high esteem, but I didn't expect them to be that bad in the art of, well, managing the state (although they were certainly pretty good in intrigues and manipulating mass opinion!). Again, highly recommend it to anyone; regardless of your political affiliations, if you are even slightly interested in early 20-th century history, reading it most likely will be pretty rewarding for you.
 
-*\*\*
+* * *
 
 Some random thoughts and quotes:
 

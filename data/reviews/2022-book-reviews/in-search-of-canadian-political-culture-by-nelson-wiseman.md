@@ -275,7 +275,7 @@ If Ontario resembles the Anglican Church with its ordered liberty and the Prairi
 
 In contrast to British Columbia’s partisan turbulence, Albertan political history has been driven by various populist-third party dynasties led by conservative charismatic leaders in power for long periods of time.After the initial Liberal reign common to all provinces until 1921, Alberta had the left-populist United Farmers for 14 years, followed by 36 years of the conservative populist Social Credit, then the Progressive Conservatives for 44 years who fought with Ottawa,a brief interlude with the NDP for 4 years, and now the United Conservatives. In comparison, Ontario had a Liberal, Conservative, and NDP government right after each other, from 1985 to 1995.
 
-*\*\*
+* * *
 
 The obvious legacy of this wave is the right-wing populist streak of Canadian politics found primarily out west. In an era of megaconsitutional debates and regional resentment, the Reform-Alliance party had significant influence in national debates. Wiseman notes that like Ontarians, Albertans are much more seized with federal elections in terms of turnout but it seems to be for the opposite reason, in that they identify so _little_ with the federal government. Provincially, Wiseman also believes that only Quebec and Alberta tend to see their premiers not as just stewards but as their societal representatives on the national and sometimes international stage. Albertan premiers often fought with the federal government over issues such as powers of disallowance, the National Energy Policy, the megaconsitutional debates, and environmental policy more recently. It is the belief that Confederation is _unfair_ that leads to threats of secession, a sort of “you left us no choice” response.
 

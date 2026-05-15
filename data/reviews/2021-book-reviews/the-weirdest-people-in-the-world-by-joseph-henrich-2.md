@@ -106,7 +106,7 @@ _If a team of alien anthropologists had surveyed humanity from orbit in 1000 CE,
 
 Does Catholicism, family marriage policy, protestantism, and the resulting cultural psychology changes explain Europe’s post-1200 trajectory? Does our propensity to marry our cousin (and that of our great-great-great-etc. grandparents) represent a fundamental break in our history? Henrich’s account seems facially plausible, even if it needs further testing and scrutiny from sociologists, anthropologists, statisticians, and historians. And even if this particular theory is shown invalid, it may still endure by drawing attention to “cultural evolution” and the interplay between cultural institutions and underlying human psychology. Did the European cultural “advances” make Westerners lonelier and sadder while simultaneously richer? Did the human experiment ultimately benefit from the change, or will {nuclear annihilation, global climate change, or AI singularity} ultimately show the folly of breaking down kinship bonds? Henrich doesn’t go there. But such is our luck, good and bad, to be born into the WEIRD lineage. We may eventually realize our psychological approach to the world, just like our physical bodies themselves, resulted from the combination of luck, mutation, and incremental change that underpins most evolved outcomes.
 
-*\*\*
+* * *
 
 Endnotes:
 

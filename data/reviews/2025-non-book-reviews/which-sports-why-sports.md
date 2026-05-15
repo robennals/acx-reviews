@@ -119,7 +119,7 @@ Baseball is greatly aided by playing on a team with your buddies, even though it
 
 I don't have anything novel to say on other sports not listed. But I'm sure they are great too. That's kind of the point of this whole thing. Find a thing and do it. And maybe try another thing too.
 
-*\*\*
+* * *
 
 ## Team Sports
 

@@ -23,7 +23,7 @@ _Telluria_ by Vladimir Sorokin, NYRB Classics, published August 16, 2022
 
 ![](https://acximages.ennals.org/images/2023-book-reviews/96f8dec6bb7e8407.png)
 
-*\*\*
+* * *
 
 A screaming dildo runs across the floor. A pair of wolf-human zoomorphs drink whisky and recite poetry at a campfire, snacking on the decapitated head of a felled soldier. An army of knights assembles in an ancient castle, waiting for nails of tellurium to be hammered into their skulls before they’re loaded into robotic exoskeletons and then catapulted to the front lines of a holy war.
 
@@ -79,4 +79,4 @@ A recently married couple from Western Europe, Patrick and Engelbert, tour the U
 
 When spoken aloud, _Dasein_ produces from the machine a simple gelatinous cube. This device, cooked up in Sorokin’s postmodern imagination, has the potential to deliver readers to philosophical resolution in the way that technology is thought to deliver humankind to complete dominion over land and life and time. The philosopher eats the small cube while talking to the man who fate would make his husband for the rest of his life. For him, his husband’s image was “always connected with the taste of the cube: a light fish soufflé that melted pleasantly on the tongue.”
 
-*\*\*
+* * *
