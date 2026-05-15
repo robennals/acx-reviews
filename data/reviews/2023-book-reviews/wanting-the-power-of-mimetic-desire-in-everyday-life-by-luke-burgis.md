@@ -48,9 +48,9 @@ In essence, Girard argues that our desires are not truly our own. Instead, we cr
 
 This realization is unsettling for several reasons:
 
-> 1.  It can lead to a sense of emptiness, even when we obtain our desires. Just like the Rolling Stones famously sang, "I can't get no satisfaction," we may find ourselves constantly chasing the next shiny object, never feeling truly fulfilled.
-> 2.  It fosters herd mentality, as we blindly follow the desires of those around us. This phenomenon is evident in the way college students flock to the same majors or career paths.
-> 3.  It breeds unnecessary rivalry and jealousy, as our quest to be unique and stand out from the crowd is perpetually at odds with our innate tendency to imitate others. The ancient story of Cain and Abel illustrates this point, as their desire to please God ultimately resulted in tragedy.
+1.  It can lead to a sense of emptiness, even when we obtain our desires. Just like the Rolling Stones famously sang, "I can't get no satisfaction," we may find ourselves constantly chasing the next shiny object, never feeling truly fulfilled.
+2.  It fosters herd mentality, as we blindly follow the desires of those around us. This phenomenon is evident in the way college students flock to the same majors or career paths.
+3.  It breeds unnecessary rivalry and jealousy, as our quest to be unique and stand out from the crowd is perpetually at odds with our innate tendency to imitate others. The ancient story of Cain and Abel illustrates this point, as their desire to please God ultimately resulted in tragedy.
 
 ## The Social Media Games: Unmasking the Desire Arena
 

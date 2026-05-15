@@ -94,9 +94,9 @@ Another point stressed in this chapter is that Jesus was probably not put to dea
 
 This much secular history can reveal. To justify going further and invoking the supernatural, Polkinghorne points to three major failings of the secular account:
 
-> 1.  Plenty of deluded Palestinian religious leaders were executed, to be forgotten by everyone except historians. Why do we all know about Jesus, an executed criminal who was deserted by his followers?
-> 2.  Although the gospels are highly discrepant on the issue of Jesus’ resurrection, there is one similarity: Jesus was hard to recognize, to the extent that Mary Magadelene mistook him for the gardener. This similarity is unlikely to arise by chance, and so must have been historical.
-> 3.  The empty tomb stories, which take the same form in all four gospels. The strongest justification for taking these stories seriously is that women play the leading role, yet women were not considered capable of being reliable witnesses in a court of law.
+1.  Plenty of deluded Palestinian religious leaders were executed, to be forgotten by everyone except historians. Why do we all know about Jesus, an executed criminal who was deserted by his followers?
+2.  Although the gospels are highly discrepant on the issue of Jesus’ resurrection, there is one similarity: Jesus was hard to recognize, to the extent that Mary Magadelene mistook him for the gardener. This similarity is unlikely to arise by chance, and so must have been historical.
+3.  The empty tomb stories, which take the same form in all four gospels. The strongest justification for taking these stories seriously is that women play the leading role, yet women were not considered capable of being reliable witnesses in a court of law.
 
 Throughout this chapter, Polkinghorne has been as charitable to skeptics as he can possibly be while remaining a Christian. He not only bends over backwards to acknowledge discrepancies within the New Testament, but admits that secular history cannot prove the veracity of supernatural events such as the mass feedings or the resurrection, let alone Jesus’ identity as God. He deserves enormous credit for his intellectual honesty.
 

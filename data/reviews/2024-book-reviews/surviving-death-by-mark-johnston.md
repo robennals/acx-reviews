@@ -43,9 +43,9 @@ As a second example, _Surviving Death_ is concerned with a naturalist theology o
 
 In worrying about death, we may worry about the loss at least three things:
 
-> 1.  Subjective experience
-> 2.  Relationships with others
-> 3.  The importance of moral goodness
+1.  Subjective experience
+2.  Relationships with others
+3.  The importance of moral goodness
 
 As a framing for the rest of the work, Johnston is concerned with thing 3 (although he does have interesting things to say about 1 and 2, I promise). The threat from death that Johnston is primarily concerned with surviving is the threat to moral goodness (again, I do want to keep emphasizing that as part of that journey, there is a philosophical account of how an individual can literally survive death). Remember, that Johnston is “doing religion” here. He’s not just concerned about why we might fear and dread death. He’s also concerned about our (moral) orientation to the universe.
 
@@ -71,15 +71,15 @@ Johnston thinks so, and so takes as his challenge to make true the hope of Socra
 
 A great deal of ground is covered in getting from our everyday conceptions of ourselves and our deaths to a view where we can survive death through genuine moral goodness. I will organize this journey, as Johnston does to an extent, around a set of controversial positions that he claims to establish. _Surviving Death_ is undoubtedly fractal and indulges in a great deal of digressions. In getting to these theses, and putting them together into an overall vision, details, arguments, and related (or not so related) philosophical insights make up much of the text. In focussing in on the theses, we can see what the argument is at its most bare and can decide, more easily what we are going to take and what we are going to leave:
 
-> 1.  Even given “supernaturalism”, there is no way that we can get to heaven.
-> 2.  There is no persistent self worth caring about.
+1.  Even given “supernaturalism”, there is no way that we can get to heaven.
+2.  There is no persistent self worth caring about.
 >
-> 1.  As a result, there are no (non-derivative) reasons for self-interest or our general pattern of circles of concern that radiate out from ourselves.
+1.  As a result, there are no (non-derivative) reasons for self-interest or our general pattern of circles of concern that radiate out from ourselves.
 >
-> 3.  Our identities are protean:
+3.  Our identities are protean:
 >
-> 1.  What we (literally, actually) are depends on what we think we are.
-> 2.  Therefore, we can come to exist in such a way that we literally survive death.
+1.  What we (literally, actually) are depends on what we think we are.
+2.  Therefore, we can come to exist in such a way that we literally survive death.
 
 As you can see, not all of these theses are created equally. In particular, the first claim, regarding heaven, is inessential to the broader program (although some things established in pursuing that claim continue to be relevant). Let’s go through the theses one-by-one.
 
@@ -145,9 +145,9 @@ This section might be disappointing for anyone deeply invested in this literatur
 
 At the basis of our practical reasoning are certain thoughts about our self and our self-interest. We are said to have basic _de se_[[49]](#ftnt49), of oneself, reasons for acting and caring. Indeed, our usual pattern of care is modeled as concentric circles containing, in the innermost layer, ourselves, and then, moving outward, our family, friends, acquaintances, and then perhaps our state or nation or other broader communities. We don’t reason as follows:
 
-> 1.  I happen to be from the U.S.
-> 2.  As a result, I feel patriotic for that country.
-> 3.  However, this is fortuitous, because the U.S. just so happens to actually be the best country.
+1.  I happen to be from the U.S.
+2.  As a result, I feel patriotic for that country.
+3.  However, this is fortuitous, because the U.S. just so happens to actually be the best country.
 
 Instead, it is just because the U.S. is _my_ country that I feel attached to it. Similarly, it is because it is _my_ family, not because my family is actually superior, that I care for them.
 
@@ -299,9 +299,9 @@ I don’t worry so much about free will anymore. It honestly doesn’t have much
 
 Excellent question! To that, I offer several answers:
 
-> 1.  A collection of fake news blog posts may as well be considered a long-running series of short stories, and I hope that we’d be allowed to review the collected short stories of an author even if they were never technically compiled into a book.
-> 2.  Scott told us to be less conventional in our choices.
-> 3.  I am a liberal arts graduate and I’m definitely not going to make the finals reviewing some nerdy non-fiction book.
+1.  A collection of fake news blog posts may as well be considered a long-running series of short stories, and I hope that we’d be allowed to review the collected short stories of an author even if they were never technically compiled into a book.
+2.  Scott told us to be less conventional in our choices.
+3.  I am a liberal arts graduate and I’m definitely not going to make the finals reviewing some nerdy non-fiction book.
 
 [[2]](#ftnt_ref2) Baxter also places a few tribunals in Guam.
 

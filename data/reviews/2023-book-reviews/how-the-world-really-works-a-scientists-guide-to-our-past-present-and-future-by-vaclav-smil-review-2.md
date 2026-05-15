@@ -21,8 +21,8 @@ Viking/Penguin 2022. [ISBN](https://en.wikipedia.org/wiki/ISBN_(identifier)) [97
 
 By P. W.
 
-> 1.  ## Bill Gates made me do it
->     
+1.  ## Bill Gates made me do it
+    
 
 OK, I admit it: it was Bill Gates who told me to read this book. Here’s what he, or his email factotum/bot, wrote in June 2022 under ‘5 great books for the summer’[[1]](#ftnt1) The email also included this picture of a smiling Bill with the beguiling books against a bucolic background.
 
@@ -36,8 +36,8 @@ I’m a sucker for the fundamental forces that shape human life. Also I’m not 
 
 By amazing coincidence, as I raced to finish this review on deadline day, 5 April, Bill emailed me again to remind me “Vaclav Smil’s books are always phenomenal”[[2]](#ftnt2). And now I can confirm that, I feel virtuous both for obeying the will of Gates by reading Smil, and for writing this review so you don’t have to.
 
-> 2.  ## From the middle of somewhere: Bohemia to Manitoba
->     
+2.  ## From the middle of somewhere: Bohemia to Manitoba
+    
 
 _Q: How many Winnipeggers does it take to change a light bulb? A: CHANGE?!_
 
@@ -61,8 +61,8 @@ On graduating, he self-sabotaged his academic and career prospects by refusing t
 
 In 1969, the Soviet invasion chilled the political climate even more, so as soon as Eva graduated, they emigrated to the USA.  Here, despite having to learn English and survive in a new world, Vaclav managed to get his PhD in geography from Penn State University.
 
-> 3.  ## Limits to Growth and failures of forecasting
->     
+3.  ## Limits to Growth and failures of forecasting
+    
 
 As the Smils settled in Manitoba in 1972, the _Limits to Growth_ report was published by The Club of Rome. Not as fun as it sounds, this club was an earnest think tank of great and good founded by Italian industrialist Aurelio Peccei. Its modern Malthusian vision was set out in a 1969 manifesto: _The Predicament of Mankind; Quest for Structured Responses to Growing Worldwide Complexities and Uncertainties_.
 
@@ -78,8 +78,8 @@ Vaclav Smil was one of the early sceptics, his nose for bullshit having been wel
 
 Much if his work, including this latest book, concerns the failures of forecasting, and the absurdity of many of the models, targets and projections that continue to be churned out by governments, policy think tanks and advocacy groups. He is particularly scathing about high-level goals such as ‘net-zero by 2050’, which are meant to be motivating, but end up undermining trust.
 
-> 4.  ## Energy transition is really hard work
->     
+4.  ## Energy transition is really hard work
+    
 
 This respect for reality earned Smil kudos among policy makers. Following the oil shocks of the mid-1970s, his work on energy transitions gained currency. He wrote a series of books: _General Energetics: Energy in the Biosphere and Civilization_ (1991), _Energy in World_ _History_ (1994), and _Energy Transitions: History, Requirements, Prospects_ (2010).
 
@@ -99,8 +99,8 @@ As he laboriously points out, the policy ‘goals’ of ‘net zero’ by 2030, 
 
 So what is the appropriate response? Smil advocates reducing demand for fossil fuels through energy conservation, and an end to the huge subsidies governments provide their coal, oil and gas industries. Renewables will only be competitive if the price of energy reflect its real costs including greenhouse gas emissions.
 
-> 5.  ## How the World Really Works: what’s not to like?
->     
+5.  ## How the World Really Works: what’s not to like?
+    
 
 As a prophet of gloomy realism, Smil’s message has never been popular, and in previous works his writing style was boringly technocratic. It seems his growing may have prompted him, his publisher or perhaps his legion of policy-wonk admirers to cash in on his renown to push for a more populist effort.
 
@@ -110,8 +110,8 @@ _HTWRW_ is certainly more accessible for the general reader than his previous wo
 
 And despite its undeniably important central thesis, the book is annoying and frustrating. I have four main criticisms.
 
-> 1.  ### Prolixity
->     
+1.  ### Prolixity
+    
 
 First off, Smil’s style is excessively verbose, and stacked with adjectives. This passage from page 4 gives a good preview of what’s in store:
 
@@ -119,8 +119,8 @@ First off, Smil’s style is excessively verbose, and stacked with adjectives. T
 
 In a three-line acknowledgement section at the very end, he thanks only his London editor ‘for giving me another chance to write a wide-ranging book’ and his son David for being its first reader and critic. This doesn’t imply that either of them actually made much of an editorial contribution, and the text would have benefitted from more critical input from non-relatives.
 
-> 2.  ### Hectoring
->     
+2.  ### Hectoring
+    
 
 Secondly, Smil comes across as a right old curmudgeon. For example, the passage above continues:
 
@@ -132,8 +132,8 @@ I happen to agree with this analysis, and quite enjoy this querulous and slightl
 
 But in railing against folly and hypocrisy, Smil is a broken record. Worse, he seems contemptuous of his contemporaries, if not his readers. Refreshing at first, the bile and sarcasm quickly become boring, and may deter more sensitive souls who prefer civil discourse.
 
-> 3.  ### Information overload
->     
+3.  ### Information overload
+    
 
 Thirdly, and speaking of repetition, the sheer quantity of numbers in the book is orders of magnitude larger than that needed to make his case. Smil makes no secret of his intent to bombard us with facts, figures and statistics, and there’s even an appendix about them.
 
@@ -153,8 +153,8 @@ Perhaps it should be, but it’s not entirely obvious. Another semi-random examp
 
 But over 170 years, is that a lot of energy or a little? After a while, the constant cascade becomes numbing, even to those of us who are scientifically literate and really like data.
 
-> 4.  ### No future
->     
+4.  ### No future
+    
 
 The book is subtitled ‘A Scientist's Guide to Our Past, Present and Future’. While the material facts of past and present are very well-covered, there’s not a lot about the future. As previously mentioned, Smil is a critic of fatuous forecasting. He also points out several times, perhaps protesting too much, that he is neither an optimist nor a pessimist, but a scientist. However he is shy of making any actual predictions based on that science.
 
@@ -170,8 +170,8 @@ The chapter and the book conclude:
 
 It’s hardly a lightbulb moment, more a resigned shrug that leaves the reader feeling disempowered to act in any particular direction, apart from turning down the thermostat and checking the double-glazing. But what would one expect from a Winnipegger?
 
-> 6.  ## So what’s to recommend?  
->     
+6.  ## So what’s to recommend?  
+    
 
 Last year, I took part in Philip Tetlock’s hybrid forecasting and persuasion tournament. This required us to make very specific predictions related to extinction risk, pandemics, bioterrorism, AI and other events, and then debate them in randomly assorted teams. It was fun, but I found myself losing patience with some of my team-mates quibbling over minute fractions of percentage probabilities of outcomes many decades ahead.
 

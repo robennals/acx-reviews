@@ -122,19 +122,19 @@ Ferriss offers a specific formula for what he calls ‘income automation’, or 
 
 Put simply, it is:
 
-> 1.  Come up with an idea for a product (or license one) in a niche market in which you are a customer, called a _muse_.
-> 2.  Test your muse by advertising on google/in a magazine, directing buyers to a website where they can enter their information to buy (although not actually buy, since you don’t have anything yet) - if you find it would be profitable, move forward, if not, go back to step 1. An idea is profitable if:
+1.  Come up with an idea for a product (or license one) in a niche market in which you are a customer, called a _muse_.
+2.  Test your muse by advertising on google/in a magazine, directing buyers to a website where they can enter their information to buy (although not actually buy, since you don’t have anything yet) - if you find it would be profitable, move forward, if not, go back to step 1. An idea is profitable if:
 >
-> 1.  You have enough ‘sales’, where ‘sales’ means ‘people clicked on buy’ even though you haven’t enabled that functionality yet, such that
-> 2.  The equation  
->     profit per item \* items ‘sold’ > advertising cost  
->     where  
->     profit per item = sell price - cost to manufacture  
->     is true.
+1.  You have enough ‘sales’, where ‘sales’ means ‘people clicked on buy’ even though you haven’t enabled that functionality yet, such that
+2.  The equation  
+    profit per item \* items ‘sold’ > advertising cost  
+    where  
+    profit per item = sell price - cost to manufacture  
+    is true.
 >
-> 3.  If your idea tests well, go ahead and implement it: pay a contract manufacturer to make the product and sell it on your website. Given the online tools available today, this has to be even easier than it was when Ferriss wrote the book.
+3.  If your idea tests well, go ahead and implement it: pay a contract manufacturer to make the product and sell it on your website. Given the online tools available today, this has to be even easier than it was when Ferriss wrote the book.
 >
-> 1.  It should be possible to automate this process, such that when a user places an order, the product is manufactured, shipped, and delivered, all without you having to do more than send an email or two, if that.
+1.  It should be possible to automate this process, such that when a user places an order, the product is manufactured, shipped, and delivered, all without you having to do more than send an email or two, if that.
 
 According to Ferriss, this is how he financed his own dreams: he created a supplement called BrainQUICKEN, automated the process of manufacturing and selling it, and started raking in the cash. And you, the reader, can do it too!
 
@@ -148,14 +148,14 @@ He takes you step by step through various strategies to get more remote work, in
 
 It boils down to:
 
-> 1.  Find an excuse to work from home one day (sick, vacation, weekend, whatever). Be more productive than you usually are that day, and document it.
-> 2.  Bring the documentation to your boss, suggesting that you work from home one day a week as a trial, making sure to
+1.  Find an excuse to work from home one day (sick, vacation, weekend, whatever). Be more productive than you usually are that day, and document it.
+2.  Bring the documentation to your boss, suggesting that you work from home one day a week as a trial, making sure to
 >
-> 1.  justify it from the perspective of the business (you provide more value to the company from home than you do from the office), and
-> 2.  approach the whole thing like a sale, and go for the sell
+1.  justify it from the perspective of the business (you provide more value to the company from home than you do from the office), and
+2.  approach the whole thing like a sale, and go for the sell
 >
-> 3.  Once you’ve got one day a week remote, make sure to keep the productivity differential high and documented, up to and including being _less_ productive while in the office to highlight the difference.
-> 4.  Repeat steps 2-3, but for more days each time, until you’re fully remote (except for possible exceptional circumstances, which are fine).
+3.  Once you’ve got one day a week remote, make sure to keep the productivity differential high and documented, up to and including being _less_ productive while in the office to highlight the difference.
+4.  Repeat steps 2-3, but for more days each time, until you’re fully remote (except for possible exceptional circumstances, which are fine).
 
 And voila! Before you know it you’re admiring the cherry blossoms in Osaka or teleworking from the Bahamas, living your best life long before retirement.
 
@@ -197,8 +197,8 @@ Ferriss is also serious about suggesting specific tools - the book references mu
 
 Ferriss spends some chapters towards the end of the book on convincing you of two important points:
 
-> 1.  It is morally _okay_, even _good_, to adopt his New-Rich lifestyle, and
-> 2.  It is a practical lifestyle to adopt, as in, it’s actually affordable and doable.
+1.  It is morally _okay_, even _good_, to adopt his New-Rich lifestyle, and
+2.  It is a practical lifestyle to adopt, as in, it’s actually affordable and doable.
 
 So…are his arguments convincing?
 

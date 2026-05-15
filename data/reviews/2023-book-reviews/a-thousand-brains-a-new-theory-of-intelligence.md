@@ -64,8 +64,8 @@ _Source:_ _[Project AGI](http://blog.agi.io/2015/04/mini-macro-micro-and-hyper-c
 
 I’m trying to give you multiple visual representations of a column here because it’s our main protagonist. In Hawkins's opinion, a column holds all the basic ingredients of intelligence within. The more columns, the more intelligence. If we buy that, the road to intelligence becomes quite straightforward:
 
-> 1.  Reverse engineer a cortical column.
-> 2.  Make lots of copies.
+1.  Reverse engineer a cortical column.
+2.  Make lots of copies.
 
 That’s it. You have built intelligence.
 
@@ -99,11 +99,11 @@ In predictive processing, movement is a kind of error minimization. Trying to re
 
 What we have so far.
 
-> 1.  Intelligence happens in the neocortex.
-> 2.  The neocortex is composed of 150,000 cortical columns.
-> 3.  A column is composed of 100,000 neurons.
-> 4.  Understanding the column is the key to understanding intelligence.
-> 5.  Columns are prediction machines.
+1.  Intelligence happens in the neocortex.
+2.  The neocortex is composed of 150,000 cortical columns.
+3.  A column is composed of 100,000 neurons.
+4.  Understanding the column is the key to understanding intelligence.
+5.  Columns are prediction machines.
 
 The next step is to figure out how columns make predictions. To do that, I have this intimidating-looking slide for you:
 
@@ -117,9 +117,9 @@ And sorry, I can’t comfort you by saying that it only looks scary, but in prin
 
 Here are the relevant questions:
 
-> 1.  How do neurons in L4 predict a sequence (like a melody)?
-> 2.  How do L4 and L2/3 work together to predict objects?
-> 3.  How does L6a supply location information to L4?
+1.  How do neurons in L4 predict a sequence (like a melody)?
+2.  How do L4 and L2/3 work together to predict objects?
+3.  How does L6a supply location information to L4?
 
 I’m not going to get into the fourth part on composite objects, because I don’t really understand what’s going on there.
 

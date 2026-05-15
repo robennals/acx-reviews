@@ -34,8 +34,8 @@ Gordon Tullock’s _Economic Hierarchies_ is a hunt for that Red October of theo
 
 Tullock starts with Robert Coase’s essay “The Nature of the Firm”.
 
-> 1.  ## The Nature of the Firm
->     
+1.  ## The Nature of the Firm
+    
 
 To what extent does our Space Agency need to be a single agency at all? Why not just a series of individual transactions which ultimately lead to the rocket ship and crew? The government/TV show producers want to buy a moon landing from a group of 900 scraggly naked people. Everyone in their barefoot society rushes to fashion raw materials into intermediate goods which will allow them to produce even more complex intermediate goods, and so on, up the supply chain until eventually the government can purchase the complete package of rocket, lander, and crew, etc.
 
@@ -69,8 +69,8 @@ _What we have then is a society in which a large number of different organizatio
 
 Tullock stuffs his book full of abstract and concrete examples. He uses abstractions and toy models to illustrate his basic conjectures, but his concrete examples running rough throughout bring wicker baskets of humor to an otherwise dry, dense, infuriating, cynicism-inducing study.
 
-> 2.  ## Information Flow
->     
+2.  ## Information Flow
+    
 
 Let’s start with information flow. This seems like it will be a starting determinant on how we will organize our society.
 
@@ -122,8 +122,8 @@ Like a medieval king teaming up with the rich men of the towns to force the lord
 
 ![](https://acximages.ennals.org/images/2022-book-reviews/50758ac43aed9c32.jpg)
 
-> 3.  ## Span of Control
->     
+3.  ## Span of Control
+    
 
 The move from information to compliance brings us to the major issue of the book [“Span of Control,”](https://en.wikipedia.org/wiki/Span_of_control) the number of subordinates an individual is responsible for. Such issues run us right into that most feared of demons, _bureaucracy._ 
 
@@ -187,8 +187,8 @@ I do want to meet “the Napoleon of Safeway”; that’d be a treat.
 
 ![](https://acximages.ennals.org/images/2022-book-reviews/5a0b3e246fa863a9.jpg)
 
-> 4.  ## Governance and Incentives and Committees
->     
+4.  ## Governance and Incentives and Committees
+    
 
 Our final section is on governance.
 
@@ -276,8 +276,8 @@ I really like this framing of committees. It allows that they have use for ensur
 
 _Well run organizations, however, do not simply accept the top recommendation of this administrative swamp. The higher officials look over several of the decisions, selecting the one that he likes best. Sometimes the individual at the top will invent his own idea, rather than accepting the ones presented to him. Even in this case, however, he will usually turn to the administrative swamp for some processing of his basic idea._
 
-> 5.  ## Back to the 900 Prosperan Engineers
->     
+5.  ## Back to the 900 Prosperan Engineers
+    
 
 What does this all mean for the Prospera Space Agency?
 
@@ -291,8 +291,8 @@ We started out with a dream of progress through natural experiment, but by this 
 
 I am sad that my original game plan of relating everything to my original thought experiment has not worked out. Many of the problems of a bureaucratic organization are contingent upon the environment. And in this case, the artificial environment of a prestigious natural experiment changes too many variables to draw general lessons or implement a first principles state-of-nature approach to organizational creation. Once again, high modernism has been foiled, because we overdetermined the environment, and wished to use simple models, not just to describe, but to prescribe human activity.
 
-> 6.  ## We Learned Something, I Think
->     
+6.  ## We Learned Something, I Think
+    
 
 Tullock ends in aporia.
 

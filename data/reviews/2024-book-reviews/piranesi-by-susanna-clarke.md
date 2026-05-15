@@ -148,11 +148,11 @@ But then came episodes that were not pleasant. She would stand up from her overs
 
 The hardest part was when reality broke down so much that it made communication impossible. That happened when she went into the nursing home. Communication is literally the holding of something in common, but what happens when reality refuses to be common? The standard pattern for our conversations became the following:
 
-> 1.  we would walk into her room, smiling and saying it was great to see her,
-> 2.  she would beam back at us,
-> 3.  she would say something good-natured that made no sense at all (“Please stop flying around up there and come down to the floor” or “This morning they washed my hair with peanut butter”),
-> 4.  we would look puzzled and shift the conversation to what we thought was totally normal and non-threatening,
-> 5.  she would get the saddest look on her face, lower her eyes, and stop responding to us at all.
+1.  we would walk into her room, smiling and saying it was great to see her,
+2.  she would beam back at us,
+3.  she would say something good-natured that made no sense at all (“Please stop flying around up there and come down to the floor” or “This morning they washed my hair with peanut butter”),
+4.  we would look puzzled and shift the conversation to what we thought was totally normal and non-threatening,
+5.  she would get the saddest look on her face, lower her eyes, and stop responding to us at all.
 
 One example was especially puzzling. We were visiting her as a group, bringing along a family friend she hadn’t seen in a while. We all walked into her room beaming, waking her up from where she’d dozed off at her bedside table. She saw the friend and immediately brightened up.
 

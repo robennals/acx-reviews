@@ -180,25 +180,25 @@ Some things ought to stay dead. Some magic only belongs to the 80s and the 90s.
 
 These are the Sweet Valley books that should be remembered and reread.
 
-> 1. Dear Sister (Sweet Valley High #7)
+1. Dear Sister (Sweet Valley High #7)
 >
-> 2. Double Love (Sweet Valley High #1)
+2. Double Love (Sweet Valley High #1)
 >
-> 3. Romeo and 2 Juliets (Sweet Valley Twins #84)
+3. Romeo and 2 Juliets (Sweet Valley Twins #84)
 >
-> 4. Boyfriends for Everyone (The Unicorn Club #17)
+4. Boyfriends for Everyone (The Unicorn Club #17)
 >
-> 5. The Pom-Pom Wars (Sweet Valley High #113
+5. The Pom-Pom Wars (Sweet Valley High #113
 >
-> 6. Slam Book Fever (Sweet Valley High #48)
+6. Slam Book Fever (Sweet Valley High #48)
 >
-> 7. Lila’s Secret Valentine (Sweet Valley Twins Super Edition #5)
+7. Lila’s Secret Valentine (Sweet Valley Twins Super Edition #5)
 >
-> 8. Jessica Against Bruce (Sweet Valley High #86)
+8. Jessica Against Bruce (Sweet Valley High #86)
 >
-> 9. The Evil Twin (Sweet Valley High #100)
+9. The Evil Twin (Sweet Valley High #100)
 >
-> 10.  The Unicorns Go Hawaiian (Sweet Valley Twins Super Edition #4)
+10.  The Unicorns Go Hawaiian (Sweet Valley Twins Super Edition #4)
 
 * * *
 

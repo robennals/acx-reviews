@@ -43,11 +43,11 @@ Chapter 2 primarily uses the example of 18th century studies on electricity to d
 
 Past chapter 2, we’re past the preliminaries and into Kuhn’s overarching theory of how science works. This is the theory:
 
-> 1.  Scientists in a particular field do very detailed work within an unquestioned paradigm. This is called “normal science.”
-> 2.  During normal science, anomalies crop up where people figure out how an observation lines up with the paradigm.
-> 3.  Eventually there are so many anomalies that the field reaches a crisis, and somebody comes up with a new paradigm that purports to explain anomalies by completely overturning everyone’s view of how the field works.
-> 4.  Believers in the old and new paradigm have a knock-down-drag-out fight over which paradigm is correct. If the new paradigm wins, this is a “scientific revolution.”
-> 5.  Return to step 1 with the new paradigm.
+1.  Scientists in a particular field do very detailed work within an unquestioned paradigm. This is called “normal science.”
+2.  During normal science, anomalies crop up where people figure out how an observation lines up with the paradigm.
+3.  Eventually there are so many anomalies that the field reaches a crisis, and somebody comes up with a new paradigm that purports to explain anomalies by completely overturning everyone’s view of how the field works.
+4.  Believers in the old and new paradigm have a knock-down-drag-out fight over which paradigm is correct. If the new paradigm wins, this is a “scientific revolution.”
+5.  Return to step 1 with the new paradigm.
 
 This is approximately the order _Structure_ is written but I’ll be skipping around and inserting things from the postscript where I think it makes things clearer.
 
@@ -196,9 +196,9 @@ No longer a[tree](https://en.wikipedia.org/wiki/Tree_(graph_theory)), but still 
 
 This means that the DAG is an efficient way of compressing facts about the world. Consider the following set of facts:
 
-> 1.  _Escherichia coli_ bacteria have ribosomes.
-> 2.  _Pseudomonas aeruginosa_ bacteria have ribosomes.
-> 3.  _Staphylococcus aureus_ bacteria have ribosomes.
+1.  _Escherichia coli_ bacteria have ribosomes.
+2.  _Pseudomonas aeruginosa_ bacteria have ribosomes.
+3.  _Staphylococcus aureus_ bacteria have ribosomes.
 
 _…_
 
@@ -226,10 +226,10 @@ _…_
 
 That’s a lot of facts! But we save a hell of a lot of bits if we just turn it into:
 
-> 1.  Cellular life has ribosomes.
-> 2.  Eukaryotes have mitochondria.
-> 3.  Except _Monocercomonoides_ flagellates don’t have mitochondria for some reason.
-> 4.  Vertebrates have spinal columns.
+1.  Cellular life has ribosomes.
+2.  Eukaryotes have mitochondria.
+3.  Except _Monocercomonoides_ flagellates don’t have mitochondria for some reason.
+4.  Vertebrates have spinal columns.
 
 So this takes us to the initial part of my definition about science: _Science consists of representing as much of the world as possible in as few bits as possible._ I will call this the Information Criterion (IC) below.
 

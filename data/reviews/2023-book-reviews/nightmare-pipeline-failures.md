@@ -34,10 +34,10 @@ The worst nightmares of the oil and gas pipeline industry are coming true in the
 
 That’s the opening line of the book. I really like it - concise, to the point. The main thesis of the book is that both the likelihood and consequences of pipeline accidents have increased, for a number of reasons:
 
-> 1.  Increasing population density means urban areas now encroach on pipeline corridors, which increases the severity of an accident (more fatalities) and means more activity could disturb the line
-> 2.  Much of this infrastructure is old, which presents many problems - corrosion being the main one, but also being built to older, less stringent construction standards and _not_ being subject to some of the quality assurance checks that apply to new builds - so in addition to corrosion and fatigue, there’s the “ticking bomb” factor
-> 3.  Operating conditions have changed - the Michigan oil spill involved a relatively new type of crude oil product from tar sand extraction (which wasn’t the product the pipeline was originally built to transport), modified for transportability, which had an outsized environmental impact (being very difficult to clean up).
-> 4.  Being both US pipelines, subject to US regulations, operated by US corporations, there is a broader trend in how US companies manage these types of risks - or rather, how they’re failing to manage them, and why
+1.  Increasing population density means urban areas now encroach on pipeline corridors, which increases the severity of an accident (more fatalities) and means more activity could disturb the line
+2.  Much of this infrastructure is old, which presents many problems - corrosion being the main one, but also being built to older, less stringent construction standards and _not_ being subject to some of the quality assurance checks that apply to new builds - so in addition to corrosion and fatigue, there’s the “ticking bomb” factor
+3.  Operating conditions have changed - the Michigan oil spill involved a relatively new type of crude oil product from tar sand extraction (which wasn’t the product the pipeline was originally built to transport), modified for transportability, which had an outsized environmental impact (being very difficult to clean up).
+4.  Being both US pipelines, subject to US regulations, operated by US corporations, there is a broader trend in how US companies manage these types of risks - or rather, how they’re failing to manage them, and why
 
 Extensive references are made to the National Transport Safety Board investigations of these incidents. The NTSB [website](https://www.ntsb.gov/investigations/Pages/Investigations.aspx) is quite a good place to visit, if you ever want to read reports of plane crashes and similar - they list open investigations (like the aforementioned [Norfolk Southern](https://www.ntsb.gov/investigations/Pages/RRD23MR005.aspx) accident), as well as all material used as evidence in past investigations (which are compiled into accident dockets, and you can download everything on the docket to read yourself). I’m impressed with the transparency and accessibility.
 
@@ -87,9 +87,9 @@ Most process safety literature steps through the blow-by-blow of what happened i
 
 There are three types of safety rules and procedures (general consensus among process safety experts), which are:
 
-> 1.  Goal-based: rules that specify goals to be achieved
-> 2.  Process-based: rules that define the process to be followed in order to decide on a course of actions
-> 3.  Action: rules that define a specific concrete action or system state
+1.  Goal-based: rules that specify goals to be achieved
+2.  Process-based: rules that define the process to be followed in order to decide on a course of actions
+3.  Action: rules that define a specific concrete action or system state
 
 Most modern process safety rulesets and systems are a combination that include features for everything, because these all have a time and place.
 
@@ -396,9 +396,9 @@ This is still very prescriptive - the OSFM has to review all these hydrotest rep
 
 Learnings that I think can be generalised across industries:
 
-> 1.  Are the laws still fit for purposes? Are they currently only compelling an action (that marginally makes things safer now, but will soon be obsolete), rather than an outcome? There may be a number of low-hanging fruit in industries other than pipelines; if this review leads someone to put forward even one such suggestion in their field of expertise, I’ll consider this time well spent.
-> 2.  How would you compel professionals to act in the interests of the public, rather than the interests of their employers to the detriment of everyone else? What can we do to improve accountability of professionals - especially in the labour force of 2023 and beyond, where people move around frequently and are often on short-term contracts?
-> 3.  Corporations are constantly given the choice between “save money at the cost of increasing the risk of a really bad event” and “spend some money to mitigate a risk of a really bad event (but it’s not necessarily easy to prove whether it was effective)”. Most corporations usually lean towards the former - not because of any specific person’s actions, but because the incentives shape the culture which shape decisions over time (and decisions like making specific people redundant shape culture). Is there anyone working on identifying ways to compel corporations to choose the decision to spend money, and have a lower risk of accidents?
+1.  Are the laws still fit for purposes? Are they currently only compelling an action (that marginally makes things safer now, but will soon be obsolete), rather than an outcome? There may be a number of low-hanging fruit in industries other than pipelines; if this review leads someone to put forward even one such suggestion in their field of expertise, I’ll consider this time well spent.
+2.  How would you compel professionals to act in the interests of the public, rather than the interests of their employers to the detriment of everyone else? What can we do to improve accountability of professionals - especially in the labour force of 2023 and beyond, where people move around frequently and are often on short-term contracts?
+3.  Corporations are constantly given the choice between “save money at the cost of increasing the risk of a really bad event” and “spend some money to mitigate a risk of a really bad event (but it’s not necessarily easy to prove whether it was effective)”. Most corporations usually lean towards the former - not because of any specific person’s actions, but because the incentives shape the culture which shape decisions over time (and decisions like making specific people redundant shape culture). Is there anyone working on identifying ways to compel corporations to choose the decision to spend money, and have a lower risk of accidents?
 
 Overall I think it’s a good book as an introduction to process safety, thinking about integrity management, and thinking about risk management practices in the pipelines industry. I wish the authors discussed how to influence corporate incentives a little more (that was Chapter 8, but it was more a study of the factors behind the disaster - which, to be fair, “how to influence corporate incentives” is probably a problem that is inherently very difficult to solve, so it’s probably not a fair ask).
 
@@ -406,8 +406,8 @@ It’s fairly accessible - I’m not primarily a process safety professional, al
 
 In conclusion:
 
-> 1.  I’m disappointed in American safety laws, but I’m very impressed with the agency in charge of accident investigation and reporting - check out the NTSB website
-> 2.  Large companies can have shockingly bad safety management systems, the kind where people do a bunch of pointless paperwork just for the sake of paperwork
-> 3.  Risk assessment methods can be deeply flawed, especially when comparing probability
-> 4.  These factors won’t be fixed internally because it’s not in the companies’ short-term interest to actually look at risks properly - they might have to spend money to fix things!
-> 5.  But we really need to force them to manage their risks - possibly by pushing for goal-based rather than action legislation
+1.  I’m disappointed in American safety laws, but I’m very impressed with the agency in charge of accident investigation and reporting - check out the NTSB website
+2.  Large companies can have shockingly bad safety management systems, the kind where people do a bunch of pointless paperwork just for the sake of paperwork
+3.  Risk assessment methods can be deeply flawed, especially when comparing probability
+4.  These factors won’t be fixed internally because it’s not in the companies’ short-term interest to actually look at risks properly - they might have to spend money to fix things!
+5.  But we really need to force them to manage their risks - possibly by pushing for goal-based rather than action legislation

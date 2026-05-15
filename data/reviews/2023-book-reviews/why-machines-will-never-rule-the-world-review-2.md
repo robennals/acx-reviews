@@ -31,10 +31,10 @@ What, then, is machine intelligence, and how does it differ from conventional in
 
 L&S' definitions, while comprehensive, can be somewhat unwieldy. Fortunately, they provide us with a single condition that is both necessary and sufficient for AGI: the mastery of language. And to test it, they propose a modernized Turing Test:
 
-> 1.  The machine must be able to have a natural conversation with one or more humans without them feeling restricted or needing to exert additional effort due to the machine's limitations. They should be able to talk about anything, ask trick questions, and expect the machine to generate novel content.
-> 2.  The conversation should flow like a normal conversation and not a specific question-and-answer pairing.
-> 3.  The conversation is spoken.
-> 4.  The machine should be able to see the people and respond to their body language and facial expressions.
+1.  The machine must be able to have a natural conversation with one or more humans without them feeling restricted or needing to exert additional effort due to the machine's limitations. They should be able to talk about anything, ask trick questions, and expect the machine to generate novel content.
+2.  The conversation should flow like a normal conversation and not a specific question-and-answer pairing.
+3.  The conversation is spoken.
+4.  The machine should be able to see the people and respond to their body language and facial expressions.
 
 L&S' updated Turing Test differs significantly from other versions. In particular, the fourth requirement necessitates reading human facial expressions and body language, which is lacking even in the [stronger operationalization of AGI on Metaculus](https://www.metaculus.com/questions/5121/date-of-artificial-general-intelligence/). Conversely, the Metaculus test requires enough manual dexterity to assemble a model car, whereas L&S' version doesn't require any manipulation of physical objects. It is interesting that they included trick questions as part of the test. Trick questions exist because they are intended to trick humans. I don’t think there’s anything wrong with including them, per se, but you can’t conclude that someone isn’t generally intelligent if they fall for one. (I mean, you _can_, but should probably stop after middle school).
 
@@ -46,13 +46,13 @@ Their provided definitions of AGI, the reliance solely on language as a requirem
 
 With AGI definitions out of the way, L&S get to the heart of the topic. Can a computer develop AGI? To proceed further, we need to understand a bit about logic systems and complex systems. Logic systems have well-defined rules and clear relationships between the inputs and outputs. They are commonly found in math textbooks but not as much in the real world. Complex systems are much more… well, complex. L&S lists seven specific properties that complex systems have:
 
-> 1.  “Change and evolutionary character”—they exist in a dynamic system with non-differentiable or non-continuous changes
-> 2.  “Element-dependent interaction”—the elements of the system interact in a way that leads to irregular and non-repeatable behavior
-> 3.  “Force overlay”—at least two of the four fundamental forces (strong, weak, electromagnetic, and gravity) act upon the system
-> 4.  “Non-ergodic phase space”—the system cannot be represented or predicted by a sampling of it
-> 5.  “Drivenness”—either an internal or external energy drives the system forward
-> 6.  “Context-dependent”—the surrounding context makes the system behave in new ways
-> 7.  “Chaos”—observers are unable to predict the system behavior given exact starting conditions
+1.  “Change and evolutionary character”—they exist in a dynamic system with non-differentiable or non-continuous changes
+2.  “Element-dependent interaction”—the elements of the system interact in a way that leads to irregular and non-repeatable behavior
+3.  “Force overlay”—at least two of the four fundamental forces (strong, weak, electromagnetic, and gravity) act upon the system
+4.  “Non-ergodic phase space”—the system cannot be represented or predicted by a sampling of it
+5.  “Drivenness”—either an internal or external energy drives the system forward
+6.  “Context-dependent”—the surrounding context makes the system behave in new ways
+7.  “Chaos”—observers are unable to predict the system behavior given exact starting conditions
 
 Complex systems are all around us. In fact, unless you spend a lot of time hoisting spherical cows on frictionless pulleys, you’re not going to see many systems that _aren’t_ complex.
 

@@ -69,11 +69,11 @@ Oh–and about the terrible fights in the counseling sessions: these are _wildly
 
 * * *
 
-> 1.  ## Some concrete, object-level observations, some theory.
->     
+1.  ## Some concrete, object-level observations, some theory.
+    
 >
-> 1.  ### Obstacles to change.
->     
+1.  ### Obstacles to change.
+    
 
 Trying to move forward with personal growth is full of ironies. One of the foremost is that the person whose presence has the most potential to provoke you to change is the same person most likely to hinder you once you try.
 
@@ -133,8 +133,8 @@ And this is not just a one-off. Earlier in the counseling sessions, when Joan wo
 
 * * *
 
-> 2.  ### A certain tone
->     
+2.  ### A certain tone
+    
 
 The thing about committed long-term relationships is that you know each-other so well. Such an effective “sparring partner.”  This can be for bad, or for good.
 
@@ -162,7 +162,7 @@ Notice how if your spouse gives you a lousy kiss, this is _such_ a hard thing to
 
 ![](https://acximages.ennals.org/images/2024-book-reviews/824bb069e575fe46.png)
 
-> 3.  **Illusions**
+3.  **Illusions**
 
 This model we’re using here anticipates family members around each-other will get “locked in” to certain modes of behavior (how we “always” do it), and be constrained by little deceptions and personal myths which become, for one reason or another, difficult to shake. They warp one's vision of oneself and one's family members. From the inside, though, they may even seem utterly necessary.
 
@@ -238,8 +238,8 @@ We’ve looked at stories from a few of this guy’s counseling clients, seen so
 
 Now we want to know how his theories and principles guide him as he tries to transform people’s relationships–from a position outside those relationships. Fortunately, he’s very willing to be up-front about the answer to that. (And even for some things he leaves unexplained, he’s not so bad at, “show, don’t tell.”)
 
-> 1.  ### A certain style of persuasion
->     
+1.  ### A certain style of persuasion
+    
 
 One of the more blunt and forceful commentators analyzing our present cultural climate whom I’ve ever read wrote up an [interview with a high-profile Rationalist, pro-natalist couple](https://unherd.com/2023/11/can-liberals-save-themselves-from-extinction/) a bit ago[[303]](#ftnt303). A thing that stuck with me was how she chose to repeatedly “ding” them for dodging (as she perceived it) from addressing moral absolutes:
 
@@ -259,8 +259,8 @@ If you have “access” to the ears of lots of people who don’t automatically
 
 * * *
 
-> 2.  ### The author’s persuasion style often involves him refusing to let others “nail down” his take on moral issues.
->     
+2.  ### The author’s persuasion style often involves him refusing to let others “nail down” his take on moral issues.
+    
 
 The kind of verbal self-restraint I hinted at above is something he exercises, and something he preaches. For example:
 
@@ -282,8 +282,8 @@ TLDR for this section: Sometimes it looks like he’s repeatedly dodging whether
 
 * * *
 
-> 3.  ### The path to provoking change in others… as involving an almost blanket refusal to provide techniques?
->     
+3.  ### The path to provoking change in others… as involving an almost blanket refusal to provide techniques?
+    
 
 You have all heard the old line about the definition of insanity. Yet when it comes to something as elegant and complex as human intimacy, it’s hard to reproduce initial conditions + context sufficiently to _notice_ you’re “doing the same thing and expecting different results.”
 
@@ -299,8 +299,8 @@ There’s both a positive and a negative to that. There’s this dynamic which m
 
 * * *
 
-> 4.  ### “I just wanted you to validate me.”
->     
+4.  ### “I just wanted you to validate me.”
+    
 
 The author recounted one moment from his practice where the couple he’d been counseling had just made a great shift, and success and insights were abounding. But Schnarch was convinced that for him to take the next “obvious, ordinary move from the standard social scripts” for that interaction would have been a misstep:
 

@@ -37,9 +37,9 @@ _Screenshot from the “Making Knives Out Title”_ _[video](https://vimeo.com/3
 
 If you’ve ever read a Christie novel, you might have noticed that on the first or second page, it says something like “Outsold only by the Bible and Shakespeare, Agatha Christie is the best-selling novelist of all time.” This is a bonkers fact! The list of most popular English-language writers apparently goes:
 
-> 1.  God
-> 2.  The guy who invented modern English
-> 3.  A genre-fiction girlie who wrote guilty pleasures  
+1.  God
+2.  The guy who invented modern English
+3.  A genre-fiction girlie who wrote guilty pleasures  
 
 Selling that many books is no easy feat. How did she do it?
 
@@ -59,9 +59,9 @@ _Knives Out_ is so good because it is also a moral fable first and mystery last.
 
 One set of characters in this moral fable are the rich victim’s three children. They are bad because they are all greedy and selfish nepo-babies, although each of them puts their own twist on it.
 
-> 1.  The daughter started a real estate business with a huge loan from her dad.
-> 2.  The son manages his dad’s publishing empire.
-> 3.  The daughter-in-law (her husband, the other son, is dead) gets living expenses from her father-in-law.
+1.  The daughter started a real estate business with a huge loan from her dad.
+2.  The son manages his dad’s publishing empire.
+3.  The daughter-in-law (her husband, the other son, is dead) gets living expenses from her father-in-law.
 
 Ask yourself, why three kids? In the real world, the answer would be “their parents wanted a big family” or “birth control didn’t work out” but this is not the real world. Why did the writer create three kids, not two or four? Because the three kids fill out the three bad quadrants in the below plot.
 

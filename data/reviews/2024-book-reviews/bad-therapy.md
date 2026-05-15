@@ -127,11 +127,11 @@ From Shrier’s perspective, while smartphones and social media are definitely v
 
 Shier opens the book by recounting a recent trip with her son to the urgent care clinic. Once the immediate problem (a stomach ache) had been dealt with, a nurse arrived and asked if he could have a few minutes alone in order to do a “mental health screening” with her son. Shrier asked to see the screening questions. What she saw:
 
-> 1.  _In the past few weeks, have you wished you were dead?_
-> 2.  _In the past few weeks, have you felt that you or your family would be better off if you were dead?_
-> 3.  _In the past week, have you been having thoughts about killing yourself?_
-> 4.  _Have you ever tried to kill yourself? If yes, how? When?_
-> 5.  _Are you having thoughts of killing yourself right now? If yes, please describe._[[25]](#ftnt25)
+1.  _In the past few weeks, have you wished you were dead?_
+2.  _In the past few weeks, have you felt that you or your family would be better off if you were dead?_
+3.  _In the past week, have you been having thoughts about killing yourself?_
+4.  _Have you ever tried to kill yourself? If yes, how? When?_
+5.  _Are you having thoughts of killing yourself right now? If yes, please describe._[[25]](#ftnt25)
 
 Again, this was a visit to a pediatrician about a stomach ache. The nurse wasn’t a trained therapist, nor was Shrier or her son seeking any sort of therapy. .
 
@@ -163,8 +163,8 @@ In each case, the question is searching for potential trauma and gearing up to t
 
 Of all therapeutic methodologies, [cognitive behavioral therapy](https://en.wikipedia.org/wiki/Cognitive_behavioral_therapy) (CBT) seems to have one of the best reputations. The most import steps in CBT are:
 
-> 1.  Identification of negative thoughts.
-> 2.  Once identified they should be evaluated: are these thoughts actually accurate and helpful?
+1.  Identification of negative thoughts.
+2.  Once identified they should be evaluated: are these thoughts actually accurate and helpful?
 
 Other therapeutic practices [offer similar advice](https://chat.openai.com/share/4d082fae-5562-4f66-b524-4d9ecd0ac499). It would appear from the many examples given in the book that—as is so often the case when something is scaled up—the nuance of this two-step approach has been lost especially when these practices and approaches have seeped into the broader culture.
 

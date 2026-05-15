@@ -32,8 +32,8 @@ It was at this point that I realized that this book belonged to my favorite clas
 
 Most controversial books are not forbidden knowledge. Usually, they are “hot takes”, i.e. contentious opinions based on a combination of assumptions, assertions, and widely-available facts. Forbidden knowledge is instead a type of evidence_,_ and it’s uniquely precious for two reasons:
 
-> 1.  The effect of being forbidden: It’s hard to come by.
-> 2.  The cause of being forbidden: It’s likely to update your priors.
+1.  The effect of being forbidden: It’s hard to come by.
+2.  The cause of being forbidden: It’s likely to update your priors.
 
 Evidence that is either widely accepted or is not taken seriously isn’t suppressed. Censors are worried about the marginal case, and therefore target knowledge that’s most likely to shift opinion into unacceptable territory. This means the most controversial evidence is both supportive of an unacceptable position and especially convincing.
 
@@ -41,8 +41,8 @@ _Yąnomamö_ was forbidden because it presents compelling evidence against certa
 
 Here’s what I found most controversial or unexpected:
 
-> 1.  ## They’re kinda dicks
->     
+1.  ## They’re kinda dicks
+    
 
 I say “kinda” because it’s more complicated than being either totally brutal or totally noble. The more you learn about a thing, the more the situation usually turns into “it’s complicated”, though it was painting this multifaceted picture that cost Chagnon his career.
 
@@ -70,8 +70,8 @@ The “game” of it all is made amusingly apparent from Yąnomamö mens’ nost
 
 (We may have to add “taking stuff off nerds” to our list of [Cultural Universals](https://en.wikipedia.org/wiki/Cultural_universal).)
 
-> 2.  ## Being a Yąnomamö woman sucks, though better when old
->     
+2.  ## Being a Yąnomamö woman sucks, though better when old
+    
 
 Growing up as a girl:
 
@@ -95,8 +95,8 @@ With old age, women’s lives improve somewhat:
 
 This reversal of fortune for old women may explain why there are at least two [known](https://www.bbc.com/news/magazine-23758087) [cases](https://en.wikipedia.org/wiki/Yanoama) of older women choosing to return to the Yąnomamö after having lived in modern society.
 
-> 3.  ## Anthropology before ethics committees was bananas
->     
+3.  ## Anthropology before ethics committees was bananas
+    
 
 There are some really egregious examples like [the anthropologist](https://en.wikipedia.org/wiki/Kenneth_Good_(anthropologist)) who married and impregnated a teenage Yąnomamö girl then brought her back to New Jersey, but even the relatively scrupulous Changnon engaged in some curious practices. The 60s may have been an Anthropology-story sweet spot where rigorous records were kept, but they also got up to some wacky hijinks.
 
@@ -120,8 +120,8 @@ If you’re going to read just one thing in this book, read the bit about this c
 
 (Sometimes I blow people’s minds by telling them that my grandfather, who grew up poor in a tropical country, didn’t know what ice was. As in he didn’t know that if water got cold enough it turned hard. Still, I have to think that his life was actually closer to ours, we who read blogs on the internet, than to a Yąnomamö of the Amazon.)
 
-> 4.  ## Yąnomamö life is violent, but norms exist to contain this
->     
+4.  ## Yąnomamö life is violent, but norms exist to contain this
+    
 
 As aggression is necessary, it is encouraged from a young age:
 
@@ -140,8 +140,8 @@ The interesting thing about all three of these games is that it’s hard to be g
   
 Personally, I’ve really appreciated these rituals. In middle school, I was a scrawny kid that didn’t do well in real fights, but I was reliable enough at bloody knuckles to generate a tiny bit of menace and respect that probably saved me from worse interactions.
 
-> 5.  ## Most of their food comes from agriculture
->     
+5.  ## Most of their food comes from agriculture
+    
 
 I’d always thought that “uncontacted” peoples were hunter-gatherers, or perhaps fishermen, but it turns out, by calories, the Yąnomamö are mostly agriculturalists and therefore Neolithic (sorry Paleo-dieters).
 
@@ -149,8 +149,8 @@ I’d always thought that “uncontacted” peoples were hunter-gatherers, or pe
 
 Further, plantains are an Old-world crop, first brought along long trade networks with intermediately-connected indigenous groups. The Yąnomamö are still in indirect contact with the modern world, which leads to the next surprising point:
 
-> 6.  ## “Uncontacted” peoples have access to technology fit for 19th-century Kings
->     
+6.  ## “Uncontacted” peoples have access to technology fit for 19th-century Kings
+    
 
 You may have seen this photo before:
 
@@ -166,8 +166,8 @@ Metallic aluminum is a modern invention, and early on it was [incredibly expensi
 
 Archeologists tell of paleolithic burial sites containing seashells, artifacts, and minerals from thousands of miles away. It had felt hard to conceptualize a prehistoric trade network that could move goods so far, but the movement of these pots illustrate this beautifully.
 
-> 7.  ## They hate stepping on thorns but haven’t invented shoes
->     
+7.  ## They hate stepping on thorns but haven’t invented shoes
+    
 >
 > Walking entails certain kinds of risks. The Yąnomamö have no shoes or clothing, so thorns are always a problem. A party of 10 men can rarely go more than an hour without someone stopping suddenly, cursing, and sitting down to dig a thorn out of his foot with the tip of his arrow point. While their feet are hardened and thickly calloused, walking in streams and through muddy terrain softens the callouses and then the thorns can get deeply embedded.
 
@@ -179,15 +179,15 @@ That said, cane sandals don’t seem particularly [hard to make](https://www.you
 
 I’ve never worn cane sandals though, so maybe shoes below some level of sophistication just aren’t worth the fuss.
 
-> 8.  ## You can buy a canoe full of plantains for a few pocket knives
->     
+8.  ## You can buy a canoe full of plantains for a few pocket knives
+    
 >
 > The Venezuelans who carried supplies upstream to the mission always bought plantains from the Yanomamo for ridiculously low prices and sold them for up to 800% profit
 
 This exchange rate surprised me, though I soon remembered traveling in developing regions and buying unbelievable bounties for pennies. With enough of a technology gap, this makes sense though; if a futuristic alien showed up and wanted your house in exchange for a teleporter or something, you’d probably take the deal.
 
-> 9.  ## Their “plant medicine” is more like PCP than ayahuasca
->     
+9.  ## Their “plant medicine” is more like PCP than ayahuasca
+    
 
 Psychoactive “plant medicines” like psilocybin, peyote, and ayahuasca are increasingly popular, and many have origins in indigenous cultures. They’re often used with the goal of reaching deep truths and higher levels of conscientiousness, and I’d expected to see this from the Yąnomamö as well.
 
@@ -199,8 +199,8 @@ However, continuing with their inconvenient flouting of stereotypes, the Yąnoma
 
 That said, there is some _hekura_ communing, so I can’t dismiss _ebene_ as a party drug entirely. Perhaps it’s similar to psychedelics in the west—there’s a consciousness vs. partying use-case divide.
 
-> 10.  ## They’re pretty good sports all in all
->      
+10.  ## They’re pretty good sports all in all
+     
 
 The author would constantly have things stolen from him, and eventually, he learned to ask a local child, who would cheerfully identify the culprit. The author would then go steal the offender’s hammock, forcing the thief to return the item and endure village taunts about getting so easily caught. That would be the end of it until inevitably something else was stolen and the process repeated itself.  
   

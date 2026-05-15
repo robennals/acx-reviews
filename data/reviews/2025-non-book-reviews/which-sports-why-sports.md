@@ -19,9 +19,9 @@ Are you a sports person? If so, which ones and why? If not, what specific activi
 
 Three parts to this:
 
-> 1.  My brief philosophy. Why I care.
-> 2.  Practical overview. What could normal people do and how do I rate the available options?
-> 3.  Review of the major team sports in the US. Brief observations on fandom and the craziness of sports/humans.
+1.  My brief philosophy. Why I care.
+2.  Practical overview. What could normal people do and how do I rate the available options?
+3.  Review of the major team sports in the US. Brief observations on fandom and the craziness of sports/humans.
 
 *
 

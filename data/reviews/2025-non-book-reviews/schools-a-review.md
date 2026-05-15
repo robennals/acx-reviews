@@ -69,11 +69,11 @@ Schools focus on academic topics while practically ignoring other life skills, l
 
 Those are some of the issues with education today, but the status quo cannot continue. The recent rise of AI changes everything in a few connected ways:
 
-> 1.  Powerful tutoring and learning tools are becoming available to everyone.
-> 2.  With AI help readily available, homework cannot continue unchanged since cheating is so easy.
-> 3.  As AI masters human skills, many traditional subjects become even less practically relevant.
-> 4.  The most practical skill will be learning how to effectively use the AI tools.
-> 5.  Using AI tools, kids will be able to accomplish much across a range of subjects.
+1.  Powerful tutoring and learning tools are becoming available to everyone.
+2.  With AI help readily available, homework cannot continue unchanged since cheating is so easy.
+3.  As AI masters human skills, many traditional subjects become even less practically relevant.
+4.  The most practical skill will be learning how to effectively use the AI tools.
+5.  Using AI tools, kids will be able to accomplish much across a range of subjects.
 
 Schools should have improved long ago, but maybe AI can now help make it happen.
 

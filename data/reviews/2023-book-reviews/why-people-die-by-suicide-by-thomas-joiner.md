@@ -84,11 +84,11 @@ Altogether, these are substantial flaws. The theory also doesn’t account well 
 
 Joiner’s most convincing move is separating a _desire_ for death from the _capability_ to self-harm. Starting from this insight, I can’t help but see a different sort of model.
 
-> 1.  Being alive and being dead are two different states. Being alive is usually preferred.
-> 2.  Sometimes the states seem equivalent, for instance if prolonged disconnection makes life feel pointless.
-> 3.  More rarely, death actually seems preferable. This often involves a belief that others are better off without them, but can also occur anytime quality of life is low enough.
-> 4.  Even in such cases, killing oneself is hard! This state change involves a substantial barrier, or activation energy. The very act of attempting is a high-energy transition state. The higher the barrier, the less likely a suicidal person is to actually make an attempt.
-> 5.  Factors that raise the activation energy include fear of pain, fear of death, and prohibitions against suicide. Factors that lower the barrier include practice, impulsivity, and any beliefs that make suicide more acceptable, such as specific cultural beliefs or exposure to suicide attempts by others.
+1.  Being alive and being dead are two different states. Being alive is usually preferred.
+2.  Sometimes the states seem equivalent, for instance if prolonged disconnection makes life feel pointless.
+3.  More rarely, death actually seems preferable. This often involves a belief that others are better off without them, but can also occur anytime quality of life is low enough.
+4.  Even in such cases, killing oneself is hard! This state change involves a substantial barrier, or activation energy. The very act of attempting is a high-energy transition state. The higher the barrier, the less likely a suicidal person is to actually make an attempt.
+5.  Factors that raise the activation energy include fear of pain, fear of death, and prohibitions against suicide. Factors that lower the barrier include practice, impulsivity, and any beliefs that make suicide more acceptable, such as specific cultural beliefs or exposure to suicide attempts by others.
 
 ![](https://acximages.ennals.org/images/2023-book-reviews/7a3e8612140f7361.png)
 

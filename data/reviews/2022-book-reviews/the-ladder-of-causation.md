@@ -236,8 +236,8 @@ Everything just falls into the right place after this simple definition. First, 
 
 Ehm, maybe the reader is wondering why he can’t rotate the arrows now, or even why he could do it before. It’s a theorem that two diagrams on the same variables correspond to the same set of possible probability distributions if and only if:
 
-> 1.  They have the same structure (no additional links, no missing links),
-> 2.  They have the same v-structures (arrows head-to-head on the same variable, and their tails are not connected by an arrow).
+1.  They have the same structure (no additional links, no missing links),
+2.  They have the same v-structures (arrows head-to-head on the same variable, and their tails are not connected by an arrow).
 
 Since all parents of A are colliding in A, their arrows can’t be reversed in general, _unless_ A has a single parent _and_ we can somehow also rotate the arrows of the grandparents and so on without creating or destroying v-structures, or if the parents are connected. Thus if A has at least one parent, by adding F\_A we forbid both the parent and F\_A to be considered children of A. If A has no parents, F\_A becomes the unique parent and so we could even reverse its arrow. This makes sense because when A is a root node it’s like we are considering it God-given, without causes, so applying the do-operator makes no difference. In other words, we are not representing the causes of A in our model, and so we can’t “exclude” them from our probabilities.
 

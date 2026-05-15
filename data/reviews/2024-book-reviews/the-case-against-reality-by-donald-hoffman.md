@@ -70,7 +70,7 @@ And yet, and yet… I can’t help but think that this, or something as sledgeha
 
 * * *
 
-> 1.  **^** Oh, but what is the “sign” if not also an artifact of the consciousness that perceives it… Does a sign exist if it _signifies_ nothing to nobody?
-> 2.  **^** Sure: if you are reading this on a screen, then the “stop sign” is represented by _emitted_ rather than _reflected_ light, but still...
-> 3.  **^** If I remember right, his answer to this is that the theory of evolution via natural selection is sufficiently generalizable that it can hold up under a whole wealth of conditions, of which the spacetime of our interfaces is only one. Besides, there is a great deal that we can learn about how the icons that represent our perceptual interfaces behave _in the terms of_ our interfaces, which (again in the terms of our interfaces) was shaped by natural selection in spacetime, that is also consistent with Hoffman’s theory. Or something like that.
-> 4.  **^** I recommend J.L. Austin’s _Sense and Sensibilia_ as a good corrective if you ever find yourself sliding into Fudd territory.
+1.  **^** Oh, but what is the “sign” if not also an artifact of the consciousness that perceives it… Does a sign exist if it _signifies_ nothing to nobody?
+2.  **^** Sure: if you are reading this on a screen, then the “stop sign” is represented by _emitted_ rather than _reflected_ light, but still...
+3.  **^** If I remember right, his answer to this is that the theory of evolution via natural selection is sufficiently generalizable that it can hold up under a whole wealth of conditions, of which the spacetime of our interfaces is only one. Besides, there is a great deal that we can learn about how the icons that represent our perceptual interfaces behave _in the terms of_ our interfaces, which (again in the terms of our interfaces) was shaped by natural selection in spacetime, that is also consistent with Hoffman’s theory. Or something like that.
+4.  **^** I recommend J.L. Austin’s _Sense and Sensibilia_ as a good corrective if you ever find yourself sliding into Fudd territory.

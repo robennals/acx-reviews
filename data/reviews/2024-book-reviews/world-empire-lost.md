@@ -369,8 +369,8 @@ No Pearl Harbour, no United States in the war, no German declaration of war on t
 
 The two ‘what if’s I found most fascinating, however, were these:
 
-> 1.  What if Hitler had tried to invade England in June 1940, immediately after the fall of France?
-> 2.  What if Hitler had committed vastly more troops to North Africa - either in 1941 instead of invading Russia, or in 1942, prior to El Alamein?
+1.  What if Hitler had tried to invade England in June 1940, immediately after the fall of France?
+2.  What if Hitler had committed vastly more troops to North Africa - either in 1941 instead of invading Russia, or in 1942, prior to El Alamein?
 
 ### 1\. An Early Sealion
 

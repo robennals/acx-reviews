@@ -69,10 +69,10 @@ If there’s a swathe of people online oversharing emotional content that probab
 
 And an alternative to saying, ‘ah, that may be true but that’s what you get from arresting the correct individuation of the ego’ is to wonder if the reason people seem to act like increasingly like five-year-olds is that five-year-olds don’t have much executive function. Similarly, if lots of people are inclined towards self-gratification, lack emotional boundaries and underperform intellectually because learning involves too much effort, maybe that’s also more of an executive function problem than a literal pathological narcissism problem. Albert Ellis, the progenitor of Rational Emotive Behavioural Therapy, a type of CBT, might have described Lasch’s various complaints as examples of low frustration tolerance – some examples from the Frustration Discomfort Scale via [Wikipedia](https://en.wikipedia.org/wiki/Low_frustration_tolerance):
 
-> 1.  Emotional intolerance, involving intolerance of emotional distress.
-> 2.  Entitlement, involving intolerance of unfairness and frustrated gratification.
-> 3.  Discomfort intolerance, involving intolerance of difficulties and hassles.
-> 4.  Achievement, involving intolerance of frustrated achievement goals.
+1.  Emotional intolerance, involving intolerance of emotional distress.
+2.  Entitlement, involving intolerance of unfairness and frustrated gratification.
+3.  Discomfort intolerance, involving intolerance of difficulties and hassles.
+4.  Achievement, involving intolerance of frustrated achievement goals.
 
 These are the same problems that Lasch identifies; Ellis’s [three core irrational beliefs](https://en.wikipedia.org/wiki/Rational_emotive_behavior_therapy#Core_beliefs_that_disturb_humans) fit Lasch’s diagnosis of narcissism perfectly, but Ellis doesn’t even see them as pathological, just as a very human tendency to think unreasonably when circumstances allow. Ellis’s solution to this would be that people need to be a bit more reasonable and get better at tolerating frustration, and that this can be learned in therapy. If Lasch is correct in observing a society-level tendency towards these behaviours, it’s a similar complaint in many ways to _[The Coddling of the American Mind](https://www.theatlantic.com/magazine/archive/2015/09/the-coddling-of-the-american-mind/399356/)_ which sees them through a CBT lens. And if that is the case, maybe a postliberal-style society-level solution is a more workable idea than everyone being in therapy, even if it is a less batshit form of therapy than psychoanalysis.
 

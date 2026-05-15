@@ -311,14 +311,14 @@ Empirical Example - A Look at Some ACX 2022 Survey Results
 
 I figured it might also be good to have a short look at the 2022 ACX survey results. The first column that would seem to need some work to interpret was the age. This turned out to be harder than any example in the book made it out to be. It did say data cleaning was a lot of the work and that is also what I remembered. For a taste, here are the issues from getting the data to fixing the age column:
 
-> 1.  CSV download failed, but xlsx worked
-> 2.  Xlsxs can be exported to CSV in several encodings, tried one
-> 3.  The error turning this into a DataFrame gave the default, expected encoding, so re-exported and re-created the DataFrame
-> 4.  The book didn’t have an example of converting a range to a number, but did suggest that in cases like this, where there is some natural ordering, that a proxy number might be OK.
-> 5.  StackOverflow provided something close that used regex to get the ends of the range and then averaged them, so tried that, but had to figure out that the ‘-’ in the xlsx did not export as the keyboard ‘-’ and had to be copy/pasted to work (frustrating to figure out).
-> 6.  The “less than 15” category did not work with the regex given, so I had to use [regex101](https://regex101.com/) to figure out how to get the digits from either of the formats.
-> 7.  There were missing entries, so I needed to set the flag to handle those.
-> 8.  The number 75 was repeated in the set of ranges and the “less than 15” category ended up as just 15, but I figured these were OK to just leave for this experiment.
+1.  CSV download failed, but xlsx worked
+2.  Xlsxs can be exported to CSV in several encodings, tried one
+3.  The error turning this into a DataFrame gave the default, expected encoding, so re-exported and re-created the DataFrame
+4.  The book didn’t have an example of converting a range to a number, but did suggest that in cases like this, where there is some natural ordering, that a proxy number might be OK.
+5.  StackOverflow provided something close that used regex to get the ends of the range and then averaged them, so tried that, but had to figure out that the ‘-’ in the xlsx did not export as the keyboard ‘-’ and had to be copy/pasted to work (frustrating to figure out).
+6.  The “less than 15” category did not work with the regex given, so I had to use [regex101](https://regex101.com/) to figure out how to get the digits from either of the formats.
+7.  There were missing entries, so I needed to set the flag to handle those.
+8.  The number 75 was repeated in the set of ranges and the “less than 15” category ended up as just 15, but I figured these were OK to just leave for this experiment.
 
 Again the book covered how to fix about 20% of this, but I stopped looking for the answers in the book as searching the web was usually faster and addressed any issue. Not the book’s fault as it is not meant to do that fully.
 

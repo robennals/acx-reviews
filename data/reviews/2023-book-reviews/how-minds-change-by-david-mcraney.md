@@ -152,8 +152,8 @@ He dives into research that shows that people are way better at picking apart ot
 
 He then interviews some experts about the "Elaboration-Likelihood Model". It describes two modes of persuasion:
 
-> 1.  The "Peripheral Route", in which people don't think too hard about an argument and instead base their attitudes on quick, gut feelings like whether the person is attractive, famous, or confident-sounding.
-> 2.  The "Central Route", which involves a much slower and more effortful evaluation of the content of the argument.
+1.  The "Peripheral Route", in which people don't think too hard about an argument and instead base their attitudes on quick, gut feelings like whether the person is attractive, famous, or confident-sounding.
+2.  The "Central Route", which involves a much slower and more effortful evaluation of the content of the argument.
 
 To me, this sounds a lot like [System 1 and System 2 thinking](https://thedecisionlab.com/reference-guide/philosophy/system-1-and-system-2-thinking). But the catch is it takes motivation to get people to expend the effort to move to the Central Route. Nobody's ever motivated to think too hard about ads, for example, so they almost always use the Peripheral Route. But if you're _actually_ trying to change people's minds, especially on something they hold dear, you _need_ to get them to the Central Route.
 
@@ -175,12 +175,12 @@ _Among the persuasive techniques that depend on technique rebuttal, street epist
 
 But all of them follow a similar structure. Roughly speaking, it's something like this:
 
-> 1.  **Establish rapport.** Make the other person feel comfortable, assure them you're not out to shame or attack them, and ask for consent to work through their reasoning.
-> 2.  **Ask them for their belief.** For best results, ask them for a confidence level from one to ten. Repeat it back to them in your own words to confirm you understand what they're saying. Clarify any terms they're using.
-> 3.  **Ask them why they believe what they do.** Why isn't their confidence lower or higher?
-> 4.  **Repeat their reasons back to them in your own words.** Check that you've done a good job summarizing.
-> 5.  **Continue like this for as long as you like.** Listen, summarize, repeat.
-> 6.  **Wrap up**, thank them for their time, and wish them well. Or, suggest that you can continue the conversation later.
+1.  **Establish rapport.** Make the other person feel comfortable, assure them you're not out to shame or attack them, and ask for consent to work through their reasoning.
+2.  **Ask them for their belief.** For best results, ask them for a confidence level from one to ten. Repeat it back to them in your own words to confirm you understand what they're saying. Clarify any terms they're using.
+3.  **Ask them why they believe what they do.** Why isn't their confidence lower or higher?
+4.  **Repeat their reasons back to them in your own words.** Check that you've done a good job summarizing.
+5.  **Continue like this for as long as you like.** Listen, summarize, repeat.
+6.  **Wrap up**, thank them for their time, and wish them well. Or, suggest that you can continue the conversation later.
 
 Each technique has slightly different steps, which you can find in full in Chapter 9.
 

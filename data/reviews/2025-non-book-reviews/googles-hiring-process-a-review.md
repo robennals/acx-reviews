@@ -67,9 +67,9 @@ If they pass all of that they’ll need to be allocated to a team. Sometimes can
 
 Google uses a structured grading rubric. What that means in practice is:
 
-> 1.  The interviewer will write up everything that happened in the interview, but the chances are nobody’s ever going to look at that.
-> 2.  They then rate the candidate from 1 to 4 on a variety of skills - e.g. coding, communication, testing, etc. There’s a detailed description of what each rating means for each skill, and they write up a couple of sentences about why the candidate deserved that rating.
-> 3.  Finally they rate the candidate anywhere from Strong No Hire to Strong Hire, and give a brief justification for this rating.
+1.  The interviewer will write up everything that happened in the interview, but the chances are nobody’s ever going to look at that.
+2.  They then rate the candidate from 1 to 4 on a variety of skills - e.g. coding, communication, testing, etc. There’s a detailed description of what each rating means for each skill, and they write up a couple of sentences about why the candidate deserved that rating.
+3.  Finally they rate the candidate anywhere from Strong No Hire to Strong Hire, and give a brief justification for this rating.
 
 The descriptions for each skill depend on the level the candidate is aiming for, so L3s have lower expectations than L5s. You can also optionally rate the candidate for one level above or below their target level, if you think they outperformed your expectations, or that they aren’t good enough for L4 but would be fine as an L3.
 
@@ -134,8 +134,8 @@ Given how much I’ve bad-mouthed the interview process, here’s the point wher
 
 Unfortunately I can’t for two reasons:
 
-> 1.  I forgot all about the deadline and rushed this off in half an hour. I don’t have any data.
-> 2.  The results actually seem to be quite good.
+1.  I forgot all about the deadline and rushed this off in half an hour. I don’t have any data.
+2.  The results actually seem to be quite good.
 
 Developers at Google are consistently among the strongest I’ve ever worked with. At previous companies I was always the most talented developer in every team. Now I’m often not. And the levels seem roughly appropriate - when I find out which level a colleague is (it’s hidden by default) I’m rarely surprised.
 

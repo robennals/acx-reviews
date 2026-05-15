@@ -132,8 +132,8 @@ Broadly speaking, Koonin’s book fits into the category of “climate skeptic�
 
 Writing a climate skeptic book is a difficult endeavor. Firstly, by definition, it’s going against the grain of the mainstream, which is never an easy task. Secondly, and more to the point here, climate change has such a significant potential impact that it's important that people who read Koonin's work gain a full understanding of climate change. He argues that the media has gone too far toward climate alarmism, so he pushes back on that. This is a reasonable and important thing to do; highlighting examples of overreach is valuable. However, in doing this, it’s easy to paint a picture that underplays the dangers of climate change, which would also be an unfortunate result. There’s always the potential for someone to point out conflicting evidence that, while it complicates the general public’s understanding, doesn't actually refute it. Going into this, two things were in my mind:
 
-> 1.  Does he state his case and back it up with evidence?
-> 2.  Is he careful not to overstate his case beyond the evidence?
+1.  Does he state his case and back it up with evidence?
+2.  Is he careful not to overstate his case beyond the evidence?
 
 ### What Is Unsettled?
 
@@ -167,9 +167,9 @@ It’s important to have clear and precise language when discussing technical to
 
 To be extra careful to avoid ambiguous language, Koonin uses terms like “human-caused climate change” to refer to climate responses to human activity. I will do the same in this review. Two things excluded by this definition are worth emphasizing:
 
-> 1.  Much of human behavior is not included in this. If people spread dry brush everywhere which causes a huge increase in wildfires, that would not be attributable to “human-caused climate change'' by this definition.  
->     
-> 2.  Natural climate change is not included. There is natural variation to the climate that generally moves much more slowly than human-caused climate change (except when an errant asteroid or unruly supervolcano interferes). Sea levels have always gone up and down throughout history. So if sea levels are rising today, it’s not necessarily because of human-caused climate change. If, however, human influences are causing sea levels to rise more (or less) quickly, then that is considered an effect of human-caused climate change.
+1.  Much of human behavior is not included in this. If people spread dry brush everywhere which causes a huge increase in wildfires, that would not be attributable to “human-caused climate change'' by this definition.  
+    
+2.  Natural climate change is not included. There is natural variation to the climate that generally moves much more slowly than human-caused climate change (except when an errant asteroid or unruly supervolcano interferes). Sea levels have always gone up and down throughout history. So if sea levels are rising today, it’s not necessarily because of human-caused climate change. If, however, human influences are causing sea levels to rise more (or less) quickly, then that is considered an effect of human-caused climate change.
 
 ### Sources of Information for Climate Change
 

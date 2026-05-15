@@ -85,24 +85,24 @@ Early on in _The Call of Cthulhu_, having recounted his grand-uncle’s having c
 
 * * *
 
-> 1.  Lovecraft, H. & Schweitzer, D. (2008). _Supernatural horror in literature & other literary essays_. Rockville, Md: Wildside Press. ↩
-> 2.  My source here is [Wiktionary](https://en.wiktionary.org/wiki/mystery), though the Oxford English Dictionary and the Catholic Encyclopedia give similar origins. ↩
-> 3.  This is the beginning of the plot of Umberto Eco’s magnificent novel _The Name of the Rose_. ↩
-> 4.  Li, Y., Qin, Q., Sun, Q., Sanford, L. D., Vgontzas, A. N., & Tang, X. (2020). _Insomnia and psychological reactions during the COVID-19 outbreak in China_. Journal of Clinical Sleep Medicine, 16(8), 1417–1418. ↩
-> 5.  Huang, Y., & Zhao, N. (2020). _Generalized anxiety disorder, depressive symptoms and sleep quality during COVID-19 outbreak in China: a web-based cross-sectional survey_. Psychiatry Research, 288, 112954. ↩
-> 6.  Casagrande, M., Favieri, F., Tambelli, R., & Forte, G. (2020). _The enemy who sealed the world: effects quarantine due to the COVID-19 on sleep quality, anxiety, and psychological distress in the Italian population_. Sleep Medicine, 75, 12–20. ↩
-> 7.  Hamblin, _[The Mysterious Link Between COVID-19 and Sleep](https://www.theatlantic.com/health/archive/2020/12/covid-19-sleep-pandemic-zzzz/617454/)_. ↩
-> 8.  ibid. ↩
-> 9.  This scene is from the autobiography of Teresa of Ávila. ↩
-> 10.  From an interview by Ivar Ivask, translated into Swedish by Lasse Söderberg and back into English by myself. ↩
-> 11.  Kierkegaard, S. (1989). _The sickness unto death : a Christian psychological exposition for edification and awakening_. London, England New York, N.Y., USA: Penguin Books. ↩
-> 12.  I follow Wayne C. Booth in making the common-sense distinction between [the implied author](https://en.wikipedia.org/wiki/Implied_author) and the breathing (or, as it were, decaying) author. ↩
-> 13.  Lovecraft, H. & Joshi, S. (2017). _The call of Cthulhu and other weird stories_. London: Folio Society. ↩
-> 14.  Zeller, B. E. (2019). _Altar Call of Cthulhu: Religion and Millennialism in H.P. Lovecraft’s Cthulhu Mythos_. Religions, 11(1), 18. ↩
-> 15.  Lovecraft, H. & Joshi, S. (2017). _The call of Cthulhu and other weird stories_. London: Folio Society. ↩
-> 16.  Meyer, M. & Funk. (2007). _The Nag Hammadi scriptures_. New York: HarperOne. ↩
-> 17.  Zeller, B. E. (2019). _Altar Call of Cthulhu: Religion and Millennialism in H.P. Lovecraft’s Cthulhu Mythos_. Religions, 11(1), 18. ↩
-> 18.  Huxley, A. (2004). _The doors of perception and Heaven and hell_. New York: Perennial Classics. ↩
-> 19.  Lovecraft, H. & Joshi, S. (2017). _The call of Cthulhu and other weird stories_. London: Folio Society. ↩
+1.  Lovecraft, H. & Schweitzer, D. (2008). _Supernatural horror in literature & other literary essays_. Rockville, Md: Wildside Press. ↩
+2.  My source here is [Wiktionary](https://en.wiktionary.org/wiki/mystery), though the Oxford English Dictionary and the Catholic Encyclopedia give similar origins. ↩
+3.  This is the beginning of the plot of Umberto Eco’s magnificent novel _The Name of the Rose_. ↩
+4.  Li, Y., Qin, Q., Sun, Q., Sanford, L. D., Vgontzas, A. N., & Tang, X. (2020). _Insomnia and psychological reactions during the COVID-19 outbreak in China_. Journal of Clinical Sleep Medicine, 16(8), 1417–1418. ↩
+5.  Huang, Y., & Zhao, N. (2020). _Generalized anxiety disorder, depressive symptoms and sleep quality during COVID-19 outbreak in China: a web-based cross-sectional survey_. Psychiatry Research, 288, 112954. ↩
+6.  Casagrande, M., Favieri, F., Tambelli, R., & Forte, G. (2020). _The enemy who sealed the world: effects quarantine due to the COVID-19 on sleep quality, anxiety, and psychological distress in the Italian population_. Sleep Medicine, 75, 12–20. ↩
+7.  Hamblin, _[The Mysterious Link Between COVID-19 and Sleep](https://www.theatlantic.com/health/archive/2020/12/covid-19-sleep-pandemic-zzzz/617454/)_. ↩
+8.  ibid. ↩
+9.  This scene is from the autobiography of Teresa of Ávila. ↩
+10.  From an interview by Ivar Ivask, translated into Swedish by Lasse Söderberg and back into English by myself. ↩
+11.  Kierkegaard, S. (1989). _The sickness unto death : a Christian psychological exposition for edification and awakening_. London, England New York, N.Y., USA: Penguin Books. ↩
+12.  I follow Wayne C. Booth in making the common-sense distinction between [the implied author](https://en.wikipedia.org/wiki/Implied_author) and the breathing (or, as it were, decaying) author. ↩
+13.  Lovecraft, H. & Joshi, S. (2017). _The call of Cthulhu and other weird stories_. London: Folio Society. ↩
+14.  Zeller, B. E. (2019). _Altar Call of Cthulhu: Religion and Millennialism in H.P. Lovecraft’s Cthulhu Mythos_. Religions, 11(1), 18. ↩
+15.  Lovecraft, H. & Joshi, S. (2017). _The call of Cthulhu and other weird stories_. London: Folio Society. ↩
+16.  Meyer, M. & Funk. (2007). _The Nag Hammadi scriptures_. New York: HarperOne. ↩
+17.  Zeller, B. E. (2019). _Altar Call of Cthulhu: Religion and Millennialism in H.P. Lovecraft’s Cthulhu Mythos_. Religions, 11(1), 18. ↩
+18.  Huxley, A. (2004). _The doors of perception and Heaven and hell_. New York: Perennial Classics. ↩
+19.  Lovecraft, H. & Joshi, S. (2017). _The call of Cthulhu and other weird stories_. London: Folio Society. ↩
 
 * * *

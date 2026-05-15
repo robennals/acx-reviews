@@ -40,8 +40,8 @@ We live in times where as long as you have lived experience of the issue that yo
 
 So what does Perel have to offer to the discourse on love, sex and relationships?
 
-> 1.  ## Mockery
->     
+1.  ## Mockery
+    
 >
 > She first makes you look at the floating debris of the sexual liberation of the 60s, and she laughs out loud. If the 60s brought vitality and vibrance to sex, the millennium brought mundanity and dullness to it. All this in the background of immense sexual freedom. Sex today is permitted within and without marriage. Privacy is deeply respected. Instagram is flooded with sex therapists and sex-positive influencers. Sex both as an idea and an act is allowed to roam about freely on the fertile grounds of our private and public emancipation. Yet the correlation between sex and freedom is overall negative. The modern world sees men struggle with sexual dysfunction, women struggle with sexual disappointment, and everybody struggling with sexual desire. It is a little funny when you think of it. One would think that all this sexual freedom would have made us sexual fanatics, that we’d be going to the doctor to get our sexual behaviour under control, that pharmacies would be making money off sexover pills, but the opposite seems to be happening.
 >
@@ -55,8 +55,8 @@ So what does Perel have to offer to the discourse on love, sex and relationships
 >   
 > One of the most remarkable feats in sexual revolution history, if you ask me, is the invention of contraception. You can now override evolution and unwanted pregnancies and use this newly gained time to have more sex but the opposite seems to be happening. Maybe this is what you get for trying to beat evolution. You get an illusion of abundance. There is plenty of food but we are all still starved. When we ushered in the era of pleasure, an era of displeasure inadvertently followed.
 >
-> 2.  ## Counter-intuitive Logic
->     
+2.  ## Counter-intuitive Logic
+    
 >
 > Mating in Captivity takes notions that we have for a long time accepted as unquestionable, and pokes gigantic holes in them. Take for example, the solutions that are usually proposed to mitigate our problems of sex. We’re asked to communicate more, organise our time better and make sex a standing meeting on our calendars. We are asked to discuss our troubles and our stressors and our preferences. We are asked to be more gentle and loving and caressing in the bedroom. Aggression has no place in the relationship, not even in the bedroom. Submissive behaviour is unacceptable, especially in the bedroom. And if we’re unable to talk about any of this, we’re asked to talk about not being able to talk about any of this.
 >
@@ -166,8 +166,8 @@ So what does Perel have to offer to the discourse on love, sex and relationships
 >
 > Instead of fearing the third that permanently resides on the boundary of our marriages, Perel asks us to recognise it, allow it to be seen, accept it and in cases where there is the will and trust to experiment, even embrace it.
 >
-> 3.  ## Perel’s advice and my final words
->     
+3.  ## Perel’s advice and my final words
+    
 >
 > In a book that I consider to be a landmark against the backdrop of trite ideas and platitudinous beliefs about love, Perel encourages all of us to question what was always considered as absolute in love. More importantly, she asks us to be wary of popular psychology and culture that paints relationships in the light of contemporary politics. The politics and the poetics of love can often be read distinctly.
 >

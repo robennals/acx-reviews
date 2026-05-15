@@ -34,11 +34,11 @@ To give you some context and background, I was a regionally competitive athlete 
 
 Obviously, a lot of physical ones, and that’s why athletes use it - but there are significant positive mental and quality of life effects, and that’s the core of the benefit I’m talking to you about today.
 
-> 1.  Significantly greater hypertrophy, improved oxygenation under load, and greater work capacity, and better physical recovery
-> 2.  Related to the above, greater baseline energy in day to day life.
-> 3.  Testosterone is actually a significant (and under-rated) [nootropic](https://gwern.net/nootropic/nootropics#testosterone) (gwern.net), and typically drives higher motivation, higher status seeking, and higher risk-taking, while also improving concentration and focus in many users.
-> 4.  Testosterone, especially for older men, drives greater joie de vivre and often helps them feel younger, more vital, and more engaged with life.
-> 5.  Testosterone increases libido, often significantly.
+1.  Significantly greater hypertrophy, improved oxygenation under load, and greater work capacity, and better physical recovery
+2.  Related to the above, greater baseline energy in day to day life.
+3.  Testosterone is actually a significant (and under-rated) [nootropic](https://gwern.net/nootropic/nootropics#testosterone) (gwern.net), and typically drives higher motivation, higher status seeking, and higher risk-taking, while also improving concentration and focus in many users.
+4.  Testosterone, especially for older men, drives greater joie de vivre and often helps them feel younger, more vital, and more engaged with life.
+5.  Testosterone increases libido, often significantly.
 
 So it will make you ripped, more energetic, let you train and recover better, give you more focus and motivation, AND make you feel happier, hornier, and more engaged with life? Those are \***massive**\* upsides!
 
@@ -52,19 +52,19 @@ The _possible_ downsides are many and varied, because testosterone affects nearl
 
 ### Possible Downsides
 
-> 1.  Higher blood pressure
-> 2.  Higher cholesterol
-> 3.  Impaired insulin production
-> 4.  (For orals) liver stress and potential damage
-> 5.  (For orals) kidney stress and potential damage
-> 6.  Acne
-> 7.  Irritability (For some, with decent evidence this is psychosomatic)
-> 8.  Male pattern baldness / hair loss
-> 9.  Gynecomastia (aka “bitch tits”)
-> 10.  Thickening of ventricular walls
-> 11.  Immune suppression and greater susceptibility to infections
-> 12.  Over time, it suppresses your HPG axis and you stop producing testosterone endogenously
-> 13.  It impacts fertility and sperm quality, with exogenous testosterone being a 60-98% effective male fertility suppressant while you’re on it
+1.  Higher blood pressure
+2.  Higher cholesterol
+3.  Impaired insulin production
+4.  (For orals) liver stress and potential damage
+5.  (For orals) kidney stress and potential damage
+6.  Acne
+7.  Irritability (For some, with decent evidence this is psychosomatic)
+8.  Male pattern baldness / hair loss
+9.  Gynecomastia (aka “bitch tits”)
+10.  Thickening of ventricular walls
+11.  Immune suppression and greater susceptibility to infections
+12.  Over time, it suppresses your HPG axis and you stop producing testosterone endogenously
+13.  It impacts fertility and sperm quality, with exogenous testosterone being a 60-98% effective male fertility suppressant while you’re on it
 
 If you dig into the literature, you’ll even find individual case studies where people claim to have suffered tumors, liver failure, and cardiomyopathy from steroid use.¹
 
@@ -160,23 +160,23 @@ If you’re _extra_ paranoid, you could hit the fertility clinic and put some sp
 
 Ultimately, quality of life is about how you _feel_ and academic studies aren’t really ever going to surface that very well.  So I’m also going to include a few quotes from different TRT users that I personally know:
 
-> 1.  “I used to have such a “what can I consume” view of the world and now I want to make things and impress people.  That’s a better way to live than an unambitious life where you just passively stand by as the economy slots you into some soul crushing 9-5 by default.”
+1.  “I used to have such a “what can I consume” view of the world and now I want to make things and impress people.  That’s a better way to live than an unambitious life where you just passively stand by as the economy slots you into some soul crushing 9-5 by default.”
 >
 > – a younger friend who founded a startup after doing TRT and getting motivated
 >
-> 2.  “Life changing, it’s just crazy.  I feel like ME again, in every part of my life.”
+2.  “Life changing, it’s just crazy.  I feel like ME again, in every part of my life.”
 >
 > – my dad, a former athlete and serial entrepreneur after taking up TRT in his 60’s
 >
-> 3.  “If you do T properly for long enough and know what you’re doing, the powers you gain can feel almost superhuman.”  
+3.  “If you do T properly for long enough and know what you’re doing, the powers you gain can feel almost superhuman.”  
 >
 > – a retired gym buddy in his 70’s who still squats 3 plates (315+ lbs)
 >
-> 4.  “I was really hitting plateaus in my life, and it changed it fully.  It definitely increased my energy, along with my strength and muscle mass.  I would recommend it for a lot of men, it really enhances your lifestyle.”  
+4.  “I was really hitting plateaus in my life, and it changed it fully.  It definitely increased my energy, along with my strength and muscle mass.  I would recommend it for a lot of men, it really enhances your lifestyle.”  
 >
 > – a good friend who is currently working a day job in software, building a mid-rise building, and just signed a deal with a large corporate airline for his side-project startup
 >
-> 5.  “Do you know what the biggest change for me is?  It gives you that push - before you might have thought about going to the gym, and hesitated - maybe you’d give in to your worst impulses and stay home.  But now?  I go.  I used to have a lot more trouble procrastinating before, too, in a lot of areas, and it helped that on multiple fronts.”
+5.  “Do you know what the biggest change for me is?  It gives you that push - before you might have thought about going to the gym, and hesitated - maybe you’d give in to your worst impulses and stay home.  But now?  I go.  I used to have a lot more trouble procrastinating before, too, in a lot of areas, and it helped that on multiple fronts.”
 
 – a former gym buddy and colleague from several gyms and companies ago
 
@@ -278,18 +278,18 @@ I personally think EVERY healthy man reading this who is curious should try T, b
 
 I will note here, there are several behavioral things that acutely drive your T levels lower before a test like this, and you should be aware of them so that you can avoid them if you want a valid and true reading of your testosterone level:
 
-> 1.  Lack of sleep before the test significantly impacts T levels
-> 2.  So does alcohol consumption the night before
-> 3.  Strenuous cardio in the days / week before does this as well
-> 4.  Sugar consumption the morning before the test also tends to do this
+1.  Lack of sleep before the test significantly impacts T levels
+2.  So does alcohol consumption the night before
+3.  Strenuous cardio in the days / week before does this as well
+4.  Sugar consumption the morning before the test also tends to do this
 
 So you _really_ don’t want to run a couple “difficult” distances a few days before, then the night before the test pull an all nighter where you bar hop, get hammered, get only a couple hours or forget to sleep entirely, then load up on morning pancakes or donuts an hour before your test.  That would probably skew your results significantly.
 
 ### Who should NOT consider testosterone?
 
-> 1.  Women - women get strong androgenization and virilization side effects at even very small doses, it’s a bad idea generally
-> 2.  People with existing cardiac, blood pressure, cholesterol, or sugar problems (if BP or cholesterol were barely over thresholds and now controlled with medication, it’s probably fine to try, but don’t fly blind, monitor your metrics)
-> 3.  Men who want to get somebody pregnant within the next year - because of the effects on the HPG axis and sperm quality (if you do HCG concurrently, this is mitigated)
+1.  Women - women get strong androgenization and virilization side effects at even very small doses, it’s a bad idea generally
+2.  People with existing cardiac, blood pressure, cholesterol, or sugar problems (if BP or cholesterol were barely over thresholds and now controlled with medication, it’s probably fine to try, but don’t fly blind, monitor your metrics)
+3.  Men who want to get somebody pregnant within the next year - because of the effects on the HPG axis and sperm quality (if you do HCG concurrently, this is mitigated)
 
 ### Risk awareness and measuring and mitigation plans
 
@@ -299,37 +299,37 @@ A big part of my argument is that the downsides are minimal, measurable, and mit
 
 #### What are the risk factors for worse side effects?
 
-> 1.  Older age - you’re more susceptible to all the side effects the older you are, and should dose and monitor accordingly
-> 2.  Not doing cardio - cardio mitigates both blood pressure and cholesterol increases, especially if you do HIIT
-> 3.  Pre-existing cholesterol or blood pressure problems
-> 4.  Pre-existing diabetes or blood sugar problems
-> 5.  Pre-existing male pattern baldness, or history in male line
-> 6.  History of stroke, heart attack, or other cardiac problems - obviously don’t do anything that can whack your BP and cholesterol if you have a cardiac history
+1.  Older age - you’re more susceptible to all the side effects the older you are, and should dose and monitor accordingly
+2.  Not doing cardio - cardio mitigates both blood pressure and cholesterol increases, especially if you do HIIT
+3.  Pre-existing cholesterol or blood pressure problems
+4.  Pre-existing diabetes or blood sugar problems
+5.  Pre-existing male pattern baldness, or history in male line
+6.  History of stroke, heart attack, or other cardiac problems - obviously don’t do anything that can whack your BP and cholesterol if you have a cardiac history
 
 #### What to monitor?
 
 Did you know there’s a [ton](https://www.privatemdlabs.com/) of [websites](https://www.labsmd.com/) where you can just order labs yourself, without needing a doctor?  What labs or self-monitoring would you need to do to monitor your sides?
 
-> 1.  HDL and LDL (labs, 2x annually to keep an eye on your cholesterol and lipids)
-> 2.  CBC - blood chemistry labs, with hematocrit, RBC, neutrophils, that lets you keep track of excess red blood cells and a few immune measures. (2x annually)
-> 3.  A1C or fasting glucose (labs 2x annually)
-> 4.  eGFR kidney function, bilirubin and a few other liver metrics (labs 2x annually)
-> 5.  Blood pressure - self monitored via blood pressure devices you can get on Amazon
-> 6.  Hair (for balding)
-> 7.  Skin (for acne and excess hair)
-> 8.  Gynecomastia - nipple tenderness and / or itchiness, and / or growth in pectoral mass that doesn’t appear to be muscular
-> 9.  Irritability (for the sake of your friends and partners and family)
+1.  HDL and LDL (labs, 2x annually to keep an eye on your cholesterol and lipids)
+2.  CBC - blood chemistry labs, with hematocrit, RBC, neutrophils, that lets you keep track of excess red blood cells and a few immune measures. (2x annually)
+3.  A1C or fasting glucose (labs 2x annually)
+4.  eGFR kidney function, bilirubin and a few other liver metrics (labs 2x annually)
+5.  Blood pressure - self monitored via blood pressure devices you can get on Amazon
+6.  Hair (for balding)
+7.  Skin (for acne and excess hair)
+8.  Gynecomastia - nipple tenderness and / or itchiness, and / or growth in pectoral mass that doesn’t appear to be muscular
+9.  Irritability (for the sake of your friends and partners and family)
 
 #### What are the safety practices to mitigate side effects?
 
-> 1.  Cardio / HIIT - mitigates cholesterol and blood pressure effects, both of which are trackable with labs or simple devices.
-> 2.  Liver and kidney toxicity - stay away from orals. If you do use them, only do so for 2-3 weeks at low or moderate doses.
-> 3.  Acne - if it gets bad in a way daily face washing and lotion don’t help, Accutane is your answer.
-> 4.  Irritability - Mostly due to cultural expectation / placebo effect, but some people might get a little bit of this. Just be mindful and keep an eye on it - if it’s getting to be a problem, dial back your dosage.
-> 5.  Immune suppression effects - not a problem at TRT levels, and for higher levels, this is what “cruising” and off-cycles are for. Also, 4-6mg of rapamycin on a second rest day every other week downregulates mTor and kills precancerous cells (it’s how and why it’s used for anti-aging). You can get rapamycin with totally online doctor video visits and refills from agelessrx.com, I’m a huge fan.
-> 6.  Gynecomastia - very rare at TRT levels - there are “aromatization inhibitors” like anastrozole / arimidex that you can take that prevent the high estrogen levels that can lead to this.
-> 7.  Fertility - take HCG while using testosterone, or cycle on and off in 10-12 week cycles while doing “post cycle therapy” (PCT) to restimulate your endogenous production.
-> 8.  Hair loss - follistatin prophylactically for hair loss if you’re high risk, minoxidil if you see hair loss empirically.
+1.  Cardio / HIIT - mitigates cholesterol and blood pressure effects, both of which are trackable with labs or simple devices.
+2.  Liver and kidney toxicity - stay away from orals. If you do use them, only do so for 2-3 weeks at low or moderate doses.
+3.  Acne - if it gets bad in a way daily face washing and lotion don’t help, Accutane is your answer.
+4.  Irritability - Mostly due to cultural expectation / placebo effect, but some people might get a little bit of this. Just be mindful and keep an eye on it - if it’s getting to be a problem, dial back your dosage.
+5.  Immune suppression effects - not a problem at TRT levels, and for higher levels, this is what “cruising” and off-cycles are for. Also, 4-6mg of rapamycin on a second rest day every other week downregulates mTor and kills precancerous cells (it’s how and why it’s used for anti-aging). You can get rapamycin with totally online doctor video visits and refills from agelessrx.com, I’m a huge fan.
+6.  Gynecomastia - very rare at TRT levels - there are “aromatization inhibitors” like anastrozole / arimidex that you can take that prevent the high estrogen levels that can lead to this.
+7.  Fertility - take HCG while using testosterone, or cycle on and off in 10-12 week cycles while doing “post cycle therapy” (PCT) to restimulate your endogenous production.
+8.  Hair loss - follistatin prophylactically for hair loss if you’re high risk, minoxidil if you see hair loss empirically.
 
 #### What happens if  / when you want to stop?
 

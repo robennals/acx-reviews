@@ -51,9 +51,9 @@ With each new innovation, men’s share of household work was largely replaced b
 
 There are three key points to keep in mind while reading Cowan’s argument:
 
-> 1.  No tool changes in isolation; every technological innovation changes the work process that it is part of, and can only be understood in the context of that work process.
-> 2.  Likewise, tools are not passive; the existence of a tool creates new needs, which can either be filled with new tools, or by new human labor.
-> 3.  In addition, if a tool makes a certain task measurably easier or faster, the very existence of the tool can increase the frequency with which that task is performed, increasing the overall absolute labor.
+1.  No tool changes in isolation; every technological innovation changes the work process that it is part of, and can only be understood in the context of that work process.
+2.  Likewise, tools are not passive; the existence of a tool creates new needs, which can either be filled with new tools, or by new human labor.
+3.  In addition, if a tool makes a certain task measurably easier or faster, the very existence of the tool can increase the frequency with which that task is performed, increasing the overall absolute labor.
 
 ## From Cornbread to Angel Food Cake
 

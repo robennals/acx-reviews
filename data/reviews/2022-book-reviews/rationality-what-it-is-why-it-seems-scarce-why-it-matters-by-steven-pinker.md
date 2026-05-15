@@ -116,14 +116,14 @@ Belief: A proposition which so far seems, in my estimation, to give mostly corre
 
 Justified:
 
-> 1.  A property that a hypothesis about the real (natural) world has, if a random sample of experimental data has validated it in a statistical significance test with a p-value < 0.05
-> 2.  A property that an expectation has if it reduces the entropy of subsequent real (natural)-world experimental tests
-> 3.  Based on observation of the world or inference from some other true belief (Pinker 2021, chapter 2, "Reasons for Reason")
+1.  A property that a hypothesis about the real (natural) world has, if a random sample of experimental data has validated it in a statistical significance test with a p-value < 0.05
+2.  A property that an expectation has if it reduces the entropy of subsequent real (natural)-world experimental tests
+3.  Based on observation of the world or inference from some other true belief (Pinker 2021, chapter 2, "Reasons for Reason")
 
 Real:
 
-> 1.  Something detectable by sensory observations, not restricting "sensory" to the human senses, but to anything that can be mediated, by other real things, into a signal expressible to the human senses.
-> 2.  A reliable statistical correlation in such observations
+1.  Something detectable by sensory observations, not restricting "sensory" to the human senses, but to anything that can be mediated, by other real things, into a signal expressible to the human senses.
+2.  A reliable statistical correlation in such observations
 
 Realism: Paying attention to all the dirty details of the real (natural) world (Pinker 2021, chapter 10, "Two Kinds of Belief")
 
@@ -135,15 +135,15 @@ True: See _Justified_.
 
 Belief:
 
-> 1.  A proposition which I claim is eternally, universally, and necessarily true (classic Idealism)
-> 2.  A myth that binds my society together
-> 3.  A leap of faith (Kierkegaard)
-> 4.  A value I choose for no other reason than to make a choice (Nietzsche, Sartre)
+1.  A proposition which I claim is eternally, universally, and necessarily true (classic Idealism)
+2.  A myth that binds my society together
+3.  A leap of faith (Kierkegaard)
+4.  A value I choose for no other reason than to make a choice (Nietzsche, Sartre)
 
 Justified:
 
-> 1.  Proven formally using logic
-> 2.  Demanded by the present circumstances
+1.  Proven formally using logic
+2.  Demanded by the present circumstances
 
 Real: Existing beyond time and space, changeless and eternal, like the integers.
 
@@ -151,13 +151,13 @@ Realism: Ignoring all the dirty details of the natural world, and thinking only 
 
 Science:
 
-> 1.  The faith in rational proof, combined with a set of unquestionable axioms, to arrive at absolutely certain conclusions.
-> 2.  A body of knowledge: the science of war, the science of medicine.[zzvico]  Distinguished from "art" in that "art" refers to technique, craft, or engineering, whereas "science" refers to deductive knowledge.
+1.  The faith in rational proof, combined with a set of unquestionable axioms, to arrive at absolutely certain conclusions.
+2.  A body of knowledge: the science of war, the science of medicine.[zzvico]  Distinguished from "art" in that "art" refers to technique, craft, or engineering, whereas "science" refers to deductive knowledge.
 
 True:
 
-> 1.  Of an abstract fact about the Real (transcendental, spiritual) world, the property of being necessarily true in every context, in every place, and at all times
-> 2.  Conformant with personal lived experience
+1.  Of an abstract fact about the Real (transcendental, spiritual) world, the property of being necessarily true in every context, in every place, and at all times
+2.  Conformant with personal lived experience
 
 _[\* Not a real dictionary.]_
 
@@ -202,12 +202,12 @@ Johnson (2008 p. 4-5) shows that Arcesilaus (315-240 BCE), the skeptic Numenius 
 
 Plato defined the philosophical terms for certain and uncertain knowledge in _Republic_, which are rendered respectively as "knowledge" and "opinion" in English.  Johnson (2008 p. 5) summarizes another argument against Stoic epistemology, by the skeptic Sextus Empiricus (late 2nd century CE) in _Against the Mathematicians_:
 
-> 1.  Everything is ungraspable because there is no criterion of knowledge [no way of knowing which sense impressions are complete and infallible]
-> 2.  If the wise man assents to anything, he will [also] assent to the ungraspable
-> 3.  Assent [the _expression_ of approval] to the ungraspable is [mere] opinion
-> 4.  The wise man does not opine, so the wise man will not assent to anything
-> 5.  Refusal to give [verbalize] assent is the suspension of judgment
-> 6.  Therefore, the wise man suspends judgment
+1.  Everything is ungraspable because there is no criterion of knowledge [no way of knowing which sense impressions are complete and infallible]
+2.  If the wise man assents to anything, he will [also] assent to the ungraspable
+3.  Assent [the _expression_ of approval] to the ungraspable is [mere] opinion
+4.  The wise man does not opine, so the wise man will not assent to anything
+5.  Refusal to give [verbalize] assent is the suspension of judgment
+6.  Therefore, the wise man suspends judgment
 
 It doesn't say the wise man _has_ no opinions.  It says he doesn't _verbalize_ them.  This is still extreme, but at least it lets Diogenes find his way back to his barrel at night instead of convincing himself that he doesn't know where it is.  Besides, we know that Sextus Empiricus believed in learning and in practical knowledge, because he was of the _empirical_ school of medicine (hence the moniker "Empiricus"), which taught learning from experience.  He even verbalized his opinions:  Sextus argued against the _rational_ school of medicine, which followed the dictums of ancient authorities and the rational 4-humours theory (Handelsman 1938 p. 330).
 
@@ -660,9 +660,9 @@ This is the one I don't like to think to about.  Many religious conservatives ha
 
 I'm not really worried about reason favoring eugenics.  "Eugenics is bad" is one of those sentences you're supposed to assent to, regardless of what it means.  Here the word hasn't been redefined, but recontextualized:  "The Nazis favored eugenics".  The argument is:
 
-> 1.  The Nazis used eugenics.
-> 2.  The Nazis were bad.
-> 3.  Therefore, eugenics is bad.
+1.  The Nazis used eugenics.
+2.  The Nazis were bad.
+3.  Therefore, eugenics is bad.
 
 Even a rationalist should notice the flaw in this argument.  Let me recontextualize it:  One part of the Social Justice movement is against "ablism", the idea that not having a handicap is better than having one.  The most-debated disability is deafness.  Blastocyst screening can tell which blastocysts (taken from the mother and _in-vitro_ fertilized with sperm from the father) has the genes for deafness.  Some deaf parents choose to implant the embryo that will not.  Some choose the one that will.  If you think that people should be allowed to use embryo screening to ensure their child won't be deaf, but not to ensure that it will be, you're in favor of eugenics.
 

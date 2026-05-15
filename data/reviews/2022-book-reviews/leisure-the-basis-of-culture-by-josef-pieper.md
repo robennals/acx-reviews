@@ -24,8 +24,8 @@ Now and then I get the sense that we are working too much. Over the last few yea
 
 Josef Pieper, calls this the _proletarianization_. Unlike the sociologist, he doesn’t talk about the proletariat as a capital-less person who is on the bottom of the food chain and forced to sell his labor for sustenance and livelihood. Rather, he talks about it as
 
-> 1.  An intensive and consuming engagement with and confinement to the ‘everyday world of work’,
-> 2.  in which the worker-type becomes the general human ideal and the worker figure foregrounds  itself as essential to what it means to be human and what it means to be good.
+1.  An intensive and consuming engagement with and confinement to the ‘everyday world of work’,
+2.  in which the worker-type becomes the general human ideal and the worker figure foregrounds  itself as essential to what it means to be human and what it means to be good.
 
 The proletarian is one who is “bound to the working-process”, regardless of whether or not she owns property. The proletarian is one “whose life is fully satisfied by the working-process itself because this space has been shrunken from within, and **because meaningful action that is not work is no longer possible or even imaginable”**. Pieper’s objection is thus metaphysical: to the idea that work is “the intrinsically meaningful realization of human existence”.
 

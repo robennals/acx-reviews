@@ -38,10 +38,10 @@ It’s a [motte and bailey](https://en.wikipedia.org/wiki/Motte-and-bailey_falla
 
 Here are four observations of EARs in action, mostly in the policy space:
 
-> 1.  They are often more interested in and knowledgeable about EAR-specific ideas and research than the actual policy/research domains they work in and/or the institutions they want to influence.
-> 2.  If they have a job in a non-EA organisation, they care more about leveraging the job to further agreed-upon EA policy goals than to do the job itself well.
-> 3.  They [target](https://80000hours.org/) influential positions, and [coordinate](https://www.effectivealtruism.org/ea-global) globally to bend society’s resources and institutions towards EA policy goals.
-> 4.  They rarely read news, and can feel indignant over imprecise media coverage, even if the coverage is favourable and meets journalistic standards.
+1.  They are often more interested in and knowledgeable about EAR-specific ideas and research than the actual policy/research domains they work in and/or the institutions they want to influence.
+2.  If they have a job in a non-EA organisation, they care more about leveraging the job to further agreed-upon EA policy goals than to do the job itself well.
+3.  They [target](https://80000hours.org/) influential positions, and [coordinate](https://www.effectivealtruism.org/ea-global) globally to bend society’s resources and institutions towards EA policy goals.
+4.  They rarely read news, and can feel indignant over imprecise media coverage, even if the coverage is favourable and meets journalistic standards.
 
 I don’t want to overstate these, but I’d be surprised if they don’t ring true to insiders. And they’re exactly the kind of behaviour that people hate woke/maga/etc for: ignoring shared liberal norms and institutions, and making everything about winning in politics.
 
@@ -210,13 +210,13 @@ The real solution is apolitical, society-scaled, self-correcting institutions.
 
 Here are seven ideas to rethink the EAR movements:
 
-> 1.  **Do no political harm** and **classical liberalism** into the EA curriculum. Popper is good for the dangers, but Wait but Why-author Tim Urban’s _What’s Our Problem_ is an excellent explanation of the principles. Yudkowsky has some [decent](https://www.lesswrong.com/posts/K9ZaZXDnL3SEmYZqB/ends-don-t-justify-means-among-humans) [warnings](https://www.lesswrong.com/s/waF2Pomid7YHjfEDt/p/dWTEtgBfFaz6vjwQf) of why the ends do not justify means in practice. The system must ensure that individuals don’t end up with rich knowledge of dangerous ideas and poor awareness of the dangers.
-> 2.  **Read more news.** Calibrate viewpoints as relative to mainstream science and discourse. I can’t believe this has to be [argued](https://www.lesswrong.com/posts/kxSg4fysgo7m5cgZW/read-more-news). Be less online.
-> 3.  **Radical transparency** of funding, activity, achievements etc to spread a healthy institutional norm, keep you in check and make you trustworthy for others. It also visualises what the movement does to facilitate spreading the ideas.
-> 4.  **Establish EAR auditing** that keeps EAR institutions from being shady and doing harm.
-> 5.  **Nurture consensus-building institutions** like prediction markets that derive or formalise insights, rather than leaving each individual to find their own way.
-> 6.  **Merge with mainstream institutions.** Do joint research/projects, and redesign EAR institutions after the goal of strengthening the shared institutions of society.
-> 7.  **Debate the mainstream.** Not as in make a [propaganda video](https://www.youtube.com/watch?v=w9npWiTOHX0&embeds_referring_euri=https%3A%2F%2Ffutureoflife.org%2F&source_ve_path=OTY3MTQ). As in, understand the actual debate to win the public narrative fairly. If there are systematic problems, then help fix them, don’t retreat to ivory towers.
+1.  **Do no political harm** and **classical liberalism** into the EA curriculum. Popper is good for the dangers, but Wait but Why-author Tim Urban’s _What’s Our Problem_ is an excellent explanation of the principles. Yudkowsky has some [decent](https://www.lesswrong.com/posts/K9ZaZXDnL3SEmYZqB/ends-don-t-justify-means-among-humans) [warnings](https://www.lesswrong.com/s/waF2Pomid7YHjfEDt/p/dWTEtgBfFaz6vjwQf) of why the ends do not justify means in practice. The system must ensure that individuals don’t end up with rich knowledge of dangerous ideas and poor awareness of the dangers.
+2.  **Read more news.** Calibrate viewpoints as relative to mainstream science and discourse. I can’t believe this has to be [argued](https://www.lesswrong.com/posts/kxSg4fysgo7m5cgZW/read-more-news). Be less online.
+3.  **Radical transparency** of funding, activity, achievements etc to spread a healthy institutional norm, keep you in check and make you trustworthy for others. It also visualises what the movement does to facilitate spreading the ideas.
+4.  **Establish EAR auditing** that keeps EAR institutions from being shady and doing harm.
+5.  **Nurture consensus-building institutions** like prediction markets that derive or formalise insights, rather than leaving each individual to find their own way.
+6.  **Merge with mainstream institutions.** Do joint research/projects, and redesign EAR institutions after the goal of strengthening the shared institutions of society.
+7.  **Debate the mainstream.** Not as in make a [propaganda video](https://www.youtube.com/watch?v=w9npWiTOHX0&embeds_referring_euri=https%3A%2F%2Ffutureoflife.org%2F&source_ve_path=OTY3MTQ). As in, understand the actual debate to win the public narrative fairly. If there are systematic problems, then help fix them, don’t retreat to ivory towers.
 
 Should EAG (and EAGx) exist? EA Global strengthens cross-cause area, within-EA connections, nurturing a network based on EA-affiliation rather than domain with the rest of society. The same applies for Less Wrong, 80,000 hours and the Effective Altruism Forum.
 

@@ -58,9 +58,9 @@ An accurate description of visual experience at any given moment is that there i
 
 _How vivid are your mental images?_                                                                          In the 1870’s Frances Galton administered to several hundred men a questionnaire about the vividness of their mental imagery. Now you, too, are about to be a Galton subject. Visualize your breakfast table, with your typical breakfast and other items upon it. Then, as you do, answer Galton’s questions:
 
-> 1.  Illumination: Is the image dim or fairly clear? Is its brightness comparable to that of the actual scene?
-> 2.  Definition: Are all the objects pretty well defined at the same time, or is the place of sharpest definition at any one moment more contracted than it is in the real scene?
-> 3.  Coloring: Are the colors of the china, the toast, bread crust, mustard, meat, parsley, or whatever may have been on the table, quite distinct and natural?
+1.  Illumination: Is the image dim or fairly clear? Is its brightness comparable to that of the actual scene?
+2.  Definition: Are all the objects pretty well defined at the same time, or is the place of sharpest definition at any one moment more contracted than it is in the real scene?
+3.  Coloring: Are the colors of the china, the toast, bread crust, mustard, meat, parsley, or whatever may have been on the table, quite distinct and natural?
 
 There was great variability in the responses Galton gathered. While most subjects described an intermediate level of vividness, there were numerous subjects at each end of the range: Many subjects reported that their mental image was equal in every respect to the sight of their actual breakfast table and many reported that they were unable to form any image at all.
 

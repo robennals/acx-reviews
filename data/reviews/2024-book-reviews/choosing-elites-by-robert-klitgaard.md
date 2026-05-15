@@ -81,10 +81,10 @@ The universities, of course, decided in their collective wisdom that thinking ha
 
 In his final chapter, Concluding Remarks, Klitgaard hazards these general propositions:
 
-> 1.  In highly selective universities, test scores and previous grades are quite helpful in assembling a class that on the whole will perform well academically (citation omitted).
-> 2.  At the right tail, test scores and grades are much less successful in forecasting various kinds of success in later life (citation omitted).
-> 3.  Other information now used in selection - such as essays, recommendations, interviews, and biographical information - do not add much of importance to the prediction of various kinds of later success (citation omitted).
-> 4.  Using personality measures and other psychological information in selection at the right tail would probably not help - in part because there is no evidence that they predict later performance, and in part because an applicant can easily be coached to give the right answers. . . .
+1.  In highly selective universities, test scores and previous grades are quite helpful in assembling a class that on the whole will perform well academically (citation omitted).
+2.  At the right tail, test scores and grades are much less successful in forecasting various kinds of success in later life (citation omitted).
+3.  Other information now used in selection - such as essays, recommendations, interviews, and biographical information - do not add much of importance to the prediction of various kinds of later success (citation omitted).
+4.  Using personality measures and other psychological information in selection at the right tail would probably not help - in part because there is no evidence that they predict later performance, and in part because an applicant can easily be coached to give the right answers. . . .
 
 Klitgaard’s findings and conclusions seem quite damning of the actual practices of selective schools, but he emphasizes that he is not saying that the schools are getting their admissions decisions wrong, and need to change the composition of their student bodies. But although Klitgaard does not lay out a reform agenda, he does urge schools and their admissions committees to face facts about what they are doing.
 

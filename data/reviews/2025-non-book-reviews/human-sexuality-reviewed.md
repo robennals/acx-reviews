@@ -88,9 +88,9 @@ Notably, Greg acts both dominant and prestigious, fluidly switching between thre
 
 That's a lot of info, but for the purposes of this essay, the important points are:
 
-> 1.  Status is earned through two different mechanisms: prestige and dominance
-> 2.  Status is stored as a single variable, which our subconscious mind tracks in people around us
-> 3.  Status is hooked into the reward mechanisms of the human brain
+1.  Status is earned through two different mechanisms: prestige and dominance
+2.  Status is stored as a single variable, which our subconscious mind tracks in people around us
+3.  Status is hooked into the reward mechanisms of the human brain
 
 ## The Status Theory of Sexual Attraction
 
@@ -120,12 +120,12 @@ As with HSH, low status hotness has different versions, based on dominance and p
 
 So, to summarize, there are two main types of sexiness the human brain can experience. These are tied into the status system, and each have their own two main subcategories:
 
-> 1.  High Status Hotness (HSH)
+1.  High Status Hotness (HSH)
 >
 *   Dominance-based HSH: Controlling, commanding, potentially causing pain/discomfort
 *   Prestige-based HSH: Skilled, making partner feel incredible pleasure, being admired
 >
-> 2.  Low Status Hotness (LSH)
+2.  Low Status Hotness (LSH)
 >
 *   Dominance-based LSH: Being controlled, submitting, potentially receiving pain
 *   Prestige-based LSH: Being desired by a high-value partner, being the focus of attention
@@ -192,10 +192,10 @@ Another surprising finding is that while there are gender differences in the pre
 
 What these numbers tell us is that:
 
-> 1.  Status-related sexual fantasies (dominance, submission, exhibitionism) are extremely common
-> 2.  Both HSH and LSH are present in both genders, with statistical tilts but not binary splits
-> 3.  Many people enjoy both high and low status fantasies, suggesting the neural circuitry for both exists in most people
-> 4.  The most popular fantasies across genders can be classified using our status framework
+1.  Status-related sexual fantasies (dominance, submission, exhibitionism) are extremely common
+2.  Both HSH and LSH are present in both genders, with statistical tilts but not binary splits
+3.  Many people enjoy both high and low status fantasies, suggesting the neural circuitry for both exists in most people
+4.  The most popular fantasies across genders can be classified using our status framework
 
 Now, let's examine how this framework explains specific fantasies and behaviors:
 
@@ -343,15 +343,15 @@ At the same time, I do think our brain does that fundamental simplification, tha
 
 Ultimately, I think this framework is still valuable if it:
 
-> 1.  Provides a unified explanation for seemingly unrelated phenomena
-> 2.  Makes successful predictions
-> 3.  Offers more explanatory power than alternatives
+1.  Provides a unified explanation for seemingly unrelated phenomena
+2.  Makes successful predictions
+3.  Offers more explanatory power than alternatives
 
 And this theory does make testable predictions:
 
-> 1.   People with more testosterone should be more likely to exhibit high status sexual preference.
-> 2.  Basically all fetishes should have some status component, including common roleplay scenarios;
-> 3.  Porn that caters to one gender should be more focused on one kind of sexuality than the other, i.e. porn consumed by woman should prominently feature extremely high status suitors (and I do notice that written erotica for women does feature a suspicious amount of billionaires…)
+1.   People with more testosterone should be more likely to exhibit high status sexual preference.
+2.  Basically all fetishes should have some status component, including common roleplay scenarios;
+3.  Porn that caters to one gender should be more focused on one kind of sexuality than the other, i.e. porn consumed by woman should prominently feature extremely high status suitors (and I do notice that written erotica for women does feature a suspicious amount of billionaires…)
 
 ### Objection #2: "This Reduces Sex and Love to Status Games"
 
@@ -375,9 +375,9 @@ The status-sexuality framework doesn't explain everything about human sexuality.
 
 If I had to formalize this theory, I'd propose something like this:
 
-> 1.  Humans evolved dual status systems (dominance and prestige) for navigating social hierarchies
-> 2.  Sexual selection pressures linked status and sexual arousal in complex feedback loops
-> 3.  Rather than creating separate systems for males and females, evolution gave everyone similar neural circuitry but with different default settings
+1.  Humans evolved dual status systems (dominance and prestige) for navigating social hierarchies
+2.  Sexual selection pressures linked status and sexual arousal in complex feedback loops
+3.  Rather than creating separate systems for males and females, evolution gave everyone similar neural circuitry but with different default settings
 
 This isn't a complete theory of human sexuality, but it's a substantial improvement over the standard model of "people want genital stimulation with attractive partners." It explains weird edge cases not as anomalies but as predictable variations within a coherent framework.
 

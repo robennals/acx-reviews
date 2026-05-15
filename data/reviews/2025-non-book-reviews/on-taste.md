@@ -370,15 +370,15 @@ What we’ve got here is failure to communicate.
 
 How does someone with good taste convince a layman of its reality? There are two approaches:
 
-> 1.  Appeal directly, in terms of what it’s like to have good taste
-> 2.  Appeal indirectly, in terms of what it’s like to be a person with good taste, or why it’s bad to have bad taste, or basically anything that isn’t a direct appeal
+1.  Appeal directly, in terms of what it’s like to have good taste
+2.  Appeal indirectly, in terms of what it’s like to be a person with good taste, or why it’s bad to have bad taste, or basically anything that isn’t a direct appeal
 
 The direct approach is that of the **superfan**. “I love this, and you’ll love this too, I promise!”
 
 How does the superfan make his case persuasive? He needs to:
 
-> 1.  Establish that you, as a specific individual with specific capacities and interests, will enjoy whatever he is evangelizing as much as he does
-> 2.  Demonstrate that becoming a superfan is better than whatever else you could be doing
+1.  Establish that you, as a specific individual with specific capacities and interests, will enjoy whatever he is evangelizing as much as he does
+2.  Demonstrate that becoming a superfan is better than whatever else you could be doing
 
 This requires a level of properly communicated enthusiasm for the subject, as well as a degree of calibration to the intended audience.
 

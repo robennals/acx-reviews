@@ -139,10 +139,10 @@ It would be easy if the way to get happy and self-confident children was just to
 
 Chua ascribes the success of Chinese parenting to a virtuous circle:
 
-> 1.  Parent sets ambitious and meaningful goals, while providing the support, guidance and — uhm — _motivation_ to make them achievable
-> 2.  Child puts in the often unreasonable amounts of practice and work necessary to succeed, learning and developing new skills in the process
-> 3.  Success reinforces the child’s trust in its own abilities, the rewards that come from hard work and effectiveness of its parent’s harsh rules
-> 4.  Recognition of success gives the child feelings of satisfaction and pride, and if not eagerness at least a willingness to keep working towards new lofty goals, closing the loop back to _(1)_
+1.  Parent sets ambitious and meaningful goals, while providing the support, guidance and — uhm — _motivation_ to make them achievable
+2.  Child puts in the often unreasonable amounts of practice and work necessary to succeed, learning and developing new skills in the process
+3.  Success reinforces the child’s trust in its own abilities, the rewards that come from hard work and effectiveness of its parent’s harsh rules
+4.  Recognition of success gives the child feelings of satisfaction and pride, and if not eagerness at least a willingness to keep working towards new lofty goals, closing the loop back to _(1)_
 
 While Chua does not provide a full take-down of the pitfalls of Western parenting, I feel like it can be found implicitly in her praise of the Chinese model as well as the breadcrumbs of explicit criticism scattered around in different parts of the book. Disconnecting praise from achievement gives children a broken model of how the world works outside of the reach of a coddling mother’s unconditional love. Like a bird with broken wings, the child that does understand the importance of _step two_ above does not fare well outside of the nest.
 

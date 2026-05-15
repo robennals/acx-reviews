@@ -98,13 +98,13 @@ In other words, a short bout of prosperity may actually leave those who come aft
 
 Greer enumerates the following seres:
 
-> 1.  The industrial age
+1.  The industrial age
 >
 *   You are now here
 >
-> 2.  Scarcity industrialism
-> 3.  Salvage society
-> 4.  The ecotechnic age
+2.  Scarcity industrialism
+3.  Salvage society
+4.  The ecotechnic age
 
 Peak oil will mark the beginning of **scarcity industrialism**; and this transition, though not pinpointable to a single moment, is something that will supposedly be noticeable within our lifetimes. Already, says Greer, "the American political debate has begun to shift slowly from the maintenance of empire to the raw necessities of national survival" [ch. 4, sec. 3]. The age of scarcity will put an end to frivolous energy expenditures—tourism being the first casualty, he says, and later our globalized, specialized economy where goods are shipped long distances from producer to consumer. Population densities may actually _increase_ in certain areas as transportation costs rise and people need to live closer to where they work and shop.
 

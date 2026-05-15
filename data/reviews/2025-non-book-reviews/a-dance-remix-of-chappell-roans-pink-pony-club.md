@@ -230,22 +230,22 @@ In his 2007 novel _Spook Country_, William Gibson describes Canadian cities as l
 
 **[7]** If you’re wondering “_what is this_” or “_how do I say this in my head_” or “_what does this mean”_ then first briefly allow me to bemoan the abscission of worthwhile music education from the Platonic quadrivial curriculum of arithmetic, music, geometry, and astronomy, and then next to answer, in respective order to your questions as they were hypothetically posed:
 
-> 1.  Re: _What is this?_
+1.  Re: _What is this?_
 >
 > This is a sequence of Roman numerals denoting chords formed on the scale degrees corresponding to the numbers indicated. “I” refers to the first scale degree, i.e., the tonic, home base, “Do” if you will (as opposed to “Re,” “Mi,” “Fa,” etc.). C in a C-major scale (if you won’t). Capitalization of the numeral (or lack thereof) is a neat shorthand for indicating whether the chord in question is major (in the case of capitalization) or minor (in the case of lack thereof). You can perhaps begin to decipher why Roman numerals are used in this application, as opposed to their Arabic counterparts. In Roman numeral analysis, “I-ii-iii-IV” would indicate a sequence of chords beginning with
 >
-> 1.  a major chord formed using the first scale degree (“Do”) as a root note, followed by
-> 2.  a minor chord formed using the second scale degree (“Re”) as a root note, followed by
-> 3.  a minor chord formed using the third scale degree (“Mi”) as a root note, followed by
-> 4.  a major chord formed using the fourth scale degree (“Fa”) as a root note.
+1.  a major chord formed using the first scale degree (“Do”) as a root note, followed by
+2.  a minor chord formed using the second scale degree (“Re”) as a root note, followed by
+3.  a minor chord formed using the third scale degree (“Mi”) as a root note, followed by
+4.  a major chord formed using the fourth scale degree (“Fa”) as a root note.
 >
 > In a C-major scale, the chords would be C-major, then D-minor, then E-minor, then F-major. As far as chord progressions go, this is about as bad as it gets.
 >
-> 2.  Re: _How do I say this in my head?_
+2.  Re: _How do I say this in my head?_
 >
 > Of course, this is all assuming that you’re the type to perform some manner of subvocalization when you read. If you’re an entirely visual reader, congratulations on your comparatively lower cognitive load. Try not to increase that load by actively pondering how frequently you normally swallow, blink, and breathe. But right, to the hypothetical question, you probably ought to just say the numbers in your head. For the notation attached to this endnote (I-V-vi-IV), just say “one five six four” in your head. If you’re a fan of weeds, if you really like getting into them, if you’re the kind to arrive home with burrs embedded in the ribbing of your compression socks, you could say “one major five major six minor four major” but considering the fact that you’re a subvocalizer and already reading at non-optimal speed, you’re better off just saying the numbers. I’ve heard jazz cats talk shop, and believe me, when they’re talking about a ii-V-I, they’re not saying “two minor five major one major.” That’s probably because no jazzman worthy of his receding ponytail would ever play a minor chord when he could play a half-diminished, but I digress.
 >
-> 3.  Re: _What does this mean?_
+3.  Re: _What does this mean?_
 >
 > I figure this last question got answered somewhere in the didactic mucilage deposited above, and if not, I don’t really know what to tell you. What does anything mean? When I was eleven, some molten alkaline siping from my old family dog’s metaphorical batteries must have shorted something in his canid brain and he decided on the spot that live or die he simply had to - had to, I mean as a function of some biological imperative - absolutely no matter what just had to murder my adult sister’s dog if it was the last thing he did, and being the nearest prehensile mammal around I nobly endeavored to separate them and I’ll be damned and likely already am if my sister’s dog - the one whose imminent murder I was attempting to forestall - didn’t in all the fever of that dogged fracas up and sink his teeth into me and my just-adolescent forearm, screaming against my flesh and frothing liberally as I bandied him about first in the direction of my brother and then my father as they arrived on the scene, eager to have him detached from me. I still have the puncture scars to prove it. What does that mean?
 

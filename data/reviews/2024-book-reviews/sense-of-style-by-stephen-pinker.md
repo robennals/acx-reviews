@@ -132,8 +132,8 @@ Better: I doubt that trying to amend the Constitution would actually succeed, bu
 
 Aside from these rules of the road, Pinker also offers two pieces of advice to improve our writing.
 
-> 1.  **read it out loud** – we naturally tend to pause and shift intonation while reading sentences out loud. It's easier to hear the verbal sticking points once they are uttered out loud.
-> 2.  **take a break** – after you've written a draft put it away for awhile. Taking time away allows you to naturally forget. A musician friend says this is exactly what he does while mixing songs. He'll shelve a song for months, to come back and realize which parts are the most interesting.
+1.  **read it out loud** – we naturally tend to pause and shift intonation while reading sentences out loud. It's easier to hear the verbal sticking points once they are uttered out loud.
+2.  **take a break** – after you've written a draft put it away for awhile. Taking time away allows you to naturally forget. A musician friend says this is exactly what he does while mixing songs. He'll shelve a song for months, to come back and realize which parts are the most interesting.
 
 This advice sounds incredibly straightforward, but it tends to be very hard to achieve in practice. Most of us tend to get wrapped up in adding words and jargon that end up obscuring our points. Classic style says **"forget all the noise, just focus on the truth"**.
 
@@ -167,8 +167,8 @@ The best way to understand these diagrams is from the bottom-up. The english sen
 
 Pinker argues that the main reason english is so challenging is because writing syntax from left-to-right has to do **two separate things at once**
 
-> 1.  it's the code to convey to who did what, to whom
-> 2.  it's the sequence of early-to-late processing in the reader's mind
+1.  it's the code to convey to who did what, to whom
+2.  it's the sequence of early-to-late processing in the reader's mind
 
 English must simultaneously encode both the **order that events happened** _**and**_ **how words are related togethe**r. It's a writer's job to constantly reconcile whether the current phrase focuses on #1 or #2.
 

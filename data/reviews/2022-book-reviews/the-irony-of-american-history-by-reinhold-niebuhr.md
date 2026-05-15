@@ -229,10 +229,10 @@ At the beginning I promised a heuristic for foreign policy.
 
 **Me**: Yes I know, it seems crazy. There have been some hints of this idea in the review, but human sin is admittedly central to Niebuhr’s worldview. Still, let’s talk about what this practically implies. Human sinfulness leads Niebuhr to a few general conclusions.
 
-> 1.  It is impossible to achieve perfection on earth. So one cannot hope for utopia or to fully eliminate conflict. There is no final, external cause for humans behaving badly, because conflict is inherent in us.
-> 2.  Our own actions are always partially tainted with self interest. Therefore, one cannot trust any kind of absolutism of individual political power or of a political system. One must instead rely on a balance of conflicting interests.
-> 3.  One should often reflect on whether one’s own beliefs are veiling a deeper self interest. This doesn’t mean that one’s beliefs are necessarily wrong, but you should always reflect on whether you only believe them because they also benefit yourself, and to be humble about the alternatives. To take one personal example: I practice effective altruism. I think it is a very effective way of doing good. However, I also have to admit that I don’t particularly like going to marches or protests, or canvassing door to door, or especially not ‘getting involved.’ This is certainly self-interested. I value my time more than my money. Therefore, I should at the very minimum not dismiss people who try to do good in other ways, and acknowledge the potential use of protests, canvassing, and the like. Again, this doesn’t mean that we can’t be critical, but merely that we should recognize that it’s always easier to be critical than self critical.
-> 4.  Individuals may be martyrs or saints, but once self interest begins to aggregate in communities, it is impossible to expect any nation or political body to give up power altruistically. So don’t expect a U.N. or an E.U. is going to be purely ethical.
+1.  It is impossible to achieve perfection on earth. So one cannot hope for utopia or to fully eliminate conflict. There is no final, external cause for humans behaving badly, because conflict is inherent in us.
+2.  Our own actions are always partially tainted with self interest. Therefore, one cannot trust any kind of absolutism of individual political power or of a political system. One must instead rely on a balance of conflicting interests.
+3.  One should often reflect on whether one’s own beliefs are veiling a deeper self interest. This doesn’t mean that one’s beliefs are necessarily wrong, but you should always reflect on whether you only believe them because they also benefit yourself, and to be humble about the alternatives. To take one personal example: I practice effective altruism. I think it is a very effective way of doing good. However, I also have to admit that I don’t particularly like going to marches or protests, or canvassing door to door, or especially not ‘getting involved.’ This is certainly self-interested. I value my time more than my money. Therefore, I should at the very minimum not dismiss people who try to do good in other ways, and acknowledge the potential use of protests, canvassing, and the like. Again, this doesn’t mean that we can’t be critical, but merely that we should recognize that it’s always easier to be critical than self critical.
+4.  Individuals may be martyrs or saints, but once self interest begins to aggregate in communities, it is impossible to expect any nation or political body to give up power altruistically. So don’t expect a U.N. or an E.U. is going to be purely ethical.
 
 Second tenet:
 
@@ -244,43 +244,43 @@ Second tenet:
 
 This second idea also comes with a couple conclusions.
 
-> 1.  Man can not be fully controlled or constrained.
-> 2.  Man’s creativity should be protected even if this occasionally leads to harmful results.
+1.  Man can not be fully controlled or constrained.
+2.  Man’s creativity should be protected even if this occasionally leads to harmful results.
 
 And finally:
 
 3) There is an ultimate standard of virtue. Specifically, “love thyNiebuhr neighbor”.
 
-> 1.  This prevents complacency or moral cynicism. There is a good that we can approximate even if we cannot fully achieve. Or “[Don’t let Perfect be the enemy of Good](https://en.wikipedia.org/wiki/Perfect_is_the_enemy_of_good).”
+1.  This prevents complacency or moral cynicism. There is a good that we can approximate even if we cannot fully achieve. Or “[Don’t let Perfect be the enemy of Good](https://en.wikipedia.org/wiki/Perfect_is_the_enemy_of_good).”
 
 What’s funny and wonderful is that each individual assumption is highly questionable from a modern perspective. I think very few people would accept all of these assumptions. However a good rationalist judges a heuristic not by its assumptions, but by its results.[Christopher Hitchens](https://www.youtube.com/watch?v=3I-FfrkGiWQ) once said Orwell’s great achievement was that he was ultimately right about the three major ‘isms’ of the twentieth century: fascism, communism, and colonialism. I would like to propose a similar way of judging Niebuhr. I have read through a lot of his work for this book review, and I would like to submit his judgments on various trends as they were developing. I have divided these into moral and predictive judgments (although of course these are intertwined) and I provided the date (although many of these views he probably held before he made them public). Also note that Niebuhr was someone who was willing to change his views when more evidence became available. And finally, none of these were necessarily obvious predictions in his era. At the very least, he always made these assertions against a popular existing alternative belief.  
 
 Moral Judgments:
 
-> 1.  Against French occupation of the Rheinland (1923)
-> 2.  Against KKK (1925)
-> 3.  Against Prohibition (Oct 24, 1928)
-> 4.  In favor of strikers (Sept 26, 1934, but also thought the 1920s)
-> 5.  We should use force to fight Hitler (June 29, 1940)
-> 6.  It is ok to suspend civil liberties in wartime (Jan 24, 1942)
-> 7.  Against Japanese Internment (Summer 1942)
-> 8.  Race prejudice must be combated by more than education (Summer 1942)
-> 9.  Mass bombing of Germany is morally justified in the circumstances (Summer 1943)
-> 10.  Atomic bombing of Hiroshima was indefensible (1945)
-> 11.  Against McCarthy (Jan 31, 1955)
-> 12.  Against South African Apartheid (May 28, 1956)
-> 13.  Against Barry Goldwater (Oct 26, 1964)
-> 14.  Support Martin Luther King Jr / Civili Rights Movement (Mar 19, 1965, but essentially supported Black rights from the 1930s onwards it seems )
-> 15.  Against Vietnam War (June 24, 1967)
-> 16.  Also variously, but without clear dates (pro-containment, pro-nuclear deterrence, against converting Jews to Christianity going against his own early belief, pro Roosevelt, pro Jewish statehood)
+1.  Against French occupation of the Rheinland (1923)
+2.  Against KKK (1925)
+3.  Against Prohibition (Oct 24, 1928)
+4.  In favor of strikers (Sept 26, 1934, but also thought the 1920s)
+5.  We should use force to fight Hitler (June 29, 1940)
+6.  It is ok to suspend civil liberties in wartime (Jan 24, 1942)
+7.  Against Japanese Internment (Summer 1942)
+8.  Race prejudice must be combated by more than education (Summer 1942)
+9.  Mass bombing of Germany is morally justified in the circumstances (Summer 1943)
+10.  Atomic bombing of Hiroshima was indefensible (1945)
+11.  Against McCarthy (Jan 31, 1955)
+12.  Against South African Apartheid (May 28, 1956)
+13.  Against Barry Goldwater (Oct 26, 1964)
+14.  Support Martin Luther King Jr / Civili Rights Movement (Mar 19, 1965, but essentially supported Black rights from the 1930s onwards it seems )
+15.  Against Vietnam War (June 24, 1967)
+16.  Also variously, but without clear dates (pro-containment, pro-nuclear deterrence, against converting Jews to Christianity going against his own early belief, pro Roosevelt, pro Jewish statehood)
 
 Some concrete Predictions:
 
-> 1.  Death of Pope Pius XI will not end the catholic alliance with fascism. (Jan 30, 1937)
-> 2.  Soviet state will not ‘wither away’ (May 7, 1938)
-> 3.  Zionism will certainly necessitate injustice against Palestinians (Feb 21, 1942, although he was also in favor of a Jewish state)
-> 4.  [Dietrich Bonhoeffer](https://en.wikipedia.org/wiki/Dietrich_Bonhoeffer) will become famous (June 25, 1945)
-> 5.  U.N. is unlikely to work (although he sympathizes morally with the goal) (Mar 16, 1946)
+1.  Death of Pope Pius XI will not end the catholic alliance with fascism. (Jan 30, 1937)
+2.  Soviet state will not ‘wither away’ (May 7, 1938)
+3.  Zionism will certainly necessitate injustice against Palestinians (Feb 21, 1942, although he was also in favor of a Jewish state)
+4.  [Dietrich Bonhoeffer](https://en.wikipedia.org/wiki/Dietrich_Bonhoeffer) will become famous (June 25, 1945)
+5.  U.N. is unlikely to work (although he sympathizes morally with the goal) (Mar 16, 1946)
 
 Again, I hope no one converts to Christianity. But if, like me, you think Niebuhr demonstrated an admirable and rare moral compass throughout his life, then I think there may be something tangible to be gained from taking a secular look at the core beliefs by which he lived. His own Christian illusions seem to have allowed for a remarkable clear sightedness amidst the ambiguities of his era.
 

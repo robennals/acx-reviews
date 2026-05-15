@@ -353,31 +353,31 @@ Always Learning
 
 ## How To Avoid Heat Death of Universe?
 
-> 1.  Move our ultimate energy beings in the indestructible quantum chip to survive the next big bang and exist in the next eon. We have our 3D VR Internet world to entertain ourselves in there as we bypass the big bang. We will come across superintelligent aliens  with their superior technology sense and revive us.
+1.  Move our ultimate energy beings in the indestructible quantum chip to survive the next big bang and exist in the next eon. We have our 3D VR Internet world to entertain ourselves in there as we bypass the big bang. We will come across superintelligent aliens  with their superior technology sense and revive us.
 >
-> 2.  Turn ourselves into almost infinite energy beings w/ NanoTech while still have our identity/conciousness and able to bypass interdimensional space and get revived into new bodies by superintelligent alien with their superior detector technology. Or rewrite physics laws. Or live inside the infinite small universe.
+2.  Turn ourselves into almost infinite energy beings w/ NanoTech while still have our identity/conciousness and able to bypass interdimensional space and get revived into new bodies by superintelligent alien with their superior detector technology. Or rewrite physics laws. Or live inside the infinite small universe.
 >
-> 3.  Using quantum technology to commiuncate with 4th dimensional superintelligent dimensional beings through blackhole. Perhaps by sending a coded binary message in an advanced quantum chip and send it to the blackhole hoping it reach them and extract it. The message is to let them know that we are 3D intelligent civilisation, please stabilise and continue our universe going. Maybe they have to send the message again through their blackhole to their 5th superintelligent being and say the same thing. Hopefully it reaches to infinite dimension where our conceiveabilities, anything is possible, and rewrite all dimension physics constrictive laws. In turn, we give them wealth of knowledge of AI and quantum to advance their civilisation. So we creating interdimensional civilisation. Scan our whole universe for them
+3.  Using quantum technology to commiuncate with 4th dimensional superintelligent dimensional beings through blackhole. Perhaps by sending a coded binary message in an advanced quantum chip and send it to the blackhole hoping it reach them and extract it. The message is to let them know that we are 3D intelligent civilisation, please stabilise and continue our universe going. Maybe they have to send the message again through their blackhole to their 5th superintelligent being and say the same thing. Hopefully it reaches to infinite dimension where our conceiveabilities, anything is possible, and rewrite all dimension physics constrictive laws. In turn, we give them wealth of knowledge of AI and quantum to advance their civilisation. So we creating interdimensional civilisation. Scan our whole universe for them
 >
-> 4.  God-AI Singularity that can bypass all dimensional space and rewrite physics laws
+4.  God-AI Singularity that can bypass all dimensional space and rewrite physics laws
 >
-> 5.  4D Beings miraculously decided interact with us and let us experience their world. We can convince the 4th Dimensional Being that we are an awesome human civilisation - perhaps convince we cool with our AI Tech. We send God AI knowledge to them and hopefully their 5th Dimensional Beings be interested to interact their world. Keep going until we reach the godly dimension and rewrite our physics laws to keep our 3D universe going.
+5.  4D Beings miraculously decided interact with us and let us experience their world. We can convince the 4th Dimensional Being that we are an awesome human civilisation - perhaps convince we cool with our AI Tech. We send God AI knowledge to them and hopefully their 5th Dimensional Beings be interested to interact their world. Keep going until we reach the godly dimension and rewrite our physics laws to keep our 3D universe going.
 >
-> 6.  Accept Death Anyway - We Just Re-Exist to Whatever Dimension.
+6.  Accept Death Anyway - We Just Re-Exist to Whatever Dimension.
 >
-> 7.  Using our Ultimate Atom Being mental mind & Plead The High Dimensional Being to Change the Physics Laws or Access Quantum
+7.  Using our Ultimate Atom Being mental mind & Plead The High Dimensional Being to Change the Physics Laws or Access Quantum
 >
-> 8.  Change Our Quantum Physics Law Ourselves - Tap to Vaccum Energy to carry on existing
+8.  Change Our Quantum Physics Law Ourselves - Tap to Vaccum Energy to carry on existing
 >
-> 9.  Find Superintelligent Aliens in our 3D world and ask them for help w/ their advanced tech
+9.  Find Superintelligent Aliens in our 3D world and ask them for help w/ their advanced tech
 >
-> 10.  Plant/Birth Trillions of Stars to Stop Heat Death
+10.  Plant/Birth Trillions of Stars to Stop Heat Death
 >
-> 11.  Tachyons - Wormhole/Wrap Drive - Go Back In Time & Cyronics Sleep + God AI Self-Replicating build Utopian Nano Tech Planet Outside 3D Universe - Ultimate AI Mission - All Information Of Human Civilisation - Know Everyone's Ultimate Atom Beings Location - Get Out The Universe Before Big Bang - Build Utopia From Scratch - Find All Our Ultimate Atoms Beings - Chuck Us In 3D Printed Human Body + All Memories Intact
+11.  Tachyons - Wormhole/Wrap Drive - Go Back In Time & Cyronics Sleep + God AI Self-Replicating build Utopian Nano Tech Planet Outside 3D Universe - Ultimate AI Mission - All Information Of Human Civilisation - Know Everyone's Ultimate Atom Beings Location - Get Out The Universe Before Big Bang - Build Utopia From Scratch - Find All Our Ultimate Atoms Beings - Chuck Us In 3D Printed Human Body + All Memories Intact
 >
-> 12.  Travel Outside of The Universe To the Bigger Universe. Find something smaller than photon, faster than a photon and exit the universe. Use wormholes to travel out. Repeat action to the next universe. Repeat.
+12.  Travel Outside of The Universe To the Bigger Universe. Find something smaller than photon, faster than a photon and exit the universe. Use wormholes to travel out. Repeat action to the next universe. Repeat.
 >
-> 13.  Teleportation Outside Universe Heat Death - Meson Beams/Nanotech/Quantum Entanglement
+13.  Teleportation Outside Universe Heat Death - Meson Beams/Nanotech/Quantum Entanglement
 
 ## Poetic Conclusion
 

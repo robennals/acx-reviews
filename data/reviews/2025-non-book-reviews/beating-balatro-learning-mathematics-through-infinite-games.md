@@ -154,6 +154,6 @@ So watch out! Parents, teachers, and children may all have fun together. Hence a
 
 For people inclined to end the endless and find a finite finale, you may have to go deeper into the source code of Balatro. Through digging into the lesser known Löve framework, and the appropriate manipulation of near infinities, floating point numbers and a particular standard known as IEEE754 there is a possible forced finality in this game. See [this Youtuber](https://www.youtube.com/watch?v=XKQ-t9-4-30) for full instructions.
 
-> 1.  Ke, F. (2008). _A Case Study of Computer Game Design on Fifth Graders’ Mathematics Learning and Motivation_. Computers & Education, 52(4), 913‑925.
-> 2.  Adachi, P. J. C., & Willoughby, T. (2013). _More Than Just Fun: The Role of Strategic Video Games in Improving Adolescents’ Problem‑Solving Skills_. Journal of Youth and Adolescence, 42(7), 1041‑1052.
-> 3.  Gee, J. P. (2005). _Learning by Design: Good Video Games as Learning Machines_. E‑Learning and Digital Media, 2(1), 5‑16.
+1.  Ke, F. (2008). _A Case Study of Computer Game Design on Fifth Graders’ Mathematics Learning and Motivation_. Computers & Education, 52(4), 913‑925.
+2.  Adachi, P. J. C., & Willoughby, T. (2013). _More Than Just Fun: The Role of Strategic Video Games in Improving Adolescents’ Problem‑Solving Skills_. Journal of Youth and Adolescence, 42(7), 1041‑1052.
+3.  Gee, J. P. (2005). _Learning by Design: Good Video Games as Learning Machines_. E‑Learning and Digital Media, 2(1), 5‑16.

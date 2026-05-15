@@ -189,7 +189,7 @@ At least for me personally I can come to the clear conclusion that I will not vo
 
 It gives me no joy to say this, it rather fills me with concern for the future of my country. As I see it, unless the establishment parties radically change their course, as they have done in e.g. Denmark, there are currently only two possible ways forward.
 
-> 1.  Vote for the establishment parties and observe the slow but inevitable decline of this nation.
-> 2.  Vote for the AfD and risk an even quicker downfall in the hopes of preventing it.
+1.  Vote for the establishment parties and observe the slow but inevitable decline of this nation.
+2.  Vote for the AfD and risk an even quicker downfall in the hopes of preventing it.
 
 _Quo vadis, Germania?_

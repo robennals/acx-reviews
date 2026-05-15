@@ -92,8 +92,8 @@ A story puts you in a big black box with a door. You will leave a good one chang
 
 If I paraphrase Cornfeld (ibid.); in a good movie you will notice that every scene does two things:
 
-> 1.  it is entertaining in its own way and
-> 2.  it advances the story in a non-trivial way.
+1.  it is entertaining in its own way and
+2.  it advances the story in a non-trivial way.
 
 Writer is like an architect and interior designer; he/she first sets the structure, and then designs the interior. For “The Darling” Chekhov defines the black box:
 

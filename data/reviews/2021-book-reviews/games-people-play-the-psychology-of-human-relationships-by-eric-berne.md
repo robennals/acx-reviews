@@ -406,11 +406,11 @@ Of course, this model isn’t perfect, and doesn’t explain everything. It’s 
 
 * * *
 
-> 1.  Affiliate link
-> 2.  Note the capitalisation. When I say parent, I mean the person who is the parent. When I say Parent, I mean the Parent ego state. Same for Child and Adult.
-> 3.  It’s interesting to see how pick up artists figured out these same games, but have different names for them. For example, in this case, they “leave her alone”.
-> 4.  Not all games are bad! There are some good games, too. Annoyingly, they usually don’t show up in therapy sessions, so study on them is limited. [↩](https://neilkakkar.com/games-people-play-blogpost.html#fnref:4)
-> 5.  Usually. Other times, for people deeply entrenched in games, it escalates their actions till they get the payoff.
->     
->     * * *
+1.  Affiliate link
+2.  Note the capitalisation. When I say parent, I mean the person who is the parent. When I say Parent, I mean the Parent ego state. Same for Child and Adult.
+3.  It’s interesting to see how pick up artists figured out these same games, but have different names for them. For example, in this case, they “leave her alone”.
+4.  Not all games are bad! There are some good games, too. Annoyingly, they usually don’t show up in therapy sessions, so study on them is limited. [↩](https://neilkakkar.com/games-people-play-blogpost.html#fnref:4)
+5.  Usually. Other times, for people deeply entrenched in games, it escalates their actions till they get the payoff.
+    
+    * * *
 >

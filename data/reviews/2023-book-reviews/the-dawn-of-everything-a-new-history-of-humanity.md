@@ -25,9 +25,9 @@ _— Timeless Adage_
 
 I know what you’re thinking: “Oh boy, here we go again. Didn’t someone review this book last year?” Indeed, Erik Hoel [won last year’s contest](https://astralcodexten.substack.com/p/your-book-review-the-dawn-of-everything) by braving the vast seas of The Dawn of Everything, a devastating realization I only made once I was hundreds of pages into my own voyage through this behemoth of a book. I debated charting a new course through a different text to preempt accusations of piracy, but after examining last year’s review more carefully, I resolved to complete this one for a few reasons:
 
-> 1.  Erik and I simply draw on different parts of the book. Given this tome’s scope and length, it can certainly support multiple reviews.
-> 2.  When we do tackle the same material, we often make different points that are not in tension. Ships in the night.
-> 3.  I disagree with some of Erik’s points, and I work through these clashes in the last section of this post. The Dawn of Everything locates itself in the Enlightenment tradition of sweeping historical accounts, tempered by “grand dialogue” in salons and public letters, so it seems fitting to subject this work to the same treatment.
+1.  Erik and I simply draw on different parts of the book. Given this tome’s scope and length, it can certainly support multiple reviews.
+2.  When we do tackle the same material, we often make different points that are not in tension. Ships in the night.
+3.  I disagree with some of Erik’s points, and I work through these clashes in the last section of this post. The Dawn of Everything locates itself in the Enlightenment tradition of sweeping historical accounts, tempered by “grand dialogue” in salons and public letters, so it seems fitting to subject this work to the same treatment.
 
 Full steam ahead!
 
@@ -87,9 +87,9 @@ _— Ramshackle Glory_
 
 The Davids outline three freedoms[[3]](#ftnt3) they find are neglected in the discourse of Western political philosophy. These are:
 
-> 1.  The freedom to move away or relocate from one’s surroundings
-> 2.  The freedom to ignore or disobey commands issued by others
-> 3.  The freedom to shape entirely new social realities, or shift back and forth between different ones
+1.  The freedom to move away or relocate from one’s surroundings
+2.  The freedom to ignore or disobey commands issued by others
+3.  The freedom to shape entirely new social realities, or shift back and forth between different ones
 
 The first two “prop up” the third: the ability to leave or disobey checks back against hierarchy, maintaining a degree of collective possibility. But if the first freedom crumbles, say in the form of a weaker safety net for women, the second will weaken as women face higher barriers to fleeing abusive relationships, which in turn would undermine the third freedom. A woman who attempted to create new social realities under these conditions would “instantly be marked as a subversive.”
 
@@ -113,9 +113,9 @@ This is a laudable project, and a well-needed corrective to the habit of reducin
 
 Reading between the lines, we might gather that there are three independently necessary and collectively sufficient conditions for a community to make self-conscious decisions about its social and political organization:
 
-> 1.  Alternatives arrangements are available
-> 2.  The community is aware of these alternatives
-> 3.  People deliberately choose their way of living to the exclusion of the alternatives
+1.  Alternatives arrangements are available
+2.  The community is aware of these alternatives
+3.  People deliberately choose their way of living to the exclusion of the alternatives
 
 The Rousseau-Hobbes discussion should satisfy the first criterion: people really did manage to arrange their social worlds in dramatically different ways, even controlling for environment and technology. If you remain unconvinced, read the book yourself I guess.
 

@@ -38,19 +38,19 @@ While I understand Dartnell’s logic here, the dispassionate calculus of “it�
 
 The book covers, or at least mentions, all the basics of civilization that the survivors of the apocalypse will have to recreate. The amount of research that went into this book is truly remarkable, and I salute Dartnell for having learned it all and presented it in a more or less accessible fashion (albeit the degree of “more” vs. “less” varies among the chapters, as I will discuss later). There is a chapter for each of the following:
 
-> 1.  The collapse: how it may happen; what to expect
-> 2.  The immediate aftermath of the collapse: how not to die
-> 3.  Agriculture
-> 4.  Food and clothing
-> 5.  Substances: useful chemicals and how to make them  
-> 6.  Materials: building and more
-> 7.  Medicine
-> 8.  Energy
-> 9.  Transport
-> 10.  Communication
-> 11.  Advanced chemistry: chemical reactions to attempt at later stages of the reboot
-> 12.  Finding your way in time and space: timekeeping and navigation
-> 13.  The greatest invention: can you guess what it is?
+1.  The collapse: how it may happen; what to expect
+2.  The immediate aftermath of the collapse: how not to die
+3.  Agriculture
+4.  Food and clothing
+5.  Substances: useful chemicals and how to make them  
+6.  Materials: building and more
+7.  Medicine
+8.  Energy
+9.  Transport
+10.  Communication
+11.  Advanced chemistry: chemical reactions to attempt at later stages of the reboot
+12.  Finding your way in time and space: timekeeping and navigation
+13.  The greatest invention: can you guess what it is?
 
 Chapter 2 is a standard survivalist’s guide to making it in the immediate aftermath of the “best-case” apocalypse, in which plentiful resources are available for the few survivors. Dartnell advises the readers to raid defunct grocery stores and pharmacies for non-perishable food and medicine, siphon drinking water out of swimming pools, and get out of cities, which will rapidly become dangerous – the “rot and decomposition” of the victims of the apocalypse will “pose a severe health hazard” (p. 44). Instructions on how to reboot an advanced civilization begin in chapter 3, on agriculture.
 

@@ -92,13 +92,13 @@ Clouds are more plausible
 
 Jaynes wants to formalize weak syllogism like the ones above, and does that by imagining building a robot that can output the plausibility of an outcome, updating on some data. The actual implementation is up to the builder, but it should fulfill three desiderata that allows for solving the problem. These are:
 
-> 1.  Degrees of plausibility are represented by real numbers.
-> 2.  Qualitative correspondence with common sense.
-> 3.  Consistency
+1.  Degrees of plausibility are represented by real numbers.
+2.  Qualitative correspondence with common sense.
+3.  Consistency
 >
-> 1.  If a conclusion can be reasoned out in more than one way, then every possible way must lead to the same result.
-> 2.  The robot always takes into account all of the evidence it has relevant to a question.
-> 3.  The robot always represents equivalent states of knowledge by equivalent plausibility assignments.
+1.  If a conclusion can be reasoned out in more than one way, then every possible way must lead to the same result.
+2.  The robot always takes into account all of the evidence it has relevant to a question.
+3.  The robot always represents equivalent states of knowledge by equivalent plausibility assignments.
 
 The motivation for building a robot is that this can be an objective, computational method that is compatible with human intuition including the weak syllogism. At this point, it’s not clear that the robot is optimal, but there is a lot of value in the ability for the robot to match ‘common sense’.
 
@@ -140,13 +140,13 @@ The product rule is the first of the 2 rules we need. It is introduced by appeal
 >
 > into elementary decisions about A and B separately. The robot can
 >
-> 1.  decide that B is true; (![](https://acximages.ennals.org/images/2023-book-reviews/d8379d8123253158.png))
-> 2.  having accepted B as true, decide that A is true. (![](https://acximages.ennals.org/images/2023-book-reviews/fd002dda5e8d4bb8.png))
+1.  decide that B is true; (![](https://acximages.ennals.org/images/2023-book-reviews/d8379d8123253158.png))
+2.  having accepted B as true, decide that A is true. (![](https://acximages.ennals.org/images/2023-book-reviews/fd002dda5e8d4bb8.png))
 >
 > Or, equally well,
 >
-> 1.  decide that A is true; (![](https://acximages.ennals.org/images/2023-book-reviews/4cad311287c4343f.png))
-> 2.  having accepted A as true, decide that B is true. (![](https://acximages.ennals.org/images/2023-book-reviews/2a6deeda22a7b073.png))
+1.  decide that A is true; (![](https://acximages.ennals.org/images/2023-book-reviews/4cad311287c4343f.png))
+2.  having accepted A as true, decide that B is true. (![](https://acximages.ennals.org/images/2023-book-reviews/2a6deeda22a7b073.png))
 
 Note that Jaynes here uses the ![](https://acximages.ennals.org/images/2023-book-reviews/4cad311287c4343f.png) instead of the ![](https://acximages.ennals.org/images/2023-book-reviews/e2718433285375b8.png)) notation we are used to in modern statistics, because at this point in chapter 2 he is in the process of reinventing all of probability theory and statistics including the basic ‘p’ operator! Spoiler alert, using a lot of tedious math (that we honestly do not fully follow), we end up with ye old product rule:
 
@@ -193,15 +193,15 @@ Jaynes is a physicist and therefore cares about the real world, not the idealize
 >
 > difficult. We just solve it anyway by:
 >
-> 1.  making it still harder;
-> 2.  redefining what we mean by ‘solving’ it, so that it becomes something we can do;
-> 3.  inventing a dignified and technical-sounding word to describe this procedure, which has the psychological effect of concealing the real nature of what we have done, and making it appear respectable.
+1.  making it still harder;
+2.  redefining what we mean by ‘solving’ it, so that it becomes something we can do;
+3.  inventing a dignified and technical-sounding word to describe this procedure, which has the psychological effect of concealing the real nature of what we have done, and making it appear respectable.
 >
 > In the case of sampling with replacement, we apply this strategy as follows.
 >
-> 1.  Suppose that, after tossing the ball in, we shake up the urn. However complicated the problem was initially, it now becomes many orders of magnitude more complicated, because the solution now depends on every detail of the precise way we shake it, in addition to all the factors mentioned above.
-> 2.  We now assert that the shaking has somehow made all these details irrelevant, so that the problem reverts back to the simple one where the Bernoulli urn rule applies.
-> 3.  We invent the dignified-sounding word randomization to describe what we have done. This term is, evidently, a euphemism, whose real meaning is: deliberately throwing away relevant information when it becomes too complicated for us to handle.
+1.  Suppose that, after tossing the ball in, we shake up the urn. However complicated the problem was initially, it now becomes many orders of magnitude more complicated, because the solution now depends on every detail of the precise way we shake it, in addition to all the factors mentioned above.
+2.  We now assert that the shaking has somehow made all these details irrelevant, so that the problem reverts back to the simple one where the Bernoulli urn rule applies.
+3.  We invent the dignified-sounding word randomization to describe what we have done. This term is, evidently, a euphemism, whose real meaning is: deliberately throwing away relevant information when it becomes too complicated for us to handle.
 >
 > We have described this procedure in laconic terms, because an antidote is needed for the impression created by some writers on probability theory, who attach a kind of mystical
 >

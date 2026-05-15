@@ -18,10 +18,10 @@ tags:
 
 You can look at any given court case in two radically different ways. Officially, as the Supreme Court says, cases must always be about “definite and concrete” controversies that touch upon “the legal relations of parties having adverse legal interests.” In this framing, the “judicial power” involves four key elements:
 
-> 1.  Jurisdiction (which literally means “to speak the law”): the power to decide for itself what the law is, for the purposes of a given dispute.
-> 2.  Doctrine: the power to adjudicate and implement extra-legal procedures (like rules of evidence or standards of scrutiny) that are appropriate for adjudicating and implementing the legal claims before it.
-> 3.  Finality: the power to issue a ruling which binds the public—whether to perform or enforce or accept a decision—even when the public disagrees.
-> 4.  Judgment: the power to award remedies for violated rights and reliefs from specific wrongs.
+1.  Jurisdiction (which literally means “to speak the law”): the power to decide for itself what the law is, for the purposes of a given dispute.
+2.  Doctrine: the power to adjudicate and implement extra-legal procedures (like rules of evidence or standards of scrutiny) that are appropriate for adjudicating and implementing the legal claims before it.
+3.  Finality: the power to issue a ruling which binds the public—whether to perform or enforce or accept a decision—even when the public disagrees.
+4.  Judgment: the power to award remedies for violated rights and reliefs from specific wrongs.
 
 This framing naturally prompts you to think about cases in terms of whether you support the winner and whether you support the precedent. In other words, if you look at a case as if it’s a struggle between the plaintiff and the defendant—a struggle in which the facts have already happened, and the laws have already been written, which simply comes of its own accord before a referee—then of course the questions which make you feel virtuous and powerful (when you’re watching the news or chatting with friends) are _“Which side is the asshole?”_ and _“Which side will the arc of history favor?”_
 

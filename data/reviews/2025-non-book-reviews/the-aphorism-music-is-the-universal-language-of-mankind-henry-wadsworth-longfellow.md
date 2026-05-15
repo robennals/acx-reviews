@@ -20,15 +20,15 @@ _Relevant context: I play jazz saxophone at a high level._
 
 Here are two situations that I’ve been in a million times and that feel strikingly similar:
 
-> 1.  Conversing in Portuguese, which I speak mediocrely, and running into something I don’t know how to say.
+1.  Conversing in Portuguese, which I speak mediocrely, and running into something I don’t know how to say.
 >
-> 2.  Improvising on the guitar, which I play less-than-mediocrely, and attempting to play something requiring a note outside of the rudimentary scales I’ve practiced.
+2.  Improvising on the guitar, which I play less-than-mediocrely, and attempting to play something requiring a note outside of the rudimentary scales I’ve practiced.
 
 In both cases, the feeling is that there’s a nice, well-formed idea in my head that I could express perfectly well some other way, but I’m blocked by my lack of ability.
 
 I want to contrast these with a third situation. I’ve been taking salsa classes for about half a year, with no prior experience with dance beyond doing the White Boy Shuffle™ at college parties. At my classes, the teacher puts on music and calls out a series of moves that we perform in real time, like the world’s least intimidating drill platoon. I’m great at this and nail it almost every time. Then I go to the club, where I find myself:
 
-> 3.  Trying to dance a whole five-minute salsa tune with no one telling me what to do, and completely drawing a blank.
+3.  Trying to dance a whole five-minute salsa tune with no one telling me what to do, and completely drawing a blank.
 
 This is a much different feeling. The problem is no longer that there’s something in my head that I can’t get out; it’s that there’s nothing in my head to begin with, or at least no dance moves (my inner monologue, on the other hand, keeps a running commentary along the lines of “what was that spin we learned last week?” and “oh my god that’s the fourth time we’ve done that move in the last 30 seconds, surely she’s getting bored by now”).
 

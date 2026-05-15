@@ -54,22 +54,22 @@ The medievals got almost their entire understanding of the physical universe, an
 
 The rest of the universe follows a similar principle and is also divided into layers. The heavens are made up of 9 concentric spheres, each one housing a celestial body. From top to bottom the order is as follows:
 
-> 1.  The _Primum Mobile_, which is the outermost part of the universe and rotates, which drives the movement of all the layers beneath it.
-> 2.  The _Stellatum_ which contains all the “fixed” stars. These are the stars that don’t move relative to each other when observed with the naked eye. They are in contrast to the “planets” which are stars that move relative to the fixed stars and to each other.
-> 3.  Saturn
-> 4.  Jupiter
-> 5.  Mars
-> 6.  The Sun
-> 7.  Venus
-> 8.  Mercury
-> 9.  The Moon
+1.  The _Primum Mobile_, which is the outermost part of the universe and rotates, which drives the movement of all the layers beneath it.
+2.  The _Stellatum_ which contains all the “fixed” stars. These are the stars that don’t move relative to each other when observed with the naked eye. They are in contrast to the “planets” which are stars that move relative to the fixed stars and to each other.
+3.  Saturn
+4.  Jupiter
+5.  Mars
+6.  The Sun
+7.  Venus
+8.  Mercury
+9.  The Moon
 
 However, the layers don’t stop there! Everything below the Moon is made of the four elements, and these elements also stack themselves in layers based on their “purity”. The layers of Nature were:
 
-> 10.  Fire
-> 11.  Air
-> 12.  Water
-> 13.  Earth
+10.  Fire
+11.  Air
+12.  Water
+13.  Earth
 
 The order of air, water, and earth makes sense. After all, if you put dirt, water, and air in a jar you’ll quickly find that they sort themselves into the same order. Fire throws us off a bit: if there was a layer of fire between ourselves and the Moon, then why isn’t the sky glowing like a flame? The answer is that they believed the bright flames we see in a campfire or a candle are actually impure fire. The burning wood or wax are made of other elements as well as fire, and flames occur when those “impure” elements are cast away. Pure fire is transparent and quickly rises upwards through the air to find its proper layer. Anyone who has seen the visible distortion of hot air rising off a campfire can understand how they came to this belief.
 

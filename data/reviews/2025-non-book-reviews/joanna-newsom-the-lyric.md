@@ -17,8 +17,8 @@ tags:
 
 ![](https://acximages.ennals.org/images/2025-non-book-reviews/e64d2fa202b8828f.png)
 
-> 1.  ## The Lyric
->     
+1.  ## The Lyric
+    
 
 We will complete our series on Joanna Newsom’s music with the analysis of a single sentence from the last track of her last album. Heretofore our study has consisted of describing the emotions, images, and instrumentation of each song on the album. In this last installment we will get to reflect on deeper philosophical themes.
 
@@ -58,8 +58,8 @@ Here you might recall the Goddess of Cancer from _[The Goddess of Everything Els
 
 Even in the beautiful vision of _The Goddess of Everything Else_ though, the gradual turn towards freedom happens within the medium of unconquerable time. We still expect time to ultimately destroy all value, and we expect that all the value that was lost in the march of time has been lost forever. Because death is just a biological phenomenon, it is easier to imagine an end to it than to time. If death is an enemy to be destroyed or routed, we can imagine technologies that successfully do that. But Time is such a dictator of our existence that even most speculative fiction can hardly mess with it without making terrible logical errors or crashing upon unresolvable paradoxes. There’s a reason the shaky handwriting reads, [“DO NOT MESS WITH TIME”](https://hpmor.com/chapter/17). And so most of the time we must accept the conventional view of the all destroying power of entropy.
 
-> 2.  ## Meaning of Love and Time as Outlined in the Secondary Imagery of Other Tracks
->     
+2.  ## Meaning of Love and Time as Outlined in the Secondary Imagery of Other Tracks
+    
 >
 > And it pains me to say, I was wrong.
 >
@@ -171,8 +171,8 @@ So when we combine the philosophies of “Divers” and “A Pin-light Bent” t
 
 And at last I think we are ready to explicate it fully.
 
-> 3.  ## Conclusion: Transcend…
->     
+3.  ## Conclusion: Transcend…
+    
 >
 > And it pains me to say, I was wrong.
 >

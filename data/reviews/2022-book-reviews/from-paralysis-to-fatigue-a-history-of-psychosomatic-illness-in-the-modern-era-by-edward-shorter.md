@@ -256,10 +256,10 @@ This distinction implies that some people experience prolonged sadness, or poor 
 
 If this hypothesis is true, you would expect to see shifts in how people experience common emotional symptoms, reflecting public awareness campaigns, media attention, drug marketing, and the cultural milieu. As far as I can tell, this is basically the consensus of historians in the field. It’s something like:
 
-> 1.  Pre 1900, when psychiatry was stigmatized and emotions repressed, everybody had physical symptoms.
-> 2.  In the early 20th century, when psychoanalysis reigned, everybody had neuroses and complexes.
-> 3.  In the mid 20th century, once barbiturates and benzodiazepines were common, [everybody had anxiety](https://www.goodreads.com/book/show/3152641-the-age-of-anxiety) and nervous breakdowns.
-> 4.  Post 1980s, once DSM III and SSRIs came out, [everybody](https://www.amazon.com/How-Everyone-Became-Depressed-Breakdown/dp/0199948089/ref=sr_1_1?crid=78BUBMG1OG0I&keywords=how+everybody+became+depressed&qid=1646158655&sprefix=how+everybody+became+depressed%2Caps%2C109&sr=8-1) had [depression](https://www.amazon.com/American-Melancholy-Constructions-Depression-Twentieth/dp/0813564735/ref=sr_1_3?crid=DIIWG6KH2PRU&keywords=american+melancholy&qid=1646158519&sprefix=american+melancholy%2Caps%2C133&sr=8-3).
+1.  Pre 1900, when psychiatry was stigmatized and emotions repressed, everybody had physical symptoms.
+2.  In the early 20th century, when psychoanalysis reigned, everybody had neuroses and complexes.
+3.  In the mid 20th century, once barbiturates and benzodiazepines were common, [everybody had anxiety](https://www.goodreads.com/book/show/3152641-the-age-of-anxiety) and nervous breakdowns.
+4.  Post 1980s, once DSM III and SSRIs came out, [everybody](https://www.amazon.com/How-Everyone-Became-Depressed-Breakdown/dp/0199948089/ref=sr_1_1?crid=78BUBMG1OG0I&keywords=how+everybody+became+depressed&qid=1646158655&sprefix=how+everybody+became+depressed%2Caps%2C109&sr=8-1) had [depression](https://www.amazon.com/American-Melancholy-Constructions-Depression-Twentieth/dp/0813564735/ref=sr_1_3?crid=DIIWG6KH2PRU&keywords=american+melancholy&qid=1646158519&sprefix=american+melancholy%2Caps%2C133&sr=8-3).
 
 Anecdotally, I can tell you that bipolar disorder was very common from 2000-2012ish, but lately is surpassed by PTSD and ADHD.
 

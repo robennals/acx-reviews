@@ -102,10 +102,10 @@ Different cultures have very different protocols for participating in social eng
 
 The authors approach participation by first reviewing the analysis of American culture by Erving Goffman, whose “analysis is exceedingly rich and nuanced and his eye for interactional strategy unrivaled.” Goffman argues that Americans count you as participating when you pay attention to the topic of conversation. Any other object of attention will alienate you from the conversation, including: “‘
 
-> 1.  _**External preoccupation**__: “The individual may neglect the prescribed focus of attention and give his main concern to something that is unconnected with what is being talked about” …_
-> 2.  _**Self-consciousness**__: “At the cost of his involvement in the prescribed focus of attention, the individual may focus his attention more than he ought upon himself— himself as someone who is faring well or badly, as someone calling forth a desirable or undesirable response from others.” …_
-> 3.  _**Interactional consciousness**__: “A participant in talk may become consciously concerned to an improper degree with the way in which the interaction, qua interaction, is proceeding, instead of becoming spontaneously involved in the official topic of conversation.” ..._
-> 4.  _**Other-consciousness**__: “During interaction, the individual may become distracted by another participant as an object of attention.”_
+1.  _**External preoccupation**__: “The individual may neglect the prescribed focus of attention and give his main concern to something that is unconnected with what is being talked about” …_
+2.  _**Self-consciousness**__: “At the cost of his involvement in the prescribed focus of attention, the individual may focus his attention more than he ought upon himself— himself as someone who is faring well or badly, as someone calling forth a desirable or undesirable response from others.” …_
+3.  _**Interactional consciousness**__: “A participant in talk may become consciously concerned to an improper degree with the way in which the interaction, qua interaction, is proceeding, instead of becoming spontaneously involved in the official topic of conversation.” ..._
+4.  _**Other-consciousness**__: “During interaction, the individual may become distracted by another participant as an object of attention.”_
 
 ”’ Notice that, by definition, you cannot consciously choose to fulfill the American (western? developed?) role, because that approach would make you too self-conscious to succeed in participating.
 

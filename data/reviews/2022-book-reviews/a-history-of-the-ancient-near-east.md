@@ -35,9 +35,9 @@ One of the main gains I have made from this book was to get some order in my hea
 
 In short, the structure of this story is as follows:
 
-> 1.  City-States (4000-1500 AC) 1.1. Origins of Civilization: agriculture, ceramics, writing, etc. 1.2. First cities 1.3. City-States, that is, cities that control some territory around them 1.4. First centralised kingdoms, where one city dominates other cities around it. 1.5. The Dark Age, a period of which we know very little.
-> 2.  Empires, in plural (1500-900 AC) 2.1. First empires, treating each other as equals, with a few small vassals each 2.2. The collapse in 1200 AC 2.3. The Rebirth of Civilization after the collapse
-> 3.  ONE Empire (900-323 AC) 3.1. First hegemonic empire, that is, that dominates the whole Ancient Near East: Asiria 3.2. (Medes and) Babilonians 3.3. Persia
+1.  City-States (4000-1500 AC) 1.1. Origins of Civilization: agriculture, ceramics, writing, etc. 1.2. First cities 1.3. City-States, that is, cities that control some territory around them 1.4. First centralised kingdoms, where one city dominates other cities around it. 1.5. The Dark Age, a period of which we know very little.
+2.  Empires, in plural (1500-900 AC) 2.1. First empires, treating each other as equals, with a few small vassals each 2.2. The collapse in 1200 AC 2.3. The Rebirth of Civilization after the collapse
+3.  ONE Empire (900-323 AC) 3.1. First hegemonic empire, that is, that dominates the whole Ancient Near East: Asiria 3.2. (Medes and) Babilonians 3.3. Persia
 
 And after Persia this ends because Alexander the Great from Macedon conquers the whole thing and makes it turn kind of Greek, but that's another story for another book. Now, with this structure in mind, the different historical data have a place to take root.
 

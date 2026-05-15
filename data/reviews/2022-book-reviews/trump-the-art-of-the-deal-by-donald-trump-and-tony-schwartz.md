@@ -114,8 +114,8 @@ Oh-kay? So Trump is building the largest and most lavish casino next door to his
 
 Let our lesson in the art of the deal be: If lever your casino with so much non-recourse (meaning you won't be liable if the business goes down) debt that only an exceptionally good run can make it stay in business, we will end up with either
 
-> 1.  an exceptionally good casino, or
-> 2.  no financial liability for the bankrupt business.
+1.  an exceptionally good casino, or
+2.  no financial liability for the bankrupt business.
 
 Heads, we win, tails, they lose.
 
@@ -149,9 +149,9 @@ Sad! He decides to call up the bank:
 
 So, the bank said, "no thanks, we don't want the money, we'd like to go to the auction" because
 
-> 1.  they love the thrill of it,
-> 2.  they are evil and just want to see the lady suffer,
-> 3.  what is even money, just a piece of paper!
+1.  they love the thrill of it,
+2.  they are evil and just want to see the lady suffer,
+3.  what is even money, just a piece of paper!
 
 Oh these bankers! But Trump with his bad boy attitude makes them run and saves the day. He threw a fundraiser, raised more than $100,000, threw a party in the Trump Tower to celebrate, and all the media reported about it. Sources do not agree on how much he contributed, but it's around $40,000.
 

@@ -30,10 +30,10 @@ If that makes sense to you, then stick around and let's join Wiseman in explorin
 
 _In Search of Canadian Political Culture i_s not necessarily unique and is part of a long tradition of Canadian writing on the ‘Tory-touch thesis’_._ The thesis was initiated by the American scholar Louis Hartz (and Kenneth McRae, his Canadian contributor) when he applied his [Lockean American Founding thesis](https://www.amazon.ca/Liberal-Tradition-America-Louis-Hartz/dp/0156512696) to other countries in the 1969 _[Founding of New Societies](https://www.amazon.ca/Founding-New-Societies-Studies-Australia/dp/0156327287)_ and later developed by Gad Horowitiz in his [seminal](https://www.jstor.org/stable/139794?seq=1#metadata_info_tab_contents) [1966 article](https://www.jstor.org/stable/139794?seq=1#metadata_info_tab_contents). Very quickly, it is the following in _**TL; DR**_**:**
 
-> 1.  Canada's (English) founding population brought British Tory ideas, especially informed by their experiences during the American Revolution.
-> 2.  While the Loyalists were still liberal, this tory touch meant less of a puritanical focus on individualism and freedom and a more of a ‘tory touched liberalism’, best exemplified by Canada’s unofficial motto of ‘_peace, order, and good government’._
-> 3.  According to old fashioned dialectic theory, the interaction between the communitarian Tory and individualist Liberal elements resulted in the social democratic impulse.
-> 4.  This resulted in the quasi-social democratic policies that Canadians see as part and parcel of this country’s core, whether in celebration or lamentation.
+1.  Canada's (English) founding population brought British Tory ideas, especially informed by their experiences during the American Revolution.
+2.  While the Loyalists were still liberal, this tory touch meant less of a puritanical focus on individualism and freedom and a more of a ‘tory touched liberalism’, best exemplified by Canada’s unofficial motto of ‘_peace, order, and good government’._
+3.  According to old fashioned dialectic theory, the interaction between the communitarian Tory and individualist Liberal elements resulted in the social democratic impulse.
+4.  This resulted in the quasi-social democratic policies that Canadians see as part and parcel of this country’s core, whether in celebration or lamentation.
 
 Written at a time of heated discussions of Canadian nationalism, Horowitz’ thesis has set the terms of the debate of a country that loves to argue what it is. Even its most ardent critics [must either refute the tory touch](https://www.amazon.ca/Canadian-Founding-John-Locke-Parliament/dp/0773532242) or see it as a [malaise](https://diorionathaniel.medium.com/the-canadian-rights-cultural-cringe-1e9610e2ee9e) to be cured.
 

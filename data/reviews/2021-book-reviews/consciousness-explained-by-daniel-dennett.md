@@ -212,10 +212,10 @@ To conclude, here is a quote from the book in which Dennett provides a “thumbn
 
 * * *
 
-> 1.  Shepard, Roger N., and Jacqueline Metzler. “Mental rotation of three-dimensional objects.” _Science_ 171.3972 (1971): 701-703. [↩](https://www.daniellowengrub.com/blog/2020/02/08/consciousness-explained#fnref:Shepard)
-> 2.  Sayeki Y (1981) “Body analogy” and the cognition of rotated figures. _The Quarterly Newsletter of the Laboratory of Comparative Human Cognition_ [↩](https://www.daniellowengrub.com/blog/2020/02/08/consciousness-explained#fnref:Sayeki)
-> 3.  Jackson, Frank (1982). “Epiphenomenal Qualia”. _The Philosophical Quarterly_. 32 (127): 127–136 [↩](https://www.daniellowengrub.com/blog/2020/02/08/consciousness-explained#fnref:Mary)
-> 4.  Welbourne, Lauren E., Antony B. Morland, and Alex R. Wade. “Human colour perception changes between seasons.” _Current Biology_ 25.15 (2015): R646-R647. [↩](https://www.daniellowengrub.com/blog/2020/02/08/consciousness-explained#fnref:Seasons)
+1.  Shepard, Roger N., and Jacqueline Metzler. “Mental rotation of three-dimensional objects.” _Science_ 171.3972 (1971): 701-703. [↩](https://www.daniellowengrub.com/blog/2020/02/08/consciousness-explained#fnref:Shepard)
+2.  Sayeki Y (1981) “Body analogy” and the cognition of rotated figures. _The Quarterly Newsletter of the Laboratory of Comparative Human Cognition_ [↩](https://www.daniellowengrub.com/blog/2020/02/08/consciousness-explained#fnref:Sayeki)
+3.  Jackson, Frank (1982). “Epiphenomenal Qualia”. _The Philosophical Quarterly_. 32 (127): 127–136 [↩](https://www.daniellowengrub.com/blog/2020/02/08/consciousness-explained#fnref:Mary)
+4.  Welbourne, Lauren E., Antony B. Morland, and Alex R. Wade. “Human colour perception changes between seasons.” _Current Biology_ 25.15 (2015): R646-R647. [↩](https://www.daniellowengrub.com/blog/2020/02/08/consciousness-explained#fnref:Seasons)
 
 * * *
 

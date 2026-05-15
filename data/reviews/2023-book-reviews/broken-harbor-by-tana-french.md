@@ -43,9 +43,9 @@ Patrick is losing it, and all Jennifer can do is watch. Her son, who is young en
 
 At this point, after having thoroughly spoiled the story for you, let me beg for forgiveness. Spoiling a mystery book is a most uncouth act, but in this case, it is slightly less bad than it seems because:
 
-> 1.  I have avoided talking about at least one major plot point that will still surprise you.
-> 2.  The book is fun to read even if you know the ending. I re-read it in preparation for writing this review, and even though I remembered almost everything, I still walked around with my nose in the book the entire weekend.
-> 3.  This is not the best of French’s books. The most widely acclaimed is _The Faithful Place_, while my personal favorite is _The Trespasser_. If this book sounds good to you, there are several excellent books you can still dig into.
+1.  I have avoided talking about at least one major plot point that will still surprise you.
+2.  The book is fun to read even if you know the ending. I re-read it in preparation for writing this review, and even though I remembered almost everything, I still walked around with my nose in the book the entire weekend.
+3.  This is not the best of French’s books. The most widely acclaimed is _The Faithful Place_, while my personal favorite is _The Trespasser_. If this book sounds good to you, there are several excellent books you can still dig into.
 
 ## Gone Girl, come back
 

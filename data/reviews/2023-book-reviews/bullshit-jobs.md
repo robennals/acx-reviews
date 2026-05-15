@@ -102,15 +102,15 @@ Since BS jobs are vaguely defined, and it’s contentious whether they even exis
 
 Graeber gives us five conceptual categories of BS work:
 
-> 1.  Flunkies only exist to satisfy the egos of people who like to be in charge of others. Examples include some receptionists, door attendants, etc. A lot of managers enjoy having, or are incentivised to have, a lot of underlings, often more than can be productively employed, in order to appear more important.
+1.  Flunkies only exist to satisfy the egos of people who like to be in charge of others. Examples include some receptionists, door attendants, etc. A lot of managers enjoy having, or are incentivised to have, a lot of underlings, often more than can be productively employed, in order to appear more important.
 >
-> 2.  Goons do all kinds of zero sum competition games, like corporate lawyers who only make gains for their clients at the expense of rival firms, all kinds of advertising for already well-known types of product, lobbyists, public relations and I’m going to include anyone in education.
+2.  Goons do all kinds of zero sum competition games, like corporate lawyers who only make gains for their clients at the expense of rival firms, all kinds of advertising for already well-known types of product, lobbyists, public relations and I’m going to include anyone in education.
 >
-> 3.  Duct tapers temporarily repair problems that should be fixed permanently, e.g. programmers managing bloated legacy code.
+3.  Duct tapers temporarily repair problems that should be fixed permanently, e.g. programmers managing bloated legacy code.
 >
-> 4.  Box tickers fill out forms or publish psychology papers to create the illusion that something useful is being done, or avoid legal culpability. Lots of them in medicine, according to Graeber.
+4.  Box tickers fill out forms or publish psychology papers to create the illusion that something useful is being done, or avoid legal culpability. Lots of them in medicine, according to Graeber.
 >
-> 5.  Taskmasters create unnecessary make-work for their underlings in order to appear more productive to their over-lings, e.g. middle management, any commissar beneath Stalin.
+5.  Taskmasters create unnecessary make-work for their underlings in order to appear more productive to their over-lings, e.g. middle management, any commissar beneath Stalin.
 
 ### IV. Graeber’s Categories are OK  
 

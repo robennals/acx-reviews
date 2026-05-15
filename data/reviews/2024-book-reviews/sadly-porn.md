@@ -1003,9 +1003,9 @@ The sexual revolution is a by-product of urbanisation; where people used to live
 
 So, to tackle this at its roots, all you have to do is:
 
-> 1.  Reverse Urbanisation
-> 2.  Reverse the Industrial Revolution
-> 3.  Reverse technological advancement
+1.  Reverse Urbanisation
+2.  Reverse the Industrial Revolution
+3.  Reverse technological advancement
 
 Simple.
 

@@ -206,9 +206,9 @@ Now he’s talking about natural selection, but he’s not being specific... The
 
 In order for the psychedelic experience to have altered the path of evolution from _Homo habilis_ to _Homo sapiens_, three things must have been true:
 
-> 1.  Due to location, only a subset of the population got access to the mushrooms.
-> 2.  Among those who ate them, only some percent of users had (unspecified) "language genes" that enabled them to better conceptualize and vocalize their intentions.
-> 3.  The ability to wield language had such a significant survival advantage, that anyone who couldn't talk got outbred.
+1.  Due to location, only a subset of the population got access to the mushrooms.
+2.  Among those who ate them, only some percent of users had (unspecified) "language genes" that enabled them to better conceptualize and vocalize their intentions.
+3.  The ability to wield language had such a significant survival advantage, that anyone who couldn't talk got outbred.
 
 This is pretty shaky, not just because there’s no detail on how genetic variance causes some to burst into language and not others, but mostly because it makes little sense how a few extra words would put another tribe out of existence. Sure, I’d imagine a _Homo erectus_ tribe of 1,000+ words with advanced grammars could out-smart and out-hunt a nearby _Homo habilis_ tribe with only 50 words. But the accumulation of language likely happened extremely slowly; based on the rate of vocabulary growth, we’re talking 1-5 words _per millennia_. Humans weren’t just competing against each other, but lions, who don’t play in the realm of words. So even if mushrooms enabled a genetically-blessed subspecies of _Homo habilis_ to invent a few new phrases, McKenna isn’t making a case for how this threatens the existence of non-psychedelic tribes.
 

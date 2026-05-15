@@ -129,11 +129,11 @@ In other words, while there might be some serious practical problems with repres
 
 Landemore proposes open democracy as a sort of “democracy v3.0” that will be able to overcome the flaws inherent to representative democracy.  Landemore distills open democracy down to 5 core principles (in decreasing order of importance):
 
-> 1.  Participation Rights. This includes the rights of all citizens to vote and run for office, as well citizen's initiatives, referendums, and the ability to participate in mini-publics. These rights "ensure access of ordinary citizens to agenda-setting power"
-> 2.  Deliberation. Decisions are only legitimate if they are debated through the "exchange of reasons and arguments among free and equals" before being passed into law
-> 3.  The majoritarian principle. After deliberation, policies supported by the majority will be enacted. Landemore is explicitly against super-majoritarian thresholds for being "extremely paralyzing"
-> 4.  Democratic representation. The political process doesn't have to involve everyone directly, as long as the people involved "expresses the principle of inclusiveness and equality among citizens" and the general public accepts the representatives as standing in for them. Note that these representatives do not have to be elected to be legitimate.
-> 5.  Transparency. Citizens are "able to witness, observer, and thus make up their minds about the activities of the actors engaged in the political process"
+1.  Participation Rights. This includes the rights of all citizens to vote and run for office, as well citizen's initiatives, referendums, and the ability to participate in mini-publics. These rights "ensure access of ordinary citizens to agenda-setting power"
+2.  Deliberation. Decisions are only legitimate if they are debated through the "exchange of reasons and arguments among free and equals" before being passed into law
+3.  The majoritarian principle. After deliberation, policies supported by the majority will be enacted. Landemore is explicitly against super-majoritarian thresholds for being "extremely paralyzing"
+4.  Democratic representation. The political process doesn't have to involve everyone directly, as long as the people involved "expresses the principle of inclusiveness and equality among citizens" and the general public accepts the representatives as standing in for them. Note that these representatives do not have to be elected to be legitimate.
+5.  Transparency. Citizens are "able to witness, observer, and thus make up their minds about the activities of the actors engaged in the political process"
 
 Landemore discusses two forms of government that would meet all of these criteria: lottocratic representation and self-selected representatives. Lottocratic representation forms the basis for mini-publics, where a small group of group citizens is randomly selected to propose and debate laws. Random selection of the group ensures that access to power is equally open to all, that all members of the group have equal power, and that the mini-public is a good statistical representation of the general population. Limiting the size of the mini-public allows the group to be deliberative.
 

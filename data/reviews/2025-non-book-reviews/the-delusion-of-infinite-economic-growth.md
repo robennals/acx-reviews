@@ -18,10 +18,10 @@ tags:
 
 “[The Delusion of Infinite Economic Growth](https://www.scientificamerican.com/article/the-delusion-of-infinite-economic-growth/)” is an article published by the Scientific American in 2021, which is one of a long line of pieces making the same argument. They generally all have the same structure:
 
-> 1.  Here are one hundred different resources we rely on that at present our consumption of seems to be growing exponentially, but must have a limit. For instance, oil on earth.
-> 2.  We acknowledge that delusional techno-optimists will respond with the argument that there may be ways to increase the limit (fracking), or to replace this resource with another with a higher limit (solar).
-> 3.  Regardless, exponential curves are magic, and we humans always underestimate how fast they grow. As the SA article puts it, “Exponential growth swiftly, inevitably, swamps anything in finite supply.”
-> 4.  And when we reach the limit, bad things happen.[1]
+1.  Here are one hundred different resources we rely on that at present our consumption of seems to be growing exponentially, but must have a limit. For instance, oil on earth.
+2.  We acknowledge that delusional techno-optimists will respond with the argument that there may be ways to increase the limit (fracking), or to replace this resource with another with a higher limit (solar).
+3.  Regardless, exponential curves are magic, and we humans always underestimate how fast they grow. As the SA article puts it, “Exponential growth swiftly, inevitably, swamps anything in finite supply.”
+4.  And when we reach the limit, bad things happen.[1]
 
 ![](https://acximages.ennals.org/images/2025-non-book-reviews/86beb132b793e6aa.png)
 
@@ -31,8 +31,8 @@ But, I must admit their rebuttal to my response in (3) has a certain appeal – 
 
 So under the pretense of reviewing this article’s argument, I will go through my own analysis to conclude when we reach our limit, when exponential growth must stop. But I’ll do it under my own terms, I choose the system, and I choose the limit. In a sense, this is a steelman of the article they were trying to make, crafted for techno-optimist sensibilities. And through it we will see if the underlying article has mettle. I focus on this and ignore the rest of the, uh, fluff, in the article, as part of this steelmanning procedure, for its own benefit. These are my assumptions.
 
-> 1.  The speed of light is absolute.
-> 2.  The second law of thermodynamics is correct.
+1.  The speed of light is absolute.
+2.  The second law of thermodynamics is correct.
 
 For the record, I am being very charitable with my assumptions. Our understanding of physics has last been completely turned on its head just a century ago, and we are going to be discussing the far future. I am assuming the current understanding of physics will never be overturned, in a way that will allow our economy to grow a bit longer. Nevertheless, we must choose some assumptions or leave the current framing entirely, and I choose to accept these constraints.
 

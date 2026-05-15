@@ -26,9 +26,9 @@ Far be it from me to declare what should or shouldn’t be the Next Big Book™�
 
 By way of answer, three hypotheses came to mind:
 
-> 1.  Maybe _Mine!_ lacked the Gladwellian compression it needed to generate hype: that **one big meme** that permeates into the wider culture.
-> 2.  Perhaps the book _did_ have a catchy thesis, but had misapplied its lens to **suboptimal examples**: right hammer, wrong nails.
-> 3.  Alternatively, it might just be that the book sucked, and I have **bad taste**.
+1.  Maybe _Mine!_ lacked the Gladwellian compression it needed to generate hype: that **one big meme** that permeates into the wider culture.
+2.  Perhaps the book _did_ have a catchy thesis, but had misapplied its lens to **suboptimal examples**: right hammer, wrong nails.
+3.  Alternatively, it might just be that the book sucked, and I have **bad taste**.
 
 Unwilling to accept the third option, I wrote this book review to figure out which of the first two explanations was right.
 
@@ -66,12 +66,12 @@ According to _Mine!_, there are just six such foundational stories.
 
 The six foundational stories of ownership are:
 
-> 1.  _**Self-ownership;**_
-> 2.  _**Possession;**_
-> 3.  _**Attachment;**_
-> 4.  _**Family;**_
-> 5.  _**First-in-time;**_ and
-> 6.  _**Labor**_
+1.  _**Self-ownership;**_
+2.  _**Possession;**_
+3.  _**Attachment;**_
+4.  _**Family;**_
+5.  _**First-in-time;**_ and
+6.  _**Labor**_
 
 _Mine!_ devotes a full chapter to each of these stories.[[240]](#ftnt240) In this review, I’ll give just a few paragraphs of cherry-picked concepts and examples.
 
@@ -250,8 +250,8 @@ More importantly, it serves as the foundation for the _real_ insight that lies a
 
 Hopefully the above description strikes you as a mostly reasonable account of how ownership evolves. If so, you’ll also notice there are two “choice points” suggested by the model—moments where human actors can intentionally shape the trajectory of ownership. To be specific:
 
-> 1.  In the Battle phase, there is always _more than one frame_ available.
-> 2.  In the Control phase, there are always _multiple ownership designs_ available.
+1.  In the Battle phase, there is always _more than one frame_ available.
+2.  In the Control phase, there are always _multiple ownership designs_ available.
 
 Crucially—and this is the synthesis I think the book was missing—the second opportunity is path-dependent on the first. Or in terms of the ABC model: **The available forms of CONTROL are actually determined during the** _**transition from ABUNDANCE to BATTLE**_**.**
 

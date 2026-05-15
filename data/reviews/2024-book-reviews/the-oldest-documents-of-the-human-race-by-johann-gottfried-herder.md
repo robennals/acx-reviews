@@ -60,13 +60,13 @@ It was in this exegesis of Genesis that Herder first made this philosophical pro
 
 To do so, _The Oldest Documents of the Human Race_ has to challenge a number of popular Enlightenment ideas:
 
-> 1.  Humans can use reason to learn the essential content of the divine law through the observation of nature via a process termed “natural theology”.
+1.  Humans can use reason to learn the essential content of the divine law through the observation of nature via a process termed “natural theology”.
 >
-> 2.  Because religious knowledge is available to all, the claims of the priesthood to arcane wisdom are false.
+2.  Because religious knowledge is available to all, the claims of the priesthood to arcane wisdom are false.
 >
-> 3.  Because man originally possessed this natural reason (which decrees the correct order of things), the continued existence of tyranny is in an important sense a historical accident.
+3.  Because man originally possessed this natural reason (which decrees the correct order of things), the continued existence of tyranny is in an important sense a historical accident.
 >
-> 4.  This historical accident is in fact the result of a betrayal, an act of _priestcraft_, wherein a powerful class of priestly deceivers usurped the epistemic claim to spiritual knowledge, and used it to oppress the people.
+4.  This historical accident is in fact the result of a betrayal, an act of _priestcraft_, wherein a powerful class of priestly deceivers usurped the epistemic claim to spiritual knowledge, and used it to oppress the people.
 
 Though Herder thinks tyranny unnatural, and is heavily in favour of liberal reforms and popular participation in government, he regards this story as a load of misleading rubbish.
 
@@ -220,11 +220,11 @@ Immanuel Kant, who was famous for never having sex, adored Rousseau. A portrait 
 
 Kant’s _Groundwork for the Metaphysics of Morals_ basically just applies the logic of the above quoted Rousseau paragraph to morality itself. I refuse to quote Kant out of principle, so I’ll treat you to my own summary instead.
 
-> 1.  Duty to a moral law must arise out of duty to morality itself, and something cannot be moral just because it is imposed through force (“force cannot create right”).
+1.  Duty to a moral law must arise out of duty to morality itself, and something cannot be moral just because it is imposed through force (“force cannot create right”).
 >
-> 2.  Anything which is not the product of an own individual’s will is, strictly speaking, the product of force.
+2.  Anything which is not the product of an own individual’s will is, strictly speaking, the product of force.
 >
-> 3.  Morality too, therefore, must be self-legislated. Any purportedly “moral” precept believed on the basis of outside authority is Positive Law, and is therefore just another example of Force.
+3.  Morality too, therefore, must be self-legislated. Any purportedly “moral” precept believed on the basis of outside authority is Positive Law, and is therefore just another example of Force.
 
 This is how Kant ends up with the categorical imperative, history’s most dunked-on principle. Aside from telling you to point the Gestapo in the direction of your hiding Jewish neighbours, however, the categorical imperative does contain an important and compelling argument: real morality is _self-legislated_. Morality cannot be compelled, and thus strictly speaking can never be the result of positive instruction nor the consequence of natural inclination.
 

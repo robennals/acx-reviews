@@ -23,10 +23,10 @@ There are no beginnings or endings to discussions of Robert Jordan’s fantasy s
 
 My goals for this review are below. We’ll devote one section to each:
 
-> 1.  Help readers decide whether they should read the series or not.
-> 2.  Briefly note the basic, overt themes of the series.
-> 3.  Go in depth in examining the topic Jordan really cares about.
-> 4.  Look at _The Wheel of Time_ in light of Scott’s post [“The Psychology of Fantasy.”](https://www.astralcodexten.com/p/the-psychology-of-fantasy)
+1.  Help readers decide whether they should read the series or not.
+2.  Briefly note the basic, overt themes of the series.
+3.  Go in depth in examining the topic Jordan really cares about.
+4.  Look at _The Wheel of Time_ in light of Scott’s post [“The Psychology of Fantasy.”](https://www.astralcodexten.com/p/the-psychology-of-fantasy)
 
 **Section 1 will be spoiler-free. Sections 2-4 will contain spoilers**, though I will try to limit them to general thematic content and not rehashing specific plot events in detail. My intent is that they still be readable for someone who has not read the series but would like to do so, provided they are not particularly sensitive to spoilers. I take no responsibility if they have more spoilers in them than you personally would like, though.
 

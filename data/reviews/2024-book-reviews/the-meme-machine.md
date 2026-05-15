@@ -34,11 +34,11 @@ Some people however, including Dennett and Blackmore, still hold on to the revol
 
 The review is divided into five sections:
 
-> 1.  **Meme basics**: How Blackmore suggests memes arose, and her basic theory of memetics.
-> 2.  **The origins of language**:  The memetic theory of humanity’s ability to speak and understand language.
-> 3.  **Consciousness and the self**: Exploring Dennett’s memetic approach to consciousness, and how it fuels Blackmore’s views about the non-existence of the self.
-> 4.  **Institutions**:  Adopting a memetic approach to explaining how institutions come to act for their own self-preservation, often at the cost of their stated purpose, and speculation about what this means for the future.
-> 5.  **Conclusion**:  Discussing if memetics is a worthwhile pursuit in the light of objections.
+1.  **Meme basics**: How Blackmore suggests memes arose, and her basic theory of memetics.
+2.  **The origins of language**:  The memetic theory of humanity’s ability to speak and understand language.
+3.  **Consciousness and the self**: Exploring Dennett’s memetic approach to consciousness, and how it fuels Blackmore’s views about the non-existence of the self.
+4.  **Institutions**:  Adopting a memetic approach to explaining how institutions come to act for their own self-preservation, often at the cost of their stated purpose, and speculation about what this means for the future.
+5.  **Conclusion**:  Discussing if memetics is a worthwhile pursuit in the light of objections.
 
 This is a lot of ground to cover, and the review is rather lengthy (roughly 14 000 words). I’d encourage you to read the first section, and then to jump into whatever interests you the most amongst the other topics, as they are written to be mostly independent. In the last part, I try to evaluate whether memetics is due for a revival in the light of the different memetics theories discussed. Be warned that the part about consciousness is slightly more technical than the others, so feel free to skip that if it isn’t your cup of tea.
 
@@ -62,9 +62,9 @@ The basic idea of evolution is well known. The survival of the fittest means tha
 
  More generally, Blackmore holds that we have an evolutionary process whenever these three conditions are met:
 
-> 1.  **Variation** - There is variation in which traits different elements have (i.e, different organisms have different genes)
-> 2.  **Selection** - Depending on these traits, elements differ in how well they do in their environment, and not all get to survive/reproduce (i.e, some genes are better suited for the environment than others)
-> 3.  **Heredity/retention** - Traits are passed on from one generation to the next (i.e genes are passed on from parents to their children)
+1.  **Variation** - There is variation in which traits different elements have (i.e, different organisms have different genes)
+2.  **Selection** - Depending on these traits, elements differ in how well they do in their environment, and not all get to survive/reproduce (i.e, some genes are better suited for the environment than others)
+3.  **Heredity/retention** - Traits are passed on from one generation to the next (i.e genes are passed on from parents to their children)
 
 As we see in the case above, variation, selection and heredity applies to genes. This makes genes a _replicator_, which just means that they are the type of thing that sustains an evolutionary process. Evolutionary processes are _substrate neutral_, meaning that as long as we have variation, selection and heredity, which medium the process takes place in doesn’t matter. For most of the history of life, genes have been the only real replicator. But according to Blackmore, there is now a second replicator, whose speed of evolution far outruns the genes. This second replicator is, of course, the meme.
 
@@ -106,8 +106,8 @@ Whatever the outcome of her specific theory of our large brains, it demonstrates
 
 The origins of language is a famously thorny field. It has even been called “[the hardest problem in science](https://psycnet.apa.org/record/2003-88345-000)” by people who work on the evolution of language, though I suppose we should take this with a grain of salt, as who doesn’t want their own field of study to be the hardest? Blackmore holds that we must answer the following two questions if we are to understand the origin of language:
 
-> 1.  _What is the function of language?_ That is, what were the selection pressures that gave rise to it?
-> 2.  _Why do only humans have language?_ This relates to the first question, in that language cannot be an obvious result of too common selectional pressures, or else more animals would have developed it. So how come we have it, while no other animals do?
+1.  _What is the function of language?_ That is, what were the selection pressures that gave rise to it?
+2.  _Why do only humans have language?_ This relates to the first question, in that language cannot be an obvious result of too common selectional pressures, or else more animals would have developed it. So how come we have it, while no other animals do?
 
 Traditionally, the two main approaches to the origins of language have been adaptationism and non-adaptationism. Non-adaptationists simply reject the first question, and hold that language didn’t evolve due to selectional pressures at all, but rather as a side-effect (or “spandrel”) of how our cognition and mental processing evolved. This view has been advocated by some prominent names, including Noam Chomsky and Stephen Jay Gould.
 

@@ -36,8 +36,8 @@ We’ll also see how Baron-Cohen’s thesis accords with unconventional theories
 
 * * *
 
-> 1.  ##    Autism as the Font of Human Creativity
->     
+1.  ##    Autism as the Font of Human Creativity
+    
 
 The thesis in short: the secret sauce that only humans possess is the **systematising trait**.
 
@@ -97,8 +97,8 @@ First, let's work through a few obvious counterarguments to the big central clai
 
 * * *
 
-> 2.  ##    Obvious Objections
->     
+2.  ##    Obvious Objections
+    
 
 ### But isn't autism rigid and repetitive? That sounds like the opposite of creativity.
 
@@ -180,8 +180,8 @@ I don’t know. But based on the evidence Baron-Cohen presents, it really does a
 
 * * *
 
-> 3.  ##    Some Satisfying Mysteries Explained
->     
+3.  ##    Some Satisfying Mysteries Explained
+    
 
 Onwards to several mysteries for which Baron-Cohen's book gives us either a plausible resolution, or at least some valuable clues and cruxes for further exploration.
 
@@ -276,8 +276,8 @@ That's all the interesting stuff out of the way. Now we finish up with my only m
 
 * * *
 
-> 4.  ##    The Great Equivocation
->     
+4.  ##    The Great Equivocation
+    
 
 Baron-Cohen argues that the unique human capital tied up in neurodiverse brains represents a huge untapped opportunity, in that the majority of autistic people currently struggle to find jobs and form relationships.
 

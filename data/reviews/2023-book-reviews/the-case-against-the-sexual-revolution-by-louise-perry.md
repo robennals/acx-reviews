@@ -74,11 +74,11 @@ My opinion is that in _any_ social arrangement, the more submissive and agreeabl
 
 Perry is anti-porn for two distinct reasons:
 
-> 1.  It is bad for the consumers, who are nearly all men. It desensitizes them to the enjoyment of real women, it involves the substitution of a passive experience for an active one that brings more connection and fulfillment. McDonalds for the soul, etc.
+1.  It is bad for the consumers, who are nearly all men. It desensitizes them to the enjoyment of real women, it involves the substitution of a passive experience for an active one that brings more connection and fulfillment. McDonalds for the soul, etc.
 
 Like fast food, or video games, or social media, I think it’s hard to address how much this affects the median consumer. Certainly, there are porn addicts, but is it possible to increase sexual enjoyment by being a moderate consumer of porn in addition to having a healthy sex life? Probably, I think. Any real world studies are full of complicating variables--as Perry points out, consumers of porn have less sex and tend to be more depressed, but this may be a chicken-and-egg situation.
 
-> 2.  The creation of porn harms women. Nominally, women are paid to be in porn films and the creation of porn benefits both the producers and the consumers. In practice, women are routinely raped, cheated, and treated poorly in the creation of porn. Countless women have come forward to recount this poor treatment. These are women who swore they were making money, enjoying themselves, being treated well _while they were making porn_, so it is unlikely that a viewer can discern whether a film was produced “ethically”.
+2.  The creation of porn harms women. Nominally, women are paid to be in porn films and the creation of porn benefits both the producers and the consumers. In practice, women are routinely raped, cheated, and treated poorly in the creation of porn. Countless women have come forward to recount this poor treatment. These are women who swore they were making money, enjoying themselves, being treated well _while they were making porn_, so it is unlikely that a viewer can discern whether a film was produced “ethically”.
 
 Meat eaters may say that there is nothing wrong with eating meat if the animal is treated well and humanely slaughtered--after all, isn’t this a better life than the one it would have in the wilderness? Yet, the _vast majority_ of meat eaters eat almost exclusively animals who were treated terribly on factory farms, and the vast majority of men who watch porn will watch women who are raped, abused, and psychologically damaged from porn. The theoretical harmlessness of porn is irrelevant compared to the practical harm that it causes. The vast majority of happy women _do not want to do porn_, so the women who do it are usually poor, mentally ill, or addicted to drugs.  
 
@@ -106,9 +106,9 @@ I respect Perry for the narrow scope of her advice. She’s a pragmatist. _The C
 
 Her message boils down to:
 
-> 1.  Social rituals like having the man to pay for dates and withholding sex are useful for women because they are good proof that you are seen as a good potential partner and not disposable.
-> 2.  Women who try to have sex ‘like a man’ (e.g. without commitment) will generally have a bad time and feel lonely and degraded.
-> 3.  Consent is a low bar, and activities can be quite bad for women and unenjoyable while still being consensual.
+1.  Social rituals like having the man to pay for dates and withholding sex are useful for women because they are good proof that you are seen as a good potential partner and not disposable.
+2.  Women who try to have sex ‘like a man’ (e.g. without commitment) will generally have a bad time and feel lonely and degraded.
+3.  Consent is a low bar, and activities can be quite bad for women and unenjoyable while still being consensual.
 
 My main criticism is that it’s...boring? Not because Perry  is a bad writer, but because I agree with most of it already. I also don’t think it’s possible to aggregate all of the suffering and pleasure caused by sexual norms of 50-odd years ago and the sexual norms of 2022 and say 2022 is worse, but I do think most of the criticisms Perry offers are valid. There is no path to nirvana, any set of social norms will lead to different flavors of suffering.
 

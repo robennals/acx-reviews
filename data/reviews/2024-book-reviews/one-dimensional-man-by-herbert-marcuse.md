@@ -86,9 +86,9 @@ His main idea here is a duality of Freudian “sublimation” with what he calls
 
 But desublimation, as described in this book, goes one step farther. It “unhides” the sexual impulses, in a way that it can still be consistent with a modern consumerist society. So now, through commercialized sexuality in media, fashion, pornography, etc, our repressed libidos are channeled right back into overt sexuality. You might think that this would be liberating. But no- Marcuse argues that this is just another rung on the capitalist ratchet of repression and alienation:
 
-> 1.  It is created and controlled by capitalism for its own interests of generating more consumption.
-> 2.  It replaces more radical and transgressive forms of sexuality/pleasure with commodified, conformist versions.
-> 3.  It makes people more docile and content to remain part of the oppressive capitalist system.
+1.  It is created and controlled by capitalism for its own interests of generating more consumption.
+2.  It replaces more radical and transgressive forms of sexuality/pleasure with commodified, conformist versions.
+3.  It makes people more docile and content to remain part of the oppressive capitalist system.
 
 So desublimation gives the illusion of freedom from repression, when in reality it is just another form of social control. True liberation, for Marcuse, requires breaking free of this "repressive desublimation." Or as he puts it:
 

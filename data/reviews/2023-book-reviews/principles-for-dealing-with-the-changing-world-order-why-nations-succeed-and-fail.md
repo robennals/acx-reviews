@@ -41,8 +41,8 @@ He argues that “because [the 18 steps to a rise and fall] unfold in a logical 
 
 And when he tests where the US and China exist within this model he concludes that:
 
-> 1.  the world order is changing, from US led to Chinese led and
-> 2.  that he has found historical patterns strong enough to predict the future.
+1.  the world order is changing, from US led to Chinese led and
+2.  that he has found historical patterns strong enough to predict the future.
 
 So, will China overtake the US?    _Yes_
 
@@ -191,9 +191,9 @@ Economist [Murray N. Rothbard](https://archive.lewrockwell.com/rothbard/rothbard
 
 This makes Spain a particularly glaring omission from Dalio’s main analysis, as:
 
-> 1.   Spain’s green dashed line does briefly reach the top spot,
-> 2.  Dalio states Habsburg Empire (Spain + Netherlands + Austria + Hungary) was the biggest power in Europe in 1500, (246) and
-> 3.  the [Spanish silver dollar](https://nationalinterest.org/feature/the-silver-way-explains-how-the-old-mexican-dollar-changed-20410) was a global reserve currency for several centuries.
+1.   Spain’s green dashed line does briefly reach the top spot,
+2.  Dalio states Habsburg Empire (Spain + Netherlands + Austria + Hungary) was the biggest power in Europe in 1500, (246) and
+3.  the [Spanish silver dollar](https://nationalinterest.org/feature/the-silver-way-explains-how-the-old-mexican-dollar-changed-20410) was a global reserve currency for several centuries.
 
 And Dalio knows this! He mentions that in the late 16th century even certain parts of China used Spanish silver dollars. (386)  So there is of course no reason to worry about something like selection bias or sample size.  /s
 
@@ -337,8 +337,8 @@ One theory, convincingly argued by Ian Morris, in _[Why the West Rules – for N
 
 Paul Kennedy examined the same period as Dalio, but instead highlights:
 
-> 1.  Nations constantly face tradeoffs between spending on guns (troops, weapons, planes), butter (consumer goods, hospitals, parks), or investment in future economic growth.
-> 2.  And that the political diversity, fragmentation, and competition within Europe spurred innovation, capitalism, and a massive arms race that led to a “gunpowder revolution” and colonialism.
+1.  Nations constantly face tradeoffs between spending on guns (troops, weapons, planes), butter (consumer goods, hospitals, parks), or investment in future economic growth.
+2.  And that the political diversity, fragmentation, and competition within Europe spurred innovation, capitalism, and a massive arms race that led to a “gunpowder revolution” and colonialism.
 
 This tradeoff is vividly brought home by a speech from US President Dwight D. Eisenhower:
 

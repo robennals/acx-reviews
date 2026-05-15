@@ -55,8 +55,8 @@ Hence the slouching.
 
 The answer could be in two parts
 
-> 1.  There was no magic in 1870. It’s a narrative convenience, but there is no step change, it’s just the continuation of many long trends coming to fruition.
-> 2.  There are many ways to slice and create a starting point. You could do the industrial revolution, the scientific revolution, the Enlightenment, the reduction in population growth rate - each are ways of seeing the elephant, but none are comprehensive
+1.  There was no magic in 1870. It’s a narrative convenience, but there is no step change, it’s just the continuation of many long trends coming to fruition.
+2.  There are many ways to slice and create a starting point. You could do the industrial revolution, the scientific revolution, the Enlightenment, the reduction in population growth rate - each are ways of seeing the elephant, but none are comprehensive
 
 The anecdotes are wonderful. The stories are remarkable. The erudition induces the green eyed monster to raise its head. But the narrative is flimsy. We live amidst the growth pangs of a golden age which we, in part, indulge in and squander away.
 
@@ -174,9 +174,9 @@ In fact, Delong mentions this several times. The absolute miracle of the Permian
 
 At which point you have to wonder. If we
 
-> 1.  Had the beginnings of an enlightenment and knowledge revolution, bringing together ideas from far and beyond!
-> 2.  Had the beginnings of an industrial revolution, complete with machining and energy usage, not to mention steam!
-> 3.  And had the energy source in abundance from which you could construct machines!
+1.  Had the beginnings of an enlightenment and knowledge revolution, bringing together ideas from far and beyond!
+2.  Had the beginnings of an industrial revolution, complete with machining and energy usage, not to mention steam!
+3.  And had the energy source in abundance from which you could construct machines!
 
 Is it a surprise specifically that they combined at \*some point\* in the creation of an economic miracle that outstripped historical productivity? The knowledge allowed us to harness the energy which allowed us to build machines which allowed us to serve the same needs of others we knew all along - food, shelter, clothing, war, communication - and spread like water on the sidewalk filling every nook and crevice it could find!
 
@@ -256,9 +256,9 @@ There is no simple explanation for why technological progress happened the way i
 
 Whether there is instrumental convergence or convergent path dependency requires someone much smarter than me to map out, but we can at least make some observations in the meanwhile.
 
-> 1.  Technology is often, if not always, built on top of others
-> 2.  Adjacent possible, as Kaufmann wrote, shows where we might expect new technologies to emerge
-> 3.  We often need to combine multiple strands to create a true new innovation
+1.  Technology is often, if not always, built on top of others
+2.  Adjacent possible, as Kaufmann wrote, shows where we might expect new technologies to emerge
+3.  We often need to combine multiple strands to create a true new innovation
 
 If you combine all three then you must also answer the question - what if the 1870s were an especially good time for technologies to interplay with each other, such that we could get explosive growth! I know Anton Howes is probably better served to talk about this in more authoritative detail, perhaps in an upcoming book, but until then informed speculation must suffice.
 
@@ -312,9 +312,9 @@ To get sufficient labor from her required such advancements that she could spend
 
 From this lens if we could look at details, we could see how the blockers to an individual's efforts are varied, both positively and negatively through time. Delong looks in detail at how specific events happened but less about how they changed over the decades or centuries.
 
-> 1.  We build things that others want, and use whatever we can see around us, and whatever we can create, because in doing so we get richer ourselves
-> 2.  The blocker to this helping everyone is a) the speed of dissemination of knowledge between people, and b) coordinated processing of the new knowledge that came in
-> 3.  When left uncontrolled, the natural state for this enterprise is to end up in is unequal distribution and stasis -> that’s Hayek’s daemon according to Delong, which Polanyi helps assuage
+1.  We build things that others want, and use whatever we can see around us, and whatever we can create, because in doing so we get richer ourselves
+2.  The blocker to this helping everyone is a) the speed of dissemination of knowledge between people, and b) coordinated processing of the new knowledge that came in
+3.  When left uncontrolled, the natural state for this enterprise is to end up in is unequal distribution and stasis -> that’s Hayek’s daemon according to Delong, which Polanyi helps assuage
 
 What could help an individual achieve their optimal success seems to be the right way to approach the question of how we managed to construct a society where we can collectively achieve the optimal success.
 

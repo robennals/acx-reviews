@@ -322,37 +322,37 @@ One last thing that struck me in preparing this review is just how much modern p
 
 ### Bibliography
 
-> 1.  _Bondage of the WIll_, Martin Luther, translated by Henry Cole in 1823. Originally published 1525.
-> 2.  _Freedom of the Will_, Desiderus Erasmus, translated by E. Gordon Rupp in 1969. Originally published 1524.
-> 3.  _Luther and Erasmus: Free Will and Salvation_, edited by E. Gordon Rupp and Phillip S. Watson, 1969.
-> 4.  _The Essential Erasmus_, edited by John P. Dolan, 1964.
-> 5.  _Martin Luther: Selections from his Writings_, edited by John Dillenberger, 1964.
-> 6.  _The Day the Universe Changed, Episode 4_, James Burke, 1986
-> 7.  _Heretics and Believers,_ Peter Marshall, 2017.
-> 8.  _The Coming of the Third Reich_, Richard Evans, 2003.
-> 9.  _Policy Debates Should Not Appear One-Sided_, Elizer Yudkowsky, 2007
-> 10.  _The Truth about Balrogs, Volume 6_, by Conrad Dunkerson
-> 11.  _The Fellowship of the Ring_, by J.R.R. Tolkien, 1954
-> 12.  _History of Middle Earth, Volume 7: The Treason of Isengard_, edited by Christopher Tolkien, 1989.
-> 13.  _God’s Dice are Loaded: Assertions and Criticisms on God, Man, and Salvation_, by [redacted], 2003. 
-> 14.  A bunch of Wikipedia articles
+1.  _Bondage of the WIll_, Martin Luther, translated by Henry Cole in 1823. Originally published 1525.
+2.  _Freedom of the Will_, Desiderus Erasmus, translated by E. Gordon Rupp in 1969. Originally published 1524.
+3.  _Luther and Erasmus: Free Will and Salvation_, edited by E. Gordon Rupp and Phillip S. Watson, 1969.
+4.  _The Essential Erasmus_, edited by John P. Dolan, 1964.
+5.  _Martin Luther: Selections from his Writings_, edited by John Dillenberger, 1964.
+6.  _The Day the Universe Changed, Episode 4_, James Burke, 1986
+7.  _Heretics and Believers,_ Peter Marshall, 2017.
+8.  _The Coming of the Third Reich_, Richard Evans, 2003.
+9.  _Policy Debates Should Not Appear One-Sided_, Elizer Yudkowsky, 2007
+10.  _The Truth about Balrogs, Volume 6_, by Conrad Dunkerson
+11.  _The Fellowship of the Ring_, by J.R.R. Tolkien, 1954
+12.  _History of Middle Earth, Volume 7: The Treason of Isengard_, edited by Christopher Tolkien, 1989.
+13.  _God’s Dice are Loaded: Assertions and Criticisms on God, Man, and Salvation_, by [redacted], 2003. 
+14.  A bunch of Wikipedia articles
 >
-> 1.  Martin Luther
-> 2.  Desiderius Erasmus
-> 3.  Thomas More
-> 4.  95 Theses
-> 5.  On the Bondage of the Will
-> 6.  Renaissance Humanism
-> 7.  John Calvin
+1.  Martin Luther
+2.  Desiderius Erasmus
+3.  Thomas More
+4.  95 Theses
+5.  On the Bondage of the Will
+6.  Renaissance Humanism
+7.  John Calvin
 
 ### Illustration Credits
 
-> 1.  _Portrait of Erasmus of Rotterdam_, by Hans Holbein the Younger, 1523. Digital version via Wikimedia Commons.
-> 2.  _Portrait of Martin Luther_, by Lucas Cranach the Elder, 1528. Digital version via Wikimedia Commons.
-> 3.  Found circulating online without attribution. Appears to be based on a painting of Luther by Greg Copeland.
-> 4.  My own editing job, putting Luther’s head and a quote from the 95 Theses onto a meme template obtained from KnowYourMeme.com. The subject of the original photo was conservative podcaster Steven Crowder.
-> 5.  Scene from _Pirate of the Caribbean: Dead Man’s Chest_, 2006
-> 6.  Compilation of four images I made using the Adobe Firefly generative AI tool based on the prompt _“They could see the furnace-fire of its yellow eyes from afar; its arms were very long. Through the air it sprang over the fiery fissure. The flames leaped up to greet it and wreathed about it. Its streaming hair seemed to catch fire, and the sword that it held turned to flame. In its other hand it held a whip. His enemy halted again, facing him, and the shadow about it reached out like two vast wings.”_  
->       
->     Top left: Firefly v1 March 2023. Top right: Firefly v1 May 2023. Bottom left: Firefly v2 October 2023. Bottom right: Firefly v3 April 2024.
-> 7.  My compilation of the aforementioned portraits of Erasmus and Luther to replace the angel Aziraphale and the demon Crowley in an anonymous meme based on the ending of Season 2 of _Good Omens._
+1.  _Portrait of Erasmus of Rotterdam_, by Hans Holbein the Younger, 1523. Digital version via Wikimedia Commons.
+2.  _Portrait of Martin Luther_, by Lucas Cranach the Elder, 1528. Digital version via Wikimedia Commons.
+3.  Found circulating online without attribution. Appears to be based on a painting of Luther by Greg Copeland.
+4.  My own editing job, putting Luther’s head and a quote from the 95 Theses onto a meme template obtained from KnowYourMeme.com. The subject of the original photo was conservative podcaster Steven Crowder.
+5.  Scene from _Pirate of the Caribbean: Dead Man’s Chest_, 2006
+6.  Compilation of four images I made using the Adobe Firefly generative AI tool based on the prompt _“They could see the furnace-fire of its yellow eyes from afar; its arms were very long. Through the air it sprang over the fiery fissure. The flames leaped up to greet it and wreathed about it. Its streaming hair seemed to catch fire, and the sword that it held turned to flame. In its other hand it held a whip. His enemy halted again, facing him, and the shadow about it reached out like two vast wings.”_  
+      
+    Top left: Firefly v1 March 2023. Top right: Firefly v1 May 2023. Bottom left: Firefly v2 October 2023. Bottom right: Firefly v3 April 2024.
+7.  My compilation of the aforementioned portraits of Erasmus and Luther to replace the angel Aziraphale and the demon Crowley in an anonymous meme based on the ending of Season 2 of _Good Omens._

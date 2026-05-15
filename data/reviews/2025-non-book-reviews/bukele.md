@@ -294,9 +294,9 @@ At that time, I was _offended_, yet several of my family members were _relieved_
 
 This is the political genius of Bukele: To adopt a populist rhetoric like Chavez, but then going and adopting moderate, technocratic policies.  This approach has the triple benefit of:
 
-> 1.  Increasing Bukele’s approval rating.
-> 2.  Baiting the opposition into defending unpopular postures.
-> 3.  Effectively avoiding the flaw of democracy in which candidates can ‘temporarily increase their popularity by doing things which are popular even though they’re bad ideas’.
+1.  Increasing Bukele’s approval rating.
+2.  Baiting the opposition into defending unpopular postures.
+3.  Effectively avoiding the flaw of democracy in which candidates can ‘temporarily increase their popularity by doing things which are popular even though they’re bad ideas’.
 
 Maybe this is because, unlike Chavez, Bukele doesn’t have ‘enough oil money to defy gravity for a very long time’ [15].
 

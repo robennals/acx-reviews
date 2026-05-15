@@ -35,11 +35,11 @@ The rallying cry that Josh suggests is "It is a possibility!" on how we ought to
 
 The three biggest themes from the book were:
 
-> 1.  The Great Stagnation is real, and was caused by careful strangulation of all of the potential avenues of search and advancement we have had
+1.  The Great Stagnation is real, and was caused by careful strangulation of all of the potential avenues of search and advancement we have had
 >
-> 2.  There is surprisingly little correlation between regulatory increase and scientific and technological progress and it can be seen over and over again in multiple sectors
+2.  There is surprisingly little correlation between regulatory increase and scientific and technological progress and it can be seen over and over again in multiple sectors
 >
-> 3.  There are credible paths of research as yet untapped, amongst all areas seen as science fiction - including nanotechnology, nuclear energy and yes, flying cars
+3.  There are credible paths of research as yet untapped, amongst all areas seen as science fiction - including nanotechnology, nuclear energy and yes, flying cars
 
 Josh summarises it brutally using the income classification of the world population developed by Hans Rosling.
 
@@ -55,13 +55,13 @@ The whole book is an attempt to answer one question - why are we not living like
 
 The answer that Josh gives is in a few parts:
 
-> 1.  High degrees of bureaucratisation and regulatory throttling of promising research avenues
+1.  High degrees of bureaucratisation and regulatory throttling of promising research avenues
 >
-> 2.  We stopped trying to increase our energy usage somewhere around the 70s
+2.  We stopped trying to increase our energy usage somewhere around the 70s
 >
-> 3.  We became horrible at actually converting the R&D dollars from the government to usable innovations
+3.  We became horrible at actually converting the R&D dollars from the government to usable innovations
 >
-> 4.  There's an endemic "Failure of Nerve" amongst the entire elite intelligentsia, including both the researchers and the bureaucrats, that leads to a reduction in ambition
+4.  There's an endemic "Failure of Nerve" amongst the entire elite intelligentsia, including both the researchers and the bureaucrats, that leads to a reduction in ambition
 
 When you combine all of this, you get the crazy cocktail that we've all accepted as normality. That large scale technological changes and breakthroughs are well-nigh impossible, and being "rational" means that we should set our sights lower.
 

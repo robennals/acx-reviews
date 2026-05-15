@@ -61,10 +61,10 @@ Because of this, _Nexus_ has very little to say about technological mis_alignmen
 
 _Nexus’_ moral arc is left with:
 
-> 1.  Technology empowers people to achieve their desires in ways that were not possible before.
-> 2.  Some people use it for selfish, evil, or ignorant purposes, which the government tries to stop.
-> 3.  Others want to use it for noble, altruistic, or harmless ends, but are barred from access.
-> 4.  It’s not clear how to enforce 2 without causing 3.
+1.  Technology empowers people to achieve their desires in ways that were not possible before.
+2.  Some people use it for selfish, evil, or ignorant purposes, which the government tries to stop.
+3.  Others want to use it for noble, altruistic, or harmless ends, but are barred from access.
+4.  It’s not clear how to enforce 2 without causing 3.
 
 While our timeline debates these questions in ‘AI Governance’ papers and Marc Andreesen screeds rather than with guns, I think _Nexus_ has a lot to say about this. Naam is at his best when he makes you sympathize with the father of a severely autistic child using Nexus to connect with his son, or the horror of a civilian having their mind/body hijacked in a terror attack. If you think AI has the potential to empower a lot of good and bad actors in the near future, _Nexus_ may resonate with you.
 

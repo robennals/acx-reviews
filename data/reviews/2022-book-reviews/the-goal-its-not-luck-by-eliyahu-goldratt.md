@@ -70,11 +70,11 @@ Goldratt bills this tool as one for creating win-win, no-compromise solutions. T
 
 As Alex uses these diagrams, he repeatedly emphasizes that they should be read out loud, using the words “In order to”, and “we must” creating a logical connection for each arrow. When looking for the solution to the conflict, we begin by looking at the arrow that we’re most troubled by. That troubling feeling is our intuition telling us that the logic of that arrow is not quite solid. The diagram above would read as follows:
 
-> 1.  In order to “Help my kids achieve their potential”, I must “Provide them with a rich and challenging learning environment”
-> 2.  In order to “Provide them with a rich and challenging learning environment”, I must “Homeschool my kids”.
-> 3.  In order to “Help my kids achieve their potential”, I must “Achieve my own potential”,
-> 4.  In order to “Achieve my own potential”, I must “Trad school my kids”
-> 5.  I cannot both “Homeschool my kids” and “Trad school my kids”.
+1.  In order to “Help my kids achieve their potential”, I must “Provide them with a rich and challenging learning environment”
+2.  In order to “Provide them with a rich and challenging learning environment”, I must “Homeschool my kids”.
+3.  In order to “Help my kids achieve their potential”, I must “Achieve my own potential”,
+4.  In order to “Achieve my own potential”, I must “Trad school my kids”
+5.  I cannot both “Homeschool my kids” and “Trad school my kids”.
 
 If you’re facing this conflict, and any of those statements ring false to you, you have likely found the soft spot. Work to logically invalidate that branch, and once you succeed, your conflict is resolved. Goldratt first introduces us to this tool via an argument between Alex and his daughter about her staying out late at a party. Alex’s branch of the conflict hinges on his concern for his daughter’s safety. Once he’s able to ascertain enough details for his concern to be resolved, there is no more conflict. Familial harmony is preserved.
 
@@ -82,7 +82,7 @@ According to Goldratt, these conflict diagrams are not merely interesting. The e
 
 Once we surface the conflict, we can look at the arrows to see how to break it. To attack these branches, we might posit certain “injections” that can be combined with the existing logic. Let’s say that as I wrote out the example cloud, the arrow that bothered me the most was #2. One possible injection might be “Charter schools can provide a rich, challenging, learning environment.” That might then be combined with “Charter schools are a form of trad school.” If you can accept these injections as true, then sentence #2 now looks like this:
 
-> 2.  If charter schools are a form of trad school, and charter schools can provide a rich challenging learning environment, then in order to provide my kids with a rich and challenging learning environment, I can send them to a traditional school.
+2.  If charter schools are a form of trad school, and charter schools can provide a rich challenging learning environment, then in order to provide my kids with a rich and challenging learning environment, I can send them to a traditional school.
 
 And your cloud has been broken.
 
@@ -96,10 +96,10 @@ For any resolution to a conflict, there will likely be multiple potential negati
 
 Alex has some reservations, but isn’t able to articulate them clearly and gives his son a non-committal “Let me think about it.” as an answer. After some nudging from his wife, Alex does think about it and after floundering through a few items that reveal themselves to be excuses puts his finger on the real reservation. He doesn’t want to share his car, and if Dave has free reign over it for long enough, it will quickly become “their” car, and this will damage their relationship. His negative branch diagram eventually goes like this:
 
-> 1.  If “the car is at your disposal when I’m away”, and “I am away for a lengthy period”, then “for a lengthy period, you will have my car at your disposal”.
-> 2.  If “when people can regularly use something, it becomes a habit, or a right” and (#1) then “you will get used to being able to use my car.”
-> 3.  If “I don’t want to share my car” and (#2) then “it will be annoying to you to get a NO in the future”.
-> 4.  If “I don’t want to share my car” and (#3) then “we’ll have friction in the future.”
+1.  If “the car is at your disposal when I’m away”, and “I am away for a lengthy period”, then “for a lengthy period, you will have my car at your disposal”.
+2.  If “when people can regularly use something, it becomes a habit, or a right” and (#1) then “you will get used to being able to use my car.”
+3.  If “I don’t want to share my car” and (#2) then “it will be annoying to you to get a NO in the future”.
+4.  If “I don’t want to share my car” and (#3) then “we’ll have friction in the future.”
 
 ![](https://acximages.ennals.org/images/2022-book-reviews/794944096ef0df65.png)
 
