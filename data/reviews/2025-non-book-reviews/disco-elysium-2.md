@@ -54,7 +54,7 @@ Consider the visuals: the watercolor-like textures and impressionistic brushstro
 
 The character portraits, which pop every time you strike a conversation, partake in the same style: broad strokes that may – or may not – seek to reveal the very essence of each individual. Notice how the portrait of your devoted partner, Kim, whose composure masks kindness and subtle humor, is enlightened by a saint-like aureole; or how Klaasje’s portrait, suspended between vulnerability and careful deception, has her gaze shifting enigmatically from innocence to suspicion. These portraits speak even before dialogue begins.
 
-![](https://acximages.ennals.org/images/2025-non-book-reviews/145d69e76e73dc8f.png)![](https://acximages.ennals.org/images/2025-non-book-reviews/d77957c45f541d59.png)
+![](https://acximages.ennals.org/images/2025-non-book-reviews/145d69e76e73dc8f.png)![](https://acximages.ennals.org/images/2025-non-book-reviews/886084c2b026ba04.png)
 
 Kim Kitsuragi (left); Klaasje Amandou (right)
 

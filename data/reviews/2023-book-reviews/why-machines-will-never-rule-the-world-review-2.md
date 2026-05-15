@@ -64,7 +64,7 @@ No AGI. Machines will never rule the world. Book review wrapped up; we can all r
 
 Call it AGI or not (I would, but let's move on), couldn’t a machine capable of interacting with the entire distribution of data on the Internet, replicating itself, and operating at lightning-fast speeds still possess enough power to "rule the world?" If it could subjugate the entire human race, then the distinction between ruling and approximately ruling doesn’t seem important. Sure, a few defiant atoms originating from the remains of the last rebellious humans might result in an unbecoming blemish in the AI's otherwise flawless paperclips, but this difference hardly seems worth celebrating.
 
-![](https://acximages.ennals.org/images/2023-book-reviews/262b7e88e8b79fdf.png)
+![](https://acximages.ennals.org/images/2023-book-reviews/b0923c4097ef6930.png)
 
 The last act of humanity. We really showed those machines. (Thanks DALL·E 2 for helping me show them who’s boss.)
 
@@ -74,17 +74,17 @@ The problem is, if you accept this argument, you end up making statements like, 
 
 I accept that language is incredibly context-dependent. The meaning of a word, phrase, or sentence depends on the surrounding context. This is one of the criteria for calling language a complex system. It is also precisely what the [Winograd Schema Challenge](https://commonsensereasoning.org/winograd.html) is about (and its larger and more difficult cousin, [Winograde](https://arxiv.org/abs/1907.10641)). These are datasets of sentences that were deliberately created to be ambiguous and difficult for an AI to determine. Below are some examples of these types of sentences.
 
-![](https://acximages.ennals.org/images/2023-book-reviews/e25f367240957073.png)
+![](https://acximages.ennals.org/images/2023-book-reviews/18869e16d9ebaa67.png)
 
 L&S claim that neural networks are context-free and therefore cannot cope with context-dependent systems. This claim is hard to square with the fact that [many LLMs have surpassed 90% accuracy on the Winograd test](https://arxiv.org/abs/2201.02387). Even Winogrande is looking increasingly solved, as shown in the [GPT-4 technical report](https://cdn.openai.com/papers/gpt-4.pdf).
 
-![](https://acximages.ennals.org/images/2023-book-reviews/a2a427d44d79fec6.png)
+![](https://acximages.ennals.org/images/2023-book-reviews/d2386776839d3605.png)
 
 At times like this, when their claims seemed completely at odds with the evidence, my confidence in their arguments wanes. They attempt to defend their theory against the mounting evidence by saying that AI chatbots only work in narrow domains, but the range of topics I’ve covered with ChatGPT would suggest that their definition of “narrow” is “everything under the Sun”. At times, they seem so entrenched in their theories that they resort to linguistic acrobatics to preserve them. When they argue that AlphaGo did not teach humans new moves, they say: “What really happened is that the (human) master observed the emanation from the implicit gain-maximising model set up by AlphaGo’s (human) creators (namely, the moves it played against him) and he used this to adapt his strategy.” At some point, it just feels tiresome.
 
 L&S are entirely dismissive of the idea of a generalist chatbot. The success of ChatGPT, the fastest adopted product in history, highlights the immense value of these systems. Throughout the book, the authors regard AI as so inherently limited, at one point even stating that it could never match the cognitive performance of a crow. I asked ChatGPT to respond to that.
 
-![](https://acximages.ennals.org/images/2023-book-reviews/cc72f4d89c894d1b.png)
+![](https://acximages.ennals.org/images/2023-book-reviews/7663e38b01f44308.png)
 
 They apply the same basic argument to other topics throughout the book. They start with the premise that to create a software emulation of X, it’s necessary to have a mathematical model of X that can predict X’s behavior. Then they show that X is a complex system, and because it’s impossible to build mathematical models for complex systems, it’s impossible to create a software emulation of X. You can see how they got their argument against AGI just by plugging “the human mind” in for X.
 

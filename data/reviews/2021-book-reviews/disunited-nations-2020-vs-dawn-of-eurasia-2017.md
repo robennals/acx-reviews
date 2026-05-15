@@ -32,7 +32,7 @@ Their most obvious conflict is that Zeihan rejects a “dawn of Eurasia”. Wher
 
 Zeihan’s _Disunited Nations_ seeks to answer one question: what happens to the prospects of nations when the US withdraws from world affairs? What happens when the post-WWII World Order – along with all the networks of alliances and protected trade routes that comprise it – disintegrates? And the US _will_ withdraw, according to Zeihan. In fact, by global troop deployment, it’s been withdrawing for a while:
 
-![](https://acximages.ennals.org/images/2021-book-reviews/a3fea195c8f06370.png)
+![](https://acximages.ennals.org/images/2021-book-reviews/db2b2ed39d0990b1.png)
 
 The two things that kept the US interested in maintaining the world order have disappeared: an arch enemy in the Soviet Union and reliance on foreign energy. Continuation of the Order since the collapse of the USSR over the last thirty years has largely been a result of geopolitical inertia. And energy independence arose with the advent of fracking, when the US became a net crude-oil and products exporter as of 2020.
 

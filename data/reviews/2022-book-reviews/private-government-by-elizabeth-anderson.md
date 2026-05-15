@@ -45,7 +45,7 @@ Anderson goes further and argues that workplaces are not only governments, they 
 
 While we shouldn’t draw a false equivalence between firing and imprisonment, we also shouldn’t underestimate its severity. Being fired means you are losing money, just as surely as if you’d been fined, and also has significant impacts on long-run happiness. According to [one study](https://eprints.lse.ac.uk/19656/1/Lags_and_Leads_in_Life_Satisfaction_A_Test_of_the_Baseline_Hypothesis.pdf), unemployment has a greater effect on long-run happiness than the death of a spouse
 
-![](https://acximages.ennals.org/images/2022-book-reviews/c4c5cf119f9816e4.png)
+![](https://acximages.ennals.org/images/2022-book-reviews/a77245303e186b1a.png)
 
 _The effect of events on Life Satisfaction for Men. From_ _[Clark et al., 2007](http://clark)_
 
@@ -114,7 +114,7 @@ As a result, Cowen argues, we shouldn’t be thinking about this philosophically
 
 For my part, I worry that Cowen is making this more complicated than it actually is. An overwhelming majority of American workers say that they like their job - 84% in 2021, 88% in 2015 when the book was written. If we accept Anderson’s statistic that [25% of employees think that their workplace is a dictatorship](https://workplacedemocracy.wordpress.com/workplace-democracy-survey/) (I’m not sure that we should accept it, given that it comes from a single Zogby poll from 2008, but anyway), that means at least half of people who think their workplace is a dictatorship are at least moderately satisfied with their jobs.
 
-![](https://acximages.ennals.org/images/2022-book-reviews/6138912bc56a5df0.png)
+![](https://acximages.ennals.org/images/2022-book-reviews/ca4c4d11a36bed45.png)
 
 If most workers like their jobs, that suggests that bosses are not exploiting their workers, and that the ability of workers to influence workplace policy through the job market is strong. Even Amazon, a company whose strict control over its employees has literally resulted in people [dying](https://www.nbcnews.com/news/us-news/kentucky-tornado-factory-workers-threatened-firing-left-tornado-employ-rcna8581?cid=sm_npd_nn_tw_ma) or [being hospitalized with heat stroke](https://bits.blogs.nytimes.com/2011/09/19/inside-amazons-very-hot-warehouse/), is actually rated pretty highly by its workers ([58% of Amazon workers said they would recommend the company to a friend](https://observer.com/2018/06/amazon-employee-satisfaction-rate-soars-ahead-hq2-revelation/)).
 

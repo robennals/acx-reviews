@@ -475,7 +475,7 @@ I have nothing to object to in this chapter. Singer provides one selfless accoun
 
 If you’ve made it through Part 2, congratulations! And if you’ve skipped Part 2 as suggested in the introduction…hi.
 
-![](https://acximages.ennals.org/images/2024-book-reviews/1919b985a655d375.png)
+![](https://acximages.ennals.org/images/2024-book-reviews/0eff254885f20c3d.png)
 
 In the first chapter, Singer gave a tentative argument for preference utilitarianism. He also pledged to consider other moral theories as well, but didn’t always live up to this. In the second chapter, he derived the Principle of Equal Consideration of Interests, arguing that this requires us to treat all like interests equally, no matter the race, sex, intelligence, or other characteristic of the holder of that interest. On the basis of this principle, it doesn’t largely matter whether there are innate differences between races or other groups: what matters is maximizing the satisfaction of interests. This may sometimes require meritocracy and may sometimes require affirmative action, and which one will depend solely on cost-benefit calculations regarding these policies’ effect on society.
 

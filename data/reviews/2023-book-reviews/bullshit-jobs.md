@@ -68,7 +68,7 @@ Graeber also doesn’t have much in the way of evidence to support his central t
 
 His main supporting data is the [YouGov survey](https://yougov.co.uk/topics/society/articles-reports/2015/08/12/british-jobs-meaningless) which found that “37% of British workers think their jobs are meaningless”.
 
- ![](https://acximages.ennals.org/images/2023-book-reviews/0eb8750166b6e513.png)
+ ![](https://acximages.ennals.org/images/2023-book-reviews/fb0a77c5cc7c4331.png)
 
 Graeber was a Leftist in the Rousseau-ian tradition and the opposite of a misanthrope, he believed in the sound judgment and basic goodness of ordinary people, and emphasises repeatedly that he defines BS jobs to be “jobs considered useless by the people doing them”, and that the best way to know how prevalent BS jobs are is to ask the people actually doing them. Which provides us a clear metric to define BS jobs by and avoids upsetting anyone who thinks what they do really is valuable.
 
@@ -234,7 +234,7 @@ In a chapter on Rusia’s transition to capitalism, The Commanding Heights, a bo
 
 Growth of US lawyers:
 
- ![](https://acximages.ennals.org/images/2023-book-reviews/46981ecde6bd637e.png)
+ ![](https://acximages.ennals.org/images/2023-book-reviews/e1a3359e6b03279c.png)
 
 Commanding Heights also had a section about China developing a marketing sector after Deng Xiaoping’s reforms.
 
@@ -246,7 +246,7 @@ Outside the UK, the cost of changing is perhaps most obvious in US healthcare. M
 
 You can make excuses for US healthcare like “it funds research”, “Americans have less healthy lifestyles” and “the wealthy pay for expensive but low cost treatments, whereas public healthcare allocates treatment in a way that optimises the population life expectancy.” All true, but 4x is a truly immense cost disparity that can’t all be explained circumstantially.
 
- ![](https://acximages.ennals.org/images/2023-book-reviews/85c4294f6d709625.png)
+ ![](https://acximages.ennals.org/images/2023-book-reviews/72c736e173b07210.png)
 
 Possibly a large part of the disparity is because US healthcare involves large numbers of workers not directly involved in providing healthcare.
 
@@ -256,11 +256,11 @@ Overall the market system looks much more bureaucratic than the more planned Eur
 
 If you think the UK has a housing market that’s comparably dysfunctional to the US healthcare market, well, there’s also a correspondingly large number of British changers working at selling, appraising and financing houses.
 
-![](https://acximages.ennals.org/images/2023-book-reviews/1963d751ba2dded3.png)
+![](https://acximages.ennals.org/images/2023-book-reviews/1c5123767095ab7e.png)
 
 In the last few decades British universities have transitioned from a more public model to a more private one, subsequently there has been an explosion of administration on campuses.
 
- ![](https://acximages.ennals.org/images/2023-book-reviews/27b1748079d1f411.png)
+ ![](https://acximages.ennals.org/images/2023-book-reviews/28434392e323526b.png)
 
 There’s also large sections of the financial sector that serve dubious purposes.
 
@@ -268,9 +268,9 @@ When banks issue home loans, for example, it has the effect of shifting the dema
 
 Since around the 1970s, the proportion of jobs in the service sector has grown rapidly and come to make up most of the economy in many Western countries.
 
-![](https://acximages.ennals.org/images/2023-book-reviews/5401c391448aa77b.png)
+![](https://acximages.ennals.org/images/2023-book-reviews/21598c2eb8e7cb6e.png)
 
-![](https://acximages.ennals.org/images/2023-book-reviews/33b7a0fae7ca01dc.png)
+![](https://acximages.ennals.org/images/2023-book-reviews/fa741d68f0d923e2.png)
 
 I don’t think Graeber would argue that every service sector job is BS, perhaps not even most of them, but there’s a stronger case to be made that the average service sector job is more BS than the average manufacturing one. And probably this growth in what’s effectively private sector bureaucracy has contributed to the perception that many jobs are BS.
 

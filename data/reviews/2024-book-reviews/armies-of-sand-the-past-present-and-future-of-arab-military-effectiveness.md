@@ -46,7 +46,7 @@ Despite defending difficult terrain and impressive fortification efforts the res
 
 An important part of the book is discussing all the ways that the problems of the Six Day War could be applied to most wars in the Middle East involving an Arab nation. He goes through a list of patterns he has identified:
 
-![](https://acximages.ennals.org/images/2024-book-reviews/c91093b6e01d8da0.png)
+![](https://acximages.ennals.org/images/2024-book-reviews/532244e6cdcb9217.png)
 
 Of the 12, he only finds Bravery and Logistics to be consistently good.
 

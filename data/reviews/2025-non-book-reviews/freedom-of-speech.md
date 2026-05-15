@@ -62,7 +62,7 @@ Developing coherent, consistent ideas about human rights and social welfare take
 
 Hang on, I have some good news about the state of the world over the last century.
 
-![](https://acximages.ennals.org/images/2025-non-book-reviews/98308d92509a945c.jpg)![](https://acximages.ennals.org/images/2025-non-book-reviews/840a795852c49947.png)![](https://acximages.ennals.org/images/2025-non-book-reviews/45506319d8778d84.png)
+![](https://acximages.ennals.org/images/2025-non-book-reviews/98308d92509a945c.jpg)![](https://acximages.ennals.org/images/2025-non-book-reviews/2e7ad4c76c2b6a2f.png)![](https://acximages.ennals.org/images/2025-non-book-reviews/7ef32f72904bdcb8.png)
 
 Now let me remind you what this cost us. Yes, all these achievements took millions of hours of collective human labor and ingenuity, and thousands of failed experiments before finding the right ones. But that’s not the cost; those hours would’ve been spent regardless. Achieving all this has required advances in human expertise and hyper specialization, which is great for our collective wealth and the experts’ sense of importance, but we’ve lost the ability to easily communicate how the world works.
 
@@ -108,7 +108,7 @@ Two excerpts sum up these points. First, from [Matt Yglesias](https://www.slowbo
 
 On its face, this seems unnecessary and contrary to the goal of finding truth. But TracingWoodgrains arrives at the reason for this in this tweet, and the reply makes Yglesias’s point explicit:
 
-![](https://acximages.ennals.org/images/2025-non-book-reviews/819336ff29b056ee.png)
+![](https://acximages.ennals.org/images/2025-non-book-reviews/132080094f09f834.png)
 
 In light of this does cancel culture work? If there are dishonest actors who are anti-truth seeking and who want to limit the freedom of others, then I think it’s good to have some kind of pushback mechanism, and perhaps it’s better that this mechanism is wielded by a collection of private actors as opposed to the government. Still, we can improve this, and I will return to this later.
 

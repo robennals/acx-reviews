@@ -67,7 +67,7 @@ Anyhow as of right now, we are getting a rapid increase of capabilities. And it 
 
 ([Source](https://twitter.com/TetraspaceWest/status/1637555099756122114?s=20))
 
-![](https://acximages.ennals.org/images/2023-book-reviews/7383549e4c649caf.png)
+![](https://acximages.ennals.org/images/2023-book-reviews/fcf1a9acc1193b66.png)
 
 ([Source](https://twitter.com/retvitr/status/1635769527119085571?s=20))
 

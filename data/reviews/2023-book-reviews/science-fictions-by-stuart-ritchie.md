@@ -62,7 +62,7 @@ Ritchie certainly isn’t wrong that the file drawer effect and p-hacking distor
 
 A final form of bias that Ritchie briefly mentions is political bias.  90% of psychologists are liberal; how likely are they to endorse politically incorrect findings, or to carefully scrutinize findings supporting their beliefs?  According to Ritchie, it could be partially due to this political bias that the field came to believe in stereotype threat: the idea that test takers’ performance suffers when reminded that, according to certain stereotypes, they are not “supposed to” do well because they are female (for math), black (for most academic subjects), or white (for athletic ability).  Ritchie claims the evidence for stereotype threat is quite weak, citing a 2015 meta-analysis that shows evidence of publication bias.  More recent meta-analyses that I have found generally report that if stereotype threat exists, its magnitude is much smaller than initial studies indicated.  For example, [Warne 2021 claims no evidence of stereotype threat in females](https://journals.sagepub.com/doi/abs/10.1177/1932202X211061517#bibr20-1932202X211061517); [Lewis & Michalak 2019](https://psyarxiv.com/w4ta2/) gives a summary of the field which confirms that the reported effect size has been decreasing with time; it is not clear what [Picho-Kiroga et al 2021](https://journals.sagepub.com/doi/abs/10.1177/1932202X20986161)’s conclusion is, but their funnel plot certainly doesn’t inspire confidence that stereotype threat has been robustly detected:
 
-![](https://acximages.ennals.org/images/2023-book-reviews/178c7b25f40e02c0.png)
+![](https://acximages.ennals.org/images/2023-book-reviews/2c2130b55b449cbe.png)
 
 Above: a funnel plot from Picho-Kiroga et al 2021, summarizing studies on stereotype threat.  The bigger the study (higher the inverse standard error), the smaller the reported effect, with the highest-powered study finding nearly no effect.  The small studies finding large ST effects have no counterparts finding equally large reverse ST effects, which could be due to publication bias.
 
@@ -76,7 +76,7 @@ Is it fair to call doing low-powered studies “negligence”?  Ritchie makes th
 
 Moving on, we come to the last sin: hype.  We are all familiar with hype.  99% of the time, hype is how the public hears about scientific discoveries.  Sometimes, hype comes in the form of the unmentioned cross-species leap, which is best illustrated by the [@justsaysmice Twitter account](https://twitter.com/justsaysinmice):
 
-![](https://acximages.ennals.org/images/2023-book-reviews/f9385a4da675d63e.png)
+![](https://acximages.ennals.org/images/2023-book-reviews/0cbefe1af1e5c377.png)
 
 Sometimes, hype comes in the form of unwarranted advice, or confounding correlation with causation.  Over the years, many SSC/ACX comments have brought up nutrition science as reliably heavy on hype and thin on actual evidence.  I share this impression, and apparently, so does Ritchie:
 
@@ -90,7 +90,7 @@ Why is nutrition science so terrible?  Bias is one factor: studies are often fun
 
 Nutrition science is of course not the only field plagued by hype.  Psychology is not immune.  Back in 2015, Scott Alexander wrote [five blog posts](https://slatestarcodex.com/tag/growth-mindset/) questioning the validity of growth mindset: the idea that you can achieve anything just by saying “I can’t do X yet” instead of “I can’t do X”  (I’m only mildly exaggerating!)  Around the same time, I remember the Microsoft campus being plastered [with posters like this](https://www.learningsciences.com/blog/developing-a-professional-growth-mindset-6-steps-learning-sciences-international/), advertising growth mindset:
 
-![](https://acximages.ennals.org/images/2023-book-reviews/3b5b5b522bd22b3e.png)
+![](https://acximages.ennals.org/images/2023-book-reviews/ff456855aa65bce8.png)
 
 These posters spread like wildfire thanks to the promotion of Stanford University psychologist Carol Dweck, the idea’s originator.  According to [Ritchie’s Substack](https://stuartritchie.substack.com/p/growth-mindset-decline), which has the most recent updates on growth mindset, Dweck went on TED Talks viewed by tens of millions and said:
 

@@ -21,7 +21,7 @@ As a child, when I learned about the high degree of inequality throughout most o
 
 In _[Capital in the 21](https://slatestarcodex.com/2018/06/24/book-review-capital-in-the-twenty-first-century/)__[st](https://slatestarcodex.com/2018/06/24/book-review-capital-in-the-twenty-first-century/)_ _[Century](https://slatestarcodex.com/2018/06/24/book-review-capital-in-the-twenty-first-century/)_, Thomas Piketty provides an answer to the first question, where he describes a natural drive whereby societies will become more and more unequal. This is because those with high amounts of capital will extract substantial income from it. This will, in turn, allow them to acquire more capital, which will then further increase their income. The rate of return on capital (r) is generally high meaning that capital-related income quickly increases. On the other hand, increases in labor-related income (g) occur more slowly and depend on increases in efficiency. Because r > g, the proportion of overall income each year will steadily become more and more skewed towards income derived from capital. Hence, societies will tend to become more unequal if capital gains are left to continuously grow.
 
-![](https://acximages.ennals.org/images/2022-book-reviews/4388ad8b0f9aea54.png) 
+![](https://acximages.ennals.org/images/2022-book-reviews/44d43bc2a0e2ee87.png) 
 
 However, even though r > g is extremely powerful, it carries key shortcomings in the face of guillotines and mobs demanding to eat the rich. Hence, in _Capital and Ideology,_ Piketty attempts to answer the second question and explain the cultural and political reasons behind how inequality was maintained and evolved historically. Further, he tries to paint a picture of how culture and politics evolved over time to arrive at the present state of affairs, where inequality is high but where many people do not see it as their main political and economic concern.  
 
@@ -39,15 +39,15 @@ Overall, Piketty repeatedly makes the argument that this ideology of co-dependen
 
 Nonetheless, from 1500-1800, social mobility would occur and the Ternary structure would break down. During this time in France, _more people were climbing into the nobility_ from the aristocracy; one could buy a noble position, although it was quite expensive. On the eve of the French Rto evolution (1789-1799), many non-nobles were as rich as nobles, and in most cases, those who recently purchased nobility were the richest of all. At the same time, the state was becoming more powerful, collecting more taxes, and better able to provide services. Tax revenue increased substantially in France, to 3% by 1700, then 6% by 1800, and 8% by 1850 (similar trends in England and Prussia). This allowed the state to expand. For example, the state could now properly handle the role of administering justice, a duty taken away from the nobility along with other special privileges given to this class.
 
-![](https://acximages.ennals.org/images/2022-book-reviews/9d02818c38361588.png)
+![](https://acximages.ennals.org/images/2022-book-reviews/729841979651c9d5.png)
 
 The shift away from Ternary society also gave rise to republics, where citizens received voting privileges. However, voting power was limited to the most wealthy few, who would use the state for their benefit. In general, this transition away from a Ternary societal structure had a relatively small impact on inequality. Just before the French revolution, the top 1% owned 52% of French property, while after it would still be at 45%. Further, over the next century, inequality would climb back to the top 1% owning 56%. Regarding the top 10%, they went from owning 82% before the revolution to 80% after but later climbed to 86% before World War I. While this climb is just a few percentage points, the shift from 80% to 86% reflects the richest 10% going from owning 4x as much as everyone else to 6.6x as much as everyone else. Piketty suggests that this rise was fueled by r > g and via the elite control over the state.
 
 Concerning the elite control over domestic affairs, Piketty describes this as a transition from a Ternary society to an “ownership society” where the central state is stronger and where property became sacrosanct. Reading this, the notion that “property became sacrosanct” felt like a meaningless [deepity](https://rationalwiki.org/wiki/Deepity),  although Piketty explains that over this period, the state passed increasing laws with a specific focus on protecting property. For example, in Britain, the Black Act of 1723 stipulated the death penalty for anyone taking wood or hunting game on land that they did not own. The state expanded the court system to handle such violations and others like smuggling, which were expressly property-related. Additionally, alongside the repeal of the Black Act in 1823, the state created new forms of punishment designed for theft (e.g., deporting thieves to Australia), as previously state-run prisons did not exist in any widely-usage form in England or France. Based on examples such as these, Piketty suggests that the ideological bedrock of ownership societies is “a promise of social stability, coupled with individual emancipation through the right of property, supposedly open to all, independent of social and familial origin.”
 
-![](https://acximages.ennals.org/images/2022-book-reviews/3e23e82b0e36fdff.png)
+![](https://acximages.ennals.org/images/2022-book-reviews/092a08860737c9b3.png)
 
-![](https://acximages.ennals.org/images/2022-book-reviews/05c54afc399569d6.png)
+![](https://acximages.ennals.org/images/2022-book-reviews/5e044578f0fb0203.png)
 
 ## 3\. Ownership gone global
 
@@ -57,7 +57,7 @@ The armies also allowed wide-reaching colonial empires. By the end of the 17th c
 
 When reading this book, I was surprised to learn just how, for lack of a better word, globalist the French and English were, even during the 19th century. Even at this time, foreign investments would become a major feature of financial portfolios for the French and English elites. In 1810, French and English elites had relatively little foreign capital (aside from foreign slaves, which I do not think Piketty counted here). However, with the increased rise of colonialism foreign investment would expand rapidly. By 1910, foreign English capital investments were worth 180% of their national, and similar trends are seen in France (for reference, the total national assets summed to roughly 700% of national GDP during most of the 19th century). Of course, investment in foreign capital was predominantly an asset of the richest 1% in particular. In 1912 France, 25% of wealth among the richest 1% of Parisians was in foreign assets. However, interestingly, even among just the top 1.01-10%, 14% of their wealth was in foreign assets, meaning that these foreign opportunities were not just for the wildly wealthy but also the moderately wealthy.
 
-![](https://acximages.ennals.org/images/2022-book-reviews/a98dd27cf159e9fd.png)
+![](https://acximages.ennals.org/images/2022-book-reviews/700c831207a7eb39.png)
 
 As one would expect, these profits were raised at the expense of the colonies, which Piketty spends much time detailing. The wildest example Piketty provides of colonial extraction was from Haiti. Haiti was a major French slave colony with a population of 470,000 slaves by the 1780s. 70% of Haitian output was extracted as French profit and made up 0.5% of the French national income at the time (“0.5%” is my calculation based on other numbers Piketty provided). After revolts, the slaves were emancipated in 1793 and Haiti declared independence in 1804. France would recognize Haitian independence in 1848, although with a threat to invade unless Haiti paid back the lost profits and essentially bought their freedom. This amounted to 150 million Francs or 300% of the total Haitian yearly output at the time (2% of French national income; 40 billion euros today). The debt was financed by French banks, and Haiti would pay an average of 5% of their national income each year towards this debt until the 1950s.
 
@@ -67,7 +67,7 @@ The strong inequality would obviously be determinantal to the poor. Although the
 
 This unrest would be coupled with an expansion of voting rights throughout the 19th century, which would break down the power of the wealthy over the states. In the United States and every major 19th-century European power, voting rights began as minuscule. Only fractions of the population could vote and these tended to be wealthy landowners. This greatly limited any hopes to increase taxation, let alone begin progressive taxation. Voting rights would expand in each of these countries to most of the male population by the end of the 19th century.
 
-![](https://acximages.ennals.org/images/2022-book-reviews/eaafdf708a34c60d.png)
+![](https://acximages.ennals.org/images/2022-book-reviews/af805ffff70d430c.png)
 
 However, Piketty points out two nations whose voting rights trajectories deserve special attention. The first was Sweden. Here, even among the relatively limited size of the voting pool in the latter half of the 19th century, the weight of each person’s vote varied drastically and depended on the amount each voter paid in taxes. From 1865 to 1911, the wealthiest men could cast votes that were worth 54x that of the lowliest voter, and in many towns a single voter. The second interesting case is the United Kingdom. At the beginning of the 19th century, the United Kingdom’s House of Commons election map included several “Pocket boroughs”, which were very small constituencies that, regardless of their size, could elect one or two representatives (out of a total of ~400 for the whole UK). For the 1831 general election, 152 of the representatives were selected by constituencies made up of fewer than 100 voters and, in one extreme case, the Old Sarum borough could elect a representative based on just seven voters.
 
@@ -79,11 +79,11 @@ The increased suffrage and the salient Rich vs. Poor dynamic would set the groun
 
 However, since the 1970s both tax rates dropped precipitously.
 
-![](https://acximages.ennals.org/images/2022-book-reviews/5327783efefe13b3.png)
+![](https://acximages.ennals.org/images/2022-book-reviews/1fd1c70344303159.png)
 
 At the same time, inequality would shift from contracting to expanding. Piketty ends the book by considering why this happened, and how an era of Rich vs. Poor would give rise to the present political climate.
 
-![](https://acximages.ennals.org/images/2022-book-reviews/5c3ea9a98f28a03f.png)
+![](https://acximages.ennals.org/images/2022-book-reviews/19131af3b07d0f6e.png)
 
 ## 5\. Modern culture and inequality
 
@@ -95,7 +95,7 @@ Nonetheless, while nativist tendencies do not require economically conservative 
 
 To a degree, it seems like Piketty is suggesting that these conservative candidates upregulated racism, making it a more salient topic in political discourse. However, this begs the question of why nativist platforms weren’t successful enough before World War II to prevent redistributive legislation. Piketty doesn’t touch much upon this question, but I see a couple of possibilities: 1) wealth-related issues were simply much more important in the past as people were poorer and after the 60s a standard-of-living threshold was crossed making further economic gains less vital, and 2) civil rights progress was very minimal before the 60s, more people were apathetic towards it, and/or neither major party substantially differed from one another. Regardless of these possibilities, examining the voting data of Black Americans seems to show that something nativist was newly emerging. In the 1948 election (Figure 15.7), Black Americans only leaned slightly Democrat (just a 2% swing after controlling for education, income, etc.), although, by the 1972 election, Black people overwhelmingly voted Democrat (50% swing after controlling the same factors).
 
-![](https://acximages.ennals.org/images/2022-book-reviews/d28208638414ca58.png)
+![](https://acximages.ennals.org/images/2022-book-reviews/85dcace35c98b368.png)
 
 Data from other countries on changes in voting patterns among racial minorities are more limited, although, in France, the Muslim swing notably went from 50% leftward swing in 1988 to 80% leftward swing in 1997. Nonetheless, the notion that nativist policies in the United States became a more major political force after the 1960s seems reasonable.
 

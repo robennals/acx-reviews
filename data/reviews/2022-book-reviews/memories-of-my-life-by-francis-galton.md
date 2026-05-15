@@ -100,15 +100,15 @@ I was having coffee with a friend at a café this morning, and our table was wob
 
 Galton does a lot more than fix wobbly tables. For instance, he realizes that we’re cutting round cakes all wrong. Everybody cuts a slice of cake like they’re making a Pac-Man:
 
-![](https://acximages.ennals.org/images/2022-book-reviews/187ff9fc643c2ae9.jpg)
+![](https://acximages.ennals.org/images/2022-book-reviews/e614b3d0dbd87fa6.jpg)
 
 But if you don’t eat all the cake right away, the insides dry out. Instead, you should cut a radial slice out of the middle like this:
 
-![](https://acximages.ennals.org/images/2022-book-reviews/a93990c6f4b1a7b0.jpg)
+![](https://acximages.ennals.org/images/2022-book-reviews/e05c8f4326fec2e3.jpg)
 
 And then push the halves together like this:
 
-![](https://acximages.ennals.org/images/2022-book-reviews/a970b35d05816623.jpg)
+![](https://acximages.ennals.org/images/2022-book-reviews/fa3c5a9ab74bcbc0.jpg)
 
 Thus protecting the moist insides. This was the state of the art until Tupperware, and in Galton’s day, it was enough to get you [published in Nature](https://www.nature.com/articles/075173c0).
 
@@ -198,7 +198,7 @@ If that sounds wild, consider that it’s pretty hard to find any opposition to 
 
 Or maybe even further. You might think something like forced sterilization, one of the nastiest parts of eugenics, fell out of favor after World War II. But forced sterilizations were common in the US [until the 1970s](https://ihpi.umich.edu/news/forced-sterilization-policies-us-targeted-minorities-and-those-disabilities-and-lasted-21st), and California may have been pressuring female prisoners into getting tubal ligations [as recently as 2010](https://www.npr.org/sections/thetwo-way/2013/07/09/200444613/californias-prison-sterilizations-reportedly-echoes-eugenics-era). I can’t find more recent polling data, but it seems like even 30 years ago people thought forced sterilization was fine in at least some cases:
 
-![](https://acximages.ennals.org/images/2022-book-reviews/f7e703aea2560bf5.png)
+![](https://acximages.ennals.org/images/2022-book-reviews/7f61c22fc7709e6a.png)
 
 Some of the questions around eugenics are complicated, but I’ll go out on a limb and say it’s bad for the government to sterilize people.
 

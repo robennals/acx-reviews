@@ -126,13 +126,13 @@ plt.show()
 
 Something like this allowed me to follow along in the book via Spyder instead of via IPython or Jupiter and get nice plots in the Plots tab. If you can get it to print in Syder, you can save with a right-click on the plot. Much of the content about plotting in chapter 26 was covered in other places of the book already so it could have been combined with 25 and reduced to just new stuff. Chapters 27 and 28 do a lot of plotting and work in some good practice of NumPy. I liked how it got me thinking about different ways to display data and even some short-cuts if you need to bin data with NumPy histogram functions. Chapter 29 and 30 covers legends color bars respectively and both could have been consolidated into other places. Still, some pretty neat examples. Chapter 31 seems to have secret sauce parameters for subplot() to get it to look correct and might be worth a bookmark or a personally saved example. The book has good call-outs where indexing gets weird for subplots and interesting NumPy return types. Whenever the author says “I usually use this for…” it seems like a really nice example follows. Maybe saving these with very descriptive names would be good for lookup later. Chapter 32 has a number of good labeling examples and a general recommendation of which function to use and which not to. Chapter 33 covers tick marks and I am guessing I will have to look this up on the rare occasion where deviating from the default is necessary. Chapter 34 covers customizing the look of the plots, but I would have liked more focus on Seaborn instead. Chapter 35 moves to 3d plotting which had some neat visualizations, but was a bit too function driven and not enough data analysis driven for my taste (I would have liked data set examples instead). If you want nice, easy figures and quick data analysis, Chapter 36 supplies those. If you only have time to cover one graphing chapter, this is the one.
 
-![](https://acximages.ennals.org/images/2023-book-reviews/2378ed89f69d4b0e.png)
+![](https://acximages.ennals.org/images/2023-book-reviews/78a0f1c829ea1f81.png)
 
 Part V - Machine Learning
 
 The introduction and chapters 37 and 38 go into machine learning fairly quickly at a nice pace for someone that already knows some Python and a little about ML. It has a nice overview of the approach that SciKitLearn takes that often seems to get skipped in on-line descriptions. Good, classic ML examples are included. Chapter 39 is a good discussion of model complexity and data size trade-offs with examples of how to test that with SciKitLearn. One missed opportunity here might have been to point out the benefits of choosing the simpler model when there is either not much accuracy gained or a simpler model is more explainable. If I read the example code for this part correctly, there is not a robust holdout and the underlying generation of the data is second degree.
 
-![](https://acximages.ennals.org/images/2023-book-reviews/2f84ed5f07550e67.png)
+![](https://acximages.ennals.org/images/2023-book-reviews/7e342637989e9c65.png)
 
 So the gain of higher degree fits is false and just a random noise fit from degrees 3-20. Each degree of freedom in your research project needs another holdout (test) set. The theory covered seems sound though and maybe I missed something in the example. Chapter 40 covers feature engineering and pipelines. It might also be consolidated into other chapters, but good to cover (maybe best combined with chapter 50?).
 
@@ -229,7 +229,7 @@ print("Took", (TF-TS), "seconds")
 
 This assumes 100 bets in a row, averages 100 rounds and takes ~1.2 seconds.
 
-![](https://acximages.ennals.org/images/2023-book-reviews/4534277af7cc9995.png)
+![](https://acximages.ennals.org/images/2023-book-reviews/d6523b480fe4cfa3.png)
 
 I found I could not really convert this to NumPy nicely, but this was my attempt:
 
@@ -299,11 +299,11 @@ print("Took", (TF-TS), "seconds")
 
 This only pulls the random number generation outside the inner loop, uses the NumPy generator and runs all the inner, percent bets on the same draws. It actually runs longer, at about 3.5 seconds.
 
-![](https://acximages.ennals.org/images/2023-book-reviews/e53baa60a09eb34a.png)
+![](https://acximages.ennals.org/images/2023-book-reviews/f10f92b1e85d0e00.png)
 
 Then for completeness, here are 1000 bets in a row using the first method.
 
-![](https://acximages.ennals.org/images/2023-book-reviews/f82e4b10a3539266.png)
+![](https://acximages.ennals.org/images/2023-book-reviews/a8339fecb32ca237.png)
 
 You can start to see where the 50% amount referred to in the Kelly Bets on Civilization article comes from. The very large integers also seem to start messing with the axis labels. Searching a bit seems to say there are Markov Chain tools I could use to make this go faster (and maybe use floats), but at least it’s trending towards the same number given in the post. I could only find about 20% of what I needed to work through this in the book. It did provide the base I was building on and it helps to have some of the terminology before searching.
 
@@ -324,17 +324,17 @@ Again the book covered how to fix about 20% of this, but I stopped looking for t
 
 Next I noticed the “Profession” question and figured that it would be good to estimate how many readers might be interested in a review of a Python book. I was hoping I could just get a histogram of the professions and eyeball how many might have some Python users. You can get one pretty much straight from the book, but it took about five more searches to fix various things to make it look reasonable enough to include.
 
-![](https://acximages.ennals.org/images/2023-book-reviews/ce9db39a36af7501.png)
+![](https://acximages.ennals.org/images/2023-book-reviews/86a61feb94d9ebde.png)
 
 About 40% of responders work in something to do with computers (three categories) and lots of representation in other categories that might use Python, so that’s a good sign.
 
 Finally, since we fixed the ages, maybe we should try a linear regression vs. age on something. The ACX post that showed up while I was finishing this was [Why Do Transgender People Report Hypermobile Joints?](https://astralcodexten.substack.com/p/why-do-transgender-people-report) In the comments, there was some speculation that younger people might know about and report hypermobile joints or Ehlers-Danlos syndrome more and older folks might just call it being double-jointed. If so, the percent of those saying “No” to the ACX survey question about this should go up with age.
 
-![](https://acximages.ennals.org/images/2023-book-reviews/50cf49ae2636eb93.png)
+![](https://acximages.ennals.org/images/2023-book-reviews/0af50a7fe7c52bc8.png)
 
 This would seem to lend some support, although the age bins are not balanced so we are violating the linear regression rules a bit.
 
-![](https://acximages.ennals.org/images/2023-book-reviews/be1df6ab4da84a4b.png)
+![](https://acximages.ennals.org/images/2023-book-reviews/da3fdcc44d78bf0e.png)
 
 If we tossed the <=15 and 75-80 groups it would be a stronger argument, but probably wouldn’t change the line much.
 

@@ -54,7 +54,7 @@ In all of these cases, when something goes wrong, it's hard to figure out what h
 
 Perrow maps a couple dozen industries on this matrix. Dams are very tightly coupled – once a dam has a significant leak, it's almost impossible to stop, and everything downstream will quickly be ruined – but they’re highly linear; it’s clear how they’re supposed to work, and accidents are usually the result of unheeded warnings or sloppy behavior. Universities are nonlinear – good luck figuring out what effect the president's new directive will have when the deans might disagree with the president, the faculty might disagree with the dean, and the students might disagree with everybody – but they’re loosely coupled because everything takes forever.
 
-![](https://acximages.ennals.org/images/2024-book-reviews/008b6b9bd98b5db8.png)
+![](https://acximages.ennals.org/images/2024-book-reviews/01ffcdacb6b19939.png)
 
 What can you do if you’re in the top right – a nonlinear, tightly coupled system? Traditionally, to prevent accidents you add safety features: an alarm that tells you something is wrong, a button for someone to stop it, or a machine to fix things automatically. These won't prevent the initial failure, but they'll stop it from spreading to the larger system.
 

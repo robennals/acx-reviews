@@ -27,7 +27,7 @@ Numbers that describe the growth of the Chinese economy are eye-popping. (The Pa
 
 First off, McGregor clarifies the system of government in China (as much as he can). There are courts, cabinets, and governments at each level: city, province, federal. But these are subordinate to the party committees at the corresponding level. So, the real chain of power would look something like this:
 
- ![](https://acximages.ennals.org/images/2022-book-reviews/686b57864b92fb88.jpg)
+ ![](https://acximages.ennals.org/images/2022-book-reviews/7b4884913be0018e.jpg)
 
 In this diagram, the solid lines are real reporting lines. (i.e. The mayor is officially answerable to the governor.) And the dotted lines are part of the Party system. The Mayor unofficially reports to the Secretary of the City Party Committee. Ultimately, its existence is not something which can be proved through documents or journalistic reporting. McGregor's claim that this line exists is based on his experiences in China. Throughout the book, he gives many examples that reinforce his point that the dotted line exists and takes precedence over the solid line. (One of my complaints with the book is the way in which McGregor assumes the existence of this line in some parts of the book, instead of trying to prove otherwise and having to resort to its existence despite his best efforts.)
 
@@ -93,7 +93,7 @@ This part of the book was the most revelatory for me. It is clear to me that off
 
 A large part of China's economic growth has come from the _right_ amount of decentralisation. What is that right amount? There is no answer to this question. There does seem to be a "tolerable" level of decentralisation though, because the government in Beijing is stuck in a policy cycle with alternating periods of centralization and decentralisation. This diagram illustrates the cycle.
 
- ![](https://acximages.ennals.org/images/2022-book-reviews/213cf12a862236da.jpg)
+ ![](https://acximages.ennals.org/images/2022-book-reviews/2787c41f6f92f87c.jpg)
 
 McGregor says that local and regional governments will tow the Party line when it comes to political campaigns (such as those relating to propaganda or ideology). As for economic policy, local governments will pick what they believe will work for their region and implement only those. This disobedience is corrosive even for Beijing because it lives on as a reflection of the Party's incomplete control over China's economy. However, it is also beneficial for Beijing because freedom to steward each region's economy in a different direction is the only way to deliver growth in a country as large and diverse as China. Each economic region has different characteristics and Central Planning was proven to be a failure.
 

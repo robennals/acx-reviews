@@ -60,7 +60,7 @@ Another major aspect of interaction with this unjust world of ours is dialogue. 
 
 > _Inquisitor: Just… thinking. Thinking of how similar people's fates turn out. We've had so many bright stars of talent rise recently, you know. Almost all of them tried to single-handedly break the laws of history, nature,_ _morality__. And all threaded such identical paths!_
 
-That means you can never skip the dialogue or zone out during it. And even though it has its moments, as a rule it’s not trying to be light, entertaining or funny. It’s written in this unnatural theatrical way that makes reading it an intellectual exercise rather than something you’d do for fun. ![](https://acximages.ennals.org/images/2025-non-book-reviews/4ac3a3cac3b4790c.jpg)
+That means you can never skip the dialogue or zone out during it. And even though it has its moments, as a rule it’s not trying to be light, entertaining or funny. It’s written in this unnatural theatrical way that makes reading it an intellectual exercise rather than something you’d do for fun. ![](https://acximages.ennals.org/images/2025-non-book-reviews/0a45b1cf3beca28c.jpg)
 
 And all of its exercises Pathologic makes as unavoidable as possible. In fact, the game doesn’t have any difficulty settings. It is like this by design. This is no power fantasy. This is Disempowerment Realism. No matter what position you occupy, whether you are an important spiritual leader with special destiny, a famous scientist with emergency powers granted, or a literal saint with khilling touch – you can’t escape the brutal reality of what it’s actually like to try and save the world, be that surviving on bread crumbs and lemon slices or listening politely to horrible people.
 

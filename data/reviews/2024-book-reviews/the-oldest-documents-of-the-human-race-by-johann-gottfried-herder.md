@@ -190,7 +190,7 @@ The situation he describes is pretty simple: we live in a world in which force p
 
 Suddenly, everyone is obsessed with the idea that, damn, it sure does look like everything that happens is just the result of Force Prevailing. The follow-up is obvious: “But wait - are we stuck in the predicament? Will everything always just be force all the way down? How and when will _right prevail_?”
 
-![](https://acximages.ennals.org/images/2024-book-reviews/71fbcb58c1c9f4d0.png)![](https://acximages.ennals.org/images/2024-book-reviews/a82fdde25f422d42.png)![](https://acximages.ennals.org/images/2024-book-reviews/65a5c3331a13ff8d.png)
+![](https://acximages.ennals.org/images/2024-book-reviews/71fbcb58c1c9f4d0.png)![](https://acximages.ennals.org/images/2024-book-reviews/13452809e24f95a2.png)![](https://acximages.ennals.org/images/2024-book-reviews/65a5c3331a13ff8d.png)
 
 _The equity of these outcomes may  be debatable, but they’re all undeniably the result of Force Prevailing_.
 
@@ -300,9 +300,9 @@ _**Epilogue II. The Oldest Documents in the age of Deep Learning**_
 
 We all know that _2001: A Space Odyssey_ was woefully wrong in its predictions of humanity’s future. An unexpected outcome of the deep learning revolution is to invalidate that film’s vision of our past, too.
 
-![](https://acximages.ennals.org/images/2024-book-reviews/fb3bb0b136a89e11.png)                                        ![](https://acximages.ennals.org/images/2024-book-reviews/19b1f97d3ce4431e.png)
+![](https://acximages.ennals.org/images/2024-book-reviews/b8c5d4536228f75d.png)                                        ![](https://acximages.ennals.org/images/2024-book-reviews/a2a33c7c1a4384f5.png)
 
-![](https://acximages.ennals.org/images/2024-book-reviews/97c943cddb09dffd.png)![](https://acximages.ennals.org/images/2024-book-reviews/9fefabbfe34fc373.png)
+![](https://acximages.ennals.org/images/2024-book-reviews/97c943cddb09dffd.png)![](https://acximages.ennals.org/images/2024-book-reviews/c0b85b7beb27e35a.png)
 
 There is no monolith. If AI can do it, we can do it too - human ingenuity is looking more and more like statistics and associative learning all the way down. There is no divine message to recover. Adam’s story has no special sauce. Anything and anyone can learn, anywhere.
 

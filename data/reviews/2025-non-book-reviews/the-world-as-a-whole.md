@@ -142,7 +142,7 @@ It almost is impossible, anyway, but the use of stock roles and personality arch
 
 This pronounced art of role performance was nowhere more clear than in the large friend groups I’d observe among my students: the kids, to a much greater degree than in America, engaged in a kind of social division of labor, meaning that one kid got to be the smooth, cool one, another the wacky, fat one, an another the quiet, athletic one, and so and so forth down the list of stock student stereotypes. It’s hard to convey how comically pronounced this was, when we Americans might look back and think we also fell into these roles in high school, and even now. But In Japan, there is overwhelming pressure to be _one_ thing, or two things at most (for example, an attractive engineer, or a stern teacher) in your public life, and therefore the kids are from an early age learning to perform these limited roles and personality types.
 
-![](https://acximages.ennals.org/images/2025-non-book-reviews/98f5673914eadab5.jpg)
+![](https://acximages.ennals.org/images/2025-non-book-reviews/d9a21fada6d1fcd8.jpg)
 
 _Anime exaggerates an underlying reality, just as American high school films do–the difference is that in Japan, the reality is exaggerated to begin with._
 
@@ -226,7 +226,7 @@ All of them, wherever I’ve lived, have been lost. In the US, we were lost in a
 
 It’s strange that this heroic-gangster subculture has stepped forward almost everywhere: even in Asia, the gangster is beginning to be worshipped, even if the role and its imagery are only shallowly acted out by K-pop stars who have never sniffed a drug or fired a weapon outside of their two-year conscription. Half of my time as a teacher was spent trying to get kids to stop larping as gangsters, because I’d done it myself, and as soon as a larping kid gets access to the proper props, it ceases to be larping and becomes what it had long only yearned to be: a romantic war against the established order, in the name of personal pleasure and achievement. Nowhere, not even rural Japan, seems to be able to escape the pull of it, and this frightens me because the only solutions I’ve seen, not believed in, but actually_seen_ work are the bogging down of children in endless, regimented extracurricular activities, or the total buy in of a two-parent household into a set of strict cultural customs, whether they be Christian, Shinto, Mormon, or otherwise. This then leaves the rest of the young people (75% or more, I’d estimate) who are by default edgelords, unserious Christians, iPad kids, psych med-takers, or bog-standard faces in the halls to mine the social media algorithms for what is most in opposition to the listlessness and malaise they feel, because, at the end of the day, they are trapped. And the trapped want to tunnel out, any way they can, and their screens are tunnels to the rest of the world, above all else.
 
-![](https://acximages.ennals.org/images/2025-non-book-reviews/3679ab349181e025.png)
+![](https://acximages.ennals.org/images/2025-non-book-reviews/a6e1a0a20fd6d115.png)
 
 _But like most bad things in life, it comes down to people wanting to be high status in_ _precisely_ _the same way that people who are already high status, are high status._
 

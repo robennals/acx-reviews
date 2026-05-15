@@ -174,6 +174,6 @@ Naturally this recognition can go too far the other way into seeing it everywher
 
 I’m extremely glad for the existence of _Why Does He Do That?_, and grateful to Bancroft for laying so much groundwork in this area, then leaving us such a meticulous guide to what he found there and how to go forward. For its intended audience at the time of release, this would have been an invaluable and unparalleled resource. Some parts of it have certainly declined in usefulness, or been rendered into cliche, between that time and now. But there is a lot still relevant and worth examining, and a solid set of tools for dealing with a problem that remains as yet rampant. It’s worth mentioning that every search I did for this book turned up new people saying it helped them identify their abusers and get their lives back from them; not many books can claim to have done so much good for so many people in such a vulnerable situation. Maybe a genuine and widespread understanding of the principles laid out in it would still have the power to effect notable societal change for the better. In the meantime, I can report outstanding results using it to figure out why pretending to be a gnome for four hours a week was getting less fun.
 
-![](https://acximages.ennals.org/images/2023-book-reviews/8e44127e2ecb9057.png)
+![](https://acximages.ennals.org/images/2023-book-reviews/4b54cfdaba6037d2.png)
 
 * * *

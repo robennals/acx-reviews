@@ -40,7 +40,7 @@ Main topics here are the primacy of the genetic code over individuals (think _se
 
 The discoverer of the selfish gene
 
-![](https://acximages.ennals.org/images/2024-book-reviews/66132262529cc621.png)
+![](https://acximages.ennals.org/images/2024-book-reviews/966981c1a1b3b160.png)
 
 The discoverer of the meme
 

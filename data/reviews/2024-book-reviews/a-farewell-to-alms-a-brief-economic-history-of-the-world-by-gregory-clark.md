@@ -22,7 +22,7 @@ The Fermi paradox is well known for its existential nature: Why—despite all th
 
 Breaking this question down into parts gets us the Drake equation we get an estimate of the total number of communicable civilizations, N:
 
-![](https://acximages.ennals.org/images/2024-book-reviews/3595f5c7036b8764.png)
+![](https://acximages.ennals.org/images/2024-book-reviews/643bce58c3349728.png)
 
  Where:
 
@@ -42,7 +42,7 @@ The last one, L, or the longevity of a contactable civilization also seems like 
 
 Now Earth is just barely detectable/contactable, we, in the past ~100 have only just become delectable and we're not quite contactable yet (Messages in space need a couple of orders of magnitude more time) but if we do, say survive 10,000 years it's hard to imagine not surviving a lot longer—to exist for a meaningful percentage of our galaxy's present lifetime. (as opposed to our current 0.000...001% existence )
 
-![](https://acximages.ennals.org/images/2024-book-reviews/dab3b30a3efe6444.png)
+![](https://acximages.ennals.org/images/2024-book-reviews/413691eccf5210ef.png)
 
 So that leaves us with the three hardest parameters: life, intelligence, and civilization.
 

@@ -79,7 +79,7 @@ The fourth nobleman was asked to retrieve the Buddha's begging bowl but instead 
 
 His attempt fails because Kaguya's mother interferes in time, putting an unattractive servant in her place just before the nobleman pulls back the curtain. However, Wikipedia's plot summary claims that she was about to accept, and while I don't know how the author knows this for sure, it doesn't seem implausible. At the point where I've put the [x], Kaguya is seen shedding tears.
 
-![](https://acximages.ennals.org/images/2025-non-book-reviews/9bb02f4cb4988498.png)
+![](https://acximages.ennals.org/images/2025-non-book-reviews/448055f54721e80a.png)
 
 Might she have been genuinely happy if her mother hadn't stepped in? Kaguya never talks about the incident, but her mother says this immediately after:
 
@@ -370,7 +370,7 @@ There's just one last point I want to make about this principle. Within fiction 
 
 In the real world, this usually won't be the case. In the real world, failure to do the Genuinely Hard Thing is unlikely to be Death, physical harm, or public humiliation. It is much more likely to look like this:
 
-![](https://acximages.ennals.org/images/2025-non-book-reviews/5c3025920812c464.png)
+![](https://acximages.ennals.org/images/2025-non-book-reviews/39dbd1505f972497.png)
 
 That is, it’s most likely to be invisible. Most Genuinely Hard things are opportunities to radically change something, and failure to do this will just look like you going about your regular life, doing regular things, without a sign that anything significant has changed or happened.
 
@@ -380,7 +380,7 @@ In the brief time when she is still on Earth but knows what is coming, Kaguya ex
 
 > _What have I been doing here in this land? Throwing tantrums because I didn't want to  belong to anyone... ignoring what you want from me, and fooling myself with tiny fake meadows and mountains._
 
-![](https://acximages.ennals.org/images/2025-non-book-reviews/1505086501f859ae.png)
+![](https://acximages.ennals.org/images/2025-non-book-reviews/6a8115ad3af2642e.png)
 
  _Only now, when I'm forced to go back to the Moon, do I finally remember why I came here._[15]
 

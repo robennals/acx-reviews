@@ -44,7 +44,7 @@ The ideas of AI Safety have made their way out there. Many people that are into 
 
 But the increased promulgation of the idea of transformational AI also caught the eye of some powerful and rich people, who proceeded to found OpenAI. Most people of a Yudkowskian bent consider this to be a major "own goal": although it's good to have one of the world's leading AI labs be a sort-of-non-profit that openly says that [they care about AI Safety](https://openai.com/blog/planning-for-agi-and-beyond), they've also created a race to AGI, accelerating AI timelines like never before.
 
-![](https://acximages.ennals.org/images/2023-book-reviews/a0c46037efddb8ee.png)
+![](https://acximages.ennals.org/images/2023-book-reviews/495f48e8996450eb.png)
 
 _[https://twitter.com/ESYudkowsky/status/1446562238848847877](https://twitter.com/ESYudkowsky/status/1446562238848847877)_ 
 
@@ -120,7 +120,7 @@ But I'll give you a taste of some of what's inside.
 
 * * *
 
-![](https://acximages.ennals.org/images/2023-book-reviews/6858500a7beacc12.png)
+![](https://acximages.ennals.org/images/2023-book-reviews/780f38bc8477862a.png)
 
 He talks to neuroscientists from NYU about how people end up with different beliefs in the first place. The neuroscientists tie it back to "[The Dress](https://en.wikipedia.org/wiki/The_dress)", pictured above. Is it blue and black, or is it white and gold? There's a boring factual answer to that question which is "it's blue and black in real life", but the more interesting question is why did people disagree on the colors in the picture in the first place?
 
@@ -228,7 +228,7 @@ I know Yudkowsky doesn't necessarily endorse everything his fictional characters
 
 It's not just his fiction. Recently he went on what he thought was a low-stakes crypto podcast and was _surprised_ that the hosts wanted to actually hear him out when he said we were all going to die soon:
 
-![](https://acximages.ennals.org/images/2023-book-reviews/9c00e2a419482ca4.png)
+![](https://acximages.ennals.org/images/2023-book-reviews/8740b2effba707d2.png)
 
 _[https://twitter.com/ESYudkowsky/status/1632140760828235777](https://twitter.com/ESYudkowsky/status/1632140760828235777)_ 
 

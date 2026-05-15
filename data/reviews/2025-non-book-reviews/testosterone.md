@@ -150,7 +150,7 @@ From Patel, et al. _[Testosterone Is a Contraceptive and Should Not Be Used in M
 
 If you’re worried about fertility and want to preserve it while on T, the two ways to do so are by using HCG⁵ whenever you’re on anabolics (which ensures your endogenous production of testosterone never stops), or by cycling on and off for roughly equal 10-12 week time blocks and doing Post Cycle Therapy (PCT), where you take tamoxifen or clomid for several weeks to restart your HPG axis (this is typically done at “steroid level” doses and is called “blasting and cruising.”)
 
-![](https://acximages.ennals.org/images/2025-non-book-reviews/8fe5fdfb26c7b805.jpg)
+![](https://acximages.ennals.org/images/2025-non-book-reviews/24c5c24162f7a771.jpg)
 
 “Dr. Scully’s PCT Protocol: Human chorionic gonadotropin (hCG) is taken at 2000IU every other day for 20 days. Clomiphene citrate 50 mg is taken twice per day for 30 days. Tamoxifen citrate is taken 20 mg twice per day for 45 days.”
 
@@ -337,7 +337,7 @@ Doing testosterone (TRT or higher) over a long enough period does suppress your 
 
 Generally with no further interventions, your body will recover over a couple of months:
 
-![](https://acximages.ennals.org/images/2025-non-book-reviews/cb4ef0fbd0e295d7.jpg)
+![](https://acximages.ennals.org/images/2025-non-book-reviews/9ddb28097a607150.jpg)
 
 Alternatively, you can do Post Cycle Therapy using clomid or nolvadex, and shorten this to 1-1.5 months (you can find a PCT protocol in the fertility section).
 

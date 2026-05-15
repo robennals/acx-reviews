@@ -25,7 +25,7 @@ The book focuses on our narrating, unnamed aviator who crashes right in the midd
 
 Our hero makes keen observations on the nature of adults. One portrait drawn by the pilot as a child appears as a hat to the grown-ups. It’s actually a picture of an elephant being digested by a boa constrictor, correctly identified by the prince.
 
-![](https://acximages.ennals.org/images/2023-book-reviews/b7404fe80fb31534.jpg)
+![](https://acximages.ennals.org/images/2023-book-reviews/cc6affc45c0f0c83.jpg)
 
 The book is short and sweet taking less than 2 hours for the median reader to complete. It chronicles the little prince’s journey across the planets and stars toward Earth. Heartbroken by a vain rose, who was prideful, pretentious, and caused a deep strain on him. He was tired, distanced, and felt under her control. Deciding to leave the tiny asteroid he called home, he came to explore the rest of the vast, awe-inspiring, and mysterious universe.
 

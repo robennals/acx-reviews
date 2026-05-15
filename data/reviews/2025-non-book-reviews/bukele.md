@@ -24,7 +24,7 @@ Close your eyes and imagine this:
 
 Open your eyes: Meet the world’s ‘Coolest Dictator’, Bukele of El Salvador.
 
-![](https://acximages.ennals.org/images/2025-non-book-reviews/5fc194d738f44aed.png)_  
+![](https://acximages.ennals.org/images/2025-non-book-reviews/b0a511804ae83f42.png)_  
 Bukele at a surf contest in May 2021. Courtesy of Marvin Recinos / AFP  
 __[https://elcomercio.pe/mundo/centroamerica/nayib-bukele-los-dos-anos-del-presidente-de-el-salvador-en-el-poder-apoyo-popular-y-reproche-internacional-noticia/](https://elcomercio.pe/mundo/centroamerica/nayib-bukele-los-dos-anos-del-presidente-de-el-salvador-en-el-poder-apoyo-popular-y-reproche-internacional-noticia/)_ 
 
@@ -92,7 +92,7 @@ A ‘dictator’ was, originally, a position in the Roman Republic: A man who su
 
 The war was internal, against the gangs.
 
-![](https://acximages.ennals.org/images/2025-non-book-reviews/447cbc376f3a76c9.png)_Pictured: Mejicanos Massacre, 2010. credit: BBC.  
+![](https://acximages.ennals.org/images/2025-non-book-reviews/d066ef4fbbbdc1f1.png)_Pictured: Mejicanos Massacre, 2010. credit: BBC.  
 __[https://www.bbc.com/mundo/noticias-america-latina-53074759](https://www.bbc.com/mundo/noticias-america-latina-53074759)_ 
 
 ## II. EL SALVADOR’S BACKGROUND.

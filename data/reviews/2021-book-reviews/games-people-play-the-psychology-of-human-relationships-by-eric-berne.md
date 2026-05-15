@@ -57,11 +57,11 @@ To understand people, you need to understand their ego states. To understand ego
   
 A stroke is a basic unit of conversational stimulus. Saying “Hi!” to someone is a stroke. Every stroke goes from one ego state to another.
 
-![](https://acximages.ennals.org/images/2021-book-reviews/cb4a2239bd9d5386.jpg)
+![](https://acximages.ennals.org/images/2021-book-reviews/6182bfee93826ed0.jpg)
 
 Multiple strokes together make up a transaction: a conversation between people.
 
-![](https://acximages.ennals.org/images/2021-book-reviews/405a147866414a47.jpg)
+![](https://acximages.ennals.org/images/2021-book-reviews/4ba99db680c53b45.jpg)
 
 Like we need food to stay physically healthy, Berne claims we need strokes to stay emotionally healthy. For example, a movie actor may require hundreds of strokes each week from anonymous and undifferentiated admirers to keep himself going, while a scientist may keep physically and mentally healthy on one stroke a year from a respected master.
 
@@ -69,11 +69,11 @@ Now things get interesting. Every stroke expects a complementary stroke. Communi
 
 For example, consider a fevered child asking for water.
 
-![](https://acximages.ennals.org/images/2021-book-reviews/90b7e0a1e3bea3b4.jpg)
+![](https://acximages.ennals.org/images/2021-book-reviews/d81b8623e0482606.jpg)
 
 However, if you’re sending a stroke to someone’s Child state, and their Adult responds, conversation would break. This is a crossed transaction.
 
-![](https://acximages.ennals.org/images/2021-book-reviews/7660a387bef200ab.jpg)
+![](https://acximages.ennals.org/images/2021-book-reviews/4a7d482c2286f2a4.jpg)
 
 That’s all we need to dive into games. There’s more in the book, but I’ve covered all the main points.
 
@@ -96,7 +96,7 @@ Now, for a few games. Meet Brad and Angelina, they’ll be our players throughou
 
 ## Game - Examples
 
-![](https://acximages.ennals.org/images/2021-book-reviews/fcb0d6c10ce1738c.jpg)
+![](https://acximages.ennals.org/images/2021-book-reviews/5a10d952bc561014.jpg)
 
 ### I’m only trying to help
 
@@ -208,7 +208,7 @@ An interesting property of the game is how flexible the roles are: people in one
 
 ### Schlemiel
 
-![](https://acximages.ennals.org/images/2021-book-reviews/c72fb20349737936.png)
+![](https://acximages.ennals.org/images/2021-book-reviews/62dd1a514e3c6c01.png)
 
 Schlemiel is very similar to the Alcoholic. Instead of getting drunk himself, in this game Brad creates a mess out of things, like intentionally breaking things, or destroying carpets at a party, and then seeking forgiveness from the host.
 

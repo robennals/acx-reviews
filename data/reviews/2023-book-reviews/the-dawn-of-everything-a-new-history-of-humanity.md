@@ -204,19 +204,19 @@ _— Someone in WWII, probably_
 
 So far the story goes something like this. The Davids show you some evidence, and ask you to connect the dots:
 
-![](https://acximages.ennals.org/images/2023-book-reviews/1f296adf47d59e30.jpg)
+![](https://acximages.ennals.org/images/2023-book-reviews/1d62de3aae6ed3db.jpg)
 
 We see some appealing but unconvincing attempts from our friends Hobbes and Rousseau:
 
-![](https://acximages.ennals.org/images/2023-book-reviews/03751fbe8b82bb44.jpg)
+![](https://acximages.ennals.org/images/2023-book-reviews/ca629543d0b2439d.jpg)
 
 They just didn’t quite fit all the data, so maybe you take a stab yourself:
 
-![](https://acximages.ennals.org/images/2023-book-reviews/eb4cb8da5e471268.jpg)
+![](https://acximages.ennals.org/images/2023-book-reviews/82741995cfd4d284.jpg)
 
 And you’re feeling pretty good because you succeeded where the Enlightenment philosophers failed, until the Davids came along to ridicule your model. “Not quirky enough!” they scold. Then they reveal their own method of connecting the dots:
 
-![](https://acximages.ennals.org/images/2023-book-reviews/e80738bb4d29c735.jpg)
+![](https://acximages.ennals.org/images/2023-book-reviews/07881b50f3a5617b.jpg)
 
 For all the ink these guys spill on the contributions of esoteric knowledge to empire building and state formation, you sure do get the impression that they are gatekeeping some esoteric knowledge. Despite the book’s length, the Davids cover so much content that you rarely feel comfortable with any particular society or body of evidence before the topic changes. This constant whiplash leaves you suspecting the authors have selectively curated the evidence to support their stylized narrative.
 

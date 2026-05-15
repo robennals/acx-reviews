@@ -18,7 +18,7 @@ tags:
 
 Technology has a number of impressive stories of progress but few rival the story of solar photovoltaics (PV). From costing $300,000 for a mWh in 1957 costs have fallen on average 14% a year leading to current costs in sunny places to be as low as $17 per mWh, or in other words the world’s cheapest electricity.
 
-![](https://acximages.ennals.org/images/2022-book-reviews/7eae53065b6e6edd.png)
+![](https://acximages.ennals.org/images/2022-book-reviews/1d7173a2f9989b30.png)
 
 Solar has achieved this despite competing in maybe the most commoditized market in the world, electricity, and when it started its costs were far far above those of its competition like oil or coal.
 
@@ -38,7 +38,7 @@ If I was to summarise the main components in a, somewhat long, sentence it would
 
 The book has two main lists covering spelling out a number of factors that helped in this process. One covers the main drivers of how solar became cheap and the other covers things that could accelerate technologies like solar. We won't look at all the points on either list but I thought it would be unfair not to at least include them in full so here they are below:
 
-![](https://acximages.ennals.org/images/2022-book-reviews/e695571ffb4347f8.png)
+![](https://acximages.ennals.org/images/2022-book-reviews/e6ff721f2cff2232.png)
 
 I'm going to focus on a few of the aspects the book touches on in this summary rather than take you through the same kind of chronological story it presents. Instead, I'm going to roughly separate things out into the role of technology, the role of governments, and the role of markets.
 

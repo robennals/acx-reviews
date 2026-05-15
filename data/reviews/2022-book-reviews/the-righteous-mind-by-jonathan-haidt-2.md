@@ -159,7 +159,7 @@ It’s hard for me to assess this claim for the same reason that it’s always h
 
 An interesting finding about these foundations is that they vary between liberals and conservatives (these terms are just used to mean left wing and right wing). Liberals are strongly activated by the care/harm foundation (helping the oppressed) and fairness foundation (as equality, as in “Racial Justice” etc.). But they are only weakly activated by the others. Conservatives are about equally activated by all five foundations. Here’s a graph.
 
-![](https://acximages.ennals.org/images/2022-book-reviews/0787593c1e662b4f.png)
+![](https://acximages.ennals.org/images/2022-book-reviews/8c8b4a7deda77d0f.png)
 
 _Questionnaire responses from 132,000 subjects, in 2011._
 

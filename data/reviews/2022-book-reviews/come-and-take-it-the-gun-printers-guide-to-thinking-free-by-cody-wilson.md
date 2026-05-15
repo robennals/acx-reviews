@@ -200,7 +200,7 @@ Wilson talks about his book deal in a 2014 [interview](https://www.youtube.com/w
 
 Extremely pretentious, hopefully a good story. I can’t think of a better review than that.
 
-![](https://acximages.ennals.org/images/2022-book-reviews/1b63c540b1b1ff75.png)
+![](https://acximages.ennals.org/images/2022-book-reviews/546fd276c7704b21.png)
 
 [1] In the e-book version, you can still read the censored text by highlighting it.
 

@@ -51,7 +51,7 @@ My first thought was "million times then ENIAC does not seem like a very high ba
 
 Then, a few weeks later I saw this on the front page of Hacker News:
 
-![](https://acximages.ennals.org/images/2022-book-reviews/4dc3b60d5e117ca7.png)
+![](https://acximages.ennals.org/images/2022-book-reviews/0af45c0f9331e224.png)
 
 I understand that the idea of optical computing dates back a long time, it was just funny to see a real example of an optical supercomputer right after setting out to review a book about fictional optical supercomputers.
 

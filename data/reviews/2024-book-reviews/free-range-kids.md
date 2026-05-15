@@ -20,7 +20,7 @@ In 2008, journalist Lenore Skenazy let her 9-year-old son take the subway by him
 
 Skenazy's experience when she wrote about letting her son ride the subway illustrates that something has changed in American parenting. In the mid-twentieth century, for example, it was not national news when 9 year old children used the New York subway by themselves. Surveys confirm that American parents are parenting much more intensively than they were in the mid-twentieth century:
 
-![](https://acximages.ennals.org/images/2024-book-reviews/4bb8bc651246fa87.png)
+![](https://acximages.ennals.org/images/2024-book-reviews/2a4d10a6b07f0aba.png)
 
 From: [Pew Research Center](https://www.pewresearch.org/social-trends/2013/03/14/chapter-5-americans-time-at-paid-work-housework-child-care-1965-to-2011/)
 
@@ -40,7 +40,7 @@ The premium on safety in richer times and places isn’t just arbitrary cultural
 
 Jones’s theory predicts that, as the economy grows, a larger and larger proportion of it will be devoted to products and services intended to keep people safe (doctor’s office visits, bicycle helmets, car seats, etc.). This, Jones argued in [another paper](http://web.stanford.edu/~chadj/HallJones2007.pdf), helps to explain the growth of the healthcare sector as a fraction of the American economy. More direct tests of Jones’s theory are also available. The value of a statistical life (VSL) represents the amount of money that a given group of people would be willing to pay to avoid a marginal increase in their risk of death. The Environmental Protection Agency’s [explanation](https://www.epa.gov/environmental-economics/mortality-risk-valuation#means) of the concept of VSL gives the example of a group of people who are each willing to pay $100 to eliminate a 1 in 100,000 risk of death. For this group, VSL = “$100 per person × 100,000 people, or $10 million”. The VSL can be estimated using the wage premium that workers doing more dangerous jobs are able to command. This table uses that method to estimate the VSL of American workers between 1940 and 1980:
 
-![](https://acximages.ennals.org/images/2024-book-reviews/e7654d82d7c97c5c.png) 
+![](https://acximages.ennals.org/images/2024-book-reviews/9ed76a29f38c3bbb.png) 
 
 From: [Costa &](https://www.jstor.org/stable/41761172) [Kahn](https://www.jstor.org/stable/41761172)[, “Changes in the Value of Life, 1940-1980”](https://www.jstor.org/stable/41761172), pg. 172
 
@@ -64,7 +64,7 @@ It is true that many—not a large proportion, but a large number in absolute te
 
 Risks to children have fallen dramatically over the past seventy years:
 
-![](https://acximages.ennals.org/images/2024-book-reviews/55711506680c1e9f.png)From: [Our World in Data](https://ourworldindata.org/grapher/youth-mortality-rate?tab=chart&country=~USA) 
+![](https://acximages.ennals.org/images/2024-book-reviews/704325d023c0e619.png)From: [Our World in Data](https://ourworldindata.org/grapher/youth-mortality-rate?tab=chart&country=~USA) 
 
 Some of this decline comes from improvements in medicine, some from improvements in nutrition, and perhaps some from greater parental caution about accidents and crime. Given that the overall risk of mortality before age 15 in the US is now less than 1%, any individual risk of death for children must be small. Economic growth means that mitigating these small risks is still, in principle, well worth spending money on. However, the magnitude of small risks is intrinsically difficult to estimate.[[1]](#ftnt1) For an event rare enough that you may never observe it first-hand, it can be very difficult to internalize just how likely or unlikely it is. And this brings us to the explanation of the bizarre excess of parent paranoia depicted in Skenazy’s book: **as incomes rise, risks to children become smaller and smaller. However, spending time and money on improving child safety becomes more attractive. Therefore prioritizing among risks becomes both more important and more difficult**. **As a result, parents will predictably waste lots of time, energy, and money trying to mitigate already miniscule risks.** Call this the “Skenazy-Jones model” of intensive parenting.
 

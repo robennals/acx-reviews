@@ -27,7 +27,7 @@ But since I don’t have the luxury of having built an audience partially answer
 
 jan Misali has structured his quest on the idea of a mainline Mario game, or “Super Mario” game for short. If you’re unfamiliar, this division between mainline and spinoff games is widely accepted within Mario and wider gaming fandom. “Super Mario” games are generally thought of as the games where the most stereotypically Mario things take place. If you’re clearing platforming challenges to beat a gross monster and rescue a princess, you’re probably playing a Super Mario game. If Mario and friends are doing something else, like driving go carts, playing tennis, or using RPG battle mechanics, you’re probably playing a Mario spinoff. Misali’s survey took (almost) every Mario video game ever released and asked its participants if they were mainline, spinoffs, or not Mario games at all. He also asks whether a game is a “distinct entry” in the Super Mario series, in order to account for the many, many rereleases of Mario games over time.
 
-![](https://acximages.ennals.org/images/2025-non-book-reviews/1d15324928eab920.png)
+![](https://acximages.ennals.org/images/2025-non-book-reviews/262816927767b488.png)
 
 ![](https://acximages.ennals.org/images/2025-non-book-reviews/843e9213247b3163.png)
 
@@ -39,7 +39,7 @@ _The way I’ve decided to count it is that if someone counts a game as part of 
 
 Games with 80% or more respondents answering in this way from the most popular individual list of mainline Super Mario games. Overall, I think this is a fairly logical way to design a survey answering this question. Its sheer breadth obviously selects for people passionate enough about the Mario series to devote the time and energy to complete it (a fact Misali readily acknowledges), but given that the target audience who would be heavily interested in this sort of question are likely to be Mario nerds as well, this doesn’t seem like a massive deal. The list of games that cross this threshold also seem fairly reasonable from the perspective of someone like me, with a lot of familiarity with the series. More or less all of the 2D and 3D platformers starring Mario are included on this list, with a notable edge case I’ll adress later.
 
-![](https://acximages.ennals.org/images/2025-non-book-reviews/6f3962718ae40e1e.png)
+![](https://acximages.ennals.org/images/2025-non-book-reviews/529ac58198765c49.png)
 
 Probably the most contentious individual point to make is about how Misali interprets the data. His purported reason for starting this video series is that there is “no consensus” on what Mario games count as mainline, and that this lack of consensus is interesting. He’s certainly correct that Nintendo doesn’t have an internally consistent list of Super Mario games (any official lists usually don’t claim to be comprehensive and vary by region), and that content creators invoking the concept of the “Super Mario series” use it to describe varying sets of games. The inclusion rate of games outside of this set of 19, however, falls off dramatically. The 20th most included game has a rate of under 50%, with the 19th game boasting over 80%! Misali’s chief defense is that
 
@@ -63,7 +63,7 @@ _I could have made special  categories for just Bowser’s Fury, but I could not
 
 Now, in the interest of fairness, I can see where he was coming from. I’m just personally opposed to this conception of fairness as the most important principle for this survey. Misali’s goal was to get actual figures on what people thought about these games, and _Bowser’s Fury_ is one of the most spirited debate topics in that context. It was more important, in my view, to get answers on this question than to be absolutely fair to the likes of _Donkey Kong Jr. + Sansū Lesson_.
 
-![](https://acximages.ennals.org/images/2025-non-book-reviews/98ce27bf1ffbcc53.png)
+![](https://acximages.ennals.org/images/2025-non-book-reviews/2effbbfe165541ec.png)
 
 Yes, this is real.
 

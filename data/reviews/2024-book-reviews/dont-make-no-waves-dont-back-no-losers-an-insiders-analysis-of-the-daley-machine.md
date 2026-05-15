@@ -177,7 +177,7 @@ I appreciated the fact that _Don’t Make No Waves_ is a firsthand account, but 
 
 Also like its subjects, _Don’t Make No Waves_ is surprisingly uninterested in actual governance. I appreciated that the author didn’t waste time moralizing about the machine’s ethics, but I wanted to know more about how well the machine actually ran the city. The author repeatedly asserts that Chicago is no worse-governed than any other big American city in the 1970’s (admittedly, incredibly faint praise), but never provides any evidence.
 
-![](https://acximages.ennals.org/images/2024-book-reviews/7dfad3fbe6302c71.png)
+![](https://acximages.ennals.org/images/2024-book-reviews/ad88f7bdc2be5ae2.png)
 
 _I wanted a tiny bit more of this attitude in the book_
 

@@ -457,7 +457,7 @@ More sinister (pardon the pun) is the problem of ideology. The power of ideas in
 
 Finally, in our society, science itself has become an institution and a bureaucracy, meaning it’s subject to the same pathologies of bureaucracy that we’ve already discussed. Consider the impact of quantification; the more papers an academic publishes, the better an academic they are, so publish or perish. They stop writing books, they take too long. Every insight has to be pithy enough to make sense in an article. Now there’s so many articles flying around that no-one can read all of them or try to replicate them, so why even bother trying to conduct meaningful research? Why not just fabricate data, p-hack or plagiarise?
 
-![](https://acximages.ennals.org/images/2024-book-reviews/b03574d2427df5f5.png)
+![](https://acximages.ennals.org/images/2024-book-reviews/d59a97564efa1874.png)
 
 Something funny is starting to happen here: the replication crisis is a bit like how the narcissist can’t tell interior from exterior content. Academia, as the social organ that deals with knowledge, can't tell the difference between the data it's gathering from reality and the dross that the institution creates from the irrationality of its own organisation.
 
@@ -483,7 +483,7 @@ Jargon begins within a profession as a precise technical language, morphs into a
 
 Economists love to do this. Consider the masterpiece of jargon that is Quantitative Easing. Quantitative, meaning to do with quantity, and easing, meaning to let off pressure. They’re letting off pressure through quantity. Of course, this is the opposite of what it is: the point is to increase pressure, to _inflate_. A cynic would say that quantitative easing is when the government prints money and gives it to banks. An economist would rightly step in here and explain that they’re not _printing money,_ they're _adding it to the balance sheet of the central bank_. They’re not _giving it to banks,_ they're _increasing the liquidity of financial markets_. In other words, they’re printing money and giving it to banks (and the government). There is a genuine difference, in that the government debt on the Fed balance sheet has to be paid off, _in principle_.
 
-![](https://acximages.ennals.org/images/2024-book-reviews/43be776fbcb55150.png)
+![](https://acximages.ennals.org/images/2024-book-reviews/b48a96f1b118dd51.png)
 
 Yeah, let me know when that happens.
 
@@ -859,7 +859,7 @@ My usage of Christianity is not arbitrary, I think there is something unique the
 
 If you can have narcissistic liberalism, and narcissistic Christianity, can you have narcissistic conservatism?
 
-![](https://acximages.ennals.org/images/2024-book-reviews/299c5de1d91a8e2d.png)
+![](https://acximages.ennals.org/images/2024-book-reviews/cd77d511789986ab.png)
 
 The answer to this question will be left as an exercise for the reader.
 
@@ -977,7 +977,7 @@ That black terminal screen; people recoil from it like it's the Ark of the Coven
 
 What the terminal offers you is nothing less than godlike power itself. The machine does nothing but strictly what you command it to do. It is but an instrument of your will, all you have to do is wrestle with it.
 
-![](https://acximages.ennals.org/images/2024-book-reviews/81ae846d557a7552.png)
+![](https://acximages.ennals.org/images/2024-book-reviews/fa34a3f2ade01fa1.png)
 
 _You, when you open the_ _[man pages](https://en.wikipedia.org/wiki/Man_page)_
 

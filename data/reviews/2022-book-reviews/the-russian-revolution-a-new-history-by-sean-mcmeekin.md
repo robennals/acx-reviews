@@ -46,7 +46,7 @@ Alas, not everyone was so patient. Socialist revolutionary organizations were br
 
 Young Stalin, too, served an exile sentence in tsarist Siberia — but the enforcement was so lax that he later bragged about having left Siberia 6 times during his sentence. Here’s his 1911 mugshot:
 
-![](https://acximages.ennals.org/images/2022-book-reviews/b6a3eb11730de7ff.png)
+![](https://acximages.ennals.org/images/2022-book-reviews/59b5cf3bed81f8df.png)
 
 While leftism remained a minority viewpoint in Russia, agitators scored points by committing dozens of assassinations in the early 1900s.
 

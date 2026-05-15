@@ -29,7 +29,7 @@ This is not a review that’s intended to get you to play the game. Some of them
 
 Wikipedia says that gacha games are named after the [gashapon](https://en.wikipedia.org/wiki/Gashapon) vending machines. These machines are full of little plastic capsules with random toys in them; you can put some money in, and get a random plastic toy back out, and then I guess you can collect them. Every part of this sounds terrible to me, but Wikipedia tells me it’s popular in Japan.
 
-![](https://acximages.ennals.org/images/2025-non-book-reviews/c024d7a056ddde19.png)
+![](https://acximages.ennals.org/images/2025-non-book-reviews/011edcc9e5f34133.png)
 
 Image from Wikipedia, [https://en.wikipedia.org/wiki/Gashapon#/media/File:Gachapon.jpg](https://en.wikipedia.org/wiki/Gashapon#/media/File:Gachapon.jpg).
 

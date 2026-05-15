@@ -134,13 +134,13 @@ So what went wrong? And who is to be blamed?
 
 Böick is not interested in participating in this fun game because it’s too much economy/politics and too little history, but as the protests influenced the Treuhand, where many contemporaries placed the blame, he at least describes the different perspectives. To get at least some outside view, that is independent of those contemporary perspectives, we can have a look at some data.
 
-> ![](https://acximages.ennals.org/images/2024-book-reviews/139509903b5047db.png)The per-capita GDP of other countries that transitioned around the same time as East Germany. If this plot seems kind of overwhelming, that is because it is. If you are really interested, you can have a closer look at them at the source, [Our World in Data](https://ourworldindata.org/economic-growth).
+> ![](https://acximages.ennals.org/images/2024-book-reviews/6d8b16f40786b624.png)The per-capita GDP of other countries that transitioned around the same time as East Germany. If this plot seems kind of overwhelming, that is because it is. If you are really interested, you can have a closer look at them at the source, [Our World in Data](https://ourworldindata.org/economic-growth).
 
-![](https://acximages.ennals.org/images/2024-book-reviews/f3410ca0323096c1.png)
+![](https://acximages.ennals.org/images/2024-book-reviews/50a07399ab812be7.png)
 
 > The same data, averaged. The long stagnation in the mean during the 90s is a mix of some economies stagnating, but it also hides that some were still shrinking, while others were already growing. It is also partly an artifact of poorer countries gaining independence later.
 
-![](https://acximages.ennals.org/images/2024-book-reviews/4748bbbf324a22b9.png)
+![](https://acximages.ennals.org/images/2024-book-reviews/c28523f423ef8903.png)
 
 > The ratio of per-capita GDP in East and West Germany, during and after socialism, combining two different data sets for the pre and post-revolution era, respectively.[[46]](#ftnt46) You can see that the eastern economy quickly more than rebounded, but remains behind its western counterpart.
 

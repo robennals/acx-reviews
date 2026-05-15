@@ -98,7 +98,7 @@ At least in the United States, there have been significant policy changes in thi
 
 [The best study I could find](https://escholarship.org/content/qt4rs4n6h0/qt4rs4n6h0.pdf) does exactly that by analyzing GIPANDOs. (I know what you’re thinking. Is it that hard to just say “gender identity inclusive public accommodations nondiscrimination ordinance?”) Between 1997 and 2015, a handful of Massachusetts localities began guaranteeing transgender people access to the sex-segregated facilities aligning with their gender identity. The researchers matched these localities to otherwise similar localities that had no such ordinances. Then, they compared rates of criminal incidents in restrooms over time between localities that adopted the ordinances and localities that did not. When localities started letting trans women use female restrooms, did bathrooms become more dangerous places?
 
-![](https://acximages.ennals.org/images/2022-book-reviews/8c35ebfa108ef0e8.png)
+![](https://acximages.ennals.org/images/2022-book-reviews/062cf55a589a3f26.png)
 
 No, they didn’t. If anything, localities with trans-affirming policies experienced a more favorable trend in the number of criminal incidents within bathrooms. Let’s not over-state this evidence. It’s a good paper, but it’s just one paper. The authors note, bathroom crime is rare, and that makes it hard to detect a signal. They also don’t report any evidence on whether the policy changes even affected transgender bathroom use patterns. With respect to this paper, I am only confident about one thing. If this paper had shown an unfavorable result for trans-affirming bathroom policies, it definitely would have been featured in Joyce’s book.
 
@@ -131,7 +131,7 @@ Joyce claims that her book is not about trans people, but rather about the philo
 
 Most people [don’t personally know a trans person](https://williamsinstitute.law.ucla.edu/wp-content/uploads/Public-Opinion-Trans-US-Aug-2019.pdf#page=5). That’s too bad, because [knowing a trans person](https://williamsinstitute.law.ucla.edu/wp-content/uploads/Public-Opinion-Trans-US-Aug-2019.pdf#page=14) is very predictive of having a trans-affirming perspective on many issues. It matters even more than age, income, or education. Clearly, the trans folks that most people know are quite different from the colorful cast of characters that Joyce chooses to highlight.
 
-![](https://acximages.ennals.org/images/2022-book-reviews/a84a6ed71f0b5c11.png)
+![](https://acximages.ennals.org/images/2022-book-reviews/2970f35089ca4eef.png)
 
 For many of her readers, Joyce’s book will likely be their primary source of information about transgender people, and will probably lead such readers to adopt generally more regressive attitudes. Joyce might think trans people get a little too much love as it is, so maybe she is okay with that. However, many people actually have a [more regressive attitude](https://williamsinstitute.law.ucla.edu/wp-content/uploads/Public-Opinion-Trans-US-Aug-2019.pdf#page=6) towards trans people than Joyce. Half of people think just being transgender [is wrong](https://news.gallup.com/poll/351020/changing-one-gender-sharply-contentious-moral-issue.aspx). Roughly one-quarter don’t think trans people should be allowed to [have children or be able to serve in the military](https://williamsinstitute.law.ucla.edu/wp-content/uploads/Public-Opinion-Trans-US-Aug-2019.pdf#page=6).
 

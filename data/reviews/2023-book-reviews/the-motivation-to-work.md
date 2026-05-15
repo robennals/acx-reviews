@@ -26,7 +26,7 @@ So says psychologist and researcher Frederick Herzberg in his 1959 book titled _
 
 To more fully understand what Herzberg is telling us in _The Motivation To Work_, let’s assume your/my company is rife with poor managers and demotivated/dissatisfied employees. Hence we invest a bunch of time, money, & creativity into management training - which inevitably fails. Why? Because, per my poorly drawn diagram below, dissatisfaction/demotivation and satisfaction/motivation do not live on a continuous spectrum. Instead, per Herzberg, there’s a brick wall sitting between them.
 
-![](https://acximages.ennals.org/images/2023-book-reviews/0e83068efb614d4c.png)
+![](https://acximages.ennals.org/images/2023-book-reviews/bec63db3603ba813.png)
 
 With certain factors holding power on one side of the wall while different factors hold power on the other side (this theory goes by two different names: Two-Factory Theory and Motivation-Hygiene Theory) And guess what, Management Skills lives on the opposite side of the wall from Satisfied/Motivated employees. No matter what we do to improve our managers, that investment will never get us satisfied/motivated employees.  The best we can hope for is employees that, in Herzberg’s words, are NOT DISSatisfied. An outcome that sounds about as thrilling as sister-kissing.
 

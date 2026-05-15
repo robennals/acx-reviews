@@ -24,7 +24,7 @@ But why did the industrial revolution take off in Britain, and not France? Or Ch
 
 England on the eve of the industrial revolution had the highest labor costs anywhere in the world. English workers, both skilled and unskilled, earned higher wages, had better nutrition, and were afforded more luxuries than workers in any other country. But why did England (and other parts of Northern Europe, like the Netherlands) enjoy this level of relative comfort above the rest of the world? Allen argues that this is best understood through the Malthusian growth model. As a population increases, the average number of resources (notably, farmland) per person declines until each additional pair of hands can just barely support the additional mouth. Malthus’ ideas are usually regarded as a misguided foil to our contemporary understanding of economic growth, but Allen argues that they are perfectly suited for the time and place they were developed – early Modern Europe. This is why despite their city’s advances in law, art, and culture, Florentine workers in the 18th century could barely feed themselves.
 
-![](https://acximages.ennals.org/images/2024-book-reviews/3a5393a61f6143a3.png)
+![](https://acximages.ennals.org/images/2024-book-reviews/79965d105111e8eb.png)
 
 _British incomes escaped the rest of the continent by the early 1700, both in absolute terms (left) and adjusted for purchasing power (right). Note the decline in purchasing power in Vienna and Florence - population growth decreased per-person wealth in line with Malthus’ expectation. British and Dutch incomes followed a similar decline before escaping the Malthusian trap in the mid 1600s._
 
@@ -42,7 +42,7 @@ Allen argues that the urban growth of London provided an impetus for the develop
 
 But as readers of history might note, the major leaps of the industrial revolution didn’t take place in London. In responding to London’s demand, coal producing areas like Newcastle found themselves awash with cheap energy in a way that had never been seen in history up to that point. The data are striking – the cost of thermal energy in Newcastle was several multiples lower than any major European city.
 
-![](https://acximages.ennals.org/images/2024-book-reviews/161f53c83af8e427.png)
+![](https://acximages.ennals.org/images/2024-book-reviews/d80e7f84550e7548.png)
 
 _While London had a similar energy price to continental European cities, coal-producing Newcastle had rock-bottom prices, both in absolute terms and as a ratio of labor costs. (Data from Allen)._
 
@@ -56,7 +56,7 @@ The history of the steam engine is a case in point for this development model. I
 
 In Allen’s model, inventions are altered over time to bring gains in efficiency, usually taking place gradually as part of normal business operations. It would take more than 100 years of innovation, small and large, to turn Newcomen’s crude design into an engine that would be economically competitive at general tasks. There were many different pathways to improvement: around 1760 a man named John Smeaton doubled the efficiency of the Newcomen engine with a strategy that can only be described as “making a bunch of little tweaks”. Ten years later, James Watt again doubled the efficiency of the engine by developing the separate condenser – a radical leap that relied on new scientific understanding of latent heat.
 
-![](https://acximages.ennals.org/images/2024-book-reviews/a069cba37a810bc2.png)
+![](https://acximages.ennals.org/images/2024-book-reviews/b4f9cc7038cf95b3.png)
 
 _Steam engine efficiency gains follow a Moore’s-law like behavior (note the log scale). Big gains came from Smeaton (the big jump in the blue Newcomen engine line) and Watt, but just as much efficiency was gained by the work of a collective of nameless Cornish engineers. Data from Allen._
 
@@ -70,7 +70,7 @@ The first innovation in this process was the invention of the spinning jenny, a 
 
 The real gains in economic competitiveness came over the course of the next 70 years as entrepreneurs refined the design, automated other parts of the overall process (like the alignment of cotton fibers, known as “carding”), and figured out how to efficiently incorporate machines into centralized manufacturing sites driven by water power. These “mills” could manufacture textiles at one-tenth of the cost of traditional methods. At this point, the globally competitive cotton mill leaped from England’s shores to the rest of Europe and the broader world.
 
-![](https://acximages.ennals.org/images/2024-book-reviews/f713de08a570760e.png)
+![](https://acximages.ennals.org/images/2024-book-reviews/8d0d3bb5030a6a3b.png)
 
 _Cotton yarn production also follows a Moore’s law trajectory (again, note the log scale). Real price shown for different thread counts (fineness of thread). Data from Harley (1998) and reprinted in Allen._
 

@@ -51,7 +51,7 @@ As a framing for the rest of the work, Johnston is concerned with thing 3 (altho
 
 The idea that death threatens the importance of goodness is a common one.
 
-![](https://acximages.ennals.org/images/2024-book-reviews/c5dcad73a8bb848a.png)![](https://acximages.ennals.org/images/2024-book-reviews/5a04a527aaa5547c.png)![](https://acximages.ennals.org/images/2024-book-reviews/928bfb7f4e137904.png)
+![](https://acximages.ennals.org/images/2024-book-reviews/befbeaec5148d3ff.png)![](https://acximages.ennals.org/images/2024-book-reviews/bf01c98492ce1771.png)![](https://acximages.ennals.org/images/2024-book-reviews/09f9e88187a977fd.png)
 
 I tend to think of this as a philosophic emotion. People are feeling nihilistic and worried about death, and so they express it as a proposition and look for reading to either change their mind or support their view. This is in opposition to reasoning from the fact that we’re all going to die to the fact that nothing matters, which is not so trivial (Why does the fact that life ends affect the significance of an event today? Would being immortal fix things?).
 

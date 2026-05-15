@@ -35,7 +35,7 @@ After ~250 (occasionally gruelling) pages we come to the final fundamental scien
 
 Metiner and Frisch, who began to prepare papers explaining the theoretical underpinnings of the new phenomenon, told Neils Bohr, who was about to sail to America, about the discovery. Upon his arrival in January 1939 word of the discovery of fission spread rapidly amongst American physicists. The finest minds were quick to grasp the potential implications. Within about a week of Bohr's arrival, and well before any papers were published,  Enrico Fermi was looking out at Manhattan, cupping his hands “as if he were holding a ball” and telling a colleague, “a little bomb like that… and it would all disappear.” On the opposite side of the continent, recalled one of his students, “there was on the blackboard in Robert Oppenheimer’s office a drawing - a very bad, an execrable drawing - of a bomb.” Thus ends part one.
 
-![](https://acximages.ennals.org/images/2023-book-reviews/3f8a998e93bed5af.png)
+![](https://acximages.ennals.org/images/2023-book-reviews/e989cd950815055d.png)
 
 [Above: Sketches from 1942 of various possible bomb designs]
 
@@ -115,6 +115,6 @@ Driving some of those who continued at Los Alamos on even after Germany’s defe
 
 There was another, rarer but perhaps even more terrifying motive present at Los Alamos. Aside from their stated aims, beating the Nazis or saving American lives, and aside from thoughtlessness, many scientists were driven by a deep desire to be at the bleeding edge, to see what could be done, to be a part of something extraordinary, something epoch defining. Back in 1942 and 1943, as scientists were being approached to get involved, and were considering their options, one scientist recorded; “There is a statement of rather common currency around here and Berkeley that goes something like this: “No matter what you do with the rest of your life, nothing will be as important to the future of the World as your work on this Project right now.” Whether it would be important to the future of the world in a good or a bad way was a secondary concern. To many it was work of transcendent importance, something they simply couldn’t miss out on. Oppenheimer, an incredibly sensitive man, certainly as thoughtful as Bohr or Szilard, a man given to think as deeply about ethical or moral dilemmas and consequences as pretty much anyone else alive, a man who throughout his life frequently thought himself into inaction, simply found the temptation of building the bomb overwhelming. As he later put it “when you see something that is technically sweet, you go ahead and do it, and you argue about what to do about it only after you have had your technical success. That is the way it was with the bomb.” I fear that is the way it is still.
 
-![](https://acximages.ennals.org/images/2023-book-reviews/438ba7f5510f88bd.jpg)
+![](https://acximages.ennals.org/images/2023-book-reviews/844abcea374e4f41.jpg)
 
 [The Trinity test]

@@ -174,13 +174,13 @@ Critics may argue that I exaggerate the importance of this contradiction. In the
 
 I have a couple of responses to this critique. First, the thorough control and monitoring required to catch all these little tricks on a platform would be chilling to vibrant discourse and almost impossible to apply equally to everyone. Some of the examples of content moderation avoidance that the VP includes in its analysis are so petty and trivial that they discredit the whole project. Here is one of the VP’s examples of using lexical variation to avoid detection on Twitter:
 
-![](https://acximages.ennals.org/images/2025-non-book-reviews/e02d7eb7b4079fed.png)
+![](https://acximages.ennals.org/images/2025-non-book-reviews/1bd3b0cf9af83a03.png)
 
 The VP complains that this joke-tweet with 6 likes and two quotes “is unlabeled, and, over a week after being posted, is still available on Twitter.” When I saw this, I had to remind myself that the VP had access to a Twitter feed that included 50 million Covid tweets per day. Was this really the best example of the dangerous misinformation flooding social media that they could find? Did they also expect Twitter to scour its site to remove all the mean jokes posted about the unvaccinated?
 
 Here’s another example of the dangerous stuff that slipped through the cracks of Twitter’s content moderation:
 
-![](https://acximages.ennals.org/images/2025-non-book-reviews/891804cc22b62a78.png)
+![](https://acximages.ennals.org/images/2025-non-book-reviews/5f67809961fdf485.png)
 
 Per the VP, the problem with this tweet is that “prominent anti-vaccine influencer Dr. Sherri Tenpenny, uses a vaccine-neutral hashtag (#COVIDshot) in order to get her tweet which casts doubt on a vaccine program in Georgia to more users.” Again, is this one of the best examples that they could come up with? I read the tweet, the VP’s analysis of it, and looked up [the story](https://www.newsweek.com/georgia-judges-offer-some-reduced-sentences-offenders-who-get-vaccinated-1593713) to confirm that it is accurate, and I still can’t figure out where the misinformation is. How is using a hashtag about vaccines to share a story about vaccines a devious trick to evade Twitter’s rules? Apparently, the VP knows that this tweet is misinformation only because it was posted by a “prominent anti-vaccine influencer.”  If the same tweet had been posted by a pro-vaccine activist, it might have been read as celebrating a policy to get more people vaccinated. The VP’s own examples illustrate the impossibility of applying a misinformation based content moderation in an unbiased way.
 

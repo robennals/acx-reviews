@@ -60,7 +60,7 @@ Then, the libertarian part: _"Better still, we have no omnipotent politicians or
 
 To me, this sounds like a left-libertarian’s paradise. Society generally follows the will of the people, but gets distorted by two key factors - money and power. Pala puts caps on both of these.
 
-![](https://acximages.ennals.org/images/2022-book-reviews/d32c58b40e4d1aa6.png)
+![](https://acximages.ennals.org/images/2022-book-reviews/d36145c6e925aab3.png)
 
 For recreation, the primary hobbies are sex and drugs. Well, kind of - more like tantric sex and psychedelics.
 
@@ -100,7 +100,7 @@ The _Muscle Man_ corresponds to what in 2022 terms, we would call toxic masculin
 
 How do you fix a muscle man? Teach them to be open with their feelings. Give them other outlets for their aggression - mountain climbing, cutting down trees, taking long hikes.
 
-### ![](https://acximages.ennals.org/images/2022-book-reviews/fce75239e50323f1.png)
+### ![](https://acximages.ennals.org/images/2022-book-reviews/a8dd70f8f6121071.png)
 
 Machismo is a local maximum for self confidence. It’s near impossible to leave it once you’re already in it, because you have to cross the pit of despair. But being open with your feelings is a global maximum - it gives you a good amount more self confidence than machismo, and it has the benefit of not being inherently toxic.
 

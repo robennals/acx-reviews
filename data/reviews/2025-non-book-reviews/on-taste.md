@@ -29,7 +29,7 @@ Scott recently offered a series of _[Friendly and Hostile Analogies For Taste](h
 
 [Zvi said](https://thezvi.substack.com/p/a-matter-of-taste) that of the analogies given, taste is most like grammar. [Zac Hill put forward](https://x.com/zdch/status/1864686277032865930) a framework of his own:
 
-![](https://acximages.ennals.org/images/2025-non-book-reviews/d7713b72f8e4a713.png)
+![](https://acximages.ennals.org/images/2025-non-book-reviews/3b2d2f463e09ad72.png)
 
 [Sympathetic Opposition](https://www.sympatheticopposition.com/p/contra-scott-on-taste#footnote-anchor-3-152877203) posed an actual definition:
 
@@ -153,7 +153,7 @@ There are any number of dimensions through which we can evaluate the quality of 
 
 Some dimensions of quality can’t be evaluated by your Average Joe. This is where Zac’s framework for artistic quality comes in. His first two variables - the mechanics of the medium, and the artist/creator’s facility with those mechanics - are concerned with the quality of the art/object itself. The third variable - the audience’s perceptive ability - is where good taste makes its demands, and the level of demandingness is _itself_ a dimension through which we evaluate quality:
 
-![](https://acximages.ennals.org/images/2025-non-book-reviews/cd5098d92c107bd0.png)
+![](https://acximages.ennals.org/images/2025-non-book-reviews/9130a0e7dd6ec053.png)
 
 This is why perceptual acuity and knowledge, while not taste itself, are intimately related to the acquisition of good taste.
 
@@ -191,7 +191,7 @@ Scott addressed this in his response to Frank Lantz ([#29](https://www.astralcod
 
 The story Scott references is difficult to summarize concisely - it’s eight pages long, maybe just go ahead and read it. ([The Wikipedia entry](https://en.wikipedia.org/wiki/Pierre_Menard,_Author_of_the_Quixote) notes that “Borges wrote the story while recovering from a head injury”, which sounds about right.) The general conceit is that it praises a fictional author’s attempt to recreate _Don Quixote_ word-for-word, peaking at this comparison of the prosaic prose of Cervantes vs. that of the enlightened Menard:
 
-![](https://acximages.ennals.org/images/2025-non-book-reviews/1ef4ca1173774381.png)Now _that_ is satire.
+![](https://acximages.ennals.org/images/2025-non-book-reviews/29511f4fff1a695b.png)Now _that_ is satire.
 
 On the surface, this is a shot at critics who invent meanings out of thin air based on preexisting notions regarding the text and the author. Which, of course, it is. But, as the Wiki entry mentions, this story is best understood alongside another Borges short story, _[The Library of Babel](https://sites.evergreen.edu/politicalshakespeares/wp-content/uploads/sites/226/2015/12/Borges-The-Library-of-Babel.pdf)_. Actually, really go read [that Wiki](https://en.wikipedia.org/wiki/Pierre_Menard,_Author_of_the_Quixote) summary - they crushed it:
 

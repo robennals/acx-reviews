@@ -50,7 +50,7 @@ My interpretation in a nutshell: _A good story has well developed patterns, an i
 
 If you’d set out to visualise this, you take Freytag’s pyramid as a base, ok, and then you show everyone you are no good in drawing by adding patterns and causality.
 
-![](https://acximages.ennals.org/images/2022-book-reviews/7685f236f66c3bc9.png)
+![](https://acximages.ennals.org/images/2022-book-reviews/3a3534361e96e47c.png)
 
 Freytag’s pyramid (1900) with additions.
 

@@ -65,7 +65,7 @@ Although condemnation is more ready from our sources, Murray really wants to tal
 
 A peculiar manuscript of the time, the _[Secretum Secretorum](https://en.wikipedia.org/wiki/Secretum_Secretorum)_, was the handbook of the ambitious man. It wasn’t a book of moral exhortation, rather, the route to power was through the pseudo-virtue of prudence, knowing _what_ to do. It purported to contain some of Aristotle’s advice to Alexander translated from Syriac to Arabic to Latin, more likely it was a 10th century Arabic “Mirror of Princes”, a handbook to courtiers. Although it is little remembered now, the _Secretum_ was one of the most copied manuscripts in the central Middle Ages. Along with commentary on everything from anatomy to astrology, the _Secretum_ presents a view of the state radically different from prior medieval thought. It presents this diagram:
 
-![](https://acximages.ennals.org/images/2022-book-reviews/8fdba749309db7fa.png)
+![](https://acximages.ennals.org/images/2022-book-reviews/8f64dd17f1e54072.png)
 
 Each item causes the one next to it, cyclically. The king relies on the army, the army on the state, etc. Each item is integral to the one opposite to it - notice what lies opposite of “king”. The supposed wisdom of the ancients was clear: if you wanted to run a successful state, you needed money. If you wanted to be a part of the newly growing state apparatus, a courtier with power, there was no better route than being a money man, a man who could count.
 

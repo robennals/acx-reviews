@@ -40,7 +40,7 @@ Out of the Silent Planet (1938) is about Elwin Ransom, a philologist on a walkin
 
 This sets the tone for the rest of the book. The cosmos is glorious and godly, ruled by a divine intelligence; it’s humanity that’s the problem. Yes, that’s right— in a twist you likely saw coming, the titular silent planet is Earth.  
 
-![](https://acximages.ennals.org/images/2023-book-reviews/39a15bf3cec37f39.jpg)
+![](https://acximages.ennals.org/images/2023-book-reviews/d2c6a4776f590a35.jpg)
 
 Iron Maiden got it.
 

@@ -116,7 +116,7 @@ This book is a memoir, not a manifesto. Is it fair to criticise it for failing t
 
 Britain used to be one of the richest countries in the world, and now it is not. GDP has increased steadily since the great recession, due to a growing population, but GDP per capita peaked in 2007 (17 years ago). This is the result of stagnant productivity, which peaked around the same time.
 
-![](https://acximages.ennals.org/images/2024-book-reviews/5bce3eae863eb747.png)
+![](https://acximages.ennals.org/images/2024-book-reviews/1d6b997e540945d7.png)
 
 **Figure 1**: UK productivity from 1979 to 2023, linked to “[chronic underinvestment](https://www.lse.ac.uk/News/Latest-news-from-LSE/2023/k-November-2023/Chronic-under-investment-has-led-to-productivity-slowdown-in-the-UK#)”.
 
@@ -126,7 +126,7 @@ Many believe the dire situation is due to the combination of austerity and Brexi
 
 The biggest problem with this narrative is a counterfactual which did not implement austerity or depart the EU, and suffers from the exact same post-2008 stagnation - most of Europe. Compared to France, Spain, Italy, Portugal, and to a lesser extent Germany, the UK performance looks very ordinary.
 
-![](https://acximages.ennals.org/images/2024-book-reviews/bde942c0d9063224.png)
+![](https://acximages.ennals.org/images/2024-book-reviews/abf50549069d0b03.png)
 
 **Figure 2**: GDP per capita for the UK compared to European peers ([World Bank](https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=GB))[[313]](#ftnt313).
 

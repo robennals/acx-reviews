@@ -70,7 +70,7 @@ The costs of such a strike would be vast. The attack would, presumably, alienate
 
 Eisenhower came to office in 1953 with the very unpopular Korean War winding down. While the war began in 1950 with wild swings of fortune, most of it was a bloody, unsatisfying stalemate. Almost 40,000 American soldiers died, and by 1953 defense spending took up a staggering 11.3% of GDP (for comparison, the record for the 21st century is 4.5% in 2010). American strategists realized that if communism needed to be contained, it could not be done through conventional wars fought on the periphery of the Soviet Union. This is the political prism through which we can understand Eisenhower’s massive retaliation strategy.
 
-![](https://acximages.ennals.org/images/2023-book-reviews/3bbbae20b1b26fe8.png)
+![](https://acximages.ennals.org/images/2023-book-reviews/649d6b1afa61f4e1.png)
 
 Implicit in the massive retaliation strategy is a willingness to use nuclear weapons in situations we today might find absurd. For example, in 1955, Admiral Radford told Eisenhower that if the U.S. ever got involved in Vietnam, we wouldn’t send over lots of soldiers; we’d just start dropping atomic bombs. In Kaplan’s words, Eisenhower “didn’t disagree.”
 

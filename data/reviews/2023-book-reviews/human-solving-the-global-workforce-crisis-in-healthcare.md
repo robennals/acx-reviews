@@ -66,7 +66,7 @@ Up front, Britnell sets out some stark statistics on healthcare workforce supply
 
 Beyond a smattering of examples  and perhaps because it goes without saying, Britnell is surprisingly quiet on the impact of workforce shortages on patient outcomes. The manifestation of understaffed medical services varies across the globe: in Brazil, it results in huge disparities (he cites, for example, an infant mortality rate in the north of Brazil that is double that of the better staffed south); in India, non-medically trained traditional healers step in to fill some of the void. In the US, healthcare workforce supply is one of the [drivers of cost and is negatively impacting access](https://www.mckinsey.com/industries/healthcare/our-insights/assessing-the-lingering-impact-of-covid-19-on-the-nursing-workforce) to services. 97% of senior leaders in the UK cited workforce shortages as having “serious and detrimental impact on services”.
 
-![](https://acximages.ennals.org/images/2023-book-reviews/6ca768820b5584d2.png)![](https://docs.google.com/drawings/d/sRxHjJBKTCEzHTcTKbvpQHw/image?parent=1vci14HMZ2UEJBs6mKCZZ2vHs-jVuPSsFsiN3cAENzXU&rev=1&drawingRevisionAccessToken=bPxJHMzYKcHcPA&h=1&w=642&ac=1)
+![](https://acximages.ennals.org/images/2023-book-reviews/97c778493b2b3553.png)![](https://docs.google.com/drawings/d/sRxHjJBKTCEzHTcTKbvpQHw/image?parent=1vci14HMZ2UEJBs6mKCZZ2vHs-jVuPSsFsiN3cAENzXU&rev=1&drawingRevisionAccessToken=bPxJHMzYKcHcPA&h=1&w=642&ac=1)
 
 Britnell also reflects on why scarcity matters as a driver of _further scarcity_ i.e. vicious cycle. As staff leave the profession and roles are left unfilled, the burden placed on staff that remain grows. In the UK, vacancies are routinely filled with long-term temporary staff - in some cases, the very staff who have left permanent employment in favour of better paying temporary positions. Administrative tasks (running the team, managing the rota, responding to complaints) fall to permanent staff and, as vacancies and temporary staff increase, the burden of this unsatisfying and bureaucratic work is increasingly placed on those who remain, increasing the likelihood they too will choose to leave.
 
@@ -84,7 +84,7 @@ Ultimately though, healthcare is still based on a traditional ward or appointmen
 
 Attempts to redesign the workforce, to increase the productivity of clinical staff through (e.g. new roles that can bridge professions, having less expensive staff take on more tasks, or expanding the staff empowered with particular rights, such as prescribing) have been hampered by unions and professional bodies. Unions representing doctors-in-training, for example, have suggested that Physicians Assistants[[32]](#ftnt32) have taken on work that would have formed part of a doctors training (e.g. conducting routine echocardiograms). This is understandable but short-sighted: Professional bodies – such as Royal Colleges or medical societies – and unions exist to protect the interests of their members. Many of these reforms are about intended to increase outputs and lower costs, which often makes for less desirable work. Some of the reforms involve shifting tasks to cheaper or less qualified staff and reform is sometimes resisted on the grounds of worsening care or patient safety (though these are often unfounded and rarely weighed against a counter-factual of workforce shortages!). Substantial workforce reform to grow productivity will require taking on the vested interests of existing professions – handing privileges and status from a group of professionals to a wider workforce. It will also require, however, clinical leadership – the public will never trust workforce reform that has not come with the backing of doctors and nurses.  
 
-![](https://acximages.ennals.org/images/2023-book-reviews/8b7c26006b4dded7.png)
+![](https://acximages.ennals.org/images/2023-book-reviews/2b779fdef7c61bf3.png)
 
 _Figure 4_ Each of the forces of scarcity feed of each other
 
@@ -132,7 +132,7 @@ Over time, this knowledge was refined and honed – the scientific method allowe
 
 In the 21st century, healthcare has the potential to transform fully to a _knowledge_ business. It should be about connecting a patient with the knowledge about what ails them and what can be done about it. Pre-internet and digital connectivity, knowledge was stored and passed on in either physical books or the memories of people. It made sense to have a professional as the vessel for storing and imparting knowledge (and, importantly, identifying the correct knowledge and how to deploy it!). Doctors, through learning and experience, sifted huge reams of knowledge to identify a diagnosis and recommend a treatment. Lay persons would not have known where to start, trying to access the information in books, or by themselves.
 
-![](https://acximages.ennals.org/images/2023-book-reviews/1be113821cd0be1e.png)
+![](https://acximages.ennals.org/images/2023-book-reviews/1e2cab8c8208e17d.png)
 
 _Figure 5_ A post-professional model would see roles delivering individual tasks, supported by AI and technology
 

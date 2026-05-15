@@ -25,9 +25,9 @@ You not only deserve more than that, you _want_ more than that. You want a topic
 
 In short, you want Rubbermaid. Luckily for me, I’ve long since been on record as being about as pro-Rubbermaid as it’s possible to be:
 
-![](https://acximages.ennals.org/images/2025-non-book-reviews/1477e3378f0fca75.png)
+![](https://acximages.ennals.org/images/2025-non-book-reviews/0b31024fc96020ee.png)
 
-![](https://acximages.ennals.org/images/2025-non-book-reviews/688238d82702a924.png)
+![](https://acximages.ennals.org/images/2025-non-book-reviews/5b159ec97cc4cf5f.png)
 
 ![](https://acximages.ennals.org/images/2025-non-book-reviews/98762ca37f1d36ce.png)
 
@@ -67,11 +67,11 @@ In the era I grew up in, the way soap was advertised was telling the consumer th
 
 As cleaners that come in spray bottles go, here is one that’s considered fairly exciting by the admittedly limited standards of the field:
 
-![](https://acximages.ennals.org/images/2025-non-book-reviews/77b30b728472ed56.png) 
+![](https://acximages.ennals.org/images/2025-non-book-reviews/2258b654a5c5b922.png) 
 
 Look at those pretty bottles. So colorful. That’s this company’s whole jam - bottles and ad copy. Here’s a brush from the same company, or at least the same store you’d buy the soap at:  
   
-![](https://acximages.ennals.org/images/2025-non-book-reviews/33035304b6efd972.png)
+![](https://acximages.ennals.org/images/2025-non-book-reviews/45a67aeea5cad039.png)
 
 The copy that the company uses to sell either is about as attractive. Here, they say, is a sustainable product made with delightfully crunchy ingredients, each more hippy-commune than the last. They are “natural”. They are, I swear this is true, a scented summer-specific collection.
 
@@ -97,7 +97,7 @@ At the same time, I'd buy another Rubbermaid broom. I'm a fanboy, and so not to 
 
 His part of the plan went swimmingly. He's a more traditional kind of guy, sort of quasi-amish in an urban mennonite way. He probably knows how to can things, he's probably made at least one quiet disapproving comment at a renaissance faire about someone else's historically hopeful costume choices, and that sort of thing. I sent this titan of knowing-at-least-three-uses-for-pecans the sweeper of his choosing, a Rubbermaid Heavy-Duty Commercial Corn Broom that looks a bit like this.
 
-![](https://acximages.ennals.org/images/2025-non-book-reviews/5311686baa9fe257.png)
+![](https://acximages.ennals.org/images/2025-non-book-reviews/374ffea1e77546f4.png)
 
 I liked this for a couple reasons. The first was how well it fit the general Rubbermaid vibe. I mean, just look at that bad boy. There's not an exciting atom in the entire thing. If being thrilling was a sense of professional decorum in one’s private life, it would be the cleaning product equivalent of the Shamwow guy. If goosebump-giving capacity was an understanding of adequate firearm holsters, it would be the tidying-up counterpart to Plaxico Burress.
 
@@ -107,7 +107,7 @@ The second reason I liked it is how much it _didn't_ fit the Rubbermaid vibe in 
 
 He got it, used it a few times, and reported back:
 
-![](https://acximages.ennals.org/images/2025-non-book-reviews/9fd74a73b7433389.png)
+![](https://acximages.ennals.org/images/2025-non-book-reviews/22334dc6b61dddb6.png)
 
 Look at how completely without incident that review is. It's a thing of unassuming beauty, like a milk-jug cap.
 
@@ -117,7 +117,7 @@ That's what Rubbermaid is about. That's the whole deal. You can order this thing
 
 Now, as for my side of the review process: Things went to shit. Not because I couldn't get a broom (I could have) or because the broom didn't work (It was going to be Rubbermaid, it would have) but because I got distracted. During the process of making sure I was looking at every available broom, I scrolled a bit too far and let my eyes land on the most medium-beautiful object of function I'd ever seen:
 
-![](https://acximages.ennals.org/images/2025-non-book-reviews/af03aadcb99e0f41.png)
+![](https://acximages.ennals.org/images/2025-non-book-reviews/f09f9387790943e9.png)
 
 I mean, look at it. Really look at it. What could I do?
 

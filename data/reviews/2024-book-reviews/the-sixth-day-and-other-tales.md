@@ -22,7 +22,7 @@ I’ve sometimes talked about Primo Levi, the Italian-Jewish writer, chemist and
 
 Sorry, darling – I’m going to review _The Sixth Day and Other Tales,_ a collection of science fiction short stories published in 1966 under the pen-name of Damiano Malabaila. The pseudonym was a precaution suggested by Levi’s publishing house, given the lesser reputation of the genre compared to that of his two previous autobiographical works on his experience in Nazi concentration camps (_If This Is A Man,_ American edition: _Survival in Auschwitz)_ and his adventurous return to Italy (_The Truce_).
 
-![](https://acximages.ennals.org/images/2024-book-reviews/c895e516b350e31c.png)
+![](https://acximages.ennals.org/images/2024-book-reviews/679d13bf26eb5c91.png)
 
 _The book’s original cover in the 1966 Italian edition by a Damiano Malabaila._
 

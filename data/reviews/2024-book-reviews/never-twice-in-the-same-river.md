@@ -20,7 +20,7 @@ Höcke and the AfD
 
 [Björn Höcke](https://de.wikipedia.org/wiki/Bj%C3%B6rn_H%C3%B6cke) is the [fascist](https://www.spiegel.de/politik/deutschland/bjoern-hoecke-darf-als-faschist-bezeichnet-werden-gerichtsurteil-zu-eisenach-a-1289131.html), [nazi](https://taz.de/Verfahren-wegen-Beleidigung-eingestellt/!5968418/) [de facto leader](https://www.spiegel.de/politik/deutschland/bjoern-hoecke-der-wahre-chef-der-afd-a-60b3ae03-8db5-43f8-b2e8-9a00c7b5471f) of the [anti-democratic](https://www.cicero.de/innenpolitik/afd-bjoern-hoecke-alexander-gauland-demokratie), [far-right extremist party](https://www.tagesschau.de/inland/afd-bericht-gutachten-verfassungsschutz-100.html) “AfD” (Alternative für Deutschland/Alternative for Germany) in Germany. At least if you believe media representatives, politicians of other parties, the domestic intelligence service, and courts around the country. This should be rather concerning given that the AfD has steadily become stronger since its inception and is currently standing at slightly below 20% in national polls, which makes it the second strongest party.
 
-![](https://acximages.ennals.org/images/2024-book-reviews/3d7594d8a509fc5d.png)
+![](https://acximages.ennals.org/images/2024-book-reviews/589b1ff59d72fca3.png)
 
 Source: INSA
 
@@ -28,7 +28,7 @@ In some east German states, notably Thuringia, the state for which Höcke aims t
 
 However, media reporting on Höcke and the AfD may not be entirely even-handed and objective. A recent [study](https://www.researchgate.net/publication/377721606_Fehlt_da_was_Perspektivenvielfalt_in_den_offentlich-rechtlichen_Nachrichtenformaten) analyzed the content of both private and public news formats concerning the treatment of different parties. As you can see, reporting is almost universally negative.[[245]](#ftnt245) But maybe the AfD is simply horrible and deserves all the bad press it gets?
 
-![](https://acximages.ennals.org/images/2024-book-reviews/d3854cb01d00b083.png)
+![](https://acximages.ennals.org/images/2024-book-reviews/ac93f7b3b3a650f2.png)
 
 Content analysis of public media (left) and private media (right)
 
@@ -52,17 +52,17 @@ You _could_ interpret this as “Germany should no longer remember its past misd
 
 Before I start the review proper, I want to present a short overview of the current migrant situation in Germany. This has two reasons. Firstly, I want to convince you that the migrant crisis is one of the most significant problems Germany will face this century. Dealing with this crisis is the AfD’s raison d'être. Secondly, I want to be transparent and give you a context for my own views, so you can properly interpret my assessment of Höcke’s book. Since around 15 years, net migration has exploded in Germany.
 
-![](https://acximages.ennals.org/images/2024-book-reviews/18bc03380aaecd58.png)
+![](https://acximages.ennals.org/images/2024-book-reviews/e8f12dedc79f13e5.png)
 
 Net migration in Germany
 
 Most notable are the Syrian refugee crisis of 2015 and the current Ukraine crisis of 2022. As you can see from the following figure, Germany took in the most refugees from the 2015 crisis. Of course, Germany is a populous country with a strong economy, but comparing our intake with the UK, France, and Italy shows that we took in a lot of people even after accounting for these variables.
 
-![](https://acximages.ennals.org/images/2024-book-reviews/6f88b11fecdff62d.png)
+![](https://acximages.ennals.org/images/2024-book-reviews/24f84503d3bb0f08.png)
 
 There are, in my view, two main reasons for why refugees came to Germany. Firstly, because Germany has a rather comfortable welfare system and secondly, because Angela Merkel, the former German Chancellor, _literally_ asked for it. As a consequence of this migration policy mixed with past migration and relatively low native birth rates (1.36 (native) vs. 1.88 (non-native) per woman), the native population in Germany is gradually getting replaced. Consider the figure below, which shows the amount of individuals living in Germany by migrant background and age.[[248]](#ftnt248) Whereas only about 10% of retired people have a migration background, about 40% of children do.
 
-![](https://acximages.ennals.org/images/2024-book-reviews/bdbaedb43d0afb2d.jpg)
+![](https://acximages.ennals.org/images/2024-book-reviews/360fe216ed322572.jpg)
 
 Individuals with migration background (green) compared to the overall population by age (2020)
 

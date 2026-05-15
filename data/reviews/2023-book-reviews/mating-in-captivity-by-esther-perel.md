@@ -18,7 +18,7 @@ tags:
 
 ![](https://acximages.ennals.org/images/2023-book-reviews/ed70cbf206aae323.jpg)
 
-What are the first things that come to your mind when I ask you what forms the basis of a good relationship? Let’s do this Freud-style. Take a minute and write down the first 3 words that come to your mind first when you hear the phrase _a good relationship_. I’ll give you some space.![](https://acximages.ennals.org/images/2023-book-reviews/1d44df28935bb2dd.jpg)
+What are the first things that come to your mind when I ask you what forms the basis of a good relationship? Let’s do this Freud-style. Take a minute and write down the first 3 words that come to your mind first when you hear the phrase _a good relationship_. I’ll give you some space.![](https://acximages.ennals.org/images/2023-book-reviews/58b07d96662bf750.jpg)
 
 .
 

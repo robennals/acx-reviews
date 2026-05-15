@@ -20,7 +20,7 @@ As a non-biologist, I've always been under the impression that evolution is one 
 
 The scientific consensus is that the main driver of speciation is natural selection — as populations become isolated, they are subjected to differing selective pressures and gradually mutate in dissimilar ways.
 
-![](https://acximages.ennals.org/images/2023-book-reviews/c70f64fe426e62c9.png)
+![](https://acximages.ennals.org/images/2023-book-reviews/09a281ccaa54cc6d.png)
 
 _Speciation modes by Imari Hakonen. CC-By-SA._
 
@@ -33,7 +33,7 @@ _Speciation modes by Imari Hakonen. CC-By-SA._
 He instead posits a [saltational](https://en.wikipedia.org/wiki/Saltation_(biology)) theory in which novel forms come from hybridization of distantly related organisms. “But wait. Aren't hybrids sterile due to mismatched chromosomes?” you may ask; indeed, the author spends much of Chapter 4 on adding epicycles of his own to justify this.
 
 ![Obraz zawierający diagram
-Opis wygenerowany automatycznie](https://acximages.ennals.org/images/2023-book-reviews/8b52021ecfc09feb.png)
+Opis wygenerowany automatycznie](https://acximages.ennals.org/images/2023-book-reviews/a34d9b2ca0ede7fa.png)
 
 _It's the same with higher animals, I promise!_
 
@@ -52,7 +52,7 @@ If we could sequence a lot of genome and institute a metric that would map genom
 Whereas McCarthy's hybrid theory predicts that any hybrid _C_ with parents _A_ and _B_ would have roughly _d_(_A_,_C_) = _d_(_C_,_B_) = ½_d_(_A_,_C_) — the inequality is violated as much as possible.
 
 ![Obraz zawierający tekst, gazeta, zrzut ekranu, dokument
-Opis wygenerowany automatycznie](https://acximages.ennals.org/images/2023-book-reviews/f4f4730585467d74.png)
+Opis wygenerowany automatycznie](https://acximages.ennals.org/images/2023-book-reviews/8b02a696c5932aee.png)
 
 _Alleged hybrids with their parents._
 

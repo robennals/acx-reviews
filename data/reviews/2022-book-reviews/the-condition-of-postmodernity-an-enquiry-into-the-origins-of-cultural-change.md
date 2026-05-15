@@ -67,7 +67,7 @@ In medieval times, around 500-1400 CE, time and space were mostly perceived as s
 
 We have evidence that people had a very personal, subjective way of looking at time and space because of the art from that period. Harvey says that medieval cartographers had a tendency to “emphasize the sensuous rather than the rational and objective qualities of spatial order.” Take a look at these medieval maps to get an idea of what he’s talking about:
 
-![](https://acximages.ennals.org/images/2022-book-reviews/4a61d35c4f897449.png)
+![](https://acximages.ennals.org/images/2022-book-reviews/f10fd3641e6e8642.png)
 
 Plate 3.3 from _The Condition of Postmodernity_
 
@@ -77,7 +77,7 @@ This all began to change with the Renaissance in the 15th and 16th centuries. A 
 
 The most obvious visual change was the use of linear perspective by artists of this period. This meant that artists began producing paintings, maps, and other works of art from a “fixed viewpoint” and representing three-dimensional spatial depth on a flat, 2D canvas. Cartographers also imported conceptual breakthroughs like the Ptolemaic grid which divided space up into a coordinate plane and made it possible to create maps that were consistent, rational, and representative beyond just a single person’s viewpoint. Suddenly, maps started looking like this:
 
-![](https://acximages.ennals.org/images/2022-book-reviews/1b5963c77bd44d70.png)
+![](https://acximages.ennals.org/images/2022-book-reviews/bd435a75963db02a.png)
 
 Plate 3.4 from _The Condition of Postmodernity_
 
@@ -105,7 +105,7 @@ This is where Harvey’s idea of time-space compression comes in. Here’s how h
 
 And here is the classic image of time-space compression as shown through innovations in transport:
 
-![](https://acximages.ennals.org/images/2022-book-reviews/a5bc12401b6c0f24.png)
+![](https://acximages.ennals.org/images/2022-book-reviews/f89313beccedc322.png)
 
 Plate 3.1 from _The Condition of Postmodernity_
 
@@ -165,7 +165,7 @@ Postmodernists were on some level, quite cynical when evaluating modernist thoug
 
 Harvey, by way of literary theorist ​​Ihab Hassan, includes a table that very bluntly (and he admits this) contrasts modernism and postmodernism:
 
-![](https://acximages.ennals.org/images/2022-book-reviews/559eb60918e8323a.png)
+![](https://acximages.ennals.org/images/2022-book-reviews/860af0de50f6f045.png)
 
 Table 1.1 from _The Condition of Postmodernity_
 

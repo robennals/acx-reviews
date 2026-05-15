@@ -28,7 +28,7 @@ Could there be some more impartial, less morally charged account of WW2, beyond 
 
 If you asked a persuasive Nazi officer or official to justify all the conquest and genocide, and skull badges, is there anything they could say that would sound even vaguely sympathetic to someone with modern liberal sensibilities?
 
-![](https://acximages.ennals.org/images/2024-book-reviews/5e1653ef361b4960.jpg)
+![](https://acximages.ennals.org/images/2024-book-reviews/cdd0f87e769c7b21.jpg)
 
 _Did anyone ever actually ask this? I can’t even imagine how that conversation would go._
 
@@ -150,7 +150,7 @@ So there are several areas Tooze’s analysis that raise difficult ethical quest
 
 So coming back to asking Hanz whether we’re the baddies.
 
-![](https://acximages.ennals.org/images/2024-book-reviews/16a793e64669ef59.jpg)
+![](https://acximages.ennals.org/images/2024-book-reviews/49442d7051bb47ec.jpg)
 
 Imagine Hanz presented the arguments of _Wages of Destruction_ as justification for Germany’s conquests and genocide, and it was as erudite and painstakingly researched as Tooze’s book. If he argued conquest was necessary because of the position that the US and Britain had put Germany in internationally and that the genocides had been necessary because of the shortage of food. I’d think those were brutally utilitarian arguments, but potentially they might garner some sympathy, even if you rejected the Nazi’s other more racist and conspiratorial justifications for their actions.
 

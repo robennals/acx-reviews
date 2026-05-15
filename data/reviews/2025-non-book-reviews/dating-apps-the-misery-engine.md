@@ -57,7 +57,7 @@ So obviously dating apps aren’t free. How are they getting your money? There�
 
 The first and most ubiquitous is the subscription plan. Let’s look at [the Hinge plans](https://help.hinge.co/hc/en-us/articles/38014282744595-Subscription-and-Purchase-Benefits), as an example:
 
-![](https://acximages.ennals.org/images/2025-non-book-reviews/18736be5edef9361.png)
+![](https://acximages.ennals.org/images/2025-non-book-reviews/096049ab580a728e.png)
 
 HingeX is $50 monthly, and the breakdown for Tinder features and cost for the highest tier is similar[3]. If you just want unlimited likes via Hinge+, pretty much the bare minimum you need as a male user to even be able to use the app, that runs around 30 dollars monthly.
 

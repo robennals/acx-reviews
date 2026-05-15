@@ -57,7 +57,7 @@ Catkin returns to the wise-woman one final time, requesting her adjudication. Tr
 
 _Original research interlude_: Catkin is described as so small his tail is no bigger than the catkins hanging from the hazel trees. Assuming the hazel in question is _Corylus avellana_, his tail is at most 12 centimeters long. As the average cat tail length is about 30.5 centimeters, we can confidently assert that Catkin is less than 40% of a standard cat.
 
-![](https://acximages.ennals.org/images/2024-book-reviews/02a709eaf3d4a041.png)
+![](https://acximages.ennals.org/images/2024-book-reviews/540907c86e9422a5.png)
 
 To understand what makes good children's fiction, it helps to understand where children's fiction commonly goes wrong. Most of it, of course, goes wrong by being opportunistic, contemptible dreck. Being short and often simple, children’s media is easy to mass-produce; the result is an aesthetically radioactive trash-scape of clipart pablum. (It will only get worse.)
 

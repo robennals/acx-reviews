@@ -143,7 +143,7 @@ Lastly, this external conflict cycle interacts with Dalio’s other cycles, beca
 
 Over the past 500 years, Dalio identifies three big cycles of rising and declining conflict, averaging around 150 years each. (195) And he claims that a relatively long period of peace and prosperity sows “the seeds for terrible and violent external wars.” (196)
 
-![](https://acximages.ennals.org/images/2023-book-reviews/abdaac4f337f482c.png)
+![](https://acximages.ennals.org/images/2023-book-reviews/86f58c1795f72950.png)
 
 Ah, peace – causing war again!
 
@@ -167,7 +167,7 @@ But Dalio also claims that these cycles and determinants are timeless and univer
 
 So, what does the Changing World Order look like more broadly and historically?
 
-![](https://acximages.ennals.org/images/2023-book-reviews/44e192eb49f454a2.png) 
+![](https://acximages.ennals.org/images/2023-book-reviews/baf81b71548d1dff.png) 
 
 Dalio states that the indices of wealth and power are a composite of his eight key determinants and are:
 
@@ -378,8 +378,8 @@ Dalio is building upon a lot of his own prior research into global economic heal
 
 You can find Dalio’s supporting charts online [here](https://www.economicprinciples.org/DalioChangingWorldOrderCharts.pdf). Below are his full model inputs.
 
-![](https://acximages.ennals.org/images/2023-book-reviews/c7d59aef599f131c.png)
+![](https://acximages.ennals.org/images/2023-book-reviews/45685df4b1ace583.png)
 
 And
 
-![](https://acximages.ennals.org/images/2023-book-reviews/70f8cc9fee526d86.png)
+![](https://acximages.ennals.org/images/2023-book-reviews/38227d9c9c683ae6.png)

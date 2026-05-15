@@ -51,7 +51,7 @@ Systematising and empathising are the twin helices that weave throughout Baron-C
 
 If we combine SQ and EQ in a two-by-two, we get a matrix of neurotypes that looks like this:
 
-![](https://acximages.ennals.org/images/2024-book-reviews/5e9aefa8a44066f4.png)
+![](https://acximages.ennals.org/images/2024-book-reviews/05077606d25f004b.png)
 
 Baron-Cohen splits these neurotypes into five categories.
 
@@ -231,7 +231,7 @@ This is where Baron-Cohen's theory gives us some hope (or despair, depending on 
 
 At the end of the book, Baron-Cohen speculates that the systematising trait might follow something like an inverted U-shaped curve: more is better, but only up to a point.
 
-![](https://acximages.ennals.org/images/2024-book-reviews/5ab2d3e37af78423.png)
+![](https://acximages.ennals.org/images/2024-book-reviews/6ab3da21d90bb048.png)
 
 Once you reach the top of the curve, the whole 'rigidity and repetition' thing starts to become pathological, until you become the kind of person who is compelled to spend all day arranging toys in rows and counting them over and over. The hyper-focus on one system interferes with learning about the wider world, including very important things like language and speech.
 

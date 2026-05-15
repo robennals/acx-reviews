@@ -71,7 +71,7 @@ I got home and I started reading it. I became confused. Surprisingly, it did blo
 
 Trying to summarize this book is a bit like trying to capture the essence of a complex three-dimensional object like a human body with a single two-dimensional slice:
 
-![Sagittal plane - Wikipedia](https://acximages.ennals.org/images/2022-book-reviews/d911162af568704f.png)
+![Sagittal plane - Wikipedia](https://acximages.ennals.org/images/2022-book-reviews/b1265be82e19401a.png)
 
 Nonetheless, the simplest way to describe _The Book of All Hours_ is that it tells a story not about characters in the normal sense, but about hyper-characters- archetypes. It does this by weaving a series of stories, with the same archetypes in them, together into sequences corresponding to a narrative of narratives.
 

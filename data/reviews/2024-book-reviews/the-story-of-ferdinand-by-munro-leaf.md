@@ -32,13 +32,13 @@ This passage to me recalls the end of _The Cat in the Hat_, written 21 years lat
 
 Later on, when the bull-selectors arrive from Madrid, they are described as "four men in very silly hats". Here, it's the "very" that gets me. These are important, serious men, but their hats are not just silly, they're _very_ silly. Looking at the illustrations though, standards for silliness have clearly increased over the past 90 years, because these hats are, at the most, kinda silly:
 
-![](https://acximages.ennals.org/images/2024-book-reviews/d7e5bcd82a9862df.png)
+![](https://acximages.ennals.org/images/2024-book-reviews/6ca1df9b7008a5ee.png)
 
 If Minions described characters as having silly hats, you know one of them would have a tortilla-chip sombrero and another would probably have a cuckoo clock crossed with a water slide.
 
 The best illustrations, however, are the ones of the cork tree, which Robert Lawson draws as having literal corks hanging from the tree like grapes:
 
-![](https://acximages.ennals.org/images/2024-book-reviews/7646d978208c1ac1.png)
+![](https://acximages.ennals.org/images/2024-book-reviews/38c6b8ee2e9dc933.png)
 
 I'm 99% certain that this is an intentional bit of whimsy, but there's a tiny part of my brain that wonders if nobody knew what a cork tree looked like? After all, Dumbo was released 5 years later containing this remarkably inaccurate map of the United States, and it was probably easier to find an atlas than a picture of a cork tree:
 
@@ -46,7 +46,7 @@ I'm 99% certain that this is an intentional bit of whimsy, but there's a tiny pa
 
 All the illustrations in _Ferdinand_ are the same black and white line drawings throughout. I know even less about art than I do about writing, but I'll just say that they manage to convey a wide range of emotions in simple drawings. That includes whether it's Ferdinand being shocked and hurt when stung by a bee, his mother being satisfied that Ferdinand is happy, and the proud matador entering the ring:
 
-![](https://acximages.ennals.org/images/2024-book-reviews/8002b25cc49e6019.png)
+![](https://acximages.ennals.org/images/2024-book-reviews/1cbfbf6a94c351a5.png)
 
 Reading _Ferdinand_ in 2024 is disconcerting because it feels incredibly modern and incredibly dated, simultaneously. What modern children's book would include vivid descriptions of men wanting to stab a bull with swords and spears:
 

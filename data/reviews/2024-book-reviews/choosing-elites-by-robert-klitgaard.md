@@ -32,7 +32,7 @@ Klitgaard’s fundamental message is that selective universities and other insti
 
 Klitgaard does not tell selective schools what their admissions policies should be; he prefers to construct intellectual frameworks they could use to answer that question for themselves. For example, here is the framework concerning the representation of groups:
 
-![](https://acximages.ennals.org/images/2024-book-reviews/c0dcc04f4c76168b.gif)
+![](https://acximages.ennals.org/images/2024-book-reviews/f45f364b3601b0b5.gif)
 
 Of course, this sort of explicit, rigorous process is not what admissions committees traditionally do or have ever done. Admissions offices are not staffed with economists. They are unwilling or incapable of thinking that hard about what they do. But it is difficult to deny that the framework approach makes a lot of sense.
 

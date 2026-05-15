@@ -18,7 +18,7 @@ tags:
 
 Put a rat in a cage. Show it a lever. A few seconds later, regardless of what it does, give it some food. Repeat a couple dozen times a day for a week and the rat will learn to associate the lever with food. Some rats go over to where the food will come as soon as they see the lever. Those rats are goal-trackers. The rest of the rats will start to play with the lever and maybe chew on it once they see the lever. And then once the food appears they'll go over to that part of the cage and eat it. Those rats are sign-trackers. Sign-tracking entails the release of stress hormones, and its pointless because the sign-trackers don't get any more food than the goal-trackers. Sign-tracking sucks; zero out of five stars; do not recommend.
 
-![](https://acximages.ennals.org/images/2025-non-book-reviews/27eee0d2fe555439.jpg)
+![](https://acximages.ennals.org/images/2025-non-book-reviews/7932db02b2e5319b.jpg)
 
 Imagine that you come home and your dog runs up and jumps on you and licks your face, while your cat goes to the food bowl and waits expectantly. Your cat is exemplifying goal-tracking, because food is a cat’s ultimate goal; your dog is exemplifying sign-tracking, because you are the sign that often precedes food.
 

@@ -113,7 +113,7 @@ If a civilization detects through radio waves or otherwise the presence of anoth
 
 So, if dark forest theory is correct, then civilizations would never broadcast signals in the open, and civilizations which hadn't figured out that this is the best strategy, would be summarily executed by a neighboring civilization that has.
 
-![](https://acximages.ennals.org/images/2022-book-reviews/ef2d778720dfabf7.jpg)
+![](https://acximages.ennals.org/images/2022-book-reviews/f4d8761b57a8aade.jpg)
 
 Or in the beautiful words of Cixin:  
 

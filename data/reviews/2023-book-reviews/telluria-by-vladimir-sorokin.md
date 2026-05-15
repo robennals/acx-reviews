@@ -21,7 +21,7 @@ Hybrid Warfare: A Russian Postmodernist Invades the Brain with a Hammer and Nail
 
 _Telluria_ by Vladimir Sorokin, NYRB Classics, published August 16, 2022
 
-![](https://acximages.ennals.org/images/2023-book-reviews/96f8dec6bb7e8407.png)
+![](https://acximages.ennals.org/images/2023-book-reviews/9ffabb43ecf284f9.png)
 
 * * *
 
@@ -59,7 +59,7 @@ In his theory of the carnivalesque, Bakhtin saw the gritty physicality of the Eu
 
 The center of the book contains its highest physical peak, some of its most straightforward narration, and its core of geopolitical power—a mountain palace belonging to the president of Telluria, a remote republic in the Eurasian mountains that gained its strategic and economic power after the discovery of a cache of tellurium underneath its mountains. After waking up naked underneath a camel skin, Jean-François Trocard takes a cold plunge, piddles with a collection of rare coins, then skis down from his mountaintop of luxury until activating a jetpack, flying over a village, and then setting down to mingle among the adoring commoners. As Uffelmann and others have noted, this absurd scene echoes Vladimir Putin’s own absurd hang gliding with cranes in 2012, not long before _Telluria_’s initial publication. Putin’s stunt is more explicitly referenced by a character who reminisces about a long ago boyhood, remembering the “last rulers of Russia.”
 
-![](https://acximages.ennals.org/images/2023-book-reviews/0152c2152c7ab9fb.png)
+![](https://acximages.ennals.org/images/2023-book-reviews/b60f221309d5d8d8.png)
 
 _Vladimir Putin soars in 2012_
 

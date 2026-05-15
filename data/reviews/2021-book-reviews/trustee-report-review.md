@@ -95,7 +95,7 @@ And it gets worse the higher the market price goes. If the strike price on a 100
 
 If Fletcher’s formula is taken literally, his warrants had incredible latent value, much of which would be realized only if the underlying stock appreciated by a lot. Remember, these issuers tended to be financially distressed, so you might not expect their stock to perform very well. Still, when a stock has an uncertain future value, an option with those characteristics would be very valuable. The Davis report provides a helpful graph illustrating how the Fletcher formula boosts returns relative to the standard formula (see page 185):
 
-![](https://acximages.ennals.org/images/2021-book-reviews/71cebc8c876a5251.png)
+![](https://acximages.ennals.org/images/2021-book-reviews/6a318c8a71d57ea4.png)
 
 If you didn’t spot the problem with Fletcher’s formula, don’t feel too bad. Although he used the non-standard formula for PIPE agreements with several companies, none of them came to grief. One company noticed the flawed formula after signing the agreement, and when it complained, Fletcher agreed to amend the contract to use the standard formula. In another case a Fletcher fund successfully used his formula to exercise a warrant, but the strike price was so close to the market price that it made little practical difference. (See the graph above. At low values, the lines are pretty close together.)
 

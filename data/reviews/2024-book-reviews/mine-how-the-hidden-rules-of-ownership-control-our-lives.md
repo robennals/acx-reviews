@@ -240,7 +240,7 @@ Finally, while ownership design is far from a perfect science, _Mine!_ does give
 *   For various goods and services, it’s often possible to broker access to people willing to pay different prices for better or worse versions.
 *   And for “lumps” (i.e., undividable resources), like physical property or certain abstract ideas, it’s usually best to just award ownership to one person—perhaps offering damages or a mandatory license to others who might have had a claim.
 
-![](https://acximages.ennals.org/images/2024-book-reviews/210d51ebf237e6b3.png)
+![](https://acximages.ennals.org/images/2024-book-reviews/23b7086ebc1e1856.png)
 
 This ABC framework is admittedly reductive, and somewhat vague in its predictions; still it’s a synthesis I believe would have helped Heller and Salzman’s examples cohere.
 

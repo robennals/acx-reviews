@@ -78,7 +78,7 @@ _Why Fish Don’t Exist_ presents eugenics as bad science and bad policy, and th
 
 Certainly, they had a flawed understanding of human genetics. They [incorrectly believed that undesirable traits could be explained by a few recessive Mendelian variants](https://www.cshl.edu/good-genes-bad-science/), and worse, they allowed racism to dominate science. Was the “feeblemindedness” of immigrants really genetic, or because they struggled in a culturally and linguistically unwelcoming educational system? However, over the past few decades, research has conclusively shown that many socially important traits, including intelligence, are indeed heritable to a large extent.[[5]](#ftnt5) Therefore, applying selection pressure with respect to these traits would shift their distribution in the population over time. A eugenicist would select humans in the same way dairy farmers [have selected cattle for better milk production](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1569519/).
 
-![](https://acximages.ennals.org/images/2023-book-reviews/1a80ad44485e71a2.png)
+![](https://acximages.ennals.org/images/2023-book-reviews/8e2dee4c447a0775.png)
 
 [Source](https://www.journalofdairyscience.org/article/S0022-0302(06)72196-8/fulltext). Since the publication of that graph, [even more progress has taken place.](https://aipl.arsusda.gov/reference/nmcalc-2018.htm)
 
@@ -110,7 +110,7 @@ Here we return to David Starr Jordan and the taxonomy of fishes. Jordan and his 
 
 Taxonomy has progressed quite a long way since the days of Linnaeus and the _scala naturae_. Although taxonomists since Darwin had tried to group organisms by common descent, as molecular biology became more advanced, it was clear that many of the traditional groupings were incorrect. By the 1980s, biologists had settled on a rigorous definition of taxonomy in terms of clades, which are all the descendants of a single particular ancestor.
 
-![](https://acximages.ennals.org/images/2023-book-reviews/a27920c369a1b209.png)
+![](https://acximages.ennals.org/images/2023-book-reviews/af449676943fbc41.png)
 
 A phylogenetic tree of vertebrates ([source](https://www.ucl.ac.uk/museums-static/obl4he/vertebratediversity/))
 

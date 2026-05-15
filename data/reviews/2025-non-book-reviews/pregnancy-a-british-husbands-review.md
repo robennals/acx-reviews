@@ -55,7 +55,7 @@ So I was amused, and at first a little uncomfortable, to discover that Baby Worl
 
 We went with the cake. It was blue.
 
-![](https://acximages.ennals.org/images/2025-non-book-reviews/2539c847a23a4a1d.jpg)_Colour scheme of a gender reveal party, according to Google Search_
+![](https://acximages.ennals.org/images/2025-non-book-reviews/ea436197b9c99c1c.jpg)_Colour scheme of a gender reveal party, according to Google Search_
 
 Then, I was led to believe, it’s time to start weight measurements and amniotic fluid scans. Oster seems to worry a lot about these being misinterpreted. Her midwife berates her for gaining too much weight (an experience shared by our friend in New York), even though it would be worse to _not_ gain weight. And when, in a later pregnancy scan that’s known for being noisy, doctors appear to measure a low level of amniotic fluid in her friend, they whisk her away for sudden emergency induction.
 
@@ -65,7 +65,7 @@ After reading Oster’s book, I was, if anything, relieved that the NHS doesn’
 
 It seems to me that the various monitoring and screening tests can be placed on a scale of their benefit for a typical pregnancy, a bit like this:
 
-![](https://acximages.ennals.org/images/2025-non-book-reviews/7b361382ae2aa367.jpg)
+![](https://acximages.ennals.org/images/2025-non-book-reviews/ef24a28a074e15a0.jpg)
 
 The basic ultrasounds are _usually_ enough, then there are additional tests that make it slightly more likely the pregnancy will succeed and the mother will be safe. These get more and more marginal, until eventually some tests can apparently cause more harm than good,[6] because they lead doctors to overreact to noisy data. If you have the resources, you can try to buy extra tests to climb the curve until you are giving the mother and pregnancy the best chance you can.
 

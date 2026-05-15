@@ -61,7 +61,7 @@ There were still hundreds of millions of Terran people left over after the ravag
 
 Readers who have been paying attention might notice that I keep using terms like the society or the pyramid. This is because the author creatively termed his civilization The Society, and the caste system is organized into a pyramid. Keeping with this wildly creative tradition, the ruling executive's title is The Sovereign. At the top of this pyramid are the philosopher-kings, the ruling elite, golds. The tier below them is occupied by silvers (financiers), whites (ritual functionaries), and coppers (bureaucrats). These top two tiers are collectively known as the high colors. Third tier members include blues (spaceship crew), greens (programmers), yellows (doctors/scientists), violets (artists), and oranges (engineers). Below this tier are the greys, which make up the police and military forces. These are collectively the mid colors. Tier 5 is made up of browns (menial laborers), obisidians (warriors), and pinks (entertainers). At the absolute bottom tier are the reds, manual laborers who toil away in the mines or fields.
 
-![](https://acximages.ennals.org/images/2024-book-reviews/5a56419c93eb2bfc.png)
+![](https://acximages.ennals.org/images/2024-book-reviews/be90587daf176fbd.png)
 
 Image credit: [https://red-rising.fandom.com/wiki/Color](https://red-rising.fandom.com/wiki/Color)
 

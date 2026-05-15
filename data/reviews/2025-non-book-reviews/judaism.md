@@ -66,7 +66,7 @@ Judah the Prince assembles the learned men of his day, and redacts the Oral Law 
 
 The Mishnah is taught to generation after generation of trainee judge, with a teacher’s manual called the Gemara gradually being added to the corpus. After about four hundred years of this, the final combination of Mishnah + Gemara are compiled into a text that will become Judaism’s source code in exile: an intricate literary goliath called “the Talmud” (lit. “teaching”, once again). Confusingly, the entire Talmud is often also simply called the Gemara.
 
-![](https://acximages.ennals.org/images/2025-non-book-reviews/51039e8cb9bb3fd8.png)
+![](https://acximages.ennals.org/images/2025-non-book-reviews/afc5111b4f1788ff.png)
 
 _The 73-volume Artscroll translation of the Talmud, complete with commentary. A steal at merely_ _[$2,999 USD](https://www.amazon.com/Complete-Talmud-Bavli-Full-Size-Schottenstein/dp/B0037XGR6I)__._
 
@@ -86,7 +86,7 @@ Being raised in the social milieu of their host nations meant that Jews now lear
 
 When we look back at the arguments of the sages in the Talmud, it sure seems like they’re playing Absurd Divine Legal Sudoku as well, at least at first glance. But with an appreciation of their material conditions and shared language, you can still glimpse [the real high-stakes conversations they were having](https://www.academia.edu/8844716/_The_Prosbul_A_Legal_Fiction_Jewish_Law_Annual_19_1_16), albeit framed in an [unfamiliar theologically-laden shorthand](https://www.academia.edu/112985684/Wise_hukkim_and_the_Byzantine_sermonic_ideology_of_a_Divine_fiat).
 
-![](https://acximages.ennals.org/images/2025-non-book-reviews/327197922d416e01.png)
+![](https://acximages.ennals.org/images/2025-non-book-reviews/5242b4199626c46a.png)
 
 _“From what time does one recite Shema in the evening?” the Talmud begins, presuming you already know (a) what the Shema is, (b) that it is recited in the evening, (c) what the function of that recitation is, and (d) that there are more- and less- ideal times for its recitation._
 
@@ -229,7 +229,7 @@ Most Jews don’t wear hats, but for those who do, hats are very serious busines
 
 Jewish law requires men to cover their heads. Males start wearing one of these from the age of three:
 
-![](https://acximages.ennals.org/images/2025-non-book-reviews/ab0b5e7e761729a5.png)
+![](https://acximages.ennals.org/images/2025-non-book-reviews/64d6ac6b51ef7d99.png)
 
 It’s called a kippah (lit. “cover”) or yarmulke (lit. “fear of the King”), and it’s meant to indicate humility before one’s Creator.
 
@@ -237,12 +237,12 @@ It’s called a kippah (lit. “cover”) or yarmulke (lit. “fear of the King�
 
 OK, so far so good. The kippah above is a fairly standard Chabad design. Here’s a selection of other designs, along with [attached signaling information](https://www.pewresearch.org/short-reads/2016/04/20/what-different-styles-of-head-coverings-say-about-israeli-jewish-men/):
 
-![](https://acximages.ennals.org/images/2025-non-book-reviews/7281e46a0449e8de.png)_  
+![](https://acximages.ennals.org/images/2025-non-book-reviews/d1c6904b0d731ad1.png)_  
 Hard to believe this is straight from Pew._
 
 If you’re sufficiently attuned to the Matrix, you can tell all sorts of things about a Jew from his hat. There’s the basic divide between the black kippot and the knitted kippot. You can often tell how serious a guy is in his faith (or how much he wants his faith to be taken as a core part of his identity) by the size of his kippah. And he’ll sometimes tell you explicitly about his political or sports or pop culture allegiances too.
 
-![](https://acximages.ennals.org/images/2025-non-book-reviews/9cec682b772335bb.png)![](https://acximages.ennals.org/images/2025-non-book-reviews/c5ca39b6d434b558.png)![](https://acximages.ennals.org/images/2025-non-book-reviews/f6b8d2399ad9f5ad.png)
+![](https://acximages.ennals.org/images/2025-non-book-reviews/9cec682b772335bb.png)![](https://acximages.ennals.org/images/2025-non-book-reviews/17692df405d5dcd9.png)![](https://acximages.ennals.org/images/2025-non-book-reviews/92d75d97baa2d83a.png)
 
 But once you get into the ultra-Orthodox world, you’re normally seeing an additional hat on top of the kippah. Take a look:
 
@@ -250,7 +250,7 @@ But once you get into the ultra-Orthodox world, you’re normally seeing an addi
 
 At first glance, they’re all dressed the same, right? But the longer you look, the more you notice subtle differences. These differences speak volumes to those who have ears to hear. I recently asked a good friend and mentor of mine to explain his hat.
 
-![](https://acximages.ennals.org/images/2025-non-book-reviews/14369be71af00e75.png)_  
+![](https://acximages.ennals.org/images/2025-non-book-reviews/c8be74394bf8aef1.png)_  
 His hat looks like this._
 
 He said, and I quote here almost verbatim:
@@ -276,4 +276,4 @@ So, please, take everything I’ve said with a sense of perspective.
 
 And if you’re ever in Jerusalem, [come for Shabbos](mailto:metonacx@gmail.com). (I’m serious, btw. I’ve cleared it with my wife and everything.)
 
-![](https://acximages.ennals.org/images/2025-non-book-reviews/c1ad1a57f96b197e.png)
+![](https://acximages.ennals.org/images/2025-non-book-reviews/afa67906094a2752.png)

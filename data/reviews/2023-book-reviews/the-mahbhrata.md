@@ -17,7 +17,7 @@ tags:
   - Philosophy
 ---
 
-![](https://acximages.ennals.org/images/2023-book-reviews/38e8c1bf2ea04bd8.jpg)[Artist/maker unknown, India, Himachal Pradesh or Jammu and Kashmir](https://upload.wikimedia.org/wikipedia/commons/4/45/Arjuna_and_karna_in_war%2C_krishna_as_arjuna_charioter.jpg), [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0), via Wikimedia Commons
+![](https://acximages.ennals.org/images/2023-book-reviews/acd05377d50a2309.jpg)[Artist/maker unknown, India, Himachal Pradesh or Jammu and Kashmir](https://upload.wikimedia.org/wikipedia/commons/4/45/Arjuna_and_karna_in_war%2C_krishna_as_arjuna_charioter.jpg), [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0), via Wikimedia Commons
 
 Action, philosophy, history, even comedy. The Mahābhārata has it all. It told me so itself.
 

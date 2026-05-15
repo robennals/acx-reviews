@@ -51,7 +51,7 @@ Saki wants to fit in with her classmates, but can’t afford to buy clothes or f
 
 Next, Saki’s father, returning home drunk after losing his job, rapes her. When her mother finds out, her father claims that Saki seduced him, and her mother believes him, blaming Saki. Saki flees her home and starts living with Hayato who pushes her into prostitution and harder drugs.
 
-![](https://acximages.ennals.org/images/2024-book-reviews/5a622deb38d8ab8d.jpg)
+![](https://acximages.ennals.org/images/2024-book-reviews/f5c9ba14eff5874f.jpg)
 
 Saki as a _gyaru_. _Gyaru_, a Japanese transliteration of “gal”, is a fashion subculture (and popular hentai tag).
 
@@ -79,7 +79,7 @@ But, I think most tellingly, _Metamorphosis_ has [cosplay](https://en.wikipedia.
 
 _Metamorphosis_ is the only hentai I’m aware of with multiple fans cosplaying as the main character.
 
-![](https://acximages.ennals.org/images/2024-book-reviews/309b85ee5c098b0e.jpg)
+![](https://acximages.ennals.org/images/2024-book-reviews/68e23ed148a5923f.jpg)
 
 Rui Ai as Saki
 

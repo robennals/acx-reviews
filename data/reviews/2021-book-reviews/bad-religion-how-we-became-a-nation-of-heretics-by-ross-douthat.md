@@ -169,7 +169,7 @@ Some theories that are probably false include the rise of education, urban life,
 But if you look at the data, it’s clear that liberals are becoming non-religious at a much higher rate than moderates or conservatives. This article at 538, [The Christian Right Is Helping Drive Liberals Away From Religion](https://fivethirtyeight.com/features/the-christian-right-is-helping-drive-liberals-away-from-religion/)” by Amelia Thomson-Deveaux is very persuasive and provides evidence for the claim that the biggest reason for the decline of Christianity is the Christian right.
 
 ![Chart, line chart
-Description automatically generated](https://acximages.ennals.org/images/2021-book-reviews/c1ad9d01de5735a2.png)
+Description automatically generated](https://acximages.ennals.org/images/2021-book-reviews/f611ac388f4c4adb.png)
 
 We’ve talked a lot about political polarization with respect to political parties and ideological conformity, and I’m not convinced that political polarization is a bad thing for political parties or the American political system. But the association of Christianity with the Right is very bad for Christianity writ large. Ideally, a Christian church should transcend partisanship and sometimes challenge the political consensus of the Republican Party, the Democratic Party, or both. Jesse Jackson, Al Sharpton, Pat Robertson, and Mike Huckabee running for president are symptoms of too many religious leaders (Robert Jeffress, Jerry Falwell Jr. among others) becoming overtly partisan. More obviously, the evangelical community identifying with the Republican party “magnified their political strength even as it compromised their moral credibility.” (69, Bad Religion). To Douthat, it’s depressing that “frequent churchgoers were the most fervent supporters of waterboarding detainees, among other seemingly un-Christian practices” (141, Bad Religion). As Douthat observes about the Christian Right: “resentment, partisanship, hero worship, martial language…these were unattractive features for a movement whose primary goal was supposed to be winning converts, not elections” (141, Bad Religion).
 
@@ -179,12 +179,12 @@ After earning my Eagle Scout in 2009, the Boy Scout Council gave me a signed cop
 
 To evaluate the other causes, though, it’s important to have the correct mental model about how large and widespread this decline actually is. This graph from Pew Research Center shows that the decline in religiosity is largely a generational effect.
 
- ![Large generation gap in American religion](https://acximages.ennals.org/images/2021-book-reviews/ec1da702d413354e.png)
+ ![Large generation gap in American religion](https://acximages.ennals.org/images/2021-book-reviews/45f34dd0949c820e.png)
 
 And before you think this phenomenon is just because young people are more likely to be less-religious; it’s pretty clear that the generational difference in religiosity is not just an age effect. In fact, _every_ generation has declined in religiosity over the last 20 years. (table from Gallup’s [U.S. Church Membership Down Sharply in Past Two Decades](https://news.gallup.com/poll/248837/church-membership-down-sharply-past-two-decades.aspx)) So people are not even attending church more as they age.
 
 ![Graphical user interface, text
-Description automatically generated](https://acximages.ennals.org/images/2021-book-reviews/0e155c05635fa57c.png)
+Description automatically generated](https://acximages.ennals.org/images/2021-book-reviews/c330ed398ebaa0b3.png)
 
 Not only are people not getting more religious, but younger generations are less religious than older generations. From the table, we can see that at the same age, 62% of Gen X belonged to a church while only 42% of Millennials do. The key insight is that the religious preferences of the next generation start young:
 
@@ -235,9 +235,9 @@ But seriously, Douthat seems to misunderstand the unease faced by many theologic
 But my frustration with the “traditional Christianity” faction goes deeper. One proponent of “traditional” Christianity wrote a twitter thread about the Methodist schism that was especially illustrative and infuriating. Among other things, he accuses white theological liberal American Methodists of being racist:
 
 ![Graphical user interface, text, application, email
-Description automatically generated](https://acximages.ennals.org/images/2021-book-reviews/d8d4aef886db6baf.png)![Graphical user interface, text, application
-Description automatically generated](https://acximages.ennals.org/images/2021-book-reviews/e154f34a4e4a531f.png) ![Graphical user interface, text, application
-Description automatically generated](https://acximages.ennals.org/images/2021-book-reviews/25e2c305c6166196.png)
+Description automatically generated](https://acximages.ennals.org/images/2021-book-reviews/3ee016fce06768f6.png)![Graphical user interface, text, application
+Description automatically generated](https://acximages.ennals.org/images/2021-book-reviews/17f561cbdf110241.png) ![Graphical user interface, text, application
+Description automatically generated](https://acximages.ennals.org/images/2021-book-reviews/17cc78b55f6ff925.png)
 
 The debate, as everyone knows, was about whether the United Methodist Church would sanction gay marriage. The fact that this flashpoint also fractured the church politically made the schism possible. So while I’m sad that there’s a schism, it might be for the best.
 

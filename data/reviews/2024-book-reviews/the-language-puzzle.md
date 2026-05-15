@@ -90,4 +90,4 @@ I personally think this hypothesis sounds nice but I need further convincing. Vi
 
 Here's a summary of most of the things, and including a few aspects that I didn't cover in this review:
 
-![](https://acximages.ennals.org/images/2024-book-reviews/57819e40590da99b.jpg)
+![](https://acximages.ennals.org/images/2024-book-reviews/c985c3516a28619c.jpg)

@@ -23,7 +23,7 @@ tags:
 3.  Regardless, exponential curves are magic, and we humans always underestimate how fast they grow. As the SA article puts it, “Exponential growth swiftly, inevitably, swamps anything in finite supply.”
 4.  And when we reach the limit, bad things happen.[1]
 
-![](https://acximages.ennals.org/images/2025-non-book-reviews/86beb132b793e6aa.png)
+![](https://acximages.ennals.org/images/2025-non-book-reviews/9b0bd9ef3fbc9d65.png)
 
 As a techno-optimist I do indeed want to respond with the argument in (2). Putting imaginary boundaries on systems is a common systems thinking error. “Lithium battery production” isn’t the system, and so its limit is not the limit that concerns us. Our limit is the laws of physics, and the [light cone](https://en.wikipedia.org/wiki/Light_cone#In_general_relativity) they seem to restrict us to.
 
@@ -64,7 +64,7 @@ As for how much negentropy we can potentially harvest, at the lower limit, the m
 
 If we take the upper limit of the entire Milky Way galaxy, we just do the same calculation using its mass. Combining both we get a limit of 10^77 - 10^101 Boltzmann constants. Quite a large range, but luckily we are going to be facing this limit off against an exponential.
 
-![](https://acximages.ennals.org/images/2025-non-book-reviews/15d2fe94d24eff99.png)
+![](https://acximages.ennals.org/images/2025-non-book-reviews/e89ee352f2876517.png)
 
 What we get is that assuming our negentropy harvesting rate continues to grow by 2% year over year, we will exhaust the amount available to us in somewhere between 4,000 and 7,000 years. This doesn’t mean our negentropy consumption can’t grow for longer – after all, the light cone constantly expands. But it won’t be able to grow exponentially anymore.
 

@@ -28,7 +28,7 @@ A few relevant details on nicotine pharmacokinetics:
 *   Metabolism: mostly in the liver via [CYP2A6](https://en.wikipedia.org/wiki/CYP2A6), [CYP2B6](https://en.wikipedia.org/wiki/CYP2B6), [FMO3](https://en.wikipedia.org/wiki/FMO3)
 *   Major metabolite: Cotinine (also a nAChR agonist w/ a weaker affinity and ~20 hour half-life)
 
-![](https://acximages.ennals.org/images/2025-non-book-reviews/31d99d9165a3cb1b.png)
+![](https://acximages.ennals.org/images/2025-non-book-reviews/5b4a5a0e13f643f2.png)
 
 _Source_ _[link](https://www.grandviewresearch.com/industry-analysis/e-cigarette-vaping-market)_
 
@@ -49,11 +49,11 @@ Anyways, we’ll focus on two receptor subtypes located in the CNS/brain that ar
 
 The first is expressed at a higher density in GABAergic neurons (activation of these neurons elicits GABA release synaptically and—as an epiphenomenon—extra-synaptically as well to mediate tonic inhibition). α4-containing AChRs are desensitized to ligands like nicotine rapidly (via receptor internalization typically) and only re-sensitize after ~1 hour, though this is obviously person-dependent. Conversely, α7-containing AChRs desensitize much more slowly and re-sensitize on the order of ~2 minutes. A principal difference is that α7-containing AChRs are present in higher densities on glutaminergic neurons extending from the ventral tegmental area (VTA) to the prefrontal cortex (PFC), and α4-containing AChRs are primarily expressed on afferent and interneuron GABAergic cells extending from the nucleus accumbens (NAcc) to the VTA. See the diagram below taken from [this](https://pubmed.ncbi.nlm.nih.gov/11906697/#:~:text=The%20net%20effect%20is%20a,to%20reinforce%20nicotine%20self%2Dadministration.) 2002 paper in Neuron.
 
-![](https://acximages.ennals.org/images/2025-non-book-reviews/9ec7f5042036003b.jpg)
+![](https://acximages.ennals.org/images/2025-non-book-reviews/a40a9bd9ff5317af.jpg)
 
 So what’s the problem? The problem is that with recurrent nicotine dosing, α4-containing AChRs are activated and rapidly desensitized, leading to a transient spike in GABA release (net inhibitory, anxiolytic). Activation of α7-containing AChR, on the obverse, causes a more durable spike in glutamate (net excitatory, anxiogenic) (see the upper right hand graph and diagram below). The ‘LTP’ in the figure stands for “long term potentiation”. With chronically elevated levels as with smoking/vaping/dipping (or especially ebullient Nicorette chewing), the baseline firing threshold is increased (think about the membrane potential with a higher propensity to depolarize and fire that we spoke about earlier).
 
-![](https://acximages.ennals.org/images/2025-non-book-reviews/2eebbe8ed5968111.jpg)
+![](https://acximages.ennals.org/images/2025-non-book-reviews/683f3cf31ae24a67.jpg)
 
 _Source_ _[here](https://pubmed.ncbi.nlm.nih.gov/11906697/#:~:text=The%20net%20effect%20is%20a,to%20reinforce%20nicotine%20self%2Dadministration.)_
 

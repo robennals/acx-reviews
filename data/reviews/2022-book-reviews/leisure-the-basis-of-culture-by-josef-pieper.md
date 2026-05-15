@@ -33,19 +33,19 @@ If Pieper is right and work has become a primary source of meaning and good, we 
 
 Workers in richer countries work less than workers in poorer countries. Ergo, capital matters.
 
-![](https://acximages.ennals.org/images/2022-book-reviews/d41b3f9c18d907b0.png)
+![](https://acximages.ennals.org/images/2022-book-reviews/fbda069854a54aeb.png)
 
 South-East Asian ‘tiger economies’ (Singapore, Hong Kong, South Korea and Taiwan), which underwent rapid economic growth through the 1960s to the present, stand out as outliers. But even then, with the exception of Singapore, they saw a decline of work hours in the face of economic growth.  
 
-![](https://acximages.ennals.org/images/2022-book-reviews/f3a2636e059b376e.png)
+![](https://acximages.ennals.org/images/2022-book-reviews/09e4ef6881e82489.png)
 
 This holds true for the other countries on the upper side of the trend (The United States, Myanmar, Ireland, Malaysia), except for China.
 
-![](https://acximages.ennals.org/images/2022-book-reviews/a79a2a8ef8018265.png)
+![](https://acximages.ennals.org/images/2022-book-reviews/e4bf284fa6dde257.png)
 
 Finally, this relationship between GDP / GDP growth and working hours also means that, on average, the higher your productivity (in dollar terms), the less you work.
 
-![](https://acximages.ennals.org/images/2022-book-reviews/c6eff2c3601a8912.png)
+![](https://acximages.ennals.org/images/2022-book-reviews/c324f616dd078363.png)
 
 According to Pieper, the proletarian works for the sake of work, regardless of capital. The above suggests otherwise. We’re getting to that 15 hour work week, just slower than Keynes expected. And, when we can afford it, we work less.
 
@@ -71,7 +71,7 @@ Secondly, like work, leisure is good. Because it stands in contrast to idleness 
 
 To summarize, this is sort of what Pieper is saying (the diagram is mine):  
 
-![](https://acximages.ennals.org/images/2022-book-reviews/1132eeb0a4b3e494.png)
+![](https://acximages.ennals.org/images/2022-book-reviews/08b54ae3837e1fd1.png)
 
 ## II.  
 

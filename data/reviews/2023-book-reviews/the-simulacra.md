@@ -85,7 +85,7 @@ The novel is set in the year 2041; for Philip K. Dick writing, this date was nea
 
 When Dick wrote _The Simulacra_, all of the events forming the pivotal timeline of that world could still potentially have happened. The book’s timeline begins to diverge from the timeline that we in the twenty-first century call our real world history with the ascension to power of First Lady Nicole Thibodeaux, seventy-three years prior to the present-day of the novel. With some arithmetic, one can calculate this year as 1968, four years after the novel’s publication.
 
-![](https://acximages.ennals.org/images/2023-book-reviews/ba15fb0384788e96.jpg)
+![](https://acximages.ennals.org/images/2023-book-reviews/bae538a50d1347a6.jpg)
 
 Neither do the acts of time-travel substantially differentiate the twentieth century history in the novel from the twentieth century history of its author. Time machines, called “von Lessinger equipment”, barely seem to affect events at all. Material changes which time travelers (“von Lessinger technicians”) achieve in the past are extinguished by opposing time travelers with opposite goals, who go back to the same past and ensure the operations of their time-traveling opponents somehow fail. Time travel is presented as a (disappointingly paradox-free) tool of the existing political order, and a tepid and feeble one at that.
 
@@ -253,7 +253,7 @@ While Philip K. Dick was the first English-language writer to include the word �
 
 Google n-grams attests to this timeline. A graph tracking the frequency with which the word “simulacra” appeared in print begins its ascent around the time that Baudrillard’s _Simulacra and Simulation_ appeared, while Dick’s _The Simulacra_ did not seem to have inspired as much written interest in simulacra as a concept (at least around the time it was written).
 
-![](https://acximages.ennals.org/images/2023-book-reviews/b8d4b5f5d74be533.png)
+![](https://acximages.ennals.org/images/2023-book-reviews/ea34f74de290b355.png)
 
 The fact that Baudrillard name-drops Philip K. Dick in three distinct chapters of _Simulacra and Simulation_ hints at the role Dick had to play in shaping the way this concept would come to be understood philosophically.
 

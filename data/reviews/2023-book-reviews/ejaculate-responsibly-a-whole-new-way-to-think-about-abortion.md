@@ -26,7 +26,7 @@ Isn’t this unfair? asks Gabrielle Stanley Blair. She argues that, given the bi
 
 Let’s take a moment to appreciate this spiffy cover.
 
-![Ejaculate Responsibly: A Whole New Way to Think About Abortion](https://acximages.ennals.org/images/2023-book-reviews/2163f13b11c8dc59.png)
+![Ejaculate Responsibly: A Whole New Way to Think About Abortion](https://acximages.ennals.org/images/2023-book-reviews/a949cbd1ac0e75a3.png)
 
 _Ejaculate Responsibly!_ is a beautifully short book (126 pages). Its main arguments are presented verbatim but reordered below.  
 

@@ -185,7 +185,7 @@ Other than autoheterosexuality, there are basically two alternative positions in
 
 If either theory is true, it may eventually be provable using neuroscience to identify autogynephilia or brain feminization and show the direction of causality. This means that we can use prediction markets about future neuroscience findings to establish a consensus. There is currently [a market about this on Manifold Markets](https://manifold.markets/tailcalled/if-a-solid-neurological-study-of-tr), which at the time of writing gives the theory 21%-23% probability, much more than the 12% probability of the feminine essence narrative:
 
-![](https://acximages.ennals.org/images/2023-book-reviews/d30dbbfe3ae61606.png)
+![](https://acximages.ennals.org/images/2023-book-reviews/ffbe22732ce4cb42.png)
 
 (This is a thinly traded market. If you know anything about the topic, please trade to improve the probabilities!)
 

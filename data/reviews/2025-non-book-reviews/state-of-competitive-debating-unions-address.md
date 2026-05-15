@@ -45,13 +45,13 @@ Li then wonders if his second-strictest definition, “a motion is fair if teams
 
 Here are the [statistics about the motions that were set at the 2025 World Universities Debating Championship.](https://wudc2025.calicotab.com/open/motions/statistics/) The most balanced motion was that of the sixth round:
 
-![](https://acximages.ennals.org/images/2025-non-book-reviews/ae69df8937d2bd67.png)
+![](https://acximages.ennals.org/images/2025-non-book-reviews/c6c298136d0dee8d.png)
 
 _Perfect…_
 
 And the least balanced was that of the third round:
 
-![](https://acximages.ennals.org/images/2025-non-book-reviews/6a9b28e3cec93d37.png)
+![](https://acximages.ennals.org/images/2025-non-book-reviews/5939b74e94fb1f30.png)
 
 _That canal was pretty beneficial._
 
@@ -61,11 +61,11 @@ But this imbalance is nothing compared to the motions of the past. In _[Motion F
 
 Some of them are about as close as you can get to balanced:
 
-![](https://acximages.ennals.org/images/2025-non-book-reviews/d6b1380a2c5c40fa.png)
+![](https://acximages.ennals.org/images/2025-non-book-reviews/5116991225869b96.png)
 
 But some of them are _decisively_ not:
 
-![](https://acximages.ennals.org/images/2025-non-book-reviews/23f55bf49362d613.png)
+![](https://acximages.ennals.org/images/2025-non-book-reviews/6fb9d12afc8f73c0.png)
 
 This motion is clearly very flawed. The “public interest” is vague. This would create awful incentives for young men with main character syndrome. On the surface, it seems like there might be arguments in favour: this will incentivize whistleblowers to step forward! (Never mind that this was debated a year before the Snowden leaks.) But the arguments disperse when you look closely. There are usually legal ways to stand up against evil governments and corporations. When there aren’t, it’s still generally fine to impose penalties on lawbreaking: people who feel that speaking out is important enough will make the tradeoff.
 
@@ -204,7 +204,7 @@ If you want a complete explanation of the rules, [read them here](https://www.sc
 
 There are four teams (two arguing for the motion, two arguing against) of two speakers. Each speaker gets seven minutes to speak. The speaking order looks like this:
 
-![](https://acximages.ennals.org/images/2025-non-book-reviews/b5323f25976060ee.png)
+![](https://acximages.ennals.org/images/2025-non-book-reviews/79a406e1e3ac9f6e.png)
 
 _The silly names are relics of the actual British Parliament._
 

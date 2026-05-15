@@ -81,7 +81,7 @@ Let’s start with Byronic unhappiness. If you’ve ever been a teenager, you’
 
 This type of unhappiness is easy to mock. It’s an unhappiness that’s proud of itself. It’s an unhappiness with its own meme.
 
-![](https://acximages.ennals.org/images/2023-book-reviews/d0073b6f84e7114b.png)
+![](https://acximages.ennals.org/images/2023-book-reviews/bb3245a23207f9b5.png)
 
 We’ve all felt this sentiment, and it’s obviously a defence against the world: when you see people enjoying simple pleasures and you’re not sure how to enjoy them too, you console yourself with the thought that those pleasures don’t really matter, that nothing really matters, that the cost of your superior wisdom is the denial of foolish joy. Which is all nonsense, of course, but it’s comforting nonsense if you’re in the right frame of mind.
 

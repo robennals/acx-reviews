@@ -77,7 +77,7 @@ Case in point, I don't know how to use any function on my microwave except for +
 
 In the past I've used an older style microwave where the only inputs were two dials - one for power, and one for time. Turn the time dial up and the microwave starts. My god is this a better system. It's immediately obvious how it works, and with one motion I get more precision than I do with my "press 30 seconds 3-5 times" method. The only changes I would make would be to add a digital display and make the dial logarithmic.
 
-![](https://acximages.ennals.org/images/2023-book-reviews/fd0194dcc2d6ab25.png)
+![](https://acximages.ennals.org/images/2023-book-reviews/e7e952c05bab1386.png)
 
 _It's all been downhill since this._
 
@@ -89,19 +89,19 @@ A stove affords support for other objects, as well as heat transfer to those obj
 
 > For me, the term signifier refers to any mark or sound, any perceivable indicator that communicates appropriate behavior to a person. Signifiers can be deliberate and intentional, such as the sign PUSH on a door, but they may also be accidental and unintentional, such as our use of the visible trail made by previous people walking through a field or over a snow-covered terrain to determine the best path.
 
-![](https://acximages.ennals.org/images/2023-book-reviews/53c858030145d297.png)
+![](https://acximages.ennals.org/images/2023-book-reviews/417ae3af2fffc3e6.png)
 
 Signs and labels are types of highly deliberate signifiers, but signifiers can also take the form of perceived affordances. For example, a handle on a door suggests that the door affords pulling (which may or may not be true). A well designed object should have signifiers for all its intended affordances, and no false signifiers for non-existent affordances.
 
 Affordances and signifiers can also be unintentional or undesirable, as in this example from the book:
 
-![](https://acximages.ennals.org/images/2023-book-reviews/1ae02cd1504d9bc6.png)
+![](https://acximages.ennals.org/images/2023-book-reviews/dadff10f988aae2b.png)
 
 **Constraints** are restrictions on what actions are possible. A 9 volt battery has a constraint on its attachment point that means it is only possible to connect it one way. AA batteries don't have this constraint, thus it is possible to insert them the wrong way. Button batteries are even worse.
 
 The book actually has an example of a design for a AA shaped battery that can be inserted either way, where each end has both a negative terminal (a ring around the edge) and a positive one (the center). Maybe in another world this could have been the standard, but sadly it is not in ours. We can at least be grateful to USB-C for making this meme obsolete:
 
-![](https://acximages.ennals.org/images/2023-book-reviews/2fb2345c2638ee2e.png)
+![](https://acximages.ennals.org/images/2023-book-reviews/c61826a57a2392e6.png)
 
 Constraints can themselves act as signifiers. You don't have to know anything about electronics to be able to work out how most of the cables should be inserted into a TV (HDMI, antenna, power). This information is communicated by the fact that these cables only fit into one port. The exception is the RCA cables (the red/white/yellow ones), which instead uses color as a signifier. This is not ideal in many situations - when you can't easily see the ports, if you're colorblind, if your device doesn't follow convention etc.
 
@@ -121,7 +121,7 @@ This passage feels relevant for us:
 
 Almost all stoves have their controls arranged in a line, like so:
 
-![](https://acximages.ennals.org/images/2023-book-reviews/242c93314e01e9c9.png)
+![](https://acximages.ennals.org/images/2023-book-reviews/f30931a0a55da05e.png)
 
 With this arrangement users must rely on checking the labels (which hopefully have not rubbed off) to know which is which. This leaves room for errors, which can and do happen.
 
@@ -129,7 +129,7 @@ With this arrangement users must rely on checking the labels (which hopefully ha
 
 I can attest to that. A stove with naturally mapped controls does not have this problem. Here are two examples:
 
-![](https://acximages.ennals.org/images/2023-book-reviews/69f4513aed40e621.png)
+![](https://acximages.ennals.org/images/2023-book-reviews/b724b08f444fed33.png)
 
 The dials are arranged in a way that mirrors the arrangement of the hotplates, so it is immediately obvious which corresponds to which. It's hard to imagine making the same mistake with good natural mapping.
 
@@ -147,7 +147,7 @@ Jeremy's conceptual model is that the thermostat acts as a faucet, and wants the
 
 Aside from these definitions and examples, much of the rest of the book is made up of breakdowns of the psychology behind how we interact with objects and of the processes that go into doing good design. These breakdowns can be insightful but can also tend towards tedious - the ugly diagrams of things like "The Double-Diamond Model of Design" kind of give the feeling that you're stuck in an 80s corporate training presentation.
 
-![](https://acximages.ennals.org/images/2023-book-reviews/cc9391d90a32fc92.png)
+![](https://acximages.ennals.org/images/2023-book-reviews/fc61046ffc19c101.png)
 
 There were a couple of other sections I wanted to highlight, just for fun. To illustrate the difficulty of establishing industry standards, Norman tells a story about his involvement in HDTV definitions. Under a section titled "A standard that took so long, technology overran it" (I've cut some sentences for length):
 

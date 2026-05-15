@@ -31,7 +31,7 @@ _Knives Out_ is, at its bookends, a classic whodunit (we’ll get into its uncon
 
 This is a book clearly inspired by Agatha Christie. It is so inspired by Christie that Johnson acknowledged the detective is meant to be an American Poirot. It is so inspired by Christie that the title font literally traces text from Christie’s book covers.
 
-![](https://acximages.ennals.org/images/2025-non-book-reviews/af27c0c1921880b2.png)
+![](https://acximages.ennals.org/images/2025-non-book-reviews/cfdcdf91b9301573.png)
 
 _Screenshot from the “Making Knives Out Title”_ _[video](https://vimeo.com/345776242)_
 
@@ -65,7 +65,7 @@ One set of characters in this moral fable are the rich victim’s three children
 
 Ask yourself, why three kids? In the real world, the answer would be “their parents wanted a big family” or “birth control didn’t work out” but this is not the real world. Why did the writer create three kids, not two or four? Because the three kids fill out the three bad quadrants in the below plot.
 
-![](https://acximages.ennals.org/images/2025-non-book-reviews/44908292f6d18b88.png) 
+![](https://acximages.ennals.org/images/2025-non-book-reviews/ec13d0558ee1f5b6.png) 
 
 If there was a fourth kid, to be a unique character, he would need to be both successful and doing his own thing, which would make him a worthy heir to his dad, which would make the nurse redundant, which would make the story fail.
 
@@ -210,7 +210,7 @@ Similarly, at the end of the movie, Blanc hands the woman a dangerous explosive,
 
 Again, from a storywriting perspective, this makes sense. The woman is the main character. The movie is only fun to watch if she has agency and saves herself. Blanc saving her would be boring, and involve too many words besides. Her saving herself is fun, and she can do it by literally blowing shit up, which looks great onscreen.
 
-![](https://acximages.ennals.org/images/2025-non-book-reviews/38f1eeea4c1bdb9b.png)
+![](https://acximages.ennals.org/images/2025-non-book-reviews/e78616cf3d8e4a19.png)
 
 _This is the resulting explosion._
 

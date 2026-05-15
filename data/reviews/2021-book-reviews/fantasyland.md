@@ -179,7 +179,7 @@ In many circumstances, this is basically correct; mainstream medicine, for examp
 
 As has become salient recently, public health experts basically [lied](https://thehill.com/changing-america/well-being/prevention-cures/502890-fauci-why-the-public-wasnt-told-to-wear-masks) (or if you prefer, misrepresented the quality of evidence) about the effectiveness of masks in preventing COVID transmission, siphoning away much of their hard-earned credibility.
 
-![U.S. Surgeon General on Twitter: "1/3 Regarding masks: @WHO @CDCgov & my  office have consistently recommended against the general public wearing  masks as there is scant or conflicting evidence they benefit individual](https://acximages.ennals.org/images/2021-book-reviews/5de0fecb309d331c.jpg)
+![U.S. Surgeon General on Twitter: "1/3 Regarding masks: @WHO @CDCgov & my  office have consistently recommended against the general public wearing  masks as there is scant or conflicting evidence they benefit individual](https://acximages.ennals.org/images/2021-book-reviews/d002a4fc06e1c132.jpg)
 
 I also think it’s safe to say that nutrition as a field is largely in the same boat as social psychology. As Alvaro de Menard writes in “[Are Experts Real?](https://fantasticanachronism.com/2021/01/11/are-experts-real/)”
 

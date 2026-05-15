@@ -36,7 +36,7 @@ Fully justifying each pillar of this argument would take a book, so I’ve left 
 
 “Wait, doesn’t an invasion from the future imply time travel?"
 
-![](https://acximages.ennals.org/images/2025-non-book-reviews/136e4460fa9d6038.png)
+![](https://acximages.ennals.org/images/2025-non-book-reviews/7fc9ff8759dc8e11.png)
 
 #### Time & Agency
 
@@ -50,7 +50,7 @@ To the extent that they accurately model the future (based on data from their pa
 
 This can be pretty prosaic: if you expect to regret eating that second packet of potato chips because you predict that your future self would feel bad based on this happening the last five times, you might put them out of reach rather than eating them.
 
-![](https://acximages.ennals.org/images/2025-non-book-reviews/fdc6c36ef9232e9b.png)
+![](https://acximages.ennals.org/images/2025-non-book-reviews/54390c6a038a3205.png)
 
 However, the more powerful and general a predictive model of the environment, the further it can interpolate evidence it has into more novel domains before it loses reliability.
 
@@ -68,7 +68,7 @@ Even a singleton will tend to have internal parts which function as subagents; t
 
 Is this inevitable? Hopefully not. Even if Pythia is the strongest attractor in the landscape of minds, there might be other metastable states if a powerful system can come up with strategies to stop itself decaying, perhaps by reloading from an earlier non-corrupted state or by performing advanced checks on itself to detect value drift.
 
-![](https://acximages.ennals.org/images/2025-non-book-reviews/a44ead5d3d3c26c0.png)
+![](https://acximages.ennals.org/images/2025-non-book-reviews/897a0dedc187a033.png)
 
 _We could go to either a truly stable state like Pythia or a metastable state like an aligned sovereign_
 

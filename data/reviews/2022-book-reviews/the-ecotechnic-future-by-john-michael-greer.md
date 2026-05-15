@@ -32,7 +32,7 @@ Nevertheless, the book is deeply thought-provoking. For one like me who swims in
 
 Is peak oil happening? We should address this question up front, since the whole book rests upon it. Convincing you of this is not the central purpose of the book—in fairness to Greer, such an analysis would fill at least one lengthy tome, perhaps more—so for now it will suffice to summarize his arguments and what objections I could think of offhand.
 
-![oil price graph](https://acximages.ennals.org/images/2022-book-reviews/5cd3903402859871.png) Oil prices per barrel Feb. 1946 – Sep. 2021, in 2021 dollars. [[source](https://www.macrotrends.net/1369/crude-oil-price-history-chart)]
+![oil price graph](https://acximages.ennals.org/images/2022-book-reviews/b63c2893b7a0559f.png) Oil prices per barrel Feb. 1946 – Sep. 2021, in 2021 dollars. [[source](https://www.macrotrends.net/1369/crude-oil-price-history-chart)]
 
 > While recent swings in the price of energy make it hard to see the larger picture, the general trend in energy costs is still up... [chapter 8, section 3]
 >

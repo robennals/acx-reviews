@@ -80,7 +80,7 @@ Ok, so there’s this **do** operator which makes the flaky weird world of stati
 
 To me, what was more immediately comprehensible was how Pearl invited some graph theory into the party. For all my irritation with boffins hiding behind abstruse mathematical glossolalia, graph theory is actually totally wholesome.
 
-Pearl proposes some kind of causal graph is a useful prop. Here’s one that I found (not in the book) which shows a lot of stuff going on.![](https://acximages.ennals.org/images/2021-book-reviews/20722d3cef172802.png)
+Pearl proposes some kind of causal graph is a useful prop. Here’s one that I found (not in the book) which shows a lot of stuff going on.![](https://acximages.ennals.org/images/2021-book-reviews/2479c3d56e54535e.png)
 
 I believe that the arrowhead points to the thing that the arrow’s tail causes. Pearl believes there are some fundamental arrangements of causal graphs and that many logical errors can be rooted out by thinking in this way.
 
@@ -92,7 +92,7 @@ Here is how the graphs relate to the **do** operator, and how all that relates t
 
 Here is one example of a motif he highlights (on p161). It is an M-bias arrangement.
 
-![](https://acximages.ennals.org/images/2021-book-reviews/4027775f9242e9ab.png)
+![](https://acximages.ennals.org/images/2021-book-reviews/fca1e433defc3a86.png)
 
 Apparently all statisticians before 1986 would consider M a confounder because it is correlated to X and Y, however there is in fact no causal path from X to Y.
 

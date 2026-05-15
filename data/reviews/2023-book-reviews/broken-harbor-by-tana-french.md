@@ -51,7 +51,7 @@ At this point, after having thoroughly spoiled the story for you, let me beg for
 
 _Gone Girl_ (2012) was the biggest thing to happen to suspense books in the last decade. Gone Girl was so big that it was released as a David Fincher (director of _Fight Club_) and Ben Affleck (actor in Dunkin Donuts commercial) blockbuster movie a mere two years after publication. Gone Girl was so big that its author hasn’t written another novel since. Gone Girl was so big that it is now a [cruise theme](https://www.youtube.com/watch?v=A7NBW13ANI8). Gone Girl was so big that there is now a whole genre of books that sound like it:
 
-![](https://acximages.ennals.org/images/2023-book-reviews/8fd9110252283612.jpg)
+![](https://acximages.ennals.org/images/2023-book-reviews/49b13ab3f9b32ae8.jpg)
 
 _The original is in the top-left. I’m ashamed to admit I’ve read all of these._
 
@@ -71,7 +71,7 @@ Over and over again, good people’s orderly lives fall apart due to sheer bad l
 
 Pop quiz time: where are these cafes located?
 
-![](https://acximages.ennals.org/images/2023-book-reviews/e2b654bcad78ebcf.jpg)
+![](https://acximages.ennals.org/images/2023-book-reviews/80ccefb4268bcc49.jpg)
 
 Answers, clockwise from top-left:
 

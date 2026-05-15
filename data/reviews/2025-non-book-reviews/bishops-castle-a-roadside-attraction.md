@@ -64,13 +64,13 @@ How did all this come to be? It wouldn’t be easy to tell if you only visited t
 _
 
 In 1959, Jim Bishop, a 15-year-old Colorado nobody and high school dropout, paid $450 for a two-and-a-half acre plot of land adjacent to the Greenhorn Highway and surrounded by San Isabel National Park. This became an annual camping spot for the Bishop family. As he grew up, Bishop began to earn a living by working in the ironworking trade with his father and installing patios. By 1969, he had started using the money he earned to build a cabin, then a water cistern that he surrounded with rocks from the nearby area. These rocks would come to haunt him later.  
-![](https://acximages.ennals.org/images/2025-non-book-reviews/1233b62e1aa74a00.png)
+![](https://acximages.ennals.org/images/2025-non-book-reviews/17154c8254048c73.png)
 
 As the story goes, the cobblestone cottage and the rocky turret surrounding the cistern resembled a castle, family members, friends, and local ranchers kept asking Bishop if he was building one. He denied it at first, but apparently this question came with such frequency that it planted an idea in his brain. One day, his answer switched to “yes.” He would give the public their castle. He chose not to stop when he finished the cabin. He kept building… and building… and building.
 
 As the rocky roadside edifice grew, it became a local attraction. For eight years, people offered to help with the castle. Bishop got frustrated when no one made good on their offers, though, and this led him to declare his castle a one-man project.
 
-Bishop had been frustrated as a kid when he wasn’t able to go to attractions and amusement parks because his family couldn’t afford the ticket. To keep the castle accessible, he charged no entrance fee and financed the project on a shoestring budget. He stacked rock over rock, hoisting them each up one after the other with a pully system powered by his truck’s engine. His forging skills helped him decorate and support every stone with wrought iron.![](https://acximages.ennals.org/images/2025-non-book-reviews/c02c287c7a5a4431.png)
+Bishop had been frustrated as a kid when he wasn’t able to go to attractions and amusement parks because his family couldn’t afford the ticket. To keep the castle accessible, he charged no entrance fee and financed the project on a shoestring budget. He stacked rock over rock, hoisting them each up one after the other with a pully system powered by his truck’s engine. His forging skills helped him decorate and support every stone with wrought iron.![](https://acximages.ennals.org/images/2025-non-book-reviews/999ffa68d152354f.png)
 
 Despite no architectural experience or plans, Bishop’s sheer industry kept the castle growing and stable. When he built a wall that needed to be eight feet thick, Jim made it 16. He hauled every rock, fell every log and milled it into lumber, built scaffolding for every tower, built every arch out of railroad ties. He designed complex pulley systems to hoist lumber for use as floorboards. He burrowed holes dozens of feet into the ground, then filled these with mortar he mixed and carried to the site himself. The castle is anchored deep in mountain bedrock, better rooted than the trees. Stone by stone, he built his dreams.
 
@@ -177,7 +177,7 @@ _“The museum and library will be on the second floor, with a mausoleum additio
 
 Suffice it to say, none of this was built. All the same I think holding his expectations so high helped Bishop build what he did. It is good to make your highest ambitions very high indeed. Just like stretching a rubber band a great distance results in greater tension in the cord, stretching your ambitions as high as possible inspires more ardent action.
 
-![](https://acximages.ennals.org/images/2025-non-book-reviews/d5c591028b5f2fa7.png)
+![](https://acximages.ennals.org/images/2025-non-book-reviews/12bc83355a87ce79.png)
 
 ## VI: Place of Liberty  
 

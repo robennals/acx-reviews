@@ -32,7 +32,7 @@ Chinese parenting clashes with the West, neither leaves unscathed
 
 _Tiger mother_ is the part of the title that makes the most sense to me at first blush, but this is somewhat circular. The term was popularized by Amy Chua’s book, which was published in 2011 and quite controversial in its time — partly due to the exceedingly strict parenting she describes in the book, but primarily I assume due the shade it throws on the Western model. Mothers will supposedly fight to their death to defend their children, and they will defend their own parenting with similar ferocity.
 
-![](https://acximages.ennals.org/images/2024-book-reviews/5582973db15f224e.jpg)
+![](https://acximages.ennals.org/images/2024-book-reviews/a671cce389577102.jpg)
 
 Chua’s book is one part memoir, recounting her role in the achievements of her two daughters in both academics and classical music, and one part explanation of the differences between the Western and Chinese perspectives on parenting. I do not think it would be unfair to accuse it of sometimes trying to have it both ways, arguing that the strict Chinese model of parenting builds on a different set of values such that they cannot really be compared, but that if you did do a fair comparison then the Chinese way would definitely come out on top.
 
@@ -101,7 +101,7 @@ While it is relatively easy to understand the absurdly high standards that the t
 
 This would be completely wrong — along with the over-the-top expectations comes similarly unprecedented amounts of support, even if some of this support comes in the form of stressful schedules and savage scolding. This is another reason that there is no substitute for reading the book and getting a full picture, because it is our nature to fill in the missing pieces with what we are familiar with, which just does not work when you are effectively in a foreign country.
 
-![https://static.wikia.nocookie.net/disney/images/5/53/Cinderella-disneyscreencaps_com-8502.jpg/revision/latest?cb=20140325022514](https://acximages.ennals.org/images/2024-book-reviews/dc508161eade7164.jpg)
+![https://static.wikia.nocookie.net/disney/images/5/53/Cinderella-disneyscreencaps_com-8502.jpg/revision/latest?cb=20140325022514](https://acximages.ennals.org/images/2024-book-reviews/614013d73f1df8e8.jpg)
 
 > The stepmother from Disney’s Cinderella; someone you would not be flattered to by compared with.
 
@@ -224,7 +224,7 @@ Russel is most famous for his ultimately futile quest to rebuild the entirety of
 
 Russel can deflect from the failure of his mathematical project by pointing to his life as a public intellectual and his Nobel Prize in Literature. Personally, I find the prize somewhat dubious, but then again, he can keep company with Bob Dylan, and at least it’s not the _Peace Prize_. The award points to _his varied and significant writings in which he champions humanitarian ideals and freedom of thought_, which I suspect means that the prize was not only because of his literary merits but also for espousing ideas that flattered the committee’s sensibilities.
 
-![](https://acximages.ennals.org/images/2024-book-reviews/d0605acd23d8c51e.png)
+![](https://acximages.ennals.org/images/2024-book-reviews/3ab6f1a6d25be016.png)
 
 > A picture with some serious _they promised us flying cars and all we got was 140 characters_-energy.
 

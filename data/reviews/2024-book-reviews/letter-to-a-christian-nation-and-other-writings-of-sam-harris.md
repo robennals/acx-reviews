@@ -82,7 +82,7 @@ The following _xkcd_ webcomic[[28]](#ftnt28) illustrates the gap between the two
 
 Before accepting Harris’s conclusion that science and religion must always be in conflict, I think that it is worth considering evidence about what people actually believe. As it turns out, several surveys indicate that his framing of science and religion may be counterproductive. When asked by Gallup[[29]](#ftnt29) about the origin of humans, many people do share Harris’s “one is right and the other is wrong” worldview, though of course in divergent directions: some say that God created humans in their present form, and others say that humans evolved with “God” having had no part. For other respondents, though, religion and science can and do coexist just fine: they believe that humans evolved, with God guiding the process.
 
-![](https://acximages.ennals.org/images/2024-book-reviews/47f0dfbee11c6fb3.png)
+![](https://acximages.ennals.org/images/2024-book-reviews/2605fbb71a82fdd8.png)
 
 Importantly, evidence from a Pew Research Center poll[[30]](#ftnt30) shows that the framing matters. Presenting science and religion as explicitly in conflict leads more people to reject the scientific explanation of human origins, whereas presenting science and religion as at least potentially compatible results in more people accepting the scientific consensus. When given only two choices—either “Humans have evolved over time” or “Humans have existed in their present form since the beginning of time”— 68% of respondents affirmed the truth of evolution, in comparison with 81% in a different sample who did so when they were given a third option to pick from: “Humans have evolved over time due to processes that were guided or allowed by God or a higher power.” The implication of this finding is that insisting science and religion are incompatible may be detrimental to the goal of increased public understanding of science.
 
@@ -92,7 +92,7 @@ In another Pew poll,[[31]](#ftnt31) more than two-thirds of respondents said tha
 
 The same poll also revealed that the amount of perceived conflict between science and religion was inversely related to “religious observance”: people who attended religious services the most often were the least likely to say that science and religion are often in conflict. That is, more religiosity was associated with more acceptance of science—again in contrast to Harris’s argument that science and religion are antithetical and will never come to terms.
 
-![](https://acximages.ennals.org/images/2024-book-reviews/7fd45f347b1cdf0f.png) ![](https://acximages.ennals.org/images/2024-book-reviews/cf318ab1d3495693.png)
+![](https://acximages.ennals.org/images/2024-book-reviews/618f3cbab32b0653.png) ![](https://acximages.ennals.org/images/2024-book-reviews/b587fad6da2d7321.png)
 
 Finally, a survey from the Religious Understandings of Science Study[[33]](#ftnt33) that compared scientists with the general population reported that similar (though slightly lower) proportions of scientists in the US attended weekly religious services, considered themselves very religious, read religious texts weekly, and prayed several times a day.[[34]](#ftnt34) Diversity of perspective and values among scientists should not be surprising; as the theoretical physicist Lawrence Krauss once noted on Harris’s podcast:
 
@@ -407,7 +407,7 @@ As former President of the United States and noted wiseguy Barack H. Obama once 
 
 For me, human anatomy sufficiently explains the experience that Harris is describing:
 
-![Definition of optic nerve - NCI Dictionary of Cancer Terms - NCI](https://acximages.ennals.org/images/2024-book-reviews/3d96b8aa602c9608.jpg)[[122]](#ftnt122)![https://my.clevelandclinic.org/-/scassets/images/org/health/articles/21202-nervous-system](https://acximages.ennals.org/images/2024-book-reviews/753ebd9fa76bc2c0.jpg)[[123]](#ftnt123)
+![Definition of optic nerve - NCI Dictionary of Cancer Terms - NCI](https://acximages.ennals.org/images/2024-book-reviews/d0606f989aef1586.jpg)[[122]](#ftnt122)![https://my.clevelandclinic.org/-/scassets/images/org/health/articles/21202-nervous-system](https://acximages.ennals.org/images/2024-book-reviews/08caf511038371b0.jpg)[[123]](#ftnt123)
 
 The brain is in the head, connected to the eyes by the optic nerves and enclosed within the skull, exactly where Harris describes feeling the seat of his consciousness and sense of self. In addition, the brain is connected to the rest of the body, including the skin, through the other cranial nerves and the spinal cord with its spinal nerves.
 

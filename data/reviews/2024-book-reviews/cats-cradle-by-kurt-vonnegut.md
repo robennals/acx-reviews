@@ -61,7 +61,7 @@ McCabe unsuccessfully tried to design a functional government while Bokonon inve
 
 > When it became evident that no governmental or economic reform was going to make the people much less miserable, the religion became the one real instrument of hope. Truth was the enemy of the people, because the truth was so terrible, so Bokonon made it his business to provide the people with better and better lies.
 
-The parallels to the contemporary world write themselves. [90% of Americans feel that we are in a “mental health crisis](https://www.pewtrusts.org/en/trend/archive/fall-2023/americas-mental-health-crisis)” and [things aren’t much better internationally](https://ourworldindata.org/mental-health). On the [latest ACX survey](https://docs.google.com/forms/d/e/1FAIpQLScHznuYU9nWqDyNvZ8fQySdWHk5rrj2IdEDMgarf3s34bSPrA/closedform), over 30% reported probably having depression and another nearly 30% reported having anxiety. Even as the world grows in prosperity and life expectancy, our mental health is taking a nosedive. Economic and governmental reforms have failed. The world cries out for a better way of thinking. ![](https://acximages.ennals.org/images/2024-book-reviews/a542759a30c7b953.png)
+The parallels to the contemporary world write themselves. [90% of Americans feel that we are in a “mental health crisis](https://www.pewtrusts.org/en/trend/archive/fall-2023/americas-mental-health-crisis)” and [things aren’t much better internationally](https://ourworldindata.org/mental-health). On the [latest ACX survey](https://docs.google.com/forms/d/e/1FAIpQLScHznuYU9nWqDyNvZ8fQySdWHk5rrj2IdEDMgarf3s34bSPrA/closedform), over 30% reported probably having depression and another nearly 30% reported having anxiety. Even as the world grows in prosperity and life expectancy, our mental health is taking a nosedive. Economic and governmental reforms have failed. The world cries out for a better way of thinking. ![](https://acximages.ennals.org/images/2024-book-reviews/0768a1342b04a43a.png)
 
 Source: [the White House Council of Economic Advisors](https://www.whitehouse.gov/cea/written-materials/2022/05/31/reducing-the-economic-burden-of-unmet-mental-health-needs/)
 
@@ -123,11 +123,11 @@ Seems a little academic to me for a subculture largely existing on Twitter. My e
 
 For instance, here is a quintessential postrationalist declaring that he only believes in true things, except of course for fairies and elves:
 
-![](https://acximages.ennals.org/images/2024-book-reviews/ea750835046d24a9.png)
+![](https://acximages.ennals.org/images/2024-book-reviews/1ab138bd740b8e18.png)
 
 When I was first on the scene, it was baffling to me that someone would declare a belief in something but at the same time acknowledge its falsehood, but I understand it now as part of an intentionally chosen ironic stance toward the world. It’s not a delusion so much as it’s a person choosing to live by the _foma_ that makes him the person he wants to be. It sounds foolish to me but I have that in common with Bokonon, who “always said he would never take his own advice, because he knew it was worthless.”
 
-![](https://acximages.ennals.org/images/2024-book-reviews/9ea3a7497f3f3ab6.png)
+![](https://acximages.ennals.org/images/2024-book-reviews/c12563505a46b18e.png)
 
 That’s not to say that the Books of Bokonon contain no wisdom. To the contrary, they contain many profound truths. For instance, the title of the Fourteenth Book of Bokonon is “What Can a Thoughtful Man Hope for Mankind on Earth, Given the Experience of the Past Million Years?” There is only one verse, and it consists of a single word: “Nothing.” What religion or philosophy has more wisdom to offer than this?
 
@@ -143,7 +143,7 @@ Bokononists believe that humanity is divided into teams to unknowingly do God’
 
 If a _karass_ is a wheel, the hub is the _wampeter_. A _wampeter_ is the Macguffin of your _karass_. It can be anything so long as the members of the _karass_ form a “spiritual orbit” around it. _Wampeters_ are temporary. At any given time, a _karass_ will have two _wampeters_, one growing in importance and one falling. A _wampeter_ is different from a _kan-kan_, which is what draws you in to your _karass_. Our narrator suspects that the book he is writing is his _kan-kan_ and his _wampeter_ is the cataclysmic substance _ice-nine_.
 
-![](https://acximages.ennals.org/images/2024-book-reviews/9ca0c5074b8c98b6.png)
+![](https://acximages.ennals.org/images/2024-book-reviews/5511d2b173926559.png)
 
 We may be able to identify certain members of our _karass_ or one of our _wampeters_ at any given time_,_ though we will inevitably fail to see the extent of them. Bokonon admonishes that “anyone who thinks he sees what God is Doing” is a fool.[[41]](#ftnt41) When Bokononists think of how complicated and unpredictable everything is, rather than attempt to understand, they simply whisper “busy busy busy.”
 

@@ -47,7 +47,7 @@ And also this:
 
 > _After 1870, humanity's deployed technological capabilities and thus potential prosperity doubled every thirty-five years—and with it came economic creative destruction that reduced old economic structures to rubble and built new ones, and did it again, and again, and again, every single generation. Before 1870? From 1770-1870 humanity's globally-deployed technological prowess had a doubling time of about 150 years—not 35. From 1500-1770 it had a doubling time of 500 years. And before 1500, we are looking at a doubling time of 2000 years._
 
-![](https://acximages.ennals.org/images/2023-book-reviews/62ab32aa7becfe8d.png)
+![](https://acximages.ennals.org/images/2023-book-reviews/7c9ae19006cc9290.png)
 
 There are three parts to his argument, which is that 1) Globalization, 2) the Industrial Research Lab, and 3) the Modern Corporation, came together to create untold prosperity, which was taking us towards utopia. Except that it got waylaid by our infatuation with the markets (the Hayekian angel on one shoulder overpowering the Polanyian one on the other), and it led us astray.
 
@@ -152,7 +152,7 @@ What this tells us is also that the modern corporation is the latest way in whic
 
 The older organizations did incredibly hard things too. The East India Company [conquered](https://www.strangeloopcanon.com/p/some-things-to-learn-from-the-british) a continent, and created an empire. They did this though disadvantaged by populace, time, often money and the lack of any meaningful coordination or communication ability. They didn't have Slack!
 
-![](https://acximages.ennals.org/images/2023-book-reviews/4245e8e7ef61c371.png)
+![](https://acximages.ennals.org/images/2023-book-reviews/023a8a2cd0b85733.png)
 
 So when we think about the rise of the modern organization, whether that’s Henry Ford’s assembly line or IBM’s mainframe business creating software, their shape is more an indication of the complexity of what they’re working on, more than a particular innovation.
 
@@ -182,7 +182,7 @@ Is it a surprise specifically that they combined at \*some point\* in the creati
 
 Delong argues by 1870 the world had already seen multiple large mercantile and military forces that took over and traded with large swathes of the world.
 
-![](https://acximages.ennals.org/images/2023-book-reviews/eb95b8582c8d7adb.png)
+![](https://acximages.ennals.org/images/2023-book-reviews/4c9e78c698d8bde5.png)
 
 But as we’ve seen, 1870 feels much like the continuation of a trend long since underway. **The fact that an exponential curve has a hockey stick moment says more about our pareidolia than about reality.**
 
@@ -264,11 +264,11 @@ If you combine all three then you must also answer the question - what if the 18
 
 So I looked at all the innovations I could find historically, across all domains, and mapped them together in one chart. That’s here.
 
-![](https://acximages.ennals.org/images/2023-book-reviews/8b5f3944f07704ca.png)
+![](https://acximages.ennals.org/images/2023-book-reviews/0c5524bf8f1ed419.png)
 
 And here’s the second chart where this is mapped by the number of innovations per year, and the population.
 
-![](https://acximages.ennals.org/images/2023-book-reviews/62a9ccd789f37a15.png)
+![](https://acximages.ennals.org/images/2023-book-reviews/e279d9d438f2ed84.png)
 
 The second is what shows a kink in the curve somewhere towards the late 1800s, as per Delong’s observation. But the first shows that the growth in the number of inventions was steady. The prosperity in the 1800s was the result of the work that came before. Once we had machining tools and better communication and global markets to sell into, we could use the economic machine we’d constructed, in the form of capitalist enterprise, to make all our lives better!
 

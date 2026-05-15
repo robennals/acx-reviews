@@ -54,13 +54,13 @@ One reason we shouldn't worry ourselves with reading a particular book is that, 
 
 This paradoxical claim, which I’ll unpack shortly, explains Bayard's quirky classification system. Before he begins, he lists out abbreviations to classify books:
 
-![](https://acximages.ennals.org/images/2023-book-reviews/14ad705094275dbb.png)
+![](https://acximages.ennals.org/images/2023-book-reviews/065921a3412ac892.png)
 
 "Book I have read" is notably absent. This is the most important take home lesson about his system. We can’t draw a straight line between books we have read and books we haven’t.
 
 This doesn't stop him from rating books. His rating system includes the following:
 
-![](https://acximages.ennals.org/images/2023-book-reviews/13834180e9fe27a2.png)
+![](https://acximages.ennals.org/images/2023-book-reviews/619cf91ee0e033d9.png)
 
 This system makes explicit a process that many of us already do: We have opinions on books we haven't read. Think of your favorite ACX reviews. Or think of controversial books like Robin DeAngelo's _White Fragility_ or Charles Murray's _The Bell Curve_[[7]](#ftnt7).
 
@@ -76,7 +76,7 @@ Be warned, when analyzing the different books he doesn’t avoid spoilers. Anoth
 
 For instance, in his discussion of the ending of _The Third Man_, he unites the protagonist Rollo Martins with the girlfriend of the antagonist Harry Lime. In the original text, she walks on by.
 
-​​![](https://acximages.ennals.org/images/2023-book-reviews/8d35f3dd07bb2ab8.png)As in the book, Valli walks past Martins in the final scene of the film _The Third Man_ 
+​​![](https://acximages.ennals.org/images/2023-book-reviews/91a0d80bcf1b0aff.png)As in the book, Valli walks past Martins in the final scene of the film _The Third Man_ 
 
 Bayard defends his meddling by arguing that these changes are what should have happened based on his interpretation of the book, and are as real to him as any other detail.
 

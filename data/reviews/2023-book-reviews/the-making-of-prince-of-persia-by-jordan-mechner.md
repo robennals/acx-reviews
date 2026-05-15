@@ -22,7 +22,7 @@ Prince of Persia is an action platforming video game from 1989, created by a tea
 
 To establish the necessary context, I will summarize the game that the book documents the making of. It is not really possible to convey the feel of the gameplay, but fortunately, Prince of Persia is a game of many qualities. On release, the game was widely praised for its graphics, but these are obviously less impressive by modern standards. In my opinion, the secret sauce of Prince of Persia is the highly evocative _scenes_, which makes for some good 320x200 pixel screenshots and GIFs.
 
-![](https://acximages.ennals.org/images/2023-book-reviews/4ea7fe3859714ad1.png)
+![](https://acximages.ennals.org/images/2023-book-reviews/a2adff71f1ee08eb.png)
 
 [Advertisement, Computer Gaming World N. 79: contrast adjusted from source [https://popuw.com/magazines.html](https://popuw.com/magazines.html)]
 
@@ -177,7 +177,7 @@ Despite all these doubts, Mechner lands in Los Angeles one year later to make Pr
 
 ### The man who chases two rabbits
 
-September, 1986, Los Angeles. Having himself installed in the Broderbund offices, Mechner puts in some solid work on Prince of Persia. His first challenge is to get live action video from analog _tape_ (remember, this is forever ago) into his computer. Mechner’s vision is to make a game that bridges the gap from very primitive graphics, that sort of help you imagine whatever they are supposed to represent, to lifelike animations with a feeling of weight to them that include _the rest of the fucking owl_.![](https://acximages.ennals.org/images/2023-book-reviews/e60bc51ba4024951.png)
+September, 1986, Los Angeles. Having himself installed in the Broderbund offices, Mechner puts in some solid work on Prince of Persia. His first challenge is to get live action video from analog _tape_ (remember, this is forever ago) into his computer. Mechner’s vision is to make a game that bridges the gap from very primitive graphics, that sort of help you imagine whatever they are supposed to represent, to lifelike animations with a feeling of weight to them that include _the rest of the fucking owl_.![](https://acximages.ennals.org/images/2023-book-reviews/4fb73acbec83c7ee.png)
 
 To achieve this effect, Mechner employs a technique called _rotoscoping_, which basically involves going through video footage frame by frame and tracing the outlines. It is well-known in the world of filmmaking, for instance from Disney’s animated movies, but not very practical for video games, both because of the additional work that goes into digitizing and the unforgiving memory limitations of the computers of the time.
 
@@ -265,7 +265,7 @@ Mechner ends 1988 with a New Year’s Resolution: Finish Prince of Persia by Jul
 
 ### Man never is, but always to be blest
 
-From 1989 and on out, things are falling into place. Mechner works long days converting visions and sketches to working game code as well as sanding down all the rough edges. The skeleton ([level 3](#h.7cys9f5lvg5)) is briefly mentioned. Tina LaDeau, the eighteen year old daughter of a co-worker, is invited into the offices to serve as reference for the princess’ animations in the game’s intro and [outro](#h.wo5vr6s2ctu5). Mechner comments on her beauty in the journal on multiple occasions: _She’s a fox_ and _It’s a drag, having to spend hours reviewing video footage of this girl in slo-mo and frame-advance, but these are the sacrifices I have to make to get this game done_. Remember, he’s just 25 years old and this was supposed to be his personal diary.![](https://acximages.ennals.org/images/2023-book-reviews/592c947efd9c0c38.png)
+From 1989 and on out, things are falling into place. Mechner works long days converting visions and sketches to working game code as well as sanding down all the rough edges. The skeleton ([level 3](#h.7cys9f5lvg5)) is briefly mentioned. Tina LaDeau, the eighteen year old daughter of a co-worker, is invited into the offices to serve as reference for the princess’ animations in the game’s intro and [outro](#h.wo5vr6s2ctu5). Mechner comments on her beauty in the journal on multiple occasions: _She’s a fox_ and _It’s a drag, having to spend hours reviewing video footage of this girl in slo-mo and frame-advance, but these are the sacrifices I have to make to get this game done_. Remember, he’s just 25 years old and this was supposed to be his personal diary.![](https://acximages.ennals.org/images/2023-book-reviews/ceb52ae5527753a9.png)
 
 He has to deal more and more with teams of people - designers, marketers, programmers. This mostly seems to irritate him, partially because these people fail to do what he wants them to do, but also (mostly?) because he can sense that his own soft skills are holding him back. The women in marketing get lambasted in particular, both for not putting enough of a push behind a game with enormous potential and for censoring the box art by requesting an extra layer of “sports bra” under the princess’ top.
 

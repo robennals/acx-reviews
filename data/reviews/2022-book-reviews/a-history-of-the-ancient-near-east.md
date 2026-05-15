@@ -45,7 +45,7 @@ This is a process, at the broadest of levels, of progressive centralisation of p
 
 This was a description of the "when". It's worth having also a short description of the "where", in case someone didn't pay attention in Geography class. The best description, of course, is a map from Wikipedia:
 
-![](https://acximages.ennals.org/images/2022-book-reviews/69a56f5cc4a7f899.png)
+![](https://acximages.ennals.org/images/2022-book-reviews/c6bd5f229f5e8c56.png)
 
 There, now I saved you a trip to Wikipedia. (By the way, quick reminder to contribute to Wikipedia, it's one of humanity's greatest achievements). Almost anything you need to know to navigate the places mentioned is in this map. Marc seems to use the word "Babylonia" to refer to the whole south of Mesopotamia, which in the map appears as "Sumer". It was a bit confusing at first (specially because in Spanish both Babylonia and Babylon were translated as "Babilonia"), but at least it's consistent during the whole book; and it kind of makes sense, because the city of Babylon dominated the area often, and it's the most famous one for those who are not familiarised with the topic. It's way more likely that you've heard of Babylon, but not of Uruk, Ur, Lagash, Kish, or Nippur. In fact, for most people, out of all the cities mentioned in this book, only Babylon and Jerusalem will ring a bell, and with some luck Nineveh and Ur, if they've had a religious upbringin.
 

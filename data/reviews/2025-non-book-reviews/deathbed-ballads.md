@@ -268,7 +268,7 @@ Prior to _The Unfortunate Lad_, the trail gets murky. Before _The Buck’s Elegy
 
 In the 1920s, a cluster of related Blues songs started showing up in the repertoires of several Jazz and Blues singers called _Gambler’s Blues_ or _St. James Infirmary_ (Ibid). The later title, or the minor variant _St. James Infirmary Blues_ very quickly became standard. The former was published as sheet music in 1925 and as a record in 1927 by Phil Baxter and Carl Moore, while the latter was first recorded in 1928 by Louis Armstrong [2]. Since then, it’s been performed and recorded by countless artists. Cab Calloway, who first recorded the song in 1930, is probably the most iconically associated with the song. More recently, it’s been recorded by Arlo Gunthrie (2007) and Hugh Laurie (2011).
 
-![](https://acximages.ennals.org/images/2025-non-book-reviews/674e314a877ce36f.png)![](https://acximages.ennals.org/images/2025-non-book-reviews/7c971217600b04a0.png)![](https://acximages.ennals.org/images/2025-non-book-reviews/8d0e0887691d94c6.png)![](https://acximages.ennals.org/images/2025-non-book-reviews/c70f3c94ce564ca1.png)![](https://acximages.ennals.org/images/2025-non-book-reviews/b104a56ee140e793.png)
+![](https://acximages.ennals.org/images/2025-non-book-reviews/63c1fab263898f85.png)![](https://acximages.ennals.org/images/2025-non-book-reviews/7c971217600b04a0.png)![](https://acximages.ennals.org/images/2025-non-book-reviews/91e338944762a634.png)![](https://acximages.ennals.org/images/2025-non-book-reviews/c70f3c94ce564ca1.png)![](https://acximages.ennals.org/images/2025-non-book-reviews/b104a56ee140e793.png)
 
 _Top Row: Phil Baxter, Louis Armstrong, Cab Calloway  
 Bottom Row: Arlo Gunthrie, Hugh Laurie_
@@ -333,7 +333,7 @@ There is one more verse that’s present in the Baxter/Moore original and in Gun
 > Seven girls going to the graveyard  
 > And only six of them are coming back
 
-![](https://acximages.ennals.org/images/2025-non-book-reviews/5a5aa7ae7f673af4.png)_Green indicates which verses were in each version of the song_
+![](https://acximages.ennals.org/images/2025-non-book-reviews/5b4e69ebcd185060.png)_Green indicates which verses were in each version of the song_
 
 The tune Baxter wrote for his and Moore’s original version of the song is unique among these five recordings of the song. It's an extremely slow and somber jazz melody which puts me in mind of the baroque song _Dead March_ from the third act of Handel’s 1738 oratorio _Saul_. The latter song is very commonly played at state funerals in many countries, including Britain and the United States, and I expect it is the same _Dead March_ referred to in _Laredo_, _Lad_, and _Elegy_. If this resemblance was deliberate on Baxter’s part and not merely coincidence or figment of my imagination, it seems a very significant link between _St. James_ and the _Lad_ tradition.
 
@@ -369,7 +369,7 @@ _Dying Crapshooter Blues_ is another song that cropped up in the historical reco
 
 There are a number of covers of _Crapshooter_ after McTell’s recordings, but it doesn’t seem to be anything like the major genre standard that _St. James_ became. My favorite of these is by The Wiyos, recorded in 2007. The song appears to be strongly associated with McTell, and if it was at all popular as a live performance in the 20s and 30s, this does not seem to be attested in written or recorded sources.
 
-![](https://acximages.ennals.org/images/2025-non-book-reviews/d5915339452564f1.png)![](https://acximages.ennals.org/images/2025-non-book-reviews/afbeff52f101e243.png)![](https://acximages.ennals.org/images/2025-non-book-reviews/d1e018e621f25e27.png)![](https://acximages.ennals.org/images/2025-non-book-reviews/2e76eac556fdc3c3.png)
+![](https://acximages.ennals.org/images/2025-non-book-reviews/18b984e632543b49.png)![](https://acximages.ennals.org/images/2025-non-book-reviews/afbeff52f101e243.png)![](https://acximages.ennals.org/images/2025-non-book-reviews/d1e018e621f25e27.png)![](https://acximages.ennals.org/images/2025-non-book-reviews/3f2434777e94ac88.png)
 
 _Left to right: Martha Copeland, Porter Grainger, Blind Willie McTell, and Michael Farkas (Wiyos)_
 
@@ -443,7 +443,7 @@ _Crapshooter_ is still a much more serious song than _Shades_ or _Kangaroo_, but
 
 We reach the last major song that is conventionally considered to be part of the _Unfortunate Lad_ tradition [1]. As a change of pace from the last few songs, its origin is clearly attested and undisputed. This is _No Man’s Land_, written by the Scottish-Australian folk musician Eric Bogle in 1975-6, It’s also known as _Willie McBride_ or _The Green Fields of France_ [2]. It’s been covered by a number of other performers, including The Dropkick Murphys, The High Kings, The Clancy Brothers, and John McDermott of The Irish Tenors. All the covers I’ve heard stick very close to the original, which simplifies my task as a reviewer.
 
-![](https://acximages.ennals.org/images/2025-non-book-reviews/794685b20f2bae5b.png)
+![](https://acximages.ennals.org/images/2025-non-book-reviews/a7ff9c9cc9736bb0.png)
 
 This song is quite a significant departure from the familiar story structure. The narrator is walking through France and stops to rest at the grave of a fallen soldier from the First World War, a private named William (or Willie, in most covers) McBride who died six decades before the song was written. Based on the name and circumstances, McBride was likely an Irishman [3] enrolled in the British Army. It’s more likely than not he died in the Battle of the Somme, but soldiers died of bullets, shells, accidents, and disease even in “quiet” areas of the front.
 
@@ -515,7 +515,7 @@ _France_ is widely considered one of the greatest anti-war and First World War m
 
 And now for something that isn’t quite completely different, but which is radically different in tone from _France_ and of the other serious songs we’ve been covering. It’s also tied to the _Lad_ tradition in a much more tenuous manner than the other songs.
 
-![](https://acximages.ennals.org/images/2025-non-book-reviews/7ee2487441065006.png)
+![](https://acximages.ennals.org/images/2025-non-book-reviews/e4e7e6fa8a96718d.png)
 
 _The Great Conch Train Robbery_ (1979) is another song written by Shel Silverstein, the author and performer of _Shades_. It takes place in the town of Key West, Florida, where a local called Sam the Shrimper stands up in Sloppy Joe’s bar and declaims to all present that,
 
@@ -583,7 +583,7 @@ On the surface, _Conch Train_ doesn’t really seem to belong in the company of 
 
 ## The Synoptic Problem
 
-![](https://acximages.ennals.org/images/2025-non-book-reviews/63d150319fa779dc.png)![](https://acximages.ennals.org/images/2025-non-book-reviews/09b6c62abe2bc7a0.png)
+![](https://acximages.ennals.org/images/2025-non-book-reviews/63d150319fa779dc.png)![](https://acximages.ennals.org/images/2025-non-book-reviews/3b9e68497c7aedec.png)
 
 Of the four canonical Gospels of the New Testament, three of them, Matthew, Mark, and Luke, have enormous overlaps between them, and not just the way that we’d expect if they were independently-formulated accounts of the same events. To a large extent, they tell exactly the same stories in approximately the same order using very similar wordings. Some of this is all three, some is only present in two of the three, and there are major stylistic differences between the Luke/Matthew double tradition and the material that either or both share with Mark. These three books are known collectively as the “Synoptic [1] Gospels”, and the analysis of why they share these similarities in ways that the Gospel of John lacks is the “Synoptic Problem”. There are a plethora of hypotheses that have been offered to explain this, of which the currently most accepted is that Mark was written first and Luke and Matthew independently drew their shared material from a lost and unattested source known as the Q Gospel.
 
@@ -612,7 +612,7 @@ I chose the motifs by including elements that were shared between some of the ni
 
 Some motifs were only sort-of present in a given song, while others were present in some versions of a song but not others. These I represented with fractional values.
 
-![](https://acximages.ennals.org/images/2025-non-book-reviews/041845626e87bcb1.png)
+![](https://acximages.ennals.org/images/2025-non-book-reviews/64ee821f2eaa98ee.png)
 
 I see a block of motifs that are equally common among the _Lad, Laredo, St. James_, and _Crapshooter_. I also see some motifs that are shared by _Elegy, Lad,_ and _Laredo_ and absent from _St. James_ and _Crapshooter_, and vice versa; I’ll refer to these as the “triple tradition” and “double tradition” respectively.
 
@@ -620,7 +620,7 @@ The other four songs don’t fit quite as well. _Kangaroo_ scores especially poo
 
 Moving on from eyeballing the raw data, here’s my attempt at an actual statistical analysis:
 
-![](https://acximages.ennals.org/images/2025-non-book-reviews/5397c2a9fbcbe535.png)
+![](https://acximages.ennals.org/images/2025-non-book-reviews/f4ec3c807329b243.png)
 
 This is an asymmetrical analysis of what fraction of motifs from the row-header song are also present in the column-header song. For example, the 96% figure in the _Lad_ column and the _Buck_ row means that 96% of the motifs in _Buck_ are also present in _Lad_, and the 68% figure one cell southwest of it means that _Buck_ only has a little over two thirds of the motifs present in _Lad_. Taken together, this means that _Lad_ adds substantially to _Buck_ in the dimensions I’m considering, but hardly subtracts any, the same way that the Gospel of Matthew contains almost all of the Gospel of Mark, plus substantial additional material. The averages on the right of the chart indicate a ceiling of how much that row’s song gives to the triple and double traditions (_Buck/Lad/Laredo_ and _St. James/Crapshooter_ respectively), while the averages on the bottom indicate a ceiling of how much those songs take from them.
 

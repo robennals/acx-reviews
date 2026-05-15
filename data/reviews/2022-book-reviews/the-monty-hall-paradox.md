@@ -85,7 +85,7 @@ So I changed the interlocutor from “girl” to “female” to remove the unin
 >
 > Me: In a moment, we first have to draw a causal diagram. Consider these three variables: which door hides the prize, which door you have chosen, which door Monty Hall opens. Imagine representing them with little dots and linking them with arrows, where each arrow goes from cause to effect. So we have to link the prize door to Monty Hall's one, because he can't open the prize door, and also the chosen door because he can't open that either.
 
-![](https://acximages.ennals.org/images/2022-book-reviews/19bc1ebbf07e3ad5.png)
+![](https://acximages.ennals.org/images/2022-book-reviews/42fa6b3d0e27ddb7.png)
 
 > Female: Good, he's drawing arrows now. _[makes a well-known gesture with the hands]_
 >
@@ -123,7 +123,7 @@ So I changed the interlocutor from “girl” to “female” to remove the unin
 >
 > Me: Whatever, it's an illusion in the penises case, what the two examples share is an unexpected correlation. Anyway, it becomes evident if we draw the diagram:
 
-![](https://acximages.ennals.org/images/2022-book-reviews/543b0606049ee691.png)
+![](https://acximages.ennals.org/images/2022-book-reviews/ca5b9d25d7bd6f93.png)
 
 > Me: So, who out of you and your mother is carrying out the measurement influences the length due to the differential erection rate. Age matters too because children have it small.
 >
@@ -175,9 +175,9 @@ I expect that you either have figured out the solution yourself, or at least thi
 
 While, instead, I expect you to feel perplexed about switching door or trusting your assistant not to have cherry-picked young subjects for the penis experiment. What’s the difference in trying to see through the veil of the correlation between these two kinds of situations? Pearl’s answer (to everything, actually) is: just draw the graph!
 
-![](https://acximages.ennals.org/images/2022-book-reviews/7c53cd3aa12f9fbc.png)
+![](https://acximages.ennals.org/images/2022-book-reviews/5140add0fcd2153c.png)
 
-![](https://acximages.ennals.org/images/2022-book-reviews/b67ea52564719d53.png)
+![](https://acximages.ennals.org/images/2022-book-reviews/e82118157f4d43be.png)
 
 The arrows go in the opposite direction! It is easy for us to understand the correlation when it is produced by a shared cause of multiple effects, while it is difficult to have an intuitive grasp when there’s a single effect of multiple causes.
 

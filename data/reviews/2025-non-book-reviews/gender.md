@@ -95,7 +95,7 @@ So, why bother?
 
 One possible answer is this:
 
-![](https://acximages.ennals.org/images/2025-non-book-reviews/483e7bd942902030.png)
+![](https://acximages.ennals.org/images/2025-non-book-reviews/bda45affff1e5b75.png)
 
 You can read Yudkowsky’s full argument here: https://www.lesswrong.com/posts/Py3uGnncqXuEfPtQp/interpersonal-entanglement
 
@@ -109,7 +109,7 @@ So, to recap: it’s a hard problem. It hasn’t yet been made fully tractable. 
 
 Ava (Substack writer - bookbear express) expresses a similar sentiment:
 
-![](https://acximages.ennals.org/images/2025-non-book-reviews/326f27a10d44cdd3.png)
+![](https://acximages.ennals.org/images/2025-non-book-reviews/89522330bfeceae2.png)
 
 Remember her - she, and her substack, will make an appearance in the final section of this review.
 
@@ -126,15 +126,15 @@ I am mentioning this because I suspect that some people reading this will have a
 
 The tweet-sized version is this:
 
-![](https://acximages.ennals.org/images/2025-non-book-reviews/e7a9e4be881c2001.png)
+![](https://acximages.ennals.org/images/2025-non-book-reviews/b5afb9ec2cb92a53.png)
 
 So what is Scott Alexander’s argument about the psychopolitics of trauma?
 
-![](https://acximages.ennals.org/images/2025-non-book-reviews/2848f5a4ae4a9dd7.png)
+![](https://acximages.ennals.org/images/2025-non-book-reviews/3472d3cb71b9b9c1.png)
 
 (...)
 
-![](https://acximages.ennals.org/images/2025-non-book-reviews/0cf3ac1046554cb3.png)
+![](https://acximages.ennals.org/images/2025-non-book-reviews/988d915f2f1b0b5d.png)
 
 Read the full post here: [https://www.astralcodexten.com/p/the-psychopolitics-of-trauma](https://www.astralcodexten.com/p/the-psychopolitics-of-trauma)
 
@@ -142,11 +142,11 @@ Read it? No? Then go and read it. He’s a psychiatrist and I’m not; he explai
 
 Another excerpt:
 
-![](https://acximages.ennals.org/images/2025-non-book-reviews/44224c4814aaa04f.png)
+![](https://acximages.ennals.org/images/2025-non-book-reviews/b45de233a836f93e.png)
 
 I am arguing that a similar thing has happened to gender relations. This (the next screenshot) is Scott Alexander’s conclusion about trauma and political partisanship. I think it also describes the worse battlegrounds of the gender wars. It’s a self-perpetuating cycle. And the people stuck in those trenches are also the people who produce the vast majority of gender takes. That’s why engaging with gender takes is so likely to have negative consequences. The gender discourse is produced by people who have been hurt in gender-specific ways and whose perception and strategies are now warped around the gravitational fields of those injuries. It’s a psychological minefield.
 
-![](https://acximages.ennals.org/images/2025-non-book-reviews/ac498ddd1e27cd08.png)
+![](https://acximages.ennals.org/images/2025-non-book-reviews/ceb0dc2f0c585059.png)
 
 If this is accurate - if this is really a major source of toxicity in gender relations - then the implications are both horrifying and hopeful.
 
@@ -184,7 +184,7 @@ The next section of this review is an attempt to locate and describe sources of 
 
 Most of us have encountered variants of this graph before:
 
-![](https://acximages.ennals.org/images/2025-non-book-reviews/b1022ac1d9137bbb.jpg)
+![](https://acximages.ennals.org/images/2025-non-book-reviews/2f4e5b1a74f77109.jpg)
 
 Men and women differ, on the population level, on lots of dimensions. The mean of the male bell curve is usually not the same as the female mean.
 
@@ -201,7 +201,7 @@ Most cultural narratives, clichés, advice columns and self-help books, and so o
 
 Of course the “standard” dynamic can be flipped. For example, see here for discussion of a hetero relationship where the woman is more avoidant: [https://sashachapin.substack.com/p/my-mind-transformed-completely-and](https://sashachapin.substack.com/p/my-mind-transformed-completely-and)
 
-![](https://acximages.ennals.org/images/2025-non-book-reviews/cfbed3f5b5f1c89a.png)
+![](https://acximages.ennals.org/images/2025-non-book-reviews/bce8a31f79efb950.png)
 
 Conceptual precision is useful. If it’s an attachment thing, call it an attachment thing, instead of making generalisations about how “women are clingy” or “men don’t communicate”. And so on. Zoom in on what’s actually going on. That is more likely to be productive - you can’t do anything about “men’s nature” or “women’s nature”, but you can do something about anxious-avoidant relationship dynamics. It increases the resolution of our culture’s mental models, and that in turn increases the degrees of freedom we can operate in without leaving the cultural scripts.
 
@@ -212,9 +212,9 @@ Conceptual precision is useful. If it’s an attachment thing, call it an attach
 
 We are a sexually dimorphic species. In some areas it’s obvious (average height), in others it’s more subtle.
 
-![](https://acximages.ennals.org/images/2025-non-book-reviews/b9b5671730360ba9.png)
+![](https://acximages.ennals.org/images/2025-non-book-reviews/601ab5e11774b00d.png)
 
-## ![](https://acximages.ennals.org/images/2025-non-book-reviews/e00dbea5e2821dea.png)
+## ![](https://acximages.ennals.org/images/2025-non-book-reviews/5acb416861d680ed.png)
 
 Other people have discussed this extensively. I don’t have anything to add to the biology discussion itself, other than to say that yes, obviously, Biology Is A Thing.
 
@@ -228,7 +228,7 @@ Second, most men and most women have a distorted view of the opposite gender. Th
 
 Sympathetic opposition deserves the credit for this observation: https://www.sympatheticopposition.com/p/thoughts-on-gender-ratio-and-social
 
-![](https://acximages.ennals.org/images/2025-non-book-reviews/2cd34e0ab5139bfc.png)
+![](https://acximages.ennals.org/images/2025-non-book-reviews/a7e2b169f3d100e3.png)
 
 Several areas where this applies (all credit for the insights goes to her; if I am misrepresenting her argument the error is mine):
 
@@ -259,7 +259,7 @@ Personally I haven’t seen this; but I do have heard about it from others. I wa
 
 Sym Opp points out, and I agree, that the dynamics of a group with a strongly skewed gender ratio are different from the dynamics of a single gender group.
 
-![](https://acximages.ennals.org/images/2025-non-book-reviews/e7be7f159fed50a2.png)
+![](https://acximages.ennals.org/images/2025-non-book-reviews/c80cc707337d4ce1.png)
 
 At least some of that seems to me to be the result of the absence of direct intersexual competition (assuming heterosexuality). I’ve often heard male comrades say that they prefer an all-male watch to a watch with one woman, because some portion of the guys will… the term they used would translate to “acting like a rooster”. I’ve also heard from women (many such cases, mostly civilian) that they like women-only spaces for the absence of being evaluated. (Sometimes this is phrased as “not being subjected to the male gaze”, but the underlying phenomenon is not political and there is no need to use politically charged terms to describe it.) I’m not straight (I was closeted during almost all my service, and other than three obvious out lesbians everyone (that I know of) was too.) I feel weird about, like, locker rooms. If I’m not out (and, again, I don’t have rainbow hair) then it feels a bit deceptive to me, to continue to let other women assume they are in a space where no one is attracted to them when it’s not true.
 
@@ -286,11 +286,11 @@ This isn’t just about misandric straight women or misogynistic straight men; i
 
 Related take:
 
-![](https://acximages.ennals.org/images/2025-non-book-reviews/49881a7700ce1534.png)
+![](https://acximages.ennals.org/images/2025-non-book-reviews/21efbc7f0c7bbfab.png)
 
 Another potential source of dating toxicity:
 
-![](https://acximages.ennals.org/images/2025-non-book-reviews/414edde32aeed47b.png)
+![](https://acximages.ennals.org/images/2025-non-book-reviews/d272fcc3eb114f51.png)
 
 A good resource for this is https://goblinodds.com/
 
@@ -300,13 +300,13 @@ Another insight from sympathetic opposition: https://www.sympatheticopposition.c
 
 Read her analysis, she’s more socially perceptive than I am. To repeat the argument, the kind of opposite gender people you can most easily eavesdrop on online are not necessarily representative of the opposite gender as such, or the subset of the opposite gender you would be most interested in dating. Also, this:
 
-![](https://acximages.ennals.org/images/2025-non-book-reviews/c710104fa91227af.png)
+![](https://acximages.ennals.org/images/2025-non-book-reviews/89c01ac5113c8ebf.png)
 
 ### Pursuing gender and pursued gender
 
 I got this one from Aella’s discussion of the success of onlyfans: [https://aella.substack.com/p/how-onlyfans-took-over-the-world](https://aella.substack.com/p/how-onlyfans-took-over-the-world)
 
-![](https://acximages.ennals.org/images/2025-non-book-reviews/28474b670fe175ff.png)
+![](https://acximages.ennals.org/images/2025-non-book-reviews/3b7d26864c2bf945.png)
 
 ### Red Pill Seduction Advice
 
@@ -324,7 +324,7 @@ Anyway, the outcome was more or less what red pill advice promises for “being 
 
 Something like this is probably already a thing. I got the idea from Aella describing a workshop she contributed to here: [https://aella.substack.com/p/this-practice-made-men-arouse-me](https://aella.substack.com/p/this-practice-made-men-arouse-me)
 
-![](https://acximages.ennals.org/images/2025-non-book-reviews/63b4179b54d1f03f.png)
+![](https://acximages.ennals.org/images/2025-non-book-reviews/4e14a74f221116bf.png)
 
 This could have exercises like the one Aella describes, discussion circles where you can try to actually understand the perspective of the other gender, talking about selected media or case studies and listening to how people of the other gender interpret them, and much more. There could also be workshops tailored to undoing the damage of the gender wars.
 
@@ -336,7 +336,7 @@ https://goblinodds.substack.com/p/the-gender-wars-dont-need-you
 
 Scott Alexander in defense of dating docs: [https://www.astralcodexten.com/p/in-defense-of-describable-dating](https://www.astralcodexten.com/p/in-defense-of-describable-dating)
 
-![](https://acximages.ennals.org/images/2025-non-book-reviews/d12c7e099b9de4e4.png)
+![](https://acximages.ennals.org/images/2025-non-book-reviews/2860467c7cd9d058.png)
 
 Matchmaking in Orthodox Judaism is discussed more here: [https://www.astralcodexten.com/p/highlights-from-the-comments-on-dating](https://www.astralcodexten.com/p/highlights-from-the-comments-on-dating)
 
@@ -348,7 +348,7 @@ This idea is a bit half-baked in its current form, but given that matchmaking ha
 
 It’s recently become a thing that substack writers matchmake their readers, like Ava from bookbear express: [https://www.avabear.xyz/p/matchmaking-is-open-what-ive-been](https://www.avabear.xyz/p/matchmaking-is-open-what-ive-been)
 
-![](https://acximages.ennals.org/images/2025-non-book-reviews/345d8b237b56ff98.png)
+![](https://acximages.ennals.org/images/2025-non-book-reviews/cf4d99912d445f17.png)
 
 Hopefully more people will do experiments like this!
 
@@ -360,11 +360,11 @@ This is more of an “I wish this social institution existed” kind of thing.
 
 I got the idea from Aella: [https://knowingless.com/2021/11/15/what-i-learned-from-my-date-me-experiment/](https://knowingless.com/2021/11/15/what-i-learned-from-my-date-me-experiment/)
 
-![](https://acximages.ennals.org/images/2025-non-book-reviews/e5d61766412a6232.png)
+![](https://acximages.ennals.org/images/2025-non-book-reviews/5071298015a96a5a.png)
 
 (...)
 
-![](https://acximages.ennals.org/images/2025-non-book-reviews/35816b311a195bef.png)
+![](https://acximages.ennals.org/images/2025-non-book-reviews/1f975ee6fce14fc6.png)
 
 I don’t have that much relationship experience, and I’d like to know more about what I’m like in a committed relationship. What is my communication style, what are my actual preferences, what kind of attachment stuff would come up. Seems like useful information!
 
@@ -386,7 +386,7 @@ This section is mostly for people who share my former allergy to discussion of t
 
 This take is not without merits! Social hierarchies where you gain status by “being worse off” are terrible incentive structures. It gets worse from there, because there is an element of self-fulfilling prophecy. If you believe that XYZ is utterly horrible and harmful, you are more likely to be adversely affected if XYZ happens to you, for any given XZY. This isn’t to say that we should dismiss the harms of any particular XYZ, or pretend that “it’s not a big deal” if it is, in fact, a big deal. But no one is done any favours if we consistently describe things that are, unfortunately, part of the world we live in, as worse than they have to be. Aella has written about this much better than I could, so I’ll just give some links. I found her essays about this idea life-changing. One phrase in particular has been stuck in my head since I first read it: “I wish at least one person would not have reacted with horror.”
 
-![](https://acximages.ennals.org/images/2025-non-book-reviews/7a24aa6aad8a7234.png)
+![](https://acximages.ennals.org/images/2025-non-book-reviews/2e895b5da2c74774.png)
 
 [https://aella.substack.com/p/trauma-as-physics](https://aella.substack.com/p/trauma-as-physics)
 
@@ -400,8 +400,8 @@ I lost my allergy to discussions of trauma when I read Sasha Chapin’s How I Wi
 
 https://sashachapin.substack.com/p/how-i-wish-trauma-had-been-explained
 
-![](https://acximages.ennals.org/images/2025-non-book-reviews/061da919fce4203d.png)
+![](https://acximages.ennals.org/images/2025-non-book-reviews/8320a193356ea8f9.png)
 
 Anyhow, here’s the summary:
 
-![](https://acximages.ennals.org/images/2025-non-book-reviews/e7a9e4be881c2001.png)
+![](https://acximages.ennals.org/images/2025-non-book-reviews/b5afb9ec2cb92a53.png)

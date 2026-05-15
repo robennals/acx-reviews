@@ -32,7 +32,7 @@ There is the super old brain - the part that even frogs and reptiles have. It re
 
 So next time you try to remember something about brain anatomy, just think “frog, monkey, human” and you’re halfway there.
 
-![Old brain new brain](https://acximages.ennals.org/images/2023-book-reviews/7b78162a40419124.jpg)
+![Old brain new brain](https://acximages.ennals.org/images/2023-book-reviews/a6674aa30ec24f11.jpg)
 
 _Source:_ _[https://waitbutwhy.com/2017/04/neuralink.html](https://waitbutwhy.com/2017/04/neuralink.html)_
 
@@ -50,7 +50,7 @@ Ok, so the neocortex consists of many copies of the same thing - then what is th
 
 There are roughly 150,000 cortical columns in the human neocortex. Mice have one column for each whisker, which is cute, but hardly relevant. Here is a representation of different types of neurons in a column:
 
-![](https://acximages.ennals.org/images/2023-book-reviews/f31f1300e1a46e87.jpg)
+![](https://acximages.ennals.org/images/2023-book-reviews/83e7989862dc410b.jpg)
 
 The black spidery-looking dots are neurons. There are many more neurons in a column than are illustrated in that picture. A column is made up of roughly 100k of them.
 
@@ -58,7 +58,7 @@ The actual sizes of these columns vary. It’s biology. Everything is smushed an
 
 Here is a 3D reconstruction of five neighboring columns in a rat:
 
-![](https://acximages.ennals.org/images/2023-book-reviews/0174a129f31b2b9b.jpg)
+![](https://acximages.ennals.org/images/2023-book-reviews/a06ee498c5bc67c9.jpg)
 
 _Source:_ _[Project AGI](http://blog.agi.io/2015/04/mini-macro-micro-and-hyper-columns.html)__, Credit: Marcel Oberlaender et al._
 
@@ -89,7 +89,7 @@ Recognizing a face means having a prediction for that face. When you see a new f
 
 You can experience this right now. This is a picture of a cow:
 
-![](https://acximages.ennals.org/images/2023-book-reviews/37bc84e477cb78b8.png)
+![](https://acximages.ennals.org/images/2023-book-reviews/309c16886e3b9abc.png)
 
 At first, you just see black spots, but I’m telling you it’s a cow. This constitutes a prediction error. You should see a cow, but you don’t. By paying attention to the picture your brain tries out its different models of “cow” until you finally recognize the cow in the picture ([solution here](https://uxswaps.notion.site/Cow-Solution-67e98c93cae7401c9bb76d8b94da3c4a)) and the prediction error is eradicated. If no model fits, your brain can create a new one. Making new models is the process of learning.
 
@@ -107,13 +107,13 @@ What we have so far.
 
 The next step is to figure out how columns make predictions. To do that, I have this intimidating-looking slide for you:
 
-![](https://acximages.ennals.org/images/2023-book-reviews/872ce88157db5399.jpg)
+![](https://acximages.ennals.org/images/2023-book-reviews/f6f66c6f8f1a032d.jpg)
 
 _From a presentation that Jeff Hawkins gave at_ _[the Simons Institute](https://www.youtube.com/watch?v=zVGQeFFjhEk&ab_channel=SimonsInstitute)__._
 
 And sorry, I can’t comfort you by saying that it only looks scary, but in principle, it’s super simple. It just isn’t and there’s a lot going on. But what I can do is simplify it a bit and move through one layer at a time.
 
-![](https://acximages.ennals.org/images/2023-book-reviews/9be2c4432d148b9e.jpg)
+![](https://acximages.ennals.org/images/2023-book-reviews/82d239055863bd53.jpg)
 
 Here are the relevant questions:
 
@@ -127,7 +127,7 @@ I’m not going to get into the fourth part on composite objects, because I don�
 
 Is a single neuron already capable of prediction? Apparently yes! It does so with its distal synapses. A synapse is where a neuron gets inputs from another neuron. Only 10% of synapses are proximal (close enough to the cell body to activate the cell). 90% of the synapses are distal (too far away from the cell body to activate the cell).
 
-![](https://acximages.ennals.org/images/2023-book-reviews/6b434ccd3b766c06.jpg)
+![](https://acximages.ennals.org/images/2023-book-reviews/b3327f381fad4fe6.jpg)
 
 _Source: I combined two images from A Thousand Brains: A New Theory of Intelligence, Hawkins, Jeff._
 
@@ -137,7 +137,7 @@ The answer is: distal synapses get the dendrites excited. Dendrites are like cab
 
 This is easier experienced than explained. Read this:
 
-![](https://acximages.ennals.org/images/2023-book-reviews/f3a7df072e03077e.png)
+![](https://acximages.ennals.org/images/2023-book-reviews/9ae694f7251dab3a.png)
 
 You should be able to hear “brainstorm” in this audio:
 
@@ -145,7 +145,7 @@ You should be able to hear “brainstorm” in this audio:
 
 Let’s try another:
 
-![](https://acximages.ennals.org/images/2023-book-reviews/3cc7e6803243f90f.png)
+![](https://acximages.ennals.org/images/2023-book-reviews/459f7c67f49287c6.png)
 
 Now try to hear “green needle” in this one.
 
@@ -183,7 +183,7 @@ Notice that while the input layer changes over time, the output remains stable. 
 
 Predictions don’t have to come in one by one. You can get multiple inputs into multiple columns and make multiple predictions all at the same time. When you touch a cup with three fingers instead of one, the columns can work together to recognize the object instantly.
 
-![](https://acximages.ennals.org/images/2023-book-reviews/7f722b1baf1e9abf.jpg)
+![](https://acximages.ennals.org/images/2023-book-reviews/ea7472d19af81ff6.jpg)
 
 **3: How does L6a supply location information to L4?**
 
@@ -211,7 +211,7 @@ The old brain knows where you are relative to your environment. The cells that r
 
 If I understand it correctly, it goes something like this:
 
-![](https://acximages.ennals.org/images/2023-book-reviews/f8828a5685863524.png)
+![](https://acximages.ennals.org/images/2023-book-reviews/d29e8484017829e0.png)
 
 Some very interesting experiments by [John O’Keefe, May-Britt Moser, and Edvard Moser](https://www.nobelprize.org/prizes/medicine/2014/press-release/) show how this grid is built in the brain (they won a Nobel Prize for it).
 
@@ -229,7 +229,7 @@ See a pattern emerge?
 
 Grid cells create a grid for any room that you are in. And then the place cells tell you what’s in it. Maybe you are looking for your phone. You think you left it in A2. But then you remember it’s actually in B3. You have the same cells representing your phone and the space, but different cells representing the phone’s location.
 
-![](https://acximages.ennals.org/images/2023-book-reviews/2a111b106e1ff74c.jpg)
+![](https://acximages.ennals.org/images/2023-book-reviews/d8ce53ea934602ee.jpg)
 
 **Maps in the NEW brain (epistemic status: conjecture).**
 
@@ -245,11 +245,11 @@ You can establish a grid to learn where things are in space. But you can also do
 
 Less likely to be unique:
 
-![](https://acximages.ennals.org/images/2023-book-reviews/30bfc64c40be12ee.jpg)
+![](https://acximages.ennals.org/images/2023-book-reviews/4a281606e55c010f.jpg)
 
 More likely to be unique:
 
-![](https://acximages.ennals.org/images/2023-book-reviews/1d1a4a24f962aed3.jpg)
+![](https://acximages.ennals.org/images/2023-book-reviews/bc00837e97f0d922.jpg)
 
 This is what happens when you touch a cup and recognize it. Each finger is like a person exploring a city, or like a rat exploring a box.
 

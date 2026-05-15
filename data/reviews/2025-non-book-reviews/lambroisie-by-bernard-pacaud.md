@@ -27,7 +27,7 @@ First, a quick preface of fine dining for the unfamiliar. Although it can someti
 
 The following is a quick array of what people "typically" think of as fine dining, sampled from my own travels, as a supplant to years of experience:
 
-![](https://acximages.ennals.org/images/2025-non-book-reviews/ab919c366a416389.png)
+![](https://acximages.ennals.org/images/2025-non-book-reviews/cddce7fe7dfe0291.png)
 
 [please embed rather than upload: [https://i.imgur.com/s9xvLn4.png](https://i.imgur.com/s9xvLn4.png)]
 
@@ -44,7 +44,7 @@ All of them excellent examples of fine dining to my palate and eye.
 
 _Au contraire_, a selection of places that did not live up to my standards, despite their high regard and reputations in the culinary and critical worlds:
 
-![](https://acximages.ennals.org/images/2025-non-book-reviews/c528678a44f89a0e.png)
+![](https://acximages.ennals.org/images/2025-non-book-reviews/270b07df4d9f2c12.png)
 
 [please embed rather than upload: [https://i.imgur.com/nzbgKdR.png](https://i.imgur.com/nzbgKdR.png)]
 

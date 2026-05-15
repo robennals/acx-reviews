@@ -179,6 +179,6 @@ The current state of science (and “_Science_”) reflects the hidden legacies 
 
 The real promise of humanism, though, is a rejection of the false promise of the blank slate: treating each person as an individual, rather than reducing them to representatives of the identity categories they happen to belong to. If given equality of opportunity and freedom of choice, people will pursue their own interests. From that perspective, the [persistence of sex asymmetries](https://michaelshermer.substack.com/p/scientific-american-goes-woke) across academic fields may be cause for hope:
 
-![](https://acximages.ennals.org/images/2025-non-book-reviews/54b2123ba661a436.png)
+![](https://acximages.ennals.org/images/2025-non-book-reviews/46f338c87e0bd20f.png)
 
 So far, biology remains stronger than ideology. I think the challenge will be in reestablishing truly humanistic norms in academia that accept human differences and celebrate the great moral advances we have made, while acknowledging that complete equity of outcomes may not be possible or even desirable. If academic institutions are able to regain trust and offer a compelling alternative to wokeness, it may be easier to resist the future waves of aggressively performative moralism that Graham sees coming.

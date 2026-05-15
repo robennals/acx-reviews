@@ -68,7 +68,7 @@ Starting at the bottom are **neurons**, the lowest level. (You could go lower to
 
 However, not all living things make it to the top of this hierarchy. The further up you go, the “more conscious” you are said to be. While everything is made up of atoms, not everything has neurons, less have symbols and thoughts, and even less have a sense of self. This results in a “consciousness hierarchy”.
 
-![](https://acximages.ennals.org/images/2024-book-reviews/2353f05b7b1f6c8d.png)
+![](https://acximages.ennals.org/images/2024-book-reviews/ed042c2df255f2d6.png)
 
 Normal adult humans maintain a fully developed sense of self – which Hofstadter claims is the maximum degree of consciousness. But some humans have less than others, infants and the senile are two examples. Below that are dogs – do dogs have a sense of self? If a dog looks at itself in the mirror does it think “that’s me”? Maybe, but in the end we care about relativity. It doesn’t matter, per se, if a dog has a sense of self, but rather that they sit between humans and bees on the hierarchy.
 
@@ -114,7 +114,7 @@ _What makes this canon different from any other, however, is that when it conclu
 
 Another example of a strange loop is Kurt Gödel's [Incompleteness Theorem](https://en.wikipedia.org/wiki/G%C3%B6del%27s_incompleteness_theorems), which I will now describe in grossly oversimplified terms. In 1931, Gödel embedded the phrase “this statement is false” into a mathematical equation. If the statement is true, then as it says, it's false. But if the statement “this statement is false” is false, then that means it's true. But if it's true, then it says it's false! Etcetera.
 
-![](https://acximages.ennals.org/images/2024-book-reviews/938b93737eb81cf0.png)
+![](https://acximages.ennals.org/images/2024-book-reviews/47e9c51d93e41301.png)
 
 The statement itself is called the [Liar Paradox](https://en.wikipedia.org/wiki/Liar_paradox), which has been around for thousands of years. Gödel’s innovation was that by embedding it into a mathematical equation, he was able to prove that formal systems like arithmetic have statements that are true but cannot be proven from within the system itself. This might seem like semantic nonsense, but Gödel’s Incompleteness theorem is considered to be one of the greatest intellectual achievements of the 20th century.
 

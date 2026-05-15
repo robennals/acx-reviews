@@ -16,7 +16,7 @@ tags:
   - Society
 ---
 
-![](https://acximages.ennals.org/images/2024-book-reviews/b75be37ca8025b41.jpg)
+![](https://acximages.ennals.org/images/2024-book-reviews/8a7bc77b376fccaf.jpg)
 
 _A Thousand Ways to Please a Husband_ (published in 1917) is the most interesting cookbook I have ever encountered. It is, to be sure, a cookbook first and foremost. I’d be willing to bet money that for Louise Bennett Weaver and Helen Cowles LeCron, when they were writing it more than a century ago, the recipes were the important bit. But in the grand tradition of recipe bloggers—whose origins are evidently quite ancient!—they threw in some narrative content as a convenient vehicle, so it’s actually fun to read.
 
@@ -123,7 +123,7 @@ And it’s clear that Bettina and Bob very much like each other, and they’re w
 
 I dunno. Maybe Bob’s just a regular guy whose suffragette Aunt Elizabeth inculcated some decency into him. Maybe Bettina’s an idealized figure constructed by her authors, two women who created a woman who enjoys herself and is good at what she does. Maybe it’s all a castle in the air and we shouldn’t be reading too much into a book like this. What the hell do I know.
 
-![](https://acximages.ennals.org/images/2024-book-reviews/840ef379e4fd31e6.jpg)
+![](https://acximages.ennals.org/images/2024-book-reviews/2a97c6a2988409ea.jpg)
 
 _[Caption: Presented without context or comment.]_
 

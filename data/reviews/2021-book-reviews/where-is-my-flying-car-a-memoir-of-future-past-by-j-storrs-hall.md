@@ -83,7 +83,7 @@ So the book basically goes as follows.
 
 The beginning is my favourite chart to start with, showing where we hit a ceiling in the airline cruising speeds. This is the old adage about why we don't have Concorde anymore. This is also the launching pad for Josh's litany of issues around why we haven't been progressing.
 
-![](https://acximages.ennals.org/images/2021-book-reviews/2ea18f1a2090e3b4.png)
+![](https://acximages.ennals.org/images/2021-book-reviews/e8edff6660ac95d5.png)
 
 But before we get into that meat, let's imagine you were building a utopian society in the best of the science fiction tradition. What would it look like?
 
@@ -111,7 +111,7 @@ The conventional wisdom goes that it's expensive, and that it's dangerous. Neith
 
 The point here is that there's been a clear change in our previously-exponential energy usage, what he calls the "Henry Adams Curve" which is a rather clear divergence. The wage line here, you'll note, is the obligatory "wage stagnation" one that I [examined here](https://www.strangeloopcanon.com/p/understanding-wage-stagnation).
 
-![](https://acximages.ennals.org/images/2021-book-reviews/c5f28a950ca626c6.png)
+![](https://acximages.ennals.org/images/2021-book-reviews/55b767e320c5ed29.png)
 
 The same thought process also goes regarding its expense. Part of it is of course the increased regulatory burden imposing hefty costs and, in this case, not providing a single new license for decades! He shows how the construction costs of US nuclear power plants went up by 7x between 1980 to 1995.
 
@@ -123,7 +123,7 @@ Josh also examines whether we're just not going after nuclear power because our 
 
 > Nuclear Physics lacks a coherent theoretical foundation that would permit us to analyze and interpret all phenomena in a fundamental way; atomic physics has such a formulation in quantum electrodynamics, which permits calculations of some observable quantities to more than six significant figures. ... Two of the leading theories, the liquid drop model and the nuclear shell model, each have areas where they give good predictions in agreement with experiment.
 
-![](https://acximages.ennals.org/images/2021-book-reviews/fa30e15b830dc560.png)
+![](https://acximages.ennals.org/images/2021-book-reviews/47e6c790a2eb2e00.png)
 
 The problem with nuclear energy tech is not just that it's expensive and has seen pretty insane regulatory headwinds. For example, France doesn't share the worries that US has, and generates 70% of their energy from nuclear.
 
@@ -137,7 +137,7 @@ It is important to say here though that this seems to be (slowly) changing now. 
 
 The story here starts with Fleishmann and Pons who invested $100k of their own money to experiment on cold fusion in 1985. Needless to say, since we don't have cold fusion yet, they ran out of money and didn't have much to show for it, except for this one, anomalous, result.
 
-![](https://acximages.ennals.org/images/2021-book-reviews/811492e4953c42a0.png)
+![](https://acximages.ennals.org/images/2021-book-reviews/244dfb60a840f884.png)
 
 They were not the first, and they weren't the last. The Department of Energy dug into the phenomenon and found nothing. Without going into detail about all the other trials of the technology, suffice it to say cold fusion quickly became synonymous with a massive embarrassment and pretty much the equivalent of magical pixie dust.
 

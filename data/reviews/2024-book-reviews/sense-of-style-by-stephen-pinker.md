@@ -103,7 +103,7 @@ The hallmarks of classic style...
 
 **Is clear and straightforward**. It avoids any form of jargon, and prefers simple words to complex ones.
 
-![](https://acximages.ennals.org/images/2024-book-reviews/b32e32a42bbc1829.png)
+![](https://acximages.ennals.org/images/2024-book-reviews/0374ebb8433ac373.png)
 
 **Avoids 'really'.** Avoid using some sort of qualifier in cases where you don't want to add a qualification to the scale. Saying 'Jim is an honest man' is very different than 'Jim is a _very_ honest man'. Mark Twain had a quote that instead of writing 'very' anywhere, you should just write 'damn', and then let your editor remove it all.
 
@@ -147,7 +147,7 @@ I had expected the section on grammar to be endlessly boring, but Pinker asks us
 
 When communicating, we start with a **web of ideas**. In our heads, there exists a loose web of words and concepts. You can think of it as a set of nodes with edges describing their relationships to one another.
 
-For Shakespeare's _Oedipus Rex_, your web might look something like this…![](https://acximages.ennals.org/images/2024-book-reviews/729dc0fa18c9b077.png) 
+For Shakespeare's _Oedipus Rex_, your web might look something like this…![](https://acximages.ennals.org/images/2024-book-reviews/616d41cafc4c059c.png) 
 
 There's all manner of concepts in here, some of which are directly related to the play, and some of which connect to other concepts we might hold (now you know what Freud looks like).
 
@@ -161,7 +161,7 @@ Now the trouble occurs when the reader (or listener) then has to work backwards.
 
 Just as programming has abstract syntax trees for defining language, Pinker thinks of English as having its own set of syntax trees (shown in the diagram below).
 
-![](https://acximages.ennals.org/images/2024-book-reviews/1c5145c6724ad3d3.png)
+![](https://acximages.ennals.org/images/2024-book-reviews/c7eabf081fc80ab4.png)
 
 The best way to understand these diagrams is from the bottom-up. The english sentence is given in left-to-right form, and each word bubbles up into different phrases and clauses to create the whole.
 
@@ -186,7 +186,7 @@ The problem with this sentence is that it creates "too big of a stack", to quote
 
 If we chart the 'tree' here, we can better see where this sentence is going wrong
 
-![](https://acximages.ennals.org/images/2024-book-reviews/137ccfe4d66e41dd.png)
+![](https://acximages.ennals.org/images/2024-book-reviews/bd5c742fe0fdaca0.png)
 
 Our first problem is that this sentence has too many **deeply-nested structures**. Looking at this tree, there is a ton of state we have to keep in our heads to understand what is going on.
 
@@ -198,7 +198,7 @@ If we were to rewrite this problematic sentence, a better version might look lik
 
 It's not _that_ much better (I still have trouble following it). But it does allow you to easily split up the clauses into separate pieces. These can be split as their own individual sentences, or omitted entirely.
 
-![](https://acximages.ennals.org/images/2024-book-reviews/8718a8738646cbcb.png)
+![](https://acximages.ennals.org/images/2024-book-reviews/ec42e85837ee976b.png)
 
 See how in the new structure starts with a simple prepositional phrase, and then immediately gets to the main subject of the sentence?
 

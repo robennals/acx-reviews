@@ -396,7 +396,7 @@ Some people (surprisingly many, I think) solve this problem by simply being reli
 
 There have also been some high-profile cases of this lately, where well-known atheists have converted to religions, apparently for the appeal of the community and culture rather than the actual correctness of the theological beliefs. Here’s an example:
 
-![](https://acximages.ennals.org/images/2024-book-reviews/f9fb822c60e9d5e7.png)
+![](https://acximages.ennals.org/images/2024-book-reviews/6260a0b0c994ff4f.png)
 
 _[Source](https://twitter.com/webdevMason/status/1633174596131368967)_
 

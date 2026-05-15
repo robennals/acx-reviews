@@ -107,7 +107,7 @@ Granting Kuhn’s claim that new paradigms are always incommensurable, what deci
 
 Kuhn’s explanation for why believers in an old paradigm are unwilling and even unable to convert is wildly unconvincing. He analogizes paradigm shifts to “gestalt shifts,” which is the kind of thing that happens for the optical illusion where first you see a duck and then suddenly you see a rabbit:
 
-![Duck or rabbit? 100-year-old optical illusion could tell you how creative  you are | The Independent](https://acximages.ennals.org/images/2024-book-reviews/ff1ed2868fca53a0.png)
+![Duck or rabbit? 100-year-old optical illusion could tell you how creative  you are | The Independent](https://acximages.ennals.org/images/2024-book-reviews/c3828f833ab78c09.png)
 
 Believers in an old paradigm are unable to pull off the gestalt shift. For example, here’s Kuhn saying says Ptolemaic astronomers were unable to switch from the duck of geocentrism to the rabbit of heliocentrism:
 
@@ -138,7 +138,7 @@ With that fact in mind, Kuhnian historical analysis of crises can be paraphrased
 Kuhn concludes with his final section “Progress through Revolutions,” which asks: how does science make progress? Normal science within a paradigm clearly makes progress: every day, scientists solve new puzzles. This is analogous to progress in other fields, where within some subgroup (say, brutalist architects, utilitarian ethicists, realistic painters) there can be notable progress; consider the development of perspective during the Renaissance. But there is not necessarily overall progress in the broader field. Is Jackson Pollock “better” than da Vinci? Is the building on the right progress over the building on the left?
 
 ![A collage of a building and a building
-Description automatically generated](https://acximages.ennals.org/images/2024-book-reviews/9ce6840a5cdc33cf.png)
+Description automatically generated](https://acximages.ennals.org/images/2024-book-reviews/79b5030e302dde8d.png)
 
 Left: Wells Cathedral. Right: Boston City Hall.
 
@@ -178,19 +178,19 @@ _Science consists of representing as much of the world as possible in as few bit
 
 Let’s start with the second half of my definition: knowledge is organized like a DAG. A DAG is a graph in which you can’t generate a closed loop, for example:
 
-![undefined](https://acximages.ennals.org/images/2024-book-reviews/0c62488567a3bbdd.png)
+![undefined](https://acximages.ennals.org/images/2024-book-reviews/53ea308edba5f93c.png)
 
 The cleanest example of scientific knowledge being organized in this way is phylogenetic trees, (more generally, phylogenetic “networks” which account for things like horizontal gene transfer and which are [explicitly defined](https://www.sciencedirect.com/science/article/pii/S030439751930547X) as DAGs). A coarse-grained phylogenetic tree of life on Earth looks like this:
 
 ![A diagram of a structure
-Description automatically generated](https://acximages.ennals.org/images/2024-book-reviews/c559770f22521be7.png)
+Description automatically generated](https://acximages.ennals.org/images/2024-book-reviews/416c6dde7ed85719.png)
 
 Here an arrow represents evolutionary descent and due to the process of evolution the overall graph contains enormous amounts of non-obvious information about genetics and the basic wiring of different organisms. Specifically, each non-leaf node contains properties that are true of most or all downstream nodes. Equivalently, something true of multiple nodes (e.g. mammals and amoebae) is very likely to also be true of all other nodes downstream of the first upstream node where the two nodes meet (e.g. Eukarya). An obvious example is the near-universal presence of membrane-bound organelles in Eukarya. A less obvious example is that archaea basically look like bacteria and were assumed to just be weird bacteria until the 1970s, but genetically and molecularly archaea are more like eukaryotes.
 
 We can add more features that encode other pieces of information (I’ve grayed out all the old parts of this graph to make it easier to see what I added) and include the “theory of evolution” umbrella that allows us to draw conclusions based on a downstream phylogenetic tree:
 
 ![A diagram of a cell life
-Description automatically generated](https://acximages.ennals.org/images/2024-book-reviews/dfbcb482e4d98509.png)
+Description automatically generated](https://acximages.ennals.org/images/2024-book-reviews/a0b975ab57faddd9.png)
 
 No longer a[tree](https://en.wikipedia.org/wiki/Tree_(graph_theory)), but still a DAG. Also note that we’ve generalized beyond evolutionary descent to other concepts. The graph is an abstract representation of the fact that each node encodes information applicable to multiple downstream nodes.
 
@@ -247,7 +247,7 @@ At any rate, data-driven science can often be cast explicitly as data compressio
 
 But wait! After taking a sample, we observe that the joint distribution look like this:
 
-![Output image](https://acximages.ennals.org/images/2024-book-reviews/40cc4a44079697f5.png)
+![Output image](https://acximages.ennals.org/images/2024-book-reviews/8887917db4749ace.png)
 
 X and Y are correlated (specifically, the correlation coefficientρ is 0.8)! The conditional distribution of Y given X is normal with standard deviation σY|X2\=1-ρ2 = 0.36. We can therefore specify X and Y with the usual 1.42 bits for X and ½ ln(2πeσ2) = 0.91 bits for Y for 2.33 bits total.
 
@@ -271,19 +271,19 @@ I think my formulation of science clarifies what Kuhn is talking about. Basicall
 Anyway, let’s see how Kuhn’s ideas map onto the DAG model of science using the shift from Newtonian gravity to general relativity. Newtonian gravity at various times explained some things but did not explain others. Anomalies are represented in red:
 
 ![A diagram of planets and planets
-Description automatically generated](https://acximages.ennals.org/images/2024-book-reviews/2b6f877c6ac51b3e.png)
+Description automatically generated](https://acximages.ennals.org/images/2024-book-reviews/4a3e0f4374ae895e.png)
 
 _Newtonian gravity. Red circles are observations that at one time or another were not explained well by Newtonian physics._
 
 Following what Kuhn would call puzzle-solving, the speed of sound, movement of Uranus, and movement of the Moon were all resolved within Newtonian gravity. Mercury’s perihelion was not worked out though:
 
 ![A diagram of a person's theory
-Description automatically generated with medium confidence](https://acximages.ennals.org/images/2024-book-reviews/eed89f4b2ae8585c.png)
+Description automatically generated with medium confidence](https://acximages.ennals.org/images/2024-book-reviews/4031b58adb9beeea.png)
 
 It took general relativity to explain Mercury’s perihelion and more importantly to predict the gravitational light bending observed in the Eddington experiment:
 
 ![A diagram of a diagram
-Description automatically generated](https://acximages.ennals.org/images/2024-book-reviews/ce1ca683fa244107.png)
+Description automatically generated](https://acximages.ennals.org/images/2024-book-reviews/12aef5d2ff72a9cb.png)
 
 _Theory of gravity following the general relativity revolution. An upstream node has been added._
 
@@ -302,7 +302,7 @@ Then you discover that tert-butyl bromide can react with water to form tert-buta
 There are many possible explanations for these observations. Here’s a vague sketch of the knowledge graph at play:
 
 ![A diagram of a structure
-Description automatically generated](https://acximages.ennals.org/images/2024-book-reviews/c70daac99b5104e4.png)
+Description automatically generated](https://acximages.ennals.org/images/2024-book-reviews/5e1349bf4597ae62.png)
 
 _Something is wrong, and it’s probably not “chemicals are made of atoms”._
 
@@ -311,7 +311,7 @@ There are all kinds of reasons why tert-butyl bromide might behave oddly. Maybe 
 Framed as a DAG it is clear which explanation is preferred: the one lowest down in the hierarchy. Nodes higher up like the Pauli exclusion principle and the atomic theory of chemistry explain a broad variety of things and modifying them threatens to destroy explanatory power in other domains, the grayed out “other stuff.” But adding a different kind of nucleophilic substitution reaction? Sure, why not! Eventually by looking at enough reactions, you hypothesize another kind of nucleophilic substitution reaction: SN1.
 
 ![A diagram of a structure
-Description automatically generated](https://acximages.ennals.org/images/2024-book-reviews/9f200911998daa9c.png)
+Description automatically generated](https://acximages.ennals.org/images/2024-book-reviews/45c5a2d97ff7df68.png)
 
 _Now we’re talking!_
 

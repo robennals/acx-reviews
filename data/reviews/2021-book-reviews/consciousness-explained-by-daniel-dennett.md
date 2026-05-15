@@ -136,7 +136,7 @@ As you attempt to solve these sorts of puzzles, it may feel like you are rotatin
 
 Things start to get interesting when we consider simple variations of this experiment. Perhaps the most famous is the [Thatcher Effect](https://en.wikipedia.org/wiki/Thatcher_effect) where our random assortment of blocks is replaced with a human face. The result is that local changes to the face are significantly harder to detect when the face is turned upside-down. Here is an example with Adele:
 
-![](https://acximages.ennals.org/images/2021-book-reviews/57eba2d306b754f9.png)[Source](https://www.psychologyinaction.org/psychology-in-action-1/2016/03/07/adele-and-the-margaret-thatcher-effect) 
+![](https://acximages.ennals.org/images/2021-book-reviews/507ff0a2a0dd8994.png)[Source](https://www.psychologyinaction.org/psychology-in-action-1/2016/03/07/adele-and-the-margaret-thatcher-effect) 
 
 In this example, Adele’s eyes and mouth have locally been flipped upside-down. This is obvious, and quite disturbing, when we look at the image on the right, but less so for the rotated version on the left. If we truly possessed the ability to rotate images in our mind’s eye, shouldn’t we be able to mentally rotate the image on the left by 180 degrees and experience the same reaction that we do to the one on the right?
 

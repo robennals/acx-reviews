@@ -16,7 +16,7 @@ tags:
   - Society
 ---
 
-![](https://acximages.ennals.org/images/2023-book-reviews/8a7225d7270dc7ce.png)
+![](https://acximages.ennals.org/images/2023-book-reviews/928dab1b97cc3451.png)
 
 ## Introduction
 
@@ -51,13 +51,13 @@ Harris claims that the Parent and the Child recordings are complete at 5 years o
 
 And that's the entirety of the concept of the psyche that's studied by Transactional Analysis.
 
- ![](https://acximages.ennals.org/images/2023-book-reviews/8256227bed742793.png)
+ ![](https://acximages.ennals.org/images/2023-book-reviews/5cd49a4f15f46146.png)
 
 In order to review the interjections contained in the Parent, you can start listing them off and they will come naturally as they're all stored in the same place.
 
 The book then proceeds to define the four life positions, which are answers to the question "AM I OK?" and "ARE YOU OK?" These are related to the child's development and Piaget's stages. For Harris, the person is born suffering and starts with the position "I'M NOT OK, YOU'RE OK". The boy looks at how their parents are OK, and wonders why he’s fundamentally NOT OK - what’s missing from him, and what does he need to do in order to become OK?  The position can change to any of the other positions, depending on how much stroking the young child gets from the world.
 
- ![](https://acximages.ennals.org/images/2023-book-reviews/07fb50ac91632a7b.png)
+ ![](https://acximages.ennals.org/images/2023-book-reviews/973df450ee85430f.png)
 
 Harris describes I'M OK - YOU'RE NOT OK as a position of self-stroking that can lead to cruelty, sometimes with a mask of politeness.
 
@@ -67,7 +67,7 @@ The ideal position, I'M OK, YOU'RE OK, can only be achieved by using the Adult t
 
 Harris then describes how one can change to a better position. One step is to analyze the transactions in their lives, identifying which ego state is activated at which time, and what is the source of our responses. He then describes the different types of transactions. Same-level transactions are transactions where both people use the same ego-states. Other types of transactions are defined based on which ego states are used. To represent the ego-states, a three-circle diagram is used. Many examples of different transactions are given, which make for some quite fun scenarios and illustrations.
 
- ![](https://acximages.ennals.org/images/2023-book-reviews/dbbee2f096fadb43.png)
+ ![](https://acximages.ennals.org/images/2023-book-reviews/ccf96707c048f889.png)
 
 Educational material on TA can be pretty fun on its own, as can be seen on this flipbook by [TalkinTA](https://talkingta.com.au/)
 

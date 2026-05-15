@@ -72,7 +72,7 @@ They were peaceful, but that reflected their situation at the time rather than t
 
 And so, over the years the Yishuv, as the Jewish settlement was known, grew until it was a full third of the population of Palestine.
 
-![A map of Jewish land in Mandatory Palestine, 1944.](https://acximages.ennals.org/images/2024-book-reviews/c80c45f196433b81.png)
+![A map of Jewish land in Mandatory Palestine, 1944.](https://acximages.ennals.org/images/2024-book-reviews/45178b0296583924.png)
 
 _A map of Jewish owned land in Mandatory Palestine, 1944._
 
@@ -127,7 +127,7 @@ Arabs forces massacred some 200 Jewish civilians/POWs while Jewish forces massac
 
 In the wake of the war hundreds of thousands of Jews were expelled or otherwise driven out of Arab countries. Most emigrated to Israel.
 
-![Armistice Lines, 1949](https://acximages.ennals.org/images/2024-book-reviews/95ead45b5f31e6a6.png)
+![Armistice Lines, 1949](https://acximages.ennals.org/images/2024-book-reviews/e9685069d011a64a.png)
 
 ### From the Armistice to the Six Day War (1949-1967)
 

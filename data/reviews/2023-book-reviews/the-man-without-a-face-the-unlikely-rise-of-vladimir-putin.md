@@ -92,7 +92,7 @@ _The Shield and the Sword poster._ _[Image source](https://en.wikipedia.org/wiki
 
 Putin’s time in the KGB was probably more exciting and interesting than being like, an accountant or something but it was much less exciting than one might expect of the life of a spy. There weren’t any car chases, shootouts, or daring missions, like in the James Bond movies. Rather, he was a cog in the state security apparatus – lots of paperwork, writing intelligence reports, recruiting informants, conducting surveillance, etc.
 
-![](https://acximages.ennals.org/images/2023-book-reviews/435a2f138360a1dc.jpg)
+![](https://acximages.ennals.org/images/2023-book-reviews/f62baaf4bb7f5641.jpg)
 
 _Vladimir Putin in his KGB uniform, 1980._ _[Image source](https://en.wikipedia.org/wiki/Vladimir_Putin#/media/File:Vladimir_Putin_in_KGB_uniform.jpg)_
 
@@ -228,7 +228,7 @@ Ok, I’m slightly joking/exaggerating here… but not by much. When I was a tee
 
 Also, I’m not the only one making this error. Here’s a map of how different European countries responded to the statement: “Our people are not perfect, but our culture is superior to others.”
 
-![](https://acximages.ennals.org/images/2023-book-reviews/9ab7c15ed1bcb63f.jpg)
+![](https://acximages.ennals.org/images/2023-book-reviews/83bb4b66b692b173.jpg)
 
 _[Image source](https://twitter.com/dwnews/status/1056917186319532033)_
 

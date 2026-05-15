@@ -26,7 +26,7 @@ I learned that “the American Anthropological Association (AAA) saw fit to take
 
 Ultimately, the accusations against Changnon were deemed totally false, though not before he was banned from studying the Yąnomamö and forced to retire from the field.
 
-![](https://acximages.ennals.org/images/2022-book-reviews/953b8844c208e39b.jpg)
+![](https://acximages.ennals.org/images/2022-book-reviews/5ff5b9551c7268f4.jpg)
 
 It was at this point that I realized that this book belonged to my favorite class of controversy: forbidden knowledge.
 
@@ -175,7 +175,7 @@ I knew that early people had walked around barefoot, but I’d assumed that thei
 
 That said, cane sandals don’t seem particularly [hard to make](https://www.youtube.com/watch?v=i-WYT2UotIc) so I don’t exactly understand how they haven’t invented something to protect their feet, yet can come up with specialized contraptions for climbing thorny trees:
 
-![](https://acximages.ennals.org/images/2022-book-reviews/a0fe4dd94fbf1a15.png)
+![](https://acximages.ennals.org/images/2022-book-reviews/03fce15d27724bca.png)
 
 I’ve never worn cane sandals though, so maybe shoes below some level of sophistication just aren’t worth the fuss.
 
@@ -191,7 +191,7 @@ This exchange rate surprised me, though I soon remembered traveling in developin
 
 Psychoactive “plant medicines” like psilocybin, peyote, and ayahuasca are increasingly popular, and many have origins in indigenous cultures. They’re often used with the goal of reaching deep truths and higher levels of conscientiousness, and I’d expected to see this from the Yąnomamö as well.
 
-![](https://acximages.ennals.org/images/2022-book-reviews/49dfd40d78ef1787.png)
+![](https://acximages.ennals.org/images/2022-book-reviews/27286e74c9388755.png)
 
 However, continuing with their inconvenient flouting of stereotypes, the Yąnomamö seem to mostly take drugs to get really stoned:
 

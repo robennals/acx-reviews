@@ -64,7 +64,7 @@ The second is the [coherence](https://plato.stanford.edu/entries/truth-coherence
 
 From the map-territory relationship: the correspondence theory of truth either (a) question-begs or (b) collapses the distinction between map and territory; the coherence theory of truth implies that as long as your map is stitched together consistently, it is true.
 
-![](https://acximages.ennals.org/images/2024-book-reviews/f49355fcd57880fa.png)![](https://acximages.ennals.org/images/2024-book-reviews/063db36dd48d5f9c.png)
+![](https://acximages.ennals.org/images/2024-book-reviews/7cec57b3082b4b81.png)![](https://acximages.ennals.org/images/2024-book-reviews/38f463197f6475d8.png)
 
 [Caption: Am I a relativist? Let’s find out… ([source](https://existentialcomics.com/comic/115))]
 

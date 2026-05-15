@@ -78,7 +78,7 @@ How will the entrepreneur learn if something is not going right? How will the de
 
 From the perspective of the mid-level bureaucrat there is a cloud of people in the organization -some higher, some lower. In the figure below our mid-level bureaucrat is the x, everyone in the oval has some immediate effect on his actions. The dots are constantly moving in and out of the oval. The purpose Tullock has in mind is to motivate a meditation on the difference between the formal, official and informal, organic structures of the organization and attempt to reconcile them. Besides the diagram, he also deploys this motivating excerpt from _War and Peace_ in which the character Boris Dubretskoy discovers the difference_._
 
-![](https://acximages.ennals.org/images/2022-book-reviews/95a28217db82890a.jpg)
+![](https://acximages.ennals.org/images/2022-book-reviews/f6ce51ea28d0119f.jpg)
 
 _At the moment when Boris entered, Prince Andrey, drooping his eyelids disdainfully (with that peculiar air of courteous weariness which so distinctly says, “If it were not my duty, I would not stay talking to you for a minute”), was listening to an old Russian general with many decorations, who, rigidly erect, almost on tiptoe, was laying some matter before Prince Andrey with the obsequious expression of a common soldier on his purple face._
 
@@ -185,7 +185,7 @@ I see this passage and thought experiment as a culminating one. Many of the insi
 
 I do want to meet “the Napoleon of Safeway”; that’d be a treat.
 
-![](https://acximages.ennals.org/images/2022-book-reviews/5a0b3e246fa863a9.jpg)
+![](https://acximages.ennals.org/images/2022-book-reviews/49756472713f697b.jpg)
 
 4.  ## Governance and Incentives and Committees
     
@@ -312,6 +312,6 @@ As a meandering meditation with anecdotes _Economic Hierarchies_ is a great lubr
 
 As it is, I, like him, submit myself to aporia and leave the adventure to you.
 
-![](https://acximages.ennals.org/images/2022-book-reviews/534035a56a942c55.jpg)
+![](https://acximages.ennals.org/images/2022-book-reviews/dfb34255ac6334fa.jpg)
 
 * * *

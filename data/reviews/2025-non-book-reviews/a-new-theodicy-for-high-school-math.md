@@ -53,7 +53,7 @@ Eliason spends time explaining the value of having proven to yourself that you c
 
 Across my social media, people were _loving_ this:
 
-![](https://acximages.ennals.org/images/2025-non-book-reviews/9f5ebf93ce040117.png)
+![](https://acximages.ennals.org/images/2025-non-book-reviews/043b7d51b1c83220.png)
 
 And look, I find it compelling too. There are things I’ve done in my life that I probably would not have attempted, without the belief that I could do hard things. And there are probably difficult things I could be doing right now, if only I had a greater personal history of overcoming hardship.
 

@@ -119,7 +119,7 @@ And as far as Piketty goes, my understanding is that his conclusions are still u
 
 Smith also references data from [realtimeinequality.org](https://realtimeinequality.org/?id=wealth&wealthend=12012022&wealthfreq=monthly&wealthgroups=Top%2010%25&wealthstart=01011976&wealthtype=wealth&wealthunit=Adults&wealthy=share), showing that, contrary to Landemore's expectations, the share of wealth controlled by the richest 10% has decreased since 2013:
 
-![](https://acximages.ennals.org/images/2023-book-reviews/ba1bb2fcde26d575.png)
+![](https://acximages.ennals.org/images/2023-book-reviews/37c32cdc871a0ee6.png)
 
 And _even if_ all of Landemore’s claims were true, there's still a crucial logical step she's missing (h/t to the same [Dylan Matthews article](https://www.vox.com/2016/5/9/11502464/gilens-page-oligarchy-study) for pointing this out). She has to show that it's bad that policy outcomes aren't correlated with public preferences. After all, Landemore's definition of "good government" isn't that we enact policies the public wants, it's that we enact policies that the public would want _after thoughtfully discussing the issue among themselves_! Maybe public opinion is a good proxy for it, but since deliberative democracy is impossibly impractical, who knows??
 

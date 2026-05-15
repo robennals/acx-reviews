@@ -130,7 +130,7 @@ If you are currently up in arms about how reductionist this classification syste
 
  He includes the following chart as a semi-helpful visual aid.1
 
-![](https://acximages.ennals.org/images/2024-book-reviews/22bf05810120062c.png)
+![](https://acximages.ennals.org/images/2024-book-reviews/200ea5acf7dfea8d.png)
 
 8.  ## The Mental Game
     
@@ -143,7 +143,7 @@ The Mental Game contains all meta level knowledge and strategy that you can util
 
 As noted earlier, the very first step is to gauge your opponent’s skill level, and in so doing, learn which level of play will put you one level above them. It does no good if you bluff an opponent who won’t read into your subtle hint. Likewise, it does no good if your opponent sees right through your bluff and at the truth beneath.
 
-![](https://acximages.ennals.org/images/2024-book-reviews/c60cae05bbdddb19.png)
+![](https://acximages.ennals.org/images/2024-book-reviews/ee70275aa33b187d.png)
 
 Going a step beyond, Hoban encourages learning the current tournament scene. If skilled players consistently top events, then studying the results of recent tournaments can give you immediate material information. If you don’t recognize the name sitting across from you, then their probability of being merely an average player increases.
 
@@ -165,7 +165,7 @@ Now we truly begin to read the opponent. Everything they do, everything they say
 
 Of course, in order to do this well, Hoban warns, one must have an intimate knowledge with all meta relevant trends and standard decklists. Taking this into account, in conjunction with your opponent’s presumed skill level, can give you the appearance of mind reading if done well. If an average player is using a standard decklist and telegraphing obvious plays, then your guesswork is over. You already know what they will do and what you must do in response.
 
-![Your average plays are no match for my meta knowledge](https://acximages.ennals.org/images/2024-book-reviews/3a6bde461aedf03c.png)
+![Your average plays are no match for my meta knowledge](https://acximages.ennals.org/images/2024-book-reviews/f55e420c9502e683.png)
 
 > _“We also can employ various tactics to get information out of our opponents. Most people aren’t very good at hiding information. Most people don’t even try to hide anything beyond the basic level of not playing with their hand revealed. This leaves them open for exploitation.”_
 
@@ -246,7 +246,7 @@ What he writes is factually correct and will make you more likely to win. He nev
 
 I want to win without compromising my values or making the game less pleasant for everyone. But what constitutes good sportsmanship and how do we settle disagreements about it? Where does a bluff end and an outright lie begin? Some of the stories and tactics put forth by the book caused me to cheer in shared triumph at a spectacular play and show of mental skill.3 Others caused me to literally curse the heavens in indignation.
 
-![](https://acximages.ennals.org/images/2024-book-reviews/bf5b51ef0a748630.jpg)
+![](https://acximages.ennals.org/images/2024-book-reviews/85b58b12b6c77c8b.jpg)
 
 12.  ## Conclusion
      

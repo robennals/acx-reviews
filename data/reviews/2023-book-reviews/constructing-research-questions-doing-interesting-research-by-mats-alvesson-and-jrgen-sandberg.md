@@ -67,7 +67,7 @@ As we have seen above, problematization focuses on challenging the underlying as
 5.  Relate assumptions to the audience: Before you challenge assumptions, you have to check that people even hold them. Would be kind of a bummer if you challenged assumptions that nobody has. Also, you have to consider what the effects on the audience and society could be if the assumptions are successfully challenged.
 6.  Evaluate the alternative assumptions you came up with in its totality: Once you completed the first 5 steps, you have to check where your collection of alternative assumptions ends up on this graph:
 
-![interesting](https://acximages.ennals.org/images/2023-book-reviews/00c62616f4885849.jpg)
+![interesting](https://acximages.ennals.org/images/2023-book-reviews/cef171370a3db946.jpg)
 
 If you challenge too few assumptions, people will discard it as obvious, but if you challenge too many, people will feel like you are proving too much and will just see it as absurd. You want the sweet spot where people read your alternative assumptions and their first reaction is: “That’s interesting!”.
 

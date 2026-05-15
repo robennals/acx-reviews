@@ -28,7 +28,7 @@ You could even say the United States itself was founded on a conspiracy theory: 
 
 If conspiracy theories are the Great American Art Form, there’s no question as to which is the canonical work of art—our _Kind of Blue_, _West Side Story_, Superman, and _Illmatic_ all rolled into one: the theories surrounding the 1963 assassination of our third-best president named “John,” John Fitzgerald Kennedy[[1]](#h.fjbrhtbnats5). The belief that Lee Harvey Oswald didn’t act alone is the country’s most widely-believed conspiracy theory—if, indeed, it even _is_ a conspiracy theory—sustained across generations and deeply woven into American cultural memory through countless books, movies, and TV shows.
 
-![](https://acximages.ennals.org/images/2025-non-book-reviews/e24751a538131c8d.jpg)
+![](https://acximages.ennals.org/images/2025-non-book-reviews/e69eee24dfe80409.jpg)
 
 Sources: [Oswald](https://news.gallup.com/poll/514310/decades-later-americans-doubt-lone-gunman-killed-jfk.aspx), [2020 election](https://thehill.com/homenews/campaign/4384619-one-third-of-americans-say-biden-election-illegitimate/), [moon, flat Earth, microchip](https://carsey.unh.edu/publication/conspiracy-vs-science-survey-us-public-beliefs)
 
@@ -178,7 +178,7 @@ Besides, Johnson spent the year between his ascension and his 1964 landslide con
 
 Or, to put it another way: if this _had_ happened, Robert Caro would have definitely found out about it by now.
 
-![](https://acximages.ennals.org/images/2025-non-book-reviews/576f7602cf5929c4.png)
+![](https://acximages.ennals.org/images/2025-non-book-reviews/c38bcf13363ace5d.png)
 
 Even though it didn’t happen, this would make fora fantastic ten-episode miniseries. Cast J.K. Simmons as LBJ, Glen Powell as JFK, and Barry Keoghan as Bobby.
 
@@ -218,7 +218,7 @@ If blaming the Jews is too openly antisemitic for you, why not try pointing the 
 
 In 1963, Kennedy signed an [obscure executive order](https://en.wikipedia.org/wiki/Executive_Order_11110) relating to the Treasury Department’s authority to issue silver certificates. This was a routine, administrative document that went uncovered by the media and unnoticed by the public—until decades later, when conspiracy theorists seized on it as providing the key to understanding the assassination. They claimed that the real purpose of Kennedy’s order was to strip power from the Federal Reserve, leading influential financiers—in most tellings, Rothschilds and/or Rockefellers—to have him offed so they could reverse his monetary policies.
 
-![](https://acximages.ennals.org/images/2025-non-book-reviews/1e0587f672a4e3e5.jpg)
+![](https://acximages.ennals.org/images/2025-non-book-reviews/5cbc7f412154f0b7.jpg)
 
 The second shooter, allegedly
 
@@ -306,7 +306,7 @@ There are a lot of reasons the Lincoln conspiracy theories died down while the K
 
 From today’s vantage point, it seems comically naive that anyone back involved in the Warren Commission ever thought an official government report is all it would take to stamp out conspiracy theories, but 1964 was a different time—77% of Americans back then said they trusted the federal government to do what is right “just about always” or “most of the time.” That was the highest that number has ever been. Over the next few years, it began a sharp downward plummet, and except for a brief and probably illusory post-9/11 spike, it hasn’t crossed 50% since. Today, it stands at just 22%.
 
-![](https://acximages.ennals.org/images/2025-non-book-reviews/978db77e505577e7.png)
+![](https://acximages.ennals.org/images/2025-non-book-reviews/56ad0956e06aef59.png)
 
 Source: [Pew Research Center](https://www.pewresearch.org/politics/2024/06/24/public-trust-in-government-1958-2024/)
 

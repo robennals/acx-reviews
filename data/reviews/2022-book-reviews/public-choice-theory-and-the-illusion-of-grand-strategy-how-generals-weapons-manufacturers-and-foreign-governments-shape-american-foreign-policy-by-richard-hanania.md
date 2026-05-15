@@ -65,7 +65,7 @@ The mechanism of influence is outbidding all other competitors in the marketplac
 5.  shaping foreign policy reporting from propagandistic journalists in the close-knit ‘foreign policy community’ (former Assistant Secretary of State Victoria Nuland is literally the wife of neocon author Robert Kagan)
 6.  ‘revolving doors’ for all three concentrated interest to actively collaborate (80% of retired three- and four-star generals between 2004 and 2008 went on to work as consultants or executives in the defence industry; ‘rent-a-general’ like the Four Star Group in which generals leverage their Pentagon contacts to consult in equity investing)
 
-![](https://acximages.ennals.org/images/2022-book-reviews/b1f32d13562c2aa8.png)
+![](https://acximages.ennals.org/images/2022-book-reviews/5b113b1f9631ff2a.png)
 
 _You know the book is dry when this is one of the only two graphics._
 
@@ -103,7 +103,7 @@ _It’s surprising how the longest-running meme of American invasion for oil is 
 
 An additional evidence against American grand strategy is the pattern of troop deployments abroad:
 
-![](https://acximages.ennals.org/images/2022-book-reviews/1b51cc87a45b6f4b.png)
+![](https://acximages.ennals.org/images/2022-book-reviews/e6ff0eebfc0a9a87.png)
 
 _Practically unchanged throughout 1951, 1986, and 2019._
 
@@ -241,7 +241,7 @@ Besides Hanania’s recommendations in the last section (which he admits are mor
 
 Nuclear security is one of the top priorities in Effective Altruism, per [80,000 Hours](https://80000hours.org/problem-profiles/nuclear-security/), [Future of Life Institute](https://futureoflife.org/background/the-risk-of-nuclear-weapons/), and [Our World In Data](https://ourworldindata.org/nuclear-weapons-riskhttps://ourworldindata.org/nuclear-weapons-risk). Toby Orb, who wrote the definitive book on existential risk, _[The Precipice](https://www.goodreads.com/en/book/show/50485582-the-precipice)_, estimates x-risk from nuclear war to be [~1 in 1000](https://slatestarcodex.com/2020/04/01/book-review-the-precipice/) in the next century. Luisa Rodriguez [estimates](https://forum.effectivealtruism.org/posts/PAYa6on5gJKwAywrF/how-likely-is-a-nuclear-exchange-between-the-us-and-russia-1) a 1.1% chance of nuclear war each year and that the chances of a US-Russia nuclear war may be in the ballpark of 0.38% per year; [summarised](https://twitter.com/MaxCRoser/status/1498945370935767040) by Max Roser as:
 
-![](https://acximages.ennals.org/images/2022-book-reviews/8c597e9d3e9abca3.png)
+![](https://acximages.ennals.org/images/2022-book-reviews/fcc80e2cc40fa870.png)
 
 Nuclear risk is neglected by the public because of [Pax Americana](https://en.wikipedia.org/wiki/Pax_Americana#:~:text=Pax%20Americana%20(Latin%20for%20%22American,United%20States%20became%20the%20world's) since the collapse of the USSR, and is not discussed as often in EA as it’s thought to be relatively well-funded and mainstream, but in fact major donors like the [MacArthur Foundation](https://www.politico.com/news/2021/07/19/washington-arms-controllers-nuclear-weapons-500126) have been withdrawing funding. As Joan Rohling [details](https://80000hours.org/podcast/episodes/joan-rohlfing-avoiding-catastrophic-nuclear-blunders/) in an 80,000 Hours podcast there is much to be done, especially when Ukraine [gave up](https://en.wikipedia.org/wiki/Budapest_Memorandum_on_Security_Assurances) their nuclear arsenal in 1994 in exchange for Russia’s promise to never threaten or use military force against them.
 
