@@ -179,16 +179,11 @@ Deneen calls this the practice of “full temporality” because tradition and c
 
 And yet, the modern world is no friend to tradition; and feeling this sense of obligation becomes especially hard as we grow more distant from the time when we did not have the good things we enjoy. If you live in the liberal, democratic, prosperous West, it is hard to remember how _quickly_ things can fall apart; when our civilisation seems so permanent, it takes an acculturation with the past to understand just how lucky we have it, and how our civilisation did not just spring into existence, but was _built_, and can fall down again. In 1897, running against the triumphalist mood of the Diamond Jubilee of Queen Victoria, [Kipling wrote](https://en.wikipedia.org/wiki/Recessional_(poem)):
 
-> Far-called, our navies melt away;
->
->   On dune and headland sinks the fire:
->
-> Lo, all our pomp of yesterday
->
->   Is one with Nineveh and Tyre!
->
-> Judge of the Nations, spare us yet,
->
+> Far-called, our navies melt away;  
+>   On dune and headland sinks the fire:  
+> Lo, all our pomp of yesterday  
+>   Is one with Nineveh and Tyre!  
+> Judge of the Nations, spare us yet,  
 > Lest we forget—lest we forget!
 
 One hundred years later, all the pomp was gone, as pomp always does. The late Victorians did not think it would, but being a longtermist takes training: it requires us not to _forget_.

@@ -92,22 +92,16 @@ The first obstacle is our natural inclination to continue with the habits we are
 
 Hidden in this subsection however, there’s another rationalist comparison I want to make. Towards the start of part four, there’s a fragment of poem that resonated with me.
 
-> As long as space endures
->
-> As long as sentient beings remain
->
-> May I too live
->
+> As long as space endures  
+> As long as sentient beings remain  
+> May I too live  
 > To dispel the miseries
 
 I cannot explain without reaching for metaphor and intuition why, but it feels like one half of a pair with
 
-> Even if the stars should die in heaven
->
-> Our sins can never be undone
->
-> No single death will be forgiven
->
+> Even if the stars should die in heaven  
+> Our sins can never be undone  
+> No single death will be forgiven  
 > When fades at last the last lit sun.
 
 The bulk of part four is largely focused on anger, hatred, anxiety, and self-doubt. Of these, anger is the one I have the most trouble with, and I found the advice an interesting frame. Instead of getting angry and lashing out (which, yes, I know is unhelpful) the advice is about the strength involved in simply standing firm with where you are. Don’t lunge forward, simply remain patient and restrained.

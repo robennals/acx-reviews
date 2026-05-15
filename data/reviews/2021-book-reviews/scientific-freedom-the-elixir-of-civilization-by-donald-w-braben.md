@@ -44,7 +44,6 @@ Don quite literally tried to “eliminate every selection rule imposed since abo
 
 In Don’s approach, he never told anyone “no”. If he thought someone was a quack (for instance, if I claimed that I had disproven super-string theory with only knowledge of calculus), he would kindly probe deeper. ”Will, you say you’ve disproven super-string theory, can you tell me how.” Don wouldn’t tell me to buzz off. For a bumbling or nonsensical answer, he’d just tell me to come back when I had more. This practice let Don filter out fakers, without filtering too aggressively for ideas that might be true, but not accepted by the wider scientific community.
 
-
 On a practical level, Venture Researchers would be funded for 3 years at a time. Support could be renewed and often was. On renewal, the director of the research program simply asked themselves whether what they were wanting to do was still challenging. If it was, the program got renewed. In this paradigm, trust between funder and scientists was paramount.
 
 ## Who Don Was Looking for: “The Planck Club”
@@ -105,22 +104,14 @@ One of the frustrating things for Braben, is the relative cheapness of Venture R
 >
 > them to, say, £200,000 or $400,000 a year per project on average.
 >
-> Transformative researchers should be supported initially for 3 years. Our
->
-> experience indicates that about half of them would require a second 3  year
->
-> term; and half of those, a third term of support. Very few projects should run
->
-> for more than, say, 9 years. Those leaving the TR scheme either would have
->
-> succeeded and been transferred to other programs created for them — that is,
->
-> their research would actually have been transformative — or, the scientists
->
-> agree that they had probably failed in their Herculean quests. However, these
->
-> average figures are quoted for guidance; there should in fact be no hard-and-
->
+> Transformative researchers should be supported initially for 3 years. Our  
+> experience indicates that about half of them would require a second 3  year  
+> term; and half of those, a third term of support. Very few projects should run  
+> for more than, say, 9 years. Those leaving the TR scheme either would have  
+> succeeded and been transferred to other programs created for them — that is,  
+> their research would actually have been transformative — or, the scientists  
+> agree that they had probably failed in their Herculean quests. However, these  
+> average figures are quoted for guidance; there should in fact be no hard-and-  
 > fast rules on the length of support. Remember Planck!
 
 and
@@ -137,16 +128,11 @@ and
 >
 > 54 should eventually turn out to be transformative in some way.
 >
-> A TR budget for a smaller country — say, the United Kingdom — should be
->
-> about half that of the United States, or $ 12.5 million per annum. The Venture
->
-> Research budget in our final year of operation (1990) was some $ 5 million,
->
-> two thirds of which we spent in Britain. As we had been operating for 10 years,
->
-> it is possible that we had identified most of the researchers in Britain looking
->
+> A TR budget for a smaller country — say, the United Kingdom — should be  
+> about half that of the United States, or $ 12.5 million per annum. The Venture  
+> Research budget in our final year of operation (1990) was some $ 5 million,  
+> two thirds of which we spent in Britain. As we had been operating for 10 years,  
+> it is possible that we had identified most of the researchers in Britain looking  
 > for potentially transformative research support at that time.
 
 That’s only $25 million a year in inflation adjusted cost for a small country like the UK. They probably spend more on staplers!

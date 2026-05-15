@@ -19,38 +19,24 @@ We forgot one Jew along the way! Andrew Gelman is still alive and wants to say s
 
 > Andrew,
 >
-> The hardest thing for people to snap out of is the bubble of their
->
-> own language. You say:
->
-> “I find it baffling that Pearl and his colleagues keep taking
->
-> statistical problems and, to my mind, complicating them by
->
+> The hardest thing for people to snap out of is the bubble of their  
+> own language. You say:  
+> “I find it baffling that Pearl and his colleagues keep taking  
+> statistical problems and, to my mind, complicating them by  
 > wrapping them in a causal structure (see, for example, here).”
 >
-> No way! and again: No way! There is no way to answer causal questions
->
-> without snapping out of statistical vocabulary.
->
-> I have tried to demonstrate it to you in the past several
->
-> years, but was not able to get you to solve ONE toy problem
->
+> No way! and again: No way! There is no way to answer causal questions  
+> without snapping out of statistical vocabulary.  
+> I have tried to demonstrate it to you in the past several  
+> years, but was not able to get you to solve ONE toy problem  
 > from beginning to end.
 >
-> This will remain a perennial stumbling block until one of your
->
-> readers tries honestly to solve ONE toy problem from beginning to end.
->
-> No links to books or articles, no naming of fancy statistical
->
-> techniques, no global economics problems,
->
-> just a simple causal question whose answer we know in advance.
->
-> (e.g. take Simpson’s paradox: Which data should be consulted?
->
+> This will remain a perennial stumbling block until one of your  
+> readers tries honestly to solve ONE toy problem from beginning to end.  
+> No links to books or articles, no naming of fancy statistical  
+> techniques, no global economics problems,  
+> just a simple causal question whose answer we know in advance.  
+> (e.g. take Simpson’s paradox: Which data should be consulted?  
 > The aggregated or the disaggregated?)
 >
 > Even this group of 73 Editors found it impossible, and have
@@ -59,14 +45,10 @@ We forgot one Jew along the way! Andrew Gelman is still alive and wants to say s
 >
 > [https://www.atsjournals.org/doi/pdf/10.1513/AnnalsATS.201808-564PS](https://www.atsjournals.org/doi/pdf/10.1513/AnnalsATS.201808-564PS)
 >
-> To readers of your blog: Please try it. The late Dennis Lindley
->
-> was the only statistician I met who had the courage to admit:
->
-> “We need to enrich our language with a do-operator”. Try it,
->
-> and you will see why he came to this conclusion, and perhaps
->
+> To readers of your blog: Please try it. The late Dennis Lindley  
+> was the only statistician I met who had the courage to admit:  
+> “We need to enrich our language with a do-operator”. Try it,  
+> and you will see why he came to this conclusion, and perhaps  
 > you will also see why Andrew is unable to follow him.
 >
 > JP
@@ -87,22 +69,14 @@ Gelman is clearly the human being of the situation, while Yudkowsky is… I don�
 
 I guess that Gelman, judging by his blogging, thinks mostly verbally, and I have fun imagining Pearl applying his principle when he argues with Gelman, skipping everything that Gelman says. Another [mathy Pearl quote](https://statmodeling.stat.columbia.edu/2009/07/05/disputes_about/#comment-49482) closing a discussion is (emphasis mine):
 
-> All,
->
-> Well it has been fun. And, if I did not succeed
->
-> in convincing anyone to convert to the dual-perspective
->
-> camp, I hope I at least managed to convince you that
->
-> causality is about the world – chimes, seat-belts, coins and bells,
->
-> not about the method you use in your analysis and not
->
-> about what this or that gurus said or did not say.
->
-> **Causality has been mathematized, so there is**
->
+> All,  
+> Well it has been fun. And, if I did not succeed  
+> in convincing anyone to convert to the dual-perspective  
+> camp, I hope I at least managed to convince you that  
+> causality is about the world – chimes, seat-belts, coins and bells,  
+> not about the method you use in your analysis and not  
+> about what this or that gurus said or did not say.  
+> **Causality has been mathematized, so there is**  
 > **no more room for difference of opinion.**
 >
 > \=======Judea Pearl

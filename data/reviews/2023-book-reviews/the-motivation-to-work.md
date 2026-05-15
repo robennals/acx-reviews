@@ -72,14 +72,10 @@ Fine, but how do we get satisfaction/motivation?
 
 Here are Herzberg’s motivators as called out in his original 1959 terms…
 
-> Achievement    38%
->
-> Recognition      27%
->
-> Work Itself        31%
->
-> Responsibility   28%
->
+> Achievement    38%  
+> Recognition      27%  
+> Work Itself        31%  
+> Responsibility   28%  
 > Advancement    23%
 
 *The numbers represent the % of time interviewees mentioned each factor as a motivator. The numbers add to greater than 100% because subjects could list more than one factor.
@@ -92,10 +88,8 @@ Lesson learned, only praise real achievement - or don't even do that. Herzberg f
 
 I’m a recovering engineer and love equations, so I interpret these findings like this…
 
-> NON-Achievement + Recognition = De-Motivation
->
-> Real Achievement + Zero Recognition = Some Motivation
->
+> NON-Achievement + Recognition = De-Motivation  
+> Real Achievement + Zero Recognition = Some Motivation  
 > Real Achievement + Sincere Recognition = Max  Motivation
 
 We now have a surefire way of demotivating someone - false praise. And we understand one of Herzberg’s key motivators - recognizing real achievement. Let’s move on to his next motivator.

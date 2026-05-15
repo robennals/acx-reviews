@@ -18,7 +18,7 @@ tags:
 ![](https://acximages.ennals.org/images/2025-non-book-reviews/e64d2fa202b8828f.png)
 
 1.  ## The Lyric
-
+    
 
 We will complete our series on Joanna Newsom’s music with the analysis of a single sentence from the last track of her last album. Heretofore our study has consisted of describing the emotions, images, and instrumentation of each song on the album. In this last installment we will get to reflect on deeper philosophical themes.
 
@@ -28,14 +28,11 @@ Nonetheless, that does not mean music is without reason or antithetical to analy
 
 Of all the music I have ever heard, Joanna Newsom’s album _Divers_ (2015) perhaps does this best. And so in this review, we turn our attention to the simple task of explaining the full meaning of a single sentence from Newsom’s song “Time, as a Symptom.”
 
-> And it pains me to say, I was wrong.
->
-> Love is not a symptom of time.
->
+> And it pains me to say, I was wrong.  
+> Love is not a symptom of time.  
 > Time is just a symptom of love
 >
-> (and of the nullifying, defeating, negating, repeating joy of life;
->
+> (and of the nullifying, defeating, negating, repeating joy of life;  
 > the nullifying, defeating, negating, repeating joy of life). [1]
 
 First, we will look at this lyric's immediate content before turning to the broader context of the set of tracks in the album with occasional reference to where this album sits within Joanna Newsom's entire oeuvre. The lyric begins with a plaintive and mourning “I was wrong.” The sentence prepares us for the negation of a thesis outlined in the rest of the album. By saying that it causes her pain, Newsom indicates the new thesis might not be happy news. Perhaps it is painful because of the embarrassment of being wrong and the pain of changing one’s mind or because of the content of the new thesis containing a hard truth or both.
@@ -59,16 +56,13 @@ Here you might recall the Goddess of Cancer from _[The Goddess of Everything Els
 Even in the beautiful vision of _The Goddess of Everything Else_ though, the gradual turn towards freedom happens within the medium of unconquerable time. We still expect time to ultimately destroy all value, and we expect that all the value that was lost in the march of time has been lost forever. Because death is just a biological phenomenon, it is easier to imagine an end to it than to time. If death is an enemy to be destroyed or routed, we can imagine technologies that successfully do that. But Time is such a dictator of our existence that even most speculative fiction can hardly mess with it without making terrible logical errors or crashing upon unresolvable paradoxes. There’s a reason the shaky handwriting reads, [“DO NOT MESS WITH TIME”](https://hpmor.com/chapter/17). And so most of the time we must accept the conventional view of the all destroying power of entropy.
 
 2.  ## Meaning of Love and Time as Outlined in the Secondary Imagery of Other Tracks
+    
 
->
-> And it pains me to say, I was wrong.
->
-> Love is not a symptom of time.
->
+> And it pains me to say, I was wrong.  
+> Love is not a symptom of time.  
 > Time is just a symptom of love
 >
-> (and of the nullifying, defeating, negating, repeating joy of life;
->
+> (and of the nullifying, defeating, negating, repeating joy of life;  
 > the nullifying, defeating, negating, repeating joy of life).
 
 In order to fall into a proper understanding of our sentence, we must start with seeing the way the concept of love and time evolve throughout the album.
@@ -79,10 +73,8 @@ Newsom starts out the album by casting doubt upon certainty and prediction. She 
 
 These questions are motivated by some tragic loss. Commentators consider it the separation of a child from its mother through miscarriage or something like it. The song is addressed in parts to a child whom the family is waiting for. And the notion of miscarriage or a regretful abortion has been part of Joanna's oeuvre at least since the song “Baby Birch” in _Have One On Me_. In “Anecdotes” we are treated to a vision of birds in trenches, running recon missions, looking for “temporal infidelity.” As birds, they spend their time singing.
 
-> “We sing to the garden, and we sing to the stars,
->
-> and we sing in the meantime,
->
+> “We sing to the garden, and we sing to the stars,  
+> and we sing in the meantime,  
 > Wherever you are”
 
 Singing is a universal sign of waiting or of actions that are inevitably lost. Because when a song is done all that remains is the temporary memory of its performance. Recall in Orson Welles’ movie _F is for Fake_ [the classic scene about Chartres cathedral](https://www.youtube.com/watch?v=p67d9F9nW2Y) and the loss and ultimate destruction of all things.
@@ -93,32 +85,20 @@ And speaking of inevitable destruction we must come to the next track’s perspe
 
 Here, Newsom offers us a sweeping, panoramic view of New York City, which was called Sapokanikan before the Europeans came. And ‘Ozymandian’ – yeah, quite the adjective. I like the pronunciation “Ah-zee-man-dee-an” personally. Most take the adjective as a reference to Percy Shelley’s poem, [“Ozymandias”](https://www.youtube.com/watch?v=T3dpghfRBHE), the great poem about the fall of empire and eventual leveling of hubris and accomplishment. In fact, Newsom is intentionally referencing not the famous poem of Shelley, but the forgotten poem of the same name by [Horace Smith](https://en.wikipedia.org/wiki/Ozymandias_(Smith)), whose poem fortune has not preserved for posterity as an equal to Shelley’s. Poor Horace.
 
-> In Egypt's sandy silence, all alone,
->
-> Stands a gigantic Leg, which far off throws
->
-> The only shadow that the Desert knows:—
->
-> "I am great OZYMANDIAS," saith the stone,
->
-> "The King of Kings; this mighty City shows
->
-> The wonders of my hand."— The City's gone,—
->
-> Naught but the Leg remaining to disclose
->
+> In Egypt's sandy silence, all alone,  
+> Stands a gigantic Leg, which far off throws  
+> The only shadow that the Desert knows:—  
+> "I am great OZYMANDIAS," saith the stone,  
+> "The King of Kings; this mighty City shows  
+> The wonders of my hand."— The City's gone,—  
+> Naught but the Leg remaining to disclose  
 > The site of this forgotten Babylon.
 >
-> We wonder — and some Hunter may express
->
-> Wonder like ours, when thro' the wilderness
->
-> Where London stood, holding the Wolf in chace,
->
-> He meets some fragment huge, and stops to guess
->
-> What powerful but unrecorded race
->
+> We wonder — and some Hunter may express  
+> Wonder like ours, when thro' the wilderness  
+> Where London stood, holding the Wolf in chace,  
+> He meets some fragment huge, and stops to guess  
+> What powerful but unrecorded race  
 > Once dwelt in that annihilated place.
 
 In reference to either poem though the thematic reference is the same. The noble cause of building New York City is like the magnificent efforts of the ancient kings, and like them ultimately doomed.
@@ -155,12 +135,9 @@ When you were a child you might have taken a cereal box and put pin holes in it 
 
 Newsom takes this ancient celestial idea about stars and applies to the soul in this track. Is the souls simply a self-contained flicker within this dark enclosure—a little light caught in the box? Or is it something more—something from outside the box, something _not_ of this world, that has pierced the cosmos and lodged itself inside?
 
-> The Great Light that shines through a pin-hole,
->
-> When the pin-light calls itself Selfhood,
->
-> And the Selfhood inverts on a mirror
->
+> The Great Light that shines through a pin-hole,  
+> When the pin-light calls itself Selfhood,  
+> And the Selfhood inverts on a mirror  
 > In an _Amora Obscura_
 
 Just as a camera obscura takes light and flips into an image, the “Amora Obscura” flips the infinite light that comes from beyond and shines it into love and loving beings. We carry this light inside us until we die, just as we carry “the borrowed bones” mentioned in track 1 “Anecdotes.” Our life is lent to us by the Great Light.
@@ -172,44 +149,28 @@ So when we combine the philosophies of “Divers” and “A Pin-light Bent” t
 And at last I think we are ready to explicate it fully.
 
 3.  ## Conclusion: Transcend…
+    
 
->
-> And it pains me to say, I was wrong.
->
-> Love is not a symptom of time.
->
+> And it pains me to say, I was wrong.  
+> Love is not a symptom of time.  
 > Time is just a symptom of love
 >
-> (and of the nullifying, defeating, negating, repeating joy of life;
->
+> (and of the nullifying, defeating, negating, repeating joy of life;  
 > the nullifying, defeating, negating, repeating joy of life).
 >
-> Hardly seen, hardly felt–
->
-> deep down where your fight is waiting,
->
-> down till the light in your eyes is fading:
->
-> joy of life.
->
-> Where I know that you can yield, when it comes down to it;
->
-> bow like the field when the wind combs through it:
->
-> joy of life.
->
-> And every little gust that chances through
->
-> Will dance in the dust of me and you,
->
-> With joy-of-life.
->
-> And in our perfect secret-keeping
->
-> One ear of corn,
->
-> In silent, reaping
->
+> Hardly seen, hardly felt–  
+> deep down where your fight is waiting,  
+> down till the light in your eyes is fading:  
+> joy of life.  
+> Where I know that you can yield, when it comes down to it;  
+> bow like the field when the wind combs through it:  
+> joy of life.  
+> And every little gust that chances through  
+> Will dance in the dust of me and you,  
+> With joy-of-life.  
+> And in our perfect secret-keeping  
+> One ear of corn,  
+> In silent, reaping  
 > joy of life.
 
 Newsom began the album with Job-like wonder about a lost child and questions the nature of time, and through a series of reflective vignettes on love, life, rent (we never got into her descriptions of NYC apartments), she settles on the idea that the self comes from some infinite unbent light that extends from forever, and the good things in life, the soulful things in life, have a repeating eternal aspect locked in them. But because each self is its own geographically distinct bottling of light, all the tragedy of separation is contained in our world as well. It cannot be any other way. For there to be selves, there must be distance between the selves that exist. Time and existential pain and woe come about as a result of the distance between ourselves and the original light.
@@ -222,28 +183,21 @@ The Eleusian mysteries were based in the Attic fields northwest of Athens, where
 
 Newsom claims more than Orson Welles' _F is for Fake_. Welles said that we should go on singing and go on building cathedrals and beauty in spite of the ultimate destruction of all things. It's not enough that we end the human story with there being joy in spite of the sorrow. So Newsom finishes the album with a vision. She quotes that mad-cat, fever-dream of a book _Finnigan’s Wake_ by James Joyce, you may know the book. It ends “A way a lone a last a loved a long the”... and continues where it ends “riverrun, past Eve and Adam's, from swerve of shore to bend: of bay, brings us by a commodius vicus of recirculation back to: Howth Castle and Environs,” thus breaking off mid-phrase to continue with the first line of the book again. Newsom, like Joyce, will also refuse to end the album, leading us right back into the beginning again. She invokes cyclic history, the Resurrection, the Eleusinian mysteries, Valinor, the end of time, and a command to her comrade the fellow bird in the first track, Rufous Nightjar, to transcend. At the end of our individual and collective histories Newsom places transcendence and continuation. No end.
 
-> Joy! Again, around-a pause, a sound-a song:
->
+> Joy! Again, around-a pause, a sound-a song:  
 > _A way a lone a last a loved a long._
 >
-> A cave, a grave, a day: arise, ascend.
->
+> A cave, a grave, a day: arise, ascend.  
 > (Areion, Rharian, go free and graze. Amen.)
 >
-> A shore, a tide, unmoored–a sight, abroad:
->
+> A shore, a tide, unmoored–a sight, abroad:  
 > A dawn, unmarked, undone, undarked (a god).
 >
-> No time. No flock.  No chime, no clock. No end.
->
-> White star, white ship–Nightjar, transmit: transcend!
->
-> White star, white ship–Nightjar, transmit: transcend!
->
+> No time. No flock.  No chime, no clock. No end.  
+> White star, white ship–Nightjar, transmit: transcend!  
+> White star, white ship–Nightjar, transmit: transcend!  
 > White star, white ship–Nightjar, transmit: trans
 
 [https://www.youtube.com/watch?v=PYefVGPHAE8](https://www.youtube.com/watch?v=PYefVGPHAE8)
 
-![](https://acximages.ennals.org/images/2025-non-book-reviews/02a0ca2a7245fafe.jpg)
-
+>
 > [1] I used the official lyrics sheets from the vinyl album for punctuation, line breaks, and capitalization in these lyrics. This does frequently affect the meaning. Use internet lyrics with care, my friend!

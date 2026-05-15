@@ -16,14 +16,10 @@ tags:
   - Memoir
 ---
 
-> •  **Make the requirements less dumb.**
->
-> •    **Delete parts or process.**
->
-> •    **Simplify and optimize.**
->
-> •    **Accelerate cycle time.**
->
+> •  **Make the requirements less dumb.**  
+> •    **Delete parts or process.**  
+> •    **Simplify and optimize.**  
+> •    **Accelerate cycle time.**  
 > •    **Automate.**
 
 - ModelThinkers.com, summarizing an interview with Elon Musk in 2021.

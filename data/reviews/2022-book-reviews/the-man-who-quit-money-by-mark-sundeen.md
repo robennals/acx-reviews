@@ -246,28 +246,17 @@ So how?  Well, Suelo isn’t much of hunter, in case you were thinking that.  He
 
 Dumpster diving is surprisingly productive.  When Sundeen went dumpster diving Suelo as part of writing the book, they found:  
 
-> 6 loaves Pepperidge Farm bread
->
-> 2 bags bagels
->
-> 1 bag of white potatoes
->
-> 4 russet potatoes
->
-> 1 box organic strawberries
->
-> 2 packages raspberries
->
-> 2 packages blackberries
->
-> 1 grapefruit
->
-> 7 packages sliced mushrooms
->
-> 1 onion
->
-> 1 squash
->
+> 6 loaves Pepperidge Farm bread  
+> 2 bags bagels  
+> 1 bag of white potatoes  
+> 4 russet potatoes  
+> 1 box organic strawberries  
+> 2 packages raspberries  
+> 2 packages blackberries  
+> 1 grapefruit  
+> 7 packages sliced mushrooms  
+> 1 onion  
+> 1 squash  
 > 27 ears of corn  
 
 There are drawbacks – at one point in the book Suelo bites into some meat, and finds it tastes moldy, but this is a perfectly reasonable grocery haul.

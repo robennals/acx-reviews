@@ -207,24 +207,15 @@ At the center of the Sermon on the Mount is a short model prayer in prayer that 
 
 > “This, then, is how you should pray:
 >
-> Our Father in heaven,
->
-> hallowed be your name,
->
-> your kingdom come,
->
-> your will be done,
->
-> on earth as it is in heaven.
->
-> Give us today our daily bread.
->
-> And forgive us our debts,
->
-> as we also have forgiven our debtors.
->
-> And lead us not into temptation,
->
+> Our Father in heaven,  
+> hallowed be your name,  
+> your kingdom come,  
+> your will be done,  
+> on earth as it is in heaven.  
+> Give us today our daily bread.  
+> And forgive us our debts,  
+> as we also have forgiven our debtors.  
+> And lead us not into temptation,  
 > but deliver us from the evil one
 
 (That's where Jesus's version ends.  There's a popular liturgical version that ends with "_For thine is the kingdom, and the power, and the glory, forever and ever. Amen,"_ as seen in the 1549 Book of Common Prayer compiled by Archbishop Thomas Cranmer.)

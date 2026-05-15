@@ -184,12 +184,9 @@ In portraying tragedy from the inside, Clarke is also echoing Lewis. Sometimes t
 
 It is as if C.S. Lewis were allegorizing [an ancient Jewish text](https://biblehub.com/drbc/wisdom/3.htm):
 
-> “The souls of the just are in the hand of God,
->
-> and the torment of death shall not touch them.
->
-> In the sight of the unwise they seemed to die:
->
+> “The souls of the just are in the hand of God,  
+> and the torment of death shall not touch them.  
+> In the sight of the unwise they seemed to die:  
 > … but they are in peace.”
 
 Taking up this theme from Lewis, Clarke’s _Piranesi_ aims at the same thing. Whatever the Other meant for evil, the House turned it to good. That is why the two living victims who escape from the House—Piranesi and a single survivor before him—both ultimately want to return. The good on the inside was greater than the evil on the outside.

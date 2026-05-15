@@ -42,134 +42,74 @@ Some excerpts.
 
 Diomedes meets Glaucus on the battlefield, and asks his backstory to make sure he’s not a god. Glaucus tells the story of his grandfather Bellerophon, and Diomedes realizes that his own grandfather had been friends with Bellerophon:
 
-> The master of the war cry, Diomedes,
->
-> was glad to hear these words. He fixed his spear
->
-> firm in the earth that feeds the world, and spoke
->
+> The master of the war cry, Diomedes,  
+> was glad to hear these words. He fixed his spear  
+> firm in the earth that feeds the world, and spoke  
 > in friendship to the shepherd of the people.
 >
-> “So you must be an old guest-friend of mine,
->
-> through our forefathers. Oeneus once hosted
->
-> noble Bellerophon inside his house
->
-> and kept him as his guest for twenty days.
->
-> They gave each other splendid gifts of friendship.
->
-> Oeneus gave a shining belt, adorned
->
-> with purple, and Bellerophon gave him
->
-> a double-handled golden cup. I left it
->
-> back home inside my house when I came here.
->
-> But I do not remember Tydeus.
->
-> He left me when I was a tiny baby,
->
-> during the war at Thebes when Greeks were dying.
->
-> Now you and I are also loving guest-friends,
->
-> and I will visit you one day in Argos,
->
-> and you will come to visit me in Lycia,
->
-> whenever I arrive back home again.
->
-> So let us now avoid each other’s spears,
->
-> even amid the thickest battle scrum.
->
-> Plenty of Trojans and their famous allies
->
-> are left for me to slaughter, when a god
->
-> or my quick feet enable me to catch them.
->
-> And you have many other Greeks to kill
->
-> whenever you are able. Let us now
->
-> exchange our arms and armor with each other,
->
-> so other men will know that we are proud
->
+> “So you must be an old guest-friend of mine,  
+> through our forefathers. Oeneus once hosted  
+> noble Bellerophon inside his house  
+> and kept him as his guest for twenty days.  
+> They gave each other splendid gifts of friendship.  
+> Oeneus gave a shining belt, adorned  
+> with purple, and Bellerophon gave him  
+> a double-handled golden cup. I left it  
+> back home inside my house when I came here.  
+> But I do not remember Tydeus.  
+> He left me when I was a tiny baby,  
+> during the war at Thebes when Greeks were dying.  
+> Now you and I are also loving guest-friends,  
+> and I will visit you one day in Argos,  
+> and you will come to visit me in Lycia,  
+> whenever I arrive back home again.  
+> So let us now avoid each other’s spears,  
+> even amid the thickest battle scrum.  
+> Plenty of Trojans and their famous allies  
+> are left for me to slaughter, when a god  
+> or my quick feet enable me to catch them.  
+> And you have many other Greeks to kill  
+> whenever you are able. Let us now  
+> exchange our arms and armor with each other,  
+> so other men will know that we are proud  
 > to be each other’s guest-friends through our fathers.”
 >
-> With this, the two jumped off their chariots
->
-> and grasped each other’s hands and swore the oath.
->
-> Then Zeus robbed Glaucus of his wits. He traded
->
-> his armor with the son of Tydeus,
->
-> and gave up gold for bronze—gold armor, worth
->
+> With this, the two jumped off their chariots  
+> and grasped each other’s hands and swore the oath.  
+> Then Zeus robbed Glaucus of his wits. He traded  
+> his armor with the son of Tydeus,  
+> and gave up gold for bronze—gold armor, worth  
 > a hundred oxen, for a set worth nine.
 
 At one point Hera dolls herself up to make Zeus want to sleep with her. This is the flirting game of Zeus, greatest of all the gods:
 
-> “You can go later on that journey, Hera,
->
-> but now let us enjoy some time in bed.
->
-> Let us make love. Such strong desire has never
->
-> suffused my senses or subdued my heart
->
-> for any goddess or for any woman
->
-> as I feel now for you. Not even when
->
-> I lusted for the wife of Ixion,
->
-> and got her pregnant with Pirithous,
->
-> a councillor as wise as any god.
->
-> Not even when I wanted Danae,
->
-> the daughter of Acrisius, a woman
->
-> with pretty ankles, and I got her pregnant
->
-> with Perseus, the best of warriors.
->
-> Not even when I lusted for the famous
->
-> Europa, child of Phoenix, and I fathered
->
-> Minos on her, and godlike Rhadamanthus.
->
-> Not even when I wanted Semele,
->
-> or when in Thebes I lusted for Alcmene,
->
-> who birthed heroic Heracles, my son—
->
-> and Semele gave birth to Dionysus,
->
-> the joy of mortals. And not even when
->
-> I lusted for the goddess, Queen Demeter,
->
-> who has such beautiful, well-braided hair—
->
-> not even when I wanted famous Leto,
->
-> not even when I wanted you yourself—
->
-> I never wanted anyone before
->
-> as much as I want you right now. Such sweet
->
+> “You can go later on that journey, Hera,  
+> but now let us enjoy some time in bed.  
+> Let us make love. Such strong desire has never  
+> suffused my senses or subdued my heart  
+> for any goddess or for any woman  
+> as I feel now for you. Not even when  
+> I lusted for the wife of Ixion,  
+> and got her pregnant with Pirithous,  
+> a councillor as wise as any god.  
+> Not even when I wanted Danae,  
+> the daughter of Acrisius, a woman  
+> with pretty ankles, and I got her pregnant  
+> with Perseus, the best of warriors.  
+> Not even when I lusted for the famous  
+> Europa, child of Phoenix, and I fathered  
+> Minos on her, and godlike Rhadamanthus.  
+> Not even when I wanted Semele,  
+> or when in Thebes I lusted for Alcmene,  
+> who birthed heroic Heracles, my son—  
+> and Semele gave birth to Dionysus,  
+> the joy of mortals. And not even when  
+> I lusted for the goddess, Queen Demeter,  
+> who has such beautiful, well-braided hair—  
+> not even when I wanted famous Leto,  
+> not even when I wanted you yourself—  
+> I never wanted anyone before  
+> as much as I want you right now. Such sweet  
 > desire for you has taken hold of me.”
 
 3.

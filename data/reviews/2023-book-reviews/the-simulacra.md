@@ -113,14 +113,10 @@ Advertising machines, called Theodorus Nitz commercials after their inventor, ha
 
 Before Ace Books published _The Simulacra_ in August 1964, Fantastic magazine published the short story “The Novelty Act” in its February 1964 edition, prefaced by this editorial summary:
 
-> If you carry to their illogical lengths the ideas
->
-> of cooperative housing, culture-mania and ama-
->
-> teur nights, you might begin to approximate the
->
-> conditions under which the Brown brothers did
->
+> If you carry to their illogical lengths the ideas  
+> of cooperative housing, culture-mania and ama-  
+> teur nights, you might begin to approximate the  
+> conditions under which the Brown brothers did  
 > their jug-playing music. [9]
 
 By contrast, the jug musicians in _The Simulacra_ are not brothers, and neither one is named Brown, but _The Simulacra_ did keep salient the three ideas mentioned in that snippet. Philip K. Dick biographer Lawrence Sutin has suggested that the short story is a pared-down version of the novel, rather than the novel being an expansion of the short story [6].

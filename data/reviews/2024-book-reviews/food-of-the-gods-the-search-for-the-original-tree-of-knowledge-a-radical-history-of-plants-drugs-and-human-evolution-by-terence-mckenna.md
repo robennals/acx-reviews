@@ -242,8 +242,7 @@ You might be surprised to learn that Terence McKenna confessed to having little 
 
 This pisses off a lot of McKenna fans, and causes accusations ranging from him being a complete fraud to a mal-intended CIA agent. When asked about his book in this [interview](http://suntebo.org/history/Ambient/T.McKenna/McKenna.html), he sees it as a catalyst in a larger culture war. He wanted the unjustly illegalized drugs to be situated in a human origins scenario. In the same way that Darwin’s theory reset the 19th century Victorian mind, he hoped that equating psychedelics with evolution would trigger a new openness to them. He wanted to make the switch from:
 
-> “ ‘Drugs are alien, invasive and distorting to human nature’ to:
->
+> “ ‘Drugs are alien, invasive and distorting to human nature’ to:  
 > ‘Drugs are natural, ancient and responsible for human nature.’ ”
 
 For what it’s worth, I don't think McKenna was lying or intentionally deceptive. I think he had a good hunch and acted on it, but in the act of crystallizing it into a book, he was less interested in careful analysis and more interested in using his position as a psychedelic guru to shift the culture. His target audience was “drug-friendly 18-25 year olds” who would spread the ideas into the mainstream.
