@@ -1,16 +1,16 @@
 ---
-title: "The Soul of a New Machine Review"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2023-book-reviews"
-contestName: "2023 Book Reviews"
+title: The Soul of a New Machine Review
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2023-book-reviews
+contestName: 2023 Book Reviews
 year: 2023
-publishedDate: "2023-01-01T00:00:00.000Z"
-slug: "the-soul-of-a-new-machine-review"
+publishedDate: '2023-01-01T00:00:00.000Z'
+slug: the-soul-of-a-new-machine-review
 wordCount: 2761
 readingTimeMinutes: 13
-originalUrl: "https://docs.google.com/document/d/1AtGIIv371v0Yu35eNsIxJr67dw4SHOiGdKrqmoKt2hg"
-source: "gdoc"
+originalUrl: https://docs.google.com/document/d/1AtGIIv371v0Yu35eNsIxJr67dw4SHOiGdKrqmoKt2hg
+source: gdoc
 tags:
   - Technology
   - History

@@ -1,16 +1,16 @@
 ---
-title: "The Evolving Self: Problem and Process in Human Development, by Robert Kegan"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2023-book-reviews"
-contestName: "2023 Book Reviews"
+title: 'The Evolving Self: Problem and Process in Human Development, by Robert Kegan'
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2023-book-reviews
+contestName: 2023 Book Reviews
 year: 2023
-publishedDate: "2023-01-01T00:00:00.000Z"
-slug: "the-evolving-self-problem-and-process-in-human-development-by-robert-kegan"
+publishedDate: '2023-01-01T00:00:00.000Z'
+slug: the-evolving-self-problem-and-process-in-human-development-by-robert-kegan
 wordCount: 9223
 readingTimeMinutes: 41
-originalUrl: "https://docs.google.com/document/d/1AtGIIv371v0Yu35eNsIxJr67dw4SHOiGdKrqmoKt2hg"
-source: "gdoc"
+originalUrl: https://docs.google.com/document/d/1AtGIIv371v0Yu35eNsIxJr67dw4SHOiGdKrqmoKt2hg
+source: gdoc
 tags:
   - Psychology
   - Philosophy

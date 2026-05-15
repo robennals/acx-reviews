@@ -9,7 +9,7 @@ publishedDate: '2026-02-06T16:58:47.906Z'
 slug: project-xanadu
 wordCount: 7485
 readingTimeMinutes: 34
-originalUrl: 'https://www.astralcodexten.com/p/your-review-project-xanadu-the-internet'
+originalUrl: https://www.astralcodexten.com/p/your-review-project-xanadu-the-internet
 source: acx
 tags:
   - Technology

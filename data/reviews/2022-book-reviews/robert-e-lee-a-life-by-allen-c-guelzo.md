@@ -9,8 +9,7 @@ publishedDate: '2026-02-06T07:23:14.490Z'
 slug: robert-e-lee-a-life-by-allen-c-guelzo
 wordCount: 6416
 readingTimeMinutes: 29
-originalUrl: >-
-  https://docs.google.com/document/d/1kQUUJhv-MpLawby2j4zXLZPDG6ligWd5xpIjH8UmWdw
+originalUrl: https://docs.google.com/document/d/1kQUUJhv-MpLawby2j4zXLZPDG6ligWd5xpIjH8UmWdw
 source: gdoc
 tags:
   - History

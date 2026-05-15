@@ -1,16 +1,16 @@
 ---
-title: "Nine Lives"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2024-book-reviews"
-contestName: "2024 Book Reviews"
+title: Nine Lives
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2024-book-reviews
+contestName: 2024 Book Reviews
 year: 2024
-publishedDate: "2026-05-10T03:23:24.221Z"
-slug: "nine-lives"
+publishedDate: '2026-05-10T03:23:24.221Z'
+slug: nine-lives
 wordCount: 8199
 readingTimeMinutes: 37
-originalUrl: "https://www.astralcodexten.com/p/your-book-review-nine-lives"
-source: "acx"
+originalUrl: https://www.astralcodexten.com/p/your-book-review-nine-lives
+source: acx
 tags:
   - History
   - Religion

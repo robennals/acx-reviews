@@ -9,8 +9,7 @@ publishedDate: '2026-02-06T07:22:32.816Z'
 slug: termination-shock-by-neal-stephenson
 wordCount: 9271
 readingTimeMinutes: 42
-originalUrl: >-
-  https://docs.google.com/document/d/100kMdSVFviZSSBvUyyEQPMNlvLptVQxHFD9i9wGuBWs
+originalUrl: https://docs.google.com/document/d/100kMdSVFviZSSBvUyyEQPMNlvLptVQxHFD9i9wGuBWs
 source: gdoc
 tags:
   - Fiction

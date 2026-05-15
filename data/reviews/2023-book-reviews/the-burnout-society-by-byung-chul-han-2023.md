@@ -9,8 +9,7 @@ publishedDate: '2023-01-01T00:00:00.000Z'
 slug: the-burnout-society-by-byung-chul-han-2023
 wordCount: 1769
 readingTimeMinutes: 8
-originalUrl: >-
-  https://docs.google.com/document/d/1AtGIIv371v0Yu35eNsIxJr67dw4SHOiGdKrqmoKt2hg
+originalUrl: https://docs.google.com/document/d/1AtGIIv371v0Yu35eNsIxJr67dw4SHOiGdKrqmoKt2hg
 source: gdoc
 tags:
   - Philosophy

@@ -9,8 +9,7 @@ publishedDate: '2026-02-06T07:21:54.183Z'
 slug: very-important-people-status-and-beauty-in-the-global-party-circuit
 wordCount: 32518
 readingTimeMinutes: 145
-originalUrl: >-
-  https://docs.google.com/document/d/1hFzjXliCAWjvheY-8Qd2fhbF79LnX0Xg6R9eqk9yIyI
+originalUrl: https://docs.google.com/document/d/1hFzjXliCAWjvheY-8Qd2fhbF79LnX0Xg6R9eqk9yIyI
 source: gdoc
 tags:
   - Society

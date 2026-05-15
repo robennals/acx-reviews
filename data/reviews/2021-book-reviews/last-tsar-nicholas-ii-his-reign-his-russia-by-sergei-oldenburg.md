@@ -1,5 +1,5 @@
 ---
-title: 'Last Tsar. Nicholas II, His Reign & His Russia by Sergei Oldenburg'
+title: Last Tsar. Nicholas II, His Reign & His Russia by Sergei Oldenburg
 author: Unknown
 reviewAuthor: Anonymous
 contestId: 2021-book-reviews
@@ -9,8 +9,7 @@ publishedDate: '2026-02-06T07:21:29.571Z'
 slug: last-tsar-nicholas-ii-his-reign-his-russia-by-sergei-oldenburg
 wordCount: 4672
 readingTimeMinutes: 21
-originalUrl: >-
-  https://docs.google.com/document/d/1xexFJ7h0vULMDE7N77q_MIzXoerexfe_CqqGEL6hEoQ
+originalUrl: https://docs.google.com/document/d/1xexFJ7h0vULMDE7N77q_MIzXoerexfe_CqqGEL6hEoQ
 source: gdoc
 tags:
   - History

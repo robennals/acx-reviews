@@ -9,8 +9,7 @@ publishedDate: '2026-02-06T07:22:32.817Z'
 slug: the-axis-of-madness
 wordCount: 2701
 readingTimeMinutes: 13
-originalUrl: >-
-  https://docs.google.com/document/d/100kMdSVFviZSSBvUyyEQPMNlvLptVQxHFD9i9wGuBWs
+originalUrl: https://docs.google.com/document/d/100kMdSVFviZSSBvUyyEQPMNlvLptVQxHFD9i9wGuBWs
 source: gdoc
 tags:
   - Fiction

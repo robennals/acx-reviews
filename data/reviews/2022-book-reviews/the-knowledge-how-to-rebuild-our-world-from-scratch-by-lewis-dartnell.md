@@ -9,8 +9,7 @@ publishedDate: '2026-02-06T07:22:32.827Z'
 slug: the-knowledge-how-to-rebuild-our-world-from-scratch-by-lewis-dartnell
 wordCount: 8105
 readingTimeMinutes: 37
-originalUrl: >-
-  https://docs.google.com/document/d/100kMdSVFviZSSBvUyyEQPMNlvLptVQxHFD9i9wGuBWs
+originalUrl: https://docs.google.com/document/d/100kMdSVFviZSSBvUyyEQPMNlvLptVQxHFD9i9wGuBWs
 source: gdoc
 tags:
   - Science

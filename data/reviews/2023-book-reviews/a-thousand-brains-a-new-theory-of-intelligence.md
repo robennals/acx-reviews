@@ -9,8 +9,7 @@ publishedDate: '2026-02-06T07:21:10.020Z'
 slug: a-thousand-brains-a-new-theory-of-intelligence
 wordCount: 4377
 readingTimeMinutes: 20
-originalUrl: >-
-  https://docs.google.com/document/d/10CiEI7aDL2bMIdx7yayy3vlq0TJ8dO5LGnG7yIDPiw8
+originalUrl: https://docs.google.com/document/d/10CiEI7aDL2bMIdx7yayy3vlq0TJ8dO5LGnG7yIDPiw8
 source: gdoc
 tags:
   - Science

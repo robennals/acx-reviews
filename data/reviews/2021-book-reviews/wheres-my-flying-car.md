@@ -9,7 +9,7 @@ publishedDate: '2026-02-05T15:44:26.379Z'
 slug: wheres-my-flying-car
 wordCount: 3016
 readingTimeMinutes: 14
-originalUrl: 'https://astralcodexten.substack.com/p/your-book-review-wheres-my-flying'
+originalUrl: https://astralcodexten.substack.com/p/your-book-review-wheres-my-flying
 source: acx
 tags:
   - Technology

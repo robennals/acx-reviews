@@ -9,8 +9,7 @@ publishedDate: '2023-01-01T00:00:00.000Z'
 slug: why-fish-dont-exist
 wordCount: 2949
 readingTimeMinutes: 14
-originalUrl: >-
-  https://docs.google.com/document/d/1D2MGZ7HW1vRtOtfXYIx9BBUt6ubjEA2n06gpoHcxaFY
+originalUrl: https://docs.google.com/document/d/1D2MGZ7HW1vRtOtfXYIx9BBUt6ubjEA2n06gpoHcxaFY
 source: gdoc
 tags:
   - Biology

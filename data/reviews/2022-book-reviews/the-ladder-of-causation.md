@@ -9,8 +9,7 @@ publishedDate: '2026-02-06T07:22:32.819Z'
 slug: the-ladder-of-causation
 wordCount: 9005
 readingTimeMinutes: 41
-originalUrl: >-
-  https://docs.google.com/document/d/100kMdSVFviZSSBvUyyEQPMNlvLptVQxHFD9i9wGuBWs
+originalUrl: https://docs.google.com/document/d/100kMdSVFviZSSBvUyyEQPMNlvLptVQxHFD9i9wGuBWs
 source: gdoc
 tags:
   - Science

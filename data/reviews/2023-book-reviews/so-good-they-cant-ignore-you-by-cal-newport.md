@@ -1,16 +1,16 @@
 ---
-title: "So Good They Can't Ignore You by Cal Newport"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2023-book-reviews"
-contestName: "2023 Book Reviews"
+title: So Good They Can't Ignore You by Cal Newport
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2023-book-reviews
+contestName: 2023 Book Reviews
 year: 2023
-publishedDate: "2023-01-01T00:00:00.000Z"
-slug: "so-good-they-cant-ignore-you-by-cal-newport"
+publishedDate: '2023-01-01T00:00:00.000Z'
+slug: so-good-they-cant-ignore-you-by-cal-newport
 wordCount: 4591
 readingTimeMinutes: 21
-originalUrl: "https://docs.google.com/document/d/1vci14HMZ2UEJBs6mKCZZ2vHs-jVuPSsFsiN3cAENzXU"
-source: "gdoc"
+originalUrl: https://docs.google.com/document/d/1vci14HMZ2UEJBs6mKCZZ2vHs-jVuPSsFsiN3cAENzXU
+source: gdoc
 tags:
   - Philosophy
   - Psychology

@@ -9,7 +9,7 @@ publishedDate: '2026-02-06T16:58:45.535Z'
 slug: participation-in-phase-i-clinical-trials
 wordCount: 4663
 readingTimeMinutes: 21
-originalUrl: 'https://www.astralcodexten.com/p/your-review-participation-in-phase'
+originalUrl: https://www.astralcodexten.com/p/your-review-participation-in-phase
 source: acx
 tags:
   - Science

@@ -9,8 +9,7 @@ publishedDate: '2026-02-06T07:21:10.024Z'
 slug: bowling-alone
 wordCount: 4819
 readingTimeMinutes: 22
-originalUrl: >-
-  https://docs.google.com/document/d/10CiEI7aDL2bMIdx7yayy3vlq0TJ8dO5LGnG7yIDPiw8
+originalUrl: https://docs.google.com/document/d/10CiEI7aDL2bMIdx7yayy3vlq0TJ8dO5LGnG7yIDPiw8
 source: gdoc
 tags:
   - Society

@@ -9,8 +9,7 @@ publishedDate: '2026-02-06T07:21:54.170Z'
 slug: the-one-world-schoolhouse-by-salman-khan
 wordCount: 5779
 readingTimeMinutes: 26
-originalUrl: >-
-  https://docs.google.com/document/d/1hFzjXliCAWjvheY-8Qd2fhbF79LnX0Xg6R9eqk9yIyI
+originalUrl: https://docs.google.com/document/d/1hFzjXliCAWjvheY-8Qd2fhbF79LnX0Xg6R9eqk9yIyI
 source: gdoc
 tags:
   - Society

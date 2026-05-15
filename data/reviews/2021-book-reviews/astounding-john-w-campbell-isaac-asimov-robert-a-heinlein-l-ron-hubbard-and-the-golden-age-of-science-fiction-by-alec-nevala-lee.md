@@ -1,19 +1,15 @@
 ---
-title: >-
-  Astounding: John W. Campbell, Isaac Asimov, Robert A. Heinlein, L. Ron
-  Hubbard, and the Golden Age of Science Fiction by Alec Nevala-Lee
+title: 'Astounding: John W. Campbell, Isaac Asimov, Robert A. Heinlein, L. Ron Hubbard, and the Golden Age of Science Fiction by Alec Nevala-Lee'
 author: Unknown
 reviewAuthor: Anonymous
 contestId: 2021-book-reviews
 contestName: 2021 Book Reviews
 year: 2021
 publishedDate: '2026-02-06T07:21:29.561Z'
-slug: >-
-  astounding-john-w-campbell-isaac-asimov-robert-a-heinlein-l-ron-hubbard-and-the-golden-age-of-science-fiction-by-alec-nevala-lee
+slug: astounding-john-w-campbell-isaac-asimov-robert-a-heinlein-l-ron-hubbard-and-the-golden-age-of-science-fiction-by-alec-nevala-lee
 wordCount: 2017
 readingTimeMinutes: 9
-originalUrl: >-
-  https://docs.google.com/document/d/1xexFJ7h0vULMDE7N77q_MIzXoerexfe_CqqGEL6hEoQ
+originalUrl: https://docs.google.com/document/d/1xexFJ7h0vULMDE7N77q_MIzXoerexfe_CqqGEL6hEoQ
 source: gdoc
 tags:
   - Fiction

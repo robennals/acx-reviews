@@ -9,8 +9,7 @@ publishedDate: '2026-02-06T07:21:29.564Z'
 slug: defenders-of-the-truth-the-sociobiology-debate-by-ullica-segerstrle
 wordCount: 3935
 readingTimeMinutes: 18
-originalUrl: >-
-  https://docs.google.com/document/d/1xexFJ7h0vULMDE7N77q_MIzXoerexfe_CqqGEL6hEoQ
+originalUrl: https://docs.google.com/document/d/1xexFJ7h0vULMDE7N77q_MIzXoerexfe_CqqGEL6hEoQ
 source: gdoc
 tags:
   - Biology

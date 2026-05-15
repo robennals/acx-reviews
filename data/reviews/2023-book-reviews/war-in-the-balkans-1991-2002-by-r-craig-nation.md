@@ -1,16 +1,16 @@
 ---
-title: "War in the Balkans, 1991-2002, by R. Craig Nation"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2023-book-reviews"
-contestName: "2023 Book Reviews"
+title: War in the Balkans, 1991-2002, by R. Craig Nation
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2023-book-reviews
+contestName: 2023 Book Reviews
 year: 2023
-publishedDate: "2023-01-01T00:00:00.000Z"
-slug: "war-in-the-balkans-1991-2002-by-r-craig-nation"
+publishedDate: '2023-01-01T00:00:00.000Z'
+slug: war-in-the-balkans-1991-2002-by-r-craig-nation
 wordCount: 6999
 readingTimeMinutes: 32
-originalUrl: "https://docs.google.com/document/d/1D2MGZ7HW1vRtOtfXYIx9BBUt6ubjEA2n06gpoHcxaFY"
-source: "gdoc"
+originalUrl: https://docs.google.com/document/d/1D2MGZ7HW1vRtOtfXYIx9BBUt6ubjEA2n06gpoHcxaFY
+source: gdoc
 tags:
   - History
   - Politics

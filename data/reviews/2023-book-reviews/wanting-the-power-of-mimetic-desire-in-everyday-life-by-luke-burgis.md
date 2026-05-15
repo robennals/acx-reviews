@@ -1,16 +1,16 @@
 ---
-title: "Wanting: The Power of Mimetic Desire in Everyday Life, by Luke Burgis"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2023-book-reviews"
-contestName: "2023 Book Reviews"
+title: 'Wanting: The Power of Mimetic Desire in Everyday Life, by Luke Burgis'
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2023-book-reviews
+contestName: 2023 Book Reviews
 year: 2023
-publishedDate: "2023-01-01T00:00:00.000Z"
-slug: "wanting-the-power-of-mimetic-desire-in-everyday-life-by-luke-burgis"
+publishedDate: '2023-01-01T00:00:00.000Z'
+slug: wanting-the-power-of-mimetic-desire-in-everyday-life-by-luke-burgis
 wordCount: 1562
 readingTimeMinutes: 7
-originalUrl: "https://docs.google.com/document/d/1D2MGZ7HW1vRtOtfXYIx9BBUt6ubjEA2n06gpoHcxaFY"
-source: "gdoc"
+originalUrl: https://docs.google.com/document/d/1D2MGZ7HW1vRtOtfXYIx9BBUt6ubjEA2n06gpoHcxaFY
+source: gdoc
 tags:
   - Philosophy
   - Psychology

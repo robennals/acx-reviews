@@ -1,16 +1,16 @@
 ---
-title: "The Making of the Atomic Bomb - Richard Rhodes (Review 1)"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2023-book-reviews"
-contestName: "2023 Book Reviews"
+title: The Making of the Atomic Bomb - Richard Rhodes (Review 1)
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2023-book-reviews
+contestName: 2023 Book Reviews
 year: 2023
-publishedDate: "2023-01-01T00:00:00.000Z"
-slug: "the-making-of-the-atomic-bomb-richard-rhodes-review-1"
+publishedDate: '2023-01-01T00:00:00.000Z'
+slug: the-making-of-the-atomic-bomb-richard-rhodes-review-1
 wordCount: 6678
 readingTimeMinutes: 30
-originalUrl: "https://docs.google.com/document/d/1AtGIIv371v0Yu35eNsIxJr67dw4SHOiGdKrqmoKt2hg"
-source: "gdoc"
+originalUrl: https://docs.google.com/document/d/1AtGIIv371v0Yu35eNsIxJr67dw4SHOiGdKrqmoKt2hg
+source: gdoc
 tags:
   - History
   - Science

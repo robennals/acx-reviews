@@ -9,7 +9,7 @@ publishedDate: '2026-02-05T15:57:45.158Z'
 slug: the-outlier
 wordCount: 5931
 readingTimeMinutes: 27
-originalUrl: 'https://astralcodexten.substack.com/p/your-book-review-the-outlier'
+originalUrl: https://astralcodexten.substack.com/p/your-book-review-the-outlier
 source: acx
 tags:
   - History

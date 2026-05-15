@@ -9,7 +9,7 @@ publishedDate: '2026-02-06T07:06:20.397Z'
 slug: the-mind-of-a-bee
 wordCount: 5312
 readingTimeMinutes: 24
-originalUrl: 'https://www.astralcodexten.com/p/your-book-review-the-mind-of-a-bee'
+originalUrl: https://www.astralcodexten.com/p/your-book-review-the-mind-of-a-bee
 source: acx
 tags:
   - Biology

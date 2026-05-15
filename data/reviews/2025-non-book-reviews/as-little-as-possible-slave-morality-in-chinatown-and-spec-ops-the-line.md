@@ -9,8 +9,7 @@ publishedDate: '2026-02-06T16:52:48.889Z'
 slug: as-little-as-possible-slave-morality-in-chinatown-and-spec-ops-the-line
 wordCount: 8137
 readingTimeMinutes: 37
-originalUrl: >-
-  https://docs.google.com/document/d/1d0vRSj1E93joWWvbUen2XGuDjN_mM94ybMIAADzM2fo
+originalUrl: https://docs.google.com/document/d/1d0vRSj1E93joWWvbUen2XGuDjN_mM94ybMIAADzM2fo
 source: gdoc
 tags:
   - Philosophy

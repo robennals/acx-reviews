@@ -9,7 +9,7 @@ publishedDate: '2026-02-05T15:44:03.331Z'
 slug: order-without-law
 wordCount: 14758
 readingTimeMinutes: 66
-originalUrl: 'https://astralcodexten.substack.com/p/your-book-review-order-without-law'
+originalUrl: https://astralcodexten.substack.com/p/your-book-review-order-without-law
 source: acx
 tags:
   - Society

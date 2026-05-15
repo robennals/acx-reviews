@@ -1,19 +1,15 @@
 ---
-title: >-
-  End Times: Elites, Counter-Elites, and the Path of Political Disintegration,
-  by Peter Turchin
+title: 'End Times: Elites, Counter-Elites, and the Path of Political Disintegration, by Peter Turchin'
 author: Unknown
 reviewAuthor: Anonymous
 contestId: 2024-book-reviews
 contestName: 2024 Book Reviews
 year: 2024
 publishedDate: '2026-02-06T16:47:49.304Z'
-slug: >-
-  end-times-elites-counter-elites-and-the-path-of-political-disintegration-by-peter-turchin
+slug: end-times-elites-counter-elites-and-the-path-of-political-disintegration-by-peter-turchin
 wordCount: 5614
 readingTimeMinutes: 25
-originalUrl: >-
-  https://docs.google.com/document/d/1QiotH3aGFgNLGqsIHTK_Plm_gem2E4l2C2ctyGJd0jY
+originalUrl: https://docs.google.com/document/d/1QiotH3aGFgNLGqsIHTK_Plm_gem2E4l2C2ctyGJd0jY
 source: gdoc
 tags:
   - Politics

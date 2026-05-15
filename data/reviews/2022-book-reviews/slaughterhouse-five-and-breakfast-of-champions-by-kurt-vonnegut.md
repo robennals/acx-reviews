@@ -1,5 +1,5 @@
 ---
-title: 'Slaughterhouse-Five and Breakfast of Champions, by Kurt Vonnegut'
+title: Slaughterhouse-Five and Breakfast of Champions, by Kurt Vonnegut
 author: Unknown
 reviewAuthor: Anonymous
 contestId: 2022-book-reviews
@@ -9,8 +9,7 @@ publishedDate: '2026-02-06T07:23:14.491Z'
 slug: slaughterhouse-five-and-breakfast-of-champions-by-kurt-vonnegut
 wordCount: 2666
 readingTimeMinutes: 12
-originalUrl: >-
-  https://docs.google.com/document/d/1kQUUJhv-MpLawby2j4zXLZPDG6ligWd5xpIjH8UmWdw
+originalUrl: https://docs.google.com/document/d/1kQUUJhv-MpLawby2j4zXLZPDG6ligWd5xpIjH8UmWdw
 source: gdoc
 tags:
   - Fiction

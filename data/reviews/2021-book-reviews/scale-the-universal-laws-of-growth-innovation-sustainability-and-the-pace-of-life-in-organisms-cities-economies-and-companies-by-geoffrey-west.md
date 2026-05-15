@@ -1,16 +1,16 @@
 ---
-title: "Scale: The Universal Laws of Growth, Innovation, Sustainability, and the Pace of Life in Organisms, Cities, Economies, and Companies by Geoffrey West"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2021-book-reviews"
-contestName: "2021 Book Reviews"
+title: 'Scale: The Universal Laws of Growth, Innovation, Sustainability, and the Pace of Life in Organisms, Cities, Economies, and Companies by Geoffrey West'
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2021-book-reviews
+contestName: 2021 Book Reviews
 year: 2021
-publishedDate: "2021-01-01T00:00:00.000Z"
-slug: "scale-the-universal-laws-of-growth-innovation-sustainability-and-the-pace-of-life-in-organisms-cities-economies-and-companies-by-geoffrey-west"
+publishedDate: '2021-01-01T00:00:00.000Z'
+slug: scale-the-universal-laws-of-growth-innovation-sustainability-and-the-pace-of-life-in-organisms-cities-economies-and-companies-by-geoffrey-west
 wordCount: 7237
 readingTimeMinutes: 33
-originalUrl: "https://docs.google.com/document/d/1M1m8o1HInGYJR3cEMYZ6TQgNmeBOWo98YC6djNnFWf0"
-source: "gdoc"
+originalUrl: https://docs.google.com/document/d/1M1m8o1HInGYJR3cEMYZ6TQgNmeBOWo98YC6djNnFWf0
+source: gdoc
 tags:
   - Science
   - Biology

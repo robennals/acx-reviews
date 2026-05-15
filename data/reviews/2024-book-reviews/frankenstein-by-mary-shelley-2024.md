@@ -1,5 +1,5 @@
 ---
-title: 'Frankenstein, by Mary Shelley'
+title: Frankenstein, by Mary Shelley
 author: Unknown
 reviewAuthor: Anonymous
 contestId: 2024-book-reviews
@@ -9,8 +9,7 @@ publishedDate: '2026-02-06T16:47:49.305Z'
 slug: frankenstein-by-mary-shelley-2024
 wordCount: 5065
 readingTimeMinutes: 23
-originalUrl: >-
-  https://docs.google.com/document/d/1QiotH3aGFgNLGqsIHTK_Plm_gem2E4l2C2ctyGJd0jY
+originalUrl: https://docs.google.com/document/d/1QiotH3aGFgNLGqsIHTK_Plm_gem2E4l2C2ctyGJd0jY
 source: gdoc
 tags:
   - Fiction

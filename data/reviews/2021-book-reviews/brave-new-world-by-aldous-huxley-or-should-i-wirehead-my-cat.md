@@ -1,5 +1,5 @@
 ---
-title: 'Brave New World by Aldous Huxley, Or, Should I wirehead my cat?'
+title: Brave New World by Aldous Huxley, Or, Should I wirehead my cat?
 author: Unknown
 reviewAuthor: Anonymous
 contestId: 2021-book-reviews
@@ -9,8 +9,7 @@ publishedDate: '2026-02-06T07:21:29.563Z'
 slug: brave-new-world-by-aldous-huxley-or-should-i-wirehead-my-cat
 wordCount: 1669
 readingTimeMinutes: 8
-originalUrl: >-
-  https://docs.google.com/document/d/1xexFJ7h0vULMDE7N77q_MIzXoerexfe_CqqGEL6hEoQ
+originalUrl: https://docs.google.com/document/d/1xexFJ7h0vULMDE7N77q_MIzXoerexfe_CqqGEL6hEoQ
 source: gdoc
 tags:
   - Fiction

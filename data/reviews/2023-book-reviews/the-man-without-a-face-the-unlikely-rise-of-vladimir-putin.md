@@ -1,16 +1,16 @@
 ---
-title: "The Man Without a Face: The Unlikely Rise of Vladimir Putin"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2023-book-reviews"
-contestName: "2023 Book Reviews"
+title: 'The Man Without a Face: The Unlikely Rise of Vladimir Putin'
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2023-book-reviews
+contestName: 2023 Book Reviews
 year: 2023
-publishedDate: "2023-01-01T00:00:00.000Z"
-slug: "the-man-without-a-face-the-unlikely-rise-of-vladimir-putin"
+publishedDate: '2023-01-01T00:00:00.000Z'
+slug: the-man-without-a-face-the-unlikely-rise-of-vladimir-putin
 wordCount: 5557
 readingTimeMinutes: 25
-originalUrl: "https://docs.google.com/document/d/1AtGIIv371v0Yu35eNsIxJr67dw4SHOiGdKrqmoKt2hg"
-source: "gdoc"
+originalUrl: https://docs.google.com/document/d/1AtGIIv371v0Yu35eNsIxJr67dw4SHOiGdKrqmoKt2hg
+source: gdoc
 tags:
   - History
   - Politics

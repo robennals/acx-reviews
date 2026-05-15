@@ -1,5 +1,5 @@
 ---
-title: 'Sadly, Porn'
+title: Sadly, Porn
 author: Unknown
 reviewAuthor: Anonymous
 contestId: 2024-book-reviews
@@ -9,8 +9,7 @@ publishedDate: '2026-02-06T16:48:56.661Z'
 slug: sadly-porn
 wordCount: 40807
 readingTimeMinutes: 182
-originalUrl: >-
-  https://docs.google.com/document/d/1GYQw3pgvhi7hqOVR-Ql629Q_8thbyHe8sSRy5voyt30
+originalUrl: https://docs.google.com/document/d/1GYQw3pgvhi7hqOVR-Ql629Q_8thbyHe8sSRy5voyt30
 source: gdoc
 tags:
   - Society

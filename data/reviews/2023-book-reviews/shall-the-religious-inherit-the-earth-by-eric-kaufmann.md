@@ -1,16 +1,16 @@
 ---
-title: "Shall the Religious Inherit the Earth? by Eric Kaufmann"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2023-book-reviews"
-contestName: "2023 Book Reviews"
+title: Shall the Religious Inherit the Earth? by Eric Kaufmann
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2023-book-reviews
+contestName: 2023 Book Reviews
 year: 2023
-publishedDate: "2023-01-01T00:00:00.000Z"
-slug: "shall-the-religious-inherit-the-earth-by-eric-kaufmann"
+publishedDate: '2023-01-01T00:00:00.000Z'
+slug: shall-the-religious-inherit-the-earth-by-eric-kaufmann
 wordCount: 3144
 readingTimeMinutes: 14
-originalUrl: "https://docs.google.com/document/d/1vci14HMZ2UEJBs6mKCZZ2vHs-jVuPSsFsiN3cAENzXU"
-source: "gdoc"
+originalUrl: https://docs.google.com/document/d/1vci14HMZ2UEJBs6mKCZZ2vHs-jVuPSsFsiN3cAENzXU
+source: gdoc
 tags:
   - Religion
   - Society

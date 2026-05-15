@@ -9,7 +9,7 @@ publishedDate: '2026-02-05T15:57:54.934Z'
 slug: exhaustion
 wordCount: 4107
 readingTimeMinutes: 19
-originalUrl: 'https://astralcodexten.substack.com/p/your-book-review-exhaustion'
+originalUrl: https://astralcodexten.substack.com/p/your-book-review-exhaustion
 source: acx
 tags:
   - Psychology

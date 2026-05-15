@@ -1,16 +1,16 @@
 ---
-title: "The Sovereign Individual by William Rees-Mogg and James Dale Davidson"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2021-book-reviews"
-contestName: "2021 Book Reviews"
+title: The Sovereign Individual by William Rees-Mogg and James Dale Davidson
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2021-book-reviews
+contestName: 2021 Book Reviews
 year: 2021
-publishedDate: "2021-01-01T00:00:00.000Z"
-slug: "the-sovereign-individual-by-william-rees-mogg-and-james-dale-davidson"
+publishedDate: '2021-01-01T00:00:00.000Z'
+slug: the-sovereign-individual-by-william-rees-mogg-and-james-dale-davidson
 wordCount: 3286
 readingTimeMinutes: 15
-originalUrl: "https://docs.google.com/document/d/1M1m8o1HInGYJR3cEMYZ6TQgNmeBOWo98YC6djNnFWf0"
-source: "gdoc"
+originalUrl: https://docs.google.com/document/d/1M1m8o1HInGYJR3cEMYZ6TQgNmeBOWo98YC6djNnFWf0
+source: gdoc
 tags:
   - Economics
   - Politics

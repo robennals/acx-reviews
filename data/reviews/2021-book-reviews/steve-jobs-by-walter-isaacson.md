@@ -1,16 +1,16 @@
 ---
-title: "Steve Jobs by Walter Isaacson"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2021-book-reviews"
-contestName: "2021 Book Reviews"
+title: Steve Jobs by Walter Isaacson
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2021-book-reviews
+contestName: 2021 Book Reviews
 year: 2021
-publishedDate: "2021-01-01T00:00:00.000Z"
-slug: "steve-jobs-by-walter-isaacson"
+publishedDate: '2021-01-01T00:00:00.000Z'
+slug: steve-jobs-by-walter-isaacson
 wordCount: 1387
 readingTimeMinutes: 7
-originalUrl: "https://docs.google.com/document/d/1M1m8o1HInGYJR3cEMYZ6TQgNmeBOWo98YC6djNnFWf0"
-source: "gdoc"
+originalUrl: https://docs.google.com/document/d/1M1m8o1HInGYJR3cEMYZ6TQgNmeBOWo98YC6djNnFWf0
+source: gdoc
 tags:
   - Technology
   - History

@@ -1,16 +1,16 @@
 ---
-title: "\"Without Marx or Jesus: the New American Revolution has begun\" by Jean-François Revel"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2023-book-reviews"
-contestName: "2023 Book Reviews"
+title: '"Without Marx or Jesus: the New American Revolution has begun" by Jean-François Revel'
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2023-book-reviews
+contestName: 2023 Book Reviews
 year: 2023
-publishedDate: "2023-01-01T00:00:00.000Z"
-slug: "without-marx-or-jesus-the-new-american-revolution-has-begun-by-jean-franois-revel"
+publishedDate: '2023-01-01T00:00:00.000Z'
+slug: without-marx-or-jesus-the-new-american-revolution-has-begun-by-jean-franois-revel
 wordCount: 5083
 readingTimeMinutes: 23
-originalUrl: "https://docs.google.com/document/d/1D2MGZ7HW1vRtOtfXYIx9BBUt6ubjEA2n06gpoHcxaFY"
-source: "gdoc"
+originalUrl: https://docs.google.com/document/d/1D2MGZ7HW1vRtOtfXYIx9BBUt6ubjEA2n06gpoHcxaFY
+source: gdoc
 tags:
   - Politics
   - History

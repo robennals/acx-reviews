@@ -1,7 +1,5 @@
 ---
-title: >-
-  From the Control Problem to RLHF – Some Dangers of Misaligned Alignment
-  Research
+title: From the Control Problem to RLHF – Some Dangers of Misaligned Alignment Research
 author: Unknown
 reviewAuthor: Anonymous
 contestId: 2025-non-book-reviews
@@ -11,8 +9,7 @@ publishedDate: '2026-02-06T16:52:48.893Z'
 slug: from-the-control-problem-to-rlhf-some-dangers-of-misaligned-alignment-research
 wordCount: 5004
 readingTimeMinutes: 23
-originalUrl: >-
-  https://docs.google.com/document/d/1d0vRSj1E93joWWvbUen2XGuDjN_mM94ybMIAADzM2fo
+originalUrl: https://docs.google.com/document/d/1d0vRSj1E93joWWvbUen2XGuDjN_mM94ybMIAADzM2fo
 source: gdoc
 tags:
   - Technology

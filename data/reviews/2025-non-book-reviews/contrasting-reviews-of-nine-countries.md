@@ -9,8 +9,7 @@ publishedDate: '2026-02-06T16:52:48.890Z'
 slug: contrasting-reviews-of-nine-countries
 wordCount: 8489
 readingTimeMinutes: 38
-originalUrl: >-
-  https://docs.google.com/document/d/1d0vRSj1E93joWWvbUen2XGuDjN_mM94ybMIAADzM2fo
+originalUrl: https://docs.google.com/document/d/1d0vRSj1E93joWWvbUen2XGuDjN_mM94ybMIAADzM2fo
 source: gdoc
 tags:
   - Society

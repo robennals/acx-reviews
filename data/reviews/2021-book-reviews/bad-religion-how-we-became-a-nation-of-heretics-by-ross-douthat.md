@@ -9,8 +9,7 @@ publishedDate: '2026-02-06T07:21:29.563Z'
 slug: bad-religion-how-we-became-a-nation-of-heretics-by-ross-douthat
 wordCount: 5982
 readingTimeMinutes: 27
-originalUrl: >-
-  https://docs.google.com/document/d/1xexFJ7h0vULMDE7N77q_MIzXoerexfe_CqqGEL6hEoQ
+originalUrl: https://docs.google.com/document/d/1xexFJ7h0vULMDE7N77q_MIzXoerexfe_CqqGEL6hEoQ
 source: gdoc
 tags:
   - Religion

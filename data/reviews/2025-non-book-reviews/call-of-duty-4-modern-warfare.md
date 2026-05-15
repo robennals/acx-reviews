@@ -9,8 +9,7 @@ publishedDate: '2026-02-06T16:57:23.282Z'
 slug: call-of-duty-4-modern-warfare
 wordCount: 4217
 readingTimeMinutes: 19
-originalUrl: >-
-  https://docs.google.com/document/d/1B3YxYxLVFjKGicaEkqvt353kt0uimn0PSUQv1PyaHuI
+originalUrl: https://docs.google.com/document/d/1B3YxYxLVFjKGicaEkqvt353kt0uimn0PSUQv1PyaHuI
 source: gdoc
 tags:
   - Politics

@@ -1,16 +1,16 @@
 ---
-title: "Where Is My Flying Car? A Memoir of Future Past by J. Storrs Hall"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2021-book-reviews"
-contestName: "2021 Book Reviews"
+title: Where Is My Flying Car? A Memoir of Future Past by J. Storrs Hall
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2021-book-reviews
+contestName: 2021 Book Reviews
 year: 2021
-publishedDate: "2021-01-01T00:00:00.000Z"
-slug: "where-is-my-flying-car-a-memoir-of-future-past-by-j-storrs-hall"
+publishedDate: '2021-01-01T00:00:00.000Z'
+slug: where-is-my-flying-car-a-memoir-of-future-past-by-j-storrs-hall
 wordCount: 6558
 readingTimeMinutes: 30
-originalUrl: "https://docs.google.com/document/d/1M1m8o1HInGYJR3cEMYZ6TQgNmeBOWo98YC6djNnFWf0"
-source: "gdoc"
+originalUrl: https://docs.google.com/document/d/1M1m8o1HInGYJR3cEMYZ6TQgNmeBOWo98YC6djNnFWf0
+source: gdoc
 tags:
   - History
   - Science

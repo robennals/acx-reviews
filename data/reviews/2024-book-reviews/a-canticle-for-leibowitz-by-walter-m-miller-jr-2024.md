@@ -1,5 +1,5 @@
 ---
-title: 'A Canticle for Leibowitz by Walter M. Miller, Jr.'
+title: A Canticle for Leibowitz by Walter M. Miller, Jr.
 author: Unknown
 reviewAuthor: Anonymous
 contestId: 2024-book-reviews
@@ -9,8 +9,7 @@ publishedDate: '2026-02-06T16:47:15.591Z'
 slug: a-canticle-for-leibowitz-by-walter-m-miller-jr-2024
 wordCount: 3037
 readingTimeMinutes: 14
-originalUrl: >-
-  https://docs.google.com/document/d/1AXmWgSbh_TFsoZuApSCSEoz57yn93CM5YYhtaO_s4W4
+originalUrl: https://docs.google.com/document/d/1AXmWgSbh_TFsoZuApSCSEoz57yn93CM5YYhtaO_s4W4
 source: gdoc
 tags:
   - Fiction

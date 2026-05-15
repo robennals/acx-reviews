@@ -9,8 +9,7 @@ publishedDate: '2026-02-06T16:55:59.406Z'
 slug: us-census-review-a-biblical-perspective
 wordCount: 2256
 readingTimeMinutes: 11
-originalUrl: >-
-  https://docs.google.com/document/d/1jYVJFIz5-aMi0LCgsC9AN6BncJDNVGaMU37QmwZ1vzA
+originalUrl: https://docs.google.com/document/d/1jYVJFIz5-aMi0LCgsC9AN6BncJDNVGaMU37QmwZ1vzA
 source: gdoc
 tags:
   - Religion

@@ -9,7 +9,7 @@ publishedDate: '2026-02-05T15:44:28.451Z'
 slug: how-children-fail
 wordCount: 4572
 readingTimeMinutes: 21
-originalUrl: 'https://astralcodexten.substack.com/p/your-book-review-how-children-fail'
+originalUrl: https://astralcodexten.substack.com/p/your-book-review-how-children-fail
 source: acx
 tags:
   - Society

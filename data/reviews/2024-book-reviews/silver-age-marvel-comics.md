@@ -1,16 +1,16 @@
 ---
-title: "Silver Age Marvel Comics"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2024-book-reviews"
-contestName: "2024 Book Reviews"
+title: Silver Age Marvel Comics
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2024-book-reviews
+contestName: 2024 Book Reviews
 year: 2024
-publishedDate: "2026-05-10T03:23:41.626Z"
-slug: "silver-age-marvel-comics"
+publishedDate: '2026-05-10T03:23:41.626Z'
+slug: silver-age-marvel-comics
 wordCount: 11497
 readingTimeMinutes: 52
-originalUrl: "https://www.astralcodexten.com/p/your-book-review-silver-age-marvel"
-source: "acx"
+originalUrl: https://www.astralcodexten.com/p/your-book-review-silver-age-marvel
+source: acx
 tags:
   - History
   - Society

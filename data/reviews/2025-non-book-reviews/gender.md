@@ -9,8 +9,7 @@ publishedDate: '2026-02-06T16:52:48.894Z'
 slug: gender
 wordCount: 6071
 readingTimeMinutes: 27
-originalUrl: >-
-  https://docs.google.com/document/d/1d0vRSj1E93joWWvbUen2XGuDjN_mM94ybMIAADzM2fo
+originalUrl: https://docs.google.com/document/d/1d0vRSj1E93joWWvbUen2XGuDjN_mM94ybMIAADzM2fo
 source: gdoc
 tags:
   - Society

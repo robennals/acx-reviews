@@ -9,8 +9,7 @@ publishedDate: '2026-02-06T07:21:29.561Z'
 slug: apocalypse-never-by-michael-shellenberger
 wordCount: 3393
 readingTimeMinutes: 16
-originalUrl: >-
-  https://docs.google.com/document/d/1xexFJ7h0vULMDE7N77q_MIzXoerexfe_CqqGEL6hEoQ
+originalUrl: https://docs.google.com/document/d/1xexFJ7h0vULMDE7N77q_MIzXoerexfe_CqqGEL6hEoQ
 source: gdoc
 tags:
   - Science

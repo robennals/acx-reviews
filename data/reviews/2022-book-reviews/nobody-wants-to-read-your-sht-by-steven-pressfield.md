@@ -9,8 +9,7 @@ publishedDate: '2026-02-06T07:23:14.485Z'
 slug: nobody-wants-to-read-your-sht-by-steven-pressfield
 wordCount: 1461
 readingTimeMinutes: 7
-originalUrl: >-
-  https://docs.google.com/document/d/1kQUUJhv-MpLawby2j4zXLZPDG6ligWd5xpIjH8UmWdw
+originalUrl: https://docs.google.com/document/d/1kQUUJhv-MpLawby2j4zXLZPDG6ligWd5xpIjH8UmWdw
 source: gdoc
 tags:
   - Society

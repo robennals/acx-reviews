@@ -9,7 +9,7 @@ publishedDate: '2026-02-05T15:43:59.133Z'
 slug: down-and-out-in-paris-and-london
 wordCount: 13591
 readingTimeMinutes: 61
-originalUrl: 'https://astralcodexten.substack.com/p/your-book-review-down-and-out-in'
+originalUrl: https://astralcodexten.substack.com/p/your-book-review-down-and-out-in
 source: acx
 tags:
   - Fiction

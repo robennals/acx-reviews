@@ -1,16 +1,16 @@
 ---
-title: "The Life of Johnny Reb: The Common Soldier of the Confederacy"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2023-book-reviews"
-contestName: "2023 Book Reviews"
+title: 'The Life of Johnny Reb: The Common Soldier of the Confederacy'
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2023-book-reviews
+contestName: 2023 Book Reviews
 year: 2023
-publishedDate: "2023-01-01T00:00:00.000Z"
-slug: "the-life-of-johnny-reb-the-common-soldier-of-the-confederacy"
+publishedDate: '2023-01-01T00:00:00.000Z'
+slug: the-life-of-johnny-reb-the-common-soldier-of-the-confederacy
 wordCount: 2186
 readingTimeMinutes: 10
-originalUrl: "https://docs.google.com/document/d/1AtGIIv371v0Yu35eNsIxJr67dw4SHOiGdKrqmoKt2hg"
-source: "gdoc"
+originalUrl: https://docs.google.com/document/d/1AtGIIv371v0Yu35eNsIxJr67dw4SHOiGdKrqmoKt2hg
+source: gdoc
 tags:
   - History
   - Society

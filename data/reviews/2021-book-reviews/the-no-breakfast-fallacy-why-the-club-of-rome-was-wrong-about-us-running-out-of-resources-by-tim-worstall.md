@@ -1,16 +1,16 @@
 ---
-title: "The No Breakfast Fallacy: Why the Club of Rome was wrong about us running out of resources by Tim Worstall"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2021-book-reviews"
-contestName: "2021 Book Reviews"
+title: 'The No Breakfast Fallacy: Why the Club of Rome was wrong about us running out of resources by Tim Worstall'
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2021-book-reviews
+contestName: 2021 Book Reviews
 year: 2021
-publishedDate: "2021-01-01T00:00:00.000Z"
-slug: "the-no-breakfast-fallacy-why-the-club-of-rome-was-wrong-about-us-running-out-of-resources-by-tim-worstall"
+publishedDate: '2021-01-01T00:00:00.000Z'
+slug: the-no-breakfast-fallacy-why-the-club-of-rome-was-wrong-about-us-running-out-of-resources-by-tim-worstall
 wordCount: 5939
 readingTimeMinutes: 27
-originalUrl: "https://docs.google.com/document/d/1M1m8o1HInGYJR3cEMYZ6TQgNmeBOWo98YC6djNnFWf0"
-source: "gdoc"
+originalUrl: https://docs.google.com/document/d/1M1m8o1HInGYJR3cEMYZ6TQgNmeBOWo98YC6djNnFWf0
+source: gdoc
 tags:
   - Economics
   - History

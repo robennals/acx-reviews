@@ -9,8 +9,7 @@ publishedDate: '2026-02-06T16:55:03.485Z'
 slug: repairing-a-fatherdaughter-relationship-as-an-adult
 wordCount: 5227
 readingTimeMinutes: 24
-originalUrl: >-
-  https://docs.google.com/document/d/1a3q0Z2tuPLLbDeg5-pfEffkajGjrfPDwE7ZMs7uaWQs
+originalUrl: https://docs.google.com/document/d/1a3q0Z2tuPLLbDeg5-pfEffkajGjrfPDwE7ZMs7uaWQs
 source: gdoc
 tags:
   - Memoir

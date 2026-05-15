@@ -1,19 +1,15 @@
 ---
-title: >-
-  Fear and Loathing in Las Vegas: A Savage Journey to the Heart of the American
-  Dream by Hunter S. Thompson
+title: 'Fear and Loathing in Las Vegas: A Savage Journey to the Heart of the American Dream by Hunter S. Thompson'
 author: Unknown
 reviewAuthor: Anonymous
 contestId: 2023-book-reviews
 contestName: 2023 Book Reviews
 year: 2023
 publishedDate: '2026-02-06T07:21:10.029Z'
-slug: >-
-  fear-and-loathing-in-las-vegas-a-savage-journey-to-the-heart-of-the-american-dream-by-hunter-s-thompson
+slug: fear-and-loathing-in-las-vegas-a-savage-journey-to-the-heart-of-the-american-dream-by-hunter-s-thompson
 wordCount: 7860
 readingTimeMinutes: 35
-originalUrl: >-
-  https://docs.google.com/document/d/10CiEI7aDL2bMIdx7yayy3vlq0TJ8dO5LGnG7yIDPiw8
+originalUrl: https://docs.google.com/document/d/10CiEI7aDL2bMIdx7yayy3vlq0TJ8dO5LGnG7yIDPiw8
 source: gdoc
 tags:
   - Fiction

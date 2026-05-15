@@ -9,7 +9,7 @@ publishedDate: '2026-02-06T07:06:12.934Z'
 slug: on-the-marble-cliffs
 wordCount: 7088
 readingTimeMinutes: 32
-originalUrl: 'https://www.astralcodexten.com/p/your-book-review-on-the-marble-cliffs'
+originalUrl: https://www.astralcodexten.com/p/your-book-review-on-the-marble-cliffs
 source: acx
 tags:
   - Fiction

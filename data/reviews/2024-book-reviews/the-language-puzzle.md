@@ -9,8 +9,7 @@ publishedDate: '2026-02-06T16:49:14.009Z'
 slug: the-language-puzzle
 wordCount: 3919
 readingTimeMinutes: 18
-originalUrl: >-
-  https://docs.google.com/document/d/14qa47TJ_Vyerx4XNgTCIh7PUZ_TOgNcU_eHm5So_zo0
+originalUrl: https://docs.google.com/document/d/14qa47TJ_Vyerx4XNgTCIh7PUZ_TOgNcU_eHm5So_zo0
 source: gdoc
 tags:
   - Science

@@ -9,7 +9,7 @@ publishedDate: '2026-02-05T15:44:11.787Z'
 slug: the-wizard-and-the-prophet
 wordCount: 5793
 readingTimeMinutes: 26
-originalUrl: 'https://astralcodexten.substack.com/p/your-book-review-the-wizard-and-the'
+originalUrl: https://astralcodexten.substack.com/p/your-book-review-the-wizard-and-the
 source: acx
 tags:
   - Science

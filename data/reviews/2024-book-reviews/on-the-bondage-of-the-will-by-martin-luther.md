@@ -1,5 +1,5 @@
 ---
-title: 'On the Bondage of the Will, by Martin Luther'
+title: On the Bondage of the Will, by Martin Luther
 author: Unknown
 reviewAuthor: Anonymous
 contestId: 2024-book-reviews
@@ -9,8 +9,7 @@ publishedDate: '2026-02-06T16:48:20.712Z'
 slug: on-the-bondage-of-the-will-by-martin-luther
 wordCount: 10129
 readingTimeMinutes: 46
-originalUrl: >-
-  https://docs.google.com/document/d/1cp6iw5OEyDjnD_viZo-KL0Zv4jwQnMXtE4yIovfVAco
+originalUrl: https://docs.google.com/document/d/1cp6iw5OEyDjnD_viZo-KL0Zv4jwQnMXtE4yIovfVAco
 source: gdoc
 tags:
   - Religion

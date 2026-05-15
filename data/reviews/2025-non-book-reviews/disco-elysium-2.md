@@ -9,8 +9,7 @@ publishedDate: '2025-01-01T00:00:00.000Z'
 slug: disco-elysium-2
 wordCount: 5584
 readingTimeMinutes: 25
-originalUrl: >-
-  https://docs.google.com/document/d/1B3YxYxLVFjKGicaEkqvt353kt0uimn0PSUQv1PyaHuI
+originalUrl: https://docs.google.com/document/d/1B3YxYxLVFjKGicaEkqvt353kt0uimn0PSUQv1PyaHuI
 source: gdoc
 tags:
   - Fiction

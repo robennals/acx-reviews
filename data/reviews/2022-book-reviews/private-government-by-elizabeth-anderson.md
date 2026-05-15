@@ -9,8 +9,7 @@ publishedDate: '2026-02-06T07:23:14.487Z'
 slug: private-government-by-elizabeth-anderson
 wordCount: 5378
 readingTimeMinutes: 24
-originalUrl: >-
-  https://docs.google.com/document/d/1kQUUJhv-MpLawby2j4zXLZPDG6ligWd5xpIjH8UmWdw
+originalUrl: https://docs.google.com/document/d/1kQUUJhv-MpLawby2j4zXLZPDG6ligWd5xpIjH8UmWdw
 source: gdoc
 tags:
   - Politics

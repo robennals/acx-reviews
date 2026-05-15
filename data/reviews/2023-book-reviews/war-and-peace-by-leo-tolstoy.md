@@ -1,5 +1,5 @@
 ---
-title: 'War and Peace, by Leo Tolstoy'
+title: War and Peace, by Leo Tolstoy
 author: Unknown
 reviewAuthor: Anonymous
 contestId: 2023-book-reviews
@@ -9,8 +9,7 @@ publishedDate: '2023-01-01T00:00:00.000Z'
 slug: war-and-peace-by-leo-tolstoy
 wordCount: 8411
 readingTimeMinutes: 38
-originalUrl: >-
-  https://docs.google.com/document/d/1D2MGZ7HW1vRtOtfXYIx9BBUt6ubjEA2n06gpoHcxaFY
+originalUrl: https://docs.google.com/document/d/1D2MGZ7HW1vRtOtfXYIx9BBUt6ubjEA2n06gpoHcxaFY
 source: gdoc
 tags:
   - Fiction

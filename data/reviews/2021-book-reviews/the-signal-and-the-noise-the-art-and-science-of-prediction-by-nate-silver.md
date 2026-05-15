@@ -1,16 +1,16 @@
 ---
-title: "The Signal and the Noise: The Art and Science of Prediction by Nate Silver"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2021-book-reviews"
-contestName: "2021 Book Reviews"
+title: 'The Signal and the Noise: The Art and Science of Prediction by Nate Silver'
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2021-book-reviews
+contestName: 2021 Book Reviews
 year: 2021
-publishedDate: "2021-01-01T00:00:00.000Z"
-slug: "the-signal-and-the-noise-the-art-and-science-of-prediction-by-nate-silver"
+publishedDate: '2021-01-01T00:00:00.000Z'
+slug: the-signal-and-the-noise-the-art-and-science-of-prediction-by-nate-silver
 wordCount: 2729
 readingTimeMinutes: 13
-originalUrl: "https://docs.google.com/document/d/1M1m8o1HInGYJR3cEMYZ6TQgNmeBOWo98YC6djNnFWf0"
-source: "gdoc"
+originalUrl: https://docs.google.com/document/d/1M1m8o1HInGYJR3cEMYZ6TQgNmeBOWo98YC6djNnFWf0
+source: gdoc
 tags:
   - Science
   - Politics

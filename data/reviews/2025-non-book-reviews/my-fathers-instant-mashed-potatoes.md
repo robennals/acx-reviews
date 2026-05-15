@@ -9,7 +9,7 @@ publishedDate: '2026-02-06T16:58:41.435Z'
 slug: my-fathers-instant-mashed-potatoes
 wordCount: 4457
 readingTimeMinutes: 20
-originalUrl: 'https://www.astralcodexten.com/p/your-review-my-fathers-instant-mashed'
+originalUrl: https://www.astralcodexten.com/p/your-review-my-fathers-instant-mashed
 source: acx
 tags:
   - Philosophy

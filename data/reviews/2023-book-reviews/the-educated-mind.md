@@ -9,7 +9,7 @@ publishedDate: '2026-02-06T07:06:08.065Z'
 slug: the-educated-mind
 wordCount: 24027
 readingTimeMinutes: 107
-originalUrl: 'https://www.astralcodexten.com/p/your-book-review-the-educated-mind'
+originalUrl: https://www.astralcodexten.com/p/your-book-review-the-educated-mind
 source: acx
 tags:
   - Society

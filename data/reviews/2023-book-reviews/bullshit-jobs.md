@@ -9,8 +9,7 @@ publishedDate: '2026-02-06T07:21:10.025Z'
 slug: bullshit-jobs
 wordCount: 6104
 readingTimeMinutes: 28
-originalUrl: >-
-  https://docs.google.com/document/d/10CiEI7aDL2bMIdx7yayy3vlq0TJ8dO5LGnG7yIDPiw8
+originalUrl: https://docs.google.com/document/d/10CiEI7aDL2bMIdx7yayy3vlq0TJ8dO5LGnG7yIDPiw8
 source: gdoc
 tags:
   - Economics

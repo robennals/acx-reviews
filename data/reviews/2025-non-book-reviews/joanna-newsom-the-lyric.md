@@ -9,8 +9,7 @@ publishedDate: '2026-02-06T16:57:48.927Z'
 slug: joanna-newsom-the-lyric
 wordCount: 3991
 readingTimeMinutes: 18
-originalUrl: >-
-  https://docs.google.com/document/d/1hjIUcKi-vIM9RGRZDWPRyUtzZLlVrpaY6Jy81iZVYi4
+originalUrl: https://docs.google.com/document/d/1hjIUcKi-vIM9RGRZDWPRyUtzZLlVrpaY6Jy81iZVYi4
 source: gdoc
 tags:
   - Philosophy

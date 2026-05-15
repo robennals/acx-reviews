@@ -9,8 +9,7 @@ publishedDate: '2026-02-06T07:22:32.829Z'
 slug: the-mathematics-of-poker-by-bill-chen-and-jerrod-ankenman
 wordCount: 2789
 readingTimeMinutes: 13
-originalUrl: >-
-  https://docs.google.com/document/d/100kMdSVFviZSSBvUyyEQPMNlvLptVQxHFD9i9wGuBWs
+originalUrl: https://docs.google.com/document/d/100kMdSVFviZSSBvUyyEQPMNlvLptVQxHFD9i9wGuBWs
 source: gdoc
 tags:
   - Science

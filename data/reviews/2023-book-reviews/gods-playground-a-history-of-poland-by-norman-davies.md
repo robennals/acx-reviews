@@ -9,8 +9,7 @@ publishedDate: '2026-02-06T07:21:10.030Z'
 slug: gods-playground-a-history-of-poland-by-norman-davies
 wordCount: 3212
 readingTimeMinutes: 15
-originalUrl: >-
-  https://docs.google.com/document/d/10CiEI7aDL2bMIdx7yayy3vlq0TJ8dO5LGnG7yIDPiw8
+originalUrl: https://docs.google.com/document/d/10CiEI7aDL2bMIdx7yayy3vlq0TJ8dO5LGnG7yIDPiw8
 source: gdoc
 tags:
   - History

@@ -1,16 +1,16 @@
 ---
-title: "The Scythian Empire: Central Eurasia and the birth of the classical age from Persia to China, by Christopher I. Beckwith"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2023-book-reviews"
-contestName: "2023 Book Reviews"
+title: 'The Scythian Empire: Central Eurasia and the birth of the classical age from Persia to China, by Christopher I. Beckwith'
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2023-book-reviews
+contestName: 2023 Book Reviews
 year: 2023
-publishedDate: "2023-01-01T00:00:00.000Z"
-slug: "the-scythian-empire-central-eurasia-and-the-birth-of-the-classical-age-from-persia-to-china-by-christopher-i-beckwith"
+publishedDate: '2023-01-01T00:00:00.000Z'
+slug: the-scythian-empire-central-eurasia-and-the-birth-of-the-classical-age-from-persia-to-china-by-christopher-i-beckwith
 wordCount: 2728
 readingTimeMinutes: 13
-originalUrl: "https://docs.google.com/document/d/1AtGIIv371v0Yu35eNsIxJr67dw4SHOiGdKrqmoKt2hg"
-source: "gdoc"
+originalUrl: https://docs.google.com/document/d/1AtGIIv371v0Yu35eNsIxJr67dw4SHOiGdKrqmoKt2hg
+source: gdoc
 tags:
   - History
   - Philosophy

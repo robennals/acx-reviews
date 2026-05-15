@@ -1,16 +1,16 @@
 ---
-title: "Power, Sex, Suicide"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2023-book-reviews"
-contestName: "2023 Book Reviews"
+title: Power, Sex, Suicide
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2023-book-reviews
+contestName: 2023 Book Reviews
 year: 2023
-publishedDate: "2023-01-01T00:00:00.000Z"
-slug: "power-sex-suicide"
+publishedDate: '2023-01-01T00:00:00.000Z'
+slug: power-sex-suicide
 wordCount: 5383
 readingTimeMinutes: 24
-originalUrl: "https://docs.google.com/document/d/1vci14HMZ2UEJBs6mKCZZ2vHs-jVuPSsFsiN3cAENzXU"
-source: "gdoc"
+originalUrl: https://docs.google.com/document/d/1vci14HMZ2UEJBs6mKCZZ2vHs-jVuPSsFsiN3cAENzXU
+source: gdoc
 tags:
   - Biology
   - History

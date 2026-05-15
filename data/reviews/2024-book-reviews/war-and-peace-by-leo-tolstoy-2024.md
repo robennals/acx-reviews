@@ -9,8 +9,7 @@ publishedDate: '2026-02-06T16:49:50.819Z'
 slug: war-and-peace-by-leo-tolstoy-2024
 wordCount: 4463
 readingTimeMinutes: 20
-originalUrl: >-
-  https://docs.google.com/document/d/1Ki5XsE0jkxZtd2XAeyTAJw1ZjLh2Cu-matUYKAhA6-s
+originalUrl: https://docs.google.com/document/d/1Ki5XsE0jkxZtd2XAeyTAJw1ZjLh2Cu-matUYKAhA6-s
 source: gdoc
 tags:
   - Fiction

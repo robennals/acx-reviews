@@ -1,16 +1,16 @@
 ---
-title: "The Pale King"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2024-book-reviews"
-contestName: "2024 Book Reviews"
+title: The Pale King
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2024-book-reviews
+contestName: 2024 Book Reviews
 year: 2024
-publishedDate: "2026-05-10T03:23:48.081Z"
-slug: "the-pale-king"
+publishedDate: '2026-05-10T03:23:48.081Z'
+slug: the-pale-king
 wordCount: 6456
 readingTimeMinutes: 29
-originalUrl: "https://www.astralcodexten.com/p/your-book-review-the-pale-king"
-source: "acx"
+originalUrl: https://www.astralcodexten.com/p/your-book-review-the-pale-king
+source: acx
 tags:
   - Fiction
   - Philosophy

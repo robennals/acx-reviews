@@ -9,8 +9,7 @@ publishedDate: '2026-02-06T07:22:32.824Z'
 slug: the-eighteenth-brumaire-of-louis-napoleon-by-karl-marx
 wordCount: 16958
 readingTimeMinutes: 76
-originalUrl: >-
-  https://docs.google.com/document/d/100kMdSVFviZSSBvUyyEQPMNlvLptVQxHFD9i9wGuBWs
+originalUrl: https://docs.google.com/document/d/100kMdSVFviZSSBvUyyEQPMNlvLptVQxHFD9i9wGuBWs
 source: gdoc
 tags:
   - History

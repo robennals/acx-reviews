@@ -1,5 +1,5 @@
 ---
-title: "Egypt's Golden Couple: When Akhenaten and Nefertiti Were Gods on Earth by John and Colleen Darnell"
+title: 'Egypt''s Golden Couple: When Akhenaten and Nefertiti Were Gods on Earth by John and Colleen Darnell'
 author: Unknown
 reviewAuthor: Anonymous
 contestId: 2024-book-reviews
@@ -9,8 +9,7 @@ publishedDate: '2026-02-06T16:47:49.303Z'
 slug: egypts-golden-couple-when-akhenaten-and-nefertiti-were-gods-on-earth-by-john-and-colleen-darnell
 wordCount: 6523
 readingTimeMinutes: 29
-originalUrl: >-
-  https://docs.google.com/document/d/1QiotH3aGFgNLGqsIHTK_Plm_gem2E4l2C2ctyGJd0jY
+originalUrl: https://docs.google.com/document/d/1QiotH3aGFgNLGqsIHTK_Plm_gem2E4l2C2ctyGJd0jY
 source: gdoc
 tags:
   - History

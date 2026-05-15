@@ -9,8 +9,7 @@ publishedDate: '2026-02-06T07:21:54.185Z'
 slug: whiteshift-populism-immigration-and-the-future-of-white-majorities
 wordCount: 5362
 readingTimeMinutes: 24
-originalUrl: >-
-  https://docs.google.com/document/d/1hFzjXliCAWjvheY-8Qd2fhbF79LnX0Xg6R9eqk9yIyI
+originalUrl: https://docs.google.com/document/d/1hFzjXliCAWjvheY-8Qd2fhbF79LnX0Xg6R9eqk9yIyI
 source: gdoc
 tags:
   - Politics

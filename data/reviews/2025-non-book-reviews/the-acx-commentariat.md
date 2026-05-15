@@ -9,7 +9,7 @@ publishedDate: '2026-02-06T16:58:33.192Z'
 slug: the-acx-commentariat
 wordCount: 10085
 readingTimeMinutes: 45
-originalUrl: 'https://www.astralcodexten.com/p/your-review-the-astral-codex-ten'
+originalUrl: https://www.astralcodexten.com/p/your-review-the-astral-codex-ten
 source: acx
 tags:
   - Society

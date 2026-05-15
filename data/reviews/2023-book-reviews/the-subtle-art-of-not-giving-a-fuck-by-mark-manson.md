@@ -1,16 +1,16 @@
 ---
-title: "The Subtle Art of Not Giving a Fuck, by Mark Manson"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2023-book-reviews"
-contestName: "2023 Book Reviews"
+title: The Subtle Art of Not Giving a Fuck, by Mark Manson
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2023-book-reviews
+contestName: 2023 Book Reviews
 year: 2023
-publishedDate: "2023-01-01T00:00:00.000Z"
-slug: "the-subtle-art-of-not-giving-a-fuck-by-mark-manson"
+publishedDate: '2023-01-01T00:00:00.000Z'
+slug: the-subtle-art-of-not-giving-a-fuck-by-mark-manson
 wordCount: 2877
 readingTimeMinutes: 13
-originalUrl: "https://docs.google.com/document/d/1AtGIIv371v0Yu35eNsIxJr67dw4SHOiGdKrqmoKt2hg"
-source: "gdoc"
+originalUrl: https://docs.google.com/document/d/1AtGIIv371v0Yu35eNsIxJr67dw4SHOiGdKrqmoKt2hg
+source: gdoc
 tags:
   - Philosophy
   - Psychology

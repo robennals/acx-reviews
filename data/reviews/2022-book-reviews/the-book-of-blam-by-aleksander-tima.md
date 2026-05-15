@@ -9,8 +9,7 @@ publishedDate: '2026-02-06T07:22:32.818Z'
 slug: the-book-of-blam-by-aleksander-tima
 wordCount: 5299
 readingTimeMinutes: 24
-originalUrl: >-
-  https://docs.google.com/document/d/100kMdSVFviZSSBvUyyEQPMNlvLptVQxHFD9i9wGuBWs
+originalUrl: https://docs.google.com/document/d/100kMdSVFviZSSBvUyyEQPMNlvLptVQxHFD9i9wGuBWs
 source: gdoc
 tags:
   - Fiction

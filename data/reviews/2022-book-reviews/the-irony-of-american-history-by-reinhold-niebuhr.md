@@ -9,8 +9,7 @@ publishedDate: '2026-02-06T07:22:32.827Z'
 slug: the-irony-of-american-history-by-reinhold-niebuhr
 wordCount: 6533
 readingTimeMinutes: 30
-originalUrl: >-
-  https://docs.google.com/document/d/100kMdSVFviZSSBvUyyEQPMNlvLptVQxHFD9i9wGuBWs
+originalUrl: https://docs.google.com/document/d/100kMdSVFviZSSBvUyyEQPMNlvLptVQxHFD9i9wGuBWs
 source: gdoc
 tags:
   - History

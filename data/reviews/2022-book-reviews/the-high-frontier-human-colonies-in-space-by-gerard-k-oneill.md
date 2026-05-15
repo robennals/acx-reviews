@@ -9,8 +9,7 @@ publishedDate: '2026-02-06T07:22:32.826Z'
 slug: the-high-frontier-human-colonies-in-space-by-gerard-k-oneill
 wordCount: 2087
 readingTimeMinutes: 10
-originalUrl: >-
-  https://docs.google.com/document/d/100kMdSVFviZSSBvUyyEQPMNlvLptVQxHFD9i9wGuBWs
+originalUrl: https://docs.google.com/document/d/100kMdSVFviZSSBvUyyEQPMNlvLptVQxHFD9i9wGuBWs
 source: gdoc
 tags:
   - Science

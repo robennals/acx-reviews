@@ -9,8 +9,7 @@ publishedDate: '2026-02-06T16:48:20.710Z'
 slug: misbelief-what-makes-rational-people-believe-irrational-things-by-dan-ariely
 wordCount: 4245
 readingTimeMinutes: 19
-originalUrl: >-
-  https://docs.google.com/document/d/1cp6iw5OEyDjnD_viZo-KL0Zv4jwQnMXtE4yIovfVAco
+originalUrl: https://docs.google.com/document/d/1cp6iw5OEyDjnD_viZo-KL0Zv4jwQnMXtE4yIovfVAco
 source: gdoc
 tags:
   - Psychology

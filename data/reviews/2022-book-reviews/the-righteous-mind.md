@@ -9,7 +9,7 @@ publishedDate: '2026-02-05T15:57:47.618Z'
 slug: the-righteous-mind
 wordCount: 11986
 readingTimeMinutes: 54
-originalUrl: 'https://astralcodexten.substack.com/p/your-book-review-the-righteous-mind'
+originalUrl: https://astralcodexten.substack.com/p/your-book-review-the-righteous-mind
 source: acx
 tags:
   - Psychology

@@ -9,8 +9,7 @@ publishedDate: '2026-02-06T16:49:50.816Z'
 slug: the-sunset-limited
 wordCount: 6038
 readingTimeMinutes: 27
-originalUrl: >-
-  https://docs.google.com/document/d/1Ki5XsE0jkxZtd2XAeyTAJw1ZjLh2Cu-matUYKAhA6-s
+originalUrl: https://docs.google.com/document/d/1Ki5XsE0jkxZtd2XAeyTAJw1ZjLh2Cu-matUYKAhA6-s
 source: gdoc
 tags:
   - Fiction

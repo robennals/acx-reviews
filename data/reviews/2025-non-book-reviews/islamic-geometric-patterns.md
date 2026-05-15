@@ -9,7 +9,7 @@ publishedDate: '2026-02-06T16:58:37.325Z'
 slug: islamic-geometric-patterns
 wordCount: 5386
 readingTimeMinutes: 24
-originalUrl: 'https://www.astralcodexten.com/p/your-review-islamic-geometric-patterns'
+originalUrl: https://www.astralcodexten.com/p/your-review-islamic-geometric-patterns
 source: acx
 tags:
   - History

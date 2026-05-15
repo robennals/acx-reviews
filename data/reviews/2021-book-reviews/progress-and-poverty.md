@@ -9,7 +9,7 @@ publishedDate: '2026-02-05T15:43:56.979Z'
 slug: progress-and-poverty
 wordCount: 18646
 readingTimeMinutes: 83
-originalUrl: 'https://astralcodexten.substack.com/p/your-book-review-progress-and-poverty'
+originalUrl: https://astralcodexten.substack.com/p/your-book-review-progress-and-poverty
 source: acx
 tags:
   - Economics

@@ -9,7 +9,7 @@ publishedDate: '2026-02-05T15:57:59.684Z'
 slug: kora-in-hell
 wordCount: 3202
 readingTimeMinutes: 15
-originalUrl: 'https://astralcodexten.substack.com/p/your-book-review-kora-in-hell'
+originalUrl: https://astralcodexten.substack.com/p/your-book-review-kora-in-hell
 source: acx
 tags:
   - Fiction

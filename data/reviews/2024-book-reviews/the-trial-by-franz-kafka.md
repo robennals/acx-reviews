@@ -1,5 +1,5 @@
 ---
-title: 'The Trial, by Franz Kafka'
+title: The Trial, by Franz Kafka
 author: Unknown
 reviewAuthor: Anonymous
 contestId: 2024-book-reviews
@@ -9,8 +9,7 @@ publishedDate: '2026-02-06T16:49:50.816Z'
 slug: the-trial-by-franz-kafka
 wordCount: 4207
 readingTimeMinutes: 19
-originalUrl: >-
-  https://docs.google.com/document/d/1Ki5XsE0jkxZtd2XAeyTAJw1ZjLh2Cu-matUYKAhA6-s
+originalUrl: https://docs.google.com/document/d/1Ki5XsE0jkxZtd2XAeyTAJw1ZjLh2Cu-matUYKAhA6-s
 source: gdoc
 tags:
   - Fiction

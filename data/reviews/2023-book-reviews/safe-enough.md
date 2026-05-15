@@ -9,7 +9,7 @@ publishedDate: '2026-02-06T07:06:03.119Z'
 slug: safe-enough
 wordCount: 5005
 readingTimeMinutes: 23
-originalUrl: 'https://www.astralcodexten.com/p/your-book-review-safe-enough'
+originalUrl: https://www.astralcodexten.com/p/your-book-review-safe-enough
 source: acx
 tags:
   - Technology

@@ -1,16 +1,16 @@
 ---
-title: "The Smartest Guys in the Room: The Amazing Rise and Scandalous Fall of Enron by Bethany McLean and Peter Elkind"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2021-book-reviews"
-contestName: "2021 Book Reviews"
+title: 'The Smartest Guys in the Room: The Amazing Rise and Scandalous Fall of Enron by Bethany McLean and Peter Elkind'
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2021-book-reviews
+contestName: 2021 Book Reviews
 year: 2021
-publishedDate: "2021-01-01T00:00:00.000Z"
-slug: "the-smartest-guys-in-the-room-the-amazing-rise-and-scandalous-fall-of-enron-by-bethany-mclean-and-peter-elkind"
+publishedDate: '2021-01-01T00:00:00.000Z'
+slug: the-smartest-guys-in-the-room-the-amazing-rise-and-scandalous-fall-of-enron-by-bethany-mclean-and-peter-elkind
 wordCount: 4400
 readingTimeMinutes: 20
-originalUrl: "https://docs.google.com/document/d/1M1m8o1HInGYJR3cEMYZ6TQgNmeBOWo98YC6djNnFWf0"
-source: "gdoc"
+originalUrl: https://docs.google.com/document/d/1M1m8o1HInGYJR3cEMYZ6TQgNmeBOWo98YC6djNnFWf0
+source: gdoc
 tags:
   - History
   - Economics

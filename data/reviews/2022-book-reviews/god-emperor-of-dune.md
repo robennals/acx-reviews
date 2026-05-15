@@ -9,7 +9,7 @@ publishedDate: '2026-02-05T15:57:57.331Z'
 slug: god-emperor-of-dune
 wordCount: 5095
 readingTimeMinutes: 23
-originalUrl: 'https://astralcodexten.substack.com/p/your-book-review-god-emperor-of-dune'
+originalUrl: https://astralcodexten.substack.com/p/your-book-review-god-emperor-of-dune
 source: acx
 tags:
   - Fiction

@@ -9,8 +9,7 @@ publishedDate: '2026-02-06T07:21:29.567Z'
 slug: fantasyland
 wordCount: 2915
 readingTimeMinutes: 13
-originalUrl: >-
-  https://docs.google.com/document/d/1xexFJ7h0vULMDE7N77q_MIzXoerexfe_CqqGEL6hEoQ
+originalUrl: https://docs.google.com/document/d/1xexFJ7h0vULMDE7N77q_MIzXoerexfe_CqqGEL6hEoQ
 source: gdoc
 tags:
   - History

@@ -9,8 +9,7 @@ publishedDate: '2026-02-06T07:24:08.686Z'
 slug: a-connecticut-yankee-in-king-arthurs-court-by-mark-twain
 wordCount: 4514
 readingTimeMinutes: 21
-originalUrl: >-
-  https://docs.google.com/document/d/1pRQbRbEUwSH_jm94PI_ij-88swat7vQ4iNaNp6gd39g
+originalUrl: https://docs.google.com/document/d/1pRQbRbEUwSH_jm94PI_ij-88swat7vQ4iNaNp6gd39g
 source: gdoc
 tags:
   - Fiction

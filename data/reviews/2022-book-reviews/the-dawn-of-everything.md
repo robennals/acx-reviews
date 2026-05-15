@@ -9,7 +9,7 @@ publishedDate: '2026-02-05T15:57:25.535Z'
 slug: the-dawn-of-everything
 wordCount: 9501
 readingTimeMinutes: 43
-originalUrl: 'https://astralcodexten.substack.com/p/your-book-review-the-dawn-of-everything'
+originalUrl: https://astralcodexten.substack.com/p/your-book-review-the-dawn-of-everything
 source: acx
 tags:
   - History

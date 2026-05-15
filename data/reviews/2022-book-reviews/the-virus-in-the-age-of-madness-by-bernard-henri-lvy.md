@@ -9,8 +9,7 @@ publishedDate: '2026-02-06T07:21:54.174Z'
 slug: the-virus-in-the-age-of-madness-by-bernard-henri-lvy
 wordCount: 3845
 readingTimeMinutes: 18
-originalUrl: >-
-  https://docs.google.com/document/d/1hFzjXliCAWjvheY-8Qd2fhbF79LnX0Xg6R9eqk9yIyI
+originalUrl: https://docs.google.com/document/d/1hFzjXliCAWjvheY-8Qd2fhbF79LnX0Xg6R9eqk9yIyI
 source: gdoc
 tags:
   - Society

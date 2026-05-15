@@ -1,16 +1,16 @@
 ---
-title: "How The War Was Won"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2024-book-reviews"
-contestName: "2024 Book Reviews"
+title: How The War Was Won
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2024-book-reviews
+contestName: 2024 Book Reviews
 year: 2024
-publishedDate: "2026-05-10T03:23:26.338Z"
-slug: "how-the-war-was-won"
+publishedDate: '2026-05-10T03:23:26.338Z'
+slug: how-the-war-was-won
 wordCount: 5296
 readingTimeMinutes: 24
-originalUrl: "https://www.astralcodexten.com/p/your-book-review-how-the-war-was"
-source: "acx"
+originalUrl: https://www.astralcodexten.com/p/your-book-review-how-the-war-was
+source: acx
 tags:
   - History
   - Society

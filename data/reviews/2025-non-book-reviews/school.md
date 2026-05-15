@@ -9,7 +9,7 @@ publishedDate: '2026-02-06T16:58:49.957Z'
 slug: school
 wordCount: 7972
 readingTimeMinutes: 36
-originalUrl: 'https://www.astralcodexten.com/p/your-review-school'
+originalUrl: https://www.astralcodexten.com/p/your-review-school
 source: acx
 tags:
   - Society

@@ -9,8 +9,7 @@ publishedDate: '2026-02-06T07:22:32.825Z'
 slug: the-extended-mind-by-annie-murphy-paul
 wordCount: 5243
 readingTimeMinutes: 24
-originalUrl: >-
-  https://docs.google.com/document/d/100kMdSVFviZSSBvUyyEQPMNlvLptVQxHFD9i9wGuBWs
+originalUrl: https://docs.google.com/document/d/100kMdSVFviZSSBvUyyEQPMNlvLptVQxHFD9i9wGuBWs
 source: gdoc
 tags:
   - Psychology

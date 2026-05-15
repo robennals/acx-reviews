@@ -9,7 +9,7 @@ publishedDate: '2026-02-06T07:06:00.853Z'
 slug: public-citizens
 wordCount: 5438
 readingTimeMinutes: 25
-originalUrl: 'https://www.astralcodexten.com/p/your-book-review-public-citizens'
+originalUrl: https://www.astralcodexten.com/p/your-book-review-public-citizens
 source: acx
 tags:
   - Politics

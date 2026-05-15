@@ -1,16 +1,16 @@
 ---
-title: "Why Does He Do That?"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2023-book-reviews"
-contestName: "2023 Book Reviews"
+title: Why Does He Do That?
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2023-book-reviews
+contestName: 2023 Book Reviews
 year: 2023
-publishedDate: "2023-01-01T00:00:00.000Z"
-slug: "why-does-he-do-that"
+publishedDate: '2023-01-01T00:00:00.000Z'
+slug: why-does-he-do-that
 wordCount: 10462
 readingTimeMinutes: 47
-originalUrl: "https://docs.google.com/document/d/1D2MGZ7HW1vRtOtfXYIx9BBUt6ubjEA2n06gpoHcxaFY"
-source: "gdoc"
+originalUrl: https://docs.google.com/document/d/1D2MGZ7HW1vRtOtfXYIx9BBUt6ubjEA2n06gpoHcxaFY
+source: gdoc
 tags:
   - Psychology
   - Society

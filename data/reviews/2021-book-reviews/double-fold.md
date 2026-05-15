@@ -9,7 +9,7 @@ publishedDate: '2026-02-05T15:44:09.704Z'
 slug: double-fold
 wordCount: 6921
 readingTimeMinutes: 31
-originalUrl: 'https://astralcodexten.substack.com/p/your-book-review-double-fold'
+originalUrl: https://astralcodexten.substack.com/p/your-book-review-double-fold
 source: acx
 tags:
   - History

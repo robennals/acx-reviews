@@ -9,8 +9,7 @@ publishedDate: '2026-02-06T16:47:49.303Z'
 slug: elon-musk-by-walter-isaacson
 wordCount: 3561
 readingTimeMinutes: 16
-originalUrl: >-
-  https://docs.google.com/document/d/1QiotH3aGFgNLGqsIHTK_Plm_gem2E4l2C2ctyGJd0jY
+originalUrl: https://docs.google.com/document/d/1QiotH3aGFgNLGqsIHTK_Plm_gem2E4l2C2ctyGJd0jY
 source: gdoc
 tags:
   - Memoir

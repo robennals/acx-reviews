@@ -9,7 +9,7 @@ publishedDate: '2026-02-05T15:57:50.046Z'
 slug: society-of-the-spectacle
 wordCount: 9640
 readingTimeMinutes: 43
-originalUrl: 'https://astralcodexten.substack.com/p/your-book-review-the-society-of-the'
+originalUrl: https://astralcodexten.substack.com/p/your-book-review-the-society-of-the
 source: acx
 tags:
   - Philosophy

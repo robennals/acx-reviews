@@ -9,7 +9,7 @@ publishedDate: '2026-02-05T15:44:18.041Z'
 slug: addiction-by-design
 wordCount: 5183
 readingTimeMinutes: 24
-originalUrl: 'https://astralcodexten.substack.com/p/your-book-review-addiction-by-design'
+originalUrl: https://astralcodexten.substack.com/p/your-book-review-addiction-by-design
 source: acx
 tags:
   - Psychology

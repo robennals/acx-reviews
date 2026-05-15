@@ -9,8 +9,7 @@ publishedDate: '2026-02-06T16:48:56.662Z'
 slug: savage-money
 wordCount: 5444
 readingTimeMinutes: 25
-originalUrl: >-
-  https://docs.google.com/document/d/1GYQw3pgvhi7hqOVR-Ql629Q_8thbyHe8sSRy5voyt30
+originalUrl: https://docs.google.com/document/d/1GYQw3pgvhi7hqOVR-Ql629Q_8thbyHe8sSRy5voyt30
 source: gdoc
 tags:
   - Economics

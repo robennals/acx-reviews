@@ -1,5 +1,5 @@
 ---
-title: 'Who We Are and How We Got Here, by David Reich'
+title: Who We Are and How We Got Here, by David Reich
 author: Unknown
 reviewAuthor: Anonymous
 contestId: 2024-book-reviews
@@ -9,8 +9,7 @@ publishedDate: '2026-02-06T16:49:50.823Z'
 slug: who-we-are-and-how-we-got-here-by-david-reich
 wordCount: 7215
 readingTimeMinutes: 33
-originalUrl: >-
-  https://docs.google.com/document/d/1Ki5XsE0jkxZtd2XAeyTAJw1ZjLh2Cu-matUYKAhA6-s
+originalUrl: https://docs.google.com/document/d/1Ki5XsE0jkxZtd2XAeyTAJw1ZjLh2Cu-matUYKAhA6-s
 source: gdoc
 tags:
   - Biology

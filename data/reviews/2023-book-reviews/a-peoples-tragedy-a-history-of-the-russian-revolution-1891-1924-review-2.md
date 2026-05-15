@@ -9,8 +9,7 @@ publishedDate: '2026-02-06T07:21:10.019Z'
 slug: a-peoples-tragedy-a-history-of-the-russian-revolution-1891-1924-review-2
 wordCount: 17107
 readingTimeMinutes: 77
-originalUrl: >-
-  https://docs.google.com/document/d/10CiEI7aDL2bMIdx7yayy3vlq0TJ8dO5LGnG7yIDPiw8
+originalUrl: https://docs.google.com/document/d/10CiEI7aDL2bMIdx7yayy3vlq0TJ8dO5LGnG7yIDPiw8
 source: gdoc
 tags:
   - History

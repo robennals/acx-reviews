@@ -1,5 +1,5 @@
 ---
-title: 'Human Sexuality, reviewed.'
+title: Human Sexuality, reviewed.
 author: Unknown
 reviewAuthor: Anonymous
 contestId: 2025-non-book-reviews
@@ -9,8 +9,7 @@ publishedDate: '2026-02-06T16:52:48.903Z'
 slug: human-sexuality-reviewed
 wordCount: 6689
 readingTimeMinutes: 30
-originalUrl: >-
-  https://docs.google.com/document/d/1d0vRSj1E93joWWvbUen2XGuDjN_mM94ybMIAADzM2fo
+originalUrl: https://docs.google.com/document/d/1d0vRSj1E93joWWvbUen2XGuDjN_mM94ybMIAADzM2fo
 source: gdoc
 tags:
   - Biology

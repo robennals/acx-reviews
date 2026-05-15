@@ -1,16 +1,16 @@
 ---
-title: "How to Invent Everything: Rebuild All of Civilisation (with 96% fewer catastrophes this time) by Ryan North"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2023-book-reviews"
-contestName: "2023 Book Reviews"
+title: 'How to Invent Everything: Rebuild All of Civilisation (with 96% fewer catastrophes this time) by Ryan North'
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2023-book-reviews
+contestName: 2023 Book Reviews
 year: 2023
-publishedDate: "2023-01-01T00:00:00.000Z"
-slug: "how-to-invent-everything-rebuild-all-of-civilisation-with-96-fewer-catastrophes-this-time-by-ryan-north"
+publishedDate: '2023-01-01T00:00:00.000Z'
+slug: how-to-invent-everything-rebuild-all-of-civilisation-with-96-fewer-catastrophes-this-time-by-ryan-north
 wordCount: 2164
 readingTimeMinutes: 10
-originalUrl: "https://docs.google.com/document/d/1vci14HMZ2UEJBs6mKCZZ2vHs-jVuPSsFsiN3cAENzXU"
-source: "gdoc"
+originalUrl: https://docs.google.com/document/d/1vci14HMZ2UEJBs6mKCZZ2vHs-jVuPSsFsiN3cAENzXU
+source: gdoc
 tags:
   - History
   - Science

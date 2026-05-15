@@ -1,16 +1,16 @@
 ---
-title: "The Silmarillion by J. R. R. Tolkien"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2021-book-reviews"
-contestName: "2021 Book Reviews"
+title: The Silmarillion by J. R. R. Tolkien
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2021-book-reviews
+contestName: 2021 Book Reviews
 year: 2021
-publishedDate: "2021-01-01T00:00:00.000Z"
-slug: "the-silmarillion-by-j-r-r-tolkien"
+publishedDate: '2021-01-01T00:00:00.000Z'
+slug: the-silmarillion-by-j-r-r-tolkien
 wordCount: 7650
 readingTimeMinutes: 34
-originalUrl: "https://docs.google.com/document/d/1M1m8o1HInGYJR3cEMYZ6TQgNmeBOWo98YC6djNnFWf0"
-source: "gdoc"
+originalUrl: https://docs.google.com/document/d/1M1m8o1HInGYJR3cEMYZ6TQgNmeBOWo98YC6djNnFWf0
+source: gdoc
 tags:
   - Fiction
   - Philosophy

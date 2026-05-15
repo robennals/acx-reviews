@@ -1,19 +1,15 @@
 ---
-title: >-
-  Facing the Dragon: Confronting Personal and Spiritual Grandiosity by Robert
-  Moore
+title: 'Facing the Dragon: Confronting Personal and Spiritual Grandiosity by Robert Moore'
 author: Unknown
 reviewAuthor: Anonymous
 contestId: 2022-book-reviews
 contestName: 2022 Book Reviews
 year: 2022
 publishedDate: '2026-02-06T07:24:08.699Z'
-slug: >-
-  facing-the-dragon-confronting-personal-and-spiritual-grandiosity-by-robert-moore
+slug: facing-the-dragon-confronting-personal-and-spiritual-grandiosity-by-robert-moore
 wordCount: 4696
 readingTimeMinutes: 21
-originalUrl: >-
-  https://docs.google.com/document/d/1pRQbRbEUwSH_jm94PI_ij-88swat7vQ4iNaNp6gd39g
+originalUrl: https://docs.google.com/document/d/1pRQbRbEUwSH_jm94PI_ij-88swat7vQ4iNaNp6gd39g
 source: gdoc
 tags:
   - Psychology

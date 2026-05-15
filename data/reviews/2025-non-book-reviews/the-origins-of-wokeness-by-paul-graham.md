@@ -9,8 +9,7 @@ publishedDate: '2026-02-06T16:55:59.397Z'
 slug: the-origins-of-wokeness-by-paul-graham
 wordCount: 5701
 readingTimeMinutes: 26
-originalUrl: >-
-  https://docs.google.com/document/d/1jYVJFIz5-aMi0LCgsC9AN6BncJDNVGaMU37QmwZ1vzA
+originalUrl: https://docs.google.com/document/d/1jYVJFIz5-aMi0LCgsC9AN6BncJDNVGaMU37QmwZ1vzA
 source: gdoc
 tags:
   - Society

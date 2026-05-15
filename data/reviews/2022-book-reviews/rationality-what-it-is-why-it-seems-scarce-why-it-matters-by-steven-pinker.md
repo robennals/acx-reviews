@@ -9,8 +9,7 @@ publishedDate: '2026-02-06T07:23:14.489Z'
 slug: rationality-what-it-is-why-it-seems-scarce-why-it-matters-by-steven-pinker
 wordCount: 35933
 readingTimeMinutes: 160
-originalUrl: >-
-  https://docs.google.com/document/d/1kQUUJhv-MpLawby2j4zXLZPDG6ligWd5xpIjH8UmWdw
+originalUrl: https://docs.google.com/document/d/1kQUUJhv-MpLawby2j4zXLZPDG6ligWd5xpIjH8UmWdw
 source: gdoc
 tags:
   - Philosophy

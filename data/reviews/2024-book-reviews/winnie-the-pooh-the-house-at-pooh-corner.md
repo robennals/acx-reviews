@@ -9,8 +9,7 @@ publishedDate: '2024-01-01T00:00:00.000Z'
 slug: winnie-the-pooh-the-house-at-pooh-corner
 wordCount: 4951
 readingTimeMinutes: 23
-originalUrl: >-
-  https://docs.google.com/document/d/1Ki5XsE0jkxZtd2XAeyTAJw1ZjLh2Cu-matUYKAhA6-s
+originalUrl: https://docs.google.com/document/d/1Ki5XsE0jkxZtd2XAeyTAJw1ZjLh2Cu-matUYKAhA6-s
 source: gdoc
 tags:
   - Fiction

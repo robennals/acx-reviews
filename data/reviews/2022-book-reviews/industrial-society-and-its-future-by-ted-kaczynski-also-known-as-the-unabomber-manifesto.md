@@ -1,19 +1,15 @@
 ---
-title: >-
-  Industrial Society and Its Future by Ted Kaczynski (also known as the
-  Unabomber Manifesto)
+title: Industrial Society and Its Future by Ted Kaczynski (also known as the Unabomber Manifesto)
 author: Unknown
 reviewAuthor: Anonymous
 contestId: 2022-book-reviews
 contestName: 2022 Book Reviews
 year: 2022
 publishedDate: '2026-02-06T07:23:14.476Z'
-slug: >-
-  industrial-society-and-its-future-by-ted-kaczynski-also-known-as-the-unabomber-manifesto
+slug: industrial-society-and-its-future-by-ted-kaczynski-also-known-as-the-unabomber-manifesto
 wordCount: 5261
 readingTimeMinutes: 24
-originalUrl: >-
-  https://docs.google.com/document/d/1kQUUJhv-MpLawby2j4zXLZPDG6ligWd5xpIjH8UmWdw
+originalUrl: https://docs.google.com/document/d/1kQUUJhv-MpLawby2j4zXLZPDG6ligWd5xpIjH8UmWdw
 source: gdoc
 tags:
   - Society

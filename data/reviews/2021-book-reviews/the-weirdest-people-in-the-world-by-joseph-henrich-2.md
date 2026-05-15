@@ -1,16 +1,16 @@
 ---
-title: "The WEIRDEST People in the World by Joseph Henrich"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2021-book-reviews"
-contestName: "2021 Book Reviews"
+title: The WEIRDEST People in the World by Joseph Henrich
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2021-book-reviews
+contestName: 2021 Book Reviews
 year: 2021
-publishedDate: "2021-01-01T00:00:00.000Z"
-slug: "the-weirdest-people-in-the-world-by-joseph-henrich-2"
+publishedDate: '2021-01-01T00:00:00.000Z'
+slug: the-weirdest-people-in-the-world-by-joseph-henrich-2
 wordCount: 2972
 readingTimeMinutes: 14
-originalUrl: "https://docs.google.com/document/d/1M1m8o1HInGYJR3cEMYZ6TQgNmeBOWo98YC6djNnFWf0"
-source: "gdoc"
+originalUrl: https://docs.google.com/document/d/1M1m8o1HInGYJR3cEMYZ6TQgNmeBOWo98YC6djNnFWf0
+source: gdoc
 tags:
   - Psychology
   - History

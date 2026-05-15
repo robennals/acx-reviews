@@ -1,16 +1,16 @@
 ---
-title: "The Little Red Book (Quotations from Mao Tse-tung)"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2023-book-reviews"
-contestName: "2023 Book Reviews"
+title: The Little Red Book (Quotations from Mao Tse-tung)
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2023-book-reviews
+contestName: 2023 Book Reviews
 year: 2023
-publishedDate: "2023-01-01T00:00:00.000Z"
-slug: "the-little-red-book-quotations-from-mao-tse-tung"
+publishedDate: '2023-01-01T00:00:00.000Z'
+slug: the-little-red-book-quotations-from-mao-tse-tung
 wordCount: 6310
 readingTimeMinutes: 29
-originalUrl: "https://docs.google.com/document/d/1AtGIIv371v0Yu35eNsIxJr67dw4SHOiGdKrqmoKt2hg"
-source: "gdoc"
+originalUrl: https://docs.google.com/document/d/1AtGIIv371v0Yu35eNsIxJr67dw4SHOiGdKrqmoKt2hg
+source: gdoc
 tags:
   - History
   - Politics

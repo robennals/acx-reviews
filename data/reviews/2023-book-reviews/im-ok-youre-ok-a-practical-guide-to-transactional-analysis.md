@@ -1,16 +1,16 @@
 ---
-title: "I'm Ok, You're Ok: A practical guide to Transactional Analysis"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2023-book-reviews"
-contestName: "2023 Book Reviews"
+title: 'I''m Ok, You''re Ok: A practical guide to Transactional Analysis'
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2023-book-reviews
+contestName: 2023 Book Reviews
 year: 2023
-publishedDate: "2023-01-01T00:00:00.000Z"
-slug: "im-ok-youre-ok-a-practical-guide-to-transactional-analysis"
+publishedDate: '2023-01-01T00:00:00.000Z'
+slug: im-ok-youre-ok-a-practical-guide-to-transactional-analysis
 wordCount: 2709
 readingTimeMinutes: 13
-originalUrl: "https://docs.google.com/document/d/1vci14HMZ2UEJBs6mKCZZ2vHs-jVuPSsFsiN3cAENzXU"
-source: "gdoc"
+originalUrl: https://docs.google.com/document/d/1vci14HMZ2UEJBs6mKCZZ2vHs-jVuPSsFsiN3cAENzXU
+source: gdoc
 tags:
   - Psychology
   - Society

@@ -1,5 +1,5 @@
 ---
-title: '1587, A Year Of No Significance'
+title: 1587, A Year Of No Significance
 author: Unknown
 reviewAuthor: Anonymous
 contestId: 2022-book-reviews
@@ -9,7 +9,7 @@ publishedDate: '2026-02-05T15:57:27.924Z'
 slug: 1587-a-year-of-no-significance
 wordCount: 8830
 readingTimeMinutes: 40
-originalUrl: 'https://astralcodexten.substack.com/p/your-book-review-1587-a-year-of-no'
+originalUrl: https://astralcodexten.substack.com/p/your-book-review-1587-a-year-of-no
 source: acx
 tags:
   - History

@@ -9,8 +9,7 @@ publishedDate: '2026-02-06T07:23:14.492Z'
 slug: sweet-valley-confidential-by-francine-pascal
 wordCount: 3672
 readingTimeMinutes: 17
-originalUrl: >-
-  https://docs.google.com/document/d/1kQUUJhv-MpLawby2j4zXLZPDG6ligWd5xpIjH8UmWdw
+originalUrl: https://docs.google.com/document/d/1kQUUJhv-MpLawby2j4zXLZPDG6ligWd5xpIjH8UmWdw
 source: gdoc
 tags:
   - Fiction

@@ -9,8 +9,7 @@ publishedDate: '2026-02-06T07:23:14.477Z'
 slug: japan-at-war-an-oral-history-by-haruko-taya-cook-and-theodore-failor-cook
 wordCount: 4867
 readingTimeMinutes: 22
-originalUrl: >-
-  https://docs.google.com/document/d/1kQUUJhv-MpLawby2j4zXLZPDG6ligWd5xpIjH8UmWdw
+originalUrl: https://docs.google.com/document/d/1kQUUJhv-MpLawby2j4zXLZPDG6ligWd5xpIjH8UmWdw
 source: gdoc
 tags:
   - History

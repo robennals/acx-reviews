@@ -9,7 +9,7 @@ publishedDate: '2026-02-06T16:58:31.109Z'
 slug: alpha-school
 wordCount: 17983
 readingTimeMinutes: 80
-originalUrl: 'https://www.astralcodexten.com/p/your-review-alpha-school'
+originalUrl: https://www.astralcodexten.com/p/your-review-alpha-school
 source: acx
 tags:
   - Society

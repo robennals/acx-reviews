@@ -9,8 +9,7 @@ publishedDate: '2026-02-06T07:22:32.816Z'
 slug: the-age-of-the-infovore-by-tyler-cowen
 wordCount: 676
 readingTimeMinutes: 4
-originalUrl: >-
-  https://docs.google.com/document/d/100kMdSVFviZSSBvUyyEQPMNlvLptVQxHFD9i9wGuBWs
+originalUrl: https://docs.google.com/document/d/100kMdSVFviZSSBvUyyEQPMNlvLptVQxHFD9i9wGuBWs
 source: gdoc
 tags:
   - Society

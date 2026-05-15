@@ -9,7 +9,7 @@ publishedDate: '2026-02-05T15:44:22.224Z'
 slug: humankind
 wordCount: 7365
 readingTimeMinutes: 33
-originalUrl: 'https://astralcodexten.substack.com/p/your-book-review-humankind'
+originalUrl: https://astralcodexten.substack.com/p/your-book-review-humankind
 source: acx
 tags:
   - Psychology

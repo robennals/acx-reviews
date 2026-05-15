@@ -9,8 +9,7 @@ publishedDate: '2026-02-06T07:23:14.490Z'
 slug: reason-and-society-in-the-middle-ages-by-alexander-murray
 wordCount: 4497
 readingTimeMinutes: 20
-originalUrl: >-
-  https://docs.google.com/document/d/1kQUUJhv-MpLawby2j4zXLZPDG6ligWd5xpIjH8UmWdw
+originalUrl: https://docs.google.com/document/d/1kQUUJhv-MpLawby2j4zXLZPDG6ligWd5xpIjH8UmWdw
 source: gdoc
 tags:
   - History

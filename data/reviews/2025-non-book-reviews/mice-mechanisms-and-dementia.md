@@ -1,5 +1,5 @@
 ---
-title: 'Mice, Mechanisms, And Dementia'
+title: Mice, Mechanisms, And Dementia
 author: Unknown
 reviewAuthor: Anonymous
 contestId: 2025-non-book-reviews
@@ -9,7 +9,7 @@ publishedDate: '2026-02-06T16:58:39.380Z'
 slug: mice-mechanisms-and-dementia
 wordCount: 7104
 readingTimeMinutes: 32
-originalUrl: 'https://www.astralcodexten.com/p/your-review-of-mice-mechanisms-and'
+originalUrl: https://www.astralcodexten.com/p/your-review-of-mice-mechanisms-and
 source: acx
 tags:
   - Science

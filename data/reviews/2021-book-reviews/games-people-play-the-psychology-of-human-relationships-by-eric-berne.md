@@ -9,8 +9,7 @@ publishedDate: '2026-02-06T07:21:29.569Z'
 slug: games-people-play-the-psychology-of-human-relationships-by-eric-berne
 wordCount: 4797
 readingTimeMinutes: 22
-originalUrl: >-
-  https://docs.google.com/document/d/1xexFJ7h0vULMDE7N77q_MIzXoerexfe_CqqGEL6hEoQ
+originalUrl: https://docs.google.com/document/d/1xexFJ7h0vULMDE7N77q_MIzXoerexfe_CqqGEL6hEoQ
 source: gdoc
 tags:
   - Psychology

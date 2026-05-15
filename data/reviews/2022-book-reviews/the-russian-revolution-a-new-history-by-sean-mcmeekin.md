@@ -9,8 +9,7 @@ publishedDate: '2026-02-06T07:21:54.173Z'
 slug: the-russian-revolution-a-new-history-by-sean-mcmeekin
 wordCount: 8322
 readingTimeMinutes: 37
-originalUrl: >-
-  https://docs.google.com/document/d/1hFzjXliCAWjvheY-8Qd2fhbF79LnX0Xg6R9eqk9yIyI
+originalUrl: https://docs.google.com/document/d/1hFzjXliCAWjvheY-8Qd2fhbF79LnX0Xg6R9eqk9yIyI
 source: gdoc
 tags:
   - History

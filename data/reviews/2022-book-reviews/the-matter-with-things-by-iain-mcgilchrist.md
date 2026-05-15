@@ -9,8 +9,7 @@ publishedDate: '2026-02-06T07:22:32.829Z'
 slug: the-matter-with-things-by-iain-mcgilchrist
 wordCount: 3602
 readingTimeMinutes: 17
-originalUrl: >-
-  https://docs.google.com/document/d/100kMdSVFviZSSBvUyyEQPMNlvLptVQxHFD9i9wGuBWs
+originalUrl: https://docs.google.com/document/d/100kMdSVFviZSSBvUyyEQPMNlvLptVQxHFD9i9wGuBWs
 source: gdoc
 tags:
   - Science

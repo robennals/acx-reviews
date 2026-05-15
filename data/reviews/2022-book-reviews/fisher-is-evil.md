@@ -9,8 +9,7 @@ publishedDate: '2026-02-06T07:22:32.818Z'
 slug: fisher-is-evil
 wordCount: 3083
 readingTimeMinutes: 14
-originalUrl: >-
-  https://docs.google.com/document/d/100kMdSVFviZSSBvUyyEQPMNlvLptVQxHFD9i9wGuBWs
+originalUrl: https://docs.google.com/document/d/100kMdSVFviZSSBvUyyEQPMNlvLptVQxHFD9i9wGuBWs
 source: gdoc
 tags:
   - Science

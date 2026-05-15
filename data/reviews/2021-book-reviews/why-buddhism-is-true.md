@@ -9,7 +9,7 @@ publishedDate: '2026-02-05T15:44:07.616Z'
 slug: why-buddhism-is-true
 wordCount: 4451
 readingTimeMinutes: 20
-originalUrl: 'https://astralcodexten.substack.com/p/your-book-review-why-buddhism-is'
+originalUrl: https://astralcodexten.substack.com/p/your-book-review-why-buddhism-is
 source: acx
 tags:
   - Religion

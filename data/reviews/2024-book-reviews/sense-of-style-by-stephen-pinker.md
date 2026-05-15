@@ -1,5 +1,5 @@
 ---
-title: 'Sense of Style, by Stephen Pinker'
+title: Sense of Style, by Stephen Pinker
 author: Unknown
 reviewAuthor: Anonymous
 contestId: 2024-book-reviews
@@ -9,8 +9,7 @@ publishedDate: '2026-02-06T16:48:56.663Z'
 slug: sense-of-style-by-stephen-pinker
 wordCount: 3265
 readingTimeMinutes: 15
-originalUrl: >-
-  https://docs.google.com/document/d/1GYQw3pgvhi7hqOVR-Ql629Q_8thbyHe8sSRy5voyt30
+originalUrl: https://docs.google.com/document/d/1GYQw3pgvhi7hqOVR-Ql629Q_8thbyHe8sSRy5voyt30
 source: gdoc
 tags:
   - Psychology

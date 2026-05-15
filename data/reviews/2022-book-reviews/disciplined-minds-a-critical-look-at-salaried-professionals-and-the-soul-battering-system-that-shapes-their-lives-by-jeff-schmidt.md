@@ -1,19 +1,15 @@
 ---
-title: >-
-  Disciplined Minds: A Critical Look at Salaried Professionals and the
-  Soul-Battering System That Shapes Their Lives by Jeff Schmidt
+title: 'Disciplined Minds: A Critical Look at Salaried Professionals and the Soul-Battering System That Shapes Their Lives by Jeff Schmidt'
 author: Unknown
 reviewAuthor: Anonymous
 contestId: 2022-book-reviews
 contestName: 2022 Book Reviews
 year: 2022
 publishedDate: '2026-02-06T07:24:08.698Z'
-slug: >-
-  disciplined-minds-a-critical-look-at-salaried-professionals-and-the-soul-battering-system-that-shapes-their-lives-by-jeff-schmidt
+slug: disciplined-minds-a-critical-look-at-salaried-professionals-and-the-soul-battering-system-that-shapes-their-lives-by-jeff-schmidt
 wordCount: 2705
 readingTimeMinutes: 13
-originalUrl: >-
-  https://docs.google.com/document/d/1pRQbRbEUwSH_jm94PI_ij-88swat7vQ4iNaNp6gd39g
+originalUrl: https://docs.google.com/document/d/1pRQbRbEUwSH_jm94PI_ij-88swat7vQ4iNaNp6gd39g
 source: gdoc
 tags:
   - Society

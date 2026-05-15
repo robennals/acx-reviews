@@ -9,8 +9,7 @@ publishedDate: '2026-02-06T07:22:32.817Z'
 slug: the-book-of-all-hours-series-vellum-and-ink-by-hal-duncan
 wordCount: 4340
 readingTimeMinutes: 20
-originalUrl: >-
-  https://docs.google.com/document/d/100kMdSVFviZSSBvUyyEQPMNlvLptVQxHFD9i9wGuBWs
+originalUrl: https://docs.google.com/document/d/100kMdSVFviZSSBvUyyEQPMNlvLptVQxHFD9i9wGuBWs
 source: gdoc
 tags:
   - Fiction

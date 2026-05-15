@@ -9,7 +9,7 @@ publishedDate: '2026-02-06T07:06:22.867Z'
 slug: why-nations-fail
 wordCount: 5141
 readingTimeMinutes: 23
-originalUrl: 'https://www.astralcodexten.com/p/your-book-review-why-nations-fail'
+originalUrl: https://www.astralcodexten.com/p/your-book-review-why-nations-fail
 source: acx
 tags:
   - Economics

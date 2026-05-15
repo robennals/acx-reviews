@@ -9,8 +9,7 @@ publishedDate: '2024-01-01T00:00:00.000Z'
 slug: metamorphosis-by-shindo-l
 wordCount: 1291
 readingTimeMinutes: 6
-originalUrl: >-
-  https://docs.google.com/document/d/1cp6iw5OEyDjnD_viZo-KL0Zv4jwQnMXtE4yIovfVAco
+originalUrl: https://docs.google.com/document/d/1cp6iw5OEyDjnD_viZo-KL0Zv4jwQnMXtE4yIovfVAco
 source: gdoc
 tags:
   - Fiction

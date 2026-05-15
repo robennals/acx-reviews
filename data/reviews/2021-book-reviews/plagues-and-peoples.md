@@ -9,7 +9,7 @@ publishedDate: '2026-02-05T15:44:30.624Z'
 slug: plagues-and-peoples
 wordCount: 4280
 readingTimeMinutes: 20
-originalUrl: 'https://astralcodexten.substack.com/p/your-book-review-plagues-and-peoples'
+originalUrl: https://astralcodexten.substack.com/p/your-book-review-plagues-and-peoples
 source: acx
 tags:
   - History

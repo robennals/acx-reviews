@@ -1,16 +1,16 @@
 ---
-title: "The Family That Couldn't Sleep"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2024-book-reviews"
-contestName: "2024 Book Reviews"
+title: The Family That Couldn't Sleep
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2024-book-reviews
+contestName: 2024 Book Reviews
 year: 2024
-publishedDate: "2026-05-10T03:23:34.919Z"
-slug: "the-family-that-couldnt-sleep"
+publishedDate: '2026-05-10T03:23:34.919Z'
+slug: the-family-that-couldnt-sleep
 wordCount: 10253
 readingTimeMinutes: 46
-originalUrl: "https://www.astralcodexten.com/p/your-book-review-the-family-that"
-source: "acx"
+originalUrl: https://www.astralcodexten.com/p/your-book-review-the-family-that
+source: acx
 tags:
   - History
   - Science

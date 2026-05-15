@@ -1,19 +1,15 @@
 ---
-title: >-
-  Open Borders: The Science and Ethics of Immigration by Bryan Caplan and Zach
-  Weinersmith
+title: 'Open Borders: The Science and Ethics of Immigration by Bryan Caplan and Zach Weinersmith'
 author: Unknown
 reviewAuthor: Anonymous
 contestId: 2021-book-reviews
 contestName: 2021 Book Reviews
 year: 2021
 publishedDate: '2026-02-06T07:21:29.572Z'
-slug: >-
-  open-borders-the-science-and-ethics-of-immigration-by-bryan-caplan-and-zach-weinersmith
+slug: open-borders-the-science-and-ethics-of-immigration-by-bryan-caplan-and-zach-weinersmith
 wordCount: 4005
 readingTimeMinutes: 18
-originalUrl: >-
-  https://docs.google.com/document/d/1xexFJ7h0vULMDE7N77q_MIzXoerexfe_CqqGEL6hEoQ
+originalUrl: https://docs.google.com/document/d/1xexFJ7h0vULMDE7N77q_MIzXoerexfe_CqqGEL6hEoQ
 source: gdoc
 tags:
   - Economics

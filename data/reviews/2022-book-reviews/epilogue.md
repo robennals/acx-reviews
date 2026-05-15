@@ -9,8 +9,7 @@ publishedDate: '2026-02-06T07:22:32.819Z'
 slug: epilogue
 wordCount: 1902
 readingTimeMinutes: 9
-originalUrl: >-
-  https://docs.google.com/document/d/100kMdSVFviZSSBvUyyEQPMNlvLptVQxHFD9i9wGuBWs
+originalUrl: https://docs.google.com/document/d/100kMdSVFviZSSBvUyyEQPMNlvLptVQxHFD9i9wGuBWs
 source: gdoc
 tags:
   - Science

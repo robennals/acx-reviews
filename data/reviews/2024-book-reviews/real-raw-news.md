@@ -9,7 +9,7 @@ publishedDate: '2026-05-10T03:23:39.500Z'
 slug: real-raw-news
 wordCount: 7526
 readingTimeMinutes: 34
-originalUrl: 'https://www.astralcodexten.com/p/your-book-review-real-raw-news'
+originalUrl: https://www.astralcodexten.com/p/your-book-review-real-raw-news
 source: acx
 tags:
   - Politics

@@ -9,8 +9,7 @@ publishedDate: '2026-02-06T16:48:56.652Z'
 slug: ready-player-one-by-ernest-cline
 wordCount: 6893
 readingTimeMinutes: 31
-originalUrl: >-
-  https://docs.google.com/document/d/1GYQw3pgvhi7hqOVR-Ql629Q_8thbyHe8sSRy5voyt30
+originalUrl: https://docs.google.com/document/d/1GYQw3pgvhi7hqOVR-Ql629Q_8thbyHe8sSRy5voyt30
 source: gdoc
 tags:
   - Fiction

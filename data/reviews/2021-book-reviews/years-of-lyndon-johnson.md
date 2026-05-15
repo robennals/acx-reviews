@@ -9,7 +9,7 @@ publishedDate: '2026-02-05T15:44:15.948Z'
 slug: years-of-lyndon-johnson
 wordCount: 2254
 readingTimeMinutes: 11
-originalUrl: 'https://astralcodexten.substack.com/p/your-book-review-the-years-of-lyndon'
+originalUrl: https://astralcodexten.substack.com/p/your-book-review-the-years-of-lyndon
 source: acx
 tags:
   - History

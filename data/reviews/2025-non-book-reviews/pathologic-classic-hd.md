@@ -9,8 +9,7 @@ publishedDate: '2026-02-06T16:57:23.284Z'
 slug: pathologic-classic-hd
 wordCount: 10714
 readingTimeMinutes: 48
-originalUrl: >-
-  https://docs.google.com/document/d/1B3YxYxLVFjKGicaEkqvt353kt0uimn0PSUQv1PyaHuI
+originalUrl: https://docs.google.com/document/d/1B3YxYxLVFjKGicaEkqvt353kt0uimn0PSUQv1PyaHuI
 source: gdoc
 tags:
   - Fiction

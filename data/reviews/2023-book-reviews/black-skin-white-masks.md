@@ -1,5 +1,5 @@
 ---
-title: 'Black Skin, White Masks'
+title: Black Skin, White Masks
 author: Unknown
 reviewAuthor: Anonymous
 contestId: 2023-book-reviews
@@ -9,8 +9,7 @@ publishedDate: '2026-02-06T07:21:10.023Z'
 slug: black-skin-white-masks
 wordCount: 4444
 readingTimeMinutes: 20
-originalUrl: >-
-  https://docs.google.com/document/d/10CiEI7aDL2bMIdx7yayy3vlq0TJ8dO5LGnG7yIDPiw8
+originalUrl: https://docs.google.com/document/d/10CiEI7aDL2bMIdx7yayy3vlq0TJ8dO5LGnG7yIDPiw8
 source: gdoc
 tags:
   - Society

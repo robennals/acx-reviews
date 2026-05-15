@@ -1,19 +1,15 @@
 ---
-title: >-
-  Capital as Power: A Study of Order and Creorder by Jonathan Nitzan and
-  Shimshon Bichler
+title: 'Capital as Power: A Study of Order and Creorder by Jonathan Nitzan and Shimshon Bichler'
 author: Unknown
 reviewAuthor: Anonymous
 contestId: 2021-book-reviews
 contestName: 2021 Book Reviews
 year: 2021
 publishedDate: '2026-02-06T07:21:29.563Z'
-slug: >-
-  capital-as-power-a-study-of-order-and-creorder-by-jonathan-nitzan-and-shimshon-bichler
+slug: capital-as-power-a-study-of-order-and-creorder-by-jonathan-nitzan-and-shimshon-bichler
 wordCount: 8361
 readingTimeMinutes: 38
-originalUrl: >-
-  https://docs.google.com/document/d/1xexFJ7h0vULMDE7N77q_MIzXoerexfe_CqqGEL6hEoQ
+originalUrl: https://docs.google.com/document/d/1xexFJ7h0vULMDE7N77q_MIzXoerexfe_CqqGEL6hEoQ
 source: gdoc
 tags:
   - Economics

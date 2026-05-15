@@ -1,16 +1,16 @@
 ---
-title: "Wealth in Families, by Charles Collier"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2023-book-reviews"
-contestName: "2023 Book Reviews"
+title: Wealth in Families, by Charles Collier
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2023-book-reviews
+contestName: 2023 Book Reviews
 year: 2023
-publishedDate: "2023-01-01T00:00:00.000Z"
-slug: "wealth-in-families-by-charles-collier"
+publishedDate: '2023-01-01T00:00:00.000Z'
+slug: wealth-in-families-by-charles-collier
 wordCount: 3055
 readingTimeMinutes: 14
-originalUrl: "https://docs.google.com/document/d/1D2MGZ7HW1vRtOtfXYIx9BBUt6ubjEA2n06gpoHcxaFY"
-source: "gdoc"
+originalUrl: https://docs.google.com/document/d/1D2MGZ7HW1vRtOtfXYIx9BBUt6ubjEA2n06gpoHcxaFY
+source: gdoc
 tags:
   - Economics
   - Philosophy

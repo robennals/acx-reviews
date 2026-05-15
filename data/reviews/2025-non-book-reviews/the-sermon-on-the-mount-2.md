@@ -9,8 +9,7 @@ publishedDate: '2025-01-01T00:00:00.000Z'
 slug: the-sermon-on-the-mount-2
 wordCount: 10062
 readingTimeMinutes: 45
-originalUrl: >-
-  https://docs.google.com/document/d/1jYVJFIz5-aMi0LCgsC9AN6BncJDNVGaMU37QmwZ1vzA
+originalUrl: https://docs.google.com/document/d/1jYVJFIz5-aMi0LCgsC9AN6BncJDNVGaMU37QmwZ1vzA
 source: gdoc
 tags:
   - Religion

@@ -1,16 +1,16 @@
 ---
-title: "One Day in the Life of Ivan Denisovich"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2023-book-reviews"
-contestName: "2023 Book Reviews"
+title: One Day in the Life of Ivan Denisovich
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2023-book-reviews
+contestName: 2023 Book Reviews
 year: 2023
-publishedDate: "2023-01-01T00:00:00.000Z"
-slug: "one-day-in-the-life-of-ivan-denisovich"
+publishedDate: '2023-01-01T00:00:00.000Z'
+slug: one-day-in-the-life-of-ivan-denisovich
 wordCount: 2856
 readingTimeMinutes: 13
-originalUrl: "https://docs.google.com/document/d/1vci14HMZ2UEJBs6mKCZZ2vHs-jVuPSsFsiN3cAENzXU"
-source: "gdoc"
+originalUrl: https://docs.google.com/document/d/1vci14HMZ2UEJBs6mKCZZ2vHs-jVuPSsFsiN3cAENzXU
+source: gdoc
 tags:
   - Fiction
   - History

@@ -9,8 +9,7 @@ publishedDate: '2026-02-06T07:22:32.823Z'
 slug: the-doomsday-machine-confessions-of-a-nuclear-war-planner-by-daniel-ellsberg
 wordCount: 8696
 readingTimeMinutes: 39
-originalUrl: >-
-  https://docs.google.com/document/d/100kMdSVFviZSSBvUyyEQPMNlvLptVQxHFD9i9wGuBWs
+originalUrl: https://docs.google.com/document/d/100kMdSVFviZSSBvUyyEQPMNlvLptVQxHFD9i9wGuBWs
 source: gdoc
 tags:
   - History

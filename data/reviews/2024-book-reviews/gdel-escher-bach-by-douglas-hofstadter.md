@@ -1,5 +1,5 @@
 ---
-title: 'Gödel, Escher, Bach by Douglas Hofstadter'
+title: Gödel, Escher, Bach by Douglas Hofstadter
 author: Unknown
 reviewAuthor: Anonymous
 contestId: 2024-book-reviews
@@ -9,8 +9,7 @@ publishedDate: '2026-02-06T16:47:49.306Z'
 slug: gdel-escher-bach-by-douglas-hofstadter
 wordCount: 3992
 readingTimeMinutes: 18
-originalUrl: >-
-  https://docs.google.com/document/d/1QiotH3aGFgNLGqsIHTK_Plm_gem2E4l2C2ctyGJd0jY
+originalUrl: https://docs.google.com/document/d/1QiotH3aGFgNLGqsIHTK_Plm_gem2E4l2C2ctyGJd0jY
 source: gdoc
 tags:
   - Science

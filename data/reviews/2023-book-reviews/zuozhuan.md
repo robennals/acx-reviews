@@ -9,7 +9,7 @@ publishedDate: '2026-02-06T07:06:25.226Z'
 slug: zuozhuan
 wordCount: 6922
 readingTimeMinutes: 31
-originalUrl: 'https://www.astralcodexten.com/p/your-book-review-zuozhuan'
+originalUrl: https://www.astralcodexten.com/p/your-book-review-zuozhuan
 source: acx
 tags:
   - History

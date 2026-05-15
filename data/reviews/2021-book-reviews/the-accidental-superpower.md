@@ -9,8 +9,7 @@ publishedDate: '2026-02-05T15:44:20.128Z'
 slug: the-accidental-superpower
 wordCount: 9142
 readingTimeMinutes: 41
-originalUrl: >-
-  https://astralcodexten.substack.com/p/your-book-review-the-accidental-superpower
+originalUrl: https://astralcodexten.substack.com/p/your-book-review-the-accidental-superpower
 source: acx
 tags:
   - Politics

@@ -9,8 +9,7 @@ publishedDate: '2026-02-06T16:47:49.305Z'
 slug: free-range-kids
 wordCount: 3247
 readingTimeMinutes: 15
-originalUrl: >-
-  https://docs.google.com/document/d/1QiotH3aGFgNLGqsIHTK_Plm_gem2E4l2C2ctyGJd0jY
+originalUrl: https://docs.google.com/document/d/1QiotH3aGFgNLGqsIHTK_Plm_gem2E4l2C2ctyGJd0jY
 source: gdoc
 tags:
   - Psychology

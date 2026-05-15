@@ -9,7 +9,7 @@ publishedDate: '2026-02-06T07:06:18.061Z'
 slug: the-weirdest-people-in-the-world
 wordCount: 4947
 readingTimeMinutes: 22
-originalUrl: 'https://www.astralcodexten.com/p/your-book-review-the-weirdest-people'
+originalUrl: https://www.astralcodexten.com/p/your-book-review-the-weirdest-people
 source: acx
 tags:
   - Society

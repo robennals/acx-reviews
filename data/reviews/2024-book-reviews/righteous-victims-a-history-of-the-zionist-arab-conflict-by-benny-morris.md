@@ -9,8 +9,7 @@ publishedDate: '2026-02-06T16:48:56.658Z'
 slug: righteous-victims-a-history-of-the-zionist-arab-conflict-by-benny-morris
 wordCount: 10068
 readingTimeMinutes: 45
-originalUrl: >-
-  https://docs.google.com/document/d/1GYQw3pgvhi7hqOVR-Ql629Q_8thbyHe8sSRy5voyt30
+originalUrl: https://docs.google.com/document/d/1GYQw3pgvhi7hqOVR-Ql629Q_8thbyHe8sSRy5voyt30
 source: gdoc
 tags:
   - History

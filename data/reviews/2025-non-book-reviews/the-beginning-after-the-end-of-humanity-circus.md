@@ -9,8 +9,7 @@ publishedDate: '2025-01-01T00:00:00.000Z'
 slug: the-beginning-after-the-end-of-humanity-circus
 wordCount: 1019
 readingTimeMinutes: 5
-originalUrl: >-
-  https://docs.google.com/document/d/17WAcFrTOExgendrk2lGTxRIR4LVC3ZGbiU5Xe3kF4mg
+originalUrl: https://docs.google.com/document/d/17WAcFrTOExgendrk2lGTxRIR4LVC3ZGbiU5Xe3kF4mg
 source: gdoc
 tags:
   - Memoir

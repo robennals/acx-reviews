@@ -9,7 +9,7 @@ publishedDate: '2026-05-10T03:23:37.130Z'
 slug: how-language-began
 wordCount: 10664
 readingTimeMinutes: 48
-originalUrl: 'https://www.astralcodexten.com/p/your-book-review-how-language-began'
+originalUrl: https://www.astralcodexten.com/p/your-book-review-how-language-began
 source: acx
 tags:
   - Science

@@ -9,8 +9,7 @@ publishedDate: '2026-02-06T16:52:48.904Z'
 slug: identity
 wordCount: 2892
 readingTimeMinutes: 13
-originalUrl: >-
-  https://docs.google.com/document/d/1d0vRSj1E93joWWvbUen2XGuDjN_mM94ybMIAADzM2fo
+originalUrl: https://docs.google.com/document/d/1d0vRSj1E93joWWvbUen2XGuDjN_mM94ybMIAADzM2fo
 source: gdoc
 tags:
   - Philosophy

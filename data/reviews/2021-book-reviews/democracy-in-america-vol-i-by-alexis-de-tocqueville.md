@@ -9,8 +9,7 @@ publishedDate: '2026-02-06T07:21:29.565Z'
 slug: democracy-in-america-vol-i-by-alexis-de-tocqueville
 wordCount: 3222
 readingTimeMinutes: 15
-originalUrl: >-
-  https://docs.google.com/document/d/1xexFJ7h0vULMDE7N77q_MIzXoerexfe_CqqGEL6hEoQ
+originalUrl: https://docs.google.com/document/d/1xexFJ7h0vULMDE7N77q_MIzXoerexfe_CqqGEL6hEoQ
 source: gdoc
 tags:
   - Politics

@@ -9,7 +9,7 @@ publishedDate: '2026-02-05T15:57:42.734Z'
 slug: the-anti-politics-machine
 wordCount: 4508
 readingTimeMinutes: 21
-originalUrl: 'https://astralcodexten.substack.com/p/your-book-review-the-anti-politics'
+originalUrl: https://astralcodexten.substack.com/p/your-book-review-the-anti-politics
 source: acx
 tags:
   - Politics

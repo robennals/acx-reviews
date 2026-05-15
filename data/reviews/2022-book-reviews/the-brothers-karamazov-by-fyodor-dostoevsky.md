@@ -9,8 +9,7 @@ publishedDate: '2026-02-06T07:22:32.820Z'
 slug: the-brothers-karamazov-by-fyodor-dostoevsky
 wordCount: 15356
 readingTimeMinutes: 69
-originalUrl: >-
-  https://docs.google.com/document/d/100kMdSVFviZSSBvUyyEQPMNlvLptVQxHFD9i9wGuBWs
+originalUrl: https://docs.google.com/document/d/100kMdSVFviZSSBvUyyEQPMNlvLptVQxHFD9i9wGuBWs
 source: gdoc
 tags:
   - Fiction

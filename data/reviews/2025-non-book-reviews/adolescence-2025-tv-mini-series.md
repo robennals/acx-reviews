@@ -9,8 +9,7 @@ publishedDate: '2025-01-01T00:00:00.000Z'
 slug: adolescence-2025-tv-mini-series
 wordCount: 8911
 readingTimeMinutes: 40
-originalUrl: >-
-  https://docs.google.com/document/d/17WAcFrTOExgendrk2lGTxRIR4LVC3ZGbiU5Xe3kF4mg
+originalUrl: https://docs.google.com/document/d/17WAcFrTOExgendrk2lGTxRIR4LVC3ZGbiU5Xe3kF4mg
 source: gdoc
 tags:
   - Fiction

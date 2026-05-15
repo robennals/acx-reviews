@@ -1,16 +1,16 @@
 ---
-title: "Ten Days That Shook the World by John Reed"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2021-book-reviews"
-contestName: "2021 Book Reviews"
+title: Ten Days That Shook the World by John Reed
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2021-book-reviews
+contestName: 2021 Book Reviews
 year: 2021
-publishedDate: "2021-01-01T00:00:00.000Z"
-slug: "ten-days-that-shook-the-world-by-john-reed"
+publishedDate: '2021-01-01T00:00:00.000Z'
+slug: ten-days-that-shook-the-world-by-john-reed
 wordCount: 4438
 readingTimeMinutes: 20
-originalUrl: "https://docs.google.com/document/d/1M1m8o1HInGYJR3cEMYZ6TQgNmeBOWo98YC6djNnFWf0"
-source: "gdoc"
+originalUrl: https://docs.google.com/document/d/1M1m8o1HInGYJR3cEMYZ6TQgNmeBOWo98YC6djNnFWf0
+source: gdoc
 tags:
   - History
   - Politics

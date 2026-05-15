@@ -9,7 +9,7 @@ publishedDate: '2026-02-05T15:57:52.511Z'
 slug: viral
 wordCount: 6602
 readingTimeMinutes: 30
-originalUrl: 'https://astralcodexten.substack.com/p/your-book-review-viral'
+originalUrl: https://astralcodexten.substack.com/p/your-book-review-viral
 source: acx
 tags:
   - Science

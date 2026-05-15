@@ -9,8 +9,7 @@ publishedDate: '2026-02-06T07:23:14.478Z'
 slug: leisure-the-basis-of-culture-by-josef-pieper
 wordCount: 4175
 readingTimeMinutes: 19
-originalUrl: >-
-  https://docs.google.com/document/d/1kQUUJhv-MpLawby2j4zXLZPDG6ligWd5xpIjH8UmWdw
+originalUrl: https://docs.google.com/document/d/1kQUUJhv-MpLawby2j4zXLZPDG6ligWd5xpIjH8UmWdw
 source: gdoc
 tags:
   - Philosophy

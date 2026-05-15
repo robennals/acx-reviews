@@ -9,8 +9,7 @@ publishedDate: '2026-02-05T15:44:01.239Z'
 slug: on-the-natural-faculties
 wordCount: 7417
 readingTimeMinutes: 33
-originalUrl: >-
-  https://astralcodexten.substack.com/p/your-book-review-on-the-natural-faculties
+originalUrl: https://astralcodexten.substack.com/p/your-book-review-on-the-natural-faculties
 source: acx
 tags:
   - Science

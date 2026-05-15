@@ -1,5 +1,5 @@
 ---
-title: 'Fashion, Faith and Fantasy in the New Physics of the Universe by Roger Penrose'
+title: Fashion, Faith and Fantasy in the New Physics of the Universe by Roger Penrose
 author: Unknown
 reviewAuthor: Anonymous
 contestId: 2022-book-reviews
@@ -9,8 +9,7 @@ publishedDate: '2026-02-06T07:24:08.699Z'
 slug: fashion-faith-and-fantasy-in-the-new-physics-of-the-universe-by-roger-penrose
 wordCount: 6274
 readingTimeMinutes: 28
-originalUrl: >-
-  https://docs.google.com/document/d/1pRQbRbEUwSH_jm94PI_ij-88swat7vQ4iNaNp6gd39g
+originalUrl: https://docs.google.com/document/d/1pRQbRbEUwSH_jm94PI_ij-88swat7vQ4iNaNp6gd39g
 source: gdoc
 tags:
   - Science

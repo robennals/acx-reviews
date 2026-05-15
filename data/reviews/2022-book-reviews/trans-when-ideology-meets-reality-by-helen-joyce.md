@@ -9,8 +9,7 @@ publishedDate: '2026-02-06T07:21:54.175Z'
 slug: trans-when-ideology-meets-reality-by-helen-joyce
 wordCount: 4675
 readingTimeMinutes: 21
-originalUrl: >-
-  https://docs.google.com/document/d/1hFzjXliCAWjvheY-8Qd2fhbF79LnX0Xg6R9eqk9yIyI
+originalUrl: https://docs.google.com/document/d/1hFzjXliCAWjvheY-8Qd2fhbF79LnX0Xg6R9eqk9yIyI
 source: gdoc
 tags:
   - Society

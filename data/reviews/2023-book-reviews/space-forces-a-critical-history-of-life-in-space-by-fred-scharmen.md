@@ -1,16 +1,16 @@
 ---
-title: "Space Forces: A Critical History of Life In Space, by Fred Scharmen"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2023-book-reviews"
-contestName: "2023 Book Reviews"
+title: 'Space Forces: A Critical History of Life In Space, by Fred Scharmen'
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2023-book-reviews
+contestName: 2023 Book Reviews
 year: 2023
-publishedDate: "2023-01-01T00:00:00.000Z"
-slug: "space-forces-a-critical-history-of-life-in-space-by-fred-scharmen"
+publishedDate: '2023-01-01T00:00:00.000Z'
+slug: space-forces-a-critical-history-of-life-in-space-by-fred-scharmen
 wordCount: 8064
 readingTimeMinutes: 36
-originalUrl: "https://docs.google.com/document/d/1vci14HMZ2UEJBs6mKCZZ2vHs-jVuPSsFsiN3cAENzXU"
-source: "gdoc"
+originalUrl: https://docs.google.com/document/d/1vci14HMZ2UEJBs6mKCZZ2vHs-jVuPSsFsiN3cAENzXU
+source: gdoc
 tags:
   - History
   - Society

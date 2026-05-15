@@ -9,8 +9,7 @@ publishedDate: '2026-02-06T07:21:54.176Z'
 slug: trump-the-art-of-the-deal-by-donald-trump-and-tony-schwartz
 wordCount: 6303
 readingTimeMinutes: 29
-originalUrl: >-
-  https://docs.google.com/document/d/1hFzjXliCAWjvheY-8Qd2fhbF79LnX0Xg6R9eqk9yIyI
+originalUrl: https://docs.google.com/document/d/1hFzjXliCAWjvheY-8Qd2fhbF79LnX0Xg6R9eqk9yIyI
 source: gdoc
 tags:
   - Politics

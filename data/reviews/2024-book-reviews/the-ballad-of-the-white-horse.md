@@ -1,16 +1,16 @@
 ---
-title: "The Ballad of the White Horse"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2024-book-reviews"
-contestName: "2024 Book Reviews"
+title: The Ballad of the White Horse
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2024-book-reviews
+contestName: 2024 Book Reviews
 year: 2024
-publishedDate: "2026-05-10T03:23:50.127Z"
-slug: "the-ballad-of-the-white-horse"
+publishedDate: '2026-05-10T03:23:50.127Z'
+slug: the-ballad-of-the-white-horse
 wordCount: 6251
 readingTimeMinutes: 28
-originalUrl: "https://www.astralcodexten.com/p/your-book-review-the-ballad-of-the"
-source: "acx"
+originalUrl: https://www.astralcodexten.com/p/your-book-review-the-ballad-of-the
+source: acx
 tags:
   - Fiction
   - History

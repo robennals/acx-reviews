@@ -9,8 +9,7 @@ publishedDate: '2026-02-06T16:55:03.482Z'
 slug: north-korea
 wordCount: 4438
 readingTimeMinutes: 20
-originalUrl: >-
-  https://docs.google.com/document/d/1a3q0Z2tuPLLbDeg5-pfEffkajGjrfPDwE7ZMs7uaWQs
+originalUrl: https://docs.google.com/document/d/1a3q0Z2tuPLLbDeg5-pfEffkajGjrfPDwE7ZMs7uaWQs
 source: gdoc
 tags:
   - Politics

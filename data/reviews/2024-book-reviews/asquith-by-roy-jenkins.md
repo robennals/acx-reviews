@@ -9,8 +9,7 @@ publishedDate: '2026-02-06T16:47:15.596Z'
 slug: asquith-by-roy-jenkins
 wordCount: 9087
 readingTimeMinutes: 41
-originalUrl: >-
-  https://docs.google.com/document/d/1AXmWgSbh_TFsoZuApSCSEoz57yn93CM5YYhtaO_s4W4
+originalUrl: https://docs.google.com/document/d/1AXmWgSbh_TFsoZuApSCSEoz57yn93CM5YYhtaO_s4W4
 source: gdoc
 tags:
   - History

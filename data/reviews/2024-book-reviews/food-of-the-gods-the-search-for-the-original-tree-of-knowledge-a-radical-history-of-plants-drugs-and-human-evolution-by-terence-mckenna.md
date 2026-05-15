@@ -1,19 +1,15 @@
 ---
-title: >-
-  Food of the Gods: The Search for the Original Tree of Knowledge. A Radical
-  History of Plants, Drugs, and Human Evolution, by Terence McKenna
+title: 'Food of the Gods: The Search for the Original Tree of Knowledge. A Radical History of Plants, Drugs, and Human Evolution, by Terence McKenna'
 author: Unknown
 reviewAuthor: Anonymous
 contestId: 2024-book-reviews
 contestName: 2024 Book Reviews
 year: 2024
 publishedDate: '2026-02-06T16:47:49.304Z'
-slug: >-
-  food-of-the-gods-the-search-for-the-original-tree-of-knowledge-a-radical-history-of-plants-drugs-and-human-evolution-by-terence-mckenna
+slug: food-of-the-gods-the-search-for-the-original-tree-of-knowledge-a-radical-history-of-plants-drugs-and-human-evolution-by-terence-mckenna
 wordCount: 5355
 readingTimeMinutes: 24
-originalUrl: >-
-  https://docs.google.com/document/d/1QiotH3aGFgNLGqsIHTK_Plm_gem2E4l2C2ctyGJd0jY
+originalUrl: https://docs.google.com/document/d/1QiotH3aGFgNLGqsIHTK_Plm_gem2E4l2C2ctyGJd0jY
 source: gdoc
 tags:
   - Biology

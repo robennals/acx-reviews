@@ -1,20 +1,15 @@
 ---
-title: >-
-  Public Choice Theory and the Illusion of Grand Strategy: How Generals, Weapons
-  Manufacturers, and Foreign Governments Shape American Foreign Policy by
-  Richard Hanania
+title: 'Public Choice Theory and the Illusion of Grand Strategy: How Generals, Weapons Manufacturers, and Foreign Governments Shape American Foreign Policy by Richard Hanania'
 author: Unknown
 reviewAuthor: Anonymous
 contestId: 2022-book-reviews
 contestName: 2022 Book Reviews
 year: 2022
 publishedDate: '2026-02-06T07:23:14.487Z'
-slug: >-
-  public-choice-theory-and-the-illusion-of-grand-strategy-how-generals-weapons-manufacturers-and-foreign-governments-shape-american-foreign-policy-by-richard-hanania
+slug: public-choice-theory-and-the-illusion-of-grand-strategy-how-generals-weapons-manufacturers-and-foreign-governments-shape-american-foreign-policy-by-richard-hanania
 wordCount: 7085
 readingTimeMinutes: 32
-originalUrl: >-
-  https://docs.google.com/document/d/1kQUUJhv-MpLawby2j4zXLZPDG6ligWd5xpIjH8UmWdw
+originalUrl: https://docs.google.com/document/d/1kQUUJhv-MpLawby2j4zXLZPDG6ligWd5xpIjH8UmWdw
 source: gdoc
 tags:
   - Politics

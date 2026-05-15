@@ -1,16 +1,16 @@
 ---
-title: "The True Creator of Everything: How the Human Brain Shaped the Universe as We Know It by Miguel Nicolelis"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2021-book-reviews"
-contestName: "2021 Book Reviews"
+title: 'The True Creator of Everything: How the Human Brain Shaped the Universe as We Know It by Miguel Nicolelis'
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2021-book-reviews
+contestName: 2021 Book Reviews
 year: 2021
-publishedDate: "2021-01-01T00:00:00.000Z"
-slug: "the-true-creator-of-everything-how-the-human-brain-shaped-the-universe-as-we-know-it-by-miguel-nicolelis"
+publishedDate: '2021-01-01T00:00:00.000Z'
+slug: the-true-creator-of-everything-how-the-human-brain-shaped-the-universe-as-we-know-it-by-miguel-nicolelis
 wordCount: 2942
 readingTimeMinutes: 14
-originalUrl: "https://docs.google.com/document/d/1M1m8o1HInGYJR3cEMYZ6TQgNmeBOWo98YC6djNnFWf0"
-source: "gdoc"
+originalUrl: https://docs.google.com/document/d/1M1m8o1HInGYJR3cEMYZ6TQgNmeBOWo98YC6djNnFWf0
+source: gdoc
 tags:
   - Science
   - Psychology

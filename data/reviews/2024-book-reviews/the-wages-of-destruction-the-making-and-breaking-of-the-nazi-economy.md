@@ -9,8 +9,7 @@ publishedDate: '2026-02-06T16:49:50.817Z'
 slug: the-wages-of-destruction-the-making-and-breaking-of-the-nazi-economy
 wordCount: 4849
 readingTimeMinutes: 22
-originalUrl: >-
-  https://docs.google.com/document/d/1Ki5XsE0jkxZtd2XAeyTAJw1ZjLh2Cu-matUYKAhA6-s
+originalUrl: https://docs.google.com/document/d/1Ki5XsE0jkxZtd2XAeyTAJw1ZjLh2Cu-matUYKAhA6-s
 source: gdoc
 tags:
   - History

@@ -9,7 +9,7 @@ publishedDate: '2026-02-05T15:57:37.868Z'
 slug: consciousness-and-the-brain
 wordCount: 7664
 readingTimeMinutes: 35
-originalUrl: 'https://astralcodexten.substack.com/p/your-book-review-consciousness-and'
+originalUrl: https://astralcodexten.substack.com/p/your-book-review-consciousness-and
 source: acx
 tags:
   - Science

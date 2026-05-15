@@ -9,8 +9,7 @@ publishedDate: '2026-02-06T07:22:32.823Z'
 slug: the-ecotechnic-future-by-john-michael-greer
 wordCount: 9990
 readingTimeMinutes: 45
-originalUrl: >-
-  https://docs.google.com/document/d/100kMdSVFviZSSBvUyyEQPMNlvLptVQxHFD9i9wGuBWs
+originalUrl: https://docs.google.com/document/d/100kMdSVFviZSSBvUyyEQPMNlvLptVQxHFD9i9wGuBWs
 source: gdoc
 tags:
   - Technology

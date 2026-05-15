@@ -1,5 +1,5 @@
 ---
-title: 'The Picture of Dorian Gray, by Oscar Wilde'
+title: The Picture of Dorian Gray, by Oscar Wilde
 author: Unknown
 reviewAuthor: Anonymous
 contestId: 2024-book-reviews
@@ -9,8 +9,7 @@ publishedDate: '2026-02-06T16:49:50.814Z'
 slug: the-picture-of-dorian-gray-by-oscar-wilde
 wordCount: 1202
 readingTimeMinutes: 6
-originalUrl: >-
-  https://docs.google.com/document/d/1Ki5XsE0jkxZtd2XAeyTAJw1ZjLh2Cu-matUYKAhA6-s
+originalUrl: https://docs.google.com/document/d/1Ki5XsE0jkxZtd2XAeyTAJw1ZjLh2Cu-matUYKAhA6-s
 source: gdoc
 tags:
   - Fiction

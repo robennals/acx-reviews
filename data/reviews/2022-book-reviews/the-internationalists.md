@@ -9,7 +9,7 @@ publishedDate: '2026-02-05T15:57:35.421Z'
 slug: the-internationalists
 wordCount: 8928
 readingTimeMinutes: 40
-originalUrl: 'https://astralcodexten.substack.com/p/your-book-review-the-internationalists'
+originalUrl: https://astralcodexten.substack.com/p/your-book-review-the-internationalists
 source: acx
 tags:
   - History

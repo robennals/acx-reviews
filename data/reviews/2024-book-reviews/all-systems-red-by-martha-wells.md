@@ -9,8 +9,7 @@ publishedDate: '2026-02-06T16:47:15.595Z'
 slug: all-systems-red-by-martha-wells
 wordCount: 2670
 readingTimeMinutes: 12
-originalUrl: >-
-  https://docs.google.com/document/d/1AXmWgSbh_TFsoZuApSCSEoz57yn93CM5YYhtaO_s4W4
+originalUrl: https://docs.google.com/document/d/1AXmWgSbh_TFsoZuApSCSEoz57yn93CM5YYhtaO_s4W4
 source: gdoc
 tags:
   - Fiction

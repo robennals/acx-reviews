@@ -9,8 +9,7 @@ publishedDate: '2026-02-06T07:22:32.818Z'
 slug: the-monty-hall-paradox
 wordCount: 3431
 readingTimeMinutes: 16
-originalUrl: >-
-  https://docs.google.com/document/d/100kMdSVFviZSSBvUyyEQPMNlvLptVQxHFD9i9wGuBWs
+originalUrl: https://docs.google.com/document/d/100kMdSVFviZSSBvUyyEQPMNlvLptVQxHFD9i9wGuBWs
 source: gdoc
 tags:
   - Science

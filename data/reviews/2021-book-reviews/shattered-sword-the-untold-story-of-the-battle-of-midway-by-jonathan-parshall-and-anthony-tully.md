@@ -1,16 +1,16 @@
 ---
-title: "Shattered Sword: The Untold Story of the Battle of Midway by Jonathan Parshall and Anthony Tully"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2021-book-reviews"
-contestName: "2021 Book Reviews"
+title: 'Shattered Sword: The Untold Story of the Battle of Midway by Jonathan Parshall and Anthony Tully'
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2021-book-reviews
+contestName: 2021 Book Reviews
 year: 2021
-publishedDate: "2021-01-01T00:00:00.000Z"
-slug: "shattered-sword-the-untold-story-of-the-battle-of-midway-by-jonathan-parshall-and-anthony-tully"
+publishedDate: '2021-01-01T00:00:00.000Z'
+slug: shattered-sword-the-untold-story-of-the-battle-of-midway-by-jonathan-parshall-and-anthony-tully
 wordCount: 6153
 readingTimeMinutes: 28
-originalUrl: "https://docs.google.com/document/d/1M1m8o1HInGYJR3cEMYZ6TQgNmeBOWo98YC6djNnFWf0"
-source: "gdoc"
+originalUrl: https://docs.google.com/document/d/1M1m8o1HInGYJR3cEMYZ6TQgNmeBOWo98YC6djNnFWf0
+source: gdoc
 tags:
   - History
 ---

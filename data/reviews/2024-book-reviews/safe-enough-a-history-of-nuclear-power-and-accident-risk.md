@@ -9,8 +9,7 @@ publishedDate: '2026-02-06T16:48:56.662Z'
 slug: safe-enough-a-history-of-nuclear-power-and-accident-risk
 wordCount: 8339
 readingTimeMinutes: 38
-originalUrl: >-
-  https://docs.google.com/document/d/1GYQw3pgvhi7hqOVR-Ql629Q_8thbyHe8sSRy5voyt30
+originalUrl: https://docs.google.com/document/d/1GYQw3pgvhi7hqOVR-Ql629Q_8thbyHe8sSRy5voyt30
 source: gdoc
 tags:
   - Technology

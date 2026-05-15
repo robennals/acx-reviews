@@ -9,8 +9,7 @@ publishedDate: '2026-02-06T16:48:56.662Z'
 slug: secret-agenda-watergate-deep-throat-and-the-cia-by-jim-hougan
 wordCount: 5740
 readingTimeMinutes: 26
-originalUrl: >-
-  https://docs.google.com/document/d/1GYQw3pgvhi7hqOVR-Ql629Q_8thbyHe8sSRy5voyt30
+originalUrl: https://docs.google.com/document/d/1GYQw3pgvhi7hqOVR-Ql629Q_8thbyHe8sSRy5voyt30
 source: gdoc
 tags:
   - Politics

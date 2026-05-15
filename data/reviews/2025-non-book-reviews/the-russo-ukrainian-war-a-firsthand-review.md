@@ -9,8 +9,7 @@ publishedDate: '2026-02-06T16:55:59.398Z'
 slug: the-russo-ukrainian-war-a-firsthand-review
 wordCount: 7358
 readingTimeMinutes: 33
-originalUrl: >-
-  https://docs.google.com/document/d/1jYVJFIz5-aMi0LCgsC9AN6BncJDNVGaMU37QmwZ1vzA
+originalUrl: https://docs.google.com/document/d/1jYVJFIz5-aMi0LCgsC9AN6BncJDNVGaMU37QmwZ1vzA
 source: gdoc
 tags:
   - History
