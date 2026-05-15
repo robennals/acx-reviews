@@ -46,7 +46,8 @@ async function userHasAccount(db: DB, userId: string): Promise<boolean> {
  *
  * Conflict resolution per table:
  *   - votes: drop victim row if survivor already has the same (contest,
- *     review) OR the same (contest, rank). Both are unique constraints.
+ *     review). Under the Likert schema only (user, contest, review) is
+ *     unique; multiple ratings at the same value are allowed.
  *   - favorites: if survivor already has the same (review) row, keep
  *     survivor's; drop victim's.
  *   - progress: if both exist for the same review, keep whichever has the
@@ -65,22 +66,18 @@ async function mergeVictimIntoSurvivor(
   const survivorReviewKeys = new Set(
     survivorVotes.map((v) => `${v.contestId}::${v.reviewId}`)
   );
-  const survivorRankKeys = new Set(
-    survivorVotes.map((v) => `${v.contestId}::${v.rank}`)
-  );
   for (const v of victimVotes) {
     const reviewKey = `${v.contestId}::${v.reviewId}`;
-    const rankKey = `${v.contestId}::${v.rank}`;
-    if (survivorReviewKeys.has(reviewKey) || survivorRankKeys.has(rankKey)) continue;
+    if (survivorReviewKeys.has(reviewKey)) continue;
     await db.insert(votes).values({
       userId: survivor.id,
       contestId: v.contestId,
       reviewId: v.reviewId,
-      rank: v.rank,
+      rating: v.rating,
       createdAt: v.createdAt,
+      updatedAt: v.updatedAt,
     });
     survivorReviewKeys.add(reviewKey);
-    survivorRankKeys.add(rankKey);
   }
   await db.delete(votes).where(eq(votes.userId, victim.id));
 

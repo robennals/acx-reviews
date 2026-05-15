@@ -114,7 +114,13 @@ if (isAuthConfigured) {
 
   _exports = NextAuth({
     adapter,
-    session: { strategy: 'jwt' },
+    session: {
+      strategy: 'jwt',
+      // 1-year sessions — readers come back to vote across weeks; a 30-day
+      // default expires before contests close, leading to silent 401s when
+      // a stale tab tries to vote. JWT cookie maxAge matches automatically.
+      maxAge: 60 * 60 * 24 * 365,
+    },
     trustHost: true,
     providers,
     callbacks: {
