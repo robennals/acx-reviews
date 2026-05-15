@@ -120,7 +120,6 @@ Baseball is greatly aided by playing on a team with your buddies, even though it
 I don't have anything novel to say on other sports not listed. But I'm sure they are great too. That's kind of the point of this whole thing. Find a thing and do it. And maybe try another thing too.
 
 * * *
-
 ## Team Sports
 
 It's too bad that the adult world basically fails at allowing opportunities to play most team sports (in a setting that is any fun at all). If you're lucky, maybe you can find a good pick-up basketball league, but most likely you're relegated to watching the professionals or coaching the kids at this stage. This observation says something about the world – yes these are games, and maybe there are better 'games' to play. Like working and researching and using your brain to earn money and/or create things for the world. You know, those games with less clear, longer feedback loops, but much greater positive externalities for the world (hopefully).

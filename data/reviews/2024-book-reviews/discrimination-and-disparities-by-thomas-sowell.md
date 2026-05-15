@@ -82,7 +82,6 @@ Sowell summarizes the lessons from disparities as follows (emphasis in the origi
 
 Discrimination is an odd word in that it has different, nearly opposite meanings. One can be discriminating in their tastes and gain a reputation for selecting the finest red wines. Conversely, one could discriminate against red wines and reject them all without giving them as much as a sniff. So we need to be clear about exactly what we’re saying when we talk about discrimination.
 
-
 Sowell creates two categories of discrimination:
 
 *   Discrimination 1: “an ability to discern differences in the qualities of people and things, and choosing accordingly”

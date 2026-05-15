@@ -19,7 +19,7 @@ tags:
 The Problem with Rory Stewart
 
 1.  ## Prologue
-
+    
 
 Often on my morning commute, entering London’s Old Street underground station (now in the fifth year of its endless redevelopment), I wave my iPhone towards the contactless ticket barrier, and find myself overcome with embarrassment. Sensing motion, the screen of my device illuminates without my consent, revealing to nearby passengers what is playing in my airpods - The Rest Is Politics podcast. TRIP might be the most popular podcast in the UK, but it is not the most fashionable.
 
@@ -32,7 +32,7 @@ The latter claim is in particular one against Stewart, who is meant to be the co
 The current Tory[[309]](#ftnt309) government is almost certain to lose the next election (which must be held before February 2025), and is likely to lose it by historic margins. The country is in the longest period of wage stagnation since the Napoleonic wars[[310]](#ftnt310). POTE is an opportunity to examine the government of a country in decline, and to understand a man who left that government.
 
 2.  ## Who is Rory Stewart?
-
+    
 
 Roderick James Nugent “Rory” Stewart was born in a far eastern corner of the British Empire in 1973, his father a Colonial administrator and diplomat. He was educated at the right schools, Eton and Oxford, sent from his home in Malaysia at age 8. Between Eton and Oxford he took a gap year (a sacred tradition of the British upper classes) to join the Scottish Infantry on a short commission. Despite his accent (and future constituency) Stewart is a proud Scot. He was a Labour party member until he was eighteen.
 
@@ -55,7 +55,7 @@ Arriving in parliament, he is unimpressed by many of his fellow MPs, who are onl
 In the US, this book was published under the title How Not To Be A Politician. Up to this point, the book has so far been a manual on how to become a politician.
 
 3.  ## Battling bureaucracy
-
+    
 
 The point is to be a minister, so the book is much more interesting once he finally gets there. This takes longer than it could have - Stewart joins a group of Conservative rebels who do not support David Cameron’s plan to reform the House of Lords (the unelected upper house). This risks permanently relegating him to the backbenches, but tradition trumped a promotion opportunity. After winning reelection Stewart is appointed a Parliamentary Under-Secretary in the Department for the Environment and Rural Affairs (i.e., a provincial role in every sense).
 
@@ -74,7 +74,7 @@ These frustrating stories are the best parts of POTE. Not only are they surprisi
 I’m unsure if Stewarts not linking his experience to any wider discussion of the civil service is a failure of the book or my own failure to read between the lines. Perhaps his strategy is more Machiavellian, and he wishes to expose the failures of the system, without revealing his allegiance to the Cummings-school of thought. Regardless, to draw the correct conclusions about the civil service from this book, it's worth taking a diversion into another one…
 
 4.  ## How Westminster works, and why it doesn’t (Ian Dunt, 2023)
-
+    
 
 This book describes what the title says it does, and opens with a case study.
 
@@ -93,7 +93,7 @@ But is POTE a complete repudiation of the Dunt theory of the civil service? I do
 Combined, these books illustrate the simultaneous strength and weakness of the government, or inversely, the simultaneous weakness and strength of the bureaucracy. This is a terrible conclusion, because it satisfies nobody, and makes diagnosing problems even more challenging. Given the complexity of this issue, it’s a shame that Stewart doesn't confront it more directly. Particularly in a country where critiques on the government are widespread, but mainstream critiques of government itself are rare (intelligent ones, anyway).
 
 5.  ## Brexit and economics
-
+    
 
 POTE opens on the 18th of June, 2019, with a debate between Stewart and other Conservative MPs, arguing over the details of Brexit and with each making their case to be leader of the party. We then jump back in time, retracing his entire career in politics up to that pivotal moment.
 
@@ -112,7 +112,7 @@ Earlier in the book, Stewart has some extremely harsh words for himself,“I tal
 This book is a memoir, not a manifesto. Is it fair to criticise it for failing to describe an approach to fiscal policy? I think if you want to be Prime Minister, you need a vision. Not for romantic reasons, but because a vision determines an agenda, and an agenda needs priorities. Though Stewart has not been able to articulate it, what should worry him most about Britain? Or rather… Why is it so depressing?
 
 6.  ## What is wrong with Britain?
-
+    
 
 Britain used to be one of the richest countries in the world, and now it is not. GDP has increased steadily since the great recession, due to a growing population, but GDP per capita peaked in 2007 (17 years ago). This is the result of stagnant productivity, which peaked around the same time.
 
@@ -145,7 +145,7 @@ Innovation in government delivery is needed, but won’t be possible without hon
 In theory there is a-off between the responsiveness of the civil service to ministerial (democratic) decisions, and the ability for an incompetent manager to wreak havoc on the system. If both theories of government are simultaneously true, this trade-off doesn’t exist. There are good ministers (Stewart) struggling to do useful things, while incompetent ministers are making bad decisions (Grayling). This suggests that rather than requiring radical reform, reorienting the different parts of “deep state” that either impede or facilitate action could solve both problems. “Outcomes over processes” may be less important than correct application of existing processes. (Though I could be giving too much weight to Dunt’s theory here; if made to choose, I would say POTE is more persuasive in arguing the opposing side.)
 
 7.  ## Necessary but not sufficient
-
+    
 
 I can’t recall the last time I devoured a book the same way I did POTE. I could not put it down. But a gripping story is not necessarily one built around great ideas.
 

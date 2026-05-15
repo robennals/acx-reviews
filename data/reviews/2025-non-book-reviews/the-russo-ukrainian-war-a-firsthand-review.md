@@ -31,9 +31,9 @@ even periodically fantasized about dropping everything and going to the Donetsk 
 With the invasion however, things changed. Before I had always vaguely felt that I would eventually end up doing something “cool”, and had soothed myself with reassurances that I was still in the “early life” section of my future Wikipedia article and would bide my time before I made my play at greatness.
 
 Now however, the unrealisticness of this conceit was thrown into uncomfortably sharp relief by a certain contrast I could not not ignore. Only three days after the start of the full scale invasion, Ukrainian foreign minister Dymytro Kuleba announced the creation of the “International Legion For The Territorial Defense Of Ukraine”. Unlike in 2014, Ukraine was now specifically and officially soliciting foreigners with military experience to fight for them! I was at least technically in that category! I thought about my own time in the military. My ideas of going to war in Afghanistan had been quashed by the US withdrawal not long after I joined, and I had quickly found that military life involved more editing forms in Adobe Acrobat and less explosions than I had naively supposed.  
-
+  
         But this was a real war, a deadly serious war, and a major, world defining event at that. In the early months of the invasion the international media talked about almost nothing else. I spent all day at my desk pretending to work while frantically refreshing OSINT live maps and breathlessly following news from the front. I remember the circulation of harrowing video clips. Kalashnikovs being distributed to civilians in Kyiv, the mayor of a small village publicly asking its inhabitants whether they should personally accede to Russian ultimatums, or risk having their property destroyed and lives forfeit- to resounding cries of “Glory to Ukraine”. The Ukrainians’ courage blew my mind. There were people who really had something to die for, and by extension something to live for.  
-
+  
         Meanwhile, there I was, sipping coffee and getting fat. The creation of the legion felt like destiny was reaching its hand out to me. Was I really going to ignore it so I could handle support tickets for the rest of my life?
 
 Over the next few days I began to entertain, half joking at first, the notion that I would join the war. As I began catching myself thinking about it more and more, and with increasing seriousness, I realized with a sinking feeling that this idea had germinated whether I liked it or not, and that I might really do this. I allowed myself to elaborate upon the fantasy with research. I started looking at helmets, body armor, and mag pouches. Finally I took the plunge. Following the Ukrainian government’s officially published instructions, I called the embassy in DC, and… no one picked up.
@@ -123,7 +123,7 @@ Another interesting angle to these “Amatuer NGOs” is that they were often ad
 The particular organization that I initially worked with also functioned very effectively as a kind of halfway house for foreign fighters entering the country and looking for a unit to join, while simultaneously putting up refugees who were fleeing the eastern part of Ukraine.
 
 The foreign fighters who passed through came in all shapes and sizes like the civilian volunteers, but their overall vibe was a bit different. Naturally there was less “save the whales” and more “I want to shoot people”. All of the negative tendencies I mentioned were if anything a bit worse than among the civilian volunteers, but at least they didn’t have to exaggerate to tell a good war story. There was less overlap with the bureaucratic professional NGO types among them.  
-
+  
 ![](https://acximages.ennals.org/images/2025-non-book-reviews/ff301268ce42b760.png)
 
 The post invasion foreign community in Ukraine is pretty small, and everyone knows someone who knows someone. I fell in with the others of the military crowd, and soon I found my way to the Legion.

@@ -23,7 +23,7 @@ _A Thousand Ways to Please a Husband_ (published in 1917) is the most interestin
 The book is (almost) literary. It has an immense collection of recipes, some of which are decent. And it might shine a little light upon the social mores of the past—might even be useful in understanding some aspects of the present. Why, the fine folks at Project Gutenberg saw fit to [digitize the thing](https://www.gutenberg.org/ebooks/42868). We might as well read it.
 
 1.  ## The Food of Bettina’s World
-
+    
 
 Our frame story for _A Thousand Ways to Please a Husband_ is that of the relationship between Bob and Bettina, a newlywed couple just moving into a place of their own. They are very cute. That’s to be expected from a metafictional level; no cookbook author is going to embellish their content with a gripping tale of infidelity, betrayal, and alcoholism. C’mon now. Of course they’re happily married.
 
@@ -56,7 +56,7 @@ Those are a couple of fine examples. There are many more; some adaptation may be
 It’s one such visit which sets off what I view as the main thread of the book’s plot. This cookbook _does_ have a narrative element, remember?
 
 2.  ## The People of Bettina’s World
-
+    
 
 I suppose I could list a lot of the _dramatis personae_ at this point. There’s Bettina and Bob, of course, and their respective families—Bettina’s parents stop by to visit, while Bob has a suffragette Aunt Elizabeth and an Uncle Eric who’s a queer old bachelor—and their respective circles of friends. Their friends are mostly interchangeable, except for Alice and Harry (Mr. Harrison), friends to Bettina and Bob respectively, who are two rather strong-willed individuals. Naturally, once introduced to each other they swiftly fall in love and get married.
 
@@ -97,7 +97,7 @@ The two get to spend a pleasant night in, Bettina whips up some celery au gratin
 It’s nice, I guess, that they obviously care for each other and enjoy doing things together.
 
 3.  ## The Values of Bettina’s World
-
+    
 
 There’s an idea common in certain Abrahamic religions—mostly Christianity, although similar trends exist elsewhere—that men and women have distinct roles to play, that men do male things and women do female things, often in the context of marital responsibilities or societal expectations. The term for this is [complementarianism](https://en.wikipedia.org/wiki/Complementarianism), because ideally male and female roles complement each other, and while each gender does different things they both do what G-d has set aside for them to do. Men are to be like Peter, and women are to be like Mary. Something along those lines.
 

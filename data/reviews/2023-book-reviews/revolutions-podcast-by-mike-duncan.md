@@ -154,7 +154,6 @@ Duncan: “Our leaders have come to regard their own judgments and decisions and
 
 You may have noticed that Lenin and Stalin were not military men. Good point, but they were well aware of this anomaly, and took pain to see that no generals gained a name for themselves. In a classic example of Soviets shooting themselves in the foot, this destroyed their military leadership just in time for WWII. If you’re a charismatic leader, in Soviet Russia politicians overthrow you!
 
-
 Another depressing point at the end of revolutions: “All of our charismatic authority figures wind up wielding more power and have a greater reach than whatever ruler was in place prior to the revolution. If you look at the military resources and financial resources available to them, the size of the bureaucracy out there doing their bidding, the breadth and depth that they can expect their laws and decrees to be enforced throughout society, we always find a very big jump in the power of the executive.”
 
 The American revolution got going because of a few taxes. The new US government had way more tax authority than the British Crown ever did. Well at least we don’t have a Great Idiot in charge anymore. And maybe that is all worth it, if the new system stops Great Idiots from getting into power, that’s better than before. Fans of enlightened despotism could easily see this podcast as confirmation bias.  

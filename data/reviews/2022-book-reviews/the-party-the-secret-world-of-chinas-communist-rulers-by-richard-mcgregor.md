@@ -23,7 +23,7 @@ Numbers that describe the growth of the Chinese economy are eye-popping. (The Pa
 > The socialist system is the fundamental system of the People's Republic of China. Leadership by the Communist Party of China is the defining feature of socialism with Chinese characteristics. It is prohibited for any organisation or individual to damage the socialist system. – [Constitution of the People's Republic of China (Article 1)](http://www.npc.gov.cn/englishnpc/constitution2019/201911/1f65146fb6104dd3a2793875d19b5b29.shtml) 
 
 1.  ## Ambiguity Is The Point
-
+    
 
 First off, McGregor clarifies the system of government in China (as much as he can). There are courts, cabinets, and governments at each level: city, province, federal. But these are subordinate to the party committees at the corresponding level. So, the real chain of power would look something like this:
 
@@ -40,7 +40,7 @@ McGregor takes the reader on a tour of the different departments inside this sha
 Reading any book about China is disorienting. It is impossible to understand modern China's rise from outside China. The closest one can get is to understand the institutions which spurred the unprecedented growth and prosperity, alongside a controlling state. Accepting that communism and prosperity can coexist is difficult. Cuba, Russia, and East Germany have corrupted the imagination of the capitalist world. The drab brown clothing is seen as a stand-in for governing systems that are unimaginative and do not possess the tools to thrive in a world with _open_ borders for goods and people. To fall into this trap and term the Chinese government as authoritarian or the privacy sacrifices made by the Chinese people as futile would be a grave mistake. The open-borders, liberal model of development was used by some countries to reach their higher-income status. This model is being exported by institutions such as the WTO, the IMF, and the World Bank. However, it does not exclude the existence of another, more effective model which is appropriate for Asia. The Chinese model of growth is the most recent example of an economy growing from scratch to a dominant position. Dismissing it out-of-hand is short-sighted.
 
 2.  ## Propaganda, History, and Mao
-
+    
 
 The State-approved consensus inside China is that Mao is "70% good and 30% bad." This seems like an overly positive evaluation for a leader who unleashed 10 years of madness and death during the Cultural Revolution, after his previous plan (The Great Leap Forward) failed to produce the socialist utopia that he was aiming for. Why does this evaluation still hold sway?
 
@@ -57,7 +57,7 @@ McGregor gives a detailed recounting of the CPC's decision in 1981, 5 years afte
 Control over the narrative of China's past and present falls to the Propaganda Department. To control narratives of the present, weekly guidelines are issued to all newspaper editors. These guidelines list topics that are out-of-bounds. True to form, these guidelines are ambiguous. The ambiguity in them is supposed to be interpreted as conservatively as possible by editors who _know_ where the line is. The stories that cross this line never get written. The Propaganda Department is the most shadowy and hidden part of a government system where few people openly talk about **anything,** except what is already settled CPC policy.
 
 3.  ## People's Liberation Army And Its Importance To CPC
-
+    
 
 The People's Liberation Army (PLA) is China's military. As General Secretary of the CPC, Xi Jinping is also the head of the Central Military Commission (CMC), which controls and courts the PLA. In McGregor's reading, "the PLA is the only real threat to the CPC." I am not convinced that other threats don't exist or that those that exist could go out of the CPC's control in the future. But that the PLA is a threat to the CPC is beyond doubt. With control over the media and over assembly of its citizens, the only group of citizens who are allowed to carry weapons and assemble are soldiers in the PLA. Measures have been taken to keep them placated.
 
@@ -74,7 +74,7 @@ Second, the CPC realised the potential of a revolution when some PLA commanders 
 Third, the Taiwan question. Under Chinese premier Jiang Zemin, this question was desperate for an answer. Jiang was a nationalist and did not care about the economic impact of military conflict. His period as the chairman of the CMC _after_ the end of his tenure as the General Secretary of the CPC was dangerous for the new premier Hu Jintao, who wanted to refocus on the economy. The PLA preferred a military conflict with Taiwan because it had been recently modernised (bolstered by the budget increases, that came without fail each year.) and because it saw an opportunity to get _out_ of the Party's control during the chaos that would undoubtedly follow a war with Taiwan. Hu extricated himself from this precarious situation because the Chinese people agreed that the Taiwan question could be left unsettled for some more time. (Their tacit approval is inferred from the lack of widespread protests demanding a military conflict with Taiwan for reunification. Such widespread protests were predicted by some conservative scholars inside China and by Jiang's supporters.) After Hu's term began in 2002, the Taiwan question was put on the back-burner; and the PLA's ambitions to break free of the Party had been squished.
 
 4.  ## The Party and Corruption
-
+    
 
 A significant threat to the CPC is corruption and cronyism within its ranks. The Chinese government system's "decentralisation for quick decision making" works _only_ when its ranks are full of talented and competent people, who are acting at least indirectly in the Party's interests. Indeed, Party membership should be contingent on these skills. But corruption can taint even the most talented of people. Avoiding corruption and cronyism among officials, especially those that are further away from Beijing has been a challenge for the Party.
 
@@ -89,7 +89,7 @@ McGregor goes into a long digression about Shanghai and the role of corruption i
 This part of the book was the most revelatory for me. It is clear to me that officials in China have more power than bureaucrats in other Western-style democracies. Corruption is widespread in democracies where the official is vested with power over the permit process and even over ordinary citizens. While McGregor himself does not go into reasons about why officials are not _more_ corrupt, a genuine belief among officials that the growth of their regional economy will also lead to personal benefit seems to be the main reason. In McGregor's telling, the anti-graft commission plays a somewhat secondary role in controlling corruption, with its main role being to show outsiders that the Party is tough on corruption.
 
 5.  ## Decentralisation Policy Cycle
-
+    
 
 A large part of China's economic growth has come from the _right_ amount of decentralisation. What is that right amount? There is no answer to this question. There does seem to be a "tolerable" level of decentralisation though, because the government in Beijing is stuck in a policy cycle with alternating periods of centralization and decentralisation. This diagram illustrates the cycle.
 
@@ -102,7 +102,7 @@ Local governments compete fiercely against each other. This competition is infla
 The Sanlu dairy poisoning incident from 2008 was a disastrous coalescence that led to deaths, a cover-up and eroded confidence in dairy products produced in China. McGregor provides a gripping account of the scandal, which follows the executives at the dairy company Sanlu and the Party officials during the first few days after the discovery of the poisoning. The scandal was uncovered a week before the Beijing Olympics in 2008. The options that are available to them are all painful and they have to choose between varying degrees of disaster. The Propaganda Department had issued guidelines that prohibited any reporting related to food safety issues. The chairman of the dairy company decided that she would cover-up the scandal at least until after the Olympics, which would be overshadowed by a scandal of this magnitude, especially one with the sensitive image of dead infants associated with it. The chapter recounts a nationalist decision by a company executive, who knew that no matter what she chose to do, her personal life (and possibly her career) was going to be tainted by this failure. Yet, she decides to cover the matter up and tow the Party line. When the scandal was discovered, justice was swift and top managers were punished. No mention was made of the Party's guidelines that resulted in the delayed public discovery of the scandal.
 
 6.  ## Avoiding The Perils of Single-Party Rule
-
+    
 
 What is the problem with being the only political party that is allowed to exist? **You are responsible for** _everything._ Every bump in the road can become an existential threat. As dictators in the Middle East found out during the 2011 Arab Spring protests, when the public starts protesting due to some unrelated economic issue (such as inflation), they won't _stop_ when that issue gets resolved. Things spiral from there. And there is little a government can do when its own people rise up against it. Democracy gives people the opportunity to "rise up" and vent their frustration every 4 or 5 years. Other forms of government don't give the people any chance at all. The CPC is no different and knows about the perils of single-party rule intimately.
 
@@ -119,7 +119,7 @@ Control over the history that gets told to Chinese children is the final tenet o
 The Party's approach has very much been: **"Deliver economic growth to all parts of society. Don't allow too much public introspection or debate. Don't be wrong."** 
 
 7.  ## Foreseeing The Future
-
+    
 
 The CPC has had an uncanny ability to foresee the booms of the future. When presented as a list, they are impressive.
 

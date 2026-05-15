@@ -168,7 +168,7 @@ It’s important to have clear and precise language when discussing technical to
 To be extra careful to avoid ambiguous language, Koonin uses terms like “human-caused climate change” to refer to climate responses to human activity. I will do the same in this review. Two things excluded by this definition are worth emphasizing:
 
 1.  Much of human behavior is not included in this. If people spread dry brush everywhere which causes a huge increase in wildfires, that would not be attributable to “human-caused climate change'' by this definition.  
-
+    
 2.  Natural climate change is not included. There is natural variation to the climate that generally moves much more slowly than human-caused climate change (except when an errant asteroid or unruly supervolcano interferes). Sea levels have always gone up and down throughout history. So if sea levels are rising today, it’s not necessarily because of human-caused climate change. If, however, human influences are causing sea levels to rise more (or less) quickly, then that is considered an effect of human-caused climate change.
 
 ### Sources of Information for Climate Change

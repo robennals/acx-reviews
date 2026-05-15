@@ -218,7 +218,7 @@ I still don’t feel like I have the answer to that question, but I’m grateful
 [[13]](#ftnt_ref13) Try searching  Murderbot in r/autism
 
 [[14]](#ftnt_ref14) In this case and all subsequent cases, when I quote from the book I will duplicate its footnotes:  
-
+  
 In 1946, Congress passed the National Mental Health Act. Between 1946 and 1960, membership in the American Psychological Association ballooned from 4,173 to 18,215. Moskowitz, In Therapy We Trust, 154.
 
 [[15]](#ftnt_ref15) Furedi, Frank, Therapy Culture: Cultivating Vulnerability in an Uncertain Age (New York: Routledge, 2004), 10.

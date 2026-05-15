@@ -43,19 +43,19 @@ Britain was the first country I ever went to outside of North America (I’d bee
 The food really isn’t as bad as people claim that it is. When made properly, it’s got a sort of comforting subtlety to it, with soft and warm and rich flavors. It’s comforting.
 
 Some things are exactly as bad as you think. This country is a weird soft-and-cuddly-authoritarian nightmare where nothing quite works anymore and it’s illegal to make bad social media posts. I was once hit by a car and didn’t receive an ambulance when I called emergency services because my case was judged as not being bad enough.  
-
+  
 Some things are just weird. They’re actually incredibly incredibly violent as people. People will just start punching each other in public over mild disagreements. You can get in a fistfight by looking too hard at the wrong sort of person – all of the guys I’m thinking of were white, this isn’t an immigrant thing, British people are just awful – and people barely react to fights happening in front of them on the street. It just doesn’t show up in statistics because people don’t even bother to report it, and no one can so much as carry around a screwdriver so no one actually gets killed in this. It’s just regularized low-stakes violence.
 
 Your speech is policed, and you might get punched at any time – Britain is a bit like being in highschool again. Speaking of childishness, British people are actually a LOT more vulgar and a lot more emotional than Americans. I’m not sure where the idea came from that it was the reverse. British people are much more willing to get emotional over even tiny problems, and their newspaper headlines all read like things a shitty teenage boy would write. The subtext of every America ad is that this product will make you sexy. The subtext of every British ad is that this product will allow you to embrace the pure and innocent joy of a retarded child. I get the sense that every real adult immigrated to America, and something is missing from the basic genepool of England.  
-
+  
 As an aside, I have figured out why Britain is so damned weird about trans women. It’s because genetically English women look like men. It is so easy to be a passing English trans woman. The native English cis woman can’t just smile and nod at trans women – there’s a real threat of the categories of cis women and trans women being mixed up, here. I can see how that might cause somewhat more panic than trans women do in more attractive countries.  
-
+  
 Yes, the immigrants. The inevitable paragraph about the immigrants. It’s required, isn’t it. Here’s the thing about London. You have a very clear image of London in your head. Or maybe a fuzzy one. But either way, it’s a London that _is English_. This is not an accurate mental image. Maybe in 1950 it was accurate. But in 2025? No. London is 40% White English. This is very jarring, even if you are not a racist, even if you are not even particularly fond of the English, for the simple reason that anything being not what you had always imagined it to be your whole life is jarring.
 
 Large parts of London are very very clearly immigrant – the shops have non-English labeling, the people aren’t white, etc., etc.. Large parts of London are sort of… international-feeling. Like they could be in any city in the world – if you look carefully, there’s clear signs in the little details of the buildings and such that you are in fact in Britain, but in some universal sense a McDonald’s is a McDonald’s and a Starbucks is a Starbucks and a McDonald’s analogue that serves Korean food instead is that, and a Starbucks analogue that has a different name is that as well. A few isolated parts of London are very distinctly and intentionally English. These are my least favorite parts of England.
 
 The immigrant parts are simply what they are. A family-owned Lebanese grocery store doesn’t have some plan to be a family-owned Lebanese or Kurdish or whatever grocery store. It’s family-owned because a guy started a grocery store and he needed his kids to work there. His brother is a butcher at the back counter. His other brother ended up baking the fresh naan. It’s Lebanese because he’s Lebanese, or it’s Kurdish because he’s Kurdish. It serves naan and samosas without a second thought, because he doesn’t really care if it’s “truly Lebanese” or not. He wants to sell these, and his customers want to buy them. It’s organic. It’s honest. Their prices are low, their products are good, and they smile at you obligingly. So, you shop there all the time.  
-
+  
 The English parts are planned down to the smallest detail. There’s a committee, probably government, that’s designed around making sure that it’s perfectly and properly English, whatever they decide that that means. Obviously, deciding that it’s Perfectly And Properly English means attaching everything to some imagined glorious past – what is English is a moving target. Obviously, some things are, and some things aren’t, it’s not a meaningless term – but just as obviously, it changes over time. What was English in 1025 is not what is English in 2025. So these committee buildings – restaurants or museums or apartment blocks or neighborhoods – feel inorganic and planned and tacky and fake.
 
 The English parts of England are when England is least itself, which raises the obvious question of what exactly an England is or what an Englishman is. I don’t know. I don’t think that Britain knows anymore either. That’s one of the reasons that their politics is so weird these past 20 or so years. They're trying to fix something, and they don’t even know what it is or how it operates under ideal conditions or what it’s supposed to do if they do somehow fix it.
@@ -65,13 +65,13 @@ London is not the worst city in the world. But it is a dirty violent nothing-vib
 ## United States: Husband
 
 I’m from here.  
-
+  
 If I’m smart enough and lucky enough I’ll never ever have to go back here.  
-
+  
 Nothing good ever happened to me in America, in retrospect, other than marrying my wife. This happened after she was in America for perhaps 2 months. We had known each other online for quite some time before this, and now travel the world together. I now realize that this sounds like I am getting duped or taken advantage of. She is richer than me. I just have a cooler, more interesting life than you, probably.  
 
 I used to not feel like an American, when I lived in America. I didn’t think much of American ideals. Now I feel differently. It turns out that when I am the only American in the room, “being American” is the most important fact about me, and when I am faced with non-American ideals, or lack thereof, I think quite highly of American ideals.  
-
+  
 America is a great idea, but it is an expensive dirty place with ugly cities and it is impossible to walk anywhere.
 
 It’s only really by leaving your home country that you learn anything about it, I suppose.
@@ -98,18 +98,16 @@ I first came here because my wife took me here for my first birthday I celebrate
 
 The city’s housing is 70% airbnbs, though. It is a theme park, designed to make tourists like me feel incredible so that we part with our money. I once talked with my Uber driver as he took me to the airport, and he told me that he had been on a police assault team there. He’d loved it; he’d loved the thrill, he’d loved the comradery, he’d loved protecting his community, he’d loved being a hero; he was a handsome and well-muscled man, and it was easy to imagine him as such. But, he said, he’d had to give all that up because Uber paid more than that. I was very upset by this, though tried not to show it, and probably expressed my condolences to him poorly.
 
-
 The stereotypical Czech dish is in three parts – a fluffy yet rich egg-and-flour dumpling that’s white and full of visible sponge-like holes when it’s sliced up on your plate, which it always comes as already. Next to it is something of meat and roasted – pork, wild boar, venison, and rabbit have all made a showing on my plate. Sometimes it’s breaded before roasting, sometimes it comes to your plate bare, but always the meat is juicy and tender. Third, all across the plate, drowning dumpling and meat, is the sauce – a rich cream gravy flavored with paprika and vegetables and more things than I can name or am certain of. But it is thick and I could have a whole meal of nothing but that. Alongside this trinity is a massive glass of light high-noted richly acidic beer, at times literally sold for less than the price of water, and in my opinion the best in the world.
 
 I returned to Czechia 2 times after this.  
-
+  
 Once on a roadtrip with my boss to see a variety of Czech properties for her to put her company campus in; I found an income-generating property that fit all of her wildest requirements within a 45-minute train ride of Prague, for half of her budget. She fucked around for 6 months doing ketamine rather than buying it. She is a well-intentioned woman and I wish her the best, but she is not much in contact with reality; though, frankly, that’s probably why I even got to work with her in the first place; she hired me because I was her favorite blogger. I hadn’t made a post in over 18 months, at the time. The Czech countryside is not as magnificent as Prague – it is almost all a nearly-American pastoral highway-broken emptiness dotted with 900-year old villages with beautiful coble streets and gilded clocks on disused guildhalls, next to hardware stores that advertise paint with bare-breasted models. They are very sexually libertine.
 
 The real estate agents were mostly liars and cheats and layabouts who knew nothing of their business or product, and the countryside often had that emptied-out feeling from hyperurbanization – in village after village it was hard not to notice that it was only the old left. The young had fled; perhaps to Prague, perhaps to Brno, perhaps westward into Germany and France and the Benelux, those economic giants of sclerotic Europe, Europe of the never-ending Great Recession, Europe who makes nothing, Europe sheltering under the American security umbrella while whining about American barbarousness, Europe of whiners and Europe the museum-continent. There were still some young people in only two villages, and interestingly, those two had two of the most promising properties – not that, in the end, it mattered at all. My boss spent 6 months doing ketamine rather than actually purchasing the place. She also never gave me a clear look at her own financials. I honestly don’t understand why she hired me.
 
-
 The last time I returned (and perhaps for the final time) for a few hours with my wife to see it on a layover while we were transiting from Portugal to Cyprus at a deeply inopportune time in deeply disappointing circumstances that would later grow worse, though this is not the place or time for that story.  
-
+  
 That time, it was hard not to see it as a tourist trap, the crowds swelled with late December and the air biting at us – we had our delicious meal and our delicious beer, we had our wander through the streets. Overall, the experience was as magical as always, but by that time, I was aware of the synthetic nature of that magic even as I found it enchanting. That sort of double-consciousness creates something of a struggle within oneself, and while it does not prevent my enjoying the city, it does keep me from relaxing fully into that enjoyment.
 
 ### Czechia: Wife
@@ -128,23 +126,22 @@ Unfortunately, Georgia is a political tinderbox and I would say it's simply incr
 
 ### Georgia: Husband
 
-
 Living in Georgia is how I found out that if you just straightforwardly describe places you’ve been to, people who have never left America will accuse you of being a racist for saying that people outside of America aren’t very much like Americans.
 
 I lived in Georgia for two years. This is the longest I’ve lived anywhere in the world other than America. I lived in Tbilisi, though, this is obvious if you know what living in these sorts of countries are like. Many countries are just a city with a country attached.  
-
+  
 Georgia had cheap medical care, but unhealthy enough food and drink that I found myself needing it often. Georgia was cheap in general, at least by the standards of the Black Sea, at least when not considering anything imported, but got more expensive and more xenophobic as Russians flooded in to dodge the draft – we moved there a month before Putin declared his war.  
-
+  
 We had moved there because it was the one place both me and my wife could get a 1-year-long infinite-renewable visa-waiver just by showing up. When your visa is running out, you can just visit somewhere else for a few days – I traveled often enough, naturally, that I always found a reason to be out of Georgia for a few days long before the time limit was up.  
-
+  
 Georgia is a run-down little ex-Soviet place, but to a degree, that is its charm.  
-
+  
 Georgians are incredibly aggressive, often violent, often stupid, and generally exist in a sort of blind malaise. It is important to note that they had a long period of high levels of childhood lead exposure, which they eventually fixed.  
-
+  
 Georgians are obsessed with the idea of joining the EU, which will never happen for them, for like 12 different incredibly obvious answers. They mostly want to join the EU because they believe that it is the club for white countries and they want proof that they are a white country.  
-
+  
 If you tell them that they’re not going to join the EU, they’ll threaten to rape your wife and mother.  
-
+  
 Still, it’s an incredibly beautiful country, and it’s nice to not visually stand out there, in comparison to how I come off in most cheap countries.
 
 ## Portugal: Husband
@@ -156,7 +153,7 @@ They visited me once in two years, and I visited them twice; it was unpleasant b
 My parents would like it if I talked about how sunny Portugal is. They always tell me so. They have only ever invited me there in November and December, so to me it is just relentlessly gray and wet. I don’t believe that my mom genuinely thinks that Portugal is sunny. Porto is 7 degrees of latitude north of LA, where she grew up. I think that she just thinks that that’s a nice thing to say about a place. Europe is much further north than North America. People like to forget this. “Blah blah blah Gulf Stream blah blah blah”, fuck off. Latitude and altitude determine hours of daylight. And Porto is a dark, dark city in December. Not only is it dark, it’s cold. In temperature, it’s above 30 degrees Freedomheight at all times, but everything is set up to make every building and street as cold as possible, because for most of the year it is quite warm (I am told) and Europeans are generally too poor to afford air conditioning; or, I should specify, a swamp cooler costs 400 dollars in Europe for some goddamn reason and Europeans are poor. It’s a combo effect.
 
 My parents would like it if I talked about how cheap Portugal is. It’s… kinda mid-range for Europe. I find it pretty expensive – it’s certainly more expensive than most of the countries on this list.  
-
+  
 Portugal isn’t easy to get a visa to be in, nor is it particularly more easy than you’d expect it to be to get to given its geographical position, nor is it a good place to start a business or invest in any way – it is absolutely choked with bureaucracy and laziness and anyone ambitious and young leaves to go do anything, anything at all, in France or Germany or the Benelux. But my parents have disagreed with me about all of those things.
 
 At the time of this writing, my parents’ visa is currently about 6 months expired and the Portuguese government knows that it is their fault, which is why it has given them about a 6 month extension. Which is itself about to run out, but my parents assume that they’ll just get another one.
@@ -224,9 +221,9 @@ My favourite place in Bangkok is Wat Arun - the Temple of Dawn. Go very early in
 ## Cambodia: Husband
 
 Cambodia is the country that I recommend as a starting place for all digital nomads.  
-
+  
 You can go there for…indefinitely, and the visa costs less than $400 per year. It’s very easy to get. The food is basically Thai food but without the sugar, and the culture isn’t terribly different from Thai culture, either. Rent and services are cheaper than in Thailand, but goods are more expensive. My rent was $175 a month – the Hideout in Kampot, the best landlord I ever had. Canadian guy. I spent more on food than on rent. I lived there for 7 months, and found it intensely peaceful and relaxing. It was a good place to get some work done, I found the country beautiful, I very much enjoyed the people and their honest nature, and generally I found it pleasant but a bit dull.  
-
+  
 I remember one time that I accidentally overpaid a Cambodian man by a dollar – they use American currency there as readily as the Khmer Real – and he gave it back. I tried to tell him most people would have just kept it – the Cambodian GDP per capita works out to just under $6.68 a day – but he seemed confused by the idea. “But I already have all the money that I have,” he said, in badly broken English. He wasn’t offended by my idea or anything – he was just confused. The idea of keeping the dollar was simply not one that naturally occurred to him as a thing that a person _could_ do – he wasn’t stupid, either. I found myself awkwardly explaining it to him, and he did appear to get it. It’s just that no one had ever told him that this was a thing that he _could_ do, before.
 
 The beautiful thing about Cambodia is that rule of law, bureaucracy, and state capacity is about as limited there as you can get outside of an outright state of civil war. I never started a business there or did anything to truly advertise my wealth. But I was repeatedly told that if I did such a thing, I would find myself having to bribe every single local policeman and taxman.
@@ -242,7 +239,7 @@ The two real drawbacks are the lack of good health care compared with Vietnam or
 ## Turkey: Husband
 
 Turkey (I’m not calling it what Erdogan wants. Fuck him. And his new spelling is motivated by a 3rd world mindset misunderstanding of English and would be pronounced EXACTLY LIKE TURKEY IS by most native English speakers) is the 2nd worst country I’ve ever been to. Well. Istanbul is. It’s clogged with traffic, it’s dirty, I had to fistfight an Uber driver who tried to rob me and my wife, all the shopkeepers yell at you as you pass their shops, the prices are essentially random because their currency is so chaotic, they don’t reliably have western toilets, the food isn’t even THAT good, the city’s skyline is maddeningly flat and city-filled – there’s neither mountains nor forest nor skyscrapers from any height, and something about this simply causes me panic – there’s so many mosques that at one point I could see 5 of them while standing in one place, and it somehow speaks the least English out of every country on this list.  
-
+  
 I have never been to parts of Turkey that aren’t Istanbul. For all I know they are perfectly nice.
 
 ### Turkey: Wife
@@ -278,7 +275,7 @@ My husband and I are thinking of moving to Japan. I can’t wait to explore more
 ### Japan: Husband
 
 I have spent exactly two weeks in Japan (in Tokyo and Kyoto) and I would quite like to go back.  
-
+  
 I feel like a bit of a basic bro for being a white guy who loves Japan. But you know what? It’s actually great. Tokyo is a city with zero trash on the streets, and it’s so smog-free that it actually smells _good_. The food is amazing, the general vibe is great, I would enjoy simply wandering around and existing in Japan. It was a fantastic time. I don’t know what to tell you. You’ve seen travel reviews of Japan. It is exactly like the travel reviews. It lives up to the hype. It’s a fantastic place.
 
 I’m not even a weeb or anything. It’s just great. It is exactly as has been advertised to you.
@@ -286,11 +283,11 @@ I’m not even a weeb or anything. It’s just great. It is exactly as has been 
 ## Our Conclusion
 
 As we finish writing this, we’ve been coming to terms with some bad health news that means we need to settle down in one place for a bit. Travelling from country to country is a massive privilege, but it also means forgoing a proper kitchen and a real exercise routine and consistent medical care and all the other things that catch up with you as you turn thirty.  
-
+  
 The thing to consider, though, is that you might be preserving your body – you might be scrimping and saving and etc – all for nothing. You might get hit by a bus tomorrow. You might live to 100. You should probably do things that make sense with either. Working a job so you can rent an apartment so you can work a job isn’t a great use of your time. I’m not saying that seeing the world is the only thing worth doing, but I am saying that the only things worth doing are things that you think are worth doing.
 
 I was thinking about the conclusion I want to write for this - the takeaway that I want readers to have. It’s hard because something as big as moving countries regularly feels like it shouldn’t _have_ a conclusion. I don’t want to stop travelling. I’m not done learning.  
-
+  
 It is crazy for there to be an entire world and for you to only see one part of it. That is a weird thing to do. You are given so many options and so little time, and you spend your time on just one of them. Why are you doing this to yourself?
 
 But if there were anything - one thing - I had to say, I’d say this.

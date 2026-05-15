@@ -100,7 +100,7 @@ If concepts like the Big 5 personality traits don’t generalize, then people in
 Beyond this more obvious consideration, I balk at the gossip account because I find it boring. I already spend too much time, along with everyone else, wringing my hands about the problems of social media. I don’t want to contaminate history as well. Of course, this would appear to be a purely aesthetic reaction and potentially a poor guide to the truth.
 
 In that spirit, let me give an alternative view to Hoel around the sapient paradox. I am building this idea based on the ideas put forth by Richard Wrangham in his book _The Goodness Paradox._  There, Wrangham suggests that humans self-domesticated once they had language. Why?  Because they quickly found that they could use language to coordinate group murder.  
-
+  
 In a chimp troop, there is a shocking level of violence. High status group members often beat, bite, and claw lower ranked members. One of the marks of a male chimp becoming an adult is delivering a nasty beating to his own mother. The alpha male sits atop the hierarchy and uses violence and intimidation to take disproportionate resources.
 
 There are coalitions, but they are limited without language. They are restricted to a few individuals, and they can’t really plan to work together. Given that, a dominant alpha can survive  indefinitely because the others struggle to coordinate against him. Once humans evolved rudimentary language, it would have been possible to quickly understand that a group could coordinate to kill anyone they saw fit.
