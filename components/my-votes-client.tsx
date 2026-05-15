@@ -80,11 +80,6 @@ export function MyVotesClient({ reviewLookup, activeContestYear }: Props) {
             key={e.reviewId}
             className="flex items-center gap-3 px-4 py-3 border-b border-border last:border-b-0 hover:bg-muted/30"
           >
-            <RatingChip
-              reviewId={e.reviewId}
-              reviewYear={activeContestYear}
-              reviewTitle={e.title}
-            />
             <div className="flex-1 min-w-0">
               {e.slug ? (
                 <Link
@@ -100,6 +95,11 @@ export function MyVotesClient({ reviewLookup, activeContestYear }: Props) {
                 {LIKERT_LABELS[e.rating]} &middot; rated {relativeTime(e.updatedAt)}
               </div>
             </div>
+            <RatingChip
+              reviewId={e.reviewId}
+              reviewYear={activeContestYear}
+              reviewTitle={e.title}
+            />
           </div>
         ))}
       </div>
