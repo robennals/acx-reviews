@@ -26,7 +26,7 @@ export function VotingBanner({ year }: { year?: number }) {
         <span className="flex items-center gap-3">
           {isAuthed && n > 0 && (
             <Link
-              href={`/?status=voted&year=${contestYear}`}
+              href="/votes"
               className="text-amber-800 underline hover:text-amber-900 font-medium"
             >
               My ratings ({n})

@@ -157,7 +157,7 @@ test('rating persists across reload (server state, not just localStorage)', asyn
   await expect(page.getByText(/9 — Excellent/).first()).toBeVisible();
 });
 
-test("voting banner's 'My ratings' link sets URL filters and the home page reacts", async ({
+test("voting banner's 'My ratings' link goes to /votes and shows the rating", async ({
   page,
 }) => {
   await signInAs(page, 'banner-link@example.invalid');
@@ -169,6 +169,10 @@ test("voting banner's 'My ratings' link sets URL filters and the home page react
     .locator('a[href^="/reviews/"]')
     .first()
     .getAttribute('href');
+  // The href on the home card includes an archive query suffix
+  // (?year=2025…); strip both the prefix and the query to get the bare slug
+  // for matching the link rendered on /votes (which has no query).
+  const slug = slugLink!.replace(/^\/reviews\//, '').split('?')[0];
   await page.goto(slugLink!);
   await rateInline(page, 6);
 
@@ -179,10 +183,13 @@ test("voting banner's 'My ratings' link sets URL filters and the home page react
   await expect(myRatings).toBeVisible();
   await myRatings.click();
 
-  // URL should now carry status=voted&year=2025.
-  await page.waitForURL(/\/\?.*status=voted/);
-  expect(page.url()).toContain('status=voted');
-  expect(page.url()).toContain('year=2025');
-  // Exactly 1 article card remains visible.
-  await expect(page.locator('article')).toHaveCount(1);
+  // Lands on /votes with the page heading and a single rated row.
+  await page.waitForURL(/\/votes$/);
+  await expect(page.getByRole('heading', { name: /^Your ratings/ })).toBeVisible();
+  // The rated review's slug appears as a link in the row.
+  await expect(page.locator(`a[href="/reviews/${slug}"]`)).toBeVisible();
+  // The chip on the row reflects the rating.
+  await expect(
+    page.getByRole('button', { name: /^Your rating: 6 — Above average$/ }).first()
+  ).toBeVisible();
 });

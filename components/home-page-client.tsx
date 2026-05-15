@@ -12,10 +12,10 @@ import { markAsRead, markAsUnread } from '@/lib/reading-progress';
 import { RatingChip } from '@/components/rating-chip';
 
 type StatusFilter = 'all' | 'unread' | 'read' | 'in-progress' | 'favorites' | 'voted' | 'not-voted';
-type SortOrder = 'random' | 'alpha';
+type SortOrder = 'random' | 'alpha' | 'my-rating';
 
 const VALID_STATUS: StatusFilter[] = ['all', 'unread', 'read', 'in-progress', 'favorites', 'voted', 'not-voted'];
-const VALID_SORT: SortOrder[] = ['random', 'alpha'];
+const VALID_SORT: SortOrder[] = ['random', 'alpha', 'my-rating'];
 const RANDOM_SEED_KEY = 'acx-reviews:random-seed';
 
 // FNV-1a 32-bit. Used to deterministically order reviews by hash(reviewId + seed)
@@ -240,11 +240,22 @@ export function HomePageClient({ reviews, contests, tags }: HomePageClientProps)
     const arr = [...filteredReviews];
     if (sortOrder === 'alpha') {
       arr.sort((a, b) => alphaSortKey(a.title).localeCompare(alphaSortKey(b.title), undefined, { sensitivity: 'base' }));
+    } else if (sortOrder === 'my-rating') {
+      // Rated reviews first (rating desc); unrated reviews after, in
+      // alphabetical order so the unrated tail is at least readable.
+      arr.sort((a, b) => {
+        const ra = ratingOf(a.id);
+        const rb = ratingOf(b.id);
+        if (ra !== null && rb !== null) return rb - ra;
+        if (ra !== null) return -1;
+        if (rb !== null) return 1;
+        return alphaSortKey(a.title).localeCompare(alphaSortKey(b.title), undefined, { sensitivity: 'base' });
+      });
     } else {
       arr.sort((a, b) => hashStringToNumber(a.id + randomSeed) - hashStringToNumber(b.id + randomSeed));
     }
     return arr;
-  }, [filteredReviews, sortOrder, randomSeed]);
+  }, [filteredReviews, sortOrder, randomSeed, ratingOf]);
 
   const archiveQuery = useMemo(
     () => buildFilterQueryString({
@@ -390,10 +401,15 @@ export function HomePageClient({ reviews, contests, tags }: HomePageClientProps)
           />
           <FilterDropdown
             label="Order"
-            value={sortOrder === 'random' ? 'Random' : 'Alphabetical'}
+            value={
+              sortOrder === 'random' ? 'Random' :
+              sortOrder === 'alpha' ? 'Alphabetical' :
+              'My rating'
+            }
             options={[
               { id: 'random', label: 'Random' },
               { id: 'alpha', label: 'Alphabetical' },
+              ...(votingOpen ? [{ id: 'my-rating', label: 'My rating' }] : []),
             ]}
             onSelect={(id) => applyChanges({ sort: (id || 'random') as SortOrder, page: 1 })}
             isFiltered={sortOrder !== 'random'}
