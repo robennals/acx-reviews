@@ -389,7 +389,7 @@ The knee-jerk response to this is “you’re just describing good fiction in ge
 
 [6] As depicted in the official _Animorphs Transformers_ set_:_
 
-![](https://acximages.ennals.org/images/2024-book-reviews/8d2d7d52f1703317.jpg)
+![](https://acximages.ennals.org/images/2024-book-reviews/78c35227316106a3.jpg)
 
 Scholastic was _really_ hoping for the franchise’s future mainstream success.
 
@@ -399,7 +399,7 @@ Scholastic was _really_ hoping for the franchise’s future mainstream success.
 
 [9] The beginning of the defining quote for Crayak in the _Animorphs_ wiki says it all, really:
 
-![](https://acximages.ennals.org/images/2024-book-reviews/5b350ac193326828.png)
+![](https://acximages.ennals.org/images/2024-book-reviews/d3b1548418563609.png)
 
 [10] In the industry, we call this “the _Eragon_ asspull”.
 

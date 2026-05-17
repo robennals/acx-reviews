@@ -22,7 +22,7 @@ Strangely, the part about escalating suicidality in adolescents seems underempha
 
 But this model has many shortcomings. For one thing, why do some people with severe depression attempt suicide, and others never do? What about people with no apparent history of emotional problems? There are dozens of other [risk factors](https://afsp.org/risk-factors-protective-factors-and-warning-signs) including impulsivity, physical health problems, a family history, [suicide clusters](https://doi.org/10.1371/journal.pone.0108724), and access to firearms.
 
-![](https://acximages.ennals.org/images/2023-book-reviews/7f4cb3dfdc706340.png)
+![](https://acximages.ennals.org/images/2023-book-reviews/290ee2f7c17c3592.png)
 
 _Old men are at much greater risk than adolescent girls._
 
@@ -62,7 +62,7 @@ One route is practice, or “working up to it.” A history of multiple attempts
 
 Other forms of bodily harm accomplish the same end: cutting, IV drug use, tattoos, combat exposure, childhood physical abuse, and even aggression toward others. Repeated exposure to any painful or provocative stimuli leads to habituation and lessening of aversive effects. Just as a veteran skydiver replaces fear with exhilaration, self-injury can become reinforcing.
 
-![](https://acximages.ennals.org/images/2023-book-reviews/ac260377c5dcbc27.png)_._
+![](https://acximages.ennals.org/images/2023-book-reviews/811e68ae94febced.png)_._
 
 This is a plausible framework for why certain types of people are at such high risk. For instance, the ratio of attempted to completed attempts in young people is very high (100:1 according to Joiner) but decreases dramatically in the elderly. This fits a model in which people acquire the capacity for more serious self-harm over time. Substance use is such a risk because it entails repeated provocative experiences (IV drug use, alcohol related injuries) as well as the isolation and burdensomeness of late-stage addiction.
 
@@ -90,7 +90,7 @@ Joiner’s most convincing move is separating a _desire_ for death from the _cap
 4.  Even in such cases, killing oneself is hard! This state change involves a substantial barrier, or activation energy. The very act of attempting is a high-energy transition state. The higher the barrier, the less likely a suicidal person is to actually make an attempt.
 5.  Factors that raise the activation energy include fear of pain, fear of death, and prohibitions against suicide. Factors that lower the barrier include practice, impulsivity, and any beliefs that make suicide more acceptable, such as specific cultural beliefs or exposure to suicide attempts by others.
 
-![](https://acximages.ennals.org/images/2023-book-reviews/7a3e8612140f7361.png)
+![](https://acximages.ennals.org/images/2023-book-reviews/5ffb0fd6573043ae.png)
 
 The “favorability” of the change depends on the relative desirability of life and death. Desire for death isn’t always due to interpersonal problems - there are other factors like chronic pain, severe insomnia, and psychosis.
 

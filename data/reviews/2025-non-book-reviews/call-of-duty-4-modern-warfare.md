@@ -55,7 +55,7 @@ It’s also where the discomfort begins for me and many others. Don’t misunder
 
 The game switches to an American perspective at this point. Here, the player character is one Sergeant Paul Jackson, a US Marine. His experience is one of power and superiority. The visuals show a large US fleet off the shore, and many helicopters ready to drop Marines and bombs on the enemy. The music doesn’t reassure you, though, retaining the leitmotif of death never being too far away. All this technology, all these soldiers, and your speakers will remind you that it only takes a stray bullet or unfortunate grenade to end your life.
 
-![](https://acximages.ennals.org/images/2025-non-book-reviews/5c65d07e6600d33b.png)
+![](https://acximages.ennals.org/images/2025-non-book-reviews/8b89c0f52f1ac441.png)
 
 Let’s rewind for a moment, though. Why is the US invading an unnamed country (_cough_ Iraq)? That’s simple. Khaled Al-Asad is a Middle Eastern warlord who, at the start of the game, was seen victorious in the aftermath of his coup against the unnamed nation’s government. The audience sees part of this through a long introduction to the game that ends with that country’s president being executed on live TV.
 
@@ -63,7 +63,7 @@ The player is supposed to conclude that the US decided it was not a good idea fo
 
 The Marines have exactly one goal - find and capture Al-Asad. Once they land in Al-Asad’s capital, they quickly spread out and work their way through a TV station where it’s believed the man is broadcasting to the residents. This turns out to be a dead end, as it's just a pre-recorded broadcast. Jackson and his team are subsequently assigned to help an immobilized tank and its crew until the vehicle can be rescued from a bog. They fight through intense waves as the night passes in this burning warzone of a city, utilizing night vision goggles that give you that iconic green vision.
 
-![](https://acximages.ennals.org/images/2025-non-book-reviews/40a97ac8af89924f.png)
+![](https://acximages.ennals.org/images/2025-non-book-reviews/d77b86724249222e.png)
 
 They save the tank’s crew, and all is good by the next morning. After more fighting, they are picked up by helicopters taking them to the next fight. Al-Asad’s been located again. What’s more, there is now a suspicion that he has a nuclear warhead.
 

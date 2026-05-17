@@ -186,7 +186,7 @@ A friend once joked to me that physics is the study of things that are either ve
 
 Penrose’s mandate for Chapter 3 is taking on “fantastical” ideas in cosmology which have more of a wishful than a rational basis.  Eventually, he’ll reach the main target of his criticism: the theory of cosmic inflation.  
 
-![](https://acximages.ennals.org/images/2022-book-reviews/1cc844b87178a7d0.png)
+![](https://acximages.ennals.org/images/2022-book-reviews/b0b3db181991c30f.png)
 
 _No, not THAT inflation._
 

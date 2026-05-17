@@ -102,7 +102,7 @@ Then why bring up such a small error? Look, everyone can learn a principle and u
 
 About halfway through the book, Silver introduces what he believes is a revolutionary way of thinking probabilistically: [Bayes’ theorem](https://en.wikipedia.org/wiki/Bayes'_theorem). Many who read ACX will be familiar with the theory, but let’s do a short recap for anyone who is new. Much of the theorem can be explained with a simple equation:
 
-![](https://acximages.ennals.org/images/2024-book-reviews/1923095e57f60920.png)
+![](https://acximages.ennals.org/images/2024-book-reviews/f2b50c1be44468f3.png)
 
 Let’s define terms.
 
@@ -118,17 +118,17 @@ This is all esoteric until we start looking at real-world situations. Let’s sa
 
 If we get a positive test result, how likely is it that the person has cancer? To answer this question, we simply plug the variables into the equation:
 
-![](https://acximages.ennals.org/images/2024-book-reviews/cc1cf6b9a1e3f91c.png)
+![](https://acximages.ennals.org/images/2024-book-reviews/3a132e9f9366fc10.png)
 
 To calculate P(Positive) in the denominator, we’ll add together the probability of a true positive result the false positives of people who don’t have cancer: P(Positive) = P(Positive|Cancer) + P(Positive|No Cancer). Now we can plug this in with the numbers from above:
 
-![](https://acximages.ennals.org/images/2024-book-reviews/18498ff606d81aa4.png)
+![](https://acximages.ennals.org/images/2024-book-reviews/24b4dfcbc9ca3260.png)
 
 For every 100 patients who get positive results, slightly more than 15 will have cancer, while the rest were false negatives. This may be surprising. Despite this test having what looks like a high specificity, the large number of people you have to screen to find anyone with cancer means that the false positives dominate the results (84.6%). This is a powerful insight, and one that has had real-world consequences in recommendations for whether and when people should get cancer screenings.
 
 But how accurate is it? We can find the rate of false negatives by giving the test to a bunch of cancer patients. The rate of false positives is a little trickier, but assuming we do a good screening job, we can give the test to a bunch of people we’ve carefully screened who don’t have cancer and figure out the rate of false positives. Now what about that third number: the rate of cancer in the population. How well do we really know that number? I handed it down to you as part of the hypothetical, but maybe that’s not good enough. You could look to the [CDC](https://www.cdc.gov/cancer/dcpc/data/index.htm) or the [NCI](https://www.cancer.gov/about-cancer/understanding/statistics). Both will give you similar (but not the same) numbers. [Global](https://www.who.int/news-room/fact-sheets/detail/cancer) numbers are going to look different from US-centric numbers. Those will look different from numbers in your own state/city/family. How much does this matter? Say we take a dramatically different population and perform the same screening test. What’s the probability of a positive result if we’re looking at an enriched population where 50% of the people have cancer?
 
-![](https://acximages.ennals.org/images/2024-book-reviews/ff0acf09e1073783.png)
+![](https://acximages.ennals.org/images/2024-book-reviews/b8cdf1d0634297f3.png)
 
 Suddenly this terrible test became highly specific. All we had to do was change our probability estimate of who has cancer. This is an important insight into Bayesian probability updates, and one we’ll come back to later. It matters what probabilities you feed into each part of the algorithm.
 
@@ -369,7 +369,7 @@ The last part of that quote hints at why, “it’s too hard to figure out how t
 
 Look again at it again:
 
-![](https://acximages.ennals.org/images/2024-book-reviews/1923095e57f60920.png)
+![](https://acximages.ennals.org/images/2024-book-reviews/f2b50c1be44468f3.png)
 
 What does it really _mean_? What is a posterior probability? What is a prior probability? “In theory” these questions should be easy to answer since we have all the observations. That’s not what happened in the Rootclaim debate. Not only did the two debaters present different probabilities for each event, so did each of the judges. And so did Scott! And honestly so did everyone else who tried their hand at it. Far from being objective, each of these variables proved subjective.
 

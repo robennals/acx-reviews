@@ -167,7 +167,7 @@ So a scientist and a philosopher can both agree that knowledge is justified true
 
 ### Mimics
 
-![](https://acximages.ennals.org/images/2022-book-reviews/e6eff10c0caf1584.png)
+![](https://acximages.ennals.org/images/2022-book-reviews/f5b1f4af7b7e06fa.png)
 
 Words have also been confused by attempts to smuggle philosophy into religion (Christianity[zzchrist]; the Universalist Church), science into religion (Auguste Comte's [Religion of Humanity](https://en.wikipedia.org/wiki/Religion_of_Humanity)), politics into religion (the French Revolution's Cult of the Supreme Being), religion into philosophy (e.g., Hegel), religion into science (_Naturphilosophie_; vitalism), or politics into science (Marxism; Critical Theory).[zzreligion]  Many belief systems fly under false flags.  As in the animal world, weak ones are more likely to survive when they mimic something else.
 
@@ -263,13 +263,13 @@ In chapter 3, under "Logical Computation versus", Pinker makes a small mistake w
 
 > After hundreds of thousands of training examples, the connection weights settle into the best values, and the networks can get pretty good at classifying things.
 
-![](https://acximages.ennals.org/images/2022-book-reviews/76c59d8a00f63cde.jpg)
+![](https://acximages.ennals.org/images/2022-book-reviews/0923b2a3ef926a6a.jpg)
 
 > But that’s true only when the input features indicate the output categories **in a linear, more-is-better, add-’em-up way. It works for categories where the whole is the (weighted) sum of its parts, but it fails when a category is defined by tradeoffs, sweet spots, winning combinations, poison pills, deal-killers, perfect storms, or too much of a good thing.** Even the simple logical connector xor (exclusive or), “x or y but not both,” is beyond the powers of a two-layer neural network, because x-ness has to boost the output, and y-ness has to boost the output, but in combination they have to squelch it. …
 >
 > The problem may be tamed by inserting a “hidden” layer of neurons between the input and the output, as shown on the next page. This changes the network from a stimulus-response creature to one with internal representations—concepts, if you will.
 
-![](https://acximages.ennals.org/images/2022-book-reviews/417eb68d981c270f.jpg)
+![](https://acximages.ennals.org/images/2022-book-reviews/913581ae1fd973d2.jpg)
 
 The bolded text shows that Pinker is talking only about perceptrons with linear transfer functions.  The _transfer function_ is the function each neuron computes – the output it produces in response to an input vector.  Given the input <x1, x2, … xn\>, a linear transfer function can only output a signal of the form _c__1__x__1_ _+ c__2__x__2_ _+ … + c__n__x__n_.  If you stack another layer after it, each node in that layer outputs a linear combination of _those_ signals, which… is again of the form _c__1__x__1_ _+ c__2__x__2_ _+ … + c__n__x__n_.  So a 3-layer linear perceptron still can't compute any non-linear function.  Nor can an N-layer linear perceptron, for any N.
 
@@ -311,7 +311,7 @@ I wasn't stunned because I thought this was an original idea; I was stunned beca
 
 I used Google n-grams to look at the usage over time of the word “creative” from 1600-1900.
 
-![creative 1600-1900.jpg](https://acximages.ennals.org/images/2022-book-reviews/2b36dbe742aa22a9.jpg)
+![creative 1600-1900.jpg](https://acximages.ennals.org/images/2022-book-reviews/de4ffe006045a958.jpg)
 
 Looking at all usages from 1600-1647, and the first 10 from 1650-1700, I found not a single one claiming humans could be creative.
 
@@ -466,7 +466,7 @@ Rationalism is _logocentric;_ it attributes certain magical powers to words.  Fo
 
 This figure from chapter 7 shows the simplest possible decision surface: a point in a one-dimensional feature space (a point on a line), dividing that space into 2 categories:
 
-![](https://acximages.ennals.org/images/2022-book-reviews/7f7a2ad20db75d47.jpg)
+![](https://acximages.ennals.org/images/2022-book-reviews/e5ab21e483335b30.jpg)
 
 When you _construct_ categories statistically, however, you don't call anything a "miss" or a "false alarm".  That dividing line _defines_ the categories, even though you know that your measurements have noise, that you're counting some things as A which you'd rather call B if you knew more about them, and that the decision surface is your own construction, not God's.
 
@@ -563,7 +563,7 @@ In 2012, Simon Raper (his real name) used [dbpedia](http://dbpedia.org), a datab
 
 This graph ([link](https://merlinccc.org/wp-content/uploads/2014/06/History-of-Philosophy.png)) has a lot of problems.  It doesn't distinguish between "influenced" and "influenced by", or between "followed" and "reacted against".  It doesn't count indirect influence, so for instance Thales, the "first philosopher", is tiny.  It's almost entirely Western.  It's wrong in many details.[zzwrong]
 
-![](https://acximages.ennals.org/images/2022-book-reviews/64a0f72d4c9be5c4.png)
+![](https://acximages.ennals.org/images/2022-book-reviews/e7471975135f639d.png)
 
 But the big-picture view is basically correct.  The green part of the graph, with rationalists on the left and mostly irrationalists on the right, is a giant fish or Pac-Man about to gobble up the small violet pizza-slice of sane people.
 
@@ -1653,7 +1653,7 @@ Then it occurred to me that, given such a great p-value, it seemed likely the R2
 
 So I plotted that last regression:
 
-![](https://acximages.ennals.org/images/2022-book-reviews/41e3318767a9742b.png)
+![](https://acximages.ennals.org/images/2022-book-reviews/9e8f3cb2208a702c.png)
 
 Sure enough, it looks like an exponential function.  So this time, I tried to fit the regression to the logarithm of the Clinton vote, and got this:
 

@@ -216,7 +216,7 @@ It’s hard to square this with the behavioral genetic literature where identica
 
 Bayes pops up a fair bit in the rationalist canon.
 
-![](https://acximages.ennals.org/images/2022-book-reviews/4a80866f3c0f1c6d.png) ![](https://acximages.ennals.org/images/2022-book-reviews/b3e504971feab431.png)
+![](https://acximages.ennals.org/images/2022-book-reviews/747416437f172fed.png) ![](https://acximages.ennals.org/images/2022-book-reviews/b3e504971feab431.png)
 
 If Deutsch’s worldview conflicts with it, we want to understand why. Don’t worry. It’s not like Deutsch attempts to disprove Bayes rule. That would be a bigger catastrophe than the most pessimistic AI foom scenario.
 

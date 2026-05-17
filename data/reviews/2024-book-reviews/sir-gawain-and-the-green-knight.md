@@ -38,7 +38,7 @@ Instead of any of this, one question immediately stuck out to me upon finishing 
 
 The poem is written in a hexameter which takes some getting used to but has quite a nice momentum to it overall. The translator has been able to keep most of the rhymes, but the original alliteration has been lost. The metre is also somewhat butchered at times. Each verse ends with a cute little two-syllable line and four half-lines:
 
-![A screenshot of text illustrating the rhyming structure. Two twelve-syllable lines are followed by one two-syllable line, then four six-syllable lines.](https://acximages.ennals.org/images/2024-book-reviews/d73aef20836c3f18.png)
+![A screenshot of text illustrating the rhyming structure. Two twelve-syllable lines are followed by one two-syllable line, then four six-syllable lines.](https://acximages.ennals.org/images/2024-book-reviews/6b4f3cd2787beaf4.png)
 
 The language is odd throughout. It’s been translated from the original Middle English (which is generally unintelligible to modern readers) into some sort of old-sounding modern English. I don’t know the reason for all the forsooths and doths, though it does keep an atmosphere of old-ness.
 

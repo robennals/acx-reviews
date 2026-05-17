@@ -33,7 +33,7 @@ And:
 
 Instead, Slingerland makes a case that the psychological effects of drinking have cultural and social benefits. With _a lot_ of squinting, this can be thought of as [pulling the rope sideways](https://open.substack.com/pub/overcomingbias/p/tug-sidewayshtml): whether alcohol is beneficial or harmful to any particular individual doesn’t matter as long as group benefits outweigh any reasonable measure of the sum of individual harm. While there are stories of drugs and alcohol improving individuals lives, that is not the focus. And although it's acknowledged that drinking can be fun, that's not the point either.
 
-![](https://acximages.ennals.org/images/2023-book-reviews/7c661be95cf68c32.png)
+![](https://acximages.ennals.org/images/2023-book-reviews/d2afb37ec273d313.png)
 
 _Dynomite,_ _[CC-BY SA](https://creativecommons.org/licenses/by-sa/4.0/deed.en)__,_ _[https://en.wikipedia.org/wiki/File:Health\_risks\_of\_alcohol\_consumption.svg](https://en.wikipedia.org/wiki/File:Health_risks_of_alcohol_consumption.svg)_  _. I was tempted to zoom in on the portion < 2 drinks a day to better show the dip for coronary heart disease and diabetes, but the overall chart shows that the confusion on individual health effects that Slingerland mentions is really only plausible for light/moderate drinking._
 

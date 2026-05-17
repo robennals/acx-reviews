@@ -91,15 +91,15 @@ _Shall I tell you what they were like? There’s really nothing to it: on a shee
 
 _Here, for instance, is the chart of one Victor Totoshkin, Komsomol member: enjoy …_
 
-![](https://acximages.ennals.org/images/2022-book-reviews/587ee34ec8791890.jpg)
+![](https://acximages.ennals.org/images/2022-book-reviews/02cdd862c19137eb.jpg)
 
  _And this is Alexei Blindyaev, Communist Party member since 1936, and shagged-out old creep:_
 
-![](https://acximages.ennals.org/images/2022-book-reviews/1ea1b0431afd5ecd.jpg)
+![](https://acximages.ennals.org/images/2022-book-reviews/1596be9f81f00908.jpg)
 
 _And behold – your humble servant, ex-brigade leader of the OTC cable layers, and author of the poem [Moscow-Petushki]_
 
-![](https://acximages.ennals.org/images/2022-book-reviews/370b35183c9bc33b.jpg)
+![](https://acximages.ennals.org/images/2022-book-reviews/7abfc8ffb2ae2c1f.jpg)
 
 _Interesting lines,_ n’est-ce pas? [_…_] _Anyway, to the seeker after truth (like myself, for example), those lines let every cat out of every bag about man and the human heart: about his virtues, from the sexual to the practical, and his failings, from the practical to the sexual; about his degree of mental equilibrium, his aptitude for treachery, and all the secrets of his subconscious, if indeed he’s got any._
 
@@ -133,7 +133,7 @@ Venya climbs aboard the train, excited to see them.
 
 I’d call Moscow-Petushki “loser-fiction” (Eduard Limonov’s messed-up ‘83 novel _Diary of a Loser,_ a Russian emigre’s fantasies of violence, homoeroticism, and resentment_,_ is the guiding star of the constellation). While Venya is undoubtedly a loser, his Brezhnev-era context questions how responsible he is for his unenviable state. Being a loser in a paper office in Slough in 2001 is different from being a loser on a rattling commuter train in 1970s Moscow. Limonov talked of always remaining loyal to the “glorious tribe of losers”, and while I’d hesitantly put Venechka amongst storytelling’s loser-tribe, I posit losers exist at both tips of a horseshoe-like spectrum, with a loser like the American boss from the Office on one tip — sorry I don’t remember is name — and Venya on another (the middle of the shoe is “not losers”). This is defined by how debased their environment is. Here’s a highly scientific diagram.
 
-![](https://acximages.ennals.org/images/2022-book-reviews/06f3138bceb34ebe.jpg)
+![](https://acximages.ennals.org/images/2022-book-reviews/1ee3d819f940cadd.jpg)
 
 I refer to the Office, because _Moscow-Peutski_ brings to mind Ventakesh Rao’s RIbbanfarm post about cringe and shadow [[https://www.ribbonfarm.com/2021/10/05/storytelling-cringe-and-the-banality-of-shadows/](https://www.ribbonfarm.com/2021/10/05/storytelling-cringe-and-the-banality-of-shadows/)]. I mean, Venya is a sad failure, with a girlfriend and son, spending his attention on drink and self-pity. Something cringe-adjacent is happening, and I’ll explain what.
 

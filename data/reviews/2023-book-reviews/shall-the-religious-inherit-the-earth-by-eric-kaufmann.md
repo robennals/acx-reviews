@@ -27,7 +27,7 @@ It’s like this for seculars:
 
 Vs. this for conservative and orthodox religious folks:
 
-![](https://acximages.ennals.org/images/2023-book-reviews/bc313b1e6d79aac9.png)
+![](https://acximages.ennals.org/images/2023-book-reviews/5affe815909dd684.png)
 
 [https://www.youtube.com/watch?v=mWWAC5ZMKeM](https://www.youtube.com/watch?v=mWWAC5ZMKeM)
 
@@ -105,7 +105,7 @@ Through millennia, the oppressive trinity of men, religion, and government has b
 
 But maybe for people that don’t have children, a potentially theocratic future at odds with their personal belief system doesn’t matter. Maybe immanentizing their own personal eschaton instead of propelling their ideas into the future through their children is a rational choice. Also, if someone believes that the world will end from some other catastrophe before the coming takeover by religious zealots, maybe these trends don’t matter.
 
-![](https://acximages.ennals.org/images/2023-book-reviews/9d2737fd91eb229e.png)
+![](https://acximages.ennals.org/images/2023-book-reviews/0f34df7f7c8ac360.png)
 
 ## When will the Religious Zombies Issue Forth from the Earth and Eat Every Secular Brain?
 

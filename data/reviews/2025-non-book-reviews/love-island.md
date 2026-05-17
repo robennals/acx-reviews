@@ -79,7 +79,7 @@ The obvious answer is to get the watching public to like you, to become a "fan f
 
 If intentionally changing your personality is too hard, then the only other option is quantity, which means maximizing one's days on the show. It doesn't matter how boring you are, the more time you can be in front of the audience, the more Instagram followers you will get. Believe it or not, someone actually has a graph for this:
 
-![](https://acximages.ennals.org/images/2025-non-book-reviews/34675b64f17efabd.png)
+![](https://acximages.ennals.org/images/2025-non-book-reviews/e0871dcbd876fd80.png)
 
 The astute reader may question the causality - it may not be the quantity that leads to fame, but instead those with influencer "qualities" tend to last a long time. This may be partially true, especially for the real talents, but overall it doesn’t change the strategy: it is very hard to become famous from _Love Island_ if you quickly get kicked off _Love Island_.
 

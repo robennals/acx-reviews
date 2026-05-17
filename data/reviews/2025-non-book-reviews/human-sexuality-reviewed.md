@@ -66,7 +66,7 @@ These twin systems use much of the same psychological machinery and produce simi
 
 The prestige system evolved as humans became more dependent on cultural knowledge, skill acquisition, and complex cooperation. As tool use made pure dominance strategies more dangerous (it's hard to be the alpha when weaker members can kill you in your sleep), humans increasingly relied on prestige. But we never lost the older dominance circuits—we just layered the new system on top.
 
-![](https://acximages.ennals.org/images/2025-non-book-reviews/4fb22b725e4585e6.png)
+![](https://acximages.ennals.org/images/2025-non-book-reviews/6a54a452dd013ed5.png)
 
 So, we're left with a leaderboard in our head, keeping track of something called "status" for us and those around us. Status can be earned through dominance or through prestige, but is usually stored in memory and action as a single variable; social software is easier if you just have to keep track of one thing.
 

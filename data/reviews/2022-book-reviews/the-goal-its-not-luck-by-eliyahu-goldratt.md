@@ -62,7 +62,7 @@ And as much as I’d love to walk through the three companies, the various issue
 
 The first thinking process we are exposed to is known in the TOC literature (why yes, there _is_ TOC literature!) as the “Evaporating Cloud”, and its objective is conflict resolution. Why Goldratt chose a “cloud” metaphor isn’t clear to me, but this tool comes in the form of a diagram framing the conflict at hand. An example (with content paraphrased from a conflict described on an ACX open thread) looks like this:
 
-![](https://acximages.ennals.org/images/2022-book-reviews/56438c4aede59afb.png)
+![](https://acximages.ennals.org/images/2022-book-reviews/df1528274552d4c0.png)
 
 On the right, we see the two incompatible actions. In the middle are the reasons why we feel those actions are necessary or desirable, and on the left is the common goal that both parties want, or that both branches should ultimately support. Depending on the circumstance the diagram may be filled out in various orders to ease its creation.
 
@@ -101,7 +101,7 @@ Alex has some reservations, but isn’t able to articulate them clearly and give
 3.  If “I don’t want to share my car” and (#2) then “it will be annoying to you to get a NO in the future”.
 4.  If “I don’t want to share my car” and (#3) then “we’ll have friction in the future.”
 
-![](https://acximages.ennals.org/images/2022-book-reviews/794944096ef0df65.png)
+![](https://acximages.ennals.org/images/2022-book-reviews/38b08aa5a569ac03.png)
 
 In the situation with Alex and his son, this diagram is utilized as both proof that Alex has indeed “thought about it”, and as a way of communicating those concerns in a way that avoids direct confrontation. Instead, they are able to look at the diagram, agree that there is a valid concern and then look together for ways to trim the branch.
 

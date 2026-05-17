@@ -187,15 +187,15 @@ Mass culture follows somewhat different rules than its more prestigious relative
 
 Many of the things that happen to Alexander the Great in _The Alexander Romance_ have also happened to Batman. Alexander invented a submersible to explore the ocean depths, [and so did Batman](https://www.amazon.com/LEGO-DC-Batman-Underwater-Building/dp/B07GZ5691C). Alexander discovered the Fountain of Youth, [and so did Batman](https://batman.fandom.com/wiki/Lazarus_Pit). Alexander sealed evil nations behind a magic door, [and so did Batman](https://en.wikipedia.org/wiki/Batman:_Soul_of_the_Dragon). Alexander fought dinosaurs; [and so did Batman](https://batman.fandom.com/wiki/Dinosaur_Island).
 
-![](https://acximages.ennals.org/images/2023-book-reviews/4dce034764446225.jpg)
+![](https://acximages.ennals.org/images/2023-book-reviews/9b5851d63a5aff05.jpg)
 
 _Left: Alexander the Great in his makeshift submersible. Right: the Batsub, only $39.99 from Lego!_
 
-![](https://acximages.ennals.org/images/2023-book-reviews/d14b748857e637dd.jpg)
+![](https://acximages.ennals.org/images/2023-book-reviews/5123c851a3723795.jpg)
 
 _Left: Alexander the Great fights an odontotyrannos. Right: Batman fights a tyrannosaurus._
 
-![](https://acximages.ennals.org/images/2023-book-reviews/a4782c01eb5c3b2f.jpg)
+![](https://acximages.ennals.org/images/2023-book-reviews/98c466fb814ebdbe.jpg)
 
 _Left: Nectonebo, father of Alexander, a pharaoh who is also a wizard. Right: Amenhotep from the Marvel universe, also a pharaoh who is also a wizard._
 

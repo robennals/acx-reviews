@@ -173,7 +173,7 @@ He notes that:
 
 And follows that thought with a brief digression on error bars, capped with the [IPCC](https://www.ipcc.ch/)’s own “set of calibrated terms” ([from this report](https://www.ipcc.ch/site/assets/uploads/2017/08/AR5_Uncertainty_Guidance_Note.pdf)):
 
-![](https://acximages.ennals.org/images/2022-book-reviews/32858d023cadd96d.png)
+![](https://acximages.ennals.org/images/2022-book-reviews/35601dff04a57e66.png)
 
 Much of the science Koonin refers to comes from the IPCC’s own reports, which he regards highly, with a caveat:
 
@@ -193,7 +193,7 @@ So no, the fact that it just snowed in April or that scorching heat wave in the 
 
 ### Measuring Temperatures and Global Warming
 
-![](https://acximages.ennals.org/images/2022-book-reviews/eb816efe7addd7f0.png)
+![](https://acximages.ennals.org/images/2022-book-reviews/948854364b202be1.png)
 
 _Not quite this easy. (__[Source](https://media.istockphoto.com/vectors/cartoon-earth-with-thermometer-global-warming-vector-id1182061181?k=20&m=1182061181&s=170667a&w=0&h=Y7PH9l5JE8sCywRt7lwkvGlyqsUcqjGmfhodznMQTqY=)__)_
 
@@ -203,7 +203,7 @@ The most basic element of Climate Science - measuring the world’s temperature 
 
 Koonin cites a [1987 paper by Hansen and Lebedeff](https://pubs.giss.nasa.gov/docs/1987/1987_Hansen_ha00700d.pdf) showing that global temperatures can be estimated from a “sparse network of stations.”  The resulting graph of temperature anomalies (changes in temperature from a baseline) is generally taken as canonical:
 
-![](https://acximages.ennals.org/images/2022-book-reviews/0d300297f9f2fe17.png)
+![](https://acximages.ennals.org/images/2022-book-reviews/da24ea6cf5537255.png)
 
 The data, taken in their entirety, show an unmistakable upward trend: Global Warming.  Yet the overall trend is composed of many smaller trends - yearly and seasonal cycles play a role in variability, but there exist subtrends that span decades that differ meaningfully from the overall arc of the data.  Koonin comments:
 
@@ -219,7 +219,7 @@ Lastly, there are significant difficulties in estimating the temperature the fur
 
 A reconstruction of the global temperature anomaly (change from a baseline) since 500 BCE, with a baseline of the average temperature between 1881 and 1980 ([taken from figure 5.7](https://www.ipcc.ch/site/assets/uploads/2018/02/WG1AR5_Chapter05_FINAL.pdf)):
 
-![](https://acximages.ennals.org/images/2022-book-reviews/7ee661c09fea0cdd.png)
+![](https://acximages.ennals.org/images/2022-book-reviews/8af68fa2df8061ac.png)
 
 And from the past 500 million years ([source](https://en.wikipedia.org/wiki/Paleothermometer)):
 
@@ -316,7 +316,7 @@ That’s only about 1% of the energy in the system.
 
 This graph sums it up:
 
-![](https://acximages.ennals.org/images/2022-book-reviews/112547df563a633a.png)
+![](https://acximages.ennals.org/images/2022-book-reviews/e18731f236919923.png)
 
 6.  ## An Emissions Interlude
 
@@ -333,7 +333,7 @@ So…CO2 actually does make the planet a greener place by increasing the amount 
 
 We’ve got a pretty picture of how CO2 emissions have been going up:
 
-![](https://acximages.ennals.org/images/2022-book-reviews/c7c47fb8f131c558.png)
+![](https://acximages.ennals.org/images/2022-book-reviews/fd6eff26b002e45c.png)
 
 _Obligatory_ _[Our World In Data](https://ourworldindata.org/co2-and-other-greenhouse-gas-emissions)_ _graph._
 
@@ -341,7 +341,7 @@ Koonin notes briefly that this rise of atmospheric CO2 concentration is because 
 
 Comparing Earth’s current carbon concentrations to its distant past, we see that we are actually in a period of hilariously low atmospheric CO2:
 
-![](https://acximages.ennals.org/images/2022-book-reviews/7d986e82ede05ead.png)
+![](https://acximages.ennals.org/images/2022-book-reviews/ec90ffd1c26c410b.png)
 
 Here Koonin alludes to something that I find quite compelling; namely that the amount of CO2 in the atmosphere **is not a problem for the Earth.**  The Earth can get along just fine with tons of carbon in the air.  It’s a problem for us tiny little animals that live on the very outside of the Earth’s shell.  Whatever your thoughts on plant and/or animal welfare, both can thrive in high-CO2 environments (it may not be the current plants and animals, but evolution giveth and evolution taketh away).
 
@@ -392,7 +392,7 @@ Cheerful.  On that note, let’s move on to a more uplifting topic: mathematical
 
 In other words, they’re just [weather forecasts](https://en.wikipedia.org/wiki/Weather_forecasting), but, you know, for the whole planet and up to a century in the future, instead of just the next ten days.
 
-![](https://acximages.ennals.org/images/2022-book-reviews/e4bc4ad259192721.png)
+![](https://acximages.ennals.org/images/2022-book-reviews/99e2e09092f522b8.png)
 
 Wait - why do we trust these again?  It seems like half the time we can’t even accurately forecast the weather in a single area a week away, and we’re making important policy decisions and getting all worked up over forecasts for the entire globe over decades?  We might as well be shorting umbrella stocks when we see the next few days will be sunny.
 
@@ -418,7 +418,7 @@ That being said, all is not yet lost.  We don’t necessarily need precise detai
 
 Climate models function by dividing the atmosphere into a grid of squares, each typically 100 km x 100 km over land and 10 km x 10 km over the oceans, and then make boxes from those squares by dividing the atmosphere into many layers.  The laws of physics are then employed to calculate how air, water, and energy flow from one box to its neighbors within a given time-step, and the simulation is run.
 
-![](https://acximages.ennals.org/images/2022-book-reviews/a7f2376ece6a1540.png)
+![](https://acximages.ennals.org/images/2022-book-reviews/2363710750983876.png)
 
 _Pictured: A modeled atmospheric grid, not_ _plans_ _for a new, awesome skyscraper._
 
@@ -456,7 +456,7 @@ I was able to find [this paper](https://www.wcrp-climate.org/wgcm/references/IPC
 
 Also, when you look at this (CMIP stands for Coupled Model Intercomparison Project, which is responsible for collecting various climate models and comparing them):
 
-![](https://acximages.ennals.org/images/2022-book-reviews/1c33afdf3c28598c.png)
+![](https://acximages.ennals.org/images/2022-book-reviews/697d64571d2b95bf.png)
 
 You can see that CMIP5, the more recent comparison, has wider error bars than CMIP3.  Koonin writes:
 
@@ -515,13 +515,13 @@ Here Koonin confidently asserts that the [2017 Climate Science Special Report](h
 
 The data supporting it:
 
-![](https://acximages.ennals.org/images/2022-book-reviews/0490da6fd84cdab4.png)
+![](https://acximages.ennals.org/images/2022-book-reviews/a1c11ffb990dc4bc.png)
 
 Seems sufficiently scary.  What’s the problem?
 
 Well, in [Chapter 6](https://science2017.globalchange.gov/chapter/6/) of the report, we see this:
 
-![](https://acximages.ennals.org/images/2022-book-reviews/fbebbe201aff38ea.png)
+![](https://acximages.ennals.org/images/2022-book-reviews/d10170897a07dcd4.png)
 
 Which clearly shows that the coldest temperatures are slowly climbing, while the hottest are…not moving a whole lot (the peak in the 1930s relates to the [Dust Bowl](https://en.wikipedia.org/wiki/Dust_Bowl)).
 
@@ -535,7 +535,7 @@ But the following year, you’ll have much fewer records - still some, but now y
 
 When Koonin consulted with a colleague to obtain a more honest graph of extreme temperatures per 100,000 observations, they got this:
 
-![](https://acximages.ennals.org/images/2022-book-reviews/9cb4aaed7f07cc68.png)
+![](https://acximages.ennals.org/images/2022-book-reviews/1d84295c9d478a2f.png)
 
 _Apocalypse Not Now_
 
@@ -563,7 +563,7 @@ This has less to do with human influences on the climate, and a lot more to do w
 
 The data:
 
-![](https://acximages.ennals.org/images/2022-book-reviews/e3f23671d78b08ad.png)
+![](https://acximages.ennals.org/images/2022-book-reviews/1b19b17621bc0ac7.png)
 
 The western US, on the other hand, is more on fire than usual.  From the [report](https://science2017.globalchange.gov/chapter/8/):
 
@@ -587,7 +587,7 @@ At first it seems that hurricanes have been getting worse.  From [NCA2014](https
 
 And the associated graph:
 
-![](https://acximages.ennals.org/images/2022-book-reviews/78fb89cfb4482a56.png)
+![](https://acximages.ennals.org/images/2022-book-reviews/af47e1e9ca6a617a.png)
 
 But further digging in the [reports](https://nca2014.globalchange.gov/report/appendices/climate-science-supplement) reveals that:
 
@@ -597,7 +597,7 @@ Perhaps the number of hurricanes hasn’t increased, but the hurricanes we do ge
 
 Koonin places the above graph in a larger historical context:
 
-![](https://acximages.ennals.org/images/2022-book-reviews/5cbd6b6ec19f237a.png)
+![](https://acximages.ennals.org/images/2022-book-reviews/c6c8d3e65ff27880.png)
 
 Where we see that while hurricane frequency and intensity have varied widely over the last 70 years, there isn’t an overall trend.
 
@@ -637,7 +637,7 @@ So that’s hurricanes - but what about tornadoes?
 
 Well, the absolute count of tornadoes per year has been going up:
 
-![](https://acximages.ennals.org/images/2022-book-reviews/87fead1ecaad11f2.png)
+![](https://acximages.ennals.org/images/2022-book-reviews/a7f3eba084685192.png)
 
 But is it going up because there are more tornadoes, or because we’re just better at detecting them?
 
@@ -645,7 +645,7 @@ Koonin argues for the latter.  To find a trend over time we should only be looki
 
 Correcting for this we get:
 
-![](https://acximages.ennals.org/images/2022-book-reviews/3274d27aa5470711.png) 
+![](https://acximages.ennals.org/images/2022-book-reviews/b9b15ab5819feee2.png) 
 
 Which shows a _decrease_ in average tornado intensity over time.  US deaths from tornadoes have also fallen due to radar warnings.
 
@@ -665,11 +665,11 @@ I can already hear the cries about how climate change is causing [water injustic
 
 Regardless of how it’s spun, this effect does show up in the data.  For the US, there’s a slight trend of increased precipitation:
 
-![](https://acximages.ennals.org/images/2022-book-reviews/6a99bfa554b9c8e6.png)
+![](https://acximages.ennals.org/images/2022-book-reviews/6965b83a2a68da3f.png)
 
 And evidence that the water that does fall is indeed “lumpier”:
 
-![](https://acximages.ennals.org/images/2022-book-reviews/2d3de174918d0cf7.png)
+![](https://acximages.ennals.org/images/2022-book-reviews/fc8b200ce42db961.png)
 
 #### Floods and Anti-Floods (AKA Droughts)
 
@@ -681,11 +681,11 @@ So building an ark can be left for later.  And it’s reasonable to think that, 
 
 Droughts are commonly measured by the Palmer Drought Severity Index (PDSI), which ranges from -10 (very dry) to 10 (very wet).  For the US, there isn’t a general trend we can see:
 
-![](https://acximages.ennals.org/images/2022-book-reviews/303f8e5c9b89faf0.png)
+![](https://acximages.ennals.org/images/2022-book-reviews/b0cf3923ae533fbd.png)
 
 While the southwest US is [currently in a drought](https://www.climate.gov/news-features/event-tracker/noaa-led-drought-task-force-concludes-current-southwest-drought-preview#:~:text=A%20new%20assessment%20from%20a,bad%20luck%20of%20natural%20variability.) (naturally climate change is blamed for exacerbating the problem, even if it isn’t called out for causing it), historical records from tree rings show we are well within the historical record:
 
-![](https://acximages.ennals.org/images/2022-book-reviews/23a0f563b07867ad.png)
+![](https://acximages.ennals.org/images/2022-book-reviews/9b70233d86a60f20.png)
 
 So while climate change seems bad for floods and droughts, it isn’t apocalyptic.
 
@@ -693,11 +693,11 @@ So while climate change seems bad for floods and droughts, it isn’t apocalypti
 
 Sea levels change over history - we can clearly see the cycles from geological estimates:
 
-![](https://acximages.ennals.org/images/2022-book-reviews/d976b660214ef275.png)
+![](https://acximages.ennals.org/images/2022-book-reviews/33e237500932e284.png)
 
 We’re currently in a period of high sea levels, starting from the last glacial maximum about 20,000 years ago:
 
-![](https://acximages.ennals.org/images/2022-book-reviews/31a445e12c3559e0.png)
+![](https://acximages.ennals.org/images/2022-book-reviews/e86ff483fc459f78.png)
 
 Koonin writes:
 
@@ -711,13 +711,13 @@ Waves, tides, and seasonal changes must be averaged, and even the ground from wh
 
 A common metric of the level of water in the ocean is the Global Mean Sea Level (GMSL), which is “inferred from measurements all over the globe.”  Data from the past century shows that the sea level has been rising for a long time, well before human influence on the climate became significant:
 
-![](https://acximages.ennals.org/images/2022-book-reviews/e25aa39fab3e242a.png)
+![](https://acximages.ennals.org/images/2022-book-reviews/8c716d3f74095b18.png)
 
 Pictured: The Day After Next Century
 
 Since 1992 we’ve had satellite measurements of global sea level, which gives continuous coverage of the ocean.  The pattern is a clear upward trend of 3.0 mm plus or minus 0.4 mm per year superimposed upon seasonal changes:
 
-![](https://acximages.ennals.org/images/2022-book-reviews/a4f8cca678cb2188.png)
+![](https://acximages.ennals.org/images/2022-book-reviews/9d3272723f6d973d.png)
 
 Koonin:
 
@@ -731,7 +731,7 @@ Not quite.  Like we’ve seen before, the earth’s climate varies greatly acros
 
 The data in context:
 
-![](https://acximages.ennals.org/images/2022-book-reviews/f60a7fda067100a2.png)
+![](https://acximages.ennals.org/images/2022-book-reviews/fbdaeb4dde330367.png)
 
 Sea levels _are_ rising as the globe warms - we just can’t untangle how much of that is due to human influences and how much is due to natural processes.  Granted, such uncertainties are small comfort to coastal developments, but even in the implausibly bad RCP8.5, the rate of rising water is only 8.4 mm/year - meaning that it would take more than a century for the oceans to be a meter higher, giving we humans time to adjust.
 
@@ -748,7 +748,7 @@ Using data from the [Center for Research on the Epidemiology of Disasters](https
 
 The graph:
 
-![](https://acximages.ennals.org/images/2022-book-reviews/5050874943a0522f.png)
+![](https://acximages.ennals.org/images/2022-book-reviews/9971c3fcae8825c8.png)
 
 While [researchers have published this paper suggesting that the death toll from climate change could reach 85 deaths per 100,000](https://www.nber.org/system/files/working_papers/w27599/w27599.pdf) in 2100 (for reference, in 2018 all infectious diseases globally accounted for about 75 deaths per 100,000), Koonin reviews their models and finds them wanting.
 
@@ -774,7 +774,7 @@ Additionally, remember that CO2 is plant food - more CO2 in the atmosphere [actu
 
 For those of us who like pictures:
 
-![](https://acximages.ennals.org/images/2022-book-reviews/366f928b5c37f943.png)
+![](https://acximages.ennals.org/images/2022-book-reviews/ec580bd4fb458021.png)
 
 ### Economic Devastation
 
@@ -788,7 +788,7 @@ From the [report](https://nca2018.globalchange.gov/chapter/29/):
 
 And yet [figure 10-1](https://www.ipcc.ch/report/ar5/wg2/key-economic-sectors-and-services/wgii_ar5_fig10-1/) from the report shows this:
 
-![](https://acximages.ennals.org/images/2022-book-reviews/9dd4f2fefd2c2061.png)
+![](https://acximages.ennals.org/images/2022-book-reviews/a016b72296576923.png)
 
 That cluster of studies in the middle indicates that, by 2100, the expected effect on the global economy of about 3℃ of warming is… that the economy is about 3% smaller than it would otherwise have been.  Koonin does the math:
 
@@ -796,7 +796,7 @@ That cluster of studies in the middle indicates that, by 2100, the expected effe
 
 He finishes with a comforting (or sobering, depending on your point of view) graph of the climate’s projected effect on US GDP:
 
-![](https://acximages.ennals.org/images/2022-book-reviews/da5b76fb5dce9921.png)
+![](https://acximages.ennals.org/images/2022-book-reviews/798cc21fbd9084fe.png)
 
 While the warming climate may delay the global economy’s growth, it won’t stop it, nor is it expected to hinder it much over the next century.
 

@@ -31,7 +31,7 @@ I’ll return to this comparison, but the City is a fertile stage for the imagin
 
 [Lobotomy Corporation](https://store.steampowered.com/app/568220/Lobotomy_Corporation__Monster_Management_Simulation/), a monster management sim.
 
-![](https://acximages.ennals.org/images/2025-non-book-reviews/6704d4bcc819a02b.jpg)
+![](https://acximages.ennals.org/images/2025-non-book-reviews/fd079d44cd1b4fd4.jpg)
 
 [Library of Ruina](https://store.steampowered.com/app/1256670/Library_Of_Ruina/), a TCG-style card battler.
 

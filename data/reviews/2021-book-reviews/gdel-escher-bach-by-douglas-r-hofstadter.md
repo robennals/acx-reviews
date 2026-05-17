@@ -125,11 +125,11 @@ Proof:
 
 (4) --t---q------   (rule II)
 
-![](https://acximages.ennals.org/images/2021-book-reviews/38b26cf30ac13aa6.png)
+![](https://acximages.ennals.org/images/2021-book-reviews/400ba0dffbb35fc8.png)
 
 We can think of an interpretation as giving _meaning_ to a formal system. Uninterpreted, --t---q------ is a meaningless string of characters, same as the strings of the MU-system. But equipped with the interpretation above, this string comes to _mean_ the multiplication “two times three equals six.” An analogy: to a child ignorant of the world, a globe is just a meaningless spinning toy. But once the child learns that pictures on the globe (the formal system) represent (interpret to) masses of land on the actual Earth (the context), aspects of the globe start to carry meaning – the fact that the splotch of green labeled “Asia” is larger than the one labeled “Australia” corresponds to the continent Asia having a larger land-mass than the continent Australia.
 
-![](https://acximages.ennals.org/images/2021-book-reviews/f76d1ac14695f55b.png)
+![](https://acximages.ennals.org/images/2021-book-reviews/91dc0704ef401a0e.png)
 
 Liberation, _by M.C. Escher. Strings in formal systems (the triangles at the bottom) are transformed into meaningful statements (the birds) via interpretation._
 
@@ -147,7 +147,7 @@ q ⇒ divided into
 
 and so on, so that --t---q------ now interprets to “two equals three divided into six.” In a case like this, it’d be a mistake to argue about what the “true meaning” of the string --t---q------ is; the correct takeaway is that both meanings are encoded simultaneously. Even this simple example of a double-entendre is somewhat interesting: it demonstrates that the structure of multiplications is “the same” as the structure of divisions (borrowing a word from mathematics, Hofstadter would say that multiplications and divisions are “isomorphic”).
 
-![](https://acximages.ennals.org/images/2021-book-reviews/0ceae9bfdc8c61c5.png)
+![](https://acximages.ennals.org/images/2021-book-reviews/2f02ccd414ae086e.png)
 
 _The cover art is a real photograph of two carved blocks of wood. Depending on which interpretation (angle of the light) you use, you can pull three different meanings out of each block._
 
@@ -157,7 +157,7 @@ And third, all of the _theorems_ of the tq-system are not only well-formed, but 
 
 For a counterexample, if we changed ‘-’ to mean “two,” then we wouldn’t have an interpretation anymore since the theorem -t-q- would represent the multiplication "two times two equals two," which isn't two – achem excuse me – true.
 
-![](https://acximages.ennals.org/images/2021-book-reviews/0d0a2b4e4c78e59f.png)
+![](https://acximages.ennals.org/images/2021-book-reviews/c1aba9ecad1f8021.png)
 
 As a final half-example of a formal system, let's augment the tq-system so it can prove theorems representing statements like "6 is composite."
 
@@ -219,7 +219,7 @@ Or more succinctly: if provable then true. This is really important: it's why ma
 
 You might be tempted to believe the converse: that every true statement in a formal system is also provable. (Or at least, you might have been tempted to think that if I didn't have a whole section titled "truth vs. provability".) But consider the string P-- of the tqCP-system, which interprets to "two is prime." This string is certainly true, since two is prime. But it is _not_ provable in the tqCP-system – in fact, none of the rules of the system allow you to produce a theorem with the character P.
 
-![](https://acximages.ennals.org/images/2021-book-reviews/7006d7780ddbb861.png)
+![](https://acximages.ennals.org/images/2021-book-reviews/f3d799ef0ae40dc1.png)
 
 You're probably thinking that this demonstrates that the tqCP-system is _bad_ in some way, or at least woefully _incomplete_. Perhaps you're tempted to augment the tqCP-system by adding a new rule: if C_x_ is not a theorem for some _x_ consisting of only hyphens, then P_x_ is a theorem. But there's an issue here: applying this rule requires making a list of all (infinitely many) theorems of the tqCP-system and checking that C_x_ is not among them. But this is not the sort of simple, mechanistic rule that our formal systems are allowed to have – no person, and certainly no computer, could ever finish writing down all the theorems and checking that C-- is not among them. You might be able to prove _from outside the system_ that C-- is not a theorem, but such "outside the system" reasoning has no bearing on provability _inside_ the system.
 
@@ -249,7 +249,7 @@ Der obige englische Satz ist wahr. ("The English sentence above is true.")
 
 Here, "sentences in English" has an interpretation with context "sentences in German." But "sentences in German" itself can model "sentences in English." And although each sentence by itself is perfectly harmless, the whole is paradoxical!
 
-![](https://acximages.ennals.org/images/2021-book-reviews/aab38fe6bf37e367.png)
+![](https://acximages.ennals.org/images/2021-book-reviews/07ef4db075e01389.png)
 
 Drawing Hands, _by M.C. Escher, an illustration of the two-step liar’s paradox._
 
@@ -283,7 +283,7 @@ You can do the same thing for the other rules too.
 
 Let's call a number which corresponds to a theorem of the MIU-system a MIU-number. So we've transformed the claim "MU is a theorem of the MIU-system" to the equivalent claim "30 is a MIU-number," which can also be stated as “30 can be formed from 31 by repeatedly applying such-and-such arithmetical operations.” This might not seem like progress, but it is! The claim "30 is a MIU-number" is a _number theoretical statement_ (though perhaps not an interesting one). In essence, it’s similar to – but more complicated than – the more familiar statement “216 is a power of 6” i.e. “216 can be formed from 1 by repeatedly applying the multiply-by-6 operation.”
 
-![](https://acximages.ennals.org/images/2021-book-reviews/30a7a24162e7046e.png)
+![](https://acximages.ennals.org/images/2021-book-reviews/bd589baa4a1925cc.png)
 
 Now we can dispose of the MU puzzle by proving a proposition about MIU-numbers:
 
@@ -307,7 +307,7 @@ Given a string _G_ of the system _S_, let _g_ be the number corresponding to _G_
 
 In a situation like this, Gödel gave a magic recipe (or see chapters 13 and 14 of GEB) for cooking up a specific string _G_ such that the resulting _G'_ _is the same as_ _G_. Thus, this _G_ interprets to the statement “_g_ is not an _S_-number,” which is true if and only if _G_ is not a theorem of _S_. Informally, we might say that _G_ carries the meaning “_G_ is not provable in _S_.” And now we’re done: if _G_ is false, then G _is_ a theorem of S, and is therefore true, a contradiction. So _G_ is true, and thus _G_ is not provable. Thus _G_ is an unprovable truth and _S_ is incomplete. Q.E.D.
 
-![](https://acximages.ennals.org/images/2021-book-reviews/753d248c62f8e262.png)
+![](https://acximages.ennals.org/images/2021-book-reviews/3015faadda494349.png)
 
 I'll end this section with an exercise for those interested: how is this proof like the proof of undecidability of the halting problem? (For solutions, please consult _Gödel, Escher, Bach_ by Douglas Hofstadter.)
 

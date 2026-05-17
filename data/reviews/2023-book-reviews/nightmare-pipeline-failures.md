@@ -119,7 +119,7 @@ My excerpt, sadly enough, only leaves out a few other unfilled pages of the perm
 
 This is my “favourite” part:
 
-![](https://acximages.ennals.org/images/2023-book-reviews/692f50594690f346.png)
+![](https://acximages.ennals.org/images/2023-book-reviews/dfaa0f13b97f6810.png)
 
 It’s a little unclear how many hands ultimately handled this document. It was prepared and signed off by the field supervisor, and signed off by Gas Control (presumably an operations representative). It was also distributed to seven other people - who are apparently “Mandatory” to notify. Also, one of these people was “TBD”, which is always encouraging to see on safety-critical paperwork.
 

@@ -96,7 +96,7 @@ Consider all the steps of the development process: finishing the basic research 
 
 There’s where you’re wrong. You’re assuming they did everything in serial – research, then design, then testing, then construction, then operation.
 
-![](https://acximages.ennals.org/images/2022-book-reviews/2484708e79b3328b.png)
+![](https://acximages.ennals.org/images/2022-book-reviews/4faf9a93b2a437bd.png)
 
 **The Engineering Design Process**
 
@@ -398,7 +398,7 @@ Yes, and during wartime, copper was under high demand and _extremely_ scarce. Th
 
 That shows how much you know, because they did manage to find an even better conductor than copper. Recall, the elements in the periodic table share common properties according to column:
 
-![](https://acximages.ennals.org/images/2022-book-reviews/3cd69c9f2c8ba443.jpg)
+![](https://acximages.ennals.org/images/2022-book-reviews/b598030948877d6b.jpg)
 
 **Okay, but that’s hardly helpful – anything beneath copper is just going to be even harder to get! Silver? Gold? Really?**
 
@@ -650,7 +650,7 @@ Rumors didn’t bother him that much. There were already quite a few rumors abou
 
 **Now you’re the one suggesting submarines, hundreds of miles away from any water!**
 
-![](https://acximages.ennals.org/images/2022-book-reviews/62eddc9170330845.jpg)
+![](https://acximages.ennals.org/images/2022-book-reviews/8ab854c3d1c16265.jpg)
 
 > **The subs were transported to the Pacific via the underground ocean.**
 
@@ -772,7 +772,7 @@ True! Just look at the Army sentries at Los Alamos, who spent so long watching f
 
 > _[Commander Willian S.] Parsons was the first Navy officer to be assigned to the station [at Los Alamos], and appeared at the gate wearing a Navy summer uniform. His arrival was announced by a frantic guard, who telephoned his sergeant: “Sergeant, we’ve really caught a spy! A guy is down here trying to get in, and his uniform is as phony as a three dollar bill. He’s wearing the eagles of a colonel, and claims that he’s a captain.”_
 
-![](https://acximages.ennals.org/images/2022-book-reviews/dc767c0849573c07.jpg)
+![](https://acximages.ennals.org/images/2022-book-reviews/f5280553f0ca5796.jpg)
 
 **All the effort they wasted keeping an eye out for non-existent German spies would have been better spent trying to track down some of the very-much-existent Soviet spies that were even then percolating into the heart of Groves’s supposedly extremely secret project. Why did no one notice Hall, or Cohen, or Fuchs –**
 
@@ -968,7 +968,7 @@ I’m still not sure I buy it.
 
 Well, even if the physics involved had made nuclear weapons impossible, I think Groves would still have succeeded – with his management skills, he would simply have turned the whole research apparatus to some other technologically-advanced, war-ending project:
 
-![](https://acximages.ennals.org/images/2022-book-reviews/4d7b56e797ae730f.png)
+![](https://acximages.ennals.org/images/2022-book-reviews/5ece55862b1fcfb9.png)
 
 > **The sheer size of Groves’s genetically-engineered combat-dinosaurs gave  the strategy of island-hopping a new meaning.**
 
