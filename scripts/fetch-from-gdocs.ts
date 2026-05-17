@@ -21,6 +21,12 @@ import { resolvePublishedDate } from './lib/preserve-published-date';
 import { fetchGDocAsHTML, convertGDocToMarkdown } from './lib/gdoc-html';
 import { stringifyMarkdown } from './lib/frontmatter';
 import { runDedupeCrossSource } from './lib/dedupe-cross-source';
+import {
+  loadExceptions,
+  findSlugRename,
+  findH2Override,
+  applyH2Overrides,
+} from './lib/gdoc-exceptions';
 
 const GDOCS_SOURCES_PATH = path.join(process.cwd(), 'data/sources/gdocs-urls.json');
 const REVIEWS_DIR = path.join(process.cwd(), 'data/reviews');
@@ -555,11 +561,31 @@ async function processDoc(
       console.log(`  Found ${reviews.length} reviews in composite doc "${source.name}"`);
     }
 
+    const exceptions = loadExceptions();
+
     for (const review of reviews) {
-      const baseSlug = slugify(review.title)
+      let baseSlug = slugify(review.title)
         || generateFallbackSlug(review.title, review.content);
       if (baseSlug !== slugify(review.title)) {
         console.log(`  ⚠️  Empty slug for title "${review.title}", using fallback: ${baseSlug}`);
+      }
+
+      // Apply exception: rename the slug + title for known one-off cases
+      // (e.g., a section heading the pipeline mistakes for a separate review).
+      const renameRule = findSlugRename(exceptions, baseSlug);
+      if (renameRule) {
+        console.log(`  ↻ Exception: "${review.title}" (slug ${baseSlug}) → "${renameRule.toTitle}" (slug ${renameRule.toSlug})`);
+        review.title = renameRule.toTitle;
+        baseSlug = renameRule.toSlug;
+      }
+
+      // Apply exception: override H2 promotions for known one-off bold-line
+      // patterns (e.g., paired-bold authors where the generic rule picks the
+      // wrong one). The override is keyed by the final base slug.
+      const h2Override = findH2Override(exceptions, baseSlug);
+      if (h2Override) {
+        console.log(`  ↻ Exception: applying H2 override for slug ${baseSlug}`);
+        review.content = applyH2Overrides(review.content, h2Override.h2Lines);
       }
 
       // Try baseSlug, then baseSlug-2, baseSlug-3, … until we find a slot
