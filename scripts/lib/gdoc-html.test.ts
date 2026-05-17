@@ -323,6 +323,139 @@ test('cleanupMarkdown does NOT promote a long bold line (>100 chars)', () => {
   assert.ok(out.includes(`**${longText}**`), `long bold should be preserved as emphasis; got: ${out}`);
 });
 
+test('cleanupMarkdown promotes section-numbered bold headings ending with ? or :', () => {
+  // Real example from "A Secular Age": four section headings styled as
+  // **I. Why so secular?**, **II. Oh the places elites go**, **III. Why?**,
+  // **IV. Archimedes Chronophone, revisited:**. Previously only II
+  // promoted because I/III ended with `?` and IV ended with `:`, all of
+  // which the strict end-punctuation rule excluded.
+  const input = [
+    '**I. Why so secular?**',
+    '',
+    'Substantive prose under section I — over fifty characters of real text content to satisfy the context check.',
+    '',
+    '**II. Oh the places elites go**',
+    '',
+    'Substantive prose under section II — over fifty characters of real text content to satisfy the context check.',
+    '',
+    '**III. Why?**',
+    '',
+    'Substantive prose under section III — over fifty characters of real text content to satisfy the context check.',
+    '',
+    '**IV. Archimedes Chronophone, revisited:**',
+    '',
+    'Substantive prose under section IV — over fifty characters of real text content to satisfy the context check.',
+  ].join('\n');
+
+  const out = cleanupMarkdown(input);
+
+  assert.ok(/^## I\. Why so secular\?$/m.test(out), `I. should promote; got: ${out}`);
+  assert.ok(/^## II\. Oh the places elites go$/m.test(out), `II. should promote; got: ${out}`);
+  assert.ok(/^## III\. Why\?$/m.test(out), `III. should promote; got: ${out}`);
+  assert.ok(/^## IV\. Archimedes Chronophone, revisited:$/m.test(out), `IV. should promote; got: ${out}`);
+});
+
+test('cleanupMarkdown promotes bare section-numbered markers like **I.**, **II.**', () => {
+  // Real example from "Black Skin White Masks" / "Love Island": section
+  // markers are just the Roman numeral plus period, with substantive prose
+  // between them. Previously failed because `I.` ends with `.`.
+  const input = [
+    '**I.**',
+    '',
+    'A substantive prose paragraph that is comfortably above the fifty-character threshold of real text.',
+    '',
+    '**II.**',
+    '',
+    'Another substantive prose paragraph easily over fifty characters of normal English text content.',
+    '',
+    '**III.**',
+    '',
+    'A third substantive prose paragraph that is comfortably above the threshold for context-detection.',
+  ].join('\n');
+
+  const out = cleanupMarkdown(input);
+
+  assert.ok(/^## I\.$/m.test(out), `**I.** should promote; got: ${out}`);
+  assert.ok(/^## II\.$/m.test(out), `**II.** should promote; got: ${out}`);
+  assert.ok(/^## III\.$/m.test(out), `**III.** should promote; got: ${out}`);
+});
+
+test('cleanupMarkdown group-promotes section-numbered headings even when one has short surrounding text', () => {
+  // Real example from "The Narrow Road to the Deep North": four `**Part N: …**`
+  // headings, but Part 2 happens to be surrounded by very short paragraphs
+  // (a haiku + short setup), so the per-line substantive-prose check fails.
+  // The 3+-section-numbered group override promotes it anyway.
+  const input = [
+    '**Part 1: So It Begins**',
+    '',
+    'Some substantive prose about Part 1 that is comfortably above the fifty-character threshold of real text.',
+    '',
+    '**Part 2: Seasons Don’t Fear the Weeper**',
+    '',
+    'Short.',
+    '',
+    '**Part 3: Poetry**',
+    '',
+    'Some substantive prose about Part 3 that is comfortably above the fifty-character threshold of real text.',
+    '',
+    '**Part 4: Travelers**',
+    '',
+    'Some substantive prose about Part 4 that is comfortably above the fifty-character threshold of real text.',
+  ].join('\n');
+
+  const out = cleanupMarkdown(input);
+
+  assert.ok(/^## Part 1: So It Begins$/m.test(out), `Part 1 should promote; got: ${out}`);
+  assert.ok(/^## Part 2: Seasons/m.test(out), `Part 2 should group-promote despite short context; got: ${out}`);
+  assert.ok(/^## Part 3: Poetry$/m.test(out), `Part 3 should promote; got: ${out}`);
+  assert.ok(/^## Part 4: Travelers$/m.test(out), `Part 4 should promote; got: ${out}`);
+});
+
+test('cleanupMarkdown promotes section-numbered bold lines where turndown escaped the period (N\\.)', () => {
+  // When `N.` appears at the start of a line, turndown escapes the period
+  // as `\.` to prevent CommonMark from interpreting it as a numbered-list
+  // marker. The H2-promotion rule must still recognize these as
+  // section-numbered, and must strip the (now-unnecessary) escape on output.
+  const input = [
+    '**1\\. Systems of extracting food and fuel**',
+    '',
+    'A substantive prose paragraph that is comfortably above the fifty-character threshold for context.',
+    '',
+    '**2\\. Science / invention**',
+    '',
+    'Another substantive prose paragraph that is comfortably above the fifty-character threshold.',
+    '',
+    '**3\\. Education and job specialization**',
+    '',
+    'Yet another substantive prose paragraph that is comfortably above the fifty-character threshold.',
+  ].join('\n');
+
+  const out = cleanupMarkdown(input);
+
+  assert.ok(/^## 1\. Systems of extracting food and fuel$/m.test(out), `should promote and strip the \\.; got: ${out}`);
+  assert.ok(/^## 2\. Science \/ invention$/m.test(out), `should promote 2.; got: ${out}`);
+  assert.ok(/^## 3\. Education and job specialization$/m.test(out), `should promote 3.; got: ${out}`);
+  assert.ok(!/\\\./m.test(out), `escaped periods should be stripped in heading; got: ${out}`);
+});
+
+test('cleanupMarkdown does NOT group-promote when there are fewer than 3 section-numbered candidates', () => {
+  // Two section-numbered candidates is not a strong enough signal to bypass
+  // the substantive-prose check.
+  const input = [
+    '**I. First**',
+    '',
+    'Short.',
+    '',
+    '**II. Second**',
+    '',
+    'Also short.',
+  ].join('\n');
+
+  const out = cleanupMarkdown(input);
+
+  assert.ok(!/^## I\./m.test(out), `should not group-promote with only 2 candidates; got: ${out}`);
+});
+
 test('cleanupMarkdown does NOT promote bold lines when the doc already uses ATX headings', () => {
   // If the author chose to use proper `##` headings anywhere in the
   // doc, any bold-only line is emphasis, not a missed heading.

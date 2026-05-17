@@ -1005,11 +1005,50 @@ export function cleanupMarkdown(markdown: string): string {
       return j;
     };
     const isItalicOnly = (s: string) => /^_[^_\n]{1,200}_[ \t]*$/.test(s.trim());
+
+    // Section-numbered prefix: optional word ("Part", "Chapter", "Section",
+    // "Step", "Volume", "Book"), then a Roman numeral / digit / single capital
+    // letter, optionally a period (possibly turndown-escaped as `\.`), then
+    // whitespace, end-of-line, or a `?`/`:` (which the author often uses to
+    // lead into the section title or body). Covers:
+    //   `**I.**`, `**II. Why so secular?**`, `**0.5. Subtopic**`,
+    //   `**IV. Archimedes Chronophone, revisited:**`, `**Part 2: …**`,
+    //   `**Chapter 3**`, `**A. Background**`, `**1\. Systems of …**`
+    //   (turndown escapes `N.` at line start as `N\.` to prevent CommonMark
+    //   from reading it as a numbered-list marker).
+    const SECTION_NUMBERED_RE =
+      /^(?:(?:Part|Chapter|Section|Step|Volume|Book)\s+)?(?:[IVXLCDM]+|\d+(?:\.\d+)?|[A-Z])\\?\.?(?:\s|$|[?:])/i;
+
+    // First pass: collect indices of bold-only lines whose text matches the
+    // section-numbered pattern. If 3+ such lines exist in the doc, we treat
+    // them as a "group" and promote them all — even if individual ones fail
+    // the substantive-prose-flanking check (e.g. one of N sections happens
+    // to be sandwiched between very short paragraphs).
+    const sectionNumberedIdx: number[] = [];
+    for (let i = 0; i < lines.length; i++) {
+      const m = /^\*\*([^*\n]{1,100})\*\*[ \t]*$/.exec(lines[i]);
+      if (!m) continue;
+      const t = m[1].trim();
+      if (SECTION_NUMBERED_RE.test(t)) sectionNumberedIdx.push(i);
+    }
+    const sectionGroupActive = sectionNumberedIdx.length >= 3;
+    const sectionGroupSet = new Set(sectionNumberedIdx);
+
     for (let i = 0; i < lines.length; i++) {
       const m = /^\*\*([^*\n]{1,100})\*\*[ \t]*$/.exec(lines[i]);
       if (!m) continue;
       const text = m[1].trim();
-      if (!text || /[.!?:;,]$/.test(text)) continue;
+      if (!text) continue;
+      const isSectionNumbered = sectionGroupSet.has(i);
+      // End-punctuation: a section title is rarely a sentence fragment ending
+      // in `.`, `!`, `,`, or `;`. For section-numbered headings (Roman numerals,
+      // `Part N:`, `0.5.`, etc.), the trailing `.`, `?`, or `:` is part of the
+      // title pattern, so we allow those.
+      if (isSectionNumbered) {
+        if (/[!;,]$/.test(text)) continue;
+      } else {
+        if (/[.!?:;,]$/.test(text)) continue;
+      }
       // A line that starts or ends with an em/en-dash (or stray hyphen)
       // is almost always either a quote attribution (`– Author Name`)
       // or a trailing sentence fragment, not a section title.
@@ -1026,10 +1065,21 @@ export function cleanupMarkdown(markdown: string): string {
       // letting tier-list patterns through — tier labels are flanked by
       // short non-italic non-blockquote data values, which the walk stops
       // on (and which fail the substantiveness check).
-      const aboveSub = isSubstantivePara(walkAbove(i));
-      const belowSub = isSubstantivePara(walkBelow(i));
-      if (!aboveSub && !belowSub) continue;
-      lines[i] = `## ${text}`;
+      //
+      // Override: when the doc has 3+ section-numbered bold-only lines, we
+      // treat them as a confirmed group and promote them all, regardless of
+      // per-line context. This handles inconsistent surrounding paragraph
+      // lengths within an otherwise-clearly-structured doc.
+      if (!(sectionGroupActive && isSectionNumbered)) {
+        const aboveSub = isSubstantivePara(walkAbove(i));
+        const belowSub = isSubstantivePara(walkBelow(i));
+        if (!aboveSub && !belowSub) continue;
+      }
+      // Strip turndown's `\.` escape when emitting the heading: inside `## …`
+      // the period is no longer at line start so the escape would just render
+      // as a literal backslash in some markdown renderers.
+      const headingText = text.replace(/(\d)\\\./g, '$1.');
+      lines[i] = `## ${headingText}`;
     }
     md = lines.join('\n');
   }
