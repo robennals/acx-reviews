@@ -1,0 +1,22 @@
+{
+  "slugRenames": [
+    {
+      "fromBaseSlug": "prologue-three-jews-on-the-internet",
+      "toSlug": "the-book-of-why-by-judea-pearl-2022",
+      "toTitle": "The Book of Why by Judea Pearl",
+      "comment": "The 2022 'Book of Why' contest review opens with a Prologue titled 'Three Jews on the Internet'. The pipeline's composite-doc splitter misreads the prologue heading as a separate essay's title; the actual review is about Pearl's Book of Why. The other sibling section headings (Fisher is Evil, Ladder of Causation, Monty Hall Paradox, Epilogue) were already split into separate slugs by earlier pipeline runs and are out of scope here."
+    }
+  ],
+  "perFileH2Overrides": {
+    "fashion-faith-and-fantasy-in-the-new-physics-of-the-universe-by-roger-penrose": {
+      "h2Lines": [
+        "The Mathematical Appendix",
+        "Fashion",
+        "Faith",
+        "Fantasy",
+        "Conclusion"
+      ],
+      "comment": "Author styles each section as a stacked pair of bold-only paragraphs: a short section title (Fashion/Faith/Fantasy/Conclusion or 'The Mathematical Appendix') followed by a longer, cute subtitle ('Beating Up Particle Physics and Taking its Lunch Money', etc.). The generic bold-to-H2 promoter sees the first of each pair as flanked by a bold-only line (not substantive prose) and promotes the second of each pair instead — backwards. List explicitly which lines should be H2; the rest revert to bold."
+    }
+  }
+}
