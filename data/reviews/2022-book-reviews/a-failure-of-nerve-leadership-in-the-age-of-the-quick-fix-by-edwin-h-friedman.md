@@ -33,9 +33,9 @@ tags:
 > If you’ve led an institution for any length of time, you’ve probably had moments when you’ve wondered, “Who the hell would want this job?” (at least if they only understood what that leadership entailed!) Whether it’s a tech startup or a family, university or book club, a hospital or the board of elders–same discouragement, same weariness, same taste of burnout threatening to claim you.
 >
 > Maybe you can remember how your role held such promise at first, but now the joy has evaporated. You can tell you’ve “lost your shine” in the eyes of the energetic crew you’ve been leading; they may even have been replaced with a set of minions who, while appearing identical, are hollow-eyed and slow to carry out their duties. Added to all this, a sea of troubles is looming on the horizon, threatening to capsize the whole enterprise. After an extended period of floundering along hopelessly, maybe, like Ender Wiggin, you just want “out.”
-
-![](https://acximages.ennals.org/images/2022-book-reviews/e9a92469d3747fce.png)
-
+>
+> ![](https://acximages.ennals.org/images/2022-book-reviews/e9a92469d3747fce.png)
+>
 > [If they tell you that they don’t _know_ that failure is inevitable–but that you’re the best hope they’ve got–maybe run if you can? Not that they necessarily said that to Ender in so many words!]
 
 2.  **Give me the takeaways before I close out this tab and get on with my life!!!**

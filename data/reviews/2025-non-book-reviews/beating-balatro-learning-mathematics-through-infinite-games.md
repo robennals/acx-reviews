@@ -21,9 +21,8 @@ tags:
 >
 > Perhaps surprisingly, and not so subtly, one of these critical elements to mastering these games is not as much the twitchy finger (although this also matters!), but a basic knowledge of exponents. The key game logic is not simply to accumulate items and weapons, but to accumulate them in such a way that they combine well. This means both a variety of range attacks and the right combination of objects which will evolve into superweapons.
 >
-
-![](https://acximages.ennals.org/images/2025-non-book-reviews/ef9f9b47a316d1f1.gif)
-
+> ![](https://acximages.ennals.org/images/2025-non-book-reviews/ef9f9b47a316d1f1.gif)
+>
 > Through gathering gems from fallen enemies you level up and with each level up—and on chest events—you choose what upgrades to get. In the beginning of the game you decide what your core weapons will be, and you get to observe the exact amount of damage dealt by conveniently displayed damage marks.  
 
 ![](https://acximages.ennals.org/images/2025-non-book-reviews/ff0eaf3be10071f2.gif)
@@ -36,7 +35,12 @@ tags:
 >
 > This review process, which is an essential part of every game, allows you to play in 30 minute increments while constantly evolving your strategy to see which weapons give you the most **umph**.  While this genre has produced many imitation offspring, arguably only a few have improved on the overall formula.
 >
+> ![](https://acximages.ennals.org/images/2025-non-book-reviews/585971732f717c2a.gif)
+>
 > **Brotato**, featuring a violent potato on a mission of mayhem, arguably improved the Vampire Survivor model into unique fast paced stages where you use your cash to choose which weapons and upgrades to use, making for an extremely fast paced game with little margin for error and including complicated strategies which are endlessly debated on the [brotato subreddit](https://www.reddit.com/r/brotato/).
+
+![](https://acximages.ennals.org/images/2025-non-book-reviews/064eca5c3bbb0805.png)
+
 >
 > [Brotato Subreddit | Why is this game crack](https://www.reddit.com/r/brotato/comments/1kjiahb/why_is_this_game_crack/)
 
@@ -55,6 +59,8 @@ While you can content yourself simply by collecting unlocks and steam achievemen
 ## Enter Balatro
 
 > Curiously, in a world of attention maximization and fast twitches, this genre has evolved to be immensely cognitively challenging and intensely mathematical, illustrated by possibly the greatest game to emerge in the last year, Balatro, a breakaway success that sold over a million copies and won game of the year at the Game Developers Choice Awards (GDCA).
+>
+> ![](https://acximages.ennals.org/images/2025-non-book-reviews/5cbd3de4be3be145.gif)
 >
 > Balatro, from first glance, is a simple remake of poker with a certain number of points per hand.  You have a certain number of cards, you complete a hand, you turn it in, you get points. If your points are above the current target, you win and move on to the next level. If not, you can turn in more hands until you get to “0 hands” left, in which case you die.
 >

@@ -199,5 +199,7 @@ Newsom claims more than Orson Welles' _F is for Fake_. Welles said that we shoul
 
 [https://www.youtube.com/watch?v=PYefVGPHAE8](https://www.youtube.com/watch?v=PYefVGPHAE8)
 
+![](https://acximages.ennals.org/images/2025-non-book-reviews/02a0ca2a7245fafe.jpg)
+
 >
 > [1] I used the official lyrics sheets from the vinyl album for punctuation, line breaks, and capitalization in these lyrics. This does frequently affect the meaning. Use internet lyrics with care, my friend!

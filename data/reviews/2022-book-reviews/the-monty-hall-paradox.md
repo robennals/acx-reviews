@@ -122,9 +122,9 @@ So I changed the interlocutor from “girl” to “female” to remove the unin
 > Female: But: if I really have to change the door, then it is not an illusion.
 >
 > Me: Whatever, it's an illusion in the penises case, what the two examples share is an unexpected correlation. Anyway, it becomes evident if we draw the diagram:
-
-![](https://acximages.ennals.org/images/2022-book-reviews/ca5b9d25d7bd6f93.png)
-
+>
+> ![](https://acximages.ennals.org/images/2022-book-reviews/ca5b9d25d7bd6f93.png)
+>
 > Me: So, who out of you and your mother is carrying out the measurement influences the length due to the differential erection rate. Age matters too because children have it small.
 >
 > Female: Every mile a pedo-phile, du-di-du....

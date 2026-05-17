@@ -135,14 +135,12 @@ Böick is not interested in participating in this fun game because it’s too mu
 
 > ![](https://acximages.ennals.org/images/2024-book-reviews/6d8b16f40786b624.png)The per-capita GDP of other countries that transitioned around the same time as East Germany. If this plot seems kind of overwhelming, that is because it is. If you are really interested, you can have a closer look at them at the source, [Our World in Data](https://ourworldindata.org/economic-growth).
 >
-
-![](https://acximages.ennals.org/images/2024-book-reviews/50a07399ab812be7.png)
-
+> ![](https://acximages.ennals.org/images/2024-book-reviews/50a07399ab812be7.png)
+>
 > The same data, averaged. The long stagnation in the mean during the 90s is a mix of some economies stagnating, but it also hides that some were still shrinking, while others were already growing. It is also partly an artifact of poorer countries gaining independence later.
 >
-
-![](https://acximages.ennals.org/images/2024-book-reviews/c28523f423ef8903.png)
-
+> ![](https://acximages.ennals.org/images/2024-book-reviews/c28523f423ef8903.png)
+>
 > The ratio of per-capita GDP in East and West Germany, during and after socialism, combining two different data sets for the pre and post-revolution era, respectively.[[46]](#ftnt46) You can see that the eastern economy quickly more than rebounded, but remains behind its western counterpart.
 
 All the formerly socialist countries underwent an economic decline during these years and unemployment rose sharply everywhere, which strongly suggests socialism as the culprit. According to OWID, the decline of around 32% in the GDP of East Germany is in the same ballpark as the other countries. Some did better (e.g. Slovenia, Poland), some worse (e.g. Russia, Ukraine). However, it seems that the countries that I would assume were economically more similar to Germany did not see as big a crash as East Germany itself - at least initially. However, the GDP of East Germany recovered relatively quickly and reached its pre-crisis level again in 1993. This is faster than in most other countries, but it does not stop there: it shoots up even further, which does not happen anywhere else, until it plateaus and then starts growing again at a slow, but steady pace.
