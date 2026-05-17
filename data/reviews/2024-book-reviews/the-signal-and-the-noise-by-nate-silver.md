@@ -66,29 +66,10 @@ It’s an approach he doesn’t take in his updated preface for the 2020 edition
 
 Imagine a world where two Nates issue 10,000 forecasts. One is Nate Bronze, and the other is Nate Gold. Given all those forecasts, we calibrate both Nates’ predictions and how likely they are to be correct:
 
-**Nate:**
-
-**Prediction:**
-
-**\# Observed:**
-
-**Calibration:**
-
-**Bronze**
-
-25-30%
-
-7,500/10,000
-
-75%
-
-**Gold**
-
-5%
-
-500/10,000
-
-5%
+| Nate: | Prediction: | # Observed: | Calibration: |
+| --- | --- | --- | --- |
+| Bronze | 25-30% | 7,500/10,000 | 75% |
+| Gold | 5% | 500/10,000 | 5% |
 
 Bronze is biased and poorly calibrated. Meanwhile, Gold is perfectly calibrated. Now compare a situation like in 2016, where Gold predicted a 5% chance and Bronze predicted a 28.6% chance. Neither model predicted an outright ‘win’, meaning that some lower-probability event was realized either way. But which prediction was ‘right’?
 
@@ -134,47 +115,14 @@ Suddenly this terrible test became highly specific. All we had to do was change 
 
 For now, let’s follow Silver’s logic of how we might use this equation to get around disagreements about what the baseline cancer rate is. Let’s say you and I disagree about the rate of cancer in the population. You think it’s 10% and I think it’s 0.01% - a thousand times less. We give the screening test to someone five times, and the test comes back positive five times. Assuming each test is independent, what’s the probability this patient truly has cancer? Since we both come to the table with different assumptions for the unknown probability, we’re going to get different answers from each Bayesian update. But watch how our estimates converge through serial applications of Bayes’ theorem:
 
-**Result #**
-
-**You**
-
-**Me**
-
-**Baseline**
-
-10.0%
-
-0.1%
-
-**1**
-
-66.7%
-
-1.8%
-
-**2**
-
-97.3%
-
-24.5%
-
-**3**
-
-99.8%
-
-85.4%
-
-**4**
-
-99.9%
-
-99.1%
-
-**5**
-
-99.9%
-
-99.9%
+| Result # | You | Me |
+| --- | --- | --- |
+| Baseline | 10.0% | 0.1% |
+| 1 | 66.7% | 1.8% |
+| 2 | 97.3% | 24.5% |
+| 3 | 99.8% | 85.4% |
+| 4 | 99.9% | 99.1% |
+| 5 | 99.9% | 99.9% |
 
 This is the answer to solving differences of opinion. This is Nate’s silver bullet to reasoning in uncertainty, and a major theme of the book. If you just apply Bayes’ theorem to your problems, “all the rest is commentary”. But if Bayesian reasoning is the silver bullet, what monster is it created to slay? Enter RA Fisher and frequentist statistics.
 
@@ -271,35 +219,12 @@ P(positive paper for defects|defect exists) = 95%
 
 P(negative paper for defects|defect exists) = 5%
 
-**Result**
-
-**Doc #1**
-
-**Doc #2**
-
-**P(defects from Zofran)**
-
-10%
-
-0.1%
-
-**Positive**
-
-65.5%
-
-1.9%
-
-**Negative**
-
-6.8%
-
-0.2%
-
-**Negative**
-
-<0.1%
-
-<0.1%
+| Result | Doc #1 | Doc #2 |
+| --- | --- | --- |
+| P(defects from Zofran) | 10% | 0.1% |
+| Positive | 65.5% | 1.9% |
+| Negative | 6.8% | 0.2% |
+| Negative | <0.1% | <0.1% |
 
 We got to the ‘right’ place, after just two follow-up papers!
 
@@ -307,41 +232,13 @@ Well, maybe.
 
 I’m sure the authors of the positive study will argue why the negative studies were done wrong, and vice-versa. We’ll get into a debate about technique. One side will debate whether the prior and posterior probabilities were set right. In the end, half of the doctors will still be refusing to consider Zofran safe after a dozen papers negative for birth defects, while others would still be prescribing it after at least a few positive papers. The whole thing will devolve into a Bayesian mess because people are allowing their priors to not just define P(A|B), but also how they interpret new data, i.e. P(A) and P(B). While everyone debates the specific details of each study and how much credibility they should assign them, what we’ll end up with is probably something closer to this:
 
-**Result**
-
-**Doc #1**
-
-**Doc #2**
-
-**P(defects from Zofran)**
-
-10%
-
-0.1%
-
-**Positive**
-
-78.5%
-
-0.2%
-
-**Negative**
-
-72.8%
-
-<0.1%
-
-**Negative**
-
-72.1%
-
-<0.1%
-
-**Negative**
-
-68.4%
-
-<0.1%
+| Result | Doc #1 | Doc #2 |
+| --- | --- | --- |
+| P(defects from Zofran) | 10% | 0.1% |
+| Positive | 78.5% | 0.2% |
+| Negative | 72.8% | <0.1% |
+| Negative | 72.1% | <0.1% |
+| Negative | 68.4% | <0.1% |
 
 Let’s talk about what’s **not** being done in this analysis. To do that, we’ll let the frequentists back into the discussion.
 

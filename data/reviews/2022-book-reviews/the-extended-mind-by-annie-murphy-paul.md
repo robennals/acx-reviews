@@ -32,27 +32,12 @@ _The Extended Mind_ is divided into thirds—one on _embodied_ cognition, one on
 
 In the spirit of the book’s thesis, I was inspired to map out a kind of visual summary of all this—which I hope has been preserved in the submission process! (At this point, I don’t think a graphic organizer is hugely beneficial for my own understanding of _The Extended Mind_—but I hope it will serve to preserve its structure in the background as I bounce around between different chapters.)
 
-Extending the Mind through…
-
-Ch. 1: sensations →
-
-Ch. 2: movement →
-
-Ch. 3: gestures →
-
-Ch. 4: natural spaces →
-
-Ch. 5: built spaces →
-
-Ch. 6: “the space of ideas” →
-
-Ch. 7: experts →
-
-Ch. 8: peers →
-
-and Ch. 9: groups →
-
-…improves learning, retention, creativity, and work product.
+| Extending the Mind through… |
+| --- |
+| Ch. 1: sensations → |
+| Ch. 4: natural spaces → |
+| Ch. 7: experts → |
+| …improves learning, retention, creativity, and work product. |
 
 “The Extended Mind” is, in fact, a concept first proposed by philosopher Andy Clark, who coined the phrase in his [1998 paper](https://www.nyu.edu/gsas/dept/philo/courses/concepts/clark.html) by the same name, and is cited frequently throughout Paul’s work. (_Where does the mind stop and the rest of the world begin?_ is the central question that paper attempts to parse.) Somehow, I only realized about halfway through writing this that Andy Clark is _also_ the author of _Surfing Uncertainty_, [of SSC book review fame](https://slatestarcodex.com/2017/09/05/book-review-surfing-uncertainty/)—another fascinating take on the mind you should definitely check out if you’re unfamiliar.
 

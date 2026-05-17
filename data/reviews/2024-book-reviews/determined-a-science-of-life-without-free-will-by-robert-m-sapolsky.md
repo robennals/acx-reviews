@@ -276,29 +276,13 @@ In describing the infinite chain of causality (what you do is influenced by what
 
 But where is the line? The following is a table from the book that outlines what Sapolsky believes to be the false dichotomy we make between behaviors which are “biological” (i.e. out of our control) and the result of “grit” (i.e. within our control):
 
-**“Biological Stuff”**
-
-**Do you have grit?**
-
-Having destructive sexual urges
-
-Do you resist acting upon them?
-
-Being a natural marathoner
-
-Do you fight through the pain?
-
-Not being all that bright
-
-Do you triumph by studying extra hard?
-
-Having a proclivity towards alcoholism
-
-Do you order ginger ale instead?
-
-Having a beautiful face
-
-Do you resist concluding that you’re entitled to people being nice to you because of it?
+| “Biological Stuff” | Do you have grit? |
+| --- | --- |
+| Having destructive sexual urges | Do you resist acting upon them? |
+| Being a natural marathoner | Do you fight through the pain? |
+| Not being all that bright | Do you triumph by studying extra hard? |
+| Having a proclivity towards alcoholism | Do you order ginger ale instead? |
+| Having a beautiful face | Do you resist concluding that you’re entitled to people being nice to you because of it? |
 
 Sapolsky argues, however, that both sides of the chart “are equally the outcome of uncontrollable biology interacting with uncontrollable environment,” and provides a few examples of behaviors - namely, epilepsy and schizophrenia - that have shifted from the left to right as our understanding of the conditions have evolved. We did it before, he says, so we can do it again.
 

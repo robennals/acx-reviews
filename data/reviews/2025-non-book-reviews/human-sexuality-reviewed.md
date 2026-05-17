@@ -140,47 +140,14 @@ The almost complete lack of good scientific information about what people are ac
 
 Justin Lehmiller published the raw numbers from his two-year, 4,175-respondent fantasy survey in his book [Tell Me What You Want](https://www.amazon.com/Tell-Me-What-You-Want/dp/0738234958/). Here's a sample of the findings:
 
-Fantasy theme
-
-% who've fantasized ever
-
-% who fantasize often
-
-Threesome
-
-89%
-
-26%
-
-Orgy/sex party
-
-74%
-
-14%
-
-Inflicting pain
-
-60%
-
-17%
-
-Receiving pain
-
-65%
-
-19%
-
-Public/"people might see"
-
-57%
-
-16%
-
-Cuckolding/hot-wife
-
-52% men, 36% women
-
-9% men, 4% women
+| Fantasy theme | % who've fantasized ever | % who fantasize often |
+| --- | --- | --- |
+| Threesome | 89% | 26% |
+| Orgy/sex party | 74% | 14% |
+| Inflicting pain | 60% | 17% |
+| Receiving pain | 65% | 19% |
+| Public/"people might see" | 57% | 16% |
+| Cuckolding/hot-wife | 52% men, 36% women | 9% men, 4% women |
 
 Lehmiller's book groups the 369 prompts into seven clusters; the top three alone—multi-partner, power/control/rough, novelty/adventure—soak up over two-thirds of every "often" tick-mark. The remaining four (taboo, partner-sharing, passion/romance, erotic flexibility) are basically themed remixes of those top three.
 

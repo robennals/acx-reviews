@@ -58,21 +58,11 @@ Tell your sons and daughters: You are not like the other children. That is simpl
 
 Variations of these parental anxieties pop up throughout _Wealth in Families_ whenever the realities of immense wealth come in conflict with middle-class taboos on discussing finances. Collier directs readers to be open with your children about how much money you have, what you spend it on, and how much you will give them. Inheritance is of course a fraught topic for any family, but especially the wealthy ones, since they have so much more to hand down. There is a danger associated with raising children in wealthy families. Wealthy people don’t _need_ to do anything, and as a result may lack the industriousness required to keep the family wealth from evaporating after one generation. In Collier’s view there is a fairly mechanical solution to this problem: slowly drip-feed a predefined inheritance to your children over the course of their lives. Not so much that they will never work, but not so little that they will resent you. The following table summarizes Collier’s financial recommendations on how much to bequeath.
 
-Publicly Traded Family Wealth
-
-Amount to Give per Child
-
-$15-30 million
-
-$1-2 million
-
-\>$100 million
-
-$10-15 million
-
-“really substantial”
-
-“more”
+| Publicly Traded Family Wealth | Amount to Give per Child |
+| --- | --- |
+| $15-30 million | $1-2 million |
+| >$100 million | $10-15 million |
+| “really substantial” | “more” |
 
 Collier declines to prescribe exactly when to give your children this money, mostly because there is substantial academic disagreement between competing schools of thought. But beyond the mechanics of trusts, taxes, and generation skipping (which occupies a good chunk of _Wealth in Families_), Collier is seeking to impart a guiding philosophy for raising children in wealthy families.
 

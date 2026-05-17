@@ -142,25 +142,12 @@ Most learning (at least for older kids) can shift to interactive online tutorial
 
 The learning should connect to interesting projects where possible so that kids can achieve something. For example, they can pick apart an article online to practice statistical or critical thinking, or they can build a game to practice programming. Video games can also be used for some subjects, where they provide a natural path of achievement in a virtual world. For example, games can be used to learn programming, physics or managing resources. AI will eventually enable games for practicing social skills too. Learning should be fun, creative and meaningful rather than rote memorization for a test.
 
-Level of understanding
-
-What it can be used for
-
-Memorization of facts
-
-Repeat the facts or formulas directly
-
-Memorization of techniques
-
-Apply in very similar cases, such as on the test
-
-Pattern matching / some conceptual understanding
-
-Apply to new cases when similar to the learned pattern
-
-Deeper "gears level" grasp
-
-Apply in new circumstances, rediscover ideas, or even push the edge of knowledge forward
+| Level of understanding | What it can be used for |
+| --- | --- |
+| Memorization of facts | Repeat the facts or formulas directly |
+| Memorization of techniques | Apply in very similar cases, such as on the test |
+| Pattern matching / some conceptual understanding | Apply to new cases when similar to the learned pattern |
+| Deeper "gears level" grasp | Apply in new circumstances, rediscover ideas, or even push the edge of knowledge forward |
 
 _Schools currently emphasize memorization, but they should emphasize understanding and applying it._
 

@@ -67,7 +67,8 @@ The same process occurred with the invention of stoves to replace hearths. Most 
 
 ![](https://acximages.ennals.org/images/2022-book-reviews/5e545848d24fc936.jpg)
 
-[New World 84 gas cooker advertisement,](https://flic.kr/p/2g3QfDD) c.1950, from the [Dunedin City Council Archives,](https://www.flickr.com/photos/dccarchives/) Gas Department Series 39/136. Licensed under [CC BY 4.0.](https://creativecommons.org/licenses/by/4.0/)
+| New World 84 gas cooker advertisement, c.1950, from the Dunedin City Council Archives, Gas Department Series 39/136. Licensed under CC BY 4.0. |
+| --- |
 
 Cowan explains how this transition played out in households:
 
@@ -83,7 +84,8 @@ What is perhaps most important to realize about this process is that the inventi
 
 ![](https://acximages.ennals.org/images/2022-book-reviews/ab54ab49566a0a99.jpg)
 
-[Arco Wand Vacuum Cleaner Advertisement](https://flic.kr/p/5DWkMJ) from August 1917, _Scribner's Magazine._ Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+| Arco Wand Vacuum Cleaner Advertisement from August 1917, Scribner's Magazine. Licensed under CC BY 4.0. |
+| --- |
 
 ## Insourcing the Dreaded Laundry Day
 
@@ -95,9 +97,10 @@ As Cowan puts it:
 
 > “Washing sheets with an automatic washing machine is considerably easier than washing them with one that has a wringer, itself considerably easier than washing them with a scrub board and tub. _Yet the easiest solution of all (at least from the point of view of the housewife) is to have someone else do it altogether_…The advent of the electrically powered washing machines (as well as of synthetic washable fabrics) coincided with the advent of ‘do-it-yourself’ laundry, so that the woman endowed with a Bendix would have found it easier to do her laundry but, _simultaneously, would have done more laundry, and more of it herself, than either her mother or her grandmother had_.” (emphasis mine)
 
-![](https://acximages.ennals.org/images/2022-book-reviews/fd16ea4d7624edd0.jpg)
+![](https://acximages.ennals.org/images/2022-book-reviews/6a31e8af6d690855.jpg)
 
-[Montana Steam Laundry, Butte, Montana (1901)](https://flic.kr/p/7cFJmb), Image taken from pg 42 of _Souvenir history of the Butte Fire Department_ by Peter Sanger, Chief Engineer. From the Butte Digital Image Project at Montana Memory Project. Licensed under [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/).
+| Montana Steam Laundry, Butte, Montana (1901), Image taken from pg 42 of Souvenir history of the Butte Fire Department by Peter Sanger, Chief Engineer. From the Butte Digital Image Project at Montana Memory Project. Licensed under CC BY-NC-ND 4.0. |
+| --- |
 
 “Why Risk His Health with Germ-Laden Clothing, When a Bendix Home Laundry Costs Only $99.50?”
 

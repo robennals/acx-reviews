@@ -28,67 +28,16 @@ The first two chapters of the book are by far the toughest. In chapter one Jayne
 
 “Correlation is not causation”, while a useful statement, if misused, might cause some to ignore important data related to causation. Clouds are clearly correlated with rain, but many a cloudy day goes by without rain. There is a weak connection or weak syllogism here that we intuitively reason - if we see clouds, it’s more likely to rain. Strong syllogism is handled by traditional logic (if it rains, there are clouds). The weak syllogism (if there are clouds, it will rain) doesn’t always hold, but there is an association between seeing clouds expecting that it might rain that boolean truth tables don't capture. How can we formalize this intuition for a connection between clouds and rain? Jaynes suggests the brain is incorporating information to evaluate the degree of plausibility, for example, using the weak syllogisms below that imply that correlation can affect plausibility. We add examples showing why these are ‘weak’, i.e., sometimes conveys little information:
 
-Rule
+| Rule | Useful example | Less useful example |
+| --- | --- | --- |
+| If A is true, then B is trueA is false————————————Therefore, B becomes less plausible. | If it rains, there are cloudsIt doesn’t rain————————————Clouds are less plausible | If it rains, 1 + 1 = 2It doesn’t rain————————————“1 + 1 = 2” is less plausible |
 
-Useful example
-
-Less useful example
-
-If A is true, then B is true
-
-A is false
-
-————————————
-
-Therefore, B becomes less plausible.
-
-If it rains, there are clouds
-
-It doesn’t rain
-
-————————————
-
-Clouds are less plausible
-
-If it rains, 1 + 1 = 2
-
-It doesn’t rain
-
-————————————
-
-“1 + 1 = 2” is less plausible
-
+>
 > _“In this case, the evidence does not prove that B is false; but one of the possible reasons for its being true has been eliminated, and so we feel less confident about B. [...]”_
 
-Rule
-
-Useful example
-
-Less useful example
-
-If A is true, then B becomes more plausible
-
-B is true
-
-——————————————
-
-therefore, A becomes more plausible.
-
-If there are clouds, rain becomes more plausible
-
-It rains
-
-————————————
-
-Clouds are are more plausible
-
-If there are clouds, cloud-hiding monsters becomes more plausible
-
-Cloud-hiding monsters exist
-
-————————————
-
-Clouds are more plausible
+| Rule | Useful example | Less useful example |
+| --- | --- | --- |
+| If A is true, then B becomes more plausibleB is true——————————————therefore, A becomes more plausible. | If there are clouds, rain becomes more plausibleIt rains————————————Clouds are are more plausible | If there are clouds, cloud-hiding monsters becomes more plausibleCloud-hiding monsters exist————————————Clouds are more plausible |
 
 Jaynes wants to formalize weak syllogism like the ones above, and does that by imagining building a robot that can output the plausibility of an outcome, updating on some data. The actual implementation is up to the builder, but it should fulfill three desiderata that allows for solving the problem. These are:
 

@@ -344,87 +344,12 @@ Fortunately, if there really are no barriers to understanding the cosmos, we can
 
 ### High-level tentative guesses of the differences between most people, rationalists, and Deutsch.
 
-**Most people**
-
-**Rationalists**
-
-**Deutsch**
-
-Genetic influence
-
-Mostly blank slates. But some things are genetically determined like sexuality.
-
-Parenting heavily impacts the outcomes of children.
-
-Behavioral genetic literature shows that outcomes are influenced by genes and random environmental effects.
-
-Much behavior is explained by our evolved predispositions.
-
-Genetic influence is not immutable. This is due to human universality.  
-
-It will be easy to override and overwrite inborn predispositions with the right knowledge.
-
-Invoking genes to describe current human behavior is a bad explanation
-
-Bayesianism
-
-Can ignore base rates and estimate the likelihood of breast cancer about as well as a doctor.
-
-Beliefs start as priors (based on relevant base rates). Update these via +ve or -ve evidence.
-
-Act and bet based on these beliefs.
-
-Knowledge does not come from data. It is theory laden. We make guesses and submit them to criticism to correct errors.
-
-
-Confirming evidence does not increase the likelihood of a theory.
-
-Knowledge is not based on belief.
-
-Forecasting
-
-How did Trump win when there was a 90% chance of him losing?
-
-Make predictions that are precise and measurable. Calibrate these predictions.  
-
-Betting markets improve future predictions.
-
-Future of civilization is unknowable.
-
-Predictions that depend on future knowledge are prophecies.
-
-Blindly invoking historic occurrences is a bad explanation.
-
-Animal Welfare
-
-Chick-fil-a is a gift from heaven.
-
-Killing whales and mistreating dogs is evil.
-
-Animal suffering is a serious problem. It’s speciesist to privilege humans over animals.
-
-Eating meat while “offsetting” with donations is defensible
-
-Current science doesn't demonstrate that animals suffer. Pain ≠ suffering.
-
-Suffering likely depends on the ability to create explanatory knowledge. Animals lack this ability.
-
-AI Risk
-
-Terminator scenarios are science _fiction_, right?. And why would they want to harm us anyway?
-
-AGI is plausibly the biggest x-risk along with nuclear destruction.
-
-The alignment problem is key. We need to obviate the risk rather than react to it.  
-
-Timeline doesn’t ultimately matter re importance of preventing risk, but plausible AGI will be developed in 10-20 years.
-
-The current approach won’t achieve AGI breakthrough.
-
-AGI are people. It’s immoral to try to constrain them.  
-
-A true AGI won’t be constrained by a  goal because they will be a universal explainer.
-
-Once AGI is developed it will be trivial to improve our hardware to catch up. Software is universal.
+|  | Most people | Rationalists | Deutsch |
+| --- | --- | --- | --- |
+| Genetic influence | Mostly blank slates. But some things are genetically determined like sexuality.Parenting heavily impacts the outcomes of children. | Behavioral genetic literature shows that outcomes are influenced by genes and random environmental effects.Much behavior is explained by our evolved predispositions. | Genetic influence is not immutable. This is due to human universality.It will be easy to override and overwrite inborn predispositions with the right knowledge.Invoking genes to describe current human behavior is a bad explanation |
+| Bayesianism | Can ignore base rates and estimate the likelihood of breast cancer about as well as a doctor. | Beliefs start as priors (based on relevant base rates). Update these via +ve or -ve evidence.Act and bet based on these beliefs. | Knowledge does not come from data. It is theory laden. We make guesses and submit them to criticism to correct errors.Confirming evidence does not increase the likelihood of a theory.Knowledge is not based on belief. |
+| Forecasting | How did Trump win when there was a 90% chance of him losing? | Make predictions that are precise and measurable. Calibrate these predictions.Betting markets improve future predictions. | Future of civilization is unknowable.Predictions that depend on future knowledge are prophecies.Blindly invoking historic occurrences is a bad explanation. |
+| Animal Welfare | Chick-fil-a is a gift from heaven.Killing whales and mistreating dogs is evil. | Animal suffering is a serious problem. It’s speciesist to privilege humans over animals.Eating meat while “offsetting” with donations is defensible | Current science doesn't demonstrate that animals suffer. Pain ≠ suffering.Suffering likely depends on the ability to create explanatory knowledge. Animals lack this ability. |
+| AI Risk | Terminator scenarios are science fiction, right?. And why would they want to harm us anyway? | AGI is plausibly the biggest x-risk along with nuclear destruction.The alignment problem is key. We need to obviate the risk rather than react to it.Timeline doesn’t ultimately matter re importance of preventing risk, but plausible AGI will be developed in 10-20 years. | The current approach won’t achieve AGI breakthrough.AGI are people. It’s immoral to try to constrain them.A true AGI won’t be constrained by a goal because they will be a universal explainer.Once AGI is developed it will be trivial to improve our hardware to catch up. Software is universal. |
 
 * * *

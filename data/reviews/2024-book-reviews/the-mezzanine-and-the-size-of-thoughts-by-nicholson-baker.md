@@ -78,218 +78,57 @@ The optimistic reading of the POP is that most people like to like what they lik
 
 Appendix: The Mezzanine Protagonist’s lunch-time _Periodicity Chart_:
 
-Subject of thought
-
-Number of Times Thought Occurred per
-
-Year
-
-(in descending order)
-
-L (protagonist’s partner)
-
-580.0
-
-Family
-
-400.0
-
-Brushing tongue
-
-150.0
-
-Earplugs
-
-100.0
-
-Bill-paying
-
-52.0
-
-Panasonic three-wheeled vacuum cleaner, greatness of
-
-45.0
-
-Sunlight makes you cheerful
-
-40.0
-
-Traffic frustration
-
-38.0
-
-Penguin books, all
-
-35.0
-
-Jobs, should I quit?
-
-34.0
-
-Friends, don’t have any
-
-33.0
-
-Marriage, a possibility?
-
-32.0
-
-Vending machines
-
-31.0
-
-Straws don’t unsheath well
-
-28.0
-
-Shine on moving objects
-
-25.0
-
-McCarthey more talented than Lennon?
-
-23.0
-
-Friends smarter, more capable than I am
-
-19.0
-
-Paper-towel dispensers
-
-19.0
-
-“What oft was thought, but ne’er” etc.
-
-18.0
-
-People are very dissimilar
-
-16.0
-
-Trees, beauty of
-
-15.0
-
-Sidewalks
-
-15.0
-
-Friends are unworthy of me
-
-15.0
-
-Identical twins separated at birth, studies of traits
-
-14.0
-
-Intelligence, going fast
-
-14.0
-
-Wheelchair ramps, their insane danger
-
-14.0
-
-Urge to kill
-
-13.0
-
-Escalator invention
-
-12.0
-
-People are very similar
-
-12.0
-
-“Not in my backyard”
-
-11.0
-
-Straws float now
-
-10.0
-
-DJ, would I be happy as one?
-
-9.0
-
-“If you can’t get out of it, get into it”
-
-9.0
-
-Pen, felt-tip
-
-9.0
-
-Gasoline, nice smell of
-
-8.0
-
-Pen, ballpoint
-
-8.0
-
-Stereo systems
-
-8.0
-
-Fear of getting mugged again
-
-7.0
-
-Staplers
-
-7.0
-
-“Roaches check in, but they don’t check out”
-
-6.0
-
-Dinner roll, image of
-
-6.0
-
-Shoes
-
-6.0
-
-Bags
-
-5.0
-
-Butz, Earl
-
-4.0
-
-Sweeping, brooms
-
-4.0
-
-Whistling, yodel trick
-
-4.0
-
-“You can taste it with your eyes”
-
-4.0
-
-Dry-cleaning fluid, smell of
-
-3.0
-
-Zip-lock tops
-
-2.0
-
-Popcorn
-
-1.0
-
-Birds regurgitate food and feed young with it
-
-0.5
-
-Kant, Immanuel
-
-0.5
+| Subject of thought | Number of Times Thought Occurred perYear(in descending order) |
+| --- | --- |
+| L (protagonist’s partner) | 580.0 |
+| Family | 400.0 |
+| Brushing tongue | 150.0 |
+| Earplugs | 100.0 |
+| Bill-paying | 52.0 |
+| Panasonic three-wheeled vacuum cleaner, greatness of | 45.0 |
+| Sunlight makes you cheerful | 40.0 |
+| Traffic frustration | 38.0 |
+| Penguin books, all | 35.0 |
+| Jobs, should I quit? | 34.0 |
+| Friends, don’t have any | 33.0 |
+| Marriage, a possibility? | 32.0 |
+| Vending machines | 31.0 |
+| Straws don’t unsheath well | 28.0 |
+| Shine on moving objects | 25.0 |
+| McCarthey more talented than Lennon? | 23.0 |
+| Friends smarter, more capable than I am | 19.0 |
+| Paper-towel dispensers | 19.0 |
+| “What oft was thought, but ne’er” etc. | 18.0 |
+| People are very dissimilar | 16.0 |
+| Trees, beauty of | 15.0 |
+| Sidewalks | 15.0 |
+| Friends are unworthy of me | 15.0 |
+| Identical twins separated at birth, studies of traits | 14.0 |
+| Intelligence, going fast | 14.0 |
+| Wheelchair ramps, their insane danger | 14.0 |
+| Urge to kill | 13.0 |
+| Escalator invention | 12.0 |
+| People are very similar | 12.0 |
+| “Not in my backyard” | 11.0 |
+| Straws float now | 10.0 |
+| DJ, would I be happy as one? | 9.0 |
+| “If you can’t get out of it, get into it” | 9.0 |
+| Pen, felt-tip | 9.0 |
+| Gasoline, nice smell of | 8.0 |
+| Pen, ballpoint | 8.0 |
+| Stereo systems | 8.0 |
+| Fear of getting mugged again | 7.0 |
+| Staplers | 7.0 |
+| “Roaches check in, but they don’t check out” | 6.0 |
+| Dinner roll, image of | 6.0 |
+| Shoes | 6.0 |
+| Bags | 5.0 |
+| Butz, Earl | 4.0 |
+| Sweeping, brooms | 4.0 |
+| Whistling, yodel trick | 4.0 |
+| “You can taste it with your eyes” | 4.0 |
+| Dry-cleaning fluid, smell of | 3.0 |
+| Zip-lock tops | 2.0 |
+| Popcorn | 1.0 |
+| Birds regurgitate food and feed young with it | 0.5 |
+| Kant, Immanuel | 0.5 |

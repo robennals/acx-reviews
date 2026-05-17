@@ -47,13 +47,9 @@ The source of this intellectual jumbling together of disparate-looking drugs _se
 
 Alcohol in particular is not usually thought of as socially-beneficial. While individual health concerns are emphasized in modern arguments against drinking, the supposed social costs of the drug are also reasons typically given to avoid its use and availability, and such arguments have been made for a very long time. Could it have not only been unfairly maligned as one of the most socially harmful drugs, but have such estimates completely gotten the direction of the ultimate effect on larger groups wrong?
 
-![](https://acximages.ennals.org/images/2023-book-reviews/aa547ce8a4c33c6d.jpg)
-
-![](https://acximages.ennals.org/images/2023-book-reviews/f47e4d62624411a4.jpg)
-
-U.S. Prohibition era poster, from [https://prohibition.osu.edu/gallery/posters](https://prohibition.osu.edu/gallery/posters)
-
-Modern CDC infographic, from [https://www.cdc.gov/alcohol/onlinemedia/infographics/cost-excessive-alcohol-use.html](https://www.cdc.gov/alcohol/onlinemedia/infographics/cost-excessive-alcohol-use.html) 
+|  |  |
+| --- | --- |
+| U.S. Prohibition era poster, from https://prohibition.osu.edu/gallery/posters | Modern CDC infographic, from https://www.cdc.gov/alcohol/onlinemedia/infographics/cost-excessive-alcohol-use.html |
 
 ## Main Course
 
@@ -121,9 +117,8 @@ The theme of ecstasy is brought up again later as it's noted that lists of the a
 
 _Drunk_ also describes the stresses and anxieties that the contradiction of being an individual living in a civilization can cause: considering that the agricultural civilization most of humanity has been living in for the last several thousand years is far different than the lifestyle we're adapted for, there's again discussion of how alcohol makes it possible for "fiercely independent hunter-gatherers to shrug off those aspects of their chimpanzee nature that present a barrier to living like a social insect." Slingerland reviews some studies in rats and in humans to show that alcohol really does have a stress reducing effect, in case of doubt.
 
-![](https://acximages.ennals.org/images/2023-book-reviews/d8933e64814cf3da.png)
-
-Stable Diffusion, "Chimpanzee head on a bumblebee body flying through the air, professional realistic illustration on plain background", from sketch.
+| Stable Diffusion, "Chimpanzee head on a bumblebee body flying through the air, professional realistic illustration on plain background", from sketch. |
+| --- |
 
 A recurring theme throughout _Drunk_ is that these substances have their cultural function specifically because of their effects. It's wryly noted that all of these cultural practices centered around alcohol could have developed to use non-alcoholic alternatives but didn't specifically because those alternatives don't have any substantial mind-altering effects. The recent existence of "sober bars" is brought up, but it's argued that these only work in a sense, and participants experience placebo-bar benefits, because of the existence of and cultural expectations around alcohol-serving bars. I can't help but wonder again why U.S. saloons in 1919 couldn't start serving mocktails and skate by for a decade or so on previous expectations, but I guess that wouldn't have worked somehow since it wasn't actually done.
 

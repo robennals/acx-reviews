@@ -173,3 +173,6 @@ This notwithstanding, some key points which can be taken away for rationalist ut
 In conclusion, I really hope I’ve done an adequate job conveying the breadth and profundity of Iain M Banks’ ideas in just one of his novels, and how much poorer the world is for his untimely death in 2013. _Surface Detail_ is my very favourite of his _Culture_ novels and potentially my very favourite work of science fiction full stop. Banks is, without a doubt, the author I most wish I could discover again for the first time, and if this review accomplishes nothing more than introducing you to his work I will be absolutely delighted. If I have, in addition, said anything you have found interesting about fictional utopias I can only promise you it is because of the incredible source material I had to work with!
 
 * * *
+
+|  |
+| --- |

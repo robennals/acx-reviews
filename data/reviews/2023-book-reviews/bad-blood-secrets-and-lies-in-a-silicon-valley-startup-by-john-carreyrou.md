@@ -47,35 +47,16 @@ Virtually all commercial software development nowadays takes place over IDEs (�
 
 Why is autocompletion important? This is why:
 
-**std::****[string](https://cplusplus.com/reference/string/string/)****::string**
+**std::[string](https://cplusplus.com/reference/string/string/)::string**
 
-_**default (1)**_
-
-string();
-
-_**copy (2)**_
-
-string (const string& str);
-
-_**substring (3)**_
-
-string (const string& str, size\_t pos, size\_t len = npos);
-
-_**from c-string (4)**_
-
-string (const char\* s);
-
-_**from sequence (5)**_
-
-string (const char\* s, size\_t n);
-
-_**fill (6)**_
-
-string (size\_t n, char c);
-
-_**range (7)**_
-
-template <class InputIterator>  string  (InputIterator first, InputIterator last);
+| default (1) | string(); |
+| --- | --- |
+| copy (2) | string (const string& str); |
+| substring (3) | string (const string& str, size_t pos, size_t len = npos); |
+| from c-string (4) | string (const char* s); |
+| from sequence (5) | string (const char* s, size_t n); |
+| fill (6) | string (size_t n, char c); |
+| range (7) | template <class InputIterator> string (InputIterator first, InputIterator last); |
 
 These are _seven_ different ways to construct a “string” which is just an assortment of characters—one of the most basic objects in a programmer’s toolkit. Could you remember what each term means and when to use which?
 

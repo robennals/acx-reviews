@@ -22,11 +22,8 @@ If you’re going to read J. E. Gordon’s _The New Science of Strong Materials_
 
 Here’s one interesting fact about cracks: Take a rod made of glass, with about the same dimensions as a broom handle. Now try to bend it to a 90 degree angle. You will not succeed. Getting the rod to bend even a tiny amount requires a large amount of force. Even if you can supply that force, the rod will shatter into pieces long before it bends by a full 90 degrees. You’d think the story would be the same for a shrunk down version of the same rod. After all, the thing is in the same shape and made of the same material, just smaller, so all the strains in the material should be the same. But the tiny rod _can_ be bent by 90 degrees. And it does not deform permanently, like a metal might. Let go of it, and it will snap right back to being perfectly straight.
 
-![](https://acximages.ennals.org/images/2022-book-reviews/bbd6ef51a61d7783.png)
-
-**Plate 4** and caption from _The New Science of Strong Materials_
-
-_Caption:_ “Glass and other solids when truly free from cracks and defects can exhibit enormous strengths. This silica rod is bent elastically to a strain of 7½ per cent, i.e. a stress of 5000 MN/m2. (The normal strength of glass is about 100-200 MN/m2)”
+|  | Plate 4 and caption from The New Science of Strong MaterialsCaption: “Glass and other solids when truly free from cracks and defects can exhibit enormous strengths. This silica rod is bent elastically to a strain of 7½ per cent, i.e. a stress of 5000 MN/m2. (The normal strength of glass is about 100-200 MN/m2)” |
+| --- | --- |
 
 The secret of the trick is that most glass objects are imperfect, with surfaces being covered by tiny cracks. The surface will pick up microscopic damage very quickly when other objects come into contact with it, even if you think you’re handling it very gently. So it’s nearly impossible for a large piece of glass to be free of cracks. But if it were, it would be astonishingly strong. The theoretical limit on the strength of glass as determined by the strength of the bonds holding it together is rather high, it’s just that experimentally the overall material turns out to be weaker than the sum of its bonds. The very thin glass fiber in the experiment can be made and handled without forming surface cracks and as a result it retains most of that strength and can be bent by absurd amounts. But how could such tiny imperfections make such a huge difference to the strength of the material?
 

@@ -317,39 +317,10 @@ I also wanted to focus more on San Bruno, because the way PG&E specifically is s
 
 Chapter 8 has this handy table, which I will excerpt:
 
-**Regulated Utility**
-
-**Publicly Traded Corporation**
-
-Provide safe and reliable service at fair rates
-
-Answers to regulator (CPUC) as a proxy for the consumers of California state
-
-Obligation: provides safe reliable power - hence will always be bailed out by the government
-
-Retail rates set by regulator
-
-Makes money when cost to deliver electricity is lower than regulator mandated retail rate
-
-Maximises profits
-
-Answers to shareholders, who are represented by the Board of Directors
-
-Obliged to maximise profits; may decide to terminate service if not profitable
-
-Retail rates set by market competition, budget set by Board
-
-Makes money when rates charged to customers is greater than cost to deliver (and may set customer’s rates)
-
-If run poorly:
-
-Regulator to impose penalties or authorise rates rises to consumers, and may require specific actions.
-
-**Cannot fail**
-
-If run poorly:
-
-Customers switch to competitors; company fails
+| Regulated Utility | Publicly Traded Corporation |
+| --- | --- |
+| Provide safe and reliable service at fair ratesAnswers to regulator (CPUC) as a proxy for the consumers of California stateObligation: provides safe reliable power - hence will always be bailed out by the governmentRetail rates set by regulatorMakes money when cost to deliver electricity is lower than regulator mandated retail rate | Maximises profitsAnswers to shareholders, who are represented by the Board of DirectorsObliged to maximise profits; may decide to terminate service if not profitableRetail rates set by market competition, budget set by BoardMakes money when rates charged to customers is greater than cost to deliver (and may set customer’s rates) |
+| If run poorly:Regulator to impose penalties or authorise rates rises to consumers, and may require specific actions.Cannot fail | If run poorly:Customers switch to competitors; company fails |
 
 So, this beast of a table is an attempt to explain what’s going on with Pacific Gas & Electric. Is it like this because it’s a regulated utility, prevented from raising the price of gas to cover maintenance costs? Or is it like this because it’s a predatory capitalist public-traded company?
 

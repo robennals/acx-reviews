@@ -129,41 +129,13 @@ At current growth rates, the Anabaptists could reach 20% of the population of PA
 
 What will that mean? Below are a few things Anabaptists are likely to institute, either de jure through legislation, or de facto through social taboos. For convenience, they are broken into things right-wingers will probably hate, things left-wingers will probably hate, and things everyone who is not an Anabaptist will probably hate. Some might not be immediately obvious why Anabaptists would push them. Think anti-technology Ludditism, combined with an economic model that employs most members on small family or communal farms and businesses, where children are significant economic producers. The list is certainly not exhaustive. YMMV on where in the chart you might put things based on your particular flavor of left/right/other.
 
-**Things Right Wingers Will Probably Hate**
-
-**Things Left Wingers Will Probably Hate**
-
-**Things Everyone Who is not an Anabaptist Will Probably Hate**
-
-No cars
-
-Few women in the work force, and restrictions on the types of work they do
-
-No fun of any kind (no sex, drugs, and rock-and-roll; and no alcohol or gambling)
-
-No right to bear arms
-
-No LGBTQ+ rights
-
-Really ugly clothes
-
-Child marriages/reduced age of consent
-
-Creationism taught in schools
-
-Return of child labor
-
-Pacifism (reduced military spending or possibly total disarmament)
-
-No vaccine or other medical mandates
-
-Businesses closed on holy days
-
-Bans on pesticides and fertilizers
-
-_Laissez-faire_ attitude toward regulation of businesses
-
-No funding for scientific or medical research
+| Things Right Wingers Will Probably Hate | Things Left Wingers Will Probably Hate | Things Everyone Who is not an Anabaptist Will Probably Hate |
+| --- | --- | --- |
+| No cars | Few women in the work force, and restrictions on the types of work they do | No fun of any kind (no sex, drugs, and rock-and-roll; and no alcohol or gambling) |
+| No right to bear arms | No LGBTQ+ rights | Really ugly clothes |
+| Child marriages/reduced age of consent | Creationism taught in schools | Return of child labor |
+| Pacifism (reduced military spending or possibly total disarmament) | No vaccine or other medical mandates | Businesses closed on holy days |
+| Bans on pesticides and fertilizers | Laissez-faire attitude toward regulation of businesses | No funding for scientific or medical research |
 
 So, this is for PA. In states like California, would people be free of religious domination? If the model is right, it might take longer, but the process could be inexorably the same. After the Mormons fill up Utah, will they eventually spill over into the entire southwest?
 

@@ -288,25 +288,12 @@ Then there are natural events that affect the Earth’s temperature (emphasis mi
 
 Overall, measuring energy in Watts per square meter (W/m2):
 
-Source of Energy
-
-Energy Added To Climate (W/m2)
-
-Sunlight
-
-239
-
-Human Influences
-
-2
-
-Geothermal Heat
-
-0.09
-
-Human Energy Generation
-
-0.03
+| Source of Energy | Energy Added To Climate (W/m2) |
+| --- | --- |
+| Sunlight | 239 |
+| Human Influences | 2 |
+| Geothermal Heat | 0.09 |
+| Human Energy Generation | 0.03 |
 
 Adding it all up, koonin estimates the human influence on the climate as:
 

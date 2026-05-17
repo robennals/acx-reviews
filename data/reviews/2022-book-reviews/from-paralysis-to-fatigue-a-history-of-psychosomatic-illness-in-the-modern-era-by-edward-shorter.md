@@ -183,37 +183,15 @@ We’ve seen a number of symptoms already rise and fall in popularity, in what i
 
 You may have noticed that psychosomatic entities have analogs in other medical conditions. There’s a form of the symptom that occurs “in nature,” which I’ll call the wild-type, and there’s a memetic form inspired by it. As Shorter says, “society does not invent symptoms; it retrieves them from the symptom pool.”
 
-**Wild-type form**
-
-**Memetic form**
-
-epileptic seizure
-
-“hysterical fit” or convulsion
-
-nerve or spinal cord injury
-
-limb weakness or numbness
-
-stroke
-
-conversion blindness, speech impairment
-
-tetanus, dystonia
-
-back arching, body spasms, ”drawing up”
-
-coma
-
-trance
-
-sickness behavior (like flu)
-
-chronic myalgia and fatigue
-
-heart attack
-
-atypical chest pain
+| Wild-type form | Memetic form |
+| --- | --- |
+| epileptic seizure | “hysterical fit” or convulsion |
+| nerve or spinal cord injury | limb weakness or numbness |
+| stroke | conversion blindness, speech impairment |
+| tetanus, dystonia | back arching, body spasms, ”drawing up” |
+| coma | trance |
+| sickness behavior (like flu) | chronic myalgia and fatigue |
+| heart attack | atypical chest pain |
 
 In the wild-type form, the symptom is explicable as a malfunction in an identifiable biologic mechanism. By definition, this isn’t true of the psychosomatic, or memetic versions, which result from a still obscure central nervous system process.
 

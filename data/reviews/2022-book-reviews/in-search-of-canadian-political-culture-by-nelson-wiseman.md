@@ -49,105 +49,15 @@ The book focuses on the first four waves as they were the waves that acted as ch
 
 In this sense, you could visualise British political history in motion if you started from the Atlantic and moved to the West Coast. As shown in the table below, we can go from echoes of Pre-Labour Britain in Atlantic Canada to intense partisan battles between social democrats and anti-socialists in British Columbia. The two outliers are the two distinct societies of Quebec and Alberta, one formal and the other informal. These two, as will be discussed later, have their political culture pivot on another axis.
 
-**Region**
-
- _British Columbia_
-
-_Alberta_
-
-_Saskatchewan_
-
-_Manitoba_
-
-_Ontario_
-
-_Quebec_
-
-_Maritimes_
-
-**Provincial parties**
-
-**Main Party1**
-
-Left-wing New Democrat Party,
-
-Various parties of conservative/populist streak,
-
-Left-wing New Democrat Party,
-
-Centre-right Conservatives
-
-Centre-right Conservatives
-
-Various nationalist parties
-
-Centre-left Liberals
-
-**Main Party 2**
-
-Anti-socialist Liberals (formerly Social Credit)
-
-Left-wing New Democrat Party,
-
-Saskatchewan Party (formerly Conservatives)
-
-Left-wing New Democrat Party,
-
-Centre-left Liberals
-
-Liberals as federalists,
-
-Centre-right Conservatives
-
-**Viable third party**
-
-Greens
-
--
-
--
-
-Centre-left Liberals
-
-Left-wing New Democrat Party,
-
-Other nationalist parties
-
--
-
-**Founding Waves**
-
-**Main Wave**
-
-Labourists,
-
-Americans,
-
-Labourist,
-
-Labourists,
-
-Loyalists, Reformers,
-
-New France,
-
-Loyalists,
-
-**Other waves**
-
-some Americans
-
-some Labourists
-
-some Americans
-
-some Loyalists and Reformers
-
-some Labourists
-
-some Loyalists and Reformers
-
-some pre-Loyalists, New France
+| Region | British Columbia | Alberta | Saskatchewan | Manitoba | Ontario | Quebec | Maritimes |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Provincial parties |  |  |  |  |  |  |  |
+| Main Party1 | Left-wing New Democrat Party, | Various parties of conservative/populist streak, | Left-wing New Democrat Party, | Centre-right Conservatives | Centre-right Conservatives | Various nationalist parties | Centre-left Liberals |
+| Main Party 2 | Anti-socialist Liberals (formerly Social Credit) | Left-wing New Democrat Party, | Saskatchewan Party (formerly Conservatives) | Left-wing New Democrat Party, | Centre-left Liberals | Liberals as federalists, | Centre-right Conservatives |
+| Viable third party | Greens | - | - | Centre-left Liberals | Left-wing New Democrat Party, | Other nationalist parties | - |
+| Founding Waves |  |  |  |  |  |  |  |
+| Main Wave | Labourists, | Americans, | Labourist, | Labourists, | Loyalists, Reformers, | New France, | Loyalists, |
+| Other waves | some Americans | some Labourists | some Americans | some Loyalists and Reformers | some Labourists | some Loyalists and Reformers | some pre-Loyalists, New France |
 
 The most common response to kind of thesis is that “its the political economy, stupid”. Sure, the configurations above align with self-interest, such as when Atlantic Canada’s ‘dependency’ makes them hostile to privatisation or when Alberta’s economic growth and resource economy fuels its distrust of government. At the same time, Wiseman tells us to keep two things in mind.
 

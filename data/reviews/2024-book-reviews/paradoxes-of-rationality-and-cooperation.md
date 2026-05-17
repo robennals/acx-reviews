@@ -26,21 +26,10 @@ The volume traces the history of academic thought (and disagreement) on the choi
 
 Briefly, the Prisoner’s Dilemma presents a symmetrical decision problem where you and another prisoner must each decide, in a completely isolated way, whether or not to betray each other (typically this is presented as either confessing or remaining silent). Each person’s imprisonment is determined by the resulting decisions and the following matrix, applied from their perspective:
 
-The other prisoner does _not_ confess
-
-The other prisoner _does_ confess
-
-You _don’t_ confess
-
-One year
-
-Ten years
-
-You _do_ confess
-
-None
-
-Nine years
+|  | The other prisoner does not confess | The other prisoner does confess |
+| --- | --- | --- |
+| You don’t confess | One year | Ten years |
+| You do confess | None | Nine years |
 
 Regardless of what the other prisoner does, your outcome is better if you choose to confess (we would say that confessing ‘strongly dominates’ not confessing). Because the situation is symmetrical, the other prisoner has the same incentive to confess and so a seemingly-rational approach leads to both prisoner’s confessing and receiving nine years when they both could have stayed silent and received one.
 
