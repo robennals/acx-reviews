@@ -7,8 +7,8 @@ contestName: 2022 Book Reviews
 year: 2022
 publishedDate: '2026-02-06T07:24:08.695Z'
 slug: anthropic-bias-by-nick-bostrom
-wordCount: 4236
-readingTimeMinutes: 20
+wordCount: 4258
+readingTimeMinutes: 19
 originalUrl: https://docs.google.com/document/d/1pRQbRbEUwSH_jm94PI_ij-88swat7vQ4iNaNp6gd39g
 source: gdoc
 tags:

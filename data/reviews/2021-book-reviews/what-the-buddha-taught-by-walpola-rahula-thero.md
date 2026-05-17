@@ -7,7 +7,7 @@ contestName: 2021 Book Reviews
 year: 2021
 publishedDate: '2021-01-01T00:00:00.000Z'
 slug: what-the-buddha-taught-by-walpola-rahula-thero
-wordCount: 2759
+wordCount: 2777
 readingTimeMinutes: 13
 originalUrl: https://docs.google.com/document/d/1M1m8o1HInGYJR3cEMYZ6TQgNmeBOWo98YC6djNnFWf0
 source: gdoc

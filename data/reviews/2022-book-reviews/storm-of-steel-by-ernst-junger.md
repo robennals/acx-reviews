@@ -7,8 +7,8 @@ contestName: 2022 Book Reviews
 year: 2022
 publishedDate: '2026-02-06T07:23:14.491Z'
 slug: storm-of-steel-by-ernst-junger
-wordCount: 2438
-readingTimeMinutes: 12
+wordCount: 2441
+readingTimeMinutes: 11
 originalUrl: https://docs.google.com/document/d/1kQUUJhv-MpLawby2j4zXLZPDG6ligWd5xpIjH8UmWdw
 source: gdoc
 tags:

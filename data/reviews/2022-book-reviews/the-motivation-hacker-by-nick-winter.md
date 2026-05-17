@@ -7,7 +7,7 @@ contestName: 2022 Book Reviews
 year: 2022
 publishedDate: '2026-02-06T07:22:32.829Z'
 slug: the-motivation-hacker-by-nick-winter
-wordCount: 5031
+wordCount: 5061
 readingTimeMinutes: 23
 originalUrl: https://docs.google.com/document/d/100kMdSVFviZSSBvUyyEQPMNlvLptVQxHFD9i9wGuBWs
 source: gdoc

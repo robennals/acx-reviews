@@ -7,7 +7,7 @@ contestName: 2021 Book Reviews
 year: 2021
 publishedDate: '2026-02-06T07:21:29.567Z'
 slug: feed-by-mt-anderson
-wordCount: 879
+wordCount: 882
 readingTimeMinutes: 4
 originalUrl: https://docs.google.com/document/d/1xexFJ7h0vULMDE7N77q_MIzXoerexfe_CqqGEL6hEoQ
 source: gdoc

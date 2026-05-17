@@ -7,8 +7,8 @@ contestName: 2023 Book Reviews
 year: 2023
 publishedDate: '2023-01-01T00:00:00.000Z'
 slug: the-forgotten-revolution-how-science-was-born-in-300-bc-and-why-it-had-to-be-reborn-by-lucio-russo
-wordCount: 2433
-readingTimeMinutes: 12
+wordCount: 2439
+readingTimeMinutes: 11
 originalUrl: https://docs.google.com/document/d/1AtGIIv371v0Yu35eNsIxJr67dw4SHOiGdKrqmoKt2hg
 source: gdoc
 tags:

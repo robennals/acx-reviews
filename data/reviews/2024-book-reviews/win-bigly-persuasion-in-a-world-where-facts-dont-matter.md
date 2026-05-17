@@ -7,8 +7,8 @@ contestName: 2024 Book Reviews
 year: 2024
 publishedDate: '2026-02-06T16:49:14.014Z'
 slug: win-bigly-persuasion-in-a-world-where-facts-dont-matter
-wordCount: 13331
-readingTimeMinutes: 61
+wordCount: 13336
+readingTimeMinutes: 60
 originalUrl: https://docs.google.com/document/d/14qa47TJ_Vyerx4XNgTCIh7PUZ_TOgNcU_eHm5So_zo0
 source: gdoc
 tags:

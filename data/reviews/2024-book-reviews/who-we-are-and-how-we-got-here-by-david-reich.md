@@ -7,7 +7,7 @@ contestName: 2024 Book Reviews
 year: 2024
 publishedDate: '2026-02-06T16:49:50.823Z'
 slug: who-we-are-and-how-we-got-here-by-david-reich
-wordCount: 7185
+wordCount: 7252
 readingTimeMinutes: 33
 originalUrl: https://docs.google.com/document/d/1Ki5XsE0jkxZtd2XAeyTAJw1ZjLh2Cu-matUYKAhA6-s
 source: gdoc

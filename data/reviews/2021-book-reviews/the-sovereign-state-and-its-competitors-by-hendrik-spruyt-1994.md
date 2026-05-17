@@ -7,8 +7,8 @@ contestName: 2021 Book Reviews
 year: 2021
 publishedDate: '2021-01-01T00:00:00.000Z'
 slug: the-sovereign-state-and-its-competitors-by-hendrik-spruyt-1994
-wordCount: 4704
-readingTimeMinutes: 22
+wordCount: 4725
+readingTimeMinutes: 21
 originalUrl: https://docs.google.com/document/d/1M1m8o1HInGYJR3cEMYZ6TQgNmeBOWo98YC6djNnFWf0
 source: gdoc
 tags:

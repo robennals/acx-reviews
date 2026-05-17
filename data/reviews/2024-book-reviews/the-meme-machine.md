@@ -7,8 +7,8 @@ contestName: 2024 Book Reviews
 year: 2024
 publishedDate: '2026-02-06T16:49:14.010Z'
 slug: the-meme-machine
-wordCount: 13781
-readingTimeMinutes: 63
+wordCount: 13794
+readingTimeMinutes: 62
 originalUrl: https://docs.google.com/document/d/14qa47TJ_Vyerx4XNgTCIh7PUZ_TOgNcU_eHm5So_zo0
 source: gdoc
 tags:

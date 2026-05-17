@@ -7,8 +7,8 @@ contestName: 2024 Book Reviews
 year: 2024
 publishedDate: '2026-02-06T16:48:20.712Z'
 slug: on-the-bondage-of-the-will-by-martin-luther
-wordCount: 10011
-readingTimeMinutes: 46
+wordCount: 10088
+readingTimeMinutes: 45
 originalUrl: https://docs.google.com/document/d/1cp6iw5OEyDjnD_viZo-KL0Zv4jwQnMXtE4yIovfVAco
 source: gdoc
 tags:

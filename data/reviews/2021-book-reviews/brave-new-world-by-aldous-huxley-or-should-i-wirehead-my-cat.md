@@ -7,7 +7,7 @@ contestName: 2021 Book Reviews
 year: 2021
 publishedDate: '2026-02-06T07:21:29.563Z'
 slug: brave-new-world-by-aldous-huxley-or-should-i-wirehead-my-cat
-wordCount: 1666
+wordCount: 1669
 readingTimeMinutes: 8
 originalUrl: https://docs.google.com/document/d/1xexFJ7h0vULMDE7N77q_MIzXoerexfe_CqqGEL6hEoQ
 source: gdoc

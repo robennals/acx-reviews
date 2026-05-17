@@ -7,7 +7,7 @@ contestName: 2025 Non Book Reviews
 year: 2025
 publishedDate: '2026-02-06T16:55:59.406Z'
 slug: unordinary-webtoon-comic-series
-wordCount: 4577
+wordCount: 4585
 readingTimeMinutes: 21
 originalUrl: https://docs.google.com/document/d/1jYVJFIz5-aMi0LCgsC9AN6BncJDNVGaMU37QmwZ1vzA
 source: gdoc

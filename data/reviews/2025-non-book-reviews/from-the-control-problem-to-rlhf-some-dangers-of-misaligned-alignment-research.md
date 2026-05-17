@@ -7,7 +7,7 @@ contestName: 2025 Non Book Reviews
 year: 2025
 publishedDate: '2026-02-06T16:52:48.893Z'
 slug: from-the-control-problem-to-rlhf-some-dangers-of-misaligned-alignment-research
-wordCount: 4989
+wordCount: 5004
 readingTimeMinutes: 23
 originalUrl: https://docs.google.com/document/d/1d0vRSj1E93joWWvbUen2XGuDjN_mM94ybMIAADzM2fo
 source: gdoc

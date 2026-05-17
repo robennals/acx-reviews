@@ -7,7 +7,7 @@ contestName: 2025 Non Book Reviews
 year: 2025
 publishedDate: '2026-02-06T16:55:59.400Z'
 slug: the-soul-of-karl-friston-1
-wordCount: 5860
+wordCount: 5876
 readingTimeMinutes: 27
 originalUrl: https://docs.google.com/document/d/1jYVJFIz5-aMi0LCgsC9AN6BncJDNVGaMU37QmwZ1vzA
 source: gdoc

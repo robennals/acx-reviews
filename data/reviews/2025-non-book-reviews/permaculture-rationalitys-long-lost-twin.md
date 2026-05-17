@@ -7,7 +7,7 @@ contestName: 2025 Non Book Reviews
 year: 2025
 publishedDate: '2026-02-06T16:55:03.484Z'
 slug: permaculture-rationalitys-long-lost-twin
-wordCount: 2377
+wordCount: 2384
 readingTimeMinutes: 11
 originalUrl: https://docs.google.com/document/d/1a3q0Z2tuPLLbDeg5-pfEffkajGjrfPDwE7ZMs7uaWQs
 source: gdoc

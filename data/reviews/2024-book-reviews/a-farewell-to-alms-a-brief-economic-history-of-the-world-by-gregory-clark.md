@@ -7,7 +7,7 @@ contestName: 2024 Book Reviews
 year: 2024
 publishedDate: '2026-02-06T16:47:15.592Z'
 slug: a-farewell-to-alms-a-brief-economic-history-of-the-world-by-gregory-clark
-wordCount: 2336
+wordCount: 2356
 readingTimeMinutes: 11
 originalUrl: https://docs.google.com/document/d/1AXmWgSbh_TFsoZuApSCSEoz57yn93CM5YYhtaO_s4W4
 source: gdoc

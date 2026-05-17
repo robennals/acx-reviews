@@ -7,8 +7,8 @@ contestName: 2025 Non Book Reviews
 year: 2025
 publishedDate: '2026-02-06T16:52:48.893Z'
 slug: freedom-of-speech
-wordCount: 6922
-readingTimeMinutes: 32
+wordCount: 6937
+readingTimeMinutes: 31
 originalUrl: https://docs.google.com/document/d/1d0vRSj1E93joWWvbUen2XGuDjN_mM94ybMIAADzM2fo
 source: gdoc
 tags:

@@ -7,8 +7,8 @@ contestName: 2022 Book Reviews
 year: 2022
 publishedDate: '2026-02-06T07:22:32.823Z'
 slug: the-diamond-age-or-a-young-ladys-illustrated-primer-by-neal-stephenson
-wordCount: 1987
-readingTimeMinutes: 10
+wordCount: 1990
+readingTimeMinutes: 9
 originalUrl: https://docs.google.com/document/d/100kMdSVFviZSSBvUyyEQPMNlvLptVQxHFD9i9wGuBWs
 source: gdoc
 tags:

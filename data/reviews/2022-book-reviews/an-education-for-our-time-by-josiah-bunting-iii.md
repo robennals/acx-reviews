@@ -7,7 +7,7 @@ contestName: 2022 Book Reviews
 year: 2022
 publishedDate: '2026-02-06T07:24:08.689Z'
 slug: an-education-for-our-time-by-josiah-bunting-iii
-wordCount: 6786
+wordCount: 6814
 readingTimeMinutes: 31
 originalUrl: https://docs.google.com/document/d/1pRQbRbEUwSH_jm94PI_ij-88swat7vQ4iNaNp6gd39g
 source: gdoc

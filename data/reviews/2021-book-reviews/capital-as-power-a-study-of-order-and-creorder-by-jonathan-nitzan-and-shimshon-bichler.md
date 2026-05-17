@@ -7,7 +7,7 @@ contestName: 2021 Book Reviews
 year: 2021
 publishedDate: '2026-02-06T07:21:29.563Z'
 slug: capital-as-power-a-study-of-order-and-creorder-by-jonathan-nitzan-and-shimshon-bichler
-wordCount: 8293
+wordCount: 8361
 readingTimeMinutes: 38
 originalUrl: https://docs.google.com/document/d/1xexFJ7h0vULMDE7N77q_MIzXoerexfe_CqqGEL6hEoQ
 source: gdoc

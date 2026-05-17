@@ -7,7 +7,7 @@ contestName: 2024 Book Reviews
 year: 2024
 publishedDate: '2026-02-06T16:47:15.599Z'
 slug: consequences-of-language-from-primary-to-enhanced-intersubjectivity
-wordCount: 9656
+wordCount: 9704
 readingTimeMinutes: 44
 originalUrl: https://docs.google.com/document/d/1AXmWgSbh_TFsoZuApSCSEoz57yn93CM5YYhtaO_s4W4
 source: gdoc

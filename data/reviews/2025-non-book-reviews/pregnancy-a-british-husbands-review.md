@@ -7,8 +7,8 @@ contestName: 2025 Non Book Reviews
 year: 2025
 publishedDate: '2026-02-06T16:55:03.485Z'
 slug: pregnancy-a-british-husbands-review
-wordCount: 3132
-readingTimeMinutes: 15
+wordCount: 3141
+readingTimeMinutes: 14
 originalUrl: https://docs.google.com/document/d/1a3q0Z2tuPLLbDeg5-pfEffkajGjrfPDwE7ZMs7uaWQs
 source: gdoc
 tags:

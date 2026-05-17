@@ -7,8 +7,8 @@ contestName: 2024 Book Reviews
 year: 2024
 publishedDate: '2026-02-06T16:48:20.708Z'
 slug: libra-by-don-delillo-aberration-in-the-heartland-of-the-real-by-wendy-s-painting
-wordCount: 9303
-readingTimeMinutes: 43
+wordCount: 9321
+readingTimeMinutes: 42
 originalUrl: https://docs.google.com/document/d/1cp6iw5OEyDjnD_viZo-KL0Zv4jwQnMXtE4yIovfVAco
 source: gdoc
 tags:

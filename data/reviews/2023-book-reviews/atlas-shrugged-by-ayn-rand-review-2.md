@@ -7,8 +7,8 @@ contestName: 2023 Book Reviews
 year: 2023
 publishedDate: '2026-02-06T07:21:10.021Z'
 slug: atlas-shrugged-by-ayn-rand-review-2
-wordCount: 6678
-readingTimeMinutes: 31
+wordCount: 6692
+readingTimeMinutes: 30
 originalUrl: https://docs.google.com/document/d/10CiEI7aDL2bMIdx7yayy3vlq0TJ8dO5LGnG7yIDPiw8
 source: gdoc
 tags:

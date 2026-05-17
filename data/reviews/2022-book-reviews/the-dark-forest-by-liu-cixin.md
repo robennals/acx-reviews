@@ -7,8 +7,8 @@ contestName: 2022 Book Reviews
 year: 2022
 publishedDate: '2026-02-06T07:22:32.822Z'
 slug: the-dark-forest-by-liu-cixin
-wordCount: 6419
-readingTimeMinutes: 30
+wordCount: 6441
+readingTimeMinutes: 29
 originalUrl: https://docs.google.com/document/d/100kMdSVFviZSSBvUyyEQPMNlvLptVQxHFD9i9wGuBWs
 source: gdoc
 tags:

@@ -7,8 +7,8 @@ contestName: 2023 Book Reviews
 year: 2023
 publishedDate: '2023-01-01T00:00:00.000Z'
 slug: war-and-peace-by-leo-tolstoy
-wordCount: 8366
-readingTimeMinutes: 39
+wordCount: 8406
+readingTimeMinutes: 38
 originalUrl: https://docs.google.com/document/d/1D2MGZ7HW1vRtOtfXYIx9BBUt6ubjEA2n06gpoHcxaFY
 source: gdoc
 tags:

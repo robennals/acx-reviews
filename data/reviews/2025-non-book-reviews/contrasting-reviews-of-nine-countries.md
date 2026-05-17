@@ -7,8 +7,8 @@ contestName: 2025 Non Book Reviews
 year: 2025
 publishedDate: '2026-02-06T16:52:48.890Z'
 slug: contrasting-reviews-of-nine-countries
-wordCount: 8466
-readingTimeMinutes: 39
+wordCount: 8489
+readingTimeMinutes: 38
 originalUrl: https://docs.google.com/document/d/1d0vRSj1E93joWWvbUen2XGuDjN_mM94ybMIAADzM2fo
 source: gdoc
 tags:

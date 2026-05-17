@@ -7,8 +7,8 @@ contestName: 2022 Book Reviews
 year: 2022
 publishedDate: '2026-02-06T07:22:32.825Z'
 slug: the-goal-its-not-luck-by-eliyahu-goldratt
-wordCount: 4256
-readingTimeMinutes: 20
+wordCount: 4270
+readingTimeMinutes: 19
 originalUrl: https://docs.google.com/document/d/100kMdSVFviZSSBvUyyEQPMNlvLptVQxHFD9i9wGuBWs
 source: gdoc
 tags:

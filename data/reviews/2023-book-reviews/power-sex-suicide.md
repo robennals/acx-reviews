@@ -7,8 +7,8 @@ contestName: 2023 Book Reviews
 year: 2023
 publishedDate: '2023-01-01T00:00:00.000Z'
 slug: power-sex-suicide
-wordCount: 5357
-readingTimeMinutes: 25
+wordCount: 5384
+readingTimeMinutes: 24
 originalUrl: https://docs.google.com/document/d/1vci14HMZ2UEJBs6mKCZZ2vHs-jVuPSsFsiN3cAENzXU
 source: gdoc
 tags:

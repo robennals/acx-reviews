@@ -8,7 +8,7 @@ year: 2023
 publishedDate: '2023-01-01T00:00:00.000Z'
 slug: less-is-more-by-jason-hickel
 wordCount: 11077
-readingTimeMinutes: 51
+readingTimeMinutes: 50
 originalUrl: https://docs.google.com/document/d/1vci14HMZ2UEJBs6mKCZZ2vHs-jVuPSsFsiN3cAENzXU
 source: gdoc
 tags:

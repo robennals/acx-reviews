@@ -7,7 +7,7 @@ contestName: 2023 Book Reviews
 year: 2023
 publishedDate: '2023-01-01T00:00:00.000Z'
 slug: one-day-in-the-life-of-ivan-denisovich
-wordCount: 2850
+wordCount: 2856
 readingTimeMinutes: 13
 originalUrl: https://docs.google.com/document/d/1vci14HMZ2UEJBs6mKCZZ2vHs-jVuPSsFsiN3cAENzXU
 source: gdoc

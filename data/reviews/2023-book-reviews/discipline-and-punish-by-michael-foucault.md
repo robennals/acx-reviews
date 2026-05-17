@@ -7,8 +7,8 @@ contestName: 2023 Book Reviews
 year: 2023
 publishedDate: '2026-02-06T07:21:10.027Z'
 slug: discipline-and-punish-by-michael-foucault
-wordCount: 3743
-readingTimeMinutes: 18
+wordCount: 3755
+readingTimeMinutes: 17
 originalUrl: https://docs.google.com/document/d/10CiEI7aDL2bMIdx7yayy3vlq0TJ8dO5LGnG7yIDPiw8
 source: gdoc
 tags:

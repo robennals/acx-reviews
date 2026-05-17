@@ -7,8 +7,8 @@ contestName: 2022 Book Reviews
 year: 2022
 publishedDate: '2026-02-06T07:22:32.829Z'
 slug: the-matter-with-things-by-iain-mcgilchrist
-wordCount: 3574
-readingTimeMinutes: 17
+wordCount: 3595
+readingTimeMinutes: 16
 originalUrl: https://docs.google.com/document/d/100kMdSVFviZSSBvUyyEQPMNlvLptVQxHFD9i9wGuBWs
 source: gdoc
 tags:

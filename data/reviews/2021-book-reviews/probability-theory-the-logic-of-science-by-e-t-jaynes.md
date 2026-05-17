@@ -7,7 +7,7 @@ contestName: 2021 Book Reviews
 year: 2021
 publishedDate: '2026-02-06T07:21:29.572Z'
 slug: probability-theory-the-logic-of-science-by-e-t-jaynes
-wordCount: 7012
+wordCount: 7032
 readingTimeMinutes: 32
 originalUrl: https://docs.google.com/document/d/1xexFJ7h0vULMDE7N77q_MIzXoerexfe_CqqGEL6hEoQ
 source: gdoc

@@ -7,7 +7,7 @@ contestName: 2023 Book Reviews
 year: 2023
 publishedDate: '2026-02-06T07:21:10.027Z'
 slug: constructing-research-questions-doing-interesting-research-by-mats-alvesson-and-jrgen-sandberg
-wordCount: 2258
+wordCount: 2277
 readingTimeMinutes: 11
 originalUrl: https://docs.google.com/document/d/10CiEI7aDL2bMIdx7yayy3vlq0TJ8dO5LGnG7yIDPiw8
 source: gdoc

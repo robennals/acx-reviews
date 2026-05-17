@@ -7,7 +7,7 @@ contestName: 2023 Book Reviews
 year: 2023
 publishedDate: '2023-01-01T00:00:00.000Z'
 slug: the-little-red-book-quotations-from-mao-tse-tung
-wordCount: 6304
+wordCount: 6310
 readingTimeMinutes: 29
 originalUrl: https://docs.google.com/document/d/1AtGIIv371v0Yu35eNsIxJr67dw4SHOiGdKrqmoKt2hg
 source: gdoc

@@ -7,7 +7,7 @@ contestName: 2022 Book Reviews
 year: 2022
 publishedDate: '2026-02-06T07:23:14.477Z'
 slug: island-by-aldous-huxley
-wordCount: 2726
+wordCount: 2743
 readingTimeMinutes: 13
 originalUrl: https://docs.google.com/document/d/1kQUUJhv-MpLawby2j4zXLZPDG6ligWd5xpIjH8UmWdw
 source: gdoc

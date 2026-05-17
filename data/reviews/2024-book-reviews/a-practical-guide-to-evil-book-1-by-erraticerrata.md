@@ -7,7 +7,7 @@ contestName: 2024 Book Reviews
 year: 2024
 publishedDate: '2026-02-06T16:47:15.592Z'
 slug: a-practical-guide-to-evil-book-1-by-erraticerrata
-wordCount: 2714
+wordCount: 2729
 readingTimeMinutes: 13
 originalUrl: https://docs.google.com/document/d/1AXmWgSbh_TFsoZuApSCSEoz57yn93CM5YYhtaO_s4W4
 source: gdoc

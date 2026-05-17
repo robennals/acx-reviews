@@ -7,8 +7,8 @@ contestName: 2024 Book Reviews
 year: 2024
 publishedDate: '2026-02-06T16:48:56.659Z'
 slug: road-of-the-king-by-patrick-hoban
-wordCount: 5723
-readingTimeMinutes: 27
+wordCount: 5804
+readingTimeMinutes: 26
 originalUrl: https://docs.google.com/document/d/1GYQw3pgvhi7hqOVR-Ql629Q_8thbyHe8sSRy5voyt30
 source: gdoc
 tags:

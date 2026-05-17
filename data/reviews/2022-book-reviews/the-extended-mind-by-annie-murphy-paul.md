@@ -7,7 +7,7 @@ contestName: 2022 Book Reviews
 year: 2022
 publishedDate: '2026-02-06T07:22:32.825Z'
 slug: the-extended-mind-by-annie-murphy-paul
-wordCount: 5168
+wordCount: 5202
 readingTimeMinutes: 24
 originalUrl: https://docs.google.com/document/d/100kMdSVFviZSSBvUyyEQPMNlvLptVQxHFD9i9wGuBWs
 source: gdoc

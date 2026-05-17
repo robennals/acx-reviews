@@ -7,7 +7,7 @@ contestName: 2024 Book Reviews
 year: 2024
 publishedDate: '2026-02-06T16:47:49.304Z'
 slug: eothen-by-alexander-kinglake
-wordCount: 8352
+wordCount: 8415
 readingTimeMinutes: 38
 originalUrl: https://docs.google.com/document/d/1QiotH3aGFgNLGqsIHTK_Plm_gem2E4l2C2ctyGJd0jY
 source: gdoc

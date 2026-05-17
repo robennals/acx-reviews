@@ -7,7 +7,7 @@ contestName: 2024 Book Reviews
 year: 2024
 publishedDate: '2026-02-06T16:47:15.600Z'
 slug: determined-a-science-of-life-without-free-will-by-robert-m-sapolsky
-wordCount: 10495
+wordCount: 10649
 readingTimeMinutes: 48
 originalUrl: https://docs.google.com/document/d/1AXmWgSbh_TFsoZuApSCSEoz57yn93CM5YYhtaO_s4W4
 source: gdoc

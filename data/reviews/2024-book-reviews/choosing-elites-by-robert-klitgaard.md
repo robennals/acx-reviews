@@ -7,7 +7,7 @@ contestName: 2024 Book Reviews
 year: 2024
 publishedDate: '2026-02-06T16:47:15.598Z'
 slug: choosing-elites-by-robert-klitgaard
-wordCount: 3076
+wordCount: 3093
 readingTimeMinutes: 14
 originalUrl: https://docs.google.com/document/d/1AXmWgSbh_TFsoZuApSCSEoz57yn93CM5YYhtaO_s4W4
 source: gdoc

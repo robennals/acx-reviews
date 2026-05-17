@@ -7,8 +7,8 @@ contestName: 2022 Book Reviews
 year: 2022
 publishedDate: '2022-01-01T00:00:00.000Z'
 slug: the-righteous-mind-by-jonathan-haidt-2
-wordCount: 11517
-readingTimeMinutes: 53
+wordCount: 11635
+readingTimeMinutes: 52
 originalUrl: https://docs.google.com/document/d/1hFzjXliCAWjvheY-8Qd2fhbF79LnX0Xg6R9eqk9yIyI
 source: gdoc
 tags:

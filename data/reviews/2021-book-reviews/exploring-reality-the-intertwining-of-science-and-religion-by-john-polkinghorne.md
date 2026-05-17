@@ -7,7 +7,7 @@ contestName: 2021 Book Reviews
 year: 2021
 publishedDate: '2026-02-06T07:21:29.567Z'
 slug: exploring-reality-the-intertwining-of-science-and-religion-by-john-polkinghorne
-wordCount: 7886
+wordCount: 7920
 readingTimeMinutes: 36
 originalUrl: https://docs.google.com/document/d/1xexFJ7h0vULMDE7N77q_MIzXoerexfe_CqqGEL6hEoQ
 source: gdoc

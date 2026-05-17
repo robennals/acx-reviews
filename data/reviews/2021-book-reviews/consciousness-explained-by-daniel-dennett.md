@@ -7,7 +7,7 @@ contestName: 2021 Book Reviews
 year: 2021
 publishedDate: '2026-02-06T07:21:29.564Z'
 slug: consciousness-explained-by-daniel-dennett
-wordCount: 5831
+wordCount: 5860
 readingTimeMinutes: 27
 originalUrl: https://docs.google.com/document/d/1xexFJ7h0vULMDE7N77q_MIzXoerexfe_CqqGEL6hEoQ
 source: gdoc

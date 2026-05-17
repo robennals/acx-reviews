@@ -7,7 +7,7 @@ contestName: 2022 Book Reviews
 year: 2022
 publishedDate: '2026-02-06T07:22:32.816Z'
 slug: termination-shock-by-neal-stephenson
-wordCount: 9183
+wordCount: 9249
 readingTimeMinutes: 42
 originalUrl: https://docs.google.com/document/d/100kMdSVFviZSSBvUyyEQPMNlvLptVQxHFD9i9wGuBWs
 source: gdoc

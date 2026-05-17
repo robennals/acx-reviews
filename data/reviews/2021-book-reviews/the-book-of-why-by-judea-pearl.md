@@ -7,7 +7,7 @@ contestName: 2021 Book Reviews
 year: 2021
 publishedDate: '2021-01-01T00:00:00.000Z'
 slug: the-book-of-why-by-judea-pearl
-wordCount: 2093
+wordCount: 2125
 readingTimeMinutes: 10
 originalUrl: https://docs.google.com/document/d/1M1m8o1HInGYJR3cEMYZ6TQgNmeBOWo98YC6djNnFWf0
 source: gdoc

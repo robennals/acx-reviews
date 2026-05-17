@@ -7,7 +7,7 @@ contestName: 2021 Book Reviews
 year: 2021
 publishedDate: '2026-02-06T07:21:29.570Z'
 slug: guns-germs-and-steel-the-fates-of-human-societies-by-jared-diamond
-wordCount: 2587
+wordCount: 2590
 readingTimeMinutes: 12
 originalUrl: https://docs.google.com/document/d/1xexFJ7h0vULMDE7N77q_MIzXoerexfe_CqqGEL6hEoQ
 source: gdoc

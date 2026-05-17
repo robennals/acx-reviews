@@ -7,7 +7,7 @@ contestName: 2024 Book Reviews
 year: 2024
 publishedDate: '2026-02-06T16:47:49.305Z'
 slug: fundamentals-of-marxism-leninism-by-kuusinen-et-al
-wordCount: 5632
+wordCount: 5639
 readingTimeMinutes: 26
 originalUrl: https://docs.google.com/document/d/1QiotH3aGFgNLGqsIHTK_Plm_gem2E4l2C2ctyGJd0jY
 source: gdoc

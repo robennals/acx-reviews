@@ -7,7 +7,7 @@ contestName: 2022 Book Reviews
 year: 2022
 publishedDate: '2026-02-06T07:23:14.476Z'
 slug: irreversible-damage-the-transgender-craze-seducing-our-daughters-by-abigail-shrier
-wordCount: 3899
+wordCount: 3909
 readingTimeMinutes: 18
 originalUrl: https://docs.google.com/document/d/1kQUUJhv-MpLawby2j4zXLZPDG6ligWd5xpIjH8UmWdw
 source: gdoc

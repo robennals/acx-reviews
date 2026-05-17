@@ -7,8 +7,8 @@ contestName: 2021 Book Reviews
 year: 2021
 publishedDate: '2021-01-01T00:00:00.000Z'
 slug: walkaway-by-cory-doctorow
-wordCount: 5352
-readingTimeMinutes: 25
+wordCount: 5395
+readingTimeMinutes: 24
 originalUrl: https://docs.google.com/document/d/1M1m8o1HInGYJR3cEMYZ6TQgNmeBOWo98YC6djNnFWf0
 source: gdoc
 tags:

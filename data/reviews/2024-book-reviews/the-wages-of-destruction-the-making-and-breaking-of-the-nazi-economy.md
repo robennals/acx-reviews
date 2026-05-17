@@ -7,7 +7,7 @@ contestName: 2024 Book Reviews
 year: 2024
 publishedDate: '2026-02-06T16:49:50.817Z'
 slug: the-wages-of-destruction-the-making-and-breaking-of-the-nazi-economy
-wordCount: 4802
+wordCount: 4847
 readingTimeMinutes: 22
 originalUrl: https://docs.google.com/document/d/1Ki5XsE0jkxZtd2XAeyTAJw1ZjLh2Cu-matUYKAhA6-s
 source: gdoc

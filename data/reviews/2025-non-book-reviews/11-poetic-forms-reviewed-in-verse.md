@@ -7,7 +7,7 @@ contestName: 2025 Non Book Reviews
 year: 2025
 publishedDate: '2026-02-06T16:52:48.886Z'
 slug: 11-poetic-forms-reviewed-in-verse
-wordCount: 815
+wordCount: 826
 readingTimeMinutes: 4
 originalUrl: https://docs.google.com/document/d/1d0vRSj1E93joWWvbUen2XGuDjN_mM94ybMIAADzM2fo
 source: gdoc

@@ -7,7 +7,7 @@ contestName: 2023 Book Reviews
 year: 2023
 publishedDate: '2026-02-06T07:21:10.022Z'
 slug: autoheterosexual-attracted-to-being-the-other-sex
-wordCount: 7202
+wordCount: 7243
 readingTimeMinutes: 33
 originalUrl: https://docs.google.com/document/d/10CiEI7aDL2bMIdx7yayy3vlq0TJ8dO5LGnG7yIDPiw8
 source: gdoc

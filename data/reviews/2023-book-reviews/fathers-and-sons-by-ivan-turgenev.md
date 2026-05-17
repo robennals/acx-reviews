@@ -7,7 +7,7 @@ contestName: 2023 Book Reviews
 year: 2023
 publishedDate: '2026-02-06T07:21:10.028Z'
 slug: fathers-and-sons-by-ivan-turgenev
-wordCount: 4359
+wordCount: 4382
 readingTimeMinutes: 20
 originalUrl: https://docs.google.com/document/d/10CiEI7aDL2bMIdx7yayy3vlq0TJ8dO5LGnG7yIDPiw8
 source: gdoc

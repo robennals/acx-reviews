@@ -7,8 +7,8 @@ contestName: 2025 Non Book Reviews
 year: 2025
 publishedDate: '2026-02-06T16:55:59.399Z'
 slug: the-sermon-on-the-mount
-wordCount: 5953
-readingTimeMinutes: 28
+wordCount: 5998
+readingTimeMinutes: 27
 originalUrl: https://docs.google.com/document/d/1jYVJFIz5-aMi0LCgsC9AN6BncJDNVGaMU37QmwZ1vzA
 source: gdoc
 tags:

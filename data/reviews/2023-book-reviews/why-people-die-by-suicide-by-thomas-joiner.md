@@ -7,8 +7,8 @@ contestName: 2023 Book Reviews
 year: 2023
 publishedDate: '2023-01-01T00:00:00.000Z'
 slug: why-people-die-by-suicide-by-thomas-joiner
-wordCount: 2459
-readingTimeMinutes: 12
+wordCount: 2472
+readingTimeMinutes: 11
 originalUrl: https://docs.google.com/document/d/1D2MGZ7HW1vRtOtfXYIx9BBUt6ubjEA2n06gpoHcxaFY
 source: gdoc
 tags:

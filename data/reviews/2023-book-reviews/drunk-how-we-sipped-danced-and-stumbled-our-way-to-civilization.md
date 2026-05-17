@@ -7,7 +7,7 @@ contestName: 2023 Book Reviews
 year: 2023
 publishedDate: '2026-02-06T07:21:10.028Z'
 slug: drunk-how-we-sipped-danced-and-stumbled-our-way-to-civilization
-wordCount: 6961
+wordCount: 6993
 readingTimeMinutes: 32
 originalUrl: https://docs.google.com/document/d/10CiEI7aDL2bMIdx7yayy3vlq0TJ8dO5LGnG7yIDPiw8
 source: gdoc

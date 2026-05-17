@@ -7,8 +7,8 @@ contestName: 2023 Book Reviews
 year: 2023
 publishedDate: '2023-01-01T00:00:00.000Z'
 slug: slouching-towards-utopia
-wordCount: 8248
-readingTimeMinutes: 38
+wordCount: 8292
+readingTimeMinutes: 37
 originalUrl: https://docs.google.com/document/d/1vci14HMZ2UEJBs6mKCZZ2vHs-jVuPSsFsiN3cAENzXU
 source: gdoc
 tags:

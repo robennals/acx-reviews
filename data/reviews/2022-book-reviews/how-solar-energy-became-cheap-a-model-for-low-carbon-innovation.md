@@ -7,7 +7,7 @@ contestName: 2022 Book Reviews
 year: 2022
 publishedDate: '2026-02-06T07:24:08.703Z'
 slug: how-solar-energy-became-cheap-a-model-for-low-carbon-innovation
-wordCount: 6588
+wordCount: 6611
 readingTimeMinutes: 30
 originalUrl: https://docs.google.com/document/d/1pRQbRbEUwSH_jm94PI_ij-88swat7vQ4iNaNp6gd39g
 source: gdoc

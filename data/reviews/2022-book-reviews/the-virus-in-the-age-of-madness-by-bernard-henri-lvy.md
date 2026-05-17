@@ -7,7 +7,7 @@ contestName: 2022 Book Reviews
 year: 2022
 publishedDate: '2026-02-06T07:21:54.174Z'
 slug: the-virus-in-the-age-of-madness-by-bernard-henri-lvy
-wordCount: 3832
+wordCount: 3846
 readingTimeMinutes: 18
 originalUrl: https://docs.google.com/document/d/1hFzjXliCAWjvheY-8Qd2fhbF79LnX0Xg6R9eqk9yIyI
 source: gdoc

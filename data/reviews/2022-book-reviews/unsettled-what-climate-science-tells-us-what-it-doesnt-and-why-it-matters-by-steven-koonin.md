@@ -7,8 +7,8 @@ contestName: 2022 Book Reviews
 year: 2022
 publishedDate: '2026-02-06T07:21:54.177Z'
 slug: unsettled-what-climate-science-tells-us-what-it-doesnt-and-why-it-matters-by-steven-koonin
-wordCount: 18418
-readingTimeMinutes: 84
+wordCount: 18615
+readingTimeMinutes: 83
 originalUrl: https://docs.google.com/document/d/1hFzjXliCAWjvheY-8Qd2fhbF79LnX0Xg6R9eqk9yIyI
 source: gdoc
 tags:

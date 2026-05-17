@@ -7,7 +7,7 @@ contestName: 2021 Book Reviews
 year: 2021
 publishedDate: '2026-02-06T07:21:29.560Z'
 slug: an-evolutionary-theory-of-economic-change-by-richard-r-nelson-and-sidney-g-winter
-wordCount: 2160
+wordCount: 2165
 readingTimeMinutes: 10
 originalUrl: https://docs.google.com/document/d/1xexFJ7h0vULMDE7N77q_MIzXoerexfe_CqqGEL6hEoQ
 source: gdoc

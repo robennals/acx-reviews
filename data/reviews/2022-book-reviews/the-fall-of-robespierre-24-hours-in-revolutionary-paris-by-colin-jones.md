@@ -7,7 +7,7 @@ contestName: 2022 Book Reviews
 year: 2022
 publishedDate: '2026-02-06T07:22:32.825Z'
 slug: the-fall-of-robespierre-24-hours-in-revolutionary-paris-by-colin-jones
-wordCount: 7667
+wordCount: 7693
 readingTimeMinutes: 35
 originalUrl: https://docs.google.com/document/d/100kMdSVFviZSSBvUyyEQPMNlvLptVQxHFD9i9wGuBWs
 source: gdoc

@@ -7,8 +7,8 @@ contestName: 2024 Book Reviews
 year: 2024
 publishedDate: '2026-02-06T16:48:20.713Z'
 slug: piranesi-by-susanna-clarke
-wordCount: 5808
-readingTimeMinutes: 27
+wordCount: 5840
+readingTimeMinutes: 26
 originalUrl: https://docs.google.com/document/d/1cp6iw5OEyDjnD_viZo-KL0Zv4jwQnMXtE4yIovfVAco
 source: gdoc
 tags:

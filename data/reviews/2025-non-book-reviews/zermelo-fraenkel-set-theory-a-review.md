@@ -7,8 +7,8 @@ contestName: 2025 Non Book Reviews
 year: 2025
 publishedDate: '2026-02-06T16:55:59.408Z'
 slug: zermelo-fraenkel-set-theory-a-review
-wordCount: 5790
-readingTimeMinutes: 27
+wordCount: 5798
+readingTimeMinutes: 26
 originalUrl: https://docs.google.com/document/d/1jYVJFIz5-aMi0LCgsC9AN6BncJDNVGaMU37QmwZ1vzA
 source: gdoc
 tags:

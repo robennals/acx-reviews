@@ -7,7 +7,7 @@ contestName: 2025 Non Book Reviews
 year: 2025
 publishedDate: '2026-02-06T16:55:03.480Z'
 slug: miniatur-wunderland-the-model-train-that-dreams-its-a-world
-wordCount: 6754
+wordCount: 6824
 readingTimeMinutes: 31
 originalUrl: https://docs.google.com/document/d/1a3q0Z2tuPLLbDeg5-pfEffkajGjrfPDwE7ZMs7uaWQs
 source: gdoc

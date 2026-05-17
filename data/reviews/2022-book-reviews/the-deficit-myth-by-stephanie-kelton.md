@@ -7,8 +7,8 @@ contestName: 2022 Book Reviews
 year: 2022
 publishedDate: '2026-02-06T07:22:32.822Z'
 slug: the-deficit-myth-by-stephanie-kelton
-wordCount: 3981
-readingTimeMinutes: 19
+wordCount: 3990
+readingTimeMinutes: 18
 originalUrl: https://docs.google.com/document/d/100kMdSVFviZSSBvUyyEQPMNlvLptVQxHFD9i9wGuBWs
 source: gdoc
 tags:

@@ -7,8 +7,8 @@ contestName: 2024 Book Reviews
 year: 2024
 publishedDate: '2026-02-06T16:49:14.008Z'
 slug: the-hunt-for-red-october-is-tom-clancy
-wordCount: 4436
-readingTimeMinutes: 21
+wordCount: 4440
+readingTimeMinutes: 20
 originalUrl: https://docs.google.com/document/d/14qa47TJ_Vyerx4XNgTCIh7PUZ_TOgNcU_eHm5So_zo0
 source: gdoc
 tags:

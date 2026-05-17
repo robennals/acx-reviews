@@ -7,7 +7,7 @@ contestName: 2024 Book Reviews
 year: 2024
 publishedDate: '2026-02-06T16:48:56.652Z'
 slug: ranimorphs-the-reckoning-by-duncan-sabien
-wordCount: 7732
+wordCount: 7919
 readingTimeMinutes: 36
 originalUrl: https://docs.google.com/document/d/1GYQw3pgvhi7hqOVR-Ql629Q_8thbyHe8sSRy5voyt30
 source: gdoc

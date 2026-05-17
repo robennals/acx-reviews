@@ -7,8 +7,8 @@ contestName: 2025 Non Book Reviews
 year: 2025
 publishedDate: '2026-02-06T16:55:03.479Z'
 slug: lublin-castle
-wordCount: 3991
-readingTimeMinutes: 19
+wordCount: 4009
+readingTimeMinutes: 18
 originalUrl: https://docs.google.com/document/d/1a3q0Z2tuPLLbDeg5-pfEffkajGjrfPDwE7ZMs7uaWQs
 source: gdoc
 tags:

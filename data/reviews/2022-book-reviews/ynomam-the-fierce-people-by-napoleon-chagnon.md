@@ -7,7 +7,7 @@ contestName: 2022 Book Reviews
 year: 2022
 publishedDate: '2026-02-06T07:21:54.185Z'
 slug: ynomam-the-fierce-people-by-napoleon-chagnon
-wordCount: 4035
+wordCount: 4079
 readingTimeMinutes: 19
 originalUrl: https://docs.google.com/document/d/1hFzjXliCAWjvheY-8Qd2fhbF79LnX0Xg6R9eqk9yIyI
 source: gdoc

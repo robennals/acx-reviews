@@ -8,7 +8,7 @@ year: 2021
 publishedDate: '2026-02-06T07:21:29.561Z'
 slug: astounding-john-w-campbell-isaac-asimov-robert-a-heinlein-l-ron-hubbard-and-the-golden-age-of-science-fiction-by-alec-nevala-lee
 wordCount: 2017
-readingTimeMinutes: 10
+readingTimeMinutes: 9
 originalUrl: https://docs.google.com/document/d/1xexFJ7h0vULMDE7N77q_MIzXoerexfe_CqqGEL6hEoQ
 source: gdoc
 tags:

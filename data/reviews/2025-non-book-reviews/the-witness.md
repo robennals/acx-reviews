@@ -7,8 +7,8 @@ contestName: 2025 Non Book Reviews
 year: 2025
 publishedDate: '2026-02-06T16:57:23.284Z'
 slug: the-witness
-wordCount: 4652
-readingTimeMinutes: 22
+wordCount: 4707
+readingTimeMinutes: 21
 originalUrl: https://docs.google.com/document/d/1B3YxYxLVFjKGicaEkqvt353kt0uimn0PSUQv1PyaHuI
 source: gdoc
 tags:

@@ -7,7 +7,7 @@ contestName: 2021 Book Reviews
 year: 2021
 publishedDate: '2026-02-06T07:21:29.560Z'
 slug: a-libertarian-walks-into-a-bear-the-utopian-plot-to-liberate-an-american-town-and-some-bears-by-matthew-hongoltz-hetling
-wordCount: 3066
+wordCount: 3073
 readingTimeMinutes: 14
 originalUrl: https://docs.google.com/document/d/1xexFJ7h0vULMDE7N77q_MIzXoerexfe_CqqGEL6hEoQ
 source: gdoc

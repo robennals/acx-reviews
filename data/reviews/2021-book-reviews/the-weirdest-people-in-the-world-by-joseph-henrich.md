@@ -7,8 +7,8 @@ contestName: 2021 Book Reviews
 year: 2021
 publishedDate: '2021-01-01T00:00:00.000Z'
 slug: the-weirdest-people-in-the-world-by-joseph-henrich
-wordCount: 4209
-readingTimeMinutes: 20
+wordCount: 4255
+readingTimeMinutes: 19
 originalUrl: https://docs.google.com/document/d/1M1m8o1HInGYJR3cEMYZ6TQgNmeBOWo98YC6djNnFWf0
 source: gdoc
 tags:

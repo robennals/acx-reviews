@@ -7,8 +7,8 @@ contestName: 2024 Book Reviews
 year: 2024
 publishedDate: '2026-02-06T16:47:15.599Z'
 slug: defining-death-the-case-for-choice-by-robert-m-veatch-and-lainie-f-ross-2016
-wordCount: 4688
-readingTimeMinutes: 22
+wordCount: 4694
+readingTimeMinutes: 21
 originalUrl: https://docs.google.com/document/d/1AXmWgSbh_TFsoZuApSCSEoz57yn93CM5YYhtaO_s4W4
 source: gdoc
 tags:

@@ -7,8 +7,8 @@ contestName: 2025 Non Book Reviews
 year: 2025
 publishedDate: '2025-01-01T00:00:00.000Z'
 slug: the-tale-of-the-princess-kaguya
-wordCount: 9117
-readingTimeMinutes: 42
+wordCount: 9166
+readingTimeMinutes: 41
 originalUrl: https://docs.google.com/document/d/17WAcFrTOExgendrk2lGTxRIR4LVC3ZGbiU5Xe3kF4mg
 source: gdoc
 tags:

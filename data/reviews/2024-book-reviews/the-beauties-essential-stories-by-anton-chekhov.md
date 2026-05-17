@@ -7,7 +7,7 @@ contestName: 2024 Book Reviews
 year: 2024
 publishedDate: '2026-02-06T16:49:14.000Z'
 slug: the-beauties-essential-stories-by-anton-chekhov
-wordCount: 3010
+wordCount: 3018
 readingTimeMinutes: 14
 originalUrl: https://docs.google.com/document/d/14qa47TJ_Vyerx4XNgTCIh7PUZ_TOgNcU_eHm5So_zo0
 source: gdoc

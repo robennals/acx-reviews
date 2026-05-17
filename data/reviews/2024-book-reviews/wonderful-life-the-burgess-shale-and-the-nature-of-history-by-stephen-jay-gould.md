@@ -7,7 +7,7 @@ contestName: 2024 Book Reviews
 year: 2024
 publishedDate: '2024-01-01T00:00:00.000Z'
 slug: wonderful-life-the-burgess-shale-and-the-nature-of-history-by-stephen-jay-gould
-wordCount: 3849
+wordCount: 3862
 readingTimeMinutes: 18
 originalUrl: https://docs.google.com/document/d/1Ki5XsE0jkxZtd2XAeyTAJw1ZjLh2Cu-matUYKAhA6-s
 source: gdoc

@@ -7,7 +7,7 @@ contestName: 2022 Book Reviews
 year: 2022
 publishedDate: '2026-02-06T07:23:14.492Z'
 slug: surface-detail-by-iain-m-banks
-wordCount: 9644
+wordCount: 9692
 readingTimeMinutes: 44
 originalUrl: https://docs.google.com/document/d/1kQUUJhv-MpLawby2j4zXLZPDG6ligWd5xpIjH8UmWdw
 source: gdoc

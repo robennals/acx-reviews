@@ -7,7 +7,7 @@ contestName: 2024 Book Reviews
 year: 2024
 publishedDate: '2024-01-01T00:00:00.000Z'
 slug: metamorphosis-by-shindo-l
-wordCount: 1286
+wordCount: 1296
 readingTimeMinutes: 6
 originalUrl: https://docs.google.com/document/d/1cp6iw5OEyDjnD_viZo-KL0Zv4jwQnMXtE4yIovfVAco
 source: gdoc

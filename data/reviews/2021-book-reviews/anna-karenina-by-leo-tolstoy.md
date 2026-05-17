@@ -7,7 +7,7 @@ contestName: 2021 Book Reviews
 year: 2021
 publishedDate: '2026-02-06T07:21:29.561Z'
 slug: anna-karenina-by-leo-tolstoy
-wordCount: 5653
+wordCount: 5687
 readingTimeMinutes: 26
 originalUrl: https://docs.google.com/document/d/1xexFJ7h0vULMDE7N77q_MIzXoerexfe_CqqGEL6hEoQ
 source: gdoc
