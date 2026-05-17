@@ -887,6 +887,53 @@ test('convertGDocToMarkdown wraps a multi-paragraph indented passage in a blockq
     `body paragraphs must not be quoted; got: ${out}`);
 });
 
+test('convertGDocToMarkdown preserves image-only paragraphs and keeps them standalone with short neighbors', async () => {
+  // Real example from "Beating Balatro": a standalone illustrative image sits
+  // between two short-line indent-classed paragraphs (a caption and a source
+  // link). The pre-fix pipeline treated the image-paragraph as "empty"
+  // (.text().trim() empty) and ran the stanza-break heuristic, which
+  // overwrote its inner HTML with `<br>` and dropped the image. The fix
+  // preserves the image. Surrounding context is short captions — NOT an
+  // unmistakable prose-quote — so the image stays standalone (no `> ` prefix).
+  const html = `<html><head><style>.cq{margin-left:36pt}</style></head><body>` +
+    `<p class="cq"><span>Short caption above the image.</span></p>` +
+    `<p class="cq"><span></span></p>` +
+    `<p class="cq"><span><img alt="" src="data:image/png;base64,iVBORw0KGgo="></span></p>` +
+    `<p class="cq"><span></span></p>` +
+    `<p class="cq"><span>Short caption below the image.</span></p>` +
+    `</body></html>`;
+
+  const { convertGDocToMarkdown } = await import('./gdoc-html.ts');
+  const out = convertGDocToMarkdown(html);
+
+  // The image must survive (still referenced via a data: URL at this stage).
+  assert.ok(/!\[\]\(data:image\/png/.test(out),
+    `image must be preserved; got: ${out}`);
+  // And it must NOT be wrapped in a blockquote: short captions on either
+  // side are not an unmistakable quote context.
+  assert.ok(!/^> !\[/m.test(out),
+    `image must not be inside a blockquote when neighbors are short; got: ${out}`);
+});
+
+test('convertGDocToMarkdown wraps an image inside a clearly-continuous prose quote', async () => {
+  // When the image sits between two LONG indent-classed paragraphs (≥100
+  // chars each), that's an unmistakable continuous-prose-quote context and
+  // the image is part of the quote — wrap it in the surrounding blockquote.
+  const longPara = 'This is a long prose paragraph from the source being quoted, clearly more than one hundred characters long.';
+  const html = `<html><head><style>.cq{margin-left:36pt}</style></head><body>` +
+    `<p class="cq"><span>${longPara}</span></p>` +
+    `<p class="cq"><span><img alt="" src="data:image/png;base64,iVBORw0KGgo="></span></p>` +
+    `<p class="cq"><span>${longPara}</span></p>` +
+    `</body></html>`;
+
+  const { convertGDocToMarkdown } = await import('./gdoc-html.ts');
+  const out = convertGDocToMarkdown(html);
+
+  // The image is wrapped in the blockquote.
+  assert.ok(/^> !\[/m.test(out),
+    `image inside a clear prose quote must be wrapped; got: ${out}`);
+});
+
 test('cleanupMarkdown normalizes thematic-break paragraphs that turndown escaped', () => {
   // When the gdoc author types "***" as a paragraph (instead of using a
   // proper horizontal rule), turndown emits a half-escaped "*\*\*" that

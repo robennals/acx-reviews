@@ -515,7 +515,14 @@ function applySemanticTags($: CheerioAPI, styles: GDocStyleMap): void {
     for (let bi = 0; bi < allBlocks.length; bi++) {
       const block = allBlocks[bi];
       const el = $(block);
-      const isEmpty = !el.text().trim();
+      // An image-only paragraph (text empty, but contains an <img>)
+      // must NOT be treated as "empty" here — the stanza-break branch
+      // below replaces el.html() with `<br>` and would silently drop
+      // the image. Image-only paragraphs get their own handling block
+      // (below) that keeps them standalone instead of wrapping them
+      // in the surrounding blockquote.
+      const hasImg = el.find('img').length > 0;
+      const isEmpty = !el.text().trim() && !hasImg;
       // An empty `<p>` between two indented blocks is a stanza break
       // inside what the author wrote as one quote. Turndown drops empty
       // `<p>`s, so the break would vanish — and the markdown-level
@@ -543,6 +550,42 @@ function applySemanticTags($: CheerioAPI, styles: GDocStyleMap): void {
           const nextText = next.text().trim();
           if (prevText.length <= POETRY_LINE_MAX && nextText.length <= POETRY_LINE_MAX) {
             el.html('<br>');
+            el.wrap('<blockquote></blockquote>');
+          }
+        }
+        continue;
+      }
+      // Image-only paragraphs: keep them standalone by default, even
+      // when the source paragraph carries an indent class. Wrapping
+      // an image in `> ![...]` changes the rendering from "image
+      // breaks the quote at full width" to "image continues the quote
+      // with blockquote styling" — that's only the right call when
+      // the surrounding context is unmistakably a continuous prose
+      // quote (≥1 long indented paragraph on EACH side). When the
+      // neighbors are short captions, source links, stanza markers,
+      // or non-indented body text, the image is more likely an
+      // illustration than part of the quote, and standalone is the
+      // safer choice. The data-loss bug fix (don't drop `<img>` bytes)
+      // is unconditional — only the blockquote-wrap is gated.
+      if (hasImg && !el.text().trim()) {
+        if (isElementIndented(el)) {
+          const IMG_QUOTE_MIN_TEXT = 100;
+          const isLongIndented = (sib: ReturnType<typeof $> | null) =>
+            !!sib && isElementIndented(sib) && sib.text().trim().length >= IMG_QUOTE_MIN_TEXT;
+          // Look at the nearest non-empty sibling on each side, skipping
+          // intermediate truly-empty paragraphs (stanza markers).
+          const findNonEmptyNeighbor = (dir: 1 | -1) => {
+            let k = bi + dir;
+            while (k >= 0 && k < allBlocks.length) {
+              const sib = $(allBlocks[k]);
+              if (sib.text().trim() || sib.find('img').length) return sib;
+              k += dir;
+            }
+            return null;
+          };
+          const prev = findNonEmptyNeighbor(-1);
+          const next = findNonEmptyNeighbor(1);
+          if (isLongIndented(prev) && isLongIndented(next)) {
             el.wrap('<blockquote></blockquote>');
           }
         }
