@@ -55,12 +55,9 @@ The motivation for building a robot is that this can be an objective, computatio
 
 After Chapter 1 we have formal logic so we can make statements like:
 
-> Jaynes is the coolest Bayesian
->
-> The coolest Bayesian killed Fisher
->
-> ———————————————
->
+> Jaynes is the coolest Bayesian  
+> The coolest Bayesian killed Fisher  
+> ———————————————  
 > Jaynes killed Fisher
 
 We also have 3 desiderata from the previous chapter, and are left with the question, what more do we need for our robot to make inferences? It turns out we only need two things, the product rule and the sum rule.
@@ -69,12 +66,9 @@ This Chapter is the driest in the book, because it contains all the math needed 
 
 What we want are rules to connect the rules of logic to mathematical functions so we can make statements such as
 
-> Jaynes has a bloody knife and is shouting “death to frequentism”
->
-> Fisher’s corpse full of stab wounds is lying next to him
->
-> ———————————————————————
->
+> Jaynes has a bloody knife and is shouting “death to frequentism”  
+> Fisher’s corpse full of stab wounds is lying next to him  
+> ———————————————————————  
 > It is likely that Jaynes killed Fisher.
 
 The product rule is the first of the 2 rules we need. It is introduced by appealing to desiderata 3a. By noting that knowing A then B should be the same as knowing B then A, Jaynes introduces it like this:

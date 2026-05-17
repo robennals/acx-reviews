@@ -51,9 +51,15 @@ The MIU-system:
 *   Allowable characters: M, I, and U. (So strings are things like M, UMM, MIMMIUM, UMIIMUMUUIMIM, etc.)
 *   Axioms: MI
 *   Rules:
->
-*   Rule I: given a string that ends in an I, you can add a U to the end.
->
+    
+    *   Rule I: given a string that ends in an I, you can add a U to the end.
+    
+    *   Rule II: given a string of the form M_x_ where _x_ consists of M’s, I’s, and U’s, you can form the string M_xx_
+    
+    *   Rule III: given any string with III appearing somewhere inside, you may replace III with U
+    
+    *   Rule IV: given any string with UU appearing inside, you may delete UU
+
 > Example: from UMI, form UMIU
 >
 *   Rule II: given a string of the form M_x_ where _x_ consists of M’s, I’s, and U’s, you can form the string M_xx_

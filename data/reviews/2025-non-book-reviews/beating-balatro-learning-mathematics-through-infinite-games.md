@@ -90,7 +90,10 @@ The overall formula is enhanced\_chips + hand\_left \* ( ( hand\_right + multi )
 
 ## Jokers, Multi, and xMult
 
->
+>   
+
+![](https://acximages.ennals.org/images/2025-non-book-reviews/5c2bf3b6f04e1152.gif)
+
 > Jokers behave like relics in Spire:
 
 *   **Additive Multi** – e.g. Basic _[Joker](https://balatrogame.fandom.com/wiki/Joker)_: “+4 Multi”

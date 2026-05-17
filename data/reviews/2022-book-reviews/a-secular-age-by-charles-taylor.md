@@ -180,16 +180,11 @@ But these changes weren’t accepted with completely open arms, even among the e
 
 These counter trends reflect a continuing sense even into the present day that life has lost some essential dimension of meaning. He quotes Matthew Arnold::
 
-> _For rigorous teachers seized my youth,_
->
-> _And purged my faith, and trimmed its fire,_
->
-> _Showed me the high, white star of Truth,_
->
-> _There bade me gaze, and there aspire._
->
-> _Even now their whispers pierce my gloom:_
->
+> _For rigorous teachers seized my youth,_  
+> _And purged my faith, and trimmed its fire,_  
+> _Showed me the high, white star of Truth,_  
+> _There bade me gaze, and there aspire._  
+> _Even now their whispers pierce my gloom:_  
 > _What dost thou in this living tomb?_
 
 ## III. Why?

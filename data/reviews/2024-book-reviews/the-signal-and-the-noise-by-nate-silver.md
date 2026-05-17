@@ -87,12 +87,9 @@ About halfway through the book, Silver introduces what he believes is a revoluti
 
 Let’s define terms.
 
-> **P(A|B)** is the posterior probability that A is true, given B.
->
-> **P(A)** is the prior probability that A is true.
->
-> **P(B)** is the prior probability that B is true.
->
+> **P(A|B)** is the posterior probability that A is true, given B.  
+> **P(A)** is the prior probability that A is true.  
+> **P(B)** is the prior probability that B is true.  
 > **P(B|A)** is the posterior probability that B is true, given A.
 
 This is all esoteric until we start looking at real-world situations. Let’s say you have a cancer blood test that accurately detects the presence of cancer 90% of the time. If someone has cancer, 90% of the time this test will come up positive, P(Positive|Cancer) = 0.9. That sounds good! But what about the test’s specificity? How often do we get false positives? Let’s say if a patient doesn’t have cancer, they’ll get a false ‘positive’ test result 5% of the time, P(Positive|No Cancer). Finally, let’s assume 1% of the population has cancer, P(Cancer).

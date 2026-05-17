@@ -16,7 +16,9 @@ tags:
   - Psychology
 ---
 
->
+>   
+
+![](https://acximages.ennals.org/images/2023-book-reviews/7887142fda6bb75d.png)
 
 In _Perplexities of Consciousness_ Eric Schwitzgebel takes on phenomenology, the study of the phenomena of human inner experience — percepts, mental images, emotions, thoughts. So I’m going to start us off with my absolute favorite bit of phenomenology, Vladimir Nabokov’s description of his childhood bedtime ritual. He would climb the stairs towards his mother with his eyes closed, moving up each time she said “step.” It was understood that she would not inform him when he reached the top of the stairs, but would say “step” one more time:
 

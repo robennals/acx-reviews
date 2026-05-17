@@ -1174,14 +1174,14 @@ Northern and coastal or waterfront cities seem to have more racial hate crime th
 *   Every person in rural America knows that the argument for the Second Amendment is that we need guns to protect ourselves from government tyranny.  I have never in my life seen this argument presented in a single news article about gun control.  I've been asked by adult urbanites, apparently sincerely, what on Earth anyone would want a rifle for other than for committing crimes or shooting deer.  This shows how ignorant urbanites are kept of the rural perspective.
 *   Articles about gun control in the major media often cite studies or data showing that violent crime goes up in areas without gun control.  This result is obtained by classifying suicide as violent crime, usually without mentioning that fact.
 *   The news media has, for IIRC the past 2 decades, unanimously voiced the opinion that support of the use of torture for any purpose is beyond the pale.  Yet the view that torture is never justifiable has always been a minority view among the American public:
->
-*   [2005-2011](https://fivethirtyeight.com/features/senate-torture-report-public-opinion/):
+    
+    *   [2005-2011](https://fivethirtyeight.com/features/senate-torture-report-public-opinion/):
+    
+    *   March 2016: Only 15% say torture can never be justified ([Ipsos Poll Conducted for Reuters](http://graphics.thomsonreuters.com/16/Ipsos-Brussels.pdf), Brussels Topline 3.28.2016).  Poll "has a credibility interval of plus or minus 2.5 percentage points".
+    *   November 2016: 49% say torture can never be justified ([Pew Research](https://www.pewresearch.org/fact-tank/2017/01/26/americans-divided-in-views-of-use-of-torture-in-u-s-anti-terror-efforts/)).  "The margin of sampling error for the full sample of 4,265 respondents is plus or minus 3.1 percentage points."  (I think something is wrong with survey confidence intervals.)
 
-![](https://acximages.ennals.org/images/2022-book-reviews/bd8fc63dd1720843.png)
+![](https://acximages.ennals.org/images/2022-book-reviews/c3b6f4853132f8e3.png)
 
-*   March 2016: Only 15% say torture can never be justified ([Ipsos Poll Conducted for Reuters](http://graphics.thomsonreuters.com/16/Ipsos-Brussels.pdf), Brussels Topline 3.28.2016).  Poll "has a credibility interval of plus or minus 2.5 percentage points".
-*   November 2016: 49% say torture can never be justified ([Pew Research](https://www.pewresearch.org/fact-tank/2017/01/26/americans-divided-in-views-of-use-of-torture-in-u-s-anti-terror-efforts/)).  "The margin of sampling error for the full sample of 4,265 respondents is plus or minus 3.1 percentage points."  (I think something is wrong with survey confidence intervals.)
->
 *   On Sept. 13, 2020, after two policemen in Los Angeles who were just sitting in their police car were shot on camera, execution-style, after a Black Lives Matter protest, I found no mention of it in any major media outlet except for Fox and CNN. It was the 60th article in CNN's news feed, 22 places below "Best showerheads of 2020."  The top seven articles in CNN's feed that day were all either about how bad Trump is, or about how good Biden is.
 *   In years of discussing Black Lives Matter in the media, not one major media outlet has ever mentioned the fact that the odds of a person in a confrontation with the police in the US being fatally shot are indistinguishable for whites and blacks.  The difference in the probability of a black vs. a white being shot by the police is explained away by the difference in the probability of getting into a confrontation with the police.  You can check relevant data in the FBI's UCR.  I have a friend who was disinvited as a conference speaker just for having pointed this data out in a response on an online discussion forum.  Another point never mentioned is that the converse is true:  blacks confronting the police _are_ much more likely to shoot them than whites are.
 *   In late 2020, I went into downtown Columbus, Ohio, and found it devastated by Black Lives Matter protests, with many blocks of smashed and boarded-up plate-glass windows.  I'd heard nothing about it on the news.

@@ -17,10 +17,9 @@ tags:
 ---
 
 1.  ## Introduction
-
->
-1.  ### A song from my past
-
+    
+    1.  ### A song from my past
+        
 
 _“Now that she’s back in the atmosphere / With drops of Jupiter in her hair…”_
 
@@ -139,8 +138,8 @@ But think about it: In the face of his parents’ choices, a seven-year-old chil
 ## IV. Dad’s Stories
 
 1.  ### How we got to the point of Dad sharing the stories I wanted to hear
+    
 
->
 > So I’ve come at you, dear reader, with an insistence on idealism: “Don’t give up,” etc., etc. And that is true, for it is good and right. But it’s not a very detailed picture. “Mash one button, with the word ‘idealism’ printed on it?”
 >
 > And not only that, but–you can’t just do whatever _seems_ like a good idea, because if you’re from a dysfunctional family, some of the things your mind has been trained are “obvious good ideas”/”the only way to do things”–just. aren’t. …either of those things! You need to find out what’s true, how people work… otherwise, your efforts will just be “barking up a dead end.” Sometimes, as a daughter, I might say to myself, “I’m trying to love Dad in spite of his faults,” when I’m really just using that as an excuse for enabling. Because it’s easier than confronting. Other times, I might want to tell myself, “I concluded I need to practice ‘tough love,’ so Dad just needs to deal with it,” when, really, there’s not that much love in it at all: It could be an act of turning her back on someone I love, letting my heart get cold and brittle, but all the while repeating a line from a cliche she heard, so I feel justified. Keep repeating it enough and you’ll believe.  (What I’m saying is, don’t repeat it. Maybe even, “you repeat this mantra at your peril.”)
