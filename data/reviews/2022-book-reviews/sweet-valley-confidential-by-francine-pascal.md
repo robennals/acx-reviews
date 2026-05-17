@@ -108,7 +108,7 @@ The redemption of Jessica may seem implausible but it’s largely accomplished b
 
 The magnum opus of Sweet Valley High was the Evil Twin arc.
 
-**The Evil Twin** 
+## The Evil Twin
 
 ![](https://acximages.ennals.org/images/2022-book-reviews/6e214467872b6415.jpg)
 
@@ -128,7 +128,7 @@ The best part of this plotline is that after Margo gets blonde hair she practice
 
 The original Sweet Valley High series would launch multiple spin-offs ranging from the iconic Sweet Valley Twins (middle school), the serviceable Sweet Valley University (college), and two ill-fated attempts at more realistic storylines (Sweet Valley High Senior Year and Sweet Valley Junior High). The last spin-off ended its run in 2003.
 
-**The Re-Release**
+## The Re-Release
 
 After Gossip Girl became a TV show and made lots of money, there was an attempt to cash in on Sweet Valley High. The first few books were re-released and updated. The twins shrank from size 6 to size 4, Elizabeth worked for the school blog instead of the school newspaper, and occasionally characters would glance at cell phones to remind us it was now set in the present day. It wasn’t very successful and only the first several were ever updated. More ambitiously, Francine Pascal would release [Sweet Valley Confidential](https://www.amazon.com/Sweet-Valley-Confidential-Years-Later-ebook/dp/B00457X82Q/ref=sr_1_1?crid=39HWQLSS0C3B5&keywords=sweet+valley+confidential&qid=1648762224&sprefix=sweet+valley+confiden%2Caps%2C394&sr=8-1) and the [Sweet Life](https://www.amazon.com/Sweet-Life-Serial-Valley-Confidential-ebook/dp/B008VA7JOG/ref=sr_1_3?crid=1QZJ01ZAL7EVQ&keywords=sweet+life+sweet+valley&qid=1648762295&sprefix=sweet+life+sweet+valley%2Caps%2C120&sr=8-3), chronicling the lives of the twins at ages 27 and 30 respectively. 
 
@@ -168,7 +168,7 @@ She also manages to throw in a tiny bit of continuity here and there. Robin Wils
 
  Overall, it sucks.
 
-**In Conclusion**
+## In Conclusion
 
 The CW now says its going to launch a [Sweet Valley High](https://deadline.com/2021/12/sweet-valley-high-tv-series-the-cw-from-ashley-wigfield-fake-empire-chernin-entertainment-1234891014/) TV series. I doubt it. A few years back, Diablo Cody claimed she was making a Sweet Valley [movie](https://ew.com/article/2009/09/23/diablo-cody-sweet-valley-high-amazing/) which never happened.
 

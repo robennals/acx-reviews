@@ -17,7 +17,7 @@ tags:
 
 **This review contains discussion of a work featuring sexual content and trauma that some people may find distressing.**
 
-**I.**
+## I.
 
 In fanspeak, “_X_ porn” is akin to “superstimulus”: a description of something that exists in reality, but taken to a level beyond what most people are likely to ever encounter. George R.R. Martin’s multi-page descriptions of banquets are food porn. The shopping scene in _John Wick: Chapter 2_ is gun porn. The brilliant ad hoc engineering efforts in _Apollo 13_ and _The Martian_ are competence porn.
 
@@ -29,7 +29,7 @@ It’s also porn. As in: pornography.
 
 The first page of _Metamorphosis_, and one of the few pages I can show while keeping this review safe for work.
 
-**II.**
+## II.
 
 Among English-speaking fans, “ecchi” refers to soft-core or merely sexually suggestive anime and manga, while “hentai” is reserved for sexually explicit Japanese media.2 The line between the two is not always clear, especially as [some](https://en.wikipedia.org/wiki/Redo_of_Healer#Anime) [works](https://en.wikipedia.org/wiki/Interspecies_Reviewers#Anime) force platforms to reconsider what they are willing to keep in their library.
 
@@ -43,7 +43,7 @@ The artwork reflects her internal conflict in the reader. It’s, _ahem_, kind o
 
 And it will remain the most pleasurable experience in her entire life. She spends most of the rest of the story chasing that first high.
 
-**III.**
+## III.
 
 Shindo L's portrayal of drug use in sex scenes is clever, maybe even brilliant. It feels titillating, forbidden, and comes with no immediate negative consequences. It’s only later that Saki and, most likely, _the reader_ feel that something has gone very, very wrong.
 
@@ -67,7 +67,7 @@ Saki is not blameless, but her circumstances are not entirely her own fault. The
 
 Badly. It ends badly.
 
-**IV.**
+## IV.
 
 Metamorphosis _is popular._ Possibly, one of the most popular pornographic works ever. It is difficult to provide statistics, especially given how often pornography is pirated, but there is evidence that readers find _Metamorphosis_ a compelling story, beyond the pornographic content and shock value.
 
@@ -83,7 +83,7 @@ _Metamorphosis_ is the only hentai I’m aware of with multiple fans cosplaying 
 
 Rui Ai as Saki
 
-**V.**
+## V.
 
 As implausible as this sounds, I think _Metamorphosis_ is culturally significant. Beyond the explicit illustrations and shocking story content, it captures a deep fear present in the modern world. Stumble off the socially accepted path of high school to college to gainful employment, and it’s easy to be targeted by a predator and/or turn to drugs to try to escape. _Metamorphosis_ may be “a tragic and preachy story”4, but the elements of the story are all too real.
 

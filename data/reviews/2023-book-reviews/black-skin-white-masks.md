@@ -16,7 +16,7 @@ tags:
   - Philosophy
 ---
 
-**I.**
+## I.
 
 Let us examine a young man on the Antillean isle of Martinique. There is something special about him. A sparkling nimbus hangs over his head, and everyone can see it. He is more real than the things around him. He feels again like a child on the cusp of adulthood. Something is about to immanentize around him. What is the cause? Only this: he is bound for Paris. All of Fort-de-France crowds at the port to see him off on his journey to the motherland. He sets sail towards the dawn, and waves goodbye to this little island home, which is already growing smaller and less important as Paris nears.
 
@@ -34,19 +34,19 @@ But if this alchemy fails to work its magic, if he has not returned as a purifie
 
 The doom that came to Didier was a Frenchman: a real, honest-to-God Frenchman in the government service. What miserable fortune! The moment he stepped through the doors all of their delicate airs were blown out like candles. When they met his gaze they felt the weight of eighteen million images smothering them, an opaque molasses through which their words could not swim. They beheld like Adam and Eve the color of their skin. Had it changed? Something had changed. It had become a fact about them. They saw in that eye the Judge before whom was open the Book of Life, in whose pages their names were not written. This was the eye that beheld and fixed their sparkling souls in place, and which did not see them.
 
-**II.**
+## II.
 
 Frantz Fanon was born in Martinique in 1925, one of eight children of a customs officer and a shopkeeper. As a teenager, he saw the abuse of locals by the Vichy regime during World War II, and when the regime was overthrown there in 1943, he enlisted in the French Liberation Army and fought in Alsace and Colmar. When the Nazis were defeated and the cameras came around, Fanon and his countrymen were nowhere to be seen; they had been sent away from their units to be repatriated back to Martinique.
 
 Fanon returned to France shortly afterwards, baccalaureate in hand, to study medicine and psychiatry in Lyons. His doctoral dissertation was rejected and published as a book, _Black Skin, White Masks_, in 1952. He died not ten years later, after a career as an author and  revolutionary in Algeria against the French, seeking treatment for leukemia in the US. It is widely believed that his death, of double pneumonia, was accelerated by the CIA.
 
-**III.**
+## III.
 
 This was supposed to be a review of Sigmund Freud’s _On the Interpretation of Dreams_. I got obsessed with Teach’s _Sadly, Porn_**1** and wanted to go back to the source and see if his dream-interpretations made any sense in the Freudian tradition, and if that tradition was worth studying. Only problem is… well, Freud. While the chapters on distortion in dreams were fascinating, I couldn’t take it very seriously. It reeks of the nineteenth century, of a time and place too far away. I had consigned myself to trudge through it and write a stale review, when I got turned on to Frantz Fanon’s _Black Skin, White Masks_, which scratched my itch for something a little closer to home, more urgent. It too is a work of psychoanalysis. Specifically, of racial psychoanalysis. That sounds horrible. Freud with calipers. But Fanon had something I’ve been chasing down for a while: a really, genuinely _human_ outlook, a voice which speaks platitudes about equality and brotherhood and gives them substance and muscle.
 
 Freud asks ‘What does woman want?’ There was a time, in my spotty and insecure days, the days of the great feminist clashes of the culture war, when such a question would have interested me, but no longer. Fanon asks ‘What does a man want? What does the black man want?’ He asserts that the black man is not a man, that the two camps of color, like the Blues and the Greens of Roman antiquity, are quite fluid, and that what must be done is to set man free—from himself, if necessary.
 
-**IV.**
+## IV.
 
 _Dr. King Schultz_: Actually, I was thinking of that poor devil you fed to the dogs today, d’Artagnan. And I was wondering what Dumas would make of all this.
 
@@ -140,7 +140,7 @@ Hooray?
 
 But what would Jean Veneuse say to this? Could he accept it? I may speculate idly about sending Veneuse on pilgrimage to a postcolonial guru in the wild heart of Lyons who would teach him to recognize the nonduality of form and emptiness and show him new ways to interact with his value system, but this is too fanciful for Fanon. His colonial subject suffers under a malaise that cannot be named, and antidotes are scarce.
 
-**V.** 
+## V.
 
 Fanon does not endorse dependence and surrender, as the novelist Mayotte Capécia does. In her book _I Am a Martinician Woman_ (_Je suis martiniquaise_), Fanon reads a straightforward desire to become white: she loves a man for no other reason than that he is what she wants to be, and having him can bring a bit of it into her life.
 
@@ -174,7 +174,7 @@ As much as Fanon is an ancestor of contemporary postcolonial thought and as much
 
 Fanon got famous in France, and especially in the United States, for his rhetoric of resistance and violence. That rhetoric finds its context in the colonial massacres in Africa and Asia still being perpetrated by the European powers in the latter half of the twentieth century. In that context, he says, there is no option but to fight. He does not extend the same recommendation to black people in France or the Antilles.
 
-**VI.**
+## VI.
 
 When I first mentioned I was reading Fanon to a friend of mine, he was quite surprised, and mentioned a quote from Fanon, about how ‘killing a European is killing two birds with one stone’ because it both kills an oppressor and frees an oppressed. It turns out that quote is not Fanon’s but Sartre’s, from the foreword to another work by Fanon, _The Wretched of the Earth_.
 
@@ -224,7 +224,7 @@ Fanon asked “What does the black man want?” Now let his answer play us out.
 
 p.231
 
-**Endnotes**
+## Endnotes
 
 1\. If you don’t know what this is, don’t look it up, nothing good may come of it.
 

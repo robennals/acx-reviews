@@ -26,7 +26,7 @@ A moment’s reflection reveals that there is much truth to this claim. As Paul 
 
 But if the mind is not a sort of machine, if it is more like a “magpie” as Paul claims, what exactly does that _mean_? How, in fact, does the mind work, and how can we apply this knowledge to our lives? These are the key questions _The Extended Mind_ sets out to answer.
 
-**Paul Builds Her Case**
+## Paul Builds Her Case
 
 _The Extended Mind_ is divided into thirds—one on _embodied_ cognition, one on _situated_ cognition, and one on _social_ cognition—each of which is itself divided into three subsections. Arguably, this neat threes-within-three structure imposes some artificial constraint on ideas that might otherwise bleed together or cleave apart. But the buckets generally do a good job of holding all the information, and are nothing if not clear.
 
@@ -121,7 +121,7 @@ Three examples come to mind: First, consider the way people write down multiple 
 
 If these last three examples don’t convince you that the mind is, in a very tangible sense, extendable, I don’t know what will.
 
-**A Brief Rant About Framing**
+## A Brief Rant About Framing
 
 My only overarching critique of the book: As I was reading, I couldn’t help but think that mind _extension_ isn’t quite the right phrase to encompass the various phenomena Paul describes. It’s not as if we’re able to literally merge with some external neural network, after all, like how in (the movie) _Avatar_, the blue alien people are able to plug into their tree god or (I am so sorry…) do that [weird sex thing with their hair tentacles](https://www.youtube.com/watch?v=Uf9SWvs4beE).
 
@@ -185,7 +185,7 @@ I’m skeptical this could work. It’s not that I don’t believe bodily awaren
 
 Here, I think, we get to the crux of the issue with trying to explain why/how the extended mind works: The greater a role in cognition we grant to the environment, the more variables there are to contend with. This doesn’t mean that we shouldn’t _try_ to leverage mental extensions and understand how they work, of course; but it does mean that Paul’s model of the mind—while probably more accurate—is also inherently messier and harder to study systematically. And while I don’t necessarily fault her for being unable to provide a perfect account/application of every principle, I’m not any less interested in knowing the answer.
 
-**Looping Back**
+## Looping Back
 
 Let me attempt to recap, and bring together, these various strands by way of another great anecdote from the book, about the physicist Richard Feynman:
 
@@ -213,7 +213,7 @@ First, as I’ve been arguing throughout, I think this is just a fundamentally t
 
 Finally, if it’s not obvious, I _really_ felt the applicability of loops in the course of writing this review, and had a lot of fun employing many of Paul’s techniques: This is a text that invites speculation and repeatedly chewing on ideas—turning them over in your mind, examining them from multiple angles, seeing where they crop up in your own life in unexpected places. In this sense, the book is a profound success.
 
-**Overall Assessment**
+## Overall Assessment
 
 _The Extended Mind_ is an exceptionally clear, informative book whose thesis slightly overpromises in philosophical terms, but nevertheless offers a remarkable array of examples and empirical research; sometimes, the breadth of this evidence makes it difficult to know how to best apply it.
 

@@ -34,7 +34,7 @@ On the other hand, if you know a great deal about physics, and you see something
 
 * * *
 
-**The Mathematical Appendix**
+## The Mathematical Appendix
 
 **You Should Have Paid More Attention in Linear Algebra**
 
@@ -66,7 +66,7 @@ If you pick up FFF, start with the math; and if you struggle with it, join the c
 
 * * *
 
-**Fashion**
+## Fashion
 
 **Beating Up Particle Physics and Taking its Lunch Money**
 
@@ -118,7 +118,7 @@ Penrose’s critiques of string theory ultimately ring true to me, especially be
 
 * * *
 
-**Faith**
+## Faith
 
 **In Which Eliezer is Counted Among the Righteous**
 
@@ -178,7 +178,7 @@ However, Chapter 2 isn’t all sunshine and roses on the comprehensibility and a
 
 * * *
 
-**Fantasy**
+## Fantasy
 
 **Why Inflation is Ruining Everything**
 
@@ -222,7 +222,7 @@ Finally—the ever-present question in this book: am I just getting Eulered?  I 
 
 * * *
 
-**Conclusion**
+## Conclusion
 
 **2/10, functional freedom wasn’t mentioned enough**
 

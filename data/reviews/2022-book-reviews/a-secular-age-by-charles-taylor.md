@@ -17,7 +17,7 @@ tags:
   - Society
 ---
 
-**I. Why so secular?**
+## I. Why so secular?
 
 I have, for several years, had a vague sense that western society was burning through some type of cultural capital that we had painstakingly accumulated and stewarded over hundreds of years without necessarily realizing we were doing it. I’ll only give two examples, because it tends to touch on culture war issues and culture war issues are very tangential to the book at hand, but I thought it might be useful to explain my motivation for picking up a 900-page book on the history of Latin Christendom and why I might emphasize certain aspects of this tome over others.
 
@@ -110,7 +110,7 @@ Taylor says that over the ensuing 500 years every aspect of this worldview, or "
 
 The elites of course.
 
-**II. Oh the places elites go**
+## II. Oh the places elites go
 
 According to Charles Taylor, for about 1000 years following the fall of the Roman Empire and the triumph of Christianity, we lived in this previously described enchanted world. There was a God, but he was not like the God of believers today. He did not present himself to us personally through individual prayer and devotion but interceded in the actual world around us. It was a world of miracles, magic, and “acts of God” (rather than natural disasters.) His immanence resided in the sacred relics of the parish church and the rituals we practiced as a community.
 
@@ -192,7 +192,7 @@ These counter trends reflect a continuing sense even into the present day that l
 >
 > _What dost thou in this living tomb?_
 
-**III. Why?**
+## III. Why?
 
 If I can distill down what my interest in the book is and what I think Charles Taylor, in his very erudite but meandering way, is trying to address, is what is happening at an experiential and perceptual level as an entire society’s worldview changes. And I think I would summarize it by saying that within a perceptual worldview certain intellectual moves are possible. But that these intellectual moves will remain purely intellectual or theoretical until there is some sort of attached moral, ethical, emotional incentive that allows them to be more widely adopted at which point it can alter or shift wider society’s perceptual worldview. This altered perceptual worldview then becomes the background for further intellectual moves.
 
@@ -230,7 +230,7 @@ This is how Taylor views our ideas about individualism:
 
 > _Individualism is the normal fruit of human self regard absent the illusory claims of God, the Chain of Being, or the sacred order of society. In other words, we moderns behave as we do because we have “come to see” that certain claims were false—or on the negative reading, because we have lost from view certain perennial truths. What this view reads out of the picture is the possibility that Western modernity might be powered by its own positive visions of the good, that is, by one constellation of such visions among available others, rather than by the only viable set left after the old myths and legends have been exploded. …The analogy should be evident between the moral death of God story, and its science-driven stable-mate, as well as epistemology. All make a crucial move which they present as a “discovery”, something we “come to see” when certain conditions are met. In all cases, this move only looks like a discovery within the frame of a newly constructed understanding of ourselves, our predicament and our identity. The element of “discovery” seems unchallengeable, because the underlying construction is pushed out of sight and forgotten. In terms of my discussion a few pages ago, all these accounts “naturalize” the features of the modern, liberal identity. They cannot see it as one, historically constructed understanding of human agency among others._
 
-**IV. Archimedes Chronophone, revisited:**
+## IV. Archimedes Chronophone, revisited:
 
 Describing the modern worldview that is neutral, objective, disinterested:
 

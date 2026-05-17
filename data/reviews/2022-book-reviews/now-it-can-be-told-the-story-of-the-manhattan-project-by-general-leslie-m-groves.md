@@ -28,11 +28,11 @@ So, a colonel walks out of a meeting, when a general pulls him aside to offer hi
 
 No, listen. The general tells him the assignment is _so_ important that the Secretary of War and the President himself had to approve it. In fact, it’s so significant, it has the potential to win the World War Two outright! Now – what does the colonel say?
 
-**I still think it should have been a bar. But fine – I don’t know. What?**
+## I still think it should have been a bar. But fine – I don’t know. What?
 
 He says – “I don’t want to stay in Washington.”
 
-**I find American jokes are mostly not very funny, and I’m afraid yours are no exception.**
+## I find American jokes are mostly not very funny, and I’m afraid yours are no exception.
 
 But it’s not a joke! It’s the start of the Manhattan Project!
 
@@ -238,7 +238,7 @@ And how, precisely, were they going to know which method was the “best” meth
 
 Yes, both their uranium enrichment processes, as well as their uranium and plutonium bomb designs, ended up working. While the first bomb dropped on Japan used uranium, the second bomb dropped on Nagasaki as well as the bomb detonated in the first nuclear test in the New Mexico desert were plutonium types.
 
-**Did they build all these plants in the middle of the desert, then?**
+## Did they build all these plants in the middle of the desert, then?
 
 No. While their bomb design lab was in the desert to keep it secret, all the rest was spread out between various labs and production sites.
 
@@ -492,7 +492,7 @@ But wasn’t the disparity in their intelligence operations more likely due simp
 
 To spy on Los Alamos? In _Arizona_?
 
-**Okay, maybe I didn’t think that one all the way through…**
+## Okay, maybe I didn’t think that one all the way through…
 
 But still, you’re right that Groves seemed very paranoid about the Germans getting nuclear weapons, right up to the end of the war. Even once his nuclear intelligence unit, Alsos, penetrated deep enough into Germany to know that they couldn’t have possibly developed a nuclear bomb, Groves was still concerned that they could have some other type of nuclear-related weapon.
 
@@ -604,7 +604,7 @@ Their problem was an incentive misalignment – they took no responsibility for 
 
 Perhaps not – but his Buddha-like calm in the face of agitated scientists and politicians certainly didn’t do the project any harm.
 
-**I assume you have an example of this mystical calm?**
+## I assume you have an example of this mystical calm?
 
 Well, take the Alamogordo test – the very first test of a nuclear bomb on Earth. Everyone involved was extremely anxious to see whether the bomb would work as intended – or whether it would ignite the atmosphere and kill everyone, or just fail to work at all, making all their efforts through the past three years amount to nothing.
 
@@ -754,7 +754,7 @@ The full name was actually the Manhattan Engineering District. Originally, it wa
 
 Your tears of disappointment are Groves’s measure of success. He valued the practical, even when everyone around him wanted to succumb to the temptation to add dramatic flair. Although, sometimes he didn’t quite manage to stop others from deviating from pure practicality in security considerations, such as when his people decided to name the nuclear intelligence operation in Italy, France and Germany, _“Alsos.”_
 
-**I don’t get it – Alsos sounds like a pretty inconspicuous name to me. Why did he object to it?**
+## I don’t get it – Alsos sounds like a pretty inconspicuous name to me. Why did he object to it?
 
 Because it came too close to the truth:
 
@@ -856,7 +856,7 @@ Well, you know what they say – nobody expects the Soviet infiltration! Except 
 
 You sound like you’re impressed with the Soviets’ speed, but they were just copying us! And it still took them longer to make their copy than it took for us to make nukes from scratch.
 
-**I respect science-by-spy as its own art.**
+## I respect science-by-spy as its own art.
 
 I’m not sure if this makes it better or worse, but the Soviets’ success at getting information from us wasn’t entirely due to their spy network. The government occasionally lent them a hand as well, to Groves’s perpetual consternation. For example, take the State Department’s involvement in publishing a secret report that was key to negotiations on an agreement over how much scientific information to share with the Soviets:
 

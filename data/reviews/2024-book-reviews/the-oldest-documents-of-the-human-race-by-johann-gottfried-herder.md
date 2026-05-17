@@ -16,7 +16,7 @@ tags:
   - Religion
 ---
 
-**I.**
+## I.
 
 If you asked me what I thought the greatest law in human history was, I’d probably default to a boringly tame answer: the first amendment, the first line of Germany’s _Grundgesetz_. Maybe if I’m trying to impress a niche crowd I’m going for the [Edict of Nantes](https://en.wikipedia.org/wiki/Edict_of_Nantes). Or maybe I say “the Five Second Rule”, and ridicule my over-earnest questioner for asking such an annoying question in the first place.
 
@@ -46,7 +46,7 @@ I’m also here on a side-quest to convince you that, no, not all German philoso
 
 And as a final welcome side-effect, this book also doubles up as a great performancing-enhancing drug for the popular hobby of Observing Sunrise (rivalling even that other great sunrise supplement, Movies By Richard Linklater).
 
-**II.**
+## II.
 
 Open up _The Oldest Documents of the Human Race_, and within a single paragraph you’ll encounter more exclamation marks than you’d see in an email from a panicked (and [statistically female](https://academic.oup.com/jcmc/article/11/4/1012/4617714)) mid-20s new hiree trying their best to avoid the spectral threat of accidentally passive aggressive prose. Herder writes with the spirit and vigour of the _[Sturm und Drang](https://en.wikipedia.org/wiki/Sturm_und_Drang)_, excoriating his opponents, mass-producing paeans to the ancients, and decrying the corruption of modern man.
 
@@ -78,7 +78,7 @@ Read Genesis like this, says Herder, and you will find not the careful and calcu
 
 This makes reading the _Oldest Documents_ a peculiarly moving exercise - one gets the repeated impression that Herder is interrupting himself, resorting again and again to the exclamation mark and increasingly to italics, capital letters or  s p a c i n g  (rendered uniformly as italics in modern editions) in an attempt to convey the all-important urgency and significance of his messages. It reads, at times, like the ramblings of a particularly literary psychosis. Like a psychotic, Herder feels himself in unique possession of an urgent truth. His mission: to “explain and salvage a _revelation from God_ that has been obscured and disfigured for millenia”.
 
-**III.**
+## III.
 
 Let’s turn to the text. The book is several hundred pages long, and Herder covers most of Genesis, unsurprisingly spending a lot of time on Moses in particular. But it’s the early chapters, on Genesis 1-3, where he really shines.
 
@@ -150,7 +150,7 @@ In any case, the discovery that 1) Adam was in some sense a priest; 2) idolatry 
 
 Not a chance.
 
-**IV.**
+## IV.
 
 Ok, I hear you say. But what does this have to do with putting the Sabbath on a political pedestal? And how is this a part of the long shadow-history of German nationalism?
 
@@ -212,7 +212,7 @@ Even worse, it’s not like just _any_ group of people can even be plausibly be 
 
 I encourage you to guess which one - the answer will be posted at the bottom of this review. If you want to hold yourself accountable you can even log your guess _[here](https://forms.gle/GQ6xkErWF2rfoc3U8)_).
 
-**IV.**
+## IV.
 
 The Germans end up taking this to the weirdest possible places.
 
@@ -238,7 +238,7 @@ Herder - a proud, scholarly and sensitive OG Lutheran - wants to put an early st
 
 _The Oldest Documents_ are his weapon of choice.
 
-**V.**
+## V.
 
 Now we can see Herder’s elevation of the Sabbath in proper light: the only real Lawgiver is God, and he communicates his Laws to us through creation. His method of instruction is _example_: he creates and then rests, and so we should do the same.
 
@@ -262,7 +262,7 @@ The Sabbath - the rule emanating from this revelation - is the origin of man’s
 
 Start taking your Sundays seriously my G’s.
 
-**VI.**
+## VI.
 
 “18th century priest reads Bible and discovers the truth of religion” is hardly a good hook for a book review. So why bother with Herder? Even if his claim about the origins of human learning and order were believable to begin with, it certainly don’t seem it now. In any case, the _Epic of Gilgamesh_ seems a likelier candidate for humanity’s oldest document. Cave paintings don’t bear much metaphysical fruit either.
 

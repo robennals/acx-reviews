@@ -37,7 +37,7 @@ Malaysia also maintained an uneasy stance toward the new nation: “Many Malay l
 
 To ward off these existential threats to its security, Singapore would need to smooth relations between ethnic groups at home, build out a modern economy from scratch, and use that economic strength to support a capable modern military, all while hopefully keeping diplomatic spats from boiling over into hot war.
 
-**The Military**
+## The Military
 
 In building a military, Lee first had to contend with the fact that the two infantry regiments on the island were under Malaysian command and largely composed of Malaysians. Their presence served as an intimidation tactic, and Lee feared they could mount a coup at Malaysia’s instigation. Despite being a thorn in Lee’s side, eventually one was deployed to serve in the conflict with Indonesia, and the other withdrew on its own in 1967.
 
@@ -51,7 +51,7 @@ The mobilization was also intertwined with delicate racial considerations:
 
 By the early 1970s, when the British were gone, Singapore was fielding a respectable defense force. In the years since, they’ve relied on economic growth to bankroll increasingly high-tech equipment and a capable officer corps.
 
-**The Economy**
+## The Economy
 
 Just as Singapore’s security situation was a challenge, the economy was moving backwards when they became independent. British military spending on the island employed 70,000 people, directly and indirectly, and accounted for 20% of Singapore’s GDP. Meanwhile, Singapore’s role as a trade entrepôt was being undercut by Malaysia’s attempts to bypass the new nation. Indonesia had also blocked trade because of ongoing poor relations. Singapore would have to carve out a new niche and break into new markets for trade. The government made a go of converting military assets to civilian use and tried to court business investment with mixed results.
 
@@ -67,13 +67,13 @@ Lee’s team sought to bolster political and social stability by structuring gov
 
 Later, special CPF accounts functioned as Health Savings Account (HSA)-like vehicles for Singaporeans, who could use the funds to pay for their share of the subsidized cost of medical procedures. In this way, over time, large portions of the social safety net were self-funding at the individual level.
 
-**Race Issues**
+## Race Issues
 
 The third major issue right out of the gate was the balance between ethnic groups. Singapore was about three-quarters ethnically Chinese (speaking multiple dialects), with most of the remainder being Tamil-speaking Indians and Malay-speaking indigenous Malays. Spoken language and the language of educational instruction generated recurring controversies. Over decades the government adopted a flexible bilingual system that used English as a common working language and either Malay, Mandarin, or Tamil as “mother tongues,” depending on ethnicity. English functioned as a neutral language that wouldn’t bias the government in favor of one ethnic group, while also coming in handy as an international lingua franca. The mother tongues supported intergenerational transmission of traditional values.
 
 This is one part of the book that felt relatively underdeveloped. In particular, the race riots in the ‘60s seem to have just petered out. It’s never outright stated whether this had to do with language policy (which received an entire chapter), improved stability in neighboring Malaysia (race riots there had precipitated the outbreak of Singapore’s 1969 race riots), or something else. Lee spends a few pages briefly summarizing a campaign to convert Malay shantytown ghettos into modern high-rises, road expansions to break up powder keg neighborhoods into smaller pockets, policies to promote racial commingling, and election reforms that promoted inclusion of minority candidates, but it was unclear what if anything was decisive in improving race relations. To my American mind this doesn’t seem like the kind of thing that could be summarized in just a few pages.
 
-**And The Rest**
+## And The Rest
 
 These were three of the big-ticket issues that Lee had to deal with in getting Singapore off the ground, but there were others to tackle as well. He had to dial back the power of unions that had inherited overly aggressive practices from the British. He also had to prevent communist factions, which had once taken over the unions and presented an organized and dangerous opposition, and which still commanded a sizable minority of support among the populace, from reemerging (more on that later). Turning around the city’s cleanliness and sanitation situation was a big project in the early years. Lee also discusses issues of governance and political process: minimizing corruption, managing the press, etc.
 
@@ -85,7 +85,7 @@ _From Third World to First_ defies quick summarizing. While grand strategy was i
 
 As a memoir, Lee’s account can’t be taken as an unbiased review of Singapore’s history (“[Since I'd achieved all of my goals as President in one term, there was no need for a second. The end.](https://comb.io/sd2bVM)”). Was the economic situation really that dire? Did mainstream development economists really advise Lee to eschew investment from multinationals? Was outright war really on the table? Are race issues being swept under the rug? But it does give us a window into the governing philosophy that motivated the country’s development. So what can we make of Singapore’s success? Unsatisfyingly for those looking for easy answers, it doesn’t seem to boil down to any one thing.
 
-**State-ish Capitalism**
+## State-ish Capitalism
 
 Most obviously, Lee explicitly embraced capitalism at a time when various flavors of socialism, or even outright communism, were in vogue across much of the Third World. A market-based system was a necessary condition for successful development.
 
@@ -114,7 +114,7 @@ Further complicating our efforts to pin down Singapore’s success is the fact t
 
 To put it lightly, the US implementation of these kinds of policies is considered at a minimum disappointing, which suggests that Singapore has a special sauce in terms of policy implementation.
 
-**Pragmatism**
+## Pragmatism
 
 A sense of calm, patient pragmatism cuts through seemingly every sentence in this book. Lee never appears to let overweening pride, ego, or wishful thinking get in the way of good decision-making. Nor does he cling to ideological commitments. Like many leaders of newly independent colonies, Lee and the other PAP founders began as anti-colonialist socialists, and they were in an unsustainable alliance with a communist faction to boot. Lee himself had gotten his start representing labor groups. With Singapore independent, he had to pivot in several of these areas. He switched to capitalism, implored the British to maintain a military presence for as long as possible, linked up economically with the First World, and reined in aggressive unions. How are leaders in most newly independent countries supposed to pull off a 180 like that?
 
@@ -140,7 +140,7 @@ The government undertook a number of social engineering initiatives over the yea
 
 > We would have been a grosser, ruder, cruder society had we not made these efforts to persuade our people to change their ways. We did not measure up as a cultivated, civilised society and were not ashamed to set about trying to become one in the shortest time possible.
 
-**Political Correctness**
+## Political Correctness
 
 For readers of a certain bent, Lee tickles his audience with an apparent lack of consideration for political correctness. The book itself has a foreword by Henry Kissinger, after all.
 

@@ -53,7 +53,7 @@ Therefore I think a heuristic that can be broadly applied to matters of foreign 
 
 Apologies for the long overture, but I felt that a theologian needs more justification than most when being presented to a modern audience.  
 
-**The Preface**
+## The Preface
 
 In the brief preface to the work, Niebuhr introduces his framework for interpreting American foreign policy: namely irony (there are other elements to his philosophy, but these more in the background of this work. I’ll touch on these other elements at the end).  
 
@@ -87,7 +87,7 @@ Why irony? Why is it useful to think about events in this way? Because the major
 
 Additionally, Niebuhr often writes under the assumption that there are many outcomes which are good for both others and ourselves. Peace is generally good for everyone involved. But, ironically we often hinder our own self-interest in these matters through stupidity and short-sightedness, from blind devotion to an ideal. Therefore, because these ironies are more likely to hurt ourselves, people will be more willing to change their ways if they are pointed out.
 
-**1 The Ironic Element in the American Situation**
+## 1 The Ironic Element in the American Situation
 
 In the first chapter, Niebuhr lists off all the ironies of the American position at the beginning of the 1950s. That the U.S. leaders accuse communist ideology of being too materialist, but that the main success of the U.S. system is in the material realm. That we espouse individualism, but our society is one of assembly lines and political parties. Plus, it’s actually in our communal actions that our individualistic society effectively resists communism (in war, in political alliances, in trade agreements). That if we were as pure and virtuous as we pretend, we could not have won the second world war.
 
@@ -99,7 +99,7 @@ The essential point that Niebuhr wants to make is that the American creeds of li
 
 “If only we could fully understand that the evils against which we contend are frequently the fruit of illusions which are similar to our own, we might be better prepared to save a vast uncommitted world.”
 
-**2 First Illusion: The Innocent Nation in an Innocent World** 
+## 2 First Illusion: The Innocent Nation in an Innocent World
 
 Niebuhr begins the analysis proper with by analyzing a series of American illusions. The first is the idea of national innocence.
 
@@ -133,7 +133,7 @@ The error in both cases is the same inadequate understanding of human evil. Powe
 
 “Yet our American nation, involved in its vast responsibilities, must slough off many illusions which were derived both from the experiences and the ideologies of its childhood. Otherwise either we will seek escape from responsibilities which involve unavoidable guilt, or we will be plunged into avoidable guilt by too great confidence in our virtue.”
 
-**3\. Second Illusion: Happiness, Prosperity, and Virtue** 
+## 3. Second Illusion: Happiness, Prosperity, and Virtue
 
 America is wealthy. So, so wealthy. We are richer than the wildest fantasies of other countries. There they dream of castle chambers swimming with gold and precious jewels, but here that would only describe the servant’s quarters for the Bezos and Musk mansions. We have so much money that we give out millions to people for[memorizing](https://en.wikipedia.org/wiki/Jeopardy!) [random](https://en.wikipedia.org/wiki/Who_Wants_to_Be_a_Millionaire_(American_game_show)) [facts](https://en.wikipedia.org/wiki/The_Chase_(American_game_show)), for living on [islands](https://en.wikipedia.org/wiki/Survivor_(American_TV_series)), for eating [bugs](https://en.wikipedia.org/wiki/Fear_Factor), or for demonstrating the knowledge of a [fifth grader](https://en.wikipedia.org/wiki/Are_You_Smarter_than_a_5th_Grader%3F_(American_game_show)#:~:text=Are%20You%20Smarter%20than%20a%205th%20Grader%3F%20is%20an%20American,a%20half%2Dhour%20in%20length.). People die when we go shopping on black Friday, and we count the [deaths](http://blackfridaydeathcount.com/).
 
@@ -151,7 +151,7 @@ The Jeffersonian theory inverts the order, but keeps the same basic equation. He
 
 Niebuhr ends on a more spiritual diagnosis. That Americans themselves are beginning to feel that the wealth that has been held up as a goal ultimately fails to provide individuals with a full sense of meaning and purpose in their lives. His early warning does seem to anticipate the spiritual rebellion of the sixties, at the height of American prosperity.
 
-**4\. The International Class Struggle** 
+## 4. The International Class Struggle
 
 But back to foreign policy. This ideology of wealth is directly harming our foreign policy.
 
@@ -165,7 +165,7 @@ Niebuhr then makes a very general cultural analysis of the South and East Asian 
 
 **Me**: Perhaps, but the U.S.’s recent failures in the middle-east should at least partially vindicate Niebuhr’s skepticism about the immediate universality of democracy. Perhaps culture doesn’t matter, and all that counts is wealth and literacy, but still, those take time to grow. Many people criticize America for siding with various regional dictators around the world, calling it a gross hypocrisy, but Niebuhr would argue that any attempt to force democracy instantly and everywhere is an idealism that is doomed to fail. Democracies are difficult to achieve and take time when they do. Therefore, it is a reasonable expediency for America to work with monarchs, dictators, and sultans when there exist greater threats. Our interference with other countries should be essentially limited to international damage control.
 
-**5\. Third Illusion: The Master of Destiny** 
+## 5. Third Illusion: The Master of Destiny
 
 This restriction to more limited goals is part of Niebuhr’s larger reaction against the possibility of managing history rationally. The American faith in rational control took two forms. In the first, early social scientists, represented for Niebuhr by John Dewey, assumed that the social sciences were going to be a straightforward as the sciences: “What men think about the peril of an atomic bomb is regarded as equally manageable with the physical forces which produce the bomb.”
 
@@ -179,7 +179,7 @@ For Niebuhr, it’s only passivity that has ironically saved the U.S. from this 
 
 “In either case, man as the spectator and manager of history imagines himself to be freer of the drama he beholds than he really is; and man as the creature of history is too simply reduced to the status of a creature of nature, and all of his contacts to the ultimate are destroyed”
 
-**6\. Triumph of Experience**
+## 6. Triumph of Experience
 
 The success of America then, ironically comes from the fact that it historically ignored it’s people like John Dewey:
 
@@ -205,7 +205,7 @@ He also argues Christianity is useful because it offers a permanent absolute per
 
 So every law and institution must be placed under constant review. This can be tricky, especially the more educated and intelligent someone is. The educated like concrete rules. We do not often trust the ‘wisdom of common sense’ in political matters. We are good at hypothesizing abuses of power and prefer strict rules that can’t be easily circumvented. Just recently Scott was trying to determine a rule for thinking about the[self-determination of a people](https://astralcodexten.substack.com/p/who-gets-self-determination?s=r) that would be concrete, reasonable, and yet also avoid giving Putin any justification for war. But for Niebuhr we can never make an absolute rule. Rules must always be revised to account for new historical data and situations. And a well-governed democracy _must_ rely to a large degree on common sense for most of its judgments. It's unfeasible to draw a strict line that can divide evil on one side from good on the other, and any such absolute line is far more dangerous than the flexibility of common-sense (although Niebuhr is naturally aware of the dangers here as well). So for Niebuhr with a situation like Ukraine, it is ok to judge on a case by case basis whether it is justifiable for one group to demand political independence. Common sense should lead us to reasonable conclusions if not always rational ones.
 
-**7\. The Significance of Irony**
+## 7. The Significance of Irony
 
 Niebuhr concludes with a meta-analysis of his own book. Is American history really ironic? Is this a useful way to think about the endless data of history? He acknowledges that one can never be sure about the truth of a historical theory. New events may always arise to refute it. But he argues that there are a few useful components to his ironic framework. First, an ironic view requires some detachment from the events. Irony implies a certain distance which is often useful to try to achieve. The framework of irony allows one to step away from the parade of historic events and achieve a new perspective.
 

@@ -18,7 +18,7 @@ tags:
 
 that played in the arena during a timeout in the second quarter of a historically sad professional basketball game.
 
-**Part I**
+## Part I
 
 When we forage, we look to the land’s vastness, for therein lies its bounty. What can be gleaned from a shoebox plot, a quarter acre, a clod of dirt fresh from the harrow? What of real nutritive value can be extracted from a serious examination of any singular moment?
 
@@ -68,7 +68,7 @@ _Pink Pony Club; I’m gonna keep on dancing down on West Hollywood…_
 
 Their team was winning by 30 points in the second quarter and would go on to win by over 50. They danced and dance there still, hoeing down and twirling lassos toward divinities too sublime to be corrupted by our sinners’ vision.
 
-**Part ii**
+## Part ii
 
 Of course, the visual material only constituted one dimension of the reckoning confronting me on that day. Let’s perform some musical analysis.
 
@@ -112,19 +112,19 @@ Are you ready to hear my confession? Know that I seek no shrift from you: only a
 
 In the context of the ice-cream changes, the V-chord operates emotionally as a sense of final triumph. The vi-chord, the relative minor, the central conflict, comes early in the harmonic narrative, immediately after the tonic, the “home” chord, hitting us where we live. Through the rising action of the IV and the eventual triumph of the V, we defeat the interlopers decisively, uncompromisingly, neatly. We might lay out the harmonic narrative thusly, taking for our example a hypothetical song in F# major for reasons that will become clear later on.
 
-**I (F# major)**
+## I (F# major)
 
 We’re home. Our fathers farmed cabbage for sauerkraut like their fathers before them, but we are called to nobler work.
 
-**vi (D# minor)**
+## vi (D# minor)
 
 The interlopers advance, burning our crops and abducting our womenfolk. From the periphery, an enormous shadow looms baleful, implacable.
 
-**IV (B major)**
+## IV (B major)
 
 Even in the darkness and turmoil, there is hope to be found. Life is stubborn as the evergreen. On Christmas, we gather those who remain and make merry, knowing it may be our last.
 
-**V (C# major)**
+## V (C# major)
 
 In great, bloody battle on the golden plains beneath the ramparts of our final citadel, we’ve overcome our enemies and expelled them from our lands. We’ve learned nothing, and nor will our children, save for the extent of our bravery and heroism on that day.
 
@@ -132,19 +132,19 @@ The narrative is cloying, formulaic. It appeals to man’s worst impulses, promi
 
 It’s for this reason that I tend to prefer the “Let It Be” changes to the narrative simplicity of the ice-cream changes. By situating the dominant prior to the vi, the relative minor, the chief antagonist or central conflict, the composition undermines our initial sense of assurance and security, decisively placing the pride before the fall. This is a story of man’s vanity and ultimately his redemption. Again, we’ll chart the harmonic narrative here by providing a prosaic analog.
 
-**I (F# major)**
+## I (F# major)
 
 We’re home. Appalachian hospitality and Momma’s country cooking.
 
-**V (C# major)**
+## V (C# major)
 
 We’ve confidently, even triumphantly, departed home and struck out for greener pastures.
 
-**vi (D# minor)**
+## vi (D# minor)
 
 Our sense of triumph has proved premature. These greener pastures reek of cow shit and we miss Momma’s country gravy. An obstacle has presented itself to be overcome.
 
-**IV (B major)**
+## IV (B major)
 
 After weeks, months, years of testing our mettle against this new terrain, we’ve hammered out a place here. Constant inundation of the olfactory mucosa with microparticles of cow feces has rendered us unable to smell the manure. Note how - and this is critical - we’ve shaped our environment while simultaneously yielding to its shaping us.
 
@@ -158,19 +158,19 @@ In contrast with the V, the ii is notably more delicate, more tonally indistinct
 
 Here’s what it looks like in context, if you’ll humor me one last time.
 
-**I (F# major)**
+## I (F# major)
 
 You know how this works by now. Sun’s coming up and John’s got cakes on the griddle.
 
-**ii (G# minor)**
+## ii (G# minor)
 
 We’re departing, but sans the foolhardy conviction of a typical leaving-home story. We feel home’s tug even as strongly as the pull of our destination, our gutstring snagged against home’s old tireswing sycamore, unraveling behind us like the thread of Ariadne.
 
-**vi (D# minor)**
+## vi (D# minor)
 
 This time, homesickness doesn’t come as a shock. We’ve felt its sharp mineral weight like a stalactite ponderously accreting in our stomach’s deepest pit. In this sense, our arrival in this far-flung land doesn’t intuitively feel like an obstacle so much as a change in scenery. The air here is lighter, drier, imparted with a dust so fine it smells like old, cool bed sheets.
 
-**IV (B major)**
+## IV (B major)
 
 Our tent doesn’t feel so lonely anymore, pitched here along the exhausted edge of the known universe. We knew we’d miss home, and packed a piece of it by which to bear remembrance: old John’s griddle. As the sun rises behind us, we see the thread that spun us here running the length of the continent, leading the way home.
 

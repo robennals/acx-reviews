@@ -34,7 +34,7 @@ In short, good theories of suicide are hard to come by. Past attempts to explain
 
 According to Joiner, the best explanation for this (and all the other data) is that a serious suicide attempt requires three distinct conditions, each necessary but not sufficient.
 
-**Desire for Death**
+## Desire for Death
 
 People usually try their best to stay alive. Why would a "desire for death'' emerge in an organism so shaped by evolution? Joiner argues that two social factors are key.
 
@@ -50,7 +50,7 @@ The second component is Perceived Burdensomeness. Suicidal people view themselve
 
 Research also supports a correlation here. One study concluded that "genuine suicide attempts were often characterized by a desire to make others better off, whereas nonsuicidal self-injury was often characterized by desires to express anger or punish oneself." Another looked at chronically ill patients who needed caregiving from their spouse. One might expect spousal support to reduce suicidality, but instead the correlation was positive - interpreted as patients’ sense of burden on their spouse.
 
-**The Ability to Enact Lethal Self-Injury is Acquired**
+## The Ability to Enact Lethal Self-Injury is Acquired
 
 Joiner asks:
 
@@ -66,7 +66,7 @@ Other forms of bodily harm accomplish the same end: cutting, IV drug use, tattoo
 
 This is a plausible framework for why certain types of people are at such high risk. For instance, the ratio of attempted to completed attempts in young people is very high (100:1 according to Joiner) but decreases dramatically in the elderly. This fits a model in which people acquire the capacity for more serious self-harm over time. Substance use is such a risk because it entails repeated provocative experiences (IV drug use, alcohol related injuries) as well as the isolation and burdensomeness of late-stage addiction.
 
-**Problems**
+## Problems
 
 At times Joiner really strains the model, while ignoring some major topics altogether.
 
@@ -80,7 +80,7 @@ Finally, Joiner rejects the possibility of impulsive suicide attempts, asserting
 
 Altogether, these are substantial flaws. The theory also doesn’t account well for established risk factors like chronic pain, insomnia, anxiety, psychosis, and feeling trapped.
 
-**Energy States and Suicide**
+## Energy States and Suicide
 
 Joiner’s most convincing move is separating a _desire_ for death from the _capability_ to self-harm. Starting from this insight, I can’t help but see a different sort of model.
 
@@ -96,7 +96,7 @@ The “favorability” of the change depends on the relative desirability of lif
 
 The “rate” is determined by the height of the barrier, or activation energy. People with high barriers are unlikely to ever attempt suicide, while those with a low barrier could act any time the desire is present. Viewing this as a barrier to overcome, rather than an acquired capacity, seems to better account for innate fear of pain and death, as well as cultural prohibitions that effectively raise the threshold for suicide. Conversely, firearms and alcohol act as catalysts, lowering activation energy by their presence. Finally, more impulsive people, kinda by definition, have lower barriers to action across the board.
 
-**Implications**
+## Implications
 
 Let’s go back to Joiner’s model, which suggests a grim future. Suicidal thoughts are already prevalent among young people, whatever your preferred sociological explanation. As these cohorts age, they will only gain more experience with various forms of self-harm, increasing the capacity for serious suicide attempts. The opioid epidemic, declining marriage and fertility rates, remote work; these trends all push in the same worrying direction.
 

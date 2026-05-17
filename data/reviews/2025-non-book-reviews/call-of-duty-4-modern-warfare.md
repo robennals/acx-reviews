@@ -51,7 +51,7 @@ This is where the game goes from great to amazing. There’s no music, just the 
 
 It’s also where the discomfort begins for me and many others. Don’t misunderstand me, I’ve never been bothered by the fact that the military doesn’t fight fair against its enemies. But bereft of heroic or light-hearted music, I can’t wholly suppress the thought that I’m a god of death circling the battlefield, hurling divine wrath on those who can’t hope to fight back. Each pull of the trigger ends lives, and even if they’re the enemies, a sense of unease settles into some recess of my mind.
 
-**Shock And Awe**
+## Shock And Awe
 
 The game switches to an American perspective at this point. Here, the player character is one Sergeant Paul Jackson, a US Marine. His experience is one of power and superiority. The visuals show a large US fleet off the shore, and many helicopters ready to drop Marines and bombs on the enemy. The music doesn’t reassure you, though, retaining the leitmotif of death never being too far away. All this technology, all these soldiers, and your speakers will remind you that it only takes a stray bullet or unfortunate grenade to end your life.
 
@@ -87,7 +87,7 @@ As his strength gives out, he collapses, swelling the ranks of the dead waiting 
 
 This. Was. Not. Normal. Games where you spent hours as a character and then just _die_ wasn’t the standard in 2007. But this game isn’t normal, and it understands that war is unfair. Sometimes, it’s unfair because you get to blow your enemies away from the sky as they run in terror, other times you can do nothing but collapse and die, one more count in the statistics.
 
-**All In**
+## All In
 
 We return to the SAS now, who are told by Nikolai that Al-Asad would never commit suicide and that that there’s a safehouse he used that should be checked out. The Russian loyalists do so and confirm that he’s present.
 
@@ -115,7 +115,7 @@ Zakhaev shows up at this point, compelled to end your existence personally. He e
 
 As the game ends, you hear that multiple nations are criticizing Russia after it claims to have conducted “nuclear tests”. Meanwhile, the search for that cargo ship from the start of the game is called off due to no leads.
 
-**The Story Is Bad…And It Doesn’t Matter**
+## The Story Is Bad…And It Doesn’t Matter
 
 Anyone who has played this game would greatly struggle to defend its story. The lack of justifications for invading a country can be handwaved, the point was to replicate contemporary reality, so the US having soldiers in the Middle East was an axiom. But there is much less defense for not having Nikolai at least _try_ to let people know about Al-Asad’s safehouse. The biggest issue is Zakhaev and the Four Horsemen. They only show up a few missions before the end, meaning the player has no investment in seeing them brought down. Nor are they fleshed out, leaving them as hollow villains that have only basic tropes to keep them from imploding.
 
@@ -149,7 +149,7 @@ But these are not the only appeals. Here’s an anecdote I got from YouTube’s 
 
 These cost quotes are rare, as are the ones about communism, the Cold War, and one from Yassar Arafat of all people. But all of them invite the player to reflect on the underlying ideas of technology, militarism, ideologies, and war.
 
-**The Beginning Of The End**
+## The Beginning Of The End
 
 _CoD 4_ was an immensely successful title, owing part of that to the experience and themes of the story. The year after, we got _Call of Duty: World at War_. Unlike previous WW2 entries, this was a fresh take that focused on the Eastern Front and the Pacific. It kept the same themes and exciting gameplay. These games were adding to the franchise’s place in the collective consciousness.
 
@@ -163,7 +163,7 @@ The series eventually became more and more distant from “boots on the ground�
 
 Still, I’m grateful for the small mercy shown in 2016. A remastered version of _CoD 4_ was released, and I encourage you to play that version instead if you are interested. It improves the visuals and audio while making small enhancements that improve the messaging and themes.
 
-**Conclusion**
+## Conclusion
 
 _CoD 4_ is a time capsule. For me and so many others, it defined an important part of the late 2000s. In the process, it forever altered the gaming and cultural landscape. Many games would go on to do what it did with their own refinement, while _Call of Duty_ became a thing everyone had _some_ awareness of. Its successors lost much of its restraint and ideas, but they were never able to capture its uniqueness, that magical moment that led to its lighting-in-a-bottle nature and why the game holds up, both in our memories and in actual substance, despite so many years passing. People still look back fondly _despite_ the technological and gameplay advancements of future games.
 

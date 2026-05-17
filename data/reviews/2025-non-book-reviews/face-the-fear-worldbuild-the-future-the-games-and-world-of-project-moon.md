@@ -155,7 +155,7 @@ Lastly, as always, [keep your eyes buttered till the end](https://www.youtube.co
 
 * * *
 
-**ENDNOTES**
+## ENDNOTES
 
 **[1]** Some fan theories like to speculate that it takes place at a specific location on the moon based on circumstantial evidence regarding the official map (hence also “Project Moon”) but the apparent scale _technically_ doesn’t fit. Though also, official sources say the population is _7 billion_, which is a similarly impossible level of population density—roughly 10 times that of the notoriously cramped [Kowloon Walled City](https://en.wikipedia.org/wiki/Kowloon_Walled_City).
 

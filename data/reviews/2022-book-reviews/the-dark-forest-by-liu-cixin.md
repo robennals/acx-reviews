@@ -34,7 +34,7 @@ All this is to say, when I initially picked up _The Three-Body Problem_ (the fir
 
 In all seriousness if you have even the most remote interest in any of the following keywords, you should not read this review and probably buy the book (that includes you Scott): _Aliens, The Fermi paradox, The Great Filter._ This review is going to contain tons of spoilers and I would sincerely hate to deprive anyone that would have a good experience reading this book from having the same experience I had with it, especially because (if by some miracle this is published) I suspect a lot of people in this audience would be those people.
 
-**I.**  
+## I.
 
 If you know anything about [The Three-Body Problem](https://en.wikipedia.org/wiki/The_Three-Body_Problem_(novel)), it's probably that Obama has [apparently read it](https://www.tor.com/2017/01/17/barack-obama-books-the-three-body-problem/). _The Dark Forest_ is the second book in _The Three-Body Problem_ trilogy and _The Three-Body Problem_ is also the name of the first book in the series. Allegedly the series is sometimes referred to as _[Remembrance of Earth's Past](https://en.wikipedia.org/wiki/Remembrance_of_Earth%27s_Past)_ but I don't think I've met anyone that calls it that. The series is written by Liu Cixin and was first published in Chinese in 2008 and in 2014 was translated to English.  
 
@@ -48,7 +48,7 @@ I love the idea of Sophons, you can think of them as close to human intelligence
 
 I think it would be a little unfortunate if Obama only read _The Three-Body Problem_ - it's easily my least favorite of the three novels but feels the least important, at least if I'm properly understanding what Cixin and this series care about. Also, if there was anyone _The Dark Forest_ was meant for, I'm guessing it would be, in ascending order of importance - (1) people who could realistically stop Earth from sending messages into space and (2) people who could make it illegal for us to send messages into space (sitting US presidents). But where _The Three-Body Problem_ is typical and fun Sci-Fi - _The Dark Forest_ is just off the wall bananas in every way.
 
-**II.**  
+## II.
 
 The Dark Forest feels special right from the premise, I love how simple it is.  
 
@@ -81,7 +81,7 @@ Clearly, despite what the cover of the book will tell you about being "rooted in
 
 To me, this stuff really isn't a problem at all, and I very much enjoyed even the magic Sophons.  
 
-**III.**
+## III.
 
 > _"This is the picture of cosmic civilization. Itâ€™s the explanation for the Fermi paradox."_  
 >         
@@ -150,7 +150,7 @@ Given what we know about the many times we've almost been wiped out, whether itâ
 
 One more thing. It's worth nothing that if this really is a new solution to the Fermi paradox that wasn't published on arXiv, it's worth asking why that is the case. If it is true that this is the answer, then why does Cixin need to pose it through fictional characters in an off the wall plot? This is not to say that reciting the theory through fictional characters makes the theory false. It's just a little suspicious.  
 
-**IV.**
+## IV.
 
 Before I can end this review I feel like I need to address the elephant in the room: _Grabby Aliens._   
 

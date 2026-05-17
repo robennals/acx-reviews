@@ -17,7 +17,7 @@ tags:
 
 **Preface**: this Russian-language book has three translations, which (in order of both publication and quality) are _Moscow to the End of the Line_, _Moscow Circles_, and _Moscow Stations._ Its title in the original Russian is “Moscow-Petushki”. Being a big-brain genius, I’ve read all three (except I didn’t finish the first one because it sucked), and the original Russian text; I’ll be referring to the work as “Moscow-Petushki” (that’s how it is generally referred to in literary journals), and will be using _Moscow Stations_ translated by Stephen Murline for quoted text throughout.
 
-**I. IF YOU WANT TO GO LEFT, GO LEFT; IF YOU WANT TO GO RIGHT, GO RIGHT**
+## I. IF YOU WANT TO GO LEFT, GO LEFT; IF YOU WANT TO GO RIGHT, GO RIGHT
 
 _“I, who have consumed so much that I’ve lost track of how much, and in what order – I’m the soberest man in the world.”_
 
@@ -129,7 +129,7 @@ _the chubbiest and best-behaved infant of them all._
 
 Venya climbs aboard the train, excited to see them.
 
-**II. GRACEFUL AND NECESSARY SELF-DESTRUCTION**
+## II. GRACEFUL AND NECESSARY SELF-DESTRUCTION
 
 I’d call Moscow-Petushki “loser-fiction” (Eduard Limonov’s messed-up ‘83 novel _Diary of a Loser,_ a Russian emigre’s fantasies of violence, homoeroticism, and resentment_,_ is the guiding star of the constellation). While Venya is undoubtedly a loser, his Brezhnev-era context questions how responsible he is for his unenviable state. Being a loser in a paper office in Slough in 2001 is different from being a loser on a rattling commuter train in 1970s Moscow. Limonov talked of always remaining loyal to the “glorious tribe of losers”, and while I’d hesitantly put Venechka amongst storytelling’s loser-tribe, I posit losers exist at both tips of a horseshoe-like spectrum, with a loser like the American boss from the Office on one tip — sorry I don’t remember is name — and Venya on another (the middle of the shoe is “not losers”). This is defined by how debased their environment is. Here’s a highly scientific diagram.
 
@@ -147,7 +147,7 @@ _Moscow-Petushki_ inverts the cringe paradigm: in this Brezhnev-era USSR world, 
 
 _I took everything out of my little suitcase, and gave it the once-over, from the sandwiches to the fortified rosé at a rouble 37. I ran my fingers over it, and suddenly felt depressed and jaded. Oh, Lord, you see before You everything I possess … But is_ this _what I need? Is_ this _what my soul hungers for? No, this is what people have given me instead. And if they’d given me what my soul hungers for, would I really have needed_ this_? You see, Lord? Have a look – fortified rosé at a rouble 37 …_
 
-**III. A SOUR MASH OF SORROW AND FEAR**
+## III. A SOUR MASH OF SORROW AND FEAR
 
 Aboard the train, Venya tells us:
 
@@ -275,7 +275,7 @@ _‘Hey, come on, old man,’ I said. ‘I’ll stand you a drink, you’ve earn
 
  We’re all on the wagon of life together; Venya knows it. In his warm heart he understands we must treat one another like brothers and sisters. Venya might be escaping from reality, but into nothing especially grandiose, and his own conception of himself seems measured; he is driven by self-pity and the pity of “the fruit of every womb”, not self-hatred or love. Those around him are not instruments of gratification but fellow sufferers. His own suffering is central, let’s grant that; he does tell his possibly-sick son he’s a lonely tree. And yet, the brotherhood of man is alive in Venya.
 
-**IV. DRINKING IN A WORLD WHERE FACTS DON’T MATTER**
+## IV. DRINKING IN A WORLD WHERE FACTS DON’T MATTER
 
 Scott Adams, the Dilbert cartoonist hated by swathes of the internet, wrote a book called _Win Bigly: Persuasion in a World where Facts Don’t Matter_ in which he brags about predicting Donald Trump’s election, and explains how he thinks he did it. In the book Adams talks about a concept called “mental filter”. People experience, Scott says, not unmediated reality but a sea of mental constructs, coloured by biases, faults, perceptions, the incomplete information we receive, and so on — that is, our mental filter. Uncontroversial so far, but Adams goes on to claim the way to evaluate if one’s mental filter is “any good” (since we don’t need to know the True Nature of Reality to live happy lives) is to ask: 1. does it make me happy and 2. is it any good at predicting the future?
 
@@ -329,7 +329,7 @@ Venya and friends are ruled by a stagnant dysfunctional system making strong obj
 
 It would also be incorrect to say that this debris finds no practical use: the Biblical references in much of Venya’s sympathies almost provide a _functional system_ for his love. The angels help, too. The debris of Christianity, as it exists in a Soviet alcoholic, infuses with grandeur and kindness both the suffering of the poor man and of those around him. With his debris, religious and intellectual, Venya is adapting to an inhumane world with the humanity he has available. He’s preserved his curiosity, energy and humanity in an alcoholic magic kingdom. It kind of works. But it can only work for so long.
 
-**VII. AN EXTREMELY NASTY RIDDLE**
+## VII. AN EXTREMELY NASTY RIDDLE
 
 ![](https://acximages.ennals.org/images/2022-book-reviews/3e3259c25bd5ca4c.jpg)
 
@@ -448,7 +448,7 @@ _“You know, it’s disgusting, those swines’ve turned my country into a shit
 
 Let’s leave the rest of the book shrouded in darkness. I will only say it’s tragedy upon tragedy. A blend of hallucinations and reality, but even the hallucinations are reality, because of course all events in this book are real. The house of cards is swept aside by a veiny Soviet arm, and everything is annihilated.
 
-**VIII. END OF THE LINE**
+## VIII. END OF THE LINE
 
 ![](https://acximages.ennals.org/images/2022-book-reviews/3dc6b9fb7edf0a62.jpg)
 

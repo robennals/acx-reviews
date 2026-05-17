@@ -353,7 +353,7 @@ You can read _r!Animorphs: The Reckoning_ by Duncan Sabien at [Archive of Our Ow
 
 * * *
 
-**Footnotes**
+## Footnotes
 
 [1] It's my understanding that the alien main character always stayed in human form, and the awful decision to use live action meant that everything needed either real animals or good CGI, both of which were too expensive for the budget, so they just didn't morph all that often.
 

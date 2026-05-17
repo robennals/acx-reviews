@@ -17,7 +17,7 @@ tags:
   - Society
 ---
 
-**I.**
+## I.
 
 One sunny morning, a few months back, my kitchen design set my nice new jacket on fire.
 
@@ -27,7 +27,7 @@ My wife was, naturally, apologetic, and she politely avoided mentioning that it 
 
 But I was mostly interested in metaphorically waving Don Norman's The Design of Everyday Things in her face and explaining how it was not her fault for turning on the wrong hotplate, nor was it my fault for leaving my jacket on the stove. The problem was _bad design_.
 
-**II.**
+## II.
 
 The Design of Everyday Things is a book with a mission. Don Norman wants to change the way we think about the relationship between us and our objects. Specifically, he argues with great conviction that almost all of what we attribute to user error should instead be put down to a failure of design. If you construct a door and subsequently discover that it is too big for the intended doorway, you don't label it "doorway error" and call it a day. The term "user error" is in most cases just as absurd. The user is a person, and people come with predictable behaviors and constraints which good design should take into account. Yet every day we interact with objects that fail at this criteria.
 
@@ -47,7 +47,7 @@ These are all failures of design under Don Norman's model. It's not enough for i
 
 The book has seen a lot of success since the first edition came out in 1988 and has helped to usher in a paradigm shift in design - user centric design, a term which Don Norman popularized. But it also has a lot of insight to offer to anyone who's ever used a thing and who plans on doing so again - so if that sounds like you, read on.
 
-**III.**
+## III.
 
 A lot of the value that The Design of Everyday Things offers is in defining a linguistic framework for thinking and talking about user centric design. Maybe this doesn't sound like an overly lofty achievement, but sometimes lacking the right language can limit the way we think. George Orwell warned us about totalitarian governments controlling our thoughts by controlling our language - but this also works in reverse. Expanding your language can open up new ways to think about the world. This is similar to the way that learning the name of a logical fallacy can make you start recognizing that fallacy everywhere. In the same way I have found that learning Norman's vocabulary has directly led to me recognizing bad design where I otherwise would not have.
 
@@ -143,7 +143,7 @@ https://www.youtube.com/watch?v=P4\_6e5IaQXM
 
 Jeremy's conceptual model is that the thermostat acts as a faucet, and wants the temperature set high to be sure that it is turned all the way on. Mark is correct that it actually operates as an on/off switch - but how would one know that without being told or doing conscious experimentation? The comment section on that video is full of people who had the same misconception as Jeremy.
 
-**IV.**
+## IV.
 
 Aside from these definitions and examples, much of the rest of the book is made up of breakdowns of the psychology behind how we interact with objects and of the processes that go into doing good design. These breakdowns can be insightful but can also tend towards tedious - the ugly diagrams of things like "The Double-Diamond Model of Design" kind of give the feeling that you're stuck in an 80s corporate training presentation.
 
@@ -173,7 +173,7 @@ Finally, my only real point of disagreement with the book - when he complained t
 
 I get the sense that Don Norman doesn't understand Lego.
 
-**V.**
+## V.
 
 Let's return to my scorched jacket, and the question of who or what was to blame. First of all, our stove (plus a narrow countertop) is positioned directly in front of the front door. The flat surface affords support for objects, which, combined with its positioning make it a convenient place to put things as you walk through the door. That day I was running around outside with my child when I got hot, took off my jacket and placed it on the nearest surface - the narrow countertop right next to the stove. My wife was late for work and was rushing around the kitchen preparing food and cleaning up at the same time. She wasn't paying full attention when she turned on the hotplate and accidentally turned the wrong dial - a mistake made possible by the poor mapping between our stove dials and their hotplates. A good signifier would have counteracted the poor mapping, but the labels next to the dials that indicate their corresponding hotplates had been mostly rubbed away. Selecting the correct dial required a process of elimination using the remaining labels, a process that my wife skipped in her rush and went off memory instead. The stove gave no feedback as to which hotplate had been turned on, and the first we knew about it was from the smell of burning plastic.
 
@@ -185,7 +185,7 @@ Bad design causes us innumerable trivial inconveniences day to day, but it can l
 
 When we're operating objects with an element of risk - stoves, cars, nuclear power plants - good design may be the only thing protecting us from our potential for catastrophic error.
 
-**VI.**
+## VI.
 
 The Design of Everyday Things was originally published in 1988, with the revised edition (which I'm reviewing here) released in 2013. How have we fared since then?
 
@@ -207,7 +207,7 @@ There is one big field that has taken user centric design to heart - software de
 
 It is also easier in software development to iterate on the user experience based on feedback. You can adjust the product post launch - a luxury that traditional industries don't have. All of this has resulted in digital experiences that are generally very easy and pleasant to use, with particularly good discoverability, signifiers and feedback.
 
-**VII.**
+## VII.
 
 So what should you take away from this book?
 

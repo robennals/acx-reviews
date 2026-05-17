@@ -20,7 +20,7 @@ _Héctor Germán Oesterheld (file No. 143), scriptwriter by profession, was born
 
 _“In November 1977 I was abducted and remained in captivity until January 1978. Héctor Oesterheld had been there for a long time. He was in terrible condition. We stayed together for a long time. One of the most terrible moments was when they brought his little five-year-old grandson. That kid was carried off after the capture and killing of Héctor's fourth daughter and son-in-law and taken to that hell pit (...) One of the most unforgettable memories I have of Héctor refers to Christmas Eve of '77. The guardians gave us permission to take off our hoods and smoke a cigarette. They also allowed us to talk to each other for five minutes. Then Héctor said that because he was the oldest of all the prisoners, he wanted to shake hands with all who were there one by one. I will never forget that last handshake. Héctor Oesterheld was sixty years old when these events occurred. His physical state was very, very poor. I don't know what his fate could have been. I was released in January 1978. He remained in that place. I never heard from him again.”_ _(1)_
 
-**II.**
+## II.
 
 “The Eternaut” is a science fiction comic book first published in Argentina as a weekly serial from 1957 to 1959. It was written by Héctor Germán Oesterheld with artwork by Francisco Solano López. “Serial” means cliffhangers. Cliffhangers everywhere. As far as the eye can see there is someone or something hanging from a cliff. Reading the whole 350 or so pages in one go has the effect of all this hanging getting a bit repetitive fairly quickly. However, there’s enough variety to keep the reader engaged. Some cliffs are actually giant beetles with light-throwing cannons, others are mind control devices about to be implanted on our hero's neck and sometimes they’re accidental Yo Mamma Jokes.
 
@@ -56,7 +56,7 @@ This snowfall has been given all sorts of different meanings over the years. For
 
 ![](https://acximages.ennals.org/images/2024-book-reviews/1e01f1303df037d1.png)
 
-**III.**
+## III.
 
 While trying, sometimes failing, to survive the snow and other groups of survivors who want their stuff, our heroes see glowing spheres falling from the sky, too slowly to be meteors. They conclude they’re probably invading spaceships and suspicions are confirmed when a bunch of planes which were apparently going to fight the aliens get blasted by a beam of light.
 
@@ -100,7 +100,7 @@ What do they care? It’s the humans who are getting exhausted.
 
 ![](https://acximages.ennals.org/images/2024-book-reviews/bd125625c8f1970b.jpg)
 
-**IV.**
+## IV.
 
 Musings about imperialism became more and more common among Latin American artists and intellectuals throughout the sixties. Many of them begin by writing “apolitical” (at least in its intentions) genre fiction or metaphysical stories and slowly, through coming into contact with each other or with the realities of the oppressed peoples in their own countries, start becoming more politicized. Most of them do it from exile, because their countries are under some form of military dictatorship. They live in Paris and write pamphlets in favor of Cuba, for example. Others take a more direct approach. That’s how a man like Oesterheld can start the decade as a staunch anti-peronist and middle class businessman who owns a small print and in his late fifties end up going underground and joining _Montoneros_, a peronist left-wing guerilla group.
 

@@ -17,7 +17,7 @@ tags:
 
 _Bowling Alone_ is a book about social isolation. The book was published in 2000, and though it is dated in some respects, the trends Robert Putnam analyzes in it (and their causes) feel more relevant than ever in 2023. _Bowling Alone_ is a dry, academic book, and can at times be a frustrating read. Still, its completionist overview of declining American engagement is a useful, sobering reference for anyone interested in one of America’s largest social ills. The book is divided into four major sections with self-explanatory titles: “Trends in Civic Engagement and Social Capital,” “So What?”, “Why?”, and “What is to be Done?” This review summarizes those four sections, provides some commentary on each, and closes with some thoughts on the broader implications of Putnam’s detailed work.
 
-**1.**
+## 1.
 
 Section One is an exhaustive compilation of how just about everything that could reasonably be called “social capital” is declining. Social capital is a wide-ranging label, meaning simply “social networks and the norms of reciprocity and trustworthiness that arise from them.” Thus, this section is the longest and driest of the book, as Putnam summarizes and presents study after survey after statistic. Opening to a random page in the first section, I find this paragraph, which is typical of the style:
 
@@ -29,7 +29,7 @@ The trends Putnam takes careful account of in section one can seem too obvious t
 
 That said, the sheer volume of evidence makes Putnam’s assertions hit with force. It’s one thing to have a hazy sense that Americans are more disengaged, it’s another to learn that while nearly 50% of American families participated in the PTA in 1960, that number fell to 15% in just twenty years. Or that the fraction of families that rarely eat dinner together doubled from 1976 to 1997. Or that we go out to bars or nightclubs half as much as we used to. Or that softball team participation dropped by a third from the 1980s to the 1990s. Or that the fraction of Americans who attended a public political meeting dropped by 40 percent between 1973 and 1999. Or that monthly charitable giving declined from 50% to 30% in fifteen years. Or that 20% fewer Americans agree that “most people can be trusted.” Nearly everywhere Putnam turns, he finds evidence of a more sickly body politic, and the more facts he accumulates, the more the decline in social capital starts to feel like an invisible sickness eating away at every aspect of American life.
 
-**2.**
+## 2.
 
 Most people would agree that isolation and weaker social bonds are bad. Putnam feels obligated to prove it. The section entitled “So What?” attempts to catalog the impact of the decline in social capital, with mixed results. Putnam is forced to grapple with the fact that the idea of “social capital” is extremely broad, encompassing almost everything we do with other people. This makes it difficult to tease out its effects, especially if different varieties of social capital pull in different directions.
 
@@ -55,7 +55,7 @@ Again, Putnam’s diligence is his own worst enemy here: this chapter, in my min
 
 So, there you have it: socializing is good, and isolation is bad. While this section contains some interesting insights, especially on the importance of strong communities for democracy, it largely weakens the book, as Putnams desire for careful, rigorously supported reasoning prevents him from making a case more appealing than any layperson’s gut feelings.
 
-**3.**
+## 3.
 
 So we’ve established that social capital is declining, and we’ve agreed that this is bad. _Why_ is it happening? This is the most interesting part of the book. It’s got a little something for every ideological bent, as Putnam considers plausible reasons from across the ideological spectrum: loss of small businesses, racial integration, the welfare state, and more! He gives most of these considerations a light touch, disclaiming them as outside the scope of his book, but he focuses on four trends he believes to be prime culprits: women entering the workforce, urban sprawl, television, and boomers.
 
@@ -99,7 +99,7 @@ This generational shift is the most intractable of the four factors. Unfortunate
 
 Putnam closes the chapter by giving hard numbers for how much these factors have contributed to social decline. He assigns 10% of the blame to two-career families, 10% to urban sprawl, 25-40% to television, and 40% to generational differences. He derived these numbers by asking “how would civic participation or social capital have declined if the relevant factors…had _not_ changed over the last third of the twentieth century,” and comparing that to the actual rate of decline. He acknowledges that this approach has limitations, and that the numbers are “rough and ready,” but they provide a clear and easy summary in a book reluctant to make hard claims about much of anything.
 
-**4.**
+## 4.
 
 _Bowling Alone_ is a difficult book to summarize. There’s essentially no filler: every paragraph is a new summary of four different studies, many of which end up being unrelated or contradictory to the overall claim Putnam is making. Indeed, it’s sometimes difficult to parse out exactly _what_ he’s claiming, if anything–he flits from study to study, discarding a theory here, weakly endorsing a theory there, and remarking on things he finds suggestive or curious; but he’s often reluctant to be pinned down to a larger opinion. His most definite claims are about why all of this happened, but even those are fairly disparate and disconnected.
 

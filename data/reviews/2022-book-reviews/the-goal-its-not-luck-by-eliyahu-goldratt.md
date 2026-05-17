@@ -26,7 +26,7 @@ I should probably mention now that, in case anyone wanted to read these books fo
 
 For those who haven’t been through business school, or haven’t heard of Goldratt, he espouses what he calls the “Theory Of Constraints” as a way of diagnosing, analyzing, and solving business problems. In _The Goal_ (to which _It’s Not Luck_ is a direct sequel), our hero, Alex Rogo, is the general manager of a struggling factory producing generic widgets for a faceless conglomerate. Globalization is taking its toll (this is the mid 80s), operations are a mess, and all of the stress is causing strain on Alex’s marriage. As a final blow, he’s told that his factory will be closed in 90 days if it can’t turn its finances around.
 
-**The Goal**
+## The Goal
 
 In his hour of need, Alex turns to his old physics-professor-turned-business-consultant named Jonah (Goldratt’s self-insert), with whom he had recently had a chance meeting. Over a brief conversation, Jonah immediately puts his finger on the factory’s most pressing issues, and leaves Alex with a question: “What is the goal of a company?” Spoiler alert: the goal is to make money, but it takes Alex a surprisingly long time to arrive at that conclusion. His intuition about his own company is warped because the metrics by which he understands his business are flawed. The rest of the book is about undoing that warping, and about establishing metrics that will lead _toward_ The Goal, rather than away from it. Along the way, Alex returns his factory to profitability, saves both his factory and his marriage, and secures a promotion for himself in the process. Yay!
 
@@ -48,7 +48,7 @@ The core insight of the book is that the throughput of the bottlenecks _IS_ the 
 
 And if this was where the book ended, it would be a great book about lean manufacturing, but probably not one that I’d feel compelled to write about. Lest we view the topic too narrowly, I return to the first of my two questions: “What’s the right thing to do?”, or in other words, “What’s the goal?” Alex eventually asks this question about both his marriage and his new promotion. Neither of those problems yield easily to the same analysis that he performed on his plant and, with a nudge from Jonah, he realizes that what he really needs is a generic set of management tools. Ones that can cut through large piles of facts toward real insights and root causes. Goldratt presents these tools primarily in _It’s Not Luck_, and dubs them the “Thinking Processes”. They’re explicitly designed to answer these questions: What to change?, What to change to?, and How to enact the change?.
 
-**It’s Not Luck**
+## It’s Not Luck
 
 The book is rather breathless about something as obvious as applying inductive and deductive reasoning to management problems (or any other problems that a person might have), but I must concede Goldratt’s frequent assertion that “common sense is not so common”--and Alex ends up pursuing this direction with far more rigor than most of us ever do.
 
@@ -58,7 +58,7 @@ When we rejoin Alex Rogo at the beginning of _It’s Not Luck_, several years ha
 
 And as much as I’d love to walk through the three companies, the various issues they face, their solutions, and Alex’s friendly sparring with a pair of the board members, they are the canvas in this book, rather than the painting. With the “Thinking Processes”, Alex already has the tools he needs to resolve his issues. The meat of the book is in learning what the processes are and how to put them to good use.
 
-**The Evaporating Cloud**
+## The Evaporating Cloud
 
 The first thinking process we are exposed to is known in the TOC literature (why yes, there _is_ TOC literature!) as the “Evaporating Cloud”, and its objective is conflict resolution. Why Goldratt chose a “cloud” metaphor isn’t clear to me, but this tool comes in the form of a diagram framing the conflict at hand. An example (with content paraphrased from a conflict described on an ACX open thread) looks like this:
 
@@ -88,7 +88,7 @@ And your cloud has been broken.
 
 These are simple examples for people who are being introduced to this mode of thinking for the first time and a bit tedious to specify, but the value in being this meticulous is the airtight logic chain that you’re building. Perhaps you don’t know for sure if charter schools will provide a satisfactory environment, but you now have a well-formed, specific question to answer in order to get out of your conflict.
 
-**The Negative Branch**
+## The Negative Branch
 
 Coming up with a solution to break a cloud is easy when injections are hypothetical. Actually implementing a solution, however, comes with a host of risks and unintended consequences. The goal of the “negative branch” diagram is to systematically identify and “trim” the risks and drawbacks of a given solution. The same terminology regarding injections, and the methodology for building logical chains of cause and effect are in force here.
 
@@ -107,7 +107,7 @@ In the situation with Alex and his son, this diagram is utilized as both proof t
 
 Goldratt doesn’t mention this, but it strikes me as a crucial precondition for this sort of conversation that both parties need to be engaging in good faith. It would certainly be possible to argue and split hairs at each logical juncture to eventually respond “Your argument is invalid, now I get the car”, but what Goldratt does demonstrate is that it is to both parties' advantage to engage in good faith. Dave eventually proposes an extended “cooling off” period where he doesn’t ask to use the car after Alex’s trip, targeted at defusing proposition #2. Both sides see this as a win–Alex gets an extended period without Dave pestering him, and Dave gets to use the car without serious restriction while Alex is on his trip. It’s not the only solution that could have trimmed this branch, but the fact that it was arrived at together means that both parties are invested in both the problem and the solution.
 
-**Current Reality Tree**
+## Current Reality Tree
 
 Breaking clouds and trimming negative branches are both important, but impossible if you don’t understand the big picture. This is where the Current Reality Tree comes into play. Current Reality Trees are large and complex, and we really only get one example of how to construct and use one. Over drinks during this aforementioned business trip, Alex gets cornered by the two board members (Jim and Brandon) he’s accompanying. Despite the fact that they’re selling his companies, they’re still quite impressed by what he’s done with them, and want to know what his secret is.
 
@@ -119,7 +119,7 @@ Once you feel like you have a representative sample of UDEs, the goal is to join
 
 Finding a root cause is not the end result of a current reality tree, however. Once you’ve got the lay of the land, it’s time to find the inherent conflict that is driving the root-cause UDE. Look back through the tree again, and it shouldn’t be hard to spot. Once Alex creates this tree, he tries leveraging it to create a truly breakout solution, but his initial attempt at breaking his conflict cloud fails. Not because the solution doesn’t work, but because it doesn’t work _well enough_. Breaking a cloud is good, but not all methods of breaking the cloud are created equal. Some solutions are more powerful than others, and so Alex goes back to the cloud and begins working on a different arrow, looking for a more powerful solution.
 
-**Future Reality Tree**
+## Future Reality Tree
 
 That new solution Alex finds manifests in the form of a few related strategic objectives. The objectives look like impossibilities when they are first articulated. And so, after all of that preparation, the real work begins–constructing the Future Reality Tree.
 
@@ -127,7 +127,7 @@ A Future Reality Tree functions much like a proof of a mathematical postulate. Y
 
 Negative Branches make an appearance here as well, and not just for checking that a proposed solution is acceptable. They are also used to, in Goldratt’s words, “trim the wings of the flying pigs” that can be created while performing pie-in-the-sky injections to create powerful conflict resolutions. For this negative branch, you’re creating a logical tree to describe why a given solution will not work. At some point, your positive action will lead to a negative result. Focus on the arrow connecting those two concepts and surface the assumptions and conflicts embedded within it to find additional injections that will trim the negative branch. If you can accomplish this, then you have both proven out your solution and created a road map for how to get there.
 
-**FInal Thoughts**
+## FInal Thoughts
 
 Goldratt pulls no punches when it comes to selling the thinking processes. I roll my eyes right along with Alex when he remembers Jonah insisting things like: “This method will always create a win-win solutions.” At the end of the day, Goldratt is a consultant, and despite what the marketing says, no tool is correct for every job. But when I read his books, I become a believer in spite of myself. There’s been a fair amount of [academic work](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.515.7603&rep=rep1&type=pdf) done on these processes, and what I’ve seen of it indicates that these ideas are typically very impactful and at the least, have done no harm. (Although the standard disclaimers about small sample sizes and inconsistent reporting absolutely apply here.)
 

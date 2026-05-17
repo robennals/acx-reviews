@@ -109,7 +109,7 @@ Lévy recounts one particularly disturbing incident, of which I had not been awa
 
 I shared his concern that the pandemic was allowing some of us (maybe myself included) to bask in our human desire for isolated, disinfected perfection. We would have no fear of missing out if there was nothing going on away from our Netflix couches, our home yoga studios, and our restaurant delivery. Lévy, however, warns: “alas, we were well on our way to forgetting the world. It had been bothering us for ages. It had been a little dirty. We had been trying for a long time to keep it at a distance. _That_, at least, was accomplished.”
 
-**Conclusion**
+## Conclusion
 
 I didn’t come away persuaded of anything I hadn’t already thought. And that is despite being very much inclined to agree with the writer and, indeed, likely more skeptical of almost all pandemic restrictions than Lévy appears to have been. One man’s madness is another man’s reasonable precaution is another man’s understandable error.
 

@@ -19,11 +19,11 @@ tags:
 
 **Abstract:** The “4E” approach to cognition argues that cognition does not occur solely in the head, but is also embodied, embedded, enacted, or extended by way of extra-cranial processes and structures. Though very much in vogue, 4E cognition has received relatively few critical evaluations. This review performs such an evaluation with reference to The Oxford Handbook of 4E Cognition, which represents the most recent research in this area
 
-**Book under review**
+## Book under review
 
 Albert Newen, Leon de Bruin, and Shaun Gallagher. 2018. The Oxford Handbook of 4E Cognition. Oxford: Oxford University Press. 960 pages. Hardcover $165.00.
 
-**Review**
+## Review
 
 We have categories for three types of cognition: organic, artificial, and supernatural. Most organic cognition that we know of is carried out by fish and arthropods, which together make up eighty-five percent of Earth’s non-vegetable biomass (Bar-On, Phillips, and Milo 2018). Artificial cognition is relatively new, but already able to outperform human judgment in a range of specialized tasks (Goodfellow, Bengio, and Courville 2016). We have no evidence whatsoever that supernatural cognition exists, and it would probably do us a great deal of good to stop looking for it.
 

@@ -16,7 +16,7 @@ tags:
   - Psychology
 ---
 
-**I**
+## I
 
 I am against book reviews in principle, but cash prizes are okay.
 
@@ -28,7 +28,7 @@ I read _Lost in the Cosmos_ by Walker Percy for the first time as a teenager. It
 
 Essentially what I will be presenting is why I think this is not the case, why I think that _Cosmos_ is actually very brilliant even if melodramatic, and how it expresses some real genuine care for people who don’t understand themselves – which, of course, is everyone.
 
-**Prelude**
+## Prelude
 
 Walker Percy once said this about art:
 
@@ -70,7 +70,7 @@ He claims this is actually a real study performed (I have not checked), and that
 
 > If you checked (both) – 60 percent of respondents did – how can that be?
 
-**II**
+## II
 
 If you take the preliminary quiz and you are determined to be a lost self, then begins the greater “20 question quiz”, where he asks about why various “selves” do the things they do and have contradicting desires and actions. Each self has at least one chapter devoted to it, and what seems to be the introductory period of the book is actually made up of the first 12 selves. Between that and the other selves there is a break in the book, what he calls “… an intermezzo of some forty pages, [that] can be skipped without fatal consequences.”
 
@@ -152,7 +152,7 @@ Would it make you feel better if, suddenly, you see Charlie walking in front of 
 
 How can you both want to be a hero and want people to die?
 
-**III**
+## III
 
 It can be hard to tell whether Percy is saying meaningful things or if he’s just being melodramatic with good style. For example, in “The Self as Nought” chapter, he asks why people want to repurpose old junk like a lobster cage or a coca cola sign as a table instead of just having a real table. Here are the answers he offers:
 
@@ -172,7 +172,7 @@ In the same way, you can offer up dozens of matter-of-fact explanations for the 
 
 The problem is, you can offer up these totally normal-sounding answers for _why_ we have a particular unpleasant or existential feeling, but _they never actually make you feel better_. So I’m a stressed and anxious monkey with a cell phone. Now I know I’m a stressed and anxious monkey with a cell phone, and guess what? I’m still a stressed and anxious monkey with a cell phone.
 
-**IV**
+## IV
 
 Mother Teresa once made a comment about how she thought people in the US seemed extremely poor, poorer than the individuals she dedicated her life to in India. How is it that people with so much can seem so _sad_?
 
@@ -232,7 +232,7 @@ And then it kind of hits you. I’ve been thinking Percy is at least kind of stu
 
 Absolutely kills any thoughts you had about being smarter than people.
 
-**V – The Demoniac Self**
+## V – The Demoniac Self
 
 The Demoniac self is not exactly what it sounds like. It’s a term borrowed from Kierkegaard, that essentially means the erotic, _viewed as a possessive spirit_. This is a way of viewing eroticism that he and Percy argue did not exist before Christianity. That is, the Greeks, for example, still had sensuality, obviously, but they did not view it as a thing to be “kept in check”. They saw it as an expression of order and beauty, not a possession of the self. The latter idea is now so ingrained that it’s difficult to think of the word “erotic” without this meaning implicit in it.
 
@@ -300,7 +300,7 @@ What if Brave New World is actually better looking than what’s coming? What if
 
 The last two chapters of Percy’s work are miniature novels, both titled _A Space Odyssey_. In one, humans discover extraterrestrial intelligences, in the other, they don’t. A play on the Arthur C. Clarke quote, “Two possibilities exist: either we are alone in the Universe or we are not. Both are equally terrifying.” I won’t even attempt to unpack them, I couldn’t do that, and it would spoil them, too. I have really revealed almost nothing out of this book. It’s filled with much more strangeness, more “aha” moments and more eyebrow raising. Reading it certainly doesn’t seem to give many answers.
 
-**VI - Check One**
+## VI - Check One
 
 Think back to the preliminary short quiz to determine if we were a lost self. Perhaps this can justify the strangeness of the book: he does not force you to read it. If you can answer the questions to your own satisfaction, then you don’t have to listen. If you don’t want to listen to existential musings, you don’t have to. But if you can’t answer these questions – and it seems audacious to claim otherwise – then what’s the harm with one more opinion?
 
