@@ -15,20 +15,6 @@ tags:
   - Psychology
 ---
 
-[I- Prologue](#h.vvgbazi9diiv)
-
-[II- The Core Observation](#h.8yi2lgs5jsx5)
-
-[III- The Realm of the Potentially Traumatic](#h.amj1bxy0gx0u)
-
-[IV- “Won’t Somebody Please Think of the Children!?”](#h.6lskd7nxo2hc)
-
-[V- A Continuum of Parenting, With Sundry Bad Examples, and an Appearance by The Last Psychiatrist](#h.fwkad2ch1irw)
-
-[VI- Resilience](#h.pugs75ro1h3w)
-
-* * *
-
 ### I- Prologue
 
 Years ago, I volunteered to accompany my son to a weeklong Boy Scout camp. It was an afternoon near the middle of our stay when an incredibly fast-moving thunderstorm arrived. I had gone to take a much-needed shower. When I entered the bathhouse the sky was clear and sunny, but by the time I was done the camp was engulfed in a tempest of rain and lightning. I waited out the worst of it before emerging to check on our camp. Everything was drenched, and the A-frame, where we also kept much of our gear, had collected a giant pool of water in one corner. I was attempting to deal with it all when a scout stumbled into camp sobbing. One of the other boys had been struck by lightning.
