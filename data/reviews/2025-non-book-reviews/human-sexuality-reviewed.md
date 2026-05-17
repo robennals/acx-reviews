@@ -121,16 +121,14 @@ As with HSH, low status hotness has different versions, based on dominance and p
 So, to summarize, there are two main types of sexiness the human brain can experience. These are tied into the status system, and each have their own two main subcategories:
 
 1.  High Status Hotness (HSH)
->
-*   Dominance-based HSH: Controlling, commanding, potentially causing pain/discomfort
-*   Prestige-based HSH: Skilled, making partner feel incredible pleasure, being admired
->
-2.  Low Status Hotness (LSH)
->
-*   Dominance-based LSH: Being controlled, submitting, potentially receiving pain
-*   Prestige-based LSH: Being desired by a high-value partner, being the focus of attention
+    *   Dominance-based HSH: Controlling, commanding, potentially causing pain/discomfort
+    *   Prestige-based HSH: Skilled, making partner feel incredible pleasure, being admired
 
-![](https://acximages.ennals.org/images/2025-non-book-reviews/e2b0bf8f500ff49b.png)
+2.  Low Status Hotness (LSH)
+    *   Dominance-based LSH: Being controlled, submitting, potentially receiving pain
+    *   Prestige-based LSH: Being desired by a high-value partner, being the focus of attention
+
+![](https://acximages.ennals.org/images/2025-non-book-reviews/097e4c974f330c78.png)
 
 Is this turning into a magic system-esque typology? Slightly, but I think this framework does the best job of explaining the complexity of human sexuality. High and low status are real and ancient, and the dominance and prestige model does the best job of explaining what the components of status are. Combine them together, and this is what you get.
 

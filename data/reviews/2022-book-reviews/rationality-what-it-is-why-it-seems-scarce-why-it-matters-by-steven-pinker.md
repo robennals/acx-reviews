@@ -93,14 +93,12 @@ Fighting over what words mean is common in politics and philosophy.
 *   St. Paul redefined the Greek word _pistes_ (translated "faith") from meaning "having a certain proof of something" to "believing something without any evidence".[zzfaith]
 *   Platonists have always translated _dikaisyne_ into English as "justice", rather than as "righteousness" (as the New Testament does), or as "custom", in order to associate totalitarianism with justice rather than with tradition and religious fervor.
 *   Humanists define "freedom" as freedom _to_ do things: to own property, to sell your property or your labor, and to say what you want.  Marxists define "freedom" as freedom _from_ things, especially poverty and hunger.
->
-*   The Marxists got the last word by perversely defining "freedom to do things" as _negative freedom_, and "freedom from want" as _positive freedom_.
->
+    *   The Marxists got the last word by perversely defining "freedom to do things" as _negative freedom_, and "freedom from want" as _positive freedom_.
+
 *   Hegel defined "freedom" as "complete subservience to an authoritarian state", arguing that freedom was the ability to accomplish things, which individual could do only as members of the state.
->
-*   This was what the Nazis (who were Hegelians) meant by "Arbeit macht free".
-*   This is what Orwell was making fun of in _1984_ with "Freedom is Slavery".
->
+    *   This was what the Nazis (who were Hegelians) meant by "Arbeit macht free".
+    *   This is what Orwell was making fun of in _1984_ with "Freedom is Slavery".
+
 *   The French Revolution, Marxism, and the social justice movement defined "equality" as "equal outcome" rather than "equal opportunity" or "equality before the law".
 *   The anti-racist movement calls treating people the same regardless of their race "racism".
 
@@ -592,26 +590,23 @@ It took decades for the Nazi metaphysics of the French and German academies to p
 Today's Social Justice movement, and the anti-racist movement in particular, use a lot of Nazi
 
 *   slogans and values
->
-*   "awakening"
-*   from Heidegger, through the existentialists, "authenticity"
->
+    *   "awakening"
+    *   from Heidegger, through the existentialists, "authenticity"
+
 *   philosophical principles
->
-*   from phenomenology and existentialism, subjective "lived experience" instead of science or rationalism as epistemology (e.g., Flynn 2006 p. 5-6, 17-21)
-*   from Schopenhauer[zzhitler] and Nietzsche via Foucault, "will to power" as the only motive for action[zzgorgias]
-*   from Rousseau via Nietzsche, Spengler, and Foucault, civilization as a corrupting influence or power structure
-*   art as purely political
-*   from Schopenhauer, Marx, Nietzsche, and the existentialists, a view of modern "bourgeois" life as greedy and dismal
-*   from Hitler and earlier racial essentialists, the location of soul, agency, moral status, soul, and essence in the race rather than in individuals (e.g., Waite 1977 p. 29, 80)
-*   from (Spengler 1922/1926), races as having their own essential nature and cultural _telos_, and every race as having its own sciences and mathematics, all different and equally valid
->
+    *   from phenomenology and existentialism, subjective "lived experience" instead of science or rationalism as epistemology (e.g., Flynn 2006 p. 5-6, 17-21)
+    *   from Schopenhauer[zzhitler] and Nietzsche via Foucault, "will to power" as the only motive for action[zzgorgias]
+    *   from Rousseau via Nietzsche, Spengler, and Foucault, civilization as a corrupting influence or power structure
+    *   art as purely political
+    *   from Schopenhauer, Marx, Nietzsche, and the existentialists, a view of modern "bourgeois" life as greedy and dismal
+    *   from Hitler and earlier racial essentialists, the location of soul, agency, moral status, soul, and essence in the race rather than in individuals (e.g., Waite 1977 p. 29, 80)
+    *   from (Spengler 1922/1926), races as having their own essential nature and cultural _telos_, and every race as having its own sciences and mathematics, all different and equally valid
+
 *   tactics (all but "control the dictionary" are spelled out in Hitler 1926)
->
-*   control the media; control the narrative; control the dictionary
-*   control the educational system and the universities
-*   motivate people with rage and hatred
-*   mob, bully, deplatform, fire, and dehumanize opponents
+    *   control the media; control the narrative; control the dictionary
+    *   control the educational system and the universities
+    *   motivate people with rage and hatred
+    *   mob, bully, deplatform, fire, and dehumanize opponents
 
 The Social Justice movement (SJM) inherited all of these from continental philosophy, and chose them for the same reasons the Nazis did:  because they're tailor-made to help destroy an existing culture in order to replace it with something completely different.  But they were also tailor-made to replace reason with irrationality.  No amount of philosophizing based on these ideas can create a movement that allows reason to thrive.  The existentialists tried, but the best Sartre could achieve was a gloomy and illogical nihilism, one which justifies any action one chooses solely because one chooses it, in which the only value is the freedom to choose between meaningless alternatives (e.g., Flynn 2006 p. 45-48)[zzbn].  No wonder it produced such gloomy and nihilistic plays (Sartre, Beckett).
 

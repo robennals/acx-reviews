@@ -44,10 +44,9 @@ Jaynes wants to formalize weak syllogism like the ones above, and does that by i
 1.  Degrees of plausibility are represented by real numbers.
 2.  Qualitative correspondence with common sense.
 3.  Consistency
->
-1.  If a conclusion can be reasoned out in more than one way, then every possible way must lead to the same result.
-2.  The robot always takes into account all of the evidence it has relevant to a question.
-3.  The robot always represents equivalent states of knowledge by equivalent plausibility assignments.
+    1.  If a conclusion can be reasoned out in more than one way, then every possible way must lead to the same result.
+    2.  The robot always takes into account all of the evidence it has relevant to a question.
+    3.  The robot always represents equivalent states of knowledge by equivalent plausibility assignments.
 
 The motivation for building a robot is that this can be an objective, computational method that is compatible with human intuition including the weak syllogism. At this point, it’s not clear that the robot is optimal, but there is a lot of value in the ability for the robot to match ‘common sense’.
 

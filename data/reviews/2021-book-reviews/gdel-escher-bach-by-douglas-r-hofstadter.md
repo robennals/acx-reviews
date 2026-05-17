@@ -105,9 +105,8 @@ The tq-system:
 *   Allowable characters: t, q, -
 *   Axiom: -t-q-
 *   Rules:
->
-*   Rule I: given a string _x_t_y_q_z_ where _x_,_y_,_z_ are strings consisting of only hyphens, you can form _x_-t_y_q_zy_
-*   Rule II: given a string _x_t_y_q_z_ where _x,y,z_ are strings consisting of only hyphens, you can form _x_t_y_-q_zx_
+    *   Rule I: given a string _x_t_y_q_z_ where _x_,_y_,_z_ are strings consisting of only hyphens, you can form _x_-t_y_q_zy_
+    *   Rule II: given a string _x_t_y_q_z_ where _x,y,z_ are strings consisting of only hyphens, you can form _x_t_y_-q_zx_
 
 Unlike the MIU-system, the tq-system comes with an _interpretation_ which converts strings of the formal system into meaningful statements in some _context_. In this case, the context is “multiplications,” and the interpretation looks like
 

@@ -310,17 +310,15 @@ Having spent so much time tearing down what Silver considers his most important 
 *   Don’t overfit[[17]](#ftnt17) based on past cases.
 *   Low-probability events sometimes[[18]](#ftnt18) happen.
 *   Don’t trust a forecaster with a poor record.
->
-*   Corollary = don’t trust highly precise forecasts with records of low precision.
-*   Corollary = know your forecast’s range of uncertainty.
->
+    *   Corollary = don’t trust highly precise forecasts with records of low precision.
+    *   Corollary = know your forecast’s range of uncertainty.
+
 *   Change your forecast when the evidence changes.
 *   Beware the comprehensive model and the quick fix.
 *   Patterns are not the same thing as signal.
 *   More data = more noise.
->
-*   Corollary: The hypothesis-free approach is prone to hallucination.
->
+    *   Corollary: The hypothesis-free approach is prone to hallucination.
+
 *   Averages may conceal complexity.
 *   Don’t overlearn from computer[[19]](#ftnt19) model outputs.
 *   Don’t just extrapolate a trendline.

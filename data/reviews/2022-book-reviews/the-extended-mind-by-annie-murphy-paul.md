@@ -65,14 +65,12 @@ _From “Thinking with Our Relationships”…_
 
 *   In a computer science course, shifting from a lecture model to [a small-group tutoring model reduced the fail rate](https://www.cs.uni-potsdam.de/ti/kreitz/PDF/14sigcse-teaching-theory.pdf) from as high as 60% to 10% (164).
 *   Trauma surgeons asked to explain how they perform an operation “[neglected to cite nearly 70 percent of the actions](http://anitacrawley.net/Resources/Articles/2008Cognitive%20task%20analysis.pdf) they performed during the procedure” (181)
->
-*   (Interpretation: “Experts are able to articulate only about 30 percent of what they know.”)
->
+    *   (Interpretation: “Experts are able to articulate only about 30 percent of what they know.”)
+
 *   Performance on the classic [Wason Selection Task](https://en.wikipedia.org/wiki/Wason_selection_task) improves from [10% to 75% when it requires](http://cogsci.bme.hu/~ktkuser/KURZUSOK/BMETE47MN05/2017_2018_2/Griggs_Cox_1982_The-elusive-thematic-materials-effect-in-Wasons-selection-task.pdf) _[social](http://cogsci.bme.hu/~ktkuser/KURZUSOK/BMETE47MN05/2017_2018_2/Griggs_Cox_1982_The-elusive-thematic-materials-effect-in-Wasons-selection-task.pdf)_ [reasoning](http://cogsci.bme.hu/~ktkuser/KURZUSOK/BMETE47MN05/2017_2018_2/Griggs_Cox_1982_The-elusive-thematic-materials-effect-in-Wasons-selection-task.pdf) vs. pure logical reasoning (193).
->
-*   _Original task:_ “Take a look at the cards shown here. Each card has a vowel and a consonant on one side and an even or an odd number on the other. Which card or cards must be turned over in order to determine whether it is true that _If a card has a vowel on one side, it has an even number on the other?_” [Visible card faces = E; K; 3; 6]
-*   _Social version:_ “You are serving at a bar and have to enforce the rule that if a person is drinking beer, they must be 21 years of age or older. The four cards shown here have information about people sitting at a table. One side of the card tells you what a person is drinking, and the other side tells you their age. Which card or cards must you turn over to see if the rule is being broken?” [card faces =  over 21; under 21; alcoholic beverage; nonalcoholic beverage]
->
+    *   _Original task:_ “Take a look at the cards shown here. Each card has a vowel and a consonant on one side and an even or an odd number on the other. Which card or cards must be turned over in order to determine whether it is true that _If a card has a vowel on one side, it has an even number on the other?_” [Visible card faces = E; K; 3; 6]
+    *   _Social version:_ “You are serving at a bar and have to enforce the rule that if a person is drinking beer, they must be 21 years of age or older. The four cards shown here have information about people sitting at a table. One side of the card tells you what a person is drinking, and the other side tells you their age. Which card or cards must you turn over to see if the rule is being broken?” [card faces =  over 21; under 21; alcoholic beverage; nonalcoholic beverage]
+
 *   For athletes and dancers, “[moving in unison increases endurance](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2817271/?mod=article_inline) and [reduces the perception of physical pain](https://royalsocietypublishing.org/doi/full/10.1098/rsbl.2015.0767)” (218).
 
 Along the way, Paul also racks up a bank of mind-extension vocabulary—a useful and intuitive language for discussing learning/knowledge work. Here, again, are some of my favorite examples, with the originator of the phrase indicated when relevant:

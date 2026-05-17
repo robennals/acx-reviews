@@ -906,10 +906,9 @@ If you take away anything from this review, take these points:
 *   Quotes are from _Unsettled_ unless otherwise sourced.
 *   “All models are wrong; some are useful” is a quote attributed to [George Box](https://en.wikipedia.org/wiki/George_E._P._Box).
 *   Predictably, Koonin experienced several…reactions to his public stance.
->
-*   Scientific American: _[A New Book Manages to Get Climate Science Badly Wrong](https://www.scientificamerican.com/article/a-new-book-manages-to-get-climate-science-badly-wrong/)_. And a later [review of](https://www.scientificamerican.com/article/that-obama-scientist-climate-skeptic-youve-been-hearing-about/) _[Unsettled](https://www.scientificamerican.com/article/that-obama-scientist-climate-skeptic-youve-been-hearing-about/)_ from them as well.
-*   Koonin responds to some of the backlash in a [medium article](https://steven-koonin.medium.com/my-response-to-a-scientific-american-hit-piece-7b5811141137) that directly calls out the Scientific American article as a hit piece.
-*   After a cursory examination I have Koonin winning this “exchange,” but I didn’t put too much effort into it.
+    *   Scientific American: _[A New Book Manages to Get Climate Science Badly Wrong](https://www.scientificamerican.com/article/a-new-book-manages-to-get-climate-science-badly-wrong/)_. And a later [review of](https://www.scientificamerican.com/article/that-obama-scientist-climate-skeptic-youve-been-hearing-about/) _[Unsettled](https://www.scientificamerican.com/article/that-obama-scientist-climate-skeptic-youve-been-hearing-about/)_ from them as well.
+    *   Koonin responds to some of the backlash in a [medium article](https://steven-koonin.medium.com/my-response-to-a-scientific-american-hit-piece-7b5811141137) that directly calls out the Scientific American article as a hit piece.
+    *   After a cursory examination I have Koonin winning this “exchange,” but I didn’t put too much effort into it.
 
 * * *
 
