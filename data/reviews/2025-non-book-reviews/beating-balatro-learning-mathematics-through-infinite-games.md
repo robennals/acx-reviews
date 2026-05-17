@@ -24,10 +24,13 @@ tags:
 > ![](https://acximages.ennals.org/images/2025-non-book-reviews/ef9f9b47a316d1f1.gif)
 >
 > Through gathering gems from fallen enemies you level up and with each level up—and on chest events—you choose what upgrades to get. In the beginning of the game you decide what your core weapons will be, and you get to observe the exact amount of damage dealt by conveniently displayed damage marks.  
-
-![](https://acximages.ennals.org/images/2025-non-book-reviews/ff0eaf3be10071f2.gif)
-
+>
+> ![](https://acximages.ennals.org/images/2025-non-book-reviews/ff0eaf3be10071f2.gif)
+>
 > How well you (and your teammate, if you are playing in co-op mode) can be seen at the end of the game via a most important statistical summary.
+
+![](https://acximages.ennals.org/images/2025-non-book-reviews/5e041459fe76e58a.png)
+
 >
 > [Via reddit](https://www.reddit.com/r/VampireSurvivors/comments/sa1bpa/the_best_part_about_vandalier_isnt_its_damage_but/)
 >

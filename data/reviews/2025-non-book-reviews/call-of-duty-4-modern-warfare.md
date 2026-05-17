@@ -27,9 +27,9 @@ Infinity Ward, however, was asking for something different. They wanted to depic
 
 The result was 2007’s _Call of Duty 4: Modern Warfare_ (_CoD 4_), a game that forever changed the franchise, the gaming sphere, and popular culture as a whole. Much of that stems from the game’s multiplayer innovations and iterations. My focus will not be on that, instead focusing on the game’s story and gameplay.
 
-**Just Another Day At the Office**
+## Just Another Day At the Office
 
-![](https://acximages.ennals.org/images/2025-non-book-reviews/aa8dee8a740631dc.png)
+![](https://acximages.ennals.org/images/2025-non-book-reviews/bfd0beae4e574464.png)
 
 Gaz: “_Good news first, the world's in great shape. We've got a civil war in Russia, government loyalists against ultranationalist rebels, and 15,000 nukes at stake._”
 
@@ -138,7 +138,7 @@ But this debate would have made absolutely no sense in 2007. The franchise’s f
 In other words, the core message was decidedly anti-war, even if the games didn’t explicitly tell you that. War is hell and thus never glorified. Violence was feared, respected, hated, etc., but _always_ taken seriously. Firing giant guns at enemy soldiers from the safety of an AC-130 wasn’t a shooting gallery for earning points, it was a moment of getting the job done that still raised discomfort with the practice. Dying to a nuke wasn’t just a dramatic plot twist, it was getting slapped in the face with the fact that war isn’t fair and you can’t expect to die in a way that makes for children’s stories. To a lesser extent, it’s also a powerful message about the need to ensure this technology is kept safe, lest it destroy us all one day.
 
 And then there’s the ending. The world is not better off in the end. A city in the Middle East has been nuked, with 10s of thousands of US soldiers, enemy combatants, and civilians wiped out in the blink of an eye. Nor is Russia a stable nation. Zakhaev may be dead, but his soldiers are organized and can fight on. There is no happily ever after here.  
-
+  
 One last thing to note - you’ll die at some point while playing. Maybe you got careless or just didn’t see something or someone. Maybe the AI was cheating and saw you when you were _clearly_ in cover. Some sections are notably frustrating and you’ll die many times in quick succession. You’re going to get frustrated and feel like throwing your controller away or smashing your keyboard.
 
 Each time, you’ll get a different quote on the screen. Some take the edge off with humor, such as, "Cluster bombing from B-52s are very, very, accurate. The bombs are guaranteed to always hit the ground." But the most common quote you’re going to get is something that should make you pause and reflect, like "Older men declare war. But it is the youth that must fight and die." The point is obvious - make the player realize that they can and _should_ question the use of violence and war when it is so awful.

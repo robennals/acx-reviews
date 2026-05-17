@@ -54,9 +54,9 @@ But these characters changes are not enough to justify the massive changes to th
 
 *   You can take things with you into morphspace (so you're an animal on the outside, but the pocket dimension that holds your original body also has more things in it). In the original, you could only take skintight clothing into it, and that was presumably only because the authors didn't want to write a thousand scenes of naked children.
 *   Morphing also had a two-hour hard time limit, after which you’d get "stuck in the morph" permanently. Here, the limit is based on how much mass you take into the morph, and the kids learn to refresh their morphs often so it’s a non-issue.
->
+
 *   Morphing in the original is basically magic, your brain is magically controlling the animal you become, with no applications beyond that. Here, the tech is derived from yeerk biology, with the kids connected to a “fake yeerk” that is controlling the copied biology. When the kids morph into a sentient being and learn how to "turn on" the host body, they realize a clone of the being is fully conscious and they can talk with or interrogate the clone at will.
->
+
 *   If you get stuck into a morph of a person, you've basically cloned them, with the clone waking up and controlling their new body. I predicted in advance that this would be used to bring people back, and it does really get spammed around the last third of the story, with the Animorphs convincing dying hospital patients to morph into their morphs of their dead friends, and Marco making thirty clones of himself, as a treat. You may think this is a batshit turn of events, but this is actually on brand for canon.
 *   You can now morph as Luigi.
 
@@ -362,17 +362,17 @@ You can read _r!Animorphs: The Reckoning_ by Duncan Sabien at [Archive of Our Ow
 [3] If you need a more detailed description of what rational fiction is, which would surprise me given the target audience, we can get lazy and quote the [/r/rational](https://www.reddit.com/r/rational/) wiki:
 
 > Highly-rational fiction could include one or more of the following features:
->
+
 *   Focus on intelligent characters solving problems through creative applications of their knowledge and resources.
 *   Examination of goals and motives: the story makes reasons behind characters' decisions clear.
 *   Intellectual pay-off: the story's climax features a satisfying intelligent solution to its problems.
 *   Aspiring rationalism: the story heavily focuses on characters' thinking, or their attempts to improve their reasoning abilities. This is a feature of **rationalist fiction**, a subcategory of rational fiction.
 *   Thoughtful worldbuilding: the fictional world follows known, consistent rules, as a consequence of rational background characters exploring it or building realistic social structures.
->
+
 > Presence of these _particular_ features is not necessary: overall impression of the work is more important.
 >
 > **Adjacent tropes:** Rational stories tend to include certain narrative elements. Though their presence _doesn't_ make a story more rational, this community highly enjoys them. Most important ones include:
->
+
 *   [Fair-Play Whodunnit](https://tvtropes.org/pmwiki/pmwiki.php/Main/FairPlayWhodunnit): story's mysteries could be solved by attentive readers ahead of time.
 *   Absence of [Deus Ex Machina](https://en.wikipedia.org/wiki/Deus_ex_machina): established story rules are never broken.
 *   [Deconstruction](https://tvtropes.org/pmwiki/pmwiki.php/Main/Deconstruction): genre tropes are re-imagined in a more realistic manner.

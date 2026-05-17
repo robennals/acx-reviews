@@ -17,39 +17,24 @@ tags:
   - Religion
 ---
 
-_Enter my chamber you never will leave_
+> _Enter my chamber you never will leave_  
+> _Festering bodies will cover the streets_  
+> _Satanic prophecies, Christian hypocrisy_  
+> _Bury me deep in the filth and disease_  
+> _Open my mind and then hammer it closed_  
+> _Into the darkness I'm strangled and choked_  
+> _Tracing the patterns and numbers in smoke_  
+> _Blood on my dagger from enemies throats_  
+> _Crucify ghosts in a frozen abyss_  
+> _Ocean of planets in total eclipse_  
+> _Nowhere I wander wherever I drift_  
+> _Using a razor to open my wrists_  
+> _My body is vacant, my soul is enslaved_  
+> _To a hatred as ancient as day and night_  
+> _Ladder of Jacob, the devil awakened_  
+> _In hell I created, I pray tonight_
 
-_Festering bodies will cover the streets_
-
-_Satanic prophecies, Christian hypocrisy_
-
-_Bury me deep in the filth and disease_
-
-_Open my mind and then hammer it closed_
-
-_Into the darkness I'm strangled and choked_
-
-_Tracing the patterns and numbers in smoke_
-
-_Blood on my dagger from enemies throats_
-
-_Crucify ghosts in a frozen abyss_
-
-_Ocean of planets in total eclipse_
-
-_Nowhere I wander wherever I drift_
-
-_Using a razor to open my wrists_
-
-_My body is vacant, my soul is enslaved_
-
-_To a hatred as ancient as day and night_
-
-_Ladder of Jacob, the devil awakened_
-
-_In hell I created, I pray tonight_
-
-**Lil Ugly Mane**
+## Lil Ugly Mane
 
 It wasn't a month into Winter when I heard such a call. Winter, here, inspires all sorts of imaginations. Ghost white poplars bear a phantom-like visage; trees creak above and, with a wind, howl like the legions of half-frozen soldiers at the sight of a fire, miles away. The wind used to whistle, and nearly sing, through abandoned, towering laboratories. The sky has not yet reached towards tropical sunrises of early Spring, -- but months ago it had vacated blistering Fall sunsets. In the drives of something wavering between inanition and despondence I uncovered the unhappy chronicle of a man named _Eugene Onegin_, translated by a Cornell English Professor.
 
@@ -128,13 +113,10 @@ Over the course of the next few days J. Melmoth the second encounters horrors an
 
 * * *
 
-_I was in a Printing house in Hell_
-
-_& saw the method in which_
-
-_knowledge is transmitted from_
-
-_generation to generation_
+> _I was in a Printing house in Hell_  
+> _& saw the method in which_  
+> _knowledge is transmitted from_  
+> _generation to generation_
 
 **– William Blake**
 
@@ -164,13 +146,10 @@ _How well religious persons understand the secret of making every event of the p
 
 **– C.R Maturin, Melmoth the Wandere**r
 
-_I charge thee to return and change thy shape;_
-
-_thou art too ugly to attend upon me._
-
-_Go, and return an old Franciscan Friar,_
-
-_That holy shape becomes a devil best._
+> _I charge thee to return and change thy shape;_  
+> _thou art too ugly to attend upon me._  
+> _Go, and return an old Franciscan Friar,_  
+> _That holy shape becomes a devil best._
 
 **– Christopher Marlowe** 
 
@@ -204,19 +183,13 @@ _What a difference between words without meaning, and that meaning without words
 
 **– C.R. Maturin. Melmoth the Wanderer**
 
-_At roll-call Byron Dominus uttered at a fool-school,_
-
-_Shouted by scottish ushers, caused his lordship to sob like a fool,_
-
-_Yet Byron was the first to laugh at the over-sensitive Keats_
-
-_‘Snuffed out by an article’, those were the words. A couple of rubber teats_
-
-_Should have been supplied beyond any question to these over-touchy pets—_
-
-_For me, you are free to spit your hardest and explode your bloody spleen_
-
-_Regarding my bold compact Fourteener, or my four less than fourteen_
+> _At roll-call Byron Dominus uttered at a fool-school,_  
+> _Shouted by scottish ushers, caused his lordship to sob like a fool,_  
+> _Yet Byron was the first to laugh at the over-sensitive Keats_  
+> _‘Snuffed out by an article’, those were the words. A couple of rubber teats_  
+> _Should have been supplied beyond any question to these over-touchy pets—_  
+> _For me, you are free to spit your hardest and explode your bloody spleen_  
+> _Regarding my bold compact Fourteener, or my four less than fourteen_
 
 **– P. Wyndham Lewis**
 
@@ -270,13 +243,10 @@ If this is about AI, or technology, or simply a great Gothic-Horror Romance: wha
 
 * * *
 
-_Cowering and broken_
-
-_I’m a victim of my evil deeds_
-
-_But I don’t need your sympathy_
-
-_I’m comfortable in misery_
+> _Cowering and broken_  
+> _I’m a victim of my evil deeds_  
+> _But I don’t need your sympathy_  
+> _I’m comfortable in misery_
 
 **– Lil Ugly Mane**
 

@@ -51,7 +51,7 @@ _From “Thinking with Our Bodies”…_
 *   Radiologists [improved from 85% to 99% diagnostic accuracy](https://pubmed.ncbi.nlm.nih.gov/18954813/) when walking on a treadmill (44).
 *   [Doodling improved retention](http://pignottia.faculty.mjc.edu/math134/homework/doodlingCaseStudy.pdf) on a boring listening task by 29% (49).
 *   In classic [Piagetian conservation tasks](https://www.youtube.com/watch?v=gnArvcWaH6I), children [display emerging understanding through gesture](https://d1wqtxts1xzle7.cloudfront.net/48258348/The_Mismatch_Between_Gesture_and_Speech_20160823-26126-1cf0ajv-with-cover-page-v2.pdf?Expires=1649167299&Signature=E-R2moSGNUOeGAMoYOeXZabdsK1fCBDcGEjroNoegCGdfCnm7nTbhBqADTBV0Wgo862Vr3mehE-MZJZK1hkiFPK5VJ57jrMtXboiTmqU47xVIkn1uvH7~~FVmKRR0Z2JSdUZAnLv9yROLzlId516LJ-2Es73VgpwCGzFiMm9~p4wqENHMfDPaXCmgrdPWV2QA-Xf4P~CT5V2MGsk6R47FNaKibF9Lh~I6X1sizFJnKH3c5mgpSm0iFSvnD7SS99L1rT~1esTktNGZY1S34544DIZk6xFDfS69ODs-Ko3sJQlCzzKVff9Na~Ylcq8o95-PdifxBMCp6VLtRwwWuqlPA__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA) some 40% of the time (75).
->
+
 *   (Paul describes: “The girl is shown a tall, skinny glass full of water, the contents of which are then poured into a short, wide glass. Asked whether the amount of water remains the same, the girl answers no—but at the same time, her hands are making a cupping motion, indicating that she’s beginning to understand that the wider shape of the second glass accounts for…the same amount of water.”)
 
 _From “Thinking with Our Surroundings”…_

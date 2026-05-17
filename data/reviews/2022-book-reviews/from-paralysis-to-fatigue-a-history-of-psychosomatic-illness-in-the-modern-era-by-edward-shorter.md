@@ -203,7 +203,7 @@ Pain and fatigue have several useful qualities. They’re universal experiences 
 
 *   A 1940s Boston internist: “one of the problems most encountered by the general practitioner and the internist is a complaint variously described as weakness, exhaustion, fatigue, loss of ambition, low vitality or weak spells.”
 *   In 1960s France there was something called receptionists syndrome:
->
+
 > Profound asthenia of both physical and psychological nature at the end of the workday, a drop in attentiveness, in interest and in memory; disturbances of mood and personality, nervousness, irritability, episodes of anxious agitation, hypersensitivity to noise, hyperactivity with tearful moments
 
 The pattern continued to the 1990s, when this book was written. The last few sections touch on Chronic Fatigue Syndrome (briefly attributed to chronic Epstein-Barr viral infection in the 1980s and christened “the Yuppie flu”) and Fibromyalgia. You can guess Shorter’s take: “From a grab-bag of scattered bodily pains, fibrositis (or fibromyalgia as some preferred to call it after muscle inflammation had failed to materialize) passed to being a specific disease.” With basically overlapping symptoms, he thinks Chronic Fatigue and Fibromyalgia are identical and probably represent a form of depression.

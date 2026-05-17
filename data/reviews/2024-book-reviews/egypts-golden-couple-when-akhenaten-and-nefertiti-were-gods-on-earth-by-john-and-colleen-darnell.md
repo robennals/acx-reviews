@@ -1,5 +1,5 @@
 ---
-title: 'Egypt''s Golden Couple: When Akhenaten and Nefertiti Were Gods on Earth by John and Colleen Darnell'
+title: 'Egypt’s Golden Couple: When Akhenaten and Nefertiti Were Gods on Earth by John and Colleen Darnell'
 author: Unknown
 reviewAuthor: Anonymous
 contestId: 2024-book-reviews
@@ -15,6 +15,12 @@ tags:
   - History
   - Religion
 ---
+
+![undefined](https://acximages.ennals.org/images/2024-book-reviews/7fe54dbd9c989638.jpg)
+
+A puzzle: Why does the Sun not play a larger role in religion? It is by far the most powerful object we witness in daily life; it gives life to everything, and it marks the passage of time. Its workings weren’t understood until modern science, making it clearly magical. Yet it doesn’t feature prominently in any of the great monotheisms or other modern religions. It usually appears as a god in polytheism, but rarely as a central or especially important one. Why not?
+
+A possible answer: It’s been tried before. And it didn’t go well.
 
 ## 𓏺.
 
@@ -208,7 +214,7 @@ And lastly, on how Akhenaten (here referred to by another of his names, _Neferkh
 
 > There is no other one who knows you,  
 >  except for your son, Neferkheperure, Unique One of Re,  
-> whom you cause to become aware of your plans and your power
+>    whom you cause to become aware of your plans and your power
 
 As it turns out, this last bit may be the most important clue to explain Akhenaten’s theology. It seems that the pharaoh’s new cult had the effect of concentrating religious power onto his own person. “People can see the disk and feel its heat,” write the Darnells, “but Aten is otherwise mute. Unlike other gods, Aten does not speak to anyone except the royal family. . . . At Akhet-Aten, even the high priests of Aten only interacted directly with the king, who acted as the intermediary between the priests and the gods they served.”
 

@@ -200,23 +200,19 @@ I contend that B major is a perfect musical synthesis of the three prevenient tr
 
 You might be surprised to learn that a team from Tennessee takes its name from an animal whose present and historical distribution doesn’t encompass any land east of, say, Dodge City, Kansas. And while I echo the very same sentiment, I’d still contend that you’re more likely to encounter an authentic, fur-clad, claw-wielding, saliva-secreting brown bear of the horribilis or “grizzly” variant in the American state of Tennessee than you are to hear good jazz in any of the six total corners of Utah. In the cases of both the Utah Jazz [10] and the Memphis Grizzlies, there are financial machinations at play. In 1979, the New Orleans Jazz, a marginal upstart franchise that had known only losing seasons since its founding in 1974, feeling about as attached to the city of New Orleans as might a string of purple beads to the sweat-slicked neck of some drunken, prostrate Mardi Gras reveler partway through the act of vomiting, departed for the dry and sober climes of Mormon Zion and never looked back. Likewise, in 2001, the Vancouver Grizzlies, a marginal upstart franchise that had known only losing seasons since its founding in 1995, feeling about as attached to the city of Vancouver as might a hastily rolled yoga mat to the sweat-slicked underarm carriage of a hip-hiked woman in line for a 19-dollar acai bowl, departed for the rockabilly ritz and roar of downtown Memphis, and looked back only occasionally.
 
-**Part III**
+## Part III
 
-_Don't think I've left you all behind_
-
-_Still love you and Tennessee_
-
-_You're always on my mind_
-
-_And mama, every Saturday_
-
-_I can hear your southern drawl a thousand miles away_
+> _Don't think I've left you all behind_  
+> _Still love you and Tennessee_  
+> _You're always on my mind_  
+> _And mama, every Saturday_  
+> _I can hear your southern drawl a thousand miles away_
 
 In his 2007 novel _Spook Country_, William Gibson describes Canadian cities as looking the way American cities look on television [11]. Upon arriving in Vancouver for my wedding, my American father proclaimed within earshot of my Canadian in-laws [12]  that the city looked the way a city looks immediately prior to some apocalypse-event transpiring in movies about the apocalypse. I know they were within earshot of this proclamation because they were seated at the table to which the proclamation was delivered. My father then recounted how my mother had nearly died in the act of birthing me, paused to speculate as to whether her age had played a factor, and then proceeded to lament that my sister - who was seated at the very same table, alongside my mother - was likely of an age advanced enough that she might also experience health complications in the event that she were to birth a child of her own. Also seated at this table were my two closest friends, my freshly-wedded spouse, my spouse’s parents, my brother, his childless wife of a roughly equivalent age to that of my sister, my spouse’s brother, his wife (also of a roughly equivalent age to that of my sister and sister-in-law), and my spouse’s sister (of whose age and fecundity you can probably guess). My father wasn’t even drunk as he foisted his toast of good health and a fruitful marriage upon me and my beloved, who are each the youngest of our respective kin, gesturing decorously with a moderately full glass of chardonnay. It’s not that he won’t drink as a rule, and not even I don’t think that he never quite acquired the taste, but more, if I were to hazard a guess, that he prefers to remember moments like these in detail as vivid as his aging mind allows him. When he was finished, my spouse’s father stood and raised his own glass and said welcome to the family and smiled puckishly and left the room to retrieve a replica of Sting, Frodo’s sword in Peter Jackson’s _The Lord of the Rings_ film franchise, his wedding gift to me and my duly beloved.
 
-**ENDNOTES**
+## ENDNOTES
 
-**[1]**
+## [1]
 
 **[2]** Nor is it particularly interesting. The tradition may have begun in a 1987 first-round matchup between the NHL’s Winnipeg Jets (later the Arizona Coyotes (defunct), not to be confused with the current Winnipeg Jets (previously the Atlanta Thrashers)) and the Calgary Flames. The Jets noticed how imposing the Flames’ crowd always looked during Calgary home games, bedecked entirely in red, and figured hey what the hell, everybody has a white t-shirt at home, let’s make white our thing. Whether or not the rosters of either team subliminally associated the dueling color schemes with the inevitable triumph of heaven over hell, the Jets went on to beat the Flames 4 games to 2. As a sidenote, I’ve been to Winnipeg before, and am obliged to reject now in the clearest language possible any conflation between that city and the heaven of Enoch and Elijah.
 
@@ -231,22 +227,22 @@ In his 2007 novel _Spook Country_, William Gibson describes Canadian cities as l
 **[7]** If you’re wondering “_what is this_” or “_how do I say this in my head_” or “_what does this mean”_ then first briefly allow me to bemoan the abscission of worthwhile music education from the Platonic quadrivial curriculum of arithmetic, music, geometry, and astronomy, and then next to answer, in respective order to your questions as they were hypothetically posed:
 
 1.  Re: _What is this?_
->
+
 > This is a sequence of Roman numerals denoting chords formed on the scale degrees corresponding to the numbers indicated. “I” refers to the first scale degree, i.e., the tonic, home base, “Do” if you will (as opposed to “Re,” “Mi,” “Fa,” etc.). C in a C-major scale (if you won’t). Capitalization of the numeral (or lack thereof) is a neat shorthand for indicating whether the chord in question is major (in the case of capitalization) or minor (in the case of lack thereof). You can perhaps begin to decipher why Roman numerals are used in this application, as opposed to their Arabic counterparts. In Roman numeral analysis, “I-ii-iii-IV” would indicate a sequence of chords beginning with
->
+
 1.  a major chord formed using the first scale degree (“Do”) as a root note, followed by
 2.  a minor chord formed using the second scale degree (“Re”) as a root note, followed by
 3.  a minor chord formed using the third scale degree (“Mi”) as a root note, followed by
 4.  a major chord formed using the fourth scale degree (“Fa”) as a root note.
->
+
 > In a C-major scale, the chords would be C-major, then D-minor, then E-minor, then F-major. As far as chord progressions go, this is about as bad as it gets.
->
+
 2.  Re: _How do I say this in my head?_
->
+
 > Of course, this is all assuming that you’re the type to perform some manner of subvocalization when you read. If you’re an entirely visual reader, congratulations on your comparatively lower cognitive load. Try not to increase that load by actively pondering how frequently you normally swallow, blink, and breathe. But right, to the hypothetical question, you probably ought to just say the numbers in your head. For the notation attached to this endnote (I-V-vi-IV), just say “one five six four” in your head. If you’re a fan of weeds, if you really like getting into them, if you’re the kind to arrive home with burrs embedded in the ribbing of your compression socks, you could say “one major five major six minor four major” but considering the fact that you’re a subvocalizer and already reading at non-optimal speed, you’re better off just saying the numbers. I’ve heard jazz cats talk shop, and believe me, when they’re talking about a ii-V-I, they’re not saying “two minor five major one major.” That’s probably because no jazzman worthy of his receding ponytail would ever play a minor chord when he could play a half-diminished, but I digress.
->
+
 3.  Re: _What does this mean?_
->
+
 > I figure this last question got answered somewhere in the didactic mucilage deposited above, and if not, I don’t really know what to tell you. What does anything mean? When I was eleven, some molten alkaline siping from my old family dog’s metaphorical batteries must have shorted something in his canid brain and he decided on the spot that live or die he simply had to - had to, I mean as a function of some biological imperative - absolutely no matter what just had to murder my adult sister’s dog if it was the last thing he did, and being the nearest prehensile mammal around I nobly endeavored to separate them and I’ll be damned and likely already am if my sister’s dog - the one whose imminent murder I was attempting to forestall - didn’t in all the fever of that dogged fracas up and sink his teeth into me and my just-adolescent forearm, screaming against my flesh and frothing liberally as I bandied him about first in the direction of my brother and then my father as they arrived on the scene, eager to have him detached from me. I still have the puncture scars to prove it. What does that mean?
 
 **[8]** One of my favorite songs employs exactly this chord progression (I-vi-IV), eliding the V entirely. It’s an old soul ballad of which the only surviving rendition in existence is a demo recorded for Harmonic Sounds Studio in Columbus, Ohio, shortly before the band that authored it, Penny & The Quarters, presumably went defunct. The demo was purchased at an estate sale in 2006 following the death of Clem Price, Harmonic Sounds Studio’s erstwhile owner, who’d cached it in the basement of his home for much of the latter portion of the 20th century. Eventually, a bootleg got around to Ryan Gosling, the kind of ex-child star who’d sell you his own mother for a shred of indie credibility and an article on Pitchfork.com, a guy who was making shitty music on purpose way back when Mac DeMarco was still committing petty truancy and smoking Viceroys in Edmonton, Alberta. Anyway, handsome Ryan importuned the director of whatever stupid romance-drama he was filming at the time to work the song in somewhere, and the rest is history. You can hear it played pretty regularly on TV shows that depressed millennials who always said they were going to move to New York but never quite got around to it are frequently known to watch.
@@ -283,11 +279,10 @@ Contrast this grammar with Arnold Schoenberg’s “Method of Composing with Twe
 
 The goal of twelve tone serialism is to prevent any one note from exercising too much gravity, doing away with the hierarchical structure that underpins tonal harmony. In the absence of any formal constraints, attempts to compose a song that is not in any particular key might, by accident, privilege one note over another, giving rise to classic harmonic structure. The twelve tone technique is a particularly stringent constraint designed to prevent this. (Its stringency cannot be overstated; Schoenberg himself writes that “nothing is given by this method; but much is taken away.”) It succeeds wildly at its goal, at the expense of a whole host of other aesthetic virtues. It received considerable criticism; in the words of Glenn Gould (who incidentally considered Schoenberg to be the greatest composer of the 20th century), detractors thought it was “a childish bit of mathematics.”
 
-
 To many, there is a clear problem here: instead of theory serving music, music is serving theory. The natural theory that was grounded in musical practice has been replaced by an arbitrary theory which is unconstrained by the psychology of perception – and the result is music that nobody likes. This, it is argued, is why contemporary classical music is relatively marginal. That’s the standard critique of 20th century art music. I didn’t come up with it, versions of it have been articulated by Roger Scrutton, Fred Lerdahl, and basically anyone who has heard a piece of non-Russian classical music that was written in the past hundred years.  
 
 It would be a mistake to downplay the role that technology played in the declining popularity of art music. The advent of recording technology made it impossible for Bach to compete with the Beatles – the western art music establishment had been dealt a bad hand; it was basically inevitable that the 20th century would belong to pop music. But nonetheless, the establishment could have played that hand a little better. The only thing more incredible than the decline from a situation where composers like Handel and Verdi were national celebrities – whose appeal transcended social class, whose music was loved by all – to a situation where the average person couldn’t name a single living composer of western art music if you put a gun to their head, is the fact that members of the art music establishment are appalled by the suggestion that _something might have gone wrong_. If you go to the music theory subreddit and say that it was mistake for the establishment to invest all its remaining political capital in the Helicopter String Quartet guy, you will be met with a combination of sneering, bemusement, and worst of all, a language game where you’re accused of failing to understand the tonal/atonal distinction.  
-
+  
 In short, I think there is some truth to the standard critique. But I also think that this is not the only lens through which to understand Schoenberg.
 
 II.
@@ -295,17 +290,17 @@ II.
 At the close of the nineteenth century, a largely self-taught Schoenberg composed romantic music in the tradition of Brahms and Wagner. His work in this period was innovative, and some elements hinted at the more radical direction he would take in the next century. But it conformed, in large measure, to the conventional aesthetic standards of western art music, and is legible to your average listener. Schoenberg himself articulated these aesthetic standards better than anyone else. His writings on music theory – _Fundamentals of Composition_, _Theory of Harmony_ and _Structural Foundations of Harmony_ – are considered classics. They are not about radical 20th century music. They consist of deep analysis of the common practice period, drawing their examples primarily from Beethoven’s piano sonatas and Bach’s keyboard music.
 
 Schoenberg was acutely aware of his position in history, and saw himself as existing in a progression toward increasing tolerance of dissonance. Of the period, he writes:  
-
+  
 _The ear had gradually become acquainted with a great number of dissonances, and so had lost the fear of their "sense-interrupting" effect. One no longer expected preparations of Wagner's dissonances or resolutions of Strauss' discords; one was not disturbed by Debussy's non-functional harmonies, or by the harsh counterpoint of later composers. This state of affairs led to a freer use of dissonances comparable to classic composers' treatment of diminished seventh chords, which could precede and follow any other harmony, consonant or dissonant, as if there were no dissonance at all._
 
 Wagner, in particular, introduced a harmonic idiom which was radical in its dissonance. At the time, reception was mixed. A large segment of his audience couldn’t speak Wagner’s language. But by the early 20th century, as audiences were exposed to similar ideas through Mahler, Strauss, and others, the new sound started to click with most listeners. Wagner’s dissonance was not an arbitrary invention, it was a deep discovery. Today, anybody who has watched films from the golden age of Hollywood understands Wagner’s vocabulary.
 
 In 1865, Wagner could hear things that his audience couldn’t – of course he could; he was a complete genius. It’s plausible that Schoenberg, also a genius, could hear things in 1909 that his audience could not. This was the year he composed his first atonal keyboard work: Drei Klavierstücke ("Three Piano Pieces"), Op. 11. This predates his twelve tone technique by a decade – the “childish bit of mathematics” came after, not before, musical practice. Some passages from Schoenberg’s letters from 1909 suggest that Schoenberg’s early atonal work was the result of following musical intuition:  
-
+  
 _I strive for: complete liberation from all forms / from all symbols of cohesion and of logic. …It should be an expression of feeling, as our feelings, which bring us in contact with our subconscious, really are, and no false child of feelings and "conscious logic."_
 
 Blogger Mechanics of Aesthetics, who has proposed that “_beauty is the reward for successful predictive processing at the edge of our capability_,” argues that Schoenberg’s experiments in atonality are an example of the kind of patterns that live at the edge of the capability of a complete genius:  
-
+  
 _It is not random that it was Arnold Schoenberg, a master of tonal music, who wanted to break free of the chains of tonal music. It probably all had become too predictable for him, due to his mastery of tonal music._
 
 I think there is something to this, though we shouldn’t take it too far. When listeners hear serialist music – even musicians trained in this tradition – they don’t hear tone rows in the same way that listeners hear melodies and chord progressions in tonal music.
@@ -317,11 +312,11 @@ I have somewhat conservative aesthetic leanings. I hate installations, and the t
 III.
 
 The first of the Drei Klavierstücke has received the most attention as a potentially tonal piece. It has been given three tonal analyses by three different theorists. Since each of these theorists came to a totally different conclusion about what key the piece is in, I think we’re safe to say it is properly atonal.  
-
+  
 The piece opens with a descending melodic line. This forms the main motives of the piece, and they are repeated, inverted, stretched, and reused throughout. The descending melody is met with moody chords in the bass that move upward, completing the first thought. In the next section, the bass plays an ascending chromatic line, while the right hand varies the motives introduced in the first section. A third section mirrors the first. This concludes the first eleven bars, and the ideas introduced here are explored throughout the rest of the piece.
 
 This review is not a serious technical analysis of the work. I’m completely unqualified to do that, and if you want one, there are accessible analyses on YouTube (which is a better medium for this sort of thing) and bare-knuckled mathematical analyses in textbooks. But from my perspective as an amateur, there are two things about no. 1 that have stayed with me.  
-
+  
 The first is the observation that this music _does_ become increasingly legible through repeated listens. By the time I sat down at the piano to work out my favourite parts of no. 1 – the rich chords of the opening, the ascending chromatic line that seems to evaporate – my mistakes were no less jarring than they would be if I had been playing tonal music. Sections of the piece that annoyed me on my early listens – particularly the intense, dissonant flurries – became playful once I knew when to expect them.
 
 The second observation is that what makes this piece work is balance. Motives respond to one another, support one another, reinforce one another. When you play a wrong note in this piece, the resultant jarring sensation is not just about subverted expectation, but a sense of being off-kilter.
@@ -329,7 +324,6 @@ The second observation is that what makes this piece work is balance. Motives re
 The second klavierstück is, to me, the most accessible, for two reasons. The first is that for much of the piece, the bass plays an ostinato that alternates between F and D, which, though the piece doesn’t employ functional harmony, creates a sort of tonal center at D, and a vague sense that we’re in D minor. Over top of this ostinato, the right hand explores various themes: sometimes melodic, sometimes chordal; sometimes harsh and other times pretty.  
 
 It’s worth recalling exactly what Schoenberg gave up when he started composing music this way. Today, we have this idea that a song is in a key – let’s say C major – and the C major triad serves as a sort of home base. The song will move to other chords that are related to the C major triad by virtue of sharing notes with it. This way of thinking about – and feeling – music is so natural that it’s hard to grasp that it wasn’t always there. But it’s really only a few hundred years old. There are other musical forms, which have a tonal center, but don’t stray from it. A lot of sacred music that predates the common practice period is like this. This may be a naive way of listening to Schoenberg, but rather than an evolution beyond tonality, I hear in no. 2 a timeless sound that existed before and after the advent of functional harmony, one that you hear in both the organum of the middle ages, and in the groove-based music of the late 20th century. If nothing else, listening this way helps form a bridge between Schoenberg’s world and my own.
-
 
 The second reason the piece is more accessible is that it contains more repetition than the others. Part of what makes Schoenberg difficult is not just dissonance, but a lack of obvious structure. In no. 2, the different sections are more legible. The middle section of the piece is much more difficult, but it culminates in a passage whose intensity is intelligible to any listener.
 

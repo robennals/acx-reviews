@@ -39,7 +39,7 @@ According to Joiner, the best explanation for this (and all the other data) is t
 People usually try their best to stay alive. Why would a "desire for death'' emerge in an organism so shaped by evolution? Joiner argues that two social factors are key.
 
 > _No more fiendish punishment could be devised, were such a thing physically possible, than that one should be turned loose in society and remain absolutely unnoticed by all members thereof. If no one turned around when we entered, answered when we spoke, or minded what we did, but if every person we must 'cut us dead,' and acted as if we were non-existent things, a kind of rage and impotent despair would before long well up in us, from which the cruelest bodily torture would be a relief._
->
+
 *   William James (1890) via Joiner
 
 The first is Thwarted Belongingness. Put simply, humans need frequent positive interactions with others. Personal connections create meaning in life and act as a buttress - it's common for even severely depressed people, when asked about suicide, to say something like "I could never do that to so-and-so."
@@ -102,7 +102,7 @@ Let’s go back to Joiner’s model, which suggests a grim future. Suicidal thou
 
 On the other hand, facile stories about suicide are misguided. At the societal level, dozens of factors interact in contingent ways. For instance, we might see opposing trends like increasing social isolation but decreasing substance use. In the right circumstances, it’s perfectly consistent for high levels of suicidal ideation to coexist with low suicide rates. Finally, blanket attributions of suicide to diagnosable mental illness miss the role of family, employment, religion, physical health, trait impulsivity, firearm access, and more.
 
-![](https://acximages.ennals.org/images/2023-book-reviews/24c46aae85f34b9a.png)![](https://acximages.ennals.org/images/2023-book-reviews/8c0cf50f70af5886.png)
+![](https://acximages.ennals.org/images/2023-book-reviews/be048a4b5f4718d6.png)![](https://acximages.ennals.org/images/2023-book-reviews/0e8555e86d906e42.png)
 
 _My chart, data from CDC and_ _[Shields et al](http://eknygos.lsmuni.lt/springer/662/305-335.pdf)__. Table per_ _[WHO 2019](https://en.wikipedia.org/wiki/List_of_countries_by_suicide_rate)__._
 

@@ -129,19 +129,14 @@ What happens if the child answers “yes” to any of the questions? Particularl
 
 This is not the only occasion or venue where children will be asked questions like these. As long as we’re still thinking about the negative impact of phones, several companies have released mental health apps for kids. Shrier tried several:
 
-_Here are six of the first ten questions my therapist-bot asked me_
-
-> _“How lonely do you feel?”_
-
-                _“How supported do you feel?”_
-
-                _“How worried do you feel right now?”_
-
-                _“How down do you feel right now?”_
-
-                _“How often do you feel left out?”_
-
-                _“How sad do you feel right now?”_
+> _Here are six of the first ten questions my therapist-bot asked me_
+>
+> _“How lonely do you feel?”_  
+> _“How supported do you feel?”_  
+> _“How worried do you feel right now?”_  
+> _“How down do you feel right now?”_  
+> _“How often do you feel left out?”_  
+> _“How sad do you feel right now?”_
 
 In each case, the question is searching for potential trauma and gearing up to turn it into actual trauma. This is also the equivalent to what I mentioned above, asking my son over and over again if he’s okay. It’s important to remember [how suggestible kids are](https://en.wikipedia.org/wiki/Suggestibility#Child). Not to go on too much of a tangent, but recall that in the 80s just by asking kids over and over again if they had been abused authorities were able to construct an entire [ritual satanic sex abuse ring](https://en.wikipedia.org/wiki/Day-care_sex-abuse_hysteria). Yes, we’re just asking children if they’re okay, but at some point if you ask someone this question enough they’re forced to conclude the only reason you’re asking so much is that they’re not okay.
 
@@ -177,7 +172,7 @@ This methodology combines the ubiquity already mentioned...
 and the marination…
 
 > _Social-emotional exercises typically invite kids to marinate in a time when they were sad, scared, or vulnerable. One of the most popular social-emotional curricula, Second Step, for instance, instructs eighth graders to divulge the following:_
->
+
 *   _“Have you ever stayed overnight in the hospital?”_
 *   _“Has someone close to you died?”_
 *   _“Have you ever lost a championship game or important competition?”_

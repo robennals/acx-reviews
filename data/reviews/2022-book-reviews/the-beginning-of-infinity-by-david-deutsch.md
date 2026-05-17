@@ -67,7 +67,7 @@ Reliance on knowledge rather than the environment captures the human condition: 
 Deutsch [likes](https://twitter.com/DavidDeutschOxf/status/904454563582922753?s=20&t=yZJXvyLVTTGZh5zgPluvfA) Rick and Morty for portraying this theme. He doesn’t claim it’s the [funniest shit of all time](https://knowyourmeme.com/memes/pickle-rick-funniest-shit-ever), but [Pickle Rick](https://www.youtube.com/watch?v=tZp8sY06Qoc) epitomizes the human condition: “With only his mind, and minimal access to the world, he subdues it.”
 
 This is why Deutsch calls himself an optimist. It’s not his cheery domineer, although he has that too. And it’s not a prediction that the best outcome is always most likely. Problems are always around the corner. Deutsch’s optimism is that problems _can_ be solved.  
-
+  
 Not only can all problems be solved, but all people can solve problems. People have _universality_. As Deutsch says: “there can be only one type of person: universal explainers”. Universal explainers can create explanatory knowledge.
 
 This falls out of the [Church-Turing Thesis](https://en.wikipedia.org/wiki/Church%E2%80%93Turing_thesis) where anything is computable if it can be performed by a Turing machine. Everything that a physical object can do, can be emulated by a computer program. The only limits are memory and processing speed (which can always be added on). Reality can be computed and therefore explained.
@@ -203,7 +203,7 @@ Many denials of human nature are due to commitments to ideology or political cor
 Deutsch, however, does not seem motivated by political correctness. Elsewhere in BoI, he’s willing to defend politically sensitive views such as open societies in the West being better than closed societies or primitive societies[[25]](#ftnt25).
 
 Deutsch doesn’t totally reject genetics either. As we’ve covered, knowledge can be instantiated in genes. We are not blank slates. It actually neatly solves the problem of where human knowledge originally comes from. New ideas build on earlier ideas. Which were built on even earlier ideas. Going back to inborn ideas. His main criticism is that these influences are not immutable.  
-
+  
 To be fair to evolutionary psychologists and behavioral geneticists, many don’t claim immutability. As Richard Plomin outlines: “genetics explain what _is_ not what _can be_.”
 
 So where’s the disagreement? I think it lies in (1) to what extent current outcomes are due to genetic influence, and (2) how easy this influence is to overcome.
@@ -311,7 +311,7 @@ I’m unsure if any of this is strawmanning those in the AI-is-the-biggest-exist
 The way we treat animals, especially on factory farms, gets suggested as a contender for things we will look back on and lament our immorality. This concern is supported by Peter Singer’s argument that _suffering_ is the appropriate criterion to assign moral weighting and that animals suffer as well as humans.
 
 However, pain ≠ suffering. In BoI, Deutsch points out that scientific studies that claim to measure animal suffering, such as stags being hunted, invariably measure things like nerve endings, blood levels, and pain receptors which are then assumed to have the associated qualia (suffering) that it purports to measure.  
-
+  
 We can suffer without experiencing physical pain. And we can be in pain without suffering. In fact, people choose to endure pain when running or lifting weights and even grow to _enjoy_ it. Arnie [described it](https://www.youtube.com/watch?v=BdVCfDioTcY) as heaven (in so many words). And BDSM can be enjoyable too, I heard from a friend.
 
 As like most other things, it depends on knowledge. Whether our pain causes us to suffer depends on our _explanation_ for the pain. However, animals do not create explanatory knowledge.
@@ -323,7 +323,7 @@ However, I’m not sure if this obviates Singer’s argument for animal welfare.
 We walk into Singer’s other argument that we can’t cleanly demarcate humans from other animals based on a criterion (in Deutsch’s case the ability to create explanatory knowledge) without either (1) excluding some humans (such as infants or severely cognitively impaired) or (2) including some animals (such as primates).
 
 Deutsch points to infants as knowledge creators because they learn language, but we might need to bite the bullet with the severely cognitively impaired or risk being “speciesist”.  
-
+  
 Deutsch’s main point is that we do not currently know if animals suffer:
 
 > “In reality, science has, and will have, no access to this issue until explanatory knowledge about qualia has been discovered.”

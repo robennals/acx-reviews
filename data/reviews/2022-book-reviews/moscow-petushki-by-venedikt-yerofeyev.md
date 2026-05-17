@@ -181,35 +181,32 @@ Pacing anxiously along the carriage, excited to get to Petushki, Venya shares wi
 
 _“…you’d better write down the recipe for Canaan Balsam. You’ve only got one life, and if you want to see it out, you don’t make mistakes with recipes:_
 
-            _methylated spirits        100 g_
+_methylated spirits        100 g_
 
-         _milk stout        200 g_
+_milk stout        200 g_
 
-         _clear varnish        100 g_
+_clear varnish        100 g_
 
 The Spirit of the Geneva:
 
-_White Lilac toilet water        50 g_
-
-_sock deodorizer        50 g_
-
-_Zhiguli beer        200 g_
-
-_spirit varnish        150 g_
+> _White Lilac toilet water        50 g_  
+> _sock deodorizer        50 g_  
+> _Zhiguli beer        200 g_  
+> _spirit varnish        150 g_
 
 The teaks of the Komsomolka:
 
-            _Lavender water        15 g_
+_Lavender water        15 g_
 
-         _Verbena        15 g_
+_Verbena        15 g_
 
-         _Forest Water eau-de-Cologne        30 g_
+_Forest Water eau-de-Cologne        30 g_
 
-         _nail varnish        2 g_
+_nail varnish        2 g_
 
-         _mouthwash        150 g_
+_mouthwash        150 g_
 
-         _lemonade        150 g_
+_lemonade        150 g_
 
 _During preparation, the mixture should be stirred for twenty minutes with a sprig of honeysuckle. Honestly, when I see these people using bindweed instead of honeysuckle, I could split my sides laughing, I really could._
 
@@ -217,17 +214,17 @@ _During preparation, the mixture should be stirred for twenty minutes with a spr
 
 _What’s the most beautiful thing in life? The struggle to free all mankind. But here’s something even more beautiful – write it down:_
 
-            _Zhiguli beer        100 g_
+_Zhiguli beer        100 g_
 
-         _Sadko the Wealthy Guest shampoo        30 g_
+_Sadko the Wealthy Guest shampoo        30 g_
 
-         _anti-dandruff solution        70 g_
+_anti-dandruff solution        70 g_
 
-         _superglue        12 g_
+_superglue        12 g_
 
-         _brake fluid        35 g_
+_brake fluid        35 g_
 
-         _insecticide        20 g_
+_insecticide        20 g_
 
 _Let it marinade for a week with some cigar tobacco, then serve._
 
@@ -333,8 +330,7 @@ It would also be incorrect to say that this debris finds no practical use: the B
 
 ![](https://acximages.ennals.org/images/2022-book-reviews/3e3259c25bd5ca4c.jpg)
 
-_An appropriate Moscow-Petushki book cover  
-_
+_An appropriate Moscow-Petushki book cover_  
 
 With Venya slumped and disoriented on the train seat, the text leaves material reality entirely; let’s leave Venya alone as he (passed out, on a train bench, most likely) leads a hallucinatory revolution in a Russian village, declares war on Norway, and shortens the Russian alphabet. On return to the physical world, our utterly disoriented hero crawls into a corner of the wagon in a state of paranoia.
 
@@ -362,11 +358,9 @@ _“But this Friday, at 11 o’clock, it can be pitch-dark already, just use you
 
 He begins to nod off, when —
 
-_“ There in front of me was a thing with no legs, no tail, and no head._
-
-_‘Who are you?’ I asked in astonishment._
-
-_‘Guess who!’ And it burst out laughing. Laughing like a cannibal.”_
+> _“ There in front of me was a thing with no legs, no tail, and no head._  
+> _‘Who are you?’ I asked in astonishment._  
+> _‘Guess who!’ And it burst out laughing. Laughing like a cannibal.”_
 
 […]
 
@@ -452,8 +446,7 @@ Let’s leave the rest of the book shrouded in darkness. I will only say it’s 
 
 ![](https://acximages.ennals.org/images/2022-book-reviews/3dc6b9fb7edf0a62.jpg)
 
-_The central square of Petushki, in real life, as of 2003.  
-_
+_The central square of Petushki, in real life, as of 2003._  
 
 Earlier we asked: is Venya’s self-destruction graceless or unnecessary? There’s a lot you could claim it to be, especially with the analytical toolbox of a 2022 rationalist blog reader (learned helplessness crossed my mind; I wonder if Integrated Family Systems can be shoved in there; what if Gendlin Focusing can be a metaphor for a riddle-posing Sphinx), but I want to go back to the “general” and “human” here, use only words that appear in the Bible, and make claim Venya’s self-destruction is _graceful_ and _necessary_ because it produced this book.
 

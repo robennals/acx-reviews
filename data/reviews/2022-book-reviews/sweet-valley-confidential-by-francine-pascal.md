@@ -132,9 +132,9 @@ The original Sweet Valley High series would launch multiple spin-offs ranging fr
 
 After Gossip Girl became a TV show and made lots of money, there was an attempt to cash in on Sweet Valley High. The first few books were re-released and updated. The twins shrank from size 6 to size 4, Elizabeth worked for the school blog instead of the school newspaper, and occasionally characters would glance at cell phones to remind us it was now set in the present day. It wasn’t very successful and only the first several were ever updated. More ambitiously, Francine Pascal would release [Sweet Valley Confidential](https://www.amazon.com/Sweet-Valley-Confidential-Years-Later-ebook/dp/B00457X82Q/ref=sr_1_1?crid=39HWQLSS0C3B5&keywords=sweet+valley+confidential&qid=1648762224&sprefix=sweet+valley+confiden%2Caps%2C394&sr=8-1) and the [Sweet Life](https://www.amazon.com/Sweet-Life-Serial-Valley-Confidential-ebook/dp/B008VA7JOG/ref=sr_1_3?crid=1QZJ01ZAL7EVQ&keywords=sweet+life+sweet+valley&qid=1648762295&sprefix=sweet+life+sweet+valley%2Caps%2C120&sr=8-3), chronicling the lives of the twins at ages 27 and 30 respectively. 
 
-![](https://acximages.ennals.org/images/2022-book-reviews/1215e7381e207f04.jpg)
+![](https://acximages.ennals.org/images/2022-book-reviews/70675ff1a1b1f80f.jpg)
 
-**The New Stories**
+## The New Stories
 
 Whenever a big IP is revived (Star Wars) or adapted (Marvel) there’s always a lot of speculation about whether the focus will be on pleasing obsessive fans or attracting a new audience.
 
@@ -180,25 +180,25 @@ Some things ought to stay dead. Some magic only belongs to the 80s and the 90s.
 
 These are the Sweet Valley books that should be remembered and reread.
 
-1. Dear Sister (Sweet Valley High #7)
+> 1. Dear Sister (Sweet Valley High #7)
 >
-2. Double Love (Sweet Valley High #1)
+> 2. Double Love (Sweet Valley High #1)
 >
-3. Romeo and 2 Juliets (Sweet Valley Twins #84)
+> 3. Romeo and 2 Juliets (Sweet Valley Twins #84)
 >
-4. Boyfriends for Everyone (The Unicorn Club #17)
+> 4. Boyfriends for Everyone (The Unicorn Club #17)
 >
-5. The Pom-Pom Wars (Sweet Valley High #113
+> 5. The Pom-Pom Wars (Sweet Valley High #113
 >
-6. Slam Book Fever (Sweet Valley High #48)
+> 6. Slam Book Fever (Sweet Valley High #48)
 >
-7. Lila’s Secret Valentine (Sweet Valley Twins Super Edition #5)
+> 7. Lila’s Secret Valentine (Sweet Valley Twins Super Edition #5)
 >
-8. Jessica Against Bruce (Sweet Valley High #86)
+> 8. Jessica Against Bruce (Sweet Valley High #86)
 >
-9. The Evil Twin (Sweet Valley High #100)
+> 9. The Evil Twin (Sweet Valley High #100)
 >
-10.  The Unicorns Go Hawaiian (Sweet Valley Twins Super Edition #4)
+> 10.  The Unicorns Go Hawaiian (Sweet Valley Twins Super Edition #4)
 
 * * *
 

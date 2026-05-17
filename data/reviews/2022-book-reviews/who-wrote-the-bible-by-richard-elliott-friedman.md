@@ -169,7 +169,7 @@ So, who_was_ this writer? Well, the DH spends a weirdly large amount of time tal
 > _And there was none like him before him, a king who returned to YHWH with all his heart and with all his soul and with all his might according to all the law of Moses, and none arose like him after him._
 
 Shockingly, Friedman thinks the DH was written in the reign of Josiah.  
-        Friedman presents a slew of fiddly details to really hammer in the case, but really I’m willing to buy it already. (Oh, also, the DH criticizes every king except Josiah and Hezekiah for not  abolishing the non-Temple temples_until_ Josiah, after whom the issue isn’t even brought up. Same with comparing kings to David.)
+        Friedman presents a slew of fiddly details to really hammer in the case, but really I’m willing to buy it already. (Oh, also, the DH criticizes every king except Josiah and Hezekiah for not  abolishing the non-Temple temples _until_ Josiah, after whom the issue isn’t even brought up. Same with comparing kings to David.)
 
 However, the _laws_ in Deuteronomy were probably _not_ written by a member of Josiah’s _court_. We know this because one of the laws in Deuteronomy says that the king isn’t allowed to have too much money. Also, a couple of the military laws seem to presume a draft that was rescinded well before Josiah’s reign. And the laws in Deuteronomy are very pro-Levite, so we can probably be pretty safe in saying that the author was a Levite priest; but Deuteronomy also gives no special distinctions to the Aaronid Levites, or in fact mentions them at all, so the author probably wasn’t an _Aaronid_ Levite.
 

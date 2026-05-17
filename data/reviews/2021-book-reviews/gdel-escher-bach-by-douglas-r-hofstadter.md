@@ -62,15 +62,9 @@ The MIU-system:
 
 > Example: from UMI, form UMIU
 >
-*   Rule II: given a string of the form M_x_ where _x_ consists of M’s, I’s, and U’s, you can form the string M_xx_
->
 > Example: from MIU, form MIUIU
 >
-*   Rule III: given any string with III appearing somewhere inside, you may replace III with U
->
 > Example: from MIIII, you can form MUI (by replacing the middle III with U). You can also form MIU (by replacing the ending III with U).
->
-*   Rule IV: given any string with UU appearing inside, you may delete UU
 >
 > Example: from MUUI, form MI
 

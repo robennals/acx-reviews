@@ -109,9 +109,9 @@ Like most hazardous industries, PG&E fieldwork is governed by permit to work - a
 
 The permit paperwork submitted to complete the work at Milpitas on September the 9th is on the [NTSB docket for San Bruno](https://data.ntsb.gov/Docket/?NTSBNumber=DCA10MP008) as Exhibit 2AM. I’ve excerpted the relevant sections here:
 
-![](https://acximages.ennals.org/images/2023-book-reviews/bd5a7de5d106e955.png)
+![](https://acximages.ennals.org/images/2023-book-reviews/d8867051dcb5434d.png)
 
-![](https://acximages.ennals.org/images/2023-book-reviews/b5d740c131508d77.png)
+![](https://acximages.ennals.org/images/2023-book-reviews/c7e1b864fc35111a.png)
 
 [I’ve censored the names and numbers of the techs involved, but the NTSB did not do this, which seemed weird to me. I hope they’re work numbers.]
 
@@ -143,9 +143,9 @@ Most of the US, however, have action-based laws. California, specifically, had t
 
 *   1956, the pipeline was constructed. No specific laws apply, however industry mostly followed the standard ASME B31.1.8 (1955), which stated that new lines shall be hydrotested to a factor above maximum allowable operating pressure (MAOP).  
     Line 132 was not hydrotested at construction (there’s no record, and it probably would have failed if it was tested)  
-
+    
 *   1961, California General Order 112 - new pipelines are to be hydrotested to ASME B31.1 (1958), however nothing about old pipelines specifically.  
-
+    
 *   1970, Federal 49 CFR 192.505 - new pipelines are to be hydrotested to 1.5 x MAOP, however a grandfathering clause explicitly states that for existing lines, MAOP shall be the highest pressure the line has been exposed to prior to 1 July 1970
 *   2004, Federal 49 CFR 192.917(e) - existing lines must be hydrotested if operating pressure rises above pressure seen in the last 5 years
 

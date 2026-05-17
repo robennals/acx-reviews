@@ -83,7 +83,7 @@ For more details on what exactly high and low status look like in practice, [Tas
 ![](https://acximages.ennals.org/images/2025-non-book-reviews/10c592761ec60da4.png)
 
 If you want to see the pure body language of status, look no further than Greg and Alex. This picture shows it, but the [video of them](https://youtu.be/auFi3RzlzPU?t=319) is much clearer. Greg is relaxed, stares fixedly at whomever he is talking to, has his shoulders back. Alex looks around, off in space. He sits forward, tucked in on himself, nervously glances at Greg, constantly making fast darting movements. He compliments and adores Greg; Greg constantly insults him. Greg has all the status, Alex has none. Most of the comedy comes from the difference in status between them, and crucially to the show, Greg's status is amplified by Alex acting so low-status, which makes Greg's judgments of the other comedians feel much more real and powerful.  
-
+  
 Notably, Greg acts both dominant and prestigious, fluidly switching between threatening Alex and impressing other comedians with a quick joke. Both raise his status in ways that the show needs to function, and I think this helps show what I mean when I say that status is a single variable, that can be raised in two different, but not exclusive, ways.
 
 That's a lot of info, but for the purposes of this essay, the important points are:
@@ -326,9 +326,8 @@ The status framework might seem to paint an unromantic picture of human sexualit
 
 But, just because something is uncomfortable, doesn’t mean it’s not true. We don’t particularly like thinking about status, and we don’t like thinking about sexuality; combining them feels uncomfortable. But,
 
-_“If the box contains a diamond,_
-
-_I desire to believe that the box contains a diamond;_
+> _“If the box contains a diamond,_  
+> _I desire to believe that the box contains a diamond;_
 
 What is true is already so. And I think having a framework, having explanations, is more comforting than people might think. I’ve talked to friends that had dark, violent sexual fantasies, and were ashamed of them, felt bad about them, and from what I’ve seen on the internet, they’re far from alone in this. I’ve explained some of this framework to those friends, that this is widespread, that our sexual instincts are focused on status, and that it’s ok to be turned on by these fantasies, that it’s human, not evidence of your brain being broken; they found that message helpful.
 
@@ -356,9 +355,7 @@ Likewise, a status based theory of sexuality is a framework that replaces increa
 
 It's elegant. It's predictive. And most importantly, it helps make sense of human behavior in all its weird, wonderful complexity.
 
-**Why does this matter?**    
-
-To some degree, as mentioned before, this is insight porn; great for understanding things, or feeling like you understand things, but potentially less useful in day-to-day life. Status is a powerful framework, but also, if you try to handle regular social interactions through it, I think you’ll mostly just be incredibly awkward and weird. Pick the right frame for the context you’re in.
+**Why does this matter?**  To some degree, as mentioned before, this is insight porn; great for understanding things, or feeling like you understand things, but potentially less useful in day-to-day life. Status is a powerful framework, but also, if you try to handle regular social interactions through it, I think you’ll mostly just be incredibly awkward and weird. Pick the right frame for the context you’re in.
 
 But, I do think there is some value in understanding the links between status and sexuality. In my life, it’s made me a better lover. I flailed around when I first started sleeping with people, trying out different things. Some things got better reactions, and so, I started doing those things more, but I had no idea why people liked it when I moved them around, told them what to do, lightly choked them, etc. I could vaguely speculate, “I guess being dominant is attractive?” but that was about the limit of the framework I had at the time. I knew BDSM was a thing, and realized that I was acting as a Dom, but I’m a pretty prototypical Scott Alexander reader; I needed a framework, a scaffold to understand what the essence of being a Dom was, not just a list of traits.
 

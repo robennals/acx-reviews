@@ -110,9 +110,9 @@ No, I mean they did the actual steps of the design process in parallel:
 
 > _We then had to design, build and operate an extremely large plant with equipment of incredible complexity, without the benefit of any pilot plant or intermediate development… Always we were driven by the need to make haste. Consequently, research, development, construction and operation all had to be started and carried on simultaneously and without appreciable prior knowledge._
 
-![](https://acximages.ennals.org/images/2022-book-reviews/1e8335cb04f32bb9.jpg)
+![](https://acximages.ennals.org/images/2022-book-reviews/69ced3ec4e0c10d5.jpg)
 
-**Groves’s Engineering Design Process**
+## Groves’s Engineering Design Process
 
 They literally started choosing sites, buying land and materials, and building the plants before the actual designs were even complete. Sometimes they started building even before doing the basic research to know if the process they were building was technologically possible, or even necessary.
 
@@ -516,7 +516,7 @@ Really? How can you be sure?
 
 Oh, Groves mentions those. After the war, Alsos interned ten German scientists they had identified as being involved in German nuclear weapons development at Farm Hall in England, right? But they bugged all the rooms to eavesdrop on what they were saying. Groves quotes from the reports a few times.
 
-**Indeed – as far as I know no full original transcripts exist, but the translated selections reported to Groves by Major Rittner are** **[available and published](https://www.amazon.com/Hitlers-Uranium-Club-Secret-Recordings/dp/0387950893/)****.**
+**Indeed – as far as I know no full original transcripts exist, but the translated selections reported to Groves by Major Rittner are** **[available and published](https://www.amazon.com/Hitlers-Uranium-Club-Secret-Recordings/dp/0387950893/).**
 
 Wouldn’t the Germans have expected the Americans to be spying on them and avoided saying anything compromising, though?
 
@@ -524,7 +524,7 @@ Wouldn’t the Germans have expected the Americans to be spying on them and avoi
 
 Well, while the Russians were apparently beating us hands-down at intelligence and counterintelligence, it’s satisfying to know that there was still someone less adept than us. Though it does make me wonder – if the government was already bugging people even back in 1945, how much more should we be concerned about being spied on today, now they’ve had three-quarters of a century to perfect their technique?
 
-**If I were you, I wouldn’t be too concerned. The US may have managed to build nukes in three years back then, but now they’re lucky if they** **[can finish upgrading a stealth plane within two decades](https://www.scientificamerican.com/article/what-went-wrong-with-the-f-35-lockheed-martins-joint-strike-fighter/)****. I used to wonder why the KGB’s operations tended towards information gathering rather than more direct subversion – but with that kind of improvement, who needs sabotage?**
+**If I were you, I wouldn’t be too concerned. The US may have managed to build nukes in three years back then, but now they’re lucky if they** **[can finish upgrading a stealth plane within two decades](https://www.scientificamerican.com/article/what-went-wrong-with-the-f-35-lockheed-martins-joint-strike-fighter/). I used to wonder why the KGB’s operations tended towards information gathering rather than more direct subversion – but with that kind of improvement, who needs sabotage?**
 
 You mock us Americans, but at least we can look back on our good old days! If their nuclear project is anything to judge by, modern airport-building skills aside, the Germans couldn’t even run a halfway-decent tech-development project back in the mid-twentieth century.
 
@@ -596,7 +596,7 @@ Groves would never lie! Every word is gospel! You’re the liar!
 
 Possibly. I still maintain that whatever Groves’s biases were, my explanation makes intuitive sense. After all, don’t top technology companies succeed the same way, by hiring the “best” people – not necessarily at a specific task, but in a general [“smart, and gets things done”](http://steve-yegge.blogspot.com/2008/06/done-and-gets-things-smart.html) sense?
 
-**Sure, sure. But didn’t a bunch of finance companies try the same hiring strategy –** **[and wind up filing for bankruptcy after causing a global recession](https://en.wikipedia.org/wiki/Lehman_Brothers)****?**
+**Sure, sure. But didn’t a bunch of finance companies try the same hiring strategy –** **[and wind up filing for bankruptcy after causing a global recession](https://en.wikipedia.org/wiki/Lehman_Brothers)?**
 
 Their problem was an incentive misalignment – they took no responsibility for the results of their decisions. Rather than borrowing silver from the treasury for their magnetic coils, they were stealing gold for their parachutes. Groves, on the other hand, explicitly took responsibility for the results of the Manhattan Project all the way through, to everyone from politicians to companies to laborers.
 

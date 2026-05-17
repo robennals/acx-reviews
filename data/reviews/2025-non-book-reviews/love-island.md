@@ -35,9 +35,9 @@ The entertainment value of the show revolves around the tension of whether coupl
 
 The chart below illustrates this idea. The X-axis represents the stakes - or the degree to which breaking up feels meaningful, translating to higher entertainment value for the viewer. Since the stakes of a breakup are higher for a month-old couple than for a day-old couple, this axis doubles as a proxy for time. The Y-axis, on the other hand, represents the risk that a given couple will break up. In other words, it tracks the likelihood that something will go wrong. This is the primary lever for the producers to manufacture drama.
 
-![](https://acximages.ennals.org/images/2025-non-book-reviews/fa1f2d02d0b914a8.png)
+![](https://acximages.ennals.org/images/2025-non-book-reviews/5e1bd3160636dff0.png)
 
-**Quadrant 1 - A lot happening but it doesn't matter**
+## Quadrant 1 - A lot happening but it doesn't matter
 
 The top left quadrant is the show's introductory phase, meant to familiarize us with the contestants and the contestants with each other. You'd think this would be entertaining, but you'd be wrong. A lot is happening, the islanders are sizing each other up, relationships are forming and dissolving in minutes, etc. However, the entertainment value is low because the stakes are low. It doesn't feel meaningful because there hasn't been enough time for committed relationships to form or for the viewer to get to know the contestants.
 

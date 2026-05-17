@@ -463,9 +463,9 @@ The third verse contrasts the landscape in which McBride died, a horrifying land
 > The countless white crosses in mute witness stand  
 > To man's blind indifference to his fellow man.  
 > And a whole generation who were butchered and damned.
-
-![](https://acximages.ennals.org/images/2025-non-book-reviews/7fd1ad2d8419ff97.png)![](https://acximages.ennals.org/images/2025-non-book-reviews/ece6958756a3bf6f.png)
-
+>
+> ![](https://acximages.ennals.org/images/2025-non-book-reviews/7fd1ad2d8419ff97.png)![](https://acximages.ennals.org/images/2025-non-book-reviews/ece6958756a3bf6f.png)
+>
 > _Left: Part of the Somme battlefield (Deville Wood) in July 1916_  
 > _Right: The Rancourt (British) Military Cemetery, one of many graveyards and memorials on the Somme battlefield._
 

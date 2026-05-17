@@ -24,9 +24,8 @@ In 1689, the Japanese poet Matsuo Basho, along with his companion Sora, set out 
 
 “_The passing spring_
 
-_Birds mourn_
-
-_Fishes weep_
+> _Birds mourn_  
+> _Fishes weep_
 
 _With tearful eyes_”
 
@@ -72,9 +71,8 @@ My copy of _Narrow Road_ is from a translation by Nobuyuki Yuasa, who also suppl
 
 “_Breaking the silence_
 
-_Of an ancient pond,_
-
-_A frog jumped into water -_
+> _Of an ancient pond,_  
+> _A frog jumped into water -_
 
 _A deep resonance._”
 

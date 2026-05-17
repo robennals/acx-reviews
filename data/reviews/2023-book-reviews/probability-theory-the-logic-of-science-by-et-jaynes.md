@@ -81,12 +81,12 @@ The product rule is the first of the 2 rules we need. It is introduced by appeal
 > As a first orientation, note that the process of deciding that AB is true can be broken down
 >
 > into elementary decisions about A and B separately. The robot can
->
+
 1.  decide that B is true; (![](https://acximages.ennals.org/images/2023-book-reviews/d8379d8123253158.png))
 2.  having accepted B as true, decide that A is true. (![](https://acximages.ennals.org/images/2023-book-reviews/fd002dda5e8d4bb8.png))
->
+
 > Or, equally well,
->
+
 1.  decide that A is true; (![](https://acximages.ennals.org/images/2023-book-reviews/4cad311287c4343f.png))
 2.  having accepted A as true, decide that B is true. (![](https://acximages.ennals.org/images/2023-book-reviews/2a6deeda22a7b073.png))
 
@@ -98,9 +98,9 @@ Or as Jaynes prefers it:
 
 ![](https://acximages.ennals.org/images/2023-book-reviews/1a0af6b006b87dac.png)
 
-Note that Jaynes has a habit of always slapping on an extra conditional ![](https://acximages.ennals.org/images/2023-book-reviews/c7d6b57f4df0da60.png) instead of ![](https://acximages.ennals.org/images/2023-book-reviews/3be9e5cf5552739f.png) to emphasize that ![](https://acximages.ennals.org/images/2023-book-reviews/3be9e5cf5552739f.png) is a probability subject to whatever background information (prior knowledge) you have available to you, for him the concept of ![](https://acximages.ennals.org/images/2023-book-reviews/b77eb4197d963f13.png) makes no sense, as it suggests a probability independent of any information
+Note that Jaynes has a habit of always slapping on an extra conditional ![](https://acximages.ennals.org/images/2023-book-reviews/c7d6b57f4df0da60.png) instead of ![](https://acximages.ennals.org/images/2023-book-reviews/0e017b43d731787c.png) to emphasize that ![](https://acximages.ennals.org/images/2023-book-reviews/0e017b43d731787c.png) is a probability subject to whatever background information (prior knowledge) you have available to you, for him the concept of ![](https://acximages.ennals.org/images/2023-book-reviews/1d35ea9a405d1623.png) makes no sense, as it suggests a probability independent of any information
 
-The Sum rule is basically that since A and not A is one (![](https://acximages.ennals.org/images/2023-book-reviews/5f8d58ba21b5731f.png)), then
+The Sum rule is basically that since A and not A is one (![](https://acximages.ennals.org/images/2023-book-reviews/1fefa8c019e35622.png)), then
 
 ![](https://acximages.ennals.org/images/2023-book-reviews/fb5666aa07cfd922.png)
 
@@ -134,17 +134,17 @@ Jaynes is a physicist and therefore cares about the real world, not the idealize
 > In probability theory there is a very clever trick for handling a problem that becomes too
 >
 > difficult. We just solve it anyway by:
->
+
 1.  making it still harder;
 2.  redefining what we mean by ‘solving’ it, so that it becomes something we can do;
 3.  inventing a dignified and technical-sounding word to describe this procedure, which has the psychological effect of concealing the real nature of what we have done, and making it appear respectable.
->
+
 > In the case of sampling with replacement, we apply this strategy as follows.
->
+
 1.  Suppose that, after tossing the ball in, we shake up the urn. However complicated the problem was initially, it now becomes many orders of magnitude more complicated, because the solution now depends on every detail of the precise way we shake it, in addition to all the factors mentioned above.
 2.  We now assert that the shaking has somehow made all these details irrelevant, so that the problem reverts back to the simple one where the Bernoulli urn rule applies.
 3.  We invent the dignified-sounding word randomization to describe what we have done. This term is, evidently, a euphemism, whose real meaning is: deliberately throwing away relevant information when it becomes too complicated for us to handle.
->
+
 > We have described this procedure in laconic terms, because an antidote is needed for the impression created by some writers on probability theory, who attach a kind of mystical
 >
 > significance to it. For some, declaring a problem to be ‘randomized’ is an incantation with
@@ -299,7 +299,7 @@ Kahneman and Tversky (1972) and Wason and Johnson laird (1972) both show that hu
 
 ### Chapter 6: Elementary Parameter Estimation
 
-This chapter would usually be chapter 1 or assumed reading of normal statistical books, alas, we are now on page 149 and Jaynes finally introduces the concept of a parameter! This is like writing a 149 pages introduction to programming without introducing the concept of a variable for “pedagogical reasons”. The pedagogical trick being played here is to save yourself from the mind projection fallacy. If your model (or computer program) has a parameter for the frequency of red balls being drawn from my basket then that is a feature of your model not a feature of the basket! How can you write 150 pages of statistics without variables? Because they are not real! The way Jaynes pulled it off was by always pointing to the events in the world rather than the parameters in a statistical model in his head, so we have ![](https://acximages.ennals.org/images/2023-book-reviews/a911adfd03511d47.png), the probability that the 3rd draw from the urn is a red ball given two previous red draws, rather than ![](https://acximages.ennals.org/images/2023-book-reviews/ecb0b3582aee994c.png) where ![](https://acximages.ennals.org/images/2023-book-reviews/af86416ad9ca402a.png) is the “urns propensity to produce red balls”. Thanks Jaynes!
+This chapter would usually be chapter 1 or assumed reading of normal statistical books, alas, we are now on page 149 and Jaynes finally introduces the concept of a parameter! This is like writing a 149 pages introduction to programming without introducing the concept of a variable for “pedagogical reasons”. The pedagogical trick being played here is to save yourself from the mind projection fallacy. If your model (or computer program) has a parameter for the frequency of red balls being drawn from my basket then that is a feature of your model not a feature of the basket! How can you write 150 pages of statistics without variables? Because they are not real! The way Jaynes pulled it off was by always pointing to the events in the world rather than the parameters in a statistical model in his head, so we have ![](https://acximages.ennals.org/images/2023-book-reviews/a911adfd03511d47.png), the probability that the 3rd draw from the urn is a red ball given two previous red draws, rather than ![](https://acximages.ennals.org/images/2023-book-reviews/ecb0b3582aee994c.png) where ![](https://acximages.ennals.org/images/2023-book-reviews/52c7f6fe0fecb750.png) is the “urns propensity to produce red balls”. Thanks Jaynes!
 
 First, we’ll introduce the maximum likelihood estimate (MLE), which can be used to estimate outcomes or parameters. This method can be applied once you are able to assign probabilities to every possible outcome, by literally selecting the outcome with the highest probability as your estimate. This effectively discards a lot of information about the distribution, and can produce counterintuitive results if the discarded information was actually useful. There are some cases where this will have ‘atypical’ estimates (that are outside of the ‘typical set’ in information theory). An easy to understand example is that if you have a 60/40 biased coin, the MLE for a 1000 sequence of flips will be 1000 heads in a row. Note that this all-heads result is the most likely estimate of the sequence, which we are focusing on to show counterintuitive properties of MLE (you could use MLE to estimate the number of total heads to expect instead of the ordered sequence, and it would estimate 600 heads here). In real life we’d always expect some tails in the sequence, and we’d expect more tails if the coin is closer to 50/50, but the MLE is indifferent to the degree of fairness that the coin has - for any even slightly biased coin it will be all heads. If you think about this further, MLE can be very blunt, since all coins probably have some tiny physical difference that would bias them just a teeny bit to one side of the coin (say 49.999999999% heads, 50.00000001% tails), so all MLE estimates for coin flip sequences should be all heads or all tails if we inspect them closely enough. This example is for the MLE of an outcome, given the coin’s bias parameter, which is arguably the easier case to grok. The other way to use it is to find the most likely estimate for the parameter (e.g. the amount of bias in the coin) given data (e.g. a sequence of coin flips).
 

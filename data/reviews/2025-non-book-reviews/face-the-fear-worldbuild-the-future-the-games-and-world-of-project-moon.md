@@ -61,9 +61,9 @@ Project Moon games are notoriously brutal and Lobotomy Corporation definitely es
 
 Being that this is written for ACX I’d be remiss if I didn’t mention that Lobotomy Corporation and Library of Ruina, partly in the SCP tradition, have several, up-front, superficial references to Kabbalah**[4]**; your facility’s departments are unambiguously arranged in and overseen by characters named for the corresponding Sephirot (though in Lobotomy Corporation the Tree of Life is inverted), and abnormalities are given one of five threat levels named for letters of the Hebrew alphabet.
 
-![](https://acximages.ennals.org/images/2025-non-book-reviews/25090615fa2902be.jpg)
+![](https://acximages.ennals.org/images/2025-non-book-reviews/0e9e52414610366a.jpg)
 
-![](https://acximages.ennals.org/images/2025-non-book-reviews/b021743a49a4857e.png)
+![](https://acximages.ennals.org/images/2025-non-book-reviews/31d022372af7671d.png)
 
 ![](https://acximages.ennals.org/images/2025-non-book-reviews/50e482530774a230.png)
 
@@ -97,9 +97,9 @@ The visual presentation is mixed. The UI in combat oversaturates you with useful
 
 ![](https://acximages.ennals.org/images/2025-non-book-reviews/bcbca55ec019c985.jpg)
 
-![](https://acximages.ennals.org/images/2025-non-book-reviews/25049c9dad87ddc7.jpg)
+![](https://acximages.ennals.org/images/2025-non-book-reviews/ed51790e97bedab7.jpg)
 
-![](https://acximages.ennals.org/images/2025-non-book-reviews/c6f456ab69429d6e.jpg)
+![](https://acximages.ennals.org/images/2025-non-book-reviews/9af373aabc82708c.jpg)
 
 Limbus Company continues the trend of opening up the City to us more than its predecessors; where Library of Ruina was sort of constrained to a central location, Limbus Company very quickly shows us a large variety of locations all around the City. This time we also have a strong central cast of diverse characters whose backgrounds touch on many important factions and locations we’ve only had glimpses of so far. Project Moon still loves their superficial references; all of the player character “Sinners” are named after prominent literature main characters with varying subtlety**[13]**. The gacha pulls in this case are for “Identities”, which are mirror world alternate-universe versions of the main cast where the characters were involved with various different City factions, with different abilities and affinities.
 
