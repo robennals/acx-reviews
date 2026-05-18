@@ -1,3 +1,4 @@
+import { Suspense } from 'react';
 import { getAllReviews, getAllContests, getAllTags } from '@/lib/reviews';
 import { HomePageClient } from '@/components/home-page-client';
 
@@ -60,7 +61,9 @@ export default async function HomePage() {
 
   return (
     <>
-      <HomePageClient reviews={reviews} contests={contests} tags={tags} />
+      <Suspense>
+        <HomePageClient reviews={reviews} contests={contests} tags={tags} />
+      </Suspense>
       <noscript>
         <div className="max-w-4xl mx-auto px-6 sm:px-8 py-8">
           <h2 className="text-xl font-serif font-semibold mb-4">All Reviews</h2>

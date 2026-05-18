@@ -3,7 +3,6 @@
 import { useEffect, useRef } from 'react';
 import type { ReviewFootnote } from '@/lib/types';
 import { FootnoteProvider, useFootnotes } from './footnote-context';
-import { FootnotesSection } from './footnotes-section';
 import { FootnoteSheet } from './footnote-sheet';
 
 interface ReviewContentProps {
@@ -45,10 +44,13 @@ function Body({ contentHtml, className }: { contentHtml: string; className?: str
  * Renders markdown content with clean, reading-optimized typography
  */
 export function ReviewContent({ contentHtml, footnotes, className }: ReviewContentProps) {
+  // FootnotesSection is rendered separately by the page so that the rating
+  // card can sit between the article body and the footnotes. The provider
+  // still wraps the body and sheet, since clicks on footnote refs inside
+  // the body open the sheet via the shared `open()` context.
   return (
     <FootnoteProvider footnotes={footnotes}>
       <Body contentHtml={contentHtml} className={className} />
-      <FootnotesSection footnotes={footnotes} />
       <FootnoteSheet />
     </FootnoteProvider>
   );

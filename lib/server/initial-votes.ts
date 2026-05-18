@@ -1,5 +1,5 @@
 import 'server-only';
-import { and, asc, eq } from 'drizzle-orm';
+import { and, eq } from 'drizzle-orm';
 import { auth } from '@/auth';
 import { db, isDbConfigured } from '@/lib/db/client';
 import { votes } from '@/lib/db/schema';
@@ -9,17 +9,13 @@ import { getAllContests } from '@/lib/reviews';
 export interface InitialVotesState {
   contestYear: number | null;
   contestTitle: string | null;
-  contestId: string | null;        // active contest id (for the API call)
+  contestId: string | null;
   votingStart: string | null;
   votingEnd: string | null;
-  ballot: string[];                // ordered reviewIds; full ballot incl. rank 11+
+  // reviewId → { rating, updatedAt (ms) }
+  ratings: Record<string, { rating: number; updatedAt: number }>;
 }
 
-/**
- * Compute the voting state to inject into the client provider on the server.
- * Voting config comes from env vars; the active contest's ranked ballot
- * comes from a single ordered DB query for signed-in users.
- */
 export async function loadInitialVotes(): Promise<InitialVotesState> {
   const config = getVotingConfig();
   const contests = await getAllContests();
@@ -34,33 +30,25 @@ export async function loadInitialVotes(): Promise<InitialVotesState> {
     votingEnd: config?.end.toISOString() ?? null,
   };
 
-  let userId: string | undefined;
-  try {
-    const session = await auth();
-    userId = (session?.user as { id?: string } | undefined)?.id;
-  } catch (err) {
-    // Auth lookup can throw in misconfigured preview envs (missing
-    // AUTH_SECRET, DB connection issues, etc). Treat as signed-out
-    // rather than nuking the whole voting state — the banner only
-    // needs the meta, and signed-out users still see it.
-    console.error('[initial-votes] auth() failed; treating as signed-out:', err);
-  }
+  const session = await auth();
+  const userId = (session?.user as { id?: string } | undefined)?.id;
   if (!userId || !isDbConfigured || !activeContest) {
-    return { ...meta, ballot: [] };
+    return { ...meta, ratings: {} };
   }
 
-  try {
-    const rows = await db
-      .select({ reviewId: votes.reviewId, rank: votes.rank })
-      .from(votes)
-      .where(and(eq(votes.userId, userId), eq(votes.contestId, activeContest.id)))
-      .orderBy(asc(votes.rank));
-    return { ...meta, ballot: rows.map((r) => r.reviewId) };
-  } catch (err) {
-    // DB query failed for a signed-in user. Return the meta so the
-    // banner stays visible — the user just won't see their previously
-    // ranked ballot until the next request succeeds.
-    console.error('[initial-votes] votes query failed; ballot empty:', err);
-    return { ...meta, ballot: [] };
+  const rows = await db
+    .select({
+      reviewId: votes.reviewId,
+      rating: votes.rating,
+      updatedAt: votes.updatedAt,
+    })
+    .from(votes)
+    .where(and(eq(votes.userId, userId), eq(votes.contestId, activeContest.id)));
+
+  const ratings: Record<string, { rating: number; updatedAt: number }> = {};
+  for (const r of rows) {
+    ratings[r.reviewId] = { rating: r.rating, updatedAt: r.updatedAt.getTime() };
   }
+
+  return { ...meta, ratings };
 }

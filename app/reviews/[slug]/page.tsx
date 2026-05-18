@@ -1,10 +1,11 @@
 import { Metadata } from 'next';
 import { notFound } from 'next/navigation';
-import Link from 'next/link';
-import { getReviewBySlug, getAllReviews, getReviewsByContest } from '@/lib/reviews';
+import { getReviewBySlug, getAllReviews } from '@/lib/reviews';
 import { ReviewContent } from '@/components/review-content';
+import { FootnotesSection } from '@/components/footnotes-section';
 import { ReadingProgressTracker } from '@/components/reading-progress-tracker';
-import { VoteButton } from '@/components/vote-button';
+import { RatingCard } from '@/components/rating-card';
+import { BackToArchiveLink } from '@/components/back-to-archive-link';
 import { SITE_URL } from '@/lib/constants';
 
 interface ReviewPageProps {
@@ -55,9 +56,6 @@ export default async function ReviewPage({ params }: ReviewPageProps) {
     notFound();
   }
 
-  const contestReviews = await getReviewsByContest(review.contestId);
-  const reviewLookup = new Map(contestReviews.map(r => [r.id, r.title]));
-
   const jsonLd = {
     '@context': 'https://schema.org',
     '@type': 'Article',
@@ -82,20 +80,20 @@ export default async function ReviewPage({ params }: ReviewPageProps) {
         <header className="bg-muted/30 border-b border-border">
           <div className="max-w-3xl mx-auto px-6 sm:px-8 py-12">
             {/* Back link */}
-            <Link
-              href="/"
-              className="inline-flex items-center text-sm text-muted-foreground hover:text-foreground transition-colors no-underline mb-8"
-            >
+            <BackToArchiveLink className="inline-flex items-center text-sm text-muted-foreground hover:text-foreground transition-colors no-underline mb-8">
               <svg className="w-4 h-4 mr-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                 <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M15 19l-7-7 7-7" />
               </svg>
               Back to archive
-            </Link>
+            </BackToArchiveLink>
 
             {/* Title */}
-            <h1 className="text-3xl sm:text-4xl lg:text-[2.75rem] font-serif font-semibold leading-tight tracking-tight mb-6 text-balance">
+            <h1 className="text-3xl sm:text-4xl lg:text-[2.75rem] font-serif font-semibold leading-tight tracking-tight mb-3 text-balance">
               {review.title}
             </h1>
+
+            {/* Inline rating card directly under the title */}
+            <RatingCard reviewId={review.id} reviewYear={review.year} />
 
             {/* Attribution - only show if we have meaningful author info */}
             {(review.author !== 'Unknown' || review.reviewAuthor !== 'Anonymous') && (
@@ -139,30 +137,31 @@ export default async function ReviewPage({ params }: ReviewPageProps) {
         </header>
 
         {/* Content */}
-        <div className="max-w-3xl mx-auto px-6 sm:px-8 py-12 lg:py-16">
+        <div className="max-w-3xl mx-auto px-6 sm:px-8 pt-12 lg:pt-16">
           <ReviewContent contentHtml={review.contentHtml} footnotes={review.footnotes} />
-          <VoteButton
-            reviewId={review.id}
-            reviewTitle={review.title}
-            reviewYear={review.year}
-            reviewLookup={reviewLookup}
-            variant="block"
-          />
+        </div>
+
+        {/* Rating card after the body but BEFORE footnotes — many readers
+            stop before reaching the footnotes section. */}
+        <div className="max-w-3xl mx-auto px-6 sm:px-8">
+          <RatingCard reviewId={review.id} reviewYear={review.year} />
+        </div>
+
+        {/* Footnotes section (renders nothing when there are none). */}
+        <div className="max-w-3xl mx-auto px-6 sm:px-8 pb-12">
+          <FootnotesSection footnotes={review.footnotes} />
         </div>
 
         {/* Footer */}
         <footer className="border-t border-border bg-muted/30">
           <div className="max-w-3xl mx-auto px-6 sm:px-8 py-10">
             <div className="flex flex-col sm:flex-row items-start sm:items-center justify-between gap-4">
-              <Link
-                href="/"
-                className="inline-flex items-center text-sm text-muted-foreground hover:text-foreground transition-colors no-underline"
-              >
+              <BackToArchiveLink className="inline-flex items-center text-sm text-muted-foreground hover:text-foreground transition-colors no-underline">
                 <svg className="w-4 h-4 mr-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                   <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M15 19l-7-7 7-7" />
                 </svg>
                 Back to archive
-              </Link>
+              </BackToArchiveLink>
 
               {review.originalUrl && (
                 <a
