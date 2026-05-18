@@ -7,7 +7,7 @@ contestName: 2025 Non Book Reviews
 year: 2025
 publishedDate: '2026-02-06T16:52:48.886Z'
 slug: a-new-theodicy-for-high-school-math
-wordCount: 1363
+wordCount: 1365
 readingTimeMinutes: 7
 originalUrl: https://docs.google.com/document/d/1d0vRSj1E93joWWvbUen2XGuDjN_mM94ybMIAADzM2fo
 source: gdoc
@@ -59,9 +59,8 @@ And look, I find it compelling too. There are things I’ve done in my life that
 
 Eliason is getting at something important; it is genuinely good to have proof you can do hard things. But as I read through the comments online, I found myself thinking _but_ _that’s not good justification for pointless activity_. In fact, once you pay attention, it approaches _non sequitur:_
 
-“Dad, why did you make me count the 474,339 blades of grass on the lawn?”
-
-“Son, I’ve given you a gift: proof you can do hard things. You’re welcome.”
+> “Dad, why did you make me count the 474,339 blades of grass on the lawn?”  
+> “Son, I’ve given you a gift: proof you can do hard things. You’re welcome.”
 
 By now, we should all know from the internet [atheism](https://slatestarcodex.com/2017/10/24/how-did-new-atheism-fail-so-miserably/) [wars](https://www.astralcodexten.com/p/the-rise-and-fall-of-online-culture) (or the history of philosophy) that this pattern of reasoning just doesn’t work. When posed with the Problem of Evil — how could there be evil in a world created by an all-powerful, all-knowing, and all-loving god? — theists quickly say that some evils are “[soul-building](http://www.philosophyblog.com/2009/01/problem-of-evil-soul-making.html)”, or evil arises necessarily from God’s [gift of free will](https://en.wikipedia.org/wiki/Alvin_Plantinga%27s_free-will_defense).
 

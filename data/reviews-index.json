@@ -1,5 +1,60 @@
 [
   {
+    "id": "bellum-catilinae-the-catiline-conspiracy",
+    "title": "Bellum Catilinae -- The Catiline Conspiracy",
+    "author": "Unknown",
+    "reviewAuthor": "Anonymous",
+    "contestId": "2026-book-reviews",
+    "contestName": "2026 Book Reviews",
+    "year": 2026,
+    "publishedDate": "2026-05-10T22:44:46.000Z",
+    "slug": "bellum-catilinae-the-catiline-conspiracy",
+    "excerpt": "Why Do Roman Historians Invent Such Good Speeches for Their Enemies?",
+    "wordCount": 7321,
+    "readingTimeMinutes": 33,
+    "source": "gdoc",
+    "tags": [
+      "History"
+    ]
+  },
+  {
+    "id": "a-world-appears-by-michael-pollan",
+    "title": "\"A World Appears\" by Michael Pollan.",
+    "author": "Unknown",
+    "reviewAuthor": "Anonymous",
+    "contestId": "2026-book-reviews",
+    "contestName": "2026 Book Reviews",
+    "year": 2026,
+    "publishedDate": "2026-05-10T18:27:55.000Z",
+    "slug": "a-world-appears-by-michael-pollan",
+    "excerpt": "Author Michael Pollan is both a journalist and a professor at Harvard and Berkely, where he is the director of the Knight Program in Science and Environmental Journalism. According to his wikipedia...",
+    "wordCount": 3571,
+    "readingTimeMinutes": 16,
+    "source": "gdoc",
+    "tags": [
+      "Science",
+      "Philosophy"
+    ]
+  },
+  {
+    "id": "catullus-16",
+    "title": "Catullus 16",
+    "author": "Unknown",
+    "reviewAuthor": "Anonymous",
+    "contestId": "2026-book-reviews",
+    "contestName": "2026 Book Reviews",
+    "year": 2026,
+    "publishedDate": "2026-05-10T17:50:38.000Z",
+    "slug": "catullus-16",
+    "excerpt": "Neoteric poetry was a movement of Roman poetry in the first century BC that, in opposition to the epic poetry that had dominated popular Latin composition to that point, focused on tightly-crafted...",
+    "wordCount": 4263,
+    "readingTimeMinutes": 19,
+    "source": "gdoc",
+    "tags": [
+      "Fiction"
+    ]
+  },
+  {
     "id": "the-ballad-of-the-white-horse",
     "title": "The Ballad of the White Horse",
     "author": "Unknown",
@@ -282,6 +337,729 @@
     "tags": [
       "Memoir",
       "Psychology"
+    ]
+  },
+  {
+    "id": "the-war-nerd-iliad",
+    "title": "The War Nerd Iliad",
+    "author": "Unknown",
+    "reviewAuthor": "Anonymous",
+    "contestId": "2026-book-reviews",
+    "contestName": "2026 Book Reviews",
+    "year": 2026,
+    "publishedDate": "2026-05-10T03:03:45.000Z",
+    "slug": "the-war-nerd-iliad",
+    "excerpt": "Lineages Longer and Purer Than Their Masters’:  \nA Review of The War Nerd Iliad by John Dolan",
+    "wordCount": 4497,
+    "readingTimeMinutes": 20,
+    "source": "gdoc",
+    "tags": [
+      "Fiction"
+    ]
+  },
+  {
+    "id": "mother-of-learning",
+    "title": "Mother of Learning",
+    "author": "Unknown",
+    "reviewAuthor": "Anonymous",
+    "contestId": "2026-book-reviews",
+    "contestName": "2026 Book Reviews",
+    "year": 2026,
+    "publishedDate": "2026-05-09T22:23:55.000Z",
+    "slug": "mother-of-learning",
+    "excerpt": "What do you get when a literal nobody with zero writing credentials sits down to write a free online fantasy story?  Almost all of the time you get a mess.  The story is either unreadable,...",
+    "wordCount": 5869,
+    "readingTimeMinutes": 27,
+    "source": "gdoc",
+    "tags": [
+      "Fiction"
+    ]
+  },
+  {
+    "id": "undertook-learn-russian-about-ten-years",
+    "title": "Бесы",
+    "author": "Unknown",
+    "reviewAuthor": "Anonymous",
+    "contestId": "2026-book-reviews",
+    "contestName": "2026 Book Reviews",
+    "year": 2026,
+    "publishedDate": "2026-05-09T18:04:08.000Z",
+    "slug": "undertook-learn-russian-about-ten-years",
+    "excerpt": "I undertook to learn Russian about ten years ago just so I could read Dostoyevsky. And, after parsing Бесы (variously translated as “Demons” or “Devils” or “The Possessed”) in its original...",
+    "wordCount": 4892,
+    "readingTimeMinutes": 22,
+    "source": "gdoc",
+    "tags": [
+      "Fiction"
+    ]
+  },
+  {
+    "id": "richard-c-schwartzs-no-bad-parts",
+    "title": "Richard C. Schwartz's \"No Bad Parts\"",
+    "author": "Unknown",
+    "reviewAuthor": "Anonymous",
+    "contestId": "2026-book-reviews",
+    "contestName": "2026 Book Reviews",
+    "year": 2026,
+    "publishedDate": "2026-05-09T15:17:25.000Z",
+    "slug": "richard-c-schwartzs-no-bad-parts",
+    "excerpt": "Manager (MN): an intellectual, age 36  \nFirefighter (FF): a skeptic, age 36  \nSelf: a Self, age unspecified  \nExile (EX): a boy, age 12",
+    "wordCount": 4777,
+    "readingTimeMinutes": 22,
+    "source": "gdoc",
+    "tags": [
+      "Psychology"
+    ]
+  },
+  {
+    "id": "patrocleia-book-xvi-of-homers-iliad-adapted-by-christopher-logue",
+    "title": "Patrocleia. Book XVI of Homer’s Iliad, adapted by Christopher Logue",
+    "author": "Unknown",
+    "reviewAuthor": "Anonymous",
+    "contestId": "2026-book-reviews",
+    "contestName": "2026 Book Reviews",
+    "year": 2026,
+    "publishedDate": "2026-05-08T12:23:17.000Z",
+    "slug": "patrocleia-book-xvi-of-homers-iliad-adapted-by-christopher-logue",
+    "excerpt": "Book design and typography by Germano Facetti  \nScorpion Press, London 1962",
+    "wordCount": 2287,
+    "readingTimeMinutes": 11,
+    "source": "gdoc",
+    "tags": [
+      "Fiction"
+    ]
+  },
+  {
+    "id": "king-rat",
+    "title": "King Rat",
+    "author": "Unknown",
+    "reviewAuthor": "Anonymous",
+    "contestId": "2026-book-reviews",
+    "contestName": "2026 Book Reviews",
+    "year": 2026,
+    "publishedDate": "2026-05-08T00:09:53.000Z",
+    "slug": "king-rat",
+    "excerpt": "If you have read renowned author Dan Brown’s The DaVinci Code or Angles and Demons or (God save you) Digital Fortress, you may have found yourself asking:  \n  \n“What would happen if I tortured Dan...",
+    "wordCount": 913,
+    "readingTimeMinutes": 5,
+    "source": "gdoc",
+    "tags": [
+      "Fiction"
+    ]
+  },
+  {
+    "id": "tortilla-flat-by-john-steinbeck",
+    "title": "Tortilla Flat by John Steinbeck",
+    "author": "Unknown",
+    "reviewAuthor": "Anonymous",
+    "contestId": "2026-book-reviews",
+    "contestName": "2026 Book Reviews",
+    "year": 2026,
+    "publishedDate": "2026-05-07T20:23:00.000Z",
+    "slug": "tortilla-flat-by-john-steinbeck",
+    "excerpt": "The poseur king killed himself with the cyanide tablet he always carried on a golden watchchain. George Sterling, the Poet Laureate of Bohemian San Francisco was dead in 1926 after a disappointing...",
+    "wordCount": 5958,
+    "readingTimeMinutes": 27,
+    "source": "gdoc",
+    "tags": [
+      "Fiction",
+      "History"
+    ]
+  },
+  {
+    "id": "unforgiving-places-the-unexpected-origins-of-american-gun-violence",
+    "title": "Unforgiving Places: The Unexpected Origins of American Gun Violence",
+    "author": "Unknown",
+    "reviewAuthor": "Anonymous",
+    "contestId": "2026-book-reviews",
+    "contestName": "2026 Book Reviews",
+    "year": 2026,
+    "publishedDate": "2026-05-07T18:14:08.000Z",
+    "slug": "unforgiving-places-the-unexpected-origins-of-american-gun-violence",
+    "excerpt": "In 2024, over 15,000 Americans were murdered by a person wielding a gun. The US murder rate is more than twice the average of other wealthy countries, with the bulk of US murders being committed with...",
+    "wordCount": 2372,
+    "readingTimeMinutes": 11,
+    "source": "gdoc",
+    "tags": [
+      "Society",
+      "Politics"
+    ]
+  },
+  {
+    "id": "what-is-real",
+    "title": "What is Real?",
+    "author": "Unknown",
+    "reviewAuthor": "Anonymous",
+    "contestId": "2026-book-reviews",
+    "contestName": "2026 Book Reviews",
+    "year": 2026,
+    "publishedDate": "2026-05-07T14:44:56.000Z",
+    "slug": "what-is-real",
+    "excerpt": "Dear reader, I have set myself a goal: I aim to burn the phrase above – it is a quote – into your mind. If you forget everything else from this essay but remember that quote, I will die a happy...",
+    "wordCount": 10150,
+    "readingTimeMinutes": 46,
+    "source": "gdoc",
+    "tags": [
+      "Science",
+      "Philosophy",
+      "History"
+    ]
+  },
+  {
+    "id": "the-short-swift-time-of-gods-on-earth",
+    "title": "The Short, Swift Time of Gods on Earth",
+    "author": "Unknown",
+    "reviewAuthor": "Anonymous",
+    "contestId": "2026-book-reviews",
+    "contestName": "2026 Book Reviews",
+    "year": 2026,
+    "publishedDate": "2026-05-07T04:25:57.000Z",
+    "slug": "the-short-swift-time-of-gods-on-earth",
+    "excerpt": "Phoenix is in trouble. In 2024, the Arizona capital recorded 113 consecutive days of 100 degrees Fahrenheit or greater; the summers that were always hot but were still bearable are becoming more and...",
+    "wordCount": 10076,
+    "readingTimeMinutes": 45,
+    "source": "gdoc",
+    "tags": [
+      "History",
+      "Society"
+    ]
+  },
+  {
+    "id": "the-waves",
+    "title": "The Waves",
+    "author": "Unknown",
+    "reviewAuthor": "Anonymous",
+    "contestId": "2026-book-reviews",
+    "contestName": "2026 Book Reviews",
+    "year": 2026,
+    "publishedDate": "2026-05-04T21:24:34.000Z",
+    "slug": "the-waves",
+    "excerpt": "I. Virginia Woolf’s The Waves is a novel composed almost entirely of speech delivered by six recurring characters. In fact, barring the short, impersonal, and prosaic preludes that begin each...",
+    "wordCount": 4648,
+    "readingTimeMinutes": 21,
+    "source": "gdoc",
+    "tags": [
+      "Fiction"
+    ]
+  },
+  {
+    "id": "theodicy",
+    "title": "Theodicy",
+    "author": "Unknown",
+    "reviewAuthor": "Anonymous",
+    "contestId": "2026-book-reviews",
+    "contestName": "2026 Book Reviews",
+    "year": 2026,
+    "publishedDate": "2026-05-04T20:16:20.000Z",
+    "slug": "theodicy",
+    "excerpt": "Why does an all-loving, all-powerful, and all-knowing God allow sin and evil in His creation? Why does He allow bad things to happen even to good people? This is the famous problem of evil, and a...",
+    "wordCount": 5109,
+    "readingTimeMinutes": 23,
+    "source": "gdoc",
+    "tags": [
+      "Fiction",
+      "Religion"
+    ]
+  },
+  {
+    "id": "a-christmas-carol-by-charles-dickens",
+    "title": "A Christmas Carol by Charles Dickens",
+    "author": "Unknown",
+    "reviewAuthor": "Anonymous",
+    "contestId": "2026-book-reviews",
+    "contestName": "2026 Book Reviews",
+    "year": 2026,
+    "publishedDate": "2026-05-03T04:56:43.000Z",
+    "slug": "a-christmas-carol-by-charles-dickens",
+    "excerpt": "This must be distinctly understood, or nothing wonderful can come of the story that I am going to review.\nThere'll be parties for hosting  \nMarshmallows for toasting  \nAnd caroling out in the snow ...",
+    "wordCount": 5671,
+    "readingTimeMinutes": 26,
+    "source": "gdoc",
+    "tags": [
+      "Fiction"
+    ]
+  },
+  {
+    "id": "religion-for-atheists",
+    "title": "Religion for Atheists",
+    "author": "Unknown",
+    "reviewAuthor": "Anonymous",
+    "contestId": "2026-book-reviews",
+    "contestName": "2026 Book Reviews",
+    "year": 2026,
+    "publishedDate": "2026-04-29T10:03:56.000Z",
+    "slug": "religion-for-atheists",
+    "excerpt": "Note: I read the Romanian edition of the book, so the quotes from the book are translated into English by my own brain",
+    "wordCount": 5665,
+    "readingTimeMinutes": 26,
+    "source": "gdoc",
+    "tags": [
+      "Religion",
+      "Philosophy"
+    ]
+  },
+  {
+    "id": "bronze-age-mindset-an-exhortation",
+    "title": "Bronze Age Mindset: An Exhortation",
+    "author": "Unknown",
+    "reviewAuthor": "Anonymous",
+    "contestId": "2026-book-reviews",
+    "contestName": "2026 Book Reviews",
+    "year": 2026,
+    "publishedDate": "2026-04-29T01:25:04.000Z",
+    "slug": "bronze-age-mindset-an-exhortation",
+    "excerpt": "Diamond Age Mindset: A Primer for Sensitive Young Cyborgs",
+    "wordCount": 9304,
+    "readingTimeMinutes": 42,
+    "source": "gdoc",
+    "tags": [
+      "Philosophy",
+      "Politics"
+    ]
+  },
+  {
+    "id": "the-evolution-of-desire-by-david-buss",
+    "title": "The Evolution of Desire by David Buss",
+    "author": "Unknown",
+    "reviewAuthor": "Anonymous",
+    "contestId": "2026-book-reviews",
+    "contestName": "2026 Book Reviews",
+    "year": 2026,
+    "publishedDate": "2026-04-28T17:45:57.000Z",
+    "slug": "the-evolution-of-desire-by-david-buss",
+    "excerpt": "In 1902, Rudyard Kipling published a collection of children’s fables called “Just So Stories.”  Each fable was a fantastical tale of how an animal got its unique feature. In Kipling’s imagination, a...",
+    "wordCount": 3753,
+    "readingTimeMinutes": 17,
+    "source": "gdoc",
+    "tags": [
+      "Psychology",
+      "Science"
+    ]
+  },
+  {
+    "id": "inventing-temperature",
+    "title": "Inventing Temperature",
+    "author": "Unknown",
+    "reviewAuthor": "Anonymous",
+    "contestId": "2026-book-reviews",
+    "contestName": "2026 Book Reviews",
+    "year": 2026,
+    "publishedDate": "2026-04-28T15:14:25.000Z",
+    "slug": "inventing-temperature",
+    "excerpt": "Most of us have used a thermometer at some point in our lives. If you’re like me, you didn’t question how this instrument works or ask how it is that we can be sure of its readings. With some...",
+    "wordCount": 5171,
+    "readingTimeMinutes": 23,
+    "source": "gdoc",
+    "tags": [
+      "Science",
+      "Philosophy",
+      "History"
+    ]
+  },
+  {
+    "id": "agatha-christies-works",
+    "title": "Agatha Christie's Works",
+    "author": "Unknown",
+    "reviewAuthor": "Anonymous",
+    "contestId": "2026-book-reviews",
+    "contestName": "2026 Book Reviews",
+    "year": 2026,
+    "publishedDate": "2026-04-26T09:03:59.000Z",
+    "slug": "agatha-christies-works",
+    "excerpt": "Agatha Christie is history’s best-selling novelist, on a par only with Shakespeare. Her works have been adapted over a hundred times, and her play The Mousetrap has been running continuously since it...",
+    "wordCount": 3127,
+    "readingTimeMinutes": 14,
+    "source": "gdoc",
+    "tags": [
+      "Fiction"
+    ]
+  },
+  {
+    "id": "painting-abstract-landscapes",
+    "title": "Painting Abstract Landscapes",
+    "author": "Unknown",
+    "reviewAuthor": "Anonymous",
+    "contestId": "2026-book-reviews",
+    "contestName": "2026 Book Reviews",
+    "year": 2026,
+    "publishedDate": "2026-04-26T04:33:50.000Z",
+    "slug": "painting-abstract-landscapes",
+    "excerpt": "“[W]hen painting Ascension, Edwards found that the painting resolved itself rather too quickly. It was looking too sweet, too illustrative:’I was suspicious of how quickly it had come into being, so...",
+    "wordCount": 7206,
+    "readingTimeMinutes": 33,
+    "source": "gdoc",
+    "tags": [
+      "Philosophy"
+    ]
+  },
+  {
+    "id": "the-sins-of-gk-chesterton",
+    "title": "The Sins of GK Chesterton",
+    "author": "Unknown",
+    "reviewAuthor": "Anonymous",
+    "contestId": "2026-book-reviews",
+    "contestName": "2026 Book Reviews",
+    "year": 2026,
+    "publishedDate": "2026-04-22T18:42:53.000Z",
+    "slug": "the-sins-of-gk-chesterton",
+    "excerpt": "If you look at a thing nine hundred and ninety-nine times, you are perfectly safe; if you look at it the thousandth time, you are in frightful danger of seeing it for the first time.",
+    "wordCount": 7796,
+    "readingTimeMinutes": 35,
+    "source": "gdoc",
+    "tags": [
+      "Religion",
+      "Politics"
+    ]
+  },
+  {
+    "id": "the-mind-is-flat-by-nick-chater",
+    "title": "The Mind is Flat by Nick Chater",
+    "author": "Unknown",
+    "reviewAuthor": "Anonymous",
+    "contestId": "2026-book-reviews",
+    "contestName": "2026 Book Reviews",
+    "year": 2026,
+    "publishedDate": "2026-04-16T13:37:07.000Z",
+    "slug": "the-mind-is-flat-by-nick-chater",
+    "excerpt": "Marc Andreessen recently explained on the Founders podcast that he tries to have \"zero\" introspection. He thinks it's a waste of time.",
+    "wordCount": 7059,
+    "readingTimeMinutes": 32,
+    "source": "gdoc",
+    "tags": [
+      "Psychology"
+    ]
+  },
+  {
+    "id": "the-holy-quran",
+    "title": "The Holy Quran",
+    "author": "Unknown",
+    "reviewAuthor": "Anonymous",
+    "contestId": "2026-book-reviews",
+    "contestName": "2026 Book Reviews",
+    "year": 2026,
+    "publishedDate": "2026-04-16T12:17:27.000Z",
+    "slug": "the-holy-quran",
+    "excerpt": "Islam is fundamentally a simplification, an Arabized version of the already straightforward strains of Christianity dominant in the Eastern Roman Empire and parts of the Sasanian Empire in the 7th...",
+    "wordCount": 5741,
+    "readingTimeMinutes": 26,
+    "source": "gdoc",
+    "tags": [
+      "Religion",
+      "History"
+    ]
+  },
+  {
+    "id": "bleeding-edge-by-thomas-pynchon",
+    "title": "Bleeding Edge by Thomas Pynchon",
+    "author": "Unknown",
+    "reviewAuthor": "Anonymous",
+    "contestId": "2026-book-reviews",
+    "contestName": "2026 Book Reviews",
+    "year": 2026,
+    "publishedDate": "2026-04-04T16:17:04.000Z",
+    "slug": "bleeding-edge-by-thomas-pynchon",
+    "excerpt": "My biggest critical weakness has always been allusion containment, or the inability to resist the connection. Hardly can I see Pennywise anymore without thinking of the white whale, the relationship...",
+    "wordCount": 6144,
+    "readingTimeMinutes": 28,
+    "source": "gdoc",
+    "tags": [
+      "Fiction",
+      "History",
+      "Philosophy"
+    ]
+  },
+  {
+    "id": "cultural-evolution",
+    "title": "Cultural Evolution",
+    "author": "Unknown",
+    "reviewAuthor": "Anonymous",
+    "contestId": "2026-book-reviews",
+    "contestName": "2026 Book Reviews",
+    "year": 2026,
+    "publishedDate": "2026-03-31T15:53:29.000Z",
+    "slug": "cultural-evolution",
+    "excerpt": "You may have noticed that in many countries around the world, young people have very different moral values than old people. The young and the old have of course butted heads since antiquity and...",
+    "wordCount": 6567,
+    "readingTimeMinutes": 30,
+    "source": "gdoc",
+    "tags": [
+      "Politics",
+      "Economics",
+      "Society"
+    ]
+  },
+  {
+    "id": "headbirths-of-the-germans-are-dying-out-by-gunter-grass",
+    "title": "Headbirths of The Germans are Dying Out by Gunter Grass",
+    "author": "Unknown",
+    "reviewAuthor": "Anonymous",
+    "contestId": "2026-book-reviews",
+    "contestName": "2026 Book Reviews",
+    "year": 2026,
+    "publishedDate": "2026-03-31T10:34:37.000Z",
+    "slug": "headbirths-of-the-germans-are-dying-out-by-gunter-grass",
+    "excerpt": "By 1979 when he wrote Headbirths, Günter Grass had completed his acclaimed Danzig Trilogy and The Flounder. The first book of the trilogy, The Tin Drum, had been made into a film which had just won...",
+    "wordCount": 4025,
+    "readingTimeMinutes": 18,
+    "source": "gdoc",
+    "tags": [
+      "Fiction",
+      "Politics",
+      "Society"
+    ]
+  },
+  {
+    "id": "the-campaigns-of-napoleon",
+    "title": "The Campaigns of Napoleon",
+    "author": "Unknown",
+    "reviewAuthor": "Anonymous",
+    "contestId": "2026-book-reviews",
+    "contestName": "2026 Book Reviews",
+    "year": 2026,
+    "publishedDate": "2026-03-30T19:52:25.000Z",
+    "slug": "the-campaigns-of-napoleon",
+    "excerpt": "“Gentlemen, examine this ground carefully, it is going to be a battlefield; you will have a part to play upon it” -Napoleon to his marshal’s examining the battlefield of Austerlitz before the battle",
+    "wordCount": 2391,
+    "readingTimeMinutes": 11,
+    "source": "gdoc",
+    "tags": [
+      "History"
+    ]
+  },
+  {
+    "id": "imagined-communities-relfections-on-the-origin-and-spread-of-nationalism",
+    "title": "Imagined Communities: Relfections on the Origin and Spread of Nationalism",
+    "author": "Unknown",
+    "reviewAuthor": "Anonymous",
+    "contestId": "2026-book-reviews",
+    "contestName": "2026 Book Reviews",
+    "year": 2026,
+    "publishedDate": "2026-03-21T06:22:55.000Z",
+    "slug": "imagined-communities-relfections-on-the-origin-and-spread-of-nationalism",
+    "excerpt": "The concept of nation is such a smashing success so massive that nation, state and nation state are often used interchangeably despite ostensibly being quite different things.",
+    "wordCount": 4540,
+    "readingTimeMinutes": 21,
+    "source": "gdoc",
+    "tags": [
+      "History",
+      "Politics",
+      "Society"
+    ]
+  },
+  {
+    "id": "careless-people-a-cautionary-tale-of-power-greed-and-lost-idealism",
+    "title": "Careless People: A Cautionary Tale of Power, Greed, and Lost Idealism",
+    "author": "Unknown",
+    "reviewAuthor": "Anonymous",
+    "contestId": "2026-book-reviews",
+    "contestName": "2026 Book Reviews",
+    "year": 2026,
+    "publishedDate": "2026-03-19T05:50:01.000Z",
+    "slug": "careless-people-a-cautionary-tale-of-power-greed-and-lost-idealism",
+    "excerpt": "—from Old English caru, cearu, meaning \"sorrow, anxiety, grief\"",
+    "wordCount": 6269,
+    "readingTimeMinutes": 28,
+    "source": "gdoc",
+    "tags": [
+      "Technology",
+      "Memoir",
+      "Politics"
+    ]
+  },
+  {
+    "id": "wild-wise-weird",
+    "title": "Wild Wise Weird",
+    "author": "Unknown",
+    "reviewAuthor": "Anonymous",
+    "contestId": "2026-book-reviews",
+    "contestName": "2026 Book Reviews",
+    "year": 2026,
+    "publishedDate": "2026-03-16T09:21:08.000Z",
+    "slug": "wild-wise-weird",
+    "excerpt": "A story of a review of a book\nIt is a normal Saturday night at the farm. The weather has been kind lately, with sunny days and breezy nights. Tonight is especially chilly, so all animals are packed...",
+    "wordCount": 1527,
+    "readingTimeMinutes": 7,
+    "source": "gdoc",
+    "tags": [
+      "Fiction",
+      "Philosophy",
+      "Society"
+    ]
+  },
+  {
+    "id": "trip-sitting-the-art-and-science-of-holding-psychedelic-space",
+    "title": "Trip Sitting: The Art and Science of Holding Psychedelic Space",
+    "author": "Unknown",
+    "reviewAuthor": "Anonymous",
+    "contestId": "2026-book-reviews",
+    "contestName": "2026 Book Reviews",
+    "year": 2026,
+    "publishedDate": "2026-03-01T16:50:32.000Z",
+    "slug": "trip-sitting-the-art-and-science-of-holding-psychedelic-space",
+    "excerpt": "This is not my own story, but I’m certain it is true. A dear friend of mine once was, the entire statute of limitations ago, invited to a freaky festival-styled wedding where all guests were expected...",
+    "wordCount": 1097,
+    "readingTimeMinutes": 5,
+    "source": "gdoc",
+    "tags": [
+      "Psychology",
+      "Science",
+      "Religion"
+    ]
+  },
+  {
+    "id": "stabilizing-an-unstable-economy",
+    "title": "Stabilizing an Unstable Economy",
+    "author": "Unknown",
+    "reviewAuthor": "Anonymous",
+    "contestId": "2026-book-reviews",
+    "contestName": "2026 Book Reviews",
+    "year": 2026,
+    "publishedDate": "2026-02-26T03:39:04.000Z",
+    "slug": "stabilizing-an-unstable-economy",
+    "excerpt": "“Economic theory is the product of creative imagination; its concepts and constructs are the result of human thought”",
+    "wordCount": 8215,
+    "readingTimeMinutes": 37,
+    "source": "gdoc",
+    "tags": [
+      "Economics",
+      "Politics"
+    ]
+  },
+  {
+    "id": "kindness-goes-unpunished",
+    "title": "Kindness Goes Unpunished",
+    "author": "Unknown",
+    "reviewAuthor": "Anonymous",
+    "contestId": "2026-book-reviews",
+    "contestName": "2026 Book Reviews",
+    "year": 2026,
+    "publishedDate": "2026-02-24T20:05:13.000Z",
+    "slug": "kindness-goes-unpunished",
+    "excerpt": "I've read and enjoyed most, if not all, of this author’s Walt Longmire novels but must say that \"Kindness Goes Unpunished\" is my new favorite. I loved almost everything about it, especially the...",
+    "wordCount": 348,
+    "readingTimeMinutes": 2,
+    "source": "gdoc",
+    "tags": [
+      "Fiction",
+      "Society"
+    ]
+  },
+  {
+    "id": "how-to-prevent-coups-dtat",
+    "title": "How to Prevent Coups d’État",
+    "author": "Unknown",
+    "reviewAuthor": "Anonymous",
+    "contestId": "2026-book-reviews",
+    "contestName": "2026 Book Reviews",
+    "year": 2026,
+    "publishedDate": "2026-02-23T02:28:32.000Z",
+    "slug": "how-to-prevent-coups-dtat",
+    "excerpt": "If, like me, you’re not a Delta Force assault team member, nor possess high level security clearance, on the morning of January 3, 2026, you may have been similarly astonished to read that the United...",
+    "wordCount": 3260,
+    "readingTimeMinutes": 15,
+    "source": "gdoc",
+    "tags": [
+      "Politics",
+      "History"
+    ]
+  },
+  {
+    "id": "scenebux-a-novel",
+    "title": "Scenebux: A Novel",
+    "author": "Unknown",
+    "reviewAuthor": "Anonymous",
+    "contestId": "2026-book-reviews",
+    "contestName": "2026 Book Reviews",
+    "year": 2026,
+    "publishedDate": "2026-02-22T14:43:45.000Z",
+    "slug": "scenebux-a-novel",
+    "excerpt": "About 12 years ago I was travelling through Luton Airport in the UK. Then, as now, the security checkpoint served as a temple to human stupidity. Yet in an effort to change the leopard’s spots,...",
+    "wordCount": 1929,
+    "readingTimeMinutes": 9,
+    "source": "gdoc",
+    "tags": [
+      "Fiction",
+      "Society",
+      "Technology"
+    ]
+  },
+  {
+    "id": "weve-had-a-hundred-years-of-psychotherapy-and-the-worlds-getting-worse",
+    "title": "We've Had a Hundred Years of Psychotherapy and the World's Getting Worse",
+    "author": "Unknown",
+    "reviewAuthor": "Anonymous",
+    "contestId": "2026-book-reviews",
+    "contestName": "2026 Book Reviews",
+    "year": 2026,
+    "publishedDate": "2026-02-21T16:11:34.000Z",
+    "slug": "weve-had-a-hundred-years-of-psychotherapy-and-the-worlds-getting-worse",
+    "excerpt": "It happens every day in my psychotherapy office. A client comes in and complains about the state of the world. The climate is heating up, politics has dissolved into name-calling, madmen with mad...",
+    "wordCount": 2025,
+    "readingTimeMinutes": 9,
+    "source": "gdoc",
+    "tags": [
+      "Psychology",
+      "Philosophy",
+      "Society"
+    ]
+  },
+  {
+    "id": "house-of-leaves",
+    "title": "House Of Leaves",
+    "author": "Unknown",
+    "reviewAuthor": "Anonymous",
+    "contestId": "2026-book-reviews",
+    "contestName": "2026 Book Reviews",
+    "year": 2026,
+    "publishedDate": "2026-02-21T01:21:13.000Z",
+    "slug": "house-of-leaves",
+    "excerpt": "This review is entirely human-written and contains no spoilers beyond the first few pages of the book.",
+    "wordCount": 1526,
+    "readingTimeMinutes": 7,
+    "source": "gdoc",
+    "tags": [
+      "Fiction",
+      "Philosophy"
+    ]
+  },
+  {
+    "id": "dictator-book-club-yoweri-musevenis-sowing-the-mustard-seed",
+    "title": "Dictator Book Club: Yoweri Museveni’s Sowing The Mustard Seed",
+    "author": "Unknown",
+    "reviewAuthor": "Anonymous",
+    "contestId": "2026-book-reviews",
+    "contestName": "2026 Book Reviews",
+    "year": 2026,
+    "publishedDate": "2026-02-20T17:13:52.000Z",
+    "slug": "dictator-book-club-yoweri-musevenis-sowing-the-mustard-seed",
+    "excerpt": "When you land in Entebbe, the first face you see is Yoweri Museveni’s. He’s everywhere, smiling down on you, beatific under his wide-brimmed almost-cowboy hat. His yellow campaign placards are...",
+    "wordCount": 6669,
+    "readingTimeMinutes": 30,
+    "source": "gdoc",
+    "tags": [
+      "Politics",
+      "History",
+      "Memoir"
+    ]
+  },
+  {
+    "id": "the-bible",
+    "title": "The Bible",
+    "author": "Unknown",
+    "reviewAuthor": "Anonymous",
+    "contestId": "2026-book-reviews",
+    "contestName": "2026 Book Reviews",
+    "year": 2026,
+    "publishedDate": "2026-02-20T14:21:53.000Z",
+    "slug": "the-bible",
+    "excerpt": "It is not one book. It is a long, chaotic group project written over centuries by people who did not agree with each other. It contains law codes, poetry, revenge fantasies, love songs, political...",
+    "wordCount": 322,
+    "readingTimeMinutes": 2,
+    "source": "gdoc",
+    "tags": [
+      "Religion",
+      "Philosophy",
+      "History"
     ]
   },
   {
@@ -647,7 +1425,7 @@
     "publishedDate": "2026-02-06T16:57:48.925Z",
     "slug": "a-dance-remix-of-chappell-roans-pink-pony-club",
     "excerpt": "that played in the arena during a timeout in the second quarter of a historically sad professional basketball game.",
-    "wordCount": 10157,
+    "wordCount": 10159,
     "readingTimeMinutes": 46,
     "originalUrl": "https://docs.google.com/document/d/1hjIUcKi-vIM9RGRZDWPRyUtzZLlVrpaY6Jy81iZVYi4",
     "source": "gdoc",
@@ -1078,7 +1856,7 @@
     "publishedDate": "2026-02-06T16:55:59.405Z",
     "slug": "the-world-as-a-whole",
     "excerpt": "Once told, or, at least, actively encouraged to review something as seemingly un-reviewable as an oddly-shaped pebble, political party, or God himself, it’s extremely difficult to avoid going...",
-    "wordCount": 11170,
+    "wordCount": 11175,
     "readingTimeMinutes": 50,
     "originalUrl": "https://docs.google.com/document/d/1jYVJFIz5-aMi0LCgsC9AN6BncJDNVGaMU37QmwZ1vzA",
     "source": "gdoc",
@@ -1824,7 +2602,7 @@
     "publishedDate": "2026-02-06T16:55:03.480Z",
     "slug": "meditations-on-moloch",
     "excerpt": "Link to Meditations on Moloch https://slatestarcodex.com/2014/07/30/meditations-on-moloch/",
-    "wordCount": 4593,
+    "wordCount": 4597,
     "readingTimeMinutes": 21,
     "originalUrl": "https://docs.google.com/document/d/1a3q0Z2tuPLLbDeg5-pfEffkajGjrfPDwE7ZMs7uaWQs",
     "source": "gdoc",
@@ -2062,7 +2840,7 @@
     "publishedDate": "2026-02-06T16:52:48.903Z",
     "slug": "human-sexuality-reviewed",
     "excerpt": "I’ve always been curious about why people are turned on by some things, but not others. Why do 50% of surveyed men fantasize about their partner sleeping with someone else? Why do something like 45%...",
-    "wordCount": 6701,
+    "wordCount": 6702,
     "readingTimeMinutes": 30,
     "originalUrl": "https://docs.google.com/document/d/1d0vRSj1E93joWWvbUen2XGuDjN_mM94ybMIAADzM2fo",
     "source": "gdoc",
@@ -2141,7 +2919,7 @@
     "publishedDate": "2026-02-06T16:52:48.893Z",
     "slug": "freedom-of-speech",
     "excerpt": "In defense of free speech, John Stuart Mill wrote, “But the peculiar evil of silencing the expression of an opinion is, that it is robbing the human race; … If the opinion is right, they are deprived...",
-    "wordCount": 6937,
+    "wordCount": 6939,
     "readingTimeMinutes": 31,
     "originalUrl": "https://docs.google.com/document/d/1d0vRSj1E93joWWvbUen2XGuDjN_mM94ybMIAADzM2fo",
     "source": "gdoc",
@@ -2201,7 +2979,7 @@
     "publishedDate": "2026-02-06T16:52:48.892Z",
     "slug": "earth-in-review-a-beautiful-frustrating-waste-of-time",
     "excerpt": "(A multi-spectrum introductory sequence begins, in which the sensate is transformed into an air bubble, rising stochastically towards the surface of a neon ocean. Fast-paced orchestral music swells...",
-    "wordCount": 1662,
+    "wordCount": 1663,
     "readingTimeMinutes": 8,
     "originalUrl": "https://docs.google.com/document/d/1d0vRSj1E93joWWvbUen2XGuDjN_mM94ybMIAADzM2fo",
     "source": "gdoc",
@@ -2341,7 +3119,7 @@
     "publishedDate": "2026-02-06T16:52:48.890Z",
     "slug": "bishops-castle-a-roadside-attraction",
     "excerpt": "The Statue of Liberty is thought to be America’s greatest monument to freedom. But there’s more than a shred of irony in having a monument to liberty in the middle of a rocky island, accessible only...",
-    "wordCount": 6582,
+    "wordCount": 6592,
     "readingTimeMinutes": 30,
     "originalUrl": "https://docs.google.com/document/d/1d0vRSj1E93joWWvbUen2XGuDjN_mM94ybMIAADzM2fo",
     "source": "gdoc",
@@ -2401,7 +3179,7 @@
     "publishedDate": "2026-02-06T16:52:48.889Z",
     "slug": "arbitraging-several-dozen-online-casinos",
     "excerpt": "The growth of gambling in the United States is unrelenting. This blog regularly plugs prediction markets, ESPN now shows moneylines, and even relatively conservative areas of investing blur the line...",
-    "wordCount": 4719,
+    "wordCount": 4722,
     "readingTimeMinutes": 21,
     "originalUrl": "https://docs.google.com/document/d/1d0vRSj1E93joWWvbUen2XGuDjN_mM94ybMIAADzM2fo",
     "source": "gdoc",
@@ -2519,7 +3297,7 @@
     "publishedDate": "2026-02-06T16:52:48.886Z",
     "slug": "a-new-theodicy-for-high-school-math",
     "excerpt": "God: “You lived a good life. Ask now of me whatever you may wish to know.”",
-    "wordCount": 1363,
+    "wordCount": 1365,
     "readingTimeMinutes": 7,
     "originalUrl": "https://docs.google.com/document/d/1d0vRSj1E93joWWvbUen2XGuDjN_mM94ybMIAADzM2fo",
     "source": "gdoc",
@@ -4892,7 +5670,7 @@
     "publishedDate": "2026-02-06T16:47:15.598Z",
     "slug": "catkin-by-antonia-barber",
     "excerpt": "To cast away  \nWhat cannot cut  \nAnd sever words all tangled up",
-    "wordCount": 3796,
+    "wordCount": 3797,
     "readingTimeMinutes": 17,
     "originalUrl": "https://docs.google.com/document/d/1AXmWgSbh_TFsoZuApSCSEoz57yn93CM5YYhtaO_s4W4",
     "source": "gdoc",
@@ -5774,7 +6552,7 @@
     "publishedDate": "2026-02-06T07:24:08.688Z",
     "slug": "a-supposedly-fun-thing-ill-never-do-again-by-david-foster-wallace",
     "excerpt": "In March of 2020, when cruise stocks plummeted, and so many predicted the impending death or decay of the whole industry, I bought them all up, wildly, without regard for the doomsaying soothsayers,...",
-    "wordCount": 4683,
+    "wordCount": 4696,
     "readingTimeMinutes": 21,
     "originalUrl": "https://docs.google.com/document/d/1pRQbRbEUwSH_jm94PI_ij-88swat7vQ4iNaNp6gd39g",
     "source": "gdoc",
@@ -6194,7 +6972,7 @@
     "publishedDate": "2026-02-06T07:23:14.485Z",
     "slug": "moscow-petushki-by-venedikt-yerofeyev",
     "excerpt": "Preface: this Russian-language book has three translations, which (in order of both publication and quality) are Moscow to the End of the Line, Moscow Circles, and Moscow Stations. Its title in the...",
-    "wordCount": 8828,
+    "wordCount": 8843,
     "readingTimeMinutes": 40,
     "originalUrl": "https://docs.google.com/document/d/1kQUUJhv-MpLawby2j4zXLZPDG6ligWd5xpIjH8UmWdw",
     "source": "gdoc",
@@ -6610,7 +7388,7 @@
     "publishedDate": "2026-02-06T07:22:32.827Z",
     "slug": "the-irony-of-american-history-by-reinhold-niebuhr",
     "excerpt": "If anyone was born to theology, it was Reinhold Niebuhr. His father Gustav was a pastor, his mother Lydia was the daughter of a missionary, his sister Hulda took a divinity professorship in Chicago,...",
-    "wordCount": 6513,
+    "wordCount": 6522,
     "readingTimeMinutes": 29,
     "originalUrl": "https://docs.google.com/document/d/100kMdSVFviZSSBvUyyEQPMNlvLptVQxHFD9i9wGuBWs",
     "source": "gdoc",
@@ -7164,7 +7942,7 @@
     "publishedDate": "2026-02-06T07:21:54.185Z",
     "slug": "who-wrote-the-bible-by-richard-elliott-friedman",
     "excerpt": "“It appears that everybody but Moses wrote the Torah.”",
-    "wordCount": 8309,
+    "wordCount": 8310,
     "readingTimeMinutes": 37,
     "originalUrl": "https://docs.google.com/document/d/1hFzjXliCAWjvheY-8Qd2fhbF79LnX0Xg6R9eqk9yIyI",
     "source": "gdoc",
@@ -7781,7 +8559,7 @@
     "publishedDate": "2026-02-06T07:21:29.570Z",
     "slug": "gdel-escher-bach-by-douglas-r-hofstadter",
     "excerpt": "Gödel, Escher, Bach, like this sentence, has two parts: the first cleverly makes its point while engaging the reader with playful use of self-reference; the second is less interesting, slower...",
-    "wordCount": 6114,
+    "wordCount": 6115,
     "readingTimeMinutes": 28,
     "originalUrl": "https://docs.google.com/document/d/1xexFJ7h0vULMDE7N77q_MIzXoerexfe_CqqGEL6hEoQ",
     "source": "gdoc",
@@ -7841,7 +8619,7 @@
     "publishedDate": "2026-02-06T07:21:29.570Z",
     "slug": "human-smoke-by-nicholson-baker",
     "excerpt": "History is not a morality play, even though on occasion it is taught as one. Human Smoke by Nicholson Baker isn’t so much a traditional book as a collage of footnotes moving through time. Set in the...",
-    "wordCount": 3940,
+    "wordCount": 3952,
     "readingTimeMinutes": 18,
     "originalUrl": "https://docs.google.com/document/d/1xexFJ7h0vULMDE7N77q_MIzXoerexfe_CqqGEL6hEoQ",
     "source": "gdoc",

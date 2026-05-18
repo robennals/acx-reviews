@@ -7,7 +7,7 @@ contestName: 2026 Book Reviews
 year: 2026
 publishedDate: '2026-04-04T16:17:04.000Z'
 slug: bleeding-edge-by-thomas-pynchon
-wordCount: 6143
+wordCount: 6144
 readingTimeMinutes: 28
 source: gdoc
 tags:
@@ -141,7 +141,7 @@ Oh the spirit of the times, or popular culture, not even Thoreau could have done
 
 Pynchon knows the limit he pushes. At a party a few days before the towers go down, Maxine laments “what passes for nostalgia in a time of widespread Attention Deficit Disorder” (302). On this we all seem to be in denial.
 
-**F for Frick, I Don’t Know. Faust? Finesse?**
+## F for Frick, I Don’t Know. Faust? Finesse?
 
 I’m struggling on this one, boys and girls. I want to say Faust because not only is Pynchon all-encompassingly knowledgeable while being taken aloft by woman, but Maxine seems to be Faust inverted, and we owe ourselves as critical thinkers to ask: could Faust have solved the case of the mysterious money-movings around the dotcombubble, or who short-sold the two airlines involved in 9/11? And although she doesn’t know everything, she’s damned perceptive and full of heart, so much so that we wouldn’t want to navigate 2001 and 2002 with any other hero. As for finesse, Pynchon can rap too, and when he does, he somehow manages to simultaneously condense his entire oeuvre into a verse, and pay homage to his favorite type of story (282-283):
 

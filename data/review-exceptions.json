@@ -1,5 +1,11 @@
 {
   "patrocleia-book-xvi-of-homers-iliad-adapted-by-christopher-logue": {
     "truncateAtLineContaining": "not for publication"
+  },
+  "the-sins-of-gk-chesterton": {
+    "dropBlock": {
+      "from": "Contents",
+      "to": "V - A defense of"
+    }
   }
 }

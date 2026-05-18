@@ -7,7 +7,7 @@ contestName: 2021 Book Reviews
 year: 2021
 publishedDate: '2026-02-06T07:21:29.570Z'
 slug: human-smoke-by-nicholson-baker
-wordCount: 3940
+wordCount: 3952
 readingTimeMinutes: 18
 originalUrl: https://docs.google.com/document/d/1xexFJ7h0vULMDE7N77q_MIzXoerexfe_CqqGEL6hEoQ
 source: gdoc
@@ -44,8 +44,8 @@ Churchill does not come off well, to put it mildly. As head of the Admiralty and
 ### On blockades:
 
 > _Churchill was the chief obstacle, Hoover wrote later. “He was a militarist of the extreme school who held that the incidental starvation of the women and children was justified if it contributed to the earlier ending of the war by victory.”_
-
-_“When Churchill succeeded Chamberlain as the Prime Minister in May, 1940, he soon stopped all permits of food relief to Poland.”_
+>
+> _“When Churchill succeeded Chamberlain as the Prime Minister in May, 1940, he soon stopped all permits of food relief to Poland.”_
 
 Churchill received countless reports on food scarcity in Europe and did everything in his power to ensure that people starved. This included but was not limited to: blockading food from America and other countries, firebombing farms, releasing invasive insects to eat crops, and spraying an early version of Agent Orange. Churchill was well aware that it would be the occupied territories that would bear the brunt of the starvation since Nazis would confiscate any food for the war effort. Churchill cynically viewed this as a positive development, believing it would make it more likely that people would rise up against the Nazis. This never happened.
 
@@ -100,8 +100,8 @@ The other surprising aspect of the pacifists was just how deeply some held their
 ### Gandhi on Pacifism:
 
 > _Gandhi answered a letter from Hyim Greenberg, who edited the Jewish Frontier, a liberal Zionist newspaper in New York. Greenberg pointed out that in Germany, A Jewish Gandhi would last about five minutes before he was executed._
-
-_“That will not disprove my case,” Gandhi replied. “I can conceive the necessity of the immolation of hundreds, if not thousands, to appease the hunger of dictators.” The discipline of nonviolence- ahimsa - worked most efficaciously in the face of terrible violence,” Gandhi said: “Sufferers need not see the result in their lifetime.” It was May 22, 1939._
+>
+> _“That will not disprove my case,” Gandhi replied. “I can conceive the necessity of the immolation of hundreds, if not thousands, to appease the hunger of dictators.” The discipline of nonviolence- ahimsa - worked most efficaciously in the face of terrible violence,” Gandhi said: “Sufferers need not see the result in their lifetime.” It was May 22, 1939._
 
 If we are going to be honest about the moral failings of the Allied commanders, I think it is also fair to point out the failings of the pacifists. When Indians laid down on railroad tracks, the British stopped the train. If Jews had laid down on German tracks, the conductor would have sped up. Given all the horrors that Gandhi knew at the time, it's hard for me to see how nonviolent protest would have stopped Hitler. Extreme pacifism in the face of extreme violence simply does not work. If anything, the Jews of Europe were too pacifist in their reaction to Nazi Germany.
 
@@ -170,16 +170,16 @@ Five thousand per year is a shockingly low number given the size of the United S
 ### Roosevelt on Relocation:
 
 > _A reporter asked if he felt that there was any place in the world that would be able to take a mass emigration of the Jews from Germany._
-
-_“I have given a great deal of thought to it,” said the president._
-
-_“Can you tell us any place particularly desirable?” the reporter asked._
-
-_“No,” the president answered, “the time is not ripe for that.”_
+>
+> _“I have given a great deal of thought to it,” said the president._
+>
+> _“Can you tell us any place particularly desirable?” the reporter asked._
+>
+> _“No,” the president answered, “the time is not ripe for that.”_
 
 _Another reporter asked the president if he would recommend a relaxation of the immigration restrictions so that Jewish refugees could come to the United States._
 
-_“That is not in contemplation,” said Roosevelt. “We have the quota system.”_
+> _“That is not in contemplation,” said Roosevelt. “We have the quota system.”_
 
 Perhaps if the adults can’t be saved, at least the US would take in Jewish children, right?
 
@@ -199,7 +199,7 @@ It’s also hard to read this book and not think about current events. I’m not
 
 ### On the Title:
 
-_The title comes from Franz Halder, one of Hitler’s restive but compliant generals. General Halder told an interrogator that when he was imprisoned in a concentration camp late in the war, he saw flakes of smoke blow into his cell. Human smoke, he called it._
+> _The title comes from Franz Halder, one of Hitler’s restive but compliant generals. General Halder told an interrogator that when he was imprisoned in a concentration camp late in the war, he saw flakes of smoke blow into his cell. Human smoke, he called it._
 
 * * *
 

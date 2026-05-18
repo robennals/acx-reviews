@@ -20,6 +20,11 @@ import { slugify, countWords, calculateReadingTime } from '../lib/utils';
 import { processImages } from './lib/process-gdoc-images';
 import { fetchGDocAsHTML, convertGDocToMarkdown } from './lib/gdoc-html';
 import { stringifyMarkdown } from './lib/frontmatter';
+import {
+  loadExceptions,
+  findH2Override,
+  applyH2Overrides,
+} from './lib/gdoc-exceptions';
 
 const REVIEWS_DIR = path.join(process.cwd(), 'data/reviews');
 
@@ -160,13 +165,20 @@ function sanitizeTitle(raw: string): string {
 /**
  * Per-slug content exceptions. Loaded lazily on first lookup.
  * Schema (in data/review-exceptions.json):
- *   { "<slug>": { "truncateAtLineContaining": "<substring>" }, ... }
- * The substring is matched case-insensitively against the plain text of each
- * line (markdown formatting stripped). When matched, the matching line AND
- * everything after it is dropped from the markdown.
+ *   { "<slug>": {
+ *       "truncateAtLineContaining": "<substring>",  // drop from match to end
+ *       "dropBlock": { "from": "<substring>", "to": "<substring>" },
+ *     },
+ *     ... }
+ * Substrings are matched case-insensitively against the plain text of each
+ * line (markdown formatting stripped). dropBlock removes everything from
+ * the first line containing `from` through the first line containing `to`
+ * (both inclusive). Used for things like skipping a duplicate
+ * table-of-contents block at the start of a doc.
  */
 interface ReviewException {
   truncateAtLineContaining?: string;
+  dropBlock?: { from: string; to: string };
 }
 let reviewExceptionsCache: Record<string, ReviewException> | null = null;
 function loadReviewExceptions(): Record<string, ReviewException> {
@@ -179,20 +191,40 @@ function loadReviewExceptions(): Record<string, ReviewException> {
   reviewExceptionsCache = JSON.parse(fs.readFileSync(filePath, 'utf8'));
   return reviewExceptionsCache!;
 }
+const stripFormattingForMatch = (line: string) =>
+  line.replace(/[*_`#>[\]()]/g, '').toLowerCase();
+
 function applyContentException(markdown: string, slug: string): string {
   const exceptions = loadReviewExceptions();
   const ex = exceptions[slug];
-  if (!ex?.truncateAtLineContaining) return markdown;
-  const needle = ex.truncateAtLineContaining.toLowerCase();
-  const lines = markdown.split('\n');
-  const stripFormatting = (line: string) =>
-    line.replace(/[*_`#>[\]()]/g, '').toLowerCase();
-  for (let i = 0; i < lines.length; i++) {
-    if (stripFormatting(lines[i]).includes(needle)) {
-      return lines.slice(0, i).join('\n').trimEnd() + '\n';
+  if (!ex) return markdown;
+  let lines = markdown.split('\n');
+  if (ex.dropBlock) {
+    const fromNeedle = ex.dropBlock.from.toLowerCase();
+    const toNeedle = ex.dropBlock.to.toLowerCase();
+    let fromIdx = -1, toIdx = -1;
+    for (let i = 0; i < lines.length; i++) {
+      const stripped = stripFormattingForMatch(lines[i]);
+      if (fromIdx < 0 && stripped.includes(fromNeedle)) {
+        fromIdx = i;
+      } else if (fromIdx >= 0 && stripped.includes(toNeedle)) {
+        toIdx = i;
+        break;
+      }
+    }
+    if (fromIdx >= 0 && toIdx >= 0) {
+      lines = [...lines.slice(0, fromIdx), ...lines.slice(toIdx + 1)];
     }
   }
-  return markdown;
+  if (ex.truncateAtLineContaining) {
+    const needle = ex.truncateAtLineContaining.toLowerCase();
+    for (let i = 0; i < lines.length; i++) {
+      if (stripFormattingForMatch(lines[i]).includes(needle)) {
+        return lines.slice(0, i).join('\n').trimEnd() + '\n';
+      }
+    }
+  }
+  return lines.join('\n');
 }
 
 /**
@@ -316,7 +348,17 @@ async function createMarkdownFile(
   // Apply per-slug content exceptions (e.g. truncating an author's note
   // section that's marked "not for publication"). Loaded from
   // data/review-exceptions.json — keyed by slug.
-  const truncatedContent = applyContentException(contentWithoutTitle, slug);
+  let truncatedContent = applyContentException(contentWithoutTitle, slug);
+
+  // Apply per-file H2 overrides — for docs where the generic bold-to-H2
+  // promoter picks the wrong lines (e.g. what-is-real treats numbered
+  // sections AND some rhetorical asides as section headings). Listed in
+  // data/gdoc-exceptions.json under perFileH2Overrides.
+  const exceptions = loadExceptions();
+  const h2Override = findH2Override(exceptions, slug);
+  if (h2Override) {
+    truncatedContent = applyH2Overrides(truncatedContent, h2Override.h2Lines);
+  }
 
   // Upload images and rewrite markdown
   const imageResult = await processImages(truncatedContent, contestId);

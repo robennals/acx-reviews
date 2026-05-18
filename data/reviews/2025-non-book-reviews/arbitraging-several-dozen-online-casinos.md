@@ -7,7 +7,7 @@ contestName: 2025 Non Book Reviews
 year: 2025
 publishedDate: '2026-02-06T16:52:48.889Z'
 slug: arbitraging-several-dozen-online-casinos
-wordCount: 4719
+wordCount: 4722
 readingTimeMinutes: 21
 originalUrl: https://docs.google.com/document/d/1d0vRSj1E93joWWvbUen2XGuDjN_mM94ybMIAADzM2fo
 source: gdoc
@@ -39,11 +39,9 @@ The facts here are stylized. I have chosen to omit details on both my personal e
 
 To begin, we need to identify our targets. These are sweeps casinos. In the United States, a sweepstake differs from a lottery by fulfilling no more than two of the following conditions:
 
-A: It is a game of chance.
-
-B: It has a valuable prize.
-
-C: You have to pay to enter.
+> A: It is a game of chance.  
+> B: It has a valuable prize.  
+> C: You have to pay to enter.
 
 Since casinos don't like skilled customers and gamblers want their bets to be meaningful, C is most commonly dropped. Sweepstakes as a marketing gimmick, such as the famous McDonald's Monopoly game, are quite common. But those kinds of sweepstakes aren't trivially exploitable.
 

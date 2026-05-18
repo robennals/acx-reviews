@@ -7,7 +7,7 @@ contestName: 2026 Book Reviews
 year: 2026
 publishedDate: '2026-04-22T18:42:53.000Z'
 slug: the-sins-of-gk-chesterton
-wordCount: 7827
+wordCount: 7796
 readingTimeMinutes: 35
 source: gdoc
 tags:
@@ -15,17 +15,6 @@ tags:
   - Politics
 ---
 
-**Contents**
-
-**I - Introduction**
-
-**II - The Book**
-
-**III - Some Criticism of the Book (And Chesterton)**
-
-**IV - Brief remarks on the last decade**
-
-**V - A defense of Chesterton**
 
 ## I - Introduction
 

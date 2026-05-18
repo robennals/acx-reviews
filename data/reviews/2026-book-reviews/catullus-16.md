@@ -107,8 +107,7 @@ The parallels are obvious.  Compare to, say, Nas’s “Ether,” the legendary 
 
 Or Ice Cube on “No Vaseline,” hitting back after leaving NWA:
 
-Ay yo Dre, stick to producin'
-
+> Ay yo Dre, stick to producin'  
 > Callin' me Arnold, but you been-a-dick  
 > Eazy-E saw your ass and went in it quick
 
@@ -133,8 +132,7 @@ All other mentions of Furius and Aurelius in the _carmina_ point to a close frie
 Now, I do not think anybody alive today would publicly threaten sexual assault on a friend as a joke, nor do I think that sort of behavior is indicative of any sort of normal friendship, male or otherwise. Roman culture, though, had different norms about such things; sexual humor was commonplace, as was playful deprecation of even those above your station.  As Williams relates, _“_Caesar’s own soldiers chanted ribald jokes concerning his adulteries” at his triumph, and even his co-consul was wont to call him “‘the Queen of Bithynia’” over an alleged affair with the king of that country.  In fact, even Catullus got some digs in at Caesar, and then wrote,
 
 > irascere iterum meis iambis  
-> immerentibus, unice imperator
->
+> immerentibus, unice imperator  
 > you are going to be angry at my iambics once again,  
 > sole Imperator (Caesar), though they don’t deserve it.[2]
 

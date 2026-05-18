@@ -34,7 +34,7 @@ Well, it is literally a century-long tale. And it is told, wonderfully, by Adam 
 
 This essay reviews that book, and tells in brief said tale.
 
-## 1\. The Process of the Review
+## 1. The Process of the Review
 
 I had listened to the audiobook and then listened to Becker’s interview by Sean Carroll – this interview is on Carroll’s podcast ‘Mindscape’ – a while ago. To write this review, I listened to the audiobook and interview again so as to refresh the details and dates. And I referred to the physical book to get the page numbers of certain interesting parts – these are called out later.
 
@@ -48,7 +48,7 @@ If you don’t believe me and are thus inclined to pan this essay, just Pangram 
 
 Right then, onwards.
 
-## 2\. The Focus of the Book
+## 2. The Focus of the Book
 
 Becker’s book is a book about the field of Quantum Physics, not the topic of Quantum Physics (QP). So, it is not complex, or at least it is manageably so. More specifically, it is about, to quote the subtitle, “the quest for the meaning of Quantum Physics”.
 
@@ -56,13 +56,13 @@ What does that mean, you ask. Consider a person who knows that QP is a sound the
 
 So, putting it in my own words, the book is about working towards an Ontology, and not just stopping at Epistemology. Becker is frightfully keen on that – rightfully so. Perhaps that gives you a slight hint about what Albert was saying – more in a bit.
 
-## 3\. The Capsule Review
+## 3. The Capsule Review
 
 I am _really_ glad I read this book. I learnt a fair bit – a number of new things – and it helped me correct two misunderstandings specific to the history and domain of QP. One of those misunderstandings was rather significant – you will see. The book also helped me in a general way, that is, not regarding QP – this too, you will see.
 
 I am grateful to Becker for this book. It must have been a huge task to collect and sift the details and then present them in the form he did, and he did it well.
 
-## 4\. THE REVIEW
+## 4. THE REVIEW
 
 Those in the ACX community who have read Eliezer Yudkowsky’s ‘Quantum Physics Sequence’ will find in the book some technical material they already know.
 

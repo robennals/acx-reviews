@@ -17,6 +17,27 @@
         "Conclusion"
       ],
       "comment": "Author styles each section as a stacked pair of bold-only paragraphs: a short section title (Fashion/Faith/Fantasy/Conclusion or 'The Mathematical Appendix') followed by a longer, cute subtitle ('Beating Up Particle Physics and Taking its Lunch Money', etc.). The generic bold-to-H2 promoter sees the first of each pair as flanked by a bold-only line (not substantive prose) and promotes the second of each pair instead — backwards. List explicitly which lines should be H2; the rest revert to bold."
+    },
+    "what-is-real": {
+      "h2Lines": [
+        "1. The Process of the Review",
+        "2. The Focus of the Book",
+        "3. The Capsule Review",
+        "4. THE REVIEW",
+        "4.1 Clear as a Bell",
+        "4.2 The Early Days",
+        "4.3 A Danish Sir Humphrey",
+        "4.4 Third Time’s the Charm",
+        "4.5 Epistemology, What Is It Good For? War",
+        "4.6 A Valiant Effort",
+        "4.7 Killing a Philosophic Monstrosity",
+        "4.9 Chapter 8",
+        "4.10 Green Shoots, Shot",
+        "4.11 A Noble Man",
+        "4.12 The Bigger Picture Informs the Smallest",
+        "4.13 The Mayhem Remains"
+      ],
+      "comment": "Author uses numbered-section conventions (1., 2., 4.1, 4.10, etc.) for the actual section structure but also bolds occasional rhetorical asides — `**Did I lose you? Where? Was it the 'slow clap'? Too dramatic?**` — which the generic bold-to-H2 promoter mistakes for section headings. Only the numbered lines are real headings; the asides revert to bold."
     }
   }
 }

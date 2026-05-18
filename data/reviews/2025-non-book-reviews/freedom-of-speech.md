@@ -7,7 +7,7 @@ contestName: 2025 Non Book Reviews
 year: 2025
 publishedDate: '2026-02-06T16:52:48.893Z'
 slug: freedom-of-speech
-wordCount: 6937
+wordCount: 6939
 readingTimeMinutes: 31
 originalUrl: https://docs.google.com/document/d/1d0vRSj1E93joWWvbUen2XGuDjN_mM94ybMIAADzM2fo
 source: gdoc
@@ -129,8 +129,8 @@ If instead there were parameters around how things could be said, if there was a
 > ·         If the claim includes objective information like numbers or a chain of events, must include a link to a source
 >
 > ·         Must include a stated goal in the first post of the thread – I’m less married to this one
-
-Perhaps these specific parameters are infeasible, but I think they’re a good attempt, and the more objective the better. Of course, implementing these will require top-down power, and the corporations certainly won’t do it, so it would likely need to come in the form of government regulations. And while I think these parameters would generally elevate the thought required for discussion, and keep discussion participants correctly oriented towards the goals of the discussion, I think the better effect will actually be something else. It will allow for the censorship of genuinely freedom limiting speech when it doesn’t meet the criteria for discourse, which I think is more virulent as a meme when it’s presented in a thoughtless emotional way, without suppressing whole topics outright. As with any new rule, this could be inconsistently applied depending on the interests of the platform owner, but I think erring this way is better than the current wild west.
+>
+> Perhaps these specific parameters are infeasible, but I think they’re a good attempt, and the more objective the better. Of course, implementing these will require top-down power, and the corporations certainly won’t do it, so it would likely need to come in the form of government regulations. And while I think these parameters would generally elevate the thought required for discussion, and keep discussion participants correctly oriented towards the goals of the discussion, I think the better effect will actually be something else. It will allow for the censorship of genuinely freedom limiting speech when it doesn’t meet the criteria for discourse, which I think is more virulent as a meme when it’s presented in a thoughtless emotional way, without suppressing whole topics outright. As with any new rule, this could be inconsistently applied depending on the interests of the platform owner, but I think erring this way is better than the current wild west.
 
 I think the most important thing these guidelines promote is the completion of the thought. When you see something you already agree with, it’s easy to nod, feel superior, and move on. This won’t defeat that—you can’t force everyone to read the whole post—but it at least provides more opportunities to complete the thought. You can see why someone believes what they do, and it gives you the chance to evaluate your beliefs against theirs. Similarly, instead of dismissing anything you disagree with, it will provide a chance for some more granular evaluation [11]. People can still lie, they can still cite fake or faulty sources, but at least those avenues are now open for attack. If someone’s Twitter history is just a chain of one sentence anti-vax tweets, there’s not much you can do to pushback. You may not change the mind of the poster, but for everyone else, they will have the chance to see fuller arguments, a chance to use reason rather than defaulting to enemy or ally. Partial thoughts clog the mind, and only when they are written on the page can they become complete. Only then can we truly think.
 

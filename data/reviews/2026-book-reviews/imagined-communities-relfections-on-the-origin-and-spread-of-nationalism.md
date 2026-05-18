@@ -7,7 +7,7 @@ contestName: 2026 Book Reviews
 year: 2026
 publishedDate: '2026-03-21T06:22:55.000Z'
 slug: imagined-communities-relfections-on-the-origin-and-spread-of-nationalism
-wordCount: 4539
+wordCount: 4540
 readingTimeMinutes: 21
 source: gdoc
 tags:
@@ -38,7 +38,7 @@ _Imagined Communities_ is all about Benedict Anderson's attempt to explain this 
 
 Anderson's definition of a nation is [3]:
 
-it is an imagined political community - and imagined as both inherently limited and sovereign.
+> it is an imagined political community - and imagined as both inherently limited and sovereign.
 
 He then goes into some more detail:
 

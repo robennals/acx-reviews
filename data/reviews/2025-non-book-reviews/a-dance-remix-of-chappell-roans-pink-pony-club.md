@@ -7,7 +7,7 @@ contestName: 2025 Non Book Reviews
 year: 2025
 publishedDate: '2026-02-06T16:57:48.925Z'
 slug: a-dance-remix-of-chappell-roans-pink-pony-club
-wordCount: 10157
+wordCount: 10159
 readingTimeMinutes: 46
 originalUrl: https://docs.google.com/document/d/1hjIUcKi-vIM9RGRZDWPRyUtzZLlVrpaY6Jy81iZVYi4
 source: gdoc
@@ -60,11 +60,11 @@ I will wrestle with what I saw that day for the remainder of my derelict life. O
 
 This was no Babel. God had endowed these serried faithful with one tongue, one language, one Pentecostal fire.
 
-_Pink Pony Club; I’m gonna keep on dancing at the Pink Pony Club…_
+> _Pink Pony Club; I’m gonna keep on dancing at the Pink Pony Club…_
 
 These were Sooners [4] bound for plots in heaven’s hallowed reaches, these elect who held not a shred of malice for the opposing team, for all the sootblacked world in its muling preterition.
 
-_Pink Pony Club; I’m gonna keep on dancing down on West Hollywood…_
+> _Pink Pony Club; I’m gonna keep on dancing down on West Hollywood…_
 
 Their team was winning by 30 points in the second quarter and would go on to win by over 50. They danced and dance there still, hoeing down and twirling lassos toward divinities too sublime to be corrupted by our sinners’ vision.
 

@@ -206,8 +206,7 @@ function isParagraphIndented(
   styles: GDocStyleMap,
 ): boolean {
   const classAttr = el.attr('class') || '';
-  if (!classAttr) return false;
-  const classes = classAttr.split(/\s+/);
+  const classes = classAttr ? classAttr.split(/\s+/) : [];
   // Sum margins across all classes.
   let ml = 0, mr = 0, ti = 0;
   let anyKnown = false;
@@ -219,18 +218,135 @@ function isParagraphIndented(
     mr += m.marginRight;
     ti += m.textIndent;
   }
+  // Treat 5+ leading non-breaking spaces in the paragraph's text as a
+  // manual text-indent (visually equivalent — the author indented by
+  // hand instead of via a CSS class). Real example: Catullus 16's Ice
+  // Cube quote where the first lyric line is `<p class="c4 c6">&nbsp;{8}
+  // Ay yo Dre...</p>` while the next two are c0 text-indent. Without
+  // counting the manual indent, the rule wraps the next two but leaves
+  // this first line orphaned.
+  const elText = el.text();
+  const leadingNbsps = elText.match(/^ +/);
+  const hasManualIndent = leadingNbsps !== null && leadingNbsps[0].length >= 5;
+  if (hasManualIndent) {
+    ti = Math.max(ti, 36);
+    anyKnown = true;
+  }
   if (!anyKnown) return false;
 
   // Combined-margins checks: margin-left meets threshold, OR both-sides.
   if (ml >= 36) return true;
   if (ml > 0 && mr > 0) return true;
 
-  // Text-indent path: only fire on italic paragraphs. Non-italic text-indent
-  // is typographic first-line indent (e.g. book-style paragraph formatting),
-  // not a quote marker — see the-righteous-mind, at-the-existentialist-caf,
-  // bronze-age-mindset, etc. where the reviewer indented body paragraphs.
-  if (ti >= 36 && isParagraphAllItalic($, el, styles.italicClasses)) {
-    return true;
+  // Text-indent path. Non-italic text-indent paragraphs are ambiguous: in
+  // some docs they're typographic first-line indents on body paragraphs
+  // (the-righteous-mind, at-the-existentialist-caf, etc.); in others
+  // they're quoted passages (Bellum English translations, Bleeding Edge
+  // dialogue, Catullus translation/Latin couplets). To distinguish:
+  //
+  //   (a) Whole paragraph is italic → quote (poetry/foreign-language).
+  //   (b) The run's first paragraph is preceded (skipping same-class
+  //       paragraphs and empties) by a sentence ending in `:` or `,` —
+  //       a quote-introducer like "Cicero at his best is lyrical:" or
+  //       "Catullus then wrote,". Body false positives precede each
+  //       other or other body paragraphs ending in `.`, `?`, `!`.
+  if (ti < 36) return false;
+  if (isParagraphAllItalic($, el, styles.italicClasses)) return true;
+  return precededByQuoteIntroducer($, el, styles);
+}
+
+/**
+ * Walk backward through preceding siblings to find the introducer of this
+ * text-indent run. Same-text-indent-class paragraphs and empties are
+ * transparent (part of the same run); the first non-empty non-same-class
+ * paragraph is the introducer. Returns true iff it ends in `:` or `,`.
+ */
+// Common English speech-act verbs used to introduce a quotation. When a
+// paragraph ends in `[verb],` it's almost always followed by a quoted
+// passage — `as Williams puts it,`, `Catullus then wrote,`, `she said,`
+// `he asks,` etc. Distinguishes deliberate quote introduction from body
+// paragraphs that just happen to trail off with a comma.
+const QUOTE_INTRODUCER_VERB_AT_END = /\b(?:writes?|wrote|writing|says?|said|saying|asks?|asked|asking|notes?|noted|noting|claims?|claimed|claiming|states?|stated|stating|puts?|putting|exclaims?|exclaimed|exclaiming|declares?|declared|declaring|announces?|announced|announcing|explains?|explained|explaining|continues?|continued|continuing|begins?|began|beginning|reads?|reading|observes?|observed|observing|argues?|argued|arguing|asserts?|asserted|asserting|comments?|commented|commenting|recalls?|recalled|recalling|describes?|described|describing|relates?|related|relating|adds?|added|adding|composed|composes|composing|sang|sings?|singing|sung|quotes?|quoted|quoting|replies?|replied|replying|responds?|responded|responding|whispers?|whispered|whispering|murmurs?|murmured|murmuring|cries?|cried|crying|insists?|insisted|insisting|demands?|demanded|demanding|sighs?|sighed|sighing|laughs?|laughed|laughing|growls?|growled|growling|mutters?|muttered|muttering|protests?|protested|protesting)\s*,\s*$/i;
+
+function precededByQuoteIntroducer(
+  $: CheerioAPI,
+  el: ReturnType<typeof $>,
+  styles: GDocStyleMap,
+): boolean {
+  // Identify the text-indent class on `el` so we can treat earlier
+  // paragraphs sharing it as part of the same run (transparent to the
+  // walkback). When the indent is manual (5+ leading nbsps with no
+  // matching class), ownIndentCls stays undefined — that's fine; we
+  // just don't skip any siblings as same-run.
+  const ownClasses = (el.attr('class') || '').split(/\s+/);
+  const ownIndentCls = ownClasses.find(c => {
+    const m = styles.classMargins.get(c);
+    return m && m.textIndent >= 36 && m.marginLeft < 36;
+  });
+
+  // Step from `el` backward; the same-run wrap into a `<blockquote>` by an
+  // earlier iteration means `el.prev()` may now be a `<blockquote>` element.
+  // `step()` descends into the wrapper to read the paragraph inside.
+  const step = (node: ReturnType<typeof $>): ReturnType<typeof $> => {
+    if (node.parent('blockquote').length) return node.parent('blockquote').prev();
+    return node.prev();
+  };
+
+  let cur = el.prev();
+  while (cur.length) {
+    let tag = cur.prop('tagName')?.toLowerCase();
+    if (tag === 'blockquote') {
+      const inner = cur.children('p').last();
+      if (!inner.length) return false;
+      cur = inner;
+      tag = 'p';
+    }
+    if (tag !== 'p') return false;
+    // An empty paragraph containing an `<img>` is real content, not a
+    // run extension — a colon-ending sentence before the image is
+    // introducing the IMAGE, and the paragraph after is the author's
+    // continuation, not a quote. Stop the walkback at the image.
+    if (cur.find('img').length) return false;
+    if (!cur.text().trim()) {
+      cur = step(cur);
+      continue;
+    }
+    const curClasses = (cur.attr('class') || '').split(/\s+/);
+    if (ownIndentCls && curClasses.includes(ownIndentCls)) {
+      // Same-run paragraph: walk past it
+      cur = step(cur);
+      continue;
+    }
+    const t = cur.text().trim();
+    const lastChar = t[t.length - 1];
+    if (lastChar === ':') return true;
+    if (lastChar === ',') {
+      // Comma alone isn't enough — many body paragraphs trail off with a
+      // comma (real example: at-the-existentialist-cafe ends a long
+      // body paragraph with `"...against her mother,"`). Accept the
+      // comma as a quote introducer only when it follows a speech-act
+      // verb like `wrote,` `said,` `asks,` `notes,` etc — the
+      // distinctive shape of "[Author] [verb], [quote follows]".
+      if (QUOTE_INTRODUCER_VERB_AT_END.test(t)) return true;
+      return false;
+    }
+    // Sentence-ending or clause-closing punctuation: this paragraph is
+    // body prose preceding the text-indent paragraph, not a quote
+    // introducer. Stop here. Includes closing double-quote (visible end
+    // of a quoted passage) and closing brackets/semicolons.
+    if (
+      lastChar === '.' || lastChar === '?' || lastChar === '!' ||
+      lastChar === '"' || lastChar === '”' ||
+      lastChar === ')' || lastChar === ']' || lastChar === ';'
+    ) return false;
+    // Otherwise (apostrophe, em-dash, ellipsis, etc.): this paragraph
+    // isn't itself an introducer, but it isn't an unambiguous sentence
+    // or clause end either. It's most plausibly a continuation of the
+    // same quote block in a different class (real example: Catullus's
+    // Ice Cube quote where the first lyric line is styled differently
+    // from the next two but is still part of the same intended quote).
+    // Keep walking back.
+    cur = step(cur);
   }
   return false;
 }
