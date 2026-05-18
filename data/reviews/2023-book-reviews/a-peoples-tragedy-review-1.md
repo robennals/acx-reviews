@@ -9,8 +9,7 @@ publishedDate: '2026-02-06T07:21:10.018Z'
 slug: a-peoples-tragedy-review-1
 wordCount: 9056
 readingTimeMinutes: 41
-originalUrl: >-
-  https://docs.google.com/document/d/10CiEI7aDL2bMIdx7yayy3vlq0TJ8dO5LGnG7yIDPiw8
+originalUrl: https://docs.google.com/document/d/10CiEI7aDL2bMIdx7yayy3vlq0TJ8dO5LGnG7yIDPiw8
 source: gdoc
 tags:
   - History
@@ -45,7 +44,7 @@ The Romanovs were the ruling family of the Russian Empire for more than 300 year
 
 Over their 300-year rule, the Romanovs had some highly effective conquerors, who grew the Russian Empire significantly. By 1895, they had the [third largest empire](https://en.wikipedia.org/wiki/List_of_largest_empires) of all time (beaten out only by the Mongols and the British), accounting for 17% of the area of the world. This included 16 modern day nations including modern day Russia, Poland, Finland, Ukraine, and more.
 
-![](https://acximages.ennals.org/images/2023-book-reviews/18c95a1ab43a2456.png)
+![](https://acximages.ennals.org/images/2023-book-reviews/e2f6a020efab37cf.png)
 
 The Russian Empire roughly at its peak
 
@@ -145,7 +144,7 @@ By the time we get to 1917, any trust remaining with the monarchy was hanging by
 
 Fueled by the Industrial Revolution, life began to change rapidly in the 1800s. Young farmers were leaving their farms, moving to cities, and working in factories. The below chart shows the percentage of the labor force working in agriculture over time (_note:_ Russia isn’t on the chart, but it would most closely resemble Poland given Poland was part of Russia during this time).
 
-![](https://acximages.ennals.org/images/2023-book-reviews/9ef30ccc748cea7d.png)
+![](https://acximages.ennals.org/images/2023-book-reviews/653166f2f67f9959.png)
 
 This chart shows the Industrial Revolution in action; the rate of change from 1800 to 1900 is staggering. I said at the beginning of Part I that the tsarist regime's ultimate failure was its inability to handle the consequences of modernization. This is what I mean by modernization.
 
@@ -333,7 +332,7 @@ _There was also an atheist art - one especially blasphemous poster showed the Vi
 
 _…and indeed for adults who also changed their names - were drawn from the annals of the revolution: Marx; Engelina; Rosa (after Rosa Luxemburg); Vladlen, Ninel, Ilichand Ilina (acronyms, nicknames or anagrams for Lenin); Marlen (for Marx and Lenin); Melor (for Marx, Engels, Lenin and October Revolution); Pravda; Barrikada; Fevral (February); Oktiabrina (October); Revoliutsia (Revolution); Parizhkommuna (Paris Commune); Molot (hammer); Serpina (sickle); Dazmir (Long Live the World Revolution); Diktatura (Dictatorship); and Terrora (Terror)._
 
-![](https://acximages.ennals.org/images/2023-book-reviews/9e13b742244940a1.png)
+![](https://acximages.ennals.org/images/2023-book-reviews/bf599f51fd3d7c1c.png)
 
 1921 poster contrasting the march of the three kings to Bethlehem (top), with the march of the workers towards communism (below).
 

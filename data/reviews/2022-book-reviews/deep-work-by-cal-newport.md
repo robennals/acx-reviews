@@ -7,10 +7,9 @@ contestName: 2022 Book Reviews
 year: 2022
 publishedDate: '2026-02-06T07:24:08.698Z'
 slug: deep-work-by-cal-newport
-wordCount: 2777
+wordCount: 2759
 readingTimeMinutes: 13
-originalUrl: >-
-  https://docs.google.com/document/d/1pRQbRbEUwSH_jm94PI_ij-88swat7vQ4iNaNp6gd39g
+originalUrl: https://docs.google.com/document/d/1pRQbRbEUwSH_jm94PI_ij-88swat7vQ4iNaNp6gd39g
 source: gdoc
 tags:
   - Psychology
@@ -55,8 +54,8 @@ Ironically, the biggest impediment to deep work is yourself, or more specificall
 
 Therefore, rituals and routines are critical to maintaining a state of deep work. Newport suggests various methods of incorporating deep work into your life, some more extreme, others more realistic. All methods are coupled with examples of real individuals who have adopted these methods of deep work to phenomenal success.
 
-> *   The Monastic Method: eliminate or radically minimise shallow obligations.
->
+*   The Monastic Method: eliminate or radically minimise shallow obligations.
+
 > - For example, Neil Stephenson the science fiction author has the following communication policy:
 
  ‘_Persons who wish to interfere with my concentration are politely requested not to do so and warned that I don’t answer email… lest [my communication policy’s] key message get lost in the verbiage, I will put it here succinctly: All of my time and attention are spoken for – several time over. Please do not ask for them_’.
@@ -65,28 +64,28 @@ Therefore, rituals and routines are critical to maintaining a state of deep work
 
  _‘The productivity equation is a non-linear one… This accounts for why I am a bad correspondent and why I rarely accept speaking engagements. If I organise my life in such a way that gets lots of long, consecutive, uninterrupted time-chunks, I can write novels. But as those chunks get separated and fragmented my productivity as a novelist drops’._
 
-> *   The Bimodal Method: divide your time, stretches of time dedicated to deep work, the rest used as you see fit.
->
+*   The Bimodal Method: divide your time, stretches of time dedicated to deep work, the rest used as you see fit.
+
 >  -    For example, Carl Jung would retreat to a stone house he built in the woods where he would lock himself every morning into a minimally appointed room to write without interruption. The rest of the time he spent in Zurich, attending to his busy clinic, participating in coffeehouse culture, and lecturing at prominent universities.
->
-> *   The Rhythmic Method: transform deep work into a consistent habit.
->
+
+*   The Rhythmic Method: transform deep work into a consistent habit.
+
 >  -          For example, Jerry Seinfeld determined that to create better jokes, he needed to write every day. He developed a technique: every day he wrote a joke he crossed out the date on the calendar with a big red X. Seinfeld said:
 
  ‘_After a few days you will have a chain. Just keep at it and the chain will grow longer every day. You will like seeing the chain, especially when you get a few weeks under your belt. Your only job next is to not break the chain’_.
 
 The above method is the chain method. However, scheduling has the same effect. For example, doing deep work every morning at the same time before other family, work, and life obligations.
 
-> *   The Journalistic Method: fit deep work wherever you can in your schedule.
->
+*   The Journalistic Method: fit deep work wherever you can in your schedule.
+
 >  - For example, Walter Isaacson’s approach to writing _The Wise Men: Six Friends and the World They Made_, was described as follows by a friend:
 
  _‘It was always amazing… he would retreat to the bedroom for a while, when the rest of us were chilling on the patio or whatever, to work on his book… he’d go up for twenty minutes or an hour, we’d hear the typewriter pounding, then he’d come down as relaxed as the rest of us… the work never seemed to faze him, he just happily went up to work when he had the spare time’._
 
  Newport has ascribed this method to journalists who have a wonderful ability to slip into deep work due to the nature of their profession. I will note this an advanced method, for the very reasons of attention and distraction noted in this review.
 
-> *   The Time Block/ Fixed Schedule Method: Schedule your work day into time blocks allocated between deep and shallow work, with no distractions. And maintain a hard limit (fixed schedule) to your work week.
->
+*   The Time Block/ Fixed Schedule Method: Schedule your work day into time blocks allocated between deep and shallow work, with no distractions. And maintain a hard limit (fixed schedule) to your work week.
+
 >  -  For the modern knowledge worker, the best method for integrating deep work into your day is time block planning. That is at the start of every day plan and schedule every minute of your working day into blocks of time. Optimise your schedule to prioritise deep work and limit shallow work and distractions. In this review I will not detail the minutiae of this process, however I will state that disciplined adherence to this method sees one cull shallow work to what is necessary and allows for concentration without distraction.
 >
 >  - Combine this with fixed scheduling, that is define when work will end. For example, 5.30pm every night and no weekend work. Or a 45-hour work week. This will require you to ruthlessly cull (repeat after me; say NO) to shallow endeavours that sap away at your opportunity to undertake deep work. It also requires more disciplined organisation compared to less organised schedules.
@@ -99,9 +98,9 @@ This is perhaps the most convincing part of _Deep Work_: the commitment to limit
 
 There is no magic bullet. You will have to determine how to incorporate deep work into your life, your work, and your schedule. However, it is important to ritualise the behaviour and Newport provides three criterion that must be addressed:
 
-> *   Where you will work and how long.
-> *   How you will work once you start.
-> *   How you will support your work.
+*   Where you will work and how long.
+*   How you will work once you start.
+*   How you will support your work.
 
 Recall how we started this section: the ritualisation and habitation of a deep work process limits the desire to turn your attention to the superficial given the constraints of limited willpower.
 
@@ -111,10 +110,10 @@ To increase the effects of your deep work, Newport stresses the value of downtim
 
 To justify the need for a shutdown ritual, Newport highlights four points which are supported by scientific research:
 
-> *   Unconscious Thought Theory finds the unconscious deliberation is particularly suited to large amounts of information and multiple, vague, and conflicting constraints. Therefore, time to unconsciously ruminate on your deep work is particularly important.
-> *   Attention Restoration Theory finds that spending time in nature can improve your ability to concentrate and allows your directed attention resources to replenish. Newport suggests expanding this to any number of relaxing activities such as making dinner, listening to music, read, or playing sport will have the same restorative effect for your attention resources.
-> *   The research on deep practice suggests there is a limit to the capacity for deep work, one hour for novices and four (or so) hours for experts. As such if a commitment is made to undertake deep work during the day, any work that continues beyond these limits is likely low value shallow tasks.
-> *   The Zeigarnik Effect which describes the ability of incomplete tasks to dominate our attention. Obligations left unresolved keep battling for your attention and therefore push one strongly towards a shutdown ritual.
+*   Unconscious Thought Theory finds the unconscious deliberation is particularly suited to large amounts of information and multiple, vague, and conflicting constraints. Therefore, time to unconsciously ruminate on your deep work is particularly important.
+*   Attention Restoration Theory finds that spending time in nature can improve your ability to concentrate and allows your directed attention resources to replenish. Newport suggests expanding this to any number of relaxing activities such as making dinner, listening to music, read, or playing sport will have the same restorative effect for your attention resources.
+*   The research on deep practice suggests there is a limit to the capacity for deep work, one hour for novices and four (or so) hours for experts. As such if a commitment is made to undertake deep work during the day, any work that continues beyond these limits is likely low value shallow tasks.
+*   The Zeigarnik Effect which describes the ability of incomplete tasks to dominate our attention. Obligations left unresolved keep battling for your attention and therefore push one strongly towards a shutdown ritual.
 
 Having made the case for ceasing your deep work and pursuing downtime, Newport details the key components of a shutdown ritual: every incomplete task or project is reviewed, and either a plan for its completion is formulated or it’s captured in a place where it will be revisited when appropriate. Moreover, he advocates verbalising a vocal cue, such as 'shutdown complete', as a signal to your brain to stop thinking about work.
 

@@ -9,8 +9,7 @@ publishedDate: '2026-02-06T07:22:32.823Z'
 slug: the-diamond-age-or-a-young-ladys-illustrated-primer-by-neal-stephenson
 wordCount: 1990
 readingTimeMinutes: 9
-originalUrl: >-
-  https://docs.google.com/document/d/100kMdSVFviZSSBvUyyEQPMNlvLptVQxHFD9i9wGuBWs
+originalUrl: https://docs.google.com/document/d/100kMdSVFviZSSBvUyyEQPMNlvLptVQxHFD9i9wGuBWs
 source: gdoc
 tags:
   - Fiction
@@ -19,7 +18,7 @@ tags:
 
 What do fairytales teach? I have a soft spot for children and beautiful illustrations, so I often imagine that fairytales teach important lessons. My father, however, thinks all fairy tales should end the same way. “Remember kids, don’t go into the woods.” _A Young Lady’s Illustrated Primer_ poses questions about education. It answers most of them with claims about the value of fairy tales in teaching critical thinking skills, and wraps these theses in a sci-fi novel.  
 
-A different book, _The Making of Victorian Values,_ claims that its own title is an oxymoron. Ben Wilson writes that the Victorians did not have values but virtues. I have never read a work of fiction that so convincingly lays out the difference between virtues and values, or explicates pedagogy so thoroughly. Among a thousand coming of age novels, _A Young Lady’s Illustrated Primer_ uniquesly poses specific hypotheses about what education is and how it takes effect in context. As a teacher, I find myself rereading it almost every year. In light of ACX’s discussions around education, meritocracy, and talent, I wanted to share this novel as a thinking tool with you all.
+A different book, _The Making of Victorian Values,_ claims that its own title is an oxymoron. Ben Wilson writes that the Victorians did not have values but virtues. I have never read a work of fiction that so convincingly lays out the difference between virtues and values, or explicates pedagogy so thoroughly. Among a thousand coming of age novels, _A Young Lady’s Illustrated Primer_ uniquesly poses specific hypotheses about what education is and how it takes effect in context. As a teacher, I find myself rereading it almost every year. In light of ACX’s discussions around education, meritocracy, and talent, I wanted to share this novel as a thinking tool with you all.  
 
 _A Young Lady’s Illustrated Primer_ pretends to be a story about  power beyond our current world, when cryptocurrency renders government optional and nanotechnology does the same for the rest of human needs. The novel seems to be about nanotechnology, Artificial Intelligence, libertarianism, and epic civilizational conflict. But this novel is not the true novel. _A Young Lady’s Illustrated Primer_ is actually a story about early childhood education and its consequences. Because I love this story and its intellectual thesis, I am not going to spoil the novel about nanotech. I’d rather write about education and leave the explosions for the reader to discover.
 

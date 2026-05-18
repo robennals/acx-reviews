@@ -7,10 +7,9 @@ contestName: 2024 Book Reviews
 year: 2024
 publishedDate: '2026-02-06T16:48:56.652Z'
 slug: ready-player-one-by-ernest-cline
-wordCount: 6893
+wordCount: 6875
 readingTimeMinutes: 31
-originalUrl: >-
-  https://docs.google.com/document/d/1GYQw3pgvhi7hqOVR-Ql629Q_8thbyHe8sSRy5voyt30
+originalUrl: https://docs.google.com/document/d/1GYQw3pgvhi7hqOVR-Ql629Q_8thbyHe8sSRy5voyt30
 source: gdoc
 tags:
   - Fiction
@@ -25,10 +24,10 @@ This review offers a third perspective.  In my view, Ready Player One is an arti
 
 I’ll divide this review into four parts:
 
-> 1.  Ready Player One as quasi-ethnic art.
-> 2.  Ready Player One and the things that matter in life.
-> 3.  Ready Player One hides evil in plain sight.
-> 4.  Ready Player One: a political novel.
+1.  Ready Player One as quasi-ethnic art.
+2.  Ready Player One and the things that matter in life.
+3.  Ready Player One hides evil in plain sight.
+4.  Ready Player One: a political novel.
 
 ## Ready Player One as quasi-ethnic art
 
@@ -44,14 +43,10 @@ After Halliday dies, Wade–along with lots of other people–becomes a “gunte
 
 To give you a sense of what these puzzles are like, Halliday’s hint for the first puzzle is the following poem:
 
-> The Copper Key awaits explorers
->
-> In a tomb filled with horrors
->
-> But you have much to learn
->
-> If you hope to earn
->
+> The Copper Key awaits explorers  
+> In a tomb filled with horrors  
+> But you have much to learn  
+> If you hope to earn  
 > A place among the high scorers.
 
 Wade figures out that “a tomb filled with horrors” is a reference to a D&D supplement called Tomb of Horrors published in 1978 (this is a real [thing](https://en.wikipedia.org/wiki/Tomb_of_Horrors)).  Also, “you have much to learn” refers to the planet in OASIS where people go to virtual high school.  So, Wade uses “OASIS atlas software” to scan the planet for a topological feature that resembles the entrance to the Tomb of Horrors as described in the D&D supplement (if you must know, it’s “a low, flat-topped hill, about two hundred yards wide and three hundred yards long,” with black stones that are arranged in a pattern that resembles a human skull).  He then enters the Tomb of Horrors and has to bypass various obstacles that resemble the obstacles in the actual D&D supplement.  
@@ -62,21 +57,21 @@ The rest of the book walks through the rest of the puzzles, Wade’s budding lov
 
 Ready Player One is fun to read for the following reasons:
 
-> 1.  The puzzles are clever, although they’re so opaque that it’s impossible to figure them out on your own.
->
-> 2.  Wade is a hero, so it’s easy to root for him.  I’ve mentioned that he is the most skilled practitioner of early 1980s video games in world history.  He’s also the greatest savant of 1980s movies in world history.  Example: after getting the first key, Wade eventually makes his way to the first gate, in which he is required to recite the entire movie WarGames by heart.  He does this on the first try, without any preparation.  
->
-> 3.  If you are nostalgic towards the 1980s, Ready Player One is the book for you.  There are an _unbelievable_ number of references to 1980s pop culture.  
+1.  The puzzles are clever, although they’re so opaque that it’s impossible to figure them out on your own.
+
+2.  Wade is a hero, so it’s easy to root for him.  I’ve mentioned that he is the most skilled practitioner of early 1980s video games in world history.  He’s also the greatest savant of 1980s movies in world history.  Example: after getting the first key, Wade eventually makes his way to the first gate, in which he is required to recite the entire movie WarGames by heart.  He does this on the first try, without any preparation.  
+
+3.  If you are nostalgic towards the 1980s, Ready Player One is the book for you.  There are an _unbelievable_ number of references to 1980s pop culture.  
 
 Many of the 1980s pop culture references are integrated into the plot, as one would expect in a book that focuses on the need to solve puzzles requiring knowledge of 1980s pop culture.  But not all.  For example, early in the book, Wade has a conversation with his OASIS buddies where the following pieces of intellectual property are discussed: Contra, Golden Axe, Heavy Barrel, Smash TV, Ikari Warriors, Starlog, Ladyhawke, Rutger Hauer, Ewoks: The Battle for Endor, Caravan of Courage, Highlander II, Roy Batty, Ferris Bueller, WarGames, The Goonies, Superman, Legend, and Swordquest (Earthworld, Fireworld, Waterworld, and Airworld).  From a plot-development perspective, this conversation is completely unnecessary; I guess it’s intended to show that Wade and his friends love the 1980s, but as God is my witness, this conversation was not needed to make that point.  So why is it there?  One gets the sense that the author, Cline, loves the 1980s so much that he can’t help himself.
 
 It is obvious reading Ready Player One that Wade is an extreme version of the author: Cline has spent his life consumed by the 1980s, so he wrote a book about a heroic teenager who is consumed by the 1980s.  [Wikipedia](https://en.wikipedia.org/wiki/Ernest_Cline) confirms this is correct, but it was obvious even without Wikipedia:
 
-> 1.  There is _so_ much 1980s content that the book would have been way too much effort to write unless the reviewer was already highly familiar with the subject matter.
->
-> 2.  The plot is so weird–the world’s greatest 1980s pop culture aficionado wins $240 billion, really?–that it’s hard to see someone writing this unless they truly love the 1980s.
->
-> 3.  The many 1980s references that are irrelevant to the plot are a tell.  _Only_ a person obsessed with the 1980s would add gratuitous 1980s pop culture references to a novel whose plot already centers on 1980s pop culture references.  These gratuitous references serve a similar function as facial tattoos on a gang member: an inefficient, but nonetheless reliable _because_ it is inefficient, signal of the person’s lifelong devotion to his cause.
+1.  There is _so_ much 1980s content that the book would have been way too much effort to write unless the reviewer was already highly familiar with the subject matter.
+
+2.  The plot is so weird–the world’s greatest 1980s pop culture aficionado wins $240 billion, really?–that it’s hard to see someone writing this unless they truly love the 1980s.
+
+3.  The many 1980s references that are irrelevant to the plot are a tell.  _Only_ a person obsessed with the 1980s would add gratuitous 1980s pop culture references to a novel whose plot already centers on 1980s pop culture references.  These gratuitous references serve a similar function as facial tattoos on a gang member: an inefficient, but nonetheless reliable _because_ it is inefficient, signal of the person’s lifelong devotion to his cause.
 
 OK, so Ready Player One is not only _about_ a character with an unhealthy obsession with the 1980s, but it is also _by_ an author with an unhealthy obsession with the 1980s.  Should we care about this?  Yes, in my view.  The fact that the book’s author is himself an eccentric individual with weird obsessions enhances the book’s artistic significance.
 

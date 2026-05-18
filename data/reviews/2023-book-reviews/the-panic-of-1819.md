@@ -1,16 +1,16 @@
 ---
-title: "The Panic of 1819"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2023-book-reviews"
-contestName: "2023 Book Reviews"
+title: The Panic of 1819
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2023-book-reviews
+contestName: 2023 Book Reviews
 year: 2023
-publishedDate: "2023-01-01T00:00:00.000Z"
-slug: "the-panic-of-1819"
-wordCount: 3028
+publishedDate: '2023-01-01T00:00:00.000Z'
+slug: the-panic-of-1819
+wordCount: 3025
 readingTimeMinutes: 14
-originalUrl: "https://docs.google.com/document/d/1AtGIIv371v0Yu35eNsIxJr67dw4SHOiGdKrqmoKt2hg"
-source: "gdoc"
+originalUrl: https://docs.google.com/document/d/1AtGIIv371v0Yu35eNsIxJr67dw4SHOiGdKrqmoKt2hg
+source: gdoc
 tags:
   - Economics
   - History
@@ -81,9 +81,9 @@ Predictably, agricultural land prices skyrocketed. In prime growing locations li
 
 But prices didn’t stay high. The sulfur dissipated, and agricultural yields recovered. Soon there was a glut, and cotton, wheat, and corn prices fell below the cost of production. With perfect timing, this is the moment when SBUS began contracting credit. So, to recap the situation of the stereotypical American farmer in 1819:
 
-> *   They overpaid for a farm in 1817, on credit.
-> *   Their first big payment came due in 1819, at which point their crops were worth less than it cost to grow them.
-> *   They had to pay in specie, not the inflated paper money they thought they could use when they bought the land.
+*   They overpaid for a farm in 1817, on credit.
+*   Their first big payment came due in 1819, at which point their crops were worth less than it cost to grow them.
+*   They had to pay in specie, not the inflated paper money they thought they could use when they bought the land.
 
 You can see why Thomas Jefferson went broke.
 

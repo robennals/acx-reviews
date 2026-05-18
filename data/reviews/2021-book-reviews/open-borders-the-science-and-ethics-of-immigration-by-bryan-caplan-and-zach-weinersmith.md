@@ -1,19 +1,15 @@
 ---
-title: >-
-  Open Borders: The Science and Ethics of Immigration by Bryan Caplan and Zach
-  Weinersmith
+title: 'Open Borders: The Science and Ethics of Immigration by Bryan Caplan and Zach Weinersmith'
 author: Unknown
 reviewAuthor: Anonymous
 contestId: 2021-book-reviews
 contestName: 2021 Book Reviews
 year: 2021
 publishedDate: '2026-02-06T07:21:29.572Z'
-slug: >-
-  open-borders-the-science-and-ethics-of-immigration-by-bryan-caplan-and-zach-weinersmith
+slug: open-borders-the-science-and-ethics-of-immigration-by-bryan-caplan-and-zach-weinersmith
 wordCount: 4005
 readingTimeMinutes: 18
-originalUrl: >-
-  https://docs.google.com/document/d/1xexFJ7h0vULMDE7N77q_MIzXoerexfe_CqqGEL6hEoQ
+originalUrl: https://docs.google.com/document/d/1xexFJ7h0vULMDE7N77q_MIzXoerexfe_CqqGEL6hEoQ
 source: gdoc
 tags:
   - Economics
@@ -56,7 +52,7 @@ Another serious objection is about the animal suffering that would be induced by
 
 ### 4: Culture
 
-![](https://acximages.ennals.org/images/2021-book-reviews/b3564e91d1fd7b89.png)
+![](https://acximages.ennals.org/images/2021-book-reviews/2dc4c61e5ca90443.png)
 
 Caplan has a section where he addresses the political effects of immigrants, largely drawing on data from Alex Nowrasteh at the Cato Institute finding that immigrants are a tiny bit more liberal than the general population but that their kids and grandkids regress to the political mainstream. Immigrants and natives didn’t have a partisan difference until the 1980s, and the partisan difference comes from immigrants being more likely to identify as independent, not from being more likely to identify as Democrat (although maybe after a while immigrants become acclimated and realise that third-parties never win...). This is interesting but doesn’t address the tail risk of immigration leading to a Trump/Brexit dysfunctional level of polarisation or backlash (admittedly, that would be _very_ speculative). It may be the case that the biggest harms from immigration come from people irrationally freaking out about immigration, but, uh, people are in fact irrational.
 

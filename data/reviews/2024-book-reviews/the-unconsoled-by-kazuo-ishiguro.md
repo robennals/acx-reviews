@@ -1,5 +1,5 @@
 ---
-title: 'The Unconsoled, by Kazuo Ishiguro'
+title: The Unconsoled, by Kazuo Ishiguro
 author: Unknown
 reviewAuthor: Anonymous
 contestId: 2024-book-reviews
@@ -9,8 +9,7 @@ publishedDate: '2024-01-01T00:00:00.000Z'
 slug: the-unconsoled-by-kazuo-ishiguro
 wordCount: 3413
 readingTimeMinutes: 16
-originalUrl: >-
-  https://docs.google.com/document/d/1Ki5XsE0jkxZtd2XAeyTAJw1ZjLh2Cu-matUYKAhA6-s
+originalUrl: https://docs.google.com/document/d/1Ki5XsE0jkxZtd2XAeyTAJw1ZjLh2Cu-matUYKAhA6-s
 source: gdoc
 tags:
   - Fiction

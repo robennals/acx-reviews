@@ -1,16 +1,16 @@
 ---
-title: "Open Democracy"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2023-book-reviews"
-contestName: "2023 Book Reviews"
+title: Open Democracy
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2023-book-reviews
+contestName: 2023 Book Reviews
 year: 2023
-publishedDate: "2023-01-01T00:00:00.000Z"
-slug: "open-democracy"
-wordCount: 5106
+publishedDate: '2023-01-01T00:00:00.000Z'
+slug: open-democracy
+wordCount: 5101
 readingTimeMinutes: 23
-originalUrl: "https://docs.google.com/document/d/1vci14HMZ2UEJBs6mKCZZ2vHs-jVuPSsFsiN3cAENzXU"
-source: "gdoc"
+originalUrl: https://docs.google.com/document/d/1vci14HMZ2UEJBs6mKCZZ2vHs-jVuPSsFsiN3cAENzXU
+source: gdoc
 tags:
   - Politics
   - Philosophy
@@ -119,7 +119,7 @@ And as far as Piketty goes, my understanding is that his conclusions are still u
 
 Smith also references data from [realtimeinequality.org](https://realtimeinequality.org/?id=wealth&wealthend=12012022&wealthfreq=monthly&wealthgroups=Top%2010%25&wealthstart=01011976&wealthtype=wealth&wealthunit=Adults&wealthy=share), showing that, contrary to Landemore's expectations, the share of wealth controlled by the richest 10% has decreased since 2013:
 
-![](https://acximages.ennals.org/images/2023-book-reviews/ba1bb2fcde26d575.png)
+![](https://acximages.ennals.org/images/2023-book-reviews/37c32cdc871a0ee6.png)
 
 And _even if_ all of Landemore’s claims were true, there's still a crucial logical step she's missing (h/t to the same [Dylan Matthews article](https://www.vox.com/2016/5/9/11502464/gilens-page-oligarchy-study) for pointing this out). She has to show that it's bad that policy outcomes aren't correlated with public preferences. After all, Landemore's definition of "good government" isn't that we enact policies the public wants, it's that we enact policies that the public would want _after thoughtfully discussing the issue among themselves_! Maybe public opinion is a good proxy for it, but since deliberative democracy is impossibly impractical, who knows??
 
@@ -129,11 +129,11 @@ In other words, while there might be some serious practical problems with repres
 
 Landemore proposes open democracy as a sort of “democracy v3.0” that will be able to overcome the flaws inherent to representative democracy.  Landemore distills open democracy down to 5 core principles (in decreasing order of importance):
 
-> 1.  Participation Rights. This includes the rights of all citizens to vote and run for office, as well citizen's initiatives, referendums, and the ability to participate in mini-publics. These rights "ensure access of ordinary citizens to agenda-setting power"
-> 2.  Deliberation. Decisions are only legitimate if they are debated through the "exchange of reasons and arguments among free and equals" before being passed into law
-> 3.  The majoritarian principle. After deliberation, policies supported by the majority will be enacted. Landemore is explicitly against super-majoritarian thresholds for being "extremely paralyzing"
-> 4.  Democratic representation. The political process doesn't have to involve everyone directly, as long as the people involved "expresses the principle of inclusiveness and equality among citizens" and the general public accepts the representatives as standing in for them. Note that these representatives do not have to be elected to be legitimate.
-> 5.  Transparency. Citizens are "able to witness, observer, and thus make up their minds about the activities of the actors engaged in the political process"
+1.  Participation Rights. This includes the rights of all citizens to vote and run for office, as well citizen's initiatives, referendums, and the ability to participate in mini-publics. These rights "ensure access of ordinary citizens to agenda-setting power"
+2.  Deliberation. Decisions are only legitimate if they are debated through the "exchange of reasons and arguments among free and equals" before being passed into law
+3.  The majoritarian principle. After deliberation, policies supported by the majority will be enacted. Landemore is explicitly against super-majoritarian thresholds for being "extremely paralyzing"
+4.  Democratic representation. The political process doesn't have to involve everyone directly, as long as the people involved "expresses the principle of inclusiveness and equality among citizens" and the general public accepts the representatives as standing in for them. Note that these representatives do not have to be elected to be legitimate.
+5.  Transparency. Citizens are "able to witness, observer, and thus make up their minds about the activities of the actors engaged in the political process"
 
 Landemore discusses two forms of government that would meet all of these criteria: lottocratic representation and self-selected representatives. Lottocratic representation forms the basis for mini-publics, where a small group of group citizens is randomly selected to propose and debate laws. Random selection of the group ensures that access to power is equally open to all, that all members of the group have equal power, and that the mini-public is a good statistical representation of the general population. Limiting the size of the mini-public allows the group to be deliberative.
 

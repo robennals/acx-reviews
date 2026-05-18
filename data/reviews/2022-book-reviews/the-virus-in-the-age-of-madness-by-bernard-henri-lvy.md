@@ -7,10 +7,9 @@ contestName: 2022 Book Reviews
 year: 2022
 publishedDate: '2026-02-06T07:21:54.174Z'
 slug: the-virus-in-the-age-of-madness-by-bernard-henri-lvy
-wordCount: 3845
+wordCount: 3846
 readingTimeMinutes: 18
-originalUrl: >-
-  https://docs.google.com/document/d/1hFzjXliCAWjvheY-8Qd2fhbF79LnX0Xg6R9eqk9yIyI
+originalUrl: https://docs.google.com/document/d/1hFzjXliCAWjvheY-8Qd2fhbF79LnX0Xg6R9eqk9yIyI
 source: gdoc
 tags:
   - Society
@@ -57,7 +56,6 @@ Further, whether they were intended as a display of erudition or not, I couldn�
 
 > These smug masters of the art of confinement, confiding on their blogs that they had never been so happy or so free since finding themselves right where they were, with nothing to occupy them, nearly motionless in their rooms, suspended in the current of time, had, I found, an irritating tendency to sound like Mr. Simonnot in Sartre’s _The Words_. Mr. Simmonot was so happy to be right where he was, so happy to be in the palace that was his own, fortified as if it were the most precious of assets, that whenever for some reason he was not at home, whenever he found himself somewhere else, he imagined his colleagues exclaiming, “Whoa! Mr. Simmonot is missing from his spot!”
 
-  
 Examining older chronicles of confinement cited as precedent, Lévy observes that they largely did not “fall into the trap of seeing their trip to the dungeon as a lucky opportunity to be seized.” Responding to Jean-Paul Sartre’s famous line that “hell is other people,” Lévy states that past societies “knew that Pascal’s room, Thoreau’s hut, and especially their own den was a dark chamber, an unhealthy space full of resentment; they knew that one is nothing when alone, that one thinks most often of nothing at all, and that hell is not other people, but the self.”
 
 Perhaps. I imagine there are counterexamples. To be honest, however, I understood both those who bristled at the confinement and those who thrived under it. As my libertarian nature grew increasingly frustrated with (often absurd) government edicts, my never-far-below-the-surface introvert found that the need for copious amounts of alone time was finally satisfied–I felt that I had spent a lifetime preparing for this moment and, with some embarrassment, embraced the pajama-clad life away from the press of humanity. I’m not convinced that acknowledging such pleasure is a slippery slope to civilizational decline.
@@ -110,7 +108,7 @@ Lévy recounts one particularly disturbing incident, of which I had not been awa
 
 I shared his concern that the pandemic was allowing some of us (maybe myself included) to bask in our human desire for isolated, disinfected perfection. We would have no fear of missing out if there was nothing going on away from our Netflix couches, our home yoga studios, and our restaurant delivery. Lévy, however, warns: “alas, we were well on our way to forgetting the world. It had been bothering us for ages. It had been a little dirty. We had been trying for a long time to keep it at a distance. _That_, at least, was accomplished.”
 
-**Conclusion**
+## Conclusion
 
 I didn’t come away persuaded of anything I hadn’t already thought. And that is despite being very much inclined to agree with the writer and, indeed, likely more skeptical of almost all pandemic restrictions than Lévy appears to have been. One man’s madness is another man’s reasonable precaution is another man’s understandable error.
 

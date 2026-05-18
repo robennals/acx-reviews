@@ -1,16 +1,16 @@
 ---
-title: "Nightmare Pipeline Failures"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2023-book-reviews"
-contestName: "2023 Book Reviews"
+title: Nightmare Pipeline Failures
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2023-book-reviews
+contestName: 2023 Book Reviews
 year: 2023
-publishedDate: "2023-01-01T00:00:00.000Z"
-slug: "nightmare-pipeline-failures"
-wordCount: 7791
+publishedDate: '2023-01-01T00:00:00.000Z'
+slug: nightmare-pipeline-failures
+wordCount: 7768
 readingTimeMinutes: 35
-originalUrl: "https://docs.google.com/document/d/1vci14HMZ2UEJBs6mKCZZ2vHs-jVuPSsFsiN3cAENzXU"
-source: "gdoc"
+originalUrl: https://docs.google.com/document/d/1vci14HMZ2UEJBs6mKCZZ2vHs-jVuPSsFsiN3cAENzXU
+source: gdoc
 tags:
   - History
   - Politics
@@ -34,10 +34,10 @@ The worst nightmares of the oil and gas pipeline industry are coming true in the
 
 That’s the opening line of the book. I really like it - concise, to the point. The main thesis of the book is that both the likelihood and consequences of pipeline accidents have increased, for a number of reasons:
 
-> 1.  Increasing population density means urban areas now encroach on pipeline corridors, which increases the severity of an accident (more fatalities) and means more activity could disturb the line
-> 2.  Much of this infrastructure is old, which presents many problems - corrosion being the main one, but also being built to older, less stringent construction standards and _not_ being subject to some of the quality assurance checks that apply to new builds - so in addition to corrosion and fatigue, there’s the “ticking bomb” factor
-> 3.  Operating conditions have changed - the Michigan oil spill involved a relatively new type of crude oil product from tar sand extraction (which wasn’t the product the pipeline was originally built to transport), modified for transportability, which had an outsized environmental impact (being very difficult to clean up).
-> 4.  Being both US pipelines, subject to US regulations, operated by US corporations, there is a broader trend in how US companies manage these types of risks - or rather, how they’re failing to manage them, and why
+1.  Increasing population density means urban areas now encroach on pipeline corridors, which increases the severity of an accident (more fatalities) and means more activity could disturb the line
+2.  Much of this infrastructure is old, which presents many problems - corrosion being the main one, but also being built to older, less stringent construction standards and _not_ being subject to some of the quality assurance checks that apply to new builds - so in addition to corrosion and fatigue, there’s the “ticking bomb” factor
+3.  Operating conditions have changed - the Michigan oil spill involved a relatively new type of crude oil product from tar sand extraction (which wasn’t the product the pipeline was originally built to transport), modified for transportability, which had an outsized environmental impact (being very difficult to clean up).
+4.  Being both US pipelines, subject to US regulations, operated by US corporations, there is a broader trend in how US companies manage these types of risks - or rather, how they’re failing to manage them, and why
 
 Extensive references are made to the National Transport Safety Board investigations of these incidents. The NTSB [website](https://www.ntsb.gov/investigations/Pages/Investigations.aspx) is quite a good place to visit, if you ever want to read reports of plane crashes and similar - they list open investigations (like the aforementioned [Norfolk Southern](https://www.ntsb.gov/investigations/Pages/RRD23MR005.aspx) accident), as well as all material used as evidence in past investigations (which are compiled into accident dockets, and you can download everything on the docket to read yourself). I’m impressed with the transparency and accessibility.
 
@@ -87,9 +87,9 @@ Most process safety literature steps through the blow-by-blow of what happened i
 
 There are three types of safety rules and procedures (general consensus among process safety experts), which are:
 
-> 1.  Goal-based: rules that specify goals to be achieved
-> 2.  Process-based: rules that define the process to be followed in order to decide on a course of actions
-> 3.  Action: rules that define a specific concrete action or system state
+1.  Goal-based: rules that specify goals to be achieved
+2.  Process-based: rules that define the process to be followed in order to decide on a course of actions
+3.  Action: rules that define a specific concrete action or system state
 
 Most modern process safety rulesets and systems are a combination that include features for everything, because these all have a time and place.
 
@@ -109,9 +109,9 @@ Like most hazardous industries, PG&E fieldwork is governed by permit to work - a
 
 The permit paperwork submitted to complete the work at Milpitas on September the 9th is on the [NTSB docket for San Bruno](https://data.ntsb.gov/Docket/?NTSBNumber=DCA10MP008) as Exhibit 2AM. I’ve excerpted the relevant sections here:
 
-![](https://acximages.ennals.org/images/2023-book-reviews/bd5a7de5d106e955.png)
+![](https://acximages.ennals.org/images/2023-book-reviews/d8867051dcb5434d.png)
 
-![](https://acximages.ennals.org/images/2023-book-reviews/b5d740c131508d77.png)
+![](https://acximages.ennals.org/images/2023-book-reviews/c7e1b864fc35111a.png)
 
 [I’ve censored the names and numbers of the techs involved, but the NTSB did not do this, which seemed weird to me. I hope they’re work numbers.]
 
@@ -119,7 +119,7 @@ My excerpt, sadly enough, only leaves out a few other unfilled pages of the perm
 
 This is my “favourite” part:
 
-![](https://acximages.ennals.org/images/2023-book-reviews/692f50594690f346.png)
+![](https://acximages.ennals.org/images/2023-book-reviews/dfaa0f13b97f6810.png)
 
 It’s a little unclear how many hands ultimately handled this document. It was prepared and signed off by the field supervisor, and signed off by Gas Control (presumably an operations representative). It was also distributed to seven other people - who are apparently “Mandatory” to notify. Also, one of these people was “TBD”, which is always encouraging to see on safety-critical paperwork.
 
@@ -141,13 +141,13 @@ In Australia and the UK, major hazard facilities (the kind of places where a maj
 
 Most of the US, however, have action-based laws. California, specifically, had the following suite of laws that applied at various times throughout the life of line 132, up until its fiery end:
 
-> *   1956, the pipeline was constructed. No specific laws apply, however industry mostly followed the standard ASME B31.1.8 (1955), which stated that new lines shall be hydrotested to a factor above maximum allowable operating pressure (MAOP).  
->     Line 132 was not hydrotested at construction (there’s no record, and it probably would have failed if it was tested)  
->     
-> *   1961, California General Order 112 - new pipelines are to be hydrotested to ASME B31.1 (1958), however nothing about old pipelines specifically.  
->     
-> *   1970, Federal 49 CFR 192.505 - new pipelines are to be hydrotested to 1.5 x MAOP, however a grandfathering clause explicitly states that for existing lines, MAOP shall be the highest pressure the line has been exposed to prior to 1 July 1970
-> *   2004, Federal 49 CFR 192.917(e) - existing lines must be hydrotested if operating pressure rises above pressure seen in the last 5 years
+*   1956, the pipeline was constructed. No specific laws apply, however industry mostly followed the standard ASME B31.1.8 (1955), which stated that new lines shall be hydrotested to a factor above maximum allowable operating pressure (MAOP).  
+    Line 132 was not hydrotested at construction (there’s no record, and it probably would have failed if it was tested)  
+    
+*   1961, California General Order 112 - new pipelines are to be hydrotested to ASME B31.1 (1958), however nothing about old pipelines specifically.  
+    
+*   1970, Federal 49 CFR 192.505 - new pipelines are to be hydrotested to 1.5 x MAOP, however a grandfathering clause explicitly states that for existing lines, MAOP shall be the highest pressure the line has been exposed to prior to 1 July 1970
+*   2004, Federal 49 CFR 192.917(e) - existing lines must be hydrotested if operating pressure rises above pressure seen in the last 5 years
 
 I did find it baffling that US laws explicitly state when something needed to be hydrotested, but in this case, if the intent was to find unsafe lines by forcing operators to hydrotest, it certainly didn’t work. There were a number of clever loopholes for an old enough pipeline - such as the provision requiring hydrotest if the operating pressure is greater than any pressure seen in the last 5 years. The loopholes are almost certainly written in because of industry lobbyists, possibly even PG&E’s own lobbyists.
 
@@ -317,39 +317,10 @@ I also wanted to focus more on San Bruno, because the way PG&E specifically is s
 
 Chapter 8 has this handy table, which I will excerpt:
 
-**Regulated Utility**
-
-**Publicly Traded Corporation**
-
-Provide safe and reliable service at fair rates
-
-Answers to regulator (CPUC) as a proxy for the consumers of California state
-
-Obligation: provides safe reliable power - hence will always be bailed out by the government
-
-Retail rates set by regulator
-
-Makes money when cost to deliver electricity is lower than regulator mandated retail rate
-
-Maximises profits
-
-Answers to shareholders, who are represented by the Board of Directors
-
-Obliged to maximise profits; may decide to terminate service if not profitable
-
-Retail rates set by market competition, budget set by Board
-
-Makes money when rates charged to customers is greater than cost to deliver (and may set customer’s rates)
-
-If run poorly:
-
-Regulator to impose penalties or authorise rates rises to consumers, and may require specific actions.
-
-**Cannot fail**
-
-If run poorly:
-
-Customers switch to competitors; company fails
+| Regulated Utility | Publicly Traded Corporation |
+| --- | --- |
+| Provide safe and reliable service at fair ratesAnswers to regulator (CPUC) as a proxy for the consumers of California stateObligation: provides safe reliable power - hence will always be bailed out by the governmentRetail rates set by regulatorMakes money when cost to deliver electricity is lower than regulator mandated retail rate | Maximises profitsAnswers to shareholders, who are represented by the Board of DirectorsObliged to maximise profits; may decide to terminate service if not profitableRetail rates set by market competition, budget set by BoardMakes money when rates charged to customers is greater than cost to deliver (and may set customer’s rates) |
+| If run poorly:Regulator to impose penalties or authorise rates rises to consumers, and may require specific actions.Cannot fail | If run poorly:Customers switch to competitors; company fails |
 
 So, this beast of a table is an attempt to explain what’s going on with Pacific Gas & Electric. Is it like this because it’s a regulated utility, prevented from raising the price of gas to cover maintenance costs? Or is it like this because it’s a predatory capitalist public-traded company?
 
@@ -381,10 +352,10 @@ The authors consider only oil and gas, but I don’t think these failure modes o
 
 Other potential high consequence, low risk events outside of hazardous industries:
 
-> *   Mass produced personal care products contain traces of benzene, putting large numbers of consumers at risk
-> *   Software firm releases a bug fix that inadvertently exposes a bunch of sensitive data
-> *   Banks recklessly investing customers’ savings
-> *   Poor hygiene in farming leading to disease outbreak
+*   Mass produced personal care products contain traces of benzene, putting large numbers of consumers at risk
+*   Software firm releases a bug fix that inadvertently exposes a bunch of sensitive data
+*   Banks recklessly investing customers’ savings
+*   Poor hygiene in farming leading to disease outbreak
 
 Does every industry need a Nightmare Pipeline Failures? Did the book accomplish much change?
 
@@ -396,9 +367,9 @@ This is still very prescriptive - the OSFM has to review all these hydrotest rep
 
 Learnings that I think can be generalised across industries:
 
-> 1.  Are the laws still fit for purposes? Are they currently only compelling an action (that marginally makes things safer now, but will soon be obsolete), rather than an outcome? There may be a number of low-hanging fruit in industries other than pipelines; if this review leads someone to put forward even one such suggestion in their field of expertise, I’ll consider this time well spent.
-> 2.  How would you compel professionals to act in the interests of the public, rather than the interests of their employers to the detriment of everyone else? What can we do to improve accountability of professionals - especially in the labour force of 2023 and beyond, where people move around frequently and are often on short-term contracts?
-> 3.  Corporations are constantly given the choice between “save money at the cost of increasing the risk of a really bad event” and “spend some money to mitigate a risk of a really bad event (but it’s not necessarily easy to prove whether it was effective)”. Most corporations usually lean towards the former - not because of any specific person’s actions, but because the incentives shape the culture which shape decisions over time (and decisions like making specific people redundant shape culture). Is there anyone working on identifying ways to compel corporations to choose the decision to spend money, and have a lower risk of accidents?
+1.  Are the laws still fit for purposes? Are they currently only compelling an action (that marginally makes things safer now, but will soon be obsolete), rather than an outcome? There may be a number of low-hanging fruit in industries other than pipelines; if this review leads someone to put forward even one such suggestion in their field of expertise, I’ll consider this time well spent.
+2.  How would you compel professionals to act in the interests of the public, rather than the interests of their employers to the detriment of everyone else? What can we do to improve accountability of professionals - especially in the labour force of 2023 and beyond, where people move around frequently and are often on short-term contracts?
+3.  Corporations are constantly given the choice between “save money at the cost of increasing the risk of a really bad event” and “spend some money to mitigate a risk of a really bad event (but it’s not necessarily easy to prove whether it was effective)”. Most corporations usually lean towards the former - not because of any specific person’s actions, but because the incentives shape the culture which shape decisions over time (and decisions like making specific people redundant shape culture). Is there anyone working on identifying ways to compel corporations to choose the decision to spend money, and have a lower risk of accidents?
 
 Overall I think it’s a good book as an introduction to process safety, thinking about integrity management, and thinking about risk management practices in the pipelines industry. I wish the authors discussed how to influence corporate incentives a little more (that was Chapter 8, but it was more a study of the factors behind the disaster - which, to be fair, “how to influence corporate incentives” is probably a problem that is inherently very difficult to solve, so it’s probably not a fair ask).
 
@@ -406,8 +377,8 @@ It’s fairly accessible - I’m not primarily a process safety professional, al
 
 In conclusion:
 
-> 1.  I’m disappointed in American safety laws, but I’m very impressed with the agency in charge of accident investigation and reporting - check out the NTSB website
-> 2.  Large companies can have shockingly bad safety management systems, the kind where people do a bunch of pointless paperwork just for the sake of paperwork
-> 3.  Risk assessment methods can be deeply flawed, especially when comparing probability
-> 4.  These factors won’t be fixed internally because it’s not in the companies’ short-term interest to actually look at risks properly - they might have to spend money to fix things!
-> 5.  But we really need to force them to manage their risks - possibly by pushing for goal-based rather than action legislation
+1.  I’m disappointed in American safety laws, but I’m very impressed with the agency in charge of accident investigation and reporting - check out the NTSB website
+2.  Large companies can have shockingly bad safety management systems, the kind where people do a bunch of pointless paperwork just for the sake of paperwork
+3.  Risk assessment methods can be deeply flawed, especially when comparing probability
+4.  These factors won’t be fixed internally because it’s not in the companies’ short-term interest to actually look at risks properly - they might have to spend money to fix things!
+5.  But we really need to force them to manage their risks - possibly by pushing for goal-based rather than action legislation

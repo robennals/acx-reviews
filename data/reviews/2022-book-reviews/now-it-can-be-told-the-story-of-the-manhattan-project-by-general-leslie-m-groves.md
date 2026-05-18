@@ -1,19 +1,15 @@
 ---
-title: >-
-  Now It Can Be Told: The Story of the Manhattan Project by General Leslie M.
-  Groves
+title: 'Now It Can Be Told: The Story of the Manhattan Project by General Leslie M. Groves'
 author: Unknown
 reviewAuthor: Anonymous
 contestId: 2022-book-reviews
 contestName: 2022 Book Reviews
 year: 2022
 publishedDate: '2026-02-06T07:23:14.486Z'
-slug: >-
-  now-it-can-be-told-the-story-of-the-manhattan-project-by-general-leslie-m-groves
-wordCount: 19803
+slug: now-it-can-be-told-the-story-of-the-manhattan-project-by-general-leslie-m-groves
+wordCount: 19811
 readingTimeMinutes: 89
-originalUrl: >-
-  https://docs.google.com/document/d/1kQUUJhv-MpLawby2j4zXLZPDG6ligWd5xpIjH8UmWdw
+originalUrl: https://docs.google.com/document/d/1kQUUJhv-MpLawby2j4zXLZPDG6ligWd5xpIjH8UmWdw
 source: gdoc
 tags:
   - History
@@ -32,11 +28,11 @@ So, a colonel walks out of a meeting, when a general pulls him aside to offer hi
 
 No, listen. The general tells him the assignment is _so_ important that the Secretary of War and the President himself had to approve it. In fact, it’s so significant, it has the potential to win the World War Two outright! Now – what does the colonel say?
 
-**I still think it should have been a bar. But fine – I don’t know. What?**
+## I still think it should have been a bar. But fine – I don’t know. What?
 
 He says – “I don’t want to stay in Washington.”
 
-**I find American jokes are mostly not very funny, and I’m afraid yours are no exception.**
+## I find American jokes are mostly not very funny, and I’m afraid yours are no exception.
 
 But it’s not a joke! It’s the start of the Manhattan Project!
 
@@ -100,7 +96,7 @@ Consider all the steps of the development process: finishing the basic research 
 
 There’s where you’re wrong. You’re assuming they did everything in serial – research, then design, then testing, then construction, then operation.
 
-![](https://acximages.ennals.org/images/2022-book-reviews/2484708e79b3328b.png)
+![](https://acximages.ennals.org/images/2022-book-reviews/4faf9a93b2a437bd.png)
 
 **The Engineering Design Process**
 
@@ -114,9 +110,9 @@ No, I mean they did the actual steps of the design process in parallel:
 
 > _We then had to design, build and operate an extremely large plant with equipment of incredible complexity, without the benefit of any pilot plant or intermediate development… Always we were driven by the need to make haste. Consequently, research, development, construction and operation all had to be started and carried on simultaneously and without appreciable prior knowledge._
 
-![](https://acximages.ennals.org/images/2022-book-reviews/1e8335cb04f32bb9.jpg)
+![](https://acximages.ennals.org/images/2022-book-reviews/69ced3ec4e0c10d5.jpg)
 
-**Groves’s Engineering Design Process**
+## Groves’s Engineering Design Process
 
 They literally started choosing sites, buying land and materials, and building the plants before the actual designs were even complete. Sometimes they started building even before doing the basic research to know if the process they were building was technologically possible, or even necessary.
 
@@ -242,7 +238,7 @@ And how, precisely, were they going to know which method was the “best” meth
 
 Yes, both their uranium enrichment processes, as well as their uranium and plutonium bomb designs, ended up working. While the first bomb dropped on Japan used uranium, the second bomb dropped on Nagasaki as well as the bomb detonated in the first nuclear test in the New Mexico desert were plutonium types.
 
-**Did they build all these plants in the middle of the desert, then?**
+## Did they build all these plants in the middle of the desert, then?
 
 No. While their bomb design lab was in the desert to keep it secret, all the rest was spread out between various labs and production sites.
 
@@ -402,7 +398,7 @@ Yes, and during wartime, copper was under high demand and _extremely_ scarce. Th
 
 That shows how much you know, because they did manage to find an even better conductor than copper. Recall, the elements in the periodic table share common properties according to column:
 
-![](https://acximages.ennals.org/images/2022-book-reviews/3cd69c9f2c8ba443.jpg)
+![](https://acximages.ennals.org/images/2022-book-reviews/b598030948877d6b.jpg)
 
 **Okay, but that’s hardly helpful – anything beneath copper is just going to be even harder to get! Silver? Gold? Really?**
 
@@ -496,7 +492,7 @@ But wasn’t the disparity in their intelligence operations more likely due simp
 
 To spy on Los Alamos? In _Arizona_?
 
-**Okay, maybe I didn’t think that one all the way through…**
+## Okay, maybe I didn’t think that one all the way through…
 
 But still, you’re right that Groves seemed very paranoid about the Germans getting nuclear weapons, right up to the end of the war. Even once his nuclear intelligence unit, Alsos, penetrated deep enough into Germany to know that they couldn’t have possibly developed a nuclear bomb, Groves was still concerned that they could have some other type of nuclear-related weapon.
 
@@ -520,7 +516,7 @@ Really? How can you be sure?
 
 Oh, Groves mentions those. After the war, Alsos interned ten German scientists they had identified as being involved in German nuclear weapons development at Farm Hall in England, right? But they bugged all the rooms to eavesdrop on what they were saying. Groves quotes from the reports a few times.
 
-**Indeed – as far as I know no full original transcripts exist, but the translated selections reported to Groves by Major Rittner are** **[available and published](https://www.amazon.com/Hitlers-Uranium-Club-Secret-Recordings/dp/0387950893/)****.**
+**Indeed – as far as I know no full original transcripts exist, but the translated selections reported to Groves by Major Rittner are** **[available and published](https://www.amazon.com/Hitlers-Uranium-Club-Secret-Recordings/dp/0387950893/).**
 
 Wouldn’t the Germans have expected the Americans to be spying on them and avoided saying anything compromising, though?
 
@@ -528,7 +524,7 @@ Wouldn’t the Germans have expected the Americans to be spying on them and avoi
 
 Well, while the Russians were apparently beating us hands-down at intelligence and counterintelligence, it’s satisfying to know that there was still someone less adept than us. Though it does make me wonder – if the government was already bugging people even back in 1945, how much more should we be concerned about being spied on today, now they’ve had three-quarters of a century to perfect their technique?
 
-**If I were you, I wouldn’t be too concerned. The US may have managed to build nukes in three years back then, but now they’re lucky if they** **[can finish upgrading a stealth plane within two decades](https://www.scientificamerican.com/article/what-went-wrong-with-the-f-35-lockheed-martins-joint-strike-fighter/)****. I used to wonder why the KGB’s operations tended towards information gathering rather than more direct subversion – but with that kind of improvement, who needs sabotage?**
+**If I were you, I wouldn’t be too concerned. The US may have managed to build nukes in three years back then, but now they’re lucky if they** **[can finish upgrading a stealth plane within two decades](https://www.scientificamerican.com/article/what-went-wrong-with-the-f-35-lockheed-martins-joint-strike-fighter/). I used to wonder why the KGB’s operations tended towards information gathering rather than more direct subversion – but with that kind of improvement, who needs sabotage?**
 
 You mock us Americans, but at least we can look back on our good old days! If their nuclear project is anything to judge by, modern airport-building skills aside, the Germans couldn’t even run a halfway-decent tech-development project back in the mid-twentieth century.
 
@@ -600,7 +596,7 @@ Groves would never lie! Every word is gospel! You’re the liar!
 
 Possibly. I still maintain that whatever Groves’s biases were, my explanation makes intuitive sense. After all, don’t top technology companies succeed the same way, by hiring the “best” people – not necessarily at a specific task, but in a general [“smart, and gets things done”](http://steve-yegge.blogspot.com/2008/06/done-and-gets-things-smart.html) sense?
 
-**Sure, sure. But didn’t a bunch of finance companies try the same hiring strategy –** **[and wind up filing for bankruptcy after causing a global recession](https://en.wikipedia.org/wiki/Lehman_Brothers)****?**
+**Sure, sure. But didn’t a bunch of finance companies try the same hiring strategy –** **[and wind up filing for bankruptcy after causing a global recession](https://en.wikipedia.org/wiki/Lehman_Brothers)?**
 
 Their problem was an incentive misalignment – they took no responsibility for the results of their decisions. Rather than borrowing silver from the treasury for their magnetic coils, they were stealing gold for their parachutes. Groves, on the other hand, explicitly took responsibility for the results of the Manhattan Project all the way through, to everyone from politicians to companies to laborers.
 
@@ -608,7 +604,7 @@ Their problem was an incentive misalignment – they took no responsibility for 
 
 Perhaps not – but his Buddha-like calm in the face of agitated scientists and politicians certainly didn’t do the project any harm.
 
-**I assume you have an example of this mystical calm?**
+## I assume you have an example of this mystical calm?
 
 Well, take the Alamogordo test – the very first test of a nuclear bomb on Earth. Everyone involved was extremely anxious to see whether the bomb would work as intended – or whether it would ignite the atmosphere and kill everyone, or just fail to work at all, making all their efforts through the past three years amount to nothing.
 
@@ -654,7 +650,7 @@ Rumors didn’t bother him that much. There were already quite a few rumors abou
 
 **Now you’re the one suggesting submarines, hundreds of miles away from any water!**
 
-![](https://acximages.ennals.org/images/2022-book-reviews/62eddc9170330845.jpg)
+![](https://acximages.ennals.org/images/2022-book-reviews/8ab854c3d1c16265.jpg)
 
 > **The subs were transported to the Pacific via the underground ocean.**
 
@@ -758,7 +754,7 @@ The full name was actually the Manhattan Engineering District. Originally, it wa
 
 Your tears of disappointment are Groves’s measure of success. He valued the practical, even when everyone around him wanted to succumb to the temptation to add dramatic flair. Although, sometimes he didn’t quite manage to stop others from deviating from pure practicality in security considerations, such as when his people decided to name the nuclear intelligence operation in Italy, France and Germany, _“Alsos.”_
 
-**I don’t get it – Alsos sounds like a pretty inconspicuous name to me. Why did he object to it?**
+## I don’t get it – Alsos sounds like a pretty inconspicuous name to me. Why did he object to it?
 
 Because it came too close to the truth:
 
@@ -776,7 +772,7 @@ True! Just look at the Army sentries at Los Alamos, who spent so long watching f
 
 > _[Commander Willian S.] Parsons was the first Navy officer to be assigned to the station [at Los Alamos], and appeared at the gate wearing a Navy summer uniform. His arrival was announced by a frantic guard, who telephoned his sergeant: “Sergeant, we’ve really caught a spy! A guy is down here trying to get in, and his uniform is as phony as a three dollar bill. He’s wearing the eagles of a colonel, and claims that he’s a captain.”_
 
-![](https://acximages.ennals.org/images/2022-book-reviews/dc767c0849573c07.jpg)
+![](https://acximages.ennals.org/images/2022-book-reviews/f5280553f0ca5796.jpg)
 
 **All the effort they wasted keeping an eye out for non-existent German spies would have been better spent trying to track down some of the very-much-existent Soviet spies that were even then percolating into the heart of Groves’s supposedly extremely secret project. Why did no one notice Hall, or Cohen, or Fuchs –**
 
@@ -860,7 +856,7 @@ Well, you know what they say – nobody expects the Soviet infiltration! Except 
 
 You sound like you’re impressed with the Soviets’ speed, but they were just copying us! And it still took them longer to make their copy than it took for us to make nukes from scratch.
 
-**I respect science-by-spy as its own art.**
+## I respect science-by-spy as its own art.
 
 I’m not sure if this makes it better or worse, but the Soviets’ success at getting information from us wasn’t entirely due to their spy network. The government occasionally lent them a hand as well, to Groves’s perpetual consternation. For example, take the State Department’s involvement in publishing a secret report that was key to negotiations on an agreement over how much scientific information to share with the Soviets:
 
@@ -972,7 +968,7 @@ I’m still not sure I buy it.
 
 Well, even if the physics involved had made nuclear weapons impossible, I think Groves would still have succeeded – with his management skills, he would simply have turned the whole research apparatus to some other technologically-advanced, war-ending project:
 
-![](https://acximages.ennals.org/images/2022-book-reviews/4d7b56e797ae730f.png)
+![](https://acximages.ennals.org/images/2022-book-reviews/5ece55862b1fcfb9.png)
 
 > **The sheer size of Groves’s genetically-engineered combat-dinosaurs gave  the strategy of island-hopping a new meaning.**
 

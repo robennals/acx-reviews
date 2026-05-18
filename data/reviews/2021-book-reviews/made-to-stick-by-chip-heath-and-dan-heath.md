@@ -9,8 +9,7 @@ publishedDate: '2026-02-06T07:21:29.571Z'
 slug: made-to-stick-by-chip-heath-and-dan-heath
 wordCount: 3808
 readingTimeMinutes: 17
-originalUrl: >-
-  https://docs.google.com/document/d/1xexFJ7h0vULMDE7N77q_MIzXoerexfe_CqqGEL6hEoQ
+originalUrl: https://docs.google.com/document/d/1xexFJ7h0vULMDE7N77q_MIzXoerexfe_CqqGEL6hEoQ
 source: gdoc
 tags:
   - Psychology

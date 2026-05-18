@@ -7,9 +7,9 @@ contestName: 2023 Book Reviews
 year: 2023
 publishedDate: '2026-02-06T07:06:25.226Z'
 slug: zuozhuan
-wordCount: 6922
-readingTimeMinutes: 31
-originalUrl: 'https://www.astralcodexten.com/p/your-book-review-zuozhuan'
+wordCount: 6836
+readingTimeMinutes: 32
+originalUrl: https://www.astralcodexten.com/p/your-book-review-zuozhuan
 source: acx
 tags:
   - History

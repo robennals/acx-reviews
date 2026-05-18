@@ -7,9 +7,9 @@ contestName: 2025 Non Book Reviews
 year: 2025
 publishedDate: '2026-02-06T16:58:47.906Z'
 slug: project-xanadu
-wordCount: 7485
+wordCount: 7360
 readingTimeMinutes: 34
-originalUrl: 'https://www.astralcodexten.com/p/your-review-project-xanadu-the-internet'
+originalUrl: https://www.astralcodexten.com/p/your-review-project-xanadu-the-internet
 source: acx
 tags:
   - Technology
@@ -71,51 +71,51 @@ After his Framework was published in 1962, under the Stanford Research Institute
 Engelbart had invented a vast array of tools—including, [according to his own Institute](https://dougengelbart.org/content/view/183/):
 
 *   the mouse
-    
+
 *   2-dimensional display editing
-    
+
 *   in-file object addressing, linking
-    
+
 *   hypermedia
-    
+
 *   outline processing
-    
+
 *   flexible view control
-    
+
 *   multiple windows
-    
+
 *   cross-file editing
-    
+
 *   integrated hypermedia email
-    
+
 *   hypermedia publishing
-    
+
 *   document version control
-    
+
 *   shared-screen teleconferencing
-    
+
 *   computer-aided meetings
-    
+
 *   formatting directives
-    
+
 *   context-sensitive help
-    
+
 *   distributed client-server architecture
-    
+
 *   uniform command syntax
-    
+
 *   universal "user interface" front-end module
-    
+
 *   multi-tool integration
-    
+
 *   grammar-driven command language interpreter
-    
+
 *   protocols for virtual terminals
-    
+
 *   remote procedure call protocols
-    
+
 *   compilable "Command Meta Language"
-    
+
 
 Live on stage, _in the year 1968_, Engelbart started up the NLS, opened a document, and typed some words into it. The words, he said, constituted a statement. And statements made up a file. Engelbart copied, manipulated, saved, and loaded his words and statements and files, zipping around with his newly-invented mouse. He demonstrated his ability to embed documents in one another—images with links to statements, words nested and categorized by one another, files filled with metadata.
 
@@ -220,20 +220,20 @@ Remember, Xanadu wouldn’t only involve _links_ between works—it required _hy
 This introduced a few problems, in the new interconnected ARPANET age:
 
 *   How do you keep track? Where’s the metadata stored? Can you afford enough space for it all?
-    
+
 *   _Who’s keeping track? Nelson was already, allegedly, approached by the CIA over this all—how do you make sure hypertext is a free, democratizing technology that doesn’t spread government propaganda?_
-    
+
 *   What do you do about intellectual property? You don’t want everyone to be able to link everyone else’s work if each link _contains the work itself_—how do you ensure that people still get paid for their ideas?
-    
+
 
 Nelson answered (in 1974):
 
 *   The _docuverse_ keeps track! Xanadu wouldn’t simply be a platform for linkage—it would be the repository for all existing connections between human thought. It would be a universal library.
-    
+
 *   Storage of the docuverse will be distributed, people can use pseudonyms, and eventually we’ll figure out some good system for authenticating the texts everyone’s linking to.[6](https://www.astralcodexten.com/p/your-review-project-xanadu-the-internet#footnote-6-167093537)
-    
+
 *   Simply put a royalty on the links. If you want to reference a copyrighted New York Times article, then you’ve got to pay the author a little bit. And if someone else links to what you’ve written, then you get a small payout. Presumably, you could build in caveats for short excerpts and fair use kinds of things—“a universal flexible rule [still] has to be worked out.”
-    
+
 
 He helpfully diagrammed the whole idea, in case it was at all confusing:
 
@@ -244,15 +244,15 @@ A pay-per-click system like Nelson described would first be implemented in 1996.
 _Computer Lib/Dream Machines_ became a cult favorite, and Nelson began to gather a small following. In 1979, he moved back to Swarthmore with a group of disciples, and they got to work. The crack team included:[7](https://www.astralcodexten.com/p/your-review-project-xanadu-the-internet#footnote-7-167093537)
 
 *   Roger Gregory, a University of Michigan graduate and Ann Arbor local who’d been corresponding over telephone with Nelson since reading _Computer Lib_ in 1974. Gregory was a whiz with hardware, but suffered from regular bouts of depression, sometimes so strong they would render him “incapable of working.” Gregory paid for the house in Pennsylvania.
-    
+
 *   Mark Miller, a mathematical wunderkind who’d read _Computer Lib_ and grokked it so hard that Nelson invited him to give a lecture to his UIC class when Miller was just 19, and a sophomore at Yale. The students all thought Nelson was crazy, and so they thought Miller was crazy too. Nelson thought him a genius.
-    
+
 *   Stuart Greene was a UIC student who thought Nelson and Miller might not be so crazy. He was invited to Pennsylvania too. Nelson, in his autobiography, describes Greene as “the mystic who’d taught holography at 14.”
-    
+
 *   Roland King, a linguist who, like Nelson, was super into an [evangelical Christianity–associated](https://en.wikipedia.org/wiki/SIL_Global#Criticism) theory of linguistics called “[tagmemics](https://en.wikipedia.org/wiki/Tagmeme).” I can’t make heads or tails of it, but Nelson describes it as a “romantic [extension] of the linguistic ideal.”
-    
+
 *   Eric Hill, a 15-year-old hacker and indicted felon, who “had been dismissed by the judge with admiration.”
-    
+
 
 In Swarthmore, Nelson hoped his decades-old dream of Xanadu would finally materialize.
 
@@ -307,11 +307,11 @@ In 1990, Berners-Lee resubmitted his proposal, it was accepted, and he began to 
 The WWW had a number of advantages over Xanadu:
 
 *   It was much simpler—Ted Nelson wrote of it disparagingly: “Where were annotation and marginal notes? Where was version management? Where was rights management? Where were multi-ended links? Where were third-party links? Where were transclusions? This ‘World Wide Web’ was just a lame text format and a lot of connected directories.” As it turns out, it’s much easier to build a lame text format and a lot of connected directories!
-    
+
 *   It had institutional buy-in from the start. CERN was huge, it saw promise in the WWW, and it gave Berners-Lee plenty of funding, latitude, and staffing.
-    
+
 *   Tim Berners-Lee wasn’t a self-important lunatic. He didn’t join cults, nor did he start them. He didn’t attend sex workshops, nor did he intern at them. He was British and proper and serious, and so people took him and his work Britishly, properly, and seriously.
-    
+
 
 And so, despite Xanadu’s 30-year head start, the Web won the race.
 

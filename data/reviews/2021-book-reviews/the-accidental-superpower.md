@@ -7,10 +7,9 @@ contestName: 2021 Book Reviews
 year: 2021
 publishedDate: '2026-02-05T15:44:20.128Z'
 slug: the-accidental-superpower
-wordCount: 9142
-readingTimeMinutes: 41
-originalUrl: >-
-  https://astralcodexten.substack.com/p/your-book-review-the-accidental-superpower
+wordCount: 9117
+readingTimeMinutes: 42
+originalUrl: https://astralcodexten.substack.com/p/your-book-review-the-accidental-superpower
 source: acx
 tags:
   - Politics
@@ -96,17 +95,17 @@ Then there are the oceans. As much as Zeihan loves deserts for protection, he lo
 There’s more to Zeihan’s being awestruck by America than his analysis of its balance of transport advantages. He argues that America has been the world leader for agriculture, technology, finance, and industry since the Civil War, and runs through a litany of reasons for its preeminence:
 
 *   America is like a continent-sized island (because of its effective land borders), which is always going to be a more natural naval power than a more landlocked country.
-    
+
 *   Cities such as Pittsburgh, St. Paul, and Tulsa are effectively ocean ports, thanks to the extensive navigable waterways.
-    
+
 *   Its actual ocean ports are bound to outnumber and outclass the rest of the world, given America’s ideal natural harbors with deep passages, friendly land to back it up, and barrier islands (compare his comment on Africa, which has 16,000 miles of coast, “but in reality it has only ten locations with bays of sufficient protective capacity to justify port construction” with one on Texas, which “alone has thirteen world-class deepwater ports, only half of which see significant use, and room for at least three times more”).
-    
+
 *   Significant populations reside on two oceans, preventing the world from being able to export recessions to America (because trade can shift to Europe if Asia is in recession and vice versa).
-    
+
 *   It industrialized relatively easily, thanks to its network of towns that were already connected by these river systems and “164,000 miles of track by 1890.”
-    
+
 *   It has “the world’s highest capital base” accompanying “the lowest need for that capital.”
-    
+
 
 Zeihan takes a fair amount of criticism from people who say he’s too starry eyed about America. If you don’t already see where these criticisms are coming from, consider passages like this:
 

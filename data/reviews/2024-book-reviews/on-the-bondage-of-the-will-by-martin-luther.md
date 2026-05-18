@@ -1,5 +1,5 @@
 ---
-title: 'On the Bondage of the Will, by Martin Luther'
+title: On the Bondage of the Will, by Martin Luther
 author: Unknown
 reviewAuthor: Anonymous
 contestId: 2024-book-reviews
@@ -7,10 +7,9 @@ contestName: 2024 Book Reviews
 year: 2024
 publishedDate: '2026-02-06T16:48:20.712Z'
 slug: on-the-bondage-of-the-will-by-martin-luther
-wordCount: 10129
-readingTimeMinutes: 46
-originalUrl: >-
-  https://docs.google.com/document/d/1cp6iw5OEyDjnD_viZo-KL0Zv4jwQnMXtE4yIovfVAco
+wordCount: 10088
+readingTimeMinutes: 45
+originalUrl: https://docs.google.com/document/d/1cp6iw5OEyDjnD_viZo-KL0Zv4jwQnMXtE4yIovfVAco
 source: gdoc
 tags:
   - Religion
@@ -19,15 +18,14 @@ tags:
 
 Today, I will be weighing in with my hot takes on a five hundred year old theological debate between Erasmus and Luther, with particular attention to Luther’s rejoinder to Erasmus. As a writer, Martin Luther was brilliant, a meticulous scholar, fairly witty, bombastically self-righteous, obnoxiously pedantic, and breathtakingly rude. These qualities are all on full display in this work.
 
-  
 “Bondage of the Will” is a treatise written by Luther as a public response to a work by the Catholic Humanist scholar Desiderius Erasmus, _De Libero Arbitrio_, whose title is translated to English as “Of Free Will” or “Freedom of the Will”; Erasmus wrote _Freedom_ as a critique of Luther’s views on free will and predestination and a defense and explication of Erasmus’s particular view of conventional Catholic teachings on the subject. In _Bondage_, Luther responds to Erasmus’s work by criticizing its logic, heaping vulgar abuse on Erasmus personally, and fully developing and defending Luther’s own views. As such, _Bondage_ can be thought of as a book review of _Freedom_, making this essay a book review of a book review.
 
 ## Background
 
 ### Desiderius Erasmus![](https://acximages.ennals.org/images/2024-book-reviews/0b724a0060291aef.png)
 
-> _An Intellectual titan of the Renaissance, Erasmus of Rotterdam, one of the most learned men of his or any other age, still possesses the power to shock us from our lethargy and to focus the mind’s eye on truth.  
-> _– Professor John P. Dolan[[254]](#ftnt254)
+> _An Intellectual titan of the Renaissance, Erasmus of Rotterdam, one of the most learned men of his or any other age, still possesses the power to shock us from our lethargy and to focus the mind’s eye on truth._  
+> – Professor John P. Dolan[[254]](#ftnt254)
 >
 > _For I know [Erasmus] well, from his skin to his heart, that he is not worthy of being spoken to, or dealt with, by any good man; such a hypocrite is he, and so full of reprobate envy and malevolence._
 >
@@ -77,15 +75,15 @@ Erasmus’s thesis, echoing what he’d previously written at greater length in 
 
 In brief, Erasmus makes the following points in _Freedom_:
 
-> *   Luther is displaying a great deal of intellectual arrogance by asserting a stance contrary to many centuries of consensus within the Church, but nevertheless Erasmus undertakes to read Luther with an open mind and respond to him on the merits.
-> *   The scriptures are in many places vague and difficult to understand, so conclusions should be drawn from them only with extreme care.
-> *   Luther’s stance is not just wrong, but actively dangerous because to believe that we are incapable of choosing to strive for good will no doubt inspire many to despair of the internal struggle against sin.
-> *   Erasmus goes on to catalog a number of opinions by various Church Fathers[[271]](#ftnt271) and Scholastic theologians, noting a variety of views which indicate that the question of free will is a difficult and complex one, but nevertheless the overwhelming consensus (excluding the heretics Manicheus and John Wycliff) come down against Luther’s strong rejection of any form of free will. This indicates strongly, Erasmus avers, that both intellectual arguments and the guidance of the Holy Spirit are against Luther’s position.
-> *   Erasmus cites a great many passages from both the Old and New Testaments which he proposes as supporting some sort of free will. Some do so explicitly. Others do so by implication by assuming that one can choose between two or more options, some virtuous and others sinful. Altogether, Erasmus cites several dozen such passages, with particular attention to Saint Paul’s various Epistles.
-> *   Erasmus acknowledges three stories in the Bible which seem to imply the absence of free will. In each case, however, Erasmus excuses them as not being fatal to his cause, as showing God forseeing what choices people would make without determining them[[272]](#ftnt272), arranging the consequences of such to further God’s plan, and influencing men’s hearts without overriding their fundamental moral agency.
-> *   Erasmus responds in detail to Luther’s arguments against free will in _Assertio_, objecting that Luther has taken scripture passages out of context, misinterpreted metaphorical language, and posited a false dichotomy between total freedom of the will and total absence of free will.
-> *   Erasmus closes his main argument by asking, “What Merit Is There Without Free Choice?”, i.e. that if we don’t have the power to choose between Good and Evil, then wherefore do we merit reward for our virtues or punishment for our sins?
-> *   In a lengthy epilogue, Erasmus revisits in more detail the argument that absolute free will vs the total lack of free will is a false dichotomy, and moreover that arguments in scripture which seem to point towards one side or the other must be be taken together to imply the overall answer lies in the middle ground near Erasmus’s position, that Man has some freedom of choice with the assistance of divine grace to balance out his inherently sinful nature.
+*   Luther is displaying a great deal of intellectual arrogance by asserting a stance contrary to many centuries of consensus within the Church, but nevertheless Erasmus undertakes to read Luther with an open mind and respond to him on the merits.
+*   The scriptures are in many places vague and difficult to understand, so conclusions should be drawn from them only with extreme care.
+*   Luther’s stance is not just wrong, but actively dangerous because to believe that we are incapable of choosing to strive for good will no doubt inspire many to despair of the internal struggle against sin.
+*   Erasmus goes on to catalog a number of opinions by various Church Fathers[[271]](#ftnt271) and Scholastic theologians, noting a variety of views which indicate that the question of free will is a difficult and complex one, but nevertheless the overwhelming consensus (excluding the heretics Manicheus and John Wycliff) come down against Luther’s strong rejection of any form of free will. This indicates strongly, Erasmus avers, that both intellectual arguments and the guidance of the Holy Spirit are against Luther’s position.
+*   Erasmus cites a great many passages from both the Old and New Testaments which he proposes as supporting some sort of free will. Some do so explicitly. Others do so by implication by assuming that one can choose between two or more options, some virtuous and others sinful. Altogether, Erasmus cites several dozen such passages, with particular attention to Saint Paul’s various Epistles.
+*   Erasmus acknowledges three stories in the Bible which seem to imply the absence of free will. In each case, however, Erasmus excuses them as not being fatal to his cause, as showing God forseeing what choices people would make without determining them[[272]](#ftnt272), arranging the consequences of such to further God’s plan, and influencing men’s hearts without overriding their fundamental moral agency.
+*   Erasmus responds in detail to Luther’s arguments against free will in _Assertio_, objecting that Luther has taken scripture passages out of context, misinterpreted metaphorical language, and posited a false dichotomy between total freedom of the will and total absence of free will.
+*   Erasmus closes his main argument by asking, “What Merit Is There Without Free Choice?”, i.e. that if we don’t have the power to choose between Good and Evil, then wherefore do we merit reward for our virtues or punishment for our sins?
+*   In a lengthy epilogue, Erasmus revisits in more detail the argument that absolute free will vs the total lack of free will is a false dichotomy, and moreover that arguments in scripture which seem to point towards one side or the other must be be taken together to imply the overall answer lies in the middle ground near Erasmus’s position, that Man has some freedom of choice with the assistance of divine grace to balance out his inherently sinful nature.
 
 ## Luther’s Arguments
 
@@ -323,37 +321,34 @@ One last thing that struck me in preparing this review is just how much modern p
 
 ### Bibliography
 
-> 1.  _Bondage of the WIll_, Martin Luther, translated by Henry Cole in 1823. Originally published 1525.
-> 2.  _Freedom of the Will_, Desiderus Erasmus, translated by E. Gordon Rupp in 1969. Originally published 1524.
-> 3.  _Luther and Erasmus: Free Will and Salvation_, edited by E. Gordon Rupp and Phillip S. Watson, 1969.
-> 4.  _The Essential Erasmus_, edited by John P. Dolan, 1964.
-> 5.  _Martin Luther: Selections from his Writings_, edited by John Dillenberger, 1964.
-> 6.  _The Day the Universe Changed, Episode 4_, James Burke, 1986
-> 7.  _Heretics and Believers,_ Peter Marshall, 2017.
-> 8.  _The Coming of the Third Reich_, Richard Evans, 2003.
-> 9.  _Policy Debates Should Not Appear One-Sided_, Elizer Yudkowsky, 2007
-> 10.  _The Truth about Balrogs, Volume 6_, by Conrad Dunkerson
-> 11.  _The Fellowship of the Ring_, by J.R.R. Tolkien, 1954
-> 12.  _History of Middle Earth, Volume 7: The Treason of Isengard_, edited by Christopher Tolkien, 1989.
-> 13.  _God’s Dice are Loaded: Assertions and Criticisms on God, Man, and Salvation_, by [redacted], 2003. 
-> 14.  A bunch of Wikipedia articles
->
-> 1.  Martin Luther
-> 2.  Desiderius Erasmus
-> 3.  Thomas More
-> 4.  95 Theses
-> 5.  On the Bondage of the Will
-> 6.  Renaissance Humanism
-> 7.  John Calvin
+1.  _Bondage of the WIll_, Martin Luther, translated by Henry Cole in 1823. Originally published 1525.
+2.  _Freedom of the Will_, Desiderus Erasmus, translated by E. Gordon Rupp in 1969. Originally published 1524.
+3.  _Luther and Erasmus: Free Will and Salvation_, edited by E. Gordon Rupp and Phillip S. Watson, 1969.
+4.  _The Essential Erasmus_, edited by John P. Dolan, 1964.
+5.  _Martin Luther: Selections from his Writings_, edited by John Dillenberger, 1964.
+6.  _The Day the Universe Changed, Episode 4_, James Burke, 1986
+7.  _Heretics and Believers,_ Peter Marshall, 2017.
+8.  _The Coming of the Third Reich_, Richard Evans, 2003.
+9.  _Policy Debates Should Not Appear One-Sided_, Elizer Yudkowsky, 2007
+10.  _The Truth about Balrogs, Volume 6_, by Conrad Dunkerson
+11.  _The Fellowship of the Ring_, by J.R.R. Tolkien, 1954
+12.  _History of Middle Earth, Volume 7: The Treason of Isengard_, edited by Christopher Tolkien, 1989.
+13.  _God’s Dice are Loaded: Assertions and Criticisms on God, Man, and Salvation_, by [redacted], 2003. 
+14.  A bunch of Wikipedia articles
+     1.  Martin Luther
+     2.  Desiderius Erasmus
+     3.  Thomas More
+     4.  95 Theses
+     5.  On the Bondage of the Will
+     6.  Renaissance Humanism
+     7.  John Calvin
 
 ### Illustration Credits
 
-> 1.  _Portrait of Erasmus of Rotterdam_, by Hans Holbein the Younger, 1523. Digital version via Wikimedia Commons.
-> 2.  _Portrait of Martin Luther_, by Lucas Cranach the Elder, 1528. Digital version via Wikimedia Commons.
-> 3.  Found circulating online without attribution. Appears to be based on a painting of Luther by Greg Copeland.
-> 4.  My own editing job, putting Luther’s head and a quote from the 95 Theses onto a meme template obtained from KnowYourMeme.com. The subject of the original photo was conservative podcaster Steven Crowder.
-> 5.  Scene from _Pirate of the Caribbean: Dead Man’s Chest_, 2006
-> 6.  Compilation of four images I made using the Adobe Firefly generative AI tool based on the prompt _“They could see the furnace-fire of its yellow eyes from afar; its arms were very long. Through the air it sprang over the fiery fissure. The flames leaped up to greet it and wreathed about it. Its streaming hair seemed to catch fire, and the sword that it held turned to flame. In its other hand it held a whip. His enemy halted again, facing him, and the shadow about it reached out like two vast wings.”_  
->       
->     Top left: Firefly v1 March 2023. Top right: Firefly v1 May 2023. Bottom left: Firefly v2 October 2023. Bottom right: Firefly v3 April 2024.
-> 7.  My compilation of the aforementioned portraits of Erasmus and Luther to replace the angel Aziraphale and the demon Crowley in an anonymous meme based on the ending of Season 2 of _Good Omens._
+1.  _Portrait of Erasmus of Rotterdam_, by Hans Holbein the Younger, 1523. Digital version via Wikimedia Commons.
+2.  _Portrait of Martin Luther_, by Lucas Cranach the Elder, 1528. Digital version via Wikimedia Commons.
+3.  Found circulating online without attribution. Appears to be based on a painting of Luther by Greg Copeland.
+4.  My own editing job, putting Luther’s head and a quote from the 95 Theses onto a meme template obtained from KnowYourMeme.com. The subject of the original photo was conservative podcaster Steven Crowder.
+5.  Scene from _Pirate of the Caribbean: Dead Man’s Chest_, 2006
+6.  Compilation of four images I made using the Adobe Firefly generative AI tool based on the prompt _“They could see the furnace-fire of its yellow eyes from afar; its arms were very long. Through the air it sprang over the fiery fissure. The flames leaped up to greet it and wreathed about it. Its streaming hair seemed to catch fire, and the sword that it held turned to flame. In its other hand it held a whip. His enemy halted again, facing him, and the shadow about it reached out like two vast wings.”_Top left: Firefly v1 March 2023. Top right: Firefly v1 May 2023. Bottom left: Firefly v2 October 2023. Bottom right: Firefly v3 April 2024.
+7.  My compilation of the aforementioned portraits of Erasmus and Luther to replace the angel Aziraphale and the demon Crowley in an anonymous meme based on the ending of Season 2 of _Good Omens._

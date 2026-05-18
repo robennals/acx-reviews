@@ -9,8 +9,7 @@ publishedDate: '2026-02-06T07:21:29.561Z'
 slug: antifragile-things-that-gain-from-disorder-by-nassim-nicholas-taleb
 wordCount: 4701
 readingTimeMinutes: 21
-originalUrl: >-
-  https://docs.google.com/document/d/1xexFJ7h0vULMDE7N77q_MIzXoerexfe_CqqGEL6hEoQ
+originalUrl: https://docs.google.com/document/d/1xexFJ7h0vULMDE7N77q_MIzXoerexfe_CqqGEL6hEoQ
 source: gdoc
 tags:
   - Philosophy

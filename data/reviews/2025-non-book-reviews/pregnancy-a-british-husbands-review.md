@@ -7,10 +7,9 @@ contestName: 2025 Non Book Reviews
 year: 2025
 publishedDate: '2026-02-06T16:55:03.485Z'
 slug: pregnancy-a-british-husbands-review
-wordCount: 3143
+wordCount: 3141
 readingTimeMinutes: 14
-originalUrl: >-
-  https://docs.google.com/document/d/1a3q0Z2tuPLLbDeg5-pfEffkajGjrfPDwE7ZMs7uaWQs
+originalUrl: https://docs.google.com/document/d/1a3q0Z2tuPLLbDeg5-pfEffkajGjrfPDwE7ZMs7uaWQs
 source: gdoc
 tags:
   - Memoir
@@ -56,7 +55,7 @@ So I was amused, and at first a little uncomfortable, to discover that Baby Worl
 
 We went with the cake. It was blue.
 
-![](https://acximages.ennals.org/images/2025-non-book-reviews/2539c847a23a4a1d.jpg)_Colour scheme of a gender reveal party, according to Google Search_
+![](https://acximages.ennals.org/images/2025-non-book-reviews/ea436197b9c99c1c.jpg)_Colour scheme of a gender reveal party, according to Google Search_
 
 Then, I was led to believe, it’s time to start weight measurements and amniotic fluid scans. Oster seems to worry a lot about these being misinterpreted. Her midwife berates her for gaining too much weight (an experience shared by our friend in New York), even though it would be worse to _not_ gain weight. And when, in a later pregnancy scan that’s known for being noisy, doctors appear to measure a low level of amniotic fluid in her friend, they whisk her away for sudden emergency induction.
 
@@ -66,7 +65,7 @@ After reading Oster’s book, I was, if anything, relieved that the NHS doesn’
 
 It seems to me that the various monitoring and screening tests can be placed on a scale of their benefit for a typical pregnancy, a bit like this:
 
-![](https://acximages.ennals.org/images/2025-non-book-reviews/7b361382ae2aa367.jpg)
+![](https://acximages.ennals.org/images/2025-non-book-reviews/ef24a28a074e15a0.jpg)
 
 The basic ultrasounds are _usually_ enough, then there are additional tests that make it slightly more likely the pregnancy will succeed and the mother will be safe. These get more and more marginal, until eventually some tests can apparently cause more harm than good,[6] because they lead doctors to overreact to noisy data. If you have the resources, you can try to buy extra tests to climb the curve until you are giving the mother and pregnancy the best chance you can.
 
@@ -90,8 +89,8 @@ And the classes did prepare us for the 36-week hospital appointment, when the mi
 
 Then we were posed a couple of questions in a very leading way.
 
-> *   Skin-to-skin is great for baby’s health, and brain development, and breastfeeding, and mother’s recovery: do you want skin-to-skin? Yes/no.
-> *   In the old days, we used to cut the cord immediately, but now we know delayed cord clamping gives baby a lot more blood and iron: do you want delayed cord clamping?
+*   Skin-to-skin is great for baby’s health, and brain development, and breastfeeding, and mother’s recovery: do you want skin-to-skin? Yes/no.
+*   In the old days, we used to cut the cord immediately, but now we know delayed cord clamping gives baby a lot more blood and iron: do you want delayed cord clamping?
 
 Actually I didn’t mind, because we were pushed in the right direction on both these questions. Delayed cord clamping carries a higher jaundice risk,[7] which neither the baby classes nor midwife mentioned, but I thought this was an acceptable trade-off for the blood and iron benefits. And skin-to-skin is widely accepted as a good idea, with no real downsides (one of the useful things the infant feeding teacher taught us, to be fair to her). We were told this needs at least an hour, soon after birth. Our friend in New York was told _two_ hours. In Korea however, the baby is often taken away to a care unit, and barely sees the mum at all. If I were to sum up the healthcare systems, I would say that Korea is more mother-focused, while the UK is more baby-focused.
 

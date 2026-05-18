@@ -1,16 +1,16 @@
 ---
-title: "The Millionaire Next Door by Thomas J. Stanley and William D. Danko (and other books)"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2021-book-reviews"
-contestName: "2021 Book Reviews"
+title: The Millionaire Next Door by Thomas J. Stanley and William D. Danko (and other books)
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2021-book-reviews
+contestName: 2021 Book Reviews
 year: 2021
-publishedDate: "2021-01-01T00:00:00.000Z"
-slug: "the-millionaire-next-door-by-thomas-j-stanley-and-william-d-danko-and-other-books"
+publishedDate: '2021-01-01T00:00:00.000Z'
+slug: the-millionaire-next-door-by-thomas-j-stanley-and-william-d-danko-and-other-books
 wordCount: 4468
 readingTimeMinutes: 20
-originalUrl: "https://docs.google.com/document/d/1M1m8o1HInGYJR3cEMYZ6TQgNmeBOWo98YC6djNnFWf0"
-source: "gdoc"
+originalUrl: https://docs.google.com/document/d/1M1m8o1HInGYJR3cEMYZ6TQgNmeBOWo98YC6djNnFWf0
+source: gdoc
 tags:
   - Economics
   - Psychology
@@ -60,7 +60,7 @@ According to_Life,_ you’ve been thinking about money all wrong: it isn’t rea
 
 The method has two parts.  First, the book suggests you track and categorize, every month, every dollar you spend.  Then,  ask yourself: do  I feel good about that spending?  Finally, adjust your spending until you are only spending on things you feel good about. The second part is to make a chart that records your income and your expenses each month.  Like so:
 
-![](https://acximages.ennals.org/images/2021-book-reviews/bf1df64d4b35b4d2.png)
+![](https://acximages.ennals.org/images/2021-book-reviews/acc5a0e4bbaa39a4.png)
 
 This a “wall chart,” because you’re supposed to put it on your wall, ideally one you look at daily, so that it can help you stay motivated to keep hold of your money.  Eventually, you’d add a third line to the chart  for your investment income.  Eventually, through the magic of compound interest, the investment line grows enough to cross the expenses line, and then, [you’re free](https://youtu.be/SUfP6IGQD00?t=6)!  You don’t have to work anymore.  You exist from a position of [fuck you](https://youtu.be/rJjKP8vYjpQ?t=98).
 

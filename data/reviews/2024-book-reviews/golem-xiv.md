@@ -9,8 +9,7 @@ publishedDate: '2026-02-06T16:47:49.306Z'
 slug: golem-xiv
 wordCount: 2672
 readingTimeMinutes: 12
-originalUrl: >-
-  https://docs.google.com/document/d/1QiotH3aGFgNLGqsIHTK_Plm_gem2E4l2C2ctyGJd0jY
+originalUrl: https://docs.google.com/document/d/1QiotH3aGFgNLGqsIHTK_Plm_gem2E4l2C2ctyGJd0jY
 source: gdoc
 tags:
   - Fiction
@@ -41,7 +40,7 @@ Main topics here are the primacy of the genetic code over individuals (think _se
 
 The discoverer of the selfish gene
 
-![](https://acximages.ennals.org/images/2024-book-reviews/66132262529cc621.png)
+![](https://acximages.ennals.org/images/2024-book-reviews/966981c1a1b3b160.png)
 
 The discoverer of the meme
 

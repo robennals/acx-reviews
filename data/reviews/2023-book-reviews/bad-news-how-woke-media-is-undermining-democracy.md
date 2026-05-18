@@ -9,8 +9,7 @@ publishedDate: '2026-02-06T07:21:10.023Z'
 slug: bad-news-how-woke-media-is-undermining-democracy
 wordCount: 4257
 readingTimeMinutes: 19
-originalUrl: >-
-  https://docs.google.com/document/d/10CiEI7aDL2bMIdx7yayy3vlq0TJ8dO5LGnG7yIDPiw8
+originalUrl: https://docs.google.com/document/d/10CiEI7aDL2bMIdx7yayy3vlq0TJ8dO5LGnG7yIDPiw8
 source: gdoc
 tags:
   - Politics
@@ -137,13 +136,13 @@ To show just how bizarre the woke narrative on police violence is, let’s look 
 
 But if a 2.5x gap is an urgent matter of social justice, then what does that say about the fact that men are killed at twenty four times the rate as women? Now you might say, but men commit more crime, putting them at greater risk for lethal interactions with police. But of course, that’s a deeply bigoted statement when applied to the racial discrepancy, but is perfectly woke to explain the 24x gender discrepancy. But it’s true, men commit vastly more violent crime than women, eight times as many homicides. So rather than normalize by population, you might say, let’s normalize by perpetration of homicide. Now remember that a 2.5x discrepancy is an urgent matter of social justice and evidence of a deeply bigoted country. When you normalize by murder offender rate, you find that men are still overrepresented by a 3x rate relative to women. It’s not like anyone is going to care about that gender gap, but more problematically for the woke narrative is that the racial gap flips: white Americans become overrepresented 3x relative to Black Americans.
 
-![](https://acximages.ennals.org/images/2023-book-reviews/ca01af728dc58d6d.png)
+![](https://acximages.ennals.org/images/2023-book-reviews/f19292f89a15a7b9.png)
 
 In an [interview](https://fivethirtyeight.com/features/why-black-women-are-often-missing-from-conversations-about-police-violence/) with FiveThirtyEight, Danielle Kilgo lamented the lack of media coverage for Black female victims, saying “One of the biggest explanations for this is that we don’t just live in a racist society, we also live in a sexist and patriarchal one.” And yet, the _New York Times_ ran 750 articles mentioning Breonna Taylor by April of 2023, but only five mentioning Tony Timpa.
 
 The theory of intersectionality posits that being Black and female is a double disadvantage in our society. We saw earlier how Ungar-Sargon pushed back on this, saying “the growing mountain of evidence that it [intersectionality] was wrong, at least factually.” The statistics show that when normalized for crime, the intersection of white and male is most at risk to police violence and Black and female is the least at risk. But, you might say, all the normalization we did above is too much, too complicated, instead let’s just see the raw numbers from an intersectional perspective:
 
-![](https://acximages.ennals.org/images/2023-book-reviews/1d1ee1141752d065.png)
+![](https://acximages.ennals.org/images/2023-book-reviews/4c675fadf81300bb.png)
 
 If you find any of this surprising, first you should wonder why the media has reported these things in such a distorted way. And second, reproduce it yourself. The police shootings are available at [Washington Post Police Shootings Database](https://www.washingtonpost.com/graphics/investigations/police-shootings-database/) and the homicide statistics available at the [FBI](https://ucr.fbi.gov/crime-in-the-u.s/2019/crime-in-the-u.s.-2019/tables/expanded-homicide-data-table-3.xls). Don’t just take my word for it. You can select for any year from 2015 onwards or aggregate them together to find a larger sample.
 
@@ -153,8 +152,8 @@ On January 7, 2023, Tyre Nichols was pulled out of his car and beaten to death b
 
 Elie Mystal, in [The Nation](https://www.thenation.com/article/society/tyre-nichols-murder-cops-supremacy/), wrote:
 
-> “You could drop a Martian in the middle of a local prosecutor’s office and, unless they actively and consciously looked for ways to subvert and sabotage the system, they too would soon start charging Black suspects with stunning haste while using their discretion to aid and appease white wrongdoers.  
->   
+> “You could drop a Martian in the middle of a local prosecutor’s office and, unless they actively and consciously looked for ways to subvert and sabotage the system, they too would soon start charging Black suspects with stunning haste while using their discretion to aid and appease white wrongdoers.
+>
 > And if you dropped that same Martian into a patrol car, it wouldn’t take long before they got out of that car and started cracking Black skulls.”
 
 How would you ever disprove such a belief?

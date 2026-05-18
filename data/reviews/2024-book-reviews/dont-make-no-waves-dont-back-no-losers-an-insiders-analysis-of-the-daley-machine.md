@@ -1,19 +1,15 @@
 ---
-title: >-
-  Don't Make No Waves, Don't Back No Losers: An Insiders' Analysis of the Daley
-  Machine
+title: 'Don''t Make No Waves, Don''t Back No Losers: An Insiders'' Analysis of the Daley Machine'
 author: Unknown
 reviewAuthor: Anonymous
 contestId: 2024-book-reviews
 contestName: 2024 Book Reviews
 year: 2024
 publishedDate: '2026-02-06T16:47:15.601Z'
-slug: >-
-  dont-make-no-waves-dont-back-no-losers-an-insiders-analysis-of-the-daley-machine
+slug: dont-make-no-waves-dont-back-no-losers-an-insiders-analysis-of-the-daley-machine
 wordCount: 6861
 readingTimeMinutes: 31
-originalUrl: >-
-  https://docs.google.com/document/d/1AXmWgSbh_TFsoZuApSCSEoz57yn93CM5YYhtaO_s4W4
+originalUrl: https://docs.google.com/document/d/1AXmWgSbh_TFsoZuApSCSEoz57yn93CM5YYhtaO_s4W4
 source: gdoc
 tags:
   - Politics
@@ -181,7 +177,7 @@ I appreciated the fact that _Don’t Make No Waves_ is a firsthand account, but 
 
 Also like its subjects, _Don’t Make No Waves_ is surprisingly uninterested in actual governance. I appreciated that the author didn’t waste time moralizing about the machine’s ethics, but I wanted to know more about how well the machine actually ran the city. The author repeatedly asserts that Chicago is no worse-governed than any other big American city in the 1970’s (admittedly, incredibly faint praise), but never provides any evidence.
 
-![](https://acximages.ennals.org/images/2024-book-reviews/7dfad3fbe6302c71.png)
+![](https://acximages.ennals.org/images/2024-book-reviews/ad88f7bdc2be5ae2.png)
 
 _I wanted a tiny bit more of this attitude in the book_
 

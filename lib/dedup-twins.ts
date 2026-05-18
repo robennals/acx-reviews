@@ -145,5 +145,48 @@ export function findTwins(reviews: ReviewRecord[]): TwinResult {
     }
   }
 
+  // Second pass: gdoc-vs-gdoc within the same contest. The same review
+  // can be pasted into two source gdocs (e.g. "Honorable Mentions 1" and
+  // "Honorable Mentions 2"), producing two identical-bodied files with
+  // different originalUrls. The ACX-vs-gdoc loop above doesn't catch
+  // these because both sides are `gdoc`-sourced. The 0.5/0.5/0.5
+  // containment thresholds protect against false-positives between
+  // legitimately distinct same-title reviews (different reviewers
+  // writing about the same book share metadata words but not 50%+ of
+  // 100-char body chunks).
+  //
+  // Pick which one to delete by slug length: a `-2`/`-3` suffix means
+  // the pipeline disambiguated against a base slug that was already
+  // taken; deleting the suffixed one preserves the canonical base.
+  // Ties broken lexicographically.
+  const alreadyDeletable = new Set<string>(matches.map(m => m.gdoc.contestId + '\0' + m.gdoc.slug));
+  // Also skip gdocs that the ACX pass flagged as ambiguous (one ACX, multiple
+  // gdoc twins) — those need a human to pick the ACX match before any
+  // gdoc-vs-gdoc dedupe makes sense.
+  const ambiguousGdocs = new Set<string>();
+  for (const { candidates } of multiMatchedAcx) {
+    for (const c of candidates) ambiguousGdocs.add(c.gdoc.contestId + '\0' + c.gdoc.slug);
+  }
+  for (const { gdoc } of byContest.values()) {
+    for (let i = 0; i < gdoc.length; i++) {
+      const g1 = gdoc[i];
+      const k1 = g1.contestId + '\0' + g1.slug;
+      if (alreadyDeletable.has(k1) || ambiguousGdocs.has(k1)) continue;
+      for (let j = i + 1; j < gdoc.length; j++) {
+        const g2 = gdoc[j];
+        const k2 = g2.contestId + '\0' + g2.slug;
+        if (alreadyDeletable.has(k2) || ambiguousGdocs.has(k2)) continue;
+        const result = isTwin(normOf(g1), normOf(g2));
+        if (!result.twin) continue;
+        const [keep, deletable] =
+          g1.slug.length < g2.slug.length || (g1.slug.length === g2.slug.length && g1.slug < g2.slug)
+            ? [g1, g2]
+            : [g2, g1];
+        matches.push({ acx: keep, gdoc: deletable, fwd: result.fwd, rev: result.rev, lenRatio: result.lenRatio });
+        alreadyDeletable.add(deletable.contestId + '\0' + deletable.slug);
+      }
+    }
+  }
+
   return { matches, multiMatchedAcx, multiMatchedGdoc, unmatchedAcx };
 }

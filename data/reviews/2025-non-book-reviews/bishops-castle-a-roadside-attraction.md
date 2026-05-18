@@ -1,5 +1,5 @@
 ---
-title: 'Bishop’s Castle, a Roadside Attraction'
+title: Bishop’s Castle, a Roadside Attraction
 author: Unknown
 reviewAuthor: Anonymous
 contestId: 2025-non-book-reviews
@@ -9,8 +9,7 @@ publishedDate: '2026-02-06T16:52:48.890Z'
 slug: bishops-castle-a-roadside-attraction
 wordCount: 6582
 readingTimeMinutes: 30
-originalUrl: >-
-  https://docs.google.com/document/d/1d0vRSj1E93joWWvbUen2XGuDjN_mM94ybMIAADzM2fo
+originalUrl: https://docs.google.com/document/d/1d0vRSj1E93joWWvbUen2XGuDjN_mM94ybMIAADzM2fo
 source: gdoc
 tags:
   - Society
@@ -61,17 +60,16 @@ How did all this come to be? It wouldn’t be easy to tell if you only visited t
 
 “This will be a free Disneyland. This will be a Disneyland without the money. The wire services could pick up on that.”
 
---- Jim Bishop, 1989, _Denver Post  
-_
+--- Jim Bishop, 1989, _Denver Post_  
 
 In 1959, Jim Bishop, a 15-year-old Colorado nobody and high school dropout, paid $450 for a two-and-a-half acre plot of land adjacent to the Greenhorn Highway and surrounded by San Isabel National Park. This became an annual camping spot for the Bishop family. As he grew up, Bishop began to earn a living by working in the ironworking trade with his father and installing patios. By 1969, he had started using the money he earned to build a cabin, then a water cistern that he surrounded with rocks from the nearby area. These rocks would come to haunt him later.  
-![](https://acximages.ennals.org/images/2025-non-book-reviews/1233b62e1aa74a00.png)
+![](https://acximages.ennals.org/images/2025-non-book-reviews/17154c8254048c73.png)
 
 As the story goes, the cobblestone cottage and the rocky turret surrounding the cistern resembled a castle, family members, friends, and local ranchers kept asking Bishop if he was building one. He denied it at first, but apparently this question came with such frequency that it planted an idea in his brain. One day, his answer switched to “yes.” He would give the public their castle. He chose not to stop when he finished the cabin. He kept building… and building… and building.
 
 As the rocky roadside edifice grew, it became a local attraction. For eight years, people offered to help with the castle. Bishop got frustrated when no one made good on their offers, though, and this led him to declare his castle a one-man project.
 
-Bishop had been frustrated as a kid when he wasn’t able to go to attractions and amusement parks because his family couldn’t afford the ticket. To keep the castle accessible, he charged no entrance fee and financed the project on a shoestring budget. He stacked rock over rock, hoisting them each up one after the other with a pully system powered by his truck’s engine. His forging skills helped him decorate and support every stone with wrought iron.![](https://acximages.ennals.org/images/2025-non-book-reviews/c02c287c7a5a4431.png)
+Bishop had been frustrated as a kid when he wasn’t able to go to attractions and amusement parks because his family couldn’t afford the ticket. To keep the castle accessible, he charged no entrance fee and financed the project on a shoestring budget. He stacked rock over rock, hoisting them each up one after the other with a pully system powered by his truck’s engine. His forging skills helped him decorate and support every stone with wrought iron.![](https://acximages.ennals.org/images/2025-non-book-reviews/999ffa68d152354f.png)
 
 Despite no architectural experience or plans, Bishop’s sheer industry kept the castle growing and stable. When he built a wall that needed to be eight feet thick, Jim made it 16. He hauled every rock, fell every log and milled it into lumber, built scaffolding for every tower, built every arch out of railroad ties. He designed complex pulley systems to hoist lumber for use as floorboards. He burrowed holes dozens of feet into the ground, then filled these with mortar he mixed and carried to the site himself. The castle is anchored deep in mountain bedrock, better rooted than the trees. Stone by stone, he built his dreams.
 
@@ -147,7 +145,7 @@ Merrill’s delusions led him to manipulate others. Jim had a bout with cancer i
 
 Bishop got way more than he bargained for. Merrill barred the Bishops from entering, redecorated, and renamed it to the “Castle Church for the Redemption of the Office Bishop.” He intended to make it the headquarters for his pseudochristian cult. The Bishop family incited a movement to retake the castle. Every major Colorado news outlet reported on the battle, and the internet burst aflame with support. Merrill responded to media criticism with this strange rant, which I have reproduced here in very abbreviated form:
 
-        _“There are several key reasons for an irrevocable trust in this case. One is the longevity of the castle itself. Jim built it of granite, not concrete. The concrete holds the granite in place but it is the granite that denies the ravages of gravity. Jim left no bubbles in the mortar too, so moisture and frostwedging may take centuries to take their toll…. That castle was never owned by Him and Phoebe. … Think forgive instead of redemption – CASTLE CHURCH – For the Forgiving of the Office BISHOP. The Bishop of Rome is the Pope. The true message of Jesus CHRIST was of unity, peace, joy, and love. The popes monetizing of guilt prevents one from stimulating the Kingdom of Heaven from within. Fear and seperation are illusions causing judgement, anxiety, and fear.”_ [sic]
+_“There are several key reasons for an irrevocable trust in this case. One is the longevity of the castle itself. Jim built it of granite, not concrete. The concrete holds the granite in place but it is the granite that denies the ravages of gravity. Jim left no bubbles in the mortar too, so moisture and frostwedging may take centuries to take their toll…. That castle was never owned by Him and Phoebe. … Think forgive instead of redemption – CASTLE CHURCH – For the Forgiving of the Office BISHOP. The Bishop of Rome is the Pope. The true message of Jesus CHRIST was of unity, peace, joy, and love. The popes monetizing of guilt prevents one from stimulating the Kingdom of Heaven from within. Fear and seperation are illusions causing judgement, anxiety, and fear.”_ [sic]
 
 This is from a YouTube comment to one of Merrill’s old videos, all of which have unfortunately since been taken down, so they’re now lost media. He also apparently had a manifesto which I also have not been able to find. Dear reader, if you have any information about David Merrill’s philosophy or writings, let me know. I still don’t fully understand what drove the man to do all this.
 
@@ -174,11 +172,11 @@ I managed to get to the top but only after a storm of stress. The gales howled a
 
 On my way down, I noticed the castle is quirky enough to have a nonfunctional elevator shaft. I later read that Bishop wanted to construct a solar-powered elevator inside the castle for accessibility. I suppose an elevator could be possible: if these stones are strong enough to support the massive tower above them, they are strong enough to support an elevator. Bishop, in his book _Castle Building as I See It,_ describes further his vaulting ambition for the castle:![](https://acximages.ennals.org/images/2025-non-book-reviews/993ae78f0cb45d17.jpg)
 
-_“The museum and library will be on the second floor, with a mausoleum addition in the back. On the third story, in the tall front gable, will be the pipe organ and interfaith chapel… from the roof rafters, above the third level, in the west-end of the great hall, will be a hanging bedroom for people to use, on a drawing basis.”_
+> _“The museum and library will be on the second floor, with a mausoleum addition in the back. On the third story, in the tall front gable, will be the pipe organ and interfaith chapel… from the roof rafters, above the third level, in the west-end of the great hall, will be a hanging bedroom for people to use, on a drawing basis.”_
 
 Suffice it to say, none of this was built. All the same I think holding his expectations so high helped Bishop build what he did. It is good to make your highest ambitions very high indeed. Just like stretching a rubber band a great distance results in greater tension in the cord, stretching your ambitions as high as possible inspires more ardent action.
 
-![](https://acximages.ennals.org/images/2025-non-book-reviews/d5c591028b5f2fa7.png)
+![](https://acximages.ennals.org/images/2025-non-book-reviews/12bc83355a87ce79.png)
 
 ## VI: Place of Liberty  
 
@@ -243,11 +241,11 @@ But let’s say our hypothetical 21st-century Bishop made some well-timed Bitcoi
 
 Sometimes, I even wonder if the castle will last much longer. The family has been lucky so far, but it only takes one death or injury to result in a shutdown. When I mentioned this possibility to Dan, he had this to say:
 
-        _“Ultimately, we don’t have any game plan. … Your question is the same one people have asked since we started. There’s always somebody wanting to plant the idea that it’s not going to work. That they’re going to take it from you._
+_“Ultimately, we don’t have any game plan. … Your question is the same one people have asked since we started. There’s always somebody wanting to plant the idea that it’s not going to work. That they’re going to take it from you._
 
-        _You just can’t let the fear of the future stop you from doing what you want to do. The thing you gotta be careful of is: Is it for the right reason? I believe that as long as I’m up there, not trying to get rich, not trying to steal from everybody, giving it away, than the God I and my Dad believed in will do what he needs to keep it going. I also believe that if it’s not happening anymore… that was God’s will as well._
+_You just can’t let the fear of the future stop you from doing what you want to do. The thing you gotta be careful of is: Is it for the right reason? I believe that as long as I’m up there, not trying to get rich, not trying to steal from everybody, giving it away, than the God I and my Dad believed in will do what he needs to keep it going. I also believe that if it’s not happening anymore… that was God’s will as well._
 
-        _I will go when God tells me I’m done here. I live by that because I watched it work for him. That there were years of no one managing to stop it is a pretty good testament of how long you can get away with doing the right thing.”_
+_I will go when God tells me I’m done here. I live by that because I watched it work for him. That there were years of no one managing to stop it is a pretty good testament of how long you can get away with doing the right thing.”_
 
 Dan tells us here what the castle means. The castle might not teach us much about architecture or environmental engineering, but it reminds us to let hope and not fear guide our lives. It reminds us that the true munchkin doesn’t always lay out plans like railroad tracks but digs, digs, digs through the mountain of destiny in a frenzy of joyful doing.
 

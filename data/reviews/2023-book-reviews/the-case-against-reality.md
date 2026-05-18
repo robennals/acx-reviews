@@ -1,16 +1,16 @@
 ---
-title: "The Case Against Reality"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2023-book-reviews"
-contestName: "2023 Book Reviews"
+title: The Case Against Reality
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2023-book-reviews
+contestName: 2023 Book Reviews
 year: 2023
-publishedDate: "2023-01-01T00:00:00.000Z"
-slug: "the-case-against-reality"
+publishedDate: '2023-01-01T00:00:00.000Z'
+slug: the-case-against-reality
 wordCount: 9206
 readingTimeMinutes: 41
-originalUrl: "https://docs.google.com/document/d/1AtGIIv371v0Yu35eNsIxJr67dw4SHOiGdKrqmoKt2hg"
-source: "gdoc"
+originalUrl: https://docs.google.com/document/d/1AtGIIv371v0Yu35eNsIxJr67dw4SHOiGdKrqmoKt2hg
+source: gdoc
 tags:
   - Philosophy
   - Science
@@ -75,7 +75,7 @@ Donald Hoffman, however, does share my intuitions on this point, and it is from 
 
 > Based on its current experience, the agent decides whether, and how, to change its current choice of action. … The action of the agent changes the state of the world.  The world, in response, changes the experience of the agent… (ibid.).
 
-![](https://acximages.ennals.org/images/2023-book-reviews/f4c010a03090c229.jpg)
+![](https://acximages.ennals.org/images/2023-book-reviews/f743b6190677de78.jpg)
 
 The life of a conscious agent thus proceeds from perception to decision to action to the consequences of action on perception via some change in the state of the world.  It assumes the existence of both conscious experiences and actions, but I find both of these categories to be phenomenologically given in a way that renders them absolutely undeniable.  We act, and we experience, and we come to understand stable aspects of the world via the regular patterns of perception and action afforded to us.  We need make no assumptions about the nature of the external world beyond the obvious one that our interactions with it engender particular patterns of experience that allow us to posit stable external phenomena such as physical objects.
 

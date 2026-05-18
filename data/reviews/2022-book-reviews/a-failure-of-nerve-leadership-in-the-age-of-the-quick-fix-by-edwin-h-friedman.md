@@ -1,7 +1,5 @@
 ---
-title: >-
-  A Failure of Nerve: Leadership in the Age of the Quick Fix by Edwin H.
-  Friedman
+title: 'A Failure of Nerve: Leadership in the Age of the Quick Fix by Edwin H. Friedman'
 author: Unknown
 reviewAuthor: Anonymous
 contestId: 2022-book-reviews
@@ -9,10 +7,9 @@ contestName: 2022 Book Reviews
 year: 2022
 publishedDate: '2026-02-06T07:24:08.686Z'
 slug: a-failure-of-nerve-leadership-in-the-age-of-the-quick-fix-by-edwin-h-friedman
-wordCount: 5021
+wordCount: 4995
 readingTimeMinutes: 23
-originalUrl: >-
-  https://docs.google.com/document/d/1pRQbRbEUwSH_jm94PI_ij-88swat7vQ4iNaNp6gd39g
+originalUrl: https://docs.google.com/document/d/1pRQbRbEUwSH_jm94PI_ij-88swat7vQ4iNaNp6gd39g
 source: gdoc
 tags:
   - Psychology
@@ -21,8 +18,8 @@ tags:
 
 * * *
 
-> 1.  **Introduction: “No Good Deed Will Go Unpunished.”**
->
+1.  **Introduction: “No Good Deed Will Go Unpunished.”**
+
 > On the first page of _“A Failure of Nerve,”_ Edwin H. Friedman launches his troubling thesis with this unforgettable statement:
 >
 > _“…when anxiety reaches certain thresholds, 'reasonableness and honesty’ no longer defend against illusion, and then even the most learned ideas can begin to function as superstition.”_
@@ -36,19 +33,19 @@ tags:
 > If you’ve led an institution for any length of time, you’ve probably had moments when you’ve wondered, “Who the hell would want this job?” (at least if they only understood what that leadership entailed!) Whether it’s a tech startup or a family, university or book club, a hospital or the board of elders–same discouragement, same weariness, same taste of burnout threatening to claim you.
 >
 > Maybe you can remember how your role held such promise at first, but now the joy has evaporated. You can tell you’ve “lost your shine” in the eyes of the energetic crew you’ve been leading; they may even have been replaced with a set of minions who, while appearing identical, are hollow-eyed and slow to carry out their duties. Added to all this, a sea of troubles is looming on the horizon, threatening to capsize the whole enterprise. After an extended period of floundering along hopelessly, maybe, like Ender Wiggin, you just want “out.”
-
-![](https://acximages.ennals.org/images/2022-book-reviews/e9a92469d3747fce.png)
-
-> [If they tell you that they don’t _know_ that failure is inevitable–but that you’re the best hope they’ve got–maybe run if you can? Not that they necessarily said that to Ender in so many words!]
 >
-> 2.  **Give me the takeaways before I close out this tab and get on with my life!!!**
+> ![](https://acximages.ennals.org/images/2022-book-reviews/e9a92469d3747fce.png)
+>
+> [If they tell you that they don’t _know_ that failure is inevitable–but that you’re the best hope they’ve got–maybe run if you can? Not that they necessarily said that to Ender in so many words!]
+
+2.  **Give me the takeaways before I close out this tab and get on with my life!!!**
 
 Okay, okay, you say you don’t have time for this unless I can “boil down” a 250-page book into a few critical principles? You’ll stop reading if I don’t tell you how to fix most of your thorny leadership quandaries within the next 200 words? Fine, fine! Here you go!
 
-> 1.  When the going gets tough, the way to win is to bust out your “I have a dream” speech.
-> 2.  “Playfulness can get you out of a rut faster than seriousness can.”  
->     (direct quote!)
-> 3.  Amid the challenges of leadership, managing anxieties (yours–and, by extension–the anxieties of the members of your institution as well) may be your most crucial responsibility.
+1.  When the going gets tough, the way to win is to bust out your “I have a dream” speech.
+2.  “Playfulness can get you out of a rut faster than seriousness can.”  
+    (direct quote!)
+3.  Amid the challenges of leadership, managing anxieties (yours–and, by extension–the anxieties of the members of your institution as well) may be your most crucial responsibility.
 
 The first of these three pops onto the scene as a surprise answer to the question of what you do whether you’re utterly at the breaking point from an onslaught of internal opposition–or even if you’re just facing another wearying round of garden-variety employee sabotage. But maybe it shouldn’t be so surprising that when confronted with sabotage from below, a leader should stop the show right then and there to ask, “What are we here for in the first place?” Because the true answer to “Why are you making me changes that are inconvenient to me personally?” or “Teacher, she has something that I don’t; why can’t I have that?” isn’t to humor those childish impulses by responding to them on their own terms. It’s to lift up the eyes of everyone who’s present to a much greater vision. It’s for that vision–and not for yourself–that you make demands on the time, energy and attention of the members of your team.
 
@@ -58,7 +55,7 @@ The third insight is threaded throughout the entire text, from start to finish�
 
 Now you’ve gotten the “cheapo buffet” introduction, if you’re ready for something more substantive such as: What Each Of Those Things Even Mean, or–also popular on the menu–What The Author Means When He Says “Leader,” then carry on! Have I got a show for you!
 
-> 3.  **“When the Going Gets Tough… Give your “I Have a Dream” Speech?”**
+3.  **“When the Going Gets Tough… Give your “I Have a Dream” Speech?”**
 
 ![](https://acximages.ennals.org/images/2022-book-reviews/91b1fa255bb16459.jpg)
 
@@ -82,7 +79,7 @@ So that’s the people who could see a path to taking that advice. Good. What el
 
 These leaders needed to be willing to face their own selves. Our society’s traditional models for how to help leaders falls short, only providing one more way to evade doing the tough work needed to usher in true, lasting change.
 
-> 4.  **What kind of leader are we even talking about?**
+4.  **What kind of leader are we even talking about?**
 
 ![She may be small, but she's decisive.](https://acximages.ennals.org/images/2022-book-reviews/d56e4fa70d9f0536.jpg)
 
@@ -93,26 +90,26 @@ These leaders needed to be willing to face their own selves. Our society’s tra
 Near the beginning of the book, Friedman explains another shift in the way he counseled–this, especially in a family context. Rather than making heroic efforts to get family members to talk to each-other, and to engage people who didn’t want to be in the sessions, he:
 
 > _“…began to search instead for the member with the greatest capacity to be a leader as I have defined it. That person generally turned out to be the one who could express himself or herself with the least amount of blaming and the one who had the greatest capacity to take responsibility for his or her own emotional being and destiny.”_
->
-> 5.  **“Playfulness will get you out of a rut more successfully than seriousness.”**
->
+
+5.  **“Playfulness will get you out of a rut more successfully than seriousness.”**
+
 > Decades ago… back in the 1980s, my dad’s job involved sending hard copies of reams of data from one office to another. The security protocols were onerous, in spite of the fact that the already-boring data was anonymized.  He’d ask his boss, “Is all this worth the trouble? If someone wanted to get at it, our protocols aren’t actually enough to prevent that.” I think there really was no good thing for his boss to say to that. But my dad remembers his response perfectly: The boss walked over to the window and looked down at the busy city streets below. Then he said conspiratorially, “There’s people out there who would kill for this stuff.”
+
+6.  **Key to the Kingdom: Managing your Minions’ Anxieties–and Your Own as Well.**
+
+> Years ago, I watched my closest friend lead a team (he put forth superhuman efforts to keep it from becoming a faction, really.) in an organization that was fraught with quarrels–serious long-standing relational frictions from long before he came on the scene. The people in the larger organization really wanted his program to become awesome; however, they wanted to see the awesome results _immediately_, and preferably as a result of _their_ own brilliance (in providing solutions for him to implement). Magic button-ism. Their anxieties were constantly on display as they cast about for “what other people did that worked”-type scenarios in their pathetic, despair-ridden cluelessness.
 >
-> 6.  **Key to the Kingdom: Managing your Minions’ Anxieties–and Your Own as Well.**
->
-> Years ago, I watched my closest friend lead a team (he put forth superhuman efforts to keep it from becoming a faction, really.) in an organization that was fraught with quarrels–serious long-standing relational frictions from long before he came on the scene. The people in the larger organization really wanted his program to become awesome; however, they wanted to see the awesome results _immediately_, and preferably as a result of _their_ own brilliance (in providing solutions for him to implement). Magic button-ism. Their anxieties were constantly on display as they cast about for “what other people did that worked”-type scenarios in their pathetic, despair-ridden cluelessness.  
->   
 > As you can imagine, that sucked.
 >
 > You can only do so much, but some kind of catharsis helps. So some days, I’d catch him playing the same song on infinite loop. (but it was a good song!) Some days, we’d watch an episode of The West Wing together, and laugh harshly, and say “YES, THAT!” (Oh yeah–I was his right hand in the operation.) Because it really is “lonely at the top.” There really are things you can’t freely explain to the minions (or the “outside world,” for that matter!) about the obnoxious constraints that bind you. You can’t go ahead and “share” quite how high your uncertainty is for even the most important decisions you make in this work–lest they catch your fears.
->
-> 7.  **Vision: An asset beyond price.**
+
+7.  **Vision: An asset beyond price.**
 
 ![](https://acximages.ennals.org/images/2022-book-reviews/33b268ca83b56777.jpg)
 
 > Photo by [Quino Al](https://unsplash.com/@quinoal?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/sunrise?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
->
-> 8.  **Intergenerational shitstorms: a possible ceiling on growth.**
+
+8.  **Intergenerational shitstorms: a possible ceiling on growth.**
 
 If you read this book, you might find yourself motivated to “work on” your family-of-origin issues. I notice I stated this topictitle  in the negative, rather than the positive. This is probably because I’m someone who had not-perfect relationships with members of my family-of-origin when I was a newly-fledged adult, and has seen (I mean, and participated in!) them grow better and closer. I’m sure there are other people who’ve weathered a similar storm, braced themselves, and come out on the other side to find their heart’s desire, so I don’t want to put myself out there as a special expert in this area. (unless I do.)
 
@@ -123,8 +120,8 @@ You don’t have to fix it now-now, but you might be motivated to if you read th
 But the author says it better:
 
 > _‘In any type of institution whatsoever, when a self-directed, imaginative, energetic, or creative member is being consistently frustrated and sabotaged rather than encouraged and supported, what will turn out to be true one hundred percent of the time, regardless of whether the disrupters are supervisors, subordinates, or peers, is that the person at the very top of that institution is a peace-monger. By that I mean a highly anxious risk-avoider, someone who is more concerned with good feelings than with progress, someone whose life revolves around the axis of consensus, a "middler," someone who is so incapable of taking well-defined stands that his "disability" seems to be genetic, someone who functions as if she had been filleted of her backbone, someone who treats conflict or anxiety like mustard gas—one whiff, on goes the emotional gas mask, and he flits. Such leaders are often ''nice," if not charming.’_
->
-> 9.  **Q&A: Comparing, Contrasting. Context-Contemplating**
+
+9.  **Q&A: Comparing, Contrasting. Context-Contemplating**
 
 **Q1: Is this a Christian Book™?** 
 
@@ -132,13 +129,13 @@ When I call up this book on The Internet Archive, (where you can read it for fre
 
 But, please be assured that:
 
-> 1.  You **WON’T** get tons of anecdotes about specifically churches, **NOR** will you get anecdotes written in inscrutable “churchy” language.
-> 2.  You **WILL** get irreverence.
-> 3.  You **WON’T** get a dude trying to promote American Evangelical “niceness culture.” On the contrary, you will get a dude whose words cut against “nice” weaksauce [lameass leaders who don’t wield their authority with strength]. He’s even put on display the devastation and damage that enables. Witness:
->
+1.  You **WON’T** get tons of anecdotes about specifically churches, **NOR** will you get anecdotes written in inscrutable “churchy” language.
+2.  You **WILL** get irreverence.
+3.  You **WON’T** get a dude trying to promote American Evangelical “niceness culture.” On the contrary, you will get a dude whose words cut against “nice” weaksauce [lameass leaders who don’t wield their authority with strength]. He’s even put on display the devastation and damage that enables. Witness:
+
 > _“The regression came about because the moderator (that is, the leader) of the panel was a "nice guy" (a former minister and president of a local educational institution) who did not have the temerity to set limits on this person's invasiveness. He was more concerned to assuage her hurt feelings, to right her perceived slight, and to keep good feelings going in the community. By letting her speak and guiding the panel in a discussion of her remarks, he thereby adapted the entire community to her demands…”_
->
-> 4.  You **WILL** get a badass author who’s advised parents and presidents, CEOs and educators, healers and generals, leaders in synagogues, and leaders in churches.
+
+4.  You **WILL** get a badass author who’s advised parents and presidents, CEOs and educators, healers and generals, leaders in synagogues, and leaders in churches.
 
 **Q2: Do you have any disclaimers for me?**
 
@@ -182,8 +179,8 @@ Okay, but Brene Brown is talking about relational vulnerability. In theory, rela
 >
 > _“And how does that feel?”_
 >
-> _The room got quiet. I answered for them. "There's probably not a single act at work that requires more vulnerability than holding people responsible for ethics and values, especially when you're alone in it or there's a lot of money, power, or influence at stake. People will put you down, question your intentions, hate you, and sometimes try to discredit you in the process of protecting themselves. So if you don't ‘do’ vulnerability, and/or you have a culture that thinks vulnerability is weakness, then it's no wonder ethical decision-making is a problem."  
-> –_Brene Brown in "Dare to Lead"
+> _The room got quiet. I answered for them. "There's probably not a single act at work that requires more vulnerability than holding people responsible for ethics and values, especially when you're alone in it or there's a lot of money, power, or influence at stake. People will put you down, question your intentions, hate you, and sometimes try to discredit you in the process of protecting themselves. So if you don't ‘do’ vulnerability, and/or you have a culture that thinks vulnerability is weakness, then it's no wonder ethical decision-making is a problem."_  
+> _–_Brene Brown in "Dare to Lead"
 
 Sounds like she's pushing the value of integrity just like Friedman did!
 
@@ -205,7 +202,7 @@ Lastly, if Brown’s choice to name the whole book after a turn of phrase [from 
 
 So I'm saying that the two have got some commonality; there's some overlap. Feel free to read both and grab an eclectic toolkit of what you can pull from each: The space that they're mapping is large. It's easy for one author to be "zoomed" in on one set of details that's never "in focus" for the other. If they appear to contradict each-other in some things, so what? Maybe one is wrong about something! Or both! Scratch that, I can almost guarantee that BOTH are wrong about _something_. Because human.
 
-> 10.   **Conclusion: The Only Way to Avoid this is to Waste your Life.**
+10.   **Conclusion: The Only Way to Avoid this is to Waste your Life.**
 
 The only way to avoid these dreadful hazards is to waste your life: You need to refuse to take responsibility, to constantly cower in fear, (and frequently bring others down with you) to allow your only growing passions to be a life-sucking hunger for somebody else to fix your problems for you. (or, perhaps, to give you the “perfect technique for fixing your problems”--in which case you’re holding out for something that does not exist.)
 

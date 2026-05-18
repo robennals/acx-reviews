@@ -323,6 +323,139 @@ test('cleanupMarkdown does NOT promote a long bold line (>100 chars)', () => {
   assert.ok(out.includes(`**${longText}**`), `long bold should be preserved as emphasis; got: ${out}`);
 });
 
+test('cleanupMarkdown promotes section-numbered bold headings ending with ? or :', () => {
+  // Real example from "A Secular Age": four section headings styled as
+  // **I. Why so secular?**, **II. Oh the places elites go**, **III. Why?**,
+  // **IV. Archimedes Chronophone, revisited:**. Previously only II
+  // promoted because I/III ended with `?` and IV ended with `:`, all of
+  // which the strict end-punctuation rule excluded.
+  const input = [
+    '**I. Why so secular?**',
+    '',
+    'Substantive prose under section I — over fifty characters of real text content to satisfy the context check.',
+    '',
+    '**II. Oh the places elites go**',
+    '',
+    'Substantive prose under section II — over fifty characters of real text content to satisfy the context check.',
+    '',
+    '**III. Why?**',
+    '',
+    'Substantive prose under section III — over fifty characters of real text content to satisfy the context check.',
+    '',
+    '**IV. Archimedes Chronophone, revisited:**',
+    '',
+    'Substantive prose under section IV — over fifty characters of real text content to satisfy the context check.',
+  ].join('\n');
+
+  const out = cleanupMarkdown(input);
+
+  assert.ok(/^## I\. Why so secular\?$/m.test(out), `I. should promote; got: ${out}`);
+  assert.ok(/^## II\. Oh the places elites go$/m.test(out), `II. should promote; got: ${out}`);
+  assert.ok(/^## III\. Why\?$/m.test(out), `III. should promote; got: ${out}`);
+  assert.ok(/^## IV\. Archimedes Chronophone, revisited:$/m.test(out), `IV. should promote; got: ${out}`);
+});
+
+test('cleanupMarkdown promotes bare section-numbered markers like **I.**, **II.**', () => {
+  // Real example from "Black Skin White Masks" / "Love Island": section
+  // markers are just the Roman numeral plus period, with substantive prose
+  // between them. Previously failed because `I.` ends with `.`.
+  const input = [
+    '**I.**',
+    '',
+    'A substantive prose paragraph that is comfortably above the fifty-character threshold of real text.',
+    '',
+    '**II.**',
+    '',
+    'Another substantive prose paragraph easily over fifty characters of normal English text content.',
+    '',
+    '**III.**',
+    '',
+    'A third substantive prose paragraph that is comfortably above the threshold for context-detection.',
+  ].join('\n');
+
+  const out = cleanupMarkdown(input);
+
+  assert.ok(/^## I\.$/m.test(out), `**I.** should promote; got: ${out}`);
+  assert.ok(/^## II\.$/m.test(out), `**II.** should promote; got: ${out}`);
+  assert.ok(/^## III\.$/m.test(out), `**III.** should promote; got: ${out}`);
+});
+
+test('cleanupMarkdown group-promotes section-numbered headings even when one has short surrounding text', () => {
+  // Real example from "The Narrow Road to the Deep North": four `**Part N: …**`
+  // headings, but Part 2 happens to be surrounded by very short paragraphs
+  // (a haiku + short setup), so the per-line substantive-prose check fails.
+  // The 3+-section-numbered group override promotes it anyway.
+  const input = [
+    '**Part 1: So It Begins**',
+    '',
+    'Some substantive prose about Part 1 that is comfortably above the fifty-character threshold of real text.',
+    '',
+    '**Part 2: Seasons Don’t Fear the Weeper**',
+    '',
+    'Short.',
+    '',
+    '**Part 3: Poetry**',
+    '',
+    'Some substantive prose about Part 3 that is comfortably above the fifty-character threshold of real text.',
+    '',
+    '**Part 4: Travelers**',
+    '',
+    'Some substantive prose about Part 4 that is comfortably above the fifty-character threshold of real text.',
+  ].join('\n');
+
+  const out = cleanupMarkdown(input);
+
+  assert.ok(/^## Part 1: So It Begins$/m.test(out), `Part 1 should promote; got: ${out}`);
+  assert.ok(/^## Part 2: Seasons/m.test(out), `Part 2 should group-promote despite short context; got: ${out}`);
+  assert.ok(/^## Part 3: Poetry$/m.test(out), `Part 3 should promote; got: ${out}`);
+  assert.ok(/^## Part 4: Travelers$/m.test(out), `Part 4 should promote; got: ${out}`);
+});
+
+test('cleanupMarkdown promotes section-numbered bold lines where turndown escaped the period (N\\.)', () => {
+  // When `N.` appears at the start of a line, turndown escapes the period
+  // as `\.` to prevent CommonMark from interpreting it as a numbered-list
+  // marker. The H2-promotion rule must still recognize these as
+  // section-numbered, and must strip the (now-unnecessary) escape on output.
+  const input = [
+    '**1\\. Systems of extracting food and fuel**',
+    '',
+    'A substantive prose paragraph that is comfortably above the fifty-character threshold for context.',
+    '',
+    '**2\\. Science / invention**',
+    '',
+    'Another substantive prose paragraph that is comfortably above the fifty-character threshold.',
+    '',
+    '**3\\. Education and job specialization**',
+    '',
+    'Yet another substantive prose paragraph that is comfortably above the fifty-character threshold.',
+  ].join('\n');
+
+  const out = cleanupMarkdown(input);
+
+  assert.ok(/^## 1\. Systems of extracting food and fuel$/m.test(out), `should promote and strip the \\.; got: ${out}`);
+  assert.ok(/^## 2\. Science \/ invention$/m.test(out), `should promote 2.; got: ${out}`);
+  assert.ok(/^## 3\. Education and job specialization$/m.test(out), `should promote 3.; got: ${out}`);
+  assert.ok(!/\\\./m.test(out), `escaped periods should be stripped in heading; got: ${out}`);
+});
+
+test('cleanupMarkdown does NOT group-promote when there are fewer than 3 section-numbered candidates', () => {
+  // Two section-numbered candidates is not a strong enough signal to bypass
+  // the substantive-prose check.
+  const input = [
+    '**I. First**',
+    '',
+    'Short.',
+    '',
+    '**II. Second**',
+    '',
+    'Also short.',
+  ].join('\n');
+
+  const out = cleanupMarkdown(input);
+
+  assert.ok(!/^## I\./m.test(out), `should not group-promote with only 2 candidates; got: ${out}`);
+});
+
 test('cleanupMarkdown does NOT promote bold lines when the doc already uses ATX headings', () => {
   // If the author chose to use proper `##` headings anywhere in the
   // doc, any bold-only line is emphasis, not a missed heading.
@@ -736,6 +869,202 @@ test('convertGDocToMarkdown does NOT split a poetry-style paragraph that mixes p
   // paragraph — it's one stanza.
   const sep = (md.match(/^>\s*$/gm) || []).length;
   assert.equal(sep, 0, `mixed-br paragraph should not be split; got: ${md}`);
+});
+
+test('cleanupMarkdown does NOT dedent 4-space-indented `#`-prefixed lines (Python code comments)', () => {
+  // Real example from "Python Data Science Handbook": the reviewer's
+  // gdoc has Python code as a run of `<p>` paragraphs with `&nbsp;`-
+  // indented inline-comment lines. After nbsp→space normalization,
+  // those comments look like `    # get wins for this series of bets`.
+  // If we dedent the leading spaces, the H1 splitter sees `# get wins...`
+  // at column 0 and creates a spurious new review with that "title",
+  // truncating the parent review's body.
+  const input = [
+    'for cur_round in range(1, NUM_ROUNDS+1):',
+    '',
+    '    # get wins for this series of bets',
+    '',
+    '    wins = (np.random.randint(0, 100, size=NUM_BETS) < WIN_PERCENT).astype(int)',
+  ].join('\n');
+
+  const out = cleanupMarkdown(input);
+
+  // The `#` comment must keep its 4-space indent (so the H1 splitter
+  // does not see it as a new review boundary).
+  assert.ok(out.includes('    # get wins for this series of bets'),
+    `indented code-comment with # must stay indented; got: ${out}`);
+  assert.ok(!/^# get wins/m.test(out),
+    `# comment must NOT be at column 0; got: ${out}`);
+});
+
+test('convertGDocToMarkdown DOES blockquote a real quote paragraph that contains a footnote-REFERENCE anchor', async () => {
+  // Real example from "The Red and the Black" (2021): the reviewer has
+  // a book quote ending with a footnote reference like
+  // \`...French people. <a id="ftnt_ref25" href="#ftnt25">[25]</a>\`.
+  // The reference-anchor (\`id="ftnt_refN"\`) must NOT trigger the
+  // footnote-def skip — that's reserved for the destination anchor
+  // (\`id="ftntN"\`).
+  const html = `<html><head><style>.c0{margin-left:36pt}</style></head><body>` +
+    `<p><span>Body paragraph for context.</span></p>` +
+    `<p class="c0"><span>‘The French, Napoleon remarked, ‘are indifferent to liberty.’ </span><a id="ftnt_ref25" href="#ftnt25"><span>[25]</span></a></p>` +
+    `</body></html>`;
+
+  const { convertGDocToMarkdown } = await import('./gdoc-html.ts');
+  const out = convertGDocToMarkdown(html);
+
+  // The book quote (a body paragraph linking TO a footnote) must be in
+  // a blockquote — the ftnt_ref anchor is a reference, not a definition.
+  assert.ok(/^> ‘The French/m.test(out),
+    `body paragraph with ftnt_ref link must be blockquoted; got: ${out}`);
+});
+
+test('convertGDocToMarkdown does NOT blockquote footnote-definition paragraphs even when they have a blockquote-eligible indent class', async () => {
+  // Real example from "Win Bigly" (2024): the gdoc author's hand-formatted
+  // footnotes at the end of the review use the same text-indent:36pt class
+  // (c119) the pipeline treats as a blockquote signal on short paragraphs.
+  // Footnotes shouldn't render as blockquotes — they're reviewer commentary,
+  // not external quotations. Detect them via the \`<a id="ftntN">\` anchor
+  // that gdoc footnote-definition paragraphs always carry.
+  const html = `<html><head><style>.c0{text-indent:36pt}</style></head><body>` +
+    `<p><span>Body paragraph with substantive content for context.</span></p>` +
+    `<p class="c0"><a id="ftnt73">[73]</a><span> A short footnote about French philosophy.</span></p>` +
+    `<p class="c0"><a id="ftnt74">[74]</a><span> Another short footnote about Brahmin society.</span></p>` +
+    `<p class="c0"><a id="ftnt75">[75]</a><span> Joke; embittered by economics.</span></p>` +
+    `</body></html>`;
+
+  const { convertGDocToMarkdown } = await import('./gdoc-html.ts');
+  const out = convertGDocToMarkdown(html);
+
+  // None of the footnote-definition paragraphs should be blockquoted.
+  assert.ok(!/^> \[\[73\]\]/m.test(out),
+    `footnote [73] must NOT be blockquoted; got: ${out}`);
+  assert.ok(!/^> \[\[74\]\]/m.test(out),
+    `footnote [74] must NOT be blockquoted; got: ${out}`);
+});
+
+test('convertGDocToMarkdown blockquotes a text-indent paragraph ONLY when it is also italic', async () => {
+  // Empirically across the corpus, every italic+text-indent paragraph is
+  // a quote (book excerpts, Latin sentences, novel dialogue, song lyrics,
+  // attributions). Reviewer-prose paragraphs that the older heuristic
+  // mistakenly wrapped (the-righteous-mind, at-the-existentialist-caf,
+  // bronze-age-mindset, win-bigly footnotes, etc.) are NEVER italic.
+  //
+  // So the per-paragraph rule for text-indent-only is: blockquote iff
+  // every substantive span carries an italic class.
+  const html = `<html><head><style>.c0{text-indent:36pt}.ci{font-style:italic}</style></head><body>` +
+    `<p><span>Body paragraph for context with substantive content.</span></p>` +
+    `<p class="c0"><span class="ci">He lacks the self-confidence or the energy for it.</span></p>` +
+    `<p class="c0"><span>A reviewer-prose paragraph with text-indent but NOT italic.</span></p>` +
+    `</body></html>`;
+
+  const { convertGDocToMarkdown } = await import('./gdoc-html.ts');
+  const out = convertGDocToMarkdown(html);
+
+  // Italic + text-indent → blockquote.
+  assert.ok(/^> _He lacks the self-confidence/m.test(out),
+    `italic + text-indent paragraph must be blockquoted; got: ${out}`);
+  // Non-italic + text-indent → NOT blockquote (it's typographic styling).
+  assert.ok(!/^> A reviewer-prose/m.test(out),
+    `non-italic text-indent paragraph must NOT be blockquoted; got: ${out}`);
+});
+
+test('convertGDocToMarkdown wraps a paragraph indented via a SPLIT-class combination (margin-left in one class, margin-right in another)', async () => {
+  // Real example from "Disunited Nations" (2021): a quoted block had
+  // `<p class="c97 c32 c117">` where c97 carried only `margin-right:33.1pt`
+  // and c117 carried only `margin-left:21.3pt`. Neither class alone met
+  // the 36pt or "both-sides" threshold, so the old detector marked
+  // neither as an indent class and the multi-paragraph book quote got
+  // un-quoted. Detector must sum margins across all classes on the element.
+  const html = `<html><head><style>.c0{font-weight:400}.c97{margin-right:33.1pt}.c117{margin-left:21.3pt}</style></head><body>` +
+    `<p><span class="c0">Body paragraph with plenty of substantive content before the quote starts here.</span></p>` +
+    `<p class="c97 c117"><span class="c0">First quoted paragraph with enough content to be unambiguously a real prose quote and not a verse line.</span></p>` +
+    `<p class="c97 c117"><span class="c0">Second quoted paragraph also with comfortably substantive prose content stretching well past fifty chars.</span></p>` +
+    `<p><span class="c0">Body paragraph after the quote with similarly substantive content for completeness.</span></p>` +
+    `</body></html>`;
+
+  const { convertGDocToMarkdown } = await import('./gdoc-html.ts');
+  const out = convertGDocToMarkdown(html);
+
+  // Both quoted paragraphs must end up in a blockquote.
+  assert.ok(/^> First quoted paragraph/m.test(out),
+    `first quoted paragraph must be in a blockquote; got: ${out}`);
+  assert.ok(/^> Second quoted paragraph/m.test(out),
+    `second quoted paragraph must be in a blockquote; got: ${out}`);
+  // Body paragraphs must NOT be quoted.
+  assert.ok(!/^> Body paragraph/m.test(out),
+    `body paragraphs must not be quoted; got: ${out}`);
+});
+
+test('convertGDocToMarkdown wraps a multi-paragraph indented passage in a blockquote even when most paragraphs in the chunk are inside the quote', async () => {
+  // Real example from "Scientific Freedom": a single review chunk where ~53%
+  // of the <p>s carry the margin-left:36pt class because of a multi-paragraph
+  // book quote (Don Braben's Planck Club passage). The old 50% body-default
+  // gate stripped c14 from indentClasses for that chunk and the entire quote
+  // came out un-quoted.
+  const indentedPs = Array.from({ length: 6 }).map(() =>
+    `<p class="c0 c14"><span class="c0">This indented quote paragraph contains enough substantive prose to comfortably qualify as part of a real blockquote passage, well past the fifty-character threshold.</span></p>`,
+  ).join('');
+  const bodyPs = Array.from({ length: 5 }).map(() =>
+    `<p class="c0"><span class="c0">This body paragraph also contains substantive prose with plenty of words to clear the substantive-content gate used elsewhere in cleanupMarkdown.</span></p>`,
+  ).join('');
+  const html = `<html><head><style>.c0{font-weight:400}.c14{margin-left:36pt}</style></head><body>${bodyPs}${indentedPs}</body></html>`;
+
+  const { convertGDocToMarkdown } = await import('./gdoc-html.ts');
+  const out = convertGDocToMarkdown(html);
+
+  // Every indented paragraph must end up in a blockquote.
+  const indentedCount = (out.match(/^> This indented quote paragraph/gm) || []).length;
+  assert.equal(indentedCount, 6, `expected 6 blockquoted lines; got ${indentedCount}: ${out}`);
+  // Body paragraphs must NOT be in a blockquote.
+  assert.ok(!/^> This body paragraph/m.test(out),
+    `body paragraphs must not be quoted; got: ${out}`);
+});
+
+test('convertGDocToMarkdown preserves image-only paragraphs and keeps them standalone with short neighbors', async () => {
+  // Real example from "Beating Balatro": a standalone illustrative image sits
+  // between two short-line indent-classed paragraphs (a caption and a source
+  // link). The pre-fix pipeline treated the image-paragraph as "empty"
+  // (.text().trim() empty) and ran the stanza-break heuristic, which
+  // overwrote its inner HTML with `<br>` and dropped the image. The fix
+  // preserves the image. Surrounding context is short captions — NOT an
+  // unmistakable prose-quote — so the image stays standalone (no `> ` prefix).
+  const html = `<html><head><style>.cq{margin-left:36pt}</style></head><body>` +
+    `<p class="cq"><span>Short caption above the image.</span></p>` +
+    `<p class="cq"><span></span></p>` +
+    `<p class="cq"><span><img alt="" src="data:image/png;base64,iVBORw0KGgo="></span></p>` +
+    `<p class="cq"><span></span></p>` +
+    `<p class="cq"><span>Short caption below the image.</span></p>` +
+    `</body></html>`;
+
+  const { convertGDocToMarkdown } = await import('./gdoc-html.ts');
+  const out = convertGDocToMarkdown(html);
+
+  // The image must survive (still referenced via a data: URL at this stage).
+  assert.ok(/!\[\]\(data:image\/png/.test(out),
+    `image must be preserved; got: ${out}`);
+  // And it must NOT be wrapped in a blockquote: short captions on either
+  // side are not an unmistakable quote context.
+  assert.ok(!/^> !\[/m.test(out),
+    `image must not be inside a blockquote when neighbors are short; got: ${out}`);
+});
+
+test('convertGDocToMarkdown wraps an image inside a clearly-continuous prose quote', async () => {
+  // When the image sits between two LONG indent-classed paragraphs (≥100
+  // chars each), that's an unmistakable continuous-prose-quote context and
+  // the image is part of the quote — wrap it in the surrounding blockquote.
+  const longPara = 'This is a long prose paragraph from the source being quoted, clearly more than one hundred characters long.';
+  const html = `<html><head><style>.cq{margin-left:36pt}</style></head><body>` +
+    `<p class="cq"><span>${longPara}</span></p>` +
+    `<p class="cq"><span><img alt="" src="data:image/png;base64,iVBORw0KGgo="></span></p>` +
+    `<p class="cq"><span>${longPara}</span></p>` +
+    `</body></html>`;
+
+  const { convertGDocToMarkdown } = await import('./gdoc-html.ts');
+  const out = convertGDocToMarkdown(html);
+
+  // The image is wrapped in the blockquote.
+  assert.ok(/^> !\[/m.test(out),
+    `image inside a clear prose quote must be wrapped; got: ${out}`);
 });
 
 test('cleanupMarkdown normalizes thematic-break paragraphs that turndown escaped', () => {

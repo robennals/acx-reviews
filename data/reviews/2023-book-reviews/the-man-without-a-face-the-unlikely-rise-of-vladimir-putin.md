@@ -1,16 +1,16 @@
 ---
-title: "The Man Without a Face: The Unlikely Rise of Vladimir Putin"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2023-book-reviews"
-contestName: "2023 Book Reviews"
+title: 'The Man Without a Face: The Unlikely Rise of Vladimir Putin'
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2023-book-reviews
+contestName: 2023 Book Reviews
 year: 2023
-publishedDate: "2023-01-01T00:00:00.000Z"
-slug: "the-man-without-a-face-the-unlikely-rise-of-vladimir-putin"
-wordCount: 5557
+publishedDate: '2023-01-01T00:00:00.000Z'
+slug: the-man-without-a-face-the-unlikely-rise-of-vladimir-putin
+wordCount: 5552
 readingTimeMinutes: 25
-originalUrl: "https://docs.google.com/document/d/1AtGIIv371v0Yu35eNsIxJr67dw4SHOiGdKrqmoKt2hg"
-source: "gdoc"
+originalUrl: https://docs.google.com/document/d/1AtGIIv371v0Yu35eNsIxJr67dw4SHOiGdKrqmoKt2hg
+source: gdoc
 tags:
   - History
   - Politics
@@ -36,11 +36,11 @@ Early on in the book, Gessen describes an incident so frightening and bizarre th
 
 In 1999 there was a series of bombings targeting several Russian cities. This was during the [Second Chechen War](https://en.wikipedia.org/wiki/Second_Chechen_War), so it was widely believed that Chechen separatists were behind the attacks. Gessen describes the following attacks in the book. Please note that the death and injury numbers given in the book are slightly different from the ones I found on Wikipedia and in the news articles from the time. For this review I’m listing the numbers that the author gives, but don’t be surprised if you see different numbers in different sources.
 
-> *   Moscow, August 31, 1999 – An explosion in a shopping center, leaving 1 dead and more than 30 injured.
-> *   Buynaksk (close to Chechnya), September 4, 1999 – A car bomb attack targeting an apartment building where Russian military officers and their families lived. 64 dead and 146 injured.
-> *   Moscow, September 8 1999 – A bombing that destroyed a nine-story apartment building. 100 dead, nearly 700 injured.
-> *   Moscow, September 13, 1999 – A bombing that destroyed an eight-story apartment building, leaving 124 dead and 7 injured.
-> *   Volgodonsk, September 16, 1999 – A truck bomb exploded in the street, leaving 19 dead and over a thousand injured.
+*   Moscow, August 31, 1999 – An explosion in a shopping center, leaving 1 dead and more than 30 injured.
+*   Buynaksk (close to Chechnya), September 4, 1999 – A car bomb attack targeting an apartment building where Russian military officers and their families lived. 64 dead and 146 injured.
+*   Moscow, September 8 1999 – A bombing that destroyed a nine-story apartment building. 100 dead, nearly 700 injured.
+*   Moscow, September 13, 1999 – A bombing that destroyed an eight-story apartment building, leaving 124 dead and 7 injured.
+*   Volgodonsk, September 16, 1999 – A truck bomb exploded in the street, leaving 19 dead and over a thousand injured.
 
 ![](https://acximages.ennals.org/images/2023-book-reviews/bd5b95747de4b816.jpg)
 
@@ -92,7 +92,7 @@ _The Shield and the Sword poster._ _[Image source](https://en.wikipedia.org/wiki
 
 Putin’s time in the KGB was probably more exciting and interesting than being like, an accountant or something but it was much less exciting than one might expect of the life of a spy. There weren’t any car chases, shootouts, or daring missions, like in the James Bond movies. Rather, he was a cog in the state security apparatus – lots of paperwork, writing intelligence reports, recruiting informants, conducting surveillance, etc.
 
-![](https://acximages.ennals.org/images/2023-book-reviews/435a2f138360a1dc.jpg)
+![](https://acximages.ennals.org/images/2023-book-reviews/f62baaf4bb7f5641.jpg)
 
 _Vladimir Putin in his KGB uniform, 1980._ _[Image source](https://en.wikipedia.org/wiki/Vladimir_Putin#/media/File:Vladimir_Putin_in_KGB_uniform.jpg)_
 
@@ -174,7 +174,7 @@ Or, as the infamous Soviet-era secret police chief Lavrentiy Beria said: _“Sho
 
 A quality I like in history books is when they go off on tangents, so that they tell not only the story of the central person or topic they’re focusing on, but also the stories of various related topics and people. _The Man Without A Face_ does this, although somewhat sloppily. These side-plots are told in disconnected chunks throughout different chapters of the book, and sometimes a bit difficult to follow. But still, while telling the story of Vladimir Putin, Gessen manages to give a reasonably-complete history of Russia from the 1990s until around 2012. A couple of these tangential stories are:
 
-**[1\. The Kursk Submarine Disaster](https://en.wikipedia.org/wiki/Kursk_submarine_disaster)****.** On August 12, 2000, there was an explosion aboard the Kursk submarine in the Barents Sea (north of Russia, near the Arctic Ocean). The submarine sank and all 118 crew members died. Most of them died immediately, but an investigation later found that 23 sailors survived the initial explosion and took refuge in part of the submarine, where they survived for more than 6 hours, but the Russian Navy botched the rescue attempt, while also refusing assistance from teams of British and Norwegian divers. I don’t think it’s fair to directly blame Putin for any of this, but he was generally criticized for his perceived insensitivity to the situation.
+**[1\. The Kursk Submarine Disaster](https://en.wikipedia.org/wiki/Kursk_submarine_disaster).** On August 12, 2000, there was an explosion aboard the Kursk submarine in the Barents Sea (north of Russia, near the Arctic Ocean). The submarine sank and all 118 crew members died. Most of them died immediately, but an investigation later found that 23 sailors survived the initial explosion and took refuge in part of the submarine, where they survived for more than 6 hours, but the Russian Navy botched the rescue attempt, while also refusing assistance from teams of British and Norwegian divers. I don’t think it’s fair to directly blame Putin for any of this, but he was generally criticized for his perceived insensitivity to the situation.
 
 ![](https://acximages.ennals.org/images/2023-book-reviews/551d895e319feea9.jpg)
 
@@ -188,7 +188,7 @@ _Russian Spetsnaz soldier poses with body of hostage-taker killed during the the
 
 _[Image source (WARNING: link contains uncensored image)](https://www.reddit.com/r/MilitaryPorn/comments/dv4qym/spetnaz_member_with_body_of_terrorist_killed_in/)_
 
-**[3\. The Beslan School Siege](https://en.wikipedia.org/wiki/Beslan_school_siege)****.** On September 1, 2004, the first day of the school year in Russia, a group of 32 armed Chechen separatists stormed and occupied a school in the town of Beslan (in the Caucasus region of Russia) and took more than a thousand hostages, including several hundred children. The separatists, who were loyal to Chechen warlord Shamil Basayev, demanded the independence of Chechnya and withdrawal of Russian troops from the region. The hostage situation lasted for three days, and ended in a complete disaster, with an all-out firefight between the separatists and the Russian military that left 333 victims (including 186 children) and 31 hostage-takers dead.
+**[3\. The Beslan School Siege](https://en.wikipedia.org/wiki/Beslan_school_siege).** On September 1, 2004, the first day of the school year in Russia, a group of 32 armed Chechen separatists stormed and occupied a school in the town of Beslan (in the Caucasus region of Russia) and took more than a thousand hostages, including several hundred children. The separatists, who were loyal to Chechen warlord Shamil Basayev, demanded the independence of Chechnya and withdrawal of Russian troops from the region. The hostage situation lasted for three days, and ended in a complete disaster, with an all-out firefight between the separatists and the Russian military that left 333 victims (including 186 children) and 31 hostage-takers dead.
 
 From a moral/ethical standpoint, the blame for all of the deaths clearly falls on the hostage-takers. However, from a _strategic_ standpoint, the consensus is generally that the Russian military handled the situation terribly, taking a far too heavy-handed approach and engaging the separatists in an all-out battle with heavy weapons and no concern for the welfare of the hostages.
 
@@ -228,7 +228,7 @@ Ok, I’m slightly joking/exaggerating here… but not by much. When I was a tee
 
 Also, I’m not the only one making this error. Here’s a map of how different European countries responded to the statement: “Our people are not perfect, but our culture is superior to others.”
 
-![](https://acximages.ennals.org/images/2023-book-reviews/9ab7c15ed1bcb63f.jpg)
+![](https://acximages.ennals.org/images/2023-book-reviews/83bb4b66b692b173.jpg)
 
 _[Image source](https://twitter.com/dwnews/status/1056917186319532033)_
 

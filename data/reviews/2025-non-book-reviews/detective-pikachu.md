@@ -7,10 +7,9 @@ contestName: 2025 Non Book Reviews
 year: 2025
 publishedDate: '2025-01-01T00:00:00.000Z'
 slug: detective-pikachu
-wordCount: 4743
+wordCount: 4739
 readingTimeMinutes: 22
-originalUrl: >-
-  https://docs.google.com/document/d/17WAcFrTOExgendrk2lGTxRIR4LVC3ZGbiU5Xe3kF4mg
+originalUrl: https://docs.google.com/document/d/17WAcFrTOExgendrk2lGTxRIR4LVC3ZGbiU5Xe3kF4mg
 source: gdoc
 tags:
   - Fiction
@@ -38,10 +37,10 @@ I’d like to illustrate this movie’s obsession with deception by walking you 
 
 We shall walk through the scene in which Tim meets Pikachu in his father’s apartment. Please take note of the following context:
 
-> *   Tim’s father, Harry, lived alone in Ryme City with his Pikachu. Both were reported missing and presumed dead after a car crash.
-> *   Due to their long estrangement, Tim has never seen his dad’s place or met Pikachu
-> *   Humans don’t normally understand pokemon speech, instead hearing them chirp, growl, or squeak their own name
-> *   Tim has just collected his dad’s keys from the police station and gone to check out his apartment.
+*   Tim’s father, Harry, lived alone in Ryme City with his Pikachu. Both were reported missing and presumed dead after a car crash.
+*   Due to their long estrangement, Tim has never seen his dad’s place or met Pikachu
+*   Humans don’t normally understand pokemon speech, instead hearing them chirp, growl, or squeak their own name
+*   Tim has just collected his dad’s keys from the police station and gone to check out his apartment.
 
 As Tim enters the door, he’s startled to hear a voice seeming to challenge him, but it turns out to be a Humphrey Bogart movie playing on TV. As Tim looks around, he finds a vial full of purple vapor sitting out on a table and accidentally opens it, releasing a huge gas cloud which envelops him. We will later learn that the vial contained a drug called R that drives Pokemon into berserk rage, but has no effect on humans. However, Tim doesn’t know this, so for the rest of the scene he believes that he’s been drugged.
 

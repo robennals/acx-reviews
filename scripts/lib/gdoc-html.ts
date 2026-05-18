@@ -92,19 +92,49 @@ turndownService.addRule('gdocTable', {
  * and paragraphs. We need to map class names to their semantic meaning
  * so we can insert proper HTML tags before Turndown conversion.
  */
+interface ClassMargins {
+  marginLeft: number;
+  marginRight: number;
+  textIndent: number;
+}
+
 interface GDocStyleMap {
   boldClasses: Set<string>;
   italicClasses: Set<string>;
-  indentClasses: Set<string>; // classes with margin-left (blockquote candidates)
+  // Classes that ON THEIR OWN meet the indent threshold — used by the body-
+  // default gate (which is per-class) and the fast-path single-class check.
+  indentClasses: Set<string>;
+  // Per-class indent properties. Lets the per-paragraph check sum margins
+  // across all classes applied to an element. Real example: a paragraph
+  // `<p class="c97 c32 c117">` where c117 has margin-left:21.3pt and c97
+  // has margin-right:33.1pt is visually a both-sides-indented blockquote,
+  // even though neither class alone meets the indent-on-its-own threshold.
+  classMargins: Map<string, ClassMargins>;
+}
+
+// Threshold check on margins. A paragraph counts as "indented"
+// (blockquote candidate) if:
+//   - margin-left >= 36pt (Google Docs' built-in blockquote style),
+//   - OR text-indent >= 36pt (first-line indent big enough to be a one-line
+//     quote indicator on short paragraphs/poetry),
+//   - OR margin-left + margin-right BOTH > 0 (any both-sides indent — a
+//     visual blockquote shape regardless of depth, distinct from a
+//     plain-left first-line-indent body style).
+function marginsAreIndented(m: ClassMargins): boolean {
+  if (m.marginLeft >= 36) return true;
+  if (m.textIndent >= 36) return true;
+  if (m.marginLeft > 0 && m.marginRight > 0) return true;
+  return false;
 }
 
 function parseGDocStyles(html: string): GDocStyleMap {
   const boldClasses = new Set<string>();
   const italicClasses = new Set<string>();
   const indentClasses = new Set<string>();
+  const classMargins = new Map<string, ClassMargins>();
 
   const styleMatch = html.match(/<style[^>]*>([\s\S]*?)<\/style>/);
-  if (!styleMatch) return { boldClasses, italicClasses, indentClasses };
+  if (!styleMatch) return { boldClasses, italicClasses, indentClasses, classMargins };
 
   const styleText = styleMatch[1];
 
@@ -121,33 +151,88 @@ function parseGDocStyles(html: string): GDocStyleMap {
     if (/font-style\s*:\s*italic/.test(props)) {
       italicClasses.add(cls);
     }
-    // Detect blockquote-like indentation. A class is "indented" if it
-    // carries a meaningful indent signal in ANY of these forms:
-    //   - `margin-left >= 36pt` (Google Docs' built-in blockquote style,
-    //     and the most common manual block-quote indent), OR
-    //   - `text-indent >= 36pt` (a first-line indent of 36pt or more — used
-    //     by some authors to mark a single-line quote, or one verse line at
-    //     a time, especially when the paragraph is short enough that the
-    //     "first line" IS the whole line), OR
-    //   - `margin-left + margin-right` BOTH set (indented on both sides,
-    //     which is characteristic of a blockquote regardless of depth).
-    //
-    // Whole-doc-default text-indent (a typical "first-line indent on every
-    // body paragraph" style) would over-fire here. We gate against that in
-    // applySemanticTags by checking that the indent class isn't used on
-    // the majority of body paragraphs.
     const marginLeftMatch = props.match(/margin-left\s*:\s*(\d+(?:\.\d+)?)pt/);
     const marginRightMatch = props.match(/margin-right\s*:\s*(\d+(?:\.\d+)?)pt/);
     const textIndentMatch = props.match(/text-indent\s*:\s*(\d+(?:\.\d+)?)pt/);
-    const leftPt = marginLeftMatch ? parseFloat(marginLeftMatch[1]) : 0;
-    const rightPt = marginRightMatch ? parseFloat(marginRightMatch[1]) : 0;
-    const textIndentPt = textIndentMatch ? parseFloat(textIndentMatch[1]) : 0;
-    if (leftPt >= 36 || textIndentPt >= 36 || (leftPt >= 18 && rightPt >= 18)) {
-      indentClasses.add(cls);
+    const ml = marginLeftMatch ? parseFloat(marginLeftMatch[1]) : 0;
+    const mr = marginRightMatch ? parseFloat(marginRightMatch[1]) : 0;
+    const ti = textIndentMatch ? parseFloat(textIndentMatch[1]) : 0;
+    if (ml || mr || ti) {
+      classMargins.set(cls, { marginLeft: ml, marginRight: mr, textIndent: ti });
+      if (marginsAreIndented({ marginLeft: ml, marginRight: mr, textIndent: ti })) {
+        indentClasses.add(cls);
+      }
     }
   }
 
-  return { boldClasses, italicClasses, indentClasses };
+  return { boldClasses, italicClasses, indentClasses, classMargins };
+}
+
+// True if every substantive (non-empty) span in the paragraph carries an
+// italic CSS class. Empty / whitespace-only spans don't count either way —
+// they're often punctuation spacers. Used as a strong "this is a quote"
+// signal in combination with text-indent (see isParagraphIndented).
+function isParagraphAllItalic($: CheerioAPI, el: ReturnType<typeof $>, italicClasses: Set<string>): boolean {
+  const spans = el.find('span').toArray();
+  if (spans.length === 0) return false;
+  let sawSubstantive = false;
+  for (const s of spans) {
+    const text = $(s).text();
+    if (!text.trim()) continue;
+    sawSubstantive = true;
+    const cls = ($(s).attr('class') || '').split(/\s+/);
+    if (!cls.some(c => italicClasses.has(c))) return false;
+  }
+  return sawSubstantive;
+}
+
+// True if the paragraph's effective margins (summed across all its classes)
+// meet the indent threshold. Catches multi-class cases where margin-left and
+// margin-right are split across sibling classes that neither alone qualifies.
+//
+// Three indent signals fire blockquote-wrapping:
+//   1. margin-left >= 36pt (combined across classes) — Google Docs' built-in
+//      blockquote style, used for multi-paragraph book quotations.
+//   2. margin-left > 0 AND margin-right > 0 — any both-sides indent is a
+//      visual blockquote shape regardless of depth.
+//   3. text-indent >= 36pt AND the paragraph is entirely italic — italic +
+//      first-line indent is the strong author-as-quote convention (book
+//      epigraphs, Latin quotes, novel dialogue snippets). Plain text-indent
+//      WITHOUT italic is typographic paragraph styling (first-line indent
+//      as a body style); we don't wrap those.
+function isParagraphIndented(
+  $: CheerioAPI,
+  el: ReturnType<typeof $>,
+  styles: GDocStyleMap,
+): boolean {
+  const classAttr = el.attr('class') || '';
+  if (!classAttr) return false;
+  const classes = classAttr.split(/\s+/);
+  // Sum margins across all classes.
+  let ml = 0, mr = 0, ti = 0;
+  let anyKnown = false;
+  for (const c of classes) {
+    const m = styles.classMargins.get(c);
+    if (!m) continue;
+    anyKnown = true;
+    ml += m.marginLeft;
+    mr += m.marginRight;
+    ti += m.textIndent;
+  }
+  if (!anyKnown) return false;
+
+  // Combined-margins checks: margin-left meets threshold, OR both-sides.
+  if (ml >= 36) return true;
+  if (ml > 0 && mr > 0) return true;
+
+  // Text-indent path: only fire on italic paragraphs. Non-italic text-indent
+  // is typographic first-line indent (e.g. book-style paragraph formatting),
+  // not a quote marker — see the-righteous-mind, at-the-existentialist-caf,
+  // bronze-age-mindset, etc. where the reviewer indented body paragraphs.
+  if (ti >= 36 && isParagraphAllItalic($, el, styles.italicClasses)) {
+    return true;
+  }
+  return false;
 }
 
 /**
@@ -159,26 +244,36 @@ function parseGDocStyles(html: string): GDocStyleMap {
  * 3. Wraps indented paragraphs in <blockquote>
  */
 function applySemanticTags($: CheerioAPI, styles: GDocStyleMap): void {
-  // Gate against universal-body-style indentation. A class like
-  // `.cN{text-indent:36pt}` is a blockquote signal ONLY when it
+  // Gate against universal-body-style margin-indentation. A class like
+  // `.cN{margin-left:36pt}` is a blockquote signal ONLY when it
   // distinguishes some paragraphs from the others; in a doc where
-  // every body paragraph carries that class (the typical "first-line
-  // indent on all paragraphs" book style), it's the body default and
-  // doesn't indicate quoting. Count paragraph usage; if a candidate
-  // indent class is on >50% of paragraphs, treat it as body, not
-  // indent. The threshold is generous on purpose — real quote-only
-  // classes typically land below 20%, real body-default classes
-  // typically land above 70%.
-  // Need a meaningful denominator to call something a "body default" —
-  // in a doc with 1 paragraph it's not a default, it's the only thing.
-  // Real reviews have hundreds of paragraphs; the 10-paragraph floor is
-  // generous on the side of NOT firing.
+  // every body paragraph carries the same margin, it's the body default
+  // and doesn't indicate quoting.
+  //
+  // applySemanticTags runs per-chunk for large composite docs (chunked
+  // at <h1> boundaries to bound peak memory). The 90% threshold has to
+  // be high enough that a single review's chunk — which can legitimately
+  // have a majority of paragraphs inside one long quote — doesn't get
+  // its blockquote class stripped. Scientific Freedom's chunk has 53%
+  // c14-class paragraphs (margin-left:36pt) from a multi-paragraph book
+  // quote — 90% gives the headroom not to mis-strip it.
+  //
+  // We do NOT need a parallel gate for text-indent classes: the per-
+  // paragraph blockquote check requires text-indent ALONE to be paired
+  // with whole-paragraph italic styling (see isParagraphIndented), which
+  // is the strong author-as-quote convention. A body paragraph with
+  // text-indent and non-italic prose never triggers the indent signal in
+  // the first place, so the body-default gate isn't needed for it.
   const totalParagraphs = $('p').length;
   if (totalParagraphs >= 10) {
     for (const cls of [...styles.indentClasses]) {
       const usageCount = $(`p.${cls}`).length;
-      if (usageCount / totalParagraphs > 0.5) {
+      if (usageCount / totalParagraphs > 0.9) {
         styles.indentClasses.delete(cls);
+        // Also drop from classMargins so the slow-path per-paragraph
+        // combined-margin check doesn't re-add this class back via
+        // its margin contribution.
+        styles.classMargins.delete(cls);
       }
     }
   }
@@ -202,10 +297,11 @@ function applySemanticTags($: CheerioAPI, styles: GDocStyleMap): void {
     // Snapshot the list elements first; Cheerio's traversal can be
     // invalidated when we move nodes around mid-iteration.
     const lists = $('ul, ol').toArray();
+    type CheerioListNode = (typeof lists)[number];
     // Track the most recent list element seen at each depth, keyed
     // by `lst-kix` prefix. When we encounter a nested list, we move
     // it into the last <li> of the recorded parent.
-    const lastAtDepth = new Map<string, Element[]>();
+    const lastAtDepth = new Map<string, CheerioListNode[]>();
     for (const node of lists) {
       const el = $(node);
       const info = listClassDepth(el.attr('class') || '');
@@ -214,7 +310,7 @@ function applySemanticTags($: CheerioAPI, styles: GDocStyleMap): void {
       if (depth === 0) {
         // Top-level list: record as the latest parent at depth 0.
         const stack = lastAtDepth.get(prefix) || [];
-        stack[0] = node as unknown as Element;
+        stack[0] = node;
         stack.length = 1; // reset deeper levels
         lastAtDepth.set(prefix, stack);
         continue;
@@ -229,7 +325,7 @@ function applySemanticTags($: CheerioAPI, styles: GDocStyleMap): void {
       // append handles re-parenting.
       lastLi.append(el);
       // Record this list as the latest parent at its depth.
-      stack[depth] = node as unknown as Element;
+      stack[depth] = node;
       stack.length = depth + 1;
     }
   }
@@ -246,16 +342,14 @@ function applySemanticTags($: CheerioAPI, styles: GDocStyleMap): void {
   // Guard: only split when the paragraph is itself indent-classed.
   // A body paragraph with intentional double-`<br>` is rare but happens,
   // and splitting it would surprise the author.
-  if (styles.indentClasses.size > 0) {
+  if (styles.indentClasses.size > 0 || styles.classMargins.size > 0) {
     $('p').each(function () {
       const el = $(this);
       const inner = el.html() || '';
       const splitRe = /(?:<br\s*\/?>\s*){2,}/g;
       if (!splitRe.test(inner)) return;
       const cls = el.attr('class') || '';
-      const classes = cls.split(/\s+/);
-      const isIndented = classes.some(c => styles.indentClasses.has(c));
-      if (!isIndented) return;
+      if (!isParagraphIndented($, el, styles)) return;
       const rawParts = inner.split(splitRe).map(p => p.trim());
       const textLen = (p: string) =>
         p.replace(/<[^>]+>/g, '').replace(/&nbsp;|&#160;| | /g, ' ').trim().length;
@@ -295,10 +389,8 @@ function applySemanticTags($: CheerioAPI, styles: GDocStyleMap): void {
     // long block quotations specifically; an isolated body paragraph with
     // internal <br>+nbsp runs is more likely an author's intentional
     // visual spacing where splitting would surprise them.
+    if (!isParagraphIndented($, el, styles)) return;
     const cls = el.attr('class') || '';
-    const classes = cls.split(/\s+/);
-    const isIndented = classes.some(c => styles.indentClasses.has(c));
-    if (!isIndented) return;
     // Guard 3: every resulting paragraph-part must be paragraph-shaped —
     // at least 60 characters of plain text. Drop empty/whitespace-only
     // parts first (a leading <span> shell before the first <br>+indent
@@ -406,10 +498,9 @@ function applySemanticTags($: CheerioAPI, styles: GDocStyleMap): void {
   // array, turning a run of N blocks into an N²-sized operation on large
   // docs — 2025's biggest chunk has thousands of <p> elements and caused
   // multi-minute stalls under the previous grouping approach).
-  if (styles.indentClasses.size > 0) {
+  if (styles.indentClasses.size > 0 || styles.classMargins.size > 0) {
     const isElementIndented = (el: ReturnType<typeof $>) => {
-      const classes = (el.attr('class') || '').split(/\s+/);
-      return classes.some(c => styles.indentClasses.has(c));
+      return isParagraphIndented($, el, styles);
       // Note: we do NOT fall back to checking `<li>` margin on a
       // `<ul>`/`<ol>` element. Google Docs gives every `<li>` a
       // standard 36pt margin-left as the bullet-indent — that's the
@@ -424,7 +515,14 @@ function applySemanticTags($: CheerioAPI, styles: GDocStyleMap): void {
     for (let bi = 0; bi < allBlocks.length; bi++) {
       const block = allBlocks[bi];
       const el = $(block);
-      const isEmpty = !el.text().trim();
+      // An image-only paragraph (text empty, but contains an <img>)
+      // must NOT be treated as "empty" here — the stanza-break branch
+      // below replaces el.html() with `<br>` and would silently drop
+      // the image. Image-only paragraphs get their own handling block
+      // (below) that keeps them standalone instead of wrapping them
+      // in the surrounding blockquote.
+      const hasImg = el.find('img').length > 0;
+      const isEmpty = !el.text().trim() && !hasImg;
       // An empty `<p>` between two indented blocks is a stanza break
       // inside what the author wrote as one quote. Turndown drops empty
       // `<p>`s, so the break would vanish — and the markdown-level
@@ -457,7 +555,60 @@ function applySemanticTags($: CheerioAPI, styles: GDocStyleMap): void {
         }
         continue;
       }
+      // Image-only paragraphs: keep them standalone by default, even
+      // when the source paragraph carries an indent class. Wrapping
+      // an image in `> ![...]` changes the rendering from "image
+      // breaks the quote at full width" to "image continues the quote
+      // with blockquote styling" — that's only the right call when
+      // the surrounding context is unmistakably a continuous prose
+      // quote (≥1 long indented paragraph on EACH side). When the
+      // neighbors are short captions, source links, stanza markers,
+      // or non-indented body text, the image is more likely an
+      // illustration than part of the quote, and standalone is the
+      // safer choice. The data-loss bug fix (don't drop `<img>` bytes)
+      // is unconditional — only the blockquote-wrap is gated.
+      if (hasImg && !el.text().trim()) {
+        if (isElementIndented(el)) {
+          const IMG_QUOTE_MIN_TEXT = 100;
+          const isLongIndented = (sib: ReturnType<typeof $> | null) =>
+            !!sib && isElementIndented(sib) && sib.text().trim().length >= IMG_QUOTE_MIN_TEXT;
+          // Look at the nearest non-empty sibling on each side, skipping
+          // intermediate truly-empty paragraphs (stanza markers).
+          const findNonEmptyNeighbor = (dir: 1 | -1) => {
+            let k = bi + dir;
+            while (k >= 0 && k < allBlocks.length) {
+              const sib = $(allBlocks[k]);
+              if (sib.text().trim() || sib.find('img').length) return sib;
+              k += dir;
+            }
+            return null;
+          };
+          const prev = findNonEmptyNeighbor(-1);
+          const next = findNonEmptyNeighbor(1);
+          if (isLongIndented(prev) && isLongIndented(next)) {
+            el.wrap('<blockquote></blockquote>');
+          }
+        }
+        continue;
+      }
       if (isElementIndented(el)) {
+        // Don't wrap footnote-DEFINITION paragraphs in blockquote. Some
+        // gdoc authors hand-format footnotes at the end of a review using
+        // the same text-indent class they use for prose styling; those
+        // would otherwise come out as \`> [[N]](#ftnt_refN) ...\` even
+        // though they're not quotes.
+        //
+        // Match the footnote-def anchor only (\`id="ftntN"\`, where N is
+        // a digit), NOT the body-reference anchor (\`id="ftnt_refN"\`).
+        // Real quote paragraphs frequently end with a body-reference
+        // anchor that links into the footnote section, and we want those
+        // wrapped normally.
+        let hasFtntDefAnchor = false;
+        el.find('a[id^="ftnt"]').each(function () {
+          const id = $(this).attr('id') || '';
+          if (/^ftnt\d/.test(id)) hasFtntDefAnchor = true;
+        });
+        if (hasFtntDefAnchor) continue;
         el.wrap('<blockquote></blockquote>');
       }
     }
@@ -477,9 +628,6 @@ function applySemanticTags($: CheerioAPI, styles: GDocStyleMap): void {
     const cleaned = innerHtml
       .replace(/^(<br\s*\/?>)?\s*((\u00a0|&nbsp;)\s*)+/, '')
       .trim();
-    if (innerHtml.includes('It is')) {
-      console.log('DBG nbsp-strip:', JSON.stringify(innerHtml.slice(0, 80)), '->', JSON.stringify(cleaned.slice(0, 80)));
-    }
     target.html(cleaned);
   });
 }
@@ -539,13 +687,18 @@ export function cleanupMarkdown(markdown: string): string {
   // visual lead-in and drop the rest.
   md = md.replace(/^(>\s)[ \t]{4,}(?=\S)/gm, '$1');
   // And the same for body lines that aren't quoted: 4+ leading spaces
-  // on inline-emphasis or heading-only content is the nbsp-indent
-  // artifact left over from Google Docs first-line indentation, not
-  // an intentional code block. Don't touch list markers (`* ` / `- ` /
-  // `1. `) — those indents ARE meaningful (nested list children).
-  // Fenced code blocks (```) are unaffected because their content
-  // lines don't start with `**`/`_`/`#`.
-  md = md.replace(/^ {4,}(?=(?:\*\*|_|#{1,6}\s))/gm, '');
+  // on inline-emphasis content is the nbsp-indent artifact left over
+  // from Google Docs first-line indentation, not an intentional code
+  // block. Don't touch list markers (`* ` / `- ` / `1. `) — those
+  // indents ARE meaningful (nested list children).
+  //
+  // We deliberately do NOT dedent indented `#`-prefixed lines.  In
+  // Google Docs exports, Python code blocks come through as a sequence
+  // of paragraphs with leading `&nbsp;`s for indent; after our nbsp→
+  // space normalization, an inline code comment like `    # get wins`
+  // would dedent to `# get wins`, which the H1-splitter then sees as
+  // a new review boundary and splits one review into many.
+  md = md.replace(/^ {4,}(?=(?:\*\*|_))/gm, '');
 
   // Quote-block detection: when a run of italic-only paragraphs is
   // followed (across blank lines) by a single blockquote-list-item
@@ -852,11 +1005,50 @@ export function cleanupMarkdown(markdown: string): string {
       return j;
     };
     const isItalicOnly = (s: string) => /^_[^_\n]{1,200}_[ \t]*$/.test(s.trim());
+
+    // Section-numbered prefix: optional word ("Part", "Chapter", "Section",
+    // "Step", "Volume", "Book"), then a Roman numeral / digit / single capital
+    // letter, optionally a period (possibly turndown-escaped as `\.`), then
+    // whitespace, end-of-line, or a `?`/`:` (which the author often uses to
+    // lead into the section title or body). Covers:
+    //   `**I.**`, `**II. Why so secular?**`, `**0.5. Subtopic**`,
+    //   `**IV. Archimedes Chronophone, revisited:**`, `**Part 2: …**`,
+    //   `**Chapter 3**`, `**A. Background**`, `**1\. Systems of …**`
+    //   (turndown escapes `N.` at line start as `N\.` to prevent CommonMark
+    //   from reading it as a numbered-list marker).
+    const SECTION_NUMBERED_RE =
+      /^(?:(?:Part|Chapter|Section|Step|Volume|Book)\s+)?(?:[IVXLCDM]+|\d+(?:\.\d+)?|[A-Z])\\?\.?(?:\s|$|[?:])/i;
+
+    // First pass: collect indices of bold-only lines whose text matches the
+    // section-numbered pattern. If 3+ such lines exist in the doc, we treat
+    // them as a "group" and promote them all — even if individual ones fail
+    // the substantive-prose-flanking check (e.g. one of N sections happens
+    // to be sandwiched between very short paragraphs).
+    const sectionNumberedIdx: number[] = [];
+    for (let i = 0; i < lines.length; i++) {
+      const m = /^\*\*([^*\n]{1,100})\*\*[ \t]*$/.exec(lines[i]);
+      if (!m) continue;
+      const t = m[1].trim();
+      if (SECTION_NUMBERED_RE.test(t)) sectionNumberedIdx.push(i);
+    }
+    const sectionGroupActive = sectionNumberedIdx.length >= 3;
+    const sectionGroupSet = new Set(sectionNumberedIdx);
+
     for (let i = 0; i < lines.length; i++) {
       const m = /^\*\*([^*\n]{1,100})\*\*[ \t]*$/.exec(lines[i]);
       if (!m) continue;
       const text = m[1].trim();
-      if (!text || /[.!?:;,]$/.test(text)) continue;
+      if (!text) continue;
+      const isSectionNumbered = sectionGroupSet.has(i);
+      // End-punctuation: a section title is rarely a sentence fragment ending
+      // in `.`, `!`, `,`, or `;`. For section-numbered headings (Roman numerals,
+      // `Part N:`, `0.5.`, etc.), the trailing `.`, `?`, or `:` is part of the
+      // title pattern, so we allow those.
+      if (isSectionNumbered) {
+        if (/[!;,]$/.test(text)) continue;
+      } else {
+        if (/[.!?:;,]$/.test(text)) continue;
+      }
       // A line that starts or ends with an em/en-dash (or stray hyphen)
       // is almost always either a quote attribution (`– Author Name`)
       // or a trailing sentence fragment, not a section title.
@@ -873,10 +1065,21 @@ export function cleanupMarkdown(markdown: string): string {
       // letting tier-list patterns through — tier labels are flanked by
       // short non-italic non-blockquote data values, which the walk stops
       // on (and which fail the substantiveness check).
-      const aboveSub = isSubstantivePara(walkAbove(i));
-      const belowSub = isSubstantivePara(walkBelow(i));
-      if (!aboveSub && !belowSub) continue;
-      lines[i] = `## ${text}`;
+      //
+      // Override: when the doc has 3+ section-numbered bold-only lines, we
+      // treat them as a confirmed group and promote them all, regardless of
+      // per-line context. This handles inconsistent surrounding paragraph
+      // lengths within an otherwise-clearly-structured doc.
+      if (!(sectionGroupActive && isSectionNumbered)) {
+        const aboveSub = isSubstantivePara(walkAbove(i));
+        const belowSub = isSubstantivePara(walkBelow(i));
+        if (!aboveSub && !belowSub) continue;
+      }
+      // Strip turndown's `\.` escape when emitting the heading: inside `## …`
+      // the period is no longer at line start so the escape would just render
+      // as a literal backslash in some markdown renderers.
+      const headingText = text.replace(/(\d)\\\./g, '$1.');
+      lines[i] = `## ${headingText}`;
     }
     md = lines.join('\n');
   }

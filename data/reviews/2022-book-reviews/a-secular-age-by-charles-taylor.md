@@ -7,10 +7,9 @@ contestName: 2022 Book Reviews
 year: 2022
 publishedDate: '2026-02-06T07:24:08.687Z'
 slug: a-secular-age-by-charles-taylor
-wordCount: 8392
+wordCount: 8389
 readingTimeMinutes: 38
-originalUrl: >-
-  https://docs.google.com/document/d/1pRQbRbEUwSH_jm94PI_ij-88swat7vQ4iNaNp6gd39g
+originalUrl: https://docs.google.com/document/d/1pRQbRbEUwSH_jm94PI_ij-88swat7vQ4iNaNp6gd39g
 source: gdoc
 tags:
   - Religion
@@ -18,12 +17,12 @@ tags:
   - Society
 ---
 
-**I. Why so secular?**
+## I. Why so secular?
 
 I have, for several years, had a vague sense that western society was burning through some type of cultural capital that we had painstakingly accumulated and stewarded over hundreds of years without necessarily realizing we were doing it. I’ll only give two examples, because it tends to touch on culture war issues and culture war issues are very tangential to the book at hand, but I thought it might be useful to explain my motivation for picking up a 900-page book on the history of Latin Christendom and why I might emphasize certain aspects of this tome over others.
 
-> 1.  One trend in public education: How should we think about school suspensions and other punishments for disruptiveness in class where some groups receive more of these punishments than others? One way to think about this is that it’s a lack of engagement from students driven by teachers not being “entertaining enough”or trying hard enough to make the material applicable and relevant. In which case we shouldn’t punish these kids so harshly. But while I think teachers could probably try to be more interesting, I also worry that eliminating punishments like suspensions sends the message that self-discipline and respect are not worthwhile values to cultivate. I realize I sound like my grandfather instead of a 34 year old.  
-> 2.  Or, that being on time is just a symbol of white supremacist society. ([https://nymag.com/intelligencer/2020/07/antiracism-training-white-fragility-robin-diangelo-ibram-kendi.html](https://nymag.com/intelligencer/2020/07/antiracism-training-white-fragility-robin-diangelo-ibram-kendi.html)). But I think expectations of punctuality are worthwhile things to install in members of our society. When we can rely on the trains showing up on time, the trash being taken on Tuesdays, and our coworkers to complete a draft by some particular date, the fact that we can assume these things will happen means that we can plan more complex and productive endeavors around them.
+1.  One trend in public education: How should we think about school suspensions and other punishments for disruptiveness in class where some groups receive more of these punishments than others? One way to think about this is that it’s a lack of engagement from students driven by teachers not being “entertaining enough”or trying hard enough to make the material applicable and relevant. In which case we shouldn’t punish these kids so harshly. But while I think teachers could probably try to be more interesting, I also worry that eliminating punishments like suspensions sends the message that self-discipline and respect are not worthwhile values to cultivate. I realize I sound like my grandfather instead of a 34 year old.  
+2.  Or, that being on time is just a symbol of white supremacist society. ([https://nymag.com/intelligencer/2020/07/antiracism-training-white-fragility-robin-diangelo-ibram-kendi.html](https://nymag.com/intelligencer/2020/07/antiracism-training-white-fragility-robin-diangelo-ibram-kendi.html)). But I think expectations of punctuality are worthwhile things to install in members of our society. When we can rely on the trains showing up on time, the trash being taken on Tuesdays, and our coworkers to complete a draft by some particular date, the fact that we can assume these things will happen means that we can plan more complex and productive endeavors around them.
 
 So when someone left a comment on Marginal Revolution (I no longer remember the article) and said "if you want to understand how we slowly dismantled the Christian world view by removing, piece-by-piece, everything that once held it up read, Charles Taylor's book _A Secular Age,_" I thought it might provide some answers or at least better questions.
 
@@ -111,7 +110,7 @@ Taylor says that over the ensuing 500 years every aspect of this worldview, or "
 
 The elites of course.
 
-**II. Oh the places elites go**
+## II. Oh the places elites go
 
 According to Charles Taylor, for about 1000 years following the fall of the Roman Empire and the triumph of Christianity, we lived in this previously described enchanted world. There was a God, but he was not like the God of believers today. He did not present himself to us personally through individual prayer and devotion but interceded in the actual world around us. It was a world of miracles, magic, and “acts of God” (rather than natural disasters.) His immanence resided in the sacred relics of the parish church and the rituals we practiced as a community.
 
@@ -181,19 +180,14 @@ But these changes weren’t accepted with completely open arms, even among the e
 
 These counter trends reflect a continuing sense even into the present day that life has lost some essential dimension of meaning. He quotes Matthew Arnold::
 
-> _For rigorous teachers seized my youth,_
->
-> _And purged my faith, and trimmed its fire,_
->
-> _Showed me the high, white star of Truth,_
->
-> _There bade me gaze, and there aspire._
->
-> _Even now their whispers pierce my gloom:_
->
+> _For rigorous teachers seized my youth,_  
+> _And purged my faith, and trimmed its fire,_  
+> _Showed me the high, white star of Truth,_  
+> _There bade me gaze, and there aspire._  
+> _Even now their whispers pierce my gloom:_  
 > _What dost thou in this living tomb?_
 
-**III. Why?**
+## III. Why?
 
 If I can distill down what my interest in the book is and what I think Charles Taylor, in his very erudite but meandering way, is trying to address, is what is happening at an experiential and perceptual level as an entire society’s worldview changes. And I think I would summarize it by saying that within a perceptual worldview certain intellectual moves are possible. But that these intellectual moves will remain purely intellectual or theoretical until there is some sort of attached moral, ethical, emotional incentive that allows them to be more widely adopted at which point it can alter or shift wider society’s perceptual worldview. This altered perceptual worldview then becomes the background for further intellectual moves.
 
@@ -231,7 +225,7 @@ This is how Taylor views our ideas about individualism:
 
 > _Individualism is the normal fruit of human self regard absent the illusory claims of God, the Chain of Being, or the sacred order of society. In other words, we moderns behave as we do because we have “come to see” that certain claims were false—or on the negative reading, because we have lost from view certain perennial truths. What this view reads out of the picture is the possibility that Western modernity might be powered by its own positive visions of the good, that is, by one constellation of such visions among available others, rather than by the only viable set left after the old myths and legends have been exploded. …The analogy should be evident between the moral death of God story, and its science-driven stable-mate, as well as epistemology. All make a crucial move which they present as a “discovery”, something we “come to see” when certain conditions are met. In all cases, this move only looks like a discovery within the frame of a newly constructed understanding of ourselves, our predicament and our identity. The element of “discovery” seems unchallengeable, because the underlying construction is pushed out of sight and forgotten. In terms of my discussion a few pages ago, all these accounts “naturalize” the features of the modern, liberal identity. They cannot see it as one, historically constructed understanding of human agency among others._
 
-**IV. Archimedes Chronophone, revisited:**
+## IV. Archimedes Chronophone, revisited:
 
 Describing the modern worldview that is neutral, objective, disinterested:
 

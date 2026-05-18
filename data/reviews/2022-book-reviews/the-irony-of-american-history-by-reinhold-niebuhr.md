@@ -7,10 +7,9 @@ contestName: 2022 Book Reviews
 year: 2022
 publishedDate: '2026-02-06T07:22:32.827Z'
 slug: the-irony-of-american-history-by-reinhold-niebuhr
-wordCount: 6533
-readingTimeMinutes: 30
-originalUrl: >-
-  https://docs.google.com/document/d/100kMdSVFviZSSBvUyyEQPMNlvLptVQxHFD9i9wGuBWs
+wordCount: 6513
+readingTimeMinutes: 29
+originalUrl: https://docs.google.com/document/d/100kMdSVFviZSSBvUyyEQPMNlvLptVQxHFD9i9wGuBWs
 source: gdoc
 tags:
   - History
@@ -54,7 +53,7 @@ Therefore I think a heuristic that can be broadly applied to matters of foreign 
 
 Apologies for the long overture, but I felt that a theologian needs more justification than most when being presented to a modern audience.  
 
-**The Preface**
+## The Preface
 
 In the brief preface to the work, Niebuhr introduces his framework for interpreting American foreign policy: namely irony (there are other elements to his philosophy, but these more in the background of this work. I’ll touch on these other elements at the end).  
 
@@ -88,7 +87,7 @@ Why irony? Why is it useful to think about events in this way? Because the major
 
 Additionally, Niebuhr often writes under the assumption that there are many outcomes which are good for both others and ourselves. Peace is generally good for everyone involved. But, ironically we often hinder our own self-interest in these matters through stupidity and short-sightedness, from blind devotion to an ideal. Therefore, because these ironies are more likely to hurt ourselves, people will be more willing to change their ways if they are pointed out.
 
-**1 The Ironic Element in the American Situation**
+## 1 The Ironic Element in the American Situation
 
 In the first chapter, Niebuhr lists off all the ironies of the American position at the beginning of the 1950s. That the U.S. leaders accuse communist ideology of being too materialist, but that the main success of the U.S. system is in the material realm. That we espouse individualism, but our society is one of assembly lines and political parties. Plus, it’s actually in our communal actions that our individualistic society effectively resists communism (in war, in political alliances, in trade agreements). That if we were as pure and virtuous as we pretend, we could not have won the second world war.
 
@@ -100,7 +99,7 @@ The essential point that Niebuhr wants to make is that the American creeds of li
 
 “If only we could fully understand that the evils against which we contend are frequently the fruit of illusions which are similar to our own, we might be better prepared to save a vast uncommitted world.”
 
-**2 First Illusion: The Innocent Nation in an Innocent World** 
+## 2 First Illusion: The Innocent Nation in an Innocent World
 
 Niebuhr begins the analysis proper with by analyzing a series of American illusions. The first is the idea of national innocence.
 
@@ -134,7 +133,7 @@ The error in both cases is the same inadequate understanding of human evil. Powe
 
 “Yet our American nation, involved in its vast responsibilities, must slough off many illusions which were derived both from the experiences and the ideologies of its childhood. Otherwise either we will seek escape from responsibilities which involve unavoidable guilt, or we will be plunged into avoidable guilt by too great confidence in our virtue.”
 
-**3\. Second Illusion: Happiness, Prosperity, and Virtue** 
+## 3. Second Illusion: Happiness, Prosperity, and Virtue
 
 America is wealthy. So, so wealthy. We are richer than the wildest fantasies of other countries. There they dream of castle chambers swimming with gold and precious jewels, but here that would only describe the servant’s quarters for the Bezos and Musk mansions. We have so much money that we give out millions to people for[memorizing](https://en.wikipedia.org/wiki/Jeopardy!) [random](https://en.wikipedia.org/wiki/Who_Wants_to_Be_a_Millionaire_(American_game_show)) [facts](https://en.wikipedia.org/wiki/The_Chase_(American_game_show)), for living on [islands](https://en.wikipedia.org/wiki/Survivor_(American_TV_series)), for eating [bugs](https://en.wikipedia.org/wiki/Fear_Factor), or for demonstrating the knowledge of a [fifth grader](https://en.wikipedia.org/wiki/Are_You_Smarter_than_a_5th_Grader%3F_(American_game_show)#:~:text=Are%20You%20Smarter%20than%20a%205th%20Grader%3F%20is%20an%20American,a%20half%2Dhour%20in%20length.). People die when we go shopping on black Friday, and we count the [deaths](http://blackfridaydeathcount.com/).
 
@@ -152,7 +151,7 @@ The Jeffersonian theory inverts the order, but keeps the same basic equation. He
 
 Niebuhr ends on a more spiritual diagnosis. That Americans themselves are beginning to feel that the wealth that has been held up as a goal ultimately fails to provide individuals with a full sense of meaning and purpose in their lives. His early warning does seem to anticipate the spiritual rebellion of the sixties, at the height of American prosperity.
 
-**4\. The International Class Struggle** 
+## 4. The International Class Struggle
 
 But back to foreign policy. This ideology of wealth is directly harming our foreign policy.
 
@@ -166,7 +165,7 @@ Niebuhr then makes a very general cultural analysis of the South and East Asian 
 
 **Me**: Perhaps, but the U.S.’s recent failures in the middle-east should at least partially vindicate Niebuhr’s skepticism about the immediate universality of democracy. Perhaps culture doesn’t matter, and all that counts is wealth and literacy, but still, those take time to grow. Many people criticize America for siding with various regional dictators around the world, calling it a gross hypocrisy, but Niebuhr would argue that any attempt to force democracy instantly and everywhere is an idealism that is doomed to fail. Democracies are difficult to achieve and take time when they do. Therefore, it is a reasonable expediency for America to work with monarchs, dictators, and sultans when there exist greater threats. Our interference with other countries should be essentially limited to international damage control.
 
-**5\. Third Illusion: The Master of Destiny** 
+## 5. Third Illusion: The Master of Destiny
 
 This restriction to more limited goals is part of Niebuhr’s larger reaction against the possibility of managing history rationally. The American faith in rational control took two forms. In the first, early social scientists, represented for Niebuhr by John Dewey, assumed that the social sciences were going to be a straightforward as the sciences: “What men think about the peril of an atomic bomb is regarded as equally manageable with the physical forces which produce the bomb.”
 
@@ -180,7 +179,7 @@ For Niebuhr, it’s only passivity that has ironically saved the U.S. from this 
 
 “In either case, man as the spectator and manager of history imagines himself to be freer of the drama he beholds than he really is; and man as the creature of history is too simply reduced to the status of a creature of nature, and all of his contacts to the ultimate are destroyed”
 
-**6\. Triumph of Experience**
+## 6. Triumph of Experience
 
 The success of America then, ironically comes from the fact that it historically ignored it’s people like John Dewey:
 
@@ -206,7 +205,7 @@ He also argues Christianity is useful because it offers a permanent absolute per
 
 So every law and institution must be placed under constant review. This can be tricky, especially the more educated and intelligent someone is. The educated like concrete rules. We do not often trust the ‘wisdom of common sense’ in political matters. We are good at hypothesizing abuses of power and prefer strict rules that can’t be easily circumvented. Just recently Scott was trying to determine a rule for thinking about the[self-determination of a people](https://astralcodexten.substack.com/p/who-gets-self-determination?s=r) that would be concrete, reasonable, and yet also avoid giving Putin any justification for war. But for Niebuhr we can never make an absolute rule. Rules must always be revised to account for new historical data and situations. And a well-governed democracy _must_ rely to a large degree on common sense for most of its judgments. It's unfeasible to draw a strict line that can divide evil on one side from good on the other, and any such absolute line is far more dangerous than the flexibility of common-sense (although Niebuhr is naturally aware of the dangers here as well). So for Niebuhr with a situation like Ukraine, it is ok to judge on a case by case basis whether it is justifiable for one group to demand political independence. Common sense should lead us to reasonable conclusions if not always rational ones.
 
-**7\. The Significance of Irony**
+## 7. The Significance of Irony
 
 Niebuhr concludes with a meta-analysis of his own book. Is American history really ironic? Is this a useful way to think about the endless data of history? He acknowledges that one can never be sure about the truth of a historical theory. New events may always arise to refute it. But he argues that there are a few useful components to his ironic framework. First, an ironic view requires some detachment from the events. Irony implies a certain distance which is often useful to try to achieve. The framework of irony allows one to step away from the parade of historic events and achieve a new perspective.
 
@@ -230,10 +229,10 @@ At the beginning I promised a heuristic for foreign policy.
 
 **Me**: Yes I know, it seems crazy. There have been some hints of this idea in the review, but human sin is admittedly central to Niebuhr’s worldview. Still, let’s talk about what this practically implies. Human sinfulness leads Niebuhr to a few general conclusions.
 
-> 1.  It is impossible to achieve perfection on earth. So one cannot hope for utopia or to fully eliminate conflict. There is no final, external cause for humans behaving badly, because conflict is inherent in us.
-> 2.  Our own actions are always partially tainted with self interest. Therefore, one cannot trust any kind of absolutism of individual political power or of a political system. One must instead rely on a balance of conflicting interests.
-> 3.  One should often reflect on whether one’s own beliefs are veiling a deeper self interest. This doesn’t mean that one’s beliefs are necessarily wrong, but you should always reflect on whether you only believe them because they also benefit yourself, and to be humble about the alternatives. To take one personal example: I practice effective altruism. I think it is a very effective way of doing good. However, I also have to admit that I don’t particularly like going to marches or protests, or canvassing door to door, or especially not ‘getting involved.’ This is certainly self-interested. I value my time more than my money. Therefore, I should at the very minimum not dismiss people who try to do good in other ways, and acknowledge the potential use of protests, canvassing, and the like. Again, this doesn’t mean that we can’t be critical, but merely that we should recognize that it’s always easier to be critical than self critical.
-> 4.  Individuals may be martyrs or saints, but once self interest begins to aggregate in communities, it is impossible to expect any nation or political body to give up power altruistically. So don’t expect a U.N. or an E.U. is going to be purely ethical.
+1.  It is impossible to achieve perfection on earth. So one cannot hope for utopia or to fully eliminate conflict. There is no final, external cause for humans behaving badly, because conflict is inherent in us.
+2.  Our own actions are always partially tainted with self interest. Therefore, one cannot trust any kind of absolutism of individual political power or of a political system. One must instead rely on a balance of conflicting interests.
+3.  One should often reflect on whether one’s own beliefs are veiling a deeper self interest. This doesn’t mean that one’s beliefs are necessarily wrong, but you should always reflect on whether you only believe them because they also benefit yourself, and to be humble about the alternatives. To take one personal example: I practice effective altruism. I think it is a very effective way of doing good. However, I also have to admit that I don’t particularly like going to marches or protests, or canvassing door to door, or especially not ‘getting involved.’ This is certainly self-interested. I value my time more than my money. Therefore, I should at the very minimum not dismiss people who try to do good in other ways, and acknowledge the potential use of protests, canvassing, and the like. Again, this doesn’t mean that we can’t be critical, but merely that we should recognize that it’s always easier to be critical than self critical.
+4.  Individuals may be martyrs or saints, but once self interest begins to aggregate in communities, it is impossible to expect any nation or political body to give up power altruistically. So don’t expect a U.N. or an E.U. is going to be purely ethical.
 
 Second tenet:
 
@@ -245,43 +244,43 @@ Second tenet:
 
 This second idea also comes with a couple conclusions.
 
-> 1.  Man can not be fully controlled or constrained.
-> 2.  Man’s creativity should be protected even if this occasionally leads to harmful results.
+1.  Man can not be fully controlled or constrained.
+2.  Man’s creativity should be protected even if this occasionally leads to harmful results.
 
 And finally:
 
 3) There is an ultimate standard of virtue. Specifically, “love thyNiebuhr neighbor”.
 
-> 1.  This prevents complacency or moral cynicism. There is a good that we can approximate even if we cannot fully achieve. Or “[Don’t let Perfect be the enemy of Good](https://en.wikipedia.org/wiki/Perfect_is_the_enemy_of_good).”
+1.  This prevents complacency or moral cynicism. There is a good that we can approximate even if we cannot fully achieve. Or “[Don’t let Perfect be the enemy of Good](https://en.wikipedia.org/wiki/Perfect_is_the_enemy_of_good).”
 
 What’s funny and wonderful is that each individual assumption is highly questionable from a modern perspective. I think very few people would accept all of these assumptions. However a good rationalist judges a heuristic not by its assumptions, but by its results.[Christopher Hitchens](https://www.youtube.com/watch?v=3I-FfrkGiWQ) once said Orwell’s great achievement was that he was ultimately right about the three major ‘isms’ of the twentieth century: fascism, communism, and colonialism. I would like to propose a similar way of judging Niebuhr. I have read through a lot of his work for this book review, and I would like to submit his judgments on various trends as they were developing. I have divided these into moral and predictive judgments (although of course these are intertwined) and I provided the date (although many of these views he probably held before he made them public). Also note that Niebuhr was someone who was willing to change his views when more evidence became available. And finally, none of these were necessarily obvious predictions in his era. At the very least, he always made these assertions against a popular existing alternative belief.  
 
 Moral Judgments:
 
-> 1.  Against French occupation of the Rheinland (1923)
-> 2.  Against KKK (1925)
-> 3.  Against Prohibition (Oct 24, 1928)
-> 4.  In favor of strikers (Sept 26, 1934, but also thought the 1920s)
-> 5.  We should use force to fight Hitler (June 29, 1940)
-> 6.  It is ok to suspend civil liberties in wartime (Jan 24, 1942)
-> 7.  Against Japanese Internment (Summer 1942)
-> 8.  Race prejudice must be combated by more than education (Summer 1942)
-> 9.  Mass bombing of Germany is morally justified in the circumstances (Summer 1943)
-> 10.  Atomic bombing of Hiroshima was indefensible (1945)
-> 11.  Against McCarthy (Jan 31, 1955)
-> 12.  Against South African Apartheid (May 28, 1956)
-> 13.  Against Barry Goldwater (Oct 26, 1964)
-> 14.  Support Martin Luther King Jr / Civili Rights Movement (Mar 19, 1965, but essentially supported Black rights from the 1930s onwards it seems )
-> 15.  Against Vietnam War (June 24, 1967)
-> 16.  Also variously, but without clear dates (pro-containment, pro-nuclear deterrence, against converting Jews to Christianity going against his own early belief, pro Roosevelt, pro Jewish statehood)
+1.  Against French occupation of the Rheinland (1923)
+2.  Against KKK (1925)
+3.  Against Prohibition (Oct 24, 1928)
+4.  In favor of strikers (Sept 26, 1934, but also thought the 1920s)
+5.  We should use force to fight Hitler (June 29, 1940)
+6.  It is ok to suspend civil liberties in wartime (Jan 24, 1942)
+7.  Against Japanese Internment (Summer 1942)
+8.  Race prejudice must be combated by more than education (Summer 1942)
+9.  Mass bombing of Germany is morally justified in the circumstances (Summer 1943)
+10.  Atomic bombing of Hiroshima was indefensible (1945)
+11.  Against McCarthy (Jan 31, 1955)
+12.  Against South African Apartheid (May 28, 1956)
+13.  Against Barry Goldwater (Oct 26, 1964)
+14.  Support Martin Luther King Jr / Civili Rights Movement (Mar 19, 1965, but essentially supported Black rights from the 1930s onwards it seems )
+15.  Against Vietnam War (June 24, 1967)
+16.  Also variously, but without clear dates (pro-containment, pro-nuclear deterrence, against converting Jews to Christianity going against his own early belief, pro Roosevelt, pro Jewish statehood)
 
 Some concrete Predictions:
 
-> 1.  Death of Pope Pius XI will not end the catholic alliance with fascism. (Jan 30, 1937)
-> 2.  Soviet state will not ‘wither away’ (May 7, 1938)
-> 3.  Zionism will certainly necessitate injustice against Palestinians (Feb 21, 1942, although he was also in favor of a Jewish state)
-> 4.  [Dietrich Bonhoeffer](https://en.wikipedia.org/wiki/Dietrich_Bonhoeffer) will become famous (June 25, 1945)
-> 5.  U.N. is unlikely to work (although he sympathizes morally with the goal) (Mar 16, 1946)
+1.  Death of Pope Pius XI will not end the catholic alliance with fascism. (Jan 30, 1937)
+2.  Soviet state will not ‘wither away’ (May 7, 1938)
+3.  Zionism will certainly necessitate injustice against Palestinians (Feb 21, 1942, although he was also in favor of a Jewish state)
+4.  [Dietrich Bonhoeffer](https://en.wikipedia.org/wiki/Dietrich_Bonhoeffer) will become famous (June 25, 1945)
+5.  U.N. is unlikely to work (although he sympathizes morally with the goal) (Mar 16, 1946)
 
 Again, I hope no one converts to Christianity. But if, like me, you think Niebuhr demonstrated an admirable and rare moral compass throughout his life, then I think there may be something tangible to be gained from taking a secular look at the core beliefs by which he lived. His own Christian illusions seem to have allowed for a remarkable clear sightedness amidst the ambiguities of his era.
 

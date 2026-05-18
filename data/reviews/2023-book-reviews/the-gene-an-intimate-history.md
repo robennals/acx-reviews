@@ -1,16 +1,16 @@
 ---
-title: "The Gene: An Intimate History"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2023-book-reviews"
-contestName: "2023 Book Reviews"
+title: 'The Gene: An Intimate History'
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2023-book-reviews
+contestName: 2023 Book Reviews
 year: 2023
-publishedDate: "2023-01-01T00:00:00.000Z"
-slug: "the-gene-an-intimate-history"
-wordCount: 3411
+publishedDate: '2023-01-01T00:00:00.000Z'
+slug: the-gene-an-intimate-history
+wordCount: 3418
 readingTimeMinutes: 16
-originalUrl: "https://docs.google.com/document/d/1AtGIIv371v0Yu35eNsIxJr67dw4SHOiGdKrqmoKt2hg"
-source: "gdoc"
+originalUrl: https://docs.google.com/document/d/1AtGIIv371v0Yu35eNsIxJr67dw4SHOiGdKrqmoKt2hg
+source: gdoc
 tags:
   - Biology
   - History
@@ -22,15 +22,14 @@ But the thing about the people who said to slow down, is they have a way of soun
 
 I'm going to focus on the medical progress angle of the book, but medicine is a side-show in Muckerjee's survey of genetics. The overall book has less technology and more philosophy. As Mukherjee writes:
 
-"Three profoundly destabilizing scientific ideas ricochet through the twentieth century: the atom, the byte, the gene...Each represents the irreducible building block of a larger whole: the atom, of matter; the byte, of digitized information; the gene, of heredity and biological information...The atom tantalizes us with the prospect of controlling matter and energy. The gene tantalizes us with the prospect of controlling our bodies and our fates."
+> "Three profoundly destabilizing scientific ideas ricochet through the twentieth century: the atom, the byte, the gene...Each represents the irreducible building block of a larger whole: the atom, of matter; the byte, of digitized information; the gene, of heredity and biological information...The atom tantalizes us with the prospect of controlling matter and energy. The gene tantalizes us with the prospect of controlling our bodies and our fates."
 
 ## The rest of the book, or: What are drugs next to our demons?
 
 What Mukherjee is most interested in is the genetics of mental conditions and eugenics. He dedicates the book
 
-"To Priyabala Mukherjee (1906-1985), who knew the perils;
-
-to Carrie Buck (1906-1983), who experienced them."
+> "To Priyabala Mukherjee (1906-1985), who knew the perils;  
+> to Carrie Buck (1906-1983), who experienced them."
 
 Priyabala was his grandmother, who raised a manic-depressive son and fiercely nursed another schizophrenic son for decades of his adulthood. Schizophrenia is often genetic, found in family trees alongside mania. Before the genetic theory gained traction, the Freudian explanation was that paranoia is a psychological response to domineering mothers, which...actually Priyabala sounds domineering in this book. Funny how two theories can explain one datapoint.
 
@@ -38,9 +37,9 @@ Priyabala's fourth son, the author's father, himself has a late-onset genetic il
 
 Hereditary mental illness–that is the most opinionated heart of this sprawling, intermittently editorializing book. When he describes one scientist's effort to catalogue genetic diseases, Mukherjee writes:
 
-"[McKusick's] fourth insight is so pivotal to this story that I have separated it from the others...He understood that gene mutations are just variations...A mutation doesn't imply disease, nor does it specify a gain or loss of function...The definition of disease rests on the specific disabilities caused by an incongruity between an individual's genetic endowment and his or her current environment–between a mutation, the circumstances of a person's existence, and his or her goals for survival or success. It is not mutation that ultimately causes disease, but mismatch.
-
-The mismatch can be severe and debilitating. A child with the fiercest variation of autism who spends his days rocking monotonously in a corner, or scratching his skin into ulcers, possesses an unfortunate genetic endowment that is mismatched to nearly any environment or any goals. But another child with a different variant of autism may be functional in most situations, and possibly hyperfunctional in some (a chess game, say, or a memory contest). His illness is situational; it lies in the incongruity of his specific genotype and his specific circumstances.”
+> "[McKusick's] fourth insight is so pivotal to this story that I have separated it from the others...He understood that gene mutations are just variations...A mutation doesn't imply disease, nor does it specify a gain or loss of function...The definition of disease rests on the specific disabilities caused by an incongruity between an individual's genetic endowment and his or her current environment–between a mutation, the circumstances of a person's existence, and his or her goals for survival or success. It is not mutation that ultimately causes disease, but mismatch.
+>
+> The mismatch can be severe and debilitating. A child with the fiercest variation of autism who spends his days rocking monotonously in a corner, or scratching his skin into ulcers, possesses an unfortunate genetic endowment that is mismatched to nearly any environment or any goals. But another child with a different variant of autism may be functional in most situations, and possibly hyperfunctional in some (a chess game, say, or a memory contest). His illness is situational; it lies in the incongruity of his specific genotype and his specific circumstances.”
 
 I'll irresponsibly take this idea further. Perhaps Mukherjee himself is hyperfunctional from mild variants of his uncles' diseases. How does he write 500-page books filled with creative analogies on top of his many job responsibilities: as a professor and physician and founder of several companies? Book-tour interviewers have asked him, and this nephew of a manic man says he writes books in fits, where "once I'm in the zone, I can pull out 40 pages a day[[6]](#ftnt6)."
 
@@ -122,7 +121,7 @@ Mukherjee takes this side partly because he doesn't believe that these moratoriu
 
 But I suspect Mukherjee is more generally disposed to take the cautious side. He writes sentences like “Fortunately, technical barriers intervened before the ethical mayhem had a chance to become unmoored.” Circling back to the theme of mental illness, Mukherjee says he doesn't want to know what genetic diseases are in store for his own daughters:
 
-"In the wake of the monumental studies on the genetics of familial schizophrenia, I have often wondered about sequencing my [and my family's] genome. The technology exists: my own lab is equipped to do it…[but] if the history of the last century taught us the dangers of empowering governments to determine genetic "fitness", then the question that confronts our current era is what happens when this power devolves to the individual."
+> "In the wake of the monumental studies on the genetics of familial schizophrenia, I have often wondered about sequencing my [and my family's] genome. The technology exists: my own lab is equipped to do it…[but] if the history of the last century taught us the dangers of empowering governments to determine genetic "fitness", then the question that confronts our current era is what happens when this power devolves to the individual."
 
 There is a Great and Secret Knowledge hidden somewhere in the World that will grant us enormous powers once we have discovered it.[[8]](#ftnt8) Do you strain everything to hunt for it, or are you afraid of what you may find? Do you fear only for your own feeble sanity, or for what others may do, what casualties all may suffer from their search? Mukherjee fears for both, though the hunt consumes him.
 

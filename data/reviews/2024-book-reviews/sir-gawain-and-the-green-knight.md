@@ -7,10 +7,9 @@ contestName: 2024 Book Reviews
 year: 2024
 publishedDate: '2026-02-06T16:48:56.663Z'
 slug: sir-gawain-and-the-green-knight
-wordCount: 3141
+wordCount: 3150
 readingTimeMinutes: 14
-originalUrl: >-
-  https://docs.google.com/document/d/1GYQw3pgvhi7hqOVR-Ql629Q_8thbyHe8sSRy5voyt30
+originalUrl: https://docs.google.com/document/d/1GYQw3pgvhi7hqOVR-Ql629Q_8thbyHe8sSRy5voyt30
 source: gdoc
 tags:
   - Fiction
@@ -19,7 +18,7 @@ tags:
 
 Every time I go outside I see some news about AI, and I try not to think too much about the future. So I’ve decided to review a 500-year-old poem to take my mind off of things.
 
-**I**
+## I
 
 Us English folk are in a weird position, culturally. Unlike the Gaelic countries around us, we seem to lack a common mythos. For the most part, we have a gaping hole where an oral history should be. The Anglo-Saxons who populated England between the end of Roman rule and the invasion of the Normans surely had myths, but I cannot (without resorting to Wikipedia) name a single one, and having since looked them up I feel no claim over them. I am told that Tolkien’s works were an attempt to fill the gap, but unfortunately, myths don’t really work that way.
 
@@ -35,11 +34,11 @@ Some even duller sources give themes like “mortality” and “The letter of t
 
 Instead of any of this, one question immediately stuck out to me upon finishing the poem: does the Green Knight have a cuckoldry fetish? Let’s find out.
 
-**II**
+## II
 
 The poem is written in a hexameter which takes some getting used to but has quite a nice momentum to it overall. The translator has been able to keep most of the rhymes, but the original alliteration has been lost. The metre is also somewhat butchered at times. Each verse ends with a cute little two-syllable line and four half-lines:
 
-![A screenshot of text illustrating the rhyming structure. Two twelve-syllable lines are followed by one two-syllable line, then four six-syllable lines.](https://acximages.ennals.org/images/2024-book-reviews/d73aef20836c3f18.png)
+![A screenshot of text illustrating the rhyming structure. Two twelve-syllable lines are followed by one two-syllable line, then four six-syllable lines.](https://acximages.ennals.org/images/2024-book-reviews/6b4f3cd2787beaf4.png)
 
 The language is odd throughout. It’s been translated from the original Middle English (which is generally unintelligible to modern readers) into some sort of old-sounding modern English. I don’t know the reason for all the forsooths and doths, though it does keep an atmosphere of old-ness.
 
@@ -96,7 +95,7 @@ As anyone would, Gawain then goes on a bizarre rant listing every example of a w
 
 I think this is his (and possibly the author’s) way of justifying why it’s OK that he was tricked by the Green Knight’s wife. Gawain returns home to great honour. Brutus and Troy are bafflingly mentioned again, and the poem ends.
 
-**III**
+## III
 
 So back to my earlier question. Several times it is implied that various other knights have taken the Green Knight’s challenge before and failed. Since taking the girdle does not imply failure, this surely means that many other knights have had sex with the Green Knight’s wife, and that he keeps doing this.
 
@@ -104,7 +103,7 @@ Cuckoldry is generally a cornerstone of Arthurian legend, with Arthur famously b
 
 Anyway, moving on, what else is going on here?
 
-**IV**
+## IV
 
 Here is a list of things described in immense detail: clothing, feasts, hunting, and the skinning and gutting of animals. Here is a list of things basically ignored: the landscape and environs of the setting. Some analysis of Gawain’s journey tells us that he starts in the south of Wales, then moves north along the coast before turning east and heading towards some of the mountainous regions in the middle of England. This is some of the countryside he might have seen:
 
@@ -114,7 +113,7 @@ Somehow this is all missing from the poem!
 
 The Gawain Poet is also believed to have written three other poems, two (_Patience_ and _Cleanness_) praising Christian virtues, and one (_Pearl_) which is a description of a Christian vision. My guess is therefore that the Poet had actually not seen much of the English countryside, and was going off of maps. The world processed through the mind of modernity. Chalk cliffs to concrete.
 
-**V**
+## V
 
 The “Green Chapel” is described as follows:
 
@@ -133,13 +132,13 @@ But on the other hand, like every other mediaeval story this one is ridiculously
 
 So if the Green Knight is supposed to be a pagan figure, why is he a devout Christian, is he faking it? If he’s an ageless being from the Neolithic, was he Jewish before the crucifixion and then converted? This doesn’t make any sense.
 
-**VI**
+## VI
 
 After the game is over, Gawain asks the Green Knight his identity, and he says his name is Bernlak de Hautdesert. So I guess the most mystic and incomprehensible thing to a British mediaeval scholar is … the French? Except these words are totally made up and just sound kinda French? He also claims that his abilities were given to him by Morgan le Fey. This makes up a bizarre scheme where the Green Knight wanted to test the honour of Arthur’s knights, and Morgan hoped that Guinevere would die of fright upon seeing the Green Knight lift up his own head.
 
 I have no idea how to interpret this, other than the fact that it all seems like it was tacked onto the original story at the end. So is the Green Knight an ancient pagan figure, or was he some random baron that Morgan le Fey decided to empower with magic? Morgan le Fey even makes a cameo earlier in the novel, though we don’t know her identity until later. I was not expecting the Gawain Poet to tease the main villain of the Arthurian legends MCU-style. I guess nothing ever changes.
 
-**VII**
+## VII
 
 I recently encountered the poem “I am Taliesin” (I will confess only because it was reproduced in a pop album) which refers to a legendary Welsh poet sometimes mythically associated with Arthur’s court. This poem was written in the 13th century, by an unknown author:
 
@@ -181,7 +180,7 @@ My feelings of _Taliesin_ are actually enhanced by the fact that all of these my
 
 Perhaps this is due to the choice of translation, but perhaps it isn’t. Maybe being a 14th century poet who never goes outside actually creates a psychological profile very similar to the modern man.
 
-**VIII**
+## VIII
 
 Let’s get back on topic and take our bearings. We have a 14th century British poem, written about 6th century Britain. Its ingredients include Irish and Greek mythology, overwhelming Christianity, and the setting _du jour_. What can we learn from it?
 
@@ -191,6 +190,6 @@ The beheading game, the long barrow, even the history and geography of Britain i
 
 This is the deeper, darker story within the story. The immortal tale of the human mind refusing to see the unfathomable depth of the universe right in front of it; glancing off of a truth it is not equipped for. I was wrong that doing this review would take my mind off the future.
 
-**PS**
+## PS
 
 In case anyone was wondering, I think the 2021 film is awful.

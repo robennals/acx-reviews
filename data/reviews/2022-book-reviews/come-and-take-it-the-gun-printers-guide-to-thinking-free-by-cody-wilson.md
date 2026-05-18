@@ -7,17 +7,16 @@ contestName: 2022 Book Reviews
 year: 2022
 publishedDate: '2026-02-06T07:24:08.697Z'
 slug: come-and-take-it-the-gun-printers-guide-to-thinking-free-by-cody-wilson
-wordCount: 3210
+wordCount: 3218
 readingTimeMinutes: 15
-originalUrl: >-
-  https://docs.google.com/document/d/1pRQbRbEUwSH_jm94PI_ij-88swat7vQ4iNaNp6gd39g
+originalUrl: https://docs.google.com/document/d/1pRQbRbEUwSH_jm94PI_ij-88swat7vQ4iNaNp6gd39g
 source: gdoc
 tags:
   - Technology
   - Politics
 ---
 
-**I.**
+## I.
 
 What kind of man decides to 3D print a gun?
 
@@ -33,7 +32,7 @@ Wilson sees a system that needs to be trolled.
 
 For what it’s worth, I think he’s pretty good at it.
 
-**II.**
+## II.
 
 A core idea underlying Wilson's thinking seems to be that you cannot directly challenge a powerful consensus. There's no single target, and your own resources are too small. But perhaps you can create a situation that causes the system to turn against itself. Wilson describes trying to create a toxic super-PAC in 2011:
 
@@ -63,7 +62,7 @@ In true [Hansonian](https://www.overcomingbias.com/2008/09/politics-isnt-a.html)
 
 Defense Distributed was born.
 
-**III.**
+## III.
 
 Wilson’s rhetoric can be kind of fun, but irritatingly light on some of the details. _How_ did he think that a 3D printed gun would change the world? He never says, explicitly, but I think I can infer his mental model.
 
@@ -75,7 +74,7 @@ All of this only has a tenuous connection to physical reality. The _idea_ of a 3
 
 An exercise for the intrepid reader: map the pieces of this reasoning onto the [Simulacra](https://thezvi.wordpress.com/2020/08/03/unifying-the-simulacra-definitions/) definitions. Unsurprisingly, Wilson is a fan of Baudrillard.
 
-**IV.**
+## IV.
 
 Wilson did not grow up in a family where guns were around. He didn't have his finger on the pulse of American gun culture. When he started, he didn't know anything about engineering, ballistics or plastics. If you're trying to build a new kind of gun to troll the world, where do you start?
 
@@ -101,7 +100,7 @@ Fortunately, there’s this other weird project that had launched just a few yea
 
 Defense Distributed starts taking donations in Bitcoin.
 
-**V.**
+## V.
 
 To start printing, Wilson leases a Stratasys printer. The lease is almost immediately canceled. Stratasys claims that manufacturing guns without a license is illegal. Wilson claims that he’s making prototypes for personal study, an activity which does not require any license.
 
@@ -153,7 +152,7 @@ Curtis Yarvin, back when he was only known as “Moldbug” online, shows up too
 
 Varol tells Wilson that he can get him a convertible note for a million dollars — a serious seed funding round in 2012 — but it doesn’t go through. It’s not clear if the prospective investors backed out, or if Wilson just didn’t want to take it. One way or another, Varol, Yarvin and the rest of the “Carlyle Club” aren’t transgressive enough for Defense Distributed.
 
-**VI.**
+## VI.
 
 As they get closer to finishing the Liberator, Defense Distributed starts getting surveilled by government agents. Remarkably, _no one_ knows if it's legal or not. Wilson reviews the Undetectable Firearms Act with a University of Texas professor who remembered him from his first year in law school:
 
@@ -171,7 +170,7 @@ Defense Distributed [dropped](https://www.youtube.com/watch?v=drPz6n6UXQY) the L
 
 The Liberator pistol (Source: _Come and Take It)_
 
-**VII.**
+## VII.
 
 Did it work?
 
@@ -189,7 +188,7 @@ Unlike PGP, the Liberator has been the subject of several court cases. The FGC-9
 
 Build something that cannot be ignored, and you can change the nature of a policy debate forever. That's _Come and Take It._ The rest is just commentary.
 
-**VIII.**
+## VIII.
 
 Wilson talks about his book deal in a 2014 [interview](https://www.youtube.com/watch?v=g5fhBBipU3w) with ReasonTV:
 
@@ -201,7 +200,7 @@ Wilson talks about his book deal in a 2014 [interview](https://www.youtube.com/w
 
 Extremely pretentious, hopefully a good story. I can’t think of a better review than that.
 
-![](https://acximages.ennals.org/images/2022-book-reviews/1b63c540b1b1ff75.png)
+![](https://acximages.ennals.org/images/2022-book-reviews/546fd276c7704b21.png)
 
 [1] In the e-book version, you can still read the censored text by highlighting it.
 

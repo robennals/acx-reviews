@@ -7,10 +7,9 @@ contestName: 2024 Book Reviews
 year: 2024
 publishedDate: '2026-02-06T16:49:50.825Z'
 slug: world-empire-lost
-wordCount: 12717
+wordCount: 12710
 readingTimeMinutes: 57
-originalUrl: >-
-  https://docs.google.com/document/d/1Ki5XsE0jkxZtd2XAeyTAJw1ZjLh2Cu-matUYKAhA6-s
+originalUrl: https://docs.google.com/document/d/1Ki5XsE0jkxZtd2XAeyTAJw1ZjLh2Cu-matUYKAhA6-s
 source: gdoc
 tags:
   - History
@@ -72,11 +71,11 @@ Von Roon considers the other world leaders (Roosevelt excepted) are simply idiot
 
 One of the more darkly amusing parts of this section is von Roon’s, apparently earnest, attempt to apply moral realism to other nation’s decisions to resist Germany aggression. The basic argument takes the form:
 
-> *   Country X had ethical failings.
-> *   Also, it was weaker than Germany.
-> *   By resisting Germany’s invasion they suffered much more than if they had not resisted
-> *   Therefore morally speaking they should have surrendered to prevent that suffering.
-> *   Therefore any death to civilians is therefore the fault of their stupid and corrupt leaders.
+*   Country X had ethical failings.
+*   Also, it was weaker than Germany.
+*   By resisting Germany’s invasion they suffered much more than if they had not resisted
+*   Therefore morally speaking they should have surrendered to prevent that suffering.
+*   Therefore any death to civilians is therefore the fault of their stupid and corrupt leaders.
 
 Let us see how this unfolds with Poland (I have taken key paragraphs of his longer argument, which he scatters amongst descriptions of the military campaign):
 
@@ -370,8 +369,8 @@ No Pearl Harbour, no United States in the war, no German declaration of war on t
 
 The two ‘what if’s I found most fascinating, however, were these:
 
-> 1.  What if Hitler had tried to invade England in June 1940, immediately after the fall of France?
-> 2.  What if Hitler had committed vastly more troops to North Africa - either in 1941 instead of invading Russia, or in 1942, prior to El Alamein?
+1.  What if Hitler had tried to invade England in June 1940, immediately after the fall of France?
+2.  What if Hitler had committed vastly more troops to North Africa - either in 1941 instead of invading Russia, or in 1942, prior to El Alamein?
 
 ### 1\. An Early Sealion
 

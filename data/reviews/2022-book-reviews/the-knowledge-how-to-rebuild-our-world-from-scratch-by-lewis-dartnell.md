@@ -7,10 +7,9 @@ contestName: 2022 Book Reviews
 year: 2022
 publishedDate: '2026-02-06T07:22:32.827Z'
 slug: the-knowledge-how-to-rebuild-our-world-from-scratch-by-lewis-dartnell
-wordCount: 8105
-readingTimeMinutes: 37
-originalUrl: >-
-  https://docs.google.com/document/d/100kMdSVFviZSSBvUyyEQPMNlvLptVQxHFD9i9wGuBWs
+wordCount: 8086
+readingTimeMinutes: 36
+originalUrl: https://docs.google.com/document/d/100kMdSVFviZSSBvUyyEQPMNlvLptVQxHFD9i9wGuBWs
 source: gdoc
 tags:
   - Science
@@ -39,19 +38,19 @@ While I understand Dartnell’s logic here, the dispassionate calculus of “it�
 
 The book covers, or at least mentions, all the basics of civilization that the survivors of the apocalypse will have to recreate. The amount of research that went into this book is truly remarkable, and I salute Dartnell for having learned it all and presented it in a more or less accessible fashion (albeit the degree of “more” vs. “less” varies among the chapters, as I will discuss later). There is a chapter for each of the following:
 
-> 1.  The collapse: how it may happen; what to expect
-> 2.  The immediate aftermath of the collapse: how not to die
-> 3.  Agriculture
-> 4.  Food and clothing
-> 5.  Substances: useful chemicals and how to make them  
-> 6.  Materials: building and more
-> 7.  Medicine
-> 8.  Energy
-> 9.  Transport
-> 10.  Communication
-> 11.  Advanced chemistry: chemical reactions to attempt at later stages of the reboot
-> 12.  Finding your way in time and space: timekeeping and navigation
-> 13.  The greatest invention: can you guess what it is?
+1.  The collapse: how it may happen; what to expect
+2.  The immediate aftermath of the collapse: how not to die
+3.  Agriculture
+4.  Food and clothing
+5.  Substances: useful chemicals and how to make them  
+6.  Materials: building and more
+7.  Medicine
+8.  Energy
+9.  Transport
+10.  Communication
+11.  Advanced chemistry: chemical reactions to attempt at later stages of the reboot
+12.  Finding your way in time and space: timekeeping and navigation
+13.  The greatest invention: can you guess what it is?
 
 Chapter 2 is a standard survivalist’s guide to making it in the immediate aftermath of the “best-case” apocalypse, in which plentiful resources are available for the few survivors. Dartnell advises the readers to raid defunct grocery stores and pharmacies for non-perishable food and medicine, siphon drinking water out of swimming pools, and get out of cities, which will rapidly become dangerous – the “rot and decomposition” of the victims of the apocalypse will “pose a severe health hazard” (p. 44). Instructions on how to reboot an advanced civilization begin in chapter 3, on agriculture.
 
@@ -131,12 +130,12 @@ Latitude is easier: we can tell it by measuring the angle between the horizon an
 
 One of the joys of reading this book was learning a lot of weird and wonderful facts about the world. Before we move on to the thirteenth and final chapter, here is a selection of interesting facts:
 
-> *   An adult produces about 100 pounds of feces and 1000 pounds of urine/year, containing enough nutrients to grow 450 pounds of grain. Yum! Post-collapse, we’ll need to collect all those lovely nutrients and use them to fertilize our crops, not flush them thoughtlessly down the toilet.
-> *   In the developing world today, “nearly half of all gastrointestinal and respiratory infections can be avoided simply by regularly washing your hands” (p. 112). It’s a strong argument for prioritizing soap production after the collapse.
-> *   Sulfuric acid is the most common compound manufactured today, due to its plethora of uses in industrial chemistry.
-> *   During World War I, acetone was used for making bullets and artillery shells, and the demand for it was so high that Britain was running out and was therefore at risk of losing the war. A novel acetone-producing method saved the day, involving an acetone-secreting bacterium and “huge amounts of horse chestnuts collected by schoolchildren as the feed” (p. 118). No time to play, kids – go gather those chestnuts for the war effort!
-> *   Did ancient civilizations have electric batteries? Dartnell says it’s possible! Archaeologists discovered clay jars in Iraq dating back to 200 BC – 200 AD, containing iron bars wrapped in copper and showing signs of having been filled with acid. Replicas of these artifacts can produce approximately half a volt of electricity, but it is unclear whether the originals were used for this purpose. In any case, it is fun to think of an ancient civilization using rudimentary electricity.
-> *   When Europeans first invented mechanical clocks, they designed the clock face to mimic sundials, which people were familiar with. Therefore, the hands move across the clock face in the same direction as the shadow across the sundial, i.e., the direction we now call “clockwise.” If clocks had been invented in the southern hemisphere, using the same principle, their hands would have been designed to move counterclockwise!
+*   An adult produces about 100 pounds of feces and 1000 pounds of urine/year, containing enough nutrients to grow 450 pounds of grain. Yum! Post-collapse, we’ll need to collect all those lovely nutrients and use them to fertilize our crops, not flush them thoughtlessly down the toilet.
+*   In the developing world today, “nearly half of all gastrointestinal and respiratory infections can be avoided simply by regularly washing your hands” (p. 112). It’s a strong argument for prioritizing soap production after the collapse.
+*   Sulfuric acid is the most common compound manufactured today, due to its plethora of uses in industrial chemistry.
+*   During World War I, acetone was used for making bullets and artillery shells, and the demand for it was so high that Britain was running out and was therefore at risk of losing the war. A novel acetone-producing method saved the day, involving an acetone-secreting bacterium and “huge amounts of horse chestnuts collected by schoolchildren as the feed” (p. 118). No time to play, kids – go gather those chestnuts for the war effort!
+*   Did ancient civilizations have electric batteries? Dartnell says it’s possible! Archaeologists discovered clay jars in Iraq dating back to 200 BC – 200 AD, containing iron bars wrapped in copper and showing signs of having been filled with acid. Replicas of these artifacts can produce approximately half a volt of electricity, but it is unclear whether the originals were used for this purpose. In any case, it is fun to think of an ancient civilization using rudimentary electricity.
+*   When Europeans first invented mechanical clocks, they designed the clock face to mimic sundials, which people were familiar with. Therefore, the hands move across the clock face in the same direction as the shadow across the sundial, i.e., the direction we now call “clockwise.” If clocks had been invented in the southern hemisphere, using the same principle, their hands would have been designed to move counterclockwise!
 
 Chapter 13 is titled “The Greatest Invention.” Before telling us what it is, Dartnell allows himself a bit of philosophical musing, something he has avoided for most of the book. In a way reminiscent of Jared Diamond and Joseph Henrich, he asks: Why did the Industrial Revolution begin in 18th-century Britain? China had had a huge advantage in technology over Britain or anywhere in Europe for centuries. Ancient China had invented gunpowder, paper, block printing, the horse collar, blast furnaces for smelting iron, etc. Why did the Industrial Revolution not start in China? The answer: sociology matters, not just technology. 18th-century Britain had abundant energy from coal deposits plus relatively expensive labor; in China, labor was cheap and plentiful. Therefore, the British had a strong incentive to automate and hence save on labor costs, and their Chinese contemporaries did not. Once the Industrial Revolution began in Britain, it became a self-reinforcing cycle, with innovation begetting innovation.
 

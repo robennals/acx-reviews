@@ -9,8 +9,7 @@ publishedDate: '2026-02-06T07:23:14.484Z'
 slug: mind-and-cosmos-by-thomas-nagel
 wordCount: 5413
 readingTimeMinutes: 25
-originalUrl: >-
-  https://docs.google.com/document/d/1kQUUJhv-MpLawby2j4zXLZPDG6ligWd5xpIjH8UmWdw
+originalUrl: https://docs.google.com/document/d/1kQUUJhv-MpLawby2j4zXLZPDG6ligWd5xpIjH8UmWdw
 source: gdoc
 tags:
   - Philosophy
@@ -63,7 +62,7 @@ The argument against this line of reasoning goes: ‘We don’t know how conscio
 
 Next up: cognition, by which Nagel means reason. Let’s go back to Schrödinger for a moment (and we’ll return to him again later, but relax: _Mind and Cosmos_ doesn’t suggest that consciousness is ‘quantum’: it’s more inventive than that). In 1926 Schrödinger published his seminal paper on wave mechanics presenting what came to be known as the Schrödinger equation, given here in its general form:
 
-![](https://acximages.ennals.org/images/2022-book-reviews/93fc59e34908373f.png)
+![](https://acximages.ennals.org/images/2022-book-reviews/3644aae6fa7426a4.png)
 
 It describes the distribution of probability waves governing the motion of small particles. He validated it by predicting the properties of a hydrogen atom. It’s one of the most accurate formulae in all of mathematical physics.  
 
@@ -77,7 +76,7 @@ But Thomas Nagel is not postmodern. He thinks we have access to objective truth.
 
 > It is not enough to be able to think that if there are logical truths, natural selection might very well have given me the capacity to recognize them. That cannot be my ground for trusting my reason, because even that thought implicitly relies on reason in a prior way.
 
-![](https://acximages.ennals.org/images/2022-book-reviews/2ca531a7335690ae.png)
+![](https://acximages.ennals.org/images/2022-book-reviews/9e315ca020a23ae9.png)
 
 Here’s the electromagnetic spectrum: it shows the wavelengths we’ve evolved to see and, as you’d expect, it is only a tiny sliver of reality. We perceive the light it was advantageous for our ancestors to detect, and which was available via the path-dependent branches of our genetic history as hypertrophied fish brains. But reason lets us ‘see’ all of it. There is a difference between the world as it appears to us and the world as it truly is, Nagel argues, and our ability to perceive the second is an astonishing fact that - like consciousness - we’ve forgotten to be astonished by.
 
@@ -111,7 +110,7 @@ Nagel concedes that readers might not be persuaded by his argument for moral rea
 
 Let’s start with the universe. What could it be made of? Wikipedia has this useful diagram:
 
-![](https://acximages.ennals.org/images/2022-book-reviews/5c7d82acb1ce17a8.png)
+![](https://acximages.ennals.org/images/2022-book-reviews/bdc6ada79a0c1fe5.png)
 
 Physicalism is Nagel’s primary target. He discounts dualism for the same reason as everyone else: the problem of causal interaction - how could purely physical and purely mental substances relate to each other? And he doesn’t like idealism because it doesn’t really explain anything: we’re all just ideas in the mind of God. That leaves neutral monism which postulates that the universe is made of a single substance that has both mental and physical properties.  (There’s a vast, VAST literature on this and it also takes in panpsychism - the notion that consciousness is ubiquitous throughout the universe. Nagel has written about these subjects in other books and papers but we don’t need to get caught up in any of the jargon or intricacies of these debates because _Mind and Cosmos_ seems to use the terms panpsychism and neutral monism interchangeably.)
 
@@ -147,7 +146,7 @@ A lot of people reviewed _Mind and Cosmos_ back in 2012, and most of them fell i
 
 Nagel does address this, albeit indirectly: ‘_the possibility of principles of change over time tending toward certain types of outcome is coherent,_ _**in a world in which the nonteleological laws are not fully deterministic**_’. I assume he’s talking about the Schrödinger equation here; which tells us that at a fundamental level the universe is not deterministic but rather probabilistic. There’s a randomness at the heart of things that might not be so random, this implies, but rather weighted towards pathways leading to the emergence of conscious, intelligent life. If we decide that van Gogh’s tree is a final cause in this model it doesn’t have to go back in time and tamper with the rules of physics and chemistry to bring itself into being. Instead the tree functions like an attractor state in a chaotic system. The universe will, over time, naturally tend towards the existence of the mulberry tree at the St Paul asylum in Saint-Remy.
 
-![](https://acximages.ennals.org/images/2022-book-reviews/e781e3ef8a938f0b.png)
+![](https://acximages.ennals.org/images/2022-book-reviews/21a5e222219e1687.png)
 
 Is Nagel invoking quantum theory the same way new age mystics use and abuse it - as a form of magic disguised behind a veneer of scientific jargon? Maybe he’s sensitive to that critique and that’s why he doesn’t quite say what he means? On the other hand, most of _Mind and Cosmos_ consists of mind-bending yet cursory assertions about the ultimate nature of reality. Maybe Nagel was just being true to his vision.  
 

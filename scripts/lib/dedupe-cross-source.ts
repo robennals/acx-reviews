@@ -12,6 +12,7 @@
 
 import fs from 'fs';
 import path from 'path';
+import { execSync } from 'child_process';
 import matter from 'gray-matter';
 import { findTwins, type ReviewRecord, type TwinResult } from '../../lib/dedup-twins';
 
@@ -66,6 +67,42 @@ export function runDedupeCrossSource(opts: DedupeRunOptions): DedupeRunResult {
   console.log(`Loaded ${reviews.length} reviews (acx=${acxCount}, gdoc=${gdocCount})`);
 
   const result = findTwins(reviews);
+
+  // Preserve production URLs for gdoc↔gdoc twin pairs: when exactly one
+  // side is tracked in git, that one is live on the site — keep it,
+  // delete the untracked sibling. Without this swap, findTwins' shorter-
+  // slug tiebreaker could pick a new pipeline-emitted \`-2\` over an
+  // existing tracked \`-YYYY\` slug and break the live URL.
+  //
+  // When both sides are tracked OR neither is, findTwins' tiebreaker
+  // stands (shorter slug wins, lexicographic tiebreak on ties). For
+  // both-tracked, this is a judgment call — accept the auto-delete on
+  // the longer/lex-later slug; the human can always revert.
+  //
+  // ACX↔gdoc pairs always keep ACX regardless of tracked-ness (ACX is
+  // the canonical edited version) — this whole block is gdoc↔gdoc-only.
+  const trackedFiles = (() => {
+    try {
+      return new Set(
+        execSync('git ls-files data/reviews', { encoding: 'utf8' })
+          .split('\n')
+          .filter(Boolean)
+      );
+    } catch {
+      return new Set<string>();
+    }
+  })();
+  const trackPathOf = (r: ReviewRecord) => `data/reviews/${r.contestId}/${r.slug}.md`;
+  for (const m of result.matches) {
+    if (m.acx.source !== 'gdoc' || m.gdoc.source !== 'gdoc') continue;
+    const keepTracked = trackedFiles.has(trackPathOf(m.acx));
+    const delTracked = trackedFiles.has(trackPathOf(m.gdoc));
+    if (!keepTracked && delTracked) {
+      const tmp = m.acx;
+      m.acx = m.gdoc;
+      m.gdoc = tmp;
+    }
+  }
 
   const byContest = new Map<string, typeof result.matches>();
   for (const m of result.matches) {

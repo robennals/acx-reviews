@@ -7,10 +7,9 @@ contestName: 2022 Book Reviews
 year: 2022
 publishedDate: '2026-02-06T07:24:08.695Z'
 slug: an-empirical-introduction-to-youth-by-joseph-bronski
-wordCount: 6981
+wordCount: 6976
 readingTimeMinutes: 32
-originalUrl: >-
-  https://docs.google.com/document/d/1pRQbRbEUwSH_jm94PI_ij-88swat7vQ4iNaNp6gd39g
+originalUrl: https://docs.google.com/document/d/1pRQbRbEUwSH_jm94PI_ij-88swat7vQ4iNaNp6gd39g
 source: gdoc
 tags:
   - Society
@@ -38,7 +37,7 @@ In any case, you read with exasperation or amusement the multiple errors in a st
 
 The book in question is little-known author Joseph Bronski’s _An Empirical Introduction to Youth_. I was interested, so I read the book. Reading it convinced me that it’s the most important book written in 2021; it may even be the most important book of the decade. Neither a psychoanalytic, pseudo-fictional drama about agency, nor a book comparing healthcare systems , nor an overly optimistic literature review on rapamycin, nor any sort of tome of antiquated pseudoscience, nor any book of anecdote or fiction could be argued to be more important. In calculated terms of utilitarian impact,  this book could massively improve the lives of at [least 1.2 billion people](https://data.unicef.org/topic/adolescents/overview/) _right now,_ plus countless more in the future_._ All of that with just a few positive policy changes that cost nothing, (less than nothing, even, they have _negative cost)_ policy changes which repeal and replace certain social systems which were founded on greed and ignorance. Let me explain.
 
-![](https://acximages.ennals.org/images/2022-book-reviews/a21c282d205c98e6.png)
+![](https://acximages.ennals.org/images/2022-book-reviews/7ce968b578043568.png)
 
 The reason why it’s so important is as follows: imagine if it was all fake, if the entire social construction of your youth were created top-down. High school, college, prom night, Shakespeare, parents, your first job, teenage love – everything was a mirage, a Matrix-like prison environment, totally artificial, not at all natural. Now imagine that every age restriction, every punishment, every coercive demand – what if you were essentially the same as a 25 year old? Would it not be a massive human rights violation to demand that 25 year olds sit in certain government-run facilities for 40 hours a week, that they must not be allowed to own anything, that older people must tell them what to do at every moment, at home and at the facility? Such a policy applied to 25 year olds would be seen as the most massive human rights violation in the entirety of Western civilization, were it applied in a Western country.
 
@@ -48,7 +47,7 @@ This book contains an empirical examination of the history of youth norms, the r
 
 The book contains five chapters: A Summary of Historical Youth Norms, Education, Development, The Teen Brain Meme, and Applications. The first chapter provides evidence that post-modern youth is largely ahistorical – this chart on Ancient Roman marriage sums it up well:
 
-![](https://acximages.ennals.org/images/2022-book-reviews/50b93c384b00d865.png)
+![](https://acximages.ennals.org/images/2022-book-reviews/f59f5d4bfba0bb91.png)
 
 The author thoroughly argues that Ancient youth was essentially young adulthood. While aristocrats considered those under 25 too immature to rule the Roman Republic, virtually no other responsibilities were off-limits starting with the assumption of the adult garment around the age of 15. Youth in their mid-teens would marry, live alone, travel for education, work for a living, hold minor office, serve in the military, and more.
 
@@ -88,11 +87,11 @@ The second obvious thing about this copypasta is that no references are cited. T
 
 This was shown in An Empirical Introduction to Youth via the only way that it can be: going through every citation. Still, here are a few examples. Let’s just look at the first three citations, a fair random sample:
 
-> 1.  Giedd et. al say “In addition to doubling in size, the brain’s surface folds become much more complicated [this means surface area increases, increased surface area means more brain power, see Wikipedia] … from birth to young adulthood. … The complexity of the folding patterns becomes increasingly obvious in the parts of the brain … that process cognitive and emotional information … those parts … show the greatest changes in adolescence … the evolving pattern of folds and crevices reaches a peak and levels off by the late teens, after which it remains stable throughout adult life.” Their citation (Chi et al. 1977) only includes subjects up to the age of 44 weeks after conception. Meanwhile, a 2014 study actually contradicted their claim: surface area increased up to 12 years of age and then decreased afterwards until at least the age of 40 (Schnack et al. 2015).
->
-> 2.  Next they assert that “Studies of the brains of humans and of nonhuman primates have revealed dramatic evidence that the number of synapses changes during the first two decades of life … [with] stabilization of the maturation process by early adult life.” In their lexicon, “early adult” means the twenties, but the study that was cited for this claim says “Synaptic density was constant throughout adult life (ages 16--72 years).” (Huttenlocher 1979) So either the authors were wrong or they agree with my thesis that the brain is developed by the end of puberty at 14-16 years old. Keep in mind that they trash 16 year olds in their paper and were not at all clear about exactly when their citation actually shows brain maturation.
->
-> 3.  They continue by stating that “From birth to early adulthood, most of the pruning, or loss, of synapses involves excitatory synapses … Thus, the brain by early adulthood appears to have undergone a reorganization of synaptic balance such that, … there is much greater weight on the inhibitory side and less weight on the excitatory side.” This is based off of a study of Rhesus monkeys that found pruning of the neurons in question was finished by 5 years of age, those monkeys being in puberty, like 13 year old humans (Lidow et al. 1991). Again Giedd et al. have overstated the length of time during which the metric in question is in development. The most charitable explanation would be to conclude that the writer believes 13 year olds to be in “early adulthood.” (Here is Giedd et al.’s paper if you want to see the context for more clarity).
+1.  Giedd et. al say “In addition to doubling in size, the brain’s surface folds become much more complicated [this means surface area increases, increased surface area means more brain power, see Wikipedia] … from birth to young adulthood. … The complexity of the folding patterns becomes increasingly obvious in the parts of the brain … that process cognitive and emotional information … those parts … show the greatest changes in adolescence … the evolving pattern of folds and crevices reaches a peak and levels off by the late teens, after which it remains stable throughout adult life.” Their citation (Chi et al. 1977) only includes subjects up to the age of 44 weeks after conception. Meanwhile, a 2014 study actually contradicted their claim: surface area increased up to 12 years of age and then decreased afterwards until at least the age of 40 (Schnack et al. 2015).
+
+2.  Next they assert that “Studies of the brains of humans and of nonhuman primates have revealed dramatic evidence that the number of synapses changes during the first two decades of life … [with] stabilization of the maturation process by early adult life.” In their lexicon, “early adult” means the twenties, but the study that was cited for this claim says “Synaptic density was constant throughout adult life (ages 16--72 years).” (Huttenlocher 1979) So either the authors were wrong or they agree with my thesis that the brain is developed by the end of puberty at 14-16 years old. Keep in mind that they trash 16 year olds in their paper and were not at all clear about exactly when their citation actually shows brain maturation.
+
+3.  They continue by stating that “From birth to early adulthood, most of the pruning, or loss, of synapses involves excitatory synapses … Thus, the brain by early adulthood appears to have undergone a reorganization of synaptic balance such that, … there is much greater weight on the inhibitory side and less weight on the excitatory side.” This is based off of a study of Rhesus monkeys that found pruning of the neurons in question was finished by 5 years of age, those monkeys being in puberty, like 13 year old humans (Lidow et al. 1991). Again Giedd et al. have overstated the length of time during which the metric in question is in development. The most charitable explanation would be to conclude that the writer believes 13 year olds to be in “early adulthood.” (Here is Giedd et al.’s paper if you want to see the context for more clarity).
 
 Like I said, this is only the first three citations. Every citation is like this. Every. Single. One. And Bronski goes through them all in An Empirical Introduction to Youth.
 
@@ -108,7 +107,7 @@ The study found that “Overall, the total [gray matter] volume was found to inc
 
 Except Giedd obviously thinks that adolescence concludes at 13 or 14, based on the scatter plots he was nice enough to provide:
 
-![](https://acximages.ennals.org/images/2022-book-reviews/fea763f478cb3e6e.png)
+![](https://acximages.ennals.org/images/2022-book-reviews/8154a560eeeeda44.png)
 
 Even _his line_ hits its low point at like 15. Earlier than that even. Look at the dots though. Look at those things. LOL? (Y axis is GM and X axis is age by the way).
 
@@ -116,7 +115,7 @@ While we’re here, I will mention that this is The Study from which the “the 
 
 Next let’s look at the myelination of the frontal lobe, aka the development of white matter. In all parts of the brain, myelination begins in infancy and continues until the mid forties.
 
-![](https://acximages.ennals.org/images/2022-book-reviews/11a6c44b13b68dc2.png)
+![](https://acximages.ennals.org/images/2022-book-reviews/29a938b6434fbf44.png)
 
 In contrast, gray matter accumulates during childhood, and starting at puberty, it starts to be lost, and will continue to be lost until death.
 
@@ -134,21 +133,21 @@ Driving is another high pressure activity. Are teens innately bad at it? Of cour
 
 The finding that teens are at least equal in driving abilities when compared older people with the same level of experience is replicated by a 2015 study:
 
-![](https://acximages.ennals.org/images/2022-book-reviews/21219e0a24edacb6.png)
+![](https://acximages.ennals.org/images/2022-book-reviews/15230dcc19362902.png)
 
 British driving data backs us up further. Youth are more likely to pass the driving test, possibly indicating greater mental fitness compared to more aged participants.
 
-![](https://acximages.ennals.org/images/2022-book-reviews/c5e32306d1dd77dd.png)
+![](https://acximages.ennals.org/images/2022-book-reviews/c7c5eb12966ca133.png)
 
 Also of interest are British drunk-driving figures. One major justification for raising the drinking age to 21 all across the United States was to destroy “blood barriers,” areas on state borders where youth would, allegedly, frequently drive drunk due to having to drive to another state to go to a bar, as some states had 21 as the drinking age and others had it at 18. This begs the question though, why not, in keeping with the spirit of the 26th amendment, require a uniform drinking age of 18 instead of 21? The common answer was that, supposedly, 18-20 year olds are immature and therefore more likely to drive drunk even if they have legal, local access to alcohol. Britain allows us to test this idea, since anyone over 18 can drink alcohol and have a driver’s license.
 
-![](https://acximages.ennals.org/images/2022-book-reviews/eda309f69f3ed4cf.png)
+![](https://acximages.ennals.org/images/2022-book-reviews/9aaa70d2474300d9.png)
 
 It appears that 25-29 year olds are the most likely age group to drive drunk in the UK. Hm.
 
 We now move on to laboratory literature mainly focused on “adolescent risk taking.” This literature is somewhat well developed and attempts to measure “hot judgment ability.” One study in this literature measured the ability of teens and older people to delay a $1000 dollar award by offering them cheaper rewards immediately. A “discount rate” was calculated based on how little money they were willing to go to get the money immediately.
 
-![](https://acximages.ennals.org/images/2022-book-reviews/5d75092a01c331a6.png)
+![](https://acximages.ennals.org/images/2022-book-reviews/f1d1094b51b2a239.png)
 
 The results show that maturity on this metric is reached by the age of 16, indicating that 16 year olds can handle full financial rights.
 

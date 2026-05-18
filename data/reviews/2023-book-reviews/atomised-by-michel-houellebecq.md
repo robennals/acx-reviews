@@ -9,15 +9,14 @@ publishedDate: '2026-02-06T07:21:10.022Z'
 slug: atomised-by-michel-houellebecq
 wordCount: 5205
 readingTimeMinutes: 24
-originalUrl: >-
-  https://docs.google.com/document/d/10CiEI7aDL2bMIdx7yayy3vlq0TJ8dO5LGnG7yIDPiw8
+originalUrl: https://docs.google.com/document/d/10CiEI7aDL2bMIdx7yayy3vlq0TJ8dO5LGnG7yIDPiw8
 source: gdoc
 tags:
   - Fiction
   - Society
 ---
 
-The French author Michel Houellebecq is the epitome of an _enfant_ _terrible._ No one is as controversial as he is; almost no one sells as many books. His literary method is best captured in one of his early essays, _To Stay Alive_, where he writes:  
+The French author Michel Houellebecq is the epitome of an _enfant_ _terrible._ No one is as controversial as he is; almost no one sells as many books. His literary method is best captured in one of his early essays, _To Stay Alive_, where he writes:    
 
 > Every society has its points of least resistance, its sore spots. Put your finger on the wound and press good and hard. Dig deeper into the subjects no one wants to talk about. Behind the scenes, the underside of the decor. Insist upon malady, agony, ugliness. Talk about death and oblivion. About jealousy, indifference, frustration, the absence of love. Be abject, you will be true.
 

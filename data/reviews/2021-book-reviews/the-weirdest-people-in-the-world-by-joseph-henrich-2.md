@@ -1,16 +1,16 @@
 ---
-title: "The WEIRDEST People in the World by Joseph Henrich"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2021-book-reviews"
-contestName: "2021 Book Reviews"
+title: The WEIRDEST People in the World by Joseph Henrich
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2021-book-reviews
+contestName: 2021 Book Reviews
 year: 2021
-publishedDate: "2021-01-01T00:00:00.000Z"
-slug: "the-weirdest-people-in-the-world-by-joseph-henrich-2"
-wordCount: 2972
+publishedDate: '2021-01-01T00:00:00.000Z'
+slug: the-weirdest-people-in-the-world-by-joseph-henrich-2
+wordCount: 2957
 readingTimeMinutes: 14
-originalUrl: "https://docs.google.com/document/d/1M1m8o1HInGYJR3cEMYZ6TQgNmeBOWo98YC6djNnFWf0"
-source: "gdoc"
+originalUrl: https://docs.google.com/document/d/1M1m8o1HInGYJR3cEMYZ6TQgNmeBOWo98YC6djNnFWf0
+source: gdoc
 tags:
   - Psychology
   - History
@@ -27,11 +27,11 @@ I.
 
 Did you know Westerns are WEIRD compared to others? Henrich frames his initial beef as one with the misapplication of academic psychology research. Unique human psychology findings from a Western university lab experiment don’t necessarily apply to people born outside of the Western world, and certainly don’t necessarily reflect innate human nature. Consider:
 
-> 1.  WEIRD (Western Educated Industrialized Rich and Democratic societies) are less likely, in lab experiments, to conform to a group (the Asch Conformity Experiment). Japanese subjects are about 1.6x more likely to conform (than WEIRD ones), Brazilian subjects about 1.7x more likely, and Zimbabweans about 3x more likely.
-> 2.  WEIRD subjects are relatively more patient, measured by willingness to wait for money (think an adult version of the “marshmallow test”). A Swede will forgo $100 now to receive $144 in a year. But globally, the average person requires $189 in a year to give up $100 now, and the far-end of the spectrum (Rwanda) requires $212. (According to Henrich, the figures were adjusted for local currency and purchasing power.)
-> 3.  WEIRD subjects are less likely to lie in dice rolling experiments when lying is anonymous and also gets you more money. (The lying can be measured by an aggregate statistical analysis, i.e., whether higher numbered die were over-reported relative to baseline aggregate probability.)
-> 4.  In a hypothetical prompt, 80-100% of WEIRD subjects believe that their friend has no right to expect them to falsely testify in a trial so that the friend avoids legal punishment. That’s about double the rate of India/China subjects, who are more likely to lie for their friend.
-> 5.  WEIRD subjects are 50%-100% more “analytical” rather than “holistic” in their thinking; for example, in a “triad test”, WEIRD folks would pair a rabbit with a cat (two animals) instead of a rabbit with a carrot (rabbit eats carrot).
+1.  WEIRD (Western Educated Industrialized Rich and Democratic societies) are less likely, in lab experiments, to conform to a group (the Asch Conformity Experiment). Japanese subjects are about 1.6x more likely to conform (than WEIRD ones), Brazilian subjects about 1.7x more likely, and Zimbabweans about 3x more likely.
+2.  WEIRD subjects are relatively more patient, measured by willingness to wait for money (think an adult version of the “marshmallow test”). A Swede will forgo $100 now to receive $144 in a year. But globally, the average person requires $189 in a year to give up $100 now, and the far-end of the spectrum (Rwanda) requires $212. (According to Henrich, the figures were adjusted for local currency and purchasing power.)
+3.  WEIRD subjects are less likely to lie in dice rolling experiments when lying is anonymous and also gets you more money. (The lying can be measured by an aggregate statistical analysis, i.e., whether higher numbered die were over-reported relative to baseline aggregate probability.)
+4.  In a hypothetical prompt, 80-100% of WEIRD subjects believe that their friend has no right to expect them to falsely testify in a trial so that the friend avoids legal punishment. That’s about double the rate of India/China subjects, who are more likely to lie for their friend.
+5.  WEIRD subjects are 50%-100% more “analytical” rather than “holistic” in their thinking; for example, in a “triad test”, WEIRD folks would pair a rabbit with a cat (two animals) instead of a rabbit with a carrot (rabbit eats carrot).
 
 Compared to non-WEIRDers, WEIRD people are:
 
@@ -47,11 +47,11 @@ So WEIRD people have very different cultures and personalities than others. But 
 
 First, a quick example of his overall “cultural evolution” framework. In Henrich’s model, different cultures develop different cultural norms, but within a dynamic process where the culture is also competing with other cultures, resulting in cultural selection pressures (akin to survival of the fittest culture). Henrich recounts an illustrative New Guinea example:
 
-> 1.  New Guinea villages had a maximum of 300 people, about 80 of which were male. When villages grew larger than that, social ruptures tended to follow -- as though there was an “invisible ceiling” on the scale of human cooperation in New Guinea.
-> 2.  But one community, Ilahita, was an exception. Ilahita had a population of about 2,500.
-> 3.  Anthropologist Donal Tuzin explains the exception by reference to a unique cultural package within Ilahita, largely related to institutionalizing more cross-cleavages within that population. As described, a family might belong to “subgroup A-2”, which meant it interacted with a broader community of other A’s (not all of which were also “2’s”) **and** interacted with a broader community of other 2’s (not all of which were also “A’s”), meaning the entire community was interconnected, but in a relatively random way. This is intuitively familiar to us moderns, who have our family group, work group, social group, sports team group, etc., in each case with only some overlap. But maybe it was less common in historical human societies. (The anthropologist and Henrich discuss other cohesion mechanisms, like adolescent rituals, that I’m giving short shrift to.)
-> 4.  These cross-cleavages allowed Ilahita to scale to a higher population than other villages that were organized exclusively (or more-so) on family/clan grounds.
-> 5.  Why did Ilahita have these successful customs, such as cross-cleavages, but other villages didn’t? Apparently around 1870 the Ilahita leaders learned and copied some rituals from another successful group (the Abelam), but made errors doing so. Those copying errors turned out to work even better than the original customs, and thus proliferated. An accidental muttation, but one that happened to be useful.
+1.  New Guinea villages had a maximum of 300 people, about 80 of which were male. When villages grew larger than that, social ruptures tended to follow -- as though there was an “invisible ceiling” on the scale of human cooperation in New Guinea.
+2.  But one community, Ilahita, was an exception. Ilahita had a population of about 2,500.
+3.  Anthropologist Donal Tuzin explains the exception by reference to a unique cultural package within Ilahita, largely related to institutionalizing more cross-cleavages within that population. As described, a family might belong to “subgroup A-2”, which meant it interacted with a broader community of other A’s (not all of which were also “2’s”) **and** interacted with a broader community of other 2’s (not all of which were also “A’s”), meaning the entire community was interconnected, but in a relatively random way. This is intuitively familiar to us moderns, who have our family group, work group, social group, sports team group, etc., in each case with only some overlap. But maybe it was less common in historical human societies. (The anthropologist and Henrich discuss other cohesion mechanisms, like adolescent rituals, that I’m giving short shrift to.)
+4.  These cross-cleavages allowed Ilahita to scale to a higher population than other villages that were organized exclusively (or more-so) on family/clan grounds.
+5.  Why did Ilahita have these successful customs, such as cross-cleavages, but other villages didn’t? Apparently around 1870 the Ilahita leaders learned and copied some rituals from another successful group (the Abelam), but made errors doing so. Those copying errors turned out to work even better than the original customs, and thus proliferated. An accidental muttation, but one that happened to be useful.
 
 III.
 
@@ -59,10 +59,10 @@ So human history includes culture competition and cultural evolution. Still, as 
 
 Here are some traits of the familial (or kinship) approach to culture:
 
-> 1.  Newly married couples set up residence near one person’s (usually groom’s) parents.
-> 2.  Inheritance of property after death is totally familial, usually via your father. (Admittedly inheritance is still mostly familial, but that’s at least an option in modern society.)
-> 3.  “Corporate” (or collectivist) notions of responsibility for each family and clan. “_If someone kills someone from your clan (even accidentally) - their entire clan is responsible for paying blood money._” If they don’t, _your entire clan_ is responsible for a revenge killing.
-> 4.  Marriages: Often there are taboos _against_ marrying a sibling. But then norms _in favor_ of marrying a relative like a cousin (or second cousin). Henrich also flags the widespread popularity of “levirate marriage”; if a husband dies, then the wife _has_ to marry one of his brothers or cousin-brothers, in order to maintain the familial link established by the original marriage.
+1.  Newly married couples set up residence near one person’s (usually groom’s) parents.
+2.  Inheritance of property after death is totally familial, usually via your father. (Admittedly inheritance is still mostly familial, but that’s at least an option in modern society.)
+3.  “Corporate” (or collectivist) notions of responsibility for each family and clan. “_If someone kills someone from your clan (even accidentally) - their entire clan is responsible for paying blood money._” If they don’t, _your entire clan_ is responsible for a revenge killing.
+4.  Marriages: Often there are taboos _against_ marrying a sibling. But then norms _in favor_ of marrying a relative like a cousin (or second cousin). Henrich also flags the widespread popularity of “levirate marriage”; if a husband dies, then the wife _has_ to marry one of his brothers or cousin-brothers, in order to maintain the familial link established by the original marriage.
 
 None of the above is in any way universal, tribes everywhere differ, etc., but I take it as a rough picture of relatively common pre-modern practices. Some of these practices are still common today in non-Western places. Pre-Catholic takeover, European tribes mostly reflected the above: Kinship-based units collectively owned territories, provided social identities, adjudicated disputes, provided protection and health care, and arranged marriages. High-status European men married multiple wives.
 
@@ -106,13 +106,12 @@ _If a team of alien anthropologists had surveyed humanity from orbit in 1000 CE,
 
 Does Catholicism, family marriage policy, protestantism, and the resulting cultural psychology changes explain Europe’s post-1200 trajectory? Does our propensity to marry our cousin (and that of our great-great-great-etc. grandparents) represent a fundamental break in our history? Henrich’s account seems facially plausible, even if it needs further testing and scrutiny from sociologists, anthropologists, statisticians, and historians. And even if this particular theory is shown invalid, it may still endure by drawing attention to “cultural evolution” and the interplay between cultural institutions and underlying human psychology. Did the European cultural “advances” make Westerners lonelier and sadder while simultaneously richer? Did the human experiment ultimately benefit from the change, or will {nuclear annihilation, global climate change, or AI singularity} ultimately show the folly of breaking down kinship bonds? Henrich doesn’t go there. But such is our luck, good and bad, to be born into the WEIRD lineage. We may eventually realize our psychological approach to the world, just like our physical bodies themselves, resulted from the combination of luck, mutation, and incremental change that underpins most evolved outcomes.
 
-*\*\*
-
+* * *
 Endnotes:
 
-> 1.  I should add a global cautionary note that Henrich is often more measured in his conclusions than my summary indicates. For the most part, this isn’t because I disagree with Henrich, but rather want this idea to be easily digested without bogging this summary down with endless qualifications. But also to say that if your primary objection to something is “this seems to be overstating the case”, that’s probably an objection against my summary more than Henrich’s work.
-> 2.  Henrich devotes some pages to discussing polgyamy, arguing that it was probably the natural state of human sexuality and monogamy is deviant. There is already a blog post that Henrich “Gets polygyny wrong.” Although I’m by no means an expert, my understanding of the issue (the prevalence of polygyny v. monogamy in early civilization and pre-civilization) is also softer than Henrich’s, primarily influenced by Sapolsky’s _Behave_ and Geoffrey Miller’s _The Mating Mind_. [https://traditionsofconflict.com/blog/2020/9/8/the-weirdest-people-in-the-world-gets-polygyny-wrong](https://traditionsofconflict.com/blog/2020/9/8/the-weirdest-people-in-the-world-gets-polygyny-wrong)
-> 3.  Why did the Catholic Church care about this kinship marriage stuff, and other religions didn’t? Henrich has some pages on this, although he also seems to treat it as a stochastic event (remember the bit earlier about cultural mutations for the New Guinea tribes). I don't think explaining the origin is actually all that important or central to his argument.
+1.  I should add a global cautionary note that Henrich is often more measured in his conclusions than my summary indicates. For the most part, this isn’t because I disagree with Henrich, but rather want this idea to be easily digested without bogging this summary down with endless qualifications. But also to say that if your primary objection to something is “this seems to be overstating the case”, that’s probably an objection against my summary more than Henrich’s work.
+2.  Henrich devotes some pages to discussing polgyamy, arguing that it was probably the natural state of human sexuality and monogamy is deviant. There is already a blog post that Henrich “Gets polygyny wrong.” Although I’m by no means an expert, my understanding of the issue (the prevalence of polygyny v. monogamy in early civilization and pre-civilization) is also softer than Henrich’s, primarily influenced by Sapolsky’s _Behave_ and Geoffrey Miller’s _The Mating Mind_. [https://traditionsofconflict.com/blog/2020/9/8/the-weirdest-people-in-the-world-gets-polygyny-wrong](https://traditionsofconflict.com/blog/2020/9/8/the-weirdest-people-in-the-world-gets-polygyny-wrong)
+3.  Why did the Catholic Church care about this kinship marriage stuff, and other religions didn’t? Henrich has some pages on this, although he also seems to treat it as a stochastic event (remember the bit earlier about cultural mutations for the New Guinea tribes). I don't think explaining the origin is actually all that important or central to his argument.
 
 * * *
 

@@ -7,29 +7,28 @@ contestName: 2025 Non Book Reviews
 year: 2025
 publishedDate: '2026-02-06T16:55:03.481Z'
 slug: nicotine-as-a-nootropic
-wordCount: 1511
+wordCount: 1502
 readingTimeMinutes: 7
-originalUrl: >-
-  https://docs.google.com/document/d/1a3q0Z2tuPLLbDeg5-pfEffkajGjrfPDwE7ZMs7uaWQs
+originalUrl: https://docs.google.com/document/d/1a3q0Z2tuPLLbDeg5-pfEffkajGjrfPDwE7ZMs7uaWQs
 source: gdoc
 tags:
   - Science
 ---
 
-_TLDR: Nicotine is mostly wrongly vilified; its big issue is a short half-life that foments chronic re-dosing. Addiction potential is a function of net time to hit your bloodstream (inhalation/smoking > buccal administration/snus/dip > nicotine gums > transdermal patches). Be careful with chronically elevated nicotine levels, which can engender higher baseline levels of neural excitation (mechanisms explicated below) and is a primary mediator of addiction reinforcement. Otherwise, it’s a powerful, angiogenic nootropic that is useful with perspicacious use. But as always, you’re modifying a vastly complex biochemical system with countless reflexive feedback loops, so who knows._
-
-* * *
+> _TLDR: Nicotine is mostly wrongly vilified; its big issue is a short half-life that foments chronic re-dosing. Addiction potential is a function of net time to hit your bloodstream (inhalation/smoking > buccal administration/snus/dip > nicotine gums > transdermal patches). Be careful with chronically elevated nicotine levels, which can engender higher baseline levels of neural excitation (mechanisms explicated below) and is a primary mediator of addiction reinforcement. Otherwise, it’s a powerful, angiogenic nootropic that is useful with perspicacious use. But as always, you’re modifying a vastly complex biochemical system with countless reflexive feedback loops, so who knows._
+>
+> * * *
 
 If you refer to my admittedly indulgent list of “[apodictic truths](https://panpharmacon.substack.com/p/operating-assumptions)”, I make the point that “(d)opaminergics are a dual-edged sword and extreme caution is warranted.” While nicotine is more rightly classified as a cholinergic, it does elicit a strong dopamine response via mechanisms downstream of nicotinic acetylcholine receptor (nAChR) activation. This ultimately begets dopamine tolerance and an attendant progressive attenuation of reward-prediction error in the mesolimbic pathway. If you want the mechanistic details, read the [wikipedia](https://en.wikipedia.org/wiki/Nicotine#:~:text=Nicotine%20is%20a%20naturally%20produced,cessation%20to%20relieve%20withdrawal%20symptoms.) page or, better yet, the [Examine.com](https://examine.com/supplements/nicotine/) page.
 
 A few relevant details on nicotine pharmacokinetics:
 
-> *   Half-life: 1-2 hours
-> *   Duration of Action: .5-1.5 hour (typically contingent on tolerance in naive vs chronic users)
-> *   Metabolism: mostly in the liver via [CYP2A6](https://en.wikipedia.org/wiki/CYP2A6), [CYP2B6](https://en.wikipedia.org/wiki/CYP2B6), [FMO3](https://en.wikipedia.org/wiki/FMO3)
-> *   Major metabolite: Cotinine (also a nAChR agonist w/ a weaker affinity and ~20 hour half-life)
+*   Half-life: 1-2 hours
+*   Duration of Action: .5-1.5 hour (typically contingent on tolerance in naive vs chronic users)
+*   Metabolism: mostly in the liver via [CYP2A6](https://en.wikipedia.org/wiki/CYP2A6), [CYP2B6](https://en.wikipedia.org/wiki/CYP2B6), [FMO3](https://en.wikipedia.org/wiki/FMO3)
+*   Major metabolite: Cotinine (also a nAChR agonist w/ a weaker affinity and ~20 hour half-life)
 
-![](https://acximages.ennals.org/images/2025-non-book-reviews/31d99d9165a3cb1b.png)
+![](https://acximages.ennals.org/images/2025-non-book-reviews/5b4a5a0e13f643f2.png)
 
 _Source_ _[link](https://www.grandviewresearch.com/industry-analysis/e-cigarette-vaping-market)_
 
@@ -45,16 +44,16 @@ nAChR’s are located through the body and are involved in autonomic and somatic
 
 Anyways, we’ll focus on two receptor subtypes located in the CNS/brain that are germane to nicotine activation:
 
-> *   (α4)2(β2)3
-> *   (α7)5
+*   (α4)2(β2)3
+*   (α7)5
 
 The first is expressed at a higher density in GABAergic neurons (activation of these neurons elicits GABA release synaptically and—as an epiphenomenon—extra-synaptically as well to mediate tonic inhibition). α4-containing AChRs are desensitized to ligands like nicotine rapidly (via receptor internalization typically) and only re-sensitize after ~1 hour, though this is obviously person-dependent. Conversely, α7-containing AChRs desensitize much more slowly and re-sensitize on the order of ~2 minutes. A principal difference is that α7-containing AChRs are present in higher densities on glutaminergic neurons extending from the ventral tegmental area (VTA) to the prefrontal cortex (PFC), and α4-containing AChRs are primarily expressed on afferent and interneuron GABAergic cells extending from the nucleus accumbens (NAcc) to the VTA. See the diagram below taken from [this](https://pubmed.ncbi.nlm.nih.gov/11906697/#:~:text=The%20net%20effect%20is%20a,to%20reinforce%20nicotine%20self%2Dadministration.) 2002 paper in Neuron.
 
-![](https://acximages.ennals.org/images/2025-non-book-reviews/9ec7f5042036003b.jpg)
+![](https://acximages.ennals.org/images/2025-non-book-reviews/a40a9bd9ff5317af.jpg)
 
 So what’s the problem? The problem is that with recurrent nicotine dosing, α4-containing AChRs are activated and rapidly desensitized, leading to a transient spike in GABA release (net inhibitory, anxiolytic). Activation of α7-containing AChR, on the obverse, causes a more durable spike in glutamate (net excitatory, anxiogenic) (see the upper right hand graph and diagram below). The ‘LTP’ in the figure stands for “long term potentiation”. With chronically elevated levels as with smoking/vaping/dipping (or especially ebullient Nicorette chewing), the baseline firing threshold is increased (think about the membrane potential with a higher propensity to depolarize and fire that we spoke about earlier).
 
-![](https://acximages.ennals.org/images/2025-non-book-reviews/2eebbe8ed5968111.jpg)
+![](https://acximages.ennals.org/images/2025-non-book-reviews/683f3cf31ae24a67.jpg)
 
 _Source_ _[here](https://pubmed.ncbi.nlm.nih.gov/11906697/#:~:text=The%20net%20effect%20is%20a,to%20reinforce%20nicotine%20self%2Dadministration.)_
 
@@ -70,9 +69,9 @@ So, the primary takeaway is if you’re going to use nicotine, use it on a _pro 
 
 I have a few other ancillary concerns about nicotine that I’ve enumerated below:
 
-> 1.  LTP with chronic use could lead to glutamate-induced [excitotoxicity](https://en.wikipedia.org/wiki/Excitotoxicity) and could very plausibly affect sleep architecture.
-> 2.  Nicotine induces a transient prolactin release, which returns to baseline after ~2 hours. This is odd as dopamine inhibits prolactin release from the hypothalamus and the two tend to be inversely correlated.
-> 3.  Testosterone may be affected by nicotine. Rat studies show a drop in serum testosterone after chronic use, but correlational human studies show that smokers tend to have higher levels of circulating testosterone. See below for speculation on why.
-> 4.  Complex interactions with estrogen and aromatase: per [Examine](https://examine.com/supplements/nicotine/research/#8lraAJ9-neurology-addiction_8lraAJ9-mechanisms):  
->     The ability of Nicotine (and related nicotine alkaloids, when looking at smoking studies) to inhibit the Aromatase enzyme may cause a shift towards androgens rather than estrogens over time. The degree of change noted in these studies may be higher than can be accredited to nicotine due to other tobacco alkaloids … Nicotine appears to act as an estrogen receptor antagonist, and can inhibit the signaling pathways of estrogen; It shows preference for ER-ß rather than the alpha subunit (the latter being associated with classical 'effects of estrogen'). The estrogen receptor subunit inhibited is the one associated with positive effects in both genders
-> 5.  Cotinine (~20 hour half-life) and nicotine probably inhibit 3α-hydroxysteroid dehydrogenase (3α-HSD) fairly [potently](https://www.sciencedirect.com/science/article/abs/pii/S0024320588800018). This is an crucial enzyme in the metabolism of dihydrotestosterone (DHT, or something that you’re likely concerned about vis-a-vis hair loss), but more importantly it also synthesizes critical neurosteroids like [allopregnanolone](https://en.wikipedia.org/wiki/Allopregnanolone) (a GABA(A) positive allosteric modulator and a nAChR negative allosteric modulator).
+1.  LTP with chronic use could lead to glutamate-induced [excitotoxicity](https://en.wikipedia.org/wiki/Excitotoxicity) and could very plausibly affect sleep architecture.
+2.  Nicotine induces a transient prolactin release, which returns to baseline after ~2 hours. This is odd as dopamine inhibits prolactin release from the hypothalamus and the two tend to be inversely correlated.
+3.  Testosterone may be affected by nicotine. Rat studies show a drop in serum testosterone after chronic use, but correlational human studies show that smokers tend to have higher levels of circulating testosterone. See below for speculation on why.
+4.  Complex interactions with estrogen and aromatase: per [Examine](https://examine.com/supplements/nicotine/research/#8lraAJ9-neurology-addiction_8lraAJ9-mechanisms):  
+    The ability of Nicotine (and related nicotine alkaloids, when looking at smoking studies) to inhibit the Aromatase enzyme may cause a shift towards androgens rather than estrogens over time. The degree of change noted in these studies may be higher than can be accredited to nicotine due to other tobacco alkaloids … Nicotine appears to act as an estrogen receptor antagonist, and can inhibit the signaling pathways of estrogen; It shows preference for ER-ß rather than the alpha subunit (the latter being associated with classical 'effects of estrogen'). The estrogen receptor subunit inhibited is the one associated with positive effects in both genders
+5.  Cotinine (~20 hour half-life) and nicotine probably inhibit 3α-hydroxysteroid dehydrogenase (3α-HSD) fairly [potently](https://www.sciencedirect.com/science/article/abs/pii/S0024320588800018). This is an crucial enzyme in the metabolism of dihydrotestosterone (DHT, or something that you’re likely concerned about vis-a-vis hair loss), but more importantly it also synthesizes critical neurosteroids like [allopregnanolone](https://en.wikipedia.org/wiki/Allopregnanolone) (a GABA(A) positive allosteric modulator and a nAChR negative allosteric modulator).

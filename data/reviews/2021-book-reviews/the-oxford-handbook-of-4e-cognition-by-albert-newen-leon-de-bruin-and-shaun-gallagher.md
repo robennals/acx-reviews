@@ -1,16 +1,16 @@
 ---
-title: "The Oxford Handbook of 4E Cognition by Albert Newen, Leon de Bruin, and Shaun Gallagher"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2021-book-reviews"
-contestName: "2021 Book Reviews"
+title: The Oxford Handbook of 4E Cognition by Albert Newen, Leon de Bruin, and Shaun Gallagher
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2021-book-reviews
+contestName: 2021 Book Reviews
 year: 2021
-publishedDate: "2021-01-01T00:00:00.000Z"
-slug: "the-oxford-handbook-of-4e-cognition-by-albert-newen-leon-de-bruin-and-shaun-gallagher"
-wordCount: 5429
+publishedDate: '2021-01-01T00:00:00.000Z'
+slug: the-oxford-handbook-of-4e-cognition-by-albert-newen-leon-de-bruin-and-shaun-gallagher
+wordCount: 5431
 readingTimeMinutes: 25
-originalUrl: "https://docs.google.com/document/d/1M1m8o1HInGYJR3cEMYZ6TQgNmeBOWo98YC6djNnFWf0"
-source: "gdoc"
+originalUrl: https://docs.google.com/document/d/1M1m8o1HInGYJR3cEMYZ6TQgNmeBOWo98YC6djNnFWf0
+source: gdoc
 tags:
   - Philosophy
   - Psychology
@@ -19,11 +19,11 @@ tags:
 
 **Abstract:** The “4E” approach to cognition argues that cognition does not occur solely in the head, but is also embodied, embedded, enacted, or extended by way of extra-cranial processes and structures. Though very much in vogue, 4E cognition has received relatively few critical evaluations. This review performs such an evaluation with reference to The Oxford Handbook of 4E Cognition, which represents the most recent research in this area
 
-**Book under review**
+## Book under review
 
 Albert Newen, Leon de Bruin, and Shaun Gallagher. 2018. The Oxford Handbook of 4E Cognition. Oxford: Oxford University Press. 960 pages. Hardcover $165.00.
 
-**Review**
+## Review
 
 We have categories for three types of cognition: organic, artificial, and supernatural. Most organic cognition that we know of is carried out by fish and arthropods, which together make up eighty-five percent of Earth’s non-vegetable biomass (Bar-On, Phillips, and Milo 2018). Artificial cognition is relatively new, but already able to outperform human judgment in a range of specialized tasks (Goodfellow, Bengio, and Courville 2016). We have no evidence whatsoever that supernatural cognition exists, and it would probably do us a great deal of good to stop looking for it.
 

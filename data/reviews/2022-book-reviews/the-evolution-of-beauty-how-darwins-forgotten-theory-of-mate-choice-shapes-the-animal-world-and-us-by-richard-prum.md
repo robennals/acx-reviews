@@ -1,19 +1,15 @@
 ---
-title: >-
-  The Evolution of Beauty: How Darwin's Forgotten Theory of Mate Choice Shapes
-  the Animal World - And Us by Richard Prum
+title: 'The Evolution of Beauty: How Darwin''s Forgotten Theory of Mate Choice Shapes the Animal World - And Us by Richard Prum'
 author: Unknown
 reviewAuthor: Anonymous
 contestId: 2022-book-reviews
 contestName: 2022 Book Reviews
 year: 2022
 publishedDate: '2026-02-06T07:22:32.824Z'
-slug: >-
-  the-evolution-of-beauty-how-darwins-forgotten-theory-of-mate-choice-shapes-the-animal-world-and-us-by-richard-prum
+slug: the-evolution-of-beauty-how-darwins-forgotten-theory-of-mate-choice-shapes-the-animal-world-and-us-by-richard-prum
 wordCount: 1309
 readingTimeMinutes: 6
-originalUrl: >-
-  https://docs.google.com/document/d/100kMdSVFviZSSBvUyyEQPMNlvLptVQxHFD9i9wGuBWs
+originalUrl: https://docs.google.com/document/d/100kMdSVFviZSSBvUyyEQPMNlvLptVQxHFD9i9wGuBWs
 source: gdoc
 tags:
   - Biology

@@ -7,10 +7,9 @@ contestName: 2021 Book Reviews
 year: 2021
 publishedDate: '2026-02-06T07:21:29.569Z'
 slug: games-people-play-the-psychology-of-human-relationships-by-eric-berne
-wordCount: 4797
+wordCount: 4787
 readingTimeMinutes: 22
-originalUrl: >-
-  https://docs.google.com/document/d/1xexFJ7h0vULMDE7N77q_MIzXoerexfe_CqqGEL6hEoQ
+originalUrl: https://docs.google.com/document/d/1xexFJ7h0vULMDE7N77q_MIzXoerexfe_CqqGEL6hEoQ
 source: gdoc
 tags:
   - Psychology
@@ -24,10 +23,10 @@ Bob is playing a game of “Look What You Made Me Do”. He’s setting things u
 
 However, all is not lost. If you figure out the game and play the right moves, you can stop these games.
 
-> *   You can stop your manager from shirking off responsibility.
-> *   You can stop your spouse from playing status games.
-> *   You can stop your friend from messing up their life and seeking sympathy again and again.
-> *   You can stop strangers from playing games with you, too.
+*   You can stop your manager from shirking off responsibility.
+*   You can stop your spouse from playing status games.
+*   You can stop your friend from messing up their life and seeking sympathy again and again.
+*   You can stop strangers from playing games with you, too.
 
 But that’s only if you know the game they’re playing.
 
@@ -55,14 +54,13 @@ To understand people, you need to understand their ego states. To understand ego
 
 ### Transactional Analysis
 
-  
 A stroke is a basic unit of conversational stimulus. Saying “Hi!” to someone is a stroke. Every stroke goes from one ego state to another.
 
-![](https://acximages.ennals.org/images/2021-book-reviews/cb4a2239bd9d5386.jpg)
+![](https://acximages.ennals.org/images/2021-book-reviews/6182bfee93826ed0.jpg)
 
 Multiple strokes together make up a transaction: a conversation between people.
 
-![](https://acximages.ennals.org/images/2021-book-reviews/405a147866414a47.jpg)
+![](https://acximages.ennals.org/images/2021-book-reviews/4ba99db680c53b45.jpg)
 
 Like we need food to stay physically healthy, Berne claims we need strokes to stay emotionally healthy. For example, a movie actor may require hundreds of strokes each week from anonymous and undifferentiated admirers to keep himself going, while a scientist may keep physically and mentally healthy on one stroke a year from a respected master.
 
@@ -70,26 +68,25 @@ Now things get interesting. Every stroke expects a complementary stroke. Communi
 
 For example, consider a fevered child asking for water.
 
-![](https://acximages.ennals.org/images/2021-book-reviews/90b7e0a1e3bea3b4.jpg)
+![](https://acximages.ennals.org/images/2021-book-reviews/d81b8623e0482606.jpg)
 
 However, if you’re sending a stroke to someone’s Child state, and their Adult responds, conversation would break. This is a crossed transaction.
 
-![](https://acximages.ennals.org/images/2021-book-reviews/7660a387bef200ab.jpg)
+![](https://acximages.ennals.org/images/2021-book-reviews/4a7d482c2286f2a4.jpg)
 
 That’s all we need to dive into games. There’s more in the book, but I’ve covered all the main points.
 
 ### Games
 
-  
 When any social interaction has an ulterior motive, and a payoff, it is most likely a game.
 
 Berne writes: “If someone frankly asks for reassurance and gets it, that is an operation. If someone asks for reassurance, and after it is given turns it in some way to the disadvantage of the giver, that is a game.”
 
 The ulterior motives of Games are hidden transactions. On the surface they seem like normal interactions, but psychologically, they’re different. For example:
 
-_“Salesman: ‘This one is better, but you can’t afford it.’”  
+> _“Salesman: ‘This one is better, but you can’t afford it.’”_
   
-“Housewife: ‘That’s the one I’ll take.’”_
+> _“Housewife: ‘That’s the one I’ll take.’”_
 
 While on the surface it’s an Adult-Adult transaction, psychologically, the salesman is instigating the Child of the housewife.
 
@@ -97,11 +94,10 @@ Now, for a few games. Meet Brad and Angelina, they’ll be our players throughou
 
 ## Game - Examples
 
-![](https://acximages.ennals.org/images/2021-book-reviews/fcb0d6c10ce1738c.jpg)
+![](https://acximages.ennals.org/images/2021-book-reviews/5a10d952bc561014.jpg)
 
 ### I’m only trying to help
 
-  
 Brad defers a lot of decision-making to Angelina. He tells her that you should help make the right decisions for our kids - you know what’s best, and I’ll help implement those decisions. One day, Angelina decides to not let the kids eat candy and coke anymore. So, Brad takes away their candies and coke. This upsets the children, which makes Brad upset. He tells Angelina, “Look what you made me do, now the kids are upset!”. This bewilders Angelina, and she cries out “I was only trying to help!”.
 
 The game is based on the supposition that Brad is ungrateful and disappointing. The payoff comes with the bewilderment: when, despite all your help, he is ungrateful.
@@ -116,7 +112,6 @@ At work, instead of asking for advice, colleagues can say “Don’t tell me wha
 
 ### See what you made me do
 
-  
 A game often played alongside “I’m only trying to help you” is “See what you made me do”
 
 When Angelina plays ‘I’m Only Trying to Help You’, it is then easy for Brad to defer decisions to her. Often this may be done in the guise of considerateness. He may let her decide where to go for dinner or which movie to see. If things turn out well, he can enjoy them. If not, he can blame her by implying ‘You Got Me Into This’, a simple variation of “See what you made me do”.
@@ -141,31 +136,28 @@ People like to be guilt-free, and would go to insane lengths to rid themselves o
 
 ### See what you made me do
 
-  
 This game is the poster-child for vindication. We just saw this play out above.
 
 ### If it weren’t for you
 
-  
 Alice is Brad and Angelina’s daughter. After an incident at the pool, they don’t allow her near a swimming pool. Alice internally fears the water, but she doesn’t have to show that anymore. She can, instead, confirm her worldview that she’s not afraid, and doesn’t go to the swimming pool because her parents don’t allow her. “If it weren’t for them, I could’ve swam everyday!”. It’s not Alice’s fault anymore, but her parents. She’s vindicated.
 
 Another payoff of this game, as hinted above, is confirming worldviews.
 
 This game can also be played between a couple. An interesting aspect here is why would one side dominate? For example, why would Brad ban Angelina from, say, going out? Berne claims that both sides have a phobia they’re avoiding.
 
-_“Brad: ‘You stay home and take care of the house.’  
+> _“Brad: ‘You stay home and take care of the house.’_
   
-Angelina: ‘If it weren’t for you, I could be out having fun.’_
+> _Angelina: ‘If it weren’t for you, I could be out having fun.’_
 
 At the psychological level the relationship is Child-Child, and quite different.
 
-_Brad: ‘You must always be here when I get home. I’m terrified of desertion.’  
+> _Brad: ‘You must always be here when I get home. I’m terrified of desertion.’_
   
-Angelina: ‘I will be if you help me avoid phobic situations.”_
+> _Angelina: ‘I will be if you help me avoid phobic situations.”_
 
 ### Debtor
 
-  
 Brad is in debt, and behind payments. He avoids the debt collector. If the debt collector gives up, he wins: Now he has things he didn’t have to pay for.
 
 If the debt collector hires a collection agency, Brad knows he has to pay. However, now he can talk about how all debtors are dicks. They could’ve politely asked for the money back, instead of roughing things up. He can bitch about not paying without losing his social status. He’s vindicated.
@@ -174,14 +166,12 @@ The game can then morph into a game of “[Why does this always happen to me?](h
 
 ### I’m only trying to help you
 
-  
 Like we saw above: “If my help is not working for you, that’s your fault. I’m not guilty. Don’t resent me. Try this other thing.”
 
 Notice how all the games so far have been 2 player games.
 
 ### Look how hard I’ve tried
 
-  
 This is usually a 3 player game.
 
 Angelina is fed up of her husband’s antics, and urges him to change to make the marriage work. Secretly, Brad is looking for a divorce. However, he shows up as co-operating. They decide to go to therapy, where Brad plays “Look How Hard I’ve Tried”. He says just enough to show he’s co-operating with both, the therapist and the wife. Back home, he’s “understanding” for a day or two, after which his behaviour worsens again.
@@ -196,7 +186,6 @@ A more sinister form of the game is “Look how hard I was trying”. Berne writ
 
 ### Alcoholic
 
-  
 Brad also has a drinking problem. Most people focus on how much he’s been drinking, and how he can’t control himself, and how he should do better. Most nights, he ends up home drunk, hears Angelina complain again and again, and goes to sleep. He wakes up to a splitting headache and a hangover, and Angelina gets him a lemon and honey home-recipe to help.
 
 Berne claims that the drinking is just a side-pleasure. The real payoff comes from the morning-after, or the hangover. That’s where Brad seeks, and obtains forgiveness from Angelina. Being forgiven is the real pleasure that strokes Brad. The cycle repeats as soon as Brad wants another stroke: he’s persecuted at night, when Angelina complains, and then forgiven in the morning, when he has the hangover.
@@ -209,7 +198,7 @@ An interesting property of the game is how flexible the roles are: people in one
 
 ### Schlemiel
 
-![](https://acximages.ennals.org/images/2021-book-reviews/c72fb20349737936.png)
+![](https://acximages.ennals.org/images/2021-book-reviews/62dd1a514e3c6c01.png)
 
 Schlemiel is very similar to the Alcoholic. Instead of getting drunk himself, in this game Brad creates a mess out of things, like intentionally breaking things, or destroying carpets at a party, and then seeking forgiveness from the host.
 
@@ -291,7 +280,6 @@ Berne puts it succinctly, via a game of Poker:
 
 ### Kiss Off
 
-  
 Alice and Bob are at a party. Alice signals she’s available, makes eye-contact, and Bob strategically tries to place himself closer to her so they can talk. Alice derives pleasure from Bob’s pursuit. As soon as Bob commits to talking, and starts a conversation, Alice says “thanks” (or “no thanks”) and goes away.
 
 A more sinister form of the game is when Alice/Bob claim they’ve been assaulted.
@@ -308,21 +296,19 @@ To drive home the idea, here are some interesting insights about games people pl
 
 Some games fit in well with other games, where both people can be playing their own game, and both people win.
 
-> *   Kick me <–> Now I’ve got you, you son of a bitch <-later-> Ain’t it Awful
-> *   Kick me <–> rapo
-> *   Alcoholic <–> I’m only trying to help you
-> *   Why don’t you - yes but <–> I’m only trying to help you
+*   Kick me <–> Now I’ve got you, you son of a bitch <-later-> Ain’t it Awful
+*   Kick me <–> rapo
+*   Alcoholic <–> I’m only trying to help you
+*   Why don’t you - yes but <–> I’m only trying to help you
 
 ### Reversible roles
 
-  
 Players playing a game are adept at all roles in the game, and can switch. For example: When playing “Why Don’t You .. Yes But”:
 
 Sometimes you ask the questions and make suggestions (and perhaps play “I’m only trying to help you”). Other times you’re posing the problem and expecting to hear suggestions you’ve already thought of yourself.
 
 ### Rough model
 
-  
 Almost every game seems to consist of a victim and a persecutor. Remember, transactional analysis dictates we can’t have two persecutors! That’s just two angry people talking over each other. For communication to continue, one needs to be the “victim”.
 
 Sometimes, it’s the persecutors game, where they’re enjoying the control, or seeking justification for their actions.
@@ -349,7 +335,6 @@ In its more sinister form, it’s when others sabotage you to continue their gam
 
 ## Antithesis: How to Stop Games
 
-  
 With the games in hand, and a feel for their destructive power, the next natural question is how do you stop them?
 
 Denying the payoff stops the game.5
@@ -366,7 +351,6 @@ Since Brad is deferring responsibility and vindicating himself, the best way for
 
 ### Look How Hard I’m Trying - Vindication
 
-  
 In the marital case, stopping the game means noticing that Brad isn’t genuinely involved in the therapy sessions, and dismissing him from therapy. This destroys Brad’s claim that he’s been trying hard. He can still get a divorce, but not with the social psychological advantage of “look how hard I tried”.
 
 With kids playing look how hard I’m trying, it’s a good idea to explain how responsibility works, the game, and how they may be judged on outcomes, not what they do. You’re explaining how trying hard doesn’t vindicate them.
@@ -407,11 +391,10 @@ Of course, this model isn’t perfect, and doesn’t explain everything. It’s 
 
 * * *
 
-> 1.  Affiliate link
-> 2.  Note the capitalisation. When I say parent, I mean the person who is the parent. When I say Parent, I mean the Parent ego state. Same for Child and Adult.
-> 3.  It’s interesting to see how pick up artists figured out these same games, but have different names for them. For example, in this case, they “leave her alone”.
-> 4.  Not all games are bad! There are some good games, too. Annoyingly, they usually don’t show up in therapy sessions, so study on them is limited. [↩](https://neilkakkar.com/games-people-play-blogpost.html#fnref:4)
-> 5.  Usually. Other times, for people deeply entrenched in games, it escalates their actions till they get the payoff.
->     
->     * * *
->
+1.  Affiliate link
+2.  Note the capitalisation. When I say parent, I mean the person who is the parent. When I say Parent, I mean the Parent ego state. Same for Child and Adult.
+3.  It’s interesting to see how pick up artists figured out these same games, but have different names for them. For example, in this case, they “leave her alone”.
+4.  Not all games are bad! There are some good games, too. Annoyingly, they usually don’t show up in therapy sessions, so study on them is limited. [↩](https://neilkakkar.com/games-people-play-blogpost.html#fnref:4)
+5.  Usually. Other times, for people deeply entrenched in games, it escalates their actions till they get the payoff.
+    
+    * * *

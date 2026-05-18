@@ -1,5 +1,5 @@
 ---
-title: 'The Trial, by Franz Kafka'
+title: The Trial, by Franz Kafka
 author: Unknown
 reviewAuthor: Anonymous
 contestId: 2024-book-reviews
@@ -9,8 +9,7 @@ publishedDate: '2026-02-06T16:49:50.816Z'
 slug: the-trial-by-franz-kafka
 wordCount: 4207
 readingTimeMinutes: 19
-originalUrl: >-
-  https://docs.google.com/document/d/1Ki5XsE0jkxZtd2XAeyTAJw1ZjLh2Cu-matUYKAhA6-s
+originalUrl: https://docs.google.com/document/d/1Ki5XsE0jkxZtd2XAeyTAJw1ZjLh2Cu-matUYKAhA6-s
 source: gdoc
 tags:
   - Fiction
@@ -89,7 +88,7 @@ Because he thought it so absurd, K. might have forgotten about his arrest entire
 
 > _“And you sit there coolly with a criminal case hanging round your neck?” cried his uncle, his voice growing louder and louder._
 >
->          _“The cooler I am, the better in the end,” said K. wearily._
+> _“The cooler I am, the better in the end,” said K. wearily._
 >
 > _”Joseph, my dear Joseph, think of yourself, think of your relatives, think of our good name. You have been a credit to us until now, you can’t become a family disgrace.”_
 

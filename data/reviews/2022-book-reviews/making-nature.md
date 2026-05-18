@@ -7,9 +7,9 @@ contestName: 2022 Book Reviews
 year: 2022
 publishedDate: '2026-02-05T15:57:40.293Z'
 slug: making-nature
-wordCount: 6564
+wordCount: 6477
 readingTimeMinutes: 30
-originalUrl: 'https://astralcodexten.substack.com/p/your-book-review-making-nature'
+originalUrl: https://astralcodexten.substack.com/p/your-book-review-making-nature
 source: acx
 tags:
   - Science
@@ -123,13 +123,13 @@ A network effect occurs when the value of a product comes primarily from the peo
 This role as a forum was a constant in _Nature_’s history, as _Making Nature_ shows with several detailed accounts of debates that took place within the journal’s pages. Some examples:
 
 *   Controversies over the age of the Earth in the 1880s.
-    
+
 *   Debates in the 1920s on whether the word _scientist_ was acceptable to describe the people doing science as opposed to _man of science_ or _scientific worker_.
-    
+
 *   The development of plate tectonics theory in the 1950s and 60s (in this case, _Nature_ and _Science_ were on approximately equal footing).
-    
+
 *   High-profile controversies about homeopathy and cold nuclear fusion in the 1980s.
-    
+
 
 How did _Nature_ become the main scientific forum in the UK and, later, the world? As we saw, the weekly publication schedule was one of the key factors, since discussion requires people to be able to reply to each other in a timely fashion. But speed alone wasn’t sufficient. There were many scientific weekly periodicals in Victorian Britain, and _Nature_ wasn’t even the most popular: in the 1870s, “other weeklies—such as _Chemical News_, _Knowledge_, and _English Mechanic_—all boasted more subscribers than _Nature_’s estimated 5,000.” Why didn’t one of these magazines become the best venue to discuss science?
 
@@ -200,11 +200,11 @@ Today’s covers are still in that tradition. Here’s the _Nature_ cover from 2
 _Nature_ under Maddox and Davies followed the same trend of internationalization as in the previous decades, but the seventies saw what was perhaps the fastest growth outside the UK. Consider these approximate statistics on the origin of research articles from the years when there was a change in editorship:
 
 *   1966 (when Maddox became editor): 40% British and 60% international
-    
+
 *   1973 (Davies): 33% British and 67% international
-    
+
 *   1980 (Maddox again): 20% British and 80% international.
-    
+
 
 “International,” of course, mostly means the United States. The 1960s and 70s are the golden period when the US overtook all other countries in most domains, including science. _Nature_ could not ignore this, and opened a satellite office in Washington D.C. in 1970. Interestingly, however, the journal’s Britishness seems to have helped it be seen as more international than its rival _Science_, which researchers in France, Germany, Japan, and other countries may have considered too American.
 

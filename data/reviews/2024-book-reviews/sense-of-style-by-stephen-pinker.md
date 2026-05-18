@@ -1,5 +1,5 @@
 ---
-title: 'Sense of Style, by Stephen Pinker'
+title: Sense of Style, by Stephen Pinker
 author: Unknown
 reviewAuthor: Anonymous
 contestId: 2024-book-reviews
@@ -7,10 +7,9 @@ contestName: 2024 Book Reviews
 year: 2024
 publishedDate: '2026-02-06T16:48:56.663Z'
 slug: sense-of-style-by-stephen-pinker
-wordCount: 3265
+wordCount: 3255
 readingTimeMinutes: 15
-originalUrl: >-
-  https://docs.google.com/document/d/1GYQw3pgvhi7hqOVR-Ql629Q_8thbyHe8sSRy5voyt30
+originalUrl: https://docs.google.com/document/d/1GYQw3pgvhi7hqOVR-Ql629Q_8thbyHe8sSRy5voyt30
 source: gdoc
 tags:
   - Psychology
@@ -29,10 +28,10 @@ In [Sense of Style](https://www.amazon.com/Sense-Style-Thinking-Persons-Writing/
 
 You should probably read this book if you're excited about…
 
-> *   studying examples of incredible writing
-> *   the intricacies of grammar, syntax, and word choice
-> *   gaining a deeper appreciation for the english language
-> *   how written communication _actually_ happens
+*   studying examples of incredible writing
+*   the intricacies of grammar, syntax, and word choice
+*   gaining a deeper appreciation for the english language
+*   how written communication _actually_ happens
 
 There’s plenty of examples of each of them, but In the backdrop of all of this... I couldn't help but ponder how writing styles will evolve in the world of LLMs. Pinker doesn't mention it at all (the book came out in 2015), but I believe _Sense of Style_ can help us answer questions around why ChatGPT can sometimes feel so stale.
 
@@ -62,9 +61,9 @@ Great writers generally **use simple words over complicated ones**. But they rel
 
 > _Pauline Phillips, a California housewife who nearly 60 years ago, seeking something more meaningful than mah-jongg, transformed herself into the syndicated columnist Dear Abby—and in so doing became a trusted, tart-tongued adviser to tens of millions—died on Wednesday in Minneapolis. . . ._
 >
-> _With her comic and flinty yet fundamentally sympathetic voice, Mrs. Phillips helped wrestle the advice column from its weepy Victorian past into a hard-nosed 20th-century present. . . .  
->   
-> -_[Margalit Fox, NYT, Pauline Phillips, Flinty Adviser to Millions as Dear Abby, Dies at 94](https://www.nytimes.com/2013/01/18/business/media/pauline-phillips-flinty-adviser-to-millions-as-dear-abby-dies-at-94.html)
+> _With her comic and flinty yet fundamentally sympathetic voice, Mrs. Phillips helped wrestle the advice column from its weepy Victorian past into a hard-nosed 20th-century present. . . ._
+>
+> -[Margalit Fox, NYT, Pauline Phillips, Flinty Adviser to Millions as Dear Abby, Dies at 94](https://www.nytimes.com/2013/01/18/business/media/pauline-phillips-flinty-adviser-to-millions-as-dear-abby-dies-at-94.html)
 
 Notice _flinty_ and _hard-nosed_. Both words are uncommon, but they don't require the use of a dictionary.
 
@@ -104,7 +103,7 @@ The hallmarks of classic style...
 
 **Is clear and straightforward**. It avoids any form of jargon, and prefers simple words to complex ones.
 
-![](https://acximages.ennals.org/images/2024-book-reviews/b32e32a42bbc1829.png)
+![](https://acximages.ennals.org/images/2024-book-reviews/0374ebb8433ac373.png)
 
 **Avoids 'really'.** Avoid using some sort of qualifier in cases where you don't want to add a qualification to the scale. Saying 'Jim is an honest man' is very different than 'Jim is a _very_ honest man'. Mark Twain had a quote that instead of writing 'very' anywhere, you should just write 'damn', and then let your editor remove it all.
 
@@ -114,27 +113,27 @@ The hallmarks of classic style...
 
 **Doesn’t use signposting.** You'd never tell a friend "I'm about to tell you three different things about trees...", you'd just dive right in. Classic style gets straight to the point. Authors don't talk about what they want to say, they just say it.
 
-_Bad: This chapter discusses the factors that cause names to rise and fall in popularity.  
-Better: What makes a name rise and fall in popularity?_
+_Bad: This chapter discusses the factors that cause names to rise and fall in popularity._  
+_Better: What makes a name rise and fall in popularity?_
 
 **Confident, does not hedge.** How many times have you read a newspaper article that is endlessly couched in "allegedly" and "reportedly". Classic style instead counts on common sense and says what it needs to. _"Any adversary who is unscrupulous enough to give the least charitable reading to an unhedged statement will find an opening to attack the writer in a thicket of hedged ones anyway."_
 
 **Avoids cliches and vagaries.** It's easy to include sentences which convey little-to-no information. Cut them, or re-phrase.
 
-_Bad: When Americans are told about foreign politics, their eyes glaze over.  
-Better: Ever tried to explain to a New Yorker the finer points of Slovakian coalition politics? I have._
+_Bad: When Americans are told about foreign politics, their eyes glaze over._  
+_Better: Ever tried to explain to a New Yorker the finer points of Slovakian coalition politics? I have._
 
 _He almost needed an adrenaline shot to come out of the coma._
 
 **Avoids abstract nouns** (e.g. 'level', 'strategy', 'issues', 'perspective'). Instead, just write directly.
 
-_Bad: I have serious doubts that trying to amend the Constitution would work on an actual_ _level__. On the aspirational_ _level__, however, a constitutional amendment_ _strategy_ _may be more valuable.  
-Better: I doubt that trying to amend the Constitution would actually succeed, but it may be valuable to aspire to it._
+_Bad: I have serious doubts that trying to amend the Constitution would work on an actual_ _level__. On the aspirational_ _level__, however, a constitutional amendment_ _strategy_ _may be more valuable._  
+_Better: I doubt that trying to amend the Constitution would actually succeed, but it may be valuable to aspire to it._
 
 Aside from these rules of the road, Pinker also offers two pieces of advice to improve our writing.
 
-> 1.  **read it out loud** – we naturally tend to pause and shift intonation while reading sentences out loud. It's easier to hear the verbal sticking points once they are uttered out loud.
-> 2.  **take a break** – after you've written a draft put it away for awhile. Taking time away allows you to naturally forget. A musician friend says this is exactly what he does while mixing songs. He'll shelve a song for months, to come back and realize which parts are the most interesting.
+1.  **read it out loud** – we naturally tend to pause and shift intonation while reading sentences out loud. It's easier to hear the verbal sticking points once they are uttered out loud.
+2.  **take a break** – after you've written a draft put it away for awhile. Taking time away allows you to naturally forget. A musician friend says this is exactly what he does while mixing songs. He'll shelve a song for months, to come back and realize which parts are the most interesting.
 
 This advice sounds incredibly straightforward, but it tends to be very hard to achieve in practice. Most of us tend to get wrapped up in adding words and jargon that end up obscuring our points. Classic style says **"forget all the noise, just focus on the truth"**.
 
@@ -148,7 +147,7 @@ I had expected the section on grammar to be endlessly boring, but Pinker asks us
 
 When communicating, we start with a **web of ideas**. In our heads, there exists a loose web of words and concepts. You can think of it as a set of nodes with edges describing their relationships to one another.
 
-For Shakespeare's _Oedipus Rex_, your web might look something like this…![](https://acximages.ennals.org/images/2024-book-reviews/729dc0fa18c9b077.png) 
+For Shakespeare's _Oedipus Rex_, your web might look something like this…![](https://acximages.ennals.org/images/2024-book-reviews/616d41cafc4c059c.png) 
 
 There's all manner of concepts in here, some of which are directly related to the play, and some of which connect to other concepts we might hold (now you know what Freud looks like).
 
@@ -162,14 +161,14 @@ Now the trouble occurs when the reader (or listener) then has to work backwards.
 
 Just as programming has abstract syntax trees for defining language, Pinker thinks of English as having its own set of syntax trees (shown in the diagram below).
 
-![](https://acximages.ennals.org/images/2024-book-reviews/1c5145c6724ad3d3.png)
+![](https://acximages.ennals.org/images/2024-book-reviews/c7eabf081fc80ab4.png)
 
 The best way to understand these diagrams is from the bottom-up. The english sentence is given in left-to-right form, and each word bubbles up into different phrases and clauses to create the whole.
 
 Pinker argues that the main reason english is so challenging is because writing syntax from left-to-right has to do **two separate things at once**
 
-> 1.  it's the code to convey to who did what, to whom
-> 2.  it's the sequence of early-to-late processing in the reader's mind
+1.  it's the code to convey to who did what, to whom
+2.  it's the sequence of early-to-late processing in the reader's mind
 
 English must simultaneously encode both the **order that events happened** _**and**_ **how words are related togethe**r. It's a writer's job to constantly reconcile whether the current phrase focuses on #1 or #2.
 
@@ -187,7 +186,7 @@ The problem with this sentence is that it creates "too big of a stack", to quote
 
 If we chart the 'tree' here, we can better see where this sentence is going wrong
 
-![](https://acximages.ennals.org/images/2024-book-reviews/137ccfe4d66e41dd.png)
+![](https://acximages.ennals.org/images/2024-book-reviews/bd5c742fe0fdaca0.png)
 
 Our first problem is that this sentence has too many **deeply-nested structures**. Looking at this tree, there is a ton of state we have to keep in our heads to understand what is going on.
 
@@ -199,7 +198,7 @@ If we were to rewrite this problematic sentence, a better version might look lik
 
 It's not _that_ much better (I still have trouble following it). But it does allow you to easily split up the clauses into separate pieces. These can be split as their own individual sentences, or omitted entirely.
 
-![](https://acximages.ennals.org/images/2024-book-reviews/8718a8738646cbcb.png)
+![](https://acximages.ennals.org/images/2024-book-reviews/ec42e85837ee976b.png)
 
 See how in the new structure starts with a simple prepositional phrase, and then immediately gets to the main subject of the sentence?
 
@@ -225,8 +224,8 @@ GPT-4 has [what's known as a "temperature" setting](https://platform.openai.com/
 
 That said, the transformer architecture actually seems like it would mirror many of the concepts that lead to good writing:
 
-> *   In training, the **weights of the model effectively code for the 'web of ideas'**. The embedding for 'king' is close to the embedding for 'queen' + 'male'. Clearly there's some deeper concepts embedded here in the many-dimensional state space.
-> *   Phrases are **connected by their proximity to one another**. The big insight of the attention mechanism was being able to dynamically adjust the weight of different tokens in relation to one another.
+*   In training, the **weights of the model effectively code for the 'web of ideas'**. The embedding for 'king' is close to the embedding for 'queen' + 'male'. Clearly there's some deeper concepts embedded here in the many-dimensional state space.
+*   Phrases are **connected by their proximity to one another**. The big insight of the attention mechanism was being able to dynamically adjust the weight of different tokens in relation to one another.
 
 Finally there's the question of interpretability. Somewhere in the LLM we've built the web of ideas... but in the output, all we see is the string of text. Re-creating that state is nearly impossible (but hey, you can't inspect my mental state either). How far can we go by serializing it to and from english? Probably not far enough.
 

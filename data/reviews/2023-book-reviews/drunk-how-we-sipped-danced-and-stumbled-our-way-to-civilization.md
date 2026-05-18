@@ -7,10 +7,9 @@ contestName: 2023 Book Reviews
 year: 2023
 publishedDate: '2026-02-06T07:21:10.028Z'
 slug: drunk-how-we-sipped-danced-and-stumbled-our-way-to-civilization
-wordCount: 6999
+wordCount: 6993
 readingTimeMinutes: 32
-originalUrl: >-
-  https://docs.google.com/document/d/10CiEI7aDL2bMIdx7yayy3vlq0TJ8dO5LGnG7yIDPiw8
+originalUrl: https://docs.google.com/document/d/10CiEI7aDL2bMIdx7yayy3vlq0TJ8dO5LGnG7yIDPiw8
 source: gdoc
 tags:
   - History
@@ -34,7 +33,7 @@ And:
 
 Instead, Slingerland makes a case that the psychological effects of drinking have cultural and social benefits. With _a lot_ of squinting, this can be thought of as [pulling the rope sideways](https://open.substack.com/pub/overcomingbias/p/tug-sidewayshtml): whether alcohol is beneficial or harmful to any particular individual doesn’t matter as long as group benefits outweigh any reasonable measure of the sum of individual harm. While there are stories of drugs and alcohol improving individuals lives, that is not the focus. And although it's acknowledged that drinking can be fun, that's not the point either.
 
-![](https://acximages.ennals.org/images/2023-book-reviews/7c661be95cf68c32.png)
+![](https://acximages.ennals.org/images/2023-book-reviews/d2afb37ec273d313.png)
 
 _Dynomite,_ _[CC-BY SA](https://creativecommons.org/licenses/by-sa/4.0/deed.en)__,_ _[https://en.wikipedia.org/wiki/File:Health\_risks\_of\_alcohol\_consumption.svg](https://en.wikipedia.org/wiki/File:Health_risks_of_alcohol_consumption.svg)_  _. I was tempted to zoom in on the portion < 2 drinks a day to better show the dip for coronary heart disease and diabetes, but the overall chart shows that the confusion on individual health effects that Slingerland mentions is really only plausible for light/moderate drinking._
 
@@ -48,13 +47,9 @@ The source of this intellectual jumbling together of disparate-looking drugs _se
 
 Alcohol in particular is not usually thought of as socially-beneficial. While individual health concerns are emphasized in modern arguments against drinking, the supposed social costs of the drug are also reasons typically given to avoid its use and availability, and such arguments have been made for a very long time. Could it have not only been unfairly maligned as one of the most socially harmful drugs, but have such estimates completely gotten the direction of the ultimate effect on larger groups wrong?
 
-![](https://acximages.ennals.org/images/2023-book-reviews/aa547ce8a4c33c6d.jpg)
-
-![](https://acximages.ennals.org/images/2023-book-reviews/f47e4d62624411a4.jpg)
-
-U.S. Prohibition era poster, from [https://prohibition.osu.edu/gallery/posters](https://prohibition.osu.edu/gallery/posters)
-
-Modern CDC infographic, from [https://www.cdc.gov/alcohol/onlinemedia/infographics/cost-excessive-alcohol-use.html](https://www.cdc.gov/alcohol/onlinemedia/infographics/cost-excessive-alcohol-use.html) 
+|  |  |
+| --- | --- |
+| U.S. Prohibition era poster, from https://prohibition.osu.edu/gallery/posters | Modern CDC infographic, from https://www.cdc.gov/alcohol/onlinemedia/infographics/cost-excessive-alcohol-use.html |
 
 ## Main Course
 
@@ -122,9 +117,8 @@ The theme of ecstasy is brought up again later as it's noted that lists of the a
 
 _Drunk_ also describes the stresses and anxieties that the contradiction of being an individual living in a civilization can cause: considering that the agricultural civilization most of humanity has been living in for the last several thousand years is far different than the lifestyle we're adapted for, there's again discussion of how alcohol makes it possible for "fiercely independent hunter-gatherers to shrug off those aspects of their chimpanzee nature that present a barrier to living like a social insect." Slingerland reviews some studies in rats and in humans to show that alcohol really does have a stress reducing effect, in case of doubt.
 
-![](https://acximages.ennals.org/images/2023-book-reviews/d8933e64814cf3da.png)
-
-Stable Diffusion, "Chimpanzee head on a bumblebee body flying through the air, professional realistic illustration on plain background", from sketch.
+| Stable Diffusion, "Chimpanzee head on a bumblebee body flying through the air, professional realistic illustration on plain background", from sketch. |
+| --- |
 
 A recurring theme throughout _Drunk_ is that these substances have their cultural function specifically because of their effects. It's wryly noted that all of these cultural practices centered around alcohol could have developed to use non-alcoholic alternatives but didn't specifically because those alternatives don't have any substantial mind-altering effects. The recent existence of "sober bars" is brought up, but it's argued that these only work in a sense, and participants experience placebo-bar benefits, because of the existence of and cultural expectations around alcohol-serving bars. I can't help but wonder again why U.S. saloons in 1919 couldn't start serving mocktails and skate by for a decade or so on previous expectations, but I guess that wouldn't have worked somehow since it wasn't actually done.
 
@@ -176,24 +170,24 @@ Ultimately however, _Drunk: How We Sipped, Danced, and Stumbled Our Way to Civil
 
 ## Endnotes
 
-> 1.  By coincidence _Asterisk_ published an updated version of Dynomight’s 2021 post on [how an experiment that would have mostly settled this important question was killed](https://www.asteriskmag.com/issues/2/my-primal-scream-of-rage-the-big-alcohol-study-that-didn-t-happen) as I was writiAnother Roundng this review and [the](https://astralcodexten.substack.com/p/issue-two-of-asterisk) _[Asterisk](https://astralcodexten.substack.com/p/issue-two-of-asterisk)_ [issue got a link at ACX](https://astralcodexten.substack.com/p/issue-two-of-asterisk). If the chart above looks familiar, while looking for a different source for a good chart of this relative risk curve, I found that Dynomight had also uploaded their chart to Wikipedia and it was attached to “[Alcohol and Health](https://en.wikipedia.org/wiki/Alcohol_and_health)” there, so it’s here too.
->
-> While searching for any more recent developments, I found [a 2022 crossover study of a 0.5% ABV](https://doi.org/10.3390/healthcare10050882) water solution, essentially similar to the strength of a traditional fermented soda, which did report a decrease in "AST, ALT, and LDH levels" (Oshima S, Shiiya S, Kato Y). There are multiple reasons, starting with but not just the small sample size noted as a limitation within that paper, to be cautious about that result.
->
-> 2.  While searching for current Effective Altruism thinking about alcohol, I found a post on the [EA Forum by Omizoid that collects and summarizes a lot of studies](https://forum.effectivealtruism.org/posts/mr9DLrFFRAAGNJtqo/impact-of-alcohol-consumption-on-performance). Disclaimers: I am not an EA, I haven't looked very closely at this, and also I like the TLDR conclusion and just said earlier in the review I have confirmation bias.
-> 3.  Mostly. There is some very mild inconsistency as a later passage describes older varieties of tobacco as "more powerful and intoxicating" than modern varieties. An endnote includes that it was usually smoked along with hallucinogens, but that really shouldn't change whether nicotine itself is considered an intoxicant.
-> 4.  Later, when Slingerland is discussing the historic novelty of distilled liquors, he explicitly suggests that this may indeed cause alcohol flush reaction to spread in the future.
-> 5.  I wasn't able to determine from a very quick search if anyone has ever claimed a similar effect with tDCS, which would only be slightly weirder at a house party than a VR headset.
-> 6.  Two for one book recommendation although I am not writing a second review to justify this: Terry A. Garey's _The Joy of Home Wine Making_ is a good intro.
-> 7.  Also coincidentally, if Göbekli Tepe sounds familiar it was mentioned in _[The Dawn of Everything](https://astralcodexten.substack.com/p/your-book-review-the-dawn-of-everything)__._
-> 8.  Slingerland tells this story more poignantly, another reason to read the book.
-> 9.  _Drunk_ contains a table rather than a graph, but see Figure 4.5 in the WHO document for the same numbers.
-> 10.   Which is acknowledged as "ironic", p 214
-> 11.  Religions and cultures that eschew intoxicants are acknowledged in _Drunk_ but supposed as contrasting to a wider culture of intoxicant usage.
-> 12.  I'm reminded of Daniel Lakens' "[Impossibly Hungry Judges](https://daniellakens.blogspot.com/2017/07/impossibly-hungry-judges.html)" (not about alcohol nor _Drunk_):
->
+1.  By coincidence _Asterisk_ published an updated version of Dynomight’s 2021 post on [how an experiment that would have mostly settled this important question was killed](https://www.asteriskmag.com/issues/2/my-primal-scream-of-rage-the-big-alcohol-study-that-didn-t-happen) as I was writiAnother Roundng this review and [the](https://astralcodexten.substack.com/p/issue-two-of-asterisk) _[Asterisk](https://astralcodexten.substack.com/p/issue-two-of-asterisk)_ [issue got a link at ACX](https://astralcodexten.substack.com/p/issue-two-of-asterisk). If the chart above looks familiar, while looking for a different source for a good chart of this relative risk curve, I found that Dynomight had also uploaded their chart to Wikipedia and it was attached to “[Alcohol and Health](https://en.wikipedia.org/wiki/Alcohol_and_health)” there, so it’s here too.
+
+> While searching for any more recent developments, I found [a 2022 crossover study of a 0.5% ABV](https://doi.org/10.3390/healthcare10050882) water solution, essentially similar to the strength of a traditional fermented soda, which did report a decrease in "AST, ALT, and LDH levels" (Oshima S, Shiiya S, Kato Y). There are multiple reasons, starting with but not just the small sample size noted as a limitation within that paper, to be cautious about that result.  
+
+2.  While searching for current Effective Altruism thinking about alcohol, I found a post on the [EA Forum by Omizoid that collects and summarizes a lot of studies](https://forum.effectivealtruism.org/posts/mr9DLrFFRAAGNJtqo/impact-of-alcohol-consumption-on-performance). Disclaimers: I am not an EA, I haven't looked very closely at this, and also I like the TLDR conclusion and just said earlier in the review I have confirmation bias.
+3.  Mostly. There is some very mild inconsistency as a later passage describes older varieties of tobacco as "more powerful and intoxicating" than modern varieties. An endnote includes that it was usually smoked along with hallucinogens, but that really shouldn't change whether nicotine itself is considered an intoxicant.
+4.  Later, when Slingerland is discussing the historic novelty of distilled liquors, he explicitly suggests that this may indeed cause alcohol flush reaction to spread in the future.
+5.  I wasn't able to determine from a very quick search if anyone has ever claimed a similar effect with tDCS, which would only be slightly weirder at a house party than a VR headset.
+6.  Two for one book recommendation although I am not writing a second review to justify this: Terry A. Garey's _The Joy of Home Wine Making_ is a good intro.
+7.  Also coincidentally, if Göbekli Tepe sounds familiar it was mentioned in _[The Dawn of Everything](https://astralcodexten.substack.com/p/your-book-review-the-dawn-of-everything)__._
+8.  Slingerland tells this story more poignantly, another reason to read the book.
+9.  _Drunk_ contains a table rather than a graph, but see Figure 4.5 in the WHO document for the same numbers.
+10.   Which is acknowledged as "ironic", p 214
+11.  Religions and cultures that eschew intoxicants are acknowledged in _Drunk_ but supposed as contrasting to a wider culture of intoxicant usage.
+12.  I'm reminded of Daniel Lakens' "[Impossibly Hungry Judges](https://daniellakens.blogspot.com/2017/07/impossibly-hungry-judges.html)" (not about alcohol nor _Drunk_):
+
 > If hunger had an effect on our mental resources of this magnitude, our society would fall into minor chaos every day at 11:45. Or at the very least, our society would have organized itself around this incredibly strong effect of mental depletion. Just like manufacturers take size differences between men and women into account when producing items such as golf clubs or watches, we would stop teaching in the time before lunch, doctors would not schedule surgery, and driving before lunch would be illegal. If a psychological effect is this big, we don’t need to discover it and publish it in a scientific journal - you would already know it exists. Sort of how the ‘after lunch dip’ is a strong and replicable finding that you can _feel_ yourself (and that, as it happens, is directly in conflict with the finding that judges perform better immediately after lunch – surprisingly, the authors don’t discuss the _after lunch dip_).
->
-> 13.  Wikipedia currently includes a sentence that "Enactogen" is preferred over "Empathogen", but this is unsourced, none of the reasons given for doing so make very much sense, it's actually possible to guess what an "Empathogen" from the term without thinking deeply about the etymology, and people outside academia actually [use the term "empathogen"](https://trends.google.com/trends/explore?date=today%205-y&q=Enactogen,empathogens&hl=en-US) even if very rarely.
-> 14.  Further attributed to Iain Gately's _Drink: A Cultural History of Alcohol_
-> 15.  I haven’t read it, but Slingerland’s previous book was recommended in the comments of "The 3 Books Technique for Learning a New Skill" on LW, where [AlpineAlps recommended](https://www.lesswrong.com/posts/oPEWyxJjRo4oKHzMu/the-3-books-technique-for-learning-a-new-skilll?commentId=dCgDbxSAMGrzv2STC) _[Trying Not to Try: The Art and Science of Spontaneity](https://www.lesswrong.com/posts/oPEWyxJjRo4oKHzMu/the-3-books-technique-for-learning-a-new-skilll?commentId=dCgDbxSAMGrzv2STC)_ [for the skill of "Experiencing Flow"](https://www.lesswrong.com/posts/oPEWyxJjRo4oKHzMu/the-3-books-technique-for-learning-a-new-skilll?commentId=dCgDbxSAMGrzv2STC).
+
+13.  Wikipedia currently includes a sentence that "Enactogen" is preferred over "Empathogen", but this is unsourced, none of the reasons given for doing so make very much sense, it's actually possible to guess what an "Empathogen" from the term without thinking deeply about the etymology, and people outside academia actually [use the term "empathogen"](https://trends.google.com/trends/explore?date=today%205-y&q=Enactogen,empathogens&hl=en-US) even if very rarely.
+14.  Further attributed to Iain Gately's _Drink: A Cultural History of Alcohol_
+15.  I haven’t read it, but Slingerland’s previous book was recommended in the comments of "The 3 Books Technique for Learning a New Skill" on LW, where [AlpineAlps recommended](https://www.lesswrong.com/posts/oPEWyxJjRo4oKHzMu/the-3-books-technique-for-learning-a-new-skilll?commentId=dCgDbxSAMGrzv2STC) _[Trying Not to Try: The Art and Science of Spontaneity](https://www.lesswrong.com/posts/oPEWyxJjRo4oKHzMu/the-3-books-technique-for-learning-a-new-skilll?commentId=dCgDbxSAMGrzv2STC)_ [for the skill of "Experiencing Flow"](https://www.lesswrong.com/posts/oPEWyxJjRo4oKHzMu/the-3-books-technique-for-learning-a-new-skilll?commentId=dCgDbxSAMGrzv2STC).

@@ -1,16 +1,16 @@
 ---
-title: "Telluria by Vladimir Sorokin"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2023-book-reviews"
-contestName: "2023 Book Reviews"
+title: Telluria by Vladimir Sorokin
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2023-book-reviews
+contestName: 2023 Book Reviews
 year: 2023
-publishedDate: "2023-01-01T00:00:00.000Z"
-slug: "telluria-by-vladimir-sorokin"
-wordCount: 2902
+publishedDate: '2023-01-01T00:00:00.000Z'
+slug: telluria-by-vladimir-sorokin
+wordCount: 2906
 readingTimeMinutes: 13
-originalUrl: "https://docs.google.com/document/d/1AtGIIv371v0Yu35eNsIxJr67dw4SHOiGdKrqmoKt2hg"
-source: "gdoc"
+originalUrl: https://docs.google.com/document/d/1AtGIIv371v0Yu35eNsIxJr67dw4SHOiGdKrqmoKt2hg
+source: gdoc
 tags:
   - Fiction
   - Politics
@@ -21,10 +21,9 @@ Hybrid Warfare: A Russian Postmodernist Invades the Brain with a Hammer and Nail
 
 _Telluria_ by Vladimir Sorokin, NYRB Classics, published August 16, 2022
 
-![](https://acximages.ennals.org/images/2023-book-reviews/96f8dec6bb7e8407.png)
+![](https://acximages.ennals.org/images/2023-book-reviews/9ffabb43ecf284f9.png)
 
-*\*\*
-
+* * *
 A screaming dildo runs across the floor. A pair of wolf-human zoomorphs drink whisky and recite poetry at a campfire, snacking on the decapitated head of a felled soldier. An army of knights assembles in an ancient castle, waiting for nails of tellurium to be hammered into their skulls before they’re loaded into robotic exoskeletons and then catapulted to the front lines of a holy war.
 
 These are just a few of the fifty scenes that make up Vladmir Sorokin’s 2013 novel _Telluria_, a gritty, weird, and frenetic collection of fragments recently published in English for the first time by NYRB, showing us a fractured world at war with its past, present, and future. Screaming phalluses and wolf-humans aren’t the only hybrids in this book of hybrids: there are also the hybrid materials of “self-generating” matter like fur or rubber or water, living paintings and tattoos; hybrid holograms that can interact with the physical world; hybrid renderings of atmospheres, histories, cultures, and nation-states; and between the covers of this novel, Sorokin’s thirteenth, each chapter presents new characters and new narrative voices in different registers, in different literary forms and traditions, to accumulate into a wild, mutant-headed hybrid that satirizes our world-historical addiction to power, especially as seen in the contemporary Russian state. “Putin isn’t just socialist realism,” Sorokin said in a 2022 interview, through his literary translator Max Lawton. “He’s a hodgepodge of our despotic past, of the Stalinist, medieval, and religious tendencies. He’s a hybrid of everything.”
@@ -59,7 +58,7 @@ In his theory of the carnivalesque, Bakhtin saw the gritty physicality of the Eu
 
 The center of the book contains its highest physical peak, some of its most straightforward narration, and its core of geopolitical power—a mountain palace belonging to the president of Telluria, a remote republic in the Eurasian mountains that gained its strategic and economic power after the discovery of a cache of tellurium underneath its mountains. After waking up naked underneath a camel skin, Jean-François Trocard takes a cold plunge, piddles with a collection of rare coins, then skis down from his mountaintop of luxury until activating a jetpack, flying over a village, and then setting down to mingle among the adoring commoners. As Uffelmann and others have noted, this absurd scene echoes Vladimir Putin’s own absurd hang gliding with cranes in 2012, not long before _Telluria_’s initial publication. Putin’s stunt is more explicitly referenced by a character who reminisces about a long ago boyhood, remembering the “last rulers of Russia.”
 
-![](https://acximages.ennals.org/images/2023-book-reviews/0152c2152c7ab9fb.png)
+![](https://acximages.ennals.org/images/2023-book-reviews/b60f221309d5d8d8.png)
 
 _Vladimir Putin soars in 2012_
 
@@ -79,4 +78,4 @@ A recently married couple from Western Europe, Patrick and Engelbert, tour the U
 
 When spoken aloud, _Dasein_ produces from the machine a simple gelatinous cube. This device, cooked up in Sorokin’s postmodern imagination, has the potential to deliver readers to philosophical resolution in the way that technology is thought to deliver humankind to complete dominion over land and life and time. The philosopher eats the small cube while talking to the man who fate would make his husband for the rest of his life. For him, his husband’s image was “always connected with the taste of the cube: a light fish soufflé that melted pleasantly on the tongue.”
 
-*\*\*
+* * *

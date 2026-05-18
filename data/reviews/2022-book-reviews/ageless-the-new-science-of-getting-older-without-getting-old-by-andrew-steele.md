@@ -1,7 +1,5 @@
 ---
-title: >-
-  Ageless: The New Science of Getting Older Without Getting Old, by Andrew
-  Steele
+title: 'Ageless: The New Science of Getting Older Without Getting Old, by Andrew Steele'
 author: Unknown
 reviewAuthor: Anonymous
 contestId: 2022-book-reviews
@@ -11,8 +9,7 @@ publishedDate: '2026-02-06T07:24:08.688Z'
 slug: ageless-the-new-science-of-getting-older-without-getting-old-by-andrew-steele
 wordCount: 2875
 readingTimeMinutes: 13
-originalUrl: >-
-  https://docs.google.com/document/d/1pRQbRbEUwSH_jm94PI_ij-88swat7vQ4iNaNp6gd39g
+originalUrl: https://docs.google.com/document/d/1pRQbRbEUwSH_jm94PI_ij-88swat7vQ4iNaNp6gd39g
 source: gdoc
 tags:
   - Science

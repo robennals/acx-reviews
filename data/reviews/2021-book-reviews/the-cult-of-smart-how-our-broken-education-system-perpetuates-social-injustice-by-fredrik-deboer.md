@@ -1,16 +1,16 @@
 ---
-title: "The Cult of Smart: How Our Broken Education System Perpetuates Social Injustice by Fredrik deBoer"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2021-book-reviews"
-contestName: "2021 Book Reviews"
+title: 'The Cult of Smart: How Our Broken Education System Perpetuates Social Injustice by Fredrik deBoer'
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2021-book-reviews
+contestName: 2021 Book Reviews
 year: 2021
-publishedDate: "2021-01-01T00:00:00.000Z"
-slug: "the-cult-of-smart-how-our-broken-education-system-perpetuates-social-injustice-by-fredrik-deboer"
-wordCount: 2632
+publishedDate: '2021-01-01T00:00:00.000Z'
+slug: the-cult-of-smart-how-our-broken-education-system-perpetuates-social-injustice-by-fredrik-deboer
+wordCount: 2627
 readingTimeMinutes: 12
-originalUrl: "https://docs.google.com/document/d/1M1m8o1HInGYJR3cEMYZ6TQgNmeBOWo98YC6djNnFWf0"
-source: "gdoc"
+originalUrl: https://docs.google.com/document/d/1M1m8o1HInGYJR3cEMYZ6TQgNmeBOWo98YC6djNnFWf0
+source: gdoc
 tags:
   - Politics
   - Society
@@ -41,11 +41,11 @@ As an aside, at the risk of sounding _incredibly_ snobbish, I have to say: the f
 
 But the point may be moot; even _had_ he cited to Gutmann, the outline of deBoer's argument would probably not have changed. Through the first seven chapters, about 2/3rds of the text, it looks something like this:
 
-> *   The ability to succeed in school has become a primary distinction between haves and have-nots.
-> *   Public education purports to reduce inequality, but as education has become more ubiquitous, inequality has actually increased.
-> *   Public education does not create "equality of opportunity" because it cannot address inborn inequalities.
-> *   "School quality" is not especially relevant to anything; it neither improves equality nor even especially improves individuals.
-> *   Differences between individuals are predominantly inborn.
+*   The ability to succeed in school has become a primary distinction between haves and have-nots.
+*   Public education purports to reduce inequality, but as education has become more ubiquitous, inequality has actually increased.
+*   Public education does not create "equality of opportunity" because it cannot address inborn inequalities.
+*   "School quality" is not especially relevant to anything; it neither improves equality nor even especially improves individuals.
+*   Differences between individuals are predominantly inborn.
 
 Suppose you accept all five points: can you derive any necessary conclusion from them? I certainly can't. Some of these points have been made more thoroughly, or more persuasively, by folks like Murray and Caplan, and more broadly they seem to be a contemporary re-tread of Goodman. I think each point has merit. But what deBoer seems to expect is that, once we've accepted all these points, we will see that "liberal education" is a failure. Our goals ("equality" is the ill-defined goal deBoer seems to assume his readers share with him) cannot be served by the status quo, and so we will be ready to
 

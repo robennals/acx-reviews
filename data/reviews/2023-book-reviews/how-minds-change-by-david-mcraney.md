@@ -1,16 +1,16 @@
 ---
-title: "How Minds Change, by David McRaney"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2023-book-reviews"
-contestName: "2023 Book Reviews"
+title: How Minds Change, by David McRaney
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2023-book-reviews
+contestName: 2023 Book Reviews
 year: 2023
-publishedDate: "2023-01-01T00:00:00.000Z"
-slug: "how-minds-change-by-david-mcraney"
-wordCount: 4653
+publishedDate: '2023-01-01T00:00:00.000Z'
+slug: how-minds-change-by-david-mcraney
+wordCount: 4642
 readingTimeMinutes: 21
-originalUrl: "https://docs.google.com/document/d/1vci14HMZ2UEJBs6mKCZZ2vHs-jVuPSsFsiN3cAENzXU"
-source: "gdoc"
+originalUrl: https://docs.google.com/document/d/1vci14HMZ2UEJBs6mKCZZ2vHs-jVuPSsFsiN3cAENzXU
+source: gdoc
 tags:
   - Psychology
   - Society
@@ -44,7 +44,7 @@ The ideas of AI Safety have made their way out there. Many people that are into 
 
 But the increased promulgation of the idea of transformational AI also caught the eye of some powerful and rich people, who proceeded to found OpenAI. Most people of a Yudkowskian bent consider this to be a major "own goal": although it's good to have one of the world's leading AI labs be a sort-of-non-profit that openly says that [they care about AI Safety](https://openai.com/blog/planning-for-agi-and-beyond), they've also created a race to AGI, accelerating AI timelines like never before.
 
-![](https://acximages.ennals.org/images/2023-book-reviews/a0c46037efddb8ee.png)
+![](https://acximages.ennals.org/images/2023-book-reviews/495f48e8996450eb.png)
 
 _[https://twitter.com/ESYudkowsky/status/1446562238848847877](https://twitter.com/ESYudkowsky/status/1446562238848847877)_ 
 
@@ -120,7 +120,7 @@ But I'll give you a taste of some of what's inside.
 
 * * *
 
-![](https://acximages.ennals.org/images/2023-book-reviews/6858500a7beacc12.png)
+![](https://acximages.ennals.org/images/2023-book-reviews/780f38bc8477862a.png)
 
 He talks to neuroscientists from NYU about how people end up with different beliefs in the first place. The neuroscientists tie it back to "[The Dress](https://en.wikipedia.org/wiki/The_dress)", pictured above. Is it blue and black, or is it white and gold? There's a boring factual answer to that question which is "it's blue and black in real life", but the more interesting question is why did people disagree on the colors in the picture in the first place?
 
@@ -152,8 +152,8 @@ He dives into research that shows that people are way better at picking apart ot
 
 He then interviews some experts about the "Elaboration-Likelihood Model". It describes two modes of persuasion:
 
-> 1.  The "Peripheral Route", in which people don't think too hard about an argument and instead base their attitudes on quick, gut feelings like whether the person is attractive, famous, or confident-sounding.
-> 2.  The "Central Route", which involves a much slower and more effortful evaluation of the content of the argument.
+1.  The "Peripheral Route", in which people don't think too hard about an argument and instead base their attitudes on quick, gut feelings like whether the person is attractive, famous, or confident-sounding.
+2.  The "Central Route", which involves a much slower and more effortful evaluation of the content of the argument.
 
 To me, this sounds a lot like [System 1 and System 2 thinking](https://thedecisionlab.com/reference-guide/philosophy/system-1-and-system-2-thinking). But the catch is it takes motivation to get people to expend the effort to move to the Central Route. Nobody's ever motivated to think too hard about ads, for example, so they almost always use the Peripheral Route. But if you're _actually_ trying to change people's minds, especially on something they hold dear, you _need_ to get them to the Central Route.
 
@@ -163,9 +163,9 @@ Then there are the most valuable parts of the book: techniques you can employ to
 
 David interviews three different groups of people that independently pioneered three _surprisingly similar_ techniques:
 
-> *   **[Deep Canvassing](https://deepcanvass.org/)** is a technique pioneered by the Los Angeles LGBT Centre. Volunteers developed it as a way to do door-to-door canvassing in support of LGBT rights and same-sex marriage in the wake of California's 2008 [Prop 8 amendment](https://en.wikipedia.org/wiki/2008_California_Proposition_8) which made same-sex marriage illegal.
-> *   **[Street Epistemology](https://streetepistemology.com/)** is an outgrowth of the New Atheist movement, who went from trying to convince people that religion is false, to a much more generalized approach to helping people explore the underpinning behind any of their beliefs and whether those underpinnings are solid.
-> *   **[Smart Politics](https://www.joinsmart.org/)** is a technique developed by Dr. Karen Tamerius of the progressive-advocacy organization of the same name, and based on a therapy technique called Motivational Interviewing.
+*   **[Deep Canvassing](https://deepcanvass.org/)** is a technique pioneered by the Los Angeles LGBT Centre. Volunteers developed it as a way to do door-to-door canvassing in support of LGBT rights and same-sex marriage in the wake of California's 2008 [Prop 8 amendment](https://en.wikipedia.org/wiki/2008_California_Proposition_8) which made same-sex marriage illegal.
+*   **[Street Epistemology](https://streetepistemology.com/)** is an outgrowth of the New Atheist movement, who went from trying to convince people that religion is false, to a much more generalized approach to helping people explore the underpinning behind any of their beliefs and whether those underpinnings are solid.
+*   **[Smart Politics](https://www.joinsmart.org/)** is a technique developed by Dr. Karen Tamerius of the progressive-advocacy organization of the same name, and based on a therapy technique called Motivational Interviewing.
 
 (Sorry, it doesn't look like the conservatives have caught on to this kind of approach yet.)
 
@@ -175,12 +175,12 @@ _Among the persuasive techniques that depend on technique rebuttal, street epist
 
 But all of them follow a similar structure. Roughly speaking, it's something like this:
 
-> 1.  **Establish rapport.** Make the other person feel comfortable, assure them you're not out to shame or attack them, and ask for consent to work through their reasoning.
-> 2.  **Ask them for their belief.** For best results, ask them for a confidence level from one to ten. Repeat it back to them in your own words to confirm you understand what they're saying. Clarify any terms they're using.
-> 3.  **Ask them why they believe what they do.** Why isn't their confidence lower or higher?
-> 4.  **Repeat their reasons back to them in your own words.** Check that you've done a good job summarizing.
-> 5.  **Continue like this for as long as you like.** Listen, summarize, repeat.
-> 6.  **Wrap up**, thank them for their time, and wish them well. Or, suggest that you can continue the conversation later.
+1.  **Establish rapport.** Make the other person feel comfortable, assure them you're not out to shame or attack them, and ask for consent to work through their reasoning.
+2.  **Ask them for their belief.** For best results, ask them for a confidence level from one to ten. Repeat it back to them in your own words to confirm you understand what they're saying. Clarify any terms they're using.
+3.  **Ask them why they believe what they do.** Why isn't their confidence lower or higher?
+4.  **Repeat their reasons back to them in your own words.** Check that you've done a good job summarizing.
+5.  **Continue like this for as long as you like.** Listen, summarize, repeat.
+6.  **Wrap up**, thank them for their time, and wish them well. Or, suggest that you can continue the conversation later.
 
 Each technique has slightly different steps, which you can find in full in Chapter 9.
 
@@ -228,7 +228,7 @@ I know Yudkowsky doesn't necessarily endorse everything his fictional characters
 
 It's not just his fiction. Recently he went on what he thought was a low-stakes crypto podcast and was _surprised_ that the hosts wanted to actually hear him out when he said we were all going to die soon:
 
-![](https://acximages.ennals.org/images/2023-book-reviews/9c00e2a419482ca4.png)
+![](https://acximages.ennals.org/images/2023-book-reviews/8740b2effba707d2.png)
 
 _[https://twitter.com/ESYudkowsky/status/1632140760828235777](https://twitter.com/ESYudkowsky/status/1632140760828235777)_ 
 

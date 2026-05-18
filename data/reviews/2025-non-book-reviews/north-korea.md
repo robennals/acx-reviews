@@ -7,10 +7,9 @@ contestName: 2025 Non Book Reviews
 year: 2025
 publishedDate: '2026-02-06T16:55:03.482Z'
 slug: north-korea
-wordCount: 4438
+wordCount: 4440
 readingTimeMinutes: 20
-originalUrl: >-
-  https://docs.google.com/document/d/1a3q0Z2tuPLLbDeg5-pfEffkajGjrfPDwE7ZMs7uaWQs
+originalUrl: https://docs.google.com/document/d/1a3q0Z2tuPLLbDeg5-pfEffkajGjrfPDwE7ZMs7uaWQs
 source: gdoc
 tags:
   - Politics
@@ -67,7 +66,7 @@ Incidentally, Lee does not have the same haircut as Kim Jong Un, and I am told t
 
 After dinner, we drive to my hotel. This is on an island in the middle of the river. Really. I am told that I can walk around it but should not walk far or leave the island. The hotel is clean but not luxurious. I do not have clean water in my room, so I boil water (taking >5 minutes in my Soviet-style kettle) and then place the boiled water in my fridge. I hope the resulting water is clean to drink.
 
-**Day Two**
+## Day Two
 
 Breakfast is tomato, toast, some kind of sour milk-based drink, and eggs. The breakfast room has a huge mural up but otherwise could pass for a youth hostel. On the way out, Yu tells me that the license plates are divided into various colours. Red and blue are for foreigners, yellow for privately owned, black for the military, and white for the government. Almost all of the cars have white plates, but I see a few black. A couple of hours later, Yu draws my attention to one yellow plate.
 
@@ -110,7 +109,7 @@ I ask Yu and Lee about Korean drinking games and they play Rock Paper Scissors w
 
 The five of us go on to karaoke. On the way we see people bare-chested in a sports room playing table tennis.
 
-**Day Three**
+## Day Three
 
 We are going to the Mausoleum, where President and General are laid out for state visits. This is very, very serious. Most people have ties. I wear my least crumpled clothes. Yu tells me to leave most of my things in the bus and take only my wallet, from which I remove everything other than money.
 

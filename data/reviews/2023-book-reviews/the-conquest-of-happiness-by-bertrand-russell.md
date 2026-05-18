@@ -1,23 +1,23 @@
 ---
-title: "The Conquest of Happiness by Bertrand Russell"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2023-book-reviews"
-contestName: "2023 Book Reviews"
+title: The Conquest of Happiness by Bertrand Russell
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2023-book-reviews
+contestName: 2023 Book Reviews
 year: 2023
-publishedDate: "2023-01-01T00:00:00.000Z"
-slug: "the-conquest-of-happiness-by-bertrand-russell"
-wordCount: 4130
+publishedDate: '2023-01-01T00:00:00.000Z'
+slug: the-conquest-of-happiness-by-bertrand-russell
+wordCount: 4141
 readingTimeMinutes: 19
-originalUrl: "https://docs.google.com/document/d/1AtGIIv371v0Yu35eNsIxJr67dw4SHOiGdKrqmoKt2hg"
-source: "gdoc"
+originalUrl: https://docs.google.com/document/d/1AtGIIv371v0Yu35eNsIxJr67dw4SHOiGdKrqmoKt2hg
+source: gdoc
 tags:
   - Philosophy
   - Psychology
   - Society
 ---
 
-**i.**
+## i.
 
 The SSC subreddit is excellent — a bric-a-brac shop of career advice, AI news, psychology studies and mods who discipline you for badly named posts.
 
@@ -29,7 +29,7 @@ In all honesty, I doubt whether most books can deliver their promise. If you bou
 
 But if you’re looking for practical life advice and a bit of psychological insight on the side, then I might have the book for you.
 
-**ii.**
+## ii.
 
 The Conquest of Happiness is a self-help book, published in 1930 and written by Bertrand Russell (_the_ Bertrand Russell).
 
@@ -43,7 +43,7 @@ Anyway, my point is this. Where I’ve been able to follow Russell’s advice, I
 
 And maybe that’s not a bad form of effective altruism.
 
-**iii.**
+## iii.
 
 I don’t need to tell ACX readers who Bertrand Russell was, but it’s worth reminding ourselves that he isn’t our average self-help author.
 
@@ -57,7 +57,7 @@ He also has the experience to boot. Russell was an unhappy child. At the age of 
 
 Hats off to anyone who decides that what suicidal teens need is extra maths lessons, but it’s not the conclusion Russell wants you to draw. We’ll come back to what he learned about impersonal interests (like maths) a bit later.
 
-**iv.**
+## iv.
 
 In the meantime, I should point out that Russell doesn’t claim his book can take the place of a psychiatrist, because it very obviously can’t. He’s not trying to solve the kind of unhappiness that needs medication and regular treatment. Instead he’s trying to solve the kind of unhappiness that takes the fun out of life without being debilitating, the kind of unhappiness that makes everything feel like a chore at best and low-level sad at worst. We’ve all been there, we’ve all felt it, so (in theory at least) we can all benefit.
 
@@ -67,7 +67,7 @@ That’s not the case here. And for something published in 1930, the Conquest of
 
 I’m not sure. But if you’re worried about wasting time or receiving advice only relevant to your great-grandparents, don’t be.
 
-**v.**
+## v.
 
 The eight causes of unhappiness that Russell identifies are Byronic unhappiness, competition, boredom and excitement, fatigue, envy, the sense of sin, persecution mania, and fear of public opinion.
 
@@ -75,13 +75,13 @@ The six paths to happiness are zest, affection, the family, work, impersonal int
 
 I won’t go through these one by one; some of them need longer treatment than I could give here, and after attacking self-indulgent authors I’m wary of becoming one myself. So instead I’ll share a few pieces of Russell’s advice, the ones that I’ve found the most useful, in the hope that this will help you conquer your own bit of happiness — and even persuade you to read the book.
 
-**vi.**
+## vi.
 
 Let’s start with Byronic unhappiness. If you’ve ever been a teenager, you’ll know what it is. Russell quotes a number of authors as examples, but the best one is God (/Solomon/the authors of Ecclesiastes): _For in much wisdom is much grief: and he that increaseth knowledge increaseth sorrow_. There’s nothing new under the sun, your work turns to dust when you die — or, worse, benefits someone else — and all is vanity.
 
 This type of unhappiness is easy to mock. It’s an unhappiness that’s proud of itself. It’s an unhappiness with its own meme.
 
-![](https://acximages.ennals.org/images/2023-book-reviews/d0073b6f84e7114b.png)
+![](https://acximages.ennals.org/images/2023-book-reviews/bb3245a23207f9b5.png)
 
 We’ve all felt this sentiment, and it’s obviously a defence against the world: when you see people enjoying simple pleasures and you’re not sure how to enjoy them too, you console yourself with the thought that those pleasures don’t really matter, that nothing really matters, that the cost of your superior wisdom is the denial of foolish joy. Which is all nonsense, of course, but it’s comforting nonsense if you’re in the right frame of mind.
 
@@ -97,7 +97,7 @@ Now of course Russell would ideally like me to go a step further, particularly i
 
 But actually that doesn’t matter. If the advice itself makes me happy, fills me with excitement even when I can’t act on it, reminds me that life is no more and no less than mine to do things with, then it’s a win. Kurt Vonnegut once wrote that we should live by the _foma_ [harmless untruths] that make us brave and kind and healthy and happy; we could also live by the advice that makes us feel similarly.
 
-**vii.**
+## vii.
 
 Occupying our time is more of a challenge than it should be. As I just wrote, life for most rich westerners is whatever we make of it — and often we make it boring. We don’t hunt for our food, we don’t live by the sword, and we don’t fight to win mates (though I hear all three still occur in some nightclubs). This lack of excitement is a problem, according to Russell, because our history hasn’t taught us how to deal with it.
 
@@ -113,7 +113,7 @@ _Many pleasures, of which we may take gambling as a good example, have in them n
 
 We’ve all felt like that: sated but not satisfied. It’s an unpleasant feeling that has a simple solution: long walks in the countryside. Nature really does give you something that quick-hit activities don’t. When I return from a long walk through the countryside, I feel physically fatigued but mentally refreshed. And this seems to be a common experience. Best of all, it’s cost-free, assuming there’s a tragic commons nearby — and if it doesn’t work for you, you’ve lost nothing except a bit of time.
 
-**viii.**
+## viii.
 
 Another incredibly useful concept that Russell returns to again and again is mental hygiene. By this he means choosing to think about things only when there’s some benefit to thinking about them.
 
@@ -141,7 +141,7 @@ Whether or not my analysis of those billionaires is correct, the concept of ment
 
 In fact, even when I’m not willing to snap myself out of bad thought patterns, just having a concept called mental hygiene makes me think: oh, okay, it’s possible to fix this stuff, even if I don’t want to do so right now. And when I remember that — poof, the worries disappear. This is obviously not the correct way to go about achieving mental hygiene, _but it works_. And placebos that work without requiring you to abandon a rational view of the world shouldn’t be dismissed.
 
-**ix.**
+## ix.
 
 We all have a sense of sin, including those of us who aren’t religious. Our own particular sense of sin may be caused by having a one-night stand, or by starting to smoke again, or by telling a lie; whatever the cause, it often comes to the fore when we’re drunk or sad.
 
@@ -161,7 +161,7 @@ A sense of sin is ‘abject’ and destroys self-respect, and how many people la
 
 This is similar to mental hygiene. Choosing to wallow in guilt is as unhealthy as choosing to wallow in problems when nothing can be done about them. And again, if you put the effort in, many of us can overcome these obstacles and live happier lives.
 
-**x.**
+## x.
 
 The final piece of advice I want to mention isn’t really advice at all. It’s an almost casual statement, buried deep in the book, that ended up having a big impact on me.
 
@@ -181,7 +181,7 @@ You might be more progressive than I am, or you might be younger than I am, in w
 
 _The only ultimate cure for this evil is, however, an increase of toleration on the part of the public. The best way to increase toleration is to multiply the number of individuals who enjoy real happiness and do not therefore find their chief pleasure in the infliction of pain upon their fellow men._
 
-**xi.**
+## xi.
 
 One of the reasons I enjoy Russell’s popular work is because it feels like there’s nothing riding on it. There weren’t any podcasts he was dying to be a guest on, there weren’t any awards he was hoping to win, there wasn’t a kind of fame that he didn’t already have or wasn’t on the way to having.
 

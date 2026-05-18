@@ -1,7 +1,5 @@
 ---
-title: >-
-  Death Review - The Lives, Deaths, & Legacies of Mata Hari, Princess Diana, &
-  Joan of Arc
+title: Death Review - The Lives, Deaths, & Legacies of Mata Hari, Princess Diana, & Joan of Arc
 author: Unknown
 reviewAuthor: Anonymous
 contestId: 2025-non-book-reviews
@@ -11,8 +9,7 @@ publishedDate: '2026-02-06T16:52:48.891Z'
 slug: death-review-the-lives-deaths-legacies-of-mata-hari-princess-diana-joan-of-arc
 wordCount: 9346
 readingTimeMinutes: 42
-originalUrl: >-
-  https://docs.google.com/document/d/1d0vRSj1E93joWWvbUen2XGuDjN_mM94ybMIAADzM2fo
+originalUrl: https://docs.google.com/document/d/1d0vRSj1E93joWWvbUen2XGuDjN_mM94ybMIAADzM2fo
 source: gdoc
 tags:
   - History

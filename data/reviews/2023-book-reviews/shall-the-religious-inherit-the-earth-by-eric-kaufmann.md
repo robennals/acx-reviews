@@ -1,16 +1,16 @@
 ---
-title: "Shall the Religious Inherit the Earth? by Eric Kaufmann"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2023-book-reviews"
-contestName: "2023 Book Reviews"
+title: Shall the Religious Inherit the Earth? by Eric Kaufmann
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2023-book-reviews
+contestName: 2023 Book Reviews
 year: 2023
-publishedDate: "2023-01-01T00:00:00.000Z"
-slug: "shall-the-religious-inherit-the-earth-by-eric-kaufmann"
-wordCount: 3144
-readingTimeMinutes: 14
-originalUrl: "https://docs.google.com/document/d/1vci14HMZ2UEJBs6mKCZZ2vHs-jVuPSsFsiN3cAENzXU"
-source: "gdoc"
+publishedDate: '2023-01-01T00:00:00.000Z'
+slug: shall-the-religious-inherit-the-earth-by-eric-kaufmann
+wordCount: 3175
+readingTimeMinutes: 15
+originalUrl: https://docs.google.com/document/d/1vci14HMZ2UEJBs6mKCZZ2vHs-jVuPSsFsiN3cAENzXU
+source: gdoc
 tags:
   - Religion
   - Society
@@ -27,7 +27,7 @@ It’s like this for seculars:
 
 Vs. this for conservative and orthodox religious folks:
 
-![](https://acximages.ennals.org/images/2023-book-reviews/bc313b1e6d79aac9.png)
+![](https://acximages.ennals.org/images/2023-book-reviews/5affe815909dd684.png)
 
 [https://www.youtube.com/watch?v=mWWAC5ZMKeM](https://www.youtube.com/watch?v=mWWAC5ZMKeM)
 
@@ -105,7 +105,7 @@ Through millennia, the oppressive trinity of men, religion, and government has b
 
 But maybe for people that don’t have children, a potentially theocratic future at odds with their personal belief system doesn’t matter. Maybe immanentizing their own personal eschaton instead of propelling their ideas into the future through their children is a rational choice. Also, if someone believes that the world will end from some other catastrophe before the coming takeover by religious zealots, maybe these trends don’t matter.
 
-![](https://acximages.ennals.org/images/2023-book-reviews/9d2737fd91eb229e.png)
+![](https://acximages.ennals.org/images/2023-book-reviews/0f34df7f7c8ac360.png)
 
 ## When will the Religious Zombies Issue Forth from the Earth and Eat Every Secular Brain?
 
@@ -129,41 +129,13 @@ At current growth rates, the Anabaptists could reach 20% of the population of PA
 
 What will that mean? Below are a few things Anabaptists are likely to institute, either de jure through legislation, or de facto through social taboos. For convenience, they are broken into things right-wingers will probably hate, things left-wingers will probably hate, and things everyone who is not an Anabaptist will probably hate. Some might not be immediately obvious why Anabaptists would push them. Think anti-technology Ludditism, combined with an economic model that employs most members on small family or communal farms and businesses, where children are significant economic producers. The list is certainly not exhaustive. YMMV on where in the chart you might put things based on your particular flavor of left/right/other.
 
-**Things Right Wingers Will Probably Hate**
-
-**Things Left Wingers Will Probably Hate**
-
-**Things Everyone Who is not an Anabaptist Will Probably Hate**
-
-No cars
-
-Few women in the work force, and restrictions on the types of work they do
-
-No fun of any kind (no sex, drugs, and rock-and-roll; and no alcohol or gambling)
-
-No right to bear arms
-
-No LGBTQ+ rights
-
-Really ugly clothes
-
-Child marriages/reduced age of consent
-
-Creationism taught in schools
-
-Return of child labor
-
-Pacifism (reduced military spending or possibly total disarmament)
-
-No vaccine or other medical mandates
-
-Businesses closed on holy days
-
-Bans on pesticides and fertilizers
-
-_Laissez-faire_ attitude toward regulation of businesses
-
-No funding for scientific or medical research
+| Things Right Wingers Will Probably Hate | Things Left Wingers Will Probably Hate | Things Everyone Who is not an Anabaptist Will Probably Hate |
+| --- | --- | --- |
+| No cars | Few women in the work force, and restrictions on the types of work they do | No fun of any kind (no sex, drugs, and rock-and-roll; and no alcohol or gambling) |
+| No right to bear arms | No LGBTQ+ rights | Really ugly clothes |
+| Child marriages/reduced age of consent | Creationism taught in schools | Return of child labor |
+| Pacifism (reduced military spending or possibly total disarmament) | No vaccine or other medical mandates | Businesses closed on holy days |
+| Bans on pesticides and fertilizers | Laissez-faire attitude toward regulation of businesses | No funding for scientific or medical research |
 
 So, this is for PA. In states like California, would people be free of religious domination? If the model is right, it might take longer, but the process could be inexorably the same. After the Mormons fill up Utah, will they eventually spill over into the entire southwest?
 

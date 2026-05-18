@@ -7,10 +7,9 @@ contestName: 2025 Non Book Reviews
 year: 2025
 publishedDate: '2026-02-06T16:55:03.478Z'
 slug: judaism
-wordCount: 4063
+wordCount: 4059
 readingTimeMinutes: 19
-originalUrl: >-
-  https://docs.google.com/document/d/1a3q0Z2tuPLLbDeg5-pfEffkajGjrfPDwE7ZMs7uaWQs
+originalUrl: https://docs.google.com/document/d/1a3q0Z2tuPLLbDeg5-pfEffkajGjrfPDwE7ZMs7uaWQs
 source: gdoc
 tags:
   - Religion
@@ -20,7 +19,6 @@ tags:
 
 Any review of Judaism must be insufficient, skewed. Overreaching statements, bombast, long digressions agonisingly cut. I’m sorry in advance. Here we go.
 
-  
 This review will be centered around Judaism’s four great strengths: law, persecution, comedy, and hats. At the end, we might spare a few sentences for her four great weaknesses: food, dance, fashion, and Tay-Sachs.
 
 ## Law
@@ -61,13 +59,14 @@ Around 200 AD, a Jewish leader called Judah the Prince sees his chance. Renowned
 
 ![](https://acximages.ennals.org/images/2025-non-book-reviews/a07027157fd90450.png)
 
-_For a good time, compare the opening passage of_ _[Book 2 of the ‘Meditations’](https://classics.mit.edu/Antoninus/meditations.2.two.html)_ _with Judah the Prince’s personal prayer at the bottom of_ _[Berakhot 16b](https://www.sefaria.org/Berakhot.16b?lang=en)_ 
+_For a good time, compare the opening passage of_ _[Book 2 of the ‘Meditations’](https://classics.mit.edu/Antoninus/meditations.2.two.html)_   
+_with Judah the Prince’s personal prayer at the bottom of_ _[Berakhot 16b](https://www.sefaria.org/Berakhot.16b?lang=en)_ 
 
 Judah the Prince assembles the learned men of his day, and redacts the Oral Law into a single unified text called “the Mishnah” (lit. “repetition”; “recital”; “sharpening”; “toothmaker”; even “teaching”). Omissions and contradictions are ironed out; supplementary materials considered canonical-but-superfluous make their way into less-central compilations.
 
 The Mishnah is taught to generation after generation of trainee judge, with a teacher’s manual called the Gemara gradually being added to the corpus. After about four hundred years of this, the final combination of Mishnah + Gemara are compiled into a text that will become Judaism’s source code in exile: an intricate literary goliath called “the Talmud” (lit. “teaching”, once again). Confusingly, the entire Talmud is often also simply called the Gemara.
 
-![](https://acximages.ennals.org/images/2025-non-book-reviews/51039e8cb9bb3fd8.png)
+![](https://acximages.ennals.org/images/2025-non-book-reviews/afc5111b4f1788ff.png)
 
 _The 73-volume Artscroll translation of the Talmud, complete with commentary. A steal at merely_ _[$2,999 USD](https://www.amazon.com/Complete-Talmud-Bavli-Full-Size-Schottenstein/dp/B0037XGR6I)__._
 
@@ -87,14 +86,13 @@ Being raised in the social milieu of their host nations meant that Jews now lear
 
 When we look back at the arguments of the sages in the Talmud, it sure seems like they’re playing Absurd Divine Legal Sudoku as well, at least at first glance. But with an appreciation of their material conditions and shared language, you can still glimpse [the real high-stakes conversations they were having](https://www.academia.edu/8844716/_The_Prosbul_A_Legal_Fiction_Jewish_Law_Annual_19_1_16), albeit framed in an [unfamiliar theologically-laden shorthand](https://www.academia.edu/112985684/Wise_hukkim_and_the_Byzantine_sermonic_ideology_of_a_Divine_fiat).
 
-![](https://acximages.ennals.org/images/2025-non-book-reviews/327197922d416e01.png)
+![](https://acximages.ennals.org/images/2025-non-book-reviews/5242b4199626c46a.png)
 
 _“From what time does one recite Shema in the evening?” the Talmud begins, presuming you already know (a) what the Shema is, (b) that it is recited in the evening, (c) what the function of that recitation is, and (d) that there are more- and less- ideal times for its recitation._
 
 Although most people studying the Talmud today are missing a huge amount of context, they can (and do) still greatly exert their minds in following the logic of her arguments. And while this tragic misunderstanding yet persists - that the Classical sages were only playing Absurd Divine Legal Sudoku - the study of the Talmud still trains a mind to think in a robust and useful way. Although [a point of hot contention](https://pubmed.ncbi.nlm.nih.gov/16867211/) (like everything else), it is often thought that this rigour is what has honed the Jewish mind to master other domains like economics, chemistry, literature, and mathematics. In _The Polgar Variant_, László Polgár, who validated his pedagogical methodology by raising his three daughters into chess grandmasters, genuflects briefly, but tantalisingly, to the Talmud.
 
-![](https://acximages.ennals.org/images/2025-non-book-reviews/1b1a4061ef4facaf.png)_  
-A fun image to drop into various conversations, I think._
+![](https://acximages.ennals.org/images/2025-non-book-reviews/1b1a4061ef4facaf.png)_A fun image to drop into various conversations, I think._
 
 I have a friend who was ordained as a rabbi, then went to law school. “After yeshiva, law school was _easy_,” he told me.
 
@@ -172,14 +170,13 @@ Another thing that persecution helps with is being funny. Use your pain, they sa
 
 We can distinguish fairly neatly between Jewish comedy and comedy by Jews. In the latter, you have your Jerries Seinfeld, your Rodneys Dangerfield, your Jons Stewart. In the former, it’s a different breed. Mel Brooks might be the only true master of Jewish comedy to break through to broader popularity, but from within the tribe, the type specimen is [a man named Jackie Mason](https://www.youtube.com/watch?v=0hz8oCT2HTc).
 
-![](https://acximages.ennals.org/images/2025-non-book-reviews/9b7c4c453c638fbe.png)_"My grandfather always said that I shouldn't watch my money. That I should watch my health.  
-So while I was watching my health, someone stole my money. It was my grandfather."_
+![](https://acximages.ennals.org/images/2025-non-book-reviews/9b7c4c453c638fbe.png)_"My grandfather always said that I shouldn't watch my money. That I should watch my health._  
+_So while I was watching my health, someone stole my money. It was my grandfather."_
 
 We’re a neurotic people, with plenty to be neurotic about. It’s hard to say that the comedy is always helping, rather than making things worse. But when it does help, it seems to have two main benefits. An old Hassidic tale:
 
 > Reb Simcha Bunim of Przysucha was walking by a river and saw a man drowning. He called to the man, “give my regards to the Leviathan!”
 >
->   
 > The man laughed, and so Reb Bunim was able to reach out and save him.
 
 I mentioned this story to a friend, who said “it’s obviously about depression right? Can we agree that’s what this story is about?”
@@ -230,7 +227,7 @@ Most Jews don’t wear hats, but for those who do, hats are very serious busines
 
 Jewish law requires men to cover their heads. Males start wearing one of these from the age of three:
 
-![](https://acximages.ennals.org/images/2025-non-book-reviews/ab0b5e7e761729a5.png)
+![](https://acximages.ennals.org/images/2025-non-book-reviews/64d6ac6b51ef7d99.png)
 
 It’s called a kippah (lit. “cover”) or yarmulke (lit. “fear of the King”), and it’s meant to indicate humility before one’s Creator.
 
@@ -238,12 +235,11 @@ It’s called a kippah (lit. “cover”) or yarmulke (lit. “fear of the King�
 
 OK, so far so good. The kippah above is a fairly standard Chabad design. Here’s a selection of other designs, along with [attached signaling information](https://www.pewresearch.org/short-reads/2016/04/20/what-different-styles-of-head-coverings-say-about-israeli-jewish-men/):
 
-![](https://acximages.ennals.org/images/2025-non-book-reviews/7281e46a0449e8de.png)_  
-Hard to believe this is straight from Pew._
+![](https://acximages.ennals.org/images/2025-non-book-reviews/d1c6904b0d731ad1.png)_Hard to believe this is straight from Pew._
 
 If you’re sufficiently attuned to the Matrix, you can tell all sorts of things about a Jew from his hat. There’s the basic divide between the black kippot and the knitted kippot. You can often tell how serious a guy is in his faith (or how much he wants his faith to be taken as a core part of his identity) by the size of his kippah. And he’ll sometimes tell you explicitly about his political or sports or pop culture allegiances too.
 
-![](https://acximages.ennals.org/images/2025-non-book-reviews/9cec682b772335bb.png)![](https://acximages.ennals.org/images/2025-non-book-reviews/c5ca39b6d434b558.png)![](https://acximages.ennals.org/images/2025-non-book-reviews/f6b8d2399ad9f5ad.png)
+![](https://acximages.ennals.org/images/2025-non-book-reviews/9cec682b772335bb.png)![](https://acximages.ennals.org/images/2025-non-book-reviews/17692df405d5dcd9.png)![](https://acximages.ennals.org/images/2025-non-book-reviews/92d75d97baa2d83a.png)
 
 But once you get into the ultra-Orthodox world, you’re normally seeing an additional hat on top of the kippah. Take a look:
 
@@ -251,8 +247,7 @@ But once you get into the ultra-Orthodox world, you’re normally seeing an addi
 
 At first glance, they’re all dressed the same, right? But the longer you look, the more you notice subtle differences. These differences speak volumes to those who have ears to hear. I recently asked a good friend and mentor of mine to explain his hat.
 
-![](https://acximages.ennals.org/images/2025-non-book-reviews/14369be71af00e75.png)_  
-His hat looks like this._
+![](https://acximages.ennals.org/images/2025-non-book-reviews/c8be74394bf8aef1.png)_His hat looks like this._
 
 He said, and I quote here almost verbatim:
 
@@ -262,19 +257,18 @@ I wish I knew enough to explain what is going on here. Really, I do. I thought a
 
 But, in the end, I decided that my ignorance would be a teaching moment. The lesson is important, and it’s kinda the same as the point I started with.
 
-  
 Even though I’m the guy teaching you about Judaism, I still barely have any idea what’s going on. And to be honest, I’m not entirely sure that the vastness of the machinery can be fully understood by a single person. There are people who spend their whole lives on it, and still barely grasp their own small section of the edifice.
 
 As Rabbi Eliezer [said on his deathbed](https://www.sefaria.org/Sanhedrin.68a.5?lang=en):
 
-> I have learned much Torah, and I have taught much Torah.  
->   
-> I have learned much Torah, yet I took from my teachers like a dog lapping at the ocean.  
->   
+> I have learned much Torah, and I have taught much Torah.
+>
+> I have learned much Torah, yet I took from my teachers like a dog lapping at the ocean.
+>
 > I have taught my Torah, yet my students took from me like the quill draws from the inkwell.
 
 So, please, take everything I’ve said with a sense of perspective.
 
 And if you’re ever in Jerusalem, [come for Shabbos](mailto:metonacx@gmail.com). (I’m serious, btw. I’ve cleared it with my wife and everything.)
 
-![](https://acximages.ennals.org/images/2025-non-book-reviews/c1ad1a57f96b197e.png)
+![](https://acximages.ennals.org/images/2025-non-book-reviews/afa67906094a2752.png)

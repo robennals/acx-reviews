@@ -7,17 +7,16 @@ contestName: 2022 Book Reviews
 year: 2022
 publishedDate: '2026-02-06T07:21:54.170Z'
 slug: the-narrow-road-to-the-deep-north-by-matsuo-basho
-wordCount: 1578
+wordCount: 1586
 readingTimeMinutes: 8
-originalUrl: >-
-  https://docs.google.com/document/d/1hFzjXliCAWjvheY-8Qd2fhbF79LnX0Xg6R9eqk9yIyI
+originalUrl: https://docs.google.com/document/d/1hFzjXliCAWjvheY-8Qd2fhbF79LnX0Xg6R9eqk9yIyI
 source: gdoc
 tags:
   - Fiction
   - Memoir
 ---
 
-**Part 1: So It Begins**
+## Part 1: So It Begins
 
 In 1689, the Japanese poet Matsuo Basho, along with his companion Sora, set out from his home in Edo (now Tokyo) on a long and dangerous journey to travel through the north of Japan. The road was dangerous enough that many think his reason for selling his house before he left was that he did not expect to make it back. He documented his adventure on the road in a book combining both prose and poetry (specifically haiku), _The Narrow Road to the Deep North_.
 
@@ -25,9 +24,8 @@ In 1689, the Japanese poet Matsuo Basho, along with his companion Sora, set out 
 
 “_The passing spring_
 
-_Birds mourn_
-
-_Fishes weep_
+> _Birds mourn_  
+> _Fishes weep_
 
 _With tearful eyes_”
 
@@ -39,7 +37,7 @@ But subjected to haiku
 
 You: disappointed.
 
-**Part 2: Seasons Don’t Fear the Weeper**
+## Part 2: Seasons Don’t Fear the Weeper
 
 Basho cries a lot:
 
@@ -67,21 +65,20 @@ One other unusual thing about his account was how popular poetry appears to have
 
 Great pleasure, indeed. But seriously, between all of the hermits and all of the poets, how many people were left to, I don’t know, grow food? How productive/rich was Japan in 1689? Besides the hermits and priests, most of the people that Basho sees from the road are, in fact, farmers, and the non-poets he visits in the cities are merchants. Yes, I know that the people Basho visited were not a random sample of the general population, but overall I still finished this book thinking Japan was much better off at this time than I had originally thought.
 
-**Part 3: About the Poetry and Translation**
+## Part 3: About the Poetry and Translation
 
 My copy of _Narrow Road_ is from a translation by Nobuyuki Yuasa, who also supplied the introduction. There he states that his choice of a four-line stanza was “the closest approximation of natural conversational rhythm” that is central to haiku. In fact, “this translation is primarily intended for lovers of poetry.” I was relieved by this - I had been concerned that the five-seven-five form would be adhered to strictly, to the poetry’s detriment, but this was not the case. I found the poetry to be beautiful and had no complaints with the structure, but if you really need your poems to total seventeen syllables in three lines like my English teacher in fourth grade, this translation is not for you.[[3]](#ftnt3) I quoted one of Basho’s haiku earlier, but for further reference, here is what the translation of his justifiably most famous haiku looks like with this style. From the introduction:
 
 “_Breaking the silence_
 
-_Of an ancient pond,_
-
-_A frog jumped into water -_
+> _Of an ancient pond,_  
+> _A frog jumped into water -_
 
 _A deep resonance._”
 
 One useful thing about _Narrow Road_, or really the introduction in the copy I have, is the background information regarding the development of haiku poetry. For example, you learn of linked verse (renga), where strings of poems are tied together in one long chain by a group of poets, each of whom would link their poem to the preceding one through “witty association or verbal play”. Basho wrote linked verse with priests and his poet friends (and of course those “rough villagers”) on his journey, and in fact furthered the art by linking verses on a deeper, spiritual level. Personally, I don’t have poet friends or rough villagers with which to write. Nevertheless…
 
-**Part 4: The Travelers of Eternity**
+## Part 4: The Travelers of Eternity
 
 …I’d like to share my own parting linked verse with you concerning this book and what reading it has done for me. Basho took to the road, carrying not more than a few possessions, on a journey he may have thought would be his last. I can’t help but feel inspired by _Narrow Road_ - I feel like I’d rather travel a safe road than a dangerous one, but in any case Basho’s travels have given me a bit of wanderlust. This is of course a cliche, but it’s hard not to see the parallels between a long, difficult journey and life itself. For me, at least, _The Narrow Road to the Deep North_ has served as a reminder to seek adventure, and enjoy the beauty in the simple things along the way.
 

@@ -1,16 +1,16 @@
 ---
-title: "Wealth in Families, by Charles Collier"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2023-book-reviews"
-contestName: "2023 Book Reviews"
+title: Wealth in Families, by Charles Collier
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2023-book-reviews
+contestName: 2023 Book Reviews
 year: 2023
-publishedDate: "2023-01-01T00:00:00.000Z"
-slug: "wealth-in-families-by-charles-collier"
-wordCount: 3055
+publishedDate: '2023-01-01T00:00:00.000Z'
+slug: wealth-in-families-by-charles-collier
+wordCount: 3076
 readingTimeMinutes: 14
-originalUrl: "https://docs.google.com/document/d/1D2MGZ7HW1vRtOtfXYIx9BBUt6ubjEA2n06gpoHcxaFY"
-source: "gdoc"
+originalUrl: https://docs.google.com/document/d/1D2MGZ7HW1vRtOtfXYIx9BBUt6ubjEA2n06gpoHcxaFY
+source: gdoc
 tags:
   - Economics
   - Philosophy
@@ -28,7 +28,7 @@ This is a remarkably clear-eyed and non-apologetic account of the purpose of cha
 
 The best reason for existence that can be imagined for this work – straddling the awkward zone between a book and a pamphlet – is as a sort of advertising copy for the Harvard Department of Generous Gifts. When a donor was visiting the grounds of The Campus, Mr. Collier might slip the thin Crimson paperback of _Wealth in Families_ into their deep pockets as a parting gift, just to impart that the donor-donee relationship is bidirectional. That is, you give us the cash, and we will help you decipher the meaning of it.
 
-**The Meaning of Wealth**
+## The Meaning of Wealth
 
 We talk a lot about the meaning of life. Life is given without asking, and for the most part we have to make a serious and creative effort to convince ourselves to enjoy it in full. We think little about the meaning of _wealth_. That is because for most of us, the meaning of wealth is readily apparent. Wealth allows us continued food and shelter, and if we suddenly lost our ability to gain wealth we would eventually wither into nothingness. The target demographic of _Wealth in Families_ thinks a great deal about the meaning of wealth, presumably because they have so much of it.
 
@@ -44,7 +44,7 @@ A note on the structure of the book: a large fraction is taken up with citing, p
 
 _“Most families are only aware that they have one form of capital: financial capital,” says James E. (Jay) Hughes, Jr., an estate planning lawyer and family governance specialist in New York, author of_ _Family Wealth: Keeping it in the Family__. Hughes is a proponent of the four forms of family wealth: “A family must know whether all of their forms of capital are growing. Rarely in my experience do families measure their human, intellectual, and social capital. Frequently, members do not even recognize that they own these forms of capital.”_
 
-**Managing the Family**
+## Managing the Family
 
 The meat of the book is spent on discussions of raising children. The readers of this book probably liked their childhoods. They might even hope to recreate that childhood for their own children. But deep down they understand that for all the freedom that money gives, it closes off that option. Your kids are never going to grow up normal. Consider the dilemma presented in an interview with Dr. Lee Hausner, author of _Children of Paradise: Successful Parenting for Prosperous Families_.
 
@@ -58,21 +58,11 @@ Tell your sons and daughters: You are not like the other children. That is simpl
 
 Variations of these parental anxieties pop up throughout _Wealth in Families_ whenever the realities of immense wealth come in conflict with middle-class taboos on discussing finances. Collier directs readers to be open with your children about how much money you have, what you spend it on, and how much you will give them. Inheritance is of course a fraught topic for any family, but especially the wealthy ones, since they have so much more to hand down. There is a danger associated with raising children in wealthy families. Wealthy people don’t _need_ to do anything, and as a result may lack the industriousness required to keep the family wealth from evaporating after one generation. In Collier’s view there is a fairly mechanical solution to this problem: slowly drip-feed a predefined inheritance to your children over the course of their lives. Not so much that they will never work, but not so little that they will resent you. The following table summarizes Collier’s financial recommendations on how much to bequeath.
 
-Publicly Traded Family Wealth
-
-Amount to Give per Child
-
-$15-30 million
-
-$1-2 million
-
-\>$100 million
-
-$10-15 million
-
-“really substantial”
-
-“more”
+| Publicly Traded Family Wealth | Amount to Give per Child |
+| --- | --- |
+| $15-30 million | $1-2 million |
+| >$100 million | $10-15 million |
+| “really substantial” | “more” |
 
 Collier declines to prescribe exactly when to give your children this money, mostly because there is substantial academic disagreement between competing schools of thought. But beyond the mechanics of trusts, taxes, and generation skipping (which occupies a good chunk of _Wealth in Families_), Collier is seeking to impart a guiding philosophy for raising children in wealthy families.
 
@@ -80,7 +70,7 @@ In Collier’s view, a successful wealthy family has a stronger sense of collect
 
 A key message throughout _Wealth in Families_ is that financial wealth is not the name of the game anymore. In short, a pathological obsession with money is what got you to this point, but it alone is not going to keep your family on top for more than a couple generations. If you want your descendants to pass on your gifts, you need to build a family that others respect and your children are proud to be a part of. You need a special set of values to maintain your family’s social capital and perpetuate your wealth and status after you are gone. And as a consequence, your family will need artists, socialites, and philanthropists to succeed just as much as it needs moneymakers.
 
-**Philanthropy**
+## Philanthropy
 
 Philanthropy is not the same thing as charity. Charity is just giving away your money. The problem is that once you have given away your money, you don’t have it anymore. Philanthropy is the art of giving away your money while continuing to enjoy the gifts that wealth provides. If you give your money away slowly enough, it can become a lifelong vocation. After all, you can become a philanthropist, but you can’t become a charity-ist. To Collier, philanthropy is an elegant way of building social capital - instilling community in your family and transferring the right values to the next generation. In Collier’s writing, philanthropy is a communal activity that wealthy families partake in for a variety of reasons – with moral responsibility to your fellow man being just one of them. Collier advertises philanthropy with the kind of grab-bag language usually reserved for promoting youth debate teams:
 
@@ -124,6 +114,6 @@ _“Our first priority is to give where foundation trustees and family members a
 
 These are smart people. And they know that giving to local, established, and interesting causes is the best way to strengthen the social capital of their families.
 
-**Conclusion**
+## Conclusion
 
 Lost in sneering, oft repeated, and somewhat misinformed discussions of the WASPs – their dullness, their love of strange hobbies, building connections and self-serving philanthropy, is that they were (and are) reasonable people doing the best they can to succeed in the world that they occupy. It’s just that the rules and currencies are different where they come from. Be careful in assuming that you could do better. The world of philanthropy that Collier describes is a cautionary tale for anyone interested in making charitable giving more efficient and effective. Philanthropy is subject to a perverse and cynical iron law – givers are often subtly incentivized to give toward causes that enhance their social capital within the societies they live in. The examples that Collier promotes are an extreme example of a philanthropic society left to its own devices over a long period of time. Collier’s friends wore the causes that they donated to not just as status symbols, but as expressions of their interests and personalities. Indeed, philanthropy as primarily an act of self-expression and social capital building is central to Collier’s description. Can we confidently say that we have moved on?

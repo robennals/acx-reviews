@@ -7,10 +7,9 @@ contestName: 2024 Book Reviews
 year: 2024
 publishedDate: '2026-02-06T16:48:56.658Z'
 slug: righteous-victims-a-history-of-the-zionist-arab-conflict-by-benny-morris
-wordCount: 10068
+wordCount: 10062
 readingTimeMinutes: 45
-originalUrl: >-
-  https://docs.google.com/document/d/1GYQw3pgvhi7hqOVR-Ql629Q_8thbyHe8sSRy5voyt30
+originalUrl: https://docs.google.com/document/d/1GYQw3pgvhi7hqOVR-Ql629Q_8thbyHe8sSRy5voyt30
 source: gdoc
 tags:
   - History
@@ -73,7 +72,7 @@ They were peaceful, but that reflected their situation at the time rather than t
 
 And so, over the years the Yishuv, as the Jewish settlement was known, grew until it was a full third of the population of Palestine.
 
-![A map of Jewish land in Mandatory Palestine, 1944.](https://acximages.ennals.org/images/2024-book-reviews/c80c45f196433b81.png)
+![A map of Jewish land in Mandatory Palestine, 1944.](https://acximages.ennals.org/images/2024-book-reviews/45178b0296583924.png)
 
 _A map of Jewish owned land in Mandatory Palestine, 1944._
 
@@ -81,10 +80,10 @@ _A map of Jewish owned land in Mandatory Palestine, 1944._
 
 The Zionist settlers did not do very much to ingratiate themselves with the native Arabs:
 
-> *   They didn't culturally integrate with the Arabs. Very few learned Arabic. They set up their own schools, a healthcare provider, and economic institutions, which for the most part Arabs couldn't use.
-> *   They claimed Jewish driven development would be good for everyone, but they preferentially hired Jewish workers. Although a lot of Arabs were hired as farmhands or guards, these were menial low pay jobs, and over time they were increasingly displaced by Jews.
-> *   Zionists bought land fair and square from their owners, but these owners were wealthy urban effendis, not those who actually lived on the land. They usually then forced the tenant farmers off the land for little or no compensation.
-> *   Many settlers wished to remake themselves as 'new Jews', ones who would not be oppressed in 'their' land. They had a habit of overreacting to what they perceived as slights against them or their property, such as cruelly beating trespassers. This especially caused problems when there were differences between local Ottoman customs and European ones as to public rights to land.
+*   They didn't culturally integrate with the Arabs. Very few learned Arabic. They set up their own schools, a healthcare provider, and economic institutions, which for the most part Arabs couldn't use.
+*   They claimed Jewish driven development would be good for everyone, but they preferentially hired Jewish workers. Although a lot of Arabs were hired as farmhands or guards, these were menial low pay jobs, and over time they were increasingly displaced by Jews.
+*   Zionists bought land fair and square from their owners, but these owners were wealthy urban effendis, not those who actually lived on the land. They usually then forced the tenant farmers off the land for little or no compensation.
+*   Many settlers wished to remake themselves as 'new Jews', ones who would not be oppressed in 'their' land. They had a habit of overreacting to what they perceived as slights against them or their property, such as cruelly beating trespassers. This especially caused problems when there were differences between local Ottoman customs and European ones as to public rights to land.
 
 The British defeated the Ottomans in the first World War and established the British Mandate for Palestine in the territory that is today Israel, Gaza and the West Bank. Part of the mandate was to implement the Balfour declaration which called for the establishment of a Jewish homeland in Palestine[[19]](#ftnt19).
 
@@ -128,7 +127,7 @@ Arabs forces massacred some 200 Jewish civilians/POWs while Jewish forces massac
 
 In the wake of the war hundreds of thousands of Jews were expelled or otherwise driven out of Arab countries. Most emigrated to Israel.
 
-![Armistice Lines, 1949](https://acximages.ennals.org/images/2024-book-reviews/95ead45b5f31e6a6.png)
+![Armistice Lines, 1949](https://acximages.ennals.org/images/2024-book-reviews/e9685069d011a64a.png)
 
 ### From the Armistice to the Six Day War (1949-1967)
 
@@ -410,8 +409,8 @@ The USA does have a reasonable amount of leverage over Israel - they are for all
 
 Under those constraints, here are some concrete steps the USA can take in that direction:
 
-> 1.  End settlement construction. Full stop. There is literally no security need for them at all, most Israelis do not support them, and they are hugely destructive to any future Palestinian state. If given the choice between f-35s or expanding the settlements the Israeli government will be forced to pick the f-35s. Even better, the pro settlement parties will be forced out of government as this is a red line for them.
-> 2.  Prop up the PA and push out Hamas. This is a much more difficult thing to do, and I’ll leave it to the experts in the relevant fields to suggest how. But definitely the USA could put serious pressure on Israel to stop doing the things they are actively doing to delegitimize the PA, such as holding back taxes collected by Israel on behalf of the PA.
+1.  End settlement construction. Full stop. There is literally no security need for them at all, most Israelis do not support them, and they are hugely destructive to any future Palestinian state. If given the choice between f-35s or expanding the settlements the Israeli government will be forced to pick the f-35s. Even better, the pro settlement parties will be forced out of government as this is a red line for them.
+2.  Prop up the PA and push out Hamas. This is a much more difficult thing to do, and I’ll leave it to the experts in the relevant fields to suggest how. But definitely the USA could put serious pressure on Israel to stop doing the things they are actively doing to delegitimize the PA, such as holding back taxes collected by Israel on behalf of the PA.
 
 Beyond that, the ability for the rest of the world to influence events is limited. History shows that while the foreign powers can put their foot down and force Israel to stop doing something they don’t like, they can’t very easily force it to do what they want. Even when they forced both sides to the negotiating table, often one side or the other was just trying to drag things out. Only once both sides are genuinely ready for peace is there a chance that external pressure can force them to make the concessions necessary to realize a solution.
 

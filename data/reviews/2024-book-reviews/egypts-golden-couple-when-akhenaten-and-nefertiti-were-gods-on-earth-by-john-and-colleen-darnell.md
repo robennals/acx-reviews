@@ -1,5 +1,5 @@
 ---
-title: "Egypt's Golden Couple: When Akhenaten and Nefertiti Were Gods on Earth by John and Colleen Darnell"
+title: 'Egypt’s Golden Couple: When Akhenaten and Nefertiti Were Gods on Earth by John and Colleen Darnell'
 author: Unknown
 reviewAuthor: Anonymous
 contestId: 2024-book-reviews
@@ -7,15 +7,20 @@ contestName: 2024 Book Reviews
 year: 2024
 publishedDate: '2026-02-06T16:47:49.303Z'
 slug: egypts-golden-couple-when-akhenaten-and-nefertiti-were-gods-on-earth-by-john-and-colleen-darnell
-wordCount: 6523
-readingTimeMinutes: 29
-originalUrl: >-
-  https://docs.google.com/document/d/1QiotH3aGFgNLGqsIHTK_Plm_gem2E4l2C2ctyGJd0jY
+wordCount: 6614
+readingTimeMinutes: 30
+originalUrl: https://docs.google.com/document/d/1QiotH3aGFgNLGqsIHTK_Plm_gem2E4l2C2ctyGJd0jY
 source: gdoc
 tags:
   - History
   - Religion
 ---
+
+![undefined](https://acximages.ennals.org/images/2024-book-reviews/7fe54dbd9c989638.jpg)
+
+A puzzle: Why does the Sun not play a larger role in religion? It is by far the most powerful object we witness in daily life; it gives life to everything, and it marks the passage of time. Its workings weren’t understood until modern science, making it clearly magical. Yet it doesn’t feature prominently in any of the great monotheisms or other modern religions. It usually appears as a god in polytheism, but rarely as a central or especially important one. Why not?
+
+A possible answer: It’s been tried before. And it didn’t go well.
 
 ## 𓏺.
 
@@ -67,7 +72,7 @@ The Darnells (and I) bring up Amunhotep III in part to provide context on Akhena
 
 For example, there exists a text, created during Amunhotep III’s reign, telling of his conception by his mother, Mutemwia, and the god Amun-Re. Amun, during the New Kingdom period, rose from being the patron god of the city of Waset to reigning as the top god of the whole Egyptian pantheon, later being seen as an equivalent to Zeus and Jupiter. Eventually, he was merged with Re (or Ra), the famous sun god who was among the most important deities during earlier periods. So it made sense for Amunhotep III—whose name means “Amun is satisfied”—to claim that he was literally “one flesh” with Amun-Re thanks to the union of the king of the gods with his mother. We even have a depiction of the sexual act (don’t worry, it’s _very_ tame):
 
-![](https://acximages.ennals.org/images/2024-book-reviews/9248b71877705693.png)
+![](https://acximages.ennals.org/images/2024-book-reviews/da060815189003f3.png)
 
 The Darnells tell us that “an ancient Egyptian would have noted the erotic overtones of Amun’s legs overlapping those of Mutemwia, how she cups the god’s elbow with her free hand, and he holds to her nose the hieroglyph for ‘life,’ the _ankh_ sign. . . . the sexual nature of the scene is obvious.”
 
@@ -83,11 +88,11 @@ But almost immediately, he seems to have shifted the focus away from Amun-Re and
 
 The Darnells explain that this shift in focus would have been unusual, but not overly so. The Benben, a representation of the first mound of land at the time of creation, had been an inspiration for sacred monuments at least since the Giza pyramids; dedicating it to a form of the sun god was “the continuation of solar worship that began over a thousand years before.” And the word “aten”, written with four hieroglyphs, 𓇋, 𓏏, 𓈖, and 𓇳, had been a common noun to refer to the sun as a disk in religious contexts since at least 2350 BC.
 
-![](https://acximages.ennals.org/images/2024-book-reviews/35f50a064fe0097e.png)
+![](https://acximages.ennals.org/images/2024-book-reviews/f83ce270b8bef341.png)
 
 On the other hand, describing the actual _disk_ as the solar god was clearly strange. Usually, Egyptian gods were human-shaped, animal-shaped, or human-animal hybrids ([though there were exceptions](https://en.wikipedia.org/wiki/Medjed)). An aten could be an attribute of a god with an otherwise normal body; for example it is often seen on top of Re’s head, whatever shape that head had ([human](https://commons.wikimedia.org/wiki/File:Amun-Ra_head.jpg), [falcon](https://en.wikipedia.org/wiki/Ra#/media/File:Taperet_stele_E52_mp3h9201.jpg), [ram](https://commons.wikimedia.org/wiki/File:Re-Osiris.jpg), [beetle](https://en.wikipedia.org/wiki/Khepri#/media/File:Nun_Raises_the_Sun.jpg)). But to depict as a deity the sun disk itself, round and often featureless except for rays terminating with hands holding the _ankh_ sign, was totally new.
 
-![File:Windowofappearances.gif](https://acximages.ennals.org/images/2024-book-reviews/adebab1246f18fde.png)
+![File:Windowofappearances.gif](https://acximages.ennals.org/images/2024-book-reviews/e31c0b6ee25c9f8b.png)
 
 _Drawing of a relief from the tomb of vizier Ramose, the first known work to show Aten showering the king and queen with his rays_
 
@@ -124,11 +129,11 @@ It’s a less interesting story; it unfortunately tells us less about Amunhotep 
 
 Amunhotep IV spent five years ruling from Waset in what can be seen as a transition period between the reign of his father and his more radical phase in his new capital city. The chronology of the events during this time isn’t always clear and this whole part of the Darnells’ book is somewhat confusing to read, but in addition to the theological reforms above, we know that:
 
-> *   He married Nefertiti.
-> *   He dedicated the Mansion of the Benben to her. In this temple, she is shown bearing the name Neferneferuaten (“Beautiful is the beauty of Aten”), making offerings to Aten, and smiting enemies. It was already clear, only a few years into their joint reign, that Nefertiti had an important role in Atenism.
-> *   He began commissioning art in a revolutionary new style, today called [Amarna art](https://en.wikipedia.org/wiki/Amarna_art), with unusual ways to represent the king and queen, among other details. This is notable since Egyptian art tended to be conservative and changed little over centuries.
-> *   He had his first daughter out of six, Meritaten (“She who is beloved of the Aten”).
-> *   He and Nefertiti celebrated their jubilee. A jubilee, or Sed festival, was something you celebrated when you had reigned for 30 years, and then every 3-4 years after that. Amunhotep IV didn’t wait 30 years; he celebrated it in his 3rd or 4th regnal year. Charitably, the Darnells say it could have been meant as a continuation of the sequence of jubilees at the end of Amunhotep III’s reign. Either way, it was probably intended to make it clear to everyone that Aten was now more important than all the other gods, with unique rituals such as presenting food offerings to the sun in open-roofed kiosks.
+*   He married Nefertiti.
+*   He dedicated the Mansion of the Benben to her. In this temple, she is shown bearing the name Neferneferuaten (“Beautiful is the beauty of Aten”), making offerings to Aten, and smiting enemies. It was already clear, only a few years into their joint reign, that Nefertiti had an important role in Atenism.
+*   He began commissioning art in a revolutionary new style, today called [Amarna art](https://en.wikipedia.org/wiki/Amarna_art), with unusual ways to represent the king and queen, among other details. This is notable since Egyptian art tended to be conservative and changed little over centuries.
+*   He had his first daughter out of six, Meritaten (“She who is beloved of the Aten”).
+*   He and Nefertiti celebrated their jubilee. A jubilee, or Sed festival, was something you celebrated when you had reigned for 30 years, and then every 3-4 years after that. Amunhotep IV didn’t wait 30 years; he celebrated it in his 3rd or 4th regnal year. Charitably, the Darnells say it could have been meant as a continuation of the sequence of jubilees at the end of Amunhotep III’s reign. Either way, it was probably intended to make it clear to everyone that Aten was now more important than all the other gods, with unique rituals such as presenting food offerings to the sun in open-roofed kiosks.
 
 Eventually, though, Amunhotep IV had greater ambitions. We (think we) know the exact date of the foundation of his sacred city, Akhet-Aten: February 22, 1347 BC. Precise records exist thanks to a set of “boundary stelae” that were carved into the cliffs at the edges of the new city—the most important textual evidence we have of the period. On one of them, we can read this proclamation by the king (I recommend reading it out loud in a declamatory style):
 

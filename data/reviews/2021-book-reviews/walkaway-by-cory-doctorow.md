@@ -1,50 +1,50 @@
 ---
-title: "Walkaway by Cory Doctorow"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2021-book-reviews"
-contestName: "2021 Book Reviews"
+title: Walkaway by Cory Doctorow
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2021-book-reviews
+contestName: 2021 Book Reviews
 year: 2021
-publishedDate: "2021-01-01T00:00:00.000Z"
-slug: "walkaway-by-cory-doctorow"
-wordCount: 5368
+publishedDate: '2021-01-01T00:00:00.000Z'
+slug: walkaway-by-cory-doctorow
+wordCount: 5395
 readingTimeMinutes: 24
-originalUrl: "https://docs.google.com/document/d/1M1m8o1HInGYJR3cEMYZ6TQgNmeBOWo98YC6djNnFWf0"
-source: "gdoc"
+originalUrl: https://docs.google.com/document/d/1M1m8o1HInGYJR3cEMYZ6TQgNmeBOWo98YC6djNnFWf0
+source: gdoc
 tags:
   - Fiction
   - Society
   - Economics
 ---
 
-_Imagine no possessions_
-
-_I wonder if you can_
-
-_No need for greed or hunger_
-
-_A brotherhood of man_
-
-_Imagine all the people sharin' all the world_
-
-_Yoo, hoo, oo-oo_
-
+> _Imagine no possessions_
+>
+> _I wonder if you can_
+>
+> _No need for greed or hunger_
+>
+> _A brotherhood of man_
+>
+> _Imagine all the people sharin' all the world_
+>
+> _Yoo, hoo, oo-oo_
+>
 > _-- John Lennon, "Imagine," 1971 AD_
-
-_Under thy rule what trace may yet remain_
-
-_With us of guilt, shall vanish from the earth_
-
-_Leaving it free for ever from alarm..._
-
-_The whole world will he rule, now set at peace..._
-
-_The teeming she-goats without call come home,_
-
-_The flocks by lions shall be scared no more,_
-
-_No more by serpents and by poison plants..._
-
+>
+> _Under thy rule what trace may yet remain_
+>
+> _With us of guilt, shall vanish from the earth_
+>
+> _Leaving it free for ever from alarm..._
+>
+> _The whole world will he rule, now set at peace..._
+>
+> _The teeming she-goats without call come home,_
+>
+> _The flocks by lions shall be scared no more,_
+>
+> _No more by serpents and by poison plants..._
+>
 > _-- Vergil,_ _[Eclogue 4](https://en.wikisource.org/wiki/Eclogues_of_Virgil_(1908)/Eclogue_4)__, 42 BC_
 
 ## I

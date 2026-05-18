@@ -1,7 +1,5 @@
 ---
-title: >-
-  Defining Death: The Case For Choice by Robert M. Veatch and Lainie F. Ross
-  (2016)
+title: 'Defining Death: The Case For Choice by Robert M. Veatch and Lainie F. Ross (2016)'
 author: Unknown
 reviewAuthor: Anonymous
 contestId: 2024-book-reviews
@@ -9,10 +7,9 @@ contestName: 2024 Book Reviews
 year: 2024
 publishedDate: '2026-02-06T16:47:15.599Z'
 slug: defining-death-the-case-for-choice-by-robert-m-veatch-and-lainie-f-ross-2016
-wordCount: 4698
+wordCount: 4694
 readingTimeMinutes: 21
-originalUrl: >-
-  https://docs.google.com/document/d/1AXmWgSbh_TFsoZuApSCSEoz57yn93CM5YYhtaO_s4W4
+originalUrl: https://docs.google.com/document/d/1AXmWgSbh_TFsoZuApSCSEoz57yn93CM5YYhtaO_s4W4
 source: gdoc
 tags:
   - Philosophy
@@ -57,10 +54,10 @@ Because of these problems (and more I’ve omitted), Veatch and Ross think that,
 
 If Veatch and Ross think the current definition is flawed, then what alternatives do they propose? As they see it, there are at least four main definitions worth exploring:
 
-> 1.  The separation of body and soul (soul departure)
-> 2.  The cessation of the flow of vital bodily fluids (circulatory)
-> 3.  The loss of all functions of the brain (whole-brain death)
-> 4.  The loss of only particular brain functions (higher-brain death)
+1.  The separation of body and soul (soul departure)
+2.  The cessation of the flow of vital bodily fluids (circulatory)
+3.  The loss of all functions of the brain (whole-brain death)
+4.  The loss of only particular brain functions (higher-brain death)
 
 Correspondingly, a step-by-step walkthrough of the pros and cons of each of the circulatory, whole-brain, and higher-brain concepts of death is what comprises the bulk of the book. Unfortunately, whether it is because they wish to summarily dismiss soul-based explanations, or because they feel unqualified to assess theological matters, Veatch and Ross decline to examine the soul departure view. But apart from this omission, the book otherwise provides a comprehensive and unsettling overview of how the debate on defining death is still very much contentious.
 

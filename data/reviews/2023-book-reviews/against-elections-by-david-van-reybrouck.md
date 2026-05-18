@@ -7,10 +7,9 @@ contestName: 2023 Book Reviews
 year: 2023
 publishedDate: '2026-02-06T07:21:10.020Z'
 slug: against-elections-by-david-van-reybrouck
-wordCount: 4179
+wordCount: 4174
 readingTimeMinutes: 19
-originalUrl: >-
-  https://docs.google.com/document/d/10CiEI7aDL2bMIdx7yayy3vlq0TJ8dO5LGnG7yIDPiw8
+originalUrl: https://docs.google.com/document/d/10CiEI7aDL2bMIdx7yayy3vlq0TJ8dO5LGnG7yIDPiw8
 source: gdoc
 tags:
   - Politics
@@ -100,11 +99,11 @@ I give the BC citizens assembly a B+ and recommend you mostly stick to your prio
 
 If you believe in the basic (but perhaps not extraordinary) competence of ordinary citizens in a deliberative process, there are several advantages of placing them in positions of power over of elected officials:
 
-> *   (Perhaps obviously) Randomly selected citizens needn’t worry about (re-)election. Free from campaign promises and voter retribution, they can vote their conscience and be otherwise responsible. They don’t need to deal with fundraising or an arduous campaign schedule, which frees up time for actual governance.
-> *   Without a never ending political drama, (or at least _exciting_ drama) commercial media’s incentives are less aligned with harming effective governance.
-> *   Citizen assemblies give a representative cross-section of society. This is not diversity for the sake of diversity—government is exactly the place where you want people from all walks of life voicing opinions and sharing their experiences.
-> *   The broader populace is much more centrist than our polarized parties would suggest. As in our experiments, this leads to cooperation and compromise.
-> *   Political parties would not have as tight a grip on citizen legislators. This reduces the team-sport aspect of modern politics and increases legitimacy in the eyes of the people.
+*   (Perhaps obviously) Randomly selected citizens needn’t worry about (re-)election. Free from campaign promises and voter retribution, they can vote their conscience and be otherwise responsible. They don’t need to deal with fundraising or an arduous campaign schedule, which frees up time for actual governance.
+*   Without a never ending political drama, (or at least _exciting_ drama) commercial media’s incentives are less aligned with harming effective governance.
+*   Citizen assemblies give a representative cross-section of society. This is not diversity for the sake of diversity—government is exactly the place where you want people from all walks of life voicing opinions and sharing their experiences.
+*   The broader populace is much more centrist than our polarized parties would suggest. As in our experiments, this leads to cooperation and compromise.
+*   Political parties would not have as tight a grip on citizen legislators. This reduces the team-sport aspect of modern politics and increases legitimacy in the eyes of the people.
 
 With these advantages, the BC citizens assembly and the slowest zebra in mind, I am convinced that _under the best circumstances_, a deliberative body of lawmakers randomly chosen among the citizens of a nation would far, far outperform its current legislatures.
 

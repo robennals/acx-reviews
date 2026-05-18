@@ -1,16 +1,16 @@
 ---
-title: "Space Forces: A Critical History of Life In Space, by Fred Scharmen"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2023-book-reviews"
-contestName: "2023 Book Reviews"
+title: 'Space Forces: A Critical History of Life In Space, by Fred Scharmen'
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2023-book-reviews
+contestName: 2023 Book Reviews
 year: 2023
-publishedDate: "2023-01-01T00:00:00.000Z"
-slug: "space-forces-a-critical-history-of-life-in-space-by-fred-scharmen"
-wordCount: 8064
+publishedDate: '2023-01-01T00:00:00.000Z'
+slug: space-forces-a-critical-history-of-life-in-space-by-fred-scharmen
+wordCount: 8068
 readingTimeMinutes: 36
-originalUrl: "https://docs.google.com/document/d/1vci14HMZ2UEJBs6mKCZZ2vHs-jVuPSsFsiN3cAENzXU"
-source: "gdoc"
+originalUrl: https://docs.google.com/document/d/1vci14HMZ2UEJBs6mKCZZ2vHs-jVuPSsFsiN3cAENzXU
+source: gdoc
 tags:
   - History
   - Society
@@ -111,11 +111,10 @@ Meanwhile, there’s another current of opposition to Tsiolkovsky’s vision, on
 
 _Space Forces_ here first singles out Arthur C. Clarke. _The Encyclopedia of Science Fiction_ identifies him as the writer who is “most closely identified with knowledgeable, technological ‘hard’ science fiction” - and indeed Clarke is credited as being the first to propose the placement of communications satellites in geostationary orbit - but they also point out that he was “strongly attracted to the metaphysical, even to the mystical.” His stories, famously including _2001: A Space Odyssey_, portray a world that is cool, unsympathetic, and potentially beyond human understanding. Humankind is uplifted to sentience by aliens - but, having learned of this, they must physically travel to somewhere else, a monolith orbiting Jupiter (or Saturn, in the books) in order to ascend.
 
-![](https://acximages.ennals.org/images/2023-book-reviews/36fddaa825451fe3.png)
+![](https://acximages.ennals.org/images/2023-book-reviews/ed16516163a30165.png)
 
-_The monolith, busily being cool and unsympathetic._
-
-_Source: 2001: A Space Odyssey Film Still_
+> _The monolith, busily being cool and unsympathetic._  
+> _Source: 2001: A Space Odyssey Film Still_
 
 In this section, as before, the book travels back across the Iron Curtain to bring up other authors - Stanislaw Lem’s _Solaris_, and the Stugatskys’ _Roadside Picnic._
 
@@ -159,9 +158,8 @@ In a twist of fate that’s almost hard to believe but is absolutely real, the M
 
 ![](https://acximages.ennals.org/images/2023-book-reviews/4beda5a71a4f82f8.png)
 
-_No, seriously. It looks even weirder on the page._
-
-_Source: The Mars Project, Screenshot/Highlight from Business Insider_
+> _No, seriously. It looks even weirder on the page._  
+> _Source: The Mars Project, Screenshot/Highlight from Business Insider_
 
 Of course, von Braun’s Nazi past was [not completely lost on America](https://www.youtube.com/watch?v=QEJ9HrZq7Ro) - but the specifics of his actual future vision mostly were. Instead, a narrative grew up around him, arguing that, in his 1947 testimony to the War Department, “given the nature of his work, he had no alternative but to join” the SS. Just like with Tsiolkovsky, a respect for the strength of his dream, for the quality of being a person pursuing a dream, grew up around him at the same time that the specific details of his dream vanished into thin air.
 
@@ -183,7 +181,7 @@ When the excitable new NASA budget hit Congress, the result was chaos. NASA, loc
 
 Belatedly discovering the opposition that stood against him, Paine began the work of building a coalition. NASA eventually saved the human spaceflight program by the bare skin of its teeth. The station was canceled for now; Shuttle was approved on an unsteady coalition of stakeholders that would prove to ultimately be its undoing.
 
-![](https://acximages.ennals.org/images/2023-book-reviews/89ce4be4e6619715.png)
+![](https://acximages.ennals.org/images/2023-book-reviews/b43ae1b3d6da3a5f.png)
 
 _Side note: shuttle reference designs originally had stubby wings. The final delta-wing configuration substantially increased heating but allowed the DoD to plan a mission where the shuttle would fly one orbit over the USSR, take pictures of Russian nukes, land near Washington, and rush developed pictures to the President. This all felt very silly after digital cameras got good._
 
@@ -219,7 +217,7 @@ _Space Forces_ talks about a lot of speculative science fiction. But these days,
 
 In the last three years, humanity’s rate of launch into space has become flabbergasting. Rockets land; private citizens visit space; and an entire generation of young people is inspired to join in with the adventure. There are communities for space enthusiasts, fellowships and clubs and events, an entire nascent culture combing back together after the long years out in the cold.
 
-![](https://acximages.ennals.org/images/2023-book-reviews/fb4312458e2ef997.png)
+![](https://acximages.ennals.org/images/2023-book-reviews/3a29c77fba6976af.png)
 
 _Objects launched to space per yet: talk about a fast takeoff._
 

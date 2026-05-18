@@ -7,9 +7,9 @@ contestName: 2022 Book Reviews
 year: 2022
 publishedDate: '2026-02-05T15:57:50.046Z'
 slug: society-of-the-spectacle
-wordCount: 9640
-readingTimeMinutes: 43
-originalUrl: 'https://astralcodexten.substack.com/p/your-book-review-the-society-of-the'
+wordCount: 9544
+readingTimeMinutes: 44
+originalUrl: https://astralcodexten.substack.com/p/your-book-review-the-society-of-the
 source: acx
 tags:
   - Philosophy
@@ -47,11 +47,11 @@ Media developed symbiotically with capitalism, and together these twin forces ch
 As the spectacle conquered the earth, it took on different forms.  Debord differentiated between the concentrated, diffuse, and integrated modes of the spectacle:  
 
 *   Communism and fascism were the primary examples of the concentrated spectacle, with totalitarian control of the economy and the media centralized in the hands of the State.
-    
+
 *   The United States exemplified the diffuse form, where the government allowed corporations and private media to operate relatively unimpeded. 
-    
+
 *   In his later writings, Debord declared that the entire world had turned into variants of the integrated spectacle, where the State is swallowed whole by the economy and subordinated to its needs.
-    
+
 
 ## II. All The World’s A Stage
 
@@ -210,11 +210,11 @@ Debord spends a good chunk of words describing how the spectacle has affected ar
 The last topic of the book worth discussing is the _imminent socialist revolution_.  Debord walks us through the various ways that Marxism has been done wrong, then attempts to offer an alternative.  He goes into a fair amount of detail, but it boils down to this:
 
 *   The anarchists properly rejected society in its entirety, but remained dogmatically attached to a 'one size fits all' mentality and failed to organize in an effective manner.
-    
+
 *   The worker's movements took a reformist approach that fell victim to its own success. They achieved specific objectives and won elections, but by failing to challenge the system as a whole they got absorbed by the existing framework. [8]
-    
+
 *   The Bolsheviks created a professional revolutionary class that successfully seized power, but it came at the cost of a top-down totalitarianism that recreated the rigid hierarchy communism was meant to eliminate.
-    
+
 
 All of these critiques sound reasonable to me.  Debord repeatedly emphasizes the importance of avoiding ideological rivalries and dogmatic divides within the movement. This totally makes sense, but the only way to get everyone on the same page is through mass media. Which requires capital, which is inherently a one-way top-down dissemination of principles and best practices, which will inevitably be transformed into ideology and dogma…it would seem we have a bit of an _issue_.  
 

@@ -7,10 +7,9 @@ contestName: 2021 Book Reviews
 year: 2021
 publishedDate: '2026-02-06T07:21:29.565Z'
 slug: disunited-nations-2020-vs-dawn-of-eurasia-2017
-wordCount: 7029
+wordCount: 7020
 readingTimeMinutes: 32
-originalUrl: >-
-  https://docs.google.com/document/d/1xexFJ7h0vULMDE7N77q_MIzXoerexfe_CqqGEL6hEoQ
+originalUrl: https://docs.google.com/document/d/1xexFJ7h0vULMDE7N77q_MIzXoerexfe_CqqGEL6hEoQ
 source: gdoc
 tags:
   - Politics
@@ -33,7 +32,7 @@ Their most obvious conflict is that Zeihan rejects a “dawn of Eurasia”. Wher
 
 Zeihan’s _Disunited Nations_ seeks to answer one question: what happens to the prospects of nations when the US withdraws from world affairs? What happens when the post-WWII World Order – along with all the networks of alliances and protected trade routes that comprise it – disintegrates? And the US _will_ withdraw, according to Zeihan. In fact, by global troop deployment, it’s been withdrawing for a while:
 
-![](https://acximages.ennals.org/images/2021-book-reviews/a3fea195c8f06370.png)
+![](https://acximages.ennals.org/images/2021-book-reviews/db2b2ed39d0990b1.png)
 
 The two things that kept the US interested in maintaining the world order have disappeared: an arch enemy in the Soviet Union and reliance on foreign energy. Continuation of the Order since the collapse of the USSR over the last thirty years has largely been a result of geopolitical inertia. And energy independence arose with the advent of fracking, when the US became a net crude-oil and products exporter as of 2020.
 
@@ -91,10 +90,10 @@ Maybe White is hedging his bets and Zeihan is simply calling it. Maybe Zeihan kn
 
 Zeihan’s geographic determinism has a formula. Under a chapter ‘How To Be A Successful Country’, which uses China as its key counterexample, Zeihan outlines the four keys to success:
 
-> 1.  _“Viable home territories, with usable lands and defensible borders_
-> 2.  _A reliable food supply_
-> 3.  _A sustainable population structure_
-> 4.  _Access to a stable mix of energy inputs to participate in modern life”_
+1.  _“Viable home territories, with usable lands and defensible borders_
+2.  _A reliable food supply_
+3.  _A sustainable population structure_
+4.  _Access to a stable mix of energy inputs to participate in modern life”_
 
 Grind a country through these layers and you will see how they will fare out in the wild when the US leaves its post. Take food, which under the Order has seen a “_fourfold expansion in food cultivation since 1946 and thus also the tripling of the global population.”_ Per Zeihan, this has been possible because under the Order countries can import food from abroad or import the inputs required for food production to produce food themselves. Without this, “_a billion people are going to starve”_.
 
@@ -102,11 +101,11 @@ Again, Zeihan sees the point compounded in the case of China (it’s a long quot
 
 _“China faces a quadruple bind:_
 
-> 1.  _China’s margin of error starts razor thin, and not only because its lands are below subpar. One downside of China’s massive population is that the country has less farmland per person than Saudi Arabia._
-> 2.  _As China’s population urbanized under the Order, much of the country’s good(ish) farmland was paved over, pushing Chinese farmers farther inland into ever-more marginal territories, which require more and more inputs to produce the same amount of foodstuffs. Unsurprisingly, the Chinese economic sector that is most dependent upon the expansion-at-all-costs financial strategy is agriculture. When the Chinese financial system cracks, not only will China face a subprime-style crisis in every economic sector simultaneously, but it will also face famine—even if nothing goes wrong externally._
->
-> 3.  _On the surface, it appears China has sufficient oil and natural gas production to maintain domestic production of its fertilizer and fuel needs for its agricultural sector. After all, while China is a net importer of both fossil fuels, unlike most of Europe it still retains significant local production capacity. Not so fast. In any sort of constrained import environment—such as problems in the explosion-heavy Middle East—the Chinese will have to choose what they will let go of. Electricity? Motor fuels? Fertilizers? There won’t be enough to go around, and that forces choices._
-> 4.  _China now isn’t simply the world’s largest importer of rice, barley, dairy, beef, pork, fresh berries, and frozen fish by tonnage. It absorbs more globally traded sorghum, flax, and soy than the rest of the world combined. The ongoing import of those products requires both the American Order and the ability of the wider world to produce the products in the first place. Unfortunately, it isn’t as if the Chinese are alone in this dilemma. Roughly one-fifth of the world’s agricultural produce is internationally traded, while four-fifths is dependent upon externally supplied petroleum-derived inputs, mainly fuel and pesticides. Remove the stability and shipping options and supply chains the Order makes possible, and many, many countries must figure out how to feed their populations with limited outside assistance. Most will fail.”_
+1.  _China’s margin of error starts razor thin, and not only because its lands are below subpar. One downside of China’s massive population is that the country has less farmland per person than Saudi Arabia._
+2.  _As China’s population urbanized under the Order, much of the country’s good(ish) farmland was paved over, pushing Chinese farmers farther inland into ever-more marginal territories, which require more and more inputs to produce the same amount of foodstuffs. Unsurprisingly, the Chinese economic sector that is most dependent upon the expansion-at-all-costs financial strategy is agriculture. When the Chinese financial system cracks, not only will China face a subprime-style crisis in every economic sector simultaneously, but it will also face famine—even if nothing goes wrong externally._
+
+3.  _On the surface, it appears China has sufficient oil and natural gas production to maintain domestic production of its fertilizer and fuel needs for its agricultural sector. After all, while China is a net importer of both fossil fuels, unlike most of Europe it still retains significant local production capacity. Not so fast. In any sort of constrained import environment—such as problems in the explosion-heavy Middle East—the Chinese will have to choose what they will let go of. Electricity? Motor fuels? Fertilizers? There won’t be enough to go around, and that forces choices._
+4.  _China now isn’t simply the world’s largest importer of rice, barley, dairy, beef, pork, fresh berries, and frozen fish by tonnage. It absorbs more globally traded sorghum, flax, and soy than the rest of the world combined. The ongoing import of those products requires both the American Order and the ability of the wider world to produce the products in the first place. Unfortunately, it isn’t as if the Chinese are alone in this dilemma. Roughly one-fifth of the world’s agricultural produce is internationally traded, while four-fifths is dependent upon externally supplied petroleum-derived inputs, mainly fuel and pesticides. Remove the stability and shipping options and supply chains the Order makes possible, and many, many countries must figure out how to feed their populations with limited outside assistance. Most will fail.”_
 
 Like I said: bleak.
 

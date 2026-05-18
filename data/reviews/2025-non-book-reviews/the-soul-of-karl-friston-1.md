@@ -1,5 +1,5 @@
 ---
-title: 'The Soul of Karl Friston [1]'
+title: The Soul of Karl Friston [1]
 author: Unknown
 reviewAuthor: Anonymous
 contestId: 2025-non-book-reviews
@@ -7,10 +7,9 @@ contestName: 2025 Non Book Reviews
 year: 2025
 publishedDate: '2026-02-06T16:55:59.400Z'
 slug: the-soul-of-karl-friston-1
-wordCount: 5879
+wordCount: 5876
 readingTimeMinutes: 27
-originalUrl: >-
-  https://docs.google.com/document/d/1jYVJFIz5-aMi0LCgsC9AN6BncJDNVGaMU37QmwZ1vzA
+originalUrl: https://docs.google.com/document/d/1jYVJFIz5-aMi0LCgsC9AN6BncJDNVGaMU37QmwZ1vzA
 source: gdoc
 tags:
   - Science
@@ -93,9 +92,9 @@ This is part of the reason that people don’t spend much time in dark empty roo
 
 If the tenets of active inference hold together so nicely then and now, there must be some core insight that leads to them. Like all math, Friston’s formulas start from certain axioms. But since I’m claiming that you don’t need anything so arcane and explicit, I’m going to take a stab at identifying the core premises in a more intuitive way—one that Epicurus might be able to get behind.
 
-> 1.  At the level of individual actions, behavior (even the behavior of your favorite humans) is deeply inconsistent and even erratic. Sometimes we have burritos for dinner and sometimes curry. Cognitive psychology experiments that were carefully designed to have perfectly consistent conditions are nonetheless plagued by mysterious fluctuations in participants’ behavior.[47] When repeatedly faced with a particular choice that has a higher probability of reward, people still choose the lower probability option pretty regularly.[48] It turns out that heart-rate variability is a good thing. Etc. So it doesn’t make sense to express behavior in terms of particular actions that are preferred or not.
-> 2.  On the other hand, behavior clearly has a teleology, at least in that good people (or people who are good at being people) also appear to be stable. Well-adapted people maintain the same friendships for a long time, choose a consistent career, and have a consistent manner of speaking. Taking this a bit further, well-adapted people tend to maintain roughly the same body temperature and heart rate, and don’t stop breathing for more than a minute or two. So where does all this consistency come from?
-> 3.  It's not just behavior that’s erratic. Everything else in the world is also constantly in flux, and lots of things that appear stable fall apart sooner or later.
+1.  At the level of individual actions, behavior (even the behavior of your favorite humans) is deeply inconsistent and even erratic. Sometimes we have burritos for dinner and sometimes curry. Cognitive psychology experiments that were carefully designed to have perfectly consistent conditions are nonetheless plagued by mysterious fluctuations in participants’ behavior.[47] When repeatedly faced with a particular choice that has a higher probability of reward, people still choose the lower probability option pretty regularly.[48] It turns out that heart-rate variability is a good thing. Etc. So it doesn’t make sense to express behavior in terms of particular actions that are preferred or not.
+2.  On the other hand, behavior clearly has a teleology, at least in that good people (or people who are good at being people) also appear to be stable. Well-adapted people maintain the same friendships for a long time, choose a consistent career, and have a consistent manner of speaking. Taking this a bit further, well-adapted people tend to maintain roughly the same body temperature and heart rate, and don’t stop breathing for more than a minute or two. So where does all this consistency come from?
+3.  It's not just behavior that’s erratic. Everything else in the world is also constantly in flux, and lots of things that appear stable fall apart sooner or later.
 
 The third observation is the key to resolving the first two: To remain stable in an ever-changing environment, you have to change along with it. This means settling into the most stable lifestyle possible, building a support network, and learning to rely on nothing more than the types of things that are least likely to disappear suddenly. The drive to remain stable translates into a negative definition of pleasure, since stability is the absence of change. And the short-term inconsistency vs. long-term stability paradox is resolved by a long-term optimization problem. The fact that the world is unpredictable but not entirely random results in the need to learn about it as effectively as possible. This means avoiding things that don’t inform you about the relevant factors, and believing only those beliefs that help _you_ maintain your stability in _your_ environment.
 

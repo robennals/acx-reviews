@@ -7,17 +7,15 @@ contestName: 2022 Book Reviews
 year: 2022
 publishedDate: '2026-02-06T07:21:54.183Z'
 slug: very-important-people-status-and-beauty-in-the-global-party-circuit
-wordCount: 32518
+wordCount: 32566
 readingTimeMinutes: 145
-originalUrl: >-
-  https://docs.google.com/document/d/1hFzjXliCAWjvheY-8Qd2fhbF79LnX0Xg6R9eqk9yIyI
+originalUrl: https://docs.google.com/document/d/1hFzjXliCAWjvheY-8Qd2fhbF79LnX0Xg6R9eqk9yIyI
 source: gdoc
 tags:
   - Society
 ---
 
-> _“Everybody has to feel superior to somebody. But it’s customary_
->
+> _“Everybody has to feel superior to somebody. But it’s customary_  
 > _to present a little proof before you take the privilege.”_
 
 Plenty of Codex-flavored book reviews hardly loiter past first scroll before cracking their knuckles and donning their p-hats, but when it comes down to quantitatives, _[Very Important People: Status and Beauty on the Global Party Circuit](https://www.amazon.com/gp/product/B0824B49LS)_ cares about just four: height (ideally, north of six feet in heels), weight (conspicuously, if not ludicrously thin), age (certainly less than thirty, preferably less than twenty-five), and facial attractiveness (left as an exercise to the reader).
@@ -44,9 +42,8 @@ _You German?_
 
 M, again, to me. Speaking of. That men in this city so often peg me as Ambiguous East-ish European, it feels like a recurring gag, to have a major trait of yours assumed so consistently, exotically wrong. They must not get out much. I remember what an ex told me:
 
-_No, I can see it. You look simple, but devastating enough._
-
-_Devastating enough for what?_
+> _No, I can see it. You look simple, but devastating enough._  
+> _Devastating enough for what?_
 
 If I could, I would play dress up. Olga from the Volga, daughter of one of the old-school oligarchs, one who fell out of favor with Putin decades ago, or Petra, nineteen, who has seen things dangerously beyond her years in Berlin nightclubs, they’re serious over there, you know. I have none of those accents in my repertoire. At least I know after I hit [the wall](https://solitarybeast.com/blog/5-signs-that-a-woman-has-hit-the-wall) I’ll be able to pull off a babushka.
 
@@ -240,52 +237,35 @@ _hi it's [REDACTED]_ _**|**_
 
 _so i just read ashely mears’s_ _**|**_
 
-_book on your kind of thing, & i’m_
-
-_kinda wanting to try it out_
-
-> _**|**_ _Lmao I read her article_
->
-> _**|**_ _When you come out with me you’ll_
->
-> _realize most promoters are normal_
->
+> _book on your kind of thing, & i’m_  
+> _kinda wanting to try it out_  
+> _**|**_ _Lmao I read her article_  
+> _**|**_ _When you come out with me you’ll_  
+> _realize most promoters are normal_  
 > _chill people 😂_
 
 _yay yay_ _**|**_
 
 _ha i work in tech & honestly_ _**|**_
 
-_from the book ya’ll seem wayy_
-
-_more down to earth than some_
-
-_people in my world_
-
-> _**|**_ _I feel like tech / stem people_
->
-> _can lack social skills sometimes_
->
-> _and they just end up being unpleasant_
->
+> _from the book ya’ll seem wayy_  
+> _more down to earth than some_  
+> _people in my world_  
+> _**|**_ _I feel like tech / stem people_  
+> _can lack social skills sometimes_  
+> _and they just end up being unpleasant_  
 > _Lol_
 >
-> _**|**_ _I was on the robotics team all_
->
-> _4 years of highschool so I saw_
->
+> _**|**_ _I was on the robotics team all_  
+> _4 years of highschool so I saw_  
 > _enough haha_
 >
-> _**|**_ _All brilliant kids but my god_
->
-> _you wouldn't want to bring them_
->
+> _**|**_ _All brilliant kids but my god_  
+> _you wouldn't want to bring them_  
 > _to a party_
 >
-> _**|**_ _A lot of them work for like_
->
-> _Amazon and google now they're_
->
+> _**|**_ _A lot of them work for like_  
+> _Amazon and google now they're_  
 > _doing well_
 
 I swipe out and over to another app to schedule my cab for the night in advance, which sometimes saves me a few dollars. I'm in "Uber jail," I heard someone call it that, because I forgot my mask last week on the ride I took to Brasa, and the driver happened to be a stickler. I put my phone down, rummage through my tote, pull out my mask, put on my mask, open my camera, take the damn selfie to verify I'm masked up for my ride in eight hours, and curse whichever of R’s former teammates is at Uber now and doing well.
@@ -542,25 +522,15 @@ Nightlife is just rated-R Dave & Busters; it’s a bunch of mooks who think you 
 
 I look around me. [Confetti everywhere](https://www.instagram.com/p/CXr42wEDW_t/). I’m liking the dinner theater thing, it’s refreshing. For once, delicious visuals that are not female bodies are just as much on display as female bodies. I’m in such rare form I [get up onstage](https://www.instagram.com/p/CXfRSpEt9dr/) and dance when the other girls do. When in Rome. No, I’m not in that photo. There’s a jester’s privilege to this place; there are clubby aspects here, still bottle service, still girls, but these only heighten the uncanniness.  [It takes surreality to unmask surreality](https://books.google.com/books?id=8y-FVtrKeSYC&pg=PA22&lpg=PA22&dq=We+need+a+dream-world+in+order+to+discover+the+features+of+the+real+world+we+think+we+inhabit.&source=bl&ots=vFVIe4Kz4F&sig=ACfU3U1ucFkNaYxEvCkKEKMDog6JKjo7JA&hl=en&sa=X&ved=2ahUKEwjj5fvPhPj2AhXfj4kEHWy8CBYQ6AF6BAgCEAM#v=onepage&q=We%20need%20a%20dream-world%20in%20order%20to%20discover%20the%20features%20of%20the%20real%20world%20we%20think%20we%20inhabit.&f=false). I’m watching [this guy](https://www.instagram.com/p/CWy0WZ9p-CP/) dance on the table next to me when an feel the buzz of an errant DM, and decide I’d rather talk to this rando than anyone in my immediate vicinity.
 
-> _  
-> | Watcha dooooin_
-
- _being a pretty decoration at a |_
-
-_nightclub as a favor for a promoter_
-
-_friend of mine lol_
-
-> _| Hahaha got you locked innnn_
-
-_lol it’s not like that |_
-
-_long story lol |_
-
-> _| What are we drinkin_
->
-> _| And how loud is the music_
->
+> _| Watcha dooooin_  
+> _being a pretty decoration at a |_  
+> _nightclub as a favor for a promoter_  
+> _friend of mine lol_  
+> _| Hahaha got you locked innnn_  
+> _lol it’s not like that |_  
+> _long story lol |_  
+> _| What are we drinkin_  
+> _| And how loud is the music_  
 > _hope you can still think lol_
 
 _straight tequila lol |_
@@ -569,58 +539,37 @@ _straight tequila lol |_
 
 I send him a photo I took of the robot actor who was onstage earlier. Not only was he winged, but his big, boxy helmet was covered in LEDs that cycled between facial expressions in sync with the music. And he had green lasers shooting out of each and every digit, even his toes. I also send a video of him battling what seems to be his arch nemesis, a gladiator with LED-studded armor a square screen mounted to his chest displaying a silhouette of a dancing, scantily-clad woman on top of a colorful background, who is pounding on a snare drum that’s strapped to him, like he’s the Little Drummer Boy who grew up to become this degenerate.
 
-_🖼 |_
-
-_🖼 |_
-
-_crazy place lol |_
-
-_can’t beleive people actually pay_
-
-_for this experience lol |_
-
-_straight tequila lol |_
-
-> _| Thats actually a pretty cool photo_
->
-> _| At least they have entertainment_
-
-_yeah they had a saxophonist and |_
-
-_like acrobats earlier_
-
-_makes it less boring lol |_
-
-> _| What would you prefer to be_
->
-> _doing?_
-
-_lol actually this lol |_
-
-_like i sail long story |_
-
-> _| Haha must be_
->
-> _| Boogie on on down then_
->
-> _| Bottle service?'_
-
-_lol yeah |_
-
-_i'm quite pampered |_
-
-> _| The only way to go_
->
+> _🖼 |_  
+> _🖼 |_  
+> _crazy place lol |_  
+> _can’t beleive people actually pay_  
+> _for this experience lol |_  
+> _straight tequila lol |_  
+> _| Thats actually a pretty cool photo_  
+> _| At least they have entertainment_  
+> _yeah they had a saxophonist and |_  
+> _like acrobats earlier_  
+> _makes it less boring lol |_  
+> _| What would you prefer to be_  
+> _doing?_  
+> _lol actually this lol |_  
+> _like i sail long story |_  
+> _| Haha must be_  
+> _| Boogie on on down then_  
+> _| Bottle service?'_  
+> _lol yeah |_  
+> _i'm quite pampered |_  
+> _| The only way to go_  
 > _| Did they do the sparkler thing_
 
 I am well equipped to answer this, because at one point _Very Important People_ helpfully explains what a sparkler is:
 
 > _The sparkler is a live firework that shoots out as high as eight inches. It burns for up to fifty-five seconds._
-
-_of course |_
-
-_even bitcoin themed lol |_
-
+>
+> _of course |_
+>
+> _even bitcoin themed lol |_
+>
 > _| You're from Texas- what part_
 >
 > _| Bitcoin fully mainstream now dang_
@@ -629,18 +578,12 @@ _even bitcoin themed lol |_
 
 _Houston! |_
 
-> _| Are you shouting at me from_
->
-> _across the dance floor!_
-
-_yes lol |_
-
-_forgot how much this |_
-
-_makes your ears ring lol_
-
-_and it’s all in 4/4 lol |_
-
+> _| Are you shouting at me from_  
+> _across the dance floor!_  
+> _yes lol |_  
+> _forgot how much this |_  
+> _makes your ears ring lol_  
+> _and it’s all in 4/4 lol |_  
 > _| Four on the flooooooor_
 
 The music really is atrocious at these things. _Beloved house beats_ lol. It was strange initially, hearing these songs pumped out of terawatt sound systems. Before I assumed they could only ever emanate from the tinny stereos of Ubers, some west coast soylent treatment of Muzak which drivers are contractually obliged to blast. Or in spin class sometimes. I associated the particular genre with motion. _You’re going somewhere._ But at the club, it’s _You’ve arrived, you f\*cking rockstar, you. It’s_ _[New Year’s Eve](https://www.youtube.com/watch?v=sQogtTl2oNE)_ _from here on out. You’ve made it to the top, now you’re here._ Unfortunately, arrival has a miniscule shelf life. It gets baroquer, quicker, than almost any sensation. The store-bought version offers less a zennish reach-the-peak-be-enlightened aura, more the murdered anticipation of a roller coaster getting stuck seconds before the it can coast down the initial precipice.
@@ -677,9 +620,9 @@ The bouncer cuts me off at that, before I can mention the book, before I can est
 
 _Yeah,_ he says, in that sort of courteously bemused tone one reserves for marveling at stale novelties for the benefit of others, _and Friday’s managing the place on Tuesday, and..._ I awoke at this, at my dream world being too rapidly peopled and calendared out to remain intact.
 
-_And tremble like a … Flower!_
-
-* * *
+> _And tremble like a … Flower!_
+>
+> * * *
 
 ## v) The Fleur Room
 
@@ -799,52 +742,40 @@ Waiting for the elevator, I think better of it, realizing the Germans weren’t 
 
 ## vi) Harbor
 
-> _| Hey there!_
->
-> _| Have t read it lol_
->
-> _| Yes, I have Harbor tonight_
->
-> _| Latin Party_
->
+> _| Hey there!_  
+> _| Have t read it lol_  
+> _| Yes, I have Harbor tonight_  
+> _| Latin Party_  
 > _| You're welcome to join_
 
 It’s the next day, I figure I’ll try a different promoter, get a bit better lay of the land that way. I’m also a bit miffed R left me to fend for myself against the Germans. Who knows, next time it could be Croatians. A scan of tagged posts turns up no mandatory headgear.
 
 _yay what time? |_
 
-_|_ _11:30_
+> _|_ _11:30_
 
 _sounds good, think i'll come!_
 
-> _| Awesome_
->
-> _|_ _Whats_ _your phone number? I'll_
->
-> _group chat with the promoter I have_
->
+> _| Awesome_  
+> _|_ _Whats_ _your phone number? I'll_  
+> _group chat with the promoter I have_  
 > _there tonight_
 
 Joy, it’s in Hell’s Kitchen. They have a Blackbird and a Concorde parked there, and they still bungle it. The only person I don’t like in New York City lives in Hell’s Kitchen. Nevertheless I’m outside the club a little before midnight, lines snaking out to the left and right of the entrance. The promised group chat never materialized, so I message the guy again.
 
-> _hey can you send me the group chat |_
->
+> _hey can you send me the group chat |_  
 > _i’m here |_
 >
-> _| Call Ricardo +1 (123) 456-7890_
->
+> _| Call Ricardo +1 (123) 456-7890_  
 > _| You'll be under GERMAN Guest List_
 
 You’re…really look like that much of a Frau, do I, huh. I call Ricardo, to no avail.
 
 _no answer 🤷🏼‍♀️ |_
 
-> _| Found him_
->
-> _| He just answered in the group chat_
->
-> _| Call him and tell him you’re with_
->
+> _| Found him_  
+> _| He just answered in the group chat_  
+> _| Call him and tell him you’re with_  
 > _GERMAN_
 
 This is going nowhere. _Das kaput._ I walk up to the entrance and make eye contact with the nearest bouncer and _Hi, I’m here meeting a promoter, they said his name is Ricar-_ and he unclips the velvet rope between us and waves me up _-do._ One flight up, a hallway juts off the landing and terminates in a large, fluorescent-lit room with drop ceilings. It looks like a sample sale, racks with puffers and fake furs strewn about the ancient beige-and-black carpet floor. It’s so dramatically ad-hoc it takes me a second to register it’s the place’s coatcheck before I keep moving, bastards.
@@ -853,56 +784,39 @@ One more flight up, I step into the club. First impression is a weird sterility,
 
 Where to go, beyond this corner. Maybe my promoter knows. I made it into the club, past the bouncers, that’s supposed to be the hard part, right?
 
-> _| Ask_
->
-> _| For Ruben’s table_
->
-> _| Or Ricardo’s table_
->
+> _| Ask_  
+> _| For Ruben’s table_  
+> _| Or Ricardo’s table_  
 > _ok |_
 
 I don’t think Ricardo is someone I want to meet anymore. Or Ruben. Or Rahul. Or Remy or Rilo Rowan or Rashad or Randall. There’s no doubt some delicious sociolinguistic answer for why promoters are disproportionately _R_s. And _Ask_ who? A bartender? I am _not_ trick-or-treating around the room’s tables.
 
-> _well thanks for nothing no one |_
->
-> _seems to know who i’m talking_
->
+> _well thanks for nothing no one |_  
+> _seems to know who i’m talking_  
 > _about_
 >
-> _| What do you mean?_
->
+> _| What do you mean?_  
 > _| Table 16_
 
 Thank god these tables are numbered like the aisles in a grocery store, _what do you mean_. This whole Byzantine network of promoters thing. I switch to iMessage
 
-> i do!
->
+> i do!  
 > and aw thannks |
 >
-> | We are going to Soho now and you
->
-> come with us to go shopping.
->
+> | We are going to Soho now and you  
+> come with us to go shopping.  
 > | Would you come?
 >
-> well i have work until around 5 and |
->
-> then i need to go home and study
->
-> for an hour
->
+> well i have work until around 5 and |  
+> then i need to go home and study  
+> for an hour  
 > so  after six i could!  |
 >
-> | Ok.
->
-> | We are going to dinner tonight for
->
-> business with several people we work with then.
->
-> | After we would go to a club Marquee  again if
->
-> you go.
->
+> | Ok.  
+> | We are going to dinner tonight for  
+> business with several people we work with then.  
+> | After we would go to a club Marquee  again if  
+> you go.  
 > | Let us know.
 
 but it’s like two seconds later when a promoter walks up to me and tries to vulture me off to his table, before I can type anything to send to Jason. _Huh. Fault tolerance._ I double check first–_You’re not Ricardo are you. Who?_–and follow him to his table, in some VIP section to the right of the DJ, at least eight or nine girls are already at it. He stashes my coat and purse for me, and offers me vodka, or vodka. _Really, no tequila?_ _No tequila, sorry._ _Ah, fine, put some orange juice in it too._
@@ -911,25 +825,20 @@ I step off to one side of the booth, I don’t really feel like getting up there
 
 It's all a sort of a homogeneous individuality I get lots of mileage out of wrapping my axle around. You do that, if you stand out. You’re the only one who fully focuses on everyone else. You start to notice the nature of your foils. Start to listen for signals in the background noise. Like that story, about a candidate telegraph operator, who jolts up in the waiting room full of applicants and barges into the back office because they’re playing and replaying a message in Morse Code over the intercom that instructs one to do just that, and he gets the job. Like TAO’s one bouncer, things conspicuously recycled. Perhaps signs of simulations, though my priors for that explanation are lower than for [others](https://en.wikipedia.org/wiki/Fregoli_delusion).
 
-_Hey._
-
-_hey._
-
-_You’re tall, for a woman. How tall do you think I am?_
+> _Hey._  
+> _hey._  
+> _You’re tall, for a woman. How tall do you think I am?_
 
 _6’5_ I say without hesitation.
 
-_…_
-
-_…_
+> _…_  
+> _…_
 
 _…yeah_ he says in a tone of voice that’s suddenly too small on him, like correcting the usual delta is some kind of coup de trump card he's counting on to sweep me off my feet. Probably’s never gotten a wrong answer from the opposite direction. What if I had guessed 6'6? You play blackjack, you go bust sometimes, thar be the nature of things. He launches into contingency mode with this Private Conversation move, I call it that, tall guys do it, a half-step forward, unslouch, leans over you a bit, it's not swoopy enough to mistake for the kiss you’ll soon share, and tries hard to Rico Suave his tone for what he's about to say:
 
-_There's no one here for you._
-
-_…What?_
-
-_Your height, there's no one here for you._
+> _There's no one here for you._  
+> _…What?_  
+> _Your height, there's no one here for you._
 
 What am I supposed to do with this, just give him his doe-eyed _But you?_ It’s too early in the evening or  morning for that. I decide this is a good time to launch into my spiel: _Basically my first time – a sociology book I had to read for school – it’s all new to me had no idea – Texas  – no not like this – winged robot – amazed they weave this whole dreamworld – pimps –  don’t have one – work tomorrow – sleep deprivation makes me more productive – bird poop – halo effect – NO tequila – right?? – I –_
 
@@ -943,14 +852,10 @@ So it’s not just me because I live under a rock. Apologies to any Discoverabil
 
 I’m out on the street again, on Forty-Sixth. I start walking east to meet my Uber, past repair garages, a man from inside one calls to me. Besides the stabbing, this is my most vivid memory from the night. You don’t encounter them in Manhattan anymore, since the Hudson Yards developers ran roughshod over most of the concentration that remained there. I hear there are alive and, well, alive, [out in Willets Point](https://www.nytimes.com/interactive/2019/12/18/nyregion/willets-point-development-queens.html). The Valley of Ashes. Running into the repair garage vibe must be some essential, fated part of partying in New York. There are more Great Gatsby connections than this, wanna see how deeply spurious I can get? My favorite line from the novel:
 
-> [Gatsby]  _He’s quite a character around New York—a denizen of Broadway._
->
-> [Nick] _Who is he, anyhow, an actor?_
->
-> [Gatsby] _No._
->
-> [Nick] _A dentist?_
->
+> [Gatsby]  _He’s quite a character around New York—a denizen of Broadway._  
+> [Nick] _Who is he, anyhow, an actor?_  
+> [Gatsby] _No._  
+> [Nick] _A dentist?_  
 > [Gatsby] _Meyer Wolfshiem? No, he’s a gambler._
 
 Notice how after his first guess, Nick—logically!—guesses again with the nearest corruption of what he thought he heard, _denizen_ -> _dentist._ If only Gatsby would have presented him with Meyer Wolfshiem’s QR code to scan, Nick simply could’ve read the man’s bio. Fitzy’s brilliant in those ways, sneaking in that bit of  literature-of-loud-places magic like that. Dentists get a shout-out here too, and their psychographic profile is weirdly overrepresented in–you guessed it–nightclub attendance!:
@@ -965,467 +870,243 @@ Want more? Leonardo DiCaprio [is Jho Low’s best friend-for-hire](https://nypos
 
 _Told you_ I mouth to the guy before he slams his door shut. I notice a DM from tonight’s original promoter, and send him a response:
 
-> _| Im sorry for not being there tonight_
-
-_nw someone grabbed me for their |_
-
-_table lol_
-
-> _| Im  sure everyone wants to have a_
->
-> _pretty girl like you at their table lol_
->
-> _| Sorry again I just couldn't make it_
->
-> _tonight_
-
-_lol 😂 i'll take anywhere that'll give |_
-
-_me tequila_
-
-_nw catch you next time |_
-
-> _| If only if I knew 🤦‍♂️_
->
-> _| Haha_
->
-> _| Yeah I'm usually out Friday/Saturday_
->
-> _I promise I'll have tequila for you_
->
-> _specially 🔥_
-
-_ha i might be free |_
-
-_sounds good lol |_
-
-> _| You should be free cause that's_
->
-> _the only way I can do things right_
->
-> _hahaha_
-
-_lol like i said i'm just kinda |_
-
-_fascinated this whole world exists_
-
-_mostly in it for the novelty so take |_
-
-_advantage while you can before i_
-
-_move on to something else lol_
-
-> _| I like how that sounds_
->
-> _| We gotta make this novelty more_
->
-> _interesting then_
->
-> _| Something memorable 😏_
-
-_maybe i'll even be tempted to write |_
-
-_a book about it all like what_
-
-_inspired me to do this in the_
-
-_first place lol_
-
-> _| FYI I'm very committed to this_
->
-> _since we'll be writing a book lol_
->
-> _| Happy to contribute to some_
->
-> _Literature_
->
-> _| How's the party btw?_
-
-_lol my kinda guy, other promoters i_
-
-_talk to think i'm crazy lol_
-
-_which i probably am but still |_
-
-> _| Maybe Craziness keep this world_
->
-> _interesting_
-
-_ofc!|_
-
-_i mean this whole world is crazy to |_
-
-_me lol being from like a really_
-
-_conservative part of the south_
-
-> _| It is crazy! From where exactly?_
->
-> _| How's the party btw?_
-
-_like modesty was beaten into me |_
-
-_as a virtue and the fact i can just_
-
-_enter this world based on my looks_
-
-_is crazy to me_
-
-_texas! lol why i like tequila |_
-
-_and ok, dont know anyone so may |_
-
-_go home soon lol_
-
-> _| This crazy world needs some_
->
+> _| Im sorry for not being there tonight_  
+> _nw someone grabbed me for their |_  
+> _table lol_  
+> _| Im  sure everyone wants to have a_  
+> _pretty girl like you at their table lol_  
+> _| Sorry again I just couldn't make it_  
+> _tonight_  
+> _lol 😂 i'll take anywhere that'll give |_  
+> _me tequila_  
+> _nw catch you next time |_  
+> _| If only if I knew 🤦‍♂️_  
+> _| Haha_  
+> _| Yeah I'm usually out Friday/Saturday_  
+> _I promise I'll have tequila for you_  
+> _specially 🔥_  
+> _ha i might be free |_  
+> _sounds good lol |_  
+> _| You should be free cause that's_  
+> _the only way I can do things right_  
+> _hahaha_  
+> _lol like i said i'm just kinda |_  
+> _fascinated this whole world exists_  
+> _mostly in it for the novelty so take |_  
+> _advantage while you can before i_  
+> _move on to something else lol_  
+> _| I like how that sounds_  
+> _| We gotta make this novelty more_  
+> _interesting then_  
+> _| Something memorable 😏_  
+> _maybe i'll even be tempted to write |_  
+> _a book about it all like what_  
+> _inspired me to do this in the_  
+> _first place lol_  
+> _| FYI I'm very committed to this_  
+> _since we'll be writing a book lol_  
+> _| Happy to contribute to some_  
+> _Literature_  
+> _| How's the party btw?_  
+> _lol my kinda guy, other promoters i_  
+> _talk to think i'm crazy lol_  
+> _which i probably am but still |_  
+> _| Maybe Craziness keep this world_  
+> _interesting_  
+> _ofc!|_  
+> _i mean this whole world is crazy to |_  
+> _me lol being from like a really_  
+> _conservative part of the south_  
+> _| It is crazy! From where exactly?_  
+> _| How's the party btw?_  
+> _like modesty was beaten into me |_  
+> _as a virtue and the fact i can just_  
+> _enter this world based on my looks_  
+> _is crazy to me_  
+> _texas! lol why i like tequila |_  
+> _and ok, dont know anyone so may |_  
+> _go home soon lol_  
+> _| This crazy world needs some_  
 > _modesty and beauty from you!_
 >
-> _| Nice, how long have you been here?_
->
-> _| You reached out very late! We_
->
-> _should've started with the book_
->
-> _tonight lol_
-
-_about 3 years! but i've been un |_
-
-_college + working the whole time_
-
-_so i haven't really had a lot of time_
-
-_to explore other things lol_
-
-_the book? |_
-
-> _| You haven't?_
->
-> _| You better start now_
->
+> _| Nice, how long have you been here?_  
+> _| You reached out very late! We_  
+> _should've started with the book_  
+> _tonight lol_  
+> _about 3 years! but i've been un |_  
+> _college + working the whole time_  
+> _so i haven't really had a lot of time_  
+> _to explore other things lol_  
+> _the book? |_  
+> _| You haven't?_  
+> _| You better start now_  
 > _| 😏_
 >
-> _| Yes, the book! If you get inspired_
->
-> _| Whats the most spontaneous thing_
->
-> _you've ever done?_
-
-_oh lol thought you were referring |_
-
-_to some other club or something_
-
-_lol as in there was some event_
-
-_earlier in the night 😂_
-
-_mm i used to live across the street |_
-
-_from an office building and some_
-
-_guy asked me out by writing on a_
-
-_whiteboard and putting it in the_
-
-_window and i actually said yes &_
-
-_went on a date w him despite_
-
-_being creeped out a bit lol_
-
-_turns out it was facebook's office |_
-
-_but still lol_
-
-> _| Hahahah_
->
-> _| No way_
->
-> _| How was that experience?_
->
-> _| Yeah I meant to explore other things haha_
-
-_meh he was boring and not my |_
-
-_type and shorter than me so 😂_
-
-> _| Lmao_
->
-> _| Naaah if he was boring that_
->
-> _doesn't count_
->
-> _| You gotta do it right haha_
->
-> _| How tall are you?_
-
-_i mean everyone who works in tech |_
-
-_is boring lol i used to work in it_
-
-_...6'1 😂 |_
-
-> _| Promoters are better 😎_
->
-> _| Lol_
->
-> _| Yeah a model needs to be tall_
-
-_| So no memorable experiences_
-
-_from nyc yet?_
-
-_ha i don't model but i tell people i |_
-
-_do bc i'm tired of making up_
-
-_reasons why i don't_
-
-_i mean...lots, but not really of the |_
-
-_wild party sort_
-
-> _| Nobody won't ever agrue after_
->
-> _lookin at you haha_
->
-> _| We gotta start, life can't be just_
->
-> _work and school lol_
-
-_like i said i was kinda goody two |_
-
-_shoes until recently lol so memorable_
-
-_experiences are kinda bland/work_
-
-_related_
-
-_i know i know  😭 hahaha |_
-
-> _The wildest?_
->
-> _Where do you live?_
-
-_oh god you're gonna think i'm |_
-
-_a nerd_
-
-_...most memorable is an app i |_
-
-_designed/programmed was in_
-
-_the wsj, forbes, etc recently  😂_
-
-> _Ooh really?_
->
-> _Haha sounds interesting_
-
-_yeah idk how it happened just |_
-
-_right place right time i guess_
-
-> _| Ooh woow_
->
-> _| Need a break from work and_
->
-> _so something fun_
->
-> _| Something you'll write about later_
->
-> _haha_
-
-_yeah the few time's i've been out |_
-
-_so far have been really great lol totally_
-
-_the perfect break from everything_
-
-_no one cares that i have any brains |_
-
-_lol i can jsut play dumb all the time_
-
-_and people don't care haha_
-
-> _| What would people do if they_
->
-> _get the right frame from you?_
->
-> _| Idk if most of people just play stupid_
->
-> _or they actually are 🤣_
->
-> _| Can't tell_
->
-> _| It's better to play dum so you get_
->
-> _to know people better_
-
-_"right frame"? |_
-
-_i mean...i'm a comp sci major |_
-
-_at nyu...i can't imagine i'm the_
-
-_only model on the party cirtuit_
-
-_who has one hahaha_
-
-_i know right it's so weird it's |_
-
-_like...people will open to you_
-
-_more if you're on their level vs_
-
-_if their impressed/intimidated_
-
-_by you_
-
-_lol i gotta go to bed have work |_
-
-_tomorrow, lmk if you're going_
-
-_anywhere interesting_
-
-> _| Exactly that's what I meant_
->
-> _| Go to bed this early? Well science_
->
-> _needs you_
-
-_otherwise seems like i can just show |_
-
-_up and they'll let me in and_
-
-_someone will just take me lol_
-
-_yeah i made it home wasn't really |_
-
-_finding anyone i'd vibe w/_
-
-> _| I don't want that to happen agai._
->
-> _| I wanna be there and be the one_
->
-> _grabbing you haha_
->
-> _| Like I said before_
->
-> _| Cause I wasn't there lol_
->
-> _| Otherwise we wouldve been_
->
+> _| Yes, the book! If you get inspired_  
+> _| Whats the most spontaneous thing_  
+> _you've ever done?_  
+> _oh lol thought you were referring |_  
+> _to some other club or something_  
+> _lol as in there was some event_  
+> _earlier in the night 😂_  
+> _mm i used to live across the street |_  
+> _from an office building and some_  
+> _guy asked me out by writing on a_  
+> _whiteboard and putting it in the_  
+> _window and i actually said yes &_  
+> _went on a date w him despite_  
+> _being creeped out a bit lol_  
+> _turns out it was facebook's office |_  
+> _but still lol_  
+> _| Hahahah_  
+> _| No way_  
+> _| How was that experience?_  
+> _| Yeah I meant to explore other things haha_  
+> _meh he was boring and not my |_  
+> _type and shorter than me so 😂_  
+> _| Lmao_  
+> _| Naaah if he was boring that_  
+> _doesn't count_  
+> _| You gotta do it right haha_  
+> _| How tall are you?_  
+> _i mean everyone who works in tech |_  
+> _is boring lol i used to work in it_  
+> _...6'1 😂 |_  
+> _| Promoters are better 😎_  
+> _| Lol_  
+> _| Yeah a model needs to be tall_  
+> _| So no memorable experiences_  
+> _from nyc yet?_  
+> _ha i don't model but i tell people i |_  
+> _do bc i'm tired of making up_  
+> _reasons why i don't_  
+> _i mean...lots, but not really of the |_  
+> _wild party sort_  
+> _| Nobody won't ever agrue after_  
+> _lookin at you haha_  
+> _| We gotta start, life can't be just_  
+> _work and school lol_  
+> _like i said i was kinda goody two |_  
+> _shoes until recently lol so memorable_  
+> _experiences are kinda bland/work_  
+> _related_  
+> _i know i know  😭 hahaha |_  
+> _The wildest?_  
+> _Where do you live?_  
+> _oh god you're gonna think i'm |_  
+> _a nerd_  
+> _...most memorable is an app i |_  
+> _designed/programmed was in_  
+> _the wsj, forbes, etc recently  😂_  
+> _Ooh really?_  
+> _Haha sounds interesting_  
+> _yeah idk how it happened just |_  
+> _right place right time i guess_  
+> _| Ooh woow_  
+> _| Need a break from work and_  
+> _so something fun_  
+> _| Something you'll write about later_  
+> _haha_  
+> _yeah the few time's i've been out |_  
+> _so far have been really great lol totally_  
+> _the perfect break from everything_  
+> _no one cares that i have any brains |_  
+> _lol i can jsut play dumb all the time_  
+> _and people don't care haha_  
+> _| What would people do if they_  
+> _get the right frame from you?_  
+> _| Idk if most of people just play stupid_  
+> _or they actually are 🤣_  
+> _| Can't tell_  
+> _| It's better to play dum so you get_  
+> _to know people better_  
+> _"right frame"? |_  
+> _i mean...i'm a comp sci major |_  
+> _at nyu...i can't imagine i'm the_  
+> _only model on the party cirtuit_  
+> _who has one hahaha_  
+> _i know right it's so weird it's |_  
+> _like...people will open to you_  
+> _more if you're on their level vs_  
+> _if their impressed/intimidated_  
+> _by you_  
+> _lol i gotta go to bed have work |_  
+> _tomorrow, lmk if you're going_  
+> _anywhere interesting_  
+> _| Exactly that's what I meant_  
+> _| Go to bed this early? Well science_  
+> _needs you_  
+> _otherwise seems like i can just show |_  
+> _up and they'll let me in and_  
+> _someone will just take me lol_  
+> _yeah i made it home wasn't really |_  
+> _finding anyone i'd vibe w/_  
+> _| I don't want that to happen agai._  
+> _| I wanna be there and be the one_  
+> _grabbing you haha_  
+> _| Like I said before_  
+> _| Cause I wasn't there lol_  
+> _| Otherwise we wouldve been_  
 > _drinking some tequila still haha_
 
 _ha all they had was vodka 😭 |_
 
-> _| Nooo_
+> _| Nooo_  
+> _| Really?_  
+> _went home just to break into my |_  
+> _stash_  
+> _i know right |_  
+> _should've just hopper tables til i |_  
+> _found some_  
+> _\*hopped |_  
+> _| You should share it_  
+> _| I read somewhere is not Good to_  
+> _drink alone haha_  
+> _| I don't think anybody had tequila_  
+> _| Everyone drinks vodka in this city_  
+> _| It seems like that_  
+> _lol hate vodka |_  
+> _if i wanted potato that bad i'd |_  
+> _rather eat a baked one_  
+> _| Hahahahaha_  
+> _| A sweet one_  
+> _what i \*really\* want is mezcal lol |_  
+> _but unless someone buys me a_  
+> _drink tequila is fine lol_  
+> _| We should go for a tequila right_  
+> _Now_  
+> _well i’m off to bed…got a friend’s |_  
+> _theater thing earlier in the evening_  
+> _tomorrow but free after so lmk_  
+> _nooo i need sleep lol |_  
+> _actually have work tomorrow |_  
+> _morning lol_  
+> _| Hahahaha kk you’ll take that to_  
+> _bed_  
+> _| No bueno_  
+> _| Oooh shit_  
+> _| If you don’t like your boss we_  
+> _should go for that mezcal_  
+> _| Hahaha_  
+> _| All good, I guess I’ll see you_  
+> _tomorrow!_  
+> _ha sorry actually i like my boss |_  
+> _he understands me more than most |_  
+> _but that’s a long story lol_  
+> _| Never read this in my life_  
+> _| That’s an story I’d like to hear while_  
+> _drinking mezcal_  
+> _yeah it’s kinda hard to explain_  
+> _but…yeah guess i got really lucky_  
+> _hahaha maybe i’ll put that in the_  
+> _book too |_
 >
-> _| Really?_
-
-_went home just to break into my |_
-
-_stash_
-
-_i know right |_
-
-_should've just hopper tables til i |_
-
-_found some_
-
-_\*hopped |_
-
-> _| You should share it_
+> _| Hahahaha that's a different_  
+> _chapter tho_  
+> _yeah it's becoming quite a lengthy |_  
+> _book lol_
 >
-> _| I read somewhere is not Good to_
->
-> _drink alone haha_
->
-> _| I don't think anybody had tequila_
->
-> _| Everyone drinks vodka in this city_
->
-> _| It seems like that_
-
-_lol hate vodka |_
-
-_if i wanted potato that bad i'd |_
-
-_rather eat a baked one_
-
-> _| Hahahahaha_
->
-> _| A sweet one_
-
-_what i \*really\* want is mezcal lol |_
-
-_but unless someone buys me a_
-
-_drink tequila is fine lol_
-
-> _| We should go for a tequila right_
->
-> _Now_
-
-_well i’m off to bed…got a friend’s |_
-
-_theater thing earlier in the evening_
-
-_tomorrow but free after so lmk_
-
-_nooo i need sleep lol |_
-
-_actually have work tomorrow |_
-
-_morning lol_
-
-> _| Hahahaha kk you’ll take that to_
->
-> _bed_
->
-> _| No bueno_
->
-> _| Oooh shit_
->
-> _| If you don’t like your boss we_
->
-> _should go for that mezcal_
->
-> _| Hahaha_
->
-> _| All good, I guess I’ll see you_
->
-> _tomorrow!_
-
-_ha sorry actually i like my boss |_
-
-_he understands me more than most |_
-
-_but that’s a long story lol_
-
-> _| Never read this in my life_
->
-> _| That’s an story I’d like to hear while_
->
-> _drinking mezcal_
-
-_yeah it’s kinda hard to explain_
-
-_but…yeah guess i got really lucky_
-
-_hahaha maybe i’ll put that in the_
-
-_book too |_
-
-> _| Hahahaha that's a different_
->
-> _chapter tho_
-
-_yeah it's becoming quite a lengthy |_
-
-_book lol_
-
-* * *
+> * * *
 
 ## vii) The Marquee
 
@@ -1475,20 +1156,13 @@ _Just…be safe…_
 
 I hope neither _Break Glass If Getting Kidnapped Into Sex Slavery_ are necessary tonight, the Germans are still interested, and I’m in the mood for some more rendered in 3-D with sparkles glittering off of it _Fieldwork_:
 
-> _|We are thinking we go back to club later._
->
-> _| The Marquee._
-
-_hey yeah i think so! |_
-
-_i have a friend’s theater thing out in |_
-
-_brooklyn until 11 or so_  
-
-_so it would have to be after that |_
-
-> _| That sounds good._
->
+> _|We are thinking we go back to club later._  
+> _| The Marquee._  
+> _hey yeah i think so! |_  
+> _i have a friend’s theater thing out in |_  
+> _brooklyn until 11 or so_  
+> _so it would have to be after that |_  
+> _| That sounds good._  
 > _| Let us know._
 
 The friend’s theater thing doesn’t happen because I leave work late, because I don’t want to go. It’s out in Red Hook, for starters, which is so far off the beaten path a Swedish company came in and [subsidized a ferry](https://www.nywaterway.com/ikea.aspx) over to it just to embarrass us, _iT’s TiMe tO BuIlD_, and every Manhattanite visualizes a parody of that [New Yorker cover](https://www.google.com/search?q=view+of+the+world+from+9th+avenue&tbm=isch&ved=2ahUKEwiPqLvCyYD3AhWrgHIEHV8BAX4Q2-cCegQIABAA&oq=view+of+the+world+from+&gs_lcp=CgNpbWcQARgAMgUIABCABDIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQgAQyBQgAEIAEMgUIABCABDIECAAQGDIECAAQGDIECAAQGDoICAAQgAQQsQM6CAgAELEDEIMBOgsIABCABBCxAxCDAToECAAQQzoHCAAQsQMQQzoGCAAQCBAeOgYIABAFEB5QzwVYpUlgwF1oBnAAeACAAXaIAasRkgEEMzIuMZgBAKABAaoBC2d3cy13aXotaW1nsAEAwAEB&sclient=img&ei=CCBOYo-EM6uBytMP34KE8Ac&bih=1040&biw=1792&client=safari) when they think about the area. And then there’s it: the play forcibly conscripts you into your own cast of one, and then scripts at you to Marina Abramović your way through displays of furniture until you’re enlightened:
@@ -1501,24 +1175,15 @@ and qualia in the first person inside my skull for so long, I’ll probably cont
 
 Walking home from work, I break the news to my friend, and that reminds I also have news to break to the promoter from last night:
 
-_hey so sorry gonna have to flake on you |_
-
-_couple of rich German dudes i met at |_
-
-_Fleur earlier in the week invited me_
-
-_to their table at marquee_  
-
-> _| OMG_
->
-> _| we’re not writing that book then_
-
-_lol |_
-
-_we can just call it even then after |_
-
-_leaving me high and dry last night_
-
+> _hey so sorry gonna have to flake on you |_  
+> _couple of rich German dudes i met at |_  
+> _Fleur earlier in the week invited me_  
+> _to their table at marquee_  
+> _| OMG_  
+> _| we’re not writing that book then_  
+> _lol |_  
+> _we can just call it even then after |_  
+> _leaving me high and dry last night_  
 > _| Lol fair enough_
 
 I promptly collapse into bed and off to sleep upon arriving home, the late nights and at-my-desk-at-
@@ -1535,8 +1200,7 @@ _should i just come inside?_ |
 
 I hit send and hop out. The two bouncers manning the club’s exit are watching. I hear a comment about me as I step onto the sidewalk. I turn back around so they can’t see my further reactions. Now my back’s to the club, like I’m facing the wrong way as I stand in an elevator. But I can’t turn back around, tacit admission. I hunch my shoulders up inside my trusty jacquard coat, because an upright carpet is less notable than a six-one girl all alone. I check my phone:
 
-> _| Where_
->
+> _| Where_  
 > _|Where are you?_
 
 _i’m here outside! |_
@@ -1549,26 +1213,20 @@ A documentary I watched in a class, years ago, featured the apartment block acro
 
 _They’re Not Here_ dawns on me like I’ve just witnessed a flagrant violation of object permanence, after Wednesday I moved their pieces on my tabletop Manhattan over to Marquee and that was that.
 
-> _| Coming there now_
->
+> _| Coming there now_  
 > _| We are on the east side_
 
 Why did I think they were here. Think the day’s earlier invite meant it was set in stone. They can’t come here now. On account of me not knowing they weren’t already. The obligations of it. _Strings tripwires collapse bad light._ I have to stop this. Them. They’ll go back to godknows what I tore them away from when I sent up my bat-signal.
 
-_look i’m sorry, i though y’all were |_
-
-_here already with a table_
-
-> _| I am begging you_
->
+> _look i’m sorry, i though y’all were |_  
+> _here already with a table_  
+> _| I am begging you_  
 > _|We are two minutes_
 
 Their poor driver. I’m almost facing north now, I’ve been folding imperceptible bits of rotation into each shift of my weight, which in heels you do often. The club enters my field of vision again, the line of people waiting to get in, the main entr-_Fuck! Not now. Fuck this._ Bouncer. Yes that one. _You will see me... two more times, if you do bad._ Twenty-Sixth Street is a few dozen steps, I picture myself making a break for it, continuing west until I’m fully submerged in the inky blackness of the river. But some stubborn honor-bound piece of me.
 
-> _| Please_
->
-> _| I am begging you to stay_
->
+> _| Please_  
+> _| I am begging you to stay_  
 > _| We are almost to you_
 
 I feel my phone buzz and buzz with more of this all through the guaranteed two minutes and the bonus three minutes after them, at some point I tilt-shift the scene in my head and try to mesmerize myself away in the ebb and flow of traffic, watching the cars and the cabs whiz by, sometimes more cars, others mostly cabs; a few cabs and Ubers drop off partygoers, who scurry over to take their places at the back of the main line, and one group of people leaves the club, the two bouncers hold open the doors for them, and they perch themselves nearby on the curb for the three cycles of traffic-notraffic it takes them to succeed at hailing a ride; the timed stoplights switch to red to green to yellow quickly to red again in domino-collapsing succession at each intersection all up the avenue, shooting beyond the dark horizon and giving the impression this process must circumnavigate the earth with each color’s playhead advancing at near-lightspeed pace. Sufficiently lulled, I can stay like this forever, they won’t arrive, daylight won’t arrive, only the changing lights, _Will the circle be unbroken, by an–_
@@ -1677,17 +1335,14 @@ _Do you want to come join us?_
 
 Why not. _Full circle._ at least to start the night. I follow him down the stairs and onto the dance floor, and we push through the throngs of partiers to get to a booth on the far side of the floor. Men in chains adorn the table next to us. I exchange greetings with people around our table, and pour myself some Prosecco, full circle. I start talking with a guy at our table who’s not a promoter, but not a client: a rare Male Pretty Wallpaper sighting, _Very Important People_ mentions promoters sometimes enlist these guys to get us girls to come out.
 
-_Hey!_
-
-_Hey!_
-
-_This is my first time, this is crazy!_
+> _Hey!_  
+> _Hey!_  
+> _This is my first time, this is crazy!_
 
 _It’s not even one yet, it’ll get a hundred times wilder than what you see right now!_ His button-down is killing me, the fashion designer part of me, it’s so amazing for some reason. _Are you in college?_ He asks.
 
-_Yeah, NYU! You?_
-
-_UChicago! I moved here six months ago after I graduated, to New York._
+> _Yeah, NYU! You?_  
+> _UChicago! I moved here six months ago after I graduated, to New York._
 
 He’s gotta be one of us. No one who goes to UChicago is someone who attends these things unironically. I press for more. _I almost went there! But I just loved NYC so much, Chicago’s so cold. What did you study?_
 
@@ -1723,8 +1378,7 @@ Once, years ago, I was in my hometown, at a retirement party for my elementary-s
 
 ### ✧
 
-> _“It’s better to look at the sky than live there._
->
+> _“It’s better to look at the sky than live there._  
 > _Such an empty place; so vague. Just a country where the thunder goes…”_
 
 Christmas morning, my parents stuff my stocking with hangover pills and five-dollar bills, read that like the country song it is. I eye my stack of presents over under the tree. One's a book, I find when go I unwrap it, _[Letters to My Weird Sisters](https://www.amazon.com/Letters-My-Weird-Sisters-Feminism-ebook/dp/B08S6PLYVP)_, and I read a few bits from the preface before I move on to unwrapping a bottle of Dom Pérignon or something:

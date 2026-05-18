@@ -1,19 +1,15 @@
 ---
-title: >-
-  Fear and Loathing in Las Vegas: A Savage Journey to the Heart of the American
-  Dream by Hunter S. Thompson
+title: 'Fear and Loathing in Las Vegas: A Savage Journey to the Heart of the American Dream by Hunter S. Thompson'
 author: Unknown
 reviewAuthor: Anonymous
 contestId: 2023-book-reviews
 contestName: 2023 Book Reviews
 year: 2023
 publishedDate: '2026-02-06T07:21:10.029Z'
-slug: >-
-  fear-and-loathing-in-las-vegas-a-savage-journey-to-the-heart-of-the-american-dream-by-hunter-s-thompson
-wordCount: 7860
+slug: fear-and-loathing-in-las-vegas-a-savage-journey-to-the-heart-of-the-american-dream-by-hunter-s-thompson
+wordCount: 7854
 readingTimeMinutes: 35
-originalUrl: >-
-  https://docs.google.com/document/d/10CiEI7aDL2bMIdx7yayy3vlq0TJ8dO5LGnG7yIDPiw8
+originalUrl: https://docs.google.com/document/d/10CiEI7aDL2bMIdx7yayy3vlq0TJ8dO5LGnG7yIDPiw8
 source: gdoc
 tags:
   - Fiction
@@ -176,12 +172,12 @@ Also, the stereotypically male obsession with vehicles and weapons and the specs
 
 A few examples of this:
 
-> *   (Handgun) "suddenly he was waving a fat black .357 magnum at me. One of those snubnosed Colt Pythons with the beveled cylinder."
->
-> *   (Motorcycle) "Vincent Black Shadow" - "two hundred brake-horsepower at four thousand revolutions per minute on a magnesium frame...not much for turning, but it's pure hell on the straightaway"
->
-> *   (Hunting knife) "he grabbed a grapefruit and sliced it in half with a Gerber mini-magnum -- a stainless-steel hunting knife with a blade like a fresh-honed straight razor.
->
+*   (Handgun) "suddenly he was waving a fat black .357 magnum at me. One of those snubnosed Colt Pythons with the beveled cylinder."
+
+*   (Motorcycle) "Vincent Black Shadow" - "two hundred brake-horsepower at four thousand revolutions per minute on a magnesium frame...not much for turning, but it's pure hell on the straightaway"
+
+*   (Hunting knife) "he grabbed a grapefruit and sliced it in half with a Gerber mini-magnum -- a stainless-steel hunting knife with a blade like a fresh-honed straight razor.
+
 > 'Where'd you get that knife?' I asked.
 >
 > 'Room service sent it up,' he said. 'I wanted something to cut the limes.'

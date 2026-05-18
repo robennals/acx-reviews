@@ -9,8 +9,7 @@ publishedDate: '2026-02-06T07:22:32.822Z'
 slug: the-deficit-myth-by-stephanie-kelton
 wordCount: 3990
 readingTimeMinutes: 18
-originalUrl: >-
-  https://docs.google.com/document/d/100kMdSVFviZSSBvUyyEQPMNlvLptVQxHFD9i9wGuBWs
+originalUrl: https://docs.google.com/document/d/100kMdSVFviZSSBvUyyEQPMNlvLptVQxHFD9i9wGuBWs
 source: gdoc
 tags:
   - Economics

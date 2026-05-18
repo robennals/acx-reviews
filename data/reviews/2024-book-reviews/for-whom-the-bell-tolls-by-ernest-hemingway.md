@@ -1,5 +1,5 @@
 ---
-title: 'For Whom the Bell Tolls, by Ernest Hemingway'
+title: For Whom the Bell Tolls, by Ernest Hemingway
 author: Unknown
 reviewAuthor: Anonymous
 contestId: 2024-book-reviews
@@ -9,8 +9,7 @@ publishedDate: '2026-02-06T16:47:49.305Z'
 slug: for-whom-the-bell-tolls-by-ernest-hemingway
 wordCount: 1354
 readingTimeMinutes: 7
-originalUrl: >-
-  https://docs.google.com/document/d/1QiotH3aGFgNLGqsIHTK_Plm_gem2E4l2C2ctyGJd0jY
+originalUrl: https://docs.google.com/document/d/1QiotH3aGFgNLGqsIHTK_Plm_gem2E4l2C2ctyGJd0jY
 source: gdoc
 tags:
   - Fiction

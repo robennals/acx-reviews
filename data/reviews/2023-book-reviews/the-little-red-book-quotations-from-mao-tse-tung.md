@@ -1,16 +1,16 @@
 ---
-title: "The Little Red Book (Quotations from Mao Tse-tung)"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2023-book-reviews"
-contestName: "2023 Book Reviews"
+title: The Little Red Book (Quotations from Mao Tse-tung)
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2023-book-reviews
+contestName: 2023 Book Reviews
 year: 2023
-publishedDate: "2023-01-01T00:00:00.000Z"
-slug: "the-little-red-book-quotations-from-mao-tse-tung"
+publishedDate: '2023-01-01T00:00:00.000Z'
+slug: the-little-red-book-quotations-from-mao-tse-tung
 wordCount: 6310
 readingTimeMinutes: 29
-originalUrl: "https://docs.google.com/document/d/1AtGIIv371v0Yu35eNsIxJr67dw4SHOiGdKrqmoKt2hg"
-source: "gdoc"
+originalUrl: https://docs.google.com/document/d/1AtGIIv371v0Yu35eNsIxJr67dw4SHOiGdKrqmoKt2hg
+source: gdoc
 tags:
   - History
   - Politics
@@ -19,7 +19,7 @@ tags:
 
 I thought it would be difficult to review _Quotations from Mao Tse-tung_, but in that way and so many others, it disappointed me. It may be the most widely read and published book of the 20th century (discounting religious texts, although it itself is one) yet it is hardly a ‘book ‘except in the sense that it was made of paper and bound between two covers. It comprises not chapters or essays but two hundred quotes collected from four decade’s worth of speeches, notes, pamphlets, and books, penned by Chairman Mao. The compiling and disseminating of these quotes began in 1964-1966, and continued at mind-boggling pace all through the Cultural Revolution, wherein Mao purged the communist party of opposition, and the country itself of much of its cultural heritage.
 
-![](https://acximages.ennals.org/images/2023-book-reviews/0cd2c5b844e985f3.png)
+![](https://acximages.ennals.org/images/2023-book-reviews/e81515f2f7215501.png)
 
 It’s hard to overestimate the power Mao wielded during the period between 1966-1976, although previous to that it had been on the wane as a result of disastrous agricultural policies. It would be fair to say that from the 1920s into the 1950s, Mao was in the business of achieving military domination over an unstable and disunited polity. Then, after a lull in which the actual business of policy-making caused his grip over the party and the nation to slip, he sought to consolidate power by way of an all-encompassing, unprecedented propaganda campaign. This then resulted in the attempted erasure of what remnants of the ‘old’ systems of social organization and traditional belief had not already been swept away in the name of ‘continuous revolution’. The Little Red Book was a fundamental part of this process of cultural self-destruction, rebirth, and, if you like, nation building. And like most books that are used in the building of modern nation states (which generally involves convincing millions upon millions of illiterate, self-governing peasants that they are part and parcel of some discernible whole, as defined by a struggle against bitter enemies) the book reads like a series of biblical psalms, at intervals inscrutable, tautological, terrifying, and empty. The meaningless, redundant, and ra-ra nature of a great number of the quotes means a great many need not be addressed at all. Take Mao on the Sino-Japanese war, for an example:
 

@@ -9,8 +9,7 @@ publishedDate: '2026-02-06T16:52:48.889Z'
 slug: as-little-as-possible-slave-morality-in-chinatown-and-spec-ops-the-line
 wordCount: 8137
 readingTimeMinutes: 37
-originalUrl: >-
-  https://docs.google.com/document/d/1d0vRSj1E93joWWvbUen2XGuDjN_mM94ybMIAADzM2fo
+originalUrl: https://docs.google.com/document/d/1d0vRSj1E93joWWvbUen2XGuDjN_mM94ybMIAADzM2fo
 source: gdoc
 tags:
   - Philosophy
@@ -93,13 +92,13 @@ But I must confess: Towne’s comment about the “futility of good intentions�
 
 Perhaps what I find so contemptible in this worldview is how nakedly self-serving it is. Much as with [Orwell’s observation](https://www.orwellfoundation.com/the-orwell-foundation/orwell/essays-and-other-works/notes-on-nationalism/) that “those who ‘abjure’ violence can only do so because others are committing violence on their behalf”, passivity and inertia are only possible in a world in which _some_ people actually _do_ take action. Towne spoke to his vice cop from Hungary, who spoke eloquently about how police ought to only do the bare minimum lest they exacerbate a bad situation, and thought it such a penetrating insight into the human condition that it was worth constructing an entire film around. [But if someone had assaulted Towne](https://slatestarcodex.com/2014/08/14/beware-isolated-demands-for-rigor/) and he called the police to report the crime, I can’t imagine he’d have been too impressed if the detective handling his case shrugged his shoulders and announced that investigating the crime was pointless: after all, wasn’t there every chance that the act of so doing might carry negative unintended consequences for Towne himself down the line? Passivity and inaction for me, not for thee.
 
-![](https://acximages.ennals.org/images/2025-non-book-reviews/753fe42a2a613957.png)
+![](https://acximages.ennals.org/images/2025-non-book-reviews/c319d8b37f8c188a.png)
 
 _[Source](https://theonion.com/lifeguard-would-save-drowning-man-but-who-is-he-to-pla-1819576716/)__._
 
 Cognitive dissonance of this sort is a major theme of the second work I’ll be analysing, to the point that the term is explicitly defined therein.
 
-![](https://acximages.ennals.org/images/2025-non-book-reviews/4686f5763680f1bf.png)
+![](https://acximages.ennals.org/images/2025-non-book-reviews/b0ce77c458893c9b.png)
 
 _Loading screen from_ Spec Ops: The Line.
 
@@ -145,7 +144,7 @@ Williams and Pearsey might defend themselves by arguing that they _only_ intende
 
 The implied thesis of _Call of Duty_ or _Battlefield_ games, “American military intervention overseas is always noble and righteous, and no unnecessary harm will ever come from it”, is simplistic and inaccurate. _Spec Ops_ presents the antithesis, in which American military intervention is _always_ fundamentally wrong-headed, no _good_ will ever come from it, and the best outcome will always come from American soldiers sitting on their hands. Perhaps, like _Chinatown_, presenting this antithesis served as a necessary corrective to the prevailing trends at the time of writing. But what’s needed now is the third phase, the Hegelian synthesis, the [reconstruction](https://tvtropes.org/pmwiki/pmwiki.php/Main/Reconstruction), in which we can acknowledge that great harm has resulted from American intervention overseas, while also recognising that there may be rare instances (such as the Holocaust) in which it really is the best option – or at least, the best of a bad bunch.
 
-![](https://acximages.ennals.org/images/2025-non-book-reviews/e163253e1e7babd9.png)
+![](https://acximages.ennals.org/images/2025-non-book-reviews/f248dfbf00c2aa5f.png)
 
 ## Knowledge and power
 

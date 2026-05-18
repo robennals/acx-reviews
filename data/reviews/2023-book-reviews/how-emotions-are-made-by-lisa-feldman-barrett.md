@@ -1,16 +1,16 @@
 ---
-title: "How Emotions Are Made by Lisa Feldman Barrett"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2023-book-reviews"
-contestName: "2023 Book Reviews"
+title: How Emotions Are Made by Lisa Feldman Barrett
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2023-book-reviews
+contestName: 2023 Book Reviews
 year: 2023
-publishedDate: "2023-01-01T00:00:00.000Z"
-slug: "how-emotions-are-made-by-lisa-feldman-barrett"
+publishedDate: '2023-01-01T00:00:00.000Z'
+slug: how-emotions-are-made-by-lisa-feldman-barrett
 wordCount: 4300
 readingTimeMinutes: 20
-originalUrl: "https://docs.google.com/document/d/1vci14HMZ2UEJBs6mKCZZ2vHs-jVuPSsFsiN3cAENzXU"
-source: "gdoc"
+originalUrl: https://docs.google.com/document/d/1vci14HMZ2UEJBs6mKCZZ2vHs-jVuPSsFsiN3cAENzXU
+source: gdoc
 tags:
   - Psychology
   - Science
@@ -26,7 +26,7 @@ Lisa Feldman Barrett is a prominent research psychologist. Her website claims sh
 
 Feldman Barrett starts by pointing out that there are some problems with the cross-cultural studies of emotional archetypes completed by Ekman and others. The first questions were raised in the 1990s by psychologists like Andrew Ortony and James Russell, who pointed out the large dependence of Ekman on the method in which the questions are asked. Compare the following two methods of asking people to identify the emotion depicted (from Paul Ekman’s work in Papua New Guinea):
 
-![](https://acximages.ennals.org/images/2023-book-reviews/f39308444760fea5.png)
+![](https://acximages.ennals.org/images/2023-book-reviews/070d7594211f9b10.png)
 
 From [https://www.paulekman.com/resources/universal-facial-expressions/](https://www.paulekman.com/resources/universal-facial-expressions/)
 
@@ -50,7 +50,7 @@ We can’t reliably read emotions on other people’s faces without context, but
 
 And as without, so within. A recent [meta-analysis](https://psycnet.apa.org/record/2018-04155-001) failed to find bodily correlates of fear, anger, sadness and disgust within the autonomic nervous system (such as heart rate, skin conductance/sweating, blood pressure, and adrenaline rates). Even [more recent studies](https://acris.aalto.fi/ws/portalfiles/portal/36173502/Bodily_maps_of_emotions_are_culturally_universal.pdf) from rival researchers – researchers who are wedded to the idea of universality of emotions – show huge overlap in how different emotions are experienced in the body. How do you robustly distinguish anger from surprise in the following figure, or jealousy from fear, especially in a single person? The most you seem to be able to do is to distinguish all those ‘hotter’ emotions from another ‘colder’ cluster of depression or sadness.
 
-![](https://acximages.ennals.org/images/2023-book-reviews/ecce68144b37df00.jpg)
+![](https://acximages.ennals.org/images/2023-book-reviews/8947e86b10e3d04c.jpg)
 
 Over 5000 people clicked on a computer model of the areas of the body that feel ‘activated’ in particular emotions (warmer colours) or ‘deactivated’ (cooler colours) to produce this composite. Note the overlap, except in depression/sadness, which appears to be its own cluster. From [https://acris.aalto.fi/ws/portalfiles/portal/36173502/Bodily\_maps\_of\_emotions\_are\_culturally\_universal.pdf](https://acris.aalto.fi/ws/portalfiles/portal/36173502/Bodily_maps_of_emotions_are_culturally_universal.pdf)
 
@@ -66,7 +66,7 @@ For instance, Feldman Barrett tells the story of a date she went on as a young w
 
 Her answer lies in the idea that Bayesian management of prediction error isn’t just occurring with sensory data from the world around us; it’s occurring with our internal sensory data and the brain’s model of bodily function– a concept most commonly called interoception, and that Feldman Barrett combines with the concept of the brain’s regulation of bodily energy in what she calls allostasis.
 
-![](https://acximages.ennals.org/images/2023-book-reviews/6a8efdab4da34dcd.jpg)
+![](https://acximages.ennals.org/images/2023-book-reviews/617a56a4c9e08f5f.jpg)
 
 From [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6054486/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6054486/) ACC, anterior cingulate cortex; AIC, anterior insular cortex; MC, metacognitive layer; MIC, midinsular cortex; OFC, orbitofrontal cortex; PE, prediction error; PIC, posterior insular cortex; SGC, subgenual cortex.
 
@@ -80,7 +80,7 @@ In the book (and in her subsequent work) Feldman Barrett takes pains to dispel m
 
 In contrast, concurrently with other work from [Pessoa](https://direct.mit.edu/jocn/article/35/3/349/112783/The-Entangled-Brain) amongst others, the hallmark of the neural architecture of emotion (and of psychological states in general) is that signals can vary from person to person and often involve whole-brain signals that incorporate areas of the brain that do not seem directly connected to the classical neural networks we know and love. These networks are still important – the link between the Default Mode Network and the Salience Network appears relevant in much of our interoception of bodily models – but they are not sufficient. Any one specific neural network state you could name may not even be necessary for a particular psychological state, as there is also significant degeneracy of neuronal inputs into psychological states (that is, many network states can produce similar psychological states). This also explains why it is difficult to interpret the results from functional imaging studies into the links between brain networks and single psychological states: the external environment, current bodily state and the task being performed all interact in complex ways to make neural activity hard to measure consistently, both between subjects and between time points.
 
-![](https://acximages.ennals.org/images/2023-book-reviews/8509e2b9a1985df4.jpg)
+![](https://acximages.ennals.org/images/2023-book-reviews/a853fdd5bdd629c2.jpg)
 
 From [https://www.cell.com/trends/cognitive-sciences/fulltext/S1364-6613(22)00332-1](https://www.cell.com/trends/cognitive-sciences/fulltext/S1364-6613(22)00332-1)
 
@@ -102,7 +102,7 @@ What if you can’t internalise or learn emotional concepts in the first place? 
 
 Overall, the range of emotional granularity might look a little like this (facetious diagram is mine):
 
- ![](https://acximages.ennals.org/images/2023-book-reviews/8b39c753eda9de50.jpg)
+ ![](https://acximages.ennals.org/images/2023-book-reviews/a6b858dca504add3.jpg)
 
 ## What Is Emotion For?
 

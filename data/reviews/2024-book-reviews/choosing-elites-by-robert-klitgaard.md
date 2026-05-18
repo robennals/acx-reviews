@@ -7,10 +7,9 @@ contestName: 2024 Book Reviews
 year: 2024
 publishedDate: '2026-02-06T16:47:15.598Z'
 slug: choosing-elites-by-robert-klitgaard
-wordCount: 3102
+wordCount: 3093
 readingTimeMinutes: 14
-originalUrl: >-
-  https://docs.google.com/document/d/1AXmWgSbh_TFsoZuApSCSEoz57yn93CM5YYhtaO_s4W4
+originalUrl: https://docs.google.com/document/d/1AXmWgSbh_TFsoZuApSCSEoz57yn93CM5YYhtaO_s4W4
 source: gdoc
 tags:
   - Society
@@ -33,7 +32,7 @@ Klitgaard’s fundamental message is that selective universities and other insti
 
 Klitgaard does not tell selective schools what their admissions policies should be; he prefers to construct intellectual frameworks they could use to answer that question for themselves. For example, here is the framework concerning the representation of groups:
 
-![](https://acximages.ennals.org/images/2024-book-reviews/c0dcc04f4c76168b.gif)
+![](https://acximages.ennals.org/images/2024-book-reviews/f45f364b3601b0b5.gif)
 
 Of course, this sort of explicit, rigorous process is not what admissions committees traditionally do or have ever done. Admissions offices are not staffed with economists. They are unwilling or incapable of thinking that hard about what they do. But it is difficult to deny that the framework approach makes a lot of sense.
 
@@ -48,11 +47,11 @@ By “intuitively pleasing criteria” he means things like interviews, letters 
 How much does Klitgaard’s central finding matter? That depends on how important you believe it is for elite schools to maximize the transmission of knowledge. Klitgaard discusses a study by Harvard economist Elisabeth Allison which vividly illustrates the significance in the classroom of academic ability, as defined by standardized tests:
 
 > Looking at Harvard’s survey course in economics and using a complicated set of simultaneous equations, she estimated how a host of variables - what students did with their time, students’ tastes and abilities, teachers’ characteristics, and the way the course was taught in different sections (pass/fail, programmed instruction, and so forth) - affected how much economics students learned and their satisfaction with the course. How much they learned was estimated via an objective examination given at the end of each semester. With all these variables ingeniously and extensively measured over a number of years, Allison made the following discoveries:
->
-> *   With other variables held constant, a measure of “academic ability” that combined high-school records and SAT test scores was about ten times as important as a measure of “student effort” (study time and so forth), in terms of how much was learned.
-> *   Other things equal, a hundred point increase in both the SAT verbal and math scores made a slightly greater difference as to how much more students learned than did the difference between the best and worst instructors in the course.
-> *   Students’ ratings of the competence and personability of their teachers had absolutely no relationship with how much the students learned. But the teachers’ grades in graduate school did.
-> *   A twenty-five point increase in both SAT verbal and math scores had about the same effect on how much economics was learned as an increase in study time of ten hours per week for this course.[footnote omitted]
+
+*   With other variables held constant, a measure of “academic ability” that combined high-school records and SAT test scores was about ten times as important as a measure of “student effort” (study time and so forth), in terms of how much was learned.
+*   Other things equal, a hundred point increase in both the SAT verbal and math scores made a slightly greater difference as to how much more students learned than did the difference between the best and worst instructors in the course.
+*   Students’ ratings of the competence and personability of their teachers had absolutely no relationship with how much the students learned. But the teachers’ grades in graduate school did.
+*   A twenty-five point increase in both SAT verbal and math scores had about the same effect on how much economics was learned as an increase in study time of ten hours per week for this course.[footnote omitted]
 
 In other words, brains matter. A lot.
 
@@ -82,10 +81,10 @@ The universities, of course, decided in their collective wisdom that thinking ha
 
 In his final chapter, Concluding Remarks, Klitgaard hazards these general propositions:
 
-> 1.  In highly selective universities, test scores and previous grades are quite helpful in assembling a class that on the whole will perform well academically (citation omitted).
-> 2.  At the right tail, test scores and grades are much less successful in forecasting various kinds of success in later life (citation omitted).
-> 3.  Other information now used in selection - such as essays, recommendations, interviews, and biographical information - do not add much of importance to the prediction of various kinds of later success (citation omitted).
-> 4.  Using personality measures and other psychological information in selection at the right tail would probably not help - in part because there is no evidence that they predict later performance, and in part because an applicant can easily be coached to give the right answers. . . .
+1.  In highly selective universities, test scores and previous grades are quite helpful in assembling a class that on the whole will perform well academically (citation omitted).
+2.  At the right tail, test scores and grades are much less successful in forecasting various kinds of success in later life (citation omitted).
+3.  Other information now used in selection - such as essays, recommendations, interviews, and biographical information - do not add much of importance to the prediction of various kinds of later success (citation omitted).
+4.  Using personality measures and other psychological information in selection at the right tail would probably not help - in part because there is no evidence that they predict later performance, and in part because an applicant can easily be coached to give the right answers. . . .
 
 Klitgaard’s findings and conclusions seem quite damning of the actual practices of selective schools, but he emphasizes that he is not saying that the schools are getting their admissions decisions wrong, and need to change the composition of their student bodies. But although Klitgaard does not lay out a reform agenda, he does urge schools and their admissions committees to face facts about what they are doing.
 

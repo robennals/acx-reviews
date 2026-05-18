@@ -1,5 +1,5 @@
 ---
-title: '1587, A Year Of No Significance'
+title: 1587, A Year Of No Significance
 author: Unknown
 reviewAuthor: Anonymous
 contestId: 2022-book-reviews
@@ -7,9 +7,9 @@ contestName: 2022 Book Reviews
 year: 2022
 publishedDate: '2026-02-05T15:57:27.924Z'
 slug: 1587-a-year-of-no-significance
-wordCount: 8830
+wordCount: 8773
 readingTimeMinutes: 40
-originalUrl: 'https://astralcodexten.substack.com/p/your-book-review-1587-a-year-of-no'
+originalUrl: https://astralcodexten.substack.com/p/your-book-review-1587-a-year-of-no
 source: acx
 tags:
   - History
@@ -274,11 +274,11 @@ The execution of prisoners of war was also done with theatrical ceremony:
 And can I just note that Huang's chapter headings reminded me of Borges' short story titles from his collection _A Universal History of Infamy_? For example:
 
 *   “The Implausible Imposter Tom Castro” vs. “Hai Jui the Eccentric Model Official”
-    
+
 *   “The Widow Ching - Pirate” vs. “The Living Ancestor”
-    
+
 *   “The Cruel Redeemer Lazarus Morell” vs. “Ch'i Chi-Kuang the Lonely General”
-    
+
 
 (Spoiler alert: all three examples are Borges vs. Huang.)
 

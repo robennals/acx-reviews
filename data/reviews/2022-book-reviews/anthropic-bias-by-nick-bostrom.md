@@ -9,8 +9,7 @@ publishedDate: '2026-02-06T07:24:08.695Z'
 slug: anthropic-bias-by-nick-bostrom
 wordCount: 4258
 readingTimeMinutes: 19
-originalUrl: >-
-  https://docs.google.com/document/d/1pRQbRbEUwSH_jm94PI_ij-88swat7vQ4iNaNp6gd39g
+originalUrl: https://docs.google.com/document/d/1pRQbRbEUwSH_jm94PI_ij-88swat7vQ4iNaNp6gd39g
 source: gdoc
 tags:
   - Philosophy
@@ -61,7 +60,7 @@ Look, I want to acknowledge that the upcoming thought experiments are weird. If 
 
 That said, imagine you wake up with no memory in a dark room, and a voice announces over a loudspeaker that you are part of an experiment where God flipped a coin after promising to create one human in this room if it came up heads, and to leave the room empty if it came up tails. How did the coin land?
 
-![](https://acximages.ennals.org/images/2022-book-reviews/7d605e52f24ea043.png)
+![](https://acximages.ennals.org/images/2022-book-reviews/283fea05794864ff.png)
 
 _Heads = 1 human; Tails = nothing._
 
@@ -71,7 +70,7 @@ This is the simplest experiment I can think of that illustrates anthropic bias. 
 
 You again wake up, except this time God’s experiment is slightly different. God planned to create one human in this room regardless of whether the coin came up heads or tails.
 
-![](https://acximages.ennals.org/images/2022-book-reviews/c2489cb43e694090.png)
+![](https://acximages.ennals.org/images/2022-book-reviews/3de4183c8947af44.png)
 
 _Heads = 1 human; Tails = 1 human._
 
@@ -85,7 +84,7 @@ So far, so good. In simple thought experiments like these, it is easy to reason 
 
 You again wake up. This time, God planned to create one human in one room if heads and two humans in two rooms if tails. Which way did the coin land?
 
-![](https://acximages.ennals.org/images/2022-book-reviews/670528a978e81d65.png)
+![](https://acximages.ennals.org/images/2022-book-reviews/7bd4aabd9a8b0cc0.png)
 
 _Heads = 1 human; Tails = 2 humans._
 
@@ -101,7 +100,7 @@ In our coin-toss situation, the proportion of people like you in heads-world is 
 
 You wake up, this time in a well-lit room. Again, God planned to create one human in one room if heads and two humans in two rooms if tails. However, this time, all the people are not indistinguishable from each other. Specifically, on heads, God planned to create one person in a red jacket. On tails, God planned to create one person in a red jacket and one in a black jacket. You notice you’re wearing a red jacket. Which way did the coin land?
 
-![](https://acximages.ennals.org/images/2022-book-reviews/f287b77a156764d7.png)
+![](https://acximages.ennals.org/images/2022-book-reviews/4727332b6049df85.png)
 
 _Heads = 1 human in red jacket; Tails = 1 human in red jacket, 1 human in black jacket._
 
@@ -131,7 +130,7 @@ Bostrom prefers SSA, but acknowledges that selecting the reference class is a su
 
 Consider our coin toss experiment again. You wake up. God planned to create one human in one room if heads. However, if tails, God planned to create a whole menagerie: one human, one chimpanzee, one dolphin, and one newborn infant. Which way did the coin land?
 
-![](https://acximages.ennals.org/images/2022-book-reviews/d87d7a235f527aca.png)
+![](https://acximages.ennals.org/images/2022-book-reviews/cc66b21c4ef7a454.png)
 
 _Heads = 1 human; Tails = 1 human and a zoo._
 

@@ -7,10 +7,9 @@ contestName: 2024 Book Reviews
 year: 2024
 publishedDate: '2026-02-06T16:47:15.597Z'
 slug: battle-hymn-of-the-tiger-mother
-wordCount: 5962
+wordCount: 5941
 readingTimeMinutes: 27
-originalUrl: >-
-  https://docs.google.com/document/d/1AXmWgSbh_TFsoZuApSCSEoz57yn93CM5YYhtaO_s4W4
+originalUrl: https://docs.google.com/document/d/1AXmWgSbh_TFsoZuApSCSEoz57yn93CM5YYhtaO_s4W4
 source: gdoc
 tags:
   - Society
@@ -33,7 +32,7 @@ Chinese parenting clashes with the West, neither leaves unscathed
 
 _Tiger mother_ is the part of the title that makes the most sense to me at first blush, but this is somewhat circular. The term was popularized by Amy Chua’s book, which was published in 2011 and quite controversial in its time — partly due to the exceedingly strict parenting she describes in the book, but primarily I assume due the shade it throws on the Western model. Mothers will supposedly fight to their death to defend their children, and they will defend their own parenting with similar ferocity.
 
-![](https://acximages.ennals.org/images/2024-book-reviews/5582973db15f224e.jpg)
+![](https://acximages.ennals.org/images/2024-book-reviews/a671cce389577102.jpg)
 
 Chua’s book is one part memoir, recounting her role in the achievements of her two daughters in both academics and classical music, and one part explanation of the differences between the Western and Chinese perspectives on parenting. I do not think it would be unfair to accuse it of sometimes trying to have it both ways, arguing that the strict Chinese model of parenting builds on a different set of values such that they cannot really be compared, but that if you did do a fair comparison then the Chinese way would definitely come out on top.
 
@@ -54,18 +53,18 @@ Either way, Chua’s perspective as an outsider immersed in the American mainstr
 ### Haruki Murakami
 
 > _A lot of people wonder how Chinese parents raise such stereotypically successful kids. They wonder what these parents do to produce so many math whizzes and music prodigies, what it’s like inside the family, and whether they could do it too. Well, I can tell them, because I’ve done it. Here are some things my daughters, Sophia and Louisa, were never allowed to do:_
->
-> *   _attend a sleepover_
-> *   _have a playdate_
-> *   _be in a school play_
-> *   _complain about not being in a school play_
-> *   _watch TV or play computer games_
-> *   _choose their own extracurricular activities_
-> *   _get any grade less than an A_
-> *   _not be the #1 student in every subject except gym and drama_
-> *   _play any instrument other than the piano or violin_
-> *   _not play the piano or violin._
->
+
+*   _attend a sleepover_
+*   _have a playdate_
+*   _be in a school play_
+*   _complain about not being in a school play_
+*   _watch TV or play computer games_
+*   _choose their own extracurricular activities_
+*   _get any grade less than an A_
+*   _not be the #1 student in every subject except gym and drama_
+*   _play any instrument other than the piano or violin_
+*   _not play the piano or violin._
+
 > **Battle Hymn of the Tiger Mother (p 3-4). Kindle Edition.**
 
 I must say that the more I read gifted writers, the more I learn to fear them. Two standout examples for me are Murakami (Norwegian Wood) and Knausgård (My Struggle). In some sense, you can always trust a _bad_ writer, because to them writing feels like pulling teeth. They do not enjoy it, so they only write if they feel like they have something important to say, and their work will only ever pass through all the filters if their content has genuine merit. Great writers, on the other hand, have an unnerving tendency to write beautifully page up and page down about absolutely nothing. This is ultimately the same effect as why you should pick the least charismatic doctor — he must have been just _that_ good to get the job.
@@ -102,7 +101,7 @@ While it is relatively easy to understand the absurdly high standards that the t
 
 This would be completely wrong — along with the over-the-top expectations comes similarly unprecedented amounts of support, even if some of this support comes in the form of stressful schedules and savage scolding. This is another reason that there is no substitute for reading the book and getting a full picture, because it is our nature to fill in the missing pieces with what we are familiar with, which just does not work when you are effectively in a foreign country.
 
-![https://static.wikia.nocookie.net/disney/images/5/53/Cinderella-disneyscreencaps_com-8502.jpg/revision/latest?cb=20140325022514](https://acximages.ennals.org/images/2024-book-reviews/dc508161eade7164.jpg)
+![https://static.wikia.nocookie.net/disney/images/5/53/Cinderella-disneyscreencaps_com-8502.jpg/revision/latest?cb=20140325022514](https://acximages.ennals.org/images/2024-book-reviews/614013d73f1df8e8.jpg)
 
 > The stepmother from Disney’s Cinderella; someone you would not be flattered to by compared with.
 
@@ -140,10 +139,10 @@ It would be easy if the way to get happy and self-confident children was just to
 
 Chua ascribes the success of Chinese parenting to a virtuous circle:
 
-> 1.  Parent sets ambitious and meaningful goals, while providing the support, guidance and — uhm — _motivation_ to make them achievable
-> 2.  Child puts in the often unreasonable amounts of practice and work necessary to succeed, learning and developing new skills in the process
-> 3.  Success reinforces the child’s trust in its own abilities, the rewards that come from hard work and effectiveness of its parent’s harsh rules
-> 4.  Recognition of success gives the child feelings of satisfaction and pride, and if not eagerness at least a willingness to keep working towards new lofty goals, closing the loop back to _(1)_
+1.  Parent sets ambitious and meaningful goals, while providing the support, guidance and — uhm — _motivation_ to make them achievable
+2.  Child puts in the often unreasonable amounts of practice and work necessary to succeed, learning and developing new skills in the process
+3.  Success reinforces the child’s trust in its own abilities, the rewards that come from hard work and effectiveness of its parent’s harsh rules
+4.  Recognition of success gives the child feelings of satisfaction and pride, and if not eagerness at least a willingness to keep working towards new lofty goals, closing the loop back to _(1)_
 
 While Chua does not provide a full take-down of the pitfalls of Western parenting, I feel like it can be found implicitly in her praise of the Chinese model as well as the breadcrumbs of explicit criticism scattered around in different parts of the book. Disconnecting praise from achievement gives children a broken model of how the world works outside of the reach of a coddling mother’s unconditional love. Like a bird with broken wings, the child that does understand the importance of _step two_ above does not fare well outside of the nest.
 
@@ -208,11 +207,11 @@ There are more than enough interviews, articles and essays to be found out there
 ### Bertrand Russel
 
 > One of my greatest fears is family decline. There’s an old Chinese saying that “prosperity can never last for three generations.” I’ll bet that if someone with empirical skills conducted a longitudinal survey about intergenerational performance, they’d find a remarkably common pattern among Chinese immigrants fortunate enough to have come to the United States as graduate students or skilled workers over the last fifty years. The pattern would go something like this:
->
-> *   The immigrant generation (like my parents) is the hardest-working. Many will have started off in the United States almost penniless, but they will work nonstop (...). Everything they do and earn will go toward their children’s education and future.
-> *   The next generation (mine), the first to be born in America, will typically be high-achieving. They will usually play the piano and/or violin. They will attend an Ivy League or Top Ten university. They will tend to be professionals (...). Whether male or female, they will not be as strict with their children as their parents were with them.
-> *   The next generation (...) is the one I spend nights lying awake worrying about. Because of the hard work of their parents and grandparents, this generation will be born into the great comforts of the upper middle class.(...) Finally and most problematically, they will feel that they have individual rights guaranteed by the U.S. Constitution and therefore be much more likely to disobey their parents and ignore career advice. In short, all factors point to this generation being headed straight for decline.
->
+
+*   The immigrant generation (like my parents) is the hardest-working. Many will have started off in the United States almost penniless, but they will work nonstop (...). Everything they do and earn will go toward their children’s education and future.
+*   The next generation (mine), the first to be born in America, will typically be high-achieving. They will usually play the piano and/or violin. They will attend an Ivy League or Top Ten university. They will tend to be professionals (...). Whether male or female, they will not be as strict with their children as their parents were with them.
+*   The next generation (...) is the one I spend nights lying awake worrying about. Because of the hard work of their parents and grandparents, this generation will be born into the great comforts of the upper middle class.(...) Finally and most problematically, they will feel that they have individual rights guaranteed by the U.S. Constitution and therefore be much more likely to disobey their parents and ignore career advice. In short, all factors point to this generation being headed straight for decline.
+
 > _Well, not on my watch._ From the moment Sophia was born and I looked into her cute and knowing face, I was determined not to let it happen to her, not to raise a soft, entitled child — not to let my family fall.
 >
 > **Battle Hymn of the Tiger Mother (p 20-22). Kindle Edition.**
@@ -225,7 +224,7 @@ Russel is most famous for his ultimately futile quest to rebuild the entirety of
 
 Russel can deflect from the failure of his mathematical project by pointing to his life as a public intellectual and his Nobel Prize in Literature. Personally, I find the prize somewhat dubious, but then again, he can keep company with Bob Dylan, and at least it’s not the _Peace Prize_. The award points to _his varied and significant writings in which he champions humanitarian ideals and freedom of thought_, which I suspect means that the prize was not only because of his literary merits but also for espousing ideas that flattered the committee’s sensibilities.
 
-![](https://acximages.ennals.org/images/2024-book-reviews/d0605acd23d8c51e.png)
+![](https://acximages.ennals.org/images/2024-book-reviews/3ab6f1a6d25be016.png)
 
 > A picture with some serious _they promised us flying cars and all we got was 140 characters_-energy.
 

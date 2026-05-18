@@ -7,10 +7,9 @@ contestName: 2022 Book Reviews
 year: 2022
 publishedDate: '2026-02-06T07:24:08.703Z'
 slug: how-solar-energy-became-cheap-a-model-for-low-carbon-innovation
-wordCount: 6618
+wordCount: 6611
 readingTimeMinutes: 30
-originalUrl: >-
-  https://docs.google.com/document/d/1pRQbRbEUwSH_jm94PI_ij-88swat7vQ4iNaNp6gd39g
+originalUrl: https://docs.google.com/document/d/1pRQbRbEUwSH_jm94PI_ij-88swat7vQ4iNaNp6gd39g
 source: gdoc
 tags:
   - Technology
@@ -19,7 +18,7 @@ tags:
 
 Technology has a number of impressive stories of progress but few rival the story of solar photovoltaics (PV). From costing $300,000 for a mWh in 1957 costs have fallen on average 14% a year leading to current costs in sunny places to be as low as $17 per mWh, or in other words the world’s cheapest electricity.
 
-![](https://acximages.ennals.org/images/2022-book-reviews/7eae53065b6e6edd.png)
+![](https://acximages.ennals.org/images/2022-book-reviews/1d7173a2f9989b30.png)
 
 Solar has achieved this despite competing in maybe the most commoditized market in the world, electricity, and when it started its costs were far far above those of its competition like oil or coal.
 
@@ -39,7 +38,7 @@ If I was to summarise the main components in a, somewhat long, sentence it would
 
 The book has two main lists covering spelling out a number of factors that helped in this process. One covers the main drivers of how solar became cheap and the other covers things that could accelerate technologies like solar. We won't look at all the points on either list but I thought it would be unfair not to at least include them in full so here they are below:
 
-![](https://acximages.ennals.org/images/2022-book-reviews/e695571ffb4347f8.png)
+![](https://acximages.ennals.org/images/2022-book-reviews/e6ff721f2cff2232.png)
 
 I'm going to focus on a few of the aspects the book touches on in this summary rather than take you through the same kind of chronological story it presents. Instead, I'm going to roughly separate things out into the role of technology, the role of governments, and the role of markets.
 
@@ -191,10 +190,10 @@ Luckily Greg Nemet had the exact same thoughts as you wise and curious reader an
 
 Nemet describes four different types of technologies, with historical innovation models and a climate tech that would likely have a similar scale up path
 
-> *   High-tech, iterative, disruptive i.e solar PV and DAC
-> *   Low-tech, small, distributed i.e the green revolution and soils
-> *   Large, system integration intensive i.e chemical plants and BECCS
-> *   General purpose i.e the CPU and AI
+*   High-tech, iterative, disruptive i.e solar PV and DAC
+*   Low-tech, small, distributed i.e the green revolution and soils
+*   Large, system integration intensive i.e chemical plants and BECCS
+*   General purpose i.e the CPU and AI
 
 He notes that the story of how solar energy got cheap is most likely to be helpful for the first type of technologies. These are ones where we will likely have a very high volume of units which can consist of a relatively standardised design. Still the utility of managing to recreate this kind of story for even just these kinds of technologies is huge.
 
@@ -206,9 +205,9 @@ DAC is very very expensive at the moment, around $500-600 a tonne. While it is n
 
 However, DAC has a number of features very similar to early solar.
 
-> *   To a large extent many DAC systems can be standardised and then it is about building many of the same type of module over and over.
-> *   It looks likely that DAC will have the potential to scale down its costs as we ramp up production.  
-> *   DAC has also had a history of moving through niche markets, although these have been harder to come by than solar.
+*   To a large extent many DAC systems can be standardised and then it is about building many of the same type of module over and over.
+*   It looks likely that DAC will have the potential to scale down its costs as we ramp up production.  
+*   DAC has also had a history of moving through niche markets, although these have been harder to come by than solar.
 
 Expanding on the markets point above, DAC was first used on submarines and in space, captured CO₂ can be used in enhanced oil recovery to get higher yield out of oil wells, it can be utilised to help grow macroalgae for biofuels. Also as mentioned earlier, in some places getting CO₂ from these types of systems can be the cheapest way to procure it for things like carbonating drinks or pumping into greenhouses to help stimulate plant growth.
 

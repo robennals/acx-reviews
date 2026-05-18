@@ -9,8 +9,7 @@ publishedDate: '2025-01-01T00:00:00.000Z'
 slug: the-zone-of-interest
 wordCount: 1218
 readingTimeMinutes: 6
-originalUrl: >-
-  https://docs.google.com/document/d/17WAcFrTOExgendrk2lGTxRIR4LVC3ZGbiU5Xe3kF4mg
+originalUrl: https://docs.google.com/document/d/17WAcFrTOExgendrk2lGTxRIR4LVC3ZGbiU5Xe3kF4mg
 source: gdoc
 tags:
   - Fiction
@@ -19,7 +18,7 @@ tags:
 
 Spoilers, obviously.
 
-![](https://acximages.ennals.org/images/2025-non-book-reviews/56274241763f7980.png)
+![](https://acximages.ennals.org/images/2025-non-book-reviews/d3510c5c49c30a0d.png)
 
 The Zone of Interest opened with a cacophany of noise. Over a pitch black screen, haunting chants and droning organs blared out over the speakers. It was profoundly uncomfortable. I'd seen artsy movies open with some weird audio track before, but this felt different. First of all, it went on for a while. Much longer than I thought it would go on, at least five full minutes of nothing but that oppressive sound. Second, it filled the whole room, consumed everything. I got lost in it. It just kept going, and going, and going…
 

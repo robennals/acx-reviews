@@ -7,10 +7,9 @@ contestName: 2022 Book Reviews
 year: 2022
 publishedDate: '2026-02-06T07:24:08.689Z'
 slug: an-education-for-our-time-by-josiah-bunting-iii
-wordCount: 6818
+wordCount: 6814
 readingTimeMinutes: 31
-originalUrl: >-
-  https://docs.google.com/document/d/1pRQbRbEUwSH_jm94PI_ij-88swat7vQ4iNaNp6gd39g
+originalUrl: https://docs.google.com/document/d/1pRQbRbEUwSH_jm94PI_ij-88swat7vQ4iNaNp6gd39g
 source: gdoc
 tags:
   - Society
@@ -185,9 +184,9 @@ The rest of his education stuff is kind of banal. Some of it is geared towards s
 
 The book is full of other proposals along these lines that I don’t think it makes sense to explore at length here, but suffice it to say that Bunting also has very strong views on dining arrangements, dorm sizes, proportion of time spent with others vs alone, the professional backgrounds of professors, the makeup of admissions committees, and so on. What I hope to have conveyed by exploring the examples from _An Education_ that I did is mostly the possibilities of:
 
-> *   a college having the courage of its convictions to implement policies that could reasonably achieve otherwise unsatisfied goals,
-> *   an education in self-mastery vs just an education in mastery over the world, and
-> *   holistic approaches to education that take a strong stance on issues beyond curricula
+*   a college having the courage of its convictions to implement policies that could reasonably achieve otherwise unsatisfied goals,
+*   an education in self-mastery vs just an education in mastery over the world, and
+*   holistic approaches to education that take a strong stance on issues beyond curricula
 
 Overall, I thought this was a cool book! It felt like a breath of fresh air in a stale but important conversation.
 
@@ -213,7 +212,6 @@ As _An Education_ comes to a close, the dying billionaire, in his final moments,
 
 To describe the feeling of approaching that final gate, Bunting/our dying billionaire of course reaches for an extremely erudite reference:
 
->   
 > “There has never been a pianist like [Sviatoslav Richter]... Every pianist who has ever played… [The Great Gates at Kiev] has thundered out the scene and sound… But Richter did it so quietly, so simply, with such unforced calm and restraint, that I suddenly understood the… meaning of the scene. The traveler had come to the Gates in reverence and awe, but composed, calm, certain that he had finally prepared himself, through all the means earned and given him, to pass through” (241-2)
 
 I’m not sure Bunting, or anyone for that matter, could actually create a college that produced students that reliably found a sense of equanimity in the face of death. It’s a very tall order, and one that is basically impossible to ever verify. But, when I read that final passage, I couldn’t help but feel that such soulcraft is an immensely noble pursuit.

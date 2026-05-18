@@ -1,16 +1,16 @@
 ---
-title: "What the Buddha Taught by Walpola Rahula Thero"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2021-book-reviews"
-contestName: "2021 Book Reviews"
+title: What the Buddha Taught by Walpola Rahula Thero
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2021-book-reviews
+contestName: 2021 Book Reviews
 year: 2021
-publishedDate: "2021-01-01T00:00:00.000Z"
-slug: "what-the-buddha-taught-by-walpola-rahula-thero"
-wordCount: 2782
+publishedDate: '2021-01-01T00:00:00.000Z'
+slug: what-the-buddha-taught-by-walpola-rahula-thero
+wordCount: 2777
 readingTimeMinutes: 13
-originalUrl: "https://docs.google.com/document/d/1M1m8o1HInGYJR3cEMYZ6TQgNmeBOWo98YC6djNnFWf0"
-source: "gdoc"
+originalUrl: https://docs.google.com/document/d/1M1m8o1HInGYJR3cEMYZ6TQgNmeBOWo98YC6djNnFWf0
+source: gdoc
 tags:
   - Religion
   - Philosophy
@@ -70,11 +70,10 @@ Overall, What the Buddha Taught is an effective introduction to Buddhism, which 
 
 ## Notes
 
-> 1.  It might not be obvious how we thirst for a self. Consider how some people have an idea of their “ideal self.” One might be very far from that ideal self, so they suffer while they thirst for that idea of a self. People might also thirst to be treated a certain way and so suffer when someone treats them another way (note that this suffering is not even due to being mistreated but due to being treated differently than they expected to have been treated).
-> 2.  This seems along the lines of typical, [determinist](https://plato.stanford.edu/entries/determinism-causal/) metaphysical arguments against free will. There are many articles and at least an [entire book](https://smile.amazon.com/Buddhist-Perspectives-Free-Will-Philosophy/dp/0367874857/ref=sr_1_1?dchild=1&keywords=buddhist+perspectives+on+free+will&qid=1612692029&sr=8-1) on Buddhism and free will, so there’s probably more to be said here, but basic metaphysical views point against free will. I also think free will and arguments about it are [time vampires](https://www.urbandictionary.com/define.php?term=time%20vampire).
-> 3.  Per Siderits in Buddhism as Philosophy: An Introduction:
->
->   
+1.  It might not be obvious how we thirst for a self. Consider how some people have an idea of their “ideal self.” One might be very far from that ideal self, so they suffer while they thirst for that idea of a self. People might also thirst to be treated a certain way and so suffer when someone treats them another way (note that this suffering is not even due to being mistreated but due to being treated differently than they expected to have been treated).
+2.  This seems along the lines of typical, [determinist](https://plato.stanford.edu/entries/determinism-causal/) metaphysical arguments against free will. There are many articles and at least an [entire book](https://smile.amazon.com/Buddhist-Perspectives-Free-Will-Philosophy/dp/0367874857/ref=sr_1_1?dchild=1&keywords=buddhist+perspectives+on+free+will&qid=1612692029&sr=8-1) on Buddhism and free will, so there’s probably more to be said here, but basic metaphysical views point against free will. I also think free will and arguments about it are [time vampires](https://www.urbandictionary.com/define.php?term=time%20vampire).
+3.  Per Siderits in Buddhism as Philosophy: An Introduction:
+
 > “Punctualism is the view that since there is no [ultimately real] self, and the parts of the person are all impermanent, the true ‘I’ doesn’t last very long: perhaps a day or a week, but maybe just an instant. Since they think this is the truth about us, Punctualists hold that we should stop putting so much effort into planning for and worrying about the future. Once we do this, they think we will learn to truly appreciate the here and now for what it is. We’ll learn to live in the present, and our lives will be fuller and richer for it.”
 
 * * *

@@ -7,9 +7,9 @@ contestName: 2023 Book Reviews
 year: 2023
 publishedDate: '2026-02-06T07:06:10.465Z'
 slug: the-laws-of-trading
-wordCount: 6335
+wordCount: 6259
 readingTimeMinutes: 29
-originalUrl: 'https://www.astralcodexten.com/p/your-book-review-the-laws-of-trading'
+originalUrl: https://www.astralcodexten.com/p/your-book-review-the-laws-of-trading
 source: acx
 tags:
   - Economics
@@ -20,9 +20,9 @@ tags:
 A book about trading isn’t ever **actually** about trading[1](https://www.astralcodexten.com/p/your-book-review-the-laws-of-trading#footnote-1-123360445). It is either:
 
 *   A former trader sharing stories from their glory days, e.g. _Liar’s Poker_, the exposé that morphed into a how-to guide, or
-    
+
 *   Tales of Icarus flying too close to the sun, where readers revel in schadenfreude, e.g., _When Genius Failed_.
-    
+
 
 With _[The Laws of Trading](https://www.amazon.com/Laws-Trading-Traders-Decision-Making-Everyone/dp/1119574218/ref=sr_1_1?crid=1CFYGH6Q0TUPK&keywords=the+laws+of+trading&qid=1689973717&sprefix=the+laws+of+trading%2Caps%2C144&sr=8-1)_, Agustin Lebron has written something different: part love letter to trading, part philosophical treatise on epistemology and modeling the world around us, and part guide to applied decision-making. Lebron’s Laws are Laws of the Jungle, not Laws of Nature. He views financial markets as the most competitive Darwinian environment on Earth, where participants must adapt or die.
 
@@ -41,9 +41,9 @@ Right now, you’re making a trade. 
 You’re trading your time to read this book review. You have a cost: you could be spending time with your loved ones, exercising, working, sleeping. You might be hoping to learn something, to take away lessons that you can apply to your life, or simply to entertain yourself. Here, off the bat, are two key insights:
 
 1.  We are all making trades, all of the time.
-    
+
 2.  We need a framework for thinking about these trades.
-    
+
 
 Lebron’s first law states that we must know ourselves and our motivations for trading before we trade. We tell ourselves many stories, but someone with intellectual honesty – the person with the most alignment between their motivations and actions – will take money from the person who didn’t go through the work to understand their own motivations. 
 
@@ -120,28 +120,28 @@ If you work for a publicly traded company and are compensated in stock, sell you
 Similarly, it makes sense to hedge anything that is outside of your control. Let’s say you’ve decided the crypto bear market of 2023 is a great time to start a new crypto company. Your success depends on things within your control, such as:
 
 *   Your idea
-    
+
 *   Your hard work and ability to execute
-    
+
 *   Your network for hiring
-    
+
 *   Your ability to fundraise
-    
+
 *   Etc.
-    
+
 
 As well as some things outside of your control, such as:
 
 *   Interest rates
-    
+
 *   The current VC fundraising environment 
-    
+
 *   The performance of crypto as a sector 
-    
+
 *   The performance of tech overall
-    
+
 *   Etc.
-    
+
 
 It might make sense to **short** the overall tech sector or a basket of publicly traded crypto-related companies so that your trade of time and foregone income to start your new crypto company is associated with only the risks you can control.
 
@@ -156,13 +156,13 @@ Lebron is meticulous in the ways that he thinks about risk. He highlights that i
 I don’t think enough people consider risk and the hedges you can take in the context of a career. I’ve spent the past several years working at startups, where I’ve placed a hugely levered career bet. I’m trading my time and the opportunity cost of another job to work at my current employer. My salary, stock options, expertise, and social capital that I build from working 10 hours per day is fundamentally long (and has risks associated with):
 
 *   The tech industry
-    
+
 *   My startup’s industry
-    
+
 *   My individual startup 
-    
+
 *   Our customers’ business viability 
-    
+
 
 > _“Many trades that look different on the surface can in fact be the same trade in disguise, and trades whose edge appears to derive from one risk are actually bets on another risk.”_
 
@@ -183,11 +183,11 @@ Lebron also reminds us that the [30-Year Mortgage is an Intrinsically Toxic Prod
 Among other issues:
 
 *   _“The home is bought and sold through an opaque cartel of brokers whose interests are demonstrably not aligned with those of their customers”_
-    
+
 *   _“The ability to service the debt (the mortgage) is highly correlated with local economic conditions. This means that if you lose your job and need to sell your house, you will typically find it an exceedingly bad time to try to sell your house.”_
-    
+
 *   _“Residential real estate has historically returned significantly below equity markets over long time horizons”_ 
-    
+
 
 But I’m not so sure that these lessons are directly applicable to other areas of life. Some of the best things in life come from lashing yourself to the mast, burning the boats behind you, **willingly giving up** liquidity. The deepest monogamous relationships are built from an irrational investment in one other person, saying “In sickness and in health, until death do us part.” How many scientific problems were solved because one person had an irrational willingness to: Just. Keep. Going. 
 
@@ -258,9 +258,9 @@ Here, we’ll focus on Quadrant 4, where he highlights a few interesting phenome
 Herding. It’s likely that if you have a profitable trading strategy, either:
 
 1.  Other firms discovered a similar strategy independently and/or
-    
+
 2.  You’ve “stolen” the idea from someone else (say if you leave a firm), or vice versa
-    
+
 
 Lebron highlights Long Term Capital Management (LTCM) as an example here, which suffered a famous blowup in 1998. This hedge fund is often discussed in the context of betting on Russia just before it defaulted on its debt, but an under-discussed aspect is the market mechanics. Other firms were copying LTCM’s trades, so there was a liquidity issue and a cascade of failures when the firm’s margin positions needed to be unwound. 
 
@@ -273,11 +273,11 @@ As a case study, Lebron discusses how Bell Labs (AT&T) maintained a position of 
 First, they hired the best. There was interaction between three groups that did not interact at most organizations.
 
 1.  Scientists and engineers who conducted exploratory research.
-    
+
 2.  More applied engineers, who took the work of the first group and integrated their discoveries into existing problems at AT&T.
-    
+
 3.  A third group of engineers who put the work from the first two groups into production.
-    
+
 
 This seems to have been cargo-culted at most modern tech companies. Ping-pong tables and nap pods don’t replace a true culture of cross-pollination of ideas in a boring cafeteria. 
 

@@ -1,5 +1,5 @@
 ---
-title: 'Who We Are and How We Got Here, by David Reich'
+title: Who We Are and How We Got Here, by David Reich
 author: Unknown
 reviewAuthor: Anonymous
 contestId: 2024-book-reviews
@@ -7,10 +7,9 @@ contestName: 2024 Book Reviews
 year: 2024
 publishedDate: '2026-02-06T16:49:50.823Z'
 slug: who-we-are-and-how-we-got-here-by-david-reich
-wordCount: 7215
+wordCount: 7252
 readingTimeMinutes: 33
-originalUrl: >-
-  https://docs.google.com/document/d/1Ki5XsE0jkxZtd2XAeyTAJw1ZjLh2Cu-matUYKAhA6-s
+originalUrl: https://docs.google.com/document/d/1Ki5XsE0jkxZtd2XAeyTAJw1ZjLh2Cu-matUYKAhA6-s
 source: gdoc
 tags:
   - Biology
@@ -31,12 +30,12 @@ Repeat 30x. Like _The Iliad_, there are a lot of names. It’s a slog.
 
 But scattered throughout the tedium are bursts of amazing novelty. Over and over, my naive mental model of "how prehistory happened, basically, I guess" was revised by some tasty morsel of new information. Just from the first few chapters you learn things like:
 
-> *   The blond, blue-eyed, and light-skinned mutations actually arose in three entirely different ancient populations who lived very far apart in space and time. This makes Nazis look pretty stupid.
-> *   Neanderthals definitely interbred with the ancestors of all non-African modern humans, and their DNA makes up a fairly similar fraction of the DNA of almost all non-Africans today.
-> *   Speaking of: Neanderthals were tool-makers and created art and we have no good reason to think they were stupid brutes at all. Their brains were bigger than ours, after all!
-> *   And then there were the Denisovans: a whole other divergent lineage which also interbred with modern humans in Eastern Asia. Plus there's evidence of other even-older lineages, from which no fossils have been found, but whose existence can be deduced from DNA traces left behind by later interbreeding.
-> *   Maybe you had assumed that early humans simply migrated out of Africa in a single rush, spread widely across the land, and then just stopped moving and started drifting apart to produce the variety of modern races. I hadn't even realized I believed that, but I guess I did. Not so, according to Reich. In fact, the 50k years or so of human prehistory outside Africa involved numerous subsequent migrations and plenty of interbreeding, all occurring well before the acceleration of the inter-population contact we think of as accompanying the spread of agriculture, cities, and empires.
-> *   By the time "history" started being written down, nearly everyone on the map was already some kind of mixture of diverse much-older populations, and these archaic populations would have been as different from each other as the major "racial groups" are today.
+*   The blond, blue-eyed, and light-skinned mutations actually arose in three entirely different ancient populations who lived very far apart in space and time. This makes Nazis look pretty stupid.
+*   Neanderthals definitely interbred with the ancestors of all non-African modern humans, and their DNA makes up a fairly similar fraction of the DNA of almost all non-Africans today.
+*   Speaking of: Neanderthals were tool-makers and created art and we have no good reason to think they were stupid brutes at all. Their brains were bigger than ours, after all!
+*   And then there were the Denisovans: a whole other divergent lineage which also interbred with modern humans in Eastern Asia. Plus there's evidence of other even-older lineages, from which no fossils have been found, but whose existence can be deduced from DNA traces left behind by later interbreeding.
+*   Maybe you had assumed that early humans simply migrated out of Africa in a single rush, spread widely across the land, and then just stopped moving and started drifting apart to produce the variety of modern races. I hadn't even realized I believed that, but I guess I did. Not so, according to Reich. In fact, the 50k years or so of human prehistory outside Africa involved numerous subsequent migrations and plenty of interbreeding, all occurring well before the acceleration of the inter-population contact we think of as accompanying the spread of agriculture, cities, and empires.
+*   By the time "history" started being written down, nearly everyone on the map was already some kind of mixture of diverse much-older populations, and these archaic populations would have been as different from each other as the major "racial groups" are today.
 
 One cannot help but marvel that the bulk of these discoveries occurred over a period of only about six years—and the book was written six years ago! I was lightly interested in this field in college, I could have been involved! It's great stuff. I don't think I've ever had my assumptions proven wrong so many times by so short a book. Everything I learned in school is irrelevant now.
 
@@ -88,9 +87,9 @@ A social hierarchy begins as an unequal allocation of power, but it becomes a hi
 
 A few times in WWA&HWGH Reich addresses the various conflicts between genetic researchers and the subjects—or the descendants of long-dead subjects—under study. The basic issues are:
 
-> *   Many people for various reasons do not want the "true" story of their ancestral history told—certainly not by somebody other than themselves.
-> *   The remains of the dead are considered sacrosanct in many cultures. In all likelihood, the people whose graves are being opened would not have approved of it.
-> *   Some groups, particularly Native Americans, have been repeatedly deceived in the past about the use of their DNA for research.
+*   Many people for various reasons do not want the "true" story of their ancestral history told—certainly not by somebody other than themselves.
+*   The remains of the dead are considered sacrosanct in many cultures. In all likelihood, the people whose graves are being opened would not have approved of it.
+*   Some groups, particularly Native Americans, have been repeatedly deceived in the past about the use of their DNA for research.
 
 The first objection is quite understandable in light of all the sexual violence already hinted at in the paleogenetic record. It is no easy task to reassess "who you are", especially when it means coming into contact and reckoning with the violence of history. It could be said that the truth will set us free, but it won’t be easy, or  happen quickly. And this runs, too, into the thicket of notions of indigeneity and identity, which I'll come back to. Suffice to say: there are good reasons to not want to know where we came from.
 
@@ -164,19 +163,13 @@ I will leave you with this: a depiction of the lives of our distant ancestors, i
 
 ._..and he carves in the stone three peoples, tight-knit families each,_
 
-_offshoots of a single clan, divided long ago. It was a small thing,_
-
-_their dispute: where best to hunt, where the great Grandfather bear_
-
-_and other men, might not intrude? So divided, they set out_
-
-_to meet their separate fates in cheerful spirits, each among them sure_
-
-_they'd chosen best. Millenia go by. Now three peoples, they_
-
-_speak in separate tongues, with no inkling of their mutual relation._
-
-_One clan still thrives in a fecund river valley. Winter, when it comes, is_
+> _offshoots of a single clan, divided long ago. It was a small thing,_  
+> _their dispute: where best to hunt, where the great Grandfather bear_  
+> _and other men, might not intrude? So divided, they set out_  
+> _to meet their separate fates in cheerful spirits, each among them sure_  
+> _they'd chosen best. Millenia go by. Now three peoples, they_  
+> _speak in separate tongues, with no inkling of their mutual relation._  
+> _One clan still thrives in a fecund river valley. Winter, when it comes, is_
 
 _not so harsh. He renders in the stone a family curled up in a cave,_
 
@@ -194,90 +187,50 @@ _and trusted her to reappear in time. Spring’s fertile offspring would return,
 
 _this child too will in time become acquainted with her joys._
 
-_And he traces out a hunting-band, flung far from the shelter of the caves,_
-
-_coursing through the woodland, their quarry flagging in the summer heat,_
-
-_unfit to outrun such pursuers._
-
+> _And he traces out a hunting-band, flung far from the shelter of the caves,_  
+> _coursing through the woodland, their quarry flagging in the summer heat,_  
+> _unfit to outrun such pursuers._  
 > _But then in those deep woods_
 
 _is heard another voice—the second of the clans, whose hunters_
 
 _scout the way before a  heavy-laden convoy. The lands_ they _found_
 
-_were not so rich, and in time they came to fear the winter's pressing chill._
-
-_Each year the cold came quicker, and the great columns of ice were_
-
-_unrelenting. Many had to starve before the choice was made. In the stone_
-
-_Is etched a council of the elders passing judgment: hope is gone—_
-
-_there is no future for them here, but only death. So out they set_
-
-_to find a richer clime, recalled in myth—where the wolves were not so hungry_
-
-_in the night. They brought what they could carry, trekked for years,_  
-
-_numbers ever dwindling, with Winter at their heels. They prayed_
-
-_for their deliverance. The sky was vengeful—still aggrieved_
-
-_at some offense, they had to guess. They swore: a portion of our bounties_
-
-_will be yours, o gods, if you only let us share again in bounty!_
-
-_And he hews a scene in stone: the distant relatives alight upon each other._
-
-_They know each other not. Then a young man of the fertile valley, abound_
-
-_with the strength of a rich life, looks up. His eyes meet other eyes—_
-
-_the stare of a young woman, who despite her years has known_
-
-_more grief than he known, by far._
-
-> _The third clan, too, knew well_
-
-_how merciless the seasons oft could be. It was not their fate to flee_
-
-_the ice itself, but to be fled towards. But when the others came,_
-
-_they came like wolves. Their hearts were bitter towards all people,_
-
-_and the earth itself, which punished them for nothing. Their meeting ended in_
-
-_a brutal slaughter: the third clan's hunters cut down in their tracks,_
-
-_too trusting, unprepared to steel their hearts so quickly. The interlopers took_
-
-_their pick of what was left behind: food and garments, tools_
-
-_and woven bladders to bring water on the hunt. Women too, though many_
-
-_women’s lives were lost already. Those who did escape, their hearts_
-
-_turned bitter too—mistrusting all, in turn._
-
-> _All this he carves, and carves again_
-
-_a thousand times. So many generations—eternities—_
-
-_calamities to seed fear in the world, great waves sent forth_
-
-_to cause fear alike in others when they break. Still the sea will settle—_
-
-_and the cycle of the seasons will go on. And each time Spring arrives,_
-
-_and all the children taste her joys, their fear grows fainter._
-
-_And the long dark days of winter, with little else to do, afford_
-
-_time to retell stories, and to learn from their mistakes, to not forget_
-
-_what it took to withstand bygone seasons. All this he sets in stone,_
-
-_and buries in the earth, a fractal chronicle of life,_
-
-_all but forgotten, but no less true for having been forgotten._
+> _were not so rich, and in time they came to fear the winter's pressing chill._  
+> _Each year the cold came quicker, and the great columns of ice were_  
+> _unrelenting. Many had to starve before the choice was made. In the stone_  
+> _Is etched a council of the elders passing judgment: hope is gone—_  
+> _there is no future for them here, but only death. So out they set_  
+> _to find a richer clime, recalled in myth—where the wolves were not so hungry_  
+> _in the night. They brought what they could carry, trekked for years,_  
+> _numbers ever dwindling, with Winter at their heels. They prayed_  
+> _for their deliverance. The sky was vengeful—still aggrieved_  
+> _at some offense, they had to guess. They swore: a portion of our bounties_  
+> _will be yours, o gods, if you only let us share again in bounty!_  
+> _And he hews a scene in stone: the distant relatives alight upon each other._  
+> _They know each other not. Then a young man of the fertile valley, abound_  
+> _with the strength of a rich life, looks up. His eyes meet other eyes—_  
+> _the stare of a young woman, who despite her years has known_  
+> _more grief than he known, by far._  
+> _The third clan, too, knew well_  
+> _how merciless the seasons oft could be. It was not their fate to flee_  
+> _the ice itself, but to be fled towards. But when the others came,_  
+> _they came like wolves. Their hearts were bitter towards all people,_  
+> _and the earth itself, which punished them for nothing. Their meeting ended in_  
+> _a brutal slaughter: the third clan's hunters cut down in their tracks,_  
+> _too trusting, unprepared to steel their hearts so quickly. The interlopers took_  
+> _their pick of what was left behind: food and garments, tools_  
+> _and woven bladders to bring water on the hunt. Women too, though many_  
+> _women’s lives were lost already. Those who did escape, their hearts_  
+> _turned bitter too—mistrusting all, in turn._  
+> _All this he carves, and carves again_  
+> _a thousand times. So many generations—eternities—_  
+> _calamities to seed fear in the world, great waves sent forth_  
+> _to cause fear alike in others when they break. Still the sea will settle—_  
+> _and the cycle of the seasons will go on. And each time Spring arrives,_  
+> _and all the children taste her joys, their fear grows fainter._  
+> _And the long dark days of winter, with little else to do, afford_  
+> _time to retell stories, and to learn from their mistakes, to not forget_  
+> _what it took to withstand bygone seasons. All this he sets in stone,_  
+> _and buries in the earth, a fractal chronicle of life,_  
+> _all but forgotten, but no less true for having been forgotten._

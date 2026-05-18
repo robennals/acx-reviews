@@ -1,16 +1,16 @@
 ---
-title: "How to Talk About Books You Haven’t Read - Pierre Bayard"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2023-book-reviews"
-contestName: "2023 Book Reviews"
+title: How to Talk About Books You Haven’t Read - Pierre Bayard
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2023-book-reviews
+contestName: 2023 Book Reviews
 year: 2023
-publishedDate: "2023-01-01T00:00:00.000Z"
-slug: "how-to-talk-about-books-you-havent-read-pierre-bayard"
-wordCount: 4411
+publishedDate: '2023-01-01T00:00:00.000Z'
+slug: how-to-talk-about-books-you-havent-read-pierre-bayard
+wordCount: 4406
 readingTimeMinutes: 20
-originalUrl: "https://docs.google.com/document/d/1vci14HMZ2UEJBs6mKCZZ2vHs-jVuPSsFsiN3cAENzXU"
-source: "gdoc"
+originalUrl: https://docs.google.com/document/d/1vci14HMZ2UEJBs6mKCZZ2vHs-jVuPSsFsiN3cAENzXU
+source: gdoc
 tags:
   - Philosophy
   - Society
@@ -38,11 +38,11 @@ With that in mind, I suppose I better provide a TL;DR:
 
 ### TL;DR
 
-> *   We gain and add value by discussing thinkers and books we haven't read.
-> *   Doing so is a creative act.
-> *   An understanding of where a book sits in relation to other books and ideas can be as important as its content.
-> *   Even in the cases where we've completed a book, we don't know all the background context and we're in a constant state of forgetting.
-> *   Talking about books we haven’t read is something we do anyway. We should be less embarrassed by it.
+*   We gain and add value by discussing thinkers and books we haven't read.
+*   Doing so is a creative act.
+*   An understanding of where a book sits in relation to other books and ideas can be as important as its content.
+*   Even in the cases where we've completed a book, we don't know all the background context and we're in a constant state of forgetting.
+*   Talking about books we haven’t read is something we do anyway. We should be less embarrassed by it.
 
 I’m ambivalent on including this Blinkist styled overview that wouldn’t look out of place on a productivity guru’s twitter thread. Nabokov would advise against it. He [argued](https://www.amazon.com/Lectures-Literature-Vladimir-Nabokov/dp/0156027755) that the general summary is the exact wrong end to understand a book. Rather, we must fondle its details to gain artistic appreciation. Bayard would remind us that many details can be accessed without reading.
 
@@ -54,13 +54,13 @@ One reason we shouldn't worry ourselves with reading a particular book is that, 
 
 This paradoxical claim, which I’ll unpack shortly, explains Bayard's quirky classification system. Before he begins, he lists out abbreviations to classify books:
 
-![](https://acximages.ennals.org/images/2023-book-reviews/14ad705094275dbb.png)
+![](https://acximages.ennals.org/images/2023-book-reviews/065921a3412ac892.png)
 
 "Book I have read" is notably absent. This is the most important take home lesson about his system. We can’t draw a straight line between books we have read and books we haven’t.
 
 This doesn't stop him from rating books. His rating system includes the following:
 
-![](https://acximages.ennals.org/images/2023-book-reviews/13834180e9fe27a2.png)
+![](https://acximages.ennals.org/images/2023-book-reviews/619cf91ee0e033d9.png)
 
 This system makes explicit a process that many of us already do: We have opinions on books we haven't read. Think of your favorite ACX reviews. Or think of controversial books like Robin DeAngelo's _White Fragility_ or Charles Murray's _The Bell Curve_[[7]](#ftnt7).
 
@@ -76,7 +76,7 @@ Be warned, when analyzing the different books he doesn’t avoid spoilers. Anoth
 
 For instance, in his discussion of the ending of _The Third Man_, he unites the protagonist Rollo Martins with the girlfriend of the antagonist Harry Lime. In the original text, she walks on by.
 
-​​![](https://acximages.ennals.org/images/2023-book-reviews/8d35f3dd07bb2ab8.png)As in the book, Valli walks past Martins in the final scene of the film _The Third Man_ 
+​​![](https://acximages.ennals.org/images/2023-book-reviews/91a0d80bcf1b0aff.png)As in the book, Valli walks past Martins in the final scene of the film _The Third Man_ 
 
 Bayard defends his meddling by arguing that these changes are what should have happened based on his interpretation of the book, and are as real to him as any other detail.
 

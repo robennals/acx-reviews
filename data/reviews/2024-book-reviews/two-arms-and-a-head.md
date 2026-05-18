@@ -7,9 +7,9 @@ contestName: 2024 Book Reviews
 year: 2024
 publishedDate: '2026-05-10T03:23:21.950Z'
 slug: two-arms-and-a-head
-wordCount: 9395
+wordCount: 9074
 readingTimeMinutes: 42
-originalUrl: 'https://www.astralcodexten.com/p/your-book-review-two-arms-and-a-head'
+originalUrl: https://www.astralcodexten.com/p/your-book-review-two-arms-and-a-head
 source: acx
 tags:
   - Memoir
@@ -361,19 +361,19 @@ The page opens by explaining that MAiD is necessarily a disability issue, even i
 When terminally ill patients get polled on why they are choosing MAiD, it turns out that avoiding pain isn’t the primary motivation. [In Oregon,](https://www.oregon.gov/oha/PH/PROVIDERPARTNERRESOURCES/EVALUATIONRESEARCH/DEATHWITHDIGNITYACT/Documents/year26.pdf) where MAiD is only available for the terminally ill, every patient fills out a questionnaire when they apply for the program. Tallying up all the surveys from 1998–2023, to top reasons are:
 
 *   “Losing autonomy” (90%)
-    
+
 *   “Less able to engage in activities” (90%)
-    
+
 *   “Loss of dignity” (70%)
-    
+
 *   “Losing control of bodily functions” (44%)
-    
+
 *   “Burden on family” (47%)
-    
+
 *   “Inadequate pain control, or concern about it” (29%)
-    
+
 *   “Financial implications of treatment” (7%)
-    
+
 
 The top five all relate to the disabling symptoms that come with dying. “Less able to engage in activities” sounds remarkably similar to Clayton’s reasoning of, “the things that gave my life meaning are no longer possible, therefore it’s time to die.”
 
@@ -450,11 +450,11 @@ Let’s explore this with a thought experiment.
 You probably don't fantasize on a daily basis about what life would be like with four arms. If you really try, you could imagine a few ways that life would be easier: 
 
 *   You could chop ingredients with two hands and stir the skillet with a third. 
-    
+
 *   You could hold a 2x4 in place with two hands while holding and driving in a nail with the other two. 
-    
+
 *   You could carry a full bundle of groceries with three arms while fumbling for the keys with the fourth. 
-    
+
 
 That sure sounds convenient, doesn't it? Wouldn't that be _so freaking awesome_ now that you really think about it?
 
@@ -467,11 +467,11 @@ But suppose there existed a hypothetical alien race that _did_ have four arms. O
 Now let's say that one of these aliens gets in an accident and has to get two arms amputated. They would be devastated! They would notice all the myriad things—both big and small—that they suddenly could no longer do. Their life would be immensely harder. Things that were effortless before would now be massive hurdles:
 
 *   Vegetables must be chopped _separately_, with the existing food lying in the skillet, about to burn. 
-    
+
 *   That 2x4 must be held up with one hand/forearm awkwardly pinning the board to the wall, while trying to awkwardly hold the nail in place so the other arm can swing the hammer.
-    
+
 *   That heavy bundle of groceries must be held precariously with only one hand as the other one fumbles for the keys.
-    
+
 
 The real list wouldn't be confined to those three entries, oh no. It would go on, and on, and on.
 

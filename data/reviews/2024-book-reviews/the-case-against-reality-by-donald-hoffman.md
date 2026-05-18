@@ -7,10 +7,9 @@ contestName: 2024 Book Reviews
 year: 2024
 publishedDate: '2026-02-06T16:49:14.005Z'
 slug: the-case-against-reality-by-donald-hoffman
-wordCount: 1819
+wordCount: 1803
 readingTimeMinutes: 9
-originalUrl: >-
-  https://docs.google.com/document/d/14qa47TJ_Vyerx4XNgTCIh7PUZ_TOgNcU_eHm5So_zo0
+originalUrl: https://docs.google.com/document/d/14qa47TJ_Vyerx4XNgTCIh7PUZ_TOgNcU_eHm5So_zo0
 source: gdoc
 tags:
   - Philosophy
@@ -37,13 +36,13 @@ This wouldn’t be such a big detail if our interfaces were just low-resolution 
 
 He believes that we have come to have such an interface rather than a reality-tracking worldview because “fitness beats truth” in natural selection. I think his FBT (“fitness beats truth”) theorem is something like this:
 
-> *   Any biological mechanism of perception is costly: it requires resources to build, maintain, and operate.
-> *   More sophisticated mechanisms (those that can extract more information) are, generally speaking, more costly.
-> *   At some level of complexity/cost, some mechanism of perception can extract some certain amount of actionable information from what it perceives. There is then the question of _which_ bits of information to extract.
-> *   Such bits of information can be more or less _veridical_ (information that closely tracks what is true about what is perceived) or _practical_ (information that closely tracks whatever is relevant to the fitness of the perceiver).
-> *   These do not necessarily go together. In other words, one bit of practical information (_X_ is/is not relevant to my fitness) may not correspond to one bit of real information (_X_ is/is not quite like so). Hoffman believes that this is _typically_ the case: that practical perceptions do not represent facts about objective reality, but are jumbled up functions of facts about what is perceived, the context in which it is perceived, and the state of the perceiver. When we receive such a tangled practical perception, we are not given enough information to disentangle it and go backwards from our perception to try to recover objective reality from it.
-> *   Natural selection will favor perceptive apparatuses that extract practical, fitness-relevant information; it will not operate to preserve equivalently-costly ones that extract merely veridical information. For this reason, the latter don’t stand a chance in evolution’s contest.
-> *   Ergo, everything we perceive is natural selection’s attempt to give us handles we can manipulate to increase our fitness. We have no reason to expect that such handles represent what “is there” or what exists outside of our own interfaces. (You may say your interface has the same icon on it that mine does, and that it behaves in the same way in your interface as in mine, but this does not prove that we both have true representations of some underlying fact, but merely that we both have similarly-evolved interfaces. We both say the stop sign _is_ red, but _it_ isn’t.)
+*   Any biological mechanism of perception is costly: it requires resources to build, maintain, and operate.
+*   More sophisticated mechanisms (those that can extract more information) are, generally speaking, more costly.
+*   At some level of complexity/cost, some mechanism of perception can extract some certain amount of actionable information from what it perceives. There is then the question of _which_ bits of information to extract.
+*   Such bits of information can be more or less _veridical_ (information that closely tracks what is true about what is perceived) or _practical_ (information that closely tracks whatever is relevant to the fitness of the perceiver).
+*   These do not necessarily go together. In other words, one bit of practical information (_X_ is/is not relevant to my fitness) may not correspond to one bit of real information (_X_ is/is not quite like so). Hoffman believes that this is _typically_ the case: that practical perceptions do not represent facts about objective reality, but are jumbled up functions of facts about what is perceived, the context in which it is perceived, and the state of the perceiver. When we receive such a tangled practical perception, we are not given enough information to disentangle it and go backwards from our perception to try to recover objective reality from it.
+*   Natural selection will favor perceptive apparatuses that extract practical, fitness-relevant information; it will not operate to preserve equivalently-costly ones that extract merely veridical information. For this reason, the latter don’t stand a chance in evolution’s contest.
+*   Ergo, everything we perceive is natural selection’s attempt to give us handles we can manipulate to increase our fitness. We have no reason to expect that such handles represent what “is there” or what exists outside of our own interfaces. (You may say your interface has the same icon on it that mine does, and that it behaves in the same way in your interface as in mine, but this does not prove that we both have true representations of some underlying fact, but merely that we both have similarly-evolved interfaces. We both say the stop sign _is_ red, but _it_ isn’t.)
 
 What this adds up to is that “spacetime is a communications channel, and physical objects are messages about fitness.” And “the appearance of causal interactions between physical objects in spacetime is a fiction” in the same way that dragging file icons around on your computer desktop is. It is a mistake to believe that spacetime is in fact the reality in which we _objectively_ live.
 
@@ -59,11 +58,11 @@ Hoffman’s book, also, is not the most excellently-structured argument. It can 
 
 I am also anxious about a counterargument of this sort: Philosophy, physics, metaphysics, and so forth are meant to be tools that help us to better understand and rise to the challenge of the world we encounter. If you begin to entertain a theory of philosophy, physics, metaphysics, or what have you that seems to be taking you on a path like this one:
 
-> *   There is a spoon on the table.
-> *   But, is there really a spoon on the table?
-> *   Indeed: “Is” there “really” “a spoon” “on” “the table”?
-> *   ⋮
-> *   I am Elmer J. Fudd. I have a mansion and a yacht.
+*   There is a spoon on the table.
+*   But, is there really a spoon on the table?
+*   Indeed: “Is” there “really” “a spoon” “on” “the table”?
+*   ⋮
+*   I am Elmer J. Fudd. I have a mansion and a yacht.
 
 …then this is perhaps a good sign that you need to put that theory of philosophy, physics, metaphysics, or what have you, down carefully, and to back away from it with all haste.[4]
 
@@ -71,7 +70,7 @@ And yet, and yet… I can’t help but think that this, or something as sledgeha
 
 * * *
 
-> 1.  **^** Oh, but what is the “sign” if not also an artifact of the consciousness that perceives it… Does a sign exist if it _signifies_ nothing to nobody?
-> 2.  **^** Sure: if you are reading this on a screen, then the “stop sign” is represented by _emitted_ rather than _reflected_ light, but still...
-> 3.  **^** If I remember right, his answer to this is that the theory of evolution via natural selection is sufficiently generalizable that it can hold up under a whole wealth of conditions, of which the spacetime of our interfaces is only one. Besides, there is a great deal that we can learn about how the icons that represent our perceptual interfaces behave _in the terms of_ our interfaces, which (again in the terms of our interfaces) was shaped by natural selection in spacetime, that is also consistent with Hoffman’s theory. Or something like that.
-> 4.  **^** I recommend J.L. Austin’s _Sense and Sensibilia_ as a good corrective if you ever find yourself sliding into Fudd territory.
+1.  **^** Oh, but what is the “sign” if not also an artifact of the consciousness that perceives it… Does a sign exist if it _signifies_ nothing to nobody?
+2.  **^** Sure: if you are reading this on a screen, then the “stop sign” is represented by _emitted_ rather than _reflected_ light, but still...
+3.  **^** If I remember right, his answer to this is that the theory of evolution via natural selection is sufficiently generalizable that it can hold up under a whole wealth of conditions, of which the spacetime of our interfaces is only one. Besides, there is a great deal that we can learn about how the icons that represent our perceptual interfaces behave _in the terms of_ our interfaces, which (again in the terms of our interfaces) was shaped by natural selection in spacetime, that is also consistent with Hoffman’s theory. Or something like that.
+4.  **^** I recommend J.L. Austin’s _Sense and Sensibilia_ as a good corrective if you ever find yourself sliding into Fudd territory.

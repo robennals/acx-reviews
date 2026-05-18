@@ -7,10 +7,9 @@ contestName: 2025 Non Book Reviews
 year: 2025
 publishedDate: '2026-02-06T16:55:59.399Z'
 slug: the-soul-of-an-anti-woke-intellectual-jamie-q-roberts
-wordCount: 5515
+wordCount: 5534
 readingTimeMinutes: 25
-originalUrl: >-
-  https://docs.google.com/document/d/1jYVJFIz5-aMi0LCgsC9AN6BncJDNVGaMU37QmwZ1vzA
+originalUrl: https://docs.google.com/document/d/1jYVJFIz5-aMi0LCgsC9AN6BncJDNVGaMU37QmwZ1vzA
 source: gdoc
 tags:
   - Society
@@ -59,15 +58,11 @@ Jamie first encountered the question of men and women at six, when his father le
 
 For Jamie, a bleak(ish) view of human nature is necessary. Men are all at least a little bit cad and a little psychopath. In return, women seek out bad men, not despite their badness but because of it. Men are bad, and women enable it. They are, in the words of Coleridge, who Jamie loves to quote, “wailing for their demon lover”. Another excerpt he loves- Carly Simon, _You’re so Vain_:
 
-_You walked into the party like you were walking onto a yacht_
-
-_Your hat strategically dipped below one eye_
-
-_Your scarf it was apricot_
-
-_You had one eye in the mirror, as you watched yourself gavotte_
-
-_And all the girls dreamed that they'd be your partner_
+> _You walked into the party like you were walking onto a yacht_  
+> _Your hat strategically dipped below one eye_  
+> _Your scarf it was apricot_  
+> _You had one eye in the mirror, as you watched yourself gavotte_  
+> _And all the girls dreamed that they'd be your partner_
 
 We are told promptly that the mysterious man at the heart of the song is 1. A conceited bastard 2. Beloved by women and 3. These traits are not conjoined by accident. That, for Jamie, is the gender problem, and free love has made it worse- a bad deal for most members of both sexes, but perhaps especially women.
 
@@ -115,33 +110,20 @@ Jamie, I think, wants very much to be Christian. This is the spirit of the age- 
 
 ## Shakespearean interlude
 
-_Tir'd with all these, for restful death I cry,_
-
-_As, to behold desert a beggar born,_
-
-_And needy nothing trimm'd in jollity,_
-
-_And purest faith unhappily forsworn,_
-
-_And gilded honour shamefully misplac'd,_
-
-_And maiden virtue rudely strumpeted,_
-
-_And right perfection wrongfully disgrac'd,_
-
-_And strength by limping sway disabled,_
-
-_And art made tongue-tied by authority,_
-
-_And folly, doctor-like, controlling skill,_
-
-_And simple truth miscall'd simplicity,_
-
-_And captive good attending captain ill._
-
-_Tir'd with all these, from these would I be gone,_
-
-_Save that, to die, I leave my love alone._
+> _Tir'd with all these, for restful death I cry,_  
+> _As, to behold desert a beggar born,_  
+> _And needy nothing trimm'd in jollity,_  
+> _And purest faith unhappily forsworn,_  
+> _And gilded honour shamefully misplac'd,_  
+> _And maiden virtue rudely strumpeted,_  
+> _And right perfection wrongfully disgrac'd,_  
+> _And strength by limping sway disabled,_  
+> _And art made tongue-tied by authority,_  
+> _And folly, doctor-like, controlling skill,_  
+> _And simple truth miscall'd simplicity,_  
+> _And captive good attending captain ill._  
+> _Tir'd with all these, from these would I be gone,_  
+> _Save that, to die, I leave my love alone._
 
 Jamie loves Shakespeare and cannot talk about wokeness for more than five minutes without quoting the above sonnet. I think he would find great happiness in writing poetry or fiction, but he doesn’t anymore. He’s written a few unpublished novels- on immortality, on fantastical worlds. He tells me the strangest thing he believes is that the universe has a telos- a good, and an orientation towards the good. It may be theistic, it may be impersonal- a sort of moral law of thermodynamics. He hopes to write a science fiction book on it one day. I think he’s vague on the details in his own mind. As so often with Jamie, the shadows are sharp and defined, the sun is distant.
 

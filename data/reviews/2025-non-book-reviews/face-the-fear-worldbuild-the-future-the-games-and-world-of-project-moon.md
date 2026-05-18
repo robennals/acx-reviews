@@ -7,10 +7,9 @@ contestName: 2025 Non Book Reviews
 year: 2025
 publishedDate: '2026-02-06T16:57:23.283Z'
 slug: face-the-fear-worldbuild-the-future-the-games-and-world-of-project-moon
-wordCount: 6245
+wordCount: 6233
 readingTimeMinutes: 28
-originalUrl: >-
-  https://docs.google.com/document/d/1B3YxYxLVFjKGicaEkqvt353kt0uimn0PSUQv1PyaHuI
+originalUrl: https://docs.google.com/document/d/1B3YxYxLVFjKGicaEkqvt353kt0uimn0PSUQv1PyaHuI
 source: gdoc
 tags:
   - Fiction
@@ -32,7 +31,7 @@ I’ll return to this comparison, but the City is a fertile stage for the imagin
 
 [Lobotomy Corporation](https://store.steampowered.com/app/568220/Lobotomy_Corporation__Monster_Management_Simulation/), a monster management sim.
 
-![](https://acximages.ennals.org/images/2025-non-book-reviews/6704d4bcc819a02b.jpg)
+![](https://acximages.ennals.org/images/2025-non-book-reviews/fd079d44cd1b4fd4.jpg)
 
 [Library of Ruina](https://store.steampowered.com/app/1256670/Library_Of_Ruina/), a TCG-style card battler.
 
@@ -62,9 +61,9 @@ Project Moon games are notoriously brutal and Lobotomy Corporation definitely es
 
 Being that this is written for ACX I’d be remiss if I didn’t mention that Lobotomy Corporation and Library of Ruina, partly in the SCP tradition, have several, up-front, superficial references to Kabbalah**[4]**; your facility’s departments are unambiguously arranged in and overseen by characters named for the corresponding Sephirot (though in Lobotomy Corporation the Tree of Life is inverted), and abnormalities are given one of five threat levels named for letters of the Hebrew alphabet.
 
-![](https://acximages.ennals.org/images/2025-non-book-reviews/25090615fa2902be.jpg)
+![](https://acximages.ennals.org/images/2025-non-book-reviews/0e9e52414610366a.jpg)
 
-![](https://acximages.ennals.org/images/2025-non-book-reviews/b021743a49a4857e.png)
+![](https://acximages.ennals.org/images/2025-non-book-reviews/31d022372af7671d.png)
 
 ![](https://acximages.ennals.org/images/2025-non-book-reviews/50e482530774a230.png)
 
@@ -98,9 +97,9 @@ The visual presentation is mixed. The UI in combat oversaturates you with useful
 
 ![](https://acximages.ennals.org/images/2025-non-book-reviews/bcbca55ec019c985.jpg)
 
-![](https://acximages.ennals.org/images/2025-non-book-reviews/25049c9dad87ddc7.jpg)
+![](https://acximages.ennals.org/images/2025-non-book-reviews/ed51790e97bedab7.jpg)
 
-![](https://acximages.ennals.org/images/2025-non-book-reviews/c6f456ab69429d6e.jpg)
+![](https://acximages.ennals.org/images/2025-non-book-reviews/9af373aabc82708c.jpg)
 
 Limbus Company continues the trend of opening up the City to us more than its predecessors; where Library of Ruina was sort of constrained to a central location, Limbus Company very quickly shows us a large variety of locations all around the City. This time we also have a strong central cast of diverse characters whose backgrounds touch on many important factions and locations we’ve only had glimpses of so far. Project Moon still loves their superficial references; all of the player character “Sinners” are named after prominent literature main characters with varying subtlety**[13]**. The gacha pulls in this case are for “Identities”, which are mirror world alternate-universe versions of the main cast where the characters were involved with various different City factions, with different abilities and affinities.
 
@@ -156,7 +155,7 @@ Lastly, as always, [keep your eyes buttered till the end](https://www.youtube.co
 
 * * *
 
-**ENDNOTES**
+## ENDNOTES
 
 **[1]** Some fan theories like to speculate that it takes place at a specific location on the moon based on circumstantial evidence regarding the official map (hence also “Project Moon”) but the apparent scale _technically_ doesn’t fit. Though also, official sources say the population is _7 billion_, which is a similarly impossible level of population density—roughly 10 times that of the notoriously cramped [Kowloon Walled City](https://en.wikipedia.org/wiki/Kowloon_Walled_City).
 
@@ -188,19 +187,19 @@ They both also have several mods that _add_ content, and Library of Ruina even h
 
 **[13]** Their character arcs and personalities also tend to mirror their source inspirations in some manner. Here’s the full list for a bit of fun trivia, in numerical Sinner order (h/t [this new player FAQ by solaariel](https://steamcommunity.com/sharedfiles/filedetails/?id=3345317336)):
 
-> *   Yi Sang — the author and presumed first-person main character of the Korean novel, The Wings
-> *   Faust — of Johann Wolfgang von Goethe’s play on the classic German legendary character
-> *   Don Quixote — The Ingenious Gentleman Don Quixote of La Mancha by Miguel de Cervantes
-> *   Ryoshu — based on the subject of a Japanese short story by Akutagawa Ryunosuke called the Hell Screen
-> *   Meursault — the main character of a French novella The Stranger by Albert Camus
-> *   Hong Lu — Hong Lu’s given name seems to be a reference to the title of the relatively obscure Chinese novel Xiùxiàng Hóng Lóu Mèng (Dream of the Red Chamber) by Cao Xueqin, but his proper name, Jia Baoyu, is also shared with its main protagonist
-> *   Heathcliff — of Wuthering Heights by Emily Bronte
-> *   Ishmael — from the American classic Moby-Dick by Herman Melville
-> *   Rodion — from Fyodor Dostoevsky’s Crime and Punishment
-> *   Dante — of the Divine Comedy
-> *   Sinclair — from a bildungsroman by Herman Hesse titled Demian: The Story of a Boyhood
-> *   Outis — a reference to the pseudonym used by Odysseus when confronting the Cyclops
-> *   Gregor — from The Metamorphosis by Franz Kafka
+*   Yi Sang — the author and presumed first-person main character of the Korean novel, The Wings
+*   Faust — of Johann Wolfgang von Goethe’s play on the classic German legendary character
+*   Don Quixote — The Ingenious Gentleman Don Quixote of La Mancha by Miguel de Cervantes
+*   Ryoshu — based on the subject of a Japanese short story by Akutagawa Ryunosuke called the Hell Screen
+*   Meursault — the main character of a French novella The Stranger by Albert Camus
+*   Hong Lu — Hong Lu’s given name seems to be a reference to the title of the relatively obscure Chinese novel Xiùxiàng Hóng Lóu Mèng (Dream of the Red Chamber) by Cao Xueqin, but his proper name, Jia Baoyu, is also shared with its main protagonist
+*   Heathcliff — of Wuthering Heights by Emily Bronte
+*   Ishmael — from the American classic Moby-Dick by Herman Melville
+*   Rodion — from Fyodor Dostoevsky’s Crime and Punishment
+*   Dante — of the Divine Comedy
+*   Sinclair — from a bildungsroman by Herman Hesse titled Demian: The Story of a Boyhood
+*   Outis — a reference to the pseudonym used by Odysseus when confronting the Cyclops
+*   Gregor — from The Metamorphosis by Franz Kafka
 
 **[14]** I’m going to sort of dodge around defining gameplay because I think that gets way too into the weeds for no payoff. And also partly because come on it’s in the word there, it’s like “mouthfeel”, it’s not that you need an explanation, it’s a fuzzy concept that’s sort of intuitive once you engage with it. We’re talking about what it feels like to play a game. It’s gotta be good, pending the few exceptions where misery is an intended part of the experience.
 

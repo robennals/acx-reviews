@@ -7,10 +7,9 @@ contestName: 2025 Non Book Reviews
 year: 2025
 publishedDate: '2026-02-06T16:52:48.889Z'
 slug: arbitraging-several-dozen-online-casinos
-wordCount: 4722
+wordCount: 4719
 readingTimeMinutes: 21
-originalUrl: >-
-  https://docs.google.com/document/d/1d0vRSj1E93joWWvbUen2XGuDjN_mM94ybMIAADzM2fo
+originalUrl: https://docs.google.com/document/d/1d0vRSj1E93joWWvbUen2XGuDjN_mM94ybMIAADzM2fo
 source: gdoc
 tags:
   - Economics
@@ -82,12 +81,9 @@ Alice isn't content with her minimal income and wants more. To do this, she enga
 
 Her plan is simple. A casino offers her a deal where she can purchase 100 SC for $75. She has no special skills, but the casino offers a game where she will win, on average, 95% of what she plays [4].
 
-> i. She buys the package for $75 via credit card and receives 100 SC.
->
-> ii. She plays 100 SC and wins 95 SC.
->
-> iii. She cashes out 95 SC for $95.
->
+> i. She buys the package for $75 via credit card and receives 100 SC.  
+> ii. She plays 100 SC and wins 95 SC.  
+> iii. She cashes out 95 SC for $95.  
 > iv. She pays a $75 credit card bill.
 
 v. She now has $20 more, more than one day's worth of daily bonuses.

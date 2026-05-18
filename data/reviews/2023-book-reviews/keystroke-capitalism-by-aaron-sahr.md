@@ -1,22 +1,22 @@
 ---
-title: "Keystroke Capitalism by Aaron Sahr"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2023-book-reviews"
-contestName: "2023 Book Reviews"
+title: Keystroke Capitalism by Aaron Sahr
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2023-book-reviews
+contestName: 2023 Book Reviews
 year: 2023
-publishedDate: "2023-01-01T00:00:00.000Z"
-slug: "keystroke-capitalism-by-aaron-sahr"
-wordCount: 3543
+publishedDate: '2023-01-01T00:00:00.000Z'
+slug: keystroke-capitalism-by-aaron-sahr
+wordCount: 3544
 readingTimeMinutes: 16
-originalUrl: "https://docs.google.com/document/d/1vci14HMZ2UEJBs6mKCZZ2vHs-jVuPSsFsiN3cAENzXU"
-source: "gdoc"
+originalUrl: https://docs.google.com/document/d/1vci14HMZ2UEJBs6mKCZZ2vHs-jVuPSsFsiN3cAENzXU
+source: gdoc
 tags:
   - Economics
   - Society
 ---
 
-**The Nothing Economy**
+## The Nothing Economy
 
 “What would one of our ancestors have said upon seeing these boulevards lit as brightly as by the sun, these thousand carriages circulating noiselessly on the silent asphalt of the streets, these stores as sumptuous as palaces, from which the light spread in brilliant patches, these avenues as broad as squares, these squares as wide as plains, these glittering trains, which seemed to furrow the air with fantastic speed?
 

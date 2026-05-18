@@ -1,16 +1,16 @@
 ---
-title: "On the Origins of New Forms of Life (2008) by Eugene M. McCarthy"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2023-book-reviews"
-contestName: "2023 Book Reviews"
+title: On the Origins of New Forms of Life (2008) by Eugene M. McCarthy
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2023-book-reviews
+contestName: 2023 Book Reviews
 year: 2023
-publishedDate: "2023-01-01T00:00:00.000Z"
-slug: "on-the-origins-of-new-forms-of-life-2008-by-eugene-m-mccarthy"
-wordCount: 583
+publishedDate: '2023-01-01T00:00:00.000Z'
+slug: on-the-origins-of-new-forms-of-life-2008-by-eugene-m-mccarthy
+wordCount: 580
 readingTimeMinutes: 3
-originalUrl: "https://docs.google.com/document/d/1vci14HMZ2UEJBs6mKCZZ2vHs-jVuPSsFsiN3cAENzXU"
-source: "gdoc"
+originalUrl: https://docs.google.com/document/d/1vci14HMZ2UEJBs6mKCZZ2vHs-jVuPSsFsiN3cAENzXU
+source: gdoc
 tags:
   - Biology
   - Science
@@ -20,20 +20,20 @@ As a non-biologist, I've always been under the impression that evolution is one 
 
 The scientific consensus is that the main driver of speciation is natural selection — as populations become isolated, they are subjected to differing selective pressures and gradually mutate in dissimilar ways.
 
-![](https://acximages.ennals.org/images/2023-book-reviews/c70f64fe426e62c9.png)
+![](https://acximages.ennals.org/images/2023-book-reviews/09a281ccaa54cc6d.png)
 
 _Speciation modes by Imari Hakonen. CC-By-SA._
 
  McCarthy points out that biologists tend to [twist facts to fit that narrative](https://www.lesswrong.com/posts/34XxbRFe54FycoCDw/the-bottom-line) even when it is not the most parsimonious explanation:
 
-> *   Why do supposedly unrelated species [evolve similar body structures](https://en.wikipedia.org/wiki/Convergent_evolution)? Surely natural selection is not so deterministic that [subjecting populations to identical environments would give identical results](https://physics.stackexchange.com/questions/665111/what-s-the-intuition-behind-snowflake-symmetry), right?
-> *   Why do some forms [remain unchanged through millions of years](https://en.wikipedia.org/wiki/Living_fossil)? (A factor inhibiting mutations would add another epicycle to the theory.)
-> *   Why would the process through which nature produces new phenotypes be gradual, whereas the processes which have been used deliberately by humans for this (namely, hybridization and [the induction of polyploidy](https://en.wikipedia.org/wiki/Polyploidy#Crops)) immediately produce a specimen differing from its parent(s)?
+*   Why do supposedly unrelated species [evolve similar body structures](https://en.wikipedia.org/wiki/Convergent_evolution)? Surely natural selection is not so deterministic that [subjecting populations to identical environments would give identical results](https://physics.stackexchange.com/questions/665111/what-s-the-intuition-behind-snowflake-symmetry), right?
+*   Why do some forms [remain unchanged through millions of years](https://en.wikipedia.org/wiki/Living_fossil)? (A factor inhibiting mutations would add another epicycle to the theory.)
+*   Why would the process through which nature produces new phenotypes be gradual, whereas the processes which have been used deliberately by humans for this (namely, hybridization and [the induction of polyploidy](https://en.wikipedia.org/wiki/Polyploidy#Crops)) immediately produce a specimen differing from its parent(s)?
 
 He instead posits a [saltational](https://en.wikipedia.org/wiki/Saltation_(biology)) theory in which novel forms come from hybridization of distantly related organisms. “But wait. Aren't hybrids sterile due to mismatched chromosomes?” you may ask; indeed, the author spends much of Chapter 4 on adding epicycles of his own to justify this.
 
 ![Obraz zawierający diagram
-Opis wygenerowany automatycznie](https://acximages.ennals.org/images/2023-book-reviews/8b52021ecfc09feb.png)
+Opis wygenerowany automatycznie](https://acximages.ennals.org/images/2023-book-reviews/a34d9b2ca0ede7fa.png)
 
 _It's the same with higher animals, I promise!_
 
@@ -52,7 +52,7 @@ If we could sequence a lot of genome and institute a metric that would map genom
 Whereas McCarthy's hybrid theory predicts that any hybrid _C_ with parents _A_ and _B_ would have roughly _d_(_A_,_C_) = _d_(_C_,_B_) = ½_d_(_A_,_C_) — the inequality is violated as much as possible.
 
 ![Obraz zawierający tekst, gazeta, zrzut ekranu, dokument
-Opis wygenerowany automatycznie](https://acximages.ennals.org/images/2023-book-reviews/f4f4730585467d74.png)
+Opis wygenerowany automatycznie](https://acximages.ennals.org/images/2023-book-reviews/8b02a696c5932aee.png)
 
 _Alleged hybrids with their parents._
 

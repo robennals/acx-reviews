@@ -1,16 +1,16 @@
 ---
-title: "“The Constitution of Liberty” by Friedrich Von Hayek"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2023-book-reviews"
-contestName: "2023 Book Reviews"
+title: “The Constitution of Liberty” by Friedrich Von Hayek
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2023-book-reviews
+contestName: 2023 Book Reviews
 year: 2023
-publishedDate: "2023-01-01T00:00:00.000Z"
-slug: "the-constitution-of-liberty-by-friedrich-von-hayek"
-wordCount: 9497
+publishedDate: '2023-01-01T00:00:00.000Z'
+slug: the-constitution-of-liberty-by-friedrich-von-hayek
+wordCount: 9496
 readingTimeMinutes: 43
-originalUrl: "https://docs.google.com/document/d/1AtGIIv371v0Yu35eNsIxJr67dw4SHOiGdKrqmoKt2hg"
-source: "gdoc"
+originalUrl: https://docs.google.com/document/d/1AtGIIv371v0Yu35eNsIxJr67dw4SHOiGdKrqmoKt2hg
+source: gdoc
 tags:
   - Politics
   - Philosophy
@@ -99,8 +99,8 @@ When people defend Inequality they usually do it through meritocratic arguments.
 
 He starts by distinguishing between “Value” and “Merit”. Merit is not a matter of the objective outcome but of subjective effort. You can spend every waking moment of your life doing something that is worthless or a failure or you may discover Penicillin completely by accident.  
 
-_“The attempt to achieve a valuable result may be highly meritorious but a complete failure, and full success may be entirely the result of accident and thus without merit. If we know that a man has done his best, we will often wish to see him rewarded irrespective of the result; and if we know that a most valuable achievement is almost entirely due to luck or favorable circumstances, we will give little credit to the author.”  
-_ 
+_“The attempt to achieve a valuable result may be highly meritorious but a complete failure, and full success may be entirely the result of accident and thus without merit. If we know that a man has done his best, we will often wish to see him rewarded irrespective of the result; and if we know that a most valuable achievement is almost entirely due to luck or favorable circumstances, we will give little credit to the author.”_  
+ 
 
 Hayek says that there is way too much we don’t know so as to accurately judge how meritorious an action is, and therefore we can only look at how valuable are the results.
 

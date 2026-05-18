@@ -1,16 +1,16 @@
 ---
-title: "The Complete Rhyming Dictionary And Poet's Craft Book"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2024-book-reviews"
-contestName: "2024 Book Reviews"
+title: The Complete Rhyming Dictionary And Poet's Craft Book
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2024-book-reviews
+contestName: 2024 Book Reviews
 year: 2024
-publishedDate: "2026-05-10T03:23:43.758Z"
-slug: "the-complete-rhyming-dictionary-and-poets-craft-book"
-wordCount: 4042
+publishedDate: '2026-05-10T03:23:43.758Z'
+slug: the-complete-rhyming-dictionary-and-poets-craft-book
+wordCount: 3958
 readingTimeMinutes: 18
-originalUrl: "https://www.astralcodexten.com/p/your-book-review-the-complete-rhyming"
-source: "acx"
+originalUrl: https://www.astralcodexten.com/p/your-book-review-the-complete-rhyming
+source: acx
 tags:
   - History
   - Fiction

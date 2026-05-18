@@ -9,8 +9,7 @@ publishedDate: '2026-02-06T07:24:08.701Z'
 slug: golem-xiv-by-stanisaw-lem
 wordCount: 11761
 readingTimeMinutes: 53
-originalUrl: >-
-  https://docs.google.com/document/d/1pRQbRbEUwSH_jm94PI_ij-88swat7vQ4iNaNp6gd39g
+originalUrl: https://docs.google.com/document/d/1pRQbRbEUwSH_jm94PI_ij-88swat7vQ4iNaNp6gd39g
 source: gdoc
 tags:
   - Fiction
@@ -52,7 +51,7 @@ My first thought was "million times then ENIAC does not seem like a very high ba
 
 Then, a few weeks later I saw this on the front page of Hacker News:
 
-![](https://acximages.ennals.org/images/2022-book-reviews/4dc3b60d5e117ca7.png)
+![](https://acximages.ennals.org/images/2022-book-reviews/0af45c0f9331e224.png)
 
 I understand that the idea of optical computing dates back a long time, it was just funny to see a real example of an optical supercomputer right after setting out to review a book about fictional optical supercomputers.
 

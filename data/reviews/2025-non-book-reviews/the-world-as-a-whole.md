@@ -7,10 +7,9 @@ contestName: 2025 Non Book Reviews
 year: 2025
 publishedDate: '2026-02-06T16:55:59.405Z'
 slug: the-world-as-a-whole
-wordCount: 11163
+wordCount: 11170
 readingTimeMinutes: 50
-originalUrl: >-
-  https://docs.google.com/document/d/1jYVJFIz5-aMi0LCgsC9AN6BncJDNVGaMU37QmwZ1vzA
+originalUrl: https://docs.google.com/document/d/1jYVJFIz5-aMi0LCgsC9AN6BncJDNVGaMU37QmwZ1vzA
 source: gdoc
 tags:
   - Society
@@ -63,13 +62,13 @@ I wondered if a happy adolescence exists anywhere on Earth. In Japan, maybe? The
 
 ![](https://acximages.ennals.org/images/2025-non-book-reviews/10bb57bedde0033f.jpg)
 
-_It felt exactly like Dr. Seuss once imagined it, only with less money involved._ 
+> _It felt exactly like Dr. Seuss once imagined it, only with less money involved._ 
 
 The Hardworking Japanese are manufactured by a clever, but exceptionally simple system of hierarchical sorting and assiduous ‘free time’ filling. I can explain it in a sentence: kids are sorted into high or low ranked academic schools, or vocational schools, through which their future is known almost from the first day, and then in those schools they are sorted into ‘home room classes’ which almost never change, such that kids are stuck with the same 25-30 other kids throughout the entire day, sometimes for all 3-4 years of high school. If this sounds like it would exacerbate the strict enforcement of a social hierarchy between the kids, you’re correct.
 
 Bullying, when it happens, is more nightmarish than anything I ever witnessed in Macedonia or the US because, like in any good nightmare, there is nowhere at all for the bullied to escape. Your tormentors are with you in every period, and at lunch, and probably will be there next year, still right next to you, still with the same cruel nickname as last year. And you and your bullied friends who all retreat to the same club will also be known as such, and your club will be ostracized at school events, and will barely be clapped for at assemblies, and so on and so forth such that in Japan, more than anywhere else, the cool and attractive ride roughshod over the unattractive and uncool, because the latter cannot extricate themselves from the hierarchy that is THE HOMEROOM CLASS, and then eventually THE OFFICE ENVIRONMENT. And nowhere else is beauty so worshipped: only in Japan does it actually seem _preferable_ that the attractive cool kids were standoffish and mean. In my own high school, you might get away with that if you were hot, but the friendly and charismatic attractive people were always more popular than the quiet ones. Seems obvious, doesn't it? In fact, if you’re American, you might have assumed that was a law of human nature. Sadly, it isn’t. In Japan, the coldest and cruelest of the attractive kids were always considered the coolest, the most desirable, the most worthy of admiration. The same with the teachers; I, as a twenty-two-year-old foreign teacher, strove to be kind, relaxed, relatable, and always with involved and interactive lessons. This did not make me popular. Rather, the kids always sung the praises of teachers who screamed at them, brow-beat them, and designed lessons like the worst sort of college lectures. They took this to be a form of caring, in contrast to my friendliness which seemed clownish and lackadaisical.
 
-_Strangely, things always went well when cameras were brought in to show what a wonderful thing I was doing. (Note: this is not me nor anyone I know, nor even the age group I was working with, but a random representative image from the internet)._![](https://acximages.ennals.org/images/2025-non-book-reviews/b47ffb29905b0c13.jpg)
+> _Strangely, things always went well when cameras were brought in to show what a wonderful thing I was doing. (Note: this is not me nor anyone I know, nor even the age group I was working with, but a random representative image from the internet)._![](https://acximages.ennals.org/images/2025-non-book-reviews/b47ffb29905b0c13.jpg)
 
 And that’s only the beginning, because this machine by which obedient Japanese workers are made, all extremely aware of their place in the nested pecking orders of team, office, and nation, is only preparation for the workforce, which I need not overly explain here because at this point almost everyone has heard tales of Japanese overwork. I will share only one representative example, as I witnessed it:
 
@@ -143,7 +142,7 @@ It almost is impossible, anyway, but the use of stock roles and personality arch
 
 This pronounced art of role performance was nowhere more clear than in the large friend groups I’d observe among my students: the kids, to a much greater degree than in America, engaged in a kind of social division of labor, meaning that one kid got to be the smooth, cool one, another the wacky, fat one, an another the quiet, athletic one, and so and so forth down the list of stock student stereotypes. It’s hard to convey how comically pronounced this was, when we Americans might look back and think we also fell into these roles in high school, and even now. But In Japan, there is overwhelming pressure to be _one_ thing, or two things at most (for example, an attractive engineer, or a stern teacher) in your public life, and therefore the kids are from an early age learning to perform these limited roles and personality types.
 
-![](https://acximages.ennals.org/images/2025-non-book-reviews/98f5673914eadab5.jpg)
+![](https://acximages.ennals.org/images/2025-non-book-reviews/d9a21fada6d1fcd8.jpg)
 
 _Anime exaggerates an underlying reality, just as American high school films do–the difference is that in Japan, the reality is exaggerated to begin with._
 
@@ -161,7 +160,7 @@ Oh, what a life! Temples and ice baths and yoga and crystals and sound baths and
 
 ![](https://acximages.ennals.org/images/2025-non-book-reviews/345290f3f0901e03.jpg)
 
-_This image, like most digital nomads themselves, is so unaware of its own absurdity that it is this very unawareness, rather than the act of nomadism itself, that makes it, in many ways, repulsive. Not that the person charging for the guest house rental in the top right cares, or should care._
+> _This image, like most digital nomads themselves, is so unaware of its own absurdity that it is this very unawareness, rather than the act of nomadism itself, that makes it, in many ways, repulsive. Not that the person charging for the guest house rental in the top right cares, or should care._
 
 And then, this cycle repeats, to diminishing returns as you wonder how you’ll ever go back home now that you’ve learned to live a better life on $1500 than you could on $7000 a month in an equivalent American city. You look up from time to time, as the three month honeymoon draws to a close: everyone else just as lost as you, especially the old men, the terrible old men whom you see sitting alone at lady bars in the city, who have either been there thirty years, or just half a week (it makes no difference) and speak no Thai, and have been there too long, and whose lives were never better than in Thailand, probably, where for a few dollars an hour they enjoy female attention and are thousands of miles from the office job, the London Fog, the wife, whatever. You see those guys and get very afraid of becoming like them, and you even see the steps that lead there: you know thirty-five year old guys living off shrinking crypto wallets, who when they go back to England still feel as ugly and lost and priced-out-of-existence as when they were nineteen, and dreaming of Thailand for the first time…it gets hard to ignore those old guys, after a while.
 
@@ -183,17 +182,17 @@ Allow me to sketch a picture of a centuries-long historical disaster in as few s
 
 **-The Ottoman Empire conquered Macedonia in the 1390s and didn’t relinquish control until 1913, during which Macedonians could only acquire education, such as there was, through service to their Ottoman conquerors, under a system of feudal quasi-serfdom that lasted from before Da Vinci to after the goddamn Wright Brothers. One such highlight of the Ottoman’s enlightened rule was the Devshirme system, wherein young Macedonian boys were forcibly stolen from their parents, converted to Islam, and turned into Ottoman soldiers.**
 
-        **-In the wake of the Ottomans’ fall, Macedonia was ruled by Serbs and Bulgarians, until eventually, falling under the rule of Josip Broz Tito, (whom Churchill had deemed the most successful Nazi-fighter in the Balkans, and given funding) as part of Yugoslavia, a firmly communist but at the time anti-Stalinist country comprising Macedonia, Croatia, Bosnia-Herzegovina, Montenegro, and Serbia.**
+**-In the wake of the Ottomans’ fall, Macedonia was ruled by Serbs and Bulgarians, until eventually, falling under the rule of Josip Broz Tito, (whom Churchill had deemed the most successful Nazi-fighter in the Balkans, and given funding) as part of Yugoslavia, a firmly communist but at the time anti-Stalinist country comprising Macedonia, Croatia, Bosnia-Herzegovina, Montenegro, and Serbia.**
 
-        **-In the 1990s, Yugoslavia collapsed, resulting in 100,000+ deaths, millions of replacements, and a great deal of very scary and surreal TV footage that Americans had to watch between Nirvana music videos and episodes of The Real World.**
+**-In the 1990s, Yugoslavia collapsed, resulting in 100,000+ deaths, millions of replacements, and a great deal of very scary and surreal TV footage that Americans had to watch between Nirvana music videos and episodes of The Real World.**
 
-        **-In 2001, Albanian insurgents (about 24% of the Macedonian population are Albanian Muslims) attacked Macedonian soldiers, igniting a very small civil war wherein ‘only’ about 200 people died, and which NATO was very quick to mediate due to the ethnic cleansing that had previously taken place in Kosovo.**
+**-In 2001, Albanian insurgents (about 24% of the Macedonian population are Albanian Muslims) attacked Macedonian soldiers, igniting a very small civil war wherein ‘only’ about 200 people died, and which NATO was very quick to mediate due to the ethnic cleansing that had previously taken place in Kosovo.**
 
 I want to make a cute metaphor between Balkan politics and quantum physics, but I just can’t bring myself to do it because there is no experience in the western world that is anywhere near equivalent to the act of discussing Balkan politics with Balkan people. Those 100,000+ deaths happened so recently, and as part of a much larger conflict stretching back so long that no American can ever begin to understand why those Cyrillic YouTube comments are so angry, and the old slavic men in tracksuits so stiff and grumpy as they putter around shabby-looking, concrete-lined parks and squares. The reason is because after six hundred years of virtual slavery under the Ottomans, further atrocities under Bulgarian and Serbian rulers following WWI, and then the relative prosperity of early Yugoslavia, followed by a heartbreaking, bloody, family-dividing collapse, the Balkans are not just post-apocalyptic, but post-post-post-apocalyptic, even though the world before the apocalypse was pretty much still just grinding poverty, and total obscurity upon the world stage.
 
 ![](https://acximages.ennals.org/images/2025-non-book-reviews/a9b96151b56fbc7e.png)
 
-_Nothing could be more indispensable to a westerner’s understanding of the Balkans than the knowledge that the above photo was not taken in 1913, or 1943, but 1991—the same year that Nirvana released_ _[Nevermind.](https://www.youtube.com/watch?v=hTWKbfoikeg)_ 
+> _Nothing could be more indispensable to a westerner’s understanding of the Balkans than the knowledge that the above photo was not taken in 1913, or 1943, but 1991—the same year that Nirvana released_ _[Nevermind.](https://www.youtube.com/watch?v=hTWKbfoikeg)_ 
 
 The Ottomans disallowed Macedonians from holding most positions of power, unless they themselves joined as Ottoman collaborators. Therefore, there is still a lingering distrust of education, and institutional power in general, because for more than 500 years, that power was held by a conquering army that wanted to steal your sons and forcibly convert them to Islam. After that, you get garden variety atrocities in the wake of WWI, and then a communist takeover that wipes out what social fabric came from the cornerstone of most slavic societies: the Orthodox Church.
 
@@ -215,7 +214,7 @@ These are the glories of two-party western democracy, inflicted on a rump of a p
 
 ![](https://acximages.ennals.org/images/2025-non-book-reviews/50e804da8270f85c.jpg)
 
-_Don’t ask: for the longer you look into the abyss of Balkan politics, the less it makes sense._
+> _Don’t ask: for the longer you look into the abyss of Balkan politics, the less it makes sense._
 
 Many nights, I’d lie on the cold, mustard-yellow tile of my Yugoslavian cottage and listen to the barks of the wild dogs outside (most would be dead in a month or two, from the thirty-year-old BMWs that whipped down the narrow country roads at 60 mph), and think of all the historical accidents that had led to me being there, speaking and reading Macedonian, freezing because my electricity was out, wondering what I could possibly do in the way of actually _helping_ anyone in my village. Because the Peace Corps, ostensibly, is there to help. And I tried to help. I didn’t turn tail once the winter settled in and my hedonistic digital nomad days were a distant memory, and I had to stand in front of a class of Turkish students (holdovers from the Ottoman Empire who spoke less Macedonian than me) and try to come up with a 40 minute lesson on the spot, because we had no textbooks or effective curriculum. I’d think about that, and the workday to come, and the 500 years of virtual slavery followed by decades of war, basket-case economics, and then more war, and I’d imagine the 100-year-old woman who lived next door to me, who watched soap operas all day and never left the house, and laugh at the thought that most everyone I knew, even my best friends, still couldn’t locate Macedonia on the map, much less understand when I tried to explain a single fact about it when they asked ‘How are you, man? What’s it like over there?’, which was an arrogant thought, but a true one. I was cold, and I was lost, almost the entire time I was over there, and even more so than Japan, I could never figure the place out, albeit for completely different reasons.
 
@@ -227,9 +226,9 @@ All of them, wherever I’ve lived, have been lost. In the US, we were lost in a
 
 It’s strange that this heroic-gangster subculture has stepped forward almost everywhere: even in Asia, the gangster is beginning to be worshipped, even if the role and its imagery are only shallowly acted out by K-pop stars who have never sniffed a drug or fired a weapon outside of their two-year conscription. Half of my time as a teacher was spent trying to get kids to stop larping as gangsters, because I’d done it myself, and as soon as a larping kid gets access to the proper props, it ceases to be larping and becomes what it had long only yearned to be: a romantic war against the established order, in the name of personal pleasure and achievement. Nowhere, not even rural Japan, seems to be able to escape the pull of it, and this frightens me because the only solutions I’ve seen, not believed in, but actually_seen_ work are the bogging down of children in endless, regimented extracurricular activities, or the total buy in of a two-parent household into a set of strict cultural customs, whether they be Christian, Shinto, Mormon, or otherwise. This then leaves the rest of the young people (75% or more, I’d estimate) who are by default edgelords, unserious Christians, iPad kids, psych med-takers, or bog-standard faces in the halls to mine the social media algorithms for what is most in opposition to the listlessness and malaise they feel, because, at the end of the day, they are trapped. And the trapped want to tunnel out, any way they can, and their screens are tunnels to the rest of the world, above all else.
 
-![](https://acximages.ennals.org/images/2025-non-book-reviews/3679ab349181e025.png)
+![](https://acximages.ennals.org/images/2025-non-book-reviews/a6e1a0a20fd6d115.png)
 
-_But like most bad things in life, it comes down to people wanting to be high status in_ _precisely_ _the same way that people who are already high status, are high status._
+> _But like most bad things in life, it comes down to people wanting to be high status in_ _precisely_ _the same way that people who are already high status, are high status._
 
 This is why I feel justified in giving the world a 3/10. Not because much of the world is poor, and the poor parts are more miserable than you can imagine, and often without the saving graces of religion and comforting folkways you assume them to have. I give the world a 3/10 because I have seen the younger generations, even lived amongst them, in all these places, and I see that the lostness that is in all young people the world over has created a demand for tunnels _out_ of their dreary circumstances…but out into _what_?         
 
@@ -249,7 +248,7 @@ Your life, and the young American doomers’ unhappy lives, were all made possib
 
 I imagine the napalmed villages of Vietnam and or the killing fields of Cambodia didn’t look so  bad, when viewed from space. And until I stepped away from Turtle Island, I, and everyone I knew experienced the 3 million deaths of the Second Congo War(1998!), and the 112 million Chinese currently working 9-6 in factories, and the smell of plastic trash burned so close to Macedonian elementary schools that it makes the students dizzy, all as one at the top of Mt. Fuji might experience an approaching tsunami: as just one of many large waves, eminently manageable, and in the grand scheme of things, only another part of what makes standing on Mt. Fuji so wonderful and interesting. The pangs of guilt one occasionally feels when surveying the wreckage below are only another luxury, not much different than the crisp air, snug cabins, and distant views.  ![](https://acximages.ennals.org/images/2025-non-book-reviews/aa06e36854ee5e7d.jpg)
 
-_And from atop Mt. Kilimanjaro, the African continent looks so…peaceful._
+> _And from atop Mt. Kilimanjaro, the African continent looks so…peaceful._
 
 This grave, but rather detached outlook on the world’s many sufferings is possible to maintain even when touring a favela, or volunteering for an NGO—these scales do not fall easily from the eyes—and I have seen it maintained even in those living abroad for decades. I’ve been back living in the US for a few months now, and with every Chili’s Pick-Three Appetizer Deal, and $9 IPA, and discussion about Tariffs or Hasan Abi or Star Wars or delivery meal boxes, I can feel the scales beginning to accrete again.
 

@@ -7,10 +7,9 @@ contestName: 2022 Book Reviews
 year: 2022
 publishedDate: '2026-02-06T07:23:14.484Z'
 slug: memories-of-my-life-by-francis-galton
-wordCount: 5620
+wordCount: 5607
 readingTimeMinutes: 25
-originalUrl: >-
-  https://docs.google.com/document/d/1kQUUJhv-MpLawby2j4zXLZPDG6ligWd5xpIjH8UmWdw
+originalUrl: https://docs.google.com/document/d/1kQUUJhv-MpLawby2j4zXLZPDG6ligWd5xpIjH8UmWdw
 source: gdoc
 tags:
   - Memoir
@@ -101,15 +100,15 @@ I was having coffee with a friend at a café this morning, and our table was wob
 
 Galton does a lot more than fix wobbly tables. For instance, he realizes that we’re cutting round cakes all wrong. Everybody cuts a slice of cake like they’re making a Pac-Man:
 
-![](https://acximages.ennals.org/images/2022-book-reviews/187ff9fc643c2ae9.jpg)
+![](https://acximages.ennals.org/images/2022-book-reviews/e614b3d0dbd87fa6.jpg)
 
 But if you don’t eat all the cake right away, the insides dry out. Instead, you should cut a radial slice out of the middle like this:
 
-![](https://acximages.ennals.org/images/2022-book-reviews/a93990c6f4b1a7b0.jpg)
+![](https://acximages.ennals.org/images/2022-book-reviews/e05c8f4326fec2e3.jpg)
 
 And then push the halves together like this:
 
-![](https://acximages.ennals.org/images/2022-book-reviews/a970b35d05816623.jpg)
+![](https://acximages.ennals.org/images/2022-book-reviews/fa3c5a9ab74bcbc0.jpg)
 
 Thus protecting the moist insides. This was the state of the art until Tupperware, and in Galton’s day, it was enough to get you [published in Nature](https://www.nature.com/articles/075173c0).
 
@@ -123,13 +122,13 @@ Look, designer's eyes can be used for good or ill. It’s up to you.
 
 Galton complements designer's eyes with the _experimenter’s urge_: the itch to, quite literally, fuck around and find out. Here’s a few highlights of Galton’s many experiments, studies, and investigations:
 
-> *   Tries to learn arithmetic by smell, [succeeds](https://psycnet.apa.org/record/2006-01672-004)
-> *   Worships a puppet to see if he can convince himself it has godlike powers, succeeds
-> *   Tries to consciously control all of his automatic bodily processes, nearly suffocates
-> *   Hears animal magnetism is all the rage, learns it in secret (it’s illegal), magnetizes 80 people
-> *   Replaces the blood of a silver-grey rabbit with the blood of a lop-eared rabbit to see if it can still breed (it can)
-> *   Tells himself that everyone is spying on him to see if he can make himself insane, succeeds
-> *   Makes a walking stick with a hidden high-pitched whistle inside it, takes it to the zoo and whistles at all the animals (most don’t care, but the lions hate it)
+*   Tries to learn arithmetic by smell, [succeeds](https://psycnet.apa.org/record/2006-01672-004)
+*   Worships a puppet to see if he can convince himself it has godlike powers, succeeds
+*   Tries to consciously control all of his automatic bodily processes, nearly suffocates
+*   Hears animal magnetism is all the rage, learns it in secret (it’s illegal), magnetizes 80 people
+*   Replaces the blood of a silver-grey rabbit with the blood of a lop-eared rabbit to see if it can still breed (it can)
+*   Tells himself that everyone is spying on him to see if he can make himself insane, succeeds
+*   Makes a walking stick with a hidden high-pitched whistle inside it, takes it to the zoo and whistles at all the animals (most don’t care, but the lions hate it)
 
 Of course, it can’t all be arithmetic by smell and whistling at zoo animals. There’s been a shadow hanging over Galton’s life this whole time, and we must reckon with it. Gather ‘round kids, it’s time to talk about eugenics.
 
@@ -155,15 +154,15 @@ Galton later claims that he got the idea for eugenics as soon as he started thin
 
 This vision of a eugenic society is hardly surprising coming from a guy who is descended from, surrounded by, and obsessed with familial prominence. For example, here are some things he mentions about his wife:
 
-> *   Her father was the headmaster of a fancy school
-> *   Her brother became the head of Trinity College, Cambridge
-> *   Her nephew became the Foreign Secretary to the Indian Government
-> *   Her niece was first in her class in history at Oxford
+*   Her father was the headmaster of a fancy school
+*   Her brother became the head of Trinity College, Cambridge
+*   Her nephew became the Foreign Secretary to the Indian Government
+*   Her niece was first in her class in history at Oxford
 
 Here are some things he doesn’t mention:
 
-> *   His wife’s name
-> *   Anything else about her
+*   His wife’s name
+*   Anything else about her
 
 (In fact, Galton’s wife is a total nonentity in his memoir. He doesn’t even remark on her death in 1897, 14 years before his own. For someone so obsessed with smart people reproducing, it’s worth noting that he and his wife never have kids. Someone more Freudian than me should write a dissertation about that.)
 
@@ -199,7 +198,7 @@ If that sounds wild, consider that it’s pretty hard to find any opposition to 
 
 Or maybe even further. You might think something like forced sterilization, one of the nastiest parts of eugenics, fell out of favor after World War II. But forced sterilizations were common in the US [until the 1970s](https://ihpi.umich.edu/news/forced-sterilization-policies-us-targeted-minorities-and-those-disabilities-and-lasted-21st), and California may have been pressuring female prisoners into getting tubal ligations [as recently as 2010](https://www.npr.org/sections/thetwo-way/2013/07/09/200444613/californias-prison-sterilizations-reportedly-echoes-eugenics-era). I can’t find more recent polling data, but it seems like even 30 years ago people thought forced sterilization was fine in at least some cases:
 
-![](https://acximages.ennals.org/images/2022-book-reviews/f7e703aea2560bf5.png)
+![](https://acximages.ennals.org/images/2022-book-reviews/7f61c22fc7709e6a.png)
 
 Some of the questions around eugenics are complicated, but I’ll go out on a limb and say it’s bad for the government to sterilize people.
 

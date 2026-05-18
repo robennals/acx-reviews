@@ -7,10 +7,9 @@ contestName: 2024 Book Reviews
 year: 2024
 publishedDate: '2026-02-06T16:47:15.600Z'
 slug: discrimination-and-disparities-by-thomas-sowell
-wordCount: 10045
+wordCount: 10036
 readingTimeMinutes: 45
-originalUrl: >-
-  https://docs.google.com/document/d/1AXmWgSbh_TFsoZuApSCSEoz57yn93CM5YYhtaO_s4W4
+originalUrl: https://docs.google.com/document/d/1AXmWgSbh_TFsoZuApSCSEoz57yn93CM5YYhtaO_s4W4
 source: gdoc
 tags:
   - Economics
@@ -83,18 +82,17 @@ Sowell summarizes the lessons from disparities as follows (emphasis in the origi
 
 Discrimination is an odd word in that it has different, nearly opposite meanings. One can be discriminating in their tastes and gain a reputation for selecting the finest red wines. Conversely, one could discriminate against red wines and reject them all without giving them as much as a sniff. So we need to be clear about exactly what we’re saying when we talk about discrimination.
 
-  
 Sowell creates two categories of discrimination:
 
-> *   Discrimination 1: “an ability to discern differences in the qualities of people and things, and choosing accordingly”
-> *   Discrimination 2: “treating people negatively, based on arbitrary assumptions or aversions concerning individuals of a particular race or sex, for example”
+*   Discrimination 1: “an ability to discern differences in the qualities of people and things, and choosing accordingly”
+*   Discrimination 2: “treating people negatively, based on arbitrary assumptions or aversions concerning individuals of a particular race or sex, for example”
 
 Discrimination 1 is evidence-based, whereas Discrimination 2 stems from antipathy. Discrimination 2 is the more commonly used meaning and is the reason for anti-discrimination laws.
 
 In the ideal, Discrimination 1 would mean judging each person as an individual, regardless of what group that person is part of. But in the real world, conditions are never ideal. Thus we can see that Discrimination 1 is a broad category, and could be split to be more precise. Sowell creates the following distinction:
 
-> *   Discrimination 1-A: Basing decisions on evidence about individuals
-> *   Discrimination 1-B: Basing decisions on evidence about groups
+*   Discrimination 1-A: Basing decisions on evidence about individuals
+*   Discrimination 1-B: Basing decisions on evidence about groups
 
 Discrimination 1-A represents the ideal form, while Discrimination 1-B is less than ideal. However, both are distinct from Discrimination 2, which is rooted in “unsubstantiated notions and animosities”.
 
@@ -258,11 +256,11 @@ However, if background checks were prohibited, the employer would not be able to
 
 One example of such a policy is the "Ban the Box" (BTB) initiative, which has been adopted by many states in recent years. BTB policies prevent employers from asking about job applicants' criminal records until later in the hiring process. An article in The Atlantic titled [When Banning One Kind of Discrimination Results in Another](https://www.theatlantic.com/business/archive/2016/08/consequences-of-ban-the-box/494435/) talks about the effects of these policies. It details many studies where laws were passed to reduce the amount of information employers would have, primarily in the hopes of helping young black males. According to Sowell’s framework, which, again, is not new and is based on Becker’s work from the 1960s and 1970s, these laws would have the opposite effect. Here are the results of the studies referenced in the piece:
 
-> *   [Holzer, et al., 2006](https://www.journals.uchicago.edu/doi/abs/10.1086/501089): “We find that employers who check criminal backgrounds are more likely to hire African American workers, especially men.”
-> *   [Wozniak, 2014](https://www.nber.org/papers/w20095): “Adoption of pro-testing legislation increases black employment in the testing sector by 7-30% and relative wages by 1.4-13.0%, with the largest shifts among low skilled black men.”
-> *   [Bartik and Nelson, 2016](https://experts.illinois.edu/en/publications/credit-reports-as-r%C3%A9sum%C3%A9s-the-incidence-of-pre-employment-credit-): “We study recent bans on employers' use of credit reports to screen job applicants […] We find that the bans reduced job-finding rates for blacks by 7 to 16 log points.”
-> *   [Agan and Starr, 2018](https://academic.oup.com/qje/article-abstract/133/1/191/4060073?redirectedFrom=fulltext&login=false): “[O]ur results support the concern that BTB policies encourage racial discrimination: the black-white gap in callbacks grew dramatically at companies that removed the box after the policy went into effect. Before BTB, white applicants to employers with the box received 7% more callbacks than similar black applicants, but BTB increased this gap to 43%.”
-> *   [Doleac and Hansen, 2020](https://www.journals.uchicago.edu/doi/full/10.1086/705880): “BTB policies decrease the probability of employment by 3.4 percentage points for young, low-skilled black men.”
+*   [Holzer, et al., 2006](https://www.journals.uchicago.edu/doi/abs/10.1086/501089): “We find that employers who check criminal backgrounds are more likely to hire African American workers, especially men.”
+*   [Wozniak, 2014](https://www.nber.org/papers/w20095): “Adoption of pro-testing legislation increases black employment in the testing sector by 7-30% and relative wages by 1.4-13.0%, with the largest shifts among low skilled black men.”
+*   [Bartik and Nelson, 2016](https://experts.illinois.edu/en/publications/credit-reports-as-r%C3%A9sum%C3%A9s-the-incidence-of-pre-employment-credit-): “We study recent bans on employers' use of credit reports to screen job applicants […] We find that the bans reduced job-finding rates for blacks by 7 to 16 log points.”
+*   [Agan and Starr, 2018](https://academic.oup.com/qje/article-abstract/133/1/191/4060073?redirectedFrom=fulltext&login=false): “[O]ur results support the concern that BTB policies encourage racial discrimination: the black-white gap in callbacks grew dramatically at companies that removed the box after the policy went into effect. Before BTB, white applicants to employers with the box received 7% more callbacks than similar black applicants, but BTB increased this gap to 43%.”
+*   [Doleac and Hansen, 2020](https://www.journals.uchicago.edu/doi/full/10.1086/705880): “BTB policies decrease the probability of employment by 3.4 percentage points for young, low-skilled black men.”
 
 In an [interview](https://www.youtube.com/watch?v=fTiba4ElD0U&t=1932s) [on William](https://www.youtube.com/watch?v=fTiba4ElD0U&t=1932s) [F. Buckley’s 'Firing Line'](https://www.youtube.com/watch?v=fTiba4ElD0U&t=1932s), Sowell expresses his exasperation: “I haven't been able to find a single country in the world where the policies that are being advocated for blacks in the United States have lifted any people out of poverty. I've seen many examples around the world of people who began in poverty and ended in affluence. Not one of them has followed any pattern at all like what is being advocated for blacks in the United States.”
 

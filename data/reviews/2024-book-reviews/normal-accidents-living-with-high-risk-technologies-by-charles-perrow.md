@@ -7,10 +7,9 @@ contestName: 2024 Book Reviews
 year: 2024
 publishedDate: '2026-02-06T16:48:20.711Z'
 slug: normal-accidents-living-with-high-risk-technologies-by-charles-perrow
-wordCount: 3494
+wordCount: 3474
 readingTimeMinutes: 16
-originalUrl: >-
-  https://docs.google.com/document/d/1cp6iw5OEyDjnD_viZo-KL0Zv4jwQnMXtE4yIovfVAco
+originalUrl: https://docs.google.com/document/d/1cp6iw5OEyDjnD_viZo-KL0Zv4jwQnMXtE4yIovfVAco
 source: gdoc
 tags:
   - Technology
@@ -21,11 +20,11 @@ Many failures are easy to explain. When a door plug falls off of a 737 Max and o
 
 But sometimes it's hard to understand how a failure even happened. The _other_ 737 Max crisis – the one that caused two deadly plane crashes in 2019 – was [a long chain of minor software and communication failures](https://www.nytimes.com/2019/09/18/magazine/boeing-737-max-crashes.html):[[250]](#ftnt250) 
 
-> *   The Max’s aerodynamics were different from the original 737’s in some stall conditions. So Boeing added new software that would automatically adjust controls, making it so a pilot’s actions would have the same effect as in the 737, even if the underlying flight was different. (This was important so airlines wouldn't have to retrain pilots on the new plane, which would be expensive.)
-> *   Because the point of the system was to keep the user experience the same, and because stalls shouldn't occur anyway, Boeing didn't tell pilots about this change.
-> *   But a sensor failed and erroneously activated the stall-mitigating system, pointing the plane toward the ground. (The sensor failure seems to have been noticed a couple days earlier, but inspectors let the plane continue flying under business pressures.) Furthermore, a standard warning system to alert pilots to different readings from different sensors was never installed.
-> *   Even after a system they didn't know about took control of the plane, it could be fixed by shutting off the automatic stabilizers, the same way to solve other issues. But the (relatively inexperienced) pilots didn't do this, nor did they take other precautions like turning back early or flying higher.
-> *   An unrelated safety system kicked in to prevent the plane from heading toward the ground, but this combined with the first system to speed the plane up until the second was overpowered and couldn’t prevent a crash.
+*   The Max’s aerodynamics were different from the original 737’s in some stall conditions. So Boeing added new software that would automatically adjust controls, making it so a pilot’s actions would have the same effect as in the 737, even if the underlying flight was different. (This was important so airlines wouldn't have to retrain pilots on the new plane, which would be expensive.)
+*   Because the point of the system was to keep the user experience the same, and because stalls shouldn't occur anyway, Boeing didn't tell pilots about this change.
+*   But a sensor failed and erroneously activated the stall-mitigating system, pointing the plane toward the ground. (The sensor failure seems to have been noticed a couple days earlier, but inspectors let the plane continue flying under business pressures.) Furthermore, a standard warning system to alert pilots to different readings from different sensors was never installed.
+*   Even after a system they didn't know about took control of the plane, it could be fixed by shutting off the automatic stabilizers, the same way to solve other issues. But the (relatively inexperienced) pilots didn't do this, nor did they take other precautions like turning back early or flying higher.
+*   An unrelated safety system kicked in to prevent the plane from heading toward the ground, but this combined with the first system to speed the plane up until the second was overpowered and couldn’t prevent a crash.
 
 The accumulation of controls, sensors, and changing hardware has made modern airplanes _complex systems_: each component affects the performance of the plane in hard-to-understand ways, so a failure anywhere can have rapidly cascading effects. More and more disruptions across domains have that sort of cause today. (In punchier terms, [the world is getting weirder](https://www.eugenewei.com/blog/2015/3/30/why-the-world-is-getting-weirder).) That's for two reasons: 1) through experience, we've learned how to engineer away a lot of simple failures; planes sometimes broke in midair a half-century ago, but we're shocked when it happens today. And 2) by introducing technology that makes systems faster and more interconnected, we're making complex failures more likely.
 
@@ -43,19 +42,19 @@ Even in nuclear plants, Perrow's go-to example of a complex system, he says only
 
 Two things characterize systems in which such accidents are most likely. First, they have **nonlinear interactions**.[[251]](#ftnt251) By definition, any large system has lots of interactions, but they're usually easy to understand: assembly lines are set up so the output of one step is directly used by the next step. But sometimes – either inevitably or by poor design – interactions are not so obvious:
 
-> *   _One component serves multiple functions._ In a chemical plant, one machine may both absorb heat from a reaction and use that energy to heat up something else. If it fails, one area isn't getting enough heat _and_ another is overheating; if you focus on mitigating one of those effects during a crisis, you'll miss the other.
-> *   _Unrelated components are near each other._ In one oil tanker accident, the engine room was located next to the tank holding the oil, which sprung a leak. When that caused a fire, workers looked for all the usual causes of an engine fire and tried to fight it correspondingly; they didn't expect it could be an oil fire, so their efforts just spread the flames further.
-> *   _Information isn't measured directly._ There's no sensor for how much coolant is in a nuclear reactor (it's dangerous to put anything not strictly necessary in there), so it has to be inferred from other sources; those are more likely to be misleading, especially if something else has gone wrong.
+*   _One component serves multiple functions._ In a chemical plant, one machine may both absorb heat from a reaction and use that energy to heat up something else. If it fails, one area isn't getting enough heat _and_ another is overheating; if you focus on mitigating one of those effects during a crisis, you'll miss the other.
+*   _Unrelated components are near each other._ In one oil tanker accident, the engine room was located next to the tank holding the oil, which sprung a leak. When that caused a fire, workers looked for all the usual causes of an engine fire and tried to fight it correspondingly; they didn't expect it could be an oil fire, so their efforts just spread the flames further.
+*   _Information isn't measured directly._ There's no sensor for how much coolant is in a nuclear reactor (it's dangerous to put anything not strictly necessary in there), so it has to be inferred from other sources; those are more likely to be misleading, especially if something else has gone wrong.
 
 In all of these cases, when something goes wrong, it's hard to figure out what happened. That's especially problematic when the system also has the second characteristic: **tight coupling**, meaning that what happens in one part of the system strongly and rapidly affects others. Common archetypes of tight coupling include:
 
-> *   _There's only one way to do things._ Baking a cake is tightly coupled; it'll come out differently if you do steps out of order or make any substitutions. (In contrast, many manufactured goods contain modular components that can be made in parallel and swapped out for others with different materials or designs.)
-> *   _Everything happens all at once._ You can't stop a chemical reaction mid-stream and then finish it later; you can't stop a glassmaking project mid-stream, cool it down, and reheat it again when you're ready.
-> *   _There are no spare parts._ This might be for physical reasons (NASA can't put too many backups into a rocket because it would be too heavy to fly), or because a component is so integrated that it can't feasibly be swapped out if it's broken.
+*   _There's only one way to do things._ Baking a cake is tightly coupled; it'll come out differently if you do steps out of order or make any substitutions. (In contrast, many manufactured goods contain modular components that can be made in parallel and swapped out for others with different materials or designs.)
+*   _Everything happens all at once._ You can't stop a chemical reaction mid-stream and then finish it later; you can't stop a glassmaking project mid-stream, cool it down, and reheat it again when you're ready.
+*   _There are no spare parts._ This might be for physical reasons (NASA can't put too many backups into a rocket because it would be too heavy to fly), or because a component is so integrated that it can't feasibly be swapped out if it's broken.
 
 Perrow maps a couple dozen industries on this matrix. Dams are very tightly coupled – once a dam has a significant leak, it's almost impossible to stop, and everything downstream will quickly be ruined – but they’re highly linear; it’s clear how they’re supposed to work, and accidents are usually the result of unheeded warnings or sloppy behavior. Universities are nonlinear – good luck figuring out what effect the president's new directive will have when the deans might disagree with the president, the faculty might disagree with the dean, and the students might disagree with everybody – but they’re loosely coupled because everything takes forever.
 
-![](https://acximages.ennals.org/images/2024-book-reviews/008b6b9bd98b5db8.png)
+![](https://acximages.ennals.org/images/2024-book-reviews/01ffcdacb6b19939.png)
 
 What can you do if you’re in the top right – a nonlinear, tightly coupled system? Traditionally, to prevent accidents you add safety features: an alarm that tells you something is wrong, a button for someone to stop it, or a machine to fix things automatically. These won't prevent the initial failure, but they'll stop it from spreading to the larger system.
 
@@ -71,13 +70,13 @@ To this point, we've talked about complexity and coupling as innate properties o
 
 Recently, systems are more often trending the other way. Complexity and coupling make systems more efficient and more capable, so we're choosing to do that and live with the risk:
 
-> *   Businesses are making (and customers are choosing) more specialized products. That's great for satisfying specific needs, but it can create weird, nonlinear interactions. When COVID-19 came to the US, people weren't using the bathroom more, but they were staying home more, and [the toilet paper supply chain for commercial buildings had become entirely separate from toilet paper for homes](https://marker.medium.com/what-everyones-getting-wrong-about-the-toilet-paper-shortage-c812e1358fe0). There was a hidden connection between "going to work" and "wiping your butt", so when we stopped going to work, there (temporarily) wasn't enough to meet the new demand at home.
-> *   Manufacturing is Perrow's top example of a linear and decoupled system, but that’s changed due to "just-in-time" production processes: to reduce inventory costs, companies supply only as many parts as needed and assemble products as quickly as possible. That makes manufacturing more coupled: in early 2021, a scarcity of trailing-edge semiconductors (costing ~$2 per chip) meant automakers couldn't produce enough cars (worth four orders of magnitude more), because they didn't have much supply saved and they couldn't come up wth alternatives.
+*   Businesses are making (and customers are choosing) more specialized products. That's great for satisfying specific needs, but it can create weird, nonlinear interactions. When COVID-19 came to the US, people weren't using the bathroom more, but they were staying home more, and [the toilet paper supply chain for commercial buildings had become entirely separate from toilet paper for homes](https://marker.medium.com/what-everyones-getting-wrong-about-the-toilet-paper-shortage-c812e1358fe0). There was a hidden connection between "going to work" and "wiping your butt", so when we stopped going to work, there (temporarily) wasn't enough to meet the new demand at home.
+*   Manufacturing is Perrow's top example of a linear and decoupled system, but that’s changed due to "just-in-time" production processes: to reduce inventory costs, companies supply only as many parts as needed and assemble products as quickly as possible. That makes manufacturing more coupled: in early 2021, a scarcity of trailing-edge semiconductors (costing ~$2 per chip) meant automakers couldn't produce enough cars (worth four orders of magnitude more), because they didn't have much supply saved and they couldn't come up wth alternatives.
 
 Technology pushes the envelope further. It’s behind most of those designed increases in complexity and coupling (barcode scanning allows you to price a much wider variety of products; predictive analytics allows you to optimize supplies), and it also creates unintended risk in unplanned ways:
 
-> *   Social media has made politics weirder. Not necessarily in the "misinformation" sense, but in the sense that viral feedback loops mean that public opinion can change rapidly and confusingly. This causes "accidents" that disrupt the status quo, such as in the case of [insert your least favorite populist leader and/or social justice movement here].
-> *   Digitization is removing friction in financial markets, increasing coupling. Historically, if rising interest rates reduced the long-term value of a bank's assets, [nobody really noticed or cared](https://www.bloomberg.com/opinion/articles/2023-05-04/nobody-trusts-the-banks-now?leadSource=uverify%20wall). But when Silicon Valley Bank became insolvent in 2023, a) it quickly became common knowledge via VC WhatsApp chats, b) it was easy for companies to move money out digitally, so c) they did, and others had to follow so they wouldn't be the last ones left, taking down SVB.
+*   Social media has made politics weirder. Not necessarily in the "misinformation" sense, but in the sense that viral feedback loops mean that public opinion can change rapidly and confusingly. This causes "accidents" that disrupt the status quo, such as in the case of [insert your least favorite populist leader and/or social justice movement here].
+*   Digitization is removing friction in financial markets, increasing coupling. Historically, if rising interest rates reduced the long-term value of a bank's assets, [nobody really noticed or cared](https://www.bloomberg.com/opinion/articles/2023-05-04/nobody-trusts-the-banks-now?leadSource=uverify%20wall). But when Silicon Valley Bank became insolvent in 2023, a) it quickly became common knowledge via VC WhatsApp chats, b) it was easy for companies to move money out digitally, so c) they did, and others had to follow so they wouldn't be the last ones left, taking down SVB.
 
 Technology can also make systems safer; better sensors can make a system appear more linear, and better automated failsafes can reduce coupling. However, in a type of Peltzman effect, system designers often just use that as an excuse to increase efficiency (and therefore risk) on another dimension. After the skyway system reduced coupling of air traffic control systems, airlines responded by running faster planes with less separation between them, increasing the risk of accidents on the margin again. (In this case the system was still net safer overall, but that doesn't have to happen.)[[252]](#ftnt252)
 
@@ -85,8 +84,8 @@ That's a natural tendency, because you see the benefit of more efficient systems
 
 If you believe in Perrow’s framework, that's concerning, because complexity and coupling are about to explode in the AI age:
 
-> *   AI systems are _very_ nonlinear – we don't really understand how advanced models work, so we can't predict what will happen if we use them in a new situation. (In other words, the alignment problem.)
-> *   AI systems are _very_ coupled – the more we allow such systems to act and learn without a human in the loop, the more rapidly any issue can snowball into something bigger. (In other words, the agency problem.)
+*   AI systems are _very_ nonlinear – we don't really understand how advanced models work, so we can't predict what will happen if we use them in a new situation. (In other words, the alignment problem.)
+*   AI systems are _very_ coupled – the more we allow such systems to act and learn without a human in the loop, the more rapidly any issue can snowball into something bigger. (In other words, the agency problem.)
 
 _Should_ we believe in the framework?
 
@@ -98,9 +97,9 @@ The consensus viewpoint of the intelligentsia today is that nuclear power is as 
 
 I can think of three ways to reconcile these positions, with very different implications:
 
-> 1.  Perrow's framework and analysis are still correct: nuclear power is really risky; it only seems safe because we've gotten lucky so far.
-> 2.  Nuclear power used to be really risky, but now it's not, because we've made it more linear and less coupled. This would make Perrow's _analysis_ of nuclear power’s prospects wrong, but it would validate his 2-by-2 framework, if not even make him a hero for telling us exactly how to fix things.
-> 3.  Nuclear power was never that risky, or it's become less risky for reasons unrelated to complexity and coupling. This is a serious blow to Perrow's framework – if not its accuracy (maybe nonlinearity and coupling don't drive system accidents), then its value (maybe he's right about system accidents, but those are a rounding error in overall risk compared to other accidents, so they're not worth writing about).
+1.  Perrow's framework and analysis are still correct: nuclear power is really risky; it only seems safe because we've gotten lucky so far.
+2.  Nuclear power used to be really risky, but now it's not, because we've made it more linear and less coupled. This would make Perrow's _analysis_ of nuclear power’s prospects wrong, but it would validate his 2-by-2 framework, if not even make him a hero for telling us exactly how to fix things.
+3.  Nuclear power was never that risky, or it's become less risky for reasons unrelated to complexity and coupling. This is a serious blow to Perrow's framework – if not its accuracy (maybe nonlinearity and coupling don't drive system accidents), then its value (maybe he's right about system accidents, but those are a rounding error in overall risk compared to other accidents, so they're not worth writing about).
 
 Have we just been lucky so far (#1)? The argument is simple: since _Normal Accidents_ was published in 1984, [cumulative reactor-hours worldwide have only increased by a factor of four](https://world-nuclear.org/information-library/safety-and-security/safety-of-plants/safety-of-nuclear-power-reactors), because we've stopped allowing most new nuclear plants. And in that time, we've had two nuclear accidents that were an order of magnitude worse than anything before them (Chernobyl and Fukushima). Project the long-tailed distribution out further, and it's only a matter of time before we have even worse accidents; they haven't happened already precisely because we realized nuclear energy was hopelessly unsafe.
 

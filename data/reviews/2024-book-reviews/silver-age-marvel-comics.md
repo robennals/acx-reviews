@@ -1,16 +1,16 @@
 ---
-title: "Silver Age Marvel Comics"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2024-book-reviews"
-contestName: "2024 Book Reviews"
+title: Silver Age Marvel Comics
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2024-book-reviews
+contestName: 2024 Book Reviews
 year: 2024
-publishedDate: "2026-05-10T03:23:41.626Z"
-slug: "silver-age-marvel-comics"
-wordCount: 11497
+publishedDate: '2026-05-10T03:23:41.626Z'
+slug: silver-age-marvel-comics
+wordCount: 11398
 readingTimeMinutes: 52
-originalUrl: "https://www.astralcodexten.com/p/your-book-review-silver-age-marvel"
-source: "acx"
+originalUrl: https://www.astralcodexten.com/p/your-book-review-silver-age-marvel
+source: acx
 tags:
   - History
   - Society
@@ -26,24 +26,24 @@ That is the first question I aim to answer in this review. If I am successful, m
 **The questions:**
 
 1.  Why write a review about Silver Age Marvel Comics? Why is it worth your time to read it?
-    
+
 2.  How did the Silver Age Marvel Superhero Comics happen - the origin of the origins?
-    
+
 3.  How do early Marvel Comics compare to the best comics of today? And if they are worse (and they are), why? What does that say about art, creativity and innovation more generally?
-    
+
 4.  Why did Marvel Comics succeed in passing the test of time? What did they do differently? What were their innovations?
-    
+
 5.  Can we overlook the era in which these comics were written?
-    
+
 
 ## I. Why Review Silver Age Marvel Comics?
 
 1.  **Why superhero comic books?**
-    
+
 2.  **Given superhero comic books, why Marvel Comics?**
-    
+
 3.  **Given Marvel Comics, why Silver Age (1961-1965)?**
-    
+
 
 ### I.a. Why Superhero Comic Books?
 
@@ -126,15 +126,15 @@ It is not clear if even Lee at the time thought the Hulk would be a superhero. I
 The other two superheroes the Marvel introduces in this period have even more subtle introductions. At the time Marvel had a number of generic-sounding titles and told science fiction and fantasy stand-alone stories:
 
 *   Tales to Astonish
-    
+
 *   Journey Into Mystery
-    
+
 *   Strange Tales
-    
+
 *   Tales of Suspense
-    
+
 *   Amazing Fantasy
-    
+
 
 In _**Tales to Astonish** #27_ (December 1961), Stan Lee told the story of a scientist who invented a shrinking ray, accidentally shrunk himself, and had to escape from his own backyard (It’s _Honey I Shrunk the Kids_ without the kids). He brought the character back in _Tales to Astonish #35_ (June 1962), now calling himself “**Ant-Man**” and adding a costume and helmet which allowed him to control ants. In his second appearance he is more superhero-like (he has a costume!) but he is still really just a scientist who “has no choice” but to use his new abilities to stop scheming communists. He doesn’t start fighting crime as anything like a superhero until issue #36 (September 1962).
 
@@ -201,11 +201,11 @@ Well, apart from _Amazing Spider-man_, which holds up surprisingly well, I would
 I will argue the following:
 
 1.  The stories _were_ “good for their time”. VERY good for their time. They were much much better than the comic book stories that preceded them, and much better than other contemporary comic book adventures (like those being published by DC)
-    
+
 2.  The quality of comic book storytelling and art HAS gotten better, and not just by a small amount. I further argue that storytelling itself has advanced dramatically since the early 1960s – it is not just comic books that are better today, it is storytelling generally, and comic books are but one of the more flagrant examples.
-    
+
 3.  None of #2 takes away from the fact that Stan Lee, Jack Kirby and Steve Ditko were brilliant storytellers that created innovations in the medium that had never been seen before
-    
+
 
 I am going to start with my second point: How is it possible to say that storytelling is getting better?
 
@@ -220,11 +220,11 @@ One explanation is that Shakespeare may not have been the _best_ writer, but he 
 [Richard Hanania](https://www.richardhanania.com/p/shakespeare-is-fake) quotes [Anne Gat](https://twitter.com/TheAnnaGat/status/1711392727143739468) in pointing out there are three ways to understand greatness:
 
 1.  **Intrinsic:** He produced the best plays and sonnets by some objective standard. This can be in an elitist sense focusing on the impact his work has on the most refined among us, or a more “democratic” one where the same can be said for all humans.
-    
+
 2.  **Relative:** Shakespeare was great compared to those who came before him, or others of his time.
-    
+
 3.  **Generative:** Shakespeare was the inspiration for a great deal of later work.
-    
+
 
 I would add a fourth:
 
@@ -273,86 +273,86 @@ When writing the first draft of this essay I came up with a dozen innovations th
 Let’s review the characters that Stan Lee had a part in creating between November 1961 and December 1965:
 
 *   The Fantastic Four (Reed Richards, Invisible Girl, Human Torch, Thing – and Franklin Storm (1964))
-    
+
 *   The Hulk
-    
+
 *   Thor
-    
+
 *   Ant Man
-    
+
 *   The Wasp
-    
+
 *   Spider-man
-    
+
 *   X-men (Professor X, Cyclops, Marvel Girl, Beast, Iceman, Angel)
-    
+
 *   Scarlet Witch
-    
+
 *   Quicksilver
-    
+
 *   Hawkeye
-    
+
 *   Black Widow (as a villain)
-    
+
 *   Dr Strange
-    
+
 *   Daredevil
-    
+
 *   Nick Fury
-    
+
 *   Wonder Man
-    
+
 *   Ka-Zar
-    
+
 *   Medusa (as a villain)
-    
+
 *   Hercules
-    
+
 *   Power Man
-    
+
 *   Black Bolt
-    
+
 
 (As well as reintroducing and re-imagining Captain America. Black Panther, Silver Surfer, Sharon and Peggy Carter, and Goliath came in 1966)
 
 Some of the villains he co-created:
 
 *   Dr Doom
-    
+
 *   Magneto
-    
+
 *   Loki
-    
+
 *   Green Goblin
-    
+
 *   Vulture
-    
+
 *   General Ross
-    
+
 *   Kraven the Hunter
-    
+
 *   Scorpion
-    
+
 *   Dr Octopus
-    
+
 *   Kang the Conqueror
-    
+
 *   The Skrulls
-    
+
 *   Sandman
-    
+
 *   Mysterio
-    
+
 *   Baron Zemo
-    
+
 *   Purple Man
-    
+
 *   Dormammu
-    
+
 *   Attuma
-    
+
 *   The Juggernaut
-    
+
 
 (Galactus and High Evolutionary came in 1966)
 
@@ -381,11 +381,11 @@ When Lee and Kirby were creating the Fantastic Four the two worked in collaborat
 The basic method worked like this:
 
 *   Lee would create an outline of the story. The major plot points.The characters. Who did what when. What was the conflict and how it was resolved. He would give that outline to the artist
-    
+
 *   The artist (at first just Kirby, but later others) would take the script and, in addition to drawing the art, would design each individual panel. The artist would (generally) decide when to put a splash page, how things would flow from page to page, or whether there should be a close up or a wide angle shot of the action. The art would be sent back to Lee
-    
+
 *   With the art in hand, Lee would write the detailed script – he would write the word bubbles, thought bubbles and the captions (and whether there were captions)
-    
+
 
 An inker and letterist would finish the job.
 

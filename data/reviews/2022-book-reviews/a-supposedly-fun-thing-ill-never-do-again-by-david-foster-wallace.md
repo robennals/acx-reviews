@@ -9,8 +9,7 @@ publishedDate: '2026-02-06T07:24:08.688Z'
 slug: a-supposedly-fun-thing-ill-never-do-again-by-david-foster-wallace
 wordCount: 4683
 readingTimeMinutes: 21
-originalUrl: >-
-  https://docs.google.com/document/d/1pRQbRbEUwSH_jm94PI_ij-88swat7vQ4iNaNp6gd39g
+originalUrl: https://docs.google.com/document/d/1pRQbRbEUwSH_jm94PI_ij-88swat7vQ4iNaNp6gd39g
 source: gdoc
 tags:
   - Fiction
@@ -81,7 +80,7 @@ _…the promise to sate the part of me that always and only WANTS—is the centr
 
 Yet DFW admits elsewhere that all the other cruisers are enjoying themselves, and have managed to turn off the parts of their mind that prevent even a momentary sensation of satiation. He likewise admits he has no idea how they do it, and fails to receive any real answer as to how he might achieve it himself. But of course, there is a grand metaphor at the end of the essay, an image that contains the whole—DFW is sitting in the crowd before a famous British hypnotist, the week’s final and climactic piece of literally mind-numbing entertainment—and he is resisting hypnosis with all his might. He cites a particular susceptibility to hypnosis as the reason, and so white knuckles his way through by a self-willed detachment that is itself a form of hypnosis:
 
->         _…I find myself, in my comfortable navy-blue seat, going farther and farther away inside my head…pulling mentally back, seeing the hypnotist and subjects and audience and Celebrity Show Lounge and deck and then the whole motorized vessel itself with the eyes of someone not aboard, visualizing the M.V.._ Nadir _at night, right at this moment, steaming north at 21.4 knots…hearing muffled laughter and music and [the club’s] muffled throb and the hiss of receding wake and seeing, from the perspective of this nighttime sea, the good old_ Nadir _complexly aglow, angelically white, lit up from within, festive, imperial, palatial…yes, this: like a palace: it would look like a kind of floating palace, majestic and terrible, to any poor soul out here on the ocean at night, alone in a dinghy, or not even in a dinghy but simply and terribly floating, a man overboard, treading water, out of sight of all land._
+> _…I find myself, in my comfortable navy-blue seat, going farther and farther away inside my head…pulling mentally back, seeing the hypnotist and subjects and audience and Celebrity Show Lounge and deck and then the whole motorized vessel itself with the eyes of someone not aboard, visualizing the M.V.._ Nadir _at night, right at this moment, steaming north at 21.4 knots…hearing muffled laughter and music and [the club’s] muffled throb and the hiss of receding wake and seeing, from the perspective of this nighttime sea, the good old_ Nadir _complexly aglow, angelically white, lit up from within, festive, imperial, palatial…yes, this: like a palace: it would look like a kind of floating palace, majestic and terrible, to any poor soul out here on the ocean at night, alone in a dinghy, or not even in a dinghy but simply and terribly floating, a man overboard, treading water, out of sight of all land._
 
 But crucially, the essay doesn’t end here, with the almost Lovecraftian image of mammoth, bone-white pleasure palace upon the high seas, throbbing with the power of what tools it uses to keep it’s prisoners enraptured. He continues right past this image, and gives us a strangely happy ending:
 

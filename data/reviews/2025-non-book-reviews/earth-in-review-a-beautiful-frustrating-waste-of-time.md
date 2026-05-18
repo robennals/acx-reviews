@@ -9,8 +9,7 @@ publishedDate: '2026-02-06T16:52:48.892Z'
 slug: earth-in-review-a-beautiful-frustrating-waste-of-time
 wordCount: 1662
 readingTimeMinutes: 8
-originalUrl: >-
-  https://docs.google.com/document/d/1d0vRSj1E93joWWvbUen2XGuDjN_mM94ybMIAADzM2fo
+originalUrl: https://docs.google.com/document/d/1d0vRSj1E93joWWvbUen2XGuDjN_mM94ybMIAADzM2fo
 source: gdoc
 tags:
   - Fiction
@@ -83,7 +82,7 @@ She bares her bloody teeth against the darkness, in defiance and threat.
 
 _I will keep you safe_, she declares to the child in her arms. _No matter what_.
 
-        **And she holds me tight.**
+**And she holds me tight.**
 
 #
 

@@ -1,55 +1,40 @@
 ---
-title: "Melmoth the Wanderer"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2023-book-reviews"
-contestName: "2023 Book Reviews"
+title: Melmoth the Wanderer
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2023-book-reviews
+contestName: 2023 Book Reviews
 year: 2023
-publishedDate: "2023-01-01T00:00:00.000Z"
-slug: "melmoth-the-wanderer"
-wordCount: 5778
+publishedDate: '2023-01-01T00:00:00.000Z'
+slug: melmoth-the-wanderer
+wordCount: 5779
 readingTimeMinutes: 26
-originalUrl: "https://docs.google.com/document/d/1vci14HMZ2UEJBs6mKCZZ2vHs-jVuPSsFsiN3cAENzXU"
-source: "gdoc"
+originalUrl: https://docs.google.com/document/d/1vci14HMZ2UEJBs6mKCZZ2vHs-jVuPSsFsiN3cAENzXU
+source: gdoc
 tags:
   - Fiction
   - Philosophy
   - Religion
 ---
 
-_Enter my chamber you never will leave_
+> _Enter my chamber you never will leave_  
+> _Festering bodies will cover the streets_  
+> _Satanic prophecies, Christian hypocrisy_  
+> _Bury me deep in the filth and disease_  
+> _Open my mind and then hammer it closed_  
+> _Into the darkness I'm strangled and choked_  
+> _Tracing the patterns and numbers in smoke_  
+> _Blood on my dagger from enemies throats_  
+> _Crucify ghosts in a frozen abyss_  
+> _Ocean of planets in total eclipse_  
+> _Nowhere I wander wherever I drift_  
+> _Using a razor to open my wrists_  
+> _My body is vacant, my soul is enslaved_  
+> _To a hatred as ancient as day and night_  
+> _Ladder of Jacob, the devil awakened_  
+> _In hell I created, I pray tonight_
 
-_Festering bodies will cover the streets_
-
-_Satanic prophecies, Christian hypocrisy_
-
-_Bury me deep in the filth and disease_
-
-_Open my mind and then hammer it closed_
-
-_Into the darkness I'm strangled and choked_
-
-_Tracing the patterns and numbers in smoke_
-
-_Blood on my dagger from enemies throats_
-
-_Crucify ghosts in a frozen abyss_
-
-_Ocean of planets in total eclipse_
-
-_Nowhere I wander wherever I drift_
-
-_Using a razor to open my wrists_
-
-_My body is vacant, my soul is enslaved_
-
-_To a hatred as ancient as day and night_
-
-_Ladder of Jacob, the devil awakened_
-
-_In hell I created, I pray tonight_
-
-**Lil Ugly Mane**
+## Lil Ugly Mane
 
 It wasn't a month into Winter when I heard such a call. Winter, here, inspires all sorts of imaginations. Ghost white poplars bear a phantom-like visage; trees creak above and, with a wind, howl like the legions of half-frozen soldiers at the sight of a fire, miles away. The wind used to whistle, and nearly sing, through abandoned, towering laboratories. The sky has not yet reached towards tropical sunrises of early Spring, -- but months ago it had vacated blistering Fall sunsets. In the drives of something wavering between inanition and despondence I uncovered the unhappy chronicle of a man named _Eugene Onegin_, translated by a Cornell English Professor.
 
@@ -59,32 +44,19 @@ He's struck by the simplicity of the folk herein: they go about their day and ha
 
 Lensky and Onegin are the rumbus of the town. The most eligible women, -- so beautifully simple, -- Tat'yana and Olga, -- are captivated. Lensky swoops on Olga, and Eugene is swept on by the sweet Tat'yana: She's lost herself in the English Romances: Byron, centrally. A captive in such a world, she transfigured her beloved Onegin to the dark, brooding, misanthropic heartthrob that she had always believed him to be:
 
-> _But nowadays all minds are in a mist,_
->
-> _a moral brings upon us somnolence,_
->
-> _vice is attractive in a novel, too,_
->
->  _and there, at least, it triumphs._
->
-> _The fables of the British Muse_
->
-> _disturb the young girl's sleep,_
->
-> _and now her idol has become_
->
->  _either the pensive Vampyre,_
->
-> _or Melmoth, gloomy vagabond,_
->
->  _or the Wandering Jew, or the Corsair,_
->
-> _or the mysterious Sbogar._
->
-> _Lord Byron, by an opportune caprice,_
->
-> _in woebegone romanticism_
->
+> _But nowadays all minds are in a mist,_  
+> _a moral brings upon us somnolence,_  
+> _vice is attractive in a novel, too,_  
+>  _and there, at least, it triumphs._  
+> _The fables of the British Muse_  
+> _disturb the young girl's sleep,_  
+> _and now her idol has become_  
+>  _either the pensive Vampyre,_  
+> _or Melmoth, gloomy vagabond,_  
+>  _or the Wandering Jew, or the Corsair,_  
+> _or the mysterious Sbogar._  
+> _Lord Byron, by an opportune caprice,_  
+> _in woebegone romanticism_  
 > _draped even hopeless egotism_
 
 My eye's pause frozen at the page: who, -- or what, -- is a _Melmoth_? To \`speak of things which eye has not seen nor ear heard, and which have never entered the heart of man'... Not a letter later and I see, an annotation of Pushkin's:
@@ -93,42 +65,26 @@ My eye's pause frozen at the page: who, -- or what, -- is a _Melmoth_? To \`spea
 
 My interest piqued at just what a _Melmoth_ could be: But I was so lost in Pushkin's telling of Tatyana's  English Romances:
 
-> _My friends, what sense is there in this?_
->
-> _Perhaps, by heaven's will,_
->
-> _I'll cease to be a poet; a new demon_
->
+> _My friends, what sense is there in this?_  
+> _Perhaps, by heaven's will,_  
+> _I'll cease to be a poet; a new demon_  
 > _will enter into me_
 
 I continue, perhaps as this _Melmoth_ to wander with this new Demon that inhabited Pushkin. I was altogether lost in Tatyana's letters promptly rebuked by a posing-as-wise Onegin, -- in Onegin's self-exile, -- in Pushkin's self exile and tattered manuscripts documenting his chase with his muse, -- and in Tatyana's solemn recognition of the changed-yet-unchanged figure of Onegin:
 
-> _Is this the same man, or has he since softened?_
->
-> _Or does he act the same old freak?_
->
-> _Tell me, does he come here often?_
->
-> _And what character does he play this week?_
->
-> _What is his stage persona? Melmoth?_
->
-> _A cosmopolitan, a patriot,_
->
-> _Childe Harolde, a quaker, or a bigot?_
->
-> _Or does he show off a mask he has brought?_
->
-> _Or perhaps he is just a jolly good sport,_
->
-> _Like you and I, like the world, in short?_
->
-> _My advice is this, if he will take it,_
->
-> _To put aside all that worn out kit._
->
-> _He has fooled the world more than we can tell.._
->
+> _Is this the same man, or has he since softened?_  
+> _Or does he act the same old freak?_  
+> _Tell me, does he come here often?_  
+> _And what character does he play this week?_  
+> _What is his stage persona? Melmoth?_  
+> _A cosmopolitan, a patriot,_  
+> _Childe Harolde, a quaker, or a bigot?_  
+> _Or does he show off a mask he has brought?_  
+> _Or perhaps he is just a jolly good sport,_  
+> _Like you and I, like the world, in short?_  
+> _My advice is this, if he will take it,_  
+> _To put aside all that worn out kit._  
+> _He has fooled the world more than we can tell.._  
 > _―So you know him then? ― Yes, no. Not well._
 
 And again, Onegin takes the form of some unhappy Melmoth. In just what shape, or what form Onegin could wander unchanged by the years as this Melmoth creature I resolved to uncover. In a matter of stanzas I had seen to the end of Pushkin's recovery of Onegins tale, -- and wept in bitter rejection that I could ever be an Onegin, -- that I would ever let my life take the form of…
@@ -145,14 +101,10 @@ Out of Nabokov's Lo-lee-ta. Another Melmoth! But if Pushkin had led me into Nabo
 
 Finding Maturin's account of Melmoth was not so easy,  -- but in dusty stacks of whose annals carry: ... and ... I recovered a single copy: _Melmoth the Wanderer_. Just as I began the infernal tale I saw that the story of John Melmoth II (not THE John Melmoth I sought) begins his tale by visiting his uncle, – much as my beloved _Onegin_ did:
 
-> _My uncle has most honest principles:_
->
-> _when he was taken gravely ill,_
->
-> _…_
->
-> _…_
->
+> _My uncle has most honest principles:_  
+> _when he was taken gravely ill,_  
+> _…_  
+> _…_  
 > _When will the Devil take you?_
 
 Maturin reports to me the story that he heard, that has inspired several of his sermons, and makes him quiver to recollect. He documents the travels of the student John Melmoth II, an Irishman who visits his heirless uncle for money while away at Trinity college. His uncle's deathbed unveils a portrait of a man with searing eyes[[74]](#ftnt74), and a tattered & burned scroll to follow. He pours through the scroll to find Charles Stanton, an odd man trying to fit in with the burgeoning dandy scene of the time:  -- he has no place here nor there. Stanton, abroad for unknown reasons, encounters a man in Spain who says he will "meet him in an insane asylum several years from now." Unbelievable, finding respite at an Inn Stanton hears the tale of a weary wanderer seen across Spain. He was met uninvited at a wedding, and pointed at like the devil by some Catholic priest. Years later Stanton, slowly losing his grip and seeing this man everywhere, is interned in an entrapment like manner in an insane asylum. He howls and screams, and concluded it is worse to be sane with the insane, than insane like all the rest of them… one night, in the depths of his cell, the very same Melmoth comes to his aid offering him an unutterable bargain for an immediate escape by unutterable means. Perplexed at how this man knows him to be here, and how he arrived undisturbed are the least of Stanton's issues: he won't take such an infernal offer. He eventually recoups, but makes it his goal to find out just who this man is. The scroll is torn, an burned, and scratched out, -- and J. Melmoth II's light is slowly fading…
@@ -161,13 +113,10 @@ Over the course of the next few days J. Melmoth the second encounters horrors an
 
 * * *
 
-_I was in a Printing house in Hell_
-
-_& saw the method in which_
-
-_knowledge is transmitted from_
-
-_generation to generation_
+> _I was in a Printing house in Hell_  
+> _& saw the method in which_  
+> _knowledge is transmitted from_  
+> _generation to generation_
 
 **– William Blake**
 
@@ -197,13 +146,10 @@ _How well religious persons understand the secret of making every event of the p
 
 **– C.R Maturin, Melmoth the Wandere**r
 
-_I charge thee to return and change thy shape;_
-
-_thou art too ugly to attend upon me._
-
-_Go, and return an old Franciscan Friar,_
-
-_That holy shape becomes a devil best._
+> _I charge thee to return and change thy shape;_  
+> _thou art too ugly to attend upon me._  
+> _Go, and return an old Franciscan Friar,_  
+> _That holy shape becomes a devil best._
 
 **– Christopher Marlowe** 
 
@@ -237,19 +183,13 @@ _What a difference between words without meaning, and that meaning without words
 
 **– C.R. Maturin. Melmoth the Wanderer**
 
-_At roll-call Byron Dominus uttered at a fool-school,_
-
-_Shouted by scottish ushers, caused his lordship to sob like a fool,_
-
-_Yet Byron was the first to laugh at the over-sensitive Keats_
-
-_‘Snuffed out by an article’, those were the words. A couple of rubber teats_
-
-_Should have been supplied beyond any question to these over-touchy pets—_
-
-_For me, you are free to spit your hardest and explode your bloody spleen_
-
-_Regarding my bold compact Fourteener, or my four less than fourteen_
+> _At roll-call Byron Dominus uttered at a fool-school,_  
+> _Shouted by scottish ushers, caused his lordship to sob like a fool,_  
+> _Yet Byron was the first to laugh at the over-sensitive Keats_  
+> _‘Snuffed out by an article’, those were the words. A couple of rubber teats_  
+> _Should have been supplied beyond any question to these over-touchy pets—_  
+> _For me, you are free to spit your hardest and explode your bloody spleen_  
+> _Regarding my bold compact Fourteener, or my four less than fourteen_
 
 **– P. Wyndham Lewis**
 
@@ -263,10 +203,8 @@ The Byronic “hero'” is then the extension of these traits into a character. 
 
 Key to all of this is the fact that Melmoth argues that he does not do evil. In an extended passage near the novel's end, Melmoth makes the case that Man does more evil than he ever can. Melmoth is only the non-interfering observer who, himself, only finds himself in the presence of evil, and not in evil itself. This echoes Christopher Marlowe's genius in _The Tragicall Historie of the Life and Death of Doctor Faustus_:
 
-> _MEPHASTOPHILIS.: Hell hath no limits, nor is circumscribed_
->
-> _In one self-place; for where we are is hell,_
->
+> _MEPHASTOPHILIS.: Hell hath no limits, nor is circumscribed_  
+> _In one self-place; for where we are is hell,_  
 > _And where hell is, there must we ever be._
 
 Hell is everywhere on Earth: we create the Hell that we live in. Perhaps this hell is created by the Catholic church, and their strategy of equivocation, perhaps we are numb to it by our myopic lives of abundance, disconnected. We clearly see throughout the monastery chronicle the patterning of the monastery on Hell itself. The most infernal of Byronics will create their own Hell-on-Earth, and insist to live in it.
@@ -305,13 +243,10 @@ If this is about AI, or technology, or simply a great Gothic-Horror Romance: wha
 
 * * *
 
-_Cowering and broken_
-
-_I’m a victim of my evil deeds_
-
-_But I don’t need your sympathy_
-
-_I’m comfortable in misery_
+> _Cowering and broken_  
+> _I’m a victim of my evil deeds_  
+> _But I don’t need your sympathy_  
+> _I’m comfortable in misery_
 
 **– Lil Ugly Mane**
 

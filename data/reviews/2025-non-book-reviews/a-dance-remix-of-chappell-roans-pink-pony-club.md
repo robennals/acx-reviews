@@ -7,10 +7,9 @@ contestName: 2025 Non Book Reviews
 year: 2025
 publishedDate: '2026-02-06T16:57:48.925Z'
 slug: a-dance-remix-of-chappell-roans-pink-pony-club
-wordCount: 10151
+wordCount: 10157
 readingTimeMinutes: 46
-originalUrl: >-
-  https://docs.google.com/document/d/1hjIUcKi-vIM9RGRZDWPRyUtzZLlVrpaY6Jy81iZVYi4
+originalUrl: https://docs.google.com/document/d/1hjIUcKi-vIM9RGRZDWPRyUtzZLlVrpaY6Jy81iZVYi4
 source: gdoc
 tags:
   - Memoir
@@ -19,7 +18,7 @@ tags:
 
 that played in the arena during a timeout in the second quarter of a historically sad professional basketball game.
 
-**Part I**
+## Part I
 
 When we forage, we look to the land’s vastness, for therein lies its bounty. What can be gleaned from a shoebox plot, a quarter acre, a clod of dirt fresh from the harrow? What of real nutritive value can be extracted from a serious examination of any singular moment?
 
@@ -69,7 +68,7 @@ _Pink Pony Club; I’m gonna keep on dancing down on West Hollywood…_
 
 Their team was winning by 30 points in the second quarter and would go on to win by over 50. They danced and dance there still, hoeing down and twirling lassos toward divinities too sublime to be corrupted by our sinners’ vision.
 
-**Part ii**
+## Part ii
 
 Of course, the visual material only constituted one dimension of the reckoning confronting me on that day. Let’s perform some musical analysis.
 
@@ -113,19 +112,19 @@ Are you ready to hear my confession? Know that I seek no shrift from you: only a
 
 In the context of the ice-cream changes, the V-chord operates emotionally as a sense of final triumph. The vi-chord, the relative minor, the central conflict, comes early in the harmonic narrative, immediately after the tonic, the “home” chord, hitting us where we live. Through the rising action of the IV and the eventual triumph of the V, we defeat the interlopers decisively, uncompromisingly, neatly. We might lay out the harmonic narrative thusly, taking for our example a hypothetical song in F# major for reasons that will become clear later on.
 
-**I (F# major)**
+## I (F# major)
 
 We’re home. Our fathers farmed cabbage for sauerkraut like their fathers before them, but we are called to nobler work.
 
-**vi (D# minor)**
+## vi (D# minor)
 
 The interlopers advance, burning our crops and abducting our womenfolk. From the periphery, an enormous shadow looms baleful, implacable.
 
-**IV (B major)**
+## IV (B major)
 
 Even in the darkness and turmoil, there is hope to be found. Life is stubborn as the evergreen. On Christmas, we gather those who remain and make merry, knowing it may be our last.
 
-**V (C# major)**
+## V (C# major)
 
 In great, bloody battle on the golden plains beneath the ramparts of our final citadel, we’ve overcome our enemies and expelled them from our lands. We’ve learned nothing, and nor will our children, save for the extent of our bravery and heroism on that day.
 
@@ -133,19 +132,19 @@ The narrative is cloying, formulaic. It appeals to man’s worst impulses, promi
 
 It’s for this reason that I tend to prefer the “Let It Be” changes to the narrative simplicity of the ice-cream changes. By situating the dominant prior to the vi, the relative minor, the chief antagonist or central conflict, the composition undermines our initial sense of assurance and security, decisively placing the pride before the fall. This is a story of man’s vanity and ultimately his redemption. Again, we’ll chart the harmonic narrative here by providing a prosaic analog.
 
-**I (F# major)**
+## I (F# major)
 
 We’re home. Appalachian hospitality and Momma’s country cooking.
 
-**V (C# major)**
+## V (C# major)
 
 We’ve confidently, even triumphantly, departed home and struck out for greener pastures.
 
-**vi (D# minor)**
+## vi (D# minor)
 
 Our sense of triumph has proved premature. These greener pastures reek of cow shit and we miss Momma’s country gravy. An obstacle has presented itself to be overcome.
 
-**IV (B major)**
+## IV (B major)
 
 After weeks, months, years of testing our mettle against this new terrain, we’ve hammered out a place here. Constant inundation of the olfactory mucosa with microparticles of cow feces has rendered us unable to smell the manure. Note how - and this is critical - we’ve shaped our environment while simultaneously yielding to its shaping us.
 
@@ -159,19 +158,19 @@ In contrast with the V, the ii is notably more delicate, more tonally indistinct
 
 Here’s what it looks like in context, if you’ll humor me one last time.
 
-**I (F# major)**
+## I (F# major)
 
 You know how this works by now. Sun’s coming up and John’s got cakes on the griddle.
 
-**ii (G# minor)**
+## ii (G# minor)
 
 We’re departing, but sans the foolhardy conviction of a typical leaving-home story. We feel home’s tug even as strongly as the pull of our destination, our gutstring snagged against home’s old tireswing sycamore, unraveling behind us like the thread of Ariadne.
 
-**vi (D# minor)**
+## vi (D# minor)
 
 This time, homesickness doesn’t come as a shock. We’ve felt its sharp mineral weight like a stalactite ponderously accreting in our stomach’s deepest pit. In this sense, our arrival in this far-flung land doesn’t intuitively feel like an obstacle so much as a change in scenery. The air here is lighter, drier, imparted with a dust so fine it smells like old, cool bed sheets.
 
-**IV (B major)**
+## IV (B major)
 
 Our tent doesn’t feel so lonely anymore, pitched here along the exhausted edge of the known universe. We knew we’d miss home, and packed a piece of it by which to bear remembrance: old John’s griddle. As the sun rises behind us, we see the thread that spun us here running the length of the continent, leading the way home.
 
@@ -201,23 +200,19 @@ I contend that B major is a perfect musical synthesis of the three prevenient tr
 
 You might be surprised to learn that a team from Tennessee takes its name from an animal whose present and historical distribution doesn’t encompass any land east of, say, Dodge City, Kansas. And while I echo the very same sentiment, I’d still contend that you’re more likely to encounter an authentic, fur-clad, claw-wielding, saliva-secreting brown bear of the horribilis or “grizzly” variant in the American state of Tennessee than you are to hear good jazz in any of the six total corners of Utah. In the cases of both the Utah Jazz [10] and the Memphis Grizzlies, there are financial machinations at play. In 1979, the New Orleans Jazz, a marginal upstart franchise that had known only losing seasons since its founding in 1974, feeling about as attached to the city of New Orleans as might a string of purple beads to the sweat-slicked neck of some drunken, prostrate Mardi Gras reveler partway through the act of vomiting, departed for the dry and sober climes of Mormon Zion and never looked back. Likewise, in 2001, the Vancouver Grizzlies, a marginal upstart franchise that had known only losing seasons since its founding in 1995, feeling about as attached to the city of Vancouver as might a hastily rolled yoga mat to the sweat-slicked underarm carriage of a hip-hiked woman in line for a 19-dollar acai bowl, departed for the rockabilly ritz and roar of downtown Memphis, and looked back only occasionally.
 
-**Part III**
+## Part III
 
-_Don't think I've left you all behind_
-
-_Still love you and Tennessee_
-
-_You're always on my mind_
-
-_And mama, every Saturday_
-
-_I can hear your southern drawl a thousand miles away_
+> _Don't think I've left you all behind_  
+> _Still love you and Tennessee_  
+> _You're always on my mind_  
+> _And mama, every Saturday_  
+> _I can hear your southern drawl a thousand miles away_
 
 In his 2007 novel _Spook Country_, William Gibson describes Canadian cities as looking the way American cities look on television [11]. Upon arriving in Vancouver for my wedding, my American father proclaimed within earshot of my Canadian in-laws [12]  that the city looked the way a city looks immediately prior to some apocalypse-event transpiring in movies about the apocalypse. I know they were within earshot of this proclamation because they were seated at the table to which the proclamation was delivered. My father then recounted how my mother had nearly died in the act of birthing me, paused to speculate as to whether her age had played a factor, and then proceeded to lament that my sister - who was seated at the very same table, alongside my mother - was likely of an age advanced enough that she might also experience health complications in the event that she were to birth a child of her own. Also seated at this table were my two closest friends, my freshly-wedded spouse, my spouse’s parents, my brother, his childless wife of a roughly equivalent age to that of my sister, my spouse’s brother, his wife (also of a roughly equivalent age to that of my sister and sister-in-law), and my spouse’s sister (of whose age and fecundity you can probably guess). My father wasn’t even drunk as he foisted his toast of good health and a fruitful marriage upon me and my beloved, who are each the youngest of our respective kin, gesturing decorously with a moderately full glass of chardonnay. It’s not that he won’t drink as a rule, and not even I don’t think that he never quite acquired the taste, but more, if I were to hazard a guess, that he prefers to remember moments like these in detail as vivid as his aging mind allows him. When he was finished, my spouse’s father stood and raised his own glass and said welcome to the family and smiled puckishly and left the room to retrieve a replica of Sting, Frodo’s sword in Peter Jackson’s _The Lord of the Rings_ film franchise, his wedding gift to me and my duly beloved.
 
-**ENDNOTES**
+## ENDNOTES
 
-**[1]**
+## [1]
 
 **[2]** Nor is it particularly interesting. The tradition may have begun in a 1987 first-round matchup between the NHL’s Winnipeg Jets (later the Arizona Coyotes (defunct), not to be confused with the current Winnipeg Jets (previously the Atlanta Thrashers)) and the Calgary Flames. The Jets noticed how imposing the Flames’ crowd always looked during Calgary home games, bedecked entirely in red, and figured hey what the hell, everybody has a white t-shirt at home, let’s make white our thing. Whether or not the rosters of either team subliminally associated the dueling color schemes with the inevitable triumph of heaven over hell, the Jets went on to beat the Flames 4 games to 2. As a sidenote, I’ve been to Winnipeg before, and am obliged to reject now in the clearest language possible any conflation between that city and the heaven of Enoch and Elijah.
 
@@ -231,23 +226,23 @@ In his 2007 novel _Spook Country_, William Gibson describes Canadian cities as l
 
 **[7]** If you’re wondering “_what is this_” or “_how do I say this in my head_” or “_what does this mean”_ then first briefly allow me to bemoan the abscission of worthwhile music education from the Platonic quadrivial curriculum of arithmetic, music, geometry, and astronomy, and then next to answer, in respective order to your questions as they were hypothetically posed:
 
-> 1.  Re: _What is this?_
->
+1.  Re: _What is this?_
+
 > This is a sequence of Roman numerals denoting chords formed on the scale degrees corresponding to the numbers indicated. “I” refers to the first scale degree, i.e., the tonic, home base, “Do” if you will (as opposed to “Re,” “Mi,” “Fa,” etc.). C in a C-major scale (if you won’t). Capitalization of the numeral (or lack thereof) is a neat shorthand for indicating whether the chord in question is major (in the case of capitalization) or minor (in the case of lack thereof). You can perhaps begin to decipher why Roman numerals are used in this application, as opposed to their Arabic counterparts. In Roman numeral analysis, “I-ii-iii-IV” would indicate a sequence of chords beginning with
->
-> 1.  a major chord formed using the first scale degree (“Do”) as a root note, followed by
-> 2.  a minor chord formed using the second scale degree (“Re”) as a root note, followed by
-> 3.  a minor chord formed using the third scale degree (“Mi”) as a root note, followed by
-> 4.  a major chord formed using the fourth scale degree (“Fa”) as a root note.
->
+
+1.  a major chord formed using the first scale degree (“Do”) as a root note, followed by
+2.  a minor chord formed using the second scale degree (“Re”) as a root note, followed by
+3.  a minor chord formed using the third scale degree (“Mi”) as a root note, followed by
+4.  a major chord formed using the fourth scale degree (“Fa”) as a root note.
+
 > In a C-major scale, the chords would be C-major, then D-minor, then E-minor, then F-major. As far as chord progressions go, this is about as bad as it gets.
->
-> 2.  Re: _How do I say this in my head?_
->
+
+2.  Re: _How do I say this in my head?_
+
 > Of course, this is all assuming that you’re the type to perform some manner of subvocalization when you read. If you’re an entirely visual reader, congratulations on your comparatively lower cognitive load. Try not to increase that load by actively pondering how frequently you normally swallow, blink, and breathe. But right, to the hypothetical question, you probably ought to just say the numbers in your head. For the notation attached to this endnote (I-V-vi-IV), just say “one five six four” in your head. If you’re a fan of weeds, if you really like getting into them, if you’re the kind to arrive home with burrs embedded in the ribbing of your compression socks, you could say “one major five major six minor four major” but considering the fact that you’re a subvocalizer and already reading at non-optimal speed, you’re better off just saying the numbers. I’ve heard jazz cats talk shop, and believe me, when they’re talking about a ii-V-I, they’re not saying “two minor five major one major.” That’s probably because no jazzman worthy of his receding ponytail would ever play a minor chord when he could play a half-diminished, but I digress.
->
-> 3.  Re: _What does this mean?_
->
+
+3.  Re: _What does this mean?_
+
 > I figure this last question got answered somewhere in the didactic mucilage deposited above, and if not, I don’t really know what to tell you. What does anything mean? When I was eleven, some molten alkaline siping from my old family dog’s metaphorical batteries must have shorted something in his canid brain and he decided on the spot that live or die he simply had to - had to, I mean as a function of some biological imperative - absolutely no matter what just had to murder my adult sister’s dog if it was the last thing he did, and being the nearest prehensile mammal around I nobly endeavored to separate them and I’ll be damned and likely already am if my sister’s dog - the one whose imminent murder I was attempting to forestall - didn’t in all the fever of that dogged fracas up and sink his teeth into me and my just-adolescent forearm, screaming against my flesh and frothing liberally as I bandied him about first in the direction of my brother and then my father as they arrived on the scene, eager to have him detached from me. I still have the puncture scars to prove it. What does that mean?
 
 **[8]** One of my favorite songs employs exactly this chord progression (I-vi-IV), eliding the V entirely. It’s an old soul ballad of which the only surviving rendition in existence is a demo recorded for Harmonic Sounds Studio in Columbus, Ohio, shortly before the band that authored it, Penny & The Quarters, presumably went defunct. The demo was purchased at an estate sale in 2006 following the death of Clem Price, Harmonic Sounds Studio’s erstwhile owner, who’d cached it in the basement of his home for much of the latter portion of the 20th century. Eventually, a bootleg got around to Ryan Gosling, the kind of ex-child star who’d sell you his own mother for a shred of indie credibility and an article on Pitchfork.com, a guy who was making shitty music on purpose way back when Mac DeMarco was still committing petty truancy and smoking Viceroys in Edmonton, Alberta. Anyway, handsome Ryan importuned the director of whatever stupid romance-drama he was filming at the time to work the song in somewhere, and the rest is history. You can hear it played pretty regularly on TV shows that depressed millennials who always said they were going to move to New York but never quite got around to it are frequently known to watch.
@@ -268,11 +263,11 @@ Arnold Schoenberg - Drei Klavierstücke ("Three Piano Pieces"), Op. 11
 
 “...for the first time in world history, popular cultural production had proved to be aesthetically superior to the cultural production of the elite. Genre fiction, whether thrillers or sci-fi, was broadly superior, at that time, to the mainstream novel; the comic book outclassed by far the creations of the official representatives of the visual arts; and most particularly, popular music made a mockery of subsidized attempts at ‘experimental music.’”
 
-> *   _Michel Houellebecq, Annihilation_
+*   _Michel Houellebecq, Annihilation_
 
 “Intelligent people have always been offended if one bothered them with matters which any idiot could understand at once.”
 
-> *   _Arnold Schoenberg, New Music, Outmoded Music, Style, and Idea_
+*   _Arnold Schoenberg, New Music, Outmoded Music, Style, and Idea_
 
 I.
 
@@ -284,7 +279,6 @@ Contrast this grammar with Arnold Schoenberg’s “Method of Composing with Twe
 
 The goal of twelve tone serialism is to prevent any one note from exercising too much gravity, doing away with the hierarchical structure that underpins tonal harmony. In the absence of any formal constraints, attempts to compose a song that is not in any particular key might, by accident, privilege one note over another, giving rise to classic harmonic structure. The twelve tone technique is a particularly stringent constraint designed to prevent this. (Its stringency cannot be overstated; Schoenberg himself writes that “nothing is given by this method; but much is taken away.”) It succeeds wildly at its goal, at the expense of a whole host of other aesthetic virtues. It received considerable criticism; in the words of Glenn Gould (who incidentally considered Schoenberg to be the greatest composer of the 20th century), detractors thought it was “a childish bit of mathematics.”
 
-  
 To many, there is a clear problem here: instead of theory serving music, music is serving theory. The natural theory that was grounded in musical practice has been replaced by an arbitrary theory which is unconstrained by the psychology of perception – and the result is music that nobody likes. This, it is argued, is why contemporary classical music is relatively marginal. That’s the standard critique of 20th century art music. I didn’t come up with it, versions of it have been articulated by Roger Scrutton, Fred Lerdahl, and basically anyone who has heard a piece of non-Russian classical music that was written in the past hundred years.  
 
 It would be a mistake to downplay the role that technology played in the declining popularity of art music. The advent of recording technology made it impossible for Bach to compete with the Beatles – the western art music establishment had been dealt a bad hand; it was basically inevitable that the 20th century would belong to pop music. But nonetheless, the establishment could have played that hand a little better. The only thing more incredible than the decline from a situation where composers like Handel and Verdi were national celebrities – whose appeal transcended social class, whose music was loved by all – to a situation where the average person couldn’t name a single living composer of western art music if you put a gun to their head, is the fact that members of the art music establishment are appalled by the suggestion that _something might have gone wrong_. If you go to the music theory subreddit and say that it was mistake for the establishment to invest all its remaining political capital in the Helicopter String Quartet guy, you will be met with a combination of sneering, bemusement, and worst of all, a language game where you’re accused of failing to understand the tonal/atonal distinction.  
@@ -331,7 +325,6 @@ The second klavierstück is, to me, the most accessible, for two reasons. The fi
 
 It’s worth recalling exactly what Schoenberg gave up when he started composing music this way. Today, we have this idea that a song is in a key – let’s say C major – and the C major triad serves as a sort of home base. The song will move to other chords that are related to the C major triad by virtue of sharing notes with it. This way of thinking about – and feeling – music is so natural that it’s hard to grasp that it wasn’t always there. But it’s really only a few hundred years old. There are other musical forms, which have a tonal center, but don’t stray from it. A lot of sacred music that predates the common practice period is like this. This may be a naive way of listening to Schoenberg, but rather than an evolution beyond tonality, I hear in no. 2 a timeless sound that existed before and after the advent of functional harmony, one that you hear in both the organum of the middle ages, and in the groove-based music of the late 20th century. If nothing else, listening this way helps form a bridge between Schoenberg’s world and my own.
 
-  
 The second reason the piece is more accessible is that it contains more repetition than the others. Part of what makes Schoenberg difficult is not just dissonance, but a lack of obvious structure. In no. 2, the different sections are more legible. The middle section of the piece is much more difficult, but it culminates in a passage whose intensity is intelligible to any listener.
 
 The third of Schoenberg’s Drei Klavierstücke is where, at least for now, Schoenberg leaves me behind. It is the shortest of the three pieces. It is intense, dissonant, extreme. Any vestiges of tonality hanging around in no. 1 and no. 2 are gone. I can recall passages from no. 1 and no. 2 in my head; I struggle to do this with no. 3. To properly hear this piece, I would need to spend more time listening to it, I would need to go through more analyses. The best thing I could do is sit down at the piano with the score and attempt, within my limited ability, to learn parts of it. I think there would probably be some reward for this.

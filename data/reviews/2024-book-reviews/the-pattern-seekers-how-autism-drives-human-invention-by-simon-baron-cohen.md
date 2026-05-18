@@ -7,10 +7,9 @@ contestName: 2024 Book Reviews
 year: 2024
 publishedDate: '2026-02-06T16:49:50.814Z'
 slug: the-pattern-seekers-how-autism-drives-human-invention-by-simon-baron-cohen
-wordCount: 5040
+wordCount: 5027
 readingTimeMinutes: 23
-originalUrl: >-
-  https://docs.google.com/document/d/1Ki5XsE0jkxZtd2XAeyTAJw1ZjLh2Cu-matUYKAhA6-s
+originalUrl: https://docs.google.com/document/d/1Ki5XsE0jkxZtd2XAeyTAJw1ZjLh2Cu-matUYKAhA6-s
 source: gdoc
 tags:
   - Psychology
@@ -37,8 +36,8 @@ We’ll also see how Baron-Cohen’s thesis accords with unconventional theories
 
 * * *
 
-> 1.  ##    Autism as the Font of Human Creativity
->     
+1.  ##    Autism as the Font of Human Creativity
+    
 
 The thesis in short: the secret sauce that only humans possess is the **systematising trait**.
 
@@ -52,7 +51,7 @@ Systematising and empathising are the twin helices that weave throughout Baron-C
 
 If we combine SQ and EQ in a two-by-two, we get a matrix of neurotypes that looks like this:
 
-![](https://acximages.ennals.org/images/2024-book-reviews/5e9aefa8a44066f4.png)
+![](https://acximages.ennals.org/images/2024-book-reviews/05077606d25f004b.png)
 
 Baron-Cohen splits these neurotypes into five categories.
 
@@ -88,9 +87,9 @@ One of the reasons we confuse these traits is that there is no foolproof way to 
 
 So we now have:
 
-> *   a name for the-thing-we-colloquially-call-autism-but-which-isn't-autism,
-> *   an understanding of why these two groups tend to overlap,
-> *   a mechanism for how they arise: a cluster of related genes, mediated by hormone levels in the womb.
+*   a name for the-thing-we-colloquially-call-autism-but-which-isn't-autism,
+*   an understanding of why these two groups tend to overlap,
+*   a mechanism for how they arise: a cluster of related genes, mediated by hormone levels in the womb.
 
 This very useful distinction might be the best thing about Baron-Cohen's book. Unfortunately, his tendency to equivocate between the benefits of systematising and the benefits of actually being _autistic_ might be the worst thing about this book, on which, more later.
 
@@ -98,8 +97,8 @@ First, let's work through a few obvious counterarguments to the big central clai
 
 * * *
 
-> 2.  ##    Obvious Objections
->     
+2.  ##    Obvious Objections
+    
 
 ### But isn't autism rigid and repetitive? That sounds like the opposite of creativity.
 
@@ -181,8 +180,8 @@ I don’t know. But based on the evidence Baron-Cohen presents, it really does a
 
 * * *
 
-> 3.  ##    Some Satisfying Mysteries Explained
->     
+3.  ##    Some Satisfying Mysteries Explained
+    
 
 Onwards to several mysteries for which Baron-Cohen's book gives us either a plausible resolution, or at least some valuable clues and cruxes for further exploration.
 
@@ -232,7 +231,7 @@ This is where Baron-Cohen's theory gives us some hope (or despair, depending on 
 
 At the end of the book, Baron-Cohen speculates that the systematising trait might follow something like an inverted U-shaped curve: more is better, but only up to a point.
 
-![](https://acximages.ennals.org/images/2024-book-reviews/5ab2d3e37af78423.png)
+![](https://acximages.ennals.org/images/2024-book-reviews/6ab3da21d90bb048.png)
 
 Once you reach the top of the curve, the whole 'rigidity and repetition' thing starts to become pathological, until you become the kind of person who is compelled to spend all day arranging toys in rows and counting them over and over. The hyper-focus on one system interferes with learning about the wider world, including very important things like language and speech.
 
@@ -250,8 +249,8 @@ Systematising is not the same thing as intelligence, but it must help with some 
 
 I couldn't find data on the exact relationship between the two traits, but if it exists, we can make some predictions about what it should look like:
 
-> *   We would expect to see a positive correlation between IQ and SQ that flattens and then becomes negative on the right tail
-> *   The _overall_ correlation should be zero (otherwise e.g. men would score higher on IQ tests than women do).
+*   We would expect to see a positive correlation between IQ and SQ that flattens and then becomes negative on the right tail
+*   The _overall_ correlation should be zero (otherwise e.g. men would score higher on IQ tests than women do).
 
 If anyone can find this dataset, please share it. If it doesn't exist, it would make for a great research project.
 
@@ -277,8 +276,8 @@ That's all the interesting stuff out of the way. Now we finish up with my only m
 
 * * *
 
-> 4.  ##    The Great Equivocation
->     
+4.  ##    The Great Equivocation
+    
 
 Baron-Cohen argues that the unique human capital tied up in neurodiverse brains represents a huge untapped opportunity, in that the majority of autistic people currently struggle to find jobs and form relationships.
 

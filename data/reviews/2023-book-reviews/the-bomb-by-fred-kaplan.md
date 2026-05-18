@@ -1,16 +1,16 @@
 ---
-title: "The Bomb by Fred Kaplan"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2023-book-reviews"
-contestName: "2023 Book Reviews"
+title: The Bomb by Fred Kaplan
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2023-book-reviews
+contestName: 2023 Book Reviews
 year: 2023
-publishedDate: "2023-01-01T00:00:00.000Z"
-slug: "the-bomb-by-fred-kaplan"
-wordCount: 9943
+publishedDate: '2023-01-01T00:00:00.000Z'
+slug: the-bomb-by-fred-kaplan
+wordCount: 9933
 readingTimeMinutes: 45
-originalUrl: "https://docs.google.com/document/d/1AtGIIv371v0Yu35eNsIxJr67dw4SHOiGdKrqmoKt2hg"
-source: "gdoc"
+originalUrl: https://docs.google.com/document/d/1AtGIIv371v0Yu35eNsIxJr67dw4SHOiGdKrqmoKt2hg
+source: gdoc
 tags:
   - History
   - Politics
@@ -70,7 +70,7 @@ The costs of such a strike would be vast. The attack would, presumably, alienate
 
 Eisenhower came to office in 1953 with the very unpopular Korean War winding down. While the war began in 1950 with wild swings of fortune, most of it was a bloody, unsatisfying stalemate. Almost 40,000 American soldiers died, and by 1953 defense spending took up a staggering 11.3% of GDP (for comparison, the record for the 21st century is 4.5% in 2010). American strategists realized that if communism needed to be contained, it could not be done through conventional wars fought on the periphery of the Soviet Union. This is the political prism through which we can understand Eisenhower’s massive retaliation strategy.
 
-![](https://acximages.ennals.org/images/2023-book-reviews/3bbbae20b1b26fe8.png)
+![](https://acximages.ennals.org/images/2023-book-reviews/649d6b1afa61f4e1.png)
 
 Implicit in the massive retaliation strategy is a willingness to use nuclear weapons in situations we today might find absurd. For example, in 1955, Admiral Radford told Eisenhower that if the U.S. ever got involved in Vietnam, we wouldn’t send over lots of soldiers; we’d just start dropping atomic bombs. In Kaplan’s words, Eisenhower “didn’t disagree.”
 
@@ -354,11 +354,11 @@ Caution is absolutely not a bad thing when dealing with nuclear strategy, but it
 
 This was the dishiest section of the book, the part that doubtless drew many readers and press attention. I will relay the entertaining parts, then try my best to offer a neutral appraisal.
 
-> *   Trump claimed to be an expert on nuclear weapons because his late uncle, Dr. John Trump, had designed x-ray generators for cancer therapy. Trump claimed he had “discuss[ed] nuclear with him all the time.”
->
-> *   When the Pentagon briefed him on current nuclear strategy, they showed Trump a chart of the number of weapons in U.S. inventories over time. It showed a peak of 32,000 in 1969, which went down to about 2,500 today. They intended this to be good news, showing that we had reduced the cost and danger of the arsenal. Trump was instead upset that he didn’t have as many nuclear weapons at his disposal, and wanted to know why we couldn’t have that many again under him. After this meeting,  then-Secretary of State Rex Tillerson allegedly called Trump a “fucking moron”. He would later be fired.
->
-> *   Kim Jong Un agreed to negotiate with Trump rather than continuing provocative missile launches. In a summit with Trump, Kim agreed to “work toward complete denuclearization of the Korean peninsula” (a meaningless comment), and Trump canceled an upcoming U.S.-South Korea military exercise. This is the summit where Trump says he and Kim “fell in love”. Trump later added that Kim “wrote me beautiful letters.” A second summit achieved nothing. In Kaplan’s words, “The summit ended disastrously, without a closing lunch, much less a signing ceremony.”
+*   Trump claimed to be an expert on nuclear weapons because his late uncle, Dr. John Trump, had designed x-ray generators for cancer therapy. Trump claimed he had “discuss[ed] nuclear with him all the time.”
+
+*   When the Pentagon briefed him on current nuclear strategy, they showed Trump a chart of the number of weapons in U.S. inventories over time. It showed a peak of 32,000 in 1969, which went down to about 2,500 today. They intended this to be good news, showing that we had reduced the cost and danger of the arsenal. Trump was instead upset that he didn’t have as many nuclear weapons at his disposal, and wanted to know why we couldn’t have that many again under him. After this meeting,  then-Secretary of State Rex Tillerson allegedly called Trump a “fucking moron”. He would later be fired.
+
+*   Kim Jong Un agreed to negotiate with Trump rather than continuing provocative missile launches. In a summit with Trump, Kim agreed to “work toward complete denuclearization of the Korean peninsula” (a meaningless comment), and Trump canceled an upcoming U.S.-South Korea military exercise. This is the summit where Trump says he and Kim “fell in love”. Trump later added that Kim “wrote me beautiful letters.” A second summit achieved nothing. In Kaplan’s words, “The summit ended disastrously, without a closing lunch, much less a signing ceremony.”
 
 Ultimately, these follies don’t seem to have amounted to much change in nuclear strategy, good or bad. Trump acted like an idiot in a bunch of meetings and didn’t figure out what to do about North Korea, but as we saw, neither Clinton nor W. Bush figured out North Korea either.
 
@@ -378,11 +378,11 @@ So, presidents should be informed about nuclear strategy, but only so that they 
 
 I think Kaplan is at his best in presenting fantastic vignettes that make you feel like you truly understand the key decisions made in the past. He is at his worst in giving any sort of actionable recommendation about the future. This might be, in part, because there are no good, specific recommendations. I will try to offer some that seem clear from his vignettes of the presidents of the nuclear age:
 
-> *   Be aware that there are no $20 bills sitting on the ground. If there was an easy solution to nuclear strategy, we already would have done it. Nixon and Trump both failed to grasp this.
->
-> *   Changing nuclear policy requires real political risks. You can choose to spend your political capital elsewhere like Johnson, but then you should focus on marginal improvement rather than big swings.
->
-> *   If you want to be bold, be bold in the direction of peace. Kennedy arguably did this and triumphed, and Reagan didn’t and fell agonizingly short of changing the world.
+*   Be aware that there are no $20 bills sitting on the ground. If there was an easy solution to nuclear strategy, we already would have done it. Nixon and Trump both failed to grasp this.
+
+*   Changing nuclear policy requires real political risks. You can choose to spend your political capital elsewhere like Johnson, but then you should focus on marginal improvement rather than big swings.
+
+*   If you want to be bold, be bold in the direction of peace. Kennedy arguably did this and triumphed, and Reagan didn’t and fell agonizingly short of changing the world.
 
 I haven’t fully rewatched _On the Beach_ in more than twenty years because I remember it all like it was yesterday. What allows me to sleep on nights when I still lie awake imagining nuclear war is the knowledge that the worst parts of politics (lobbying, parochialism, etc.) militate in favor of preparedness, but not actual attacks. We might waste money, but nobody wants a nuclear war. All we need to survive is for people to act in a venal, but not cartoonishly evil or foolhardy way. That said, I still have nightmares.
 

@@ -9,13 +9,13 @@ publishedDate: '2026-02-06T16:49:14.014Z'
 slug: win-bigly-persuasion-in-a-world-where-facts-dont-matter
 wordCount: 13336
 readingTimeMinutes: 60
-originalUrl: >-
-  https://docs.google.com/document/d/14qa47TJ_Vyerx4XNgTCIh7PUZ_TOgNcU_eHm5So_zo0
+originalUrl: https://docs.google.com/document/d/14qa47TJ_Vyerx4XNgTCIh7PUZ_TOgNcU_eHm5So_zo0
 source: gdoc
 tags:
   - Politics
   - Psychology
 ---
+
 **Adams:** Good Morning America, and welcome a fake episode of the Real Coffee podcast. I’m not actually your host, Scott Adams. Listeners, today you are in for a genuine treat: an avatar of the distinguished UCLA political scientist John Zaller is here to discuss his seminal work, _The Nature and Origins of Mass Opinion._ Welcome, Professor Zaller.
 
 **Zaller:** Thanks, Scott. And thank you for the laughter that _Dilbert_ has provided over the years.

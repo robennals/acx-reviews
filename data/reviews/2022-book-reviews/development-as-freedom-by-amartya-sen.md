@@ -7,10 +7,9 @@ contestName: 2022 Book Reviews
 year: 2022
 publishedDate: '2026-02-06T07:24:08.698Z'
 slug: development-as-freedom-by-amartya-sen
-wordCount: 6677
+wordCount: 6672
 readingTimeMinutes: 30
-originalUrl: >-
-  https://docs.google.com/document/d/1pRQbRbEUwSH_jm94PI_ij-88swat7vQ4iNaNp6gd39g
+originalUrl: https://docs.google.com/document/d/1pRQbRbEUwSH_jm94PI_ij-88swat7vQ4iNaNp6gd39g
 source: gdoc
 tags:
   - Economics
@@ -34,7 +33,7 @@ In the preface, Sen notes that he has had serious public differences with the Wo
 
 Getting to the putative subject of the book, Sen claims that his aim is to give a definition of development and a discussion of how to achieve it. His first pass at a definition is that development is “a process of expanding the real freedoms that people enjoy.” This is meant to contrast with views of development more narrowly focused on economic and monetary questions—perhaps one of his beefs with the World Bank. But before he gets too far with this project, Sen decides that really, he first needs to define justice. Or, at least, describe how it might be defined.
 
-**Justice and Freedom**
+## Justice and Freedom
 
 He starts with an original parable:
 
@@ -70,14 +69,14 @@ On the other hand, the open-endedness of the capabilities approach means that it
 
 Sen doesn’t seem to worry about this; he’s rather loose with what gets to count as a capability. Here is a partial list of capabilities or substantive freedoms he describes:
 
-> *   “freedom…to establish ownership over an adequate amount of food”
-> *   “freedom to seek wage employment away from one’s traditional bosses”
-> *   “freedom to participate in economic interchange”
-> *   “the capability to live really long”
-> *   “the capability…to have a good life while alive”
-> *   “the ability to survive rather than succumb to premature mortality”
-> *   “the ability…to take part in the life of the community”
-> *   “the…opportunity of having a fulfilling occupation”
+*   “freedom…to establish ownership over an adequate amount of food”
+*   “freedom to seek wage employment away from one’s traditional bosses”
+*   “freedom to participate in economic interchange”
+*   “the capability to live really long”
+*   “the capability…to have a good life while alive”
+*   “the ability to survive rather than succumb to premature mortality”
+*   “the ability…to take part in the life of the community”
+*   “the…opportunity of having a fulfilling occupation”
 
 They’re all over the place, broad and ill defined. The boundaries are a bit arbitrary: why is premature mortality an imposition on freedom while, uh, mature mortality is not? And how exactly do we judge someone’s ability to take part in the life of the community? Even worse, what happens when capabilities conflict?
 
@@ -87,7 +86,7 @@ As far as producing objective metrics for development, it doesn’t seem like th
 
 But Sen isn’t writing this book to develop indices and metrics. He’s trying to show how the capabilities framework can be used to think through concrete issues. A good chunk of the book consists of discussions of development-related questions. Sen’s perspective tends to be at once moderate and radical. He’s ready to acknowledge all kinds of difficulties and mitigating factors while adamantly insisting that things can be much better than they are. It reminds me of the best of the effective altruism movement: taking the responsibility to make the world better seriously and trying to figure out how exactly to do that. (Unlike a lot of EA work, though, it tends to end up sounding very normal. Maybe this is because the capabilities framework provides lots of ways to avoid weird-sounding conclusions.)
 
-**The Object Level**
+## The Object Level
 
 So what does this mean for thinking about concrete issues like poverty? It will probably not be surprising that Sen conceives of poverty much more expansively than just a lack of money. He defines poverty as deprivation of basic capabilities. While monetary resources have an important influence on an individual’s capabilities, they are far from the only determiner. And the influence of money on capabilities depends a lot on context. Age, gender, social roles, family status, location, disease, and lots of other things affect both starting capabilities and the way money can be used to accomplish things. A person with a disability may be able to convert income into functionings at a lower marginal rate than someone with a standard complement of abilities. This is distinct from whatever effect their disability has on the ability to earn income itself. Looking only at income can be misleading if you want to understand the functionings someone can obtain.
 
@@ -129,7 +128,7 @@ Toleration and equality did not (and do not) come for free in the West either. I
 
 Despite his contempt for authoritarians who try to use culture to justify their authority, Sen recognizes the problems that arise for native cultures in the face of the developmental advantages of globalization. This is again to be addressed by democracy, not elites deciding what’s best for the culture. The society needs to determine how much it is willing to sacrifice to maintain traditional ways of life. And in order to do that, the people need to talk about it. Culture is about all the people who participate in it, not just the elites. And in order to do that, they need to be well informed and able to communicate. And in order to that, they need to have a number of other capabilities. Everything is capabilities, and capabilities are all connected.
 
-**Social Choice and Democracy**
+## Social Choice and Democracy
 
 These questions of culture and society highlight a difficulty that I and Sen have both glossed over up to this point. It arises with the shift from using the capabilities approach to evaluate how we rank a situation as individuals to using it to make decisions that affect other people. Who actually gets to do the evaluation then? It’s fine for me to collect sets of functioning vectors and decide how I feel about the state of the world based on that information. But when measures like the HDI get used to make decisions about the allocation of real resources, the actual choices made in the analysis start to really matter. Who gets to decide what to value?
 

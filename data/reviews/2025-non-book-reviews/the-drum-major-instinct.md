@@ -9,8 +9,7 @@ publishedDate: '2026-02-06T16:55:59.395Z'
 slug: the-drum-major-instinct
 wordCount: 4516
 readingTimeMinutes: 21
-originalUrl: >-
-  https://docs.google.com/document/d/1jYVJFIz5-aMi0LCgsC9AN6BncJDNVGaMU37QmwZ1vzA
+originalUrl: https://docs.google.com/document/d/1jYVJFIz5-aMi0LCgsC9AN6BncJDNVGaMU37QmwZ1vzA
 source: gdoc
 tags:
   - Religion

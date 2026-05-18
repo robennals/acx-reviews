@@ -1,5 +1,5 @@
 ---
-title: 'Fashion, Faith and Fantasy in the New Physics of the Universe by Roger Penrose'
+title: Fashion, Faith and Fantasy in the New Physics of the Universe by Roger Penrose
 author: Unknown
 reviewAuthor: Anonymous
 contestId: 2022-book-reviews
@@ -7,10 +7,9 @@ contestName: 2022 Book Reviews
 year: 2022
 publishedDate: '2026-02-06T07:24:08.699Z'
 slug: fashion-faith-and-fantasy-in-the-new-physics-of-the-universe-by-roger-penrose
-wordCount: 6274
+wordCount: 6279
 readingTimeMinutes: 28
-originalUrl: >-
-  https://docs.google.com/document/d/1pRQbRbEUwSH_jm94PI_ij-88swat7vQ4iNaNp6gd39g
+originalUrl: https://docs.google.com/document/d/1pRQbRbEUwSH_jm94PI_ij-88swat7vQ4iNaNp6gd39g
 source: gdoc
 tags:
   - Science
@@ -35,7 +34,7 @@ On the other hand, if you know a great deal about physics, and you see something
 
 * * *
 
-**The Mathematical Appendix**
+## The Mathematical Appendix
 
 **You Should Have Paid More Attention in Linear Algebra**
 
@@ -67,7 +66,7 @@ If you pick up FFF, start with the math; and if you struggle with it, join the c
 
 * * *
 
-**Fashion**
+## Fashion
 
 **Beating Up Particle Physics and Taking its Lunch Money**
 
@@ -119,7 +118,7 @@ Penrose’s critiques of string theory ultimately ring true to me, especially be
 
 * * *
 
-**Faith**
+## Faith
 
 **In Which Eliezer is Counted Among the Righteous**
 
@@ -179,7 +178,7 @@ However, Chapter 2 isn’t all sunshine and roses on the comprehensibility and a
 
 * * *
 
-**Fantasy**
+## Fantasy
 
 **Why Inflation is Ruining Everything**
 
@@ -187,7 +186,7 @@ A friend once joked to me that physics is the study of things that are either ve
 
 Penrose’s mandate for Chapter 3 is taking on “fantastical” ideas in cosmology which have more of a wishful than a rational basis.  Eventually, he’ll reach the main target of his criticism: the theory of cosmic inflation.  
 
-![](https://acximages.ennals.org/images/2022-book-reviews/1cc844b87178a7d0.png)
+![](https://acximages.ennals.org/images/2022-book-reviews/b0b3db181991c30f.png)
 
 _No, not THAT inflation._
 
@@ -223,7 +222,7 @@ Finally—the ever-present question in this book: am I just getting Eulered?  I 
 
 * * *
 
-**Conclusion**
+## Conclusion
 
 **2/10, functional freedom wasn’t mentioned enough**
 

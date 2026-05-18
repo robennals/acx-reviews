@@ -7,10 +7,9 @@ contestName: 2025 Non Book Reviews
 year: 2025
 publishedDate: '2026-02-06T16:52:48.892Z'
 slug: effective-altruism-rationalism
-wordCount: 4261
+wordCount: 4239
 readingTimeMinutes: 19
-originalUrl: >-
-  https://docs.google.com/document/d/1d0vRSj1E93joWWvbUen2XGuDjN_mM94ybMIAADzM2fo
+originalUrl: https://docs.google.com/document/d/1d0vRSj1E93joWWvbUen2XGuDjN_mM94ybMIAADzM2fo
 source: gdoc
 tags:
   - Philosophy
@@ -39,10 +38,10 @@ It’s a [motte and bailey](https://en.wikipedia.org/wiki/Motte-and-bailey_falla
 
 Here are four observations of EARs in action, mostly in the policy space:
 
-> 1.  They are often more interested in and knowledgeable about EAR-specific ideas and research than the actual policy/research domains they work in and/or the institutions they want to influence.
-> 2.  If they have a job in a non-EA organisation, they care more about leveraging the job to further agreed-upon EA policy goals than to do the job itself well.
-> 3.  They [target](https://80000hours.org/) influential positions, and [coordinate](https://www.effectivealtruism.org/ea-global) globally to bend society’s resources and institutions towards EA policy goals.
-> 4.  They rarely read news, and can feel indignant over imprecise media coverage, even if the coverage is favourable and meets journalistic standards.
+1.  They are often more interested in and knowledgeable about EAR-specific ideas and research than the actual policy/research domains they work in and/or the institutions they want to influence.
+2.  If they have a job in a non-EA organisation, they care more about leveraging the job to further agreed-upon EA policy goals than to do the job itself well.
+3.  They [target](https://80000hours.org/) influential positions, and [coordinate](https://www.effectivealtruism.org/ea-global) globally to bend society’s resources and institutions towards EA policy goals.
+4.  They rarely read news, and can feel indignant over imprecise media coverage, even if the coverage is favourable and meets journalistic standards.
 
 I don’t want to overstate these, but I’d be surprised if they don’t ring true to insiders. And they’re exactly the kind of behaviour that people hate woke/maga/etc for: ignoring shared liberal norms and institutions, and making everything about winning in politics.
 
@@ -114,25 +113,25 @@ Cognitive biases are universal ammunition in this sense. Widespread and unbounde
 
 2007-Yudkowsky [argued](https://www.lesswrong.com/posts/AdYdLP2sRqPMoe8fb/knowing-about-biases-can-hurt-people) this point in signature guru style:
 
-> _The last time I gave a talk on heuristics and biases, I started out by introducing the general concept by way of the_ [weaponisable] _conjunction fallacy and_ [weaponisable] _representativeness heuristic. And then I moved on to confirmation bias, disconfirmation bias, sophisticated argument, motivated skepticism, and other attitude effects. I spent the next thirty minutes hammering on that theme, reintroducing it from as many different perspectives as I could.  
-> …  
-> Whether I do it on paper, or in speech, I now try to never mention calibration and overconfidence unless I have first talked about disconfirmation bias, motivated skepticism, sophisticated arguers, and dysrationalia in the mentally agile. First, do no harm!_
+> _The last time I gave a talk on heuristics and biases, I started out by introducing the general concept by way of the_ [weaponisable] _conjunction fallacy and_ [weaponisable] _representativeness heuristic. And then I moved on to confirmation bias, disconfirmation bias, sophisticated argument, motivated skepticism, and other attitude effects. I spent the next thirty minutes hammering on that theme, reintroducing it from as many different perspectives as I could._  
+> _…_  
+> _Whether I do it on paper, or in speech, I now try to never mention calibration and overconfidence unless I have first talked about disconfirmation bias, motivated skepticism, sophisticated arguers, and dysrationalia in the mentally agile. First, do no harm!_
 
 I still feel like this undersells the problem. It’s amazingly thorny: The better you are at spotting errors, the more you know about the topic in question, and the more carefully you reason, _the harder it gets_. The more progress you make, the more elaborately your brain can fool you. Sophistication bias threatens to turn the whole rationalist project against itself.
 
 Confirmation bias isn’t even needed, information asymmetries do the trick. I found Scott’s [story](https://www.astralcodexten.com/p/contra-kavanaugh-on-fideism) about his Atlantis days instructive:
 
 > _When I was a teenager I believed in a conspiracy theory. It was the one Graham Hancock wrote about in Fingerprints Of The Gods, sort of a modern update on the Atlantis story. It went something like this:_
->
-> *   _Did you know that dozens of civilizations around the world have oddly similar legends about a lost continent that sunk under the waves? The Greeks called it Atlantis; the Aztecs, Atzlan; the Indonesians, Atala._
-> *   _Various ancient structures and artifacts appear to be older than generally believed. Geologists say that the erosion patterns on the Sphinx prove it must be at least 10,000 years old; some well-known ruins in South America have depictions of animals that have been extinct for at least 10,000 years._
-> *   _There are vast underwater ruins, pyramids and stuff. We know where they are! You can just learn to scuba dive and go see them! Historians just ignore them, or say they’re probably natural, but if you look at them, they’re obviously not natural._
->
+
+*   _Did you know that dozens of civilizations around the world have oddly similar legends about a lost continent that sunk under the waves? The Greeks called it Atlantis; the Aztecs, Atzlan; the Indonesians, Atala._
+*   _Various ancient structures and artifacts appear to be older than generally believed. Geologists say that the erosion patterns on the Sphinx prove it must be at least 10,000 years old; some well-known ruins in South America have depictions of animals that have been extinct for at least 10,000 years._
+*   _There are vast underwater ruins, pyramids and stuff. We know where they are! You can just learn to scuba dive and go see them! Historians just ignore them, or say they’re probably natural, but if you look at them, they’re obviously not natural._
+
 > _Teenage me was impressed by these arguments. But he also had some good instincts and wanted to check to see what skeptics had to say in response. Here are what the skeptics had to say:_
->
-> *   _“Haha, can you believe some people still think there was an Atlantis! Imagine how stupid you would have to be to fall for that scam!”_
-> *   _“There is literally ZERO evidence for Atlantis. The ONLY reason you could ever believe it is because you’re a racist who thinks brown people couldn’t have built civilizations on their own.”_
-> *   _“No mainstream historians believe in any of that. Do you think you’re smarter than all the world’s historians?”_
+
+*   _“Haha, can you believe some people still think there was an Atlantis! Imagine how stupid you would have to be to fall for that scam!”_
+*   _“There is literally ZERO evidence for Atlantis. The ONLY reason you could ever believe it is because you’re a racist who thinks brown people couldn’t have built civilizations on their own.”_
+*   _“No mainstream historians believe in any of that. Do you think you’re smarter than all the world’s historians?”_
 
 Teenage Scott was wrong _because_ he really tried to figure out the truth instead of trusting vibes in an information asymmetric landscape. _Even while desperately seeking out good counterarguments_, he found only vibe-based condescension on the anti-Atlantis side, with no plausible counter-explanations. He knew much more than anyone he could find that disagreed with him, yet he was wrong and went on a five-year wild-goose-chase before recovering.
 
@@ -200,8 +199,8 @@ We learned the same lesson across the board. Workable policy advice was most dep
 
 Moving aspiring intellectual do-gooders to isolated forums risks turning a positive force into a destructive one:
 
-> *   **The mainstream** loses free-thinker insights and criticism. Discourse deteriorates and naive EAs who optimise their personal impact end up undermining the democratic institutions get rather than helping them.
-> *   **The free thinkers** with good intentions risk losing touch with reality and being net negative for society. Their ideas and inventions don’t spread from the niche subculture. Rutger Bregman’s 2025 relaunch of the [exact](https://www.moralambition.org/principles) EA project as a revolutionary idea for the mainstream is testament to EA’s isolation.
+*   **The mainstream** loses free-thinker insights and criticism. Discourse deteriorates and naive EAs who optimise their personal impact end up undermining the democratic institutions get rather than helping them.
+*   **The free thinkers** with good intentions risk losing touch with reality and being net negative for society. Their ideas and inventions don’t spread from the niche subculture. Rutger Bregman’s 2025 relaunch of the [exact](https://www.moralambition.org/principles) EA project as a revolutionary idea for the mainstream is testament to EA’s isolation.
 
 Of course, there are still plenty of contact points, and the focus on rationality, uncertainty and criticism counteracts many risks. But the movements are too individualistic. It’s about how _you_ personally can have accurate beliefs and influence the world. Scott wrote that you are playing with epistemological fire when you personally try to figure out who to trust, yet that is the whole rationalist morale.
 
@@ -211,13 +210,13 @@ The real solution is apolitical, society-scaled, self-correcting institutions.
 
 Here are seven ideas to rethink the EAR movements:
 
-> 1.  **Do no political harm** and **classical liberalism** into the EA curriculum. Popper is good for the dangers, but Wait but Why-author Tim Urban’s _What’s Our Problem_ is an excellent explanation of the principles. Yudkowsky has some [decent](https://www.lesswrong.com/posts/K9ZaZXDnL3SEmYZqB/ends-don-t-justify-means-among-humans) [warnings](https://www.lesswrong.com/s/waF2Pomid7YHjfEDt/p/dWTEtgBfFaz6vjwQf) of why the ends do not justify means in practice. The system must ensure that individuals don’t end up with rich knowledge of dangerous ideas and poor awareness of the dangers.
-> 2.  **Read more news.** Calibrate viewpoints as relative to mainstream science and discourse. I can’t believe this has to be [argued](https://www.lesswrong.com/posts/kxSg4fysgo7m5cgZW/read-more-news). Be less online.
-> 3.  **Radical transparency** of funding, activity, achievements etc to spread a healthy institutional norm, keep you in check and make you trustworthy for others. It also visualises what the movement does to facilitate spreading the ideas.
-> 4.  **Establish EAR auditing** that keeps EAR institutions from being shady and doing harm.
-> 5.  **Nurture consensus-building institutions** like prediction markets that derive or formalise insights, rather than leaving each individual to find their own way.
-> 6.  **Merge with mainstream institutions.** Do joint research/projects, and redesign EAR institutions after the goal of strengthening the shared institutions of society.
-> 7.  **Debate the mainstream.** Not as in make a [propaganda video](https://www.youtube.com/watch?v=w9npWiTOHX0&embeds_referring_euri=https%3A%2F%2Ffutureoflife.org%2F&source_ve_path=OTY3MTQ). As in, understand the actual debate to win the public narrative fairly. If there are systematic problems, then help fix them, don’t retreat to ivory towers.
+1.  **Do no political harm** and **classical liberalism** into the EA curriculum. Popper is good for the dangers, but Wait but Why-author Tim Urban’s _What’s Our Problem_ is an excellent explanation of the principles. Yudkowsky has some [decent](https://www.lesswrong.com/posts/K9ZaZXDnL3SEmYZqB/ends-don-t-justify-means-among-humans) [warnings](https://www.lesswrong.com/s/waF2Pomid7YHjfEDt/p/dWTEtgBfFaz6vjwQf) of why the ends do not justify means in practice. The system must ensure that individuals don’t end up with rich knowledge of dangerous ideas and poor awareness of the dangers.
+2.  **Read more news.** Calibrate viewpoints as relative to mainstream science and discourse. I can’t believe this has to be [argued](https://www.lesswrong.com/posts/kxSg4fysgo7m5cgZW/read-more-news). Be less online.
+3.  **Radical transparency** of funding, activity, achievements etc to spread a healthy institutional norm, keep you in check and make you trustworthy for others. It also visualises what the movement does to facilitate spreading the ideas.
+4.  **Establish EAR auditing** that keeps EAR institutions from being shady and doing harm.
+5.  **Nurture consensus-building institutions** like prediction markets that derive or formalise insights, rather than leaving each individual to find their own way.
+6.  **Merge with mainstream institutions.** Do joint research/projects, and redesign EAR institutions after the goal of strengthening the shared institutions of society.
+7.  **Debate the mainstream.** Not as in make a [propaganda video](https://www.youtube.com/watch?v=w9npWiTOHX0&embeds_referring_euri=https%3A%2F%2Ffutureoflife.org%2F&source_ve_path=OTY3MTQ). As in, understand the actual debate to win the public narrative fairly. If there are systematic problems, then help fix them, don’t retreat to ivory towers.
 
 Should EAG (and EAGx) exist? EA Global strengthens cross-cause area, within-EA connections, nurturing a network based on EA-affiliation rather than domain with the rest of society. The same applies for Less Wrong, 80,000 hours and the Effective Altruism Forum.
 

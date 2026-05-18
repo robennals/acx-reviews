@@ -8,8 +8,8 @@ year: 2021
 publishedDate: '2026-02-05T15:44:13.867Z'
 slug: through-the-eye-of-a-needle
 wordCount: 5512
-readingTimeMinutes: 25
-originalUrl: 'https://astralcodexten.substack.com/p/your-book-review-through-the-eye'
+readingTimeMinutes: 26
+originalUrl: https://astralcodexten.substack.com/p/your-book-review-through-the-eye
 source: acx
 tags:
   - History

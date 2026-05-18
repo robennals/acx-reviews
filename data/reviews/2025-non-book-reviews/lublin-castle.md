@@ -7,10 +7,9 @@ contestName: 2025 Non Book Reviews
 year: 2025
 publishedDate: '2026-02-06T16:55:03.479Z'
 slug: lublin-castle
-wordCount: 4002
+wordCount: 4009
 readingTimeMinutes: 18
-originalUrl: >-
-  https://docs.google.com/document/d/1a3q0Z2tuPLLbDeg5-pfEffkajGjrfPDwE7ZMs7uaWQs
+originalUrl: https://docs.google.com/document/d/1a3q0Z2tuPLLbDeg5-pfEffkajGjrfPDwE7ZMs7uaWQs
 source: gdoc
 tags:
   - History
@@ -64,19 +63,13 @@ There are prisons everywhere for those with the eyes to see.
 
 Although I am a theologian, I put Bukowski above Solzhenitsyn. This one dialogue about coconuts opening Tales of Ordinary Madness, where five year old girl talking with her father, a thug:
 
-_„why do you work nights?”_
-
-_“it’s darker. people can’t see me.”_
-
-_“why don’t you want people to see you?”_
-
-_“because if they do I might get caught and put in jail.”_
-
-_“what’s jail?”_
-
-_“everything’s jail.”_
-
-_“I’m not jail!”_
+> _„why do you work nights?”_  
+> _“it’s darker. people can’t see me.”_  
+> _“why don’t you want people to see you?”_  
+> _“because if they do I might get caught and put in jail.”_  
+> _“what’s jail?”_  
+> _“everything’s jail.”_  
+> _“I’m not jail!”_
 
 Probably philosophers stating similar idea in long sentences didn’t discover entirely new world, they just express in their own way general annoyance that is felt by any human caught in any system.
 

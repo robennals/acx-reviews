@@ -7,10 +7,9 @@ contestName: 2023 Book Reviews
 year: 2023
 publishedDate: '2026-02-06T07:21:10.023Z'
 slug: bad-blood-secrets-and-lies-in-a-silicon-valley-startup-by-john-carreyrou
-wordCount: 1745
+wordCount: 1769
 readingTimeMinutes: 8
-originalUrl: >-
-  https://docs.google.com/document/d/10CiEI7aDL2bMIdx7yayy3vlq0TJ8dO5LGnG7yIDPiw8
+originalUrl: https://docs.google.com/document/d/10CiEI7aDL2bMIdx7yayy3vlq0TJ8dO5LGnG7yIDPiw8
 source: gdoc
 tags:
   - Technology
@@ -23,8 +22,8 @@ Now that I’ve gotten your attention with a click-baitey-enough lead, allow me 
 
  As an engineer myself, I have enough experience to have absolutely no doubt about the following:
 
-> *   That Elizabeth Holmes’s “product” was an absolute pile of garbage, despite her seemingly sincere submissions to the contrary;
-> *   That this was partially, but not entirely, the result of the fact that the nature of her personality perpetuated and maintained an egregiously toxic work environment wherein, even if there did exist a spark of ingenuity that could, cultivated, have conceivably effected her dream, it would have immediately been snuffed out.
+*   That Elizabeth Holmes’s “product” was an absolute pile of garbage, despite her seemingly sincere submissions to the contrary;
+*   That this was partially, but not entirely, the result of the fact that the nature of her personality perpetuated and maintained an egregiously toxic work environment wherein, even if there did exist a spark of ingenuity that could, cultivated, have conceivably effected her dream, it would have immediately been snuffed out.
 
 I assume these facts to be true, because I have lived this experience enough times that it is not at all alien to me, such that I cannot in principle say that Elizabeth Holmes deserves to be in prison any more than any other startup founder. In other words, if she needs to go to prison, then the greater part of California, at least, needs to go to prison if our legal system is to maintain any shred of principled decision-making.
 
@@ -48,35 +47,16 @@ Virtually all commercial software development nowadays takes place over IDEs (�
 
 Why is autocompletion important? This is why:
 
-**std::****[string](https://cplusplus.com/reference/string/string/)****::string**
+**std::[string](https://cplusplus.com/reference/string/string/)::string**
 
-_**default (1)**_
-
-string();
-
-_**copy (2)**_
-
-string (const string& str);
-
-_**substring (3)**_
-
-string (const string& str, size\_t pos, size\_t len = npos);
-
-_**from c-string (4)**_
-
-string (const char\* s);
-
-_**from sequence (5)**_
-
-string (const char\* s, size\_t n);
-
-_**fill (6)**_
-
-string (size\_t n, char c);
-
-_**range (7)**_
-
-template <class InputIterator>  string  (InputIterator first, InputIterator last);
+| default (1) | string(); |
+| --- | --- |
+| copy (2) | string (const string& str); |
+| substring (3) | string (const string& str, size_t pos, size_t len = npos); |
+| from c-string (4) | string (const char* s); |
+| from sequence (5) | string (const char* s, size_t n); |
+| fill (6) | string (size_t n, char c); |
+| range (7) | template <class InputIterator> string (InputIterator first, InputIterator last); |
 
 These are _seven_ different ways to construct a “string” which is just an assortment of characters—one of the most basic objects in a programmer’s toolkit. Could you remember what each term means and when to use which?
 

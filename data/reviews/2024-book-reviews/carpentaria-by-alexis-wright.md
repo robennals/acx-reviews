@@ -1,5 +1,5 @@
 ---
-title: 'Carpentaria, by Alexis Wright'
+title: Carpentaria, by Alexis Wright
 author: Unknown
 reviewAuthor: Anonymous
 contestId: 2024-book-reviews
@@ -9,8 +9,7 @@ publishedDate: '2026-02-06T16:47:15.598Z'
 slug: carpentaria-by-alexis-wright
 wordCount: 2713
 readingTimeMinutes: 13
-originalUrl: >-
-  https://docs.google.com/document/d/1AXmWgSbh_TFsoZuApSCSEoz57yn93CM5YYhtaO_s4W4
+originalUrl: https://docs.google.com/document/d/1AXmWgSbh_TFsoZuApSCSEoz57yn93CM5YYhtaO_s4W4
 source: gdoc
 tags:
   - Fiction

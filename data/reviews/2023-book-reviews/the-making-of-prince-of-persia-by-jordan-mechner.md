@@ -1,16 +1,16 @@
 ---
-title: "The Making of Prince of Persia by Jordan Mechner"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2023-book-reviews"
-contestName: "2023 Book Reviews"
+title: The Making of Prince of Persia by Jordan Mechner
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2023-book-reviews
+contestName: 2023 Book Reviews
 year: 2023
-publishedDate: "2023-01-01T00:00:00.000Z"
-slug: "the-making-of-prince-of-persia-by-jordan-mechner"
-wordCount: 8355
+publishedDate: '2023-01-01T00:00:00.000Z'
+slug: the-making-of-prince-of-persia-by-jordan-mechner
+wordCount: 8351
 readingTimeMinutes: 38
-originalUrl: "https://docs.google.com/document/d/1AtGIIv371v0Yu35eNsIxJr67dw4SHOiGdKrqmoKt2hg"
-source: "gdoc"
+originalUrl: https://docs.google.com/document/d/1AtGIIv371v0Yu35eNsIxJr67dw4SHOiGdKrqmoKt2hg
+source: gdoc
 tags:
   - Technology
   - History
@@ -22,16 +22,16 @@ Prince of Persia is an action platforming video game from 1989, created by a tea
 
 To establish the necessary context, I will summarize the game that the book documents the making of. It is not really possible to convey the feel of the gameplay, but fortunately, Prince of Persia is a game of many qualities. On release, the game was widely praised for its graphics, but these are obviously less impressive by modern standards. In my opinion, the secret sauce of Prince of Persia is the highly evocative _scenes_, which makes for some good 320x200 pixel screenshots and GIFs.
 
-![](https://acximages.ennals.org/images/2023-book-reviews/4ea7fe3859714ad1.png)
+![](https://acximages.ennals.org/images/2023-book-reviews/a2adff71f1ee08eb.png)
 
 [Advertisement, Computer Gaming World N. 79: contrast adjusted from source [https://popuw.com/magazines.html](https://popuw.com/magazines.html)]
 
 Why should you care about video games at all, let alone this particular historical artifact and the somewhat angsty diary of a twenty-five year old? I will resist the temptation of pretending that video games are _important_. Let me just suggest that, of all that is useless and fascinating, video games are perhaps not only the most useless, but also the most fascinating. If you haven’t called your best friend in a month or if your kitchen is on fire, I would recommend attending to those matters first. Otherwise, let me try to draw you in with some classic logical fallacies:
 
-> 1.  Appeal to authority:  "The engineer in me loved his description of the technical challenges and solutions, and the entrepreneur in me loved the honest chronicle of his emotional adventure." — _Mike Krieger, co-founder of Instagram_
-> 2.  Argumentum ad populum: Prince of Persia gave rise to a franchise, including a series of highly successful console games and a Disney movie starring Jake Gyllenhaal (it’s not a great movie - Jordan Mechner wrote the original story before it was passed through three different screenwriters in a game of Chinese whispers).
-> 3.  _Yeah, well, that’s just your opinion, man_: The Making of Prince of Persia is an unusually honest first person account of how a masterpiece is cobbled together, from barely a germ of an idea through a no-fun technical demo to a widely acclaimed masterpiece. Sometimes the real story is the missteps and self-criticisms we made along the way.
-> 4.  _No, seriously, you can’t just make things up and expect me to believe you_: Prince of Persia is a tour de force of video game narrative. There are many games that tell good or even great stories by use of _words, words, words_ in the form of dialogue and narration interleaved with the actual gameplay. Prince of Persia contains only a hundred words (approximately the length of this paragraph), all in a framing story. Nonetheless, its gameplay tells a simple and evocative story.
+1.  Appeal to authority:  "The engineer in me loved his description of the technical challenges and solutions, and the entrepreneur in me loved the honest chronicle of his emotional adventure." — _Mike Krieger, co-founder of Instagram_
+2.  Argumentum ad populum: Prince of Persia gave rise to a franchise, including a series of highly successful console games and a Disney movie starring Jake Gyllenhaal (it’s not a great movie - Jordan Mechner wrote the original story before it was passed through three different screenwriters in a game of Chinese whispers).
+3.  _Yeah, well, that’s just your opinion, man_: The Making of Prince of Persia is an unusually honest first person account of how a masterpiece is cobbled together, from barely a germ of an idea through a no-fun technical demo to a widely acclaimed masterpiece. Sometimes the real story is the missteps and self-criticisms we made along the way.
+4.  _No, seriously, you can’t just make things up and expect me to believe you_: Prince of Persia is a tour de force of video game narrative. There are many games that tell good or even great stories by use of _words, words, words_ in the form of dialogue and narration interleaved with the actual gameplay. Prince of Persia contains only a hundred words (approximately the length of this paragraph), all in a framing story. Nonetheless, its gameplay tells a simple and evocative story.
 
 ## The Game of Persia
 
@@ -177,7 +177,7 @@ Despite all these doubts, Mechner lands in Los Angeles one year later to make Pr
 
 ### The man who chases two rabbits
 
-September, 1986, Los Angeles. Having himself installed in the Broderbund offices, Mechner puts in some solid work on Prince of Persia. His first challenge is to get live action video from analog _tape_ (remember, this is forever ago) into his computer. Mechner’s vision is to make a game that bridges the gap from very primitive graphics, that sort of help you imagine whatever they are supposed to represent, to lifelike animations with a feeling of weight to them that include _the rest of the fucking owl_.![](https://acximages.ennals.org/images/2023-book-reviews/e60bc51ba4024951.png)
+September, 1986, Los Angeles. Having himself installed in the Broderbund offices, Mechner puts in some solid work on Prince of Persia. His first challenge is to get live action video from analog _tape_ (remember, this is forever ago) into his computer. Mechner’s vision is to make a game that bridges the gap from very primitive graphics, that sort of help you imagine whatever they are supposed to represent, to lifelike animations with a feeling of weight to them that include _the rest of the fucking owl_.![](https://acximages.ennals.org/images/2023-book-reviews/4fb73acbec83c7ee.png)
 
 To achieve this effect, Mechner employs a technique called _rotoscoping_, which basically involves going through video footage frame by frame and tracing the outlines. It is well-known in the world of filmmaking, for instance from Disney’s animated movies, but not very practical for video games, both because of the additional work that goes into digitizing and the unforgiving memory limitations of the computers of the time.
 
@@ -265,7 +265,7 @@ Mechner ends 1988 with a New Year’s Resolution: Finish Prince of Persia by Jul
 
 ### Man never is, but always to be blest
 
-From 1989 and on out, things are falling into place. Mechner works long days converting visions and sketches to working game code as well as sanding down all the rough edges. The skeleton ([level 3](#h.7cys9f5lvg5)) is briefly mentioned. Tina LaDeau, the eighteen year old daughter of a co-worker, is invited into the offices to serve as reference for the princess’ animations in the game’s intro and [outro](#h.wo5vr6s2ctu5). Mechner comments on her beauty in the journal on multiple occasions: _She’s a fox_ and _It’s a drag, having to spend hours reviewing video footage of this girl in slo-mo and frame-advance, but these are the sacrifices I have to make to get this game done_. Remember, he’s just 25 years old and this was supposed to be his personal diary.![](https://acximages.ennals.org/images/2023-book-reviews/592c947efd9c0c38.png)
+From 1989 and on out, things are falling into place. Mechner works long days converting visions and sketches to working game code as well as sanding down all the rough edges. The skeleton ([level 3](#h.7cys9f5lvg5)) is briefly mentioned. Tina LaDeau, the eighteen year old daughter of a co-worker, is invited into the offices to serve as reference for the princess’ animations in the game’s intro and [outro](#h.wo5vr6s2ctu5). Mechner comments on her beauty in the journal on multiple occasions: _She’s a fox_ and _It’s a drag, having to spend hours reviewing video footage of this girl in slo-mo and frame-advance, but these are the sacrifices I have to make to get this game done_. Remember, he’s just 25 years old and this was supposed to be his personal diary.![](https://acximages.ennals.org/images/2023-book-reviews/ceb52ae5527753a9.png)
 
 He has to deal more and more with teams of people - designers, marketers, programmers. This mostly seems to irritate him, partially because these people fail to do what he wants them to do, but also (mostly?) because he can sense that his own soft skills are holding him back. The women in marketing get lambasted in particular, both for not putting enough of a push behind a game with enormous potential and for censoring the box art by requesting an extra layer of “sports bra” under the princess’ top.
 

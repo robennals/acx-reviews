@@ -9,8 +9,7 @@ publishedDate: '2026-02-06T07:22:32.820Z'
 slug: the-brothers-karamazov-by-fyodor-dostoevsky
 wordCount: 15356
 readingTimeMinutes: 69
-originalUrl: >-
-  https://docs.google.com/document/d/100kMdSVFviZSSBvUyyEQPMNlvLptVQxHFD9i9wGuBWs
+originalUrl: https://docs.google.com/document/d/100kMdSVFviZSSBvUyyEQPMNlvLptVQxHFD9i9wGuBWs
 source: gdoc
 tags:
   - Fiction
@@ -487,13 +486,13 @@ Humility (and its opposite, pride) is one of the biggest themes in the book, and
 
 It turns out that it's not so easy to measure humility so not much research has been done. Nevertheless, I did find a [series of studies](https://doi.org/10.1080/00223891.2011.558871) at the University of Northern Texas published in 2011, where researchers devised a new method for the measurement of humility, the Relational Humility Scale (RHS). To get a sense of the scale, let’s have a look at Table 1 from the study:
 
-![](https://acximages.ennals.org/images/2022-book-reviews/4b393ab436638350.png)
+![](https://acximages.ennals.org/images/2022-book-reviews/3c125baf6ac30a3b.png)
 
 (Note that these evaluations are done by “other-reports”. In other words, they get someone who knows the subject to evaluate the subject.)
 
 To get a sense of what sorts of things are correlated with humility, let’s have a look at Table 2:
 
-![](https://acximages.ennals.org/images/2022-book-reviews/4b31b4486e849629.png)
+![](https://acximages.ennals.org/images/2022-book-reviews/9477426232c49be8.png)
 
 We see that, toward a person who has given offense, a humble person is more able to forgive, has less of a tendency to avoid the person or seek revenge, and has more empathy toward their offender. We also see in their close relationships (in this case a relationship with a parent) they exhibit more virtuous behavior and have more positive emotion and less negative emotion. In other words, they do good things and they feel good. Those with a sense of being superior to others (pride) have the inverse—they are less virtuous and tend to feel worse.
 

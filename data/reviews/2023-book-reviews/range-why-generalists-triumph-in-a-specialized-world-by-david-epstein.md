@@ -1,16 +1,16 @@
 ---
-title: "Range: Why Generalists Triumph in a Specialized World, by David Epstein"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2023-book-reviews"
-contestName: "2023 Book Reviews"
+title: 'Range: Why Generalists Triumph in a Specialized World, by David Epstein'
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2023-book-reviews
+contestName: 2023 Book Reviews
 year: 2023
-publishedDate: "2023-01-01T00:00:00.000Z"
-slug: "range-why-generalists-triumph-in-a-specialized-world-by-david-epstein"
-wordCount: 4361
+publishedDate: '2023-01-01T00:00:00.000Z'
+slug: range-why-generalists-triumph-in-a-specialized-world-by-david-epstein
+wordCount: 4358
 readingTimeMinutes: 20
-originalUrl: "https://docs.google.com/document/d/1vci14HMZ2UEJBs6mKCZZ2vHs-jVuPSsFsiN3cAENzXU"
-source: "gdoc"
+originalUrl: https://docs.google.com/document/d/1vci14HMZ2UEJBs6mKCZZ2vHs-jVuPSsFsiN3cAENzXU
+source: gdoc
 tags:
   - Psychology
   - Society
@@ -52,9 +52,9 @@ The studies and surveys, well, I've seen enough non-replicating studies to take 
 
 Personally, the major updates I made are something like:
 
-> 1.  A lot more top achievers are generalists than you might think, because their generalism often doesn't make it into the biographical content that you'd see at a glance.
-> 2.  Specialists today are _more specialist_ than at any other time in history, and the pitfalls of specialism (in a word, narrow thinking) are more pronounced. This makes generalists more valuable as a way to counter that.
-> 3.  The kinds of problems that lend themselves to specialization are often the less interesting problems. Incidentally, they are also most easily solved by AI, which is something problem-solvers might want to consider in Current Year.
+1.  A lot more top achievers are generalists than you might think, because their generalism often doesn't make it into the biographical content that you'd see at a glance.
+2.  Specialists today are _more specialist_ than at any other time in history, and the pitfalls of specialism (in a word, narrow thinking) are more pronounced. This makes generalists more valuable as a way to counter that.
+3.  The kinds of problems that lend themselves to specialization are often the less interesting problems. Incidentally, they are also most easily solved by AI, which is something problem-solvers might want to consider in Current Year.
 
 Now let's look at the fun parts.
 

@@ -7,10 +7,9 @@ contestName: 2022 Book Reviews
 year: 2022
 publishedDate: '2026-02-06T07:23:14.475Z'
 slug: in-search-of-canadian-political-culture-by-nelson-wiseman
-wordCount: 8078
-readingTimeMinutes: 36
-originalUrl: >-
-  https://docs.google.com/document/d/1kQUUJhv-MpLawby2j4zXLZPDG6ligWd5xpIjH8UmWdw
+wordCount: 8169
+readingTimeMinutes: 37
+originalUrl: https://docs.google.com/document/d/1kQUUJhv-MpLawby2j4zXLZPDG6ligWd5xpIjH8UmWdw
 source: gdoc
 tags:
   - Politics
@@ -31,10 +30,10 @@ If that makes sense to you, then stick around and let's join Wiseman in explorin
 
 _In Search of Canadian Political Culture i_s not necessarily unique and is part of a long tradition of Canadian writing on the ‘Tory-touch thesis’_._ The thesis was initiated by the American scholar Louis Hartz (and Kenneth McRae, his Canadian contributor) when he applied his [Lockean American Founding thesis](https://www.amazon.ca/Liberal-Tradition-America-Louis-Hartz/dp/0156512696) to other countries in the 1969 _[Founding of New Societies](https://www.amazon.ca/Founding-New-Societies-Studies-Australia/dp/0156327287)_ and later developed by Gad Horowitiz in his [seminal](https://www.jstor.org/stable/139794?seq=1#metadata_info_tab_contents) [1966 article](https://www.jstor.org/stable/139794?seq=1#metadata_info_tab_contents). Very quickly, it is the following in _**TL; DR**_**:**
 
-> 1.  Canada's (English) founding population brought British Tory ideas, especially informed by their experiences during the American Revolution.
-> 2.  While the Loyalists were still liberal, this tory touch meant less of a puritanical focus on individualism and freedom and a more of a ‘tory touched liberalism’, best exemplified by Canada’s unofficial motto of ‘_peace, order, and good government’._
-> 3.  According to old fashioned dialectic theory, the interaction between the communitarian Tory and individualist Liberal elements resulted in the social democratic impulse.
-> 4.  This resulted in the quasi-social democratic policies that Canadians see as part and parcel of this country’s core, whether in celebration or lamentation.
+1.  Canada's (English) founding population brought British Tory ideas, especially informed by their experiences during the American Revolution.
+2.  While the Loyalists were still liberal, this tory touch meant less of a puritanical focus on individualism and freedom and a more of a ‘tory touched liberalism’, best exemplified by Canada’s unofficial motto of ‘_peace, order, and good government’._
+3.  According to old fashioned dialectic theory, the interaction between the communitarian Tory and individualist Liberal elements resulted in the social democratic impulse.
+4.  This resulted in the quasi-social democratic policies that Canadians see as part and parcel of this country’s core, whether in celebration or lamentation.
 
 Written at a time of heated discussions of Canadian nationalism, Horowitz’ thesis has set the terms of the debate of a country that loves to argue what it is. Even its most ardent critics [must either refute the tory touch](https://www.amazon.ca/Canadian-Founding-John-Locke-Parliament/dp/0773532242) or see it as a [malaise](https://diorionathaniel.medium.com/the-canadian-rights-cultural-cringe-1e9610e2ee9e) to be cured.
 
@@ -50,105 +49,15 @@ The book focuses on the first four waves as they were the waves that acted as ch
 
 In this sense, you could visualise British political history in motion if you started from the Atlantic and moved to the West Coast. As shown in the table below, we can go from echoes of Pre-Labour Britain in Atlantic Canada to intense partisan battles between social democrats and anti-socialists in British Columbia. The two outliers are the two distinct societies of Quebec and Alberta, one formal and the other informal. These two, as will be discussed later, have their political culture pivot on another axis.
 
-**Region**
-
- _British Columbia_
-
-_Alberta_
-
-_Saskatchewan_
-
-_Manitoba_
-
-_Ontario_
-
-_Quebec_
-
-_Maritimes_
-
-**Provincial parties**
-
-**Main Party1**
-
-Left-wing New Democrat Party,
-
-Various parties of conservative/populist streak,
-
-Left-wing New Democrat Party,
-
-Centre-right Conservatives
-
-Centre-right Conservatives
-
-Various nationalist parties
-
-Centre-left Liberals
-
-**Main Party 2**
-
-Anti-socialist Liberals (formerly Social Credit)
-
-Left-wing New Democrat Party,
-
-Saskatchewan Party (formerly Conservatives)
-
-Left-wing New Democrat Party,
-
-Centre-left Liberals
-
-Liberals as federalists,
-
-Centre-right Conservatives
-
-**Viable third party**
-
-Greens
-
--
-
--
-
-Centre-left Liberals
-
-Left-wing New Democrat Party,
-
-Other nationalist parties
-
--
-
-**Founding Waves**
-
-**Main Wave**
-
-Labourists,
-
-Americans,
-
-Labourist,
-
-Labourists,
-
-Loyalists, Reformers,
-
-New France,
-
-Loyalists,
-
-**Other waves**
-
-some Americans
-
-some Labourists
-
-some Americans
-
-some Loyalists and Reformers
-
-some Labourists
-
-some Loyalists and Reformers
-
-some pre-Loyalists, New France
+| Region | British Columbia | Alberta | Saskatchewan | Manitoba | Ontario | Quebec | Maritimes |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Provincial parties |  |  |  |  |  |  |  |
+| Main Party1 | Left-wing New Democrat Party, | Various parties of conservative/populist streak, | Left-wing New Democrat Party, | Centre-right Conservatives | Centre-right Conservatives | Various nationalist parties | Centre-left Liberals |
+| Main Party 2 | Anti-socialist Liberals (formerly Social Credit) | Left-wing New Democrat Party, | Saskatchewan Party (formerly Conservatives) | Left-wing New Democrat Party, | Centre-left Liberals | Liberals as federalists, | Centre-right Conservatives |
+| Viable third party | Greens | - | - | Centre-left Liberals | Left-wing New Democrat Party, | Other nationalist parties | - |
+| Founding Waves |  |  |  |  |  |  |  |
+| Main Wave | Labourists, | Americans, | Labourist, | Labourists, | Loyalists, Reformers, | New France, | Loyalists, |
+| Other waves | some Americans | some Labourists | some Americans | some Loyalists and Reformers | some Labourists | some Loyalists and Reformers | some pre-Loyalists, New France |
 
 The most common response to kind of thesis is that “its the political economy, stupid”. Sure, the configurations above align with self-interest, such as when Atlantic Canada’s ‘dependency’ makes them hostile to privatisation or when Alberta’s economic growth and resource economy fuels its distrust of government. At the same time, Wiseman tells us to keep two things in mind.
 
@@ -182,8 +91,7 @@ While they were ultimately reduced in power and size, the main political descend
 
 Perhaps the most interesting consequence of Loyalist heritage is in Ontario’s total rejection of the fact that it is a separate identity in itself. It certainly helps that Ontario has often served as the ‘imperial capital’. For example, turnout in federal elections is higher than for provincial elections despite the fact that the latter matters more materially to voters. Ontarians are least likely to think they are mistreated by the federal government. They are also more likely to think the electoral system is fair despite the fact that their density, like all populated areas, gets penalised. They also appear, regardless of party in power, lukewarm to appeals of regional resentment. Likewise, Ontarian leaders have always seen and played an important role in national unity discussions. The conserative premier Davis worked closely with the Federal Liberals on these great constitutional debates despite the ideological misalignment and encroachment on provincial matters.
 
-*\*\*\*\*\*\*\*\*\*
-
+* * *
 Like any academic, Wiseman likes to focus on the debate that I suppose few Canadians would care much about. However, a key puzzle that captivated even [American](https://www.amazon.ca/AGRARIAN-SOCIALISM-S-M-Lipset/dp/B0000CHU7V) scholars such as Hartz and Lipset, is the absence of ‘socialism’ in the United States and its presence in Canada. Of the two Loyalist settlements above, the Social Democratic NDP only rose in influence in the province that had other inflows. Despite Horowitz’s belief that ‘social democracy in canada is proportional to its loyalist heritage’; it appears that Atlantic Canada did not result in social democracy. It just sort of congealed into place as one would expect with cultural ‘genetic drift’. In other words, Atlantic Canada appears to falsify Horowitz despite its heavy load of loyalists. The one exception that proves the rule is Cape Breton and its history of labour action in coal mines. There were bitter strikes in the 1920s and even a brief Labour Party that came from good ol’ 'factionalism. Wiseman notes that much of Cape Breton’s miners were recent (particularly Scottish) immigrants from Britain who came in the early 1900s and brought a ‘class consciousness’ commonplace in British coal mines.
 
 ## II - Reform(ers) comes to Ontario in the 19th Century
@@ -250,8 +158,7 @@ Wiseman views British Columbia as Canada’s Australia. Both were settled in the
 
 The resulting political culture was one of factional and class-tinged conflict between left-wing labour and right-wing entrepreneurial classes. As late as in a 1980s survey, two-thirds of the province said that provincial elections are contests between free enterprise and socialism”, which Wiseman suggests is one of the sharpest left-right bipolarities in English North America. As in the prairies, much of this was driven by British emigres and migrants. In 1941, nine of the fourteen provincial CCF-NDP representatives were British immigrants. As in the prairies, much of the non-socialist forces were often either Ontario extraction or sometimes American. These left-right battles meant that the anti-socialist forces consolidated very quickly. Prior to the current BC Liberal Party (which is definitely not ‘anti-socialist’ in other regions), Social Credit - a right-wing populist party that had both Albertan and federal purchase - was the CCF’s main sparring partner, and before them, Liberal-Conservative Coalition governments. This created some odd bedfellows, as Wiseman points out that one Social Credit Caucus included a former Federal Liberal minister, a future Conservative Prime Minister, and a future Social Credit premier-turned conspiracy theorist. Now, the BC Liberals itself include former Conservatives, Liberals, Reform, and Social Credit members.
 
-*\*\*\*\*\*\*\*\*\*
-
+* * *
 The modern legacy of this Labourist Wave is clearly the NDP and the social democratic movement. This wave in the context of electoral and institutional federalism, along with the sequencing of settlement, resulted in Sasketwachan having the first ‘social democratic’ government in North America. After his success as the CCF premier of Saskatchewan, the federal growth of its viable third party was driven by Tommy Douglas. However, to take an aside from this book, it appears that the ‘arrival’ of social democracy has led to elections west of Ontario to have an ideological and partisan tenor characterised by social democrats and anti-socialist factions fighting it out for government as seen in places like Britain or Australia. In Manitoba, the main anti-sociaist faction is the Conservatives, in Saskatchewan it is the Conservatives-turned Saskatchewan Party, and in British Columbia the Liberals. This ‘return to history’ and alignment with the other world’s electoral conflict has been in [motion](https://www.ubcpress.ca/the-canadian-party-system) [since](https://www.cpsa-acsp.ca/documents/conference/2019/334.Johnston.pdf) those Clyde mechanics came to Canada.
 
 NDP is the only party in Canada that has formal linkages between its provincial and its federal counterparts. It is a party of cadres, fitting for a movement started by a bunch of British social gospel preachers and socialist intellectuals. The Liberals and Conservatives certainly have their own linkages, and politicians and staffers often switch between jurisdictions. However, it is more informal. For example, the recent Nova Scotia premier made it clear that he _wasn’t a_ card-carrying member of the Federal Conservatives, given the province’s ‘red tory’ disposition. Jean Charest, once the leader of the Federal Conservatives, was also a Quebec Liberal Premier for almost a decade after. In contrast, as various NDP governments came into power across provinces, party members would often take jobs either in cabinet or behind the scenes to help build ‘socialism in one province’ once they won power.
@@ -276,8 +183,7 @@ If Ontario resembles the Anglican Church with its ordered liberty and the Prairi
 
 In contrast to British Columbia’s partisan turbulence, Albertan political history has been driven by various populist-third party dynasties led by conservative charismatic leaders in power for long periods of time.After the initial Liberal reign common to all provinces until 1921, Alberta had the left-populist United Farmers for 14 years, followed by 36 years of the conservative populist Social Credit, then the Progressive Conservatives for 44 years who fought with Ottawa,a brief interlude with the NDP for 4 years, and now the United Conservatives. In comparison, Ontario had a Liberal, Conservative, and NDP government right after each other, from 1985 to 1995.
 
-*\*\*
-
+* * *
 The obvious legacy of this wave is the right-wing populist streak of Canadian politics found primarily out west. In an era of megaconsitutional debates and regional resentment, the Reform-Alliance party had significant influence in national debates. Wiseman notes that like Ontarians, Albertans are much more seized with federal elections in terms of turnout but it seems to be for the opposite reason, in that they identify so _little_ with the federal government. Provincially, Wiseman also believes that only Quebec and Alberta tend to see their premiers not as just stewards but as their societal representatives on the national and sometimes international stage. Albertan premiers often fought with the federal government over issues such as powers of disallowance, the National Energy Policy, the megaconsitutional debates, and environmental policy more recently. It is the belief that Confederation is _unfair_ that leads to threats of secession, a sort of “you left us no choice” response.
 
 When this western populism merged with the Progressive Conservatives and prevented vote-splitting, the main legacy is the obvious tension in outlook and political base of two traditions of the Party. For example, it's interesting to compare how the federal Liberals and Conservatives have dealt with their times in the wilderness in the last two decades. The Liberals, after the Chretien era, kept looking to find their perfect mix of technocrat and mass appeal, until they just doubled down on picking another actual Trudeau. The Conservatives, in contrast, have had tough political debates about the ‘soul of the party’ and what Canadian conservatism is and should be. In what should be quite familiar for Americans, these party contests are often about how best to balance loyalty to the base and ‘electability’.

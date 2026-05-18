@@ -1,5 +1,5 @@
 ---
-title: 'The Zoologist''s Guide to the Galaxy, by Arik Kershenbaum'
+title: The Zoologist's Guide to the Galaxy, by Arik Kershenbaum
 author: Unknown
 reviewAuthor: Anonymous
 contestId: 2024-book-reviews
@@ -9,8 +9,7 @@ publishedDate: '2026-02-06T16:49:50.817Z'
 slug: the-zoologists-guide-to-the-galaxy-by-arik-kershenbaum
 wordCount: 2153
 readingTimeMinutes: 10
-originalUrl: >-
-  https://docs.google.com/document/d/1Ki5XsE0jkxZtd2XAeyTAJw1ZjLh2Cu-matUYKAhA6-s
+originalUrl: https://docs.google.com/document/d/1Ki5XsE0jkxZtd2XAeyTAJw1ZjLh2Cu-matUYKAhA6-s
 source: gdoc
 tags:
   - Biology
@@ -31,7 +30,7 @@ Instead, I’d like to introduce to you The Zoologist’s Guide to the Galaxy, b
 
 So I will not be summarising the book here, sorry. This will not be a typical Astral Codex Ten book review submission. I will not by writing a 10k word essay. I respect your time too much. (I don’t have time to write a 10k word essay). This will actually be a somewhat more traditional book review. I’ll lay out the Big Idea and hint at the implications. I’ll put in some quotes to show that Kershenbaum’s prose values clarity and avoids hyperbole. But really I won’t do it justice. Thinking about aliens really needs a zoologist. Or at least an evolutionary biologist. Of which, I’m neither! I will try my best to convince you to buy his book. This will be a challenge as, we now know, no-one buys books these days.
 
-![](https://acximages.ennals.org/images/2024-book-reviews/59558d6deb0bee6d.png)
+![](https://acximages.ennals.org/images/2024-book-reviews/6acca61f01c04dea.png)
 
 ## Premise
 

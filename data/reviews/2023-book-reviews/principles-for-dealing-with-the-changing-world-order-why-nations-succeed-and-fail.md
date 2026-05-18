@@ -1,16 +1,16 @@
 ---
-title: "Principles for Dealing with the Changing World Order: Why Nations Succeed and Fail"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2023-book-reviews"
-contestName: "2023 Book Reviews"
+title: 'Principles for Dealing with the Changing World Order: Why Nations Succeed and Fail'
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2023-book-reviews
+contestName: 2023 Book Reviews
 year: 2023
-publishedDate: "2023-01-01T00:00:00.000Z"
-slug: "principles-for-dealing-with-the-changing-world-order-why-nations-succeed-and-fail"
-wordCount: 6441
+publishedDate: '2023-01-01T00:00:00.000Z'
+slug: principles-for-dealing-with-the-changing-world-order-why-nations-succeed-and-fail
+wordCount: 6401
 readingTimeMinutes: 29
-originalUrl: "https://docs.google.com/document/d/1vci14HMZ2UEJBs6mKCZZ2vHs-jVuPSsFsiN3cAENzXU"
-source: "gdoc"
+originalUrl: https://docs.google.com/document/d/1vci14HMZ2UEJBs6mKCZZ2vHs-jVuPSsFsiN3cAENzXU
+source: gdoc
 tags:
   - Economics
   - History
@@ -33,16 +33,16 @@ Dalio claims to have found timeless and universal principles that will allow the
 
 Dalio studied nine countries (the Netherlands, Great Britain, the US, China, Germany, France, Russia, India, and Japan) between 1500 and 2000 and found that the historical Great Powers (which he identifies as the Netherlands, Great Britain, the US, and China) shared a strikingly similar rise and fall pattern:
 
-> *   During their rise, society was united, well-educated and hardworking, and the nation used technological innovation and military power, fueled by capitalism, to outcompete rivals.  
-> *   At their pinnacle the population begins to consume in excess, their competitive advantage starts to wane, they face rising inequality and political upheaval, and they take on increasing amounts of debt to maintain the status quo.
-> *   These fundamental problems lead them to become internally divided, overextended, and over indebted, which combine to cause an irreversible decline.
+*   During their rise, society was united, well-educated and hardworking, and the nation used technological innovation and military power, fueled by capitalism, to outcompete rivals.  
+*   At their pinnacle the population begins to consume in excess, their competitive advantage starts to wane, they face rising inequality and political upheaval, and they take on increasing amounts of debt to maintain the status quo.
+*   These fundamental problems lead them to become internally divided, overextended, and over indebted, which combine to cause an irreversible decline.
 
 He argues that “because [the 18 steps to a rise and fall] unfold in a logical sequence of timeless and universal cause/effect relationships, it is possible to create a health index of where a country stands by looking at these measures.” (53)
 
 And when he tests where the US and China exist within this model he concludes that:
 
-> 1.  the world order is changing, from US led to Chinese led and
-> 2.  that he has found historical patterns strong enough to predict the future.
+1.  the world order is changing, from US led to Chinese led and
+2.  that he has found historical patterns strong enough to predict the future.
 
 So, will China overtake the US?    _Yes_
 
@@ -56,24 +56,22 @@ TLDR: In case you don’t have the time or inclination to read his book, you can
 
 At the core of his model are:
 
-> *   Three Big Cycles
->
-> *   Money, Credit, Debt, and Economic Activity
-> *   Internal Order
-> *   External Order
+*   Three Big Cycles
+    *   Money, Credit, Debt, and Economic Activity
+    *   Internal Order
+    *   External Order
 
 That interact with:
 
-> *   Eight Key Determinants
->
-> *   Education
-> *   Innovation & Technology
-> *   Cost Competitiveness
-> *   Military Strength
-> *   Trade
-> *   Economic Output
-> *   Markets and Financial Center
-> *   Reserve Currency Status
+*   Eight Key Determinants
+    *   Education
+    *   Innovation & Technology
+    *   Cost Competitiveness
+    *   Military Strength
+    *   Trade
+    *   Economic Output
+    *   Markets and Financial Center
+    *   Reserve Currency Status
 
 Less important determinants, other factors, plus bonus content are included at the end.
 
@@ -143,7 +141,7 @@ Lastly, this external conflict cycle interacts with Dalio’s other cycles, beca
 
 Over the past 500 years, Dalio identifies three big cycles of rising and declining conflict, averaging around 150 years each. (195) And he claims that a relatively long period of peace and prosperity sows “the seeds for terrible and violent external wars.” (196)
 
-![](https://acximages.ennals.org/images/2023-book-reviews/abdaac4f337f482c.png)
+![](https://acximages.ennals.org/images/2023-book-reviews/86f58c1795f72950.png)
 
 Ah, peace – causing war again!
 
@@ -167,7 +165,7 @@ But Dalio also claims that these cycles and determinants are timeless and univer
 
 So, what does the Changing World Order look like more broadly and historically?
 
-![](https://acximages.ennals.org/images/2023-book-reviews/44e192eb49f454a2.png) 
+![](https://acximages.ennals.org/images/2023-book-reviews/baf81b71548d1dff.png) 
 
 Dalio states that the indices of wealth and power are a composite of his eight key determinants and are:
 
@@ -191,16 +189,16 @@ Economist [Murray N. Rothbard](https://archive.lewrockwell.com/rothbard/rothbard
 
 This makes Spain a particularly glaring omission from Dalio’s main analysis, as:
 
-> 1.   Spain’s green dashed line does briefly reach the top spot,
-> 2.  Dalio states Habsburg Empire (Spain + Netherlands + Austria + Hungary) was the biggest power in Europe in 1500, (246) and
-> 3.  the [Spanish silver dollar](https://nationalinterest.org/feature/the-silver-way-explains-how-the-old-mexican-dollar-changed-20410) was a global reserve currency for several centuries.
+1.   Spain’s green dashed line does briefly reach the top spot,
+2.  Dalio states Habsburg Empire (Spain + Netherlands + Austria + Hungary) was the biggest power in Europe in 1500, (246) and
+3.  the [Spanish silver dollar](https://nationalinterest.org/feature/the-silver-way-explains-how-the-old-mexican-dollar-changed-20410) was a global reserve currency for several centuries.
 
 And Dalio knows this! He mentions that in the late 16th century even certain parts of China used Spanish silver dollars. (386)  So there is of course no reason to worry about something like selection bias or sample size.  /s
 
 Especially not when there is a great deal of variance within the data.
 
-> *   “Great empires typically lasted roughly 250 years, give or take 150 years” (14)
-> *   “big economic, debt, and political cycles … lasting about 50 to 100 years” (15)
+*   “Great empires typically lasted roughly 250 years, give or take 150 years” (14)
+*   “big economic, debt, and political cycles … lasting about 50 to 100 years” (15)
 
 But the crux of Dalio’s argument is that the rise and fall of each of these Great Powers is made up of many smaller cause-and-effect relationships.  He claims that each of these smaller interactions is verifiable, universal and timeless. If A + B = C in 1500, A + B = C in 2023.
 
@@ -240,12 +238,12 @@ Going all the way back to ancient history, much of the world’s economic activi
 
 The key determinants for that type of economic success might include:
 
-> *   arable land,
-> *   people to work the land,
-> *   industry to provide farm tools and turn agricultural products into more useful goods (leather into shoes, wool fibers into clothing),
-> *   commerce to facilitate the production, transport, and sale of agricultural goods,
-> *   the cooperation of local elites to allow delegation of authority,
-> *   and finally a military force to protect your land and extract taxes from the people.
+*   arable land,
+*   people to work the land,
+*   industry to provide farm tools and turn agricultural products into more useful goods (leather into shoes, wool fibers into clothing),
+*   commerce to facilitate the production, transport, and sale of agricultural goods,
+*   the cooperation of local elites to allow delegation of authority,
+*   and finally a military force to protect your land and extract taxes from the people.
 
 When Dalio introduces us to the world in 1500 (or more precisely 1504), he states that Europe’s most powerful empire was the Habsburg dynasty and that the world’s most powerful, wealthy, and advanced empire was Ming China. (246-247)  Both primarily relied on this traditional economic model.  
 
@@ -255,13 +253,13 @@ So, let’s try and make a prediction by using these historical key determinants
 
 The year is 1574.  Try to guess which European power I am talking about and what will happen to it.
 
-> *   One of the largest countries in Europe in terms of land and population
-> *   Great agricultural wealth from large-scale cultivation by peasants tied to the land
-> *   Possesses many trade ports and is a major exporter of agricultural products
-> *   Strong military that is famous for its cavalry
-> *   A cultural leader, its language is used as the common language of the region
-> *   Mostly Catholic but marked by relative religious and ethnic tolerance
-> *   A stable, but decentralized government characterized by powerful local elites
+*   One of the largest countries in Europe in terms of land and population
+*   Great agricultural wealth from large-scale cultivation by peasants tied to the land
+*   Possesses many trade ports and is a major exporter of agricultural products
+*   Strong military that is famous for its cavalry
+*   A cultural leader, its language is used as the common language of the region
+*   Mostly Catholic but marked by relative religious and ethnic tolerance
+*   A stable, but decentralized government characterized by powerful local elites
 
 This isn’t a trick question: it will flourish. This is the beginning of the Polish-Lithuanian Commonwealth’s golden age, which would last for another 75 years.  So far, Dalio’s methodology of extrapolating from the past looks good, as the Commonwealth was able to apply the lessons of the past to great effect!
 
@@ -337,8 +335,8 @@ One theory, convincingly argued by Ian Morris, in _[Why the West Rules – for N
 
 Paul Kennedy examined the same period as Dalio, but instead highlights:
 
-> 1.  Nations constantly face tradeoffs between spending on guns (troops, weapons, planes), butter (consumer goods, hospitals, parks), or investment in future economic growth.
-> 2.  And that the political diversity, fragmentation, and competition within Europe spurred innovation, capitalism, and a massive arms race that led to a “gunpowder revolution” and colonialism.
+1.  Nations constantly face tradeoffs between spending on guns (troops, weapons, planes), butter (consumer goods, hospitals, parks), or investment in future economic growth.
+2.  And that the political diversity, fragmentation, and competition within Europe spurred innovation, capitalism, and a massive arms race that led to a “gunpowder revolution” and colonialism.
 
 This tradeoff is vividly brought home by a speech from US President Dwight D. Eisenhower:
 
@@ -378,8 +376,8 @@ Dalio is building upon a lot of his own prior research into global economic heal
 
 You can find Dalio’s supporting charts online [here](https://www.economicprinciples.org/DalioChangingWorldOrderCharts.pdf). Below are his full model inputs.
 
-![](https://acximages.ennals.org/images/2023-book-reviews/c7d59aef599f131c.png)
+![](https://acximages.ennals.org/images/2023-book-reviews/45685df4b1ace583.png)
 
 And
 
-![](https://acximages.ennals.org/images/2023-book-reviews/70f8cc9fee526d86.png)
+![](https://acximages.ennals.org/images/2023-book-reviews/38227d9c9c683ae6.png)

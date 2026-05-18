@@ -1,16 +1,16 @@
 ---
-title: "The Discarded Image: An Introduction to Medieval and Renaissance Literature"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2023-book-reviews"
-contestName: "2023 Book Reviews"
+title: 'The Discarded Image: An Introduction to Medieval and Renaissance Literature'
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2023-book-reviews
+contestName: 2023 Book Reviews
 year: 2023
-publishedDate: "2023-01-01T00:00:00.000Z"
-slug: "the-discarded-image-an-introduction-to-medieval-and-renaissance-literature"
-wordCount: 4004
+publishedDate: '2023-01-01T00:00:00.000Z'
+slug: the-discarded-image-an-introduction-to-medieval-and-renaissance-literature
+wordCount: 3991
 readingTimeMinutes: 18
-originalUrl: "https://docs.google.com/document/d/1AtGIIv371v0Yu35eNsIxJr67dw4SHOiGdKrqmoKt2hg"
-source: "gdoc"
+originalUrl: https://docs.google.com/document/d/1AtGIIv371v0Yu35eNsIxJr67dw4SHOiGdKrqmoKt2hg
+source: gdoc
 tags:
   - History
   - Fiction
@@ -42,7 +42,7 @@ Medieval authors were a pack of gigantic nerds, and they were all part of the sa
 
 Naturally you can’t put together hundreds of almost random surviving books from multiple authors and ages, Pagan and Christian, Greek and Roman, fiction and non-fiction, without having a multiplicity of contradictions. In order to fit them all into the same Model (into a_shared universe_, you might say) the contradictions would need to be explained away. What you end up with is an understanding of reality that is both entirely derivative yet an original work of art in its own right. Lewis writes:
 
->         _[The Model] is vast in scale, but limited and intelligible. Its sublimity is not the sort that depends on anything vague or obscure…Its contents, however rich and various, are in harmony. We see how everything links up with everything else; at one, not in flat equality, but in a hierarchical ladder. It might be supposed that this beauty of the Model was apparent chiefly to us who, no longer accepting it as true, are free to regard it–or reduced to regarding it–as if it were a work of art. But I believe this is not so. I think there is abundant evidence that it gave profound satisfaction while it was still believed in. I hope to persuade the reader not only that this Model of the Universe is a supreme medieval work of art but that it is in a sense the central work, that in which most particular works were embedded, to which they constantly referred, from which they drew a great deal of their strength._
+> _[The Model] is vast in scale, but limited and intelligible. Its sublimity is not the sort that depends on anything vague or obscure…Its contents, however rich and various, are in harmony. We see how everything links up with everything else; at one, not in flat equality, but in a hierarchical ladder. It might be supposed that this beauty of the Model was apparent chiefly to us who, no longer accepting it as true, are free to regard it–or reduced to regarding it–as if it were a work of art. But I believe this is not so. I think there is abundant evidence that it gave profound satisfaction while it was still believed in. I hope to persuade the reader not only that this Model of the Universe is a supreme medieval work of art but that it is in a sense the central work, that in which most particular works were embedded, to which they constantly referred, from which they drew a great deal of their strength._
 
 To examine all the elements of the Model in detail would take a book: namely, the book I’m reviewing. Let's look at the model at its broadest and biggest, ignoring for now the fact that if we zoom in on any part we’ll find it filled with intricate detail.
 
@@ -54,22 +54,22 @@ The medievals got almost their entire understanding of the physical universe, an
 
 The rest of the universe follows a similar principle and is also divided into layers. The heavens are made up of 9 concentric spheres, each one housing a celestial body. From top to bottom the order is as follows:
 
-> 1.  The _Primum Mobile_, which is the outermost part of the universe and rotates, which drives the movement of all the layers beneath it.
-> 2.  The _Stellatum_ which contains all the “fixed” stars. These are the stars that don’t move relative to each other when observed with the naked eye. They are in contrast to the “planets” which are stars that move relative to the fixed stars and to each other.
-> 3.  Saturn
-> 4.  Jupiter
-> 5.  Mars
-> 6.  The Sun
-> 7.  Venus
-> 8.  Mercury
-> 9.  The Moon
+1.  The _Primum Mobile_, which is the outermost part of the universe and rotates, which drives the movement of all the layers beneath it.
+2.  The _Stellatum_ which contains all the “fixed” stars. These are the stars that don’t move relative to each other when observed with the naked eye. They are in contrast to the “planets” which are stars that move relative to the fixed stars and to each other.
+3.  Saturn
+4.  Jupiter
+5.  Mars
+6.  The Sun
+7.  Venus
+8.  Mercury
+9.  The Moon
 
 However, the layers don’t stop there! Everything below the Moon is made of the four elements, and these elements also stack themselves in layers based on their “purity”. The layers of Nature were:
 
-> 10.  Fire
-> 11.  Air
-> 12.  Water
-> 13.  Earth
+10.  Fire
+11.  Air
+12.  Water
+13.  Earth
 
 The order of air, water, and earth makes sense. After all, if you put dirt, water, and air in a jar you’ll quickly find that they sort themselves into the same order. Fire throws us off a bit: if there was a layer of fire between ourselves and the Moon, then why isn’t the sky glowing like a flame? The answer is that they believed the bright flames we see in a campfire or a candle are actually impure fire. The burning wood or wax are made of other elements as well as fire, and flames occur when those “impure” elements are cast away. Pure fire is transparent and quickly rises upwards through the air to find its proper layer. Anyone who has seen the visible distortion of hot air rising off a campfire can understand how they came to this belief.
 

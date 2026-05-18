@@ -7,10 +7,9 @@ contestName: 2021 Book Reviews
 year: 2021
 publishedDate: '2026-02-06T07:21:29.564Z'
 slug: consciousness-explained-by-daniel-dennett
-wordCount: 5864
+wordCount: 5860
 readingTimeMinutes: 27
-originalUrl: >-
-  https://docs.google.com/document/d/1xexFJ7h0vULMDE7N77q_MIzXoerexfe_CqqGEL6hEoQ
+originalUrl: https://docs.google.com/document/d/1xexFJ7h0vULMDE7N77q_MIzXoerexfe_CqqGEL6hEoQ
 source: gdoc
 tags:
   - Philosophy
@@ -137,7 +136,7 @@ As you attempt to solve these sorts of puzzles, it may feel like you are rotatin
 
 Things start to get interesting when we consider simple variations of this experiment. Perhaps the most famous is the [Thatcher Effect](https://en.wikipedia.org/wiki/Thatcher_effect) where our random assortment of blocks is replaced with a human face. The result is that local changes to the face are significantly harder to detect when the face is turned upside-down. Here is an example with Adele:
 
-![](https://acximages.ennals.org/images/2021-book-reviews/57eba2d306b754f9.png)[Source](https://www.psychologyinaction.org/psychology-in-action-1/2016/03/07/adele-and-the-margaret-thatcher-effect) 
+![](https://acximages.ennals.org/images/2021-book-reviews/507ff0a2a0dd8994.png)[Source](https://www.psychologyinaction.org/psychology-in-action-1/2016/03/07/adele-and-the-margaret-thatcher-effect) 
 
 In this example, Adele’s eyes and mouth have locally been flipped upside-down. This is obvious, and quite disturbing, when we look at the image on the right, but less so for the rotated version on the left. If we truly possessed the ability to rotate images in our mind’s eye, shouldn’t we be able to mentally rotate the image on the left by 180 degrees and experience the same reaction that we do to the one on the right?
 
@@ -213,10 +212,10 @@ To conclude, here is a quote from the book in which Dennett provides a “thumbn
 
 * * *
 
-> 1.  Shepard, Roger N., and Jacqueline Metzler. “Mental rotation of three-dimensional objects.” _Science_ 171.3972 (1971): 701-703. [↩](https://www.daniellowengrub.com/blog/2020/02/08/consciousness-explained#fnref:Shepard)
-> 2.  Sayeki Y (1981) “Body analogy” and the cognition of rotated figures. _The Quarterly Newsletter of the Laboratory of Comparative Human Cognition_ [↩](https://www.daniellowengrub.com/blog/2020/02/08/consciousness-explained#fnref:Sayeki)
-> 3.  Jackson, Frank (1982). “Epiphenomenal Qualia”. _The Philosophical Quarterly_. 32 (127): 127–136 [↩](https://www.daniellowengrub.com/blog/2020/02/08/consciousness-explained#fnref:Mary)
-> 4.  Welbourne, Lauren E., Antony B. Morland, and Alex R. Wade. “Human colour perception changes between seasons.” _Current Biology_ 25.15 (2015): R646-R647. [↩](https://www.daniellowengrub.com/blog/2020/02/08/consciousness-explained#fnref:Seasons)
+1.  Shepard, Roger N., and Jacqueline Metzler. “Mental rotation of three-dimensional objects.” _Science_ 171.3972 (1971): 701-703. [↩](https://www.daniellowengrub.com/blog/2020/02/08/consciousness-explained#fnref:Shepard)
+2.  Sayeki Y (1981) “Body analogy” and the cognition of rotated figures. _The Quarterly Newsletter of the Laboratory of Comparative Human Cognition_ [↩](https://www.daniellowengrub.com/blog/2020/02/08/consciousness-explained#fnref:Sayeki)
+3.  Jackson, Frank (1982). “Epiphenomenal Qualia”. _The Philosophical Quarterly_. 32 (127): 127–136 [↩](https://www.daniellowengrub.com/blog/2020/02/08/consciousness-explained#fnref:Mary)
+4.  Welbourne, Lauren E., Antony B. Morland, and Alex R. Wade. “Human colour perception changes between seasons.” _Current Biology_ 25.15 (2015): R646-R647. [↩](https://www.daniellowengrub.com/blog/2020/02/08/consciousness-explained#fnref:Seasons)
 
 * * *
 

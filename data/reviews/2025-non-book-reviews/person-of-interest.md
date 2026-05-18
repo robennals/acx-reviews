@@ -9,8 +9,7 @@ publishedDate: '2025-01-01T00:00:00.000Z'
 slug: person-of-interest
 wordCount: 6447
 readingTimeMinutes: 29
-originalUrl: >-
-  https://docs.google.com/document/d/17WAcFrTOExgendrk2lGTxRIR4LVC3ZGbiU5Xe3kF4mg
+originalUrl: https://docs.google.com/document/d/17WAcFrTOExgendrk2lGTxRIR4LVC3ZGbiU5Xe3kF4mg
 source: gdoc
 tags:
   - Fiction
@@ -43,7 +42,7 @@ So Finch brings the money, the forewarning and the technical skills, while Reese
 
 If you take nothing else away from this review, take away the fact that _Person of Interest_ is Good TV. The show doesn’t squander its premise into predictability the way other procedurals sometimes do; the show is always doing something interesting and new with its premise; Episodes are _memorable_, with the freedom of the premise and the show’s relatively short run meaning that no twist is ever repeated. The blend of wonky, well-researched science fiction in the style of Stephenson and verisimilar but action-packed spy fiction à la Clancy lends itself well to twists and turns that make more and more sense the longer you think about them. Dialogue can be mechanical and workmanlike at times— usually in service of efficient exposition— but when it has a chance to breathe, it sings, elevated by the performances of its extremely talented cast[8].
 
-![](https://acximages.ennals.org/images/2025-non-book-reviews/cbf062c58c5c1351.png)
+![](https://acximages.ennals.org/images/2025-non-book-reviews/6fc9d0b7362ee95f.png)
 
 _Thanks to_ _[norvicfiddler](https://norvicfiddler.tumblr.com/)_ _on Tumblr for these screencaps._
 
@@ -53,7 +52,7 @@ The show is also a visual treat, especially in the modern era dominated so heavi
 
 _Some scenes I can only describe as painterly._
 
-![](https://acximages.ennals.org/images/2025-non-book-reviews/f5dcb9848229bb45.png)
+![](https://acximages.ennals.org/images/2025-non-book-reviews/5fd7cf0caeb03701.png)
 
 _Finch’s Machine was by hackers, for hackers, and it reflects this in terminal-like UI design. It’s little details like this, where you get the sense that the writers sat down and thought hard about what the natural consequences of their conceit would be, that make the world of Person of Interest so compelling to me._
 
@@ -85,7 +84,7 @@ Her foil, **Detective Lionel Fusco** (Kevin Chapman) is similarly introduced as 
 
 You might notice that I’ve described our heroes a bit weirdly, almost as buckets of identities instead of, well, characters. Each of our protagonists is a compelling character in their own right, but like other superhero stories they’re also representative paragons of American values. Edward Nevraumont argued, in his [2024 book review of silver-age Marvel comics](https://www.astralcodexten.com/p/your-book-review-silver-age-marvel), that superheroes serve as a modern-day mythological foundation. Batman, Spider-man, Iron Man, Superman; they’re compelling characters, but they all represent an archetype and the virtues we believe those archetypes represent— Justice, responsibility, innovation, the American Way.
 
-![](https://acximages.ennals.org/images/2025-non-book-reviews/e3f266056ac896cd.png)
+![](https://acximages.ennals.org/images/2025-non-book-reviews/c17758398e768df0.png)
 
 _Supes is as American as they come; he’s also a Jewish-coded literal-alien immigrant. There’s no tension between these two statements because that’s the thesis of Superman: that ideals like immigration and tolerance were a core part of the American identity._
 

@@ -7,10 +7,9 @@ contestName: 2025 Non Book Reviews
 year: 2025
 publishedDate: '2026-02-06T16:55:59.407Z'
 slug: which-sports-why-sports
-wordCount: 2166
+wordCount: 2165
 readingTimeMinutes: 10
-originalUrl: >-
-  https://docs.google.com/document/d/1jYVJFIz5-aMi0LCgsC9AN6BncJDNVGaMU37QmwZ1vzA
+originalUrl: https://docs.google.com/document/d/1jYVJFIz5-aMi0LCgsC9AN6BncJDNVGaMU37QmwZ1vzA
 source: gdoc
 tags:
   - Society
@@ -20,9 +19,9 @@ Are you a sports person? If so, which ones and why? If not, what specific activi
 
 Three parts to this:
 
-> 1.  My brief philosophy. Why I care.
-> 2.  Practical overview. What could normal people do and how do I rate the available options?
-> 3.  Review of the major team sports in the US. Brief observations on fandom and the craziness of sports/humans.
+1.  My brief philosophy. Why I care.
+2.  Practical overview. What could normal people do and how do I rate the available options?
+3.  Review of the major team sports in the US. Brief observations on fandom and the craziness of sports/humans.
 
 *
 
@@ -120,8 +119,7 @@ Baseball is greatly aided by playing on a team with your buddies, even though it
 
 I don't have anything novel to say on other sports not listed. But I'm sure they are great too. That's kind of the point of this whole thing. Find a thing and do it. And maybe try another thing too.
 
-*\*\*
-
+* * *
 ## Team Sports
 
 It's too bad that the adult world basically fails at allowing opportunities to play most team sports (in a setting that is any fun at all). If you're lucky, maybe you can find a good pick-up basketball league, but most likely you're relegated to watching the professionals or coaching the kids at this stage. This observation says something about the world – yes these are games, and maybe there are better 'games' to play. Like working and researching and using your brain to earn money and/or create things for the world. You know, those games with less clear, longer feedback loops, but much greater positive externalities for the world (hopefully).

@@ -7,10 +7,9 @@ contestName: 2025 Non Book Reviews
 year: 2025
 publishedDate: '2026-02-06T16:52:48.892Z'
 slug: einsteins-world-view-review
-wordCount: 3887
+wordCount: 3862
 readingTimeMinutes: 18
-originalUrl: >-
-  https://docs.google.com/document/d/1d0vRSj1E93joWWvbUen2XGuDjN_mM94ybMIAADzM2fo
+originalUrl: https://docs.google.com/document/d/1d0vRSj1E93joWWvbUen2XGuDjN_mM94ybMIAADzM2fo
 source: gdoc
 tags:
   - Philosophy
@@ -21,17 +20,17 @@ tags:
 
 Einstein might be the world's most famous scientist, but his thoughts about topics outside physics don’t get as much recognition as they deserve in my view. Einstein wrote quite extensively about the issues of his day and, as I hope to show, those writings are interesting in their own right. The period between 1905 when Einstein, at the age of 26, first came to global fame after making numerous scientific discoveries in  what’s been termed his “miracle year”, and his death in 1955 is perhaps the most eventful 50-year period ever in history, encompassing events such as:
 
-> *   WW1 and WW2
-> *   The adoption of mass public education in the West
-> *   The Great Depression
-> *   The founding of Israel as a state
-> *   The rise of the Nazi party
-> *   The Russian Revolution and the establishment of the USSR
-> *   The Holocaust
-> *   The development of nuclear weapons and the MAD doctrine
-> *   The start of the Cold War
-> *   Mass adoption of radios, television, and the advent of mass media
-> *   Rapid scientific and technological advances
+*   WW1 and WW2
+*   The adoption of mass public education in the West
+*   The Great Depression
+*   The founding of Israel as a state
+*   The rise of the Nazi party
+*   The Russian Revolution and the establishment of the USSR
+*   The Holocaust
+*   The development of nuclear weapons and the MAD doctrine
+*   The start of the Cold War
+*   Mass adoption of radios, television, and the advent of mass media
+*   Rapid scientific and technological advances
 
 Einstein commented on these events with a rare clarity and scope of thought, and was even personally involved in several of them. His thoughts are certainly of historical interest and many still hold relevance to contemporary issues. At the very least they’re a worthwhile glimpse into the broader worldview of arguably history’s greatest mind.
 
@@ -139,23 +138,23 @@ The central divide in socialist thought in the first half of the 20th century wa
 
 In the essay _Why Socialism_ he lists his main objections to the then-existing capitalist economy as:
 
-> *   Capitalism allowed income to be gained through the ownership of property, that income could in turn be reinvested into acquiring more property leading to an even larger stream of income which could be invested into yet more property. That feedback loop allowed established capitalists to expand their portfolio over time without limit, and the capitalist class as a whole to appropriate an ever expanding proportion of national wealth and income. Without sufficient redistribution Einstein suspected that such a run-away feedback loop would eventually reduce the share of national income of workers to the lowest possible level, the level of subsistence wages he had witnessed among peasants in China and India.
->
-> *   He feared capitalism limited intellectual freedom and prevented honest discussion of alternative systems because capitalists inevitably come to control, directly or indirectly, the main sources of information including the press, radio and the education system, making it “_extremely difficult [...] for the individual citizen to come to objective conclusions and to make intelligent use of his political rights._” He also insinuates that academic economics was under some degree of influence by capital and likened economists to priests of the medieval church who “_made the class division of society into a permanent institution and created a system of values by which the people were thenceforth, to a large extent unconsciously, guided in their social behavior._”  
->
-> *   Capitalists might come to directly influence or control political parties themselves.
->
-> *   Capitalist economies are anarchic and uncoordinated leading to inefficiency and waste lowering growth.
->
-> *   Capitalism eroded social trust and bonds. Einstein thought that individuals are necessarily dependent on the wider community and the division of labour to provide their economic means because no single person can run an industrialized economy alone, but that capitalism attempted to obscure this fact by providing an illusory form of individualism and caused people to view this dependency as a threat to their individual rights and prosperity rather than an “organic tie”, or as a “protective force”, which he considers a healthier, more pro-social and more accurate view of the individual's place in large-scale industrial society. Einstein described capitalism as part of the “predatory stage” of civilization and thought that for a man who lives by competition in the market the “_egotistical drives of his make-up are constantly being accentuated, while his social drives, which are by nature weaker, progressively deteriorate.”_
+*   Capitalism allowed income to be gained through the ownership of property, that income could in turn be reinvested into acquiring more property leading to an even larger stream of income which could be invested into yet more property. That feedback loop allowed established capitalists to expand their portfolio over time without limit, and the capitalist class as a whole to appropriate an ever expanding proportion of national wealth and income. Without sufficient redistribution Einstein suspected that such a run-away feedback loop would eventually reduce the share of national income of workers to the lowest possible level, the level of subsistence wages he had witnessed among peasants in China and India.
+
+*   He feared capitalism limited intellectual freedom and prevented honest discussion of alternative systems because capitalists inevitably come to control, directly or indirectly, the main sources of information including the press, radio and the education system, making it “_extremely difficult [...] for the individual citizen to come to objective conclusions and to make intelligent use of his political rights._” He also insinuates that academic economics was under some degree of influence by capital and likened economists to priests of the medieval church who “_made the class division of society into a permanent institution and created a system of values by which the people were thenceforth, to a large extent unconsciously, guided in their social behavior._”  
+
+*   Capitalists might come to directly influence or control political parties themselves.
+
+*   Capitalist economies are anarchic and uncoordinated leading to inefficiency and waste lowering growth.
+
+*   Capitalism eroded social trust and bonds. Einstein thought that individuals are necessarily dependent on the wider community and the division of labour to provide their economic means because no single person can run an industrialized economy alone, but that capitalism attempted to obscure this fact by providing an illusory form of individualism and caused people to view this dependency as a threat to their individual rights and prosperity rather than an “organic tie”, or as a “protective force”, which he considers a healthier, more pro-social and more accurate view of the individual's place in large-scale industrial society. Einstein described capitalism as part of the “predatory stage” of civilization and thought that for a man who lives by competition in the market the “_egotistical drives of his make-up are constantly being accentuated, while his social drives, which are by nature weaker, progressively deteriorate.”_
 
 The reforms Einstein proposed to remedy those issues consisted of:
 
-> *   Collective ownership of the means of production so that the gains from capital accumulation could accrue to the population as a whole rather than private owners of capital.
->
-> *   Replacing coordination of the economy by the market with centralised planning so that the economy could grow in a more orderly and efficient manner.
->
-> *   Replacing an education system focused on competition for economic station with one that was orientated towards “social goals”. Presumably social goals in line with his thinking around pro-social tendencies and fostering personal development and intellectual ability.
+*   Collective ownership of the means of production so that the gains from capital accumulation could accrue to the population as a whole rather than private owners of capital.
+
+*   Replacing coordination of the economy by the market with centralised planning so that the economy could grow in a more orderly and efficient manner.
+
+*   Replacing an education system focused on competition for economic station with one that was orientated towards “social goals”. Presumably social goals in line with his thinking around pro-social tendencies and fostering personal development and intellectual ability.
 
 He also stipulated that the kind of democratic-socialism that this would result in should be run without an all-powerful or overweening bureaucracy that should also protect individual rights and be democratic.
 

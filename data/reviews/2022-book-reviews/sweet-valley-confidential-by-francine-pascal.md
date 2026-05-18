@@ -7,10 +7,9 @@ contestName: 2022 Book Reviews
 year: 2022
 publishedDate: '2026-02-06T07:23:14.492Z'
 slug: sweet-valley-confidential-by-francine-pascal
-wordCount: 3672
+wordCount: 3676
 readingTimeMinutes: 17
-originalUrl: >-
-  https://docs.google.com/document/d/1kQUUJhv-MpLawby2j4zXLZPDG6ligWd5xpIjH8UmWdw
+originalUrl: https://docs.google.com/document/d/1kQUUJhv-MpLawby2j4zXLZPDG6ligWd5xpIjH8UmWdw
 source: gdoc
 tags:
   - Fiction
@@ -37,17 +36,17 @@ The second problem is everything else. The books are quite short and try to cove
 
  In the fourth book published in 1983, Robin Wilson wants to join the high school sorority run by Jessica but is fat. Here’s how the ghost writer emphasizes the point.
 
->     Robin plopped down on the sofa, rummaged around in her purse for something, and finally came up with a large chocolate bar. She unwrapped it and hungrily started munching.
+> Robin plopped down on the sofa, rummaged around in her purse for something, and finally came up with a large chocolate bar. She unwrapped it and hungrily started munching.
 >
->     “You’re really lucky, Liz, having a terrific sister like Jessica.” The chocolate bar was disappearing fast.
+> “You’re really lucky, Liz, having a terrific sister like Jessica.” The chocolate bar was disappearing fast.
 >
->     “That’s me, all right, lucky Liz,” she replied dryly, hypnotized by Robin’s rhythmic chewing.
+> “That’s me, all right, lucky Liz,” she replied dryly, hypnotized by Robin’s rhythmic chewing.
 >
->     “Robin, doesn’t eating like that make you”—don’t say “fat,” she warned herself—“break out?”
+> “Robin, doesn’t eating like that make you”—don’t say “fat,” she warned herself—“break out?”
 >
->     “Oh, no,” said Robin, licking her sticky fingers. “I never get zits, just pounds. But I just wasn’t meant to be slim like you and Jessica. It’s got something to do with my bones—or is it my metabolism? Anyway, it’s just my sad fate.”
+> “Oh, no,” said Robin, licking her sticky fingers. “I never get zits, just pounds. But I just wasn’t meant to be slim like you and Jessica. It’s got something to do with my bones—or is it my metabolism? Anyway, it’s just my sad fate.”
 >
->     Elizabeth looked at Robin dubiously. She was convinced Robin’s heaviness was due to the way she ate— especially if this was typical.
+> Elizabeth looked at Robin dubiously. She was convinced Robin’s heaviness was due to the way she ate— especially if this was typical.
 
 The dangers of being fat or gaining weight is a recurring motif in the Sweet Valley Universe. (See for instance Sweet Valley Twins #1 and #117). In Sweet Valley University, Elizabeth’s roommate supports the white supremacist secret society terrorizing town- but her real evil is revealed when she manipulates Elizabeth into over-eating to the point where _she and Jessica are no longer identical!_ If these books were written now, Robin would reconcile herself to her fatness and boldly denounce her haters. But in the 80s, Robin responded with aerobics.
 
@@ -109,7 +108,7 @@ The redemption of Jessica may seem implausible but it’s largely accomplished b
 
 The magnum opus of Sweet Valley High was the Evil Twin arc.
 
-**The Evil Twin** 
+## The Evil Twin
 
 ![](https://acximages.ennals.org/images/2022-book-reviews/6e214467872b6415.jpg)
 
@@ -129,13 +128,13 @@ The best part of this plotline is that after Margo gets blonde hair she practice
 
 The original Sweet Valley High series would launch multiple spin-offs ranging from the iconic Sweet Valley Twins (middle school), the serviceable Sweet Valley University (college), and two ill-fated attempts at more realistic storylines (Sweet Valley High Senior Year and Sweet Valley Junior High). The last spin-off ended its run in 2003.
 
-**The Re-Release**
+## The Re-Release
 
 After Gossip Girl became a TV show and made lots of money, there was an attempt to cash in on Sweet Valley High. The first few books were re-released and updated. The twins shrank from size 6 to size 4, Elizabeth worked for the school blog instead of the school newspaper, and occasionally characters would glance at cell phones to remind us it was now set in the present day. It wasn’t very successful and only the first several were ever updated. More ambitiously, Francine Pascal would release [Sweet Valley Confidential](https://www.amazon.com/Sweet-Valley-Confidential-Years-Later-ebook/dp/B00457X82Q/ref=sr_1_1?crid=39HWQLSS0C3B5&keywords=sweet+valley+confidential&qid=1648762224&sprefix=sweet+valley+confiden%2Caps%2C394&sr=8-1) and the [Sweet Life](https://www.amazon.com/Sweet-Life-Serial-Valley-Confidential-ebook/dp/B008VA7JOG/ref=sr_1_3?crid=1QZJ01ZAL7EVQ&keywords=sweet+life+sweet+valley&qid=1648762295&sprefix=sweet+life+sweet+valley%2Caps%2C120&sr=8-3), chronicling the lives of the twins at ages 27 and 30 respectively. 
 
-![](https://acximages.ennals.org/images/2022-book-reviews/1215e7381e207f04.jpg)
+![](https://acximages.ennals.org/images/2022-book-reviews/70675ff1a1b1f80f.jpg)
 
-**The New Stories**
+## The New Stories
 
 Whenever a big IP is revived (Star Wars) or adapted (Marvel) there’s always a lot of speculation about whether the focus will be on pleasing obsessive fans or attracting a new audience.
 
@@ -169,7 +168,7 @@ She also manages to throw in a tiny bit of continuity here and there. Robin Wils
 
  Overall, it sucks.
 
-**In Conclusion**
+## In Conclusion
 
 The CW now says its going to launch a [Sweet Valley High](https://deadline.com/2021/12/sweet-valley-high-tv-series-the-cw-from-ashley-wigfield-fake-empire-chernin-entertainment-1234891014/) TV series. I doubt it. A few years back, Diablo Cody claimed she was making a Sweet Valley [movie](https://ew.com/article/2009/09/23/diablo-cody-sweet-valley-high-amazing/) which never happened.
 

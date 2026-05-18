@@ -7,10 +7,9 @@ contestName: 2024 Book Reviews
 year: 2024
 publishedDate: '2026-02-06T16:49:14.009Z'
 slug: the-language-puzzle
-wordCount: 3919
+wordCount: 3916
 readingTimeMinutes: 18
-originalUrl: >-
-  https://docs.google.com/document/d/14qa47TJ_Vyerx4XNgTCIh7PUZ_TOgNcU_eHm5So_zo0
+originalUrl: https://docs.google.com/document/d/14qa47TJ_Vyerx4XNgTCIh7PUZ_TOgNcU_eHm5So_zo0
 source: gdoc
 tags:
   - Science
@@ -29,9 +28,9 @@ The best kind of evidence that I can imagine would come from finding some casset
 
 I think it would be interesting to go through the exercise of trying to come up with a hypothesis for how language evolved, using three steps. (This is my own formulation. In the book, Mithen approaches the question as if it was a jigsaw puzzle with different pieces from different subjects to be pieced together to form a complete picture.) Here are the steps:
 
-> 1.  You can use modern languages (the ones spoken today and the ones for which we have written or audio records). You can do (reasonable) experiments on adults and children. You can study other animals, especially apes and monkeys. You can also assume a rough timeline for _H. sapiens_ evolution: you know when our last common ancestor with chimpanzees lived, when _H. sapiens_ as a species arose, and what other hominid species existed in the 6 million year long gap. Now, what can you piece together as a possible explanation for how language evolved?
-> 2.  Then you magically find a whole skeleton of an individual of an extinct human species, together with the tools that the individual used, and with some other various items that might have survived until today. You can assume that this one specimen is a good representation of a member of his species. How should you update your hypothesis?
-> 3.  You now randomly stumble across a museum that houses a perfectly labelled collection of skeletal remains and other archeological findings that gives an accurate summary of the different species that existed between the time of our last common ancestor with apes and of modern humans. How should you further update your hypothesis?
+1.  You can use modern languages (the ones spoken today and the ones for which we have written or audio records). You can do (reasonable) experiments on adults and children. You can study other animals, especially apes and monkeys. You can also assume a rough timeline for _H. sapiens_ evolution: you know when our last common ancestor with chimpanzees lived, when _H. sapiens_ as a species arose, and what other hominid species existed in the 6 million year long gap. Now, what can you piece together as a possible explanation for how language evolved?
+2.  Then you magically find a whole skeleton of an individual of an extinct human species, together with the tools that the individual used, and with some other various items that might have survived until today. You can assume that this one specimen is a good representation of a member of his species. How should you update your hypothesis?
+3.  You now randomly stumble across a museum that houses a perfectly labelled collection of skeletal remains and other archeological findings that gives an accurate summary of the different species that existed between the time of our last common ancestor with apes and of modern humans. How should you further update your hypothesis?
 
 If you want a spoiler on what the final hypothesis looks like, check out the figure at the end of this review.
 
@@ -91,4 +90,4 @@ I personally think this hypothesis sounds nice but I need further convincing. Vi
 
 Here's a summary of most of the things, and including a few aspects that I didn't cover in this review:
 
-![](https://acximages.ennals.org/images/2024-book-reviews/57819e40590da99b.jpg)
+![](https://acximages.ennals.org/images/2024-book-reviews/c985c3516a28619c.jpg)

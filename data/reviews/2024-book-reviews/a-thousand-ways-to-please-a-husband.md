@@ -7,24 +7,23 @@ contestName: 2024 Book Reviews
 year: 2024
 publishedDate: '2026-02-06T16:47:15.592Z'
 slug: a-thousand-ways-to-please-a-husband
-wordCount: 4194
+wordCount: 4188
 readingTimeMinutes: 19
-originalUrl: >-
-  https://docs.google.com/document/d/1AXmWgSbh_TFsoZuApSCSEoz57yn93CM5YYhtaO_s4W4
+originalUrl: https://docs.google.com/document/d/1AXmWgSbh_TFsoZuApSCSEoz57yn93CM5YYhtaO_s4W4
 source: gdoc
 tags:
   - History
   - Society
 ---
 
-![](https://acximages.ennals.org/images/2024-book-reviews/b75be37ca8025b41.jpg)
+![](https://acximages.ennals.org/images/2024-book-reviews/8a7bc77b376fccaf.jpg)
 
 _A Thousand Ways to Please a Husband_ (published in 1917) is the most interesting cookbook I have ever encountered. It is, to be sure, a cookbook first and foremost. I’d be willing to bet money that for Louise Bennett Weaver and Helen Cowles LeCron, when they were writing it more than a century ago, the recipes were the important bit. But in the grand tradition of recipe bloggers—whose origins are evidently quite ancient!—they threw in some narrative content as a convenient vehicle, so it’s actually fun to read.
 
 The book is (almost) literary. It has an immense collection of recipes, some of which are decent. And it might shine a little light upon the social mores of the past—might even be useful in understanding some aspects of the present. Why, the fine folks at Project Gutenberg saw fit to [digitize the thing](https://www.gutenberg.org/ebooks/42868). We might as well read it.
 
-> 1.  ## The Food of Bettina’s World
->     
+1.  ## The Food of Bettina’s World
+    
 
 Our frame story for _A Thousand Ways to Please a Husband_ is that of the relationship between Bob and Bettina, a newlywed couple just moving into a place of their own. They are very cute. That’s to be expected from a metafictional level; no cookbook author is going to embellish their content with a gripping tale of infidelity, betrayal, and alcoholism. C’mon now. Of course they’re happily married.
 
@@ -56,8 +55,8 @@ Those are a couple of fine examples. There are many more; some adaptation may be
 
 It’s one such visit which sets off what I view as the main thread of the book’s plot. This cookbook _does_ have a narrative element, remember?
 
-> 2.  ## The People of Bettina’s World
->     
+2.  ## The People of Bettina’s World
+    
 
 I suppose I could list a lot of the _dramatis personae_ at this point. There’s Bettina and Bob, of course, and their respective families—Bettina’s parents stop by to visit, while Bob has a suffragette Aunt Elizabeth and an Uncle Eric who’s a queer old bachelor—and their respective circles of friends. Their friends are mostly interchangeable, except for Alice and Harry (Mr. Harrison), friends to Bettina and Bob respectively, who are two rather strong-willed individuals. Naturally, once introduced to each other they swiftly fall in love and get married.
 
@@ -97,8 +96,8 @@ The two get to spend a pleasant night in, Bettina whips up some celery au gratin
 
 It’s nice, I guess, that they obviously care for each other and enjoy doing things together.
 
-> 3.  ## The Values of Bettina’s World
->     
+3.  ## The Values of Bettina’s World
+    
 
 There’s an idea common in certain Abrahamic religions—mostly Christianity, although similar trends exist elsewhere—that men and women have distinct roles to play, that men do male things and women do female things, often in the context of marital responsibilities or societal expectations. The term for this is [complementarianism](https://en.wikipedia.org/wiki/Complementarianism), because ideally male and female roles complement each other, and while each gender does different things they both do what G-d has set aside for them to do. Men are to be like Peter, and women are to be like Mary. Something along those lines.
 
@@ -124,7 +123,7 @@ And it’s clear that Bettina and Bob very much like each other, and they’re w
 
 I dunno. Maybe Bob’s just a regular guy whose suffragette Aunt Elizabeth inculcated some decency into him. Maybe Bettina’s an idealized figure constructed by her authors, two women who created a woman who enjoys herself and is good at what she does. Maybe it’s all a castle in the air and we shouldn’t be reading too much into a book like this. What the hell do I know.
 
-![](https://acximages.ennals.org/images/2024-book-reviews/840ef379e4fd31e6.jpg)
+![](https://acximages.ennals.org/images/2024-book-reviews/2a97c6a2988409ea.jpg)
 
 _[Caption: Presented without context or comment.]_
 

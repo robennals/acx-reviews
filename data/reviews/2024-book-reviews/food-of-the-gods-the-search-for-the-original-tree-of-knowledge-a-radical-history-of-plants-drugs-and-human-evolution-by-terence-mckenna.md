@@ -1,19 +1,15 @@
 ---
-title: >-
-  Food of the Gods: The Search for the Original Tree of Knowledge. A Radical
-  History of Plants, Drugs, and Human Evolution, by Terence McKenna
+title: 'Food of the Gods: The Search for the Original Tree of Knowledge. A Radical History of Plants, Drugs, and Human Evolution, by Terence McKenna'
 author: Unknown
 reviewAuthor: Anonymous
 contestId: 2024-book-reviews
 contestName: 2024 Book Reviews
 year: 2024
 publishedDate: '2026-02-06T16:47:49.304Z'
-slug: >-
-  food-of-the-gods-the-search-for-the-original-tree-of-knowledge-a-radical-history-of-plants-drugs-and-human-evolution-by-terence-mckenna
-wordCount: 5355
+slug: food-of-the-gods-the-search-for-the-original-tree-of-knowledge-a-radical-history-of-plants-drugs-and-human-evolution-by-terence-mckenna
+wordCount: 5339
 readingTimeMinutes: 24
-originalUrl: >-
-  https://docs.google.com/document/d/1QiotH3aGFgNLGqsIHTK_Plm_gem2E4l2C2ctyGJd0jY
+originalUrl: https://docs.google.com/document/d/1QiotH3aGFgNLGqsIHTK_Plm_gem2E4l2C2ctyGJd0jY
 source: gdoc
 tags:
   - Biology
@@ -34,7 +30,7 @@ Almost everyone I ask about it knows the gist: human consciousness came from anc
 
 Unlike Darwin’s theory though, the Stoned Ape Theory is based on speculative leaps and shaky science, spreading mostly through its catchiness. It’s in the opening animation of [official Joe Rogan YouTube clips](https://www.youtube.com/watch?v=HqLcdUo_RIQ). It’s made popular by entertainers (watch: [Bill Hicks in 1993](https://www.youtube.com/watch?v=hreGAxAjt1c)). It’s the subject of [Comedy Central shorts](https://www.youtube.com/watch?v=VxKrskPyBuI&t=1s). It’s animated in [Netflix documentaries](https://youtu.be/o3mVaEcfwLs?si=lOt4KxhpEDPie5C5). Now, this evolutionary hunch occupies a small sliver in many of our heads, whether we believe it not.
 
-![](https://acximages.ennals.org/images/2024-book-reviews/d966ab1d14d0a285.png)
+![](https://acximages.ennals.org/images/2024-book-reviews/acd97e62654ea9d5.png)
 
 _From the Comedy Central animated short,_ _[Stoned Ape Theory](https://www.youtube.com/watch?v=VxKrskPyBuI&t=1s)__._
 
@@ -74,13 +70,13 @@ In the last 32 years, the Stoned Ape Theory has been rightfully critiqued, but w
 
 Terence McKenna’s hypothesis is a response to one of the biggest mysteries in human evolution: how did the brain size of the _Homo_ genus double in only 2 million years?
 
-![](https://acximages.ennals.org/images/2024-book-reviews/4df91d6968dcda98.jpg)
+![](https://acximages.ennals.org/images/2024-book-reviews/9f0ea3d30df5c5c1.jpg)
 
 _Original graphic._
 
 For context, he states that “evolution in high animals … operate[s] in time spans of … tens of millions of years” (p.20). From 4-7 million years ago, the brain only grew around 7%. Then, from 2-4 million years ago, it jumped to 32%. Since _Homo habilis_ emerged, our average brain size has grown 124%. Why the “sudden and mysterious expansion?” (p.22)
 
-![](https://acximages.ennals.org/images/2024-book-reviews/eceaa56b2a004825.jpg)
+![](https://acximages.ennals.org/images/2024-book-reviews/2eb6b4caa088b96c.jpg)
 
 _Original graphic._
 
@@ -112,7 +108,7 @@ _Psilocybin cubensis_ is a species of mushroom that grows in the dung of not jus
 
 It’s entirely possible that _Homo habilis_ had psychedelic experiences, but how readily available were mushrooms in Africa 2 millions years ago? If mushrooms were the catalyst of the brain boom, then they must have been everywhere, right? Unfortunately we don’t have direct evidence of this, and McKenna doesn’t estimate volume, but we can at least anchor our speculations in the gross volume of cowshit.
 
-![](https://acximages.ennals.org/images/2024-book-reviews/e9ec3beb0eb6569b.jpg)
+![](https://acximages.ennals.org/images/2024-book-reviews/fc6385ba9b24cec1.jpg)
 
 _Ancient African herbivores, images from_ _[Prehistoric Fauna](https://prehistoric-fauna.com/)__._
 
@@ -124,7 +120,7 @@ McKenna was the first to propose a human/cattle/mushroom symbiosis as an answer 
 
 According to Terence, we “bootstrapped to higher and higher cultural levels” (p.39), and the theme of cattle and mushrooms eventually spilled into Neolithic art and religion (around 10,000 BC). He shows us Sahara Desert cave art that features “shamans with large numbers of grazing cattle … dancing with fists full of mushrooms” (p.70). Then we see Catal Huyuk, “a huge [9th millennia BC] settlement, spreading over 32 acres … accommodating over 7,000 people”; the excavation is revealing “amazing shrines with cattle bas-reliefs and heads of now extinct aurochs” (p.82). This proto-culture eventually shifts into the soma-fueled Vedic religions of India, where cattle are also worshiped.
 
-![](https://acximages.ennals.org/images/2024-book-reviews/22d5c120d138b8b7.png)
+![](https://acximages.ennals.org/images/2024-book-reviews/bc5188939fc04f1d.png)
 
 _On p.83, from “Catal Huyuk: A Neolithic Town in Anatolia” by James Mellaart._
 
@@ -140,15 +136,15 @@ So let’s assume that proto-humans had access to _some_ quantity of psychedelic
 
 McKenna has a 3-point theory on how the hominids who ate mushrooms outbred the others; this framework shows McKenna’s strength as a meme-maker. The section header is titled: “THREE BIG STEPS FOR THE HUMAN RACE.” It’s a triad—a 3-step explanation—forged in a way to be memorable, repeatable, and spreadable. This is exactly what happened.
 
-![](https://acximages.ennals.org/images/2024-book-reviews/1e29a52febb47e68.png)
+![](https://acximages.ennals.org/images/2024-book-reviews/ddedc589c8e69a9c.png)
 
 _Here’s a clip of_ _[Joe Rogan reciting the three-part explanation](https://youtu.be/KKQfuWts-0E?si=7MgimmCye0q98HNX&t=172)__._
 
 To summarize:
 
-> *   In _low doses,_ it sharpens your vision into “chemical binoculars” to make you a better hunter.
-> *   In _medium doses_, it makes you horny, orgy-ready, and more likely to reproduce.
-> *   In _high doses_, it leads to mystical experiences, problem solving, and language.
+*   In _low doses,_ it sharpens your vision into “chemical binoculars” to make you a better hunter.
+*   In _medium doses_, it makes you horny, orgy-ready, and more likely to reproduce.
+*   In _high doses_, it leads to mystical experiences, problem solving, and language.
 
 The framework is an anthropological cartoon, where the tribes who ate mushrooms were better hunters, better bonkers, and better thinkers, giving them a chemical advantage.
 
@@ -210,9 +206,9 @@ Now he’s talking about natural selection, but he’s not being specific... The
 
 In order for the psychedelic experience to have altered the path of evolution from _Homo habilis_ to _Homo sapiens_, three things must have been true:
 
-> 1.  Due to location, only a subset of the population got access to the mushrooms.
-> 2.  Among those who ate them, only some percent of users had (unspecified) "language genes" that enabled them to better conceptualize and vocalize their intentions.
-> 3.  The ability to wield language had such a significant survival advantage, that anyone who couldn't talk got outbred.
+1.  Due to location, only a subset of the population got access to the mushrooms.
+2.  Among those who ate them, only some percent of users had (unspecified) "language genes" that enabled them to better conceptualize and vocalize their intentions.
+3.  The ability to wield language had such a significant survival advantage, that anyone who couldn't talk got outbred.
 
 This is pretty shaky, not just because there’s no detail on how genetic variance causes some to burst into language and not others, but mostly because it makes little sense how a few extra words would put another tribe out of existence. Sure, I’d imagine a _Homo erectus_ tribe of 1,000+ words with advanced grammars could out-smart and out-hunt a nearby _Homo habilis_ tribe with only 50 words. But the accumulation of language likely happened extremely slowly; based on the rate of vocabulary growth, we’re talking 1-5 words _per millennia_. Humans weren’t just competing against each other, but lions, who don’t play in the realm of words. So even if mushrooms enabled a genetically-blessed subspecies of _Homo habilis_ to invent a few new phrases, McKenna isn’t making a case for how this threatens the existence of non-psychedelic tribes.
 
@@ -224,15 +220,15 @@ _Food of the Gods_ makes more sense when you understand the climate it was writt
 
 Look at 1992 (the year Food of the Gods was published): publications on psychedelics were at an all-time low (since their discovery), and 0 clinical trials were conducted with LSD or psilocybin. It was bleak.
 
-![](https://acximages.ennals.org/images/2024-book-reviews/2d1abaccbf4f0389.png)
+![](https://acximages.ennals.org/images/2024-book-reviews/1af9b1c8003473f7.png)
 
 _From a_ _[2023 report](https://link.springer.com/article/10.1007/s11920-023-01446-4)_ _on psychedelic assisted therapy._
 
 As soon as McKenna introduces the Stoned Ape theory he moves on, and from page 57 on we’re in the territory of his psychedelic manifesto, which I can summarize in 3 points:
 
-> *   **Chapter 5**: Agriculture is the fall from Eden into history, ruled by a “dominator culture” of “pathological monotheism” (p.64). He makes a Learian plea for an Archaic Revival: “a clarion call to recover our birthright … It is a call to realize that life lived in the absence of the psychedelic experience upon which primordial shamanism is based is life trivialized, life denied, life enslaved to the ego and its fear of dissolution in the mysterious matrix of feeling that is all around us. It is in the Archaic Revival that our transcendence of the historial dilemma actually lies.” (p.252)
-> *   **Chapter 6-14**: Our substance addictions stems from an “existential incompleteness” from losing touch with the mushroom. He covers the history of drugs, from prehistory through the 20th century. He gives a literally exhaustive survey of mushrooms, ergot, cannabis, hashish, sugar, coffee, tea, chocolate, tobacco, LSD, cocaine, heroin, DMT, and television.
-> *   **Chapter 15**: The last page of the book is a 10-point drug policy, showing the real intention of this whole effort: activism. He covers taxes, the IMF, cartel laws, research, and education.
+*   **Chapter 5**: Agriculture is the fall from Eden into history, ruled by a “dominator culture” of “pathological monotheism” (p.64). He makes a Learian plea for an Archaic Revival: “a clarion call to recover our birthright … It is a call to realize that life lived in the absence of the psychedelic experience upon which primordial shamanism is based is life trivialized, life denied, life enslaved to the ego and its fear of dissolution in the mysterious matrix of feeling that is all around us. It is in the Archaic Revival that our transcendence of the historial dilemma actually lies.” (p.252)
+*   **Chapter 6-14**: Our substance addictions stems from an “existential incompleteness” from losing touch with the mushroom. He covers the history of drugs, from prehistory through the 20th century. He gives a literally exhaustive survey of mushrooms, ergot, cannabis, hashish, sugar, coffee, tea, chocolate, tobacco, LSD, cocaine, heroin, DMT, and television.
+*   **Chapter 15**: The last page of the book is a 10-point drug policy, showing the real intention of this whole effort: activism. He covers taxes, the IMF, cartel laws, research, and education.
 
 Here are two more quotes from Goodreads on how the messianic mushroomism gets tiresome:
 
@@ -246,8 +242,7 @@ You might be surprised to learn that Terence McKenna confessed to having little 
 
 This pisses off a lot of McKenna fans, and causes accusations ranging from him being a complete fraud to a mal-intended CIA agent. When asked about his book in this [interview](http://suntebo.org/history/Ambient/T.McKenna/McKenna.html), he sees it as a catalyst in a larger culture war. He wanted the unjustly illegalized drugs to be situated in a human origins scenario. In the same way that Darwin’s theory reset the 19th century Victorian mind, he hoped that equating psychedelics with evolution would trigger a new openness to them. He wanted to make the switch from:
 
-> “ ‘Drugs are alien, invasive and distorting to human nature’ to:
->
+> “ ‘Drugs are alien, invasive and distorting to human nature’ to:  
 > ‘Drugs are natural, ancient and responsible for human nature.’ ”
 
 For what it’s worth, I don't think McKenna was lying or intentionally deceptive. I think he had a good hunch and acted on it, but in the act of crystallizing it into a book, he was less interested in careful analysis and more interested in using his position as a psychedelic guru to shift the culture. His target audience was “drug-friendly 18-25 year olds” who would spread the ideas into the mainstream.
@@ -274,18 +269,18 @@ For one paragraph, I’d like you to entertain my own anthropological cartoon. I
 
 Imagine a hungry apex hunter stalking a Megalotragus, and in the process he comes across a dung patty that’s filled with a few mushrooms (appetizers). Unknowingly, he consumes a heroic dose of _Psilocybin cubensis_. An hour later, hunting is out of the question. There is slight nausea, a weirdness, and eventually, the spontaneous creation of mouth noises. As he comes back into contact with the tribe, he’s not just tripping, he’s grunting and riffing in ways they can’t understand. It’s frightening. From a state of synesthesia, the Babbling Idiot is attempting to make abstract connections between his intentions and sounds. You can imagine hundreds of proto-words coming through over the hours, none of them crystallizing into meaning. But in rare cases, perhaps aided by gestures, the tribe groks what he means. Still, in most cases the words are forgotten, but some are coined in such a way that they’re useful _and_ memorable. The babbling idiot was a temporary conduit for the logos, and comes down with little to no memory of the ordeal. Sobered up, he hears a new word moving around the tribe, and asks, “what do you mean?”
 
-![](https://acximages.ennals.org/images/2024-book-reviews/00be3cbd140476db.png)
+![](https://acximages.ennals.org/images/2024-book-reviews/2f73cdf80dea4d17.png)
 
 _Generated with GPT-4._
 
 This story inverts all of psychedelic romanticism that was baked into McKenna’s theory:
 
-> *   Mushrooms didn’t need to be plentiful; this might have happened once in the life of a tribe.
-> *   The whole tribe didn’t need to take them; it could’ve been a single person.
-> *   It wasn’t brave or intentional; it could’ve been accidental.
-> *   They didn’t turn into a superhuman hunter, lover, or linguist; they became a babbling idiot.
-> *   They didn’t come down more evolved; they barely remembered it.
-> *   The hero isn’t the psychonaut; the hero is the sober tribe who paid attention through the chaos to catch and remember the words that mattered.
+*   Mushrooms didn’t need to be plentiful; this might have happened once in the life of a tribe.
+*   The whole tribe didn’t need to take them; it could’ve been a single person.
+*   It wasn’t brave or intentional; it could’ve been accidental.
+*   They didn’t turn into a superhuman hunter, lover, or linguist; they became a babbling idiot.
+*   They didn’t come down more evolved; they barely remembered it.
+*   The hero isn’t the psychonaut; the hero is the sober tribe who paid attention through the chaos to catch and remember the words that mattered.
 
 To bring this back to evolution, magic mushrooms may have simply been a catalyst for linguistic mutation. Over a tribe’s life, the lead hunters would accidentally get stoned a few times, and it would lead to outpourings of gibberish. In some cases it would threaten the survival of the tribe, in most cases it would have been kind of annoying, and in rare cases it would lead to the creation of a re-usable word.
 

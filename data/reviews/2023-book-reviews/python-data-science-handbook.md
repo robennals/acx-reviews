@@ -1,28 +1,28 @@
 ---
-title: "Python Data Science Handbook"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2023-book-reviews"
-contestName: "2023 Book Reviews"
+title: Python Data Science Handbook
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2023-book-reviews
+contestName: 2023 Book Reviews
 year: 2023
-publishedDate: "2023-01-01T00:00:00.000Z"
-slug: "python-data-science-handbook"
-wordCount: 4837
+publishedDate: '2023-01-01T00:00:00.000Z'
+slug: python-data-science-handbook
+wordCount: 4815
 readingTimeMinutes: 22
-originalUrl: "https://docs.google.com/document/d/1vci14HMZ2UEJBs6mKCZZ2vHs-jVuPSsFsiN3cAENzXU"
-source: "gdoc"
+originalUrl: https://docs.google.com/document/d/1vci14HMZ2UEJBs6mKCZZ2vHs-jVuPSsFsiN3cAENzXU
+source: gdoc
 tags:
   - Technology
 ---
 
 This is a review of an O’Reilly book, so something between a textbook and a “how to” book. It’s a different book than most of the book review targets for Astral Codex Ten. Still, given the audience of the site and the topic, I thought it might be interesting to the readership. I was looking for something that would get me back into doing some data analysis. So, if you know some Python and some data analysis, is this a good book to refresh and get some practice on those topics? Yes, it’s pretty good, even without any previous data analysis experience. For me, the book ticked a number of boxes:
 
-> *   It uses Python
-> *   The second edition was just released, so it should use a fairly recent version of Python 3.
-> *   The modules I wanted to learn and the ones used by the book overlap nicely (NumPy, Pandas, and SciPy).
-> *   The book recommends Anaconda, which is the version of Python I already use.
-> *   It is focused on local execution. I didn’t want to mix in cloud services or how to tackle very large (>10GB datasets).
-> *   It has a free, on-line version. I bought the [Kindle version at Amazon](https://www.amazon.com/Python-Data-Science-Handbook-VanderPlas-ebook/dp/B0BP8XD42X/ref=tmm_kin_swatch_0), but I really like imagining I could give a class at a local library or community center for free.
+*   It uses Python
+*   The second edition was just released, so it should use a fairly recent version of Python 3.
+*   The modules I wanted to learn and the ones used by the book overlap nicely (NumPy, Pandas, and SciPy).
+*   The book recommends Anaconda, which is the version of Python I already use.
+*   It is focused on local execution. I didn’t want to mix in cloud services or how to tackle very large (>10GB datasets).
+*   It has a free, on-line version. I bought the [Kindle version at Amazon](https://www.amazon.com/Python-Data-Science-Handbook-VanderPlas-ebook/dp/B0BP8XD42X/ref=tmm_kin_swatch_0), but I really like imagining I could give a class at a local library or community center for free.
 
 While reading the book, with this review in mind, I noticed a few things about formatting worth mentioning. First, a few of the Amazon reviews mentioned that the print version was in black and white. I was going to read mainly on a new Kindle Scribe, so I was going to end up there anyway and thought that it might be a feature in my case. It turns out, things are weird these days. The book looked great on the Scribe and the images didn’t seem to suffer too much from being in B&W at first. However, all the figures seemed to be wrong. After I was sure that it was not just me, I put in an errata on the web site for the book (at least I could do that easily). After working another chapter, it was intolerable and I went to leave a review on Amazon in case no one was looking at the errata. As soon as I hit submit and went back to the book, it auto-updated and all the figures were fine. I assume the printed book was fine because someone looked before ordering a few pallets worth of them. I also submitted more minor coding errors that I assume were not caught, but I assume will be fixed soon in the Kindle edition and presumably in the online version, eventually. In addition, the Kindle version is actually in color and displays as such on a phone or other Kindle app capable of color. I found that reading on an iPad in landscape orientation was my favorite. The Kindle Scribe version seemed to have an issue of not using a fixed-width font for code and did not work with the free-form pen notes. Regular notes worked fine. It seems publishers and writers have more to watch out for these days.
 
@@ -126,13 +126,13 @@ plt.show()
 
 Something like this allowed me to follow along in the book via Spyder instead of via IPython or Jupiter and get nice plots in the Plots tab. If you can get it to print in Syder, you can save with a right-click on the plot. Much of the content about plotting in chapter 26 was covered in other places of the book already so it could have been combined with 25 and reduced to just new stuff. Chapters 27 and 28 do a lot of plotting and work in some good practice of NumPy. I liked how it got me thinking about different ways to display data and even some short-cuts if you need to bin data with NumPy histogram functions. Chapter 29 and 30 covers legends color bars respectively and both could have been consolidated into other places. Still, some pretty neat examples. Chapter 31 seems to have secret sauce parameters for subplot() to get it to look correct and might be worth a bookmark or a personally saved example. The book has good call-outs where indexing gets weird for subplots and interesting NumPy return types. Whenever the author says “I usually use this for…” it seems like a really nice example follows. Maybe saving these with very descriptive names would be good for lookup later. Chapter 32 has a number of good labeling examples and a general recommendation of which function to use and which not to. Chapter 33 covers tick marks and I am guessing I will have to look this up on the rare occasion where deviating from the default is necessary. Chapter 34 covers customizing the look of the plots, but I would have liked more focus on Seaborn instead. Chapter 35 moves to 3d plotting which had some neat visualizations, but was a bit too function driven and not enough data analysis driven for my taste (I would have liked data set examples instead). If you want nice, easy figures and quick data analysis, Chapter 36 supplies those. If you only have time to cover one graphing chapter, this is the one.
 
-![](https://acximages.ennals.org/images/2023-book-reviews/2378ed89f69d4b0e.png)
+![](https://acximages.ennals.org/images/2023-book-reviews/78a0f1c829ea1f81.png)
 
 Part V - Machine Learning
 
 The introduction and chapters 37 and 38 go into machine learning fairly quickly at a nice pace for someone that already knows some Python and a little about ML. It has a nice overview of the approach that SciKitLearn takes that often seems to get skipped in on-line descriptions. Good, classic ML examples are included. Chapter 39 is a good discussion of model complexity and data size trade-offs with examples of how to test that with SciKitLearn. One missed opportunity here might have been to point out the benefits of choosing the simpler model when there is either not much accuracy gained or a simpler model is more explainable. If I read the example code for this part correctly, there is not a robust holdout and the underlying generation of the data is second degree.
 
-![](https://acximages.ennals.org/images/2023-book-reviews/2f84ed5f07550e67.png)
+![](https://acximages.ennals.org/images/2023-book-reviews/7e342637989e9c65.png)
 
 So the gain of higher degree fits is false and just a random noise fit from degrees 3-20. Each degree of freedom in your research project needs another holdout (test) set. The theory covered seems sound though and maybe I missed something in the example. Chapter 40 covers feature engineering and pipelines. It might also be consolidated into other chapters, but good to cover (maybe best combined with chapter 50?).
 
@@ -150,14 +150,14 @@ What next?
 
 So as not to forget what I just learned, I plan to roll through a series of data analysis topics, mostly to look for a style and practice a set of tools. The next sections will be one of these in a time boxed way, but others might include:
 
-> *   Air pollution
-> *   Water quality
-> *   Safety by job type
-> *   Education format differences (the data seems tough here)
-> *   Local crime
-> *   Government spending
-> *   Anything else the pops up in the news (like train safety maybe)
-> *   Advent of Code, forcing myself to use NumPy and maybe some the of other tools
+*   Air pollution
+*   Water quality
+*   Safety by job type
+*   Education format differences (the data seems tough here)
+*   Local crime
+*   Government spending
+*   Anything else the pops up in the news (like train safety maybe)
+*   Advent of Code, forcing myself to use NumPy and maybe some the of other tools
 
 This would mainly be for practice, so it’s OK if they have been done before. Then if I feel confident enough and time allows, maybe the class. After doing just the couple empirical examples that follow, it may take some time to build that confidence.
 
@@ -229,7 +229,7 @@ print("Took", (TF-TS), "seconds")
 
 This assumes 100 bets in a row, averages 100 rounds and takes ~1.2 seconds.
 
-![](https://acximages.ennals.org/images/2023-book-reviews/4534277af7cc9995.png)
+![](https://acximages.ennals.org/images/2023-book-reviews/d6523b480fe4cfa3.png)
 
 I found I could not really convert this to NumPy nicely, but this was my attempt:
 
@@ -299,11 +299,11 @@ print("Took", (TF-TS), "seconds")
 
 This only pulls the random number generation outside the inner loop, uses the NumPy generator and runs all the inner, percent bets on the same draws. It actually runs longer, at about 3.5 seconds.
 
-![](https://acximages.ennals.org/images/2023-book-reviews/e53baa60a09eb34a.png)
+![](https://acximages.ennals.org/images/2023-book-reviews/f10f92b1e85d0e00.png)
 
 Then for completeness, here are 1000 bets in a row using the first method.
 
-![](https://acximages.ennals.org/images/2023-book-reviews/f82e4b10a3539266.png)
+![](https://acximages.ennals.org/images/2023-book-reviews/a8339fecb32ca237.png)
 
 You can start to see where the 50% amount referred to in the Kelly Bets on Civilization article comes from. The very large integers also seem to start messing with the axis labels. Searching a bit seems to say there are Markov Chain tools I could use to make this go faster (and maybe use floats), but at least it’s trending towards the same number given in the post. I could only find about 20% of what I needed to work through this in the book. It did provide the base I was building on and it helps to have some of the terminology before searching.
 
@@ -311,30 +311,30 @@ Empirical Example - A Look at Some ACX 2022 Survey Results
 
 I figured it might also be good to have a short look at the 2022 ACX survey results. The first column that would seem to need some work to interpret was the age. This turned out to be harder than any example in the book made it out to be. It did say data cleaning was a lot of the work and that is also what I remembered. For a taste, here are the issues from getting the data to fixing the age column:
 
-> 1.  CSV download failed, but xlsx worked
-> 2.  Xlsxs can be exported to CSV in several encodings, tried one
-> 3.  The error turning this into a DataFrame gave the default, expected encoding, so re-exported and re-created the DataFrame
-> 4.  The book didn’t have an example of converting a range to a number, but did suggest that in cases like this, where there is some natural ordering, that a proxy number might be OK.
-> 5.  StackOverflow provided something close that used regex to get the ends of the range and then averaged them, so tried that, but had to figure out that the ‘-’ in the xlsx did not export as the keyboard ‘-’ and had to be copy/pasted to work (frustrating to figure out).
-> 6.  The “less than 15” category did not work with the regex given, so I had to use [regex101](https://regex101.com/) to figure out how to get the digits from either of the formats.
-> 7.  There were missing entries, so I needed to set the flag to handle those.
-> 8.  The number 75 was repeated in the set of ranges and the “less than 15” category ended up as just 15, but I figured these were OK to just leave for this experiment.
+1.  CSV download failed, but xlsx worked
+2.  Xlsxs can be exported to CSV in several encodings, tried one
+3.  The error turning this into a DataFrame gave the default, expected encoding, so re-exported and re-created the DataFrame
+4.  The book didn’t have an example of converting a range to a number, but did suggest that in cases like this, where there is some natural ordering, that a proxy number might be OK.
+5.  StackOverflow provided something close that used regex to get the ends of the range and then averaged them, so tried that, but had to figure out that the ‘-’ in the xlsx did not export as the keyboard ‘-’ and had to be copy/pasted to work (frustrating to figure out).
+6.  The “less than 15” category did not work with the regex given, so I had to use [regex101](https://regex101.com/) to figure out how to get the digits from either of the formats.
+7.  There were missing entries, so I needed to set the flag to handle those.
+8.  The number 75 was repeated in the set of ranges and the “less than 15” category ended up as just 15, but I figured these were OK to just leave for this experiment.
 
 Again the book covered how to fix about 20% of this, but I stopped looking for the answers in the book as searching the web was usually faster and addressed any issue. Not the book’s fault as it is not meant to do that fully.
 
 Next I noticed the “Profession” question and figured that it would be good to estimate how many readers might be interested in a review of a Python book. I was hoping I could just get a histogram of the professions and eyeball how many might have some Python users. You can get one pretty much straight from the book, but it took about five more searches to fix various things to make it look reasonable enough to include.
 
-![](https://acximages.ennals.org/images/2023-book-reviews/ce9db39a36af7501.png)
+![](https://acximages.ennals.org/images/2023-book-reviews/86a61feb94d9ebde.png)
 
 About 40% of responders work in something to do with computers (three categories) and lots of representation in other categories that might use Python, so that’s a good sign.
 
 Finally, since we fixed the ages, maybe we should try a linear regression vs. age on something. The ACX post that showed up while I was finishing this was [Why Do Transgender People Report Hypermobile Joints?](https://astralcodexten.substack.com/p/why-do-transgender-people-report) In the comments, there was some speculation that younger people might know about and report hypermobile joints or Ehlers-Danlos syndrome more and older folks might just call it being double-jointed. If so, the percent of those saying “No” to the ACX survey question about this should go up with age.
 
-![](https://acximages.ennals.org/images/2023-book-reviews/50cf49ae2636eb93.png)
+![](https://acximages.ennals.org/images/2023-book-reviews/0af50a7fe7c52bc8.png)
 
 This would seem to lend some support, although the age bins are not balanced so we are violating the linear regression rules a bit.
 
-![](https://acximages.ennals.org/images/2023-book-reviews/be1df6ab4da84a4b.png)
+![](https://acximages.ennals.org/images/2023-book-reviews/da3fdcc44d78bf0e.png)
 
 If we tossed the <=15 and 75-80 groups it would be a stronger argument, but probably wouldn’t change the line much.
 

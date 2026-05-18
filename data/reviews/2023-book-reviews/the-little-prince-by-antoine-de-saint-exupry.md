@@ -1,16 +1,16 @@
 ---
-title: "The Little Prince by Antoine de Saint-Exupéry"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2023-book-reviews"
-contestName: "2023 Book Reviews"
+title: The Little Prince by Antoine de Saint-Exupéry
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2023-book-reviews
+contestName: 2023 Book Reviews
 year: 2023
-publishedDate: "2023-01-01T00:00:00.000Z"
-slug: "the-little-prince-by-antoine-de-saint-exupry"
+publishedDate: '2023-01-01T00:00:00.000Z'
+slug: the-little-prince-by-antoine-de-saint-exupry
 wordCount: 818
 readingTimeMinutes: 4
-originalUrl: "https://docs.google.com/document/d/1AtGIIv371v0Yu35eNsIxJr67dw4SHOiGdKrqmoKt2hg"
-source: "gdoc"
+originalUrl: https://docs.google.com/document/d/1AtGIIv371v0Yu35eNsIxJr67dw4SHOiGdKrqmoKt2hg
+source: gdoc
 tags:
   - Fiction
   - Philosophy
@@ -25,7 +25,7 @@ The book focuses on our narrating, unnamed aviator who crashes right in the midd
 
 Our hero makes keen observations on the nature of adults. One portrait drawn by the pilot as a child appears as a hat to the grown-ups. It’s actually a picture of an elephant being digested by a boa constrictor, correctly identified by the prince.
 
-![](https://acximages.ennals.org/images/2023-book-reviews/b7404fe80fb31534.jpg)
+![](https://acximages.ennals.org/images/2023-book-reviews/cc6affc45c0f0c83.jpg)
 
 The book is short and sweet taking less than 2 hours for the median reader to complete. It chronicles the little prince’s journey across the planets and stars toward Earth. Heartbroken by a vain rose, who was prideful, pretentious, and caused a deep strain on him. He was tired, distanced, and felt under her control. Deciding to leave the tiny asteroid he called home, he came to explore the rest of the vast, awe-inspiring, and mysterious universe.
 

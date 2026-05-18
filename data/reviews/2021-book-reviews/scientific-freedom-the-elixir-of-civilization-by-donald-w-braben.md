@@ -1,16 +1,16 @@
 ---
-title: "Scientific Freedom: The Elixir of Civilization by Donald W Braben"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2021-book-reviews"
-contestName: "2021 Book Reviews"
+title: 'Scientific Freedom: The Elixir of Civilization by Donald W Braben'
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2021-book-reviews
+contestName: 2021 Book Reviews
 year: 2021
-publishedDate: "2021-01-01T00:00:00.000Z"
-slug: "scientific-freedom-the-elixir-of-civilization-by-donald-w-braben"
-wordCount: 2557
+publishedDate: '2021-01-01T00:00:00.000Z'
+slug: scientific-freedom-the-elixir-of-civilization-by-donald-w-braben
+wordCount: 2531
 readingTimeMinutes: 12
-originalUrl: "https://docs.google.com/document/d/1M1m8o1HInGYJR3cEMYZ6TQgNmeBOWo98YC6djNnFWf0"
-source: "gdoc"
+originalUrl: https://docs.google.com/document/d/1M1m8o1HInGYJR3cEMYZ6TQgNmeBOWo98YC6djNnFWf0
+source: gdoc
 tags:
   - Science
   - History
@@ -22,19 +22,19 @@ What if tech stagnation, declining growth rates, and the near-inevitable seeming
 
 That’s the broad thesis behind _Scientific Freedom: The Elixir of Civilization._ Published originally in 2008, Scientific Freedom chronicles the journey of physicist Don Braben, as he designs and builds a Venture Research arm at British Petroleum in the 1980s. Braben was successful in funding a transformative research initiative at BP (transformative meaning it fundamentally changes humanity thinks about a subject). In his estimation, 14 out of the 26 groups funded made a transformative discovery, at the cost of only 30 million pounds over 10 years! A few examples of transformative discoveries made by groups funded by Braben in his time at BP are:
 
-> *   Mike Bennett and Pat Heslop - Harrison discovered a new pathway for evolution and genetic control
-> *   Terry Clark pioneered the study of macroscopic quantum objects
-> *   Stan Clough and Tony Horsewill solved the quantum – classical transition problem by developing new relativity and quantum theories
-> *   Steve Davies developed small artificial enzymes for efficient chiral selection
-> *   Nigel Franks, Jean Louis Deneubourg, Simon Goss, and Chris Tofts quantified the rules describing distributed intelligence in animals
-> *   Herbert Huppert and Steve Sparks pioneered the new field of geologic fluid mechanics
-> *   Jeff Kimble pioneered squeezed states of light
-> *   Graham Parkhouse derived a novel theory of engineering design relating performance to shapes and materials
-> *   Alan Paton, Eunice Allen, and Anne Glover discovered a new symbiosis between plants and bacteria
-> *   Martyn Poliakoff transformed green chemistry
-> *   Colin Self demonstrated that antibodies in vivo can be activated by light
-> *   Gene Stanley and Jos é Teixeira discovered a new liquid – liquid phase transition in water that accounts for many of water’s anomalous properties
-> *   Harry Swinney, Werner Horsthemke, Patrick DeKepper, Jean - Claude Roux, and Jacques Boissonade developed the first laboratory chemical reactors to yield sustained spatial patterns — an essential precursor for the study of multidimensional chemistry
+*   Mike Bennett and Pat Heslop - Harrison discovered a new pathway for evolution and genetic control
+*   Terry Clark pioneered the study of macroscopic quantum objects
+*   Stan Clough and Tony Horsewill solved the quantum – classical transition problem by developing new relativity and quantum theories
+*   Steve Davies developed small artificial enzymes for efficient chiral selection
+*   Nigel Franks, Jean Louis Deneubourg, Simon Goss, and Chris Tofts quantified the rules describing distributed intelligence in animals
+*   Herbert Huppert and Steve Sparks pioneered the new field of geologic fluid mechanics
+*   Jeff Kimble pioneered squeezed states of light
+*   Graham Parkhouse derived a novel theory of engineering design relating performance to shapes and materials
+*   Alan Paton, Eunice Allen, and Anne Glover discovered a new symbiosis between plants and bacteria
+*   Martyn Poliakoff transformed green chemistry
+*   Colin Self demonstrated that antibodies in vivo can be activated by light
+*   Gene Stanley and Jos é Teixeira discovered a new liquid – liquid phase transition in water that accounts for many of water’s anomalous properties
+*   Harry Swinney, Werner Horsthemke, Patrick DeKepper, Jean - Claude Roux, and Jacques Boissonade developed the first laboratory chemical reactors to yield sustained spatial patterns — an essential precursor for the study of multidimensional chemistry
 
 So how did Braben fund proposals, if he didn’t use peer review or grant proposals?  
 
@@ -44,7 +44,6 @@ Don quite literally tried to “eliminate every selection rule imposed since abo
 
 In Don’s approach, he never told anyone “no”. If he thought someone was a quack (for instance, if I claimed that I had disproven super-string theory with only knowledge of calculus), he would kindly probe deeper. ”Will, you say you’ve disproven super-string theory, can you tell me how.” Don wouldn’t tell me to buzz off. For a bumbling or nonsensical answer, he’d just tell me to come back when I had more. This practice let Don filter out fakers, without filtering too aggressively for ideas that might be true, but not accepted by the wider scientific community.
 
-  
 On a practical level, Venture Researchers would be funded for 3 years at a time. Support could be renewed and often was. On renewal, the director of the research program simply asked themselves whether what they were wanting to do was still challenging. If it was, the program got renewed. In this paradigm, trust between funder and scientists was paramount.
 
 ## Who Don Was Looking for: “The Planck Club”
@@ -105,22 +104,14 @@ One of the frustrating things for Braben, is the relative cheapness of Venture R
 >
 > them to, say, £200,000 or $400,000 a year per project on average.
 >
-> Transformative researchers should be supported initially for 3 years. Our
->
-> experience indicates that about half of them would require a second 3  year
->
-> term; and half of those, a third term of support. Very few projects should run
->
-> for more than, say, 9 years. Those leaving the TR scheme either would have
->
-> succeeded and been transferred to other programs created for them — that is,
->
-> their research would actually have been transformative — or, the scientists
->
-> agree that they had probably failed in their Herculean quests. However, these
->
-> average figures are quoted for guidance; there should in fact be no hard-and-
->
+> Transformative researchers should be supported initially for 3 years. Our  
+> experience indicates that about half of them would require a second 3  year  
+> term; and half of those, a third term of support. Very few projects should run  
+> for more than, say, 9 years. Those leaving the TR scheme either would have  
+> succeeded and been transferred to other programs created for them — that is,  
+> their research would actually have been transformative — or, the scientists  
+> agree that they had probably failed in their Herculean quests. However, these  
+> average figures are quoted for guidance; there should in fact be no hard-and-  
 > fast rules on the length of support. Remember Planck!
 
 and
@@ -137,16 +128,11 @@ and
 >
 > 54 should eventually turn out to be transformative in some way.
 >
-> A TR budget for a smaller country — say, the United Kingdom — should be
->
-> about half that of the United States, or $ 12.5 million per annum. The Venture
->
-> Research budget in our final year of operation (1990) was some $ 5 million,
->
-> two thirds of which we spent in Britain. As we had been operating for 10 years,
->
-> it is possible that we had identified most of the researchers in Britain looking
->
+> A TR budget for a smaller country — say, the United Kingdom — should be  
+> about half that of the United States, or $ 12.5 million per annum. The Venture  
+> Research budget in our final year of operation (1990) was some $ 5 million,  
+> two thirds of which we spent in Britain. As we had been operating for 10 years,  
+> it is possible that we had identified most of the researchers in Britain looking  
 > for potentially transformative research support at that time.
 
 That’s only $25 million a year in inflation adjusted cost for a small country like the UK. They probably spend more on staplers!

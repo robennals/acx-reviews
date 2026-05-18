@@ -1,19 +1,15 @@
 ---
-title: >-
-  Making Sense of Tantric Buddhism: History, Semiology, and Transgression in the
-  Indian Traditions by Christian K. Wedemeyer
+title: 'Making Sense of Tantric Buddhism: History, Semiology, and Transgression in the Indian Traditions by Christian K. Wedemeyer'
 author: Unknown
 reviewAuthor: Anonymous
 contestId: 2022-book-reviews
 contestName: 2022 Book Reviews
 year: 2022
 publishedDate: '2026-02-06T07:23:14.479Z'
-slug: >-
-  making-sense-of-tantric-buddhism-history-semiology-and-transgression-in-the-indian-traditions-by-christian-k-wedemeyer
+slug: making-sense-of-tantric-buddhism-history-semiology-and-transgression-in-the-indian-traditions-by-christian-k-wedemeyer
 wordCount: 5833
 readingTimeMinutes: 26
-originalUrl: >-
-  https://docs.google.com/document/d/1kQUUJhv-MpLawby2j4zXLZPDG6ligWd5xpIjH8UmWdw
+originalUrl: https://docs.google.com/document/d/1kQUUJhv-MpLawby2j4zXLZPDG6ligWd5xpIjH8UmWdw
 source: gdoc
 tags:
   - Religion
@@ -126,7 +122,7 @@ which would appear to be just more tantric disgustingness. But the gloss makes i
 
 A more thorough examination reveals that these statements are neither exactly literal nor exactly figurative; Wedemeyer goes a meta-level up, from purely denotative to connotative language, and specifically to connotative semiotics, by which a complete sign (signifier+signified) becomes the signified component of a larger sign. He gives an example pulled from Barthes, the Latin phrase _quia ego nominor leo_, which means ‘because my name is lion.’ In purely denotative language, the phrase is the signifier, a particular statement about one’s name is the signified, and the whole thing together is a sign. But here, in this connotative system, that sign is the signifier which points to another signified, the ultimate goal of communication; which in this case, is a grammatical example. _Quia ego_ _nominor_ _leo_ is an example of predicate agreement.
 
-![](https://acximages.ennals.org/images/2022-book-reviews/b9c7d5bbedee7dc1.png)
+![](https://acximages.ennals.org/images/2022-book-reviews/79d9c399d22213f2.png)
 
 This sort of communication is not the domain of professional linguists, but a formalization of the kind of language ordinary people use every day to deliver higher-order messages which would be invisible to one who can only perceive denotative language. Its content is defined by intention, but that intention is obscured by the process of signification, and that creates an ambiguous space in which sophisticated communicators, like the tantric authors, can work.
 

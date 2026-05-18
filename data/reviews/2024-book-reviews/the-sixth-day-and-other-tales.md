@@ -7,10 +7,9 @@ contestName: 2024 Book Reviews
 year: 2024
 publishedDate: '2026-02-06T16:49:50.815Z'
 slug: the-sixth-day-and-other-tales
-wordCount: 2370
+wordCount: 2347
 readingTimeMinutes: 11
-originalUrl: >-
-  https://docs.google.com/document/d/1Ki5XsE0jkxZtd2XAeyTAJw1ZjLh2Cu-matUYKAhA6-s
+originalUrl: https://docs.google.com/document/d/1Ki5XsE0jkxZtd2XAeyTAJw1ZjLh2Cu-matUYKAhA6-s
 source: gdoc
 tags:
   - Fiction
@@ -23,7 +22,7 @@ I’ve sometimes talked about Primo Levi, the Italian-Jewish writer, chemist and
 
 Sorry, darling – I’m going to review _The Sixth Day and Other Tales,_ a collection of science fiction short stories published in 1966 under the pen-name of Damiano Malabaila. The pseudonym was a precaution suggested by Levi’s publishing house, given the lesser reputation of the genre compared to that of his two previous autobiographical works on his experience in Nazi concentration camps (_If This Is A Man,_ American edition: _Survival in Auschwitz)_ and his adventurous return to Italy (_The Truce_).
 
-![](https://acximages.ennals.org/images/2024-book-reviews/c895e516b350e31c.png)
+![](https://acximages.ennals.org/images/2024-book-reviews/679d13bf26eb5c91.png)
 
 _The book’s original cover in the 1966 Italian edition by a Damiano Malabaila._
 
@@ -125,29 +124,29 @@ Written in Palermo
 
 These are the stories contained in the 2022 Italian “orange” edition, which are also included in the English ones:
 
-> 1.  The Mnemogogues (_I Mnemamgoghi_)
-> 2.  Angelic Butterfly (_Angelica Farfalla_)
-> 3.  Order on the Cheap (_L’ordine a buon mercato_)
-> 4.  Man’s Friend (_L’amico dell’uomo_)
-> 5.  Some Applications of the Mimer (_Alcune Applicazioni del Mimete_)
-> 6.  Versamina (_Versamina_)
-> 7.  The Sleeping Beauty in the Fridge: A Winter’s Tale (_La bella addormentata nel frigo: Racconto d’inverno_)
-> 8.  The Measure of Beauty (_La misura della bellezza_)
-> 9.  Full Employment (_Pieno impiego_)
-> 10.  The Sixth Day (_Il sesto giorno_)
-> 11.  Retirement Fund (_Trattamento di quiescienza_)
+1.  The Mnemogogues (_I Mnemamgoghi_)
+2.  Angelic Butterfly (_Angelica Farfalla_)
+3.  Order on the Cheap (_L’ordine a buon mercato_)
+4.  Man’s Friend (_L’amico dell’uomo_)
+5.  Some Applications of the Mimer (_Alcune Applicazioni del Mimete_)
+6.  Versamina (_Versamina_)
+7.  The Sleeping Beauty in the Fridge: A Winter’s Tale (_La bella addormentata nel frigo: Racconto d’inverno_)
+8.  The Measure of Beauty (_La misura della bellezza_)
+9.  Full Employment (_Pieno impiego_)
+10.  The Sixth Day (_Il sesto giorno_)
+11.  Retirement Fund (_Trattamento di quiescienza_)
 
 These are the additional tales that are included in the English edition but not in the Italian ones:
 
-> 12.  Westward (_Verso occidente_)
-> 13.  Seen from Afar (_Visto di lontano_)
-> 14.  The Hard-Sellers (_Procacciatori d’affari_)
-> 15.  Small Red Lights (_Lumini rossi_)
-> 16.  For a Good Purpose (_A fin di bene_)
-> 17.  Psychophant (_Psicofante_)
-> 18.  Recuenco: The Nurse (_Recuenco: la Nutrice_)
-> 19.  Recuenco: The Rafter (_Recuenco: il rafter_)
-> 20.  His Own Blacksmith: To Italo Calvino (_Il fabbro di sé stesso)_
-> 21.  The Servant (_Il servo_)
-> 22.  "Mutiny: To Mario Rigoni Stern (_Ammutinamento_)
-> 23.  Excellent Is the Water (_Ottima è l’acqua_)
+12.  Westward (_Verso occidente_)
+13.  Seen from Afar (_Visto di lontano_)
+14.  The Hard-Sellers (_Procacciatori d’affari_)
+15.  Small Red Lights (_Lumini rossi_)
+16.  For a Good Purpose (_A fin di bene_)
+17.  Psychophant (_Psicofante_)
+18.  Recuenco: The Nurse (_Recuenco: la Nutrice_)
+19.  Recuenco: The Rafter (_Recuenco: il rafter_)
+20.  His Own Blacksmith: To Italo Calvino (_Il fabbro di sé stesso)_
+21.  The Servant (_Il servo_)
+22.  "Mutiny: To Mario Rigoni Stern (_Ammutinamento_)
+23.  Excellent Is the Water (_Ottima è l’acqua_)

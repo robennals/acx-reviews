@@ -1,16 +1,16 @@
 ---
-title: "Wanting: The Power of Mimetic Desire in Everyday Life, by Luke Burgis"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2023-book-reviews"
-contestName: "2023 Book Reviews"
+title: 'Wanting: The Power of Mimetic Desire in Everyday Life, by Luke Burgis'
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2023-book-reviews
+contestName: 2023 Book Reviews
 year: 2023
-publishedDate: "2023-01-01T00:00:00.000Z"
-slug: "wanting-the-power-of-mimetic-desire-in-everyday-life-by-luke-burgis"
-wordCount: 1562
+publishedDate: '2023-01-01T00:00:00.000Z'
+slug: wanting-the-power-of-mimetic-desire-in-everyday-life-by-luke-burgis
+wordCount: 1559
 readingTimeMinutes: 7
-originalUrl: "https://docs.google.com/document/d/1D2MGZ7HW1vRtOtfXYIx9BBUt6ubjEA2n06gpoHcxaFY"
-source: "gdoc"
+originalUrl: https://docs.google.com/document/d/1D2MGZ7HW1vRtOtfXYIx9BBUt6ubjEA2n06gpoHcxaFY
+source: gdoc
 tags:
   - Philosophy
   - Psychology
@@ -20,11 +20,9 @@ tags:
 ![Diagram
 Description automatically generated](https://acximages.ennals.org/images/2023-book-reviews/c8314b09b88bef22.jpg)
 
-_“Most people are other people._
-
-_Their thoughts are someone else's opinions,_
-
-_Their lives a mimicry, their passions a quotation.”  - Oscar Wilde_
+> _“Most people are other people._  
+> _Their thoughts are someone else's opinions,_  
+> _Their lives a mimicry, their passions a quotation.”  - Oscar Wilde_
 
 In the magical world of Harry Potter, Dumbledore imparts a profound piece of wisdom to young Harry: "_It is our choices, Harry, that show what we truly are, far more than our abilities._"
 
@@ -48,9 +46,9 @@ In essence, Girard argues that our desires are not truly our own. Instead, we cr
 
 This realization is unsettling for several reasons:
 
-> 1.  It can lead to a sense of emptiness, even when we obtain our desires. Just like the Rolling Stones famously sang, "I can't get no satisfaction," we may find ourselves constantly chasing the next shiny object, never feeling truly fulfilled.
-> 2.  It fosters herd mentality, as we blindly follow the desires of those around us. This phenomenon is evident in the way college students flock to the same majors or career paths.
-> 3.  It breeds unnecessary rivalry and jealousy, as our quest to be unique and stand out from the crowd is perpetually at odds with our innate tendency to imitate others. The ancient story of Cain and Abel illustrates this point, as their desire to please God ultimately resulted in tragedy.
+1.  It can lead to a sense of emptiness, even when we obtain our desires. Just like the Rolling Stones famously sang, "I can't get no satisfaction," we may find ourselves constantly chasing the next shiny object, never feeling truly fulfilled.
+2.  It fosters herd mentality, as we blindly follow the desires of those around us. This phenomenon is evident in the way college students flock to the same majors or career paths.
+3.  It breeds unnecessary rivalry and jealousy, as our quest to be unique and stand out from the crowd is perpetually at odds with our innate tendency to imitate others. The ancient story of Cain and Abel illustrates this point, as their desire to please God ultimately resulted in tragedy.
 
 ## The Social Media Games: Unmasking the Desire Arena
 
@@ -62,9 +60,9 @@ And what they have dictates what we want.
 
 Sometimes, mimesis manifests in innocuous ways, like ordering a martini instead of a beer at a bar simply because a friend did so. However, there are times when mimesis takes on a more sinister tone.
 
-> *   When a friend announces their promotion, you suddenly feel anxious and left behind.
-> *   Or when a neighbor moves into a swanky new community, your once-beloved home starts to feel like a prison.
-> *   As you watch your friend drive off in their new Tesla, you might opt for a classic Mustang to stand out. You tell yourself and others that it's about tradition and the environment, but deep down, you know it's still all about mimesis, like an intricate dance of desire.
+*   When a friend announces their promotion, you suddenly feel anxious and left behind.
+*   Or when a neighbor moves into a swanky new community, your once-beloved home starts to feel like a prison.
+*   As you watch your friend drive off in their new Tesla, you might opt for a classic Mustang to stand out. You tell yourself and others that it's about tradition and the environment, but deep down, you know it's still all about mimesis, like an intricate dance of desire.
 
 ## The Freshmainstan Chronicles
 

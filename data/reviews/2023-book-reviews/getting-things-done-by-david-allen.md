@@ -7,17 +7,16 @@ contestName: 2023 Book Reviews
 year: 2023
 publishedDate: '2026-02-06T07:21:10.029Z'
 slug: getting-things-done-by-david-allen
-wordCount: 2635
+wordCount: 2639
 readingTimeMinutes: 12
-originalUrl: >-
-  https://docs.google.com/document/d/10CiEI7aDL2bMIdx7yayy3vlq0TJ8dO5LGnG7yIDPiw8
+originalUrl: https://docs.google.com/document/d/10CiEI7aDL2bMIdx7yayy3vlq0TJ8dO5LGnG7yIDPiw8
 source: gdoc
 tags:
   - Psychology
   - Society
 ---
 
-**I.**
+## I.
 
 “Productivity systems” like _Getting Things Done_ (GTD) have a bit of a bad reputation in certain circles. Imagine the cool kids in the back row yelling: “All you accomplish with GTD is turning yourself into an even more efficient cog in the machine!” Meanwhile, the diligent student in the front row points out that if you already have good productivity habits, GTD is superfluous and you’re wasting your time reading this essay. Go polish your GWWC pledge pin, or something.
 
@@ -35,9 +34,8 @@ GTD is another tool that can “help anyone achieve their aims”. If Ord’s sp
 
 (This is probably the most appropriate place for me to insert the obvious disclaimer: GTD is not a panacea. But for a select number of failure modes – not the low-hanging fruit you’re already familiar with – GTD can be of immense help.)
 
-**II.**
+## II.
 
-  
 A caveat before you start implementing GTD: It’s likely that your first implementation of it will fail. Most people need several attempts before it’s automated to the point where it’s just “how you do things”. There’s a fairly obvious chain of causality behind that:
 
 You approach or hit a limit of your ability to stay on top of stuff in your life → You become interested in methods to get better organized/more productive, finding GTD → Setting up a GTD-like system requires additional cognitive bandwidth, using up the remaining slack in your system → a minor additional demand (work deadline, social occasion, whatever) pushes you over your limit → giving up GTD is more feasible than giving up anything else → You revert to your previous system of organization.
@@ -46,7 +44,7 @@ It’s normal to go through this multiple times.
 
 The outcome we want isn’t to have an organization system requiring huge amounts of ongoing maintenance. It’s the exact opposite. We want to be relaxed and on top of our responsibilities without having to extend mental resources to maintain this state. No frequently broken commitments, no “surprise” events or deadlines that were foreseeable, no ambiguity of what needs to be done when and by whom. In order to achieve this, your implementation needs to be right for you. The multiple iterations process adapts the system to your needs, but it’s generally a good idea to start by copying someone else’ successful implementation. If this outcome sounds desirable to you but what I’m about to describe makes zero sense, it may be helpful to search around the internet or YouTube for other implementations until you find one that “clicks”.
 
-**III.**
+## III.
 
 The central principle behind the success of GTD is this insight: Y_our brain is for having ideas, not holding them._ To clear the space, you must take everything clogging up your mental bandwidth – everything, however minor, that is not how it is supposed to be and that you have accepted even the tiniest amount of responsibility for – and get it out of your brain into a trusted external system that you review regularly. That’s it. The rest is commentary.
 
@@ -82,14 +80,13 @@ This is where the various implementations of GTD differ the most, and where it�
 
 This is another step that _**must not be skipped**_. The reason is that your brain needs to trust you, on a gut level, that the stuff you got out of your brain and into your system will actually be dealt with. Otherwise, it will keep reminding you of it and you haven’t freed up your cognitive bandwidth. Allen suggests doing this in a Weekly Review process. He says it’s the time to “gather and process all your ‘stuff’, review your system, update your lists, get clean, clear, current and complete”. Put differently, the goal of this step is to make sure your mind is clear and you’ve captured everything, and that your attention is directed appropriately in the time to come (so you’re aware of deadlines, etc.) This is another area where experimenting is worthwhile.
 
-  
 5) Doing it.
 
 You may have noticed that there is no sorting by priorities in the steps above. If you’re diligent about regularly reviewing and not putting stuff on your calendar that doesn’t belong there, you need day-to-day-prioritizing much less than you think. Nonetheless, many implementations include priorisation (including Everdo). Again, find what works for you.
 
 GTD does include explicit prioritization. It happens in the second part of the book.
 
-**IV.**
+## IV.
 
 The process outlined above is only about half of the book. The rest includes reflections on how implementing this goes more smoothly, advice on successful planning (to wit: ask “why” a lot), and a guide to prioritization that aims at _aligning your next actions and projects with your priorities at every level of resolution._ To visualize this, Allen uses an airplane metaphor. He divides the reflection process in six categories:
 

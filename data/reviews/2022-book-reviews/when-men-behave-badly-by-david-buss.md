@@ -7,10 +7,9 @@ contestName: 2022 Book Reviews
 year: 2022
 publishedDate: '2026-02-06T07:21:54.184Z'
 slug: when-men-behave-badly-by-david-buss
-wordCount: 4404
+wordCount: 4394
 readingTimeMinutes: 20
-originalUrl: >-
-  https://docs.google.com/document/d/1hFzjXliCAWjvheY-8Qd2fhbF79LnX0Xg6R9eqk9yIyI
+originalUrl: https://docs.google.com/document/d/1hFzjXliCAWjvheY-8Qd2fhbF79LnX0Xg6R9eqk9yIyI
 source: gdoc
 tags:
   - Psychology
@@ -51,9 +50,9 @@ David Buss is not alone in this. While male sexual psychology has been thoroughl
 
 David Buss clearly follows the mainstream narrative on human female evolution. Especially his chapter about how women evolved defenses against rape is based on the assumptions that 
 
-> 1.  Female choice was very important for ancestral humans. For that reason females must have developed defenses against men's attempts to force them.
-> 2.  Raped women are often treated badly in the traditional societies we know of. In order to avoid that bad treatment, defenses against rape should have evolved among women.
-> 3.  Women find rape very traumatic in current society.
+1.  Female choice was very important for ancestral humans. For that reason females must have developed defenses against men's attempts to force them.
+2.  Raped women are often treated badly in the traditional societies we know of. In order to avoid that bad treatment, defenses against rape should have evolved among women.
+3.  Women find rape very traumatic in current society.
 
 David Buss cites a professor who liked to claim: "Men are one long breeding experiment run by women." But Buss doesn't cite any ethnographic study that supports this claim, like if it weren't the least controversial. That is strange. Everybody knows that in non-modern societies, and also in several current non-Western societies, women very often don't have much hope of choosing their mates themselves. Why assume that the parts of history we don't know about were totally opposite to the parts of history we know about?
 
@@ -69,8 +68,8 @@ David Buss claims that not being raped is important for women and always was and
 
 Well, I would. For two reasons:
 
-> 1.  The assumption that women have developed great defenses against rape risks putting an unfair burden on women to defend themselves against rape. If nature gave women tough defense mechanisms, then if follows that we can ask women to use those defense mechanisms to avoid being raped. This is not a small problem: [One of the most commonly reported reasons for rape victims to feel traumatized](https://egrove.olemiss.edu/cgi/viewcontent.cgi?article=1228&context=etd) is that they blame themselves.
-> 2.  If we assume post-rape-trauma is a natural and inevitable defense-mechanism against rape, then there is not much we can do to decrease post-rape-trauma except dramatically decreasing rape rates, which has shown to be stubbornly difficult. For example, [a survey from 2015](https://www.cdc.gov/violenceprevention/pdf/2015data-brief508.pdf) says that as many as 20 per cent of all women experience rape or attempted rape. David Buss cites a figure that 16 percent of women are raped by a partner. It would, of course, be a great idea to reduce those numbers. But no one thinks they can be reduced to zero in the foreseeable future. In the beginning of the book, David Buss stated that his aims are both to "reduce the occurrence of sexual conflict and heal the harms it creates". Assuming that rape victims must feel very bad, no matter what, because nature made them so, is not a good starting point for harm reduction. If we investigate it thoroughly and find out that sadly, rape victims really must feel very bad for extended times, then we need to accept it and deal with it. But only then.
+1.  The assumption that women have developed great defenses against rape risks putting an unfair burden on women to defend themselves against rape. If nature gave women tough defense mechanisms, then if follows that we can ask women to use those defense mechanisms to avoid being raped. This is not a small problem: [One of the most commonly reported reasons for rape victims to feel traumatized](https://egrove.olemiss.edu/cgi/viewcontent.cgi?article=1228&context=etd) is that they blame themselves.
+2.  If we assume post-rape-trauma is a natural and inevitable defense-mechanism against rape, then there is not much we can do to decrease post-rape-trauma except dramatically decreasing rape rates, which has shown to be stubbornly difficult. For example, [a survey from 2015](https://www.cdc.gov/violenceprevention/pdf/2015data-brief508.pdf) says that as many as 20 per cent of all women experience rape or attempted rape. David Buss cites a figure that 16 percent of women are raped by a partner. It would, of course, be a great idea to reduce those numbers. But no one thinks they can be reduced to zero in the foreseeable future. In the beginning of the book, David Buss stated that his aims are both to "reduce the occurrence of sexual conflict and heal the harms it creates". Assuming that rape victims must feel very bad, no matter what, because nature made them so, is not a good starting point for harm reduction. If we investigate it thoroughly and find out that sadly, rape victims really must feel very bad for extended times, then we need to accept it and deal with it. But only then.
 
 To be fair, David Buss does not imply in any way that rape victims should be blamed for not resisting. He explains that "tonic immobility" could be an adaptation for survival when resistance seems futile. However, that explanation only relieves victims who experienced tonic immobility from guilt. It thus places a burden on rape victims to assess whether it really was tonic immobility they experienced, or merely common indecision.
 
@@ -96,9 +95,9 @@ When David Buss writes about the social costs of rape in history, he writes abou
 
 Imagine it yourself: You are 13 years old. You hope for a future with children and grandchildren (almost everyone  in your society does). It is your wedding night, in bed with a man you didn't choose yourself. He is not attractive the way you dreamt of. You don't like the way he smells. Now he obviously thinks that he is going to penetrate you, which, besides, hurts like hell. What do you do?
 
-> 1.  Bite him! Kick him! Scratch him!
-> 2.  Comply silently
-> 3.  Fake some enthusiasm
+1.  Bite him! Kick him! Scratch him!
+2.  Comply silently
+3.  Fake some enthusiasm
 
 If you take alternative A, you will be true to your feelings. But how about the children and grandchildren? If the man doesn't like you, he might become angry and violent. If he possesses the normal male aversion towards sexual violence, he might be put off by your resistance and go out and seek other women, which is likely to decrease his investment in you and your future children.
 
@@ -132,8 +131,8 @@ With the knowledge from _The Murderer Next Door_ fresh in mind, the first thing 
 
 In summary, David Buss's essential points are:
 
-> 1.  All men do not want to pursue overly selfish mating strategies. Most men profoundly dislike the thought of rape and sexual deception. The men who behave badly tend to be a subgroup high in certain psychological traits.
-> 2.  In order to defeat that subgroup, their motives and methods need to be understood. Other men and women need to adapt their behavior in order to take away ground from people acting in a narcissistic way.
+1.  All men do not want to pursue overly selfish mating strategies. Most men profoundly dislike the thought of rape and sexual deception. The men who behave badly tend to be a subgroup high in certain psychological traits.
+2.  In order to defeat that subgroup, their motives and methods need to be understood. Other men and women need to adapt their behavior in order to take away ground from people acting in a narcissistic way.
 
 With _When Men Behave Badly_, David Buss has suggested a way forward in a question that is often overtly (and overly) politicized. When it comes to the details, especially concerning female desire, more research is needed. But the concept that we need to understand ourselves in order to make the world a better place, is certainly a way forward.
 

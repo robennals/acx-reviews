@@ -1,5 +1,5 @@
 ---
-title: 'L''Ambroisie, by Bernard Pacaud'
+title: L'Ambroisie, by Bernard Pacaud
 author: Unknown
 reviewAuthor: Anonymous
 contestId: 2025-non-book-reviews
@@ -7,10 +7,9 @@ contestName: 2025 Non Book Reviews
 year: 2025
 publishedDate: '2026-02-06T16:55:03.478Z'
 slug: lambroisie-by-bernard-pacaud
-wordCount: 5789
+wordCount: 5777
 readingTimeMinutes: 26
-originalUrl: >-
-  https://docs.google.com/document/d/1a3q0Z2tuPLLbDeg5-pfEffkajGjrfPDwE7ZMs7uaWQs
+originalUrl: https://docs.google.com/document/d/1a3q0Z2tuPLLbDeg5-pfEffkajGjrfPDwE7ZMs7uaWQs
 source: gdoc
 tags:
   - Memoir
@@ -28,35 +27,35 @@ First, a quick preface of fine dining for the unfamiliar. Although it can someti
 
 The following is a quick array of what people "typically" think of as fine dining, sampled from my own travels, as a supplant to years of experience:
 
-![](https://acximages.ennals.org/images/2025-non-book-reviews/ab919c366a416389.png)
+![](https://acximages.ennals.org/images/2025-non-book-reviews/cddce7fe7dfe0291.png)
 
 [please embed rather than upload: [https://i.imgur.com/s9xvLn4.png](https://i.imgur.com/s9xvLn4.png)]
 
 From left to right, top to bottom:
 
-> *   Langoustine and peas at CORE by Clare Smyth (London, UK), 3 stars
-> *   Mackerel and lemon at the Restaurant de l'Hôtel de Ville Crissier (Geneva region, Switzerland), 3 stars
-> *   Toasted nuts and ras-el-hanout at Noor (Cordoba, Spain), 3 stars
-> *   Foie gras and quince at Per Se (New York, USA), 3 stars
-> *   Caviar, shrimp, rockfish gelée at Le Louis XV (Monaco), 3 stars
-> *   Kamasu (barracuda) sushi at Sushi Ginza Onodera (New York, USA), 2 stars
+*   Langoustine and peas at CORE by Clare Smyth (London, UK), 3 stars
+*   Mackerel and lemon at the Restaurant de l'Hôtel de Ville Crissier (Geneva region, Switzerland), 3 stars
+*   Toasted nuts and ras-el-hanout at Noor (Cordoba, Spain), 3 stars
+*   Foie gras and quince at Per Se (New York, USA), 3 stars
+*   Caviar, shrimp, rockfish gelée at Le Louis XV (Monaco), 3 stars
+*   Kamasu (barracuda) sushi at Sushi Ginza Onodera (New York, USA), 2 stars
 
 All of them excellent examples of fine dining to my palate and eye.
 
 _Au contraire_, a selection of places that did not live up to my standards, despite their high regard and reputations in the culinary and critical worlds:
 
-![](https://acximages.ennals.org/images/2025-non-book-reviews/c528678a44f89a0e.png)
+![](https://acximages.ennals.org/images/2025-non-book-reviews/270b07df4d9f2c12.png)
 
 [please embed rather than upload: [https://i.imgur.com/nzbgKdR.png](https://i.imgur.com/nzbgKdR.png)]
 
 From left to right, top to bottom:
 
-> *   Tuna sashimi with caviar, vegetables, and shoyu at L'Oiseau Blanc (Paris, France), 2 stars
-> *   Smoked salmon and wasabi at Le Pré Catelan (Paris, France), 3 stars
-> *   Salad and champagne jelly at Pavillon Ledoyen (Paris, France), 3 stars
-> *   Beef hump with some jjang-like sauce at Mugaritz (San Sebastian region, Spain), 2 stars
-> *   Squab, cheongju, red onion at Atomix (New York, USA), 2 stars
-> *   Buri (yellowtail) sushi at Harutaka (Tokyo, Japan), 3 stars
+*   Tuna sashimi with caviar, vegetables, and shoyu at L'Oiseau Blanc (Paris, France), 2 stars
+*   Smoked salmon and wasabi at Le Pré Catelan (Paris, France), 3 stars
+*   Salad and champagne jelly at Pavillon Ledoyen (Paris, France), 3 stars
+*   Beef hump with some jjang-like sauce at Mugaritz (San Sebastian region, Spain), 2 stars
+*   Squab, cheongju, red onion at Atomix (New York, USA), 2 stars
+*   Buri (yellowtail) sushi at Harutaka (Tokyo, Japan), 3 stars
 
 The keen eye will notice a few commonalities: too many incoherent components to a dish, a clumsy approach to fusion across cultures, and a lack of meticulousness. A further critique on taste would extend to subpar ingredient sourcing, ineffective light (or absent) saucing, poor (or light, or absent) preparation of proteins (again, inspired by Japan and Scandinavia), and a lack of meticulousness (translating to haphazard presentation). This is [not](https://www.nytimes.com/2024/02/27/dining/restaurant-review-noksu.html) a [new](https://www.gastromondiale.com/2016-9-9-michelin-a-friendship-that-went-sour/) opinion, albeit a contrarian one.
 

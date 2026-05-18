@@ -1,28 +1,25 @@
 ---
-title: "The Forgotten Revolution. How Science Was Born in 300 BC and Why it Had to Be Reborn by Lucio Russo"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2023-book-reviews"
-contestName: "2023 Book Reviews"
+title: The Forgotten Revolution. How Science Was Born in 300 BC and Why it Had to Be Reborn by Lucio Russo
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2023-book-reviews
+contestName: 2023 Book Reviews
 year: 2023
-publishedDate: "2023-01-01T00:00:00.000Z"
-slug: "the-forgotten-revolution-how-science-was-born-in-300-bc-and-why-it-had-to-be-reborn-by-lucio-russo"
-wordCount: 2435
+publishedDate: '2023-01-01T00:00:00.000Z'
+slug: the-forgotten-revolution-how-science-was-born-in-300-bc-and-why-it-had-to-be-reborn-by-lucio-russo
+wordCount: 2439
 readingTimeMinutes: 11
-originalUrl: "https://docs.google.com/document/d/1AtGIIv371v0Yu35eNsIxJr67dw4SHOiGdKrqmoKt2hg"
-source: "gdoc"
+originalUrl: https://docs.google.com/document/d/1AtGIIv371v0Yu35eNsIxJr67dw4SHOiGdKrqmoKt2hg
+source: gdoc
 tags:
   - History
   - Science
 ---
 
-_Lucio Russo_
-
-_The Forgotten Revolution_
-
-_How Science Was Born in 300 BC and Why it Had to Be Reborn_
-
-_Springer 2004_
+> _Lucio Russo_  
+> _The Forgotten Revolution_  
+> _How Science Was Born in 300 BC and Why it Had to Be Reborn_  
+> _Springer 2004_
 
 **The forgotten revolution** is not a harmless book. Despite being ultimately an ancient history book, it possesses the remarkable ability of taking a hammer to your certainties and hitting them repeatedly until they crumble to dust. Certainties about ancient history, you ask? Sure, but certainties about mathematics and the scientific method as well.
 

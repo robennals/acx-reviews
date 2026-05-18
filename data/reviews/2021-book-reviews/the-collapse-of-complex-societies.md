@@ -7,9 +7,9 @@ contestName: 2021 Book Reviews
 year: 2021
 publishedDate: '2026-02-05T15:44:24.302Z'
 slug: the-collapse-of-complex-societies
-wordCount: 5691
+wordCount: 5654
 readingTimeMinutes: 26
-originalUrl: 'https://astralcodexten.substack.com/p/your-book-review-the-collapse-of'
+originalUrl: https://astralcodexten.substack.com/p/your-book-review-the-collapse-of
 source: acx
 tags:
   - History

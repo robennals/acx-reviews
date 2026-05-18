@@ -21,6 +21,12 @@ import { resolvePublishedDate } from './lib/preserve-published-date';
 import { fetchGDocAsHTML, convertGDocToMarkdown } from './lib/gdoc-html';
 import { stringifyMarkdown } from './lib/frontmatter';
 import { runDedupeCrossSource } from './lib/dedupe-cross-source';
+import {
+  loadExceptions,
+  findSlugRename,
+  findH2Override,
+  applyH2Overrides,
+} from './lib/gdoc-exceptions';
 
 const GDOCS_SOURCES_PATH = path.join(process.cwd(), 'data/sources/gdocs-urls.json');
 const REVIEWS_DIR = path.join(process.cwd(), 'data/reviews');
@@ -408,7 +414,10 @@ async function createMarkdownFile(
   // Serialize frontmatter via the gray-matter wrapper that disables YAML
   // line-folding. Using gray-matter's defaults would fold long titles/slugs
   // onto multiple lines using the `>-` indicator, producing noisy diffs.
-  const newFrontmatter = stringifyMarkdown(processedContent, {
+  // Prepend a newline to the content so gray-matter emits a blank line
+  // between the closing `---` of the frontmatter and the first body
+  // paragraph (matches the convention fetch-from-csv uses).
+  const newFrontmatter = stringifyMarkdown('\n' + processedContent, {
     title: data.title,
     author: data.author,
     reviewAuthor: data.reviewAuthor,
@@ -425,19 +434,30 @@ async function createMarkdownFile(
   });
 
   // 4. If an old file exists, diff-check before overwrite.
+  //
+  // Exception: if the existing file's originalUrl matches the new content's
+  // originalUrl, both came from the same gdoc — they are the same review
+  // and any body drift is just pipeline-version markup drift (an extra `##`
+  // heading detected, a blockquote-wrap, etc.). Overwrite without diff-check.
+  // Without this exception, the pipeline falls through to the `-2`-suffix
+  // fallback in the outer loop and creates a duplicate sibling file.
   if (fs.existsSync(filePath)) {
     const oldContent = fs.readFileSync(filePath, 'utf8');
-    const diff = checkDiff(oldContent, newFrontmatter);
-    if (!diff.safe) {
-      console.log(`  ⚠️  SKIP ${slug}: ${diff.reason}`);
-      return {
-        wrote: false,
-        skipped: true,
-        reason: diff.reason,
-        totalImages: imageResult.totalImages,
-        uploadedImages: imageResult.uploadedCount,
-        reusedImages: imageResult.reusedCount,
-      };
+    const oldUrl = matter(oldContent).data.originalUrl;
+    const sameSource = typeof oldUrl === 'string' && oldUrl === data.originalUrl;
+    if (!sameSource) {
+      const diff = checkDiff(oldContent, newFrontmatter);
+      if (!diff.safe) {
+        console.log(`  ⚠️  SKIP ${slug}: ${diff.reason}`);
+        return {
+          wrote: false,
+          skipped: true,
+          reason: diff.reason,
+          totalImages: imageResult.totalImages,
+          uploadedImages: imageResult.uploadedCount,
+          reusedImages: imageResult.reusedCount,
+        };
+      }
     }
   }
 
@@ -541,11 +561,31 @@ async function processDoc(
       console.log(`  Found ${reviews.length} reviews in composite doc "${source.name}"`);
     }
 
+    const exceptions = loadExceptions();
+
     for (const review of reviews) {
-      const baseSlug = slugify(review.title)
+      let baseSlug = slugify(review.title)
         || generateFallbackSlug(review.title, review.content);
       if (baseSlug !== slugify(review.title)) {
         console.log(`  ⚠️  Empty slug for title "${review.title}", using fallback: ${baseSlug}`);
+      }
+
+      // Apply exception: rename the slug + title for known one-off cases
+      // (e.g., a section heading the pipeline mistakes for a separate review).
+      const renameRule = findSlugRename(exceptions, baseSlug);
+      if (renameRule) {
+        console.log(`  ↻ Exception: "${review.title}" (slug ${baseSlug}) → "${renameRule.toTitle}" (slug ${renameRule.toSlug})`);
+        review.title = renameRule.toTitle;
+        baseSlug = renameRule.toSlug;
+      }
+
+      // Apply exception: override H2 promotions for known one-off bold-line
+      // patterns (e.g., paired-bold authors where the generic rule picks the
+      // wrong one). The override is keyed by the final base slug.
+      const h2Override = findH2Override(exceptions, baseSlug);
+      if (h2Override) {
+        console.log(`  ↻ Exception: applying H2 override for slug ${baseSlug}`);
+        review.content = applyH2Overrides(review.content, h2Override.h2Lines);
       }
 
       // Try baseSlug, then baseSlug-2, baseSlug-3, … until we find a slot

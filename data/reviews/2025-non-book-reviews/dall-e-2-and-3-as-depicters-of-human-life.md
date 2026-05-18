@@ -9,8 +9,7 @@ publishedDate: '2026-02-06T16:52:48.891Z'
 slug: dall-e-2-and-3-as-depicters-of-human-life
 wordCount: 4175
 readingTimeMinutes: 19
-originalUrl: >-
-  https://docs.google.com/document/d/1d0vRSj1E93joWWvbUen2XGuDjN_mM94ybMIAADzM2fo
+originalUrl: https://docs.google.com/document/d/1d0vRSj1E93joWWvbUen2XGuDjN_mM94ybMIAADzM2fo
 source: gdoc
 tags:
   - Technology
@@ -131,7 +130,7 @@ Regarding any activity or trait that’s judgable, these images are way far up a
 
  I wanted to cap this a section with an image of life rolling downhill towards Barbieland but here’s what happened when I submitted the prompt to Dall-e 3 via GPT4:
 
-![](https://acximages.ennals.org/images/2025-non-book-reviews/5e3cd1d1f196fc9c.jpg)
+![](https://acximages.ennals.org/images/2025-non-book-reviews/65f19582fd4e9597.jpg)
 
 I rest my case.
 
@@ -163,7 +162,7 @@ _Prompt_: Illustration in the style of a 1950s magazine cover of two people craz
 
 _Song_: ["Why Do Fools Fall in Love"](https://www.youtube.com/watch?v=2sAHiR0rkJg)
 
-![](https://acximages.ennals.org/images/2025-non-book-reviews/6a8f4a0d36bbbbf0.png)
+![](https://acximages.ennals.org/images/2025-non-book-reviews/1b039ccda1527b6f.png)
 
 ### #4 (Dall-e 2)
 
@@ -171,7 +170,7 @@ _Prompt_: Take another little piece of my heart. You'll know you've got it if it
 
 _Song:_ ["Piece of My Heart"](https://www.youtube.com/watch?v=SCngPse1iiI)
 
-![](https://acximages.ennals.org/images/2025-non-book-reviews/86e12bb1651592fe.png)
+![](https://acximages.ennals.org/images/2025-non-book-reviews/d52553f3073e59e4.png)
 
 ### #5 (Dall-e 2)
 
@@ -179,7 +178,7 @@ _Prompt_: a man telling a woman she is going to give him her love.
 
 _Song_: ["Not Fade Away"](https://www.youtube.com/watch?v=ZWjoXMY6FNo)
 
-![](https://acximages.ennals.org/images/2025-non-book-reviews/d8d6b9a66f2e64a2.jpg)
+![](https://acximages.ennals.org/images/2025-non-book-reviews/5ead6ae535bfa23f.jpg)
 
 ### #6 (Dall-e 2)
 

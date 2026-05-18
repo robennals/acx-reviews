@@ -9,8 +9,7 @@ publishedDate: '2022-01-01T00:00:00.000Z'
 slug: the-book-of-why-by-judea-pearl-2022
 wordCount: 1243
 readingTimeMinutes: 6
-originalUrl: >-
-  https://docs.google.com/document/d/100kMdSVFviZSSBvUyyEQPMNlvLptVQxHFD9i9wGuBWs
+originalUrl: https://docs.google.com/document/d/100kMdSVFviZSSBvUyyEQPMNlvLptVQxHFD9i9wGuBWs
 source: gdoc
 tags:
   - Philosophy

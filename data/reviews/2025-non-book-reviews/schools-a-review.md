@@ -7,10 +7,9 @@ contestName: 2025 Non Book Reviews
 year: 2025
 publishedDate: '2026-02-06T16:55:03.486Z'
 slug: schools-a-review
-wordCount: 3249
+wordCount: 3237
 readingTimeMinutes: 15
-originalUrl: >-
-  https://docs.google.com/document/d/1a3q0Z2tuPLLbDeg5-pfEffkajGjrfPDwE7ZMs7uaWQs
+originalUrl: https://docs.google.com/document/d/1a3q0Z2tuPLLbDeg5-pfEffkajGjrfPDwE7ZMs7uaWQs
 source: gdoc
 tags:
   - Society
@@ -18,13 +17,12 @@ tags:
 
 By E.N.
 
-_Trigger warning: mentions schools_
-
-_Epistemic status: product reviews sometimes exaggerate_
+> _Trigger warning: mentions schools_  
+> _Epistemic status: product reviews sometimes exaggerate_
 
 Readers of this blog are unlikely to hold schools in the highest esteem. [Scott](https://slatestarcodex.com/2014/05/23/ssc-gives-a-graduation-speech/) [Alexander](https://www.astralcodexten.com/p/book-review-the-cult-of-smart), [Bryan Caplan](https://www.amazon.com/Case-against-Education-System-Waste/dp/0691174652), [Eliezer Yudkowsky](https://www.lesswrong.com/posts/48WeP7oTec3kBEada/two-more-things-to-unlearn-from-school) and [Zvi Mowshowitz](https://thezvi.substack.com/p/childhood-and-education-9-school) have pointed at a range of different problems with schools. However, most people still accept schools as a given, and say things like "schools teach many necessary subjects",  "parents need some place to babysit their kids" or "kids need to learn social skills". I think this complacency is mistaken. The current K-12 US education system causes unnecessary suffering and waste due to flawed beliefs, and fails to teach many important skills. This should have been fixed long ago but the advance of AI provides new opportunities for change.
 
-![](https://acximages.ennals.org/images/2025-non-book-reviews/68429b03c6a2572a.png)
+![](https://acximages.ennals.org/images/2025-non-book-reviews/7d4b44e451523606.png)
 
 ## The Limit of Enlightenment
 
@@ -48,11 +46,11 @@ Many kids are required to move on to more advanced topics in a subject before th
 
 Some people dismiss the boredom brighter kids face in school. There is a real issue however, regardless of your ethical framework:
 
-> *   Short-term boredom is often dismissed as trivial, but 8-12 years of it adds up to real suffering.
-> *   Harming someone is wrong, regardless of whether it's common.
-> *   If kids aren't achieving what they can, they're missing out on the meaning and fulfillment that is their right. Many philosophers stressed the importance of living virtuously by fulfilling one's purpose.
-> *   If a kid isn't learning something or enjoying the class, their time is wasted, and so are school resources.
-> *   Holding back kids from learning can prevent or delay them from applying their skills usefully, and thereby harms society.
+*   Short-term boredom is often dismissed as trivial, but 8-12 years of it adds up to real suffering.
+*   Harming someone is wrong, regardless of whether it's common.
+*   If kids aren't achieving what they can, they're missing out on the meaning and fulfillment that is their right. Many philosophers stressed the importance of living virtuously by fulfilling one's purpose.
+*   If a kid isn't learning something or enjoying the class, their time is wasted, and so are school resources.
+*   Holding back kids from learning can prevent or delay them from applying their skills usefully, and thereby harms society.
 
 ## How Not to Learn
 
@@ -70,11 +68,11 @@ Schools focus on academic topics while practically ignoring other life skills, l
 
 Those are some of the issues with education today, but the status quo cannot continue. The recent rise of AI changes everything in a few connected ways:
 
-> 1.  Powerful tutoring and learning tools are becoming available to everyone.
-> 2.  With AI help readily available, homework cannot continue unchanged since cheating is so easy.
-> 3.  As AI masters human skills, many traditional subjects become even less practically relevant.
-> 4.  The most practical skill will be learning how to effectively use the AI tools.
-> 5.  Using AI tools, kids will be able to accomplish much across a range of subjects.
+1.  Powerful tutoring and learning tools are becoming available to everyone.
+2.  With AI help readily available, homework cannot continue unchanged since cheating is so easy.
+3.  As AI masters human skills, many traditional subjects become even less practically relevant.
+4.  The most practical skill will be learning how to effectively use the AI tools.
+5.  Using AI tools, kids will be able to accomplish much across a range of subjects.
 
 Schools should have improved long ago, but maybe AI can now help make it happen.
 
@@ -86,8 +84,8 @@ If it's true that AI is taking over in [2027](https://ai-2027.com/), there would
 
 There's two basic skills that some kids learn in school that are genuinely important:
 
-> *   **Basic reading**: Many kids can learn this at home, but schools should help those who need it with evidence-based techniques like phonics rather than popular methods that [don't work](https://www.apmreports.org/episode/2019/08/22/whats-wrong-how-schools-teach-reading). Once kids can read, give them opportunities to read books they personally find interesting. No need for years of group read-alouds where kids are forced to follow along with the reader.
-> *   **Basic math**: Understanding basic math (such as fractions and exponents) is important for navigating the modern world, but many adults struggle with this. By eliminating regular grade levels and using AI-assisted tutoring, everyone can get the help they need to understand these topics. There's no need to force everyone to learn advanced topics like trigonometry or geometry. Instead, expose kids to mathematical ideas and let them explore what interests them. Those who enjoy it will pursue it further.
+*   **Basic reading**: Many kids can learn this at home, but schools should help those who need it with evidence-based techniques like phonics rather than popular methods that [don't work](https://www.apmreports.org/episode/2019/08/22/whats-wrong-how-schools-teach-reading). Once kids can read, give them opportunities to read books they personally find interesting. No need for years of group read-alouds where kids are forced to follow along with the reader.
+*   **Basic math**: Understanding basic math (such as fractions and exponents) is important for navigating the modern world, but many adults struggle with this. By eliminating regular grade levels and using AI-assisted tutoring, everyone can get the help they need to understand these topics. There's no need to force everyone to learn advanced topics like trigonometry or geometry. Instead, expose kids to mathematical ideas and let them explore what interests them. Those who enjoy it will pursue it further.
 
 **Academic Knowledge**
 
@@ -97,39 +95,39 @@ Some say it's worthwhile to learn non-practical mathematical topics since math i
 
 Besides the standard subjects schools teach, they should also provide opportunities for kids to learn practical technical skills such as the basics of:
 
-> *   Statistics, such as understanding p-values or Bayes Theorem
-> *   Coding, increasingly taught, but should be on par with regular subjects
-> *   Dealing with data, e.g. in spreadsheets or databases
+*   Statistics, such as understanding p-values or Bayes Theorem
+*   Coding, increasingly taught, but should be on par with regular subjects
+*   Dealing with data, e.g. in spreadsheets or databases
 
 They should also let kids learn practical life skills such as:
 
-> *   Financial literacy, from basic money management to interest rates and investing
-> *   Best health practices, such as nutrition and oral hygiene
-> *   Legal literacy, such as basic concepts of laws vs norms and later covering topics like contracts
-> *   Critical thinking - schools claim to teach this but rarely do. It's difficult to teach, but AI can help guide students in evaluating arguments, recognizing biases and handling heuristics.
-> *   Using AI - as this becomes increasingly important, kids should learn AI basics such as how to write good prompts and fact-check the AI's output.
+*   Financial literacy, from basic money management to interest rates and investing
+*   Best health practices, such as nutrition and oral hygiene
+*   Legal literacy, such as basic concepts of laws vs norms and later covering topics like contracts
+*   Critical thinking - schools claim to teach this but rarely do. It's difficult to teach, but AI can help guide students in evaluating arguments, recognizing biases and handling heuristics.
+*   Using AI - as this becomes increasingly important, kids should learn AI basics such as how to write good prompts and fact-check the AI's output.
 
 **Interpersonal and Intrapersonal Skills**
 
 Schools shouldn't just teach academic subjects. They should help kids understand themselves and relate to others. "Social skills" are often given as a justification for schools, yet little is done to actually help kids learn it. Some things are learned naturally, but some skills benefit from practice and feedback. This could include broader communication skills such as:
 
-> *   [Nonviolent communication](https://en.wikipedia.org/wiki/Nonviolent_Communication) and conflict resolution
-> *   Negotiation
-> *   Giving and receiving feedback
-> *   Developing empathy
-> *   Public speaking
-> *   Digital communication
+*   [Nonviolent communication](https://en.wikipedia.org/wiki/Nonviolent_Communication) and conflict resolution
+*   Negotiation
+*   Giving and receiving feedback
+*   Developing empathy
+*   Public speaking
+*   Digital communication
 
 There are also many internal skills and principles that could be learned and practiced:
 
-> *   Understanding and regulating one's own emotions
-> *   Resilience and stress management
-> *   Ways to cultivate gratitude, which is beneficial for one's own happiness
-> *   Meditation, including exposure to practices that challenge conventional beliefs about the self
-> *   Time management and avoiding distractions, especially in the digital age
-> *   Decision making
-> *   Principle for living well and flourishing (broadly defined and non-ideological)
-> *   Practical tips to live according to one's values and goals, whatever they are
+*   Understanding and regulating one's own emotions
+*   Resilience and stress management
+*   Ways to cultivate gratitude, which is beneficial for one's own happiness
+*   Meditation, including exposure to practices that challenge conventional beliefs about the self
+*   Time management and avoiding distractions, especially in the digital age
+*   Decision making
+*   Principle for living well and flourishing (broadly defined and non-ideological)
+*   Practical tips to live according to one's values and goals, whatever they are
 
 While social and emotional learning (SEL) programs touch on some of these, they're less emphasized than academics. They also may mix in political ideology which can cause a backlash against the entire practice. Helping kids learn these skills helps them be happier now and in the future.
 
@@ -143,25 +141,12 @@ Most learning (at least for older kids) can shift to interactive online tutorial
 
 The learning should connect to interesting projects where possible so that kids can achieve something. For example, they can pick apart an article online to practice statistical or critical thinking, or they can build a game to practice programming. Video games can also be used for some subjects, where they provide a natural path of achievement in a virtual world. For example, games can be used to learn programming, physics or managing resources. AI will eventually enable games for practicing social skills too. Learning should be fun, creative and meaningful rather than rote memorization for a test.
 
-Level of understanding
-
-What it can be used for
-
-Memorization of facts
-
-Repeat the facts or formulas directly
-
-Memorization of techniques
-
-Apply in very similar cases, such as on the test
-
-Pattern matching / some conceptual understanding
-
-Apply to new cases when similar to the learned pattern
-
-Deeper "gears level" grasp
-
-Apply in new circumstances, rediscover ideas, or even push the edge of knowledge forward
+| Level of understanding | What it can be used for |
+| --- | --- |
+| Memorization of facts | Repeat the facts or formulas directly |
+| Memorization of techniques | Apply in very similar cases, such as on the test |
+| Pattern matching / some conceptual understanding | Apply to new cases when similar to the learned pattern |
+| Deeper "gears level" grasp | Apply in new circumstances, rediscover ideas, or even push the edge of knowledge forward |
 
 _Schools currently emphasize memorization, but they should emphasize understanding and applying it._
 

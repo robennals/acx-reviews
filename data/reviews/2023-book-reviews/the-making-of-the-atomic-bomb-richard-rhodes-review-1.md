@@ -1,16 +1,16 @@
 ---
-title: "The Making of the Atomic Bomb - Richard Rhodes (Review 1)"
-author: "Unknown"
-reviewAuthor: "Anonymous"
-contestId: "2023-book-reviews"
-contestName: "2023 Book Reviews"
+title: The Making of the Atomic Bomb - Richard Rhodes (Review 1)
+author: Unknown
+reviewAuthor: Anonymous
+contestId: 2023-book-reviews
+contestName: 2023 Book Reviews
 year: 2023
-publishedDate: "2023-01-01T00:00:00.000Z"
-slug: "the-making-of-the-atomic-bomb-richard-rhodes-review-1"
-wordCount: 6678
+publishedDate: '2023-01-01T00:00:00.000Z'
+slug: the-making-of-the-atomic-bomb-richard-rhodes-review-1
+wordCount: 6665
 readingTimeMinutes: 30
-originalUrl: "https://docs.google.com/document/d/1AtGIIv371v0Yu35eNsIxJr67dw4SHOiGdKrqmoKt2hg"
-source: "gdoc"
+originalUrl: https://docs.google.com/document/d/1AtGIIv371v0Yu35eNsIxJr67dw4SHOiGdKrqmoKt2hg
+source: gdoc
 tags:
   - History
   - Science
@@ -35,7 +35,7 @@ After ~250 (occasionally gruelling) pages we come to the final fundamental scien
 
 Metiner and Frisch, who began to prepare papers explaining the theoretical underpinnings of the new phenomenon, told Neils Bohr, who was about to sail to America, about the discovery. Upon his arrival in January 1939 word of the discovery of fission spread rapidly amongst American physicists. The finest minds were quick to grasp the potential implications. Within about a week of Bohr's arrival, and well before any papers were published,  Enrico Fermi was looking out at Manhattan, cupping his hands “as if he were holding a ball” and telling a colleague, “a little bomb like that… and it would all disappear.” On the opposite side of the continent, recalled one of his students, “there was on the blackboard in Robert Oppenheimer’s office a drawing - a very bad, an execrable drawing - of a bomb.” Thus ends part one.
 
-![](https://acximages.ennals.org/images/2023-book-reviews/3f8a998e93bed5af.png)
+![](https://acximages.ennals.org/images/2023-book-reviews/e989cd950815055d.png)
 
 [Above: Sketches from 1942 of various possible bomb designs]
 
@@ -63,19 +63,19 @@ All of this is to say that America would absolutely not have built the first ato
 
 They were, however, completely wrong; the Germans had gotten nowhere. Nazi self sabotage was immense. For starters they had either forced into exile or decided to murder most of their best scientific and engineering talent. Here's a brief and incomplete list of some of the most important scientists who not only fled Europe, but went on to make significant contributions to the Manhattan Project.
 
-> *   Leo Szilard - Chain reaction, Saw the bomb was possible, Martian.
-> *   John Von Neuman - explosive lenses, (not eyewear, incredibly impressive, extremely difficult to explain, Rhoades does a great job - one of the best parts of the book), essential to building Fat man and later the Hydrogen bomb - Martian, possibly the smartest man who ever lived
-> *   James Franck - director of chemistry at Los Alamos - 1925 Nobel
-> *   Isidor Isaac Rabi - consultant at los alamos - 1944 Nobel
-> *   Enrico Fermi - “Architect of the nuclear age” - not Jewish but his wife was, 1938 Nobel
-> *   Neihls Bohr - discovered the structure of the Atom, consultant at Los Alamos, 1922 Nobel, another contender for smartest man to ever live.
-> *   Otto Frish - explained fission with his aunt Lise Meitner, who was stranded in Sweden - helped determine critical mass - probably should have won the Nobel
-> *   Edward Teller - “Father of the Hydrogen bomb,” Martian
-> *   Hans Bethe - critical mass calculations, implosion theory - 1967 Nobel
-> *   Rudolf Peierls - key to the measurements behind MAUD, first to realise U235 was the key - detonation mechanisms at Los Alamos
-> *   Klaus Fuchs - critical mass calculations with Peierls, MAUD, soviet spy
-> *   Stanislaw Ulam - lenses with von Neuman - his entire family was murdered in the holocaust.
-> *   Albert Einstein - Einstein! Lent his name to the letter to Roosevelt that set the wheels in motion, stayed away from Los Alamos. 1921 Nobel. Another contender for smartest man to ever live.
+*   Leo Szilard - Chain reaction, Saw the bomb was possible, Martian.
+*   John Von Neuman - explosive lenses, (not eyewear, incredibly impressive, extremely difficult to explain, Rhoades does a great job - one of the best parts of the book), essential to building Fat man and later the Hydrogen bomb - Martian, possibly the smartest man who ever lived
+*   James Franck - director of chemistry at Los Alamos - 1925 Nobel
+*   Isidor Isaac Rabi - consultant at los alamos - 1944 Nobel
+*   Enrico Fermi - “Architect of the nuclear age” - not Jewish but his wife was, 1938 Nobel
+*   Neihls Bohr - discovered the structure of the Atom, consultant at Los Alamos, 1922 Nobel, another contender for smartest man to ever live.
+*   Otto Frish - explained fission with his aunt Lise Meitner, who was stranded in Sweden - helped determine critical mass - probably should have won the Nobel
+*   Edward Teller - “Father of the Hydrogen bomb,” Martian
+*   Hans Bethe - critical mass calculations, implosion theory - 1967 Nobel
+*   Rudolf Peierls - key to the measurements behind MAUD, first to realise U235 was the key - detonation mechanisms at Los Alamos
+*   Klaus Fuchs - critical mass calculations with Peierls, MAUD, soviet spy
+*   Stanislaw Ulam - lenses with von Neuman - his entire family was murdered in the holocaust.
+*   Albert Einstein - Einstein! Lent his name to the letter to Roosevelt that set the wheels in motion, stayed away from Los Alamos. 1921 Nobel. Another contender for smartest man to ever live.
 
 I’m sure I’ve missed some, but I think I’ve made my point. The Nazis scored the greatest own goal in history, making a whole bunch of the smartest men in the world hate them with a burning passion, and driving those very smart men to come together to build the most terrible weapon the world had ever seen, with the intention of using it against them. Luckily for Germany they lost the war before it was ready. There were other reasons for German failure; their (remaining) scientists did conclude the bomb was possible, but hesitated about whether it could be achieved with the resources at Germany's disposal during the current war. Germany, unlike the United States, did not have any resources to spare, certainly not on a speculative bet, which any bomb project would be. Before the war Germany already had a far smaller economy and stock of industrial resources than the United States, and as the war advanced building the bomb became a near physical impossibility as the US and British air forces were in the process of reducing the Rhineland and every remotely important German city to rubble. Along with this they were facing 185 million very angry Soviets in a war of extermination in the east, the western allies were working their way through North Africa, Italy, and then France and Germany, and Norwegian commandos, in one of the most daring episodes of the war, destroyed the German reserve of heavy water, the only real physical asset the German bomb program had. Werner Heisenberg, 1932 Nobelist and head of the Nazi bomb programme, claimed after the war that he and the other scientists, horrified by the Nazis, had deliberately sabotaged efforts to build the bomb, but they would say that, wouldn’t they, so who knows. The end came in 1942, when Albert Speer, Hitlers chief engineer, decided to pull the plug on their programme “after I had again queried them [Heisenberg and Co.] about deadlines and been told that we could not not count on anything for three or four years.”
 
@@ -115,6 +115,6 @@ Driving some of those who continued at Los Alamos on even after Germany’s defe
 
 There was another, rarer but perhaps even more terrifying motive present at Los Alamos. Aside from their stated aims, beating the Nazis or saving American lives, and aside from thoughtlessness, many scientists were driven by a deep desire to be at the bleeding edge, to see what could be done, to be a part of something extraordinary, something epoch defining. Back in 1942 and 1943, as scientists were being approached to get involved, and were considering their options, one scientist recorded; “There is a statement of rather common currency around here and Berkeley that goes something like this: “No matter what you do with the rest of your life, nothing will be as important to the future of the World as your work on this Project right now.” Whether it would be important to the future of the world in a good or a bad way was a secondary concern. To many it was work of transcendent importance, something they simply couldn’t miss out on. Oppenheimer, an incredibly sensitive man, certainly as thoughtful as Bohr or Szilard, a man given to think as deeply about ethical or moral dilemmas and consequences as pretty much anyone else alive, a man who throughout his life frequently thought himself into inaction, simply found the temptation of building the bomb overwhelming. As he later put it “when you see something that is technically sweet, you go ahead and do it, and you argue about what to do about it only after you have had your technical success. That is the way it was with the bomb.” I fear that is the way it is still.
 
-![](https://acximages.ennals.org/images/2023-book-reviews/438ba7f5510f88bd.jpg)
+![](https://acximages.ennals.org/images/2023-book-reviews/844abcea374e4f41.jpg)
 
 [The Trinity test]
