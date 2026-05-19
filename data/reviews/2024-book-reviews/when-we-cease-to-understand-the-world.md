@@ -7,7 +7,7 @@ contestName: 2024 Book Reviews
 year: 2024
 publishedDate: '2026-02-06T16:49:50.819Z'
 slug: when-we-cease-to-understand-the-world
-wordCount: 2570
+wordCount: 2571
 readingTimeMinutes: 12
 originalUrl: https://docs.google.com/document/d/1Ki5XsE0jkxZtd2XAeyTAJw1ZjLh2Cu-matUYKAhA6-s
 source: gdoc
@@ -38,7 +38,7 @@ Thirty one years ago, in 1993, Vernor Vinge predicted, though far from the first
 
 _It is a point where our old models must be discarded and a new reality rules. As we move closer to this point, it will loom vaster and vaster over human affairs till the notion becomes a commonplace. Yet when it finally happens it may still be a great surprise and a greater unknown._
 
-_- The Coming Technological Singularity: How to Survive in the Post-Human Era, Vernor Vinge_
+> _- The Coming Technological Singularity: How to Survive in the Post-Human Era, Vernor Vinge_
 
 He reports that John Von Neumann, Freeman Dyson, and Stanislaw Ulam were enamored with the idea and wrestled with it as early as the 1950s.  Why? How did all of these intellects converge early on such a notion, and why did it torment them?
 

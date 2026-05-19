@@ -7,7 +7,7 @@ contestName: 2022 Book Reviews
 year: 2022
 publishedDate: '2026-02-06T07:22:32.827Z'
 slug: the-irony-of-american-history-by-reinhold-niebuhr
-wordCount: 6513
+wordCount: 6522
 readingTimeMinutes: 29
 originalUrl: https://docs.google.com/document/d/100kMdSVFviZSSBvUyyEQPMNlvLptVQxHFD9i9wGuBWs
 source: gdoc
@@ -59,7 +59,7 @@ In the brief preface to the work, Niebuhr introduces his framework for interpret
 
 Irony is a way of interpreting problems in the world. Niebuhr distinguishes irony from two other modes of interpretation: pathos and tragedy. He explains:
 
-“Pathos is that element in a historic situation which elicits pity, but neither deserves admiration nor warrants contrition. Pathos arises from fortuitous cross-purposes and confusions in life for which no reason can be given.”
+> “Pathos is that element in a historic situation which elicits pity, but neither deserves admiration nor warrants contrition. Pathos arises from fortuitous cross-purposes and confusions in life for which no reason can be given.”
 
 Pathos might arise from, say, an unforeseeable natural disaster, or a ship sinking in a storm.
 
@@ -69,11 +69,11 @@ One classical example of a tragic decision is Agamemnon sacrificing his own daug
 
 Both of these are distinct from irony:
 
-“Irony consists of apparently fortuitous incongruities in life which are discovered, upon closer examination, to be not merely fortuitous.”
+> “Irony consists of apparently fortuitous incongruities in life which are discovered, upon closer examination, to be not merely fortuitous.”
 
 It’s not the catchiest formulation so here are some concrete examples:
 
-“If virtue becomes vice through some hidden defect in the virtue; if strength becomes weakness because of the vanity to which strength may prompt the mighty man or nation; if security is transmuted into insecurity because too much reliance is placed upon it; if wisdom becomes folly because it does not know its own limits — in all such cases the situation is ironic.”
+> “If virtue becomes vice through some hidden defect in the virtue; if strength becomes weakness because of the vanity to which strength may prompt the mighty man or nation; if security is transmuted into insecurity because too much reliance is placed upon it; if wisdom becomes folly because it does not know its own limits — in all such cases the situation is ironic.”
 
 Why irony? Why is it useful to think about events in this way? Because the major difference between irony on the one hand and tragedy or pathos on the other, is that the recognition of tragedy or pathos doesn’t prompt any change in action. If you recognize a pathetic or tragic situation, you may feel an emotional tug at your heart-strings, you may make sympathetic remarks at the dinner table, but there is no recognition that anyone has actually done anything incorrectly. In contrast, the recognition of an ironic flaw naturally prompts a change in action. If we realize that we have weakened ourselves through overconfidence, we will stop being overconfident, or so Niebuhr’s theory goes.
 
@@ -97,7 +97,7 @@ In the first chapter, Niebuhr lists off all the ironies of the American position
 
 The essential point that Niebuhr wants to make is that the American creeds of liberty, science, free enterprise, and individualism frequently contradict each other in practice (example: that we believe in personal liberty but that our scientists do not). Therefore, we must be wiser than our hodgepodge creed if we are to be virtuous in the world. The second is to recognize that the communists act under similar illusions that we must understand in order to effectively combat them:
 
-“If only we could fully understand that the evils against which we contend are frequently the fruit of illusions which are similar to our own, we might be better prepared to save a vast uncommitted world.”
+> “If only we could fully understand that the evils against which we contend are frequently the fruit of illusions which are similar to our own, we might be better prepared to save a vast uncommitted world.”
 
 ## 2 First Illusion: The Innocent Nation in an Innocent World
 
@@ -131,7 +131,7 @@ At the other ideological extreme are the “realists” who believe that “the 
 
 The error in both cases is the same inadequate understanding of human evil. Power cannot be wielded without guilt, but that is no excuse for giving up on the relative good that we can accomplish. He concludes:
 
-“Yet our American nation, involved in its vast responsibilities, must slough off many illusions which were derived both from the experiences and the ideologies of its childhood. Otherwise either we will seek escape from responsibilities which involve unavoidable guilt, or we will be plunged into avoidable guilt by too great confidence in our virtue.”
+> “Yet our American nation, involved in its vast responsibilities, must slough off many illusions which were derived both from the experiences and the ideologies of its childhood. Otherwise either we will seek escape from responsibilities which involve unavoidable guilt, or we will be plunged into avoidable guilt by too great confidence in our virtue.”
 
 ## 3. Second Illusion: Happiness, Prosperity, and Virtue
 
@@ -183,7 +183,7 @@ For Niebuhr, it’s only passivity that has ironically saved the U.S. from this 
 
 The success of America then, ironically comes from the fact that it historically ignored it’s people like John Dewey:
 
-“Any modern community which establishes a tolerable justice is the beneficiary of the ironic triumph of the wisdom of common sense over the foolishness of its wise men.”
+> “Any modern community which establishes a tolerable justice is the beneficiary of the ironic triumph of the wisdom of common sense over the foolishness of its wise men.”
 
 **Rationalist Cynic**: I don’t know man, Niebuhr sounds like a troglodyte.
 
@@ -197,7 +197,7 @@ This idea of human fallibility and sinfulness is where Niebuhr believes Christia
 
 He also argues Christianity is useful because it offers a permanent absolute perspective against which any human theory is provisional and open to revision:
 
-“A democratic society on the other hand preserves a modicum of justice by various strategies of distributing and balancing both economic and political power. But it is not tenable to place the institution of property into the realm of the sacrosanct. Every human institution must stand under constant review. The question must be asked, what forms of it are viable under what specific conditions?”
+> “A democratic society on the other hand preserves a modicum of justice by various strategies of distributing and balancing both economic and political power. But it is not tenable to place the institution of property into the realm of the sacrosanct. Every human institution must stand under constant review. The question must be asked, what forms of it are viable under what specific conditions?”
 
 **New Atheist Cynic**: Aren’t religious people usually the most absolutist and zealous?        
 
@@ -236,7 +236,7 @@ At the beginning I promised a heuristic for foreign policy.
 
 Second tenet:
 
-2) Man is free or, to put it more provocatively, Man has free will.
+> 2) Man is free or, to put it more provocatively, Man has free will.
 
 **Modern Neuroscientist**: Excuse me?
 
@@ -249,7 +249,7 @@ This second idea also comes with a couple conclusions.
 
 And finally:
 
-3) There is an ultimate standard of virtue. Specifically, “love thyNiebuhr neighbor”.
+> 3) There is an ultimate standard of virtue. Specifically, “love thyNiebuhr neighbor”.
 
 1.  This prevents complacency or moral cynicism. There is a good that we can approximate even if we cannot fully achieve. Or “[Don’t let Perfect be the enemy of Good](https://en.wikipedia.org/wiki/Perfect_is_the_enemy_of_good).”
 

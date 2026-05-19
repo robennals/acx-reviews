@@ -7,7 +7,7 @@ contestName: 2022 Book Reviews
 year: 2022
 publishedDate: '2026-02-06T07:21:54.185Z'
 slug: who-wrote-the-bible-by-richard-elliott-friedman
-wordCount: 8309
+wordCount: 8310
 readingTimeMinutes: 37
 originalUrl: https://docs.google.com/document/d/1hFzjXliCAWjvheY-8Qd2fhbF79LnX0Xg6R9eqk9yIyI
 source: gdoc
@@ -175,7 +175,7 @@ However, the _laws_ in Deuteronomy were probably _not_ written by a member of Jo
 
 Friedman does some more analysis of various parts of the Deuteronomy laws, and comes up with this:
 
-_The place to look for the author of Deuteronomy, therefore, [is] in a group (1) that wanted centralization of religion, but not tied to the ark [of the Covenant, the Indiana Jones one] or to the Jerusalem priesthood; (2) that cared about all Levites’ livelihood, but would enfranchise only a group of_ central _Levites; (3) that accepted having a king, but wanted limitations on his rule; (4) that had a premonarchy approach to matters of war._
+> _The place to look for the author of Deuteronomy, therefore, [is] in a group (1) that wanted centralization of religion, but not tied to the ark [of the Covenant, the Indiana Jones one] or to the Jerusalem priesthood; (2) that cared about all Levites’ livelihood, but would enfranchise only a group of_ central _Levites; (3) that accepted having a king, but wanted limitations on his rule; (4) that had a premonarchy approach to matters of war._
 
 Friedman says this description matches the same folks who came up with E, namely the priests of Shiloh (albeit some centuries later). However, he says, the priests of Shiloh likely wrote only Deuteronomy’s_law code_; chapters one through eleven were added by the Deuteronomistic Historian, along with a scene where Moses writes the law code on a scroll and tells the Israelites to keep it in the Temple (well, Tabernacle).
 

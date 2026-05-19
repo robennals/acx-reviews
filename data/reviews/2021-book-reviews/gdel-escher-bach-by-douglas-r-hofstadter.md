@@ -7,7 +7,7 @@ contestName: 2021 Book Reviews
 year: 2021
 publishedDate: '2026-02-06T07:21:29.570Z'
 slug: gdel-escher-bach-by-douglas-r-hofstadter
-wordCount: 6114
+wordCount: 6115
 readingTimeMinutes: 28
 originalUrl: https://docs.google.com/document/d/1xexFJ7h0vULMDE7N77q_MIzXoerexfe_CqqGEL6hEoQ
 source: gdoc
@@ -212,7 +212,7 @@ Truth on the other hand relies on a choice of interpretation. Given a formal sys
 
 Since by fiat all of our interpretations translate theorems to true statements, we know:
 
-in a formal system with an interpretation, all provable strings of the system are also true.
+> in a formal system with an interpretation, all provable strings of the system are also true.
 
 Or more succinctly: if provable then true. This is really important: it's why mathematicians and physicists can write some funny little squiggles on paper, do logic on them, produce some different funny squiggles, and be confident that the new squiggles actually mean something true about the universe!
 

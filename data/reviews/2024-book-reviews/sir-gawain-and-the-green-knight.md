@@ -7,8 +7,8 @@ contestName: 2024 Book Reviews
 year: 2024
 publishedDate: '2026-02-06T16:48:56.663Z'
 slug: sir-gawain-and-the-green-knight
-wordCount: 3150
-readingTimeMinutes: 14
+wordCount: 3154
+readingTimeMinutes: 15
 originalUrl: https://docs.google.com/document/d/1GYQw3pgvhi7hqOVR-Ql629Q_8thbyHe8sSRy5voyt30
 source: gdoc
 tags:
@@ -117,10 +117,10 @@ The Gawain Poet is also believed to have written three other poems, two (_Patien
 
 The “Green Chapel” is described as follows:
 
-A hole was at the end, and one on either side,  
-        And all with grass o’er-grown, in clumps its form that hide,  
-        ‘T was hollow all within, e’en as a cavern old,  
-        Or crevice of a crag — nor might its use be told
+> A hole was at the end, and one on either side,  
+> And all with grass o’er-grown, in clumps its form that hide,  
+> ‘T was hollow all within, e’en as a cavern old,  
+> Or crevice of a crag — nor might its use be told
 
 Readers would have been expected to recognize it as a long barrow. This is a kind of burial or ritual site from the neolithic which bamboozled mediaeval scholars. Here’s a picture of one:
 

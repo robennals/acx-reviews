@@ -7,7 +7,7 @@ contestName: 2024 Book Reviews
 year: 2024
 publishedDate: '2026-02-06T16:47:15.598Z'
 slug: catkin-by-antonia-barber
-wordCount: 3796
+wordCount: 3797
 readingTimeMinutes: 17
 originalUrl: https://docs.google.com/document/d/1AXmWgSbh_TFsoZuApSCSEoz57yn93CM5YYhtaO_s4W4
 source: gdoc
@@ -33,8 +33,7 @@ This elegant puzzle format is one of the lasting gifts of Antonia Barber’s _Ca
 
 This kind of riddle is known as a _phonetic charade_, a fact I only learned after reaching out, in desperation, to some clever friends — it remains, as ever, difficult to google the shape of a thing, rather than the thing itself (and before you ask, yes, I tried AI, and it was clueless). These puzzles were apparently _en vogue_ back in the Regency era, with Jane Austen being notoriously fond of them. Here’s one that she wrote:
 
-When my first is a task to a young girl of spirit,
-
+> When my first is a task to a young girl of spirit,  
 > And my second confines her to finish the piece,  
 > How hard is her fate! but how great is her merit  
 > If by taking my whole she effects her release!

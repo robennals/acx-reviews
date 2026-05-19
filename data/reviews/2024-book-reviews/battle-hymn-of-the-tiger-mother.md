@@ -7,7 +7,7 @@ contestName: 2024 Book Reviews
 year: 2024
 publishedDate: '2026-02-06T16:47:15.597Z'
 slug: battle-hymn-of-the-tiger-mother
-wordCount: 5941
+wordCount: 5944
 readingTimeMinutes: 27
 originalUrl: https://docs.google.com/document/d/1AXmWgSbh_TFsoZuApSCSEoz57yn93CM5YYhtaO_s4W4
 source: gdoc
@@ -185,9 +185,9 @@ So let us retreat to the safety of anecdotes. _Battle Hymn of the Tiger Mother_ 
 There are more than enough interviews, articles and essays to be found out there, but I will highlight a [2023 interview with Chua and Louisa](https://www.dailymail.co.uk/femail/article-12581663/She-original-Tiger-Mum-bestseller-promoted-impossibly-strict-parenting-decade-Amy-Chua-reveals-realised-didnt-change-daughter-hate-ever.html) in the Daily Mail, which is perhaps the most recent. It is a bit boring and predictable in parts, and the headline seems quite misleading, but it’s still an interesting read that some insight into how things have worked out for the family:
 
 > ‘And I thought: “Oh my God, if I had really died in the hospital, there were all these things I should have said to my daughters that I hadn’t. Things like: I’m so proud of you and I hope you realise that even though I tend to err on the side of criticism and finding fault, you are so much more talented and brilliant than I ever was. You exceeded my wildest expectations.” ’
-
-(...)
-
+>
+> (...)
+>
 > ‘I still believe achieving excellence can bring a lot of benefits, and I’m glad I instilled a sense of grit in my kids. But the things I regret more are the harsh things I said to them and losing my temper.’
 >
 > (...)

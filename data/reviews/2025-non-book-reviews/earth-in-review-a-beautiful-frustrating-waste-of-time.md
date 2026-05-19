@@ -7,7 +7,7 @@ contestName: 2025 Non Book Reviews
 year: 2025
 publishedDate: '2026-02-06T16:52:48.892Z'
 slug: earth-in-review-a-beautiful-frustrating-waste-of-time
-wordCount: 1662
+wordCount: 1663
 readingTimeMinutes: 8
 originalUrl: https://docs.google.com/document/d/1d0vRSj1E93joWWvbUen2XGuDjN_mM94ybMIAADzM2fo
 source: gdoc
@@ -58,7 +58,7 @@ _[Thoughtgram begins]_:
 
 #
 
-In the hushed, fearful dark, in a village so poor that a roof is wealth, a scream splits the night, a bloody cry of pain and triumph. The young mother gives birth to a child.         
+> In the hushed, fearful dark, in a village so poor that a roof is wealth, a scream splits the night, a bloody cry of pain and triumph. The young mother gives birth to a child.         
 
 But the child is thin, so sickly-thin it hurts to see her. The young mother is told not to nurse her, or name her, so as to lessen the grief when she dies.
 

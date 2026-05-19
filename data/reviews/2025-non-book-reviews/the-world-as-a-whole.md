@@ -7,7 +7,7 @@ contestName: 2025 Non Book Reviews
 year: 2025
 publishedDate: '2026-02-06T16:55:59.405Z'
 slug: the-world-as-a-whole
-wordCount: 11170
+wordCount: 11175
 readingTimeMinutes: 50
 originalUrl: https://docs.google.com/document/d/1jYVJFIz5-aMi0LCgsC9AN6BncJDNVGaMU37QmwZ1vzA
 source: gdoc
@@ -72,7 +72,7 @@ Bullying, when it happens, is more nightmarish than anything I ever witnessed in
 
 And that’s only the beginning, because this machine by which obedient Japanese workers are made, all extremely aware of their place in the nested pecking orders of team, office, and nation, is only preparation for the workforce, which I need not overly explain here because at this point almost everyone has heard tales of Japanese overwork. I will share only one representative example, as I witnessed it:
 
-I had a co-teacher, let’s call her Mrs. Kimura, who was clearly in the early stages of dementia. Her breath smelled like a morgue, her hair always looked as though she’d been electrocuted, and she asked the same questions again and again, and often even taught the same classes to the same kids, multiple times. For some reason, Ms. Kimura loved me, likely because I was entirely beholden to her and extremely polite, in light of the fact that she was my boss.
+> I had a co-teacher, let’s call her Mrs. Kimura, who was clearly in the early stages of dementia. Her breath smelled like a morgue, her hair always looked as though she’d been electrocuted, and she asked the same questions again and again, and often even taught the same classes to the same kids, multiple times. For some reason, Ms. Kimura loved me, likely because I was entirely beholden to her and extremely polite, in light of the fact that she was my boss.
 
 She insisted on my presence whenever possible, and was, in fact, far from the  worst pedagogical collaborator I dealt with in Japan. But on and on she went, this demented sixty-four year old woman, seemingly aways at the school between the hours of 7 am and 7 pm, because, she said: ‘I hate going home to my husband, he smells bad and is mean,’ until eventually, out of nowhere, she stopped coming to work. No one said anything about it, mind you. Japanese people have a special way of saying nothing that pressures YOU into saying nothing, and to say nothing about the fact you’re saying nothing, until eventually it starts to actually feel like there’s nothing to say anything about.
 
@@ -110,7 +110,7 @@ No—I’m afraid it’s [fishermen and farmers](https://www.statnews.com/2016/0
 
 I find that most people have a hard time accepting this information, because if farmers in Eswatini are that much poorer than us, and that much more miserable, we are denied an extremely comforting lie; the one that says that this world is fairer than it looks, and the accounts are somewhat balanced, and that we wealthy westerners are the conscience of the world, experiencing special forms of misery that Micronesian fisherman are mercifully denied. But if you think about it for a moment, it makes perfect sense that a Micronesian fisherman would be miserable. If I described the daily life of such a person, you would recoil in a [fascinated kind of horror](https://www.youtube.com/watch?v=mU1IdB7rv70&t=344s) and spend a few seconds in quiet reflection, there at your comfortable west-coast computer station. In just such a way have I described the life of a Japanese high schooler. Now tell me, then, if this story makes sense:
 
-Everyday my students would clean their school (badly, for the most part, because they’re Japanese high schoolers, not aliens) in little groups, usually decided by the kids themselves. Now, because by this point I had developed a strong sense of sympathy for the downtrodden of the school, I usually cleaned the science lab with a group of unpopular boys, one of whom spoke excellent English, in contrast to the others, who might as well have been mute.
+> Everyday my students would clean their school (badly, for the most part, because they’re Japanese high schoolers, not aliens) in little groups, usually decided by the kids themselves. Now, because by this point I had developed a strong sense of sympathy for the downtrodden of the school, I usually cleaned the science lab with a group of unpopular boys, one of whom spoke excellent English, in contrast to the others, who might as well have been mute.
 
 I bonded with them, best as I could, until again, like Mrs. Kimura, one of the effectively mute kids vanished from the school and was never mentioned again by anyone, so far as I could tell. I never asked about his disappearance, and in retrospect, I doubt I even noticed. He was one of the anonymous, face-in-the-hall presences that every school is so full of, in the way every empty glass is full of air.
 
@@ -128,7 +128,7 @@ You have to imagine this said to me in a thick Japanese accent, by the sweetest 
 
  ![](https://acximages.ennals.org/images/2025-non-book-reviews/0fc718830023e5f0.jpg)
 
-_Insert clichéd image of time-lapsed Shibuya crossing, in order to illustrate both the impressive results and the eerie, dehumanizing aspects of Japanese cultural harmony; every documentary about Japan has to have one._
+> _Insert clichéd image of time-lapsed Shibuya crossing, in order to illustrate both the impressive results and the eerie, dehumanizing aspects of Japanese cultural harmony; every documentary about Japan has to have one._
 
 In Japan, unless you want to be a wacky foreigner monkey, you must learn to ‘read the room’ or ‘read the air’ if literally translated. The atmosphere of the room is something of a religion over there, and underpins everything, good and bad, that Japan is known for. The issue is, sometimes the room, in all its formidable power, tells you to kill yourself. Other times it tells you to not dare to mention the boy that killed himself. The Room, I came to understand it, is a cruel, pagan god. It is a precise embodiment of the fantasy trope in which gods literally exist only as much as people believe in them. The Room is formed out of  the collective expectations of millions of Japanese people, living and dead, coming to bear on even the smallest acts, and seeing to it that they do not deviate from the strictures of the most successful social religion in human history (in any criticism of Japan, one must remember the [crime statistics](https://en.wikipedia.org/wiki/Crime_in_Japan), and what a remarkable achievement they are: .23 homices/100k people compared to the US’s 6.38/100k or world leader Jamaica’s 53.3/100k).
 
@@ -180,7 +180,7 @@ Originally, my intention was to go to a place like Vanuatu or Tonga, where I’d
 
 Allow me to sketch a picture of a centuries-long historical disaster in as few strokes as possible:
 
-**-The Ottoman Empire conquered Macedonia in the 1390s and didn’t relinquish control until 1913, during which Macedonians could only acquire education, such as there was, through service to their Ottoman conquerors, under a system of feudal quasi-serfdom that lasted from before Da Vinci to after the goddamn Wright Brothers. One such highlight of the Ottoman’s enlightened rule was the Devshirme system, wherein young Macedonian boys were forcibly stolen from their parents, converted to Islam, and turned into Ottoman soldiers.**
+> **-The Ottoman Empire conquered Macedonia in the 1390s and didn’t relinquish control until 1913, during which Macedonians could only acquire education, such as there was, through service to their Ottoman conquerors, under a system of feudal quasi-serfdom that lasted from before Da Vinci to after the goddamn Wright Brothers. One such highlight of the Ottoman’s enlightened rule was the Devshirme system, wherein young Macedonian boys were forcibly stolen from their parents, converted to Islam, and turned into Ottoman soldiers.**
 
 **-In the wake of the Ottomans’ fall, Macedonia was ruled by Serbs and Bulgarians, until eventually, falling under the rule of Josip Broz Tito, (whom Churchill had deemed the most successful Nazi-fighter in the Balkans, and given funding) as part of Yugoslavia, a firmly communist but at the time anti-Stalinist country comprising Macedonia, Croatia, Bosnia-Herzegovina, Montenegro, and Serbia.**
 
@@ -254,6 +254,6 @@ This grave, but rather detached outlook on the world’s many sufferings is poss
 
 I clean my eyes off in the following way:
 
-I lay on the warm, carpeted floor of my American house and force myself to remember what it was like to sit on the freezing, tile, floor of my Yugoslavian cottage, waiting out a winter night without power or water, listening to the wild dogs barking outside, and imagining the dead empty eyes of the sexpats in Thailand, alone with their drinks and their bar girls’ false, brace-faced smiles…or else trying my best to recall the real name and face of the Japanese teenager, dead at fifteen, who I can’t, actually, seem to remember at all.
+> I lay on the warm, carpeted floor of my American house and force myself to remember what it was like to sit on the freezing, tile, floor of my Yugoslavian cottage, waiting out a winter night without power or water, listening to the wild dogs barking outside, and imagining the dead empty eyes of the sexpats in Thailand, alone with their drinks and their bar girls’ false, brace-faced smiles…or else trying my best to recall the real name and face of the Japanese teenager, dead at fifteen, who I can’t, actually, seem to remember at all.
 
 During this exercise, I feel like a film critic going over his notes and discovering that the movie he thought he enjoyed falls apart the more he thinks about it—because despite the high production value, talented actors, and generous running time, a film made up of mostly arbitrary, tragic, and repetitious scenes can’t be better than a 3/10, can it? Even if it’s the only movie currently showing?

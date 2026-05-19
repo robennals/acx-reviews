@@ -7,7 +7,7 @@ contestName: 2022 Book Reviews
 year: 2022
 publishedDate: '2026-02-06T07:23:14.485Z'
 slug: moscow-petushki-by-venedikt-yerofeyev
-wordCount: 8828
+wordCount: 8843
 readingTimeMinutes: 40
 originalUrl: https://docs.google.com/document/d/1kQUUJhv-MpLawby2j4zXLZPDG6ligWd5xpIjH8UmWdw
 source: gdoc
@@ -181,11 +181,9 @@ Pacing anxiously along the carriage, excited to get to Petushki, Venya shares wi
 
 _“…you’d better write down the recipe for Canaan Balsam. You’ve only got one life, and if you want to see it out, you don’t make mistakes with recipes:_
 
-_methylated spirits        100 g_
-
-_milk stout        200 g_
-
-_clear varnish        100 g_
+> _methylated spirits        100 g_  
+> _milk stout        200 g_  
+> _clear varnish        100 g_
 
 The Spirit of the Geneva:
 
@@ -196,17 +194,12 @@ The Spirit of the Geneva:
 
 The teaks of the Komsomolka:
 
-_Lavender water        15 g_
-
-_Verbena        15 g_
-
-_Forest Water eau-de-Cologne        30 g_
-
-_nail varnish        2 g_
-
-_mouthwash        150 g_
-
-_lemonade        150 g_
+> _Lavender water        15 g_  
+> _Verbena        15 g_  
+> _Forest Water eau-de-Cologne        30 g_  
+> _nail varnish        2 g_  
+> _mouthwash        150 g_  
+> _lemonade        150 g_
 
 _During preparation, the mixture should be stirred for twenty minutes with a sprig of honeysuckle. Honestly, when I see these people using bindweed instead of honeysuckle, I could split my sides laughing, I really could._
 
@@ -214,17 +207,12 @@ _During preparation, the mixture should be stirred for twenty minutes with a spr
 
 _What’s the most beautiful thing in life? The struggle to free all mankind. But here’s something even more beautiful – write it down:_
 
-_Zhiguli beer        100 g_
-
-_Sadko the Wealthy Guest shampoo        30 g_
-
-_anti-dandruff solution        70 g_
-
-_superglue        12 g_
-
-_brake fluid        35 g_
-
-_insecticide        20 g_
+> _Zhiguli beer        100 g_  
+> _Sadko the Wealthy Guest shampoo        30 g_  
+> _anti-dandruff solution        70 g_  
+> _superglue        12 g_  
+> _brake fluid        35 g_  
+> _insecticide        20 g_
 
 _Let it marinade for a week with some cigar tobacco, then serve._
 

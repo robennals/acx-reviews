@@ -7,7 +7,7 @@ contestName: 2025 Non Book Reviews
 year: 2025
 publishedDate: '2026-02-06T16:52:48.890Z'
 slug: bishops-castle-a-roadside-attraction
-wordCount: 6582
+wordCount: 6590
 readingTimeMinutes: 30
 originalUrl: https://docs.google.com/document/d/1d0vRSj1E93joWWvbUen2XGuDjN_mM94ybMIAADzM2fo
 source: gdoc
@@ -42,7 +42,7 @@ The second thing you’ll notice when you look at the castle is its material. Th
 
 Aside from its remoteness, Bishop’s Castle is set apart from other local attractions by its lack of an entry fee. There isn’t even a fence surrounding the structure. The visitor gets the impression that the castle isn’t a commercial enterprise, but rather a part of the landscape, like just another rocky crag. However, a closer approach bursts that fantasy and reveals a few signs of human occupation. The entry gate is flanked by signs:
 
-“ENTER AT YOUR OWN RISK,” one sign reads, “WE ARE NOT RESPONSIBLE FOR YOUR SAFETY! BISHOP CASTLE IS UNDER CONSTRUCTION! WE RESERVE OUR RIGHT TO FREEDOM OF SPEECH AND EXPRESSION! YOU MIGHT EXPERIENCE STRONGLY EXPRESSIVE BEHAVIOR!”
+> “ENTER AT YOUR OWN RISK,” one sign reads, “WE ARE NOT RESPONSIBLE FOR YOUR SAFETY! BISHOP CASTLE IS UNDER CONSTRUCTION! WE RESERVE OUR RIGHT TO FREEDOM OF SPEECH AND EXPRESSION! YOU MIGHT EXPERIENCE STRONGLY EXPRESSIVE BEHAVIOR!”
 
 This is how most people first learn about the forceful personality of the castle builder. More on him later.![](https://acximages.ennals.org/images/2025-non-book-reviews/6ba7246a2ee5f62e.jpg)
 
@@ -107,7 +107,7 @@ Bishop resorted once again to the power of the public. By this point in history 
 
 Did taking the rocks hurt the environment? Some people worry about this when they hear the castle’s story. I asked an environmental engineer friend of mine, and here’s basically what she had to say:
 
-If the forest service thought it was okay, it’s probably justified. Removing rocks from roadside ditches has a bundle of benefits because it improves the channeling of excess water through the ditches. Furthermore, fewer rocks means more room for plants to grow that slow the water’s flow, preventing rapid streams that erode the ditches and make them more shallow. One downside may be removing shelter for certain animals.
+> If the forest service thought it was okay, it’s probably justified. Removing rocks from roadside ditches has a bundle of benefits because it improves the channeling of excess water through the ditches. Furthermore, fewer rocks means more room for plants to grow that slow the water’s flow, preventing rapid streams that erode the ditches and make them more shallow. One downside may be removing shelter for certain animals.
 
 In summary: it’s complicated, but using local rocks was probably okay.
 
@@ -145,7 +145,7 @@ Merrill’s delusions led him to manipulate others. Jim had a bout with cancer i
 
 Bishop got way more than he bargained for. Merrill barred the Bishops from entering, redecorated, and renamed it to the “Castle Church for the Redemption of the Office Bishop.” He intended to make it the headquarters for his pseudochristian cult. The Bishop family incited a movement to retake the castle. Every major Colorado news outlet reported on the battle, and the internet burst aflame with support. Merrill responded to media criticism with this strange rant, which I have reproduced here in very abbreviated form:
 
-_“There are several key reasons for an irrevocable trust in this case. One is the longevity of the castle itself. Jim built it of granite, not concrete. The concrete holds the granite in place but it is the granite that denies the ravages of gravity. Jim left no bubbles in the mortar too, so moisture and frostwedging may take centuries to take their toll…. That castle was never owned by Him and Phoebe. … Think forgive instead of redemption – CASTLE CHURCH – For the Forgiving of the Office BISHOP. The Bishop of Rome is the Pope. The true message of Jesus CHRIST was of unity, peace, joy, and love. The popes monetizing of guilt prevents one from stimulating the Kingdom of Heaven from within. Fear and seperation are illusions causing judgement, anxiety, and fear.”_ [sic]
+> _“There are several key reasons for an irrevocable trust in this case. One is the longevity of the castle itself. Jim built it of granite, not concrete. The concrete holds the granite in place but it is the granite that denies the ravages of gravity. Jim left no bubbles in the mortar too, so moisture and frostwedging may take centuries to take their toll…. That castle was never owned by Him and Phoebe. … Think forgive instead of redemption – CASTLE CHURCH – For the Forgiving of the Office BISHOP. The Bishop of Rome is the Pope. The true message of Jesus CHRIST was of unity, peace, joy, and love. The popes monetizing of guilt prevents one from stimulating the Kingdom of Heaven from within. Fear and seperation are illusions causing judgement, anxiety, and fear.”_ [sic]
 
 This is from a YouTube comment to one of Merrill’s old videos, all of which have unfortunately since been taken down, so they’re now lost media. He also apparently had a manifesto which I also have not been able to find. Dear reader, if you have any information about David Merrill’s philosophy or writings, let me know. I still don’t fully understand what drove the man to do all this.
 
@@ -241,11 +241,11 @@ But let’s say our hypothetical 21st-century Bishop made some well-timed Bitcoi
 
 Sometimes, I even wonder if the castle will last much longer. The family has been lucky so far, but it only takes one death or injury to result in a shutdown. When I mentioned this possibility to Dan, he had this to say:
 
-_“Ultimately, we don’t have any game plan. … Your question is the same one people have asked since we started. There’s always somebody wanting to plant the idea that it’s not going to work. That they’re going to take it from you._
-
-_You just can’t let the fear of the future stop you from doing what you want to do. The thing you gotta be careful of is: Is it for the right reason? I believe that as long as I’m up there, not trying to get rich, not trying to steal from everybody, giving it away, than the God I and my Dad believed in will do what he needs to keep it going. I also believe that if it’s not happening anymore… that was God’s will as well._
-
-_I will go when God tells me I’m done here. I live by that because I watched it work for him. That there were years of no one managing to stop it is a pretty good testament of how long you can get away with doing the right thing.”_
+> _“Ultimately, we don’t have any game plan. … Your question is the same one people have asked since we started. There’s always somebody wanting to plant the idea that it’s not going to work. That they’re going to take it from you._
+>
+> _You just can’t let the fear of the future stop you from doing what you want to do. The thing you gotta be careful of is: Is it for the right reason? I believe that as long as I’m up there, not trying to get rich, not trying to steal from everybody, giving it away, than the God I and my Dad believed in will do what he needs to keep it going. I also believe that if it’s not happening anymore… that was God’s will as well._
+>
+> _I will go when God tells me I’m done here. I live by that because I watched it work for him. That there were years of no one managing to stop it is a pretty good testament of how long you can get away with doing the right thing.”_
 
 Dan tells us here what the castle means. The castle might not teach us much about architecture or environmental engineering, but it reminds us to let hope and not fear guide our lives. It reminds us that the true munchkin doesn’t always lay out plans like railroad tracks but digs, digs, digs through the mountain of destiny in a frenzy of joyful doing.
 

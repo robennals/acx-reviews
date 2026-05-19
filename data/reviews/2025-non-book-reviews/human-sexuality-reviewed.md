@@ -7,7 +7,7 @@ contestName: 2025 Non Book Reviews
 year: 2025
 publishedDate: '2026-02-06T16:52:48.903Z'
 slug: human-sexuality-reviewed
-wordCount: 6701
+wordCount: 6702
 readingTimeMinutes: 30
 originalUrl: https://docs.google.com/document/d/1d0vRSj1E93joWWvbUen2XGuDjN_mM94ybMIAADzM2fo
 source: gdoc
@@ -302,7 +302,7 @@ of nuance.
 
 ![](https://acximages.ennals.org/images/2025-non-book-reviews/4dd1471b6785267f.png)
 
-_Anything can be sorted into two buckets_
+> _Anything can be sorted into two buckets_
 
 At the same time, I do think our brain does that fundamental simplification, that sorting into high and low status  because it makes social decisions and judgments quicker and easier. Having a leaderboard in your head for those around you and yourself, which tracks who is ahead and who is behind, simplifies a lot of decision making.
 
