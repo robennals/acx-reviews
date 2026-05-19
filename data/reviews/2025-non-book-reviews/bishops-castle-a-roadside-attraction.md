@@ -7,7 +7,7 @@ contestName: 2025 Non Book Reviews
 year: 2025
 publishedDate: '2026-02-06T16:52:48.890Z'
 slug: bishops-castle-a-roadside-attraction
-wordCount: 6592
+wordCount: 6590
 readingTimeMinutes: 30
 originalUrl: https://docs.google.com/document/d/1d0vRSj1E93joWWvbUen2XGuDjN_mM94ybMIAADzM2fo
 source: gdoc
@@ -146,8 +146,8 @@ Merrill’s delusions led him to manipulate others. Jim had a bout with cancer i
 Bishop got way more than he bargained for. Merrill barred the Bishops from entering, redecorated, and renamed it to the “Castle Church for the Redemption of the Office Bishop.” He intended to make it the headquarters for his pseudochristian cult. The Bishop family incited a movement to retake the castle. Every major Colorado news outlet reported on the battle, and the internet burst aflame with support. Merrill responded to media criticism with this strange rant, which I have reproduced here in very abbreviated form:
 
 > _“There are several key reasons for an irrevocable trust in this case. One is the longevity of the castle itself. Jim built it of granite, not concrete. The concrete holds the granite in place but it is the granite that denies the ravages of gravity. Jim left no bubbles in the mortar too, so moisture and frostwedging may take centuries to take their toll…. That castle was never owned by Him and Phoebe. … Think forgive instead of redemption – CASTLE CHURCH – For the Forgiving of the Office BISHOP. The Bishop of Rome is the Pope. The true message of Jesus CHRIST was of unity, peace, joy, and love. The popes monetizing of guilt prevents one from stimulating the Kingdom of Heaven from within. Fear and seperation are illusions causing judgement, anxiety, and fear.”_ [sic]
->
-> This is from a YouTube comment to one of Merrill’s old videos, all of which have unfortunately since been taken down, so they’re now lost media. He also apparently had a manifesto which I also have not been able to find. Dear reader, if you have any information about David Merrill’s philosophy or writings, let me know. I still don’t fully understand what drove the man to do all this.
+
+This is from a YouTube comment to one of Merrill’s old videos, all of which have unfortunately since been taken down, so they’re now lost media. He also apparently had a manifesto which I also have not been able to find. Dear reader, if you have any information about David Merrill’s philosophy or writings, let me know. I still don’t fully understand what drove the man to do all this.
 
 This story has a happy ending. After much hullabaloo, a judge ruled that Merrill’s actions were not done in trust and everything he tried to do was simply undone.
 

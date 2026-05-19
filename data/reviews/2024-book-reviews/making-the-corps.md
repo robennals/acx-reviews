@@ -7,8 +7,8 @@ contestName: 2024 Book Reviews
 year: 2024
 publishedDate: '2026-02-06T16:48:20.709Z'
 slug: making-the-corps
-wordCount: 9433
-readingTimeMinutes: 42
+wordCount: 9480
+readingTimeMinutes: 43
 originalUrl: https://docs.google.com/document/d/1cp6iw5OEyDjnD_viZo-KL0Zv4jwQnMXtE4yIovfVAco
 source: gdoc
 tags:
@@ -51,9 +51,9 @@ The author begins the book with some stories from Somalia, where he was embedded
 > _Here, after just two days on the ground in Africa, the corporal was leading his squad into_
 >
 > _unknown territory, with a confidence that was contagious._
-
-_The next morning I walked to the Mogadishu airport along a hot road ankle deep in fine_
-
+>
+> _The next morning I walked to the Mogadishu airport along a hot road ankle deep in fine_
+>
 > _dust with another returning patrol from Alpha Company, led by Cpl. Armando Cordova, a_
 >
 > _precise-seeming man with a small mustache and wire-rimmed glasses. A native of_
@@ -80,8 +80,8 @@ The Marines have two boot camp locations: one at Parris Island, South Carolina f
 
 The author provides a demographic overview of this group: entirely men (basic training in the Marines is gender-segregated), about 75% white and 25% black and Hispanic[[229]](#ftnt229), age 17-29. He describes their backgrounds as:
 
-_“Among them are an accountant fired by Ernst & Young because he flunked his CPA_
-
+> _“Among them are an accountant fired by Ernst & Young because he flunked his CPA_
+>
 > _exam; a self-professed gang member from Washington, DC; the son of a Merrill Lynch_
 >
 > _bond trader; a Dutch-American who considers himself a pacifist; a former white-supremacist skinhead from Mobile, Alabama; a dozen former employees of Taco Bell and other fast food joints; and a handful of one-time workers at small, off-the-books construction firms. [...] They have come here from Shubuta, Mississippi, from Bayonne, New Jersey, from Destin, Florida, from Pittsburg, Pennsylvania, and from forty other small towns and crumbling eastern cities to pursue one of the few rites of passage left in America.”_
@@ -90,11 +90,14 @@ Something I found interesting, both in the book and in my own boot camp experien
 
 The author notes that he’s particularly interested in this kind of diversity, as it presents the Marine Corps with quite a difficult challenge and makes the successful result at the end even more impressive. He writes:
 
-_“I wanted to see how an organization could take fifty or so American kids – a group_
-
-> _steeped in a culture of individualism and consumerism, many of them users of_  
-> _recreational drugs, few of them with much education or hope of prospering in the_  
-> _American economy – and turn them into Marines who saw themselves as a band of_  
+> _“I wanted to see how an organization could take fifty or so American kids – a group_
+>
+> _steeped in a culture of individualism and consumerism, many of them users of_
+>
+> _recreational drugs, few of them with much education or hope of prospering in the_
+>
+> _American economy – and turn them into Marines who saw themselves as a band of_
+>
 > _brothers, overcoming deep differences of race and class.”_
 
 So, how is this accomplished? The following sections will cover several aspects of the transformation that occurs at Parris Island, in which individual identities are broken down and a new Marine identity is created.
@@ -103,14 +106,14 @@ So, how is this accomplished? The following sections will cover several aspects 
 
 A key element in the process of identity formation is the removal of recruits from the outside world for the duration of boot camp training (about three months). For many of the recruits, this is their first time away from home and away from their family. A Navy Chaplain stationed at Parris Island was refreshingly blunt about the boot camp environment in an interview with the author:
 
-_“Everything is taken away – hair, clothes, food, and friends. It’s a total cutoff from_
-
+> _“Everything is taken away – hair, clothes, food, and friends. It’s a total cutoff from_
+>
 > _previous life.”_
 
 Part of this is the physical separateness: Parris Island is, of course, an island that is physically separated from the rest of society by water and can only be accessed via a single bridge. When recruits cross over that bridge to arrive at boot camp, they’re entering a strange, new world. The author describes this as such:
 
-_“In reality, the bright lights and yacht-set bistros of antebellum Beaufort, South Carolina,_
-
+> _“In reality, the bright lights and yacht-set bistros of antebellum Beaufort, South Carolina,_
+>
 > _are just a few miles from the Marine camp. But to the recruits, the 7,000 flat, wet acres of_
 >
 > _sand that make up Parris Island might as well be a thousand miles out in the Atlantic_
@@ -147,22 +150,22 @@ The recruits are immediately introduced to several strange things about this new
 
 Another strange thing about the boot camp environment is the _altered sense of time._ The author writes:
 
-_“Sergeant Lewis’s second move is to emphasize that no matter what they are doing, they_
-
+> _“Sergeant Lewis’s second move is to emphasize that no matter what they are doing, they_
+>
 > _are not doing it fast enough. He moves them in a single file line toward the barber’s stand in the back of the receiving station. ‘Let’s go. Hurry up. Hurry. Tighter.”_
 
 This will be a constant theme for the next three months. Practically everything the recruits do will be in a hurry (even things like showering, shaving, and getting dressed), and will often be explicitly timed with a punishment if the time limit is not met. For example:
 
-_“Sergeant Lewis gives them twenty seconds to remove and hang up all their gear – hats,_
-
+> _“Sergeant Lewis gives them twenty seconds to remove and hang up all their gear – hats,_
+>
 > _canteens, canteen web belts. The more astute members realize that the only way to do it within that limit is to aid one another.”_
 
 This feeling of constantly being rushed has the effect of locking you into the present. Whatever you’re trying to do, you’re doing it as fast as you can, and it still probably isn’t fast enough.
 
 Another strange thing about boot camp that the recruits are introduced to immediately is the _language._ The author writes:
 
-“_As if to underscore that they have entered a new world, Staff Sergeant Biehl begins to_
-
+> “_As if to underscore that they have entered a new world, Staff Sergeant Biehl begins to_
+>
 > _teach them a new language. Its peculiarly nautical tones grows out of the Marines’_
 >
 > _origins as a sea service. ‘We don’t call it a floor, we call it a deck,’ he lectures, striding_
@@ -177,20 +180,20 @@ These are just a few examples of the new vocabulary and there are many more. But
 
 Learning this new language in such a high-pressure atmosphere is difficult. The author describes a conversation in which a recruit is asking permission to use the bathroom (which is called the “head”):
 
-_“‘I need to…’_
-
-_‘No.’_
-
-_‘Sir, I need to…’_
-
-_‘No.’_
-
-_‘Sir, can I go to…’_
-
-_‘No.’_
-
-_Finally, after four more tries, he puts it all together, dropping the first person and_
-
+> _“‘I need to…’_
+>
+> _‘No.’_
+>
+> _‘Sir, I need to…’_
+>
+> _‘No.’_
+>
+> _‘Sir, can I go to…’_
+>
+> _‘No.’_
+>
+> _Finally, after four more tries, he puts it all together, dropping the first person and_
+>
 > _including a ‘sir’: ‘Recruit Prish requests permission to make a head call, sir.’”_
 
 And although it’s not conveyed in the quote, it’s likely that this recruit was shouting at the top of his lungs during this exchange.
@@ -199,8 +202,8 @@ After being thrown into this loud, chaotic new environment, recruits are then ke
 
 In interviews with the author, the drill instructors and officers at Parris Island are refreshingly honest about the process of disorientation. One says:
 
-_“From the recruit’s perspective, it appears to be_ _chaos__. [...] The recruits aren’t the_
-
+> _“From the recruit’s perspective, it appears to be_ _chaos__. [...] The recruits aren’t the_
+>
 > _enemy–don’t get me wrong. The enemy is their values – their un-Marinelike values._
 >
 > _Self-indulgence, me first, ‘I’m-going-to-do-what-I-want-to-do.’”_
@@ -283,10 +286,10 @@ Besides the uniforms, boot camp introduces the recruits to many other aspects of
 
 While many of these aspects of culture are common to all the military branches, the Marine Corps stands out in its emphasis on bringing out the recruits’ raw aggression and indoctrinating them with the warrior ethos. The book describes how this is done through pugil-stick fighting:
 
-“_Once at the pits, four recruits climb into pugil gear: large external padded jockstraps,_
-
-_flak jackets, padded horse collars, and football helmets with a lineman’s web of a mask._
-
+> “_Once at the pits, four recruits climb into pugil gear: large external padded jockstraps,_
+>
+> _flak jackets, padded horse collars, and football helmets with a lineman’s web of a mask._
+>
 > _The pugil sticks themselves are really double-headed clubs about four feet long, with_
 >
 > _heavy green pads at either end, like great malevolent Q-Tips. Sergeant Carey exhorts_
@@ -294,9 +297,9 @@ _flak jackets, padded horse collars, and football helmets with a lineman’s web
 > _them: ‘Kill or be killed, understand? If you come out a loser, you might as well consider_
 >
 > _yourself dead, understand?’_
-
-_Today’s preliminary round of pugil stick fighting is staged on a wooden fifty-foot-long_
-
+>
+> _Today’s preliminary round of pugil stick fighting is staged on a wooden fifty-foot-long_
+>
 > _boardwalk elevated about two feet above a pit of sawdust. Here simple two-man_
 >
 > _contests are staged to loosen up the recruits as the DIs stand nearby and instruct them, like handlers just outside a boxing ring. Members of 3086 are sent up the ramp to the boardwalk to confront head-on recruits from 3084, a companion platoon. Years from now, those recruits will be bosom buddies, Marine comrades who went through boot camp at the same time. But now the adversaries from 3084 are ‘the other’ – masked strangers who might as well be aliens from another planet for all the comradeship 3086 feels with them. The goal is to land two ‘killing’ blows – hits to the head, thrusts to the chest – before the opponent does the same to you.”_
@@ -341,16 +344,16 @@ But throughout boot camp, Prish _does_ undergo a true transformation, even becom
 
 So those are two examples of bad identities (gang member, white supremacist) being subverted by the boot camp indoctrination and replaced with the better Marine identity. It would be nice to stop there, on a positive note, but the truth is that good identities can also be subverted and replaced. Consider the Dutch-American recruit Paul Buijs:
 
-“_Buijs contends in private conversation that he is a pacifist. It isn’t clear why he left the_
-
+> “_Buijs contends in private conversation that he is a pacifist. It isn’t clear why he left the_
+>
 > _Netherlands to join the Marines, but there is a hint in his personal history. He was born in_
 >
 > _New Jersey to a free-spirited Dutch girl who came to America to find the hippie life and instead found a man who left her one month after Paul was born in 1977. She took her baby back to Holland, and Paul grew up happy there. Though essentially Dutch in outlook, he seems somehow driven to prove that he really is an American – perhaps as much an American as his vanished father.”_
 
 Buijs struggles with the violent aspects of boot camp, like the pugil stick fighting, and was described at times as the weakest recruit of the group. The author repeatedly notes the apparent contradiction between being a pacifist and joining the Marines. Now, this is an identity I’m pretty sympathetic to. Like I said, I have some pacifist leanings myself, and when I joined the military I purposely looked for a job specialty that was not focused on fighting. This is kind of impossible in the Marines though, since “every Marine is a rifleman”, as the saying goes. But by the end of boot camp, Buijs’ views have changed:
 
-“_Recruit Buijs concedes that his views have shifted a bit from his steadfast pacifism. ‘It_
-
+> “_Recruit Buijs concedes that his views have shifted a bit from his steadfast pacifism. ‘It_
+>
 > _depends on the circumstances. If there’s a good reason, then killing is justified,’ he says._
 >
 > _Then he marches outside and pins on the Corps’ eagle, globe, and anchor. He isn’t the_

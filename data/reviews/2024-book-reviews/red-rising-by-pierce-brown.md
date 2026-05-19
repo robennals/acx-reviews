@@ -7,7 +7,7 @@ contestName: 2024 Book Reviews
 year: 2024
 publishedDate: '2026-02-06T16:48:56.653Z'
 slug: red-rising-by-pierce-brown
-wordCount: 6603
+wordCount: 6607
 readingTimeMinutes: 30
 originalUrl: https://docs.google.com/document/d/1GYQw3pgvhi7hqOVR-Ql629Q_8thbyHe8sSRy5voyt30
 source: gdoc
@@ -52,10 +52,10 @@ Thus, the society is born. Colonizing and ruling the rest of the solar system re
 
 There were still hundreds of millions of Terran people left over after the ravages of war, the rogue AI, and the poaching to fill out the color pyramid. Some sort of chemical or viral agent was then used to sterilize all of them. It is important for the characterization of the society that the first thing they did after becoming a fully fledged state was:
 
-*             
-            Create permanent slave castes for the people they conquered  
-            
-*           Genocide everyone else that they had no use for
+> *             
+> Create permanent slave castes for the people they conquered  
+>             
+> *           Genocide everyone else that they had no use for
 
 2.  ## The Society of The Society  
     
