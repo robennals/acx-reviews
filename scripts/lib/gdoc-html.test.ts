@@ -968,6 +968,34 @@ test('convertGDocToMarkdown blockquotes a text-indent paragraph ONLY when it is 
     `non-italic text-indent paragraph must NOT be blockquoted; got: ${out}`);
 });
 
+test('convertGDocToMarkdown wraps non-italic text-indent paragraphs when introduced by a colon-ending sentence', async () => {
+  // Real cases: Bellum Catilinae's Latin/English quote pairs, Bleeding Edge's
+  // multi-line Pynchon dialogue, Catullus's Ice Cube lyrics. The Latin is
+  // italic (caught by the existing italic rule) but the English translation
+  // / dialogue lines are non-italic. The signal that distinguishes them
+  // from reviewer-prose text-indent (the-righteous-mind, etc.) is the
+  // introducer: a sentence ending in `:` or `,` like "Cicero at his best
+  // is lyrical:" or "Catullus then wrote,".
+  const html = `<html><head><style>.c0{text-indent:36pt}.ci{font-style:italic}</style></head><body>` +
+    `<p><span>As a Latin stylist, Cicero at his best is lyrical:</span></p>` +
+    `<p class="c0"><span class="ci">Quo usque tandem abutere, Catilina, patientia nostra?</span></p>` +
+    `<p class="c0"><span>How long, Catiline, will you abuse our patience?</span></p>` +
+    `<p><span>Sallust at his best is syncopated, arresting:</span></p>` +
+    `<p class="c0"><span class="ci">Namque pauci libertatem, pars magna iustos dominos volunt.</span></p>` +
+    `<p class="c0"><span>Because few prefer liberty, the greater part desire only fair masters.</span></p>` +
+    `</body></html>`;
+  const { convertGDocToMarkdown } = await import('./gdoc-html.ts');
+  const out = convertGDocToMarkdown(html);
+  assert.ok(/^> _Quo usque tandem/m.test(out),
+    `italic Latin must be blockquoted; got: ${out}`);
+  assert.ok(/^> How long, Catiline/m.test(out),
+    `non-italic English translation must follow Latin into the blockquote (run started after colon); got: ${out}`);
+  assert.ok(/^> _Namque pauci/m.test(out),
+    `second italic Latin must be blockquoted; got: ${out}`);
+  assert.ok(/^> Because few prefer/m.test(out),
+    `second non-italic English translation must be blockquoted; got: ${out}`);
+});
+
 test('convertGDocToMarkdown wraps a paragraph indented via a SPLIT-class combination (margin-left in one class, margin-right in another)', async () => {
   // Real example from "Disunited Nations" (2021): a quoted block had
   // `<p class="c97 c32 c117">` where c97 carried only `margin-right:33.1pt`
